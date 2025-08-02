@@ -44,7 +44,7 @@ La **bonté** divine m’incite à l’humilité. La **vérité** éternelle m�
 
 Plus je réalise la vérité, la beauté et la bonté, plus mon âme grandit dans l’appréciation et la compréhension de la gracieuse personnalité de Dieu. Cette devise d’amour est le médium d’échange céleste dans les relations divines ; l’amitié et le service sont les fruits terrestres de la croissance cosmique de Dieu, et toutes ces interactions ont un potentiel divin. « L’amour est le désir de faire du bien aux autres. »
 
-Le progrès spirituel est donc notre réponse à l’invitation : avoir les bras grands ouverts pour recevoir l’amour librement donné. Si nous recherchons cette abondance, nos réserves spirituelles — gérée et gardée par notre esprit intérieur de Dieu — seront bientôt remplies. Cette heureuse situation encourage le partage des richesses !
+Le progrès spirituel est donc notre réponse à l’invitation : avoir les bras grands ouverts pour recevoir l’amour librement donné. Si nous recherchons cette abondance, nos réserves spirituelles — gérée et gardée par notre esprit intérieur de Dieu — seront bientôt remplies. Cette heureuse situation encourage le partage des richesses !
 
 La réticence à aimer nos compagnons humains imparfaits fondra à mesure que la lumière spirituelle dissipera nos ombres disgracieuses. Nous découvrons que la communion avec notre Créateur garantit le dépôt direct de l’amour divin. Et nous apprenons que la clé qui déverrouille l’infinie générosité de l’affection intime de notre Père est tout simplement de l’aimer de tout notre cœur.
 

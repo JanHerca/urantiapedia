@@ -47,11 +47,11 @@ La comunidad latinoamericana se reunió para escuchar las presentaciones de los 
 
 Una de estas presentaciones nos puso al día de la membresía mundial de la Asociación Urantia. El presidente internacional saliente, Chris Wood, dirigió un debate con los dos candidatos que se presentaban al cargo: Merindi Swadling (Australia) y Enrique Traver (Brasil). Hablaron de los logros de la Asociación en 2020 y de lo que se puede esperar en 2021 y más allá.
 
-Cientos de lectores de todo el mundo disfrutaron de las presentaciones gracias al servicio de traducción simultánea ofrecido. También hubo tiempo para hacer preguntas y ofrecer comentarios y visiones personales sobre las enseñanzas compartidas. 
+Cientos de lectores de todo el mundo disfrutaron de las presentaciones gracias al servicio de traducción simultánea ofrecido. También hubo tiempo para hacer preguntas y ofrecer comentarios y visiones personales sobre las enseñanzas compartidas. 
 
 La clausura del evento contó con una _jam session_ del músico mexicano Ramiro Jarkyn, estudiante de _El libro de Urantia_ desde hace mucho tiempo, que tocó la guitarra y cantó canciones latinoamericanas. Fue una celebración divertida y fraternal.
 
-El evento tuvo lugar vía Zoom y fue retransmitido en directo en Facebook. Pueden ver las grabaciones de vídeo aquí:
+El evento tuvo lugar vía Zoom y fue retransmitido en directo en Facebook. Pueden ver las grabaciones de vídeo aquí:
 
 https://www.youtube.com/playlist?list=PLYsuKvvHWuuYVTw5GbKvP4sS_bbyIrCBn
 

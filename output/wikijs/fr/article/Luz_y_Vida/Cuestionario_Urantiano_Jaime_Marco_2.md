@@ -61,7 +61,7 @@ Pourquoi je pense l'avoir trouvé ? Dieu sait quelles en étaient les raisons, m
 
 Je peux aussi penser que nos assistants pensaient que j'étais prêt à commencer à lire et m'ont aidé en jouant avec les «  coïncidences  ». Oui, c'est vrai que je l'ai trouvé à un moment où j'étais très réceptif au type d'informations qu'il contenait et cela m'a rendu la lecture beaucoup plus facile.
 
-REMARQUE : Une fois que j’ai découvert _Le Livre d’Urantia_, je n’ai plus été attiré par les _Chevaux de Troie_. Je n'ai jamais continué au-delà de 9.
+REMARQUE : Une fois que j’ai découvert _Le Livre d’Urantia_, je n’ai plus été attiré par les _Chevaux de Troie_. Je n'ai jamais continué au-delà de 9.
 
 ## 2. Quelle a été votre première impression lorsque vous l'avez lu ?
 
@@ -117,7 +117,7 @@ Et c’est pourquoi Il nous a donné le libre arbitre.
 
 ## 9. Avez-vous pris conscience de la présence de votre Ajusteur ?
 
-… En tout cas, il est toujours préférable pour un être humain de rejeter par erreur une manifestation d’Ajusteur comme une expérience purement humaine, plutôt que de commettre l’erreur d’exalter une réaction du mental mortel dans la sphère de la dignité divine… 110 : 5.5 (1208.4 )
+… En tout cas, il est toujours préférable pour un être humain de rejeter par erreur une manifestation d’Ajusteur comme une expérience purement humaine, plutôt que de commettre l’erreur d’exalter une réaction du mental mortel dans la sphère de la dignité divine… 110 : 5.5 (1208.4 )
 
 Selon cette citation, je préfère dire non. Je suis convaincu qu'il est là et parfois, dans des états de conscience sensibles, je crois en voir la trace subtile dans les résultats de mes pensées, mais jusqu'ici c'est une question de foi. Très renforcé par les détails, mais la foi.
 

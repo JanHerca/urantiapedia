@@ -48,7 +48,7 @@ Chers frères et sœurs,
 
 Cette année, nous avons préparé un congrès européen dynamique et unique qui se veut une lumière pour nos frères et sœurs du continent. Il se tiendra du 20 au 23 octobre à Torremolinos, Málaga, Espagne.
 
-Les statistiques montrent que la laïcité triomphe en Europe et que les idées bibliques ne sont pas bien reçues. \*  Cependant, il y a une nuance très importante, car la majorité croit encore en Dieu. Par conséquent, y a-t-il une opportunité pour les enseignements du Livre d’Urantia ? Tout à fait : saisissons-la !
+Les statistiques montrent que la laïcité triomphe en Europe et que les idées bibliques ne sont pas bien reçues. \*  Cependant, il y a une nuance très importante, car la majorité croit encore en Dieu. Par conséquent, y a-t-il une opportunité pour les enseignements du Livre d’Urantia ? Tout à fait : saisissons-la !
 
 
 

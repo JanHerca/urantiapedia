@@ -55,7 +55,7 @@ Ces « œuvres de Dieu » ont récemment été validées, alors que Marcelino a 
 
 La tâche des dernières décennies n’a pas été facile. Au cours de ses diverses années de ministère auprès de ses frères et sœurs vénézuéliens, Marcelino a dû surmonter les risques d’attaques, de problèmes de santé, d’intenses exigences physiques, d’épuisement, de difficultés, de rejets et de déceptions de toutes sortes. Ce qu’il a accompli comme service pour le Père, est vraiment exemplaire, même avec des ressources financières extrêmement limitées.
 
-Mais tout cela a été une réalité, car ce que Marcelino a fait en pratiquant un service affectueux se résume sagement en une phrase : « En nous soumettant à la volonté de Dieu, nous apprenons qu’il rend possible ce que nous considérions comme impossible. »
+Mais tout cela a été une réalité, car ce que Marcelino a fait en pratiquant un service affectueux se résume sagement en une phrase : « En nous soumettant à la volonté de Dieu, nous apprenons qu’il rend possible ce que nous considérions comme impossible. »
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Venezuela2-300x225.jpg">

@@ -57,8 +57,8 @@ Les dossiers qui composent le projet *Urantiapedia* sur Github sont les suivants
     - **books-xx** : Catalogues de livres pour la bibliothèque Urantiapedia.
     - **topic-index-xx** : *Index des termes* traduits dans chaque langue au format TXT (`topic-index-es`, `topic-index-en`, etc.)
 - **output** : dossier contenant les fichiers de sortie qui seront téléchargés en masse sur le site *Urantipedia*.
-    - **wikijs** : dossier avec le contenu dans les formats pris en charge par *Wiki.js*.
-      - **xx** : Contenu pour chaque langue dans son propre dossier (`en`, `es`, etc.). La structure pour chaque langue est la même et est la suivante :
+    - **wikijs** : dossier avec le contenu dans les formats pris en charge par *Wiki.js*.
+      - **xx** : Contenu pour chaque langue dans son propre dossier (`en`, `es`, etc.). La structure pour chaque langue est la même et est la suivante :
         - **3dmodel** : Médiathèque (Modèles 3D).
         - **article** : Hémérothèque (articles et aides à l'étude) organisés en dossiers par auteur. Généralement au format Markdown.
         - **Bible** : Contenu de la Bible. :warning: IMPORTANT : les fichiers de ce dossier *ne doivent pas être modifiés*. Au lieu de cela, vous devez éditer les fichiers dans le dossier « input » et ensuite utiliser *Urantiapedia Tools*.

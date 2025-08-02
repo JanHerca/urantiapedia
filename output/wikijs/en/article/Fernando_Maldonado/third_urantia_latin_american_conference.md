@@ -50,7 +50,7 @@ The conference began on Thursday, October 26th with the reception of guests from
 
 Friday morning began with an exceptional presentation by Enrique Traver on “The Fifth Revelation in the 21st Century,” followed by multiple topics presented by different speakers.
 
-His talk on “Mission and Importance of the Urantia Revelation” explored how the book’s emphasis of love and service is essential to counteract the materialism and secularism prevailing in this century.  The book’s thoughts on evangelism was discussed: how we bring the new and good news to the world so that our brothers and sisters understand that we are not alone or abandoned; that a perfect Father has us in his hands every day; and how we can give the second mile of service, following in the footsteps of the Master. A speech by Urantia Foundation Executive Director, Tamara Strumfeld, laid out the Foundation’s role and vision for the twenty-first century.
+His talk on “Mission and Importance of the Urantia Revelation” explored how the book’s emphasis of love and service is essential to counteract the materialism and secularism prevailing in this century. The book’s thoughts on evangelism was discussed: how we bring the new and good news to the world so that our brothers and sisters understand that we are not alone or abandoned; that a perfect Father has us in his hands every day; and how we can give the second mile of service, following in the footsteps of the Master. A speech by Urantia Foundation Executive Director, Tamara Strumfeld, laid out the Foundation’s role and vision for the twenty-first century.
 
 Speakers from Mexico, Argentina, Brazil, Chile, Bolivia, Colombia and the United States, spoke on various topics including; “The Universal Father,” presented by Hector Landin, “The Seraphic Ministry,” by Ramiro Ramirez, “The Will of the Father,” by Andres Ramirez, “The True Nature of Religion,” by Felipe Arrigorriaga, and concluding with a presentation by the Urantia Youth Group. Participants shared ideas and experiences on these topics in workshops.
 
@@ -60,7 +60,7 @@ Speakers from Mexico, Argentina, Brazil, Chile, Bolivia, Colombia and the United
 
 After another delicious dinner attendees enjoyed a Mexican-style welcome by a mariachi group who brought the guests to their feet, followed by a guitar and voice recital by Ramiro and Mariana Jarkyn.
 
-On Saturday, after meditation time and breakfast, Alfredo Esquivel presented “Cosmic Citizenship,” after which participants took a three-hour expedition to the famous pyramids of Teotihuacán.  The afternoon plenary titled, “The Foundations of Religious Faith,” was given by Daliela and Jacobo Dudo, followed by more in-depth workshops. The evening concluded with another concert by Ramiro and Mariana.
+On Saturday, after meditation time and breakfast, Alfredo Esquivel presented “Cosmic Citizenship,” after which participants took a three-hour expedition to the famous pyramids of Teotihuacán. The afternoon plenary titled, “The Foundations of Religious Faith,” was given by Daliela and Jacobo Dudo, followed by more in-depth workshops. The evening concluded with another concert by Ramiro and Mariana.
 
 On Sunday, the last day of the conference, Fabiola Domínguez of Bolivia delivered an inspired presentation on the topic “The Reality of the Religious Experience.” After a brief introduction to the Urantiapedia website, a project funded with the assistance of Urantia Foundation’s Mustard Seed initiative, Enrique Traver closed this enjoyable, memorable event.
 

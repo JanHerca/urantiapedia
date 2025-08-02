@@ -43,7 +43,7 @@ Chers amis et lecteurs du Livre d’Urantia,
 
 C’est un plaisir de vous informer des dernières activités du comité de l’éducation de l’Association Urantia Internationale.
 
-Nous organisons un cercle de webinaires mensuels en direct. Le 24 mars, Gaétan Charland, président du comité des groupes d’étude, a présenté le thème « Améliorer la qualité et l’efficacité des groupes d’études ». Dans ce webinaire, Gaétan a exploré comment les groupes d’étude pourraient être améliorés pour accomplir la mission du Livre d’Urantia. Comme il est stipulé dans le livre :
+Nous organisons un cercle de webinaires mensuels en direct. Le 24 mars, Gaétan Charland, président du comité des groupes d’étude, a présenté le thème « Améliorer la qualité et l’efficacité des groupes d’études ». Dans ce webinaire, Gaétan a exploré comment les groupes d’étude pourraient être améliorés pour accomplir la mission du Livre d’Urantia. Comme il est stipulé dans le livre :
 <br style="clear:both;"/>
 
 > _… pour élargir la conscience cosmique et améliorer la perception spirituelle._ <a id="a48_82"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
@@ -56,7 +56,7 @@ Notre attention a également été attirée par le défi énoncé à la fin du d
 
 > _… Le grand défi pour l’homme moderne est de parvenir à une meilleure communication avec le moniteur divin qui habite dans l’esprit humain._ <a id="a56_143"></a>[[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34)]
 
-Pour améliorer l’efficacité de votre groupe d’étude, Gaétan a proposé les suggestions suivantes :
+Pour améliorer l’efficacité de votre groupe d’étude, Gaétan a proposé les suggestions suivantes :
 
 - Avoir des objectifs clairs et les partager avec le groupe.
 - Acquérir de nouvelles techniques d’apprentissage et d’enseignement.
@@ -93,7 +93,7 @@ https://youtu.be/zerUMpo1vTI
 
 In addition, our Urantia Association Education Committee organized a Spanish Online Workshop series, with 13 sessions, about “Leadership and Teaching According to _The Urantia Book_ Teachings.” This series was sponsored by the Urantia Association of Brazil. Some themes presented in this workshop series were:
 
-En outre, notre Comité d’éducation de l’Association Urantia Internationale a organisé une série d’ateliers en ligne en espagnol, avec 13 rencontres, sur « Leadership et enseignement selon les enseignements du Livre d’Urantia ». Cette série a été commanditée par l’Association Urantia du Brésil. Certains thèmes présentés dans cette série d’ateliers étaient :
+En outre, notre Comité d’éducation de l’Association Urantia Internationale a organisé une série d’ateliers en ligne en espagnol, avec 13 rencontres, sur « Leadership et enseignement selon les enseignements du Livre d’Urantia ». Cette série a été commanditée par l’Association Urantia du Brésil. Certains thèmes présentés dans cette série d’ateliers étaient :
 
 - « Le mandat de publication du Livre d’Urantia et la formation des dirigeants et des enseignants » présentés par Jeannie Vázquez (Uruguay)
 - « Le lien avec l’esprit de vérité » présenté par Gerardo Leche (Guatemala)

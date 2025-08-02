@@ -41,7 +41,7 @@ _By Pre McGee, New South Wales, Australia_
 
 I have been a student of the _Urantia Book_ teachings for over 35 years. This book and its teachings have been my guide to strive for new informed levels of living and service.
 
-During my early years I went down many “rabbit holes” searching for who I am.  Along the way, I joined a Christian study group where I learned a new philosophy of living. They introduced me to a different cosmology than the one I’d known before, teaching me about my relationship with our Father and the concept of a Thought Adjuster. Years later, when I was gifted a copy of _The Urantia Book_, I found out where these teachings had come from.
+During my early years I went down many “rabbit holes” searching for who I am. Along the way, I joined a Christian study group where I learned a new philosophy of living. They introduced me to a different cosmology than the one I’d known before, teaching me about my relationship with our Father and the concept of a Thought Adjuster. Years later, when I was gifted a copy of _The Urantia Book_, I found out where these teachings had come from.
 
 I’m grateful for how my original introduction provided a strong foundation on which to read _The Urantia Book_. I learned that I start in this life and progress all the way to standing in the presence of our Father by the decisions I make. I learned that sharing my inner life with God is important, and that loving my brothers and sisters is God’s will. Finding opportunities to help others in small ways each day is important to me, as is being a volunteer with Red Cross Emergency Services and other volunteer organizations.
 
@@ -53,7 +53,7 @@ Jesus’ answer to Ganid about his personal ministry explains the importance of 
 
 Trusting God, living by faith with God as my partner, underpins my daily life. At the end of each day, I consider how motivated I was by unconditional love in all my activities. I try to learn by my mistakes and trust God that one day I can attain the perfection of character which Jesus demonstrated—not on Urantia, for I have a lot to learn—but on the way to Paradise.
 
-The book tells us we do not progress without spiritual insights and experiential growth which comes from the choices we make, our sincerity, and our choosing to do God’s will.  I try to see everything in daily life as an opportunity for growth**.**
+The book tells us we do not progress without spiritual insights and experiential growth which comes from the choices we make, our sincerity, and our choosing to do God’s will.  I try to see everything in daily life as an opportunity for growth**.**
 
 From time to time challenges come to each of us and it is important to know that “in liaison with God, nothing—absolutely nothing—is impossible” [UB 26:5.3](/en/The_Urantia_Book/26#p5_3) Challenges have definitely helped cement my faith in God, and I have found the best resource is to know the life of Jesus.
 

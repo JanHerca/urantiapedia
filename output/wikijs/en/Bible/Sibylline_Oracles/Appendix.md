@@ -154,7 +154,7 @@ Made subject, things incomprehensible.
 For he himself alone, who made these things
 At the beginning, knows, the incorrupt
 Eternal Maker, dwelling in the heaven,
-Bringing unto the good good recompense
+Bringing unto the good good recompense
 25 Much more abundant, but awakening wrath
 
 THIRD FRAGMENT.

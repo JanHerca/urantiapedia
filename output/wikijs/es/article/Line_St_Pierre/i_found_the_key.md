@@ -53,7 +53,7 @@ En febrero de 2020 completé el curso de Ministerio del Maestro en la Escuela de
 
 He aprendido a tender un puente entre lo que la persona ya cree y lo que _El libro de Urantia_ enseña, construyendo sobre lo que ya existe y adornándolo con mayores profundidades de la revelación. También he aprendido a elevar las conversaciones con personas que no tienen conocimientos espirituales. Jesús nunca quitaba nada de lo que decían sus oyentes, siempre añadía a lo que era verdad.
 
-Esta escuela está dedicada exclusivamente al desarrollo de líderes y maestros del evangelio de Jesús que utilizan _El libro de Urantia_ como guía de referencia y que lo hacen de forma maravillosa. 
+Esta escuela está dedicada exclusivamente al desarrollo de líderes y maestros del evangelio de Jesús que utilizan _El libro de Urantia_ como guía de referencia y que lo hacen de forma maravillosa. 
 
 El privilegio de haber encontrado _El libro de Urantia_ nos hace estar eternamente en deuda con nuestros Ajustadores del Pensamiento y con el Espíritu de la Verdad, por lo que también debemos trabajar para preparar a otros con el fin de que lleven a cabo la obra de Jesús más allá de nuestra generación para traer más luz a este planeta.
 

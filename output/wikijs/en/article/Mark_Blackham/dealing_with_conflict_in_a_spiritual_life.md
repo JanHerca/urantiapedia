@@ -70,7 +70,7 @@ Jesus said even more on this subject:
 
 Our Master makes it clear that we can expect much trouble, tribulation, struggle, and conflict in our ongoing efforts to prosper in the spirit. But that’s not all. We are expected to accept our struggles gladly and to happily perform our obligations to God, family, and society.
 
-The notion that a spiritual life is full of adversity and obligation appears to be a far cry from fashionable views—that somehow a spiritual journey is akin to  “a fantastic and mystic experience of indescribable feelings of ecstasy” (<a id="a72_235"></a>[UB 101:1.1](/en/The_Urantia_Book/101#p1_1)) or that it’s a mental state of utopian bliss.
+The notion that a spiritual life is full of adversity and obligation appears to be a far cry from fashionable views—that somehow a spiritual journey is akin to  “a fantastic and mystic experience of indescribable feelings of ecstasy” (<a id="a72_235"></a>[UB 101:1.1](/en/The_Urantia_Book/101#p1_1)) or that it’s a mental state of utopian bliss.
 
 > Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. <a id="a74_143"></a>[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)
 
@@ -95,7 +95,7 @@ The Master’s yoke is discovering and living the will of God by means of the tr
 
 > There is but one struggle for those who enter the kingdom, and that is to fight the good fight of faith. The believer has only one battle, and that is against doubt—unbelief. <a id="a95_177"></a>[UB 159:3.8](/en/The_Urantia_Book/159#p3_8)
 > 
-> I do not promise to deliver you from the waters of adversity, but I do promise to go with you through all of them.  <a id="a97_118"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12)
+> I do not promise to deliver you from the waters of adversity, but I do promise to go with you through all of them. <a id="a97_118"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12)
 
 ## The Benefits of Conflict
 

@@ -100,7 +100,7 @@ Pour connaître les options d'hébergement à proximité du lieu de l’événem
 
 L'aéroport international le plus proche est l’aéroport international Pierre-Elliott-Trudeau de Montréal, situé à deux heures du lieu de l’événement. Plusieurs options de transport terrestre sont disponibles. Veuillez utiliser ce lien pour obtenir des informations plus détaillées – [Ground Transportation](http://urantia-association.org/ground-transportation-to-from-airport/ "Detailed Ground Transportation Info").
 
-## Besoin d'aide financière ?
+## Besoin d'aide financière ?
 
 La date limite pour les demandes d'aide financière pour la conférence est désormais passée.
 
@@ -130,9 +130,9 @@ Les séances plénières et les ateliers de la conférence offriront également 
 <img src="/image/article/IUA_Tidings/Bishops-University-Astronomy-Ad-2014.jpg">
 </figure>
 
-L’Université Bishop’s dispose d’un nouvel observatoire doté des télescopes les plus récents. Le vendredi soir 31 juillet, il y aura une présentation spéciale de 45 minutes intitulée « Une brève visite de l’univers » suivie d’une observation au télescope sur le pont de l’observatoire ASH. Le groupe se rendra ensuite à l’intérieur du dôme pour observer le ciel à travers le nouveau télescope PlaneWave 17″ (f/6,8) à conception optique corrigée Dall-Kirkham. Les billets peuvent être achetés lors de votre inscription.
+L’Université Bishop’s dispose d’un nouvel observatoire doté des télescopes les plus récents. Le vendredi soir 31 juillet, il y aura une présentation spéciale de 45 minutes intitulée « Une brève visite de l’univers » suivie d’une observation au télescope sur le pont de l’observatoire ASH. Le groupe se rendra ensuite à l’intérieur du dôme pour observer le ciel à travers le nouveau télescope PlaneWave 17″ (f/6,8) à conception optique corrigée Dall-Kirkham. Les billets peuvent être achetés lors de votre inscription.
 
-Pour plus d’informations, rendez-vous sur : [http://physics.ubishops.ca/observatory/](http://physics.ubishops.ca/observatory/)
+Pour plus d’informations, rendez-vous sur : [http://physics.ubishops.ca/observatory/](http://physics.ubishops.ca/observatory/)
 
 Nous espérons que vous planifiez vos vacances d'été dans cette belle région du Québec, mais plus important encore, joignez-vous à vos frères et sœurs pour cet événement international spécial.
 

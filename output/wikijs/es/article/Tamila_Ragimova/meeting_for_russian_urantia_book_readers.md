@@ -50,7 +50,7 @@ Bienvenidos a la primera reunión de lectores de habla rusa de _El libro de Uran
 
 [Clic aquí para información en ruso](http://urantia-association.org/2016/07/24/%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%b2-%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8/?lang=ru)
 
-## Tema: Ser amigos y amarse los unos a los otros
+## Tema: Ser amigos y amarse los unos a los otros
 
 > _Aunque no podéis observar al espíritu divino trabajando en vuestra mente, existe un método práctico para descubrir hasta qué punto habéis cedido el control de los poderes de vuestra alma a la enseñanza y a la dirección de este espíritu interior del Padre celestial: es el grado de vuestro amor por vuestros semejantes humanos. Este espíritu del Padre participa del amor del Padre, y a medida que domina al hombre, lo conduce infaliblemente en la dirección de la adoración divina y de la consideración afectuosa por los semejantes._ <a id="a54_535"></a>[[LU 146:3.6](/es/The_Urantia_Book/146#p3_6)]
 

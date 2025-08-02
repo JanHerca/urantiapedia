@@ -47,7 +47,7 @@ Porque buscamos tener claros nuestros propósitos en la vida y que estén en arm
 
 Porque buscamos comprender mejor los orígenes y los destinos mientras nos preparamos para elevarnos y elevar a otros hacia una nueva claridad.
 
-Porque buscamos la verdad para afianzar nuestros deseos de conocer mejor a Dios y a Sus hijos.
+Porque buscamos la verdad para afianzar nuestros deseos de conocer mejor a Dios y a Sus hijos.
 
 Porque buscamos inspiración en las enseñanzas de actualización y clarificación de los seres celestiales que compartieron su conocimiento superior. Nos conocen mejor de lo que nos conocemos nosotros mismos. Buscamos lo que ellos comparten para reducir nuestra confusión.
 

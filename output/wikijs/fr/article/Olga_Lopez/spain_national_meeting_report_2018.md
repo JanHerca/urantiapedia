@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 La 17e rencontre nationale des lecteurs du Livre d’Urantia en Espagne s’est tenue à Saragosse du 28 avril au 1er mai. Saragosse est la cinquième ville la plus peuplée d’Espagne et se situe entre Madrid et Barcelone. Environ 40 personnes ont participé et sont venues de tous les coins du pays.
 
-Le thème du congrès était « Vivre les enseignements ». C’était une réunion principalement basée sur l’expérience personnelle et qui était l’une des plus remarquables de tous les temps. Certains bénévoles ont partagé leurs expériences en fonction des quatre catégories suivantes :
+Le thème du congrès était « Vivre les enseignements ». C’était une réunion principalement basée sur l’expérience personnelle et qui était l’une des plus remarquables de tous les temps. Certains bénévoles ont partagé leurs expériences en fonction des quatre catégories suivantes :
 
 1. Maîtrise de soi et contrôle de soi
 2. Comment nous voyons notre propre mort
@@ -67,7 +67,7 @@ Dimanche soir, nous nous sommes amusés à un jeu créé par certains membres du
 <img src="/image/article/IUA_Tidings/Walk-in-Zaragoza-300x225.jpg">
 </figure>
 
-Le lundi après-midi, nous avons marché dans la ville et avons visité quelques sites célèbres. Pour renforcer notre camaraderie, nous avons terminé notre promenade dans le très célèbre quartier de Saragosse connu sous le nom « El Tubo » (Le Tube) qui est plein de restaurants et de bars où nous avons apprécié les bonnes conversations et la nourriture délicieuse ! Mardi, le dernier jour, selon notre tradition habituelle, l’Association Urantia d’Espagne a tenu sa réunion annuelle. Tous les participants au congrès ont été invités, qu’ils soient membres ou non. Cette année nous avons vu des changements au Conseil d’administration : Carmelo Martinez et Eduardo Altuzarra ont démissionné de leur poste de président et de trésorier et ont été remplacés respectivement par Ginés Avilés et Ana María García. Continuez le bon travail les amis !
+Le lundi après-midi, nous avons marché dans la ville et avons visité quelques sites célèbres. Pour renforcer notre camaraderie, nous avons terminé notre promenade dans le très célèbre quartier de Saragosse connu sous le nom « El Tubo » (Le Tube) qui est plein de restaurants et de bars où nous avons apprécié les bonnes conversations et la nourriture délicieuse ! Mardi, le dernier jour, selon notre tradition habituelle, l’Association Urantia d’Espagne a tenu sa réunion annuelle. Tous les participants au congrès ont été invités, qu’ils soient membres ou non. Cette année nous avons vu des changements au Conseil d’administration : Carmelo Martinez et Eduardo Altuzarra ont démissionné de leur poste de président et de trésorier et ont été remplacés respectivement par Ginés Avilés et Ana María García. Continuez le bon travail les amis !
 
 Après le déjeuner, c’était le moment de nous dire au revoir — la partie la plus difficile de toutes — mais nous avons gardé des souvenirs des merveilleux moments que nous avons tous passés ensemble. J’ai très hâte à la prochaine fois que nous nous reverrons !
 

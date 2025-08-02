@@ -65,11 +65,11 @@ Dieu exige des progrès de chacun d’entre nous sur le chemin de notre vie. L�
 
 Les statistiques du bureau de la justice des États-Unis indiquent un taux d’arrestation très élevé après la libération, ce qui entraine un retour en prison. Une étude sur la récidive des détenus de l’État en 2018 a suivi un groupe d’anciens détenus de 30 États pendant une période de neuf ans suite à leur libération (2005-2014).
 
-Voici quelques points saillants de l’étude :
+Voici quelques points saillants de l’étude :
 
 - Sur les 401 288 détenus du pays libérés en 2005, 1 994, 000 arrestations au cours des neuf ans, soit en moyenne 5 arrestations par détenu libéré.
-- 44 % des détenus libérés ont été arrêtés au cours de la première année suivant leur libération.
-- On estime que 68 % des détenus libérés ont été arrêtés dans les trois ans, 79 % dans les six ans et 83 % dans les neuf ans.
+- 44 % des détenus libérés ont été arrêtés au cours de la première année suivant leur libération.
+- On estime que 68 % des détenus libérés ont été arrêtés dans les trois ans, 79 % dans les six ans et 83 % dans les neuf ans.
 
 Nous devons nous rappeler que les auteurs du Livre d’Urantia nous disent que les principaux inhibiteurs de la croissance spirituelle sont les préjugés et l’ignorance. Nous pouvons aider les détenus à réduire ces deux obstacles en leur offrant les vérités supérieures que l’on retrouve dans _Le Livre d’Urantia_ comme un acte d’amour au service de notre prochain. En étant exposé aux merveilleux enseignements de Jésus, il est fort possible que la tentation de retourner à une vie de crime soit grandement diminuée, peut-être même complètement éradiquée.
 

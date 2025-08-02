@@ -43,15 +43,15 @@ Cherchez-vous un moyen facile et encourageant de débuter votre apprentissage du
 
 Alors, consultez le nouveau programme de Urantia University Institute pour l’étude autodirigée des différents fascicules du Livre d’Urantia. Ces cours sont conçus pour les gens occupés, dans n’importe quel fuseau horaire du monde entier, qui veulent commencer à apprendre dès maintenant !
 
-Des sélections des parties I, II, III et IV seront disponibles d’ici la fin décembre, et d’autres en 2021 ! Découvrez les cours disponibles en avant-première [ici](https://airtable.com/shrUrlMvogs3omYzp/tblnWG7hnhlHtk9eB).
+Des sélections des parties I, II, III et IV seront disponibles d’ici la fin décembre, et d’autres en 2021 ! Découvrez les cours disponibles en avant-première [ici](https://airtable.com/shrUrlMvogs3omYzp/tblnWG7hnhlHtk9eB).
 
 **Découvrez** les enseignements les plus avancés et les plus révélateurs du monde sur la nature de Dieu, la structure et l’organisation de l’univers, les différentes formes et niveaux de la réalité cosmique, la myriade d’ordres de personnalités divines et votre relation personnelle avec Dieu.
 
 **Apprenez** le merveilleux avenir qui nous attend après la mort, le voyage d’ascension des mortels vers une croissance spirituelle progressive et vers l’accomplissement des mondes des maisons de notre système local jusqu’au Paradis au centre de la création.
 
-**Saisissez** leprocessus dynamique de la vie évolutionnaire et expérientielle dans le Grand Univers : la réalisation matérielle, mentale et spirituelle divinement coordonnée du plan des Déités du Paradis par lequel le Père Universel s’engage dans la synthèse du pouvoir et de la personnalité.
+**Saisissez** leprocessus dynamique de la vie évolutionnaire et expérientielle dans le Grand Univers : la réalisation matérielle, mentale et spirituelle divinement coordonnée du plan des Déités du Paradis par lequel le Père Universel s’engage dans la synthèse du pouvoir et de la personnalité.
 
-**Approfondissez** votre compréhension du sens profond de la vie et des enseignements de Jésus qui ont parfaitement démontré la façon de vivre pleinement dans la foi — la confiance en Dieu et l’accomplissement de la volonté du Père Universel. 
+**Approfondissez** votre compréhension du sens profond de la vie et des enseignements de Jésus qui ont parfaitement démontré la façon de vivre pleinement dans la foi — la confiance en Dieu et l’accomplissement de la volonté du Père Universel. 
 
 [L’étude autodirigée](https://urantiauniversity.org/sys/website/?pageId=1804236) de UUI offre une opportunité aux étudiants nouveaux et avancés du Livre d’Urantia de commencer à maîtriser le contenu des fascicules, d’explorer les ressources, d’appliquer la connaissance et de s’engager activement dans les significations et les valeurs de la révélation. Voici un rapide tour d’horizon de ce à quoi ressemblent les cours.
 

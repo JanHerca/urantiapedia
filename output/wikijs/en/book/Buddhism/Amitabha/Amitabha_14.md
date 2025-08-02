@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T12:26:51Z
 
 <span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
-Açvaghosha saw that every eye was  intent upon him, and so he told the story of the white Elephant. He said:
+Açvaghosha saw that every eye was intent upon him, and so he told the story of the white Elephant. He said:
 
 “There was a noble and mighty elephant, an elephant white in color, with a strong trunk and long tusks, trained by a good master, and willing and serviceable in all the work that elephants are put to. And this noble and mighty elephant being led by his guide, the good master who had trained him, came to the land of the blind. And it was noised about in the land of the blind that the noble and mighty elephant, the king of all beasts, the wisest of all animals, the strongest and yet the meekest and kindliest of creatures, had made his appearance in their country. So the wise men and teachers of the blind came to the place where the elephant was and every one began to investigate his shape and figure and form. And when <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> he elephant was gone they met and discussed the problem of the noble and mighty beast, and there were some who said he was like a great thick snake; others said he was like a snake of medium size. The former had felt the trunk, the latter the tail. Further there were some who claimed that his figure was like that of a high column, others declared he was large and bulky like a big barrel, still others maintained he was smooth and hard but tapering. Some of the blind had taken hold of one of the legs, others had reached the main body, and still others had touched the tusks. Every one proposed his view and they disputed and controverted, and wrangled, and litigated, and bickered, and quarreled, and called each other names, and each one imprecated all the others, and each one denounced all the others, and they abused and scolded, and they anathematised and excommunicated, and finally every one of them swore that every one else was a liar and was cursed on account of his heresies. These blind men, every one of them honest in his contentions, being sure of having the truth and relying upon his own experience, <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> ormed schools and sects and factions and behaved in exactly the same way as you see the priests of the different creeds behave. But the master of the noble, mighty elephant knows them all, he knows that every one of them has a parcel of the truth, that every one is right in his way, but wrong in taking his parcel to be the whole truth.
 
@@ -57,9 +57,9 @@ When Açvaghosha had finished the parable of the noble and mighty elephant, the 
 <span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 “Commit no wrong, but good deeds do,
- And let thy heart be pure.
- All Buddhas teach this doctrine true
- Which will for aye endure."[24](/en/book/Buddhism/Amitabha/Amitabha_16#an_24)
+ And let thy heart be pure.
+ All Buddhas teach this doctrine true
+ Which will for aye endure."[24](/en/book/Buddhism/Amitabha/Amitabha_16#an_24)
 
 <figure class="table chapter-navigator">
   <table>

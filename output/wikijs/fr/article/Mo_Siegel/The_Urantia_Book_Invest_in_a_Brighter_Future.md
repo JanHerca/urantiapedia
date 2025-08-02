@@ -56,11 +56,11 @@ Notre civilisation se trouve à un carrefour crucial et votre soutien au travail
 
 Votre contribution est plus importante que jamais. Grâce à votre soutien, nous pouvons diffuser ces enseignements et contribuer à l'avènement d'un avenir meilleur.
 
-**Doublez votre impact :** Grâce à cinq généreux donateurs qui se sont engagés à verser 250 000 dollars, chaque dollar que vous donnerez sera doublé ! Rejoignez-nous d'ici le 31 décembre 2024 pour atteindre notre objectif. Votre don soutient les **traductions, l'éducation, la distribution de livres à des prix abordables et la sensibilisation — un** investissement pour un monde plus éclairé.
+**Doublez votre impact :** Grâce à cinq généreux donateurs qui se sont engagés à verser 250 000 dollars, chaque dollar que vous donnerez sera doublé ! Rejoignez-nous d'ici le 31 décembre 2024 pour atteindre notre objectif. Votre don soutient les **traductions, l'éducation, la distribution de livres à des prix abordables et la sensibilisation — un** investissement pour un monde plus éclairé.
 
 [Doner maintenant](https://www.urantia.org/fr/faire-un-don/urantia-foundation)
 
-Nous vous remercions de votre soutien continu. Que l'amour de notre Père céleste vous apporte la paix, à vous et à votre famille, en cette saison !
+Nous vous remercions de votre soutien continu. Que l'amour de notre Père céleste vous apporte la paix, à vous et à votre famille, en cette saison !
 
 <br style="clear:both;"/>
 

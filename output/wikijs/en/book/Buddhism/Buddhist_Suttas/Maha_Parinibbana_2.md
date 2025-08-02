@@ -135,7 +135,7 @@ Then the Likkhavis cast up their hands[^8], exclaiming, ‘We are outdone by thi
 
 ‘O brethren, let those of the brethren who have never seen the Tâvati<i>m</i>sa gods, gaze upon this company of the Li<i>kkh</i>avis, behold this company of the Li<i>kkh</i>avis, compare this company of the Li<i>kkh</i>avis—even as a company of Tâvati<i>m</i>sa gods[^10].’
 
-21\. And when they had ridden as far as the ground was passable for carriages, the Li<i>kkh</i>avis alighted there, and then went on on foot to the place where the Blessed One was, and took their seats respectfully by his side. And when they were thus seated the Blessed One instructed and roused and incited and gladdened them with religious discourse[^11].
+21\. And when they had ridden as far as the ground was passable for carriages, the Li<i>kkh</i>avis alighted there, and then went on on foot to the place where the Blessed One was, and took their seats respectfully by his side. And when they were thus seated the Blessed One instructed and roused and incited and gladdened them with religious discourse[^11].
 
 22\. Then they instructed and roused and incited and gladdened with his words, addressed the Blessed One, and said, ‘May the Blessed One do us the honour of taking his meal, together with the brethren, at our house to-morrow?’
 

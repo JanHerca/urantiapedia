@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Emeka Anazodo, Oke Eletu, Nigeria_
 
-_Note de l'éditeur : Emeka, au nom de l'Initiative de paix d'Urantia, a été l'un des récipiendaires de la première série de subventions de la Graine de Moutarde en 2024. L'article suivant est extrait de son rapport sur la Conférence Urantia nigériane de 2024. Le thème était « Ubuntu — la fraternité de l'homme »._
+_Note de l'éditeur : Emeka, au nom de l'Initiative de paix d'Urantia, a été l'un des récipiendaires de la première série de subventions de la Graine de Moutarde en 2024. L'article suivant est extrait de son rapport sur la Conférence Urantia nigériane de 2024. Le thème était « Ubuntu — la fraternité de l'homme »._
 
 <br style="clear:both;"/>
 
@@ -48,7 +48,7 @@ _Note de l'éditeur : Emeka, au nom de l'Initiative de paix d'Urantia, a été 
 <img src="/image/article/UF_News_Online/2024_12/032.jpg">
 </figure>
 
-La prise de conscience du _Livre d'Urantia_ s'est accrue au Nigeria. En 2022, l'Initiative de Paix Urantia a organisé sa première conférence Urantia à Lagos, au Nigeria, sur le thème de la « Religion de l'Esprit », où nous avons distribué 60 exemplaires du _Livre d'Urantia_. Grâce à une subvention de la Graine de Moutarde de la Fondation Urantia, nous avons pu organiser une deuxième conférence à Lagos l'année dernière, sur le thème de l'amour contagieux, qui a rassemblé des lecteurs et des dirigeants du Livre d'Urantia de tout le Nigéria. Un documentaire sur _l'esprit d'Ubuntu,_ compilé par Pato Banton et Antoinette Rootsdawtah, a été projeté à Lagos en avril de cette année. Ces événements ont immensément contribué à un remarquable regain d'intérêt pour _Le Livre d'Urantia_ parmi les chercheurs de vérité au Nigeria.
+La prise de conscience du _Livre d'Urantia_ s'est accrue au Nigeria. En 2022, l'Initiative de Paix Urantia a organisé sa première conférence Urantia à Lagos, au Nigeria, sur le thème de la « Religion de l'Esprit », où nous avons distribué 60 exemplaires du _Livre d'Urantia_. Grâce à une subvention de la Graine de Moutarde de la Fondation Urantia, nous avons pu organiser une deuxième conférence à Lagos l'année dernière, sur le thème de l'amour contagieux, qui a rassemblé des lecteurs et des dirigeants du Livre d'Urantia de tout le Nigéria. Un documentaire sur _l'esprit d'Ubuntu,_ compilé par Pato Banton et Antoinette Rootsdawtah, a été projeté à Lagos en avril de cette année. Ces événements ont immensément contribué à un remarquable regain d'intérêt pour _Le Livre d'Urantia_ parmi les chercheurs de vérité au Nigeria.
 
 Le thème de la conférence de cette année et les sujets des présentations ont été soigneusement choisis, incorporant une riche tapisserie de religions et de philosophies nigérianes. Le but était de poursuivre les objectifs et de consolider les acquis de l'événement de l'année dernière. Dans cette mesure, le programme a été couronné de succès. Il a fourni un terrain fertile à de nombreux individus curieux et spirituellement enclins à savourer les perspectives uniques présentées par _Le Livre d'Urantia_.
 
@@ -56,15 +56,15 @@ Le thème de la conférence de cette année et les sujets des présentations ont
 <img src="/image/article/UF_News_Online/2024_12/033.jpg">
 </figure>
 
-Les présentations comprenaient « Qu'est-ce que _Le Livre d'Urantia_ ? » par Maya Anazodo, âgée de 18 ans. Emmanuel Ajewole a parlé du « But de la civilisation humaine ». « Mon expérience de la mise en pratique des enseignements du _Livre d'Urantia »_ a été présentée par Shola Agagu, un leader Urantia malvoyant et un instructeur de musique qui prend souvent la parole lors d'événements Urantia locaux.
+Les présentations comprenaient « Qu'est-ce que _Le Livre d'Urantia_ ? » par Maya Anazodo, âgée de 18 ans. Emmanuel Ajewole a parlé du « But de la civilisation humaine ». « Mon expérience de la mise en pratique des enseignements du _Livre d'Urantia »_ a été présentée par Shola Agagu, un leader Urantia malvoyant et un instructeur de musique qui prend souvent la parole lors d'événements Urantia locaux.
 
-Tosin Oyewole a présenté un exposé sur « Ubuntu et les fruits de l’esprit » dans lequel elle a exploré l'interconnexion entre la philosophie Ubuntu et la culture des vertus spirituelles dans la vie individuelle et communautaire.
+Tosin Oyewole a présenté un exposé sur « Ubuntu et les fruits de l’esprit » dans lequel elle a exploré l'interconnexion entre la philosophie Ubuntu et la culture des vertus spirituelles dans la vie individuelle et communautaire.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2024_12/034.jpg">
 </figure>
 
-Mes propres présentations comprenaient « Ubuntu — la fraternité humaine », « Le besoin d'initiatives de paix dans le monde d'aujourd'hui » et « L'art de la manifestation » qui explorait l'énergie, l'esprit et la matière comme l'enseigne _Le Livre d'Urantia_. Nous avons également été inspirés et divertis par des chansons, de la poésie et des récitations de jeunes lecteurs.
+Mes propres présentations comprenaient « Ubuntu — la fraternité humaine », « Le besoin d'initiatives de paix dans le monde d'aujourd'hui » et « L'art de la manifestation » qui explorait l'énergie, l'esprit et la matière comme l'enseigne _Le Livre d'Urantia_. Nous avons également été inspirés et divertis par des chansons, de la poésie et des récitations de jeunes lecteurs.
 
 Le point culminant de la conférence a peut-être été la présentation musicale d'_Afro Blues_ par le saxophoniste Chike Martins, qui tisse les enseignements du _Livre d'Urantia_ dans son magnifique mélange de jazz occidental et africain.
 

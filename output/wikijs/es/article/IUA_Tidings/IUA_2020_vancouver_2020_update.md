@@ -56,7 +56,7 @@ Uno de los objetivos principales es trabajar con el ministerio angélico, en par
 
 Hay algunos aspectos de las Exploraciones Visionarias que siguen vacantes. La intención de estas exploraciones es debatir en grupo sobre un tema o proyecto concreto, más que limitarse a dar una presentación individual al grupo. La idea es solicitar visiones espirituales valiosas de los participantes que nos ayuden a comprender las posibilidades y los inconvenientes de los proyectos propuestos o activos. Se espera que los individuos interesados quieran seguir implicados después de la conferencia para continuar con sus programas.
 
-Si les gustaría formar parte de un Equipo de Visión, contacten con nosotros a través del [sitio web de la UGE](https://urantiaglobalexperience.com/) (vean el menú). Para saber más sobre nuestras directrices y los formatos esperados, vean [Visionary Explorations](https://urantiaglobalexperience.com/visionary/) y [Vision Teams](https://urantiaglobalexperience.com/vision-teams/).
+Si les gustaría formar parte de un Equipo de Visión, contacten con nosotros a través del [sitio web de la UGE](https://urantiaglobalexperience.com/) (vean el menú). Para saber más sobre nuestras directrices y los formatos esperados, vean [Visionary Explorations](https://urantiaglobalexperience.com/visionary/) y [Vision Teams](https://urantiaglobalexperience.com/vision-teams/).
 
 **Nota**: Este evento está limitado a 450 participantes debido a limitaciones de espacio.
 

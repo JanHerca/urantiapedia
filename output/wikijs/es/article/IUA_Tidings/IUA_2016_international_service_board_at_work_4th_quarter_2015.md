@@ -38,9 +38,9 @@ El Comité de Grupos de Estudio comenzó a desarrollar un plan estratégico y co
 
 ## Comité de Diseminación – David Linthicum (presidente)
 
-Se incorporó un nuevo miembro de Malawi al comité. El centro de atención sigue siendo la construcción de canales de distribución en Malawi, Ucrania, Zambia y Filipinas. David participó en la planificación del Parlamento de las Religiones del Mundo y asistió al evento. También está en el comité de planificación de la conferencia conjunta de este año en los Estados Unidos. 
+Se incorporó un nuevo miembro de Malawi al comité. El centro de atención sigue siendo la construcción de canales de distribución en Malawi, Ucrania, Zambia y Filipinas. David participó en la planificación del Parlamento de las Religiones del Mundo y asistió al evento. También está en el comité de planificación de la conferencia conjunta de este año en los Estados Unidos. 
 
-_Equipo de respuesta a peticiones de reclusos (PIRT):_ En 2015, se recibieron 230 peticiones, se colocaron 93 libros y hay dos grupos de estudio consolidados en prisiones de 10 y 27 miembros respectivamente. Se sigue haciendo trabajo de campo en el proyecto de colocación en bibliotecas de prisiones. De 2005 a 2015, el PIRT ha procesado 3.494 cartas y colocado 1.735 libros. Ha comenzado un programa piloto que proporciona ayudas al estudio. 
+_Equipo de respuesta a peticiones de reclusos (PIRT):_ En 2015, se recibieron 230 peticiones, se colocaron 93 libros y hay dos grupos de estudio consolidados en prisiones de 10 y 27 miembros respectivamente. Se sigue haciendo trabajo de campo en el proyecto de colocación en bibliotecas de prisiones. De 2005 a 2015, el PIRT ha procesado 3.494 cartas y colocado 1.735 libros. Ha comenzado un programa piloto que proporciona ayudas al estudio. 
 
 _Servicio a lectores_**:** se han escrito y enviado 61 nuevas cartas de contacto, lo que hace un total de 152 en 2015. Se ha incorporado al equipo un nuevo miembro para que se encargue de las traducciones al portugués, de manera que tenemos la carta de contacto traducida al portugués, francés, español y finés. Se buscan voluntarios para traducir al alemán y al polaco. 
 
@@ -50,11 +50,11 @@ Hay miembros de Portugal, Israel y Alemania que se han ofrecido voluntarios para
 
 ## Comité de Comunicaciones – Kathleen Swadling (presidenta)
 
-_Publicaciones:_ se han publicado números regulares del _Journal_ y _Tidings_ en inglés, francés y español.
+_Publicaciones:_ se han publicado números regulares del _Journal_ y _Tidings_ en inglés, francés y español.
 
 _Web:_ se ha investigado el coste para ver la viabilidad de cambiar a un nuevo servidor y de convertir el sitio web en un multisitio de WordPress. Esto permitiría la creación de subsitios para todas las asociaciones con ningún o muy poco coste. Estos subsitios (o sitios hijos) aparecerían como sitios independientes pero estarían «unidos» al sitio principal de la asociación. Esto significa que la asociación proporcionaría un servicio a esas asociaciones que no pueden permitirse tener sus propios servidores y administradores web.
 
-_Relaciones Públicas_**:** el folleto informativo de la asociación se está reescribiendo y simplificando. Se están investigando las búsquedas de Google y la etiquetación del contenido de nuestra web para mejorar la optimización del motor de búsqueda. Se ha tratado sobre la revisión de la página de inicio de la web y se está considerando.
+_Relaciones Públicas_**:** el folleto informativo de la asociación se está reescribiendo y simplificando. Se están investigando las búsquedas de Google y la etiquetación del contenido de nuestra web para mejorar la optimización del motor de búsqueda. Se ha tratado sobre la revisión de la página de inicio de la web y se está considerando.
 
 _Redes sociales_**:** Se ha trabajado en un nuevo logo y anuncio de las páginas de Facebook y Twitter de la asociación. Se ha creado un grupo público en Facebook para proporcionar más oportunidades de asistencia que ayuden a los lectores a entender más claramente las enseñanzas de _El libro de Urantia_. 
 
@@ -68,7 +68,7 @@ Chris continúa buscando traductores voluntarios. Se ha encontrado un traductor 
 
 ## Presidente
 
-Chris Wood siguió trabajando con el equipo de planificación de la conferencia de la UAUS y la Fellowship de 2016 y asistió a la primera reunión trimestral con los presidentes de la Fellowship y de la Fundación Urantia. Creó y facilitó un equipo de envío de la carta de recaudación de fondos de otoño de la asociación, hizo llamadas telefónicas para recaudar fondos y solicitó donaciones para dar apoyo a las conferencias de 2016. También asistió a una conferencia local de lectores en su mayoría nuevos en Omaha (Nebraska). 
+Chris Wood siguió trabajando con el equipo de planificación de la conferencia de la UAUS y la Fellowship de 2016 y asistió a la primera reunión trimestral con los presidentes de la Fellowship y de la Fundación Urantia. Creó y facilitó un equipo de envío de la carta de recaudación de fondos de otoño de la asociación, hizo llamadas telefónicas para recaudar fondos y solicitó donaciones para dar apoyo a las conferencias de 2016. También asistió a una conferencia local de lectores en su mayoría nuevos en Omaha (Nebraska). 
 
 ## Vicepresidente
 

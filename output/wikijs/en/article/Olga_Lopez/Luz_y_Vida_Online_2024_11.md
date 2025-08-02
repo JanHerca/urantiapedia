@@ -285,7 +285,7 @@ In the Spanish language, sessions last between 60 and 90 minutes, and are held o
 
 This is the presentation scheduled for the month of December:
 
-**Title:** The art of teaching of Jesus: methods that are still valid
+**Title:** The art of teaching of Jesus: methods that are still valid
 
 **Presenter**: Erika Webster
 

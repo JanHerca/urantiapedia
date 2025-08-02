@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ## Encourager l’unité spirituelle grâce à un service d’amour
 
-- Urantia Nigéria et Urantia Ghana, en collaboration avec l’Association Urantia Internationale, ont organisé un congrès du 6 au 8 décembre 2019 à Lagos sur les îles Victoria au Nigéria. Le thème était  » Encourager l’unité spirituelle grâce à un service d’amour « . Des lecteurs du Ghana et du Nigéria étaient présents, ainsi que le représentant de l’Association Urantia et organisateur du congrès sur place, Antonio Schefer.
+- Urantia Nigéria et Urantia Ghana, en collaboration avec l’Association Urantia Internationale, ont organisé un congrès du 6 au 8 décembre 2019 à Lagos sur les îles Victoria au Nigéria. Le thème était  » Encourager l’unité spirituelle grâce à un service d’amour « . Des lecteurs du Ghana et du Nigéria étaient présents, ainsi que le représentant de l’Association Urantia et organisateur du congrès sur place, Antonio Schefer.
 
 Voici deux rapports rédigés par Kwadjo Spiri et Emeka Anazodo :
 
@@ -61,9 +61,9 @@ Le contenu du congrès a été enrichi par diverses présentations de lecteurs d
 <img src="/image/article/IUA_Tidings/Nigeria-2019-Presenter-300x361.jpg">
 </figure>
 
-Collins Lomo du Ghana a donné une présentation intéressante sur « Le Gardien de mon frère », attirant l’attention sur le fait de nous soutenir et d’être là pour les autres en tant qu’enfants du royaume — les enfants de Dieu. Entre les présentations, Shola, un lecteur et musicien nigérien, a égayé l’assemblée de sa musique.
+Collins Lomo du Ghana a donné une présentation intéressante sur « Le Gardien de mon frère », attirant l’attention sur le fait de nous soutenir et d’être là pour les autres en tant qu’enfants du royaume — les enfants de Dieu. Entre les présentations, Shola, un lecteur et musicien nigérien, a égayé l’assemblée de sa musique.
 
-J’ai fait une présentation sur la « Communion spirituelle » où l’accent a été mis sur l’importance d’être convaincu dans notre foi en la réalité de l’Ajusteur intérieur, ou du Père à tout moment de la vie. L’Ajusteur de Pensée est la réponse à tous nos défis dans cette première vie terrestre. La foi en la réalité de cette superpuissance intérieure, par le biais d’une prière intelligente, peut déclencher le pouvoir de surmonter toutes les tâches et tous les défis de la vie. L’attention a été attirée sur le fait que la foi en l’Ajusteur de Pensée est la seule condition pour gagner la faveur de Dieu et que, par cette même foi, nous pouvons de plus en plus partager la nature de Dieu et finalement fusionner (devenir un) avec lui.
+J’ai fait une présentation sur la « Communion spirituelle » où l’accent a été mis sur l’importance d’être convaincu dans notre foi en la réalité de l’Ajusteur intérieur, ou du Père à tout moment de la vie. L’Ajusteur de Pensée est la réponse à tous nos défis dans cette première vie terrestre. La foi en la réalité de cette superpuissance intérieure, par le biais d’une prière intelligente, peut déclencher le pouvoir de surmonter toutes les tâches et tous les défis de la vie. L’attention a été attirée sur le fait que la foi en l’Ajusteur de Pensée est la seule condition pour gagner la faveur de Dieu et que, par cette même foi, nous pouvons de plus en plus partager la nature de Dieu et finalement fusionner (devenir un) avec lui.
 
 Jesse a fait un discours sur l’importance de lire _Le Livre d’Urantia_, la cinquième révélation d’époque et Maya une jeune femme du Nigéria a pendant un moment récité une citation par cœur.
 

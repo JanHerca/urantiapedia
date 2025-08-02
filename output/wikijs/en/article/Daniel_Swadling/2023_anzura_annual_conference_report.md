@@ -25,7 +25,7 @@ dateCreated: 2023-9-16T10:55:6Z
         </td>
         <td>
         <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
-          <span class="pr-2">Third Latin American Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Third Latin American Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -123,7 +123,7 @@ I leave you with these comforting words encouraging us all to maintain that livi
         </td>
         <td>
         <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
-          <span class="pr-2">Third Latin American Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Third Latin American Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

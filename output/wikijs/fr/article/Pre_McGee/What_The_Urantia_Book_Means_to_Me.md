@@ -42,7 +42,7 @@ _Par Pre McGee, Nouvelle-Galles du Sud, Australie_
 
 J'étudie les enseignements du _Livre d'Urantia_ depuis plus de 35 ans. Ce livre et ses enseignements ont été mon guide pour m'efforcer d'atteindre de nouveaux niveaux de vie et de service.
 
-Lors de mes jeunes années, je me suis perdu dans de nombreux « puits sans fond » à la recherche de mon identité. En cours de route, j'ai rejoint un groupe d'étude chrétien où j'ai appris une nouvelle philosophie de vie. Ils m'ont fait découvrir une cosmologie différente de celle que je connaissais auparavant, en m'enseignant ma relation avec notre Père et le concept d'un Ajusteur de Pensée. Des années plus tard, lorsqu'on m'a offert un exemplaire du _Livre d'Urantia_, j'ai découvert d'où venaient ces enseignements.
+Lors de mes jeunes années, je me suis perdu dans de nombreux « puits sans fond » à la recherche de mon identité. En cours de route, j'ai rejoint un groupe d'étude chrétien où j'ai appris une nouvelle philosophie de vie. Ils m'ont fait découvrir une cosmologie différente de celle que je connaissais auparavant, en m'enseignant ma relation avec notre Père et le concept d'un Ajusteur de Pensée. Des années plus tard, lorsqu'on m'a offert un exemplaire du _Livre d'Urantia_, j'ai découvert d'où venaient ces enseignements.
 
 Je suis reconnaissant de la façon dont mon introduction originale a fourni une base solide pour lire _Le Livre d'Urantia_. J'ai appris que je commence dans cette vie et que je progresse jusqu'à me tenir en présence de notre Père par les décisions que je prends. J'ai appris qu'il est important de partager ma vie intérieure avec Dieu et que la volonté de Dieu est d'aimer mes frères et sœurs. Il est important pour moi de trouver des occasions d'aider les autres de façon modeste chaque jour, tout comme le fait d'être bénévole auprès des services d'urgence de la Croix-Rouge et d'autres organisations de bénévolat.
 
@@ -56,7 +56,7 @@ Faire confiance à Dieu, vivre par la foi avec Dieu comme partenaire, est à la 
 
 Le livre nous dit que nous ne progressons pas sans connaissances spirituelles et sans croissance expérimentale, qui viennent des choix que nous faisons, de notre sincérité et de notre choix de faire la volonté de Dieu. J'essaie de considérer tout ce qui se passe dans la vie quotidienne comme une opportunité de croissance.
 
-De temps en temps, des défis se présentent à chacun d'entre nous et il est important de savoir qu' « en liaison avec Dieu, rien - absolument rien - n'est impossible » [LU 26:5.3](/fr/The_Urantia_Book/26#p5_3) Les défis ont définitivement aidé à cimenter ma foi en Dieu, et j'ai découvert que la meilleure ressource est de connaître la vie de Jésus.
+De temps en temps, des défis se présentent à chacun d'entre nous et il est important de savoir qu' « en liaison avec Dieu, rien - absolument rien - n'est impossible » [LU 26:5.3](/fr/The_Urantia_Book/26#p5_3) Les défis ont définitivement aidé à cimenter ma foi en Dieu, et j'ai découvert que la meilleure ressource est de connaître la vie de Jésus.
 
 Ces défis m'ont aidé à faire grandir ma foi. Comme Jésus l'a enseigné à ses apôtres dans la leçon sur la maîtrise de soi, la foi est transformatrice.
 

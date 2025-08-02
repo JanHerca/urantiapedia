@@ -49,7 +49,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 [Inscrivez-vous maintenant](https://register.urantiaevents.com/1.php?event=10&lang=en) pour le prochain congrès continentale Urantia d’Amérique latine ! Ce sera le troisième congrès latino-américain et il est organisé par l’Asociación Urantia de Mexico (AUM).
 
-Nous invitons les étudiants du Livre d’Urantia de toute l’Amérique latine. Le programme se concentrera sur les thèmes majeurs de la révélation, pour nous inspirer à grandir dans notre connaissance et notre compréhension des enseignements. Plus d’informations sur le programme des activités et des présentations sur le thème général « La Cinquième Révélation au 21e siècle » seront bientôt disponibles.
+Nous invitons les étudiants du Livre d’Urantia de toute l’Amérique latine. Le programme se concentrera sur les thèmes majeurs de la révélation, pour nous inspirer à grandir dans notre connaissance et notre compréhension des enseignements. Plus d’informations sur le programme des activités et des présentations sur le thème général « La Cinquième Révélation au 21e siècle » seront bientôt disponibles.
 
 Ce congrès urantien se tiendra au Mexique, à l’hôtel Quinto Sol, à proximité des pyramides historiques et intéressantes de Teotihuacán.
 

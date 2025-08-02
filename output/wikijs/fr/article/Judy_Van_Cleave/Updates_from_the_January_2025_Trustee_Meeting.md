@@ -44,13 +44,13 @@ _Par Judy Van Cleave, secrétaire, Fondation Urantia, Idaho, États-Unis_
 
 ## Planification quinquennale
 
-Mo Siegel commença la réunion en passant en revue les objectifs quinquennaux établis lors de la session de planification d'octobre dernier. Il a partagé sa liste des principaux domaines de préoccupation qui nécessiteront une attention particulière. Il a désigné des membres du conseil d'administration à qui il a confié chacun des huit objectifs, en leur demandant de préparer une feuille de route pour atteindre leur objectif dans un rapport d'une demi-page. Il a remercié tout particulièrement Joanne Strobel pour son travail d'organisation de planification. Enfin, il a souligné la chance que nous avons tous de travailler sur les premières étapes de cette révélation et a plaisanté : « Nous avons gagné à la loterie ».
+Mo Siegel commença la réunion en passant en revue les objectifs quinquennaux établis lors de la session de planification d'octobre dernier. Il a partagé sa liste des principaux domaines de préoccupation qui nécessiteront une attention particulière. Il a désigné des membres du conseil d'administration à qui il a confié chacun des huit objectifs, en leur demandant de préparer une feuille de route pour atteindre leur objectif dans un rapport d'une demi-page. Il a remercié tout particulièrement Joanne Strobel pour son travail d'organisation de planification. Enfin, il a souligné la chance que nous avons tous de travailler sur les premières étapes de cette révélation et a plaisanté : « Nous avons gagné à la loterie ».
 
 ## Livres
 
-Malgré un quatrième trimestre en demi-teinte, l'année 2024 s'est achevée sur des hausses dans la plupart des catégories de ventes de livres. Les chiffres depuis le début de l'année montrent une croissance encourageante, avec une augmentation de 8 % des ventes par rapport à 2023. Cette croissance a été particulièrement évidente pour les Livres d'Urantia en espagnol, en portugais et en français. La nouvelle version brochée de _l’Histoire Méconnue de Jésus_ a été bien accueillie et les ventes de ce livre ont également été fortes.
+Malgré un quatrième trimestre en demi-teinte, l'année 2024 s'est achevée sur des hausses dans la plupart des catégories de ventes de livres. Les chiffres depuis le début de l'année montrent une croissance encourageante, avec une augmentation de 8 % des ventes par rapport à 2023. Cette croissance a été particulièrement évidente pour les Livres d'Urantia en espagnol, en portugais et en français. La nouvelle version brochée de _l’Histoire Méconnue de Jésus_ a été bien accueillie et les ventes de ce livre ont également été fortes.
 
-Les ventes de livres reliés en anglais ont été fortes au quatrième trimestre. Les ventes de livres brochés ont diminué au cours du trimestre, mais ont augmenté de 4 % depuis le début de l'année. Les livres Cambridge en cuir souple seront prêts à être vendus au début du mois d'avril. Ces livres sont très populaires et contribueront à stimuler les ventes d'ouvrages en anglais au cours des prochains trimestres.
+Les ventes de livres reliés en anglais ont été fortes au quatrième trimestre. Les ventes de livres brochés ont diminué au cours du trimestre, mais ont augmenté de 4 % depuis le début de l'année. Les livres Cambridge en cuir souple seront prêts à être vendus au début du mois d'avril. Ces livres sont très populaires et contribueront à stimuler les ventes d'ouvrages en anglais au cours des prochains trimestres.
 
 ## L'Éducation
 
@@ -59,7 +59,7 @@ Les ventes de livres reliés en anglais ont été fortes au quatrième trimestre
 <figcaption>Marjorie Ray</figcaption>
 </figure>
 
-L'École Internationale du Livre d'Urantia a commencé à inscrire des étudiants pour le nouveau trimestre, le 6 janvier. Un total de 215 personnes ont été inscrites dans 18 cours, qui sont animés par 27 bénévoles de six branches linguistiques. Un « cours bêta » en chinois simplifié a également été lancé avec 14 participants. La série mensuelle Spotlight s'est poursuivie en anglais et en espagnol.
+L'École Internationale du Livre d'Urantia a commencé à inscrire des étudiants pour le nouveau trimestre, le 6 janvier. Un total de 215 personnes ont été inscrites dans 18 cours, qui sont animés par 27 bénévoles de six branches linguistiques. Un « cours bêta » en chinois simplifié a également été lancé avec 14 participants. La série mensuelle Spotlight s'est poursuivie en anglais et en espagnol.
 
 Tamara Strumfeld fit un rapport sur les activités du Répertoire des groupes d'étude du Livre d'Urantia, en ligne. Au cours du dernier trimestre de 2024, des améliorations significatives ont été apportées pour rationaliser la gestion du Répertoire. Scott Brooks et son partenaire technique ont développé et mis en œuvre un système pour suivre dans le monde entier les animateurs des groupes d'étude qui ne répondent pas. Ce qui nécessitait auparavant de nombreuses heures de bénévolat est maintenant plus automatisé.
 
@@ -71,12 +71,12 @@ Le Comité d’Éducation a fait part de son intention de parrainer le quatrièm
 
 ## Collecte de fonds et finances
 
-- Les dons non restreints du quatrième trimestre ont été supérieurs de 7 % à ceux du quatrième trimestre 2023 et de 3 % au budget du quatrième trimestre.
-- Les dons restreints ont augmenté de 117 % par rapport au quatrième trimestre 2023, mais ont été inférieurs de 10 % au budget du quatrième trimestre.
+- Les dons non restreints du quatrième trimestre ont été supérieurs de 7 % à ceux du quatrième trimestre 2023 et de 3 % au budget du quatrième trimestre.
+- Les dons restreints ont augmenté de 117 % par rapport au quatrième trimestre 2023, mais ont été inférieurs de 10 % au budget du quatrième trimestre.
 - Les dons de succession du 4e trimestre ont totalisé 365 446 dollars.
-- Le revenu total a augmenté de 15 % par rapport au quatrième trimestre 2023 et a dépassé le budget de 51 %.
-- Les dépenses administratives ont augmenté de 16 % par rapport au quatrième trimestre 2023 et ont dépassé le budget de 11 %.
-- Les dépenses totales ont augmenté de 6 % par rapport au quatrième trimestre de l'année dernière, mais sont restées inférieures de 14 % au budget.
+- Le revenu total a augmenté de 15 % par rapport au quatrième trimestre 2023 et a dépassé le budget de 51 %.
+- Les dépenses administratives ont augmenté de 16 % par rapport au quatrième trimestre 2023 et ont dépassé le budget de 11 %.
+- Les dépenses totales ont augmenté de 6 % par rapport au quatrième trimestre de l'année dernière, mais sont restées inférieures de 14 % au budget.
 
 ## Conseil Consultatif Culturel (CCC)
 

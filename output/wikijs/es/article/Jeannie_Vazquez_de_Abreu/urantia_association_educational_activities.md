@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Queridos amigos lectores de _El libro de Urantia:_ es un placer informarles sobre las últimas actividades del comité de Educación de la Asociación Urantia.
 
-Estamos organizando un ciclo de seminarios web mensuales en directo. El 24 de marzo el presidente del comité de Grupos de Estudio de la Asociación, Gaétan Charland, presentó el tema «Mejorar la calidad y efectividad de los grupos de estudio». En este seminario web, Gaétan exploró la manera en que se pueden mejorar los grupos de estudio para trabajar hacia el cumplimiento de la misión de _El libro de Urantia_, que se declara en el libro:
+Estamos organizando un ciclo de seminarios web mensuales en directo. El 24 de marzo el presidente del comité de Grupos de Estudio de la Asociación, Gaétan Charland, presentó el tema «Mejorar la calidad y efectividad de los grupos de estudio». En este seminario web, Gaétan exploró la manera en que se pueden mejorar los grupos de estudio para trabajar hacia el cumplimiento de la misión de _El libro de Urantia_, que se declara en el libro:
 <br style="clear:both;"/>
 
 > _…aumentar la conciencia cósmica y elevar la percepción espiritual._ <a id="a46_71"></a>[[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)]
@@ -75,7 +75,7 @@ https://youtu.be/xLCKFD7kluw
 <img src="/image/article/IUA_Tidings/Webinar-Announcement-Benet-Rutenberg-300x180.jpg">
 </figure>
 
-El 28 de abril el comisionado judicial de la Asociación, Benet Rutenberg, presentó un seminario web sobre «Unidad espiritual y el Espíritu de la Verdad».
+El 28 de abril el comisionado judicial de la Asociación, Benet Rutenberg, presentó un seminario web sobre «Unidad espiritual y el Espíritu de la Verdad».
 
 Benet se inspiró para hacer esta presentación en dos vías de desarrollo que comenzaron hace unos diez años. Dijo:
 
@@ -89,7 +89,7 @@ Pueden ver la presentación de Benet en el canal de YouTube de la Asociación en
 
 https://youtu.be/zerUMpo1vTI
 
-Además, el comité de Educación de la Asociación Urantia organizó una serie de talleres virtuales en español de 13 sesiones acerca de «Liderazgo y enseñanza según las enseñanzas de _El libro de Urantia_», patrocinada por la Asociación Urantia de Brasil. Estos fueron algunos de los temas presentados en esta serie de talleres:
+Además, el comité de Educación de la Asociación Urantia organizó una serie de talleres virtuales en español de 13 sesiones acerca de «Liderazgo y enseñanza según las enseñanzas de _El libro de Urantia_», patrocinada por la Asociación Urantia de Brasil. Estos fueron algunos de los temas presentados en esta serie de talleres:
 
 - «El Mandato de Publicación de _El libro de Urantia_ y la capacitación de líderes e instructores», presentado por Jeannie Vázquez (Uruguay).
 - «La conexión con el Espíritu de la Verdad», presentado por Gerardo Leche (Guatemala).

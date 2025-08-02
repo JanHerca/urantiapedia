@@ -44,11 +44,11 @@ De nombreux membres de diverses organisations urantiennes, ainsi que des étudia
 
 L’unité n’est pas simplement une question de préoccupation pour le bien-être des organisations impliquées ; elle a un impact significatif sur la mission de la révélation dans le monde. Pourquoi en est-il ainsi ? Pour répondre à cela, nous devons nous poser les bonnes questions. Considérez ce que le jeune Jésus méditait lorsqu’il était confronté à des décisions importantes : « Au fil des ans, ce jeune charpentier de Nazareth mesurait de plus en plus chaque institution de la société et chaque usage de la religion par le test invariable : Que fait-il pour l’âme humaine ? Est-ce que cela rapproche Dieu de l’homme ? Est-ce que cela rapproche l’homme de Dieu ? »
 
-Dans le contexte de la quatrième et cinquième révélation d’époque, le bien-être de la mission de la révélation doit primer sur le bien-être des organisations. Nos questions devraient être : : Être unis sert-il mieux la révélation, ou entrave-t-il sa mission dans le monde? L’unité réduit-elle la confusion et crée-t-elle plus d’harmonie?
+Dans le contexte de la quatrième et cinquième révélation d’époque, le bien-être de la mission de la révélation doit primer sur le bien-être des organisations. Nos questions devraient être : : Être unis sert-il mieux la révélation, ou entrave-t-il sa mission dans le monde? L’unité réduit-elle la confusion et crée-t-elle plus d’harmonie?
 
 Quel est mon objectif principal — la mission de la révélation ou le bien-être des organisations ? Ce sont des questions cruciales que nous devons nous poser lorsque nous envisageons l’unité de nos deux organisations.
 
-Nos questions devraient être : : Être unis sert-il mieux la révélation, ou entrave-t-il sa mission dans le monde? L’unité réduit-elle la confusion et crée-t-elle plus d’harmonie?
+Nos questions devraient être : : Être unis sert-il mieux la révélation, ou entrave-t-il sa mission dans le monde? L’unité réduit-elle la confusion et crée-t-elle plus d’harmonie?
 
 En ce qui concerne l’attrait spirituel de nos organisations, quelle image projetons-nous dans le monde ? Sommes-nous perçus comme une famille cohésive et unie, ou sommes-nous perçus comme divisés et fragmentés ? Comme il est dit dans Le Livre d’Urantia, « Une maison divisée contre elle-même ne peut pas tenir. » Il est crucial que nous incarnions les enseignements de cette révélation si nous sommes vraiment engagés dans le succès de nos organisations pour répandre la lumière dans le monde.
 

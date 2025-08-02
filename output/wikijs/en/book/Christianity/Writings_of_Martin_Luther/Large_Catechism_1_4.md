@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:47:40Z
   </table>
 </figure>
 
- Thus far we have learned the first three commandments, which relate to God. First that with our whole heart we trust in Him, and fear and love Him throughout all our life. Secondly, that we do not misuse His holy name in the support of falsehood or any bad work, but employ it to the praise of God and the profit and salvation of our neighbor and ourselves. Thirdly, that on holidays and when at rest we diligently treat and urge God's Word, so that all our actions and our entire life be ordered according to it. Now follow the other seven, which relate to our neighbor among which the first and greatest is:
+ Thus far we have learned the first three commandments, which relate to God. First that with our whole heart we trust in Him, and fear and love Him throughout all our life. Secondly, that we do not misuse His holy name in the support of falsehood or any bad work, but employ it to the praise of God and the profit and salvation of our neighbor and ourselves. Thirdly, that on holidays and when at rest we diligently treat and urge God's Word, so that all our actions and our entire life be ordered according to it. Now follow the other seven, which relate to our neighbor among which the first and greatest is:
 
 _Thou shalt honor thy father and thy mother._
 

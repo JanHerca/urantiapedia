@@ -75,7 +75,7 @@ Si vous avez besoin d’une aide financière pour couvrir les frais de transport
 
 **Procédure de demande :**
 
-Pour demander une aide financière, veuillez envoyer votre demande à M. Antonio Schefer (président du Comité des congrès au BSI) [conferences@urantia-association.org](mailto:conferences@urantia-association.org) ou M. Hanno van der Plas (président du sous-comité de l’aide financière) [hanno@urantia.nl](mailto:hanno@urantia.nl) et vous recevrez le lien pour accéder au formulaire de demande en ligne.
+Pour demander une aide financière, veuillez envoyer votre demande à M. Antonio Schefer (président du Comité des congrès au BSI) [conferences@urantia-association.org](mailto:conferences@urantia-association.org) ou M. Hanno van der Plas (président du sous-comité de l’aide financière) [hanno@urantia.nl](mailto:hanno@urantia.nl) et vous recevrez le lien pour accéder au formulaire de demande en ligne.
 
 Pour plus d’informations, [cliquez ici](https://urantia-association.org/wp-content/uploads/2017/11/Application-Form-to-receive-2018-UAI-Conference-Financial-Aid.pdf) pour accéder au formulaire de candidature (note : ceci ne peut pas être rempli en ligne sans recevoir un lien d’inscription par courrier électronique de Hanno van der Plas ou d’Antonio Schefer.)
 

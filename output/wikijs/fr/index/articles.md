@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-## :page_with_curl: Bienvenue dans la Hémérothèque pour _Le Livre d'Urantia_ !
+## :page_with_curl: Bienvenue dans la Hémérothèque pour _Le Livre d'Urantia_ !
 
 Dans cette section d'Urantiapedia, vous trouverez la plus grande collection de publications relatives au _Le Livre d'Urantia_ qui a été cataloguée à ce jour sur le Web. Et nous ne cessons d'élargir ce catalogue chaque mois ! Nous avons ici des magazines et des bulletins des associations les plus importantes du mouvement Urantia, ainsi qu'un ensemble d'articles contenus dans certaines pages Web susceptibles d'intéresser les lecteurs du _Livre d'Urantia_.
 

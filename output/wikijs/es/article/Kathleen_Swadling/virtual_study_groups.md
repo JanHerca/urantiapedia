@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ¡La era de los grupos de estudio y conferencias virtuales ya ha llegado! Con el mundo entero bloqueado por el coronavirus COVID-19 han surgido oportunidades inesperadas en las comunidades de lectores de _El libro de Urantia_. Los estudiantes están descubriendo lo fácil que es reunirse con otros lectores de todo el mundo desde la comodidad de sus casas. Gracias a programas de videoconferencia como Zoom los grupos de estudio y las conferencias se están realizando con muy poca organización y prácticamente sin coste alguno.
 
-## Urantiatones, eventos virtuales de 24 horas 
+## Urantiatones, eventos virtuales de 24 horas 
 
 «Urantiatón» es una nueva frase acuñada para describir eventos como las dos recientes conferencias virtuales de 24 horas que se celebraron a través de Zoom y que fueron patrocinadas por la Asociación Urantia Internacional: una el 21 de marzo (Recompensa del aislamiento) y la otra el 2 de mayo (Estamos juntos en esto).
 

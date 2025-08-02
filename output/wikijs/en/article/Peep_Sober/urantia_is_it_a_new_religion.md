@@ -47,11 +47,11 @@ Religion can be viewed both from the inside with some preconceptions about every
 
 The book reveals:
 
-> The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. <a id="a49_219"></a>[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)
+> The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. <a id="a49_219"></a>[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)
 
 I use this method to understand the present Urantia movement, especially its connection with religion. First, let’s consider how Christianity became a new and powerful religion:
 
-> Christianity came not merely as a new religion—something all the Roman Empire and all the Orient were waiting for—but as a _new order of human society._ And as such a pretension it quickly precipitated the social-moral clash of the ages. The ideals of Jesus, as they were reinterpreted by Greek philosophy and socialized in Christianity, now boldly challenged the traditions of the human race embodied in the ethics, morality, and religions of Western civilization. <a id="a53_468"></a>[UB 195:0.3](/en/The_Urantia_Book/195#p0_3)
+> Christianity came not merely as a new religion—something all the Roman Empire and all the Orient were waiting for—but as a _new order of human society._ And as such a pretension it quickly precipitated the social-moral clash of the ages. The ideals of Jesus, as they were reinterpreted by Greek philosophy and socialized in Christianity, now boldly challenged the traditions of the human race embodied in the ethics, morality, and religions of Western civilization. <a id="a53_468"></a>[UB 195:0.3](/en/The_Urantia_Book/195#p0_3)
 
 The word “religion” itself has a Latin origin, where it meant respect for what is sacred, reverence for the gods, or moral obligations, among other definitions (Online Etymological Dictionary). But _The Urantia Book_ authors use the word with different meanings. Followers of Eastern religions don’t use the word so much. For instance, some say that Buddhism is not a religion at all, it’s a way of living. It all depends on what we mean by “religion.” I try to use the word as it is used in _The Urantia Book_ and as generally used in the West.
 

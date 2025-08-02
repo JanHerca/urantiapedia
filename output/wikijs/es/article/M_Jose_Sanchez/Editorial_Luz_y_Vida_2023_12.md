@@ -98,7 +98,7 @@ Ante el nacimiento de un nuevo rey, Herodes teme ser suplantado. El ego siempre 
 
 No queremos destacar y ser diferentes a los demás. No es fácil ser fiel a nuestra propia voz interior, la auténtica, a ese niño tan valioso. Nadie quiere nadar contracorriente pues resulta incómodo, fatigoso y difícilmente llegamos lejos. Nos pueden calificar de raros, de no ser «uno de los nuestros», de ser marginales…
 
-Pero no es que nos hayamos apartado, sino que nuestro interés por Dios (el silencio, la espiritualidad, como lo quieras llamar) te hace entrar en otra esfera: lees otros libros, vas con otras personas, pasas tu tiempo libre de otra manera.  Caminamos en pos de nuestra propia voz, vamos por caminos inexplorados, empezamos a ser nosotros mismos.
+Pero no es que nos hayamos apartado, sino que nuestro interés por Dios (el silencio, la espiritualidad, como lo quieras llamar) te hace entrar en otra esfera: lees otros libros, vas con otras personas, pasas tu tiempo libre de otra manera. Caminamos en pos de nuestra propia voz, vamos por caminos inexplorados, empezamos a ser nosotros mismos.
 
 Los que seguimos a Jesús de Nazaret vamos con alguien que escuchaba su propia voz. Quisiéramos crecer de forma sensata, sin accidentes, sin tropiezos o críticas, pero seguimos a alguien que, para el mundo, era un fracasado. Su familia lo tomó por loco. Su pueblo lo llevó al patíbulo. El poder religioso y político de su tiempo lo sentenció y se lo quitó de en medio. Sus discípulos lo abandonaron. ¿Cómo no puede fracasar quien pretende cambiar el fundamento mismo de la sociedad, quien aspiraba a disfrutar en libertad la relación con Dios, sus hermanos y la naturaleza?
 

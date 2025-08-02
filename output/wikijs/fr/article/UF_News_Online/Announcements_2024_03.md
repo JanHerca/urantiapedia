@@ -39,7 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 <br style="clear:both;"/>
 
-**Il est encore temps de s'inscrire à deux conférences !**
+**Il est encore temps de s'inscrire à deux conférences !**
 
 **Conférence internationale de l'Urantia Association**
 
@@ -47,7 +47,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 **Du 28 au 31 mars 2024**
 
-Nourrissez votre âme avec l'étude, la camaraderie et l’adoration. Un programme spécial est prévu pour les enfants et les adolescents, alors amenez toute la famille. L'événement se terminera par l’adoration de groupe le dimanche de Pâques. Restez plus longtemps pour faire du tourisme et admirer les célèbres cerisiers en fleurs de Washington !
+Nourrissez votre âme avec l'étude, la camaraderie et l’adoration. Un programme spécial est prévu pour les enfants et les adolescents, alors amenez toute la famille. L'événement se terminera par l’adoration de groupe le dimanche de Pâques. Restez plus longtemps pour faire du tourisme et admirer les célèbres cerisiers en fleurs de Washington !
 
 Des informations importantes sur l'inscription et l'hébergement sont disponibles sur le site web de la conférence.
 
@@ -71,7 +71,7 @@ Rejoignez-nous pour examiner la riche tapisserie du mariage et de la famille tel
 
 Notre objectif est d'offrir de l’inspiration et des conseils aux personnes et aux familles qui cherchent à naviguer dans les complexités des relations humaines, qui sont la plus spirituelle des aventures.
 
-Notre panel de présentateurs comprend Chuck et Angie Thurston ; Alice Wood et Vicki Arkens ; Brad Garner et Ruthie Wilde ; Marvin Gawryn ; Guy Perron et Agnès Lazar ; Stephanie « Stevie » Schaefer ; et les trustees Gard Jameson, Georges Michelson-Dupont, Olga López, et Chris Wood, qui sera rejoint par sa bande de frères.
+Notre panel de présentateurs comprend Chuck et Angie Thurston ; Alice Wood et Vicki Arkens ; Brad Garner et Ruthie Wilde ; Marvin Gawryn ; Guy Perron et Agnès Lazar ; Stephanie « Stevie » Schaefer ; et les trustees Gard Jameson, Georges Michelson-Dupont, Olga López, et Chris Wood, qui sera rejoint par sa bande de frères.
 
 Chaque session de webinaire en direct durera 30 minutes et sera suivie d'un débat interactif. Les animateurs Bill et Share Beasley insuffleront à l'événement de la sagesse empirique et de l'humour.
 
@@ -87,7 +87,7 @@ Si vous avez reçu cette lettre d'information, vous devriez recevoir les prochai
 
 <br style="clear:both;"/>
 
-Rappel !
+Rappel !
 
 Le Programme de Subvention de la Graine de Moutarde accepte les demandes de subvention jusqu'au 20 mars 2024.
 

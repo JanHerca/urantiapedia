@@ -170,7 +170,7 @@ O_B | Lien entre guillemets ou paragraphes | Un livre de la Bible (un verset dan
 
 Code | Origine | Destination | Procédure | État |
 --- | --- | --- | --- | --- |
-TI_UB | Note de bas de page dans le paragraphe ou « Voir aussi » | Le Livre d'Urantia (paragraphe) | Identique à UB_TI mais dans un processus inverse. Les fichiers TXT de l'_Encyclopédie_ sont utilisés, qui contiennent les références ([topic-index-en](https://github.com/JanHerca/urantiapedia/tree/master/input/txt/topic-index-en)) | :+1: |
+TI_UB | Note de bas de page dans le paragraphe ou « Voir aussi » | Le Livre d'Urantia (paragraphe) | Identique à UB_TI mais dans un processus inverse. Les fichiers TXT de l'_Encyclopédie_ sont utilisés, qui contiennent les références ([topic-index-en](https://github.com/JanHerca/urantiapedia/tree/master/input/txt/topic-index-en)) | :+1: |
 TI_B | Note de bas de page dans le paragraphe | Un livre de la Bible (verset dans un chapitre) | Non défini | :x: |
 TI_A | Note de bas de page dans le paragraphe | Page d'article | Non défini | :x: |
 TI_S | Note de bas de page dans le paragraphe | Chapitre d'une aide à l'étude | Non défini | :x: |

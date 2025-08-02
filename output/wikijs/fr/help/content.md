@@ -265,7 +265,7 @@ Les cartes permettront de se lier à une position dans la carte par le biais de 
 
 https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine
 
-Lorsque ce type de carte sera pleinement opérationnel, deux manières d'ouvrir cette carte centrée sur Ramah seraient :
+Lorsque ce type de carte sera pleinement opérationnel, deux manières d'ouvrir cette carte centrée sur Ramah seraient :
 - `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?name=Ramah`
 - `https://urantiapedia.org/en/map/Places_visited_by_Jesus_in_Palestine?lonlat=32.936424,35.367742`
 

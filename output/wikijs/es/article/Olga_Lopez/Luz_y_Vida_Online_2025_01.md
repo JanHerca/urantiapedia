@@ -243,9 +243,9 @@ Desde el primer momento lo consideré una revelación auténtica. Ya venía con 
 
 En nuestra búsqueda constante de difundir _El libro de Urantia_ y fomentar la interacción entre lectores, tanto en España como en otros países, inauguramos con gran ilusión el foro virtual «Territorio Comanche». Este espacio será un lugar de debate y opinión dedicado al intercambio de ideas relacionadas con esta maravillosa revelación.
 
-Este foro tiene como única finalidad el crecimiento de todos los que participemos, gracias al intercambio de ideas y opiniones sobre cualquier tema relacionado con **_El libro de Urantia_**. Compartiendo nuestras inquietudes y reflexiones, ayudamos a los demás a comprender ciertos conceptos con mayor profundidad. Además, al escuchar diferentes perspectivas, evitamos caer en la pereza o el estancamiento, y nos mantenemos en la senda del crecimiento personal. Expresarnos abiertamente es una magnífica manera de pulirnos como seres imperfectos que somos.
+Este foro tiene como única finalidad el crecimiento de todos los que participemos, gracias al intercambio de ideas y opiniones sobre cualquier tema relacionado con **_El libro de Urantia_**. Compartiendo nuestras inquietudes y reflexiones, ayudamos a los demás a comprender ciertos conceptos con mayor profundidad. Además, al escuchar diferentes perspectivas, evitamos caer en la pereza o el estancamiento, y nos mantenemos en la senda del crecimiento personal. Expresarnos abiertamente es una magnífica manera de pulirnos como seres imperfectos que somos.
 
-Los moderadores de este espacio solo solicita dos ingredientes fundamentales: respeto y buen humor. Ambas actitudes serán esenciales para que nuestras conversaciones fluyan de manera enriquecedora y armoniosa.
+Los moderadores de este espacio solo solicita dos ingredientes fundamentales: respeto y buen humor. Ambas actitudes serán esenciales para que nuestras conversaciones fluyan de manera enriquecedora y armoniosa.
 <br style="clear:both;"/>
 
 [Leer más](/es/article/Luz_y_Vida/Territorio_Comanche_apertura_de_un_nuevo_foro_de_debate_virtual)

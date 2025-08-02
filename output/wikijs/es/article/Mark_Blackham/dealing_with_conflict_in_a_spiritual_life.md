@@ -70,7 +70,7 @@ Jesús dijo aún más sobre este tema:
 
 Nuestro Maestro deja claro que podemos esperar muchos problemas, tribulaciones, luchas y conflictos en nuestros esfuerzos continuos por prosperar en el espíritu; pero eso no es todo. Se espera de nosotros que aceptemos de buen grado nuestras luchas y que cumplamos alegremente nuestras obligaciones para con Dios, la familia y la sociedad.
 
-La noción de que una vida espiritual está llena de adversidades y obligaciones parece estar muy lejos de las opiniones de moda: que de algún modo un viaje espiritual es semejante a «una experiencia fantástica y mística de sentimientos de éxtasis indescriptibles» (<a id="a72_264"></a>[LU 101:1.1](/es/The_Urantia_Book/101#p1_1)) o que se trata de un estado mental de dicha utópica.
+La noción de que una vida espiritual está llena de adversidades y obligaciones parece estar muy lejos de las opiniones de moda: que de algún modo un viaje espiritual es semejante a «una experiencia fantástica y mística de sentimientos de éxtasis indescriptibles» (<a id="a72_264"></a>[LU 101:1.1](/es/The_Urantia_Book/101#p1_1)) o que se trata de un estado mental de dicha utópica.
 
 > La religión no es un método para alcanzar un estado dichoso y estático de paz mental sino un impulso dirigido a organizar el alma para el servicio activo. <a id="a74_157"></a>[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)
 
@@ -205,7 +205,7 @@ Las cortes y los tribunales de los universos también resuelven los malentendido
 
 Conflictos como estos parecen estar circunscritos al nivel del sistema local, específicamente al orden de los Hijos Landonadek. Aunque algunos Hijos Melquisedec han tenido lapsus de juicio y los Hijos Vorondadek de las constelaciones han errado ocasionalmente, nunca han caído en la rebelión ni se les ha encontrado jamás en desacato del gobierno universal.
 
- Sin embargo, parece haber una cantidad considerable de discordia en todos estos niveles inferiores de la administración del superuniverso. Y no hay mejor prueba de ello que la existencia de los Mensajeros Poderosos.
+ Sin embargo, parece haber una cantidad considerable de discordia en todos estos niveles inferiores de la administración del superuniverso. Y no hay mejor prueba de ello que la existencia de los Mensajeros Poderosos.
 
 > Los Mensajeros Poderosos… constituyen una clase de mortales perfeccionados que **han sido puestos a prueba en rebeliones o han demostrado su lealtad personal de algún otro modo**; todos han pasado por alguna prueba terminante de fidelidad al universo. En algún momento de su ascenso al Paraíso se mantuvieron firmes y leales frente a la deslealtad de sus superiores…. <a id="a209_370"></a>[LU 22:2.1](/es/The_Urantia_Book/22#p2_1) negrita añadida
 > 

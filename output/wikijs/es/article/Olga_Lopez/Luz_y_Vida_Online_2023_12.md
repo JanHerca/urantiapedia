@@ -257,7 +257,7 @@ Los cupos son limitados, ¡así que inscribíos lo antes posible!
 
 Para obtener más información sobre los cursos, podéis visitar [esta página](https://www.urantia.org/es/education/programacion-de-cursos)
 
- 
+ 
 
 
 ## Charlas urantianas de enero

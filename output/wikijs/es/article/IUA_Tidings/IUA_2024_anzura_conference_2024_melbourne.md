@@ -53,7 +53,7 @@ El problema del mundo es el problema del individuo. La realidad se compone de un
 <img src="/image/article/IUA_Tidings/Pond-and-Statues-570x239-1.jpg">
 </figure>
 
-[Hagan clic aquí](https://anzura.urantia-association.org/2023/12/10/2024-annual-conference-in-melbourne/) para obtener más información e inscribirse.
+[Hagan clic aquí](https://anzura.urantia-association.org/2023/12/10/2024-annual-conference-in-melbourne/) para obtener más información e inscribirse.
 
 ## Referencias
 

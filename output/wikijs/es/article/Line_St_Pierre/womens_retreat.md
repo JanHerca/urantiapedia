@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 **Del 10 al 13 de septiembre de 2015 – Fundación Urantia, Chicago**
 
-_El libro de Urantia_ nos informa de que nos guía el Espíritu de Dios, somos Hijas (Hijos) de Dios.
+_El libro de Urantia_ nos informa de que nos guía el Espíritu de Dios, somos Hijas (Hijos) de Dios.
 
 ¿Alguna vez han actuado bajo la inspiración de un valor que les ha traído gran alegría (espiritual)? En su próximo retiro, «Bailar con Dios,» cuatro Hijas de Dios han reunido un programa en el cual los participantes explorarán cuestiones tales como:
 <br style="clear:both;"/>
@@ -54,7 +54,7 @@ _El libro de Urantia_ nos informa de que nos guía el Espíritu de Dios, somos 
 
 - ¿Cómo nos hacemos conscientes de lo sagrado de los dones del cuerpo, de la conciencia y de la personalidad?
 
-Si quieren unirse a nosotras, contacten con Line St-Pierre [line.stpierre@gmail.com](mailto:line.stpierre@gmail.com) para obtener más información.
+Si quieren unirse a nosotras, contacten con Line St-Pierre [line.stpierre@gmail.com](mailto:line.stpierre@gmail.com) para obtener más información.
 
 ## Referencias
 

@@ -45,7 +45,7 @@ Disfrutamos de un gran número de asistentes, incluyendo a 17 nuevos invitados q
 
 Durante la introducción, se prestó atención a los asuntos administrativos de SUN (la Asociación Urantia de los Países Bajos). Se homenajeó a Bernhard Mertens, que falleció a primeros de agosto después de estar 40 días en el hospital. Bernhard Mertens y Johan Vandewalle se encargaron de dar varias presentaciones de los últimos años en nuestros encuentros de Urantia. Johan y Bernhard estaban planeando proporcionar la primera lectura de este año.
 
-Tenemos una vela Urantia que encendemos como símbolo de la alianza entre los lectores holandeses y los belgas flamencos de _El libro de Urantia_, pues algunos flamencos fueron nuestros invitados este día.
+Tenemos una vela Urantia que encendemos como símbolo de la alianza entre los lectores holandeses y los belgas flamencos de _El libro de Urantia_, pues algunos flamencos fueron nuestros invitados este día.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/IMG_1330.jpg">
@@ -55,7 +55,7 @@ Dado que la Conferencia de la Asociación Internacional de Amsterdam de 2018 ten
 
 La tercera presentación tuvo un diseño innovador. Ria Sprenger e Ina Terra mantuvieron un diálogo, dirigido por Frank van Rooij, de tema «La posición actual de Miguel de Nebadon y el valor de su otorgamiento en este planeta y en el universo local».
 
-Se distribuyeron a los asistentes algunos pasajes de la vida de Jesús de _El libro de Urantia_ para que pudieran participar interactivamente, usando ejemplos de la vida diaria con el fin de plantear la pregunta «¿Qué haría Jesús?». La información de _El libro de Urantia_ «cobró vida» realmente. De las respuestas sobre la encuesta, concluimos al final de la reunión que los asistentes apreciaron esta innovadora forma de presentación.
+Se distribuyeron a los asistentes algunos pasajes de la vida de Jesús de _El libro de Urantia_ para que pudieran participar interactivamente, usando ejemplos de la vida diaria con el fin de plantear la pregunta «¿Qué haría Jesús?». La información de _El libro de Urantia_ «cobró vida» realmente. De las respuestas sobre la encuesta, concluimos al final de la reunión que los asistentes apreciaron esta innovadora forma de presentación.
 
 Después de las presentaciones, se tuvo la oportunidad de plantear preguntas a los presentadores. Surgieron conversaciones interesantes. En favor de la audiencia, las opiniones de todos se trataron con respeto. En última instancia, se trata de la relación personal de todos con Dios.
 

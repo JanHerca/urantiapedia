@@ -46,7 +46,7 @@ You can receive 3–5 free books to place in libraries such as public libraries,
 
 _“The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.”_ [UB 195:10.16](/en/The_Urantia_Book/195#p10_16)
 
-_“The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!”_ [UB 196:1.2](/en/The_Urantia_Book/196#p1_2)
+_“The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!”_ [UB 196:1.2](/en/The_Urantia_Book/196#p1_2)
 
 <br style="clear:both;"/>
 

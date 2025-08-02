@@ -41,7 +41,7 @@ AmazonSmile es una manera sencilla y automática de apoyar a la Asociación Uran
 
 **¿Cómo compro en AmazonSmile?**
 
-Para comprar en AmazonSmile, simplemente vayan a [smile.amazon.com](http://smile.amazon.com/) desde el navegador de su computador o su dispositivo móvil. Quizá quieran añadir [smile.amazon.com](http://smile.amazon.com/) a sus favoritos para volver más fácilmente y comenzar su compra en AmazonSmile.
+Para comprar en AmazonSmile, simplemente vayan a [smile.amazon.com](http://smile.amazon.com/) desde el navegador de su computador o su dispositivo móvil. Quizá quieran añadir [smile.amazon.com](http://smile.amazon.com/) a sus favoritos para volver más fácilmente y comenzar su compra en AmazonSmile.
 
 **¿Qué productos de AmazonSmile se pueden elegir para hacer donaciones?**
 
@@ -53,11 +53,11 @@ Sí, pueden usar la misma cuenta en Amazon.com y AmazonSmile. La cesta de la com
 
 **¿Cómo selecciono apoyar a la Asociación cuando compro en AmazonSmile?**
 
-En su primera visita a AmazonSmile ([smile.amazon.com](http://smile.amazon.com/)), necesitan seleccionar la Asociación Urantia Internacional para recibir donaciones de compras que se pueden elegir antes de comenzar a comprar. AmazonSmile recordará su selección y todas las compras que se puedan elegir y que haga en [smile.amazon.com](http://smile.amazon.com/) darán como resultado una donación.
+En su primera visita a AmazonSmile ([smile.amazon.com](http://smile.amazon.com/)), necesitan seleccionar la Asociación Urantia Internacional para recibir donaciones de compras que se pueden elegir antes de comenzar a comprar. AmazonSmile recordará su selección y todas las compras que se puedan elegir y que haga en [smile.amazon.com](http://smile.amazon.com/) darán como resultado una donación.
 
 **¿Qué parte de mi compra dona Amazon?**
 
-La Fundación AmazonSmile donará el 0,5% del importe de las compras que se puedan elegir de AmazonSmile. El precio de compra es la cantidad que se paga por el artículo menos los reembolsos y quedan excluidos el envío y la entrega, tarifas por envolver regalos, impuestos o cargos de servicio. De vez en cuando podemos ofrecer promociones especiales por tiempo limitado que incrementan la cantidad de la donación en uno o más productos o servicios o proporcionar donaciones adicionales a organizaciones sin ánimo de lucro. Se podrían aplicar términos y restricciones especiales. Vean la promoción para más detalles.
+La Fundación AmazonSmile donará el 0,5% del importe de las compras que se puedan elegir de AmazonSmile. El precio de compra es la cantidad que se paga por el artículo menos los reembolsos y quedan excluidos el envío y la entrega, tarifas por envolver regalos, impuestos o cargos de servicio. De vez en cuando podemos ofrecer promociones especiales por tiempo limitado que incrementan la cantidad de la donación en uno o más productos o servicios o proporcionar donaciones adicionales a organizaciones sin ánimo de lucro. Se podrían aplicar términos y restricciones especiales. Vean la promoción para más detalles.
 
 **¿Puedo recibir una deducción de impuestos por las cantidades donadas de mis compras en AmazonSmile?**
 

@@ -35,7 +35,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 
 
-_Note de la rédaction : Le texte suivant a été rédigé par Rick Lyon, vice-président de l’Association Urantia des États-Unis (UAUS) devant le Conseil des représentants (CR) à l’issue des récentes élections des membres du Bureau du Service international (BSI)._
+_Note de la rédaction : Le texte suivant a été rédigé par Rick Lyon, vice-président de l’Association Urantia des États-Unis (UAUS) devant le Conseil des représentants (CR) à l’issue des récentes élections des membres du Bureau du Service international (BSI)._
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Rick-Lyon-150x150.jpg">
@@ -49,7 +49,7 @@ Le leadership de Gaétan comme Président a permis à l’Association de dispose
 
 Susan a apporté connaissances, sagesse, expérience, loyauté et passion à ce poste de secrétaire de l’Association Urantia et toute l’Association a bénéficié de ses services. Dire « Merci ! » pour un tel service n’est pas suffisant pour exprimer notre gratitude et notre reconnaissance pour son leadership. En tant qu’ancien Directeur général de l’Association Urantia, j’ai travaillé en étroite collaboration avec Susan pendant de nombreuses années et je peux vous dire par expérience qu’elle a fait un travail remarquable et qu’elle a donné tout ce qu’elle avait à cette organisation et aux personnes que nous servons – plusieurs fois, faisant des choses importantes que même personne ne savait.
 
-David a servi l’UAUS en tant que précédent Président, il est un ami et un serviteur loyal, dévoué et volontaire pour tous les membres de l’Association Urantia et pour la communauté Urantia. La direction de David a été l’ingrédient principal du programme de l’Association pour le Symposium sur le leadership 2011, qui a connu un vif succès.
+David a servi l’UAUS en tant que précédent Président, il est un ami et un serviteur loyal, dévoué et volontaire pour tous les membres de l’Association Urantia et pour la communauté Urantia. La direction de David a été l’ingrédient principal du programme de l’Association pour le Symposium sur le leadership 2011, qui a connu un vif succès.
 
 Nous ne doutons pas que leurs efforts ont été remarqués et consignés par nos amis invisibles et seront récompensés par des opportunités de service encore plus grandes en plus d’une satisfaction spirituelle pour un travail bien fait.
 

@@ -12,7 +12,7 @@ Chez Urantiapedia, nous créons une hémérothèque, une grande archive d'articl
 
 Nous n'ajoutons pas les articles au format PDF ou Word, ni sous forme de liens vers d'autres sites. Lorsqu'un article est ajouté, il devient sa propre page Web dans Urantiapedia et est catalogué par auteur et par sujet. La conversion corrige les références au _Le Livre d'Urantia_ et à d'autres livres pour tenter d'établir un lien direct avec le reste de l'Urantiapedia, comme expliqué dans [Système de référence global unique pour le Livre d'Urantia](/fr/help/links#système-de-référence-mondial-unique-pour-le-livre-durantia). De cette façon, les articles sont beaucoup plus utiles car ils permettent la navigation entre eux et le reste du contenu, en particulier _Le Livre d'Urantia_, ils permettent des recherches à l'intérieur de ceux-ci et sont davantage intégrés au reste du site Web.
 
-Il existe deux types d'articles selon les autorisations d'édition :
+Il existe deux types d'articles selon les autorisations d'édition :
 1. Les articles d'auteur sont créés par des utilisateurs qui sont les seuls à avoir l'autorisation de les modifier. Ces articles ne peuvent être modifiés que par les utilisateurs qui les ont créés ou à qui ces utilisateurs ont donné leur autorisation.
 2. Les articles publics sont créés par des utilisateurs qui autorisent quiconque à les modifier. Ces articles ne sont pas limités en édition. Tous les utilisateurs disposant d'autorisations de modification d'articles peuvent modifier les articles.
 
@@ -34,7 +34,7 @@ Ces informations ainsi que d'autres sur la manière dont les articles du projet 
   - Fondation Urantia :
     - [Online News](https://www.urantia.org/news)
     - [Archives d'actualités](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-  - Fellowship du _Livre d'Urantia_ :
+  - Fellowship du _Livre d'Urantia_ :
     - [Fellowship Herald](https://urantia-book.org/archive/newsletters/herald/)
     - [Mighty Messenger](https://archive.urantiabook.org/archive/newsletters)
     - [The Study Group Herald (UBHS)](https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html)
@@ -68,7 +68,7 @@ Ces informations ainsi que d'autres sur la manière dont les articles du projet 
   - [Association Urantia de Cali](https://uracali.urantia-association.org/)
   - [Urantia Allemagne, Österreich et Scheweiz](https://dach.urantia-association.org/blog/)
   - [Suomen Urantia-seura](https://finland.urantia-association.org/category/vastauksia-kysymyksiin/)
-- Sites Web sur _Le Livre d'Urantia_ :
+- Sites Web sur _Le Livre d'Urantia_ :
   - [ThruthBook.com](https://truthbook.com/)
   - [Encyclopedia Urantia](http://www.encyclopediaurantia.org/)
   - [SquareCircles](https://www.squarecircles.com/)

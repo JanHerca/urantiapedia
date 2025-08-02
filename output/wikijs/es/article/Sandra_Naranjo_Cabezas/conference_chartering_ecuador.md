@@ -68,7 +68,7 @@ El último día se celebró una mesa redonda donde se trató sobre preguntas y c
 
 La AUEC invitó a todos a la Casa de Retiro Inmaculada Concepción, en el valle de los Chillos (Quito) para asistir a la ceremonia de acreditación de la inauguración de la Asociación Urantia de Ecuador. Nos place estar afiliados a la Asociación Urantia Internacional (AUI) y apreciamos la presencia del presidente de la Asociación Urantia, Chris Wood, y del presidente de Membresía, Luis García Bory.
 
-Por último, damos las gracias a Xavier Alvarado Robles, director del canal de televisión INTI TV Network y a Marcelo Guerrero, que grabaron toda la conferencia, entre otras cosas una entrevista con preguntas y respuestas sobre temas de _El libro de Urantia_ a Tamila Ragimova, Efraín Vivanco, Francisco Ramírez, Gorki Barreto, Isabel Reinoso, Israel Urresta y Sandra Naranjo. Esta entrevista se transmitirá por INTI TV a muchos países, como por ejemplo Estados Unidos, República Dominicana, Perú, Ecuador, Colombia, Argentina, México, Guatemala, Bolivia, Paraguay, Chile, Costa Rica, Honduras y Panamá.
+Por último, damos las gracias a Xavier Alvarado Robles, director del canal de televisión INTI TV Network y a Marcelo Guerrero, que grabaron toda la conferencia, entre otras cosas una entrevista con preguntas y respuestas sobre temas de _El libro de Urantia_ a Tamila Ragimova, Efraín Vivanco, Francisco Ramírez, Gorki Barreto, Isabel Reinoso, Israel Urresta y Sandra Naranjo. Esta entrevista se transmitirá por INTI TV a muchos países, como por ejemplo Estados Unidos, República Dominicana, Perú, Ecuador, Colombia, Argentina, México, Guatemala, Bolivia, Paraguay, Chile, Costa Rica, Honduras y Panamá.
 
 ## Referencias
 

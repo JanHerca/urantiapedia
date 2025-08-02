@@ -65,7 +65,7 @@ Jean-Pierre Heudier estimuló una discusión animada con su presentación, _Auto
 
 Chris Wood, presidente de la Asociación Urantia Internacional, habló sobre _Una mirada desastrosa a los mundos mansión_, ¡una treta elaborada para hablar sobre sus hijos y enseñarnos fotos de ellos! Chris compartió historias deliciosas que demostraron lo «desastroso» que es nuestro planeta (se refería, por supuesto, a nuestro atípico desarrollo).
 
-Richard Jernigan mostró su vídeo sobre Urantia, _Nebadon y el universo maestro_. Es un recorrido por la relación numérica de Urantia respecto a su universo local de Nebadon y al universo maestro, basado en la cosmología de _El libro de Urantia_. Hagan clic aquí abajo para ver este asombroso vídeo de 5 minutos.
+Richard Jernigan mostró su vídeo sobre Urantia, _Nebadon y el universo maestro_. Es un recorrido por la relación numérica de Urantia respecto a su universo local de Nebadon y al universo maestro, basado en la cosmología de _El libro de Urantia_. Hagan clic aquí abajo para ver este asombroso vídeo de 5 minutos.
 
 https://www.youtube.com/watch?v=loEnwEdRT_g&utm_source=Emailbrain&utm_medium=email&utm_term=NewsletterLink&utm_campaign=UrantiaFilm+10_2014&utm_content=
 
@@ -75,7 +75,7 @@ El domingo por la mañana todos fueron invitados a otra pequeña comedia, _Está
 
 Gaetan Charland terminó el fin de semana con una charla sobre el _Mandato de Publicación_ y la importancia de fomentar más grupos de estudio.
 
-Para ver la revista de la LSUA, que contiene un relato detallado y fotos de la conferencia, hagan [clic aquí](http://campaign.r20.constantcontact.com/render?ca=4e66c641-fdcb-4774-aab3-2326373ec882&c=22108ca0-73f1-11e4-a2cb-d4ae52844279&ch=22a0e5c0-73f1-11e4-a343-d4ae52844279)
+Para ver la revista de la LSUA, que contiene un relato detallado y fotos de la conferencia, hagan [clic aquí](http://campaign.r20.constantcontact.com/render?ca=4e66c641-fdcb-4774-aab3-2326373ec882&c=22108ca0-73f1-11e4-a2cb-d4ae52844279&ch=22a0e5c0-73f1-11e4-a343-d4ae52844279)
 
 ## Referencias
 

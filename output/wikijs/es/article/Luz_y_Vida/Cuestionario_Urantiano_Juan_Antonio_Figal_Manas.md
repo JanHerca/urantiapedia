@@ -50,9 +50,9 @@ Me quedé atónito porque muchos de los conceptos que leía y mucha de la inform
 
 No sé exactamente en qué momento supe que era una revelación. Había ciertas dudas, como es comprensible, pero lo que sí sé es que a medida que lo iba leyendo mi nivel de conciencia fue cambiando y empecé a ver las cosas de manera distinta. Desde un principio tenía claro que algo había y que la información que se daba era muy coherente y muy acorde a mí manera de pensar. A día de hoy no es que crea en la información que se da, es que lo sé.
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
 
-Pues es sencillo: hago la voluntad del Padre y estoy en armonía con el amado Creador de nuestro universo local mientras afronto las dificultades de la vida. Les quiero mucho y me alegro de poder llevarlos todo el día en mi corazón, a pesar de que como ser imperfecto no hago muchas cosas bien. 
+Pues es sencillo: hago la voluntad del Padre y estoy en armonía con el amado Creador de nuestro universo local mientras afronto las dificultades de la vida. Les quiero mucho y me alegro de poder llevarlos todo el día en mi corazón, a pesar de que como ser imperfecto no hago muchas cosas bien. 
 
 ## 5. ¿Hay algún punto (o puntos) de la revelación que te cueste aceptar?
 

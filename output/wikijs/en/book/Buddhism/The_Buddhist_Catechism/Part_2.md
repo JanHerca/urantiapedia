@@ -144,7 +144,7 @@ A. A condition of total cessation of changes, of perfect rest; of the absence of
 
 131\. Q. _Where can be found a learned discussion of the word Nirvâṇa, and a list of the other names by which the old Pâlî writers attempted to define it?_
 
-A. In the famous Dictionary of the Pâlî Language, by the late Mr. R. C. Childers, is a complete list. [^8]
+A. In the famous Dictionary of the Pâlî Language, by the late Mr. R. C. Childers, is a complete list. [^8]
 
 132\. Q. _But some people imagine that Nirvâṇa is some sort of heavenly place, a Paradise. Does Buddhism teach that?_
 
@@ -230,7 +230,7 @@ A. Yes: the first line embodies the whole spirit of the _Vinâya Pitaka_, the se
 
 A. To ‘cease from sin’ may be called passive, but to ‘get virtue’ and to 'cleanse one's own heart,' or mind, are altogether _active_ qualities. Buddha taught <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> that we should not merely not be evil, but that we should be positively good.
 
-149\. Q. _Who or what are the “Three Guides” [^9] that a Buddhist is supposed to follow?_
+149\. Q. _Who or what are the “Three Guides” [^9] that a Buddhist is supposed to follow?_
 
 A. They are disclosed in the formula called the Tisaraṇa: “I follow Buddha as my Guide: I follow the Law as my Guide: I follow the order as my Guide.” These three are, in fact, the Buddha Dharma.
 
@@ -248,7 +248,7 @@ A. Yes; but we are taught by the Buddha that only those who diligently attend to
 
 A. Certainly not.
 
-153\. Q. _What are the five observances, or universal_ 
+153\. Q. _What are the five observances, or universal_ 
 
 <span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
@@ -260,7 +260,7 @@ A. They are included in the following formula, which Buddhists repeat publicly a
 
 I observe the precept to refrain from stealing.
 
-I observe the precept to abstain from unlawful sexual intercourse. [^10]
+I observe the precept to abstain from unlawful sexual intercourse. [^10]
 
 I observe the precept to refrain from falsehood.
 
@@ -350,7 +350,7 @@ A. Justice.
 
 A. Because it teaches that every man gets, under the operations of unerring KARMA, exactly that reward or punishment which he has deserved, no more and no less. No good deed or bad deed, however trifling, and however secretly committed, escapes the evenly-balanced scales of Karma.
 
-172\. Q. _What is Karma?_ [^11]
+172\. Q. _What is Karma?_ [^11]
 
 A. A causation operating on the moral, as well as on the physical and other planes. Buddhists say there is no miracle in human affairs what a man sows that he must and will reap.
 
@@ -376,7 +376,7 @@ A. Forty-nine days.
 
 <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
-A. The _Dhammacakka-ppavattana sutta_,—the Sûtra of the Definition of the Rule of Doctrine. [^12]
+A. The _Dhammacakka-ppavattana sutta_,—the Sûtra of the Definition of the Rule of Doctrine. [^12]
 
 178\. Q. _What subjects were treated by him in this. discourse?_
 
@@ -386,7 +386,7 @@ A. The “Four Noble Truths,” and the “Noble Eight-fold Path.” He condemne
 
 A. He did not; he opposed it. The worship of gods, demons, trees, etc, was condemned by the Buddha. External worship is a fetter that one has to break if he is to advance higher.
 
-160\. Q. _But do not Buddhists make reverence_ 
+160\. Q. _But do not Buddhists make reverence_ 
 
 <span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
@@ -404,7 +404,7 @@ A. The Buddhist reverences the Buddha's statue and the other things you have men
 
 183\. _Q. Has the Buddha himself given us something definite upon this subject?_
 
-A. Certainly. In the _Mahâ Pari-Nirvâṇa Sutta_  <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> he says that emancipation is attainable only by leading the Holy life, according to the Noble Eight-fold Path, not by external worship (_âmisa pûja_), nor by adoration of himself, or of another, or of any image.
+A. Certainly. In the _Mahâ Pari-Nirvâṇa Sutta_ <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> he says that emancipation is attainable only by leading the Holy life, according to the Noble Eight-fold Path, not by external worship (_âmisa pûja_), nor by adoration of himself, or of another, or of any image.
 
 184\. Q. _What was the Buddha's estimate of ceremonialism?_
 
@@ -472,7 +472,7 @@ A. The _Dhammapada_ says: “Like a beautiful flower full of color without scent
 
 200\. Q. _Does Buddhism teach us to return evil for evil?_
 
-A. In the _Dhammapada_ the Buddha said: “If a man foolishly does me wrong, I will return to him the protection of my ungrudging love; the more evil comes from him, the more good shall go from me.” This is the path followed by the Arhat. [^14] To return evil for evil is positively forbidden in Buddhism.
+A. In the _Dhammapada_ the Buddha said: “If a man foolishly does me wrong, I will return to him the protection of my ungrudging love; the more evil comes from him, the more good shall go from me.” This is the path followed by the Arhat. [^14] To return evil for evil is positively forbidden in Buddhism.
 
 <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
@@ -486,7 +486,7 @@ A. The _Dhammika Sutta_ says: “Let him (the householder) not destroy, or cause
 
 203\. Q. _Does it approve of drunkenness?_
 
-A. In his _Dhammika Sutta_ we are warned against drinking liquors, causing others to drink, or sanctioning the acts of those who drink. [^16]
+A. In his _Dhammika Sutta_ we are warned against drinking liquors, causing others to drink, or sanctioning the acts of those who drink. [^16]
 
 204\. Q. _To what are we told that drunkenness leads?_
 
@@ -598,7 +598,7 @@ A. That by his merits he reached the highest fame; that many Khattiyas (Kshattri
 
 229\. Q. _Does Buddhism teach the immortality of the soul?_
 
-A. It considers “soul” to be a word used by the ignorant to express a false idea. If every thing is subject to change, then man is included, and every material part of him must change. That which is subject to change is not permanent: so there can be no immortal survival of a changeful thing. [^17]
+A. It considers “soul” to be a word used by the ignorant to express a false idea. If every thing is subject to change, then man is included, and every material part of him must change. That which is subject to change is not permanent: so there can be no immortal survival of a changeful thing. [^17]
 
 230\. Q. What is so objectionable in this word ‘soul’?
 
@@ -608,7 +608,7 @@ A. The idea associated with it that man can be an entity separated from all othe
 
 A. Exactly so.
 
-232\. Q. _If the idea of a separate human soul_ 
+232\. Q. _If the idea of a separate human soul_ 
 
 <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
@@ -618,7 +618,7 @@ A. _Tanhâ_, or the unsatisfied desire for existence. The being having done that
 
 233\. Q. _What is it that is born?_
 
-A. A new aggregation of Skandhas, or personality [^18] <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> caused by the last generative thought of the dying person.
+A. A new aggregation of Skandhas, or personality [^18] <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> caused by the last generative thought of the dying person.
 
 234\. Q. _How many Skandhas are there?_
 
@@ -640,7 +640,7 @@ A. To the ripened Karma of the individual in his preceding births.
 
 235\. Q. _What is the force or energy that is at work, under the guidance of Karma, to produce the new being?_
 
-A. Tanhâ—the will to _live_. [^19] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 239\. Q. _Upon what is the doctrine of re-births founded?_
+A. Tanhâ—the will to _live_. [^19] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 239\. Q. _Upon what is the doctrine of re-births founded?_
 
 A. Upon the perception that perfect justice, equilibrium and adjustment are inherent in the universal system of Nature. Buddhists do not believe that one life—even though it were extended to one hundred or five hundred years—is long enough for the reward or punishment of a man's deeds. The great circle of re-births will be more or less quickly run through according to the preponderating purity or impurity of the several lives of the individual.
 
@@ -676,7 +676,7 @@ A. All.
 
 A. Greed, Malice, Sloth, Pride, and Doubt.
 
-248\. Q. _Why do we see this minute division of feelings, impulses, workings of the mind, obstacles and_ 
+248\. Q. _Why do we see this minute division of feelings, impulses, workings of the mind, obstacles and_ 
 
 <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
@@ -696,7 +696,7 @@ A. He knew the nature of the Knowable and the Unknowable, the Possible and the I
 
 <span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
-A. It is called _Paticca Samuppâdâ_. [^21]
+A. It is called _Paticca Samuppâdâ_. [^21]
 
 252\. Q. _Is it easily grasped?_
 

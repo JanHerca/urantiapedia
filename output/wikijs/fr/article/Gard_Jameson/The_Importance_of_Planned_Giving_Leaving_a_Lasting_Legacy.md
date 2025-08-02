@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Gard Jameson, trésorier, Fondation Urantia, Nevada, États-Unis_
 
-La Révélation Urantia envisage un monde qui embrasse une culture d'amour, de compassion et d'espoir, avec des valeurs de vérité, de beauté et de bonté, et éclairé par l'accomplissement spirituel et la conscience cosmique. Vous avez une occasion unique et extraordinaire de favoriser cette culture pour les générations à venir !
+La Révélation Urantia envisage un monde qui embrasse une culture d'amour, de compassion et d'espoir, avec des valeurs de vérité, de beauté et de bonté, et éclairé par l'accomplissement spirituel et la conscience cosmique. Vous avez une occasion unique et extraordinaire de favoriser cette culture pour les générations à venir !
 
 L'une des façons les plus significatives de soutenir la mission durable de la Fondation Urantia est de faire un don planifié. Contrairement aux dons annuels, qui fournissent un soutien immédiat, les dons planifiés sont conçus pour assurer l'avenir à long terme de la Fondation. En incluant la Fondation Urantia dans votre testament, votre fiducie, ou étant bénéficiaire d'un compte de retraite, vous aidez à soutenir son travail pour les décennies à venir.
 

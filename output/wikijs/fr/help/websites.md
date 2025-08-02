@@ -79,21 +79,21 @@ La liste ci-dessous montre le catalogue des sites Web dont le contenu présenté
 
 ## Publications disponibles à la Société historique de l'UB
 
-Liste complète : https://ubhs.hosted-by-files.com/http/DocTypesIndex.html
+Liste complète : https://ubhs.hosted-by-files.com/http/DocTypesIndex.html
 
 | Web                                                                                                                                                                                           | :globe_with_meridians: | Contenu |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --- |
-| [L'arène](https://ubhs.hosted-by-files.com/http/FrameDocTypesQJ.html) <br> Bulletin australien                                                                                                | `en`                   | :page_with_curl : |
-| [Réflexions cosmiques](https://ubhs.hosted-by-files.com/http/FrameDocTypesPH.html) <br> Floride, États-Unis Bulletin de l'association                                                         | `en`                   | :page_with_curl : |
-| [Harmony](https://ubhs.hosted-by-files.com/http/FrameDocTypesPK.html) <br> Georgia Association Bulletin, États-Unis                                                                           | `en`                   | :page_with_curl : |
-| [Journal de la Fraternité Spirituelle](https://ubhs.hosted-by-files.com/http/FrameDocTypesPT.html) <br> Bulletin de la Fraternité                                                             | `en`                   | :page_with_curl : |
-| [Journal de la communauté chrétienne](https://ubhs.hosted-by-files.com/http/FrameDocTypesPT.html) <br> Newsletter de la communauté chrétienne                                                 | `en`                   | :page_with_curl : |
-| [First Urantia Society of LA - The Agodonter Paper](https://ubhs.hosted-by-files.com/http/FrameDocTypesPA.html) <br> Los Angeles, US Association Bulletin                                     | `en`                   | :page_with_curl : |
-| [Première Urantia Society of LA - Monitor](https://ubhs.hosted-by-files.com/http/FrameDocTypesPA.html) <br> Los Angeles, US Association Bulletin                                              | `en`                   | :page_with_curl : |
-| [The Study Group Herald](https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html) <br> Bulletin de la bourse                                                                               | `en`                   | :page_with_curl : |
-| [L'Urantian](https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html) <br> Bulletin de la communauté                                                                                       | `en`                   | :page_with_curl : |
-| [Nouvelles](https://ubhs.hosted-by-files.com/http/FrameDocTypesQA.html) <br> Bulletin AUI                                                                                                     | `en`                   | :page_with_curl : |
-| [Centre d'Etude et de Réflexion](https://ubhs.hosted-by-files.com/http/FrameDocTypesPE.html) <br> Bulletin de l'Association française                                                         | `fr`                   | :page_with_curl : |
+| [L'arène](https://ubhs.hosted-by-files.com/http/FrameDocTypesQJ.html) <br> Bulletin australien                                                                                                | `en`                   | :page_with_curl : |
+| [Réflexions cosmiques](https://ubhs.hosted-by-files.com/http/FrameDocTypesPH.html) <br> Floride, États-Unis Bulletin de l'association                                                         | `en`                   | :page_with_curl : |
+| [Harmony](https://ubhs.hosted-by-files.com/http/FrameDocTypesPK.html) <br> Georgia Association Bulletin, États-Unis                                                                           | `en`                   | :page_with_curl : |
+| [Journal de la Fraternité Spirituelle](https://ubhs.hosted-by-files.com/http/FrameDocTypesPT.html) <br> Bulletin de la Fraternité                                                             | `en`                   | :page_with_curl : |
+| [Journal de la communauté chrétienne](https://ubhs.hosted-by-files.com/http/FrameDocTypesPT.html) <br> Newsletter de la communauté chrétienne                                                 | `en`                   | :page_with_curl : |
+| [First Urantia Society of LA - The Agodonter Paper](https://ubhs.hosted-by-files.com/http/FrameDocTypesPA.html) <br> Los Angeles, US Association Bulletin                                     | `en`                   | :page_with_curl : |
+| [Première Urantia Society of LA - Monitor](https://ubhs.hosted-by-files.com/http/FrameDocTypesPA.html) <br> Los Angeles, US Association Bulletin                                              | `en`                   | :page_with_curl : |
+| [The Study Group Herald](https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html) <br> Bulletin de la bourse                                                                               | `en`                   | :page_with_curl : |
+| [L'Urantian](https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html) <br> Bulletin de la communauté                                                                                       | `en`                   | :page_with_curl : |
+| [Nouvelles](https://ubhs.hosted-by-files.com/http/FrameDocTypesQA.html) <br> Bulletin AUI                                                                                                     | `en`                   | :page_with_curl : |
+| [Centre d'Etude et de Réflexion](https://ubhs.hosted-by-files.com/http/FrameDocTypesPE.html) <br> Bulletin de l'Association française                                                         | `fr`                   | :page_with_curl : |
 
 ## Autres associations internationales
 

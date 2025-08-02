@@ -47,7 +47,7 @@ Regístrense ahora y benefíciense de descuentos para asistir a la Conferencia I
 
 ¿Por qué deberían asistir a esta conferencia? Porque las conferencias internacionales son experiencias únicas que fomentan el crecimiento espiritual y la hermandad, a la vez que amplían enormemente su percepción y valoración de _El libro de Urantia_ y de sus enseñanzas. Las conferencias internacionales han cambiado la vida de los alumnos, han activado la perspicacia en nuestro potencial profundo – el significado presente y profundo del plan de Dios para nosotros, y el valor eterno que podemos afirmar en el servicio en el universo.
 
-Este evento está centrado en la educación espiritual en muchos niveles, comenzando por la familia como hijos y siguiendo hasta la madurez del adulto. En _El libro de Urantia_ se hace mucho hincapié en la importancia de la educación; sin aprendizaje no hay progreso espiritual, social o intelectual del individuo o de la sociedad. Todos queremos desempeñar un papel significativo e importante en nuestra propia evolución y en la del mundo. Esta conferencia podría ayudarnos a ello, así que… ¿por qué esperar a la siguiente?
+Este evento está centrado en la educación espiritual en muchos niveles, comenzando por la familia como hijos y siguiendo hasta la madurez del adulto. En _El libro de Urantia_ se hace mucho hincapié en la importancia de la educación; sin aprendizaje no hay progreso espiritual, social o intelectual del individuo o de la sociedad. Todos queremos desempeñar un papel significativo e importante en nuestra propia evolución y en la del mundo. Esta conferencia podría ayudarnos a ello, así que… ¿por qué esperar a la siguiente?
 
 El presente es donde vivimos y podemos actuar; el futuro no está abierto a nuestra mente – por esa razón deberían inscribirse ahora. ¡El tiempo se acaba para obtener los mejores precios!
 
@@ -69,7 +69,7 @@ Los talleres son una gran manera de participar y de crecer durante una conferenc
 
 Se requiere que envíen su elección antes del 1 de junio, con la información requerida en la página 6 del programa. Déjennos unos días para responder a su petición. También les proporcionaremos un documento informativo sobre cómo facilitar un taller; haremos todo lo que podamos para que su contribución sea una experiencia única.
 
-No olviden inscribirse tan pronto como puedan en:  [https://www.regonline.ca/builder/site/Default.aspx?EventID=1643032](https://www.regonline.ca/builder/site/Default.aspx?EventID=1643032) y disfruten de los beneficios de inscribirse pronto. Esta oferta termina el 1 de junio.
+No olviden inscribirse tan pronto como puedan en: [https://www.regonline.ca/builder/site/Default.aspx?EventID=1643032](https://www.regonline.ca/builder/site/Default.aspx?EventID=1643032) y disfruten de los beneficios de inscribirse pronto. Esta oferta termina el 1 de junio.
 
 ## Referencias
 

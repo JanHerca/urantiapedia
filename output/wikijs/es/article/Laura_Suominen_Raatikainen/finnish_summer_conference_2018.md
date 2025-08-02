@@ -43,11 +43,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Una vez más, los lectores finlandeses de _El libro de Urantia_ celebraron su conferencia anual de verano, organizada por la Asociación de Urantia de Finlandia del 9 al 10 de junio de 2018 en el Lautsiala Resort de Hauho. Nos reunimos más de 30 personas, el clima fue muy bueno y el resort era un hermoso lugar para celebrar la reunión. El fin de semana comenzó con música y canciones en vivo.
 
-Hubo varias presentaciones. Ben, de más de 90 años, reflexionó sobre los últimos 100 años en Finlandia y enlazó su historia con _El libro de Urantia_. Terminó su presentación diciendo: «Podemos dirigirnos a la época de luz y vida siempre que queramos».
+Hubo varias presentaciones. Ben, de más de 90 años, reflexionó sobre los últimos 100 años en Finlandia y enlazó su historia con _El libro de Urantia_. Terminó su presentación diciendo: «Podemos dirigirnos a la época de luz y vida siempre que queramos».
 
-Hubo presentaciones sobre «La vida eterna en el universo» y «Creencia y creer», que se centraron en la relación personal con el Padre.
+Hubo presentaciones sobre «La vida eterna en el universo» y «Creencia y creer», que se centraron en la relación personal con el Padre.
 
-Hubo también una presentación personal, «La vida eterna comienza ya en nuestra forma mortal», en el que la conferenciante habló de su crecimiento personal con la ayuda de _El libro de Urantia_. Al fin y al cabo el libro es una excelente «guía de viajes» en nuestro camino hacia la vida eterna.
+Hubo también una presentación personal, «La vida eterna comienza ya en nuestra forma mortal», en el que la conferenciante habló de su crecimiento personal con la ayuda de _El libro de Urantia_. Al fin y al cabo el libro es una excelente «guía de viajes» en nuestro camino hacia la vida eterna.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Manor-house-by-Sebastian-N-1-300x225.jpg">

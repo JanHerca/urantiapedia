@@ -54,18 +54,18 @@ Joanne Strobel a rapporté que la session de janvier de l'École internationale 
 
 Joanne a fait remarquer que l'UBIS avait beaucoup progressé depuis que Georges Michelson-Dupont avait présenté un plan de neuf ans, quatre ans plus tôt. Une formule de réussite a été mise au point et, bien que cela n'ait pas été facile, des progrès ont été réalisés en ce qui concerne l'ajout d'enseignants-animateurs formés en allemand, en hongrois et en polonais. La directrice de la branche espagnole, Olga López, a fait remarquer que le développement d'une branche linguistique au sein de l'UBIS était un travail difficile, mais qui en valait la peine. Georges a remercié Olga pour tout le travail qu'elle avait accompli, ajoutant qu'elle fut un brillant exemple de direction d'une branche linguistique réussie, pendant 20 ans.
 
-Le « Symposium sur le mariage et la famille » en ligne de la Fondation Urantia a eu lieu les 14 et 15 juin. Brad Garner a géré la plateforme Zoom Sessions. Les enregistrements des présentations seront bientôt disponibles.
+Le « Symposium sur le mariage et la famille » en ligne de la Fondation Urantia a eu lieu les 14 et 15 juin. Brad Garner a géré la plateforme Zoom Sessions. Les enregistrements des présentations seront bientôt disponibles.
 
 Tamara Strumfeld a fait un rapport sur les activités du premier trimestre du Répertoire des Groupes d'Étude du Livre d'Urantia. Le Répertoire fonctionne bien et avec une grande partie du travail automatisé, les membres du comité répondent principalement aux demandes des lecteurs. Le nettoyage annuel est presque terminé et ils ont recruté des volontaires pour aider à téléphoner aux animateurs de groupes qui n'ont pas répondu aux courriels envoyés pour vérifier que leurs groupes soient toujours actifs et se réunissent. Il est passionnant de constater qu'il y a aujourd'hui plus de groupes d'étude en dehors des États-Unis qu'à l'intérieur du pays.
 
 ## Collecte de fonds et Finances
 
-- Les dons non restreints du premier trimestre ont été supérieurs de 15 % à ceux du premier trimestre 2023 et de 9 % au budget du premier trimestre.
-- Les dons restreints ont été inférieurs de 47 % à ceux du premier trimestre 2023 et supérieurs de 16 % au budget du premier trimestre.
+- Les dons non restreints du premier trimestre ont été supérieurs de 15 % à ceux du premier trimestre 2023 et de 9 % au budget du premier trimestre.
+- Les dons restreints ont été inférieurs de 47 % à ceux du premier trimestre 2023 et supérieurs de 16 % au budget du premier trimestre.
 - Les dons de succession du 1er trimestre ont totalisé 421 691 dollars.
-- Les recettes totales ont diminué de 8 % par rapport au premier trimestre 2023 et sont inférieures de 6 % au budget prévu.
-- Les dépenses administratives ont augmenté de 11 % au premier trimestre et ont dépassé le budget de 5 %.
-- Les dépenses totales ont diminué de 11 % par rapport au premier trimestre de l'année dernière et ont été inférieures de 11 % au budget.
+- Les recettes totales ont diminué de 8 % par rapport au premier trimestre 2023 et sont inférieures de 6 % au budget prévu.
+- Les dépenses administratives ont augmenté de 11 % au premier trimestre et ont dépassé le budget de 5 %.
+- Les dépenses totales ont diminué de 11 % par rapport au premier trimestre de l'année dernière et ont été inférieures de 11 % au budget.
 
 ## Programme de subvention de la Graine de Moutarde (MSGP)
 

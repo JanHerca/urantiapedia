@@ -54,7 +54,7 @@ Los tres días fueron inolvidables y todos esperamos con ilusión la próxima re
 Luz y paz.
 En servicio.
 Paulo Cesar Zapello
-Presidente – Asociación Urantia de Brasil
+Presidente – Asociación Urantia de Brasil
 <br style="clear:both;"/>
 
 ## Referencias

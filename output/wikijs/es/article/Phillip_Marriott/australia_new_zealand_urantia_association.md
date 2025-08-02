@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Canberra-Conf-2019-scaled.jpg">
 </figure>
 
-La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) se constituyó por primera vez como asociación nacional en 1992 y fue una de las asociaciones no estadounidenses pioneras en unirse a la entonces recién creada Asociación Urantia Internacional, que siempre ha apoyado y trabajado en estrecha colaboración con la Fundación Urantia (muchos de los miembros fundadores de ANZURA habían sido miembros de la antigua Hermandad Urantia). 
+La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) se constituyó por primera vez como asociación nacional en 1992 y fue una de las asociaciones no estadounidenses pioneras en unirse a la entonces recién creada Asociación Urantia Internacional, que siempre ha apoyado y trabajado en estrecha colaboración con la Fundación Urantia (muchos de los miembros fundadores de ANZURA habían sido miembros de la antigua Hermandad Urantia). 
 
 **Grupos de estudio**
 Desde que la pandemia de COVID estimuló la explosión de la tecnología de conferencias por Internet de Zoom, muchos lectores que antes no podían experimentar un grupo de estudio tienen ahora la oportunidad de cosechar los beneficios de estudiar y socializar con otros lectores. No hace falta decir que la asistencia a los grupos de estudio ha crecido rápidamente en los últimos años.

@@ -43,7 +43,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 **Cadeaux**
 
-**Symposium sur la science IV : L'évolution des connaissances humaines - 100 ans plus tard**
+**Symposium sur la science IV : L'évolution des connaissances humaines - 100 ans plus tard**
 
 **Du jeudi 6 au samedi 8 novembre 2025**
 
@@ -51,13 +51,13 @@ Les 25 premières années du vingtième siècle ont été riches en progrès pas
 
 Nous avons également commencé à recevoir les fascicules d'Urantia.
 
-Les découvertes scientifiques sont-elles entrées en conflit avec les concepts révélés ? Ou bien les confirment-elles et les renforcent-elles ? Nous invitons des passionnés de science qui sont des étudiants de longue date du _Livre d'Urantia_ à donner une vue d'ensemble des 100 dernières années dans leur discipline et à partager leurs connaissances sur la façon dont nous avons progressé pendant ce laps de temps.
+Les découvertes scientifiques sont-elles entrées en conflit avec les concepts révélés ? Ou bien les confirment-elles et les renforcent-elles ? Nous invitons des passionnés de science qui sont des étudiants de longue date du _Livre d'Urantia_ à donner une vue d'ensemble des 100 dernières années dans leur discipline et à partager leurs connaissances sur la façon dont nous avons progressé pendant ce laps de temps.
 
 Si vous vous intéressez à l'archéologie, à l'astronomie, à la biologie, à la chimie, à la cosmologie, à la génétique, à la géologie, à la psychologie, à la physique ou à la physiologie, et que vous souhaitez participer au symposium, veuillez répondre en proposant un sujet sur lequel vous pouvez effectuer des recherches et que vous pouvez présenter dans un cadre formel.
 
 Les participants devront soumettre une proposition écrite avant le **15 avril** et, en cas d'acceptation, rédiger un article qui sera publié sur le site web de la Fondation. Vous pouvez choisir de présenter les résultats de votre recherche en personne à la Fondation ou à distance via Zoom. Les sessions seront diffusées en direct, enregistrées, éditées et diffusées à la communauté.
 
-Envoyez vos demandes de renseignements et vos propositions à [joanne@urantia.org](mailto:joanne@urantia.org). Nous nous réjouissons de recevoir les vôtres !
+Envoyez vos demandes de renseignements et vos propositions à [joanne@urantia.org](mailto:joanne@urantia.org). Nous nous réjouissons de recevoir les vôtres !
 
 ## La Quatrième conférence européenne, Paris, France - La distribution de Dieu : L'homme, héritier de Dieu
 
@@ -65,13 +65,13 @@ L'Association Urantia présente
 
 **La Quatrième conférence européenne, Paris, France**
 
-**Thème : La distribution de Dieu : L'homme, héritier de Dieu**
+**Thème : La distribution de Dieu : L'homme, héritier de Dieu**
 
 **Du 6─9 juin 2025**
 
-Ne manquez pas cette occasion d'étudier la cinquième révélation de l'époque dans la ville lumière ! L'hôtel CIS Paris Ravel est situé au cœur de Paris, dans un cadre verdoyant. L'équipe de planification fait tout son possible pour que cette conférence soit bien organisée et abordable.
+Ne manquez pas cette occasion d'étudier la cinquième révélation de l'époque dans la ville lumière ! L'hôtel CIS Paris Ravel est situé au cœur de Paris, dans un cadre verdoyant. L'équipe de planification fait tout son possible pour que cette conférence soit bien organisée et abordable.
 
-Le nombre de participants est limité à 80 personnes, alors réservez vite votre place !
+Le nombre de participants est limité à 80 personnes, alors réservez vite votre place !
 
 Pour plus d'informations, consultez le site [https://europe2025.urantia.fr/](https://europe2025.urantia.fr/) ou contactez directement l'équipe de planification à l'adresse suivante [evenement\_2025@urantia.fr](mailto:evenement_2025@urantia.fr)
 
@@ -85,13 +85,13 @@ Pour plus d'informations, consultez le site [https://europe2025.urantia.fr/](htt
 
 **Session d'étude d'été 2025**
 
- **La Fellowship du Livre d'Urantia revient à Unity Village**
+ **La Fellowship du Livre d'Urantia revient à Unity Village**
 
 **Du mercredi 30 juillet au samedi 2 août 2025**
 
 Le comité d'Éducation de la Fellowship a le plaisir d'annoncer qu'en 2025, la session d'étude d'été reviendra à Unity Village, Kansas City, Missouri.
 
-Le thème est « Partenariat avec Dieu : Jour après jour. » Cette rencontre de quatre jours permettra de passer plus de temps libre en mettant l'accent sur l'humour. Vous y trouverez également une stimulation spirituelle, une adoration de groupe et une véritable camaraderie.
+Le thème est « Partenariat avec Dieu : Jour après jour. » Cette rencontre de quatre jours permettra de passer plus de temps libre en mettant l'accent sur l'humour. Vous y trouverez également une stimulation spirituelle, une adoration de groupe et une véritable camaraderie.
 
 [S'inscrire](https://urantiabook.org/event-6039353)
 
@@ -123,9 +123,9 @@ Du jeudi 11 septembre au dimanche 14 septembre 2025
 
 **Approfondir leur lien avec Dieu**
 
-Rejoignez l'équipe d'animatrices des Filles de Dieu : Katharina Becker, Doreen Heyne, Sandra Rymberg et Line St-Pierre. Nous explorerons comment apporter la présence de Dieu dans nos vies quotidiennes et étendre son amour à ceux qui nous entourent dans un cercle sacré de confiance. Ensemble, nous partagerons, réfléchirons et découvrirons comment nous pouvons co-créer avec le Divin et marcher dans la foi avec joie.
+Rejoignez l'équipe d'animatrices des Filles de Dieu : Katharina Becker, Doreen Heyne, Sandra Rymberg et Line St-Pierre. Nous explorerons comment apporter la présence de Dieu dans nos vies quotidiennes et étendre son amour à ceux qui nous entourent dans un cercle sacré de confiance. Ensemble, nous partagerons, réfléchirons et découvrirons comment nous pouvons co-créer avec le Divin et marcher dans la foi avec joie.
 
-La retraite commencera par un dîner le jeudi soir et se terminera après le déjeuner le dimanche. Pour plus d'informations, visitez le site : [Filles de Dieu](http://sisterhoodcircle.net/upcoming-events/)
+La retraite commencera par un dîner le jeudi soir et se terminera après le déjeuner le dimanche. Pour plus d'informations, visitez le site : [Filles de Dieu](http://sisterhoodcircle.net/upcoming-events/)
 
 ## Références
 

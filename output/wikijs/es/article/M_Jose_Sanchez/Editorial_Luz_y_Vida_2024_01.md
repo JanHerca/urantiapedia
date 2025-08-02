@@ -114,7 +114,7 @@ Descubre pues con nosotros los pequeños tesoros que te ofrecemos y que esperamo
 - Ken Glasziou reflexionará sobre la Conciencia, determinismo y materialismo.
 - Podréis leer también la Crónica de la vida de Jesús (un estupendo resumen del documento 152).
 - Guía de _El libro de Urantia_ para niños: Jesús a los 17 años.
-- Otros libros de crecimiento espiritual:  _Zen o el despertar en la vida diaria_ (Roland Yuno Rech).
+- Otros libros de crecimiento espiritual: _Zen o el despertar en la vida diaria_ (Roland Yuno Rech).
 - El vídeo recomendado del mes es: ¿Me acompañas? ¡Empieza el viaje! (del canal de YouTube «Neurofisiología del espíritu»).
 - El bello cuento que este mes ofrecemos en la sección «Navegando por la vida»: El sabio y el escorpión.
 - Darío Franco nos hablará de su párrafo favorito del libro.
@@ -126,17 +126,17 @@ Permitidme que termine con una historia de un hermoso libro de un sacerdote cat�
 
 _«Jesús enseñaba a sus discípulos en parábolas. Y les decía:_
 
-_El reino de los cielos es semejante a dos hermanos que vivían felices y contentos, hasta que recibieron la llamada de Dios a hacerse discípulos._ 
+_El reino de los cielos es semejante a dos hermanos que vivían felices y contentos, hasta que recibieron la llamada de Dios a hacerse discípulos._ 
 
-_El de más edad respondió con generosidad a la llamada, aunque tuvo que ver cómo se desgarraba su corazón al separarse de su familia y de la muchacha a la que amaba y con la que soñaba casarse. Pero, al fin, se marchó a un país lejano, donde gastó su propia vida al servicio de los más pobres de entre los pobres. Se desató en aquel país una persecución, de resultas de la cual fue detenido, falsamente acusado, torturado y condenado a muerte._ 
+_El de más edad respondió con generosidad a la llamada, aunque tuvo que ver cómo se desgarraba su corazón al separarse de su familia y de la muchacha a la que amaba y con la que soñaba casarse. Pero, al fin, se marchó a un país lejano, donde gastó su propia vida al servicio de los más pobres de entre los pobres. Se desató en aquel país una persecución, de resultas de la cual fue detenido, falsamente acusado, torturado y condenado a muerte._ 
 
-_Y el Señor le dijo: “Muy bien, siervo fiel y cumplidor. Me has servido por el valor de mil talentos. Voy a recompensarte con mil millones de talentos. ¡Entra en el gozo de tu Señor!”._ 
+_Y el Señor le dijo: “Muy bien, siervo fiel y cumplidor. Me has servido por el valor de mil talentos. Voy a recompensarte con mil millones de talentos. ¡Entra en el gozo de tu Señor!”._ 
 
-_La respuesta del más joven fue mucho menos generosa. Decidió ignorar la llamada, seguir su camino y casarse con la muchacha a la que amaba. Disfrutó de un feliz matrimonio, le fue bien en los negocios y llegó a ser rico y próspero. De vez en cuando daba una limosna a algún mendigo o se mostraba bondadoso con su mujer y sus hijos. También de vez en cuando enviaba una pequeña suma de dinero a su hermano mayor, que se hallaba en un remoto país, adjuntándole una nota en la que decía: “Tal vez con esto puedas ayudar mejor a aquellos pobres diablos”._ 
+_La respuesta del más joven fue mucho menos generosa. Decidió ignorar la llamada, seguir su camino y casarse con la muchacha a la que amaba. Disfrutó de un feliz matrimonio, le fue bien en los negocios y llegó a ser rico y próspero. De vez en cuando daba una limosna a algún mendigo o se mostraba bondadoso con su mujer y sus hijos. También de vez en cuando enviaba una pequeña suma de dinero a su hermano mayor, que se hallaba en un remoto país, adjuntándole una nota en la que decía: “Tal vez con esto puedas ayudar mejor a aquellos pobres diablos”._ 
 
-_Cuando le llegó la hora, el Señor le dijo.: “Muy bien, siervo fiel y cumplidor. Me has servido por valor de diez talentos. Voy a recompensarte con mil millones de talentos. ¡Entra en el gozo de tu Señor!”._ 
+_Cuando le llegó la hora, el Señor le dijo.: “Muy bien, siervo fiel y cumplidor. Me has servido por valor de diez talentos. Voy a recompensarte con mil millones de talentos. ¡Entra en el gozo de tu Señor!”._ 
 
-_El hermano mayor se sorprendió al oír que su hermano iba a recibir la misma recompensa que él, pero le agradó sobremanera. Y dijo: “Señor, aun sabiendo esto, si tuviera que nacer de nuevo y volver a vivir, haría por ti exactamente lo mismo que he hecho”._ 
+_El hermano mayor se sorprendió al oír que su hermano iba a recibir la misma recompensa que él, pero le agradó sobremanera. Y dijo: “Señor, aun sabiendo esto, si tuviera que nacer de nuevo y volver a vivir, haría por ti exactamente lo mismo que he hecho”._ 
 
 _Esta sí que es una buena noticia: un Señor generoso y un discípulo que le sirve por el mero gozo de servir con amor.»_
 

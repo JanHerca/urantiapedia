@@ -87,7 +87,7 @@ Un autre exemple : Il sait combien il est sage d’avoir et de gérer l’argent
 
 Pendant qu’il travaillait avec Zébédée, il ne recevait que de petites sommes d’argent qu’il envoyait chaque mois à sa famille à Nazareth. Certains mois, Joseph se rendait à Capharnaüm pour récupérer l’argent et d’autres mois, Juda passait par Capharnaüm, recevait l’argent de Jésus et l’apportait à Nazareth. <a id="a87_309"></a>[LU 129:2.1](/fr/The_Urantia_Book/129#p2_1)
 
-Pierre dit : «  Alors, Seigneur, qui peut être sauvé ? « Tous ceux qui possèdent des richesses seront-ils exclus du royaume ?  » Jésus répondit : « Non, Pierre, mais tous ceux qui mettent leur confiance dans les richesses ont peu de chances d’entrer dans la vie spirituelle qui conduit au progrès éternel. Il y a cependant beaucoup de choses impossibles à l’homme qui ne sont pas hors de portée du Père qui est dans les cieux ; Nous devrions plutôt reconnaître qu’avec Dieu tout est possible. <a id="a89_493"></a>[LU 163:3.2](/fr/The_Urantia_Book/163#p3_2)
+Pierre dit : «  Alors, Seigneur, qui peut être sauvé ? « Tous ceux qui possèdent des richesses seront-ils exclus du royaume ?  » Jésus répondit : « Non, Pierre, mais tous ceux qui mettent leur confiance dans les richesses ont peu de chances d’entrer dans la vie spirituelle qui conduit au progrès éternel. Il y a cependant beaucoup de choses impossibles à l’homme qui ne sont pas hors de portée du Père qui est dans les cieux ; Nous devrions plutôt reconnaître qu’avec Dieu tout est possible. <a id="a89_493"></a>[LU 163:3.2](/fr/The_Urantia_Book/163#p3_2)
 
 <br style="clear:both;"/>
 

@@ -61,7 +61,7 @@ L’objectif de ces initiatives est de promouvoir la méthode de Sagesse Divine 
 
 Depuis qu’il a reçu _Le Livre d’Urantia_ de Jacques Weiss dans les années 1960, Moussa a créé un groupe de questions et réponses en 1973, qui s’est transformé en Groupe de Sagesse Divine Progressive. Cinq des plus anciens élèves de Moussa ont décidé de perpétuer l’esprit et la méthode de cette approche éducative pendant plusieurs années.
 
-A cet effet, les membres fondateurs de cette initiative ont créé officiellement le groupe dénommé « Groupe de Sagesse Divine Progressive » conformément à la loi du Sénégal, afin de promouvoir la méthode de manière plus professionnelle. Cela s’est fait sur la base de l’expérience acquise depuis plus de quarante ans, des leçons tirées de ces enseignements et des demandes des élèves.
+A cet effet, les membres fondateurs de cette initiative ont créé officiellement le groupe dénommé « Groupe de Sagesse Divine Progressive » conformément à la loi du Sénégal, afin de promouvoir la méthode de manière plus professionnelle. Cela s’est fait sur la base de l’expérience acquise depuis plus de quarante ans, des leçons tirées de ces enseignements et des demandes des élèves.
 
 Dans la foulée de cette initiative, le GSPD a initié, avec l’appui de bonnes volontés souscrivant à cette démarche, la création d’un site internet pour informer et encadrer la formation des étudiants, désireux d’approfondir, de manière personnelle, l’acquisition de cette Sagesse, et éventuellement, de la partager comme futur éducateur.
 

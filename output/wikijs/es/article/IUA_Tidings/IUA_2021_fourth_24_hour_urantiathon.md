@@ -44,9 +44,9 @@ Mientras el coronavirus persiste y nos mantiene a muchos encerrados en aislamien
 
 Una de las novedades más interesantes que se han añadido recientemente a nuestras reuniones de Zoom es la posibilidad de ofrecer traducciones simultáneas, principalmente en inglés, español y portugués. Es una función muy fácil de utilizar; los participantes solo tienen que seleccionar el canal de idiomas en la barra de tareas y elegir el idioma que desean escuchar. Estamos muy agradecidos a los increíbles traductores que trabajaron sin descanso durante horas para hacer posible que más personas experimentaran la diversidad de presentadores y sus presentaciones en diferentes idiomas.
 
-Si no pudieron asistir, se perdieron algo o simplemente desean volver a ver una presentación, pueden ver las grabaciones en la sección de vídeos de nuestra página de Facebook: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/)  
+Si no pudieron asistir, se perdieron algo o simplemente desean volver a ver una presentación, pueden ver las grabaciones en la sección de vídeos de nuestra página de Facebook: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/)  
 
-Las presentaciones se han ido subiendo poco a poco a nuestro canal de YouTube. Si todavía no están todas, tengan paciencia, pues se necesita mucho tiempo para que un voluntario edite el vídeo y lo divida en segmentos de una hora. Vayan a y hagan clic en la lista de reproducción de título _24-Hour Urantiathon—Faith, Joy, & Peace_. 
+Las presentaciones se han ido subiendo poco a poco a nuestro canal de YouTube. Si todavía no están todas, tengan paciencia, pues se necesita mucho tiempo para que un voluntario edite el vídeo y lo divida en segmentos de una hora. Vayan a y hagan clic en la lista de reproducción de título _24-Hour Urantiathon—Faith, Joy, & Peace_. 
 
 https://www.youtube.com/c/UrantiaAssociationInternational/playlists
 

@@ -46,7 +46,7 @@ Pueden recibir entre 3 y 5 libros gratis para colocar en bibliotecas públicas, 
 
 _«La gran esperanza de Urantia yace en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en servicio amante a las numerosas familias de sus seguidores profesos actuales.»_ [LU 195:10.16](/es/The_Urantia_Book/195#p10_16)
 
-_«La época ya está madura para presenciar la resurrección figurativa del Jesús humano de su sepulcro, de entre las tradiciones teológicas y dogmas religiosos acumulados en diecinueve siglos. Ya no debéis sacrificar a Jesús de Nazaret ni siquiera al espléndido concepto del Cristo glorificado. ¡Qué servicio transcendental sería, si se recuperara al Hijo del Hombre mediante esta revelación de la tumba de la teología tradicional, y se lo presentara como el Jesús vivo a la iglesia que lleva su nombre, y a todas las demás religiones!»_ [LU 196:1.2](/es/The_Urantia_Book/196#p1_2)
+_«La época ya está madura para presenciar la resurrección figurativa del Jesús humano de su sepulcro, de entre las tradiciones teológicas y dogmas religiosos acumulados en diecinueve siglos. Ya no debéis sacrificar a Jesús de Nazaret ni siquiera al espléndido concepto del Cristo glorificado. ¡Qué servicio transcendental sería, si se recuperara al Hijo del Hombre mediante esta revelación de la tumba de la teología tradicional, y se lo presentara como el Jesús vivo a la iglesia que lleva su nombre, y a todas las demás religiones!»_ [LU 196:1.2](/es/The_Urantia_Book/196#p1_2)
 
 <br style="clear:both;"/>
 

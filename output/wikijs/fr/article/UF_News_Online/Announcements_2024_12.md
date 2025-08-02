@@ -45,7 +45,7 @@ Cette bibliothèque a été créée pour préserver les meilleures idées des in
 
 ## Session d'étude d'été 2025
 
-**Réservez la date !**
+**Réservez la date !**
 
 **La Fellowship du Livre d'Urantia revient à Unity Village**
 
@@ -53,7 +53,7 @@ Cette bibliothèque a été créée pour préserver les meilleures idées des in
 
 Le Comité d’Éducation de la Fellowship a le plaisir d'annoncer qu'en 2025, la session d'étude d'été reviendra à Unity Village, Kansas City, Missouri.
 
-Le thème est « Partenariat avec Dieu : Jour après jour. » Ce rassemblement de quatre jours permettra de passer plus de temps non structuré en mettant l'accent sur l'humour. Vous y trouverez également une stimulation spirituelle, une adoration de groupe et une véritable camaraderie.
+Le thème est « Partenariat avec Dieu : Jour après jour. » Ce rassemblement de quatre jours permettra de passer plus de temps non structuré en mettant l'accent sur l'humour. Vous y trouverez également une stimulation spirituelle, une adoration de groupe et une véritable camaraderie.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/UF_News_Online/2024_12/037.jpg">
@@ -66,16 +66,16 @@ Le thème est « Partenariat avec Dieu : Jour après jour. » Ce rassemblemen
 
 **L'Association Urantia présente**
 **La Quatrième Conférence Européenne, Paris, France**
-**Thème : La distribution de Dieu : L'homme, Héritier de Dieu**
+**Thème : La distribution de Dieu : L'homme, Héritier de Dieu**
 **Du 6 au 9 juin 2025**
 
-Il est bon de dire aux gens : « Vous êtes formidables et uniques, et le monde et l'univers ont besoin de vous ! » Mais pouvez-vous vraiment expliquer pourquoi ? _Le Livre d'Urantia_ nous offre une nouvelle cosmologie de l'univers, une cosmologie dans laquelle le Père Universel est l'Architecte-Designer-Créateur. C'est dans ce but que Le Livre d'Urantia nous propose une nouvelle cosmologie de l'univers :
+Il est bon de dire aux gens : « Vous êtes formidables et uniques, et le monde et l'univers ont besoin de vous ! » Mais pouvez-vous vraiment expliquer pourquoi ? _Le Livre d'Urantia_ nous offre une nouvelle cosmologie de l'univers, une cosmologie dans laquelle le Père Universel est l'Architecte-Designer-Créateur. C'est dans ce but que Le Livre d'Urantia nous propose une nouvelle cosmologie de l'univers :
 
 > Il semblerait que le Père, ait inauguré dans l’éternité du passé une politique de profonde distribution de lui-même. Dans la nature généreuse, aimante et aimable du Père Universel il y a quelque chose qui l’incite à ne réserver pour lui-même que l'exercice des pouvoirs et de l'autorité qu'il estime apparemment impossible de déléguer ou de conférer. [LU 10:1.1](/fr/The_Urantia_Book/10#p1_1)
 
-Ne manquez pas cette occasion d'étudier la cinquième révélation d’époque dans la Ville Lumière ! L'hôtel CIS Paris Ravel est situé au cœur de Paris, dans un cadre verdoyant. L'équipe de planification met tout en œuvre pour que cette conférence soit bien organisée et abordable.
+Ne manquez pas cette occasion d'étudier la cinquième révélation d’époque dans la Ville Lumière ! L'hôtel CIS Paris Ravel est situé au cœur de Paris, dans un cadre verdoyant. L'équipe de planification met tout en œuvre pour que cette conférence soit bien organisée et abordable.
 
-Le nombre de participants est limité à 80 personnes, alors réservez vite votre place !
+Le nombre de participants est limité à 80 personnes, alors réservez vite votre place !
 
 Pour plus d'informations, consultez le site [https://europe2025.urantia.fr/](https://europe2025.urantia.fr/) ou contactez directement l'équipe de planification à l'adresse [evenement\_2025@urantia.fr](mailto:evenement_2025@urantia.fr).
 

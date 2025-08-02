@@ -62,7 +62,7 @@ Y la providencia, obstinada, volvió a poner _El libro de Urantia_ en mi camino.
 
 Así que, contestando a tu pregunta, no hubo un punto de lectura en concreto sino el hecho de que yo había crecido espiritualmente y _El libro de Urantia_ había vuelto a mí. Era como diciéndome: «Eh, aquí estoy otra vez. Inténtalo de nuevo».
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
 El libro ha cambiado mi vida en todos los aspectos. El principal de ellos es que le ha dado a mi vida un propósito superior, elevado. Ha iluminado frente a mí un camino.
 
@@ -72,7 +72,7 @@ He aprendido el valor de la meditación contemplativa. Esto es saber orar, pero 
 
 Digo yo que con el tiempo se mostrarán con más claridad esos cambios hacia el exterior, como la copa que al rebosar el agua con la que se llena también limpia su exterior.
 
-## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
+## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
 
 En cuanto a mi fe, claro que ha cambiado, pero a mejor, a una fe o una confianza más fuerte que te aporta seguridad y cercanía con Dios y su obra, concretamente con nuestros semejantes.
 

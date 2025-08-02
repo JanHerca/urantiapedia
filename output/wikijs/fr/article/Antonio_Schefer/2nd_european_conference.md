@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/2nd-European-Conf-706x397.jpg">
 </figure>
 
-Du 11 au 14 juillet 2019, l’Association Urantia d’Estonie a accueilli le 2<sup>e</sup> Congrès européen à l’hôtel Tallin City sur le thème « Semer des graines ». Cet événement était le 2<sup>e</sup> Congrès continental en Europe et a eu lieu près de trois ans après le congrès de Budapest. Quatre-vingt-sept participants ont célébré l’amitié et la fraternité, dans l’une des villes médiévales les mieux préservées d’Europe, classée au patrimoine mondial de l’UNESCO.
+Du 11 au 14 juillet 2019, l’Association Urantia d’Estonie a accueilli le 2<sup>e</sup> Congrès européen à l’hôtel Tallin City sur le thème « Semer des graines ». Cet événement était le 2<sup>e</sup> Congrès continental en Europe et a eu lieu près de trois ans après le congrès de Budapest. Quatre-vingt-sept participants ont célébré l’amitié et la fraternité, dans l’une des villes médiévales les mieux préservées d’Europe, classée au patrimoine mondial de l’UNESCO.
 
 Lors de cet événement en Europe du Nord-Est, des lecteurs de 15 pays différents étaient présents. Des étudiants et des amis venus des États-Unis et du Canada ont traversé l’océan Atlantique, se sont réunis avec des gens de plusieurs pays européens ; comme l’Estonie, la Finlande, l’Espagne, la France, les Pays-Bas, le Royaume-Uni, la Suède, la Lituanie et plus encore. Tout comme à Budapest, c’était un événement véritablement mondial avec des membres d’associations présents de partout dans le monde, mais surtout d’Europe et d’Amérique du Nord. Ce fut une expérience inoubliable dans une ville vraiment « à voir ».
 
@@ -47,7 +47,7 @@ Lors de cet événement en Europe du Nord-Est, des lecteurs de 15 pays différen
 <img src="/image/article/IUA_Tidings/Karmelo-300x226.jpg">
 </figure>
 
-En fin d’après-midi du jeudi 11 juillet et après l’accueil et les présentations, notre président, Chris Wood, et Karmo Kalda, le président du congrès, ont ouvert le programme. Michael MacIsaac et Helen Anvelt agissaient comme les Maîtres de Cérémonie. Après le dîner, Sebastian Nozzi (Coordinateur européen) a souhaité la bienvenue aux participants au nom de la communauté européenne. Helen Anvelt a donné un spectacle musical de danse-art appelé « Bliss, Serenity, and Love » (Félicité, sérénité et amour), ce qui mit fin au programme officiel de ce premier jour. Pour ceux qui voulaient socialiser davantage chaque soir, il y avait dans le hall de l’hôtel de la musique et des boissons, ce qui a été grandement apprécié.
+En fin d’après-midi du jeudi 11 juillet et après l’accueil et les présentations, notre président, Chris Wood, et Karmo Kalda, le président du congrès, ont ouvert le programme. Michael MacIsaac et Helen Anvelt agissaient comme les Maîtres de Cérémonie. Après le dîner, Sebastian Nozzi (Coordinateur européen) a souhaité la bienvenue aux participants au nom de la communauté européenne. Helen Anvelt a donné un spectacle musical de danse-art appelé « Bliss, Serenity, and Love » (Félicité, sérénité et amour), ce qui mit fin au programme officiel de ce premier jour. Pour ceux qui voulaient socialiser davantage chaque soir, il y avait dans le hall de l’hôtel de la musique et des boissons, ce qui a été grandement apprécié.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/DSC05049-300x225.jpg">
@@ -69,7 +69,7 @@ Toutes les présentations ont été filmées et sont maintenant disponibles sur 
 
 https://www.youtube.com/@urantiassociationinternational
 
-J’ai hâte de vous revoir à notre prochain grand événement, Congrès de l’AUI en 2021, à Urubamba-Cusco-Pérou. Merci de m’avoir donné l’occasion de vous servir à l’organisation des congrès avec mon comité. C’est un plaisir de vous aider et de vous servir.
+J’ai hâte de vous revoir à notre prochain grand événement, Congrès de l’AUI en 2021, à Urubamba-Cusco-Pérou. Merci de m’avoir donné l’occasion de vous servir à l’organisation des congrès avec mon comité. C’est un plaisir de vous aider et de vous servir.
 
 Antonio Schefer
 Président du Comité des Congrès

@@ -84,7 +84,7 @@ Instructeur : Michael Hill
 Date de l’orientation : Samedi, 1 avril
 Date de début : Samedi 15 avril
 
- Ce cours est conçu pour rafraîchir et renouveler les aspirations spirituelles des lecteurs du Livre d’Urantia qui, par la foi, sont entrés dans le royaume de Dieu et s’y sont fixé l’accomplissement de la plénitude de la vie mortelle. Ici, nous nous efforcerons d’aborder l’amélioration de la perception spirituelle personnelle et l’influence d’une telle croissance sur la vie quotidienne tout en partageant notre vie spirituelle avec les autres et en reconnaissant la vie religieuse des autres.
+ Ce cours est conçu pour rafraîchir et renouveler les aspirations spirituelles des lecteurs du Livre d’Urantia qui, par la foi, sont entrés dans le royaume de Dieu et s’y sont fixé l’accomplissement de la plénitude de la vie mortelle. Ici, nous nous efforcerons d’aborder l’amélioration de la perception spirituelle personnelle et l’influence d’une telle croissance sur la vie quotidienne tout en partageant notre vie spirituelle avec les autres et en reconnaissant la vie religieuse des autres.
 
 Pour en savoir plus sur ces cours, voir ce lien.
 [https://www.urantiauniversity.org/all-courses](https://www.urantiauniversity.org/all-courses)

@@ -38,7 +38,7 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-6.jpg" alt="Editorial sep 24-6" width="350">
 </figure>
 
-Decía el escritor Umberto Eco que «para sobrevivir, uno debe contar historias». Jesús de Nazaret iba más allá, pues no solo era un genial narrador, sino que también estaba atento a hacernos reflexionar desde la belleza sencilla de historias cotidianas.  ¿Os imagináis a Jesús ahora, en nuestro tiempo? Hubiera sabido contar con soltura _storytellings_ y _reels_, que hubieran hecho reflexionar a muchos.
+Decía el escritor Umberto Eco que «para sobrevivir, uno debe contar historias». Jesús de Nazaret iba más allá, pues no solo era un genial narrador, sino que también estaba atento a hacernos reflexionar desde la belleza sencilla de historias cotidianas. ¿Os imagináis a Jesús ahora, en nuestro tiempo? Hubiera sabido contar con soltura _storytellings_ y _reels_, que hubieran hecho reflexionar a muchos.
 
 En nuestro boletín «Luz y Vida» queremos todos los meses asemejarnos a nuestro querido Maestro contando en este espacio diferentes «historias», textos que nos hagan reflexionar y mejorar como personas. Al menos, lo intentamos. ¿Te animas a leernos?
 

@@ -49,7 +49,7 @@ In 1993, the Finnish branch office was established in Helsinki to serve readers 
 
 The final two regional offices were opened in 1999 to serve the Canadian provinces. The Vancouver office was managed by Nathen and Kassandra Jansen, and the Quebec City office, managed by Richard Dore and Colette Peltier, handled business for French-speaking readers.
 
-For various reasons,  the regional offices closed down one by one, but the Finnish office remained open until now. Over the years management shifted to Kristina and Pekka Siikala, then Kalevi Eklöf and his wife Marja-Leena, and then Tapio Pulli. Their work extended to far more than book sales and distribution. It sounds glib to say it’s the end of an era, but in the case of the Finnish regional office it is true.
+For various reasons,  the regional offices closed down one by one, but the Finnish office remained open until now. Over the years management shifted to Kristina and Pekka Siikala, then Kalevi Eklöf and his wife Marja-Leena, and then Tapio Pulli. Their work extended to far more than book sales and distribution. It sounds glib to say it’s the end of an era, but in the case of the Finnish regional office it is true.
 
 <br style="clear:both;"/>
 

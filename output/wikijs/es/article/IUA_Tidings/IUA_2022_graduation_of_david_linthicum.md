@@ -48,7 +48,7 @@ David continuó hasta sus últimos preciosos días en la Tierra dando su tiempo 
 
 David ayudó a acreditar a la Asociación Urantia Spirit of Oklahoma, en la que sirvió también como presidente. Era un compañero de estudio habitual de un grupo de Tulsa (Oklahoma). Sirvió durante dos mandatos como presidente de la Asociación Urantia de Estados Unidos (UAUS), y fue también presidente de Diseminación de la Asociación Urantia Internacional. Ayudó a fundar el Prisoner Inquiry Response Team (Equipo de Respuesta a Peticiones de Reclusos, PIRT), del que fue director durante muchos años; también respondía personalmente las cartas y dio apoyo a muchos reclusos.
 
-Durante los últimos meses, David se convirtió en el primer vicepresidente de la organización sin ánimo de lucro _Worldwide Ministry of Jesus_, creada con la finalidad de proporcionar fondos para los proyectos del Centro para la Unidad (ver video abajo), que incluyen el _Museo de Jesús_, el _Metaverso de Jesús_, el _Jesús Cinemático_ y el _Experimenta a Jesús_ virtual inmersivo. Su generoso apoyo al _Centro para la Unidad_ será uno de sus proyectos de legado, cuyos planes siguen avanzando con nueva energía y nuevos impulsos. Ofrecemos nuestras sentidas condolencias a la amada esposa de David, Regina, a su hijo Jerod, a su hija Lacey, a sus nietos y a toda su familia. Sabemos que están experimentando una profunda pérdida, al igual que sus numerosos amigos de todos los ámbitos de la vida. David era veterano de la Marina y amante de los deportes y la naturaleza. Su increíble ética de trabajo lo acompañó a través de su carrera como gerente de proyectos en Chevron, y tuvo un impacto en su vida como voluntario de muchas causas dignas. Su hijo Jerod lo describió como «cuidador» de cualquiera que lo necesitara y fuente de «amor incondicional». Era realmente un hombre de Dios con corazón de servidor.
+Durante los últimos meses, David se convirtió en el primer vicepresidente de la organización sin ánimo de lucro _Worldwide Ministry of Jesus_, creada con la finalidad de proporcionar fondos para los proyectos del Centro para la Unidad (ver video abajo), que incluyen el _Museo de Jesús_, el _Metaverso de Jesús_, el _Jesús Cinemático_ y el _Experimenta a Jesús_ virtual inmersivo. Su generoso apoyo al _Centro para la Unidad_ será uno de sus proyectos de legado, cuyos planes siguen avanzando con nueva energía y nuevos impulsos. Ofrecemos nuestras sentidas condolencias a la amada esposa de David, Regina, a su hijo Jerod, a su hija Lacey, a sus nietos y a toda su familia. Sabemos que están experimentando una profunda pérdida, al igual que sus numerosos amigos de todos los ámbitos de la vida. David era veterano de la Marina y amante de los deportes y la naturaleza. Su increíble ética de trabajo lo acompañó a través de su carrera como gerente de proyectos en Chevron, y tuvo un impacto en su vida como voluntario de muchas causas dignas. Su hijo Jerod lo describió como «cuidador» de cualquiera que lo necesitara y fuente de «amor incondicional». Era realmente un hombre de Dios con corazón de servidor.
 
 https://www.youtube.com/watch?v=IqDBkp-QyOA
 
@@ -78,23 +78,23 @@ _Este es el servicio que el PIRT se esfuerza por fomentar y llevar adelante, par
 
 **Comentarios de otros compañeros y estudiantes de _El libro de Urantia_:**
 
-_Otra luz brillante se ha apagado en nuestro mundo. Que Dios te acompañe, buen y fiel servidor._ – Joanne Strobel
+_Otra luz brillante se ha apagado en nuestro mundo. Que Dios te acompañe, buen y fiel servidor._ – Joanne Strobel
 
 ---
 
-_Siento lo de David, pero me alegro de que su futuro eterno sea tan brillante. Probablemente todos nos despedimos de David a nuestra manera. Aunque nuestros pensamientos y oraciones iban con él, todos compartiremos el sentimiento común de saber que se ha ido y de echar de menos la amplitud de la huella de su vida. Nuestra copa (la del PIRT que David nos envió) sigue rebosando de libertad espiritual, como era la intención de todos nosotros al compartir las buenas noticias con los que buscan _con ahínco__ _la verdad. Has hecho un buen trabajo, David. Ahora, ¡adelante con tu próxima misión! Con todo nuestro amor…_ – Maramis Choufani
+_Siento lo de David, pero me alegro de que su futuro eterno sea tan brillante. Probablemente todos nos despedimos de David a nuestra manera. Aunque nuestros pensamientos y oraciones iban con él, todos compartiremos el sentimiento común de saber que se ha ido y de echar de menos la amplitud de la huella de su vida. Nuestra copa (la del PIRT que David nos envió) sigue rebosando de libertad espiritual, como era la intención de todos nosotros al compartir las buenas noticias con los que buscan _con ahínco__ _la verdad. Has hecho un buen trabajo, David. Ahora, ¡adelante con tu próxima misión! Con todo nuestro amor…_ – Maramis Choufani
 
 ---
 
-_Fue hace poco más de 4 meses cuando David anunció su enfermedad al Equipo de Respuesta a Peticiones de Reclusos. Estoy agradecido por el tiempo que tuvimos antes de su fallecimiento para expresarle nuestro más sincero agradecimiento. Le recordaremos bien en Urantia y cuando se encuentre en lo alto le dirán sin duda: «bien hecho, buen y fiel servidor». Dio un buen servicio a la revelación y fue un espléndido ejemplo de lo que es estar en asociación con Dios. ¡Te queremos y te echaremos mucho de menos, David!_ – Jeanette Schafer
+_Fue hace poco más de 4 meses cuando David anunció su enfermedad al Equipo de Respuesta a Peticiones de Reclusos. Estoy agradecido por el tiempo que tuvimos antes de su fallecimiento para expresarle nuestro más sincero agradecimiento. Le recordaremos bien en Urantia y cuando se encuentre en lo alto le dirán sin duda: «bien hecho, buen y fiel servidor». Dio un buen servicio a la revelación y fue un espléndido ejemplo de lo que es estar en asociación con Dios. ¡Te queremos y te echaremos mucho de menos, David!_ – Jeanette Schafer
 
 ---
 
-_Es una noticia agridulce. Echaré de menos la sabiduría de David. Para mí, él demostró cómo la experiencia, atenuada por la inteligencia, la paciencia, la tolerancia y el amor, conduce a la verdadera sabiduría. David es, en efecto, un «buen y fiel servidor» y seguirá siéndolo, lo que me hace sentir verdaderamente feliz. Está en buenas manos. –_ Chris Gravel, PIRT Canadá.
+_Es una noticia agridulce. Echaré de menos la sabiduría de David. Para mí, él demostró cómo la experiencia, atenuada por la inteligencia, la paciencia, la tolerancia y el amor, conduce a la verdadera sabiduría. David es, en efecto, un «buen y fiel servidor» y seguirá siéndolo, lo que me hace sentir verdaderamente feliz. Está en buenas manos. –_ Chris Gravel, PIRT Canadá.
 
 ---
 
-_¡Qué buenos comentarios sobre el adorable David! Todos ustedes reflejan mucho de lo que yo también siento. Es la única persona que me llamó la atención pensando en lo valiosos que son también los presos para Dios. Sus ideas sobre eso me llevaron finalmente a inscribirme en el PIRT. Gracias, David. ¡¡¡¡Buen viaje a Mansonia!!!! –_ Mark Kurtz
+_¡Qué buenos comentarios sobre el adorable David! Todos ustedes reflejan mucho de lo que yo también siento. Es la única persona que me llamó la atención pensando en lo valiosos que son también los presos para Dios. Sus ideas sobre eso me llevaron finalmente a inscribirme en el PIRT. Gracias, David. ¡¡¡¡Buen viaje a Mansonia!!!! –_ Mark Kurtz
 
 ---
 
@@ -106,23 +106,23 @@ _Es desgarrador. David ha sido especial para todos nosotros. David era una perso
 
 _David también fue el director de nuestro equipo de servicio a prisiones, PIRT (Prisoner Inquiry Response Team). David respondió a las cartas de los reclusos durante muchos años y se dio cuenta de que había una verdadera desesperación entre los reclusos que le tocó el corazón e hizo que ayudara a crear y continuar el ministerio para ellos. Creía que cada uno de ellos podía ser consolado sabiendo que eran valiosos y dignos hijos de Dios. Soy miembro del equipo desde hace un par de años, porque me inspiró mucho el trabajo que hacen._
 
-_David llamó el viernes pasado y solo podía hablar en un susurro ronco, pero siempre fue muy amable conmigo. Dijo que se preguntaba cuál sería nuestra primera misión en los mundos mansión. Estaba muy emocionado por saberlo. Ciertamente hay una nueva luz en esas orillas lejanas._ – Susan Lyon
+_David llamó el viernes pasado y solo podía hablar en un susurro ronco, pero siempre fue muy amable conmigo. Dijo que se preguntaba cuál sería nuestra primera misión en los mundos mansión. Estaba muy emocionado por saberlo. Ciertamente hay una nueva luz en esas orillas lejanas._ – Susan Lyon
 
 ---
 
-«Ocupémonos de los asuntos del Padre y ayudémosle a buscar la oveja perdida». …Y en palabras de David: Querido Willem y equipo del PIRT, deseo extender mi profundo agradecimiento a Jeanette, Joy, Susan, Maramis, Mark, Chris, y Myra por su dedicación a este comité y a la misión de traer a tantos individuos como sea posible a las enseñanzas de Jesús. Los testimonios que recibimos siempre sirven para reavivar nuestro sentido del deber y del logro, impulsándonos siempre a salvar la siguiente alma, y la siguiente. Porque este es el trabajo que hacemos, amigos míos, en cooperación con las ángeles, los seres intermedios y, sin duda, los Ajustadores del Pensamiento colectivos. Es un honor servir con todos ustedes. Con buen ánimo – David Linthicum
+«Ocupémonos de los asuntos del Padre y ayudémosle a buscar la oveja perdida». …Y en palabras de David: Querido Willem y equipo del PIRT, deseo extender mi profundo agradecimiento a Jeanette, Joy, Susan, Maramis, Mark, Chris, y Myra por su dedicación a este comité y a la misión de traer a tantos individuos como sea posible a las enseñanzas de Jesús. Los testimonios que recibimos siempre sirven para reavivar nuestro sentido del deber y del logro, impulsándonos siempre a salvar la siguiente alma, y la siguiente. Porque este es el trabajo que hacemos, amigos míos, en cooperación con las ángeles, los seres intermedios y, sin duda, los Ajustadores del Pensamiento colectivos. Es un honor servir con todos ustedes. Con buen ánimo – David Linthicum
 
 ---
 
-_En nombre de todos los que han servido contigo, David: gracias. Ha sido un honor y una alegría. En nombre del equipo PIRT activo: estamos contigo, hermano. Gracias por confiar en mí como tu sucesora. Será un gran reto ocupar tu lugar, haré lo mejor que pueda contigo siempre en mi corazón._ – Myra Hight
+_En nombre de todos los que han servido contigo, David: gracias. Ha sido un honor y una alegría. En nombre del equipo PIRT activo: estamos contigo, hermano. Gracias por confiar en mí como tu sucesora. Será un gran reto ocupar tu lugar, haré lo mejor que pueda contigo siempre en mi corazón._ – Myra Hight
 
 ---
 
-_Una luz espléndida nos ha dejado, y ahora esa luz continúa su viaje al Paraíso.  Aunque mi corazón está roto, los recuerdos de David son preciosos y los llevaremos siempre con nosotros._ – Margaret Slater-Thompson
+_Una luz espléndida nos ha dejado, y ahora esa luz continúa su viaje al Paraíso. Aunque mi corazón está roto, los recuerdos de David son preciosos y los llevaremos siempre con nosotros._ – Margaret Slater-Thompson
 
 ---
 
-_David, estuviste poco tiempo con nosotros pero fuiste una gran presencia para todos. Sé que estabas preparado y ansioso por ver todas las hermosas luces del cielo. **En efecto, ha caído un poderoso roble.**_ – Imogene Drake
+_David, estuviste poco tiempo con nosotros pero fuiste una gran presencia para todos. Sé que estabas preparado y ansioso por ver todas las hermosas luces del cielo. **En efecto, ha caído un poderoso roble.**_ – Imogene Drake
 
 ---
 

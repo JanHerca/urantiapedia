@@ -43,13 +43,13 @@ dateCreated: 2023-9-16T10:55:6Z
 
 > _El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera — una comunión ininterrumpida con Dios — y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias._ <a id="a43_306"></a>[[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)] 
 
-## La moraleja 
+## La moraleja 
 
-La _conciencia de la presencia de Dios_ es el secreto de la vida religiosa más _incomparable_ que haya vivido un ser humano en este universo. Y este logro sagrado se consiguió mediante _oraciones inteligentes y una adoración sincera— una comunión ininterrumpida con Dios_.  
+La _conciencia de la presencia de Dios_ es el secreto de la vida religiosa más _incomparable_ que haya vivido un ser humano en este universo. Y este logro sagrado se consiguió mediante _oraciones inteligentes y una adoración sincera— una comunión ininterrumpida con Dios_.  
 
-## El plan personal  
+## El plan personal  
 
-Piensa en Dios _todo el tiempo_, tan a menudo como puedas recordar. No te preocupes por el contenido exacto de esos pensamientos: ten fe en que tu intérprete divino de a bordo los ajustará. Las órdenes de marcha celestiales son: «Sé perfecto», y a todos nos han enseñado que la práctica hace la perfección. 
+Piensa en Dios _todo el tiempo_, tan a menudo como puedas recordar. No te preocupes por el contenido exacto de esos pensamientos: ten fe en que tu intérprete divino de a bordo los ajustará. Las órdenes de marcha celestiales son: «Sé perfecto», y a todos nos han enseñado que la práctica hace la perfección. 
 
 Nuestras técnicas de práctica son _las oraciones inteligentes y la adoración sincera._ No hay ningún misterio en esas instrucciones, aunque demasiado a menudo racionalizamos nuestra resistencia al plan de perfección. Se nos da muy bien encontrar formas de evitar a Dios, por eso tenemos un Ajustador del Pensamiento que nos ayuda a «dejar de resistirnos».
 

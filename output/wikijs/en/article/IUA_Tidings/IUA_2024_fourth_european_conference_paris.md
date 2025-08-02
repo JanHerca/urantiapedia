@@ -49,7 +49,7 @@ In Paris, from Friday June 6 to Monday June 9, 2025, (Pentecost), the French inv
 
 The Distributivity of God: Man as God's Heir
 
-It's good to tell people, "You are formidable, unique and both the world and the Universe need you!" But can you really explain why? Through three or four short presentations, followed by research workshops, we propose to answer these questions so that we can enlighten mankind.
+It's good to tell people, "You are formidable, unique and both the world and the Universe need you!" But can you really explain why? Through three or four short presentations, followed by research workshops, we propose to answer these questions so that we can enlighten mankind.
 
 There will also be time for socializing and getting to know each other.
 
@@ -59,15 +59,15 @@ There will also be time for socializing and getting to know each other.
 <img src="/image/article/IUA_Tidings/European-Conference-location.jpg">
 </figure>
 
-It is in the center of Paris, in a verdant setting, in the [CIS-PARIS-RAVEL](https://www.hotel-cis-paris-ravel.com/) hotel, which you can see on their website.  The estimated cost of the stay per person is around €500 for a single room and €425 for a double room (not definitive before September 2024), to which we will add some services not yet evaluated, such as translation, printing, etc.
+It is in the center of Paris, in a verdant setting, in the [CIS-PARIS-RAVEL](https://www.hotel-cis-paris-ravel.com/) hotel, which you can see on their website. The estimated cost of the stay per person is around €500 for a single room and €425 for a double room (not definitive before September 2024), to which we will add some services not yet evaluated, such as translation, printing, etc.
 
 ## More
 
 As this is not a French event, but a European one, we are seeking people to lead presentations and workshops, depending on the wide-ranging theme. We can have a music evening. There will be an Association leadership meeting. And we’ll finish with presentations from Europe’s Associations.
 
-Contact the team at: « evenement\_2025@urantia.fr »
+Contact the team at: « evenement\_2025@urantia.fr »
 
-Where to find information? On the website (French, English): [Europe2025.urantia.fr](https://europe2025.urantia.fr/)
+Where to find information? On the website (French, English): [Europe2025.urantia.fr](https://europe2025.urantia.fr/)
 
 Information will evolve until the end of 2024, when everything will be planned.
 

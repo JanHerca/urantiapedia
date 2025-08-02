@@ -71,24 +71,24 @@ dateCreated: 2025-2-5T12:26:51Z
 “When he had thus spoken the Blessed One answered as follows: 'Once upon a time, O priest, some sea-faring traders had a land-sighting bird when they sailed out into the sea; and when the ship was in mid-ocean they set free that land-sighting bird. This bird flies in an easterly direction, in a southerly direction, in a westerly direction, and in a northerly direction, and to the intermediate quarters, and if it sees land anywhere it flies thither, but if it does not see land it returns to the ship. In exactly the same way, O priest, when you had searched as far as the Brahma world and found no answer to your question you returned to the place whence you came. The question, O priest, ought never to have been put thus: Where do these four states of aggregation cease? The question ought to be as follows:
 
 “Oh! Where can water, where can wind,
- Where fire and earth no footing find? <span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
- Where disappear all mine and thine,
- Good, bad, long, short, and coarse and fine,
- And where do name and form both cease
- To find in nothingness release?”
+ Where fire and earth no footing find? <span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
+ Where disappear all mine and thine,
+ Good, bad, long, short, and coarse and fine,
+ And where do name and form both cease
+ To find in nothingness release?”
 
 “'The answer, however, is this:
 
 “’Tis in the realm of radiance bright,
- Invisible, eternal light,
- And infinite, a state of mind,
- There water, earth, and fire, and wind,
- And elements of any kind,
- Will nevermore a footing find;
- There disappear all mine and thine,
- Good, bad, long, short, and coarse, and fine,
- There too will name and form both cease,
- To find in nothingness release.”
+ Invisible, eternal light,
+ And infinite, a state of mind,
+ There water, earth, and fire, and wind,
+ And elements of any kind,
+ Will nevermore a footing find;
+ There disappear all mine and thine,
+ Good, bad, long, short, and coarse, and fine,
+ There too will name and form both cease,
+ To find in nothingness release.”
 
 “Then the priest understood that the world of matter is restless and remains restless, but peace of heart is a condition of mind which must be acquired by self-discipline, by wisdom, by devotion. The gods cannot help; nor even can Brahma himself, the Great Brahma, the Supreme Being, the Lord and Creator. Sacrifice is useless and prayer and worship are of no avail. But if we desire to attain the highest state of bliss, which is Nirvâna, we must follow <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> the Blessed One, the Teacher of gods and men; and like him we must by our own effort become lamps unto ourselves and resolutely walk upon the noble eightfold path."[10](/en/book/Buddhism/Amitabha/Amitabha_16#an_10)
 

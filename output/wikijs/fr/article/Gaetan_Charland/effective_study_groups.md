@@ -48,7 +48,7 @@ Ce ne sont que deux des nombreuses questions légitimes que nous pourrions nous 
 Les pièges que nous pouvons rencontrer en accueillant des groupes d’étude sont nombreux, surtout si nous ne sommes pas conscients ou concentrés sur la valeur que les groupes peuvent avoir pour promouvoir la croissance spirituelle et intellectuelle, développer la conscience cosmique et améliorer la perception spirituelle, contribuer au développement des leaders et des enseignants et encourager les participants à s’engager dans des activités de service.
 <br style="clear:both;"/>
 
-Quels sont ces pièges ? À mon avis, certains peuvent être :
+Quels sont ces pièges ? À mon avis, certains peuvent être :
 
 - Avoir des objectifs mal définis ou ne pas en avoir pour notre groupe d’étude• Toujours utiliser le même format sans variation ou expérimenter différentes
     approches pour l’étude.
@@ -60,7 +60,7 @@ Quels sont ces pièges ? À mon avis, certains peuvent être :
     l’expérience précieuse du développement du leadership.
 - Manquer de sagesse ou de sens pratique pour choisir les sujets pertinents qui conviennent le mieux à la dynamique du groupe.
 
-Quelles sont les choses que nous pouvons faire pour surmonter ces pièges ? Nous pouvons :
+Quelles sont les choses que nous pouvons faire pour surmonter ces pièges ? Nous pouvons :
 
 - Définir des objectifs pour le groupe tels que développer et promouvoir des groupes
     supplémentaires, encourager les participants à faire des présentations sur des sujets
@@ -82,7 +82,7 @@ Partager les responsabilités d’hôte avec différents membres de votre groupe
 
 Soyez pratique en vous assurant que le sujet que vous étudiez possède de réelles valeurs de vie, soutenues par les expériences des participants. Rien ne se compare au partage d’expériences pour améliorer—mettre en valeur—ce que nous étudions ; cela ouvre vraiment l’esprit à de nouvelles significations et valeurs.
 
-Ce sont quelques objectifs que les groupes d’étude peuvent atteindre si nous voulons les rendre plus efficaces. Si vous voulez en savoir plus sur la façon d’améliorer votre groupe d’étude, j’ai récemment présenté un webinaire sur l’efficacité des groupes d’étude. Vous pouvez le voir sur la chaîne YouTube de l’Association Urantia à l’adresse : 
+Ce sont quelques objectifs que les groupes d’étude peuvent atteindre si nous voulons les rendre plus efficaces. Si vous voulez en savoir plus sur la façon d’améliorer votre groupe d’étude, j’ai récemment présenté un webinaire sur l’efficacité des groupes d’étude. Vous pouvez le voir sur la chaîne YouTube de l’Association Urantia à l’adresse : 
 
 https://www.youtube.com/watch?v=xLCKFD7kluw
 

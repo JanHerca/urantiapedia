@@ -41,9 +41,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Summer-Meeting-in-Finland-by-Matti-T-1-1-300x184.jpg">
 </figure>
 
-Une fois de plus, les lecteurs finlandais du Livre d’Urantia ont tenu leur congrès annuel d’été, organisé par l’Association Urantia de Finlande les 9 et 10 juin 2018 au Lautsiala Resort, Hauho. Plus de 30 d’entre nous se sont rassemblés ; le temps était magnifique et la station était un endroit magnifique pour organiser la réunion. Le week-end a commencé par des chansons et de la musique touchante.
+Une fois de plus, les lecteurs finlandais du Livre d’Urantia ont tenu leur congrès annuel d’été, organisé par l’Association Urantia de Finlande les 9 et 10 juin 2018 au Lautsiala Resort, Hauho. Plus de 30 d’entre nous se sont rassemblés ; le temps était magnifique et la station était un endroit magnifique pour organiser la réunion. Le week-end a commencé par des chansons et de la musique touchante.
 
-Il y a eu plusieurs présentations. Ben, âgé de plus de 90 ans, a évoqué les 100 dernières années en Finlande, liant son histoire au Livre d’Urantia. Il a terminé sa présentation en disant : « À n’importe quel moment que nous le souhaitons, nous pouvons passer à une époque de vie et de lumière ».
+Il y a eu plusieurs présentations. Ben, âgé de plus de 90 ans, a évoqué les 100 dernières années en Finlande, liant son histoire au Livre d’Urantia. Il a terminé sa présentation en disant : « À n’importe quel moment que nous le souhaitons, nous pouvons passer à une époque de vie et de lumière ».
 
 Il y a eu des présentations sur « La vie éternelle dans l’univers » et « La croyance et croire » en se concentrant sur la relation personnelle avec le Père.
 
@@ -55,7 +55,7 @@ Il y a eu aussi une présentation personnelle sur « La vie éternelle commence 
 
 Entre les présentations, nous avons fait des promenades dans la nature et échangé sur nos pensées suscitées par les présentations. Le soir, nous avons apprécié de partager avec des discussions animées entre nous tout en profitant de saunas et de baignade.
 
-Nous avons également eu le plaisir d’accueillir Sebastian Nozzi parmi nous. Sebastian est le nouvellement nommé coordinateur continental européen de l’Association Urantia International. Sa présentation portait sur la croissance des groupes d’étude, la diffusion des enseignements de personne à personne et la collaboration avec d’autres équipes de lecteurs à travers l’Europe. Son message était excellent et très conforme à l’article 2 de la Charte de l’Association. Merci encore Sebastian.
+Nous avons également eu le plaisir d’accueillir Sebastian Nozzi parmi nous. Sebastian est le nouvellement nommé coordinateur continental européen de l’Association Urantia International. Sa présentation portait sur la croissance des groupes d’étude, la diffusion des enseignements de personne à personne et la collaboration avec d’autres équipes de lecteurs à travers l’Europe. Son message était excellent et très conforme à l’article 2 de la Charte de l’Association. Merci encore Sebastian.
 <br style="clear:both;"/>
 
 Dans l’ensemble, le week-end a été très réussi. Les participants sont rentrés chez eux avec le sentiment d’avoir encore une fois acquis une connaissance précieuse des enseignements du Livre d’Urantia.

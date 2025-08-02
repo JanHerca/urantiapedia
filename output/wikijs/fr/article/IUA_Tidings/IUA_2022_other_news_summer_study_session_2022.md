@@ -49,7 +49,7 @@ Le Comité d’éducation de la _Urantia Book Fellowship_ est heureux d’annonc
 
 Il y a 4 000 ans, Machiventa Melchizédek se « personnalisa » héroïquement sur terre ; à une époque périlleuse où la vérité révélée était au bord de l’extinction.
 
-Ensemble, nous allons :
+Ensemble, nous allons :
 
 - Examiner les circonstances qui ont conduit à son effusion.
 - Étudier ses enseignements et comment ils ont préparé le terrain pour l’effusion de Micaël.

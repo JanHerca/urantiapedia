@@ -42,11 +42,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par plusieurs participants à la conférence_
 
-_Note de l'éditeur : A la mi-mars, à la suite de la publication en ligne tant attendue du_ Livre d'Urantia _en caractères chinois simplifiés, des représentants de la Fondation Urantia se sont réunis à Taïwan. Ils ont présenté les enseignements à un groupe enthousiaste d'étudiants de langue chinoise du Cours en Lumière — une série de leçons sur le développement spirituel._
+_Note de l'éditeur : A la mi-mars, à la suite de la publication en ligne tant attendue du_ Livre d'Urantia _en caractères chinois simplifiés, des représentants de la Fondation Urantia se sont réunis à Taïwan. Ils ont présenté les enseignements à un groupe enthousiaste d'étudiants de langue chinoise du Cours en Lumière — une série de leçons sur le développement spirituel._
 
 [Cliquez ici pour lire l'article sur la conférence et ses organisateurs dans le numéro de juillet](/fr/article/Georges_Michelson_Dupont/Urantia_Foundation_Visits_Taiwan).
 
-_L'article suivant est une compilation de réflexions sur ce que ce rassemblement Urantia précurseur signifia pour certains des participants. Nos remerciements s'adressent à : Mo Siegel ; Gard Jameson ; Georges Michelson-Dupont ; Victor García-Bory ; Gaétan Charland ; Geri Johnson et son mari, Rob Mastroianni ; et Tamara Strumfeld, qui rejoignirent le traducteur du Livre d'Urantia Richard Zhu et le leader spirituel Vicki Yang à Taipei, Taïwan, pour une conférence de deux jours._
+_L'article suivant est une compilation de réflexions sur ce que ce rassemblement Urantia précurseur signifia pour certains des participants. Nos remerciements s'adressent à : Mo Siegel ; Gard Jameson ; Georges Michelson-Dupont ; Victor García-Bory ; Gaétan Charland ; Geri Johnson et son mari, Rob Mastroianni ; et Tamara Strumfeld, qui rejoignirent le traducteur du Livre d'Urantia Richard Zhu et le leader spirituel Vicki Yang à Taipei, Taïwan, pour une conférence de deux jours._
 
 <br style="clear:both;"/>
 
@@ -57,11 +57,11 @@ _L'article suivant est une compilation de réflexions sur ce que ce rassemblemen
 <figcaption>Dr. Claire von Joe Li</figcaption>
 </figure>
 
-Je crois que c'est la grâce de Dieu qui vous amena tous ici pour être avec nous. Vous êtes venus nous révéler des vérités supérieures, nous enseigner que nous allons entamer le voyage le plus gratifiant de la vie — trouver Dieu et servir les autres en chemin. Votre présence a été une prise de conscience !
+Je crois que c'est la grâce de Dieu qui vous amena tous ici pour être avec nous. Vous êtes venus nous révéler des vérités supérieures, nous enseigner que nous allons entamer le voyage le plus gratifiant de la vie — trouver Dieu et servir les autres en chemin. Votre présence a été une prise de conscience !
 
-Dans la signature de mon courriel Outlook, on peut lire : « Partager, c'est créer. » Ce week-end, j'ai appris que « Partager, c'est être semblable à Dieu, divin. » [LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)
+Dans la signature de mon courriel Outlook, on peut lire : « Partager, c'est créer. » Ce week-end, j'ai appris que « Partager, c'est être semblable à Dieu, divin. » [LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)
 
-Il faut un esprit fort pour absorber une révélation aussi énorme de vérité supérieure et pour subir les changements de conscience qui en résultent. Le Tao Te Ching dit : « Un voyage de mille lieues commences par un seul pas. » En mars 2024, j'ai fait mon premier pas vers une révélation divine.
+Il faut un esprit fort pour absorber une révélation aussi énorme de vérité supérieure et pour subir les changements de conscience qui en résultent. Le Tao Te Ching dit : « Un voyage de mille lieues commences par un seul pas. » En mars 2024, j'ai fait mon premier pas vers une révélation divine.
 
 Lire _Le Livre d'Urantia_ et discerner ses profondes vérités sera une tâche monumentale, qui nécessitera un actif engagement. Je crois que cette révélation changera le monde et nous conduira vers un avenir meilleur. Nos actions aideront à convaincre les autres, et nous devons nous soutenir les uns les autres tout au long du voyage.
 
@@ -78,7 +78,7 @@ Je salue tous ceux qui sont venus ici, qui ont fait ce premier pas d’un voyage
 <figcaption>Dennis</figcaption>
 </figure>
 
-Lorsque j'appris qu'il y avait des articles dans _Le Livre d'Urantia_ qui se concentraient sur Jésus, cela piqua ma curiosité. Et lorsque j'appris que Jésus était aussi Micaël de Nébadon, notre Fils Créateur, je me suis sentie infiniment touchée et mélancolique. Ma compréhension fut élargie !
+Lorsque j'appris qu'il y avait des articles dans _Le Livre d'Urantia_ qui se concentraient sur Jésus, cela piqua ma curiosité. Et lorsque j'appris que Jésus était aussi Micaël de Nébadon, notre Fils Créateur, je me suis sentie infiniment touchée et mélancolique. Ma compréhension fut élargie !
 
 <br style="clear:both;"/>
 
@@ -107,7 +107,7 @@ Lorsque j'entendis parler du _Livre d'Urantia_ pour la première fois, je voulus
 <figcaption>Wagi</figcaption>
 </figure>
 
-La conférence fut un partage de gains inattendus ! Je n'avais pas réalisé à quel point c'était une occasion grandiose et rare avant la fin de l'événement, lorsqu'un camarade étudiant demanda : « Y a-t-il eu des inspirations miraculeuses dans le long processus de transmission du _Livre d'Urantia_? _»_ J'ai été très touchée par toutes les réponses. C'étaient des histoires puissantes et je ressentis un véritable sentiment d'amour et de famille. Je me suis sentie tellement bénie et reconnaissante que ces personnes soient impliquées dans cette mission !
+La conférence fut un partage de gains inattendus ! Je n'avais pas réalisé à quel point c'était une occasion grandiose et rare avant la fin de l'événement, lorsqu'un camarade étudiant demanda : « Y a-t-il eu des inspirations miraculeuses dans le long processus de transmission du _Livre d'Urantia_? _»_ J'ai été très touchée par toutes les réponses. C'étaient des histoires puissantes et je ressentis un véritable sentiment d'amour et de famille. Je me suis sentie tellement bénie et reconnaissante que ces personnes soient impliquées dans cette mission !
 
 <br style="clear:both;"/>
 
@@ -140,7 +140,7 @@ Cette conférence fut comme une rencontre entre l'univers et la terre. En voyant
 <figcaption>Hellen Yang</figcaption>
 </figure>
 
-Ce fut une leçon révélatrice de réaliser que Jésus n'est pas seulement le Fils ou le Maître Ascendant que nous pensions qu'il était, mais que sa véritable identité est notre Prince Planétaire, qui s'est donné à son peuple pour le bien de son peuple Nous, les Terriens, faisons partie d'un univers plus vaste, habitant le monde reconnu comme « Urantia » , et possédant une citoyenneté cosmique.
+Ce fut une leçon révélatrice de réaliser que Jésus n'est pas seulement le Fils ou le Maître Ascendant que nous pensions qu'il était, mais que sa véritable identité est notre Prince Planétaire, qui s'est donné à son peuple pour le bien de son peuple Nous, les Terriens, faisons partie d'un univers plus vaste, habitant le monde reconnu comme « Urantia » , et possédant une citoyenneté cosmique.
 
 <br style="clear:both;"/>
 
@@ -162,7 +162,7 @@ Passer la majeure partie de sa vie à relire un livre démontre indubitablement 
 <figcaption>Hye Jin Angie</figcaption>
 </figure>
 
-Le thème de la « Conscience cosmique » m'a donné l'occasion de connaître plus clairement l'Esprit qui habite en nous, de reconnaître l'Ajusteur de Pensée, qui aide à éveiller en nous le désir de rechercher les enseignements de Dieu, d'accomplir la volonté de Dieu et d'être soutenus ! J'ai été touchée de me connecter quotidiennement à mon Ajusteur de Pensée intérieur.
+Le thème de la « Conscience cosmique » m'a donné l'occasion de connaître plus clairement l'Esprit qui habite en nous, de reconnaître l'Ajusteur de Pensée, qui aide à éveiller en nous le désir de rechercher les enseignements de Dieu, d'accomplir la volonté de Dieu et d'être soutenus ! J'ai été touchée de me connecter quotidiennement à mon Ajusteur de Pensée intérieur.
 
 <br style="clear:both;"/>
 
@@ -173,7 +173,7 @@ Le thème de la « Conscience cosmique » m'a donné l'occasion de connaître 
 <figcaption>Professor Xunling Bai</figcaption>
 </figure>
 
-La journée d'aujourd'hui a été très émouvante et je ne peux pas en dire assez ! Je ne peux qu'être reconnaissante envers les nombreux frères et sœurs qui ont rendu possible la publication du _Livre d'Urantia_, afin que nous puissions, nous aussi, en être bénis. Apprendre à connaître Dieu est un voyage très personnel !
+La journée d'aujourd'hui a été très émouvante et je ne peux pas en dire assez ! Je ne peux qu'être reconnaissante envers les nombreux frères et sœurs qui ont rendu possible la publication du _Livre d'Urantia_, afin que nous puissions, nous aussi, en être bénis. Apprendre à connaître Dieu est un voyage très personnel !
 
 Deux hommes ont versé des larmes touchantes lors de l'atelier d'aujourd'hui sur le Livre d'Urantia. Nous ne sommes peut-être pas en mesure de comprendre pleinement le sens profond de la mission et du dévouement qui se cache derrière ces larmes, mais nous savons au moins que c'est grâce à leur dévouement désintéressé que nous avons l'occasion de mieux connaître Dieu.
 

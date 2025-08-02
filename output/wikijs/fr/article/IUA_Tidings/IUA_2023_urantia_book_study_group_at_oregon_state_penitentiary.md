@@ -45,7 +45,7 @@ Le groupe d’étude du Livre d’Urantia de l’OSP a fonctionné pendant 18 an
 
 Les réunions sont passées d’une fréquence mensuelle à une fréquence hebdomadaire, mais depuis la pandémie, elles ont lieu deux fois par mois. De nombreux détenus sont passés par le groupe, certains pour une courte période en raison de leur transfert dans d’autres établissements, de leur libération ou pour des raisons personnelles. Cependant, il y a aussi des étudiants de longue date, dont Mike S. qui est avec nous depuis le début du groupe, et d’autres qui ont étudié avec nous pendant de nombreuses années jusqu’à ce qu’ils soient finalement libérés. Actuellement, deux autres personnes étudient avec nous depuis près de dix ans.
 
-Les nouveaux participants sont attirés dans le groupe par le bouche-à-oreille ou par les annonces que nous publions dans le bulletin hebdomadaire de la prison, le « Walled Street Bulletin ». Au fil du temps, nous avons distribué des centaines de livres au sein de l’OSP, financés par des dons de groupes Urantia locaux et de bénévoles.
+Les nouveaux participants sont attirés dans le groupe par le bouche-à-oreille ou par les annonces que nous publions dans le bulletin hebdomadaire de la prison, le « Walled Street Bulletin ». Au fil du temps, nous avons distribué des centaines de livres au sein de l’OSP, financés par des dons de groupes Urantia locaux et de bénévoles.
 
 Si vous vous demandez ce que c’est que d’être bénévole dans une prison, la première fois est une expérience inoubliable. Nous avons rapidement appris que le moyen le plus efficace de passer les contrôles de sécurité est de se conformer au code vestimentaire et de suivre les nombreux règlements. En outre, chaque bénévole de l’administration pénitentiaire de l’Oregon est tenu de suivre deux fois par an une formation au niveau de l’État et au niveau fédéral.
 
@@ -63,7 +63,7 @@ La monotonie de la vie carcérale est réelle. Confrontés à de longues peines,
 
 Outre la fondation de notre groupe d’étude, Konrad G. a apporté une autre contribution importante pendant son séjour à l’OSP. Artiste talentueux et métallurgiste dans l’atelier de la prison, il a collaboré avec un codétenu pour concevoir et construire l’emblème de l’administration pénitentiaire de l’Oregon (ci-dessus) qui est affiché à l’entrée du pénitencier et cette image est le fruit de leur travail. Konrad a participé à notre groupe d’étude pendant de nombreuses années avant d’être transféré dans un autre établissement. Il a depuis été libéré et vit près de Portland, en Floride.
 
-Je garderai toujours précieusement ces mots de Konrad : « Vous rendez-vous compte que ce que le groupe d’étude nous apporte et nous transmet, nous ne l’obtenons nulle part ailleurs ? Avec la bonne nourriture, les lys peuvent pousser à partir du bourbier… ».
+Je garderai toujours précieusement ces mots de Konrad : « Vous rendez-vous compte que ce que le groupe d’étude nous apporte et nous transmet, nous ne l’obtenons nulle part ailleurs ? Avec la bonne nourriture, les lys peuvent pousser à partir du bourbier… ».
 
 Brian H. lit le livre depuis plus de 50 ans, l’ayant découvert avant son incarcération. Brian espère être libéré prochainement après avoir purgé une peine de 34 ans. Étudiant dévoué de la révélation, Brian a amené de nombreuses âmes au groupe d’étude et a généreusement donné de son temps et de ses ressources financières pour s’occuper des affaires du Père. Brian trouve le groupe d’étude inestimable et est à jamais reconnaissant aux bénévoles d’apporter l’amour de Dieu là où il est le plus nécessaire.
 
@@ -71,9 +71,9 @@ Mike S. a été introduit au Livre d’Urantia par Konrad et a été un défense
 
 Matthew B. a reçu son livre d’Urantia d’un aumônier de prison du comté avant d’arriver à l’OSP. Il l’a lu du matin au soir et a terminé sa première lecture en seulement trois semaines. Lorsqu’il est arrivé à l’OSP, il en était déjà à sa deuxième lecture. Pendant sa peine de 17 ans, il est resté un étudiant dévoué de la révélation et était considéré comme l’intellectuel du groupe, ayant atteint une compréhension des enseignements bien supérieure à celle du lecteur moyen. Matthew était un prisonnier modèle et a consacré le temps qu’il a passé en prison à changer de vie. Matthew vit aujourd’hui dans le sud de l’Oregon.
 
-Andrew W. est un autre de nos lecteurs chevronnés qui connait bien le livre, ayant rejoint le groupe des années avant l’arrêt de COVID. Il écrit : « J’avais lu et entendu parlé du Livre d’Urantia il y a des années et je désirais le lire. Ce groupe m’a rendu le livre facilement accessible et m’a donné un cadre pour en discuter ».
+Andrew W. est un autre de nos lecteurs chevronnés qui connait bien le livre, ayant rejoint le groupe des années avant l’arrêt de COVID. Il écrit : « J’avais lu et entendu parlé du Livre d’Urantia il y a des années et je désirais le lire. Ce groupe m’a rendu le livre facilement accessible et m’a donné un cadre pour en discuter ».
 
-Patrick A. a rejoint le groupe il y a quelques mois. Il a écrit : « Je lis dans ma cellule chaque fois que j’en ai l’occasion, surtout le soir et au milieu de la nuit quand je n’arrive pas à dormir. Je suis très heureux d’avoir commencé à participer aux réunions, cela m’a aidé à bien des égards. Chaque prison devrait avoir un groupe d’étude.
+Patrick A. a rejoint le groupe il y a quelques mois. Il a écrit : « Je lis dans ma cellule chaque fois que j’en ai l’occasion, surtout le soir et au milieu de la nuit quand je n’arrive pas à dormir. Je suis très heureux d’avoir commencé à participer aux réunions, cela m’a aidé à bien des égards. Chaque prison devrait avoir un groupe d’étude.
 
 Nous prions pour que le groupe d’étude du livre d’Urantia continue à favoriser la croissance spirituelle personnelle parmi nos frères de l’OSP. Que les esprits soient illuminés, les âmes élevées et les esprits dominant chez tous ceux qui cherchent la vérité au milieu des défis de la vie carcérale.
 

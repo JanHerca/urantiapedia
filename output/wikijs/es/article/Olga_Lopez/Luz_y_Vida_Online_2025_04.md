@@ -282,11 +282,11 @@ Esta es la siguiente presentación prevista:
 
 **Hora: 18:00 horas CEST**
 
-_El libro de Urantia_ ofrece una perspectiva única sobre la existencia y el destino del alma. Según sus enseñanzas, el alma es una realidad intermedia entre lo material y lo espiritual, activa, creciente y unida a la divinidad. Es el pasaporte a la inmortalidad, como las células reproductoras lo son para el cuerpo humano, así lo es el alma para el ser morontial: sin alma, no hay morontia.
+_El libro de Urantia_ ofrece una perspectiva única sobre la existencia y el destino del alma. Según sus enseñanzas, el alma es una realidad intermedia entre lo material y lo espiritual, activa, creciente y unida a la divinidad. Es el pasaporte a la inmortalidad, como las células reproductoras lo son para el cuerpo humano, así lo es el alma para el ser morontial: sin alma, no hay morontia.
 
 **Presentador:** Eduardo Altuzarra
 
-Eduardo, español de 74 años y jubilado del sector ferroviario, es esposo, padre y abuelo agradecido. Hace más de treinta años descubrió _El libro de Urantia_, experiencia que transformó profundamente su vida. Desde entonces, su lectura constante lo ha guiado como una fuente diaria de sabiduría espiritual.
+Eduardo, español de 74 años y jubilado del sector ferroviario, es esposo, padre y abuelo agradecido. Hace más de treinta años descubrió _El libro de Urantia_, experiencia que transformó profundamente su vida. Desde entonces, su lectura constante lo ha guiado como una fuente diaria de sabiduría espiritual.
 
 Considera este libro una revelación trascendental que eleva el alma, conecta con la divinidad y despierta el propósito eterno del ser. Inspirado por sus enseñanzas, invita a otros a abrir el corazón a esta luz transformadora.
 

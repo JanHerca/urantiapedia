@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Teamwork-300x154.jpg">
 </figure>
 
-«Servicio»: una búsqueda en _El libro de Urantia_ da más de 630 resultados. Es el primero de los frutos divinos del espíritu: _servicio amoroso_. El servicio es vital para el crecimiento espiritual, y aun así en este momento no tenemos voluntarios suficientes. Hay más de 30 proyectos de apoyo a la Asociación Urantia Internacional y la revelación que están  en suspenso esperando que haya voluntarios dispuestos a servir.
+«Servicio»: una búsqueda en _El libro de Urantia_ da más de 630 resultados. Es el primero de los frutos divinos del espíritu: _servicio amoroso_. El servicio es vital para el crecimiento espiritual, y aun así en este momento no tenemos voluntarios suficientes. Hay más de 30 proyectos de apoyo a la Asociación Urantia Internacional y la revelación que están en suspenso esperando que haya voluntarios dispuestos a servir.
 
 A lo largo de la vida de la asociación ha habido demasiadas buenas ideas sobre programas que se han quedado aparcadas porque no había nadie que hiciera el trabajo. Esperamos que esto cambie con una nueva y emocionante oportunidad de servir.
 

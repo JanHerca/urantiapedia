@@ -39,11 +39,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Wildflower-by-LedyX.jpg">
 </figure>
 
-L’ère des groupes d’études et des conférences virtuelles est arrivée !  Avec le monde entier en quarantaine à cause du Coronavirus Covid-19, des opportunités inattendues se sont présentées dans les communautés de lecteurs du Livre d’Urantia. Les étudiants découvrent combien il est facile de rencontrer d’autres lecteurs du monde entier dans le confort de leur propre maison !  Grâce à des programmes de visioconférences comme Zoom, des groupes d’étude et des congrès ont lieu avec très peu d’organisation et pratiquement sans frais.
+L’ère des groupes d’études et des conférences virtuelles est arrivée !  Avec le monde entier en quarantaine à cause du Coronavirus Covid-19, des opportunités inattendues se sont présentées dans les communautés de lecteurs du Livre d’Urantia. Les étudiants découvrent combien il est facile de rencontrer d’autres lecteurs du monde entier dans le confort de leur propre maison !  Grâce à des programmes de visioconférences comme Zoom, des groupes d’étude et des congrès ont lieu avec très peu d’organisation et pratiquement sans frais.
 
 ## Urantiathon — Conférences en ligne de 24 heures
 
-« Urantiathon » est une nouvelle expression qui a été inventée pour décrire des événements comme les deux récentes conférences en ligne de 24 heures qui se sont tenues via Zoom et qui ont été commanditées par l’Association Urantia Internationale, l’une le 21 mars (_Récompense de l’isolement_) et l’autre le 2 mai (_Nous sommes ensemble_).
+« Urantiathon » est une nouvelle expression qui a été inventée pour décrire des événements comme les deux récentes conférences en ligne de 24 heures qui se sont tenues via Zoom et qui ont été commanditées par l’Association Urantia Internationale, l’une le 21 mars (_Récompense de l’isolement_) et l’autre le 2 mai (_Nous sommes ensemble_).
 
 Plusieurs bénévoles du monde entier se sont relayés pour faciliter les différents segments de la rencontre en fonction de leur fuseau horaire. Chaque hôte a joué un rôle de maître de cérémonie en présentant les conférenciers, en facilitant les discussions et en assurant le bon déroulement de l’événement.
 
@@ -64,13 +64,13 @@ Consultez-les dans les listes de lecture intitulées :
 
 https://www.youtube.com/watch?v=Qp48Rw-vwF0&list=PLQYC6XW8Ev1dt58G6KnPvnclxLEF5XIXa
 
-_Description_ _: Récompense de l’isolement_ !  L’Association Urantia Internationale a organisé un extraordinaire événement mondial en ligne d’une durée de 24 heures. Alors que les gens du monde entier sont invités à pratiquer l’isolement social pour aider à ralentir les effets du Coronavirus, l’Association Urantia a proposé cet événement extraordinaire en ligne pour rassembler les gens du mouvement.
+_Description_ _: Récompense de l’isolement_ !  L’Association Urantia Internationale a organisé un extraordinaire événement mondial en ligne d’une durée de 24 heures. Alors que les gens du monde entier sont invités à pratiquer l’isolement social pour aider à ralentir les effets du Coronavirus, l’Association Urantia a proposé cet événement extraordinaire en ligne pour rassembler les gens du mouvement.
 
 ## Un autre événement Urantia en ligne de 24 heures
 
 https://www.youtube.com/watch?v=0kXtq8PYxy0&list=PLQYC6XW8Ev1d502uaOa3gq-sY_Us_5Nlj
 
-_Description :_ Un autre événement Urantia en ligne de 24 heures : _Nous sommes ensemble !_ Alors que le monde continue à pratiquer l’isolement social pour aider à ralentir les effets du Covid-19, la communauté urantienne a offert un autre événement en ligne extraordinaire pour aider à rassembler les étudiants. Pour cet événement en ligne de 24 heures, l’Association Urantia s’est associée aux comités d’éducation de la Fondation Urantia, à la Fellowship et à Urantia University Institute pour offrir 24 présentations uniques au monde entier.
+_Description :_ Un autre événement Urantia en ligne de 24 heures : _Nous sommes ensemble !_ Alors que le monde continue à pratiquer l’isolement social pour aider à ralentir les effets du Covid-19, la communauté urantienne a offert un autre événement en ligne extraordinaire pour aider à rassembler les étudiants. Pour cet événement en ligne de 24 heures, l’Association Urantia s’est associée aux comités d’éducation de la Fondation Urantia, à la Fellowship et à Urantia University Institute pour offrir 24 présentations uniques au monde entier.
 
 > _La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même »_ <a id="a74_225"></a>[[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16)] 
 

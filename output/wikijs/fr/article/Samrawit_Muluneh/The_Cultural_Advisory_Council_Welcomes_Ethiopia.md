@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Samrawit Muluneh, Addis Abeba, Éthiopie_
 
-_Note de l'éditeur : Le Conseil Consultatif Culturel fut créé pour améliorer la sagesse culturelle et la prise de conscience des efforts de dissémination de la Fondation tout en familiarisant les membres du conseil avec le travail de la Fondation Urantia, afin que les deux puissent mieux servir le lectorat au sein de leurs cultures._
+_Note de l'éditeur : Le Conseil Consultatif Culturel fut créé pour améliorer la sagesse culturelle et la prise de conscience des efforts de dissémination de la Fondation tout en familiarisant les membres du conseil avec le travail de la Fondation Urantia, afin que les deux puissent mieux servir le lectorat au sein de leurs cultures._
 
 _Samrawit vit en Éthiopie et est professeur de mathématiques. Elle a découvert_ Le Livre d'Urantia _en 2020 et a depuis cherché à se connecter avec d'autres lecteurs à travers l'Éthiopie et l'Afrique. Elle a travaillé en étroite collaboration avec des personnes comme Pato Banton pour assurer un accès plus large au livre, en distribuant de nombreux exemplaires à travers l'Éthiopie. En plus de sa passion pour la révélation, Samrawit est une pratiquante et une formatrice dévouée à la méditation de pleine conscience, ayant dirigé une session de méditation lors de la Conférence Urantia Afrique au Ghana._
 
@@ -65,13 +65,13 @@ Le christianisme est entré en Éthiopie au quatrième siècle après J.-C., lor
 
 L'islam a également une longue histoire en Éthiopie. Lorsque le prophète Mahomet a envoyé les premiers musulmans, dont sa propre fille, le roi Ella Tsaham les a accueillis chaleureusement et leur a permis d'exercer librement leur religion. De nombreux groupes ethniques traditionnels conservent des croyances et des pratiques indigènes qui coexistent pacifiquement avec le christianisme et l'islam.
 
-Située dans la Corne de l'Afrique, l'Éthiopie est un pays enclavé bordé par l'Érythrée, Djibouti, la Somalie, le Soudan et le Kenya. Elle présente des paysages variés, notamment les hauts plateaux, souvent appelés le « toit de l'Afrique », en raison de leurs montagnes et plateaux accidentés. Il y a aussi des plaines, comme le Dallol, l'endroit le plus bas d'Éthiopie. La vallée du Rift traverse le pays, créant des écosystèmes uniques et de riches terres agricoles. Enfin, il y a le lac Tana, le plus grand lac du pays, et le Nil bleu, qui est un affluent majeur du Nil.
+Située dans la Corne de l'Afrique, l'Éthiopie est un pays enclavé bordé par l'Érythrée, Djibouti, la Somalie, le Soudan et le Kenya. Elle présente des paysages variés, notamment les hauts plateaux, souvent appelés le « toit de l'Afrique », en raison de leurs montagnes et plateaux accidentés. Il y a aussi des plaines, comme le Dallol, l'endroit le plus bas d'Éthiopie. La vallée du Rift traverse le pays, créant des écosystèmes uniques et de riches terres agricoles. Enfin, il y a le lac Tana, le plus grand lac du pays, et le Nil bleu, qui est un affluent majeur du Nil.
 
 L'Éthiopie est le deuxième pays le plus peuplé d'Afrique après le Nigeria. Abritant plus de 80 groupes ethniques distincts, c'est l'un des pays d'Afrique les plus diversifiés sur le plan ethnique. Elle possède un calendrier unique, ainsi que ses propres alphabets et chiffres. Les églises creusées dans la roche de Lalibela, classées au patrimoine mondial de l'UNESCO, sont considérées comme l'une des plus grandes réalisations architecturales de l'Éthiopie.
 
-L'Éthiopie est le seul pays d'Afrique à n'avoir jamais été colonisé ! Notre langue nationale est l'amharique, mais de nombreuses autres langues, telles que l'oromo, le tigrinya et le somali, sont largement parlées.
+L'Éthiopie est le seul pays d'Afrique à n'avoir jamais été colonisé ! Notre langue nationale est l'amharique, mais de nombreuses autres langues, telles que l'oromo, le tigrinya et le somali, sont largement parlées.
 
-L'anglais est enseigné dans les écoles, mais seulement 10 % de la population peut le lire et le comprendre. En règle générale, les Éthiopiens ne sont pas de grands lecteurs. Néanmoins, j'emporte _Le Livre d'Urantia_ avec moi chaque fois que je voyage et je continue à le partager avec d'autres.
+L'anglais est enseigné dans les écoles, mais seulement 10 % de la population peut le lire et le comprendre. En règle générale, les Éthiopiens ne sont pas de grands lecteurs. Néanmoins, j'emporte _Le Livre d'Urantia_ avec moi chaque fois que je voyage et je continue à le partager avec d'autres.
 
 J'ai le plaisir de siéger au Consultatif Culturel de la Fondation. La riche tapisserie d'histoire, de culture et de beauté naturelle de l'Éthiopie en fait un pays fascinant avec une identité unique en Afrique et dans le monde. Bien que je ne sois pas qualifié pour faire ce travail moi-même, j'espère qu'un jour _Le Livre d'Urantia_ sera traduit en amharique.
 

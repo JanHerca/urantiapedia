@@ -37,9 +37,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <figcaption><em>Collins Lomo</em></figcaption>
 </figure>
 
-L’avenir du Livre d’Urantia en Afrique dépend beaucoup du fait d’avoir un groupe de lecteurs chevronnés qui sont engagés dans les idéaux du livre — des lecteurs qui sont prêts à travailler pour fournir un soutien et une direction fiables au lectorat croissant sur le continent. Ainsi, nous sommes heureux d’annoncer que Collins Lomo, d’Accra au Ghana, a été élu comme nouveau coordinateur continental de l’Association Urantia pour l’Afrique. 
+L’avenir du Livre d’Urantia en Afrique dépend beaucoup du fait d’avoir un groupe de lecteurs chevronnés qui sont engagés dans les idéaux du livre — des lecteurs qui sont prêts à travailler pour fournir un soutien et une direction fiables au lectorat croissant sur le continent. Ainsi, nous sommes heureux d’annoncer que Collins Lomo, d’Accra au Ghana, a été élu comme nouveau coordinateur continental de l’Association Urantia pour l’Afrique. 
 
-Collins a encouragé le développement de l’activité des lecteurs du Livre d’Urantia au Ghana et dans divers autres pays africains depuis 2014. Il a représenté l’Afrique au congrès international 2018 de l’Association Urantia aux Pays-Bas et conjointement, il a facilité le congrès qui s’est tenu à Lagos, au Nigeria, en décembre 2019. 
+Collins a encouragé le développement de l’activité des lecteurs du Livre d’Urantia au Ghana et dans divers autres pays africains depuis 2014. Il a représenté l’Afrique au congrès international 2018 de l’Association Urantia aux Pays-Bas et conjointement, il a facilité le congrès qui s’est tenu à Lagos, au Nigeria, en décembre 2019. 
 
 Dans son rôle de coordinateur continental africain, Collins prévoit de favoriser le développement de leaders parmi le lectorat actif en Afrique et de fournir un forum de leadership africain pour encourager la collaboration et la communication. Les objectifs seront de rassembler les leaders africains pour partager leurs expériences et trouver des moyens d’améliorer l’efficacité des groupes d’étude, d’encourager les lecteurs à entreprendre une étude approfondie du Livre d’Urantia et de trouver des moyens de promouvoir efficacement le Livre sur le continent africain.
 

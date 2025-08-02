@@ -40,7 +40,7 @@ _Mark Blackham, Canada_
 <img src="/image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
 </figure>
 
-Bienvenidos a la edición de noviembre del _Journal_ de la Asociación Urantia, una publicación dedicada a los pensamientos, observaciones y experiencias de estudiantes de _El libro de Urantia_ de todo el mundo. Nuestros colaboradores exploran un amplio rango de temas relacionados con las enseñanzas del libro, y demuestran todos una extraordinaria diversidad de pensamiento y de unidad de propósito en espíritu. 
+Bienvenidos a la edición de noviembre del _Journal_ de la Asociación Urantia, una publicación dedicada a los pensamientos, observaciones y experiencias de estudiantes de _El libro de Urantia_ de todo el mundo. Nuestros colaboradores exploran un amplio rango de temas relacionados con las enseñanzas del libro, y demuestran todos una extraordinaria diversidad de pensamiento y de unidad de propósito en espíritu. 
 
 El primer artículo, «¿Es Urantia una nueva religión?», de Peep Sõber, trae una pregunta que a menudo se plantean los estudiantes de _El libro de Urantia_ y otras personas. Peep reconoce que hay un aspecto subjetivo en esta pregunta, que depende de la persona y de sus experiencias. No obstante, aborda el argumento de que tanto el _Mandato de Publicación_ como _El libro de Urantia_ promueven una nueva religión, más concretamente la religión de Jesús. Aunque cambiar de religión no significa crear una nueva Iglesia con un conjunto rígido de creencias, tener un clero o reclamar una autoridad eclesiástica.
 

@@ -346,9 +346,9 @@ One thing should be made clear: Nothing is done to interfere with the energetic 
 > 
 > There are two additional versions of the history below which are dated 1960 and attributed to Marian Rowley. Marian's histories are apparently condensations of the more extensive history reproduced below and contain her comments in which she notes the items which she intends to omit from the original in her “official history”. The condensation by Marian Rowley is the history which Larry Mullins refers to as “History 1.” While Mullins holds that “History 2” was an expanded version of “History 1,” Marian Rowley's notes indicate that “History 1” was actually a condensation of “History 2.” In spite of the fact that Marian indicates her source document was an edited version of “Dr.'s” history, the critique of the authorship of “History 2” presented by Larry Mullins leads to other conclusions. To study this matter in greater detail, see:
 > 
-> - [Marian Rowley's draft of a history; June 1960](https://archive.urantiabook.org/archive/history/marians_history_draft.htm)    
+> - [Marian Rowley's draft of a history; June 1960](https://archive.urantiabook.org/archive/history/marians_history_draft.htm)    
 >   - [See PDF reproduction of original](https://archive.urantiabook.org/archive/originals/marian_draft_history.pdf) PDF
-> - [Marian Rowley's completed history, June 1960](https://archive.urantiabook.org/archive/history/marians_history_final.htm)   (This corresponds to Larry Mullins' “History 1”)
+> - [Marian Rowley's completed history, June 1960](https://archive.urantiabook.org/archive/history/marians_history_final.htm)  (This corresponds to Larry Mullins' “History 1”)
 >   - [See PDF reproduction of origina](https://archive.urantiabook.org/archive/originals/marian_completed_history.pdf) PDF (Compare Marian's completed history with her draft noted above as well as with the history attributed to Dr. Sadler from the same time period which is reproduced below.)
 > - [See Marian's comparison of the two histories](https://archive.urantiabook.org/archive/originals/marian_history_comparison.pdf) PDF
 {.is-info}

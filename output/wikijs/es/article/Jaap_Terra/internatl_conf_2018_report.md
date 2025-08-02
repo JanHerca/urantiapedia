@@ -47,9 +47,9 @@ Me toca informar sobre esta gran conferencia. De hecho es imposible revelar cuá
 <img src="/image/article/IUA_Tidings/2018-IC-Workshop-3-e1528074524266.jpg">
 </figure>
 
-Debido al contenido de las presentaciones, sesiones en grupo y talleres, Jesús realmente dejó su sello, semillas que se sembraron y plantas que se cultivaron para que crezcan en Urantia desde la «quinta revelación de época» (esto es, las nuevas revelaciones contenidas en _El libro de Urantia_).
+Debido al contenido de las presentaciones, sesiones en grupo y talleres, Jesús realmente dejó su sello, semillas que se sembraron y plantas que se cultivaron para que crezcan en Urantia desde la «quinta revelación de época» (esto es, las nuevas revelaciones contenidas en _El libro de Urantia_).
 
-![](https://urantia-association.org/wp-content/uploads/2018/05/2018-IC-Workshop-3-300x225.jpg)Basándonos en las numerosas reacciones positivas y los comentarios que hemos recibido, podemos decir con seguridad que esta conferencia tuvo mucho éxito. Muchos invitados indicaron que estuvieron profundamente conmovidos y que durante la conferencia (e incluso en días posteriores) sintieron que la conferencia era Urantia tal como Jesús habría pretendido, un «mundo en luz y vida».
+![](https://urantia-association.org/wp-content/uploads/2018/05/2018-IC-Workshop-3-300x225.jpg)Basándonos en las numerosas reacciones positivas y los comentarios que hemos recibido, podemos decir con seguridad que esta conferencia tuvo mucho éxito. Muchos invitados indicaron que estuvieron profundamente conmovidos y que durante la conferencia (e incluso en días posteriores) sintieron que la conferencia era Urantia tal como Jesús habría pretendido, un «mundo en luz y vida».
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/2018-IC-Stage-300x225.jpg">

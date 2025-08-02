@@ -36,7 +36,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Margo-Portrait-150x150.jpg">
 </figure>
 
-Margo Sherwood, amada esposa de Will Sherwood, se graduó en paz tras una larga enfermedad en las primeras horas de la mañana del sábado 29 de octubre de 2022, con la ayuda y el apoyo de su esposo, sus mascotas y los cariñosos trabajadores de cuidados paliativos.  
+Margo Sherwood, amada esposa de Will Sherwood, se graduó en paz tras una larga enfermedad en las primeras horas de la mañana del sábado 29 de octubre de 2022, con la ayuda y el apoyo de su esposo, sus mascotas y los cariñosos trabajadores de cuidados paliativos.  
 
 Margo nació en 1954 en Hungría y escapó de esa nación comunista a los 20 años. Ella y su entonces marido permanecieron nueve meses en Austria a la espera de asilo político para convertirse en ciudadanos estadounidenses.
 

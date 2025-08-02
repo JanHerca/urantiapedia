@@ -53,7 +53,7 @@ La siguiente lista de mantras de meditación está tomada de las sugerencias pr�
 - Mantendré una actitud mental centrada y firme mediante la oración y la adoración, y limpiaré mi mente de todas las nociones preconcebidas, ideas establecidas y prejuicios de toda la vida.
 - Amaré, apreciaré y confiaré en mi Divino Padre con todo mi corazón. Con toda sinceridad deseo ser perfecto como él.
 - Acepto de buena gana y con alegría el programa establecido por mi Padre para mi desarrollo intelectual y espiritual, aunque no sea consciente de lo que es.
-- Cooperaré plenamente con la dirección del Espíritu Divino con alegría y entusiasmo. Estoy dispuesto a tomar decisiones valientes para hacer y ser lo que sea necesario. 
+- Cooperaré plenamente con la dirección del Espíritu Divino con alegría y entusiasmo. Estoy dispuesto a tomar decisiones valientes para hacer y ser lo que sea necesario. 
 - Estaré en armonía con el Espíritu que está dentro de mí y elegiré conscientemente perseguir las realidades divinas de verdad, belleza y bondad, que expresaré en mi vida a través del amor, la compasión y el ministerio.
 - Intentaré siempre tomar decisiones claras y conscientes sobre todo lo que pienso, digo o hago, y mediré cada una de mis decisiones con las varas de la verdad, la belleza y la bondad.
 - Consagraré mi vida (todos mis pensamientos, palabras y acciones) a cooperar con la Presencia Divina. Es mi voluntad que se haga la voluntad de Dios.

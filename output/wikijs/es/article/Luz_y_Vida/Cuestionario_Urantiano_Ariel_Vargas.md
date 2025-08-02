@@ -54,9 +54,9 @@ Desde el primer momento lo consideré una revelación auténtica. Ya venía con 
 
 Desde que leí _La rebelión de Lucifer_, ya tenía la disposición de aceptar _El libro de Urantia_ como una revelación genuina.
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
-Me ha cambiado mucho más que Los _Caballos de Troya_, ya que me hizo ampliar mi perspectiva y ser una persona más analítica y racional sobre la vida. 
+Me ha cambiado mucho más que Los _Caballos de Troya_, ya que me hizo ampliar mi perspectiva y ser una persona más analítica y racional sobre la vida. 
 
 ## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 

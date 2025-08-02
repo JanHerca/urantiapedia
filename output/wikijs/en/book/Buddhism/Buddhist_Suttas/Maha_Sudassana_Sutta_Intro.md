@@ -189,7 +189,7 @@ The last clause is literally, ‘Blessed is their cessation,’ where the word f
 
 [^18]: Tâvakâlikâ, See <i>G</i>âtaka I, 121, where the word is used of a cart let out on hire for a time only.
 
-[^19]: 'Tad ev eka<i>m</i> eka<i>m</i>, which is not altogether without ambiguity.
+[^19]: 'Tad ev eka<i>m</i> eka<i>m</i>, which is not altogether without ambiguity.
 
 [^20]: This paragraph, too, is omitted in the Sutta.
 

@@ -40,7 +40,7 @@ _Governance Committee_
 <img src="/image/article/IUA_Tidings/feedback-Mohamed_hassan-300x321.jpg">
 </figure>
 
-For several years, Sue Seccombe, President of the Fellowship, has been in discussion with our President, Enrique Traver, about ways the Association and Fellowship could collaborate. In October 2023, the Fellowship General Council approved a resolution establishing a "Unity Committee" to explore and make recommendations regarding “details and options … of steps toward unity between \[our\] two organizations.”  The Fellowship selected their Unity Committee members which were approved at their February 2024 General Council meeting.
+For several years, Sue Seccombe, President of the Fellowship, has been in discussion with our President, Enrique Traver, about ways the Association and Fellowship could collaborate. In October 2023, the Fellowship General Council approved a resolution establishing a "Unity Committee" to explore and make recommendations regarding “details and options … of steps toward unity between \[our\] two organizations.” The Fellowship selected their Unity Committee members which were approved at their February 2024 General Council meeting.
 
 In February, the Association approved the chartering of a Special Unity Committee granting authority to pursue discussions with the Fellowship towards unifying our two organizations. Our Unity Committee members are Gaétan Charland (Canada), Committee Chair, Michael Zehr (USA), Andrés Rodriquez (Colombia), Chris Moseley (UK), Susan Owen (USA). This committee met on April 29th to get to know each other and discuss the benefits and challenges of unity with the Fellowship. A second meeting was held May 15th to get acquainted further and discuss expectations for this endeavor.
 <br style="clear:both;"/>
@@ -49,7 +49,7 @@ In February, the Association approved the chartering of a Special Unity Committe
 
 The purpose of the Association’s Unity Survey was to obtain input from our leaders and members to guide the Association’s Unity Committee in conversations with the Fellowship regarding unification of our two organizations. Here are the results of responses to the three main issues:
 
-1. I am in favor of Urantia Association working with the Fellowship to eliminate competition. 
+1. I am in favor of Urantia Association working with the Fellowship to eliminate competition. 
 	- 76.9% strongly agree
 	- 15.4% agree
 	- 1.9% neither agree or disagree
@@ -61,7 +61,7 @@ The purpose of the Association’s Unity Survey was to obtain input from our lea
 	- 1.9% neither agree nor disagree
 	- 1.9% disagree
 	- 3.8% strongly disagree
-3. The Fellowship must stop printing their copy of _The Urantia Book_ before the Association agrees to any recommendations concerning eliminating competition or defining steps to unity.
+3. The Fellowship must stop printing their copy of _The Urantia Book_ before the Association agrees to any recommendations concerning eliminating competition or defining steps to unity.
 	- 37.5% strongly agree
 	- 19.2% agree
 	- 28.8% neither agree nor disagree

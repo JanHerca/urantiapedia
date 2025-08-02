@@ -39,13 +39,13 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Richard-Keeler-grey-jacket_ed-300x284.jpg">
 </figure>
 
-Richard Keeler est décédé paisiblement le 16 janvier dernier après avoir lutté contre une maladie terminale. Serviteur de longue date de la Révélation d’Urantia, bon ami de nombreuses personnes, membre loyal et digne de confiance, partisan de _l’Association Urantia internationale_ et de la Fondation Urantia pendant 30 ans, Richard a été aimé par beaucoup et manquera cruellement à ceux qui l’appelaient leur ami.
+Richard Keeler est décédé paisiblement le 16 janvier dernier après avoir lutté contre une maladie terminale. Serviteur de longue date de la Révélation d’Urantia, bon ami de nombreuses personnes, membre loyal et digne de confiance, partisan de _l’Association Urantia internationale_ et de la Fondation Urantia pendant 30 ans, Richard a été aimé par beaucoup et manquera cruellement à ceux qui l’appelaient leur ami.
 
 Vous trouverez ci-dessous les hommages de certains de ses amis qui illustrent la profondeur de l’amour et de la gratitude que tant de gens ont eu envers cet homme merveilleux.
 
 **Fondation Urantia**
 
-C’est avec des larmes de tristesse, de joie et de célébration que nous annonçons que Richard Keeler a gradué. Hier soir, le 16 janvier 2019, notre frère et ami bien-aimé a quitté Urantia. Sa santé déclinait depuis deux ans et son décès a été une bénédiction qu’il attendait avec impatience. Il a relevé le défi de son dernier voyage avec courage et foi en son Père céleste.
+C’est avec des larmes de tristesse, de joie et de célébration que nous annonçons que Richard Keeler a gradué. Hier soir, le 16 janvier 2019, notre frère et ami bien-aimé a quitté Urantia. Sa santé déclinait depuis deux ans et son décès a été une bénédiction qu’il attendait avec impatience. Il a relevé le défi de son dernier voyage avec courage et foi en son Père céleste.
 
 Richard Keeler a été un fidéicommissaire à la Fondation Urantia pendant 30 ans. Il était inébranlable dans son amour de la révélation et dans le service rendu à la Fondation et au lectorat. Il nous a apporté sagesse, humour et fraternité à tous. Le service affectueux, le dévouement désintéressé et la loyauté courageuse de Richard témoignaient de son dévouement à vivre des fruits de l’esprit.
 
@@ -53,7 +53,7 @@ Richard Keeler a été un fidéicommissaire à la Fondation Urantia pendant 30 a
 <img src="/image/article/IUA_Tidings/Richard-Keeler-Red-Scarf_ed-300x308.jpg">
 </figure>
 
-Richard nous manque à nous tous et nous lui disons bon vent et que son ange gardien l’emmène dans le monde des maisons. Richard, nous saluons le fragment de l’infini, l’étincelle de divinité et la braise d’éternité en toi. Nous vous laissons avec la citation préférée de Richard dans _Le Livre d’Urantia_ :
+Richard nous manque à nous tous et nous lui disons bon vent et que son ange gardien l’emmène dans le monde des maisons. Richard, nous saluons le fragment de l’infini, l’étincelle de divinité et la braise d’éternité en toi. Nous vous laissons avec la citation préférée de Richard dans _Le Livre d’Urantia_ :
 <br style="clear:both;"/>
 
 > _De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers._ <a id="a58_312"></a>[[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10)]
@@ -92,7 +92,7 @@ Richard a contribué à la première traduction en russe de la réalité du Livr
 
 **Rick Warren**
 
-Lors de l’accréditation de notre association locale à Houston, en 1992, Rich, Phil R., Kathy et Pat M. donnaient chacun une petite conférence. Au cours de l’exposé de Richard, une femme retira un plâtre amovible de son bras. Richard était toujours sérieux dans ses discussions lors de ces événements, mais il s’arrêta net, bondit en pointant et criant comme un fou: madame, « C’est un miracle ! »  Quand j’ai voulu mettre un Livre d’Urantia dans toutes les bibliothèques du Texas, il m’a soutenu et ce fut concrétisé ; si j’appelais la librairie, la Fondation Urantia les expédiait. Près de 1 000 livres ont été livrés. Et il ne s’est pas arrêté ni ne s’est retiré quand on lui a infligé des coups répétés. Misez sur Ricardo, vous le faites si bien. Alerte aux mondes des maisons, voici un candidat.
+Lors de l’accréditation de notre association locale à Houston, en 1992, Rich, Phil R., Kathy et Pat M. donnaient chacun une petite conférence. Au cours de l’exposé de Richard, une femme retira un plâtre amovible de son bras. Richard était toujours sérieux dans ses discussions lors de ces événements, mais il s’arrêta net, bondit en pointant et criant comme un fou: madame, « C’est un miracle ! » Quand j’ai voulu mettre un Livre d’Urantia dans toutes les bibliothèques du Texas, il m’a soutenu et ce fut concrétisé ; si j’appelais la librairie, la Fondation Urantia les expédiait. Près de 1 000 livres ont été livrés. Et il ne s’est pas arrêté ni ne s’est retiré quand on lui a infligé des coups répétés. Misez sur Ricardo, vous le faites si bien. Alerte aux mondes des maisons, voici un candidat.
 
 **Kathleen Swadling**
 

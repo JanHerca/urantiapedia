@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/fr/article/UF_News_Online/2023_Mustard_Seed_Grant_Projects_Round_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projets de subventions « Semence de moutarde » 2023 (2e cycle)</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projets de subventions « Semence de moutarde » 2023 (2e cycle)</span>
         </a>
         </td>
         <td>
@@ -46,13 +46,13 @@ C'est la principale activité de diffusion que l'AUB réalise chaque année. C'e
 
 Avec l'aide de 20 bénévoles, nous avons distribué 3 500 dépliants et 30 000 petits prospectus, nous avons vendu 74 livres et nous avons discuté avec près de 700 personnes. Ces conversations ont démontré que l'intérêt pour le livre augmente et que de nombreuses personnes ont déjà un exemplaire et le lisent, ce qui facilite l'approche de personne à personne. D’année en année, nous avons remarqué que le mot Urantia et le livre sont de plus en plus connus. Nous avons également constaté que la distribution de dépliants est une méthode de diffusion efficace, car plusieurs personnes sont venues directement au stand pour acheter le livre, s'abonner à la base de données ou entrer en contact avec un groupe d'étude.
 
-En tant que participants à la FILBO, nous avons eu accès aux auditoriums pour présenter des conférences au public. Celles-ci sont répertoriées sur le site de la FILBO dans le cadre de l'agenda culturel de la foire. Nous avons donné trois présentations : « Votre essence divine », « Le gouvernement humain » et « _Le Livre d'Urantia_ par rapport à la science ».
+En tant que participants à la FILBO, nous avons eu accès aux auditoriums pour présenter des conférences au public. Celles-ci sont répertoriées sur le site de la FILBO dans le cadre de l'agenda culturel de la foire. Nous avons donné trois présentations : « Votre essence divine », « Le gouvernement humain » et « _Le Livre d'Urantia_ par rapport à la science ».
 
 La participation aux salons du livre renforce les associations, car c'est l'occasion de s'impliquer dans des tâches de service et de diffusion. L'expérience bénévole de parler avec tant de gens est la formation la plus efficace pour apprendre à parler du livre avec d'autres personnes tout en rendant service. Nous avons beaucoup appris sur l'attitude du public à l'égard des thèmes du livre et de ses intérêts, et nous avons également appris les meilleures stratégies de communication. De nombreuses autres associations ont suivi l'exemple de Bogota en Colombie et en Amérique latine, vérifiant elles-mêmes ces avantages.
 
 <br style="clear:both;"/>
 
-Une fois de plus, nous apprécions le soutien de l'Urantia Association International et de la Fondation Urantia, qui nous permet de mener à bien le travail de dissémination des enseignements du _Livre d'Urantia_. Nous remercions également tous les bénévoles qui ont servi le stand dans de nombreuses fonctions pendant les 16 jours de la FILBO, et nous espérons qu'ils ont tiré autant de bénéfices de leur ministère que les chercheurs qui ont visité le stand. Comme nous le dit le Chef des Médians d'Urantia :
+Une fois de plus, nous apprécions le soutien de l'Urantia Association International et de la Fondation Urantia, qui nous permet de mener à bien le travail de dissémination des enseignements du _Livre d'Urantia_. Nous remercions également tous les bénévoles qui ont servi le stand dans de nombreuses fonctions pendant les 16 jours de la FILBO, et nous espérons qu'ils ont tiré autant de bénéfices de leur ministère que les chercheurs qui ont visité le stand. Comme nous le dit le Chef des Médians d'Urantia :
 
 > Jésus emmenait souvent ses apôtres seuls pendant de courtes périodes pour qu'ils se livrent à la méditation et à la prière, mais la plupart du temps, il les gardait en contact avec la foule. L'âme de l'homme a besoin d'exercice spirituel aussi bien que de nourriture spirituelle. [LU 91:7.2](/fr/The_Urantia_Book/91#p7_2)
 
@@ -79,7 +79,7 @@ Une fois de plus, nous apprécions le soutien de l'Urantia Association Internati
       <tr>
         <td>
         <a href="/fr/article/UF_News_Online/2023_Mustard_Seed_Grant_Projects_Round_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projets de subventions « Semence de moutarde » 2023 (2e cycle)</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projets de subventions « Semence de moutarde » 2023 (2e cycle)</span>
         </a>
         </td>
         <td>

@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Pato-Antoinette.jpg">
 </figure>
 
-Ya estábamos ilusionados ante la perspectiva de trabajar en asociación con la Asociación Urantia Internacional en nuestra Conferencia Urantia 2017 en Acra (Ghana), cuando Antonio Schefer nos avisó del deseo de Antonio Roque de hacer un «encuentro» para celebrar una sesión de grupo de estudio durante nuestra visita a Birmingham (Reino Unido) de camino a África. ¡Fue aún más emocionante saber que parte de nuestra familia Urantia de Europa había expresado su deseo de volar y unirse a nosotros también!
+Ya estábamos ilusionados ante la perspectiva de trabajar en asociación con la Asociación Urantia Internacional en nuestra Conferencia Urantia 2017 en Acra (Ghana), cuando Antonio Schefer nos avisó del deseo de Antonio Roque de hacer un «encuentro» para celebrar una sesión de grupo de estudio durante nuestra visita a Birmingham (Reino Unido) de camino a África. ¡Fue aún más emocionante saber que parte de nuestra familia Urantia de Europa había expresado su deseo de volar y unirse a nosotros también!
 <br style="clear:both;"/>
 
 ## Parte 1—Hotel Hallmark, este de Londres (Reino Unido) 
@@ -58,7 +58,7 @@ Para nosotros, lo más destacado de ese día fue:
 
 2. Quedarnos deslumbrados cuando Alexander H, de Alemania, tomó el micro y comenzó a rapear con la música en su lengua materna.
 
-3. Cuando Lenson, nuestro camarero indio, aceptó nuestra invitación para compartir su filosofía religiosa con todos los asistentes de la sala. Dijo: «Fui criado como cristiano, ¡pero creo que Dios nos ama a todos!». Entonces nos estrechó la mano y se unió a nuestro círculo de oración con una oración que nos llegó al corazón y al alma. Le hizo mucha ilusión recibir un Libro de Urantia y prometió seguir en contacto con nosotros.
+3. Cuando Lenson, nuestro camarero indio, aceptó nuestra invitación para compartir su filosofía religiosa con todos los asistentes de la sala. Dijo: «Fui criado como cristiano, ¡pero creo que Dios nos ama a todos!». Entonces nos estrechó la mano y se unió a nuestro círculo de oración con una oración que nos llegó al corazón y al alma. Le hizo mucha ilusión recibir un Libro de Urantia y prometió seguir en contacto con nosotros.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Pato-UK-2-706x348.jpg">
@@ -66,13 +66,13 @@ Para nosotros, lo más destacado de ese día fue:
 
 ## Parte 2—Hotel Blu, Birmingham (Reino Unido)
 
-Todavía animados por la asombrosa experiencia que tuvimos en el encuentro Urantia de Londres, al día siguiente siete asistentes decidieron acompañarnos a Birmingham en auto para tener otro intercambio de inspiración, motivación espiritual y amor.
+Todavía animados por la asombrosa experiencia que tuvimos en el encuentro Urantia de Londres, al día siguiente siete asistentes decidieron acompañarnos a Birmingham en auto para tener otro intercambio de inspiración, motivación espiritual y amor.
 
-Tres de las hijas de Pato suelen celebrar un grupo de estudio y otras actividades en Birmingham, y habían estimado que asistirían unas 14 personas al encuentro. Pero debido a que también habían pedido a Pato que aprovechara esta ocasión para bautizar a cinco de sus nietos, se convirtió también en una celebración familiar a la que asistieron unas 40 personas. Pato inauguró la noche con una oración y procedió a bautizar a los niños ungiendo sus cabezas con aceite. Alexander H, de Alemania, compartió su deseo de ser consagrado por Pato durante este momento, y Pato lo complació con una ceremonia muy emotiva.
+Tres de las hijas de Pato suelen celebrar un grupo de estudio y otras actividades en Birmingham, y habían estimado que asistirían unas 14 personas al encuentro. Pero debido a que también habían pedido a Pato que aprovechara esta ocasión para bautizar a cinco de sus nietos, se convirtió también en una celebración familiar a la que asistieron unas 40 personas. Pato inauguró la noche con una oración y procedió a bautizar a los niños ungiendo sus cabezas con aceite. Alexander H, de Alemania, compartió su deseo de ser consagrado por Pato durante este momento, y Pato lo complació con una ceremonia muy emotiva.
 
 Entonces dijimos a todos que íbamos a estudiar un documento de _El libro de Urantia_, y si alguno no estaba interesado o necesitaba marcharse, era un buen momento para hacerlo. Pero para nuestra sorpresa, todos tomaron un Libro de Urantia y se quedaron para participar en lo que se convirtió en una noche muy memorable que continuó mucho más allá de lo programado.
 
-El documento elegido fue _El segundo discurso sobre la religión_, que resultó ser una gran elección, pues todos los que había en la sala (musulmanes, cristianos y agnósticos por igual) pudieron relacionar las enseñanzas de Jesús sobre este tema de la libertad espiritual que daba que pensar. Fue también una oportunidad ideal para que las preguntas de los escépticos sobre _El libro de Urantia_ se respondieran en un entorno abierto y amoroso.
+El documento elegido fue _El segundo discurso sobre la religión_, que resultó ser una gran elección, pues todos los que había en la sala (musulmanes, cristianos y agnósticos por igual) pudieron relacionar las enseñanzas de Jesús sobre este tema de la libertad espiritual que daba que pensar. Fue también una oportunidad ideal para que las preguntas de los escépticos sobre _El libro de Urantia_ se respondieran en un entorno abierto y amoroso.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Pato-Birmingham-1-706x275.jpg">
@@ -83,13 +83,13 @@ El círculo de oración final (en el que se dio la mano todo el mundo) fue un ve
 Hubo muchos grandes momentos durante todo este evento, pero algunos de los más destacados para nosotros fueron:
 
 1. La llegada de la madre de Pato con comida casera caribeña para todos, en la que compartió sus ideas sobre libertad espiritual y la necesidad de que todos coexistamos.
-2. Tanisha Mendes (sobrina de Pato), que se sentía inclinada a hacerse musulmana, compartió ilusionada muchas expresiones y reflexiones durante la noche, abrazó muchos de los conceptos de _El libro de Urantia_ y afirmó: «¡Esto tiene mucho sentido para mí y según la manera en la que pienso!» Antes de partir, se llevó algunos libros para compartir con amigos de mente abierta que ella creía que estarían interesados en conocer estas «nuevas verdades».
+2. Tanisha Mendes (sobrina de Pato), que se sentía inclinada a hacerse musulmana, compartió ilusionada muchas expresiones y reflexiones durante la noche, abrazó muchos de los conceptos de _El libro de Urantia_ y afirmó: «¡Esto tiene mucho sentido para mí y según la manera en la que pienso!» Antes de partir, se llevó algunos libros para compartir con amigos de mente abierta que ella creía que estarían interesados en conocer estas «nuevas verdades».
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Pato-Birmingham-2.jpg">
 </figure>
 
-_Para ilustrar estos acontecimientos inspiradores del Reino Unido, Alex H, de Alemania, y Anna Zeven, de los Países Bajos, escribieron unas crónicas sobre su experiencia iluminadora. Vean:_ [https://urantia-association.org/2017/resenas-de-asistentes-a-los-encuentros-urantia-en-el-reino-unido/?lang=es](https://urantia-association.org/2017/resenas-de-asistentes-a-los-encuentros-urantia-en-el-reino-unido/?lang=es)
+_Para ilustrar estos acontecimientos inspiradores del Reino Unido, Alex H, de Alemania, y Anna Zeven, de los Países Bajos, escribieron unas crónicas sobre su experiencia iluminadora. Vean:_ [https://urantia-association.org/2017/resenas-de-asistentes-a-los-encuentros-urantia-en-el-reino-unido/?lang=es](https://urantia-association.org/2017/resenas-de-asistentes-a-los-encuentros-urantia-en-el-reino-unido/?lang=es)
 
 ## Parte 3—Accra City Hotel, Ghana (África occidental)
 
@@ -109,7 +109,7 @@ Al tercer día, nos reunimos para estudiar en profundidad _El libro de Urantia_ 
 
 Se proporcionó alojamiento en el hotel para muchas personas que venían de fuera de Ghana y el hotel dio servicio de buffet todos los días para los asistentes, obsequio de la Asociación Urantia Internacional (¡gracias!).
 
-Para tener una reseña más detallada de este encuentro de Ghana, lean las reflexiones de Kwadjo Spiri (27/03/2017, ¡Misión cumplida!) aquí: [http://www.urantia.org/category/news-categories/gatherings](http://www.urantia.org/category/news-categories/gatherings)
+Para tener una reseña más detallada de este encuentro de Ghana, lean las reflexiones de Kwadjo Spiri (27/03/2017, ¡Misión cumplida!) aquí: [http://www.urantia.org/category/news-categories/gatherings](http://www.urantia.org/category/news-categories/gatherings)
 
 Lo más destacado de nuestro viaje a Ghana fue:
 
@@ -117,7 +117,7 @@ Lo más destacado de nuestro viaje a Ghana fue:
 
 2. La entrevista en el canal de televisión más popular, TV3 Network, donde promocionamos la razón de nuestro viaje a África y que fue retransmitido a otros seis países. Durante la entrevista, el presentador de TV hizo una presentación de la larga carrera de Pato y cantó una de sus canciones con él. Pato empleó también esta oportunidad para promover nuestros encuentros, algunas de las enseñanzas de _El libro de Urantia_ e incluso sostuvo su libro frente a la cámara.
 
-3. Un viaje revelador y desgarrador al pueblo y a las escuelas de Nima, la comunidad más pobre de Acra (Ghana). Estamos dedicados a proporcionar un pequeño apoyo para ayudar a mejorar las condiciones de algunos de los niños de allí.
+3. Un viaje revelador y desgarrador al pueblo y a las escuelas de Nima, la comunidad más pobre de Acra (Ghana). Estamos dedicados a proporcionar un pequeño apoyo para ayudar a mejorar las condiciones de algunos de los niños de allí.
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Pato-Ghana-2-706x291.jpg">
@@ -125,7 +125,7 @@ Lo más destacado de nuestro viaje a Ghana fue:
 
 ## Reflexiones finales:
 
-¡Se consiguen grandes cosas trabajando en equipo!
+¡Se consiguen grandes cosas trabajando en equipo!
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Pato-Ghana-3.jpg">

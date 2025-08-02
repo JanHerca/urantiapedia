@@ -39,41 +39,41 @@ Charaka the novice lived with his brethren in peace, and his senior, the venerab
 Charaka had learned many beautiful sentiments from the mouth of his teacher; some of them fascinated him by the melodious intonation of their rhythm, some by the philosophical depth of their meaning, some by their truth and lofty morality. How delighted was he with the lines;
 
 “Earnestness leads to the State Immortal
- Thoughtlessness is dreary Yama's portal.
- Those who earnest are will never die,
- While the thoughtless in death's clutches lie."[4](/en/book/Buddhism/Amitabha/Amitabha_16#an_4)
+ Thoughtlessness is dreary Yama's portal.
+ Those who earnest are will never die,
+ While the thoughtless in death's clutches lie."[4](/en/book/Buddhism/Amitabha/Amitabha_16#an_4)
 
 How powerfully was he affected by the following stanza:
 
 “With goodness meet an evil deed,
- With lovingkindness conquer wrath,
- With generosity quench greed,
- And lies, by walking in truth's path."[5](/en/book/Buddhism/Amitabha/Amitabha_16#an_5)
+ With lovingkindness conquer wrath,
+ With generosity quench greed,
+ And lies, by walking in truth's path."[5](/en/book/Buddhism/Amitabha/Amitabha_16#an_5)
 
 But sometimes he was startled and had difficulty in understanding the sense. He wanted peace, not tranquilisation; he wanted Nirvâna, its bliss, and its fulness, not extinction. And yet sometimes it seemed as if the absolute obliteration of his activity were expected of him:
 
 <span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 “Only if like a broken gong
- Thou utterest no sound:
- Then hast thou reached Nirvana,
- And the end of strife hast found."[6](/en/book/Buddhism/Amitabha/Amitabha_16#an_6)
+ Thou utterest no sound:
+ Then hast thou reached Nirvana,
+ And the end of strife hast found."[6](/en/book/Buddhism/Amitabha/Amitabha_16#an_6)
 
 Yet Charaka said to himself: “It is only the boisterous noise that must be suppressed, not work; only evil intention, not life itself; the weeds, not the wheat.” For it is said:
 
 “What should be done, ye do it,
- Nor let pass by the day:
- With vigor do your duty,
- And do it while you may."[7](/en/book/Buddhism/Amitabha/Amitabha_16#an_7)
+ Nor let pass by the day:
+ With vigor do your duty,
+ And do it while you may."[7](/en/book/Buddhism/Amitabha/Amitabha_16#an_7)
 
 Not life, but error and vice, must be attacked. Not existence is evil, but vanity, anger, and sloth:
 
 “As fields are damaged by a bane,
- So ’tis conceit destroys the vain.
- As palaces are burned by fire,
- The angry perish in their ire.
- And as strong iron is gnawed by rust,
- So fools are wrecked through sloth and lust."[8](/en/book/Buddhism/Amitabha/Amitabha_16#an_8)
+ So ’tis conceit destroys the vain.
+ As palaces are burned by fire,
+ The angry perish in their ire.
+ And as strong iron is gnawed by rust,
+ So fools are wrecked through sloth and lust."[8](/en/book/Buddhism/Amitabha/Amitabha_16#an_8)
 
 What ambition was beaming in the eyes of Charaka! The venerable Subhûti thought, there is but one danger for this noble novice: it is this, that the brethren may discover his brightness and spoil him by flattery. Instead <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> of freeing himself from the fetters of the world, he may be entangled in the meshes of a spiritual vanity, which, being more subtle, is more perilous than the lust of the world and of its possessions. Then he recited to Charaka the lines:
 

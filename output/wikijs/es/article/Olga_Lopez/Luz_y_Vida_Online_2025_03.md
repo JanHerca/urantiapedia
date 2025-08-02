@@ -175,7 +175,7 @@ A modo de agenda perpetua, en esta obra se nos ofrecen las 365 piezas o testimon
 
 **Jesús y la samaritana (Espacio «Luz y Vida» de Radio Urantia)**
 
-En este podcast el autor, Ernesto Veloso, lector cubano, reflexiona sobre este inspirador episodio de la vida de Jesús. El evangelio de Jesús, al no estar circunscrito a una época, país o raza determinada, tiene un valor cósmico y universalista que trasciende más allá de las fronteras de los estrechos dogmas teológicos. Dogmas que limitan no solo el desarrollo de la sociedad, sino también la evolución de la mente y de la propia religión. La conversación de Jesús con la mujer samaritana relatada en el Evangelio de San Juan es una muestra fehaciente de la universalidad de sus enseñanzas.
+En este podcast el autor, Ernesto Veloso, lector cubano, reflexiona sobre este inspirador episodio de la vida de Jesús. El evangelio de Jesús, al no estar circunscrito a una época, país o raza determinada, tiene un valor cósmico y universalista que trasciende más allá de las fronteras de los estrechos dogmas teológicos. Dogmas que limitan no solo el desarrollo de la sociedad, sino también la evolución de la mente y de la propia religión. La conversación de Jesús con la mujer samaritana relatada en el Evangelio de San Juan es una muestra fehaciente de la universalidad de sus enseñanzas.
 
 Esta narración es más que una simple conversación de un hombre y una mujer cualquiera. Es también el símbolo múltiple de varias facetas y aptitudes, reflejo de la sociedad de todos los tiempos, pequeñeces que nos impiden valorar con objetividad a nuestro prójimo, al punto de considerarlo indigno de nuestra consideración, y mucho menos de que reciba el mensaje de salvación.
 
@@ -341,7 +341,7 @@ https://youtu.be/FxXaVMNAxvM?si=_HdVtbyEaiIGY8rT
 <img src="/image/article/Luz_y_Vida/LyV_2025_03/UBIS-septiembre-2021.jpg" alt="UBIS septiembre 2021" width="250">
 </figure>
 
-¡El trimestre de abril de la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) está a punto de comenzar! El periodo de inscripción comienza el **lunes 21 de abril** y finaliza el **domingo 4 de mayo**. Los cursos comienzan el **lunes 28 de abril** con la semana de orientación.
+¡El trimestre de abril de la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) está a punto de comenzar! El periodo de inscripción comienza el **lunes 21 de abril** y finaliza el **domingo 4 de mayo**. Los cursos comienzan el **lunes 28 de abril** con la semana de orientación.
 
 Estos son los cursos que se ofrecerán este trimestre. Todos son de **6 semanas** de duración:
 

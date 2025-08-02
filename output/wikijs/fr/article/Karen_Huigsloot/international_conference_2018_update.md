@@ -52,7 +52,7 @@ Comment Jésus s’est-il développé en tant que véritable enseignant ? Quelle
 
 Le programme fournira un espace pour sept orateurs pléniers, lecteurs du _Livre d’Urantia_ qui ont étudié le livre pendant de nombreuses années et qui peuvent nous aider à mieux comprendre cette Cinquième Révélation. L’accent du programme sera basé sur l’apprentissage par l’expérience et les échanges en petits groupes.
 
-La langue utilisée pendant le congrès sera l’anglais, mais nous offrons des traductions en simultané pour l’espagnol (par Serapis Murillo) et en français (par Christopher Moseley).
+La langue utilisée pendant le congrès sera l’anglais, mais nous offrons des traductions en simultané pour l’espagnol (par Serapis Murillo) et en français (par Christopher Moseley).
 
 Au cours des prochains mois, le programme sera développé et nous vous tiendrons au courant sur ce site Web.
 

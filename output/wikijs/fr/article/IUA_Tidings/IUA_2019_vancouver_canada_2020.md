@@ -43,20 +43,20 @@ dateCreated: 2023-9-16T10:55:6Z
 
 L’objectif primordial de l’_Urantia Global Experience_ est l’unité spirituelle, une unité inspirée par un motif commun de faire la volonté de Dieu, et par l’acceptation que chacun de nous est habité par le don spirituel de Dieu.
 
-Plus spécifiquement, nous aspirons à l’unité spirituelle dans le but d’apporter des changements positifs dans l’évolution de la civilisation sur notre planète. En unisson, nous gagnons en force et ceci nous permet de nous soulever collectivement dans cette grande tâche de faire de ces changements progressifs une réalité. Et pendant que nous nous levons ensemble pour élever notre monde un peu plus près d’un âge de lumière et de vie, nous  nous engageons à servir humblement Dieu le Suprême.
+Plus spécifiquement, nous aspirons à l’unité spirituelle dans le but d’apporter des changements positifs dans l’évolution de la civilisation sur notre planète. En unisson, nous gagnons en force et ceci nous permet de nous soulever collectivement dans cette grande tâche de faire de ces changements progressifs une réalité. Et pendant que nous nous levons ensemble pour élever notre monde un peu plus près d’un âge de lumière et de vie, nous  nous engageons à servir humblement Dieu le Suprême.
 
-Alors que nous partageons notre compréhension sur le destin et  l’espoir, nous reconnaissons également que notre unité spirituelle est construite sur le fondement d’un  libre arbitre et d’une originalité d’esprit. Comme dit Jésus,
+Alors que nous partageons notre compréhension sur le destin et l’espoir, nous reconnaissons également que notre unité spirituelle est construite sur le fondement d’un libre arbitre et d’une originalité d’esprit. Comme dit Jésus,
 <br style="clear:both;"/>
 
 > «Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblable.» <a id="a50_148"></a>[[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)]
 
-La révélation d’Urantia, la prière et l’adoration nous procurent notre inspiration et la direction à suivre pendant que nous travaillons  pleinement en coopération avec les anges du progrès afin de créer un environnement favorable pour l’individu et pour la participation en groupe.
+La révélation d’Urantia, la prière et l’adoration nous procurent notre inspiration et la direction à suivre pendant que nous travaillons  pleinement en coopération avec les anges du progrès afin de créer un environnement favorable pour l’individu et pour la participation en groupe.
 
 [Visit the Website](https://urantiaglobalexperience.com/)
 
-Nous souhaitons que  l’_Urantia Global Experience_ rassemble des penseurs libres et originaux,  consacrés à faire les volontés de Dieu et à servir les autres. Notre objectif est de promouvoir une civilisation progressive en formulant des méthodes efficaces pour améliorer les institutions et les pratiques sur notre planète. À cette fin, les participants auront l’occasion de travailler ensemble dans des groupes de focalisation et des équipes de visionnaires.
+Nous souhaitons que  l’_Urantia Global Experience_ rassemble des penseurs libres et originaux,  consacrés à faire les volontés de Dieu et à servir les autres. Notre objectif est de promouvoir une civilisation progressive en formulant des méthodes efficaces pour améliorer les institutions et les pratiques sur notre planète. À cette fin, les participants auront l’occasion de travailler ensemble dans des groupes de focalisation et des équipes de visionnaires.
 
-###  Groupes de focalisation – Penser à l’intérieur des cercles
+###  Groupes de focalisation – Penser à l’intérieur des cercles
 
 Les participants aux groupes de focalisation concentrent leurs discussions sur les douze points décrits dans _Le Livre d’Urantia_ sous «civilisation progressive» <a id="a60_162"></a>[[LU 71:4](/fr/The_Urantia_Book/71#p4)]. Le but des rencontres des groupes de focalisation est de s’unifier dans leur objectif et, grâce au travail d’équipe, de parvenir à une plus grande compréhension ainsi que l’actualisation de Dieu le Suprême. Les groupes de focalisation cherchent à établir une base de valeurs plus élevées sur lesquelles bâtir des visions pour un environnement social progressiste.
 

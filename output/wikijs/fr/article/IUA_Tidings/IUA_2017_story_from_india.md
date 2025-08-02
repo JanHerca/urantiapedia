@@ -40,7 +40,7 @@ Un porteur d’eau en Inde avait deux grands pots, chacun pendait à chaque extr
 
 Après deux ans de ce qu’il percevait comme un échec amer, un jour près du ruisseau, il a parlé au porteur d’eau. « J’ai honte de moi-même, et je veux m’excuser auprès de toi. » « Pourquoi ? » Demanda le porteur. « De quoi as-tu honte ? » « Je n’ai pu, pendant ces deux dernières années, livrer seulement la moitié de ma charge parce que cette fissure sur mon côté laisse fuir l’eau jusqu’à la maison de ton maître. En raison de mes défauts, tu dois faire tout ce travail, et tu ne bénéficies pas de tes efforts », a déclaré le pot.
 
-Le porteur d’eau fut désolé pour le vieux pot fissuré, et dans sa compassion, il dit : « En rentrant chez le maître, je veux que tu remarques les belles fleurs sur le côté du sentier. »
+Le porteur d’eau fut désolé pour le vieux pot fissuré, et dans sa compassion, il dit : « En rentrant chez le maître, je veux que tu remarques les belles fleurs sur le côté du sentier. »
 
 Et, alors qu’ils montaient la colline, le vieux pot fissuré s’émerveilla du soleil qui chauffait les belles fleurs sauvages sur le côté du sentier, et cela lui plut. Mais au bout de la piste, il se sentait toujours mal, car il avait laissé fuir la moitié de sa charge, et encore, il s’excusa au porteur pour son échec.
 
@@ -48,7 +48,7 @@ Et, alors qu’ils montaient la colline, le vieux pot fissuré s’émerveilla d
 <img src="/image/article/IUA_Tidings/Water-Bearer-India-Story2-300x188.jpg">
 </figure>
 
-Le porteur dit au pot : « As-tu remarqué qu’il y avait des fleurs que de ton côté du sentier, mais pas du côté de l’autre pot ?  C’est que j’ai toujours su au sujet de ton défaut, et j’ai su en tirer profit. J’ai planté des graines de fleurs de ton côté du sentier, et tous les jours, alors que nous retournons du ruisseau, tu les as arrosées. Pendant deux ans, j’ai pu choisir ces belles fleurs pour décorer la table de mon maître. Sans toi, il n’y aurait pas eu cette beauté pour rendre hommage à sa maison.
+Le porteur dit au pot : « As-tu remarqué qu’il y avait des fleurs que de ton côté du sentier, mais pas du côté de l’autre pot ? C’est que j’ai toujours su au sujet de ton défaut, et j’ai su en tirer profit. J’ai planté des graines de fleurs de ton côté du sentier, et tous les jours, alors que nous retournons du ruisseau, tu les as arrosées. Pendant deux ans, j’ai pu choisir ces belles fleurs pour décorer la table de mon maître. Sans toi, il n’y aurait pas eu cette beauté pour rendre hommage à sa maison.
 
 Chacun d’entre nous a ses propres défauts. Nous sommes tous des pots fissurés. Mais si nous l’autorisons, le Seigneur utilisera nos faiblesses pour décorer la table de son Père. Dans la grande économie de Dieu, rien ne se perd.
 

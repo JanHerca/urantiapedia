@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Lessons-Image-300x213.jpg">
 </figure>
 
-Le mot clé est **pourquoi ?** Pouvons-nous aborder sa profondeur ? Voici quelques réflexions :
+Le mot clé est **pourquoi ?** Pouvons-nous aborder sa profondeur ? Voici quelques réflexions :
 
 Parce que nous recherchons la clarté de nos objectifs de vie en harmonie avec les plans divins.
 

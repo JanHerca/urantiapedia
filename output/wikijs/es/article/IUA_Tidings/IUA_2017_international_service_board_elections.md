@@ -36,12 +36,12 @@ El Consejo de Representantes de la Asociación celebró elecciones en enero de e
 
 - _Presidente:_ Chris Wood (reelegido)
 - _Tesorero__:_ Bradly Tharp (reelegido)
-- _Presidente de Miembros:_  Luis García- Bory (sustituye a Anton Miroshnichenko)
+- _Presidente de Miembros:_ Luis García- Bory (sustituye a Anton Miroshnichenko)
 - _Presidente de Conferencias:_ Antonio Schefer (reelegido)
 - _Presidenta de Educación:_ Jeannie Vázquez (sustituye a Sheila Keene-Lund)
 - _Translation Chair:_ Gabriel Rymberg (sustituye a Chris Moseley)
 
-Los miembros de la JIS recién elegidos asumirán sus cargos a partir del 1 de abril de 2017.
+Los miembros de la JIS recién elegidos asumirán sus cargos a partir del 1 de abril de 2017.
 
 Además de las elecciones de la JIS, Travis Binion fue reelegido como presidente de la Comisión Judicial. El 18 de diciembre de 2016, el CR confirmó a Joyce Anderson para ocupar la tercera vacante de esta comisión, y se une a Travis y a Benet Rutenberg.
 

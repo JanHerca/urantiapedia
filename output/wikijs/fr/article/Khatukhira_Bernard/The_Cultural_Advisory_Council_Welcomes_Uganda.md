@@ -38,11 +38,11 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2024_03/Khatukhira-Bernard-350x417.jpg">
 </figure>
 
-_Par Khatukhira « Khat » Bernard, Kampala, Ouganda_
+_Par Khatukhira « Khat » Bernard, Kampala, Ouganda_
 
-_(Note de l'éditeur : Khat vit et travaille en Ouganda comme architecte et analyste financier. Il a découvert Le Livre d'Urantia en 1997, a été enseignant-animateur à l'École Internationale du Livre d'Urantia (UBIS) depuis 2015, et a assisté et fait des présentations à de nombreuses conférences Urantia. Ce travail l'a inspiré à initier un groupe d'étude appelé Citoyens Cosmiques en Ouganda. Khat croit que le service est l'un des plus grands cadeaux que nous puissions offrir à nos compagnons de séjour)._
+_(Note de l'éditeur : Khat vit et travaille en Ouganda comme architecte et analyste financier. Il a découvert Le Livre d'Urantia en 1997, a été enseignant-animateur à l'École Internationale du Livre d'Urantia (UBIS) depuis 2015, et a assisté et fait des présentations à de nombreuses conférences Urantia. Ce travail l'a inspiré à initier un groupe d'étude appelé Citoyens Cosmiques en Ouganda. Khat croit que le service est l'un des plus grands cadeaux que nous puissions offrir à nos compagnons de séjour)._
 
-Pendant de nombreuses années, j'ai entretenu une relation virtuelle avec la Fondation Urantia en suivant et en animant des cours UBIS. Cette relation est devenue plus personnelle, réciproque et durable en avril 2019 lorsque j'ai été invitée à participer à leur Symposium Culturel Mondial. On avait demandé aux participants de faire une présentation sur leur pays d'origine, et j'ai passé de nombreux mois à faire des recherches sur les aspects de la vie en Ouganda — sa culture, ses traditions, sa religion institutionnelle, sa politique, ses attitudes personnelles et même ses niveaux de lecture. Si vous souhaitez regarder une vidéo de ma présentation, cliquez ici :
+Pendant de nombreuses années, j'ai entretenu une relation virtuelle avec la Fondation Urantia en suivant et en animant des cours UBIS. Cette relation est devenue plus personnelle, réciproque et durable en avril 2019 lorsque j'ai été invitée à participer à leur Symposium Culturel Mondial. On avait demandé aux participants de faire une présentation sur leur pays d'origine, et j'ai passé de nombreux mois à faire des recherches sur les aspects de la vie en Ouganda — sa culture, ses traditions, sa religion institutionnelle, sa politique, ses attitudes personnelles et même ses niveaux de lecture. Si vous souhaitez regarder une vidéo de ma présentation, cliquez ici :
 
 https://www.youtube.com/watch?v=f2qIaqEfNf4
 
@@ -71,9 +71,9 @@ D'un point de vue pratique, les Ougandais ont une très mauvaise culture de la l
 <img src="/image/article/UF_News_Online/2024_03/000298.jpg">
 </figure>
 
-Que pouvons-nous faire pour semer _Le Livre d'Urantia_ en Ouganda ? Nous devons démontrer la légitimité de la Fondation Urantia, en cultivant une prise de conscience de son but, de ses fonctions et de ses objectifs. Des séminaires publics, des conférences et des ateliers aideront à établir la crédibilité. Des exemplaires du _Livre d'Urantia_ et du matériel de lecture connexe seront nécessaires. Des groupes d'étude locaux comme Citoyens Cosmiques en Ouganda doivent être formés et une correspondance régulière entre eux doit être encouragée. Ces groupes auront besoin de mentors. Des projets communautaires pourraient être soutenus et gérés par des amis lecteurs du monde entier. Et, bien sûr, les projets actuels comme la dissémination du _Livre d'Urantia_ doivent continuer.
+Que pouvons-nous faire pour semer _Le Livre d'Urantia_ en Ouganda ? Nous devons démontrer la légitimité de la Fondation Urantia, en cultivant une prise de conscience de son but, de ses fonctions et de ses objectifs. Des séminaires publics, des conférences et des ateliers aideront à établir la crédibilité. Des exemplaires du _Livre d'Urantia_ et du matériel de lecture connexe seront nécessaires. Des groupes d'étude locaux comme Citoyens Cosmiques en Ouganda doivent être formés et une correspondance régulière entre eux doit être encouragée. Ces groupes auront besoin de mentors. Des projets communautaires pourraient être soutenus et gérés par des amis lecteurs du monde entier. Et, bien sûr, les projets actuels comme la dissémination du _Livre d'Urantia_ doivent continuer.
 
-En août 2022, la Fondation Urantia, l'Association et la Fellowship ont co-parrainé une conférence à Jinja City, à la source du Nil Blanc (l'un des deux principaux affluents du Nil) près de la rive nord du lac Victoria. Ce n'est que le début. Un jour prochain, _Le Livre d'Urantia_ sera un texte familier en Ouganda !
+En août 2022, la Fondation Urantia, l'Association et la Fellowship ont co-parrainé une conférence à Jinja City, à la source du Nil Blanc (l'un des deux principaux affluents du Nil) près de la rive nord du lac Victoria. Ce n'est que le début. Un jour prochain, _Le Livre d'Urantia_ sera un texte familier en Ouganda !
 
 <br style="clear:both;"/>
 

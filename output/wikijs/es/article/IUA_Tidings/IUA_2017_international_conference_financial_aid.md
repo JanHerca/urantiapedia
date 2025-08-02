@@ -53,7 +53,7 @@ Cuatro meses antes del evento, ofreceremos todas las becas que queden a miembros
 
 El Comité de Ayuda Económica ha decidido también dar preferencia a estudiantes y líderes de _El libro de Urantia_ que no hayan recibido ayuda económica con anterioridad. Se estudiarán todas las solicitudes, incluidas las de aquellos que han recibido ayuda en el pasado, así que tienen total libertad para hacer una petición, pues se revisará.
 
-Si están dispuestos, contribuyan a nuestro Fondo de Ayuda Económica para la Conferencia visitando [https://urantia-association.org/get-involved/donate/](https://urantia-association.org/get-involved/donate/).
+Si están dispuestos, contribuyan a nuestro Fondo de Ayuda Económica para la Conferencia visitando [https://urantia-association.org/get-involved/donate/](https://urantia-association.org/get-involved/donate/).
 
 **Gastos incluidos:**
 
@@ -69,15 +69,15 @@ El Comité de Ayuda Económica para la Conferencia de la Asociación Urantia Int
 
 Nota: La tarifa de la conferencia NO incluye gastos de viaje, hotel, desayuno ni alojamiento.
 
-Hagan clic [aquí](https://urantia-association.org/wp-content/uploads/2017/11/2018-Policy-for-Granting-of-UAI-Conference-Financial-Aid.pdf) para leer la política de concesión de ayuda económica para asistir a la conferencia de 2018.
+Hagan clic [aquí](https://urantia-association.org/wp-content/uploads/2017/11/2018-Policy-for-Granting-of-UAI-Conference-Financial-Aid.pdf) para leer la política de concesión de ayuda económica para asistir a la conferencia de 2018.
 
 Si necesitan ayuda económica que cubra transporte y gastos de alojamiento, les sugerimos que lo soliciten desde su asociación, para que ellos puedan hacer una campaña de recaudación de fondos para ustedes.
 
 **Procedimiento de solicitud:**
 
-Para solicitar ayuda económica, envíen su petición a Antonio Schefer (presidente de Conferencias de la JIS), [conferences@urantia-association.org](mailto:conferences@urantia-association.org) o a Hanno van der Plas (presidente del Subcomité de Ayuda Económica), [hanno@urantia.nl](mailto:hanno@urantia.nl), y recibirán el enlace para acceder al formulario electrónico de solicitud. Para obtener más información, hagan clic [aquí](https://urantia-association.org/wp-content/uploads/2017/11/Application-Form-to-receive-2018-UAI-Conference-Financial-Aid.pdf) para acceder al formulario de solicitud (Nota: no se puede rellenar en línea sin recibir un enlace de inscripción vía correo electrónico de Hanno van der Plas o de Antonio Schefer).
+Para solicitar ayuda económica, envíen su petición a Antonio Schefer (presidente de Conferencias de la JIS), [conferences@urantia-association.org](mailto:conferences@urantia-association.org) o a Hanno van der Plas (presidente del Subcomité de Ayuda Económica), [hanno@urantia.nl](mailto:hanno@urantia.nl), y recibirán el enlace para acceder al formulario electrónico de solicitud. Para obtener más información, hagan clic [aquí](https://urantia-association.org/wp-content/uploads/2017/11/Application-Form-to-receive-2018-UAI-Conference-Financial-Aid.pdf) para acceder al formulario de solicitud (Nota: no se puede rellenar en línea sin recibir un enlace de inscripción vía correo electrónico de Hanno van der Plas o de Antonio Schefer).
 
-Antes de comprometerse con los gastos personales de este evento, asegúrense de que reciben un correo de confirmación del Subcomité de Ayuda Económica para la Conferencia de la Asociación Urantia Internacional 2018 en el que se especifica la ayuda económica que se proporcionará y que incluye cómo y cuándo se dará. Si no han recibido el correo de aprobación, significa que todavía no les hemos concedido ayuda económica para asistir a la conferencia.
+Antes de comprometerse con los gastos personales de este evento, asegúrense de que reciben un correo de confirmación del Subcomité de Ayuda Económica para la Conferencia de la Asociación Urantia Internacional 2018 en el que se especifica la ayuda económica que se proporcionará y que incluye cómo y cuándo se dará. Si no han recibido el correo de aprobación, significa que todavía no les hemos concedido ayuda económica para asistir a la conferencia.
 
 Si no cumplen las condiciones de la ayuda económica, recibirán una carta de notificación para que puedan hacer otros planes con el fin de asistir a nuestro evento de 2018.
 

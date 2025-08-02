@@ -75,7 +75,7 @@ Voici quelques mots de David à propos de PIRT, tirés d’un article d’un Tid
 
 _C’est ce service que PIRT s’efforce d’encourager et de poursuivre, afin de servir ceux qui sont assis dans les ténèbres et de leur offrir les vérités salvatrices de la cinquième révélation d’époque. Jésus a été catégorique sur le fait qu’il était ici pour rechercher les pécheurs, la pièce perdue, pour accueillir le retour du fils prodigue et sauver la brebis perdue._
 
-> « _Jésus avait une grande prédilection pour raconter ces trois histoires à la suite. Il présentait l’histoire de la brebis perdue pour montrer que, si les hommes s’écartent involontairement du sentier de la vie, le Père se soucie de ces enfants perdus et sort avec ses Fils, les vrais bergers du troupeau, pour rechercher la brebis égarée. Il racontait ensuite l’histoire de la pièce d’argent perdue dans la maison, pour illustrer la minutie de la recherche divine de tous ceux qui sont troublés, déconcertés, ou autrement aveuglés spirituellement par les soucis matériels et la masse des détails de la vie. Ensuite, Jésus se lançait dans la narration de la parabole du fils perdu, de l’accueil du prodigue à son retour, pour montrer combien est complète la réintégration du fils perdu dans la maison et le cœur de son Père._ » <a id="a77_830"></a>[[LU 169:1.15](/fr/The_Urantia_Book/169#p1_15)]
+> « _Jésus avait une grande prédilection pour raconter ces trois histoires à la suite. Il présentait l’histoire de la brebis perdue pour montrer que, si les hommes s’écartent involontairement du sentier de la vie, le Père se soucie de ces enfants perdus et sort avec ses Fils, les vrais bergers du troupeau, pour rechercher la brebis égarée. Il racontait ensuite l’histoire de la pièce d’argent perdue dans la maison, pour illustrer la minutie de la recherche divine de tous ceux qui sont troublés, déconcertés, ou autrement aveuglés spirituellement par les soucis matériels et la masse des détails de la vie. Ensuite, Jésus se lançait dans la narration de la parabole du fils perdu, de l’accueil du prodigue à son retour, pour montrer combien est complète la réintégration du fils perdu dans la maison et le cœur de son Père._ » <a id="a77_830"></a>[[LU 169:1.15](/fr/The_Urantia_Book/169#p1_15)]
 
 **Commentaires d’autres étudiants du Livre d’Urantia :**
 
@@ -87,7 +87,7 @@ _Je suis désolée pour David, mais je suis heureuse que son avenir éternel soi
 
 ---
 
-_Il y a un peu plus de 4 mois, David a fait part de sa maladie au Prisoner Inquiry Response Team._ _Je suis reconnaissante pour le temps que nous avons eu avant son décès de lui exprimer notre sincère appréciation. On se souviendra bien de lui sur Urantia et lorsqu’on le rencontrera en haut lieu, on lui dira sans doute « bien fait, bon et fidèle serviteur ». Il a bien servi la révélation et a été un exemple splendide que d’être en partenariat avec Dieu. Tu es aimé et tu nous manqueras beaucoup, David !_ – Jeanette Schafer.
+_Il y a un peu plus de 4 mois, David a fait part de sa maladie au Prisoner Inquiry Response Team._ _Je suis reconnaissante pour le temps que nous avons eu avant son décès de lui exprimer notre sincère appréciation. On se souviendra bien de lui sur Urantia et lorsqu’on le rencontrera en haut lieu, on lui dira sans doute « bien fait, bon et fidèle serviteur ». Il a bien servi la révélation et a été un exemple splendide que d’être en partenariat avec Dieu. Tu es aimé et tu nous manqueras beaucoup, David !_ – Jeanette Schafer.
 
 ---
 
@@ -119,7 +119,7 @@ _Au nom de tous ceux qui ont servi avec toi, David, je te remercie. Cela a été
 
 ---
 
-_Une lumière splendide nous a quittés – et maintenant cette lumière continue son voyage vers le Paradis.  Et bien que mon cœur soit brisé, les souvenirs de David sont précieux et seront portés par chacun d’entre nous pour toujours._ – Margaret Slater-Thompson
+_Une lumière splendide nous a quittés – et maintenant cette lumière continue son voyage vers le Paradis. Et bien que mon cœur soit brisé, les souvenirs de David sont précieux et seront portés par chacun d’entre nous pour toujours._ – Margaret Slater-Thompson
 
 ---
 

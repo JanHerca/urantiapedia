@@ -82,7 +82,7 @@ Sixièmement, _Le Livre d’Urantia_ m’a permis de mieux choisir le genre de v
 
 Et septièmement, il m’a été d’une valeur inestimable dans mes efforts imparfaits pour essayer d’être un meilleur fils, frère, mari, père et ami.
 
-##  5. Votre foi a-t-elle changé après l’avoir lu ? Si oui, de quelle manière ?
+##  5. Votre foi a-t-elle changé après l’avoir lu ? Si oui, de quelle manière ?
 
 Comme le dit le livre lui-même : «  Dans sa véritable essence, la religion est une foi confiante dans la bonté de Dieu.  » <a id="a86_123"></a>[LU 2:6.1](/fr/The_Urantia_Book/2#p6_1) «  Pendant longtemps, vous devrez pratiquer la foi et dépendre de la révélation si vous espérez progresser rapidement et en toute sécurité.  » <a id="a86_306"></a>[LU 19:5.12](/fr/The_Urantia_Book/19#p5_12)
 

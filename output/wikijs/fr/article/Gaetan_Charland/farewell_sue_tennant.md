@@ -47,7 +47,7 @@ Elle a consacré une bonne partie de sa vie à promouvoir l’unité dans le mou
 
 Sue a acquis de nombreuses compétences au cours de sa vie qui lui ont permis de bien servir ses compagnons, hommes et femmes. Elle aimait et était inspirée en tout ce qu’elle accomplissait. Elle a été mariée pendant près de 50 ans, était une mère dévouée, ministre interconfessionnelle, philanthrope, passionnée de cuisine, de vin et faisait de la randonnée de montagne.
 
-L’héritage du service affectueux de Sue en tant que fondatrice de Free Schools World Literacy, se perpétue dans son travail crucial, où des milliers de jeunes filles du Bihar, en Inde, ont appris à lire pour aussi peu que 15 dollars par an. Free Schools est également devenu un organisme de bienfaisance enregistré au Canada, aux États-Unis et en Australie.
+L’héritage du service affectueux de Sue en tant que fondatrice de Free Schools World Literacy, se perpétue dans son travail crucial, où des milliers de jeunes filles du Bihar, en Inde, ont appris à lire pour aussi peu que 15 dollars par an. Free Schools est également devenu un organisme de bienfaisance enregistré au Canada, aux États-Unis et en Australie.
 
 Sue était une véritable expression d’amour et de foi à travers le service aux autres. Elle nous manquera beaucoup. Adieu à notre chère amie Susan, jusqu’à ce que nous nous revoyions…
 

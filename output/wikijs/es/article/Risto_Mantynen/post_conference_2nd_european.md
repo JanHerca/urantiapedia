@@ -105,7 +105,7 @@ Tallink                                         [https://www.tallinksilja.com/bo
 
 ## Cómo inscribirse
 
-Para inscribirse en el paquete del crucero posconferencia con alojamiento, comidas y otros extras, necesitan enviar un correo a Risto Mäntynen a [risto.mantynen@gmail.com](mailto:risto.mantynen@gmail.com) y seguir las «Instrucciones adicionales para inscribirse» que hay a continuación. Si dejan clara sus preferencias podemos calcular el precio para ustedes según corresponda y confirmar su inscripción dándoles el precio total. Asegúrense de indicar también en ese correo sus opciones de pago preferidas.
+Para inscribirse en el paquete del crucero posconferencia con alojamiento, comidas y otros extras, necesitan enviar un correo a Risto Mäntynen a [risto.mantynen@gmail.com](mailto:risto.mantynen@gmail.com) y seguir las «Instrucciones adicionales para inscribirse» que hay a continuación. Si dejan clara sus preferencias podemos calcular el precio para ustedes según corresponda y confirmar su inscripción dándoles el precio total. Asegúrense de indicar también en ese correo sus opciones de pago preferidas.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/S1704-14-Megastar-706x576.jpg">
@@ -117,7 +117,7 @@ Para inscribirse en el paquete del crucero posconferencia con alojamiento, comid
 
 - Clase B2V para dos personas, literas: 67,50 € por persona
 - Clase B2 para dos personas, dos camas, 80,00 € por persona
-- Clase A2  para dos personas, dos camas, con vistas al mar: € 103,50 € por persona
+- Clase A2 para dos personas, dos camas, con vistas al mar: € 103,50 € por persona
 
 Si quieren un camarote para ustedes solos tienen que pagar el doble del precio.
 

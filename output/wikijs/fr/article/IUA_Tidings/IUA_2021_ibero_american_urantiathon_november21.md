@@ -43,7 +43,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 L’Urantiathon ibéro-américain organisé par l’Association Urantia Internationale et commandité par La Fondation Urantia les 20 et 21 novembre 2021, a été une belle vitrine d’étude et de discernement, avec des présentations offertes par seize étudiants du Livre d’Urantia de tous âges provenant de nombreux pays ibéro-américains, en Espagnol et en Portugais avec des traductions simultanées en Espagnol, Portugais et Anglais.
 
-Le thème de cet Urantiathon était « Leadership et Spiritualité », offrant un large éventail de points de vue intéressants sur les défis du leadership dans le mouvement Urantia, le service, la spiritualité, la réalité de l’expérience religieuse, le leadership dans la vie quotidienne, et plus encore.
+Le thème de cet Urantiathon était « Leadership et Spiritualité », offrant un large éventail de points de vue intéressants sur les défis du leadership dans le mouvement Urantia, le service, la spiritualité, la réalité de l’expérience religieuse, le leadership dans la vie quotidienne, et plus encore.
 
 Nous vous présentons ci-dessous les perles de réflexion partagées par certains intervenants:
 
@@ -86,7 +86,7 @@ Le premier aspect fait référence au changement de nos habitudes de vie lorsque
 
 Le deuxième aspect concerne le service aimant et désintéressé consistant à proclamer et à enseigner la vérité à nos frères et sœurs qui ne la connaissent pas encore ou ne comprennent pas sa voie, car la naïveté à l’égard de l’erreur et du péché peut être un chemin menant à une attitude impie et à la mort spirituelle.
 
-Le troisième aspect est la fidélité sans restriction au plan de Dieu, au gouvernement de notre Père et Maître Micaël, et au projet de développement humain.   Ce n’est qu’ainsi que la bonne nouvelle peut prendre vie et gagner en force pour promouvoir le salut annoncé par les révélateurs.
+Le troisième aspect est la fidélité sans restriction au plan de Dieu, au gouvernement de notre Père et Maître Micaël, et au projet de développement humain.  Ce n’est qu’ainsi que la bonne nouvelle peut prendre vie et gagner en force pour promouvoir le salut annoncé par les révélateurs.
 
 ### Réalités du leadership et de la spiritualité
 
@@ -102,9 +102,9 @@ La spiritualité est le fruit de la religion, le produit de l’approche réelle
 
 _Par Isabel Reinoso (Colombie)_
 
-Le leadership est une influence exercée sur des personnes qui les incite à travailler avec enthousiasme à la réalisation d’un objectif commun.   Les personnes qui exercent un leadership sont connues sous le nom de leaders. Il existe des leaders qualifiés qui sont formés en tant que tels. Les véritables leaders informels, quant à eux, émergent naturellement ou spontanément au sein d’un groupe.
+Le leadership est une influence exercée sur des personnes qui les incite à travailler avec enthousiasme à la réalisation d’un objectif commun.  Les personnes qui exercent un leadership sont connues sous le nom de leaders. Il existe des leaders qualifiés qui sont formés en tant que tels. Les véritables leaders informels, quant à eux, émergent naturellement ou spontanément au sein d’un groupe.
 
-Le leadership spirituel s’exprime par ses qualités remarquables :   – La présence d’objectifs vitaux définis. – Des convictions morales profondément ancrées. – Des capacités intellectuelles élevées. – Des compétences interpersonnelles. – Une orientation particulière vers le développement des valeurs chez les autres. – La corrélation entre les pratiques spirituelles et un leadership efficace.
+Le leadership spirituel s’exprime par ses qualités remarquables :  – La présence d’objectifs vitaux définis. – Des convictions morales profondément ancrées. – Des capacités intellectuelles élevées. – Des compétences interpersonnelles. – Une orientation particulière vers le développement des valeurs chez les autres. – La corrélation entre les pratiques spirituelles et un leadership efficace.
 Le leadership joue un rôle crucial dans la promotion du bien-être et de la santé organisationnels et professionnels, tant au niveau individuel que collectif (Peiró et Rodríguez, 2008).
 
 Voyons ce que _Le Livre d’Urantia_ nous enseigne à cet égard :
@@ -198,7 +198,7 @@ J’invite les jeunes à étudier ces enseignements et à donner à Dieu le temp
 
 _Par Jeannie Vázquez (Uruguay)_
 
-Pourquoi a-t-on besoin de meneurs et d’instructeurs des enseignements du Livre d’Urantia ?   Parce que les meneurs et les instructeurs sont vitaux pour le développement efficace de la révélation ; ils sont nécessaires pour aider les étudiants sincères du Livre d’Urantia à connaître, comprendre et vivre les enseignements afin que les fruits abondants de l’esprit puissent se manifestés dans leurs vies. Il est nécessaire de favoriser la croissance de la fraternité spirituelle du royaume des cieux – l’ensemble des individus nés de l’Esprit qui ont choisi de faire de tout cœur la volonté du Père et, par une conscience éclairée et une spiritualité illuminée, de contribuer à une réorganisation sociale, morale, économique et politique du monde.
+Pourquoi a-t-on besoin de meneurs et d’instructeurs des enseignements du Livre d’Urantia ?  Parce que les meneurs et les instructeurs sont vitaux pour le développement efficace de la révélation ; ils sont nécessaires pour aider les étudiants sincères du Livre d’Urantia à connaître, comprendre et vivre les enseignements afin que les fruits abondants de l’esprit puissent se manifestés dans leurs vies. Il est nécessaire de favoriser la croissance de la fraternité spirituelle du royaume des cieux – l’ensemble des individus nés de l’Esprit qui ont choisi de faire de tout cœur la volonté du Père et, par une conscience éclairée et une spiritualité illuminée, de contribuer à une réorganisation sociale, morale, économique et politique du monde.
 
 L’ordre, le plan et les méthodes de progrès recommandés dans le mandat de publication sont les suivants :
 
@@ -206,11 +206,11 @@ L’ordre, le plan et les méthodes de progrès recommandés dans le mandat de p
 
 2\. Se consacrer à servir, individuellement et en groupe, avec un véritable altruisme et une sagesse croissante, en utilisant les méthodes et procédures d’organisation de Jésus, en finançant les activités par des dons de personnes sympathisantes du mouvement, en donnant libre accès aux lieux où les enseignements sont partagés, en enseignant la vérité avec une puissance et une sagesse spirituelles comme notre maître d’autrefois l’a déclaré : « _Non seulement en paroles, mais aussi en puissance et dans le Saint-Esprit._ » <a id="a206_526"></a>[[LU 34:6.6](/fr/The_Urantia_Book/34#p6_6)].
 
-Après la Pentecôte, nous pouvons dire: « Non seulement en paroles, mais aussi en puissance et en Esprit de Vérité », car Jésus a dit : « … _cet Esprit de Vérité deviendra le point d’appui qui multipliera votre pouvoir.»_ <a id="a208_221"></a>[[LU 178:1.6](/fr/The_Urantia_Book/178#p1_6)]. Il s’agit de la puissance spirituelle permettant d’accomplir un travail spirituel, de faire le bien, de servir avec amour, de vivre en faisant la volonté du Père, de l’honorer et de le glorifier, et d’aimer nos frères. Nous devons également prêter attention aux méthodes didactiques de Jésus et à sa connaissance vivante de la vérité divine.  
+Après la Pentecôte, nous pouvons dire: « Non seulement en paroles, mais aussi en puissance et en Esprit de Vérité », car Jésus a dit : « … _cet Esprit de Vérité deviendra le point d’appui qui multipliera votre pouvoir.»_ <a id="a208_221"></a>[[LU 178:1.6](/fr/The_Urantia_Book/178#p1_6)]. Il s’agit de la puissance spirituelle permettant d’accomplir un travail spirituel, de faire le bien, de servir avec amour, de vivre en faisant la volonté du Père, de l’honorer et de le glorifier, et d’aimer nos frères. Nous devons également prêter attention aux méthodes didactiques de Jésus et à sa connaissance vivante de la vérité divine.  
 
 > Cette nuit-là, au moment où ses auditeurs allai_e_nt se reposer, Jésus leur dit _: Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez._ <a id="a210_315"></a>[[LU 176:3.10](/fr/The_Urantia_Book/176#p3_10)]
 
-Lorsque nous donnons la vérité du Père de cette manière, il y a une multiplication de sa lumière croissante de la grâce salvatrice lorsque nous la dispensons.   Pour contribuer à l’expansion de la révélation de la manière la plus efficace, la vérité divine et vivante doit être partagée comme Jésus l’a fait, avec amour, sagesse, puissance spirituelle, librement et généreusement.
+Lorsque nous donnons la vérité du Père de cette manière, il y a une multiplication de sa lumière croissante de la grâce salvatrice lorsque nous la dispensons.  Pour contribuer à l’expansion de la révélation de la manière la plus efficace, la vérité divine et vivante doit être partagée comme Jésus l’a fait, avec amour, sagesse, puissance spirituelle, librement et généreusement.
 
 ### Le leadership spirituel dans la vie de tous les jours
 
@@ -228,7 +228,7 @@ _Par Nemias Mol (Brésil)_
 
 Karl Marx a écrit que « la religion est l’opium du peuple » parce qu’il croyait que la religion n’est qu’une illusion qui affecte les sens humains, leur procurant un faux sentiment de bonheur. Comme cette idée est étrangère au concept de religion présenté par le Livre d’Urantia ! La vraie religion est la relation entre l’individu et la réalité divine. La religion n’est pas nécessairement la fréquentation d’une église, la pratique de certains rituels ou même l’appartenance à une religion ou à un groupe institutionnel.
 
-La religion est le vrai sens de la vie, à chaque instant, à tout moment, parce que nous devons rechercher cette relation à temps plein. La religion n’est pas un moment particulier de la vie, et c’est justement pour cela que Dieu réclame toute allégeance ou aucune, car nous devons vivre cette relation avec Dieu à chaque instant.  
+La religion est le vrai sens de la vie, à chaque instant, à tout moment, parce que nous devons rechercher cette relation à temps plein. La religion n’est pas un moment particulier de la vie, et c’est justement pour cela que Dieu réclame toute allégeance ou aucune, car nous devons vivre cette relation avec Dieu à chaque instant.  
 
 Être religieux, c’est parcourir un chemin de vie plein de significations, en affrontant courageusement l’adversité avec foi et confiance en Dieu.
 

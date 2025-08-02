@@ -40,7 +40,7 @@ La Fondation Urantia a lancé un nouveau site web en juillet 2024. Quatre ans de
 
 Le nombre d'heures de travail nécessaires à la traduction d'un site web en 27 langues est stupéfiant. Sans nos bénévoles, nous n'aurions jamais pu mener à bien ce projet remarquable.
 
-Nous remercions chaleureusement tous nos bénévoles pour leur travail acharné et leur dévouement qui ont donné vie à notre site web. Leurs efforts continueront d'être un cadeau inestimable pour les lecteurs du monde entier dans les années à venir !
+Nous remercions chaleureusement tous nos bénévoles pour leur travail acharné et leur dévouement qui ont donné vie à notre site web. Leurs efforts continueront d'être un cadeau inestimable pour les lecteurs du monde entier dans les années à venir !
 
 Nous avons demandé à nos traducteurs bénévoles de sites web s'ils accepteraient d'être cités. Beaucoup ont préféré garder l'anonymat, mais ceux qui ont accepté sont mentionnés ci-dessous.
 
@@ -51,7 +51,7 @@ Nous avons demandé à nos traducteurs bénévoles de sites web s'ils accepterai
 <figcaption>Amal Farhat</figcaption>
 </figure>
 
-Amal écrit : « Passionnée de métaphysique, je fais des recherches sur la nature et l'évolution de l'univers depuis 1994. J'ai écrit _Trumpet Universe et Ascension to the Light_. J'ai participé aux conférences internationales de la Société européenne pour l'astronomie dans la culture (SEAC) avec le professeur Mosalam Shaltout, vice-président de l'Union arabe pour les sciences spatiales et l'astronomie (AUASS) à la bibliothèque d'Alexandrie en 2009 et à Athènes en 2013. Après deux décennies de recherche, j'ai découvert _Le Livre d'Urantia_ en 2016, et une nouvelle vision universelle m'a poussé à aider à la traduction arabe. Je suis également décoratrice d'intérieur et artiste de la peinture à l'huile. Libanaise/Canadienne, j'ai vécu dans quatre pays et j'ai trois enfants merveilleux qui réussissent. »
+Amal écrit : « Passionnée de métaphysique, je fais des recherches sur la nature et l'évolution de l'univers depuis 1994. J'ai écrit _Trumpet Universe et Ascension to the Light_. J'ai participé aux conférences internationales de la Société européenne pour l'astronomie dans la culture (SEAC) avec le professeur Mosalam Shaltout, vice-président de l'Union arabe pour les sciences spatiales et l'astronomie (AUASS) à la bibliothèque d'Alexandrie en 2009 et à Athènes en 2013. Après deux décennies de recherche, j'ai découvert _Le Livre d'Urantia_ en 2016, et une nouvelle vision universelle m'a poussé à aider à la traduction arabe. Je suis également décoratrice d'intérieur et artiste de la peinture à l'huile. Libanaise/Canadienne, j'ai vécu dans quatre pays et j'ai trois enfants merveilleux qui réussissent. »
 
 <br style="clear:both;"/>
 
@@ -62,7 +62,7 @@ Amal écrit : « Passionnée de métaphysique, je fais des recherches sur la n
 <figcaption>Richard Zhu</figcaption>
 </figure>
 
-Richard écrit : « J'ai été immergé dans les enseignements du _Livre d'Urantia_ en tant que traducteur du chinois simplifié pendant plus de 12 ans, et je me consacre au partage des vérités de cette révélation par le biais de la langue chinoise. »
+Richard écrit : « J'ai été immergé dans les enseignements du _Livre d'Urantia_ en tant que traducteur du chinois simplifié pendant plus de 12 ans, et je me consacre au partage des vérités de cette révélation par le biais de la langue chinoise. »
 
 <br style="clear:both;"/>
 
@@ -80,7 +80,7 @@ Richard écrit : « J'ai été immergé dans les enseignements du _Livre d'Ura
 <figcaption>Valter Tóth</figcaption>
 </figure>
 
-Valter nous a dit : « C'est la deuxième fois que je lis _Le Livre d'Urantia_ et je suis très reconnaissant d'avoir accès à cette source étonnante de vérité grâce à la Fondation Urantia. »
+Valter nous a dit : « C'est la deuxième fois que je lis _Le Livre d'Urantia_ et je suis très reconnaissant d'avoir accès à cette source étonnante de vérité grâce à la Fondation Urantia. »
 
 <br style="clear:both;"/>
 
@@ -91,7 +91,7 @@ Valter nous a dit : « C'est la deuxième fois que je lis _Le Livre d'Urantia_
 <figcaption>Jean Ascher</figcaption>
 </figure>
 
-« En 1976, un musicien américain nommé James Moody m'a fait découvrir le livre. Depuis, il ne se passe pas un jour sans que je ne participe à un travail en rapport avec le livre. »
+« En 1976, un musicien américain nommé James Moody m'a fait découvrir le livre. Depuis, il ne se passe pas un jour sans que je ne participe à un travail en rapport avec le livre. »
 
 <br style="clear:both;"/>
 
@@ -102,7 +102,7 @@ Valter nous a dit : « C'est la deuxième fois que je lis _Le Livre d'Urantia_
 <figcaption>Hamid Mazdeh</figcaption>
 </figure>
 
-Hamid nous dit : « C'est un ami qui m'a fait découvrir _Le Livre d'Urantia_. J'ai été tellement fasciné par la beauté et la profondeur des concepts présentés dans le livre que je n'ai pas pu m'empêcher de le lire et d'en parler à tous ceux qui ont croisé mon chemin. Le projet de traduction en farsi a commencé au début de l'année 2000 et a duré près de 25 ans. J'espère qu'il apportera des réponses enrichissantes aux chercheurs de vérité parlant le farsi, comme il l'a fait pour moi. »
+Hamid nous dit : « C'est un ami qui m'a fait découvrir _Le Livre d'Urantia_. J'ai été tellement fasciné par la beauté et la profondeur des concepts présentés dans le livre que je n'ai pas pu m'empêcher de le lire et d'en parler à tous ceux qui ont croisé mon chemin. Le projet de traduction en farsi a commencé au début de l'année 2000 et a duré près de 25 ans. J'espère qu'il apportera des réponses enrichissantes aux chercheurs de vérité parlant le farsi, comme il l'a fait pour moi. »
 
 <br style="clear:both;"/>
 
@@ -113,7 +113,7 @@ Hamid nous dit : « C'est un ami qui m'a fait découvrir _Le Livre d'Urantia_.
 <figcaption>Tapio Talvitie</figcaption>
 </figure>
 
-Tapio est un lecteur du _Livre d'Urantia_ depuis 1993. Il écrit : « _Le Livre d'Urantia_ m'a attiré et convaincu de sa vérité divine par sa saveur spirituelle distincte qui ne peut être confondue. L'une de nos leçons est que nous sommes tous frères et sœurs en esprit et que notre Père aime chacun d'entre nous de la même façon. »
+Tapio est un lecteur du _Livre d'Urantia_ depuis 1993. Il écrit : « _Le Livre d'Urantia_ m'a attiré et convaincu de sa vérité divine par sa saveur spirituelle distincte qui ne peut être confondue. L'une de nos leçons est que nous sommes tous frères et sœurs en esprit et que notre Père aime chacun d'entre nous de la même façon. »
 
 <br style="clear:both;"/>
 
@@ -124,7 +124,7 @@ Tapio est un lecteur du _Livre d'Urantia_ depuis 1993. Il écrit : « _Le Livr
 <figcaption>Claire Mylanus</figcaption>
 </figure>
 
-Claire écrit : « J'ai été élevée avec des valeurs, de l'art, de la littérature, de l'histoire, de la philosophie et sans religion institutionnelle. Après avoir cherché dans ma jeunesse le sens de la vie, en lisant des livres sur la philosophie et la religion, je suis tombée sur _Le Livre d'Urantia_ dans les années 70, et c'était ce que j'avais cherché pendant toutes ces années. Il a répondu à toutes mes questions avec intelligence, logique et une grande perspicacité. Une toute nouvelle et magnifique image du sens de la vie avec une vision cosmique s'est déployée devant moi - magnifique et aimante ! »
+Claire écrit : « J'ai été élevée avec des valeurs, de l'art, de la littérature, de l'histoire, de la philosophie et sans religion institutionnelle. Après avoir cherché dans ma jeunesse le sens de la vie, en lisant des livres sur la philosophie et la religion, je suis tombée sur _Le Livre d'Urantia_ dans les années 70, et c'était ce que j'avais cherché pendant toutes ces années. Il a répondu à toutes mes questions avec intelligence, logique et une grande perspicacité. Une toute nouvelle et magnifique image du sens de la vie avec une vision cosmique s'est déployée devant moi - magnifique et aimante ! »
 
 <br style="clear:both;"/>
 
@@ -135,7 +135,7 @@ Claire écrit : « J'ai été élevée avec des valeurs, de l'art, de la litt�
 <figcaption>Mirela Gradinariu</figcaption>
 </figure>
 
-Mirela est née en Roumanie et est arrivée en Allemagne à l'âge de vingt ans. Elle vit dans la Sarre, en Allemagne, où elle travaille comme pharmacienne. Mirela nous a dit : « J'ai trouvé _Le Livre d'Urantia_ par hasard sur internet en 2016, et cela piqua ma curiosité d’en apprendre dans un seul livre sur autant de sujets différents. Mes attentes ont été plus que récompensées. C'est le livre le plus important que l'humanité puisse posséder ; il élève et libère. J'aimerais que de plus en plus de gens le lisent. Cela signifierait un énorme bond en avant dans le progrès spirituel, la fraternité entre les hommes et la paix sur Terre. »
+Mirela est née en Roumanie et est arrivée en Allemagne à l'âge de vingt ans. Elle vit dans la Sarre, en Allemagne, où elle travaille comme pharmacienne. Mirela nous a dit : « J'ai trouvé _Le Livre d'Urantia_ par hasard sur internet en 2016, et cela piqua ma curiosité d’en apprendre dans un seul livre sur autant de sujets différents. Mes attentes ont été plus que récompensées. C'est le livre le plus important que l'humanité puisse posséder ; il élève et libère. J'aimerais que de plus en plus de gens le lisent. Cela signifierait un énorme bond en avant dans le progrès spirituel, la fraternité entre les hommes et la paix sur Terre. »
 
 <br style="clear:both;"/>
 
@@ -146,7 +146,7 @@ Mirela est née en Roumanie et est arrivée en Allemagne à l'âge de vingt ans.
 <figcaption>A. M. Yusuf</figcaption>
 </figure>
 
-A.M. Yusuf, né en 1940, est issu d'une famille musulmane. Il a commencé à lire _Le Livre d'Urantia_ en 1999. Il est à la tête du groupe d'étude indonésien et commente : «Pour moi, les révélations d'Urantia sont vraiment les vérités qui ont mis à jour ma foi, de sorte que mon voyage vers l'éternité peut être clairement vu. »
+A.M. Yusuf, né en 1940, est issu d'une famille musulmane. Il a commencé à lire _Le Livre d'Urantia_ en 1999. Il est à la tête du groupe d'étude indonésien et commente : «Pour moi, les révélations d'Urantia sont vraiment les vérités qui ont mis à jour ma foi, de sorte que mon voyage vers l'éternité peut être clairement vu. »
 
 <br style="clear:both;"/>
 
@@ -164,7 +164,7 @@ A.M. Yusuf, né en 1940, est issu d'une famille musulmane. Il a commencé à lir
 <figcaption>Byung Seo</figcaption>
 </figure>
 
-Byung nous a dit : « En 2002, je suis tombé sur une recommandation de lire _Le Livre d'Urantia_ dans un registre de communication spirituelle en anglais. Je l'ai rapidement acheté sur Amazon.com et je l'ai lu en entier durant une année entière. Depuis, j'ai assisté à huit conférences internationales, en commençant par celle de Philadelphie en 2005, afin d'approfondir ma compréhension du livre. Ma vie est désormais consacrée à l'illumination de la vérité, de la bonté et de la beauté. »
+Byung nous a dit : « En 2002, je suis tombé sur une recommandation de lire _Le Livre d'Urantia_ dans un registre de communication spirituelle en anglais. Je l'ai rapidement acheté sur Amazon.com et je l'ai lu en entier durant une année entière. Depuis, j'ai assisté à huit conférences internationales, en commençant par celle de Philadelphie en 2005, afin d'approfondir ma compréhension du livre. Ma vie est désormais consacrée à l'illumination de la vérité, de la bonté et de la beauté. »
 
 <br style="clear:both;"/>
 
@@ -186,7 +186,7 @@ Tomasz a appris l'existence du _Livre d'Urantia_ en 2008 et le lit depuis. Il ai
 <figcaption>Nugroho Widi</figcaption>
 </figure>
 
-Nugroho Widi, né en 1964, vient d'une famille chrétienne et est toujours actif dans l'école du dimanche de son église. Il a trouvé _Le Livre d'Urantia_ en ligne en 1998. Widi écrit : « _Le Livre d'Urantia_ est certainement le livre le plus important que j'ai lu - un livre cosmique sur presque toutes les réalités existantes. Il est réel, vrai, complet, cohérent et solide. »
+Nugroho Widi, né en 1964, vient d'une famille chrétienne et est toujours actif dans l'école du dimanche de son église. Il a trouvé _Le Livre d'Urantia_ en ligne en 1998. Widi écrit : « _Le Livre d'Urantia_ est certainement le livre le plus important que j'ai lu - un livre cosmique sur presque toutes les réalités existantes. Il est réel, vrai, complet, cohérent et solide. »
 
 <br style="clear:both;"/>
 
@@ -197,7 +197,7 @@ Nugroho Widi, né en 1964, vient d'une famille chrétienne et est toujours actif
 <figcaption>Nugroho Widi</figcaption>
 </figure>
 
-Michael dit, « Un ami m'a fait découvrir _Le Livre d'Urantia_ en 1989. Quelques mois plus tard, j'ai commencé à le traduire en russe. Ce livre a changé ma vie et m'a donné beaucoup d'idées et d'inspiration pour mes deux professions : la composition musicale et l'écriture. »
+Michael dit, « Un ami m'a fait découvrir _Le Livre d'Urantia_ en 1989. Quelques mois plus tard, j'ai commencé à le traduire en russe. Ce livre a changé ma vie et m'a donné beaucoup d'idées et d'inspiration pour mes deux professions : la composition musicale et l'écriture. »
 
 <br style="clear:both;"/>
 

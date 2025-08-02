@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Dayspring-for-2020-announcement-Pix-of-Center-300x148.jpg">
 </figure>
 
-L’Agondonter Boot Camp Society de Floride et l’Association Urantia de Floride parrainent conjointement un congrès sur le Service et le Ministère, du 14 au 16 février 2020 au Day Spring Episcopal Conference Center Parrish, Floride (à 45 minutes des aéroports de Tampa — St. Petersburg)
+L’Agondonter Boot Camp Society de Floride et l’Association Urantia de Floride parrainent conjointement un congrès sur le Service et le Ministère, du 14 au 16 février 2020 au Day Spring Episcopal Conference Center Parrish, Floride (à 45 minutes des aéroports de Tampa — St. Petersburg)
 
 Faites-en une partie de vos vacances d’hiver en Floride, surnommée l’état ensoleillé !
 
@@ -50,7 +50,7 @@ Nous explorerons différentes façons dont les gens servent et exercent leur min
 
 Le dimanche matin, Paul et Jorgey Krupa, nous ferons une expérience pratique sur « _Vivre les enseignements »._
 
-L’inscription est de 50 $ US. Pour vous inscrire et réserver votre hébergement pour la fin de semaine au DaySpring, veuillez consulter l’information à [http://abc-society.com/](http://abc-society.com/)
+L’inscription est de 50 $ US. Pour vous inscrire et réserver votre hébergement pour la fin de semaine au DaySpring, veuillez consulter l’information à [http://abc-society.com/](http://abc-society.com/)
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

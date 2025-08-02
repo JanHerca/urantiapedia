@@ -60,7 +60,7 @@ Nos han desafiado a organizar esta conferencia de una manera totalmente diferent
 
 ### Grupos fijos
 
-Hemos planeado esta conferencia basándonos en el modelo dinámico de grupos que nos sugirió David Linthicum. Los participantes son asignados a un grupo por los organizadores de la conferencia y estarán juntos todos los días. Estos grupos permanentes estarán formados por unas ocho personas. El motivo de aplicar este método es que todos logren un estudio y una perspicacia más profundos de los Documentos Urantia. Los que tengan razones especiales para querer estar con el mismo grupo y con una persona en particular pueden contactar con los organizadores de la conferencia.
+Hemos planeado esta conferencia basándonos en el modelo dinámico de grupos que nos sugirió David Linthicum. Los participantes son asignados a un grupo por los organizadores de la conferencia y estarán juntos todos los días. Estos grupos permanentes estarán formados por unas ocho personas. El motivo de aplicar este método es que todos logren un estudio y una perspicacia más profundos de los Documentos Urantia. Los que tengan razones especiales para querer estar con el mismo grupo y con una persona en particular pueden contactar con los organizadores de la conferencia.
 
 ### Estudio en profundidad
 
@@ -80,7 +80,7 @@ Entre las presentaciones y el trabajo en grupo se ha dejado mucho espacio para s
 
 ### Entretenimiento
 
-Se han programado actuaciones para las noches del viernes y el sábado a cargo de artistas profesionales. El viernes por la noche, [Iris Kroes](http://www.uai2018.org/program/entertainment/iris/en) nos llevará con ella en una actuación de arpa y voz. El sábado Pato Banton y Antoinette Hall nos ofrecerán una presentación especial.
+Se han programado actuaciones para las noches del viernes y el sábado a cargo de artistas profesionales. El viernes por la noche, [Iris Kroes](http://www.uai2018.org/program/entertainment/iris/en) nos llevará con ella en una actuación de arpa y voz. El sábado Pato Banton y Antoinette Hall nos ofrecerán una presentación especial.
 
 Si planean ir a la Conferencia de la Asociación Urantia Internacional en Ámsterdam (Países Bajos) el año que viene, les instamos a que reserven su alojamiento en el hotel ahora mismo. Tendrán lugar muchas actividades en la región donde se celebrará la conferencia en esa época del año, así que es muy importante que reserven pronto su alojamiento para garantizar que tendrán habitación.
 

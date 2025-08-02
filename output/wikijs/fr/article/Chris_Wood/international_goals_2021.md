@@ -55,7 +55,7 @@ Promouvoir les groupes d’étude est le fondement du travail de l’Association
 
 ### Objectif no 4 : Éducation : Former des enseignants et des leaders
 
-À l’heure actuelle, il existe un nombre incroyable de merveilleux groupes d’étude virtuels, des webinaires sur l’éducation et des cours de formation en leadership offerts dans plusieurs langues à travers le monde. En 2018, nous allons créer un calendrier « Joignez-vous maintenant » qui réunira ceux qui cherchent des connexions en ligne avec ce qui se passe au même moment. De plus, d’ici 2021, nous offrirons régulièrement des webinaires sur la formation d’enseignants et de leaders dans le cadre de nos activités en ligne.
+À l’heure actuelle, il existe un nombre incroyable de merveilleux groupes d’étude virtuels, des webinaires sur l’éducation et des cours de formation en leadership offerts dans plusieurs langues à travers le monde. En 2018, nous allons créer un calendrier « Joignez-vous maintenant » qui réunira ceux qui cherchent des connexions en ligne avec ce qui se passe au même moment. De plus, d’ici 2021, nous offrirons régulièrement des webinaires sur la formation d’enseignants et de leaders dans le cadre de nos activités en ligne.
 
 ### Objectif no 5 : Encourager les échanges culturels
 

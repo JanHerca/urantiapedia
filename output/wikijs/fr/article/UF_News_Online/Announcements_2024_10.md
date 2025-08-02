@@ -47,7 +47,7 @@ Vous pouvez recevoir 3 à 5 livres gratuits à placer dans des bibliothèques pu
 
 _« Le grand espoir d'Urantia réside dans la possibilité d'une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement dans un service aimant les nombreuses familles de ceux qui se prétendent aujourd'hui ses fidèles. »_ [LU 195:10.16](/fr/The_Urantia_Book/195#p10_16)
 
-_« Les temps sont mûrs pour constater la résurrection symbolique du Jésus humain, sortant du tombeau des traditions théologiques et des dogmes religieux de dix-neuf siècles. Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait, la présente révélation si, par elle, le Fils de l'Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté en tant que Jésus vivant, à l'Église qui porte son nom, et à toutes les autres religions ! »_ [LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)
+_« Les temps sont mûrs pour constater la résurrection symbolique du Jésus humain, sortant du tombeau des traditions théologiques et des dogmes religieux de dix-neuf siècles. Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait, la présente révélation si, par elle, le Fils de l'Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté en tant que Jésus vivant, à l'Église qui porte son nom, et à toutes les autres religions ! »_ [LU 196:1.2](/fr/The_Urantia_Book/196#p1_2)
 
 <br style="clear:both;"/>
 
@@ -61,10 +61,10 @@ _« Les temps sont mûrs pour constater la résurrection symbolique du Jésus hu
 
 **L'Association Urantia présente**
 **La Quatrième conférence européenne, Paris, France**
-**Thème : La Distributivité de Dieu : L'homme, héritier de Dieu**
+**Thème : La Distributivité de Dieu : L'homme, héritier de Dieu**
 **6-9 juin 2025**
 
-Il est bon de dire aux gens : « Vous êtes formidables et uniques, et le monde et l'univers ont besoin de vous ! » Mais pouvez-vous vraiment expliquer pourquoi ? _Le Livre d'Urantia_ nous offre une nouvelle cosmologie de l'univers, une cosmologie dans laquelle le Père Universel est l'Architecte-Concepteur-Créateur. C'est dans ce but que _Le Livre d'Urantia_ nous propose une nouvelle cosmologie de l'univers :
+Il est bon de dire aux gens : « Vous êtes formidables et uniques, et le monde et l'univers ont besoin de vous ! » Mais pouvez-vous vraiment expliquer pourquoi ? _Le Livre d'Urantia_ nous offre une nouvelle cosmologie de l'univers, une cosmologie dans laquelle le Père Universel est l'Architecte-Concepteur-Créateur. C'est dans ce but que _Le Livre d'Urantia_ nous propose une nouvelle cosmologie de l'univers :
 
 Il semblerait que le Père ait inauguré dans l’éternité du passé une politique de profonde distribution de lui-même. Dans la nature généreuse, aimante et aimable du Père Universel il y a quelque chose qui l’incite à ne réserver pour lui-même que l'exercice des pouvoirs et de l'autorité qu'il estime apparemment impossible de déléguer ou de conférer. 10:1.1 (108.4_)_
 

@@ -279,13 +279,13 @@ J’ai entendu parler pour la première fois de la Fondation Urantia dans une no
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/UBIS-En-el-foco.png" alt="En el foco" width="350">
 </figure>
 
-L'École Internationale du Livre d'Urantia (UBIS) propose une série de webinaires «  In Focus  » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
+L'École Internationale du Livre d'Urantia (UBIS) propose une série de webinaires «  In Focus » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
 
 En espagnol, les séances durent entre 60 et 90 minutes et ont lieu un samedi par mois à 18h (heure de Madrid, Paris, Rome). Le présentateur fait une présentation introductive sur le sujet en question, après quoi le public a la possibilité de participer à une discussion.
 
 Voici la présentation prévue pour décembre :
 
-**Titre :** L’art d’enseigner de Jésus : des méthodes toujours d’actualité
+**Titre :** L’art d’enseigner de Jésus : des méthodes toujours d’actualité
 
 **Animatrice** : Erika Webster
 

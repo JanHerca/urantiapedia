@@ -139,7 +139,7 @@ La section entière consacrée au deuxième Isaïe mérite bien entendu d'être 
 > 
 > Peu importent l’histoire naturelle spéciale d’une planète individuelle et le fait qu’un royaume ait été entièrement loyal, souillé de mal ou maudit par le péché — peu importent les antécédents — tôt ou tard, la grâce de Dieu et le ministère des anges feront arriver le jour de la venue des Fils Instructeurs de La Trinité ; et leur départ à la suite de leur mission finale inaugurera l’âge superbe de lumière et de vie.
 > 
-> Tous les mondes de Satania \[dans notre région du cosmos\] peuvent partager l’espérance de celui qui écrivit : « Néanmoins et selon Sa promesse, nous attendons de nouveaux cieux et une nouvelle terre où habite la droiture. Ainsi donc, bienaimés, voyant que vous espérez ces choses, veillez à ce qu’Il vous trouve en paix, sans tache et irréprochables. » \[Note : Melchisédek signifie « roi de justice ». Cela pourrait-il faire allusion au retour de Melchisédek ?\] (<a id="a141_468"></a>[LU 52:7.11-15](/fr/The_Urantia_Book/52#p7_11))
+> Tous les mondes de Satania \[dans notre région du cosmos\] peuvent partager l’espérance de celui qui écrivit : « Néanmoins et selon Sa promesse, nous attendons de nouveaux cieux et une nouvelle terre où habite la droiture. Ainsi donc, bienaimés, voyant que vous espérez ces choses, veillez à ce qu’Il vous trouve en paix, sans tache et irréprochables. » \[Note : Melchisédek signifie « roi de justice ». Cela pourrait-il faire allusion au retour de Melchisédek ?\] (<a id="a141_468"></a>[LU 52:7.11-15](/fr/The_Urantia_Book/52#p7_11))
 
 ## Passage biblique et du livre d'Enoch
 

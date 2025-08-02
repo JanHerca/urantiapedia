@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Hacer actuales los potenciales personales de la mente, la materia y el espíritu a través del estudio iluminado, el servicio y la experiencia_._
 
-Urantia University es un centro global de estudio y servicio dedicado a capacitar a instructores, a promover líderes y a fomentar una comunidad espiritual con ideales cósmicos basados en las verdades de _El libro de Urantia_.
+Urantia University es un centro global de estudio y servicio dedicado a capacitar a instructores, a promover líderes y a fomentar una comunidad espiritual con ideales cósmicos basados en las verdades de _El libro de Urantia_.
 
 Como parte de un plan más amplio de desarrollar una universidad basada en la sabiduría cósmica, los ideales y las aspiraciones, el Urantia University Institute (UUI) se creó para proporcionar diversas vías de aprendizaje para estudiantes en un entorno educativo en línea en el que explorar, discernir y hacer actuales las verdades y el conocimiento encontrados en _El libro de Urantia_.
 
@@ -51,7 +51,7 @@ Las clases no requieren asistencia en horas concretas. La clase virtual del UUI 
 
 _Participante_ – Estudiante que pretende implicarse activamente en la clase a través de la lectura, ejercicios de aprendizaje, conversaciones, enseñanza por vídeo, ejercicios de meditación y seminarios web.
 
-_Oyente_ – Estudiante que pretende hacer un uso limitado de las lecturas elegidas, los vídeos y los ejercicios de aprendizaje y que, por el motivo que sea, no pretende participar en las conversaciones de la clase ni en los seminarios web.
+_Oyente_ – Estudiante que pretende hacer un uso limitado de las lecturas elegidas, los vídeos y los ejercicios de aprendizaje y que, por el motivo que sea, no pretende participar en las conversaciones de la clase ni en los seminarios web.
 
 Al inscribirse, se les da la oportunidad de indicar de qué manera quieren participar.
 

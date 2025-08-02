@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Bolivia-Book-Fair-2017-3.jpg-640x480-300x225.jpg">
 </figure>
 
-Dos estudiantes de _El libro de Urantia_ en Santa Cruz decidieron presentar el libro en la 18ª Feria Internacional del Libro de Santa Cruz (FIL), que se celebró a lo largo de 12 días, del 31 de mayo al 11 de junio de 2017.  
+Dos estudiantes de _El libro de Urantia_ en Santa Cruz decidieron presentar el libro en la 18ª Feria Internacional del Libro de Santa Cruz (FIL), que se celebró a lo largo de 12 días, del 31 de mayo al 11 de junio de 2017. 
 
 Con bastante anticipación fuimos a pedir un stand, pero encontramos el obstáculo de que todos los espacios para exposición ya estaban ocupados, y que solo era posible obtener alguno si es que alguien que ya tenía stand decidiera no presentarse, y nos pusieron en la lista de espera con 15 personas antes de nosotros. Panorama en principio desalentador, pero sabíamos que los hilos iban a moverse, porque estábamos trabajando para el Padre. Y así fue, ya que luego de un tiempo recibimos la llamada de los organizadores avisándonos de que había un espacio. Confirmamos sin tener aún el dinero, el cual teníamos plazo de 5 días para pagarlo. Pero también apareció el dinero. Pagamos y empezamos a hacer el trabajo de los banners, cuadrípticos y vitaminas espirituales. 
 
@@ -50,9 +50,9 @@ Pero el mayor tema era que no teníamos libros, y no se encontraba ninguno en la
 
 Decoramos el stand de 3×3 m con los tres banners: en la pared del fondo pusimos uno que tenía el nombre del libro; en la pared derecha estaba nuestra clásica imagen del universo central y los superuniversos, y en la pared izquierda una imagen del «Viaje al Paraíso», que al mismo tiempo es de las divisiones que tiene un superuniverso (sistema, constelación, etc.). En el frontis del stand se leía ¨_El libro de Urantia_¨ al lado de los tres círculos concéntricos. Desde el rincón derecho un helecho nos acompañó espléndido los doce días. Una pequeña mesa en el rincón izquierdo exhibía cuatro libros parados, y flores atrás de ellos. Adelante al medio se encontraba la mesa alrededor de la cual nos sentábamos alternando los 5 voluntarios cuando queríamos descansar un rato.
 
-Teníamos cuadrípticos descriptores del libro,  «vitaminas espirituales» (que son papeles enrollados que contienen citas de _El libro de Urantia_), dos ejemplares del libro y uno de J.J Benítez: ¨Lucifer¨. (La idea de traer este libro funcionó porque ayudó a entablar conversación con lectores de este bien conocido autor. En la última página del libro, el autor escribió una nota de agradecimiento a la fundación Urantia)
+Teníamos cuadrípticos descriptores del libro, «vitaminas espirituales» (que son papeles enrollados que contienen citas de _El libro de Urantia_), dos ejemplares del libro y uno de J.J Benítez: ¨Lucifer¨. (La idea de traer este libro funcionó porque ayudó a entablar conversación con lectores de este bien conocido autor. En la última página del libro, el autor escribió una nota de agradecimiento a la fundación Urantia)
 
-La feria atrajo a unos 114.000 visitantes. Se repartieron 2.000 cuadrípticos, 75 personas dejaron sus datos personales, se vendieron los 40 libros más dos propios,  y dejamos sin libros a una veintena de  personas que llegaron a comprar pero ya no teníamos.
+La feria atrajo a unos 114.000 visitantes. Se repartieron 2.000 cuadrípticos, 75 personas dejaron sus datos personales, se vendieron los 40 libros más dos propios, y dejamos sin libros a una veintena de personas que llegaron a comprar pero ya no teníamos.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/WhatsApp-Image-2017-08-13-at-6.32.44-PM-300x151.jpg">

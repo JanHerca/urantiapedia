@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Asistir a una feria siempre es interesante; primero, libros –muchos libros– de todo tipo, desde comics, de cocina, deportes, cuentos, novelas; de ciencia, historia, y sobre las costumbres de cada país invitado; y por supuesto del nuestro, el Perú.
 
-Este año 2017, la Feria Internacional del Libro (FIL) superó la asistencia en un 23%  a la del año pasado y, si bien anteriormente iban más jóvenes y adultos, este año llegaron muchos niños y adolescentes acompañados por sus padres; eso no quiere decir que haya aumentado la lectura, lo interesante es que caminaban familias «juntos» por cada stand que estaba lleno de libros representativos a las empresas, editoriales y países.
+Este año 2017, la Feria Internacional del Libro (FIL) superó la asistencia en un 23% a la del año pasado y, si bien anteriormente iban más jóvenes y adultos, este año llegaron muchos niños y adolescentes acompañados por sus padres; eso no quiere decir que haya aumentado la lectura, lo interesante es que caminaban familias «juntos» por cada stand que estaba lleno de libros representativos a las empresas, editoriales y países.
 
 Debo precisar que esta experiencia de participar en este tipo de feria ha sido extraordinaria, no solo por haber compartido omo hermanos y hermanas sino por los hechos que me sucedieron. Hay uno en particular que no puedo dejar de participárselos, y que justifica haber estado al lado con los amigos de Urantia Bogotá durante varios días.
 

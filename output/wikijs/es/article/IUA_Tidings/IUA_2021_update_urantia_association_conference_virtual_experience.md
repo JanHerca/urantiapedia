@@ -67,12 +67,12 @@ Cusco (Perú) es un lugar con rastros de la sangre de Adán y Eva. Ellos esperab
 **1.1. ¿Cuál es el mensaje esencial de _El libro de Urantia_**?
 _Por Angie Thurston (Washington D.C, EE.UU.)_
 
-¿Qué significa para ti ser un hijo o hija de Dios? Las enseñanzas de _El libro de Urantia_ son muy diversas, pero el mensaje principal es que Dios es un padre amoroso y misericordioso y que todos somos una familia, sin importar qué es lo que creamos o que no creamos en ello. Este mensaje principal es el tronco de un árbol con muchas ramas en flor.  Esta ponencia introducirá al oyente a cómo podemos experimentar el gozo supremo de la verdad espiritual y su poder de transformación, en estos tiempos de dificultad.
+¿Qué significa para ti ser un hijo o hija de Dios? Las enseñanzas de _El libro de Urantia_ son muy diversas, pero el mensaje principal es que Dios es un padre amoroso y misericordioso y que todos somos una familia, sin importar qué es lo que creamos o que no creamos en ello. Este mensaje principal es el tronco de un árbol con muchas ramas en flor. Esta ponencia introducirá al oyente a cómo podemos experimentar el gozo supremo de la verdad espiritual y su poder de transformación, en estos tiempos de dificultad.
 
 **1.2. ¿Qué es la ciudadanía cósmica y cómo podemos aplicarla de manera práctica**?
 _Por Jeffrey Wattles (Ohio, EE.UU.)_
 
-Dios es espíritu, pero el Creador también trabaja en niveles materiales e intelectuales. Los ciudadanos cósmicos establecen metas espirituales como su prioridad y _El libro de Urantia_ enseña muchas maneras de coordinar, integrar y unificar estos niveles. Esta ponencia tocará los conceptos de la mente cósmica (16:6), verdad cósmica (2:7), usando un ejemplo que le permitirá a los oyentes comprender cómo aplicar y trabajar efectivamente como ciudadanos cósmicos con los hechos terrenales de la vida cotidiana.
+Dios es espíritu, pero el Creador también trabaja en niveles materiales e intelectuales. Los ciudadanos cósmicos establecen metas espirituales como su prioridad y _El libro de Urantia_ enseña muchas maneras de coordinar, integrar y unificar estos niveles. Esta ponencia tocará los conceptos de la mente cósmica (16:6), verdad cósmica (2:7), usando un ejemplo que le permitirá a los oyentes comprender cómo aplicar y trabajar efectivamente como ciudadanos cósmicos con los hechos terrenales de la vida cotidiana.
 
 **1.3. ¿Cómo evoluciona la humanidad de orígenes primitivos a un destino planetario glorioso**?
 _Por Elisabeth Callahan (California, EE.UU.)_
@@ -88,12 +88,12 @@ Vean al final del Programa cómo ver las descripciones de los talleres y el proc
 **La revisión de alta calidad del nuevo _El libro de Urantia_ en español** – Unidad, trabajo en equipo y procesos metodológicos avanzados en la creación de un sistema referencial para un trabajo de calidad.
 Por los panelistas_: Aníbal Pacheco (Chile), Olga López (España), Raúl Pujol (Cuba) y Víctor García-Bory (México)_.
 
-Un panel interactivo discutirá la larga travesía de diez años de desafíos, servicio, trabajo en equipo y amistad, además de los logros obtenidos.  
+Un panel interactivo discutirá la larga travesía de diez años de desafíos, servicio, trabajo en equipo y amistad, además de los logros obtenidos.  
 
 **2.1. ¿Cuáles son algunos de los principios del crecimiento holístico para la ciudadanía cósmica**?
 _Por Alejandro Ampudia (Lima, Perú)_
 
-El crecimiento personal holístico debe ser entendido como el camino al despertar de la consciencia cósmica y la elevación de la percepción espiritual para tornarnos en seres cósmicamente maduros y balanceados. Hay una serie de valores que debemos adquirir con fidelidad y constancia porque constituyen los peldaños del crecimiento holístico. Mientras buscamos la perfección en el amor de Dios, la oración y adoración  son herramientas indispensables para avanzar en ese camino.
+El crecimiento personal holístico debe ser entendido como el camino al despertar de la consciencia cósmica y la elevación de la percepción espiritual para tornarnos en seres cósmicamente maduros y balanceados. Hay una serie de valores que debemos adquirir con fidelidad y constancia porque constituyen los peldaños del crecimiento holístico. Mientras buscamos la perfección en el amor de Dios, la oración y adoración son herramientas indispensables para avanzar en ese camino.
 
 **2.2. ¿Cómo podemos diseñar proyectos y promover el progreso planetario como verdaderos ciudadanos cósmicos**?
 De _Olga López (Barcelona, España) y Sebastián Nozzi (argentino residente en Heidelberg, Alemania)_

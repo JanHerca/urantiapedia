@@ -188,8 +188,8 @@ Departed ghosts will gladly live!
 
 As water poured on mountain tops  
 Must soon descend, and reach the plain;  
-    So surely what is given here  
-    Will reach and bless the sprits there[^21]!’
+    So surely what is given here  
+    Will reach and bless the sprits there[^21]!’
 
 The relations then place the coffin. in the grave, and each throws in a handful of earth. The Unnânsês then go away, taking the roll or rolls of cloth, one end of which was placed upon the coffin. The grave is filled in. Two lights, one at the head of it, and one at the foot, are left burning. And then the friends and relations return to the house.
 

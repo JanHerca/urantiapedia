@@ -41,11 +41,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Après plus de 15 mois sans possibilité de se rencontrer, je me suis posé la question suivante, serait-il possible de créer l’atmosphère adéquate dans une retraite en ligne comme nous le faisons généralement lors de nos retraites en personne ?
 
-Nous quatre, Katharina Becker, Doreen Heine et Carolyn Prentice des États-Unis, les Daughters of God, devions d’abord faire l’expérience, et évaluer les éventuels désagréments ou difficultés techniques avant de réunir un petit groupe dans « le nuage » ! Avec un peu d’expérience dans cette nouvelle façon de faire sur Zoom, et davantage de préparation de notre part, notre plan a été mis en action !
+Nous quatre, Katharina Becker, Doreen Heine et Carolyn Prentice des États-Unis, les Daughters of God, devions d’abord faire l’expérience, et évaluer les éventuels désagréments ou difficultés techniques avant de réunir un petit groupe dans « le nuage » ! Avec un peu d’expérience dans cette nouvelle façon de faire sur Zoom, et davantage de préparation de notre part, notre plan a été mis en action !
 
-Nous avons invité des femmes qui avaient déjà participé à l’une de nos retraites, pour se faire une meilleure idée de la façon dont l’interaction pourrait se produire lorsque nous sommes en virtuel et que nous regardons l’écran sans vraiment savoir à qui nous nous adressons.  Comme ces participantes connaissaient déjà le fonctionnement des retraites en personne, elles devraient être en mesure d’adapter leur participation au petit écran.
+Nous avons invité des femmes qui avaient déjà participé à l’une de nos retraites, pour se faire une meilleure idée de la façon dont l’interaction pourrait se produire lorsque nous sommes en virtuel et que nous regardons l’écran sans vraiment savoir à qui nous nous adressons. Comme ces participantes connaissaient déjà le fonctionnement des retraites en personne, elles devraient être en mesure d’adapter leur participation au petit écran.
 
-La veille de la retraite, tout comme nous le faisons dans nos rencontres à la Fondation ou ailleurs, nous avons prévu une courte réunion de deux heures en guise de brise-glace.  Nous avons pris l’apéritif chez nous et nous avons interagi avec le groupe en ligne.  C’était très agréable de se revoir, même à travers ce petit écran, et de se tenir au courant des nouvelles et des dernières actualités.
+La veille de la retraite, tout comme nous le faisons dans nos rencontres à la Fondation ou ailleurs, nous avons prévu une courte réunion de deux heures en guise de brise-glace. Nous avons pris l’apéritif chez nous et nous avons interagi avec le groupe en ligne. C’était très agréable de se revoir, même à travers ce petit écran, et de se tenir au courant des nouvelles et des dernières actualités.
 
 Le lendemain, dimanche 13 décembre, de midi à 16h30, après les avoir informés du protocole de cette plateforme, nous avons passé du temps en prière et en méditation avant de nous regrouper dans le premier des trois cercles de confiance que nous avons animés.
 
@@ -57,7 +57,7 @@ Une des participantes nous a lu ce qu’a écrit le prêtre, auteur et théologi
 
 > _L’écoute est une forme d’hospitalité spirituelle par laquelle vous invitez des étrangers à devenir des amis, pour mieux connaître leur moi intérieur, et même d’oser se taire avec vous._
 
-Nous étions toutes reconnaissantes du niveau de confiance, de respect et de vulnérabilité dans nos échanges.  Nos contributions individuelles sont venues de l’Esprit, qui ne fait pas de distinction selon que nous sommes en personne ou sur une plateforme virtuelle. L’Esprit reconnaît l’état d’âme. À la fin de l’après-midi, nous nous sommes toutes senties édifiées et soutenues dans ce cercle sacré.
+Nous étions toutes reconnaissantes du niveau de confiance, de respect et de vulnérabilité dans nos échanges. Nos contributions individuelles sont venues de l’Esprit, qui ne fait pas de distinction selon que nous sommes en personne ou sur une plateforme virtuelle. L’Esprit reconnaît l’état d’âme. À la fin de l’après-midi, nous nous sommes toutes senties édifiées et soutenues dans ce cercle sacré.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Daughters-of-God-Retreat-Décembre-2020-706x324.jpg">

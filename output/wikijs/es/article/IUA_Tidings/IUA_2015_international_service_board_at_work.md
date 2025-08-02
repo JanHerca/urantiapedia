@@ -40,11 +40,11 @@ Lo siguiente describe algunas de las actividades que los miembros de la JIS han 
 
 ### Presidente
 
-Chris Wood, que también es presidente en funciones del Comité de Recaudación de Fondos, preside el equipo ejecutivo y es el enlace con los líderes de la Fundación Urantia y de la Fellowship. Asistió y dio una presentación en la conferencia regional de la Lone Star Urantia Association en Argyle (Texas) el mes de marzo, y proporcionó una capacitación especial sobre el plan a tres años para los miembros de la JIS recién elegidos.
+Chris Wood, que también es presidente en funciones del Comité de Recaudación de Fondos, preside el equipo ejecutivo y es el enlace con los líderes de la Fundación Urantia y de la Fellowship. Asistió y dio una presentación en la conferencia regional de la Lone Star Urantia Association en Argyle (Texas) el mes de marzo, y proporcionó una capacitación especial sobre el plan a tres años para los miembros de la JIS recién elegidos.
 
 ### Vicepresidenta
 
-Merindi Belarski, cuyo mandato expiró a finales de marzo después de servir durante dos mandatos completos, fue también la presidenta del Consejo de Representantes. Proporcionó información y orientación que hizo que la transición fuera suave para el nuevo vicepresidente y presidente del CR, Andrés Ramírez. Continúa sirviendo como miembro del equipo de ayuda económica de la Conferencia Internacional 2015.
+Merindi Belarski, cuyo mandato expiró a finales de marzo después de servir durante dos mandatos completos, fue también la presidenta del Consejo de Representantes. Proporcionó información y orientación que hizo que la transición fuera suave para el nuevo vicepresidente y presidente del CR, Andrés Ramírez. Continúa sirviendo como miembro del equipo de ayuda económica de la Conferencia Internacional 2015.
 
 ### Tesorero
 
@@ -68,7 +68,7 @@ Sheila Keene-Lund informó de que el índice temático de los artículos del _Ti
 
 ### Presidente del Comité de Conferencias
 
-Antonio Schefer asumió el puesto a finales de diciembre y ha seleccionado a los primeros miembros de su comité: Olga López Molina, Tamila Ragimova y Mike MacIssac. Ha completado la revisión y ha solucionado los problemas de audio de todos los vídeos del Simposio de Liderazgo 2011. Antonio asistió en marzo a la conferencia del Blue Club en Frankfurt en abril y está contactando con las asociaciones europeas para visitarlas. También está en el equipo de ayuda económica de la Conferencia Internacional 2015.
+Antonio Schefer asumió el puesto a finales de diciembre y ha seleccionado a los primeros miembros de su comité: Olga López Molina, Tamila Ragimova y Mike MacIssac. Ha completado la revisión y ha solucionado los problemas de audio de todos los vídeos del Simposio de Liderazgo 2011. Antonio asistió en marzo a la conferencia del Blue Club en Frankfurt en abril y está contactando con las asociaciones europeas para visitarlas. También está en el equipo de ayuda económica de la Conferencia Internacional 2015.
 
 ### Presidente del Comité de Traducciones
 

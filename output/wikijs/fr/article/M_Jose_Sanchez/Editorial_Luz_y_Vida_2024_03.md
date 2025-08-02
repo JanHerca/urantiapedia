@@ -88,7 +88,7 @@ Et aujourd'hui ? Nous pouvons également être reconnaissants envers ceux qui so
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-2.jpg" alt="Editorial abril 2024-2" width="350">
 </figure>
 
-Dans un monde si meurtri, où pour tant de gens vivre c'est survivre, beaucoup de nos vies sont tout simplement merveilleuses. Cela devrait impliquer une gratitude profonde et peut-être indéfinie ; une gratitude fondamentale : celle de quelqu’un qui s’installe dans une acceptation sereine de l’existence, de la vie qui nous imprègne. Une vie soignée et offerte par notre ancêtre commun, par la source de tout, par le Père infini de ses fils et filles infinis.
+Dans un monde si meurtri, où pour tant de gens vivre c'est survivre, beaucoup de nos vies sont tout simplement merveilleuses. Cela devrait impliquer une gratitude profonde et peut-être indéfinie ; une gratitude fondamentale : celle de quelqu’un qui s’installe dans une acceptation sereine de l’existence, de la vie qui nous imprègne. Une vie soignée et offerte par notre ancêtre commun, par la source de tout, par le Père infini de ses fils et filles infinis.
 
 Et il a poursuivi en disant : « Ne vous inquiétez pas trop de vos besoins quotidiens ; Ne vous inquiétez pas des problèmes de votre existence terrestre. En toutes ces choses, présentez vos besoins à votre Père céleste par la prière et la supplication, dans un esprit de sincère gratitude. <a id="a92_289"></a>[LU 146:2.16](/fr/The_Urantia_Book/146#p2_16)
 

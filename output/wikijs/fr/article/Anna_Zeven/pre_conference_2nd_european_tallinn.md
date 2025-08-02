@@ -64,19 +64,19 @@ Jeunes lecteurs jusqu’à la mi- quarantaine ou jeunes de cœur.
 
 7—11 juillet 2019
 
-**Emplacement :**
+**Emplacement :**
 
-Old Town Hostel Alur, Lai 20, Tallinn, Harju Maakond 10133, Estonie.
+Old Town Hostel Alur, Lai 20, Tallinn, Harju Maakond 10133, Estonie.
 
-Voir les détails de l’auberge sur : [http://hostel.alur.ee](http://hostel.alur.ee/)
+Voir les détails de l’auberge sur : [http://hostel.alur.ee](http://hostel.alur.ee/)
 
-Et directions à : [Itinéraire](https://www.google.com/maps/dir/Lai+20,+10133+Tallinn,+Estland/@59.4389133,24.7405879,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x46929362529f2965:0x63f25ecb1b38cf41!2m2!1d24.7449653!2d59.4389134)
+Et directions à : [Itinéraire](https://www.google.com/maps/dir/Lai+20,+10133+Tallinn,+Estland/@59.4389133,24.7405879,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x46929362529f2965:0x63f25ecb1b38cf41!2m2!1d24.7449653!2d59.4389134)
 
-**Prix :**
+**Prix :**
 
-150 € pour l’hébergement et la nourriture. Nous vous suggérons de réserver un budget de 45 € pour des extras comme des visites optionnelles.
+150 € pour l’hébergement et la nourriture. Nous vous suggérons de réserver un budget de 45 € pour des extras comme des visites optionnelles.
 
-**Visites supplémentaires :**
+**Visites supplémentaires :**
 
 Les visites touristiques sont exclues afin de maintenir le prix le plus bas possible et de vous laisser le choix dans l’utilisation de votre temps.
 
@@ -84,26 +84,26 @@ Les visites touristiques sont exclues afin de maintenir le prix le plus bas poss
 
 Logement, nourriture (et matière à réflexion), beaucoup de plaisir et bonne compagnie 😊.
 
-**Programme :**
+**Programme :**
 
-**Dimanche :** Enregistrement, à partir de 16:00 et dîner de bienvenue.
+**Dimanche :** Enregistrement, à partir de 16:00 et dîner de bienvenue.
 
-**Lundi :** Promenade à la plage, rencontres et présentations, diner et séance de lecture à la plage, retour à l’auberge, souper, rencontre sociale.
+**Lundi :** Promenade à la plage, rencontres et présentations, diner et séance de lecture à la plage, retour à l’auberge, souper, rencontre sociale.
 
-**Mardi :** méditation, atelier futur pour le groupe des jeunes, dîner, visite facultative : cathédrale + château, souper, séance de lecture.
+**Mardi :** méditation, atelier futur pour le groupe des jeunes, dîner, visite facultative : cathédrale + château, souper, séance de lecture.
 
-**Mercredi :** Adoration, atelier sur la prière et l’amour, dîner, heure optionnelle d’approfondissement sur l’adoration, atelier sur la prière et l’amour, visites touristiques facultatives : spectacle artistique et multimédia, Klimt2Monet + Rotermanni, temps de socialisation.
+**Mercredi :** Adoration, atelier sur la prière et l’amour, dîner, heure optionnelle d’approfondissement sur l’adoration, atelier sur la prière et l’amour, visites touristiques facultatives : spectacle artistique et multimédia, Klimt2Monet + Rotermanni, temps de socialisation.
 
-**Jeudi :** Temps libre / visite facultative du palais de Kadriorg et ouverture du congrès.
+**Jeudi :** Temps libre / visite facultative du palais de Kadriorg et ouverture du congrès.
 
 
-## Séjour économique durant le congrès :
+## Séjour économique durant le congrès :
 
-Seulement l’hébergement à l’auberge lors du 2e Congrès européen d’Urantia, du 11 au 14 juillet 2019 ? Seulement 20 € la nuit pp, repas non compris.
+Seulement l’hébergement à l’auberge lors du 2e Congrès européen d’Urantia, du 11 au 14 juillet 2019 ? Seulement 20 € la nuit pp, repas non compris.
 
 Donc, si vous avez le goût d’être avec nous, de partager et de vous sentir entouré de votre famille urantienne, [inscrivez-vous ici](https://docs.google.com/forms/d/e/1FAIpQLSdPW-nNUHkCAJiXyF3G-fDtIE065_neDDjdanjZ2U1KPUvmCw/viewform) dès que possible.
 
- 
+ 
 
 Lumière et vie,
 Anna Zeven

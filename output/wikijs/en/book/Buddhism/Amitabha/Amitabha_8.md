@@ -67,9 +67,9 @@ Subâhu seemed imperturbable, and without deigning to look at the incensed face 
 Kanishka stared at the speaker as if unable to comprehend his frame of mind, and Subâhu without showing any concern quoted a stanza from the Dhammapada, saying:
 
 “The king's mighty chariots of iron will rust,
- And also our bodies resolve into dust; <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
- But deeds, ’tis sure,
- For aye endure."[14](/en/book/Buddhism/Amitabha/Amitabha_16#an_14)
+ And also our bodies resolve into dust; <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
+ But deeds, ’tis sure,
+ For aye endure."[14](/en/book/Buddhism/Amitabha/Amitabha_16#an_14)
 
 Filled with admiration of Subâhu's fortitude, Kanishka said: "I see thou art truly a pious man. But thy piety is not of the right kind. Thy way of escape leads into emptiness, and thy salvation is hollow. This world is the place in which the test of truth must be made; and this life is the time in which it is our duty to attain Nirvâna. But I will .not now upbraid thee for thy errors; I will first raise thee to a dignified position in which thou canst answer me and give thy arguments. I understand that thou art a faithful disciple of the Buddha and meanest to do that which is right. I respect thy sincerity and greet thee as a brother. Therefore I will not deprive thee of thy crown and title, but I insist on the penalty of three hundred million gold pieces. Thou shalt remain king with the understanding that henceforth thou takest council with me on all questions of political importance, for I see clearly that thou standest in need of advice. But in place of the three hundred million gold pieces I will accept substitutes which I deem worth <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> that amount. First, thou shalt deliver into my hands the bowl which the Tathâgata, the Blessed Buddha, carried in his hand when he was walking on earth, and, secondly, as a ransom for thy royal person which I hold here besieged in Pâtaliputra I request from thee the philosopher Açvaghosha whose fame has spread through all the countries where the religion of enlightenment is preached.”
 

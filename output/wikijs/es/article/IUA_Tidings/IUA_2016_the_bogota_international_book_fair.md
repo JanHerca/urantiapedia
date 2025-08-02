@@ -47,13 +47,13 @@ La Asociación Urantia de Bogotá ha estado presente en la feria durante los úl
 
 Han participado más voluntarios en el stand a medida que crece la conciencia sobre _El libro de Urantia_. Este proyecto no habría sido posible sin el servicio y el apoyo de más de cuarenta personas, incluyendo voluntarios directos en el stand y ayudantes indirectos que proporcionaron apoyo de otras maneras. La Asociación Urantia de Bogotá da a los voluntarios un gran «gracias» por su trabajo y servicio.
 
-Damos también las gracias a la Fundación Urantia por donar 150 libros en tapa blanda para la feria. Ciento dos libros se vendieron en nuestro stand, y los ingresos se usaron para ayudar a sufragar los costes del stand.
+Damos también las gracias a la Fundación Urantia por donar 150 libros en tapa blanda para la feria. Ciento dos libros se vendieron en nuestro stand, y los ingresos se usaron para ayudar a sufragar los costes del stand.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Bogota-BF-3-300x308.jpg">
 </figure>
 
-Se distribuyeron más de dieciséis mil folletos entre las personas que visitaron nuestro stand. Estos folletos contenían información de contacto de la Asociación Urantia, de sitios web y de listas de libros y otras publicaciones acerca de _El libro de Urantia_.
+Se distribuyeron más de dieciséis mil folletos entre las personas que visitaron nuestro stand. Estos folletos contenían información de contacto de la Asociación Urantia, de sitios web y de listas de libros y otras publicaciones acerca de _El libro de Urantia_.
 
 Los voluntarios hablaron directamente con más dos mil personas acerca de _El libro de Urantia_, les daban explicaciones sobre el libro y abordaban los diferentes intereses de cada persona. Muchas de estas personas ya habían oído hablar del libro o tenían grupos de estudio y estaban interesadas en recibir más información.
 

@@ -56,7 +56,7 @@ Para establecer un marco de estudio, se han recopilado y organizado todas las re
 
 Esta es una conferencia educativa que se centra en el aprendizaje compartido. Intentamos segujir el modelo de descubrimiento individuo de la verdad tal como se revela en el libro, una experiencia que esperamos se aumente y realce en las discusiones e intercambios en grupo. El material de lectura, categorizado por temas, se puede descargar desde la página del evento.
 
-La conferencia comienza el jueves 28 de marzo y concluye el domingo 31 (en Semana Santa de la tradicción occidental). La recepción comienza a las 15:00 horas del jueves, pero pueden reservar antes si lo desean. Mucha gente llegará el miércoles. La cena comienza a las 17:00 horas del jueves, seguida de los discursos de bienvenida y los anuncios.
+La conferencia comienza el jueves 28 de marzo y concluye el domingo 31 (en Semana Santa de la tradicción occidental). La recepción comienza a las 15:00 horas del jueves, pero pueden reservar antes si lo desean. Mucha gente llegará el miércoles. La cena comienza a las 17:00 horas del jueves, seguida de los discursos de bienvenida y los anuncios.
 <br style="clear:both;"/>
 
 **Otros eventos de la zona:**
@@ -67,9 +67,9 @@ La conferencia comienza el jueves 28 de marzo y concluye el domingo 31 (en Seman
 
 Como ya se mencionó, el 31 de marzo es Domingo de Resurrección. El Festival de Floración de los Cerezos de Washington DC se celebra del 20 de marzo al 14 de abril, en el que se espera que miles de cerezos de Washington y Baltimore estén en plena floración. También habrá un eclipse solar total que cruzará América del Norte el 8 de abril. Puede que quieran extender sus vacaciones para verlo.
 
-La conferencia tiene lugar en el Maritime Conference Center (MCC), cerca de Baltimore, a solo unos minutos del aeropuerto internacional (BWI). El centro tiene una amplia variedad de instalaciones para hacer agradable su estancia.  ([https://www.mccbwi.org/](https://www.mccbwi.org/))
+La conferencia tiene lugar en el Maritime Conference Center (MCC), cerca de Baltimore, a solo unos minutos del aeropuerto internacional (BWI). El centro tiene una amplia variedad de instalaciones para hacer agradable su estancia. ([https://www.mccbwi.org/](https://www.mccbwi.org/))
 
-Además, Baltimore cuenta con el National Aquarium, Fort McHenry, varios museos, un centro de ciencias y un zoo. Washington DC, con sus innumerables atracciones, está a 65 Km. de distancia y se puede ir en tren.
+Además, Baltimore cuenta con el National Aquarium, Fort McHenry, varios museos, un centro de ciencias y un zoo. Washington DC, con sus innumerables atracciones, está a 65 Km. de distancia y se puede ir en tren.
 
 **Inscripción**
 
@@ -85,7 +85,7 @@ Se anima a los acompañantes que no participan a que se queden con los participa
 
 Además de las numerosas atracciones locales, habrá entretenimiento, música y oportunidades para confraternizar todas las noches. También habrá disponible una sala de meditación y adoración.
 
-El domingo por la mañana habrá un breve encuentro al amanecer antes del desayuno (si el tiempo lo permite). La conferencia culmina con adoración y conmemoración.
+El domingo por la mañana habrá un breve encuentro al amanecer antes del desayuno (si el tiempo lo permite). La conferencia culmina con adoración y conmemoración.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Jesus_faith_MerandaD.jpg">
@@ -93,7 +93,7 @@ El domingo por la mañana habrá un breve encuentro al amanecer antes del desayu
 
 **Transmisión en directo**
 
-Esperamos verles en Baltimore, pero entendemos que el viaje puede ser difícil, por ello habrá partes de la conferencia que se transmitirán en directo.  Los detalles se enviarán por correo y se añadirán a la página de la conferencia a mediados de marzo.
+Esperamos verles en Baltimore, pero entendemos que el viaje puede ser difícil, por ello habrá partes de la conferencia que se transmitirán en directo. Los detalles se enviarán por correo y se añadirán a la página de la conferencia a mediados de marzo.
 
 ## Referencias
 

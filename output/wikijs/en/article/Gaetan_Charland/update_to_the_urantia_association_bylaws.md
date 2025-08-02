@@ -37,7 +37,7 @@ Dear Urantia Association Members, Presidents, and Vice-Presidents,
 <img src="/image/article/IUA_Tidings/Gaetan-150x150.jpg">
 </figure>
 
-I trust that you’re aware of the revised version of the _Bylaws of Urantia Association International_, a document that has received an extensive update. These Bylaws represent the culmination of years of Urantia Association’s experiences, growth, and dedication to promoting _The Urantia Book_ and its invaluable teachings worldwide.  Delving into a legal text might seem tedious; some may even question its relevance to our spiritual mission and work.
+I trust that you’re aware of the revised version of the _Bylaws of Urantia Association International_, a document that has received an extensive update. These Bylaws represent the culmination of years of Urantia Association’s experiences, growth, and dedication to promoting _The Urantia Book_ and its invaluable teachings worldwide. Delving into a legal text might seem tedious; some may even question its relevance to our spiritual mission and work.
 
 However, it’s crucial to recognize that these Bylaws form the bedrock of our existence as a legal entity. They not only provide the framework for our service operations but are also indispensable for navigating the complexities of the diverse languages and cultures within our organization. Compliance with the laws of various countries necessitates having governing documents that regulate our affairs and define our societal role. These guidelines prevent confusion as to the duties and interactions of all our dedicated volunteers. Clarity on governance provides assurance that our elected leaders can focus on our mission to promote an epochal revelation.
 

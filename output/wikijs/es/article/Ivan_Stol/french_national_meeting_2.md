@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/IMG_4348-e1504345371794.jpg">
 </figure>
 
-El encuentro anual de la AFLLU (Asociación Urantia de habla francesa) para 2017 tuvo lugar recientemente e incluyó un programa con el tema _La influencia del Espíritu de la Verdad en la espiritualidad de cada uno__._ 
+El encuentro anual de la AFLLU (Asociación Urantia de habla francesa) para 2017 tuvo lugar recientemente e incluyó un programa con el tema _La influencia del Espíritu de la Verdad en la espiritualidad de cada uno__._ 
 
 Junto con el programa, tuvo lugar una reunión de trabajo que abordó la situación de la asociación, nuestra ayuda a los hablantes francófonos de África y la renovación de la junta directiva. Dieciséis miembros estuvieron presentes (de 41), y 8 lectores no afiliados.
 
@@ -59,7 +59,7 @@ Sin embargo, debe señalarse que, debido al hecho de que es la Ministra Divina l
 
 ## Reunión de trabajo:
 
-La situación de la asociación francesa es que no estamos creciendo como nos gustaría por varias razones, pero ese no es un problema exclusivo.    
+La situación de la asociación francesa es que no estamos creciendo como nos gustaría por varias razones, pero ese no es un problema exclusivo.   
 
 En Francia, ha sido difícil dar a conocer _El libro de Urantia_. Debido a actividades de sectas sumamente publicitadas en el pasado, hay miedo a ser etiquetados como miembros de una secta, pues hicieron mucho daño en nuestro país, por no mencionar el pasado oscuro de la Iglesia católica y los escándalos de hoy día.
 

@@ -49,9 +49,9 @@ Nous avons donc décidé d’amener la réunion chez elles et à leur tour, elle
 <img src="/image/article/IUA_Tidings/IMG-20190213-WA0002-300x225.jpg">
 </figure>
 
-Pendant la réunion, les femmes de Máncora ont célébré !  Deux petits groupes d’environ dix femmes chacun ont été formé — un le matin, dans un des hôtels les plus populaires de la station balnéaire – et l’autre en après-midi, dans la bibliothèque municipale, parrainée par la municipalité de Máncora, à qui un Livre d’Urantia a été donné.
+Pendant la réunion, les femmes de Máncora ont célébré !  Deux petits groupes d’environ dix femmes chacun ont été formé — un le matin, dans un des hôtels les plus populaires de la station balnéaire – et l’autre en après-midi, dans la bibliothèque municipale, parrainée par la municipalité de Máncora, à qui un Livre d’Urantia a été donné.
 
-Tout Máncora a parlé de Line St-Pierre du Québec, Canada, qui a donné un atelier-conférence gratuit. Non seulement les femmes de la haute société étaient présentes, mais également les travailleuses de la ville, qui ont toutes appris à se connaître et à s’apprécier en tant que filles du Père et désireuses de Le servir. Leurs témoignages étaient vraiment magnifiques. Des larmes de joie et la soif de partager avec les autres furent l’héritage du dialogue que Line avait eu avec ces femmes. Ce fut une expérience vigoureuse et vraiment merveilleuse !
+Tout Máncora a parlé de Line St-Pierre du Québec, Canada, qui a donné un atelier-conférence gratuit. Non seulement les femmes de la haute société étaient présentes, mais également les travailleuses de la ville, qui ont toutes appris à se connaître et à s’apprécier en tant que filles du Père et désireuses de Le servir. Leurs témoignages étaient vraiment magnifiques. Des larmes de joie et la soif de partager avec les autres furent l’héritage du dialogue que Line avait eu avec ces femmes. Ce fut une expérience vigoureuse et vraiment merveilleuse !
 <br style="clear:both;"/>
 
 Depuis lors, nous continuons à communiquer et avons reçu des messages tels que :

@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Todos los años a comienzos de marzo celebramos una conferencia en domingo en el hotel Intercontinental. Este año el tema de nuestra conferencia fue «Ciencia, religión y espiritualidad». Se dieron presentaciones sobre una serie de temas de _El libro_ _de Urantia_, así sobre como la aplicación de las enseñanzas del libro a nuestra vida moderna.
 
-Este año el evento se celebró el 10 de marzo de 2019 y comenzó con 35 participantes en la terraza de la sala de reuniones Citará. En esta ocasión, como en años anteriores, vinieron a la conferencia personas de diferentes ciudades de Colombia: Bogotá, Rionegro, Caucasia, Montería y Medellín, entre otras.
+Este año el evento se celebró el 10 de marzo de 2019 y comenzó con 35 participantes en la terraza de la sala de reuniones Citará. En esta ocasión, como en años anteriores, vinieron a la conferencia personas de diferentes ciudades de Colombia: Bogotá, Rionegro, Caucasia, Montería y Medellín, entre otras.
 
 Las sesiones matutinas consistían en presentaciones sobre los siguientes temas: «La pedagogía de Jesús», de Juan Carlos Franco; «Des-cubrimiento», de Jairo Mosquera; «Las razas mestizas de la Tierra», de Tamila Ragimova; y «La gran decisión», de Javier Chaverra.
 

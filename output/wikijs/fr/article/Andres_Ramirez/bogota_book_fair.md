@@ -47,12 +47,12 @@ Plus de 500 000 visiteurs ont assisté à la foire du livre, 23 000 dépliants p
 <img src="/image/article/IUA_Tidings/IMG-20170504-WA0020_1495260741044-300x168.jpg">
 </figure>
 
-Cette expérience de la Foire du livre a inspiré de nombreux bénévoles de la manière suivante :
+Cette expérience de la Foire du livre a inspiré de nombreux bénévoles de la manière suivante :
 
-- À la suite de son expérience à la Foire du livre de Bogota, Efrain Vivanco de l’Équateur accueillera un kiosque à la Foire du livre en Équateur, du 29 mai au 2 juin. Deux volontaires colombiens seront là pour aider.
-- Le président de la nouvelle Association d’Urantia au Costa Rica est revenu de  cette expérience et a mobilisé son équipe ; il a l’intention de tenir un kiosque à la Foire du livre au Costa Rica en juin.
-- Les deux bénévoles de Cali, en Colombie, prévoient organiser un kiosque à la Foire du livre de Cali en octobre.
-- À la suite de cet évènement, l’Association de Bogota accueillera une conférence en ligne le 20 mai 2017 intitulée « Introduction au Livre d’Urantia » qui sera diffusée via Zoom en Amérique latine.
+- À la suite de son expérience à la Foire du livre de Bogota, Efrain Vivanco de l’Équateur accueillera un kiosque à la Foire du livre en Équateur, du 29 mai au 2 juin. Deux volontaires colombiens seront là pour aider.
+- Le président de la nouvelle Association d’Urantia au Costa Rica est revenu de cette expérience et a mobilisé son équipe ; il a l’intention de tenir un kiosque à la Foire du livre au Costa Rica en juin.
+- Les deux bénévoles de Cali, en Colombie, prévoient organiser un kiosque à la Foire du livre de Cali en octobre.
+- À la suite de cet évènement, l’Association de Bogota accueillera une conférence en ligne le 20 mai 2017 intitulée « Introduction au Livre d’Urantia » qui sera diffusée via Zoom en Amérique latine.
 
 De plus, des kiosques présentant Le Livre d’Urantia seront présents dans les foires du livre en Bolivie de mai à juin, au Guatemala en juin et au Pérou en juillet.
 <br style="clear:both;"/>

@@ -51,7 +51,7 @@ Sí, pueden usar la misma cuenta de Amazon.com y AmazonSmile. Su cesta de la com
 
 **¿Cómo elijo a la asociación para darle mi apoyo cuando compro en AmazonSmile?**
 
-En su primera visita a AmazonSmile, necesitan seleccionar la «Asociación Urantia Internacional» para recibir donaciones de compras elegibles antes de comenzar a comprar. AmazonSmile recordará su selección y a partir de ahí toda compra elegible que haga tendrá como resultado una donación.
+En su primera visita a AmazonSmile, necesitan seleccionar la «Asociación Urantia Internacional» para recibir donaciones de compras elegibles antes de comenzar a comprar. AmazonSmile recordará su selección y a partir de ahí toda compra elegible que haga tendrá como resultado una donación.
 
 **¿Qué parte de mi compra dona Amazon?**
 
@@ -59,7 +59,7 @@ La AmazonSmile Foundation donará el 0,5% del precio de venta de sus compras ele
 
 **¿Cómo compro en AmazonSmile?**
 
-Para comprar en AmazonSmile vayan simplemente a [smile.amazon.com](http://smile.amazon.com/) desde su computadora o dispositivo móvil (puede que quieran añadir AmazonSimile a sus favoritos para que les sea más fácil volver a comprar).
+Para comprar en AmazonSmile vayan simplemente a [smile.amazon.com](http://smile.amazon.com/) desde su computadora o dispositivo móvil (puede que quieran añadir AmazonSimile a sus favoritos para que les sea más fácil volver a comprar).
 
 **¿Qué productos de AmazonSmile son elegibles para hacer donaciones?**
 

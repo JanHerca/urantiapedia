@@ -207,7 +207,7 @@ Naturellement, il avait perdu la vue pour toujours. Mais comme son visage est de
 
 **Œil pour œil**, dent pour dent, vie pour vie… est l’attitude vengeresse de représailles que la société a adoptée dans les temps primitifs et que toutes les tribus en voie d’évolution ont suivie <a id="a207_196"></a>[LU 70:10.9](/fr/The_Urantia_Book/70#p10_9) (Cf %%0% %). Bien plus tard, cette reconnaissance fut mise par écrit et considérée comme la loi de Moïse.
 
-La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait totalement, puisqu'il rejetait toute notion de ressentiment ou de vengeance privée (Cf <a id="a209_160"></a>[LU 140:8.5](/fr/The_Urantia_Book/140#p8_5)) - fut : «  Votre règle n'est pas d'être mesure pour mesure... Vous rendrez « le bien pour le mal  » (<a id="a209_306"></a>[LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)). Il a osé proposer l'idée novatrice de «  faire quelque chose de positif pour sauver le malfaiteur au lieu de suivre le vieux principe des représailles  » (<a id="a209_507"></a>[LU 159:5.11](/fr/The_Urantia_Book/159#p5_11)). «  Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien  » (<a id="a209_653"></a>[LU 156:2.7](/fr/The_Urantia_Book/156#p2_7)). Jésus abhorrait à la fois l’idée de vengeance et l’idée de se résigner à être une victime passive de l’injustice. Il a donc proposé avec audace cette troisième voie au conflit.
+La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait totalement, puisqu'il rejetait toute notion de ressentiment ou de vengeance privée (Cf <a id="a209_160"></a>[LU 140:8.5](/fr/The_Urantia_Book/140#p8_5)) - fut : «  Votre règle n'est pas d'être mesure pour mesure... Vous rendrez « le bien pour le mal  » (<a id="a209_306"></a>[LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)). Il a osé proposer l'idée novatrice de «  faire quelque chose de positif pour sauver le malfaiteur au lieu de suivre le vieux principe des représailles » (<a id="a209_507"></a>[LU 159:5.11](/fr/The_Urantia_Book/159#p5_11)). «  Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien  » (<a id="a209_653"></a>[LU 156:2.7](/fr/The_Urantia_Book/156#p2_7)). Jésus abhorrait à la fois l’idée de vengeance et l’idée de se résigner à être une victime passive de l’injustice. Il a donc proposé avec audace cette troisième voie au conflit.
 <br style="clear:both;"/>
 
 [Lire la suite](/fr/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
@@ -235,7 +235,7 @@ Je suis arrivé au _Livre d'Urantia_ en lisant _La Rébellion de Lucifer_ de J.J
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
 </figure>
 
-L'École Internationale du Livre d'Urantia (UBIS) propose une série de webinaires «  In Focus  » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
+L'École Internationale du Livre d'Urantia (UBIS) propose une série de webinaires «  In Focus » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
 
 En espagnol, les séances durent entre 60 et 90 minutes et ont lieu un samedi par mois à 18h (heure de Madrid, Paris, Rome). Le présentateur fait une présentation introductive sur le sujet en question, après quoi le public a la possibilité de participer à une discussion.
 
@@ -245,7 +245,7 @@ Voici la présentation prévue pour le mois d'octobre :
 **Heure : 18h00** **CET** (Madrid, Paris, Rome)
 **Titre : L'univers local de Nébadon : aspects physiques**
 **Présenté par :** **Santiago Rodriguez**
-Salle Zoom : [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
+Salle Zoom : [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
 
 <br style="clear:both;"/>
 

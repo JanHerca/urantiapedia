@@ -159,7 +159,7 @@ Nagawa Parvata Vihârâdhipati
 
 Guna Megu Wini-Lankara,
 
-                Harbing, Chittagong, Bengal.
+                Harbing, Chittagong, Bengal.
 
 
 <figure class="table chapter-navigator">

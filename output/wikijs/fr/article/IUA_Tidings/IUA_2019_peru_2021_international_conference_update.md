@@ -96,7 +96,7 @@ Quand on pense aux hautes montagnes, certaines personnes s’inquiètent du mal 
 <img src="/image/article/IUA_Tidings/RESTAURANT-3-300x300.jpg">
 </figure>
 
-(Note : les coûts indiqués dans cette section ne comprennent pas l’hébergement ou l’entrée aux sites archéologiques. Voir plus de détails à ce sujet dans les sections ci-dessous). Le prix du congrès est de **330 $ US** et comprend les services suivants :
+(Note : les coûts indiqués dans cette section ne comprennent pas l’hébergement ou l’entrée aux sites archéologiques. Voir plus de détails à ce sujet dans les sections ci-dessous). Le prix du congrès est de **330 $ US** et comprend les services suivants :
 
 - Tous les diners et soupers d’une cuisine de qualité.
 - Pause-café et collations en milieu de matinée et en après-midi.
@@ -110,13 +110,13 @@ Quand on pense aux hautes montagnes, certaines personnes s’inquiètent du mal 
 
 ## Inscription
 
-Les inscriptions sont désormais ouvertes ! Inscrivez-vous dès maintenant à cet événement mémorable au Pérou et recevez une remise promotionnelle exclusive de 120,00 USD et ne payez que 330,00 USD si vous vous inscrivez avant le 31 mars 2020.
+Les inscriptions sont désormais ouvertes ! Inscrivez-vous dès maintenant à cet événement mémorable au Pérou et recevez une remise promotionnelle exclusive de 120,00 USD et ne payez que 330,00 USD si vous vous inscrivez avant le 31 mars 2020.
 
 [Register now](https://cvent.me/kMVko7)
 
-**_Remarque :_** Le paiement par carte de crédit au lieu de PayPal lors du paiement permet aux organisateurs d'économiser des frais supplémentaires !
+**_Remarque :_** Le paiement par carte de crédit au lieu de PayPal lors du paiement permet aux organisateurs d'économiser des frais supplémentaires !
 
-Pour plus d'informations sur l'inscription et l'hébergement : [Click Here](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
+Pour plus d'informations sur l'inscription et l'hébergement : [Click Here](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
 
 ## Coûts supplémentaires :
 
@@ -126,7 +126,7 @@ Pour plus d'informations sur l'inscription et l'hébergement : [Click Here](htt
 <img src="/image/article/IUA_Tidings/SITE-URUBAMBA-2-300x300.jpg">
 </figure>
 
-Le prix du billet touristique varie entre environ 10 $ US et 40 $ US. Le billet permet d’accéder à divers sites archéologiques. La raison pour laquelle ce coût n’est pas inclus dans les montants principaux du congrès est qu’il dépend du type de billet dont chaque personne a besoin, ce qui peut varier en fonction de son statut (par exemple, national, étranger ou étudiant) et du nombre de jours ou d’attractions touristiques couverts par le billet. (Certains peuvent choisir de faire un voyage après le congrès). Pour connaître le coût exact des billets touristiques, cliquez ici: [Cusco touristic ticket](https://www.cuscoperu.com/fr/useful-information/touristic-tickets/cusco-touristic-ticket)
+Le prix du billet touristique varie entre environ 10 $ US et 40 $ US. Le billet permet d’accéder à divers sites archéologiques. La raison pour laquelle ce coût n’est pas inclus dans les montants principaux du congrès est qu’il dépend du type de billet dont chaque personne a besoin, ce qui peut varier en fonction de son statut (par exemple, national, étranger ou étudiant) et du nombre de jours ou d’attractions touristiques couverts par le billet. (Certains peuvent choisir de faire un voyage après le congrès). Pour connaître le coût exact des billets touristiques, cliquez ici: [Cusco touristic ticket](https://www.cuscoperu.com/fr/useful-information/touristic-tickets/cusco-touristic-ticket)
 <br style="clear:both;"/>
 
 ### Hébergement
@@ -135,7 +135,7 @@ Le prix du billet touristique varie entre environ 10 $ US et 40 $ US. Le bille
 <img src="/image/article/IUA_Tidings/HOTEL-CASONA-YUCAY-2-300x225.jpg">
 </figure>
 
-Les possibilités d’hébergement prévues vont de l’hôtel cinq étoiles — haciendas à des hôtels plus petits (mais non moins accueillant et beaux) — en fonction des budgets individuels. Tous les logements sont proches les uns des autres. Le prix de l’hébergement comprend le petit-déjeuner selon l’hôtel dans lequel chaque personne choisit de séjourner. Voici une liste des différents hôtels, avec leurs différentes gammes de prix et liens, au cas où vous souhaiteriez faire une réservation pour les dates mentionnées (arrivée : 22 avril / départ : 25 avril 2021)
+Les possibilités d’hébergement prévues vont de l’hôtel cinq étoiles — haciendas à des hôtels plus petits (mais non moins accueillant et beaux) — en fonction des budgets individuels. Tous les logements sont proches les uns des autres. Le prix de l’hébergement comprend le petit-déjeuner selon l’hôtel dans lequel chaque personne choisit de séjourner. Voici une liste des différents hôtels, avec leurs différentes gammes de prix et liens, au cas où vous souhaiteriez faire une réservation pour les dates mentionnées (arrivée : 22 avril / départ : 25 avril 2021)
 
 [Hotel Tambo del Inca](https://www.marriott.com/hotels/event-planning/business-meeting/cuztl-tambo-)
 RÉSERVATION : [corporativo@libertador.com.pe](mailto:corporativo@libertador.com.pe)
@@ -162,9 +162,9 @@ Une fois votre inscription terminée, nous informerons l’hôtel de votre pré-
 
 ## Mises à jour et intérêt
 
-Pour suivre le déroulement du congrès, visitez le site Web de l’Association Urantia à l’adresse : [https://urantia-association.org/2018/2021-urantia-int-conf-peru](https://urantia-association.org/2018/2021-urantia-int-conf-peru).
+Pour suivre le déroulement du congrès, visitez le site Web de l’Association Urantia à l’adresse : [https://urantia-association.org/2018/2021-urantia-int-conf-peru](https://urantia-association.org/2018/2021-urantia-int-conf-peru).
 
-Si vous désirez recevoir de l’information et des mises à jour sur l’inscription ou autres questions concernant le congrès, veuillez consulter le formulaire de contact sur le site Web de l’Association à l’adresse [https://urantia-association.org/about-uai/contact-us](https://urantia-association.org/about-uai/contact-us). Veuillez ensuite remplir le formulaire en fournissant vos coordonnées, et dans la fenêtre de texte du message ci-dessous, indiquez votre demande pour recevoir des mises à jour concernant le Congrès international 2021 au Pérou. Cliquez ensuite sur le bouton bleu « Soumettre ». (Votre message sera automatiquement envoyé aux personnes désignées qui vous inscriront sur une liste pour recevoir toutes les mises à jour futures et les informations sur le congrès.)
+Si vous désirez recevoir de l’information et des mises à jour sur l’inscription ou autres questions concernant le congrès, veuillez consulter le formulaire de contact sur le site Web de l’Association à l’adresse [https://urantia-association.org/about-uai/contact-us](https://urantia-association.org/about-uai/contact-us). Veuillez ensuite remplir le formulaire en fournissant vos coordonnées, et dans la fenêtre de texte du message ci-dessous, indiquez votre demande pour recevoir des mises à jour concernant le Congrès international 2021 au Pérou. Cliquez ensuite sur le bouton bleu « Soumettre ». (Votre message sera automatiquement envoyé aux personnes désignées qui vous inscriront sur une liste pour recevoir toutes les mises à jour futures et les informations sur le congrès.)
 
 ## Dons
 
@@ -174,11 +174,11 @@ Pour que le plus grand nombre possible de personnes puissent participer, nous vo
 
 Lourdes Burga-Cisneros
 Présidente de l’Association Nationale Urantia Pérou
-Courriel : [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.com)
+Courriel : [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.com)
 
 Antonio Schefer
 Président des congrès, Association Urantia Internationale
-Courriel : [conferences@urantia-association.org](mailto:conferences@urantia-association.org)
+Courriel : [conferences@urantia-association.org](mailto:conferences@urantia-association.org)
 
 Voici une galerie de photos de l’endroit et de ses environs ainsi que de quelques hôtels à proximité :
 

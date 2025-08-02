@@ -35,7 +35,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 
 
-El 16 de mayo, algunos grupos de estudio se reunieron para el Día Internacional del Estudio anual. Este año, leímos los Documentos 160 y 161 – _Rodán de Alejandría_ y _Otras discusiones con Rodán._ A continuación hay algunas reflexiones de varios de los grupos que se reunieron.
+El 16 de mayo, algunos grupos de estudio se reunieron para el Día Internacional del Estudio anual. Este año, leímos los Documentos 160 y 161 – _Rodán de Alejandría_ y _Otras discusiones con Rodán._ A continuación hay algunas reflexiones de varios de los grupos que se reunieron.
 
 ## Canberra visita Sidney
 
@@ -57,7 +57,7 @@ A veces no está del todo claro si los intermedios están citando a Rodán más 
 
 La mayoría de nosotros conocíamos estos documentos bastante bien, y hubo algunas discusiones animadas y mucha diversión al intentar diferentes especulaciones.
 
-Enhorabuena, Sidney, por un estudio plenamente placentero e instructivo. 
+Enhorabuena, Sidney, por un estudio plenamente placentero e instructivo. 
 
 Saludos.
 William Wentworth, Canberra
@@ -104,7 +104,7 @@ Julian McGarry
 <img src="/image/article/IUA_Tidings/Forum-Study-Day-300x136.jpg">
 </figure>
 
-Además de reunirme con mi grupo de estudio, tuve el privilegio de que se me pidiera facilitar un grupo de estudio en línea, a través del foro web de la Asociación Urantia Internacional. Esto permitió que estudiantes y lectores de todo el mundo que están aislados o no tienen la posibilidad de asistir a un grupo de estudio se reunieran y conversaran sobre los documentos de Rodán, y enviaran sus comentarios al foro. Personalmente me beneficié enormemente de este papel, porque implicaba que tenía que leer el material muy atentamente con el fin de estar debidamente preparado para leer los comentarios de mis hermanos y hermanas procedentes de rincones alejados del globo. Este sistema está todavía en sus primeros días; con mayor publicidad, un equipo de traductores y más tiempo de rodaje, tiene el potencial de convertirse en una herramienta muy útil y popular, especialmente para aquellos que no tienen a otros lectores cerca.
+Además de reunirme con mi grupo de estudio, tuve el privilegio de que se me pidiera facilitar un grupo de estudio en línea, a través del foro web de la Asociación Urantia Internacional. Esto permitió que estudiantes y lectores de todo el mundo que están aislados o no tienen la posibilidad de asistir a un grupo de estudio se reunieran y conversaran sobre los documentos de Rodán, y enviaran sus comentarios al foro. Personalmente me beneficié enormemente de este papel, porque implicaba que tenía que leer el material muy atentamente con el fin de estar debidamente preparado para leer los comentarios de mis hermanos y hermanas procedentes de rincones alejados del globo. Este sistema está todavía en sus primeros días; con mayor publicidad, un equipo de traductores y más tiempo de rodaje, tiene el potencial de convertirse en una herramienta muy útil y popular, especialmente para aquellos que no tienen a otros lectores cerca.
 
 ¡Amor y mis mejores deseos para todos ustedes!
 Julian McGarry

@@ -39,7 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Lilian Muthui, Kenya_
 
-_Editor’s Note: Lilian Muthui of Kenya was a recipient of the second round of Mustard Seed Grant awards in 2023. She shares her completed project below._
+_Editor’s Note: Lilian Muthui of Kenya was a recipient of the second round of Mustard Seed Grant awards in 2023. She shares her completed project below._
 
 _In addition to over 623,500 registered refugees and asylum seekers, Kenya also has an internally displaced population (IDP) of around 380,000 people, ranking seventh in Africa for the number of IDPs. Displacement in Kenya can be caused by a variety of factors, including conflict, natural and man-made disasters, and human-rights violations_.
 

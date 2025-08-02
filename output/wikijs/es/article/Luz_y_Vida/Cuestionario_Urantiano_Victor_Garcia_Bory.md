@@ -82,7 +82,7 @@ Sexto, _El libro de Urantia_ me ha permitido elegir mejor el tipo de vida que he
 
 Y séptimo, me ha sido inconmensurablemente valioso en mis esfuerzos imperfectos por tratar de ser un mejor hijo, hermano, esposo, padre, y amigo.
 
-##  5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
+##  5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 
 Como el libro mismo declara: «En su verdadera esencia la religión es una fe confiada en la bondad de Dios». <a id="a86_108"></a>[LU 2:6.1](/es/The_Urantia_Book/2#p6_1) «Durante mucho tiempo, tendréis que practicar la fe y depender de la revelación si esperáis progresar con rapidez y seguridad». <a id="a86_276"></a>[LU 19:5.12](/es/The_Urantia_Book/19#p5_12)
 
@@ -106,11 +106,11 @@ Comenzar a comprender realidades de la cosmología, religión, filosofía, histo
 
 Esta es una maravillosa y difícil pregunta. Comparto las siguientes cuatro citas del libro, que encuentro esclarecedoras en mis esfuerzos por encontrar una respuesta:
 
->  Hacer la voluntad de Dios no es ni más ni menos que mostrar la disposición de la criatura a compartir su vida interior con Dios, con el mismo Dios que ha hecho posible la vida de esa criatura con sus valores-significados interiores. Compartir es asemejarse a Dios, es un acto divino. Dios lo comparte todo con el Hijo Eterno y con el Espíritu Infinito, y ellos a su vez comparten todas las cosas con los Hijos divinos y con las Hijas espíritu de los universos. <a id="a108_464"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)
+>  Hacer la voluntad de Dios no es ni más ni menos que mostrar la disposición de la criatura a compartir su vida interior con Dios, con el mismo Dios que ha hecho posible la vida de esa criatura con sus valores-significados interiores. Compartir es asemejarse a Dios, es un acto divino. Dios lo comparte todo con el Hijo Eterno y con el Espíritu Infinito, y ellos a su vez comparten todas las cosas con los Hijos divinos y con las Hijas espíritu de los universos. <a id="a108_464"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)
 
->  …La afectuosa dedicación de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacer a Dios. De hecho, tal consagración de la voluntad de la criatura constituye el único regalo posible de verdadero valor que puede hacer el hombre al Padre del Paraíso. <a id="a110_298"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2) 
+>  …La afectuosa dedicación de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacer a Dios. De hecho, tal consagración de la voluntad de la criatura constituye el único regalo posible de verdadero valor que puede hacer el hombre al Padre del Paraíso. <a id="a110_298"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2) 
 
-> Imitar a Dios es la clave de la perfección. Hacer su voluntad es el secreto de la supervivencia y de la perfección en la supervivencia. <a id="a112_138"></a>[LU 111:5.2](/es/The_Urantia_Book/111#p5_2) 
+> Imitar a Dios es la clave de la perfección. Hacer su voluntad es el secreto de la supervivencia y de la perfección en la supervivencia. <a id="a112_138"></a>[LU 111:5.2](/es/The_Urantia_Book/111#p5_2) 
 
 > La verdad revelada, la verdad descubierta personalmente, es el deleite supremo del alma humana. Es la creación conjunta de la mente material y el espíritu que mora en su interior. La salvación eterna del alma que percibe la verdad y ama la belleza está asegurada por el hambre y sed de bondad que llevan a ese mortal a proponerse como único objetivo hacer la voluntad del Padre, encontrar a Dios y hacerse como él. <a id="a114_417"></a>[LU 132:3.4](/es/The_Urantia_Book/132#p3_4)
 
@@ -128,7 +128,7 @@ Esta pregunta me recuerda tres citas del libro azul:
 
 Como muchos hacemos, las intento poner en práctica en todos los ámbitos de mi vida de forma cotidiana, con mayor o menor éxito, con aciertos y fallos. Es un proceso que da inicio en esta vida, pero va más allá.
 
-Los resultados son inmensos y de alguna forma los he descrito en algunas de mis respuestas a las preguntas anteriores. Aunque sería imposible detallarlos en este espacio, quisiera ofrecer la siguiente reflexión: poner en práctica las enseñanzas del Maestro constituye el reto y objetivo de la vida humana, el empeñarse y trabajar en lo individual y en equipo acorde con ellas, incluyendo el buscar hacer la voluntad del Padre, rendir los frutos del espíritu en nuestra vida diaria, y ser de servicio a nuestros semejantes acorde con su ejemplo y guía. Ahora comparto algunas citas que he encontrado inspiradoras y orientadoras: 
+Los resultados son inmensos y de alguna forma los he descrito en algunas de mis respuestas a las preguntas anteriores. Aunque sería imposible detallarlos en este espacio, quisiera ofrecer la siguiente reflexión: poner en práctica las enseñanzas del Maestro constituye el reto y objetivo de la vida humana, el empeñarse y trabajar en lo individual y en equipo acorde con ellas, incluyendo el buscar hacer la voluntad del Padre, rendir los frutos del espíritu en nuestra vida diaria, y ser de servicio a nuestros semejantes acorde con su ejemplo y guía. Ahora comparto algunas citas que he encontrado inspiradoras y orientadoras: 
 
 > Jesús fundó la religión de la experiencia personal de hacer la voluntad de Dios y servir a la hermandad humana. <a id="a132_114"></a>[LU 196:2.6](/es/The_Urantia_Book/196#p2_6)
 
@@ -159,7 +159,7 @@ Entiendo que algunas de las cosas más importantes que los humanos podemos hacer
 
 Hagamos todos juntos, en unión y fe, un esfuerzo vigoroso por vivir y servir acorde a las enseñanzas de este tesoro maravilloso llamado _El libro de Urantia_. Dejo a todas y a todos algunas de mis citas favoritas:
 
-> …Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el _trabajo en equipo_. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. <a id="a161_237"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
+> …Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el _trabajo en equipo_. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. <a id="a161_237"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 
 > Aunque vuestra religión sea una experiencia personal, es muy importante que toméis conocimiento de muchas otras experiencias religiosas (las diversas interpretaciones de otros mortales) para evitar que vuestra vida religiosa se vuelva egocéntrica, es decir, circunscrita, egoísta y asocial. <a id="a163_293"></a>[LU 103:1.3](/es/The_Urantia_Book/103#p1_3)
 
@@ -167,7 +167,7 @@ Hagamos todos juntos, en unión y fe, un esfuerzo vigoroso por vivir y servir ac
 
 > «Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes del vivir humano es averiguar lo que Jesús creía, descubrir sus ideales y esforzarse por alcanzar el elevado objetivo de su vida. Lo más valioso de todo el saber humano es conocer la vida religiosa de Jesús y su manera de vivirla. <a id="a167_433"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
 
-> El gran desafío del hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que mora en la mente humana. La mayor aventura del hombre en la carne consiste en el esfuerzo sensato y equilibrado de hacer avanzar las fronteras de la consciencia de sí mismo hasta atravesar los confusos dominios de la consciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la consciencia del espíritu, el contacto con la presencia divina. <a id="a169_483"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34)
+> El gran desafío del hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que mora en la mente humana. La mayor aventura del hombre en la carne consiste en el esfuerzo sensato y equilibrado de hacer avanzar las fronteras de la consciencia de sí mismo hasta atravesar los confusos dominios de la consciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la consciencia del espíritu, el contacto con la presencia divina. <a id="a169_483"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34)
 
 > …El amor es la más grande de todas las realidades del espíritu. La verdad es una revelación liberadora, pero el amor es la relación suprema. Y sin importar los desatinos que vuestros semejantes humanos cometan en la gestión del mundo de hoy, el evangelio que os proclamo gobernará este mismo mundo en una edad futura. La meta última del progreso humano es el reconocimiento reverente de la paternidad de Dios y la materialización amorosa de la hermandad de los hombres. <a id="a171_472"></a>[LU 143:1.4](/es/The_Urantia_Book/143#p1_4)
 

@@ -39,11 +39,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/g.jpg">
 </figure>
 
-Comme au cours des années précédentes, l’Association Urantia des Pays-Bas (UAISUN) organise le congrès annuel d’Urantia 2017 pour les étudiants néerlandais le 21 août. Nous célébrerons également la naissance de Jésus de Nazareth, l’incarnation de Micaël de Nébadon.
+Comme au cours des années précédentes, l’Association Urantia des Pays-Bas (UAISUN) organise le congrès annuel d’Urantia 2017 pour les étudiants néerlandais le 21 août. Nous célébrerons également la naissance de Jésus de Nazareth, l’incarnation de Micaël de Nébadon.
 
 L’année dernière, nous avons eu une hausse du nombre de participants en comparaison des années précédentes ; nous espérons que ce développement se poursuivra.
 
-Le congrès de cette année se concentrera sur : Jésus en tant qu’être humain, comme un exemple de vie, comme un guide exemplaire. Nous explorerons comment Jésus s’est développé en tant qu’être humain avant sa vie publique.
+Le congrès de cette année se concentrera sur : Jésus en tant qu’être humain, comme un exemple de vie, comme un guide exemplaire. Nous explorerons comment Jésus s’est développé en tant qu’être humain avant sa vie publique.
 
 Le lieu du congrès sera encore le Estate Groot Kievitsdal: ([www.grootkievitsdal.nl](http://www.grootkievitsdal.nl/)). Ce magnifique centre est parfaitement équipé pour les réunions sociales.
 

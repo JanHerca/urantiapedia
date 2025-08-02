@@ -96,7 +96,7 @@ Dans la _Bible_ on raconte comment Abraham entend une voix lui disant de quitter
 
 Quelques semaines après la mort de Térah, le père d'Abraham, Melchisédek envoya l'un de ses disciples, Haran le Hittite, avec cette invitation à Abraham et à Nahor : «  Venez à Salem où vous entendrez nos enseignements sur la vérité du Créateur éternel et sur toute la création. « Le monde sera béni par la descendance éclairée des deux frères.  » <a id="a96_348"></a>[LU 93:5.5](/fr/The_Urantia_Book/93#p5_5)
 
-«  Va où je te dis  », dit la Bible. «  Venez à Salem  », nous dit Le Livre d’Urantia. C'est vraiment la voix de la montagne, qui ne veut pas que nous restions coincés dans notre individualité, à nous plaindre de la boue qui nous entoure ou de cette autre pierre ennuyeuse. C’est vraiment un rappel à Lui.
+«  Va où je te dis », dit la Bible. «  Venez à Salem  », nous dit Le Livre d’Urantia. C'est vraiment la voix de la montagne, qui ne veut pas que nous restions coincés dans notre individualité, à nous plaindre de la boue qui nous entoure ou de cette autre pierre ennuyeuse. C’est vraiment un rappel à Lui.
 
 L'exemple le plus clair que nous ayons de quelqu'un qui quitte sa zone de confort, s'expose, expérimente des problèmes et rejoint finalement la «  montagne  », notre Père éternel, nous l'avons en notre bien-aimé Michel de Nébadon. C'est un enseignement étonnant du Livre d'Urantia que celui des formes successives de «  matérialisation  » utilisées par notre Créateur dans le «  corps  » de différentes créatures de son univers. Un mandat supérieur et sage, venant des Anciens des Jours, qu'il devait accomplir. Regardons cette citation éclairante :
 

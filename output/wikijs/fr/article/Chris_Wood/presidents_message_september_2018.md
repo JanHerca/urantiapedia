@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Une des nombreuses raisons pour lesquelles j’aime _Le Livre d’Urantia_ et je le relis en permanence c’est parce qu’il utilise des mots que je pense comprendre, mais dans certains paragraphes pris au hasard de certains fascicules pris au hasard, il définira un mot commun d’une manière peu commune, et soudain je dois revenir en arrière et relire tout avec cette nouvelle définition en tête.
 
-Un exemple récent de cela est la « personnalité » qui, dans un livre où la survie de la personnalité est l’un des principaux points de l’intrigue, j’ai le sentiment que je devrais connaître ce qu’est la personnalité. Et en me promenant dans mon merveilleux vocabulaire limité, je penserais que la « personnalité » serait définie comme… quoi ? … Comme caractère distinctif d’une personne, peut-être ? Un Messager Solitaire nous dit que :
+Un exemple récent de cela est la « personnalité » qui, dans un livre où la survie de la personnalité est l’un des principaux points de l’intrigue, j’ai le sentiment que je devrais connaître ce qu’est la personnalité. Et en me promenant dans mon merveilleux vocabulaire limité, je penserais que la « personnalité » serait définie comme… quoi ? … Comme caractère distinctif d’une personne, peut-être ? Un Messager Solitaire nous dit que :
 
 <br style="clear:both;"/>
 

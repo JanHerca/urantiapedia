@@ -62,9 +62,9 @@ Y de paso, aderezadas esta vez por estas tres más que también me gustan mucho:
 
 Cómo diríamos en Venezuela: ¿Para qué más?
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
-Desde que empecé a leerlo, se convirtió en una lectura favorita, recurrente y necesaria. Diría más bien que vital. Siento que me alimento espiritualmente cada vez que lo leo. Se encompinchó (se alió) prácticamente con la Biblia para hacer las delicias de mi intelecto, de mi fe y de mis aspiraciones espirituales. Desde entonces, les llevo para arriba y para abajo, y sé, que dondequiera que me encuentre, son cada uno de ellos para mí, como una tarjeta de débito espiritual que nunca se agota. Y cuando uno se siente espiritualmente rico, ya no necesita más nada y puede gritar al mundo, como gritaba aquel famoso poeta de antaño: «En verdad no tengo nada, y sin embargo lo tengo todo». 
+Desde que empecé a leerlo, se convirtió en una lectura favorita, recurrente y necesaria. Diría más bien que vital. Siento que me alimento espiritualmente cada vez que lo leo. Se encompinchó (se alió) prácticamente con la Biblia para hacer las delicias de mi intelecto, de mi fe y de mis aspiraciones espirituales. Desde entonces, les llevo para arriba y para abajo, y sé, que dondequiera que me encuentre, son cada uno de ellos para mí, como una tarjeta de débito espiritual que nunca se agota. Y cuando uno se siente espiritualmente rico, ya no necesita más nada y puede gritar al mundo, como gritaba aquel famoso poeta de antaño: «En verdad no tengo nada, y sin embargo lo tengo todo». 
 
 ## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 

@@ -317,9 +317,9 @@ Au début, j’ai été déçu, car je m’attendais à un autre type de lecture
 
 Association Urantia d'Espagne
 
-**Dates :** du 7 au 9 septembre 2023
+**Dates :** du 7 au 9 septembre 2023
 **Emplacement :** Hôtel Santa Cecilia, C/Tinte nº 3, **CIUDAD REAL**
-**Sujet :** L’engagement d’être croyant. Pratiques de vie à la lumière du Livre d'Urantia
+**Sujet :** L’engagement d’être croyant. Pratiques de vie à la lumière du Livre d'Urantia
 
 <br style="clear:both;"/>
 

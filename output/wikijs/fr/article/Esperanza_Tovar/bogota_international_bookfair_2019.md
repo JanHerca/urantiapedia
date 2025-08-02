@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Bogota-BF-2019-4-300x224.jpg">
 </figure>
 
-Une fois de plus, l’Association Urantia de Bogota, avec le soutien de l’Association Urantia Internationale, était présente à la célèbre Foire Internationale du Livre de Bogota : FILBO 2019.
+Une fois de plus, l’Association Urantia de Bogota, avec le soutien de l’Association Urantia Internationale, était présente à la célèbre Foire Internationale du Livre de Bogota : FILBO 2019.
 
 Cette année, nous avions un grand kiosque situé dans l’un des meilleurs pavillons de la foire — le pavillon des universités — qui nous a valu un public plus intellectuel avec des questions plus profondes qu’à l’habitude. Nous avons été mis au défi d’approfondir nos réponses et nos discussions, donc de consacrer plus de temps à chaque visiteur. C’était très agréable de parler avec des jeunes étudiants universitaires de cette ville, avec leur soif exceptionnelle de connaissance et leur désir de comprendre des choses de nature spirituelle.
 

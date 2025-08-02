@@ -54,7 +54,7 @@ I observe the precept to abstain from receiving gold or silver.
 
 The whole _Dasa_, or _Bhikkhu Sîla_, or Ten Precepts, are binding on _all_ Bhikkhus and Samaneras, or novices, but optional with lay devotees.
 
-The _Althanga Sîla_ are for those who aspire to higher stages beyond the heavenly regions, [^22] aspirants after Nirvâṇa.
+The _Althanga Sîla_ are for those who aspire to higher stages beyond the heavenly regions, [^22] aspirants after Nirvâṇa.
 
 259\. Q. _Are there separate Rules and Precepts for the guidance and discipline of the Order?_
 
@@ -116,7 +116,7 @@ A. The candidate is not often taken before his tenth <span id="p79"><sup><small>
 
 263\. Q. _As a novice what is he called?_
 
-A. _Samanera_, a pupil. [^23]
+A. _Samanera_, a pupil. [^23]
 
 264\. Q. _At what age can a Samanera be ordained as Sranrana—monk?_
 
@@ -144,7 +144,7 @@ A. Once every fortnight, a _Patimokka_ (Disburdenment) ceremony is performed, wh
 
 A. He rises before daylight, washes, sweeps the vihâra, sweeps around the Bo-tree that grows near every vihâra, brings the drinking-water for the day and filters it; retires for meditation, offers flowers before the dagoba, or relic-mound, or before the Bo-tree; then takes his begging-bowl and goes from house to house collecting food—which he must not ask for, but receive in his bowl as given voluntarily by the householders. He returns, bathes his feet and eats, after which he resumes meditation.
 
-270\. Q. _Must we believe that there is no merit in_ 
+270\. Q. _Must we believe that there is no merit in_ 
 
 <span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 

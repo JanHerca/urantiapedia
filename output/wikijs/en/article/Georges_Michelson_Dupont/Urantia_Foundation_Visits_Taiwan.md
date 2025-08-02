@@ -56,7 +56,7 @@ Vicki Yang is a truth seeker who translated _A Course in Light_—a series of le
 
 She is a woman of great wisdom and remarkable empathy, with a keen sense of organization. She displays a natural leadership, and her students, the vast majority of whom are women, trust and love her. She has developed a spiritual thirst in her students which makes the teachings of revelation a natural extension of their search for personal spiritual evolution.
 
-Having become familiar with _The Urantia Book,_ Vicki took part in a 1997 meeting of translators organized by Urantia Foundation in Paris. In 2014, Vicki contacted the Foundation, and committed herself to working on the translation of _The Urantia Book_ using Traditional Chinese characters. She agreed to use the same term list as the simplified version so that the two would be compatible and consistent. 
+Having become familiar with _The Urantia Book,_ Vicki took part in a 1997 meeting of translators organized by Urantia Foundation in Paris. In 2014, Vicki contacted the Foundation, and committed herself to working on the translation of _The Urantia Book_ using Traditional Chinese characters. She agreed to use the same term list as the simplified version so that the two would be compatible and consistent. 
 
 ## The Conference
 

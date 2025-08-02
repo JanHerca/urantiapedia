@@ -65,9 +65,9 @@ En el centro de París, en un entorno verde, en el hotel [CIS-PARIS-RAVEL](https
 
 Como no es un evento francés, sino europeo, buscamos a personas que dirijan presentaciones y talleres, en función de la amplia gama de temas. Puede haber alguna noche musical. Habrá una reunión de líderes de la Asociación Urantia y terminaremos con presentaciones de las asociaciones europeas.
 
-Contacten con el equipo en: « evenement\_2025@urantia.fr »
+Contacten con el equipo en: « evenement\_2025@urantia.fr »
 
-¿Dónde encontrar información? En la web (francés e inglés): [Europe2025.urantia.fr](https://europe2025.urantia.fr/)
+¿Dónde encontrar información? En la web (francés e inglés): [Europe2025.urantia.fr](https://europe2025.urantia.fr/)
 
 La información se irá actualizando hasta finales de 2024, cuando todo esté planeado.
 

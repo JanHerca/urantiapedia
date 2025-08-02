@@ -41,13 +41,13 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Daughters-of-God-Juin-150x150.jpg">
 </figure>
 
-Quand ?  Du 21 au 24 septembre 2017
+Quand ? Du 21 au 24 septembre 2017
 
-Où ?  Fondation Urantia, Chicago
+Où ? Fondation Urantia, Chicago
 
 Comme notre série de retraites féminines se continue à la Fondation Urantia, l’équipe d’animatrices « Daughters of God » vous invite à un week-end intime, expérientiel et plaisant.
 
-Lors de leur prochaine retraite « Danser avec Dieu – Émerger dans la sagesse », quatre filles de Dieu ont conçu un programme où elles créeront un milieu de confiance dans un cercle spirituel, exploreront ensemble des questions telles que :
+Lors de leur prochaine retraite « Danser avec Dieu – Émerger dans la sagesse », quatre filles de Dieu ont conçu un programme où elles créeront un milieu de confiance dans un cercle spirituel, exploreront ensemble des questions telles que :
 <br style="clear:both;"/>
 
 - Qu’est-ce que cette déclaration signifie pour vous : « Jésus n’a jamais manqué d’exalter le caractère sacré de l’individu ? »

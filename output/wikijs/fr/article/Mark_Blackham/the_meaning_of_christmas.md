@@ -57,7 +57,7 @@ Les raisons de l’effusion de Micaël sont nombreuses et sont mieux résumées 
 7. Assurer le bien-être physique et le confort matériel de ses frères dans la chair.
 8. Vivre une vie religieuse idéale pour l’instruction, l’inspiration et l’édification de tout son univers. Être l’inspiration pour toutes les vies sur tous les mondes de Nébadon à travers toutes les générations dans les âges à venir.
 9. Faire une nouvelle révélation de l’homme à Dieu. Révéler Dieu dans la chair et surtout aux créatures de la chair.
-10.  Exposer comme jamais auparavant à Nébadon les possibilités transcendantes que peut atteindre un humain connaissant Dieu pendant la courte carrière de l’existence mortelle.
+10.  Exposer comme jamais auparavant à Nébadon les possibilités transcendantes que peut atteindre un humain connaissant Dieu pendant la courte carrière de l’existence mortelle.
 
 Et après tout cela, il nous est rappelé de « _ne jamais perdre de vue le fait que le **but spirituel suprême** de l’effusion de Micaël était de renforcer la révélation de Dieu_ » <a id="a61_179"></a>[[LU 120:4.4](/fr/The_Urantia_Book/120#p4_4) emphasis added].
 

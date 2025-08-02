@@ -40,19 +40,19 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Jim English, Californie, États-Unis_
 
-_Note de l'éditeur : La version brochée de l’Histoire Méconnue Jésus n'existerait pas sans le savoir faire indéfectible de Jim English, lecteur de longue date et bénévole, qui a consacré d'innombrables heures à l'édition et au formatage du livre pour ce projet. Nous remercions collectivement Jim pour son engagement à mener à bien ce projet, qui a donné d'excellents résultats._
+_Note de l'éditeur : La version brochée de l’Histoire Méconnue Jésus n'existerait pas sans le savoir faire indéfectible de Jim English, lecteur de longue date et bénévole, qui a consacré d'innombrables heures à l'édition et au formatage du livre pour ce projet. Nous remercions collectivement Jim pour son engagement à mener à bien ce projet, qui a donné d'excellents résultats._
 
 La première édition de _l’Histoire Méconnue de Jésus a_ été publiée en 2019 par Urantia Press, le label de la Fondation Urantia. Ce livre beau livre illustré professionnellement conçu est devenu un ouvrage secondaire à succès, grâce aux illustrations exquises et souvent originales, aux éléments de l'encadré et au récit captivant du Jésus que nous connaissons et aimons tous. En 2020, une deuxième impression incluait des cartes améliorées et des tableaux supplémentaires .
 
-Au fil du temps, l'équipe s'est arrêtée pour réfléchir sur une leçon importante dans le monde de l'édition : les nouveautés sont souvent synonymes d'augmentation des ventes. Mais qu'est-ce qui pouvait bien être « nouveau et amélioré » dans un si beau livre ?
+Au fil du temps, l'équipe s'est arrêtée pour réfléchir sur une leçon importante dans le monde de l'édition : les nouveautés sont souvent synonymes d'augmentation des ventes. Mais qu'est-ce qui pouvait bien être « nouveau et amélioré » dans un si beau livre ?
 
 La qualité du contenu n'est plus à démontrer. Mais, très franchement, il est volumineux et n'est pas un livre que l'on peut transporter ou lire dans un café, c'est pourquoi nous avons entrepris de le remanier pour en faire une édition brochée portative.
 
 Il ne s'agit pas d'un livre de broché classique. Nous l'avons conçu pour qu'il soit suffisamment grand pour contenir tout le contenu (un peu plus de 7" x 9½" x ¾" pour 400 pages), et il est doté d'un papier d'art de haute qualité, de sorte que les tableaux continuent de briller. La refonte nous a permis d'ajouter quelques tableaux supplémentaires. Plus important encore, nous avons pu inclure certaines des histoires et des enseignements les plus appréciés du Maître, qui n'auraient tout simplement pas pu trouver leur place auparavant.
 
-La couverture a également été redessinée, et elle est ravissante avec un gatefold laminé brillant. Plus mince, plus légère, sans jamais compromettre la beauté artistique de la version reliée originale, cette nouvelle version trouvera sa place dans votre sac à dos, votre sac à main, votre boîte aux lettres et sur vos étagères. Elle conviendra également mieux aux « petites bibliothèques » de quartier, aux hôpitaux, aux hospices, aux bibliothèques, aux hôtels, aux bateaux de croisière, aux auberges de jeunesse — ou pour offrir un cadeau personnel à quelqu'un que vous aimez.
+La couverture a également été redessinée, et elle est ravissante avec un gatefold laminé brillant. Plus mince, plus légère, sans jamais compromettre la beauté artistique de la version reliée originale, cette nouvelle version trouvera sa place dans votre sac à dos, votre sac à main, votre boîte aux lettres et sur vos étagères. Elle conviendra également mieux aux « petites bibliothèques » de quartier, aux hôpitaux, aux hospices, aux bibliothèques, aux hôtels, aux bateaux de croisière, aux auberges de jeunesse — ou pour offrir un cadeau personnel à quelqu'un que vous aimez.
 
-Pré-commandez votre exemplaire dès maintenant !
+Pré-commandez votre exemplaire dès maintenant !
 
 [https://www.amazon.com/Untold-Story-Jesus-Biography-Urantia/dp/0997404922/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8&qid=&sr=](https://www.amazon.com/Untold-Story-Jesus-Biography-Urantia/dp/0997404922/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 

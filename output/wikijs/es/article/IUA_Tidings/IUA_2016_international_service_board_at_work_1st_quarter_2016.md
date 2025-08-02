@@ -96,7 +96,7 @@ He aquí algunos de los asuntos abordados por este equipo durante el primer trim
 
 ## Comité de Recaudación de Fondos – _Chris Wood (presidente)_
 
-Chris informó de que se han alcanzado las metas iniciales a tres años  que se establecieron. El comité comenzó a tratar sobre las metas de los próximos tres años, incluyendo el aumento de las donaciones para Latinoamérica y Europa. Comenzó el trabajo de la recaudación de primavera.
+Chris informó de que se han alcanzado las metas iniciales a tres años que se establecieron. El comité comenzó a tratar sobre las metas de los próximos tres años, incluyendo el aumento de las donaciones para Latinoamérica y Europa. Comenzó el trabajo de la recaudación de primavera.
 
 ## Comité de Finanzas – _Bradly Tharp (presidente)_
 

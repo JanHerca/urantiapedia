@@ -43,11 +43,11 @@ _Voici un rapport sur la réunion Transition à l’Unité qui s’est tenue en 
 <img src="/image/article/IUA_Tidings/Unity-Meeting-Committee-300x225.jpg">
 </figure>
 
-Du 3 au 5 octobre 2016, des représentants de la _Fellowship_ et de l’Association se sont réunis à Chicago, aux États-Unis, pour discuter de la possibilité d’unité entre nos organisations. Cette réunion a été approuvée par le Bureau de Service International et le Conseil des représentants de l’Association, ainsi que par le Conseil exécutif de la _Fellowship_. Chris Wood, Merindi Belarski, Rick Lyon, Share Beasley et Susan Owen représentaient _l’Association_. Michael Challis, Paula Thompson, Steve Dreier, Janet Graham et Geoffrey Theiss ont représenté la _Fellowship_. Janet a dû partir tôt, alors John Hales l’a remplacée le deuxième jour.
+Du 3 au 5 octobre 2016, des représentants de la _Fellowship_ et de l’Association se sont réunis à Chicago, aux États-Unis, pour discuter de la possibilité d’unité entre nos organisations. Cette réunion a été approuvée par le Bureau de Service International et le Conseil des représentants de l’Association, ainsi que par le Conseil exécutif de la _Fellowship_. Chris Wood, Merindi Belarski, Rick Lyon, Share Beasley et Susan Owen représentaient _l’Association_. Michael Challis, Paula Thompson, Steve Dreier, Janet Graham et Geoffrey Theiss ont représenté la _Fellowship_. Janet a dû partir tôt, alors John Hales l’a remplacée le deuxième jour.
 
-La réunion a effectivement commencé à 19 h 30 le dimanche 2 octobre après un délicieux dîner préparé par Jen Siegel. Dana Brademeyer nous a présenté une méthode de réflexion stratégique utilisant la discussion en petits groupes. Le cadre a été fixé en encadrant notre discussion du point de vue d’un gouvernement planétaire. Le cadre de notre discussion s’est orienté d’un point de vue de gouvernement planétaire.  Nous étions un groupe d’étudiants visiteurs sur Urantia provenant d’autres planètes et les superviseurs planétaires nous ont demandé de les conseiller sur les résultats que nous aimerions voir de cette réunion d’unité organisationnelle sur Urantia. Les résultats de cette mission ont servi de base aux discussions du lendemain.
+La réunion a effectivement commencé à 19 h 30 le dimanche 2 octobre après un délicieux dîner préparé par Jen Siegel. Dana Brademeyer nous a présenté une méthode de réflexion stratégique utilisant la discussion en petits groupes. Le cadre a été fixé en encadrant notre discussion du point de vue d’un gouvernement planétaire. Le cadre de notre discussion s’est orienté d’un point de vue de gouvernement planétaire. Nous étions un groupe d’étudiants visiteurs sur Urantia provenant d’autres planètes et les superviseurs planétaires nous ont demandé de les conseiller sur les résultats que nous aimerions voir de cette réunion d’unité organisationnelle sur Urantia. Les résultats de cette mission ont servi de base aux discussions du lendemain.
 
-Deux vidéos ont été visionnées au cours de la réunion, ce qui a éclairé nos discussions. Ils méritent d’être vus. Des liens :
+Deux vidéos ont été visionnées au cours de la réunion, ce qui a éclairé nos discussions. Ils méritent d’être vus. Des liens :
 
 [Dr Russel Ackoff sur La théorie des systèmes](https://www.youtube.com/watch?v=OqEeIG8aPPk)
 [Clay Shirky sur Les institutions et la collaboration](https://www.youtube.com/watch?v=sPQViNNOAkw)
@@ -75,7 +75,7 @@ Les représentants de l’Association et de la Fellowship à la réunion ont una
 
 **Court terme (6-12 mois) :**
 
-Collaboration accrue — dans la mesure du possible, au niveau local, national et international, les comités seront encouragés à travailler ensemble sur de nombreux projets. Quelques exemples de ceci pourraient être (note : la liste n’est pas exhaustive) :
+Collaboration accrue — dans la mesure du possible, au niveau local, national et international, les comités seront encouragés à travailler ensemble sur de nombreux projets. Quelques exemples de ceci pourraient être (note : la liste n’est pas exhaustive) :
 
 - Congrès et évènements partagés
 - Fonctions et collaborations consolidées de comités
@@ -89,15 +89,15 @@ _Cartographie des groupes locaux_ — un « plan » combiné des associations et
 
 _Réconciliation personnelle_ — il est reconnu que les personnes ne sont pas des organisations et ne parlent pas pour leurs organisations. Les deux organisations encouragent toute personne impliquée dans des conflits passés à chercher la réconciliation et la guérison à un niveau personnel.
 
-**Moyen terme (1-2 ans) :**
+**Moyen terme (1-2 ans) :**
 
 La _Fellowship_ envisage de rejoindre _Urantia International_ au niveau national. _L’Association_ considèrera une exception pour une deuxième association nationale en Amérique du Nord. Si cela est approuvé, le président et le vice-président de la _Fellowship_ se joindront au Conseil des représentants et ses membres pourront siéger au Bureau de Service International et sur ses comités.
 
-_L’Association Urantia Internationale_ cherchera à changer son nom pour : _Urantia International_.
+_L’Association Urantia Internationale_ cherchera à changer son nom pour : _Urantia International_.
 
 La collaboration entre les groupes locaux, les comités et les projets se poursuivront au cours de cette période.
 
-**Long terme :**
+**Long terme :**
 
 D’autres idées ont été discutées à plus long terme, mais aucune recommandation n’est faite pour permettre l’évolution des recommandations à court et à moyen terme.
 
@@ -105,7 +105,7 @@ D’autres idées ont été discutées à plus long terme, mais aucune recommand
 
 ## Mise à jour 10 mars 2017
 
- Chris Wood, Association Urantia Internationale
+ Chris Wood, Association Urantia Internationale
 
 En février, le Conseil général de la _Fellowship_ s’est réuni et a délibéré sur la proposition sur l’Unité issue de notre réunion conjointe du 3 au 5 octobre 2016. Les membres du Conseil général ont décidé qu’à ce moment-ci, il serait imprudent de tenter une unité organisationnelle. Au lieu de cela, ils ont adopté une résolution appelant à une plus grande coopération entre nos organisations afin d’accroître l’unité spirituelle et sociale entre nos membres.
 

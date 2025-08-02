@@ -224,7 +224,7 @@ A. Two: “Bahira,” i.e., one in which the phenomena-working power may be temp
 
 A. They gradually develop in one who pursues a certain course of ascetic practice called Dhyâna.
 
-369\. Q. _Can this Iddhî power be lost?_ [^25]
+369\. Q. _Can this Iddhî power be lost?_ [^25]
 
 A. The Bahira can be lost, but the Sasanika never, when once acquired. Lokottara knowledge once obtained is never lost, and it is by this knowledge only that the absolute condition of Nirvâṇa is known by the Arhat. And this knowledge can be got by following the noble life of the Eightfold Path.
 
@@ -244,7 +244,7 @@ A. Of all the disciples of the Buddha, Mogallâna was possessed of the most extr
 
 373\. Q. _Does a man acquire these powers suddenly or gradually?_
 
-A. Normally, they gradually develop themselves. as the disciple progressively gains control over his lower nature in a series of girths. [^26]
+A. Normally, they gradually develop themselves. as the disciple progressively gains control over his lower nature in a series of girths. [^26]
 
 374\. Q. _Does Buddhism pretend that the miracle of raising those who are dead is possible?_
 

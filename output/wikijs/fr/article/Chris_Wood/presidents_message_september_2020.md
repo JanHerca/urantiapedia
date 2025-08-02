@@ -45,7 +45,7 @@ Cela me fait penser que la religion d’aujourd’hui est peut-être un peu comm
 
 Nous rendons un mauvais service lorsque nous essayons de convertir les autres à notre propre religion. Ce serait comme si Eratosthène rencontrait les voyageurs de Syène et qu’au lieu d’apprendre à connaître leur ville, il insistait sur le fait qu’Alexandrie est la meilleure ville et qu’ils devraient tous s’y installer. Lorsque nous découvrons d’autres cultures, d’autres systèmes religieux et d’autres interprétations de la meilleure façon de vivre dans ce monde, nous sommes capables d’effectuer une sorte de triangulation spirituelle, en apprenant davantage sur les vérités spirituelles de l’univers.
 
-Les étudiants du Livre d’Urantia peuvent devenir des leaders religieux lorsque nous écoutons plus que nous parlons, partageons plus que nous tentons d’enseigner et adorons plus que nous prêchons. Dans le Fascicule 92, _L’Évolution ultérieure de la Religion_, un Melchizédek dit :
+Les étudiants du Livre d’Urantia peuvent devenir des leaders religieux lorsque nous écoutons plus que nous parlons, partageons plus que nous tentons d’enseigner et adorons plus que nous prêchons. Dans le Fascicule 92, _L’Évolution ultérieure de la Religion_, un Melchizédek dit :
 
 > _Mais il faut espérer que les efforts ardents et sincères de ces futurs prophètes seront moins orientés vers le renforcement des barrières interreligieuses que vers l’augmentation de la fraternité religieuse du culte spirituel parmi les nombreux adeptes des différentes théologies intellectuelles qui caractérisent ainsi Urantia de Satania._ <a id="a49_344"></a>[[LU 92:5.16](/fr/The_Urantia_Book/92#p5_16)]
 

@@ -49,7 +49,7 @@ Cuando asistí a la Sesión de Estudio de Verano, pude sentirlo. La gente se est
 
 Para los que no estuvieron en Quebec, quizá quieran respirar hondo y ver si pueden sentir y participar en este movimiento de cooperación y apertura. Por favor, recen por los organizadores de las diferentes organizaciones y continentes y por los participantes, para que mantengan esta onda.
 
-Obviamente, no es necesario viajar para formar parte de esto. Se hicieron grabaciones en audio y vídeo de las charlas plenarias en Quebec, y a su debido tiempo espero que estén disponibles para ustedes. También hay muchas otras maneras de que todos participen.
+Obviamente, no es necesario viajar para formar parte de esto. Se hicieron grabaciones en audio y vídeo de las charlas plenarias en Quebec, y a su debido tiempo espero que estén disponibles para ustedes. También hay muchas otras maneras de que todos participen.
 
 Llevo tiempo abogando por la unidad espiritual, asumiendo que la armonía organizativa se uniría a ella; y mi lema para los 90 era cooperen cuando puedan y luchen cuando deban (y si cooperamos cuando podemos, la necesidad de luchar será cada vez menor). Soy alguien que descubrió que albergaba ira acerca de asuntos organizativos que ni siquiera sabía que estaba dentro de mí, y a la mañana siguiente, en Quebec, salió en tromba de mí como un huracán de espíritu.
 

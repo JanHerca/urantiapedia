@@ -47,7 +47,7 @@ El programa se concentrará en los potenciales de crecimiento espiritual y en au
 
 La Asociación Urantia de Estonia (Eesti Urantia Assotsiatsioon – EUA) presentará esta conferencia que tendrá lugar en el hotel Tallink Spa & Conference de Tallin (Estonia). El idioma principal de la conferencia será el inglés, pero si su lengua materna no es el inglés y le cuesta comprenderlo planeamos traducir todas las presentaciones a varios idiomas (dependiendo de los traductores voluntarios que encontremos) y las pondremos a su disposición al comenzar la conferencia en formato impreso.
 
-El sitio web de la conferencia es [www.urantia.ee/conference2019](http://www.urantia.ee/conference2019/) y le daremos información detallada sobre el programa, la inscripción al evento y la reserva de habitaciones.
+El sitio web de la conferencia es [www.urantia.ee/conference2019](http://www.urantia.ee/conference2019/) y le daremos información detallada sobre el programa, la inscripción al evento y la reserva de habitaciones.
 
 [Inscríbanse ahora](http://urantia.ee/conference2019/registration/)
 <br style="clear:both;"/>

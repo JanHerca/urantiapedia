@@ -43,19 +43,19 @@ La 16e réunion des lecteurs espagnols du Livre d’Urantia eut lieu du 28 avril
 
 La présence d’Antonio Schefer a été appréciée, car il est de nouveau venu des Pays-Bas pour représenter l’Association Urantia Internationale.
 
-Le thème de cette réunion était « Dieu dans l’homme » qui est le titre de la section 6 du fascicule 108 (Mission et ministère de l’Ajusteur de pensée). Le sujet principal de la discussion était les Ajusteurs de Pensée : ce qu’ils sont, ce qu’ils font pour nous, et ce que nous allons devenir ensemble. À cette occasion, notre objectif était de coordonner les présentations afin qu’elles puissent aborder différents aspects des Ajusteurs de Pensée et notre relation avec eux.
+Le thème de cette réunion était « Dieu dans l’homme » qui est le titre de la section 6 du fascicule 108 (Mission et ministère de l’Ajusteur de pensée). Le sujet principal de la discussion était les Ajusteurs de Pensée : ce qu’ils sont, ce qu’ils font pour nous, et ce que nous allons devenir ensemble. À cette occasion, notre objectif était de coordonner les présentations afin qu’elles puissent aborder différents aspects des Ajusteurs de Pensée et notre relation avec eux.
 
 Vendredi soir, Olga López a fait une présentation sur _l’Histoire de la cinquième Révélation d’époque_. Beaucoup de lecteurs sont confus au sujet des personnes et des circonstances impliquées dans le processus de la révélation, donc cela faisait partie d’une série de présentations conçues pour informer les lecteurs espagnols sur le contexte historique et organisationnel du Livre d’Urantia.
 
 Le samedi matin, la première présentation, Dieu dans l’homme a été offert par Carmelo Martinez qui a donné le ton aux présentations de la fin de semaine. Suit Mariano Pérez, avec L’Action de l’Ajusteur de Pensée chez l’homme. Il s’est concentré sur le soutien matériel nécessaire pour que les Ajusteurs de Pensée agissent, sur notre cerveau et nos glandes (principalement la glande pinéale) liées à l’activité spirituelle.
 
-Dans l’après-midi, nous avons apprécié la socialisation en faisant une promenade à Guadalajara et en voyant certains de ses bâtiments les plus célèbres. Nous avons même eu la chance de goûter les célèbres « borrachos » (petits gâteaux locaux plongés dans du sirop de sucre) dans une pâtisserie. Après la visite de la ville, nous avons été surpris par la célébration du mariage d’un couple, lecteurs qui sont venus avec leur famille pour partager leur joie avec nous tous. C’était très émouvant !  Ces amis merveilleux ont également offert un dîner spécial pour lequel nous avons été très reconnaissants. Nous, lecteurs espagnols, sommes une grande et aimante famille !
+Dans l’après-midi, nous avons apprécié la socialisation en faisant une promenade à Guadalajara et en voyant certains de ses bâtiments les plus célèbres. Nous avons même eu la chance de goûter les célèbres « borrachos » (petits gâteaux locaux plongés dans du sirop de sucre) dans une pâtisserie. Après la visite de la ville, nous avons été surpris par la célébration du mariage d’un couple, lecteurs qui sont venus avec leur famille pour partager leur joie avec nous tous. C’était très émouvant ! Ces amis merveilleux ont également offert un dîner spécial pour lequel nous avons été très reconnaissants. Nous, lecteurs espagnols, sommes une grande et aimante famille !
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/XVI-Spanish-Meeting-Urantia-Wedding-Cake-150x150.jpg">
 </figure>
 
-Dimanche matin, nous avons eu deux présentations très novatrices présentées par deux grandes femmes. En premier lieu, Paula Requejo nous a raconté un conte inspiré par «la persistance des vraies valeurs » en utilisant une présentation PowerPoint avec des images évocatrices et un personnage principal appelé « Urantina », une petite fille qui découvre qu’elles sont ces vraies valeurs.
+Dimanche matin, nous avons eu deux présentations très novatrices présentées par deux grandes femmes. En premier lieu, Paula Requejo nous a raconté un conte inspiré par «la persistance des vraies valeurs » en utilisant une présentation PowerPoint avec des images évocatrices et un personnage principal appelé « Urantina », une petite fille qui découvre qu’elles sont ces vraies valeurs.
 
 La deuxième présentation par María José Santamaría nous a amenés dans un voyage au Paradis et au-delà avec notre Ajusteur de Pensée fusionné avec notre être unique. Dans son exposé intitulé « L’Ajusteur et l’âme », elle a utilisé de petits moments de méditation, de musique et de mots pour nous faire ressentir comme si nous étions en train de nous envoler en compagnie de nos Ajusteurs de Pensée. C’était vraiment incroyable !
 
@@ -65,12 +65,12 @@ Pour la première fois, les présentations ont été diffusées et enregistrées
 <img src="/image/article/IUA_Tidings/XVI-Spanish-Meeting-Zoom-300x225.jpg">
 </figure>
 
-Les ateliers ont eu lieu le dimanche après-midi. Il y a eu cinq ateliers, chacun avec un facilitateur différent. Cette fois, la mécanique était un peu différente : chacun des participants était assigné à un atelier au hasard, de sorte que les groupes étaient aussi hétérogènes que possible. Chaque atelier a abordé un sujet lié aux Ajusteurs de Pensée :
+Les ateliers ont eu lieu le dimanche après-midi. Il y a eu cinq ateliers, chacun avec un facilitateur différent. Cette fois, la mécanique était un peu différente : chacun des participants était assigné à un atelier au hasard, de sorte que les groupes étaient aussi hétérogènes que possible. Chaque atelier a abordé un sujet lié aux Ajusteurs de Pensée :
 
 - La nature des Ajusteurs de Pensée
 - Les cercles psychiques
 - Les Ajusteurs d’Urantia
-- Concepts erronés de la gouverne des Ajusteurs (110 :5)
+- Concepts erronés de la gouverne des Ajusteurs (110 :5)
 - Le paradoxe humain
 
 Après cette activité de groupe, nous avons partagé nos expériences d’ateliers avec l’ensemble du groupe qui s’est développé en une discussion animée à la fin.
@@ -79,7 +79,7 @@ Après cette activité de groupe, nous avons partagé nos expériences d’ateli
 <img src="/image/article/IUA_Tidings/XVI-Spanish-Meeting-Workshops-300x225.jpg">
 </figure>
 
-Et n’oublions pas les soirées !  Comme d’habitude, nous avons gardé la longue tradition de s’engager dans des discussions spontanées jusqu’à ce que nos yeux commencent à fermer.
+Et n’oublions pas les soirées ! Comme d’habitude, nous avons gardé la longue tradition de s’engager dans des discussions spontanées jusqu’à ce que nos yeux commencent à fermer.
 
 Dimanche, nous avons tenu une réunion ouverte de l’Association Urantia d’Espagne où le conseil a présenté les activités de l’association en 2016. Une élection a aussi eu lieu ; Miguel Bustos a quitté son poste de secrétaire et a été remplacé par José Manuel Duarte. Bienvenue au conseil d’administration, José Manuel !
 

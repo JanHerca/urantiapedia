@@ -39,13 +39,13 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Swedish-Flag-cropped-scaled-e1648080463725.jpg">
 </figure>
 
-La Asociación Urantia de Suecia se constituyó como asociación local de la Asociación Urantia en 2007. El grupo de estudio de Estocolmo comenzó alrededor de 2005. A lo largo de ese tiempo los miembros del grupo han ido cambiando, ya que algunos han abandonado el grupo y han entrado otros nuevos. Hoy somos cinco de Suecia y dos de Finlandia.
+La Asociación Urantia de Suecia se constituyó como asociación local de la Asociación Urantia en 2007. El grupo de estudio de Estocolmo comenzó alrededor de 2005. A lo largo de ese tiempo los miembros del grupo han ido cambiando, ya que algunos han abandonado el grupo y han entrado otros nuevos. Hoy somos cinco de Suecia y dos de Finlandia.
 
-Normalmente tenemos reuniones en casa de alguien dos veces al mes. Durante la pandemia, las reuniones han sido una vez al mes por Internet, y seguimos haciéndolas virtuales. 
+Normalmente tenemos reuniones en casa de alguien dos veces al mes. Durante la pandemia, las reuniones han sido una vez al mes por Internet, y seguimos haciéndolas virtuales. 
 
-Hace unos diez años donamos la traducción finlandesa de _El libro de Urantia_ a la biblioteca finlandesa de Estocolmo. El libro fue robado, así que donamos otro. Ahora estamos planeando donar libros a las bibliotecas suecas.  
+Hace unos diez años donamos la traducción finlandesa de _El libro de Urantia_ a la biblioteca finlandesa de Estocolmo. El libro fue robado, así que donamos otro. Ahora estamos planeando donar libros a las bibliotecas suecas.  
 
-Para encontrar a nuevos lectores, hemos expuesto _El libro de Urantia_ en una feria de libros espirituales donde algunos nuevos lectores han encontrado el libro. 
+Para encontrar a nuevos lectores, hemos expuesto _El libro de Urantia_ en una feria de libros espirituales donde algunos nuevos lectores han encontrado el libro. 
 
 Nuestro mayor evento de cada año es la celebración del cumpleaños de Jesús el 21 de agosto. En 2020 y 2021 lo celebramos por Internet debido a la pandemia.
 

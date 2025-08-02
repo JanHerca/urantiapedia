@@ -52,7 +52,7 @@ En el bonito entorno de los campos de flores que hay cerca de Ámsterdam, el «C
 
 ### Sitio web
 
-El sitio web [http://www.uai2018.org/](http://www.uai2018.org/) está en línea y proporciona información adicional sobre el programa, la inscripción al evento y la reserva de hotel. En los meses siguientes habrá más información disponible en el sitio web, por ejemplo: sobre el tema «Jesús como instructor», los conferenciantes, las actividades vespertinas y la logística. El sitio web está traducido al inglés, alemán, francés, español y holandés.
+El sitio web [http://www.uai2018.org/](http://www.uai2018.org/) está en línea y proporciona información adicional sobre el programa, la inscripción al evento y la reserva de hotel. En los meses siguientes habrá más información disponible en el sitio web, por ejemplo: sobre el tema «Jesús como instructor», los conferenciantes, las actividades vespertinas y la logística. El sitio web está traducido al inglés, alemán, francés, español y holandés.
 
 El idioma de la conferencia será el inglés.
 
@@ -62,7 +62,7 @@ Planeen ahora mismo el viaje a la conferencia del 12 al 15 de abril y exploren s
 
 Inscríbanse para este memorable acontecimiento y obtengan un descuento por reserva anticipada de 75 € si se inscriben antes del 1 de septiembre de 2017.
 
-Hagan clic en el siguiente enlace: [http://www.uai2018.org/](http://www.uai2018.org/) para inscribirse al evento y para reservar su habitación. 
+Hagan clic en el siguiente enlace: [http://www.uai2018.org/](http://www.uai2018.org/) para inscribirse al evento y para reservar su habitación. 
 
 ### Animen a otros estudiantes de _El libro de Urantia_
 

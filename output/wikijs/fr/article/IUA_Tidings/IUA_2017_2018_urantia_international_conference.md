@@ -43,16 +43,16 @@ dateCreated: 2023-9-16T10:55:6Z
 
 L’Association d’Urantia des Pays-Bas (UAISUN) vous invite à participer au 10e congrès international de l’Association Urantia Internationale à **Amsterdam, aux Pays-Bas.**
 
-Le thème du congrès est « **Jésus en tant qu’enseignant** » et comme sous thème   « Êtes-vous prêt à vivre ses enseignements au XXIe siècle ? » Cette question nous appelle à explorer ce que nous connaissons sur les enseignements de Jésus, sa religion personnelle et son message pour nous aujourd’hui. Ce programme nous inspirera à être de véritables disciples de Jésus et de ses enseignements et de devenir les leaders et les enseignants du futur. Les étudiants du _Livre Urantia_ du monde entier sont invités.
+Le thème du congrès est « **Jésus en tant qu’enseignant** » et comme sous thème   « Êtes-vous prêt à vivre ses enseignements au XXIe siècle ? » Cette question nous appelle à explorer ce que nous connaissons sur les enseignements de Jésus, sa religion personnelle et son message pour nous aujourd’hui. Ce programme nous inspirera à être de véritables disciples de Jésus et de ses enseignements et de devenir les leaders et les enseignants du futur. Les étudiants du _Livre Urantia_ du monde entier sont invités.
 <br style="clear:both;"/>
 
 ### Le Congrès
 
-Dans le décor magnifique des champs de fleurs près d’Amsterdam, le « Centre des congrès Leeuwenhorst à Noordwijkerhout » sera le lieu de notre rassemblement. Ce centre des congrès offre tout ce dont nous avons besoin pour organiser un événement réussi. Lors du congrès, l’accent sera mis sur : étudier ensemble, partager avec les autres et, par-dessus tout, expérimenter la fraternité spirituelle.
+Dans le décor magnifique des champs de fleurs près d’Amsterdam, le « Centre des congrès Leeuwenhorst à Noordwijkerhout » sera le lieu de notre rassemblement. Ce centre des congrès offre tout ce dont nous avons besoin pour organiser un événement réussi. Lors du congrès, l’accent sera mis sur : étudier ensemble, partager avec les autres et, par-dessus tout, expérimenter la fraternité spirituelle.
 
 ### Site Internet
 
-Le site [http://www.uai2018.org/](http://www.uai2018.org/) est en ligne et fournit des informations complémentaires sur le programme, l’inscription à l’événement et la réservation de votre chambre d’hôtel. Prochainement, des informations supplémentaires seront disponibles sur le site, par exemple : sur le thème « Jésus en tant qu’enseignant  », sur les conférenciers, sur les programmes en soirée et sur la logistique. Le site est traduit en anglais, allemand, français, espagnol et néerlandais.
+Le site [http://www.uai2018.org/](http://www.uai2018.org/) est en ligne et fournit des informations complémentaires sur le programme, l’inscription à l’événement et la réservation de votre chambre d’hôtel. Prochainement, des informations supplémentaires seront disponibles sur le site, par exemple : sur le thème « Jésus en tant qu’enseignant  », sur les conférenciers, sur les programmes en soirée et sur la logistique. Le site est traduit en anglais, allemand, français, espagnol et néerlandais.
 
 La langue parlée pendant le congrès sera l’anglais.
 
@@ -60,9 +60,9 @@ La langue parlée pendant le congrès sera l’anglais.
 
 Planifiez maintenant votre voyage aux Pays-Bas près d’Amsterdam pour le congrès du 12 au 15 avril 2018 et explorez l’emplacement magnifique au milieu des champs de fleurs en pleine floraison.
 
-Inscrivez-vous pour cet événement mémorable avant le 1er septembre 2017 et recevez une réduction de 75 €.
+Inscrivez-vous pour cet événement mémorable avant le 1er septembre 2017 et recevez une réduction de 75 €.
 
-Cliquez sur le lien suivant [http://www.uai2018.org/](http://www.uai2018.org/) pour vous inscrire à l’événement et pour réserver votre chambre.
+Cliquez sur le lien suivant [http://www.uai2018.org/](http://www.uai2018.org/) pour vous inscrire à l’événement et pour réserver votre chambre.
 
 ### Encourager les étudiants du _Livre d’Urantia_
 

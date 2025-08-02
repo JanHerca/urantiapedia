@@ -42,7 +42,7 @@ _Mark Blackham, Canada_
 
 Les conflits font inévitablement partie de la vie sur les mondes habités, en particulier sur les mondes qui en sont aux premiers stades de l’évolution sociale et spirituelle. Et c’est certainement le cas au stade actuel de développement sur Urantia.
 
-Les choses se sont améliorées au cours des siècles et, sans aucun doute, elles continueront à s’améliorer avec le temps. Mais ce n’est que dans un avenir lointain, lorsque notre planète atteindra enfin les âges utopiques de la lumière et de la vie, que nous serons entièrement libérés de la discorde. Cela ne veut pas dire qu’à ce moment-là, nous serons tous du même avis. Mais la façon dont nous gérons nos différences changera considérablement. Jusqu’à ce que nous atteignions cette utopie, et en dehors des guerres nationales, nous connaîtrons deux sphères de conflits personnels : le conflit qui se déroule dans la vie intérieure (l’esprit et l’âme) et le conflit qui se déroule dans la vie extérieure (la famille et la société).
+Les choses se sont améliorées au cours des siècles et, sans aucun doute, elles continueront à s’améliorer avec le temps. Mais ce n’est que dans un avenir lointain, lorsque notre planète atteindra enfin les âges utopiques de la lumière et de la vie, que nous serons entièrement libérés de la discorde. Cela ne veut pas dire qu’à ce moment-là, nous serons tous du même avis. Mais la façon dont nous gérons nos différences changera considérablement. Jusqu’à ce que nous atteignions cette utopie, et en dehors des guerres nationales, nous connaîtrons deux sphères de conflits personnels : le conflit qui se déroule dans la vie intérieure (l’esprit et l’âme) et le conflit qui se déroule dans la vie extérieure (la famille et la société).
 <br style="clear:both;"/>
 
 ## Conflit intérieur
@@ -51,7 +51,7 @@ Les choses se sont améliorées au cours des siècles et, sans aucun doute, elle
 <img src="/image/article/IUA_Journal/AdobeStock_492042308-Flat-Conflict-2-face-300x375.jpg">
 </figure>
 
-Jésus a dit qu’il y a deux domaines dans la vie humaine : l’un est une vie dans la chair, l’autre une vie dans l’esprit. En effet, à son retour de Rome, il dit à Ganid qu’il y a deux grandes classes de mortels — ceux qui connaissent Dieu et ceux qui ne le connaissent pas (<a id="a53_273"></a>[LU 133:0.3](/fr/The_Urantia_Book/133#p0_3)).
+Jésus a dit qu’il y a deux domaines dans la vie humaine : l’un est une vie dans la chair, l’autre une vie dans l’esprit. En effet, à son retour de Rome, il dit à Ganid qu’il y a deux grandes classes de mortels — ceux qui connaissent Dieu et ceux qui ne le connaissent pas (<a id="a53_273"></a>[LU 133:0.3](/fr/The_Urantia_Book/133#p0_3)).
 
 Il poursuit en disant que les personnes qui vivent complètement dans la chair ou complètement dans l’esprit n’éprouvent que peu de conflits intérieurs, mais que pour tous les autres qui luttent pour passer d’une vie à l’autre, il y aura un degré considérable de conflit et de confusion en cours de route. Et Jésus, au lieu de dire à ses disciples d’ignorer cette lutte ou de la dissimuler sous un faux optimisme, leur a demandé d’être francs à ce sujet.
 <br style="clear:both;"/>
@@ -70,7 +70,7 @@ Jésus en a dit encore plus à ce sujet :
 
 Notre Maître nous dit clairement que nous pouvons nous attendre à beaucoup d’ennuis, de tribulations, de luttes et de conflits dans nos efforts continus pour prospérer dans l’esprit. Mais ce n’est pas tout. Nous sommes censés accepter nos luttes avec joie et remplir avec bonheur nos obligations envers Dieu, la famille et la société.
 
-L’idée qu’une vie spirituelle est pleine d’adversité et d’obligations semble très éloignée des opinions à la mode, selon lesquelles un voyage spirituel s’apparente à « une expérience fantastique et mystique d’indescriptibles sentiments d’extase » (<a id="a72_248"></a>[LU 101:1.1](/fr/The_Urantia_Book/101#p1_1)) ou qu’il s’agit d’un état mental de béatitude utopique.
+L’idée qu’une vie spirituelle est pleine d’adversité et d’obligations semble très éloignée des opinions à la mode, selon lesquelles un voyage spirituel s’apparente à « une expérience fantastique et mystique d’indescriptibles sentiments d’extase » (<a id="a72_248"></a>[LU 101:1.1](/fr/The_Urantia_Book/101#p1_1)) ou qu’il s’agit d’un état mental de béatitude utopique.
 
 > La religion n’est pas une technique pour obtenir une paix mentale statique et sereine ; c’est une impulsion destinée à organiser l’âme pour un service dynamique. <a id="a74_164"></a>[LU 100:3.1](/fr/The_Urantia_Book/100#p3_1)
 
@@ -78,9 +78,9 @@ Jésus dissipa d’autres idées reçues sur la religion. Dans l’Empire romain
 
 > Enseignez à tous les croyants que le fait d’entrer dans le royaume ne les immunise pas contre les accidents du temps ni contre les catastrophes ordinaires de la nature.. <a id="a78_172"></a>[LU 159:3.13](/fr/The_Urantia_Book/159#p3_13)
 
-Alors pourquoi Jésus nous dit-il que l’expérience sera difficile ? Je doute qu’il essaie de nous décourager. Il est plus probable qu’il essaie de nous désillusionner, comme il l’a fait avec les apôtres en de nombreuses occasions. Cependant, malgré ses nombreuses mises en garde et réprimandes, c’est un grand soulagement qu’il nous donne toujours une porte de sortie — il nous donne une raison spirituelle de maintenir le cap.
+Alors pourquoi Jésus nous dit-il que l’expérience sera difficile ? Je doute qu’il essaie de nous décourager. Il est plus probable qu’il essaie de nous désillusionner, comme il l’a fait avec les apôtres en de nombreuses occasions. Cependant, malgré ses nombreuses mises en garde et réprimandes, c’est un grand soulagement qu’il nous donne toujours une porte de sortie — il nous donne une raison spirituelle de maintenir le cap.
 
-En effet, juste après avoir mis en garde tous les croyants contre les conflits inévitables, il mentionne que « le joug de l’Évangile est facile et le fardeau de la vérité est léger ». Dans un autre document, un médiateur nous dit que « le joug du Maître est, en effet, facile… » (<a id="a82_280"></a>[LU 141:3.7](/fr/The_Urantia_Book/141#p3_7)). Et en d’autres endroits, Jésus répète cette vérité réconfortante.
+En effet, juste après avoir mis en garde tous les croyants contre les conflits inévitables, il mentionne que « le joug de l’Évangile est facile et le fardeau de la vérité est léger ». Dans un autre document, un médiateur nous dit que « le joug du Maître est, en effet, facile… » (<a id="a82_280"></a>[LU 141:3.7](/fr/The_Urantia_Book/141#p3_7)). Et en d’autres endroits, Jésus répète cette vérité réconfortante.
 
 > Prenez sur vous le joug divin, et vous éprouverez la paix de Dieu, qui dépasse tout entendement. <a id="a84_99"></a>[LU 144:8.8](/fr/The_Urantia_Book/144#p8_8)
 > 
@@ -115,7 +115,7 @@ Un autre avantage des conflits intérieurs, ou moraux, est qu’ils donnent souv
 
 > De nouvelles clairvoyances religieuses surgissent de conflits qui déclenchent le choix de nouvelles et meilleures habitudes de réagir, pour remplacer les modèles anciens et inférieurs de réaction. **C****’****est seulement dans des conflits que de nouvelles significations é****mergent**, et un conflit ne persiste que si l’on refuse d’adopter les valeurs supérieures impliquées dans des significations plus élevées. <a id="a115_419"></a>[LU 100:4.1](/fr/The_Urantia_Book/100#p4_1) accentuation ajoutée
 
-Un autre épisode de la vie de Jésus, vraiment inspirant à cet égard, est son entretien avec Fortune, « le jeune homme qui avait peur ». Il réconforte le jeune homme désemparé en lui disant de libérer son esprit intérieur des entraves de la peur afin qu’il puisse « stimuler et inspirer ton esprit ». Il encourage le jeune à renforcer sa nature spirituelle par « la puissance-présence de la foi vivante », un acte qui conduit à la conscience que « tu es un enfant de Dieu ». Et quand vous êtes ainsi né de nouveau :
+Un autre épisode de la vie de Jésus, vraiment inspirant à cet égard, est son entretien avec Fortune, « le jeune homme qui avait peur ». Il réconforte le jeune homme désemparé en lui disant de libérer son esprit intérieur des entraves de la peur afin qu’il puisse « stimuler et inspirer ton esprit ». Il encourage le jeune à renforcer sa nature spirituelle par « la puissance-présence de la foi vivante », un acte qui conduit à la conscience que « tu es un enfant de Dieu ». Et quand vous êtes ainsi né de nouveau :
 
 > Les malheurs te fortifieront, les déceptions t’éperonneront, les difficultés te poseront des défis et les obstacles te stimuleront. <a id="a119_134"></a>[LU 130:6.4](/fr/The_Urantia_Book/130#p6_4)
 
@@ -133,15 +133,15 @@ Mais si nous ne pouvons pas atteindre pleinement cette paix de l’esprit sur te
 
 Quelle que soit notre progression personnelle dans l’esprit et la résolution de nos conflits intérieurs, nous ne pourrons jamais éviter complètement les conflits sociaux. Même Jésus, en tant qu’homme parfait, n’a pas pu éviter tous les malentendus sociaux, même si la responsabilité de ces malentendus retombe inévitablement sur les autres.
 
-Jésus nous a conseillé de faire preuve de tact et de tolérance avec tout le monde, d’être vigilants et experts dans nos « efforts méritoires pour éviter tous les malentendus sociaux inutiles ».
+Jésus nous a conseillé de faire preuve de tact et de tolérance avec tout le monde, d’être vigilants et experts dans nos « efforts méritoires pour éviter tous les malentendus sociaux inutiles ».
 
 > De telles âmes sages sont capables d’échapper à bon nombre de difficultés qui seront inévitablement le lot de tous ceux qui souffrent d’un manque d’adaptation émotionnelle, ceux qui refusent de grandir et ceux qui n’acceptent pas de vieillir avec élégance. <a id="a137_259"></a>[LU 156:5.18](/fr/The_Urantia_Book/156#p5_18)
 
-Nous sommes tous différents à bien des égards, ce qui entraîne inévitablement des divergences d’opinions et, par conséquent, la nécessité d’être tolérant. Et la tolérance vient plus facilement lorsque nous comprenons la vérité de nos relations les uns avec les autres. Comme Jésus l’a dit à Jacques :
+Nous sommes tous différents à bien des égards, ce qui entraîne inévitablement des divergences d’opinions et, par conséquent, la nécessité d’être tolérant. Et la tolérance vient plus facilement lorsque nous comprenons la vérité de nos relations les uns avec les autres. Comme Jésus l’a dit à Jacques :
 
 > Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour _être_ spirituellement _semblables._ L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. (<a id="a141_291"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)).
 
-L’unité spirituelle est réalisée par notre reconnaissance individuelle de l’esprit divin qui vit en chacun de nous, suivie de notre respect pour la présence de l’esprit chez les autres. Malheureusement, au stade actuel du développement social sur Urantia, l’unité spirituelle au service de Dieu semble encore loin. En attendant, nous ne pouvons que faire de notre mieux pour vivre à la manière de l’esprit tout en ayant une grande foi dans « les promesses extrêmement grandes et précieuses de Dieu ».
+L’unité spirituelle est réalisée par notre reconnaissance individuelle de l’esprit divin qui vit en chacun de nous, suivie de notre respect pour la présence de l’esprit chez les autres. Malheureusement, au stade actuel du développement social sur Urantia, l’unité spirituelle au service de Dieu semble encore loin. En attendant, nous ne pouvons que faire de notre mieux pour vivre à la manière de l’esprit tout en ayant une grande foi dans « les promesses extrêmement grandes et précieuses de Dieu ».
 
 <figure id="Figure_4" class="image urantiapedia" alt="Flat-Conflict-Castle">
 <img src="/image/article/IUA_Journal/AdobeStock_492042308-Flat-Conflict-Castle.jpg">
@@ -151,7 +151,7 @@ Et, quelles que soient les actions des autres, notre objectif et notre devoir re
 
 > L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du _travail en é__quipe._ <a id="a151_116"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
 
-L’apprentissage du travail en équipe est un objectif à long terme. _Le Livre d’__Urantia_ indique clairement que, même après avoir quitté Jérusem et réalisé la fusion avec l’Ajusteur, nous n’avons pas encore complètement surmonté nos irritabilités sociales et nos ressentiments. Surmonter ces irritabilités est l’un de nos principaux objectifs sur les mondes de la constellation, un but atteint grâce à notre expérience de vie avec l’univitatia et les autres. En fin de compte, cela nous apprend à « vivre heureux et à travailler efficacement » avec de nombreux types d’êtres différents (<a id="a153_588"></a>[LU 43:8.5](/fr/The_Urantia_Book/43#p8_5)).
+L’apprentissage du travail en équipe est un objectif à long terme. _Le Livre d’__Urantia_ indique clairement que, même après avoir quitté Jérusem et réalisé la fusion avec l’Ajusteur, nous n’avons pas encore complètement surmonté nos irritabilités sociales et nos ressentiments. Surmonter ces irritabilités est l’un de nos principaux objectifs sur les mondes de la constellation, un but atteint grâce à notre expérience de vie avec l’univitatia et les autres. En fin de compte, cela nous apprend à « vivre heureux et à travailler efficacement » avec de nombreux types d’êtres différents (<a id="a153_588"></a>[LU 43:8.5](/fr/The_Urantia_Book/43#p8_5)).
 
 ## Les conflits mondiaux
 
@@ -159,23 +159,23 @@ Il ne fait guère de doute que les conflits mondiaux et les guerres se poursuivr
 
 > La paix mondiale ne saurait être maintenue par des traités, par la diplomatie, par des politiques étrangères, par des alliances ou des équilibres de puissances ni par tout autre type d’expédient jonglant avec la souveraineté du nationalisme. Il faut faire éclore la loi mondiale et la faire appliquer par un gouvernement mondial — par la souveraineté de toute l’humanité. <a id="a159_374"></a>[LU 134:6.9](/fr/The_Urantia_Book/134#p6_9)
 
-Combien de temps cet état de conflit mondial persistera-t-il ? Le seul indice qui nous est donné provient de cette citation :
+Combien de temps cet état de conflit mondial persistera-t-il ? Le seul indice qui nous est donné provient de cette citation :
 
 > Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s’installera pas paisiblement **pour un millénaire**. <a id="a163_311"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1) accentuation ajoutée
 
-Bien que cette déclaration ait été faite il y a près de 100 ans, elle semble beaucoup plus pertinente aujourd’hui. Le rythme rapide des inventions et la diffusion mondiale des connaissances (dont certaines sont discutables) ont modifié de façon irréversible le fonctionnement de la société. En effet, l’heure semble être aux « ajustements économiques et aux changements sociaux » nécessaires.
+Bien que cette déclaration ait été faite il y a près de 100 ans, elle semble beaucoup plus pertinente aujourd’hui. Le rythme rapide des inventions et la diffusion mondiale des connaissances (dont certaines sont discutables) ont modifié de façon irréversible le fonctionnement de la société. En effet, l’heure semble être aux « ajustements économiques et aux changements sociaux » nécessaires.
 
-Le fascicule 195 indique également clairement que la cause profonde de la plupart des maux de notre planète est due à la sécularisation de la pensée et à l’adoption de philosophies matérialistes.
+Le fascicule 195 indique également clairement que la cause profonde de la plupart des maux de notre planète est due à la sécularisation de la pensée et à l’adoption de philosophies matérialistes.
 
-> La laïcisation complète de la science, de l’éducation, de l’industrie et de la société ne peut conduire qu’au désastre. Durant le premier tiers du vingtième siècle, les Urantiens ont tué plus d’hommes que durant les dix-neuf premiers siècles de la dispensation chrétienne. Et ce n’est que le commencement de l’affreuse moisson du matérialisme et du laïcisme ; des destructions plus terribles sont encore à venir. <a id="a169_415"></a>[LU 195:8.13](/fr/The_Urantia_Book/195#p8_13)
+> La laïcisation complète de la science, de l’éducation, de l’industrie et de la société ne peut conduire qu’au désastre. Durant le premier tiers du vingtième siècle, les Urantiens ont tué plus d’hommes que durant les dix-neuf premiers siècles de la dispensation chrétienne. Et ce n’est que le commencement de l’affreuse moisson du matérialisme et du laïcisme ; des destructions plus terribles sont encore à venir. <a id="a169_415"></a>[LU 195:8.13](/fr/The_Urantia_Book/195#p8_13)
 
-Gardez à l’esprit que cette déclaration a été faite après la Première Guerre mondiale, mais avant la Seconde. Il reste à voir si cette « terrible destruction » se poursuivra au 21e siècle. Mais nous pouvons être sûrs d’une chose :
+Gardez à l’esprit que cette déclaration a été faite après la Première Guerre mondiale, mais avant la Seconde. Il reste à voir si cette « terrible destruction » se poursuivra au 21e siècle. Mais nous pouvons être sûrs d’une chose :
 
 > Sans Dieu, ni la libération et la liberté, ni les biens et la richesse n’apporteront la paix. <a id="a173_96"></a>[LU 195:8.12](/fr/The_Urantia_Book/195#p8_12)
 
-Malgré toute la morosité ambiante, il ne fait aucun doute que le monde ne s’est jamais aussi bien porté. Et cela est vrai, quelle que soit la catégorie économique ou sociale que l’on souhaite mesurer (voir Hans Rosling, _Factfulness :_ _Ten Reasons We’re Wrong About the World-and Why Things Are Better Than You Think_, 2018). Rosling attribue une grande partie du chagrin mondial à la courte durée d’attention de l’individu ainsi qu’à l’« instinct de négativité » inhérent à l’humanité, un état mental prémonitoire qui devient une prophétie autoréalisatrice. Selon lui, il est important d’apprécier les réalisations de la civilisation mondiale tout en reconnaissant que les choses peuvent encore être bien meilleures.
+Malgré toute la morosité ambiante, il ne fait aucun doute que le monde ne s’est jamais aussi bien porté. Et cela est vrai, quelle que soit la catégorie économique ou sociale que l’on souhaite mesurer (voir Hans Rosling, _Factfulness :_ _Ten Reasons We’re Wrong About the World-and Why Things Are Better Than You Think_, 2018). Rosling attribue une grande partie du chagrin mondial à la courte durée d’attention de l’individu ainsi qu’à l’« instinct de négativité » inhérent à l’humanité, un état mental prémonitoire qui devient une prophétie autoréalisatrice. Selon lui, il est important d’apprécier les réalisations de la civilisation mondiale tout en reconnaissant que les choses peuvent encore être bien meilleures.
 
-> Sans la paix mondiale, vous pouvez oublier tous les autres progrès mondiaux. — Hans Rosling.
+> Sans la paix mondiale, vous pouvez oublier tous les autres progrès mondiaux. — Hans Rosling.
 
 Les choses vont s’améliorer, mais tout comme les conflits sont propices à la croissance spirituelle au niveau individuel, ils peuvent également concerner le progrès spirituel de la civilisation mondiale.
 
@@ -183,15 +183,15 @@ Les choses vont s’améliorer, mais tout comme les conflits sont propices à la
 
 Malgré toute cette agitation, et malgré les perpétuels scénarios de fin du monde et les sombres dystopies qui semblent avoir la faveur des médias, on nous répète sans cesse d’avoir foi dans les paroles de Jésus.
 
-> Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. <a id="a185_157"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)
+> Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. <a id="a185_157"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)
 
 ## Conflit dans l’univers
 
-Les conflits, les désaccords et les malentendus entre différents individus ne se terminent pas sur les mondes des maisons et ne sont pas non plus limités aux ascendeurs mortels. Il ne fait aucun doute que les troubles qui se produisent dans les affaires de l’univers sont d’une nature qui nous est inconnue, mais même les Maitres Séraphins impliqués dans le gouvernement planétaire d’Urantia (<a id="a189_393"></a>[LU 114:6.17](/fr/The_Urantia_Book/114#p6_17)) ont eu leurs désaccords — et ils sont allés au Paradis et en sont revenus !
+Les conflits, les désaccords et les malentendus entre différents individus ne se terminent pas sur les mondes des maisons et ne sont pas non plus limités aux ascendeurs mortels. Il ne fait aucun doute que les troubles qui se produisent dans les affaires de l’univers sont d’une nature qui nous est inconnue, mais même les Maitres Séraphins impliqués dans le gouvernement planétaire d’Urantia (<a id="a189_393"></a>[LU 114:6.17](/fr/The_Urantia_Book/114#p6_17)) ont eu leurs désaccords — et ils sont allés au Paradis et en sont revenus !
 
-Et ce fait à lui seul confirme l’idée qu’il n’y a rien de mal à exprimer nos désaccords. La différence essentielle réside dans la manière dont nous les traitons. Comme l’a dit un jour le célèbre entraîneur américain de basket-ball, John Wooden : « Nous pouvons accepter d’être en désaccord, mais nous n’avons pas besoin d’être désagréables ».
+Et ce fait à lui seul confirme l’idée qu’il n’y a rien de mal à exprimer nos désaccords. La différence essentielle réside dans la manière dont nous les traitons. Comme l’a dit un jour le célèbre entraîneur américain de basket-ball, John Wooden : « Nous pouvons accepter d’être en désaccord, mais nous n’avons pas besoin d’être désagréables ».
 
-Les désaccords et les problèmes dans l’administration d’un univers sont « très différents des petites épreuves et des travaux de l’existence matérielle » et semblent plutôt liés à des _malentendus._
+Les désaccords et les problèmes dans l’administration d’un univers sont « très différents des petites épreuves et des travaux de l’existence matérielle » et semblent plutôt liés à des _malentendus._
 
 > Dès le moment où les Créateurs amènent à l’existence des individus évoluants ayant le pouvoir de choisir, on quitte le travail harmonieux de la perfection divine. Il est certain que des malentendus vont s’élever et il faut prendre des dispositions pour ajuster équitablement ces honnêtes différences de points de vue. <a id="a195_320"></a>[LU 25:3.7](/fr/The_Urantia_Book/25#p3_7)
 
@@ -207,7 +207,7 @@ Les conflits de ce genre semblent être confinés au niveau du système local, e
 
 Néanmoins, il semble qu’il y ait une quantité considérable de discorde dans ces niveaux inférieurs de l’administration du superunivers. Et il n’y a pas de meilleure preuve de cela que l’existence des Puissants Messagers.
 
-> Les Puissants Messagers… sont une classe de mortels devenus parfaits, **éprouvés comme réfractaires à la rébellion, ou dont la loyauté personnelle a été démontrée d****’****une mani****è****re équivalente** ; ils ont tous passé par une épreuve déterminée de fidélité universelle. À un moment donné de leur ascension vers le Paradis, ils sont restés fermes et loyaux devant la déloyauté de leurs supérieurs… <a id="a209_409"></a>[LU 22:2.1](/fr/The_Urantia_Book/22#p2_1) accentuation ajoutée
+> Les Puissants Messagers… sont une classe de mortels devenus parfaits, **éprouvés comme réfractaires à la rébellion, ou dont la loyauté personnelle a été démontrée d****’****une mani****è****re équivalente** ; ils ont tous passé par une épreuve déterminée de fidélité universelle. À un moment donné de leur ascension vers le Paradis, ils sont restés fermes et loyaux devant la déloyauté de leurs supérieurs… <a id="a209_409"></a>[LU 22:2.1](/fr/The_Urantia_Book/22#p2_1) accentuation ajoutée
 > 
 > Il en est de même pour toute créature ascendante qui **empêche effectivement ces soul****è****vements** de l’erreur, du mal ou du péché, car une action conçue pour prévenir la rébellion ou pour produire des types plus élevés de loyauté dans une crise universelle est considérée comme ayant encore plus de valeur que la simple loyauté en face d’une rébellion effective. <a id="a211_371"></a>[LU 22:2.3](/fr/The_Urantia_Book/22#p2_3) accentuation ajoutée
 

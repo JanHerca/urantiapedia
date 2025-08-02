@@ -44,9 +44,9 @@ Nous aimerions partager avec vous deux projets sur lesquels nous travaillons dep
 
 Le monde a besoin d’une nouvelle vision de la vie du Maître sur terre.
 
-Les étudiants du Livre d’Urantia construisent actuellement le **Métavers de Jésus,** un portail en ligne qui offrira une présentation immersive de la vie entière de Jésus telle qu’elle est décrite dans _Le Livre d’Urantia_.  L’histoire et les enseignements de Jésus seront également présentés dans le futur **Musée de Jésus**, près de la mer de Galilée.
+Les étudiants du Livre d’Urantia construisent actuellement le **Métavers de Jésus,** un portail en ligne qui offrira une présentation immersive de la vie entière de Jésus telle qu’elle est décrite dans _Le Livre d’Urantia_. L’histoire et les enseignements de Jésus seront également présentés dans le futur **Musée de Jésus**, près de la mer de Galilée.
 
-Avez-vous déjà rêvé de visiter un musée entièrement consacré à Jésus ? N’avez-vous jamais rêvé de construire un temple au Père invisible ?  Un tel lieu, situé dans un endroit des plus appropriés, se concentrera sur notre Père céleste (tel que révélé par _Le Livre d’Urantia_ et Jésus) et fera la promotion de la religion de Jésus.
+Avez-vous déjà rêvé de visiter un musée entièrement consacré à Jésus ? N’avez-vous jamais rêvé de construire un temple au Père invisible ? Un tel lieu, situé dans un endroit des plus appropriés, se concentrera sur notre Père céleste (tel que révélé par _Le Livre d’Urantia_ et Jésus) et fera la promotion de la religion de Jésus.
 
 Nous espérons recevoir jusqu’à un demi-million de visiteurs par an, étant donné le nombre de touristes qui viennent dans cette région populaire pour marcher dans les pas de Jésus.
 

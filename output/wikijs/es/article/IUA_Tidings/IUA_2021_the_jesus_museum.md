@@ -41,21 +41,21 @@ Nos gustaría compartir con ustedes dos proyectos en los que llevamos un tiempo 
 <img src="/image/article/IUA_Tidings/Jesus-Metaverse-1.jpg">
 </figure>
 
-El mundo necesita una nueva visión de la vida del Maestro en la tierra. 
+El mundo necesita una nueva visión de la vida del Maestro en la tierra. 
 
-Unos estudiantes de _El libro de Urantia_ están construyendo el **Metaverso de Jesús**, un portal virtual que ofrecerá una presentación inmersiva de toda la vida de Jesús tal y como se describe en _El libro de Urantia_.  La historia y las enseñanzas de Jesús también aparecerán en el proyectado **Museo de Jesús**, cerca del mar de Galilea.
+Unos estudiantes de _El libro de Urantia_ están construyendo el **Metaverso de Jesús**, un portal virtual que ofrecerá una presentación inmersiva de toda la vida de Jesús tal y como se describe en _El libro de Urantia_. La historia y las enseñanzas de Jesús también aparecerán en el proyectado **Museo de Jesús**, cerca del mar de Galilea.
 
-¿Han soñado alguna vez con visitar un museo enteramente dedicado a Jesús? ¿Han soñado alguna vez con construir un templo al Padre invisible? Un lugar así, situado en una ubicación muy adecuada, se centrará en nuestro Padre celestial (tal y como lo revelan _El libro de Urantia_ y Jesús) y promoverá la religión de Jesús.
+¿Han soñado alguna vez con visitar un museo enteramente dedicado a Jesús? ¿Han soñado alguna vez con construir un templo al Padre invisible? Un lugar así, situado en una ubicación muy adecuada, se centrará en nuestro Padre celestial (tal y como lo revelan _El libro de Urantia_ y Jesús) y promoverá la religión de Jesús.
 
 Esperamos recibir hasta medio millón de visitantes al año, dado el número de turistas que acuden a esta popular región para seguir los pasos de Jesús.
 
-¿Han soñado con compartir al verdadero Jesús con el mundo? Seguramente, el corazón de millones de personas se encenderá con solo conocer al Maestro.
+¿Han soñado con compartir al verdadero Jesús con el mundo? Seguramente, el corazón de millones de personas se encenderá con solo conocer al Maestro.
 
-El Metaverso de Jesús presentará la historia completa de Jesús, desde el niño de Belén hasta el Señor ascendido. Produciremos presentaciones cinematográficas y crearemos otros contenidos ricos en recursos audiovisuales inmersivos, atractivos y totalmente basados en _El libro de Urantia_.
+El Metaverso de Jesús presentará la historia completa de Jesús, desde el niño de Belén hasta el Señor ascendido. Produciremos presentaciones cinematográficas y crearemos otros contenidos ricos en recursos audiovisuales inmersivos, atractivos y totalmente basados en _El libro de Urantia_.
 
 Imaginen lo maravilloso que será para todos y cada uno de los habitantes del mundo explorar la vida y las enseñanzas de Jesús de la manera que quieran.
 
-Inicialmente nos dirigiremos a los jóvenes cristianos de Occidente. Muchos anhelan una relación personal con Dios, pero no la encuentran en sus religiones institucionalizadas. Con el tiempo, ampliaremos el alcance a un público más amplio.
+Inicialmente nos dirigiremos a los jóvenes cristianos de Occidente. Muchos anhelan una relación personal con Dios, pero no la encuentran en sus religiones institucionalizadas. Con el tiempo, ampliaremos el alcance a un público más amplio.
 
 El Centro para la Unidad es una nueva organización sin ánimo de lucro creada por estudiantes de _El libro de Urantia_ para desarrollar estos proyectos. El nombre está inspirado en la religión _de_ Jesús, que «_es la influencia unificadora más poderosa que el mundo haya conocido jamás_» (<a id="a59_288"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17)).
 

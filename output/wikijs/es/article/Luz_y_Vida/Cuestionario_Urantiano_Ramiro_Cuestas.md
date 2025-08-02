@@ -50,9 +50,9 @@ Pues, fascinación, creo que es la palabra. Era tanta la necesidad que tenía de
 
 Cuando comencé a leer el libro decidí que no haría una evaluación de este hasta haberlo terminado, y creo que ese método funcionó bien, pues de otra manera hubiera dejado de leerlo en el Prólogo. Así que, cuando finalicé esa lectura, no dudé de lo que es el libro, una nueva revelación de la verdad a nosotros los seres humanos, puesto que me dio la respuesta, como dije anteriormente, a muchas preguntas sobre Dios, el universo, la vida de Jesús en nuestro planeta, por qué estamos aquí y qué pasa después de nuestro paso por este mundo.
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
 
-_El libro de Urantia_ cambió mi vida, mi fe, mi religión, porque, como suelo decir yo, durante aproximadamente 50 años de mi vida fui un esclavo desde el punto de vista espiritual, esclavo de una religión evolutiva o normatizada que te impide desarrollar una relación personal e íntima con Dios. La quinta revelación rompió esas cadenas y permitió que yo pudiera buscar a Dios dentro de mí y comenzar así ese largo viaje que comienza en nuestro planeta y finaliza en la Isla del Paraíso, residencia del originador de todo y de todos, el Padre Universal. 
+_El libro de Urantia_ cambió mi vida, mi fe, mi religión, porque, como suelo decir yo, durante aproximadamente 50 años de mi vida fui un esclavo desde el punto de vista espiritual, esclavo de una religión evolutiva o normatizada que te impide desarrollar una relación personal e íntima con Dios. La quinta revelación rompió esas cadenas y permitió que yo pudiera buscar a Dios dentro de mí y comenzar así ese largo viaje que comienza en nuestro planeta y finaliza en la Isla del Paraíso, residencia del originador de todo y de todos, el Padre Universal. 
 
 ## 5. ¿Hay algún punto (o puntos) de la revelación que te cueste aceptar?
 

@@ -54,11 +54,11 @@ LIVE BROADCASTING of all presentations!  Use this link: [http://www.ustream.tv/c
 
 **REGISTRATION**
 
-Les inscriptions doivent être faites au plus tard le 7 septembre 2016 !
+Les inscriptions doivent être faites au plus tard le 7 septembre 2016 !
 
-Le forfait conférence sans hébergement a une valeur de 285 €
+Le forfait conférence sans hébergement a une valeur de 285 €
 
-Pour toute question relative à l’inscription, envoyez un e-mail à :
+Pour toute question relative à l’inscription, envoyez un e-mail à :
 
 [mailto:europeanconference@urantia-association.org](mailto:europeanconference@urantia-association.org)
 <br style="clear:both;"/>
@@ -128,7 +128,7 @@ Les participants peuvent prendre une navette (à l’[aéroport](http://www.bud.
 
 Pour cette conférence, nous avons créé une bourse d'études spéciale pour le leadership européen. Cela signifie que nous accordons la préférence aux dirigeants européens qui ont besoin d'une aide financière pour représenter leur pays à cette conférence internationale. Les présidents, vice-présidents et dirigeants européens actuels ou futurs bénéficieront de leur participation à cet événement et rapporteront les enseignements à leurs associations. Si nous parvenons à faire venir suffisamment de dirigeants européens à cette conférence, nous organiserons une réunion spéciale pour eux à la fin de l’événement. Pour plus d'informations sur la bourse d'études pour le leadership européen, contactez Antonio Schefer à [conference@triniteit.org](mailto:conference@triniteit.org)
 
-Remarque : les bourses d'études pour le leadership européen ne sont plus disponibles !
+Remarque : les bourses d'études pour le leadership européen ne sont plus disponibles !
 
 **PROGRAMMING**
 
@@ -147,7 +147,7 @@ _Program might change!_
 
 Link to the [Poster](http://urantia-association.org/wp-content/uploads/2016/08/Budapest-Event-Poster-5-Logos.png)
 
-**_Note_**_ : Cette conférence est organisée par le Blue Club et sponsorisée par l’Association Urantia Internationale, la Fondation Urantia, Truthbook, l’Association Urantia Lone Star et la Urantia Book Fellowship !_
+**_Note_**_ : Cette conférence est organisée par le Blue Club et sponsorisée par l’Association Urantia Internationale, la Fondation Urantia, Truthbook, l’Association Urantia Lone Star et la Urantia Book Fellowship !_
 
 Lien vers l’événement européen Urantia [PDF brochure](http://urantia-association.org/wp-content/uploads/2016/04/Budapest-Folder-2016.pdf)
 

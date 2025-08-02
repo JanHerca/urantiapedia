@@ -47,7 +47,7 @@ La encuesta nos dará una oportunidad única de comenzar una conversación con u
 
 Las respuestas a esta encuesta serán anónimas y se recopilarán de manera centralizada en el Comité de Miembros de la Asociación. Se proporcionarán respuestas a nuestros lectores y voluntarios de manera anónima y toda la información que nos den se empleará para mejorar la manera en que nos comunicamos y para dar apoyo a nuestros miembros independientes e institucionales de cada continente.
 
-Si tienen preguntas o sugerencias acerca de otros aspectos que debería incluir la encuesta, envíenlas a Luis García-Bory, presidente de Miembros [members@urantia-association.org](mailto:members@urantia-association.org) antes del 31 de diciembre.
+Si tienen preguntas o sugerencias acerca de otros aspectos que debería incluir la encuesta, envíenlas a Luis García-Bory, presidente de Miembros [members@urantia-association.org](mailto:members@urantia-association.org) antes del 31 de diciembre.
 
 Gracias anticipadas. ¡Esperamos su participación con mucha ilusión!
 

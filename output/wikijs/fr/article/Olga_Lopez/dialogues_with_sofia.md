@@ -46,7 +46,7 @@ Ainsi, un jour sans même être certaine que j’allais finir le roman, et aprè
 
 Dans ce premier roman, la base fondamentale était le dialogue entre les personnages. Dans mes études de philosophie, je suis tombé sur les dialogues de Socrate et de Platon, qui ont été une grande source d’inspiration pour moi, surtout dans la façon dont ils transmettaient les idées des auteurs. En fait, le nom Sofia est une sorte d’hommage aux philosophes grecs, et vient du grec Σoφíα, qui signifie « sagesse ». Et à propos de Michael… eh bien, vous savez pourquoi ce nom est si spécial pour nous !
 
-Au fil des dialogues, j’ai réalisé combien il était difficile de relier les sujets, mais j’ai vraiment apprécié le processus et j’ai fait de mon mieux pour que les conversations se déroulent bien. Finalement, en janvier 2007, j’ai écrit la dernière phrase. Je me souviens très bien de ce moment. J’ai ensuite ressenti la grande satisfaction d’avoir atteint l’un de mes objectifs. Mais le plus dur restait à faire : que d’autres le lisent. J’avais beaucoup de doutes : est-ce que les autres l’aimeraient ? Le comprendraient-ils ? Avais-je réussi à transmettre ce que je voulais ? La plupart de mes doutes ont été dissipés lorsque Paco, mon âme sœur, a lu le roman et m’a dit qu’il l’avait beaucoup aimé. Mais bien sûr, je me suis demandé ce qu’il allait me dire puisqu’il est mon mari. Bien que je sache que s’il n’avait pas aimé, il aurait trouvé un moyen de me le dire sans me blesser, il restait encore un petit soupçon de doute.
+Au fil des dialogues, j’ai réalisé combien il était difficile de relier les sujets, mais j’ai vraiment apprécié le processus et j’ai fait de mon mieux pour que les conversations se déroulent bien. Finalement, en janvier 2007, j’ai écrit la dernière phrase. Je me souviens très bien de ce moment. J’ai ensuite ressenti la grande satisfaction d’avoir atteint l’un de mes objectifs. Mais le plus dur restait à faire : que d’autres le lisent. J’avais beaucoup de doutes : est-ce que les autres l’aimeraient ? Le comprendraient-ils ? Avais-je réussi à transmettre ce que je voulais ? La plupart de mes doutes ont été dissipés lorsque Paco, mon âme sœur, a lu le roman et m’a dit qu’il l’avait beaucoup aimé. Mais bien sûr, je me suis demandé ce qu’il allait me dire puisqu’il est mon mari. Bien que je sache que s’il n’avait pas aimé, il aurait trouvé un moyen de me le dire sans me blesser, il restait encore un petit soupçon de doute.
 
 Donc, après avoir corrigé quelques erreurs que Paco avait détectées, j’ai envoyé le dossier par courrier électronique à quelques amis \[ceux qui figurent dans la dédicace\], qui m’ont donné de très bonnes impressions et des conseils. J’ai corrigé quelques autres choses qui étaient passées inaperçues, et à partir de ce moment, j’ai commencé à prendre les mesures nécessaires pour le publier sur papier.
 
@@ -56,7 +56,7 @@ Avec ce premier livre, j’ai réalisé qu’une fois la tâche d’écriture te
 
 Grâce à quelques amis lecteurs \[Fran, Alex, Gabriel et Jay\], « _Dialogues with Sofia_  » est maintenant disponible en anglais, en allemand et en coréen. Et la traduction en hébreu est en cours !
 
-Ce roman est gratuit en format électronique. Voici les liens pour le télécharger gratuitement :
+Ce roman est gratuit en format électronique. Voici les liens pour le télécharger gratuitement :
 
 - Espagnol (Diálogos con Sofía):
     - [PDF](https://drive.google.com/file/d/1vaTBDtDEy1HV2tFOamudOSTyEG3ol2oJ/view?usp=sharing)

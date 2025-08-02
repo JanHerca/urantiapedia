@@ -42,7 +42,7 @@ _Par le personnel de la Fondation Urantia_
 
 Bien avant l'ère de l'internet, le personnel de la Fondation s'appuyait sur la correspondance écrite et téléphonique avec des contacts dans le monde entier. Ce n'est qu'au début des années 90 que la plupart des bureaux ont commencé à tirer parti du World Wide Web, qui a rendu l'accès à l'information et la connexion en ligne beaucoup plus convivial pour le commun des mortels.
 
-Pendant cette même période, de nouvelles traductions du _Livre d'Urantia_ devenaient disponibles. La distribution internationale des livres était délicate et plutôt laissée aux centres régionaux. Au début des années 90, il fut logique pour la Fondation Urantia de créer des succursales pour la vente et la distribution des livres. La Fondation voyait son rôle comme celui d'un médiateur et un coordinateur, car « Le meilleur État est celui qui coordonne le plus en gouvernant le moins. » [LU 71:3.9](/fr/The_Urantia_Book/71#p3_9)
+Pendant cette même période, de nouvelles traductions du _Livre d'Urantia_ devenaient disponibles. La distribution internationale des livres était délicate et plutôt laissée aux centres régionaux. Au début des années 90, il fut logique pour la Fondation Urantia de créer des succursales pour la vente et la distribution des livres. La Fondation voyait son rôle comme celui d'un médiateur et un coordinateur, car « Le meilleur État est celui qui coordonne le plus en gouvernant le moins. » [LU 71:3.9](/fr/The_Urantia_Book/71#p3_9)
 
 Le premier des cinq bureaux régionaux fut créé en Australie en 1992, sous la direction de Trevor et Kathleen Swadling. L'année suivante, un bureau fut ouvert en Angleterre. Chris et Tina Moseley travaillèrent en étroite collaboration avec les librairies pour assurer un approvisionnement en Livres d'Urantia aux lecteurs à travers le Royaume-Uni.
 
@@ -54,15 +54,15 @@ Pour diverses raisons, les bureaux régionaux ont fermé les uns après les autr
 
 <br style="clear:both;"/>
 
-Voici un message personnel de Tapio :
+Voici un message personnel de Tapio :
 
-> « Je suis un lecteur du _Livre d'Urantia_ depuis 1987. Lorsque j’étais jeune, j'ai participé au processus de création de l'Association finlandaise Urantia et j'ai servi dans son conseil d'administration, principalement en tant que trésorier. Je me souviens bien d'une visite précédente d'un groupe de lecteurs des États-Unis qui faisaient la promotion du _Livre d'Urantia._ Le plus sympathique et le plus caractéristique d'entre eux fut Richard Keeler. Les années suivantes, nous avons beaucoup aimé sa musique au banjo et son chant. Il avait même réussi à nous faire chanter avec lui, nous, timides lecteurs finlandais. Et c’etait déjà beaucoup !
+> « Je suis un lecteur du _Livre d'Urantia_ depuis 1987. Lorsque j’étais jeune, j'ai participé au processus de création de l'Association finlandaise Urantia et j'ai servi dans son conseil d'administration, principalement en tant que trésorier. Je me souviens bien d'une visite précédente d'un groupe de lecteurs des États-Unis qui faisaient la promotion du _Livre d'Urantia._ Le plus sympathique et le plus caractéristique d'entre eux fut Richard Keeler. Les années suivantes, nous avons beaucoup aimé sa musique au banjo et son chant. Il avait même réussi à nous faire chanter avec lui, nous, timides lecteurs finlandais. Et c’etait déjà beaucoup !
 > 
-> « Durant les 10 dernières années, j'ai dirigé la branche finlandaise de la Fondation Urantia en vendant des livres, principalement la traduction finlandaise. Maintenant que la deuxième édition a été imprimée, le livre a un nouveau distributeur, Ultra-lehti.
+> « Durant les 10 dernières années, j'ai dirigé la branche finlandaise de la Fondation Urantia en vendant des livres, principalement la traduction finlandaise. Maintenant que la deuxième édition a été imprimée, le livre a un nouveau distributeur, Ultra-lehti.
 > 
-> « Ce fut une expérience précieuse pour moi de connaître les premiers lecteurs finlandais qui lisaient le livre depuis le milieu des années 60. Nous, les humains, admirons et apprécions généralement les pionniers, mais je suppose qu'en se basant du point de vue historique futur, nous serons tous considérés comme des pionniers. Le message du livre en est encore à ses premiers pas.
+> « Ce fut une expérience précieuse pour moi de connaître les premiers lecteurs finlandais qui lisaient le livre depuis le milieu des années 60. Nous, les humains, admirons et apprécions généralement les pionniers, mais je suppose qu'en se basant du point de vue historique futur, nous serons tous considérés comme des pionniers. Le message du livre en est encore à ses premiers pas.
 > 
-> « Récemment, j'ai réfléchi à la bonne nouvelle de l'Évangile de Jésus. Nous sommes tous partenaires du grand projet qui consiste à être aussi parfaits que notre Créateur. Notre tâche consiste à trouver des valeurs plus élevées à travers notre propre expérience. Dans ce plan, nous sommes même des co-créateurs potentiels. Quel message de joie à partager pour nous tous ! »
+> « Récemment, j'ai réfléchi à la bonne nouvelle de l'Évangile de Jésus. Nous sommes tous partenaires du grand projet qui consiste à être aussi parfaits que notre Créateur. Notre tâche consiste à trouver des valeurs plus élevées à travers notre propre expérience. Dans ce plan, nous sommes même des co-créateurs potentiels. Quel message de joie à partager pour nous tous ! »
 
 ## Références
 

@@ -40,13 +40,13 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Collins Lomo, trustee associé, Fondation Urantia, Accra, Ghana_
 
-« Que cherchiez-vous lorsque vous avez découvert _Le Livre d'Urantia_ sur Internet ? » Chaque fois que l'on me pose cette question, je me rappelle à quel point j'aurais pu facilement manquer l'occasion de trouver cette révélation impressionnante. Je ne me souviens pas vraiment de ce que je cherchais, mais quoi que ce soit, ce devait être quelque chose de spécial. J'aurais pu jeter un bref coup d'œil au site web avant de passer à autre chose, ou peut-être lire quelques passages et le rejeter comme l'un de ces ismes et cultes bizarres. Mais heureusement, la curiosité a eu raison de moi en ce jour fatidique !
+« Que cherchiez-vous lorsque vous avez découvert _Le Livre d'Urantia_ sur Internet ? » Chaque fois que l'on me pose cette question, je me rappelle à quel point j'aurais pu facilement manquer l'occasion de trouver cette révélation impressionnante. Je ne me souviens pas vraiment de ce que je cherchais, mais quoi que ce soit, ce devait être quelque chose de spécial. J'aurais pu jeter un bref coup d'œil au site web avant de passer à autre chose, ou peut-être lire quelques passages et le rejeter comme l'un de ces ismes et cultes bizarres. Mais heureusement, la curiosité a eu raison de moi en ce jour fatidique !
 
 Une chose que je peux vous dire, c'est que je suis une personne curieuse. Dès mon plus jeune âge, j'ai remis les choses en question et bombardé mes parents de questions gênantes. En bref, j'étais un point d'interrogation constant, même à l'âge adulte. Peut-être que cette tendance à rechercher l'inhabituel, le pas si confortable – on pourrait même dire les choses bizarres de la vie – fut ce qui m'amena au _Livre d'Urantia_. Même aujourd'hui, là où la plupart des gens ne veulent pas regarder, c'est exactement là où je veux regarder. Ce qui semble différent est ce qui attire mon attention. Suivre le chemin normal, marcher sur la voie large et être à l'aise — ces perspectives ne suscitent jamais mon intérêt et ma participation.
 
 Ainsi, un simple sujet ou titre faisant référence à Adam et Eve, ou à Melchizédek, ou à la petite enfance de Jésus, ou au grand sujet — le gouvernement d'une planète voisine — aurait été tout ce dont j'avais besoin de voir sur mon navigateur pour découvrir ce que ce livre avait à offrir. Et c'est là où j'en suis, après 13 ans de découverte. Chaque fois que je lis et partage la révélation, elle m'intrigue de plus en plus.
 
-S'il y a un conseil que j'aimerais donner à quiconque dans ce monde déchiré par la guerre et la confusion — que ce soit mes propres enfants, un ami ou un étranger que je rencontre par hasard — c'est celui-ci : _Ne stagnez pas !_
+S'il y a un conseil que j'aimerais donner à quiconque dans ce monde déchiré par la guerre et la confusion — que ce soit mes propres enfants, un ami ou un étranger que je rencontre par hasard — c'est celui-ci : _Ne stagnez pas !_
 
 Soyez désireux d'en découvrir plus que seulement les causes et les effets des événements et des phénomènes courants.
 

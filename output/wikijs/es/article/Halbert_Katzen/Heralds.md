@@ -48,7 +48,7 @@ _heraldo:_ 6; _heraldos:_ 4; _anunciado:_ 2
 
 ## La partida de Jesús
 
-**Heraldos** de la Resurrección (<a id="a50_33"></a>[LU 190:1](/es/The_Urantia_Book/190#p1))
+**Heraldos** de la Resurrección (<a id="a50_33"></a>[LU 190:1](/es/The_Urantia_Book/190#p1))
 
 > Desde la tumba, David y José fueron inmediatamente a la casa de Elías Marcos, donde mantuvieron una conferencia con los diez apóstoles en la habitación de arriba. Sólo Juan Zebedeo estaba dispuesto a creer, aunque débilmente, que Jesús había resucitado de entre los muertos. Pedro había creído al principio, pero como no logró encontrar al Maestro, empezó a tener grandes dudas. Todos estaban dispuestos a creer que los judíos se habían llevado el cuerpo. David no quiso discutir con ellos, pero en el momento de irse, dijo: «Vosotros sois los apóstoles, y deberíais comprender estas cosas. No discutiré con vosotros; no obstante, ahora regreso a la casa de Nicodemo, donde he indicado a los mensajeros que nos reuniremos esta mañana. Cuando se hayan reunido, los enviaré a realizar su última misión, la de **anunciar** la resurrección del Maestro. Escuché decir al Maestro que, después de su muerte, resucitaría al tercer día, y yo le creo». Después de hablar así a los abatidos y desamparados embajadores del reino, este joven que se había nombrado a sí mismo jefe de las comunicaciones y de la información se despidió de los apóstoles. Al salir de la habitación de arriba, dejó caer la bolsa de Judas, que contenía todos los fondos apostólicos, en el regazo de Mateo Leví. (<a id="a52_1279"></a>[LU 190:1.3](/es/The_Urantia_Book/190#p1_3))
 

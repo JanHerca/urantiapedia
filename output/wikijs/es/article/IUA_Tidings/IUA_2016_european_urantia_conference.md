@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Tenemos el gran placer de anunciarles la Conferencia Urantia Europea, que se celebrará en Budapest (Hungría) del 15 al 18 de septiembre de 2016.
 
-El _Blue Club_ (lectores europeos de _El libro de Urantia_) ha estado trabajando duro para organizar este evento en Europa del este. Para unir el este con el oeste, hemos elegido esta histórica ciudad como lugar de celebración de nuestra conferencia internacional. La última reunión fue en Berlín en 2014. Cincuenta y cinco lectores de _El libro de Urantia_ participaron en aquel evento. El objetivo de esta conferencia es tratar sobre cuestiones acerca de Jesús bajo el tema _¿Quién es Jesús?_ Damos la bienvenida a lectores de _El libro de Urantia_ de todo el mundo para que se unan a nuestra conferencia continental.
+El _Blue Club_ (lectores europeos de _El libro de Urantia_) ha estado trabajando duro para organizar este evento en Europa del este. Para unir el este con el oeste, hemos elegido esta histórica ciudad como lugar de celebración de nuestra conferencia internacional. La última reunión fue en Berlín en 2014. Cincuenta y cinco lectores de _El libro de Urantia_ participaron en aquel evento. El objetivo de esta conferencia es tratar sobre cuestiones acerca de Jesús bajo el tema _¿Quién es Jesús?_ Damos la bienvenida a lectores de _El libro de Urantia_ de todo el mundo para que se unan a nuestra conferencia continental.
 <br style="clear:both;"/>
 **15-18 de septiembre de 2016**
 

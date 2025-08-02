@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 En août 2023, le Parlement des Religions du Monde revient à Chicago, berceau du mouvement interconfessionnel moderne, pour célébrer 130 ans de réalisations. Les congrès du Parlement attirent des participants de plus de 80 nations reflétant plus de 200 croyances religieuses, indigènes et séculaires diverses.
 
-Sa mission : « Le Parlement des Religions du Monde a été créé pour cultiver l’harmonie entre les communautés religieuses et spirituelles du monde et favoriser leur engagement avec le monde et ses institutions directrices afin de parvenir à un monde juste, pacifique et durable. »
+Sa mission : « Le Parlement des Religions du Monde a été créé pour cultiver l’harmonie entre les communautés religieuses et spirituelles du monde et favoriser leur engagement avec le monde et ses institutions directrices afin de parvenir à un monde juste, pacifique et durable. »
 
 Les participants aux congrès du Parlement apportent une sagesse et une vision du monde uniques issues de leurs traditions et de leurs vies religieuses, de leur érudition, de leurs talents artistiques et de leur militantisme. Au Parlement des Religions du Monde 2023, les participants du monde entier répondent à un appel à la conscience.
 

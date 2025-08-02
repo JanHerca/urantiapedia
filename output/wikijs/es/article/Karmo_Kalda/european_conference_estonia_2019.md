@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Tenemos el placer de anunciarles la II Conferencia Urantia Europea que se celebrará en Tallin (Estonia) del 11 al 14 de julio de 2019.
 
-El tema de la conferencia es «**Sembrar semillas: crecimiento cualitativo interno o cuantitativo externo»** y se centrará en cómo podemos crecer internamente en espíritu y externamente en número. Damos la bienvenida a lectores de todo el mundo.
+El tema de la conferencia es «**Sembrar semillas: crecimiento cualitativo interno o cuantitativo externo»** y se centrará en cómo podemos crecer internamente en espíritu y externamente en número. Damos la bienvenida a lectores de todo el mundo.
 
 El viernes y el domingo el programa se concentrará en los potenciales espirituales de crecimiento. El sábado nos centraremos en aumentar el número de lectores. Presentaremos experiencias de diferentes países de Europa y de otros continentes y examinaremos lo que han hecho para encontrar nuevos lectores y para formar nuevos grupos de estudio. A continuación de estas presentaciones nuestros talleres se centrarán en desarrollar nuevos planes para atraer a lectores. Los talleres se organizarán en pequeños grupos por idiomas.
 
@@ -49,7 +49,7 @@ El viernes y el domingo el programa se concentrará en los potenciales espiritua
 <img src="/image/article/IUA_Tidings/Tallink-Spa-amp-Conference-Hotel-Conference-300x225.jpg">
 </figure>
 
-La Asociación Urantia de Estonia (Eesti Urantia Assotsiatsioon – EUA) organizará esta conferencia, que tendrá lugar en el Tallink Spa & Conference Hotel de Tallin (Estonia). El idioma principal de la conferencia será el inglés, pero si su lengua materna no es el inglés y le cuesta entenderlo debería saber que planeamos traducir todas las presentaciones a varios idiomas (dependiendo de cuántos traductores voluntarios encontremos) para tenerlas disponibles al comienzo de la conferencia en forma impresa.
+La Asociación Urantia de Estonia (Eesti Urantia Assotsiatsioon – EUA) organizará esta conferencia, que tendrá lugar en el Tallink Spa & Conference Hotel de Tallin (Estonia). El idioma principal de la conferencia será el inglés, pero si su lengua materna no es el inglés y le cuesta entenderlo debería saber que planeamos traducir todas las presentaciones a varios idiomas (dependiendo de cuántos traductores voluntarios encontremos) para tenerlas disponibles al comienzo de la conferencia en forma impresa.
 
 La página web de la conferencia es: [www.urantia.ee/conference2019](http://www.urantia.ee/conference2019/), donde hay más información sobre el programa, la inscripción al evento y la reserva de su habitación de hotel. Los próximos meses habrá más información disponible en la web.
 <br style="clear:both;"/>
@@ -62,9 +62,9 @@ La página web de la conferencia es: [www.urantia.ee/conference2019](http://www.
 
 Comiencen a planificar su viaje ahora para asistir a esta conferencia y exploren la ciudad medieval mejor conservada del norte de Europa, Tallin, con torres góticas, calles empedradas y arquitectura fascinante.
 
-Inscríbanse para este hermoso evento y recibirán un **descuento de 60 € por reserva anticipada** si se inscriben antes del 1 de marzo de 2019.
+Inscríbanse para este hermoso evento y recibirán un **descuento de 60 € por reserva anticipada** si se inscriben antes del 1 de marzo de 2019.
 
-Hagan clic en el siguiente enlace [www.urantia.ee/conference2019](http://www.urantia.ee/conference2019/) para inscribirse en el evento y reservar su habitación.
+Hagan clic en el siguiente enlace [www.urantia.ee/conference2019](http://www.urantia.ee/conference2019/) para inscribirse en el evento y reservar su habitación.
 
 ## Llamada a la acción
 

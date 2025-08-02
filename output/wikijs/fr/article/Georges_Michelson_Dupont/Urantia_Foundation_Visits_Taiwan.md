@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Georges Michelson-Dupont, vice-président international et responsable des traductions, Fondation Urantia, Recloses, France_
 
-_Note de l'éditeur : Cette visite a été organisée par Vicki Yang et son équipe d'étudiants à Taiwan, avec l'aide de Richard Zhu, le traducteur du_ Livre d'Urantia _en caractères chinois simplifiés. Initialement prévue pour avril 2020, elle a été reportée en raison de la pandémie. Le retard a profité aux étudiants de Vicki en leur donnant le temps de mieux se familiariser avec Le Livre d'Urantia en anglais_.
+_Note de l'éditeur : Cette visite a été organisée par Vicki Yang et son équipe d'étudiants à Taiwan, avec l'aide de Richard Zhu, le traducteur du_ Livre d'Urantia _en caractères chinois simplifiés. Initialement prévue pour avril 2020, elle a été reportée en raison de la pandémie. Le retard a profité aux étudiants de Vicki en leur donnant le temps de mieux se familiariser avec Le Livre d'Urantia en anglais_.
 
 <br style="clear:both;"/>
 
@@ -69,7 +69,7 @@ Après s'être familiarisée avec _Le Livre d'Urantia,_ Vicki a participé en 19
 
 Le week-end des 16 et 17 mars, sept membres du conseil d'administration élargi se sont réunis à Taïwan pour une conférence de deux jours organisée par Vicki et son équipe de planification. Notre délégation était composée de Mo Siegel, Gard Jameson, Victor García-Bory, Gaétan Charland, Geri Johnson et son mari Rob Mastroianni, Tamara Strumfeld et moi-même. Le traducteur chinois Richard Zhu m'a accompagné depuis Paris.
 
-C'était une étape importante dans la diffusion de la révélation dans le monde. Après 20 ans de travail dévoué et de financement, la traduction du _Livre d'Urantia_ en caractères chinois simplifiés était achevée et publiée sur urantia.org. Et maintenant, nous construisions des relations fraternelles avec nos sœurs et frères de Taiwan !
+C'était une étape importante dans la diffusion de la révélation dans le monde. Après 20 ans de travail dévoué et de financement, la traduction du _Livre d'Urantia_ en caractères chinois simplifiés était achevée et publiée sur urantia.org. Et maintenant, nous construisions des relations fraternelles avec nos sœurs et frères de Taiwan !
 
 Le but premier de la conférence était de célébrer la traduction chinoise et d'établir sa présence à Taiwan et en Chine. Nous étions aussi là pour présenter et expliquer la mission de la Fondation Urantia dans le monde, donner quelques présentations introductives sur la révélation et forger un partenariat avec les étudiants de Vicki, qu'elle avait initiés au _Livre d'Urantia_ au fil des ans.
 
@@ -83,15 +83,15 @@ Toutes les présentations furent soumises à l'avance et méticuleusement tradui
 
 <br style="clear:both;"/>
 
-Le samedi débuta par un accueil chaleureux de Vicki, suivi d'un remerciement de Mo et d'une présentation de la Fondation Urantia par Tamara. Mon aperçu du _Livre d'Urantia_ comprenait quelques conseils sur la façon de le lire et de l'étudier. Après une courte pause, j'ai fait la première présentation, intitulée « _Le Livre d'Urantia_ : Une introduction à la conscience cosmique ».
+Le samedi débuta par un accueil chaleureux de Vicki, suivi d'un remerciement de Mo et d'une présentation de la Fondation Urantia par Tamara. Mon aperçu du _Livre d'Urantia_ comprenait quelques conseils sur la façon de le lire et de l'étudier. Après une courte pause, j'ai fait la première présentation, intitulée « _Le Livre d'Urantia_ : Une introduction à la conscience cosmique ».
 
-Gard a animé une méditation de 10 minutes après le déjeuner. Ce fut ensuite au tour de Gaétan de présenter « La paternité de Dieu et la fraternité des hommes ».
+Gard a animé une méditation de 10 minutes après le déjeuner. Ce fut ensuite au tour de Gaétan de présenter « La paternité de Dieu et la fraternité des hommes ».
 
-Richard a fait la dernière présentation de la journée intitulée « Evaluation et Orientation de la Poursuite Chinoise de la Vérité », un parallèle fascinant entre la vérité délivrée dans _Le Livre d'Urantia_ et la poursuite millénaire de la vérité dans la culture chinoise. Une séance de dédicace a suivi la session, au cours de laquelle de nombreux remerciements et embrassades eurent lieu.
+Richard a fait la dernière présentation de la journée intitulée « Evaluation et Orientation de la Poursuite Chinoise de la Vérité », un parallèle fascinant entre la vérité délivrée dans _Le Livre d'Urantia_ et la poursuite millénaire de la vérité dans la culture chinoise. Une séance de dédicace a suivi la session, au cours de laquelle de nombreux remerciements et embrassades eurent lieu.
 
 Le samedi s'est terminé par un banquet élaboré. Les invités étaient assis à des tables de huit, chacun avec un interprète afin que nous puissions faire connaissance. Ce fut un moment de grande convivialité et de partage, chacun parlant librement de sa vie de famille, de ses projets et de ses difficultés.
 
-La conférence a repris le dimanche matin avec une méditation silencieuse dirigée par Gard, suivie de son exposé sur « La Révélation d'époque ». Après une pause, ce fut au tour de Victor de parler de « L'origine et le Ministère des medians ». Après le déjeuner, Geri et Rob ont présenté « L’Appreciation Révélée de Jésus, Micaël de Nébadon ».
+La conférence a repris le dimanche matin avec une méditation silencieuse dirigée par Gard, suivie de son exposé sur « La Révélation d'époque ». Après une pause, ce fut au tour de Victor de parler de « L'origine et le Ministère des medians ». Après le déjeuner, Geri et Rob ont présenté « L’Appreciation Révélée de Jésus, Micaël de Nébadon ».
 
 Finalement, Gard et Mo ont fait venir Vicki sur la scène et lui ont rendu un hommage sincère ainsi qu'à Richard pour leur dévouement à la révélation et pour tout leur travail sur la conférence. Vicki a annoncé à ses étudiants qu'elle souhaitait se retirer de ses autres activités afin de se consacrer à la finalisation de la traduction du _Livre d'Urantia_ en caractères chinois traditionnels. Ce fut un moment vraiment poignant et émouvant partagé par tous.
 
@@ -101,7 +101,7 @@ Il est intéressant de noter que pas une seule personne n'a quitté la salle pen
 
 Une deuxième conférence, quelque peu improvisée, eut lieu le lundi à Zuoying, la ville natale de Vicki. Vicki, Richard et moi-même nous sommes levés tôt et avons pris le train à grande vitesse pour nous rendre à un endroit où elle donne des cours sur le _Cours en Lumière_. Une trentaine de personnes, pour la plupart des femmes, nous y attendaient et un dispositif vidéo avait été mis en place pour diffuser la session en direct sur YouTube.
 
-Je fus invité à parler de la Fondation Urantia, du _Livre d'Urantia_ et de la façon dont il a changé ma vie. J'ai répondu aux questions dans une atmosphère de grande fraternité. Richard a parlé de l'origine, de la mission, de la dotation et de la destinée de l'Ajusteur de Pensée. Sa présentation extrêmement bien structurée a suscité beaucoup d'intérêt ; nous avons vu de nombreuses personnes prendre des photos de ses diapositives, et deux personnes étaient en larmes lorsqu'elles ont réalisé que Dieu les habitait.
+Je fus invité à parler de la Fondation Urantia, du _Livre d'Urantia_ et de la façon dont il a changé ma vie. J'ai répondu aux questions dans une atmosphère de grande fraternité. Richard a parlé de l'origine, de la mission, de la dotation et de la destinée de l'Ajusteur de Pensée. Sa présentation extrêmement bien structurée a suscité beaucoup d'intérêt ; nous avons vu de nombreuses personnes prendre des photos de ses diapositives, et deux personnes étaient en larmes lorsqu'elles ont réalisé que Dieu les habitait.
 
 Nous avons terminé notre visite dans un restaurant très chic en tant qu'invités d'un étudiant généreux. Richard et moi avons repris le train pour Taiwan et sommes repartis le lendemain pour Paris, la tête pleine de souvenirs d'amitiés et très encouragés par l'avenir de la Révélation d'Urantia en Asie.
 

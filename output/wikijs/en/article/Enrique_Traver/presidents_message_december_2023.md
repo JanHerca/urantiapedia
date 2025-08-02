@@ -51,15 +51,15 @@ Having a Long-Range Plan (LRP) to guide our work serves multiple purposes, such 
 
 - **Where We Want to Go –** The LRP gives direction; it places the entire team on the same page moving to a known and clear target, allowing us to identify deviations and to apply corrections when and where needed.
 - **What We Need to Do** – The LRP requires team integration to define a plan and execute the strategies to achieve a specific objective.
-- **How We Should Do It –** The LRP requires planning and resources, a clear identification of who, how, where, when and how much. 
+- **How We Should Do It –** The LRP requires planning and resources, a clear identification of who, how, where, when and how much. 
 
 Over the last 18 months, we have worked actively to define the Long-Range Plan to guide our efforts so that we have common goals and work together to fulfill this important role of service and love for our Father and our brothers and sisters.
 
 Creating a long-range plan involves several steps, including understanding our organization’s current position and defining our VISION and our MISSION, as well as asking WHY, HOW and WHAT we should do, which has been summarized as follows:
 
-- **OUR VISION –** The establishment of the era of “light and life” on Urantia (Paper 55) 
-- **OUR MISSION** – To foster study of _The Urantia Book_ and to disseminate its teachings. 
--  **WHY WE DO IT** – – We believe the teachings of _The Urantia Book_ have the potential to rejuvenate spirituality in the world and enhance the comfort, happiness, and well-being of every person. 
+- **OUR VISION –** The establishment of the era of “light and life” on Urantia (Paper 55) 
+- **OUR MISSION** – To foster study of _The Urantia Book_ and to disseminate its teachings. 
+-  **WHY WE DO IT** – – We believe the teachings of _The Urantia Book_ have the potential to rejuvenate spirituality in the world and enhance the comfort, happiness, and well-being of every person. 
 - **HOW WE DO IT** _–_ We help others to connect to God by sharing the teachings of _The Urantia Book._ And we build a network of people with the same desire to disseminate these teachings.
 - **WHAT WE DO** – We help Urantia Book students around the world to study, to apply the teachings in daily life, and to share these lessons with truth seekers in countries where no association exists.
 

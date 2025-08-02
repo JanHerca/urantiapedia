@@ -54,7 +54,7 @@ Voici dans les mots de Casey, la petite-fille de Cathy :
 
 Ma grand-mère et moi avons partagé une relation très spéciale. Plus que tout, elle était ma meilleure amie. Elle m’a appris beaucoup de choses tout au long de ma vie, mais surtout comment aimer inconditionnellement. Je voudrais que chacun sache qu’elle croyait vraiment que nous avons tous été créés de manière égale et que nul ne devrait juger un autre, mais plutôt se comprendre et s’aimer les uns les autres.
 
-Dans sa dernière entrée de journal, elle a écrit: « vous naissez et vous mourez et tout ce que vous devriez faire entre ça c’est d’aimer ».
+Dans sa dernière entrée de journal, elle a écrit: « vous naissez et vous mourez et tout ce que vous devriez faire entre ça c’est d’aimer ».
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia">

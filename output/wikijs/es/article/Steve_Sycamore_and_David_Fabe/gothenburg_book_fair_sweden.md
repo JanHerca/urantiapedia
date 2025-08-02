@@ -43,7 +43,7 @@ Durante cuatro días a partir del 28 de septiembre llevamos un stand en la Feria
 
 Nuestro stand estaba ubicado probablemente en el pasillo menos visitado, aunque estaba al lado de un patio de comidas con un escenario donde los autores, incluso los más conocidos en Suecia, dieron charlas. Nuestros vecinos inmediatos también tenían sistemas de sonido y en ocasiones ofrecían presentaciones en audio durante el día.
 
-_El libro de Urantia_ apenas es conocido en Escandinavia, de ahí que se hayan vendido pocos libros. Una de las preguntas más frecuentes que nos hicieron era cuál era el traductor al sueco. Solo pudimos dar unos pocos detalles, pero después de hacer algunas lecturas iniciales y compararlas con la edición en inglés, varias personas comentaron que la traducción era muy buena. Hubo comentarios similares sobre la calidad de la traducción alemana.
+_El libro de Urantia_ apenas es conocido en Escandinavia, de ahí que se hayan vendido pocos libros. Una de las preguntas más frecuentes que nos hicieron era cuál era el traductor al sueco. Solo pudimos dar unos pocos detalles, pero después de hacer algunas lecturas iniciales y compararlas con la edición en inglés, varias personas comentaron que la traducción era muy buena. Hubo comentarios similares sobre la calidad de la traducción alemana.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

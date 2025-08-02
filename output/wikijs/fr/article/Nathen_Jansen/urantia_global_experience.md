@@ -44,9 +44,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 **Participer ensemble** **— Unis dans un but commun — Servir Dieu le Suprême.**
 
- _**Appel de bénévoles.**_ L’Expérience Planétaire d’Urantia est un prochain rassemblement d’esprits dédiés au service de Dieu le Suprême à travers l’exploration de solutions pour l’évolution progressive de la civilisation. Nous croyons que le succès global de cette entreprise expérimentale repose sur notre unité spirituelle — notre motif commun d’exprimer la volonté de Dieu dans notre vie quotidienne personnelle ainsi que dans nos institutions sociales.
+ _**Appel de bénévoles.**_ L’Expérience Planétaire d’Urantia est un prochain rassemblement d’esprits dédiés au service de Dieu le Suprême à travers l’exploration de solutions pour l’évolution progressive de la civilisation. Nous croyons que le succès global de cette entreprise expérimentale repose sur notre unité spirituelle — notre motif commun d’exprimer la volonté de Dieu dans notre vie quotidienne personnelle ainsi que dans nos institutions sociales.
 
- La présentation de ce rassemblement sera un peu différente des expériences antérieures. Plutôt qu’une série de conférences ou d’ateliers, tous les participants s’engageront dans des groupes de discussion axés sur une variété de sujets tirés du Livre d’Urantia (voir Fascicule 71:4 La Civilisation progressive). À partir de ces discussions, nous espérons dégager des idées, des solutions et des objectifs communs.
+ La présentation de ce rassemblement sera un peu différente des expériences antérieures. Plutôt qu’une série de conférences ou d’ateliers, tous les participants s’engageront dans des groupes de discussion axés sur une variété de sujets tirés du Livre d’Urantia (voir Fascicule 71:4 La Civilisation progressive). À partir de ces discussions, nous espérons dégager des idées, des solutions et des objectifs communs.
 
 Pour mettre en œuvre ces grands idéaux, nous avons besoin de votre aide. Nous acceptons actuellement les candidatures pour des facilitateurs et des présentateurs d’exploration visionnaire, ainsi que pour des bénévoles.
 
@@ -54,7 +54,7 @@ Pour mettre en œuvre ces grands idéaux, nous avons besoin de votre aide. Nous 
 - **Présentateurs** — d’autres discussions (explorations visionnaires) sont consacrées à l’avancement de la civilisation grâce à des projets en cours, des projets planifiés et d’excellentes idées pour de nouveaux projets.
 - **Bénévoles** — toute personne qui souhaite aider à assurer la sécurité, aider à diriger les participants, mettre en place de l’équipement, nettoyer ou effectuer une grande variété de tâches mineures.
 
-Le site Web de l’UGE sera publié et annoncé le 1er juillet 2019, fête du Canada.
+Le site Web de l’UGE sera publié et annoncé le 1er juillet 2019, fête du Canada.
 
 **Contact — Urantia Global Experience:**
 

@@ -69,7 +69,7 @@ Le coût actuel du congrès est de 330 dollars US (si vous réservez avant le 31
 
 [S'inscrire maintenant](https://cvent.me/kMVko7)
 
-## Prix éventuels :
+## Prix éventuels :
 
 31/03/2020 USD$360.00 (économisez 90.00 $)
 22/06/2020 USD$390.00 (économisez 60,00 $)
@@ -78,7 +78,7 @@ Le coût actuel du congrès est de 330 dollars US (si vous réservez avant le 31
 
 ## Hébergement
 
-Pour des informations détaillées sur les options d’hébergement et d’hôtel et bien plus, voir :
+Pour des informations détaillées sur les options d’hébergement et d’hôtel et bien plus, voir :
 
 [https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
 

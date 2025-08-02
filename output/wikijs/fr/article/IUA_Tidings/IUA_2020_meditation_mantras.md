@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ## Suggestions d’un Messager Solitaire
 
-La liste suivante de mantras de méditation est tirée des suggestions pratiques et des attitudes spirituelles requises pour le contact avec l’Ajusteur, telles que présentées par un Messager Solitaire dans _Le Livre d’Urantia_, Fascicules 107-111. J’ai pris la liberté de paraphraser ces directives d’une voix positive et active et, par conséquent, toutes les interprétations et erreurs possibles sont les miennes. J’encourage tous les lecteurs à en vérifier le contenu par eux-mêmes. Il ne s’agit en aucun cas d’une liste exhaustive des nombreuses suggestions et techniques spirituelles de communion avec l’Ajusteur qui nous est donnée tout au long du livre. 
+La liste suivante de mantras de méditation est tirée des suggestions pratiques et des attitudes spirituelles requises pour le contact avec l’Ajusteur, telles que présentées par un Messager Solitaire dans _Le Livre d’Urantia_, Fascicules 107-111. J’ai pris la liberté de paraphraser ces directives d’une voix positive et active et, par conséquent, toutes les interprétations et erreurs possibles sont les miennes. J’encourage tous les lecteurs à en vérifier le contenu par eux-mêmes. Il ne s’agit en aucun cas d’une liste exhaustive des nombreuses suggestions et techniques spirituelles de communion avec l’Ajusteur qui nous est donnée tout au long du livre. 
 
 **Les Ajusteurs _sont_ la volonté de Dieu…** <a id="a45_45"></a>[[LU 108:4.2](/fr/The_Urantia_Book/108#p4_2)] 
 
@@ -50,12 +50,12 @@ La liste suivante de mantras de méditation est tirée des suggestions pratiques
 - Je vais éviter tous les poisons physiques pour maintenir un état électrochimique équilibré pour la communion de l’Esprit.
 - J’éviterai tous les poisons mentaux tels que la peur, l’anxiété, la colère, l’envie, la jalousie, la suspicion et l’intolérance — et je chercherai une aide spirituelle chaque fois que de telles pensées se présenteront.
 - Je chercherai l’équilibre dans ma vie en essayant d’harmoniser mes pouvoirs physiques, mentaux et spirituels, en parvenant à une croissance égale dans ces trois domaines.
-- Je maintiendrai une attitude mentale concentrée et stable par la prière et le culte, en débarrassant mon esprit de toutes les idées préconçues, des idées fixes et des préjugés de longue date. 
+- Je maintiendrai une attitude mentale concentrée et stable par la prière et le culte, en débarrassant mon esprit de toutes les idées préconçues, des idées fixes et des préjugés de longue date. 
 - Je vais aimer, chérir et faire confiance à mon Père Divin de tout mon cœur — je désire sincèrement être parfait comme lui.
 - J’accepte volontiers et avec joie le programme établi par mon Père pour mon développement intellectuel et spirituel, même si je ne suis pas conscient de ce qu’il est.
 - Avec joie et empressement, je vais coopérer pleinement avec la direction de l’Esprit Divin. Je suis prêt à prendre des décisions courageuses pour faire et être ce qu’il faut.
 - Je m’harmoniserai avec l’Esprit en moi en choisissant consciemment de poursuivre les réalités divines de vérité, de beauté et de bonté, que j’exprimerai dans ma vie par l’amour, la compassion et le ministère.
-- Je m’efforcerai toujours de prendre des décisions claires et conscientes sur tout ce que je pense, dis ou fais, en mesurant chacune de mes décisions à lumière de la vérité, de la beauté et de la bonté. 
+- Je m’efforcerai toujours de prendre des décisions claires et conscientes sur tout ce que je pense, dis ou fais, en mesurant chacune de mes décisions à lumière de la vérité, de la beauté et de la bonté. 
 - Je consacrerai ma vie — toutes mes pensées, mes paroles et mes actes — en coopérant avec la Présence Divine. C’est ma volonté que la volonté de Dieu soit faite.
 - Je prie pour avoir le courage et la confiance en soi de faire la volonté de mon Père — mais je vous prie de me délivrer de l’orgueil et de la vanité.
 - Je remplacerai toutes les pensées sordides et égoïstes par le respect de la beauté divine et le ministère envers les autres.

@@ -35,7 +35,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 
 
-A continuación está el testimonio de dos asistentes a la conferencia, Jorge Buckingham y Mairam Durand, de Perú, que compartieron con nosotros sus experiencias en la Conferencia Internacional de los Países Bajos.
+A continuación está el testimonio de dos asistentes a la conferencia, Jorge Buckingham y Mairam Durand, de Perú, que compartieron con nosotros sus experiencias en la Conferencia Internacional de los Países Bajos.
 
 ## Jorge Buckingham, Urantia Perú:
 
@@ -45,13 +45,13 @@ A continuación está el testimonio de dos asistentes a la conferencia, Jorge B
 
 Dicen que las grandes experiencias se recuerdan para siempre, más aún si esas experiencias forman parte de un proceso de aprendizaje que transforma nuestra vida. Y debe ser cierto, porque evocar los recuerdos de la X Conferencia Internacional de la Asociación Urantia Internacional me produce un placer muy especial.
 
-El evento tuvo lugar del 12 al 15 de abril en Noordwijkerhout (Países Bajos) en el Conference Centre Leeuwenhorst, un lugar que recordaba a las más prestigiosas universidades del mundo y que contribuyó a crear un entorno académico apropiado para la conferencia. La vitalidad de Antoinette Hall y el icónico cantante de reggae Pato Banton como maestros de ceremonias fueron dignos de mención… su energía y el contacto con el público estimularon y prepararon a todos para los programas de reflexión, educación y entretenimiento.
+El evento tuvo lugar del 12 al 15 de abril en Noordwijkerhout (Países Bajos) en el Conference Centre Leeuwenhorst, un lugar que recordaba a las más prestigiosas universidades del mundo y que contribuyó a crear un entorno académico apropiado para la conferencia. La vitalidad de Antoinette Hall y el icónico cantante de reggae Pato Banton como maestros de ceremonias fueron dignos de mención… su energía y el contacto con el público estimularon y prepararon a todos para los programas de reflexión, educación y entretenimiento.
 
 Me gustó en particular la metodología empleada para desarrollar el programa de la conferencia. Después de charlas plenarias breves pero significativas de unos 20 minutos, los participantes se reunían en grupos previamente asignados en los que podían debatir sobre los temas presentados de manera profunda y detallada. Se formaron los grupos teniendo en cuenta el idioma de los asistentes. Los líderes del grupo asignaban tareas y ofrecían referencias y preguntas para debatir, de manera que los participantes podían vincular conceptos teóricos con las experiencias de la vida cotidiana. Fue una manera dinámica e interactiva de hacer las cosas, porque todos los asistentes tuvieron la misma oportunidad de expresarse y de aportar sus ideas.
 
 Fue muy memorable que un grupo de nosotros con lectores colombianos decidiéramos explorar los alrededores del lugar de la conferencia para ver de cerca los típicos campos holandeses de tulipanes. Era casi la hora del atardecer y hacía frío, ¡y sin embargo fue verdaderamente hermoso! Nos hicimos varias fotos mientras disfrutábamos de los asombrosos colores de las flores. Recordé que una de las chicas del grupo mencionó que era como ver un adelanto de la belleza que nos esperaba en los mundos siguientes. ¡Hay ocasiones en las que las palabras no pueden expresar lo que rebosa en nuestra alma!
 
-Fue muy gratificante llegar a conocer a tantos compañeros lectores de _El libro de Urantia_ de todos los continentes del mundo, unidos todos bajo la misma bandera, y compartir experiencias durante cuatro días de intensa actividad con diferentes personas, personas de diferentes razas, ideologías y nacionalidades… todos unidos en el nombre de Jesús de Nazaret, comprometidos a dar lo mejor de nosotros mismos en la tarea de amar y servir a la humanidad.
+Fue muy gratificante llegar a conocer a tantos compañeros lectores de _El libro de Urantia_ de todos los continentes del mundo, unidos todos bajo la misma bandera, y compartir experiencias durante cuatro días de intensa actividad con diferentes personas, personas de diferentes razas, ideologías y nacionalidades… todos unidos en el nombre de Jesús de Nazaret, comprometidos a dar lo mejor de nosotros mismos en la tarea de amar y servir a la humanidad.
 
 En definitiva, ser parte de esta conferencia internacional que se celebró cerca de la ciudad de Ámsterdam ha sido algo memorable y grandioso con entusiasmo.
 <br style="clear:both;"/>

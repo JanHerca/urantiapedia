@@ -63,7 +63,7 @@ Ouvert à tous, de tous les groupes d’âge, qui veulent demeurer plus longtemp
 
 ## Quand
 
-La croisière organisée commence le dimanche 14 juillet à 12 h 30 et nous reviendrons à Tallinn-Estonie le mardi 16 juillet à 9 h.
+La croisière organisée commence le dimanche 14 juillet à 12 h 30 et nous reviendrons à Tallinn-Estonie le mardi 16 juillet à 9 h.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/earlybird.jpg">
@@ -71,27 +71,27 @@ La croisière organisée commence le dimanche 14 juillet à 12 h 30 et nous 
 
 ## Horaire des activités
 
-Dimanche 14 juillet
-12:30 Départ du Spa and Conference Hotel de Tallink
+Dimanche 14 juillet
+12:30 Départ du Spa and Conference Hotel de Tallink
 13:30 Départ du port de Tallinn pour Helsinki, à bord du M/S Tallink Megastar
 15:30 Arrivée à Helsinki West Harbor
-18:00 Départ de Helsinki West Harbor pour St. Petersburg, M/s Moby
+18:00 Départ de Helsinki West Harbor pour St. Petersburg, M/s Moby
 
-Lundi 15 juillet
+Lundi 15 juillet
 09:00 Arrivée à Saint- Pétersbourg
 10:00 Visite de la ville et visite au Musée de l’Hermitage
 16:00 Temps libre
 18:00 Embarquement
 19:00 Départ pour Tallinn
 
-Mardi 16 juillet
+Mardi 16 juillet
 09:00 Arrivée au port de Tallinn
 
 ## Prix
 
-Prix à partir de 143,50 €
+Prix à partir de 143,50 €
 
-Forfait complet incluant N/B (nourriture et boisson) et visite de la ville et du Musée de l’Ermitage 334,00 €
+Forfait complet incluant N/B (nourriture et boisson) et visite de la ville et du Musée de l’Ermitage 334,00 €
 
 Les prix comprennent le transport de Tallinn à Helsinki et tous les frais de transport !
 
@@ -113,20 +113,20 @@ Pour enregistrer votre forfait de croisière post-congrès avec hébergement, re
 
 ## Instructions d’inscription supplémentaires
 
-1. Choisissez la classe cabine :
+1. Choisissez la classe cabine :
 
-- Classe B2V pour deux, lits superposés, 67,50 € PP
-- Classe B2 pour deux, lits jumeaux, 80,00 € PP
-- Classe A2 pour deux lits jumeaux avec vue sur la mer, 103,5 €
+- Classe B2V pour deux, lits superposés, 67,50 € PP
+- Classe B2 pour deux, lits jumeaux, 80,00 € PP
+- Classe A2 pour deux lits jumeaux avec vue sur la mer, 103,5 €
 
 Si vous voulez seul dans votre cabine, vous devez payer le double du prix.
 
-2. Choisir les repas :
+2. Choisir les repas :
 
-- Souper buffet le dimanche soir 31,00 €
-- Petit déjeuner le lundi matin 13,00 €, petit déjeuner de luxe 18,00 €
-- Souper buffet le lundi soir 31,00 €
-- Petit déjeuner mardi matin 13,00 €, petit déjeuner de luxe 18,00 €
+- Souper buffet le dimanche soir 31,00 €
+- Petit déjeuner le lundi matin 13,00 €, petit déjeuner de luxe 18,00 €
+- Souper buffet le lundi soir 31,00 €
+- Petit déjeuner mardi matin 13,00 €, petit déjeuner de luxe 18,00 €
 
 Vous pouvez acheter des repas à bord, mais le prix est légèrement plus élevé. Il y a deux restaurants à la carte et un café sur le navire, si vous préférez ne pas avoir un repas buffet.
 
@@ -135,14 +135,14 @@ Vous pouvez acheter des repas à bord, mais le prix est légèrement plus élev�
 Il y a trois options :
 
 1. Transport uniquement vers et depuis (aller et retour du) le centre de Saint-Pétersbourg, inclus dans le prix, sans frais supplémentaires
-2. Visite de la ville de 3 heures 35,00 €
-3. Visite de la ville de 6 heures et visite du musée de l’Hermitage 85,00 €
+2. Visite de la ville de 3 heures 35,00 €
+3. Visite de la ville de 6 heures et visite du musée de l’Hermitage 85,00 €
 
 Autres dépenses :
 
-- Traversier de Tallinn à Helsinki 34 €
-- Frais portuaires 17 €
-- Frais de visa supplémentaire 25 €
+- Traversier de Tallinn à Helsinki 34 €
+- Frais portuaires 17 €
+- Frais de visa supplémentaire 25 €
 
 La possibilité de visiter la Russie sans visa est disponible uniquement à partir des ports de la Baltique du Nord !
 
@@ -156,7 +156,7 @@ Nous essayons de gérer les paiements via le compte bancaire de l’Association 
 
 ## Besoin de plus d’aide ?
 
-Si vous avez besoin de plus amples renseignements, n’hésitez pas à communiquer avec nous en envoyant un courriel à risto.mantynen@gmail.com [ou par téléphone au](mailto:risto.mantynen@gmail.com) +358 50 390 3040.
+Si vous avez besoin de plus amples renseignements, n’hésitez pas à communiquer avec nous en envoyant un courriel à risto.mantynen@gmail.com [ou par téléphone au](mailto:risto.mantynen@gmail.com) +358 50 390 3040.
 
 Au plaisir de vous voir à notre post-congrès !
 

@@ -131,7 +131,7 @@ Un ejemplo todavía más obvio es el hecho de que en el penúltimo documento de 
 
 ## Tareas para la humanidad
 
-En un sentido formal y procedimental percibimos que nosotros, los habitantes de Urantia, estamos viviendo en la época posterior al Hijo de otorgamiento, pero casi nada de nuestras circunstancias actuales se corresponde con la descripción que proporciona un Mensajero Poderoso en el documento <a id="a133_292"></a>[Paper 52:5](/es/The_Urantia_Book/52#p5).
+En un sentido formal y procedimental percibimos que nosotros, los habitantes de Urantia, estamos viviendo en la época posterior al Hijo de otorgamiento, pero casi nada de nuestras circunstancias actuales se corresponde con la descripción que proporciona un Mensajero Poderoso en el documento <a id="a133_292"></a>[Paper 52:5](/es/The_Urantia_Book/52#p5).
 
 > **El hombre posterior al Hijo de otorgamiento**
 > El Hijo de otorgamiento llega a un mundo de alta cultura educativa donde se encuentra con una raza formada espiritualmente y preparada para asimilar enseñanzas avanzadas y apreciar la misión de otorgamiento. Esta edad se caracteriza por la búsqueda mundial de la cultura moral y la verdad espiritual. La pasión de los mortales de esta dispensación es penetrar la realidad cósmica y estar en comunión con la realidad espiritual. Las revelaciones de la verdad se amplían hasta incluir el superuniverso. Se crean sistemas de educación y gobierno totalmente nuevos para sustituir a los regímenes rudimentarios de los tiempos anteriores. La alegría de vivir adquiere un color nuevo y las reacciones de la vida se elevan a alturas de tono y timbre celestial. (un Mensajero Poderoso, <a id="a136_779"></a>[LU 52:5.3](/es/The_Urantia_Book/52#p5_3))

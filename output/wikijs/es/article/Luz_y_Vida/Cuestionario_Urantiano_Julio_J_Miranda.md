@@ -54,9 +54,9 @@ Me atrajo su dinamismo y su dificultad a un mismo tiempo para trasmutar concepto
 
 Podría decirse que en el momento en que puse en práctica mucha de las cosas que afirma. Sobre todo en lo referente al Ajustador del Pensamiento.
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
-En la forma en que una oruga descubre que su destino es ser una mariposa. 
+En la forma en que una oruga descubre que su destino es ser una mariposa. 
 
 ## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 

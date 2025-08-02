@@ -75,7 +75,7 @@ _C’est une question de regard, de perception, de confiance et de foi._
 
 Jésus nous a dit :
 
-> « Ce que je vous demande, mes apôtres, c’est _l’unité spirituelle —_ dont vous pouvez faire l’expérience dans la joie de l’union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour _être_ spirituellement _semblables._ L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l’espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée. » <a id="a77_653"></a>[[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)]
+> « Ce que je vous demande, mes apôtres, c’est _l’unité spirituelle —_ dont vous pouvez faire l’expérience dans la joie de l’union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour _être_ spirituellement _semblables._ L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l’espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée. » <a id="a77_653"></a>[[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)]
 
 _C’est une question de regard, de perception, de confiance et de foi._
 

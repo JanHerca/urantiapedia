@@ -82,7 +82,7 @@ Sixth, _The Urantia Book_ has allowed me to better choose the type of life I wil
 
 And seventh, he has been immeasurably valuable to me in my imperfect efforts to try to be a better son, brother, husband, father, and friend.
 
-##  5. Has your faith changed after reading it? If so, in what way?
+##  5. Has your faith changed after reading it? If so, in what way?
 
 As the book itself states: “In its very essence religion is a confident faith in the goodness of God.” <a id="a86_103"></a>[UB 2:6.1](/en/The_Urantia_Book/2#p6_1) “For a long time you will have to practice faith and depend on revelation if you hope to make rapid and sure progress.” <a id="a86_263"></a>[UB 19:5.12](/en/The_Urantia_Book/19#p5_12)
 

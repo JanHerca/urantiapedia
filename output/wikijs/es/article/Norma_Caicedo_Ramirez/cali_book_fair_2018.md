@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/cali-bf1-300x212.jpg">
 </figure>
 
-_El libro de Urantia_ se presentó en la Feria Internacional del Libro de Cali (Colombia), que tuvo lugar en octubre de 2018. Nuestra misión fue «… Revelar a Dios al hombre…» siguiendo los pasos del Maestro, Jesús.
+_El libro de Urantia_ se presentó en la Feria Internacional del Libro de Cali (Colombia), que tuvo lugar en octubre de 2018. Nuestra misión fue «… Revelar a Dios al hombre…» siguiendo los pasos del Maestro, Jesús.
 
 La feria del libro reunió a 776 editoriales, 93 expositores, 48.000 publicaciones y 231.234 visitantes. Por primera vez en Cali la Asociación Urantia de Cali (Uracali) y la Asociación Urantia de Colombia, junto con 13 voluntarios, distribuyeron 10.000 pequeñas ilustraciones de _El libro de Urantia_ y 2.000 panfletos con citas del libro como manera de diseminar su contenido y para proporcionar medios de contacto futuro con todos los interesados en fraternizar.
 

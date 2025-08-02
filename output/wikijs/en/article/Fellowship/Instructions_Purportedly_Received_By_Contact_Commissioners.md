@@ -16,11 +16,11 @@ In a document which purports to be a copy of this message of November 22, 1951 f
 
 1. For five hundred years, from February 11, 1953, the overall welfare and direction of the Urantia Book is placed in the hands of the Seraphim of Progress.
 
-2. The immediate fostering of the Urantia revelation — from decade to decade — (at least for the next one hundred years) will be entrusted to the Seraphim of the Churches.  I have instructed this group to create a special commission to carry on this work.
+2. The immediate fostering of the Urantia revelation — from decade to decade — (at least for the next one hundred years) will be entrusted to the Seraphim of the Churches. I have instructed this group to create a special commission to carry on this work.
 
 3. The human aspects of the Urantia Book will be placed in the hands of the trustees of the Urantia Foundation, subject to the advisory suggestion and veto powers of the Revelatory Commission of the United Midwayers of Urantia. When, as, and if, the Midway Commission fails to communicate with the Trustees of the Foundation for a period of three years, then shall such Trustees deem that the affairs of the Urantia Book are wholly and exclusively in their hands and under their jurisdiction.
 
-4. For the time being, mediation between the overall and superhuman supervision of this Commission and the directly human functioning of the Trustees of the Urantia Foundation shall be vested in the Midwayer Commission, the successor of the original Urantia Revelatory Commission.  This Commission shall continue to function as advisor to both the Seraphic Overseers and the Trustees of the Urantia Foundation, but their veto powers shall extend only to the decisions and acts of the human Trustees.
+4. For the time being, mediation between the overall and superhuman supervision of this Commission and the directly human functioning of the Trustees of the Urantia Foundation shall be vested in the Midwayer Commission, the successor of the original Urantia Revelatory Commission. This Commission shall continue to function as advisor to both the Seraphic Overseers and the Trustees of the Urantia Foundation, but their veto powers shall extend only to the decisions and acts of the human Trustees.
 
 5. In the absence of Midwayer intervention after February 11, 1954, the Trustees of the Urantia Foundation shall proceed in accordance with their own judgment.
 

@@ -97,7 +97,7 @@ La nueva administración de la Asociación Urantia de México comenzó desde cer
 
 Al principio organizamos conferencias sobre _El libro de Urantia_ cada tres o cuatro meses. Desde 2011 celebramos conferencias mensuales cada cuarto sábado y un grupo de estudio cada segundo sábado de mes.
 
-En colaboración con mis hermanos espirituales Martín Guzmán, Héctor Palacios, Héctor Landín, Rogelio Rosas, Asael Núñez y Selin González hemos celebrado conferencias y talleres sobre numerosos temas de _El libro de Urantia_ y llevado a cabo actividades de diseminación.
+En colaboración con mis hermanos espirituales Martín Guzmán, Héctor Palacios, Héctor Landín, Rogelio Rosas, Asael Núñez y Selin González hemos celebrado conferencias y talleres sobre numerosos temas de _El libro de Urantia_ y llevado a cabo actividades de diseminación.
 
 Además de estas actividades organizamos en agosto una conferencia nacional para conmemorar el nacimiento de nuestro Hermano-Padre Jesús de Nazaret (Miguel de Nebadón). Desde 2017 este evento se convirtió en el congreso nacional mexicano de lectores de _El libro de Urantia_.
 

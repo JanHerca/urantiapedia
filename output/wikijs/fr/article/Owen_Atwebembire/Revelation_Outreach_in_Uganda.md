@@ -40,9 +40,9 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Owen Atwebembire, Bwizibwera, Ouganda_
 
-_Note de l'éditeur : Paul et Monica Kemp du Canada ont reçu une subvention du Programme de la Graine de Moutarde en 2023 pour financer le projet de conférence Zoom sur la Révélation Urantia en Afrique. Owen a été l'un des représentants locaux et des organisateurs de Zoom. Au nom de la Fondation Urantia, nous les remercions pour leurs efforts créatifs de dissémination des enseignements du Livre d'Urantia en Ouganda._
+_Note de l'éditeur : Paul et Monica Kemp du Canada ont reçu une subvention du Programme de la Graine de Moutarde en 2023 pour financer le projet de conférence Zoom sur la Révélation Urantia en Afrique. Owen a été l'un des représentants locaux et des organisateurs de Zoom. Au nom de la Fondation Urantia, nous les remercions pour leurs efforts créatifs de dissémination des enseignements du Livre d'Urantia en Ouganda._
 
-Alors que nous nous entrons dans la nouvelle année, c'est un honneur de partager un aperçu de la récente conférence en ligne : « Ce que _Le Livre d'Urantia_ m'inspire à être et à faire », qui s'est tenue le 17 décembre 2023.
+Alors que nous nous entrons dans la nouvelle année, c'est un honneur de partager un aperçu de la récente conférence en ligne : « Ce que _Le Livre d'Urantia_ m'inspire à être et à faire », qui s'est tenue le 17 décembre 2023.
 
 Avant d'entrer dans les détails, j'aimerais exprimer notre profonde gratitude au Programme de Subvention de la Graine de Moutarde de la Fondation pour le rôle essentiel qu'il a joué dans la réalisation de cet événement. Le but du projet était de fournir des opportunités aux étudiants du _Livre d'Urantia_ en Afrique, et en particulier en Ouganda, d'assister aux conférences Zoom et de mettre en pratique ce qu'ils apprennent en faisant des présentations. La généreuse subvention a permis à beaucoup de participer, enrichissant ainsi notre expérience collective de fraternité spirituelle.
 
@@ -86,7 +86,7 @@ https://www.youtube.com/watch?v=X1uAOcsas4o
 
 Clint Stucky a présenté un tutoriel utile sur la façon d'utiliser les moteurs de recherche du Livre d'Urantia.
 
-Avec le recul, nous célébrons les diverses perspectives qui ont contribué à enrichir notre communauté et nous remercions tous ceux qui ont contribué au succès de la conférence. Aux organisateurs, j'adresse mes remerciements les plus sincères pour les efforts inlassables qu'ils ont déployés pour faire de la conférence un succès retentissant. Votre dévouement et votre travail acharné ont vraiment eu un impact positif, en réunissant des personnes du monde entier dans le cadre d'un échange fructueux. L'enthousiasme et le dévouement témoignent de la force de notre esprit collectif. Puissent les connaissances partagées au cours de la conférence inspirer des changements positifs !
+Avec le recul, nous célébrons les diverses perspectives qui ont contribué à enrichir notre communauté et nous remercions tous ceux qui ont contribué au succès de la conférence. Aux organisateurs, j'adresse mes remerciements les plus sincères pour les efforts inlassables qu'ils ont déployés pour faire de la conférence un succès retentissant. Votre dévouement et votre travail acharné ont vraiment eu un impact positif, en réunissant des personnes du monde entier dans le cadre d'un échange fructueux. L'enthousiasme et le dévouement témoignent de la force de notre esprit collectif. Puissent les connaissances partagées au cours de la conférence inspirer des changements positifs !
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center" alt="Bahati Allan">
 <img src="/image/article/UF_News_Online/2024_03/Bahati-Allan-700x393.jpg">

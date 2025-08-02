@@ -45,15 +45,15 @@ He aquí algunos homenajes de algunos de sus amigos que describen la profundidad
 
 **Fundación Urantia**
 
-Con lágrimas de tristeza, alegría y celebración anunciamos el fallecimiento de Richard Keeler. La pasada noche del 16 de enero de 2019 nuestro amado hermano y amigo hizo su transición desde Urantia. Su salud había ido empeorando durante los dos últimos años, y su fallecimiento fue una bendición que él esperaba con ilusión. Se enfrentó al reto de su viaje final con valentía y fe en su Padre celestial.
+Con lágrimas de tristeza, alegría y celebración anunciamos el fallecimiento de Richard Keeler. La pasada noche del 16 de enero de 2019 nuestro amado hermano y amigo hizo su transición desde Urantia. Su salud había ido empeorando durante los dos últimos años, y su fallecimiento fue una bendición que él esperaba con ilusión. Se enfrentó al reto de su viaje final con valentía y fe en su Padre celestial.
 
-Richard Keeler sirvió como fideicomisario de la Fundación Urantia durante 30 años. Fue firme en su amor a la revelación y en su servicio a la Fundación y a los lectores. Trajo sabiduría, humor y fraternidad para todos nosotros. El servicio amoroso, la entrega desinteresada y la lealtad valiente de Richard fueron el legado de su manera de vivir los frutos del espíritu.
+Richard Keeler sirvió como fideicomisario de la Fundación Urantia durante 30 años. Fue firme en su amor a la revelación y en su servicio a la Fundación y a los lectores. Trajo sabiduría, humor y fraternidad para todos nosotros. El servicio amoroso, la entrega desinteresada y la lealtad valiente de Richard fueron el legado de su manera de vivir los frutos del espíritu.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Richard-Keeler-Red-Scarf_ed-300x308.jpg">
 </figure>
 
-Todos le echamos de menos y le deseamos buen viaje mientras su ángel guardián lo lleva a los mundos mansión. Richard, saludamos al fragmento de infinidad, la chispa de divinidad y la brasa de eternidad que te habita. Les dejamos con la cita favorita de Richard de _El libro de Urantia__:_
+Todos le echamos de menos y le deseamos buen viaje mientras su ángel guardián lo lleva a los mundos mansión. Richard, saludamos al fragmento de infinidad, la chispa de divinidad y la brasa de eternidad que te habita. Les dejamos con la cita favorita de Richard de _El libro de Urantia__:_
 <br style="clear:both;"/>
 
 > _Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal._ <a id="a58_287"></a>[[LU 102:7.10](/es/The_Urantia_Book/102#p7_10)]
@@ -72,7 +72,7 @@ Richard Keeler fue un ser de espíritu asombroso. Generoso con su tiempo, su tes
 <img src="/image/article/IUA_Tidings/Richard-Joanne-banjo-300x214.jpg">
 </figure>
 
-Cumpliste la vida de un hijo de Dios. Tuve el gran placer de estar contigo y con muchas otras personas hermosas en Cottonwood en 2007, después de más de 30 años de ser un lector solitario. Siempre será algo profundo para mí que la primera reunión a la que asistí fuera en compañía de un grupo de personas tan maravilloso. Debo decir que eres una luz brillante en mis recuerdos, y si dicen que todos somos soldados de los círculos, en ti hemos perdido a uno de nuestros generales, querido amigo. Miro hacia un futuro no muy lejano en el que mi propuesta de reunirme en el «mapa en relieve de Edentia» sea una experiencia nueva y fabulosa una vez más. Descansa por ahora, Richard; cantaremos y bailaremos nuevamente el día de la reunión, amigo.
+Cumpliste la vida de un hijo de Dios. Tuve el gran placer de estar contigo y con muchas otras personas hermosas en Cottonwood en 2007, después de más de 30 años de ser un lector solitario. Siempre será algo profundo para mí que la primera reunión a la que asistí fuera en compañía de un grupo de personas tan maravilloso. Debo decir que eres una luz brillante en mis recuerdos, y si dicen que todos somos soldados de los círculos, en ti hemos perdido a uno de nuestros generales, querido amigo. Miro hacia un futuro no muy lejano en el que mi propuesta de reunirme en el «mapa en relieve de Edentia» sea una experiencia nueva y fabulosa una vez más. Descansa por ahora, Richard; cantaremos y bailaremos nuevamente el día de la reunión, amigo.
 
 **Luis García Bory**
 
@@ -92,7 +92,7 @@ Richard fue decisivo en la creación de la primera traducción al ruso de _El li
 
 **Rick Warren**
 
-Cuando estábamos acreditando nuestra asociación local en Houston (hacia 1992), Rich, Phil R, Kathy y Pat M dieron cada uno una pequeña charla. Durante la de Richard, una mujer se quitó un vendaje rígido extraíble del brazo. Richard estaba hablando sobre la acreditación muy serio pero se detuvo, dio un salto y gritó como un loco: «¡Milagro!». Cuando yo quería colocar un Libro de Urantia en cada biblioteca de Texas, él lo hizo posible. Si llamaba a la biblioteca, la Fundación Urantia enviaba los libros, de los que salieron casi 1.000. Y no se detenía ni retiraba cuando le daban malos golpes. Sigue jugando, Ricardo, lo haces muy bien. Alerta, Mansonia, ahí va un candidato a la reversión.
+Cuando estábamos acreditando nuestra asociación local en Houston (hacia 1992), Rich, Phil R, Kathy y Pat M dieron cada uno una pequeña charla. Durante la de Richard, una mujer se quitó un vendaje rígido extraíble del brazo. Richard estaba hablando sobre la acreditación muy serio pero se detuvo, dio un salto y gritó como un loco: «¡Milagro!». Cuando yo quería colocar un Libro de Urantia en cada biblioteca de Texas, él lo hizo posible. Si llamaba a la biblioteca, la Fundación Urantia enviaba los libros, de los que salieron casi 1.000. Y no se detenía ni retiraba cuando le daban malos golpes. Sigue jugando, Ricardo, lo haces muy bien. Alerta, Mansonia, ahí va un candidato a la reversión.
 
 **Kathleen Swadling**
 
@@ -100,7 +100,7 @@ Cuando estábamos acreditando nuestra asociación local en Houston (hacia 1992),
 <img src="/image/article/IUA_Tidings/Richard-Swadlings-300x387.jpg">
 </figure>
 
-Mi esposo Trevor y yo contamos con Richard como uno de nuestros amigos lectores muy especiales de _El libro de Urantia_. Lo conocimos en 1989 cuando vino a una conferencia australiana. Como muchos otros conectamos con él inmediatamente y disfrutamos cantando todos juntos con su banjo. A lo largo de los años mientras comenzamos a trabajar estrechamente con la Fundación Urantia desarrollamos una maravillosa amistad. Llegamos a percibir la persona tan desinteresada y entregada que era. Richard fue a la quinta revelación de época lo que el apóstol Mateo fue a la cuarta. Resistió muchas tormentas pero siempre mantuvo el rumbo. Su entrega y lealtad a la revelación es un motivo de inspiración para todo el que desee ver el éxito de esta revelación, fue en verdad un «héroe de la Revelación». Adiós, querido Richard, hasta que volvamos a encontrarnos…
+Mi esposo Trevor y yo contamos con Richard como uno de nuestros amigos lectores muy especiales de _El libro de Urantia_. Lo conocimos en 1989 cuando vino a una conferencia australiana. Como muchos otros conectamos con él inmediatamente y disfrutamos cantando todos juntos con su banjo. A lo largo de los años mientras comenzamos a trabajar estrechamente con la Fundación Urantia desarrollamos una maravillosa amistad. Llegamos a percibir la persona tan desinteresada y entregada que era. Richard fue a la quinta revelación de época lo que el apóstol Mateo fue a la cuarta. Resistió muchas tormentas pero siempre mantuvo el rumbo. Su entrega y lealtad a la revelación es un motivo de inspiración para todo el que desee ver el éxito de esta revelación, fue en verdad un «héroe de la Revelación». Adiós, querido Richard, hasta que volvamos a encontrarnos…
 
 ## Referencias
 

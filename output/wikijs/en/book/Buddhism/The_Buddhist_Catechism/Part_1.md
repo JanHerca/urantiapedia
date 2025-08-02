@@ -36,7 +36,7 @@ dateCreated: 2025-2-5T12:26:57Z
 
 <span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-1\. _Question_. Of what religion [^0] are you?
+1\. _Question_. Of what religion [^0] are you?
 
 _Answer_. The Buddhist.
 
@@ -180,7 +180,7 @@ A. He was in his twenty-ninth year.
 
 34\. Q. _What finally determined him to leave all that men usually love so much and go to the jungle?_
 
-A. A _deva_ [^1] appeared to him when driving out in his chariot, under four impressive forms, on four different occasions.
+A. A _deva_ [^1] appeared to him when driving out in his chariot, under four impressive forms, on four different occasions.
 
 35\. Q. _What were these different forms?_
 
@@ -234,7 +234,7 @@ A. He went afoot towards Râjagriha, the capital city of King Bimbisâra, of Mag
 
 46\. Q. _Who visited him there?_
 
-A. The King with his whole Court. [^2]
+A. The King with his whole Court. [^2]
 
 46_a_. Q. _Thence whither did he go?_
 
@@ -246,7 +246,7 @@ A. In the forests were hermits—very wise men, whose pupil he afterwards became
 
 48\. Q. _Of what religion were they?_
 
-A. The Hindu religion: they were Brâhmaṇas. [^3]
+A. The Hindu religion: they were Brâhmaṇas. [^3]
 
 49\. Q. _What did they teach?_
 
@@ -306,7 +306,7 @@ A. He determined not to leave the spot until he attained perfect wisdom.
 
 62\. Q. _At which side of the tree did he seat himself?_
 
-A. The side facing the east. [^4]
+A. The side facing the east. [^4]
 
 63\. Q. _What did he obtain that night?_
 
@@ -330,7 +330,7 @@ A. At first he was reluctant to teach it to the people at large.
 
 A. Because of its profound importance and sublimity. He feared that but few people would understand it.
 
-68\. Q. _What made him alter this view?_ [^5]
+68\. Q. _What made him alter this view?_ [^5]
 
 A. He saw that it was his duty to teach what he had learnt as clearly and simply as possible, and trust to the truth impressing itself upon the popular mind in proportion to each one's individual Karma. It was the only way of salvation, and every being had an equal right to have it pointed out to him. So he determined to begin with his five late companions, who had abandoned him when he broke his fast.
 
@@ -358,7 +358,7 @@ A. A rich young layman, named Yasa, and his father, a wealthy merchant. By the e
 
 A. The mother and wife of Yasa.
 
-75\. Q. _What did the Buddha do at that time?_ [^6]
+75\. Q. _What did the Buddha do at that time?_ [^6]
 
 A. He called the disciples together, gave them full instructions, and sent them out in all directions to preach his doctrine.
 
@@ -426,7 +426,7 @@ A. To one and all he preached the Dharma as the cure for all sorrows. His father
 
 A. Prajâpatî, the aunt and foster-mother of Prince Siddhartha. With her, Yasodharâ and many other ladies were admitted into the order as _Bhikkhunis_ or female devotees.
 
-91\. Q. _What effect did the taking up of the religious life by his sons Siddhartha and Ânanda, his_ <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> _nephew Devadatta, his son's wife Yasodharâ and his grandson Râhula, have upon the old king Suddhodana?_
+91\. Q. _What effect did the taking up of the religious life by his sons Siddhartha and Ânanda, his_ <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> _nephew Devadatta, his son's wife Yasodharâ and his grandson Râhula, have upon the old king Suddhodana?_
 
 A. It grieved him much and he complained to the Buddha, who then made it a rule of the order that no person should thenceforth be ordained without the consent of his parents if alive.
 
@@ -486,7 +486,7 @@ A. (1) The testimony of those who personally knew him.
 
 (3) After his cremation his relics were divided among eight kings and a stûpa was erected over each portion. The portion given to King Ajâtasatru, and by him covered with a stûpa at Râjagriha, was taken, less <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> than two centuries later, by the Emperor Asoka and distributed throughout his Empire. He, of course, had ample means of knowing whether the relics were those of the Buddha or not, since they had been in charge of the royal house of Patna from the beginning.
 
-(7) Many of the Buddha's disciples, being Arahats and thus having control over their vital powers, must have lived to great ages, and there was nothing to have prevented two or three of them, in succession to each other, to have covered the whole period between the death of the Buddha and the reign of Asoka, and thus to have enabled the latter to get from his contemporary every desired attestation of the fact of the Buddha's life. [^7]
+(7) Many of the Buddha's disciples, being Arahats and thus having control over their vital powers, must have lived to great ages, and there was nothing to have prevented two or three of them, in succession to each other, to have covered the whole period between the death of the Buddha and the reign of Asoka, and thus to have enabled the latter to get from his contemporary every desired attestation of the fact of the Buddha's life. [^7]
 
 (8) The “Mahâvansa,” the best authenticated ancient history known to us, records the events of Sinhalese history to the reign of King Vijaya, 543 B.C.—almost the time of the Buddha—and gives most particulars of his life, as well as those of Emperor Asoka and all other sovereigns related to Buddhistic history.
 

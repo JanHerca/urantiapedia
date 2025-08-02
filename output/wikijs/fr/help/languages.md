@@ -95,7 +95,7 @@ Les abréviations bibliques doivent être enregistrées dans *Urantiapedia Tools
 
 ## Traducteurs en ligne
 
-Certains utilitaires en ligne que nous utilisons pour les traductions sont :
+Certains utilitaires en ligne que nous utilisons pour les traductions sont :
 - https://translate.google.es/
 - https://www.deepl.com/translator
 

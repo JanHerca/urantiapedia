@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Association_Espagnole/Astronomy_and_superuniverses/M31bobo.jpg">
+<img src="/image/article/Spain_Association/Astronomy_and_superuniverses/M31bobo.jpg">
 <figcaption>La galaxie d'Andromède, M31</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Lorsque _Le Livre d'Urantia_ fut écrit en 1934, les révélateurs affirmaient q
 <br>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Association_Espagnole/Astronomy_and_superuniverses/heic0107e.jpg">
+<img src="/image/article/Spain_Association/Astronomy_and_superuniverses/heic0107e.jpg">
 <figcaption>La constellation du Sagittaire, vue à travers le centre supposé de la Voie Lactée <a href="https://www.spacetelescope.org/images/heic0107e/">Télescope spatial</a></figcaption>
 </figure>
 

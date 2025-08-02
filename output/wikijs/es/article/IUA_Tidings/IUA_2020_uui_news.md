@@ -51,7 +51,7 @@ A finales de diciembre habrá disponibles secciones de las cuatro partes del lib
 
 ****Desvelen**** el proceso dinámico de la vida evolutiva y experiencial del gran universo: la elaboración material, mental y espiritual divinamente coordinada del plan de las Deidades del Paraíso mediante el cual el Padre Universal se ocupa de la síntesis del poder y la personalidad.
 
-****Profundicen**** en el hondo significado de la vida y las enseñanzas de Jesús, que demostraron a la perfección cómo vivir totalmente en la fe, confiar en Dios y hacer la voluntad del Padre Universal.  
+****Profundicen**** en el hondo significado de la vida y las enseñanzas de Jesús, que demostraron a la perfección cómo vivir totalmente en la fe, confiar en Dios y hacer la voluntad del Padre Universal.  
 
 El [estudio autodirigido](https://urantiauniversity.org/sys/website/?pageId=1804236) del UUI proporciona la oportunidad para que los estudiantes nuevos y avanzados de _El libro de Urantia_ comiencen a dominar el contenido de los documentos por separado, explorar recursos, aplicar el conocimiento y comprometerse activamente con los significados y valores de la revelación. Tiene un rápido recorrido por el aspecto de los cursos.
 

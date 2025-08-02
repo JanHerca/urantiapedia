@@ -47,9 +47,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 La _conscience de la présence de Dieu_ est le secret de la vie religieuse la plus _inégalée_ qui n’ait jamais été vécue par un humain dans cet univers. Et cette sainteté a été atteinte par _une prière intelligente et une adoration sincère – une communion ininterrompue avec Dieu._
 
-## Le plan personnel 
+## Le plan personnel 
 
-Pensez à Dieu _tout le temps_, aussi souvent que vous pouvez y penser. Ne vous souciez pas du contenu exact de ces pensées – ayez confiance que votre interprète divin à bord les ajustera. Les ordres de la marche céleste sont : « Soyez parfaits » et on nous a tous appris que la pratique rend parfait. 
+Pensez à Dieu _tout le temps_, aussi souvent que vous pouvez y penser. Ne vous souciez pas du contenu exact de ces pensées – ayez confiance que votre interprète divin à bord les ajustera. Les ordres de la marche céleste sont : « Soyez parfaits » et on nous a tous appris que la pratique rend parfait. 
 
 Nos techniques d’entraînement sont la _prière_ _intelligente_ et _l’adoration sincère_. Il n’y a absolument aucun mystère dans ces instructions, bien que nous rationalisions trop souvent notre résistance au plan de la perfection. Nous excellons à trouver des moyens d’éviter Dieu. C’est pourquoi nous avons un Ajusteur de Pensée pour nous aider à cesser de résister.
 

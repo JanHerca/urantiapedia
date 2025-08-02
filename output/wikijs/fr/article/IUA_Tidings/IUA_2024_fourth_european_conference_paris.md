@@ -59,13 +59,13 @@ Un temps sera également consacré à la convivialité et à la connaissance mut
 <img src="/image/article/IUA_Tidings/European-Conference-location.jpg">
 </figure>
 
-C’est au centre de Paris, dans un cadre verdoyant, dans l’hôtel [CIS-PARIS-RAVEL](https://www.hotel-cis-paris-ravel.com/), que vous pouvez voir sur leur site internet.  Le coût estimé du séjour par personne est d’environ 500 € pour une chambre simple et 425 € pour une chambre double (non définitif avant septembre 2024), auquel nous ajouterons quelques services non encore évalués, comme la traduction, l’impression, etc.
+C’est au centre de Paris, dans un cadre verdoyant, dans l’hôtel [CIS-PARIS-RAVEL](https://www.hotel-cis-paris-ravel.com/), que vous pouvez voir sur leur site internet. Le coût estimé du séjour par personne est d’environ 500 € pour une chambre simple et 425 € pour une chambre double (non définitif avant septembre 2024), auquel nous ajouterons quelques services non encore évalués, comme la traduction, l’impression, etc.
 
 ## Plus d’informations
 
 Comme il ne s’agit pas d’un événement français, mais européen, nous recherchons des personnes pour animer des présentations et des ateliers, en fonction du vaste thème abordé. Nous pouvons organiser une soirée musicale. Il y aura une réunion des dirigeants de l’association. Et nous terminerons par des présentations des associations européennes.
 
-Contactez l’équipe à l’adresse suivante « evenement\_2025@urantia.fr  »
+Contactez l’équipe à l’adresse suivante « evenement\_2025@urantia.fr »
 
 Où trouver des informations ? Sur le site internet (français, anglais) : [Europe2025.urantia.fr](https://europe2025.urantia.fr/)
 

@@ -47,9 +47,9 @@ La conferencia se celebró a través de Zoom y se transmitió en directo desde l
 
 Durante algunos segmentos se ofrecieron traducciones simultáneas al inglés, español y portugués. Una vez más, gracias a los increíbles traductores que de nuevo trabajaron incansablemente durante horas para hacer posible que más personas experimentaran la diversidad de las presentaciones. Gracias también a los que se ofrecieron como anfitriones de los distintos segmentos para asegurarse de que siempre hubiera alguien fresco y capaz de mantener el ritmo de este evento durante las 24 horas del día. Y por supuesto, nuestro gran agradecimiento a todos los leales y laboriosos voluntarios que trabajaron tan duro en las semanas y meses anteriores para hacer posible este evento.
 
-Si no pudieron asistir, se perdieron algo o simplemente desean volver a ver una presentación, pueden ver las grabaciones en la sección de vídeos de nuestra página de Facebook en: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/) 
+Si no pudieron asistir, se perdieron algo o simplemente desean volver a ver una presentación, pueden ver las grabaciones en la sección de vídeos de nuestra página de Facebook en: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/) 
 
-Las presentaciones estarán disponibles en nuestro canal de YouTube. Vayan comprobándolo en y hagan clic en la lista de reproducción correspondiente.
+Las presentaciones estarán disponibles en nuestro canal de YouTube. Vayan comprobándolo en y hagan clic en la lista de reproducción correspondiente.
 
 https://www.youtube.com/c/UrantiaAssociationInternational/playlists
 

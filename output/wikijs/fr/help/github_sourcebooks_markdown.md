@@ -204,15 +204,15 @@ Observez que nous mettons un `> ` avec un espace derrière chaque ligne de sépa
 Le marque-page doit être inclus entre les mots dans lesquels vous passez d'une page à l'autre comme suit :
 
 ```
-Au-delà des astéroïdes se trouvent les quatre grandes planètes Jupiter, Saturne, Uranus et Neptune, toutes beaucoup plus grandes que la Terre. Jupiter, la plus grande, a, selon Sampson, un diamètre de 88 640 miles [142 652 km], soit <span id="p18">[<sup><small>p. 18</small></sup>]</span> plus de onze fois le diamètre de la terre ; Quatorze cents corps de la taille de la Terre pourraient être entassés à l’intérieur de Jupiter et laisser de la place. Saturne, suivant dans l'ordre, est le deuxième derrière Jupiter en taille, avec un diamètre d'environ 70 000 milles [112 654 km]. Ces deux planètes sont de loin les plus grandes.
+Au-delà des astéroïdes se trouvent les quatre grandes planètes Jupiter, Saturne, Uranus et Neptune, toutes beaucoup plus grandes que la Terre. Jupiter, la plus grande, a, selon Sampson, un diamètre de 88 640 miles [142 652 km], soit <span id="p18">[<sup><small>p. 18</small></sup>]</span> plus de onze fois le diamètre de la terre ; Quatorze cents corps de la taille de la Terre pourraient être entassés à l’intérieur de Jupiter et laisser de la place. Saturne, suivant dans l'ordre, est le deuxième derrière Jupiter en taille, avec un diamètre d'environ 70 000 milles [112 654 km]. Ces deux planètes sont de loin les plus grandes.
 ```
 
-Vous pouvez voir que la marque est : `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
+Vous pouvez voir que la marque est : `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
 
-Comme cette tâche peut être fastidieuse, un moyen de la rendre plus simple peut être de placer une marque alternative plus courte, telle que `ppp18` (`ppp` est un texte dont nous savons qu'il n'arrivera jamais), pour continuer avec l'exemple précédent. Ensuite, vous pouvez rechercher ces marques et les remplacer automatiquement par les marques définitives comme nous l'avons indiqué dans un autre exemple ci-dessus. Autrement dit, cela serait également valable :
+Comme cette tâche peut être fastidieuse, un moyen de la rendre plus simple peut être de placer une marque alternative plus courte, telle que `ppp18` (`ppp` est un texte dont nous savons qu'il n'arrivera jamais), pour continuer avec l'exemple précédent. Ensuite, vous pouvez rechercher ces marques et les remplacer automatiquement par les marques définitives comme nous l'avons indiqué dans un autre exemple ci-dessus. Autrement dit, cela serait également valable :
 
 ```
-Au-delà des astéroïdes se trouvent les quatre grandes planètes Jupiter, Saturne, Uranus et Neptune, toutes beaucoup plus grandes que la Terre. Jupiter, la plus grande, a, selon Sampson, un diamètre de 88 640 milles [142 652 km], soit ppp18 plus de onze fois le diamètre de la Terre ; Quatorze cents corps de la taille de la Terre pourraient être entassés à l’intérieur de Jupiter et laisser de la place. Saturne, suivant dans l'ordre, est le deuxième derrière Jupiter en taille, avec un diamètre d'environ 70 000 milles [112 654 km]. Ces deux planètes sont de loin les plus grandes.
+Au-delà des astéroïdes se trouvent les quatre grandes planètes Jupiter, Saturne, Uranus et Neptune, toutes beaucoup plus grandes que la Terre. Jupiter, la plus grande, a, selon Sampson, un diamètre de 88 640 milles [142 652 km], soit ppp18 plus de onze fois le diamètre de la Terre ; Quatorze cents corps de la taille de la Terre pourraient être entassés à l’intérieur de Jupiter et laisser de la place. Saturne, suivant dans l'ordre, est le deuxième derrière Jupiter en taille, avec un diamètre d'environ 70 000 milles [112 654 km]. Ces deux planètes sont de loin les plus grandes.
 ```
 
 ### Images

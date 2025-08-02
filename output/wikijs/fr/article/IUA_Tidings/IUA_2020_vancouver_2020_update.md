@@ -60,7 +60,7 @@ Si vous souhaitez former une équipe visionnaire, veuillez nous contacter via le
 
 Note : Cet événement est limité à 450 participants en raison de contraintes d’espace.
 
-Pour plus d’informations, visiter : [https://urantiaglobalexperience.com/](https://urantiaglobalexperience.com/)
+Pour plus d’informations, visiter : [https://urantiaglobalexperience.com/](https://urantiaglobalexperience.com/)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/UGE-Sunset-706x205.jpg">

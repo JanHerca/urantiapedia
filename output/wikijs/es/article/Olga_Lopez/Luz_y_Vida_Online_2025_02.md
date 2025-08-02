@@ -259,7 +259,7 @@ En el idioma español, las sesiones duran entre 60 y 90 minutos y se celebran el
 
 Esta es la presentación prevista para el mes de abril:
 
-**Título: Dios tiene un plan**
+**Título: Dios tiene un plan**
 
 **Día**: **domingo 6 de abril**
 
@@ -289,7 +289,7 @@ Por si os la perdisteis, esta fue la presentación del 2 de marzo:
 
 **Presentadores: José Manuel Díaz Roldán y Raúl Framiñán**
 
-En _El libro de Urantia_ se nos habla en variadas ocasiones sobre el origen de la realidad. Parece que los reveladores aceptan que la realidad, incluida la absoluta, tuvo unos inicios concretos. Reflexionar sobre todo lo que la quinta revelación nos transmite a este respecto es lo que se persigue con esta presentación.
+En _El libro de Urantia_ se nos habla en variadas ocasiones sobre el origen de la realidad. Parece que los reveladores aceptan que la realidad, incluida la absoluta, tuvo unos inicios concretos. Reflexionar sobre todo lo que la quinta revelación nos transmite a este respecto es lo que se persigue con esta presentación.
 <br style="clear:both;"/>
 
 Enlace al vídeo:
@@ -302,7 +302,7 @@ https://youtu.be/wU3FkLxMMkA?si=zrxOfTw_ltJbJc5n
 <img src="/image/article/Luz_y_Vida/LyV_2025_02/UBIS-septiembre-2021.jpg" alt="UBIS septiembre 2021" width="250">
 </figure>
 
-En abril comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 21 de abril** y finaliza el **domingo 4 de mayo**. Los cursos comienzan el **lunes 28 de abril** con la semana de orientación.
+En abril comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 21 de abril** y finaliza el **domingo 4 de mayo**. Los cursos comienzan el **lunes 28 de abril** con la semana de orientación.
 
 Estos son los cursos que se ofrecerán este trimestre. Todos son de **6 semanas** de duración:
 

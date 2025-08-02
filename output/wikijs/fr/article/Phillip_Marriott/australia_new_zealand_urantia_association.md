@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Canberra-Conf-2019-scaled.jpg">
 </figure>
 
-L’Association Urantia d’Australie et de Nouvelle-Zélande (ANZURA) a reçu sa première charte en tant qu’association nationale en 1992 et a été l’une des premières associations non américaines à se joindre à l’Association Urantia Internationale qui a toujours soutenu et travaillé en étroite collaboration avec la Fondation Urantia. (Beaucoup des membres fondateurs d’ANZURA avaient été des membres éloignés de Urantia Brotherhood). 
+L’Association Urantia d’Australie et de Nouvelle-Zélande (ANZURA) a reçu sa première charte en tant qu’association nationale en 1992 et a été l’une des premières associations non américaines à se joindre à l’Association Urantia Internationale qui a toujours soutenu et travaillé en étroite collaboration avec la Fondation Urantia. (Beaucoup des membres fondateurs d’ANZURA avaient été des membres éloignés de Urantia Brotherhood). 
 
 **Groupes d’étude**
 
@@ -49,7 +49,7 @@ Depuis que la pandémie de Covid a stimulé l’explosion de la technologie de c
 
 Depuis 1981, ANZURA organise un congrès annuel. Chaque année, nous changeons le lieu du congrès en l’organisant dans différents endroits où il y a des lecteurs. Cela offre une grande variété de possibilités, car les lecteurs de chaque endroit ont l’opportunité d’accueillir l’événement et de préparer le programme, ce qui contribue au développement des enseignants et des leaders. Cela signifie également qu’il y a un éventail différent de lecteurs à chaque congrès, car le système de rotation permet aux lecteurs qui n’ont pas l’habitude de parcourir de longues distances pour assister aux congrès de faire l’expérience de l’étude et de la socialisation avec d’autres lecteurs sans avoir à se déplacer. Ces expériences contribuent également à stimuler la croissance et le développement des groupes d’étude. Actuellement, nous alternons les congrès entre les régions locales d’Auckland, Brisbane, Canberra, Hobart, Melbourne et Sydney.
 
-En plus des congrès, ANZURA organise également une « Journée d’étude » annuelle. Nous fixons une date, habituellement en mai ou juin, et décidons d’un fascicule à lire du Livre d’Urantia (habituellement quelque chose en rapport avec le thème du congrès annuel). Nous assurons la liaison avec les hôtes des groupes d’étude locaux pour organiser une réunion d’une journée et une activité sociale dans leur région à la date choisie, puis nous faisons la promotion de l’événement par un envoi courriel à tous ceux qui figurent sur notre liste de diffusion en leur donnant les coordonnées de tous les hôtes de groupe d’étude afin qu’ils puissent contacter directement celui qui est le plus proche d’eux s’ils souhaitent assister à la réunion. Ainsi, nous avons des groupes qui se réunissent le même jour en lisant le même fascicule ! Cet événement donne aux personnes qui ne participent pas régulièrement à des groupes d’étude l’occasion de rencontrer des lecteurs de leur région et de découvrir la valeur d’un groupe d’étude.
+En plus des congrès, ANZURA organise également une « Journée d’étude » annuelle. Nous fixons une date, habituellement en mai ou juin, et décidons d’un fascicule à lire du Livre d’Urantia (habituellement quelque chose en rapport avec le thème du congrès annuel). Nous assurons la liaison avec les hôtes des groupes d’étude locaux pour organiser une réunion d’une journée et une activité sociale dans leur région à la date choisie, puis nous faisons la promotion de l’événement par un envoi courriel à tous ceux qui figurent sur notre liste de diffusion en leur donnant les coordonnées de tous les hôtes de groupe d’étude afin qu’ils puissent contacter directement celui qui est le plus proche d’eux s’ils souhaitent assister à la réunion. Ainsi, nous avons des groupes qui se réunissent le même jour en lisant le même fascicule ! Cet événement donne aux personnes qui ne participent pas régulièrement à des groupes d’étude l’occasion de rencontrer des lecteurs de leur région et de découvrir la valeur d’un groupe d’étude.
 
 Une autre occasion pour les lecteurs de se réunir est, bien sûr, la célébration de l’anniversaire de Jésus. Ces rassemblements sont généralement organisés au niveau local.
 
@@ -59,7 +59,7 @@ ANZURA garde une petite réserve de livres d’Urantia en stock (qui est réappr
 
 **Bibliothèque de ressources**
 
-La plupart des lecteurs (spécialement les nouveaux) sont intéressés par des aides à l’étude et des ouvrages secondaires produits par des personnes qui ont une bonne compréhension des enseignements d’Urantia. Par conséquent, ANZURA tient à jour une bibliothèque d’articles de ce type qui sont mis à disposition lors des conférences et sur le site Internet. (Beaucoup de nos produits ont été achetés chez « Cosmic Creations » aux États-Unis).
+La plupart des lecteurs (spécialement les nouveaux) sont intéressés par des aides à l’étude et des ouvrages secondaires produits par des personnes qui ont une bonne compréhension des enseignements d’Urantia. Par conséquent, ANZURA tient à jour une bibliothèque d’articles de ce type qui sont mis à disposition lors des conférences et sur le site Internet. (Beaucoup de nos produits ont été achetés chez « Cosmic Creations » aux États-Unis).
 
 **Autre**
 

@@ -42,21 +42,21 @@ dateCreated: 2023-8-29T10:55:6Z
 
 La Fondation Urantia a lancé son nouveau site web en 27 langues, le 8 juillet, concluant un ambitieux périple de quatre ans pour mettre à jour le principal outil de sensibilisation de l'organisation. L'objectif était de créer un site web adapté aux années 2020 avec une interface facile à utiliser qui offre une expérience apaisante et intuitive, tout en conservant toutes les informations de l'ancien site.
 
-Le nouveau site [urantia.org](https://www.urantia.org/) offre une navigation simplifiée et une expérience de lecture améliorée du _Livre d'Urantia_. Une caractéristique notable est la disponibilité de livres audio gratuits en 12 langues ! Les utilisateurs peuvent profiter de l'écoute et de la lecture simultanées en ligne, ou ils peuvent télécharger les fichiers sur leur appareil préféré pour une écoute hors ligne.
+Le nouveau site [urantia.org](https://www.urantia.org/) offre une navigation simplifiée et une expérience de lecture améliorée du _Livre d'Urantia_. Une caractéristique notable est la disponibilité de livres audio gratuits en 12 langues ! Les utilisateurs peuvent profiter de l'écoute et de la lecture simultanées en ligne, ou ils peuvent télécharger les fichiers sur leur appareil préféré pour une écoute hors ligne.
 
-Vous pouvez accéder au site dans l'une des 27 langues en cliquant sur l'icône représentant un globe dans le coin supérieur droit de chaque page. Le processus de traduction de toutes les pages est en cours. Les efforts de nos traducteurs bénévoles ont été inestimables pour ce projet. Nous leur en sommes profondément reconnaissants !
+Vous pouvez accéder au site dans l'une des 27 langues en cliquant sur l'icône représentant un globe dans le coin supérieur droit de chaque page. Le processus de traduction de toutes les pages est en cours. Les efforts de nos traducteurs bénévoles ont été inestimables pour ce projet. Nous leur en sommes profondément reconnaissants !
 
-Ce site web est un projet en cours et évolutif. L'équipe s'engage à l'enrichir continuellement de nouveaux contenus, de traductions supplémentaires et d'améliorations générales. N'hésitez pas à nous faire part de vos commentaires en les envoyant à Tamara Strumfeld à l'adresse suivante : [tamara@urantia.org](mailto:tamara@urantia.org).
+Ce site web est un projet en cours et évolutif. L'équipe s'engage à l'enrichir continuellement de nouveaux contenus, de traductions supplémentaires et d'améliorations générales. N'hésitez pas à nous faire part de vos commentaires en les envoyant à Tamara Strumfeld à l'adresse suivante : [tamara@urantia.org](mailto:tamara@urantia.org).
 
 **Voici quelques remarques faites par les lecteurs** :
 
-« Quel beau site ! Il invoque la paix, il est inspirant, il est coloré sereinement et il est représentatif de nos charmants frères et sœurs d'autres parties du monde. Merci de vos efforts persévérants pour matérialiser ce joli atterrissage qui illumine le don, le but et le sens de la vie sur notre monde ! Beaucoup d'amour à tous ceux qui ont travaillé avec tant de diligence et de dévouement ». —Judy
+« Quel beau site ! Il invoque la paix, il est inspirant, il est coloré sereinement et il est représentatif de nos charmants frères et sœurs d'autres parties du monde. Merci de vos efforts persévérants pour matérialiser ce joli atterrissage qui illumine le don, le but et le sens de la vie sur notre monde ! Beaucoup d'amour à tous ceux qui ont travaillé avec tant de diligence et de dévouement ». —Judy
 
-« Le nouveau site est fabuleux, propre, complet et professionnel ». —Rick
+« Le nouveau site est fabuleux, propre, complet et professionnel ». —Rick
 
-« J'adore le nouveau site web. La nouvelle présentation est très logique et je trouve que la recherche dans l'UB est beaucoup plus facile ». —Don
+« J'adore le nouveau site web. La nouvelle présentation est très logique et je trouve que la recherche dans l'UB est beaucoup plus facile ». —Don
 
-« Quelle merveilleuse surprise lorsque j'ai ouvert le site web de l'UF ce matin ! Au premier coup d'œil, il est magnifiquement irréprochable, attrayant et facile à naviguer. Beau changement ! ». —Bill
+« Quelle merveilleuse surprise lorsque j'ai ouvert le site web de l'UF ce matin ! Au premier coup d'œil, il est magnifiquement irréprochable, attrayant et facile à naviguer. Beau changement ! ». —Bill
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/UF_News_Online/2024_07/016.jpg">

@@ -53,11 +53,11 @@ Sobre todo, agradecimiento y alegría. Era en el silencio de la noche, cuando po
 
 En cuanto me hice con el libro y busqué en el índice, lo primero fue hojear de manera apresurada y nerviosa el comienzo de la cuarta parte, que era lo que me resultaba familiar. Solo necesité unos instantes de lectura para que el corazón me diera un vuelco. Desde ese primer instante supe que la quinta revelación era la perla que había estado buscando: «Pedid y se os dará».
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
 Mi actitud es más abierta a la experiencia y al descubrimiento. También soy más consciente del esplendor y de la belleza que me rodea. Observo que, con más frecuencia, reflexiono más y elijo mis pensamientos. Estos nuevos estímulos me llevan a «rascar con más profundidad» y percibir la bondad en las personas incluso reconociendo al Padre en ellas, y eso me emociona. Desde ese nuevo contexto se me ocurre que tengo la capacidad y la responsabilidad de crear ciertos acontecimientos.
 
-## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
+## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
 
 En estos últimos años mi fe es menos creencia y casi nada de tradición. Desde el ejemplo de la vida de nuestro Maestro, con el discurrir de los años y de las experiencias más o menos conscientes, esa perspectiva ha añadido más confianza en el Padre y son más las veces que delego mi voluntad en Él siguiendo el ejemplo del Maestro. «Es mi deseo que se haga tu voluntad», sin más sigo confiada en los acontecimientos por venir.
 
@@ -85,7 +85,7 @@ Lo que puedo constatar en mi proceso de aprendizaje es el intento de poner sus e
 
 ## 11. ¿Crees que _El libro de Urantia_ tiene algo «misterioso» que hace que no todo el mundo se decida a leerlo?
 
-En absoluto, si crees que la vida es más que lo que piensas o lo que ves. No es misterioso si buscas respuestas a una existencia coherente. La humildad, la mayor capacidad de aprender y la curiosidad, son desde mi punto de vista facetas imprescindibles para decidir leerlo.  Es un gran trasformador de la consciencia, es esfuerzo y quizá eso sea lo «misterioso». Personalmente _El libro de Urantia_ me está ayudando a evolucionar sin tanto sufrimiento y menos resistencia.
+En absoluto, si crees que la vida es más que lo que piensas o lo que ves. No es misterioso si buscas respuestas a una existencia coherente. La humildad, la mayor capacidad de aprender y la curiosidad, son desde mi punto de vista facetas imprescindibles para decidir leerlo. Es un gran trasformador de la consciencia, es esfuerzo y quizá eso sea lo «misterioso». Personalmente _El libro de Urantia_ me está ayudando a evolucionar sin tanto sufrimiento y menos resistencia.
 
 ## 12. ¿Hay algo más que quieras decir respecto a _El libro de Urantia_?
 

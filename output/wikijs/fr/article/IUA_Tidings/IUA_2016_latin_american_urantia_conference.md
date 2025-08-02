@@ -96,9 +96,9 @@ Chambre **Junior Suite** : Elle comprend une chambre, une cuisine, un coin repas
 <img src="/image/article/IUA_Tidings/Master-Suite-2-in-1-image-706x359.jpg">
 </figure>
 
-Vos options de forfait conférence sont les suivantes :
+Vos options de forfait conférence sont les suivantes :
 
-**1\. Sans hébergement :** Il comprend :
+**1\. Sans hébergement :** Il comprend :
 
 - Frais de conférence et traduction en anglais.
 - Dîner du vendredi, déjeuner et dîner du samedi, déjeuner du dimanche, déjeuner du lundi. Collations en milieu de matinée.
@@ -108,7 +108,7 @@ Vos options de forfait conférence sont les suivantes :
 - Sécurité 24h/24 et 7j/7.
 - Connexion Wifi.
 
-**2\. Avec hébergement :** Il comprend :
+**2\. Avec hébergement :** Il comprend :
 
 - Frais de conférence et traduction en anglais.
 - Hébergement les vendredi, samedi et dimanche soir.
@@ -125,17 +125,17 @@ Vos options de forfait conférence sont les suivantes :
 - Réception 24h/24 et 7j/7
 - Connexion Internet Wi-Fi et haut débit.
 
-Si vous avez une préférence pour vos colocataires, veuillez nous en informer à l’avance lors de votre inscription !
+Si vous avez une préférence pour vos colocataires, veuillez nous en informer à l’avance lors de votre inscription !
 
 **TARIFS D'HÉBERGEMENT**
 
-Voici les forfaits de conférence avec prix d'hébergement :
+Voici les forfaits de conférence avec prix d'hébergement :
 
-1. Chambre Master Suite pour 5 personnes (une personne dans le canapé-lit), 223 $ (prix par personne).
-2. Chambre Master Suite pour 4 personnes, 234 $ (prix par personne).
-3. Chambre Junior Suite pour 3 personnes (une personne dans le canapé-lit), 229 $ (prix par personne).
-4. Chambre Junior Suite pour 2 personnes, 252 $ (prix par personne).
-5. Chambre Junior Suite pour 1 personne, 289 $ (prix par personne).
+1. Chambre Master Suite pour 5 personnes (une personne dans le canapé-lit), 223 $ (prix par personne).
+2. Chambre Master Suite pour 4 personnes, 234 $ (prix par personne).
+3. Chambre Junior Suite pour 3 personnes (une personne dans le canapé-lit), 229 $ (prix par personne).
+4. Chambre Junior Suite pour 2 personnes, 252 $ (prix par personne).
+5. Chambre Junior Suite pour 1 personne, 289 $ (prix par personne).
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Latin-American-Conference-Pricing-overview-ENG-706x563.jpg">
@@ -143,8 +143,8 @@ Voici les forfaits de conférence avec prix d'hébergement :
 
 **RÉSERVATIONS**
 
-1. **Pour les résidents colombiens :** Veuillez vous rendre sur [www.urantiabogota.com](http://www.urantiabogota.com/) et suivre les instructions fournies.
-2. **Pour les visiteurs hors de Colombie :** Les instructions sont les suivantes :
+1. **Pour les résidents colombiens :** Veuillez vous rendre sur [www.urantiabogota.com](http://www.urantiabogota.com/) et suivre les instructions fournies.
+2. **Pour les visiteurs hors de Colombie :** Les instructions sont les suivantes :
 
 Pour enregistrer votre forfait conférence avec ou sans hébergement, vous devez utiliser RegOnline by Lanyon. Vous pouvez y payer par carte de crédit, Paypal et par virement bancaire.
 
@@ -152,7 +152,7 @@ Vous pouvez enregistrer votre forfait conférence avec ou sans hébergement [ici
 
 https://youtu.be/8JyWjeXjyZo
 
-Faites-nous savoir si vous souhaitez partager une chambre lors de votre inscription. Veuillez noter que si vous n'avez pas réservé de chambre auprès de l’hôtel ou de nous, nous ne pouvons pas garantir que vous aurez une chambre à l’hôtel pendant l’événement ! Nous avons un nombre limité de Junior Suites pour 1 personne, alors inscrivez-vous dès que possible si cela correspond à votre préférence
+Faites-nous savoir si vous souhaitez partager une chambre lors de votre inscription. Veuillez noter que si vous n'avez pas réservé de chambre auprès de l’hôtel ou de nous, nous ne pouvons pas garantir que vous aurez une chambre à l’hôtel pendant l’événement ! Nous avons un nombre limité de Junior Suites pour 1 personne, alors inscrivez-vous dès que possible si cela correspond à votre préférence
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/hotelpicturesmixed-Lancaster-Houset-big-706x507.jpg">

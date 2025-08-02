@@ -115,13 +115,13 @@ C'est le chapitre suivant, qui parle de Jésus à l'âge de quatorze ans, et il 
 [Télécharger le chapitre complet au format PDF](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/09/023-Jesus-a-los-catorce-anos.pdf)
 <br style="clear:both;"/>
 
-## Série de présentations UBIS «  In the Spotlight  »
+## Série de présentations UBIS «  In the Spotlight »
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
 </figure>
 
-L'École Internationale du Livre d'Uran_tia (UBIS) propose une série de webinaires «  In Focus  » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
+L'École Internationale du Livre d'Uran_tia (UBIS) propose une série de webinaires «  In Focus » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
 
 En espagnol, les séances durent entre 60 et 90 minutes et ont lieu un samedi par mois à 18h (heure de Madrid, Paris, Rome). Le présentateur fait une présentation introductive sur le sujet en question, après quoi le public a la possibilité de participer à une discussion.
 
@@ -131,7 +131,7 @@ Voici la présentation prévue pour le mois d'octobre :
 **Heure : 18h00** **CET** (Madrid, Paris, Rome)
 **Titre : L'éducation des enfants dans la famille : les enseignements de Jésus**
 **Présenté par :** **Olga López**
-Salle Zoom : [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
+Salle Zoom : [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
 
 Vous pouvez regarder la vidéo de la session précédente sur ce lien
 
@@ -149,9 +149,9 @@ https://youtu.be/HUniksXvDxk?si=aY73-YQOYQ7oM46V
 
 <br style="clear:both;"/>
 
-**Date :** du 7 au 10 septembre 2023
+**Date :** du 7 au 10 septembre 2023
 **Emplacement :** Hôtel Santa Cecilia, C/ Tinte nº 3, Ciudad Real
-**Sujet :** L’engagement d’être croyant. Pratiques de vie à la lumière du Livre d'Urantia
+**Sujet :** L’engagement d’être croyant. Pratiques de vie à la lumière du Livre d'Urantia
 
 La 19e Rencontre des Lecteurs Espagnols a débuté jeudi après-midi 7 septembre à l'Hôtel Santa Cecilia, situé au centre de Ciudad Real. Environ 30 personnes venues de tous les coins du pays y ont assisté : Alicante, Almería, Ávila, Barcelone, Burgos, Cáceres, Madrid, Malaga, Murcie, Navarre, Séville, Tarragone et Valence. Nous avons également eu la présence d'Antonio Schefer, des Pays-Bas, président du Comité du Congrès de l'UAI, qui nous a honoré de sa présence.
 

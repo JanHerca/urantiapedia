@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Karo Akamune, Maryland, États-Unis_
 
-_Note de l'éditeur : Karo, le coordinateur principal mondial du Centre du Christ Michael, fut l'un des bénéficiaires de la première série de subventions de la Graine de Moutarde en 2024. Il nous fait part de son projet de sensibilisation en Afrique._
+_Note de l'éditeur : Karo, le coordinateur principal mondial du Centre du Christ Michael, fut l'un des bénéficiaires de la première série de subventions de la Graine de Moutarde en 2024. Il nous fait part de son projet de sensibilisation en Afrique._
 
 <br style="clear:both;"/>
 
@@ -48,9 +48,9 @@ _Note de l'éditeur : Karo, le coordinateur principal mondial du Centre du Chri
 <img src="/image/article/UF_News_Online/2024_12/030.jpg">
 </figure>
 
-Le Centre Christ Michael fut fondé en 2014 et fonctionne depuis 10 ans. Notre but principal est d'apprendre et de comprendre l'évangile non dilué de Jésus, et d'apporter son message d'amour aux extrémités de la terre. Une fois que nous avons adopté de tout cœur les enseignements du Maître, les projets de service social d'amour deviennent un résultat naturel et organique. Notre objectif est d'apporter l'évangile de l'amour, de la grâce et de la vérité à tous les pays de la planète !
+Le Centre Christ Michael fut fondé en 2014 et fonctionne depuis 10 ans. Notre but principal est d'apprendre et de comprendre l'évangile non dilué de Jésus, et d'apporter son message d'amour aux extrémités de la terre. Une fois que nous avons adopté de tout cœur les enseignements du Maître, les projets de service social d'amour deviennent un résultat naturel et organique. Notre objectif est d'apporter l'évangile de l'amour, de la grâce et de la vérité à tous les pays de la planète !
 
-Au fil du temps, nous avons construit une communauté d'âmes libérées de la foi et désireuses de toucher des vies. Nous comptons actuellement plus de 20 groupes répartis dans sept pays : Ghana, Jamaïque, Nigeria, Afrique du Sud, Ouganda, Émirats arabes unis et États-Unis. Les groupes sont dirigés par des coordinateurs qui se rencontrent sur WhatsApp, Google Meet ou parfois en personne.
+Au fil du temps, nous avons construit une communauté d'âmes libérées de la foi et désireuses de toucher des vies. Nous comptons actuellement plus de 20 groupes répartis dans sept pays : Ghana, Jamaïque, Nigeria, Afrique du Sud, Ouganda, Émirats arabes unis et États-Unis. Les groupes sont dirigés par des coordinateurs qui se rencontrent sur WhatsApp, Google Meet ou parfois en personne.
 
 Les groupes de cellule cultivent une vision pour accomplir un service d'amour — n'importe quel projet de valeur qui pourrait être une bénédiction pour la communauté en général. Les visions comprennent un centre de formation au Livre d'Urantia (une formation intensive d'un an), un centre de réhabilitation des toxicomanes, un centre de conseil matrimonial, une clinique de soins de santé et un orphelinat. Nous comptons aussi beaucoup sur les médias sociaux pour répandre les enseignements du _Livre d'Urantia_ dans plus de 100 pays à travers le monde.
 
@@ -64,7 +64,7 @@ Le Café du Livre d'Urantia à Eku, au Nigeria, est un exemple de vision réussi
 
 Le café a attiré un grand nombre de personnes. Les gens viennent pour utiliser la bibliothèque et acquérir des compétences informatiques, puis ils sont exposés à la cinquième révélation d'époque. Non seulement nous attirons de nouveaux lecteurs, mais le Café du Livre d'Urantia a eu un impact sur la vie de centaines de personnes depuis sa création en 2022.
 
-Le livre nous dit dans le fascicule 56 que « l'amour est le désir de faire du bien aux autres. » [LU 56:10.21](/fr/The_Urantia_Book/56#p10_21) Grâce à la subvention de la Graine de Moutarde, nous avons reçu de la Fondation Urantia 50 Livres d'Urantia brochés. Nous avons déjà douze frères et sœurs impatients de recevoir leur propre exemplaire. Nous sommes confiants que ces livres amélioreront un jour la vie spirituelle de 50 fils et filles de Dieu nigérians !
+Le livre nous dit dans le fascicule 56 que « l'amour est le désir de faire du bien aux autres. » [LU 56:10.21](/fr/The_Urantia_Book/56#p10_21) Grâce à la subvention de la Graine de Moutarde, nous avons reçu de la Fondation Urantia 50 Livres d'Urantia brochés. Nous avons déjà douze frères et sœurs impatients de recevoir leur propre exemplaire. Nous sommes confiants que ces livres amélioreront un jour la vie spirituelle de 50 fils et filles de Dieu nigérians !
 
 <br style="clear:both;"/>
 

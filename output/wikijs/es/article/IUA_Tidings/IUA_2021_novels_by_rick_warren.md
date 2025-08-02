@@ -39,9 +39,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Rick-Warren-150x150.jpg">
 </figure>
 
-_El libro de Urantia_ nos anima a ser creativos en la forma en que compartimos nuestra comprensión de la verdad. Es asombroso el número de ayudas al estudio y obras derivadas producidas por estudiantes creativos e imaginativos del libro. 
+_El libro de Urantia_ nos anima a ser creativos en la forma en que compartimos nuestra comprensión de la verdad. Es asombroso el número de ayudas al estudio y obras derivadas producidas por estudiantes creativos e imaginativos del libro. 
 
-Rick (o Richard) Warren, estudiante y estudioso de _El libro de Urantia_ desde hace mucho tiempo y leal partidario de la Asociación Urantia Internacional, es un prolífico escritor de novelas que se clasifican como «obras derivadas» de la revelación Urantia. Rick formó parte de la JIS de la asociación como presidente de Diseminación y posteriormente fue miembro del comité de Comunicaciones hasta hace unos años, cuando dimitió y nos dijo que necesitaba centrar su tiempo y energía en escribir un libro. Ese libro resultó ser _Sala de Resurrección: una odisea en los mundos mansión_, la primera de una serie de novelas que ha ido publicando desde entonces. 
+Rick (o Richard) Warren, estudiante y estudioso de _El libro de Urantia_ desde hace mucho tiempo y leal partidario de la Asociación Urantia Internacional, es un prolífico escritor de novelas que se clasifican como «obras derivadas» de la revelación Urantia. Rick formó parte de la JIS de la asociación como presidente de Diseminación y posteriormente fue miembro del comité de Comunicaciones hasta hace unos años, cuando dimitió y nos dijo que necesitaba centrar su tiempo y energía en escribir un libro. Ese libro resultó ser _Sala de Resurrección: una odisea en los mundos mansión_, la primera de una serie de novelas que ha ido publicando desde entonces. 
 
 He aquí una breve descripción de sus novelas:
 <br style="clear:both;"/>
@@ -52,7 +52,7 @@ He aquí una breve descripción de sus novelas:
 <img src="/image/article/IUA_Tidings/Resurrection-Hall-Cover-267x400.jpg">
 </figure>
 
-¿Qué pasará cuando despiertes después de vivir en la Tierra? 
+¿Qué pasará cuando despiertes después de vivir en la Tierra? 
 
 _Sala de Resurrección_ intenta ahondar en esa cuestión a la luz de las nuevas revelaciones encontradas en _El libro de Urantia_, libro publicado en 1955 que revela mucho sobre la vida futura que va desde el primer aliento en el primer mundo mansión hasta la llegada al Paraíso como seres perfeccionados. _Sala de Resurrección_ es una odisea espiritual basada en estas revelaciones de la familia Maylon, que resucita en el primer mundo mansión para iniciar el larguísimo viaje hacia la morada de Dios en el centro de todas las cosas y todos los seres.
 <br style="clear:both;"/>
@@ -90,18 +90,18 @@ Las historias de los humanos originales son universales. Se cree que los mitos a
 <img src="/image/article/IUA_Tidings/First-Humans-Cover-266x400.jpg">
 </figure>
 
-¿Y si pudieras saber quiénes fueron los dos primeros humanos? ¿Te interesaría? Imagina que hace aproximadamente un millón de años nacieron unos adorables gemelos, crecieron, huyeron de sus antepasados animales y luego fueron los padres de la familia humana. Imagina cómo eran, dónde y cómo vivían. ¿Cuántos fueron sus hijos? ¿Cuántas palabras había en su vocabulario? ¿A quién o qué adoraban? 
- 
-Se sabe muy poco sobre Andón y Fonta, pero podrían haber sido personas reales que aparecieron en la Tierra y fundaron la raza humana. Alguien lo hizo, ¿por qué no ellos? 
- 
+¿Y si pudieras saber quiénes fueron los dos primeros humanos? ¿Te interesaría? Imagina que hace aproximadamente un millón de años nacieron unos adorables gemelos, crecieron, huyeron de sus antepasados animales y luego fueron los padres de la familia humana. Imagina cómo eran, dónde y cómo vivían. ¿Cuántos fueron sus hijos? ¿Cuántas palabras había en su vocabulario? ¿A quién o qué adoraban? 
+ 
+Se sabe muy poco sobre Andón y Fonta, pero podrían haber sido personas reales que aparecieron en la Tierra y fundaron la raza humana. Alguien lo hizo, ¿por qué no ellos? 
+ 
 Los detalles presentados en esta breve historia son plausibles y fascinantes y tienen visos de verdad. Si es cierta, habrá que escribir una nueva versión de la historia. Haz un viaje muy atrás en el tiempo y hazte una idea de quiénes podrían ser nuestros padres primordiales. Descubre cómo su familia creció hasta llegar a los 500 millones, quiénes son y dónde están sus descendientes modernos. Es una historia extraordinaria que te hará preguntarte de dónde salió un relato semejante.
 <br style="clear:both;"/>
 
 ## Novelas en elaboración: 
 
-**The Planetary Prince – Revelation and Rebellion.** Debería estar publicada para mayo o junio. 
+**The Planetary Prince – Revelation and Rebellion.** Debería estar publicada para mayo o junio. 
 
-Pueden ver y adquirir todos los libros y todas las versiones y traducciones en Amazon: [https://www.amazon.com/Richard-E-Warren/e/B07SF8DC3C?ref\_=dbs\_p\_pbk\_r00\_abau\_000000](https://www.amazon.com/Richard-E-Warren/e/B07SF8DC3C?ref_=dbs_p_pbk_r00_abau_000000)
+Pueden ver y adquirir todos los libros y todas las versiones y traducciones en Amazon: [https://www.amazon.com/Richard-E-Warren/e/B07SF8DC3C?ref\_=dbs\_p\_pbk\_r00\_abau\_000000](https://www.amazon.com/Richard-E-Warren/e/B07SF8DC3C?ref_=dbs_p_pbk_r00_abau_000000)
 
 ## Referencias
 

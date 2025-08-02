@@ -74,10 +74,10 @@ Más que aceptar, es no entender algunas cosas, como por ejemplo:
 
 Pero ya no peleo con ellas, solo pido al Espíritu de la Verdad que me ayude a entenderlas.
 
-## 7. ¿Cuál es la parte que más profundamente te ha impresionado? 
+## 7. ¿Cuál es la parte que más profundamente te ha impresionado? 
 
 - Lo profundamente dormidos que estamos los humanos frente a la inmensidad del Padre Universal, su familia y su proyecto.
-- Que nuestro querido Jesús sea el Dios de un universo y nuestro Padre Creador. 
+- Que nuestro querido Jesús sea el Dios de un universo y nuestro Padre Creador. 
 
 ## 8. ¿Cómo entiendes tú eso de «hacer la voluntad del Padre»?
 

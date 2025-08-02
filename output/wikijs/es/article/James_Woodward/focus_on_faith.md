@@ -42,7 +42,7 @@ Hace falta fe para salir a la aventura de la fe.
 
 La fe es una sagrada paradoja: es algo que se toma en los niveles espirituales y se suelta en los niveles materiales. Con la afirmación de la fe, reconocemos una realidad espiritual y a los seres divinos que habitan esa realidad, sin verla ni verlos. Con la fe viva, confiamos implícitamente en que esas realidades y esos seres son amables con nosotros, incluso que nos aman. Con el ejercicio de la fe, nos acercamos a esas realidades y seres como lo hacemos con nuestra querida familia y nuestro entorno natural. Con la perfección de la fe, compartimos plenamente la voluntad de Dios y vivimos el Plan perfecto. Para los mortales es un plan en marcha.
 
-> «Perfeccionar es de Dios. Desear la perfección es del hombre.» 
+> «Perfeccionar es de Dios. Desear la perfección es del hombre.» 
 > 
 > — Johann Wolfgang Von Goethe
 
@@ -50,7 +50,7 @@ Si te dijeran que existe un plan perfecto, diseñado exclusivamente para ti y pa
 
 > La fe actúa para desencadenar las actividades sobrehumanas de la chispa divina, el germen inmortal que vive dentro de la mente del hombre y que es el potencial de la supervivencia eterna. <a id="a50_190"></a>[LU 132:3.6](/es/The_Urantia_Book/132#p3_6)
 
-La fe y los pensamientos son como herramientas supremas que utilizamos para hacer realidad a Dios en nuestra experiencia personal, para liberar a Dios en nuestro interior y hacer que el Padre sea _real_ para nosotros, y así comenzar el viaje hacia la eternidad. Salir a la aventura de la fe es creer / pensar en Dios en la vida cotidiana, aunque nos resistamos con desobediencia. 
+La fe y los pensamientos son como herramientas supremas que utilizamos para hacer realidad a Dios en nuestra experiencia personal, para liberar a Dios en nuestro interior y hacer que el Padre sea _real_ para nosotros, y así comenzar el viaje hacia la eternidad. Salir a la aventura de la fe es creer / pensar en Dios en la vida cotidiana, aunque nos resistamos con desobediencia. 
 
 > El éxito de vuestro Ajustador en la empresa de guiaros a través de la vida mortal y llevar a cabo vuestra supervivencia depende no tanto de vuestras creencias teóricas como de vuestras decisiones, vuestras determinaciones y vuestra _fe_ firme. Todos estos movimientos de crecimiento de la personalidad se convierten en poderosas influencias que contribuyen a vuestro progreso porque os ayudan a no resistiros a vuestro Ajustador y a cooperar con él. <a id="a54_452"></a>[LU 110:3.2](/es/The_Urantia_Book/110#p3_2)
 

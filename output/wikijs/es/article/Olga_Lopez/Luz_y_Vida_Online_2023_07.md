@@ -124,7 +124,7 @@ Este trabajo fue escrito como presentación en una sala virtual, pensando en que
 
 En este PDF podréis ver los puntos principales de la presentación ofrecida por su autor sobre este tema tan importante para entender el amor del Padre. Tal como señala su autor al expresar sus objetivos: «El objetivo principal de esta presentación es analizar y tomar conciencia de lo que representa el colosal ministerio de la misericordia divina de nuestro Padre celestial, la Trinidad del Paraíso, la acción de las huestes celestiales y seráficas, así como la manifestación real y vital en la figura de nuestro padre Jesús de Nazaret (Miguel de Nebadon), en el tiempo que compartió su existencia material junto a nosotros en nuestro planeta.»
 <br style="clear:both;"/>
- 
+ 
 
 
 ---
@@ -191,7 +191,7 @@ En esta entrega del [**espacio «Luz y Vida» de Radio Urantia**](https://www.iv
 
 [Enlace ivoox](https://www.ivoox.com/homenaje-a-david-zebedeo-horacio-gamboa-audios-mp3_rf_73605999_1.html)
 
- <br style="clear:both;"/>
+ <br style="clear:both;"/>
 
 
 ## Navegando por la vida: La vida
@@ -323,7 +323,7 @@ Asociación Urantia de España
 
 <br style="clear:both;"/>
 
- 
+ 
 
 
 ### Reserva de habitaciones
@@ -371,7 +371,7 @@ Reembolso de la reserva en casos particulares por causa justificada, accidente, 
 
 ### Inscripciones
 
-Aquellas personas que deseen acudir al XIX Encuentro Nacional deberán abonar una cantidad de **15 € por persona** por gastos comunes originados de los alquileres por salas, audiovisuales, agua en salas, papelería y demás costes.
+Aquellas personas que deseen acudir al XIX Encuentro Nacional deberán abonar una cantidad de **15 € por persona** por gastos comunes originados de los alquileres por salas, audiovisuales, agua en salas, papelería y demás costes.
 
 El ingreso se realizará mediante transferencia bancaria, tarjeta de crédito, a la cuenta del Banco TRÍODOS BANK.
 Código IBAN: ES86 1491 0001 2521 3206 5927

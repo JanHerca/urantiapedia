@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Guatemala-BF-2-Adjusted-300x400.jpg">
 </figure>
 
-Du 11 au 21 juillet 2019, le Salon International du livre s’est tenu à Guatemala. Le quartier général était à Foro Majadas dans la zone 11 de la capitale.
+Du 11 au 21 juillet 2019, le Salon International du livre s’est tenu à Guatemala. Le quartier général était à Foro Majadas dans la zone 11 de la capitale.
 
 Pour Urantia Guatemala, c’était l’occasion de continuer à présenter _Le Livre d’Urantia_, le faisant connaître à différents segments de population et partageant son contenu à travers des conversations, afin d’illustrer la Paternité de Dieu et la Fraternité des Hommes.
 

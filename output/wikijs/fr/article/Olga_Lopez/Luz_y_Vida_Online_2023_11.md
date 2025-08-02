@@ -171,7 +171,7 @@ Dans cet épisode de [**l'espace «  Lumière et Vie  » de Radio Urantia**](htt
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Los-dos-cantaros.jpg" alt="Los dos cántaros" width="350">
 </figure>
 
-Un porteur d'eau indien avait deux grandes cruches suspendues aux extrémités d'un poteau qu'il portait sur ses épaules. L'un avait plusieurs fissures par lesquelles l'eau s'échappait, de sorte qu'au bout du chemin il n'en restait que la moitié, tandis que l'autre était parfaite et gardait tout son contenu. Et ainsi de suite chaque jour. La cruche non fêlée était fière de son succès, car elle savait qu'elle était adaptée à ce pour quoi elle avait été créée ; Mais la pauvre cruche fêlée avait honte de son imperfection et de ne pas pouvoir faire correctement son travail, alors après deux ans elle dit au porteur d'eau :
+Un porteur d'eau indien avait deux grandes cruches suspendues aux extrémités d'un poteau qu'il portait sur ses épaules. L'un avait plusieurs fissures par lesquelles l'eau s'échappait, de sorte qu'au bout du chemin il n'en restait que la moitié, tandis que l'autre était parfaite et gardait tout son contenu. Et ainsi de suite chaque jour. La cruche non fêlée était fière de son succès, car elle savait qu'elle était adaptée à ce pour quoi elle avait été créée ; Mais la pauvre cruche fêlée avait honte de son imperfection et de ne pas pouvoir faire correctement son travail, alors après deux ans elle dit au porteur d'eau :
 
 —J’ai honte et je veux m’excuser car à cause des fissures, vous n’obtenez que la moitié de la valeur que vous devriez recevoir pour votre travail.
 
@@ -219,13 +219,13 @@ J’avais le sentiment que c’était vraiment important, j’étais convaincu d
 
 [Lire la suite](/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez_2)
 
-## Série de présentations UBIS «  In the Spotlight  »
+## Série de présentations UBIS «  In the Spotlight »
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
 </figure>
 
-L'École Internationale du Livre d'Uran_tia (UBIS) propose une série de webinaires «  In Focus  » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
+L'École Internationale du Livre d'Uran_tia (UBIS) propose une série de webinaires «  In Focus » liés à des sujets du Livre d'Urantia ou de la communauté des lecteurs.
 
 En espagnol, les séances durent entre 60 et 90 minutes et ont lieu un samedi par mois à 18h (heure de Madrid, Paris, Rome). Le présentateur fait une présentation introductive sur le sujet en question, après quoi le public a la possibilité de participer à une discussion.
 
@@ -235,7 +235,7 @@ Voici la présentation prévue pour décembre :
 **Heure : 18h00** **CET** (Madrid, Paris, Rome)
 **Titre : Perception spirituelle : parvenir au discernement de la guidance spirituelle divine**
 **Présenté par : José Manuel Diaz Roldan**
-Salle Zoom : [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
+Salle Zoom : [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
 
 <br style="clear:both;"/>
 

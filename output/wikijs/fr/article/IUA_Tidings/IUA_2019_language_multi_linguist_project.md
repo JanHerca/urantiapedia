@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Teaching-300x200.jpg">
 </figure>
 
-Nous sommes maintenant dans l’âge post-effusion d’Urantia. En ce qui concerne notre époque actuelle, _Le Livre d’Urantia_ mentionne :
+Nous sommes maintenant dans l’âge post-effusion d’Urantia. En ce qui concerne notre époque actuelle, _Le Livre d’Urantia_ mentionne :
 
 
 > _Alors que Jésus a bien montré le chemin pour atteindre immédiatement la fraternité spirituelle, mais la réalisation de la fraternité sociale sur votre monde dépend beaucoup de l’accomplissement des transformations personnelles et des ajustements planétaires suivants :_
@@ -56,10 +56,10 @@ Les étudiants commenceront par travailler avec l’une des plateformes d’appr
 
 Mais ce programme ne peut pas commencer tant que nous n’aurons pas trouvé des bénévoles pour le coordonner. Pensez à cette incroyable opportunité de service pour aider Micaël et nos amis invisibles à faire un petit pas vers la fraternité sociale sur notre planète. Et, si vous souhaitez aider à coordonner l’apprentissage d’autres langues que l’espagnol et l’anglais, n’hésitez pas à nous le faire savoir.
 
-Pour faire du bénévolat, vous pouvez :
+Pour faire du bénévolat, vous pouvez :
 
 - Remplir le formulaire de demande sur le site Web de l’Association suivante en cliquant sur le lien : [https://urantia-association.org/impliquez-vous/devenez-benevoles/?lang=fr](https://urantia-association.org/impliquez-vous/devenez-benevoles/?lang=fr)
-- Ou appeler le bureau central aux États-Unis au : 1-773-572-1180
+- Ou appeler le bureau central aux États-Unis au : 1-773-572-1180
 
 Merci de considérer cette opportunité passionnante de service.
 

@@ -76,7 +76,7 @@ Estas preguntas fascinantes y muchas más se van a considerar y a responder en l
 <img src="/image/article/IUA_Tidings/Maryknoll-1-300x225.jpg">
 </figure>
 
-Usaremos de manera exclusiva el Maryknoll Retreat and Conference Centre; situado solo a una corta caminata de las bellas aguas de la Blackmans Bay. Gestionado por las hermanas presentacionistas de Tasmania desde 1979, el centro ofrece capilla para el culto, gran sala de conferencias, cocina, salón comedor y varias habitaciones más pequeñas que podrían usarse para debates de grupos de estudio. El alojamiento está allí mismo y consiste en tres habitaciones dobles, cinco habitaciones con dos camas y doce habitaciones individuales que comparten baños y aseos comunes; además, hay tres ermitas independientes apropiadas para parejas o familias pequeñas. Haremos todo lo posible para proporcionar un alojamiento adecuado a los asistentes. Todas las camas tienen mantas eléctricas y cada dormitorio tiene un calefactor eléctrico. Se proporciona ropa de cama y toallas. Tasmania es bastante frío en esa época del año, así que asegúrense de llevar mucha ropa de abrigo.
+Usaremos de manera exclusiva el Maryknoll Retreat and Conference Centre; situado solo a una corta caminata de las bellas aguas de la Blackmans Bay. Gestionado por las hermanas presentacionistas de Tasmania desde 1979, el centro ofrece capilla para el culto, gran sala de conferencias, cocina, salón comedor y varias habitaciones más pequeñas que podrían usarse para debates de grupos de estudio. El alojamiento está allí mismo y consiste en tres habitaciones dobles, cinco habitaciones con dos camas y doce habitaciones individuales que comparten baños y aseos comunes; además, hay tres ermitas independientes apropiadas para parejas o familias pequeñas. Haremos todo lo posible para proporcionar un alojamiento adecuado a los asistentes. Todas las camas tienen mantas eléctricas y cada dormitorio tiene un calefactor eléctrico. Se proporciona ropa de cama y toallas. Tasmania es bastante frío en esa época del año, así que asegúrense de llevar mucha ropa de abrigo.
 <br style="clear:both;"/>
 
 ## Cáterin
@@ -87,8 +87,8 @@ El centro proporciona desayuno, almuerzo y cena tipo buffet. Además, habrá té
 
 Conferencia completa (baño compartido): 390 \$, (ermita): 420 \$. El precio incluye 3 noches de alojamiento más todas las comidas desde la cena del viernes hasta el almuerzo del lunes. Hay disponibles bebidas alcohólicas pagando un coste extra.
 
-_Tarifa diaria:_ 80$ – incluye almuerzo y desayuno, más te y café durante todo el día.
-_Tarifa diaria:_ 40$ – incluye solo almuerzo, más té y café durante todo el día.
+_Tarifa diaria:_ 80$ – incluye almuerzo y desayuno, más te y café durante todo el día.
+_Tarifa diaria:_ 40$ – incluye solo almuerzo, más té y café durante todo el día.
 
 Contacten con [anzura@urantia-anzura.org](mailto:anzura@urantia-anzura.org)
 

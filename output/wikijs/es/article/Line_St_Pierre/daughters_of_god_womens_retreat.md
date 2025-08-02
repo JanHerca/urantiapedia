@@ -58,7 +58,7 @@ En su próximo retiro, «Bailar con Dios, emerger en lo sagrado», cuatro Hijas 
 _Ensalzar el estatus de ser una mujer dedicada al crecimiento espiritual, al avance intelectual y al progreso moral.
 
 **Visión:**
-_Tocar el corazón de las mujeres explorando la dignidad de ser Hijas de Dios, honrando su valor e importancia y cooperando con el espíritu divino para recolectar la bella cosecha de los frutos del espíritu.
+_Tocar el corazón de las mujeres explorando la dignidad de ser Hijas de Dios, honrando su valor e importancia y cooperando con el espíritu divino para recolectar la bella cosecha de los frutos del espíritu.
 
 Si quieren unirse a este evento del 533 W. Diversey Parkway en Chicago, contacten con Joanne Strobel.
 

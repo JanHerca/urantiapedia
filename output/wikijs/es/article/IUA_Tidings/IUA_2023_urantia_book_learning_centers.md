@@ -45,7 +45,7 @@ Actualmente se ofrecen clases en la **Escuela Internacional de _El libro de Uran
 
 ## Escuela Internacional de _El libro de Urantia_
 
-La Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) está patrocinada por la Fundación Urantia. El trimestre de enero ya ha comenzado y todos los cursos están completos, pero se ofrecerán nuevos cursos en abril. La inscripción se abre el lunes 17 de abril. 
+La Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) está patrocinada por la Fundación Urantia. El trimestre de enero ya ha comenzado y todos los cursos están completos, pero se ofrecerán nuevos cursos en abril. La inscripción se abre el lunes 17 de abril. 
 
 Hay cursos disponibles en alemán, polaco, húngaro, portugués, español, francés e inglés. El contenido de los cursos puede variar según el idioma. Para más información, consulten el sitio web de la UBIS. [https://new.ubis.urantia.org/](https://new.ubis.urantia.org/)
 

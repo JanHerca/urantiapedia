@@ -43,20 +43,20 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Nosotros lo hemos hecho, y nos gustaría invitarles a que se unan a nosotros para elaborar juntos algunas soluciones prácticas que nos ayuden a enfrentar los próximos desafíos pos-COVID-19 con mente más firme y corazón floreciente. Por supuesto, guiados e inspirados por la belleza, la bondad y la verdad de _El libro de Urantia_.
 
-Todos sabemos que Urantia está en una crisis aguda debido a la actual pandemia de coronavirus. Como en toda crisis, ofrecerá oportunidades para el progreso personal y el crecimiento espiritual. Creemos que una de esas oportunidades únicas será sembrar las enseñanzas y las percepciones de la revelación de forma práctica y utilitaria en la mente y el corazón de los miembros de nuestras comunidades del mundo. Nos centraremos en el servicio activo guiado por el espíritu.  
+Todos sabemos que Urantia está en una crisis aguda debido a la actual pandemia de coronavirus. Como en toda crisis, ofrecerá oportunidades para el progreso personal y el crecimiento espiritual. Creemos que una de esas oportunidades únicas será sembrar las enseñanzas y las percepciones de la revelación de forma práctica y utilitaria en la mente y el corazón de los miembros de nuestras comunidades del mundo. Nos centraremos en el servicio activo guiado por el espíritu.  
 
 En unas semanas reuniremos a un extraordinario grupo de entusiastas de _El libro de Urantia_ de nuestras comunidades de todo el mundo con el objetivo de idear y co-crear soluciones a los retos planteados en áreas clave afectadas por la pandemia.
 
-Las áreas que se van a explorar son: 
+Las áreas que se van a explorar son: 
 
-- Arte, cultura y ocio. 
+- Arte, cultura y ocio. 
 - Vida cívica, armonía social y solidaridad.
 - Economía, negocios y trabajo.
 - Educación y desarrollo extracurricular.
 - Salud, bienestar y asistencia sanitaria.
-- Hogar, familia y comunidad. 
+- Hogar, familia y comunidad. 
 
-¡Nos encantaría que ustedes formaran parte de esto! 
+¡Nos encantaría que ustedes formaran parte de esto! 
 
 Actualmente estamos invitando a voluntarios a unirse a nuestros equipos y colaborar en una plataforma muy dinámica y creativa: un _hackatón_ Urantia.
 
@@ -82,9 +82,9 @@ A continuación, se llevará a cabo un proceso estructurado y creativo de ideaci
 
 ## Invitación a participar 
 
-¿Les gustaría formar parte de esto? 
+¿Les gustaría formar parte de esto? 
 
-¿Están preocupados? ¿Han oído hablar de un hackatón? ¿Han participado en alguno? 
+¿Están preocupados? ¿Han oído hablar de un hackatón? ¿Han participado en alguno? 
 
 ¡**Cualquiera** puede participar en un hackatón! Serán entrenados y guiados a lo largo del proceso por el equipo de ideación, los mentores y su líder de equipo.
 
@@ -94,10 +94,10 @@ Si están entusiasmados por saber más y verse como miembros del equipo de _Hack
 
 Además, ofreceremos sesiones de preguntas y respuestas por Zoom en las próximas semanas. Envíennos un Whatsapp o un correo electrónico y les enviaremos una invitación.
 
-¡Esperamos tener noticias suyas! 
+¡Esperamos tener noticias suyas! 
 
-En servicio por amor. 
-El equipo de ideación de Urantia Hackatón 2020: 
+En servicio por amor. 
+El equipo de ideación de Urantia Hackatón 2020: 
 Sandra y Gabriel Rymberg, Samantha Nior, Lourdes Burga-Cisneros y Luis García Bory
 
 ## Referencias

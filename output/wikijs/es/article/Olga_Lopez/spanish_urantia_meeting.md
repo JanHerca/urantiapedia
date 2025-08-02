@@ -53,7 +53,7 @@ Por la tarde, disfrutamos de un rato de socialización mientras dábamos un pase
 <img src="/image/article/IUA_Tidings/XVI-Spanish-Meeting-Urantia-Wedding-Cake-150x150.jpg">
 </figure>
 
-El domingo por la mañana tuvimos dos presentaciones muy innovadoras, dadas por dos grandes mujeres. La primera, Paula Requejo, nos contó una historia inspirada en «La supervivencia de los verdaderos valores», con el apoyo de un PowerPoint que contenía evocadoras imágenes y de un personaje llamado «Urantina», una niña que descubre en su vida diaria cuáles son esos verdaderos valores.
+El domingo por la mañana tuvimos dos presentaciones muy innovadoras, dadas por dos grandes mujeres. La primera, Paula Requejo, nos contó una historia inspirada en «La supervivencia de los verdaderos valores», con el apoyo de un PowerPoint que contenía evocadoras imágenes y de un personaje llamado «Urantina», una niña que descubre en su vida diaria cuáles son esos verdaderos valores.
 
 La segunda, María José Sánchez Santamaría, nos llevó por un viaje hasta el Paraíso y más allá con nuestro Ajustador del Pensamiento, una vez nos fusionamos en un solo ser. En su presentación, titulada «El Ajustador y el alma», utilizó breves momentos de meditación, música y palabras para hacernos volar en compañía de nuestro Ajustador del Pensamiento. ¡Fue realmente asombroso!
 
@@ -84,7 +84,7 @@ El domingo, tuvimos una asamblea abierta de la Asociación, en la que la junta e
 Después del almuerzo llegó la hora del adiós, ¡pero la cuenta atrás para el siguiente Encuentro ya está en marcha!
 
 Olga López
-Asociación Urantia de España
+Asociación Urantia de España
 <br style="clear:both;"/>
 
 ## Referencias

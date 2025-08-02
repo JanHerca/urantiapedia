@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 (Transcripción de una presentación dada en la Conferencia de Tasmania 2022)
 
-Todas las religiones formales y los peregrinos espirituales tienen en su corazón el deseo básico de conectar o llegar a ser uno con un bien mayor. Se encuentra en algún lugar del núcleo de su sistema de creencias, quizá sofocado por un mayor o menor número de prácticas rituales. 
+Todas las religiones formales y los peregrinos espirituales tienen en su corazón el deseo básico de conectar o llegar a ser uno con un bien mayor. Se encuentra en algún lugar del núcleo de su sistema de creencias, quizá sofocado por un mayor o menor número de prácticas rituales. 
 
 Las religiones occidentales apelan al intelecto y promueven prácticas morales deseables a través de ejemplos recogidos en las Escrituras. Las personas de fuera y los miembros de la Iglesia se quejan a menudo de que, por mucho que lo intenten, no parece que haya nadie escuchando «ahí arriba», ya que las realidades y el estrés de la vida cotidiana son cada vez más complejos y difíciles de gestionar.
 
@@ -60,7 +60,7 @@ La mayoría de las religiones tienen volúmenes de escrituras y colecciones de e
 <figcaption>Foto de Barbara Jackson</figcaption>
 </figure>
 
-La fe ciega puede ser dura para algunos, pero una religión basada en la experiencia personal va mucho más allá. Es algo que sentimos o experimentamos realmente dentro de nosotros. Se basa en sentimientos reales de felicidad, alegría o amor que experimentamos personalmente cuando actuamos o pensamos de una manera particular, o interactuamos con los demás de una manera particular, o, tal vez, interactuamos con el Supremo Universal de una manera particular. Es una relación en la que no hay que creer, simplemente hay que sentirla y experimentarla personalmente. Al Supremo Universal se le conoce por muchos nombres diferentes, ya sea Alá, Yahvé, Todopoderoso, Dios o simplemente Padre, pero cualquier persona reflexiva sabe que son uno y lo mismo, y una religión de experiencia personal permite el acceso directo al vasto almacén de amor que emana de esa Fuente que, de hecho, reside dentro de cada uno de nosotros esperando a ser descubierta, aprovechada y compartida. 
+La fe ciega puede ser dura para algunos, pero una religión basada en la experiencia personal va mucho más allá. Es algo que sentimos o experimentamos realmente dentro de nosotros. Se basa en sentimientos reales de felicidad, alegría o amor que experimentamos personalmente cuando actuamos o pensamos de una manera particular, o interactuamos con los demás de una manera particular, o, tal vez, interactuamos con el Supremo Universal de una manera particular. Es una relación en la que no hay que creer, simplemente hay que sentirla y experimentarla personalmente. Al Supremo Universal se le conoce por muchos nombres diferentes, ya sea Alá, Yahvé, Todopoderoso, Dios o simplemente Padre, pero cualquier persona reflexiva sabe que son uno y lo mismo, y una religión de experiencia personal permite el acceso directo al vasto almacén de amor que emana de esa Fuente que, de hecho, reside dentro de cada uno de nosotros esperando a ser descubierta, aprovechada y compartida. 
 
 La comunicación con el Supremo Universal no se experimenta en la mente, que es el espacio habitual en el que operamos a diario, sino que debe sentirse personalmente dentro del corazón y el alma. Por eso la técnica no es tan fácil de captar al principio. Requiere un poco de práctica y paciencia para lograr la concentración, una sensación de quietud y ecuanimidad interior. En primer lugar, la mente debe aquietarse y calmarse; debe estar presente en tu cuerpo, debe estar en la habitación o en el lugar en el que te encuentras, atenta a tus necesidades y no vagando sin rumbo por el pasado o el futuro, sin pensar en dónde estuviste ni en lo que hiciste ayer, ni planeando lo que está por venir. Tampoco se preocupa por las pruebas y tribulaciones de la vida. Una vez que la mente está en calma y quieta, el corazón y el alma son libres para comunicarse directamente con el Supremo Universal que se encuentra dentro de nosotros y a nuestro alrededor.
 
@@ -121,13 +121,13 @@ Consideremos el extraordinario alcance de la adoración sobre el de la simple or
 
 En la Biblia, la meditación se describe como un enfoque para mantenerse firme y centrado. Por ejemplo, se menciona 23 veces: 
 
-> Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado. – [Isaiah 26:3](/es/Bible/Isaiah/26#v3)
+> Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado. – [Isaiah 26:3](/es/Bible/Isaiah/26#v3)
 
-> Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público. – [Matthew 6:6](/es/Bible/Matthew/6#v6)
+> Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público. – [Matthew 6:6](/es/Bible/Matthew/6#v6)
 
 _Adoración_ se menciona más de 180 veces en la Biblia y se considera también la forma más elevada de devoción; esto es, la entrega de todo el ser, los pensamientos y las emociones para uso de Dios:
 
-> Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro culto racional. – [Romans 12:1](/es/Bible/Romans/12#v1)
+> Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro culto racional. – [Romans 12:1](/es/Bible/Romans/12#v1)
 
 ## La meditación como herramienta espiritual para alcanzar la iluminación 
 
@@ -138,16 +138,16 @@ Los tipos de prácticas de meditación más populares hoy en día se utilizan pa
 <figcaption>Foto de Leninscape</figcaption>
 </figure>
 
-Las técnicas modernas de meditación que se presentan a continuación están ordenadas en una serie progresiva de ejercicios según las prácticas de descanso, relajación, meditación, oración y adoración. 
+Las técnicas modernas de meditación que se presentan a continuación están ordenadas en una serie progresiva de ejercicios según las prácticas de descanso, relajación, meditación, oración y adoración. 
 
-- Meditación de atención plena 
-- Meditación centrada 
-- Meditación con mantras 
-- Meditación-relajación progresiva 
-- Meditación transcendental 
-- Meditación espiritual 
+- Meditación de atención plena 
+- Meditación centrada 
+- Meditación con mantras 
+- Meditación-relajación progresiva 
+- Meditación transcendental 
+- Meditación espiritual 
 - Meditación de la bondad amorosa
-- Adoración pura 
+- Adoración pura 
 
 Para más información sobre las aplicaciones prácticas de la meditación, [hagan clic aquí para ver](/es/article/Robert_Coenraads/Spiritual_Practices_for_walking_the_ROPE) el documento completo. Ahí encontrarán un conjunto muy útil de instrucciones sobre una gran variedad de técnicas de meditación.
 

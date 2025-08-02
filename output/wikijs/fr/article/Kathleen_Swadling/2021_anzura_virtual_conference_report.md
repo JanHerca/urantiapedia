@@ -57,7 +57,7 @@ Nous avons eu quelques interludes musicaux grâce à une performance en direct d
 - **La fontaine de la pensée créative** – Vern Verass
 - **Culte de clôture** – Rita Schaad
 
-Le congrès a été enregistré, et les présentations seront éventuellement téléchargées sur YouTube. (Soyez patients pour cela. Nous vous annoncerons quand elles seront disponibles.) Vous trouverez également quelques-unes des présentations sous forme d’articles dans ce numéro de l’Arena : [Aréna – Hiver 2021 (urantia-association.org)](https://anzura.urantia-association.org/newsletter/arena-winter-2021/)
+Le congrès a été enregistré, et les présentations seront éventuellement téléchargées sur YouTube. (Soyez patients pour cela. Nous vous annoncerons quand elles seront disponibles.) Vous trouverez également quelques-unes des présentations sous forme d’articles dans ce numéro de l’Arena : [Aréna – Hiver 2021 (urantia-association.org)](https://anzura.urantia-association.org/newsletter/arena-winter-2021/)
 
 Merci à tous les travailleurs silencieux qui ont rendu cet événement possible. Nous espérons voir tout le monde en octobre 2022 en Tasmanie pour ce que nous espérons être un congrès en personne.
 

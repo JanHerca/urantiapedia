@@ -285,7 +285,7 @@ En el idioma español, las sesiones duran entre 60 y 90 minutos, y se celebran u
 
 Esta es la presentación prevista para el mes de diciembre:
 
-**Título:** El arte de enseñanza de Jesús: métodos que siguen vigentes
+**Título:** El arte de enseñanza de Jesús: métodos que siguen vigentes
 
 **Presentadora**: Erika Webster
 
@@ -295,9 +295,9 @@ Esta es la presentación prevista para el mes de diciembre:
 
 Erika es lectora de _El libro de Urantia_ desde 2011 y lo considera una fuente constante de inspiración para vivir y servir. Participa activamente en un grupo de estudio en su comunidad y actualmente dirige la rama española de la UBIS, donde disfruta facilitando cursos y promoviendo la difusión de esta revelación. Nacida y criada en México, Erika es ahora ciudadana estadounidense naturalizada. Antes de establecerse en Oklahoma (EE. UU.) vivió en Alemania, lo cual enriquece su perspectiva cultural. Viuda y madre de dos hijos, Erika trabaja como directora de gimnasia artística y disfruta de la fotografía digital como pasatiempo.
 
-En esta presentación, exploraremos cómo Jesús empleó métodos de enseñanza profundamente efectivos, destacando algunas de las técnicas más notables que utilizó, como el uso de preguntas, el aprendizaje por experiencia, la utilización del conocimiento previo, el trabajo en equipo, el ministerio personal y el uso de parábolas. Estos métodos no solo inspiraron a sus contemporáneos sino que también ofrecen ideas útiles para los lectores modernos de _El libro de Urantia_, mostrando cómo podemos incorporar estos enfoques en nuestra vida diaria y en nuestras propias maneras de enseñar y compartir.
+En esta presentación, exploraremos cómo Jesús empleó métodos de enseñanza profundamente efectivos, destacando algunas de las técnicas más notables que utilizó, como el uso de preguntas, el aprendizaje por experiencia, la utilización del conocimiento previo, el trabajo en equipo, el ministerio personal y el uso de parábolas. Estos métodos no solo inspiraron a sus contemporáneos sino que también ofrecen ideas útiles para los lectores modernos de _El libro de Urantia_, mostrando cómo podemos incorporar estos enfoques en nuestra vida diaria y en nuestras propias maneras de enseñar y compartir.
 
-¡Acompáñanos para descubrir juntos la riqueza y profundidad del método de enseñanza de Jesús, basada en ejemplos extraídos de la Parte IV de _El libro de Urantia_!
+¡Acompáñanos para descubrir juntos la riqueza y profundidad del método de enseñanza de Jesús, basada en ejemplos extraídos de la Parte IV de _El libro de Urantia_!
 
 **Enlace a la sala Zoom**:
 

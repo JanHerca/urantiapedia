@@ -60,7 +60,7 @@ Nuevo año, el 2025, que viene con nuevos planes a la vista, propósitos, ilusio
 
 Este momento de cierre, de limpiar nuestras vidas de ciertas telarañas que hemos acumulado con el tiempo y la desgana, nos invita casi de forma inevitable a crear nuevos horizontes en nuestras vidas, pues no nos agrada dejar vacíos, huecos, espacios inconclusos en nuestras vidas. Algo se remueve por dentro nuestro con el término de un año y el tibio comienzo de uno nuevo. Una pregunta se nos muestra en nuestra cabeza: ¿qué nos deparará este 2025?
 
-Quienes leemos y queremos poner en práctica _El libro de Urantia_ sabemos que nada realmente malo nos va a suceder, que todo será para nuestro bien y crecimiento, guiados por una mano amorosa:
+Quienes leemos y queremos poner en práctica _El libro de Urantia_ sabemos que nada realmente malo nos va a suceder, que todo será para nuestro bien y crecimiento, guiados por una mano amorosa:
 
 La paz mental de Jesús estaba fundada en una fe humana absoluta en el cuidado sabio y compasivo del Padre divino. Jesús tuvo dificultades en la tierra, ha sido incluso llamado impropiamente «varón de dolores», pero en todas esas experiencias tuvo el consuelo de una confianza que siempre le dio fuerzas para seguir adelante con el propósito de su vida en la plena seguridad de que estaba cumpliendo la voluntad del Padre. <a id="a64_422"></a>[LU 181:1.8](/es/The_Urantia_Book/181#p1_8)
 <br style="clear:both;"/>
@@ -236,7 +236,7 @@ Se diferenciaron una serie de conceptos relacionados con la verdad: verdad divin
 
 > «No paséis por alto el valor de vuestra herencia espiritual, el río de verdad que fluye a través de los siglos, incluso hasta la época estéril de una era materialista y laica. En todos vuestros esfuerzos meritorios por desembarazaros de los credos supersticiosos de las épocas pasadas, aseguraos de conservar firmemente la verdad eterna. ¡Pero tened paciencia! Cuando la sublevación actual contra la superstición haya terminado, las verdades del evangelio de Jesús sobrevivirán gloriosamente para iluminar un camino nuevo y mejor.» <a id="a234_534"></a>[LU 195:9.1](/es/The_Urantia_Book/195#p9_1)
 
-Este párrafo siempre me ha resultado inspirador desde que lo leí por primera vez hace ya treinta años. Ha estado durante mucho tiempo delante de mí, en una nota pinchada en un panel de corcho, a modo de recordatorio. Y elegí este párrafo como cita introductoria de una novela que tengo escrita. Siempre creí que su autor era Mantutia, el director de la comisión reveladora, quizá porque está situada en un documento de _El libro de Urantia_ en el que se narran cosas acerca del futuro, y estimé que sólo un Melquisedec podía tener una visión tan profunda sobre los tiempos que han de venir.
+Este párrafo siempre me ha resultado inspirador desde que lo leí por primera vez hace ya treinta años. Ha estado durante mucho tiempo delante de mí, en una nota pinchada en un panel de corcho, a modo de recordatorio. Y elegí este párrafo como cita introductoria de una novela que tengo escrita. Siempre creí que su autor era Mantutia, el director de la comisión reveladora, quizá porque está situada en un documento de _El libro de Urantia_ en el que se narran cosas acerca del futuro, y estimé que sólo un Melquisedec podía tener una visión tan profunda sobre los tiempos que han de venir.
 
 Sea como fuera, lo que más me atrae de este párrafo es que resulta sumamente esperanzador, y a la vez lanza una recomendación muy clara sobre cómo hay que considerar al cristianismo actual. Está todo ahí condensado en apenas unas líneas.
 
@@ -291,7 +291,7 @@ Hora: **19:00 horas** (CET, hora peninsular española)
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/UBIS-septiembre-2021.jpg" alt="Cursos UBIS septiembre" width="350">
 </figure>
 
-En enero comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 6 de enero** y finaliza el **domingo 19**. Los cursos comienzan el **lunes 20** con la semana de orientación.
+En enero comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 6 de enero** y finaliza el **domingo 19**. Los cursos comienzan el **lunes 20** con la semana de orientación.
 
 Estos son los cursos que se ofrecerán este trimestre:
 <br style="clear:both;"/>

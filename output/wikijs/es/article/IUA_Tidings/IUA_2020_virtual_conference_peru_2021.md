@@ -58,7 +58,7 @@ Habrá conferenciantes de todas las edades que representarán a la mayoría de c
 
 La música no estará ausente, pues algunos artistas de talento participarán en la conferencia. De hecho, nos gustaría aprovechar esta oportunidad para invitar a todos los cantantes y músicos que estén dispuestos a actuar e inspirarnos con su arte, a que nos envíen un e-mail con una muestra de su trabajo como audición.
 
-Asimismo, hacemos un llamamiento a voluntarios de todas las edades de cualquier parte del mundo que hablen español, inglés, francés o portugués para que se unan a nosotros y formen parte de nuestro equipo de trabajo virtual. 
+Asimismo, hacemos un llamamiento a voluntarios de todas las edades de cualquier parte del mundo que hablen español, inglés, francés o portugués para que se unan a nosotros y formen parte de nuestro equipo de trabajo virtual. 
 
 Este evento será realmente una oportunidad única para reunirnos y unirnos, y qué mejor manera de hacer que suceda cuando ha llegado el momento de dirigirnos «hacia la ciudadanía cósmica»**.**
 

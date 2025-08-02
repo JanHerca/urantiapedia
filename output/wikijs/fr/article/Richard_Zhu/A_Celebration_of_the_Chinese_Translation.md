@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Richard Zhu, traducteur en chef, Royaume-Uni_
 
-_Note de l'éditeur : La mission de la Fondation Urantia est de semer Le Livre d'Urantia et ses enseignements dans le monde entier. Fournir des traductions de haute qualité est une priorité absolue. Le travail pour apporter ce texte aux personnes de langue chinoise à travers le monde débuta en 2001. Nous sommes heureux de pouvoir enfin mettre à disposition cette traduction aux lecteurs du chinois simplifié, qui sont plus d'un milliard dans le monde._
+_Note de l'éditeur : La mission de la Fondation Urantia est de semer Le Livre d'Urantia et ses enseignements dans le monde entier. Fournir des traductions de haute qualité est une priorité absolue. Le travail pour apporter ce texte aux personnes de langue chinoise à travers le monde débuta en 2001. Nous sommes heureux de pouvoir enfin mettre à disposition cette traduction aux lecteurs du chinois simplifié, qui sont plus d'un milliard dans le monde._
 
 _Cette traduction n'aurait pas pu être réalisée sans les efforts continus de Richard Zhu, qui commença son travail en mars 2012. Douze ans plus tard, les trustees applaudissent et rendent hommage aux fruits du travail remarquable de Richard._
 
@@ -60,7 +60,7 @@ Je souhaite également rendre hommage à toutes les personnes qui ont contribué
 
 Maintenant que la première phase du travail de traduction en chinois est terminée, la prochaine étape consiste à recevoir les réactions et les commentaires des lecteurs chinois. Une fois cette étape franchie, une révision plus approfondie sera entreprise. Entre-temps, je poursuivrai mon propre cheminement avec _Le Livre d'Urantia_, en me concentrant sur l'enseignement et le travail de révision à venir dans un futur proche.
 
-Tous les chercheurs de vérité chinois sont les bienvenus pour se joindre à moi dans cette aventure. J'ai hâte de partager, avec vous tous, ma compréhension du _Livre d'Urantia_ — que certains appellent le Livre de Vérité ou la cinquième révélation d'époque !
+Tous les chercheurs de vérité chinois sont les bienvenus pour se joindre à moi dans cette aventure. J'ai hâte de partager, avec vous tous, ma compréhension du _Livre d'Urantia_ — que certains appellent le Livre de Vérité ou la cinquième révélation d'époque !
 
 <br style="clear:both;"/>
 

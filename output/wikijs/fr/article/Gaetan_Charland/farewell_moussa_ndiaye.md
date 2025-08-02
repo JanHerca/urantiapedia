@@ -36,7 +36,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Mousa-300x299.jpg">
 </figure>
 
-Le 29 mars de cette année, Moussa Ndiaye, un lecteur de longue date et un grand enseignant des enseignements du Livre d’Urantia, est décédé. Moussa fut le premier président de l’Association nationale Urantia du Sénégal et, pendant de nombreuses années, il se rendit en Europe, au Canada et aux États-Unis pour assister à des congrès et présenter une série de séminaires basés sur les enseignements du Livre d’Urantia. Son but était d’aider à élever la conscience spirituelle chez les hommes et les femmes de nombreuses confessions, qu’ils soient lecteurs ou non du Livre d’Urantia.
+Le 29 mars de cette année, Moussa Ndiaye, un lecteur de longue date et un grand enseignant des enseignements du Livre d’Urantia, est décédé. Moussa fut le premier président de l’Association nationale Urantia du Sénégal et, pendant de nombreuses années, il se rendit en Europe, au Canada et aux États-Unis pour assister à des congrès et présenter une série de séminaires basés sur les enseignements du Livre d’Urantia. Son but était d’aider à élever la conscience spirituelle chez les hommes et les femmes de nombreuses confessions, qu’ils soient lecteurs ou non du Livre d’Urantia.
 
 J’ai rencontré Moussa pour la première fois en l’an 2000 à New York pendant le congrès international de l’Association Urantia à Staten Island. Dès ma première rencontre avec lui, j’ai été impressionné par cet homme et par ce qu’il avait accompli dans son pays. Il a pu partager les enseignements du Livre d’Urantia à plus de huit cents personnes de foi musulmane à l’aide d’une méthode unique qu’il a conçue, appelée « Sagesse Divine Progressive », qui est basée sur les enseignements du Livre d’Urantia.
 

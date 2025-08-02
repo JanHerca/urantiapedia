@@ -72,7 +72,7 @@ Más tarde, comprendí que lo único perfecto en el universo existe en el Paraí
 
 ## 7. ¿Cuál es la parte que más profundamente te ha impresionado?
 
-La primera parte del libro. Comprender los temas del YO SOY, los Absolutos, la Trinidad del Paraíso, la realidad y la creación, los universos físicos, las energías espirituales, mentales y físicas, la infinidad de órdenes de hijos descendentes, el destino último de los hijos ascendentes. 
+La primera parte del libro. Comprender los temas del YO SOY, los Absolutos, la Trinidad del Paraíso, la realidad y la creación, los universos físicos, las energías espirituales, mentales y físicas, la infinidad de órdenes de hijos descendentes, el destino último de los hijos ascendentes. 
 
 ## 8. ¿Cómo entiendes tú eso de «hacer la voluntad del Padre»?
 
@@ -86,7 +86,7 @@ Yo siempre intento que mi conciencia quede tranquila con mis actos y eso lo iden
 
 Pues sinceramente no lo sé. He tenido momentos, unos en meditación y otros no, en los cuales he sentido una conexión muy profunda con el cosmos, en contacto con sensaciones de grandiosidad, expansión, belleza, energía-luz… en los que parecía que se me quería trasmitir una realidad superior. Eran momentos de gran intensidad, bienestar y alegría. Aun así, no puedo asegurar que estaba en presencia de mi Ajustador, otro tipo de entidad angélica o cualquier otro tipo de energía cósmica.
 
-En cualquier caso, hay muchos momentos cotidianos en los que sí he sentido una especie de guía interna que conducía mis pensamientos y conducta en una dirección determinada. Tampoco estoy seguro de que esto sea la presencia de mi Ajustador. De lo que sí estoy seguro es de mi gran impulso de acercarme y encontrar a Dios y eso según el libro es una de las funciones del Ajustador del Pensamiento. En este sentido, he sido claramente influido por mi Ajustador, aunque yo no haya sido consciente. 
+En cualquier caso, hay muchos momentos cotidianos en los que sí he sentido una especie de guía interna que conducía mis pensamientos y conducta en una dirección determinada. Tampoco estoy seguro de que esto sea la presencia de mi Ajustador. De lo que sí estoy seguro es de mi gran impulso de acercarme y encontrar a Dios y eso según el libro es una de las funciones del Ajustador del Pensamiento. En este sentido, he sido claramente influido por mi Ajustador, aunque yo no haya sido consciente. 
 
 ## 10. ¿Has intentado poner en práctica las enseñanzas del Maestro? ¿Cuál ha sido el resultado?
 

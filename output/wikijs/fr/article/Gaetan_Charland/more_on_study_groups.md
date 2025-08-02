@@ -58,13 +58,13 @@ L’un des plus grands plaisirs que je savoure des groupes d’étude, c’est l
 
 J’arrive à la fin de mon mandat de président du Comité des groupes d’étude de l’Association Urantia internationale. J’aurais juste aimé en avoir fait plus pour les groupes d’étude au cours de ces quatre dernières années, mais je suis confiant et heureux de savoir qu’un serviteur très compétent de la révélation a pris la relève pour me remplacer. Il est originaire de Colombie, où le nombre de groupes d’étude connaît une croissance phénoménale. Il s’appelle Andrès Ramirez, ancien vice-président de l’AUI. Je suis certain qu’Andrès apportera de nouvelles idées et un nouvel enthousiasme pour aider les groupes d’études à se multiplier à travers le monde.
 
-Pour aider Andrès dans son nouveau rôle de président des groupes d’étude, ce serait de :
+Pour aider Andrès dans son nouveau rôle de président des groupes d’étude, ce serait de :
 
 1. Commencer un groupe d’étude ou en faire partie.
-2. Enregistrez votre groupe dans le répertoire des groupes d’étude ou mettez à jour les informations sur votre groupe pour qu’il continue à figurer dans la liste. Voici l’adresse pour le faire : [https://www.urantiastudygroup.org](https://www.urantiastudygroup.org/).
+2. Enregistrez votre groupe dans le répertoire des groupes d’étude ou mettez à jour les informations sur votre groupe pour qu’il continue à figurer dans la liste. Voici l’adresse pour le faire : [https://www.urantiastudygroup.org](https://www.urantiastudygroup.org/).
 3. Rédigez un récit de votre expérience avec un groupe d’étude et envoyez-le à l’éditeur de Tidings afin que les autres puissent s’inspirer de votre récit.
 
-Je vous laisse avec deux de mes dictons africains préférés :
+Je vous laisse avec deux de mes dictons africains préférés :
 
 > «Si tu veux aller vite, marche seul, mais si tu veux aller loin, marchons ensemble.»
 > «La sagesse est comme un baobab. Une personne seule ne peut l’embrasser toute entière.»

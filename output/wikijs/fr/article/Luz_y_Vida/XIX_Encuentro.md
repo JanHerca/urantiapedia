@@ -36,9 +36,9 @@ dateCreated: 2025-1-31T13:52:37Z
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Ciudad-Real.jpg" alt="Ciudad Real">
 </figure>
 
-**Date :** du 7 au 10 septembre 2023
+**Date :** du 7 au 10 septembre 2023
 **Emplacement :** Hôtel Santa Cecilia, C/ Tinte nº 3, Ciudad Real
-**Sujet :** L’engagement d’être croyant. Pratiques de vie à la lumière du Livre d'Urantia
+**Sujet :** L’engagement d’être croyant. Pratiques de vie à la lumière du Livre d'Urantia
 
 La 19e Rencontre des Lecteurs Espagnols a débuté jeudi après-midi 7 septembre à l'Hôtel Santa Cecilia, situé au centre de Ciudad Real. Environ 30 personnes venues de tous les coins du pays y ont assisté : Alicante, Almería, Ávila, Barcelone, Burgos, Cáceres, Madrid, Malaga, Murcie, Navarre, Séville, Tarragone et Valence. Nous avons également eu la présence d'Antonio Schefer, des Pays-Bas, président du Comité du Congrès de l'UAI, qui nous a honoré de sa présence.
 

@@ -49,7 +49,7 @@ En febrero, la asociación aprobó la acreditación de un comité especial de Un
 
 El propósito de la encuesta de la asociación sobre la unidad fue obtener la opinión de nuestros líderes y miembros con el fin de guiar al comité de Unidad de la asociación en las conversaciones con la Fellowship respecto a la unificación de las dos organizaciones. He aquí los resultados de las respuestas a los tres temas principales:
 
-1. Estoy a favor de que la Asociación Utrantia trabaje con la Fellowship para eliminar la competición. 
+1. Estoy a favor de que la Asociación Utrantia trabaje con la Fellowship para eliminar la competición. 
 	- 76,9% están muy de acuerdo
 	- 15,4% están de acuerdo
 	- 1,9% no están ni de acuerdo ni en desacuerdo

@@ -69,9 +69,9 @@ In the meantime some of the horsemen had arrived, and their officers demanded ad
 Thus the two kings with a stately retinue both of dignified councilors and warlike officers entered the hall where the conspirators were impatiently waiting. They were dumbfounded when they saw at the side of their most hated enemy their own sovereign accompanied by the prime minister with downcast eye, meek as a tame doe and giving no sign for action. Then Kanishka addressed the conspirators with great cordiality as though he had long desired to meet them and show them his good will. He praised the generals for their valor, for their love of their country, <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> heir faithfulness to their king, and expressed his great happiness that the old times of national hatred had passed away, that the two nations Magadha and Gandhâra should forthwith be like brothers, and that they would join to set a good example to the world by obeying the maxim of the Tathâgata
 
 “Hate is not overcome by hate:
- By love alone ’tis quelled.
- This is a truth of ancient date,
- To-day still unexcelled."[17](/en/book/Buddhism/Amitabha/Amitabha_16#an_17)
+ By love alone ’tis quelled.
+ This is a truth of ancient date,
+ To-day still unexcelled."[17](/en/book/Buddhism/Amitabha/Amitabha_16#an_17)
 
 Not yet, however, had the ice of spite and ill will entirely melted from the hostile hearts of his enemies; and not yet was his retinue strong enough to make him feel master of the situation. So Kanishka continued his policy of gaining time by having each one of the hostile officers personally introduced to him and, this done, he began to address the company a second time.
 

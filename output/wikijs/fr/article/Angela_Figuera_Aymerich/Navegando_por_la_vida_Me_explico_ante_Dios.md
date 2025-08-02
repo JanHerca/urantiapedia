@@ -70,7 +70,7 @@ du soleil aux prisons sans portes ?
 
 L'Ange s'agenouille devant Marie.
 Mais qui dit à la mère pécheresse
-«  Béni soit le fruit de tes entrailles  » ?
+«  Béni soit le fruit de tes entrailles » ?
 Avec de l'or, de l'encens et de la myrrhe
 les Mages vous enrichissent au berceau.
 Mais qui s'agenouille ?

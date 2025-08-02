@@ -64,7 +64,7 @@ Las guerras internas de la raza ancestral preexistente de mamíferos precursores
 
 La vida eterna no es obligatoria, cada ser humano elige libremente la vida eterna o la no-existencia. El plan divino establece la existencia eterna para todas las hijas e hijos de Dios que la anhelen voluntariamente; jamás se nos obliga en contra de nuestro libre albedrío.
 
-**Pregunta 3:** __¿Dios Padre-Madre crea a Jesús (Miguel de Nebadón) y al Espíritu de la Verdad, formando así la Santísima Trinidad, y luego Jesús y el Espíritu de la Verdad crearon a los seres humanos directamente?  Me cuesta leer y entender__ El libro de Urantia__. Agradecería que me hagas un breve resumen sobre este tema, con tus propias palabras_._
+**Pregunta 3:** __¿Dios Padre-Madre crea a Jesús (Miguel de Nebadón) y al Espíritu de la Verdad, formando así la Santísima Trinidad, y luego Jesús y el Espíritu de la Verdad crearon a los seres humanos directamente? Me cuesta leer y entender__ El libro de Urantia__. Agradecería que me hagas un breve resumen sobre este tema, con tus propias palabras_._
 
 **Respuesta:** El Padre Universal, el Hijo Eterno y Original y el Espíritu Infinito son las tres personalidades divinas que constituyen la Trinidad del Paraíso; ellos residen en el Paraíso, ubicado en el centro de toda la creación.
 

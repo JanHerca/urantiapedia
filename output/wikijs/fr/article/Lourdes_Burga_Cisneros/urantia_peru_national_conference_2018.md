@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Peru-Conference-2018-Group.jpg">
 </figure>
 
-Le deuxième Congrès national d’Urantia du Pérou a eu lieu à Pachacámac du 20 au 21 octobre 2018. Pachacámac est un site rural situé à environ 30 km au sud de Lima, dans un lieu appelé Atinchik (qui signifie en langue quechua « ensemble, nous pouvons le faire.)
+Le deuxième Congrès national d’Urantia du Pérou a eu lieu à Pachacámac du 20 au 21 octobre 2018. Pachacámac est un site rural situé à environ 30 km au sud de Lima, dans un lieu appelé Atinchik (qui signifie en langue quechua « ensemble, nous pouvons le faire.)
 
 Le thème de l’événement était « La pratique de la fraternité… Vérité ou Utopie ? ». Au cours de ce congrès, six conférences plénières et deux ateliers expérientiels ont été donnés par des lecteurs de différentes régions du Pérou et une invitée du Canada.
 
@@ -49,7 +49,7 @@ Depuis lors, nous nous sommes engagés à organiser chaque année un congrès na
 
 Nous avons également un autre objectif ; étant donné que le Pérou sera le futur site du prochain Congrès international de l’Association Urantia en avril 2021, nous espérons acquérir le plus d’expérience possible pour s’assurer que le congrès international soit une expérience de qualité et enrichissante pour tous les participants.
 
-Voici une description des présentations et des ateliers :
+Voici une description des présentations et des ateliers :
 
 ## Présentations plénières
 
@@ -63,7 +63,7 @@ _La fraternité de Jésus_ (Gabriela Condorchúa). Une présentation sur la mani
 
 _La parcelle universelle_ (Mairam Durand). Exposé sur la manière dont une série d’assistants célestes travaillent en équipe, dans notre esprit et dans notre environnement, afin de nous faire prendre conscience de notre plan de vie lié à _l’acceptation de la Paternité de Dieu et à la formation de la Fraternité des hommes._
 
-  _La solidarité des Femmes_ (Line St-Pierre). Un témoignage de vie afin d’inspirer les femmes pour qu’elles développent un plan de services pour d’autres femmes qui, en tant que sœurs, souhaitent servir le Père Universel.
+  _La solidarité des Femmes_ (Line St-Pierre). Un témoignage de vie afin d’inspirer les femmes pour qu’elles développent un plan de services pour d’autres femmes qui, en tant que sœurs, souhaitent servir le Père Universel.
 
 _Chemin de la_ _Souveraineté Divine_ (Alonso Gonzáles). Explication de l’importance de soumettre la souveraineté individuelle et collective du moi — sous ses différentes formes de manifestation — à la souveraineté divine par _notre libre arbitre et en vue de faire la volonté du Père._
 
@@ -75,7 +75,7 @@ _Communication dans la Fraternité_ (Mairam Durand). Une expérience dynamique e
 
 _Être mon propre ennemi_ (Lourdes Burga-Cisneros). Une réflexion individuelle et en groupe, à travers des questions, des cartes mentales et une dynamique de travail d’équipe, sur la manière dont les inconvénients, les obstacles, les problèmes et les contradictions de la fraternité sont en soi et non pas chez les autres.
 
-Merci à tous les bénévoles et participants qui ont fait de ce congrès un événement spécial. Avant 2021, nous aurons acquis une expérience précieuse pour le prochain _congrès international de l’Association internationale_ : _Se diriger vers une Citoyenneté cosmique_ que nous partagerons avec vous à Cusco, au Pérou, du 22 au 25 avril 2021.
+Merci à tous les bénévoles et participants qui ont fait de ce congrès un événement spécial. Avant 2021, nous aurons acquis une expérience précieuse pour le prochain _congrès international de l’Association internationale_ : _Se diriger vers une Citoyenneté cosmique_ que nous partagerons avec vous à Cusco, au Pérou, du 22 au 25 avril 2021.
 
 **Si vous avez toujours voulu aller au Pérou, 2021 est l’année pour le faire !** **C’est un congrès à ne pas manquer !**
 

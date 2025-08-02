@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/190819_153725_101-300x225.jpg">
 </figure>
 
-La vigésima feria del libro tuvo lugar en  Santa Cruz de la Sierra (Bolivia) del 31 de mayo al 11 de junio. La feria tuvo 200 expositores y más de 80 presentaciones de libros. Asistieron más de 50 autores internacionales y unos 100 autores nacionales, con la presencia de la Unión Europea como invitada de honor. Entre todas las exposiciones estuvo presente también el libro más importantes para todos los voluntarios que asistieron a la feria: _El libro de Urantia._
+La vigésima feria del libro tuvo lugar en Santa Cruz de la Sierra (Bolivia) del 31 de mayo al 11 de junio. La feria tuvo 200 expositores y más de 80 presentaciones de libros. Asistieron más de 50 autores internacionales y unos 100 autores nacionales, con la presencia de la Unión Europea como invitada de honor. Entre todas las exposiciones estuvo presente también el libro más importantes para todos los voluntarios que asistieron a la feria: _El libro de Urantia._
 
 Los voluntarios de nuestro stand pasaron doce días explicando la importancia de este libro para la humanidad. Estuvieron presentes también muchos niños, jóvenes estudiantes y adultos. A pesar del normal escepticismo de algunas personas, hubo 273 almas que fueron sensibles a las verdades de este libro y nos dejaron su información de contacto para recibir más información.
 

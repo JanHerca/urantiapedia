@@ -65,7 +65,7 @@ Para que la revelación fuera viable, debía basarse en conceptos formulados por
 
 Aquí es donde nuestro esqueleto de especulación empieza a adquirir un manto de realidad. Tomás de Aquino era un fraile dominico que enseñaba teología y filosofía en la Universidad de París. El que quizá fuera el mayor genio religioso de la época cristiana escribió la _Summa Theologica_ (el compendio del saber teológico) entre 1266 y 1273.
 
-En ella, Aquino plantea 512 cuestiones sobre la naturaleza de la realidad y abarca toda la gama de categorías de interés de la época.  He aquí un esquema básico de su obra:
+En ella, Aquino plantea 512 cuestiones sobre la naturaleza de la realidad y abarca toda la gama de categorías de interés de la época. He aquí un esquema básico de su obra:
 <br style="clear:both;"/>
 
 - Existencia y naturaleza de Dios

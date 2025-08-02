@@ -135,7 +135,7 @@ El precio del ticket turístico oscila entre unos 10 USD$ y 40 USD$. El ticket p
 <img src="/image/article/IUA_Tidings/HOTEL-CASONA-YUCAY-2-300x225.jpg">
 </figure>
 
-Las instalaciones previstas para el alojamiento van de haciendas-hoteles de cinco estrellas a hoteles más pequeños (pero no menos acogedores y hermosos), para adaptarse a distintos presupuestos. Todas las instalaciones hoteleras están cerca las unas de las otras. Los precios del alojamiento incluyen el desayuno y dependerán del hotel en el que cada uno se quiera alojar. A continuación hay una lista de los diferentes hoteles con sus diferentes precios y enlaces, en el caso de que deseen reservar para las fechas mencionadas (llegada: 22 de abril / salida: 25 de abril de 2021)
+Las instalaciones previstas para el alojamiento van de haciendas-hoteles de cinco estrellas a hoteles más pequeños (pero no menos acogedores y hermosos), para adaptarse a distintos presupuestos. Todas las instalaciones hoteleras están cerca las unas de las otras. Los precios del alojamiento incluyen el desayuno y dependerán del hotel en el que cada uno se quiera alojar. A continuación hay una lista de los diferentes hoteles con sus diferentes precios y enlaces, en el caso de que deseen reservar para las fechas mencionadas (llegada: 22 de abril / salida: 25 de abril de 2021)
 
 [**Hotel Tambo del Inca**](https://www.marriott.com/hotels/event-planning/business-meeting/cuztl-tambo-)
 148,50 USD$ por persona en habitación doble (oferta promocional hasta el 31 de enero de 2020)
@@ -143,11 +143,11 @@ RESERVAS: [corporativo@libertador,com.pe](mailto:corporativo@libertador,com.pe) 
 
 [**Hotel Sonesta Yucay**](https://www.sonestapiyucay.com/?partner=4153&amp;utm_source=google&amp;utm_medium=)
 70,00 USD$ por persona en habitación doble (oferta promocional hasta el 31 de enero de 2020)
-RESERVAS:  [sonestayucay@ghlhoteles.com](mailto:sonestayucay@ghlhoteles.com) (código de reserva: CONGRESO URANTIA CODE 088628)
+RESERVAS: [sonestayucay@ghlhoteles.com](mailto:sonestayucay@ghlhoteles.com) (código de reserva: CONGRESO URANTIA CODE 088628)
 
 [**Hotel Casona Yucay**](http://www.hotelcasonayucay.com/)
 42.50 USD$ por persona en habitación doble
-RESERVAS: [reservas@hotelcasonayucay.com](mailto:reservas@hotelcasonayucay.com)  (código de reserva: CONGRESO URANTIA)
+RESERVAS: [reservas@hotelcasonayucay.com](mailto:reservas@hotelcasonayucay.com) (código de reserva: CONGRESO URANTIA)
 
 [**Hostal Yucay Plaza Inn**](https://www.facebook.com/pg/yucayplaza/photos/?ref=page_internal)
 17,50 USD$ por persona en habitación doble

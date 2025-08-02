@@ -77,7 +77,7 @@ Tras leer el índice y decidir leer aquel tocho (recordad que para mí era una m
 
 Ambas premisas permitieron que la lectura fuera continua y sin interrupciones, ya que al asumir que todo era verdad, mientras no encontrara algo que me «chirriara» todo progresaba adecuadamente. Haberlo hecho al revés pienso que me hubiera complicado bastante la lectura y su aceptación. Así pues, fue una aceptación párrafo a párrafo, documento a documento. Nuevos conceptos e ideas iban validando los anteriores.
 
-## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
+## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
 Cuando ante una situación hay que tomar una decisión es porque hay varias alternativas. Cuando decidas una eliminas las consecuencias del resto y tu vida pasa a un nuevo estado, consecuencia de la decisión que has tomado. Cuanto mayor y mejor es la información que posees a la hora de tomar una decisión, mayor probabilidad habrá de que sea la mejor para ese momento.
 
@@ -85,7 +85,7 @@ A lo largo de las lecturas que he hecho en estos años, _El libro de Urantia_ me
 
 La forma en que _El libro de Urantia_ ha cambiado mi vida ha sido hacerme más consciente de ella con un nuevo sentido.
 
-## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
+## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma? 
 
 No, mi fe no ha cambiado. No ha cambiado porque por mi formación católica los pilares de mi fe siguen siendo los mismos. Lo que sí ha hecho ha sido fortalecerla y acrecentarla de una forma muy sólida y certera. Con _El libro de Urantia_ es más fácil tener fe y una mejor fe.
 

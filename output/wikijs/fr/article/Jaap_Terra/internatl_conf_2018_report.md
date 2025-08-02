@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/2018-IC-Group-1-e1527813593282.jpg">
 </figure>
 
-Après trois années de préparation intensive, c’est enfin arrivé !  Le 10e Congrès international de l’Association Urantia Internationale a eu lieu.
+Après trois années de préparation intensive, c’est enfin arrivé !  Le 10e Congrès international de l’Association Urantia Internationale a eu lieu.
 
 C’est à moi de faire rapport sur ce grand congrès. En fait, c’est une tâche impossible de révéler à quel point cela nous a touchés — toutes les personnes merveilleuses qui y ont assisté et qui ont été si profondément émues, inspirées et motivées.
 
@@ -47,7 +47,7 @@ C’est à moi de faire rapport sur ce grand congrès. En fait, c’est une tâc
 <img src="/image/article/IUA_Tidings/2018-IC-Workshop-3-e1528074524266.jpg">
 </figure>
 
-En raison du contenu des présentations, des ateliers et des cessions individuelles, Jésus a certainement laissé sa marque — des graines ont été semées pour une croissance élargie sur Urantia à partir de la « cinquième révélation d’époque » (c.-à-d. les nouvelles révélations contenues dans _Le Livre d’Urantia_.)
+En raison du contenu des présentations, des ateliers et des cessions individuelles, Jésus a certainement laissé sa marque — des graines ont été semées pour une croissance élargie sur Urantia à partir de la « cinquième révélation d’époque » (c.-à-d. les nouvelles révélations contenues dans _Le Livre d’Urantia_.)
 
 Sur la base des nombreuses réactions positives et des commentaires que nous avons reçus, nous pouvons affirmer que ce congrès a été couronné de succès. De nombreux invités ont indiqué qu’ils ont été personnellement et profondément touchés pendant le congrès — et même après plusieurs jours — ils ont ressenti Urantia comme Jésus l’avait souhaité, un « monde de lumière et de vie ».
 
@@ -55,7 +55,7 @@ Sur la base des nombreuses réactions positives et des commentaires que nous avo
 <img src="/image/article/IUA_Tidings/2018-IC-Stage-300x225.jpg">
 </figure>
 
-La qualité et le contenu des présentations, l’organisation efficace du congrès et l’hébergement confortable ont été très appréciés. Ressentir la fraternité comme Dieu l’avait prévu, rencontrer de nouveaux amis, vivre de belles conversations, faire de nombreux contacts internationaux « sans frontières » et profiter du divertissement talentueux nous a laissé de beaux et précieux souvenirs à ramener chez nous.
+La qualité et le contenu des présentations, l’organisation efficace du congrès et l’hébergement confortable ont été très appréciés. Ressentir la fraternité comme Dieu l’avait prévu, rencontrer de nouveaux amis, vivre de belles conversations, faire de nombreux contacts internationaux « sans frontières » et profiter du divertissement talentueux nous a laissé de beaux et précieux souvenirs à ramener chez nous.
 
 Micaël de Nébadon a besoin de gens pour réaliser ses beaux projets d’avenir pour Urantia. Les nombreuses personnes qui ont participé à ce congrès ont réussi à contribuer au succès de cette réunion sur Urantia, malgré tout le travail qui a dû être fait pour y arriver.
 <br style="clear:both;"/>

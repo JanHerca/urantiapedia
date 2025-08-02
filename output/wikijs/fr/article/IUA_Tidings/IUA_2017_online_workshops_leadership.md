@@ -61,7 +61,7 @@ Gaétan est le président du comité des groupes d’étude de l’Association U
 
 Dans sa deuxième session, il a parlé à propos :
 
-« … des qualités et des leçons qui sont données par Jésus pour devenir des enseignants efficaces. Nous partagerons les uns avec les autres comment et pourquoi ces qualités et ces leçons nous inspirent. »
+« … des qualités et des leçons qui sont données par Jésus pour devenir des enseignants efficaces. Nous partagerons les uns avec les autres comment et pourquoi ces qualités et ces leçons nous inspirent. »
 
 Lors de la troisième session, Gaétan a invité les participants à explorer les questions :
 
@@ -85,7 +85,7 @@ Au cours de cette session, les participants se sont présentés et ont partagé 
 
 Rick est vice-président d’UAUS et président du comité d’éducation de son association. Rick a présenté une session sur « l’organisation sociale », au cours de laquelle nous avons appris quelques concepts précieux, comme :
 
-« … une organisation de personnes qui travaillent ensemble dans le même sens dans le même but est beaucoup plus efficace que le même nombre de personnes travaillant dans le même but individuellement et séparément. Il y a une forme différente de mathématiques qui s’applique aux groupes et aux organisations sociales telles que : un plus un, égal trois, deux plus deux, égal huit, etc.
+« … une organisation de personnes qui travaillent ensemble dans le même sens dans le même but est beaucoup plus efficace que le même nombre de personnes travaillant dans le même but individuellement et séparément. Il y a une forme différente de mathématiques qui s’applique aux groupes et aux organisations sociales telles que : un plus un, égal trois, deux plus deux, égal huit, etc.
 
 “Nous le savons tous, mais nous essayons souvent de faire cavalier seul parce qu’il est plus facile de faire quelque chose nous-mêmes que d’essayer de faire en sorte que les autres nous aident. Certaines personnes ne veulent pas aider. Certains disent qu’ils le feront, mais ne le font pas. Certains pensent que votre idée est bonne, mais que leur idée est meilleure. Donc diriger est souvent frustrant, mais d’après ce que dit Le Livre d’Urantia, je soupçonne que nous avons besoin de cette pratique.
 
@@ -97,7 +97,7 @@ Rick est vice-président d’UAUS et président du comité d’éducation de son
 
 Jeff a présenté deux ateliers. Le 11 novembre, il a dirigé une séance sur le thème ‘Leadership et travail d’équipe’ et, le 18 novembre, une autre sur ‘L’enseignement’. L’une de ses remarques les plus inspirantes a été :
 
-‘Que notre don pour le leadership soit grand ou petit, développer ce don fait partie de devenir semblable à Dieu.  Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brûlant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. <a id="a99_365"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)] Devenir comme Dieu dans notre sphère signifie (en plus d’acquérir la maîtrise de soi et la belle plénitude de la justice) devenir un bon leader, même dans une activité banale et temporaire telle que montrer à une autre personne comment faire quelque chose de simple, ou organiser quelques personnes pour préparer un repas. Nous avons tous des opportunités de leadership, que nous y pensions ou non ; et nous faisons bien d’étudier les voies du leadership divin, et ses liens profonds avec le service et le travail d’équipe.’
+‘Que notre don pour le leadership soit grand ou petit, développer ce don fait partie de devenir semblable à Dieu. Les créatures qui connaissent Dieu n’ont qu’une ambition suprême, un seul désir brûlant, c’est d’être semblable dans leur propre sphère à ce qu’il est dans sa perfection paradisiaque de personnalité et dans sa sphère universelle de juste suprématie. <a id="a99_365"></a>[[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)] Devenir comme Dieu dans notre sphère signifie (en plus d’acquérir la maîtrise de soi et la belle plénitude de la justice) devenir un bon leader, même dans une activité banale et temporaire telle que montrer à une autre personne comment faire quelque chose de simple, ou organiser quelques personnes pour préparer un repas. Nous avons tous des opportunités de leadership, que nous y pensions ou non ; et nous faisons bien d’étudier les voies du leadership divin, et ses liens profonds avec le service et le travail d’équipe.’
 
 Si vous souhaitez en savoir plus sur cette belle leçon, rendez-vous sur : [https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork](https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork)
 

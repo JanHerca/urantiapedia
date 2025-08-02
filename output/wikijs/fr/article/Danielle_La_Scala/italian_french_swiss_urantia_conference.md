@@ -82,15 +82,15 @@ Google Maps: [click here](https://goo.gl/maps/RAL2qbhYnGm)
 
 **Tarifs**
 
-L'Hôtel Europa proposera des tarifs spéciaux pour la conférence :
+L'Hôtel Europa proposera des tarifs spéciaux pour la conférence :
 
-40 € par personne et par nuit pour une chambre double en occupation double, petits-déjeuners compris
+40 € par personne et par nuit pour une chambre double en occupation double, petits-déjeuners compris
 
-45 € par personne et par nuit pour une chambre simple ou double en occupation simple, petits-déjeuners compris
+45 € par personne et par nuit pour une chambre simple ou double en occupation simple, petits-déjeuners compris
 
-15 € pour le déjeuner, boissons et café compris
+15 € pour le déjeuner, boissons et café compris
 
-17 € pour le dîner, boissons et café compris
+17 € pour le dîner, boissons et café compris
 
 Veuillez réserver vos chambres directement auprès de l’hôtel.
 

@@ -44,11 +44,11 @@ dateCreated: 2023-9-16T10:55:6Z
 **Del 28 al 31 de marzo de 2024**
 **Maritime Conference Center, Baltimore (Maryland, EE.UU.)**
 
-¡Anoten en sus agendas la próxima conferencia internacional de la Asociación Urantia Internacional en 2024! Será la XII Conferencia Internacional de la Asociación, organizada por la Asociación Urantia de los Estados Unidos (UAUS por sus siglas en inglés) y presentada por la Asociación Urantia de Hawái. 
+¡Anoten en sus agendas la próxima conferencia internacional de la Asociación Urantia Internacional en 2024! Será la XII Conferencia Internacional de la Asociación, organizada por la Asociación Urantia de los Estados Unidos (UAUS por sus siglas en inglés) y presentada por la Asociación Urantia de Hawái. 
 
 Katrina Glavan-Heise, presidenta de la UAUS, hizo el anuncio en la clausura de la XI Conferencia Internacional virtual, una vez el equipo peruano le entregó la antorcha virtual para presentar la próxima conferencia internacional de 2024. El anuncio fue precedido por un encantador vídeo promocional que pueden ver haciendo [clic aquí](https://drive.google.com/file/d/1qz_HTMt41XHPhGjI8C1z_2JcQx9xUPJQ/view).
 
-A continuación vean un poco de la evolución de este evento en palabras de Marian Hughes, una de las organizadoras de la conferencia y miembro de la Asociación Urantia de Hawái (HULA por sus siglas en inglés): 
+A continuación vean un poco de la evolución de este evento en palabras de Marian Hughes, una de las organizadoras de la conferencia y miembro de la Asociación Urantia de Hawái (HULA por sus siglas en inglés): 
 
 La Asociación local Urantia de Hawái había planeado celebrar una conferencia regional del Pacífico en 2018 hasta que el volcán Kilauea decidió entrar en erupción y arruinar los planes y la diversión. Las instalaciones que habíamos reservado estaban en el Parque Nacional de los Volcanes de Hawái, que tuvo que cerrar debido a los daños ocasionados por un terremoto. Sentí de verdad que las decepciones más duras de soportar a veces sí llegan. 
 

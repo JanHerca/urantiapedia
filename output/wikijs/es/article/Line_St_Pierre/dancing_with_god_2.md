@@ -39,11 +39,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Line-St-Pierre-02-150x150.jpg">
 </figure>
 
-Después de más de 15 meses sin poder reunirnos, nos preguntamos si sería posible crear el ambiente adecuado en un retiro virtual. 
+Después de más de 15 meses sin poder reunirnos, nos preguntamos si sería posible crear el ambiente adecuado en un retiro virtual. 
 
 Nosotras cuatro, las Hijas de Dios, teníamos que hacer el experimento primero y evaluar las posibles molestias o dificultades técnicas antes de reunir a un pequeño grupo en «la nube». Con un toque de esta nueva experiencia de retiro en Zoom, y más preparación por nuestra parte, nuestro plan se puso en marcha.
 
-Invitamos a mujeres que ya habían participado en uno de nuestros retiros para tener una mejor idea de cómo podría ser la interacción cuando estamos en Zoom y cuando miramos la pantalla y no sabemos realmente a quién nos dirigimos. Como estas asistentes ya sabían cómo funcionaban los retiros en persona, deberían ser capaces de ajustar su participación a la pequeña pantalla. 
+Invitamos a mujeres que ya habían participado en uno de nuestros retiros para tener una mejor idea de cómo podría ser la interacción cuando estamos en Zoom y cuando miramos la pantalla y no sabemos realmente a quién nos dirigimos. Como estas asistentes ya sabían cómo funcionaban los retiros en persona, deberían ser capaces de ajustar su participación a la pequeña pantalla. 
 
 El día anterior al retiro, al igual que hacemos en nuestros retiros en la Fundación Urantia de Chicago, programamos una reunión de dos horas para romper el hielo. Disfrutamos de un aperitivo en nuestras propias casas e interactuamos con el grupo en línea. Fue maravilloso volver a vernos, incluso a través de la pequeña pantalla, y ponernos al día con las noticias y novedades.
 
@@ -53,7 +53,7 @@ Las once participantes se habían instalado en un lugar tranquilo en la comodida
 
 Así es como los corazones se abrieron y otros corazones recibieron y se llenaron de amor de nuestro Padre Celestial y sus ayudantes espirituales.
 
-El sacerdote católico, escritor y teólogo Henri Nouwen escribió:  
+El sacerdote católico, escritor y teólogo Henri Nouwen escribió:  
 
 > «Escuchar es una forma de hospitalidad espiritual por la que invitas a los desconocidos a convertirse en amigos, a conocer más a fondo su interior e incluso a atreverse a guardar silencio contigo.»
 

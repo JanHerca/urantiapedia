@@ -39,11 +39,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Dutch-Meeting-300x200.jpeg">
 </figure>
 
-El viernes 21 de agosto de 2015, la Asociación Urantia de Holanda (UAISUN) organizó el octavo día anual de Urantia. Después de conmemorar el nacimiento de Jesús de Nazaret, se dedicó el día a estudiar, conocer a nuevos lectores y renovar viejas amistades.
+El viernes 21 de agosto de 2015, la Asociación Urantia de Holanda (UAISUN) organizó el octavo día anual de Urantia. Después de conmemorar el nacimiento de Jesús de Nazaret, se dedicó el día a estudiar, conocer a nuevos lectores y renovar viejas amistades.
 
 Como el año pasado, el Día de Reunión Anual tuvo lugar en Groot Kievitsdal, un centro de conferencias y restaurante hermosamente ubicado en el bosque de Pijnenburg, en Hilversum.
 
-Como es habitual, hubo un buen número de asistentes, 46 lectores de _El libro de Urantia_ procedentes de Holanda y Flandes.
+Como es habitual, hubo un buen número de asistentes, 46 lectores de _El libro de Urantia_ procedentes de Holanda y Flandes.
 
 Tres presentadores trataron sobre los siguientes temas:
 

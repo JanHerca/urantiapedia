@@ -110,10 +110,10 @@ Nous continuons à examiner l'ouvrage secondaire _A Child's Guide to The Urantia
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Toledo.jpg" alt="Toledo" width="350">
 </figure>
 
-**Date :** du 27 au 30 juin 2024
+**Date :** du 27 au 30 juin 2024
 **Emplacement :** Hôtel Zentral Mayoral (Tolède)
 
-**Sujet :** _Le Livre d'Urantia contre le paradigme du futur_
+**Sujet :** _Le Livre d'Urantia contre le paradigme du futur_
 
 La XXe Rencontre des Lecteurs Espagnols a débuté dans l'après-midi du jeudi 27 juin à l'Hôtel Zentral Mayoral, situé tout près du centre historique de la belle ville de Tolède. Environ 30 personnes venues de tous les coins du pays étaient présentes : Ávila, Barcelone, Burgos, Cáceres, Ciudad Real, Madrid, Malaga, Murcie, Navarre, Séville, Tarragone. Nous avons également eu la présence d’Antonio Schefer, des Pays-Bas, président du Comité du Congrès de l’Association Urantia Internationale.
 <br style="clear:both;"/>

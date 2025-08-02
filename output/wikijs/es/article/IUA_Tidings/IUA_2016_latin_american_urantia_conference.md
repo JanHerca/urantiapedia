@@ -49,15 +49,15 @@ El nombre y el tema de la conferencia serán _El maestro y el discípulo_. Este 
 
 _Patrocinada por: Asociación Urantia Internacional, Fundación Urantia y Urantia Book Fellowship_ 
 
-**Becas de liderazgo latinoamericano**
+**Becas de liderazgo latinoamericano**
 
-Para esta conferencia, hemos creado becas de liderazgo latinoamericano gracias a la ayuda de la Fundación Urantia, la Urantia Book Fellowship y la Asociación Urantia Internacional. Esto significa que damos preferencia a los lectores de América Latina que necesiten ayuda económica para representar a su país en esta conferencia internacional, presidentes, vicepresidentes y líderes latinoamericanos actuales o futuros que se llevarán a casa las enseñanzas adquiridas con el fin de multiplicarlas y aplicarlas en su asociación y en su comunidad.
+Para esta conferencia, hemos creado becas de liderazgo latinoamericano gracias a la ayuda de la Fundación Urantia, la Urantia Book Fellowship y la Asociación Urantia Internacional. Esto significa que damos preferencia a los lectores de América Latina que necesiten ayuda económica para representar a su país en esta conferencia internacional, presidentes, vicepresidentes y líderes latinoamericanos actuales o futuros que se llevarán a casa las enseñanzas adquiridas con el fin de multiplicarlas y aplicarlas en su asociación y en su comunidad.
 
 Si podemos traer suficientes líderes latinoamericanos a esta conferencia, organizaremos una reunión especial para ellos al final del evento. Para más información sobre las becas de liderazgo latinoamericano, contacten con [latinamericanconference@urantia-association.org](mailto:latinamericanconference@urantia-association.org)
 
 **INSCRIPCIÓN**
 
-La inscripción debe hacerse no más tarde del 7 de octubre de 2016. El paquete de la conferencia sin alojamiento cuesta 180 $.
+La inscripción debe hacerse no más tarde del 7 de octubre de 2016. El paquete de la conferencia sin alojamiento cuesta 180 $.
 
 [Inscríbanse ahora](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
@@ -65,7 +65,7 @@ Para preguntas relacionadas con la inscripción, manden un correo a [latinameric
 
 **TRASLADOS**
 
-El transporte del [aeropuerto](http://eldorado.aero/en/) al hotel será gratuito para todos los que lo necesiten una vez se inscriban. Los organizadores contactarán con ellos para confirmar su día y hora de llegada. El Lancaster House está en la zona norte de la ciudad y es un hotel de cuatro estrellas. 
+El transporte del [aeropuerto](http://eldorado.aero/en/) al hotel será gratuito para todos los que lo necesiten una vez se inscriban. Los organizadores contactarán con ellos para confirmar su día y hora de llegada. El Lancaster House está en la zona norte de la ciudad y es un hotel de cuatro estrellas. 
 
 Lancaster House<sup><img decoding="async" src="http://www.novotel.com/imagerie/booking/common/star_ratings_4.png" alt=""></sup>
 
@@ -74,7 +74,7 @@ Bogotá – Colombia
 +571 629 1100
 [Web del hotel](http://www.lancasterhouse.com.co/)
 Email [reservas@lancasterhouse.com.co](mailto:%20reservas@lancasterhouse.com.co)
-Google Maps [clic aquí](https://goo.gl/maps/JZKE1V32qe42)
+Google Maps [clic aquí](https://goo.gl/maps/JZKE1V32qe42)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/hotel-1-706x454.jpg">
@@ -132,8 +132,8 @@ Si tienen alguna preferencia en cuanto a compañeros de habitación, háganlo sa
 Estos son los paquetes de conferencia con precios de alojamiento:
 
 1. Habitación Master Suite para 5 personas (una en el sofá cama) 223 $ (precio por persona).
-2. Habitación Master Suite para 4 personas: 234 $ (precio por persona).
-3. Habitación Junior Suite para 3 personas (una en el sofá cama): 229 $ (precio por persona).
+2. Habitación Master Suite para 4 personas: 234 $ (precio por persona).
+3. Habitación Junior Suite para 3 personas (una en el sofá cama): 229 $ (precio por persona).
 4. Habitación Junior Suite para 2 personas: 252 $ (precio por persona).
 5. Habitación Junior Suite para 1 persona: 289 $ (precio por persona).
 
@@ -143,16 +143,16 @@ Estos son los paquetes de conferencia con precios de alojamiento:
 
 **RESERVAS**
 
-1. **Para residentes colombianos:** vayan a [www.urantiabogota.com](http://www.urantiabogota.com/) y sigan las instrucciones que se ofrecen.
-2. **Para visitantes de fuera de Colombia:** las instrucciones son las siguientes: 
+1. **Para residentes colombianos:** vayan a [www.urantiabogota.com](http://www.urantiabogota.com/) y sigan las instrucciones que se ofrecen.
+2. **Para visitantes de fuera de Colombia:** las instrucciones son las siguientes: 
 
-Para adquirir su paquete de conferencia con o sin alojamiento, tienen que usar RegOnline de Lanyon. Ahí pueden pagar con tarjeta de crédito, Paypal y transferencia bancaria.
+Para adquirir su paquete de conferencia con o sin alojamiento, tienen que usar RegOnline de Lanyon. Ahí pueden pagar con tarjeta de crédito, Paypal y transferencia bancaria.
 
 Pueden inscribirse con o sin alojamiento [aquí](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
 https://youtu.be/8JyWjeXjyZo
 
-Hágannos saber si quieren compartir habitación cuando se inscriban. Si no han reservado habitación en el hotel, no podemos garantizar que tengan habitación en el hotel durante el evento. Tenemos un número limitado de Junior Suites para 1 persona, así que inscríbanse tan pronto como puedan si esa es su preferencia.
+Hágannos saber si quieren compartir habitación cuando se inscriban. Si no han reservado habitación en el hotel, no podemos garantizar que tengan habitación en el hotel durante el evento. Tenemos un número limitado de Junior Suites para 1 persona, así que inscríbanse tan pronto como puedan si esa es su preferencia.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/hotelpicturesmixed-Lancaster-Houset-big-706x507.jpg">

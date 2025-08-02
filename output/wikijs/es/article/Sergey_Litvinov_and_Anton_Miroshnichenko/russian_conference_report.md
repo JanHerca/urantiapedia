@@ -59,18 +59,18 @@ Para darles una idea de los temas tratados, a continuación hay una lista de los
 
 **_Presentaciones_**
 
-- _Espiritualidad de lo humano y hermandad espiritual de los hombres,_ de Yury Koposov.
+- _Espiritualidad de lo humano y hermandad espiritual de los hombres,_ de Yury Koposov.
 - _Doy la bienvenida a mis hermanos y hermanas_, de Oleg Andreev.
-- _Acerca de_ El libro de Urantia _y sus enseñanzas,_ de Vitaly Kondratyev, leída por Pavel Beschastniy.
-- _El sentido de la vida está en adaptación,_ de Sergey Litvinov.
-- _Urantia, la leyenda de la sangre azul,_ de Sergey Chupin.
-- _Crecimiento religioso y espiritual en una vida humana,_ de Alexander Suchich.
-- _Ciencia y espiritualidad,_ de Tamila Ragimova.
-- _Problemas en la formación de la experiencia religiosa personal,_ de Vitaly Kondratyev, leída por Ekaterina Aleksandrova.
-- _Apocalipsis,_ por Eija Seppanen-Bolotinski.
-- _La Asociación Urantia Internacional,_ de Anton Miroshnichenko.
-- _Cosmología de_ El libro de Urantia_,_ de Sergey Chupin.
-- _La vida de Jesús como ejemplo para la humanidad,_ de Tamila Ragimova.
+- _Acerca de_ El libro de Urantia _y sus enseñanzas,_ de Vitaly Kondratyev, leída por Pavel Beschastniy.
+- _El sentido de la vida está en adaptación,_ de Sergey Litvinov.
+- _Urantia, la leyenda de la sangre azul,_ de Sergey Chupin.
+- _Crecimiento religioso y espiritual en una vida humana,_ de Alexander Suchich.
+- _Ciencia y espiritualidad,_ de Tamila Ragimova.
+- _Problemas en la formación de la experiencia religiosa personal,_ de Vitaly Kondratyev, leída por Ekaterina Aleksandrova.
+- _Apocalipsis,_ por Eija Seppanen-Bolotinski.
+- _La Asociación Urantia Internacional,_ de Anton Miroshnichenko.
+- _Cosmología de_ El libro de Urantia_,_ de Sergey Chupin.
+- _La vida de Jesús como ejemplo para la humanidad,_ de Tamila Ragimova.
 - Charla sobre los pasos futuros y la organización de la segunda reunión en Rusia, de Sergey Litvinov.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
@@ -83,7 +83,7 @@ Para darles una idea de los temas tratados, a continuación hay una lista de los
 - _El mundo, la sociedad y la civilización_
 - _Salvar el potencial de la vida eterna_
 - _Desarrollo espiritual_
-- _El Paraíso – el núcleo del ultimatón, los problemas de velocidad en_ El libro de Urantia
+- _El Paraíso – el núcleo del ultimatón, los problemas de velocidad en_ El libro de Urantia
 - _Juan Bautista_
 
 Todas las preguntas se dirigían inicialmente a los miembros de una mesa redonda, que expresaban su propio punto de vista, y a continuación seguía una conversación general, durante la cual todos tenían la oportunidad de expresar sus opiniones acerca de los temas tratados.

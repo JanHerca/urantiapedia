@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-> **Note d’Urantiapédia :** Cet article a déjà été publié dans [The Arena magazine – Hiver 2023](/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief) et dans [The Fellowship Herald — Volume 23, Numéro 1, 2023 (été)](/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2).
+> **Note d’Urantiapédia :** Cet article a déjà été publié dans [The Arena magazine – Hiver 2023](/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief) et dans [The Fellowship Herald — Volume 23, Numéro 1, 2023 (été)](/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2).
 >
 > Il n’est pas copié ici pour éviter un excès de répétition. Lisez-le en utilisant les liens.
 {.is-info}

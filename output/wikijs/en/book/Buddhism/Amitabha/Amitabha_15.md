@@ -43,14 +43,14 @@ Princess Kamalavatî arrived, and when her betrothal to Charaka was announced th
 <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 “Sweet in the world is fatherhood,
- And motherhood is sweet;
- But sweeter is the thought of good,
- If nobly our heart beat.
+ And motherhood is sweet;
+ But sweeter is the thought of good,
+ If nobly our heart beat.
 
 “Sweeter, a life to old age spent
- In truth and purity;
- Sweeter, to reach enlightenment
- And keep from evil free."[25](/en/book/Buddhism/Amitabha/Amitabha_16#an_25)
+ In truth and purity;
+ Sweeter, to reach enlightenment
+ And keep from evil free."[25](/en/book/Buddhism/Amitabha/Amitabha_16#an_25)
 
 When the marriage ceremony was over a feast was spread at the royal palace, and King Kanishka declared that he had a great respect for priests, but did not favor the idea that his friend, the physician royal, should resign his calling of wizard (as he was wont to call him) for the sake of becoming a monk. While there were plenty of good and honest men to wear the yellow robe, there was scarcely one man among a million who could perform miracles and save human lives, as Charaka had done.
 
@@ -63,11 +63,11 @@ When his friends praised him, he replied: "My science is a beginning only and wh
 <span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 “Bright shineth the sun in his splendor by day
- And bright the moon's radiance by night,
- Bright shineth the hero in battle array,
- And the sage in his thought shineth bright.
- But by day and by night, none so glorious so bright
- As Lord Buddha, the source of all spiritual light.”
+ And bright the moon's radiance by night,
+ Bright shineth the hero in battle array,
+ And the sage in his thought shineth bright.
+ But by day and by night, none so glorious so bright
+ As Lord Buddha, the source of all spiritual light.”
 
 <figure class="table chapter-navigator">
   <table>

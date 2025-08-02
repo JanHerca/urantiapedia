@@ -8,7 +8,30 @@ editor: markdown
 dateCreated: 2025-2-12T12:7:52Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-shikh"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Shri Gur</text>		<text style="font-size:9px" x="61" y="70">Granth Sahib</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Shri Guru Granth Sahib</span><br></p><br>The Granth is the central text of Sikhism, a religion that emerged in the Punjab region of India in the 15th Century. Sikhism is a unique faith which has aspects of Islam: monotheism and iconoclasm, and Hinduism: reincarnation, karma and nirvana. However Sikhism is distinct from Hinduism and Islam. The Sikh Gurus (teachers), contemporaries of Luther and Calvin, were reformers who rejected the caste system and much of the apparatus of Hindu ritual and legalism. They promoted religious tolerance and the equality of women. The founding Guru, Shri Guru Nanak Dev Ji, (1469-1538), is noted for the saying “There is no Hindu, there is no Muslim.”The Granth, compiled by Guru Gobind Singh, contains compositions of six Gurus, namely Guru Nanak, Guru Angad, Guru Amar Das, Guru Ram Das, Guru Arjan, and Guru Teg Bahadur. The hymns are arranged by the thirty one _ragas_ (musical forms) in which they were composed. The hymns that comprise the Granth were originally written in several different languages: Persian, mediaeval Prakrit, Hindi, Marathi, old Panjabi, Multani, and several local dialects. In addition, there are Sanskrit and Arabic portions. This makes it extrordinarily difficult to translate. The translation presented here is the Khalsa Consensus Translation, which is highly regarded by scholars.The Granth is considered the living embodiment of the Gurus, the “eleventh guru”. Printed copies of the Granth are treated with the greatest respect. This is the reason for the honorific titles that make up the full name of the book. There are protocols to be observed in while reading of the Granth. A Sikh reader suggests the following: “Out of respect, it is advised that before you do read the Sri Guru Granth Sahib, that you cover your hair.” This is normally with a turban or a piece of cloth provided by the gurdwara.
+<div class="urantiapedia-book-front urantiapedia-book-shikh">  
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Shri Gur</text>
+		<text style="font-size:9px" x="61" y="70">Granth Sahib</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Shri Guru Granth Sahib</span><br>
+</p>
+
+<br>
+
+The Granth is the central text of Sikhism, a religion that emerged in the Punjab region of India in the 15th Century. Sikhism is a unique faith which has aspects of Islam: monotheism and iconoclasm, and Hinduism: reincarnation, karma and nirvana. However Sikhism is distinct from Hinduism and Islam. The Sikh Gurus (teachers), contemporaries of Luther and Calvin, were reformers who rejected the caste system and much of the apparatus of Hindu ritual and legalism. They promoted religious tolerance and the equality of women. The founding Guru, Shri Guru Nanak Dev Ji, (1469-1538), is noted for the saying “There is no Hindu, there is no Muslim.”
+
+The Granth, compiled by Guru Gobind Singh, contains compositions of six Gurus, namely Guru Nanak, Guru Angad, Guru Amar Das, Guru Ram Das, Guru Arjan, and Guru Teg Bahadur. The hymns are arranged by the thirty one _ragas_ (musical forms) in which they were composed. The hymns that comprise the Granth were originally written in several different languages: Persian, mediaeval Prakrit, Hindi, Marathi, old Panjabi, Multani, and several local dialects. In addition, there are Sanskrit and Arabic portions. This makes it extrordinarily difficult to translate. The translation presented here is the Khalsa Consensus Translation, which is highly regarded by scholars.
+
+The Granth is considered the living embodiment of the Gurus, the “eleventh guru”. Printed copies of the Granth are treated with the greatest respect. This is the reason for the honorific titles that make up the full name of the book. There are protocols to be observed in while reading of the Granth. A Sikh reader suggests the following: “Out of respect, it is advised that before you do read the Sri Guru Granth Sahib, that you cover your hair.” This is normally with a turban or a piece of cloth provided by the gurdwara.
+
+
 ## Index
 
 - [1. Jup](/en/book/Sikhism/Shri_Guru_Granth_Sahib/1)

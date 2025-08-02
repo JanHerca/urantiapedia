@@ -72,7 +72,7 @@ Téléchargement en masse de fichiers au format Wiki.js | GitHub | Administrateu
 ## Étape III - Traducteur
 
 Cette phase est uniquement destinée au développement. Les contenus suivants ont été intégrés :
-- Une application dans _Urantiapedia Tools_ qui automatise la traduction en plusieurs langues de plusieurs pages à la fois. Cet outil effectue les opérations suivantes :
+- Une application dans _Urantiapedia Tools_ qui automatise la traduction en plusieurs langues de plusieurs pages à la fois. Cet outil effectue les opérations suivantes :
   - Permet de se connecter à des services tels que Google Cloud Translator pour traduire le texte.
   - Maintient l'intégrité du style et du format des pages (Markdown et HTML).
   - Copie les citations du *Livre d'Urantia* et de la *Bible* à partir de l'original ou de la traduction existante et ne les traduit pas, préservant ainsi l'intégrité des textes et réduisant le coût de la traduction.
@@ -139,7 +139,7 @@ Certaines alternatives pourraient être :
 <figcaption><em> Exemple de rendu d'une présentation.</em></figcaption>
 </figure>
 
-Dans le cadre de la _Médiathèque_, des scènes 3D seront également incluses. Heureusement, dans le monde des modèles 3D, il existe un standard ouvert pour créer ces scènes 3D : [glTF](https://www.khronos.org/api/index_2017/gltf) du groupe [Khronos](https://github.com/KhronosGroup/glTF), qui ressemble au format JPG mais issu du monde 3D. La puissance de cette norme peut être constatée sur cet exemple de site Web :
+Dans le cadre de la _Médiathèque_, des scènes 3D seront également incluses. Heureusement, dans le monde des modèles 3D, il existe un standard ouvert pour créer ces scènes 3D : [glTF](https://www.khronos.org/api/index_2017/gltf) du groupe [Khronos](https://github.com/KhronosGroup/glTF), qui ressemble au format JPG mais issu du monde 3D. La puissance de cette norme peut être constatée sur cet exemple de site Web :
 
 https://github.khronos.org/glTF-Sample-Viewer-Release/
 

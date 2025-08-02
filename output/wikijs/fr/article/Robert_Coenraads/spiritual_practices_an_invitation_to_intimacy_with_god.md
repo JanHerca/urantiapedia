@@ -44,11 +44,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Toutes les religions officielles et tous les pèlerins spirituels individuels ont au cœur un désir fondamental de se connecter ou de s’unir avec un plus grand bien. Ce désir se trouve quelque part au cœur de leur système de croyances, peut-être étouffé par un nombre plus ou moins important de pratiques rituelles.
 
-Les religions occidentales font appel à l’intellect et promeuvent des pratiques morales souhaitables par le biais d’exemples donnés dans les écritures. Les personnes de l’extérieur et les membres de l’Église se plaignent souvent que, malgré leurs efforts, il semble que personne ne les écoute « là-haut », alors que les réalités et le stress de la vie quotidienne deviennent de plus en plus complexes et difficiles à gérer.
+Les religions occidentales font appel à l’intellect et promeuvent des pratiques morales souhaitables par le biais d’exemples donnés dans les écritures. Les personnes de l’extérieur et les membres de l’Église se plaignent souvent que, malgré leurs efforts, il semble que personne ne les écoute « là-haut », alors que les réalités et le stress de la vie quotidienne deviennent de plus en plus complexes et difficiles à gérer.
 
 Les traditions orientales enseignent des techniques pratiques pour se libérer l’esprit, être présent et conscient, et simplement écouter. Ces techniques très efficaces ont fait leur chemin en Occident et se sont développées en diverses formes de méditation dont les résultats ont été scientifiquement démontrés.
 
-La philosophie indienne considère que chacun est un « moi » individuel qui fait partie d’un tout plus grand. Elle appelle le Soi « Atman » et le Soi suprême « Param Atman » dont chaque individu fait partie. Ce concept est très proche du Saint-Esprit de la Bible ou de l’Être suprême évolutif du Livre d’Urantia. Suprême ou Universel est un bon nom à utiliser, en particulier parce qu’un tel terme ne s’aligne pas ou ne montre pas de préférence pour la terminologie d’une religion par rapport à une autre, mais incarne le concept que le nom préféré de chaque religion pour sa propre déité implique également l’universalité et la suprématie. Le principe fondamental est que nous faisons tous partie du Suprême, le Suprême réside en nous et nous recherchons tous une union permanente et infinie avec ce Suprême.
+La philosophie indienne considère que chacun est un « moi » individuel qui fait partie d’un tout plus grand. Elle appelle le Soi « Atman » et le Soi suprême « Param Atman » dont chaque individu fait partie. Ce concept est très proche du Saint-Esprit de la Bible ou de l’Être suprême évolutif du Livre d’Urantia. Suprême ou Universel est un bon nom à utiliser, en particulier parce qu’un tel terme ne s’aligne pas ou ne montre pas de préférence pour la terminologie d’une religion par rapport à une autre, mais incarne le concept que le nom préféré de chaque religion pour sa propre déité implique également l’universalité et la suprématie. Le principe fondamental est que nous faisons tous partie du Suprême, le Suprême réside en nous et nous recherchons tous une union permanente et infinie avec ce Suprême.
 <br style="clear:both;"/>
 
 ## Des outils pour profiter d’une religion qui se fonde sur l’expérience personnelle
@@ -121,13 +121,13 @@ Et considérez la portée extraordinaire de l’adoration par rapport à celle d
 
 Dans la Bible, la méditation est décrite comme un moyen de rester stable et centré. Elle est mentionnée 23 fois, par exemple :
 
-> Tu gardes en paix celui dont l’esprit est fixé sur toi, parce qu’il se confie en toi. – [Isaïe 26:3](/fr/Bible/Isaiah/26#v3)
+> Tu gardes en paix celui dont l’esprit est fixé sur toi, parce qu’il se confie en toi. – [Isaïe 26:3](/fr/Bible/Isaiah/26#v3)
 
-> Mais quand tu pries, entres dans ta chambre, fermes ta porte, et pries ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra. – [Matthieu 6:6](/fr/Bible/Matthew/6#v6)
+> Mais quand tu pries, entres dans ta chambre, fermes ta porte, et pries ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra. – [Matthieu 6:6](/fr/Bible/Matthew/6#v6)
 
 L’adoration est mentionnée plus de 180 fois dans la Bible et est également considérée comme la forme la plus élevée de dévotion, c’est-à-dire le don de tout son être, de ses pensées et de ses émotions à l’usage de Dieu :
 
-> Je vous exhorte donc, frères, par la tendresse de Dieu, à lui présenter votre corps – votre personne tout entière –, en sacrifice vivant, saint, capable de plaire à Dieu : c’est là, pour vous, la juste manière de lui rendre un culte. – [Romains 12:1](/fr/Bible/Romans/12#v1)
+> Je vous exhorte donc, frères, par la tendresse de Dieu, à lui présenter votre corps – votre personne tout entière –, en sacrifice vivant, saint, capable de plaire à Dieu : c’est là, pour vous, la juste manière de lui rendre un culte. – [Romains 12:1](/fr/Bible/Romans/12#v1)
 
 ## La méditation, un outil spirituel pour marcher sur la « corde raide »
 
@@ -138,7 +138,7 @@ Les types de pratiques de méditation populaires d’aujourd’hui sont utilisé
 <figcaption>Photo par Leninscape</figcaption>
 </figure>
 
- Les techniques de méditation modernes ci-dessous sont classées en une série progressive d’exercices selon les pratiques du repos, de la relaxation, de la méditation, de la prière et de l’adoration.
+ Les techniques de méditation modernes ci-dessous sont classées en une série progressive d’exercices selon les pratiques du repos, de la relaxation, de la méditation, de la prière et de l’adoration.
 
 - Méditation de pleine conscience
 - Méditation ciblée

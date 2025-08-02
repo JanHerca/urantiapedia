@@ -50,7 +50,7 @@ Cette année, nous avons décidé d’ajouter le code-barres QR sur les déplian
 
 Nous avons découvert de nouveaux lecteurs, dont certains ont promis de se joindre à nos groupes, tandis que d’autres étaient prêts à nous appuyer de différentes manières. Sur le site lors d’une réunion, nous avons présenté l’introduction au Livre à 30 personnes.
 
-Les foires du livre sont des activités magnifiques de service fait avec amour, ainsi qu’un endroit pour apprendre la tempérance du caractère et des significations exaltées. Vingt bénévoles privilégiés ont ressenti _:_ _«_ _Les satisfactions suprêmes du service aimant de l’homme. »_ <a id="a52_283"></a>[[LU 170:4.12](/fr/The_Urantia_Book/170#p4_12)].
+Les foires du livre sont des activités magnifiques de service fait avec amour, ainsi qu’un endroit pour apprendre la tempérance du caractère et des significations exaltées. Vingt bénévoles privilégiés ont ressenti _:_ _«_ _Les satisfactions suprêmes du service aimant de l’homme. »_ <a id="a52_283"></a>[[LU 170:4.12](/fr/The_Urantia_Book/170#p4_12)].
 
 Nous avons ressenti l’expérience de l’amour et du dévouement tout en communiquant la révélation, et nous nous sommes également sentis soutenus et aidés dans toutes les instances humaines et divines. Un merci spécial à l’Association Urantia Internationale et à leurs associés qui ont contribué à ce grand succès.
 

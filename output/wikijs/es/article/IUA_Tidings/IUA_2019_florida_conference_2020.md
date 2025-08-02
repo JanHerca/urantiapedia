@@ -50,7 +50,7 @@ Exploraremos diferentes maneras de servir y ministrar de la gente y haremos énf
 
 El domingo por la mañana habrá una experiencia de inmersión de Paul y Jorgey Krupa, _Vivir las enseñanzas_.
 
-La inscripción cuesta 50 $. Para inscribirse y reservar el alojamiento para el fin de semana en DaySpring, vean la información sobre la inscripción en [http://abc-society.com/](http://abc-society.com/)
+La inscripción cuesta 50 $. Para inscribirse y reservar el alojamiento para el fin de semana en DaySpring, vean la información sobre la inscripción en [http://abc-society.com/](http://abc-society.com/)
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

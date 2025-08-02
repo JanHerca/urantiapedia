@@ -50,9 +50,9 @@ The monks intoned a solemn chant, and its long-drawn cadences filled the hall wi
 The monks chanted a hymn, of which the novice could catch some of the lines as they were sung; and these were the words that rang in his ears:
 
 “In the mountain hall we are taking our seats,
- In solitude calming the mind;
- Still are our souls, and in silence prepared
- By degrees the truth to find.”
+ In solitude calming the mind;
+ Still are our souls, and in silence prepared
+ By degrees the truth to find.”
 
 When they had circumambulated the dagoba, they halted in front of it where the novice now discovered an image of the Buddha in the attitude of teaching, and the monks spoke in chorus:
 
@@ -61,18 +61,18 @@ When they had circumambulated the dagoba, they halted in front of it where the n
 Then the chanting began again:
 
 “Vast as the sea
- Our heart shall be,
- And full of compassion and love.
- Our thoughts shall soar <span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
- Forevermore
- High. like the mountain dove.
+ Our heart shall be,
+ And full of compassion and love.
+ Our thoughts shall soar <span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
+ Forevermore
+ High. like the mountain dove.
 
 “We anxiously yearn
- From the Master to learn,
- Who found the path of salvation.
- We follow His lead
- Who taught us to read
- The problem of origination.[3](/en/book/Buddhism/Amitabha/Amitabha_16#an_3)”
+ From the Master to learn,
+ Who found the path of salvation.
+ We follow His lead
+ Who taught us to read
+ The problem of origination.[3](/en/book/Buddhism/Amitabha/Amitabha_16#an_3)”
 
 A venerable old monk who performed the duties of abbot now stepped forth and asked the assembled brethren whether any one had a communication to make that deserved the attention of the assemblage, and after the question had been repeated three times Subhûti, one of the older monks, said:
 

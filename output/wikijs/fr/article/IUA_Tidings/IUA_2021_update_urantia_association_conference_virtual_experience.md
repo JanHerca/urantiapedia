@@ -89,7 +89,7 @@ Voir à la fin du programme comment consulter les descriptions des ateliers et l
 
 _Par les panélistes : Anibal Pacheco (Chili), Olga Lopez (Espagne), Raul Pujol (Cuba), et Víctor García-Bory (Mexique)_
 
-Un panel interactif discutera d’un voyage de dix ans de défis, de service, de travail d’équipe et d’amitié, ainsi que des résultats obtenus.  
+Un panel interactif discutera d’un voyage de dix ans de défis, de service, de travail d’équipe et d’amitié, ainsi que des résultats obtenus.  
 
 **2.1. Quels sont les principes d’une croissance personnelle holistique pour une citoyenneté cosmique ?**
 _Par Alejandro Ampudia (Lima, Pérou)_

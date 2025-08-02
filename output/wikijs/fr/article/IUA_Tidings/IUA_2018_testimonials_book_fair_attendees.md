@@ -40,7 +40,7 @@ Le nombre de personnes exposées au mot « Urantia », ainsi qu’au Livre et se
 
 La dissémination globale du Livre d’Urantia et de ses enseignements lors des salons du livre change les vies. Elles sont changées lorsque les étudiants apprennent à travailler en équipe et à partager leur inspiration spirituelle avec les autres. Les individus à la recherche de la vérité sont exposés aux vérités satisfaisantes pour l’âme de la cinquième révélation d’époque. Et nos amis invisibles ont de plus en plus de possibilités pour amener les mortels à comprendre le statut de l’humanité en tant qu’enfants bien-aimés de notre Père céleste… nous tous, frères et sœurs.
 
-Voici deux histoires de personnes dont la vie a changé après avoir trouvé _Le Livre d’Urantia_ dans une foire aux livres :
+Voici deux histoires de personnes dont la vie a changé après avoir trouvé _Le Livre d’Urantia_ dans une foire aux livres :
 <br style="clear:both;"/>
 
 ## L’histoire d’Andres Ramirez
@@ -67,11 +67,11 @@ Les vies changent lorsque les étudiants apprennent à travailler ensemble en é
 <img src="/image/article/IUA_Tidings/Esther-thumbnail-150x150.jpg">
 </figure>
 
-C’était un samedi après-midi en avril de 2015 et mon frère m’avait invité à me rendre à la foire aux livres de Bogotá. Nous avons visité plusieurs stands sans beaucoup d’intérêt ni d’enthousiasme et nous étions sur le point de partir à la fin de la journée lorsqu’une image de Jésus attira mon attention. Si bien que j’oserais dire qu’il m’a invitée à m’approcher du stand, où 2 ou 3 personnes ont échangé un sourire avec moi. Lorsque j’ai demandé ce que représentait l’image de l’univers, une discussion de 40 minutes qui s’est ensuivie m’a captivée, et j’ai éprouvé la certitude que j’étais arrivée à un endroit où mes questions seraient finalement résolues. Depuis ce jour et chaque jour, _Le Livre d’Urantia_ est ma lecture principale.
+C’était un samedi après-midi en avril de 2015 et mon frère m’avait invité à me rendre à la foire aux livres de Bogotá. Nous avons visité plusieurs stands sans beaucoup d’intérêt ni d’enthousiasme et nous étions sur le point de partir à la fin de la journée lorsqu’une image de Jésus attira mon attention. Si bien que j’oserais dire qu’il m’a invitée à m’approcher du stand, où 2 ou 3 personnes ont échangé un sourire avec moi. Lorsque j’ai demandé ce que représentait l’image de l’univers, une discussion de 40 minutes qui s’est ensuivie m’a captivée, et j’ai éprouvé la certitude que j’étais arrivée à un endroit où mes questions seraient finalement résolues. Depuis ce jour et chaque jour, _Le Livre d’Urantia_ est ma lecture principale.
 
-Je crois que rien de ce qui nous arrive n’est une coïncidence, et que tout correspond à un plan parfait et les choses arrivent lorsque nous sommes prêts à les recevoir avec gratitude et joie. Le fait d’avoir connu _Le Livre d’Urantia_ a confirmé cette croyance.
+Je crois que rien de ce qui nous arrive n’est une coïncidence, et que tout correspond à un plan parfait et les choses arrivent lorsque nous sommes prêts à les recevoir avec gratitude et joie. Le fait d’avoir connu _Le Livre d’Urantia_ a confirmé cette croyance.
 
-Après cette première introduction à la Foire aux Livres de Bogotá, j’ai rejoint un groupe d’étude ; je me suis intégrée parmi d’autres lecteurs. J’ai lu le Livre 2 fois. Ses enseignements m’ont réellement donné des outils pour comprendre mon but dans la vie, pour comprendre et ressentir l’amour inconditionnel de notre Père et d’aborder l’adversité dans mon existence sur ce monde avec foi, espoir et courage.
+Après cette première introduction à la Foire aux Livres de Bogotá, j’ai rejoint un groupe d’étude ; je me suis intégrée parmi d’autres lecteurs. J’ai lu le Livre 2 fois. Ses enseignements m’ont réellement donné des outils pour comprendre mon but dans la vie, pour comprendre et ressentir l’amour inconditionnel de notre Père et d’aborder l’adversité dans mon existence sur ce monde avec foi, espoir et courage.
 
 Je suis heureuse chaque jour et je veux partager avec de nombreuses personnes ces enseignements, que j’interprète comme vrais à ma façon. C’est pour cette raison que j’ai récemment partagé une discussion avec des lecteurs de Bogotá sur les croyances qui font obstacle au travail de l’Ajusteur dans notre mental.
 

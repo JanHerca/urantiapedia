@@ -33,7 +33,7 @@ The Pali Version of this small collection of stories and sentences has not, I un
 
 I publish this translation, not with any pretensions to proficiency in Pali, but as a tribute of love to the memory of the noble Gotama, who, to use the striking language of Dr. Oldenberg, stands forth as the most prominent of the world's physicians that traversed India in monastic garb,—the Exalted, the Holy, the highly Illuminated One, who came into the world to show to gods and men the way out of this sorrowful prison-house of being, into the freedom of everlasting rest.
 
-D. M. S.    
+D. M. S.    
 
 <figure class="table chapter-navigator">
   <table>

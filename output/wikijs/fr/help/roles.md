@@ -54,7 +54,7 @@ Les *Auteurs* sont des *Rédacteurs en chef* qui, en plus de pouvoir éditer ce 
 
 ## Profil «rédacteur adjoint»
 
-Les *Assistants Editors* utilisent uniquement GitHub pour soumettre des demandes de modification. Ils n'ont pas de compte sur ce site. Pour faciliter votre travail, vous pouvez également envoyer vos modifications par email à urantiapedia@gmail.com, et les *Administrateurs* se chargeront de télécharger ces modifications. Consulter : [Manuel pour les rédacteurs adjoints](/fr/help/github_assistant).
+Les *Assistants Editors* utilisent uniquement GitHub pour soumettre des demandes de modification. Ils n'ont pas de compte sur ce site. Pour faciliter votre travail, vous pouvez également envoyer vos modifications par email à urantiapedia@gmail.com, et les *Administrateurs* se chargeront de télécharger ces modifications. Consulter : [Manuel pour les rédacteurs adjoints](/fr/help/github_assistant).
 
 * Ils n'ont pas de compte sur ce site. Ils ne peuvent utiliser que GitHub ou le courrier électronique pour soumettre des demandes de modification.
 * Ils ont besoin d'une bonne connaissance du *Livre d'Urantia* dans au moins une langue, mais mieux si c'est l'anglais et dans une seconde langue dans laquelle le livre est traduit.
@@ -80,7 +80,7 @@ Bon niveau d'anglais car la documentation et les commentaires de code sont en an
 
 ## Profil «Ambassadeur»
 
-Les _Ambassadeurs_ diffusent le projet *Urantiapedia* et le font connaître auprès des associations et du grand public. Ils recherchent du soutien et des collaborations et font la promotion des différentes utilisations d'Urantiapedia qui peuvent être utiles aux lecteurs du _Le Livre d'Urantia_. Les exigences idéales pour ces utilisateurs sont :
+Les _Ambassadeurs_ diffusent le projet *Urantiapedia* et le font connaître auprès des associations et du grand public. Ils recherchent du soutien et des collaborations et font la promotion des différentes utilisations d'Urantiapedia qui peuvent être utiles aux lecteurs du _Le Livre d'Urantia_. Les exigences idéales pour ces utilisateurs sont :
 
 * Vous n'avez pas besoin d'avoir de compte sur ce site Web ou sur GitHub.
 * Ils doivent avoir une bonne connaissance du _Le Livre d'Urantia_, au moins dans une langue, mais il est préférable que ce soit en anglais et dans une autre langue.
@@ -88,9 +88,9 @@ Les _Ambassadeurs_ diffusent le projet *Urantiapedia* et le font connaître aupr
 * Il est important d'avoir la capacité de communiquer et de s'exprimer en public.
 * Bon niveau d'anglais puisque de nombreuses communications dans le monde se font en anglais.
 
-## Profil « Créateur de vidéo »
+## Profil « Créateur de vidéo »
 
-Les _Créateurs de vidéos_ sont chargés de créer du matériel pour la [chaîne YouTube Urantiapedia](https://bit.ly/3zOuxvB). Cette chaîne met en ligne des vidéos explicatives sur le projet Urantiapedia, comment collaborer et quelles sont les meilleures façons de tirer le meilleur parti du site Web. Les exigences recommandées sont :
+Les _Créateurs de vidéos_ sont chargés de créer du matériel pour la [chaîne YouTube Urantiapedia](https://bit.ly/3zOuxvB). Cette chaîne met en ligne des vidéos explicatives sur le projet Urantiapedia, comment collaborer et quelles sont les meilleures façons de tirer le meilleur parti du site Web. Les exigences recommandées sont :
 
 * Vous n'avez pas besoin d'avoir de compte sur ce site Web ou sur GitHub.
 * Ils ont besoin de leur propre compte YouTube et d'un accès au compte YouTube Urantiapedia.

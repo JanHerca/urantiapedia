@@ -253,7 +253,7 @@ La Asociación Urantia de España ha retomado las «charlas urantianas», sesion
 
 Esta es la charla programada para el mes de diciembre:
 
-**Viernes 15: Trabajo, dinero, riqueza y _El libro de Urantia_** (Inmaculada Gómez)
+**Viernes 15: Trabajo, dinero, riqueza y _El libro de Urantia_** (Inmaculada Gómez)
 Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
 Hora: **19:00 horas** (hora peninsular española)
 <br style="clear:both;"/>

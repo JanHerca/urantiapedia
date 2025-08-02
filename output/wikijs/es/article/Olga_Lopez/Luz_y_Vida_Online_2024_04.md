@@ -59,7 +59,7 @@ Luz y Vida — Mayo 2024
 
 Cuando leemos nuestro querido Libro de Urantia, podemos caer en la tentación de tratar el libro con solemnidad, seriedad y cierta grandilocuencia, dejándonos llevar por el atavismo de manejar libros sagrados y religiones organizadas. Pero, lejos de ello, el libro nos anima a contemplar el mundo con alegría y optimismo, a juzgar a los seres humanos con comprensión y a tomar los acontecimientos con perspectiva cósmica, brindando esperanza a todos los que se han cansado de escuchar que la vida es una porquería y nuestra especie un error de la evolución que debería desaparecer de la faz de la Tierra.
 
-Etty Hillesum no es tan famosa como Anne Frank, quizás porque morir a los veintinueve años parece menos dramático que hacerlo a los quince, pero lo cierto es que las dos ardieron en los crematorios de sendos campos de concentración de la Alemania nazi.  Ambas nos dejaron unos diarios conmovedores que relataban sus penalidades y evidenciaban la resistencia del espíritu humano a hundirse en la desesperación, el odio y el rencor, incluso cuando se afronta la posibilidad de una muerte violenta y temprana. Nos han legado una gran lección de vida y esperanza.
+Etty Hillesum no es tan famosa como Anne Frank, quizás porque morir a los veintinueve años parece menos dramático que hacerlo a los quince, pero lo cierto es que las dos ardieron en los crematorios de sendos campos de concentración de la Alemania nazi. Ambas nos dejaron unos diarios conmovedores que relataban sus penalidades y evidenciaban la resistencia del espíritu humano a hundirse en la desesperación, el odio y el rencor, incluso cuando se afronta la posibilidad de una muerte violenta y temprana. Nos han legado una gran lección de vida y esperanza.
 
 Anne Frank nunca perdió su capacidad de alegrarse con el pequeño campo de visión que podía observar desde su escondrijo:
 <br style="clear:both;"/>
@@ -369,7 +369,7 @@ Esta es la presentación prevista para el mes de mayo:
 **Presenta: Jimmer Prieto**
 Sala Zoom: [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
 
- <br style="clear:both;"/>
+ <br style="clear:both;"/>
 
 
 ## Charla urantiana de mayo

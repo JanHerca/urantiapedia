@@ -51,19 +51,19 @@ Les congrès organisés par l’Association Urantia du Mexique se caractérisent
 
 Le samedi, lors de l’inscription, nous avons tous reçu en cadeau des confiseries décorées des cercles concentriques imprimés en bleu, confectionnées par nos chers amis Dulce Piña et Pedro Cazales.
 
-Alfredo Esquivel a salué les participants, et Hector Palacios agissant comme maître de cérémonie, a prononcé le discours d’ouverture. Trois conférences ont été présentées dans la matinée. La première, par Luisa Gutiérrez, s’intitulant « Qu’est-ce que le ministère », dans laquelle elle a présenté son expérience personnelle sur le partage des enseignements du Livre d’Urantia.
+Alfredo Esquivel a salué les participants, et Hector Palacios agissant comme maître de cérémonie, a prononcé le discours d’ouverture. Trois conférences ont été présentées dans la matinée. La première, par Luisa Gutiérrez, s’intitulant « Qu’est-ce que le ministère », dans laquelle elle a présenté son expérience personnelle sur le partage des enseignements du Livre d’Urantia.
 
-Sergio Monrroy Gutiérrez a exploré le thème « La richesse » en examinant les conseils que Jésus a donnés à un certain homme riche pendant son séjour à Rome. La troisième présentation portait sur « La conscience cosmique et la perception spirituelle », dans laquelle Jeannie Vázquez a examiné les raisons pour lesquelles les révélateurs disent dans l’introduction du Livre d’Urantia qu’ils _« …s’efforcent d’étendre la conscience cosmique et rehausser la perception spirituelle »_ <a id="a55_480"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
+Sergio Monrroy Gutiérrez a exploré le thème « La richesse » en examinant les conseils que Jésus a donnés à un certain homme riche pendant son séjour à Rome. La troisième présentation portait sur « La conscience cosmique et la perception spirituelle », dans laquelle Jeannie Vázquez a examiné les raisons pour lesquelles les révélateurs disent dans l’introduction du Livre d’Urantia qu’ils _« …s’efforcent d’étendre la conscience cosmique et rehausser la perception spirituelle »_ <a id="a55_480"></a>[[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)]
 
-En après-midi, Camilo Vargas nous a parlé de « L’Art de Vivre », dans lequel il a examiné les concepts du philosophe grec Rodan d’Alexandrie tels qu’ils sont présentés dans le fascicule 160 du Livre d’Urantia.
+En après-midi, Camilo Vargas nous a parlé de « L’Art de Vivre », dans lequel il a examiné les concepts du philosophe grec Rodan d’Alexandrie tels qu’ils sont présentés dans le fascicule 160 du Livre d’Urantia.
 
-Pour conclure les conférences du samedi, Rogelio Ortiz a présenté une analyse du « Discours sur Jonas », que notre Maître Jésus a donné au jeune philistin Gadiah, chercheur de vérité, pendant son séjour à Joppé.
+Pour conclure les conférences du samedi, Rogelio Ortiz a présenté une analyse du « Discours sur Jonas », que notre Maître Jésus a donné au jeune philistin Gadiah, chercheur de vérité, pendant son séjour à Joppé.
 
-La première conférence du dimanche fut faite par Ramiro Ramirez, sur « La règle d’or », présentant différentes versions de la règle d’or telle qu’elle était connue dans l’Égypte ancienne, le zoroastrisme, l’hindouisme, le bouddhisme, et telle qu’elle était enseignée par différents enseignants tels que Confucius, Lao-Tsé, Pythagore et Épicure.
+La première conférence du dimanche fut faite par Ramiro Ramirez, sur « La règle d’or », présentant différentes versions de la règle d’or telle qu’elle était connue dans l’Égypte ancienne, le zoroastrisme, l’hindouisme, le bouddhisme, et telle qu’elle était enseignée par différents enseignants tels que Confucius, Lao-Tsé, Pythagore et Épicure.
 
-Jaime Díaz Page a présenté le thème « Réalités de la vraie religion », nous parlant des efforts que le croyant doit faire pour pratiquer la religion de l’esprit selon les enseignements de Jésus et des révélateurs, qui nous ont invités à mener une recherche personnelle de la vérité divine à travers notre foi et notre détermination à explorer les réalités de l’expérience religieuse.
+Jaime Díaz Page a présenté le thème « Réalités de la vraie religion », nous parlant des efforts que le croyant doit faire pour pratiquer la religion de l’esprit selon les enseignements de Jésus et des révélateurs, qui nous ont invités à mener une recherche personnelle de la vérité divine à travers notre foi et notre détermination à explorer les réalités de l’expérience religieuse.
 
-J’ai présenté un atelier intitulé « Le renforcement de la foi », dans lequel mes co équipiers et moi avons analysé comment nous pouvons renforcer notre foi et en faire une foi expérientielle, vivante et croissante.
+J’ai présenté un atelier intitulé « Le renforcement de la foi », dans lequel mes co équipiers et moi avons analysé comment nous pouvons renforcer notre foi et en faire une foi expérientielle, vivante et croissante.
 
 Dans l’après-midi, nous avons célébré l’anniversaire de la naissance de Jésus de Nazareth, en lisant cet hommage de Martín Guzmán:
 

@@ -46,7 +46,7 @@ Bradly Tharp envió los informes financieros del segundo trimestre y participó 
 
 ## Secretaria
 
-Susan Owen llevó a cabo las tareas administrativas regulares, tales como programar las reuniones mensuales, proporcionar las actas, proporcionar consejo y apoyo a la administradora ejecutiva y hacer el seguimiento de los puntos de acción para cada miembro de la JIS. También participa como miembro del equipo ejecutivo y está en los comités de gestión de la web, relaciones públicas y educación.
+Susan Owen llevó a cabo las tareas administrativas regulares, tales como programar las reuniones mensuales, proporcionar las actas, proporcionar consejo y apoyo a la administradora ejecutiva y hacer el seguimiento de los puntos de acción para cada miembro de la JIS. También participa como miembro del equipo ejecutivo y está en los comités de gestión de la web, relaciones públicas y educación.
 
 ## Equipo ejecutivo
 
@@ -56,7 +56,7 @@ Los miembros del equipo ejecutivo son Chris Wood, Andrés Ramírez, Bradly Tharp
 - _Descripción del trabajo del administrador ejecutivo_**:** se hicieron los cambios finales como preparación para su compleción final.
 - _Coordinador de voluntarios:_ se siguió tratando sobre el establecimiento del cargo de coordinador de voluntarios.
 
-## Comité de Recaudación de Fondos – presidente: Chris Wood
+## Comité de Recaudación de Fondos – presidente: Chris Wood
 
 Se recaudaron 87.226.46 $ hasta el 30 de septiembre de 2015 y se terminó de trabajar en la carta de recaudación de fondos para la campaña del cuarto trimestre. Se estableció el objetivo de recaudar 40.000 $ antes de que termine 2015. La Asociación puede cumplir su objetivo a tres años de tener el dinero del presupuesto de 2016 en el banco antes de que acabe el año 2015.
 
@@ -66,7 +66,7 @@ Se confirmaron a dos nuevos miembros y se celebró la primera reunión de este c
 
 ## Comité de Comunicaciones – presidenta: Kathleen Swadling
 
-- _Publicaciones_: se publicaron números regulares del _Journal_ y el _Tidings_ en inglés, francés y español, y se revisó la política de suscripciones al _Journal_. Se completó el Informe Anual 2014.
+- _Publicaciones_: se publicaron números regulares del _Journal_ y el _Tidings_ en inglés, francés y español, y se revisó la política de suscripciones al _Journal_. Se completó el Informe Anual 2014.
 - _Sitio web_: continuó la traducción del sitio web al francés, español, portugués, ruso y ucraniano. Dos lectores se han ofrecido para ayudar con la traducción del sitio web al holandés y al finés. Se ha añadido una nueva página de aterrizaje para los eventos, junto con un calendario de eventos. Se está investigando mejorar la velocidad del sitio web. El comité del sitio web ha comenzado a desarrollar un documento de _Política de Control de Acceso_ para garantizar la seguridad de la web.
 - _Relaciones públicas_: se estableció un subcomité de redes sociales para centrarse en Facebook, Twitter y cualquier otro tipo de red social en el que la asociación esté implicada. Antonio Schefer es el nuevo presidente y hay otros miembros que son lectores con experiencia en redes sociales. Comenzaron las conversaciones para revisar el contenido de la página de inicio del sitio web y el comité ayudó con la recaudación de fondos de otoño.
 

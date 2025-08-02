@@ -47,9 +47,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 L’Association Urantia du Canada et la Fellowship du Livre d’Urantia ont fait équipe pour accueillir ce rassemblement dans la vallée du Fraser à Vancouver. Ils invitent tout le monde à se rassembler pour servir la communauté mondiale en apportant une contribution personnelle à la civilisation d’Urantia.
 
-« Urantia Global Experience »  est une rencontre de penseurs dédiés à servir Dieu le Suprême en explorant des solutions pour l’évolution progressive de la civilisation. Nous croyons que le succès mondial de cette entreprise expérimentale repose sur notre unité spirituelle — notre motif commun d’exprimer la volonté de Dieu dans notre vie quotidienne personnelle ainsi que dans nos institutions sociales.
+« Urantia Global Experience » est une rencontre de penseurs dédiés à servir Dieu le Suprême en explorant des solutions pour l’évolution progressive de la civilisation. Nous croyons que le succès mondial de cette entreprise expérimentale repose sur notre unité spirituelle — notre motif commun d’exprimer la volonté de Dieu dans notre vie quotidienne personnelle ainsi que dans nos institutions sociales.
 
-Le modèle de ce rassemblement sera un peu différent de celui des expériences passées. Plutôt qu’une série de conférences et d’ateliers, tous les participants participeront à des groupes de discussion axés sur une variété de sujets tirés du Livre d’Urantia (voir fascicule 71 :4 Civilisation progressive). De ces discussions, nous espérons dégager des idées, des solutions et des objectifs communs.
+Le modèle de ce rassemblement sera un peu différent de celui des expériences passées. Plutôt qu’une série de conférences et d’ateliers, tous les participants participeront à des groupes de discussion axés sur une variété de sujets tirés du Livre d’Urantia (voir fascicule 71 :4 Civilisation progressive). De ces discussions, nous espérons dégager des idées, des solutions et des objectifs communs.
 <br style="clear:both;"/>
 
 Pour mettre en oeuvre ces grands idéaux, nous avons besoin de votre aide. Nous acceptons actuellement les candidatures pour les animateurs et les présentateurs d’exploration visionnaire, ainsi que pour les bénévoles.

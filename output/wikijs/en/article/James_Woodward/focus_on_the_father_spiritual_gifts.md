@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
       <tr>
         <td>
         <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Latin American Conference Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Latin American Conference Report</span>
         </a>
         </td>
         <td>
@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-> “True faith is faith only if the actions of your life are in harmony with it and never contradict it.”  — Leo Tolstoy
+> “True faith is faith only if the actions of your life are in harmony with it and never contradict it.” — Leo Tolstoy
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/James-Woodward-headshot-150x150.jpeg">
@@ -95,7 +95,7 @@ These gifts of Supreme, Ultimate, and Absolute love are showered upon all the pe
       <tr>
         <td>
         <a href="/en/article/Fernando_Maldonado/third_urantia_latin_american_conference">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Latin American Conference Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Latin American Conference Report</span>
         </a>
         </td>
         <td>

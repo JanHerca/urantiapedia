@@ -46,19 +46,19 @@ _Par Judy Van Cleave, secrétaire, Fondation Urantia, Idaho, États-Unis_
 
 ## Livres
 
-Dans l'ensemble, les activités de la Fondation Urantia dans le domaine des livres ont montré une croissance dans plusieurs domaines malgré quelques fluctuations. La distribution totale de livres au deuxième trimestre a augmenté de 11 % par rapport au deuxième trimestre 2023, et la distribution de livres a augmenté de 12 % depuis le début de l'année.
+Dans l'ensemble, les activités de la Fondation Urantia dans le domaine des livres ont montré une croissance dans plusieurs domaines malgré quelques fluctuations. La distribution totale de livres au deuxième trimestre a augmenté de 11 % par rapport au deuxième trimestre 2023, et la distribution de livres a augmenté de 12 % depuis le début de l'année.
 
-Les ventes en anglais se portent exceptionnellement bien, avec une augmentation significative de 26 % au deuxième trimestre et une augmentation de 4 % depuis le début de l'année. Les ventes en français rebondissent également maintenant que les stocks ont été reconstitués, avec une augmentation des ventes de 142 % au deuxième trimestre et de 35 % depuis le début de l'année.
+Les ventes en anglais se portent exceptionnellement bien, avec une augmentation significative de 26 % au deuxième trimestre et une augmentation de 4 % depuis le début de l'année. Les ventes en français rebondissent également maintenant que les stocks ont été reconstitués, avec une augmentation des ventes de 142 % au deuxième trimestre et de 35 % depuis le début de l'année.
 
-Bien que certaines régions comme le Portugal et l'Espagne aient connu des difficultés au deuxième trimestre, le marché portugais affiche toujours une forte croissance depuis le début de l'année (24 %). Des efforts seront déployés au cours du prochain trimestre afin d'identifier les possibilités de croissance sur le site dans les régions où ces titres sont vendus.
+Bien que certaines régions comme le Portugal et l'Espagne aient connu des difficultés au deuxième trimestre, le marché portugais affiche toujours une forte croissance depuis le début de l'année (24 %). Des efforts seront déployés au cours du prochain trimestre afin d'identifier les possibilités de croissance sur le site dans les régions où ces titres sont vendus.
 
 Le bon démarrage des ventes de livres pour le premier semestre 2024 est très encourageant. Dans l'ensemble, 41 054 Livres d'Urantia — physiques et électroniques — ont été envoyés dans le monde, et l'équipe continuera son travail pour augmenter la distribution au cours du prochain trimestre.
 
 ## Éducation
 
-Les participants du symposium de juin, « L'aventure du mariage et de la famille ! Un symposium en ligne, » ont partagé leurs réflexions sur leur participation au projet. Tamara Strumfeld fit la prière d'ouverture chaque matin et participa en tant que panéliste. Gard Jameson, Olga López et Chris Wood furent tous présentateurs, certains aussi en tant que panélistes. Bien qu’ayant espéré une plus grande participation, le séminaire fut à la fois significatif et opportun. Les sessions furent enregistrées et sont maintenant disponibles sur YouTube. [Cliquez ici.](https://bit.ly/4kciH0m)
+Les participants du symposium de juin, « L'aventure du mariage et de la famille ! Un symposium en ligne, » ont partagé leurs réflexions sur leur participation au projet. Tamara Strumfeld fit la prière d'ouverture chaque matin et participa en tant que panéliste. Gard Jameson, Olga López et Chris Wood furent tous présentateurs, certains aussi en tant que panélistes. Bien qu’ayant espéré une plus grande participation, le séminaire fut à la fois significatif et opportun. Les sessions furent enregistrées et sont maintenant disponibles sur YouTube. [Cliquez ici.](https://bit.ly/4kciH0m)
 
-Olga López donna un résumé verbal du rapport écrit de l'École Internationale du Livre d'Urantia (UBIS). En avril, 225 étudiants se sont inscrits dans 18 classes, qui ont été animées par 24 bénévoles de 6 branches linguistiques. Les taux d’achèvement étaient représentatifs, avec 68 % obtenant un certificat d'achèvement. L'année académique 2023-2024 s'est achevée par une réunion globale le 22 juin.
+Olga López donna un résumé verbal du rapport écrit de l'École Internationale du Livre d'Urantia (UBIS). En avril, 225 étudiants se sont inscrits dans 18 classes, qui ont été animées par 24 bénévoles de 6 branches linguistiques. Les taux d’achèvement étaient représentatifs, avec 68 % obtenant un certificat d'achèvement. L'année académique 2023-2024 s'est achevée par une réunion globale le 22 juin.
 
 Olga a récemment été nommée responsable de la branche anglaise, cédant la gestion de la branche espagnole à Erika Webster après de nombreuses années de service. Son objectif est de consolider le groupe anglais et de travailler avec Joanne Strobel afin d'acquérir une compréhension globale du programme UBIS. Olga a noté que le programme s’était avéré être un incubateur pour le développement du leadership. UBIS dispose désormais d'une liste impressionnante de 73 enseignants-animateurs formés dans le monde entier.
 
@@ -66,12 +66,12 @@ Tamara Strumfeld fit un rapport sur les activités du Répertoire des Groupes d'
 
 ## Collecte de fonds et Finances
 
-- Les dons non restreints du deuxième trimestre ont été de 22 % supérieurs à ceux du deuxième trimestre de 2023 et de 26 % supérieurs au budget du deuxième trimestre.
-- Les dons restreints ont été inférieurs de 3 % à ceux du deuxième trimestre 2023 et supérieurs de 1 % au budget du deuxième trimestre.
+- Les dons non restreints du deuxième trimestre ont été de 22 % supérieurs à ceux du deuxième trimestre de 2023 et de 26 % supérieurs au budget du deuxième trimestre.
+- Les dons restreints ont été inférieurs de 3 % à ceux du deuxième trimestre 2023 et supérieurs de 1 % au budget du deuxième trimestre.
 - Les dons de succession du deuxième trimestre ont totalisé 208 188 dollars.
-- Le revenu total a augmenté de 3 % par rapport au deuxième trimestre 2023 et de 9 % par rapport au budget
-- Les dépenses administratives ont augmenté de 17 % par rapport au deuxième trimestre de l'année dernière, mais sont inférieures de 2 % au budget prévu.
-- Les dépenses totales ont diminué de 1 % par rapport au deuxième trimestre 2023 et sont inférieures de 18 % au budget.
+- Le revenu total a augmenté de 3 % par rapport au deuxième trimestre 2023 et de 9 % par rapport au budget
+- Les dépenses administratives ont augmenté de 17 % par rapport au deuxième trimestre de l'année dernière, mais sont inférieures de 2 % au budget prévu.
+- Les dépenses totales ont diminué de 1 % par rapport au deuxième trimestre 2023 et sont inférieures de 18 % au budget.
 
 ## Le Programme de la Graine de Moutarde (MSGP)
 
@@ -91,7 +91,7 @@ Le Conseil Élargi de la Fondation Urantia inclura une session de planification 
 
 Georges Michelson-Dupont a présenté au conseil d'administration son 103e rapport de traduction . Il a signalé la fin proche de la traduction du farsi, la révision du portugais qui fait l'objet d'un examen et de l'état d'avancement des traductions de l'espéranto et du philippin.
 
-Le conseil fut informé de l'état d'avancement du projet d’étude sur la traduction et la révision espagnoles par Ipsos Ciesmori, une société de recherche bolivienne. L'équipe a mené un plan en trois parties : interviewer des groupes de discussion, recueillir des commentaires et collecter des informations par une enquête auprès des lecteurs espagnols. Le projet est en voie d'achèvement et nous attendons un rapport final de la société dans les mois à venir.
+Le conseil fut informé de l'état d'avancement du projet d’étude sur la traduction et la révision espagnoles par Ipsos Ciesmori, une société de recherche bolivienne. L'équipe a mené un plan en trois parties : interviewer des groupes de discussion, recueillir des commentaires et collecter des informations par une enquête auprès des lecteurs espagnols. Le projet est en voie d'achèvement et nous attendons un rapport final de la société dans les mois à venir.
 
 ## Site web
 

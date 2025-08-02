@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Belgium-Meeting-e1648009513129.jpg">
 </figure>
 
-Ce 27 septembre, un peu plus d’un mois après le 21 août, COVID oblige, nous nous sommes réunis en petit groupe pour fêter l’anniversaire de Jésus. La situation sanitaire ne permettant pas la rencontre de grands groupes, nous en avons profité pour resserrer des liens plus fraternels. La rencontre a commencé par un repas convivial où nous avons partagé les plats que chacun avait apportés.
+Ce 27 septembre, un peu plus d’un mois après le 21 août, COVID oblige, nous nous sommes réunis en petit groupe pour fêter l’anniversaire de Jésus. La situation sanitaire ne permettant pas la rencontre de grands groupes, nous en avons profité pour resserrer des liens plus fraternels. La rencontre a commencé par un repas convivial où nous avons partagé les plats que chacun avait apportés.
 
 Ce fut aussi l’occasion de voir la nouvelle génération grandir et s’accroître. La jeune Marion, 12 ans a participé quasi chaque année au groupe de l’association belge et les deux petites, Solène et Nola grandissent chez des parents, fervents lecteurs du Livre d’Urantia.
 
@@ -51,7 +51,7 @@ Ensuite nous avons fait une photo dans le nouveau jardin intérieur de Jean et I
 
 L’Association belge Francophone d’Urantia (ABFU) existe depuis 2004 où Gaétan Charland et Gary Rawlings sont venus en Belgique pour officialiser l’existence de l’association auprès de l’AUI.
 
-En près de 15 ans, elle a développé plusieurs groupes de lecture, donné de nombreuses conférences autour du Livre d’Urantia, participé à des salons du livre, organisé des journées d’étude sur des thèmes du livre et proposé quasi chaque année des rencontres festives autour du 21 août pour la fête de Jésus.
+En près de 15 ans, elle a développé plusieurs groupes de lecture, donné de nombreuses conférences autour du Livre d’Urantia, participé à des salons du livre, organisé des journées d’étude sur des thèmes du livre et proposé quasi chaque année des rencontres festives autour du 21 août pour la fête de Jésus.
 
 Elle compte actuellement une trentaine de membres, même si certains ne sont plus très actifs. Et on peut estimer à une centaine de personnes ceux et celles qui ont participé à l’une ou l’autre des activités proposées.
 

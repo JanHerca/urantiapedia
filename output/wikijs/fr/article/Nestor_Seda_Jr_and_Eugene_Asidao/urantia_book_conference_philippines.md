@@ -49,7 +49,7 @@ Le premier congrès d’étude nationale du Livre d’Urantia pour les Philippin
 - Les preuves scientifiques et _Le Livre d’Urantia_
 - Qui est Jésus et quels sont ses enseignements ?
 
-Les 33 participants en plus des lecteurs étaient des amis, des parents et des jeunes. Notre groupe d’étude ne se concentre pas seulement sur les lecteurs adultes ; nous impliquons aussi les jeunes dans nos événements et activités. Ils apprécient et y prennent plaisir. 
+Les 33 participants en plus des lecteurs étaient des amis, des parents et des jeunes. Notre groupe d’étude ne se concentre pas seulement sur les lecteurs adultes ; nous impliquons aussi les jeunes dans nos événements et activités. Ils apprécient et y prennent plaisir. 
 
 **Voici quelques commentaires des participants :**
 
@@ -61,7 +61,7 @@ Les 33 participants en plus des lecteurs étaient des amis, des parents et des j
 
 ### Une brève histoire des activités d’Urantia aux Philippines
 
-Un groupe de Philippins vivant dans la région de Chicago a créé un groupe d’étude du Livre d’Urantia dès 2013. Vers 2015, Eugene et Belen Asidao et Nestor Nano ont demandé à la Fondation Urantia s’ils voulaient faire don de livres aux Philippines pour un programme de placement en bibliothèque. La Fondation a accepté et l’Association Urantia Internationale a fourni les fonds pour l’envoi des livres. Des lecteurs enthousiastes se sont organisés pour entreprendre la gigantesque tâche de visiter des bibliothèques dans toutes les provinces des nombreuses villes. Ils ont placé des livres dans les bibliothèques publiques et privées, dans les universités et les collèges, et ont donné le livre à une variété de personnes sélectionnées. En conséquence, de nombreux contacts ont été faits avec des personnes intéressées par _Le Livre d’Urantia_. 
+Un groupe de Philippins vivant dans la région de Chicago a créé un groupe d’étude du Livre d’Urantia dès 2013. Vers 2015, Eugene et Belen Asidao et Nestor Nano ont demandé à la Fondation Urantia s’ils voulaient faire don de livres aux Philippines pour un programme de placement en bibliothèque. La Fondation a accepté et l’Association Urantia Internationale a fourni les fonds pour l’envoi des livres. Des lecteurs enthousiastes se sont organisés pour entreprendre la gigantesque tâche de visiter des bibliothèques dans toutes les provinces des nombreuses villes. Ils ont placé des livres dans les bibliothèques publiques et privées, dans les universités et les collèges, et ont donné le livre à une variété de personnes sélectionnées. En conséquence, de nombreux contacts ont été faits avec des personnes intéressées par _Le Livre d’Urantia_. 
 
 Un groupe d’étude régulier à Manille a commencé en 2016 et se poursuivi depuis lors. Parfois, les lecteurs font un ministère d’étude de proximité dans différentes villes, ce qui a encouragé plus de lecteurs à devenir membres du groupe. Le groupe organise également la célébration annuelle de l’anniversaire de Christ Micaël le 21 août, et est actuellement en train de créer des groupes d’étude dans d’autres localités.
 

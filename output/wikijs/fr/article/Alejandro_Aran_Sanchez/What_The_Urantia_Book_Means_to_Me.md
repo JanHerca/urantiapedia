@@ -52,7 +52,7 @@ J'ai maintenant une vision claire de Dieu, de l'univers et de ma vie. Chaque jou
 
 <br style="clear:both;"/>
 
-Ce livre a ajouté de la valeur et du sens à ma vie dans la mesure où je m'efforce de vivre selon ses enseignements. Le résultat — la vraie religion — est vécu comme une impulsion au service. Un Melchizédek de Nébadon nous dit :
+Ce livre a ajouté de la valeur et du sens à ma vie dans la mesure où je m'efforce de vivre selon ses enseignements. Le résultat — la vraie religion — est vécu comme une impulsion au service. Un Melchizédek de Nébadon nous dit :
 
 > Lorsqu'un être humain trouve Dieu, il éprouve dans son âme une telle agitation indescriptible de triomphe dans la découverte qu'il est poussé à rechercher un contact de service aimant avec ses semblables moins illuminés, non pas pour révéler qu'il a trouvé Dieu, mais plutôt pour permettre au débordement de la bonté éternelle qui se trouve dans sa propre âme de rafraîchir et d'ennoblir ses semblables. [LU 102:3.4](/fr/The_Urantia_Book/102#p3_4)
 

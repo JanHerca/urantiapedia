@@ -126,7 +126,7 @@ Frankl, à son tour, aurait été d’accord avec les déclarations que nous lis
 
 > Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. Toute vie d’une créature évolutionnaire est assaillie par certaines *inévitabilités,* dont voici des exemples : (<a id="a126_262"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5))
 
-Tenez compte des éléments suivants :
+Tenez compte des éléments suivants :
 
 1. Le courage, c’est-à-dire la force de caractère, est-il souhaitable ? L’homme doit donc être élevé dans un environnement où il est nécessaire de faire face aux difficultés et de réagir aux déceptions.
 

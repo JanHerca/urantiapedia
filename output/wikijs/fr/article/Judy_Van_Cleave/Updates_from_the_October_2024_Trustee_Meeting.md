@@ -44,7 +44,7 @@ _Par Judy Van Cleave, secrétaire, Fondation Urantia, Idaho, États-Unis_
 
 ## Aperçu des opérations
 
-Le Conseil d'administration élargi s'est réuni à la Fondation Urantia pour la dernière réunion trimestrielle de 2024. Quel plaisir ce fut d'accueillir les quatre nouveaux associés pour leur première réunion du conseil : Joyce Anderson de New York, États-Unis ; Collins Lomo d'Accra, Ghana ; Tom Sadler de l'Illinois, États-Unis ; et Richard Zhu de Londres, Royaume-Uni.
+Le Conseil d'administration élargi s'est réuni à la Fondation Urantia pour la dernière réunion trimestrielle de 2024. Quel plaisir ce fut d'accueillir les quatre nouveaux associés pour leur première réunion du conseil : Joyce Anderson de New York, États-Unis ; Collins Lomo d'Accra, Ghana ; Tom Sadler de l'Illinois, États-Unis ; et Richard Zhu de Londres, Royaume-Uni.
 
 ## Planification quinquennale
 
@@ -52,7 +52,7 @@ Le conseil d’administration élargi a passé une journée entière à planifie
 
 ## Livres
 
-Les ventes de livres de la Fondation Urantia ont connu une forte croissance au cours du troisième trimestre et depuis le début de l'année. La distribution totale de livres au troisième trimestre a augmenté de 27 % par rapport au deuxième trimestre 2023, et la distribution de livres depuis le début de l'année a augmenté de 15 %. Les ventes en anglais ont enregistré des résultats exceptionnels, avec une augmentation significative de 28 % au troisième trimestre et de 16 % depuis le début de l'année. Les ventes en français, en hongrois et en espagnol ont également augmenté de manière significative.
+Les ventes de livres de la Fondation Urantia ont connu une forte croissance au cours du troisième trimestre et depuis le début de l'année. La distribution totale de livres au troisième trimestre a augmenté de 27 % par rapport au deuxième trimestre 2023, et la distribution de livres depuis le début de l'année a augmenté de 15 %. Les ventes en anglais ont enregistré des résultats exceptionnels, avec une augmentation significative de 28 % au troisième trimestre et de 16 % depuis le début de l'année. Les ventes en français, en hongrois et en espagnol ont également augmenté de manière significative.
 
 Au total, 58 907 Livres d'Urantia (téléchargements inclus) ont été envoyés dans le monde cette année, et l'équipe continuera son travail pour augmenter la distribution au cours du prochain trimestre.
 
@@ -76,12 +76,12 @@ Tamara Strumfeld a fait un rapport sur les activités du Répertoire des Groupes
 
 ## Collecte de fonds et finances
 
-- Les dons non restreints du troisième trimestre étaient inférieurs de 18 % à ceux du troisième trimestre 2023 et de 19 % au budget du troisième trimestre.
-- Les dons restreints furent inférieurs de 95 % à ceux du troisième trimestre 2023 et supérieurs de 60 % au budget du troisième trimestre.
+- Les dons non restreints du troisième trimestre étaient inférieurs de 18 % à ceux du troisième trimestre 2023 et de 19 % au budget du troisième trimestre.
+- Les dons restreints furent inférieurs de 95 % à ceux du troisième trimestre 2023 et supérieurs de 60 % au budget du troisième trimestre.
 - Les dons de succession Q3 s'élèvent à 3 000 dollars.
-- Le revenu total a diminué de 37 % par rapport au troisième trimestre 2023 et a été inférieur de 14 % au budget.
-- Les dépenses administratives ont augmenté de 19 % par rapport au troisième trimestre de l'année dernière, mais sont inférieures de 3 % au budget.
-- Les dépenses totales ont augmenté de 4 % par rapport au troisième trimestre 2023 et ont été inférieures de 13 % au budget.
+- Le revenu total a diminué de 37 % par rapport au troisième trimestre 2023 et a été inférieur de 14 % au budget.
+- Les dépenses administratives ont augmenté de 19 % par rapport au troisième trimestre de l'année dernière, mais sont inférieures de 3 % au budget.
+- Les dépenses totales ont augmenté de 4 % par rapport au troisième trimestre 2023 et ont été inférieures de 13 % au budget.
 
 ## Budget 2025
 
@@ -161,7 +161,7 @@ Georges Michelson-Dupont présenta son 104e rapport de traduction. Il évoqua l�
 
 ## Site web
 
-Tamara Strumfeld a indiqué que la plus grande nouvelle du troisième trimestre fut le lancement réussi du nouveau site web de la Fondation au début du mois de juillet. Avec les nouveaux sites, les statistiques chutent toujours en raison des changements de contenu et d'URL. Il faut du temps au robot Google pour réindexer tout le contenu. On estime que le « spidering » référencement auprès des moteurs de recherche) du nouveau site peut prendre de 6 à 8 mois. Pendant ce temps, les améliorations se poursuivent.
+Tamara Strumfeld a indiqué que la plus grande nouvelle du troisième trimestre fut le lancement réussi du nouveau site web de la Fondation au début du mois de juillet. Avec les nouveaux sites, les statistiques chutent toujours en raison des changements de contenu et d'URL. Il faut du temps au robot Google pour réindexer tout le contenu. On estime que le « spidering » référencement auprès des moteurs de recherche) du nouveau site peut prendre de 6 à 8 mois. Pendant ce temps, les améliorations se poursuivent.
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
 <img src="/image/article/UF_News_Online/2024_12/020.jpg">

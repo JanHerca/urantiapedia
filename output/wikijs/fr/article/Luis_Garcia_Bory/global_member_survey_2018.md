@@ -47,7 +47,7 @@ Le sondage nous donnera une occasion unique d’amorcer une discussion avec vous
 
 Vos réponses à ce sondage seront anonymes et recueillies de façon centralisée par le Comité des membres de l’Association. Les commentaires à nos dirigeants et bénévoles seront fournis de façon anonyme et toutes les informations que vous nous donnerez seront utilisées pour améliorer notre façon de communiquer avec nos membres indépendants et institutionnels sur tous les continents et de les soutenir.
 
-Si vous avez des questions ou des suggestions sur d’autres aspects que le sondage devrait inclure, veuillez les envoyer à Luis Garcia-Bory, Président du Comité des membres  [membres@urantia-Association.org](mailto:membres@urantia-Association.org)  avant le 31 décembre.
+Si vous avez des questions ou des suggestions sur d’autres aspects que le sondage devrait inclure, veuillez les envoyer à Luis Garcia-Bory, Président du Comité des membres [membres@urantia-Association.org](mailto:membres@urantia-Association.org)  avant le 31 décembre.
 
 Nous vous remercions à l’avance et attendons avec impatience votre participation !
 

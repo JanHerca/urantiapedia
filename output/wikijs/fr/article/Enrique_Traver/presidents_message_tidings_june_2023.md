@@ -43,9 +43,9 @@ L’Association Urantia Internationale existe parce que nous croyons que les ens
 
 Nous voulons atteindre chaque personne, chaque individu, pour qui nous espérons **créer** des opportunités pour les aider à se connecter à Dieu en partageant les enseignements du Livre d’Urantia.
 
-Qu’entend-on par créer ?  Les opportunités viennent souvent de nulle part, ou sont suscitées par l’esprit, ou se produisent soudainement – et souvent nous ne les remarquons même pas, nous les laissons simplement passer. L’acte de chercher à créer nous maintient connectés, conscients, de sorte que nous ne laissons passer aucune opportunité, même celles que nous n’avons pas créées mais qui nous ont été données.
+Qu’entend-on par créer ? Les opportunités viennent souvent de nulle part, ou sont suscitées par l’esprit, ou se produisent soudainement – et souvent nous ne les remarquons même pas, nous les laissons simplement passer. L’acte de chercher à créer nous maintient connectés, conscients, de sorte que nous ne laissons passer aucune opportunité, même celles que nous n’avons pas créées mais qui nous ont été données.
 
-Le fait de **créer** ou d’**avoir** permet la même opportunité d’atteindre l’individu. « Avoir » nous donne la possibilité _de_ _percevoir l’appel de l’Esprit à servir l’individu_, à étancher sa soif et sa faim de Dieu. « Créer » nous donne la possibilité _de demander à l’Esprit de nous aider à servir cette personne_ et à satisfaire sa soif et sa faim de Dieu.
+Le fait de **créer** ou d’**avoir** permet la même opportunité d’atteindre l’individu. « Avoir » nous donne la possibilité _de_ _percevoir l’appel de l’Esprit à servir l’individu_, à étancher sa soif et sa faim de Dieu. « Créer » nous donne la possibilité _de demander à l’Esprit de nous aider à servir cette personne_ et à satisfaire sa soif et sa faim de Dieu.
 
 Le fait de **créer** et/ou d’**avoir** nous permet d’atteindre tout le monde, indépendamment de la chance ou du hasard, parce que nous recherchons l’individu et ne sommes pas nécessairement recherchés par lui. Lorsque nous rencontrons la personne, nous pouvons immédiatement percevoir sa demande d’aide, cachée ou explicite. Souvent, l’individu ne se rend pas compte qu’il a besoin d’aide. En fait, la plupart du temps, il ne pense pas avoir besoin d’aide du tout.
 
