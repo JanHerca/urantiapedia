@@ -3,7 +3,7 @@ title: "Beyond Fundamentalism"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
-tags: Revelation, The Urantia Book, Innerface International, article
+tags: Revelation, The Urantia Book, Innerface International, Fellowhsip, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:38Z
 ---
@@ -26,6 +26,29 @@ dateCreated: 2022-9-9T8:13:38Z
         <td>
         <a href="/en/article/Ken_Glasziou/Midrash">
           <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">The Purpose of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -61,7 +84,8 @@ Scholarly evaluation shows that Urantia Book fundamentalism is just as untenable
 ## External links
 
 - [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html)
-
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_beyond_fundamentalism.htm)
 
 
 
@@ -82,6 +106,29 @@ Scholarly evaluation shows that Urantia Book fundamentalism is just as untenable
         <td>
         <a href="/en/article/Ken_Glasziou/Midrash">
           <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">The Purpose of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -3,7 +3,7 @@ title: "Résolution de problèmes par la prière"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Fellowship, The Urantian, article
+tags: Prayer, Fellowship, The Urantian, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la révélation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="pr-2">L'appel au ministère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 par Meredith J. Sprunger
 
@@ -52,7 +74,7 @@ Une prière efficace n’est pas une solution de fauteuil à bascule à des prob
 
 Même si la prière ne change pas la pensée de Dieu et n'est pas un moyen de changer les lois naturelles ou spirituelles, c'est un processus par lequel le cours naturel des événements peut être modifié. Nous vivons dans un univers ouvert dans lequel la pensée et l’action humaine peuvent influencer la séquence et la qualité des événements. La prière est une technique spirituelle par laquelle nous découvrons ou utilisons parfois des lois supérieures qui peuvent annuler ou contrecarrer les lois inférieures. Il s'agit d'une relation psycho-spirituelle qui peut changer notre façon de penser et notre comportement. En conséquence, différentes options ou événements se produisent, des lois plus élevées et plus inclusives peuvent être mises en œuvre, ou des ressources supérieures peuvent être mises à disposition pour nous aider à résoudre ou à faire face aux problèmes.
 
-Les éditeurs de Guideposts in His Mysterious Ways (1988, Guideposts Associates, Inc.) ont compilé les histoires de plus d'une centaine de personnes qui ont échappé à la tragédie ou à la mort ou dont la vie a été radicalement changée par des événements apparemment miraculeux provoqués par la prière. . Comment comprendre ces événements insolites ? Et pourquoi des personnes dans des situations similaires, qui semblent tout aussi bonnes et justes, ne reçoivent-elles pas une délivrance aussi miraculeuse grâce à leurs prières ?
+Les éditeurs de Guideposts in _His Mysterious Ways_ (1988, Guideposts Associates, Inc.) ont compilé les histoires de plus d'une centaine de personnes qui ont échappé à la tragédie ou à la mort ou dont la vie a été radicalement changée par des événements apparemment miraculeux provoqués par la prière. . Comment comprendre ces événements insolites ? Et pourquoi des personnes dans des situations similaires, qui semblent tout aussi bonnes et justes, ne reçoivent-elles pas une délivrance aussi miraculeuse grâce à leurs prières ?
 
 Bien que la réponse à ces questions soit cachée par notre connaissance incomplète et notre vision limitée de la sagesse divine, il apparaît que le facteur fondamental dans la relation de Dieu avec les personnes est une qualité spirituelle d'amour qui est unique pour chaque individu dans une situation donnée. L’effet de toute relation personnelle avec Dieu est déterminé par la qualité et les circonstances de sa réalité singulière.
 
@@ -72,6 +94,11 @@ Quel que soit son effet, nous prions spontanément pour ceux que nous aimons. Le
 
 En concluant notre réflexion sur la résolution de problèmes par la prière, nous devons nous rappeler que la stimulation des problèmes est fondamentale pour la croissance personnelle et spirituelle. Les problèmes sont en réalité des opportunités de développement et de service. Il existe des limites inhérentes à la résolution de problèmes dans l’univers évolutionnaire. Ces limitations sont liées à notre glorieuse destinée et à la qualité de perfection spirituelle que nous forgeons entre les marteaux de l’angoisse et les enclumes de la nécessité ici sur la planète Terre.
 
+## Références
+
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_prayerful_problem_solving.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -89,6 +116,29 @@ En concluant notre réflexion sur la résolution de problèmes par la prière, n
         <td>
         <a href="/fr/article/Carolyn_Kendall/Worshipful_Problem_Solving">
           <span class="pr-2">Résolution de problèmes vénérable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la révélation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="pr-2">L'appel au ministère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

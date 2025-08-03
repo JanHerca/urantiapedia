@@ -24,7 +24,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Meredith_Sprunger/The_Dynamics_of_Empowerment">
+        <a href="/en/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
           <span class="pr-2">The Dynamics of Empowerment</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -100,7 +100,7 @@ At the same time there has been a growing hunger among readers of _The Urantia B
         </a>
         </td>
         <td>
-        <a href="/en/article/Meredith_Sprunger/The_Dynamics_of_Empowerment">
+        <a href="/en/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
           <span class="pr-2">The Dynamics of Empowerment</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

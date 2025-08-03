@@ -3,7 +3,7 @@ title: "L'avenir de la cinquième révélation d'époque"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Revelation, Future, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Revelation, Future, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'appel au ministère</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprendre le mal dans l'expérience humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 En octobre 1955, _Le Livre d'Urantia_ fut publié avec un grand enthousiasme. La Fraternité Urantia nouvellement organisée envisageait d'organiser des milliers de groupes d'étude et de créer progressivement des sociétés bien ancrées. La nature spécifique de ces sociétés était ambiguë. La plupart des membres fondateurs considéraient la Fraternité Urantia comme une organisation religieuse ou quasi religieuse. Le Dr Sadler voyait clairement les sociétés se développer comme de véritables groupes religieux.
@@ -88,7 +110,10 @@ Notre intention est de préparer le terrain pour l’avènement d’institutions
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef du Spiritual Fellowship Journal._
 {.is-info}
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_future_of_fer.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -107,6 +132,29 @@ Notre intention est de préparer le terrain pour l’avènement d’institutions
         <td>
         <a href="/fr/article/Larry_Mullins/Outreach_to_Young_Urantians">
           <span class="pr-2">Sensibilisation aux jeunes Urantiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'appel au ministère</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprendre le mal dans l'expérience humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

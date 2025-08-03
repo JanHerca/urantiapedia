@@ -3,7 +3,7 @@ title: "El impacto cultural del libro de Urantia en los próximos cincuenta año
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dinámica del empoderamiento</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Más allá del fundamentalismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 ¿Cuál será el impacto cultural de _El Libro de Urantia_ durante los próximos cincuenta años? ¿Quién de nosotros puede siquiera estar seguro de lo que sucederá mañana? La gente ha estado haciendo predicciones sobre el futuro desde los albores de la historia. Al examinar tales profecías, uno queda impresionado por la falta de precisión de un gran porcentaje de estas predicciones, incluso cuando son hechas por las personas más eruditas. A finales del siglo XIX, cuando Lord Kelvin era presidente de la Sociedad Real Británica. predijo que la radio no tendría futuro, que las máquinas voladoras más pesadas que el aire eran imposibles y que los rayos X resultarían ser un engaño. El Dr. James Bryant Conant, presidente de la Universidad de Harvard, al dirigirse a la Sociedad Química Estadounidense en 1951, predijo que para 1985 se aprovecharía la energía solar y la energía sería tan barata y abundante que se destilaría agua dulce del océano y los desiertos se transformarían. en lugares del jardín. No sólo nuestros mejores pronósticos son a menudo inexactos, sino que acontecimientos históricos inesperados cambian el contexto de toda la situación cultural. Sin embargo, los seres humanos son futuristas incurables; Nos encanta mirar hacia lo desconocido y construir un escenario de futuro. Aunque nuestra visión pueda ser inexacta, esa anticipación de los acontecimientos del mañana es más creativa y constructiva que simplemente reaccionar ante los incidentes después de que hayan ocurrido.
@@ -96,6 +118,8 @@ Los acontecimientos inesperados tienen su propia dinámica. Aparte de desarrolla
 
 - [Otra traducción de este artículo en la web de la Asociación Urantia de España](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ImpactodelLU.pdf)
 - [«Asociación Urantia de España» — Índice](/es/index/articles_spain)
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_next_fifty_years.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -114,6 +138,29 @@ Los acontecimientos inesperados tienen su propia dinámica. Aparte de desarrolla
         <td>
         <a href="/es/article/Merlyn_Cox/The_Geography_of_Faith">
           <span class="pr-2">La geografía de la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dinámica del empoderamiento</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Más allá del fundamentalismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

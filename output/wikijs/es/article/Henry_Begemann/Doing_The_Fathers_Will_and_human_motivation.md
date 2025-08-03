@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La llamada al ministerio</span>
         </a>
         </td>
         <td>
@@ -68,7 +68,7 @@ _Wassenaar, Países Bajos_
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La llamada al ministerio</span>
         </a>
         </td>
         <td>

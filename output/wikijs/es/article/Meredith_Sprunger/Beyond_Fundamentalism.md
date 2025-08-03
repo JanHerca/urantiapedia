@@ -3,7 +3,7 @@ title: "Más allá del fundamentalismo"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
-tags: Revelation, The Urantia Book, Innerface International, article
+tags: Revelation, The Urantia Book, Innerface International, Fellowhsip, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:38Z
 ---
@@ -26,6 +26,29 @@ dateCreated: 2022-9-9T8:13:38Z
         <td>
         <a href="/es/article/Ken_Glasziou/Midrash">
           <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El impacto cultural de El libro de Urantia en los próximos cincuenta años</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">El propósito de la Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -61,7 +84,8 @@ La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ 
 ## Enlaces externos
 
 - [Artículo en Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html)
-
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_beyond_fundamentalism.htm)
 
 
 
@@ -82,6 +106,29 @@ La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ 
         <td>
         <a href="/es/article/Ken_Glasziou/Midrash">
           <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El impacto cultural de El libro de Urantia en los próximos cincuenta años</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">El propósito de la Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

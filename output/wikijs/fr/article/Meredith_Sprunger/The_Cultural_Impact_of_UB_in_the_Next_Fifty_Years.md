@@ -3,7 +3,7 @@ title: "L'impact culturel du Livre d'Urantia dans les cinquante prochaines anné
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Urantia Book, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dynamique de l'autonomisation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Au-delà du fondamentalisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Quel sera l'impact culturel du _Le Livre d'Urantia_ au cours des cinquante prochaines années ? Qui d’entre nous peut être sûr de ce qui se passera demain ? Les gens font des prédictions sur l’avenir depuis la nuit des temps. En examinant de telles prophéties, on est impressionné par le manque d’exactitude d’un grand pourcentage de ces prédictions, même lorsqu’elles sont faites par les personnes les plus érudites. À la fin des années 1800, lorsque Lord Kelvin était président de la British Royal Society. il prédit que la radio n'aurait pas d'avenir, que les machines volantes plus lourdes que l'air étaient impossibles et que les rayons X se révéleraient être un canular. Le Dr James Bryant Conant, président de l'Université Harvard, s'adressant à l'American Chemical Society en 1951, a prédit que d'ici 1985, l'énergie solaire serait exploitée et que l'électricité serait si bon marché et si abondante que l'eau douce serait distillée de l'océan et que les déserts seraient transformés. dans les jardins. Non seulement nos meilleures prévisions sont souvent inexactes, mais des événements historiques inattendus modifient le contexte de la situation culturelle dans son ensemble. Néanmoins, les êtres humains sont des futuristes incurables ; nous aimons regarder vers l'inconnu et construire un scénario du futur. Même si notre vision peut être inexacte, une telle anticipation des événements de demain est plus créative et constructive que la simple réaction aux incidents après qu’ils se soient produits.
@@ -92,7 +114,10 @@ Quelle est la probabilité qu’un ou plusieurs de ces événements catalyseurs 
 
 Les événements inattendus ont leur propre dynamique. En dehors du développement d’une présence populaire stable dans notre société, nous ne pouvons pas faire grand-chose pour nous préparer à des événements inhabituels. Si et quand ces changements soudains se produisent, ils seront régis par leur propre leadership et par notre capacité à réagir judicieusement à la situation contemporaine. Notre tâche est de continuer à parcourir la route défoncée et semée de rochers du développement évolutif. Les changements soudains façonneront leur propre destin.
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_next_fifty_years.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -111,6 +136,29 @@ Les événements inattendus ont leur propre dynamique. En dehors du développeme
         <td>
         <a href="/fr/article/Merlyn_Cox/The_Geography_of_Faith">
           <span class="pr-2">La géographie de la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dynamique de l'autonomisation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Au-delà du fondamentalisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

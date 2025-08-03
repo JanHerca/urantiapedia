@@ -1,5 +1,5 @@
 ---
-title: "La Comisión al Ministro"
+title: "La llamada al ministerio"
 description: "La forma en que Jesús nos enseñó a relacionarnos con el Padre"
 published: true
 date: 2021-11-28T14:02:03.086Z

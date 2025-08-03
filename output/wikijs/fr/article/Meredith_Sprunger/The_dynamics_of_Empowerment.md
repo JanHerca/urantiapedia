@@ -3,7 +3,7 @@ title: "La dynamique de l'autonomisation"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étapes majeures de croissance du Mouvement Urantia</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Une fois nos besoins de survie et de sécurité satisfaits, la préoccupation la plus importante des êtres humains est de s’autonomiser pour vivre. Nous avons besoin d’une nourriture physiologique pour fournir l’énergie matérielle qui sous-tend toutes nos activités. Pour transcender le simple niveau animal de la vie humaine, nous devons également être dynamisés et nourris par la valeur ou le niveau spirituel de la réalité.
@@ -59,7 +81,10 @@ L’un des moyens les plus efficaces d’accroître la croissance de l’âme et
 
 Outre la factualisation de la croissance de l’âme, la maîtrise des cercles cosmiques du développement de la personnalité et le service affectueux de notre famille et de nos associés, notre préoccupation la plus importante devrait probablement être le rajeunissement spirituel et l’autonomisation de notre planète. Notre monde souffre de pollution environnementale, de confusion sociale, d’insolvabilité économique et de décadence morale. Nous avons désespérément besoin du renouveau créatif de la Cinquième Révélation d’Époque. _Le Livre d'Urantia_ est la réponse salvatrice de Christ Michael à notre isolement et à notre confusion spirituelle. Cette vision élargie de la réalité initiera l’une des « époques les plus étonnantes et les plus passionnantes de réajustement social, d’accélération morale et d’illumination spirituelle » jamais vécues dans notre monde.
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_dynamics_of_empowerment.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -78,6 +103,29 @@ Outre la factualisation de la croissance de l’âme, la maîtrise des cercles c
         <td>
         <a href="/fr/article/Meredith_Sprunger/Spiritual_Courage">
           <span class="pr-2">Courage spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étapes majeures de croissance du Mouvement Urantia</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

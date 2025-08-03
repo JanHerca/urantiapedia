@@ -3,7 +3,7 @@ title: "Au-delà du fondamentalisme"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
-tags: Revelation, The Urantia Book, Innerface International, article
+tags: Revelation, The Urantia Book, Innerface International, Fellowhsip, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:38Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2022-9-9T8:13:38Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">Le but de la Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Les fondamentalistes chrétiens croient en l’inerrance littérale de la Bible. Ils sont tellement impressionnés par les vérités spirituelles des Écritures qu’ils supposent que la science, l’économie, la sociologie et l’histoire de la Bible sont de qualité égale. L’érudition du christianisme traditionnel a depuis longtemps délivré l’Église de ces illusions naïves. Nous avons réalisé que le but de la révélation est l'illumination spirituelle qui doit être distinguée des faits scientifiques et historiques qui peuvent accompagner cette vision spirituelle. La majeure partie du christianisme a atteint la maturité spirituelle nécessaire pour différencier ces vérités spirituelles constantes des faits matériels passagers et parfois erronés qui accompagnent ces idées.
@@ -62,7 +84,8 @@ L'évaluation scientifique montre que le fondamentalisme du Livre d'Urantia est 
 ## Liens externes
 
 - [Article dans Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html)
-
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_beyond_fundamentalism.htm)
 
 
 
@@ -85,6 +108,29 @@ L'évaluation scientifique montre que le fondamentalisme du Livre d'Urantia est 
         <td>
         <a href="/fr/article/Ken_Glasziou/Midrash">
           <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">Le but de la Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

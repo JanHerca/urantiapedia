@@ -3,7 +3,7 @@ title: "The Purpose of Revelation"
 description: "A Response to Martin Gardner's “Urantia: The Great Cult Mystery”"
 published: true
 date: 2022-09-24T16:59:40.682Z
-tags: revelation, the urantia book, the urantia book—purpose, purpose, gardner, Innerface International, article
+tags: revelation, the urantia book, the urantia book—purpose, purpose, gardner, Innerface International, Fellowship, article
 editor: markdown
 dateCreated: 2022-09-07T18:33:46.811Z
 ---
@@ -26,6 +26,29 @@ dateCreated: 2022-09-07T18:33:46.811Z
         <td>
         <a href="/en/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
           <span class="pr-2">Reading The Urantia Book as a Religious Practice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beyond Fundamentalism</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="pr-2">Prayerful Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -162,6 +185,9 @@ The solid core of the Urantia movement has come through these tribulations with 
 ## External links
 
 - [Article in Innerface International](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html)
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_purpose_of_revelation.htm)
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -180,6 +206,29 @@ The solid core of the Urantia movement has come through these tribulations with 
         <td>
         <a href="/en/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
           <span class="pr-2">Reading The Urantia Book as a Religious Practice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beyond Fundamentalism</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="pr-2">Prayerful Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

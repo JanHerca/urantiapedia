@@ -3,7 +3,7 @@ title: "The Dynamics of Empowerment"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -26,6 +26,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
         <td>
         <a href="/en/article/Meredith_Sprunger/Spiritual_Courage">
           <span class="pr-2">Spiritual Courage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Major Growth Steps in the Urantia Movement</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -58,6 +81,12 @@ One of the most effective ways of expanding soul growth and concomitant empowerm
 
 Next to factualizing soul growth along with mastering the cosmic circles of personality development and the loving service of our family and associates, probably our most important concern should be the spiritual rejuvenation and empowerment of our planet. Our world is suffering from environmental pollution, social confusion, economic insolvency, and moral decadence. We desperately need the creative renewal of the Fifth Epochal Revelation. _The Urantia Book_ is Christ Michael's saving answer to our spiritual isolation and confusion. This enlarged vision of reality will initiate one of the “most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” ever experienced on our world.
 
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_dynamics_of_empowerment.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -75,6 +104,29 @@ Next to factualizing soul growth along with mastering the cosmic circles of pers
         <td>
         <a href="/en/article/Meredith_Sprunger/Spiritual_Courage">
           <span class="pr-2">Spiritual Courage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Major Growth Steps in the Urantia Movement</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">The Cultural Impact of The Urantia Book in the Next Fifty Years</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

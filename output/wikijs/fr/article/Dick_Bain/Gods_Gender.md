@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="pr-2">La Commission au Ministre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">L'appel au ministère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -98,7 +98,7 @@ Les auteurs voulaient que le _Livre d'Urantia_ facilite notre croissance spiritu
         </td>
         <td>
         <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="pr-2">La Commission au Ministre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">L'appel au ministère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

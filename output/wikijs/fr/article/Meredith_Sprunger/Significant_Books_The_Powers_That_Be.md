@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Commission au Ministre</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'appel au ministère</span>
         </a>
         </td>
         <td>
@@ -52,7 +52,7 @@ Le professeur Wink a écrit un livre brillant et utile. Les limites du livre, à
       <tr>
         <td>
         <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Commission au Ministre</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'appel au ministère</span>
         </a>
         </td>
         <td>

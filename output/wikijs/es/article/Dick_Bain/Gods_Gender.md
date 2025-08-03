@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="pr-2">La Comisión al Ministro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La llamada al ministerio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -98,7 +98,7 @@ Los autores pretendían que _El Libro de Urantia_ ayudara a nuestro crecimiento 
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="pr-2">La Comisión al Ministro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La llamada al ministerio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

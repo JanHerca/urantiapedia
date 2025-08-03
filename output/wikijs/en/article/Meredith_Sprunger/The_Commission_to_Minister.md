@@ -3,7 +3,7 @@ title: "The Commission to Minister"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -26,6 +26,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
         <td>
         <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Powers_That_Be">
           <span class="pr-2">Significant Books: The Powers That Be (Theology For a New Millennium) by Walter Wink</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayerful Problem Solving</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">The Future of The Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -105,6 +128,12 @@ Now may living faith, the one all-encompassing requirement of sonship, inspire u
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of The Spiritual Fellowship Journal_.
 {.is-info}
 
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_commision_to_minister.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -122,6 +151,29 @@ Now may living faith, the one all-encompassing requirement of sonship, inspire u
         <td>
         <a href="/en/article/Meredith_Sprunger/Significant_Books_The_Powers_That_Be">
           <span class="pr-2">Significant Books: The Powers That Be (Theology For a New Millennium) by Walter Wink</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayerful Problem Solving</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">The Future of The Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

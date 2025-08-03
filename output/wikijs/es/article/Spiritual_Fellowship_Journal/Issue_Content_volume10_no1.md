@@ -154,7 +154,7 @@ Donación anual sugerida: \$10.
     Un sugerente ejemplo de un Servicio de Comunión formal.
 - **El género de Dios**
     Reflexión sobre el lenguaje sexista de los Documentos de Urantia.
-- **La Comisión al Ministro.**
+- **La llamada al ministerio.**
     La característica distintiva de la religión del Espíritu es la centralidad del servicio y la evangelización.
 
 ***Columnas y características***

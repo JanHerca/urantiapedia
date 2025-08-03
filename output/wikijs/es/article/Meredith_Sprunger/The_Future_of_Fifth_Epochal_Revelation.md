@@ -3,7 +3,7 @@ title: "El futuro de la quinta revelación de época"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Revelation, Future, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Revelation, Future, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La llamada al ministerio</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprender el mal en la experiencia humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 En octubre de 1955 se publicó con gran entusiasmo _El Libro de Urantia_. La recién organizada Urantia Brotherhood se imaginó la organización de miles de grupos de estudio y la creación gradual de sociedades bien cimentadas. La naturaleza específica de estas sociedades era ambigua. La mayoría de los miembros fundadores consideraban a la Hermandad Urantia como una organización religiosa o cuasi religiosa. El Dr. Sadler vio claramente que las sociedades se desarrollaban como grupos religiosos auténticos.
@@ -88,7 +110,10 @@ Nuestra intención es preparar el terreno para el advenimiento de instituciones 
 > _Meredith Sprunger es profesor universitario y ministro de la Iglesia Unida de Cristo, ahora jubilado y editor de The Spiritual Fellowship Journal._
 {.is-info}
 
+## Referencias
 
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_future_of_fer.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -107,6 +132,29 @@ Nuestra intención es preparar el terreno para el advenimiento de instituciones 
         <td>
         <a href="/es/article/Larry_Mullins/Outreach_to_Young_Urantians">
           <span class="pr-2">Acercamiento a los jóvenes urantianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La llamada al ministerio</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprender el mal en la experiencia humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

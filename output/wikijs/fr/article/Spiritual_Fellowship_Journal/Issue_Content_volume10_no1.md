@@ -154,7 +154,7 @@ Don annuel suggéré : 10 $.
     Un exemple suggestif d’un service de communion formel.
 - **Le genre de Dieu**
     Réflexion sur le langage sexiste des Fascicules d'Urantia.
-- **La Commission au Ministre.**
+- **L'appel au ministère.**
     La caractéristique distinctive de la religion de l’Esprit est l’entralité du service et de l’évangélisation.
 
 ***Colonnes et thèmes d'intérêt***

@@ -3,7 +3,7 @@ title: "La dinámica del empoderamiento"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principales pasos de crecimiento en el Movimiento Urantia</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">El impacto cultural de El libro de Urantia en los próximos cincuenta años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Una vez atendidas nuestras necesidades de supervivencia y seguridad, la preocupación más importante de los seres humanos es el empoderamiento para vivir. Necesitamos alimento fisiológico para proporcionar la energía material que subyace a todas nuestras actividades. Para trascender el mero nivel animal de la vida humana necesitamos también ser energizados y nutridos por el valor o nivel espiritual de la realidad.
@@ -59,7 +81,10 @@ Una de las formas más efectivas de expandir el crecimiento del alma y el concom
 
 Además de materializar el crecimiento del alma junto con el dominio de los círculos cósmicos del desarrollo de la personalidad y el servicio amoroso de nuestra familia y asociados, probablemente nuestra preocupación más importante debería ser el rejuvenecimiento espiritual y el empoderamiento de nuestro planeta. Nuestro mundo sufre de contaminación ambiental, confusión social, insolvencia económica y decadencia moral. Necesitamos desesperadamente la renovación creativa de la Quinta Revelación de Época. _El Libro de Urantia_ es la respuesta salvadora de Cristo Miguel a nuestro aislamiento y confusión espiritual. Esta visión ampliada de la realidad iniciará una de las «épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual» jamás experimentadas en nuestro mundo.
 
+## Referencias
 
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_dynamics_of_empowerment.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -78,6 +103,29 @@ Además de materializar el crecimiento del alma junto con el dominio de los cír
         <td>
         <a href="/es/article/Meredith_Sprunger/Spiritual_Courage">
           <span class="pr-2">Valor espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principales pasos de crecimiento en el Movimiento Urantia</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">El impacto cultural de El libro de Urantia en los próximos cincuenta años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

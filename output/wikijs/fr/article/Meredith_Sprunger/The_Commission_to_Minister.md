@@ -1,9 +1,9 @@
 ---
-title: "La Commission au Ministre"
+title: "L'appel au ministère"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes par la prière</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">L'avenir de la révélation de la cinquième époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 > _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ (<a id="a37_248"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
@@ -106,7 +128,10 @@ Puisse maintenant la foi vivante, la seule exigence globale de la filiation, nou
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef du Spiritual Fellowship Journal_.
 {.is-info}
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_commision_to_minister.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -125,6 +150,29 @@ Puisse maintenant la foi vivante, la seule exigence globale de la filiation, nou
         <td>
         <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Powers_That_Be">
           <span class="pr-2">Livres importants : Les pouvoirs en place (Théologie pour un nouveau millénaire) par Walter Wink</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes par la prière</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">L'avenir de la révélation de la cinquième époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

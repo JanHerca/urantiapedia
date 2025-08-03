@@ -3,12 +3,58 @@ title: "Prayerful Problem Solving"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Fellowship, The Urantian, article
+tags: Prayer, Fellowship, The Urantian, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Meredith Sprunger<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Offer TOO Good to Refuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="pr-2">Worshipful Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose of Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="pr-2">The Commission to Minister</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 by Meredith J. Sprunger
 
@@ -47,3 +93,57 @@ One of the most difficult questions associated with prayerful problem solving is
 Regardless of its effect, we spontaneously pray for those we love. There is great value in the psychologicalsocial ramifications of intercessory prayer. There is some evidence, however, that intercessory prayer has more than autosuggestive or sociosuggestive validity. If this is so, how do we understand this form of ministry? One explanation is that our extrasensory capacities have the ability to enter other minds and bring comfort, strength, and love. Another possibility is that God not only gives us the opportunity to be co-partners with him in shaping our own lives, but may have created spiritual channels through which we are privileged to be co-ministers with him in helping others within the limits of their spiritual autonomy. If not, why do we have this spiritual urge to pray for others?
 
 In concluding our thinking about prayerful problem solving, we should remember that the stimulus of problems is basic to personal and spiritual growth. Problems are really opportunities for development and service. There are inherent limits to problem solving in the evolutionary universe. These limitations are germane to our glorious destiny and the quality of spiritual perfection which we are forging out between the hammers of anguish and the anvils of necessity here on planet earth.
+
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_prayerful_problem_solving.htm)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Offer TOO Good to Refuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="pr-2">Worshipful Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose of Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="pr-2">The Commission to Minister</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La llamada al ministerio</span>
         </a>
         </td>
         <td>
@@ -52,7 +52,7 @@ El profesor Wink ha escrito un libro brillante y útil. Las limitaciones del lib
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La llamada al ministerio</span>
         </a>
         </td>
         <td>
