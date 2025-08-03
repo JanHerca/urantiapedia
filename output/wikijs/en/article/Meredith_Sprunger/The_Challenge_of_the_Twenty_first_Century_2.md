@@ -3,7 +3,7 @@ title: "The Challenge of the 21st Century"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
-tags: History, History of Urantia Movement, Future, Fellowship Herald, article
+tags: History, History of Urantia Movement, Future, Fellowship Herald, Fellowship, article
 editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
@@ -23,6 +23,29 @@ dateCreated: 2023-01-25T11:12:37.284Z
         <td>
         <a href="/en/article/Byron_Belitsos/On_facing_millenial_change">
           <span class="pr-2">On Facing Millennial Change</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Understanding Evil In Human Experience</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
+          <span class="pr-2">Jesus of Nazareth: Outline for A Study of His Life and Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -71,8 +94,10 @@ The solid core of the Urantia movement has come through these tribulations with 
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+- This article was also published (in short format) [here](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html) (and it is also available in Urantiapedia here: [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_21st_Century.htm)
 
-- This article was also published (in short format) here: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html (and it is also available in Urantiapedia here: [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
 
 <figure class="table chapter-navigator">
   <table>
@@ -88,6 +113,29 @@ The solid core of the Urantia movement has come through these tribulations with 
         <td>
         <a href="/en/article/Byron_Belitsos/On_facing_millenial_change">
           <span class="pr-2">On Facing Millennial Change</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Understanding Evil In Human Experience</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
+          <span class="pr-2">Jesus of Nazareth: Outline for A Study of His Life and Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

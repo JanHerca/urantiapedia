@@ -3,7 +3,7 @@ title: "Comprendre le mal dans l'expérience humaine"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir de la cinquième révélation d'époque</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="pr-2">Le défi du 21e siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 
@@ -94,7 +116,10 @@ La réponse finale au problème du mal pour chaque personne réside dans la comm
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef de_ The Spiritual Fellowship Journal.
 {.is-info}
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_evil_in_experience.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -113,6 +138,29 @@ La réponse finale au problème du mal pour chaque personne réside dans la comm
         <td>
         <a href="/fr/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
           <span class="pr-2">Livres importants : une nouvelle morale issue de la science : le dépassement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir de la cinquième révélation d'époque</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="pr-2">Le défi du 21e siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -3,7 +3,7 @@ title: "Understanding Evil In Human Experience"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future of the Fifth Epochal Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="pr-2">The Challenge of the 21st Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 
@@ -93,6 +115,12 @@ The final answer to the problem of evil for each person resides in fellowship wi
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of_ The Spiritual Fellowship Journal.
 {.is-info}
 
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_evil_in_experience.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -110,6 +138,29 @@ The final answer to the problem of evil for each person resides in fellowship wi
         <td>
         <a href="/en/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
           <span class="pr-2">Significant Books: A New Morality from Science: Beyondism by Raymond B. Cattell</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future of the Fifth Epochal Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="pr-2">The Challenge of the 21st Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

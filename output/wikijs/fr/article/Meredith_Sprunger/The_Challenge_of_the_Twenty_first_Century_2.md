@@ -3,7 +3,7 @@ title: "Le défi du 21e siècle"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
-tags: History, History of Urantia Movement, Future, Fellowship Herald, article
+tags: History, History of Urantia Movement, Future, Fellowship Herald, Fellowship, article
 editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
@@ -29,7 +29,29 @@ dateCreated: 2023-01-25T11:12:37.284Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre le mal dans l'expérience humaine</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
+          <span class="pr-2">Jésus de Nazareth : Plan d'étude de sa vie et de ses enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 (La présentation suivante a été donnée lors de la conférence régionale du Midwest tenue à Fall Creek, dans le parc d'État de l'Illinois, les 7 et 8 octobre 1995.) 
@@ -72,10 +94,9 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
-
-- Cet article a également été publié (en format court) ici : [Innerface archive](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3).html (et il est également disponible dans Urantiapedia ici : [Le Défi du 21ème Siècle](/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
-
-
+- Cet article a également été publié (en format court) ici [Innerface archive](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html) (et il est également disponible dans Urantiapedia ici : [Le Défi du 21ème Siècle](/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_21st_Century.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -91,6 +112,29 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
         <td>
         <a href="/fr/article/Byron_Belitsos/On_facing_millenial_change">
           <span class="pr-2">Face au changement millénaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre le mal dans l'expérience humaine</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
+          <span class="pr-2">Jésus de Nazareth : Plan d'étude de sa vie et de ses enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
