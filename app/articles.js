@@ -412,7 +412,7 @@ class Articles {
 								currentVolume.subtitle = title;
 							}
 							if (currentIssue) {
-								currentIssue.subtitle = subtitle;
+								currentIssue.subtitle = title;
 							}
 						} else if (this.index.title && author === 'is-volume') {
 							currentVolume = {
