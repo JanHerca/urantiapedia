@@ -3,7 +3,7 @@ title: "La presencia de Dios en acción"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: God, Jesus teachings, 6-0-6, article
+tags: God, Jesus teachings, 6-0-6, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
@@ -29,7 +29,29 @@ dateCreated: 2023-11-12T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra principal responsabilidad: difundir la quinta revelación de época</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="pr-2">Principales pasos de crecimiento en el Movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Recordarás la parábola de Jesús sobre los dos hijos: el primer hijo, cuando se le pidió que trabajara en la viña, se negó, pero luego lo pensó mejor y se puso a trabajar. El hijo mayor, cuando le pidieron que trabajara, respondió: «Sí, padre, iré», pero después de que su padre se fue no cumplió su promesa. (<a id="a34_309"></a>[LU 173:3.1](/es/The_Urantia_Book/173#p3_1)) En otra ocasión Jesús dijo: «No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos». ([Mateo 7:21](/es/Bible/Matthew/7#v21)) La prueba de fuego de la vida está en nuestras acciones. La verdadera naturaleza de nuestra fe se ve en nuestro comportamiento. «La verdadera religión debe actuar... Siempre y para siempre la religión hace algo; es dinámica». (<a id="a34_789"></a>[LU 102:2.8](/es/The_Urantia_Book/102#p2_8)) «No existe religión real aparte de una personalidad muy activa». (<a id="a34_900"></a>[LU 102:2.7](/es/The_Urantia_Book/102#p2_7)) «Los débiles adoptan resoluciones, pero los fuertes actúan». (<a id="a34_1007"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
@@ -55,7 +77,10 @@ La presencia de Dios se experimenta más eficazmente en la acción: el servicio.
 Meredith Sprunger,
 Fuerte Wayne, Indiana, EE.UU.
 
+## Referencias
 
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_gods_presence.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -72,6 +97,29 @@ Fuerte Wayne, Indiana, EE.UU.
         </a>
         </td>
         <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra principal responsabilidad: difundir la quinta revelación de época</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="pr-2">Principales pasos de crecimiento en el Movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

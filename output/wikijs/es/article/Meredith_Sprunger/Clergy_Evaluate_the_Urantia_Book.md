@@ -3,7 +3,7 @@ title: "El clero evalúa el libro de Urantia"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Principles_of_Ministry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios del Ministerio</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Preparing_for_Scholarly_Evaluation_of_UB">
+          <span class="pr-2">Preparación para la evaluación académica de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Muchos de nosotros, al leer los Evangelios, nos maravillamos de que los fariseos y saduceos no percibieran la alta calidad espiritual y la sabiduría de las enseñanzas de Jesús. Tendemos a olvidar la gran influencia de la tradición y el poder de la autoridad en la religión institucional. Las estructuras de poder institucional suelen oponerse a los mensajes proféticos durante décadas antes de que se reconozca generalmente la verdad de sus ideas. Ésta es la naturaleza del crecimiento religioso. Todo desarrollo individual y social tiene un componente evolutivo básico.
@@ -83,7 +105,10 @@ Este profesor expresa la reacción que la mayoría de nosotros, los «profesiona
 
 > «Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!» (<a id="a83_559"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
+## Referencias
 
+- [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_clergy_evaluate_II.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -102,6 +127,29 @@ Este profesor expresa la reacción que la mayoría de nosotros, los «profesiona
         <td>
         <a href="/es/article/Ken_Glasziou/Science_Religion_and_UB">
           <span class="pr-2">El clero evalúa el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/es/article/Meredith_Sprunger/Principles_of_Ministry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios del Ministerio</span>
+        </a>
+        <td>
+        <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Preparing_for_Scholarly_Evaluation_of_UB">
+          <span class="pr-2">Preparación para la evaluación académica de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

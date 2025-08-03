@@ -3,7 +3,7 @@ title: "Clergy Evaluate the Urantia Book"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -26,6 +26,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
         <td>
         <a href="/en/article/Ken_Glasziou/Science_Religion_and_UB">
           <span class="pr-2">Science, Religion, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Principles_of_Ministry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principles of Ministry</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Preparing_for_Scholarly_Evaluation_of_UB">
+          <span class="pr-2">Preparing for Scholarly Evaluation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -82,6 +105,13 @@ This professor voices the reaction which most of us “religious professionals�
 
 > “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” (<a id="a82_515"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
+
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_clergy_evaluate_II.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -99,6 +129,29 @@ This professor voices the reaction which most of us “religious professionals�
         <td>
         <a href="/en/article/Ken_Glasziou/Science_Religion_and_UB">
           <span class="pr-2">Science, Religion, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Principles_of_Ministry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principles of Ministry</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Preparing_for_Scholarly_Evaluation_of_UB">
+          <span class="pr-2">Preparing for Scholarly Evaluation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

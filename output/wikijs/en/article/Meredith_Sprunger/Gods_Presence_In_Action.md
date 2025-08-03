@@ -3,7 +3,7 @@ title: "God's Presence In Action"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: God, Jesus teachings, 6-0-6, article
+tags: God, Jesus teachings, 6-0-6, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
@@ -29,7 +29,29 @@ dateCreated: 2023-11-12T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Major Responsibility: Disseminating the Fifth Epochal Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="pr-2">Major Growth Steps in the Urantia Movement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 You recall Jesus' parable of the two sons, the first son when asked to work in the vineyard refused but later thought the better of it and went to work. The older son when asked to work replied, “Yes, father, I'll go,” but after his father left did not fulfill his promise. (<a id="a33_275"></a>[UB 173:3.1](/en/The_Urantia_Book/173#p3_1)) On another occasion Jesus said, “Not everyone who says to me, ‘Lord, Lord,’ shall enter the kingdom of heaven, but he who does the will of my Father in heaven.” ([Matt 7:21](/en/Bible/Matthew/7#v21)) The acid test of life is in our actions. The real nature of our faith is seen in our behaviour. “True religion must act... Always and ever religion does something; it is dynamic.” (<a id="a33_701"></a>[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)) “There is no real religion apart from a highly active personality.” (<a id="a33_815"></a>[UB 102:2.7](/en/The_Urantia_Book/102#p2_7)) “The weak engage in resolutions, but the strong act.” (<a id="a33_915"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
 
@@ -54,6 +76,12 @@ The presence of God is most effective experienced in action — service. Our liv
 Meredith Sprunger,
 Fort Wayne, Indiana, USA
 
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_gods_presence.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -69,6 +97,29 @@ Fort Wayne, Indiana, USA
         </a>
         </td>
         <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Major Responsibility: Disseminating the Fifth Epochal Revelation</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="pr-2">Major Growth Steps in the Urantia Movement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

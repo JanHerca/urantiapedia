@@ -3,7 +3,7 @@ title: "Our Major Responsibility: Disseminating the Fifth Epochal Revelation"
 description: "A rational for the revised Journal direction"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Dissemination, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Dissemination, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,14 +32,36 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Outreach_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Outreach Reflections</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Gods_Presence_in_Action">
+          <span class="pr-2">God's Presence in Action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Our major responsibility in the Urantia movement, in my judgment, is disseminating the Fifth Epochal Revelation throughout our world. The authors of _The Urantia Book_ project two venues in which this will take place:
 
 1. _By establishing new religious groups_. “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism....The new cult must, like the old, foster sentiment, satisfy emotion, and promote loyalty; but it must do more: It must facilitate spiritual progress, enhance cosmic meanings, augment moral values, encourage social development, and stimulate a high type of personal religious living.” (<a id="a38_529"></a>[UB 87:7.7](/en/The_Urantia_Book/87#p7_7))
 2. _By leavening traditional religions, special attention is directed toward Christianity_. “All Urantia is waiting for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.” (<a id="a39_505"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
 
-> "But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” (<a id="a41_525"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> “But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” (<a id="a41_525"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
 ## The Historic Resistance to New Revelation
 
@@ -87,6 +109,13 @@ Just as it took nearly 1800 years of evolutionary development to precipitate Ref
 > _Meredith Sprunger is a college teacher and minister of the United Church of Christ, now retired, and editor of The Spiritual Fellowship Journal_.
 {.is-info}
 
+
+## References
+
+
+- [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_our_major_responsibility.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -104,6 +133,29 @@ Just as it took nearly 1800 years of evolutionary development to precipitate Ref
         <td>
         <a href="/en/article/Ken_Glasziou/Ambiguities_of_UB">
           <span class="pr-2">Ambiguities of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/en/article/Meredith_Sprunger/Outreach_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Outreach Reflections</span>
+        </a>
+        <td>
+        <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Gods_Presence_in_Action">
+          <span class="pr-2">God's Presence in Action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

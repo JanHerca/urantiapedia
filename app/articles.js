@@ -53,7 +53,8 @@ class Articles {
 		'Reflectivite',
 		'Le Lien',
 		'La Lettre',
-		'Urantia Association of Spain'
+		'Urantia Association of Spain',
+		'Fellowship'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});
@@ -406,6 +407,13 @@ class Articles {
 								...(tags != '---' ? [tags]: [])];
 							this.index.sourceText = 
 								this.tr('articlesSource') + ': ';
+						} else if (author === 'is-subtitle') {
+							if (currentVolume) {
+								currentVolume.subtitle = title;
+							}
+							if (currentIssue) {
+								currentIssue.subtitle = subtitle;
+							}
 						} else if (this.index.title && author === 'is-volume') {
 							currentVolume = {
 								title: title,

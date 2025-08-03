@@ -28,6 +28,8 @@ if link != ''
 if volumes.length > 0
 	each volume in volumes
 		h2= volume.title
+		if volume.subtitle
+			p= volume.subtitle
 		each issue in volume.issues
 			h3= issue.title
 			br
@@ -49,6 +51,8 @@ if volumes.length > 0
 else if issues.length > 0
 	each issue in issues
 		h2= issue.title
+		if issue.subtitle
+			p= issue.subtitle
 		br
 		if issue.imagePath != ''
 			figure.image.urantiapedia.image-style-align-left

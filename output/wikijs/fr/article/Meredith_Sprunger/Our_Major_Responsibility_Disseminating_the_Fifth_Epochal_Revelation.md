@@ -3,7 +3,7 @@ title: "Notre responsabilité majeure : diffuser la cinquième révélation d'é
 description: "Une justification de l'orientation révisée du Journal"
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Dissemination, The Spiritual Fellowship Journal, Spiritual Fellowship, article
+tags: Dissemination, The Spiritual Fellowship Journal, Spiritual Fellowship, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -32,7 +32,29 @@ dateCreated: 2023-09-29T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Outreach_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la sensibilisation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_in_Action">
+          <span class="pr-2">La présence de Dieu en action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Notre responsabilité majeure dans le mouvement Urantia, à mon avis, est de diffuser la Cinquième Révélation d’Époque à travers notre monde. Les auteurs du _Le Livre d'Urantia_ projettent deux lieux dans lesquels cela aura lieu :
@@ -88,7 +110,10 @@ Tout comme il a fallu près de 1 800 ans de développement évolutif pour préci
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef du Spiritual Fellowship Journal_.
 {.is-info}
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_our_major_responsibility.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -107,6 +132,29 @@ Tout comme il a fallu près de 1 800 ans de développement évolutif pour préci
         <td>
         <a href="/fr/article/Ken_Glasziou/Ambiguities_of_UB">
           <span class="pr-2">Ambiguïtés du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Outreach_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la sensibilisation</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_in_Action">
+          <span class="pr-2">La présence de Dieu en action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -3,7 +3,7 @@ title: "La présence de Dieu en action"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: God, Jesus teachings, 6-0-6, article
+tags: God, Jesus teachings, 6-0-6, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
@@ -30,7 +30,29 @@ dateCreated: 2023-11-12T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre responsabilité majeure : diffuser la cinquième révélation d'époque</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="pr-2">Étapes majeures de croissance du Mouvement Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 Vous vous souvenez de la parabole de Jésus sur les deux fils. Le premier fils, lorsqu'on lui a demandé de travailler dans la vigne, a refusé, mais a ensuite réfléchi et s'est mis au travail. Lorsqu'on lui a demandé de travailler, le fils aîné a répondu : « Oui, père, j'y vais », mais après le départ de son père, il n'a pas tenu sa promesse. (<a id="a35_344"></a>[LU 173:3.1](/fr/The_Urantia_Book/173#p3_1)) À une autre occasion, Jésus a dit : « Tous ceux qui me disent : « Seigneur, Seigneur ! » n’entreront pas dans le royaume des cieux, sauf celui qui fait la volonté de mon Père qui est aux cieux. ([Matt 7:21](/fr/Bible/Matthew/7#v21)) L'épreuve décisive de la vie est dans nos actions. La vraie nature de notre foi se voit dans notre comportement. « La vraie religion doit agir... La religion fait toujours et toujours quelque chose ; c’est dynamique. (<a id="a35_840"></a>[LU 102:2.8](/fr/The_Urantia_Book/102#p2_8)) « Il n’y a pas de véritable religion en dehors d’une personnalité très active. » (<a id="a35_967"></a>[LU 102:2.7](/fr/The_Urantia_Book/102#p2_7)) « Les faibles prennent des résolutions, mais les forts agissent. » (<a id="a35_1080"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
@@ -56,7 +78,10 @@ La présence de Dieu est expérimentée de la manière la plus efficace dans l�
 Meredith Sprunger,
 Fort Wayne, Indiana, États-Unis
 
+## Références
 
+- [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
+- [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_gods_presence.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -73,6 +98,29 @@ Fort Wayne, Indiana, États-Unis
         </a>
         </td>
         <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <a href="/fr/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre responsabilité majeure : diffuser la cinquième révélation d'époque</span>
+        </a>
+        <td>
+        <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
+          <span class="pr-2">Étapes majeures de croissance du Mouvement Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

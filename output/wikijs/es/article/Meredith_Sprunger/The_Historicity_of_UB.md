@@ -153,7 +153,7 @@ _The Spiritual Fellowship Journal_ surgió de la Red del Clero de la Christian F
 ## Referencias
 
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
--  [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_historicity.htm)
+- [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_historicity.htm)
 
 <figure class="table chapter-navigator">
   <table>
