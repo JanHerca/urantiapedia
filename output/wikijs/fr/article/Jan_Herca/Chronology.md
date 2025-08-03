@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-## Comment cette chronologie est-elle établie ?
+## Comment cette chronologie est-elle établie ?
 
 Elle est entièrement guidée par la lecture et l'analyse du Livre d'Urantia. Ce livre fournit des données chronologiques détaillées, exactes et approximatives, concernant les moments où se sont produits les événements les plus mémorables de la vie de Jésus. Toutes les données chronologiques fournies dans le livre ont été consignées ici. Certaines dates ou moments d'événements spécifiques ont été choisis selon des critères propres. Ils cherchent simplement à situer ces événements dans le calendrier et ne prétendent pas à la rigueur. Quoi qu'il en soit, tous les événements mentionnés sont tirés du livre. Les années de la vie de Jésus sont indiquées selon l'ère actuelle, l'âge de Jésus cette année-là étant indiqué entre parenthèses. Le calendrier utilisé est le calendrier actuel, avec 365 jours par an et une année bissextile tous les 4 ans.
 
@@ -5264,7 +5264,7 @@ Tout d'abord, il y eut une rencontre fortuite entre les apôtres et les disciple
 
 * [Article original : Chronologie de la vie de Jésus selon Le Livre d'Urantia, en PDF](https://buscandoajesus.wordpress.com/descargas/)
 * [Cet article est disponible sur le site web de l'Association Urantia d'Espagne](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/cronologia.pdf)
-* [« Association Urantia d'Espagne » — Index](/fr/index/articles_spain)
+* [« Association Urantia d'Espagne » — Index](/fr/index/articles_spain)
 
 <figure class="table chapter-navigator">
   <table>
