@@ -64,7 +64,7 @@ False is gold, false is silver, false those who wear them ;
 
 and reminded the Sikh that the best use to which money could be applied, would be to fill the Guru’s kitchen with corn and supply the necessities of pilgrims.
 
- <span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91">[<sup><small>p. 91</small></sup>]</span>
 
 The Guru’s wife, Mansa Devi, one day seeing Bibi Bhani playing, remarked to her husband that, as Bhani had arrived at the age of puberty, they ought to search for a husband for her. The Guru ordered the necessary search to be made. When the Guru's agent was ready to depart, Bibi Bhani’s mother saw a boy outside her door hawking some articles. On attentively observing him, she said to the agent, ‘Search for a youth like him to be Bibi Bhani's husband.’ Hearing this, the Guru ordered the agent to pause. On examining the youth’s lineaments the Guru exclaimed, ‘ He is his own parallel, for God had made none other like unto him.’ On this the Guru called the youth and interrogated him on matters in which fathers-in-law are interested. On being satisfied with the boy's replies and his desire to marry Bham, the Guru sent him with marriage presents to his father, Hari Das, in Lahore, and had the betrothal ceremony performed.
 

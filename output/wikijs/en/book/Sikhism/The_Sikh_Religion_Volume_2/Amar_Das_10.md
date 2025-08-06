@@ -214,7 +214,7 @@ Never do what thou shalt have to repent of at last.
 Hearken to the instruction of the true Guru; _it is that which_ shall go with thee.
 Saith Nanak, O dear man, ever remember the True One.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p121">[<sup><small>p. 121</small></sup>]</span>
 
 <p style="text-align:center;">XII</p>
 

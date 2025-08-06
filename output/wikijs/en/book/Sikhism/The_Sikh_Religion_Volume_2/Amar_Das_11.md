@@ -57,10 +57,7 @@ A pandit called Beni, who expounded the Veds and the Shastars, and who had commi
 
 Is man a householder or an anchoret ?
 Is man without caste and ever immortal ?
-
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
-
-Is man fickle or without love for the world ?
+<span id="p135">[<sup><small>p. 135</small></sup>]</span> Is man fickle or without love for the world ?
 Whence hath pride attached to man ?
 O Pandit, reflect on man.
 Why read so much and bear further burden ?

@@ -380,7 +380,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Jésus de Nazareth</text>
 							<text style="font-size:9px" x="61" y="70">Épilogue</text>
 							<text style="font-size:7px" x="61" y="90">XXV. «Un jour,</text>
-							<text style="font-size:7px" x="61" y="90">je reviendrai…»</text>
+							<text style="font-size:7px" x="61" y="100">je reviendrai…»</text>
 						</g>
 					</svg>
 				</div>

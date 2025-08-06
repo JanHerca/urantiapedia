@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:8:19Z
 
 ## MAJU KI WAR
 
-**God rewards the upright and holy who toil in obscurity :—**
+God rewards the upright and holy who toil in obscurity :—
 
 The gift, the perverse suppose, is preferable to the Giver ;
 What shall I say of their intelligence, understanding, and Glewerness ? [^1]
@@ -46,24 +46,21 @@ O Creator, Thou Thyself performest the whole play ; why mention any one else ?
 O Source of Light, as long as Thy light is in _the body_ Thou speakest init. If any one have done aught without Thee, show _him to me_ that I may recognize him.
 Nanak, God, who alone is skilful and wise, is made manifest by the Guru’s instruction.
 
-**Spiritual exaltation :—**
+Spiritual exaltation :—
 
 To see without eyes, to hear without cars,
 To walk without feet, to work without hands,
 To speak without a tongue—that is to be dead while alive.
 Nanak, he who accepteth the will of God shall be united with Him.
 
-**Addiction to pleasures is incompatible with true devotion :—**
+Addiction to pleasures is incompatible with true devotion :—
 
 We see, and hear, and know that God cannot be found in worldly pleasures ;
 How can man without feet, arms, and eyes[^2] run to embrace Him 7
-
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
-
-Make feet out of fear, hands out of love, and eyes out of understanding.
+<span id="p47">[<sup><small>p. 47</small></sup>]</span> Make feet out of fear, hands out of love, and eyes out of understanding.
 Nanak saith, in this way, O wise women, shall you meet the Bridegroom.
 
-**Who are perfect bankers :—**
+Who are perfect bankers :—
 
 They are perfect bankers who have found the Perfect One ;
 They are ever[^3] unconcerned and abide in the love of the One God.
@@ -71,7 +68,7 @@ Few can obtain a sight of the Unfathomable Being.
 Nanak, if the perfect Guru, whose acts are perfect and whose words are perfect,
 Make any one perfect, he wil/ not decrease in weight.
 
-**Man’s proper employment and the bliss attending morning devotion :—**
+Man’s proper employment and the bliss attending morning devotion :—
 
 Let man during the eight watches subdue eight things— _the five deadly sins and the three qualities_—and his body the ninth.
 The nine treasures are in the One God’s name for which they who are profoundly religious search.
@@ -83,20 +80,17 @@ The body obtaineth the character of gold and assumeth a beautiful colour ;
 If the Assayer approve of it, He will not again put it in te fire.
 During the _remaining_ seven watches of the day it is good _to speak_ truth and sit with learned men ;
 There bad and good acts are considered, and the capital of falsehood decreaseth ;
-
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
-
-There the counterfeit are rejected and the genuine congratulated.
+<span id="p48">[<sup><small>p. 48</small></sup>]</span> There the counterfeit are rejected and the genuine congratulated.
 Nanak, it is idle to tell the Master of one’s misery or happiness.
 
-**The virtuous hunger for God :—**
+The virtuous hunger for God :—
 
 The mouths of the virtuous who love the One God weary not of speaking,
 Nor their ears of hearing, nor their eyes of beholding Him.
 Hunger forsaketh not those who hunger _for God_; it departeth not by mere words.[^5]
 Nanak, the hungry man shall be satisfied when, by uttering God’s praises, he becometh absorbed in Him.
 
-**Man ought not to undertake what is beyond his ability :—**
+Man ought not to undertake what is beyond his ability :—
 
 If he who only knoweth the charm for a scorpion’s sting touch a serpent,
 He apphieth a brand to his body with his own hand ;
@@ -105,7 +99,7 @@ The perverse who contend with the pious shall perish ; this 1s God’s justice.
 God is the Lord of both ; He sifteth them carefully.
 Nanak, know that everything is according to God’s will.
 
-**Know thyself and strive not to perform impossibilities :—**
+Know thyself and strive not to perform impossibilities :—
 
 Nanak, deem him who can assay himself a _true_ assayer,
 He who understandeth both disease and medicine is a knowing physician.
@@ -118,14 +112,14 @@ Let him not walk in covetousness, but abide in truth ; he shall then become the 
 If an arrow be shot at the sky, how can it reach it ?
 The sky is inaccessible above us; know that the arrow will recoil on the archer.
 
-**Man ought to meditate on his Creator :—**
+Man ought to meditate on his Creator :—
 
 Until man knoweth God his human birth is unprofitable.
 A few pass over the world’s ocean by the Guru’s favour.
 _God_ is the Cause of causes, omnipotent: saith Nanak, meditate _upon Him_.
 The creation is in the power of the Creator who holdeth the contrivance _by which it ts sustained_.
 
-**Nothing can affect him whom God favours :—**
+Nothing can affect him whom God favours :—
 
 What effect can frost have on fire, the night on the sun ?
 What effect can darkness have on the moon? What effect hath caste on air or water ?
@@ -134,44 +128,41 @@ Nanak, man is accounted honourable if God preserve his honour.
 
 ## SORATH KI WAR
 
-**Man reaps the fruit of his acts :—**
+Man reaps the fruit of his acts :—
 
 The nose-string is in the hand of the Master; man is driven by his acts.
 It is true, Nanak—where God giveth there man eateth.
 
 ## SUHI KI WAR
 
-**Man ought to think of his future :—**
+Man ought to think of his future :—
 
 Why do those who know they must depart make display ?
 They think not of their departure, but _continue_ to arrange their _worldly_ affairs.
 Man amasseth wealth for a night ; in the morning he must depart.
+<span id="p50">[<sup><small>p. 50</small></sup>]</span> Nanak, wealth shall not go with him, and then will he regret.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
-
-Nanak, wealth shall not go with him, and then will he regret.
-
-**There is no merit in divine service performed under pressure :—**
+There is no merit in divine service performed under pressure :—
 
 In the fine the prisoner payeth there is no merit, and no favour conferred on others ;
 Nanak, the act which is voluntarily performed is the best.
 
-**God is won by love, not by force :—**
+God is won by love, not by force :—
 
 Obstinacy, however much one strive, winneth not _God to man's_ side ;
 Nanak, he who truly loveth God and pondereth on the Word, winneth Him to his side.
 
-**The contrast between those who fear and those who fear not God :—**
+The contrast between those who fear and those who fear not God :—
 
 They who fear _God_, have no _other_ fear, while they who fear Him not, shall have much[^7] fear ; Nanak, they shall both be confronted at God’s court.
 
-**Nature’s great law**, Pares cum paribus facillime congregantur ;—
+Nature’s great law**, Pares cum paribus facillime congregantur ;—
 
 Things which walk associate with those which walk, things which fly with those which fly,
 The living associate with the living, the dead with the dead ;
 Praise Him, Nanak, who hath established this law.
 
-**The happiness which pervades young religious hearts in the vernal season :—**
+The happiness which pervades young religious hearts in the vernal season :—
 
 Nanak, they in _whose_ house their spouse abideth, enjoy _perpetual_ spring,
 While they whose spouse is in a distant land burn night and day.
@@ -180,17 +171,17 @@ Nanak, and praise Him who is the support of all.
 
 <span id="p51">[<sup><small>p. 51</small></sup>]</span>
 
-**In what a real meeting consists :—**
+In what a real meeting consists :—
 
 It is not by _merely_ meeting that a meeting is effected, that is, if there is to be a _real_ meeting.
 They who meet with their hearts are _properly_ said to have met.
 
-**When man has only one Friend, why should he forget Him ?—**
+When man has only one Friend, why should he forget Him ?—
 
 Different people have different _friends_; I, unhonoured, have only Thee, O God.
 Why do I not die of weeping when I bear Thee not in mind ?
 
-**Think of God under all circumstances :—**
+Think of God under all circumstances :—
 
 In weal repeat God’s name ; in woe also remember Him ;
 Nanak saith, in this way, O wise women, shall you meet the Bridegroom.
@@ -198,12 +189,12 @@ Nanak saith, in this way, O wise women, shall you meet the Bridegroom.
 
 ## RAMKALI KI WAR
 
-**The supreme reward of spiritual obedience :—**
+The supreme reward of spiritual obedience :—
 
 Devotion, penance, everything _is obtained_ by obeying _God_; all other occupations are vain ;
 Nanak, obey him who hath himself obeyed God ;[^8] he is known by the favour of the Guru.
 
-**The perverse cannot understand divine instruction :—**
+The perverse cannot understand divine instruction :—
 
 Nanak, if a blind man go to assay jewels,
 He will not know their value, but will return having made an exhibition of himself.
@@ -217,26 +208,26 @@ But they who know not their value go about like blind men in the world.
 
 <span id="p52">[<sup><small>p. 52</small></sup>]</span>
 
-**The following was addressed to the Tapa :—**
+The following was addressed to the Tapa :—
 
 He who followeth the road when shown by a blind man is blind himself ;
 Why should he, Nanak, who hath good eyes stray into the wilderness ?
 It isnot theywho have no eyes in their faces who are blind;
 They are blind, Nanak, who stray from the Lord.
 
-**The sinner may find favour by repentance :—**
+The sinner may find favour by repentance :—
 
 The Lord can make him whom He hath blinded see clearly ;
 _God_ treateth man as He knoweth him, no matter what one may Say.[^10]
 Where the real thing, _God_, is not seen, know that pride prevaileth :
 Nanak, how shall a purchaser purchase _anything_ if he recognize it not ?
 
-**It is the perverse who are really blind :—**
+It is the perverse who are really blind :—
 
 Why call him blind who is blind by the will _of God_ ?
 Nanak, it is he who will not understand God’s will who should be called blind.
 
-**God provides for all :—**
+God provides for all :—
 
 Nanak, be not anxious for thy maintenance, anxiety is for Him
 Who created animals in the water and also giveth them sustenance.
@@ -249,14 +240,14 @@ Nanak, feel not anxious—anxiety is for God.
 
 ## SARANG KI WAR
 
-**Only the Guru can cause divine knowledge to enter the heart :—**
+Only the Guru can cause divine knowledge to enter the heart :—
 
 <span id="p53">[<sup><small>p. 53</small></sup>]</span>
 
 The Guru hath the key of the lock, the heart is the storeroom, the body is its roof ;
 Nanak, without the Guru the doors of the heart cannot be opened, since nobody else hath the key.
 
-**Men, though naturally equal, are appointed to different duties in life :—**
+Men, though naturally equal, are appointed to different duties in life :—
 
 Thou Thyself, _O God_, didst create, _saith_ Nanak, Thou Thyself didst put creatures in their different places ;
 Whom shall I call inferior since all have the same Master ?
@@ -265,7 +256,7 @@ Some to small, some to great duties; none departeth empty.
 Men come naked, they depart naked, yet during _their lives_ they make a display ;
 Nanak, it is not known what duty God will order for them in the next world.
 
-**Souls proceed from God and bring their destinies :—**
+Souls proceed from God and bring their destinies :—
 
 Traders come from the Merchant; He sendeth their destinies with them ;
 Orders are recorded therein to take care of the real thing.[^11]
@@ -274,7 +265,7 @@ Some have gone away with a profit [^12] while others have lost their capital.
 No one wanteth small profits ; who shall be congratulated?
 Nanak, God looketh with favour on those who have kept their stock-in-trade intact.
 
-**The nectar of the Name :—**
+The nectar of the Name :—
 
 They who possess the greatness of Thy name, O God, are happy at heart. Nanak, there is only one nectar ;[^13] there is none other ;
 
@@ -283,7 +274,7 @@ They who possess the greatness of Thy name, O God, are happy at heart. Nanak, th
 Nanak, that nectar is in the heart, but it is _only_ obtained by the favour of the Guru ;
 They who were so destined from the beginning quaff it with delight.
 
-**Magnify and praise the Creator only :—**
+Magnify and praise the Creator only :—
 
 Why praise the creation ? Rather praise the Creator ;
 Nanak, there is no bestower but the One God.
@@ -292,7 +283,7 @@ Praise that Bestower who supporteth every one.
 Nanak, God, whose storehouses are full, is alone everlasting—
 Magnify and praise the Lord who hath no end or limits.
 
-**The most exalted are subject to God’s order :—**
+The most exalted are subject to God’s order :—
 
 How shall I speak to Him who of Himself knoweth what is to be known ?
 That Lord is the greatest whose orders cannot be set aside—
@@ -303,7 +294,7 @@ When He ordereth, men must take the road.
 Men must act according to God’s recorded order ;
 Nanak, men come when they are sent _by God_, and depart when they are called _by Him_.
 
-**Divine knowledge is the key which unlocks God’s treasure house :—**
+Divine knowledge is the key which unlocks God’s treasure house :—
 
 They to whom the praises _of God_ have been vouchsafed are the _real_ treasures ;
 They to whom the key is given obtain the treasure.
@@ -312,7 +303,7 @@ God looketh with favour, Nanak, on those who bear the standard of His name.
 
 <span id="p55">[<sup><small>p. 55</small></sup>]</span>
 
-**The inferiority of the Veds to the Guru’s teaching —**
+The inferiority of the Veds to the Guru’s teaching —
 
 The readers of the Veds have brought tales and legends _of the gods_, and defined sins and virtues.
 For what men give they receive, and for what they receive they give,[^13] and they are accordingly born again either in hell or heaven.
@@ -322,7 +313,7 @@ The pious utter it, the pious know it; they who possess divine knowledge meditat
 God created the _world_ by His fiat, and restraineth it thereby ; He beholdeth everything subject to it.
 Nanak, if man’s pride depart ere he die, he shall be deemed of account.
 
-**Man’s future is determined by his acts :—**
+Man’s future is determined by his acts :—
 
 As a man’s acts so is he: this is a necessary consequence ;
 He who hath the marks of piety cannot lose them ; he must retain such appearance.
@@ -330,7 +321,7 @@ He who acteth according to the will of God receiveth his reward ; Nanak, he is w
 
 ## MALAR KI WAR
 
-**The rainy season, during which the natives of India usually take rest, is accounted a time of pleasure :—**
+The rainy season, during which the natives of India usually take rest, is accounted a time of pleasure :—
 
 Sawan [^14] hath come, my companions, think of the Bridegroom ;
 Nanak, the bad wife who loveth another shall pine away and die.
@@ -340,14 +331,14 @@ Nanak, the bad wife who loveth another shall pine away and die.
 Sawan hath come, my companions, the clouds are about to. Laine:
 Nanak, the good wife who loveth her husband sleepeth in peace.
 
-**The topsy-turvyism of Guru Angad’s epoch :—**
+The topsy-turvyism of Guru Angad’s epoch :—
 
 The beggar is styled a king, the blockhead a pandit,
 The blind a connoisseur—that is how people speak.
 The wicked man is styled a Chaudhri, and the liar is deemed perfect.
 Nanak, that is the way of this iron age ; how to distinguish men is known under the Guru’s instruction.
 
-**Despise earthly glory :—**
+Despise earthly glory :—
 
 Nanak, burn in the fire the praises of the world ;
 These accursed things have caused the Name to be forgotten ; not one of them shall go with thee.

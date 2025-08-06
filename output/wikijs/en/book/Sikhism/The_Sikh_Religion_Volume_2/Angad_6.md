@@ -45,37 +45,22 @@ When Amar Das arrived in Khadur next morning, he found the Guru’s house empty.
 By meeting the true Guru worldly hunger departeth, but it departeth not _by merely putting on_ a sectarial garb.
 
 Through the pain of hunger the Tapa wandereth from house to house; in the next world he shall obtain twofold punishment.
-
 His appetite is not satisfied, and he never eateth in comfort what he obtaineth.
-
 He ever beggeth with persistency and annoyeth the giver.
-
 Leading the life of a householder, by which somebody may gain, is better than putting on such a sectarial dress.
-
 They who are imbued with the Word acquire understanding ; others are led astray by doubt.
-
 They act as they were destined ; it is of no use to address them.
-
 Nanak, they who please God are fortunate; they are honoured and acceptable.
 
 ---
 
 The fire of avarice is not extinguished by wearing a sectarial dress ; anxiety still continueth in the mind.
-
 As striking a serpent’s lair killeth not the serpent, so a man without the Guru performeth useless acts.
-
 Serve the generous true Guru, and let the Word abide in your hearts ;
-
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
-
-So shall your bodies be refreshed, your minds become happy, and the fire of avarice be extinguished.
-
+<span id="p38">[<sup><small>p. 38</small></sup>]</span> So shall your bodies be refreshed, your minds become happy, and the fire of avarice be extinguished.
 You shall feel the height of bliss when you have banished pride from within you.
-
 The holy man, the real hermit, is he who continueth to fix his attention on the True One.
-
 He who is contented and satisfied with God’s name, shall feel not a particle of anxiety.
-
 Nanak, without the Name man will not be delivered ; he shall perish in his pride.[^1]
 
 The people all flocked around the Tapa, and said, ‘On account of thee have we fallen out with the Guru. When he was here, we always had enough even of dainties to eat from his kitchen. We have now expelled him, and yet no rain falleth.’ The Tapa replied, ‘Have patience; rain shall fall unmediately.’ He then made every form of incantation, but without success. Amar Das explained to the people that, excepting God, nobody had power to send rain, and they had been most unwise in accepting the statements of a hypocrite against a man who had never harmed any human being. If the Tapa could cause rain to fall, why should he beg from house to house ? On this the people were satisfied of the Tapa’s hypocrisy, and greatly repented of their treatment of the Guru. They then inflicted suitable punishment on the Tapa, so that other evil men might not be tempted to follow his example. After that they went in a body to solicit the Guru’s forgiveness for their acts.

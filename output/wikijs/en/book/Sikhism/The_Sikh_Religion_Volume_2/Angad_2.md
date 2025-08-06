@@ -41,29 +41,16 @@ The Guru and his disciple grew daily more pleased with each other. In proportion
 Lahina, who was the essence of obedience, at once proceeded to Khadur. On his arrival it became known that he had spent three years with Guru Nanak, and had made great progress in virtue and spirituality. Accordingly, everybody went to pay him homage. Among others Takht Mal, the head man of the city, went to touch his feet. Lahina said to him, ‘ This must not be, since thou art in every way of higher rank than myself ;’ but Takht Mal, knew of the power Lahina possessed to render him spiritually perfect, and would not abate a jot in his devotion to him. He pressed Lahina to give him religious instruction by which he might be saved. Lahina accordingly repeated to him the following hymn of Guru Nanak :—
 
 God will regenerate those in whose hearts there 1s love ;
-
 He will make them happy with gifts, and cause them to forget their sorrows.
-
 There is no doubt that He will assuredly save them.
-
 The Guru cometh to meet those for whom such destiny hath been recorded,
-
 And will give them for their instruction God’s ambrosial Name. |
-
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
-
-They will walk as it pleaseth the true Guru, and never wander a-begging.[^1]
-
+<span id="p8">[<sup><small>p. 8</small></sup>]</span> They will walk as it pleaseth the true Guru, and never wander a-begging.[^1]
 Why should he, for whom God’s court is at hand, bow to any one else ?
-
 The porter at God’s gate will ask him no questions whatever.
-
 Man shall be saved by the words of those on whom God looketh with favour.
-
 There is no one toadvise Him who sendeth and recalleth man.
-
 God knoweth how to do all things; He destroyeth, constructeth, and createth.
-
 Nanak, the Name is the reward of him to whom the Gracious One showeth favour.[^2]
 
 On hearing this the doors of Takht Mal’s understanding opened, and divine knowledge shone on him. All the Sikhs, believing Lahina to be even as Guru Nanak, went to do him homage. Bread was daily made and distributed to visitors, and the devotion of the people daily increased.
@@ -85,15 +72,10 @@ One day, as the Guru was washing his hair, the cup he used slipped from his hand
 One day, as the Sikhs were assembled, the Guru seated Angad on his throne, put five pice and a coco-nut in front of him, and said to Bhai Budha, ‘This is my successor ; put a tilak on his forehead in token of his appointment to the Guruship.’ Bhai Budha did so. The Guru then ordered his people to obey and serve Angad, who was in his image. Whoever did so should obtain the reward thereof. Guru Nanak’s sons were highly displeased at being superseded. He told them that Angad alone had proved himself most worthy of the Guruship. It was a position which depended on self-sacrifice, Angad had exhibited that virtue in the highest degree, and consequently had the best claim to the position to which he had been elevated. Guru Nanak directed Angad after his appointment to the Guruship to return to Khadur. He obeyed, <span id="p12">[<sup><small>p. 12</small></sup>]</span> though he wished to remain in attendance on his master even to his latest breath. Bhai Gur Das thus describes the succession of Guru Angad :—
 
 Angad got the same tilak, the same umbrella over his head, and was seated on the same true throne as Guru Nanak.
-
 The seal in Guru Nanak’s hand entered Guru Angad’s, and proclaimed his sovereignty.
-
 He left Nartarpur, and went and lit the Guru’s lamp in Khadur.
-
 What was sown in the beginning hath germinated in this world ; to offer another opinion were false cleverness.
-
 Lahina obtained the gift from Nanak, and it must descend to the house of Amar Das.[^4]
-
 A short time after the appointment of Guru Angad, Guru Nanak departed this life in the manner already related.
 
 <figure class="table chapter-navigator">

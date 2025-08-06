@@ -152,7 +152,7 @@ Nanak, attach thyself to them with the delight the chatrik findeth in raindrops.
 
 [^2]: This man Bhagtu is ancestor of the Kaithal family and also of the Rais of Arnauli in the Ambala district.
 
-[^3]: Gauni.
+[^3]: Gauri.
 
 [^4]: _Dhara_ is literally a party or faction.
 

@@ -37,13 +37,11 @@ A Jat girl called Nihali was one day making cakes of cow-dung for fuel in the vi
 One day Bhai Lalo, Bhai Saido, Bhai Ajitta and other Sikhs asked Bhai Budha, to whom the Guru Nanak had been so kind, to tell them where they could find his successor. They had searched Khadur and other places, but could obtain no trace of him. Bhai Budha said he would give them an answer on the morrow. Overnight he read the Sodar and the Sohila, and then fixed his thoughts on the Guru. He then with his mind’s eye saw Guru Angad sitting concealed in the house of Nihali. Bhai Budha rose three hours before day and read the Japji, the Asa ki War, and other hymns of Guru Nanak. At daybreak the devout Sikhs came again and surrounded him, as they knew the Guru had communicated to him supernatural knowledge. He told them what he had seen in a vision. They then, taking him as leader, proceeded to Nihali’s house near Khadur. The owner of the house in reply to their inquiries gave them no information. Bhai Budha then said that, as there could be no darkness after the sun had arisen, so a Guru could not be hidden. Nihali went to Guru Angad, and told him of the visit of his four Sikhs. He at once ordered that they should be shown into hisapartment. The Guru embraced Bhai Budha and uttered the following sloks:—
 
 Die before the dear one thou lovest ;
-
 To live after him in the world is a curse to life.
 
 After a pause the Guru resumed :—
 
 Cut off the head which boweth not to the Lord.
-
 Nanak,[^1] take and burn the wretched body [^2] which feeleth not the pain of separation.[^3]
 
 <span id="p14">[<sup><small>p. 14</small></sup>]</span>

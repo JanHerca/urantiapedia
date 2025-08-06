@@ -47,117 +47,66 @@ When the rebeck-players came, they fell at the Guru's feet, but they were too mu
 <p style="text-align:center;">I</p>
 
 How can the words of him who uttereth the Name of the Omnipotent Creator be weighed ? [^2]
-
 Grant us true merits that the gift of supreme salvation may be ours, and that our sisters and brothers may share it.[^3]
-
 Nanak established his empire by laying a strong foundation of the fortress of truth.[^4]
-
 He placed the crown over Lahina’s head, and Lahina repeating _God_’s praises quaffed nectar.
-
 The true Guru put into Guru Angad’s heart the powerful sword of the Almighty.
-
 The Guru and his disciple Lahina have made the straight road—hail to Nanak!
-
 The King during his lifetime gave the apostolic mark to _Guru Angad_.
 
 <p style="text-align:center;">II</p>
 
 Guru Nanak proclaimed the accession of Lahina as the reward of service.
-
 He had the same light, the same ways ; the king merely changed his own body.[^5]
-
 The divine umbrella waved over him ; he obtained possession of the throne in the place of _Guru Nanak_.
-
 _Lahina_ did what Guru _Nanak_ ordered him, _and in doing so_ licked the insipid stone [^6] of Jogism.
-
 The kitchen of the Guru’s word was opened; in his earnings there was no deficiency.
-
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
-
-He liberally spent the Master’s gift, himself ate, and gave alms.
-
+<span id="p26">[<sup><small>p. 26</small></sup>]</span> He liberally spent the Master’s gift, himself ate, and gave alms.
 The Lord is praised; His light flasheth from the upper to the lower regions.
-
 On beholding thee, O true King, the filth of different births hath been cut away.
-
 Since the Guru ordered us to speak the truth, why should we-recede from his order ?
-
 His sons would not obey his words ; they turned a deaf ear to their priest.[^7]
-
 With evil hearts they became rebels ; they took sackloads of sins on their heads.
-
 _Lahina_ obeyed what the Guru had ordered him, and earned the reward of his acts.[^8]
-
 _Let us see_ who hath lost and who hath gained.
 
 <p style="text-align:center;">III</p>
 
 _Lahina_ obeyed the orders _of Guru Nanak_ whether necessary or unnecessary.[^9]
-
 _The Guru_ is impartial like the god Dharmraj, and intercedeth for those who appeal to him.
-
 The True One doeth at once what the true Guru telleth him.
-
 The sovereignty of Guru Angad was proclaimed and the true Creator ratified the act.
-
 A scion of Guru Nanak exchanged bodies with him and took possession of his throne.
-
 The people waited at the Guru’s door, and the rust _of their sins_ was filed off.
-
 The darweshes at his gate became happy by uttering the Master’s true name and hymns.
-
 sath Balwand, _Guru Angad’s consort_ Khivi was a good person who afforded very effectual shade to his disciples.
-
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
-
-She distributed the Guru’s wealth in his kitchen—rice boiled in milk and ghi tasting like ambrosia.
-
+<span id="p27">[<sup><small>p. 27</small></sup>]</span> She distributed the Guru’s wealth in his kitchen—rice boiled in milk and ghi tasting like ambrosia.
 The faces of the Guru’s Sikhs were bright ; those of the perverse grew pale.
-
 The disciples who toil are accepted in company with their master.
-
 Mother Khivi’s spouse is he who supporteth the earth.
 
 <p style="text-align:center;">IV</p>
 
 _Guru Nanak, in bowing to Guru Angad_, reversed the order of things,[^10] and everybody said ‘ What is this he hath done ? ’
-
 King Nanak, the lord of the earth, uttered sublime sentiments.
-
 Taking a mountain as his churning staff and the snake as its rope he churned God’s word.
-
 He extracted the fourteen gems and illumined the world.
-
 He displayed such power when he tested so great a man _as Angad_.
-
 He put his umbrella over the head of Lahina who then was exalted to the skies.
-
 _Guru Nanak_’s light blended with _Guru Angad_’s, and _Guru Nanak_ became absorbed in him.
-
 He tested his Sikhs and his sons, and the whole sect saw what he had done.
-
 It was when Lahina was purified that _Guru Nanak_ consecrated him.
 
 <p style="text-align:center;">V</p>
 
 After _Guru Nanak_, Pheru’s son the true Guru, went and inhabited Khadur.
-
 Devotion, penance, and austerities abide with thee, _O Lahina_; great pride with other people.
-
 Greed spoileth men as slime doth water.[^11]
-
 Natural light streameth into the Guru’s court.
-
 They who can find no shelter elsewhere find it in thee, _O Lahina_.
-
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
-
-Thou art completely filled with the Name, which is wealth and the nine treasures.
-
+<span id="p28">[<sup><small>p. 28</small></sup>]</span> Thou art completely filled with the Name, which is wealth and the nine treasures.
 He who slandereth thee shall be ruined.
-
 The people of this world only sce with their eycs, but thou scest afar _with thy mind_.
-
 Pheru’s son the true Guru went and inhabited Khadur after Guru Nanak.
 
 <figure class="table chapter-navigator">

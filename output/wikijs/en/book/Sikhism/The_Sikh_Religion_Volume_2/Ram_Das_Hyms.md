@@ -411,7 +411,7 @@ O slave Nanak’s Lord, Thou guidest men as Thou pleasest.
 Reference to the fate of those who calumniated Guru Amar Das :—
 
 Him who slandereth the perfect true Guru the Creator will punish.
-<span id="p502">[<sup><small>p. 502</small></sup>]</span> The slanderer shall not have such an opportunity again ; as he soweth so shall he eat.
+<span id="p302">[<sup><small>p. 302</small></sup>]</span> The slanderer shall not have such an opportunity again ; as he soweth so shall he eat.
 He shall be taken away to terrible hell with blackened face and a halter on his neck like a thief ;
 But, if he return to the Guru’s protection and meditate on God’s name, he shall be saved.
 He who obeyeth not the Guru’s order is perverse and robbed by mental ignorance and poisonous mammon :
@@ -782,13 +782,13 @@ I am a sacrifice to the Guru, my dear, who hath caused me to meet God.
 <span id="p318">[<sup><small>p. 318</small></sup>]</span> God hath fulfilled all my desires, my dear ; I have obtained the fruit my heart desired.
 When God is pleased, my dear, the slave Nanak is absorbed in the Name.
 Without the love of my beloved God, I rejoice not.
-How shall I find the Guru through whom I may behold my Beloved ? |
-If the bounteous God cause me to meet the great Guru, [ shall meet Him.
+How shall I find the Guru through whom I may behold my Beloved ?
+If the bounteous God cause me to meet the great Guru, I shall meet Him.
 Nanak, he on whose forehead it was so written in the beginning shall find the Guru, my dear.
 
 ## GUJARI
 
-On Guru Amar. Das. ——
+On Guru Amar. Das. —
 
 The saints of God are the best ;_ their speech is the best ; what they utter is for others’ advantage.
 God mercifully saveth those who hear _their words_ with faith and devotion.
@@ -996,7 +996,7 @@ O God, be merciful, grant me the best understanding, and make me who am stupid w
 My mind is lazy and drowsy.
 O God, bring the holy Guru to meet me; let me meet him, and the doors _of my understanding_ shall open.
 Love the Guru every moment, O my heart, that God’s name may become my love and life.
-Without the Name I should die, O my Lord, as a drunkard craveth for intoxicants.[^29t
+Without the Name I should die, O my Lord, as a drunkard craveth for intoxicants.[^29]
 The hearts of those who have good fortune from the beginning love God.
 I worship at all times the feet of those who have made God dear to me.
 O God, my Lord, have mercy on me, cause me, who hath long been separated from Thee, to meet Thy saint.
@@ -1413,7 +1413,7 @@ O man, act according to the instruction of the Guru.
 As the iron goad subdueth the furious elephant, so let the goad of the Guru’s instruction restrain thy heart.
 The wandering mind wandereth in every direction; if the Guru restrain it, it will fix its attention on God.
 If the true Guru put the Word into the mind, the nectar of the Name shall trickle into the mouth.
-Man is filled with the poison of the serpents[^43;] the Guru’s instruction is the jay which swalloweth them.
+Man is filled with the poison of the serpents[^43]; the Guru’s instruction is the jay which swalloweth them.
 The serpent mammon will not then approach such a person ; he will reject the poison and fix his attention on Cred,
 The dog covetousness is very powerful in the citadel of the body, but the Guru will in a moment smite and expel it.
 He will plant truth, patience, and faith instead ;_ then shall man sing God’s praises.

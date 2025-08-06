@@ -40,7 +40,7 @@ On the morrow at daybreak he searched the whole <span id="p94">[<sup><small>p. 9
 
 The supreme Jogi knowing his unshaken faith placed before him unobserved a plate of sweets, which, as having been cooked in clarified butter, even a devout Hindu could receive from the hands of another without defilement. Mai Das then began to consider: ‘Into this solitude no man may bring sweets, nor have I seen anybody coming or going. Impure food was first brought me, and when I refused it, I received pure food. It was certainly God who came to me, but through my misfortune I did not see him.’ Mai Das searched in every direction, and again began to call on his god, ‘O Krishan, O Girdhari, O Murari, pardon my sins. O compassionate one, O Gobind, grant me a sight of thee.’ Full of devotion he wandered weeping and shouting through the forest. It is said that he then heard a voice: ‘ Thou hast not taken food from Amar Das’s kitchen, and hast not beheld him; therefore shalt thou not obtain perfection. If thou desire to do so, then first behold Amar Das.’
 
-On hearing this Mai Das returned to Goindwal. Invoking his favourite god, he partook of food from the Guru’s kitchen, and was then allowed the privilege of sitting in the Guru’s court and beholding him who had been so long the special object of his thoughts and aspirations. The Guru addressed him, ‘Come, Mai Das, thou art a special saint of God.’ Mai Das with complimentary expressions supplicated to be made the Guru’s servant, so that he<span id="p95">[<sup><small>p. 95</small></sup>]</span>might ever behold him. The Guru replied, ‘ Abide with me for eight days, keep the company of my saints, and I will then point out to thee thy spiritual ulde.’
+On hearing this Mai Das returned to Goindwal. Invoking his favourite god, he partook of food from the Guru’s kitchen, and was then allowed the privilege of sitting in the Guru’s court and beholding him who had been so long the special object of his thoughts and aspirations. The Guru addressed him, ‘Come, Mai Das, thou art a special saint of God.’ Mai Das with complimentary expressions supplicated to be made the Guru’s servant, so that he <span id="p95">[<sup><small>p. 95</small></sup>]</span> might ever behold him. The Guru replied, ‘ Abide with me for eight days, keep the company of my saints, and I will then point out to thee thy spiritual ulde.’
 
 : Meanwhile the Sikhs continued with great energy and devotion to excavate the Bawali. After digging very deep they found large stones which hindered their progress. The Sikhs prayed the Guru to remove the obstacle. He counselled patience, and said that all should be well in due time.
 
@@ -86,7 +86,7 @@ How shall a penitent obtain the supreme reward ?
 By the favour of the Guru a few are sincere :
 Nanak, such penitents shall obtain salvation at home.
 
-The true penitent :-—
+The true penitent :—
 
 He is a penitent who performeth the penance
 
