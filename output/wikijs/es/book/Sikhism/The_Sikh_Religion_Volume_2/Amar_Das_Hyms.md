@@ -1461,7 +1461,7 @@ Los que confían en Dios no quedan defraudados:
 Sin servir al verdadero Gurú no se obtiene la paz y el amor mundano no se aparta.
 Por mucho que lo deseemos, el Verdadero Gurú sólo se encuentra mediante las buenas acciones.
 Aquellos en cuyo corazón está el pecado de la avaricia, son arruinados por el amor mundano;
-<span id="p250">[<sup><small>p. 250</small></sup>]</span> Su transmigración no cesa; sufren miseria por su orgullo.
+<span id="p210">[<sup><small>p. 210</small></sup>]</span> Su transmigración no cesa; sufren miseria por su orgullo.
 De aquellos que fijan su corazón en el verdadero Gurú, ninguno queda decepcionado.
 La muerte no los llama al castigo, ni sufren miseria.
 Nanak, los piadosos que estén llenos de la verdadera Palabra serán salvados.
@@ -1482,7 +1482,7 @@ Sólo la amistad de los justos y santos debe ser valorada:
 
 Dulce es lo que agrada; es un amigo recto. Nanak, aquel a quien Dios exalta es un hombre santo.
 
-<span id="p20">[<sup><small>pág. 20</small></sup>]</span>
+<span id="p211">[<sup><small>pág. 211</small></sup>]</span>
 
 Por mucho que el hombre obtenga, siempre anhela más:
 

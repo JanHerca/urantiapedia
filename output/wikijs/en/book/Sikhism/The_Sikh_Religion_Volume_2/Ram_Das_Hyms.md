@@ -143,7 +143,7 @@ O God, cause me to meet the society of the saints, the true beings.
 On meeting them I shall meditate on God’s name.
 Nanak, may I under the Guru’s instruction hear of God, speak of Him, and regale myself with His name !
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p291">[<sup><small>p. 291</small></sup>]</span>
 
 The Guru shows the one God who pervades all things but is distinct from them :—
 
@@ -226,7 +226,7 @@ Love of wealth and family is a snare when man turneth away from God.
 He who is the slave of God’s slaves shall be saved under the Guru’s instruction.
 Nanak, they who ponder on the Name under the Guru's instruction shall be enlightened.
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p294">[<sup><small>p. 294</small></sup>]</span>
 
 The fervour of the Guru’s devotion :—
 
@@ -804,7 +804,7 @@ The slave Nanak hath sought Thine asylum ; if it please Thee, O God, Thou wilt s
 The Guru prays never to forget God’s name :—
 
 Mercifully so dispose my heart, O God, that I may night and day continually meditate on Thy name.
-<span id="p3109">[<sup><small>p. 3109</small></sup>]</span> God is all comfort, all excellence, all wealth ; by uttering His name all misery and hunger depart.
+<span id="p3109">[<sup><small>p. 319</small></sup>]</span> God is all comfort, all excellence, all wealth ; by uttering His name all misery and hunger depart.
 O my soul, God’s name is my companion and my brother.
 Under the Guru’s instruction let me sing the praises of God’s name; it will be at the last hour my helper, and deliver me in God’s court.
 O God, the Searcher of hearts, Thou Thyself art the Giver ; Thou didst mercifully infuse the longing for Thee into my soul.
@@ -1223,7 +1223,7 @@ He roameth about, but his thirst is not quenched ; it is only when he meeteth th
 The Sidhs study many postures and earnestly desire wealth and the tricks of supernatural power.
 They are not satisfied or contented, nor doth peace enter their minds: it is by meeting the saints man is satisfied, and by God’s name he obtaineth perfection.
 
-<span id="p437">[<sup><small>p. 437</small></sup>]</span>
+<span id="p337">[<sup><small>p. 337</small></sup>]</span>
 
 As God made all men on an equality, so they obtain salvation :—
 

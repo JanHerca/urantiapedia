@@ -143,7 +143,7 @@ Oh Dios, haz que me encuentre con la sociedad de los santos, los seres verdadero
 Al encontrarlos meditaré en el nombre de Dios.
 Nanak, ¡que yo, bajo la instrucción del Gurú, pueda escuchar acerca de Dios, hablar de Él y deleitarme con Su nombre!
 
-<span id="p205">[<sup><small>pág. 205</small></sup>]</span>
+<span id="p291">[<sup><small>pág. 291</small></sup>]</span>
 
 El Gurú muestra al único Dios que impregna todas las cosas pero es distinto de ellas:
 
@@ -226,7 +226,7 @@ El amor a la riqueza y a la familia es una trampa cuando el hombre se aleja de D
 Aquel que es esclavo de los esclavos de Dios se salvará bajo la instrucción del Gurú.
 Nanak, aquellos que reflexionan sobre el Nombre bajo la instrucción del Gurú serán iluminados.
 
-<span id="p204">[<sup><small>pág. 204</small></sup>]</span>
+<span id="p294">[<sup><small>pág. 294</small></sup>]</span>
 
 El fervor de la devoción del Gurú:
 
@@ -804,7 +804,7 @@ El esclavo Nanak ha buscado tu asilo; si te place, oh Dios, lo salvarás.
 El Gurú reza para no olvidar nunca el nombre de Dios:
 
 Misericordiosamente dispone mi corazón, oh Dios, para que noche y día medite continuamente en tu nombre.
-<span id="p3109">[<sup><small>p. 3109</small></sup>]</span> Dios es todo consuelo, toda excelencia, toda riqueza; al pronunciar su nombre desaparecen toda miseria y todo hambre.
+<span id="p319">[<sup><small>p. 319</small></sup>]</span> Dios es todo consuelo, toda excelencia, toda riqueza; al pronunciar su nombre desaparecen toda miseria y todo hambre.
 Oh alma mía, el nombre de Dios es mi compañero y mi hermano.
 Bajo la instrucción del Gurú, permíteme cantar las alabanzas del nombre de Dios; Él será mi ayudador en la última hora y me liberará en la corte de Dios.
 Oh Dios, que escudriñas los corazones, Tú mismo eres el Dador; Tú infundiste misericordiosamente el anhelo por Ti en mi alma.
@@ -1223,7 +1223,7 @@ Cuando surge el deseo de separación, el hombre se convierte en un Digambar, per
 Los Sidhs estudian muchas posturas y desean fervientemente la riqueza y los trucos del poder sobrenatural.
 No están satisfechos ni contentos, ni la paz entra en sus mentes: es al encontrarse con los santos que el hombre se satisface, y por el nombre de Dios obtiene la perfección.
 
-<span id="p437">[<sup><small>pág. 437</small></sup>]</span>
+<span id="p337">[<sup><small>pág. 337</small></sup>]</span>
 
 Así como Dios creó a todos los hombres en igualdad de condiciones, así también ellos obtienen la salvación:
 

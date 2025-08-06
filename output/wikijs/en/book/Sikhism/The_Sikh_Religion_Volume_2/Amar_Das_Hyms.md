@@ -1461,7 +1461,7 @@ They who trust in God are not disappointed :—
 Without serving the true Guru peace is not obtained, and worldly love departeth not.
 However much we desire it, the True Guru is only found by good acts.
 They in whose hearts there is the sin of avarice are ruined by worldly love ;
-<span id="p250">[<sup><small>p. 250</small></sup>]</span> Their transmigration ceaseth not; they suffer misery from their pride.
+<span id="p210">[<sup><small>p. 210</small></sup>]</span> Their transmigration ceaseth not; they suffer misery from their pride.
 Of those who fix their hearts on the true Guru none 1s disappointed.
 Death summoneth not them for punishment, neither do they suffer misery.
 Nanak, the pious who are filled with the true Word shall be saved.
@@ -1482,7 +1482,7 @@ Only the friendship of the upright and holy ought to be valued :—
 
 That is sweet which is pleasing ; he is a friend who is upright. Nanak, he whom God enlhighteneth is a holy man.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p211">[<sup><small>p. 211</small></sup>]</span>
 
 However much man obtains, he hankers for more :—
 
