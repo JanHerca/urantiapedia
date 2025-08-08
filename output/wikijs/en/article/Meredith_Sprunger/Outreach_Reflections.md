@@ -63,7 +63,7 @@ I take your recommendations very seriously, but unfortunately at the moment I ca
 
 I would like to be informed of your work. Perhaps we might meet at the AAR convention in Atlanta.
 
-In summary, I believe we have established reasonably wise and effective foundations for outreach ministry with Christian Churches and the academic community. We have accomplished our goal of introducing _The Urantia Boo_k to mainline Christian leaders and scholars before fundamentalists have given the book major negative publicity.
+In summary, I believe we have established reasonably wise and effective foundations for outreach ministry with Christian Churches and the academic community. We have accomplished our goal of introducing _The Urantia Book_ to mainline Christian leaders and scholars before fundamentalists have given the book major negative publicity.
 
 I believe it is important to encourage scholarly evaluation of _The Urantia Book_. Most Urantian literalists and fundamentalists will not be happy with the results but such critical research is basic to the exposure and acceptance of the fifth epochal revelation by progressive members of the major religions of the world. Just as higher criticism laid the foundations for the modern creative study of the Bible, so must scholarly evaluation of _The Urantia Book_ open the way to the ecumenical study of the fifth epochal revelation by the growing edge of contemporary religion. From there it will filter down to the peoples of the world.
 

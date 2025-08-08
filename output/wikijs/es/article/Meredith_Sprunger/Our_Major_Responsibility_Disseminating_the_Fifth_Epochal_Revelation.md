@@ -39,7 +39,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         <td>
         </td>
         <a href="/es/article/Meredith_Sprunger/Outreach_Reflections">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones de divulgación</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la divulgación</span>
         </a>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
@@ -145,7 +145,7 @@ Así como fueron necesarios casi 1.800 años de desarrollo evolutivo para precip
         <td>
         </td>
         <a href="/es/article/Meredith_Sprunger/Outreach_Reflections">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones de divulgación</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la divulgación</span>
         </a>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">

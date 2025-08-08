@@ -64,7 +64,7 @@ The basic principles of the kingdom are:
 > 
 > _4\. The supreme satisfaction of the loving service of man._ Loving service is more important than the intellectual theology we have and the basis for fulfillment and happiness in life.
 > 
-> _5\. The transcendency of the spiritual over the material in human personality._ Spiritual realities through the mediation of our minds and our faith eventually dominate and shape our personalities in spite of material limitations or handicaps. [UB 170:4.7-11](/en/The_Urantia_Book/170#p4_7)
+> _5\. The transcendency of the spiritual over the material in human personality._ Spiritual realities through the mediation of our minds and our faith eventually dominate and shape our personalities in spite of material limitations or handicaps. [UB 170:4.9-13](/en/The_Urantia_Book/170#p4_9)
 
 Early Christianity was the most effective, appealing, and enduring cult ever devised in world history. It was largely founded on the religious experience and theological orientation of Paul. Even today the church is only meagerly Jesusonian. The enthusiasm engendered by the resurrection inadvertently led Paul and the early church into a new gospel _about_ Jesus in place of the original gospel message of the Fatherhood of God and the brother/sisterhood of humankind.
 

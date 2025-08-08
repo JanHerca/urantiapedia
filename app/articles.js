@@ -368,6 +368,12 @@ class Articles {
 							this.index.title = translation;
 							return;
 						}
+						const volume = this.items
+							.find(t => t.subtitle === title);
+						if (volume) {
+							volume.subtitle = translation;
+							return;
+						}
 						const item = this.items.find(t => t.line === i);
 						if (item) {
 							const [ititle, note] = translation.split('|');
@@ -376,18 +382,18 @@ class Articles {
 								this.index.notes[inote] = note;
 								inote++;
 							}
-						}
-						if (item.articles) {
-							issueAnchor = autoCorrect(translation, correction2)
-								.toLowerCase();
-							item.path = indexPath + '#' + issueAnchor;
-						} else if (item.path) {
-							item.path = 
-								item.path.replace('/en/', `/${lan}/`);
-						}
-						if (item.authorLink) {
-							item.authorLink =
-								item.authorLink.replace('/en/', `/${lan}/`);
+							if (item.articles) {
+								issueAnchor = autoCorrect(translation, correction2)
+									.toLowerCase();
+								item.path = indexPath + '#' + issueAnchor;
+							} else if (item.path) {
+								item.path = 
+									item.path.replace('/en/', `/${lan}/`);
+							}
+							if (item.authorLink) {
+								item.authorLink =
+									item.authorLink.replace('/en/', `/${lan}/`);
+							}
 						}
 					});
 				} else {
