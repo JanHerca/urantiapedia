@@ -306,7 +306,7 @@ Dieu regarde avec faveur, Nanak, ceux qui portent l'étendard de Son nom.
 L'infériorité des Védas face à l'enseignement du Guru —
 
 Les lecteurs des Védas ont rapporté des contes et des légendes _des dieux_, et ont défini des péchés et des vertus.
-Car ce que les hommes donnent, ils le reçoivent, et pour ce qu'ils reçoivent, ils le donnent[^13], et ils sont donc nés de nouveau soit en enfer, soit au ciel.
+Car ce que les hommes donnent, ils le reçoivent, et pour ce qu'ils reçoivent, ils le donnent[^14], et ils sont donc nés de nouveau soit en enfer, soit au ciel.
 Le monde erre dans le doute quant à ce que sont les castes et les espèces hautes et basses ;
 _Mais_ la parole ambroisie _du Guru_ parle de la Chose Réelle, et apporte la connaissance divine et la méditation ;
 Les pieux le disent, les pieux le savent ; ceux qui possèdent la connaissance divine le méditent et agissent en conséquence.
@@ -317,13 +317,13 @@ L’avenir de l’homme est déterminé par ses actes :
 
 Tels sont les actes d’un homme, tel il est : c’est une conséquence nécessaire ;
 Celui qui a les marques de la piété ne peut les perdre ; il doit conserver cette apparence.
-Celui qui agit selon la volonté de Dieu reçoit sa récompense ; Nanak, il est digne d'hommage.[^14]
+Celui qui agit selon la volonté de Dieu reçoit sa récompense ; Nanak, il est digne d'hommage.[^15]
 
 ## MALAR KI WAR
 
 La saison des pluies, pendant laquelle les indigènes de l'Inde se reposent habituellement, est considérée comme une période de plaisir :
 
-Sawan [^14] est venu, mes compagnons, pensez à l'Époux ;
+Sawan [^16] est venu, mes compagnons, pensez à l'Époux ;
 Nanak, la mauvaise épouse qui en aime un autre dépérira et mourra.
 
 <span id="p56">[<sup><small>p. 56</small></sup>]</span>
@@ -390,7 +390,7 @@ Nanak, celle qui est teinte de ton nom est une heureuse ruse ; ton nom est mon r
 
 ## Notes de bas de page
 
-[1^]: Ceci est, bien sûr, dit ironiquement.
+[^1]: Ceci est, bien sûr, dit ironiquement.
 
 [^2]: Tant qu'un homme est plongé dans les plaisirs du monde, il n'a ni pieds, ni bras, ni yeux pour servir Dieu.
 
