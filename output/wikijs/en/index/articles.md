@@ -171,6 +171,27 @@ It is worth remembering that the articles in all these publications have the quo
 			</div>
 		</div>
 	</div>
+	<!-- Fellowship Website -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Fellowship_Website.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Fellowship Website</div>
+			<div class="urantiapedia-card-text">
+				<div>Fellowship website contains a catalog of hundreds of articles and materials that can be of big help for Urantia Book readers. In the list collected here it is included all works that have been found valuable for readers, excluding content relative to internals about the association.</div>
+				<div><small>Sources: <a href="https://archive.urantiabook.org/linklist.html">Fellowship archive</a>, <a href="https://urantiabook.org/Urantia-Book-Movement-History">History archive</a>, <a href="https://urantiabook.org/Education-Committee-Resources">Education Resources</a>.</small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_fellowship" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/fellowship" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
 </div>
 
 

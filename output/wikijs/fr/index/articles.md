@@ -171,6 +171,27 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 			</div>
 		</div>
 	</div>
+	<!-- Fellowship Website -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Fellowship_Website.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Site web de la Fellowship</div>
+			<div class="urantiapedia-card-text">
+				<div>Le site web de la Fellowship propose un catalogue de centaines d'articles et de documents pouvant être d'une grande aide pour les lecteurs du Livre d'Urantia. La liste présentée ici inclut tous les ouvrages jugés utiles aux lecteurs, à l'exclusion du contenu relatif aux aspects internes de l'association.</div>
+				<div><small>Sources: <a href="https://archive.urantiabook.org/linklist.html">Fellowship archives</a>, <a href="https://urantiabook.org/Urantia-Book-Movement-History">Archives historiques</a>, <a href="https://urantiabook.org/Education-Committee-Resources">Ressources pédagogiques</a>.</small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/index/articles_fellowship" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/fellowship" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
 </div>
 
 
