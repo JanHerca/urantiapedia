@@ -3,7 +3,7 @@ title: "La mission mondiale du Livre d'Urantia"
 description:
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: The Urantia Book, Interfaith, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impératif du ministère de proximité</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -97,10 +97,10 @@ Un tel ministère pionnier n'est jamais facile ; il exige vision, courage, sages
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impératif du ministère de proximité</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

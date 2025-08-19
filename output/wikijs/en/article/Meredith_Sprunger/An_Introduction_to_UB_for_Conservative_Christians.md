@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Urantia_Book_Deviations_from_Traditional_Christian_Doctrine">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Deviations from Traditional Christian Doctrine</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -117,15 +117,18 @@ You will find that _The Urantia Book_ will stand the test of critical examinatio
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/urantia_christian_introduction.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Urantia_Book_Deviations_from_Traditional_Christian_Doctrine">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Deviations from Traditional Christian Doctrine</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

@@ -34,10 +34,10 @@ dateCreated: 2023-01-25T11:12:37.284Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprender el mal en la experiencia humana</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -98,6 +98,8 @@ El sólido núcleo del movimiento Urantia ha superado estas tribulaciones con re
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_21st_Century.htm)
 
+<br/>
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -124,10 +126,10 @@ El sólido núcleo del movimiento Urantia ha superado estas tribulaciones con re
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprender el mal en la experiencia humana</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

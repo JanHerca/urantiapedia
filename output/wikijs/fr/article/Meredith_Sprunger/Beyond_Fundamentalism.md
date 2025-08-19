@@ -37,10 +37,10 @@ dateCreated: 2022-9-9T8:13:38Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -89,6 +89,7 @@ L'évaluation scientifique montre que le fondamentalisme du Livre d'Urantia est 
 
 
 
+<br/>
 
 
 <figure class="table chapter-navigator">
@@ -119,10 +120,10 @@ L'évaluation scientifique montre que le fondamentalisme du Livre d'Urantia est 
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

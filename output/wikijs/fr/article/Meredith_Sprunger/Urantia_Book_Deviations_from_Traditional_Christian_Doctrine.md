@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus de Nazareth : Plan d'étude de sa vie et de ses enseignements</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -106,16 +106,18 @@ Mon opinion personnelle, après trente-cinq ans d’étude et d’évaluation, e
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/archive/mjs_archive/urantia_deviations_christian_theology.htm)
 
+<br/>
+
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus de Nazareth : Plan d'étude de sa vie et de ses enseignements</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

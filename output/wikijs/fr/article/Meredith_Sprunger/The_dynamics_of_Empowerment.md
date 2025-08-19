@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étapes majeures de croissance du Mouvement Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -86,6 +86,9 @@ Outre la factualisation de la croissance de l’âme, la maîtrise des cercles c
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_dynamics_of_empowerment.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -114,10 +117,10 @@ Outre la factualisation de la croissance de l’âme, la maîtrise des cercles c
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étapes majeures de croissance du Mouvement Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

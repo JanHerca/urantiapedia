@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Commission to Minister</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -115,6 +115,9 @@ Our intent is to prepare the soil for the advent of grass roots religious instit
 
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_future_of_fer.htm)
+
+<br/>
+
 
 <figure class="table chapter-navigator">
   <table>

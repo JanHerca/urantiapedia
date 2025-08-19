@@ -3,7 +3,7 @@ title: "Perspectives spirituelles pour un nouvel âge"
 description:
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: The Urantia Book, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/UB_and_Our_Christian_Heritage">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et notre héritage chrétien</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -113,15 +113,17 @@ Les auteurs du _Livre d'Urantia_ s'intéressent avant tout à la stimulation et 
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/archive/mjs_archive/mjs_spiritual_perspectives.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/UB_and_Our_Christian_Heritage">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et notre héritage chrétien</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

@@ -3,7 +3,7 @@ title: "Reflexiones sobre la divulgación"
 description:
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: Dissemination, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Preparing_for_Scholarly_Evaluation_of_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparación para la evaluación académica de El libro de Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -85,15 +85,18 @@ Afortunadamente, el futuro de la quinta revelación trascendental no depende de 
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_outreach_reflections.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Preparing_for_Scholarly_Evaluation_of_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparación para la evaluación académica de El libro de Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

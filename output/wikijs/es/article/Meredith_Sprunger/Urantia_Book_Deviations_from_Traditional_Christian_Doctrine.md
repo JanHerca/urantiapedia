@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús de Nazaret: Bosquejo para un estudio de su vida y enseñanzas</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -106,16 +106,18 @@ Mi opinión personal, después de treinta y cinco años de estudio y evaluación
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/urantia_deviations_christian_theology.htm)
 
+<br/>
+
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús de Nazaret: Bosquejo para un estudio de su vida y enseñanzas</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

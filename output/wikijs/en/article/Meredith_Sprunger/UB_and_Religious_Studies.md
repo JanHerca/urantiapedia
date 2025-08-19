@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Perspectives for a New Age</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -150,6 +150,8 @@ These are only a few of dozens of topics which are inspired by the stimulating a
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_religious_studies.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -178,10 +180,10 @@ These are only a few of dozens of topics which are inspired by the stimulating a
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Perspectives for a New Age</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

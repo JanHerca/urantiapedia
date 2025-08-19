@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du 21e siècle</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -155,15 +155,18 @@ dateCreated: 2023-11-04T14:02:03.086Z
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/archive/studyaid/study-of-jesus.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du 21e siècle</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

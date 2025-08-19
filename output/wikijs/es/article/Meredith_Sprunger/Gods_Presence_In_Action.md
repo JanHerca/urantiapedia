@@ -34,10 +34,10 @@ dateCreated: 2023-11-12T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra principal responsabilidad: difundir la quinta revelación de época</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -82,6 +82,9 @@ Fuerte Wayne, Indiana, EE.UU.
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_gods_presence.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -107,10 +110,10 @@ Fuerte Wayne, Indiana, EE.UU.
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra principal responsabilidad: difundir la quinta revelación de época</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

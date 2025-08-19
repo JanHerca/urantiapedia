@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dynamique de l'autonomisation</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -119,6 +119,9 @@ Les événements inattendus ont leur propre dynamique. En dehors du développeme
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_next_fifty_years.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -147,10 +150,10 @@ Les événements inattendus ont leur propre dynamique. En dehors du développeme
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dynamique de l'autonomisation</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

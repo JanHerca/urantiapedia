@@ -14,10 +14,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Interface_with_Mainline_Christianity">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conexión con el cristianismo tradicional</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -65,16 +65,17 @@ Los Altísimos están preparando nuestro planeta de forma extraordinaria para el
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_our_task%20.htm)
 
+<br/>
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Interface_with_Mainline_Christianity">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conexión con el cristianismo tradicional</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Urantia_Book_Deviations_from_Traditional_Christian_Doctrine">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desviaciones del Libro de Urantia respecto a la doctrina cristiana tradicional</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -117,15 +117,18 @@ Descubrirás que _El libro de Urantia_ superará la prueba del análisis crític
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/urantia_christian_introduction.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Urantia_Book_Deviations_from_Traditional_Christian_Doctrine">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desviaciones del Libro de Urantia respecto a la doctrina cristiana tradicional</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

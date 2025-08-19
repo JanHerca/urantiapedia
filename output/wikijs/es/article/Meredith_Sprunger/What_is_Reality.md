@@ -3,7 +3,7 @@ title: "¿Qué es la realidad?"
 description: "El libro de Urantia y la necesidad de profundizar en nuestra cosmología espiritual"
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: Realities, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Hope_for_an_Alienated_Society">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esperanza para una sociedad alienada</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -87,15 +87,17 @@ Thomas Dick, un filósofo religioso progresista de hace un siglo, comprendió la
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_what_is_reality.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Hope_for_an_Alienated_Society">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esperanza para una sociedad alienada</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

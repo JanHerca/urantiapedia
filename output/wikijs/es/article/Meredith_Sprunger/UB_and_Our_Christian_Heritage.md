@@ -3,7 +3,7 @@ title: "El libro de Urantia y nuestra herencia cristiana"
 description:
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: The Urantia Book, Christianity, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Universe_Christology_A_Transplanetary_Theory">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristología del Universo: Una Teoría Transplanetaria</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -81,15 +81,17 @@ Esperamos que estas razones te motiven a leer este libro. A través de sus pági
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_christian_heritage.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Universe_Christology_A_Transplanetary_Theory">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristología del Universo: Una Teoría Transplanetaria</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

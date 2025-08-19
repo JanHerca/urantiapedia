@@ -131,6 +131,8 @@ Ahora estamos entrando en la lucha intelectual-espiritual que tardó siglos en r
 
 El núcleo sólido del movimiento Urantia ha superado estas tribulaciones con dedicación y equilibrio renovados. Hemos alcanzado la mayoría de edad. La libertad espiritual y la democracia participativa nos han enseñado que puede haber unidad de propósito en medio de la diversidad intelectual y política. La Quinta revelación de Época se abrirá paso y superará cualquier barrera que se interponga en su camino. Estamos en el umbral de «una de las épocas más asombrosas y fascinantes de reajuste social, aceleración moral e iluminación espiritual» (<a id="a131_546"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) en nuestro planeta. Los avances preliminares y orientadores del crecimiento del movimiento Urantia han quedado en gran medida detrás de nosotros. Nos espera el potencial de una apasionante misión de divulgación de la Quinta Revelación de Época. Los Altísimos nos han preparado a nosotros y a nuestro planeta para la visión más emocionante de la realidad espiritual desde que Jesús de Nazaret caminó en nuestro mundo. ¡Esta misión de extensión será multifacética, pluralista y victoriosa!
 
+<br/>
+
 
 <figure class="table chapter-navigator">
   <table>

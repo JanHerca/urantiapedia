@@ -3,7 +3,7 @@ title: "Conexión con el cristianismo tradicional"
 description:
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Fellowship, article
+tags: Interfaith, Christianity, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_Dynamics_of_Inner_Spiritual_Guidance">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dinámica de la guía espiritual interior</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -51,7 +51,7 @@ El Dr. Wagner se puso en contacto con el reverendo Henry G. Kroehler, presidente
 > 
 > Como resultado de la discusión, se tomaron las siguientes acciones:
 > 
-> l. Moción presentada y secundada: "Se entiende que todo miembro de la Iglesia Grace reconocerá la autoridad y los procedimientos legales de la Iglesia Evangélica y Reformada. Cualquier queja se presentará primero ante nuestro Consistorio local. Si la decisión del Consistorio local no satisface a la persona o personas que presentan la queja, pueden apelar ante el Consejo Sinodal. Si la decisión del Consejo Sinodal no es satisfactoria, se puede apelar ante el Presidente de la Denominación.
+> l. Moción presentada y secundada: «Se entiende que todo miembro de la Iglesia Grace reconocerá la autoridad y los procedimientos legales de la Iglesia Evangélica y Reformada. Cualquier queja se presentará primero ante nuestro Consistorio local. Si la decisión del Consistorio local no satisface a la persona o personas que presentan la queja, pueden apelar ante el Consejo Sinodal. Si la decisión del Consejo Sinodal no es satisfactoria, se puede apelar ante el Presidente de la Denominación.
 > 
 > Si algún miembro desea presentar una acusación contra el ministro, deberá presentarla por escrito al Consejo Sinodal del Sínodo de Michigan-Indiana. Cualquier miembro que no siga este procedimiento legal estará sujeto a la acción judicial del Consejo Espiritual de la Iglesia de la Gracia. Votación aprobada por 13 votos a favor y 1 en contra.
 > 
@@ -101,17 +101,17 @@ Siguiendo el ejemplo de Jesús al acudir a Anás, quien ocupaba la cima del pode
 
 ## Lista parcial de actividades de divulgación de 1979 a 1999
 
-- Escribió «Interacción con la Iglesia». Este documento describe mi preparación para el ministerio de interacción con la Iglesia Cristiana y los objetivos de la Comunidad Cristiana de Estudiantes de _El libro de Urantia_. (17/5/79)
-- Escribió «Sobre la introducción de _El libro de Urantia_ a la iglesia cristiana». Este documento presenta una justificación para un ministerio de interfaz con la iglesia. (1 de junio de 1979)
-- Escribió «Una introducción sinóptica a _El libro de Urantia_». Este documento se preparó para debates con ministros sobre las siguientes áreas: Panorama general, Revelación, La doctrina de Dios, Cosmología, Cristología y el Plan de Salvación, La Iglesia y el Reino de los Cielos, y Oración y adoración. (10/3/80)
-- Escribió «Cristología del Universo: Una Visión Transplanetaria». Este artículo utiliza escritos teológicos contemporáneos para sustentar la cristología de El Libro de Urantia (10/4/80).
-- Realizó una reseña de _El libro de Urantia_ a profesores y estudiantes de la Universidad Indiana-Purdue y habló en varias clases de filosofía. (11/80)
-- Escribió «La doctrina de la expiación». Este artículo anticipa las críticas a la perspectiva de _El libro de Urantia_ sobre la teoría de la expiación por sangre, sostenida por los cristianos conservadores. (21/12/80)
+- Escribí «Interacción con la Iglesia». Este documento describe mi preparación para el ministerio de interacción con la Iglesia Cristiana y los objetivos de la Comunidad Cristiana de Estudiantes de _El libro de Urantia_. (17/5/79)
+- Escribí «Sobre la introducción de _El libro de Urantia_ a la iglesia cristiana». Este documento presenta una justificación para un ministerio de interfaz con la iglesia. (1 de junio de 1979)
+- Escribí «Una introducción sinóptica a _El libro de Urantia_». Este documento se preparó para debates con ministros sobre las siguientes áreas: Panorama general, Revelación, La doctrina de Dios, Cosmología, Cristología y el Plan de Salvación, La Iglesia y el Reino de los Cielos, y Oración y adoración. (10/3/80)
+- Escribí «Cristología del Universo: Una Visión Transplanetaria». Este artículo utiliza escritos teológicos contemporáneos para sustentar la cristología de El Libro de Urantia (10/4/80).
+- Realicé una reseña de _El libro de Urantia_ a profesores y estudiantes de la Universidad Indiana-Purdue y habló en varias clases de filosofía. (11/80)
+- Escribí «La doctrina de la expiación». Este artículo anticipa las críticas a la perspectiva de _El libro de Urantia_ sobre la teoría de la expiación por sangre, sostenida por los cristianos conservadores. (21/12/80)
 - Di reseñas de _El libro de Urantia_ en una clase de la Escuela Dominical de la Primera Iglesia Cristiana de Fort Wayne (14/12/80) y un poco más tarde en el grupo de hombres de la Iglesia Unitaria.
 - El 6 de enero de 1981 enviamos 83 cartas a los ministros principales de Muncie, Indiana, invitándolos a una revisión de _El libro de Urantia_ en la Universidad Estatal de Ball. Los pocos asistentes solicitaron préstamos de libros. Se contactó a varios profesores que mostraron interés.
 - En enero de 1981, iniciamos un grupo de discusión estudiantil en la Universidad de Indiana-Universidad de Purdue en Fort Wayne y publicamos un anuncio en el periódico estudiantil. Hablé con los estudiantes de las clases de filosofía del Dr. Mark Sheldon y del Dr. George Washington.
 - Se enviaron 350 cartas a los ministros principales de Indianápolis el 26/1/81 invitándolos a una reseña de _El libro de Urantia_ en el Centro Intereclesial de Indiana (2/81). La media docena de ministros que asistieron solicitaron libros en préstamo. Se contactó a varios profesores universitarios; algunos solicitaron libros en préstamo.
-- Escribió «La Iglesia: ¿Problema o Potencial?» el 5/5/81. Este documento, que utiliza conceptos de El libro de Urantia, se ha presentado en talleres en varias iglesias.
+- Escribí «La Iglesia: ¿Problema o Potencial?» el 5/5/81. Este documento, que utiliza conceptos de El libro de Urantia, se ha presentado en talleres en varias iglesias.
 - El 17/9/81 escribí una carta a la revista _Spiritual Counterfeits Project_ corrigiendo errores en esta reseña fundamentalista de _El libro de Urantia_. El editor se ofreció a dialogar, pero no lo hizo.
 - A finales de 1981, enviamos unas 40 cartas con folletos a los ministros locales, indicando que pediríamos una cita. El 60 % concertó una cita y casi todos querían libros prestados.
 - A finales de 1981, un donante se ofreció a financiar becas de investigación de _El libro de Urantia_ para estudiantes universitarios. Decidimos no hacerlo porque no nos gustaba la idea de pagar a gente para que leyera el libro.
@@ -124,11 +124,11 @@ Siguiendo el ejemplo de Jesús al acudir a Anás, quien ocupaba la cima del pode
 - El 1 de julio de 1983 publiqué un breve resumen de 29 páginas sobre las religiones del mundo. Necesitamos conocer y valorar a todos los grupos religiosos.
 - Entre 1983 y 1985 enviamos 8.000 cartas personales con folleto y tarjeta de respuesta a los ministros de la Iglesia Unida de Cristo. El 4% (más de 300) solicitó el préstamo de libros; alrededor de 90 compraron o recibieron libros. Un informe de este proyecto, titulado «Respuesta del clero tradicional a _El libro de Urantia_», se publicó el 1 de enero de 1986 y en un artículo de la revista (otoño de 1991), «El clero evalúa _El libro de Urantia_». La respuesta general fue positiva.
 - Durante este tiempo enviamos cartas personales con folletos a todos los ministros metodistas unidos en el estado de Indiana.
-- Envió cartas personales con folleto a 1500 maestros de las escuelas públicas de Fort Wayne con la oferta de préstamo de un libro. (1/84)
-- Habló en el Foro Religioso de la Universidad Indiana-Purdue sobre el tema «¿Qué es _El libro de Urantia_?» (7/11/84)
-- Presentó un trabajo en la reunión nacional de la Academia Americana de Religión en Anaheim, California, titulado «El libro de Urantia y los estudios religiosos», el 11 de noviembre de 1985.
+- Envié cartas personales con folleto a 1500 maestros de las escuelas públicas de Fort Wayne con la oferta de préstamo de un libro. (1/84)
+- Hablé en el Foro Religioso de la Universidad Indiana-Purdue sobre el tema «¿Qué es _El libro de Urantia_?» (7/11/84)
+- Presenté un trabajo en la reunión nacional de la Academia Americana de Religión en Anaheim, California, titulado «El libro de Urantia y los estudios religiosos», el 11 de noviembre de 1985.
 - El 30/4/86 enviamos 5000 cartas y un ejemplar de «El libro de Urantia y los estudios religiosos» a miembros de la Asociación Filosófica Americana, preguntándoles si estarían interesados en participar en la investigación sobre El libro de Urantia. Unos diez expresaron su interés.
-- Formó una Red de Clérigos lectores de _El libro de Urantia_ y publicó un boletín informativo. (11/86)
+- Formé una Red de Clérigos lectores de _El libro de Urantia_ y publicó un boletín informativo. (11/86)
 - Se envió una carta y un póster a los Departamentos de Religión o Filosofía de 2200 universidades para promocionar el «Premio de la Comunidad Cristiana en Investigación Religiosa». El tema de investigación fue: «Comparar y evaluar el concepto de Jesús sobre el Reino de Dios en la Biblia y El libro de Urantia». El primer premio: $1000, el segundo: $500, el tercer premio: $300 y del cuarto al décimo: $100. El proyecto se abandonó por falta de interés. Solo se recibieron cuatro artículos. (9/87)
 - El 9/10/87 envié una carta y los materiales pertinentes al presidente del Comité de Iglesia y Ministerio de la Asociación del Noreste de la Conferencia Indiana-Kentucky de la Iglesia Unida de Cristo, apoyando la solicitud de un ministro para ser miembro de la Asociación, quien estaba siendo interrogado sobre su interés en _El libro de Urantia_. El comité se mostró favorable a su membresía.
 - El 2 de diciembre de 1988 me pidieron que hiciera una reseña de _El libro de Urantia_ en la Escuela Dominical de la Iglesia Metodista Unida Leo. La respuesta fue positiva y se vendieron unos doce ejemplares.
@@ -189,17 +189,17 @@ Estamos entrando en una nueva era del ministerio de divulgación. El sólido nú
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_interface_mainline.htm)
 
-
+<br/>
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_Dynamics_of_Inner_Spiritual_Guidance">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dinámica de la guía espiritual interior</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

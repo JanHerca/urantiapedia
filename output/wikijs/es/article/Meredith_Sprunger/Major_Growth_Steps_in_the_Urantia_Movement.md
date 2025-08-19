@@ -3,7 +3,7 @@ title: "Pasos importantes de crecimiento en el Movimiento Urantia"
 description:
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: Urantia Movement, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Gods_Presence_in_Action">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La presencia de Dios en acción</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -83,6 +83,7 @@ Al mismo tiempo, ha crecido el anhelo entre los lectores de _El libro de Urantia
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_major_growth_in_movement.htm)
 
+<br/>
 
 
 <figure class="table chapter-navigator">
@@ -90,10 +91,10 @@ Al mismo tiempo, ha crecido el anhelo entre los lectores de _El libro de Urantia
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Gods_Presence_in_Action">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La presencia de Dios en acción</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

@@ -3,7 +3,7 @@ title: "La misión mundial de El libro de Urantia"
 description:
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: The Urantia Book, Interfaith, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El imperativo del ministerio de extensión</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -97,10 +97,10 @@ Este ministerio pionero nunca es fácil; exige visión, valentía, sabiduría y 
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_Imperative_of_Outreach_Ministry">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El imperativo del ministerio de extensión</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

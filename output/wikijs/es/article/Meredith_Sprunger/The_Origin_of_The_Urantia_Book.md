@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Leavening_Our_Religious_Heritage">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Levadura de nuestra herencia religiosa</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -87,15 +87,17 @@ Los acontecimientos asociados con el origen de _El Libro de Urantia_ no tienen n
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 -  [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_origin_of_ub.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Leavening_Our_Religious_Heritage">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Levadura de nuestra herencia religiosa</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

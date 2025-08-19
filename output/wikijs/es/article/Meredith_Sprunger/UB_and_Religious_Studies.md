@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas espirituales para una nueva era</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -148,6 +148,8 @@ Estos son sólo algunos de las docenas de temas inspirados en el material estimu
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 -  [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_religious_studies.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -176,10 +178,10 @@ Estos son sólo algunos de las docenas de temas inspirados en el material estimu
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas espirituales para una nueva era</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

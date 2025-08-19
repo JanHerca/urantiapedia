@@ -130,6 +130,9 @@ We are now entering the intellectual-spiritual struggle which took mainline Chri
 
 The solid core of the Urantia movement has come through these tribulations with renewed dedication and balance. We have come of age. Spiritual freedom and participatory democracy have taught us that there can be unity of purpose in the midst of intellectual and political diversity. The Fifth Epochal revelation will make its way and overcome any barriers placed in its way. We are standing at the threshold of “one of the most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” (<a id="a130_531"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) on our planet. The preliminary, orienting growth developments of the Urantia movement are largely behind us. The potential of an exciting outreach mission of the Fifth Epochal Revelation is awaiting us. The Most Highs have prepared us and our planet for the most thrilling vision of spiritual reality since Jesus of Nazareth walked on our world. This outreach mission will be manyfaceted, pluralistic, and victorious!
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Principles_of_Ministry">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios del Ministerio</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -110,6 +110,9 @@ Este profesor expresa la reacción que la mayoría de nosotros, los «profesiona
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_clergy_evaluate_II.htm)
 
+
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -138,10 +141,10 @@ Este profesor expresa la reacción que la mayoría de nosotros, los «profesiona
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Principles_of_Ministry">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios del Ministerio</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

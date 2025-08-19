@@ -34,10 +34,10 @@ dateCreated: 2023-11-12T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Major Responsibility: Disseminating the Fifth Epochal Revelation</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -82,6 +82,9 @@ Fort Wayne, Indiana, USA
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_gods_presence.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -107,10 +110,10 @@ Fort Wayne, Indiana, USA
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Major Responsibility: Disseminating the Fifth Epochal Revelation</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

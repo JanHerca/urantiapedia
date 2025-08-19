@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/The_World_Mission_of_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World Mission of The Urantia Book</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -123,6 +123,8 @@ Each of us must find the answer to this question in the quietness of our own sou
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_pioneers_in_new_age.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -151,10 +153,10 @@ Each of us must find the answer to this question in the quietness of our own sou
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/The_World_Mission_of_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World Mission of The Urantia Book</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

@@ -85,6 +85,7 @@ In closing this autobiographical odyssey of peak experiences, I should testify t
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_biographical_intro.htm)
 
+<br/>
 
 <figure class="table chapter-navigator">
   <table>

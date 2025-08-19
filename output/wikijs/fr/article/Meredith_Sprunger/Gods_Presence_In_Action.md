@@ -35,10 +35,10 @@ dateCreated: 2023-11-12T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre responsabilité majeure : diffuser la cinquième révélation d'époque</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -83,6 +83,9 @@ Fort Wayne, Indiana, États-Unis
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_gods_presence.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -108,10 +111,10 @@ Fort Wayne, Indiana, États-Unis
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre responsabilité majeure : diffuser la cinquième révélation d'époque</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

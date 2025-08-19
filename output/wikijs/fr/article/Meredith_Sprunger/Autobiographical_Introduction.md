@@ -86,6 +86,8 @@ Pour conclure cette odyssée autobiographique d'expériences marquantes, je voud
 - [Cet article](https://archive.urantiabook.org/archive/mjs_archive/mjs_biographical_intro.htm)
 
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

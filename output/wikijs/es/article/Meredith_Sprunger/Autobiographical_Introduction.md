@@ -50,7 +50,7 @@ Nuestras vidas se moldean a partir de nuestras experiencias cumbre. Estos episod
 
 Mi búsqueda del conocimiento y la verdad comenzó a temprana edad. Tengo un vívido recuerdo de cuando tenía cuatro años, de una imperiosa necesidad y un profundo anhelo por saber más sobre la vida. Estaba afuera, en el lado sur de nuestra casa, bajo un sol radiante. Recuerdo haberme dicho: «Hay algo en la vida que no entiendo, pero voy a descubrirlo».
 
-Estas oraciones del corazón tardan años en integrarse en nuestras mentes y moldear nuestras vidas. A lo largo del camino, experiencias cruciales se quedan grabadas en nuestra memoria. Alrededor de los ocho años, mi padre era el tesoro de nuestra iglesia. Tenía montones de monedas en la mesa del comedor. Un vaso estaba lleno de monedas de cincuenta centavos. Tomé varias y las escondí. Cuando mi padre contó el dinero, no coincidía con su conteo original. Se sintió muy perturbado y me buscó, diciéndome: «Meredith, ¿tomaste algo de este dinero?». Me sentí fatal, admití haberlo tomado y le mostré dónde lo había escondido. Esta humillante experiencia me hizo decidir no volver a hacer algo así.
+Estas oraciones del corazón tardan años en integrarse en nuestras mentes y moldear nuestras vidas. A lo largo del camino, experiencias cruciales se quedan grabadas en nuestra memoria. Alrededor de los ocho años, mi padre era el tesorero de nuestra iglesia. Tenía montones de monedas en la mesa del comedor. Un vaso estaba lleno de monedas de cincuenta centavos. Tomé varias y las escondí. Cuando mi padre contó el dinero, no coincidía con su conteo original. Se sintió muy perturbado y me buscó, diciéndome: «Meredith, ¿tomaste algo de este dinero?». Me sentí fatal, admití haberlo tomado y le mostré dónde lo había escondido. Esta humillante experiencia me hizo decidir no volver a hacer algo así.
 
 Cuando tenía nueve años, mi madre desarrolló cáncer de mama y sufrió terriblemente en las últimas etapas de la enfermedad antes de fallecer. Un año y medio después, el apéndice vermiforme de mi padre se reventó y, antes de la era de los antibióticos, se produjo una inflamación que le quitó la vida. Siempre recordaré a mi padre enfrentándose a la muerte, reuniéndonos a los cuatro hijos a su alrededor y diciéndonos que esperaba que siempre viviéramos vidas buenas y sinceras, siguiendo la guía de nuestro Padre celestial. La muerte de mis padres fue una dura confrontación que nos hizo reflexionar sobre la realidad. Recuerdo estar sentado en la sala durante el funeral de mi padre en casa, mirando por la ventana panorámica un rebaño de vacas pastando al sol, y diciéndome: «Ahora soy como esas vacas, sin nadie que me cuide excepto Dios».
 
@@ -85,6 +85,7 @@ Para cerrar esta odisea autobiográfica de experiencias cumbre, debo mencionar v
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_biographical_intro.htm)
 
+<br/>
 
 <figure class="table chapter-navigator">
   <table>

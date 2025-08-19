@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Outreach_Reflections">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la sensibilisation</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -115,6 +115,9 @@ Tout comme il a fallu près de 1 800 ans de développement évolutif pour préci
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_our_major_responsibility.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -143,10 +146,10 @@ Tout comme il a fallu près de 1 800 ans de développement évolutif pour préci
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Outreach_Reflections">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la sensibilisation</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

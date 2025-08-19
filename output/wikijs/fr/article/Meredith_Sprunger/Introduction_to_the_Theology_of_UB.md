@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/An_Introduction_to_UB_for_Conservative_Christians">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une introduction au Livre d'Urantia pour les chrétiens conservateurs</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -413,15 +413,18 @@ La cosmologie physique du Livre d’Urantia représente le meilleur de la connai
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/studies/intro_theo/index.html)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/An_Introduction_to_UB_for_Conservative_Christians">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une introduction au Livre d'Urantia pour les chrétiens conservateurs</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

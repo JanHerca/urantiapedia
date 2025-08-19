@@ -3,7 +3,7 @@ title: "El libro de Urantia: Cómo fermentar nuestra herencia religiosa"
 description:
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: Fellowship, article
+tags: The Urantia Book, Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Our_Task">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra tarea</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
@@ -75,15 +75,17 @@ El reino o la familia de Dios, que fue el centro de las enseñanzas de Jesús, e
 - [El archivo de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo](https://archive.urantiabook.org/archive/mjs_archive/mjs_leavening.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Our_Task">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra tarea</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#el-cristianismo-y-el-libro-de-urantia-los-ensayos-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>

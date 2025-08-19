@@ -34,10 +34,10 @@ dateCreated: 2023-01-25T11:12:37.284Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre le mal dans l'expérience humaine</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -98,6 +98,9 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_21st_Century.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -123,10 +126,10 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre le mal dans l'expérience humaine</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

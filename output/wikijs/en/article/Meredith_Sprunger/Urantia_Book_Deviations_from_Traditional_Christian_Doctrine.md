@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus of Nazareth: Outline for A Study of His Life and Teachings</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -106,16 +106,18 @@ My personal view, after thirty-five years of study and evaluation, is that the b
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/urantia_deviations_christian_theology.htm)
 
+<br/>
+
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Jesus_of_Nazareth_Outline_for_A_Study">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus of Nazareth: Outline for A Study of His Life and Teachings</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

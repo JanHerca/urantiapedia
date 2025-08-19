@@ -131,6 +131,7 @@ Nous entrons maintenant dans la lutte intellectuelle et spirituelle qui a pris d
 
 Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévouement et un équilibre renouvelés. Nous sommes devenus majeurs. La liberté spirituelle et la démocratie participative nous ont appris qu’il peut y avoir une unité d’objectif au milieu de la diversité intellectuelle et politique. La révélation de la Cinquième Époque fera son chemin et surmontera toutes les barrières placées sur son chemin. Nous nous trouvons au seuil de « l’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » (<a id="a131_590"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)) sur notre planète. Les développements de croissance préliminaires et orientateurs du mouvement Urantia sont en grande partie derrière nous. Le potentiel d’une passionnante mission de sensibilisation de la Cinquième Révélation d’Époque nous attend. Les Très Hauts nous ont préparés, nous et notre planète, à la vision la plus passionnante de la réalité spirituelle depuis que Jésus de Nazareth a marché sur notre monde. Cette mission de sensibilisation sera multiple, pluraliste et victorieuse !
 
+<br/>
 
 
 <figure class="table chapter-navigator">

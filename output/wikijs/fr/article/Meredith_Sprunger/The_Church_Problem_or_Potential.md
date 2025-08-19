@@ -3,7 +3,7 @@ title: "L’Église : problème ou potentiel ?"
 description: "Quel est le rôle des institutions religieuses dans la société ?"
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: Christianity, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/What_is_Reality">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que la réalité ?</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -72,7 +72,7 @@ L'Église institutionnalisée s'est substituée virtuellement à la conception d
 
 Aujourd'hui, l'Église est traditionalisée, dogmatisée et institutionnalisée. Sa créativité et sa croissance sont menacées par le formalisme, la surorganisation, l'intellectualisme et d'autres préoccupations non spirituelles. De ce fait, les Églises chrétiennes d'aujourd'hui constituent, inconsciemment et involontairement, de sérieux obstacles à la croissance spirituelle et à la concrétisation de la centralité des enseignements de Jésus.
 
-Les dangers des institutions religieuses
+## Les dangers des institutions religieuses
 
 L'institutionnalisation de la religion est socialement nécessaire et bénéfique, mais elle limite son pouvoir positif et accroît ses possibilités de nuire. Parmi les dangers d'une religion formalisée, on peut citer :
 
@@ -126,15 +126,17 @@ L'heure est peut-être venue de redécouvrir les fondements véritables et origi
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/archive/mjs_archive/mjs_church_prob_potent.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/What_is_Reality">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que la réalité ?</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

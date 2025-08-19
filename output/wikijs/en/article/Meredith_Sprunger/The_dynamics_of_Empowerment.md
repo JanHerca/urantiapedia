@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Major Growth Steps in the Urantia Movement</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -87,6 +87,9 @@ Next to factualizing soul growth along with mastering the cosmic circles of pers
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_dynamics_of_empowerment.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -115,10 +118,10 @@ Next to factualizing soul growth along with mastering the cosmic circles of pers
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Major Growth Steps in the Urantia Movement</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

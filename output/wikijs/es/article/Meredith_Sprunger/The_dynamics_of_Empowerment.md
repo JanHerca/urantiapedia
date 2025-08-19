@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principales pasos de crecimiento en el Movimiento Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -86,6 +86,9 @@ Además de materializar el crecimiento del alma junto con el dominio de los cír
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_dynamics_of_empowerment.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -114,10 +117,10 @@ Además de materializar el crecimiento del alma junto con el dominio de los cír
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/Major_Growth_Steps_in_the_Urantia_Movement">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principales pasos de crecimiento en el Movimiento Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

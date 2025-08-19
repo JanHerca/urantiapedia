@@ -37,10 +37,10 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose of Revelation</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -101,6 +101,9 @@ In concluding our thinking about prayerful problem solving, we should remember t
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_prayerful_problem_solving.htm)
 
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -129,10 +132,10 @@ In concluding our thinking about prayerful problem solving, we should remember t
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose of Revelation</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

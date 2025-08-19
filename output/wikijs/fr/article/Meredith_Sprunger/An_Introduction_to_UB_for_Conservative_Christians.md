@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Urantia_Book_Deviations_from_Traditional_Christian_Doctrine">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déviations du Livre d'Urantia par rapport à la doctrine chrétienne traditionnelle</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
@@ -117,15 +117,18 @@ Vous constaterez que _Le Livre d'Urantia_ résistera à l'épreuve d'un examen c
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/archive/mjs_archive/urantia_christian_introduction.htm)
 
+<br/>
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Urantia_Book_Deviations_from_Traditional_Christian_Doctrine">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déviations du Livre d'Urantia par rapport à la doctrine chrétienne traditionnelle</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>

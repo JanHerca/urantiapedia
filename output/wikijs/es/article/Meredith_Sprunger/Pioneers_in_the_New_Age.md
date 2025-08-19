@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_World_Mission_of_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La misión mundial de El libro de Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -123,6 +123,8 @@ Cada uno de nosotros debe encontrar la respuesta a esta pregunta en la tranquili
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 -  [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_pioneers_in_new_age.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -151,10 +153,10 @@ Cada uno de nosotros debe encontrar la respuesta a esta pregunta en la tranquili
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_World_Mission_of_UB">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La misión mundial de El libro de Urantia</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>

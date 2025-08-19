@@ -3,7 +3,7 @@ title: "The Church: Problem or Potential?"
 description: "What is the Role of Religious Institutions in Society?"
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: Fellowship, article
+tags: Christianity, Fellowship, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
@@ -14,10 +14,10 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/What_is_Reality">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Reality?</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>
@@ -72,7 +72,7 @@ The institutionalized church became a virtual substitute for Jesus' concept of t
 
 Today the church has been traditionalized, dogmatized, and institutionalized. Its creativity and growth are threatened by formalism, over organization, intellectualism, and other nonspiritual preoccupations. As a result the Christian Churches of today, unconsciously and unintentionally, stand as great obstacles to spiritual growth and the actualization of the centrality of the teachings of Jesus.
 
-Dangers of Religious Institutions
+## Dangers of Religious Institutions
 
 The institutionalization of religion is socially necessary and good but in doing so religious power for good is curtailed and its possibilities for evil are increased. Some of the dangers of formalized religion are:
 
@@ -126,15 +126,17 @@ The hour may be striking for a rediscovery of the true and original foundations 
 - [The Meredith J. Sprunger Archive](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [This article](https://archive.urantiabook.org/archive/mjs_archive/mjs_church_prob_potent.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/en/article/Meredith_Sprunger/What_is_Reality">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Reality?</span>
         </a>
+        </td>
         <td>
         <a href="/en/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Urantia Book Fellowship website — Index</span>

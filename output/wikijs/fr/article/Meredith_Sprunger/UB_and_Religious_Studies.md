@@ -37,10 +37,10 @@ dateCreated: 2023-09-29T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives spirituelles pour un nouvel âge</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>
@@ -148,6 +148,8 @@ Ce ne sont là que quelques-uns parmi des dizaines de sujets inspirés par le ma
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article sur le site Web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/mjs_archive/mjs_religious_studies.htm)
 
+<br/>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -176,10 +178,10 @@ Ce ne sont là que quelques-uns parmi des dizaines de sujets inspirés par le ma
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/fr/article/Meredith_Sprunger/Spiritual_Perspectives_for_a_New_Age">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives spirituelles pour un nouvel âge</span>
         </a>
+        </td>
         <td>
         <a href="/fr/index/articles_fellowship#le-christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fraternité du Livre d'Urantia — Index</span>

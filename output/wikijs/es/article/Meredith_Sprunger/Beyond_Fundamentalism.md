@@ -37,10 +37,10 @@ dateCreated: 2022-9-9T8:13:38Z
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El impacto cultural de El libro de Urantia en los próximos cincuenta años</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
@@ -87,6 +87,7 @@ La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ 
 - [El Archivo Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Este artículo en el sitio web de The Urantia Book Fellowship](https://archive.urantiabook.org/archive/mjs_archive/mjs_beyond_fundamentalism.htm)
 
+<br/>
 
 
 <figure class="table chapter-navigator">
@@ -117,10 +118,10 @@ La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ 
     <tbody>
       <tr>
         <td>
-        </td>
         <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El impacto cultural de El libro de Urantia en los próximos cincuenta años</span>
         </a>
+        </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
