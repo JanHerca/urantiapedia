@@ -43,7 +43,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
         </a>
         </td>
         <td>
@@ -69,9 +69,9 @@ A mediados y finales de la década de 1950, un grupo de ministros de la Iglesia 
 Nuestro grupo ya estaba investigando esta cuestión y continuamos investigando a fondo la historicidad de _El Libro de Urantia_. Rápidamente descubrimos que los artículos fueron recibidos por un pequeño grupo de personas en Chicago bajo el liderazgo del Dr. William S. Sadler. El Dr. Sadler era un psiquiatra muy respetado al que a veces se hace referencia como el padre de la psiquiatría estadounidense. Durante muchos años enseñó en la Escuela de Postgrado de Medicina de la Universidad de Chicago y durante casi treinta años fue profesor de Consejería Pastoral en el Seminario Teológico McCormick.
 
 
-## La mente en travesuras
+## Travesuras de la Mente
 
-Al investigar libros escritos por el Dr. Sadler, descubrimos material relevante en _The Mind at Mischief_, Funk & Wagnalls, 1929. El subtítulo del libro es «Trucos y engaños del subconsciente y cómo afrontarlos». En el libro, el Dr. Sadler presenta su visión de los fenómenos mediúmnicos. Sobre la base de una investigación considerable, sostiene que todos los médiums que estudió eran víctimas fraudulentas o autoengañadas de la actividad mental subconsciente en la que su alter ego les aparecía como una fuente de conocimiento del mundo espiritual. Un caso no encajaba en esta clasificación. No hay duda de que este individuo era el hombre cuya mente superconsciente, según afirma _El Libro de Urantia_, se utilizó de alguna manera en la materialización de los Documentos de Urantia. En el apéndice de The Mind at Mischief, el Dr. Sadler describe este caso atípico:
+Al investigar libros escritos por el Dr. Sadler, descubrimos material relevante en _The Mind at Mischief_ ([_Travesuras de la Mente_](/es/book/William_S_Sadler/The_Mind_at_Mischief)), Funk & Wagnalls, 1929. El subtítulo del libro es «Trucos y engaños del subconsciente y cómo afrontarlos». En el libro, el Dr. Sadler presenta su visión de los fenómenos mediúmnicos. Sobre la base de una investigación considerable, sostiene que todos los médiums que estudió eran víctimas fraudulentas o autoengañadas de la actividad mental subconsciente en la que su alter ego les aparecía como una fuente de conocimiento del mundo espiritual. Un caso no encajaba en esta clasificación. No hay duda de que este individuo era el hombre cuya mente superconsciente, según afirma _El Libro de Urantia_, se utilizó de alguna manera en la materialización de los Documentos de Urantia. En el apéndice de The Mind at Mischief, el Dr. Sadler describe este caso atípico:
 
 > En la discusión sobre médiums fraudulentos o psíquicos autoengañados, el lector de este libro se ha topado varias veces con la afirmación de que había ciertas excepciones a las acusaciones generales allí formuladas, y se refirió a este apéndice. Ahora es mi deber explicar lo que tenía en mente cuando se insertaron esas notas a pie de página...
 > 
@@ -191,7 +191,7 @@ _The Spiritual Fellowship Journal_ surgió de la Red del Clero de la Christian F
         </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
         </a>
         </td>
         <td>

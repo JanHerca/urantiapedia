@@ -34,7 +34,7 @@ Antes, alrededor del año 1000 a.C. No había mucha escritura entre los judíos.
 2. Probablemente no compuesta por Deborah. Hay dos relatos: la versión en prosa en [Jueces 4](/es/Bible/Judges/4) y la versión poética en [Cap. 5](/es/Bible/Judges/5).
 3. Las fuertes lluvias y las tormentas inutilizaron los carros cananeos, por lo que fueron derrotados y masacrados.
 4. Débora era una juez sabia. Los hebreos dieron a las mujeres más reconocimiento en aquellos días que más adelante en su historia nacional. Débora era profetisa además de juez.
-5. Entre las porciones más antiguas del Antiguo Testamento se encuentran poemas citados de los libros perdidos de [Stgher](https://www.sacred-texts.com/chr/apo/jasher/index.htm), Libro de la palabra de Yahweh, etc. Ver [Josué 10:12-14](/es/Biblia/Joshua/10#v12).
+5. Entre las porciones más antiguas del Antiguo Testamento se encuentran poemas citados de los libros perdidos de [Stgher](https://www.sacred-texts.com/chr/apo/jasher/index.htm), Libro de la palabra de Yahweh, etc. Ver [Josué 10:12-14](/es/Bible/Joshua/10#v12).
 6. La prosa más antigua del Antiguo Testamento es probablemente la [narrativa del establecimiento del reino de David](/es/Bible/2_Samuel/5).
 7. Luego vienen las [historias de Elías](/es/Bible/1_Kings/17) y el reinado de [Jehú](/es/Bible/1_Kings/19#v16). 842-815 a.C.
 8. La escritura de los libros históricos del Antiguo Testamento comenzó alrededor del año 600 a.C. Tuvieron acceso al libro perdido de «Los Hechos de los Reyes de Judá e Israel». [II Crónicas 25:26](/es/Bible/2_Chronicles/25#v26).

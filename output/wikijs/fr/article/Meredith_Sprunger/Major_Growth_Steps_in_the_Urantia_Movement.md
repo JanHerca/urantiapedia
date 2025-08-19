@@ -14,7 +14,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_in_Action">
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_In_Action">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La présence de Dieu en action</span>
         </a>
         </td>
@@ -91,7 +91,7 @@ Parallèlement, les lecteurs du _Livre d'Urantia_ recherchent de plus en plus un
     <tbody>
       <tr>
         <td>
-        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_in_Action">
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_In_Action">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La présence de Dieu en action</span>
         </a>
         </td>

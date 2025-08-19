@@ -69,7 +69,7 @@ The chairperson of the commission authoring the Jesus papers states, “_The mem
 
 _The Urantia Book_ authors further discourage any ‘literalism’ concepts by stating that the angels of the churches and the angels of progress disagreed on how to report Jesus’ teachings at Urmia because of the great difference in planetary affairs at the time the lectures were given and twentieth-century religious and political conditions. At various places in _The Urantia Book_ the authors will inject a phrase like “_stated in modern phraseology,_” or “_in terms of modern thought,_” or “from the standpoint of the twentieth-century.” They discourage any assumptions of infallibility by remarking, “_we do not know,_” “_we surmise,_” “_we conjecture_” or “_we are of the opinion._” The authority of revelation is not established by dogmatic assertions of “_literal inspiration_” or “_infallibility_” but by its truth recognition in the minds and hearts of people.
 
-> ***Is Fundamentalism compatible with a Religion of the Spirit? ***
+> ***Is Fundamentalism compatible with a Religion of the Spirit?***
 > 
 > The religions of authority can only divide men and set them in conscientious array against each other; the religion of the spirit will progressively draw men together and cause them to become understandingly sympathetic with one another. (<a id="a50_241"></a>[UB 155:6.9](/en/The_Urantia_Book/155#p6_9))
 

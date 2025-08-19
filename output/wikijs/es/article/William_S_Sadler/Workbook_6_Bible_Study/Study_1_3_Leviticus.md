@@ -127,7 +127,7 @@ Azazel se menciona en el libro de Enoc como el «líder de los espíritus malign
 3. **Alimentos de origen animal**. «‘Estos son los seres vivientes que podéis comer... Entre los animales, cualquiera que tenga pezuña hendida, y que rumia, podréis comer.’» [11:2,3](/es/Bible/Leviticus/11#v2).
 4. **Porcino**. «‘El cerdo, porque tiene pezuña hendida y patas hendidas, pero no rumia, os será inmundo.’» [11:7](/es/Bible/Leviticus/11#v7).
 5. **Mariscos**. «‘Esto podréis comer de todo lo que está en las aguas. Todo...que tenga aletas y escamas...podéis comer.’» [11:9](/es/Bible/Leviticus/11#v9) .
-6. **Los insectos**. «‘Entre los insectos alados que andan en cuatro patas, podréis comer los que tienen patas por encima de los pies...la langosta...el grillo...y el saltamontes.’» [11:20-22](/es/Biblia/Leviticus/11#v20).
+6. **Los insectos**. «‘Entre los insectos alados que andan en cuatro patas, podréis comer los que tienen patas por encima de los pies...la langosta...el grillo...y el saltamontes.’» [11:20-22](/es/Bible/Leviticus/11#v20).
 7. **Otros animales inmundos**. «‘Estos os serán inmundos... la comadreja, el ratón, el gran lagarto... la salamanquesa, el cocodrilo terrestre, el lagarto, el lagarto de arena y el camaleón.’» [11:29,30](/es/Bible/Leviticus/11#v29).
 8. **Santidad**. «‘Sed, pues, santos, porque yo soy santo’». [11:45](/es/Bible/Leviticus/11#v45).
 9. **Parto**. «‘Si una mujer... da a luz un hijo varón, será inmunda durante siete días... Continuará durante treinta y tres días... Si da a luz una niña, será inmunda durante dos semanas... .y continuarán… sesenta y seis días.’» [12:2-5](/es/Bible/Leviticus/12#v2).

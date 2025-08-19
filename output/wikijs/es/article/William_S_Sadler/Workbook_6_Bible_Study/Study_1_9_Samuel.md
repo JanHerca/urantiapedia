@@ -198,7 +198,7 @@ Antes de la Septuaginta, Primero y Segundo de Samuel formaban un solo libro.
 ### 1 Samuel
 
 1. **Samuel crece**. «Ahora el niño Samuel seguía creciendo en estatura y en favor ante el Señor y ante los hombres». [2:26](/es/Bible/1_Samuel/2#v26).
-2. **Eli escucha malas noticias**. «‘Israel ha huido delante de los filisteos, y también ha habido gran matanza...Tus dos hijos también...murieron, y el arca de Dios ha sido capturada.’» [4:17](/es/Biblia/1_Samuel/4#v17).
+2. **Eli escucha malas noticias**. «‘Israel ha huido delante de los filisteos, y también ha habido gran matanza...Tus dos hijos también...murieron, y el arca de Dios ha sido capturada.’» [4:17](/es/Bible/1_Samuel/4#v17).
 3. **Regreso del arca**. «‘Envía el arca del Dios de Israel, y que vuelva a su lugar, para que no nos mate a nosotros ni a nuestro pueblo.’» [5:11](/es/Bible/1_Samuel/5#v11) .
 4. **Clamor por un rey**. «‘Tú eres viejo...ahora nombranos un rey que nos gobierne como todas las naciones.’» [8:5](/es/Bible/1_Samuel/8#v5).
 5. **Saúl ungido**. «Entonces Samuel tomó una copa de aceite y la derramó sobre su cabeza, y lo besó y dijo: ‘¿No te ha ungido Jehová por príncipe sobre su pueblo Israel?’» [10:1](/es/Bible/1_Samuel/10#v1).

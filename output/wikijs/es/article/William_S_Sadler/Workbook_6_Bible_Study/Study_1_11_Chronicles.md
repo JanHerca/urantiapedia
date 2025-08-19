@@ -155,7 +155,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. **Salomón**. «Él me construirá una casa y yo afirmaré su trono para siempre». [17:12](/es/Bible/1_Chronicles/17#v12).
 7. **Realización del censo**. «Satanás se levantó contra Israel e incitó a David a contar a Israel». [21:1](/es/Bible/1_Chronicles/21#v1).
 	«Entonces el Señor envió pestilencia sobre Israel, y cayeron setenta mil hombres». [21:14](/es/Bible/1_Chronicles/21#v14).
-8. **David se prepara para el templo**. «David dijo: ‘Salomón mi hijo es joven e inexperto, y la casa que se ha de edificar para el Señor debe ser en gran manera magnífica... Por tanto, haré preparativos para ella.’» [22:5](/es/Biblia/1_Chronicles/22#v5).
+8. **David se prepara para el templo**. «David dijo: ‘Salomón mi hijo es joven e inexperto, y la casa que se ha de edificar para el Señor debe ser en gran manera magnífica... Por tanto, haré preparativos para ella.’» [22:5](/es/Bible/1_Chronicles/22#v5).
 9. **Admonición de David**. «Entonces David dijo a Salomón...‘Esfuérzate y cobra ánimo...porque Jehová Dios...está contigo. Él no te dejará ni te desamparará, hasta que se termine toda la obra para el servicio de la casa de Consumado es el Señor.’» [28:20](/es/Bible/1_Chronicles/28#v20).
 
 ### 2 Crónicas

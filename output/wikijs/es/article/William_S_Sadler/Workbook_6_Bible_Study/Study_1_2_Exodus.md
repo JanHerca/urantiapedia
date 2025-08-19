@@ -151,21 +151,21 @@ dateCreated: 2022-10-08T14:02:03.086Z
 4. **La zarza ardiente**. «Y el ángel del Señor se le apareció en una llama de fuego en medio de una zarza; y él miró, y he aquí, la zarza ardía, pero no se consumía». [3:2](/es/Bible/Exodus/3#v2).
 5. **YO SOY**. «Dios dijo a Moisés: ‘YO SOY EL QUE SOY’.» [3:14](/es/Bible/Exodus/3#v14).
 6. **Tartamudeo de Moisés**. «Pero Moisés dijo...‘No soy elocuente...soy tardo en el habla.’» [4:10](/es/Bible/Exodus/4#v10).
-7. **Ante el Faraón**. «Moisés y Aarón fueron a Faraón y le dijeron: ‘Así dice el Señor, Dios de Israel: Deja ir a mi pueblo, para que me celebre fiesta en el desierto.’» [5:1](/es/Biblia/Exodus/5#v1).
+7. **Ante el Faraón**. «Moisés y Aarón fueron a Faraón y le dijeron: ‘Así dice el Señor, Dios de Israel: Deja ir a mi pueblo, para que me celebre fiesta en el desierto.’» [5:1](/es/Bible/Exodus/5#v1).
 8. **Endureciendo el corazón de Faraón**. «‘Pero yo endureceré el corazón de Faraón... Faraón no te escuchará.’» [7:3](/es/Bible/Exodus/7#v3).
 9. **La reputación de Moisés**. «Era muy grande Moisés hombre en la tierra de Egipto». [11:3](/es/Bible/Exodus/11#v3).
 10. **La Pascua**. «‘Es la pascua del Señor. Porque aquella noche pasaré por la tierra de Egipto, y heriré a todo primogénito de la tierra.’» [12:11,12](/es/Bible/Exodus/12#v11).
 11. **Consagración del primogénito**. «El Señor dijo a Moisés: Conságrame todo primogénito... así del hombre como de la bestia.» [13:1](/es/Bible/Exodus/13#v1).
 12. **La columna de nube**. «La columna de nube de día y la columna de fuego de noche no se apartaban de delante del pueblo». [13:22](/es/Bible/Exodus/13#v22).
-13. **La salvación del Señor**. «Y Moisés dijo al pueblo: No temáis, estad firmes y ved la salvación de Jehová... porque a los egipcios que veis hoy, no los volveréis a ver nunca más.» [14:13](/es/Biblia/Exodus/14#v13).
+13. **La salvación del Señor**. «Y Moisés dijo al pueblo: No temáis, estad firmes y ved la salvación de Jehová... porque a los egipcios que veis hoy, no los volveréis a ver nunca más.» [14:13](/es/Bible/Exodus/14#v13).
 14. **Secando el Mar Rojo**. «Entonces Moisés extendió su mano sobre el mar, y el Señor hizo retroceder el mar con un fuerte viento del este durante toda la noche, y convirtió el mar en tierra seca». [14:21](/es/Bible/Exodus/14#v21).
 15. **El maná**. «Entonces Jehová dijo a Moisés: He aquí, yo os haré llover pan del cielo, y el pueblo saldrá y recogerá cada día la ración de un día.’» [16:4](/es/Bible/Exodus/16 #v4).
-16. **Agua de la roca**. «‘He aquí, yo estaré delante de ti allí sobre la peña en Horeb; y golpearás la peña, y de ella saldrá agua, para que beba el pueblo.’» [17:6](/es/Bible/Éxodo/17#v6).
+16. **Agua de la roca**. «‘He aquí, yo estaré delante de ti allí sobre la peña en Horeb; y golpearás la peña, y de ella saldrá agua, para que beba el pueblo.’» [17:6](/es/Bible/Exodus/17#v6).
 17. **Los Diez Mandamientos**. «Entonces Dios habló todas estas palabras, diciendo: Yo soy Jehová tu Dios... No tendrás dioses ajenos delante de mí.» [20:1-3](/es/Bible/Exodus/20#v1).
-18. **Moisés recibe la ley**. «El Señor dijo a Moisés: Sube a mí al monte, y espera allí; y yo te daré tablas de piedra, con la ley y los mandamientos.’» [24:12](/es/Bible/Éxodo/24#v12).
+18. **Moisés recibe la ley**. «El Señor dijo a Moisés: Sube a mí al monte, y espera allí; y yo te daré tablas de piedra, con la ley y los mandamientos.’» [24:12](/es/Bible/Exodus/24#v12).
 19. **Moisés en la montaña**. «Y Moisés entró en la nube y subió al monte. Y estuvo Moisés en el monte cuarenta días y cuarenta noches». [24:18](/es/Bible/Exodus/24#v18).
 20. **El tabernáculo**. «Y hagan de mí un santuario, para que habite en medio de ellos.’» [25:8](/es/Bible/Exodus/25#v8).
-21. **El sacerdocio**. «‘Y las pondrás sobre Aarón tu hermano, y sobre sus hijos con él, y los ungirás y ordenarás y santificarás para que me sirvan como sacerdotes.’» [28:41](/es/Bible/Éxodo/28#v41).
+21. **El sacerdocio**. «‘Y las pondrás sobre Aarón tu hermano, y sobre sus hijos con él, y los ungirás y ordenarás y santificarás para que me sirvan como sacerdotes.’» [28:41](/es/Bible/Exodus/28#v41).
 22. **Dios se arrepiente**. «Y el Señor se arrepintió del mal que pensaba hacer a su pueblo». [32:14](/es/Bible/Exodus/32#v14).
 23. **La tienda de reunión**. «Ahora bien, Moisés tomaba la tienda y la levantaba fuera del campamento... y la llamaba tienda de reunión». [33:7](/es/Bible/Exodus/33#v7).
 24. **Tabernáculo terminado**. «Así quedó terminada toda la obra del tabernáculo de la tienda de reunión; y los hijos de Israel habían hecho conforme a todo lo que Jehová había mandado.» [39:32](/es/Bible/Exodus/39#v32).

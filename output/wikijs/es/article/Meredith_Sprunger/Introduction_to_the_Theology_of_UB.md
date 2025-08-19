@@ -91,7 +91,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 1. El Padre Universal es el Dios de toda la creación. [LU 1:0.1](/es/The_Urantia_Book/1#p0_1) Dios es espíritu y debemos pensar en Él como el creador, controlador y sustentador infinito de todas las cosas. [LU 1:3.1](/es/The_Urantia_Book/1#p3_1) En la ciencia, Dios es considerado una causa, en la filosofía una realidad última y en la religión un Padre amoroso. [LU 4:4.7](/es/The_Urantia_Book/4#p4_7)
 2. Dios es una persona que puede conocer y ser conocido; es la fuente de la personalidad. [LU 1:5.16](/es/The_Urantia_Book/1#p5_16) La conducta de Dios es personal: consciente y volitiva. No es esclavo de su propia perfección e infinitud. [LU 12:7.6](/es/The_Urantia_Book/12#p7_6)
 3. Dios no es solo sinónimo de naturaleza, ley, belleza o amor. No es la obra más noble del hombre, ni se asemeja a un ser humano ni a una máquina. Es una realidad trascendente. [LU 1:2.1](/es/The_Urantia_Book/1#p2_1)
-4. Dios es infinito, eterno, justo, amoroso, misericordioso, omnipotente, omnipresente, omnisciente y primordial. [Véase Documento 3](/es/El_Libro_de_Urantia/3)
+4. Dios es infinito, eterno, justo, amoroso, misericordioso, omnipotente, omnipresente, omnisciente y primordial. [Véase Documento 3](/es/The_Urantia_Book/3)
 5. Dios es quien otorga la personalidad y mora en nosotros. En Él vivimos, nos movemos y existimos. [LU 5:6.1](/es/The_Urantia_Book/5#p6_1), [LU 12:7.12](/es/The_Urantia_Book/12#p7_12)
 
 <a id="synopsis_part3C"></a>
@@ -99,7 +99,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ### II. Dios el Hijo
 
 1. El Hijo es la naturaleza espiritual y personal de Dios manifestada a los universos. [LU 6:7.3](/es/The_Urantia_Book/6#p7_3) Él es el Verbo eterno de Dios. [LU 6:1.4](/es/The_Urantia_Book/6#p1_4), [LU 12:7.12](/es/The_Urantia_Book/12#p7_12) El Hijo Eterno es el gran ministro de misericordia para toda la creación. [LU 6:2.2](/es/The_Urantia_Book/6#p2_2)
-  - «El Hijo Eterno es una revelación completa, exclusiva, universal y final del espíritu y la personalidad del Padre Universal.» [LU 77:7.1](/es/El_Libro_de_Urantia/77#p7_1)
+  - «El Hijo Eterno es una revelación completa, exclusiva, universal y final del espíritu y la personalidad del Padre Universal.» [LU 77:7.1](/es/The_Urantia_Book/77#p7_1)
 2. La atracción gravitatoria espiritual del Hijo Eterno constituye el secreto de la ascensión al Paraíso de los mortales supervivientes. [LU 7:3.2](/es/The_Urantia_Book/7#p3_2)
 3. Los Hijos del Hijo Eterno pueden encarnarse en semejanza de carne mortal. [LU 7:5.4](/es/The_Urantia_Book/7#p5_4)
 
@@ -149,7 +149,7 @@ VI. El Concepto YO SOY - La Primera Fuente y Centro
   6. El Absoluto No Cualificado: la fuente de los potenciales estático-reactivos y de capacidad infinita del universo.
   7. El Absoluto Universal: la fuente de la unidad e integración del universo. [LU 105:1.1](/es/The_Urantia_Book/105#p1_1)
 3. Dios, como la Primera Fuente y Centro, es primordial en relación con la realidad total y está limitado únicamente por la voluntad. [LU 0:12.2](/es/The_Urantia_Book/0#p12_2)
-  - «La Primera Fuente y Centro es esa infinitud que trasciende incondicionalmente toda mente, toda materia, todo espíritu.» [LU 1:7.7](/es/El_Libro_de_Urantia/1#p7_7)
+  - «La Primera Fuente y Centro es esa infinitud que trasciende incondicionalmente toda mente, toda materia, todo espíritu.» [LU 1:7.7](/es/The_Urantia_Book/1#p7_7)
 
 ### VII. Resumen
 
@@ -296,8 +296,8 @@ La cosmología física del Libro de Urantia representa lo mejor del conocimiento
 1. A pesar de sus limitaciones, el cristianismo es la mejor religión del siglo XX. Es uno de los mayores poderes para el bien en la Tierra. [LU 195:10.9](/es/The_Urantia_Book/195#p10_9) 
 2. La iglesia es la etapa larval del reino espiritual frustrado. El reino inaugurado por Jesús sigue vivo y emergerá como la fuerza espiritual dominante en nuestro planeta. [LU 170:5.21](/es/The_Urantia_Book/170#p5_21)
 3. Vivimos en uno de los períodos cruciales de la historia.  
-  - Ha llegado la hora de redescubrir los verdaderos y originales fundamentos del cristianismo actual, distorsionado y comprometido: la verdadera vida y las enseñanzas de Jesús. [LU 195:9.5](/es/El_Libro_de_Urantia/195#p9_5) 
-  - «Ha llegado el momento de presenciar la resurrección figurativa del Jesús humano de su tumba, en medio de las tradiciones teológicas y los dogmas religiosos de diecinueve siglos.» [LU 196:1.2](/es/El_Libro_de_Urantia/196#p1_2) 
+  - Ha llegado la hora de redescubrir los verdaderos y originales fundamentos del cristianismo actual, distorsionado y comprometido: la verdadera vida y las enseñanzas de Jesús. [LU 195:9.5](/es/The_Urantia_Book/195#p9_5) 
+  - «Ha llegado el momento de presenciar la resurrección figurativa del Jesús humano de su tumba, en medio de las tradiciones teológicas y los dogmas religiosos de diecinueve siglos.» [LU 196:1.2](/es/The_Urantia_Book/196#p1_2) 
   - Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas inquebrantables de Jesús; languidece por falta de una nueva visión de la vida del Maestro en la tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar el imperio del secularismo materialista y a derrocar la dominación mundial del naturalismo mecanicista. Urantia se estremece ahora al borde mismo de una de sus épocas más asombrosas y fascinantes de reajuste social, revitalización moral e iluminación espiritual. [LU 195:9.2](/es/The_Urantia_Book/195#p9_2) 
   - La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a confiar únicamente en Jesús y sus incomparables enseñanzas... que se dediquen exclusivamente a la regeneración espiritual de la humanidad. Y entonces, estas almas nacidas del espíritu proporcionarán rápidamente el liderazgo y la inspiración necesarios para la reorganización social, económica y política del mundo. [LU 195:9.4](/es/The_Urantia_Book/195#p9_4) 
   - «El llamado a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la hermandad del reino de Jesús debería emocionar a todos los que creen en él como no se ha conmovido a ningún hombre desde los días en que andaban por la tierra como sus compañeros en la carne.» [LU 195:10.6](/es/The_Urantia_Book/195#p10_6)
@@ -309,7 +309,7 @@ La cosmología física del Libro de Urantia representa lo mejor del conocimiento
 1. La unidad espiritual se basa en ideales, propósitos y objetivos comunes, no en las mismas creencias y credos teológicos.
   - Hay una gran esperanza para cualquier iglesia que adore al Dios vivo, valide la hermandad humana y se atreva a eliminar toda presión religiosa de sus miembros. [LU 103:5.12](/es/The_Urantia_Book/103#p5_12) 
   - Esta lamentable subdivisión de los creyentes cristianos se debe a la incapacidad de discernir en las múltiples enseñanzas del Maestro la unidad divina de su vida incomparable. Pero algún día, los verdaderos creyentes en Jesús no estarán tan divididos espiritualmente. Siempre podremos tener diversidad de comprensión e interpretación intelectual, incluso distintos grados de socialización, pero la falta de hermandad espiritual es inexcusable y reprensible. [LU 170:5.20](/es/The_Urantia_Book/170#p5_20) 
-  - «Pero en esta hermandad de Jesús no hay lugar para la rivalidad sectaria, la amargura grupal, ni para afirmaciones de superioridad moral o infalibilidad espiritual.» [LU 195:10.14](/es/El_Libro_de_Urantia/195#p10_14)
+  - «Pero en esta hermandad de Jesús no hay lugar para la rivalidad sectaria, la amargura grupal, ni para afirmaciones de superioridad moral o infalibilidad espiritual.» [LU 195:10.14](/es/The_Urantia_Book/195#p10_14)
 2. La gran esperanza para nuestro mundo es que esta revelación ampliada de la verdad una a las iglesias y religiones de nuestro planeta en propósitos e ideales comunes y fraternales.
   - La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en servicio amoroso a las numerosas familias de sus actuales seguidores profesos. [LU 195:10.16](/es/The_Urantia_Book/195#p10_16)
 
@@ -328,7 +328,7 @@ La cosmología física del Libro de Urantia representa lo mejor del conocimiento
 
 1. La oración tiene un componente de interés y preocupación por uno mismo o por la criatura. La adoración es la contemplación de Dios; es un fin en sí misma.
   - «La adoración es por sí misma; la oración incorpora un elemento de interés propio o de la criatura; esa es la gran diferencia entre la adoración y la oración.» [LU 5:3.3](/es/The_Urantia_Book/5#p3_3)
-  - «La oración es auto-recordatorio – pensamiento sublime; la adoración es auto-olvido – super-pensamiento.» [LU 143:7.7](/es/El_Libro_de_Urantia/143#p7_7)
+  - «La oración es auto-recordatorio – pensamiento sublime; la adoración es auto-olvido – super-pensamiento.» [LU 143:7.7](/es/The_Urantia_Book/143#p7_7)
 2. La oración puede conducir a la adoración y ser una ayuda para la adoración.
   - «Así como la oración puede compararse con recargar las baterías espirituales del alma, la adoración puede compararse con el acto de sintonizar el alma para captar las transmisiones universales del espíritu infinito del Padre eterno.» [LU 144:4.8](/es/The_Urantia_Book/144#p4_8)
 

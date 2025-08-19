@@ -43,7 +43,7 @@ dateCreated: 2022-9-9T8:13:38Z
         </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
         </a>
         </td>
         <td>
@@ -69,7 +69,7 @@ El presidente de la comisión autora de los documentos de Jesús afirma: «_Los 
 
 Los autores de _El Libro de Urantia_ desaconsejan aún más cualquier concepto de ‘literalismo’ al afirmar que los ángeles de las iglesias y los ángeles del progreso no estaban de acuerdo sobre cómo informar las enseñanzas de Jesús en Urmia debido a la gran diferencia en los asuntos planetarios en el momento en que se dieron las conferencias y condiciones religiosas y políticas del siglo XX. En varios lugares de _El Libro de Urantia_ los autores insertarán una frase como «_expresado en fraseología moderna_» o «_en términos del pensamiento moderno_» o Desalientan cualquier suposición de infalibilidad comentando, «_no sabemos,_», «_suponemos,_», «_conjeturamos_» o «_somos de la opinión_.» La autoridad de la revelación no se establece por afirmaciones dogmáticas de «_inspiración literal_» o «_infalibilidad_», sino por su reconocimiento de la verdad en la mente y el corazón de las personas.
 
-> ***¿Es compatible el Fundamentalismo con una Religión del Espíritu? ***
+> ***¿Es compatible el Fundamentalismo con una Religión del Espíritu?***
 >
 > Las religiones de autoridad sólo pueden dividir a los hombres y levantar unas conciencias contra otras; la religión del espíritu unirá progresivamente a los hombres y los inducirá a sentir una simpatía comprensiva los unos por los otros. (<a id="a50_241"></a>[LU 155:6.9](/es/The_Urantia_Book/155#p6_9))
 
@@ -124,7 +124,7 @@ La evaluación académica muestra que el fundamentalismo del _Libro de Urantia_ 
         </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
         </a>
         </td>
         <td>

@@ -25,7 +25,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/An_Introduction_to_UB_for_Conservative_Christians">
-          <span class="pr-2">Introducción a _El libro de Urantia_ para cristianos conservadores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Introducción a El libro de Urantia para cristianos conservadores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -81,7 +81,7 @@ Cada Hijo Creador es único en naturaleza y personalidad; cada uno es el «Hijo 
 
 La visión cristiana tradicional de la vida después de la muerte ha sido simplista y, para muchos, ingenua: vamos al cielo, somos recibidos por Jesús y perfeccionados. Aquí los problemas y el sufrimiento son inexistentes. Esta perfección instantánea no tiene sentido para muchas personas reflexivas, y los teólogos cristianos han dicho muy poco sobre la vida después de la muerte.
 
-«_El Libro de Urantia_ describe una imagen eminentemente razonable de la vida después de la muerte. Nuestro crecimiento espiritual continúa justo donde lo dejamos en nuestra existencia mortal. Resucitamos en los mundos morada de nuestro sistema local con un cuerpo morontial, en parte material y en parte espiritual, y gradualmente adquirimos una existencia más espiritual. Todo el universo espiritual es una gran universidad educativa de aprendizaje y realización donde nos preparamos para el servicio futuro. En nuestro viaje ascendente, al igual que en Urantia, nos enfrentamos a muchas pruebas y frustraciones. Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a alimentarse de la incertidumbre, a enriquecerse con la decepción, a entusiasmarse con la aparente derrota, a fortalecerse ante las dificultades, a exhibir un coraje indomable ante la inmensidad y a ejercer una fe inquebrantable ante el desafío de lo inexplicable. Desde hace mucho tiempo, el grito de guerra de estos peregrinos se convirtió en: «En unión con Dios, nada, absolutamente nada, es imposible».» ([LU 26:5.3](/es/El_Libro_de_Urantia/26#p5_3))
+«_El Libro de Urantia_ describe una imagen eminentemente razonable de la vida después de la muerte. Nuestro crecimiento espiritual continúa justo donde lo dejamos en nuestra existencia mortal. Resucitamos en los mundos morada de nuestro sistema local con un cuerpo morontial, en parte material y en parte espiritual, y gradualmente adquirimos una existencia más espiritual. Todo el universo espiritual es una gran universidad educativa de aprendizaje y realización donde nos preparamos para el servicio futuro. En nuestro viaje ascendente, al igual que en Urantia, nos enfrentamos a muchas pruebas y frustraciones. Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a alimentarse de la incertidumbre, a enriquecerse con la decepción, a entusiasmarse con la aparente derrota, a fortalecerse ante las dificultades, a exhibir un coraje indomable ante la inmensidad y a ejercer una fe inquebrantable ante el desafío de lo inexplicable. Desde hace mucho tiempo, el grito de guerra de estos peregrinos se convirtió en: «En unión con Dios, nada, absolutamente nada, es imposible».» ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 Avanzamos a través del universo local, el superuniverso, el universo central y nos graduamos en la Isla del Paraíso, donde nos encontramos con el Padre Universal y somos conducidos al Cuerpo de la Finalidad en preparación para un servicio mayor en la eternidad. Ustedes, los humanos, han comenzado un despliegue infinito de un panorama casi infinito, una expansión ilimitada de esferas de oportunidad inagotables y en constante expansión para un servicio emocionante, una aventura inigualable, una incertidumbre sublime y un logro ilimitado. ([LU 108:6.8](/es/The_Urantia_Book/108#p6_8))
 
@@ -125,7 +125,7 @@ Mi opinión personal, después de treinta y cinco años de estudio y evaluación
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/An_Introduction_to_UB_for_Conservative_Christians">
-          <span class="pr-2">Introducción a _El libro de Urantia_ para cristianos conservadores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Introducción a El libro de Urantia para cristianos conservadores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

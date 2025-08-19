@@ -102,7 +102,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ### IV. Sabiduría antes del exilio
 
 1. Los «sabios» judíos eran a veces medio humoristas y un poco cínicos. Los hebreos tenían tres tipos de literatura: sacerdote, profeta y sabio.
-2. Muchos de los [Salmos](/es/Bible/Psalms/) pertenecen al grupo de la sabiduría. [Sal 15](/es/Bible/Psalms/15), [24](/es/Bible/Psalms/24), [19](/es/Bible/Psalms/19), [16](/es/Biblia/Psalms/16), [49](/es/Bible/Psalms/49), [73](/es/Bible/Psalms/73).
+2. Muchos de los [Salmos](/es/Bible/Psalms/) pertenecen al grupo de la sabiduría. [Sal 15](/es/Bible/Psalms/15), [24](/es/Bible/Psalms/24), [19](/es/Bible/Psalms/19), [16](/es/Bible/Psalms/16), [49](/es/Bible/Psalms/49), [73](/es/Bible/Psalms/73).
 3. [Sal 19:2](/es/Bible/Psalms/19#v2) puede ser un acertijo oriental. El enigma: «¿Qué es lo que habla de día y de noche y no tiene voz?» Respuesta: «Los cielos cuentan la gloria de Dios y el firmamento muestra la obra de sus manos».
 
 ### V. Sabiduría después del exilio

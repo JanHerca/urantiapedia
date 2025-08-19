@@ -43,11 +43,11 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Meredith_Sprunger/Gods_Presence_in_Action">
+        <a href="/es/article/Meredith_Sprunger/Gods_Presence_In_Action">
           <span class="pr-2">La presencia de Dios en acción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -152,11 +152,11 @@ Así como fueron necesarios casi 1.800 años de desarrollo evolutivo para precip
         </td>
         <td>
         <a href="/es/index/articles_fellowship#christianity-and-the-urantia-book-the-meredith-j-sprunger-essays">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Comunidad del Libro de Urantia — Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">El sitio web de la Fellowship del Libro de Urantia — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Meredith_Sprunger/Gods_Presence_in_Action">
+        <a href="/es/article/Meredith_Sprunger/Gods_Presence_In_Action">
           <span class="pr-2">La presencia de Dios en acción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

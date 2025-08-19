@@ -78,7 +78,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. **Espadas en rejas de arado**. «Y convertirán sus espadas en rejas de arado, y sus lanzas en hoces... y nunca más aprenderán la guerra». [4:3](/es/Bible/Micah/4#v3).
 4. **Carácter individual**. «Cada uno se sentará debajo de su vid y debajo de su higuera, y nadie los espantará». [4:4](/es/Bible/Micah/4#v4).
 5. **Sacrificios sin valor**. «‘¿Se agradará el Señor con miles de carneros, con diez mil ríos de aceite? ¿Daré mi primogénito por mi transgresión, el fruto de mis entrañas por el pecado de mi alma?’» [6:7] (/es/Bible/Micah/6#v7).
-6. **Lo que el Señor requiere**. «‘Él te ha mostrado, oh hombre, lo que es bueno; ¿y qué exige el Señor de ti sino hacer justicia, y amar bondad, y caminar humildemente con tu Dios?’» [6:8](/es/Biblia/Micah/6#v8).
+6. **Lo que el Señor requiere**. «‘Él te ha mostrado, oh hombre, lo que es bueno; ¿y qué exige el Señor de ti sino hacer justicia, y amar bondad, y caminar humildemente con tu Dios?’» [6:8](/es/Bible/Micah/6#v8).
 7. **Atributos de Dios**. «¿Qué Dios como tú, que perdona la iniquidad y pasa por alto la transgresión para el remanente de su herencia? No retiene para siempre su ira porque se deleita en la misericordia». [7:18](/es/Bible/Micah/7#v18).
 
 

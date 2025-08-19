@@ -170,7 +170,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 15. **No juzgues**. «‘No juzguéis, para que no seáis juzgados.’» [7:1](/es/Bible/Matthew/7#v1).
 16. **Perlas antes que cerdos**. «‘No echéis vuestras perlas a los cerdos’.» [7:6](/es/Bible/Matthew/7#v6).
 17. **Ningún lugar donde recostar su cabeza** «‘Las zorras tienen guaridas, y las aves del cielo nidos; pero el Hijo del hombre no tiene dónde recostar su cabeza.’» [8:20](/es/Bible/Matthew/8#v20).
-18. **Autoridad para perdonar**. «‘Mas para que sepáis que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados-dijo entonces al paralítico-’Levántate, toma tu camilla y vete a casa.’» [9:6](/es/Biblia/Matthew/9#v6)
+18. **Autoridad para perdonar**. «‘Mas para que sepáis que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados-dijo entonces al paralítico-’Levántate, toma tu camilla y vete a casa.’» [9:6](/es/Bible/Matthew/9#v6)
 19. **Llamando a los pecadores**. «‘No he venido a llamar a justos, sino a pecadores’.» [9:13](/es/Bible/Matthew/9#v13).
 20. **Sabiduría de la serpiente**. «‘Sed prudentes como serpientes e inocentes como palomas’». [10:16](/es/Bible/Matthew/10#v16).
 21. **Volverse como un niño**. «‘Si no os volvéis y os hacéis como niños, no entraréis en el reino de los cielos’». [18:3](/es/Bible/Matthew/18#v3).

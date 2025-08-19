@@ -76,7 +76,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. **La ascensión de Jesús**. «Mientras ellos miraban, fue levantado, y una nube lo ocultó de su vista... he aquí, dos hombres se pararon junto a ellos... y dijeron: Varones galileos, ¿por qué estáis mirando al cielo? Este Jesús, que fue llevado de vosotros al cielo, vendrá de la misma manera como le habéis visto ir al cielo.’» [1:9-11](/es/Bible/Acts_of_the_Apostles/1#v9).
 2. **La Venida del Consolador**. «Cuando llegó el día de Pentecostés, estaban todos juntos en un lugar... Y fueron todos llenos del Espíritu Santo». [2:1,4](/es/Bible/Acts_of_the_Apostles/2#v1).
-3. **Hablar en lenguas**. «Y estaban asombrados y maravillados, diciendo: ‘¿No son galileos todos estos que hablan? ¿Y cómo es que nosotros oímos cada uno de nosotros en su propia lengua?’» [2:7,8](/es/Biblia/Acts_of_the_Apostles/2#v7).
+3. **Hablar en lenguas**. «Y estaban asombrados y maravillados, diciendo: ‘¿No son galileos todos estos que hablan? ¿Y cómo es que nosotros oímos cada uno de nosotros en su propia lengua?’» [2:7,8](/es/Bible/Acts_of_the_Apostles/2#v7).
 4. **Don del Espíritu**. «‘Habiendo recibido de la espuma la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís.’» [2:33](/es/Bible/Acts_of_the_Apostles/2#v33).
 5. **Tres mil bautizados**. «Los que recibieron su pupilo fueron bautizados, y se añadieron aquel día unas tres mil almas». [2:41](/es/Bible/Acts_of_the_Apostles/2#v41).
 6. **El mensaje**. «‘Arrepentíos, pues, y convertíos, para que sean borrados vuestros pecados, para que de la presencia del señor vengan tiempos de refrigerio.’» [3:19](/es/Bible/Acts_of_the_Apostles/3#v19) .

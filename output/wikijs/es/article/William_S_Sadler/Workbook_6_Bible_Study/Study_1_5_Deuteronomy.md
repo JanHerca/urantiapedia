@@ -158,7 +158,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 4. **Los Diez Mandamientos**. [5:6-21](/es/Bible/Deuteronomy/5#v6).
 5. **El gran mandamiento**. «‘Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con todas tus fuerzas.’» [6:5](/es/Bible/Deuteronomy/6#v5).
 6. **El pueblo elegido**. «‘Tú eres un pueblo santo para Jehová tu Dios; Jehová tu Dios te ha escogido.’» [7:6](/es/Bible/Deuteronomy/7#v6).
-7. **Bendición y maldición**. «‘Pongo delante de vosotros en este día una bendición y una maldición: la bendición, si obedecéis los mandamientos... y la maldición, si no obedecéis los mandamientos.’» [11:26-28](/es/Biblia/Deuteronomy/11#v26).
+7. **Bendición y maldición**. «‘Pongo delante de vosotros en este día una bendición y una maldición: la bendición, si obedecéis los mandamientos... y la maldición, si no obedecéis los mandamientos.’» [11:26-28](/es/Bible/Deuteronomy/11#v26).
 8. **Comer sangre**. «‘No comeréis la sangre; la derramaréis sobre la tierra como agua.’» [12:16](/es/Bible/Deuteronomy/12#v16).
 9. **Falsos profetas**. «‘Si se levanta entre vosotros un profeta... y os da una señal... y la señal... se cumple, y si dice: »Vayamos tras dioses ajenos«... no escucharéis las palabras de aquel profeta.’» [13:1-3](/es/Bible/Deuteronomy/13#v1).
 10. **Lanzamiento de siete años**. «‘Cada siete años concederás una liberación... Cada acreedor liberará lo que haya prestado a su prójimo.’» [15:1,2](/es/Bible/Deuteronomy/15#v1).

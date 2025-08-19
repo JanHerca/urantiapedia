@@ -47,7 +47,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_in_Action">
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_In_Action">
           <span class="pr-2">La présence de Dieu en action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -156,7 +156,7 @@ Tout comme il a fallu près de 1 800 ans de développement évolutif pour préci
         </a>
         </td>
         <td>
-        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_in_Action">
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_In_Action">
           <span class="pr-2">La présence de Dieu en action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -114,13 +114,13 @@ Véanse también los demás párrafos del folleto 11 que tratan de la respiraci�
 
 > “VICEGERINGTON. Este planeta es el “útero del Padre y del Hijo” y la esfera secreta de ciertos seres no revelados que surgen de los actos del Padre y del Hijo. » 
 > 
-> “_Los Secretos de Vicegerington_ incluyen los de trinitización y la trinitización es el secreto de la autoridad que permite representar a la Trinidad, actuar como vicegerente de los Dioses. » [UB 13:1.11-12](/es/El_Libro_de_Urantia/13#p1_11)
+> “_Los Secretos de Vicegerington_ incluyen los de trinitización y la trinitización es el secreto de la autoridad que permite representar a la Trinidad, actuar como vicegerente de los Dioses. » [UB 13:1.11-12](/es/The_Urantia_Book/13#p1_11)
 
 ***SOLITARINGTON:***
 
-> “SOLITARINGTON. Este de un magnífico ejército de seres no mundanos es “el seno del Padre y se revela por los actos conjuntos del Espíritu”. Es el lugar de encuentro del Padre Universal y el Espíritu Infinito. » [UB 13:1.15](/es/El_Libro_de_Urantia/13#p1_15)
+> “SOLITARINGTON. Este de un magnífico ejército de seres no mundanos es “el seno del Padre y se revela por los actos conjuntos del Espíritu”. Es el lugar de encuentro del Padre Universal y el Espíritu Infinito. » [UB 13:1.15](/es/The_Urantia_Book/13#p1_15)
 
-> “_Los Secretos de Solitarington_; Además de ciertos secretos de trinitización, este mundo guarda el secreto de las relaciones personales entre el Espíritu Infinito y ciertos descendientes superiores del Tercer Centro Fuente. » [UB 13:1.18](/es/El_Libro_de_Urantia/13#p1_18)
+> “_Los Secretos de Solitarington_; Además de ciertos secretos de trinitización, este mundo guarda el secreto de las relaciones personales entre el Espíritu Infinito y ciertos descendientes superiores del Tercer Centro Fuente. » [UB 13:1.18](/es/The_Urantia_Book/13#p1_18)
 
 ***SERAPHINGTON:***
 
@@ -132,7 +132,7 @@ Véanse también los demás párrafos del folleto 11 que tratan de la respiraci�
 
 > “ASCENDINGTON. Este único mundo es el «útero del Padre, del Hijo y del Espíritu», el lugar de encuentro de las criaturas ascendentes del espacio, la esfera acogedora de los peregrinos del tiempo que atraviesan el universo de Havona en su camino hacia el Paraíso. Ascendington es el verdadero hogar celestial de las almas ascendentes del tiempo y el espacio hasta que alcanzan el estado de Paraíso. »
 > 
-> “_Los secretos de Ascendington_ incluyen el misterio de la construcción gradual y segura, en la mente material y mortal, de una contraparte espiritual y potencialmente inmortal del carácter y la identidad. Este fenómeno es uno de los misterios más inquietantes de los universos, es decir, la evolución de un alma inmortal en la mente de una criatura mortal y material. » [UB 13:1.21-22](/es/El_Libro_de_Urantia/13#p1_21)
+> “_Los secretos de Ascendington_ incluyen el misterio de la construcción gradual y segura, en la mente material y mortal, de una contraparte espiritual y potencialmente inmortal del carácter y la identidad. Este fenómeno es uno de los misterios más inquietantes de los universos, es decir, la evolución de un alma inmortal en la mente de una criatura mortal y material. » [UB 13:1.21-22](/es/The_Urantia_Book/13#p1_21)
 
 **[Debido a su extensión, el artículo se ha dividido en cuatro partes. El segundo, que trata del universo central, se presentará en el próximo «Le Lien»]**
 
