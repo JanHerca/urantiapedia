@@ -19,7 +19,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-durantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
         </a>
         </td>
@@ -71,7 +71,7 @@ Le Dr Wagner a ensuite contacté le révérend Henry G. Kroehler, président du 
 > 
 > > Cher Monsieur Hand :
 > > 
-Tout d'abord, permettez-moi de vous exprimer ma satisfaction quant au contenu de votre lettre du 25 février. Je tiens également à ajouter que je suis entièrement d'accord avec la procédure que vous avez décrite concernant les plaintes. Sur certains points, une formulation différente me semblerait peut-être plus souhaitable. Cependant, l'esprit général de la procédure que vous avez décrite me semble sain.
+> > Tout d'abord, permettez-moi de vous exprimer ma satisfaction quant au contenu de votre lettre du 25 février. Je tiens également à ajouter que je suis entièrement d'accord avec la procédure que vous avez décrite concernant les plaintes. Sur certains points, une formulation différente me semblerait peut-être plus souhaitable. Cependant, l'esprit général de la procédure que vous avez décrite me semble sain.
 > > 
 > > Il me semble que vous êtes peut-être un peu inutilement sévère dans votre critique de l'ancien impliqué dans ce cas particulier, lorsque vous qualifiez son action de « demande antidémocratique appelant à une action autoritaire ». Je reconnais que le contact a été pris par le mauvais canal, mais je n'ai connaissance d'aucune demande d'action autoritaire. Je suis plutôt certain qu'il s'agissait avant tout d'une expression d'inquiétude.
 > > 
@@ -108,21 +108,21 @@ Suivant la démarche de Jésus, qui s'était adressé à Anne, qui était au som
 - J'ai donné une critique du _Livre d'Urantia_ aux professeurs et aux étudiants de l'Université d'Indiana-Purdue et j'ai parlé à plusieurs classes de philosophie. (11/80)
 - A écrit « La doctrine de l'expiation ». Cet article anticipe les critiques du point de vue du _Livre d'Urantia_ sur la théorie de l'expiation par le sang, défendue par les chrétiens conservateurs. (21/12/1980)
 - J'ai donné des critiques du _Livre d'Urantia_ à une classe d'école du dimanche à la First Christian Church de Fort Wayne (14/12/80) et un peu plus tard au groupe d'hommes de l'église unitarienne.
-Le 6 janvier 1981, nous avons envoyé 83 lettres aux ministres de l'Église de Muncie, dans l'Indiana, les invitant à une séance d'étude du _Livre d'Urantia_ à l'Université Ball State. Les rares participants souhaitaient des livres de prêt. Nous avons rencontré plusieurs professeurs qui ont manifesté leur intérêt.
-En janvier 1981, nous avons créé un groupe de discussion étudiant à l'Université d'Indiana-Université Purdue à Fort Wayne et avons publié une annonce dans le journal étudiant. Nous avons discuté avec les étudiants des cours de philosophie du Dr Mark Sheldon et du Dr George Washington.
+- Le 6 janvier 1981, nous avons envoyé 83 lettres aux ministres de l'Église de Muncie, dans l'Indiana, les invitant à une séance d'étude du _Livre d'Urantia_ à l'Université Ball State. Les rares participants souhaitaient des livres de prêt. Nous avons rencontré plusieurs professeurs qui ont manifesté leur intérêt.
+- En janvier 1981, nous avons créé un groupe de discussion étudiant à l'Université d'Indiana-Université Purdue à Fort Wayne et avons publié une annonce dans le journal étudiant. Nous avons discuté avec les étudiants des cours de philosophie du Dr Mark Sheldon et du Dr George Washington.
 - Le 26 janvier 1981, j'ai envoyé 350 lettres aux ministres de l'Église d'Indianapolis, les invitant à une séance de lecture du _Livre d'Urantia_ au Centre inter-églises de l'Indiana (février 1981). La demi-douzaine de ministres présents souhaitaient des livres de prêt. J'ai rencontré plusieurs professeurs d'université ; certains ont demandé des livres de prêt.
 - J'ai écrit « L'Église : problème ou potentiel ? » le 5 mai 1981. Ce document, qui utilise les concepts du _Livre d'Urantia_, a été présenté lors d'ateliers dans plusieurs églises.
-Le 17 septembre 1981, j'ai écrit une lettre au magazine Spiritual Counterfeits Project pour corriger des erreurs dans cette critique fondamentaliste du _Livre d'Urantia_. Le rédacteur en chef a proposé un dialogue, mais n'a pas donné suite.
-Fin 1981, nous avons envoyé une quarantaine de lettres accompagnées d'une brochure aux ministres locaux, les informant que nous les appellerions pour prendre rendez-vous. Soixante pour cent d'entre eux ont effectivement pris rendez-vous et presque tous ont demandé des livres de prêt.
+- Le 17 septembre 1981, j'ai écrit une lettre au magazine Spiritual Counterfeits Project pour corriger des erreurs dans cette critique fondamentaliste du _Livre d'Urantia_. Le rédacteur en chef a proposé un dialogue, mais n'a pas donné suite.
+- Fin 1981, nous avons envoyé une quarantaine de lettres accompagnées d'une brochure aux ministres locaux, les informant que nous les appellerions pour prendre rendez-vous. Soixante pour cent d'entre eux ont effectivement pris rendez-vous et presque tous ont demandé des livres de prêt.
 - Un donateur a proposé de financer des bourses de recherche sur le _Livre d'Urantia_ pour les étudiants à la fin de 1981. Nous avons décidé de ne pas le faire, n'aimant pas l'idée de payer des gens pour lire le livre.
 - Nous avons envoyé 83 lettres accompagnées de brochures et de cartes de retour le 9 janvier 1982 à d'autres ministres locaux de l'Église. Le retour a été minime.
 - Le 15 janvier 1982, 90 lettres accompagnées de brochures et de bons de retour pour les livres de prêt ont été envoyées aux ministres des campus de l'État de l'Indiana. La réponse a été médiocre.
 - Le 28/05/1982, j'ai écrit « _Le Livre d'Urantia_ et le fondamentalisme chrétien ». Cet article tente de répondre aux réserves des fondamentalistes quant à la lecture du _Livre d'Urantia_.
-« Ministère de l'évangélisation » a été écrit le 31 mai 1982. Il présente différents niveaux de ministère pour partager le _Livre d'Urantia_ avec notre culture chrétienne.
+- « Ministère de l'évangélisation » a été écrit le 31 mai 1982. Il présente différents niveaux de ministère pour partager le _Livre d'Urantia_ avec notre culture chrétienne.
 - « Principes du ministère » a été écrit le 1er juin 1982. Il présente les principes spirituels du ministère auprès de l'Église et de la société.
 - « Le développement futur de la foi chrétienne » a été écrit le 1er août 1982 et a été présenté dans plusieurs ateliers d’église.
 - Le 1er juillet 1983, j'ai publié un « Bref résumé des religions du monde » de 29 pages. Nous devons connaître et apprécier tous les groupes religieux.
-Entre 1983 et 1985, nous avons envoyé 8 000 lettres personnelles, accompagnées d'une brochure et d'une carte de retour, aux ministres de l'Église Unie du Christ. Quatre pour cent (plus de 300) ont demandé des livres de prêt ; environ 90 ont acheté ou reçu des livres. Un rapport de ce projet, intitulé « Réponse du clergé principal au _Livre d'Urantia_ », a été publié le 1er janvier 1986 et un article du Journal (automne 1991) intitulé « Le clergé évalue le _Livre d'Urantia_ ». La réponse générale a été positive.
+- Entre 1983 et 1985, nous avons envoyé 8 000 lettres personnelles, accompagnées d'une brochure et d'une carte de retour, aux ministres de l'Église Unie du Christ. Quatre pour cent (plus de 300) ont demandé des livres de prêt ; environ 90 ont acheté ou reçu des livres. Un rapport de ce projet, intitulé « Réponse du clergé principal au _Livre d'Urantia_ », a été publié le 1er janvier 1986 et un article du Journal (automne 1991) intitulé « Le clergé évalue le _Livre d'Urantia_ ». La réponse générale a été positive.
 - Pendant cette période, nous avons envoyé des lettres personnelles accompagnées d’une brochure à tous les ministres méthodistes unis de l’État de l’Indiana.
 - Envoi de lettres personnelles avec brochure à 1 500 enseignants des écoles publiques de Fort Wayne avec une offre de prêt d'un livre. (1/84)
 - J'ai parlé au Forum religieux de l'Université Indiana-Purdue sur le thème « Qu'est-ce que _Le Livre d'Urantia_ ? » (11/7/84)
@@ -142,34 +142,34 @@ Entre 1983 et 1985, nous avons envoyé 8 000 lettres personnelles, accompagnées
 
 
 > 27 février 1995  
->
+> 
 > Le révérend Dr Richard L. Hamm  
 > P. 0. Boîte 1986  
 > Indianapolis, IN 46206  
->
+> 
 > Cher Dick :
->
-Normalement, Irène et moi n'aurions pas assisté au 50e anniversaire des Églises associées de Fort Wayne – nous avons un groupe d'étude qui se réunit le dimanche soir – mais notre pasteur, Jim Westpfahl, et son épouse, Lois, ont acheté des billets pour nous et nous ont demandé d'assister à la réunion avec eux. Nous sommes ravis que les circonstances nous aient permis d'assister à cette réunion. J'ai trouvé votre analyse historique du développement et de la seconde disparition du christianisme traditionnel brillante et votre vision spirituelle de l'avenir inspirée et inspirante. J'espère que des exemplaires de votre conférence seront disponibles. Je sens également que vous êtes une personne clé que Dieu utilise pour restaurer la vitalité spirituelle du christianisme traditionnel.
->
-Personnellement, je préférerais de loin ne pas écrire cette lettre, mais je me sens poussé à le faire. Depuis de nombreuses années, je m'intéresse au christianisme traditionnel et à la pertinence de notre message spirituel. Comme vous le savez, j'ai essayé de faire découvrir Le Livre d'Urantia au clergé traditionnel. Après près de 40 ans d'évaluation critique et de prière, je crois que sa prétention à être la Cinquième Révélation d'Époque est une catégorisation authentique de son contenu. Je le crois non pas parce que le livre le revendique – je suis rebuté par toute personne ou tout livre qui prétend être révélateur – mais en raison de la haute qualité, auto-authentique, de ses perspectives spirituelles. Je suis convaincu qu'il est la clé de la renaissance du christianisme traditionnel et que notre planète se prépare à son accueil.
->
-Il est crucial que le Livre d'Urantia fasse l'objet d'une évaluation théologique critique. Il y a de nombreuses années, notre groupe de jeunes ministres de l'Église Unie du Christ a tenté d'intéresser le Dr Robert Moss (professeur de Nouveau Testament au Séminaire théologique de Lancaster et alors président de l'Église Unie du Christ) à une évaluation du livre. Le Dr Moss a pris le temps d'examiner certaines des références bibliques du livre et, lors de notre rencontre, nous a confirmé qu'elles étaient globalement conformes aux études contemporaines, mais il a remis en question l'historicité du livre et n'a pas souhaité prendre le temps de lire ses 2000 pages.
->
-Plus tard, j'ai essayé de convaincre Walter Brueggemann, alors au Séminaire théologique d'Eden, d'examiner le livre. Sa réponse a été : « Je ne comprends même pas la Bible, pourquoi devrais-je consacrer du temps à lire un livre comme celui-ci ? » Deux ans plus tard, après une conférence de Martin Marty au Lakeland College, je lui ai écrit pour lui suggérer de consulter Le Livre d'Urantia. Il m'a écrit une lettre brève mais courtoise m'expliquant que d'autres le lui avaient recommandé. « J'ai fait quelques essais », a-t-il remarqué, « mais je ne comprends pas grand-chose à ce que je lis. » Il y a environ un an, alors qu'il était à l'église de Plymouth à Fort Wayne, je lui ai parlé et il m'a dit avoir été impressionné par la qualité de certains de ses amis, comme Norman et Lyn Lear, qui étudiaient le livre.
->
-Au milieu des années 1980, j'ai envoyé des lettres personnelles à environ 8 000 pasteurs de l'Église Unie du Christ, leur proposant de leur prêter des exemplaires du livre s'ils étaient intéressés. Des centaines de ces pasteurs ont demandé des livres de prêt et beaucoup ont exprimé leur appréciation pour ses enseignements. Suite à cette demande, nous avons formé un réseau de membres du clergé intéressés par l'utilisation du Livre d'Urantia comme ressource pour leurs prédications et leurs enseignements. Cet intérêt a également conduit à la création du Spiritual Fellowship Journal en 1991. Ce mois-ci, le comité du programme du Cercle des pasteurs de l'Association du Nord-Est m'a demandé de présenter une critique du Livre d'Urantia pour notre programme. J'ai présenté une communication intitulée « Le Livre d'Urantia : Écarts par rapport à la théologie chrétienne traditionnelle », que je joindrai avec d'autres documents. Le programme a reçu un accueil bien plus positif que prévu. Il faut des générations pour que les nouveaux paradigmes de la Réalité, tant en science qu'en religion, soient acceptés par le grand public.
->
-Depuis près de deux ans, à la suggestion du Dr Westpfahl (il n'a pas lu Le Livre d'Urantia), j'enseigne le Livre d'Urantia à l'école du dimanche de Grace St. John's UCC. Certaines personnalités clés de l'église sont membres de ce cours et nous avons d'excellentes discussions. L'un des membres de notre groupe d'étude du dimanche soir enseigne également le Livre d'Urantia à l'église méthodiste unie d'Altersgate, avec des résultats similaires.
->
-Plus de 250 000 exemplaires du Livre d'Urantia ont été vendus depuis 1955 sans publicité massive, simplement par une personne qui en parle à une autre. Nombre de ces personnes sont des membres fidèles de l'Église. Il est important que ce livre fasse l'objet d'une évaluation théologique critique. Si le message du Livre d'Urantia nuit à la foi chrétienne, il faut en être averti. Quoi qu'il en soit, la communauté théologique devrait examiner attentivement sa théologie et sa cosmologie.
->
-Dick, je ne sous-entends pas que vous devriez participer directement à cette évaluation. À mon avis, ce serait imprudent ; cela nuirait à votre ministère, que je considère comme important pour l’Église. Je vous suggère de vous préoccuper de l’impact du Livre d’Urantia sur l’Église et, compte tenu de vos relations avec les théologiens, de vous adresser à un théologien courageux et équilibré pour lui faire part de cette préoccupation. Il pourrait, à terme, impliquer ses collègues dans cette évaluation. Je vous laisse cette suggestion, confiant que vous êtes ouvert à la direction de l’Esprit et conscient que vous pourriez prendre une décision différente de la mienne dans une situation similaire. Enfin, je vous invite à lire les 700 pages de Vie et Enseignements de Jésus dans le Livre d’Urantia, comme un simple roman. Cela vous permettra, selon toute vraisemblance, de mieux apprécier l’importance singulière de la vie et des enseignements de Jésus.
->
-Cordialement et sincèrement,
->
+> 
+> Normalement, Irène et moi n'aurions pas assisté au 50e anniversaire des Églises associées de Fort Wayne – nous avons un groupe d'étude qui se réunit le dimanche soir – mais notre pasteur, Jim Westpfahl, et son épouse, Lois, ont acheté des billets pour nous et nous ont demandé d'assister à la réunion avec eux. Nous sommes ravis que les circonstances nous aient permis d'assister à cette réunion. J'ai trouvé votre analyse historique du développement et de la seconde disparition du christianisme traditionnel brillante et votre vision spirituelle de l'avenir inspirée et inspirante. J'espère que des exemplaires de votre conférence seront disponibles. Je sens également que vous êtes une personne clé que Dieu utilise pour restaurer la vitalité spirituelle du christianisme traditionnel.
+> 
+> Personnellement, je préférerais de loin ne pas écrire cette lettre, mais je me sens poussé à le faire. Depuis de nombreuses années, je m'intéresse au christianisme traditionnel et à la pertinence de notre message spirituel. Comme vous le savez, j'ai essayé de faire découvrir Le Livre d'Urantia au clergé traditionnel. Après près de 40 ans d'évaluation critique et de prière, je crois que sa prétention à être la Cinquième Révélation d'Époque est une catégorisation authentique de son contenu. Je le crois non pas parce que le livre le revendique – je suis rebuté par toute personne ou tout livre qui prétend être révélateur – mais en raison de la haute qualité, auto-authentique, de ses perspectives spirituelles. Je suis convaincu qu'il est la clé de la renaissance du christianisme traditionnel et que notre planète se prépare à son accueil.
+> 
+> Il est crucial que le Livre d'Urantia fasse l'objet d'une évaluation théologique critique. Il y a de nombreuses années, notre groupe de jeunes ministres de l'Église Unie du Christ a tenté d'intéresser le Dr Robert Moss (professeur de Nouveau Testament au Séminaire théologique de Lancaster et alors président de l'Église Unie du Christ) à une évaluation du livre. Le Dr Moss a pris le temps d'examiner certaines des références bibliques du livre et, lors de notre rencontre, nous a confirmé qu'elles étaient globalement conformes aux études contemporaines, mais il a remis en question l'historicité du livre et n'a pas souhaité prendre le temps de lire ses 2000 pages.
+> 
+> Plus tard, j'ai essayé de convaincre Walter Brueggemann, alors au Séminaire théologique d'Eden, d'examiner le livre. Sa réponse a été : « Je ne comprends même pas la Bible, pourquoi devrais-je consacrer du temps à lire un livre comme celui-ci ? » Deux ans plus tard, après une conférence de Martin Marty au Lakeland College, je lui ai écrit pour lui suggérer de consulter Le Livre d'Urantia. Il m'a écrit une lettre brève mais courtoise m'expliquant que d'autres le lui avaient recommandé. « J'ai fait quelques essais », a-t-il remarqué, « mais je ne comprends pas grand-chose à ce que je lis. » Il y a environ un an, alors qu'il était à l'église de Plymouth à Fort Wayne, je lui ai parlé et il m'a dit avoir été impressionné par la qualité de certains de ses amis, comme Norman et Lyn Lear, qui étudiaient le livre.
+> 
+> Au milieu des années 1980, j'ai envoyé des lettres personnelles à environ 8 000 pasteurs de l'Église Unie du Christ, leur proposant de leur prêter des exemplaires du livre s'ils étaient intéressés. Des centaines de ces pasteurs ont demandé des livres de prêt et beaucoup ont exprimé leur appréciation pour ses enseignements. Suite à cette demande, nous avons formé un réseau de membres du clergé intéressés par l'utilisation du Livre d'Urantia comme ressource pour leurs prédications et leurs enseignements. Cet intérêt a également conduit à la création du Spiritual Fellowship Journal en 1991. Ce mois-ci, le comité du programme du Cercle des pasteurs de l'Association du Nord-Est m'a demandé de présenter une critique du Livre d'Urantia pour notre programme. J'ai présenté une communication intitulée « Le Livre d'Urantia : Écarts par rapport à la théologie chrétienne traditionnelle », que je joindrai avec d'autres documents. Le programme a reçu un accueil bien plus positif que prévu. Il faut des générations pour que les nouveaux paradigmes de la Réalité, tant en science qu'en religion, soient acceptés par le grand public.
+> 
+> Depuis près de deux ans, à la suggestion du Dr Westpfahl (il n'a pas lu Le Livre d'Urantia), j'enseigne le Livre d'Urantia à l'école du dimanche de Grace St. John's UCC. Certaines personnalités clés de l'église sont membres de ce cours et nous avons d'excellentes discussions. L'un des membres de notre groupe d'étude du dimanche soir enseigne également le Livre d'Urantia à l'église méthodiste unie d'Altersgate, avec des résultats similaires.
+> 
+> Plus de 250 000 exemplaires du Livre d'Urantia ont été vendus depuis 1955 sans publicité massive, simplement par une personne qui en parle à une autre. Nombre de ces personnes sont des membres fidèles de l'Église. Il est important que ce livre fasse l'objet d'une évaluation théologique critique. Si le message du Livre d'Urantia nuit à la foi chrétienne, il faut en être averti. Quoi qu'il en soit, la communauté théologique devrait examiner attentivement sa théologie et sa cosmologie.
+> 
+> Dick, je ne sous-entends pas que vous devriez participer directement à cette évaluation. À mon avis, ce serait imprudent ; cela nuirait à votre ministère, que je considère comme important pour l’Église. Je vous suggère de vous préoccuper de l’impact du Livre d’Urantia sur l’Église et, compte tenu de vos relations avec les théologiens, de vous adresser à un théologien courageux et équilibré pour lui faire part de cette préoccupation. Il pourrait, à terme, impliquer ses collègues dans cette évaluation. Je vous laisse cette suggestion, confiant que vous êtes ouvert à la direction de l’Esprit et conscient que vous pourriez prendre une décision différente de la mienne dans une situation similaire. Enfin, je vous invite à lire les 700 pages de Vie et Enseignements de Jésus dans le Livre d’Urantia, comme un simple roman. Cela vous permettra, selon toute vraisemblance, de mieux apprécier l’importance singulière de la vie et des enseignements de Jésus.
+> 
+> Cordialement et sincèrement,
+> 
 > Meredith J. Sprunger
 
-## _Le Livre d’Urantia_comme ressource acceptable.
+## _Le Livre d’Urantia_ comme ressource acceptable.
 
 Nous orientons maintenant (10/97) la Revue vers une nouvelle mission : « Promouvoir les discussions théologiques, philosophiques et politiques relatives à un symbolisme approprié et à une expression socioreligieuse de la cinquième révélation d'époque. »
 
@@ -184,7 +184,6 @@ Nombre d'entre nous, qui sommes ancrés dans l'Église chrétienne traditionnell
 Nous entrons dans une nouvelle ère de ministère d'évangélisation. Le noyau dur du mouvement Urantia a traversé les tribulations avec un dévouement et un équilibre renouvelés. Nous avons atteint l'âge adulte. La liberté spirituelle et la démocratie participative nous ont appris qu'il est possible d'avoir une unité de but au milieu de la diversité intellectuelle et politique. La Cinquième Révélation d'Époque fera son chemin et surmontera tous les obstacles qui se dresseront sur son chemin. Nous sommes au seuil de « l'une des époques les plus étonnantes et passionnantes de réajustement social, de renforcement moral et d'illumination spirituelle » sur notre planète. Les développements préliminaires et orientateurs de la croissance du mouvement Urantia sont encore en cours ; cependant, le potentiel d'une mission d'évangélisation passionnante de la Cinquième Révélation d'Époque nous interpelle. Les Très Hauts nous ont préparés, nous et notre planète, à la vision la plus exaltante de la réalité spirituelle depuis que Jésus de Nazareth a foulé notre monde. Cette mission d'évangélisation sera multiforme, pluraliste et victorieuse !
 
 ## Références
-
 
 - [Les archives de Meredith J. Sprunger](https://archive.urantiabook.org/archive/mjs_archive/index.html)
 - [Cet article](https://archive.urantiabook.org/archive/mjs_archive/mjs_interface_mainline.htm)
@@ -201,7 +200,7 @@ Nous entrons dans une nouvelle ère de ministère d'évangélisation. Le noyau d
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-durantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
         </a>
         </td>

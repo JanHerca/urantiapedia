@@ -19,7 +19,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-durantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
         </a>
         </td>
@@ -87,7 +87,7 @@ Le royaume ou la famille de Dieu, au cœur des enseignements de Jésus, est une 
         </a>
         </td>
         <td>
-        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-d-urantia-les-essais-de-meredith-j-sprunger">
+        <a href="/fr/index/articles_fellowship#christianisme-et-le-livre-durantia-les-essais-de-meredith-j-sprunger">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Site Web de la Fellowship du Livre d'Urantia — Index</span>
         </a>
         </td>

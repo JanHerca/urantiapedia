@@ -169,7 +169,7 @@ Following Jesus' approach in going to Annas who was at the top of the Sanhedrin 
 > 
 > Meredith J. Sprunger
 
-## _The Urantia Book_as an acceptable resource.
+## _The Urantia Book_ as an acceptable resource.
 
 We are now (10/97) directing the Journal to a new mission to: “Promote Theological, Philosophical, and Polity Discussions Germane to an Appropriate Symbolism and Socioreligious Expression of the Fifth Epochal Revelation.”
 
