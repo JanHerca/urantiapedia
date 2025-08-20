@@ -276,7 +276,7 @@ Una característica principal al pie del lado sur del montículo es una profunda
 
 <figure id="Figure_19" class="image urantiapedia">
 <img src="/image/article/Fellowship_Herald/Volume_18_n_1/image19.png">
-<figcaption><b>Figura 19. </b><em> Una mirada más cercana al inserto en la Figura 12. El perfil de ruta compilado durante el escaneo de la Línea 1 muestra las características de izquierda a derecha de las dos crestas, la escarpa principal, la cima de la colina y una pequeña escarpa en la parte posterior. del cerro (-1500m) terminando en el punto más bajo, probablemente el fondo del lecho de un río (por debajo de -1600m). [El sur está a la derecha.] (Foto de Axel Schoeller) </em></figcaption>
+<figcaption><b>Figura 19. </b><em> Una mirada más cercana al inserto en la Figura 12. El perfil de ruta compilado durante el escaneo de la Línea 1 muestra las características de izquierda a derecha de las dos crestas, la escarpa principal, la cima de la colina y una pequeña escarpa en la parte posterior del cerro (-1500m) terminando en el punto más bajo, probablemente el fondo del lecho de un río (por debajo de -1600m). [El sur está a la derecha.] (Foto de Axel Schoeller) </em></figcaption>
 </figure>
 
 En primer lugar, volvamos a los escritos sumerios. En _Enki y el Nuevo Orden Mundial_ se nos dice que una de las formas en que el Señor Enki recorría su isla paradisíaca era por agua. Su modo de transporte es una barcaza propulsada por remos, que evidentemente es capaz de navegar por el río, así como por un complejo de canales y cursos de agua más pequeños en las grandes marismas.

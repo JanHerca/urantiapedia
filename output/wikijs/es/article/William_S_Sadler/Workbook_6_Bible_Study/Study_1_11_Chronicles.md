@@ -146,7 +146,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ### 1 Crónicas
 
-1. **El fin de Saúl**. «La batalla apremiaba a Saúl, y los arqueros lo encontraron, y fue herido por los arqueros. Entonces Saúl dijo a su escudero: ‘Desenvaina tu espada, y traspasame con ella, para que no vengan estos incircuncisos y se escarnen. de mí.’ Pero su oyente de la armadura no quiso... Saúl tomó su propia espada y se arrojó sobre ella.» [10:3,4](/es/Bible/1_Chronicles/10#v3).
+1. **El fin de Saúl**. «La batalla apremiaba a Saúl, y los arqueros lo encontraron, y fue herido por los arqueros. Entonces Saúl dijo a su escudero: ‘Desenvaina tu espada, y traspasame con ella, para que no vengan estos incircuncisos y se escarnen de mí.’ Pero su oyente de la armadura no quiso... Saúl tomó su propia espada y se arrojó sobre ella.» [10:3,4](/es/Bible/1_Chronicles/10#v3).
 	«Entonces Saúl murió por su infidelidad...Y también consultó a una médium». [10:13](/es/Bible/1_Chronicles/10#v13).
 2. **David ungido rey**. «Entonces todos los ancianos de Israel vinieron a... Hebrón... y ungieron a David como rey sobre Israel». [11:3](/es/Bible/1_Chronicles/11#v3).
 3. **Mover el arca**. «Entonces traigamos de nuevo el arca de nuestro Dios... Uza extendió su mano para sostener el arca, porque los bueyes tropezaron... y murió allí delante de Dios.» [13:3,9](/es/Bible/1_Chronicles/13#v3),1O.

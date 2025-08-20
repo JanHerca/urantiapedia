@@ -52,7 +52,7 @@ Dans l'Esprit de Vérité!!! ¡¡¡FRATERNELLAMIENTO!!! (¡¡¡En el Espíritu d
 
 Nous visons tous le même objectif: faire connaître au monde ce nouvel évangile d'amour et d'espoir. (Todos aspiramos al mismo objetivo: llevar este nuevo evangelio de amor y esperanza al mundo). — G V
 
-Estoy conociendo al Padre realmente, y por Fe, igualmente espero que los hombres, todos, estemos dispuestos a llevar a cabo la voluntad del Padre, y amarnos como él nos ama, apostar con todo a la supervivencia del alma y ser excelentes finalistas. (Estoy conociendo realmente al Padre, y por Fe espero también que los hombres, todos nosotros, estemos dispuestos a realizar la voluntad del Padre, y a amarnos como él nos ama. Apuesta con todo a la supervivencia del Padre. alma y ser excelentes finalistas.) — I M
+Estoy conociendo al Padre realmente, y por Fe, igualmente espero que los hombres, todos, estemos dispuestos a llevar a cabo la voluntad del Padre, y amarnos como él nos ama, apostar con todo a la supervivencia del alma y ser excelentes finalistas. (Estoy conociendo realmente al Padre, y por Fe espero también que los hombres, todos nosotros, estemos dispuestos a realizar la voluntad del Padre, y a amarnos como él nos ama. Apuesta con todo a la supervivencia del alma y ser excelentes finalistas.) — I M
 
 ## Referencias
 

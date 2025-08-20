@@ -106,7 +106,7 @@ Entrar en la lista es voluntario. A cada miembro actual de la Fellowship con un 
 
 Los mensajes se archivarán para que aquellos que no deseen recibir correos electrónicos aún puedan leer las publicaciones anteriores en el sitio web para mantenerse actualizados. Sin embargo, inicialmente debe suscribirse y ser miembro de YahooGroups para leer las publicaciones archivadas. Su correo puede entonces apagarse como desee.
 
-Richard Omura está solicitando un voluntario de cada sociedad para que se haga cargo de los suscriptores (o no) de sus Si no se puede encontrar ninguno, Richard asumirá la posición de «listop» para las sociedades y también puede contactar a Richard Omura en: omura@mediaone. neto.
+Richard Omura está solicitando un voluntario de cada sociedad para que se haga cargo de los suscriptores (o no) de sus Si no se puede encontrar ninguno, Richard asumirá la posición de «listop» para las sociedades y también puede contactar a Richard Omura en: omura@mediaone.net.
 
 ## ¿Qué hay de nuevo en nuestro sitio web? ¡Historia y más!
 
@@ -152,7 +152,7 @@ Por ejemplo, «Melchizedek» tiene más de 100 referencias de índice desde Maqu
 
 El índice es una biblioteca de referencia muy útil para _El Libro de Urantia_. Y se espera que el precio del libro con el índice incluido sea de unos veinte dólares... un verdadero logro para el hombre y la maquinaria. Gracias a todos por su excelente trabajo.
 
-> ¿Alguna vez ha oído hablar de un niño en crecimiento que no tenía hambre? La creciente Fellowship del _Libro de Urantia_ necesita el sustento que ustedes pueden proporcionar. es nuestro tiempo
+> ¿Alguna vez ha oído hablar de un niño en crecimiento que no tenía hambre? La creciente Fellowship del _Libro de Urantia_ necesita el sustento que ustedes pueden proporcionar.
 
 ## Vamos mamás y papás
 

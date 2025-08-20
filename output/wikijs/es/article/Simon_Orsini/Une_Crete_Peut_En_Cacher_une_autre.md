@@ -91,7 +91,7 @@ El ocio, las artes, la música y la danza se crearon en varias dimensiones.
 
 Los caminos reales no existen en el universo espiritual; no podemos salir de nuestro mundo y creer que nos transformaremos en una entidad mágica y aprendida, no podremos refugiarnos en el tiempo para evitar problemas.
 
-Para convertirnos en una mente en evolución, no tendremos opciones ilimitadas para nuestras carreras, tendremos que elegir dentro de los límites que mejor se adapten a nuestra evolución, el principio de respetar el libre albedrío de cada individuo, siempre que su elección no sea perniciosa ni perjudicial. al todo o a sí mismo.
+Para convertirnos en una mente en evolución, no tendremos opciones ilimitadas para nuestras carreras, tendremos que elegir dentro de los límites que mejor se adapten a nuestra evolución, el principio de respetar el libre albedrío de cada individuo, siempre que su elección no sea perniciosa ni perjudicial al todo o a sí mismo.
 
 Si hay dificultades, tendremos que confiar en nuestros educadores para que nos muestren el camino correcto.
 

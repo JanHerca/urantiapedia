@@ -142,7 +142,7 @@ C’est peut-être un domaine inexploré pour beaucoup d’entre nous, mais je p
 
 En pointant du doigt notre conscience du corps, de l’esprit et de l’esprit, je pense que nous pouvons maintenant voir que Jésus anticipait notre prise de conscience de la triple dotation du Saint-Esprit, de l’Esprit de Vérité et de la présence intérieure du Père. 
 
-Notre partenariat créatif avec ces dotations de présence spirituelle, telles qu’elles sont unifiées dans notre expérience par le ministère angélique, nous met sur un chemin de synergie humaine-divine qui nous permet de découvrir et de développer une réalité nouvelle et potentiellement éternelle : notre identité d’âme morontielle. Cette version émergente de nous-mêmes sera une révélation infinie de possibilités super-additives que nous n'aurions jamais pu imaginer. 
+Notre partenariat créatif avec ces dotations de présence spirituelle, telles qu’elles sont unifiées dans notre expérience par le ministère angélique, nous met sur un chemin de synergie humaine-divine qui nous permet de découvrir et de développer une réalité nouvelle et potentiellement éternelle : notre identité d’âme morontielle. Cette version émergente de nous-mêmes sera une révélation infinie de possibilités super-additives que nous n'aurions jamais pu [des mots manquent dans l'original].
 
 **Fruits de l'Esprit :**
  * service affectueux

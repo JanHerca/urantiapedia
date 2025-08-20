@@ -47,7 +47,7 @@ De repente, el universo hizo contacto con los mortales, entre la Primera y la Se
 
 Un concepto clave en la reafirmación de las enseñanzas de Jesús en este libro es la distinción trazada entre la religión generalizada acerca de Jesús, llamada cristianismo, y la religión real que el mismo Jesús practicaba, como ser divino y humano, aquí en este planeta.
 
-Para los estudiantes de la Revelación de Urantia que han descubierto la historia transformadora de la existencia humana de Jesús, una apreciación más profunda del significado de sus incomparables enseñanzas es solo el comienzo de una búsqueda de por vida de significados y valores que realmente hace que todas las cosas sean nuevas, también materiales. como espiritual.
+Para los estudiantes de la Revelación de Urantia que han descubierto la historia transformadora de la existencia humana de Jesús, una apreciación más profunda del significado de sus incomparables enseñanzas es solo el comienzo de una búsqueda de por vida de significados y valores que realmente hace que todas las cosas sean nuevas, también materiales como espiritual.
 
 Pero, ¿y la Buena Nueva? ¿Qué tiene que decirnos esta Revelación sobre el Evangelio, no de Marcos, Lucas, Pablo o Juan, sino del mismo Jesús de Nazaret?
 

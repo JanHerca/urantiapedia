@@ -161,9 +161,9 @@ _“How best can I awaken these latent powers for good which lie dormant in your
 
 His answer:
 
-> _Look to your Master!
-> __Even now he is out in the hills taking in power while we are here giving out energy. The secret of all this problem is wrapped up in spiritual communion, in worship. From the human standpoint it is a question of combined meditation and relaxation.
-> __Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship._ <a id="a165_241"></a>[[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)] 
+> _Look to your Master!_
+> _Even now he is out in the hills taking in power while we are here giving out energy. The secret of all this problem is wrapped up in spiritual communion, in worship. From the human standpoint it is a question of combined meditation and relaxation._
+> _Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship._ <a id="a165_241"></a>[[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)] 
 
 Yes, Rodan exhorted us to follow the Master’s example of unbroken communion with our Father through sincere prayer and worship.
 

@@ -151,9 +151,7 @@ People are prone to start from what is “at hand” and work backwards to origi
 
 Do not each of us carry inheritance traits of both our biological mother and father? Are not fathers sometimes called upon by necessity to fulfill the role of mother, and vice versa? 
 
-The Trinity Inevitability. Universe philosophers have stated there are multiple, many, perhaps even infinite ways that all things can or could be done. But, there is only one absolute inevitability—the Trinity. <a id="a153_211"></a>[[UB 10:0.3](/en/The_Urantia_Book/10#p0_3)] All that we know or attempt to imagine could not be done but through the Trinity—the Father, the Mother, and their Conjoint Action. 
-
-Universe philosophers have stated there are multiple, many, perhaps even infinite ways that all things can or could be done. But, there is only one absolute inevitability—the Trinity. <a id="a155_184"></a>[[UB 10:0.3](/en/The_Urantia_Book/10#p0_3)] All that we know or attempt to imagine could not be done but through the Trinity—the Father, the Mother, and their Conjoint Action. 
+The Trinity Inevitability. Universe philosophers have stated there are multiple, many, perhaps even infinite ways that all things can or could be done. But, there is only one absolute inevitability—the Trinity. <a id="a153_211"></a>[[UB 10:0.3](/en/The_Urantia_Book/10#p0_3)] All that we know or attempt to imagine could not be done but through the Trinity—the Father, the Mother, and their Conjoint Action.
 
 > Joshua J. Wilson is a musician, pastoral counselor, and essayist who writes on historical and scientific subjects harmonizing science, philosophy and spirituality. 
 > He holds a bachelor’s degree in Business Administration and Decision Information Systems,specializing in Human Behavior in Organizations, and certificates in Not-for-Profit Management and Active Parenting Instruction. Hobbies include camping and hiking. Contact email: musical@cox.net 

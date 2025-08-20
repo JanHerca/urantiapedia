@@ -89,7 +89,7 @@ Los miembros de la Fellowship deben pensar en las personas que podrían ayudar a
 
 ## Universidad de Villanova seleccionada como sitio para Ic05
 
-Ubicada en un hermoso e histórico suburbio de Filadelfia, la Universidad de Villanova será la anfitriona de la Conferencia Internacional de la Fellowship en 2005. Habitaciones modernas con aire acondicionado, amplias salas de reuniones, conveniente transporte ferroviario tanto al aeropuerto como al centro de Filadelfia y muchas otras comodidades brindarán un atractivo telón de fondo. para el estudio del libro y la socialización de los asistentes que hacen que las conferencias internacionales sean tan memorables. Se puede encontrar un recorrido virtual por el campus de la Universidad de Villanova en la web en [http://www.admission.villanova.edu/virtualtour/index.html](http://www.admission.villanova.edu/virtualtour/index .html)
+Ubicada en un hermoso e histórico suburbio de Filadelfia, la Universidad de Villanova será la anfitriona de la Conferencia Internacional de la Fellowship en 2005. Habitaciones modernas con aire acondicionado, amplias salas de reuniones, conveniente transporte ferroviario tanto al aeropuerto como al centro de Filadelfia y muchas otras comodidades brindarán un atractivo telón de fondo para el estudio del libro y la socialización de los asistentes que hacen que las conferencias internacionales sean tan memorables. Se puede encontrar un recorrido virtual por el campus de la Universidad de Villanova en la web en [http://www.admission.villanova.edu/virtualtour/index.html](http://www.admission.villanova.edu/virtualtour/index .html)
 
 Buscando un logotipo para IC05
 

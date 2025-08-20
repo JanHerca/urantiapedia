@@ -48,7 +48,7 @@ La evolución de Dios continuó durante su ministerio, pues se dispuso a reforma
 
 El ministerio de Jesús fue una liberación adicional del ritual por sí mismo. («No es lo que entra en la boca del hombre lo que lo contamina, sino lo que sale de ella»). Fue un avance evolutivo en la concepción que tienen los hombres del Creador y su relación con nosotros.
 
-Desgraciadamente, la iglesia fundada en el nombre de Jesús (lo que creo que lo habría conmocionado y escandalizado) retrocedió, como lo hacen todos los establecimientos, y se volvió a su manera tan represiva, ritualista y rígida como la sinagoga contra la que se rebeló, poniendo nuevamente la ley por encima de la ley. espíritu.
+Desgraciadamente, la iglesia fundada en el nombre de Jesús (lo que creo que lo habría conmocionado y escandalizado) retrocedió, como lo hacen todos los establecimientos, y se volvió a su manera tan represiva, ritualista y rígida como la sinagoga contra la que se rebeló, poniendo nuevamente la ley por encima de la ley.
 
 Dios crece, a medida que nosotros crecemos, porque refleja en lo que nos convertimos; y cuando crezcamos al máximo, tendremos al Dios pleno, no un Dios de los fundamentalistas, sino un Dios de los fundamentos, una luz, no un látigo.
 

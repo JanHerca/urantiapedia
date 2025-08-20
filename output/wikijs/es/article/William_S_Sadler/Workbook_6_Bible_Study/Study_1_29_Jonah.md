@@ -42,7 +42,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. En <a id="s42_6"></a>[LU 130:1.2](/es/The_Urantia_Book/130#p1_2) Jesús usó la historia de Jonás para enseñar una valiosa lección al joven de Jope. No informó a su alumno si la historia era historia o parábola.
 2. En <a id="s43_6"></a>[LU 159:4.1](/es/The_Urantia_Book/159#p4_1) Jesús habló de Jonás con Natanael. Incluso llegó a decir que Jonás era una parábola o alegoría evangelística.
-3. Las referencias en [Mt 12:39-41](/es/Bible/Matthew/12#v39) y [Lc 11:29-32](/es/Bible/Luke/11#v29), donde Jesús se refiere a Jonás en conexión con los suyos. muerte, no aparecen en el Libro de Urantia.
+3. Las referencias en [Mt 12:39-41](/es/Bible/Matthew/12#v39) y [Lc 11:29-32](/es/Bible/Luke/11#v29), donde Jesús se refiere a Jonás en conexión con los suyos, no aparecen en el Libro de Urantia.
 4. Incluso si Jesús hizo uso de la historia de Jonás, no se sigue que tal uso de la historia signifique que Jesús esté validando la narrativa de Jonás como historia. Si un predicador moderno se refiere al Macbeth de Shakespeare, no significa que considere a Macbeth como un personaje histórico.
 5. Jesús, al referirse al hijo pródigo, en la parábola de ese nombre, no quiere decir que este hijo pródigo fuera un personaje histórico.
 
@@ -69,7 +69,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## VI. Textos seleccionados
 
-1. **La comisión de Jonás**. «‘Levántate, ve a Nínive... y clama contra ella.’... Pero Jonás se levantó para huir a Tarsis... Bajó a Jope y encontró un barco... entonces pagó el pasaje y se fue. a bordo.» [1:2,3](/es/Bible/Jonah/1#v2).
+1. **La comisión de Jonás**. «‘Levántate, ve a Nínive... y clama contra ella.’... Pero Jonás se levantó para huir a Tarsis... Bajó a Jope y encontró un barco... entonces pagó el pasaje y se fue a bordo.» [1:2,3](/es/Bible/Jonah/1#v2).
 2. **Jonás arrojado por la borda**. «Entonces tomaron a Jonás y lo arrojaron al mar». [1:15](/es/Bible/Jonah/1#v15).
 3. **El pez gordo**. «Y Jehová dispuso un gran pez para que se tragara a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches». [1:17](/es/Bible/Jonah/1#v17).
 4. **Jonás ora**. Entonces Jonás oró a Jehová su Dios desde el vientre del pez." [2:1](/es/Bible/Jonah/2#v1).

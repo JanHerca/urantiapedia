@@ -57,7 +57,7 @@ Individuos, parejas y pequeños grupos que representan a la Fellowship han viaja
 
 La Fellowship está considerando nuestra propuesta para una persona del Servicio Internacional de Lectores, una posición financiada, para fomentar y fortalecer la infraestructura social de los lectores españoles emergentes. Muchos de nosotros sentimos que América Latina pronto se mostrará como líder de esta revelación.
 
-La Heart of America Society (gracias Ken Raveill), la Fundación Urantia y la Fellowship trabajaron juntos para traducir, publicar y distribuir el «Urdu Sampler»: cinco artículos seleccionados del Libro en un formato en el que la página de la izquierda está en inglés. y la página de la derecha está en urdu, el idioma principal de Pakistán. ¿No sería fantástico si un «libro de muestras» estuviera disponible en todos los idiomas en todos los países?
+La Heart of America Society (gracias Ken Raveill), la Fundación Urantia y la Fellowship trabajaron juntos para traducir, publicar y distribuir el «Urdu Sampler»: cinco artículos seleccionados del Libro en un formato en el que la página de la izquierda está en inglés y la página de la derecha está en urdu, el idioma principal de Pakistán. ¿No sería fantástico si un «libro de muestras» estuviera disponible en todos los idiomas en todos los países?
 
 ## Buck Weimer Nuevo Presidente Internacional
 
@@ -75,7 +75,7 @@ Nosotros en el Comité de la Fellowship Internacionales sabemos que esta revelac
 
 ## Una experiencia de extensión en el campus
 
-Para los objetivos que nos hemos fijado, _El Club del Libro de Urantia_ de la Universidad de Colorado, Boulder, es un gran éxito. Tenemos una exhibición atractiva y llamativa y excelentes carteles que hacen que los estudiantes de la UCB se detengan y miren mientras pasan. Tenemos Libros de Urantia en exhibición y volantes gratuitos como folletos. Y, por supuesto, nos tenemos a nosotros mismos, el grupo de geezers, sentados en sillas en el fondo, listos para saltar en cualquier momento. Estamos logrando nuestros objetivos porque son bastante simples: exhibir el libro de una manera atractiva para que la palabra Urantia se convierta en una parte familiar (aunque solo subconsciente) de la vida del campus para esas miles de mentes jóvenes y atentas que transitan por los pasillos. de aprendizaje.
+Para los objetivos que nos hemos fijado, _El Club del Libro de Urantia_ de la Universidad de Colorado, Boulder, es un gran éxito. Tenemos una exhibición atractiva y llamativa y excelentes carteles que hacen que los estudiantes de la UCB se detengan y miren mientras pasan. Tenemos Libros de Urantia en exhibición y volantes gratuitos como folletos. Y, por supuesto, nos tenemos a nosotros mismos, el grupo de geezers, sentados en sillas en el fondo, listos para saltar en cualquier momento. Estamos logrando nuestros objetivos porque son bastante simples: exhibir el libro de una manera atractiva para que la palabra Urantia se convierta en una parte familiar (aunque solo subconsciente) de la vida del campus para esas miles de mentes jóvenes y atentas que transitan por los pasillos de aprendizaje.
 
 Aun así, las cosas mejorarían mucho si la UCB no fuera el único campus de Estados Unidos que tiene un club del Libro de Urantia. Numerosas propuestas, estudios y reuniones para diversas formas de divulgación han ido y venido a lo largo de las décadas; éste es sencillo y cumple su objetivo.
 

@@ -76,7 +76,7 @@ Su arrepentimiento lo llevó a su madre Eva, portadora de la antorcha de la espi
 
 Así fue como Dios, en Su Amor Misericordioso, dio a luz una parte de Él en Caín.
 
-Este nuevo Ajustador del Pensamiento lo guió hacia una mejor forma de vida, donde, arrepentido y transformado, se casó, logró mantener la paz durante toda su vida entre dos pueblos opuestos y divididos, y tuvo un hijo, Enoc, que se convirtió en un gran amigo. líder de paz y amor.
+Este nuevo Ajustador del Pensamiento lo guió hacia una mejor forma de vida, donde, arrepentido y transformado, se casó, logró mantener la paz durante toda su vida entre dos pueblos opuestos y divididos, y tuvo un hijo, Enoc, que se convirtió en un gran amigo de paz y amor.
 
 Dios nunca deja de amar a sus hijos, desprecia el pecado, pero nunca al pecador.
 

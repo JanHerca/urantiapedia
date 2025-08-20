@@ -89,7 +89,7 @@ https://urantiauniversity.org/page-1804213
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/051.jpg">
 </figure>
 
-El **Curso de Formación Espiritual** en línea de 10 semanas introduce a los participantes a una forma de vida nueva y superior. El propósito del Curso es ayudarnos a movilizar nuestra fe, permitiendo que el Espíritu nos transforme más completamente, para que podamos realmente comenzar a vivir en una relación de familia espiritual, con Dios como nuestro Padre celestial y todos los seres humanos como nuestras hermanas y hermanas espirituales. hermanos
+El **Curso de Formación Espiritual** en línea de 10 semanas introduce a los participantes a una forma de vida nueva y superior. El propósito del Curso es ayudarnos a movilizar nuestra fe, permitiendo que el Espíritu nos transforme más completamente, para que podamos realmente comenzar a vivir en una relación de familia espiritual, con Dios como nuestro Padre celestial y todos los seres humanos como nuestras hermanas y hermanas espirituales.
 
 La Formación Espiritual es un proceso en el que clarificamos, organizamos e integramos las verdades espirituales centrales en nuestra vida (los grandes dones, las «preciosísimas y grandísimas promesas de Dios») para que, por el ejercicio de «nuestra fe, y la transformación del espíritu », podemos comenzar a vivir cada vez más estas verdades y eventualmente encarnarlas y convertirnos en ellas.
 

@@ -38,7 +38,7 @@ Para un judío que vivía en Palestina hace dos mil años, ¿quiénes habrían s
 
 En aquellos días, los judíos tenían una creencia muy fuerte en sí mismos como «pueblo elegido de Dios». Entonces, simplemente por motivos raciales, todos los no judíos serían descartados. Además, para que Jesús los ignorara, estos «grandes hombres» tendrían que haber sido judíos vivos, no «hombres de la antigüedad». A continuación, podemos descartar a los judíos designados como hombres de autoridad por sus amos romanos, hombres como Antipas y Felipe, los hijos de Herodes el Grande.
 
-Eso deja relativamente pocos judíos para ser considerados, entre ellos los escribas y maestros en el gran templo de Jerusalén, los abogados y los rabinos de las escuelas de las sinagogas, hombres a quienes ahora clasificaríamos como «académicos», el grupo altamente educado en la comunidad judía. sociedad de aquellos tiempos.
+Eso deja relativamente pocos judíos para ser considerados, entre ellos los escribas y maestros en el gran templo de Jerusalén, los abogados y los rabinos de las escuelas de las sinagogas, hombres a quienes ahora clasificaríamos como «académicos», el grupo altamente educado en la comunidad sociedad judía de aquellos tiempos.
 
 La siguiente cláusula en nuestra cita de la página 1594 dice: «Comenzó su obra con los pobres». Pero incluso entre este grupo (que constituía la mayor parte del resto de la población judía), Jesús estaba buscando un grupo especial: aquellas personas que tomarían su revelación del Padre en el cielo tan en serio que en realidad buscarían emular a Jesús en su propio vidas.
 
@@ -72,7 +72,7 @@ Una curiosidad de la presentación de los Documentos de Urantia es que el mandat
 
 En cualquier publicación normal en la que una calificación tan importante impone restricciones sobre lo que se puede discutir, uno esperaría encontrar esta restricción mencionada al principio y en un prefacio o introducción.
 
-La palabra «cosmología» se usa en los Documentos (recibidos a mediados de la década de 1930) en su forma tradicional como una rama de la metafísica (el estudio de la realidad última), e incluye filosofía, teología, religión y ciencia sin una línea de demarcación firme. separar la historia y los hechos de un tema en particular.
+La palabra «cosmología» se usa en los Documentos (recibidos a mediados de la década de 1930) en su forma tradicional como una rama de la metafísica (el estudio de la realidad última), e incluye filosofía, teología, religión y ciencia sin una línea de demarcación firme separar la historia y los hechos de un tema en particular.
 
 Así, cuando leemos, a mitad del libro (p. 1109), que «cualquier cosmología presentada como parte de la religión revelada está destinada a ser superada en muy poco tiempo», y también nos damos cuenta de algunos de los Documentos ' discrepancias problemáticas, tenemos derecho a preguntarnos si tal vez nos estamos enfrentando a una forma del siglo XX de «ignorar a los grandes hombres».
 
@@ -82,7 +82,7 @@ Por supuesto, no hay forma posible de obtener respuestas correctas a tales pregu
 
 Las opiniones presentadas en público tienden a endurecerse en hipótesis que deben ser defendidas, haciendo que se solidifiquen, a través de la justicia propia, en rectitud, y así llevar a los autores obstinados a jugar con Dios.
 
-Pero quizás otra razón para ignorar a los grandes hombres es que algunos «en autoridad» estarían tentados a formalizar la vida y las enseñanzas de Jesús en conjuntos y subconjuntos de instrucciones que deben seguirse meticulosamente, en lugar de dejar que los seguidores de Jesús resuelvan sus propias necesidades. camino individual con sus ayudantes divinos, el Espíritu de la Verdad y su Ajustador del Pensamiento.
+Pero quizás otra razón para ignorar a los grandes hombres es que algunos «en autoridad» estarían tentados a formalizar la vida y las enseñanzas de Jesús en conjuntos y subconjuntos de instrucciones que deben seguirse meticulosamente, en lugar de dejar que los seguidores de Jesús resuelvan sus propias necesidades camino individual con sus ayudantes divinos, el Espíritu de la Verdad y su Ajustador del Pensamiento.
 
 > «El Maestro intentó imprimir en el ánimo de todos los educadores del evangelio del reino que **lo único que tenían que hacer era revelar al hombre individual** que Dios es su Padre —llevar a ese hombre individual a hacerse consciente de su filiación; y luego, presentar este mismo hombre a Dios como su hijo por la fe. Estas dos revelaciones esenciales se cumplían en Jesús. Él se convirtió, efectivamente, en «el camino, la verdad y la vida». **La religión de Jesús estaba enteramente basada en la manera de vivir** su vida de donación en la Tierra. Cuando Jesús se marchó de este mundo, no dejó detrás de él ni libros, ni leyes, ni otras formas de organización humana que afectaran la vida religiosa del individuo». (<a id="a86_721"></a>[LU 141:7.4](/es/The_Urantia_Book/141#p7_4))
 

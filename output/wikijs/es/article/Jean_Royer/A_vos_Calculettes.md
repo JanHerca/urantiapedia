@@ -51,7 +51,7 @@ Sabemos que la velocidad de la luz es de aproximadamente 300.000 kilómetros por
 
 Imaginemos que salió de Uversa al mismo tiempo que el Divino Consejero para ir a Urantia y hacernos la pregunta: ¿Cuánto tiempo tardó en llegar a Urantia?
 
-El **Mensajero Solitario va** 4.513.897:753.440 = **6 veces más rápido que el Consejero Divino**, por lo que en lugar de 109 días tardó: 109:6 = aproximadamente 18,17 días, porque hay que tener en cuenta el frenado. a la llegada. Disponemos de cifras aparentemente precisas, pero son ilusorias.
+El **Mensajero Solitario va** 4.513.897:753.440 = **6 veces más rápido que el Consejero Divino**, por lo que en lugar de 109 días tardó: 109:6 = aproximadamente 18,17 días, porque hay que tener en cuenta el frenado a la llegada. Disponemos de cifras aparentemente precisas, pero son ilusorias.
 
 La moraleja que extraigo de esto es que nos llevará mucho tiempo llegar primero a Uversa y aún más para lo que nos dicen que es el largo viaje desde las costas de Havona hasta el Paraíso. Espero no ser demasiado susceptible al «enfermedad espacial».
 

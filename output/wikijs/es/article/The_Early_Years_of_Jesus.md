@@ -36,11 +36,11 @@ dateCreated: 2022-09-26T22:46:20.684Z
 
 Para los lectores del Libro de Urantia, y suponiendo la ausencia de la revelación de Urantia, es interesante y educativo darse cuenta de lo poco que se sabe sobre la fase prebautismal de la vida de Jesús. Sin _El Libro de Urantia_ ni siquiera se conoce la fecha o el año del nacimiento de Jesús.
 
-La revelación también nos proporciona un relato detallado de aquellos años de formación de Jesús en los que él era un hombre completamente mortal, sin conocimiento de su propia divinidad y apenas un indicio de la vida post-bautismal que lo confrontaría como Dios y como Dios. hombre.
+La revelación también nos proporciona un relato detallado de aquellos años de formación de Jesús en los que él era un hombre completamente mortal, sin conocimiento de su propia divinidad y apenas un indicio de la vida post-bautismal que lo confrontaría como Dios y como Dios hombre.
 
 Una vez más, sin _El Libro de Urantia_, ¿qué podríamos haber sabido acerca de esa vida temprana? Aparte de los pocos fragmentos de información contenidos en los Evangelios del Nuevo Testamento, nuestro único recurso es suponer que Jesús habría recibido el mismo tipo de formación que cualquier otro niño galileo que tuviera padres como María y José, que viviera en un pueblo como como Nazaret en Galilea donde José era carpintero.
 
-Los Evangelios nos cuentan que el nacimiento de Jesús tuvo lugar en Belén, donde María y José habían ido a participar en un censo ordenado por el emperador romano César Augusto. Pero mientras estaba en Belén, un «ángel del Señor se le apareció a José en sueños y le dijo: Levántate, toma al niño y a su madre, y huye a Egipto, y quédate allí hasta que yo te diga, porque Herodes buscará al niño. para destruirlo.» ([Mateo 2:13](/es/Bible/Matthew/2#v13))
+Los Evangelios nos cuentan que el nacimiento de Jesús tuvo lugar en Belén, donde María y José habían ido a participar en un censo ordenado por el emperador romano César Augusto. Pero mientras estaba en Belén, un «ángel del Señor se le apareció a José en sueños y le dijo: Levántate, toma al niño y a su madre, y huye a Egipto, y quédate allí hasta que yo te diga, porque Herodes buscará al niño para destruirlo.» ([Mateo 2:13](/es/Bible/Matthew/2#v13))
 
 Más tarde, muerto Herodes, un ángel del Señor se apareció de nuevo a José en sueños y le dijo: «Levántate, toma al niño y a su madre, y vete a la tierra de Israel. Porque muertos son los que buscaban la vida del niño.» ([Mateo 2](/es/Bible/Matthew/2); [Lucas 2](/es/Bible/Luke/2)). Finalmente José, María y Jesús se establecieron en Nazaret.
 
@@ -72,7 +72,7 @@ Séforis no recibe una mención en relación con Jesús y no se menciona ni en e
 
 Una ciudad tan grande en las proximidades de Nazaret, donde Jesús parece haber pasado gran parte de su vida temprana, pero sin embargo, el hecho de no ser mencionado ni en la literatura evangélica ni por los historiadores modernos es un misterio sin explicación. Sin embargo, parece muy poco probable que Jesús pudiera haber vivido a poca distancia a pie de la capital provincial y no dejarse influir por su presencia.
 
-Ciertamente, la omisión se ha subsanado en _El Libro de Urantia_ (publicado en 1955), que nos informa que no solo Jesús pasó varios años trabajando a tiempo completo en Séforis, sino que también su padre terrenal, José, murió allí mientras trabajaba en uno de los edificios de Herodes. proyectos
+Ciertamente, la omisión se ha subsanado en _El Libro de Urantia_ (publicado en 1955), que nos informa que no solo Jesús pasó varios años trabajando a tiempo completo en Séforis, sino que también su padre terrenal, José, murió allí mientras trabajaba en uno de los edificios de Herodes.
 
 Por lo tanto, Jesús no era un paleto del campo que nunca había estado expuesto a la civilización grecorromana1. Según _El Libro de Urantia_, su padre, Joseph, hablaba tanto arameo como griego con fluidez, y le enseñó griego al joven Jesús a partir de una versión en griego de las Escrituras que un amigo de la familia le presentó a Jesús cuando era niño en Egipto.
 

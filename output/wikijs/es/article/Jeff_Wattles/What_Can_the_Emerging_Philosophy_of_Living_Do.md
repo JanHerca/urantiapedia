@@ -55,7 +55,7 @@ Estos tres estímulos intelectuales y culturales bendecirán a los pueblos de nu
 
 Por tanto, la nueva filosofía no es sólo para el crecimiento personal. Contiene un paradigma cósmico para la educación. La verdadera educación nos mantiene activos en nuestra frontera de crecimiento: "el carácter adquirido por la experiencia ilustrada". <a id="a55_254"></a>[LU 37:6.3](/es/The_Urantia_Book/37#p6_3)
 
-Durante el seminario, Gard y yo dirigiremos una reunión de personas que leerán y discutirán mi libro Vivir en la verdad, la belleza y la bondad, explorarán enseñanzas seleccionadas en El Libro de Urantia que subyacen en ese libro y se atreverán a aventurarse en una investigación centrada en proyectos. educación experiencial, siguiendo un método que ha sido probado con miles de estudiantes de Kent State University. Para obtener un resumen de mi libro, vaya a https://sites.google.com/site/ubquestionsandstudies/.
+Durante el seminario, Gard y yo dirigiremos una reunión de personas que leerán y discutirán mi libro Vivir en la verdad, la belleza y la bondad, explorarán enseñanzas seleccionadas en El Libro de Urantia que subyacen en ese libro y se atreverán a aventurarse en una investigación centrada en proyectos de educación experiencial, siguiendo un método que ha sido probado con miles de estudiantes de Kent State University. Para obtener un resumen de mi libro, vaya a https://sites.google.com/site/ubquestionsandstudies/.
 <br style="clear:both;"/>
 
 

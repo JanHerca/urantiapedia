@@ -105,7 +105,7 @@ También me gustaron mucho ciertos pasajes de obras de gran significado espiritu
 > El alcance de las creencias de cada uno de nosotros debe ser proporcional al alcance de nuestra visión personal; y no en la medida de un Credo, venga de donde venga” 
 > _(“El cristianismo de Cristo y el de sus vicarios” por Abad Alta, Vigot Frères Editeurs)_
 
-Esta obra del Abad Alta publicada en 1921 y que estoy feliz de poseer ha tenido un gran impacto en mí por su incomparable riqueza espiritual y por lo que este sacerdote católico, doctor de la Sorbona, se atrevió a escribir en un momento en el que era necesario moldear. ellos mismos en la rigidez de la Iglesia Romana.
+Esta obra del Abad Alta publicada en 1921 y que estoy feliz de poseer ha tenido un gran impacto en mí por su incomparable riqueza espiritual y por lo que este sacerdote católico, doctor de la Sorbona, se atrevió a escribir en un momento en el que era necesario moldear ellos mismos en la rigidez de la Iglesia Romana.
 En muchos sentidos, anticipó lo que he descubierto durante menos de dos años con estas maravillas del _Libro de Urantia_.
 
 El Padre Alta no tenía idea, en un momento en que el Libro de Urantia aún no se había publicado, que estaba prediciendo tal evento:

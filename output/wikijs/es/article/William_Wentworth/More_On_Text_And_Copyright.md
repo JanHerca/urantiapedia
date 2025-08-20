@@ -59,7 +59,7 @@ La pérdida de los derechos de autor pondría fin al poder legal de la Fundació
 
 > Negarse a permitir la corrupción del texto por la propiedad de los derechos de autor no debe confundirse con reclamar la propiedad de la revelación misma.
 
-Por supuesto, es cierto que los derechos de autor expiran en un par de décadas y, de todos modos, entonces habrá que tolerar este problema. Pero cuanto más se demore la expiración, mayor será el número de lectores sinceros del texto no adulterado que defenderán su autenticidad, y mayor será el número de dichos textos en bibliotecas, librerías y manos privadas para equilibrar la influencia de los corruptos. textos.
+Por supuesto, es cierto que los derechos de autor expiran en un par de décadas y, de todos modos, entonces habrá que tolerar este problema. Pero cuanto más se demore la expiración, mayor será el número de lectores sinceros del texto no adulterado que defenderán su autenticidad, y mayor será el número de dichos textos en bibliotecas, librerías y manos privadas para equilibrar la influencia de los textos corruptos.
 
 Ésta, dicho sea de paso, es una de las razones principales por las que es útil aumentar la venta de libros, incluso entre personas que no los leen muy a menudo, ya que habrá un banco de libros en estanterías en todo tipo de lugares probables e improbables donde su gran número puede ayudar a socavar la autoridad de textos corruptos rivales.
 

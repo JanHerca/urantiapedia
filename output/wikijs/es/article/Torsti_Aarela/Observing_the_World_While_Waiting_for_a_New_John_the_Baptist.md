@@ -96,7 +96,7 @@ La última cita nos deja saber claramente que un sacerdote y un verdadero maestr
 
 > _Pentecostés marcó el final de los sacerdocios especiales y de toda creencia en las familias sagradas._ (<a id="a96_107"></a>[LU 194:3.15](/es/The_Urantia_Book/194#p3_15))
 
-La iglesia tiene el cargo de administrador de la Palabra y los Sacramentos, pero esto es cierto sólo porque la iglesia misma así lo ha determinado, y la definición anterior lamentablemente tiene un efecto esclavizante en muchos de nuestros hermanos. Esto es parte del espíritu de nuestra época: la vieja «historia», el cristianismo y sus enseñanzas, opera en segundo plano, aunque, en cierto modo, se le ha dicho adiós en una situación en la que todavía no sabemos dónde. nos dirigimos.
+La iglesia tiene el cargo de administrador de la Palabra y los Sacramentos, pero esto es cierto sólo porque la iglesia misma así lo ha determinado, y la definición anterior lamentablemente tiene un efecto esclavizante en muchos de nuestros hermanos. Esto es parte del espíritu de nuestra época: la vieja «historia», el cristianismo y sus enseñanzas, opera en segundo plano, aunque, en cierto modo, se le ha dicho adiós en una situación en la que todavía no sabemos dónde nos dirigimos.
 
 La afirmación de que el Espíritu de la Verdad (el Espíritu Santo de los cristianos) sería otorgado a través de la Palabra y los Sacramentos es una de esas doctrinas cuyo objetivo es el monopolio espiritual de la iglesia y su perpetuación. La visión del Libro de URANTIA es inequívoca:
 

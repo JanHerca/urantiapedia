@@ -136,7 +136,7 @@ Este artículo tiene como objetivo proporcionar una comprensión un poco mejor:
 1. que la personalidad de un ascendente funciona progresivamente en todos los niveles de la realidad cósmica (finita, absonita y absoluta);
 2. que se expresa y realiza a través de los hechos de la ciencia, las interpretaciones de la filosofía y los valores religiosos de la realidad universal en cada uno de los niveles precedentes de la realidad cósmica;
 3. que el grado, la madurez de esta expresión y de esta realización está definido, medido por las 7 dimensiones cósmicas (3 en el nivel finito, 3 en el nivel absonito y 1 en el nivel absoluto de la realidad cósmica);
-4. que el progreso evolutivo está determinado por la calidad de los valores divinos (amor, verdad, belleza y bondad), calidad revelada por la investigación personal, la aplicación y la asimilación de las lecciones de los hechos, significados y valores de la realidad universal. en todos los niveles de la realidad cósmica.
+4. que el progreso evolutivo está determinado por la calidad de los valores divinos (amor, verdad, belleza y bondad), calidad revelada por la investigación personal, la aplicación y la asimilación de las lecciones de los hechos, significados y valores de la realidad universal en todos los niveles de la realidad cósmica.
 
 Considerando la naturaleza ardua de este tema y mi comprensión poco finita del funcionamiento de la personalidad, deseo y me atrevo a esperar aprender mucho más a través de los comentarios, aclaraciones y preguntas de los lectores interesados.
 

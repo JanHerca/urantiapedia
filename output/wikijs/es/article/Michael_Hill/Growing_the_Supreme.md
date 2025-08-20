@@ -45,10 +45,10 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
 2. <a id="a44_3"></a>[LU 22:7.11](/es/The_Urantia_Book/22#p7_11) El Ser Supremo es la unificación de las tres fases de la realidad de la deidad: Dios el Supremo, el Todopoderoso Supremo y la Mente Suprema
 3. <a id="a45_3"></a>[LU 0:9.2](/es/The_Urantia_Book/0#p9_2) «El Supremo es la unificación de la Trinidad tal como la comprenden los seres finitos»
 4. <a id="a46_3"></a>[LU 0:7.9](/es/The_Urantia_Book/0#p7_9) Cuando finalmente se actualice, esta Deidad evolutiva constituirá la fusión eterna de lo finito y lo infinito, la unión eterna e indisoluble del poder experiencial y la personalidad espiritual.
-5. <a id="a47_3"></a>[LU 117:7.16](/es/The_Urantia_Book/117#p7_16) ...Ciertamente, sin embargo, la personalidad del Ser Supremo será definitivamente contactable en alguna localidad específica, aunque la ubicuidad de su presencia de Deidad probablemente continuará impregnar el universo de los universos.
+5. <a id="a47_3"></a>[LU 117:7.16](/es/The_Urantia_Book/117#p7_16) ...Ciertamente, sin embargo, la personalidad del Ser Supremo será definitivamente contactable en alguna localidad específica, aunque la ubicuidad de su presencia de Deidad probablemente continuará impregnando el universo de los universos.
 6. Realidad del Supremo - <a id="a48_26"></a>[LU 130:4.2](/es/The_Urantia_Book/130#p4_2) «La causalidad en el mundo físico, la conciencia de sí en el mundo intelectual y el yo progresivo en el mundo espiritual —estas realidades, proyectadas a escala universal, combinadas en una conexión eterna y experimentadas con cualidades perfectas y valores divinos— constituyen la realidad del Supremo.»
 
-## Growing The Supreme – Relación con Dios Lo que debemos hacer
+## Haciendo crecer al Supremo – Relación con Dios Lo que debemos hacer
 
 1. <a id="a52_3"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1) Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.
 2. <a id="a53_3"></a>[LU 116:1.1](/es/The_Urantia_Book/116#p1_1) La experiencia de la personalidad de cada criatura evolutiva es una fase de la experiencia del Todopoderoso Supremo. Nuestras decisiones-acciones impiden o fomentan la actualización del Supremo.
@@ -90,7 +90,7 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
         - iii. y el desarrollo de la personalidad sobre la fe.
 8. <a id="a90_3"></a>[LU 110:6.17](/es/The_Urantia_Book/110#p6_17) La fe hace real la filiación con Dios; se requiere acción –completar las decisiones– para la conciencia de parentesco con el Ser Supremo, un componente esencial para el logro del círculo.
 
-## Growing The Supreme – Relaciones con los demás Lo que podemos hacer
+## Haciendo crecer al Supremo – Relaciones con los demás Lo que podemos hacer
 
 1. Miguel en su otorgamiento como Jesús nos mostró a todos cómo relacionarnos con los demás.
 2. Es cómo somos con los demás lo que aumenta o retarda el crecimiento del Supremo.

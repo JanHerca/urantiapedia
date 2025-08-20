@@ -37,7 +37,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Tres australianos asistieron a la Conferencia, celebrada en Brunswick, Maine, a principios de agosto. Estas notas derivan de mi propia experiencia. Neil Francey y Hannah De Vries tendrán que hablar por sí mismos.
 
-Desde mi punto de vista, la gran diferencia entre esta conferencia y la de Snowmass en 1981, que fue la última a la que asistí, es que hay un interés bastante extraordinario en Australia en todo Estados Unidos, incluidos los lectores de El Libro de Urantia. Paul Hogan parece haber captado su atención, y es embriagador para el ingenuo asistente a la conferencia de Oz descubrir que su acento es reconocido y (si puedes creerlo) apreciado, que la gente sabe dónde está su país y quiere visitarlo. y que esas personas parecen benignamente tolerantes con sus pensamientos y hábitos.
+Desde mi punto de vista, la gran diferencia entre esta conferencia y la de Snowmass en 1981, que fue la última a la que asistí, es que hay un interés bastante extraordinario en Australia en todo Estados Unidos, incluidos los lectores de El Libro de Urantia. Paul Hogan parece haber captado su atención, y es embriagador para el ingenuo asistente a la conferencia de Oz descubrir que su acento es reconocido y (si puedes creerlo) apreciado, que la gente sabe dónde está su país y quiere visitarlo y que esas personas parecen benignamente tolerantes con sus pensamientos y hábitos.
 
 Esto hizo que socializar con los estadounidenses fuera muy fácil y agradable, y también nos permitió participar más directamente que en Snowmass. Neil Francey, como miembro del Comité Internacional de Becas, tuvo voz directa en algunas de las decisiones políticas adoptadas por ese Comité.
 

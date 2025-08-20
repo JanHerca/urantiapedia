@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-En varios lugares de los artículos, los autores de El libro de Urantia lamentan que el cristianismo primitivo encontrara sus fundamentos en la vida y las enseñanzas de Jesús y no en la revelación que él estaba ansioso de compartir con los hombres. El error, según ellos, fue no insistir en que la religión enseñada por Jesús se basaba en la paternidad de Dios y la fraternidad universal de los hombres. “Amaos unos a otros, como el Padre os ama” se ha transformado a menudo en disputas religiosas, cada religión, orgullosa de su credo e intransigente sobre la verdad que sostenía o creía tener, siempre ha buscado afirmar la supremacía de sus ideales sobre aquellos. de otros.
+En varios lugares de los artículos, los autores de El libro de Urantia lamentan que el cristianismo primitivo encontrara sus fundamentos en la vida y las enseñanzas de Jesús y no en la revelación que él estaba ansioso de compartir con los hombres. El error, según ellos, fue no insistir en que la religión enseñada por Jesús se basaba en la paternidad de Dios y la fraternidad universal de los hombres. “Amaos unos a otros, como el Padre os ama” se ha transformado a menudo en disputas religiosas, cada religión, orgullosa de su credo e intransigente sobre la verdad que sostenía o creía tener, siempre ha buscado afirmar la supremacía de sus ideales sobre aquellos.
 
 La regla de oro es siempre la misma. Dos mil años después, si tuviéramos que tomar en consideración un solo objetivo, sería reconocer la soberanía espiritual de Dios. De él depende la fraternidad entre los humanos y la unidad religiosa sin uniformidad del planeta. Éste es el mensaje principal que El Libro de Urantia intenta desarrollar.
 

@@ -62,7 +62,7 @@ El grupo de lectores más grande de Lituania se encuentra en la ciudad de Kaunas
 
 Los miembros del «Ashram de Urantia» en Moscú estaban muy complacidos de que alguien de la Fellowship tuviera que visitar su grupo. Unos 25 lectores asisten a las reuniones en este Ashram. También hicimos algunos contactos excelentes en Varsovia, incluido un profesor jubilado de historia polaca y de Europa del Este, que está muy interesado en el libro.
 
-Soy muy optimista de que podré poner en contacto a los líderes de estos diversos grupos y dentro de los próximos dos años establecer un trabajo social productivo en Europa del Este (que incluye a los lectores en Leningrado) similar al que tenemos. he podido establecerme en América Latina. Si las cosas van bien en Leningrado el próximo año, tal vez veamos una conferencia de Europa del Este organizada por grupos independientes.
+Soy muy optimista de que podré poner en contacto a los líderes de estos diversos grupos y dentro de los próximos dos años establecer un trabajo social productivo en Europa del Este (que incluye a los lectores en Leningrado) similar al que tenemos. He podido establecerme en América Latina. Si las cosas van bien en Leningrado el próximo año, tal vez veamos una conferencia de Europa del Este organizada por grupos independientes.
 
 ## Carta del Comité Ejecutivo: Desarrollos Recientes
 
@@ -146,7 +146,7 @@ Alternativamente, un grupo de cinco o más lectores puede convertirse en afiliad
 </figure>
 
 
-## El acto realmente es nuestro. es todo lo que tenemos
+## El acto realmente es nuestro. Es todo lo que tenemos
 
 ¡En los mundos venideros, apreciaremos más plenamente la gran oportunidad que tenemos aquí, ahora mismo, para ayudar a difundir esta revelación de verdad sin precedentes!
 

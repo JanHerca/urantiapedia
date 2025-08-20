@@ -43,7 +43,7 @@ dateCreated: 2024-10-17T22:23:59Z
 
 El aumento de masa en la materia es proporcional al aumento de energía dividido por el cuadrado de la velocidad de la luz, sabiendo que la energía sólo puede emitirse en cantidades exactas (cuántica).
 
-Los **quarks** se clasifican en seis tipos nombrados (sabores). Los neutrones se componen de dos quarks $1 y un quark U. Cada quark tiene una propiedad de interacción fuerte responsable de la cohesión del barión, los quarks tienen tres. colores posibles, ocho gluones y todo el conjunto de quarks o gluones es incoloro. El color del quark es su propiedad.
+Los **quarks** se clasifican en seis tipos nombrados (sabores). Los neutrones se componen de dos quarks $1 y un quark U. Cada quark tiene una propiedad de interacción fuerte responsable de la cohesión del barión, los quarks tienen tres colores posibles, ocho gluones y todo el conjunto de quarks o gluones es incoloro. El color del quark es su propiedad.
 
 **Spin**: los quarks son partículas magnéticas caracterizadas por un espín (efecto de rotación); la orientación relativa de los espines, quarks y neutrones influye en sus órbitas. Dos espines paralelos se repelen como dos imanes.
 
@@ -63,7 +63,7 @@ Más que nunca en la historia del mundo, el alma del hombre necesita examinar se
 
 ## Constitución de la tabla química básica.
 
-Cuando clasificamos los elementos fundamentales según su peso atómico, esta séptuple persistencia de constitución creativa emerge en el campo de la química como una recurrencia de propiedades físicas y químicas similares en grupos de siete. Este cambio periódico por siete, se reproduce atenuando, con. variaciones todo el cuadro químico.
+Cuando clasificamos los elementos fundamentales según su peso atómico, esta séptuple persistencia de constitución creativa emerge en el campo de la química como una recurrencia de propiedades físicas y químicas similares en grupos de siete. Este cambio periódico por siete, se reproduce atenuando, con variaciones todo el cuadro químico.
 
 Partiendo de cualquier elemento tras observar una de sus propiedades, esta cualidad cambia para seis elementos consecutivos, pero tiende a reaparecer cuando llegamos al octavo, es decir, el octavo elemento químicamente activo se parece al primero, el noveno al segundo, y así sucesivamente. , un poco como las octavas de la música.
 
@@ -97,7 +97,7 @@ Las procesiones de partículas de energía aparecen como fenómenos ondulatorios
 Los astrónomos han descubierto la existencia de materia oscura y energía oscura, esta teoría me parece que va en la dirección correcta:
 
 1. la energía que transita por el espacio se hará visible en el tiempo después de su metamorfosis en nebulosa;
-2. Las partículas energéticas que ocupan el espacio (100 partículas por 16 centímetros cúbicos) son ciertamente parte de las llamadas energías “negras” que podríamos detectar por contraste. El espacio no está vacío. Las esferas del espacio giran y se sumergen en un inmenso océano de energía de fuerza, desplegada. El contenido espacial de un átomo tampoco está vacío, en cualquier caso el éter no existe, es incluso la ausencia de este hipotético éter lo que permite a los planetas evitar caer en el sol y a los electrones que circulan en su órbita atómica resistir. la caída en el núcleo.
+2. Las partículas energéticas que ocupan el espacio (100 partículas por 16 centímetros cúbicos) son ciertamente parte de las llamadas energías “negras” que podríamos detectar por contraste. El espacio no está vacío. Las esferas del espacio giran y se sumergen en un inmenso océano de energía de fuerza, desplegada. El contenido espacial de un átomo tampoco está vacío, en cualquier caso el éter no existe, es incluso la ausencia de este hipotético éter lo que permite a los planetas evitar caer en el sol y a los electrones que circulan en su órbita atómica resistir la caída en el núcleo.
 
 La materia oscura podría ser comparable a las unidades fundamentales de nuestro universo. Serviría para el mismo propósito en un nivel diferente del espacio, muy cercano al nuestro.
 

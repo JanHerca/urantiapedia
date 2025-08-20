@@ -57,7 +57,7 @@ Cuando decimos que el hombre tiene una identidad, reconocemos que tiene un circu
 
 Esta manifestación, sin embargo, es puramente material y temporal, así como el embrión humano es una etapa de transición de la vida humana.
 
-En la perspectiva espiritual los seres humanos nacen, viven y mueren en un instante, no son duraderos, pero por su propia elección la personalidad humana posee el poder de transferir su sede de identidad del sistema físico-mental pasajero al sistema psico superior. espiritual, que se crea como un nuevo vehículo para la manifestación de la verdad de la personalidad. Es este mismo poder de elección, esta marca distintiva universal de las criaturas dotadas de libre albedrío, lo que constituye la mayor oportunidad del hombre y su suprema responsabilidad.
+En la perspectiva espiritual los seres humanos nacen, viven y mueren en un instante, no son duraderos, pero por su propia elección la personalidad humana posee el poder de transferir su sede de identidad del sistema físico-mental pasajero al sistema psico superior espiritual, que se crea como un nuevo vehículo para la manifestación de la verdad de la personalidad. Es este mismo poder de elección, esta marca distintiva universal de las criaturas dotadas de libre albedrío, lo que constituye la mayor oportunidad del hombre y su suprema responsabilidad.
 
 El destino eterno del futuro depende de la integridad de la voluntad humana para adquirir la personalidad eterna, el ser humano depende de la sinceridad de su libre albedrío. Si nuestras intenciones y deseos tienen valor de supervivencia, se nos dará más tiempo para demostrar nuestro valor.
 

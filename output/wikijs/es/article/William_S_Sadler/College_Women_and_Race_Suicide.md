@@ -32,7 +32,7 @@ La FORTALEZA del carácter heredado y las cualidades raciales superiores son, po
 
 Esto no significa que estemos defendiendo una alta tasa de natalidad como una virtud en sí misma. Los eugenistas no abogan por familias enormes sólo por el rápido aumento cuantitativo de la población. La eugenesia se conforma con un aumento moderado, un crecimiento constante, gradual y saludable.
 
-Daríamos la bienvenida a una disminución en la tasa de natalidad de algunas clases de la población, pero la dificultad es que la tendencia hacia la disminución en la reproducción se da entre las mismas clases que son necesarias para el desarrollo y la solidaridad nacional, mientras que las clases inferiores continúan reproduciéndose de manera desigual. de manera vigorosa, sin mostrar evidencia alguna de disminución alguna en la tasa de natalidad.
+Daríamos la bienvenida a una disminución en la tasa de natalidad de algunas clases de la población, pero la dificultad es que la tendencia hacia la disminución en la reproducción se da entre las mismas clases que son necesarias para el desarrollo y la solidaridad nacional, mientras que las clases inferiores continúan reproduciéndose de manera desigual de manera vigorosa, sin mostrar evidencia alguna de disminución alguna en la tasa de natalidad.
 
 La disminución de la tasa de natalidad en la actualidad se está produciendo en aquellos estratos de la sociedad de los que obtenemos nuestros líderes, el tipo de hombres y mujeres que se convierten en pioneros y organizadores en el comercio, la industria, la política, la literatura, el arte, la religión, la ciencia, etcétera. En otras palabras, el suicidio racial no está comenzando entre los órdenes sociales inferiores, sino entre el llamado linaje de nativos americanos del que en el pasado hemos obtenido a nuestros hombres y mujeres eminentes.
 
@@ -44,7 +44,7 @@ Miremos ahora por un momento a los estratos inferiores de la sociedad. Aunque ti
 
 La pregunta importante que debemos plantearnos hoy es: ¿Desde qué niveles de la sociedad estamos reclutando a la raza? ¿Quiénes son los padres de los hijos que se convertirán en los factores de control de la próxima generación?
 
-Hasta hace unos cincuenta años lo adecuado en todos los países de habla inglesa era que las clases altas de la sociedad tuvieran familias numerosas, pero se ha ido produciendo un cambio gradual en esta cuestión. Ahora bien, las familias numerosas son raras en las clases altas de la comunidad, e incluso en las filas de los artesanos cualificados, pero las mismas familias numerosas de antaño todavía acuden a los hogares de los pobres, de los trabajadores no cualificados y de los débiles mentales y de las clases inferiores. clases del orden social. Al menos esto se ha hecho realidad en el caso de las clases más acomodadas de los pueblos de habla inglesa y
+Hasta hace unos cincuenta años lo adecuado en todos los países de habla inglesa era que las clases altas de la sociedad tuvieran familias numerosas, pero se ha ido produciendo un cambio gradual en esta cuestión. Ahora bien, las familias numerosas son raras en las clases altas de la comunidad, e incluso en las filas de los artesanos cualificados, pero las mismas familias numerosas de antaño todavía acuden a los hogares de los pobres, de los trabajadores no cualificados y de los débiles mentales y de las clases inferiores del orden social. Al menos esto se ha hecho realidad en el caso de las clases más acomodadas de los pueblos de habla inglesa y
 
 (Falta página)
 

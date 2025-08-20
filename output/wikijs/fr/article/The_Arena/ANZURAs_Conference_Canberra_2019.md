@@ -45,7 +45,7 @@ Par le Comité de Conférence
 
 Cette année, la conférence ANZURA revient dans la capitale du pays, cette fois dans un cadre bucolique sur la rive nord de la rivière Murrumbidgee. La conférence sera animée par le très compétent « Canberra Crew » et notre conférencier principal sera l'astrophysicien et lecteur de longue date, Nigel Nunn.
 
-## Thème : L'esprit sur la matière – L'esprit sur l'esprit
+## Thème : Le mental sur la matière – L'esprit sur le mental
 
 > _Dans les superunivers évolutionnaires, l’énergie-matière est dominante sauf dans la personnalité, où l’esprit, par la médiation du mental, lutte pour la maitrise. Le but des univers évolutionnaires est l’assujettissement de l’énergie-matière par le mental, la coordination du mental avec l’esprit, et tout ceci, en vertu de la présence créative et unificatrice de la personnalité._ (<a id="a49_386"></a>[LU 116:6.1](/fr/The_Urantia_Book/116#p6_1))
 

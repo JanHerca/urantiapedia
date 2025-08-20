@@ -47,7 +47,7 @@ Esta necesidad de controlar y dominar lo que sucede en nosotros es una búsqueda
 
 Aquí es donde entra en juego nuestro Ajustador. Él hace nuestra alma con el modelo que construimos a partir de nuestras experiencias y valores discernidos y nos presta su Espíritu (que está dotado de una mente como todos los espíritus) para reemplazar nuestra mente material. Cuando se dice: “Haz la voluntad de Dios”, significa que debemos usar la mente del Espíritu dentro de nosotros para tomar nuestras elecciones y decisiones.
 
-Entonces, renacer en espíritu en realidad significa usar la mente del Espíritu que habita dentro de nosotros y el modelo evolutivo del alma que construimos con las piedras de nuestras experiencias de vida y de quien cree en Dios (cualquiera que sea su concepción personal) y vive mientras lo intenta. para aferrarse a los valores que ha construido, comienza a vivir en el espíritu y cosechará los frutos del espíritu.
+Entonces, renacer en espíritu en realidad significa usar la mente del Espíritu que habita dentro de nosotros y el modelo evolutivo del alma que construimos con las piedras de nuestras experiencias de vida y de quien cree en Dios (cualquiera que sea su concepción personal) y vive mientras lo intenta para aferrarse a los valores que ha construido, comienza a vivir en el espíritu y cosechará los frutos del espíritu.
 
 Entonces, no penséis que es tan difícil nacer del espíritu, sólo hay que aferrarse a los verdaderos valores y el espíritu de verdad nos ayuda mucho a tranquilizarnos en nuestras dudas.
 

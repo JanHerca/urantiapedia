@@ -57,7 +57,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Paternidad literaria
 
-1. Este es uno de los. cinco libros deuteronómicos y el segundo libro del grupo de los «Antiguos profetas».
+1. Este es uno de los cinco libros deuteronómicos y el segundo libro del grupo de los «Antiguos profetas».
 2. El libro original fue de J y E, basado en la tradición oral y probablemente en los registros escritos de dos libros perdidos: [«Jasher](https://en.wikipedia.org/wiki/Book_of_Jasher_%28Biblical_references%29)» y «[Las Guerras del Señor»](https://en.wikipedia.org/wiki/Book_of_the_Wars_of_the_Lord).
 3. Todo esto fue reescrito minuciosamente por un [deuteronomista] capaz y devoto(https://en.wikipedia.org/wiki/Deuteronomist).
 4. Hay muy poco de P en el libro de Jueces tal como lo tenemos ahora.

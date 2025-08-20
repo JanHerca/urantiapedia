@@ -25,7 +25,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </td>
         <td>
         <a href="/fr/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
-          <span class="pr-2">L'esprit sur la matière – L'esprit sur l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Le mental sur la matière – L'esprit sur le mental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -207,7 +207,7 @@ La scène est prête pour l'invasion du premier niveau de l'espace extra-atmosph
         </td>
         <td>
         <a href="/fr/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
-          <span class="pr-2">L'esprit sur la matière – L'esprit sur l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Le mental sur la matière – L'esprit sur le mental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

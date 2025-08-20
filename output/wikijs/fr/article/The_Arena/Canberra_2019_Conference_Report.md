@@ -41,7 +41,7 @@ Par un participant à la conférence
 <img src="/image/article/The_Arena/20190929_165539-300x169.jpg" alt="Canberra 2019">
 </figure>
 
-**L'esprit sur la matière – L'esprit sur l'esprit**
+**Le mental sur la matière – L'esprit sur le mental**
 
 La conférence ANZURA de cette année s’est tenue du 27 au 30 septembre au Centre de conférences Green Hills, Stromlo, dans un cadre magnifique de brousse, juste à l’extérieur de Canberra. Les membres du Groupe d’étude de Canberra ont organisé la conférence et les lecteurs sont venus de différentes villes et environs de Nouvelle-Zélande, ACT, NSW, QLD, VIC, TAS et SA.
 

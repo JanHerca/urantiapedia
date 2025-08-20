@@ -42,7 +42,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 - **Conférence annuelle Auckland Nouvelle-Zélande 2020** – Comité de conférence
 - **Rapport de la conférence Canberra 2019** – Participant à la conférence
 - **Cultiver le suprême** – William Wentworth, Canberra - Présenté à la Conférence de Canberra
-- **L'esprit sur la matière – L'esprit sur l'esprit** – Julian McGarry, Hobart - Présenté à la conférence de Canberra
+- **Le mental sur la matière – L'esprit sur le mental** – Julian McGarry, Hobart - Présenté à la conférence de Canberra
 - **Comme l'Esprit vous pousse** – James McGarry, Hobart - Présenté à la Conférence de Canberra
 - **Le Plan Ascension** – Daniel Swadling, Sydney - Présenté à la Conférence de Canberra
 - **Coin Nouvelle-Zélande – Été 2019** – Susan Hemmingsen, Kirikiriroa, NZ
@@ -102,7 +102,7 @@ Participant à la conférence
 <img src="/image/article/The_Arena/20190929_165539-300x169.jpg" alt="Canberra 2019">
 </figure>
 
-**L'esprit sur la matière – L'esprit sur l'esprit**
+**Le mental sur la matière – L'esprit sur le mental**
 
 La conférence ANZURA de cette année s’est tenue du 27 au 30 septembre au Centre de conférences Green Hills, Stromlo, dans un cadre magnifique de brousse, juste à l’extérieur de Canberra. Les membres du Groupe d’étude de Canberra ont organisé la conférence et les lecteurs sont venus de différentes villes et environs de Nouvelle-Zélande, ACT, NSW, QLD, VIC, TAS et SA.
 
@@ -139,7 +139,7 @@ Dans l’éternité, Dieu le Père sépara l’esprit de l’énergie-matière e
 [Lire la suite](/fr/article/William_Wentworth/Growing_the_Supreme)
 <br style="clear:both;"/>
 
-## L'esprit sur la matière – L'esprit sur l'esprit
+## Le mental sur la matière – L'esprit sur le mental
 
 Julian McGarry, Hobart - Présenté à la Conférence de Canberra
 

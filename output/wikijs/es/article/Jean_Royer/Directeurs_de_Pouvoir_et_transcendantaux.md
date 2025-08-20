@@ -39,7 +39,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Son, sin embargo, seres creados y como tales entran en nuestras posibilidades conceptuales, pero ¿qué podemos decir en este mismo folleto sobre los dos primeros grupos citados: Los Maestros Organizadores de la Fuerza de Exteriorización Primaria y los Maestros Organizadores Asociados de la Fuerza Trascendental?
 
-Se nos dice que no son creadores ni criaturas, pero entonces ¿qué son? Para intentar comprenderlo, debemos referirnos a su condición de seres absonitos e inevitablemente recaer en una definición al menos en parte negativa: el nivel absonito de la realidad se caracteriza por cosas y seres sin principio ni fin y por la trascendencia del tiempo y del tiempo. espacio. Los absonitarios no se crean; están externalizados; en pocas palabras: lo están. <a id="a41_448"></a>[LU 0:1.12](/es/The_Urantia_Book/0#p1_12)
+Se nos dice que no son creadores ni criaturas, pero entonces ¿qué son? Para intentar comprenderlo, debemos referirnos a su condición de seres absonitos e inevitablemente recaer en una definición al menos en parte negativa: el nivel absonito de la realidad se caracteriza por cosas y seres sin principio ni fin y por la trascendencia del tiempo y del espacio. Los absonitarios no se crean; están externalizados; en pocas palabras: lo están. <a id="a41_448"></a>[LU 0:1.12](/es/The_Urantia_Book/0#p1_12)
 
 Por ninguno de los creadores, podemos imaginar que se distingan de los Espíritus Rectores o de los Hijos Creadores en el sentido de que no tienen descendientes; Ninguna de las dos criaturas nos dice que están exteriorizadas.
 

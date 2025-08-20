@@ -92,7 +92,7 @@ La evaluación moral a nivel de superanimal necesita la percepción espiritual d
 
 Como tantas otras cosas que tienen esa cualidad nebulosa denominada «valor espiritual», la moralidad es algo que sabemos dentro de nosotros mismos que es «correcto» simplemente porque al menos estamos «escuchando» subconscientemente la voz del espíritu de Dios en nuestro interior. Pero en el momento en que intentamos definir la moralidad, se derrumba en un conjunto de reglas o mandamientos que deben obedecerse.
 
-«Los hebreos de la época de Jesús ya tenían una religión de sublimidad moral». (<a id="a94_80"></a>[LU 196:3.19](/es/The_Urantia_Book/196#p3_19)) Pero «Jesús reveló y ejemplificó una religión de amor: seguridad en el amor del Padre, con alegría y satisfacción como consecuencia de compartir este amor al servicio de la humanidad. fraternidad.»
+«Los hebreos de la época de Jesús ya tenían una religión de sublimidad moral». (<a id="a94_80"></a>[LU 196:3.19](/es/The_Urantia_Book/196#p3_19)) Pero «Jesús reveló y ejemplificó una religión de amor: seguridad en el amor del Padre, con alegría y satisfacción como consecuencia de compartir este amor al servicio de la humanidad.»
 
 Sin moralidad real, amable Jesús, estamos sin amor real. Sin amor verdadero, como el de Jesús, nos estancamos en nuestra herencia animal. «El amor es la motivación más alta que el hombre puede utilizar en su ascenso al universo».
 

@@ -15,7 +15,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
       <tr>
         <td>
         <a href="/fr/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit sur la matière – L'esprit sur l'esprit</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mental sur la matière – L'esprit sur le mental</span>
         </a>
         </td>
         <td>
@@ -109,7 +109,7 @@ Cela m'a aidé à intégrer tous les enseignements spirituels/religieux précéd
       <tr>
         <td>
         <a href="/fr/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit sur la matière – L'esprit sur l'esprit</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mental sur la matière – L'esprit sur le mental</span>
         </a>
         </td>
         <td>

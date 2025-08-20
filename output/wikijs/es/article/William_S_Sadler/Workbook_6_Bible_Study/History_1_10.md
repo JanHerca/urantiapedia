@@ -125,7 +125,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 19. Encontrar el libro de Deuteronomio en el templo provocó una gran reforma. Pero hubo dos grandes errores en Deuteronomio:
 	- a. La vieja doctrina de la prosperidad debida al favor de Dios y la adversidad como castigo por el pecado.
 	- b. Nacionalismo intensificado.
-20. Sofonías. y Habacuc ponen fin a esta época. El que pedía una purga de Jerusalén.
+20. Sofonías y Habacuc ponen fin a esta época. El que pedía una purga de Jerusalén.
 21. Habacuc se comprende mejor a partir de la luz que arrojan los Rollos del Mar Muerto.
 22. Pero aún quedan por escuchar de otros dos profetas mayores: Jeremías y Ezequiel.
 23. Jeremías recorrió lógicamente la historia de Israel desde Moisés hasta sus días y pronunció el destino de la nación. Instó a que se rindieran a los babilonios.

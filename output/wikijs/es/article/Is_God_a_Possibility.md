@@ -48,7 +48,7 @@ Usando estos principios básicos de la teoría de juegos, el autor Robert Wright
 
 Al llevar a cabo esta tarea, Wright también ha revelado serias debilidades en trabajos como el de Richard Dawkins[^2] con su _The Selfish Gene_ y _Consciousness Explained_[^3] de Daniel Dennett que degradaron mecánicamente el propósito, la conciencia, el altruismo y cosas por el estilo para el estado de epifenómenos sin sentido: efectos intrascendentes en lugar de ser causas de nada en absoluto.
 
-Es la acumulación de las consecuencias de una multitud de ‘juegos’ de suma distinta de cero lo que constituye un ‘crecimiento’ en la complejidad biológica y social, definiendo así la dirección de la historia de la vida que comienza con una sopa orgánica primordial y conduce a los sistemas de comunicación de datos. equivale a una globalización que trasciende al individuo.
+Es la acumulación de las consecuencias de una multitud de ‘juegos’ de suma distinta de cero lo que constituye un ‘crecimiento’ en la complejidad biológica y social, definiendo así la dirección de la historia de la vida que comienza con una sopa orgánica primordial y conduce a los sistemas de comunicación de datos equivale a una globalización que trasciende al individuo.
 
 La tesis del autor Robert Wright es que la orquestación de las múltiples sociedades de organismos vivos que actualmente pueblan nuestro planeta es el resultado natural de la ‘vida’ una vez que comenzó, siempre y cuando opere bajo la selección natural al estilo darwiniano entre sistemas que funcionan por sí mismos. -regulación inherente a la dinámica de interacción de sistemas de suma cero y no suma cero.
 
@@ -109,7 +109,7 @@ Estos organismos imaginarios de un mundo imaginario son en realidad réplicas de
 
 «Hágase esta pregunta», dice Wright. «¿Hay algo inmoral en desconectar la computadora? Si no, ¿cómo podría haber algo inmoral en ‘desconectar’ a tu vecino por algún medio conveniente si él/ella es solo un organismo insensato y resulta ser una molestia para ti por alguna razón?»
 
-**Este es el tipo de mundo en el que viviríamos si palabras como correcto o incorrecto no tuvieran significado.** Lo más extraño de este mundo imaginario es que es exactamente el tipo de mundo en el que esperaríamos que se convirtiera el nuestro si hubiera evolucionado. a lo largo de un camino en el que la conciencia y la conciencia eran epifenómenos sin función y la moralidad, la bondad y el altruismo eran aberraciones mentales que no tienen una función efectiva en las respuestas conductuales reales, como afirman tantos científicos conductuales.
+**Este es el tipo de mundo en el que viviríamos si palabras como correcto o incorrecto no tuvieran significado.** Lo más extraño de este mundo imaginario es que es exactamente el tipo de mundo en el que esperaríamos que se convirtiera el nuestro si hubiera evolucionado a lo largo de un camino en el que la conciencia y la conciencia eran epifenómenos sin función y la moralidad, la bondad y el altruismo eran aberraciones mentales que no tienen una función efectiva en las respuestas conductuales reales, como afirman tantos científicos conductuales.
 
 > Un intelectual es alguien cuya mente se mira a sí misma.
 > _Albert Camus_
@@ -128,7 +128,7 @@ En un mundo así, personas como Hitler, Stalin y Pol Pot son incapaces de hacer 
 
 Un escenario alternativo es un mundo en el que la evolución orgánica y cultural sí tiene una dirección, una dirección que incluso sugiere un propósito benigno. En él, desde su inicio, la vida simuló ser una máquina para generar y procesar información y significado que finalmente profundizó para convertirse en una máquina que crea el potencial para el bien y el mal pero eleva la proporción a favor del bien.
 
-En el camino aparecen la conciencia y la autoconciencia, quizás como una respuesta a la suma no nula que surge concomitantemente con la socialización de las especies superiores. **La conciencia es lo que se siente al no ser un robot. La autoconciencia es lo que es saber que no eres un robot.** Ambas características son misterios profundos, posiblemente eternos, que sugieren que tienen un origen en un nivel más alto que nosotros, los terrícolas, lo que abre el camino para otras preguntas sin resolver, como la libertad. voluntad.
+En el camino aparecen la conciencia y la autoconciencia, quizás como una respuesta a la suma no nula que surge concomitantemente con la socialización de las especies superiores. **La conciencia es lo que se siente al no ser un robot. La autoconciencia es lo que es saber que no eres un robot.** Ambas características son misterios profundos, posiblemente eternos, que sugieren que tienen un origen en un nivel más alto que nosotros, los terrícolas, lo que abre el camino para otras preguntas sin resolver, como la libertad.
 
 Con sutileza y humildad, Wright coloca al lector en muchas situaciones imaginarias en las que la única respuesta racional es que realmente existe, o al menos debería existir, un Creador trascendente en alguna parte. Sólo un testarudo cabeza de mulo podría responder de otra manera.
 

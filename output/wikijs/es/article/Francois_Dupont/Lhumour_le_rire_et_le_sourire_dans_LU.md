@@ -59,11 +59,11 @@ El humor no surge de forma espontánea: determinadas actitudes y comportamientos
 
 <ins>2 — Los beneficios del humor</ins>
 
-- tiene. Es una válvula de alivio automática para evitar la acumulación de presiones excesivas.
+- a. Es una válvula de alivio automática para evitar la acumulación de presiones excesivas.
 - b. es un antídoto divino contra la exaltación del ego
 - c. provoca alegría, que a su vez repone las energías agotadas.
--d. un efecto rejuvenecedor, reduciendo la tensión intelectual
-- mi. es un seguro de salud y un liberador de presiones emocionales.
+- d. un efecto rejuvenecedor, reduciendo la tensión intelectual
+- e. es un seguro de salud y un liberador de presiones emocionales.
 
 ## Ejemplos de humor en la L.U.
 

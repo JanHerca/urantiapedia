@@ -49,7 +49,7 @@ No soy la madera con la que se hacen las flautas: quiero gritar, rebelarme; ¡Po
 
 No podría soportar la miseria si no fuera consciente de mi filiación divina. Como hijo de Dios, mi confianza en Dios es infantil (no infantil), no sólo haré la voluntad de Dios; ¡Quiero que mi voluntad sea la misma que la suya!
 
-_(<ins>Segunda oración</ins>: ¡Antes de actuar, Dios mío, déjame ser Pedro alzando su espada! Quizás más tarde me equivoque y crea que te he traicionado, pero sé que me mirarás a los ojos. con ternura el espíritu de verdad que luego me otorgará tu amor hará crecer el amor que te tengo.)_
+_(<ins>Segunda oración</ins>: ¡Antes de actuar, Dios mío, déjame ser Pedro alzando su espada! Quizás más tarde me equivoque y crea que te he traicionado, pero sé que me mirarás a los ojos con ternura el espíritu de verdad que luego me otorgará tu amor hará crecer el amor que te tengo.)_
 
 No dudo de Dios pero dudo de mí mismo. Cualquier sufrimiento que uno deba soportar, cualquier elección que uno deba tomar requiere fortaleza. ¿Seré lo suficientemente fuerte, tendré las cualidades requeridas? ¿Tendré el coraje de empezar de nuevo si fracaso?
 

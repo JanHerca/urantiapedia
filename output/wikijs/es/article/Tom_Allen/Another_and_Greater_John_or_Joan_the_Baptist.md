@@ -42,7 +42,7 @@ _por Tom Allen_
 <img src="/image/article/Fellowship_Herald/Volume_22_n_1/08.jpg">
 </figure>
 
-Incluso si existiera una persona capaz de encabezar un gran cambio en la economía espiritual del planeta hoy, creo que los tiempos tal vez no estén maduros para ello. Secularismo, amenazas del cambio climático, dependencia de los combustibles fósiles, guerras y rumores de guerras, democracias que se desmoronan, liderazgo insuficiente, aumento de la autocracia, desigualdad racial, distribución desigual de la riqueza, igualdad de sexos deficiente, agitaciones económicas, desastres naturales horribles, cristianismo en declive, locura por el entretenimiento , el declive familiar, la hambruna masiva, la guerra cibernética, las corrientes sociológicas, la escasez de educación sobre la opinión pública, el analfabetismo rampante, los flagelos de la pandemia mundial, el nacionalismo, el patriotismo y la solidaridad cultural rezagados y el ateísmo en tendencia, se combinan para crear una situación muy inestable y semibárbara. mundo. Estas peligrosas condiciones juntas posiblemente estén llevando a nuestro planeta a crisis como no hemos visto desde la Segunda Guerra Mundial.
+Incluso si existiera una persona capaz de encabezar un gran cambio en la economía espiritual del planeta hoy, creo que los tiempos tal vez no estén maduros para ello. Secularismo, amenazas del cambio climático, dependencia de los combustibles fósiles, guerras y rumores de guerras, democracias que se desmoronan, liderazgo insuficiente, aumento de la autocracia, desigualdad racial, distribución desigual de la riqueza, igualdad de sexos deficiente, agitaciones económicas, desastres naturales horribles, cristianismo en declive, locura por el entretenimiento , el declive familiar, la hambruna masiva, la guerra cibernética, las corrientes sociológicas, la escasez de educación sobre la opinión pública, el analfabetismo rampante, los flagelos de la pandemia mundial, el nacionalismo, el patriotismo y la solidaridad cultural rezagados y el ateísmo en tendencia, se combinan para crear una situación muy inestable y semibárbara. Estas peligrosas condiciones juntas posiblemente estén llevando a nuestro planeta a crisis como no hemos visto desde la Segunda Guerra Mundial.
 
 Nuestra civilización está empezando a ser paralela a la desaparición del Imperio Romano.
 
@@ -63,7 +63,7 @@ No me gusta sonar como [Jeremiah](https://en.wikipedia.org/wiki/Jeremiah) o Chic
 <figcaption>Destrucción de Thomas Cole (El curso del imperio)</figcaption>
 </figure>
 
-Todos los futuristas están equivocados, y yo también, pero al mirar hacia los próximos cientos de años, predigo que Urantia será un lugar muy diferente de lo que es hoy debido a graves adversidades, tal como lo fueron el Imperio Romano y Europa. modificado antes y después de la caída de Roma.
+Todos los futuristas están equivocados, y yo también, pero al mirar hacia los próximos cientos de años, predigo que Urantia será un lugar muy diferente de lo que es hoy debido a graves adversidades, tal como lo fueron el Imperio Romano y Europa modificado antes y después de la caída de Roma.
 
 > Un observador Altísimo está facultado para hacerse cargo, a su juicio, del gobierno planetario en tiempos de grave crisis planetaria, y los archivos indican que esto ha sucedido treinta y tres veces en la historia de Urantia. (<a id="a67_229"></a>[LU 114:4.4](/es/The_Urantia_Book/114#p4_4))
 

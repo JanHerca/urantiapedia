@@ -36,7 +36,7 @@ Julia Fenderson escribió una carta a varios lectores perturbados con quienes ap
 
 Marian Rowley respondió al escrito de Clyde y llegó incluso a crear una declaración notariada que se presentará en la oficina «en caso de que haya algún problema futuro después de que nos hayamos ido». [Ver la respuesta de Marian a Clyde](https://archive.urantiabook.org/archive/originals/marian_clyde121176.pdf) [Ver la declaración notariada de Marian](https://archive.urantiabook.org/archive/originals/marian_sherman_response.pdf )
 
-Dada la defensa que presenta Clyde, así como su indignación expresada en la charla que presentó ante la Sociedad de Oklahoma, es útil leer dos documentos clave que revelan las opiniones políticas de Clyde y nos ayudan a comprender cómo Sherman pudo haber explotado el descontento político de Clyde. para sus propios fines. Estos son:
+Dada la defensa que presenta Clyde, así como su indignación expresada en la charla que presentó ante la Sociedad de Oklahoma, es útil leer dos documentos clave que revelan las opiniones políticas de Clyde y nos ayudan a comprender cómo Sherman pudo haber explotado el descontento político de Clyde para sus propios fines. Estos son:
 
 - 1933: Clyde Bedell escribe una carta a Wilfred Kellogg expresando su preocupación sobre la estructura administrativa propuesta para la organización que supervisará los detalles de la publicación de la revelación. [Ver la carta de Clyde a Wilfred Kellogg](/es/article/Clyde_Bedell/Letter_from_Clyde_Bedell_to_Wilfred_Kellogg)
 

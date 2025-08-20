@@ -51,7 +51,7 @@ De hecho, esto es lo que te permite levantarte por la mañana con la seguridad d
 
 Entonces, a pesar de todos estos movimientos cambiantes e impredecibles, existe una verdadera estabilidad y un orden subyacente innegable que ningún científico puede negar. De esto extraigo varias verdades muy simples y lógicas:
 
-- Por un lado, como nada se puede ordenar sin voluntad, necesariamente hay alguien que está en el origen de lo que nos rodea, que está muy ordenado e incluso superordenado porque nadie ha podido provocar un desorden duradero. lo cual es contrario a todas las leyes de la probabilidad y el azar
+- Por un lado, como nada se puede ordenar sin voluntad, necesariamente hay alguien que está en el origen de lo que nos rodea, que está muy ordenado e incluso superordenado porque nadie ha podido provocar un desorden duradero lo cual es contrario a todas las leyes de la probabilidad y el azar
 - Por otro lado, esta voluntad es única porque el orden y las leyes no cambian, hasta donde los científicos pueden investigar.
 - Finalmente, y esto se desprende de observaciones de movimientos impredecibles considerados aleatorios, esta persona es capaz de mantener este orden en medio de tantos fenómenos de movimiento considerados aleatorios por los científicos. Si todos estos fenómenos fueran verdaderamente aleatorios, entonces esta persona tiene un potencial infinito para predecir todos los escenarios posibles desde cualquier lugar al mismo tiempo. Si estos fenómenos no son aleatorios, entonces se necesita una persona con un potencial infinito para generar tantos eventos cuyo carácter parece tan impredecible.
 

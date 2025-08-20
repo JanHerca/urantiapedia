@@ -47,7 +47,7 @@ La expresión de Korzybski que se quedó grabada fue: «El mapa no es el territo
 
 También podemos notar la simultaneidad de la percepción artística con la famosa “La traición de las imágenes” Ceci n'est pas une pipe de Magritte. Esta obra data de 1928.
 
-Pongamos esto en términos del Libro de Urantia: no conocerás la sal hasta que la hayas probado, o sólo la <ins>experiencia</ins> de probar la sal te permitirá saber personalmente qué es la sal, pero esta experiencia es personal. para usted y no se puede transmitir con palabras. Sobre la sal sólo puede haber acuerdo entre quienes han tenido esta experiencia.
+Pongamos esto en términos del Libro de Urantia: no conocerás la sal hasta que la hayas probado, o sólo la <ins>experiencia</ins> de probar la sal te permitirá saber personalmente qué es la sal, pero esta experiencia es personal para usted y no se puede transmitir con palabras. Sobre la sal sólo puede haber acuerdo entre quienes han tenido esta experiencia.
 
 En otras palabras: el _Libro de Urantia_ que distingue cosas, significados y valores donde Korzybski habla de niveles de abstracciones, nos dice que los valores hay que vivirlos para entenderlos, pero el método es el mismo.
 

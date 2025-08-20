@@ -152,9 +152,7 @@ Les gens ont tendance à partir de ce qui est « à portée de main » et à rem
 
 Chacun de nous ne porte-t-il pas les traits hérités de notre mère et de notre père biologiques ? Les pères ne sont-ils pas parfois appelés par nécessité à remplir le rôle de mère, et vice versa ? 
 
-L'inévitabilité de la Trinité. Les philosophes de l’univers ont déclaré qu’il existe de multiples, nombreuses, voire une infinité de façons de faire toutes choses. Mais il n’y a qu’une seule fatalité absolue : la Trinité. <a id="a154_222"></a>[[LU 10:0.3](/fr/The_Urantia_Book/10#p0_3)] Tout ce que nous savons ou essayons d'imaginer ne pourrait être fait que par la Trinité : le Père, la Mère et leur action conjointe. 
-
-Les philosophes de l’univers ont déclaré qu’il existe de multiples, nombreuses, voire une infinité de façons de faire toutes choses. Mais il n’y a qu’une seule fatalité absolue : la Trinité. <a id="a156_191"></a>[[LU 10:0.3](/fr/The_Urantia_Book/10#p0_3)] Tout ce que nous savons ou essayons d'imaginer ne pourrait être fait que par la Trinité : le Père, la Mère et leur action conjointe. 
+L'inévitabilité de la Trinité. Les philosophes de l’univers ont déclaré qu’il existe de multiples, nombreuses, voire une infinité de façons de faire toutes choses. Mais il n’y a qu’une seule fatalité absolue : la Trinité. <a id="a154_222"></a>[[LU 10:0.3](/fr/The_Urantia_Book/10#p0_3)] Tout ce que nous savons ou essayons d'imaginer ne pourrait être fait que par la Trinité : le Père, la Mère et leur action conjointe.
 
 > Joshua J. Wilson est musicien, conseiller pastoral et essayiste qui écrit sur des sujets historiques et scientifiques harmonisant la science, la philosophie et la spiritualité. 
 > Il est titulaire d'un baccalauréat en administration des affaires et systèmes d'information décisionnels, spécialisé en comportement humain dans les organisations, ainsi que de certificats en gestion d'organismes à but non lucratif et en formation parentale active. Les passe-temps incluent le camping et la randonnée. Courriel de contact : musical@cox.net 

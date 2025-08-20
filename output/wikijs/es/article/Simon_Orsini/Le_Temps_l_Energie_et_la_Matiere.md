@@ -81,7 +81,7 @@ Los protones forman el núcleo del átomo.
 
 Los electrones están organizados en cuatro sectores en el átomo, en el primer sector, cerca del núcleo, podemos encontrar los electrones más grandes, los más masivos, los que los científicos descubren primero.
 
-En el segundo sector, los electrones tienen una velocidad circular alrededor del núcleo entre 20 y 30.000 revoluciones por segundo, tienen una velocidad axial determinada, una masa controlada y frecuencias definidas) tras lo cual se desarrolla una carga electrónica, esta carga produce un campo eléctrico en movimiento. lo que da lugar a una corriente eléctrica.
+En el segundo sector, los electrones tienen una velocidad circular alrededor del núcleo entre 20 y 30.000 revoluciones por segundo, tienen una velocidad axial determinada, una masa controlada y frecuencias definidas) tras lo cual se desarrolla una carga electrónica, esta carga produce un campo eléctrico en movimiento lo que da lugar a una corriente eléctrica.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/194.jpg">
@@ -99,7 +99,7 @@ En el cuarto sector del átomo, la corriente eléctrica produce un campo magnét
 
 En el núcleo del átomo, los protones y neutrones lo estabilizan todo.
 
-El protón positivo va y viene con el neutrón, cuando el protón llega al neutrón se vuelve negativo cuando regresa al núcleo vuelve a ser positivo, este mecanismo es operado por una partícula eléctrica más masiva que un electrón y que le da estabilidad al neutrón. el núcleo.
+El protón positivo va y viene con el neutrón, cuando el protón llega al neutrón se vuelve negativo cuando regresa al núcleo vuelve a ser positivo, este mecanismo es operado por una partícula eléctrica más masiva que un electrón y que le da estabilidad al neutrón.
 
 Debo señalar que todas las partículas tienen una masa y que, en la mayoría de los casos, giran sobre sí mismas y alrededor de un punto fijo. Una excepción: los fotones siempre van en línea recta, pero pueden verse influenciados por la gravedad de un planeta y describir una curva apropiada.
 

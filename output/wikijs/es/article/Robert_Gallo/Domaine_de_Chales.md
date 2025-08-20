@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Organizado por lectores de la región parisina junto con los de Turena, este encuentro tuvo lugar los días 14 y 15 de noviembre en el dominio de Châles en Sologne, al sur de Orleans. Reunió a 11 participantes regionales a los que se sumaron Isabelle y Jean Annet de Bélgica para formar un grupo de 13 seminaristas que intercambiaron sus opiniones, en perfecta armonía, en el suntuoso marco del castillo que nos ha reservado y bajo la luz de un suave paisaje otoñal. sol.
+Organizado por lectores de la región parisina junto con los de Turena, este encuentro tuvo lugar los días 14 y 15 de noviembre en el dominio de Châles en Sologne, al sur de Orleans. Reunió a 11 participantes regionales a los que se sumaron Isabelle y Jean Annet de Bélgica para formar un grupo de 13 seminaristas que intercambiaron sus opiniones, en perfecta armonía, en el suntuoso marco del castillo que nos ha reservado y bajo la luz de un suave paisaje otoñal.
 
 Entre los felices “elegidos” de este encuentro, podríamos reconocer a Anne-Marie y Dominique Ronfet, Elisabeth y Jean-François TROUVE, Marlène y Georges Dupont, Isabelle y Jean ANNET, Thierry Lepage y su pareja, Christine Baussain, Jean DUVEAU y su servidor Roberto Gallo.
 

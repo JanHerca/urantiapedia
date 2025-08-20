@@ -67,7 +67,7 @@ De acuerdo con su origen en el Espíritu Infinito, también aprendemos que nuest
 
 > «después de la elevación del Hijo Creador a la autoridad soberana de un Hijo Maestro, las cualidades personales del Espíritu Madre Creativo se acrecientan de tal manera que es reconocida personalmente por todos los individuos que contactan con ella». <a id="a67_253"></a>[[LU 34:2.1](/es/The_Urantia_Book/34#p2_1)]
 
-También se nos informa que los Espíritus Creativos están «en una clase por sí mismos» en relación con las personalidades de la Primera Fuente (como nosotros y Miguel) que están en circuito en el circuito de personalidad del Padre:
+También se nos informa que los Espíritus Creativos están «en una clase por sí mismos» en relación con las personalidades de la Primera Fuente (como nosotros y Miguel) que están insertos en el circuito de personalidad del Padre:
 
 > «Existen numerosos tipos de personalidades procedentes de la Fuente Tercera. El Espíritu Infinito concede la personalidad de tipo Fuente Tercera a numerosos grupos .... El Espíritu Infinito trata igualmente como personalidades a numerosos grupos de seres, tales como los Espíritus Creativos, que componen una clase por sí mismos en sus relaciones con las criaturas incluidas en el circuito del Padre.». <a id="a71_405"></a>[[LU 9:8.11](/es/The_Urantia_Book/9#p8_11)]
 
@@ -141,7 +141,7 @@ Este puede ser un ámbito inexplorado para muchos de nosotros, pero creo que pod
 
 Al señalar nuestra conciencia de cuerpo, mente y espíritu, creo que ahora podemos ver que Jesús estaba anticipando nuestro despertar de la conciencia de la triple dotación del Espíritu Santo, el Espíritu de la Verdad y la presencia interior del Padre.
 
-Nuestra asociación creativa con estas dotes de presencia espiritual, ya que están unificadas en nuestra experiencia por el ministerio angélico, nos coloca en un camino de sinergia humana-divina que permite nuestro descubrimiento y desarrollo de una realidad nueva y potencialmente eterna: nuestra identidad de alma morontial. Esta versión emergente de nosotros mismos será una revelación infinita de posibilidades superaditivas que nunca podríamos
+Nuestra asociación creativa con estas dotes de presencia espiritual, ya que están unificadas en nuestra experiencia por el ministerio angélico, nos coloca en un camino de sinergia humana-divina que permite nuestro descubrimiento y desarrollo de una realidad nueva y potencialmente eterna: nuestra identidad del alma morontial. Esta versión emergente de nosotros mismos será una revelación infinita de posibilidades superaditivas que nunca podríamos [faltan palabras en el original].
 
 **Frutos del Espíritu:**
  * servicio amoroso

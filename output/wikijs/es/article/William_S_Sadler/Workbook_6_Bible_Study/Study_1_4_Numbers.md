@@ -90,7 +90,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## V. Valor Histórico
 
-1. El libro es maravilloso. retrato de la naturaleza humana: lo bueno y lo malo. En un momento dado, tenían muchas ganas de «elegir un capitán y regresar a Egipto». ([14:4](/es/Bible/Numbers/14#v4))
+1. El libro es maravilloso retrato de la naturaleza humana: lo bueno y lo malo. En un momento dado, tenían muchas ganas de «elegir un capitán y regresar a Egipto». ([14:4](/es/Bible/Numbers/14#v4))
 2. No le dé demasiada importancia a los hechos históricos. ¿De qué le servirá a un hombre conocer todos los hechos, pero perder el significado?
 3. El problema cronológico:
 	- A. En el Sinaí. Se necesitarían años y años para hacer todo lo que se hizo en el Sinaí (no 19 días) para construir el tabernáculo y organizar la vida social y religiosa de los israelitas.

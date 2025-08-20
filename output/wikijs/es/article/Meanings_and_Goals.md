@@ -38,7 +38,7 @@ Las realidades del Padre se revelan dentro de las cualidades de la divinidad. Y 
 
 Para las criaturas materiales, evolutivas y finitas, una vida basada en vivir la voluntad del Padre conduce directamente al logro de la supremacía espiritual en el campo de la personalidad y acerca a tales criaturas un paso más a la comprensión del Padre-Infinito.
 
-Una vida semejante a la de un Padre se basa en la verdad, es sensible a la belleza y está dominada por la bondad. Y tal persona que conoce a Dios está interiormente iluminada por la adoración y externamente dedicada al servicio de todo corazón de la fraternidad universal de todas las personalidades, un ministerio de servicio que está lleno de misericordia y motivado por el amor, mientras que todas estas cualidades de vida están unificadas en la evolución. personalidad en niveles siempre ascendentes de sabiduría cósmica, autorrealización, búsqueda de Dios y adoración al Padre.
+Una vida semejante a la de un Padre se basa en la verdad, es sensible a la belleza y está dominada por la bondad. Y tal persona que conoce a Dios está interiormente iluminada por la adoración y externamente dedicada al servicio de todo corazón de la fraternidad universal de todas las personalidades, un ministerio de servicio que está lleno de misericordia y motivado por el amor, mientras que todas estas cualidades de vida están unificadas en la evolución de la personalidad en niveles siempre ascendentes de sabiduría cósmica, autorrealización, búsqueda de Dios y adoración al Padre.
 
 Y ya sabemos hacia dónde se dirige Urantia, porque «la revelación de Dios al mundo, en y a través de Jesús, no fallará».
 

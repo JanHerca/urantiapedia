@@ -154,7 +154,7 @@ Finalmente, en el tercer nivel, los últimos treinta electrones más cercanos al
 
 Las cien octavas de energías ondulatorias de nuestro universo nacen en los rayos infraúltimos provenientes de la etapa de energías emergentes que podemos detectar, detectar, mientras que los rayos atómicos últimos se encuentran en el nivel de ensamblaje de energía de la materia en los átomos.
 
-La materia que constituye los electrones proviene de la segmentación de la energía. Estas son las primeras partículas del universo. Allí encontramos materia subelectrónica (los gases supersolares), materia electrónica que es la etapa eléctrica de la diferenciación material, materia subatómica dentro de soles calientes, átomos destrozados de soles que se enfrían, materia ionizada que ha perdido sus electrones, materia atómica en etapa química. de la organización de la materia, la materia radiactiva que es la materia colapsada de soles muertos, estrellas de neutrones, agujeros negros.
+La materia que constituye los electrones proviene de la segmentación de la energía. Estas son las primeras partículas del universo. Allí encontramos materia subelectrónica (los gases supersolares), materia electrónica que es la etapa eléctrica de la diferenciación material, materia subatómica dentro de soles calientes, átomos destrozados de soles que se enfrían, materia ionizada que ha perdido sus electrones, materia atómica en etapa química de la organización de la materia, la materia radiactiva que es la materia colapsada de soles muertos, estrellas de neutrones, agujeros negros.
 
 El aumento de masa en la materia es igual al aumento de energía dividido por el cuadrado de la velocidad de la luz.
 

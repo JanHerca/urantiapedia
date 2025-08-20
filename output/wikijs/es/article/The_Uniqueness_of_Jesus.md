@@ -91,7 +91,7 @@ No juzguéis para no ser juzgados.
 
 Jesús dijo: «Pero amad a vuestros enemigos, y haced el bien, y prestad sin esperar nada a cambio; y vuestra recompensa será grande, y seréis hijos del Dios Altísimo, porque él es bondadoso con los ingratos y los impíos». ([Lucas 6:35](/es/Bible/Luke/6#v35))
 
-Uno de los apóstoles preguntó una vez: «Maestro, ¿qué debo hacer si un extraño me obliga a llevar su mochila por una milla?» Jesús respondió: "No te sientes y suspires de alivio mientras reprendes al extraño en voz baja. La rectitud no proviene de tales actitudes pasivas. Si no puedes pensar en nada más positivo que hacer, al menos puedes llevar el paquete un segundo. milla (1770; [Mateo 5:41](/es/Bible/Matthew/5#v41)) (Nota: los soldados romanos en tránsito tenían derecho a exigir este servicio).
+Uno de los apóstoles preguntó una vez: «Maestro, ¿qué debo hacer si un extraño me obliga a llevar su mochila por una milla?» Jesús respondió: "No te sientes y suspires de alivio mientras reprendes al extraño en voz baja. La rectitud no proviene de tales actitudes pasivas. Si no puedes pensar en nada más positivo que hacer, al menos puedes llevar el paquete una segunda milla (1770; [Mateo 5:41](/es/Bible/Matthew/5#v41)) (Nota: los soldados romanos en tránsito tenían derecho a exigir este servicio).
 
 Jesús dijo: "El Espíritu del Señor está sobre mí, por cuanto me ha ungido para predicar el evangelio a los pobres; me ha enviado a sanar a los quebrantados de corazón, a predicar libertad a los cautivos, y vista a los ciegos, para poner en libertad a los heridos, ( [Lucas 4:18](/es/Bible/Luke/4#v18))
 

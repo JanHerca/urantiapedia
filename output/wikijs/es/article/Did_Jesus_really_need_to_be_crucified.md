@@ -40,7 +40,7 @@ La revelación de Urantia rechaza el concepto de que la crucifixión de Jesús f
 
 Sin embargo, si la crucifixión de Jesús no fue una ofrenda de sacrificio, ¿por qué entonces fue crucificado?
 
-Las enseñanzas de Jesús eran completamente pacíficas, sin amenazar a nadie. No era un alborotador, deploraba la violencia, se negaba a defenderse, usaba regularmente afirmaciones como si alguien te exige el abrigo, dale también la capa, o si te obliga a llevar su bolso por una milla, llévalo un extra. milla.
+Las enseñanzas de Jesús eran completamente pacíficas, sin amenazar a nadie. No era un alborotador, deploraba la violencia, se negaba a defenderse, usaba regularmente afirmaciones como si alguien te exige el abrigo, dale también la capa, o si te obliga a llevar su bolso por una milla, llévalo una milla extra.
 
 Justo hasta el momento de su arresto, tanto él como sus apóstoles simplemente podrían haber huido, hasta Galilea, y más allá si fuera necesario. Permitió su captura e instruyó a sus apóstoles a no resistir.
 

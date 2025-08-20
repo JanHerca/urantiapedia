@@ -117,7 +117,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 4. Hay algunos pasajes en estas cartas que son indudablemente paulinos, pero en general el lenguaje le resulta extraño a Pablo.
 5. Hay mucha teología y organización eclesial no paulina en estas epístolas.
 6. Pablo era un «místico»; el autor de las pastorales es un «eclesiástico».
-7. Estas pastorales son decididamente más. judío que los escritos de Pablo.
+7. Estas pastorales son decididamente más judío que los escritos de Pablo.
 8. La actitud hacia el matrimonio, el vino y la sociedad es en gran medida judía.
 9. El liderazgo de «espíritu» libre de Pablo se ha convertido en un ritual de «imposición de manos».
 10. La «fe» de Pablo en estas pastorales se convierte en el «credo».
@@ -159,7 +159,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 20. **Dedicación**. «Ningún soldado en servicio se involucra en actividades civiles, ya que su objetivo es satisfacer a quien lo reclutó.» [2:4](/es/Bible/2_Timothy/2#v4).
 21. **Trabajadores calificados**. «Esfuérzate por presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que maneja rectamente la palabra de verdad». [2:15](/es/Bible/2_Timothy/2#v15).
 22. **Altos objetivos**. «Evita las pasiones juveniles y apunta a la justicia, la fe, el amor y la paz, junto con aquellos que invocan al Señor con un corazón puro. No tengas nada que ver con controversias estúpidas y sin sentido; sabes que engendran riñas» [2: 22,23](/es/Bible/2_Timothy/2#v22).
-23. **Los últimos días**. «En los últimos días vendrán tiempos de tensión. Porque los hombres serán amadores de sí mismos, amadores del dinero, soberbios, soberbios, abusivos, desobedientes a sus padres, ingratos, impíos, inhumanos, implacables, calumniadores, libertinos, feroces, aborrecedores. del bien, traicioneros, temerarios, hinchados de vanidad, amadores de los deleites más que de Dios, manteniendo la forma de la religión pero negando el poder de ella,» [3:1-5](/es/Bible/. 2_Timoteo/3#v1).
+23. **Los últimos días**. «En los últimos días vendrán tiempos de tensión. Porque los hombres serán amadores de sí mismos, amadores del dinero, soberbios, soberbios, abusivos, desobedientes a sus padres, ingratos, impíos, inhumanos, implacables, calumniadores, libertinos, feroces, aborrecedores del bien, traicioneros, temerarios, hinchados de vanidad, amadores de los deleites más que de Dios, manteniendo la forma de la religión pero negando el poder de ella,» [3:1-5](/es/Bible/. 2_Timoteo/3#v1).
 24. **Persecución**. «Todos los que quieran vivir una vida piadosa en Cristo Jesús, serán perseguidos». [3:12](/es/Bible/2_Timothy/3#v12).
 25. **Inspiración de las Escrituras**. «Toda la Escritura es inspirada por Dios y útil para enseñar, para redargüir, para corregir y para instruir en la justicia, a fin de que el hombre de Dios sea completo, preparado para toda buena obra». [3:16, 17](/es/Bible/2_Timothy/3#v16).
 26. **Falsos maestros**. «Porque llegará el momento en que los hombres no soportarán la sana enseñanza, sino que, teniendo comezón de oír, acumularán para sí mismos maestros según sus gustos, y dejarán de escuchar la verdad y se adentrarán en los mitos». [4:3,4](/es/Bible/2_Timothy/4#v3).

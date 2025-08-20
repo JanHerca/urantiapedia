@@ -56,7 +56,7 @@ La oración es el gran unificador de las inspiraciones y los impulsos de fe de u
 
 Sólo hay dos grupos de mortales a los ojos de Dios; los que desean hacer su voluntad y los que no. Asimismo, hay dos grandes clases: los que conocen a Dios y los que no.
 
-Si conocemos a Dios, nuestro verdadero negocio en la Tierra es vivir de tal manera que permitamos que el Padre se revele en nuestras vidas, y así todas las personas que buscan a Dios verán al Padre en nosotros y pedirán nuestra ayuda para descubrir más acerca de Dios. quien de esta manera encuentra expresión en nuestras vidas.
+Si conocemos a Dios, nuestro verdadero negocio en la Tierra es vivir de tal manera que permitamos que el Padre se revele en nuestras vidas, y así todas las personas que buscan a Dios verán al Padre en nosotros y pedirán nuestra ayuda para descubrir más acerca de Dios quien de esta manera encuentra expresión en nuestras vidas.
 
 Jesús enseñó a un joven asociado: «Tengo confianza absoluta en el cuidado excesivo de mi Padre; Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que me pueda ocurrir un daño real. Estoy absolutamente seguro de que todo el universo es amigo mío; insisto en creer en esta verdad todopoderosa con una confianza de todo corazón a pesar de todas las apariencias en contrario».
 
@@ -124,7 +124,7 @@ El Maestro era un espécimen perfecto de autocontrol humano. Cuando lo insultaba
 
 ## Función del espíritu residente
 
-Jesús enseñó: Si el Espíritu mora en vosotros, sois hijos libres y liberados del Espíritu. Tu secreto de dominio propio es la fe en el Espíritu que mora en ti y que siempre obra por amor. Si, pues, sois nacidos del Espíritu, sois librados para siempre de una vida de abnegación y de vigilancia de los deseos de la carne, y trasladados al gozoso reino del Espíritu, de donde espontáneamente mostráis los frutos del espíritu. en su vida diaria.
+Jesús enseñó: Si el Espíritu mora en vosotros, sois hijos libres y liberados del Espíritu. Tu secreto de dominio propio es la fe en el Espíritu que mora en ti y que siempre obra por amor. Si, pues, sois nacidos del Espíritu, sois librados para siempre de una vida de abnegación y de vigilancia de los deseos de la carne, y trasladados al gozoso reino del Espíritu, de donde espontáneamente mostráis los frutos del espíritu en su vida diaria.
 
 Cuando te hayas dedicado por completo a hacer la voluntad del Padre, todas tus peticiones llegarán porque todas estas peticiones estarán en completo acuerdo con la voluntad del Padre.
 
@@ -535,7 +535,7 @@ Nuestra relación con Dios es una experiencia de fe en la que hemos alcanzado la
 
 El Padre es amor vivo y esta vida del Padre está en su Hijo. Y el Espíritu del Padre está en los hijos e hijas de su Hijo, el hombre mortal. Y cuando todo está dicho y hecho, la idea del Padre sigue siendo el concepto humano más alto de Dios.
 
-Al estar obligados a vivir nuestras vidas como Jesús vivió la suya, debemos reconocer que el acto que podemos realizar durante la enseñanza pública o la predicación generalmente se presenta para impresionar: no es el ser real, no es el ser revelado. durante nuestra íntima convivencia familiar cotidiana en la que nuestro cónyuge, nuestros hijos, nuestros allegados más cercanos nos conocen como realmente somos.
+Al estar obligados a vivir nuestras vidas como Jesús vivió la suya, debemos reconocer que el acto que podemos realizar durante la enseñanza pública o la predicación generalmente se presenta para impresionar: no es el ser real, no es el ser revelado durante nuestra íntima convivencia familiar cotidiana en la que nuestro cónyuge, nuestros hijos, nuestros allegados más cercanos nos conocen como realmente somos.
 
 Realmente, solo entre aquellos que nos conocen y nos aman mejor podemos vivir una vida efectiva y verdaderamente reveladora de Dios. En otros lugares, más a menudo en nuestras relaciones, estamos actuando. Actuar no tiene ningún valor espiritual para el actor.
 

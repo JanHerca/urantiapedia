@@ -62,7 +62,7 @@ La verdadera salvación es la técnica de la evolución divinamente guiada de la
 
 ## Ciencia y religión
 
-Pero la lógica nunca puede lograr armonizar los descubrimientos de la ciencia y las intuiciones de la religión a menos que tanto los aspectos científicos como los religiosos de una personalidad estén dominados por la verdad, **sinceramente deseosos de seguir la verdad dondequiera que pueda conducir, independientemente de las conclusiones a las que pueda llegar. alcanzar.
+Pero la lógica nunca puede lograr armonizar los descubrimientos de la ciencia y las intuiciones de la religión a menos que tanto los aspectos científicos como los religiosos de una personalidad estén dominados por la verdad, **sinceramente deseosos de seguir la verdad dondequiera que pueda conducir, independientemente de las conclusiones a las que pueda llegar a alcanzar.
 
 Lo que tanto la ciencia como la religión en desarrollo necesitan es una autocrítica más inquisitiva y valiente, una mayor conciencia de lo incompleto del estado evolutivo.
 

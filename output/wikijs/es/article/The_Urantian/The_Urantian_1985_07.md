@@ -42,7 +42,7 @@ Cuando Cap me pidió que hablara aquí hoy, dije que sí: había un pensamiento 
 
 Todo parecía bastante sencillo en aquel momento. Ya había memorizado las dos palabras. Pero pensándolo bien, después de todo no parecía tan sencillo. Varias preguntas importantes y muy desconcertantes seguían interponiéndose en el camino. Entonces, después de leer libros, orar por una mayor comprensión, hablar de ideas con varias personas y luego redescubrir algunos hermosos pasajes del Libro de URANTIA, las dos palabras comenzaron a adquirir dimensiones adicionales.
 
-No me parecía correcto empezar simplemente hablando de lo que nosotros, como urantianos, podíamos compartir. Esto tenía un tono de arrogancia. La pregunta seguía viniendo a mi mente: ¿Quiénes somos de todos modos? Entonces, comenzando con la pregunta: «¿Quiénes somos de todos modos?» y luego asumiendo que compartir es una vía de doble sentido, que podemos aprender de otras religiones al mismo tiempo que compartimos, la conversación comenzó a tomar forma en torno a tres ideas básicas. que parecen estar fuertemente interrelacionados:
+No me parecía correcto empezar simplemente hablando de lo que nosotros, como urantianos, podíamos compartir. Esto tenía un tono de arrogancia. La pregunta seguía viniendo a mi mente: ¿Quiénes somos de todos modos? Entonces, comenzando con la pregunta: «¿Quiénes somos de todos modos?» y luego asumiendo que compartir es una vía de doble sentido, que podemos aprender de otras religiones al mismo tiempo que compartimos, la conversación comenzó a tomar forma en torno a tres ideas básicas que parecen estar fuertemente interrelacionados:
 
 [Leer más](/es/article/Paul_Snider/The_Urantian_religionist)
 

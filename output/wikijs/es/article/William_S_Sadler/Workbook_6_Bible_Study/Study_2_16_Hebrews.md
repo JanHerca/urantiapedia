@@ -106,7 +106,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 14. Juicio. «Es terrible caer en manos del Dios vivo». [10:31](/es/Bible/Hebrews/10#v31).
 15. ¿Qué es la fe? «Ahora bien, la fe es la certeza de lo que se espera, la convicción de lo que no se ve». [11:1](/es/Bible/Hebrews/11#v1).
 16. La ciudad celestial. «Porque esperaba la ciudad que tiene cimientos, cuyo arquitecto y hacedor es Dios». [11:10](/es/Bible/Hebrews/11#v10).
-17. La carrera salvadora. «Por tanto, teniendo en derredor nuestro tan grande nube de testigos, despojémonos también de todo peso y del pecado que nos asedia, y corramos con perseverancia la carrera que tenemos por delante, puestos los ojos en Jesús el pionero. y consumador de nuestra fe.» [12:1,2](/es/Bible/Hebrews/12#v1).
+17. La carrera salvadora. «Por tanto, teniendo en derredor nuestro tan grande nube de testigos, despojémonos también de todo peso y del pecado que nos asedia, y corramos con perseverancia la carrera que tenemos por delante, puestos los ojos en Jesús el pionero y consumador de nuestra fe.» [12:1,2](/es/Bible/Hebrews/12#v1).
 18. El objetivo de vivir. «Esforzaos por la paz con todos los hombres y por la santidad sin la cual nadie verá al Señor». [12:14](/es/Bible/Hebrews/12#v14).
 19. Hospitalidad. «Que continúe el amor fraternal. No dejéis de ser hospitalarios con los extraños, porque por ella algunos, sin saberlo, hospedaron ángeles». [13:1,2](/es/Bible/Hebrews/13#v1).
 20. Evita el amor al dinero. «Mantén tu vida libre de amor al dinero y conténtate con lo que tienes». [13:5](/es/Bible/Hebrews/13#v5).

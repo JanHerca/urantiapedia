@@ -45,7 +45,7 @@ Este libro está escrito con tal sencillez para la comprensión de situaciones y
 
 Fue escrito en la década de 1930. En aquella época no sabíamos mucho sobre la cuántica. Podemos verificar la autenticidad de los escritos cada vez que ha habido un Premio Nobel
 
-Es verdad que Jesús nos envió el espíritu de verdad, usémoslo. Tenemos un ejemplo, el apóstol Juan, su fe trascendió su vocabulario porque era imagen de la verdad del universo, porque afirmaba que existía algo superior en el más allá, que el destino de la tierra dependía de las revelaciones de este. más allá, y sobre el comportamiento espiritual de sus habitantes.
+Es verdad que Jesús nos envió el espíritu de verdad, usémoslo. Tenemos un ejemplo, el apóstol Juan, su fe trascendió su vocabulario porque era imagen de la verdad del universo, porque afirmaba que existía algo superior en el más allá, que el destino de la tierra dependía de las revelaciones de este más allá, y sobre el comportamiento espiritual de sus habitantes.
 
 ¿Cómo podemos explicar al mundo incrédulo que el libre albedrío, la libertad fundamental, están presentes en cada persona, que cada individuo debe tomar una decisión?
 

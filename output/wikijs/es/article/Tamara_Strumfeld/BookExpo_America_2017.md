@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Por Tamara Strumfeld, Fundación Urantia, Chicago, Illinois, Estados Unidos_
 
-Mo Siegel y yo asistimos a la BookExpo America de este año en el Javits Center de la ciudad de Nueva York del 31 de mayo al 2 de junio. Siempre es agradable asistir a esta feria, conocer las últimas y mejores novedades en el sector del libro y ver cuáles son las tendencias populares. son.
+Mo Siegel y yo asistimos a la BookExpo America de este año en el Javits Center de la ciudad de Nueva York del 31 de mayo al 2 de junio. Siempre es agradable asistir a esta feria, conocer las últimas y mejores novedades en el sector del libro y ver cuáles son las tendencias populares.
 
 En los últimos años, el tamaño de la Expo y el número de expositores se han ido reduciendo. La Expo se celebraba en muchos pabellones y era difícil recorrer los pasillos sin toparse con alguien. Este año, todo cabía en un gran salón y muchos publicadores conocidos estuvieron ausentes. Sin embargo, ¡aprendimos mucho!
 

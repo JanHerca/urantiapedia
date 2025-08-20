@@ -70,7 +70,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Pablo escribió Romanos. Es su carta más larga y de mayor peso a las iglesias.
 2. Algunos piensan que Pablo no escribió los dos últimos capítulos.
 3. Romanos fue escrito durante el período más largo de descanso y ocio de Pablo, probablemente en Corinto en el año 58 d.C. durante su tercera y última visita.
-4. Es posible que Romanos haya sido una carta general para todos. las iglesias. Es posible que los dos últimos capítulos se hayan agregado a la copia de Roma.
+4. Es posible que Romanos haya sido una carta general para todos las iglesias. Es posible que los dos últimos capítulos se hayan agregado a la copia de Roma.
 5. El hereje Marción hizo la primera colección de cartas de Pablo.
 6. El objetivo de la carta era allanar el camino para su visita a Roma de camino a España.
 7. Pablo no estaba muy seguro de ser bien recibido en Roma. Jerusalén era la sede del cristianismo conservador y judío. Roma era el centro de la rama radical y gentil de la cristiandad.

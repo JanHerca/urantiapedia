@@ -49,7 +49,7 @@ Ganid me ve por primera vez y se sorprende. Todavía no sabe que tiene visión m
 
 “_Sí, su nombre era Joshua ben Joseph y lo conocimos en Palestina._”
 
-"_Bueno, él expresó la intención de verte tan pronto como llegaste a este mundo, pero te sorprenderás porque lo verás en gloria, el Maestro de hecho ha sido Hijo Mayor desde su regreso del planeta Tierra, lo cual vamos a hacer. llama aquí a Urantia; de hecho, él es el Hijo Creador de este universo y ahora gobierna más de tres millones de planetas._”
+"_Bueno, él expresó la intención de verte tan pronto como llegaste a este mundo, pero te sorprenderás porque lo verás en gloria, el Maestro de hecho ha sido Hijo Mayor desde su regreso del planeta Tierra, lo cual vamos a hacer aquí a Urantia; de hecho, él es el Hijo Creador de este universo y ahora gobierna más de tres millones de planetas._”
 
 “Pero entonces”, dijo Ganid, “no lo reconoceré”.
 

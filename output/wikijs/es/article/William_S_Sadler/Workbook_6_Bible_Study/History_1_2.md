@@ -46,7 +46,7 @@ Antes, alrededor del año 1000 a.C. No había mucha escritura entre los judíos.
 12. David tiene un reinado largo y lleno de acontecimientos: somete a los [flpistinos](/es/Bible/2_Samuel/8#v1), [moabitas](/es/Bible/2_Samuel/8#v2), [zobahitas](/es/Bible/2_Samuel/8#v3), [Sirios, edomitas y amonitas](/es/Bible/2_Samuel/10#v1).
 13. David atraviesa la rebelión de Absalón y finalmente ve a Salomón en el trono.
 14. [Salomón](/es/Bible/1_Kings/1) reina 960-922 a.C. Preside el reino unido y construye el templo. Se casa con muchas esposas y establece amplias relaciones internacionales.
-15. Tiene fama de sabio. Aumenta los impuestos, construye mucho y todo menos. lleva al reino a la quiebra.
+15. Tiene fama de sabio. Aumenta los impuestos, construye mucho y todo lleva al reino a la quiebra.
 16. Después de la muerte de Salomón, el reino unido se disuelve. Estallan guerras. Jeroboam establece un sistema religioso rival en el reino del norte.
 17. Roboam, hijo de Salomón con una princesa amonita ([I Reyes 14:21](/es/Bible/1_Kings/14#v21)), ejerce un gobierno indiferente en Jerusalén.
 18. Se aporta muy poco al Antiguo Testamento, excepto algunos Salmos.

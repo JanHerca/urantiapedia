@@ -48,9 +48,9 @@ In a class I attended years ago, workshop leader and teacher of The UB, David Gl
 - **Potential:** “The Tao ... is like the eternal void; filled with infinite possibilities. It is hidden but always present. I don’t know who gave birth to it. It is older than God.” (Tao Te Ching #4) 
 - **Associative:** “That all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me. I have given them the glory that you gave me, that they may be one as we are one— I in them and you in me—so that they may be brought to complete unity. ([John 17:21-26](/en/Bible/John/17#v21)) 
     “The universe is triune ... there is nothing that is not a unity of potentiality, actuality and connecting motion.” (Nicholas of Cusa, De Docta Ignorantia, circa 1450) 
-- Creative: “Where there is creation there is progress. Where there is no creation, there is no progress.” (Chandogya Upanishad 7.16- 25, Trans. by Juan Mascaro) 
+- **Creative**: “Where there is creation there is progress. Where there is no creation, there is no progress.” (Chandogya Upanishad 7.16- 25, Trans. by Juan Mascaro) 
     “Create in me a pure heart, O God, and renew a steadfast spirit within me.” (Psalm 51) Evolutional: “God is a verb.” (Buckminster Fuller) Supreme: “_Supreme reality ... is in process of dynamic growth between the unqualified potentials of outer space and the unqualified actuals at the center of all things._” (<a id="a51_315"></a>[UB 115:4](/en/The_Urantia_Book/115#p4)) 
-- Ultimate: “time-space-transcending Deity.” (<a id="a52_46"></a>[UB 0:1.10](/en/The_Urantia_Book/0#p1_10)) 
+- **Ultimate**: “time-space-transcending Deity.” (<a id="a52_46"></a>[UB 0:1.10](/en/The_Urantia_Book/0#p1_10)) 
 
 In paper <a id="a54_9"></a>[UB 94:3.3](/en/The_Urantia_Book/94#p3_3) (The UB) we read about the advances made in Hindu religion: "Had the philosophers of those days been able to make this next advance in deity conception, had they been able to conceive of the Brahman as associative and creative, as a personality approachable by created and evolving beings, then might such a teaching have become the most advanced portraiture of Deity on Urantia since it would have encompassed the first five levels of total deity function and might possibly have envisioned the remaining two." 
 

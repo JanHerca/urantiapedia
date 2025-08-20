@@ -53,7 +53,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 2\. Jesús oró por \_\_\_\_\_\_ entre sus seguidores, pero no deseaba uniformidad.
 
-3\. El reino de los cielos en los corazones de los hombres creará unidad religiosa (no necesariamente uniformidad) porque todos y cada uno de los grupos religiosos compuestos por tales creyentes religiosos estarán libres de toda noción de \_\_\_\_\_\_ autoridad. soberanía religiosa.
+3\. El reino de los cielos en los corazones de los hombres creará unidad religiosa (no necesariamente uniformidad) porque todos y cada uno de los grupos religiosos compuestos por tales creyentes religiosos estarán libres de toda noción de \_\_\_\_\_\_ autoridad religiosa.
 
 4\. La religión del espíritu no exige uniformidad de puntos de vista intelectuales, sólo unidad de espíritu \_\_\_\_\_\_.
 

@@ -106,7 +106,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Cambios en el significado de las palabras.
 
-A continuación se incluye una lista de palabras. dando su significado como se usa en la Biblia:
+A continuación se incluye una lista de palabraando su significado como se usa en la Biblia:
 - Adicto: estar dedicado a algo.
 - Alegar: para producir evidencia.
 - Asistencia: prestar atención.

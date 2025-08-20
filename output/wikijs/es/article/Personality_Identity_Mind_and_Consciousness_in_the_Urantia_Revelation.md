@@ -156,11 +156,11 @@ En la ciencia, el ser humano observa el mundo material; la filosofía es la obse
 
 Con el tiempo, el pensar conduce a la sabiduría y la sabiduría conduce a la adoración; en la eternidad, la adoración lleva a la sabiduría, y la sabiduría resulta en la finalidad del pensamiento.
 
-La posibilidad de la unificación del yo en evolución es inherente a las cualidades de sus factores constitutivos: las energías básicas, los tejidos maestros, el sobrecontrol químico fundamental, las ideas supremas, los motivos supremos, las metas supremas y el divino residente. espíritu del otorgamiento del Padre: el secreto de la autoconciencia de la naturaleza espiritual del hombre.
+La posibilidad de la unificación del yo en evolución es inherente a las cualidades de sus factores constitutivos: las energías básicas, los tejidos maestros, el sobrecontrol químico fundamental, las ideas supremas, los motivos supremos, las metas supremas y el divino espíritu residente del otorgamiento del Padre: el secreto de la autoconciencia de la naturaleza espiritual del hombre.
 
-El yo material, la entidad del ego de la identidad humana, depende durante la vida física de la función continua del vehículo de vida material, de la existencia continua del equilibrio desequilibrado de energías e intelecto que, en este planeta, se le ha dado la oportunidad. nombre vida.
+El yo material, la entidad del ego de la identidad humana, depende durante la vida física de la función continua del vehículo de vida material, de la existencia continua del equilibrio desequilibrado de energías e intelecto que, en este planeta, se le ha dado la oportunidad de la vida.
 
-Pero la individualidad de valor de supervivencia, la individualidad que puede trascender la experiencia de la muerte, solo se desarrolla estableciendo una transferencia potencial del asiento de la identidad de la personalidad en evolución desde el vehículo de vida transitorio, el cuerpo material, a la naturaleza más duradera e inmortal. del alma y más allá hasta aquellos niveles en los que el alma se infunde con la realidad espiritual y finalmente alcanza el estado de la misma.
+Pero la individualidad de valor de supervivencia, la individualidad que puede trascender la experiencia de la muerte, solo se desarrolla estableciendo una transferencia potencial del asiento de la identidad de la personalidad en evolución desde el vehículo de vida transitorio, el cuerpo material, a la naturaleza más duradera e inmortal del alma y más allá hasta aquellos niveles en los que el alma se infunde con la realidad espiritual y finalmente alcanza el estado de la misma.
 
 Esta transferencia real de la asociación material se efectúa por la sinceridad, la persistencia y la firmeza de las decisiones de búsqueda de Dios de la criatura humana.
 

@@ -355,7 +355,7 @@ Y así llegamos a la conclusión de que incluso dudar de Dios o desconfiar de su
 
 La fe de Jesús señaló el camino hacia el máximo logro mortal en el sentido de que proporcionó la salvación de las ataduras materiales, la esclavitud intelectual, la ceguera espiritual, el tiempo y la incompletud del yo: lo finito.
 
-Tal salvación implica la realización personal de que somos hijos del Padre que somos conscientes de la universalidad de la familia de Dios, la bondad de los valores espirituales y la necesidad de niveles espirituales de armonía con los demás, además del logro de una vida eterna de progresión. en el reconocimiento de Dios, la conciencia de Dios y el servicio de Dios.
+Tal salvación implica la realización personal de que somos hijos del Padre que somos conscientes de la universalidad de la familia de Dios, la bondad de los valores espirituales y la necesidad de niveles espirituales de armonía con los demás, además del logro de una vida eterna de progresión en el reconocimiento de Dios, la conciencia de Dios y el servicio de Dios.
 
 Jesús hizo el descubrimiento, en la experiencia humana, del Padre Final, y nosotros, sus hermanos y hermanas en la carne, podemos seguirlo en esta misma experiencia del Padre-descubrimiento de la bondad absoluta de Dios. Los seres mortales, nosotros mismos, podemos incluso alcanzar, tal como somos, la misma satisfacción en esta experiencia de descubrimiento del Padre que Jesús, tal como era.
 
@@ -442,11 +442,11 @@ Dios es el único hecho autocausado en el universo. El universo y Dios no son id
 
 Los que inventarían una religión sin Dios son como los que recogerían frutos sin árboles, tendrían hijos sin padres. El hecho de la experiencia religiosa implica a Dios, y ese Dios de la experiencia personal también debe ser personal.
 
-De Dios, la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más amoroso de todos los amigos, el más divino de todos los valores, tenemos derecho a ser los más ciertos de todo universo. experiencias.
+De Dios, la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más amoroso de todos los amigos, el más divino de todos los valores, tenemos derecho a ser los más ciertos de todo universo.
 
 Mientras que la religión personal precede a la evolución de la moral humana, la religión institucional invariablemente va a la zaga. Pero siendo una cuestión de experiencia interna o personal, la religión nunca puede desarrollarse mucho más adelante que la evolución intelectual de la humanidad.
 
-La religión está siempre y siempre enraizada en la experiencia personal. Y tu religión más alta, la vida de Jesús, fue precisamente una experiencia personal así: el hombre, el hombre mortal, buscando a Dios y encontrándolo en plenitud durante una corta vida en la carne, mientras que en esa misma experiencia humana, apareció Dios buscando al hombre. y encontrarlo. Y eso es religión, incluso la más alta revelada hasta ahora en el universo: la vida terrenal de Jesús de Nazaret.
+La religión está siempre y siempre enraizada en la experiencia personal. Y tu religión más alta, la vida de Jesús, fue precisamente una experiencia personal así: el hombre, el hombre mortal, buscando a Dios y encontrándolo en plenitud durante una corta vida en la carne, mientras que en esa misma experiencia humana, apareció Dios buscando al hombre y encontrarlo. Y eso es religión, incluso la más alta revelada hasta ahora en el universo: la vida terrenal de Jesús de Nazaret.
 
 
 ## El privilegio de elegir

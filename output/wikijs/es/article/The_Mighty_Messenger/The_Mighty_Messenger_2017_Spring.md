@@ -159,7 +159,7 @@ Pueblo, Colorado
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Susan_Rowland.jpg">
 </figure>
 
-**Susan Rowland** ha sido enfermera registrada en la UCI durante 30 años y se especializa en guiar a pacientes y familias a través de los turbulentos procesos de los trasplantes de médula ósea y la muerte y el morir. Mientras participaba activamente en el comité de ética del hospital y terminaba su doctorado en psicología clínica con una importante área de estudio en terapia cognitiva conductual, psicooncología y tanatología, también fue conferencista invitada y facilitadora en la Facultad de Medicina de la Universidad de Cincinnati en sus cursos. sobre la muerte, el morir, la pérdida y el duelo y la ética médica.
+**Susan Rowland** ha sido enfermera registrada en la UCI durante 30 años y se especializa en guiar a pacientes y familias a través de los turbulentos procesos de los trasplantes de médula ósea y la muerte y el morir. Mientras participaba activamente en el comité de ética del hospital y terminaba su doctorado en psicología clínica con una importante área de estudio en terapia cognitiva conductual, psicooncología y tanatología, también fue conferencista invitada y facilitadora en la Facultad de Medicina de la Universidad de Cincinnati en sus cursos sobre la muerte, el morir, la pérdida y el duelo y la ética médica.
 
 A través de su trabajo, ha encontrado que muchos de los conceptos en _El Libro de Urantia_ con respecto a la naturaleza de Dios y su relación con el hombre/mujer junto con nuestra carrera de ascensión, la cosmología y las enseñanzas de Cristo Miguel son fácilmente aceptados por los pacientes y sus familias que buscan tranquilidad de su conexión con la Primera Fuente y Centro, Cristo Miguel, y entre ellos.
 

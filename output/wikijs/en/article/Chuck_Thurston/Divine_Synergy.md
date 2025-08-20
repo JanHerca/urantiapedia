@@ -141,7 +141,7 @@ This may be an unexplored realm for many of us, but I think it might be what Jes
 
 By pointing to our consciousness of body, mind, and spirit, I think we can now see that Jesus was anticipating our awakening awareness of the threefold endowment of the Holy Spirit, the Spirit of Truth, and the indwelling presence of the Father. 
 
-Our creative partnership with these endowments of spirit presence, as they are unified in our experience by angelic ministry, puts us on a path of human-divine synergy that enables our discovery and development of a new and potentially eternal reality — our morontia soul identity. This emerging version of ourselves will be an endless revelation of superadditive possibilities that we could never 
+Our creative partnership with these endowments of spirit presence, as they are unified in our experience by angelic ministry, puts us on a path of human-divine synergy that enables our discovery and development of a new and potentially eternal reality — our morontia soul identity. This emerging version of ourselves will be an endless revelation of superadditive possibilities that we could never [missing words].
 
 **Fruits of the Spirit:**
  * loving service

@@ -49,7 +49,7 @@ AQUÍ ESTÁ EL EQUIPO DE 17 PERSONAS QUE SE REUNIÓ:
 
 El tema de este encuentro fue: “Hacer la voluntad de Dios”.
 
-Nos llevó a utilizar nuestro discernimiento para tratar de comprender de dónde podía venir la información que nos confirmaba que estábamos haciendo verdaderamente la voluntad de Dios, cada uno a nuestro nivel, cualquiera que fuera el ámbito en el que ejercitábamos nuestro saber y para qué. objetivo. Las palabras «servicio, verdad, bondad, justicia, rectitud» surgieron con frecuencia, y la mayoría de las veces, volver a las cosas simples de la vida, lo que somos más capaces de hacer, nos permite hacer la voluntad de Dios si se hacen en de la manera correcta y con las intenciones correctas, sólo hay que ser consciente de ello.
+Nos llevó a utilizar nuestro discernimiento para tratar de comprender de dónde podía venir la información que nos confirmaba que estábamos haciendo verdaderamente la voluntad de Dios, cada uno a nuestro nivel, cualquiera que fuera el ámbito en el que ejercitábamos nuestro saber y para qué objetivo. Las palabras «servicio, verdad, bondad, justicia, rectitud» surgieron con frecuencia, y la mayoría de las veces, volver a las cosas simples de la vida, lo que somos más capaces de hacer, nos permite hacer la voluntad de Dios si se hacen en de la manera correcta y con las intenciones correctas, sólo hay que ser consciente de ello.
 
 Todos compartieron bien y se beneficiaron de estos intercambios. Los pasajes que fueron elegidos como apoyo son los siguientes:
 

@@ -119,7 +119,7 @@ En respuesta a la pregunta de un abogado sobre quién es su prójimo, Jesús dij
 
 [La parábola ilustra el amor y la misericordia de un Dios perfecto que nos recibirá cada vez que nos volvamos a él.]
 
-Esta introducción condensada a la mente y el pensamiento de Jesús proporciona una idea de la naturaleza del Dios a quien Jesús llamó «Abba», un término cariñoso arameo usado por Jesús para expresar el amor infantil por nuestro Padre celestial. También es suficiente para sentar las bases de una actitud mental capaz de conducir a la espiritualización de nuestro propio ser. Habiendo asimilado este material central en nuestro ser, y habiéndonos comprometido irrevocablemente a tratar de vivir nuestra propia vida bajo la guía directa de la presencia interior de nuestro Dios-Espíritu, tal como lo hizo Jesús, entonces nada más es esencial o necesario para asegurar nuestra vida. unidad con el Padre y nuestra participación en su voluntad.
+Esta introducción condensada a la mente y el pensamiento de Jesús proporciona una idea de la naturaleza del Dios a quien Jesús llamó «Abba», un término cariñoso arameo usado por Jesús para expresar el amor infantil por nuestro Padre celestial. También es suficiente para sentar las bases de una actitud mental capaz de conducir a la espiritualización de nuestro propio ser. Habiendo asimilado este material central en nuestro ser, y habiéndonos comprometido irrevocablemente a tratar de vivir nuestra propia vida bajo la guía directa de la presencia interior de nuestro Dios-Espíritu, tal como lo hizo Jesús, entonces nada más es esencial o necesario para asegurar nuestra unidad con el Padre y nuestra participación en su voluntad.
 
 ## Documento 100: una sinopsis
 
