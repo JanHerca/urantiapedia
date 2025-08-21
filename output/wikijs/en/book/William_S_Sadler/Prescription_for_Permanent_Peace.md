@@ -38,7 +38,9 @@ CHICAGO<br>
 
 <br>
 
+_TO THE RECIPIENT OK THIS BOOK_
 
+BECAUSE we believe this is a timely and constructive little volume, a group of friends of the author conceived the idea of sending it to you with their compliments, as well as to a select group of other public-spirited and influential persons. It approaches the problems of the present Global War and its aftermath from a somewhat “different” angle. We hope you Will find it interesting.
 
 
 
