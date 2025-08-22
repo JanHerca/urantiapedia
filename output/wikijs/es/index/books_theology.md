@@ -1582,7 +1582,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">El verdadero Jesús: lo que enseñó: lo que hizo: quién era</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Fiske y Burton Scott Easton</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Charles_Fiske_And_Burton_Scott_Easton/The_Real_Jesus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

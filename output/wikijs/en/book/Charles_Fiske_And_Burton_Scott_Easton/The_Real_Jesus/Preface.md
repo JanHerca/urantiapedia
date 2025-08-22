@@ -47,7 +47,7 @@ The genesis of the book is to be found in _The Christ We Know_, [^1] portions of
 
 The estimate of Pharisaism is made after consideration of the contentions of such scholars as Mr. R. T. Herford and Dr. G. F. Moore, together with the reconstructions of the Jewish experts. In presenting the motives in the ethical teachings of Jesus, similar consideration has been paid to the most recent German work, such as that of Dr. Rudolf Bultmann and Dr. Hans Windisch. The fact that we have been unable to accept their main conclusions does not lessen our indebtedness to any of these scholars.
 
-Charles Fiske Burton Scott Easton
+Charles Fiske, Burton Scott Easton
 
 <br>
 

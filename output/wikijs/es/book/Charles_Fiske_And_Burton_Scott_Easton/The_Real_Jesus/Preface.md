@@ -33,7 +33,7 @@ El propósito especial de este libro —si no su única justificación razonable
 
 No es fácil combinar lo erudito y lo popular al escribir un libro; aún más difícil es contar la historia de Jesús. Una Vida de Cristo popular puede degenerar en cientos de páginas de sentimentalismo, fluyendo con facilidad en una corriente constante que se vuelve menos profunda a medida que se ensancha. Por otro lado, una Vida erudita, si bien no es del todo incomprensible para el profano, tiende a ser extremadamente aburrida en su estilo y árida en su método técnico. Necesariamente aborda variantes textuales, crítica literaria, credibilidad histórica, formas, leyendas, mitos, etc.
 
-Hemos tratado de contar la historia de Jesús de manera sencilla, sin sentimentalismos excesivos y sin un uso demasiado libre de la facultad imaginativa; buscando, más bien, escribir con la reserva y moderación que caracterizan las narraciones del Evangelio; esforzándonos por contar una historia directa y sencilla, evitando las frases refinadas y, ciertamente, sin forzar el efecto.
+Hemos tratado de contar la historia de Jesús de manera sencilla, sin sentimentalismos excesivos y sin un uso demasiado libre de la facultad imaginativa; buscando, más bien, escribir con la reserva y moderación que caracterizan las narraciones del Evangelio; esforzándonos por contar una historia <span id="pvii"><sup><small>[ p. vii ]</small></sup></span> directa y sencilla, evitando las frases refinadas y, ciertamente, sin forzar el efecto.
 
 Hemos intentado, al mismo tiempo, basar el relato en el mejor estudio crítico de los Evangelios, con una franca aceptación de los métodos críticos y sus razonables conclusiones. Por supuesto, el andamiaje se desmontó tras la construcción del edificio. No dejamos a la vista una acumulación de investigación crítica.
 
@@ -41,13 +41,13 @@ En otras palabras, hemos intentado contar una historia de vital interés, sin qu
 
 Esperamos, también, que el relato de las enseñanzas de Jesús, tal como se resume aquí, sea de especial valor. Nos hemos esforzado por presentar este resumen de forma clara, concisa, con sentido común y redactado de forma que se adapte a los problemas actuales.
 
-El libro es exactamente lo que sugiere el título: primero, un estudio cuidadoso de lo que Jesús enseñó; segundo, un examen franco de los hechos de su vida: la historia de lo que hizo; tercero, aunque brevemente, un registro de lo que sus primeros seguidores creían sobre él, y una declaración justa de los fundamentos sobre los cuales creían, con insistencia en los valores vitales de tal fe.
+El libro es exactamente lo que sugiere el título: primero, un estudio cuidadoso de lo que Jesús enseñó; segundo, un examen franco de los hechos de su vida: la historia de lo que hizo; tercero, aunque brevemente, un registro de lo que sus primeros <span id="pviii"><sup><small>[ p. viii ]</small></sup></span> seguidores creían sobre él, y una declaración justa de los fundamentos sobre los cuales creían, con insistencia en los valores vitales de tal fe.
 
-El origen del libro se encuentra en _El Cristo que conocemos_, [^1] del cual se han reproducido fragmentos, con pocas modificaciones, en el presente volumen. Quienes deseen un análisis más completo de los problemas religiosos pueden consultarlo. Las premisas críticas son las de _El Evangelio antes de los Evangelios_. [^2] Se han omitido del análisis los pasajes que parecen críticamente dudosos, aunque esto no implica que todos los pasajes omitidos se consideren realmente dudosos. El Cuarto Evangelio se ha utilizado principalmente con fines interpretativos.
+El origen del libro se encuentra en _El Cristo que conocemos_ (_The Christ We Know_), [^1] del cual se han reproducido fragmentos, con pocas modificaciones, en el presente volumen. Quienes deseen un análisis más completo de los problemas religiosos pueden consultarlo. Las premisas críticas son las de _El Evangelio antes de los Evangelios_ (_The Gospel Before the Gospels_). [^2] Se han omitido del análisis los pasajes que parecen críticamente dudosos, aunque esto no implica que todos los pasajes omitidos se consideren realmente dudosos. El Cuarto Evangelio se ha utilizado principalmente con fines interpretativos.
 
 La evaluación del fariseísmo se realiza tras considerar las afirmaciones de eruditos como el Sr. R. T. Herford y el Dr. G. F. Moore, junto con las reconstrucciones de los expertos judíos. Al presentar los motivos de las enseñanzas éticas de Jesús, se ha prestado una consideración similar a las obras alemanas más recientes, como las del Dr. Rudolf Bultmann y el Dr. Hans Windisch. El hecho de que no hayamos podido aceptar sus conclusiones principales no disminuye nuestra deuda con ninguno de estos eruditos.
 
-Charles Fiske Burton Scott Easton
+Charles Fiske, Burton Scott Easton
 
 <figure class="table chapter-navigator">
   <table>

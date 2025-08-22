@@ -31,7 +31,7 @@ dateCreated: 2025-2-12T14:33:17Z
 
 <span id="p261"><sup><small>[ pág. 261 ]</small></sup></span>
 
-Por BSE
+Por B. S. E.
 
 La fecha más probable del nacimiento de Jesús es el 7-6 a. C. En aquella época, Herodes el Grande se encontraba en dificultades con Augusto, lo que hizo posible en Palestina el censo mencionado en San Lucas 2:1-2. Sin embargo, el nombre del gobernador de Siria no era Quirino, sino Saturnino; y hay motivos para pensar que Lucas, en realidad, escribió esta última forma.
 
