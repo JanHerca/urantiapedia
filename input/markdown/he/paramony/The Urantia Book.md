@@ -4006,8 +4006,8 @@
 | You will reap what you sow                                                              | אתה תקצור מה שאתה זורע                                        |
 | You will seek me and you will find me, if you search                                    | אתה תחפש אותי ותמצא אותי, אם תחפש                             |
 | You will water them in the river of your pleasures...                                   | תשקה אותם בנהר תענוגותיך...                                   |
-| You`ll be beaten in synagogues                                                          | ירביצו לך בבתי הכנסת                                          |
-| You`ll be brought before councils                                                       | תובא בפני מועצות                                              |
+| You'll be beaten in synagogues                                                          | ירביצו לך בבתי הכנסת                                          |
+| You'll be brought before councils                                                       | תובא בפני מועצות                                              |
 | Your ears hear: ‘this is way’                                                           | האוזניים שלך שומעות: 'זו הדרך'                                |
 | Your hand to find out enemies                                                           | היד שלך לגלות אויבים                                          |
 | Your kingdom come, will be done                                                         | מלכותך תבוא, ייעשה                                            |

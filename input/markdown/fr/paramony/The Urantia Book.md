@@ -4101,8 +4101,8 @@
 | You will reap what you sow                                                              | Vous récolterez ce que vous avez semé                                                       |
 | You will seek me and you will find me, if you search                                    | Vous me chercherez et vous me trouverez, si vous cherchez                                   |
 | You will water them in the river of your pleasures...                                   | Tu les arroseras dans le fleuve de tes plaisirs...                                          |
-| You`ll be beaten in synagogues                                                          | On vous battra dans les synagogues                                                          |
-| You`ll be brought before councils                                                       | Vous serez amenés devant les conseils                                                       |
+| You'll be beaten in synagogues                                                          | On vous battra dans les synagogues                                                          |
+| You'll be brought before councils                                                       | Vous serez amenés devant les conseils                                                       |
 | Your ears hear: ‘this is way’                                                           | Vos oreilles entendent : 'voici le chemin'                                                  |
 | Your hand to find out enemies                                                           | Ta main pour découvrir les ennemis                                                          |
 | Your kingdom come, will be done                                                         | Que ton règne vienne, que ta volonté soit faite                                             |

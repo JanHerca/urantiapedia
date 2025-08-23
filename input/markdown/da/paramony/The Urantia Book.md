@@ -4084,8 +4084,8 @@
 | You will reap what you sow                                                              | Du skal høste, hvad du sår                                                               |
 | You will seek me and you will find me, if you search                                    | I vil søge mig, og I vil finde mig, hvis I søger                                         |
 | You will water them in the river of your pleasures...                                   | Du vil vande dem i din glædes flod...                                                    |
-| You`ll be beaten in synagogues                                                          | I vil blive slået i synagogerne                                                          |
-| You`ll be brought before councils                                                       | I vil blive stillet for et råd                                                           |
+| You'll be beaten in synagogues                                                          | I vil blive slået i synagogerne                                                          |
+| You'll be brought before councils                                                       | I vil blive stillet for et råd                                                           |
 | Your ears hear: ‘this is way’                                                           | Dine ører hører: 'dette er vejen'                                                        |
 | Your hand to find out enemies                                                           | Din hånd til at finde ud af fjender                                                      |
 | Your kingdom come, will be done                                                         | Dit rige komme, din vilje ske                                                            |

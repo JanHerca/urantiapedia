@@ -344,7 +344,7 @@
 | Lord near whoever calls                                | El Señor está cercano a todos los que lo invocan                            |
 | Lord of all                                            | Señor Dios de toda la creación                                              |
 | Lord preserves going out ...                           | El Señor protegerá nuestra entrada                                          |
-| Lord says: I created you                               | Dice el Señor: `Yo os he creado'                                            |
+| Lord says: I created you                               | Dice el Señor: 'Yo os he creado'                                            |
 | Love God & neighbor as self                            | Amar a Dios y al prójimo como a sí mismo                                    |
 | Love God & thy neighbor                                | Amar a Dios y al prójimo                                                    |
 | Love God with all mind & heart                         | Deberíais amarlo con toda la mente y corazón                                |
@@ -502,7 +502,7 @@
 | Part 2: Greatest among 10K                             | Parte 2: El más grande entre diez mil                                       |
 | Part 2: Greatness unsearchable                         | Parte 2: Grandeza insondable                                                |
 | Part 2: He gives power to faint                        | Parte 2: Da energía a los débiles                                           |
-| Part 2: If any say I sinned                            | Parte 2: Si alguien dice: `He pecado'                                       |
+| Part 2: If any say I sinned                            | Parte 2: Si alguien dice: 'He pecado'                                       |
 | Part 2: In your hands, power                           | Parte 2: En tu mano se encuentra el poder                                   |
 | Part 2: Judge ends of earth                            | Parte 2: El Señor juzgará la Tierra                                         |
 | Part 2: Live forever                                   | Parte 2: Vivirán para siempre                                               |
@@ -736,7 +736,7 @@
 | Writing in sand                                        | Jesús escribe en la arena                                                   |
 | Yaweh v. Baal                                          | Yahvé contra Baal                                                           |
 | You are the temple of God; God dwells in you           | Sois el templo de Dios, y os habita el espíritu                             |
-| Your ears hear: this is way                            | Vuestros oídos escucharán `éste es el camino'                               |
+| Your ears hear: this is way                            | Vuestros oídos escucharán 'éste es el camino'                               |
 | Your sins hold back good                               | Son vuestros pecados los que os han apartado de las cosas buenas            |
 | Yours is power, glory added                            | Adición de tuyo es el poder y la gloria                                     |
 | Zelotes' question                                      | La pregunta de Simón Celotes                                                |

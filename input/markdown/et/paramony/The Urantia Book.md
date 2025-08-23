@@ -4094,8 +4094,8 @@
 | You will reap what you sow                                                              | Sa lõikad seda, mida sa külvad                                              |
 | You will seek me and you will find me, if you search                                    | Te otsite mind ja te leiate mind, kui te otsite                             |
 | You will water them in the river of your pleasures...                                   | Sa kastad neid oma rõõmude jões...                                          |
-| You`ll be beaten in synagogues                                                          | Teid pekstakse sünagoogides                                                 |
-| You`ll be brought before councils                                                       | Teid tuuakse nõukogu ette                                                   |
+| You'll be beaten in synagogues                                                          | Teid pekstakse sünagoogides                                                 |
+| You'll be brought before councils                                                       | Teid tuuakse nõukogu ette                                                   |
 | Your ears hear: ‘this is way’                                                           | Teie kõrvad kuulevad: „See on tee“                                          |
 | Your hand to find out enemies                                                           | Sinu käsi leiab vaenlased välja                                             |
 | Your kingdom come, will be done                                                         | Tulgu sinu riik, sündigu su tahe                                            |

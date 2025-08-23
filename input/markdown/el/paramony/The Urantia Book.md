@@ -4125,8 +4125,8 @@
 | You will reap what you sow                                                              | Θα θερίσετε ό,τι σπείρετε                                                                          |
 | You will seek me and you will find me, if you search                                    | Θα με αναζητήσετε και θα με βρείτε, αν με ψάξετε                                                   |
 | You will water them in the river of your pleasures...                                   | Θα τους ποτίσεις με το ποτάμι των απολαύσεών σου...                                                |
-| You`ll be beaten in synagogues                                                          | Θα χτυπηθείτε στις συναγωγές                                                                       |
-| You`ll be brought before councils                                                       | Θα βρεθείτε ενώπιον των συμβουλίων                                                                 |
+| You'll be beaten in synagogues                                                          | Θα χτυπηθείτε στις συναγωγές                                                                       |
+| You'll be brought before councils                                                       | Θα βρεθείτε ενώπιον των συμβουλίων                                                                 |
 | Your ears hear: ‘this is way’                                                           | Τα αυτιά σας ακούνε: «Αυτός είναι ο δρόμος»                                                        |
 | Your hand to find out enemies                                                           | Το χέρι σου για να ανακαλύψεις τους εχθρούς                                                        |
 | Your kingdom come, will be done                                                         | Ελθέτω η βασιλεία σου, γεννηθήτω το θέλημά σου                                                     |

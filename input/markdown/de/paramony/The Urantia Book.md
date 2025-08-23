@@ -4091,8 +4091,8 @@
 | You will reap what you sow                                                              | Ihr werdet ernten, was ihr sät                                                                                        |
 | You will seek me and you will find me, if you search                                    | Ihr werdet mich suchen und ihr werdet mich finden, wenn ihr sucht                                                     |
 | You will water them in the river of your pleasures...                                   | Du wirst sie tränken im Strom deines Wohlgefallens...                                                                 |
-| You`ll be beaten in synagogues                                                          | Ihr werdet in den Synagogen geschlagen                                                                                |
-| You`ll be brought before councils                                                       | Ihr werdet vor die Räte gebracht werden                                                                               |
+| You'll be beaten in synagogues                                                          | Ihr werdet in den Synagogen geschlagen                                                                                |
+| You'll be brought before councils                                                       | Ihr werdet vor die Räte gebracht werden                                                                               |
 | Your ears hear: ‘this is way’                                                           | Eure Ohren hören: 'Das ist der Weg'                                                                                   |
 | Your hand to find out enemies                                                           | Herr wird seine Gesalbten retten                                                                                      |
 | Your kingdom come, will be done                                                         | Dein Reich komme, dein Wille geschehe                                                                                 |

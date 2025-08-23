@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | あなたは自分が蒔いたものを刈り取ります                                 |
 | You will seek me and you will find me, if you search                                    | 検索すれば、あなたは私を探し、あなたは私を見つけるでしょう。           |
 | You will water them in the river of your pleasures...                                   | あなたはあなたの楽しみの川でそれらに水をやるでしょう...                |
-| You`ll be beaten in synagogues                                                          | あなたはシナゴーグで殴られるだろう                                     |
-| You`ll be brought before councils                                                       | あなたは評議会の前に連れて行かれます                                   |
+| You'll be beaten in synagogues                                                          | あなたはシナゴーグで殴られるだろう                                     |
+| You'll be brought before councils                                                       | あなたは評議会の前に連れて行かれます                                   |
 | Your ears hear: ‘this is way’                                                           | あなたの耳には「これが道だ」と聞こえます                               |
 | Your hand to find out enemies                                                           | 敵を見つけるあなたの手                                                 |
 | Your kingdom come, will be done                                                         | あなたの王国が来ます。                                                 |

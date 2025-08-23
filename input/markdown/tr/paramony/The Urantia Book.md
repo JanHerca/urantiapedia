@@ -4006,8 +4006,8 @@
 | You will reap what you sow                                                              | Ne ekersen onu biçersin                                                    |
 | You will seek me and you will find me, if you search                                    | Beni ararsan bulursun beni                                                 |
 | You will water them in the river of your pleasures...                                   | Zevklerinin ırmağında sulayacaksın onları...                               |
-| You`ll be beaten in synagogues                                                          | Sinagoglarda dövüleceksin                                                  |
-| You`ll be brought before councils                                                       | Meclislerin önüne çıkarılacaksın                                           |
+| You'll be beaten in synagogues                                                          | Sinagoglarda dövüleceksin                                                  |
+| You'll be brought before councils                                                       | Meclislerin önüne çıkarılacaksın                                           |
 | Your ears hear: ‘this is way’                                                           | Kulakların duyuyor: 'bu yol'                                               |
 | Your hand to find out enemies                                                           | Düşmanları bulmak için eliniz                                              |
 | Your kingdom come, will be done                                                         | Krallığın gelecek, yapılacak                                               |

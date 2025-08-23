@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | Du kommer att skörda vad du sår                                                       |
 | You will seek me and you will find me, if you search                                    | Du kommer att söka mig och du kommer att hitta mig, om du söker                       |
 | You will water them in the river of your pleasures...                                   | Du kommer att vattna dem i dina nöjes flod...                                         |
-| You`ll be beaten in synagogues                                                          | Du kommer att bli slagen i synagogor                                                  |
-| You`ll be brought before councils                                                       | Du kommer att ställas inför råd                                                       |
+| You'll be beaten in synagogues                                                          | Du kommer att bli slagen i synagogor                                                  |
+| You'll be brought before councils                                                       | Du kommer att ställas inför råd                                                       |
 | Your ears hear: ‘this is way’                                                           | Dina öron hör: "så här är det"                                                        |
 | Your hand to find out enemies                                                           | Dina söner och döttrar kommer att hållas fångna                                       |
 | Your kingdom come, will be done                                                         | Din hand för att ta reda på fiender                                                   |

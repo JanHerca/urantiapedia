@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | Vei culege ce ai semănat                                                                       |
 | You will seek me and you will find me, if you search                                    | Mă vei căuta și mă vei găsi, dacă vei căuta                                                    |
 | You will water them in the river of your pleasures...                                   | Le vei uda în râul plăcerilor tale...                                                          |
-| You`ll be beaten in synagogues                                                          | Vei fi bătut în sinagogi                                                                       |
-| You`ll be brought before councils                                                       | Veți fi adus în fața consiliilor                                                               |
+| You'll be beaten in synagogues                                                          | Vei fi bătut în sinagogi                                                                       |
+| You'll be brought before councils                                                       | Veți fi adus în fața consiliilor                                                               |
 | Your ears hear: ‘this is way’                                                           | Urechile tale aud: „asta e calea”                                                              |
 | Your hand to find out enemies                                                           | Mâna ta pentru a afla dușmani                                                                  |
 | Your kingdom come, will be done                                                         | Vie împărăția ta, se va face                                                                   |

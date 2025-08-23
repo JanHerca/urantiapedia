@@ -1,5 +1,6 @@
 const Strings = {
 	"bookName": {
+		ar: "كِتاب يورانشيا",
 		bg: "Книгата Урантия",
 		cs: "Kniha Urantia",
 		da: "Urantia Bogen",
@@ -24,9 +25,11 @@ const Strings = {
 		ro: "Cartea Urantia",
 		ru: "Книга Урантии",
 		sv: "Urantiaboken",
-		tr: "Urantia’nın Kitabı"
+		tr: "Urantia’nın Kitabı",
+		zh: "玉苒厦之书"
 	},
 	"bookPart0": {
+		ar: "مقدمة الكتاب",
 		bg: "Предисловие",
 		cs: "Předmluva",
 		da: "Forord",
@@ -53,9 +56,11 @@ const Strings = {
 		ro: "Introducere",
 		ru: "Предисловие",
 		sv: "Förord",
-		tr: "Önsöz"
+		tr: "Önsöz",
+		zh: "前言"
 	},
 	"bookPart1": {
+		ar: "الجزء الأول, الكون المركزي والأكوان العظمى",
 		bg: "ЧАСТ I - Централната и свръхвселените",
 		cs: "Díl I. - Střední vesmír a supervesmír",
 		da: "Del I - Kapitel det Centrale og Superuniverserne",
@@ -82,9 +87,11 @@ const Strings = {
 		ro: "Partea I - Universul Central şi Supraunversurile",
 		ru: "Часть I - Центральная Вселенная и Сверхвселенных",
 		sv: "DEL I - Centraluniversumet och superuniverserna",
-		tr: "Kısım I / Bölüm 1 - Merkezi ve Aşkın Evrenleri"
+		tr: "Kısım I / Bölüm 1 - Merkezi ve Aşkın Evrenleri",
+		zh: "第一部分, 中央和超级宇宙"
 	},
 	"bookPart1Desc": {
+		ar: "برعاية كتيبة من شخصيات الكون العظيم في يوﭭرسا متصرفون بسُلطة من قدماء الأيام في أورﭭونتون.",
 		bg: "Подготвена от Уверския Корпус на личностите на свръхвселената, упълномощени от Извечно Древните на Орвонтон.",
 		cs: "Podpořeno Sborem Osobností na Uverse jednajících na základě pověření Věčně Moudrých Orvontonu.",
 		da: "Udarbejdet med støtte af et Uversa Korps af Superunivers Personligheder, med bemyndigelse af Orvontons Dagenes Ældste.",
@@ -111,9 +118,11 @@ const Strings = {
 		ro: "Sponsorizat de un Corp din Uversa de Personalităţi ale Superuniversului acţionînd prin autoritatea Celor Vechi de Zile din Orvonton.",
 		ru: "Подготовлено Увeрсским Корпусом личностей сверхвселенной, уполномоченных Древними Дней Орвонтона.",
 		sv: "Avfattad under beskydd av en Uversa-kår bestående av auperuniversumpersonligheter med bemyndiagande av Dagarnas Forna i Orvonton.",
-		tr: "Yüksek Evren Kişilikleri Topluluğun Başı tarafından Urantia’daki Cennetin İlahları ve kâinatın âlemlerinin tümü hususundaki doğruları yansıtmak için atanan Kutsal bir Orvonton Danışmanı tarafından yazılmıştır."
+		tr: "Yüksek Evren Kişilikleri Topluluğun Başı tarafından Urantia’daki Cennetin İlahları ve kâinatın âlemlerinin tümü hususundaki doğruları yansıtmak için atanan Kutsal bir Orvonton Danışmanı tarafından yazılmıştır.",
+		zh: "由依照奥温顿（Orvonton）亘古常在者之权威行事的尤沃萨（Uversa）超级宇宙人格体团队所发起"
 	},
 	"bookPart2": {
+		ar: "الجزء الثاني, الكون المحلي",
 		bg: "ЧАСТ II - Локалната вселена",
 		cs: "Díl II. - Lokální Vesmír",
 		da: "Del II - Lokaluniverset",
@@ -140,9 +149,11 @@ const Strings = {
 		ro: "Partea a II a - Universul local",
 		ru: "Часть II - Локальная Вселенная",
 		sv: "DEL II - Lokaluniversumet",
-		tr: "Kısım II / Bölüm 2 - Yerel Evrenler"
+		tr: "Kısım II / Bölüm 2 - Yerel Evrenler",
+		zh: "第二部分, 地方宇宙"
 	},
 	"bookPart2Desc": {
+		ar: "برعاية كتيبة من شخصيات الكون العظيم في نِبادون متصرفون بسُلطة من جبرائيل ساﻟﭭينغتون",
 		bg: "Подготвено от Небадонския Корпус на Личностите на Локалната Вселена, упълномощени от Гавраил Салвингтонски.",
 		cs: "Podpořeno Sborem Vesmírných Osobností Nebadonu jednajících na základě pověření Gabriela ze Salvigtonu.",
 		da: "Udarbejdet med støtte af et korps af personligheder fra lokaluniverset Nebadon - med bemyndigelse af Gabriel i Salvington.",
@@ -169,9 +180,11 @@ const Strings = {
 		ro: "Prezentat de un Corp din Nebadon al Universului Local Personalităţi activând cu autoritatea lui Gabriel al Salvingtonului.",
 		ru: "Подготовлено Небадонским Корпусом личностей локальной вселенной, уполномоченных Гавриилом Салвингтонским.",
 		sv: "Avfattad under beskydd av en Nebadon-kår av personligheter i lokaluniversumet med bemyndigqnde av Gabriel i Salvington.",
-		tr: "Salvington'lu Gabriel'in otoritesi tarafından hareket eden Yerel Evren Kişilikleri Nebadon Birliği sponsorluğu tarafından yazılmıştır."
+		tr: "Salvington'lu Gabriel'in otoritesi tarafından hareket eden Yerel Evren Kişilikleri Nebadon Birliği sponsorluğu tarafından yazılmıştır.",
+		zh: "由依照萨尔文顿（Salvington）的加百列之权威行事的内巴顿（Nebadon）地方宇宙人格体团队所发起"
 	},
 	"bookPart3": {
+		ar: "الجزء الثالث, تاريخ يورانشيا",
 		bg: "ЧАСТ III - Историята на Урантия",
 		cs: "Díl III. - Historie Urantie",
 		da: "Del III - Urantias Historie",
@@ -198,9 +211,11 @@ const Strings = {
 		ro: "Partea a III a - Istoria Urantia",
 		ru: "Часть III - История Урантии",
 		sv: "DEL III - Urantias historia",
-		tr: "Kısım III / Bölüm 3 - Urantia’nın Tarihi"
+		tr: "Kısım III / Bölüm 3 - Urantia’nın Tarihi",
+		zh: "第三部分, 玉苒厦的历史"
 	},
 	"bookPart3Desc": {
+		ar: "تمت رعاية هذه الأوراق من قِبل كتيبة من شخصيات الكون المحلي متصرفون بسُلطة من جبرائيل ساﻟﭭينغتون",
 		bg: "Настоящите повествувания бяха подготовени от Корпуса на личностите на локалната вселена, упълномощени от Гавраил Салвингтонски.",
 		cs: "Tyto kapitoly jsou podpořeny Sborem Osobností Lokálního Vesmíru jednajících na základě pověření Gabriela ze Salvingtonu.",
 		da: "Disse kapitler er støttet af et korps af personligheder fra det lokale univers, autoriseret af Gabriel af Salvington.",
@@ -227,9 +242,11 @@ const Strings = {
 		ro: "Aceste capitole au fost prezentate de un Corp de Personalităţi ale Universului Local acţionând prin autoritatea lui Gabriel din Salvington.",
 		ru: "Настоящие документы были подготовлены Корпусом личностей локальной вселенной, уполномоченных Гавриилом Салвингтонским.",
 		sv: "Dessa kapitel avfattades under beskydd af en kår av personligheter i lokaluniversumet med bemyndigande av Gabriel i Salvington.",
-		tr: "Bu bildiriler, Salvington'lu Gabriel'in otoritesi tarafından hareket eden Yerel Evren Kişilikleri Birliği tarafından desteklenmiştir."
+		tr: "Bu bildiriler, Salvington'lu Gabriel'in otoritesi tarafından hareket eden Yerel Evren Kişilikleri Birliği tarafından desteklenmiştir.",
+		zh: "这些文献是由依照萨尔文顿的加百列之权威行事的地方宇宙人格体团队所发起"
 	},
 	"bookPart4": {
+		ar: "الجزء الرابع, حياة وتعاليم يسوع",
 		bg: "ЧАСТ IV - Животът и ученията на Иисус",
 		cs: "Díl IV. - Život a učení Ježíše",
 		da: "Del IV - Jesu Liv og Lære",
@@ -256,9 +273,11 @@ const Strings = {
 		ro: "Partea a IV a - Viaţa şi învăţăturile lui Iisus",
 		ru: "Часть IV - Жизнь и Учения Иисуса",
 		sv: "DEL IV - Jesu liv och förkunnelse",
-		tr: "Kısım IV / Bölüm 4 - İsa’nın Hayatı ve Öğretileri"
+		tr: "Kısım IV / Bölüm 4 - İsa’nın Hayatı ve Öğretileri",
+		zh: "第四部分, 耶稣的生平和教导"
 	},
 	"bookPart4Desc": {
+		ar: "تمت رعاية هذه المجموعة من الأوراق من قِبل مفوضية من اثني عشر مُنتصَف طريق يورانشي متصرفون تحت إشراف ملكيصادق موَّجه للوحي." + " | " + "تم تزويد أساس هذه الرواية من قِبل منتصف طريق ثانوي كان مُعيَّناَ في أحد الأوقات إلى الرعاية الفائقة للرسول أندراوس",
 		bg: "Настоящият раздел беше подготвен от комисия от дванадесет промеждутъчни създания на Урантия, трудили се под наблюдението на Мелхиседек, ръководител на комисията по откровенията. | В основата на повествуванията е положена Информация, предоставена от вторично промеждутъчно създание, някога изпълнявало задълженията на свръхчовешки хранител на апостол Андрей.",
 		cs: "Tyto kapitoly jsou podpořeny komisí dvanácti midbytostí naší planety Urantie jednajících pod dohledem vedoucího zjevení Melkísedeka. | Podklady pro toto vyprávění byly dodány sekundární midbytostí, která byla toho času přidělena nadlidskému dohledu nad Apoštolem Ondřejem.",
 		da: "De følgende kapitel blev udarbejdet af en kommission af tolv Urantia mellemvæsener som virkede under opsyn af en Melkisedek som ledede åbenbaringseprojektet. | Grundlaget for denne beretning blev leveret af en anden gradens mellemvæsen som engang var betroet det overmenneskelige tilsyn med apostelen Andreas.",
@@ -285,9 +304,11 @@ const Strings = {
 		ro: "Acest grup de capitole a fost garantat de o comisie de doisprezece mediani ai Urantiei care acţionează sub supravegherea unui Melchisedec conducător de revelaţie. | Baza acestei povestiri a fost furnizată de un median secundar care a fost cândva însărcinat cu supravegherea supraumană a Apostolului Andrei.",
 		ru: "Данный раздел был подготовлен комиссией из двенадцати промежуточных созданий Урантии, трудившихся под наблюдением Мелхиседека, руководителя комиссии откровения. | В основу повествования положена информация, предоставленная вторичным промежуточным созданием, некогда исполнявшим обязанности сверхчеловеческого хранителя апостола Андрея. | ",
 		sv: "Dessa kapitel avfattades under beskydd av en kommission om tolv Urantia-mellanvarelser som fungerade under övervakning af den Melkisedk som ledde uppenbarelseprojektet. | Basmaterialet för denna berättelse tillhandahöll en andra gradens mellanvarelse som en gång var förordnad att på övermänsklig nivå övervaka apostlen Andreas.",
-		tr: "Bu bildiri grubu, bir Melçizedek açığa çıkarıcı yönetmenin denetimi altında hareket eden on iki Urantia yarı-ölümlüden oluşan bir komisyon tarafından desteklendi. | Bu anlatının temeli, bir zamanlar Havari Andrew'un insanüstü gözetimine atanan ikincil bir yarı çocuk tarafından sağlandı."
+		tr: "Bu bildiri grubu, bir Melçizedek açığa çıkarıcı yönetmenin denetimi altında hareket eden on iki Urantia yarı-ölümlüden oluşan bir komisyon tarafından desteklendi. | Bu anlatının temeli, bir zamanlar Havari Andrew'un insanüstü gözetimine atanan ikincil bir yarı çocuk tarafından sağlandı.",
+		zh: "这组文献由依照麦基洗德启示主管者监管行事的十二名玉苒厦中道者所发起。 | 这一叙述的基础由一度受委派对使徒安德鲁进行超人类看顾的第二类中道者所提供。"
 	},
 	"bookMasterYear": {
+		ar: "2015",
 		bg: "2014",
 		cs: "2019",
 		da: "2015",
@@ -312,9 +333,11 @@ const Strings = {
 		ro: "2004",
 		ru: "1997",
 		sv: "2010",
-		tr: "2021"
+		tr: "2021",
+		zh: "2015"
 	},
 	"bookAbb": {
+		ar: "يو بي",
 		bg: "КУ",
 		cs: "KU",
 		da: "UB",
@@ -339,9 +362,11 @@ const Strings = {
 		ro: "CU",
 		ru: "КУ",
 		sv: "Ub",
-		tr: "UK"
+		tr: "UK",
+		zh: "UB"
 	},
 	"bookPaper": {
+		ar: "ورقة",
 		bg: "Документ",
 		cs: "Kapitola",
 		da: "Kapitel",
@@ -366,9 +391,11 @@ const Strings = {
 		ro: "Capitolul",
 		ru: "Документ",
 		sv: "Kapitel",
-		tr: "Makale"
+		tr: "Makale",
+		zh: "文献"
 	},
 	"bookPaperAbb": {
+		ar: "ورقة",
 		bg: "Документ",
 		cs: "Kap",
 		da: "Kap",
@@ -393,9 +420,11 @@ const Strings = {
 		ro: "Cap",
 		ru: "Док",
 		sv: "Kap",
-		tr: "Mak"
+		tr: "Mak",
+		zh: "文献"
 	},
 	"bookChapter": {
+		ar: "الفصل",
 		bg: "глава",
 		cs: "Kapitola",
 		da: "Kapitel",
@@ -420,9 +449,11 @@ const Strings = {
 		ro: "Capitol",
 		ru: "Глава",
 		sv: "Kapitel",
-		tr: "Bölüm"
+		tr: "Bölüm",
+		zh: "章"
 	},
 	"bookTitlePage": {
+		ar: "صفحة العنوان",
 		bg: "Заглавна страница",
 		cs: "Titulní strana",
 		da: "Titelside",
@@ -447,9 +478,11 @@ const Strings = {
 		ro: "Pagina de titlu",
 		ru: "Титульный лист",
 		sv: "Titelsida",
-		tr: "Başlık sayfası"
+		tr: "Başlık sayfası",
+		zh: "封面"
 	},
 	"bookIndexName": {
+		ar: "فِهرِس",
 		bg: "Индекс",
 		cs: "Index",
 		da: "Indeks",
@@ -474,9 +507,11 @@ const Strings = {
 		ro: "Index",
 		ru: "Индекс",
 		sv: "Index",
-		tr: "Dizin"
+		tr: "Dizin",
+		zh: "指数"
 	},
 	"bookExtIndexName": {
+		ar: "الفهرس الموسع",
 		bg: "Съдържание на книгата",
 		cs: "Obsah knihy",
 		da: "Indholdet af bogen",
@@ -501,9 +536,11 @@ const Strings = {
 		ro: "Conţinutul Cărţii",
 		ru: "Содержание книги",
 		sv: "Innehållsförteckning",
-		tr: "Genişletilmiş Dizin"
+		tr: "Genişletilmiş Dizin",
+		zh: "索引扩展"
 	},
 	"bookMultipleVersion": {
+		ar: "نسخة متعددة",
 		bg: "Множествена версия",
 		cs: "Více verzí",
 		da: "Flere versioner",
@@ -528,9 +565,11 @@ const Strings = {
 		ro: "Varianta multipla",
 		ru: "Множественная версия",
 		sv: "Flera versioner",
-		tr: "Çoklu sürüm"
+		tr: "Çoklu sürüm",
+		zh: "多版本"
 	},
 	"bookSingleVersion": {
+		ar: "نسخة واحدة",
 		bg: "Единична версия",
 		cs: "Jediná verze",
 		da: "Enkelt version",
@@ -555,9 +594,11 @@ const Strings = {
 		ro: "Versiune unică",
 		ru: "Одиночная версия",
 		sv: "Singelversion",
-		tr: "Tek versiyon"
+		tr: "Tek versiyon",
+		zh: "单机版"
 	},
 	"bookLanguages": {
+		ar: "Arab",
 		bg: "Bulgarian",
 		cs: "Czech",
 		da: "Danish",
@@ -582,9 +623,11 @@ const Strings = {
 		ro: "Romanian",
 		ru: "Russian",
 		sv: "Swedish",
-		tr: "Turkish"
+		tr: "Turkish",
+		zh: "Chinese"
 	},
 	"enLanguage": {
+		ar: "إنجليزي",
 		bg: "Английски",
 		cs: "Angličtina",
 		da: "Engelsk",
@@ -609,9 +652,11 @@ const Strings = {
 		ro: "Engleză",
 		ru: "Английский",
 		sv: "Engelska",
-		tr: "İngilizce"
+		tr: "İngilizce",
+		zh: "英语"
 	},
 	"ownLanguage": {
+		ar: "عربي",
 		bg: "Български",
 		cs: "Čeština",
 		da: "Dansk",
@@ -636,9 +681,11 @@ const Strings = {
 		ro: "Română",
 		ru: "Русский",
 		sv: "Svenska",
-		tr: "Türkçe"
+		tr: "Türkçe",
+		zh: "中国人"
 	},
 	"foundation": {
+		ar: "Urantia Foundation",
 		bg: "Фондация Урантия",
 		cs: "Nadace Urantia",
 		da: "Urantia Foundation",
@@ -663,9 +710,11 @@ const Strings = {
 		ro: "Fundația Urantia",
 		ru: "Фонд УРАНТИЯ",
 		sv: "Urantia Foundation",
-		tr: "Urantia Society of Greater New York"
+		tr: "Urantia Society of Greater New York",
+		zh: "Urantia Foundation"
 	},
 	"freedomain": {
+		ar: "كتاب أورانتيا باللغة الإنجليزية أصبح ملكًا عامًا في جميع أنحاء العالم منذ عام 2006",
 		bg: "Книгата Урантия на английски език е обществено достояние в целия свят от 2006 г",
 		cs: "Kniha Urantia v angličtině je od roku 2006 celosvětově Public Domain",
 		da: "Urantia-bogen på engelsk er Public Domain på verdensplan siden 2006",
@@ -690,9 +739,11 @@ const Strings = {
 		ro: "Cartea Urantia în limba engleză este Domeniu Public în întreaga lume din 2006",
 		ru: "Книга Урантии на английском языке является общественным достоянием во всем мире с 2006 года.",
 		sv: "Urantia-boken på engelska är Public Domain över hela världen sedan 2006",
-		tr: "İngilizce Urantia Kitabı, 2006'dan beri dünya çapında Kamu Malıdır"
+		tr: "İngilizce Urantia Kitabı, 2006'dan beri dünya çapında Kamu Malıdır",
+		zh: "《尤兰提亚之书》英文版自 2006 年起在全球范围内属于公共领域"
 	},
 	"translations": {
+		ar: "الترجمات:",
 		bg: "Преводи:",
 		cs: "Překlady:",
 		da: "Oversættelser:",
@@ -717,9 +768,11 @@ const Strings = {
 		ro: "Traduceri:",
 		ru: "Переводы:",
 		sv: "Översättningar:",
-		tr: "Çeviriler:"
+		tr: "Çeviriler:",
+		zh: "翻译："
 	},
 	"bibleName": {
+		ar: "الكتاب المقدس",
 		bg: "Библията",
 		cs: "Bible",
 		da: "Biblen",
@@ -744,9 +797,11 @@ const Strings = {
 		ro: "Biblia",
 		ru: "Библия",
 		sv: "Bibeln",
-		tr: "İncil"
+		tr: "İncil",
+		zh: "圣经"
 	},
 	"bibleOldTestament": {
+		ar: "العهد القديم",
 		bg: "Старият завет",
 		cs: "Starý zákon",
 		da: "Gamle Testamente",
@@ -771,9 +826,11 @@ const Strings = {
 		ro: "Vechiul Testament",
 		ru: "Ветхий Завет",
 		sv: "Gamla testamentet",
-		tr: "Eski Antlaşma"
+		tr: "Eski Antlaşma",
+		zh: "旧约"
 	},
 	"bibleNewTestament": {
+		ar: "العهد الجديد",
 		bg: "Нов завет",
 		cs: "Nový zákon",
 		da: "Nye Testamente",
@@ -798,9 +855,11 @@ const Strings = {
 		ro: "Noul Testament",
 		ru: "Новый Завет",
 		sv: "Nya testamentet",
-		tr: "Yeni Antlaşma"
+		tr: "Yeni Antlaşma",
+		zh: "新约"
 	},
 	"bibleApocrypha": {
+		ar: "الأسفار القانونية غير القانونية",
 		bg: "апокриф",
 		cs: "Apokryfy",
 		da: "Apokryfer",
@@ -825,9 +884,11 @@ const Strings = {
 		ro: "Apocrife",
 		ru: "Апокрифы",
 		sv: "De apokryfiska böckerna",
-		tr: "Apokrif"
+		tr: "Apokrif",
+		zh: "伪经"
 	},
 	"bibleFullIndex": {
+		ar: "الفهرس الكامل للكتاب المقدس",
 		bg: "Пълен индекс на Библията",
 		cs: "Úplný rejstřík Bible",
 		da: "Fuldt indeks over Bibelen",
@@ -852,9 +913,11 @@ const Strings = {
 		ro: "Indexul complet al Bibliei",
 		ru: "Полный индекс Библии",
 		sv: "Fullständigt index över Bibeln",
-		tr: "Tam İncil Dizini"
+		tr: "Tam İncil Dizini",
+		zh: "圣经完整索引"
 	},
 	"frontpage": {
+		ar: "الصفحة الرئيسية",
 		bg: "Първа страница",
 		cs: "Přední strana",
 		da: "Forside",
@@ -879,9 +942,11 @@ const Strings = {
 		ro: "Prima pagina",
 		ru: "Титульная страница",
 		sv: "Framsida",
-		tr: "Ön Sayfa"
+		tr: "Ön Sayfa",
+		zh: "首页"
 	},
 	"booksOther": {
+		ar: "كتب أخرى",
 		bg: "Други книги",
 		cs: "Jiné knihy",
 		da: "Andre bøger",
@@ -906,9 +971,11 @@ const Strings = {
 		ro: "Alte cărți",
 		ru: "Другие книги",
 		sv: "Andra böcker",
-		tr: "Diğer kitaplar"
+		tr: "Diğer kitaplar",
+		zh: "其他书籍"
 	},
 	"articles": {
+		ar: "المقالات",
 		bg: "Статии",
 		cs: "Články",
 		da: "Artikler",
@@ -933,9 +1000,11 @@ const Strings = {
 		ro: "Articole",
 		ru: "Статьи",
 		sv: "Artiklar",
-		tr: "Nesne"
+		tr: "Nesne",
+		zh: "文章"
 	},
 	"study_aids": {
+		ar: "مساعدات دراسية",
 		bg: "Учебно помагало",
 		cs: "Studijní pomůcka",
 		da: "Studiehjælp",
@@ -960,9 +1029,11 @@ const Strings = {
 		ro: "Ajutor de studiu",
 		ru: "Учебная помощь",
 		sv: "Studiehjälp",
-		tr: "Çalışma yardımı"
+		tr: "Çalışma yardımı",
+		zh: "学习辅助工具"
 	},
 	"topicIndexTitle_ALL": {
+		ar: "فهرس جميع المواضيع",
 		bg: "Индекс на всички теми",
 		cs: "Rejstřík všech témat",
 		da: "Indeks over alle emner",
@@ -987,9 +1058,11 @@ const Strings = {
 		ro: "Indexul tuturor subiectelor",
 		ru: "Указатель всех тем",
 		sv: "Index över alla ämnen",
-		tr: "Tüm terimlerin indeksi"
+		tr: "Tüm terimlerin indeksi",
+		zh: "所有主题的索引"
 	},
 	"topicIndexTitle_PERSON": {
+		ar: "فهرس الشخصيات أو الأشخاص أو الأفراد أو المجموعات",
 		bg: "Индекс на личности, хора индивиди или групи",
 		cs: "Index osobností, lidí jednotlivců nebo skupin",
 		da: "Indeks over personligheder, personer individer eller grupper",
@@ -1014,9 +1087,11 @@ const Strings = {
 		ro: "Index de personalități, persoane, persoane sau grupuri",
 		ru: "Индекс личностей, людей, отдельных лиц или групп",
 		sv: "Index över personligheter, personer individer eller grupper",
-		tr: "Kişiliklerin, insanların, bireylerin veya grupların endeksi"
+		tr: "Kişiliklerin, insanların, bireylerin veya grupların endeksi",
+		zh: "人物、个人或团体的索引"
 	},
 	"topicIndexTitle_PLACE": {
+		ar: "فهرس الأماكن، سواء على الأرض أو في الكون",
 		bg: "Индекс на местата на Земята или във Вселената",
 		cs: "Index míst, buď na Zemi nebo ve vesmíru",
 		da: "Indeks over steder, enten på jorden eller på universet",
@@ -1041,9 +1116,11 @@ const Strings = {
 		ro: "Indexul locurilor, fie pe Pământ, fie pe Univers",
 		ru: "Указатель мест на Земле или во Вселенной",
 		sv: "Index över platser, antingen på jorden eller på universum",
-		tr: "Hem Dünyadaki hem de Evrendeki yerlerin indeksi"
+		tr: "Hem Dünyadaki hem de Evrendeki yerlerin indeksi",
+		zh: "地球或宇宙中地点的索引"
 	},
 	"topicIndexTitle_ORDER": {
+		ar: "فهرس رتب وأنواع الكائنات",
 		bg: "Индекс на разредите и видовете същества",
 		cs: "Index řádů a typů bytostí",
 		da: "Indeks over ordrer og typer af væsener",
@@ -1068,9 +1145,11 @@ const Strings = {
 		ro: "Indice de ordine și tipuri de ființe",
 		ru: "Указатель порядков и типов существ",
 		sv: "Index över beställningar och typer av varelser",
-		tr: "Varlıkların düzenleri ve tipolojileri dizini"
+		tr: "Varlıkların düzenleri ve tipolojileri dizini",
+		zh: "生物的秩序和类型索引"
 	},
 	"topicIndexTitle_RACE": {
+		ar: "فهرس الأعراق أو القبائل أو الشعوب",
 		bg: "Индекс на раси, племена или народи",
 		cs: "Index ras, kmenů nebo národů",
 		da: "Indeks over racer, stammer eller folk",
@@ -1095,9 +1174,11 @@ const Strings = {
 		ro: "Index de rase, triburi sau popoare",
 		ru: "Указатель рас, племен или народов",
 		sv: "Index över raser, stammar eller folk",
-		tr: "Irklar, kabileler veya halklar dizini"
+		tr: "Irklar, kabileler veya halklar dizini",
+		zh: "种族、部落或民族索引"
 	},
 	"topicIndexTitle_RELIGION": {
+		ar: "فهرس الأديان والطوائف والمعتقدات والآلهة",
 		bg: "Индекс на религии, култове, вярвания, богове",
 		cs: "Index náboženství, kultů, víry, bohů",
 		da: "Indeks over religioner, kulter, tro, guder",
@@ -1122,7 +1203,8 @@ const Strings = {
 		ro: "Index de religii, culte, credințe, zei",
 		ru: "Указатель религий, культов, верований, богов",
 		sv: "Index över religioner, kulter, övertygelser, gudar",
-		tr: "Dinler, mezhepler, inançlar, tanrılar dizini"
+		tr: "Dinler, mezhepler, inançlar, tanrılar dizini",
+		zh: "宗教、邪教、信仰、神灵索引"
 	},
 	"topicRedirect": {
 		en: "This page is a placeholder for a name. For the page with all the content use the links below.",
@@ -1150,6 +1232,7 @@ const Strings = {
 		fr: "original en anglais"
 	},
 	"indexAll": {
+		ar: "قائمة بجميع الفهارس",
 		bg: "Списък на всички индекси",
 		cs: "Seznam všech indexů",
 		da: "Liste over alle indekser",
@@ -1174,9 +1257,11 @@ const Strings = {
 		ro: "Lista tuturor indicilor",
 		ru: "Список всех индексов",
 		sv: "Lista över alla index",
-		tr: "Tüm Dizinlerin Listesi"
+		tr: "Tüm Dizinlerin Listesi",
+		zh: "所有索引列表"
 	},
 	"indexAllDesc": {
+		ar: "فيما يلي قائمة بجميع الفهارس الموجودة في Urantiapedia، منظمة حسب مجموعات المحتويات.",
 		bg: "Ето списък на всички индекси, съдържащи се в Урантиапедия, организирани по групи от съдържание.",
 		cs: "Zde je seznam všech indexů obsažených v Urantiapedii, uspořádaných podle skupin obsahu.",
 		da: "Zde je seznam všech indexů obsažených v Urantiapedii, uspořádaných podle skupin obsahu.",
@@ -1201,9 +1286,11 @@ const Strings = {
 		ro: "Iată o listă cu toți indexurile conținute în Urantiapedia, organizate pe grupuri de conținut.",
 		ru: "Вот список всех указателей, содержащихся в Урантиапедии, организованный по группам содержания.",
 		sv: "Här är en lista över alla index som finns i Urantiapedia, organiserade efter innehållsgrupper.",
-		tr: "Burada, içerik grupları tarafından düzenlenen Urantiapedia'da yer alan tüm dizinlerin bir listesi bulunmaktadır."
+		tr: "Burada, içerik grupları tarafından düzenlenen Urantiapedia'da yer alan tüm dizinlerin bir listesi bulunmaktadır.",
+		zh: "这是《Urantiapedia》中包含的所有索引的列表，按内容组排列。"
 	},
 	"indexAllBooks": {
+		ar: "الكتب",
 		bg: "Книги",
 		cs: "Knihy",
 		da: "Bøger",
@@ -1228,9 +1315,11 @@ const Strings = {
 		ro: "Cărți",
 		ru: "Книги",
 		sv: "Böcker",
-		tr: "Kitabın"
+		tr: "Kitabın",
+		zh: "图书"
 	},
 	"lblOpenMap": {
+		ar: "افتح الخريطة",
 		bg: "Отворете картата",
 		cs: "Otevřít mapu",
 		da: "Åbn kort",
@@ -1255,9 +1344,11 @@ const Strings = {
 		ro: "Deschide harta",
 		ru: "Открыть карту",
 		sv: "Öppna kartan",
-		tr: "Haritayı aç"
+		tr: "Haritayı aç",
+		zh: "打开地图"
 	},
 	"quotationStart": {
+		ar: "\"",
 		bg: "„",
 		cs: "„",
 		da: "»",
@@ -1282,9 +1373,11 @@ const Strings = {
 		ro: "„",
 		ru: "«",
 		sv: "”",
-		tr: "“"
+		tr: "“",
+		zh: "《"
 	},
 	"quotationEnd": {
+		ar: "\"",
 		bg: "“",
 		cs: "“",
 		da: "«",
@@ -1309,7 +1402,8 @@ const Strings = {
 		ro: "”",
 		ru: "»",
 		sv: "”",
-		tr: "”"
+		tr: "”",
+		zh: "》"
 	},
 	"articlesSource": {
 		en: "Source",
@@ -1757,6 +1851,7 @@ const Strings = {
 		en: "Error writing topic index: {0}",
 	},
 	"topic_see_also": {
+		ar: "انظر أيضا",
 		bg: "Вижте също",
 		cs: "Viz také",
 		da: "Se også",
@@ -1781,9 +1876,11 @@ const Strings = {
 		ro: "Vezi si",
 		ru: "Смотрите также",
 		sv: "Se även",
-		tr: "Ayrıca bakınız"
+		tr: "Ayrıca bakınız",
+		zh: "参见"
 	},
 	"topic_links": {
+		ar: "الروابط",
 		bg: "връзки",
 		cs: "Odkazy",
 		da: "Links",
@@ -1808,9 +1905,11 @@ const Strings = {
 		ro: "Link-uri",
 		ru: "ссылки",
 		sv: "Länkar",
-		tr: "Bağlantılar"
+		tr: "Bağlantılar",
+		zh: "链接"
 	},
 	"topic_external_links": {
+		ar: "روابط خارجية",
 		bg: "външни връзки",
 		cs: "Externí odkazy",
 		da: "Eksterne links",
@@ -1835,9 +1934,11 @@ const Strings = {
 		ro: "Linkuri externe",
 		ru: "внешние ссылки",
 		sv: "Externa länkar",
-		tr: "Dış bağlantılar"
+		tr: "Dış bağlantılar",
+		zh: "外部链接"
 	},
 	"topic_references": {
+		ar: "مراجع",
 		bg: "препратки",
 		cs: "Reference",
 		da: "Referencer",
@@ -1862,7 +1963,8 @@ const Strings = {
 		ro: "Referințe",
 		ru: "использованная литература",
 		sv: "Referenser",
-		tr: "Referanslar"
+		tr: "Referanslar",
+		zh: "参考"
 	},
 	"topicindex_save_confirm": {
 		en: "Save changes to Topic Index?",

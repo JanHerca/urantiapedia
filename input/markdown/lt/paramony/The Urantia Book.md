@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | Ką pasėsi, tą ir pjausi                                                  |
 | You will seek me and you will find me, if you search                                    | Jūs ieškosite manęs ir rasite mane, jei ieškosite                        |
 | You will water them in the river of your pleasures...                                   | Laistysite juos savo malonumų upėje...                                   |
-| You`ll be beaten in synagogues                                                          | Būsi sumuštas sinagogose                                                 |
-| You`ll be brought before councils                                                       | Jūs būsite pristatytas prieš tarybas                                     |
+| You'll be beaten in synagogues                                                          | Būsi sumuštas sinagogose                                                 |
+| You'll be brought before councils                                                       | Jūs būsite pristatytas prieš tarybas                                     |
 | Your ears hear: ‘this is way’                                                           | Jūsų ausys girdi: „tai yra“                                              |
 | Your hand to find out enemies                                                           | Jūsų ranka rasti priešų                                                  |
 | Your kingdom come, will be done                                                         | Ateik tavo karalystė, bus padaryta                                       |

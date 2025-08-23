@@ -4091,8 +4091,8 @@
 | You will reap what you sow                                                              | آنچه بکارید درو خواهید کرد                                                 |
 | You will seek me and you will find me, if you search                                    | مرا می جویی و می یابی، اگر بگردی                                           |
 | You will water them in the river of your pleasures...                                   | آنها را در نهر خوشی هایت سیراب می کنی...                                   |
-| You`ll be beaten in synagogues                                                          | در کنیسه ها کتک می خورید                                                   |
-| You`ll be brought before councils                                                       | دست شما برای کشف دشمنان                                                    |
+| You'll be beaten in synagogues                                                          | در کنیسه ها کتک می خورید                                                   |
+| You'll be brought before councils                                                       | دست شما برای کشف دشمنان                                                    |
 | Your ears hear: ‘this is way’                                                           | به شوراها معرفی خواهید شد                                                  |
 | Your hand to find out enemies                                                           | گوش شما می شنود: "این راه است"                                             |
 | Your kingdom come, will be done                                                         | پادشاهی تو بیا، انجام خواهد شد                                             |

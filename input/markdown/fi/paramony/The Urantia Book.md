@@ -4095,8 +4095,8 @@
 | You will reap what you sow                                                              | Te saatte niittää sitä, mitä kylvätte                                                  |
 | You will seek me and you will find me, if you search                                    | Etsikää minua ja te löydätte minut, jos etsitte                                        |
 | You will water them in the river of your pleasures...                                   | Sinä kastelet heidät nautintojesi virralla...                                          |
-| You`ll be beaten in synagogues                                                          | Teidät hakataan synagogissa.                                                           |
-| You`ll be brought before councils                                                       | Teidät viedään neuvostojen eteen                                                       |
+| You'll be beaten in synagogues                                                          | Teidät hakataan synagogissa.                                                           |
+| You'll be brought before councils                                                       | Teidät viedään neuvostojen eteen                                                       |
 | Your ears hear: ‘this is way’                                                           | Sinun korvasi kuulevat: 'Tämä on tie'                                                  |
 | Your hand to find out enemies                                                           | Sinun kätesi löytää viholliset                                                         |
 | Your kingdom come, will be done                                                         | Tulkoon sinun valtakuntasi, tapahtukoon sinun tahtosi                                  |

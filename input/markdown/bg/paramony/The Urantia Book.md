@@ -4451,8 +4451,8 @@
 | You will reap what you sow                                                              | Ще пожънеш това, което си посял                                                 |
 | You will seek me and you will find me, if you search                                    | Ще ме потърсите и ще ме намерите, ако търсите                                   |
 | You will water them in the river of your pleasures...                                   | Ти ще ги напоиш в реката на Твоите удоволствия...                               |
-| You`ll be beaten in synagogues                                                          | Ще ви бият в синагогите                                                         |
-| You`ll be brought before councils                                                       | Ще ви изправят пред съветите                                                    |
+| You'll be beaten in synagogues                                                          | Ще ви бият в синагогите                                                         |
+| You'll be brought before councils                                                       | Ще ви изправят пред съветите                                                    |
 | Your ears hear: ‘this is way’                                                           | Ушите ти чуват: „това е пътят“                                                  |
 | Your hand to find out enemies                                                           | Ръката ти да открие враговете                                                   |
 | Your kingdom come, will be done                                                         | Да дойде Твоето царство, да бъде изпълнена Твоята воля                          |

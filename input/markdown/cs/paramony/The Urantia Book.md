@@ -4451,8 +4451,8 @@
 | You will reap what you sow                                                              | Co zasejete, to sklidíte                                         |
 | You will seek me and you will find me, if you search                                    | Budete mě hledat a najdete mě, budete-li hledat                  |
 | You will water them in the river of your pleasures...                                   | Napojíš je v řece svých rozkoší...                               |
-| You`ll be beaten in synagogues                                                          | Budete biti v synagogách                                         |
-| You`ll be brought before councils                                                       | Budete postaveni před radu                                       |
+| You'll be beaten in synagogues                                                          | Budete biti v synagogách                                         |
+| You'll be brought before councils                                                       | Budete postaveni před radu                                       |
 | Your ears hear: ‘this is way’                                                           | Vaše uši uslyší: 'tudy vede cesta'                               |
 | Your hand to find out enemies                                                           | Tvá ruka najde nepřátele                                         |
 | Your kingdom come, will be done                                                         | Přijď království tvé, staň se vůle tvá                           |

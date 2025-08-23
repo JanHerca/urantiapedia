@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | Anda tidak akan meninggalkan makanan Paskah sampai pagi                                                            |
 | You will seek me and you will find me, if you search                                    | Anda akan menuai apa yang Anda tabur                                                                               |
 | You will water them in the river of your pleasures...                                   | Anda akan mencari saya dan Anda akan menemukan saya, jika Anda mencari                                             |
-| You`ll be beaten in synagogues                                                          | Anda akan menyirami mereka di sungai kesenangan Anda...                                                            |
-| You`ll be brought before councils                                                       | Anda akan dipukuli di sinagoga                                                                                     |
+| You'll be beaten in synagogues                                                          | Anda akan menyirami mereka di sungai kesenangan Anda...                                                            |
+| You'll be brought before councils                                                       | Anda akan dipukuli di sinagoga                                                                                     |
 | Your ears hear: ‘this is way’                                                           | Anda akan dibawa ke hadapan dewan                                                                                  |
 | Your hand to find out enemies                                                           | Telinga Anda mendengar: 'ini jalan'                                                                                |
 | Your kingdom come, will be done                                                         | Kerajaanmu datang, akan selesai                                                                                    |

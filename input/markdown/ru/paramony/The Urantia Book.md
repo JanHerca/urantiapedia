@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | Что посеешь, то и пожнешь                                           |
 | You will seek me and you will find me, if you search                                    | Ты будешь искать меня и найдешь, если будешь искать                 |
 | You will water them in the river of your pleasures...                                   | Вы будете поливать их в реке ваших наслаждений...                   |
-| You`ll be beaten in synagogues                                                          | Вас будут бить в синагогах                                          |
-| You`ll be brought before councils                                                       | Вы предстанете перед советами                                       |
+| You'll be beaten in synagogues                                                          | Вас будут бить в синагогах                                          |
+| You'll be brought before councils                                                       | Вы предстанете перед советами                                       |
 | Your ears hear: ‘this is way’                                                           | Ваши уши слышат: «это путь»                                         |
 | Your hand to find out enemies                                                           | Ваша рука, чтобы узнать врагов                                      |
 | Your kingdom come, will be done                                                         | Да придет Царствие Твое, будет сделано                              |

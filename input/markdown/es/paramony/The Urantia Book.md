@@ -4006,8 +4006,8 @@
 | You will reap what you sow                                                              | Recogerás lo que siembres                                                   |
 | You will seek me and you will find me, if you search                                    | Me buscarás y me encontrarás                                                |
 | You will water them in the river of your pleasures...                                   | Los abrevarás en el río de tus placeres ...                                 |
-| You`ll be beaten in synagogues                                                          | Os criticarán en las sinagogas                                              |
-| You`ll be brought before councils                                                       | Os llevarán ante los consejos                                               |
+| You'll be beaten in synagogues                                                          | Os criticarán en las sinagogas                                              |
+| You'll be brought before councils                                                       | Os llevarán ante los consejos                                               |
 | Your ears hear: ‘this is way’                                                           | Vuestros oídos escucharán ‘éste es el camino’                               |
 | Your hand to find out enemies                                                           | Tu mano descubrirá a todos mis enemigos                                     |
 | Your kingdom come, will be done                                                         | Que venga tu reino; que se haga tu voluntad                                 |

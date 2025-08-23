@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | 뿌린 대로 거둘 것이다                                                    |
 | You will seek me and you will find me, if you search                                    | 검색하면 나를 찾을 것이고 나를 찾을 것입니다                             |
 | You will water them in the river of your pleasures...                                   | 당신은 당신의 즐거움의 강에서 그들에게 물을 것입니다...                  |
-| You`ll be beaten in synagogues                                                          | 회당에서 구타당할 것이다                                                 |
-| You`ll be brought before councils                                                       | 당신은 평의회에 회부될 것이다                                            |
+| You'll be beaten in synagogues                                                          | 회당에서 구타당할 것이다                                                 |
+| You'll be brought before councils                                                       | 당신은 평의회에 회부될 것이다                                            |
 | Your ears hear: ‘this is way’                                                           | 귀에 들린다: '이것이 길이다'                                             |
 | Your hand to find out enemies                                                           | 적을 찾기 위해 당신의 손                                                 |
 | Your kingdom come, will be done                                                         | 당신의 왕국이 와요, 이루어질 것입니다                                    |

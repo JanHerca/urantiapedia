@@ -4115,8 +4115,8 @@
 | You will reap what you sow                                                              | Azt aratod, amit vetettél                                              |
 | You will seek me and you will find me, if you search                                    | Keresni fogtok engem, és ha kerestek, meg is találtok                  |
 | You will water them in the river of your pleasures...                                   | Megöntözöd őket a te örömöd folyójával...                              |
-| You`ll be beaten in synagogues                                                          | A zsinagógákban meg fognak verni titeket.                              |
-| You`ll be brought before councils                                                       | A tanácsok elé fogtok kerülni.                                         |
+| You'll be beaten in synagogues                                                          | A zsinagógákban meg fognak verni titeket.                              |
+| You'll be brought before councils                                                       | A tanácsok elé fogtok kerülni.                                         |
 | Your ears hear: ‘this is way’                                                           | A füled hallja: 'ez az út'                                             |
 | Your hand to find out enemies                                                           | A keze, hogy megtalálja ellenségeit                                    |
 | Your kingdom come, will be done                                                         | Jöjjön el a te országod, legyen meg a te akaratod                      |

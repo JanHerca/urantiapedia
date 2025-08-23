@@ -3988,8 +3988,8 @@
 | You will reap what you sow                                                              | Je zult oogsten wat je zaait                                                            |
 | You will seek me and you will find me, if you search                                    | Je zult me ​​zoeken en je zult me ​​vinden, als je zoekt                                |
 | You will water them in the river of your pleasures...                                   | Je zult ze water geven in de rivier van je genoegens...                                 |
-| You`ll be beaten in synagogues                                                          | Je wordt geslagen in synagogen                                                          |
-| You`ll be brought before councils                                                       | Je wordt voor de raden gebracht                                                         |
+| You'll be beaten in synagogues                                                          | Je wordt geslagen in synagogen                                                          |
+| You'll be brought before councils                                                       | Je wordt voor de raden gebracht                                                         |
 | Your ears hear: ‘this is way’                                                           | Je oren horen: 'dit is de weg'                                                          |
 | Your hand to find out enemies                                                           | Je hand om vijanden te ontdekken                                                        |
 | Your kingdom come, will be done                                                         | Uw koninkrijk kome, zal geschieden                                                      |
