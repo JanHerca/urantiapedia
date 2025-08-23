@@ -1,0 +1,77 @@
+body { font-family: Georgia, "Times New Roman", Times, serif; }
+:lang(zh), :lang(ko) { font-family: sans-serif; text-align: justify; text-justify: auto; }
+:lang(ru) { font-family: "Times New Roman", serif; }
+p { font-size: 1em; margin: 0; line-height: 1.6em; }
+h1, h2, .title, .paper { text-align: center; font-weight: bold; font-variant-numeric: lining-nums; }
+h1:lang(zh), h2:lang(zh), .title:lang(zh), .paper:lang(zh),
+h1:lang(ko), h2:lang(ko), .title:lang(ko), .paper:lang(ko)
+{ font-family: serif; font-weight: normal; text-align:center; }
+h1, .paper { font-size: 2em; }
+h1 { padding-bottom: 0.5em; }
+h2 { font-size: 1.5em; padding: 1em 0; }
+hr { width: 100%; color: #777; }
+img { margin-left: auto; margin-right: auto; }
+small { display: inline-block; font-size: 0.6em; color: #777; width: 8.7em; font-variant-numeric: lining-nums; white-space: nowrap; }
+small:lang(ar), small:lang(he) { text-align: right; }
+em { font-style: italic; font-variant-numeric: lining-nums; }
+em:lang(ar), em:lang(he) { font-style: normal; font-weight: bold; }
+em:lang(ko) { font-style: normal; text-decoration: underline; }
+strong:lang(ko) { font-weight: bold; }
+sup a, span.note a { text-decoration: none; }
+sup a:hover, span.note a:hover { text-decoration: underline; }
+section.endnotes p a { text-decoration: none; }
+section.endnotes p a:hover { text-decoration: underline; }
+div.container { display: block; margin-left: auto; margin-right: auto; }
+.title { font-size: 1.5em; padding-bottom: 0.5em; }
+.fmtitle { font-size: 2.5em; font-weight: 600; }
+.fmlogo { width: 4.75em; height: 4.75em; }
+.fmico { display: inline-block; width:16px; height:16px; }
+.tm { color: #1295d8; font-weight: 600; }
+.tl { margin-top: 2em; }
+.ctr { text-align: center; }
+.ctr:lang(zh), .ctr:lang(ko) { text-align: center !important; }
+.btn { padding-bottom: 0; }
+.bts { padding-bottom: 1em; }
+.btl { padding-bottom: 2em; }
+.bte { padding-bottom: 3em; }
+.fln { padding: 0; text-align: center; }
+.fln > small { float: left; text-align: left; }
+.fll { padding: 3em 0; text-align: center; }
+.fll > small { float: left; text-align: left; }
+.l2n { padding-bottom: 0; }
+.l2n > small { width: 9em; }
+.l2s { margin-bottom: 1em; }
+.l2s > small { width: 9em; }
+.l3n { margin-bottom: 0; }
+.l3n > small { width: 11em; }
+.l3s { margin-bottom: 1em; }
+.l3s > small { width: 11em; }
+.p1n { margin-bottom: 0; text-indent: -9em; padding-left: 11em; }
+.p2n { margin-bottom: 0; text-indent: -9em; padding-left: 13em; }
+.p1l { margin-bottom: 0; text-indent: -9em; padding-left: 11em; padding-bottom: 2em; }
+.p2l { margin-bottom: 0; text-indent: -9em; padding-left: 13em; padding-bottom: 2em; }
+.p1n:lang(ar), .p1n:lang(he) { padding-right: 11em; padding-left: initial; }
+.p1l:lang(ar), .p1l:lang(he) { padding-right: 11em; padding-left: initial; }
+.p2n:lang(ar), .p2n:lang(he) { padding-right: 13em; padding-left: initial; }
+.p2l:lang(ar), .p2l:lang(he) { padding-right: 13em; padding-left: initial; }
+.p1n > small, .p1l > small { text-indent: -2.75em; }
+.p2n > small, .p2l > small { text-indent: -5.6em; }
+.note { font-size: 0.7em; color: #777; }
+.scaps { font-variant: all-small-caps; }
+.pti { text-indent: 1em; }
+.pnr { display: inline-block; width: 2.5em; }
+.ptc { display: inline-block; width: 45%; }
+.pac { display: inline-block; }
+.pac:lang(ar), .pac:lang(he) { width: auto; }
+.ppg { display: inline-block; float: right; }
+.ppg:lang(ar), .ppg:lang(he) { width: 2.5em; text-align: left; float: left; }
+.phd { margin-left: 0; }
+.psc { margin-left: 2em; }
+.psc:lang(ar), .psc:lang(he) { margin-left: auto; margin-right: 2em; }
+.pra { white-space: nowrap; display: inline-flex; width:82%; }
+.dot { border-bottom: 2px dotted black; width: 100%; }
+.ran { float: right; }
+@media only screen and (max-width: 767px) { .ppg { display: none; }}
+@media only screen and (min-width: 768px) { div.container { width: 96%; }} 
+@media only screen and (min-width: 992px) { div.container { width: 86%; }} 
+@media only screen and (min-width: 1200px) { div.container { width: 66%; }}
