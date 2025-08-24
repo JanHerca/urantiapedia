@@ -493,7 +493,8 @@ class Articles {
 			fs.readFile(filePath, (errFile, buf) => {
 				const lan = this.language;
 				if (errFile) {
-					reject([errFile]);
+					// reject([errFile]);
+					resolve(null);
 					return;
 				}
 				const lines = buf.toString().split('\n');

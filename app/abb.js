@@ -96,7 +96,7 @@ const BibleAbbreviations = {
 		'1تس': ['1تسالونيكي', '/ar/Bible/1_Thessalonians', 'NT'],
 		'2تس': ['2تسالونيكي', '/ar/Bible/2_Thessalonians', 'NT'],
 		'ي1': ['تيموثاوس1', '/ar/Bible/1_Timothy', 'NT'],
-		'2تي': [' تيموثاوس2', '/ar/Bible/2_Timothy', 'NT'],
+		'2تي': ['تيموثاوس2', '/ar/Bible/2_Timothy', 'NT'],
 		'تي': ['تيطس', '/ar/Bible/Titus', 'NT'],
 		'فيل': ['فليمون', '/ar/Bible/Philemon', 'NT'],
 		'عب': ['عبرانيين', '/ar/Bible/Hebrews', 'NT'],
