@@ -23,6 +23,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > This task is currently ended and closed for the 25 languages available.
 {.is-info}
 
+## Old procedure (obsolete)
+
+> This procedure has been updated because it was too cumbersome. See below.
+{.is-warning}
+
 Adding footnotes to *The Urantia Book* requires to previously complete the following tasks:
 - Translation of *Paramony* from English to the target language. The result of this task is a file for each language (`input / json / footnotes-book-xx.json`).
 - Previous task of converting *The Urantia Book* from HTML to JSON without footnotes. The result of this task is a set of 197 files in a folder for each language (`input / json / book-xx`).
@@ -37,6 +42,23 @@ To add footnotes to JSON files, follow these steps:
 ![](/image/help/upt_json_json.png)
 
 The output files are different from the input files to avoid that if there is any problem they are unusable. The output is saved in `input / json / book-xx-footnotes` folders, where `xx` is the language code equal to the one used as the input folder.
+
+## New Procedure
+
+Adding footnotes to *The Urantia Book* requires the following tasks to be completed:
+- Translation of *Paramony* from English to the target language. The result of this task is one file for each language (`input/markdown/xx/paramony/The Urantia Book.md`).
+- Pre-conversion of *The Urantia Book* from HTML to JSON without footnotes. The result of this task is a set of 197 files in a folder for each language (`input/json/book-xx`).
+
+To add footnotes to JSON files, follow these steps:
+- Open *Urantiapedia Tools*.
+- In *Process*, select: Update Bible Refs in *The Urantia Book* (MARKDOWN).
+- The necessary folders are selected automatically: for *JSON Files*, it will be `input/json/book-xx`.
+- Click *Run*.
+- If everything is correct, *Conversion completed successfully* will appear. If there are errors, the error list will appear. In this case, it's a good idea to notify one of the "developer" users in case there is a problem with the software.
+
+The output files are different from the input files to prevent them from becoming unusable if there are any problems. The output is saved in the `input/json/book-xx-footnotes` folders, where `xx` is the language code identical to the one used as the input folder.
+
+![](/image/help/upt_md_json.png)
 
 ## External links
 

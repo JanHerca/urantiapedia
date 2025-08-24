@@ -27,6 +27,11 @@ Ici sont décrites les étapes nécessaires pour traduire le *Paramony* de l'ang
 
 Le *Paramony* est un fichier avec des références croisées entre *La Bible* et *Le Livre d'Urantia*. Il a été créé en anglais en utilisant une relation de référence croisée développée par Duane L. Faw ([Paramony](https://urantia-book.org/urantiabook/paramony/)), convertie de son format TXT original au format JSON c'est plus facile à traiter.
 
+## Ancienne procédure (obsolète)
+
+> Cette procédure a été mise à jour car elle était trop fastidieuse. Voir ci-dessous.
+{.is-warning}
+
 Nous partons de la version anglaise de *Paramony* trouvée dans `input/json/footnotes-book-en.json`. Faites-en une copie et changez le nom en langue cible.
 
 Le fichier *Paramony* contient des notes de bas de page (avec des références à *La Bible*) à inclure dans chaque document du *Livre d'Urantia*.
@@ -77,6 +82,28 @@ Exemple d'extrait :
 ```
 
 > Il faut veiller à bien recopier les guillemets qui peuvent exister dans les textes. Vérifiez ici les guillemets valides pour chaque langue: [guillemets](/fr/help/languages).
+
+## Nouvelle procédure
+
+Nous partons d'une traduction existante de *Paramony*, par exemple la traduction espagnole, située dans « input/markdown/es/paramony ». Une copie de ce dossier doit être effectuée dans « input/markdown/xx », où « xx » correspond au code de la langue cible. Par exemple, si la langue cible est l'arabe, le dossier « paramony » doit être copié dans « input/markdown/ar ».
+
+*Paramony* contient les notes de bas de page (avec références à *La Bible*) qui doivent être incluses dans chaque document du *Livre d'Urantia*.
+
+Le dossier « paramony » contient deux fichiers : « Bible.md » et « Le Livre d'Urantia.md », contenant respectivement les traductions de *Paramony* pour la *Bible* et le *Livre d'Urantia*. Chaque fichier présente une structure de tableau très simple à deux colonnes au format Markdown. Il vous suffit de créer une copie temporaire de ces deux fichiers et de supprimer le contenu de la colonne « traduction », ne conservant que la première colonne « texte », ainsi que les barres obliques (`|`) et l'en-tête. Autrement dit, nous créons des fichiers temporaires contenant uniquement le texte anglais, séparé en lignes. Il ne reste plus qu'à traduire les deux fichiers temporaires avec un traducteur automatique comme Google Translator, puis à copier la traduction après chaque ligne. Visual Studio Code propose des options de sélection et de copie de texte qui accélèrent considérablement cette tâche. Gardez toutefois à l'esprit que ces fichiers sont très longs et qu'il est déconseillé de copier-coller plus de 1 000 lignes à la fois.
+
+Le résultat final devrait ressembler à celui présenté dans cet extrait (par exemple, pour l'espagnol) :
+
+```md
+| text                                        | translation                             |
+| --------------------------------------------| ----------------------------------------|
+| “Amen” as ritual                            | «Amen» como ritual                      |
+| “Blind” man converted                       | La conversión del hombre «ciego»        |
+| “Blind” man's speech                        | El discurso del hombre «ciego»          |
+| “By what authority do you do these things?” | «¿Con qué autoridad haces estas cosas?» |
+| “Children of light”                         | «Hijos de la luz»                       |
+```
+
+Cette procédure présente l'avantage par rapport à l'ancienne que le traducteur n'a pas à gérer les caractères étranges typiques de JSON ; la seule chose que nous traduisons ici sont des textes simples séparés en lignes, ce qui facilite et accélère grandement la tâche.
 
 ## Liens externes
 

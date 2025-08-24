@@ -27,6 +27,11 @@ Here are described the steps needed to translate the *Paramony* from english to 
 
 The *Paramony* is a file with cross references between *The Bible* and *The Urantia Book*. It has been created in english using a cross-reference relationship developed by Duane L. Faw ([Paramony](https://urantia-book.org/urantiabook/paramony/)), converted from its original TXT format to a JSON format that is easier to process.
 
+## Old procedure (obsolete)
+
+> This procedure has been updated because it was too cumbersome. See below.
+{.is-warning}
+
 We start from the English version of *Paramony* found in `input/json/footnotes-book-en.json`. Make a copy of it and change the name to the target language.
 
 The *Paramony* file contains footnotes (with references to *The Bible*) to be included in each *Urantia Book* document.
@@ -77,6 +82,27 @@ Example of a snippet:
 ```
 
 > Care must be taken to properly copy the quotation marks that may exist in the texts. Check here the valid quotes for each language: [Quotation marks](/en/help/languages).
+
+## New Procedure
+
+We start from an existing translation of *Paramony*, for example the Spanish translation, located in `input/markdown/es/paramony`. A copy of this folder must be made inside `input/markdown/xx` where `xx` is the target language code. For example, if the target language is Arabic, the `paramony` folder should be copied to `input/markdown/ar`.
+
+*Paramony* contains the footnotes (with references to *The Bible*) that must be included in each *The Urantia Book* document.
+
+In the `paramony` folder, there are two files: `Bible.md` and `The Urantia Book.md`, containing the translations of *Paramony* for the *Bible* and *The Urantia Book*, respectively. Each file has a very simple two-column table structure in Markdown format. All you have to do is make a temporary copy of these two files and delete the contents of the `translation` column, leaving only the first `text` column, as well as the slash characters (`|`) and the header. In other words, we create temporary files containing only the English text separated into lines. Then, we just have to translate the two temporary files with an automatic translator like Google Translator, and then copy the translation after each line. Visual Studio Code has options for selecting and copying text that make this task very fast, although keep in mind that these are very long files, and it's not a good idea to copy and paste more than 1,000 lines at a time.
+
+The final result should look like the one shown in this snippet (for example, for Spanish):
+
+```md
+| text                                        | translation                             |
+| --------------------------------------------| ----------------------------------------|
+| “Amen” as ritual                            | «Amen» como ritual                      |
+| “Blind” man converted                       | La conversión del hombre «ciego»        |
+| “Blind” man's speech                        | El discurso del hombre «ciego»          |
+| “By what authority do you do these things?” | «¿Con qué autoridad haces estas cosas?» |
+| “Children of light”                         | «Hijos de la luz»                       |
+```
+This procedure has the advantage over the old one in that the translator does not have to handle strange characters typical of JSON; the only thing we translate here are plain texts separated into lines, which greatly facilitates and speeds up the task.
 
 ## External links
 

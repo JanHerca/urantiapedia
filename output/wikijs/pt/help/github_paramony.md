@@ -20,14 +20,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarefa está atualmente encerrada e fechada para os 25 idiomas disponíveis.
-{.is-info}
-
 Aqui estão descritos os passos necessários para traduzir o *Paramony* do inglês para um novo idioma da *Urantiapedia*. Esta é uma tarefa realizada pelos "Editores Chefes".
 
 O *Paramony* é um arquivo com referências cruzadas entre *A Bíblia* e *O Livro de Urântia*. Ele foi criado em inglês usando um relacionamento de referência cruzada desenvolvido por Duane L. Faw ([Paramony](https://urantia-book.org/urantiabook/paramony/)), convertido de seu formato TXT original para um formato JSON que é mais fácil de processar.
 
+> Esta tarefa está atualmente encerrada e fechada para os 25 idiomas disponíveis.
+{.is-info}
+
+## Procedimento antigo (obsoleto)
+
 Partimos da versão em inglês de *Paramony* encontrada em `input/json/footnotes-book-en.json`. Faça uma cópia dele e altere o nome para o idioma de destino.
+
+> Este procedimento foi atualizado por ser muito trabalhoso. Veja abaixo.
+{.is-warning}
 
 O arquivo *Paramony* contém notas de rodapé (com referências a *A Bíblia*) a serem incluídas em cada documento do *Livro de Urântia*.
 
@@ -77,6 +82,28 @@ Exemplo de trecho:
 ```
 
 > Deve-se ter o cuidado de copiar corretamente as aspas que possam existir nos textos. Confira aqui as aspas válidas para cada idioma: [Aspas](/pt/help/languages).
+
+## Novo Procedimento
+
+Partimos de uma tradução existente de *Paramony*, por exemplo, a tradução em espanhol, localizada em `input/markdown/es/paramony`. Uma cópia desta pasta deve ser feita dentro de `input/markdown/xx`, onde `xx` é o código da língua de destino. Por exemplo, se o idioma de destino for o árabe, a pasta `paramony` deverá ser copiada para `input/markdown/ar`.
+
+*Paramony* contém as notas de rodapé (com referências à *Bíblia*) que devem ser incluídas em cada documento do *Livro de Urântia*.
+
+Na pasta `paramony`, existem dois ficheiros: `Bible.md` e `The Urantia Book.md`, contendo as traduções de *Paramony* para a *Bíblia* e o *Livro de Urântia*, respectivamente. Cada ficheiro possui uma estrutura de tabela de duas colunas muito simples em formato Markdown. Tudo o que tem de fazer é criar uma cópia temporária destes dois ficheiros e apagar o conteúdo da coluna `translation`, deixando apenas a primeira coluna `text`, bem como os caracteres de barra (`|`) e o cabeçalho. Por outras palavras, criámos ficheiros temporários contendo apenas o texto em inglês, separado em linhas. Depois, basta traduzir os dois ficheiros temporários com um tradutor automático, como o Google Translate, e copiar a tradução após cada linha. O Visual Studio Code tem opções para selecionar e copiar texto que tornam esta tarefa muito rápida, mas lembre-se que estes ficheiros são muito longos e não é boa ideia copiar e colar mais de 1.000 linhas de cada vez.
+
+O resultado final deverá ser semelhante ao apresentado neste excerto (por exemplo, para o espanhol):
+
+```md
+| text                                        | translation                             |
+| --------------------------------------------| ----------------------------------------|
+| “Amen” as ritual                            | «Amen» como ritual                      |
+| “Blind” man converted                       | La conversión del hombre «ciego»        |
+| “Blind” man's speech                        | El discurso del hombre «ciego»          |
+| “By what authority do you do these things?” | «¿Con qué autoridad haces estas cosas?» |
+| “Children of light”                         | «Hijos de la luz»                       |
+```
+
+Este procedimento tem a vantagem sobre o antigo de que o tradutor não tem de lidar com caracteres estranhos típicos do JSON; a única coisa que traduzimos aqui são textos simples separados em linhas, o que facilita e agiliza bastante a tarefa.
 
 ## Links externos
 
