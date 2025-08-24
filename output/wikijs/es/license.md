@@ -60,6 +60,7 @@ El contenido con restricciones debido a los derechos de autor se identifica medi
 
 - _El Libro de Urantia_ (todas las traducciones a partir del inglés), es propiedad intelectual de [Fundación Urantia](https://www.urantia.org/).
 - _Paramony_, el índice de referencias cruzadas entre la Biblia y _El Libro de Urantia_ que aparece como notas a pie de página en _El Libro de Urantia_ y las páginas de la Biblia (en todos los idiomas), es propiedad intelectual de [Duane L. Faw y _The Urantia Book_ Fellowship](https://urantia-book.org/urantiabook/paramony/).
+- Los artículos (en todos los idiomas) de [News Online de la Fundación Urantia](/es/index/articles_uf_news_online), [NewsFlash!](/es/index/articles_uf_newsflash), y [Urantian News](/es/index/articles_uf_urantian) son propiedad intelectual de cada autor y de la [Fundación Urantia](https://urantia.org/).
 - Los artículos (en todos los idiomas) de [Fellowship Herald](/es/index/articles_herald) y [Mighty Messenger](/es/index/articles_mighty_messenger) son propiedad intelectual de cada autor y de [_The Urantia Book_ Fellowship](https://urantiabook.org/).
 - Los artículos (en todos los idiomas) de [Innerface International](/es/index/articles_innerface) son propiedad intelectual de cada autor y de [Brotherhood of Man Library](https://urantia-book.org/archive/newsletters/innerface/index.html).
 - Los artículos del [Boletín “Luz y Vida”](/es/index/articles_luz_y_vida), son copyright de cada autor y de la [Asociación Urantia Española](https://aue.urantia-association.org/).
