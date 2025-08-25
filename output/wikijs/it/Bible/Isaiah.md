@@ -16,7 +16,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBBIA</text>
-		<text style="font-size:4px" x="61" y="125">Itlian Riveduta Luzzi, 1925</text>
+		<text style="font-size:4px" x="61" y="125">Italian Riveduta Luzzi, 1925</text>
 		<text style="font-size:9px" x="61" y="60">Isaia</text>
 	</g>
 </svg>
