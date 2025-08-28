@@ -53,33 +53,34 @@ THE SECOND YEAR OF HIS MINISTRY | #
 	Ordination of the Twelve | 13
 	Fresh Annoyance | 14
 	The Twelve and the Multitude | 15
-	Back in Capernaum | 16
-	A Mission in Southern Galilee | 17
-	Another Retreat across the Lake | 18
-	Back in Capernaum | 19
+	A Retreat Across the Lake | 16
+	Back in Capernaum | 17
+	A Mission in Southern Galilee | 18
+	Another Retreat across the Lake | 19
+	Back in Capernaum | 20
 THE THIRD YEAR OF HIS MINISTRY | #
-	A Retreat to Phoenicia | 20
-	Wanderings in Decapolis | 21
-	A Retreat to CEsarea Philippi | 22
-	Back in Galilee | 23
-	Journeying to Jerusalem | 24
-	Ministry at Jerusalem | 25
-	At Bethabara | 26
-	The Raising of Lazarus | 27
-	On the Road to Death | 28
+	A Retreat to Phoenicia | 21
+	Wanderings in Decapolis | 22
+	A Retreat to Cesarea Philippi | 23
+	Back in Galilee | 24
+	Journeying to Jerusalem | 25
+	Ministry at Jerusalem | 26
+	At Bethabara | 27
+	The Raising of Lazarus | 28
+	On the Road to Death | 29
 THE PASSION-WEEK | #
-	His Entrance into Jerusalem | 29
-	Controversies with the Rulers | 30
-	The Final Appeal | 31
-	The Travail-pangs of a New Creation | 32
-	The Last Supper | 33
-	The Messianic Vine | 34
-	The Arrest | 35
+	His Entrance into Jerusalem | 30
+	Controversies with the Rulers | 31
+	The Final Appeal | 32
+	The Travail-pangs of a New Creation | 33
+	The Last Supper | 34
+	The Messianic Vine | 35
+	The Arrest | 36
 	The Trial : | #
-		(I) Before the Sanhedrin | 36
-		(II) Before the Roman Procurator | 37
-	The Crucifixion | 38
-	The Resurrection | 39
+		(I) Before the Sanhedrin | 37
+		(II) Before the Roman Procurator | 38
+	The Crucifixion | 39
+	The Resurrection | 40
 	Index of Gospel Text | Index
 
 ## links:

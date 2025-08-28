@@ -10,15 +10,15 @@
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">David Smith, M.A., D.D.</text>
 		<text style="font-size:4px" x="61" y="125">Nueva York: George H. Doran Company, 1925</text>
-		<text style="font-size:9px" x="61" y="60">Nuestro Señor</text>
-		<text style="font-size:9px" x="61" y="70">Vida terrenal</text>
+		<text style="font-size:9px" x="61" y="60">Vida terrenal</text>
+		<text style="font-size:9px" x="61" y="70">de Nuestro Señor</text>
 	</g>
 </svg>
 </div>
 
 <p style="text-align:center;">
+<span class="text-h3">VIDA TERRENAL</span><br>
 <span class="text-h3">DE NUESTRO SEÑOR</span><br>
-<span class="text-h3">VIDA TERRESTRE</span><br>
 POR<br>
 <span class="text-h5">DAVID SMITH, M.A., D.D.</span><br>
 PROFESOR DE CRÍTICA E INTERPRETACIÓN DEL NUEVO TESTAMENTO<br>
@@ -53,33 +53,34 @@ EL SEGUNDO AÑO DE SU MINISTERIO | #
 	Ordenación de los Doce | 13
 	Nueva molestia | 14
 	Los Doce y la multitud | 15
-	De regreso a Cafarnaúm | 16
-	Una misión en el sur de Galilea | 17
-	Otro retiro al otro lado del lago | 18
-	De regreso a Cafarnaúm | 19
+	Un retiro al otro lado del lago | 16
+	De regreso a Cafarnaúm | 17
+	Una misión en el sur de Galilea | 18
+	Otro retiro al otro lado del lago | 19
+	De regreso a Cafarnaúm | 20
 EL TERCER AÑO DE SU MINISTERIO | #
-	Un retiro en Fenicia | 20
-	Paseos por la Decápolis | 21
-	Retiro a Cesarea de Filipo | 22
-	De regreso a Galilea | 23
-	Viaje a Jerusalén | 24
-	Ministerio en Jerusalén | 25
-	En Bethabara | 26
-	La resurrección de Lázaro | 27
-	En el camino hacia la muerte | 28
+	Un retiro en Fenicia | 21
+	Paseos por la Decápolis | 22
+	Retiro a Cesarea de Filipo | 23
+	De regreso a Galilea | 24
+	Viaje a Jerusalén | 25
+	Ministerio en Jerusalén | 26
+	En Bethabara | 27
+	La resurrección de Lázaro | 28
+	En el camino hacia la muerte | 29
 LA SEMANA DE LA PASIÓN | #
-	Su entrada en Jerusalén | 29
-	Controversias con los gobernantes | 30
-	La apelación final | 31
-	Los dolores de parto de una nueva creación | 32
-	La última cena | 33
-	La Vid Mesiánica | 34
-	El arresto | 35
+	Su entrada en Jerusalén | 30
+	Controversias con los gobernantes | 31
+	La apelación final | 32
+	Los dolores de parto de una nueva creación | 33
+	La última cena | 34
+	La Vid Mesiánica | 35
+	El arresto | 36
 	El juicio : | #
-		(I) Ante el Sanedrín | 36
-		(II) Ante el Procurador Romano | 37
-	La Crucifixión | 38
-	La Resurrección | 39
+		(I) Ante el Sanedrín | 37
+		(II) Ante el Procurador Romano | 38
+	La Crucifixión | 39
+	La Resurrección | 40
 	Índice del texto evangélico | Index
 
 ## links:

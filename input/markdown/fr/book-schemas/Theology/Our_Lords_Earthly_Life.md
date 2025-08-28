@@ -53,33 +53,34 @@ LA DEUXIÈME ANNÉE DE SON MINISTÈRE | #
 	Ordination des Douze | 13
 	Nouvelle gêne | 14
 	Les Douze et la Multitude | 15
-	De retour à Capharnaüm | 16
-	Une mission dans le sud de la Galilée | 17
-	Une autre retraite de l'autre côté du lac | 18
-	De retour à Capharnaüm | 19
+	Une retraite de l'autre côté du lac | 16
+	De retour à Capharnaüm | 17
+	Une mission dans le sud de la Galilée | 18
+	Une autre retraite de l'autre côté du lac | 19
+	De retour à Capharnaüm | 20
 LA TROISIÈME ANNÉE DE SON MINISTÈRE | #
-	Une retraite en Phénicie | 20
-	Errances en Décapole | 21
-	Une retraite à Césarée de Philippe | 22
-	De retour en Galilée | 23
-	En route vers Jérusalem | 24
-	Ministère à Jérusalem | 25
-	À Bethabara | 26
-	La résurrection de Lazare | 27
-	Sur la route de la mort | 28
+	Une retraite en Phénicie | 21
+	Errances en Décapole | 22
+	Une retraite à Césarée de Philippe | 23
+	De retour en Galilée | 24
+	En route vers Jérusalem | 25
+	Ministère à Jérusalem | 26
+	À Bethabara | 27
+	La résurrection de Lazare | 28
+	Sur la route de la mort | 29
 LA SEMAINE PASSIONNELLE | #
-	Son entrée à Jérusalem | 29
-	Controverses avec les dirigeants | 30
-	L'appel final | 31
-	Les douleurs de l'enfantement d'une nouvelle création | 32
-	La Cène | 33
-	La vigne messianique | 34
-	L'arrestation | 35
+	Son entrée à Jérusalem | 30
+	Controverses avec les dirigeants | 31
+	L'appel final | 32
+	Les douleurs de l'enfantement d'une nouvelle création | 33
+	La Cène | 34
+	La vigne messianique | 35
+	L'arrestation | 36
 	Le Procès : | #
-		(I) Devant le Sanhédrin | 36
-		(II) Devant le procurateur romain | 37
-	La Crucifixion | 38
-	La Résurrection | 39
+		(I) Devant le Sanhédrin | 37
+		(II) Devant le procurateur romain | 38
+	La Crucifixion | 39
+	La Résurrection | 40
 	Index des textes évangéliques | Index
 
 ## links:
