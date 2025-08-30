@@ -2,10 +2,10 @@
 title: "La vie terrestre de Notre Seigneur"
 description: 
 published: true
-date: 2025-2-12T22:38:20Z
+date: 2025-8-28T13:47:11Z
 tags: Theology, book
 editor: markdown
-dateCreated: 2025-2-12T22:38:20Z
+dateCreated: 2025-8-28T13:47:11Z
 ---
 
 <div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">David Smith, M.A., D.D.</text>		<text style="font-size:4px" x="61" y="125">New York: George H. Doran Company, 1925</text>		<text style="font-size:9px" x="61" y="60">La vie terrestre</text>		<text style="font-size:9px" x="61" y="70">de Notre Seigneur</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">LA VIE TERRESTRE</span><br><span class="text-h3">DE NOTRE SEIGNEUR</span><br>PAR<br><span class="text-h5">DAVID SMITH, M.A., D.D.</span><br>PROFESSEUR DE CRITIQUE ET D'INTERPRÉTATION DU NOUVEAU TESTAMENT<br>AU COLLÈGE PRESBYTÉRIEN DE BELFAST<br><br><br>NEW YORK<br>GEORGE H. DORAN COMPANY<br><br></p>
@@ -33,33 +33,34 @@ dateCreated: 2025-2-12T22:38:20Z
 	- [Ordination des Douze](/fr/book/David_Smith/Our_Lords_Earthly_Life/13)
 	- [Nouvelle gêne](/fr/book/David_Smith/Our_Lords_Earthly_Life/14)
 	- [Les Douze et la Multitude](/fr/book/David_Smith/Our_Lords_Earthly_Life/15)
-	- [De retour à Capharnaüm](/fr/book/David_Smith/Our_Lords_Earthly_Life/16)
-	- [Une mission dans le sud de la Galilée](/fr/book/David_Smith/Our_Lords_Earthly_Life/17)
-	- [Une autre retraite de l'autre côté du lac](/fr/book/David_Smith/Our_Lords_Earthly_Life/18)
-	- [De retour à Capharnaüm](/fr/book/David_Smith/Our_Lords_Earthly_Life/19)
+	- [Une retraite de l'autre côté du lac](/fr/book/David_Smith/Our_Lords_Earthly_Life/16)
+	- [De retour à Capharnaüm](/fr/book/David_Smith/Our_Lords_Earthly_Life/17)
+	- [Une mission dans le sud de la Galilée](/fr/book/David_Smith/Our_Lords_Earthly_Life/18)
+	- [Une autre retraite de l'autre côté du lac](/fr/book/David_Smith/Our_Lords_Earthly_Life/19)
+	- [De retour à Capharnaüm](/fr/book/David_Smith/Our_Lords_Earthly_Life/20)
 - LA TROISIÈME ANNÉE DE SON MINISTÈRE
-	- [Une retraite en Phénicie](/fr/book/David_Smith/Our_Lords_Earthly_Life/20)
-	- [Errances en Décapole](/fr/book/David_Smith/Our_Lords_Earthly_Life/21)
-	- [Une retraite à Césarée de Philippe](/fr/book/David_Smith/Our_Lords_Earthly_Life/22)
-	- [De retour en Galilée](/fr/book/David_Smith/Our_Lords_Earthly_Life/23)
-	- [En route vers Jérusalem](/fr/book/David_Smith/Our_Lords_Earthly_Life/24)
-	- [Ministère à Jérusalem](/fr/book/David_Smith/Our_Lords_Earthly_Life/25)
-	- [À Bethabara](/fr/book/David_Smith/Our_Lords_Earthly_Life/26)
-	- [La résurrection de Lazare](/fr/book/David_Smith/Our_Lords_Earthly_Life/27)
-	- [Sur la route de la mort](/fr/book/David_Smith/Our_Lords_Earthly_Life/28)
+	- [Une retraite en Phénicie](/fr/book/David_Smith/Our_Lords_Earthly_Life/21)
+	- [Errances en Décapole](/fr/book/David_Smith/Our_Lords_Earthly_Life/22)
+	- [Une retraite à Césarée de Philippe](/fr/book/David_Smith/Our_Lords_Earthly_Life/23)
+	- [De retour en Galilée](/fr/book/David_Smith/Our_Lords_Earthly_Life/24)
+	- [En route vers Jérusalem](/fr/book/David_Smith/Our_Lords_Earthly_Life/25)
+	- [Ministère à Jérusalem](/fr/book/David_Smith/Our_Lords_Earthly_Life/26)
+	- [À Bethabara](/fr/book/David_Smith/Our_Lords_Earthly_Life/27)
+	- [La résurrection de Lazare](/fr/book/David_Smith/Our_Lords_Earthly_Life/28)
+	- [Sur la route de la mort](/fr/book/David_Smith/Our_Lords_Earthly_Life/29)
 - LA SEMAINE PASSIONNELLE
-	- [Son entrée à Jérusalem](/fr/book/David_Smith/Our_Lords_Earthly_Life/29)
-	- [Controverses avec les dirigeants](/fr/book/David_Smith/Our_Lords_Earthly_Life/30)
-	- [L'appel final](/fr/book/David_Smith/Our_Lords_Earthly_Life/31)
-	- [Les douleurs de l'enfantement d'une nouvelle création](/fr/book/David_Smith/Our_Lords_Earthly_Life/32)
-	- [La Cène](/fr/book/David_Smith/Our_Lords_Earthly_Life/33)
-	- [La vigne messianique](/fr/book/David_Smith/Our_Lords_Earthly_Life/34)
-	- [L'arrestation](/fr/book/David_Smith/Our_Lords_Earthly_Life/35)
+	- [Son entrée à Jérusalem](/fr/book/David_Smith/Our_Lords_Earthly_Life/30)
+	- [Controverses avec les dirigeants](/fr/book/David_Smith/Our_Lords_Earthly_Life/31)
+	- [L'appel final](/fr/book/David_Smith/Our_Lords_Earthly_Life/32)
+	- [Les douleurs de l'enfantement d'une nouvelle création](/fr/book/David_Smith/Our_Lords_Earthly_Life/33)
+	- [La Cène](/fr/book/David_Smith/Our_Lords_Earthly_Life/34)
+	- [La vigne messianique](/fr/book/David_Smith/Our_Lords_Earthly_Life/35)
+	- [L'arrestation](/fr/book/David_Smith/Our_Lords_Earthly_Life/36)
 	- Le Procès :
-		- [(I) Devant le Sanhédrin](/fr/book/David_Smith/Our_Lords_Earthly_Life/36)
-		- [(II) Devant le procurateur romain](/fr/book/David_Smith/Our_Lords_Earthly_Life/37)
-	- [La Crucifixion](/fr/book/David_Smith/Our_Lords_Earthly_Life/38)
-	- [La Résurrection](/fr/book/David_Smith/Our_Lords_Earthly_Life/39)
+		- [(I) Devant le Sanhédrin](/fr/book/David_Smith/Our_Lords_Earthly_Life/37)
+		- [(II) Devant le procurateur romain](/fr/book/David_Smith/Our_Lords_Earthly_Life/38)
+	- [La Crucifixion](/fr/book/David_Smith/Our_Lords_Earthly_Life/39)
+	- [La Résurrection](/fr/book/David_Smith/Our_Lords_Earthly_Life/40)
 	- [Index des textes évangéliques](/fr/book/David_Smith/Our_Lords_Earthly_Life/Index)
 
 ## Liens externes
