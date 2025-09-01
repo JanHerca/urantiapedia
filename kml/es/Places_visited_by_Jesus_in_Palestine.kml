@@ -1,0 +1,3853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lugares visitados por Jesús en Palestina</name>
+    <description>Ubicación de los lugares que visitó Jesús de Nazaret en Palestina</description>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Pueblos y ciudades</name>
+      <Placemark>
+        <name>¿La cueva de Jesús?</name>
+        <description><![CDATA[Descripción: Quizá está por aquí la cueva de Jesús.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Beit_Adis<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Quizá está por aquí la cueva de Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beit_Adis</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.713978,32.433201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abila</name>
+        <description><![CDATA[Descripción: En esta ciudad, llamada también en algunas fuentes Rafaná, predicaron Jesús y sus apóstoles en varias giras de predicación. Durante la última gira por la Decápolis Jesús tuvo una charla muy provechosa aquí con Natanael acerca de la autoridad de las escrituras sagradas.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Abila<br>Wikipedia: https://en.wikipedia.org/wiki/Abila_%28Decapolis%29<br>Excavación: https://www.jbu.edu/abila/]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>En esta ciudad, llamada también en algunas fuentes Rafaná, predicaron Jesús y sus apóstoles en varias giras de predicación. Durante la última gira por la Decápolis Jesús tuvo una charla muy provechosa aquí con Natanael acerca de la autoridad de las escrituras sagradas.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Abila</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Abila_%28Decapolis%29</value>
+          </Data>
+          <Data name="Excavación">
+            <value>https://www.jbu.edu/abila/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.868793,32.68264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam o Adán</name>
+        <description><![CDATA[Descripción: Aparece mencionada como una de las poblaciones visitadas en la última gira de predicación por Perea a cargo de los setenta evangelistas. También como el lugar donde paró Juan el Bautista durante su viaje de predicación, y donde lanzó sus críticas contra Herodes Antipas (LU 135). No se ha podido obtener su localización exacta.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Adam_(village)<br>Wikipedia: https://en.wikipedia.org/wiki/City_of_Adam<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aparece mencionada como una de las poblaciones visitadas en la última gira de predicación por Perea a cargo de los setenta evangelistas. También como el lugar donde paró Juan el Bautista durante su viaje de predicación, y donde lanzó sus críticas contra Herodes Antipas (LU 135). No se ha podido obtener su localización exacta.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Adam_(village)</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/City_of_Adam</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.55619,32.09034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Areópolis</name>
+        <description><![CDATA[Descripción: Sólo mencionada como una de las poblaciones visitada durante la gira de predicación por Perea de los setenta evangelistas. Mencionada por Eusebio en su Onomasticon como nombre moderno de la ciudad de Moab (Rabbat-Moab?); no se ha podido dar con su correcto emplazamiento.<br>Reino: Nabatea<br>Tópico: https://urantiapedia.org/es/topic/Areopolis<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Sólo mencionada como una de las poblaciones visitada durante la gira de predicación por Perea de los setenta evangelistas. Mencionada por Eusebio en su Onomasticon como nombre moderno de la ciudad de Moab (Rabbat-Moab?); no se ha podido dar con su correcto emplazamiento.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Nabatea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Areopolis</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.7481,31.268755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ainón</name>
+        <description><![CDATA[Descripción: Aquí empezó Juan a predicar, en la margen oriental del Jordán, justo a la entrada del vado. Esta era una población de paso obligada en la ruta a Jericó y Jerusalén. La arqueología moderna ha desenterrado los restos de una iglesia y un monasterio en la zona, del período bizantino, que atestiguan la creencia de que éste fue un sitio reverenciado por los peregrinos desde antiguo. Al enclave se le conoce también como Aenon o Ainón, y también Salem o Salín. Tenía una población gemela en la otra orilla, a la que se acostumbraba a llamar Betania del Jordán o Betábara. No aparece mencionado en El Libro de Urantia por este nombre sino por el de la margen occidental.<br>Reino: Perea<br>Tópico: <br>Wikipedia: https://en.wikipedia.org/wiki/Aenon<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aquí empezó Juan a predicar, en la margen oriental del Jordán, justo a la entrada del vado. Esta era una población de paso obligada en la ruta a Jericó y Jerusalén. La arqueología moderna ha desenterrado los restos de una iglesia y un monasterio en la zona, del período bizantino, que atestiguan la creencia de que éste fue un sitio reverenciado por los peregrinos desde antiguo. Al enclave se le conoce también como Aenon o Ainón, y también Salem o Salín. Tenía una población gemela en la otra orilla, a la que se acostumbraba a llamar Betania del Jordán o Betábara. No aparece mencionado en El Libro de Urantia por este nombre sino por el de la margen occidental.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value/>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Aenon</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.547901,31.837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amatus</name>
+        <description><![CDATA[Descripción: Lugar de paso habitual en tiempos de Jesús cuando se recorría la margen oriental del Jordán. Jesús pasó bastante tiempo en esta población y se detuvo en ella en multitud de ocaciones. No he conseguido dar con su emplazamiento correcto.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Amatus<br>Wikipedia: https://en.wikipedia.org/wiki/Amatus<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de paso habitual en tiempos de Jesús cuando se recorría la margen oriental del Jordán. Jesús pasó bastante tiempo en esta población y se detuvo en ella en multitud de ocaciones. No he conseguido dar con su emplazamiento correcto.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Amatus</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Amatus</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.618801,32.232677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antipatris (Afeq)</name>
+        <description><![CDATA[Descripción: Sitio bíblico cerca del Yarkon (?) habitado en tiempos bíblicos, cuando fue conocido como Afeq (en inglés Aphek), y reconstruido por el rey Herodes en el siglo primero, quien también cambió su nombre a Anpitatris, siguiendo el nombre de su padre. Antipatris pasó luego a la historia cristiana por pasar Pablo una noche de camino a Cesarea (Hch 32:31). Las excavaciones en el emplazamiento a cargo de M. Kokhavi han revelado mucho de la ciudad romana y bíblica. El Libro de Urantia la menciona en una ocasión como lugar de procedencia de algunos samaritanos que acudieron a aprender sus enseñanzas.<br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Antipatris<br>Wikipedia: https://en.wikipedia.org/wiki/Antipatris<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Sitio bíblico cerca del Yarkon (?) habitado en tiempos bíblicos, cuando fue conocido como Afeq (en inglés Aphek), y reconstruido por el rey Herodes en el siglo primero, quien también cambió su nombre a Anpitatris, siguiendo el nombre de su padre. Antipatris pasó luego a la historia cristiana por pasar Pablo una noche de camino a Cesarea (Hch 32:31). Las excavaciones en el emplazamiento a cargo de M. Kokhavi han revelado mucho de la ciudad romana y bíblica. El Libro de Urantia la menciona en una ocasión como lugar de procedencia de algunos samaritanos que acudieron a aprender sus enseñanzas.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Antipatris</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Antipatris</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.931576,32.103851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arbela</name>
+        <description><![CDATA[Descripción: Mencionada en El Libro de Urantia como una de las poblaciones visitadas durante la gira por la Perea. Actualmente es la importante población llamada Irbid.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Arbela<br>Wikipedia: https://en.wikipedia.org/wiki/Irbid<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Mencionada en El Libro de Urantia como una de las poblaciones visitadas durante la gira por la Perea. Actualmente es la importante población llamada Irbid.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Arbela</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Irbid</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.848812,32.558762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arbela (Arbel)</name>
+        <description><![CDATA[Descripción: Pequeño poblado en tiempos de Jesús, en la entrada del desfiladero de Arbel, lugar de paso frecuente para llegar rápido al mar de Galilea. En El Libro de Urantia se menciona otra Arbela en la Perea.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Arbela<br>Wikipedia: https://en.wikipedia.org/wiki/Arbel<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Pequeño poblado en tiempos de Jesús, en la entrada del desfiladero de Arbel, lugar de paso frecuente para llegar rápido al mar de Galilea. En El Libro de Urantia se menciona otra Arbela en la Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Arbela</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Arbel</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.4869,32.816399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arimatea</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Arimathea<br>Wikipedia: https://es.wikipedia.org/wiki/Arimatea<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Arimathea</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Arimatea</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.027119,32.035885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aroer</name>
+        <description><![CDATA[Descripción: Ciudad de los amoritas que se situa en el borde norte del Arnón. Tomada por Israel, finalmente cae en manos de Moab (Jer 48:19). Mencionada en El Libro de Urantia como una de las ciudades visitadas durante la gira de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Aroer<br>Wikipedia: https://es.wikipedia.org/wiki/Aroer<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ciudad de los amoritas que se situa en el borde norte del Arnón. Tomada por Israel, finalmente cae en manos de Moab (Jer 48:19). Mencionada en El Libro de Urantia como una de las ciudades visitadas durante la gira de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Aroer</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Aroer</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.82,31.4734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arquelais</name>
+        <description><![CDATA[Descripción: Lugar antiguo situada en el lado de la carretera principal del valle del Jordán. Las excavaciones en el lugar han revelado un poblado judío del período romano. Quizás es la Arquelais, la ciudad fundada por Arquelao, hijo de Herodes, en el valle de Jericó. Aparece mencionada en El Libro de Urantia como una de las poblaciones donde se detuvo Jesús con sus discípulos a su paso por Samaria.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Arquelais<br>Wikipedia: https://en.wikipedia.org/wiki/Archelais<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar antiguo situada en el lado de la carretera principal del valle del Jordán. Las excavaciones en el lugar han revelado un poblado judío del período romano. Quizás es la Arquelais, la ciudad fundada por Arquelao, hijo de Herodes, en el valle de Jericó. Aparece mencionada en El Libro de Urantia como una de las poblaciones donde se detuvo Jesús con sus discípulos a su paso por Samaria.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Arquelais</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Archelais</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.470299,31.9639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asdod</name>
+        <description><![CDATA[Descripción: Jesús la visita en su viaje por Palestina.<br>Reino: Ciudades costeras de Salomé<br>Tópico: https://urantiapedia.org/es/topic/Asdod<br>Wikipedia: https://es.wikipedia.org/wiki/Asdod<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús la visita en su viaje por Palestina.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Ciudades costeras de Salomé</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Asdod</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Asdod</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.659939,31.752743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Astarot</name>
+        <description><![CDATA[Descripción: Lugar de la gira por la Decápolis donde Juan prohibió enseñar a un hombre.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Ashtaroth<br>Wikipedia: https://en.wikipedia.org/wiki/Ashteroth_Karnaim<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de la gira por la Decápolis donde Juan prohibió enseñar a un hombre.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Ashtaroth</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Ashteroth_Karnaim</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.024799,32.765247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baal Perazim</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Baal-Perazim<br>Wikipedia: https://en.wikipedia.org/wiki/Baal-perazim<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Baal-Perazim</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Baal-perazim</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.177494,31.738981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beerot</name>
+        <description><![CDATA[Descripción: Jesús pasa por aquí durante su viaje privado por Palestina. No se ha conseguido dar con su correcto emplazamiento. La wikipedia la confunde erróneamente con Beirut.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Beeroth<br>Wikipedia: https://en.wikipedia.org/wiki/Beeroth_(biblical_city)<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús pasa por aquí durante su viaje privado por Palestina. No se ha conseguido dar con su correcto emplazamiento. La wikipedia la confunde erróneamente con Beirut.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beeroth</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Beeroth_(biblical_city)</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.177601,31.8242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belén de Galilea</name>
+        <description><![CDATA[Descripción: Mencionada en El Libro de Urantia como una de las poblaciones visitadas por los apóstoles en su gira preparatoria por Galilea. Las ruinas de la antigua población están en la zona.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Bethlehem_(Galilee)<br>Wikipedia: https://en.wikipedia.org/wiki/Bethlehem_of_Galilee<br>Excavación: http://www.bethlehem-of-galilee.org/]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Mencionada en El Libro de Urantia como una de las poblaciones visitadas por los apóstoles en su gira preparatoria por Galilea. Las ruinas de la antigua población están en la zona.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethlehem_(Galilee)</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Bethlehem_of_Galilee</value>
+          </Data>
+          <Data name="Excavación">
+            <value>http://www.bethlehem-of-galilee.org/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.182255,32.734238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beit Adis</name>
+        <description><![CDATA[Descripción: Beit Adis, aldea cercana a la cueva de los cuarenta días de Jesús.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Beit_Adis<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Beit Adis, aldea cercana a la cueva de los cuarenta días de Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beit_Adis</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.697899,32.4375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beit Jenn</name>
+        <description><![CDATA[Descripción: Desde aquí emprendió Jesús la ascensión al Hermón.<br>Reino: Siria<br>Tópico: https://urantiapedia.org/es/topic/Beit_Jenn<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Desde aquí emprendió Jesús la ascensión al Hermón.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Siria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beit_Jenn</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8792,33.314499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belén</name>
+        <description><![CDATA[Descripción: Lugar del nacimiento de Jesús, y donde Jesús pasó cierto tiempo predicando junto a Abner y los discípulos de Juan. Es un lugar muy turístico, con una basílica supuestamente en el emplazamiento de la «cueva» (según El Libro de Urantia no fue tal) en que Jesús fue alumbrado.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Bethlehem_(Judea)<br>Wikipedia: https://es.wikipedia.org/wiki/Belén<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar del nacimiento de Jesús, y donde Jesús pasó cierto tiempo predicando junto a Abner y los discípulos de Juan. Es un lugar muy turístico, con una basílica supuestamente en el emplazamiento de la «cueva» (según El Libro de Urantia no fue tal) en que Jesús fue alumbrado.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethlehem_(Judea)</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Belén</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.212132,31.703571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beerseba</name>
+        <description><![CDATA[Descripción: Lugar bíblico del sur de Israel. Excavado en los años 70 por Y. Aharoni, el lugar muestra un ciudad bien planificada del período israelita, rico en hallazgos, el más importante un altar de piedra. Excavaciones recientes han mostrado el sistema hidraulico del lugar. Jesús pasó durante su viaje privado por Palestina.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Beersheba<br>Wikipedia: https://es.wikipedia.org/wiki/Beerseba<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar bíblico del sur de Israel. Excavado en los años 70 por Y. Aharoni, el lugar muestra un ciudad bien planificada del período israelita, rico en hallazgos, el más importante un altar de piedra. Excavaciones recientes han mostrado el sistema hidraulico del lugar. Jesús pasó durante su viaje privado por Palestina.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beersheba</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Beerseba</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.840199,31.244101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betania</name>
+        <description><![CDATA[Descripción: Lugar de especiales recuerdos para Jesús, lugar de residencia de la familia de Lázaro, uno de sus grandes amigos.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Bethany_(near_Jerusalem)<br>Wikipedia: https://es.wikipedia.org/wiki/Betania<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de especiales recuerdos para Jesús, lugar de residencia de la familia de Lázaro, uno de sus grandes amigos.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethany_(near_Jerusalem)</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Betania</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.255486,31.770847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betania Más Allá del Jordán o Betábara</name>
+        <description><![CDATA[Descripción: Ver Ainón. En El Libro de Urantia aparece mencionado como Betania del Jordán y Betábara. Tiene una población gemela en la orilla oriental llamada Ainón.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Bethany_beyond_Jordan<br>Wikipedia: https://en.wikipedia.org/wiki/Bethabara<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ver Ainón. En El Libro de Urantia aparece mencionado como Betania del Jordán y Betábara. Tiene una población gemela en la orilla oriental llamada Ainón.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethany_beyond_Jordan</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Bethabara</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.545399,31.836599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betel</name>
+        <description><![CDATA[Descripción: Lugar bíblico cuyo nombre se preserva hoy en día (Beitin). Famoso por ser el lugar del sueño de Jacob (Gn 28:10-22). Jeroboam instaló un centro de culto en el lugar para un becerro de oro (1 Re 12:28-29), pero el altar fue demolido por el poder divino (1 Re 13:1-11), y más tarde de nuevo por Josiah (2 Re 23:15). Albright, que excavó en el lugar, asegura haber encontrado piedras manchadas de sangre, tal vez restos del altar bíblico. Jesús pasó y se detuvo en repetidas ocasiones aquí.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Bethel<br>Wikipedia: https://en.wikipedia.org/wiki/Bethel<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar bíblico cuyo nombre se preserva hoy en día (Beitin). Famoso por ser el lugar del sueño de Jacob (Gn 28:10-22). Jeroboam instaló un centro de culto en el lugar para un becerro de oro (1 Re 12:28-29), pero el altar fue demolido por el poder divino (1 Re 13:1-11), y más tarde de nuevo por Josiah (2 Re 23:15). Albright, que excavó en el lugar, asegura haber encontrado piedras manchadas de sangre, tal vez restos del altar bíblico. Jesús pasó y se detuvo en repetidas ocasiones aquí.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethel</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Bethel</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.239201,31.922501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betfagé</name>
+        <description><![CDATA[Descripción: En esta población, al igual que en Betania, Jesús contó con muchos simpatizantes. Aquí es donde Jesús tomó prestado un burro para entrar en Jerusalén (Mt 21:1-11).<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Bethphage<br>Wikipedia: https://es.wikipedia.org/wiki/Betfagé<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>En esta población, al igual que en Betania, Jesús contó con muchos simpatizantes. Aquí es donde Jesús tomó prestado un burro para entrar en Jerusalén (Mt 21:1-11).</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethphage</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Betfagé</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.251598,31.776199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bet-Meón</name>
+        <description><![CDATA[Descripción: <br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Beth-Meon<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beth-Meon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.725281,31.669802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bet-Nimra</name>
+        <description><![CDATA[Descripción: <br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Beth-Nimrah<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beth-Nimrah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.628399,31.896938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bet-Peor</name>
+        <description><![CDATA[Descripción: <br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Beth-Peor<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beth-Peor</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.731796,31.770527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betsaida</name>
+        <description><![CDATA[Descripción: Lugar de nacimiento de muchos apóstoles, Jesús pasó aquí gran parte de su tiempo. Los arqueólogos actuales no suelen apostar por este emplazamiento como Betsaida, y se decantan más por el emplazamiento oriental. El Libro de Urantia llama claramente Betsaida-Julias a este lugar oriental, reservando el nombre de Betsaida a esta otra zona.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Bethsaida<br>Wikipedia: https://es.wikipedia.org/wiki/Tabgha<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de nacimiento de muchos apóstoles, Jesús pasó aquí gran parte de su tiempo. Los arqueólogos actuales no suelen apostar por este emplazamiento como Betsaida, y se decantan más por el emplazamiento oriental. El Libro de Urantia llama claramente Betsaida-Julias a este lugar oriental, reservando el nombre de Betsaida a esta otra zona.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethsaida</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Tabgha</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.548801,32.8722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betsaida-Julias</name>
+        <description><![CDATA[Descripción: Et-Tell. Uno de los emplazamientos propuesto para Betsaida-Julias, aunque en mi opinión con menos base que El Araj. Frecuentemente mentada en El Libro de Urantia.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Bethsaida-Julias<br>Wikipedia: https://es.wikipedia.org/wiki/Betsaida<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Et-Tell. Uno de los emplazamientos propuesto para Betsaida-Julias, aunque en mi opinión con menos base que El Araj. Frecuentemente mentada en El Libro de Urantia.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethsaida-Julias</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Betsaida</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.630104,32.908413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Betsaida-Julias</name>
+        <description><![CDATA[Descripción: El Araj. Uno de los emplazamientos propuesto para Betsaida-Julias. Frecuentemente mentada en El Libro de Urantia.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Bethsaida-Julias<br>Wikipedia: https://es.wikipedia.org/wiki/Betsaida<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>El Araj. Uno de los emplazamientos propuesto para Betsaida-Julias. Frecuentemente mentada en El Libro de Urantia.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bethsaida-Julias</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Betsaida</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.626598,32.8885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bet-sur</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Beth-zur<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Beth-zur</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.093643,31.591663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bosora</name>
+        <description><![CDATA[Descripción: Población únicamente mencionada como parte de la gira por la Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Bosora<br>Wikipedia: https://es.wikipedia.org/wiki/Bosra<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población únicamente mencionada como parte de la gira por la Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Bosora</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Bosra</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.472599,32.518101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Callirhue</name>
+        <description><![CDATA[Descripción: Población únicamente mencionada como parte de la gira por la Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Callirrhoe<br>Wikipedia: https://en.wikipedia.org/wiki/Callirrhoe_(Jordan)<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población únicamente mencionada como parte de la gira por la Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Callirrhoe</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Callirrhoe_(Jordan)</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.558899,31.595699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caná de Galilea</name>
+        <description><![CDATA[Descripción: Posible emplazamiento de Caná en Khirbet Kana. Aquí estuvo Jesús en varias ocasiones, en especial en la bodas en las que se produjo el milagro del vino.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Cana<br>Wikipedia: https://es.wikipedia.org/wiki/Caná_de_Galilea<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Posible emplazamiento de Caná en Khirbet Kana. Aquí estuvo Jesús en varias ocasiones, en especial en la bodas en las que se produjo el milagro del vino.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Cana</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Caná_de_Galilea</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.302799,32.823502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caná de Galilea</name>
+        <description><![CDATA[Descripción: Posible emplazamiento de Caná en Kefar Kenna. Este es el lugar más aceptado por la tradición, y cuenta con varias iglesias que conmemoran el lugar. Sin embargo, el emplazamiento de Khirbet Kana parece más acertado.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Cana<br>Wikipedia: https://es.wikipedia.org/wiki/Caná_de_Galilea<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Posible emplazamiento de Caná en Kefar Kenna. Este es el lugar más aceptado por la tradición, y cuenta con varias iglesias que conmemoran el lugar. Sin embargo, el emplazamiento de Khirbet Kana parece más acertado.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Cana</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Caná_de_Galilea</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.342098,32.743652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canata</name>
+        <description><![CDATA[Descripción: Actual Kanawât<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Kanata<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Actual Kanawât</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Kanata</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.6147911,32.7531494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capernaum o Cafarnaúm</name>
+        <description><![CDATA[Descripción: La ciudad de Jesús, donde vivió de adulto.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Capernaum<br>Wikipedia: https://es.wikipedia.org/wiki/Cafarnaúm<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>La ciudad de Jesús, donde vivió de adulto.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Capernaum</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Cafarnaúm</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.574776,32.880154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capitolias (Dión)</name>
+        <description><![CDATA[Descripción: Mencionada durante la gira de la Perea. Se identifica con la población llamada Dión antiguamente, pero El Libro de Urantia diferencia ambas.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Capitolias<br>Wikipedia: https://es.wikipedia.org/wiki/Capitolias<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Mencionada durante la gira de la Perea. Se identifica con la población llamada Dión antiguamente, pero El Libro de Urantia diferencia ambas.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Capitolias</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Capitolias</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.857899,32.5961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciudad de Judá</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/City_of_Judah<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/City_of_Judah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.135727,31.723089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corozaín o Corazín</name>
+        <description><![CDATA[Descripción: Corozaín o Corazín. Jesús pasó por aquí en muchas ocasiones. Es famoso el lamento que profirió Jesús en desfavor de esta población (Lc 10:13).<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Chorazin<br>Wikipedia: https://en.wikipedia.org/wiki/Chorazim<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Corozaín o Corazín. Jesús pasó por aquí en muchas ocasiones. Es famoso el lamento que profirió Jesús en desfavor de esta población (Lc 10:13).</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Chorazin</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Chorazim</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.563599,32.911999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caspin</name>
+        <description><![CDATA[Descripción: Lugar de la gira por Perea; no se ha conseguido dar con el correcto emplazamiento.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Caspin<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de la gira por Perea; no se ha conseguido dar con el correcto emplazamiento.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Caspin</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8176,32.8279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cesarea</name>
+        <description><![CDATA[Descripción: También llamada Cesarea del Mar. Esta ciudad era una de las más destacadas en tiempos de Jesús. Construida de la nada por Herodes el Grande, era la residencia habitual del prefecto de Judea. Jesús la visitó con frecuencia. Mantuvo una reunión allí con un grupo de hombres acaudalados que le hicieron una proposición muy honrosa. Permaneció unos días antes de partir de viaje a Roma, y pasó algún tiempo durante sus giras de predicación con los apóstoles.<br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Caesarea<br>Wikipedia: https://es.wikipedia.org/wiki/Cesarea_Mar%C3%ADtima<br>Excavación: http://www.biblewalks.com/sites/Caesarea.html]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>También llamada Cesarea del Mar. Esta ciudad era una de las más destacadas en tiempos de Jesús. Construida de la nada por Herodes el Grande, era la residencia habitual del prefecto de Judea. Jesús la visitó con frecuencia. Mantuvo una reunión allí con un grupo de hombres acaudalados que le hicieron una proposición muy honrosa. Permaneció unos días antes de partir de viaje a Roma, y pasó algún tiempo durante sus giras de predicación con los apóstoles.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Caesarea</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Cesarea_Mar%C3%ADtima</value>
+          </Data>
+          <Data name="Excavación">
+            <value>http://www.biblewalks.com/sites/Caesarea.html</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.891201,32.497398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cesarea de Filipo (Paneas)</name>
+        <description><![CDATA[Descripción: Cesarea de Filipo (en inglés Caesarea Phlippi). Aquí estuvo Jesús en varias ocasiones mientras se dirigía al monte Hermón.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Caesarea_Philippi<br>Wikipedia: https://es.wikipedia.org/wiki/Banias<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Cesarea de Filipo (en inglés Caesarea Phlippi). Aquí estuvo Jesús en varias ocasiones mientras se dirigía al monte Hermón.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Caesarea_Philippi</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Banias</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.692795,33.245991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dabarita</name>
+        <description><![CDATA[Descripción: Población únicamente mencionada como lugar de paso de la segunda gira de predicación por Galilea. No se ha conseguido dar con su correcto emplazamiento.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Dabaritta<br>Wikipedia: https://en.wikipedia.org/wiki/Dabaritta<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población únicamente mencionada como lugar de paso de la segunda gira de predicación por Galilea. No se ha conseguido dar con su correcto emplazamiento.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Dabaritta</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Dabaritta</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.403999,32.6894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Damasco</name>
+        <description><![CDATA[Descripción: Damasco (en inglés Damascus). Jesús pasó una larga temporada aquí trabajando como escriba.<br>Reino: Siria<br>Tópico: https://urantiapedia.org/es/topic/Damascus<br>Wikipedia: https://es.wikipedia.org/wiki/Damasco<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Damasco (en inglés Damascus). Jesús pasó una larga temporada aquí trabajando como escriba.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Siria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Damascus</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Damasco</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.299198,33.514198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dan</name>
+        <description><![CDATA[Descripción: Lugar bíblico. Llamada «Laish» (en hebreo «Leon») en tiempos canaanitas, el lugar fue tomado por el pueblo de Dan, que cambió su nombre. Las excavaciones en el lugar han obtenido muchos hallazgos, entre ellos una puerta cananea hecha de ladrillos, una tumba cananea, una puerta grande del período israelita y un altar israelita. El hallazgo más importante es una inscripción mencionando «la casa de David». En tiempos de Jesús este lugar serían seguramente unas ruinas en detrimento de la nueva Dan, Cesarea de Filipo.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: <br>Wikipedia: https://es.wikipedia.org/wiki/Tel_Dan<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar bíblico. Llamada «Laish» (en hebreo «Leon») en tiempos canaanitas, el lugar fue tomado por el pueblo de Dan, que cambió su nombre. Las excavaciones en el lugar han obtenido muchos hallazgos, entre ellos una puerta cananea hecha de ladrillos, una tumba cananea, una puerta grande del período israelita y un altar israelita. El hallazgo más importante es una inscripción mencionando «la casa de David». En tiempos de Jesús este lugar serían seguramente unas ruinas en detrimento de la nueva Dan, Cesarea de Filipo.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value/>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Tel_Dan</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.652229,33.247681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dium</name>
+        <description><![CDATA[Descripción: Mencionada en El Libro de Urantia como población de la gira por la Decápolis; no se ha dado con su correcto emplazamiento. Suele confundirse a esta Dium con otra llamada Dion, y a ambas con Capitolias. Pero El Libro de Urantia nunca las identifica.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Dium<br>Wikipedia: https://es.wikipedia.org/wiki/Díon<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Mencionada en El Libro de Urantia como población de la gira por la Decápolis; no se ha dado con su correcto emplazamiento. Suele confundirse a esta Dium con otra llamada Dion, y a ambas con Capitolias. Pero El Libro de Urantia nunca las identifica.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Dium</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Díon</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.027302,32.7411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dotán</name>
+        <description><![CDATA[Descripción: Lugar bíblico de Samaria. En su vencindario José vigilaba su rebaño cuando sus hermanos le prendieron, le tiraron a un pozo, y luego le vendieron a como esclavo. (Gn 37). Sólo aparece mencionada en El Libro de Urantia en relación con esta historia. Jesús veía estas colinas desde lo alto de Nazaret y recordaba las escrituras.<br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Dothan<br>Wikipedia: https://en.wikipedia.org/wiki/Dothan_%28ancient_city%29<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar bíblico de Samaria. En su vencindario José vigilaba su rebaño cuando sus hermanos le prendieron, le tiraron a un pozo, y luego le vendieron a como esclavo. (Gn 37). Sólo aparece mencionada en El Libro de Urantia en relación con esta historia. Jesús veía estas colinas desde lo alto de Nazaret y recordaba las escrituras.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Dothan</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Dothan_%28ancient_city%29</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.238499,32.412701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edrei</name>
+        <description><![CDATA[Descripción: Aquí se detuvo Jesús tanto en su gira por la Decápolis como por la de Perea.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Edrei<br>Wikipedia: https://es.wikipedia.org/wiki/Daraa<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aquí se detuvo Jesús tanto en su gira por la Decápolis como por la de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Edrei</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Daraa</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1008,32.615002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Efraín</name>
+        <description><![CDATA[Descripción: La ciudad cerca del desierto en la que Jesús se retiró después de la resurrección de Lázaro (Jn 11:54). Esto probablemente corresponde al Efrén de Eusebio, Onomasticon (s.C. «Afra») 5 millas romanas al este de Bethel. Este puede ser el lugar junto con el nombrado Bethel por Josefo (BJ, IV, IX, 9). Probablemente et-Taiyebeh, una gran aldea unas 4 millas al norte de Beitin. La antigüedad del sitio ha sido confirmada por cisternas de roca y tumbas. Se encuentra sobre una colina alta con una amplia perspectiva incluidos los llanos de Jericó y el Mar Muerto.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Ephraim<br>Wikipedia: https://es.wikipedia.org/wiki/Ophrah<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>La ciudad cerca del desierto en la que Jesús se retiró después de la resurrección de Lázaro (Jn 11:54). Esto probablemente corresponde al Efrén de Eusebio, Onomasticon (s.C. «Afra») 5 millas romanas al este de Bethel. Este puede ser el lugar junto con el nombrado Bethel por Josefo (BJ, IV, IX, 9). Probablemente et-Taiyebeh, una gran aldea unas 4 millas al norte de Beitin. La antigüedad del sitio ha sido confirmada por cisternas de roca y tumbas. Se encuentra sobre una colina alta con una amplia perspectiva incluidos los llanos de Jericó y el Mar Muerto.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Ephraim</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Ophrah</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.299198,31.9524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eleala</name>
+        <description><![CDATA[Descripción: Sólo mencionada como lugar de paso en la gira de Perea; no se ha dado con su correcto emplazamiento.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Elealah<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Sólo mencionada como lugar de paso en la gira de Perea; no se ha dado con su correcto emplazamiento.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Elealah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.765099,32.7929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emaús</name>
+        <description><![CDATA[Descripción: Una ciudad de época romana que se convirtió en un lugar santo cristiano por la preservación de la tradición como el lugar donde Jesús se apareció a unas pocas personas después de su resurrección (Lc 24:13-35). Las excavaciones en el lugar revelaron una catedral cruzada, y un mosaico de época romana. Gran parte de la ciudad romana sigue a la espera de ser descubierta. Estando demasiado lejos de Jerusalén, otros sitios han sido identificados como los mencionados en Lucas, cerca de Jerusalén (Abu Gosh, Kubeibah, y Motsa).<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Emmaus<br>Wikipedia: https://es.wikipedia.org/wiki/Emaús<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una ciudad de época romana que se convirtió en un lugar santo cristiano por la preservación de la tradición como el lugar donde Jesús se apareció a unas pocas personas después de su resurrección (Lc 24:13-35). Las excavaciones en el lugar revelaron una catedral cruzada, y un mosaico de época romana. Gran parte de la ciudad romana sigue a la espera de ser descubierta. Estando demasiado lejos de Jerusalén, otros sitios han sido identificados como los mencionados en Lucas, cerca de Jerusalén (Abu Gosh, Kubeibah, y Motsa).</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Emmaus</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Emaús</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.9902,31.837601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Endor</name>
+        <description><![CDATA[Descripción: Población cercana a Nazaret que Jesús visitó en innumerables ocasiones de pequeño y de adulto. No está nada claro que éste sea el correcto emplazamiento, hay muchas poblaciones candidatas según los arquólogos.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Endor<br>Wikipedia: https://es.wikipedia.org/wiki/Endor_(Biblia)<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población cercana a Nazaret que Jesús visitó en innumerables ocasiones de pequeño y de adulto. No está nada claro que éste sea el correcto emplazamiento, hay muchas poblaciones candidatas según los arquólogos.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Endor</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Endor_(Biblia)</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.4035,32.633801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>En-Ganim</name>
+        <description><![CDATA[Descripción: Un lugar por donde pasó Jesús en su viaje privado por Palestina durante el año 25 d.C.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/En-Gannim<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Un lugar por donde pasó Jesús en su viaje privado por Palestina durante el año 25 d.C.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/En-Gannim</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.496372,32.707424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>En-Gedi</name>
+        <description><![CDATA[Descripción: Aquí es donde Juan el Bautista vivió en una colonia de nazareos.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Engedi<br>Wikipedia: https://es.wikipedia.org/wiki/Ein_Guedi<br>Excavación: http://www.planetnana.co.il/ghadas/]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aquí es donde Juan el Bautista vivió en una colonia de nazareos.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Engedi</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Ein_Guedi</value>
+          </Data>
+          <Data name="Excavación">
+            <value>http://www.planetnana.co.il/ghadas/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.392502,31.4613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escitópolis</name>
+        <description><![CDATA[Descripción: Escitópolis, la antigua Bet Sheán.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Scythopolis<br>Wikipedia: https://es.wikipedia.org/wiki/Beit_She%27an<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Escitópolis, la antigua Bet Sheán.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Scythopolis</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Beit_She%27an</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.50161,32.502373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fasaelis</name>
+        <description><![CDATA[Descripción: Jesús y los apóstoles predicaron aquí.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Phasaelis<br>Wikipedia: https://es.wikipedia.org/wiki/Fasayil<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús y los apóstoles predicaron aquí.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Phasaelis</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Fasayil</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.447609,32.016712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Filadelfia</name>
+        <description><![CDATA[Descripción: Actual Amman.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Philadelphia<br>Wikipedia: https://es.wikipedia.org/wiki/Am%C3%A1n<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Actual Amman.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Philadelphia</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Am%C3%A1n</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.934402,31.954382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gadara</name>
+        <description><![CDATA[Descripción: <br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Gadara<br>Wikipedia: https://en.wikipedia.org/wiki/Gadara<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gadara</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Gadara</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.67815,32.656048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gamala</name>
+        <description><![CDATA[Descripción: <br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Gamala<br>Wikipedia: https://es.wikipedia.org/wiki/Gamala<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gamala</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Gamala</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.74028,32.902454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaza</name>
+        <description><![CDATA[Descripción: Jesús la visita en su viaje por Palestina. Fue anexionada a Siria en tiempos de Pompeyo.<br>Reino: Siria<br>Tópico: https://urantiapedia.org/es/topic/Gaza<br>Wikipedia: https://es.wikipedia.org/wiki/Gaza<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús la visita en su viaje por Palestina. Fue anexionada a Siria en tiempos de Pompeyo.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Siria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gaza</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Gaza</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.4487,31.525801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geba</name>
+        <description><![CDATA[Descripción: <br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Geba<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Geba</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.226395,32.317993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genesaret</name>
+        <description><![CDATA[Descripción: Población que con seguridad Jesús frecuentó en muchas ocasiones. Es mencionado en El Libro de Urantia como el lugar donde pasó varios días con sus discípulos antes de encarar la gran crisis de Cafarnaúm. En la actualidad, llamado kibbutz Guinosar, es el lugar que alberga un museo en torno al hallazgo de los restos de un bote del primer siglo.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Gennesaret<br>Wikipedia: https://en.wikipedia.org/wiki/Gennesaret<br>Excavación: http://www.jesusboat.com/imgs/site/site/boat.html]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población que con seguridad Jesús frecuentó en muchas ocasiones. Es mencionado en El Libro de Urantia como el lugar donde pasó varios días con sus discípulos antes de encarar la gran crisis de Cafarnaúm. En la actualidad, llamado kibbutz Guinosar, es el lugar que alberga un museo en torno al hallazgo de los restos de un bote del primer siglo.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gennesaret</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Gennesaret</value>
+          </Data>
+          <Data name="Excavación">
+            <value>http://www.jesusboat.com/imgs/site/site/boat.html</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.5238,32.8465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gerasa</name>
+        <description><![CDATA[Descripción: Una de las poblaciones de la Decápolis.<br>Reino: Decápolis<br>Tópico: http://urantiapedia.org/es/topic/Gerasa<br>Wikipedia: https://es.wikipedia.org/wiki/Gerasa<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones de la Decápolis.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>http://urantiapedia.org/es/topic/Gerasa</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Gerasa</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.890308,32.280285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gibeón</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Gibeon<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gibeon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.184433,31.846411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galaad</name>
+        <description><![CDATA[Descripción: <br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Gilead<br>Wikipedia: https://es.wikipedia.org/wiki/Galaad<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gilead</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Galaad</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.992012,32.465843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giscala</name>
+        <description><![CDATA[Descripción: <br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Gischala<br>Wikipedia: https://es.wikipedia.org/wiki/Gush_Halav<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gischala</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Gush_Halav</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.444092,33.011703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gofna</name>
+        <description><![CDATA[Descripción: Jesús predicó a gente de este lugar a finales de junio de 27.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Gophna<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús predicó a gente de este lugar a finales de junio de 27.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Gophna</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.223423,31.952557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebrón</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Hebron<br>Wikipedia: https://es.wikipedia.org/wiki/Hebrón<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Hebron</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Hebrón</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.110569,31.523844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hesbón</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Heshbon<br>Wikipedia: https://en.wikipedia.org/wiki/Heshbon<br>Excavación: https://madabaplains.org/hisban/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Heshbon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Heshbon</value>
+          </Data>
+          <Data name="Excavación">
+            <value>https://madabaplains.org/hisban/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.809361,31.800535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hipos (Susita)</name>
+        <description><![CDATA[Descripción: Una las ciudades donde predicaron Jesús y los apóstoles.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Hippos<br>Wikipedia: https://es.wikipedia.org/wiki/Hippos<br>Excavación: http://hippos.haifa.ac.il/index.htm]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una las ciudades donde predicaron Jesús y los apóstoles.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Hippos</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Hippos</value>
+          </Data>
+          <Data name="Excavación">
+            <value>http://hippos.haifa.ac.il/index.htm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.659794,32.778763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Irón</name>
+        <description><![CDATA[Descripción: Jesús trabajó en las minas de Irón. Un hombre de Irón fue ridiculizado en el templo.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Iron_(city)<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús trabajó en las minas de Irón. Un hombre de Irón fue ridiculizado en el templo.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Iron_(city)</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.468517,33.115013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jamnia</name>
+        <description><![CDATA[Descripción: Jesús la visita durante su viaje por Palestina. El nombre hebreo era Yavneh. Pasó a tener una fama especial treinta años después de morir Jesús, tras la guerra judía contra los romanos, por ser el refugio de los rabís que consignaron por escrito la Misná.<br>Reino: Ciudades costeras de Salomé<br>Tópico: https://urantiapedia.org/es/topic/Jamnia<br>Wikipedia: https://es.wikipedia.org/wiki/Yavne<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús la visita durante su viaje por Palestina. El nombre hebreo era Yavneh. Pasó a tener una fama especial treinta años después de morir Jesús, tras la guerra judía contra los romanos, por ser el refugio de los rabís que consignaron por escrito la Misná.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Ciudades costeras de Salomé</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jamnia</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Yavne</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.745728,31.863005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jericó</name>
+        <description><![CDATA[Descripción: Aquí construyó un palacio Herodes.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Jericho<br>Wikipedia: https://es.wikipedia.org/wiki/Jericó<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aquí construyó un palacio Herodes.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jericho</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Jericó</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.434006,31.852665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jericó - Ciudad antigua</name>
+        <description><![CDATA[Descripción: En la época de Jesús aquí seguirían las ruinas de la antigua ciudad.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Jericho<br>Wikipedia: https://es.wikipedia.org/wiki/Jericó<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>En la época de Jesús aquí seguirían las ruinas de la antigua ciudad.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jericho</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Jericó</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.444092,31.870274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jerusalén</name>
+        <description><![CDATA[Descripción: La capital y centro del judaísmo, donde finalmente fue muerto Jesús.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Jerusalem<br>Wikipedia: https://es.wikipedia.org/wiki/Jerusalén<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>La capital y centro del judaísmo, donde finalmente fue muerto Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jerusalem</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Jerusalén</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.232498,31.7789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jezreel</name>
+        <description><![CDATA[Descripción: Jesús pasó por esta población.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Jezreel<br>Wikipedia: https://es.wikipedia.org/wiki/Valle_de_Jezreel<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús pasó por esta población.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jezreel</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Valle_de_Jezreel</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.33057,32.555096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jogbeha</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Jogbehah<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jogbehah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.911594,31.964581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jope</name>
+        <description><![CDATA[Descripción: Este es el puerto en el que desembarcó Jesús con sus padres de regreso de Egipto. Jesús estuvo aquí de paso cuando llevó a su hermano Simón a asistir por primera vez a Jerusalén el año 17 d.C. Fue un lugar por el que pasó con frecuencia en sus viajes posteriores, tanto en solitario como con sus apóstoles.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Joppa<br>Wikipedia: https://es.wikipedia.org/wiki/Jaffa<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Este es el puerto en el que desembarcó Jesús con sus padres de regreso de Egipto. Jesús estuvo aquí de paso cuando llevó a su hermano Simón a asistir por primera vez a Jerusalén el año 17 d.C. Fue un lugar por el que pasó con frecuencia en sus viajes posteriores, tanto en solitario como con sus apóstoles.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Joppa</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Jaffa</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.752071,32.053947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jotapata</name>
+        <description><![CDATA[Descripción: Aquí pronunció Jesús un discurso sobre la oración, y María Magdalena y Rebeca fueron ordenadas en este lugar.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Jotapata<br>Wikipedia: https://es.wikipedia.org/wiki/Sitio_de_Jotapata<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aquí pronunció Jesús un discurso sobre la oración, y María Magdalena y Rebeca fueron ordenadas en este lugar.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Jotapata</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Sitio_de_Jotapata</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.27813,32.832211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lebona</name>
+        <description><![CDATA[Descripción: Jesús pasó por este lugar.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Lebonah<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús pasó por este lugar.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Lebonah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.252781,32.060085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lida</name>
+        <description><![CDATA[Descripción: Población por la que pasó Jesús.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Lydda<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población por la que pasó Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Lydda</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.908218,31.949306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Livias</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Livias<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Livias</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.629627,31.818186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luz</name>
+        <description><![CDATA[Descripción: Jesús pasó por aquí en su viaje a Fenicia.<br>Reino: Fenicia<br>Tópico: https://urantiapedia.org/es/topic/Luz<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús pasó por aquí en su viaje a Fenicia.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Fenicia</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Luz</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.631203,33.288116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madón</name>
+        <description><![CDATA[Descripción: Población por la que pasó Jesús.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Madon<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población por la que pasó Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Madon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.441608,32.793285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magadán</name>
+        <description><![CDATA[Descripción: Parque de Magadán.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Magadan_Park<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Parque de Magadán.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Magadan_Park</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.651344,32.87352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magdala</name>
+        <description><![CDATA[Descripción: Lugar de paso frecuente de Jesús. Aquí es donde el grupo de discípulas de Jesús inició tareas de predicación por cuenta propia. Lugar famoso por ser el hogar de María Magdalena, hoy en día las excavaciones arqueológicas están paradas y el recinto cerrado al público.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Magdala<br>Wikipedia: https://en.wikipedia.org/wiki/Al-Majdal,_Tiberias<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de paso frecuente de Jesús. Aquí es donde el grupo de discípulas de Jesús inició tareas de predicación por cuenta propia. Lugar famoso por ser el hogar de María Magdalena, hoy en día las excavaciones arqueológicas están paradas y el recinto cerrado al público.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Magdala</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Al-Majdal,_Tiberias</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.516022,32.824039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mambré</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Mamre<br>Wikipedia: https://es.wikipedia.org/wiki/Mamre<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Mamre</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Mamre</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.105259,31.555744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Macaerus o Maqueronte</name>
+        <description><![CDATA[Descripción: Herodes Antipas mantuvo su residencia aquí y es donde Juan fue encarcelado.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Machaerus,_fortress_of<br>Wikipedia: https://es.wikipedia.org/wiki/Maqueronte<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Herodes Antipas mantuvo su residencia aquí y es donde Juan fue encarcelado.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Machaerus,_fortress_of</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Maqueronte</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.632809,31.560955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Medeba</name>
+        <description><![CDATA[Descripción: Medeba o Medaba, una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Medeba<br>Wikipedia: https://es.wikipedia.org/wiki/Madaba<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Medeba o Medaba, una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Medeba</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Madaba</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.792088,31.715357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meguido</name>
+        <description><![CDATA[Descripción: <br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Megiddo<br>Wikipedia: https://es.wikipedia.org/wiki/Megido<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Megiddo</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Megido</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.186348,32.575798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mispé</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Mispeh<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Mispeh</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.74164,32.16663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naín</name>
+        <description><![CDATA[Descripción: Población sobre una colina. Aquí trabajó José, elpadre de Jesús.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Nain<br>Wikipedia: https://es.wikipedia.org/wiki/Naín<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población sobre una colina. Aquí trabajó José, elpadre de Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Nain</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Naín</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.348358,32.629505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nazaret</name>
+        <description><![CDATA[Descripción: Nazaret, lugar de la infancia de Jesús.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Nazareth<br>Wikipedia: https://es.wikipedia.org/wiki/Nazaret<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Nazaret, lugar de la infancia de Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Nazareth</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Nazaret</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.298901,32.702507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nazaret - Casa de Jesús</name>
+        <description><![CDATA[Descripción: Lugar aproximado donde se situaba la casa de Jesús.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Nazareth<br>Wikipedia: https://es.wikipedia.org/wiki/Nazaret<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar aproximado donde se situaba la casa de Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Nazareth</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Nazaret</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.303143,32.707481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pella</name>
+        <description><![CDATA[Descripción: Lugar de las ruinas de Pella, cerca de Tabaqat Fahl.<br>Reino: Decápolis<br>Tópico: https://urantiapedia.org/es/topic/Pella<br>Wikipedia: https://en.wikipedia.org/wiki/Pella%2C_Jordan<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Lugar de las ruinas de Pella, cerca de Tabaqat Fahl.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Decápolis</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Pella</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Pella%2C_Jordan</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.615402,32.449806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Penuel</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Penuel<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Penuel</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.688629,32.177422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queresa</name>
+        <description><![CDATA[Descripción: Queresa o Kursi, hogar de los gemelos Alfeo y donde tuvo lugar el suceso de Jesús con un lunático.<br>Reino: Gaulanítide, Batanea y Traconítide<br>Tópico: https://urantiapedia.org/es/topic/Kheresa<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Queresa o Kursi, hogar de los gemelos Alfeo y donde tuvo lugar el suceso de Jesús con un lunático.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Gaulanítide, Batanea y Traconítide</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Kheresa</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.644596,32.826443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queriot</name>
+        <description><![CDATA[Descripción: Hogar de Judas Iscariote<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Kerioth<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Hogar de Judas Iscariote</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Kerioth</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.686699,31.535477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ragaba</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Ragaba<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Ragaba</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.693432,32.224499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramá</name>
+        <description><![CDATA[Descripción: Una de las poblaciones donde predicó Jesús.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Ramah<br>Wikipedia: https://es.wikipedia.org/wiki/Ram%C3%A1<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones donde predicó Jesús.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Ramah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Ram%C3%A1</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.386719,32.909004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rimón</name>
+        <description><![CDATA[Descripción: Jesús predicó en este lugar.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Rimmon<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús predicó en este lugar.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Rimmon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.31329,32.76989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samaria o Sebaste</name>
+        <description><![CDATA[Descripción: Hogar de Abner y lugar donde fue enterrado Juan el Bautista.<br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Sebaste<br>Wikipedia: https://es.wikipedia.org/wiki/Samaria_(ciudad_antigua)<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Hogar de Abner y lugar donde fue enterrado Juan el Bautista.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sebaste</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Samaria_(ciudad_antigua)</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.188953,32.27549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Safed</name>
+        <description><![CDATA[Descripción: Población donde Jesús predicó.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Safed<br>Wikipedia: https://es.wikipedia.org/wiki/Safed<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Población donde Jesús predicó.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Safed</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Safed</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.497711,32.969818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sarepta</name>
+        <description><![CDATA[Descripción: Jesús pasó por aquí con sus discípulos en su viaje por Fenicia.<br>Reino: Fenicia<br>Tópico: https://urantiapedia.org/es/topic/Sarepta<br>Wikipedia: https://es.wikipedia.org/wiki/Sarepta<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús pasó por aquí con sus discípulos en su viaje por Fenicia.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Fenicia</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sarepta</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Sarepta</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.298801,33.447289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sarid</name>
+        <description><![CDATA[Descripción: Un tío de Jesús tenía aquí una granja.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Sarid<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Un tío de Jesús tenía aquí una granja.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sarid</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.195534,32.688007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Séforis</name>
+        <description><![CDATA[Descripción: Importante centro comercial reconstruido por Herodes Antipas y convertido en la capital de Galilea. Allí trabajó Jesús como herrero. José murió trabajando en el palacio de Herodes. Jesús les dijo a los apóstoles que la evitaran.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Sepphoris<br>Wikipedia: https://es.wikipedia.org/wiki/S%C3%A9foris<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Importante centro comercial reconstruido por Herodes Antipas y convertido en la capital de Galilea. Allí trabajó Jesús como herrero. José murió trabajando en el palacio de Herodes. Jesús les dijo a los apóstoles que la evitaran.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sepphoris</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/S%C3%A9foris</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.280827,32.752213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sibma</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Sibmah<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sibmah</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.775681,31.754808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sicar</name>
+        <description><![CDATA[Descripción: Jesús predicó aquí durante dos días.Tras su resurrección su décimo séptima aparición tuvo lugar en Sicar.<br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Sychar<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús predicó aquí durante dos días.Tras su resurrección su décimo séptima aparición tuvo lugar en Sicar.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sychar</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.281834,32.204861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sicar - Pozo de Jacob</name>
+        <description><![CDATA[Descripción: Aquí Jesús se encontró con Nalda la samaritana<br>Reino: Samaria<br>Tópico: <br>Wikipedia: https://es.wikipedia.org/wiki/Pozo_de_Jacob<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Aquí Jesús se encontró con Nalda la samaritana</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value/>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Pozo_de_Jacob</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.284637,32.208542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sicar - Monte Gerizim</name>
+        <description><![CDATA[Descripción: Sobre él existían unas ruinas del templo samaritano más importante.<br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Mount_Gerizim<br>Wikipedia: https://es.wikipedia.org/wiki/Monte_Guerizín<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Sobre él existían unas ruinas del templo samaritano más importante.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Mount_Gerizim</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Monte_Guerizín</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.272057,32.200794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sidón</name>
+        <description><![CDATA[Descripción: Durante su estancia con los discípulos en Fenicia, fue en esta ciudad donde Jesús tuvo el encuentro con Norana, la mujer que buscaba insistentemente curación para su hija.<br>Reino: Fenicia<br>Tópico: https://urantiapedia.org/es/topic/Sidon<br>Wikipedia: https://en.wikipedia.org/wiki/Sidon<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Durante su estancia con los discípulos en Fenicia, fue en esta ciudad donde Jesús tuvo el encuentro con Norana, la mujer que buscaba insistentemente curación para su hija.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Fenicia</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Sidon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Sidon</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.370399,33.564827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Shiloh<br>Wikipedia: https://en.wikipedia.org/wiki/Shiloh<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Shiloh</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Shiloh</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.289158,32.055027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siquén nueva o Neapolis</name>
+        <description><![CDATA[Descripción: <br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Shechem<br>Wikipedia: https://es.wikipedia.org/wiki/Nablus<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Shechem</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Nablus</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.264526,32.220879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siquén antigua</name>
+        <description><![CDATA[Descripción: <br>Reino: Samaria<br>Tópico: https://urantiapedia.org/es/topic/Shechem<br>Wikipedia: https://en.wikipedia.org/wiki/Shechem<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Samaria</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Shechem</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Shechem</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.281567,32.210285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sitim</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Shittim<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Shittim</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.684387,31.824717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sucot</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Succoth<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Succoth</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.622738,32.187847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunem</name>
+        <description><![CDATA[Descripción: Jesús predicó en este lugar.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Shunem<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús predicó en este lugar.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Shunem</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.328953,32.595867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taanac</name>
+        <description><![CDATA[Descripción: <br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Taanach<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Taanach</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.21973,32.520443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamna</name>
+        <description><![CDATA[Descripción: Jesús pasó por aquí.<br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Thamna<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Jesús pasó por aquí.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Thamna</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.113117,32.002388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamna</name>
+        <description><![CDATA[Descripción: <br>Reino: Judea<br>Tópico: https://urantiapedia.org/es/topic/Thamna<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Judea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Thamna</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.040585,31.702856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tariquea</name>
+        <description><![CDATA[Descripción: Según El Libro de Urantia, Tomás era de aquí, y Jesús visitó esta población en varias ocasiones. Los investigadores suelen identificar Tariquea con Magdala, situándola en la costa del lago más al norte, pero El Libro de Urantia se decanta claramente por esta ubicación. En la zona, llamada hoy Khibert Kerak o Beth Yerah, se han encontrado restos que confirman la existencia de una población. Incluso la cerámica encontrada ha dado nombre a un período cerámico.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Tarichea<br>Wikipedia: https://en.wikipedia.org/wiki/Khirbet_Kerak<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Según El Libro de Urantia, Tomás era de aquí, y Jesús visitó esta población en varias ocasiones. Los investigadores suelen identificar Tariquea con Magdala, situándola en la costa del lago más al norte, pero El Libro de Urantia se decanta claramente por esta ubicación. En la zona, llamada hoy Khibert Kerak o Beth Yerah, se han encontrado restos que confirman la existencia de una población. Incluso la cerámica encontrada ha dado nombre a un período cerámico.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Tarichea</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://en.wikipedia.org/wiki/Khirbet_Kerak</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.568901,32.725307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiberíades o Tiberias</name>
+        <description><![CDATA[Descripción: Tiberíades o Tiberias. Ciudad fundada por Herodes Antipas. Jesús estuvo aquí en varias ocasiones.<br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Tiberias<br>Wikipedia: https://es.wikipedia.org/wiki/Tiber%C3%ADades<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Tiberíades o Tiberias. Ciudad fundada por Herodes Antipas. Jesús estuvo aquí en varias ocasiones.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Tiberias</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Tiber%C3%ADades</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.542,32.7868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiro</name>
+        <description><![CDATA[Descripción: Esta es una de las poblaciones en las que se detuvo Jesús en su viaje de huida al norte, a Fenicia. Esta ciudad y Sidón dejaron un grato recuerdo en Jesús. Se formó una amplia comunidad de creyentes en él, y recibió el honor de una de las apariciones de Jesús después de muerto.<br>Reino: Fenicia<br>Tópico: https://urantiapedia.org/es/topic/Tyre<br>Wikipedia: https://es.wikipedia.org/wiki/Tiro<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Esta es una de las poblaciones en las que se detuvo Jesús en su viaje de huida al norte, a Fenicia. Esta ciudad y Sidón dejaron un grato recuerdo en Jesús. Se formó una amplia comunidad de creyentes en él, y recibió el honor de una de las apariciones de Jesús después de muerto.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Fenicia</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Tyre</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Tiro</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.195747,33.269264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiro</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Tyrus<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Tyrus</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.804016,31.853559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tolemaida</name>
+        <description><![CDATA[Descripción: Antigua ciudad filistea de Akk o Akko o Acre. Jesús la visitó en varias ocasiones, tanto en su juventud como en los viajes con los apóstoles.<br>Reino: Fenicia<br>Tópico: https://urantiapedia.org/es/topic/Ptolemais<br>Wikipedia: https://es.wikipedia.org/wiki/Acre_(Israel)<br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Antigua ciudad filistea de Akk o Akko o Acre. Jesús la visitó en varias ocasiones, tanto en su juventud como en los viajes con los apóstoles.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Fenicia</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Ptolemais</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value>https://es.wikipedia.org/wiki/Acre_(Israel)</value>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.067947,32.920883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zafón</name>
+        <description><![CDATA[Descripción: Una de las poblaciones recorridas en la misisón de Perea.<br>Reino: Perea<br>Tópico: https://urantiapedia.org/es/topic/Zaphon<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Una de las poblaciones recorridas en la misisón de Perea.</value>
+          </Data>
+          <Data name="Reino">
+            <value>Perea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Zaphon</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.579159,32.264641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zabulón</name>
+        <description><![CDATA[Descripción: <br>Reino: Galilea<br>Tópico: https://urantiapedia.org/es/topic/Zebulun<br>Wikipedia: <br>Excavación: ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="Reino">
+            <value>Galilea</value>
+          </Data>
+          <Data name="Tópico">
+            <value>https://urantiapedia.org/es/topic/Zebulun</value>
+          </Data>
+          <Data name="Wikipedia">
+            <value/>
+          </Data>
+          <Data name="Excavación">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.430687,33.046684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
