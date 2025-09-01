@@ -50,7 +50,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">II. Un niño más</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -78,7 +78,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">IV. Realidad y sueños</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -106,7 +106,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">VI. El viaje a Roma</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -135,7 +135,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">VIII. De Roma a Mesopotamia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -163,7 +163,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">X. El viaje por Palestina</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -192,7 +192,7 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_06" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -218,8 +218,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XIII. Doce apóstoles</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">XIV. Un nuevo profeta</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -247,8 +247,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XV. En la tierra de los gentiles</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">XVI. En Galilea</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -275,8 +275,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XVII. La huida al norte</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">XVIII. En la Decápolis</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -303,8 +303,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XIX. Setenta discípulos</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">XX. La misión de Perea</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -332,8 +332,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XXI. La última semana en Jerusalén</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">XXII. El día oscuro</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -361,8 +361,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XXIII. La desesperación y la gloria</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-0 pb-2">XXIV. Un nuevo camino</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
@@ -387,8 +387,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Epílogo:</div>
 			<div class="urantiapedia-card-title urantiapedia-book py-0">XXV. «Algún día volveré...»</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Jan Herca</div>
-			<div href="/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_07" class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
 				</a>
 			</div>
