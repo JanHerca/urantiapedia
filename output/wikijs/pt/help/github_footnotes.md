@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarefa está atualmente encerrada e fechada para os 25 idiomas disponíveis.
+> Esta tarefa está atualmente encerrada e fechada para os 27 idiomas disponíveis.
 {.is-info}
 
 ## Procedimento antigo (obsoleto)

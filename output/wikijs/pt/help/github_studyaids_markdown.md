@@ -26,7 +26,7 @@ Aqui é descrito como obter os auxílios de estudo do _O Livro de Urântia_, que
 
 Tudo o que foi dito sobre livros em [Obter artigos](/pt/help/github_articles_markdown) também se aplica aqui. Os auxílios de estudo geralmente são encontrados como artigos, na forma de uma página da Web que já os hospeda, como PDF sem texto ou como PDF com texto. De qualquer forma, o primeiro passo é converter o auxílio de estudo para o formato Markdown.
 
-O catálogo de auxílios de estudo está localizado aqui: [Planned Study Aids](/en/index/studyaids).
+O catálogo de auxílios de estudo está localizado aqui: [Planned Study Aids](/en/index/study_aids).
 
 A tarefa agora é usar o conteúdo dos auxílios de estudo para obter os arquivos Markdown que precisamos.
 
@@ -46,7 +46,7 @@ Tanto o arquivo Markdown no caso de auxílio de estudo curto quanto a pasta para
   - O nome estará sempre em inglês, portanto, se o artigo original não estiver em inglês, o título será traduzido.
   - Os espaços em branco são substituídos por sublinhados.
   - Caracteres especiais como dois pontos ou exclamações são removidos.
-  - Por exemplo, se o título de um auxílio de estudo for *Estudo do Universo Mestre*, um nome possível seria `Estudo_do_Universo_Mestre`. Se o título fosse *Las enseñanzas de Jesús* (espanhol), o nome seria `Jesus_teachings`.
+  - Por exemplo, se o título de um auxílio de estudo for *Study of the Master Universe*, um nome possível seria `Study_of_the_Master_Universe`. Se o título fosse *Las enseñanzas de Jesús* (espanhol), o nome seria `Jesus_teachings`.
 
 Se você é um “Assistente Editor” e não vai usar a plataforma GitHub para enviar arquivos, basta criar uma pasta no seu PC para deixar os apostilas que você criou. Então, quando você enviar seu trabalho para um Administrador, ele cuidará de criar as pastas corretas.
 

@@ -38,10 +38,10 @@ As pastas que compõem o projeto *Urantiapedia* no Github são estas:
   - **markdown** / **xx** (`en`, `es`, etc.):  
     - **paramony**: contém a versão mais recente do Paramony. Anteriormente, eram usados ​​arquivos JSON, mas agora são usados ​​arquivos Markdown. Os arquivos para o idioma inglês contêm as tabelas principais; arquivos de outros idiomas são apenas traduções.
     - **outras pastas**: arquivos Markdown temporários para artigos e livros obtidos de uma conversão de formato PDF / DOCX ou ao digitalizar, cada um dentro de uma pasta para cada idioma (`en`, `es`, etc.).O conteúdo desta pasta não será mantido ao longo do tempo, pois será corrigido e movido para a pasta de saída.
-    - **3dmodels_catalog.md**: catálogo de modelos 3D. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
-    - **image_catalog.md**: catálogo de imagens. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
-    - **map_catalog.md**: Catálogo de mapas. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
-    - **paralells.md** : catálogo geral de paralelos entre _O Livro de Urântia_ e o restante do conteúdo (artigos, Bíblia, outros livros, etc.). 
+    - **3dmodels_catalog\.md**: catálogo de modelos 3D. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
+    - **image_catalog\.md**: catálogo de imagens. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
+    - **map_catalog\.md**: Catálogo de mapas. O arquivo para o idioma inglês contém as tabelas principais; arquivos de outros idiomas são apenas traduções. 
+    - **paralells\.md** : catálogo geral de paralelos entre _O Livro de Urântia_ e o restante do conteúdo (artigos, Bíblia, outros livros, etc.). 
   - **mediawiki** `DEPRECATED`: pasta com conteúdo antigo em formato Wikitexto para MediaWiki. A primeira versão de *Urantiapedia* foi feita com MediaWiki, mas a atual é criada com *Wiki.js*. 
     - **articles-xx**: Pastas obsoletas com exemplos de artigos no formato Wikitexto. 
     - **main-pages-xx**: Pastas obsoletas com conteúdo de ajuda no formato Wikitexto. 
@@ -64,7 +64,6 @@ As pastas que compõem o projeto *Urantiapedia* no Github são estas:
       - **Bible**: Conteúdo da Bíblia. :warning: IMPORTANTE: os arquivos desta pasta *não devem ser editados*. Em vez disso você tem que editar os arquivos na pasta `input` e então usar *Urantiapedia Tools*. 
       - **book**: Biblioteca (Livros), organizados em pastas por autor. Geralmente no formato Markdown. 
       - **help**: páginas de ajuda da Urantiapedia. No formato Markdown.
-      - **imagem**: Imagens do site. 
       - **index**: Índices. :warning: IMPORTANTE: Alguns arquivos nesta pasta, mas não todos, *não devem ser editados*. Em vez disso, você deve usar as *Ferramentas Urantiapedia* para gerá-los. 
       - **map**: Cartoteca (Mapas). Por enquanto eles estão no formato Markdown com um *iframe* que aponta para o Google Maps, mas no futuro apenas arquivos KML serão salvos aqui. 
       - **news**: Notícias mensais do projeto em formato Markdown. 
@@ -72,6 +71,8 @@ As pastas que compõem o projeto *Urantiapedia* no Github são estas:
       - **tests**: páginas onde você pode testar conteúdos futuros. 
       - **The_Urantia_Book** e **The_Urantia_Book_Multiple**: Documentos do Livro de Urântia. :warning: IMPORTANTE: os arquivos desta pasta *não devem ser editados*. Em vez disso você tem que editar os arquivos na pasta `input` e então usar *Urantiapedia Tools*. 
       - **topic**: Enciclopédia. :warning: IMPORTANTE: os arquivos desta pasta *não devem ser editados*. Em vez disso você tem que editar os arquivos na pasta `input` e então usar *Urantiapedia Tools*. 
+    - **imagem**: Imagens do site. 
+    - **tests**: páginas onde você pode testar conteúdos futuros. 
 
 As pastas marcadas como *obsoletas* podem ser ignoradas, pois contêm material que não está mais sendo usado no processo e provavelmente será excluído no futuro. 
 

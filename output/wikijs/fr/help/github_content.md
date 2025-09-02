@@ -38,10 +38,10 @@ Les dossiers qui composent le projet *Urantiapedia* sur Github sont les suivants
   - **markdown** / **xx** (`en`, `es`, etc.) :
     - **paramony** : contient la dernière version de Paramony. Auparavant, les fichiers JSON étaient utilisés, mais désormais les fichiers Markdown sont utilisés. Les fichiers pour la langue anglaise contiennent les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
     - **autres dossiers** : fichiers Markdown temporaires pour les articles et les livres obtenus à partir d'une conversion de format PDF / DOCX ou lors de la numérisation, chacun dans un dossier pour chaque langue (`en`, `es`, etc.).Le contenu de ce dossier ne sera pas conservé dans le temps car il sera corrigé et déplacé vers le dossier de sortie.
-    - **3dmodels_catalog.md** : catalogue de modèles 3D. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
-    - **image_catalog.md** : catalogue d'images. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
-    - **map_catalog.md** : catalogue de cartes. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
-    - **paralells.md** : catalogue général de parallèles entre _Le Livre d'Urantia_ et le reste du contenu (articles, Bible, autres livres, etc.).
+    - **3dmodels_catalog\.md** : catalogue de modèles 3D. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
+    - **image_catalog\.md** : catalogue d'images. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
+    - **map_catalog\.md** : catalogue de cartes. Le fichier pour la langue anglaise contient les tableaux principaux ; les fichiers d'autres langues ne sont que des traductions.
+    - **paralells\.md** : catalogue général de parallèles entre _Le Livre d'Urantia_ et le reste du contenu (articles, Bible, autres livres, etc.).
   - **mediawiki** `DEPRECATED` : dossier avec l'ancien contenu au format Wikitext pour MediaWiki. La première version de *Urantiapedia* a été réalisée avec MediaWiki mais la version actuelle est créée avec *Wiki.js*.
     - **articles-xx** : Dossiers obsolètes avec des exemples d'articles au format Wikitext.
     - **main-pages-xx** : dossiers obsolètes avec du contenu d'aide au format Wikitext.
@@ -64,7 +64,6 @@ Les dossiers qui composent le projet *Urantiapedia* sur Github sont les suivants
         - **Bible** : Contenu de la Bible. :warning: IMPORTANT : les fichiers de ce dossier *ne doivent pas être modifiés*. Au lieu de cela, vous devez éditer les fichiers dans le dossier « input » et ensuite utiliser *Urantiapedia Tools*.
         - **book** : Bibliothèque (livres) organisés en dossiers par auteur. Généralement au format Markdown.
         - **help** : pages d'aide d'Urantiapedia. Au format Markdown.
-        - **image** : images du site.
         - **index** : indices. :warning: IMPORTANT : Certains fichiers de ce dossier, mais pas tous, *ne doivent pas être modifiés*. Au lieu de cela, vous devez utiliser les *Urantiapedia Tools* pour les générer.
         - **map** : Cartothèque (cartes). Pour l'instant, ils sont au format Markdown avec un *iframe* qui pointe vers Google Maps, mais à l'avenir seuls les fichiers KML seront enregistrés ici.
         - **news** : Actualités mensuelles du projet au format Markdown.
@@ -72,6 +71,8 @@ Les dossiers qui composent le projet *Urantiapedia* sur Github sont les suivants
         - **tests** : pages où vous pouvez tester le contenu futur.
         - **The_Urantia_Book** et **The_Urantia_Book_Multiple**: Documents du Livre d'Urantia. :warning: IMPORTANT : les fichiers de ce dossier *ne doivent pas être modifiés*. Au lieu de cela, vous devez éditer les fichiers dans le dossier « input » et ensuite utiliser *Urantiapedia Tools*.
         - **topic** : Encyclopédie. :warning: IMPORTANT : les fichiers de ce dossier *ne doivent pas être modifiés*. Au lieu de cela, vous devez éditer les fichiers dans le dossier « input » et ensuite utiliser *Urantiapedia Tools*.
+      - **image** : images du site.
+      - **tests** : pages où vous pouvez tester le contenu futur.
 
 Les dossiers marqués *obsolètes* peuvent être ignorés car ils contiennent du matériel qui n'est plus utilisé dans le processus et sera probablement supprimé à l'avenir.
 

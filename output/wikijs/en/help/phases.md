@@ -38,7 +38,7 @@ Conversion of each *Urantia Book* paper to a page with links to the *Bible* | Gi
 Conversion of each *Bible* chapter in a page with links to *The Urantia Book* | GitHub | Editors-in-Chief
 Bulk load of files in Wiki.js format | GitHub | administrators
 
-> This phase is completed for 25 languages.
+> This phase is completed for 27 languages.
 {.is-success}
 
 ## Milestone II - Newspaper Library, Urantia Library and Encyclopedia
@@ -47,7 +47,7 @@ This phase expands the content of *Urantiapedia* with the following areas:
 - **Newspaper Archive**: Articles and study aids for *The Urantia Book*. There are many of them on the [Urantia Foundation](https://www.urantia.org/) website, in the [Fellowship](https://urantiabook.org/), in Urantia associations and on individual websites. No content will be published without the express permission of the authors whenever it is possible to locate them. The content can be uploaded in two ways: public edition (any editor can improve it), and closed edition (only the author or users authorized by the author are able to modify it). Articles may also include images.
 - **Library**. Religious books from the world's major religions, readers' books, and books other than the *Bible* that are suspected of being books used by the revelators in some parts of *The Urantia Book*. For example, Matthew Block is a reader who has done a great job finding this material. https://urantiabooksources.com/
 - **Encyclopedia**. The index created by the *Urantia Fellowship* for its English edition of *The Urantia Book* is being used as a guide to create it. This index, as it contains only brief annotations, is being expanded to become a full text that will serve as the initial version for each topic page. https://urantia-book.org/urantiabook/topical_index/index.htm
-- Indexes, pages with lists of links that serve as an entry point for the previous content.
+- **Indexes**, pages with lists of links that serve as an entry point for the previous content.
 
 
 Tasks | Where | Who
@@ -72,7 +72,7 @@ Bulk uploading files in Wiki.js format | GitHub | Administrators
 ## Milestone III - Translator
 
 This phase is solely for development. The following content has been incorporated:
-- An application in Urantiapedia Tools that automates the translation of multiple pages into multiple languages ​​at once. This tool does the following:
+- **An application in _Urantiapedia Tools_ that automates the translation** of multiple pages into multiple languages ​​at once. This tool does the following:
   - Allows you to connect to services like Google Cloud Translator to perform text translations.
   - Maintains the integrity of page style and formatting (Markdown and HTML).
   - Copies quotes from *The Urantia Book* and the *Bible* from the original or the existing translation and does not translate them, maintaining the integrity of the texts and reducing translation costs.
@@ -95,7 +95,7 @@ Developing a display mode for *The Urantia Book* in multiple translations | GitH
 
 ## Milestone IV - Extensions, corrections, Map Library and Media Library
 
-In this new phase, the current phase of the project, work will be done in these areas:
+In this new phase, which the project is currently in, work will be done in the following areas:
 - **Extensions** to the content from the previous phases.
 - **Corrections**. Since much of the content was introduced quickly, using automation whenever possible, there are many bugs and errors that will be ironed out over time.
 - **Map Library**. A collection of maps, both interactive and static, that clarifies the geographic information provided by *The Urantia Book*.

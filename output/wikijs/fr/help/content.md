@@ -48,7 +48,7 @@ UTILISATEUR | Tout utilisateur non enregistré. Uniquement pour l'affichage des 
 
 (2) AUTEUR signifie qu'il y aura plusieurs groupes de type AUTEUR, chacun contenant des utilisateurs qui sont les auteurs (ou autorisés par les auteurs) pour des pages données. Par exemple, s'il y a deux utilisateurs nommés Han Solo et Obi Wan qui veulent être auteurs, il y aura une paire ou des groupes nommés HANSOLO et OBIWAN, le premier avec l'utilisateur Han Solo, le second avec l'utilisateur Obi Wan. Le premier sera le seul utilisateur pouvant éditer des pages dans des chemins tels que `/en/article/hansolo/` (et toute autre langue autre que l'anglais), `/en/slides/hansolo`, etc. D'autre part, l'utilisateur d'Obi Wan peut éditer des pages dans des chemins tels que `/en/article/obiwan/`, `/en/slides/obiwan/` et ainsi de suite. Ainsi, certains utilisateurs seront les seuls éditeurs de certaines pages.
 
-Sachez que les seuls utilisateurs pouvant supprimer des pages sont les utilisateurs ADMIN pour vous assurer que les liens ne sont pas rompus. Il n'y a qu'une seule exception à cette règle. Donc le processus avec une page est :
+Sachez que les seuls utilisateurs pouvant supprimer des pages sont les utilisateurs ADMIN ou AUTHOR pour vous assurer que les liens ne sont pas rompus. Donc le processus avec une page est :
 1. Création :
   - les utilisateurs EDITEUR ou AUTEUR créent une page directement dans ce site, ou
   - L'utilisateur ADMIN crée un certain nombre de pages à la fois par un processus de téléchargement en masse (les utilisateurs ADMIN peuvent être aidés à ce sujet par les utilisateurs EDITOR et AUTEUR via l'utilisation de GitHub)
@@ -144,17 +144,18 @@ Esther | 1_Maccabees | 2_Maccabees | Job
 Psalms | Proverbs | Ecclesiastes | Song_of_Solomon
 Sirach | Wisdom_of_Solomon | Isaiah | Jeremiah
 Lamentations | Baruch | Ezekiel | Daniel
-Hosea | Joel | Amos | Obadiah | Jonah
-Micah | Nahum | Habakkuk | Zephaniah
-Haggai | Zechariah | Malachi | Matthew
-Mark | Luke | John | Acts
-Romans | 1_Corinthians | 2_Corinthians | Galatians
-Ephesians | Philippians | Colossians | 1_Thessalonians
-2_Thessalonians | 1_Timothy | 2_Timothy | Titus
-Philemon | Hebrews | James | 1_Peter
-2_Peter | 1_John | 2_John | 3_John
-Jude | Revelation | Bel_and_the_Dragon | Prayer_of_Manesseh
-Tobit | Judith | Enoch | Assumption_of_Moses
+Hosea | Joel | Amos | Obadiah
+Jonah | Micah | Nahum | Habakkuk
+Zephaniah | Haggai | Zechariah | Malachi
+Matthew | Mark | Luke | John
+Acts_of_the_Apostles | Romans | 1_Corinthians | 2_Corinthians
+Galatians | Ephesians | Philippians | Colossians
+1_Thessalonians | 2_Thessalonians | 1_Timothy | 2_Timothy
+Titus | Philemon | Hebrews | James
+1_Peter | 2_Peter | 1_John | 2_John
+3_John | Jude | Revelation | Bel_and_the_Dragon
+Prayer_of_Manesseh | Tobit | Judith | Book_of_Enoch
+Assumption_of_Moses
 
 D'autres livres liés à la Bible en tant que livres non canoniques peuvent être placés sous le même chemin s'ils sont liés au * Livre d'Urantia * d'une manière ou d'une autre. Un bon exemple est le livre d'Enoch, qui est mentionné explicitement.
 
@@ -165,6 +166,29 @@ En ce qui concerne tout autre livre en dehors de la Bible qui est une source pos
 Par exemple, Matthew Block est un lecteur qui a fait un excellent travail pour trouver les sources du *Livre d'Urantia*, comme expliqué dans https://urantiabooksources.com/. L'un des livres qu'il a identifié comme une source possible de révélateurs est *The Universe Around Us*, de sir James Jeans, publié en 1930. Comme ce livre est entré dans le domaine public, il peut être ajouté à *Urantiapedia*, et des liens vers ce livre peut ressembler à ceci :
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+
+### Autres livres des grandes religions du monde
+
+Les auteurs du _Livre d'Urantia_ recommandent de se familiariser avec les écrits religieux de toutes les religions, car ils contiennent tous des informations utiles ([LU 92:7.3](/fr/The_Urantia_Book/92#p7_3)) et parce que parvenir à une fraternité mondiale exige une meilleure connaissance de la littérature des autres nations ([LU 52:6.4](/fr/The_Urantia_Book/52#p6_4)). Suivant ce principe, Urantiapedia compilera des livres de toutes les grandes religions du monde.
+
+Ces livres peuvent être ajoutés au répertoire `book`. Ce répertoire comprendra des dossiers pour chaque religion majeure, comme suit :
+- `Bahaism`: livres de la foi bahaïe.
+- `Buddhism`: livres du bouddhisme.
+- `Christianity`: livres du christianisme.
+- `Confucianism`: livres sur le confucianisme.
+- `Hinduism`: livres sur l’hindouisme.
+- `Islam`: livres sur l’islam.
+- `Jainism`: livres sur le jaïnisme.
+- `Judaism`: livres sur le judaïsme.
+- `Shintoism`: livres sur le shintoïsme.
+- `Sikhism`: livres sur le sikhisme.
+- `Taoism`: livres sur le taoïsme.
+- `Zoroastrianism`: livres sur le zoroastrisme.
+
+Par exemple :
+- Un livre bahaï en espagnol : https://urantiapedia.org/es/book/Bahaism/The_Splendour_of_God
+- Un livre bouddhiste en anglais : https://urantiapedia.org/en/book/Buddhism/The_Gateless_Gate
+- Le Coran en français : https://urantiapedia.org/fr/book/Islam/Quran
 
 ### Autres livres de lecteurs
 
@@ -233,21 +257,18 @@ Chronologie de la vie de Jésus | Description des principaux événements de Jé
 
 ## Images
 
-Images pour toute la page Web :
+Les images constituent un contenu particulier, car elles ne nécessitent presque jamais de traduction dans différentes langues. C'est pourquoi elles se trouvent dans un dossier commun à l'ensemble du site web, situé à la racine : `https://urantiapedia.org/image/`. Il n'existe pas de dossier distinct pour chaque langue.
 
-* L'art d'Urantia. Dessins ou photographies qui évoquent un concept du livre.
-* Régimes. Infographies ou graphiques qui expliquent et clarifient les sujets du livre.
-* Photos. Images libres de droits utilisées n'importe où sur *Urantiapedia*.
-* Animations. Images animées qui clarifient les concepts qui impliquent une visualisation animée.
-* Plans. Cartes statiques, bien qu'elles puissent contenir des liens si elles sont au format `svg` ou si elles utilisent des [cartes d'images HTML](https://www.w3schools.com/html/html_images_imagemap.asp).
+Dans ce dossier, les images sont organisées en sous-dossiers comme suit :
 
-Le modèle d'URL pour les images est : `https://urantiapedia.org/en/image/[image_name].jpg`. Les noms des images doivent toujours être en anglais comme expliqué ci-dessus. Si les images n'ont pas besoin d'être localisées dans une langue, elles peuvent être laissées dans le chemin anglais par défaut, de sorte que le modèle d'URL pour elles serait : `https://urantiapedia.org/image/[image_name].jpg `, qui est plus compact.
+* `article`: Images pour les archives du journal. Il est préférable que toutes les images d'une publication soient situées dans un dossier spécifique à cette publication.
+* `book`: Images pour la bibliothèque. La structure du dossier doit être identique à celle du dossier `[language]/book` illustré ci-dessus.
+* `diagram`: Diagrammes. Infographies ou graphiques expliquant et clarifiant les sujets du livre.
+* `help`: Images pour cette aide Urantiapedia.
+* `map`: Cartes. Cartes statiques, pouvant contenir des liens si elles sont au format `svg` ou si elles utilisent des [images HTML](https://www.w3schools.com/html/html_images_imagemap.asp).
+* `The_Urantia_Book`: Images pour illustrer le _Livre d'Urantia_.
 
-Notez que dans le modèle d'URL, nous avons ajouté `jpg` comme format, mais il peut s'agir de l'un des formats pris en charge : `jpg`, `jpeg`, `png`, `gif`, `webp`, `svg`.
-
-Les images n'ont pas leur propre page Web par défaut. Les images sont accessibles via l'URL comme n'importe quelle ressource publique. Mais si c'était intéressant, des pages pourraient être créées qui offrent des informations sur une image elle-même. Par exemple, dans les URL suivantes, la première est l'URL de l'image de couverture officielle du *Livre d'Urantia* en anglais, et la seconde est la page possible contenant des informations sur cette image :
-- `https://urantiapedia.org/image/the_urantia_book.jpg`
-- `https://urantiapedia.org/en/image/the_urantia_book`
+Formats d'image pris en charge : `jpg`, `jpeg`, `png`, `gif`, `webp` et `svg`.
 
 ## Plans
 
@@ -318,14 +339,13 @@ Chaque page dans *Urantiapedia* a à la fois un titre et une URL. Les titres peu
 - `[path]` est le chemin dépendant du type de page :
 	- Page du site : 'aide'
 	- *Le Livre d'Urantia* : `The_Urantia_Book`
-	- *La Bible* : 'Bible'
-	- Autres livres : 'livre'
-	- Sujet : «sujet»
-	- Index : 'index'
-	- Article : 'article'
-	- Image : «image»
-	- Présentation : «diapositives»
-	- Carte : `carte`
+	- *La Bible* : `Bible`
+	- Autres livres : `book`
+	- Sujet : `topic`
+	- Index : `index`
+	- Article : `article`
+	- Présentation : `slides`
+	- Carte : `map`
 	- Modèle 3D : `3dmodel`
 - `[user_name]`, s'il existe, est le nom de l'auteur, soit le nom d'un utilisateur pouvant modifier les pages, soit un auteur public. Il est recommandé de ne pas utiliser de caractères accentués dans le nom pour faciliter l'écriture.
 - `[page_name]` est le nom qui apparaît dans l'URL, qui doit avoir des traits de soulignement au lieu d'espaces blancs. Pour les livres, chaque page est un chapitre, donc `[page_name]` doit juste un numéro, celui du chapitre. Si le livre contient une préface, ce chapitre est numéroté zéro.

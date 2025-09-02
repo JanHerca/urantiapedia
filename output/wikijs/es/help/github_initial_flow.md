@@ -59,6 +59,8 @@ output
                 *.html
             The_Urantia_Book
                 *.html
+            The_Urantia_Book_Multiple
+                *.html
             topic
                 *.html
 ```

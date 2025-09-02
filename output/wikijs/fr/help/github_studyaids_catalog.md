@@ -28,12 +28,12 @@ Nous distinguons l'un de l'autre, même si plus tard ils sont tous enregistrés 
 
 ## Traiter
 
-Le processus est identique à celui expliqué pour les articles. Voir [Création d'un catalogue d'articles](/fr/help/github_articles_catalog). La liste provisoire des aides aux études se trouve ici : [Aide aux études prévues](/en/index/studyaids).
+Le processus est identique à celui expliqué pour les articles. Voir [Création d'un catalogue d'articles](/fr/help/github_articles_catalog). La liste provisoire des aides aux études se trouve ici : [Aide aux études prévues](/fr/index/study_aids).
 
 Pour modifier cette liste, vous pouvez le faire de deux manières :
 
-- Connectez-vous ici à _Urantiapedia_. Accédez à la liste des aides à l'étude : [Aides à l'étude prévues](/fr/index/aides à l'étude). Mettez la page en édition dans le menu _Actions de la page > Éditer_ dans le panneau de boutons en haut à droite. Un simple éditeur Markdown s'ouvrira où vous pourrez modifier la liste. (IMPORTANT : pour pouvoir le faire, vous avez besoin d'un administrateur pour activer les autorisations de modification sur cette page.)
-- Dans le projet GitHub, modifiez ce fichier : `/output/wikijs/en/index/studyaids.md`. Pour le modifier, vous pouvez simplement télécharger ce fichier ou l'intégralité du projet depuis GitHub. Consultez l'[Aide des éditeurs adjoints](/fr/help/github_assistant) pour savoir comment télécharger des éléments depuis GitHub.
+- Connectez-vous ici à _Urantiapedia_. Accédez à la liste des aides à l'étude : [Aides à l'étude prévues](/fr/index/study_aids). Mettez la page en édition dans le menu _Actions de la page > Éditer_ dans le panneau de boutons en haut à droite. Un simple éditeur Markdown s'ouvrira où vous pourrez modifier la liste. (IMPORTANT : pour pouvoir le faire, vous avez besoin d'un administrateur pour activer les autorisations de modification sur cette page.)
+- Dans le projet GitHub, modifiez ce fichier : `/output/wikijs/en/index/study_aids.html`. Pour le modifier, vous pouvez simplement télécharger ce fichier ou l'intégralité du projet depuis GitHub. Consultez l'[Aide des éditeurs adjoints](/fr/help/github_assistant) pour savoir comment télécharger des éléments depuis GitHub.
 
 Dans l'un ou l'autre des deux cas précédents, le fichier à éditer est un fichier Markdown très simple où pour chaque aide à l'étude doivent figurer, sous forme de tableau :
 
@@ -53,7 +53,7 @@ Par exemple:
 
 ## Envoi de fichiers
 
-Si vous avez modifié la liste du fichier sur GitHub, vous avez deux options pour valider vos modifications : 1) si vous êtes un «éditeur en chef», utilisez GitHub comme indiqué dans l'[Aide des éditeurs en chef](/fr/help/github) ; si vous êtes un «éditeur adjoint», vous pouvez simplement envoyer ce fichier Markdown modifié à l'e-mail de n'importe quel administrateur ou à urantiapedia@gmail.com.
+Si vous avez modifié la liste du fichier sur GitHub, vous avez deux options pour valider vos modifications : si vous êtes un «éditeur en chef», utilisez GitHub comme indiqué dans l'[Aide des éditeurs en chef](/fr/help/github) ; si vous êtes un «éditeur adjoint», vous pouvez simplement envoyer ce fichier Markdown modifié à l'e-mail de n'importe quel administrateur ou à urantiapedia@gmail.com.
 
 ## Liens externes
 

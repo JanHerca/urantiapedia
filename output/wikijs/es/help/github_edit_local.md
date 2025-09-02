@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content.md">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
       </tr>
     </tbody>
   </table>
@@ -95,7 +95,7 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
 4. Los «Editores jefe» envían sus cambios a sus proyectos de GitHub a través de acciones *push* (4).
 5. Luego, los «Editores jefe» crean solicitudes de cambios (*pull requests*) (5) desde el sitio web de GitHub para ambos proyectos: *Urantiapedia* y *Urantiapedia-backup*.
 6. Estos *pull requests* de los «Editores Jefe» son revisados por un «Administrador», quien se encarga de hacer una fusión (*merge*) (6) de todos aquellos cambios que sean correctos. Cualquier cambio que no sea correcto será rechazado (6) y se notificará a los «Editores Jefe» para que lo corrijan.
-7. Cuando los cambios son correctos, el «Administrador» la fusión (*merge*) en el proyecto *urantiapedia-backup* original provoca que los cambios se sincronicen automáticamente con la web, que en pocos minutos aparecerá actualizada. (7)
+7. Cuando los cambios son correctos, la fusión (*merge*) en el proyecto *urantiapedia-backup* original provoca que los cambios se sincronicen automáticamente con la web, que en pocos minutos aparecerá actualizada. (7)
 
 ![](/image/help/github_workflow_version_2.png)
 
@@ -115,7 +115,7 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
       <tr>
         <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content.md">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
       </tr>
     </tbody>
   </table>

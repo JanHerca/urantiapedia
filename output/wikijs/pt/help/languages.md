@@ -26,6 +26,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Código | Idioma | Título
 --- | --- | ---
+ar | Árabe | كِتاب يورانشيا
 bg | Búlgaro | Книгата Урантия
 cs | Checo | Kniha Urântia
 da | Dinamarquês | Urântia Bogen
@@ -50,6 +51,7 @@ pt | Português | O Livro de Urântia
 ro | Romeno | Carta Urântia
 ru | Russo | Книга Урантии
 sv | Sueco | Urântiaboken
+zh | Chinês | 玉苒厦之书
 
 Os códigos de idioma devem seguir o padrão ISO 639-1 com duas letras para cada idioma. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
@@ -61,6 +63,7 @@ Estas são as aspas corretas para usar em cada idioma:
 
 Código | Idioma | Padrão primário e secundário | Alternativa primária e secundária
 --- | --- | --- | ---
+ar | Árabe | «...» | “...”
 bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
 cs | Czech | „...“ & ‚...‘ | »...« & ›...‹
 da | Danish | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
@@ -85,6 +88,7 @@ pt | Portuguese | «...» & “...” | “...” & ‘...’
 ro | Romanian | „...” & «...» | 
 ru | Russian | «...» & „...“ | “...” & ‘...’
 sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
+zh | Chinês | “⋯” & ‘⋯’ | 「⋯」& 『⋯』
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

@@ -26,6 +26,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Codage | Langue | Titre
 --- | --- | ---
+ar | arabe | كِتاب يورانشيا
 bg | bulgare | Книгата Урантия
 cs | tchèque | Kniha Urantia
 da | danois | Bogen d'Urantia
@@ -50,6 +51,7 @@ pt | portugais | O Livro de Urântia
 ro | Roumain | Cartea Urantia
 ru | russe | Книга Урантии
 sv | suédois | Urantiaboken
+zh | Chinois | 玉苒厦之书
 
 Les codes de langue doivent suivre la norme ISO 639-1 avec deux lettres pour chaque langue. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
@@ -61,30 +63,32 @@ Voici les guillemets corrects à utiliser dans chaque langue :
 
 Codage | Langue | Standard primaire & secondaire | Alternative primaire & secondaire
 --- | --- | --- | ---
-bg | bulgare | „...“ & '...' '...' | «...» & '...' '...'
-cs | tchèque | „...“ & ‚...' | »...« & ›...‹
-da | danois | »...« "..." & ›...‹ '...' | ”...” & '...'
-de | allemand | „...“ & ‚...' | »...« & ›...‹
-el | grec | «...» & «...» |
-en | anglais | "..." & '...' |
-es | Espagnol | «...» & «...» | "..." & '...'
+ar | arabe | «...» | “...”
+bg | bulgare | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
+cs | tchèque | „...“ & ‚...‘ | »...« & ›...‹
+da | danois | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
+de | allemand | „...“ & ‚...‘ | »...« & ›...‹
+el | grec | «...» & “...” | 
+en | anglais | “...” & ‘...’ | 
+es | Espagnol «...» & “...” | “...” & ‘...’
 et | estonien | „...“ |
 fa | persan | «...» |
-fi | finnois | ”...” & '...' | "..." & '...'
+fi | finnois | ”...” & ’...’ | »...» & ’...’
 en | français | «...» & «...» «...» | ‹...›
-he | hébreu | ”...” & '...' | „...” & ‚...'
+he | hébreu | ”...” & ’...’ | „...” & ‚...’
 hu | Hongrois | „...” & »...« |
-id | indonésien | "..." & '...' |
-it | italien | «...» & «...» | "..." & '...'
+id | indonésien “...” & ‘...’ | 
+it | italien «...» & “...” | “...” & ‘...’
 ja | japonais | 「...」& 『...』 |
-ko | coréen | "..." & '...' |
-lt | lituanien | „...“ & ‚...' |
-nl | néerlandais | "..." & '…' | „...” & ,…'
+ko | coréen “...” & ‘...’ | 
+lt | lituanien | „...“ & ‚...‘ | 
+nl | néerlandais | “...” & ‘…’ | „...” & ,…’
 pl | polonais | „...” | «...» & »...«
-pt | portugais | «...» & «...» | "..." & '...'
+pt | portugais «...» & “...” | “...” & ‘...’
 ro | Roumain | „...” & «...» |
-ru | russe | "..." & "..." | "..." & '...'
-sv | suédois | ”...” & '...' | »...» »...« & '...'
+ru | russe | «...» & „...“ | “...” & ‘...’
+sv | suédois | ”...” & ’...’ | »...» »...« & ’...’
+zh | chinois | “⋯” & ‘⋯’ | 「⋯」& 『⋯』
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

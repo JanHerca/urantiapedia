@@ -26,7 +26,7 @@ Here it is described how to obtain the study aids of _The Urantia Book_, that ha
 
 Everything said about books in [Get Articles](/en/help/github_articles_markdown) also applies here. Study aids are usually found as articles, in the form of a web page that already hosts them, as a PDF without text, or as a PDF with text. In any case, the first step is to convert the study aid to Markdown format.
 
-The study aid catalog is located here: [Planned Study Aids](/en/index/studyaids).
+The study aid catalog is located here: [Planned Study Aids](/en/index/study_aids).
 
 The task now is to use the content of the study aids to obtain the Markdown files we need.
 

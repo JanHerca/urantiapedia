@@ -74,7 +74,7 @@ For this we have set these goals:
 ## Principles
 
 *Urantiapedia* is not another *Urantia Book* related website. It is governed by several essential principles that make it radically different from any other existing website. No other website about *The Urantia Book* is trying to do this as far as we know:
-* **Globalization and Multi-language**: There are many associations’ or reader project’s sites. Although *The Urantia Book* exists today translated to a good number of languages (24 today and growing), almost all website’s content about the book is only in one language. Mostly in English, and some in Spanish. In other languages ​​there is almost nothing.
+* **Globalization and Multi-language**: There are many associations’ or reader project’s sites. Although *The Urantia Book* exists today translated to a good number of languages (27 today and growing), almost all website’s content about the book is only in one language. Mostly in English, and some in Spanish. In other languages ​​there is almost nothing.
 * **Multi-collaborative**: There are many websites about Urantia, and there is no one that is a Wiki with the capacity to be updated without risk by dozens of users at the same time.
 * **Selflesness**, done by inspired people, not by money: *Urantiapedia* is not a business, is not going to have advertisement or merchandising to fund-raising. We want inspired people that wants to do a selfless job and serve the community. In our opinion, this type of people brings the best work. If you recap the quote about the store of knowledge in Paradise, it works thanks to voluntary service.
 * **Completeness**, related to all *The Urantia Book*, not parts of it. There are a good number of websites that focuses only in part IV of *The Urantia Book* and makes Jesus the center of Urantia message. *Urantiapedia* goal is to help in the understanding of all the content in the book, and to help in the creation of a single store for linking and gathering all the available knowledge.
@@ -90,24 +90,24 @@ Let's see this principles in more detail.
 
 Consider this facts about translations:
 * It has been needed 40 years for first official translation to Spanish (Spanish is the second language with first-language speakers in the world, above English in this respect).
-* It has taken 70 years to have an official translation to Mandarin Chinese and still it is in progress (Mandarin Chinese is first language in first-language speakers in the world).
+* It has taken 70 years to have an official translation to Mandarin Chinese (Mandarin Chinese is first language in first-language speakers in the world).
 * 4 of 10 of the 10 languages with most [first-speakers in the world](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) still has no translation at all (Hindi, Bengali, Western Punjabi, Yue Chinese). These languages still [wait for a translation](https://www.urantia.org/news) and total more than a third of world first-speakers.
 * Less than 1% of secondary works have a translation in other languages, and 99% are only in English.
 
 <figure id="Principles_fig_1" class="image urantiapedia">
 <img src="/image/help/UB_potential_readers_by_native_speakers.png">
-<figcaption><em>Percentage of potential Urantia Book readers in the world in their first language (July 2022). In blue languages with available official translation, total 32.61%. That means 2/3 of world inhabitants cannot read the book in their first language.</em></figcaption>
+<figcaption><em>Percentage of potential readers of The Urantia Book worldwide in their native language (July 2024). Languages ​​with an official translation available are in blue, totaling 47%. Half of the world's population cannot read the book in their native language.</em></figcaption>
 </figure>
 
 Translations of *Urantia Book* has not follow a “most spoken first-language” strategy, which is reasonable. First translations were done by enthusiastic readers, and that inspiration came first in some developed countries before any other.
 
-But this strategy needs to be updated. Two-thirds of world inhabitants cannot read *Urantia Book* in their first language. The main population in the world that is benefiting from *Urantia Book* is mostly located in western developed countries. Isn’t this following the same error that first apostles commited when spreading the gospel to Rome and not to China?
+But this strategy needs updating. Half of the world's population can't read *The Urantia Book* in their native language. The main population in the world that is benefiting from *Urantia Book* is mostly located in western developed countries. Isn’t this following the same error that first apostles commited when spreading the gospel to Rome and not to China?
 
 > . . . it was regrettable that there was no one like Peter to go into **China**, or like Paul to enter **India** . . . [UB 130:2.3](/en/The_Urantia_Book/130#p2_3)
 
 <figure id="Principles_fig_2" class="image urantiapedia">
 <img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
-<figcaption><em>Percentage of potential Secondary Work’s readers in the world in their first-language (July 2022). In blue proportion available. Potential readers in first-language of Secondary Works are mainly English speakers.</em></figcaption>
+<figcaption><em>Percentage of potential Secondary Work’s readers in the world in their first-language (July 2024). In blue proportion available. Potential readers in first-language of Secondary Works are mainly English speakers.</em></figcaption>
 </figure>
 
 If we do the same math for Secondary Works the situation is even worst. There is very little concern about the translation of Secondary Works. They are mainly in English, with some small production in Spanish or French. But there is no interchange of ideas between communities with different languages through translations, and a big part of Urantia movement knows nothing about Secondary Works because they are only in English.
@@ -166,7 +166,7 @@ We need more tan anything inspired people, not money.
 
 * Inspired people, selfless people that wants to collaborate and to serve without waiting for a reward is the people that brings the best work. We need first of all that type of collaborators.
 * Of course we need more that just *Urantia Book* content. For the technical aspects of the project, we expect to need at least two developers, one in the *backend* systems and one for the *frontend* part. As this is completely unrelated to the content about the book, here we expect to hire some collaborators. So money is not the important part, but is important.
-* Regardless of the above, the main principle of *Urantiapedia* is trying to work selflessly, with a voluntary work, the same way the Paradise work is done. For this we are adding the project in different platforms that allow for easy collaboration of teams, as [BlueFields](https://blue-fields.netlify.app/), [GitHub](https://github.com/) and [Trello](https://trello.com/).
+* Regardless of the above, the main principle of *Urantiapedia* is trying to work selflessly, with a voluntary work, the same way the Paradise work is done. For this we are adding the project in different platforms that allow for easy collaboration of teams, as [BlueFields](https://blue-fields.netlify.app/) and [GitHub](https://github.com/).
 * *Urantiapedia* will not have advertisement or merchandising for fund-raising. It will be based solely on donations.
 * The costs will be always maintained as low as possible. The most costly part is creation of content and that part will always be selfless and voluntary.
 
@@ -201,7 +201,6 @@ In *Urantiapedia* this is going to be one of our essential principles. The conte
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 - [GitHub](https://github.com/)
-- [Trello](https://trello.com/)
 - [List of languages by number of native speakers](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
 - [Urantia Foundation News](https://www.urantia.org/news)
 

@@ -53,11 +53,13 @@ output
     wikijs
         fr
             Bible
-                (carpetas con los libros de la Biblia)
+                (dossiers contenant les livres de la Bible)
                     *.html
             index
                 *.html
             The_Urantia_Book
+                *.html
+            The_Urantia_Book_Multiple
                 *.html
             topic
                 *.html

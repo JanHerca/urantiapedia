@@ -138,7 +138,7 @@ Cada capítulo será un fichero dentro de la carpeta del libro llamado `xx.md` d
 - `Preface` para la página con el prefacio, si lo hay, que quedará como `Preface.md`.
 - Los apéndices deberán nombrarse como `Appendix_xx` donde `xx` sigue una numeración 1 a N.
 
-> En el caso de muchos libros bíblicos los ficheros con los capítulos están en formato HTML y no Markdown porque se han generado a partir de unos archivos en formato LaTeX que se encuentran dentro del proyecto en `/input/tex`. Este automatismo se debe a que muchos de esos libros se han obtenido por exportación desde el software [e-Sword](https://www.e-sword.net/), que genera un contenido parecido a LaTeX. Esta tarea está detallada en la sección del manual [Obtener la Biblia](/es/help/github_bible). Esta tarea ha quedado finalizada para los 25 idiomas soportados actualmente.
+> En el caso de muchos libros bíblicos los ficheros con los capítulos están en formato HTML y no Markdown porque se han generado a partir de unos archivos en formato LaTeX que se encuentran dentro del proyecto en `/input/tex`. Este automatismo se debe a que muchos de esos libros se han obtenido por exportación desde el software [e-Sword](https://www.e-sword.net/), que genera un contenido parecido a LaTeX. Esta tarea está detallada en la sección del manual [Obtener la Biblia](/es/help/github_bible). Esta tarea ha quedado finalizada para los 27 idiomas soportados actualmente.
 > Los libros extra-bíblicos que no se obtienen de e-Sword se añaden en formato Markdown siguiendo el proceso manual que se detalla en esta página.
 {.is-warning}
 

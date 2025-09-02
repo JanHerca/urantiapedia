@@ -38,7 +38,7 @@ Conversion de chaque article du *Livre d'Urantia* en une page avec des liens ver
 Conversion de chaque chapitre de la *Bible* en une page avec des liens vers *Le Livre d'Urantia* | GitHub | Rédacteurs en chef
 Chargement en masse de fichiers au format Wiki.js | GitHub | Administrateurs
 
-> Cette phase est réalisée pour 25 langues.
+> Cette phase est réalisée pour 27 langues.
 {.is-success}
 
 ## Étape II - Hémérothèque, Bibliothèque et Encyclopédie
@@ -47,7 +47,7 @@ Cette phase élargit le contenu d'*Urantiapedia* avec les domaines suivants :
 - **Hémérothèque** : Articles et aides à l'étude pour *Le Livre d'Urantia*. Il y en a beaucoup sur le site Web de la [Fondation Urantia](https://www.urantia.org/), dans la [Fellowship](https://urantiabook.org/), dans les associations Urantia et sur des sites Web individuels. Aucun contenu ne sera publié sans l'autorisation expresse des auteurs dès lors qu'il est possible de les localiser. Le contenu peut être téléchargé de deux manières: édition publique (tout éditeur peut l'améliorer) et édition fermée (seuls l'auteur ou les utilisateurs autorisés par l'auteur peuvent le modifier). Les articles peuvent également inclure des images.
 - **Bibliothèque**. Livres religieux des principales religions du monde, livres de lecteurs et livres autres que la *Bible* qui sont soupçonnés d'être des livres utilisés par les révélateurs dans certaines parties du *Livre d'Urantia*. Par exemple, Matthew Block est un lecteur qui a fait un excellent travail pour trouver ce matériel. https://urantiabooksources.com/
 - **Encyclopédie**. L'index créé par la *Urantia Fellowship* pour son édition anglaise du *Livre d'Urantia* est utilisé comme guide pour le créer. Cet index, car il ne contient que de brèves annotations, est en cours d'extension pour devenir un texte intégral qui servira de version initiale pour chaque page thématique. https://urantia-book.org/urantiabook/topical_index/index.htm
-- Index, pages avec des listes de liens qui servent de point d'entrée au contenu précédent.
+- **Index**, pages avec des listes de liens qui servent de point d'entrée au contenu précédent.
 
 
 Tâches | Où | Qui
@@ -72,7 +72,7 @@ Téléchargement en masse de fichiers au format Wiki.js | GitHub | Administrateu
 ## Étape III - Traducteur
 
 Cette phase est uniquement destinée au développement. Les contenus suivants ont été intégrés :
-- Une application dans _Urantiapedia Tools_ qui automatise la traduction en plusieurs langues de plusieurs pages à la fois. Cet outil effectue les opérations suivantes :
+- **Une application dans _Urantiapedia Tools_ qui automatise la traduction** en plusieurs langues de plusieurs pages à la fois. Cet outil effectue les opérations suivantes :
   - Permet de se connecter à des services tels que Google Cloud Translator pour traduire le texte.
   - Maintient l'intégrité du style et du format des pages (Markdown et HTML).
   - Copie les citations du *Livre d'Urantia* et de la *Bible* à partir de l'original ou de la traduction existante et ne les traduit pas, préservant ainsi l'intégrité des textes et réduisant le coût de la traduction.
@@ -95,7 +95,7 @@ Développement d'un mode d'affichage pour *Le Livre d'Urantia* en plusieurs trad
 
 ## Étape IV - Extensions, corrections, Cartothèque et Médiathèque
 
-Dans cette nouvelle phase, la phase dans laquelle se situe actuellement le projet, les travaux seront réalisés dans les domaines suivants :
+Dans cette nouvelle phase, dans laquelle se trouve actuellement le projet, les travaux seront réalisés dans les domaines suivants :
 - **Extensions** au contenu des phases précédentes.
 - **Corrections**. Étant donné qu’une grande partie du contenu a été introduite rapidement, en utilisant l’automatisation autant que possible, de nombreux bugs et erreurs seront corrigés au fil du temps.
 - **Cartothèque**. Une collection de cartes, à la fois interactives et en format d'images fixes, qui éclairent les informations géographiques contenues dans _Le Livre d'Urantia_.

@@ -48,7 +48,7 @@ USER | Any user not registered. Only for viewing pages.
 
 (2) AUTHOR means that there will be several groups of type AUTHOR, each one contaning users that are the authors (or authorized by the authors) for given pages. For example, if there are two users named Han Solo and Obi Wan that want to be authors, there will be a pair or groups named HANSOLO and OBIWAN, the first with Han Solo user, the second with Obi Wan user. The first will be the only user that could edit pages in paths like `/en/article/hansolo/` (and any other locale apart from English), `/en/slides/hansolo`, and so on. On the other hand, Obi Wan user could edit pages in paths like `/en/article/obiwan/`, `/en/slides/obiwan/` and so on. This way some users will be the only editors of certain pages.
 
-Be aware that the only users that can delete pages are ADMIN users to ensure that links are not broken. There is only one exception to this rule. So the process with a page is:
+Be aware that the only users that can delete pages are ADMIN or AUTHOR users to ensure that links are not broken. So the process with a page is:
 1. Creation:
   - EDITOR or AUTHOR users creates a page directly in this site, or
   - ADMIN user creates a number of pages at once by a bulk-upload process (ADMIN users can be helped on this by EDITOR and AUTHOR users through the use of GitHub)
@@ -144,17 +144,18 @@ Esther | 1_Maccabees | 2_Maccabees | Job
 Psalms | Proverbs | Ecclesiastes | Song_of_Solomon
 Sirach | Wisdom_of_Solomon | Isaiah | Jeremiah
 Lamentations | Baruch | Ezekiel | Daniel
-Hosea | Joel | Amos | Obadiah | Jonah
-Micah | Nahum | Habakkuk | Zephaniah
-Haggai | Zechariah | Malachi | Matthew
-Mark | Luke | John | Acts
-Romans | 1_Corinthians | 2_Corinthians | Galatians
-Ephesians | Philippians | Colossians | 1_Thessalonians
-2_Thessalonians | 1_Timothy | 2_Timothy | Titus
-Philemon | Hebrews | James | 1_Peter
-2_Peter | 1_John | 2_John | 3_John
-Jude | Revelation | Bel_and_the_Dragon | Prayer_of_Manesseh
-Tobit | Judith | Enoch | Assumption_of_Moses
+Hosea | Joel | Amos | Obadiah
+Jonah | Micah | Nahum | Habakkuk
+Zephaniah | Haggai | Zechariah | Malachi
+Matthew | Mark | Luke | John
+Acts_of_the_Apostles | Romans | 1_Corinthians | 2_Corinthians
+Galatians | Ephesians | Philippians | Colossians
+1_Thessalonians | 2_Thessalonians | 1_Timothy | 2_Timothy
+Titus | Philemon | Hebrews | James
+1_Peter | 2_Peter | 1_John | 2_John
+3_John | Jude | Revelation | Bel_and_the_Dragon
+Prayer_of_Manesseh | Tobit | Judith | Book_of_Enoch
+Assumption_of_Moses
 
 Other book related with Bible as non canonical books can be placed under the same path if they are related to *The Urantia Book* in some way. One good example is the book of Enoch, that is mentioned explicitly.
 
@@ -165,6 +166,29 @@ Regarding any other book apart from Bible that is a possible source of *The Uran
 For example, Matthew Block is a reader that has done a great work finding source material of *The Urantia Book*, as explained in https://urantiabooksources.com/. One of the books he has identified as a possible source of revelators is *The Universe Around Us*, from sir James Jeans, published in 1930. As this book has entered public domain, it can be added to *Urantiapedia*, and links to this book can be like this:
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+
+### Other Books from the World's Great Religions
+
+The authors of The Urantia Book recommend that we familiarize ourselves with the religious writings of all religions because they all contain beneficial material ([UB 92:7.3](/en/The_Urantia_Book/92#p7_3)) and because achieving worldwide brotherhood requires greater knowledge of the literature of other nations ([UB 52:6.4](/en/The_Urantia_Book/52#p6_4)). Following this principle, in Urantiapedia we will compile books from all the world's great religions.
+
+These books can be added to the `book` path. Within this path, there will be folders for each major religion, as follows:
+- `Bahaism`: books of the Bahai faith.
+- `Buddhism`: books of Buddhism.
+- `Christianity`: books of Christianity.
+- `Confucianism`: books about Confucianism.
+- `Hinduism`: books about Hinduism.
+- `Islam`: books about Islam.
+- `Jainism`: books about Jainism.
+- `Judaism`: books about Judaism.
+- `Shintoism`: books about Shintoism.
+- `Sikhism`: books about Sikhism.
+- `Taoism`: books about Taoism.
+- `Zoroastrianism`: books about Zoroastrianism.
+
+For example:
+- A Bahai book in Spanish: https://urantiapedia.org/es/book/Bahaism/The_Splendour_of_God
+- A Buddhist book in English: https://urantiapedia.org/en/book/Buddhism/The_Gateless_Gate
+- The Quran in French: https://urantiapedia.org/fr/book/Islam/Quran
 
 ### Other books from readers
 
@@ -233,21 +257,18 @@ Chronology of the life of Jesus | Description of main Jesus events and links to 
 
 ## Images
 
-Images for all the webpage:
+Images are special content because they almost always don't require translation into different languages. For this reason, the images are located in a common folder for the entire website, located at the root: `https://urantiapedia.org/image/`. There is no separate folder for each language.
 
-* Urantia art. Drawings or photographs that evoke a concept from the book.
-* Schemes. Infographics or graphics that explain and clarify topics in the book.
-* Photos. Royalty-free images used anywhere on the *Urantiapedia*.
-* Animations. Animated images that clarify concepts that involve an animated visualization.
-* Maps. Static maps, although they can contain links if they are in `svg` format or if they use [HTML image maps](https://www.w3schools.com/html/html_images_imagemap.asp).
+Within this folder, the images are organized into subfolders as follows:
 
-The URL pattern for images is: `https://urantiapedia.org/en/image/[image_name].jpg`. The names of images must always be in English as explained above. If the images do not need to be localized to any language, they can be left in the default English path, so the URL pattern for them would be: `https://urantiapedia.org/image/[image_name].jpg `, which is more compact.
+* `article`: Images for the Newspaper Archive. It is preferable that all images for a publication be located in a folder specific to that publication.
+* `book`: Images for the Library. The structure within the folder should be identical to that of the `[language]/book` folder shown above.
+* `diagram`: Diagrams. Infographics or charts that explain and clarify topics in the book.
+* help: Images for this Urantiapedia help.
+* `map`: Maps. Static maps, although they may contain links if they are in `svg` format or if they use [HTML image maps](https://www.w3schools.com/html/html_images_imagemap.asp).
+* `The_Urantia_Book`: Images to illustrate _The Urantia Book_.
 
-Notice that in the URL pattern we have add `jpg` as the format but it could be any of the supported ones: `jpg`, `jpeg`, `png`, `gif`, `webp`, `svg`.
-
-Images do not have their own web page by default. Images are accessed through the URL like any public resource. But if it were interesting, pages could be created that offer information about an image itself. For example, in the following URLs the first is the URL to the official cover image of *The Urantia Book* in English, and the second is the possible page with information about this image:
-- `https://urantiapedia.org/image/the_urantia_book.jpg`
-- `https://urantiapedia.org/en/image/the_urantia_book`
+Supported image formats include: `jpg`, `jpeg`, `png`, `gif`, `webp`, `svg`.
 
 ## Maps
 
@@ -323,7 +344,6 @@ Each page in *Urantiapedia* has both a title and an URL. Titles can be repeated 
 	- Topic: `topic`
 	- Index: `index`
 	- Article: `article`
-	- Image: `image`
 	- Presentation: `slides`
 	- Map: `map`
 	- 3D model: `3dmodel`

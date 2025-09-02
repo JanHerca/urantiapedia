@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Marco I - O Livro de Urântia e a Bíblia
 
-> Esta fase está concluída para 25 idiomas.
+> Esta fase está concluída para 27 idiomas.
 {.is-success}
 
 Esta fase é explicada em detalhes aqui: [Marco I](/pt/help/phases#marco-i-o-livro-de-urântia-e-a-bíblia).
@@ -54,13 +54,13 @@ Nesta fase, as tarefas a realizar em cada idioma são as seguintes (indicando o 
 
 Tarefas | Estado
 --- | ---
-Tradução de :ledger: _Paramony_ do inglês para a língua de chegada. | :heavy_check_mark: (em 25 línguas) \[[1](#note1)\]
-Obtendo :blue_book: _O Livro de Urântia_ na língua de chegada com o :ledger: _Paramony_ como notas de rodapé. | :heavy_check_mark: (em 25 idiomas)
-Obter uma tradução de :closed_book: _A Bíblia_ para a língua de chegada com o :ledger: _Paramony_ como notas de rodapé. | :heavy_check_mark: (em 25 idiomas)
-Carregamento de alterações utilizando [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (em 25 idiomas)
+Tradução de :ledger: _Paramony_ do inglês para a língua de chegada. | :heavy_check_mark: (em 27 línguas) \[[1](#note1)\]
+Obtendo :blue_book: _O Livro de Urântia_ na língua de chegada com o :ledger: _Paramony_ como notas de rodapé. | :heavy_check_mark: (em 27 idiomas)
+Obter uma tradução de :closed_book: _A Bíblia_ para a língua de chegada com o :ledger: _Paramony_ como notas de rodapé. | :heavy_check_mark: (em 27 idiomas)
+Carregamento de alterações utilizando [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (em 27 idiomas)
 
 
-(<a id="note1">1</a>) Sempre que são indicados 25 idiomas, são eles: búlgaro, checo, dinamarquês, alemão, grego, inglês, espanhol, estónio, persa, finlandês, francês, hebraico, húngaro, indonésio, italiano, japonês, coreano, lituano, holandês, polaco, português, romeno, russo, sueco, turco.
+(<a id="note1">1</a>) Sempre que são indicados 27 idiomas, são eles: árabe, búlgaro, checo, dinamarquês, alemão, grego, inglês, espanhol, estónio, persa, finlandês, francês, hebraico, húngaro, indonésio, italiano, japonês, coreano, lituano, holandês, polaco, português, romeno, russo, sueco, turco, chinês.
 
 ## Marco II - Hemeroteca, Biblioteca e Enciclopédia
 
@@ -206,7 +206,7 @@ Esta é a lista de todas as tarefas que considerámos neste momento. Se é um co
 | Conteúdo | Tarefas |
 | ------- | ----- |
 | :ledger: A _Paramony_ | Revisão da tradução automática de _Paramony_ (para outros idiomas que não o espanhol ou o inglês) |
-| :blue_book: _O Livro de Urântia_ | Adicionar novas traduções ou adicionar traduções existentes. Por exemplo, novas traduções como chinês e árabe, ou traduções já existentes como francês e coreano. |
+| :blue_book: _O Livro de Urântia_ | Adicionar novas traduções ou adicionar traduções existentes. Todas as novas traduções foram adicionadas, mas as existentes, como o francês e o coreano, estão em falta. |
 | :closed_book: _A Bíblia_ | Adição de novas traduções da _Bíblia_ quando forem adicionadas novas traduções do _Livro de Urântia_. |
 | :ledger: A _Paramónia_ | Adicionar novas traduções de _Paramony_ quando novas traduções de _The Urantia Book_ forem adicionadas |
 | :page_with_curl: _Arquivo de Jornal_ | Revisão de artigos existentes em inglês, espanhol e francês |
@@ -235,12 +235,12 @@ A tabela seguinte resume todo o progresso feito em cada tipo de conteúdo:
 
 Conteúdo | Status
 --- | ---
-:blue_book: _O Livro de Urântia_ com o :ledger: _Paramony_ | :heavy_check_mark: (em 25 línguas) \[[1](#note1)\]
-:closed_book: A _Bíblia_ com a :ledger: _Paramony_ | :heavy_check_mark: (em 25 idiomas)
+:blue_book: _O Livro de Urântia_ com o :ledger: _Paramony_ | :heavy_check_mark: (em 27 línguas) \[[1](#note1)\]
+:closed_book: A _Bíblia_ com a :ledger: _Paramony_ | :heavy_check_mark: (em 27 idiomas)
 Uma primeira versão da _Biblioteca de Jornais_ com artigos :page_with_curl: e :notebook: ajudas de estudo | :heavy_check_mark: (Inglês, Espanhol, Francês)
 Uma versão inicial da _Biblioteca_ com livros :green_book: das principais religiões e :books: livros supostamente utilizados pelos reveladores. | :heavy_check_mark: (Inglês, Espanhol, Francês)
 Uma primeira versão da :card_index: _Enciclopédia_ | :heavy_check_mark: (Inglês, Espanhol, Francês)
-:sunrise_over_mountains: Imagens (actualmente apenas em _O Livro de Urântia_) | :clock2: (em 25 línguas)
+:sunrise_over_mountains: Imagens (actualmente apenas em _O Livro de Urântia_) | :clock2: (em 27 línguas)
 :earth_americas: _Cartoteca_ | :clock2: (testes iniciais apenas em inglês e espanhol)
 :bar_chart: Apresentações para a _Mediateca_ | (não começou)
 :milky_way: Cenas 3D para a _Mediateca_ | :clock2: (teste inicial apenas em inglês)
@@ -248,7 +248,7 @@ Uma primeira versão da :card_index: _Enciclopédia_ | :heavy_check_mark: (Ingl�
 :movie_camera: Catálogo de vídeos para a _Mediateca_ | (não começou)
 
 
-(<a id="note1">1</a>) Sempre que são indicados 25 idiomas, são eles: búlgaro, checo, dinamarquês, alemão, grego, inglês, espanhol, estónio, persa, finlandês, francês, hebraico, húngaro, indonésio, italiano, japonês, coreano, lituano, holandês, polaco, português, romeno, russo, sueco, turco.
+(<a id="note1">1</a>) Sempre que são indicados 27 idiomas, são eles: árabe, búlgaro, checo, dinamarquês, alemão, grego, inglês, espanhol, estónio, persa, finlandês, francês, hebraico, húngaro, indonésio, italiano, japonês, coreano, lituano, holandês, polaco, português, romeno, russo, sueco, turco, chinês.
 
 ## Links externos
 

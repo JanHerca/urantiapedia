@@ -74,7 +74,7 @@ Para isso, estabelecemos estes objetivos:
 ## Princípios
 
 *Urantiapedia* não é outro site relacionado ao *Livro de Urântia*. É regido por vários princípios essenciais que o tornam radicalmente diferente de qualquer outro site existente. Nenhum outro site sobre *O Livro de Urântia* está tentando fazer isso até onde sabemos:
-* **Globalização e Multilinguagem**: Existem muitas associações ou sites de projetos de leitores. Embora *O Livro de Urântia* exista hoje traduzido para um bom número de idiomas (24 hoje e crescendo), quase todo o conteúdo do site sobre o livro está em apenas um idioma. Principalmente em inglês e alguns em espanhol. Em outras línguas não há quase nada.
+* **Globalização e Multilinguagem**: Existem muitas associações ou sites de projetos de leitores. Embora *O Livro de Urântia* exista hoje traduzido para um bom número de idiomas (27 hoje e crescendo), quase todo o conteúdo do site sobre o livro está em apenas um idioma. Principalmente em inglês e alguns em espanhol. Em outras línguas não há quase nada.
 * **Multi-colaborativo**: Existem muitos sites sobre Urântia, e não há nenhum que seja um Wiki com capacidade de ser atualizado sem risco por dezenas de usuários ao mesmo tempo.
 * **Altruísmo**, feito por pessoas inspiradas, não por dinheiro: *Urantiapedia* não é um negócio, não vai ter propaganda ou merchandising para angariar fundos. Queremos pessoas inspiradas que queiram fazer um trabalho altruísta e servir a comunidade. Em nossa opinião, esse tipo de pessoa traz o melhor trabalho. Se você recapitular a citação sobre o estoque de conhecimento no Paraíso, funciona graças ao serviço voluntário.
 * **Completude**, relacionada a todo *O Livro de Urântia*, não a partes dele. Há um bom número de sites que se concentram apenas na parte IV do *O Livro de Urântia* e fazem de Jesus o centro da mensagem de Urântia. O objetivo da *Urantiapedia* é ajudar na compreensão de todo o conteúdo do livro e na criação de uma única loja para vincular e reunir todo o conhecimento disponível.
@@ -90,24 +90,24 @@ A [Fundação Urântia](https://www.urantia.org/) e associações fizeram um ót
 
 Considere estes fatos sobre traduções:
 * Foram necessários 40 anos para a primeira tradução oficial para o espanhol (o espanhol é a segunda língua com falantes de primeira língua no mundo, acima do inglês neste aspecto).
-* Demorou 70 anos para ter uma tradução oficial para o chinês mandarim e ainda está em andamento (chinês mandarim é a primeira língua em falantes de primeira língua no mundo).
+* Demorou 70 anos para ter uma tradução oficial para o chinês mandarim (chinês mandarim é a primeira língua em falantes de primeira língua no mundo).
 * 4 de 10 dos 10 idiomas com mais [primeiros falantes do mundo](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) ainda não têm tradução (hindi, bengali, punjabi ocidental, chinês yue) . Esses idiomas ainda [aguardam a tradução](https://www.urantia.org/news) e totalizam mais de um terço dos primeiros falantes do mundo.
 * Menos de 1% dos trabalhos secundários têm tradução em outros idiomas e 99% são apenas em inglês.
 
 <figure id="Principles_fig_1" class="image urantiapedia">
 <img src="/image/help/UB_potential_readers_by_native_speakers.png">
-<figcaption><em>Porcentagem de leitores potenciais do Livro de Urântia no mundo em sua primeira língua (julho de 2022). Nas línguas azuis com tradução oficial disponível, totalizam 32,61%. Isso significa que 2/3 dos habitantes do mundo não podem ler o livro em sua primeira língua.</em></figcaption>
+<figcaption><em>Percentagem de potenciais leitores de O Livro de Urântia em todo o mundo na sua língua nativa (julho de 2024). Os idiomas com tradução oficial disponível estão a azul, totalizando 47%. Metade da população mundial não consegue ler o livro na sua língua materna.</em></figcaption>
 </figure>
 
 As traduções do *Livro de Urântia* não seguem uma estratégia de “língua mais falada”, o que é razoável. As primeiras traduções foram feitas por leitores entusiasmados, e essa inspiração veio primeiro em alguns países desenvolvidos antes de qualquer outro.
 
-Mas essa estratégia precisa ser atualizada. Dois terços dos habitantes do mundo não podem ler o *Livro de Urântia* em sua primeira língua. A principal população do mundo que está se beneficiando do *Livro de Urântia* está localizada principalmente nos países ocidentais desenvolvidos. Não é seguir o mesmo erro que os primeiros apóstolos cometeram ao pregar o evangelho em Roma e não na China?
+Mas esta estratégia precisa de ser atualizada. Metade da população mundial não sabe ler *O Livro de Urântia* na sua língua materna. A principal população do mundo que está se beneficiando do *Livro de Urântia* está localizada principalmente nos países ocidentais desenvolvidos. Não é seguir o mesmo erro que os primeiros apóstolos cometeram ao pregar o evangelho em Roma e não na China?
 
 > ...  lamentável é que não tivesse havido ninguém como Pedro, para ir à **China**, ou como Paulo, para ir à **Índia**,... [LU 130:2.3](/pt/The_Urantia_Book/130#p2_3)
 
 <figure id="Principles_fig_2" class="image urantiapedia">
 <img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
-<figcaption><em>Porcentagem de leitores potenciais de Obra Secundária no mundo em sua primeira língua (julho de 2022). Na proporção azul disponível. Os leitores potenciais em primeira língua de obras secundárias são principalmente falantes de inglês.</em></figcaption>
+<figcaption><em>Porcentagem de leitores potenciais de Obra Secundária no mundo em sua primeira língua (julho de 2024). Na proporção azul disponível. Os leitores potenciais em primeira língua de obras secundárias são principalmente falantes de inglês.</em></figcaption>
 </figure>
 
 Se fizermos a mesma matemática para os Trabalhos Secundários, a situação é ainda pior. Há muito pouca preocupação com a tradução de Obras Secundárias. São principalmente em inglês, com alguma pequena produção em espanhol ou francês. Mas não há intercâmbio de idéias entre comunidades com línguas diferentes por meio de traduções, e grande parte do movimento de Urântia não sabe nada sobre Obras Secundárias porque elas são apenas em inglês.
@@ -166,7 +166,7 @@ Precisamos de mais pessoas inspiradas em qualquer coisa, não de dinheiro.
 
 * Pessoas inspiradas, pessoas altruístas que querem colaborar e servir sem esperar recompensa são as pessoas que trazem o melhor trabalho. Precisamos antes de tudo desse tipo de colaboradores.
 * Claro que precisamos de mais do que apenas conteúdo do *Livro de Urântia*. Para os aspectos técnicos do projeto, esperamos precisar de pelo menos dois desenvolvedores, um nos sistemas *backend* e outro na parte *frontend*. Como isso não tem nada a ver com o conteúdo do livro, aqui esperamos contratar alguns colaboradores. Então o dinheiro não é a parte importante, mas é importante.
-* Independentemente do que foi dito acima, o princípio principal da *Urantiapedia* é tentar trabalhar desinteressadamente, com um trabalho voluntário, da mesma forma que o trabalho do Paraíso é feito. Para isso estamos adicionando o projeto em diferentes plataformas que permitem a fácil colaboração das equipes, como [BlueFields](https://blue-fields.netlify.app/), [GitHub](https://github.com/) e [Trello](https://trello.com/).
+* Independentemente do que foi dito acima, o princípio principal da *Urantiapedia* é tentar trabalhar desinteressadamente, com um trabalho voluntário, da mesma forma que o trabalho do Paraíso é feito. Para isso estamos adicionando o projeto em diferentes plataformas que permitem a fácil colaboração das equipes, como [BlueFields](https://blue-fields.netlify.app/), [GitHub](https://github.com/).
 * *Urantiapedia* não terá propaganda ou merchandising para angariação de fundos. Será baseado apenas em doações.
 * Os custos serão sempre mantidos o mais baixo possível. A parte mais cara é a criação de conteúdo e essa parte sempre será altruísta e voluntária.
 
@@ -201,7 +201,6 @@ Na *Urantiapedia* este será um dos nossos princípios essenciais. O conteúdo d
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 - [GitHub](https://github.com/)
-- [Trello](https://trello.com/)
 - [Lista de idiomas por número de falantes nativos](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
 - [Notícias da Fundação Urântia](https://www.urantia.org/news)
 

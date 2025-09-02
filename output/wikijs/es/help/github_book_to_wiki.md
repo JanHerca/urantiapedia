@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarea ya está actualmente terminada y cerrada para los 25 idiomas disponibles.
+> Esta tarea ya está actualmente terminada y cerrada para los 27 idiomas disponibles.
 {.is-info}
 
 Los ficheros de *El Libro de Urantia* en formato JSON con las notas al pie se generan con la herramienta *Actualizar Refs Biblia en Libro de Urantia (JSON)*, como ya hemos visto, y los ficheros resultantes se guardan en carpetas `input/json/book-xx-footnotes`.

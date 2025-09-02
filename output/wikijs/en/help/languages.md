@@ -26,6 +26,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Code | Language | Title
 --- | --- | ---
+ar | Arabic | كِتاب يورانشيا
 bg | Bulgarian | Книгата Урантия
 cs | Czech | Kniha Urantia
 da | Danish | Urantia Bogen
@@ -50,6 +51,7 @@ pt | Portuguese | O Livro de Urântia
 ro | Romanian | Cartea Urantia
 ru | Russian | Книга Урантии
 sv | Swedish | Urantiaboken
+zh | Chinese | 玉苒厦之书
 
 The language codes must follow the ISO 639-1 standard with two letters for each language. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
@@ -61,6 +63,7 @@ These are the correct quotation marks to use in each language:
 
 Code | Language | Standard primary & secondary | Alternative primary & secondary
 --- | --- | --- | --- 
+ar | Arabic | «...» | “...”
 bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
 cs | Czech | „...“ & ‚...‘ | »...« & ›...‹
 da | Danish | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
@@ -85,6 +88,7 @@ pt | Portuguese | «...» & “...” | “...” & ‘...’
 ro | Romanian | „...” & «...» | 
 ru | Russian | «...» & „...“ | “...” & ‘...’
 sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
+ar | Chinese | «...» | “...”
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

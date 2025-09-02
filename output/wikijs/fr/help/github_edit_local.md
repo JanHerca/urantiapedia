@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/github_setting">Configurer le projet GitHub</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_content.md">Contenu du projet GitHub</a></td>
+        <td><a href="/fr/help/github_content">Contenu du projet GitHub</a></td>
       </tr>
     </tbody>
   </table>
@@ -95,7 +95,7 @@ En résumé, le processus sur GitHub est le suivant (voir schéma) :
 4. Les « rédacteurs en chef » transmettent leurs modifications à leurs projets GitHub via des actions *push* (4).
 5. Les « rédacteurs en chef » créent ensuite des *pull request* (5) à partir du site Web GitHub pour les projets *Urantiapedia* et *Urantiapedia-backup*.
 6. Ces *pull request* des « Rédacteurs en chef » sont examinées par un « Administrateur », qui est chargé de faire une fusion (6) de toutes les modifications qui sont correctes. Toute modification incorrecte sera rejetée (6) et les « Rédacteurs en chef » en seront informés afin qu'ils puissent les corriger.
-7. Lorsque les modifications sont correctes, « l'Administrateur » fusionne dans le projet *urantiapedia-backup* d'origine, provoquant la synchronisation automatique des modifications avec le site Web, qui apparaîtra mis à jour dans quelques minutes. (7)
+7. Lorsque les modifications sont correctes, la fusion avec le projet original *urantiapedia-backup* entraîne la synchronisation automatique des modifications avec le site Web, qui apparaîtra mis à jour dans quelques minutes. (7)
 
 ![](/image/help/github_workflow_version_2.png)
 
@@ -115,7 +115,7 @@ En résumé, le processus sur GitHub est le suivant (voir schéma) :
       <tr>
         <td><a href="/fr/help/github_setting">Configurer le projet GitHub</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/github_content.md">Contenu du projet GitHub</a></td>
+        <td><a href="/fr/help/github_content">Contenu du projet GitHub</a></td>
       </tr>
     </tbody>
   </table>

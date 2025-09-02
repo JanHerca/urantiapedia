@@ -38,10 +38,10 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
   - **markdown** / **xx** (`en`, `es`, etc.): 
     - **paramony**: contiene la versión última del Paramony. Anteriormente se usaban fichero JSON pero ahora se usan ficheros Markdown. Los ficheros para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
     - **otras carpetas**: ficheros Markdown temporales para artículos y libros tal como se obtienen de una conversión de los formatos PDF / DOCX o al escanear, cada uno dentro de una carpeta para cada idioma (`en`, `es`, etc.). El contenido de esta carpeta no se mantendrá en el tiempo según vaya siendo corregido y movido a la carpeta output.
-    - **3dmodels_catalog.md**: catálogo de modelos 3D. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
-    - **image_catalog.md**: catálogo de imágenes. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
-    - **map_catalog.md**: catálogo de mapas. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
-    - **paralells.md** : catálogo general de paralelos entre _El Libro de Urantia_ y el resto de contenidos (artículos, Biblia, otros libros, etc.).
+    - **3dmodels_catalog\.md**: catálogo de modelos 3D. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
+    - **image_catalog\.md**: catálogo de imágenes. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
+    - **map_catalog\.md**: catálogo de mapas. El fichero para el idioma inglés contiene las tablas principales; los ficheros de otros idiomas son sólo traducciones.
+    - **paralells\.md** : catálogo general de paralelos entre _El Libro de Urantia_ y el resto de contenidos (artículos, Biblia, otros libros, etc.).
   - **mediawiki** `DEPRECATED`: carpeta con contenido antiguo en formato Wikitext para MediaWiki. La primera versión de la *Urantiapedia* se ha hecho con MediaWiki pero la actual está creada con *Wiki.js*.
     - **articles-xx**: carpetas en desuso con ejemplos de artículos en formato Wikitext.
     - **main-pages-xx**: carpetas en desuso con contenido de ayuda en formato Wikitext.
@@ -64,7 +64,6 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
       - **Bible**: Contenido de la Biblia. :warning: IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
       - **book**: Biblioteca (Libros), organizados en carpetas por autor. Normalmente en formato Markdown.
       - **help**: Páginas de ayuda de la Urantiapedia. En formato Markdown.
-      - **image**: Imágenes del sitio.
       - **index**: Índices. :warning: IMPORTANTE: algunos archivos de esta carpeta, aunque no todos, *no deben editarse*. En lugar de eso hay que utilizar *Urantiapedia Tools* para generarlos.
       - **map**: Cartoteca (Mapas). Por ahora están en formato Markdown con un *iframe* que apunta a Google Maps, pero en un futuro aquí sólo se guardarán ficheros KML.
       - **news**: Novedades mensuales del proyecto en formato Markdown.
@@ -72,6 +71,8 @@ Las carpetas que componen el proyecto de *Urantiapedia* en Github son éstas:
       - **tests**: Páginas donde poder hacer pruebas de contenidos futuros.
       - **The_Urantia_Book** y **The_Urantia_Book_Multiple**: Documentos de El Libro de Urantia. :warning: IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
       - **topic**: Enciclopedia. :warning: IMPORTANTE: los ficheros en esta carpeta *no deben editarse*. En lugar de eso hay que editar los ficheros en la carpeta `input` y luego usar las *Urantiapedia Tools*.
+    - **image**: Imágenes del sitio.
+    - **tests**: Páginas donde poder hacer pruebas de contenidos futuros.
 
 Las carpetas marcadas como *deprecated* pueden ser ignoradas por contener material que ya no se está usando en el proceso y será seguramente eliminado en un futuro.
 

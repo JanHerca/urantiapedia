@@ -26,7 +26,7 @@ Ici, il est décrit comment obtenir les aides à l'étude du _Livre d'Urantia_, 
 
 Tout ce qui est dit sur les livres dans [Get Articles](/fr/help/github_articles_markdown) s'applique également ici. Les aides à l'étude se trouvent généralement sous forme d'articles, sous la forme d'une page Web qui les héberge déjà, sous forme de PDF sans texte ou sous forme de PDF avec texte. Dans tous les cas, la première étape consiste à convertir l'aide à l'étude au format Markdown.
 
-Le catalogue des aides à l'étude se trouve ici : [Planned Study Aids](/en/index/studyaids).
+Le catalogue des aides à l'étude se trouve ici : [Planned Study Aids](/fr/index/study_aids).
 
 Il s'agit maintenant d'utiliser le contenu des aides à l'étude pour obtenir les fichiers Markdown dont nous avons besoin.
 
@@ -46,7 +46,7 @@ Le fichier Markdown dans le dossier d'aide à l'étude courte et le dossier d'un
   - Le nom sera toujours en anglais, donc si l'article original n'est pas en anglais, le titre est traduit.
   - Les espaces vides sont remplacés par des traits de soulignement.
   - Les caractères spéciaux comme les deux-points ou les exclamations sont supprimés.
-  - Par exemple, si le titre d'une aide à l'étude est *Étude du Maître Univers*, un nom possible serait «Étude_du_Maître_Univers». Si le titre était *Las enseñanzas de Jesús* (espagnol), le nom serait `Jesus_teachings`.
+  - Par exemple, si le titre d'une aide à l'étude est *Study of the Master Universe*, un nom possible serait `Study_of_the_Master_Universe`. Si le titre était *Las enseñanzas de Jesús* (espagnol), le nom serait `Jesus_teachings`.
 
 Si vous êtes un «Rédacteur adjoint» et que vous n'allez pas utiliser la plateforme GitHub pour envoyer des fichiers, créez simplement n'importe quel dossier sur votre PC dans lequel laisser les aides à l'étude que vous créez. Ensuite, lorsque vous envoyez votre travail à un administrateur, il s'occupe de créer les bons dossiers.
 

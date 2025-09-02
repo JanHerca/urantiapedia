@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Cette tâche est actuellement terminée et fermée pour les 25 langues disponibles.
+> Cette tâche est actuellement terminée et fermée pour les 27 langues disponibles.
 {.is-info}
 
 Ici sont décrites les étapes nécessaires pour traduire le *Paramony* de l'anglais vers une nouvelle langue de *Urantiapedia*. C'est une tâche accomplie par les «rédacteurs en chef».

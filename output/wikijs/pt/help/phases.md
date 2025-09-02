@@ -38,7 +38,7 @@ Conversão de cada papel do *Livro de Urântia* para uma página com links para 
 Conversão de cada capítulo da *Bíblia* em uma página com links para *O Livro de Urântia* | GitHub | Editores-chefes
 Carregamento em massa de arquivos no formato Wiki.js | GitHub | Administradores
 
-> Esta fase está concluída para 25 idiomas.
+> Esta fase está concluída para 27 idiomas.
 {.is-success}
 
 ## Marco II - Hemeroteca, Biblioteca e Enciclopédia
@@ -47,7 +47,7 @@ Esta fase expande o conteúdo da *Urantiapedia* com as seguintes áreas:
 - **Hemeroteca**: artigos e materiais de estudo para *O Livro de Urântia*. Há muitos deles no site da [Fundação Urântia](https://www.urantia.org/), na [Fellowship](https://urantiabook.org/), nas associações de Urantia e em sites individuais. Nenhum conteúdo será publicado sem a autorização expressa dos autores sempre que for possível localizá-los. O conteúdo pode ser carregado de duas formas: edição pública (qualquer editor pode aprimorá-lo) e edição fechada (somente o autor ou usuários autorizados pelo autor podem modificá-lo). Os artigos também podem incluir imagens.
 - **Biblioteca**. Livros religiosos das principais religiões do mundo, livros de leitura e livros que não a *Bíblia* que são suspeitos de serem livros utilizados pelos reveladores em algumas partes do *Livro de Urântia*. Por exemplo, Matthew Block é um leitor que fez um ótimo trabalho encontrando este material. https://urantiabooksources.com/
 - **Enciclopédia**. O índice criado pela *Urantia Fellowship* para a sua edição inglesa do *The Urantia Book* está a ser utilizado como guia para a sua criação. Este índice, por conter apenas breves anotações, está sendo expandido para se tornar um texto completo que servirá como a versão inicial para cada página de tópico. https://urantia-book.org/urantiabook/topical_index/index.htm
-- Índices, páginas com listas de links que servem de ponto de entrada para o conteúdo anterior.
+- **Índices**, páginas com listas de links que servem de ponto de entrada para o conteúdo anterior.
 
 
 Tarefas | Onde | Quem
@@ -72,7 +72,7 @@ Upload em massa de ficheiros no formato Wiki.js | GitHub | Administradores
 ## Marco III -Tradutor
 
 Esta fase é apenas para desenvolvimento. Foram incorporados os seguintes conteúdos:
-- Uma aplicação no _Urantiapedia Tools_ que automatiza a tradução para vários idiomas de muitas páginas de uma só vez. Esta ferramenta faz o seguinte:
+- **Uma aplicação no _Urantiapedia Tools_ que automatiza a tradução** para vários idiomas de muitas páginas de uma só vez. Esta ferramenta faz o seguinte:
   - Permite ligar-se a serviços como o Google Cloud Translator para traduzir o texto.
   - Mantém a integridade do estilo e formato das páginas (Markdown e HTML).
   - Copia citações do *Livro de Urântia* e da *Bíblia* do original ou da tradução existente e não as traduz, mantendo a integridade dos textos e reduzindo o custo da tradução.
@@ -95,7 +95,7 @@ Desenvolvendo um modo de visualização para *O Livro de Urântia* em múltiplas
 
 ## Marco IV - Extensões, correções, Cartoteca e Mediateca
 
-Nesta nova fase, fase em que o projeto se encontra atualmente, serão realizados trabalhos nas seguintes áreas:
+Nesta nova fase, em que o projeto se encontra, serão realizados trabalhos nas seguintes áreas:
 - **Extensões** ao conteúdo das fases anteriores.
 - **Correções**. Como grande parte do conteúdo foi introduzido rapidamente, utilizando a automação sempre que possível, existem muitos bugs e erros que serão corrigidos ao longo do tempo.
 - **Cartoteca**. Uma coleção de mapas, tanto interativos como em formatos de imagens estáticas, que esclarecem a informação geográfica contida no _Livro de Urântia_.

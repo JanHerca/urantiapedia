@@ -83,7 +83,7 @@ To find out about the Milestone of the project, check [Project Milestones](/en/h
 ## Current status
 
 Currently *Urantiapedia* stands as follows:
-* Milestone I is complete in 25 languages. _The Urantia Book_, the _Bible_, and the _Paramony_ (or links between the two) are added in all of these languages.
+* Milestone I is complete in 27 languages. _The Urantia Book_, the _Bible_, and the _Paramony_ (or links between the two) are added in all of these languages.
 * Milestones II and III are complete in three languages: English, Spanish, and French. The _Newspaper Library_, the _Urantia Library_, and the _Encyclopedia_ have sufficient content to consider these milestones achieved.
 * Only small proofs of concept have been completed in Milestone IV. This is the phase we are currently in.
 

@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_setting">Setting up your GitHub project</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_content.md">GitHub project content</a></td>
+        <td><a href="/en/help/github_content">GitHub project content</a></td>
       </tr>
     </tbody>
   </table>
@@ -95,7 +95,7 @@ In summary, the process on GitHub is as follows (see diagram):
 4. “Chief Editors” send their changes to their GitHub projects via *push* actions (4).
 5. Then, the “Chief Editors” create pull requests (5) from the GitHub website for both projects: *Urantiapedia* and *Urantiapedia-backup*.
 6. These pull requests from the "Chief Editors" are reviewed by an “Administrator” who is responsible for merging (6) all the changes that are correct. Any changes that are not correct will be rejected (6) and the “Chief Editors” will be notified to correct them.
-7. When the changes are correct, the “Administrator” merges the project into the original urantiapedia-backup project and causes the changes to automatically synchronize with the website, which will appear updated in a few minutes. (7)
+7. When the changes are correct, the merge into the original *urantiapedia-backup* project causes the changes to automatically synchronize with the website, which will appear updated in a few minutes. (7)
 
 ![](/image/help/github_workflow_version_2.png)
 
@@ -115,7 +115,7 @@ In summary, the process on GitHub is as follows (see diagram):
       <tr>
         <td><a href="/en/help/github_setting">Setting up your GitHub project</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_content.md">GitHub project content</a></td>
+        <td><a href="/en/help/github_content">GitHub project content</a></td>
       </tr>
     </tbody>
   </table>

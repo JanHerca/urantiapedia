@@ -74,7 +74,7 @@ Para ello nos hemos fijado una serie de objetivos:
 ## Principios
 
 *Urantiapedia* no es otro sitio web más relacionado con *El Libro de Urantia*. Se rige por varios principios esenciales que lo hacen radicalmente diferente a cualquier otro sitio web existente. Ningún otro sitio web sobre *El Libro de Urantia* está tratando de hacer, a nuestro parecer, lo que hace *Urantiapedia*:
-* **Globalización y multi-idioma**: Hay muchos sitios web de asociaciones o proyectos de lectores. Aunque el *El libro de Urantia* existe hoy traducido a un buen número de idiomas (24 en la actualidad y en aumento), casi todo el contenido de los sitios web sobre el libro están en un solo idioma. La mayoría en inglés y algunos en español. En otros idiomas no hay practicamente nada.
+* **Globalización y multi-idioma**: Hay muchos sitios web de asociaciones o proyectos de lectores. Aunque el *El libro de Urantia* existe hoy traducido a un buen número de idiomas (27 en la actualidad y en aumento), casi todo el contenido de los sitios web sobre el libro están en un solo idioma. La mayoría en inglés y algunos en español. En otros idiomas no hay practicamente nada.
 * **Multi-colaboración**: Hay muchos sitios web sobre Urantia, y no existe uno solo que sea una Wiki con la capacidad de ser actualizada sin riesgo por decenas de usuarios al mismo tiempo.
 * **Voluntariado**: hecho por personas inspiradas, no por el dinero: *Urantiapedia* no es un negocio, no va a tener publicidad o merchandising para recaudar fondos. Queremos personas inspiradas que quieran hacer un trabajo desinteresado y servir a la comunidad. En nuestra opinión, este tipo de personas son las que hacen el mejor trabajo. Si recordamos la cita sobre la reserva de conocimiento del Paraíso, esta funciona gracias al servicio desinteresado de voluntarios.
 * **Completitud**: relacionado con todo *El libro de Urantia*, no con partes de él. Hay un buen número de sitios web que se centran solo en la parte IV de *El libro de Urantia* y hacen de Jesús el centro del mensaje de Urantia. El objetivo de *Urantiapedia* es ayudar en la comprensión de todo el contenido del libro y ayudar en la creación de un almacén único para vincular y recopilar todo el conocimiento disponible.
@@ -90,24 +90,24 @@ La [Fundación Urantia](https://www.urantia.org/) y las asociaciones han hecho u
 
 Considera estos hechos acerca de las traducciones:
 * Se han necesitado 40 años para la primera traducción oficial al español (el español es el segundo idioma en el mundo por número de hablantes nativos, por encima del inglés en este sentido).
-* Se han tardado 70 años en tener una traducción oficial al chino mandarín y todavía está en progreso (el chino mandarín es el primer idioma del mundo por número de hablantes nativos).
+* Se han tardado 70 años en tener una traducción oficial al chino mandarín (el chino mandarín es el primer idioma del mundo por número de hablantes nativos).
 * 4 de 10 de los 10 idiomas con la mayoría de los [hablantes nativos del mundo](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) todavía no tienen una traducción (hindi, bengalí, punjabí occidental y chino yue). Estos idiomas todavía [esperan una traducción](https://www.urantia.org/news) y suman más de un tercio de los hablantes nativos del mundo.
 * Menos del 1% de los trabajos secundarios tienen una traducción en otros idiomas, y el 99% están solo en inglés.
 
 <figure id="Principles_fig_1" class="image urantiapedia">
 <img src="/image/help/UB_potential_readers_by_native_speakers.png">
-<figcaption><em>Porcentaje de lectores potenciales de El Libro de Urantia en el mundo en su idioma nativo (julio 2022). En azul los idiomas con una traducción oficial disponible, en total un 32,61%. Eso significa que dos tercios de los habitantes del mundo no pueden leer el libro en su idioma nativo.</em></figcaption>
+<figcaption><em>Porcentaje de lectores potenciales de El Libro de Urantia en el mundo en su idioma nativo (julio 2024). En azul los idiomas con una traducción oficial disponible, en total un 47%. La mitad de los habitantes del mundo no pueden leer el libro en su idioma nativo.</em></figcaption>
 </figure>
 
 Las traducciones de *El libro de Urantia* no han seguido una estrategia de «primero las lenguas nativas más habladas», y es razonable. Las primeras traducciones fueron hechas por lectores entusiastas, y esa inspiración surgió en primer lugar en algunos países desarrollados antes que en cualquier otro.
 
-Pero esta estrategia necesita ser actualizada. Dos tercios de los habitantes del mundo no pueden leer *El libro de Urantia* en su idioma nativo. La principal población del mundo que se está beneficiando de *El libro de Urantia* se encuentra principalmente en los países desarrollados occidentales. ¿No perpetúa esto el mismo error que cometieron los primeros apóstoles cuando difundieron el evangelio en Roma y no en China?
+Pero esta estrategia necesita ser actualizada. La mitad de los habitantes del mundo no pueden leer *El libro de Urantia* en su idioma nativo. La principal población del mundo que se está beneficiando de *El libro de Urantia* se encuentra principalmente en los países desarrollados occidentales. ¿No perpetúa esto el mismo error que cometieron los primeros apóstoles cuando difundieron el evangelio en Roma y no en China?
 
 > ... es lamentable que no hubiera nadie como Pedro que fuera a **China**, o como Pablo que viajara a la **India** ... [LU 130:2.3](/es/The_Urantia_Book/130#p2_3)
 
 <figure id="Principles_fig_2" class="image urantiapedia">
 <img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
-<figcaption><em>Porcentaje de lectores potenciales de trabajos secundarios en el mundo en su idioma nativo (julio 2022). En azul la proporción que está disponible. La mayoría de los lectores potenciales de estos trabajos son hablantes de inglés.</em></figcaption>
+<figcaption><em>Porcentaje de lectores potenciales de trabajos secundarios en el mundo en su idioma nativo (julio 2024). En azul la proporción que está disponible. La mayoría de los lectores potenciales de estos trabajos son hablantes de inglés.</em></figcaption>
 </figure>
 
 Si hacemos los mismos cálculos para los trabajos secundarios, la situación es aún peor. Hay muy poca preocupación sobre la traducción de Obras Secundarias. Están principalmente en inglés, con alguna pequeña producción en español o francés. Pero no hay intercambio de ideas entre comunidades de diferentes idiomas a través de traducciones, y una gran parte del movimiento Urantia no sabe nada acerca de las Obras Secundarias porque sólo están en inglés. 
@@ -167,7 +167,7 @@ Necesitamos más que nada personas inspiradas, no dinero.
 
 * Las personas inspiradas, las personas desinteresadas que quieren colaborar y servir sin esperar una recompensa son las personas que aportan el mejor trabajo. Necesitamos ante todo ese tipo de colaboradores.
 * Por supuesto necesitamos algo más que solo contenido de *El libro de Urantia*. Para los aspectos técnicos del proyecto, esperamos necesitar al menos dos desarrolladores, uno en los sistemas de *backend* y otro para la parte de *frontend*. Como esto no tiene ninguna relación con el contenido del libro, aquí esperamos contratar algunos colaboradores. Así que el dinero no es la parte importante, pero es importante.
-* Con independencia de lo anterior, el principio principal de *Urantiapedia* es tratar de trabajar desinteresadamente, con un trabajo voluntario, de la misma manera que se hace el trabajo del Paraíso. Para ello estamos agregando el proyecto en diferentes plataformas que permitan una fácil colaboración de los equipos, como [BlueFields](https://blue-fields.netlify.app/), [GitHub](https://github.com/) y [Trello](https://trello.com/).
+* Con independencia de lo anterior, el principio principal de *Urantiapedia* es tratar de trabajar desinteresadamente, con un trabajo voluntario, de la misma manera que se hace el trabajo del Paraíso. Para ello estamos agregando el proyecto en diferentes plataformas que permitan una fácil colaboración de los equipos, como [BlueFields](https://blue-fields.netlify.app/) y [GitHub](https://github.com/).
 * *Urantiapedia* no tendrá publicidad ni merchandising para la recaudación de fondos. Se basará únicamente en las donaciones.
 * Los costes se mantendrán siempre lo más bajos posible. La parte más costosa es la creación de contenido y esa parte siempre será desinteresada y voluntaria.
 
@@ -202,7 +202,6 @@ En *Urantiapedia* este va a ser uno de nuestros principios esenciales. El conten
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 - [GitHub](https://github.com/)
-- [Trello](https://trello.com/)
 - [Lista de idiomas por número de hablantes nativos](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
 - [Noticias de la Fundación Urantia](https://www.urantia.org/news)
 

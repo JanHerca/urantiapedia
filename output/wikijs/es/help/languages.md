@@ -26,6 +26,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Código | Idioma | Título
 --- | --- | ---
+ar | Árabe | كِتاب يورانشيا
 bg | Búlgaro | Книгата Урантия
 cs | Checo | Kniha Urantia
 da | Danés | Urantia Bogen
@@ -50,6 +51,7 @@ pt | Portugués | O Livro de Urântia
 ro | Rumano | Cartea Urantia
 ru | Ruso | Книга Урантии
 sv | Sueco | Urantiaboken
+zh | Chino | 玉苒厦之书
 
 Los códigos de idioma deben seguir la norma ISO 639-1 con dos letras por cada idioma. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes 
 
@@ -61,6 +63,7 @@ Estas son las correctas comillas tipográficas a usar en cada idioma:
 
 Código | Idioma | Principales primarias <br> y secundarias | Alternativas primarias <br> y secundarias
 --- | --- | --- | --- 
+ar | Árabe | «...» | “...”
 bg | Búlgaro | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
 cs | Checo | „...“ & ‚...‘ | »...« & ›...‹
 da | Danés | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
@@ -72,7 +75,7 @@ et | Estonio | „...“ |
 fa | Farsi | «...» | 
 fi | Finlandés | ”...” & ’...’ | »...» & ’...’
 fr | Francés | «...» & «...» “...” | ‹...›
-he | Hebreo | ”...”‎ & ’...’ | „...”‎ & ‚...’
+he | Hebreo | ”...” & ’...’ | „...” & ‚...’
 hu | Húngaro | „...” & »...« | 
 id | Indonesio | “...” & ‘...’ | 
 it | Italiano | «...» & “...” | “...” & ‘...’
@@ -85,6 +88,7 @@ pt | Portugués | «...» & “...” | “...” & ‘...’
 ro | Rumano | „...” & «...» | 
 ru | Ruso | «...» & „...“ | “...” & ‘...’
 sv | Sueco | ”...” & ’...’ | »...» »...« & ’...’
+zh | Chino | “⋯” & ‘⋯’ | 「⋯」& 『⋯』
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

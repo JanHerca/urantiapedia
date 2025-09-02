@@ -48,7 +48,7 @@ USUÁRIO | Qualquer usuário não registrado. Apenas para visualização de pág
 
 (2) AUTOR significa que haverá vários grupos do tipo AUTOR, cada um contendo usuários que são os autores (ou autorizados pelos autores) de determinadas páginas. Por exemplo, se houver dois usuários chamados Han Solo e Obi Wan que desejam ser autores, haverá um par ou grupos denominados HANSOLO e OBIWAN, o primeiro com o usuário Han Solo, o segundo com o usuário Obi Wan. O primeiro será o único usuário que poderá editar páginas em caminhos como `/pt/article/hansolo/` (e qualquer outra localidade além do inglês), `/pt/slides/hansolo` e assim por diante. Por outro lado, o usuário Obi Wan pode editar páginas em caminhos como `/pt/article/obiwan/`, `/pt/slides/obiwan/` e assim por diante. Desta forma, alguns usuários serão os únicos editores de determinadas páginas.
 
-Esteja ciente de que os únicos usuários que podem excluir páginas são usuários ADMIN para garantir que os links não sejam quebrados. Há apenas uma exceção a essa regra. Portanto, o processo com uma página é:
+Esteja ciente de que os únicos usuários que podem excluir páginas são usuários ADMIN ou AUTHOR para garantir que os links não sejam quebrados. Portanto, o processo com uma página é:
 1. Criação:
   - Usuários EDITOR ou AUTOR criam uma página diretamente neste site, ou
   - O usuário ADMIN cria várias páginas de uma só vez por um processo de upload em massa (os usuários ADMIN podem ser ajudados pelos usuários EDITOR e AUTOR através do uso do GitHub)
@@ -144,17 +144,18 @@ Esther | 1_Maccabees | 2_Maccabees | Job
 Psalms | Proverbs | Ecclesiastes | Song_of_Solomon
 Sirach | Wisdom_of_Solomon | Isaiah | Jeremiah
 Lamentations | Baruch | Ezekiel | Daniel
-Hosea | Joel | Amos | Obadiah | Jonah
-Micah | Nahum | Habakkuk | Zephaniah
-Haggai | Zechariah | Malachi | Matthew
-Mark | Luke | John | Acts
-Romans | 1_Corinthians | 2_Corinthians | Galatians
-Ephesians | Philippians | Colossians | 1_Thessalonians
-2_Thessalonians | 1_Timothy | 2_Timothy | Titus
-Philemon | Hebrews | James | 1_Peter
-2_Peter | 1_John | 2_John | 3_John
-Jude | Revelation | Bel_and_the_Dragon | Prayer_of_Manesseh
-Tobit | Judith | Enoch | Assumption_of_Moses
+Hosea | Joel | Amos | Obadiah
+Jonah | Micah | Nahum | Habakkuk
+Zephaniah | Haggai | Zechariah | Malachi
+Matthew | Mark | Luke | John
+Acts_of_the_Apostles | Romans | 1_Corinthians | 2_Corinthians
+Galatians | Ephesians | Philippians | Colossians
+1_Thessalonians | 2_Thessalonians | 1_Timothy | 2_Timothy
+Titus | Philemon | Hebrews | James
+1_Peter | 2_Peter | 1_John | 2_John
+3_John | Jude | Revelation | Bel_and_the_Dragon
+Prayer_of_Manesseh | Tobit | Judith | Book_of_Enoch
+Assumption_of_Moses
 
 Outros livros relacionados com a Bíblia como livros não canônicos podem ser colocados no mesmo caminho se estiverem relacionados com o *Livro de Urântia* de alguma forma. Um bom exemplo é o livro de Enoque, que é mencionado explicitamente.
 
@@ -165,6 +166,30 @@ Com relação a qualquer outro livro além da Bíblia que seja uma possível fon
 Por exemplo, Matthew Block é um leitor que fez um ótimo trabalho encontrando material de origem do *O Livro de Urântia*, conforme explicado em https://urantiabooksources.com/. Um dos livros que ele identificou como uma possível fonte de reveladores é *The Universe Around Us*, de Sir James Jeans, publicado em 1930. Como este livro entrou em domínio público, ele pode ser adicionado a *Urantiapedia* e links para este livro pode ser assim:
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
 - https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
+
+
+### Outros Livros das Grandes Religiões do Mundo
+
+Os autores de _O Livro de Urântia_ recomendam que nos familiarizemos com os escritos religiosos de todas as religiões, pois todos eles contêm material benéfico ([LU 92:7.3](/pt/The_Urantia_Book/92#p7_3)) e porque alcançar a fraternidade mundial requer um maior conhecimento da literatura de outras nações ([LU 52:6.4](/pt/The_Urantia_Book/52#p6_4)). Seguindo este princípio, na Urantiapédia iremos compilar livros de todas as grandes religiões do mundo.
+
+Estes livros podem ser adicionados ao caminho `book`. Dentro deste caminho, existirão pastas para cada religião principal, como se segue:
+- `Bahaism`: livros da fé Bahai.
+- `Buddhism`: livros do Budismo.
+- `Christianity`: livros do Cristianismo.
+- `Confucianism`: livros sobre o Confucionismo.
+- `Hinduism`: livros sobre o Hinduísmo.
+- `Islam`: livros sobre o Islamismo.
+- `Jainism`: livros sobre o Jainismo.
+- `Judaism`: livros sobre o Judaísmo.
+- `Shintoism`: livros sobre o Xintoísmo.
+- `Sikhism`: livros sobre o Sikhismo.
+- `Taoism`: livros sobre o Taoísmo.
+- `Zoroastrianism`: livros sobre o Zoroastrismo.
+
+Por exemplo:
+- Um livro bahá'í em espanhol: https://urantiapedia.org/es/book/Bahaism/The_Splendour_of_God
+- Um livro budista em inglês: https://urantiapedia.org/en/book/Buddhism/The_Gateless_Gate
+- O Alcorão em francês: https://urantiapedia.org/fr/book/Islam/Quran
 
 ### Outros livros de leitores
 
@@ -233,21 +258,18 @@ Cronologia da vida de Jesus | Descrição dos principais eventos de Jesus e link
 
 ## Imagens
 
-Imagens para toda a página:
+As imagens são um conteúdo especial porque quase sempre não requerem tradução para diferentes línguas. Por este motivo, as imagens estão localizadas numa pasta comum a todo o site, localizada na raiz: `https://urantiapedia.org/image/`. Não existe uma pasta separada para cada idioma.
 
-* Arte de Urântia. Desenhos ou fotografias que evocam um conceito do livro.
-* Esquemas. Infográficos ou gráficos que explicam e esclarecem os tópicos do livro.
-* Fotos. Imagens isentas de royalties usadas em qualquer lugar na *Urantiapedia*.
-* Animações. Imagens animadas que esclarecem conceitos que envolvem uma visualização animada.
-* Mapas. Mapas estáticos, embora possam conter links se estiverem no formato `svg` ou se usarem [mapas de imagem HTML](https://www.w3schools.com/html/html_images_imagemap.asp).
+Dentro desta pasta, as imagens estão organizadas em subpastas da seguinte forma:
 
-O padrão de URL para imagens é: `https://urantiapedia.org/en/image/[image_name].jpg`. Os nomes das imagens devem estar sempre em inglês conforme explicado acima. Se as imagens não precisarem ser localizadas em nenhum idioma, elas podem ser deixadas no caminho padrão em inglês, então o padrão de URL para elas seria: `https://urantiapedia.org/image/[image_name].jpg `, que é mais compacto.
+* `article`: Imagens para o Arquivo de Jornais. É preferível que todas as imagens de uma publicação estejam localizadas numa pasta específica para essa publicação.
+* `book`: Imagens para a Biblioteca. A estrutura dentro da pasta deve ser idêntica à da pasta `[language]/book` apresentada acima.
+* `diagram`: Diagramas. Infográficos ou gráficos que explicam e esclarecem temas do livro.
+* `help`: Imagens para esta ajuda da Urantiapedia.
+* `map`: Mapas. Mapas estáticos, embora possam conter links se estiverem no formato `svg` ou se utilizarem [mapas de imagens HTML](https://www.w3schools.com/html/html_images_imagemap.asp).
+* `The_Urantia_Book`: Imagens para ilustrar _O Livro de Urântia_.
 
-Observe que no padrão de URL adicionamos `jpg` como formato, mas pode ser qualquer um dos formatos suportados: `jpg`, `jpeg`, `png`, `gif`, `webp`, `svg`.
-
-As imagens não têm sua própria página da web por padrão. As imagens são acessadas através da URL como qualquer recurso público. Mas se fosse interessante, poderiam ser criadas páginas que oferecem informações sobre a própria imagem. Por exemplo, nas seguintes URLs, a primeira é a URL para a imagem de capa oficial do *O Livro de Urântia* em inglês, e a segunda é a possível página com informações sobre esta imagem:
-- `https://urantiapedia.org/image/the_urantia_book.jpg`
-- `https://urantiapedia.org/en/image/the_urantia_book`
+Os formatos de imagem suportados incluem: `jpg`, `jpeg`, `png`, `gif`, `webp`, `svg`.
 
 ## Mapas
 
@@ -323,7 +345,6 @@ Cada página em *Urantiapedia* tem um título e um URL. Os títulos podem ser re
 	- Tópico: `topic`
 	- Índice: `index`
 	- Artigo: `article`
-	- Imagem: `image`
 	- Apresentação: `slides`
 	- Mapa: `map`
 	- Modelo 3D: `3dmodel`

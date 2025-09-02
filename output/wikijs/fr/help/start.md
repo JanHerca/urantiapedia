@@ -81,7 +81,7 @@ Pour en savoir plus sur les étapes du projet, consultez la rubrique[ Étapes du
 ## Situation actuelle
 
 Actuellement, *Urantiapedia* se présente comme suit :
-* La étape I est achevée en 25 langues. Le _Livre d’Urantia_, la _Bible_ et la _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes ces langues.
+* La étape I est achevée en 27 langues. Le _Livre d’Urantia_, la _Bible_ et la _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes ces langues.
 * Les étapes II et III sont réalisées en trois langues : anglais, espagnol et français. La _Hémérothèque_, la _Bibliothèque_ et l'_Encyclopédie_ ont un contenu suffisant pour considérer ces phases comme complètes.
 * Seules de petites preuves de concept ont été réalisées en étape IV. C’est la phase dans laquelle nous nous trouvons actuellement.
 

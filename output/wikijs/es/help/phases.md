@@ -38,7 +38,7 @@ Convertir cada documento de *El Libro de Urantia* en una página con enlaces a *
 Convertir cada capítulo de *La Biblia* en una página con enlaces a *El Libro de Urantia* | GitHub | Editores Jefe
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
-> Esta fase se encuentra completada para 25 idiomas.
+> Esta fase se encuentra completada para 27 idiomas.
 {.is-success}
 
 ## Fase II - Hemeroteca, Biblioteca y Enciclopedia
@@ -47,7 +47,7 @@ Esta fase expande el contenido de la *Urantiapedia* con las siguientes áreas:
 - **Hemeroteca**. Artículos y ayudas de estudio de *El Libro de Urantia*. Existen multitud de ellos en las webs de la [Fundación Urantia](https://www.urantia.org/), la [Fellowship](https://urantiabook.org/), las asociaciones Urantia y en webs de particulares. Ningún contenido se publicará sin permiso expreso de los autores siempre que sea posible localizarlos. El contenido podrá subirse en dos modos: edición pública (cualquier editor puede mejorarlo), y edición cerrada (sólo el autor o personas autorizadas por el autor pueden modificarlo). Los artículos podrán incluir también imágenes.
 - **Biblioteca**. Libros religiosos de las grandes religiones del mundo, libros de lectores, y otros libros aparte de la *Biblia* que se sospeche que son libros usados por los reveladores en algunas partes de *El Libro de Urantia*. Por ejemplo, Matthew Block es un lector que ha hecho un gran trabajo encontrando este material. https://urantiabooksources.com/
 - **Enciclopedia**. Para crearla se está utilizando como guía el índice creado por la *Urantia Fellowship* para su edición de *El Libro de Urantia* en inglés. Este índice, como contiene sólo anotaciones breves, se está expandiendo para convertirlo en un texto completo que sirva de versión inicial para cada página de cada término. https://urantia-book.org/urantiabook/topical_index/index.htm
-- Índices, páginas con listas de enlaces que sirven de punto de entrada para los contenidos anteriores.
+- **Índices**, páginas con listas de enlaces que sirven de punto de entrada para los contenidos anteriores.
 
 
 Tareas | Dónde | Quién
@@ -56,7 +56,7 @@ Desarrollo para la conversión de libros y artículos a Wiki.js | GitHub | Desar
 Desarrollo del *Topic Index Editor*, un asistente que permite acelerar el trabajo con la *Enciclopedia* | GitHub | Desarrolladores
 Desarrolllo para la conversión de la *Enciclopedia* en páginas con enlaces a *El Libro de Urantia* | GitHub | Desarrolladores
 Adición de artículos y estudios enlazados con el libro y con sus fuentes | GitHub | Editores Jefe
-Adición de de libros aparte de *La Biblia* | GitHub | Editores Jefe
+Adición de libros aparte de *La Biblia* | GitHub | Editores Jefe
 Adición de contenido a la *Enciclopedia* | GitHub | Editores Jefe
 Adición de índices de personas, seres, lugares, bíblicos, de referencias, de citas, cronologías, etc | GitHub | Editores Jefe
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
@@ -72,7 +72,7 @@ Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 ## Fase III - Traductor
 
 Esta fase es únicamente de desarrollo. En ella se han incorporado los siguientes contenidos:
-- Una aplicación en _Urantiapedia Tools_ que automatiza la traducción a múltiples idiomas de muchas páginas a la vez. Esta herramienta hace lo siguiente:
+- **Una aplicación en _Urantiapedia Tools_ que automatiza la traducción** a múltiples idiomas de muchas páginas a la vez. Esta herramienta hace lo siguiente:
   - Permite conectar a servicios tipo Google Cloud Translator para realizar traducciones del texto.
   - Mantiene la integridad del estilo y formato de las páginas (Markdown y HTML).
   - Copia citas de *El Libro de Urantia* y la *Biblia* del original o la traducción existente y no las traduce, manteniendo la integridad de los textos y reduciendo el coste de traducción.
@@ -95,8 +95,8 @@ Desarrollo de un modo de visualización de *El Libro de Urantia* en varias tradu
 
 ## Fase IV - Ampliaciones, correcciones, Cartoteca y Mediateca
 
-En esta nueva fase, la fase en que se encuentra actualmente el proyecto, se trabajará en estas áreas:
-- **Ampliaciones** al contenido de las fase anteriores.
+En esta nueva fase, en la que se encuentra actualmente el proyecto, se trabajará en estas áreas:
+- **Ampliaciones** al contenido de las fases anteriores.
 - **Correcciones**. Puesto que mucho del contenido se ha introducido de una forma rápida, usando automatizaciones cuando ha sido posible, existen muchos fallos y errores que se irán puliendo con el tiempo.
 - **Cartoteca**. Una colección de mapas, tanto en formato interactivo como en formato imagen estática, que aclare la información geográfica que ofrece _El Libro de Urantia_.
 - **Mediateca**: será un repositorio de diversos materiales audiovisuales, que incluirá cosas como las siguientes:

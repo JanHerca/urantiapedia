@@ -26,7 +26,7 @@ Aquí se describe cómo obtener las ayudas de estudio de _El Libro de Urantia_, 
 
 Todo lo dicho relativo a libros en [Obtener artículos](/es/help/github_articles_markdown) también tiene aplicación aquí. Las ayudas de estudio se suelen encontrar como los artículos, en forma de una página web que ya los alberga, como un PDF sin texto, o como un PDF con texto. En cualquier caso el primer paso es lograr convertir la ayuda de estudio a formato Markdown.
 
-El catálogo de ayudas de estudio se encuentra aquí: [Ayudas de estudio planeadas](/es/index/studyaids).
+El catálogo de ayudas de estudio se encuentra aquí: [Ayudas de estudio planeadas](/es/index/study_aids).
 
 La tarea ahora consiste en usar el contenido de las ayudas de estudio para obtener los archivos Markdown que necesitamos.
 
@@ -46,7 +46,7 @@ Tanto el archivo Markdown en el caso ayuda de estudio breve, como la carpeta par
   - El nombre siempre será en inglés, de modo que si el artículo original no es en inglés se traduce el título.
   - Los espacios en blanco se reemplazan por guiones bajos.
   - Los caracteres raros como dos puntos o exclamaciones se quitan.
-  - Por ejemplo, si el título de una ayuda de estudio es *Study of the MAster Universe* un posible nombre sería `Study_of_the_Master_Universe`. Si el título fuera *Las enseñanzas de Jesús*, el nombre sería `Jesus_teachings`.
+  - Por ejemplo, si el título de una ayuda de estudio es *Study of the Master Universe* un posible nombre sería `Study_of_the_Master_Universe`. Si el título fuera *Las enseñanzas de Jesús*, el nombre sería `Jesus_teachings`.
 
 Si eres un «Editor Asistente» y no vas a usar la plataforma GitHub para el envío de ficheros, simplemente crea una carpeta cualquiera en tu PC en la que dejar las ayudas de estudio que vayas creando. Luego al enviar tu trabajo a un Administrador él se encargará de crear las carpetas correctas.
 

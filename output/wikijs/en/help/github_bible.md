@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> This task is currently ended and closed for the 25 languages available.
+> This task is currently ended and closed for the 27 languages available.
 {.is-info}
 
 A good source to obtain translations of *The Bible* that are also free of copyright is to use the software [e-Sword](https://www.e-sword.net/), a free application that allows you to download translations of *The Bible* in different languages ​​and then export or copy its content to other files.

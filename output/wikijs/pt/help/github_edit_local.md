@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/github_setting">Configurar o projeto GitHub</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_content.md">Conteúdo do projeto do GitHub</a></td>
+        <td><a href="/pt/help/github_content">Conteúdo do projeto do GitHub</a></td>
       </tr>
     </tbody>
   </table>
@@ -95,7 +95,7 @@ Em resumo, o processo no GitHub é o seguinte (veja o diagrama):
 4. “Editores-chefes” enviam suas alterações para seus projetos GitHub por meio de ações *push* (4).
 5. Os “Editores Chefes” então criam *solicitações pull* (5) do site GitHub para os projetos *Urantiapedia* e *Urantiapedia-backup*.
 6. Estas *solicitações pull* dos "Editores Chefes" são revisadas por um “Administrador”, que é responsável por fazer uma fusão (6) de todas as alterações que estiverem corretas. Quaisquer alterações que não estejam corretas serão rejeitadas (6) e os “Editores Chefes” serão notificados para que possam corrigi-las.
-7. Quando as alterações estiverem corretas, o “Administrador” se funde ao projeto original *urantiapedia-backup* fazendo com que as alterações sejam automaticamente sincronizadas com o site, que aparecerá atualizado em alguns minutos. (7)
+7. Quando as alterações estiverem corretas, a fusão com o projeto original *urantiapedia-backup* faz com que as alterações sejam sincronizadas automaticamente com o site, que aparecerá atualizado em alguns minutos. (7)
 
 ![](/image/help/github_workflow_version_2.png)
 
@@ -115,7 +115,7 @@ Em resumo, o processo no GitHub é o seguinte (veja o diagrama):
       <tr>
         <td><a href="/pt/help/github_setting">Configurar o projeto GitHub</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/github_content.md">Conteúdo do projeto do GitHub</a></td>
+        <td><a href="/pt/help/github_content">Conteúdo do projeto do GitHub</a></td>
       </tr>
     </tbody>
   </table>
