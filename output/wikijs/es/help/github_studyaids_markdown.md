@@ -42,11 +42,11 @@ Dentro de las carpetas `article` crearemos otra, si no existe, con el nombre del
 
 
 Tanto el archivo Markdown en el caso ayuda de estudio breve, como la carpeta para una ayuda de estudio extensa, los nombraremos con un nombre único siguiendo este criterio:
-  - El nombre usará el título de la ayuda de estudio pero lo más abreviado posible.
-  - El nombre siempre será en inglés, de modo que si el artículo original no es en inglés se traduce el título.
-  - Los espacios en blanco se reemplazan por guiones bajos.
-  - Los caracteres raros como dos puntos o exclamaciones se quitan.
-  - Por ejemplo, si el título de una ayuda de estudio es *Study of the Master Universe* un posible nombre sería `Study_of_the_Master_Universe`. Si el título fuera *Las enseñanzas de Jesús*, el nombre sería `Jesus_teachings`.
+- El nombre usará el título de la ayuda de estudio pero lo más abreviado posible.
+- El nombre siempre será en inglés, de modo que si el artículo original no es en inglés se traduce el título.
+- Los espacios en blanco se reemplazan por guiones bajos.
+- Los caracteres raros como dos puntos o exclamaciones se quitan.
+- Por ejemplo, si el título de una ayuda de estudio es *Study of the Master Universe* un posible nombre sería `Study_of_the_Master_Universe`. Si el título fuera *Las enseñanzas de Jesús*, el nombre sería `Jesus_teachings`.
 
 Si eres un «Editor Asistente» y no vas a usar la plataforma GitHub para el envío de ficheros, simplemente crea una carpeta cualquiera en tu PC en la que dejar las ayudas de estudio que vayas creando. Luego al enviar tu trabajo a un Administrador él se encargará de crear las carpetas correctas.
 

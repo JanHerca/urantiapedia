@@ -25,6 +25,7 @@ Aqui estão descritos os passos necessários para traduzir e revisar o *Enciclop
 O _Enciclopédia_ é composto de uma coleção de arquivos TXT derivados do apêndice da edição *Urantia Fellowship* do *O Livro de Urântia* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
 > IMPORTANTE: para a execução desta tarefa atualmente existe um desenvolvimento em andamento no *Urantiapedia Tools*, chamado *Topic Index Editor*, que torna as edições mais fáceis e menos propensas a erros. Verifique a seção abaixo.
+{.is-info}
 
 Para criar um novo _Enciclopédia_ para outro idioma, comece na versão em inglês do _Enciclopédia_ encontrado em `input/txt/topic-index-en`. Faça uma cópia dessa pasta e altere o nome para o idioma de destino.
 
@@ -33,6 +34,7 @@ A pasta contém um arquivo para cada letra do alfabeto (`a.txt`, `b.txt`, etc.) 
 O formato é um pouco semelhante ao formato YAML (https://en.wikipedia.org/wiki/YAML), mas simplificado para ser muito fácil de editar.
 
 > IMPORTANTE: este arquivo contém abas e deve ser editado com um editor de texto que suporte renderização de abas. Os editores recomendados são: Visual Studio Code (https://code.visualstudio.com/), Notepad++ (https://notepad-plus-plus.org/) ou Sublime Text (https://www.sublimetext.com/) ).
+{.is-info}
 
 ## Formato TXT do índice de tópicos
 
@@ -141,6 +143,7 @@ No extrato anterior podemos ver:
 - Observe que links externos para um tópico são adicionados no final do tópico e usam o caractere `>` no início de cada linha. O exemplo acima mostra como vincular a Wikipedia em inglês sobre apóstolos. Você pode adicionar vários links, cada um em uma linha, desde que comecem com o caractere `>` e sigam um espaço em branco antes do URL.
 
 > IMPORTANTE: no texto de um parêntese de linha devem ser evitados `(` `)` porque eles são reservados apenas para definir referências ao *O Livro de Urântia*. Se você precisar dizer algo entre parênteses, altere o texto para um que use `,` vírgula para separação.
+{.is-info}
 
 ## Nomes e alias
 

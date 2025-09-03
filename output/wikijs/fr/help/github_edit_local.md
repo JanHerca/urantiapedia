@@ -50,8 +50,8 @@ Cette duplication des deux projets peut être un peu lourde mais elle est conçu
 Lorsque vous avez envoyé un nombre suffisant de commits à vos propres copies des *forks* d'Urantiapedia, vous pouvez envoyer une demande d'extraction aux projets d'origine ( _pull request_) afin que les modifications puissent être révisées et fusionnées dans ceux-ci. C'est ce qu'on appelle une _pull request_ dans la terminologie GitHub.
 
 1. Ouvrez chacune des pages Urantiapedia sur GitHub.
-   - `https://github.com/<username>/urantiapedia`
-   - `https://github.com/<username>/urantiapedia-backup`
+  - `https://github.com/<username>/urantiapedia`
+  - `https://github.com/<username>/urantiapedia-backup`
 2. Assurez-vous que vous êtes sur la branche principale appelée _master_. La branche apparaît dans un menu en haut de la liste des fichiers. Normalement, vous n'aurez que cette branche.
 3. Sélectionnez le menu _Contribute_ ci-dessous, puis sélectionnez _Open pull request_. Si le menu indique _This branch is not ahead of the upstream master_ (_Cette branche n'est pas en avance sur le maître en amont_), vous devez d'abord *fetch* le projet principal. Regardez devant vous.
 

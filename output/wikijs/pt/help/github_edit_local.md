@@ -50,8 +50,8 @@ Esta duplicação de ambos os projetos pode ser um pouco complicada, mas foi pro
 Quando você tiver um número suficiente de *commits* enviados para suas próprias cópias dos projetos Urantiapedia (*forks*), você poderá enviar uma solicitação pull para os projetos originais (_pull requests_) para que as alterações possam ser revisadas e mescladas neles . Isso é chamado de _pull request_ na terminologia do GitHub.
 
 1. Abra cada uma das páginas da Urantiapedia no GitHub.
-   - `https://github.com/<nomedeusuário>/urantiapedia`
-   - `https://github.com/<nomedeusuário>/urantiapedia-backup`
+  - `https://github.com/<nomedeusuário>/urantiapedia`
+  - `https://github.com/<nomedeusuário>/urantiapedia-backup`
 2. Certifique-se de estar no branch master chamado _master_. A ramificação aparece em um menu no topo da lista de arquivos. Normalmente você terá apenas esse ramo.
 3. Selecione o menu _Contribute_ abaixo e selecione _Open pull request_. Se o menu disser _This branch is not ahead of the upstream master_ (_Este branch não está à frente do master upstream_), você deve primeiro *fetch* o projeto principal. Olhe para frente.
 

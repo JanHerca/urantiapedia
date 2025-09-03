@@ -49,11 +49,11 @@ To convert files from HTML to JSON without footnotes, follow these steps:
 
 ![](/image/help/upt_html_json.png)
 
-The resulting files in JSON format will be saved in the `input / json / book-xx` folder, where` xx` are the two letters of the language (`es` = Spanish, `en` = English, etc.)
+The resulting files in JSON format will be saved in the `input / json / book-xx` folder, where `xx` are the two letters of the language (`es` = Spanish, `en` = English, etc.)
 
 > IMPORTANT: These files should not be generated or edited by users manually. They should always be created by conversion from the HTML format.
 
-There will be one file for each *The Urantia Book* document, a total of 197 files. The files are named `DocXXX.json`, where` XXX` is the document number from `000` to` 196`.
+There will be one file for each *The Urantia Book* document, a total of 197 files. The files are named `DocXXX.json`, where `XXX` is the document number from `000` to `196`.
 
 The format of these files is JSON (https://en.wikipedia.org/wiki/JSON). There is a converter in the *Urantiapedia Tools* that then converts this JSON format to the final Wiki.js format.
 
@@ -96,7 +96,7 @@ Character type | How they are written
 --- | ---
 Italic | * * (between asterisks)
 Small caps | $ $ (between dollar signs)
-Underline (for languages ​​that do not include italic option) | \| \| (between plecas)
+Underline (for languages ​​that do not include italic option) | \| \| (between pipes)
 
 ## External links
 

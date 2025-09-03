@@ -42,11 +42,11 @@ Inside the `article` folders we will create another one, if it does not exist, w
 
 
 Both the Markdown file in the short study aid case, and the folder for an extensive study aid, will be named with a unique name following this criteria:
-  - The name will use the title of the study aid but as short as possible.
-  - The name will always be in English, so if the original article is not in English, the title is translated.
-  - Blank spaces are replaced by underscores.
-  - Special characters like colons or exclamations are removed.
-  - For example, if the title of a study aid is *Study of the Master Universe* a possible name would be `Study_of_the_Master_Universe`. If the title were *Las enseñanzas de Jesús* (Spanish), the name would be `Jesus_teachings`.
+- The name will use the title of the study aid but as short as possible.
+- The name will always be in English, so if the original article is not in English, the title is translated.
+- Blank spaces are replaced by underscores.
+- Special characters like colons or exclamations are removed.
+- For example, if the title of a study aid is *Study of the Master Universe* a possible name would be `Study_of_the_Master_Universe`. If the title were *Las enseñanzas de Jesús* (Spanish), the name would be `Jesus_teachings`.
 
 If you are an “Assistant Editor” and you are not going to use the GitHub platform to send files, simply create any folder on your PC in which to leave the study aids that you create. Then when you send your work to an Administrator he or she will take care of creating the correct folders.
 

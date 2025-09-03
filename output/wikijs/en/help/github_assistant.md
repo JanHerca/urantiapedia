@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 In case If you want to collaborate in this project, the best way to contact us is by email at urantiapedia@gmail.com. Send a message stating your interest in the project and the Administrators will take care of giving you access.
 
-Another way that will be available soon will be through registration. on the website [Blue Fields](https://blue-fields.netlify.app/), which is a website that has been created to unite and organize readers of *The Urantia Book* who wish to participate in intelligent projects, purposeful and altruistic people around the world. Once registered, the project team will contact you. The Urantiapedia project on Blue Fields can be accessed here: [Urantiapedia on Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). However, this website is not 100% operational so it is recommended that you visit the Urantiapedia website on Blue Fields. contact via email.
+Another way that will be available soon will be through registration. on the website [Blue Fields](https://blue-fields.netlify.app/), which is a website that has been created to unite and organize readers of *The Urantia Book* who wish to participate in intelligent projects, purposeful and altruistic people around the world. Once registered, the project team will contact you. The Urantiapedia project on Blue Fields can be accessed here: [Urantiapedia on Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125). However, this website is not 100% operational so it is recommended that you visit the Urantiapedia website on Blue Fields.
 
 ## About GitHub
 

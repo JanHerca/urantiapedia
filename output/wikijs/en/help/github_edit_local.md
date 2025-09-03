@@ -50,8 +50,8 @@ This duplication of both projects can be a bit cumbersome, but it is designed th
 Once you have a sufficient number of *commits* submitted to your own copies of the Urantiapedia projects (*forks*), you can submit *pull requests* to the original projects so that the changes can be reviewed and merged into them. This is called a *pull request* in GitHub terminology.
 
 1. Open each of the Urantiapedia pages on GitHub.
-   - `https://github.com/<username>/urantiapedia`
-   - `https://github.com/<username>/urantiapedia-backup`
+  - `https://github.com/<username>/urantiapedia`
+  - `https://github.com/<username>/urantiapedia-backup`
 2. Make sure you are on the main branch called _master_. The branch appears in a menu at the top of the file list. Normally you will only have that branch.
 3. Select the _Contribute_ menu below, then select _Open pull request_. If the menu says _This branch is not ahead of the upstream master_, you must first fetch the main project. See below.
 

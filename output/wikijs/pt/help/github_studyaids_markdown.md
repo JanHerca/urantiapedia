@@ -42,11 +42,11 @@ Dentro das pastas `article` criaremos outra, caso não exista, com o nome do aut
 
 
 Tanto o arquivo Markdown no caso de auxílio de estudo curto quanto a pasta para um auxílio de estudo extenso serão nomeados com um nome exclusivo seguindo este critério:
-  - O nome usará o título do auxílio de estudo, mas o mais curto possível.
-  - O nome estará sempre em inglês, portanto, se o artigo original não estiver em inglês, o título será traduzido.
-  - Os espaços em branco são substituídos por sublinhados.
-  - Caracteres especiais como dois pontos ou exclamações são removidos.
-  - Por exemplo, se o título de um auxílio de estudo for *Study of the Master Universe*, um nome possível seria `Study_of_the_Master_Universe`. Se o título fosse *Las enseñanzas de Jesús* (espanhol), o nome seria `Jesus_teachings`.
+- O nome usará o título do auxílio de estudo, mas o mais curto possível.
+- O nome estará sempre em inglês, portanto, se o artigo original não estiver em inglês, o título será traduzido.
+- Os espaços em branco são substituídos por sublinhados.
+- Caracteres especiais como dois pontos ou exclamações são removidos.
+- Por exemplo, se o título de um auxílio de estudo for *Study of the Master Universe*, um nome possível seria `Study_of_the_Master_Universe`. Se o título fosse *Las enseñanzas de Jesús* (espanhol), o nome seria `Jesus_teachings`.
 
 Se você é um “Assistente Editor” e não vai usar a plataforma GitHub para enviar arquivos, basta criar uma pasta no seu PC para deixar os apostilas que você criou. Então, quando você enviar seu trabalho para um Administrador, ele cuidará de criar as pastas corretas.
 

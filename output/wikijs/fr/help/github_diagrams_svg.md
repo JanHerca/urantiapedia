@@ -38,11 +38,11 @@ Le processus ici sera donc la conversion de n'importe quel diagramme au format S
 ### Structure des diagrammes dans Urantiapedia
 
 Si vous êtes un « éditeur en chef » et que vous utiliserez la plate-forme GitHub, les diagrammes doivent être enregistrés dans ces dossiers de projet GitHub : `/output/wikijs/en/article` pour les diagrammes en anglais, `/output/wikijs/es/article` pour les schémas en espagnol, etc. Dans ces dossiers, nous en créerons un autre, s'il n'existe pas, avec le nom de l'auteur (avec des espaces vides remplacés par des traits de soulignement). Enfin, dans le dossier de l'auteur, nous allons créer un fichier Markdown avec un nom unique suivant ce critère :
-  - Le nom reprendra le titre du diagramme mais aussi abrégé que possible.
-  - Le nom sera toujours en anglais, donc si le schéma original n'est pas en anglais, le titre est traduit.
-  - Les espaces vides sont remplacés par des traits de soulignement.
-  - Les caractères spéciaux comme les deux-points ou les exclamations sont supprimés.
-  - Par exemple, si le titre d'un diagramme est *The Master Universe*, un nom de fichier possible serait `The_Master_Universe.md`. Si le titre était *Las personalidades del Espíritu Infinito* (espagnol), le fichier serait `Personalities_of_Infinite_Spirit.md`.
+- Le nom reprendra le titre du diagramme mais aussi abrégé que possible.
+- Le nom sera toujours en anglais, donc si le schéma original n'est pas en anglais, le titre est traduit.
+- Les espaces vides sont remplacés par des traits de soulignement.
+- Les caractères spéciaux comme les deux-points ou les exclamations sont supprimés.
+- Par exemple, si le titre d'un diagramme est *The Master Universe*, un nom de fichier possible serait `The_Master_Universe.md`. Si le titre était *Las personalidades del Espíritu Infinito* (espagnol), le fichier serait `Personalities_of_Infinite_Spirit.md`.
 
 Si vous êtes un «Assistant Editor» et que vous n'allez pas utiliser la plateforme GitHub pour envoyer des fichiers, créez simplement n'importe quel dossier sur votre PC dans lequel laisser les diagrammes que vous créez. Ensuite, lorsque vous envoyez votre travail à un administrateur, il s'occupe de créer les bons dossiers.
 

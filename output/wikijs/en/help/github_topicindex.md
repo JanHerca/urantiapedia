@@ -20,19 +20,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Here are described the steps needed to translate and review the *Encyclopedia* to any of languages of *Urantiapedia*. This is a task accomplish by "Editors-in-Chief".
+Here are described the steps needed to translate and review the *Encyclopedia* to any of languages of *Urantiapedia*. This is a task accomplish by “Editors-in-Chief”.
 
 The *Encyclopedia* is made up of a collection of TXT files derived from the appendix of *Urantia Fellowship* edition of *The Urantia Book* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
 > IMPORTANT: for executing this task currently there is a development in progress in *Urantiapedia Tools*, called *Topic Index Editor*, that makes editions easier and less prone to errors. Check section below.
+{.is-info}
 
 To create a new *Encyclopedia* for another language start from English version of *Encyclopedia* found in `input/txt/topic-index-en`. Make a copy of that folder and change the name to the target language.
 
-The folder contains a file for each letter of the alphabet (`a.txt`, `b.txt`, etc.) plus a `_.txt` file that contains the entries that start with a numeric digit. The reference ordering of the topics is always that of English, so each file contains the topics whose initial letter in English matches that letter. For example, the Spanish topic "Espíritu Infinito" must be found in `i.txt` file because the English topic begins with I ("Infinite Spirit").
+The folder contains a file for each letter of the alphabet (`a.txt`, `b.txt`, etc.) plus a `_.txt` file that contains the entries that start with a numeric digit. The reference ordering of the topics is always that of English, so each file contains the topics whose initial letter in English matches that letter. For example, the Spanish topic “Espíritu Infinito” must be found in `i.txt` file because the English topic begins with I (“Infinite Spirit”).
 
 The format is slightly similar to the YAML format (https://en.wikipedia.org/wiki/YAML) but simplified to be very easy to edit.
 
 > IMPORTANT: this file contains tabs and must be edited with a text editor that supports tabs rendering. Recommended editors are: Visual Studio Code (https://code.visualstudio.com/), Notepad++ (https://notepad-plus-plus.org/), or Sublime Text (https://www.sublimetext.com/).
+{.is-info}
 
 ## Encyclopedia TXT format
 
@@ -141,6 +143,7 @@ In the previous extract we can see:
 - Notice that external links to a topic are added at the end of the topic and use the character `>` at the beggining of each line. The example above shows how to link to English Wikipedia about apostles. You can add multiple links, each in one line, as long as they start with the character `>` and follow a blank space before the URL.
 
 > IMPORTANT: in the text of a line parenthesis `(` `)` must be avoided because they are reserved only for defining references to *The Urantia Book*. If you need to say something in parenthesis, change the text to one that uses `,` comma for separation.
+{.is-info}
 
 ## Names and alias
 

@@ -42,11 +42,11 @@ Dans les dossiers `article` nous en créerons un autre, s'il n'existe pas, avec 
 
 
 Le fichier Markdown dans le dossier d'aide à l'étude courte et le dossier d'une aide à l'étude approfondie seront nommés avec un nom unique suivant ces critères :
-  - Le nom reprendra le titre de l'aide à l'étude mais le plus court possible.
-  - Le nom sera toujours en anglais, donc si l'article original n'est pas en anglais, le titre est traduit.
-  - Les espaces vides sont remplacés par des traits de soulignement.
-  - Les caractères spéciaux comme les deux-points ou les exclamations sont supprimés.
-  - Par exemple, si le titre d'une aide à l'étude est *Study of the Master Universe*, un nom possible serait `Study_of_the_Master_Universe`. Si le titre était *Las enseñanzas de Jesús* (espagnol), le nom serait `Jesus_teachings`.
+- Le nom reprendra le titre de l'aide à l'étude mais le plus court possible.
+- Le nom sera toujours en anglais, donc si l'article original n'est pas en anglais, le titre est traduit.
+- Les espaces vides sont remplacés par des traits de soulignement.
+- Les caractères spéciaux comme les deux-points ou les exclamations sont supprimés.
+- Par exemple, si le titre d'une aide à l'étude est *Study of the Master Universe*, un nom possible serait `Study_of_the_Master_Universe`. Si le titre était *Las enseñanzas de Jesús* (espagnol), le nom serait `Jesus_teachings`.
 
 Si vous êtes un «Rédacteur adjoint» et que vous n'allez pas utiliser la plateforme GitHub pour envoyer des fichiers, créez simplement n'importe quel dossier sur votre PC dans lequel laisser les aides à l'étude que vous créez. Ensuite, lorsque vous envoyez votre travail à un administrateur, il s'occupe de créer les bons dossiers.
 

@@ -25,6 +25,7 @@ Aquí se describen los pasos necesarios para traducir y revisar el *Índice de T
 El *Índice de Términos* está compuesto por una colección de archivos TXT obtenidos a partir del apéndice de la edición de *The Urantia Book* de la *Urantia Fellowship* ([Topic Index](https://urantia-book.org/urantiabook/topical_index/index.htm)).
 
 > IMPORTANTE: para ejecutar esta tarea actualmente hay un desarrollo en progreso en las *Urantiapedia Tools*, llamado *Topic Index Editor*, que hace las ediciones más fáciles y menos propensas a errores. Echa un vitazo a la sección más abajo.
+{.is-info}
 
 Para crear un nuevo *Índice de Términos* en otro idioma empieza con la versión en inglés del *Índice de términos* que se encuentra en `input/txt/topic-index-en`. Haz una copia de esa carpeta y cambia el nombre por el del idioma de destino.
 
@@ -33,6 +34,7 @@ La carpeta contiene un archivo por cada letra del alfabeto (`a.txt`, `b.txt`, et
 El formato es ligeramente parecido al formato YAML (https://en.wikipedia.org/wiki/YAML) pero simplificado al máximo para ser muy fácil de editar.
 
 > IMPORTANTE: este archivo contiene tabulaciones y debe ser editado con un editor de texto que admita la visualización de tabuladores. Editores recomendados son: Visual Studio Code (https://code.visualstudio.com/), Notepad++ (https://notepad-plus-plus.org/), o Sublime Text (https://www.sublimetext.com/).
+{.is-info}
 
 ## Formato TXT del Índice de Términos
 
@@ -141,6 +143,7 @@ En el extracto anterior se puede ver:
 - Fíjate que los enlaces externos de un término se añaden al final del término usando el carácter `>` delante de cada línea. El ejemplo anterior muestra cómo se ha añadido un enlace a la web de la Wikipedia en español sobre los apóstoles. Se pueden añadir varios enlaces, cada uno en una línea, siempre que empiecen con el carácter `>` y detrás un espacio en blanco antes de la URL.
 
 > IMPORTANTE: en el texto de una línea los paréntesis `(` `)` deben evitarse porque están reservados para definir referencias a *El Libro de Urantia*. Si necesitas decir algo entre paréntesis, cambia el texto para que use `,` comas como separación.
+{.is-info}
 
 ## Nombres y alias
 

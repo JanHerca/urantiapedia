@@ -38,11 +38,11 @@ O processo aqui será, portanto, a conversão de qualquer diagrama para o format
 ### Estrutura dos diagramas em Urantiapedia
 
 Se você for um “editor chefe” e estiver usando a plataforma GitHub, os diagramas devem ser salvos nestas pastas do projeto GitHub: `/output/wikijs/en/article` para diagramas em inglês, `/output/wikijs/es/article` para diagramas em espanhol, etc. Dentro dessas pastas criaremos outra, caso não exista, com o nome do autor (com espaços em branco substituídos por sublinhados). Por fim, dentro da pasta do autor, criaremos um arquivo Markdown com um nome exclusivo seguindo este critério:
-  - O nome usará o título do diagrama, mas o mais abreviado possível.
-  - O nome estará sempre em inglês, portanto, se o diagrama original não estiver em inglês, o título será traduzido.
-  - Os espaços em branco são substituídos por sublinhados.
-  - Caracteres especiais como dois pontos ou exclamações são removidos.
-  - Por exemplo, se o título de um diagrama for *The Master Universe*, um possível nome de arquivo seria `The_Master_Universe.md`. Se o título fosse *Las personalidades del Espíritu Infinito* (espanhol), o arquivo seria `Personalities_of_Infinite_Spirit.md`.
+- O nome usará o título do diagrama, mas o mais abreviado possível.
+- O nome estará sempre em inglês, portanto, se o diagrama original não estiver em inglês, o título será traduzido.
+- Os espaços em branco são substituídos por sublinhados.
+- Caracteres especiais como dois pontos ou exclamações são removidos.
+- Por exemplo, se o título de um diagrama for *The Master Universe*, um possível nome de arquivo seria `The_Master_Universe.md`. Se o título fosse *Las personalidades del Espíritu Infinito* (espanhol), o arquivo seria `Personalities_of_Infinite_Spirit.md`.
 
 Se você é um “Assistente Editor” e não vai usar a plataforma GitHub para enviar arquivos, basta criar uma pasta no seu PC para deixar os diagramas que você criar. Então, quando você enviar seu trabalho para um Administrador, ele cuidará de criar as pastas corretas.
 

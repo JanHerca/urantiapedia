@@ -59,7 +59,7 @@ If you ever need to convert a PDF to Markdown, please refer to the [Getting Book
 
 ## Structure of a Book on Urantiapedia
 
-We already indicated in [the previous task](/en/help/github_sourcebooks_catalog) how the "source" books are organized into shelves and groups, and where you can consult the list of all the planned books.
+We already indicated in [the previous task](/en/help/github_sourcebooks_catalog) how the “source” books are organized into shelves and groups, and where you can consult the list of all the planned books.
 
 The books must be saved in these folders of the GitHub project: `/output/wikijs/en/book` for books in English, `/output/wikijs/es/book` for books in Spanish, etc. Inside these folders we will create another one, if it does not exist, with the name of the author (with the blank spaces replaced by underscores). Finally, inside the author folder, we will create a folder for each book, where the chapters will go, and a Markdown file with the same name as the folder, where the book cover will go. For example, the folder `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us` contains the chapters of a book about astronomy, and the file `/output/wikijs/en/book/Sir_James_Jeans/The_Universe_Around_Us.md` is the cover of that book.
 

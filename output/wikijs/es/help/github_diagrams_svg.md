@@ -38,11 +38,11 @@ El proceso aquí por tanto será la conversión de cualquier diagrama al formato
 ### Estructura de los diagramas en Urantiapedia
 
 Si eres un «Editor Jefe» y vas a usar la plataforma GitHub, los diagramas deben guardarse en estas carpetas del proyecto GitHub: `/output/wikijs/en/article` para diagramas en inglés, `/output/wikijs/es/article` para diagramas en español, etc. Dentro de estas carpetas crearemos otra, si no existe, con el nombre del autor (con los espacios en blanco sustituidos por guiones bajos). Finalmente, dentro de la carpeta del autor, crearemos un archivo Markdown al que pondremos un nombre único siguiendo este criterio:
-  - El nombre usará el título del diagrama pero lo más abreviado posible.
-  - El nombre siempre será en inglés, de modo que si el diagrama original no es en inglés se traduce el título.
-  - Los espacios en blanco se reemplazan por guiones bajos.
-  - Los caracteres raros como dos puntos o exclamaciones se quitan.
-  - Por ejemplo, si el título de un diagrama es *The Master Universe* un posible nombre de fichero sería `The_Master_Universe.md`. Si el título fuera *Las personalidades del Espíritu Infinito*, el fichero sería `Personalities_of_Infinite_Spirit.md`.
+- El nombre usará el título del diagrama pero lo más abreviado posible.
+- El nombre siempre será en inglés, de modo que si el diagrama original no es en inglés se traduce el título.
+- Los espacios en blanco se reemplazan por guiones bajos.
+- Los caracteres raros como dos puntos o exclamaciones se quitan.
+- Por ejemplo, si el título de un diagrama es *The Master Universe* un posible nombre de fichero sería `The_Master_Universe.md`. Si el título fuera *Las personalidades del Espíritu Infinito*, el fichero sería `Personalities_of_Infinite_Spirit.md`.
 
 Si eres un «Editor Asistente» y no vas a usar la plataforma GitHub para el envío de ficheros, simplemente crea una carpeta cualquiera en tu PC en la que dejar los diagramas que vayas creando. Luego al enviar tu trabajo a un Administrador él se encargará de crear las carpetas correctas.
 

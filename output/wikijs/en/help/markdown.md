@@ -361,7 +361,7 @@ Adding tabs before each line.
     line 2 of code
     line 3 of code
 
-### Block code "fences"
+### Block code “fences”
 
 ### Tab {.tabset}
 

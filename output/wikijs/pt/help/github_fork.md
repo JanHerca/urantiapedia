@@ -27,8 +27,8 @@ Antes de fazer qualquer coisa no GitHub, você precisará seguir estas etapas:
 3. Se você não possui uma conta, crie uma clicando em *Sign up*. Digite um nome de usuário, e-mail e senha. Depois de ter uma conta, faça login no GitHub com ela. 
 4. Na primeira vez que você entrar no GitHub, ele solicitará verificação por e-mail. Depois de verificado, você aparecerá na sua página do GitHub. 
 5. Abra as páginas do projeto *Urantiapedia*: 
-   - https://github.com/JanHerca/urantiapedia 
-   - https://github.com/JanHerca/urantiapedia-backup 
+  - https://github.com/JanHerca/urantiapedia 
+  - https://github.com/JanHerca/urantiapedia-backup 
 6. Crie um *fork* dos projetos. Um *fork* nada mais é do que uma cópia de um projeto por sua própria conta, de forma que as alterações feitas na cópia não afetem o projeto original. Para bifurcar, clique no botão *Fork* no canto superior direito de cada página do projeto GitHub. 
 
 ![](/image/help/github_fork_1.png) 

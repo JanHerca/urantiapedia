@@ -105,7 +105,7 @@ To edit the image catalog you have to go to the GitHub project and modify this f
 
 ## Sending files
 
-To push changes you have two options: 1) if you are a “Editor-in-Chief” use GitHub as detailed in the [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the modified Markdown files to any Administrator's email or to urantiapedia@gmail.com.
+To push changes you have two options: if you are a “Editor-in-Chief” use GitHub as detailed in the [Editors-in-Chief Help](/en/help/github); if you are an “Assistant Editor”, you can simply send the modified Markdown files to any Administrator's email or to urantiapedia@gmail.com.
 
 ## External links
 

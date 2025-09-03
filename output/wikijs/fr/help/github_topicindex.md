@@ -25,6 +25,7 @@ Ici sont décrites les étapes nécessaires pour traduire et réviser l'*Index d
 L'*Index des sujets* est composé d'une collection de fichiers TXT dérivés de l'annexe de l'édition de la *Communauté Urantia* du *Livre d'Urantia* ([Index des sujets](https://urantia-book.org/urantiabook/topical_index/ index.htm)).
 
 > IMPORTANT : pour exécuter cette tâche, il y a actuellement un développement en cours dans *Urantiapedia Tools*, appelé *Topic Index Editor*, qui rend les éditions plus faciles et moins sujettes aux erreurs. Consultez la section ci-dessous.
+{.is-info}
 
 Pour créer un nouveau *Topic Index* pour une autre langue, commencez par la version anglaise de *Topic Index* trouvée dans `input/txt/topic-index-en`. Faites une copie de ce dossier et changez le nom en langue cible.
 
@@ -33,6 +34,7 @@ Le dossier contient un fichier pour chaque lettre de l'alphabet (`a.txt`, `b.txt
 Le format est légèrement similaire au format YAML (https://en.wikipedia.org/wiki/YAML) mais simplifié pour être très facile à modifier.
 
 > IMPORTANT : ce fichier contient des onglets et doit être modifié avec un éditeur de texte prenant en charge le rendu des onglets. Les éditeurs recommandés sont : Visual Studio Code (https://code.visualstudio.com/), Notepad++ (https://notepad-plus-plus.org/) ou Sublime Text (https://www.sublimetext.com/ ).
+{.is-info}
 
 ## Index des sujets Format TXT
 
@@ -141,6 +143,7 @@ Dans l'extrait précédent, nous pouvons voir:
 - Notez que les liens externes vers un sujet sont ajoutés à la fin du sujet et utilisez le caractère `>` au début de chaque ligne. L'exemple ci-dessus montre comment créer un lien vers Wikipedia anglais sur les apôtres. Vous pouvez ajouter plusieurs liens, chacun sur une ligne, tant qu'ils commencent par le caractère `>` et suivent un espace vide avant l'URL.
 
 > IMPORTANT : dans le texte d'une ligne, les parenthèses `(` `)` doivent être évitées car elles sont réservées uniquement pour définir des références au *Livre d'Urantia*. Si vous devez dire quelque chose entre parenthèses, remplacez le texte par un texte utilisant `,` comme séparation.
+{.is-info}
 
 ## Noms et alias
 

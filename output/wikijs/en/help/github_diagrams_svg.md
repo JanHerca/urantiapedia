@@ -38,11 +38,11 @@ The process here will therefore be the conversion of any diagram to SVG format b
 ### Structure of the diagrams in Urantiapedia
 
 If you are a “Editor-in-Chief” and will be using the GitHub platform, diagrams should be saved in these GitHub project folders: `/output/wikijs/en/article` for English diagrams, `/output/wikijs/es/article` for diagrams in Spanish, etc. Within these folders we will create another one, if it does not exist, with the author's name (with blank spaces replaced by underscores). Finally, inside the author's folder, we will create a Markdown file with a unique name following this criteria:
-  - The name will use the title of the diagram but as abbreviated as possible.
-  - The name will always be in English, so if the original diagram is not in English, the title is translated.
-  - Blank spaces are replaced by underscores.
-  - Special characters like colons or exclamations are removed.
-  - For example, if the title of a diagram is *The Master Universe* a possible file name would be `The_Master_Universe.md`. If the title were *Las personalidades del Espíritu Infinito* (Spanish), the file would be `Personalities_of_Infinite_Spirit.md`.
+- The name will use the title of the diagram but as abbreviated as possible.
+- The name will always be in English, so if the original diagram is not in English, the title is translated.
+- Blank spaces are replaced by underscores.
+- Special characters like colons or exclamations are removed.
+- For example, if the title of a diagram is *The Master Universe* a possible file name would be `The_Master_Universe.md`. If the title were *Las personalidades del Espíritu Infinito* (Spanish), the file would be `Personalities_of_Infinite_Spirit.md`.
 
 If you are an “Assistant Editor” and you are not going to use the GitHub platform to send files, simply create any folder on your PC in which to leave the diagrams that you create. Then when you send your work to an Administrator he or she will take care of creating the correct folders.
 

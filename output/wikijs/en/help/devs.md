@@ -42,13 +42,13 @@ This manual is for "Developers", or users that comply with these requirements:
 ## GitHub workflow
 
 The process is the usual GitHub workflow:
-1. "Developer" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) for developing in *Urantiapedia Tools*, or creates a *fork* of Wiki.js (https://github.com/Requarks/wiki) for developing in *Wiki.js*.
-2. "Developer" creates a local copy of the project on PC. The local copy must be of the latest version of the master branch. This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
-3. "Developer" makes changes in the local copy and commmits to it.
-4. "Developer" sends changes to GitHub through a *push*. 
+1. “Developer” creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) for developing in *Urantiapedia Tools*, or creates a *fork* of Wiki.js (https://github.com/Requarks/wiki) for developing in *Wiki.js*.
+2. “Developer” creates a local copy of the project on PC. The local copy must be of the latest version of the master branch. This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
+3. “Developer” makes changes in the local copy and commmits to it.
+4. “Developer” sends changes to GitHub through a *push*. 
 5. For *Urantiapedia Tools*, as it is an owned repo it is possible to do a *pull request* from GitHub website. In case of *Wiki.js*, as it is owned by a third party, it is needed to create a *merge* in the this *fork* https://github.com/JanHerca/wiki to centralize *pull requests* to Wiki,js *upstream* when it is needed and to coordinate developments.
 6. *Pull requests* are reviewed by authorized developers, in charge of doing a *merge* in the master branch of all changes that are OK. Any invalid change is rejected and is notified for a fix.
-7. When changes are made to Wiki.js and are OK we can proceed to launch a new version of the server. This task is done by "Admins".
+7. When changes are made to Wiki.js and are OK we can proceed to launch a new version of the server. This task is done by “Admins”.
 8. The process is repeated as many times as needed, returning to point 3.
 
 ## Installing a dev server
