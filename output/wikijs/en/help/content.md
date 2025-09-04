@@ -264,7 +264,7 @@ Within this folder, the images are organized into subfolders as follows:
 * `article`: Images for the Newspaper Archive. It is preferable that all images for a publication be located in a folder specific to that publication.
 * `book`: Images for the Library. The structure within the folder should be identical to that of the `[language]/book` folder shown above.
 * `diagram`: Diagrams. Infographics or charts that explain and clarify topics in the book.
-* help: Images for this Urantiapedia help.
+* `help`: Images for this Urantiapedia help.
 * `map`: Maps. Static maps, although they may contain links if they are in `svg` format or if they use [HTML image maps](https://www.w3schools.com/html/html_images_imagemap.asp).
 * `The_Urantia_Book`: Images to illustrate _The Urantia Book_.
 

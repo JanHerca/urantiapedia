@@ -28,7 +28,7 @@ For each language to be incorporated into *Urantiapedia*, the following will be 
 
 In summary, for the French language example the content to be created as input would be: 
 
-``` 
+```
 input 
     html 
         book-fr 
@@ -43,12 +43,12 @@ input
     txt 
         topic-index-fr 
             *.txt 
-``` 
+```
 For any other language, this would be done in a similar way. Some of this content may already be available in the current GitHub project. It is a good idea to review the existing content before incorporating new content. 
 
 The result that the previous content in French would generate would be as follows: 
 
-``` 
+```
 output 
     wikijs 
         fr 
@@ -63,7 +63,7 @@ output
                 *.html 
             topic 
                 *.html 
-``` 
+```
 
 Once the folders and files are organized as indicated, each of the tasks necessary to create the final files will be carried out using the *Urantiapedia Tools* and some hand editing. This is detailed in the following pages of this manual.
 

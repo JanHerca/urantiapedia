@@ -33,13 +33,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ![](/image/help/github_fork_1.png)
 
-6. 几秒钟后，*Urantiapedia* 项目的副本将创建在您的 GitHub 帐户中。这些项目是全新且完整的副本，您可以根据需要进行任何更改，而不会影响原始项目。点击您的用户菜单，选择“您的仓库”，返回您的帐户，检查这些项目是否已创建。您应该会看到两个项目以及一条“Forked from ...”的消息。
+7. 几秒钟后，*Urantiapedia* 项目的副本将创建在您的 GitHub 帐户中。这些项目是全新且完整的副本，您可以根据需要进行任何更改，而不会影响原始项目。点击您的用户菜单，选择“您的仓库”，返回您的帐户，检查这些项目是否已创建。您应该会看到两个项目以及一条“Forked from ...”的消息。
 
 ![](/image/help/github_fork_2.png)
 
 ![](/image/help/github_fork_3.png)
 
-7. 从这里开始，有两个选项：
+8. 从这里开始，有两个选项：
   - [直接从 GitHub 网站进行操作](/zh/help/github_edit_on_web)。此方法非常简单，推荐使用。
   - 在电脑上本地操作。此过程较为复杂，需要更多步骤：
     - [设置 Urantiapedia GitHub 项目](/zh/help/github_setting)

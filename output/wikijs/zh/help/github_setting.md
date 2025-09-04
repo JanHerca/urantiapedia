@@ -62,7 +62,7 @@ Node.js 是运行 *Urantiapedia 工具* 的必要条件。如果您不打算运�
 
 ## 克隆 Urantiapedia 项目
 
-1.打开 GitHub 网站并导航到您的帐户。
+1. 打开 GitHub 网站并导航到您的帐户。
 2. 打开您应该创建的 Urantiapedia 项目（_forks_）的副本。
 3. 在每个副本的主页上单击名为 _Code_ 的绿色菜单，然后单击那里复制项目 URL，例如 `https://github.com/<username>/urantiapedia.git` 和 `https://github.com/<username>/urantiapedia-backup.git`。
 
@@ -97,13 +97,13 @@ Node.js 是运行 *Urantiapedia 工具* 的必要条件。如果您不打算运�
 1. 在 VS Code 中打开 *urantiapedia* 项目。您可以通过两种方式操作：
   - 打开 VS Code。选择“文件”>“打开文件夹”。选择项目的根文件夹，即包含`package.json`文件的文件夹。
   - 或者，在 Windows 上，您可以通过根文件夹的上下文菜单打开项目并选择_使用代码打开_。
-3. 使用“终端”>“新建终端”打开终端。确保该终端已在项目根文件夹中打开。
-4. 要安装 *Urantiapedia Tools* 依赖项，请运行：`npm install`。等待所有依赖项安装完成。
+2. 使用“终端”>“新建终端”打开终端。确保该终端已在项目根文件夹中打开。
+3. 要安装 *Urantiapedia Tools* 依赖项，请运行：`npm install`。等待所有依赖项安装完成。
 
 ![](/image/help/github_setting_5.png)
 
-5. 项目已设置默认运行配置。按 F5 运行应用程序，或在终端中运行 `npm run start`。
-6. 应用程序打开。默认情况下，会打开一个“开发工具”窗口用于调试。如果您不进行开发，可以忽略或关闭它。
+4. 项目已设置默认运行配置。按 F5 运行应用程序，或在终端中运行 `npm run start`。
+5. 应用程序打开。默认情况下，会打开一个“开发工具”窗口用于调试。如果您不进行开发，可以忽略或关闭它。
 
 ![](/image/help/uptools.png)
 

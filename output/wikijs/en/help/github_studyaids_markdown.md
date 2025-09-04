@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
- 
+
 Here it is described how to obtain the study aids of _The Urantia Book_, that have been cataloged following the task [Creating a catalog of study aids](/en/help/github_studyaids_catalog).
 
 ## Process

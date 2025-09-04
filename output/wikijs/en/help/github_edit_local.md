@@ -79,11 +79,11 @@ Since *Urantiapedia* is a team effort, it is common that at any given time your 
 
 4. Go to VS Code.
 5. Open the project as already explained.
-5. In the _Source control_ panel, go to the _Commits_ subpanel. Click the small _Fetch_ button and then the _Pull_ button next to it. This action fetches and pushes changes at the same time to sync the local repository.
+6. In the _Source control_ panel, go to the _Commits_ subpanel. Click the small _Fetch_ button and then the _Pull_ button next to it. This action fetches and pushes changes at the same time to sync the local repository.
 
 ![](/image/help/github_setting_9.png)
 
-6. Sometimes changes to the *Urantiapedia Tools* code mean changes to dependencies. You must install or update new dependencies by running the `npm install` command from a terminal in VS Code. This will update the project's dependencies.
+7. Sometimes changes to the *Urantiapedia Tools* code mean changes to dependencies. You must install or update new dependencies by running the `npm install` command from a terminal in VS Code. This will update the project's dependencies.
 
 
 ## Summary

@@ -33,13 +33,13 @@ Before you do anything on GitHub, you'll need to follow these steps:
 
 ![](/image/help/github_fork_1.png) 
 
-6. Within a few seconds, a copy of the *Urantiapedia* projects will be created in your GitHub account. These projects are a new, complete copy that you can make any changes you need without affecting the original projects. Check that you have them by clicking on your user menu and selecting _Your repositories_ to return to your account. You should see both projects and a message saying _Forked from ..._. 
+7. Within a few seconds, a copy of the *Urantiapedia* projects will be created in your GitHub account. These projects are a new, complete copy that you can make any changes you need without affecting the original projects. Check that you have them by clicking on your user menu and selecting _Your repositories_ to return to your account. You should see both projects and a message saying _Forked from ..._. 
 
 ![](/image/help/github_fork_2.png) 
 
 ![](/image/help/github_fork_3.png) 
 
-7. From here, there are two options: 
+8. From here, there are two options: 
   - [Work directly from the GitHub website](/en/help/github_edit_on_web). This procedure is recommended because it is very simple. 
   - Work locally on the PC. This procedure is more complex. It requires more steps:
     - [Setting up the Urantiapedia GitHub project](/en/help/github_setting) 

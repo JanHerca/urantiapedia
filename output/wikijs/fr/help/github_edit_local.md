@@ -79,11 +79,11 @@ Comme *Urantiapedia* est l'effort d'une équipe de collaborateurs, il est couran
 
 4. Accédez à VS Code.
 5. Ouvrez le projet comme déjà expliqué.
-5. Dans le panneau _Source control_, accédez au sous-panneau _Commits_. Cliquez sur le petit bouton _Fetch_ puis sur le bouton _Pull_ à côté. Cette action récupère et transmet les modifications en même temps pour synchroniser le référentiel local.
+6. Dans le panneau _Source control_, accédez au sous-panneau _Commits_. Cliquez sur le petit bouton _Fetch_ puis sur le bouton _Pull_ à côté. Cette action récupère et transmet les modifications en même temps pour synchroniser le référentiel local.
 
 ![](/image/help/github_setting_9.png)
 
-6. Parfois, les modifications apportées au code des *Urantiapedia Tools* impliquent des modifications des dépendances. Vous devez installer ou mettre à jour de nouvelles dépendances en exécutant la commande `npm install` depuis un terminal dans VS Code. Cela mettra à jour les dépendances du projet.
+7. Parfois, les modifications apportées au code des *Urantiapedia Tools* impliquent des modifications des dépendances. Vous devez installer ou mettre à jour de nouvelles dépendances en exécutant la commande `npm install` depuis un terminal dans VS Code. Cela mettra à jour les dépendances du projet.
 
 
 ## Résumé

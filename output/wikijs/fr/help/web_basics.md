@@ -55,7 +55,7 @@ La boîte de dialogue suivante apparaît :
    - Le chemin ne doit contenir aucun espace *(utilisez des tirets à la place)*, aucun point et se compose de caractères sécurisés pour les URL.
    - **NE PAS** mettre une barre oblique à la fin.
    - Vous n'avez pas besoin de créer des dossiers. Entrez le chemin complet que vous souhaitez créer et les dossiers seront créés automatiquement. Par exemple, saisissez `article/Ann_Bendall/Adam_and_Eve` pour créer automatiquement les sous-dossiers `article` et `Ann_Bendall`.
-1. Cliquez sur **Sélectionner** pour continuer.
+3. Cliquez sur **Sélectionner** pour continuer.
 
 ### Sélectionnez un éditeur
 

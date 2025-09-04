@@ -55,7 +55,7 @@ The following dialog will appear:
    - The path should contain no spaces *(use dashes instead)*, no periods and consists of URL-safe characters.
    - **DO NOT** put a trailing slash.
    - You don't need to create folders. Enter the full path you want to create and folders will be created automatically. For example, enter `article/Ann_Bendall/Adam_and_Eve` to automatically create the `article` and `Ann_Bendall` subfolders.
-1. Click **Select** to proceed.
+3. Click **Select** to proceed.
 
 ### Select an Editor
 

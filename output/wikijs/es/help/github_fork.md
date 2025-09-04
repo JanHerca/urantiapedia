@@ -33,13 +33,13 @@ Antes de hacer nada en GitHub, deberás seguir estos pasos:
 
 ![](/image/help/github_fork_1.png)
 
-6. En unos pocos segundos una copia de los proyectos de la *Urantiapedia* se creará en tu cuenta de GitHub. Estos proyectos son una copia nueva y completa en la que puedes hacer todos los cambios que necesites sin afectar a los proyectos originales. Comprueba que los tienes haciendo clic en el menu de tu usuario y selecciona _Your repositories_ para volver a tu cuenta. Deberías ver los dos proyectos y un mensaje indicando _Forked from ..._.
+7. En unos pocos segundos una copia de los proyectos de la *Urantiapedia* se creará en tu cuenta de GitHub. Estos proyectos son una copia nueva y completa en la que puedes hacer todos los cambios que necesites sin afectar a los proyectos originales. Comprueba que los tienes haciendo clic en el menu de tu usuario y selecciona _Your repositories_ para volver a tu cuenta. Deberías ver los dos proyectos y un mensaje indicando _Forked from ..._.
 
 ![](/image/help/github_fork_2.png)
 
 ![](/image/help/github_fork_3.png)
 
-7. A partir de aquí existen dos opciones:
+8. A partir de aquí existen dos opciones:
   - [Trabajar directamente desde la web de GitHub](/es/help/github_edit_on_web). Este procedimiento es el recomendado porque es muy sencillo.
   - Trabajar localmente en el PC. Este procedimiento es más complejo. Require de más pasos:
     - [Configurar el proyecto Urantiapedia de GitHub](/es/help/github_setting)

@@ -55,7 +55,7 @@ A seguinte caixa de diálogo aparecerá:
    - O caminho não deve conter espaços *(use hífens)*, sem pontos e consiste em caracteres seguros para URL.
    - **NÃO** coloque uma barra final.
    - Você não precisa criar pastas. Digite o caminho completo que você deseja criar e as pastas serão criadas automaticamente. Por exemplo, digite `article/Ann_Bendall/Adam_and_Eve` para criar automaticamente as subpastas `article` e `Ann_Bendall`.
-1. Clique em **Selecionar** para continuar.
+3. Clique em **Selecionar** para continuar.
 
 ### Selecione um editor
 

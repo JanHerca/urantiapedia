@@ -97,13 +97,13 @@ The use of Visual Studio Code is highly recommended.
 1. Open the *urantiapedia* project in VS Code. You can do this in two ways:
   - Open VS Code. Select _File > Open folder_. Select the root folder of the project, the one that contains the `package.json` file.
   - Optionally, on Windows you can open the project via the context menu of the root folder and select _Open with Code_.
-3. Open a terminal using _Terminal > New Terminal_. Make sure the terminal is open in the root folder of the project.
-4. To install the *Urantiapedia Tools* dependencies run: `npm install`. Wait until all are installed.
+2. Open a terminal using _Terminal > New Terminal_. Make sure the terminal is open in the root folder of the project.
+3. To install the *Urantiapedia Tools* dependencies run: `npm install`. Wait until all are installed.
 
 ![](/image/help/github_setting_5.png)
 
-5. The project is set up with a default run configuration. Press F5 to run the application or run `npm run start` in the terminal.
-6. The application opens. By default, a _Dev Tools_ window opens for debugging. If you are not developing, you can ignore or close it.
+4. The project is set up with a default run configuration. Press F5 to run the application or run `npm run start` in the terminal.
+5. The application opens. By default, a _Dev Tools_ window opens for debugging. If you are not developing, you can ignore or close it.
 
 ![](/image/help/uptools.png)
 

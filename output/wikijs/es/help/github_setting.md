@@ -97,13 +97,13 @@ Las *Urantiapedia Tools* es una aplicación de escritorio desarrollada en JavaSc
 1. Abre el proyecto *urantiapedia* en VS Code. Para ello puedes hacerlo de dos modos:
   - Abre VS Code. Selecciona _File > Open folder_. Selecciona la carpeta raíz del proyecto, la que contiene el fichero `package.json`.
   - Opcionalmente, en Windows puedes abrir el proyecto mediante el menú contextual de la carpeta raíz y seleccionar _Abrir con Code_.
-3. Abre un terminal usando _Terminal > New Terminal_. Asegúrate de que el terminal está abierto en la carpeta raíz del proyecto. 
-4. Para instalar las dependencias de *Urantiapedia Tools* ejecuta: `npm install`. Espera hasta que todas se instalan.
+2. Abre un terminal usando _Terminal > New Terminal_. Asegúrate de que el terminal está abierto en la carpeta raíz del proyecto. 
+3. Para instalar las dependencias de *Urantiapedia Tools* ejecuta: `npm install`. Espera hasta que todas se instalan.
 
 ![](/image/help/github_setting_5.png)
 
-5. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la aplicación o en el terminal ejecuta `npm run start`.
-6. La aplicación se abre. Por defecto se abre una ventana _Dev Tools_ para poder depurar. Si no estás desarrollando puedes ignorarla o cerrarla.
+4. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la aplicación o en el terminal ejecuta `npm run start`.
+5. La aplicación se abre. Por defecto se abre una ventana _Dev Tools_ para poder depurar. Si no estás desarrollando puedes ignorarla o cerrarla.
 
 ![](/image/help/uptools.png)
 
