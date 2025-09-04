@@ -322,7 +322,7 @@ Most used browsers | Chrome (65%), Safari (21%)
 
 As you can see, the number of annual sessions (31,204) is far from the expected 40,000, and the number of annual users (17,596) is even further from the expected 30,000. However, the charts showing the number of sessions and users show a clear upward trend, suggesting that we will be able to achieve our goals sometime this year or next if the website's content continues to grow, especially if it expands to other languages.
 
-<figure id="img_1" class="image urantiapedia image-style-align-center">
+<figure id="img_9" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_01.png">
 <figcaption><em>Figure 1. Evolution of active users</em></figcaption>
 </figure>
@@ -331,7 +331,7 @@ As you can see, the number of annual sessions (31,204) is far from the expected 
 
 Regarding the number of returning users, we are slightly below (18%) the values ​​we had set for ourselves (>20%). This undoubtedly calls for important reflection. Not many users feel the urge to return to the site, which indicates that there is still work to be done regarding the usefulness of the content.
 
-<figure id="img_2" class="image urantiapedia image-style-align-center">
+<figure id="img_10" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_02.png">
 <figcaption><em>Figure 2. Countries with the most visits</em></figcaption>
 </figure>
@@ -340,7 +340,7 @@ Regarding the number of returning users, we are slightly below (18%) the values 
 
 The bounce rate, which we had set as a maximum of 60%, has been achieved, with a value of 43.67%, although it is still high. We believe this is due to what we mentioned earlier: the content may be comprehensive, but its usefulness is limited, which is why many users fail to fully interact with the site.
 
-<figure id="img_3" class="image urantiapedia image-style-align-center">
+<figure id="img_11" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_03.png">
 <figcaption><em>Figure 3. Languages ​​​​of users with the most visits</em></figcaption>
 </figure>
@@ -349,7 +349,7 @@ The bounce rate, which we had set as a maximum of 60%, has been achieved, with a
 
 Finally, the average interaction time should have been over 2 minutes, and this has been more than met. It's almost 3 minutes (2 min 55 s) per session, although the average time per user is still too low (5 min 11 s). We believe this time should be improved, since 5 minutes is a short reading time, and _Urantiapedia_ is essentially a reading site. However, it can be said that this objective has clearly been more than met.
 
-<figure id="img_4" class="image urantiapedia image-style-align-center">
+<figure id="img_12" class="image urantiapedia image-style-align-center">
 <img src="/image/stats_msp_04.png">
 <figcaption><em>Figure 4. Most used browsers</em></figcaption>
 </figure>

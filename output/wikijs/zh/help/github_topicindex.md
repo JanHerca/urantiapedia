@@ -49,7 +49,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 < Entry = Name | Refs | See also | Category | OK (= revised)
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
-< Help: https://urantiapedia.org/en/help/github_topicindex
+< Help: https://urantiapedia.org/zh/help/github_topicindex
 <__________________________________________________________________________________
 
 A-B-C the First; A-B-C the first | (77:8.2) | | PERSON | OK
@@ -234,7 +234,7 @@ orders
 
 ## *主题索引编辑器*
 
-*主题索引编辑器*是一款正在开发中的工具，但目前状态下，它有助于完成一些百科全书的审阅和编辑任务。由于该软件需要预先安装且设置复杂，因此它不属于“助理编辑”的范畴，而是“主编”的范畴。请查看[设置 GitHub 项目](/en/help/github_setting)。
+*主题索引编辑器*是一款正在开发中的工具，但目前状态下，它有助于完成一些百科全书的审阅和编辑任务。由于该软件需要预先安装且设置复杂，因此它不属于“助理编辑”的范畴，而是“主编”的范畴。请查看[设置 GitHub 项目](/zh/help/github_setting)。
 
 要访问它：
 1. 在打开项目的 VS Code 中按 F5 打开 *Urantiapedia Tools*。

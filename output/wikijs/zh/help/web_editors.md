@@ -24,16 +24,16 @@ dateCreated: 2022-09-02T14:21:26.328Z
 
 ## 编辑名单
 
-- [可视化编辑器 *富文本所见即所得*](/en/help/web_visual_editor)
-- [Markdown *纯文本格式*](/en/help/web_markdown_editor)
-- [代码 *原始 HTML*](/en/help/web_html_editor)
-- [多语言编辑器*翻译*(即将推出)**](/en/help/web_multi_editor)
-- [地图编辑器 *类似谷歌地图*(即将推出)**](/en/help/web_map_editor)
-- [幻灯片编辑器 *类似 Google 幻灯片*(即将推出)**](/en/help/web_map_editor)
-- [3D 编辑器 *类似画布播放*(即将推出)**](/en/help/web_3d_editor)
-- [API 文档 *REST / GraphQL *(即将推出)**](/en/help/web_api)
-- [博客*帖子时间线*（即将推出）**]（/en/help/web_blog）
-- [类似 Excel 的表格（即将推出）](/en/help/web_tabular)
+- [可视化编辑器 *富文本所见即所得*](/zh/help/web_visual_editor)
+- [Markdown *纯文本格式*](/zh/help/web_markdown_editor)
+- [代码 *原始 HTML*](/zh/help/web_html_editor)
+- [多语言编辑器*翻译*(即将推出)**](/zh/help/web_multi_editor)
+- [地图编辑器 *类似谷歌地图*(即将推出)**](/zh/help/web_map_editor)
+- [幻灯片编辑器 *类似 Google 幻灯片*(即将推出)**](/zh/help/web_map_editor)
+- [3D 编辑器 *类似画布播放*(即将推出)**](/zh/help/web_3d_editor)
+- [API 文档 *REST / GraphQL *(即将推出)**](/zh/help/web_api)
+- [博客*帖子时间线*（即将推出）**]（/zh/help/web_blog）
+- [类似 Excel 的表格（即将推出）](/zh/help/web_tabular)
 
 ## 更改编辑器
 

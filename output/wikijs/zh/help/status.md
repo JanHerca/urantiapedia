@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > 此阶段已完成 27 种语言的翻译。
 {.is-success}
 
-此里程碑在此处有详细说明：[里程碑 I](/en/help/phases#milestone-i-the-urantia-book-and-the-bible)。
+此里程碑在此处有详细说明：[里程碑 I](/zh/help/phases#milestone-i-the-urantia-book-and-the-bible)。
 
 ### 产品
 
@@ -67,7 +67,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > 此阶段已完成 3 种语言（英语、西班牙语和法语）。
 {.is-success}
 
-此阶段的详细说明如下：[里程碑 II](/en/help/phases#milestone-ii-newspaper-library-urantia-library-and-encyclopedia)。
+此阶段的详细说明如下：[里程碑 II](/zh/help/phases#milestone-ii-newspaper-library-urantia-library-and-encyclopedia)。
 
 ### 产品
 
@@ -141,7 +141,7 @@ _主题索引编辑器_，一个加速_百科全书_创建的工具 | :heavy_che
 > 此阶段已完成。
 {.is-success}
 
-此阶段的详细说明如下：[里程碑 III](/en/help/phases#milestone-iii-translator)。
+此阶段的详细说明如下：[里程碑 III](/zh/help/phases#milestone-iii-translator)。
 
 此阶段仅进行了以下开发：
 
@@ -154,7 +154,7 @@ _Urantiapedia Tools_ 中大型页面翻译器的开发 | :heavy_check_mark:
 > 此阶段目前正在进行中。
 {.is-警告}
 
-此阶段的详细说明如下：[里程碑 IV](/en/help/phases#milestone-iv-extensions-corrections-map-library-and-media-library)。
+此阶段的详细说明如下：[里程碑 IV](/zh/help/phases#milestone-iv-extensions-corrections-map-library-and-media-library)。
 
 ### 产品
 

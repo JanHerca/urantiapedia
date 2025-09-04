@@ -20,11 +20,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-这里介绍了如何获取《尤兰提亚之书》的学习辅助工具，这些辅助工具已按照任务[创建学习辅助工具目录](/en/help/github_studyaids_catalog)进行了编目。
+这里介绍了如何获取《尤兰提亚之书》的学习辅助工具，这些辅助工具已按照任务[创建学习辅助工具目录](/zh/help/github_studyaids_catalog)进行了编目。
 
 ## 过程
 
-[获取文章](/en/help/github_articles_markdown) 中关于书籍的所有内容也适用于此。学习辅助工具通常以文章形式存在，可以是已包含它们的网页，也可以是不含文本的 PDF 文件，或者包含文本的 PDF 文件。无论如何，第一步都是将学习辅助工具转换为 Markdown 格式。
+[获取文章](/zh/help/github_articles_markdown) 中关于书籍的所有内容也适用于此。学习辅助工具通常以文章形式存在，可以是已包含它们的网页，也可以是不含文本的 PDF 文件，或者包含文本的 PDF 文件。无论如何，第一步都是将学习辅助工具转换为 Markdown 格式。
 
 学习辅助目录位于此处：[计划学习辅助](/en/index/study_aids)。
 
@@ -68,11 +68,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 - 表格。
 - 数学公式或科学计数法中的字符。
 
-所有这些元素在讨论如何格式化书籍章节时已经解释过了：[获取“源”书籍](/en/help/github_sourcebooks_markdown)。那里给出的所有说明也适用于学习辅助工具。
+所有这些元素在讨论如何格式化书籍章节时已经解释过了：[获取“源”书籍](/zh/help/github_sourcebooks_markdown)。那里给出的所有说明也适用于学习辅助工具。
 
 ## 发送文件
 
-如果您是使用 GitHub 的“主编”，您可以按照[主编帮助](/en/help/github) 中的详细说明提交学习辅助材料；如果您是“助理编辑”，您可以直接将 Markdown 文件发送到任何管理员的电子邮箱或 urantiapedia@gmail.com。
+如果您是使用 GitHub 的“主编”，您可以按照[主编帮助](/zh/help/github) 中的详细说明提交学习辅助材料；如果您是“助理编辑”，您可以直接将 Markdown 文件发送到任何管理员的电子邮箱或 urantiapedia@gmail.com。
 
 ## 外部链接
 

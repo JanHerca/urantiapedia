@@ -34,7 +34,7 @@ TXT 格式的“百科全书”文件由“主编”创建和审阅。这些文�
 
 输出文件为 HTML 格式。每个主题都会生成一个文件。
 
-输出文件已采用可使用 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) 项目直接上传至 *Urantiapedia* 的格式。请勾选 [批量上传内容至 Urantiapedia](/en/help/github_upload)。
+输出文件已采用可使用 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) 项目直接上传至 *Urantiapedia* 的格式。请勾选 [批量上传内容至 Urantiapedia](/zh/help/github_upload)。
 
 ## 外部链接
 

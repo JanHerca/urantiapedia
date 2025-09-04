@@ -66,9 +66,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Urantiapedia 提供各种编辑器，具体取决于您想要撰写的内容类型或用户偏好。一些技术含量更高的用户通常会选择 Markdown 编辑器，而非技术含量低的用户则可能更喜欢可视化编辑器。
 
 有关编辑器的完整列表及其使用方法，请参阅：
-- [使用可视化编辑器](/en/help/web_visual_editor)
-- [使用 Markdown 编辑器](/en/help/web_markdown_editor)
-- [使用 HTML 编辑器](/en/help/web_html_editor)
+- [使用可视化编辑器](/zh/help/web_visual_editor)
+- [使用 Markdown 编辑器](/zh/help/web_markdown_editor)
+- [使用 HTML 编辑器](/zh/help/web_html_editor)
 
 ### 输入页面元数据
 

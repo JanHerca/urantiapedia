@@ -28,12 +28,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## 过程
 
-该流程与文章的流程相同。请参阅[创建文章目录](/en/help/github_articles_catalog)。学习辅助工具的暂定列表可在此处找到：[计划中的学习辅助工具](/en/index/study_aids)。
+该流程与文章的流程相同。请参阅[创建文章目录](/zh/help/github_articles_catalog)。学习辅助工具的暂定列表可在此处找到：[计划中的学习辅助工具](/en/index/study_aids)。
 
 要编辑该列表，您可以通过两种方式进行：
 
 - 登录 _Urantiapedia_。前往学习辅助工具列表：[计划学习辅助工具](/en/index/study_aids)。在右上角按钮面板的“页面操作 > 编辑”菜单中，将页面设置为编辑状态。一个简单的 Markdown 编辑器将打开，您可以在其中编辑列表。（重要提示：要执行此操作，您需要管理员权限才能在该页面上启用编辑权限。）
-- 在 GitHub 项目中修改此文件：`/output/wikijs/en/index/study_aids.html`。要修改它，您可以直接从 GitHub 下载该文件或整个项目。有关如何从 GitHub 下载内容，请参阅[助理编辑帮助](/en/help/github_assistant)。
+- 在 GitHub 项目中修改此文件：`/output/wikijs/en/index/study_aids.html`。要修改它，您可以直接从 GitHub 下载该文件或整个项目。有关如何从 GitHub 下载内容，请参阅[助理编辑帮助](/zh/help/github_assistant)。
 
 在前两种情况下，要编辑的文件是一个非常简单的 Markdown 文件，其中每个学习辅助工具都必须以表格的形式包含以下内容：
 
@@ -53,7 +53,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## 发送文件
 
-如果您修改了 GitHub 上文件的列表，则有两种提交更改的方式：如果您是“主编”，请按照[主编帮助](/en/help/github) 中的详细说明使用 GitHub；如果您是“助理编辑”，则可以直接将修改后的 Markdown 文件发送到任何管理员的电子邮箱或 urantiapedia@gmail.com。
+如果您修改了 GitHub 上文件的列表，则有两种提交更改的方式：如果您是“主编”，请按照[主编帮助](/zh/help/github) 中的详细说明使用 GitHub；如果您是“助理编辑”，则可以直接将修改后的 Markdown 文件发送到任何管理员的电子邮箱或 urantiapedia@gmail.com。
 
 ## 外部链接
 

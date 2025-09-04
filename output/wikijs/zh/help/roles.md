@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## “管理员”个人资料
 
-*管理员*负责维护网络服务器、配置网站以及批量上传数据。他们是唯一有权编辑所有内容的人，包括*《尤兰提亚之书》*、*《圣经》*以及其他特定内容。更多信息请参阅[管理员帮助](/en/help/admin)。
+*管理员*负责维护网络服务器、配置网站以及批量上传数据。他们是唯一有权编辑所有内容的人，包括*《尤兰提亚之书》*、*《圣经》*以及其他特定内容。更多信息请参阅[管理员帮助](/zh/help/admin)。
 
 * 他们在这里有一个具有管理员权限的帐户，在 [GitHub](https://github.com/) 中还有另一个帐户。
 * 他们既可以通过本网站（不受限制）添加内容，也可以通过 GitHub 上的两个 Urantiapedia 项目添加内容：[Urantiapedia](https://github.com/JanHerca/urantiapedia) 和 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup)。他们可以使用第二个项目批量加载更改。
@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## “主编”简介
 
-*主编*也可以像管理员一样通过本网站和 GitHub 贡献内容。但是，他们不管理网站，也不具备管理员的所有编辑权限，例如编辑《尤兰提亚之书》、《圣经》以及其他一些敏感内容。而且，他们只能通过 GitHub 发起拉取请求，而无法直接进行修改。请查看[主编帮助](/en/help/github)。
+*主编*也可以像管理员一样通过本网站和 GitHub 贡献内容。但是，他们不管理网站，也不具备管理员的所有编辑权限，例如编辑《尤兰提亚之书》、《圣经》以及其他一些敏感内容。而且，他们只能通过 GitHub 发起拉取请求，而无法直接进行修改。请查看[主编帮助](/zh/help/github)。
 
 * 他们在这里有一个具有编辑权限的帐户，在 [GitHub](https://github.com/) 中还有另一个帐户。
 * 他们可以通过本网站（有限制）以及 GitHub 上的两个 Urantiapedia 项目（Urantiapedia 和 Urantiapedia-backup）修改内容。但是，只能通过这两个项目进行拉取请求。对 GitHub 上未经授权的内容进行的更改将在提交后被拒绝。
@@ -54,7 +54,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## “助理编辑”简介
 
-*助理编辑*仅使用 GitHub 提交变更请求。他们没有本网站的账户。为了方便工作，他们也可以将变更通过电子邮件发送至 urantiapedia@gmail.com，*管理员*将负责上传这些变更。请参阅：[助理编辑手册](/en/help/github_assistant)。
+*助理编辑*仅使用 GitHub 提交变更请求。他们没有本网站的账户。为了方便工作，他们也可以将变更通过电子邮件发送至 urantiapedia@gmail.com，*管理员*将负责上传这些变更。请参阅：[助理编辑手册](/zh/help/github_assistant)。
 
 * 他们没有此站点的帐户。他们只能使用 GitHub 或电子邮件发送变更请求。
 * 他们需要至少熟练掌握一种语言的《尤兰提亚之书》，最好是英语和该书翻译成的第二种语言。
@@ -70,7 +70,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## “开发者”资料
 
-*开发者* 开发了 [Urantiapedia 工具](https://github.com/JanHerca/urantiapedia/tree/master/app) 的功能，并扩展了 Urantiapedia 所基于的软件 [Wiki.js](https://js.wiki/)。请查看 [开发者帮助](/en/help/devs)。
+*开发者* 开发了 [Urantiapedia 工具](https://github.com/JanHerca/urantiapedia/tree/master/app) 的功能，并扩展了 Urantiapedia 所基于的软件 [Wiki.js](https://js.wiki/)。请查看 [开发者帮助](/zh/help/devs)。
 
 * 他们在此拥有一个具有编辑权限的帐户，在 [GitHub](https://github.com/) 中还有另一个帐户
 * 本次任务是开发项目所需的 *Urantiapedia Tools* 和 *Wiki.js* 的功能。Wiki.js 的修改集中在此处：[Wiki.js](https://github.com/JanHerca/wiki)，它是原始项目的 *fork*。
