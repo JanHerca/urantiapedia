@@ -74,7 +74,7 @@ dateCreated: 2021-11-28T13:46:33.162Z
 
 프로젝트의 이정표에 대해 알아보려면 [프로젝트 이정표](/ko/help/phases)를 확인하세요.
 
-<figure id="Figure_1" class="이미지 우란티아페디아">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/help/Phases_2025_ko.svg">
 <figcaption>그림 1: 프로젝트의 이정표.</figcaption>
 </figure>

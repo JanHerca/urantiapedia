@@ -105,7 +105,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 > . . . 베드로와 같은 사람이 **중국**에 들어가지 못하고, 바울과 같은 사람이 **인도**에 들어가지 못하는 것은 유감스러운 일입니다 . . . [유란 130:2.3](/ko/The_Urantia_Book/130#p2_3)
 
-<figure id="Principles_fig_2" class="이미지 우란티아페디아">
+<figure id="Principles_fig_2" class="image urantiapedia">
 <img src="/image/help/UB_secondary_works_potential_readers_by_native_speakers.png">
 <figcaption><em>전 세계 2차 저작물의 모국어 독자 비율(2024년 7월 기준). 파란색으로 표시된 부분은 해당 비율입니다. 2차 저작물의 모국어 독자는 대부분 영어 사용자입니다.</em></figcaption>
 </figure>
