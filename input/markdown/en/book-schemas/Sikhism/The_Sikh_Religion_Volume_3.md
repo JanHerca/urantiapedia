@@ -45,7 +45,17 @@ Life Of Guru Arjan, The Fifth Guru | #
 	Chapter VIII | Arjan_8
 	Chapter IX | Arjan_9
 	Chapter X | Arjan_10
-Hyms of Guru Arjan | Arjan_Hyms
+Hyms of Guru Arjan | #
+	I | Arjan_Hyms_1
+	II | Arjan_Hyms_2
+	III | Arjan_Hyms_3
+	IV | Arjan_Hyms_4
+	V | Arjan_Hyms_5
+	VI | Arjan_Hyms_6
+	VII | Arjan_Hyms_7
+	VIII | Arjan_Hyms_8
+	IX | Arjan_Hyms_9
+	X | Arjan_Hyms_10
 
 ## links:
 [Internet Archive](https://archive.org/details/TheSikhReligion03Macauliffe)
