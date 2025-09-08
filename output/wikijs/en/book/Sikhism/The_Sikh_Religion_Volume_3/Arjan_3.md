@@ -113,7 +113,7 @@ At every time and on every occasion
 Remember God, the Creator, in thy heart.
 Make the subjection of thy ten organs the rosary by which God is remembered in thy heart ;
 Good conduct and great restraint _over thyself_, thy circumcision.
-Know in thy heart that everything 1s for the moment.
+Know in thy heart that everything is for the moment.
 Sports, banquets, and sodalities are all entanglements.
 Kings, rulers, and nobles are perishable ; God’s gate alone is the stable place.
 Let first God’s praises, second patience,

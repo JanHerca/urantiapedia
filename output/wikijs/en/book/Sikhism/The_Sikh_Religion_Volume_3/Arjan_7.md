@@ -117,12 +117,12 @@ He, the Supreme Gyani, is ever banqueting,
 And leaveth no one unprovided for :
 I touch His feet again and again.
 His bell is heard in the four corners of the world,
-His seat 1s ever in heaven,
+His seat is ever in heaven,
 His fan waveth over all,
 His incense is ever diffused, —
 Every heart is His casket,[^8]
 The company of the saints is His perfect court.[^9]
-Singing God’s praises, which ever bestoweth pleasure, 1s my adoration.
+Singing God’s praises, which ever bestoweth pleasure, is my adoration.
 His greatness is beautiful and ever endless.
 He who hath come under the protection of the saints’ feet
 And is fortunate, shall obtain _such a salagram._[^10]
@@ -296,7 +296,7 @@ I am full of demerits ; I possess no merit, and yet Thou Thyself hast compassion
 Thou showest compassion and kindness unto me; I have found the true Guru, the friend.
 Nanak, if I obtain the Name, I shall live, and my body and soul shall be refreshed.
 
-A Muhammadan poet called Alim in A.H. 991 <span id="p65"><sup><small>[p. 65]</small></sup></span> (A.D. 1583) wrote a work in 353 stanzas generally from four to six lines each, called ‘Madhava Nal Sangit’, which purports to be an account of the loves of Madhava Nal and a lady called Kam Kandala.[^25] The Rag Mala, which forms the conclusion of the Granth Sahib and contains a list of the rags and raginis and their subdivisions, is a portion of Alim’s work extending from the sixty-third to the seventy-second stanza. It 1s not understood how it was included in the sacred volume. The rags mentioned in it do not correspond with the rags of the Granth Sahib.
+A Muhammadan poet called Alim in A.H. 991 <span id="p65"><sup><small>[p. 65]</small></sup></span> (A.D. 1583) wrote a work in 353 stanzas generally from four to six lines each, called ‘Madhava Nal Sangit’, which purports to be an account of the loves of Madhava Nal and a lady called Kam Kandala.[^25] The Rag Mala, which forms the conclusion of the Granth Sahib and contains a list of the rags and raginis and their subdivisions, is a portion of Alim’s work extending from the sixty-third to the seventy-second stanza. It is not understood how it was included in the sacred volume. The rags mentioned in it do not correspond with the rags of the Granth Sahib.
 
 The Guru invited all his Sikhs to see the precious compilation, the fruit of so much anxious labour, and distributed sacred food amongst them as a thanksgiving for the completion of his toil. The volume was by the advice of Bhai Budha and Bhai Gur Das deposited in the Har Mandar.
 

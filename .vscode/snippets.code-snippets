@@ -108,7 +108,7 @@
 	"HTML center": {
 		"scope": "markdown",
 		"prefix": "cnt",
-		"body": "<p style=\"text-align:center;\">",
+		"body": "<p style=\"text-align:center;\"></p>",
 		"description": "Insert HTML Center"
 	},
 	"Long hyphen": {
