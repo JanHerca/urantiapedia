@@ -110,7 +110,7 @@ The Guru was not suffered to abide long in peace in his retreat. Wadali, origina
 
 Prithia, not wishing to undergo the expense of entertaining Sulahi Khan, went forth to meet him. Sulahi after salutation said, ‘ Prithi Chand, thou the eldest hast not obtained the Guruship. Where is thy youngest brother who hath obtained it?’ Prithia replied, ‘My lord, my brother Arjan, hearing of thine approach, hath left Amritsar and gone I know not whither.’ Prithia offered Sulahi a _ present, which he refused, saying that it was more proper for him to give than to take a present from a guru. Sulahi requested Prithia to let. him know when Arjan returned, and he would take measures to restrain his irregularities.
 
-<span id="p19"><sup><small>[p. 19]</small></sup></span>
+<span id="p35"><sup><small>[p. 35]</small></sup></span>
 
 The Guru, finding in Wadali a scarcity of water, ordered a large well to be dug and worked by six Persian wheels (_chheharat_), whence it was afterwards called Chhiharta. On the fifth day of the light halt of Magh, the Indian vernal festival, there is a yearly fair held at the place.
 

@@ -105,7 +105,7 @@ Thy hearty practice of the precepts of the Quran and sacred books.
 Make subjugation of the five thieves thy sidaq,[^6] charity thy saburi,[^7] and thou shalt be accepted.
 Make kindness thy Makka, humility thy fasting,
 Implicit [^8] obedience to the word of thy priest thy heaven,
-The service of God thy huris, thy nur,[^9] and thy perfume ; and God thy lofty hujra.[^10] <span id="p1"><sup><small>[p. 1]</small></sup></span>g
+The service of God thy huris, thy nur,[^9] and thy perfume ; and God thy lofty hujra.[^10] <span id="p19"><sup><small>[p. 19]</small></sup></span>
 He who practiseth truth is a Qazi ;
 He who chasteneth his heart is a Haji ;
 He who banisheth Satan is a Mulla, and he who praiseth _God_ is a darwesh.

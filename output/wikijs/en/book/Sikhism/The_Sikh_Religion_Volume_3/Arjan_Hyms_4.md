@@ -371,7 +371,7 @@ I Mortal, think upon the goodness of God,
 What thine origin is, and what thou appearest now—
 That God who made thee, fashioned thee, and adorned thee,
 Who preserved thee in the fire of the womb,
-Who in thine infancy gave thee milk to drink,
+Who in thine infancy gave thee milk to drink, <span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 In thy youth food, comfort, and intelligence,
 In thine old age relations to watch over thee,
 And who put food into thy mouth as thou wast seated.[^15]
@@ -733,7 +733,7 @@ Nanak, by association with saints, God is well pleased.
 <p style="text-align:center;">3</p>
 
 By association with saints all enemies become friends,
-By association with saints man becometh very pure,<span id="p2109"><sup><small>[p. 2109]</small></sup></span>
+By association with saints man becometh very pure,<span id="p219"><sup><small>[p. 219]</small></sup></span>
 By association with saints man feeleth not enmity for any one,
 By association with saints man’s feet _walk_ not awry—
 A man cannot be evil who associateth with saints—
@@ -800,7 +800,7 @@ Nanak, association with saints is obtained by good fortune.
 _Even_ the Veds know not the greatness of saints ;
 They described them as far as they had heard of them.
 The greatness of saints is beyond the three qualities,
-The greatness of saints pervadeth every place ;<span id="p220"><sup><small>[p. 220]</small></sup></span>
+The greatness of saints pervadeth every place ;<span id="p221"><sup><small>[p. 221]</small></sup></span>
 There is no end to the glory of saints ;
 The glory of saints is ever endless,
 The glory of saints is the highest of the high,
@@ -2059,7 +2059,7 @@ It is by administering the medicine of God’s name.
 Of all treasures God’s name is the treasure ;
 Repeat it, Nanak, and thou shalt be acceptable in God’s court.
 
-<span id="p258"><sup><small>[p. 258]</small></sup></span>
+<span id="p255"><sup><small>[p. 255]</small></sup></span>
 
 <p style="text-align:center;">3</p>
 

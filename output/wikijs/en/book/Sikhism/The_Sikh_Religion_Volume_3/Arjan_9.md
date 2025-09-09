@@ -41,7 +41,7 @@ The Guru then made all preparations, and invited guests to his son’s wedding w
 The women of Narain Das’s household sang the following composition of the bridegroom’s father on the occasion of the marriage :—
 
 It is a time of rejoicing, I sing my Lord ;
-I have heard of the imperishable Bridegroom, and joy hath arisen in my heart.<span id="p8"><sup><small>[p. 8]</small></sup></span>I
+I have heard of the imperishable Bridegroom, and joy hath arisen in my heart.<span id="p81"><sup><small>[p. 81]</small></sup></span>
 My mind longeth _to know_ when I shall be fortunate enough to meet the perfect Lord.
 Grant me, O my friend _Guru_, understanding to know when I shall meet God and be absorbed in Him.
 Day and night I stand and wait _to find_ by what way I may obtain the Lord.

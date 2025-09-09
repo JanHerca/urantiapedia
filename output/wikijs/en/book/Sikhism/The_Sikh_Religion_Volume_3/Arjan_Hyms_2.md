@@ -984,7 +984,7 @@ Nanak, by singing God’s praises the Guru shall unlock thy fetters, and thou sh
 The following was written by the Guru on hearing that a raja was preparing an expedition to seize another raja’s territory :—
 
 The thirst of only a few is slaked.
-Man amasseth thousands and millions, but restraineth not his mind ;<span id="p137"><sup><small>[p. 137]</small></sup></span>
+Man amasseth thousands and millions, but restraineth not his mind ;<span id="p157"><sup><small>[p. 157]</small></sup></span>
 He is burning for more and more.
 Though possessing beautiful women of many races, he committeth adultery in other men’s houses.
 He distinguisheth not between bad and good.

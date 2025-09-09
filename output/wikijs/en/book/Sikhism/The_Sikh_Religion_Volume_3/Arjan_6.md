@@ -83,7 +83,7 @@ And His servant’s service hath been successful.
 He hath preserved my soul, body, youth, and life.
 Saith Nanak, I am a sacrifice to the Guru.[^5]
 
-During Har Gobind’s illness suggestions were made to the Guru that recourse be had to a local witch who possessed a high reputation for skill in sorcery, in the hope of obtaining from her a charm for the recovery of the child. This was to be done by repeating some cabalistic words over water and then giving it to the child to drink. The Guru <span id="p30"><sup><small>[p. 30]</small></sup></span> ridiculed such suggestions and such remedies, and composed the following on the occasion :—
+During Har Gobind’s illness suggestions were made to the Guru that recourse be had to a local witch who possessed a high reputation for skill in sorcery, in the hope of obtaining from her a charm for the recovery of the child. This was to be done by repeating some cabalistic words over water and then giving it to the child to drink. The Guru <span id="p39"><sup><small>[p. 39]</small></sup></span> ridiculed such suggestions and such remedies, and composed the following on the occasion :—
 
 The name of the Pure One is holy water ;
 By repeating it with the tongue sins fly away.

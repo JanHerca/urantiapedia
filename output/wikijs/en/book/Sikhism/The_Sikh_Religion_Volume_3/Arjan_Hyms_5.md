@@ -988,7 +988,7 @@ He is the Aden of the poor and the Bestower of life ; He is potent to save those
 O my soul, meditate on God’s name.
 In this world and the next the one God who accompanieth thee is the Helper ; fix thy love on Him alone.
 Men ponder on the Veds and Shastars to secure deliverance;
-But superior to all religious ceremonies and observances is the utterance of the Name.<span id="p3"><sup><small>[p. 3]</small></sup></span>ar
+But superior to all religious ceremonies and observances is the utterance of the Name.<span id="p311"><sup><small>[p. 311]</small></sup></span>ar
 Lust, wrath, and pride depart on meeting the true divine Guru.
 They in whose hearts he fixeth God’s name and worship best perform His service.
 O Compassionate One, I seek the protection of Thy feet ; Thou art the honour of the unhonoured.
@@ -1016,7 +1016,7 @@ In worshipping the feet of the saints and taking their protection I find supreme
 All Nanak’s heart-burning was dispelled
 When he obtained the love of the Beloved.
 
-<span id="p302"><sup><small>[p. 302]</small></sup></span>
+<span id="p312"><sup><small>[p. 312]</small></sup></span>
 
 The Guru makes God manifest :—
 
