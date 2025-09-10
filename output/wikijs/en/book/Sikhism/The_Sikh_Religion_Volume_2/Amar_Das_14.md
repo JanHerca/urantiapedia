@@ -75,7 +75,7 @@ The Guru was pleased with the will of the Lord ; my God congratulated him.
 He to whom God’s order is pleasing is a saint of the true Guru:
 There are joy and unbeaten strains for him, and God Himself embraceth him.
 ‘Carefully examine your hearts, my sons, my brethren, and my family.
-‘The order written in the beginning cannot be erased ; the Guru 1s going to God.’
+‘The order written in the beginning cannot be erased ; the Guru is going to God.’
 
 <p style="text-align:center;">IV</p>
 

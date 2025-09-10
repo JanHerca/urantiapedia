@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:10:16Z
 
 The Emperor having heard that the Guru loved the chase requested him to accompany him one day on a hunting excursion. When in the forest, a tiger issued forth and rushed at the Emperor. Elephants and horses took fright, and the beaters who accompanied the party loudly shouted in distress. Bullets and arrows were discharged, but went right and left of the tiger. Tite Siipenor almost paralysed with fear called upon the Guru to save him. The Guru alighted from his horse, and taking his sword and shield ran between the Emperor and the tiger. As the tiger was going to spring, the Guru dealt him a blow with his sword, and he fell lifeless to the earth. The Emperor thanked his destiny that he was saved from the jaws of death by the Guru’s hand.
 
-When it was time for the Emperor to visit Agra, he invited the Guru to accompany him. The Guru, after repeated invitations, at last consented. As they were hunting on the way, the Emperor took the opportunity of telling him what people were saying against him—‘O Guru, my ministers and staff tell me that, although thou oughtest in reality to have no connexion with worldly affairs, yet thou callest thyself the true king of the world, and thy Sikhs call me who am descended from emperors, <span id="p19"><sup><small>[p. 19]</small></sup></span> who am the lord of many lands, and the cherisher of my subjects, a false king. Is all this true?’ The Guru replied, ‘ I have never told any one to call me true king, but where there exists love between people, there is no need of formality, and a man 1s treated as he treateth others. I love my Sikhs in proportion to the love they bear me. In Guru Nanak’s view God is the only Emperor. He hath said in the Japji :—
+When it was time for the Emperor to visit Agra, he invited the Guru to accompany him. The Guru, after repeated invitations, at last consented. As they were hunting on the way, the Emperor took the opportunity of telling him what people were saying against him—‘O Guru, my ministers and staff tell me that, although thou oughtest in reality to have no connexion with worldly affairs, yet thou callest thyself the true king of the world, and thy Sikhs call me who am descended from emperors, <span id="p19"><sup><small>[p. 19]</small></sup></span> who am the lord of many lands, and the cherisher of my subjects, a false king. Is all this true?’ The Guru replied, ‘ I have never told any one to call me true king, but where there exists love between people, there is no need of formality, and a man is treated as he treateth others. I love my Sikhs in proportion to the love they bear me. In Guru Nanak’s view God is the only Emperor. He hath said in the Japji :—
 
 He is Emperor, King of kings; Nanak, all must remain subject to His will.’
 
@@ -88,7 +88,7 @@ Repeat God’s pure name ; :
 Bow to the Guru’s feet,
 And the Giver, the Bountiful,
 Will take thee across the terrible ocean.
-He in whose heart there 1s all treasure
+He in whose heart there is all treasure
 Hath no end or limits.
 He will preserve thee at last.
 Nanak hath obtained this treasure <span id="p26"><sup><small>[p. 26]</small></sup></span>
@@ -110,7 +110,7 @@ Hari Das, the governor of the Gualiar fort and prison, expressed his regret on p
 
 Meditate in thy heart on the Guru’s image ; Obey the Guru’s word and instruction.[^8]
 
-‘That we have met in the flesh 1s a temporary matter, the result of destiny; but that we have met in the spirit is a matter to be treasured for ever. As Gur Das hath said, ‘“‘ I ama sacrifice to those Sikhs of the Guru who meet in the spirit.’’ And again Guru Nanak :—
+‘That we have met in the flesh is a temporary matter, the result of destiny; but that we have met in the spirit is a matter to be treasured for ever. As Gur Das hath said, ‘“‘ I ama sacrifice to those Sikhs of the Guru who meet in the spirit.’’ And again Guru Nanak :—
 
 They who meet with their hearts really meet; that is a real meeting.[^9]
 

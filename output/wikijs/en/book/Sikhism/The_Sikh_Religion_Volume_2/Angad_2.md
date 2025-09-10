@@ -40,7 +40,7 @@ The Guru and his disciple grew daily more pleased with each other. In proportion
 
 Lahina, who was the essence of obedience, at once proceeded to Khadur. On his arrival it became known that he had spent three years with Guru Nanak, and had made great progress in virtue and spirituality. Accordingly, everybody went to pay him homage. Among others Takht Mal, the head man of the city, went to touch his feet. Lahina said to him, ‘ This must not be, since thou art in every way of higher rank than myself ;’ but Takht Mal, knew of the power Lahina possessed to render him spiritually perfect, and would not abate a jot in his devotion to him. He pressed Lahina to give him religious instruction by which he might be saved. Lahina accordingly repeated to him the following hymn of Guru Nanak :—
 
-God will regenerate those in whose hearts there 1s love ;
+God will regenerate those in whose hearts there is love ;
 He will make them happy with gifts, and cause them to forget their sorrows.
 There is no doubt that He will assuredly save them.
 The Guru cometh to meet those for whom such destiny hath been recorded,

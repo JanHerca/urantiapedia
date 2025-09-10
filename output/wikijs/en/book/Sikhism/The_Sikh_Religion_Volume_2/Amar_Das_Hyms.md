@@ -188,7 +188,7 @@ My brethren, rest is not obtained without the Guru.
 It is from the Word rest proceedeth and the true God is obtained.
 What is sung at rest is acceptable ; without rest recital is vain.
 It is in rest devotion springeth up ; in rest love of God and contempt of the world are produced.
-<span id="p161">[<sup><small>p. 161</small></sup>]</span> It is from rest happiness and peace are obtained ; without fest jie 1s vain,
+<span id="p161">[<sup><small>p. 161</small></sup>]</span> It is from rest happiness and peace are obtained ; without fest jie is vain,
 It is in rest God is ever and ever praised ; in rest man applieth himself to contemplation.
 It is in rest God’s praises are uttered, and man attentively serveth Him.
 It is by the Word God dwelleth in the heart, and the tongue tasteth His nectar.
@@ -219,9 +219,9 @@ Nanak, there shall never be a deficiency since the Giver hath given it.
 The Guru’s preference for the Sri Rag, the holy measure :—
 
 The Sri Rag is a measure among measures, if any one loving the True One _sing in it_.[^10]
-The understanding of him in whose heart the true God dwelleth 1s ever firm and unequalled.
+The understanding of him in whose heart the true God dwelleth is ever firm and unequalled.
 He who pondereth on the Guru’s instruction obtaineth the priceless jewel.
-His tongue is true, his heart 1s true, and true his body.
+His tongue is true, his heart is true, and true his body.
 O Nanak, ever true are the dealings of those who serve the true Guru.
 
 The love of mammon deprives men of their senses :—
@@ -287,14 +287,14 @@ By the Guru’s instruction man knoweth himself, and God's name is manifested to
 He who is true acteth truly, and obtaineth greatness near the-Great, One
 He praiseth and supplicateth God to whom belong body and soul.
 They who praise the true Word, dwell in supreme happiness.
-_Though man may have practised_ devotion, penance, and self-restraint, yet without the Name in his heart accursed 1s lis life.
+_Though man may have practised_ devotion, penance, and self-restraint, yet without the Name in his heart accursed is lis life.
 <span id="p165">[<sup><small>p. 165</small></sup>]</span> The Name is obtained by the Guru’s instruction ;— the perverse perish through worldly love.
 Preserve me, O God, according to Thy will ; Nanak is Thy slave.
 
 The cupidity of the Brahman :—
 
 The Brahman when reading shouteth aloud through love of mammon.
-The foolish and ignorant man recognizeth not God who 1s within him.
+The foolish and ignorant man recognizeth not God who is within him.
 He preacheth to the world through worldly love, but he understandeth not divine knowledge.
 He spendeth his life in vain, and dieth and is born again and again.
 He who serveth the true Guru obtaineth the Name ; know and reflect upon this :
@@ -311,14 +311,14 @@ He who loveth the Name is honoured at the gate of the True One.
 The perverse die in pride ; they die an evil death.
 Everything befalleth according to God’s will; what can poor mortals do °
 Man forgetteth the Master under the influence of pride and worldly love.
-Nanak, without the Name all is suffering ; happiness 1s forgotten.
+Nanak, without the Name all is suffering ; happiness is forgotten.
 
 <span id="p166">[<sup><small>p. 166</small></sup>]</span>
 
 The truly pious have no fear of death :—
 
 He in whose heart the true Guru hath established God’s naime is freed from superstition.
-He singeth God’s name and praises, light appeareth, and the way 1s shown unto him.
+He singeth God’s name and praises, light appeareth, and the way is shown unto him.
 He destroyeth his pride, fixeth his attention on the one God, and implanteth the Name in his heart.
 By the Guru’s instruction Death cannot look at him, for he Is absorbed in the true Name.
 The Creator Himself pervadeth everything : He applieth to His name those who please Him.
@@ -396,7 +396,7 @@ Nanak, deliverance is not obtained without serving the true Guru.
 
 Hypocrisy is as vain as the external decorations of an evil woman :—
 
-The woman whose conduct is bad, and whose heart 1s counterfeit, may decorate herself, but she shall still be ugly.
+The woman whose conduct is bad, and whose heart is counterfeit, may decorate herself, but she shall still be ugly.
 She acteth not as pleaseth her Spouse, nay, the foolish woman giveth Him orders.
 She who acteth as her Guru desireth shall escape all misery.
 The writing which the Creator wrote in the beginning cannot be efiaced.
@@ -565,7 +565,7 @@ The following is a satire on actors who represent Krishan and his milkmaids :—
 God is bright, and bright are his saints.
 Through them my heart, speech, and desires are pure.
 The saints’ hearts are bright ; their faces are ever beautiful, and they ponder on the very bright Name.
-I ama sacrifice, my life 1s a sacrifice unto those who sing God’s praises,
+I ama sacrifice, my life is a sacrifice unto those who sing God’s praises,
 Who speak of Him day and night, and acclaim Him and His word.
 They the filth of whose pride departeth through fear of the Guru become bright,
 And sing of God with natural ease.
@@ -587,7 +587,7 @@ He controlleth his senses and findeth the way of truth and self-restraint ;
 Under the Guruw’s instruction he ever pondereth on God— the service that pleaseth him.
 It is from the Guru’s instruction God’s service is obtained in the four ages :
 Irom no other source may it be obtained.
-Nanak, it is by service to the Guru and obeisance at his feet God’s name 1s obtained.
+Nanak, it is by service to the Guru and obeisance at his feet God’s name is obtained.
 
 The condition of the pious and the perverse compared :—
 
@@ -786,7 +786,7 @@ Without the Name great misery is suffered.
 He who is pious meditateth on the Name.
 On beholding the True One, true honour is obtained.
 Whom shall we call the giver ? The One God.
-If He be gracious, the Word by which we meet Him 1s obtained.
+If He be gracious, the Word by which we meet Him is obtained.
 May Nanak meet the beloved Guru, sing the True One’s praises,
 And becoming true be absorbed in the True One!
 
@@ -817,7 +817,7 @@ A few possess it by means of the perfect Guru.
 The impious and the indiscriminating never possess it.
 They may claim that they do, but they are burning with worldly love.
 The blind unbeliever is never acceptable.
-In this age salvation 1s obtained through God’s name,
+In this age salvation is obtained through God’s name,
 Which a few obtain by pondering on the Guru’s instruction.
 Such are saved themselves and save all their families.
 In this kal age there is no work of devotion _equal to the repetition of the Name_.
@@ -907,7 +907,7 @@ The Word of the Spouse is true ; repeat it ever and ever.
 She who devoteth her life to the True One, is deeply dyed as with boiling madder.
 She who loveth the True One shall be thoroughly tinctured with a deep dye.
 Falschood and deception are as things wrapped up in false gilding which remain not undetected.
-False 1s the boasting of those who love falsehood.
+False is the boasting of those who love falsehood.
 Nanak, God is true and looketh with favour on man.
 
 The Guru sheds celestial light on the darkness of the perverse :—
@@ -1344,7 +1344,7 @@ Nanak, happiness is ever obtained by meeting him who night and day pondercth on 
 The fate of the hypocrite :—
 
 There is deception in the heart of the perverse and irreligious man ; his tongue uttereth falsehood.
-<span id="p205">[<sup><small>p. 205</small></sup>]</span> Though God graciously beholdeth and listeneth, yet 1s He not pleased by deception.
+<span id="p205">[<sup><small>p. 205</small></sup>]</span> Though God graciously beholdeth and listeneth, yet is He not pleased by deception.
 He who, lost in worldly love, preacheth to men with the object of sinful gain,
 Shall ever suffer misery in attainment, shall be born and die, and come and go again and again.
 His superstition shall by no means be dispelled ; he shall rot in filth.
@@ -1462,7 +1462,7 @@ Without serving the true Guru peace is not obtained, and worldly love departeth 
 However much we desire it, the True Guru is only found by good acts.
 They in whose hearts there is the sin of avarice are ruined by worldly love ;
 <span id="p210">[<sup><small>p. 210</small></sup>]</span> Their transmigration ceaseth not; they suffer misery from their pride.
-Of those who fix their hearts on the true Guru none 1s disappointed.
+Of those who fix their hearts on the true Guru none is disappointed.
 Death summoneth not them for punishment, neither do they suffer misery.
 Nanak, the pious who are filled with the true Word shall be saved.
 
@@ -1599,7 +1599,7 @@ The Guru’s order to abstain altogether from wine :—
 
 One man bringeth _the full goblet_, another cometh and filleth _the cup_.
 The intellect of him who drinketh departeth, and intoxication entereth his brain.
-He distinguisheth not between mine and thine, and 1s buffeted by his master.
+He distinguisheth not between mine and thine, and is buffeted by his master.
 If possible, drink not at all the false wine,
 By which man forgetteth God and receiveth punishment at His court.
 Nanak, he who by God’s look of favour meeteth the true Guru, obtaineth the true wine from him.
@@ -1784,7 +1784,7 @@ The following was addressed to the Muhammadan priest of Goindwal who followed de
 
 OQ Shaikh, restrain thy mind which now wandereth towards the four cardinal points, the sport of the four winds.
 Abandon thy crooked ways, accept the instruction of the Guru ;
-Prostrate thyself before the true Guru; he knoweth everything that 1s to be known.
+Prostrate thyself before the true Guru; he knoweth everything that is to be known.
 Banish thy hopes and desires; become as a guest a the world.
 If thou walk as the true Guru desireth, thou shalt obtain honour in God’s court.
 Nanak, accursed the garb, accursed the food of those who remember not God.
@@ -2254,7 +2254,7 @@ The holy enjoy perpetual spring :—
 
 When spring cometh, the forests bloom ;
 But men and lower animals only bloom by thinking on God :
-In this way the mind 1s refreshed.
+In this way the mind is refreshed.
 By repeating God’s name day and night under the Guru’s instruction pride is removed and washed away.
 When the true Guru reciteth his verses and hymns,
 The world bloometh again by his love.
@@ -2338,13 +2338,13 @@ The Creator and the creature contrasted :—
 All gifts, splendour, and beauty are Thine, O God ;
 Many artifices and pride are mine.
 They who harbour covetousness, worldly love, and pride shall never be free from transmigration, however many ceremonial acts they perform.
-Nanak, the Creator Himself causeth to act; what pleaseth Him 1s good.
+Nanak, the Creator Himself causeth to act; what pleaseth Him is good.
 
 ## MALAR KI WAR
 
 The mental happiness obtained by heeding pious instruction :—
 
-On meeting the Guru the mind is happy as after rain the earth 1s decorated :
+On meeting the Guru the mind is happy as after rain the earth is decorated :
 Everything appeareth green, the lakes and pools are filled to the brim.
 <span id="p243">[<sup><small>p. 243</small></sup>]</span> The colour of the True One attacheth to the heart as redness to madder.
 The lotus of the heart bloometh by obeying the True One ; man is rendered happy by the Gurw’s word.
@@ -2432,13 +2432,13 @@ Nanak, the pious who drink it shall not again be thirsty.
 
 When God is merciful men receive saving instruction :—
 
-The Malar is refreshing ; by meditation on God in it comfort 1s obtained.
+The Malar is refreshing ; by meditation on God in it comfort is obtained.
 If God show His mercy it raineth over the whole world.
-By rain animals obtain the means of subsistence, and the earth 1s decorated.
+By rain animals obtain the means of subsistence, and the earth is decorated.
 Nanak, this world is all water; from water everything hath sprung.
 The few who know God by the Guru’s favour are ever emancipated.
 
-God, without being asked, gives man what 1s good for him :—
+God, without being asked, gives man what is good for him :—
 
 O chatrik, thou knowest not the palace of the Lord ; When thou seest it: pray there.
 Thou pratest much to please thyself ; thy words are not acceptable.
@@ -2447,7 +2447,7 @@ Then the world’s thirst to say nothing of thine, poor chatrik, shall depart.[^
 
 <span id="p247">[<sup><small>p. 247</small></sup>]</span>
 
-The chatrik, on obtaining the special drops it desires, 1s compared to the man disposed to receive instruction :—
+The chatrik, on obtaining the special drops it desires, is compared to the man disposed to receive instruction :—
 
 The chatrik on a rainy night naturally loving the True One crieth—
 
@@ -2545,7 +2545,7 @@ The perverse and the pious contrasted :—
 
 How shall he who doeth evil be acceptable ?
 He shall burn in his own anger.
-The perverse man 1s a fool and worrieth himself with quarrelling.
+The perverse man is a fool and worrieth himself with quarrelling.
 He who is pious knoweth everything. ee
 Nanak, the plous man struggleth with his own heart.
 

@@ -40,7 +40,7 @@ God rewards the upright and holy who toil in obscurity :—
 
 The gift, the perverse suppose, is preferable to the Giver ;
 What shall I say of their intelligence, understanding, and Glewerness ? [^1]
-He who toileth in obscurity 1s known in all directions ;
+He who toileth in obscurity is known in all directions ;
 He who acteth honestly is called honest, and he who committeth sin is known as a sinner.
 O Creator, Thou Thyself performest the whole play ; why mention any one else ?
 O Source of Light, as long as Thy light is in _the body_ Thou speakest init. If any one have done aught without Thee, show _him to me_ that I may recognize him.
@@ -95,7 +95,7 @@ Man ought not to undertake what is beyond his ability :—
 If he who only knoweth the charm for a scorpion’s sting touch a serpent,
 He apphieth a brand to his body with his own hand ;
 It is the Master’s decree from the beginning that he be very severely buffeted.
-The perverse who contend with the pious shall perish ; this 1s God’s justice.
+The perverse who contend with the pious shall perish ; this is God’s justice.
 God is the Lord of both ; He sifteth them carefully.
 Nanak, know that everything is according to God’s will.
 

@@ -200,7 +200,7 @@ Saith Nanak, hear, O saints, _in this way_ speak of the Ineffable.
 
 O fickle man, no one hath obtained God by cleverness ;
 By cleverness no one hath obtained Him ; hearken, O my soul.
-This Maya who hath led man astray in such superstition 1s fascinating ;
+This Maya who hath led man astray in such superstition is fascinating ;
 He who hath spread this illusion hath created Maya the fascinating.
 I have made myself a sacrifice to Him who hath rendered worldly love dear _to mortals_.
 Saith Nanak, O fickle man, no one hath obtained God by cleverness.

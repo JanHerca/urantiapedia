@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:8:19Z
 
 Praises of the Guru :—
 
-When the Name is obtained the mind is satisfied ; without the Name accursed 1s life.
+When the Name is obtained the mind is satisfied ; without the Name accursed is life.
 Let some holy friend who meeteth me point out to me God the Lord of excellence.
 I would be quartered for him who showed me the Name.
 O my Beloved, I live by meditating on the Name.
@@ -186,7 +186,7 @@ The chakwi is happy when she seeth the sun :
 She then meeteth her beloved and all her sorrow departeth.
 The disciple is happy when he beholdeth his Guru ;
 The calf is happy when it sucketh milk ;
-Its heart 1s glad when it seeth its dam ;
+Its heart is glad when it seeth its dam ;
 The disciple is happy when he beholdeth his Guru.
 All other affections are worldly and false,
 And shall perish like false and temporary gilding.
@@ -218,7 +218,7 @@ O my God, accomplish my salvation, foolish though Tam!
 Apply me, O God, to the work of serving the true Guru.
 As the merchant who taketh horses for traffic,
 Earneth money and entertaineth hopes that his wealth shall increase ;
-So the man of God uttereth the name of God, and 1s happy in uttering it.
+So the man of God uttereth the name of God, and is happy in uttering it.
 The shopkeeper collecteth wares and sitting in his shop dealeth in them :
 His wealth is false, its display is false, he is wrapped up in falsehood.
 The man of God collecteth divine wealth and taketh God with him as his viaticum.
@@ -369,7 +369,7 @@ Within thee is the treasure, O refractory soul, yet thou wanderest abroad in dou
 When thou meetest the perfect Guru, thou shalt find God the Friend who is with thee.
 O refractory soul, ever remember the love of God and thou shalt be imbued with it.
 By serving the Guru and remembering his instruction the dye of God shall never fade.
-We are birds, O refractory soul, and God the immortal Being 1s a tree.
+We are birds, O refractory soul, and God the immortal Being is a tree.
 Nanak, very fortunate are the pious who remembering the Name find the Tree.
 
 ## GAURI KI WAR I
@@ -560,16 +560,16 @@ He who made this play beholdeth it; the slave Nanak remembereth His name.
 
 God protects the true Guru :—
 
-The true Guru who claspeth God to his heart 1s inscrutable.
+The true Guru who claspeth God to his heart is inscrutable.
 None can touch the true Guru on whose side God is.
-Devotion to God 1s the true Guru’s sword and armour by which the torturer death 1s destroyed.
+Devotion to God is the true Guru’s sword and armour by which the torturer death is destroyed.
 God Himself is the protector of the true Guru, and will save all who follow him.
 Him who meaneth evil to the true Guru the Creator Himself will destroy.
-This 1s the word of the true God’s court ; the slave Nanak uttereth this prophecy.
+This is the word of the true God’s court ; the slave Nanak uttereth this prophecy.
 
 Whether asleep or awake man should remember God :—
 
-What 1s sleeping? what waking? the holy are the acceptable.
+What is sleeping? what waking? the holy are the acceptable.
 They who never forget God are perfect and distinguished.
 They obtain the true Guru from the Merciful One, and fix their thoughts on him night and day.
 May I continue to meet such persons and obtain honour at God’s gate !
@@ -641,7 +641,7 @@ On singing the true Guru’s hymns the voice of the unbeaten strain ever resound
 Nanak, God the Giver bestowed on me a gift—my light hath blended with His.
 The perverse die in their perversity, saying their property was their own.
 They attach their hearts to skin-covered filth? which cometh for a moment and in a moment departeth :
-They attach their hearts to skin-covered filth which 1s fleeting as the dye of the safflower.
+They attach their hearts to skin-covered filth which is fleeting as the dye of the safflower.
 They go now to the east, and now to the west, as a potter’s wheel revolveth.
 In sorrow they eat, in sorrow they amass and enjoy ; they extend their increase of sorrow.
 Nanak, if man enter the Guru’s asylum, he shall easily cross the dangerous ocean.
@@ -932,7 +932,7 @@ God is pleased with His own greatness when His slaves are congratulated.
 It is they who meditate on God’s name ; God and God’s saints are the same.
 The slave Nanak is God’s servant ; O God, preserve his honour.
 
-He who has no faith in the Guru 1s stupid and deceitful :—
+He who has no faith in the Guru is stupid and deceitful :—
 
 He in whose heart is spiritual ignorance and who hath no faith in the Guru hath but a poor understanding.
 He in whose heart there is deceit deemeth every one deceitful ; through this deception he is ruined.
@@ -1261,7 +1261,7 @@ If I have very great good fortune I shall have no delay in meeting the saint.
 God’s saints are my excellent tank of nectar: by great good fortune shall man bathe therein.
 O God, apply me to the service of the saint :
 I _will draw_ water, fan him, grind his corn, shampoo his feet, and put the dust thereof on my face.
-The saint of God, who causeth man to meet the true Guru, 1s very great and exalted.
+The saint of God, who causeth man to meet the true Guru, is very great and exalted.
 There is none so great as the true Guru; on meeting him meditate upon God.
 They who entered the true Guru’s protection obtained God, and He preserved their honour.
 Some people come for their own objects, and sit in front of the Guru like cranes in the act of meditation.
