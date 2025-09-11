@@ -46,7 +46,7 @@ Day and night go and associate with the saints and sing with them the Gurus’ h
 Regale your hearts with the pleasure which the true Gurus’ words and instruction afford.
 Amid hopes remain without hopes.[^1]
 
-<span id="p270"><sup><small>[p. 270]</small></sup></span>
+<span id="p276"><sup><small>[p. 276]</small></sup></span>
 
 The Guru employed every device that sleep might not overcome him, and prevent his matutinal devotions which were the object of his earnest solicitude. Although many rich men came to visit him, he made no distinction between rich and poor, and centred his hopes only in God. His food was very simple. He desired not dainty dishes, and thanked God for all His mercies. Whatever valuable offerings were made him he used to spend on his guests. He was always surrounded, as it were, by a halo of visitors, on whom he conferred delight.
 

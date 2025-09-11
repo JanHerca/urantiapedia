@@ -38,7 +38,7 @@ We now return to the story of the girl who guarded the bajra field, and whom Bha
 
 Gaura visited the Guru when he was at Nathana. During his stay Jassa, the Guru’s chauri-bearer, said to him, “Marry me to thy second mother, Bhagtu’s virgin widow, who is now in thy house. My wife is dead. I am a widower, and the marriage of a widower and widow would be very suitable.’ Gaura felt insulted at the proposal, and bided his opportunity to take revenge. He found it one day while they were both hunting with the Guru. The Guru had advanced in front of the party when Gaura drew his sword and killed Jassa. When the Guru heard of it, he forbade Gaura to enter his presence.
 
-<span id="p206"><sup><small>[p. 206]</small></sup></span>
+<span id="p296"><sup><small>[p. 296]</small></sup></span>
 
 After this the Guru returned from Nathana to Kiratpur. Wherever he went he was followed by Gaura, who hoped to find an opportunity of soliciting his pardon, and a retractation of his curse. When the Guru arrived in Kiratpur, Gaura encamped a mile distant. For six months the Guru remained in Kiratpur, and was ever shadowed by Gaura. When the Guru again proceeded to Malwa, Gaura followed him. As the Guru was proceeding along the Satluj, he met some Muhammadan troops who were marching from Lahore to Dihli. One of the officers inquired the name of the party and was informed that it was Guru Har Rai and his bodyguard. The officer was already aware that it was the Guru’s grandfather, Guru Har Gobind, who had killed his grandfather, General Mukhlis Khan, at Amritsar, and he determined on taking life for life.
 
