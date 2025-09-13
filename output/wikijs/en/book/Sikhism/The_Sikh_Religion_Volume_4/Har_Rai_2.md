@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:10:16Z
   </table>
 </figure>
 
-<span id="p280"><sup><small>[p. 280]</small></sup></span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ## CHAPTER II
 
@@ -40,7 +40,7 @@ A pious lady continually prayed that the Guru might eat bread cooked by her hand
 
 At the moment when she was reduced almost to a state of despair the Guru arrived, and asked her for some of the bread she had prepared. He said it would be very late when he returned from the chase, and he desired food to fortify himself until then. The Guru partook of the bread on horseback, without washing his hands, and said he had enjoyed it as if it were the most dainty food. The woman paid the Guru compliments for his humility in visiting her and accepting her hospitality. The Guru in return gave her spiritual instruction, and cut off the shackles of her transmigration.
 
-The Sikhs were astonished that the Guru had taken food from a strange woman, and eaten it on horseback too without washing his hands. They asked him why he had done so. He gave no answer, but continued his hunting excursion. Next day they prepared sweet cakes with great attention to cleanliness, and took them to the forest with the Guru, so as to obviate any necessity he might be under to take food that might possibly be unclean from the hands of a person who might be of low caste. In due time the Sikhs offered the Guru the cakes they had prepared. The Guru said, ‘ O Sikhs, I ate food from that woman’s hands because she was holy. This <span id="p281"><sup><small>[p. 281]</small></sup></span> food which you have prepared with attention to ancient ceremonial is not pleasing to me. It is written in the Granth Sahib :—
+The Sikhs were astonished that the Guru had taken food from a strange woman, and eaten it on horseback too without washing his hands. They asked him why he had done so. He gave no answer, but continued his hunting excursion. Next day they prepared sweet cakes with great attention to cleanliness, and took them to the forest with the Guru, so as to obviate any necessity he might be under to take food that might possibly be unclean from the hands of a person who might be of low caste. In due time the Sikhs offered the Guru the cakes they had prepared. The Guru said, ‘ O Sikhs, I ate food from that woman’s hands because she was holy. This <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> food which you have prepared with attention to ancient ceremonial is not pleasing to me. It is written in the Granth Sahib :—
 
 He whose deeds are pure is called a holy man,[^1]
 
@@ -54,7 +54,7 @@ The Guru gave the following explanation—‘ The woman with great devotion and 
 
 On hearing this discourse the Sikhs’ doubts vanished. They replied, ‘O true king, grant that the love of God may arise in our hearts. Although we have in ourselves no merits, yet thou who hast vouchsafed us thy protection, art responsible for our safe keeping. By thy favour our boats shall reach the haven of the blest.’
 
-<span id="p282"><sup><small>[p. 282]</small></sup></span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 During this colloquy the Guru and his party penetrated a deep forest. The Guru, seeing a black buck issue from the thickets, chased him on horseback at full speed and prevented his escape. The animal was caught and taken to the Guru’s zoological gardens. Men who had come long distances to see the Guru were pleased with his tenderness to animals, particularly to deer, which the kings of old used to sacrifice at their feasts.
 
@@ -64,7 +64,7 @@ By association with the saints man hath no travail ;
 There is no necessity to toil in their company :
 On beholding and meeting them man becometh happy.[^2]
 
-<span id="p283"><sup><small>[p. 283]</small></sup></span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 ‘Carefully remember that, however much you read Vedantic literature, it will be a source of misery unless you love God. Guru Arjan hath also said :—
 
@@ -78,7 +78,7 @@ O Nanak, recognize the right way.[^4]
 
 A deficiency in your weights or want of equality in your scales must be avoided. [ver abide firm in your faith.’
 
-‘The Sikhs then asked the Guru to give them further instruction in the Sikh religion. He replied, ‘ You must read the Granth Sahib, and not worship any inanimate object. When a Sikh dieth, sacred food should be prepared and distributed after reading the Sohila. There should be no mourning, but hymns of the Gurus should be sung, and the Granth Sahib should be intoned. No gods or <span id="p284"><sup><small>[p. 284]</small></sup></span> goddesses should be deemed succourers of man. Reliance must be placed on the immortal God alone.’
+‘The Sikhs then asked the Guru to give them further instruction in the Sikh religion. He replied, ‘ You must read the Granth Sahib, and not worship any inanimate object. When a Sikh dieth, sacred food should be prepared and distributed after reading the Sohila. There should be no mourning, but hymns of the Gurus should be sung, and the Granth Sahib should be intoned. No gods or <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> goddesses should be deemed succourers of man. Reliance must be placed on the immortal God alone.’
 
 A devout Sikh called Bhai Gonda abode with the Guru. He was a saint in thought, word, and deed. The Guru was very much pleased with his sincere devotion and said, ‘ O Bhai Gonda, go thou to Kabul, instruct the Sikhs there in the worship of the true Name, and preach the Sikh faith. Feed holy men and pilgrims with the offerings thou receivest, and send what remaineth for the maintenance of my kitchen. These are thy duties, and I am confident that thou wilt discharge them.’
 
@@ -89,7 +89,7 @@ Regale thy mind with the Guru’s word and spell.
 Put the Guru’s feet into thy heart,
 And ever bow to the Guru the Supreme Being.[^5]
 
-One day while Gonda was repeating the Japji, he fancied he was clinging to the Guru’s feet. He was in such a state of abstraction that he became quite unconscious. He grew as absorbed in the sight of the Guru as a drop of rain in the ocean. The Guru by his occult power knew what was passing in Gonda’s mind, and sat firmly on his throne keeping his feet together. When dinner was announced, as usual at mid-day, he made no response. When the announcement was repeated about an hour afterwards, he still remained silent. A third time after a longer interval dinner was announced, and the cook asked permission to serve it up, but even <span id="p285"><sup><small>[p. 285]</small></sup></span> then the Guru spoke not. When several Sikhs were on the point of making a representation to him, he broke silence and said, ‘ Brother Sikhs, Bhai Gonda is in Kabul. He is in thought, word, and deed, a saint of the Guru. He to-day hath clasped my feet. How can I withdraw them from him? And how can I go to take my dinner until he hath let them go? I am therefore waiting until the conclusion of his meditation and obeisance. Bhai Gonda did not awake from his trance before twilight, and it was only then the Guru felt free to take his repast.
+One day while Gonda was repeating the Japji, he fancied he was clinging to the Guru’s feet. He was in such a state of abstraction that he became quite unconscious. He grew as absorbed in the sight of the Guru as a drop of rain in the ocean. The Guru by his occult power knew what was passing in Gonda’s mind, and sat firmly on his throne keeping his feet together. When dinner was announced, as usual at mid-day, he made no response. When the announcement was repeated about an hour afterwards, he still remained silent. A third time after a longer interval dinner was announced, and the cook asked permission to serve it up, but even <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> then the Guru spoke not. When several Sikhs were on the point of making a representation to him, he broke silence and said, ‘ Brother Sikhs, Bhai Gonda is in Kabul. He is in thought, word, and deed, a saint of the Guru. He to-day hath clasped my feet. How can I withdraw them from him? And how can I go to take my dinner until he hath let them go? I am therefore waiting until the conclusion of his meditation and obeisance. Bhai Gonda did not awake from his trance before twilight, and it was only then the Guru felt free to take his repast.
 
 When afterwards the Sikhs had an opportunity of interrogating Gonda they found the Guru’s words verified and his acts explained by Gonda’s reflections and movements during the state of trance. The Sikhs then were thoroughly convinced of the Guru’s greatness, and said that they themselves were poor ignorant people. As Guru Arjan has said :—
 
@@ -99,7 +99,7 @@ And again :—
 
 Know that God and the Guru are one.[^7]
 
-The Sikhs said, ‘ The advantages of Guru Nanak’s religion are indescribable, and whoever leaveth it and strayeth to other sects, is greatly unfortunate, for he thereby loseth his priceless human birth.’ Once as Sikhs came great distances to the Baisakhi fair and made offerings according to their means, men and women circumambulated the Guru like bumblebees hovering rounda lotus-flower. The Guru inquired if there were any of his Sikhs who, having established a kitchen according to his means, shared his food with others. He received a reply that two or three Sikhs had come, who had established kitchens in several villages and distributed their food among <span id="p286"><sup><small>[p. 286]</small></sup></span> the Guru’s followers. The Guru ordered them to be called, and asked them on what principle they had established kitchens, and whether they entertained all Sikhs on the same terms as their relations. One Sikh replied— When a Sikh is kind enough to visit me at the time of distribution of food, I first satisfy him and then myself.’ A second said, ‘I cook and distribute food with my own hands.’ A third said, “TI wash the feet of Sikhs and drink the water therefrom, for it is written in the Sukhmani :—
+The Sikhs said, ‘ The advantages of Guru Nanak’s religion are indescribable, and whoever leaveth it and strayeth to other sects, is greatly unfortunate, for he thereby loseth his priceless human birth.’ Once as Sikhs came great distances to the Baisakhi fair and made offerings according to their means, men and women circumambulated the Guru like bumblebees hovering rounda lotus-flower. The Guru inquired if there were any of his Sikhs who, having established a kitchen according to his means, shared his food with others. He received a reply that two or three Sikhs had come, who had established kitchens in several villages and distributed their food among <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> the Guru’s followers. The Guru ordered them to be called, and asked them on what principle they had established kitchens, and whether they entertained all Sikhs on the same terms as their relations. One Sikh replied— When a Sikh is kind enough to visit me at the time of distribution of food, I first satisfy him and then myself.’ A second said, ‘I cook and distribute food with my own hands.’ A third said, “TI wash the feet of Sikhs and drink the water therefrom, for it is written in the Sukhmani :—
 
 Wash the feet of the holy men and drink the water therefrom.’
 
@@ -111,7 +111,7 @@ The true Guru is delighted when his disciple taketh food.[^8]
 
 ‘He who through laziness and pride dismisseth a Sikh disappointed, shall gain no advantage from his past or present acts. Farid hath said :—
 
-<span id="p287"><sup><small>[p. 287]</small></sup></span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 All men’s hearts are jewels ; to distress them is not at all good :
 If thou desire the Beloved, distress no one’s heart.
@@ -127,7 +127,7 @@ Two hill Rajas went with a strong force to the Guru under pretence of paying him
 
 The Rajas presented themselves the next morning at the Guru’s levée, but while doing obeisance to him retained guile in their hearts. The Guru, by his occult power, knew their designs, and represented to them that fagirs were never called upon to pay tribute. If they desired anything from him he would give them divine instruction, which would be more advantageous than any sublunary wealth.
 
-The Rajas on hearing this found their business with the Guru at anend. They both stood up, then prostrated themselves before him, and begged to be put on the right way, for they had seriously erred. They confessed that they had come with evil intentions, but they would never again harbour thoughts <span id="p288"><sup><small>[p. 288]</small></sup></span> to the Guru’s detriment. The Guru replied, ‘ Show not your pride to the Guru. Go and rule your kingdoms, oppress not your subjects. If ye do, the Creator will show you His anger, and consign you to hell. Adhere to your own wives, drink not wine, sleep not on the top stories of your palaces out of reach of your subjects. Let it not be that, while they are complaining below, ye are enjoying yourselves above. The subjects are the root, the Rajas the branches of the trees. Whatsoever king oppresseth his subjects applieth the axe to his kingdom. Construct tanks, wells, bridges, and schools, and extend religion through your kingdoms.’ The Rajas much edified by this discourse, took leave of the Guru and returned to their states.
+The Rajas on hearing this found their business with the Guru at anend. They both stood up, then prostrated themselves before him, and begged to be put on the right way, for they had seriously erred. They confessed that they had come with evil intentions, but they would never again harbour thoughts <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> to the Guru’s detriment. The Guru replied, ‘ Show not your pride to the Guru. Go and rule your kingdoms, oppress not your subjects. If ye do, the Creator will show you His anger, and consign you to hell. Adhere to your own wives, drink not wine, sleep not on the top stories of your palaces out of reach of your subjects. Let it not be that, while they are complaining below, ye are enjoying yourselves above. The subjects are the root, the Rajas the branches of the trees. Whatsoever king oppresseth his subjects applieth the axe to his kingdom. Construct tanks, wells, bridges, and schools, and extend religion through your kingdoms.’ The Rajas much edified by this discourse, took leave of the Guru and returned to their states.
 
 <figure class="table chapter-navigator">
   <table>

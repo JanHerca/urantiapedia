@@ -51,7 +51,7 @@ I sacrifice and devote my life to the society of the saints,
 Through whom understanding entered my heart, and I met God the Omniscient.
 Know that Nanak hath ever seen God who is the Searcher of hearts with him.
 
-<span id="p103"><sup><small>[p. 103]</small></sup></span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 The attributes of God :—
 
@@ -76,7 +76,7 @@ He cherisheth even the ungrateful ; O Nanak, God is ever the Pardoner.
 
 God’s beneficence :—
 
-Ever and ever remember God and clasp Him to thy heart, who gave thee soul, body, and wealth, and adorned thee ;<span id="p104"><sup><small>[p. 104]</small></sup></span>
+Ever and ever remember God and clasp Him to thy heart, who gave thee soul, body, and wealth, and adorned thee ;<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 Who constructed all the materials of thy body and infused into it immortal light.
 O my soul, there is none but God.
 Ever remain under God’s protection and thou shalt feel no sorrow.
@@ -99,7 +99,7 @@ True is His empire, true His authority, and truest of the true[^3] His seat.
 The True One exerteth true power in the creation of the world.
 Nanak, repeat the true Name to which I am for ever and ever a sacrifice.
 
-<span id="p105"><sup><small>[p. 105]</small></sup></span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 The Guru counsels the rejection of worldly pleasures :—
 
@@ -149,7 +149,7 @@ Store up God’s wealth, worship the true Guru, and renounce all sin.
 Remember that God who made and adorned thee, and thou shalt be saved. |
 O man, repeat the name of the one eternal God,
 Who gave thee soul, mind, and body, and who is the support of the heart.
-<span id="p107"><sup><small>[p. 107]</small></sup></span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 The world is intoxicated with the prevailing lust, wrath, and pride.
 Enter the asylum of the saints, fall at their feet, and thy misery and mental blindness shall be removed.
 The practice of truth, patience, and mercy is the best work _man can accomplish._
@@ -178,7 +178,7 @@ I know not what things please _the Lord_ ;
 O my soul, seek His way.
 The meditator practiseth meditation.
 He who is possessed of knowledge may employ his knowledge,
-Yet few know God.<span id="p108"><sup><small>[p. 108]</small></sup></span>
+Yet few know God.<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 The Bhagauti[^5] acteth according to the rules _of his sect_ ;
 The Jogi claimeth that he _alone_ is emancipated ;
 The Penitent is absorbed in his penance ;
@@ -203,7 +203,7 @@ Nanak, I fall at the Guru’s feet.
 
 The Guru confesses the benefits he has received from God :—
 
-I fall at _God’s_ feet to conciliate Him ;<span id="p109"><sup><small>[p. 109]</small></sup></span>
+I fall at _God’s_ feet to conciliate Him ;<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 The true Guru hath blended me with God; there is none so great as He.
 The Lord of the earth is my Beloved ;
 He is dearer to me than mother, father,
@@ -226,7 +226,7 @@ Thou hast re-peopled a ruined village: I am a sacrifice unto Thee.
 I continually meditate on God, the Beloved,
 And thus obtain the fruit my heart desireth.
 God hath arranged all mine affairs and appeased the hunger of my soul.
-I have abandoned all mine avocations,<span id="p110"><sup><small>[p. 110]</small></sup></span>
+I have abandoned all mine avocations,<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 And I serve the true God.
 God firmly tied the Name, the receptacle of the nine treasures in my robe.
 I have found the comfort of comforts.
@@ -253,7 +253,7 @@ I have found none so great as Thou.
 Thou art in the earth, the heavens, and the nether regions ;
 Thou art. contained in every place, saith Nanak ; Thou art the true support of the saints.
 I am the wrestler of the Lord :
-Having met the Guru I put on a tall turban.[^18]<span id="p111"><sup><small>[p. 111]</small></sup></span>
+Having met the Guru I put on a tall turban.[^18]<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 All are assembled for the wrestling ; God Himself is seated to behold it.
 The music of the drums and clarions striketh up ;
 The wrestlers enter the arena and walk round.
@@ -282,7 +282,7 @@ When my God the Lord of the earth became merciful, I deemed the saints’ societ
 O beloved saints, all happiness and abundant joy are theirs who have sewed God’s jewel in their hearts.
 They forget not for a moment the support of life; O Nanak, they live by repeating God’s name.
 
-<span id="p112"><sup><small>[p. 112]</small></sup></span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## MAJH.
 
@@ -314,7 +314,7 @@ The married life of her who hath the support of the love of the Unapproachable a
 
 The Hindu Shastars and religious ceremonies are of no avail:— —
 
-I have searched and searched in the desire to behold Thee, O God ;<span id="p113"><sup><small>[p. 113]</small></sup></span>
+I have searched and searched in the desire to behold Thee, O God ;<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 I have traversed every variety of forest.
 Is there any one who will bring me my God—who is devoid of qualities, and yet possesseth all qualities—and introduce me to Him?
 Man may recite aloud the wisdom of the six Shastars ;
@@ -408,7 +408,7 @@ At every breath Nanak singeth God’s praises; the true Guru hath cast a veil ov
 
 The condition of God’s worshipper :—
 
-God pervadeth His worshipper as warp and woof ; God, the Bestower of comfort, cherisheth His worshipper. <span id="p116"><sup><small>[p. 116]</small></sup></span>
+God pervadeth His worshipper as warp and woof ; God, the Bestower of comfort, cherisheth His worshipper. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 I draw water, I fan, I grind corn for him, and am ever ready to do the work of the Lord.
 God hath cut off my chains and applied me to His worship.
 The order of the Lord is pleasing to the worshipper’s heart.
@@ -434,7 +434,7 @@ Having met pious men I have obtained excellent wisdom, and meditated on the Name
 As waves blend with water,
 So light is blended with light.
 Saith Nanak, the doors of error have been opened for its escape, and there shall be no more wandering.[^19]
-The Guru’s devotion to the holy :— I am a sacrifice to him who hath heard Thy praises ; <span id="p117"><sup><small>[p. 117]</small></sup></span>
+The Guru’s devotion to the holy :— I am a sacrifice to him who hath heard Thy praises ; <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 I am a sacrifice to him who uttereth Thy name ;
 I am ever a sacrifice to him who worshippeth Thee with heart and soul.
 I will wash his feet and behold
@@ -459,7 +459,7 @@ O Bestower of comfort, Thou possessest no attributes, and yet Thou possessest al
 Thou dwellest at ease ; Thou art the Enjoyer ; Thou art saturated with love.
 Thou knowest Thine own affairs ; it is Thou who rememberest Thyself.[^22]
 Thou art God, and again Thou art Thine own worshipper ;
-Thou art concealed, O God, and again manifest.<span id="p118"><sup><small>[p. 118]</small></sup></span>
+Thou art concealed, O God, and again manifest.<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 The slave Nanak ever singeth Thy praises: look on him with a little kindness.
 
 Man is happy on meeting the Guru and hearing his universal instruction :—
@@ -492,7 +492,7 @@ I have obtained great comfort by meditating on Thy name,
 And my heart is refreshed by singing Thy praises.
 The perfect Guru hath congratulated me; Nanak hath overcome his difficulties.
 
-<span id="p119"><sup><small>[p. 119]</small></sup></span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Divine instruction refreshes the mind :—
 
@@ -526,7 +526,7 @@ The supreme God hath become their Protector.
 My God hath heard my supplication, and my labour hath been successful.
 By the Guru’s favour I have beheld Him
 Who is the Benefactor of all living things.
-The things that dwell in sea and land, beneath the earth, <span id="p120"><sup><small>[p. 120]</small></sup></span> and in the firmament, are all satisfied, and I shall now wash the feet of holy men.
+The things that dwell in sea and land, beneath the earth, <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> and in the firmament, are all satisfied, and I shall now wash the feet of holy men.
 I am ever and ever a sacrifice to Him
 Who fulfilleth the heart’s desires.
 O Nanak, the Destroyer of pain hath bestowed this boon on me, and I am dyed with the love of Him who is the abode of pleasure.
@@ -636,7 +636,7 @@ In this world and the next Thou art the Protector, _O Lord_ ;
 Thou cherishest the child in its mother’s womb.
 The fire of Maya cannot affect those who are dyed with God’s love and sing His praises.
 What excellences of Thine can I remember and relate ?
-In my soul and body I behold Thee.<span id="p124"><sup><small>[p. 124]</small></sup></span>
+In my soul and body I behold Thee.<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 Thou art my Friend, my Saint, and my Lord; I know none but Thee.
 He whose helper Thou art, O God,
 Feeleth no hot wind.

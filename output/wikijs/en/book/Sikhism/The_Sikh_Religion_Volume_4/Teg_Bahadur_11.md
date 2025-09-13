@@ -40,7 +40,7 @@ They who commit sin shall assuredly be ruined ;
 Azrail shall seize and smite them ;
 The Creator will put them into hell, and the Accountant there will ask for their accounts.[^1]
 
-The Guru in reply to the further demand of the <span id="p384"><sup><small>[p. 384]</small></sup></span> officer sent by the Emperor answered as he had done on a former occasion—‘ I will not accept thy law or thy religion, and I will not abandon my faith. The glory of the Turkish power is now at an end since thou art forcibly depriving men of their religion. I will dig up the roots of the Turks and throw them into the briny ocean, since what is melted with salt never reviveth, and they shall never again have sway in Hindustan.’ The Guru is said to have also quoted the hymn of Guru Nanak :—
+The Guru in reply to the further demand of the <span id="p384"><sup><small>[ p. 384 ]</small></sup></span> officer sent by the Emperor answered as he had done on a former occasion—‘ I will not accept thy law or thy religion, and I will not abandon my faith. The glory of the Turkish power is now at an end since thou art forcibly depriving men of their religion. I will dig up the roots of the Turks and throw them into the briny ocean, since what is melted with salt never reviveth, and they shall never again have sway in Hindustan.’ The Guru is said to have also quoted the hymn of Guru Nanak :—
 
 When kings, lions, headmen, and dogs,
 Instead of watching, rest in sleep,
@@ -84,7 +84,7 @@ The Guru was very pleased at receiving this slok and message from his son, and r
 The Name remaineth, saints remain, Guru Gobind remaineth ;
 Saith Nanak, few are they who in this world follow the Guru’s instruction.
 
-Before the messenger reached Anandpur the Guru's <span id="p386"><sup><small>[p. 386]</small></sup></span> family was in great distress on account of a vision which his wife had had. She thought that she saw the Guru place five paise and a coco-nut before his son Gobind and bow to him in token of his appointment, and then she beheld the Guru’s head separated from his body. She requested her son to send a Sikh at once to ascertain 1f the vision had any reality. If the messenger met on the road the Sikh who was expected from Dihli, he was to let him come on, and himself proceed to Dihli to obtain the latest information regarding the Guru.
+Before the messenger reached Anandpur the Guru's <span id="p386"><sup><small>[ p. 386 ]</small></sup></span> family was in great distress on account of a vision which his wife had had. She thought that she saw the Guru place five paise and a coco-nut before his son Gobind and bow to him in token of his appointment, and then she beheld the Guru’s head separated from his body. She requested her son to send a Sikh at once to ascertain 1f the vision had any reality. If the messenger met on the road the Sikh who was expected from Dihli, he was to let him come on, and himself proceed to Dihli to obtain the latest information regarding the Guru.
 
 Meanwhile the Emperor kept his thoughts on the Guru’s conversion. He sent for a Muhammadan priest and told him to take one of the nobles with him to the prisoner with this message, “ Thou art to accept the Muhammadan religion or work a miracle. If thou work a miracle, thou mayest remain a Guru as thou art. If thou accept Islam, then shalt thou be advanced to an exalted position, and be happy. If thou fail to accept these offers, thou shalt be put to death. This is my final decision.’
 

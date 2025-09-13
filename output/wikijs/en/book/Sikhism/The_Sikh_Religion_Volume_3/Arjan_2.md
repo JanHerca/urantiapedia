@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:8:26Z
   </table>
 </figure>
 
-<span id="p9"><sup><small>[p. 9]</small></sup></span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Unexpected help reached the Guru from various quarters. One Ganga Ram, a Brahman merchant, came from Bhatinda with corn to sell. He visited the Guru and remained with him for some time. During his stay the Guru’s kitchen one day became empty, so Ganga Ram gave up all his corn and fed for a space of five days all the labourers on the tank. As the Baisakhi fair was approaching, the Guru persuaded him to stay and enjoy it. Large offerings were made to the Guru on the occasion, all of which he ordered to be given to Ganga Ram. This was done to test his devotion and sincerity. Ganga Ram, however, refused to accept them. The Guru, who was naturally pleased at meeting such a disinterested friend, commended and blessed him.
 
@@ -40,7 +40,7 @@ When the tank was excavated, it was represented to the Guru that Har Mandar, or 
 
 Hindu temples are closed on three sides and opened only towards the east or rising sun. The great Sikh temple at Amritsar was to be open on all sides. This meant that the Sikh worship was open to all, and was not concerned with sun-worship. The Granth Sahib is placed in the middle of the temple, so that no man may seat himself in its place.
 
-<span id="p10"><sup><small>[p. 10]</small></sup></span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 It was on the Ist of Magh, Sambat 1645 (A.D. 1589), the Guru laid the first brick of the masonry foundation of the Har Mandar, or the Darbar Sahib, now known to Europeans as the Golden Temple. A mason afterwards accidentally displaced the brick, whereupon the Guru prophesied that the foundation should again have to be laid. His words were subsequently fulfilled. Ahmad Shah Abdali, in Sambat 1819, destroyed the temple and desecrated the tank. Two years afterwards the great army of the Khalsa recovered possession of the temple, relaid its masonry foundation, and reconstructed it.
 
@@ -73,7 +73,7 @@ O tongue, repeat God’s praises ; let us ever sing them night and day.
 The mind and body of him who loveth the Name shall be filled with ambrosial essence.
 Nanak representeth, my desires have been fulfilled. I live by a sight of Thee.[^2]
 
-<span id="p12"><sup><small>[p. 12]</small></sup></span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 The following also was composed on the same occasion :—
 
@@ -96,7 +96,7 @@ Knoweth divine knowledge.
 His cares and anxieties shall depart
 Who seeketh the protection of Baba Nanak and God.[^6]
 
-<span id="p13"><sup><small>[p. 13]</small></sup></span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 The Guru thus described the advantages of the tank :—
 

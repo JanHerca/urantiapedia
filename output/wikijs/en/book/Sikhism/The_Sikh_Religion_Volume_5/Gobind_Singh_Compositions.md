@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T12:8:41Z
   </table>
 </figure>
 
-<span id="p260"><sup><small>[p. 260]</small></sup></span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## COMPOSITIONS OF GURU GOBIND SINGH
 
-In the year A.D. 1734 while in Amritsar Bhai Mani Singh compiled the compositions and translations of Guru Gobind Singh and of the bards who were associated with him. The compilation was subsequently known as the Granth of the tenth Guru, though Mani Singh did not give it that title.[^1] We <span id="p261"><sup><small>[p. 261]</small></sup></span> now proceed to give translations from it of such doctrinal and historical portions as we believe to represent the Guru’s own opinions and acts.
+In the year A.D. 1734 while in Amritsar Bhai Mani Singh compiled the compositions and translations of Guru Gobind Singh and of the bards who were associated with him. The compilation was subsequently known as the Granth of the tenth Guru, though Mani Singh did not give it that title.[^1] We <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> now proceed to give translations from it of such doctrinal and historical portions as we believe to represent the Guru’s own opinions and acts.
 
 <p style="text-align:center;">JAP</p> [^2]
 
@@ -56,7 +56,7 @@ O Lord, who can tell all Thy names? the wise call Thee _special_ names according
 
 May we have the protection of the immortal Being ! [^5]
 
-<span id="p262"><sup><small>[p. 262]</small></sup></span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 May we have the protection of All-steel !
 May we have the protection of All-death !
@@ -88,7 +88,7 @@ The fourteen worlds He made as a play,
 He made endless demons, deities, serpents,
 Celestial singers, Yakshas, excellent and beautiful.
 .He is spoken of in the past, the future, and the present,
-And He knoweth the secrets of every heart. <span id="p263"><sup><small>[p. 263]</small></sup></span>
+And He knoweth the secrets of every heart. <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 He is not attached to any one love ;
 He is contained in the light of all souls ;
 He recognizeth all people and all places ;
@@ -110,7 +110,7 @@ The following ten Sawaiyas, or quatrains, are recited at the administration of t
 <p style="text-align:center;">I</p>
 
 I have wandered and in their own homes seen crowds of Saravagis, Sudhs [^11], Sidhs, Jogis, and Jatis,
-Brave demons, demigods feasting on nectar, and crowds of saints of various sects. <span id="p264"><sup><small>[p. 264]</small></sup></span>
+Brave demons, demigods feasting on nectar, and crowds of saints of various sects. <span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 I have seen the religions of all countries, but none appeared to be that of the Lord of life.
 Without a particle of the love and favour of God they are only worth a ratti [^12].
 
@@ -132,7 +132,7 @@ Yet without worshipping the name of God the Lord of wealth, they went at last to
 
 Men bathe at places of pilgrimage, exercise mercy, curb their passions, bestow gifts, exercise abstinence, and _perform various special ceremonies—
 The Veds, the Purans, the Quran, and the other books of the Musalmans, the earth and heaven all have I seen ;
-Thousands of fasters, Jatis who practised continence, all have I carefully observed ; <span id="p265"><sup><small>[p. 265]</small></sup></span>
+Thousands of fasters, Jatis who practised continence, all have I carefully observed ; <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 Yet without worshipping the name of the one God and loving Him even kings are of no account.
 
 <p style="text-align:center;">V</p>
@@ -156,7 +156,7 @@ All the beings which in sea and land every moment set up God in their hearts,
 Shall find their good deeds and glory increase; they shall hear the voices of gratulation and the multitude of their sins shall depart.
 The congregations of saints wander happy in the world ; all their enemies on beholding them are cowed. 
 
-<span id="p266"><sup><small>[p. 266]</small></sup></span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 <p style="text-align:center;">VIII</p>
 
@@ -179,7 +179,7 @@ Some see God in the south, some bow their heads to the west.
 Some fools worship idols, others busy themselves with worshipping the dead. |
 The whole world entangled in false ceremonies hath not found God’s secret.
 
-God is not subject to birth or death, He is acquainted with the excellent fourteen sciences,[^17] <span id="p267"><sup><small>[p. 267]</small></sup></span>
+God is not subject to birth or death, He is acquainted with the excellent fourteen sciences,[^17] <span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 He is without stain and infinite,
 He is of unfading brightness and generous,
 His form is not quickly recognized,
@@ -207,7 +207,7 @@ Many Brahmas and Vishnus who meditate on Him,
 Many Rams, Krishans, and prophets—
 No one is acceptable without devotion.
 There are many oceans, mountains great as Bind,[^19]
-Many fishes, tortoises, and serpents,[^20] <span id="p268"><sup><small>[p. 268]</small></sup></span>
+Many fishes, tortoises, and serpents,[^20] <span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 Many deities and sons of Brahma,
 Many incarnations of Krishan and Vishnu,
 Many Indars to sweep before His door,
@@ -243,7 +243,7 @@ Some pose as Shaikhs, others as Brahmans,
 Some perform the duties of kings in an incomparable manner,
 Some are free from bodily and mental suffering,
 Some are subject to the service of a special god,
-Some are poor, others the sons of kings, <span id="p269"><sup><small>[p. 269]</small></sup></span>
+Some are poor, others the sons of kings, <span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 And some are the incarnations of Vyas.
 Many Brahmas read the Veds,
 And many Sheshnags repeat God’s name.
@@ -302,7 +302,7 @@ They who eat grass and renounce the desire of wealth, are no more than calves an
 They who fly in the heavens have only the attribute of birds; they who engage in meditation resemble cranes, cats, and wolves.
 All great gyanis who knew, but asserted not themselves, never allowed such deceit as the above to enter their hearts even by mistake.
 
-<span id="p271"><sup><small>[p. 271]</small></sup></span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 They who live in the earth should be called the offspring of worms; they who live in the heavens should be called birds.
 They who eat fruit should be called the offspring of monkeys ; they who wander unseen should be accounted as ghosts.
@@ -318,7 +318,7 @@ Jogis, wearers of matted hair, celibates, the true, great Brahmacharis who under
 They who perform the niwali feat, who sacrifice to water, fire, and wind, who hold their heads down, who stand or one leg and never sit,
 Men, serpents, deities, and demons find not God’s secrets ; the Veds and the books of the Musalmans say that God is indescribable.
 
-<span id="p272"><sup><small>[p. 272]</small></sup></span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Peacocks skip about dancing, the thunder roareth and the lightning presenteth many phases.[^26]
 _If God be obtained by being cold or hot_, there is nothing colder than the moon, nothing hotter than the sun, _if by being a raja God may be obtained_, there is no king equal to Indar who filleth the whole world.
@@ -332,7 +332,7 @@ How many priests and prophets have there been! they are so many that they cannot
 
 Jogis, Jatis, Brahmacharis[^29], and very great kings, the shadow of whose umbrellas extended for many miles,
 Who wandered subduing kingdoms and crushing the pride of very great kings,
-Sovereigns like Man[^30] and lords of the umbrella like <span id="p273"><sup><small>[p. 273]</small></sup></span> Dilip,[^31] great kings who prided themselves on the strength of their arms,
+Sovereigns like Man[^30] and lords of the umbrella like <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> Dilip,[^31] great kings who prided themselves on the strength of their arms,
 Proud men like Dara,[^32] like the kings of Dihli, and like Durjodhan, having enjoyed the earth in their turn at last were blended with it.
 
 Artillerymen, huntsmen wearing decoy dresses, and they who eat opium bow their heads many times.
@@ -346,7 +346,7 @@ What if a sheep rub its head against trees _and thus take off its hair_? as for 
 How can he who is a slave to worldly desires and addicted to lust and wrath, find God without faith ?
 
 The peacocks dance, the frogs croak, and the clouds ever thunder ;
-The tree ever standeth on one leg in the forest; _as for those who take not life_, the Saravagi bloweth on the ground before putting his feet on it ; <span id="p274"><sup><small>[p. 274]</small></sup></span>
+The tree ever standeth on one leg in the forest; _as for those who take not life_, the Saravagi bloweth on the ground before putting his feet on it ; <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 The stones through several ages remain in one place; the ravens and the kites travel from country to country.
 How can the wretch who is without divine knowledge and who is never absorbed in the great Benefactor, be saved without faith in Him ?
 
@@ -362,7 +362,7 @@ Without meditation on divine knowledge fools are drowned in hell’s river; and 
 
 If any one were to obtain by penance the Lord who suffereth not pain, the wounded man suffereth pain of many kinds.
 If any one were by repeating God’s name to obtain God who cannot be obtained by lip-worship[^34], the warbler ever uttereth ‘Tu hi! tu hi!’
-If any one were to obtain God by flying in the heavens, the bird called anal wandereth in the firmament. <span id="p275"><sup><small>[p. 275]</small></sup></span>
+If any one were to obtain God by flying in the heavens, the bird called anal wandereth in the firmament. <span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 If salvation be obtained by burning oneself in the fire, why should not the Sati and also the serpent which liveth in hell be saved ? [^35]
 
 The following is a homily on the equality of men and on the Hindu and Muhammadan forms of worship :—
@@ -375,7 +375,7 @@ Worship the one God who is the one divine Guru for all ; know that His Form is o
 The temple and the mosque are the same; the Hindu worship and the Musalman prayer are the same; all men are the same ; it is through error they appear different.
 Deities, demons, Yakshas, heavenly singers, Musalmans, and Hindus adopt the customary dress of their different countries.
 All men have the same eyes, the same ears, the same body, the same build,[^38] a compound of earth, air, fire, and water.
-Allah and Abhekh are the same; the Purans and the <span id="p276"><sup><small>[p. 276]</small></sup></span>
+Allah and Abhekh are the same; the Purans and the <span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 Quran are the same; they are all alike; it is the one God who created all.
 
 The following gives the Sikh conception of the manner in which souls emanated from God and are again absorbed in Him :—
@@ -392,7 +392,7 @@ As light blendeth with darkness and darkness with light, so all things have spru
 
 How many go about howling! how many die weeping ! how many are drowned in the water! how many are burnt in the fire !
 How many dwell by the Ganges! how many in Madina and Makka! how many wander as anchorets !
-How many undergo the pain of being cut by the saw! how many of burying themselves in the earth! how many of being impaled. <span id="p277"><sup><small>[p. 277]</small></sup></span>
+How many undergo the pain of being cut by the saw! how many of burying themselves in the earth! how many of being impaled. <span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 How many fly in the firmament! how many dwell in water! but they shall all be burnt in the fire[^40] for want of divine knowledge.
 
 The demigods have grown weary searching for God; the archdemons have grown weary striving with Him; the wise have grown weary exercising their wisdom ; they who repeat His name have grown weary of watching.
@@ -411,7 +411,7 @@ He hath no son, no friend, no enemy, no wife ;
 He is invisible, without distinguishing dress, and unborn ;
 He is ever the Bestower of supernatural power and wisdom ; He is of size beyond measure.
 His form and outline cannot be known,
-Nor where He dwelleth, nor in what disguises He wandereth, <span id="p278"><sup><small>[p. 278]</small></sup></span>
+Nor where He dwelleth, nor in what disguises He wandereth, <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 Nor what His name is, nor what He is called.
 How shall I describe Him ? He cannot be described. He hath no disease, or sorrow, or worldly love, or mother, No karma, no superstition, no birth, no caste ;
 He hath no jealousy, no garb, and is unborn.
@@ -435,7 +435,7 @@ He is powerful, cannot be anywhere contained, radiant, the Torturer of enemies.
 He cannot be depicted in the past, the present, or the future.
 He is not rich or poor ; He hath no form or outline.
 He feeleth not covetousness or mental anxiety; He is not formed out of the elements ; He belongeth to no sect.
-He hath no enemy, no friend, no worldly love, no home. <span id="p279"><sup><small>[p. 279]</small></sup></span>
+He hath no enemy, no friend, no worldly love, no home. <span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 He is eternal and ever contained in all things ; He beareth love to all.
 He hath no lust, no wrath, no avarice, no worldly love ;
 He is unborn, indestructible, primal, peerless, invisible ;
@@ -459,7 +459,7 @@ He is afar off, pure, undefiled, none can behold Him.
 He hath no caste, no lineage, no friend, no minister.
 I bow to the one independent Being! I bow to the one independent Being !
 
-He hath no religion, no superstition, no shame, no relatiom, No armour, no shield, no karma, no fear, <span id="p280"><sup><small>[p. 280]</small></sup></span>
+He hath no religion, no superstition, no shame, no relatiom, No armour, no shield, no karma, no fear, <span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 No enemy, no friends, no son. I bow to the primal Being ;
 I bow to the primal Being.
 
@@ -489,7 +489,7 @@ Compassionate to the poor, an ocean of mercy, He beholdeth man’s sins, but wea
 
 He destroyeth misery and sin; He crusheth an army of evil men in a moment ;
 He breaketh those unbreakable by _human power_; he smiteth the very valiant, but cherisheth love for those who truly love Him.
-Vishnu, the lord of Lakshmi, cannot find His limit ; the <span id="p281"><sup><small>[p. 281]</small></sup></span> Veds and the books of the Musalmans cannot utter His secret.
+Vishnu, the lord of Lakshmi, cannot find His limit ; the <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> Veds and the books of the Musalmans cannot utter His secret.
 The Beneficent One ever beholdeth men’s secrets; yet He becometh not angry, and withholdeth not their daily bread.
 
 <p style="text-align:center;">III</p>
@@ -513,7 +513,7 @@ He is without a body ; He beareth love to all, yet is He devoid of sensual love;
 To those who know Him He giveth; to those who know Him not He also giveth; He giveth to the earth; He giveth to the heavens.[^44]
 O man, why waverest thou ? the beautiful and holy Lord of wealth will care for thee.
 
-<span id="p282"><sup><small>[p. 282]</small></sup></span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 <p style="text-align:center;">VI</p>
 
@@ -536,7 +536,7 @@ The Veds and the books of the Musalmans have not found Thy secret ; all have gro
 Shiv, the lord of Uma,[^47] cannot find Thy limit. The Sidhs with their spiritual leaders and the sons of Brahma meditate on Thee.
 O men, meditate in your hearts on Him whose immeasurable power is diffused:throughout the whole world.
 
-IX The Veds, the Purans, the Quran, and other Musalman <span id="p283"><sup><small>[p. 283]</small></sup></span> books, have not found His secret; all kings[^48] have grown sore weary _searching for it_.
+IX The Veds, the Purans, the Quran, and other Musalman <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> books, have not found His secret; all kings[^48] have grown sore weary _searching for it_.
 They could not find the secret of the Inscrutable ; after great travail they proclaimed Him invulnerable.
 Thou, O Lord, hast no passion, no form, no outline, no colour, no relation, no sorrow, no companion.
 Thou wast in the beginning and yet hadst no beginning ; Thou art unfathomable, without distinguishing dress,[^49] and without jealousy: he who repeateth Thy name shall save his relations.
@@ -553,7 +553,7 @@ The Bestower of gifts, the great Enhancer of honour, the Giver of a resting-plac
 Conqueror in the fight, Remover of obstacles, great Bestower of wisdom, Thou art honoured even among the most honoured.
 Thou art learned in divine knowledge ; Thou art the great Giver of wisdom, the Destroyer of the god of death.
 
-<span id="p284"><sup><small>[p. 284]</small></sup></span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 The dwellers of the East know not Thy limit, the goddess Hingula[^51] who dwelleth in the Himalayas meditateth on Thee ; the Gurdezis of Ghor[^52] sing the praises of Thy name.
 The Jogis practise Jog to be united with Thee; how many suspend their breath _to obtain Thee_. The Arabs of Arabia worship Thy name.
@@ -570,7 +570,7 @@ Like snow in the Himalayas, like Shiv’s necklace [^56] in Halbaner, like a swa
 Like white sandal in Champawati, like the moon in Chandragir, like moonlight in Chandagarh,
 Like the Ganges on Shiv’s head, like cranes in Bulandabad shineth the light of Thy praises.
 
-<span id="p285"><sup><small>[p. 285]</small></sup></span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 The Persians, the English, the double-faced men of France, the mirdang [^57]—players of Makran sing Thy praises.
 The inhabitants of Bhakhar, of Kandhar, and of Ghor, the Gakhars, the Gurdezis, and those who live on air meditate on Thy name.
@@ -597,7 +597,7 @@ The sky and the earth repeat His name.
 Over the seven heavens and the seven hells
 His net of karma is spread unseen.
 
-<span id="p286"><sup><small>[p. 286]</small></sup></span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 <p style="text-align:center;">VICHITAR NATAK</p>
 
@@ -628,7 +628,7 @@ I bow to Him who holdeth the discus,
 Who is not made of the elements and who is terrible.
 I bow to Him with the strong teeth ;
 I bow to Him who is supremely powerful,
-I bow to the Arrow and the Cannon <span id="p287"><sup><small>[p. 287]</small></sup></span>
+I bow to the Arrow and the Cannon <span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 Which destroy the enemy.
 I bow to the Sword and the Rapier
 Which destroy the evil.
@@ -649,7 +649,7 @@ They who never sought shelter in the battle-field and who retreated not even two
 The demons who could not be drowned in the sea, and who could not be burnt by fiery arrows,
 On beholding thy flash, O Sword, cast aside shame and fled.
 
-<span id="p288"><sup><small>[p. 288]</small></sup></span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Thou in a moment didst destroy such heroes as Rawan, Maharawan [^59], Kumbhkaran [^60],
 Meghnad, and Akampan,[^61] in waging war with whom even Death grew wearied—
@@ -668,7 +668,7 @@ Incantations to obtain thy desires will not be worth thee half a paisa; none of 
 
 Why performest thou false penance to the gods? it will not avail thee a kauri.
 How can they save thee when they cannot protect themselves from the stroke of Death ?
-They will suspend thee in the fiery pit of terrible wrath as they are suspended themselves. <span id="p289"><sup><small>[p. 289]</small></sup></span>
+They will suspend thee in the fiery pit of terrible wrath as they are suspended themselves. <span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 Think, think even to-day in thy heart, O fool, without the favour of God nothing can avail thee.
 
 It is not by the practice of perpetual silence, nor by the _ostensible_ relinquishment of pride, nor by the adoption of a religious dress, nor by shaving the head,
@@ -692,7 +692,7 @@ The blind would see, and the deaf hear, if God would only show favour.
 
 How can my feeble intellect, O God, Describe Thy greatness ?
 I cannot utter Thy praises,
-Do Thou correct this work :<span id="p290"><sup><small>[p. 290]</small></sup></span>
+Do Thou correct this work :<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 How far can this worm speak ?
 It is only Thou, O God, who knowest Thine own praises.
 As a son knoweth not the time of his father’s birth,
@@ -725,7 +725,7 @@ Kalket was the second king ;
 Krurbaras was appointed the third king in the world ;
 Kaldhuj was the fourth king who graced _sovereignty_.
 In this line Raghu was born,
-From whom the Raghu race was descended. <span id="p291"><sup><small>[p. 291]</small></sup></span>
+From whom the Raghu race was descended. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 From them an excellent son Aj was born,
 A great charioteer and archer.
 When he assumed the garb of a Jogi,
@@ -755,7 +755,7 @@ Had innumerable sons in their homes.
 Kalket possessed peerless strength,
 And expelled Kalrai from the city.
 He fled to the Sanaudh [^67] country
-Where he married a king’s daughter. <span id="p292"><sup><small>[p. 292]</small></sup></span>
+Where he married a king’s daughter. <span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 The son born in his house of that marriage
 He named Sodhi Rai.
 The Sodhi race began from that time.
@@ -789,7 +789,7 @@ The Sodhis returned to the Panjab and waged war with the descendants of Kushu wh
 
 <p style="text-align:center;">IV</p>
 
-Those of the expelled descendants of Kushu who read the Veds were called Bedis. <span id="p293"><sup><small>[p. 293]</small></sup></span>
+Those of the expelled descendants of Kushu who read the Veds were called Bedis. <span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 They carefully attended to their religious duties.
 The king of the Panjab dispatched them a conciliatory letter
 To forget the enmity that prevailed among them.
@@ -818,7 +818,7 @@ And in _the joy_ of his heart blessed the Sodhi king, saying,
 ‘When I come in the Kal age under the name of Nanak,
 I will make thee worthy of worship in the world, and thou shalt attain the highest dignity.
 
-Thou hast heard the three Veds from us, On hearing the fourth Ved thou gavest thy territory. Having assumed three births[^69],<span id="p204"><sup><small>[p. 204]</small></sup></span>
+Thou hast heard the three Veds from us, On hearing the fourth Ved thou gavest thy territory. Having assumed three births[^69],<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 In my fourth I will make thee Guru.[^70]
 On the one hand the Sodhi king went to the forest,
 On the other the Bedi king was happy in his sovereignty. How far shall I amplify this story ?
@@ -851,7 +851,7 @@ Afterwards _Nanak_ was called Amar Das,
 As one lamp is lit from another.
 When the time for the fulfilment of the blessing came,
 Then Ram Das _Sodhi_ became Guru.
-Amar Das gave him the Guruship according to the ancient blessing, <span id="p295"><sup><small>[p. 295]</small></sup></span>
+Amar Das gave him the Guruship according to the ancient blessing, <span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 And took the road to paradise himself.
 The holy Nanak was revered as Angad,
 Angad was recognized as Amar Das,
@@ -880,7 +880,7 @@ To perform the tricks of mountebanks and cheats.[^72]
 
 
 Having broken his potsherd on the head [^73] of the King of Dihli, he departed to paradise.
-None came _into the world_ who performed such deeds as he. <span id="p296"><sup><small>[p. 296]</small></sup></span>
+None came _into the world_ who performed such deeds as he. <span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 At his departure there was mourning in this world : There was grief through the world, but joy in paradise.
 
@@ -946,7 +946,7 @@ Whoever was clever in the world
 Established his own sect,
 And no one found the Creator.
 Enmity, contention, and pride increased.
-Men began to burn trunk and leaves in their own fire,[^77] <span id="p298"><sup><small>[p. 298]</small></sup></span> :
+Men began to burn trunk and leaves in their own fire,[^77] <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> :
 And none of them went My way.
 They who obtained a little spiritual power
 Struck out their own way.
@@ -980,7 +980,7 @@ Afterwards I created Dattatre
 Who also struck out his own path.
 He pared not his finger nails, he decorated his head with matted hair,[^79]
 And paid no heed to My worship.
-Then I created Gorakh <span id="p299"><sup><small>[p. 299]</small></sup></span>
+Then I created Gorakh <span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 Who made great kings his disciples,
 And tearing their ears put rings in them :
 But he thought not of the way of My love. Then I created Ramanand
@@ -1010,7 +1010,7 @@ As He spoke to me so I speak unto men:
 I bear no enmity to any one.
 All who call me the Supreme Being
 Shall fall into the pit of hell.
-Recognize me as God’s servant only : <span id="p300"><sup><small>[p. 300]</small></sup></span>
+Recognize me as God’s servant only : <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 Have no doubt whatever of this.
 I am the slave of the Supreme Being,
 And have come to behold the wonders of the world. I tell the world what God told me,
@@ -1045,7 +1045,7 @@ And avoid endless sorrow.
 Sorrow and sin have not approached those Who have meditated on Thy name.
 They who meditate on any one else
 Shall die of arguments and contentions.
-The divine Guru sent me for religion’s sake : On this account I have come into the world— ‘Extend the faith everywhere ; <span id="p301"><sup><small>[p. 301]</small></sup></span>
+The divine Guru sent me for religion’s sake : On this account I have come into the world— ‘Extend the faith everywhere ; <span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 Seize and destroy the evil and the sinful.’
 Understand this, ye holy men, in your souls.
 I assumed birth for the purpose
@@ -1080,7 +1080,7 @@ I shall proclaim to all men what He told me.
 I will repeat God’s name,
 And all my affairs shall prosper.
 I will not close mine eyes,[^84]
-Or do anything for show. <span id="p302"><sup><small>[p. 302]</small></sup></span>
+Or do anything for show. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 They who wear a religious garb
 Are deemed naught by the saints of God.
 Understand this, all men, in your hearts,
@@ -1112,7 +1112,7 @@ They who meditate on Him shall go to heaven at last.
 God and God’s servant are both one—deem not that there is any difference between them—
 As waves produced from water are again blended with it.
 
-<span id="p303"><sup><small>[p. 303]</small></sup></span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 God remaineth apart from those
 Who indulge in wrangling and pride.
@@ -1163,7 +1163,7 @@ Here follow in the Vichitar Natak an account of the battle of Bhangani ; the dis
 
 They who turn away from the Guru
 Shall have their houses demolished in this world and the next.
-They shall be laughed at here, have no dwelling hereafter, <span id="p305"><sup><small>[p. 305]</small></sup></span>
+They shall be laughed at here, have no dwelling hereafter, <span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 And be debarred from all hope.
 Sorrow and hunger shall ever attach to those
 Who forsake the service of the Saint.
@@ -1193,7 +1193,7 @@ God preserveth them as the tongue is preserved among the teeth ; He destroyeth t
 What can a miserable enemy do to him whom the Friend preserveth ?
 He cannot even touch his shadow; the fool shall pass away.
 
-<span id="p306"><sup><small>[p. 306]</small></sup></span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 <p style="text-align:center;">X</p>
 
@@ -1219,7 +1219,7 @@ Thou dwellest apart and none can find Thee ;
 Wherefore Thou art called the Endless One.
 They who are called the twenty-four incarnations
 Have not found even a trace of Thee, O God.
-On seeing Thy saints distressed Thou becomest uneasy ; <span id="p307"><sup><small>[p. 307]</small></sup></span>
+On seeing Thy saints distressed Thou becomest uneasy ; <span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 Wherefore Thou art styled the kinsman of the poor.
 At last Thou shalt destroy the whole world ;
 Wherefore the world calleth Thee Death.
@@ -1252,7 +1252,7 @@ On this account he is called the Unseen.
 His form is incomparable and unequalled ;
 He hath no concern with garbs or no garbs.
 He bestoweth on all but beggeth from none
-Wherefore He is recognized as the Provider. <span id="p308"><sup><small>[p. 308]</small></sup></span>
+Wherefore He is recognized as the Provider. <span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 He is not concerned with celestial appearances or omens ;
 This fact is known to the whole world.
 He is not appeased by incantations, written or spoken, or by charms.
@@ -1286,7 +1286,7 @@ Without hypocrisy they can obtain naught.
 The men who meditate on the one Being
 Never practise hypocrisy on any one.
 Without hypocrisy they would obtain nothing,
-For no one would bow before any of them. <span id="p309"><sup><small>[p. 309]</small></sup></span>
+For no one would bow before any of them. <span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 If no one had a belly,
 Who would describe any one as rich or poor ?
 They who have concluded that God is one
@@ -1320,7 +1320,7 @@ Have obtained the real thing.[^95]
 The form of the one God is unequalled :
 He is sometimes poor, sometimes a prince or a king.
 He hath given to all men their several entanglements ;
-He is separate from them, and none of them hath found Him. <span id="p310"><sup><small>[p. 310]</small></sup></span>
+He is separate from them, and none of them hath found Him. <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 He created all things separately,
 And will destroy them all separately.
 God accepteth not censure from any one ;[^96]
@@ -1340,7 +1340,7 @@ Forsaking all other doors I have clung to Thine. It is to Thine honour to protec
 <p style="text-align:center;">KRISHAN AVATAR</p>
 
 I do not at the outset propitiate Ganesh ; [^99]
-I never meditate on Krishan or Vishnu ; <span id="p311"><sup><small>[p. 311]</small></sup></span>
+I never meditate on Krishan or Vishnu ; <span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 I have heard of them but I know them not ;
 It is only God’s feet I love.
 Great-death, be Thou my protector ;
@@ -1368,7 +1368,7 @@ Went to Banaras, and read the Veds very many times, obtained not the Real Thing.
 They gave alms so that Vishnu might come into their power, but they lost all their wealth.
 They who loved God with hearty affection found Him.
 
-What availeth it if a crane sit closing his eyes and displaying a religious garb to the world ? <span id="p312"><sup><small>[p. 312]</small></sup></span>
+What availeth it if a crane sit closing his eyes and displaying a religious garb to the world ? <span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 If man ever go about bathing in water like a fish, how shall he obtain possession of God ?
 If man croak day and night like a frog and fly like a bird, how shall he obtain possession of God ?
 Siam[^101] and all these saints say, hath any one without love pleased God ?
@@ -1388,7 +1388,7 @@ How can I turn my attention to Thee, O Lord, and forsake domestic affairs ?
 Now be pleased to grant me the boon I crave with clasped hands,
 That when the end of my life cometh, I may die fighting in a mighty battle.
 
-Blest is his life in this world who repeateth God’s name with his mouth and meditateth war in his heart. <span id="p313"><sup><small>[p. 313]</small></sup></span>
+Blest is his life in this world who repeateth God’s name with his mouth and meditateth war in his heart. <span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 The body is fleeting and shall not abide for ever; man embarking in the ship of fame shall cross the ocean of the world.
 Make this body a house of resignation ; light thine understanding as a lamp ;
 Take the broom of divine knowledge into thy hand, and sweep away the filth of timidity.
@@ -1429,7 +1429,7 @@ The following thirty-three sawaiyas are also read in Abchalangar and other place
 
 He who repeateth night and day the name of Him whose enduring light is unquenchable, who bestoweth not a thought on any but the one God ;
 Who hath full love and confidence in God, who putteth not faith even by mistake in fasting, or _worshipping_ cemeteries, places of cremation, or Jogis’ places of sepulture ;
-Who only recognizeth the one God and not pilgrimages, alms, the non-destruction of life,[^103] _Hindu_ penances, or austerities ;<span id="p315"><sup><small>[p. 315]</small></sup></span>
+Who only recognizeth the one God and not pilgrimages, alms, the non-destruction of life,[^103] _Hindu_ penances, or austerities ;<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 And in whose heart the light of the Perfect One shineth, he is recognized as a pure _member of the_ Khalsa.
 
 <p style="text-align:center;">II</p>
@@ -1453,7 +1453,7 @@ Compassionate to the poor, merciful, Ocean of mercy, true, everlasting, diffused
 Sheshnag, Indar, Ganesh, and Shiv have searched the Veds, but found not Thy depth.
 O foolish man, say why hast thou forgotten God who is ever manifest ?
 
-<span id="p316"><sup><small>[p. 316]</small></sup></span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 <p style="text-align:center;">V</p>
 
@@ -1480,7 +1480,7 @@ The Purans and the Quran know not the secrets of the Compassionate to the poor, 
 
 O true and eternal One, perpetual is Thy dominion ; it is Thou who madest the Veds and the Quran.
 Thou didst appoint demigods, demons, Sheshnag the past and the present.
-From the beginning, before the ages, the stainless, the indestructible, Thy light is seen, though Thou art unseen. <span id="p317"><sup><small>[p. 317]</small></sup></span> 
+From the beginning, before the ages, the stainless, the indestructible, Thy light is seen, though Thou art unseen. <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> 
 O foolish man, who hath come to tell thee of the invisible God ? [^106]
 
 <p style="text-align:center;">IX</p>
@@ -1504,7 +1504,7 @@ The Gandharbs,[^107] the Yakshas, Sheshnag, the earthdwelling serpents, the firm
 The visible and invisible worlds, the eight directions, the demons as well as the demigods all worship God. 
 O man of ignorant mind, through regard for-whom hast thou forgotten the Omniscient, the Self-existent, the Treasure ? 
 
-<span id="p318"><sup><small>[p. 318]</small></sup></span> 
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span> 
 
 <p style="text-align:center;">XII</p>
 
@@ -1529,7 +1529,7 @@ Why did he who had no father or mother call Vasudev [^111] his father ?
 
 <p style="text-align:center;">XV</p>
 
-Why call Shiv God, and why speak of Brahma as God ? <span id="p319"><sup><small>[p. 319]</small></sup></span> 
+Why call Shiv God, and why speak of Brahma as God ? <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> 
 God is not Ram Chandar, Krishan, or Vishnu whom ye suppose to be lords of the world. 
 Shukdev, Parasar, and Vyas erred in abandoning the one God and worshipping many gods.[^112]
 All have set up false religions; I in every way believe that there is but one God. 
@@ -1555,7 +1555,7 @@ Thou goest about with ashes smeared on thy face and cheatest all the demigods an
 Addicted to avarice thou wanderest from house to house ; the means by which Jog is obtained thou hast all forgotten. 
 Thou hast lost all shame and succeeded in nothing ; without love God cannot be obtained. 
 
-<span id="p320"><sup><small>[p. 320]</small></sup></span> 
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 
 
 <p style="text-align:center;">XIX</p>
 
@@ -1585,7 +1585,7 @@ O fool, it will never generously lift its arm to requite thee.
 Say what confidence can be placed in it? when trouble ariseth, it will not come to save thee. 
 O ignorant and obstinate man, be assured that thy false religion and superstition will ruin thee.
 
-<span id="p321"><sup><small>[p. 321]</small></sup></span> 
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span> 
 
 <p style="text-align:center;">XXIII</p>
 
@@ -1612,7 +1612,7 @@ Thou didst not worship God, O fool, and so didst shamefully spoil thy good busin
 
 Thou hast for long read the Veds and the books of the Musalmans, but not found a secret in them.[^116]
 Thou hast wandered in various places to worship, but the one God thou hast never seated in thy heart. 
-Thou hast bowed thy head to stones and cemeteries, but obtained naught.  <span id="p322"><sup><small>[p. 322]</small></sup></span> 
+Thou hast bowed thy head to stones and cemeteries, but obtained naught.  <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> 
 O foolish man, forsaking the manifest God, why art thou entangled in thine obstinacy? 
 
 <p style="text-align:center;">XXVII</p>
@@ -1638,7 +1638,7 @@ If they hear of any one giving, they run to him even at night,[^117] they are no
 
 <p style="text-align:center;">XXX</p>
 
-They put oil into their eyes to make people believe that they are shedding tears. <span id="p323"><sup><small>[p. 323]</small></sup></span> 
+They put oil into their eyes to make people believe that they are shedding tears. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 
 If they see any of their own worshippers wealthy, they serve up sacred food and feed him with it. 
 If they see him without wealth, they give him nothing, though he beg for it ; they will not even show him their faces. 
 Those beasts plunder men, and never sing the praises of the Supreme Being. 
@@ -1688,7 +1688,7 @@ So shall thy body ever remain like gold, and Death never approach thee.
 
 O mortal, touch the feet of the Supreme Being. 
 Why sleepest thou the sleep of worldly love? be sometimes wakeful and alert. 
-Why instruct others, O beast, since thou hast no knowledge thyself ? <span id="p325"><sup><small>[p. 325]</small></sup></span> 
+Why instruct others, O beast, since thou hast no knowledge thyself ? <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> 
 Why ever accumulate sin ? even now lay aside the love of it. 
 Deem such things simply as errors and love _truly_ religious acts. 
 Ever lay up the remembrance _of God_ ; renounce and flee from mortal sin.
@@ -1708,7 +1708,7 @@ _O man_, worship none but God, not a thing made by Him.
 Know that He who was in the beginning, unborn, invincible, and indestructible is God. 
 What if Vishnu coming into this world killed some of the demons, 
 And exercising great deceit induced every one to call him God ? 
-How can he who himself did not escape from the stroke of the sword of death, <span id="p326"><sup><small>[p. 326]</small></sup></span> 
+How can he who himself did not escape from the stroke of the sword of death, <span id="p326"><sup><small>[ p. 326 ]</small></sup></span> 
 Be deemed God the Destroyer, the Fashioner, the Omnipotent, the Eternal ? 
 Hear, O fool, how can he who was drowned in the ocean of the world save thee ? 
 Thou shalt only escape from Death’s noose when thou seizest the feet of Him who existed before the world. [^121]
@@ -1730,7 +1730,7 @@ Why should He have come into the world to be called the son of Devaki ?
 When He who created demigods, demons, the eight directions, and all extension, 
 Is called by the name of Murar, what glory is it to Him ? 
 
-<span id="p327"><sup><small>[p. 327]</small></sup></span> 
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 
 
 How can God be in human form ? 
 Sidhs have grown weary sitting in contemplation of Him, but they have not been able to see Him in any way. 
@@ -1752,7 +1752,7 @@ Except in the protection of the one sole God nowhere is salvation.
 
 Without God’s name thou canst not be saved. 
 How shalt thou flee from Him who holdeth the fourteen worlds in His power ? 
-Ram and Rahim whose names thou repeatest cannot save thee. <span id="p328"><sup><small>[p. 328]</small></sup></span> 
+Ram and Rahim whose names thou repeatest cannot save thee. <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> 
 Brahma, Vishnu, Shiv, the sun and moon are all in the power of Death. 
 The Veds, the Purans, the Quran, all sects, Indar, Sheshnag, the kings of the Munis, 
 Meditated for many ages on Him who is called the Indescribable, _but could form_ no conception of Him. 
@@ -1784,7 +1784,7 @@ Beloved Lord, Protector of the saints,
 Friend of the poor, Destroyer of tyrants— 
 Thou art Lord of the fourteen worlds. 
 At the proper time Brahma obtained a body, 
-At the proper time Shiv became incarnate, <span id="p329"><sup><small>[p. 329]</small></sup></span> 
+At the proper time Shiv became incarnate, <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 
 At the proper time[^124] Vishnu appeared— 
 That was all the play of God. 
 My obeisance to that _God_ 
@@ -1846,7 +1846,7 @@ _O God_, have died in misery.
 Thou hast removed all the troubles of those 
 Who fall at Thy feet. ; 
 Death shall never approach those 
-Who even once meditate on Thee, O God ; <span id="p331"><sup><small>[p. 331]</small></sup></span> 
+Who even once meditate on Thee, O God ; <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> 
 They shall be protected at all times, 
 And their enemies and their troubles shall instantly vanish. 
 Thou removest in an instant the sufferings of those 
@@ -1877,7 +1877,7 @@ Remember Arjan, Har Gobind, and the holy Hari Rai ;
 Meditate on the holy Hari Krishan, a sight of whom dispelled all sorrow. 
 Remember Teg Bahadur, and the nine treasures shall come hastening to your homes. 
 Ye holy Gurus, everywhere assist us. 
-May the tenth king, the holy Guru Gobind Singh, everywhere assist us. <span id="p332"><sup><small>[p. 332]</small></sup></span> 
+May the tenth king, the holy Guru Gobind Singh, everywhere assist us. <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 
 God Himself knoweth, He Himself acteth; it is He who adjusteth. 
 Standing in His presence, Nanak, make supplication. 
 
@@ -1902,7 +1902,7 @@ Sri Wahguru ji ka Khalsa! Sri Wahguru ji ki Fatah !
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/1.jpg">
 </figure>
 
-<span id="p334"><sup><small>[p. 334]</small></sup></span> 
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span> 
 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
@@ -2027,7 +2027,7 @@ The following is another version of this Rag:
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/20.jpg">
 </figure>
 
-<span id="p340"><sup><small>[p. 340]</small></sup></span> 
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 
 
 <p style="text-align:center;">TILANG</p>
 
@@ -2107,7 +2107,7 @@ The following is another version of this Rag:
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/33.jpg">
 </figure>
 
-<span id="p344"><sup><small>[p. 344]</small></sup></span> 
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span> 
 
 <p style="text-align:center;">TUKHARI</p>
 
@@ -2169,7 +2169,7 @@ The following is another version of this Rag:
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/43.jpg">
 </figure>
 
-<span id="p348"><sup><small>[p. 348]</small></sup></span> 
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span> 
 
 <figure id="Figure_44" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/44.jpg">
@@ -2201,7 +2201,7 @@ The following is another version of this Rag:
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/48.jpg">
 </figure>
 
-<span id="p350"><sup><small>[p. 350]</small></sup></span> 
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span> 
 
 <p style="text-align:center;">KALIAN</p>
 

@@ -42,7 +42,7 @@ To-day we are very happy ;
 Our anxieties have departed since we have met God.
 To-day spring is in our hearts,[^2]
 And, O God, we sing Thine endless praises.
-To-day our Phagan is celebrated.[^3] <span id="p234"><sup><small>[p. 234]</small></sup></span>
+To-day our Phagan is celebrated.[^3] <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 We begin to play on meeting God’s companions ;
 Our service to them shall be our Holi.
 The very red colour of God attacheth to us ;[^4]
@@ -67,7 +67,7 @@ They subjected every one to them, but being without the Name they were blended w
 Great monarchs, at whose gates stood the thirty-three karors of gods, Sidhs, and Strivers as servants,
 Whose dominion was over mountain and sea, all passed away, Nanak, like a dream.[^7]
 
-<span id="p235"><sup><small>[p. 235]</small></sup></span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 The Guru added the following more particular instructions regarding the observance of the Holi festival : “He who drinketh wine and throweth mud and dust and blackeneth his face, shall have dust thrown on his head, and his face shall be blackened in the next world ; while he who uttereth lascivious expressions shall suffer pain in the lowest hell. It is those who take delight in the true Name who enjoy the real Holi; and it is for this purpose the soul obtaineth human birth in this world. Guru Arjan hath said :—
 
@@ -78,13 +78,13 @@ Receive the gain of worshipping God in thy heart, and thy transmigration shall b
 Effort, power, and cleverness are Thine; if Thou grant them to me, I will repeat Thy name.
 They are servants, and it is they, O Nanak, who are attached to service, who are pleasing to God.’[^8]
 
-A day was appointed for a great assemblage at which the Guru’s successor was to be consecrated. When all were assembled Guru Har Gobind rose, clasped his hands in an attitude of supplication, and uttered a prayer to the Supreme Being for the success of the day’s proceedings. Then, taking Har Rai by the hand, he seated him on the throne of Guru Nanak. Bhai Bhana, son of Bhai Budha, affixed the tilak to Har Rai’s forehead and decorated him with a necklace of flowers. The Guru putting five paise—farthings—and a coco-nut on a tray offered them to Har Rai. He then circumambulated him- four times, bowed to him, and gave him the following instructions :—‘ A watch and a quarter before day, shake off sleep, rise, bathe, and recite <span id="p236"><sup><small>[p. 236]</small></sup></span> the Japji, which is the Guru’s spell. Be gentle in thy demeanour. Obtrude not thyself, repeat the Name, and cause others to do so. Sit in the company of thy holy Sikhs twice a day.’ After this and similar instruction to his successor, the Guru addressed the Sikhs, ‘ In Har Rai now recognize me. The spiritual power of Guru Nanak hath entered him.’ Upon this the assembled Sikhs shouted congratulations and the minstrels began to sing. The heralds then announced that this was the seventh Guru duly appointed and consecrated. Bards and minstrels chanted the young Guru’s genealogy and eulogies. All were unanimous in saying that Har Rai, who by service had pleased his grandfather Guru Har Gobind, well merited the exalted position he had attained.
+A day was appointed for a great assemblage at which the Guru’s successor was to be consecrated. When all were assembled Guru Har Gobind rose, clasped his hands in an attitude of supplication, and uttered a prayer to the Supreme Being for the success of the day’s proceedings. Then, taking Har Rai by the hand, he seated him on the throne of Guru Nanak. Bhai Bhana, son of Bhai Budha, affixed the tilak to Har Rai’s forehead and decorated him with a necklace of flowers. The Guru putting five paise—farthings—and a coco-nut on a tray offered them to Har Rai. He then circumambulated him- four times, bowed to him, and gave him the following instructions :—‘ A watch and a quarter before day, shake off sleep, rise, bathe, and recite <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> the Japji, which is the Guru’s spell. Be gentle in thy demeanour. Obtrude not thyself, repeat the Name, and cause others to do so. Sit in the company of thy holy Sikhs twice a day.’ After this and similar instruction to his successor, the Guru addressed the Sikhs, ‘ In Har Rai now recognize me. The spiritual power of Guru Nanak hath entered him.’ Upon this the assembled Sikhs shouted congratulations and the minstrels began to sing. The heralds then announced that this was the seventh Guru duly appointed and consecrated. Bards and minstrels chanted the young Guru’s genealogy and eulogies. All were unanimous in saying that Har Rai, who by service had pleased his grandfather Guru Har Gobind, well merited the exalted position he had attained.
 
 Guru Har Gobind’s wife Nanaki thus addressed her spouse: ‘Thou didst promise that my son should be a Guru of the world, and that thy grandson should be a greater warrior than thou. My lord, when shall this prophecy be fulfilled >’ The Guru replied, ‘I have told thee that thy son shall be a Guru, and he certainly shall. Everything cometh by patience.’ Go now to the village of Bakala, where my mother Ganga’s cenotaph is, and there abide. The Guru asked Suraj Mal what boon he desired for himself. He at once replied, ‘ To be a real Sikh.’ The Guru said, ‘ Well done! my son, well done! mayest thou live long! Thou shalt greatly flourish. Thine offspring shall be rich and reverenced. Abide with Har Rai, and thou shalt obtain all spiritual and temporal blessings.’
 
 The Guru then retired for introspection and divine meditation into a house called Patalpuri, which he had constructed on the margin of the Satluj, and, as the other Gurus had done, exhorted his people not to mourn for him. ‘ This visible and tangible body is false, God alone is true.’
 
-Bibi Viro his daughter came to him with tears <span id="p237"><sup><small>[p. 237]</small></sup></span> in her eyes and said, “My mother departed and left me. Thou hast since then been a mother as well as a father to me. What shall I do without thee ?’ The Guru gave her every consolation, and thus concluded his address to her, ‘Sorrow not for me. Everything that is born must perish. Thou shalt have sons who shall fight on the side of thy nephew the tenth Guru, and display great valour.’ Guru Har Gobind then addressed words of parting or of advice and instruction to his friends and relations around him.
+Bibi Viro his daughter came to him with tears <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> in her eyes and said, “My mother departed and left me. Thou hast since then been a mother as well as a father to me. What shall I do without thee ?’ The Guru gave her every consolation, and thus concluded his address to her, ‘Sorrow not for me. Everything that is born must perish. Thou shalt have sons who shall fight on the side of thy nephew the tenth Guru, and display great valour.’ Guru Har Gobind then addressed words of parting or of advice and instruction to his friends and relations around him.
 
 Guru Har Rai put the departing Guru a question which needed an urgent reply—‘ O great king, thine enmity with the Turks hath ceased. The Emperor is possessed of treasure, arms, and fortresses. If he proceed against me, how am I to act?’ Guru Har Gobind replied, ‘Have no anxiety. He who proceedeth against thee with enmity in his heart shall never prevail against thee. God will be with thee and assist thee. Keep two thousand two hundred mounted soldiers ever with thee.’
 
@@ -94,7 +94,7 @@ What is the moonlight on your floor? _Better_ is God’s light within you.
 Among forms of worship, the best is the worship of God’s name.
 Among things to be relinquished, the best is the relinquishment of lust, wrath, and avarice.
 Among things to be prayed for, best is it to pray to the Guru for God’s praises.
-Among vigils, the best is to awake to sing God’s praises. <span id="p238"><sup><small>[p. 238]</small></sup></span>
+Among vigils, the best is to awake to sing God’s praises. <span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 Among things to be attached to, the best is attachment to the Guru’s feet.
 These things shall be obtained by him on whose forehead such destiny hath been written.
 Saith Nanak, he who hath entered God’s asylum findeth everything good.[^9]
@@ -110,7 +110,7 @@ The Guru was borne on a beautiful bier amid the singing of hymns, amongst which 
 He who knoweth God must always be happy,
 And God will blend him with Himself.
 He in whose heart God dwelleth is wealthy,
-Of high family, honoured, and obtaineth salvation during life. <span id="p239"><sup><small>[p. 239]</small></sup></span>
+Of high family, honoured, and obtaineth salvation during life. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 Hail! hail! hail! a man hath come
 By whose favour the whole world shall be saved.
 The object of his coming was

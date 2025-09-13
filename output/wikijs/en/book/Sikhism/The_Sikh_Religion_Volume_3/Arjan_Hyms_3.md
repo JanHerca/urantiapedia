@@ -41,7 +41,7 @@ The divine Guru is my companion and dispeller of spiritual ignorance, the divine
 The divine Guru is the giver and the teacher of God’s name, the divine Guru hath the spell that cannot be counteracted ; [^4]
 The divine Guru is peace, truth, the image of wisdom ; the divine Guru is a philosopher’s stone by touching which man is saved ;
 The divine Guru is a place of pilgrimage, his divine knowledge a lake of nectar, by bathing in which the Ilimitable is obtained ;
-The divine Guru is the Creator, the remover of all sin, the divine Guru is the purifier of the impure ;<span id="p169"><sup><small>[p. 169]</small></sup></span>
+The divine Guru is the Creator, the remover of all sin, the divine Guru is the purifier of the impure ;<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 The divine Guru is from the beginning, from the beginning of time, and in every age; the divine Guru is the spell of God’s _name_ by the utterance of which man is saved.
 O God, mercifully bring me—foolish and sinner that I am—into the company of the Guru, so that by clinging to him I may be saved.
 Nanak boweth to the divine Guru, the true Guru, the Supreme Brahm, the Supreme God.
@@ -72,7 +72,7 @@ Define the one God as one, Nanak, and the one God as manifold.
 <p style="text-align:center;">PAURI II</p>
 
 O A M. The one God, the great Guru, created all things; [^5]
-He hath strung them all on one string.[^6]<span id="p170"><sup><small>[p. 170]</small></sup></span>
+He hath strung them all on one string.[^6]<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 The three qualities are separately diffused.
 Instead of possessing no attributes God now appeareth possessing all attributes.
 He made creation of all forms ;
@@ -139,7 +139,7 @@ The foetus reversed in the pit of the womb performeth penance,
 And continueth to remember God at every breath.
 Man then cometh into this world to meet the one God,
 But fascinating Maya fascinateth him at his birth.
-He becometh entangled with what he must abandon,<span id="p172"><sup><small>[p. 172]</small></sup></span>
+He becometh entangled with what he must abandon,<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 And in his soul forgetteth the Giver.
 He to whom Thou showest favour, O Lord of the earth,
 Will not forget Thee, _saith_ Nanak, either here or there.[^7]
@@ -172,7 +172,7 @@ It is He Himself who diffuseth demerits and merits.
 _Man performeth_ the duties _of the station_ in which God hath placed him in this world,
 And receiveth what God conferreth upon him.
 No one knoweth God’s limit ;
-It is only what He doeth that occurreth.<span id="p173"><sup><small>[p. 173]</small></sup></span>
+It is only what He doeth that occurreth.<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 It is from Him alone the whole creation hath proceeded. Nanak, He Himself is the arranger.
 
 <p style="text-align:center;">SLOK IX</p>
@@ -233,7 +233,7 @@ He is famous, known everywhere :
 He to whom He hath given His love
 Repeateth His name, O Nanak, under the Guru’s instruction.
 
-<span id="p175"><sup><small>[p. 175]</small></sup></span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XIII</p>
 
@@ -269,7 +269,7 @@ Nanak, he in whose heart the one God dwelleth hath obtained happiness.
 
 <p style="text-align:center;">SLOK XV</p>
 
-He who is our friend in this world and the next, dwelleth within our souls and bodies.<span id="p176"><sup><small>[p. 176]</small></sup></span>
+He who is our friend in this world and the next, dwelleth within our souls and bodies.<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 The perfect Guru teacheth us, O Nanak, to utter God’s Name continually.
 
 <p style="text-align:center;">PAURI XV</p>
@@ -299,7 +299,7 @@ Every act of his shall only be brief.
 Superior to him deem thou the pariah,
 O Nanak, in whose heart God dwelleth.
 
-<span id="p177"><sup><small>[p. 177]</small></sup></span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XVII</p>
 
@@ -329,7 +329,7 @@ He continueth to give what _He deemeth right_ to give, wheresoever man may go.
 The wealth of the Name is the treasure from which the saints spend ; it is their capital.
 With patience, humility, joy, and composure they continue to repeat God’s praises.
 They to whom God is merciful sport and enjoy themselves.
-They who have God’s name for their wealth in their homes are ever wealthy and of good report.<span id="p178"><sup><small>[p. 178]</small></sup></span>
+They who have God’s name for their wealth in their homes are ever wealthy and of good report.<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 They on whom God looketh with favour suffer not trouble, or pain, or torture ; [^18]
 Nanak, they who are pleasing to God are successful.
 
@@ -357,7 +357,7 @@ That the one God was in the beginning, in the beginning of time, is now, Nanak, 
 <p style="text-align:center;">PAURI XX</p>
 
 GH. Put this into thy heart that there is none but God ;
-There was none, and there shall be none: He is everywhere contained.<span id="p179"><sup><small>[p. 179]</small></sup></span>
+There was none, and there shall be none: He is everywhere contained.<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 Thou shalt be absorbed[^19] in Him, O man, when thou enterest His asylum.
 In the Kal age the Name is the real atonement for sins.
 After toiling and moiling in superstitious exercises many Reever ii;
@@ -383,7 +383,7 @@ They become distinguished, Nanak, and not obscure.
 
 <p style="text-align:center;">SLOK XXII</p>
 
-In thy heart meditate on God’s lotus feet, and its inverted lotus shall bloom. God Himself will appear, O Nanak, under the saints’ instruction. PAURI XXII CH. Blest, blest that day and auspicious that conjuncture When I cling to the Guru’s lotus feet.<span id="p180"><sup><small>[p. 180]</small></sup></span>
+In thy heart meditate on God’s lotus feet, and its inverted lotus shall bloom. God Himself will appear, O Nanak, under the saints’ instruction. PAURI XXII CH. Blest, blest that day and auspicious that conjuncture When I cling to the Guru’s lotus feet.<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 After wandering in the four corners and the ten directions _of the globe_,
 I through the favour of God obtained a sight of him.
 Through excellent meditation all duality is removed ;
@@ -415,7 +415,7 @@ J. When a man thinketh something of himself,
 He is caught like a parrot in a trap ;
 When he thinketh he is a saint and possessed of divine knowledge,
 God will show him no respect whatever in the next world ;
-When he thinketh he is a preacher,<span id="p181"><sup><small>[p. 181]</small></sup></span>
+When he thinketh he is a preacher,<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 He _merely_ roameth over the earth like a trader.
 He who removeth his pride by association with the saints O Nanak, meeteth God.
 
@@ -447,7 +447,7 @@ Even though you make calculations, you cannot count how many have departed.
 Whatever you behold shall perish; to what shall you attach yourselves ?
 Know this in your hearts as certain that love of the world is false.
 He who knoweth this is a saint and removed from error.
-Him with whom God is pleased, He extricateth from the blind well.<span id="p182"><sup><small>[p. 182]</small></sup></span>
+Him with whom God is pleased, He extricateth from the blind well.<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 He whose arm is omnipotent is able to create the world—
 Nanak, praise Him who uniteth _the soul with Himself_.
 
@@ -484,7 +484,7 @@ The ambrosial Name is sweet to their souls.
 The soul of the man who pleaseth his Lord,
 O Nanak, becometh refreshed.
 
-<span id="p183"><sup><small>[p. 183]</small></sup></span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XXIX</p>
 
@@ -513,7 +513,7 @@ D H. Why goest thou about searching ? search in thine own heart.
 God dwelleth with thee ; why wanderest thou from forest to forest ?
 Throw down thy heap of terrible pride in the company of the saints ;
 So shalt thou find rest, abide in peace, and be blest with the sight of God:
-He in whom that heap is, shall be born and die, and suffer the pain of the womb ;<span id="p184"><sup><small>[p. 184]</small></sup></span>
+He in whom that heap is, shall be born and die, and suffer the pain of the womb ;<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 He who is steeped in worldly love and entangled with egotism shall come and go.
 I have now gradually fallen under the protection of the saints ;
 God hath cut the meshes of sorrow, Nanak, and united me with Himself.
@@ -539,7 +539,7 @@ He shall understand God’s order, be ever happy, Nanak, and obtain what was des
 I will devote my body, soul, and wealth to him who causeth me to meet God ;
 Nanak, my doubts and fears shall then be dispelled, and Death shall no longer look for me.
 1 
-<span id="p185"><sup><small>[p. 185]</small></sup></span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 <p style="text-align:center;">PAURI XXXII</p>
 
@@ -563,7 +563,7 @@ T H. None is permanent ; why stretchest thou thy feet forward ?[^26]
 In thine efforts after wealth alone thou committest great fraud and deceit ;
 Thou toilest to fill thy purse, O fool, and then fallest down weary :
 At the last moment that shall not avail thy soul.
-Thou shalt obtain permanence [^27] by worshipping God and accepting the saints’ instruction.<span id="p186"><sup><small>[p. 186]</small></sup></span>
+Thou shalt obtain permanence [^27] by worshipping God and accepting the saints’ instruction.<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 Ever love the one God—that is the true love.
 He is the cause of causes; all contrivances are in His hand alone.
 We remain at the posts to which Thou, O God, hast appointed us; saith Nanak, the creature is helpless.
@@ -600,7 +600,7 @@ Who attentively heareth God’s name.
 The holy man in whose heart _God_ is contained
 Shall, O Nanak, obtain greatness.
 
-<span id="p187"><sup><small>[p. 187]</small></sup></span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XXXVI</p>
 
@@ -635,7 +635,7 @@ Nanak, there is no other sovereign.
 
 <p style="text-align:center;">SLOK XXXVITI</p>
 
-By restraining the mind _Death’s_ nooses are cut, transmigration is at an end, and victory obtained.<span id="p188"><sup><small>[p. 188]</small></sup></span>
+By restraining the mind _Death’s_ nooses are cut, transmigration is at an end, and victory obtained.<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 Nanak, permanence is obtained from the Guru and transmigration effaced for ever and ever.
 
 <p style="text-align:center;">PAURI XXXVIII</p>
@@ -670,7 +670,7 @@ _O God_, he whom Thou causest to know Thee, _saith_ Nanak, knoweth Thee.
 Heartily worship God who is the destroyer of fear and the remover of sin and sorrow ;
 He in whose heart He dwelleth through the companionship of the saints shall never again, O Nanak, wander _in transmigration_.
 
-<span id="p189"><sup><small>[p. 189]</small></sup></span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 <p style="text-align:center;">PAURI XL</p>
 
@@ -709,7 +709,7 @@ M. He who knoweth _God’s_ secret
 Is satisfied on meeting the company of the saints ;
 He deemeth woe and weal as the same ;
 He is exempted from entering hell or heaven :
-The man who knoweth God’s secret dwelleth in the world, _and yet_ is apart from it ;<span id="p190"><sup><small>[p. 190]</small></sup></span>
+The man who knoweth God’s secret dwelleth in the world, _and yet_ is apart from it ;<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 He is, _as it were_, the eminent being who filleth every heart.[^30]
 He who is not entangled by mammon,
 Nanak, hath found happiness in God’s love.
@@ -778,7 +778,7 @@ Who under the Guru’s instruction heareth God’s praises.
 Nanak, he who under the Guru’s instruction repeateth God’s name,
 Shall be released from all caste and _caste_ marks.
 
-<span id="p192"><sup><small>[p. 192]</small></sup></span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XLVII</p>
 
@@ -813,7 +813,7 @@ _Saith_ Nanak, O God, we are Thy children.
 
 <p style="text-align:center;">SLOK KLIX</p>
 
-When pride is erased, happiness resulteth, the mind and body are healed,<span id="p193"><sup><small>[p. 193]</small></sup></span>
+When pride is erased, happiness resulteth, the mind and body are healed,<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 Nanak, and He who is worthy of praise becometh manifest.
 
 <p style="text-align:center;">PAURI XLIX</p>
@@ -848,7 +848,7 @@ Nanak, shall never feel unhappy.
 Happiness resulteth from uttering God’s name and keeping it in mind.
 Nanak, God provideth all things, and is everywhere equally contained. |
 
-<span id="p194"><sup><small>[p. 194]</small></sup></span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 <p style="text-align:center;">PAURI LI</p>
 
@@ -874,7 +874,7 @@ For the sake of worldly gain he goeth searching in every direction ;
 God, the Giver, the Bestower, he treasureth not in his heart for an instant.
 Greed, falsehood, sin, worldly love, these things he harboureth in his heart.
 He passeth _his life_ with great adulterers, thieves, and slanderers.
-If pleasing to Thee, _O God_, pardon the counterfeit along with the genuine. <span id="p195"><sup><small>[p. 195]</small></sup></span>
+If pleasing to Thee, _O God_, pardon the counterfeit along with the genuine. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 _Saith_ Nanak, O supreme God, if it please Thee, stones shall float on water.
 
 <p style="text-align:center;">SLOK LIII</p>
@@ -901,7 +901,7 @@ Nanak is happy in giving the one word[^36] God a place in his heart.[^37]
 <p style="text-align:center;">PAURI LIV</p>
 
 God holdeth the three worlds by letters ;
-Through letters the Veds are studied ;<span id="p196"><sup><small>[p. 196]</small></sup></span>
+Through letters the Veds are studied ;<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 Through letters the Shastars, the Simritis, and the Puramns ;
 Through letters hymns, discourses, and sermons ;
 Through letters is the way of escape from fear and error ;
@@ -931,7 +931,7 @@ _Saith_ Nanak, grant me the gift of Thy name that I may string it and keep it in
 
 The divine Guru is my mother, the divine Guru is my father, the divine Guru is my Lord and supreme God ;
 The divine Guru is my companion and dispeller of spiritual ignorance, the divine Guru is my relation and my brother ;
-The divine Guru is the giver and the teacher of God’s name, the divine Guru hath the spell that cannot be counteracted ; <span id="p197"><sup><small>[p. 197]</small></sup></span>
+The divine Guru is the giver and the teacher of God’s name, the divine Guru hath the spell that cannot be counteracted ; <span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 The divine Guru is peace, truth, and the image of wisdom ; the divine Guru isa philosopher’s.stone by whose touch man is saved ;
 The divine Guru is a place of pilgrimage, his divine knowledge a lake of nectar, by bathing in which the Illimitable is obtained ;
 The divine Guru is the creator, the remover of all sin, the divine Guru is the purifier of the impure ;

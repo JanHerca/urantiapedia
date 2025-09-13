@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:8:41Z
   </table>
 </figure>
 
-<span id="p162"><sup><small>[p. 162]</small></sup></span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 ## CHAPTER XX
 
@@ -44,13 +44,13 @@ An unexpected circumstance now occurred. Saiyad Khan, the general of the imperia
 
 Saiyad Khan dismounted and fell at the Guru’s feet. The Guru conferred on him the true Name and the supreme reward of salvation. Saiyad Khan, however, did not actively assist the Sikhs, but turned aside from the battle as he was unable to restrain his troops or divert their energies to the Guru’s assistance. They made a fierce onslaught on the Guru’s soldiers, who began to retire, overpowered as they were by a multitudinous host. But at a critical moment the Sikh war-cry was ragséd, upon which the Sikhs rallied and presented a bold front to the enemy. After Saiyad Khan’s defection from the imperial cause, Ramzan Khan took command and fought with great bravery against the Sikhs. The Guru seeing this let fly an arrow at him which killed his horse.
 
-The Guru on closely observing the combat saw that there was no chance of retrieving his position, <span id="p164"><sup><small>[p. 164]</small></sup></span> so he decided to evacuate Anandpur. The Muhammadans then captured the city and plundered the Guru’s property. On obtaining this booty they proceeded in the direction of Sarhind. Some Sikhs not yet satisfied with warfare asked the Guru's permission to pursue them. The Guru replied that as his Sikhs were subservient to him, so was he subservient to God. He repeated on the occasion the third slok of the Asa ki War. By this he meant that it was God’s will that he should be defeated, and as all creation feared God, so did he himself at all times.
+The Guru on closely observing the combat saw that there was no chance of retrieving his position, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> so he decided to evacuate Anandpur. The Muhammadans then captured the city and plundered the Guru’s property. On obtaining this booty they proceeded in the direction of Sarhind. Some Sikhs not yet satisfied with warfare asked the Guru's permission to pursue them. The Guru replied that as his Sikhs were subservient to him, so was he subservient to God. He repeated on the occasion the third slok of the Asa ki War. By this he meant that it was God’s will that he should be defeated, and as all creation feared God, so did he himself at all times.
 
 The Sikhs feeling their defeat, again pressed their request. The Guru at last yielded, and allowed them to pursue their enemies. The latter were unprepared for attack, and fell into great confusion on finding themselves pursued by the very men whom they already thought they had vanquished. The Turks who turned to oppose the Sikhs were killed, and only those who took to flight escaped the vengeance of the Guru’s pursuing army. In addition to killing and dispersing the Muhammadans, the Sikhs deprived them of all the booty they had captured at Anandpur. The remnant of the Muhammadan army finally made their way to Sarhind. On this the Guru returned and took possession of Anandpur.
 
 The Emperor called on his fugitive troops to account for their cowardice. They pleaded that they had been waylaid by the Sikhs and taken at an unfair advantage. This excuse seems to have been accepted, for the Emperor then turned the conversation in another direction, and asked what sort of person the Guru was, and what forces he possessed. A Muhammadan soldier gave highly coloured accounts of the Guru’s beauty, sanctity, and prowess. He was, he said, a young handsome man, a living saint, the father of his people, and in war equal to one hundred thousand men.
 
-<span id="p165"><sup><small>[p. 165]</small></sup></span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 The Emperor was much displeased on hearing this panegyric of the Guru, and ordered that the panegyrist should be excommunicated. The Court qazi advised that the Guru should be brought to the Emperor’s presence by some stratagem. Accordingly the Emperor sent him the following message. ‘There is only one Emperor. Thy religion and mine are the same. Come to see me by all means, otherwise I shall be angry and go to thee. If thou come, thou shalt be treated as holy men are treated by monarchs. I have obtained this sovereignty from God. Be well advised, and thwart not my wishes.’
 
@@ -75,7 +75,7 @@ The body is fleeting and shall not abide for ever; man embarking in the ship of 
 Make this body a house of resignation ; light thine understanding as a lamp ;
 Take the broom of divine knowledge into thy hand, and sweep away the filth of timidity.
 
-The chronicler judiciously remarks that the Khalsa ought to be congratulated because, though few in <span id="p168"><sup><small>[p. 168]</small></sup></span> number, they had confidence in themselves to fight for their religion, and delighted by anticipation in the approaching conflict.
+The chronicler judiciously remarks that the Khalsa ought to be congratulated because, though few in <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> number, they had confidence in themselves to fight for their religion, and delighted by anticipation in the approaching conflict.
 
 <figure class="table chapter-navigator">
   <table>

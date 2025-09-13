@@ -61,7 +61,7 @@ Saith Nanak, mention of Thee by those whose support is the Name, will be pleasin
 O my friends, seek the protection of the saints and remember the eternal God. ,
 Nanak, by repeating God’s name you shall become green from being withered.
 
-<span id="p408"><sup><small>[p. 408]</small></sup></span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 <p style="text-align:center;">CHHANT</p>
 
@@ -88,7 +88,7 @@ Attached to mammon she is displeased with God, and gaspeth like a fish out of wa
 Death shall punish her for her sins, and she shall dread the transmigration which awaiteth her.
 Nanak prayeth—preserve me in Thine asylum, O Thou who fulfillest desires.
 
-<span id="p409"><sup><small>[p. 409]</small></sup></span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK IV</p>
 
@@ -116,7 +116,7 @@ Nanak, by entering the sanctuary of God’s saints my desires shall be fulfilled
 <p style="text-align:center;">CHHANT</p>
 
 In Assu and Kartik, the cool season, I thirst for God and make preparation to meet Him.
-Searching for a sight of Him I wander thinking when I shall meet the Lord of excellences. <span id="p410"><sup><small>[p. 410]</small></sup></span>
+Searching for a sight of Him I wander thinking when I shall meet the Lord of excellences. <span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 I have no happiness without my Beloved Spouse; my necklaces and bracelets are all hateful to me.
 However beautiful, clever, accomplished, and wise I may be, my body is as if it had not breath in it.
 My soul thirsteth to meet God, I look here and there and in every direction for Him.
@@ -166,7 +166,7 @@ Nanak is a sacrifice to those who by repeating God’s name have reached the sho
 The saints’ feet preside over all; _by means of them_ all troubles are erased ;
 They dispel the pain of transmigration and cause devotion to God to enter the heart ;
 They are imbued with God’s love and intoxicated with divine knowledge: I forget them not for a moment.
-He who renounceth pride and falleth under the protection <span id="p412"><sup><small>[p. 412]</small></sup></span> of their feet, shall obtain all favours from the Lord of the world.
+He who renounceth pride and falleth under the protection <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> of their feet, shall obtain all favours from the Lord of the world.
 I salute God, Gobind, the Ocean of excellence, Srirang[^4] the Primal Lord.
 Nanak supplicateth—do Thou, O God, who art the same in every age have mercy on me.
 
@@ -247,7 +247,7 @@ The boy Dhru at the age of five years was helpless, but by remembering God he be
 _Ajamal_ through love for his son called upon Narayan, whereupon the good angels smote the myrmidons of Death.
 What numberless persons my Lord saved !
 I am poor, of little intellect, without virtue ; I fall at Thy door for protection.
-The pariah[^5] Balmik was saved, so was the wretched huntsman [^6]; <span id="p415"><sup><small>[p. 415]</small></sup></span>
+The pariah[^5] Balmik was saved, so was the wretched huntsman [^6]; <span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 The elephant which remembered God even for a moment was saved.[^7]
 God preserved His servant Prahlad, and _Narsinh_ tore Harnakhas with his nails.
 Bidur, son of a handmaiden, became pure and his whole family illustrious.
@@ -294,7 +294,7 @@ A homily addressed to a Muhammadan :—
 _At night_ all animals congregate under a tree.[^10]
 Some speak hotly and others gently to one another.
 When the sun riseth they depart, as when their lives have come to an end.
-They who commit sin shall assuredly be ruined. <span id="p417"><sup><small>[p. 417]</small></sup></span>
+They who commit sin shall assuredly be ruined. <span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 Azrail will seize and torture them.
 When the Book-keeper[^11] calleth for their accounts, the Creator will consign them to hell.
 No brother or sister will accompany them.
@@ -379,7 +379,7 @@ Cook loaves, put them on the dish, and eat to satiety.
 
 Shrink not from efforts for salvation :—
 
-Turn thine attention to the next world; turn not thy face backward. <span id="p420"><sup><small>[p. 420]</small></sup></span>
+Turn thine attention to the next world; turn not thy face backward. <span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 Nanak, make thyself now acceptable, and thou shalt not be born again.
 
 God is the Friend who pleases all :—
@@ -404,7 +404,7 @@ God is not found in the six _Hindu_ systems, nor in roaming and wandering, nor i
 They who fast until they see the moon [^21] are of no account.
 Though they read the whole of the Veds, they understand not God the real thing.
 They draw marks on their foreheads, make ablutions, but within them is blackness.
-He who weareth a religious garb findeth not God without true instruction. <span id="p421"><sup><small>[p. 421]</small></sup></span>
+He who weareth a religious garb findeth not God without true instruction. <span id="p421"><sup><small>[ p. 421 ]</small></sup></span>
 He who is led astray can only find the road if favourable destiny had been written on his forehead at first.
 It is only he who beholdeth the Guru with his eyes whose life is regenerated.
 
@@ -436,7 +436,7 @@ Grant a sight of Thee to Nanak; he is a sacrifice unto Thee ; he hath sacrificed
 The following prayer is uttered by pious Sikhs on awaking in the morning :—
 
 I am happy when rising ; I am happy when sitting.
-I feel no fear when I know <span id="p422"><sup><small>[p. 422]</small></sup></span>
+I feel no fear when I know <span id="p422"><sup><small>[ p. 422 ]</small></sup></span>
 That the one Lord, who is the Searcher
 Of all hearts, is my Protector.
 I sleep without anxiety and awake without anxiety. O God, Thou art everywhere contained.
@@ -465,7 +465,7 @@ False, false, false, false is worldly pride!
 True are Thy servants who have obtained a sight of Thee the incomparable One.
 Without Thy name the whole world is ashes.
 Wondrous is Thy might; I praise Thy feet.
-We are enriched by uttering Thy praises, O true King. <span id="p423"><sup><small>[p. 423]</small></sup></span>
+We are enriched by uttering Thy praises, O true King. <span id="p423"><sup><small>[ p. 423 ]</small></sup></span>
 Thou art, O God, the support and shelter of those who have no support.
 Cherisher of the poor, I meditate on Thee day and night.
 The Lord Himself is kind to Nanak.
@@ -494,7 +494,7 @@ Every one we see hath his own special disease.
 It is only my true Guru united with God who is free therefrom.
 Through disease of the palate the fish is caught ;
 Through disease of the nose the bumble-bee dieth ;
-The whole world is the prey of disease— <span id="p424"><sup><small>[p. 424]</small></sup></span>
+The whole world is the prey of disease— <span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 Entangled in the disease of worldly love and sin.
 Through disease man dieth and through disease is he born.
 Through disease the soul wandereth in wombs again and again.
@@ -531,7 +531,7 @@ All happiness is obtained by singing God’s praises.
 
 Some of God’s attributes :—
 
-God the Cherisher is merciful ; who can count His merits ? <span id="p425"><sup><small>[p. 425]</small></sup></span>
+God the Cherisher is merciful ; who can count His merits ? <span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 He hath many forms and manifestations ; He is the Lord of all.
 With Him are varied knowledge, varied meditation, varied devotion and penance.
 Various are His merits, His voices, and His sports ; various holy men keep Him in their hearts.
@@ -557,7 +557,7 @@ And become absorbed in God’s lotus feet.
 Ye fortunate, come to God.
 Think upon God, O my soul,
 On the margin _of the stream_ there are very many sweetsmelling trees,
-Yet some one shrub is withered there ; [^26] <span id="p426"><sup><small>[p. 426]</small></sup></span>
+Yet some one shrub is withered there ; [^26] <span id="p426"><sup><small>[ p. 426 ]</small></sup></span>
 But since the season of spring hath come,
 It now blossometh luxuriantly.
 The Kal age hath now arrived ;
@@ -611,7 +611,7 @@ O God, I have come to Thine asylum.
 The anxiety of my mind hath departed since I obtained a sight of Thee.
 Though I spoke not, Thou hast known my state, and caused me to utter Thy name.
 By uttering Thy praises my misery hath fled; I am filled with happiness and peace, and altogether delighted.
-Taking mine arm, Thou hast brought me forth from the blind well and abode of mammon. <span id="p428"><sup><small>[p. 428]</small></sup></span>
+Taking mine arm, Thou hast brought me forth from the blind well and abode of mammon. <span id="p428"><sup><small>[ p. 428 ]</small></sup></span>
 saith Nanak, the Guru hath cut off my entanglements, and, though I was separated _from God_, hath brought me to Him.
 
 Thanksgiving to God :—
@@ -642,7 +642,7 @@ Men worship and make great display ;
 They perform ablutions, and make the marks of quoits[^28] on their bodies ;
 Yet the filth of their hearts never departeth.
 No one hath found God in that way.
-Men impress Vishnu’s marks _on their bodies_, yet their minds are fascinated by mammon. <span id="p429"><sup><small>[p. 429]</small></sup></span>
+Men impress Vishnu’s marks _on their bodies_, yet their minds are fascinated by mammon. <span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
 They commit sin and are in the power of the five evil passions.
 They bathe at places of pilgrimage, and say that all their sins have vanished,
 Yet they again fearlessly commit them.

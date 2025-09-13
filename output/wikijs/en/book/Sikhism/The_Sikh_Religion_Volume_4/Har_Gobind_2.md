@@ -83,13 +83,13 @@ The Emperor sent Wazir Khan and Kind Beg to summon the Guru. Wazir Khan, who was
 
 Before his departure for Amritsar Wazir Khan made another representation to the Emperor—‘ I pray thy Majesty not to hold communication with any detractor of the Guru, and not to listen to any slander or calumny of him. The Guru hath no desire for empire. His wealth increaseth of itself by the power of his repetition of God’s name. When he arriveth here, thou shalt be well pleased with him.’
 
-When the Guru heard the Emperor’s order from the lips of Wazir Khan, he said, ‘ The Emperor formerly summoned my father to Lahore, and fine service he performed for him! Six years have now elapsed since my father’s death, and what hath the Emperor done to make reparation to my family ?’ How can the subjects of such a monarch be happy ? Kind Beg replied, ‘O Guru, the Emperor was powerless in the matter. It was really Guru Arjan himself who did this, for by his supernatural power he might have averted his fate. Thou art also to blame for not having caused Chandu to be punished. He hath now again reported to the Emperor that thou hast erected a throne for thyself, raised an army, and art preparing to contend with the imperial forces.’ The Guru replied, ‘It was not for my father to display miracles before the Emperor; it is the evil man <span id="p12"><sup><small>[p. 12]</small></sup></span> himself who reapeth the reward of his evil deeds. I shall give a reply on the morrow to His Majesty’s message.’
+When the Guru heard the Emperor’s order from the lips of Wazir Khan, he said, ‘ The Emperor formerly summoned my father to Lahore, and fine service he performed for him! Six years have now elapsed since my father’s death, and what hath the Emperor done to make reparation to my family ?’ How can the subjects of such a monarch be happy ? Kind Beg replied, ‘O Guru, the Emperor was powerless in the matter. It was really Guru Arjan himself who did this, for by his supernatural power he might have averted his fate. Thou art also to blame for not having caused Chandu to be punished. He hath now again reported to the Emperor that thou hast erected a throne for thyself, raised an army, and art preparing to contend with the imperial forces.’ The Guru replied, ‘It was not for my father to display miracles before the Emperor; it is the evil man <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> himself who reapeth the reward of his evil deeds. I shall give a reply on the morrow to His Majesty’s message.’
 
 At the afternoon meeting of the Sikhs the question was discussed whether the Guru should go to meet the Emperor or not. Bhai Budha and Bhai Salo counselled the Guru to go. Other Sikhs, on the contrary, advised him to make some pretext and not put himself in the Emperor’s power. The Guru in this difficulty went to consult his mother Ganga. When she heard of the Emperor’s summons she remained silent. She sent for Bhai Salo, Bhai Jetha, and others to ask their advice, whereupon the following decision was arrived at—‘ The Emperor hath already caused us to apprehend harm from him. Guru Arjan went to him and never returned. We can now only regret that circumstance. Instead of the Guru let some trustworthy Sikhs wait on the Emperor. Should he desire to come here, we are all ready to resist him. The Sikhs are ready to sacrifice their lives to avenge Guru Arjan. We rejoice in our woodland life. The Emperor’s army will find it difficult to traverse the distance between us. Emperors are like cobras. One can only abide near them in trepidation and uncertainty. If the Emperor be angry at this determination, then war is the only resource.’ To this Mata Ganga added, ‘ The joy of my life was at an end when my husband separated from me. If my son now leave me, I cannot survive.’
 
 The envoys invited Guru Har Gobind to make complaint to the Emperor against Chandu, and have his whole conduct thoroughly investigated. After consideration the Guru decided to appear before the Emperor. The envoys were very pleased. Wazir Khan reminded the Guru of the fact that his father Guru Arjan had cured him of dropsy and restored him to life. He professed to be the Guru’s disciple, and to desire the destruction of his enemy.
 
-<span id="p13"><sup><small>[p. 13]</small></sup></span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 The Guru replied with the following slok of Guru Ram Das :—
 
@@ -147,7 +147,7 @@ The Creator pervadeth every place.
 As Madho He is Lord and Life of the world,
 The Destroyer of fear ; worship Him in thy heart. Whether known as Rikhikesh, Gopal, Gobind,
 ‘Or Mukand,[^11] Thou alone, O God, art the kind Master. Thou art at once Pir, Prophet, and Shaikh ;
-Master of hearts, Thou dispensest justice. <span id="p16"><sup><small>[p. 16]</small></sup></span>
+Master of hearts, Thou dispensest justice. <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 Thou art holier than the Quran and the other Muhammadan books.
 Whether as Narayan, Narhar, or the Compassionate,
 Thou pervadest every heart and art the heart’s support.
@@ -169,7 +169,7 @@ The true Guru hath given me this treasure.
 Even when men learn the postures of the Sidhs and practise restraint of their senses,
 Neither their mental filth nor the filth of their pride departeth. '
 There is no means of _purifying_ the heart except by taking shelter in the true Guru.
-By meeting the true Guru, my brethren, the heart is changed beyond expression. <span id="p17"><sup><small>[p. 17]</small></sup></span>
+By meeting the true Guru, my brethren, the heart is changed beyond expression. <span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 Saith Nanak, if any one die on meeting the true Guru and be again reanimated by his teaching,
 The filth of his selfishness shall depart and his heart become pure.[^13]
 

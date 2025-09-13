@@ -38,7 +38,7 @@ Mata Sahib Kaur, the Guru’s youngest wife, died of grief very soon after her h
 
 A Muhammadan fagir on whom Ajit Singh when in good circumstances used to bestow money, one day met him in the Dihli bazar, and asked for alms. Ajit Singh in his poverty could only give him a few copper coins. The faqir was not satisfied, but followed him to his house, and further importuned him. He would not leave but dogged his steps as he went shooting during the afternoon. Ajit Singh complained to his servants of the annoyance the beggar was causing him, whereupon they beat the man so severely that he died. They disposed of his body by throwing it into a well for the purpose of concealment.
 
-The faqir’s fate gradually became known, and the Emperor ordered Ajit Singh to be arrested and brought before him. Ajit Singh refused to obey the order, and put himself in a posture of defence. His house was besieged, and his adherents fought bravely | <span id="p256"><sup><small>[p. 256]</small></sup></span> to protect him. He contrived to send his wife and son Hathi Singh, both disguised in soiled clothes, to MataSundari. He then succeeded in escaping from his house and concealed himself in astrawstack belonging to Hindus who lived near. The owner of the stack discovered him and on hearing that a proclamation had been issued for his arrest, informed the authorities. Ajit Singh was seized, tied to an elephant’s tail, and dragged through the city. Ata turning in one of the streets the elephant trod on his head, upon which his brains oozed out.
+The faqir’s fate gradually became known, and the Emperor ordered Ajit Singh to be arrested and brought before him. Ajit Singh refused to obey the order, and put himself in a posture of defence. His house was besieged, and his adherents fought bravely | <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> to protect him. He contrived to send his wife and son Hathi Singh, both disguised in soiled clothes, to MataSundari. He then succeeded in escaping from his house and concealed himself in astrawstack belonging to Hindus who lived near. The owner of the stack discovered him and on hearing that a proclamation had been issued for his arrest, informed the authorities. Ajit Singh was seized, tied to an elephant’s tail, and dragged through the city. Ata turning in one of the streets the elephant trod on his head, upon which his brains oozed out.
 
 Mata Sundari, thinking her position unsafe in Dihli on account of having received Ajit Singh’s wife and son, put into execution her long-cherished project of abandoning that city and proceeded with her charge to Bhagatgarh. The head man of the place would not allow her, through fear of the Emperor, to remain in his city. She thence went to Mathura, where she was received with great distinction. The governor of the city induced the Raja of Jaipur to grant her the revenue of two villages and also a suitable place of residence. In Mathura Hathi Singh grew up to manhood, adopted his father’s style, and maintained a retinue of sixty mounted orderlies. He tried to compose hymns but inspiration failed him. He then abstracted some from the Granth Sahib, and wherever the name Nanak occurred inserted hisown. Mata Sundari on being informed of this became very wroth, abandoned Hathi Singh and his mother at Mathura, and returned to Dihli. During the invasion of Ahmad Shah, Hathi Singh fled from Mathura to Burhanpur, where he subsequently died, leaving no male issue.
 
@@ -52,7 +52,7 @@ A Sikh writer called Gurdas, who lived long after the time of Guru Gobind Singh,
 
 Guru Gobind was manifested as the tenth avatar.
 He repeated the name of the Creator who is unseen, eternal, and stainless.
-He established the Khalsa, a sect of his own, and gave it great glory. <span id="p258"><sup><small>[p. 258]</small></sup></span>
+He established the Khalsa, a sect of his own, and gave it great glory. <span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 Wearing long hair he grasped the sword and smote all his enemies.
 He put on the kachh of continence and practised arms.
 He established the Sikh war-cry and was victorious in mighty battles.
@@ -74,7 +74,7 @@ Well done! well done Gobind Singh! thou wert at once Guru and disciple ! |
 By the order of the immortal God the great Guru obtained inspiration.
 Then he gradually established the Khalsa, whole-bodied [^1] and manly.
 Then arose the roaring of the Singhs (lions) which terrified the whole world.
-They levelled with the earth the shrines of Hindus and Muhammadans. <span id="p259"><sup><small>[p. 259]</small></sup></span>
+They levelled with the earth the shrines of Hindus and Muhammadans. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 They cancelled the Veds, the Purans, the six Hindu systems and the Quran.
 They abolished the call to prayer and the prayer-carpet of the Muhammadans and killed the Turkish monarchs.
 Temporal and spiritual leaders all hid themselves or became converted to Sikhism.

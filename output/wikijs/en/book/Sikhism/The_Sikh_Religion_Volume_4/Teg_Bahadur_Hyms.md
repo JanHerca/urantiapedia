@@ -63,7 +63,7 @@ Nanak, they who know that the world is unreal shall abide under God’s protecti
 <p style="text-align:center;">III</p>
 
 The praise of God entereth not into the heart of man ;
-Day and night he remaineth absorbed in mammon ; say how shall he sing _God’s_ praises. <span id="p394"><sup><small>[p. 394]</small></sup></span>
+Day and night he remaineth absorbed in mammon ; say how shall he sing _God’s_ praises. <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 In this way he bindeth himself to children, friends, mammon, and selfishness.
 This world is false as a mirage, _yet man_ on beholding it fleeth after it.
 The Lord, the Cause of happiness in this world and the next, is forgotten by the fool.
@@ -118,7 +118,7 @@ Thou hast not been absorbed in the feet of _the Lord_ even for a moment, and tho
 Saith Nanak, that man is happy who singeth God’s name and praises ;
 Mammon hath bewitched all the rest of men; they shall not obtain the fearless dignity.
 
-<span id="p396"><sup><small>[p. 396]</small></sup></span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 <p style="text-align:center;">IX</p>
 
@@ -174,7 +174,7 @@ Jogis, jatis, penitents, and several wise men have grown weary _thinking_ of Him
 He can in a moment make a beggar a king, or a king a beggar ;
 What is empty He filleth, and what is full He emptieth ; this is a practice of God ;
 He-hath spread His own illusion, and He Himself beholdeth it ;
-He assumeth many shapes and _playeth_ many sports, yet is distinct from everything. <span id="p398"><sup><small>[p. 398]</small></sup></span>
+He assumeth many shapes and _playeth_ many sports, yet is distinct from everything. <span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 Incomputable, illimitable, unseen, and spotless is He who hath unsettled all men’s minds.
 _Saith_ Nanak, O mortal, lay aside all doubt, and think upon God’s feet.
 
@@ -227,7 +227,7 @@ By which he may obtain God’s service and dispel the fear of death ?
 Say what science _shall he study_, and then what acts and religious ceremonies shall he perform ?
 What is that great name, by remembering which man may cross the dreaded ocean ?
 In the Kal age there is one Name, that of the Ocean of mercy, by repeating which man may obtain deliverance ;
-There is no other religious ceremony equal to that, as shown by sacred writings. <span id="p400"><sup><small>[p. 400]</small></sup></span>
+There is no other religious ceremony equal to that, as shown by sacred writings. <span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 He who is called the Lord of the earth, remaineth ever free from joy and sorrow, uncontaminated _by the world_,
 And unaffected by it, O Nanak, like a mirror ; He dwelleth within thee.
 
@@ -278,7 +278,7 @@ Having abandoned truth thou hast attached thyself to falsehood, and lost thy _hu
 Thou hast filled thy belly by deceit, and slept like a beast ;
 Thou knowest not how to worship God, and thou hast sold thyself to mammon.
 O madman, thou hast remained entangled with sin, and forgotten the jewel of the Name ;
-Thou hast been thoughtless, thou hast not thought of God, thou hast passed thy life in vain. <span id="p402"><sup><small>[p. 402]</small></sup></span>
+Thou hast been thoughtless, thou hast not thought of God, thou hast passed thy life in vain. <span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 Saith Nanak, O God, recognize Thy daily practice _of forgiveness_ ; mortal ever erreth.
 
 <p style="text-align:center;">XI</p>
@@ -336,7 +336,7 @@ Saith Nanak, thou mayest rest assured is saved.
 
 What effort shall I now make
 That my mental anxiety may be at an end, and may cross the terrible ocean ?
-I have done nothing good since I was born, wherefore I fear the more ; <span id="p404"><sup><small>[p. 404]</small></sup></span>
+I have done nothing good since I was born, wherefore I fear the more ; <span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 I have not sung God’s praises in thought, word, or deed ; in my heart I feel anxious regarding this ;
 Although I have heard the Guru’s instruction, yet no spiritual knowledge hath resulted ; I fill my belly like a beast— |
 Saith Nanak, O God, adopt Thy daily practice of _forgiveness_, and I a sinner shall be saved.
@@ -394,7 +394,7 @@ Saith Nanak, by singing them thou shalt obtain the fearless dignity.
 <p style="text-align:center;">II</p>
 
 Awake, O man, awake ; why dost thou heedlessly sleep ?
-The body which was born with thee shall not depart with thee ; <span id="p406"><sup><small>[p. 406]</small></sup></span>
+The body which was born with thee shall not depart with thee ; <span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 The mother, father, sons, and relatives whom thou lovest,
 Will throw thy body into the fire when the soul departeth from it.
 Know that the affairs of the world last only during life.
@@ -458,7 +458,7 @@ Yet, O Nanak, behold the daily practice of God who granted him safety.
 <p style="text-align:center;">II</p>
 
 O my good people, what way shall man now adopt
-By which all evil thoughts may be dispelled and his heart be steeped in devotion to God. <span id="p408"><sup><small>[p. 408]</small></sup></span>
+By which all evil thoughts may be dispelled and his heart be steeped in devotion to God. <span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 The heart remaineth entangled by mammon, and knoweth naught of divine knowledge.
 Whose name is that in the world by remembering which thou shalt obtain the rank of nirvan ?
 When the saints were compassionate and kind they taught me this—
@@ -503,7 +503,7 @@ But what availeth present repentance ? I shall not escape even by running.[^9]
 When this thought arose in my mind I fell in love with the Guru’s feet.
 Life is only profitable, Nanak, when we are absorbed in God’s praises.
 
-<span id="p410"><sup><small>[p. 410]</small></sup></span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 <p style="text-align:center;">BASANT</p>
 
@@ -571,7 +571,7 @@ Nothing shall depart with thee when thou diest ; why art thou wrapped up in them
 Thou hast not increased thy love for Him who is compassionate to the poor and ever the Destroyer of misery.
 Nanak saith, the whole world is unreal like a nightly dream.
 
-<span id="p412"><sup><small>[p. 412]</small></sup></span>
+<span id="p412"><sup><small>[ p. 412 ]</small></sup></span>
 
 <p style="text-align:center;">II</p>
 

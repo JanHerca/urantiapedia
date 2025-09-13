@@ -47,7 +47,7 @@ Others as family men amass wealth, but they cannot make her their own.
 Others who call themselves continent are greatly troubled by her.
 God hath preserved me from her by attaching me to the Guru’s feet.
 She leadeth astray the penitents who practise penance.
-Pandits have been seduced by her into every form of greed.<span id="p277"><sup><small>[p. 277]</small></sup></span>
+Pandits have been seduced by her into every form of greed.<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 Maya hath bewitched earth and heaven.[^1]
 My true Guru hath given me his hand and saved me.
 Maya acteth as a servant to the holy man.
@@ -76,7 +76,7 @@ He who heareth and acteth accordingly shall be saved,
 Shall be absorbed in God,
 And not again suffer transmigration.
 
-<span id="p278"><sup><small>[p. 278]</small></sup></span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 Holiness is described under the allegory of a perfect woman :—
 
@@ -104,7 +104,7 @@ The interference of Maya, or worldly love, in human affairs, and how she is to b
 If I form any plan, Maya alloweth it not to mature :
 She standeth near virtue and continence to repulse them;
 She weareth many guises and assumeth many forms ;
-She alloweth me not to dwell at home, but maketh me wander in different places.<span id="p279"><sup><small>[p. 279]</small></sup></span>
+She alloweth me not to dwell at home, but maketh me wander in different places.<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 She is the mistress of my house, and alloweth me not to dwell therein.
 It I try to do so, she quarrelleth with me.
 She was sent by God in the beginning as a ruler.
@@ -128,7 +128,7 @@ Having glanced at foreign countries I have come here for traffic.
 I have heard, O Guru, thou hast an incomparable and profitable thing,[^9]
 _To purchase which_ I have tied virtues in my dress[^10] and brought them as my capital.
 Having beheld the jewel, my heart hankereth after it.
-O merchant,[^11] a dealer hath come to thy door.<span id="p280"><sup><small>[p. 280]</small></sup></span>
+O merchant,[^11] a dealer hath come to thy door.<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 Exhibit your goods, so that we may effect a bargain.
 God hath sent me to the merchant.
 Priceless thy jewel and priceless thy capital.
@@ -164,7 +164,7 @@ Who beholdeth thee, heareth thee, and abideth with thee.
 Saith Nanak, if such be thy fate,
 Renounce pride and cling to the Guru’s feet.
 
-<span id="p281"><sup><small>[p. 281]</small></sup></span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 The fate of the slanderer :—
 
@@ -196,7 +196,7 @@ In this world thou issuest thine own coin.[^14]
 Thou hast gold, and silver, and copper ;
 But thy lust hath destroyed thy virtue.
 The soul which God mercifully regardeth
-Shall be delivered from its prison.<span id="p282"><sup><small>[p. 282]</small></sup></span>
+Shall be delivered from its prison.<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 That body which meeteth the company of the saints shall taste the relish of God’s name,
 And, saith Nanak, produce good fruit.
 Then shalt thou be like a happy married woman endowed with all comeliness and happiness ;
@@ -227,7 +227,7 @@ The four watches of the day _appear to me_ as the four ages of the world.
 When night cometh I think it will never end.
 The conspiracy of the deadly sins hath kept me from my Beloved.
 Wandering and wandering I weep and wring my hands. 
-<span id="p283"><sup><small>[p. 283]</small></sup></span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 _At last_ God hath shown Himself to His servant, Nanak, Who having seen Him hath obtained supreme happiness.
 
 Instead of worshipping God at home man performs vain devotion abroad : —
@@ -260,7 +260,7 @@ And tasted it, hath become astounded.
 Nanak having become accustomed to its taste
 Cannot by any means relinquish it in this world or the next.
 
-<span id="p284"><sup><small>[p. 284]</small></sup></span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 The Guru prays for God’s protection :—
 
@@ -289,7 +289,7 @@ I have become glad, my sorrows have all fled.
 Nanak, all animals obtain happiness
 By meditating on the supreme God in their hearts.
 
-<span id="p285"><sup><small>[p. 285]</small></sup></span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 The Guru fears not the death of his body :—
 
@@ -314,7 +314,7 @@ When a mortal is in his mother’s womb he abideth under the support of the Name
 He is happy, he remembereth God at every breath, and the fire _of the womb_ affecteth him not ;
 So, O man, cease to covet others’ goods and others’ wives, and to slander others.
 Relying on the true Guru, worship in thy heart God’s lotus feet.
-The houses, mansions, and palaces which thou beholdest— of these none shall depart with thee.<span id="p286"><sup><small>[p. 286]</small></sup></span>
+The houses, mansions, and palaces which thou beholdest— of these none shall depart with thee.<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 As long as thou livest in this Kal age, Nanak, remember God’s name.
 
 Everything is false save devotion to God :—
@@ -340,7 +340,7 @@ The whole world is fast asleep in error and silly occupations ;
 Only some rare servant of God is awake.
 Man is absorbed in greatly fascinating mammon who is dearer to him than life:
 Few are they who forsake her.
-Some rare holy man is attached <span id="p287"><sup><small>[p. 287]</small></sup></span>
+Some rare holy man is attached <span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 To God’s incomparable lotus feet, and the instruction of His saints.
 Nanak, they who are very fortunate, and to whom God showeth favour,
 Are wakeful in the company of the saints, and become imbued with divine knowledge.
@@ -363,7 +363,7 @@ The following was addressed to a hypocritical Sanyasi :—
 He who washeth his body while he hath filth in his heart shall lose _his happiness_ in both worlds.
 Here he suffereth from lust, wrath, and worldly love ; hereafter he shall sob and weep.
 The way to worship God is different.
-The serpent is not killed by striking its lair on the outside, neither doth the deaf man hear the Name. <span id="p288"><sup><small>[p. 288]</small></sup></span>
+The serpent is not killed by striking its lair on the outside, neither doth the deaf man hear the Name. <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 _The hypocrite_ while abandoning his worldly occupations knoweth not of devotion ;
 He applieth himself to criticism of the Veds and the Shastars, but knoweth not the real means of union with God.
 As a bad coin[^20] is discovered when examined by a moneychanger,
@@ -378,7 +378,7 @@ The craving desire* for terrestrial and celestial enjoyments is extinguished and
 The cat [^21] of the household[^22] is now differently trained ; on seeing mice [^23] it feareth them.
 The Guru hath subjected the lion[^24] to the goat’; the dogs [^25] eat grass ; [^26]
 A hut[^27] hath been raised without pillars in which the homeless find a home.
-Without a setter jewels are set[^28] and a marvellous precious stone [^29] placed among them.<span id="p289"><sup><small>[p. 289]</small></sup></span>
+Without a setter jewels are set[^28] and a marvellous precious stone [^29] placed among them.<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 It is not by clamour the plaintiff succeedeth ; by silence he obtaineth justice.
 Man dead to God while enjoying wealth, and seated upon _costly_ carpets, _now knoweth_ that what appeareth to the eye quickly vanisheth.
 He who saith he knoweth, knoweth nothing ; but he who _really_ knoweth is well known.
@@ -401,7 +401,7 @@ The Guru acknowledges his obligations to God :—
 
 When I forget Thee, every one vexeth me; when I remember Thee, men do me service.
 I know none but Thee, Thou true, invisible, and inscrutable One.
-When I think of Thee, Thou art always merciful ; what is the wretched crowd then to me ? <span id="p290"><sup><small>[p. 290]</small></sup></span>
+When I think of Thee, Thou art always merciful ; what is the wretched crowd then to me ? <span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 Say whom shall I call bad or good? All men are Thy creatures.
 Thou art my prop; Thou art my support; Thou givest me Thy hand and protectest me.
 He to whom Thou showest mercy can suffer no ill.
@@ -420,7 +420,7 @@ A forest fire consumeth much grass ;[^30] some rare green shrub _like thee_ hath
 I cannot describe such an omnipotent being ; his praises cannot be expressed.
 In this chamber of lamp-black thou hast not been besmirched ;[^31] nay, thou hast assumed a spotless colour.
 The Sikh’s reply :— The great spell of the Guru hath taken its dwelling in
-my heart, and I have heard the wonderful Name.<span id="p291"><sup><small>[p. 291]</small></sup></span>
+my heart, and I have heard the wonderful Name.<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 God hath mercifully looked on me with favour, and attached me to His feet.
 Through love and service Nanak hath obtained happiness in the association of the saints.
 
@@ -452,7 +452,7 @@ My suspicions have fled; by the Guru I am united with my Beloved.
 My Beloved hath approached and placed me on the couch :
 I no longer heed what people say.
 In my temple[^33] is the light of the Word.
-My Spouse is joyful and happy.<span id="p292"><sup><small>[p. 292]</small></sup></span>
+My Spouse is joyful and happy.<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 Through the destiny recorded on my forehead my Beloved hath come home to me, And Nanak hath found lasting wedded bliss.
 
 The Guru, while associating with the world, ever thinks on God :—
@@ -483,7 +483,7 @@ _But he is saved_, O Nanak, by entering the sanctuary of the merciful God.
 
 The saints are likened to a garden, the Guru to a gardener :—
 
-There is a garden [^34] in which many trees are planted ; They bear the ambrosial Name as fruit. <span id="p293"><sup><small>[p. 293]</small></sup></span>
+There is a garden [^34] in which many trees are planted ; They bear the ambrosial Name as fruit. <span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 So contrive, O man of God,
 That thou mayest obtain the rank of nirvan.
 Around the garden, my brethren, are poisonous pools ; within it is nectar ;
@@ -514,7 +514,7 @@ Let God be ever present to man in all his avocations :—
 Whether standing, sitting, or sleeping, meditate on God.
 Taking thy walks sing God’s praises.
 With thine ears hear the ambrosial Word.
-By listening to it thy heart shall be glad, and all thine infirmities and troubles depart. <span id="p294"><sup><small>[p. 294]</small></sup></span>.
+By listening to it thy heart shall be glad, and all thine infirmities and troubles depart. <span id="p294"><sup><small>[ p. 294 ]</small></sup></span>.
 While working, travelling, or _wandering by the_ river’s shore repeat _God’s name_.
 By the Guru’s favour drink God’s nectar.
 He who day and night singeth God’s praises
@@ -548,7 +548,7 @@ Saith Nanak, the Guru hath dispelled my doubts and fears, And I behold the Bliss
 
 The Guru’s self-depreciation :—
 
-I know no tricks and devices of speech, But day and night I repeat Thy name.<span id="p295"><sup><small>[p. 295]</small></sup></span>
+I know no tricks and devices of speech, But day and night I repeat Thy name.<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 I possess no merits—not even one.
 O God, Thou doest, and causest _all things_ to be done.
 I a fool, blockhead, ignorant, and thoughtless,
@@ -581,7 +581,7 @@ One man dieth _and there is weeping for him_; in the house of another there is s
 One man weepeth, another laugheth.
 From youth to old age
 Man attaineth not his object; then he regretteth _lost opportunites_.
-The world is subject to the three qualities,<span id="p296"><sup><small>[p. 296]</small></sup></span>
+The world is subject to the three qualities,<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 And therefore man passeth through hell and heaven.
 Saith Nanak, that man’s birth is fruitful, and he is acceptable |
 Whom God hath applied to the repetition of His name.
@@ -606,7 +606,7 @@ With the soul thou didst meet every one.
 Everybody desired thee with the soul ;
 Without it no one wisheth to see thee.
 Where is that soul now ?
-Without it thou art in a sad plight ;<span id="p297"><sup><small>[p. 297]</small></sup></span>
+Without it thou art in a sad plight ;<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 With it thou wert master in thine own home.
 With it thou wert distinguished,
 With it thou wert fondled ;
@@ -643,7 +643,7 @@ We and God, having become united, have assumed the same colour.
 
 The advantages of loving the Lord :—
 
-By love for the Lord happiness is ever obtained, By love for the Lord we feel no misery,<span id="p298"><sup><small>[p. 298]</small></sup></span>
+By love for the Lord happiness is ever obtained, By love for the Lord we feel no misery,<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 By love for the Lord the filth of pride is washed away,
 By love for the Lord man is ever pure.
 Hear, my friend, bear love and affection to God,
@@ -682,7 +682,7 @@ Pleasures and enjoyments are like a dream.
 He is emancipated, he possesseth empire and wealth,
 O Nanak, to whom the Lord is merciful.
 
-<span id="p299"><sup><small>[p. 299]</small></sup></span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 The condition of the regenerate :—
 
@@ -742,7 +742,7 @@ O my mother, my troubles, pains, and infirmities shall all vanish.
 I am a Sacrifice to my Master.
 My soul and body are very happy repeating His name.
 I have heard a little regarding that true Lord.
-I have obtained happiness upon happiness, O my mother, which cannot be estimated.<span id="p301"><sup><small>[p. 301]</small></sup></span>
+I have obtained happiness upon happiness, O my mother, which cannot be estimated.<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 On beholding Him with mine eyes I was pleased, and began to long for Him.
 O mother, I am without excellences, yet God Himself hath attached me to His skirt.
 God is totally beyond the Veds and the books of the world ;
@@ -767,7 +767,7 @@ O man, forgetting all other things, think only of the one God ;
 Put aside false pride and offer Him thy soul and body ;
 Praise thou the Creator during the eight watches of the day.
 I live by Thy gifts, O God, show mercy unto me.
-O man, do that work by which thy countenance may be bright.[^42]<span id="p302"><sup><small>[p. 302]</small></sup></span>
+O man, do that work by which thy countenance may be bright.[^42]<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 O God, he on whom Thou bestowest truth becometh attached to it.
 O man, construct such a house as shall never fall.
 If thou put the one God in thy heart, thou shalt never die.
@@ -821,7 +821,7 @@ My soul, my life, and my wealth are admittedly the Lord’s.
 I am accounted the handmaiden of Him through whose Name I have become pure.
 O Thou, who art independent and full of joy, Thy name is a jewel and a diamond.
 
-<span id="p304"><sup><small>[p. 304]</small></sup></span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 She whose Lord Thou art, roameth satisfied and ever happy.
 Ye friends and companions of my association, implant in me right understanding,
 That I may serve the saints with love, and thus obtain God’s treasure.
@@ -848,7 +848,7 @@ When the Guru dispelled my doubts I obtained rest.
 The evil passions which tormented me have left me through the Guru :
 I have escaped from them, and they have escaped from me.
 Man is entangled from the moment he thinketh that _worldly things_ are private property.
-I have escaped from entanglements since the Guru dispelled my spiritual ignorance.<span id="p305"><sup><small>[p. 305]</small></sup></span>
+I have escaped from entanglements since the Guru dispelled my spiritual ignorance.<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 Man suffereth as long as he knoweth not the will of God.
 He is happy when, meeting the Guru, he recognizeth God’s will.
 I have no enemy to torment me, nor doth any one appear to me to be evil.[^46]
@@ -872,7 +872,7 @@ The Guru sings God’s praises on every occasion :—
 I sing God’s praises at home, I sing them abroad, I sing them awaking in the morning.
 I, who deal in God’s name, have obtained it as my viaticum _from the Guru_,
 And completely forgotten all things beside.
-The perfect Guru hath given me the gift of the Name ; it is my only support. <span id="p206"><sup><small>[p. 206]</small></sup></span>
+The perfect Guru hath given me the gift of the Name ; it is my only support. <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 In woe I sing _God’s praises_, in weal I sing them; on my way I remember them.
 The Guru hath firmly fixed the Name in my heart and slaked my thirst. |
 I sing _God’s praises by_ day, I sing them by night, I sing them with my tongue at every breath.
@@ -890,7 +890,7 @@ Clothes worn on the body fall to tatters after two or four days ;
 However much thou runnest upon a wall, thou shalt at last arrive at its end ;[^49]
 Salt at once melteth if put into a pitcher of water ;
 So when the order of the Supreme Being arriveth, the soul must depart in a trice.
-O man, thy walking, thy sitting, and thy breathing are all counted.<span id="p307"><sup><small>[p. 307]</small></sup></span>
+O man, thy walking, thy sitting, and thy breathing are all counted.<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 Ever sing God’s praises, Nanak, and thou shalt be saved under the shelter of the true Guru’s feet.
 
 The blessings obtained when God mercifully grants the true Guru :—
@@ -913,7 +913,7 @@ O sinner, thou makest not good bargains, but art attracted by worthless things.[
 O true Guru, my hope is in thee.
 O Supreme God, Thy name is Purifier of sinners ; I have come to Thy shelter.
 O man, thou listenest to foul language and art entangled in it, but in repeating the Name thou art indolent.
-Thou greatly delightest in slander, and art wrong-headed.<span id="p308"><sup><small>[p. 308]</small></sup></span>
+Thou greatly delightest in slander, and art wrong-headed.<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 Thou covetest thy neighbour’s wealth, son, and wife, and like a mad dog eatest what ought not to be eaten.
 Thou hast no love for the true faith ; on hearing the truth thou becomest angry.
 O compassionate to the poor, merciful Lord God, Thy name is the support of the saints.
@@ -937,7 +937,7 @@ And He who removeth the sorrows of the poor, shall become merciful, and the pain
 For the unworthy pleasures of a moment man forfeits his future happiness :—
 
 For the fleeting pleasure of lust, thou shalt suffer misery for endless time. 
-For the enjoyment of a ghari or two, thou shalt repent again and again.<span id="p309"><sup><small>[p. 309]</small></sup></span>
+For the enjoyment of a ghari or two, thou shalt repent again and again.<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 O blind one, remember the Lord God ;
 Thy time hath approached.
 Thou art misled on beholding even for a moment the beauty of the akk, the nim, and the colocynth.[^53]
@@ -988,7 +988,7 @@ He is the Aden of the poor and the Bestower of life ; He is potent to save those
 O my soul, meditate on God’s name.
 In this world and the next the one God who accompanieth thee is the Helper ; fix thy love on Him alone.
 Men ponder on the Veds and Shastars to secure deliverance;
-But superior to all religious ceremonies and observances is the utterance of the Name.<span id="p311"><sup><small>[p. 311]</small></sup></span>ar
+But superior to all religious ceremonies and observances is the utterance of the Name.<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>ar
 Lust, wrath, and pride depart on meeting the true divine Guru.
 They in whose hearts he fixeth God’s name and worship best perform His service.
 O Compassionate One, I seek the protection of Thy feet ; Thou art the honour of the unhonoured.
@@ -1016,7 +1016,7 @@ In worshipping the feet of the saints and taking their protection I find supreme
 All Nanak’s heart-burning was dispelled
 When he obtained the love of the Beloved.
 
-<span id="p312"><sup><small>[p. 312]</small></sup></span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 The Guru makes God manifest :—
 
@@ -1048,7 +1048,7 @@ He who meditateth on the Name shall obtain all the advantages thereof, and be ha
 He who practiseth pride, though he be called a king, shall be caught like a parrot, insnared in a trap.
 Saith Nanak, he who meeteth the Guru shall become immovable.[^56]
 
-<span id="p313"><sup><small>[p. 313]</small></sup></span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 The Guru describes the condition of the worldly :—
 
@@ -1076,7 +1076,7 @@ For a long time my soul hath been very thirsty :
 O God, grant me a sight of Thee, show Thyself unto me.
 Embrace poor Nanak who hath entered Thine asylum.
 
-<span id="p314"><sup><small>[p. 314]</small></sup></span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 The Guru in his humility and sense of dependence on God prays to Him :—
 
@@ -1146,7 +1146,7 @@ They were as a dream for those
 Who repeated God’s name.
 They who leave God and attach themselves to others Hasten to transmigration.
 It is only they who repeat God’s name
-Who shall continue to live.<span id="p316"><sup><small>[p. 316]</small></sup></span>
+Who shall continue to live.<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 He to whom God is merciful,
 O Nanak, becometh His worshipper.
 
@@ -1177,7 +1177,7 @@ He who serveth the perfect Guru shall abide in it.
 
 Worship God alone and you shall be happy :—
 
-Remember the supreme God, O my dear friend, and sacrifice thyself for a sight of Him.<span id="p317"><sup><small>[p. 317]</small></sup></span>
+Remember the supreme God, O my dear friend, and sacrifice thyself for a sight of Him.<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 O my dear friend, why abandon Him, whose memory causeth sorrow to be forgotten ?
 I would sell this body to the saint, O my dear friend, if he caused me to meet the Beloved.
 The pleasures and attractions of sin are insipid; I have abandoned them, O mother.

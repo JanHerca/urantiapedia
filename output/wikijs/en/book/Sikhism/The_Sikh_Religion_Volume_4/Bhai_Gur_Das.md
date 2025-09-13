@@ -42,7 +42,7 @@ Gur Das’s Wars are forty in number. Each war is divided into a varying number 
 
 The advantage of the society of the holy :—
 
-Trees which grow near sandal are perfumed like sandal. If any of the eight metals be touched by the philosopher’s stone, it becometh gold. As rivers, streams, and water <span id="p242"><sup><small>[p. 242]</small></sup></span> courses which fall into the Ganges become the Ganges, so doth the society of holy men save sinners and wash away the filth of sin. It saveth countless souls from hell, and associateth with itself hundreds of thousands of the lost. The holy see God in the midst of them.[^1]
+Trees which grow near sandal are perfumed like sandal. If any of the eight metals be touched by the philosopher’s stone, it becometh gold. As rivers, streams, and water <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> courses which fall into the Ganges become the Ganges, so doth the society of holy men save sinners and wash away the filth of sin. It saveth countless souls from hell, and associateth with itself hundreds of thousands of the lost. The holy see God in the midst of them.[^1]
 
 By associating with the holy the way of union with God is found in one’s own home. To cherish the Guru’s instruction is to obtain salvation.[^2]
 
@@ -55,7 +55,7 @@ The faith of the Sikhs is fixed, and by it man is absorbed in God.
 Hundreds of thousands of groups of Sikhs form one group and have no false pride, that is, they harbour not contempt for one another on account of pride of birth.[^4]
 The way of Sikhism is narrow ; it is sharper than the edge of a sword and finer thana hair. There is no creed equal to it in the past, present, or future. There is no second God ; there is only one God in this house.[^5]
 There is but one dot of difference between the holy and the unholy :—
-There is but one step from the holy to the unholy. For instance, the word _maharam_ (holy) by the addition of a point becometh _mujaram_ (criminal). Sikhs, otherwise sensible, in a state of aberration ruin their minds by assisting <span id="p243"><sup><small>[p. 243]</small></sup></span> in superstitious ceremonies.[^6] They who are subordinate to the Guru perform his service and keep their secrets to themselves.[^7]
+There is but one step from the holy to the unholy. For instance, the word _maharam_ (holy) by the addition of a point becometh _mujaram_ (criminal). Sikhs, otherwise sensible, in a state of aberration ruin their minds by assisting <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> in superstitious ceremonies.[^6] They who are subordinate to the Guru perform his service and keep their secrets to themselves.[^7]
 
 The unity of Sikhs :—
 
@@ -67,7 +67,7 @@ O Sikhs of the Guru, hear the Guru’s instruction. Be wise within but simple wi
 
 The Sikhs ponder on the words of the Ineffable, and abstain from praise and blame. Allowing the Guru’s instruction to enter their hearts, they speak civilly and thus comfort one another. ° The Sikhs’ virtues cannot be concealed. Aman may hide molasses, but ants will discover it. At the same time, the Sikhs have great endurance. Sugar-cane though sweet is pressed in a mill, and so must Sikhs suffer while conferring favours on others.[^11]
 
-Worthy of praise are the hands of the Sikh who in the company of the saints doeth the Guru’s work, who draweth water, fanneth, grindeth, washeth his feet, and drinketh the water therefrom; who copieth the Guru’s hymns and <span id="p244"><sup><small>[p. 244]</small></sup></span> playeth the cymbals, the mirdang,[^12] and the rebeck, in the company of the holy, who boweth and prostrateth himself and embraceth a brother Sikh; who liveth honestly, and who by his munificence conferreth favours on others ; who contented with touching the Guru as a philosopher’s stone, toucheth nothing else, and layeth not his hand on another’s wife or property ; who loveth another Sikh and embraceth the love, devotion, and fear of God; and who effaceth and asserteth not himself.[^13]
+Worthy of praise are the hands of the Sikh who in the company of the saints doeth the Guru’s work, who draweth water, fanneth, grindeth, washeth his feet, and drinketh the water therefrom; who copieth the Guru’s hymns and <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> playeth the cymbals, the mirdang,[^12] and the rebeck, in the company of the holy, who boweth and prostrateth himself and embraceth a brother Sikh; who liveth honestly, and who by his munificence conferreth favours on others ; who contented with touching the Guru as a philosopher’s stone, toucheth nothing else, and layeth not his hand on another’s wife or property ; who loveth another Sikh and embraceth the love, devotion, and fear of God; and who effaceth and asserteth not himself.[^13]
 
 Blest are the feet of the Sikhs who walk in the Guru’s way, who go to the Guru’s door, and sit there with holy men, who search out the Guru’s Sikhs and haste to do them favours, who run not in mammon’s way, and who if they happen to possess wealth remain humble. Few are the slaves of the Commander, who do Him homage and thus escape from their bonds ; who adopt the custom of circumambulating the Guru’s Sikhs and falling at their feet. The Guru’s Sikhs delight in such enjoyments.[^13]
 
@@ -81,7 +81,7 @@ The Sikh who receiveth the Guru’s instruction is really a Sikh. [^15]
 
 By the Guru’s instruction the four castes were blended in one society of saints. The Guru’s disciples assumed one red colour like that of the betel made from four ingredients— betel-leaf, betel-nut, catechu, and lime.[^15]
 
-The true Guru, the real king, putteth the holy on the high road to salvation. He restraineth the deadly sins, evil inclinations, and worldly love. The Sikhs pass their time in remembering the Word with devotion, and therefore Death the tax-gatherer approacheth them not. The Guru hath dispersed the apostates and seated the guild of the saints in Paradise. By the spell of the Name he hath <span id="p245"><sup><small>[p. 245]</small></sup></span> inculcated love, devotion, fear, charity, and ablutions. As the lotus remaineth dry in the water, so doth the Guru keep the holy man unaffected by the world. The Sikhs efface and assert not themselves.[^16]
+The true Guru, the real king, putteth the holy on the high road to salvation. He restraineth the deadly sins, evil inclinations, and worldly love. The Sikhs pass their time in remembering the Word with devotion, and therefore Death the tax-gatherer approacheth them not. The Guru hath dispersed the apostates and seated the guild of the saints in Paradise. By the spell of the Name he hath <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> inculcated love, devotion, fear, charity, and ablutions. As the lotus remaineth dry in the water, so doth the Guru keep the holy man unaffected by the world. The Sikhs efface and assert not themselves.[^16]
 
 The Guru’s instruction teacheth to praise Wahguru. The Veds know not and Sheshnag hath not discovered His secret.[^17]
 
@@ -93,7 +93,7 @@ The attributes of a disciple :—
 
 To become a disciple is, as it were, to become dead. It cannot be done by words. A disciple must be patient, faithful, possess a martyr’s spirit, and free himself from superstition and fear. He must be like a purchased slave fit to be yoked to any work which may serve his Guru. He must never be hungry, and never require sleep. He must be ready to grind and bring fresh water for his Guru. He must be ever prepared to fan and wash his Guru’s feet. He must be a sedate servant and never laugh or cry. Thus shall he obtain the position of a darwesh, be absorbed in the relish of the Beloved, arrive at the goal of emancipation, and receive those congratulations which the Muhammadans bestow on one another on seeing the moon of the Id festival.[^21]
 
-<span id="p246"><sup><small>[p. 246]</small></sup></span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 The pious man :— ~
 
@@ -110,13 +110,13 @@ There are hundreds of thousands of men high, intermediate, and low, but the holy
 
 The earth is the most humble of all, but in God’s court it obtaineth greatness for its patience. Some weed or plough it, and some pollute it. The holy obtain the fruit of peace in the house of contentment. They efface and assert themselves not. Whether waking, dreaming, or sleeping deeply, they with love in their hearts remain absorbed in God. They remember the Guru’s hymns in the association of the saints.[^26]
 
-The elephant is not eaten on account of its pride, and no one eateth the powerful lion. The goat is unhonoured, but obtaineth religious and secular distinction. It is eaten at deaths and marriages and accepted at feasts. Its flesh <span id="p247"><sup><small>[p. 247]</small></sup></span> is holy for worldly people, and strings for musical instruments are made from its entrails. Shoes which holy men wear are made from its skin. Trumpets and drums made from goat-skin afford pleasure by their music to the society of the saints.[^27]
+The elephant is not eaten on account of its pride, and no one eateth the powerful lion. The goat is unhonoured, but obtaineth religious and secular distinction. It is eaten at deaths and marriages and accepted at feasts. Its flesh <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> is holy for worldly people, and strings for musical instruments are made from its entrails. Shoes which holy men wear are made from its skin. Trumpets and drums made from goat-skin afford pleasure by their music to the society of the saints.[^27]
 
 To call oneself the lowest of the low is the Guru’s teaching, if any one act according to it. Sixty copper paise are equal to one silver rupee which is received with suspicion, _while the paise are not_. Ten rupees are equal to a gold coin which is recetved with more suspicion. For thousands of gold coins a diamond which is strung on a necklace is purchased, and that is received with still more suspicion. The Sikhs who fall at one another’s feet and become the dust of one another’s feet, are equal in thought, word, and deed to saints, and become freed from superstition and fear.[^28]
 
 There is sugar in a hornet’s nest, bees swarm together and produce honey. Silk and satin are obtained from worms. Canvas is made from beaten hemp. Muslin cometh from cotton seed. The lotus with which the bumble-bee is enchanted groweth in the mire. There is a jewel in the cobra’s head. The diamond is a stone. Musk is in the deer’s body. The sword fashioned from steel is called bhagauti (goddess). Odour from the civet cat perfumeth courts. From lowly things the greatest advantage is obtained.[^29]
 
-Call thyself the lowest of the low, become a worm and be not conceited. Walk in the Guru’s way, and let a thousand of you be contained in one worm-hole.[^30] Wherever there is the smell of clarified butter and sugar, thither throng the worms ; so do Sikhs to hear the Guru’s words. When sugar is spilled in sand, worms pick up the grains. Through fear of the bhringi[^31] the ant dieth, but the bhringi reanimateth <span id="p248"><sup><small>[p. 248]</small></sup></span> it, and maketh it a bhringi like itself.[^32] He who receiveth the Guru’s instruction feareth to do evil deeds. The Guru’s instruction maketh him humble and again exalteth him. Thus do the Guru’s Sikhs receive the reward of happiness.[^33]
+Call thyself the lowest of the low, become a worm and be not conceited. Walk in the Guru’s way, and let a thousand of you be contained in one worm-hole.[^30] Wherever there is the smell of clarified butter and sugar, thither throng the worms ; so do Sikhs to hear the Guru’s words. When sugar is spilled in sand, worms pick up the grains. Through fear of the bhringi[^31] the ant dieth, but the bhringi reanimateth <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> it, and maketh it a bhringi like itself.[^32] He who receiveth the Guru’s instruction feareth to do evil deeds. The Guru’s instruction maketh him humble and again exalteth him. Thus do the Guru’s Sikhs receive the reward of happiness.[^33]
 
 The Guru’s Sikhs who have dispelled their pride are continent and praiseworthy.[^34]
 
@@ -134,7 +134,7 @@ The people of the four castes observe the customs of their castes and tribes. Th
 
 Examples of hypocrisy and superstition :—
 
-<span id="p249"><sup><small>[p. 249]</small></sup></span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Into the practice of continence, austerities, hom, feasts, Hindu devotion, penance and gifts, hypocrisy largely entereth ; incantations and spells are plays on a large scale. The worship of the fifty-two heroes, of the eight joginis, of cemeteries and of places of cremation leads to great dissimulation. Men are employed in purak, kumbhak and rechak, in the performance of the niwali feat, and in the drawing up of their breath through the spinal marrow. Many employ themselves in sitting in the postures of the Sidhs, and obstinately abandon their homes. Hundreds of thousands of such tricks have I seen. The belief in the philosopher’s stone, the jewel in the serpent’s head, alchemy, miracles is all a matter of ignorance. Men are engaged in the worship of idols, gods, and goddesses, in fasting, uttering blessings and curses, but without the society of the saints and the repetition of the Guru’s hymns even very good men find not acceptance. The superstitious have bound themselves with a hundred knots of falsehood.[^38]
 
@@ -142,7 +142,7 @@ Paying attention to omens, the nine grihs, the twelve signs of the Zodiac, incan
 
 People worship departed heroes, ancestors, satis, deceased co-wives, tanks, and pits, but all this is of no avail. They who enjoy not the company of the saints and the Guru’s instruction, die and are born again and are rejected of God. It is the follower of the Guru who weareth God’s name as his diamond necklace.[^38]
 
-The Guru’s Sikhs lead a family life, but wearing a hair <span id="p250"><sup><small>[p. 250]</small></sup></span> tuft and a janeu, and putting the latter on the ear when performing offices of nature are all superstition. The Guru’s Sikhs recognize divine knowledge and the advantage of meditation on the Supreme Being who filleth all creation. When they associate with the holy, they are held in honour and accepted in God’s court.[^40]
+The Guru’s Sikhs lead a family life, but wearing a hair <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> tuft and a janeu, and putting the latter on the ear when performing offices of nature are all superstition. The Guru’s Sikhs recognize divine knowledge and the advantage of meditation on the Supreme Being who filleth all creation. When they associate with the holy, they are held in honour and accepted in God’s court.[^40]
 
 The holy man rejecteth the worship of fire with its seven colours, trampleth on the army of the Bhairavs and the manifestations of Shiv, and is not pleased with omens from the seven Rohinis,[^41] the seven days of the week, and seven women whose husbands are alive.[^42]
 
@@ -152,7 +152,7 @@ The Sikhs reject superstition, rejoicing, and mourning :—
 
 On the occasion of Hindu marriages lascivious songs are sung and trumpets played on the part of the bride and bridegroom, but not so among the Sikhs. People weep and utter lamentations for the dead, but the Sikhs on such occasions read the Sohila in the company of the saints. The Sikhs have no concern with the Veds or the books of the Moslems, and neither rejoice at a birth nor mourn at a death. In the midst of desires they remain free from them.[^45]
 
-<span id="p251"><sup><small>[p. 251]</small></sup></span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 The Sikhs heed not omens on the right or the left. They retrace not their steps on seeing a widow or a bare-headed man. They pay not attention to the voices of birds or to sneezing. They worship not or adore gods or goddesses. They allow not their bodies or minds to wander. The Guru’s Sikhs plant a true field and reap the harvest thereof.[^46]
 
@@ -166,7 +166,7 @@ A courtesan who hath many lovers committeth every species of sin. An outcast fro
 
 The condition of the courtesan :—
 
-An abandoned woman leaving her father’s and fatherin-law’s house becometh shameless, and washeth not away her evil reputation. Leaving her husband she enjoyeth her lover. How can she be happy when her heart is drawn in different directions ? She heedeth not advice, and is despised at assemblies of mourning and rejoicing. She weepeth when reproached and put to shame at every house. She is arrested for her sins, and punished by order of the court. She is neither dead nor alive, she suffereth misery ; she dwelleth not in her own house but searcheth for another <span id="p252"><sup><small>[p. 252]</small></sup></span> to ruin it. In her dubious circumstances she weaveth for herself a garland of vice.[^48]
+An abandoned woman leaving her father’s and fatherin-law’s house becometh shameless, and washeth not away her evil reputation. Leaving her husband she enjoyeth her lover. How can she be happy when her heart is drawn in different directions ? She heedeth not advice, and is despised at assemblies of mourning and rejoicing. She weepeth when reproached and put to shame at every house. She is arrested for her sins, and punished by order of the court. She is neither dead nor alive, she suffereth misery ; she dwelleth not in her own house but searcheth for another <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> to ruin it. In her dubious circumstances she weaveth for herself a garland of vice.[^48]
 
 The man who adheres not to one religion is compared to a courtesan who has many lovers :—
 
@@ -180,7 +180,7 @@ A guest remaineth hungry among several houses. When a thing held in partnership 
 
 The religious and secular observances of the Sikhs :—
 
-The Sikhs rising at the ambrosial hour of morning ? bathe. Collecting their thoughts and gently meditating on <span id="p253"><sup><small>[p. 253]</small></sup></span> the unfathomable One, they repeat the Guru’s Japji. They then go into the company of saints, and sit with them. They become absorbed in remembering and loving the Word, and sing and hear the Guru’s hymns. They pass their time in the love and service and fear of God. They serve the Guru and observe his anniversaries. They sing the Sodar in company and heartily associate with one another. Having read the Sohila and made supplication at night, they distribute sacred food. Thus do the holy Sikhs gladly taste the fruit of happiness.[^51]
+The Sikhs rising at the ambrosial hour of morning ? bathe. Collecting their thoughts and gently meditating on <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> the unfathomable One, they repeat the Guru’s Japji. They then go into the company of saints, and sit with them. They become absorbed in remembering and loving the Word, and sing and hear the Guru’s hymns. They pass their time in the love and service and fear of God. They serve the Guru and observe his anniversaries. They sing the Sodar in company and heartily associate with one another. Having read the Sohila and made supplication at night, they distribute sacred food. Thus do the holy Sikhs gladly taste the fruit of happiness.[^51]
 
 The Sikhs eat little food and drink little water. They speak little and boast not. They sleep little and only in the night, nor are they entangled in worldly love. When they enter a beautiful house they covet it not.[^52]
 
@@ -190,7 +190,7 @@ A man who hath one wife is continent and calleth another’s wife his daughter o
 
 The ordinary secular acts of a true Sikh are equal to all the religious ceremonies performed by members of other religious denominations :—
 
-The polite language of a Sikh is equal to a Hindu’s devotion. A Sikh beholdeth God everywhere with his eyes, and that is equal to a Jogi’s meditation. When a Sikh listeneth attentively to, or himself singeth, the word of God, that is equal to the five ecstatic sounds in the brain of a Jogi. When a Sikh doeth anything with his hands, that is equal to the obeisance and prostration of Hindus. When he walketh to behold the Guru, that is equal to an extremely holy circumambulation. When he eateth and clotheth himself, that is equal to the performance of Hindu sacrifice and offering. When he sleepeth, that is equal to a Jogi’s suspended animation. A Sikh withdraweth not his thoughts from where he hath fixed them. When a Sikh leadeth a family life, that is equal to salvation while alive. A Sikh <span id="p254"><sup><small>[p. 254]</small></sup></span> hath no fear of the waves of the world’s ocean, and avarice entereth not his heart. He hath passed beyond the —— of blessings and curses and uttereth them not.[^53]
+The polite language of a Sikh is equal to a Hindu’s devotion. A Sikh beholdeth God everywhere with his eyes, and that is equal to a Jogi’s meditation. When a Sikh listeneth attentively to, or himself singeth, the word of God, that is equal to the five ecstatic sounds in the brain of a Jogi. When a Sikh doeth anything with his hands, that is equal to the obeisance and prostration of Hindus. When he walketh to behold the Guru, that is equal to an extremely holy circumambulation. When he eateth and clotheth himself, that is equal to the performance of Hindu sacrifice and offering. When he sleepeth, that is equal to a Jogi’s suspended animation. A Sikh withdraweth not his thoughts from where he hath fixed them. When a Sikh leadeth a family life, that is equal to salvation while alive. A Sikh <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> hath no fear of the waves of the world’s ocean, and avarice entereth not his heart. He hath passed beyond the —— of blessings and curses and uttereth them not.[^53]
 
 Who are acceptable ?—
 
@@ -206,7 +206,7 @@ Millions of Brahmas[^56] have received the Veds without understanding a letter o
 Millions of Shivs who sit in religious attitude recognize neither the form, nor the outline, nor the garb of the Creator. .
 Millions of incarnations of Shiv in human form have not obtained even the slightest knowledge of God.
 Millions of serpents which repeat ever new names of God daily,[^57] have not arrived at a knowledge of Him.
-They who have lived long and enjoyed all the pleasures of life, the followers of the six schools of philosophy, and of <span id="p255"><sup><small>[p. 255]</small></sup></span> the sects of Hinduism, have not recognized the true Name. Having received gifts they all forget the Giver.[^58]
+They who have lived long and enjoyed all the pleasures of life, the followers of the six schools of philosophy, and of <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> the sects of Hinduism, have not recognized the true Name. Having received gifts they all forget the Giver.[^58]
 
 The Hindu god Brahma cannot be accepted as a moral guide :-—
 
@@ -262,7 +262,7 @@ The advantages of conferring favours on Sikhs :—
 
 To feed a Sikh with parched gram is superior to hundreds of thousands of homs and feasts, and to cause his feet to be washed is superior to assemblages at places of pilgrimage on the occasion of the ten Hindu festivals. To repeat to a Sikh the Guru’s hymns is equal to hundreds of thousands of Hindu devotional exercises. No doubt or regret remaineth when man hath even a glimpse of the Guru. Such a man is unscathed in the terrible ocean, and feareth not its waves. He who embraceth the Guru’s religion hath passed beyond the bounds of joy or grief for gain or loss.[^68]
 
-<span id="p257"><sup><small>[p. 257]</small></sup></span> The Apostate :—
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span> The Apostate :—
 
 The apostate who hath renounced the true Guru becometh the slave of a slave. Without the perfect Guru he wandereth in many a birth.[^69]
 
@@ -292,7 +292,7 @@ Beasts and creatures without instinct are superior to the perverse. Man from bei
 
 The perverse prefer the poison of sin to the nectar of virtue, impure blood to pure milk :—
 
-Vegetables in the forest bear fruit of many savours and perfumes. The mango, the peach, the apple, the pomegranate, the jaman,[^74] the khirni,[^75] the mulberry, the date, the pilun, the wild caper, the ber, the walnut—with these the cicala who eateth the akk is by no means pleased. It forsaketh ambrosial fruit and attacheth itself to poison, If a leech be applied to a female breast, it will not drink <span id="p259"><sup><small>[p. 259]</small></sup></span> milk but only impure blood, so the perverse man, even if he hear the Guru’s hymns in the company of the saints, uttereth folly in his conceit. His love is deception and he obtaineth not a position in God’s court.[^76]
+Vegetables in the forest bear fruit of many savours and perfumes. The mango, the peach, the apple, the pomegranate, the jaman,[^74] the khirni,[^75] the mulberry, the date, the pilun, the wild caper, the ber, the walnut—with these the cicala who eateth the akk is by no means pleased. It forsaketh ambrosial fruit and attacheth itself to poison, If a leech be applied to a female breast, it will not drink <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> milk but only impure blood, so the perverse man, even if he hear the Guru’s hymns in the company of the saints, uttereth folly in his conceit. His love is deception and he obtaineth not a position in God’s court.[^76]
 
 Truth :—
 
@@ -322,7 +322,7 @@ As ghi is never impure, so the saints have no caste.[^84]
 
 Follow the example of a tree and return good for evil :—
 
-It is the specialty of a tree that it returneth good for evil. He who loppeth its branches sitteth in its shade, and it returneth him good for evil. It giveth fruit when clods <span id="p261"><sup><small>[p. 261]</small></sup></span> are thrown at it. When carved into a boat, it saveth him who carved it. The perverse who have not the endurance and generosity of trees, obtain not fruit, while for the worshipper countless fruit is produced. Few are the holy men who, like trees, serve God’s servants. O God, the world is his slave, who hath the qualities of a tree.[^85]
+It is the specialty of a tree that it returneth good for evil. He who loppeth its branches sitteth in its shade, and it returneth him good for evil. It giveth fruit when clods <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> are thrown at it. When carved into a boat, it saveth him who carved it. The perverse who have not the endurance and generosity of trees, obtain not fruit, while for the worshipper countless fruit is produced. Few are the holy men who, like trees, serve God’s servants. O God, the world is his slave, who hath the qualities of a tree.[^85]
 
 The custom of the world is to return good for good, but the custom of the Guru is to return good for evil.[^86]
 
@@ -336,7 +336,7 @@ If any one, having an overweening conceit of himself, rebel against a king, the 
 
 The love of the disciple for his Guru should be superior to everything that has been said or sung of lovers in all ages and countries :—
 
-The lovers Laili and Majnun are known in the four quarters of the world. The excellent epic of Sorath and Bija is sung in every direction. The love of Sassi and Punnu, though they were of different castes, is everywhere spoken of. The fame of Sohni who used nightly to swim the Chinab to go to Mahinwal is well known. Ranjha and <span id="p262"><sup><small>[p. 262]</small></sup></span> Hir are renowned for the love they bore each other. But superior to all is the love the disciples bear their Guru. They sing it at the ambrosial hour of morning.[^87]
+The lovers Laili and Majnun are known in the four quarters of the world. The excellent epic of Sorath and Bija is sung in every direction. The love of Sassi and Punnu, though they were of different castes, is everywhere spoken of. The fame of Sohni who used nightly to swim the Chinab to go to Mahinwal is well known. Ranjha and <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> Hir are renowned for the love they bore each other. But superior to all is the love the disciples bear their Guru. They sing it at the ambrosial hour of morning.[^87]
 
 Gur Das by familiar examples continues to describe the mutual love of the disciple and his Guru :—
 
@@ -348,7 +348,7 @@ A thief abandoneth not thieving through fear of punish-| ment. The highwayman lo
 
 The love of the Sikh for his Guru is superior to that for all his relations :—
 
-There are three degrees of relationship—first those of father, mother, sister, brother, and their offspring and alliances; second, mother’s father, mother’s mother, mother’s sisters, mother’s brothers; third, father-in-law, <span id="p263"><sup><small>[p. 263]</small></sup></span> mother-in-law, brother-in-law, and sister-in-law, for whom gold, silver, diamonds, and corals are amassed ; but dearer than all is the love of the Guru’s Sikhs for the Guru. This is the relationship which conferreth happiness.[^88]
+There are three degrees of relationship—first those of father, mother, sister, brother, and their offspring and alliances; second, mother’s father, mother’s mother, mother’s sisters, mother’s brothers; third, father-in-law, <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> mother-in-law, brother-in-law, and sister-in-law, for whom gold, silver, diamonds, and corals are amassed ; but dearer than all is the love of the Guru’s Sikhs for the Guru. This is the relationship which conferreth happiness.[^88]
 
 The eyes are not satisfied with beholding sights and exhibitions ; the ears are not satisfied with hearing praise or blame, mourning or rejoicing ; the tongue is not satisfied with eating what affordeth pleasure and delight ; the nose is not satisfied with good or evil odour; nobody is satisfied with his span of life, and every one entertaineth false hopes ; but his disciples are satisfied with the Guru ; theirs is the true love.[^88]
 
@@ -382,7 +382,7 @@ God is the True Guru :—
 
 The supreme God, the perfect God, the primal Being is the True Guru.[^91]
 
-<span id="p265"><sup><small>[p. 265]</small></sup></span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Loyalty :—
 
@@ -400,7 +400,7 @@ Enmity remaineth not in the mind of the good man, nor friendship in the mind of 
 
 The difference between the holy and the unholy :-—
 
-Why should the branches of the bead-tree be compared with sweets? No one calleth the akk berries mangoes. Gilt jewels are not equal to gold. Crystal is not equal to <span id="p266"><sup><small>[p. 266]</small></sup></span> diamonds. Buttermilk and milk are both white, but of different quality and taste—so the holy and unholy are distinguished by their attributes.[^95]
+Why should the branches of the bead-tree be compared with sweets? No one calleth the akk berries mangoes. Gilt jewels are not equal to gold. Crystal is not equal to <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> diamonds. Buttermilk and milk are both white, but of different quality and taste—so the holy and unholy are distinguished by their attributes.[^95]
 
 The difference between associating with a wise man and a fool :—
 
@@ -414,7 +414,7 @@ A female camel once swallowed a melon which stuck in her throat. A surgeon was c
 
 Gur Das tells the story as follows :—
 
-A surgeon cured a female camel. He put one stone beneath the camel’s neck and struck the upper part of the <span id="p267"><sup><small>[p. 267]</small></sup></span> camel’s neck with another, and thus broke the melon. His servant thought he had mastered the surgical art. He killed an old woman and there was general female lamentation. The people seized the pretended surgeon, and gave him a sound beating, upon which his senses returned to him. When he was questioned, he confessed the whole circumstance, and his imposture was then exposed. Sensible men took and expelled him, for a glass bracelet cannot rank with jewels. A fool has no sense. A bamboo could never equal sugar-cane. A fool hath only the body of a man; he was created a brute.[^98]
+A surgeon cured a female camel. He put one stone beneath the camel’s neck and struck the upper part of the <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> camel’s neck with another, and thus broke the melon. His servant thought he had mastered the surgical art. He killed an old woman and there was general female lamentation. The people seized the pretended surgeon, and gave him a sound beating, upon which his senses returned to him. When he was questioned, he confessed the whole circumstance, and his imposture was then exposed. Sensible men took and expelled him, for a glass bracelet cannot rank with jewels. A fool has no sense. A bamboo could never equal sugar-cane. A fool hath only the body of a man; he was created a brute.[^98]
 
 Associate not with the deceitful and the perverse:—
 
@@ -424,7 +424,7 @@ Gur Das describes an uproar raised by the folly of fools :—
 
 A man after bathing at a well forgot his turban and went home bare-headed. The women of his house were silly, and on seeing the unusual circumstance began to beat their heads as if a relation had died, for an Indian appearing bare-headed is a sign of mourning. He on seeing the women weeping began to cry aloud incontinently. Men and women hearing this assembled to mourn. A barber’s wife asked in whose name she should mourn. The man’s daughterin-law said, ‘Go and ask my father-in-law the name of the man who is dead.’ There is an uproar raised in the company of fools like the cawing of rooks.[^98]
 
-The Hindus and Moslems may hate one another, <span id="p268"><sup><small>[p. 268]</small></sup></span> though they have both sprung from a common stock :—
+The Hindus and Moslems may hate one another, <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> though they have both sprung from a common stock :—
 
 From the union of one couple two brothers were born, and these two brothers struck out two ways. The Hindus and the Muhammadans are both made out of the five elements, but two names are given to the same substance.[^100]
 
@@ -438,7 +438,7 @@ A jackal fell into a dyer’s vat and was dyed. He went into the forest and pret
 
 Pretended gurus are like children at play :—
 
-On moonlight nights children play together.[^104] They personate kings and subjects. Some take armies on expeditions, and some run away. They pay land revenue in potsherds. Being very fickle they leave off the play in <span id="p269"><sup><small>[p. 269]</small></sup></span> an instant and run home. So they who, though possessing no merits, call themselves gurus, are counterfeit and evil.[^105]
+On moonlight nights children play together.[^104] They personate kings and subjects. Some take armies on expeditions, and some run away. They pay land revenue in potsherds. Being very fickle they leave off the play in <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> an instant and run home. So they who, though possessing no merits, call themselves gurus, are counterfeit and evil.[^105]
 
 It is impossible to dispense with the Guru :—
 
@@ -452,7 +452,7 @@ Gur Das indulges in self-abasement :—
 
 The owl is not pleased on beholding the sun or the chakwi the moon. The simmal-tree yieldeth no fruit, the bamboo groweth near the sandal but is not perfumed thereby. Ifyou give milk to a serpent to drink, it parteth not with its poison, nor showeth it any gratitude. The bitterness of the colocynth departeth not, the tick clingeth to the cow’s udder, but drinketh blood instead of milk. All these demerits reside in me. If any one do me a favour, I return it with an injury. Garlic hath never the perfume of musk.[^108]
 
-I am wicked and sinful; I am an apostate and evil, <span id="p270"><sup><small>[p. 270]</small></sup></span> I ama thief, adulterer, and gambler ; I covet my neighbour’s house, I am a slanderer, unrighteous, dishonest, deceitful ; I deceive the country. I indulge in lust, wrath, pride, greed, and worldly love. I kill those who trust me; I am ungrateful and unfaithful ; who will defend me? The true Guru remembereth and pardoneth his disciples and singers.[^109]
+I am wicked and sinful; I am an apostate and evil, <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> I ama thief, adulterer, and gambler ; I covet my neighbour’s house, I am a slanderer, unrighteous, dishonest, deceitful ; I deceive the country. I indulge in lust, wrath, pride, greed, and worldly love. I kill those who trust me; I am ungrateful and unfaithful ; who will defend me? The true Guru remembereth and pardoneth his disciples and singers.[^109]
 
 There is nct, there was not, and there never will be such an ungrateful person as I. There is none so dishonest or so devoid of merit as J. There is no such slanderer as I who have taken on my head the heavy sin of slandering the Guru. There is none so great an apostate as I who have committed the heinous sin of apostasy from the Guru. There is none so evil as I who have committed the sin of bearing enmity to him who is without it. There is no such treacherous friend as I who sit in a devotional attitude like a crane looking out for fish to devour. The great sin which I have committed in eating with those who do not obey the Guru’s words departeth not. There is no such backslider as I who have renounced the Guru’s religion and attached myself to a false one. I am called a disciple, but I meditate not on the Word.[^110]
 
@@ -462,7 +462,7 @@ A child is conceived by the union of father and mother, and while in the womb th
 
 Filial ingratitude reprobated :—
 
-His parents are happy while performing the boy’s betrothal. <span id="p271"><sup><small>[p. 271]</small></sup></span> His mother cannot contain herself with joy, and she singeth festal strains. When the boy is married, she is delighted and singeth marriage songs. She voweth many offerings when her son bringeth his wife home. In return for all this the daughter-in-law ever giveth her husband bad advice, and slandereth her mother-in-law with the object of living separate from her. The son then becometh bad, forgetteth the countless favours conferred on him by his mother, and obligeth her to grind corn for the house. Few sons are dutiful as Sarwan.[^111]
+His parents are happy while performing the boy’s betrothal. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> His mother cannot contain herself with joy, and she singeth festal strains. When the boy is married, she is delighted and singeth marriage songs. She voweth many offerings when her son bringeth his wife home. In return for all this the daughter-in-law ever giveth her husband bad advice, and slandereth her mother-in-law with the object of living separate from her. The son then becometh bad, forgetteth the countless favours conferred on him by his mother, and obligeth her to grind corn for the house. Few sons are dutiful as Sarwan.[^111]
 
 Hilal ingratitude is the result of marriage :—
 
@@ -474,7 +474,7 @@ He who forsaketh his parents to listen to the Veds, shall never know their secre
 
 The Sikhs claim superiority to all races :-—
 
-The Sunni, the Shiah, and the Rafazi sects find favour with many, but they are all pagans and hypocrites and lost in superstition. The Christians and the Jews wander distraught in their pride. The Europeans, the Armenians, and the Turks are filled with vainglory. Faqirs dressed <span id="p272"><sup><small>[p. 272]</small></sup></span> in black, qalandars, darweshes, and twice as many more are not equal to one hair of a Sikh who hath dedicated himself to the Guru.[^113]
+The Sunni, the Shiah, and the Rafazi sects find favour with many, but they are all pagans and hypocrites and lost in superstition. The Christians and the Jews wander distraught in their pride. The Europeans, the Armenians, and the Turks are filled with vainglory. Faqirs dressed <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> in black, qalandars, darweshes, and twice as many more are not equal to one hair of a Sikh who hath dedicated himself to the Guru.[^113]
 
 Truth is hidden both from the Hindus and the Muhammadans ; both sects have gone astray :—
 
@@ -484,7 +484,7 @@ The Hindus read the Veds; the Sufis and the Muhammadans the books of Islam. The 
 
 When Hindus and Moslems lay aside superstition, they form one body of Sikhs who quaff the cup of God’s love and obtain final deliverance :—
 
-They who are intoxicated with the cup of love in the Guru’s private court, behold the Unseen One. The Sikhs spurn as well the hundred and eight-beaded rosary of the Hindus as the hundred-beaded rosary of the Muhammadans. The Sikhs, treating both rosaries alike, repeat not the name Ram or Rahim at every bead. The two sects united form one body of Sikhs, and are not then separately mentioned, so when one speaketh of the game of chaupar the pieces are <span id="p273"><sup><small>[p. 273]</small></sup></span> not spoken of. The Sikhs rejecting Shiv and his energy Durga arrive at their own home by means of the cup of God’s love. Unaffected by the three qualities, they attain the fourth degree of salvation. Baba Nanak proclaimed the true Word, and, by causing the true Sikhs to fix their attention on it, blended them with the True One who is the true King to whom truth is pleasing.[^116]
+They who are intoxicated with the cup of love in the Guru’s private court, behold the Unseen One. The Sikhs spurn as well the hundred and eight-beaded rosary of the Hindus as the hundred-beaded rosary of the Muhammadans. The Sikhs, treating both rosaries alike, repeat not the name Ram or Rahim at every bead. The two sects united form one body of Sikhs, and are not then separately mentioned, so when one speaketh of the game of chaupar the pieces are <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> not spoken of. The Sikhs rejecting Shiv and his energy Durga arrive at their own home by means of the cup of God’s love. Unaffected by the three qualities, they attain the fourth degree of salvation. Baba Nanak proclaimed the true Word, and, by causing the true Sikhs to fix their attention on it, blended them with the True One who is the true King to whom truth is pleasing.[^116]
 
 Extracts from Gur Das’s _Kabit_ against idolatry :—
 
@@ -499,7 +499,7 @@ When there are two kings, the subject cannot be happy ; when a woman has two hus
 When a Sikh of the Guru accepteth the support of other gods, accursed is his life in this world, and hereafter punishment from Death shall await him.
 
 According to the rules of society, the sacred books, and the teaching of divines, it is proper for a chaste woman to serve her lord in thought, word, and deed.
-To the chaste woman repetition of idols’ names, ablutions, alms, austerities, penance, pilgrimage, fasting, worship, and daily ceremonies are of no avail. <span id="p274"><sup><small>[p. 274]</small></sup></span>
+To the chaste woman repetition of idols’ names, ablutions, alms, austerities, penance, pilgrimage, fasting, worship, and daily ceremonies are of no avail. <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 Burnt-offerings, feasts, food offered to idols, the worship of gods and goddesses, the singing of hymns and visiting strange temples are all vanity of vanities.
 So among the Guru’s Sikhs One Prop is the best ; meditation, contemplation and remembrance of other gods is harlotry.
 

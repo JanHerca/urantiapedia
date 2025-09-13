@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:8:41Z
   </table>
 </figure>
 
-<span id="p80"><sup><small>[p. 80]</small></sup></span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## CHAPTER X
 
@@ -50,7 +50,7 @@ At the end of this translation is found the couplet :—
 
 The saints who continually meditate on thee, O Chandi, Shall at last obtain salvation and find God as their reward.
 
-<span id="p81"><sup><small>[p. 81]</small></sup></span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 This is not in the original Sanskrit, but the general sense may be inferred by a believer in Chandi from her own self-glorification in the ninety-second canto.
 The first Chandi Charitar begins as follows: _Ek oamkar, Sri Wahguru ji ki fatah. Ath Chandi Charitar ukt bilas_—Now the tale (bilas) of the deeds of Chandi will be told (ukt). The second Chandi Charitar begins in the same way but without the words ukt bilas. The Bhagauti ki War begins as follows: _Ek oamkar Sri Wahguru ji ki fatah ! Sri Bhagauti ji sahai! War Sri Bhagauti ji ki Patshahi das_—There is one God. Victory to the holy Wahguru! We implore the favour of the holy Bhagauti (Sword)! The paean of the holy Bhagauti of the tenth Guru. It thus appears that the Bhagauti ki War was written by the tenth Guru himself.
@@ -61,7 +61,7 @@ In further proof that Bhagauti does not mean Durga in the Sikh scriptures the fo
 
 The following are the first two pauris of the “ War Sri Bhagauti ji ki.’
 
-<span id="p82"><sup><small>[p. 82]</small></sup></span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Having first remembered the Sword, meditate on Guru Nanak,
 Then on Guru Angad, Amar Das, and Ram Das; may they assist me !
@@ -85,7 +85,7 @@ The last line of the Bhagauti ki War is :—
 He who sang this was not born again, that is, he obtained deliverance.
 
 This line gives the meaning of the twenty-second slok of the ninety-second canto of the ‘ Markandeya Puran ’.
-The train of thought by which the Guru made <span id="p83"><sup><small>[p. 83]</small></sup></span> God and the sword one was as follows: In the ‘Shastar Nam Mala’ is read :—
+The train of thought by which the Guru made <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> God and the sword one was as follows: In the ‘Shastar Nam Mala’ is read :—
 
 I first mention the word shatru (an enemy) and then the word daman (subduer).
 Know that the words compounded mean the Lord of the world : be assured of this.
@@ -96,7 +96,7 @@ At that time it was the custom to recite on the eve of battle the praises and wa
 
 Secondly, the Guru himself specially translated the praises of Chandi so that they might be chanted for warlike purposes, and that even cowards on hearing her story might obtain courage and the hearts of the brave beat with fourfold enthusiasm. Such being the achievements of a woman, what ought not a brave man to accomplish ? The Guru maintained that if a man became a coward and turned away from the battle-field, he would not only become ashamed of himself, but also forfeit his advantages here and hereafter.
 
-<span id="p84"><sup><small>[p. 84]</small></sup></span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 In the third place, the Guru desired that his Sikhs, on becoming acquainted with the Hindu sacred writings, might be able to form their own estimate of them and their inferiority to the compositions of the Gurus. Among the fifty-two bards employed by the Guru there must have been several who had suffered for their religion under the persecutions of Aurangzeb; and for their opinions the Guru cannot be held responsible.[^4]
 

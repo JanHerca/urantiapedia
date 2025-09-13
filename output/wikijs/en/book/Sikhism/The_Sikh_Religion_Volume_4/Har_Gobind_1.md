@@ -45,13 +45,13 @@ Am now enforced—a far unfitter task—
 For trumpets stern to change mine oaten reeds.
 &nbsp;&nbsp;&nbsp;SPENSER.
 
-THE early life of Guru Har Gobind has already been given in the life of his father Guru Arjan. On <span id="p2"><sup><small>[p. 2]</small></sup></span> ascertaining his father’s death, he caused the Granth Sahib to be read, and employed Bhai Budha for the purpose. The musicians of the temple sang the Gurus’ hymns to the accompaniment of their instruments. The singing and the reading of the Granth Sahib lasted for ten days.
+THE early life of Guru Har Gobind has already been given in the life of his father Guru Arjan. On <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> ascertaining his father’s death, he caused the Granth Sahib to be read, and employed Bhai Budha for the purpose. The musicians of the temple sang the Gurus’ hymns to the accompaniment of their instruments. The singing and the reading of the Granth Sahib lasted for ten days.
 
 When the final rites were ended, Bhai Budha clothed Guru Har Gobind in new raiment, and placed before him a seli—a woollen cord worn as a necklace or twisted round the head by the former Gurus—and a turban, as appurtenances of his calling. Guru Har Gobind ordered that the seli should be placed in the treasury, apparently because 1t was not suited to the altered political condition of the Sikhs. He then: addressed Bhai Budha, ‘My endeavours shall be to fulfil thy prophecy. My seli shall be a swordbelt, and I shall wear my turban with a royal aigrette.’ He then sent for his arms, and arrayed himself in martial style so that, as the Sikh chronicler states, his splendour shone like the sun.
 
 Guru Har Gobind then, according to the custom usual on such occasions, summoned all his Sikhs, and invited the principal inhabitants of Amritsar toa banquet. He caused a large quantity of sacred food to be made and brought into the temple for the entertainment of his guests. While Bhai Budha read the Granth Sahib in the middle of a well-ordered assembly, Gur Das stood and waved a gorgeous chauri over the sacred volume. When the reading was ended, all the assembly reverently bowed their heads. The singers again began to sing the Gurus’ hymns. The Sadd was intoned and a solemn prayer offered. The Guru reaffirmed instructions for the euidance of future generations of Sikhs in the performance of obsequies :—
 
-‘When a Sikh dieth, let not the obsequies of Hindus be performed for him. Let sacred food be prepared and distributed, let the Granth Sahib be intoned and a solemn prayer offered, as I caused to be done on <span id="p3"><sup><small>[p. 3]</small></sup></span> hearing of my father’s death. That is the way to prepare for the deceased a passage to Sach Khand.’
+‘When a Sikh dieth, let not the obsequies of Hindus be performed for him. Let sacred food be prepared and distributed, let the Granth Sahib be intoned and a solemn prayer offered, as I caused to be done on <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> hearing of my father’s death. That is the way to prepare for the deceased a passage to Sach Khand.’
 
 Only one body of men among his followers were dissatisfied at his accession. The masands, who used to collect offerings and tithes from the Sikhs, had become very corrupt and dishonest, and they now trembled for their misdeeds. They represented ta the Giru’s mother, “It is the reign of the Mughals. We have nobody of mature age to guide and protect us. The Guru is yet a boy. Chandu is still an enemy. The Guru girdeth on his arms, but for faqirs to lord it over men is a course that involveth peril. The preceding five Gurus never handled arms. If Jahangir hear of our Guru’s doings he will be angry ; and where shall we hide ourselves ?’ The Guru’s mother replied, ‘ Have no anxiety. Guru Nanak’s hand is on my son’s head. The Guru ever liveth. Bhai Budha’s words, that Har Gobind shall be a temporal as well as spiritual ruler and shall wield two swords, are about to be fulfilled.’ Notwithstanding, however, the courageous face she showed the masands, she remonstrated with the young Guru. ‘My son, we have no treasure, no state revenue, no landed property, no army. If thou walk in the way of thy father and grandfather, thou shalt be happy.’ The Guru replied in the words of Guru Arjan :—
 
@@ -60,7 +60,7 @@ Is my guardian.[^3]
 
 ‘Have no anxiety whatever for me, everything shall be according to the will of God.’
 
-The Guru then issued an encyclical letter to the masands to the effect that he would be pleased with those who brought offerings of arms and _ horses instead of money. On Monday, the fifth day of the light half of Har, Sambat 1663, he laid the foundation of the Takht Akal Bunga. When it was built <span id="p4"><sup><small>[p. 4]</small></sup></span> of solid masonry, he took his seat on it. It is the corridor of the golden temple whereon the Akalis now sit and the arms of the Gurus are preserved.
+The Guru then issued an encyclical letter to the masands to the effect that he would be pleased with those who brought offerings of arms and _ horses instead of money. On Monday, the fifth day of the light half of Har, Sambat 1663, he laid the foundation of the Takht Akal Bunga. When it was built <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> of solid masonry, he took his seat on it. It is the corridor of the golden temple whereon the Akalis now sit and the arms of the Gurus are preserved.
 
 Bhai Budha, too, on seeing the young Guru in military harness mildly remonstrated with him. The Guru replied, ‘It is through thine intercession I obtained birth; and it is in fulfilment of thy blessing I wear two swords as emblems of spiritual and temporal authority. In the Guru’s house religion and worldly enjoyment shall be combined— the caldron to supply the poor and needy and the scimitar to smite oppressors.’
 
@@ -68,7 +68,7 @@ Several warriors and wrestlers hearing of the Guru’s fame came to him for serv
 
 After this several men out of employ and without a taste for manual labour flocked to the Guru’s standard. People began to wonder how he could continue to maintain such an army. The Guru quoted from Guru Arjan :—
 
-God putteth their food even before the insects which He created in rocks and stones ; <span id="p5"><sup><small>[p. 5]</small></sup></span>
+God putteth their food even before the insects which He created in rocks and stones ; <span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 He provideth every one with his daily food ; why, O man, art thou afraid ? [^5]
 
 The Guru by quoting such passages and by his own hopefulness and force of character removed men’s fears. In a short time, besides such as required regular pay, hordes gathered round him, who were satisfied with two meals a day and a new uniform every half-year.
@@ -97,7 +97,7 @@ By serving up truth they save their associates and families.
 They have not the filth of sin; they are spotless; they abide in devotion and love.
 Ye men of God, understand the true Guru’s word.
 This youth is but for a moment ;[^6] the body groweth old.
-O mortal, thou shalt die to-day or to-morrow ; repeat God’s name and meditate on it in thy heart. <span id="p7"><sup><small>[p. 7]</small></sup></span>
+O mortal, thou shalt die to-day or to-morrow ; repeat God’s name and meditate on it in thy heart. <span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 O mortal, eschew falsehood and flattery.[^7]
 Death flayeth and killeth the false one :[^8]
 The apostate suffereth for his falsehood and pride; he is tormented in both worlds.

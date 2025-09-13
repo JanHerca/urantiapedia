@@ -45,7 +45,7 @@ Is thoroughly acquainted with divine knowledge.
 Guru Nanak hath entered God’s sanctuary ;
 He hath removed all my cares and anxieties.
 
-<span id="p14"><sup><small>[p. 14]</small></sup></span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 The following was composed by the Guru on the same occasion :—
 
@@ -69,7 +69,7 @@ The performance of the work of the True One under the Guru’s instruction is be
 The Guru hath spoken the divine Word ; on continually hearing it the mind and body are refreshed.
 He whom God hath made His own, hath obtained all happiness ;
 In his house are the nine treasures, his garners are filled with God’s name which he loveth.
-Nanak, the servant who is fully fortunate shall never forget God. <span id="p15"><sup><small>[p. 15]</small></sup></span>
+Nanak, the servant who is fully fortunate shall never forget God. <span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 When God, the Lord of the umbrella,[^2] affordeth shelter, all trouble departeth ;
 The abode of sorrow and sin hath fallen and the work hath succeeded.
 When the Lord God ordered it, misfortune was averted, and true religion and charity flourished.
@@ -83,7 +83,7 @@ They who are attached to the Guru’s feet are ever awake ; in their hearts reso
 When the Lord who dwelleth in happiness casteth a look of favour, this world and the next are arranged.
 Nanak representeth—ever repeat His namewho supporteth soul and body.[^3]
 
-The Emperor Akbar’s new prime minister, Raja Birbar, a learned and accomplished man, was on religious grounds hostile to the Guru and jealous of his daily increasing influence and popularity. The minister was a great favourite of the Emperor, who desired to have him always by his side. He is said to have been capable by the force of his intellect of telling the Emperor his secrets at any time. His energy blazed for a while, but it was only the expiring flicker of the lamp. On account of his hostility to the Guru evil days came upon him. On the failure of Zain Khan Kokah in his expedition <span id="p16"><sup><small>[p. 16]</small></sup></span> against the Yusufzais, Birbar was ordered to proceed to him with reinforcements. Before his departure he received a written permission from the Emperor to levy a tax of a rupee on the house of every Khatri on the way. He crossed the Bias and sent his agents to collect the tax in Amritsar. The Khatris there refused payment and complained to the Guru. He represented to the Prime Minister’s agents: ‘The tax is on Khatris. We are Sikhs and look for exemption. Up to the present the government hath never imposed forced labour or taxes on the Guru’s house. My kitchen is kept open by the offerings of Sikhs and saints. No one is refused access to it. Take as much corn and food as you require, but I have no money to give you. I live on confidence in God.’
+The Emperor Akbar’s new prime minister, Raja Birbar, a learned and accomplished man, was on religious grounds hostile to the Guru and jealous of his daily increasing influence and popularity. The minister was a great favourite of the Emperor, who desired to have him always by his side. He is said to have been capable by the force of his intellect of telling the Emperor his secrets at any time. His energy blazed for a while, but it was only the expiring flicker of the lamp. On account of his hostility to the Guru evil days came upon him. On the failure of Zain Khan Kokah in his expedition <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> against the Yusufzais, Birbar was ordered to proceed to him with reinforcements. Before his departure he received a written permission from the Emperor to levy a tax of a rupee on the house of every Khatri on the way. He crossed the Bias and sent his agents to collect the tax in Amritsar. The Khatris there refused payment and complained to the Guru. He represented to the Prime Minister’s agents: ‘The tax is on Khatris. We are Sikhs and look for exemption. Up to the present the government hath never imposed forced labour or taxes on the Guru’s house. My kitchen is kept open by the offerings of Sikhs and saints. No one is refused access to it. Take as much corn and food as you require, but I have no money to give you. I live on confidence in God.’
 
 The agents repeated this speech to the Prime Minister, who became furious on hearing it. He said: ‘I am a commander of many men; how dareth the Guru disobey me? Moreover I bear the Emperor’s order. Even if it be the Guru’s house, it is for Sikhs and not for me to reverence it... Upon this Birbar sent some soldiers to the Guru with the following message: ‘Thou art a Khatri, a subject, and in every way subordinate to the state. If thou come to meet me, it will be well; -otherwise I will sack the whole of thy city.’ The soldiers went, but were dumbfounded in the presence of the Guru. Divining their object he thus addressed them: “ My friends, I care not for any one, nor do I fear any one. Let Raja Birbar come and do what he pleaseth. The Creator will protect me.’ The soldiers, fearing the Guru’s words and also their master’s wrath, went and falsely told him that the Guru would come on the morrow. Raja Birbar said: ‘What mattereth it if he be a saint or an object of reverence, or even very old, if he have not fear of me? Well, if he come not to-morrow, I will sack Amritsar.’ That <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> night the Raja never slept through perturbation of mind.
 
@@ -105,7 +105,7 @@ Thy hearty practice of the precepts of the Quran and sacred books.
 Make subjugation of the five thieves thy sidaq,[^6] charity thy saburi,[^7] and thou shalt be accepted.
 Make kindness thy Makka, humility thy fasting,
 Implicit [^8] obedience to the word of thy priest thy heaven,
-The service of God thy huris, thy nur,[^9] and thy perfume ; and God thy lofty hujra.[^10] <span id="p19"><sup><small>[p. 19]</small></sup></span>
+The service of God thy huris, thy nur,[^9] and thy perfume ; and God thy lofty hujra.[^10] <span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 He who practiseth truth is a Qazi ;
 He who chasteneth his heart is a Haji ;
 He who banisheth Satan is a Mulla, and he who praiseth _God_ is a darwesh.
@@ -132,7 +132,7 @@ Let a Musalman be soft-hearted,
 And wash away the filth of his heart.
 Let not the pleasures of the world approach him ; and let him be pure as flowers, silk, clarified butter, or deer-skin.
 _He is the object_ of the kindness of the Kind One,
-Who is a man, the manliest of men :<span id="p20"><sup><small>[p. 20]</small></sup></span>
+Who is a man, the manliest of men :<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 He is a Shaikh, a chief of Shaikhs, and a Haji; the man on whom God’s look of favour falleth is His slave.
 Power belongeth to the Omnipotent, kindness to the Kind One ;
 The attributes and love of the Merciful are unfathomable.

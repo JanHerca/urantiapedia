@@ -50,7 +50,7 @@ And erase from your hearts trouble and affliction.
 
 <p style="text-align:center;">1</p>
 
-<span id="p198"><sup><small>[p. 198]</small></sup></span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 Remember the praises of the one all-supporting God.
 Numberless persons utter God’s various names.[^3]
 Investigating the Veds, the Purans, and the Simritis,
@@ -82,7 +82,7 @@ Remembrance of God is the _real_ devotion, penance, and worship ;
 By remembering God _the conception of_ duality is dispelled ;
 By remembering God we obtain _the advantages_ of bathing at places of pilgrimage ;
 1 
-<span id="p199"><sup><small>[p. 199]</small></sup></span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 By remembering God we are honoured at His court ;
 By remembering God we become reconciled to His will;
 By remembering God men’s _lives_ are very profitable :
@@ -119,7 +119,7 @@ The faces of those who remember God look bright ;
 They who remember God pass their lives in bliss ;
 They who remember God chasten their hearts ;
 The ways of those who remember God are holy ;
-They who remember God feel extreme joy ;<span id="p200"><sup><small>[p. 200]</small></sup></span>
+They who remember God feel extreme joy ;<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 They who remember God dwell near Him,
 And by the favour of the saints are watchful night and day—
 Nanak, meditation on God is obtained by complete good fortune.
@@ -152,7 +152,7 @@ Have obtained the boon of remembering Him.
 
 <p style="text-align:center;">SLOK II</p>
 
-O Thou Destroyer of the pain and grief of the distressed, Lord of every heart, Thyself without a lord,<span id="p201"><sup><small>[p. 201]</small></sup></span>
+O Thou Destroyer of the pain and grief of the distressed, Lord of every heart, Thyself without a lord,<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 I have come under Thy protection; O God, be with Nanak !
 
 <p style="text-align:center;">ASHTAPADI II</p>
@@ -185,7 +185,7 @@ And under the Guru’s instruction, Nanak, thou shalt obtain the supreme state.
 
 <p style="text-align:center;">3</p>
 
-Even though thou have millions of arms, thou shalt not be saved ;<span id="p202"><sup><small>[p. 202]</small></sup></span>
+Even though thou have millions of arms, thou shalt not be saved ;<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 But, if thou utter the Name, thou shalt be saved.
 When many obstacles harass thee,
 The name of God will at once save thee.
@@ -214,7 +214,7 @@ There, _saith_ Nanak, _the name of_ God shall rain nectar on thee.”
 _Uttering_ the Name is the business of the pious ; It giveth peace to the hearts of the saints. God’s name is the shelter of His servants ;
 By God’s name millions have been saved.
 The saints day and night praise God :
-The pious use God’s name as their medicine. The name of God is the treasure of the holy ; The Supreme Being gave this gift to man.<span id="p203"><sup><small>[p. 203]</small></sup></span>
+The pious use God’s name as their medicine. The name of God is the treasure of the holy ; The Supreme Being gave this gift to man.<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 Nanak, _the pursuit_ of divine knowledge is the rule of the holy,
 Whose souls and bodies are dyed with the love of the one _God_.
 
@@ -243,7 +243,7 @@ During the eight watches of the day the man of God repeateth His name.
 The saints of God are distinguished and not obscure ;
 The worship of God conferreth salvation upon many— . Nanak, how many shall be saved with holy men ?
 
-<span id="p204"><sup><small>[p. 204]</small></sup></span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 <p style="text-align:center;">8</p>
 
@@ -269,7 +269,7 @@ The exposition of the six Shastars and of the Simritis,
 The practice of Jog, the performance of _vain_ religious ceremonies,
 The abandonment of everything, wandering in the forest,
 _Superstitious_ efforts of various descriptions,
-Almsgiving, the sacrifice of hom, _the bestowal_ of many jewels,[^13]<span id="p205"><sup><small>[p. 205]</small></sup></span>
+Almsgiving, the sacrifice of hom, _the bestowal_ of many jewels,[^13]<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 Cutting pieces off one’s body and making them a burnt offering,
 The performance of fasting and vows of many kinds—
 _All_ are not equal to the contemplation of God’s name, Nanak, even if it be only once repeated as directed by the Guru.
@@ -302,7 +302,7 @@ Nanak, the worst sinners have been saved by the Name.
 
 <p style="text-align:center;">4</p>
 
-By too much cleverness man shall feel the fear of Death : Even by.various efforts his thirst shall not be satisfied ;<span id="p206"><sup><small>[p. 206]</small></sup></span>
+By too much cleverness man shall feel the fear of Death : Even by.various efforts his thirst shall not be satisfied ;<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 _Even by adopting_ various _religious_ garbs the fire of his worldly love is not quenched ;
 Even by millions of _other religious_ efforts man is not acceptable in God’s court.
 He over whom worldly love hath spread its net,
@@ -337,7 +337,7 @@ They who expel evil from their hearts,
 Shall regard the whole world as their friends.
 The holy man who looketh upon weal and woe as the same,
 Shall not, Nanak, be affected by evil or good.
-7 To him who hath no wealth, O God, Thy name is wealth; To him who hath no home, Thy name is a home ;<span id="p207"><sup><small>[p. 207]</small></sup></span>
+7 To him who hath no wealth, O God, Thy name is wealth; To him who hath no home, Thy name is a home ;<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 To him who hath no honour, Thy name is an honour : Thou givest gifts to all persons.
 Thou, O Lord, actest and causest to act.
 It is _only_ Thou, who hast the secrets of all hearts, Who knowest Thine own condition and limit.
@@ -407,7 +407,7 @@ Nanak, the Infinite One is the only Preserver.
 <p style="text-align:center;">4</p>
 
 Man abandoneth a jewel and loveth a kauri ;
-He renounceth truth and occupieth himself with falsehood ;<span id="p209"><sup><small>[p. 209]</small></sup></span>
+He renounceth truth and occupieth himself with falsehood ;<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 What he shall have to part with he deemeth enduring ;
 _The thought of death_ which is to happen he putteth away from him ;
 He troubleth himself about what he must part with ;
@@ -435,7 +435,7 @@ Shall, O Nanak, be easily absorbed in Him.
 How shall a blind man find the road even though he hear _where it is_ ?
 Take his hand and he shall reach the goal.
 How can a deaf man understand riddles ?
-Talk to him of the night, and he will think _you are talking of_ the dawn ;<span id="p210"><sup><small>[p. 210]</small></sup></span>
+Talk to him of the night, and he will think _you are talking of_ the dawn ;<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 How can a dumb man sing a stave
 When, though he try, it would break his voice,[^20]
 How can a cripple roam on a mountain ?
@@ -469,7 +469,7 @@ And must obey the orders Thou issuest.
 It is only Thou Thyself who knowest Thine own condition and limit :
 Nanak, Thy slave, is ever a sacrifice unto Thee.[^22]
 
-<span id="p211"><sup><small>[p. 211]</small></sup></span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK V</p>
 
@@ -501,7 +501,7 @@ He by his own act forfeiteth confidence,
 And God will not _again_ trust him.
 If thou place the things [^24] before their Owner,
 And obey God’s order with all thy might,[^25]
-<span id="p212"><sup><small>[p. 212]</small></sup></span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 He will make thee fourfold happy.
 Nanak, the Lord is ever compassionate.
 
@@ -533,7 +533,7 @@ Nanak liveth by meditating on God’s feet—<p style="text-align:center;">5</p>
 Perishable the ears which listen to slander of others ;
 Perishable the hands which steal the property of others ;
 Perishable the eyes which behold the beauty and other charms of another’s wife ;
-Perishable the tongue which tasteth _dainty_ food and other Savours ;<span id="p213"><sup><small>[p. 213]</small></sup></span>
+Perishable the tongue which tasteth _dainty_ food and other Savours ;<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 Perishable the feet which run after evil ;
 Perishable the heart which coveteth another’s goods ;
 Perishable the body which benefiteth not others ;
@@ -554,7 +554,7 @@ So everything is vain without repeating God’s name.
 They are to be highly congratulated in whose hearts the name of God abideth:
 Nanak is a sacrifice, a sacrifice unto them.
 
-<span id="p214"><sup><small>[p. 214]</small></sup></span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 <p style="text-align:center;">7</p>
 
@@ -590,7 +590,7 @@ That his lust, wrath, avarice, worldly love, and pride may depart.
 <p style="text-align:center;">ASHTAPADI VI</p>
 
 Bear that God in thy mind
-By whose favour thou eatest of the thirty-six dishes.<span id="p215"><sup><small>[p. 215]</small></sup></span>
+By whose favour thou eatest of the thirty-six dishes.<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 Thou shalt obtain salvation by remembering Him
 By whose favour thou appliest perfume to thy body.
 Meditate on Him continually in thy heart
@@ -626,7 +626,7 @@ By whose favour none can equal thee.
 Nanak, perform His service
 By whose favour thou obtainest a human body so difficult to obtain.
 
-<span id="p216"><sup><small>[p. 216]</small></sup></span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 <p style="text-align:center;">4</p>
 
@@ -662,7 +662,7 @@ By whose favour thou beholdest wonders,
 By whose favour thou utterest ambrosial words,
 By whose favour thou abidest in ease and comfort,
 By whose favour thy hands move to discharge[^31] _ther duties_,
-By whose favour thou art completely successful,<span id="p217"><sup><small>[p. 217]</small></sup></span>
+By whose favour thou art completely successful,<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 By whose favour thou obtainest supreme bliss,
 By whose favour thou shalt be filled with happiness and comfort ?
 Awaken thy heart, Nanak, by the Guru’s favour.
@@ -700,7 +700,7 @@ He who repeateth His name shall be saved.
 Hear, O my friends, Nanak’s representation
 And the wonderful story of the saints :—
 
-<span id="p218"><sup><small>[p. 218]</small></sup></span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 <p style="text-align:center;">ASHTAPADI VII</p>
 
@@ -733,7 +733,7 @@ Nanak, by association with saints, God is well pleased.
 <p style="text-align:center;">3</p>
 
 By association with saints all enemies become friends,
-By association with saints man becometh very pure,<span id="p219"><sup><small>[p. 219]</small></sup></span>
+By association with saints man becometh very pure,<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 By association with saints man feeleth not enmity for any one,
 By association with saints man’s feet _walk_ not awry—
 A man cannot be evil who associateth with saints—
@@ -763,7 +763,7 @@ By association with saints acquaintances, friends, and family are saved,
 By association with saints that wealth is obtained
 From which every one gaineth advantage—
 Dharmraj performeth service for those who associate with saints—
-By association with saints the king of the demigods singeth man’s praises.<span id="p220"><sup><small>[p. 220]</small></sup></span>
+By association with saints the king of the demigods singeth man’s praises.<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 By association with saints sins flee away,
 By association with saints man singeth the praises of the ambrosial _Name_,
 By association with saints man reacheth every place,
@@ -800,7 +800,7 @@ Nanak, association with saints is obtained by good fortune.
 _Even_ the Veds know not the greatness of saints ;
 They described them as far as they had heard of them.
 The greatness of saints is beyond the three qualities,
-The greatness of saints pervadeth every place ;<span id="p221"><sup><small>[p. 221]</small></sup></span>
+The greatness of saints pervadeth every place ;<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 There is no end to the glory of saints ;
 The glory of saints is ever endless,
 The glory of saints is the highest of the high,
@@ -837,7 +837,7 @@ The mind of the man who knoweth God is enlightened,
 Like the firmament above the earth ;
 To the man who knoweth God a friend and foe are the same ;
 The man who knoweth God hath no pride ;
-The man who knoweth God is the most exalted of the exalted ;<span id="p222"><sup><small>[p. 222]</small></sup></span>
+The man who knoweth God is the most exalted of the exalted ;<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 Yet his mind is the most humble of all—
 Nanak, only those are Brahmgyanis[^35]
 Whom God Himself maketh so—
@@ -868,7 +868,7 @@ Everything prospereth with him who knoweth God ;
 In the company of the man who knoweth God all shall be saved—
 Nanak, the whole world praiseth the man who knoweth God.
 1 
-<span id="p223"><sup><small>[p. 223]</small></sup></span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 <p style="text-align:center;">5</p>
 
@@ -904,7 +904,7 @@ Who knoweth the secret of him who knoweth God ?
 Obeisance ever to him who knoweth God!
 Even half a letter of _his praises_ who knoweth God cannot be written—
 The man who knoweth God is the lord of all—
-Who can tell the worth of the man who knoweth God ?<span id="p224"><sup><small>[p. 224]</small></sup></span>
+Who can tell the worth of the man who knoweth God ?<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 Only the man who knoweth God knoweth his own state;
 The man who knoweth God hath no end or limit.
 Nanak ever boweth to the man who knoweth God.
@@ -937,7 +937,7 @@ Whose heart loveth to behold the Bright One,
 Whose eyes gaze not on the beauty of others’ wives,
 Who serveth holy men and loveth saints,
 Whose ears hear not slander of any one,
-Who deemeth himself the worst of all men.<span id="p225"><sup><small>[p. 225]</small></sup></span>
+Who deemeth himself the worst of all men.<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 Who by the favour of the Guru renounceth all wickedness,
 Who banisheth all evil desires from his heart,
 Curbeth his passions, and refraineth from the five deadly sins.
@@ -972,7 +972,7 @@ Nanak, such a Bhagauti shall obtain God.
 
 He is a Pandit who awakeneth his own mind,
 Who searcheth for God’s name in his heart,
-Who drinketh the excellent juice of God’s name—<span id="p226"><sup><small>[p. 226]</small></sup></span>
+Who drinketh the excellent juice of God’s name—<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 The world liveth by that Pandit’s instruction—
 The Pandit who implanteth God’s word in his heart
 Shall not be born again.
@@ -1005,7 +1005,7 @@ Shall be acceptable at His court.
 His servant to whom He showeth kindness,
 Shall obtain all knowledge.
 The man who among all men is a recluse at heart,
-Thus becometh, O Nanak, a slave of God.<span id="p229"><sup><small>[p. 229]</small></sup></span>
+Thus becometh, O Nanak, a slave of God.<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 <p style="text-align:center;">7</p>
 
@@ -1042,7 +1042,7 @@ Many people praise Him who hath neither end nor limit : Nanak, God created His c
 Many millions are His worshippers,
 Many millions are engaged in religious and worldly duties,
 Many millions dwell at places of pilgrimage,
-Many millions wander as anchorets in the forest,<span id="p228"><sup><small>[p. 228]</small></sup></span>
+Many millions wander as anchorets in the forest,<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 Many millions listen to the Veds,
 Many millions perform excessive penances,
 Many millions meditate on God in their hearts,
@@ -1078,7 +1078,7 @@ And, O Nanak, saveth those whom He pleaseth.
 
 <p style="text-align:center;">4</p>
 
-Many millions of beings were created with the three qualities of impulse, darkness, and goodness,<span id="p229"><sup><small>[p. 229]</small></sup></span>
+Many millions of beings were created with the three qualities of impulse, darkness, and goodness,<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 Many millions of Veds, Purans, Simritis, and Shastars, Many millions of jewelled oceans,
 Many millions of animals of various descriptions ; Many millions were made long-lived,
 Many millions of hills and golden mountains,
@@ -1106,7 +1106,7 @@ And find Him, the Imperishable One ;
 Many millions pray for the society of the saints— They are those who love the Supreme Being. Nanak, they are ever blest
 With whom God is well pleased.
 
-<span id="p230"><sup><small>[p. 230]</small></sup></span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 <p style="text-align:center;">7</p>
 
@@ -1144,7 +1144,7 @@ Nanak is a sacrifice to Him who is contained in sea and land, in the nether regi
 <p style="text-align:center;">1</p>
 
 The Cause of causes is capable of acting ;
-What pleaseth Him shall come to pass.<span id="p231"><sup><small>[p. 231]</small></sup></span>
+What pleaseth Him shall come to pass.<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 He who hath no end or limits
 Establisheth and disestablisheth in a moment.
 By His order He supporteth and holdeth the firmament ; [^50]
@@ -1175,7 +1175,7 @@ If man had the power he would acquire all things.[^51]
 God doeth what pleaseth Himself,
 Through not knowing God man is attached to sin ;
 If he knew God, he would save himself from it.
-The _mind_ led astray by superstition wandereth in every direction,<span id="p232"><sup><small>[p. 232]</small></sup></span>
+The _mind_ led astray by superstition wandereth in every direction,<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 And in a moment returneth.
 God bestoweth His service on him to whom He is merciful ;
 Nanak, such a man shall be absorbed in the Name.
@@ -1214,7 +1214,7 @@ Sometimes he is terrible in his mighty wrath,
 Sometimes he is the dust of all men’s feet,
 Sometimes he is enthroned as a great king,
 Sometimes he weareth the attire of a lowly beggar,
-Sometimes he falleth into evil repute,<span id="p233"><sup><small>[p. 233]</small></sup></span>
+Sometimes he falleth into evil repute,<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 Sometimes he is called very good ;
 As God keepeth him so he remaineth—
 By the favour of the Guru, Nanak speaketh the truth.
@@ -1253,7 +1253,7 @@ While the very haughty, O Nanak, are consumed by their pride.
 <p style="text-align:center;">1</p>
 
 He in whose heart is the pride of dominion,
-Shall fall into hell and become a dog ;<span id="p234"><sup><small>[p. 234]</small></sup></span>
+Shall fall into hell and become a dog ;<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 He who boasteth of his youth,
 Shall become a creature of filth ;
 He who calleth himself good
@@ -1291,7 +1291,7 @@ Whose heart is the dust of all men’s feet.
 
 Man hath no happiness
 So long as he thinketh he can do something ;
-As long as man thinketh he can do something,<span id="p235"><sup><small>[p. 235]</small></sup></span>
+As long as man thinketh he can do something,<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 So long shall he wander in wombs ;
 As long as man deemeth any one an enemy or a friend, So long shall his mind not be stable ;
 As long as man is intoxicated with the love of mammon, So long shall Dharmraj punish him.
@@ -1327,7 +1327,7 @@ Nanak, He is ever diffused throughout creation ;
 <p style="text-align:center;">7</p>
 
 He Himself instructeth, and He Himself understandeth ;
-He Himself is blended with everything ;<span id="p236"><sup><small>[p. 236]</small></sup></span>
+He Himself is blended with everything ;<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 He made His own expansion ; [^53]
 Everything is His, He is the Creator—
 Say can anything be effected without Him ? The one God is in every place ;
@@ -1366,7 +1366,7 @@ By calumniating the saints man is without glory—
 None can save him who is accursed of the saints—
 By calumniating the saints man falleth from his position.
 Nanak, even a slanderer shall be saved in the company of the saints,
-If the merciful saints but show him mercy,<span id="p237"><sup><small>[p. 237]</small></sup></span>
+If the merciful saints but show him mercy,<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 <p style="text-align:center;">2</p>
 
@@ -1401,7 +1401,7 @@ He who slandereth the saints is no man’s friend,
 He who slandereth the saints shall be punished,
 He who slandereth the saints shall be abandoned by all,
 He who slandereth the saints is very proud,
-He who slandereth the saints is ever a sinner,<span id="p238"><sup><small>[p. 238]</small></sup></span>
+He who slandereth the saints is ever a sinner,<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 He who slandereth the saints dieth and is born again,
 He who slandereth the saints swerveth from happiness,
 He who slandereth the saints hath no abiding place ;
@@ -1438,7 +1438,7 @@ Nanak, whatever pleaseth God shall take place—
 
 7 He who slandereth the saints shall become deformed,
 He who slandereth the saints shall receive punishment in God’s court,
-He who slandereth the saints ever gaspeth,<span id="p239"><sup><small>[p. 239]</small></sup></span>
+He who slandereth the saints ever gaspeth,<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 He who slandereth’ the saints is neither dead nor living,
 He who slandereth the saints never hath his hopes fulfilled,
 He who slandereth the saints departeth disappointed ;
@@ -1480,7 +1480,7 @@ String His name and wear it on thy neck ;
 Remember, remember, remember that God,
 Nanak, and no obstacle shall come in thy way.
 1 
-<span id="p240"><sup><small>[p. 240]</small></sup></span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 <p style="text-align:center;">2</p>
 
@@ -1556,7 +1556,7 @@ God’s servants shall cause sorrow to be forgotten.
 They who repeat the Name under the Guru’s instruction shall be happy ;
 The Merciful One shall blend them with Himself ;
 The fortunate man to whom God showeth mercy,
-Shall apply Himself to their service.<span id="p242"><sup><small>[p. 242]</small></sup></span>
+Shall apply Himself to their service.<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 He who uttereth the Name shall obtain rest ;
 Nanak, consider him as the best :
 
@@ -1596,7 +1596,7 @@ Salvation, Nanak, is obtained by repeating the name of the one _God_.
 <p style="text-align:center;">2</p>
 
 If man be handsome, he should not be charmed thereby,
-_Since_ it is God’s light that shineth in everybody. <span id="p243"><sup><small>[p. 243]</small></sup></span>
+_Since_ it is God’s light that shineth in everybody. <span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 If man be wealthy, why should he be proud thereof,
 Since all the wealth that God hath given belongeth to Him ?
 Even though one be a mighty hero,
@@ -1632,7 +1632,7 @@ What came _into the world_ with thee ?
 Repeat God’s name in thy heart,
 Nanak, and thou shalt go to thy home with honour.
 RZ
-<span id="p244"><sup><small>[p. 244]</small></sup></span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 <p style="text-align:center;">5</p>
 
@@ -1673,7 +1673,7 @@ This is the most exalted and sacred duty.
 He to whom God hath mercifully granted His name,
 shall, O Nanak, become pure.
 
-<span id="p245"><sup><small>[p. 245]</small></sup></span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 <p style="text-align:center;">8</p>
 
@@ -1709,7 +1709,7 @@ Nanak’s heartfelt desire is
 To fall at the feet of Thy saints.
 
 1 
-<span id="p246"><sup><small>[p. 246]</small></sup></span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 <p style="text-align:center;">2</p>
 
@@ -1746,7 +1746,7 @@ Hath extended Himself in various ways ;
 He acteth various parts in a moment.
 The Perfect One filleth every place ;
 He hath made creation in various forms ;
-He Himself knoweth His own worth ;<span id="p247"><sup><small>[p. 247]</small></sup></span>
+He Himself knoweth His own worth ;<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 All hearts are His, all places are His.
 Nanak liveth by ever uttering God’s name.
 
@@ -1783,7 +1783,7 @@ True are they into whose hearts they enter.
 He who knoweth how to search for the truth,
 Shall obtain salvation by uttering the Name.
 God Himself is true, and true is everything He hath made ;
-He Himself knoweth His own measure and condition.<span id="p248"><sup><small>[p. 248]</small></sup></span>
+He Himself knoweth His own measure and condition.<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 The creation belongeth to its Maker ;
 He taketh counsel with none but Himself.
 The measure of the Creator is not known to the creature ;
@@ -1826,7 +1826,7 @@ Nanak, God is altogether true.
 
 He who knoweth in his heart Him whose form is true,
 Shall recognize the Root of all things, the Cause of causes,
-<span id="p249"><sup><small>[p. 249]</small></sup></span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 Divine knowledge shall be revealed to him
 Into whose heart faith in God hath entered ;
 He shall abide free from fear,
@@ -1867,7 +1867,7 @@ Shall be renowned, O Nanak, in every direction.
 _If God_ infuse power into a little ant,
 It can reduce to ashes armies of hundreds of thousands and millions _of men_.
 God preserveth and holdeth out a hand to him
-Whom He _desitreth_ not to deprive of life.<span id="p250"><sup><small>[p. 250]</small></sup></span>
+Whom He _desitreth_ not to deprive of life.<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 Though man make efforts of many kinds,
 His exertions are in vain.
 No one can kill or preserve but God ;
@@ -1908,7 +1908,7 @@ Give them thy soul and body.
 He who recognizeth his God
 Is bountiful in all things ;
 In His shelter thou shalt find all happiness ;
-By a sight of Him thou shalt blot out all sin.<span id="p251"><sup><small>[p. 251]</small></sup></span>
+By a sight of Him thou shalt blot out all sin.<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 Renounce all other cleverness,
 And attach thyself to His service.
 Nanak, ever worship His feet,
@@ -1947,7 +1947,7 @@ _Of reward_, shall obtain the Lord.
 The servant to whom God showeth favour,
 Nanak, will accept the Guru’s instruction ;
 
-<span id="p252"><sup><small>[p. 252]</small></sup></span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 <p style="text-align:center;">3</p>
 
@@ -1982,7 +1982,7 @@ He is the True Being of perfect discrimination ;
 Mortal cannot by any words succeed in describing Him.
 He is inaccessible, incomprehensible and unperturbed.
 He liveth not by food, He is without enmity, the Giver of comfort ;
-No one hath found His worth.<span id="p253"><sup><small>[p. 253]</small></sup></span>
+No one hath found His worth.<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 Many saints continually make obeisance to Him,
 And meditate in their hearts on His lotus feet. Nanak is ever a sacrifice to his true Guru,
 By whose favour the name of such a God is repeated.
@@ -2020,7 +2020,7 @@ Is without the _three_ qualities, and yet possesseth all qualities.
 God Himself performeth His own play ;
 Only He Himself knoweth His worth.
 There is no other than God ;
-He, the one Spirit, pervadeth all things without interruption ;<span id="p254"><sup><small>[p. 254]</small></sup></span>
+He, the one Spirit, pervadeth all things without interruption ;<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 He, the warp and the woof, is contained in all forms and colours ;
 He becometh manifest by association with the saints ;
 He who made creation infused His power into it—
@@ -2059,7 +2059,7 @@ It is by administering the medicine of God’s name.
 Of all treasures God’s name is the treasure ;
 Repeat it, Nanak, and thou shalt be acceptable in God’s court.
 
-<span id="p255"><sup><small>[p. 255]</small></sup></span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 <p style="text-align:center;">3</p>
 
@@ -2136,7 +2136,7 @@ Sing the excellences of the one God who is endless ;
 With soul and body repeat _the name_ of the one God—
 God Himself is the only, only, only one ;
 The perfect God filleth every place ;
-There have been many expansions of the one God.[^62]<span id="p287"><sup><small>[p. 287]</small></sup></span>
+There have been many expansions of the one God.[^62]<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 Worship the one God, and all thy sins shall depart.
 Nanak, by the favour of the Guru the one God is known by him
 Whose soul and body are thoroughly imbued with His love,
@@ -2172,7 +2172,7 @@ Their hearts are enlightened, and they fix their attention on Him day and night.
 Very fortunate are they who repeat God’s name ;
 Nanak, they who are dyed with it are happy.
 
-<span id="p258"><sup><small>[p. 258]</small></sup></span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 <p style="text-align:center;">3</p>
 
@@ -2208,7 +2208,7 @@ Remember it, remember it, remember it, and you shall be happy ;
 Repeat it yourselves and cause others to repeat it.
 By service and love you shall cross over the world ;
 Without service the body shall be as dust.[^64]
-From the treasure of the Name all beatitude and happiness are obtained,<span id="p259"><sup><small>[p. 259]</small></sup></span>
+From the treasure of the Name all beatitude and happiness are obtained,<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 And even they who are drowning obtain rest—
 O Nanak, repeat the name of the Lord of excellences,
 And all thy sorrow shall depart.
@@ -2246,7 +2246,7 @@ Shall obtain everything—heaven, salvation, deliverance.
 He to whose heart the story of God’s name is pleasing,
 Shall enjoy the various pleasures and greatness of a monarch.
 They whose tongues continually repeat God’s name,
-Shall enjoy plenteous food, raiment, singing, and dancing.<span id="p260"><sup><small>[p. 260]</small></sup></span>
+Shall enjoy plenteous food, raiment, singing, and dancing.<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 Good are his deeds, glorious and wealthy is he
 In whose heart the perfect Guru’s spell abideth.
 O God, grant Nanak a dwelling with Thy saints, Where all happiness shall be manifested unto him.
@@ -2283,7 +2283,7 @@ Who was fearless, who feared any one ?
 He Himself performed His own play ;
 Nanak, God is inaccessible and illimitable.
 
-<span id="p261"><sup><small>[p. 261]</small></sup></span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 <p style="text-align:center;">3</p>
 
@@ -2360,7 +2360,7 @@ When God extended Himself, the saints became glorious ;
 He Himself is the arbiter of both states ;[^68]
 God’s glory is peculiar to Himself ;
 He Himself performeth plays, amusements, and frolics ;
-He enjoyeth pleasures and yet remaineth separate from them ;<span id="p263"><sup><small>[p. 263]</small></sup></span>
+He enjoyeth pleasures and yet remaineth separate from them ;<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 He attacheth whomsoever He pleaseth to His name,
 And causeth whomsoever He pleaseth to play the play _of the world_.
 He is incalculable, unfathomable, uncountable, and unrivalled—
@@ -2398,7 +2398,7 @@ Is with thee whether at home or abroad.
 The Ocean of excellences is endless and illimitable ;
 The slave Nanak is ever a sacrifice _unto Him_.
 
-<span id="p264"><sup><small>[p. 264]</small></sup></span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 <p style="text-align:center;">3</p>
 
@@ -2439,7 +2439,7 @@ Shall be delivered from his ignorance, and his spiritual darkness dispelled.
 Hearken to instruction, and treasure it in thy heart,
 So shalt thou, Nanak, obtain the reward thy heart desireth.
 
-<span id="p265"><sup><small>[p. 265]</small></sup></span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 <p style="text-align:center;">6</p>
 
@@ -2481,7 +2481,7 @@ Nanak, he who in the company of the saints meditateth on God
 Becometh immortal, and obtaineth the immortal rank.
 
 ' 
-<span id="p266"><sup><small>[p. 266]</small></sup></span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XXIII</p>
 
@@ -2519,7 +2519,7 @@ Nanak, by the Guru’s favour obtain happiness ;
 
 Consult the Veds, Purans, and Simritis, _and thou shalt know_
 That the one God is in the moon, the sun, and the stars.
-Everybody speaketh with the voice of God,<span id="p267"><sup><small>[p. 267]</small></sup></span>
+Everybody speaketh with the voice of God,<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 Who is unwavering and never wavereth.
 He playeth His play with all His appliances ;
 He cannot be obtained by purchase, His attributes are priceless ;
@@ -2559,7 +2559,7 @@ God Himself abideth in all the elements ;
 He beholdeth all things with His own eyes ;
 The whole creation is His body ;
 He Himself heareth His own praises ;
-He hath made transmigration as a play,<span id="p268"><sup><small>[p. 268]</small></sup></span>
+He hath made transmigration as a play,<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 And rendered Maya subservient to Him.
 Included in everything, He yet remaineth distinct.
 Whatever order is to be given, He giveth Himself ;
@@ -2596,7 +2596,7 @@ To him, Nanak, I ever make obeisance.
 
 He who worshippeth the perfect God whose name is perect, And who singeth the praises of the perfect One, O Nanak, obtaineth the perfect One.
 
-<span id="p269"><sup><small>[p. 269]</small></sup></span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 <p style="text-align:center;">ASHTAPADI XXIV</p>
 
@@ -2639,7 +2639,7 @@ Shall on hearing it be happy, and sing God’s _praises_.
 God shineth in the countenance of the holy man ;[^72]
 Nanak, in his company men are saved.
 
-<span id="p270"><sup><small>[p. 270]</small></sup></span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 <p style="text-align:center;">4</p>
 
@@ -2674,7 +2674,7 @@ And heartily heareth Guru Nanak’s words in praise of the Name :—
 Rest, peace, wealth, the nine treasures,
 Understanding, divine knowledge, all spiritual power,
 Wisdom, devotion, union with and meditation on God,
-The best divine knowledge, the most excellent ablutions,<span id="p271"><sup><small>[p. 271]</small></sup></span>
+The best divine knowledge, the most excellent ablutions,<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 The four desirable objects, mental enlightenment,
 Contempt of all things, though in the midst of them,
 Beauty, cleverness, knowledge of the truth,
@@ -2737,7 +2737,7 @@ The fate of idolaters and ingrates :—
 
 It is the servants of the True King who are acceptable ;
 Nanak, the fools who serve other gods pine away and die.
-The destiny God wrote in the beginning cannot be effaced. <span id="p273"><sup><small>[p. 273]</small></sup></span>
+The destiny God wrote in the beginning cannot be effaced. <span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 The wealth of God’s name is Nanak’s capital; ever meditate on it. j
 In terrible hell there is much suffering; it is the abode of the ungrateful.
 God smiteth them, Nanak, and they die a miserable death.
@@ -2795,7 +2795,7 @@ Giver, Benefactor, I have ever remembered Thee.’
 God’s unequalled storehouses are never exhausted.
 Nanak, unequalled is the Word which hath arranged everything.
 
-<span id="p275"><sup><small>[p. 275]</small></sup></span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Remember the Word and you shall be happy here and hereafter :—
 
@@ -2828,7 +2828,7 @@ O silly woman, dispel thy doubts, and love thou the only dear One. Whithersoever
 
 A hypocrite can never be equal to a saint :—
 
-Persons only fitted to play at bat and ball _like children_, mount horses and handle guns. <span id="p276"><sup><small>[p. 276]</small></sup></span>
+Persons only fitted to play at bat and ball _like children_, mount horses and handle guns. <span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 Animals which fly like barn fowl wish to be on a par with swans.
 
 Salvation is obtained by repeating, hearing, or even writing God’s name :—

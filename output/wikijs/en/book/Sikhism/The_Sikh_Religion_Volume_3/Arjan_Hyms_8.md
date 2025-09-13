@@ -40,7 +40,7 @@ It is said that the whole of the Jaitsari ki War was composed by the Guru as ins
 <p style="text-align:center;">SLOK I</p>
 
 In the beginning God pervaded creation, in the present
-He pervadeth it, and in the future He will pervade it. <span id="p371"><sup><small>[p. 371]</small></sup></span>
+He pervadeth it, and in the future He will pervade it. <span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 Nanak, the saints remember the All-pervading who is the Destroyer of sin and Lord of the world.
 Behold, hear, and cause others to hear, and fix the True One in thy heart.
 Nanak, be absorbed in the love of God who is fully contained in all things.
@@ -99,7 +99,7 @@ Who are without the service and love of God, O Nanak, are as ghosts.
 That love shall fade which is devoted to any other than God.
 Nanak, true is the way of loving the Lord.
 
-<span id="p373"><sup><small>[p. 373]</small></sup></span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 The body perishes unhonoured, wherefore man should remember God, with whom rests salvation :—
 
@@ -130,7 +130,7 @@ The fear of transmigration is removed, and a lasting and true abode obtained.
 If it be so decreed in the beginning, man becometh absorbed in God’s feet.
 O God, mercifully preserve me ; Nanak is a sacrifice unto Thee:
 
-<span id="p374"><sup><small>[p. 374]</small></sup></span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 The Guru likens to worms those who only think of pleasures :—
 
@@ -162,7 +162,7 @@ The poor and holy man, if pious, is king of the world :—
 <p style="text-align:center;">PAURI VII</p>
 
 He who liveth in a ruined hut with all his clothes torn,
-Who hath neither caste, nor lineage, nor respect, who wandereth in the wilderness,<span id="p375"><sup><small>[p. 375]</small></sup></span>
+Who hath neither caste, nor lineage, nor respect, who wandereth in the wilderness,<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 Who hath no friend or lover, who is without wealth or beauty, and who hath no relation or kinsman,
 Is king of the whole world if his heart be filled with God’s name.
 God is well pleased with him, and men are saved by the dust of his feet.
@@ -195,7 +195,7 @@ Even though they dwell in heaven or conquer the nine regions of the earth.
 Where there are millions of plays and spectacles, without remembrance of the Name,
 Nanak, that place is desolate, and equal to millions of hells.
 
-<span id="p376"><sup><small>[p. 376]</small></sup></span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 <p style="text-align:center;">PAURI IX</p>
 
@@ -254,7 +254,7 @@ Nanak will abide with that Lord God who is the Friend of the saints.
 <p style="text-align:center;">PAURI XII</p>
 
 How can a fish maintain life without water ? How can the chatrik be satisfied without raindrops ?
-As the deer fascinated by the bell runneth towards _the huntsman_ ; <span id="p378"><sup><small>[p. 378]</small></sup></span>
+As the deer fascinated by the bell runneth towards _the huntsman_ ; <span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 As the greedy bumble-bee on finding an odorous flower hath itself shut up in it ;
 So holy men love God and are satisfied on beholding Him.
 
@@ -290,7 +290,7 @@ Holy are they who in any manner are concerned with God :—
 <p style="text-align:center;">PAURI XIV</p>
 
 I am ever a sacrifice to those who hear God’s story.
-Perfectly distinguished are they who bow their foreheads to God. <span id="p379"><sup><small>[p. 379]</small></sup></span>
+Perfectly distinguished are they who bow their foreheads to God. <span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 The hands of those who write the praises of the Endless One are adorned thereby.
 Their feet are pure and clean who walk in God’s way :
 They are saved with the saints and all their sorrow fleeth away.
@@ -324,7 +324,7 @@ A fervent prayer :—
 
 <p style="text-align:center;">PAURI XVI</p>
 
-Blend me with Thee, O Compassionate One ; I have fallen at Thy door. <span id="p380"><sup><small>[p. 380]</small></sup></span>
+Blend me with Thee, O Compassionate One ; I have fallen at Thy door. <span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 Preserve me, O Compassionate to the poor; wandering I have become very weary.
 It is Thy function, O God, to love the saints and save sinners.
 Beside Thee there is none: grant my supplication.
@@ -358,7 +358,7 @@ Is to obtain mercy, to remove sorrows, and to shake off mammon.
 The burning fever _of my_ heart hath been quenched ; God Himself hath preserved me.
 Nanak, repeat the name of that God who created the world.
 
-<span id="p381"><sup><small>[p. 381]</small></sup></span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 The results of meditation and holy association :—
 
@@ -394,7 +394,7 @@ God alone to be worshipped :—
 <p style="text-align:center;">SLOK XX</p>
 
 The one God is seen, the one God is heard, the one God is spoken of.
-Nanak beggeth the gift of His name: O compassionate Being, mercifully grant it to him. <span id="p382"><sup><small>[p. 382]</small></sup></span>
+Nanak beggeth the gift of His name: O compassionate Being, mercifully grant it to him. <span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 I worship the one God, I remember the one God, I make supplication to the one God.
 Nanak hath amassed the wealth of the Name, the real capital.
 
@@ -423,7 +423,7 @@ Yet he only suffereth pain like a forced labourer ; his wealth shall not be spen
 God implanteth His name in the heart of him to whom He is kind.
 Nanak, such a man yearneth for the society of the saints and obtaineth God’s love.
 
-<span id="p383"><sup><small>[p. 383]</small></sup></span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 A prayer to God :—
 
@@ -451,7 +451,7 @@ God’s name is all things to the Guru :—
 
 God’s name is the support of my soul ;
 By its use my life, soul, and mind are comforted.
-The Name is my caste, the Name is my lineage, the Name is my family ;<span id="p384"><sup><small>[p. 384]</small></sup></span>
+The Name is my caste, the Name is my lineage, the Name is my family ;<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 The Name is ever my companion ; God’s name delivereth me. :
 The pleasure of worldly things is much spoken of, but none of them shall depart with thee.
 The Name is my beloved and my friend ; God’s name is Nanak’s storehouse.
@@ -478,7 +478,7 @@ The Guru’s beatitude when singing of God :—
 
 When my tongue singeth of God, who is an ocean of merits,
 Peace, composure, and delight spring up in my heart, and all sorrows take flight.
-O man, whatever thou askest thou shalt obtain by worshipping God’s feet, the abode of pleasure. <span id="p385"><sup><small>[p. 385]</small></sup></span>
+O man, whatever thou askest thou shalt obtain by worshipping God’s feet, the abode of pleasure. <span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 They shall free thee from both birth and death, and carry thee across the terrible ocean of the world.
 Searching and searching I have ascertained that the real thing is to depend on God as His slave.
 If, O Nanak, thou desire everlasting happiness, ever remember God.
@@ -505,7 +505,7 @@ Thou hast not obtained the viaticum of the ambrosial Name.
 Thou hast fallen into the pits of lust, wrath, and worldly love.
 Nanak, through the favour of the Guru some rare man is saved.
 
-<span id="p386"><sup><small>[p. 386]</small></sup></span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 Serving the one God is the Guru’s‘sole occupation :—
 
@@ -538,7 +538,7 @@ Remember the Lord the Searcher of hearts; this is the best fruit of human birth.
 Holy men preach divine knowledge, but luckless fools understand it not.
 The slave Nanak is absorbed in love and devotion; by remembering God the filth of his sins hath been burnt.
 
-<span id="p387"><sup><small>[p. 387]</small></sup></span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 God’s saving name is obtained from the Guru :—
 
@@ -572,7 +572,7 @@ He who gave thee birth will support thee.
 He who created the earth will take care of thee.
 He is the Master and the true Cherisher of all hearts.
 His power and worth cannot be known ; He is great and unconcerned.
-Servant of God, do Him service as long as there is breath in thy body. <span id="p388"><sup><small>[p. 388]</small></sup></span>
+Servant of God, do Him service as long as there is breath in thy body. <span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 Thou, O God, art all-powerful, ineffable, inapprehensible ; the soul and body are Thy property.
 Nanak’s prayer ever is that by Thy mercy he may obtain happiness.
 
@@ -598,7 +598,7 @@ My Spouse hath made the ten organs of _action and reflection_ my slaves.
 I have put together all the things of the house,
 And with thirsty desire I long for my Beloved.
 What merits of my beloved Spouse shall I mention ?
-He is the wise, handsome, and compassionate God. <span id="p389"><sup><small>[p. 389]</small></sup></span>
+He is the wise, handsome, and compassionate God. <span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 I have put on chastity as my ornaments and applied the fear of God as a pigment to mine eyes.
 I chew the ambrosial Name as my betel ;
 My bracelets, my dress, mine ornaments admirably become me.
@@ -622,7 +622,7 @@ What can be accomplished by myself is nothing, O my inaccessible and infinite Lo
 What service shall I perform ? what shall I say to please Tiree?
 How shall I obtain a sight of Thee ?
 Thy measure cannot be ascertained ; Thy limit cannot be found ; my soul thirsteth for Thy feet.
-Becoming bold I pray to obtain this gift that the dust of the saints’ feet be applied to my face. <span id="p390"><sup><small>[p. 390]</small></sup></span>
+Becoming bold I pray to obtain this gift that the dust of the saints’ feet be applied to my face. <span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 The Guru extended mercy to his slave Nanak, so God reached him His hand and saved him.
 
 Man is swift to evil and slow to good :—
@@ -659,7 +659,7 @@ And is thereby swallowed up in a great pit.
 Hear Nanak’s prayer—
 O my God, save me, a sinking stone !
 
-<span id="p391"><sup><small>[p. 391]</small></sup></span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 The Guru’s self-sacrifice and abject servility to God’s saint :—
 
@@ -685,7 +685,7 @@ I am a sacrifice to Thy servants to whom Thy name is dear.
 All hopes are fulfilled when the Unapproachable and the Unequalled is obtained.
 Guru Nanak hath met the primal God, and is a sacrifice unto His feet.
 
-<span id="p392"><sup><small>[p. 392]</small></sup></span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 Salvation is only found in the Guru’s instruction which is open to all :—
 
@@ -712,7 +712,7 @@ Many come and go, die and are born again.
 Without knowing God all is vain and men wander in wombs.
 They to whom God is merciful, obtain the society of the saints,
 And repeat God’s name which is ambrosia.
-Millions, yea, countless and endless persons search _for God_ ; <span id="p393"><sup><small>[p. 393]</small></sup></span>
+Millions, yea, countless and endless persons search _for God_ ; <span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 But God is near him whom He causeth to know Him. Forget me not, O Bountiful One; grant me Thy name. It is Nanak’s pleasure to repeat Thy praises day and night.
 
 <p style="text-align:center;">CHHANT</p>
@@ -743,7 +743,7 @@ The slave Nanak taketh the protection of Him whose word is eternal and incompara
 
 Advantages of meeting the Guru and his saints :—
 
-The cripple can cross over a mountain, the blockhead become an accomplished preacher, <span id="p394"><sup><small>[p. 394]</small></sup></span>
+The cripple can cross over a mountain, the blockhead become an accomplished preacher, <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 And the blind see the three worlds on meeting the pure Guru.
 
 O my friends, hear the advantage of the company of the saints—
@@ -769,7 +769,7 @@ Preserve me from doubt, fear, and worldly love, and cut away Death’s noose.
 I implore Thee, O Lord of mercy, O Father, to cherish me!
 O Abode of happiness, let Nanak sing Thy praises in the company of the saints.
 
-<span id="p395"><sup><small>[p. 395]</small></sup></span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Abase thyself before the saint of God :—
 
@@ -829,7 +829,7 @@ The Guru describes his love for God :—
 
 O God, there is none but Thee.
 The love of my heart _for Thee is like that of_ the chakor for the moon,
-Or the love of the fish for the water. <span id="p397"><sup><small>[p. 397]</small></sup></span>
+Or the love of the fish for the water. <span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 As the bumble-bee forsaketh not the lotus,
 As the chawki desireth the sun,
 So Nanak thirsteth for God’s feet.
@@ -863,7 +863,7 @@ Man, even when captivated by the world, shall be saved by seeking God’s protec
 
 O man, thou art caught like a fish or a monkey ; thou art captivated with the dye of the safflower.
 The movements of thyfeet and thy breathings are counted; thou shalt only be saved if thou sing God’s praises.
-O man, understand this and cease thy perversity.<span id="p398"><sup><small>[p. 398]</small></sup></span>
+O man, understand this and cease thy perversity.<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 Canst thou not find a place to dwell in at home? why goest thou to others’ houses ? [^12]
 Impelled like an elephant by the pleasure of lust, thou remainest attached to thy family.
 As birds meet together and again separate, _so thou too shalt be separated from thy people, but thou shalt obtain_ a firm abiding-place if in association with the saints thou meditate on God.
@@ -888,7 +888,7 @@ God will embrace and defend him
 Who falleth under His protection.
 He who is very proud
 Shall in a moment be blended with the dust.
-I am ever and ever a sacrifice to Him <span id="p399"><sup><small>[p. 399]</small></sup></span>
+I am ever and ever a sacrifice to Him <span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 Who is, was, and shall be the true One. God hath mercy and protecteth His slaves : He is the support of Nanak’s soul.
 
 God described by negatives :—
@@ -922,7 +922,7 @@ Have mercy upon me, O Bountiful to the poor, and think not at all of my merits o
 Why should we wash clay ? O Lord, to be unclean is the condition of man.[^14]
 O my soul, serve the True Guru, and thou shalt be happy.
 Thou shalt obtain whatever thou mayest desire, and not again feel sorrow.
-God fashioned us frail vessels, put His light within us, and cherisheth us. <span id="p400"><sup><small>[p. 400]</small></sup></span>
+God fashioned us frail vessels, put His light within us, and cherisheth us. <span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 We act as theCreator predestined for us from the beginning.
 Man claimeth his soul and body to be entirely his own ; hence his transmigration.
 He thinketh not on Him who gave them; he is blindly wrapped up in worldly love.
@@ -948,7 +948,7 @@ Thou art wise, Thou art immovable, Thou art my caste, Thou art my lineage.
 Thou art unwavering, Thou waverest never; then how can I feel anxiety ?
 Thou alone art the one God ;
 Thou alone art the one King.
-Through Thy mercy I have obtained happiness. <span id="p401"><sup><small>[p. 401]</small></sup></span>
+Through Thy mercy I have obtained happiness. <span id="p401"><sup><small>[ p. 401 ]</small></sup></span>
 Thou art a lake; we are Thy swans; in Thee are gems and rubies.
 Thou art the Giver; Thou hesitatest not at all; we eat _from Thy hands_ and are ever happy.
 We are children, Thou art our Father, Thou puttest milk into our mouths.
@@ -967,7 +967,7 @@ Let thine arena be the whole earth, the firmament above its canopy,
 And the breath the sole manager.
 From the water and the other elements God created a puppet to which acts are attached.
 In the four corners of the earth God lit up and placed Both the moon and sun as lamps.[^15]
-There are ten dancing girls[^16] and five accompanists [^17] together in one chamber.[^18] <span id="p402"><sup><small>[p. 402]</small></sup></span>
+There are ten dancing girls[^16] and five accompanists [^17] together in one chamber.[^18] <span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 They separately gesticulate and all speak different tongues.
 In every house there is dancing day and night, and in every heart the trumpets [^19] sound.
 God causeth one man to dance in secular occupations, another He diverteth therefrom, and a third He debaseth by transmigration.
@@ -991,7 +991,7 @@ The rosary thus formed revolved in many ways.[^24]
 When God draweth the string, they all come together.[^25]
 From the four elements the body [^26] was constructed.
 In it there were difficult passages and many windows.[^27]
-When the Jogi cometh searching and searching to God’s door, <span id="p403"><sup><small>[p. 403]</small></sup></span>
+When the Jogi cometh searching and searching to God’s door, <span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 Then, O Nanak, he shall find God’s private apartment. Thus shall his kinguri play an unequalled strain : On hearing it the Jogi’s mind will be pleased.
 
 The Guru recommends God’s love instead of the practice of Jog :—
@@ -1020,7 +1020,7 @@ The following was addressed to a _ tyrannical official :-—
 Thou amassest wealth by causing misery ;
 But it shall not avail thee ; it shall only benefit others. Thou practisest pride and actest like a blind man ;
 Thou shalt be bound by Death’s halter in the next world. Dismiss thy jealousy of others, O fool.
-Thou hast but one night to stay here : <span id="p404"><sup><small>[p. 404]</small></sup></span>
+Thou hast but one night to stay here : <span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 Though intoxicated with wealth thou must depart ;
 Yet thou continuest to love vanities.
 In the period of childhood one is heedless ;
@@ -1054,7 +1054,7 @@ The Supreme Being is without limit.
 Only God knoweth His own state ;
 Men merely speak of Him from hearsay.
 Shiv knoweth not His secret ;
-The demigods have grown weary searching for Him ; <span id="p405"><sup><small>[p. 405]</small></sup></span>
+The demigods have grown weary searching for Him ; <span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 The goddesses know not His secret ;
 The unseen Supreme Being is over all.
 God playeth according to His pleasure :
@@ -1089,7 +1089,7 @@ My heart became the dust of the saints’ feet.
 God with His lotus hand hath attached me to His skirt.
 Nanak hath become absorbed in the Truest of the True.
 
-<span id="p406"><sup><small>[p. 406]</small></sup></span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 <p style="text-align:center;">ASHTAPADI</p>
 
@@ -1128,7 +1128,7 @@ Wherever thou lookest, there is He.
 The heart is slow to serve Him ;
 But by forgetting Him man cannot abide for a moment.
 We are sinners and without merits ;
-We do no service or good deeds. <span id="p407"><sup><small>[p. 407]</small></sup></span>
+We do no service or good deeds. <span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 The boat of the Guru is only found by good fortune.
 Nanak, a stone floateth over by associating with the saint.
 

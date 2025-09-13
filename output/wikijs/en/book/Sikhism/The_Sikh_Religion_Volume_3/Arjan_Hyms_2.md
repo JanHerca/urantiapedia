@@ -50,7 +50,7 @@ Nanak’s supplication is, ‘ Mercifully grant me Thy name ;
 In Chet worship God and you shall greatly rejoice.
 You shall obtain Him by meeting saints and repeating His name.
 It is only those who have found their God, whose advent into the world is of account :
-Vain is his birth who liveth even for a moment without Him.<span id="p125"><sup><small>[p. 125]</small></sup></span>
+Vain is his birth who liveth even for a moment without Him.<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 God is equally contained in sea and land, the nether regions, the firmament, and the forests.
 With how much pain shall man reckon if God enter not his heart ?
 They who repeat God’s name are very fortunate.
@@ -73,7 +73,7 @@ God’s name is like gems and pearls which none may steal.
 In God are all the loves which delight the mind.
 What God desireth He doeth, and creatures act according to His will.
 They whom God hath made His own are blest.
-Could men on their own account[^1] meet God, why should they weep in separation ? <span id="p126"><sup><small>[p. 126]</small></sup></span>
+Could men on their own account[^1] meet God, why should they weep in separation ? <span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 Nanak, God is obtained by association with the saints; and they who obtain Him are happy.
 In Jeth the playful God is obtained by the fortunate for whom it hath been so recorded.
 
@@ -94,7 +94,7 @@ Pleasant are the drops of God’s nectar; he shall drink them who meeteth saints
 The woods and glades rejoice with God the omnipotent and unequalled.
 My mind longeth to meet God; His favour shall cause me to meet Him.
 I am ever a sacrifice to my companions who have met God.
-Nanak, God mercifully regenerateth men with the Word.<span id="p127"><sup><small>[p. 127]</small></sup></span>
+Nanak, God mercifully regenerateth men with the Word.<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 Sawan is pleasant for those who clasp God’s name to their hearts.
 
 In Bhadon she who loveth mammon is lost in doubt.
@@ -117,7 +117,7 @@ They whom God the Spouse united with Himself shall never be separated from Him.
 Nanak, there is no other shelter than God.
 In Assu they dwell happy to whom God showeth mercy.
 
-In Kartik they who do bad acts cannot impute the blame to others. They who forget God suffer from every disease. <span id="p128"><sup><small>[p. 128]</small></sup></span>
+In Kartik they who do bad acts cannot impute the blame to others. They who forget God suffer from every disease. <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 They who have turned their faces from God, are separated from Him at every birth.
 All the sweets of mammon become bitter for them in a moment.
 No one will mediate for them; to whom shall they make their daily complaints ?
@@ -137,7 +137,7 @@ Nanak desireth the dust of the feet of those who fall for shelter at God’s doo
 They who worship God in Maghar shall never be born again.
 
 In Poh cold shall never be felt by those whom the Lord God hath embraced. God’s lotus feet have entered my heart, and I desire to
-behold Him. Take shelter in God and His service shall be thy gain.<span id="p129"><sup><small>[p. 129]</small></sup></span>
+behold Him. Take shelter in God and His service shall be thy gain.<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 On meeting the holy sing God’s praises and sin shall not affect thee.
 Thou shalt be blended with what thou hast sprung from; wherefore be absorbed in true love.
 He whom the Supreme Being hath taken by the hand shall never be separated from Him.
@@ -160,7 +160,7 @@ The saints who render man assistance with God have mercifully blended me with Hi
 Since then my couch is beautiful ; I possess all happiness, and there is no room for sorrow.
 My desires have been fulfilled ; I am very fortunate in having obtained God as my Spouse.
 My companions, come to me, sing a song of rejoicing, and chant the hymns of the Lord.
-Nobody appeareth like God; no one is equal to Him.<span id="p130"><sup><small>[p. 130]</small></sup></span>
+Nobody appeareth like God; no one is equal to Him.<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 He hath prepared for me this world and the next, and given me a stable position.
 He hath rescued me from the ocean of the world, and I shall not again have to run through births.
 My tongue is but one, while manifold are His attributes : Nanak is saved by falling at His feet :
@@ -185,7 +185,7 @@ There is no comfort in the house _whose master saith_ ‘All this wealth is mine
 Nor _in dwelling_ in a lofty and beautifully built mansion.
 In such deceptive avarice man loseth his human life.
 He is pleased on beholding his elephants and his horses,
-The assemblage of his army, his mace-bearers, and his servants ;<span id="p131"><sup><small>[p. 131]</small></sup></span>
+The assemblage of his army, his mace-bearers, and his servants ;<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 _But on their account_, there is a halter of pride round his neck.
 Were man to rule over the whole world,
 Enjoy pleasures and embrace many women,
@@ -218,7 +218,7 @@ Man after long transmigration having obtained human birth, ought to endeavour to
 In how many births wert thou a worm or a moth !
 In how many births an elephant, a fish, or a deer !
 In how many births a bird or a serpent !
-In how many births wert thou yoked as‘a horse or an ox!<span id="p132"><sup><small>[p. 132]</small></sup></span>
+In how many births wert thou yoked as‘a horse or an ox!<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 Meet the Lord of the world—this is the time to meet Him.
 After a long period this human body hath been formed ror thee:
 In how many births wert thou created in rocks and mountains !
@@ -247,7 +247,7 @@ And thou shalt obtain honour at His court.
 Abandon all thy tricks and devices of speech,
 And cling to the feet of holy men.
 He in whose power all men are,
-Shall never be separated from us, but shall be with us alway.<span id="p133"><sup><small>[p. 133]</small></sup></span>
+Shall never be separated from us, but shall be with us alway.<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 Abandon shifts; grasp His protection,
 And in a moment thou shalt obtain deliverance. Know that He is ever near thee.
 Receive God’s commands as true and obey them. Under the Guru’s instruction efface thyself
@@ -281,7 +281,7 @@ Thou shalt become very pure and obtain enduring [^5] happiness.
 By good fortune the society of holy men is obtained,
 And love to the Supreme Being produced.
 God saveth His servants who repeat His name,
-And conducteth them across the great sea of fire.<span id="p134"><sup><small>[p. 134]</small></sup></span>
+And conducteth them across the great sea of fire.<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 By singing God’s praises the heart is refreshed,
 And the sins of many births blotted out.
 I behold in my heart God’s whole treasure ;
@@ -320,7 +320,7 @@ Thou hast no end or limits.
 Bestow this boon upon Thy slave Nanak,
 That he may never forget Thy name.
 
-<span id="p135"><sup><small>[p. 135]</small></sup></span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 They who without service to God are attached to mammon shall regret when it is too late :—
 
@@ -349,7 +349,7 @@ Nanak, offer thy supplication unto Him.
 Men in previous births held high positions, but are not now happy until saints tell them of God :—
 
 I have seen many forms and species of mammon ;
-With my pen I have written ingenious things on paper ; I have known what it is to be a chief, a king, a lord ; But with all that my mind was not satisfied.<span id="p136"><sup><small>[p. 136]</small></sup></span>
+With my pen I have written ingenious things on paper ; I have known what it is to be a chief, a king, a lord ; But with all that my mind was not satisfied.<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 O, ye saints, show me that comfort,
 By which my thirst may be quenched and my mind satisfied.
 I had fleet horses and elephants to ride on,
@@ -383,7 +383,7 @@ The fool drinketh what is deadly poison for him,
 And deemeth bitter the ambrosial Name.
 He never approacheth the company of the saints ;
 He wandereth through the eighty-four lakhs of existences.
-Birds after enjoying pleasures of various descriptions,<span id="p137"><sup><small>[p. 137]</small></sup></span>
+Birds after enjoying pleasures of various descriptions,<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 Are all caught in the same net.[^7]
 Saith Nanak, the perfect Guru hath cut the net
 For whomsoever he is merciful.[^8]
@@ -418,7 +418,7 @@ My beloved tongue, drink the nectar of _God’s name_:
 Steeped in this relish thou shalt be satiated.
 O my tongue, sing thou God’s praises ;
 Every moment meditate on God.
-The association of the saints is obtained by good fortune :<span id="p138"><sup><small>[p. 138]</small></sup></span>
+The association of the saints is obtained by good fortune :<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 Go to none but them, and hear no words but theirs.[^9]
 During the eight watches, O my tongue, adore
 The supreme God, the unfathomable Lord,
@@ -450,7 +450,7 @@ The true one hath shown me the priceless jewel.
 Saith Nanak, by faith in the Guru
 He will mercifully blend us with the Merchant.
 
-<span id="p139"><sup><small>[p. 139]</small></sup></span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 The saints’ occupation, attributes, and praises :—
 
@@ -483,7 +483,7 @@ She is contained _in the world_ in various forms.
 O God, the saints live by Thy protection, _and are not subject to Maya_.
 Maya is contained in him who is intoxicated with intellectual pride ;
 She is contained in him who is attached to children and wife ;
-She is contained in elephants, horses, and other animals ;<span id="p140"><sup><small>[p. 140]</small></sup></span>
+She is contained in elephants, horses, and other animals ;<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 She is contained in him who is intoxicated with the wine of beauty and youth ;
 She is contained in kings, in the poor, _and in those addicted to_ pleasures ;
 She is contained in the songs and musical instruments heard at assemblies ;
@@ -547,7 +547,7 @@ The advantages of repeating and writing God’s name :—
 Ever repeat God’s praises with thy tongue,
 And thou shalt obtain happiness, O my brother and friend. Write with pen, paper, and ink
 The ambrosial word of God’s name.
-Thy hand shall then become pure,<span id="p142"><sup><small>[p. 142]</small></sup></span>
+Thy hand shall then become pure,<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 And the entanglements of Maya shall be destroyed.
 By thus acting all thy sins shall depart.
 By remembering God Death shall not punish thee ;
@@ -583,7 +583,7 @@ What speech is that, O supreme God, by which I may please Thee ?
 What worship of Thine shall I perform °
 What way is that by which I may cross the terrible ocean ?
 What is that penance by which I may become penitent ?
-What is that Name by which the filth of pride may be washed away ?<span id="p143"><sup><small>[p. 143]</small></sup></span>
+What is that Name by which the filth of pride may be washed away ?<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 Skill, worship, divine knowledge, meditation, _and the fruit_ of all his toil
 Are obtained by him, O Nanak, whom the compassionate true Guru kindly meeteth.
 It is such a man who possesseth excellence ; it is he who knoweth God ;
@@ -618,7 +618,7 @@ Man eateth many species of food like a beast ;
 He is bound like a thief by the rope of worldly love ; His mortal body without the company of the saints
 Is tortured in the womb by transmigration.
 He weareth beautiful clothes of various sorts
-Like a scarecrow in the fields to frighten _animals away_.<span id="p144"><sup><small>[p. 144]</small></sup></span>
+Like a scarecrow in the fields to frighten _animals away_.<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 The bodies of all creatures are of use,
 But man’s is useless unless he utter the Name.
 Saith Nanak, he to whom God is merciful
@@ -652,7 +652,7 @@ Nanak, they _who find Him_ bear good fruit.
 
 They who seek God aright have no fear :—
 
-The whole world is sunk in fear ; But he who hath the Name for his support hath no fear. He, O Lord, who taketh Thy protection feareth not :<span id="p145"><sup><small>[p. 145]</small></sup></span>
+The whole world is sunk in fear ; But he who hath the Name for his support hath no fear. He, O Lord, who taketh Thy protection feareth not :<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 What pleaseth Thee must be done.
 They who mourn and rejoice suffer transmigration, While they who are pleasing to the Lord obtain comfort. Maya pervadeth this fiery ocean _of the world_ :
 They who have found the true Guru have recovered.
@@ -682,7 +682,7 @@ He who uttereth words of nectar while in his heart is poison,
 Shall be bound and punished in Death’s city.
 The sins which man committeth behind many screens
 Shall in a moment be laid bare to the world.
-Nanak, God will be merciful to him<span id="p146"><sup><small>[p. 146]</small></sup></span>
+Nanak, God will be merciful to him<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 In whose heart is the truth, and who is dyed with the love of the Name.
 
 Man ought to show his gratitude to God by remembering Him :—
@@ -718,7 +718,7 @@ Who practise repetition of God’s name with their tongues.
 Nanak is many times a sacrifice unto them—
 Profitable is a sight of my God.
 
-<span id="p147"><sup><small>[p. 147]</small></sup></span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 The advantage of listening to divine instruction :—
 
@@ -751,7 +751,7 @@ Meditation on God and obedience to His word are potent for salvation :—
 The mortal, whether learned or unlearned,
 Who meditateth on God, attaineth the supreme state. In the company of the saints remember God. Without the Name false is wealth and property.
 He who obeyeth the voice of God
-Is handsome, clever, and wise.<span id="p148"><sup><small>[p. 148]</small></sup></span>
+Is handsome, clever, and wise.<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 Profitable is his advent into the world
 Who recognizeth his Lord in every heart
 Saith Nanak, he who is very fortunate
@@ -785,7 +785,7 @@ Nanak’s God is the support of the soul.
 
 The following was addressed to a hypocritical Brahman :—
 
-Thou openest thy waistcloth, and spreadest some of it beneath thee ;<span id="p149"><sup><small>[p. 149]</small></sup></span>
+Thou openest thy waistcloth, and spreadest some of it beneath thee ;<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 Thou loadest thy belly like a donkey ;
 But without good works, deliverance is not obtained—
 The boon of deliverance is granted to meditation on the Name.
@@ -840,7 +840,7 @@ Thou who causest Thy saints to cross over the ocean of fear—Nanak holdeth Thy 
 Without the Guru man has not wherewithal to recommend him to God :—
 
 By what virtue shall I meet the Lord of the soul,[^19] O my mother ?
-I possess no beauty, no understanding, no strength; I am a stranger come from afar.<span id="p151"><sup><small>[p. 151]</small></sup></span>
+I possess no beauty, no understanding, no strength; I am a stranger come from afar.<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 I have not wealth or the glory of youth ; friendless that I am, unite me, O God, with Thee.
 Searching and searching I have renounced the world ; I wander thirsting for a sight of Thee.
 Compassionate to the poor, O merciful God, Nanak prayeth—quench my thirst with the society of the saints.
@@ -889,7 +889,7 @@ My Beloved? Thou art the support of the soul.
 Only Thou knowest the state of my heart; Thou art my friend and companion.
 I have obtained all happiness from Thee; Thou art intangible and unequalled.
 I cannot describe Thy play, O ocean of merits, Bestower of happiness.
-The unapproachable, invisible, and imperishable God is known by means of the perfect Guru.<span id="p153"><sup><small>[p. 153]</small></sup></span>
+The unapproachable, invisible, and imperishable God is known by means of the perfect Guru.<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 Since I have destroyed pride, God hath banished my doubts and fears, and made me completely happy.
 By showing me the company of the saints Thou hast put an end to my anxiety regarding transmigration.
 I wash their feet; I serve the Guru and offer myself a sacrifice a hundred thousand times to him
@@ -913,7 +913,7 @@ A Jogi came to the Guru and asked him if he had learned the science of Jog. The 
 The way of Jog I have heard from my Guru ;
 The true Guru hath communicated to me the Word.
 Every moment I bow before Him who is contained in the nine regions of the earth and in this body.
-I have made the Guru’s instruction mine earrings, and have set up the one God _in my heart_.<span id="p154"><sup><small>[p. 154]</small></sup></span>
+I have made the Guru’s instruction mine earrings, and have set up the one God _in my heart_.<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 The five pupils collectively I have placed under the control of One.[^21]
 When the organs of perception and action were obedient, then I became a pure Jogi.
 I burnt superstition and applied its ashes to my body ; the sight of the one God I made my sect.
@@ -931,7 +931,7 @@ Causer of causes, everything art Thou; Thou art omnipotent ; there is none besid
 Only Thou Thyself knowest Thine own state and condition ; they who are so destined [^23] become Thy worshippers.
 Thou, O God, lovest Thy worshippers: Thou art contained in them as the warp and woof.
 They long for Thy very beloved name and a sight of Thee, as the chakor longeth for the moon.
-There is no difference between God and His saints; but out of hundreds of thousands and millions there is only one real servant of God.<span id="p155"><sup><small>[p. 155]</small></sup></span>
+There is no difference between God and His saints; but out of hundreds of thousands and millions there is only one real servant of God.<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 He in whose heart God is manifested repeateth His praises night and day.
 O God, Thou art omnipotent, infinite, the Most High, the Giver of comfort and the Prop of life.
 O God, mercifully grant Nanak the companionship of the saints.
@@ -961,7 +961,7 @@ The Treasure of mercy gave me, Nanak, the company of the saints by which I am sa
 Man, groping in the darkness of worldlylove, desires the light of divine knowledge to dawn for him :—
 
 Is there any one who will dispel man’s pride,
-<span id="p156"><sup><small>[p. 156]</small></sup></span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 And turn his heart away from sweet mammon ?
 Man hath become spiritually ignorant ; he desireth what existeth not.
 His night is dark and gloomy ; how can morning dawn for him ?
@@ -984,7 +984,7 @@ Nanak, by singing God’s praises the Guru shall unlock thy fetters, and thou sh
 The following was written by the Guru on hearing that a raja was preparing an expedition to seize another raja’s territory :—
 
 The thirst of only a few is slaked.
-Man amasseth thousands and millions, but restraineth not his mind ;<span id="p157"><sup><small>[p. 157]</small></sup></span>
+Man amasseth thousands and millions, but restraineth not his mind ;<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 He is burning for more and more.
 Though possessing beautiful women of many races, he committeth adultery in other men’s houses.
 He distinguisheth not between bad and good.
@@ -1015,7 +1015,7 @@ Saith Nanak, Thou art to me the nearest _and dearest_ of all.
 
 The Guru gives the opinion of holy men as to the means of salvation :—
 
-They who dwell under the sovereign Lord’s protection shall be saved :<span id="p158"><sup><small>[p. 158]</small></sup></span>
+They who dwell under the sovereign Lord’s protection shall be saved :<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 All others fall to the ground from the lofty heights of mammon.
 Great men after the study of the Shastars, the Simritis, and the Veds, have thus expressed themselves—
 ‘There is no salvation, nor hath any one found comfort without the repetition of God’s name.’
@@ -1035,7 +1035,7 @@ In the next world the coin is different, my brother ; this coin will be of no us
 He who batheth at a place of pilgrimage and wandereth over the earth, shall find no abiding place hereafter.
 Such things shall avail him not; he merely pleaseth people thereby.
 Man shall not hereafter find a place in God’s court by reciting the four Veds.
-He who knoweth not the Pure and Imperishable One,[^25] uttereth sheer nonsense.<span id="p159"><sup><small>[p. 159]</small></sup></span>
+He who knoweth not the Pure and Imperishable One,[^25] uttereth sheer nonsense.<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 Nanak hath expressed this opinion ; he who acteth on it shall be saved.
 Serve the Guru, meditate on God’s name, and dismiss pride from thy heart.
 
@@ -1064,7 +1064,7 @@ O my soul, sing God’s delicious praises; sing God’s delicious praises.
 Attached to the True One, the homeless obtain a home.
 All other relishes are insipid and render body and soul insipid,
 Accursed is his life who doeth aught contrary to God’s will.
-Grasp the saint’s skirt and thou shalt cross over the ocean.<span id="p160"><sup><small>[p. 160]</small></sup></span>
+Grasp the saint’s skirt and thou shalt cross over the ocean.<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 Adore the supreme God, and all thy family shall be saved.
 He who putteth God’s name into my heart is my saint, my kinsman, my friend ;
 He bestoweth on me the favour of blotting out all my demerits.
@@ -1096,7 +1096,7 @@ There is no difference between him and the Supreme.
 From the moment that man recognizeth a difference,
 He suffereth pain, punishment, and affliction.
 From the moment that man knoweth the one God,
-He hath obtained all knowledge.<span id="p161"><sup><small>[p. 161]</small></sup></span>
+He hath obtained all knowledge.<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 When man runneth after mammon,
 He findeth it not, nor doth his thirst depart.
 When man fleeth from mammon,
@@ -1131,7 +1131,7 @@ Rosaries, frontal marks, purely cooked victuals,
 Loin cloths, prostrations, raiment, food,
 Shall pass away with all men.
 Race, caste, Musalmans, Hindus,
-Beasts, birds, animals of different species,<span id="p162"><sup><small>[p. 162]</small></sup></span>
+Beasts, birds, animals of different species,<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 All the visible creation,
 And all forms of existence shall perish.
 By praising and serving God real divine knowledge is _obtained_,
@@ -1158,7 +1158,7 @@ And banisheth his love of mammon, he accomplisheth raj jog.[^26]
 He who so divesteth himself, shall have no, fear ;
 He who so divesteth himself, shall be absorbed in the Name ;
 He who so divesteth himself, shall have his thirst extinguished ;
-He who so divesteth himself, shall be acceptable in God’s court ;1 <span id="p163"><sup><small>[p. 163]</small></sup></span>
+He who so divesteth himself, shall be acceptable in God’s court ;1 <span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 He who so divesteth himself, shall become wealthy ;
 He who so divesteth himself, shall be honoured ;
 He who so divesteth himself, shall become continent ;
@@ -1186,7 +1186,7 @@ Shall, saith Nanak, meditate on God.
 
 He who embraces a holy life. shall obtain everything that is prized :—
 
-He who attacheth himself to God findeth a friend in everybody ; He who attacheth himself to God hath a stable mind ; He who attacheth himself to God feeleth no anxiety ; <span id="p164"><sup><small>[p. 164]</small></sup></span>
+He who attacheth himself to God findeth a friend in everybody ; He who attacheth himself to God hath a stable mind ; He who attacheth himself to God feeleth no anxiety ; <span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 He who attacheth himself to God shall be saved.
 O my soul, unite thyself with God ;
 Naught else shall avail thee.
@@ -1220,7 +1220,7 @@ Without remembering God man is on a level with everything that is low and base :
 He who remembereth not God, leadeth the life of a snake.[^28]
 So liveth the infidel who forgetteth the Name.
 He who liveth remembering God even for a moment, Shall live for millions of days, yea, for ever.
-Cursed be the acts done without remembering God !<span id="p165"><sup><small>[p. 165]</small></sup></span>
+Cursed be the acts done without remembering God !<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 _The infidel_ like a crow’s beak dwelleth in filth:
 Without remembering the Name his desires are those of a dog.
 The infidel is nameless like a prostitute’s son ;
@@ -1252,7 +1252,7 @@ Shall go to hell even though he perform millions of ceremonies.
 He who remembereth not God’s name in his heart,
 Shall be bound like a thief in the realm of Death.
 There might be hundreds of thousands of displays and great profusion,
-Yet without the Name they would all be vain ostentation.<span id="p166"><sup><small>[p. 166]</small></sup></span>
+Yet without the Name they would all be vain ostentation.<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 That man repeateth God’s name To whom, O Nanak, He mercifully granteth it.
 
 What God the Friend does for man :—
@@ -1282,7 +1282,7 @@ Through pleasures, social gatherings, and the gratification of evil passions, ma
 His whole life passeth away saying, ‘I hoard, I earn ;
 I am a hero, I am distinguished ; no one is equal to me ;
 I am young, religious, of good family ’; thus pride entereth his heart,
-And he forgetteth it not until death, so entangled is he in his boastful [^30] intellect.<span id="p167"><sup><small>[p. 167]</small></sup></span>
+And he forgetteth it not until death, so entangled is he in his boastful [^30] intellect.<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 He resigneth _his wealth_ to his brothers, friends, kinsmen, and companions who survive him.
 The desire to which the mind is attached becometh supreme at the last hour.
 If man perform purifications through pride, he becometh bound by such entanglements.
@@ -1305,7 +1305,7 @@ Having renounced the world I thirst for a sight of His feet ; I look for them ev
 To find the omnipresent Being I will trace His tracks in the company of the saints.
 Nanak, the holy men who have found the Giver of comfort are very fortunate.
 O my companions, I now dwell with my beloved Spawe; and my soul and body have become attached to Him.
-Hear me, O my companions, I sleep well since I have found my Beloved.<span id="p168"><sup><small>[p. 168]</small></sup></span>
+Hear me, O my companions, I sleep well since I have found my Beloved.<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 I have lost my doubts, I have obtained peace and rest ; the Lord hath appeared unto me, and the lotus of my heart hath blossomed.
 I have found my Husband, the Lord, the Searcher of hearts; O Nanak, my married state shall never cease.
 

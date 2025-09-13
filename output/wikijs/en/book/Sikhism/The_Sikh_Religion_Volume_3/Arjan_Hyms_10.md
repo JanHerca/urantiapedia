@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:8:26Z
   </table>
 </figure>
 
-<span id="p430"><sup><small>[p. 430]</small></sup></span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 ## SAHASKRITI SLOKS OF GURU ARJAN
 
@@ -89,7 +89,7 @@ He is called a holy man and perfect saint who is filled with the following six f
 Who possesseth the spell of God’s name, and meditateth on Him who filleth every place ;
 Who deemeth woe and weal as the same, and whose life is pure and without enmity ;
 Who is compassionate to all creatures, and who hath expelled the five deadly sins ;
-Who subsisteth on God’s praises, and who abideth in the world untouched by it as the lotus in the water ; <span id="p432"><sup><small>[p. 432]</small></sup></span>
+Who subsisteth on God’s praises, and who abideth in the world untouched by it as the lotus in the water ; <span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 Who instructeth friend and enemy alike, who loveth God’s Service ;
 Who heareth not slander of others, and abandoning pride becometh the dust of all men’s feet.
 
@@ -109,7 +109,7 @@ Thou takest sinful mortals in thy power, and causest them to dance like monkeys.
 By association with thee man is debased : the myrmidons of Death inflict various punishments on him.
 Nanak prayeth, O Destroyer of the sorrows of the poor, merciful God, preserve all creatures from wrath.
 
-O thievish covetousness, thou playest many a prank with the great. <span id="p433"><sup><small>[p. 433]</small></sup></span>
+O thievish covetousness, thou playest many a prank with the great. <span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 Through thee the wandering mind greatly wavereth in every way and manner.
 Thou hast no respect for friend, or lover, or relation, or parent.
 What ought not to be done thou doest ; what ought not to be eaten thou eatest ; what ought not be to made, thou makest—such is thy reputation.
@@ -133,7 +133,7 @@ God’s power :—
 The power with which God supported the firmament, and enclosed fire in timber ;
 The power with which He supported the moon, the sun, and the lunar mansions, and infused light and breath into the body ;
 
-The power with which He cherished the embryo in the mother’s womb and protected it from the fire of its dwelling— <span id="p434"><sup><small>[p. 434]</small></sup></span>
+The power with which He cherished the embryo in the mother’s womb and protected it from the fire of its dwelling— <span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 With the same power, O Nanak, God restrained His seas and allowed not the world to be wasted by their waves.
 
 By devotion apparent impossibilities may be accomplished. This couplet is recited by gyanis as an introduction to the reading of the Granth Sahib :—
@@ -166,7 +166,7 @@ Nanak, the ignorant are proud of the fat, blood, foul odours, and bones of which
 
 <p style="text-align:center;">2</p>
 
-Were man to traverse with his eye the sky, the continents, the worlds, <span id="p435"><sup><small>[p. 435]</small></sup></span>
+Were man to traverse with his eye the sky, the continents, the worlds, <span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 And its regions even to the smallest particle thereof, O Nanak, nothing could be obtained without the saint.
 
 <p style="text-align:center;">3</p>
@@ -203,7 +203,7 @@ Nanak, without the Name there is suffering ; man’s days and nights pass in tra
 The very fortunate who love the association of saints obtain God.
 Nanak, he who repeateth God’s name and praises returneth not to the ocean of the world. 
 
-<span id="p436"><sup><small>[p. 436]</small></sup></span>
+<span id="p436"><sup><small>[ p. 436 ]</small></sup></span>
 
 <p style="text-align:center;">10</p>
 
@@ -243,7 +243,7 @@ Which is obtained by primal destiny.
 As the spell of the snake-charmer draweth the fangs of the serpent,
 So, Nanak, the saint who is found by good fortune removeth misery.
 
-<span id="p437"><sup><small>[p. 437]</small></sup></span>
+<span id="p437"><sup><small>[ p. 437 ]</small></sup></span>
 
 <p style="text-align:center;">17</p>
 
@@ -280,7 +280,7 @@ The saints remove all sin and implant all faith in the heart ; Nanak, they on wh
 
 God was, is, and shall be; it is He who destroyeth and createth all things. Nanak, know for certain that holy men are the cause of God’s love.
 
-<span id="p438"><sup><small>[p. 438]</small></sup></span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 Man loveth not the Word which conferreth happiness ; he is attached to _fleeting things like_ the safflower dye;
 Nanak, he obtaineth not spiritual happiness even in a dream: disease, sorrow, and separation from God are his portion.
@@ -310,7 +310,7 @@ She may take the sixteen decorations and apply anjan to her eyes ;
 Yet it is only when the spouse visiteth her she obtaineth everything.
 O Harihan, without the Spouse all decorations are vain.
 
-<span id="p439"><sup><small>[p. 439]</small></sup></span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 <p style="text-align:center;">4</p>
 
@@ -343,7 +343,7 @@ And in whose hand, O Harihan, ever abide wealth, perfection, and the nine treasu
 <p style="text-align:center;">8</p>
 
 He who goeth to enjoy another’s wife shall be put to shame.
-How long shall the sins of those who continually steal others’ property be concealed ? <span id="p440"><sup><small>[p. 440]</small></sup></span>
+How long shall the sins of those who continually steal others’ property be concealed ? <span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 By repeating God’s praises man becometh pure and saveth all his family.
 Harihan, by also hearing the supreme God’s praises and meditating on Him, man becometh pure.
 
@@ -405,7 +405,7 @@ And, Harihan, thou shalt obtain the perfect Guru who is the destroyer of great s
 
 <p style="text-align:center;">17</p>
 
-The true Guru hath conferred gifts which are never exhausted. <span id="p442"><sup><small>[p. 442]</small></sup></span>
+The true Guru hath conferred gifts which are never exhausted. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 God being pleased bestoweth the wealth of the ambrosial Name,
 By eating and enjoying which all pious persons shall be saved.
 Nanak, ever worship Him and thou shalt never die.
@@ -439,7 +439,7 @@ Therefore, O ignorant man, remember the one God who will assist thee.
 Harihan, without the Name the body is dirt, and everything is vain.
 
 <p style="text-align:center;">2</p>
-Drink the medicine of the unequalled and priceless Name : The saints eat the ambrosia of God’s name in company, and give it to all _to partake thereof_. <span id="p443"><sup><small>[p. 443]</small></sup></span>
+Drink the medicine of the unequalled and priceless Name : The saints eat the ambrosia of God’s name in company, and give it to all _to partake thereof_. <span id="p443"><sup><small>[ p. 443 ]</small></sup></span>
 They who are so destined obtain it. Harihan, I am a sacrifice to those who enjoy God’s love.
 
 <p style="text-align:center;">23</p>
@@ -470,7 +470,7 @@ The following was addressed to a covetous Brahman ;—
 
 If I have the one God, I have gained lakhs; how many doors for thee to beg at ?
 O Brahman, thy life hath passed in vain since thou hast forgotten Him who made thee.
-The punishment of sinners :— Sinners shall lament for the sins they commit : <span id="p444"><sup><small>[p. 444]</small></sup></span>
+The punishment of sinners :— Sinners shall lament for the sins they commit : <span id="p444"><sup><small>[ p. 444 ]</small></sup></span>
 Nanak, as a churning-staff churneth milk, so shall Dharmraj churn them.
 
 The pious render their lives profitable and are honoured after death :—

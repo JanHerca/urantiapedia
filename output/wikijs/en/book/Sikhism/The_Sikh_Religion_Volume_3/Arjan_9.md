@@ -41,7 +41,7 @@ The Guru then made all preparations, and invited guests to his son’s wedding w
 The women of Narain Das’s household sang the following composition of the bridegroom’s father on the occasion of the marriage :—
 
 It is a time of rejoicing, I sing my Lord ;
-I have heard of the imperishable Bridegroom, and joy hath arisen in my heart.<span id="p81"><sup><small>[p. 81]</small></sup></span>
+I have heard of the imperishable Bridegroom, and joy hath arisen in my heart.<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 My mind longeth _to know_ when I shall be fortunate enough to meet the perfect Lord.
 Grant me, O my friend _Guru_, understanding to know when I shall meet God and be absorbed in Him.
 Day and night I stand and wait _to find_ by what way I may obtain the Lord.
@@ -54,7 +54,7 @@ The sky, earth, trees and water are God’s creation.
 O man, whatever the eye can behold is perishable.
 The world is an eater of carrion, neglectful _of God_ and greedy _of mammon._
 Like an ogre or a beast it killeth and eateth forbidden food.[^2]
-Restrain thy heart, or the Omnipotent will take and punish thee in hell.<span id="p82"><sup><small>[p. 82]</small></sup></span>
+Restrain thy heart, or the Omnipotent will take and punish thee in hell.<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 When Azrail shall seize thee, of what avail
 Shall patrons, brothers, courts, possessions, and mansions be ?
 The pure God knoweth thy condition.
@@ -72,7 +72,7 @@ The stone which thou callest God
 Shall take thee with it and drown thee.
 O sinner, untrue to thy salt,
 It is not a boat of stone which will ferry thee over.
-On meeting the Guru, Nanak recognizeth the Lord.<span id="p83"><sup><small>[p. 83]</small></sup></span>
+On meeting the Guru, Nanak recognizeth the Lord.<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 The Arranger is contained in the water, the dry land, the nether regions, and the firmament.[^4]
 
 When the Emperor heard this, he was still more pleased with the teaching of the Granth, and displeased with the Guru’s slanderers and enemies. He then gave his decision: ‘Excepting love and devotion to God I so far find neither praise nor blame of any one in this Granth. It is a volume worthy of reverence. He then made an offering to it of fifty-one gold muhars[^5], and gave Bhai Budha and Bhai Gur Das dresses of honour for themselves and a third for Guru Arjan. He told them to give his respectful salutations to the Guru, and promised to go to visit him when he was returning from Lahore whither he was then proceeding.
@@ -84,7 +84,7 @@ One man worshippeth Gosain, another Allah ;
 _Some speak of the_ Cause of causes, _others_ of the Benevolent.
 _Some talk of_ the Extender of mercy, _others_ of the Merciful.
 Some bathe at the Hindu sacred places, others visit Makka.
-Some perform the Hindu worship, others bow their heads _in the Muhammadan fashion._<span id="p84"><sup><small>[p. 84]</small></sup></span>
+Some perform the Hindu worship, others bow their heads _in the Muhammadan fashion._<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 Some read the Veds, others the Musalman books.
 Some wear white, others blue.
 Some call themselves Hindus, others Musalmans.
@@ -98,7 +98,7 @@ The Emperor remitted the revenues of the Panjab for that year in compliment to t
 
 Badaoni states that on another occasion, namely, the thirteenth of the month of Azur (Jamadi ul sani), Akbar, with a gorgeous military retinue, crossed the Bias and went to Goindwal to visit Guru Arjan, whose teaching and character he appreciated. Badaoni also writes that people reverenced the successive Gurus as spiritual leaders, and solicited their benedictions.
 
-Unfortunately for the Guru the tolerant Emperor Akbar died soon after, and was succeeded by his son Jahangir. Jahangir’s son Khusro, nominated to the <span id="p85"><sup><small>[p. 85]</small></sup></span> throne by Akbar in supersession of Jahangir, claimed the Panjab and Afghanistan, which his father was unwilling to concede him. Jahangir accordingly desired to obtain possession of Khusro’s person, but Khusro escaped from Agra pursued by the Imperial army, and directed his steps towards Afghanistan. On the way he visited the Guru at Tarn-Taran and begged him to grant him pecuniary assistance. The Guru said he had money for the poor, but not for princes. Khusro replied with great humility that he himself was now very poor, needy, and unfriended, and had not even travelling expenses.
+Unfortunately for the Guru the tolerant Emperor Akbar died soon after, and was succeeded by his son Jahangir. Jahangir’s son Khusro, nominated to the <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> throne by Akbar in supersession of Jahangir, claimed the Panjab and Afghanistan, which his father was unwilling to concede him. Jahangir accordingly desired to obtain possession of Khusro’s person, but Khusro escaped from Agra pursued by the Imperial army, and directed his steps towards Afghanistan. On the way he visited the Guru at Tarn-Taran and begged him to grant him pecuniary assistance. The Guru said he had money for the poor, but not for princes. Khusro replied with great humility that he himself was now very poor, needy, and unfriended, and had not even travelling expenses.
 
 Guru Arjan, seeing the Prince’s evil plight and humility, took compassion on him. He, moreover, felt friendly to the Prince, who had visited him a few times previously with the Emperor Akbar ; and he also felt a debt of gratitude to the Prince’s grandfather, the late monarch, so he gave him five thousand rupees to defray his expenses to Kabul. Khusro, however, was seized by the imperial troops as he was crossing the Jihlam, and taken in chains to his father.
 
@@ -110,7 +110,7 @@ Death laugheth over man’s head, but, brute that he is, he knoweth it not.
 Involved in quarrels, pleasures, and pride, he thinketh not of death.
 Serve thy true Guru; why wander, O luckless one ?
 On beholding the brilliant safflower, why make the mistake of attaching thyself to it ?
-Constantly sinning thou hast accumulated wealth to use it thyself ;<span id="p86"><sup><small>[p. 86]</small></sup></span>
+Constantly sinning thou hast accumulated wealth to use it thyself ;<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 But thou shalt depart naked, and thy dust shall be blended with dust.
 They for whom thou didst take trouble are at variance and enmity with thee.
 At the last hour they will flee from thee ; why burnest thou with wrath ?
@@ -149,14 +149,14 @@ The jewel of God’s name I have earned as wealth, which will never decrease by 
 In one moment the slanderer became ashes and obtained his deserts. .
 Nanak foretold what was hidden; the whole world saw the truth of his prophecy.[^9]
 
-Prithi Chand was naturally most displeased at the death of his faithful ally in evil. In the meantime Chandu was considering how he could procure the marriage of his daughter with Har Gobind or avenge himself on the Guru. He accordingly wrote to Prithia to request him to use all his influence to bring about the marriage, and in the event of his failure threatened to confiscate the fief he had recently obtained from the Emperor. Prithia, however, required no threats; he was only too willing to assist Chandu in his nefarious designs. He wrote in reply that Arjan, who had deprived him of his rights, was already his enemy ; and he would be only too happy to assist in meting him adequate punishment. He begged Chandu to use his influence with the Emperor to bring the Guru to justice. On receiving this letter Chandu summoned Prithia to Dihli. There they both concocted a plan to induce the Emperor by some means to visit the Panjab, where they would have an opportunity of entering <span id="p88"><sup><small>[p. 88]</small></sup></span> into some conspiracy against the Guru. Chandu informed the Emperor of the abundance of game in the Lahore district, and also explained that Lahore would be a convenient place to rest on the Emperor’s way to Kashmir, where he ought to spend the summer on account of the beauty of its scenery and the salubrity of its climate. Upon this Prithia returned home.
+Prithi Chand was naturally most displeased at the death of his faithful ally in evil. In the meantime Chandu was considering how he could procure the marriage of his daughter with Har Gobind or avenge himself on the Guru. He accordingly wrote to Prithia to request him to use all his influence to bring about the marriage, and in the event of his failure threatened to confiscate the fief he had recently obtained from the Emperor. Prithia, however, required no threats; he was only too willing to assist Chandu in his nefarious designs. He wrote in reply that Arjan, who had deprived him of his rights, was already his enemy ; and he would be only too happy to assist in meting him adequate punishment. He begged Chandu to use his influence with the Emperor to bring the Guru to justice. On receiving this letter Chandu summoned Prithia to Dihli. There they both concocted a plan to induce the Emperor by some means to visit the Panjab, where they would have an opportunity of entering <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> into some conspiracy against the Guru. Chandu informed the Emperor of the abundance of game in the Lahore district, and also explained that Lahore would be a convenient place to rest on the Emperor’s way to Kashmir, where he ought to spend the summer on account of the beauty of its scenery and the salubrity of its climate. Upon this Prithia returned home.
 
 Chandu’s scheme proved successful. In a short time the Emperor proceeded to the Panjab. On reaching the Bias he encamped on its banks and went a-hunting. Chandu, in conversation with him, represented that there were several thieves in the country who, during the night, had stolen some of the Emperor’s property. The Emperor inquired how thieves could exist in his empire. Chandu replied that the Emperor had a rival in the Panjab, namely Guru Arjan, who entertained thieves and exercised independent authority. Upon this the Emperor issued an order to the Guru through Sulabi Khan, nephew of the late Sulahi Khan, to abstain from such practices. The Guru's business, he said, was to restrain others from evil, and 1t behoved him not to do evil himself. Chandu wrote on his own account to Sulabi Khan to endeavour to induce the Guru to consent to the marriage alliance, and also to grant a more liberal distribution of property and offerings to Prithia than had been formerly agreed on. Sulabi Khan went to Amritsar to endeavour to carry out these measures.
 
 When the Sikhs heard of Sulabi Khan’s intention they proposed that they should be allowed to kill him, but they were dissuaded by the Guru. He was already sufficiently armed and protected against his enemies. On that occasion he composed the following :—
 
 Humility is my mace,
-And being the dust of the dust of all men’s feet my twoedged sword :<span id="p89"><sup><small>[p. 89]</small></sup></span>
+And being the dust of the dust of all men’s feet my twoedged sword :<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 These no evil doer can withstand.
 The perfect Guru hath arranged this matter.[^10]
 

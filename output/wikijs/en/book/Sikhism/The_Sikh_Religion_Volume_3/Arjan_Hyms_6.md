@@ -46,7 +46,7 @@ Highly adorned are my beautiful gates:
 My continual guests are the beloved saints.
 When I did homage to them and served them, they adjusted mine affairs.
 God Himself is the Groomsman, He Himself is the Bridesman, He Himself is the priest, He Himself is the God of marriage.”
-He Himself adjusteth His own affairs; He Himself sustaineth the world. <span id="p318"><sup><small>[p. 318]</small></sup></span>
+He Himself adjusteth His own affairs; He Himself sustaineth the world. <span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 Saith Nanak, when the Bridegroom sitteth at home with me adorned are my beautiful gates ;
 The nine treasures in abundance then enter my house,
 And I obtain everything, everything by meditating on the Name.
@@ -66,7 +66,7 @@ How man should love God :—
 When water and milk are placed over a fire, the water alloweth not the milk to burn; O men, in that way love God.[^2]
 As the bumble-bee becometh entangled and intoxicated by the odour of the lotus, and leaveth it not even for a moment,
 So relax not a whit thy love for God; dedicate to Him all thine ornaments and enjoyments.
-Man in the company of the saints hath no fear of what is called the way of death where wailings are heard. <span id="p319"><sup><small>[p. 319]</small></sup></span>
+Man in the company of the saints hath no fear of what is called the way of death where wailings are heard. <span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 Sing and meditate on God’s praises, and all thy sins and sorrows shall depart.
 Saith Nanak, chant the song of God, O man, love Him and bear Him such affection in thy heart
 As a fish beareth water ; it hath not a moment’s happiness out of it; such love bear God, O man.
@@ -85,7 +85,7 @@ Saith Nanak, sing the chant of the Merciful Being, O man, and love God _as the s
 As the deer at night hearing the sound of the bell giveth its life; so, O man, bear love to God.
 As a wife in love with her husband waiteth on her beloved ; so give thy heart to thy Darling :
 So give thy heart to thy Darling, enjoy Him, and thou shalt obtain all happiness and bliss.
-My friend, my Beloved, we have met after a very long time, and I have clothed myself in red.[^3] <span id="p320"><sup><small>[p. 320]</small></sup></span>
+My friend, my Beloved, we have met after a very long time, and I have clothed myself in red.[^3] <span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 When the Guru became the mediator, I saw God with mine eyes ; none appeareth to me like my Beloved.
 Saith Nanak, chant the song of the compassionate and fascinating One; O man, grasp God’s feet and such love bear thou Him.
 
@@ -104,7 +104,7 @@ Desire Thee, O merciful One; for Thee their souls and bodies feel endless longin
 The Lord is infinite and unapproachable, He is the allpervading God and Master.
 Demigods, Sidhs, the crowd of celestial singers meditate on Thee; the Yakshas and Kinars utter Thy praises.
 Millions of Indars and various gods repeat Thy name, O Lord, and hail Thee.
-Thou art the Patron of the patronless, saith Nanak ; Thou art the compassionate ; associate me with the saints that I may be saved.<span id="p321"><sup><small>[p. 321]</small></sup></span>
+Thou art the Patron of the patronless, saith Nanak ; Thou art the compassionate ; associate me with the saints that I may be saved.<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 Millions of Devis and Lakshmis serve Thee in divers ways.
 Invisible and visible beings, wind, water, day and night adore Thee.
 The stars, the moon, and the sun meditate on Thee; the earth and the heavens sing Thy praises.
@@ -127,7 +127,7 @@ He is not distant ; He is ever present ; He filleth every direction for ever and
 He is the Lord of the soul from whom proceed salvation and wisdom ; I love the love of that Beloved.
 Nanak expoundeth what he knoweth from the Guru’s instruction ; abiding is the married state of the saint ; her Spouse neither dieth nor departeth.
 She who hath God for her Spouse enjoyeth great bliss.
-Happy is such a woman, she is completely honoured :<span id="p322"><sup><small>[p. 322]</small></sup></span>
+Happy is such a woman, she is completely honoured :<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 She enjoyeth honour, greatness, and happiness, she singeth God’s praises, and is ever with her great Lord.
 She hath all perfections, the nine treasures ; her home is never empty, it containeth everything.
 The married state of her whose speech is honeyed and who obeyeth her Beloved, shall ever be permanent.
@@ -147,7 +147,7 @@ Nanak expoundeth what he knoweth through the Guru’s instruction—he on whose 
 
 The Guru gives way to self-depreciation :—
 
-I am a sinner, devoid of understanding and virtue, friendless and low,<span id="p323"><sup><small>[p. 323]</small></sup></span>
+I am a sinner, devoid of understanding and virtue, friendless and low,<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 Foolish, hard-hearted, of mean birth, steeped in the mire of worldly love,
 Enveloped in the filth of error, and in acts of pride and arrogance—the thought of death entereth not my heart.
 Through spiritual ignorance I am entangled with domestic enjoyments and worldly love.
@@ -165,7 +165,7 @@ By carefully listening to His word man obtaineth divine knowledge and the wealth
 He becometh imbued with God’s love and singeth His praises.
 Were the earth to become paper, the forests pens, and the wind a writer, |
 The end of the Endless One could not be described ; Nanak hath grasped the protection of His feet.
-The inward satisfaction obtained by devotion :— Day and night become pleasant by remembering God’s name. By love to His lotus feet wickedness and sin depart ; <span id="p324"><sup><small>[p. 324]</small></sup></span>
+The inward satisfaction obtained by devotion :— Day and night become pleasant by remembering God’s name. By love to His lotus feet wickedness and sin depart ; <span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 Pain, hunger, and poverty flee away, and man’s path appeareth clear.
 When we meet the society of the saints and love the Name, the heart’s longings are satisfied.
 By beholding God, man’s desires are fulfilled and his whole family saved.
@@ -189,7 +189,7 @@ In my heart joy hath sprung up since I heard that my Lord was approaching.
 On meeting my Lord I have entered on happiness and am filled with the essence of joy and delight.
 He embraced me; my sorrows fled ; my soul, mind, and body all bloomed afresh.
 I have obtained my heart’s desires by meditating on God ; the time of my union with Him I account auspicious.
-Nanak representeth, when he met the Bearer of prosperity, the essence of all pleasure was prepared for him.<span id="p325"><sup><small>[p. 325]</small></sup></span>
+Nanak representeth, when he met the Bearer of prosperity, the essence of all pleasure was prepared for him.<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 My companions meeting me asked me to describe my Spouse.
 I was so filled with the sweets of love that I could not speak.
 The attributes of the Creator are deep, mysterious, and boundless ; the Veds have not found His limit.
@@ -211,7 +211,7 @@ Thou covetest what is false, and by the deceit of Maya thou committest innumerab
 O wretched man, Death hath sought thee; thou shalt be overcome by him, and thy body shall be a heap of ashes.
 Thou shalt depart leaving thy property and youth; no more shalt thou have clothing and food.
 Saith Nanak, thine acts shall accompany thee, their effects cannot be effaced.
-Instead of pleasure there ever resulteth pain from the commission of sin. <span id="p326"><sup><small>[p. 326]</small></sup></span>
+Instead of pleasure there ever resulteth pain from the commission of sin. <span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 Lo! as the deer is snared on a moonlight night,[^7]
 So the sins thou hast committed shall not forsake thee ; they shall lead thee away with a halter round thy neck.
 Thou art deceived by a mirage ; thou embracest an unsubstantial lover ;
@@ -235,7 +235,7 @@ Man cannot hide his sins from God :—
 What man doeth either by day or night shall be recorded on his forehead.
 He from whom man seeketh to conceal his acts is with him and seeth them :
 The Creator is with him and seeth them; why committeth he sin ?
-Do good acts, repeat the Name, and thou shalt never go to hell. <span id="p327"><sup><small>[p. 327]</small></sup></span>
+Do good acts, repeat the Name, and thou shalt never go to hell. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 During the eight watches of the day repeat God’s name, and it shall accompany thee.
 Ever worship in the company of the saints, O Nanak, and the sins thou hast committed shall be blotted out.
 By violence and fraud thou fillest thy belly, O ignorant fool,
@@ -259,7 +259,7 @@ Nanak representeth, he who obtaineth God by great good fortune entereth on happi
 
 The effect of worldly love on man and other animals :—
 
-The illusion of mammon is terrible,[^8] the illusion of mammon <span id="p328"><sup><small>[p. 328]</small></sup></span> is terrible ; alas! great is its intoxication, it perverteth men’s natures, and their lives, alas! pass in vain.
+The illusion of mammon is terrible,[^8] the illusion of mammon <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> is terrible ; alas! great is its intoxication, it perverteth men’s natures, and their lives, alas! pass in vain.
 In the deep and awful forest, in the deep and awful forest, alas! the thieves of the soul rob the house[^9] in broad daylight, and night and day eat the _plunder_.[^10]
 By night and day they eat the plunder; life passeth away without God; come to me, O God, Thou Lord of mercy.
 Without the companionship of the Beloved many births and deaths have taken place, and there is no salvation.
@@ -272,7 +272,7 @@ Mine eyelids close not ; I am absorbed in the love of the Dear One; my mind anxi
 They who are imbued with God’s love and intoxicated with the Name, lose all fear, doubt, and worldly love.
 Bestow mercy and compassion, O Thou compassionate, all-pervading God, that Nanak may be absorbed in Thy love.
 The bumble-bee is humming, the bumble-bee is humming ; alas! intoxicated with the savour and odour of the honey of the flowers, it entangleth itself in its love for the lotus.
-The heart of the chatrik thirsteth, the heart of the chatrik <span id="p329"><sup><small>[p. 329]</small></sup></span> thirsteth ; its heart longeth for the beautiful cloud-drops ; when it drinketh all its fever departeth.
+The heart of the chatrik thirsteth, the heart of the chatrik <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> thirsteth ; its heart longeth for the beautiful cloud-drops ; when it drinketh all its fever departeth.
 O Destroyer of fear, O Destroyer of sorrow, come to me: my soul and body feel for Thee excessive love.
 Beautiful, clever, wise Lord, with what tongue shall I utter Thy praise ?
 Take me by the hand, give me Thy name: he on whom Thou lookest with favour hath his sins erased.

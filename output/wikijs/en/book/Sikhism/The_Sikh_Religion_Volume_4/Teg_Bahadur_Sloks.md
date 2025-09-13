@@ -102,7 +102,7 @@ Who is unaffected by weal or woe, by covetousness, worldly love, or pride.
 Saith Nanak, hear, O man, know that he is saved
 Who _uttereth_ neither praise nor blame, and to whom gold and iron are the same.
 
-<span id="p416"><sup><small>[p. 416]</small></sup></span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 <p style="text-align:center;">XV</p>
 
@@ -179,7 +179,7 @@ Saith Nanak, without repeating God’s name their lives pass in vain.
 Know that that mortal is like God who worshippeth night and day ;
 Between God’s saint and God there is no difference ; Nanak, recognize that this is true.
 
-<span id="p418"><sup><small>[p. 418]</small></sup></span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 <p style="text-align:center;">XXX</p>
 
@@ -258,7 +258,7 @@ Between that man and God there is no difference ; Nanak, accept this as a fact. 
 Consider that person, O Nanak, as a hog or a dog
 In whose heart there is no devotion to the one Ged.
 
-<span id="p420"><sup><small>[p. 420]</small></sup></span>
+<span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 
 <p style="text-align:center;">XLV</p>
 
