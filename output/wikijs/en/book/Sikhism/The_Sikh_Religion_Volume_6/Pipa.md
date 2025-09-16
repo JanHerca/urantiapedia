@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:8:50Z
 
 ## PIPA
 
-Pipa, born in the year a.d. 1425, was king of a state called Gagaraungarh. He possessed every spiritual excellence and conferred happiness and saintship on the human race.
+Pipa, born in the year A. D. 1425, was king of a state called Gagaraungarh. He possessed every spiritual excellence and conferred happiness and saintship on the human race.
 
 <span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
