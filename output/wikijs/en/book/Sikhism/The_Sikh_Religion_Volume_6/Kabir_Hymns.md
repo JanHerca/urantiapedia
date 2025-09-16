@@ -1738,38 +1738,31 @@ The body under the allegory of a churn from which salvation is obtained through 
 
 <p style="text-align:center;">X</p>
 
-Sanak and Sanand, sons of Brahma, never found God's limits.
-Nor did Brahma himself though he spent his life reading the Veds.
-Churn God's churn, [^xx1] my brethren.
-Gently churn it that the butter may not be lost.[^xx2]
+Sanak and Sanand, _sons of Brahma_, never found God's limits.
+No_r did_ Brahma himself _though_ he spent his life reading the Veds.
+Churn God's churn, [^167] my brethren.
+Gently churn it that the butter may not be lost.[^168]
 Make thy body the churn, thy heart the churning-staff ;
-Into the churn put the Word instead of milk ;
+Into the churn _put_ the Word _instead of milk_ ;
 Make hearty meditation on God thy churning.
 Pour the guru's favour into it as thy cold water.
 Saith Kabir, he on whom the King looketh with favour,
 And who clingeth to His name, shall gain the shore.
+
 When the deadly sins are subdued man arrives at a knowledge of the one God and obtains salvation.
 
 <p style="text-align:center;">XI</p>
 
-When the wick of pride is dry and the oil of worldly love is spent ;
-When the drum of boasting is not heard, and the mind [^xx3] is fast asleep,
-When the fire of avarice is out, and the smoke of desires no longer issueth,
-Then shall man know that one God is everywhere contained, and that there is no second.
-When the strings are broken, the rebeck no longer playeth, [^xx4] —
+When the wick _of pride_ is dry and the oil _of worldly love_ is spent ;
+When the drum _of boasting_ is not heard, and the mind [^169] is fast asleep,
+When the fire _of avarice_ is out, and the smoke _of desires_ no longer issueth,
+_Then shall man know_ that one God is everywhere contained, and that there is no second.
+When the strings are broken, the rebeck no longer playeth, [^170] —
 Man hath ruined his affairs by error —
 When man obtaineth understanding he shall forget
 Preaching, ranting, arguing, and intoning.
 Saith Kabir, the highest dignity shall not be far from those
 Who crush their deadly sins.
-
-[^xx1] Meditate upon divine knowledge.
-
-[^xx2] Rapid churning is believed to spoil butter.
-
-[^xx3] Nai, literally — the acrobat.
-
-[^xx4] When desires are at an end, man obtains deliverance.
 
 <span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
@@ -1777,44 +1770,45 @@ If Kabir commits sin he hopes that God will pardon him as a mother pardons her c
 
 <p style="text-align:center;">XII</p>
 
-A mother beareth not in mind x\ll the faults her son committeth. O God, I am Thy child ; Why destroyest Thou not my demerits ? [^xx1] If a son in great anger rush at his mother, Even then she beareth it not in mind. Since I have fallen into the prison of anxiety, How shall I be saved without God's name ?
-
-O God, ever cleanse my mind and body, And Kabir will tranquilly sing Thy praises.
+A mother beareth not in mind
+All the faults her son committeth.
+O God, I am Thy child ;
+Why destroyest Thou not my demerits ? [^171]
+If a son in great anger rush at _his mother_,
+Even then she beareth it not in mind.
+Since I have fallen into the prison of anxiety,
+How shall I be saved without _God's_ name ?
+_O God_, ever cleanse my mind and body,
+And Kabir will tranquilly sing Thy praises.
 
 <p style="text-align:center;">XIII</p>
 
-My pilgrimage is to the bank of the Gomti,
-Where dwelleth the yellow-robed priest.[^xx3]
+My pilgrimage is to the bank of the Gomti,[^172]
+Where dwelleth the yellow-robed priest.[^173]
 Bravo ! bravo ! how sweetly he singeth
 God's name delighteth my soul ;
 Narad and Saraswati wait on him,
 And near him sits lady Lakshmi as his handmaiden.
 With my rosary on my neck and God on my tongue
-
-[^xx1] repeat His thousand names and salute Him. Saith Kabir, I sing God's praises,
+I repeat His thousand names and salute Him.
+Saith Kabir, I sing God's praises,
 And instruct both Hindus and Musalmans.
+
 Kabir deprecated the destruction of life in any form for idol worship.
 
 <p style="text-align:center;">XIV</p>
 
 Thou cuttest leaves, O flower-girl ; in every leaf there is life.
-The stone for which thou gatherest the leaves is lifeless. Thou art in error, O flower-girl, in this ; The true Guru is a living God.
-
-[^xx1] Why dost Thou not pardon my sins ?
-
-[^xx2] This apparently is not the river which flows by Lakhnau (Lucknow). * [^xx3] Krishan.
-
-
-<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
-
+The stone for which thou gatherest the leaves is lifeless. Thou art in error, O flower-girl, in this ; The true Guru is a living God. <span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 Brahma is in the leaves, Vishnu in the branches, and Shiv in the flowers.
 Thou destroy est three gods in our presence ; whom dost thou worship ?
-The sculptor carving the stone turned it into an idol ; and, in doing so, put his foot upon its breast.
+The _sculptor_ carving the stone turned it into an idol ; and, _in doing so_, put his foot upon its breast.
 If it were a real God, it would have destroyed him.
-Men cook rice, dal, lapasi, pancakes, kasar ;[^xx1]
+Men cook rice, dal, lapasi, pancakes, kasar ;[^174]
 The Brahman feasters feast on these things, and put ashes into the idol's mouth.
 The flower-girl is in error, and leadeth the world astray, but I go not astray.
 Saith Kabir, God hath mercifully preserved me from error.
+
 The stages of man.
 
 <p style="text-align:center;">XV</p>
@@ -1828,121 +1822,93 @@ When the thief cometh, he quickly taketh what the fool hath preserved as his own
 When the feet, head, and hands begin to totter,
 And water floweth copiously from the eyes ;
 When words come indistinctly from the tongue,
-Dost thou then, sir, hope to perform religious works ?
+Dost thou then, sir, hope to perform religious _works_ ?
 If God be merciful and thou love Him, thou shalt obtain His name as thy profit.
-By the favour of the guru thou shalt obtain the wealth of God,[^xx2]
+By the favour of the guru thou shalt obtain the wealth of God,[^175]
 Which shall go with thee as thou departest.
-Saith Kabir, hear, O ye good people, ye shall not take other wealth with you ;
-
-[^xx1] Lapasi and kasar are both made from clarified butter, flour, and sugar, but the former is made liquid by the addition of water. They are both Oriental puddings. [^xx2] God's name.
-
-<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
-
+Saith Kabir, hear, O ye good people, ye shall not take other wealth with you ; <span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 When the Supreme God's summons cometh, ye shall depart leaving your wealth and homes.
+
 The inequality of life due to man's own acts and not to God's caprice.
 
 <p style="text-align:center;">XVI</p>
 
-To one man God hath given silks and satins and a niwar bed,[^xx1]
-Others have not even a ragged coat or straw in their houses to lie on.
+To one man God hath given silks and satins and a niwar bed,[^176]
+Others have not even a ragged coat or straw in their houses _to lie on_.
 Indulge not in envy and bickering, O my soul,
-Do good deeds and gain their reward.
-Out of the same earth the potter mouldeth vessels, but painteth different designs on them ;
-Into one vessel is put strings of pearls, and into another filth.
-God gave the miser wealth to keep, but the blockhead calleth it his own.
-When Death's mace toucheth his head, it shall be decided in a moment whose wealth it is.
+Do good deeds and gain _their reward_.
+Out of the same earth the potter mouldeth _vessels_, but painteth different designs on them ;
+Into one vessel is put strings of pearls, and into another _filth_.
+_God_ gave the miser wealth to keep, _but_ the blockhead calleth it his own.
+When Death's mace toucheth his head, it shall be decided in a moment _whose wealth it is_.
 God's slave is the highest saint ; he obeyeth God's order and obtaineth happiness.
 He accepteth as true what pleaseth God, and God's will he treasureth in his heart.
-Saith Kabir, hear, O good people, to call things one's own is untrue ;
-Death, breaking the cage, taketh away the bird ; [^xx2] its wires and strings [^xx3] are then relaxed.
+Saith Kabir, hear, O good people, _to call things_ one's own is untrue ;
+_Death_, breaking the cage, taketh away the bird ; [^177] its wires and strings [^178] are then relaxed.
+
 The following is a remonstrance to a Qazi who desired that Kabir should perform the usual Muhammadan fasts and ceremonies : —
 
 <p style="text-align:center;">XVII</p>
 
-I am God's poor slave, royal state is pleasing to thee ; The Supreme God, the Lord of religions, never ordained tyranny.
-
-[^xx1] A niwar bed is one whose bottom is of broad cotton tape instead of the grass rope used by the poorer classes.
-
-[^xx2] That is, the soul.
-
-[^xx3] Also translated—The cups for the bird's food and water, that is, man leaves his possessions including his food and drink behind him.
-
-
-<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
-
-O Qazi, nothing is done by mere talk ;
+I am God's poor slave, royal state is pleasing to thee ; The Supreme God, the Lord of religions, never ordained tyranny. <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
+O Qazi, nothing is done by _mere_ talk ;
 It is not by fasting and repeating prayers and the creed that one goeth to heaven.
-The inner veil of the temple of Makka is in man's heart, if the truth be known.
+The inner veil of the temple of Makka is in man's heart, if _the truth_ be known.
 Just decisions should be thy prayers, knowledge of God, the inscrutable One, thy creed,
 The subjugation of thine evil passions the spreading of the prayer-carpet ; then shouldst thou know what religion is.
-Recognize thy Master and fear Him in thy heart ; despise and destroy thy mental pride.[^xx1]
+Recognize thy Master and fear Him in thy heart ; despise and destroy thy mental pride.[^179]
 As thou deemest thyself so deem others, then shalt thou become a partner in heaven.
 Matter is one but hath assumed divers shapes ; in the midst of all recognize God.
 Saith Kabir, thou hast abandoned heaven and attached thyself to hell.
+
 The following was composed on the occasion of Kabir's visit to the house of a Jogi friend whom he found dead : —
 
 <p style="text-align:center;">XVIII</p>
 
 Not a drop now trickleth from the citadel of thy brain — where is the music that filled it ?
-The great saint hath departed with the name of the supreme Brahm, the supreme God.
+The great saint hath departed with _the name of_ the supreme Brahm, the supreme God.
 O father, whither hath departed the soul which dwelt with thy body,
 Which revelled in divine knowledge, expounded, and preached ?
-Whither hath the player gone who played the drum of thy body ?[^xx2]
+Whither hath the player gone who played the drum of _thy body_ ?[^180]
 Thy tales, thy words, thy divine instruction, are no longer heard ; all thy vital energy hath been drawn away.
 Thine ears have become deaf, the vigour of thine organs hath declined ;
-Thy feet have failed, thy hands are relaxed, no word issueth from thy lips ;
-
-[^xx1] Also translated — Despise thy lust and pride.
-
-[^xx2] Where is now the life of thy body ?
-
-<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
-
-The five enemies, [^xx1] robbers all, which wander according to their own will have grown weary ;
-The elephant, [^xx2] thy mind, hath grown weary ; the heart which beat by the force of thy soul, the wire-puller, hath grown weary ;
-Thou art dead; the ten breaths which kept thee together have escaped ; thou hast left thy friends and relations.
+Thy feet have failed, thy hands are relaxed, no word issueth from thy lips ; <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
+The five enemies, [^181] robbers all, which wander according to their own will have grown weary ;
+The elephant, [^182] thy mind, hath grown weary ; the heart which beat by the force _of thy soul_, the wire-puller, hath grown weary ;
+Thou art dead; the ten _breaths_ which kept thee together have escaped ; thou hast left thy friends and relations.
 Saith Kabir, he who meditateth on God bursteth his bonds even while alive.
+
 Mammon under the guise of a serpent.
 
 <p style="text-align:center;">XIX</p>
 
 Nothing is potent against the serpent
 Which deceived Brahma, Vishnu, and Shiv.
-The serpent having completely subdued the world hath entered pure water.[^xx3]
-By the guru's favour I have seen her coming who hath stung the three worlds, and guarded myself against her.
-
-O my brethren, why call out [^xx4] Serpent, serpent [^xx5] ?
+The serpent having completely subdued _the world_ hath entered pure water.[^183]
+By the guru's favour I have seen her _coming_ who hath stung the three worlds, _and guarded myself against her_.
+O my brethren, why call out ‘ Serpent, serpent ’ ?
 He who knoweth the True One hath destroyed the serpent ;
-No one else is free from her attack. 41 When the serpent is vanquished what can Death do to man ?
+No one else is free _from her attack_. [^184]
+When the serpent is vanquished what can Death do _to man_ ?
 This serpent is God's creature ; She is weak, what can she do ?
-As long, however, as she abideth with man, his soul shall abide in bodies ;[^xx5]
+As long, however, as she abideth _with man, his soul_ shall abide in bodies ;[^185]
 By the favour of the guru Kabir hath easily escaped from her.
 
-'Throw not pearls before swine/
+‘Throw not pearls before swine’
 
 <p style="text-align:center;">XX</p>
 
-What availeth it to read the S : mritis to a dog ? What to sing God's praises to an infidel ?
-
-[^xx1] The five evil passions.
-
-[^xx2] The mind is likened to an elephant for it heedlessly pursues pleasures as the male elephant the female.
-
-[^xx3] Has found access even to the holy.
-
-[^xx4] Also translated— There is no other creature so vile as she.
-
-[^xx5] He shall suffer transmigration.
-
-
-<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
-
-Continue to repeat God's name ; Speak not to the infidel even by mistake. What availeth it to give a raven valuable camphor to eat ?[^xx1]
-What to give milk to a viper ?[^xx2]
+What _availeth_ it to read the Simritis to a dog ?
+What to sing God's praises to an infidel ? <span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
+Continue to repeat God's name ;
+Speak not to the infidel even by mistake.
+What availeth it to give a raven _valuable_ camphor to eat ?[^186]
+What to give milk to a viper ?[^187]
 Discrimination and understanding are obtained in the company of the saints.
 By the touch of the philosopher's stone iron becometh gold.
 The dog of an infidel acteth in everything as he is caused to act ;
-His acts are in accordance with his original destiny. Wert thou to take nectar and water the nim-tree with it, Saith Kabir, its natural bitter qualities would not depart.
+His acts are in accordance with his original destiny. Wert thou to take nectar and water the nim-tree with it, Saith Kabir, its natural _bitter_ qualities would not depart.
+
 Worldly greatness secures not salvation.
 
 <p style="text-align:center;">XXI</p>
@@ -1953,186 +1919,132 @@ What shall I pray for ? nothing remaineth stable ;
 While I look on, the world passeth away.
 Though Rawan had a lakh of sons and a lakh and a quarter of grandsons,
 Yet at last he had neither lamp nor wick in his house.
-The sun and moon used to heat his kitchen, [^xx3] the fire to wash his clothes.[^xx4]
-He who through the guru's instruction putteth God's name in his heart,
-Shall remain permanent and be released from transmigration.[^xx5]
-Saith Kabir, hear, O ye people,[^xx0]
+The sun and moon used to heat his kitchen, [^188] the fire to wash his clothes.[^189]
+He who through the guru's instruction putteth God's name _in his heart_,
+Shall remain permanent and be released from transmigration.[^190]
+Saith Kabir, hear, O ye people,[^191]
 Without the name of God there is no salvation.
-
-[^xx1] He will still rejoice in filth.
-
-[^xx2] It will only become the more venomous after nourishment.
-
-[^xx3] That is, to cook his food.
-
-[^xx4] So potent was he over the heavenly bodies and the elements, that he subjugated them to his private purposes.
-
-[^xx6] Literally — and go nowhere.
-
-[^xx6] Loi. This word means people, but it was also the name of Kablr's wife,
 
 <span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
-A mystical hymn with its interpretation. XXII
-Hear these wonderful things, my brethren — First a son [^xx1] was born, and afterwards his mother ; [^xx2] The guru [^xx3] worshipped his disciple's [^xx4] feet ; I have seen a lion [^xx5] herding kine ; [^xx6] A fish [^xx7] out of water give birth upon a tree ; [^xx8] I have seen a cat [^xx9] taking away a dog ; 10 The branches of a tree 11 below, its roots 12 above ; And its trunk bearing fruit 13 and blossom ; 14 A buffalo 15 on horseback going to graze a horse ; 16 An ox 17 on his way while his burden 18 arrived at home before him.
-Saith Kabir, he who understandeth this hymn, Shall know everything on repeating God's name.
+A mystical hymn with its interpretation.
+
+<p style="text-align:center;">XXII</p>
+
+Hear these wonderful things, my brethren —
+First a son [^192] _was born_, and afterwards his mother ; [^193]
+The guru [^194] worshipped his disciple's [^195] feet ;
+I have seen a lion [^196] herding kine ; [^197]
+A fish [^198] out of water give birth upon a tree ; [^199]
+I have seen a cat [^200] taking away a dog ; [^201]
+The branches _of a tree_ [^202] below, its roots [^203] above ;
+And its trunk bearing fruit [^204] and blossom ; [^205]
+A buffalo [^206] on horseback going to graze a horse ; [^207]
+An ox [^208] on his way _while_ his burden [^209] arrived at home _before him_.
+Saith Kabir, he who understandeth this hymn, Shall know everything on repeating God's _name_.
+
 The soul's toil to obtain a human body shall all be lost if God be not remembered.
 
 <p style="text-align:center;">XXIII</p>
 
 God maketh the body from seed and placeth it in the pit of fire ;
 For ten months He keepeth it in the mother's womb ; worldly love attacheth to it on emerging.
-
 O mortal, why attaching thyself to covetousness losest thou the jewel of thy life ?
 In former births thou didst not sow the seed in this world :
-From childhood thou hast grown to old age ; what was to be hath been.
+From childhood thou hast grown to old age ; what was to be hath been. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
+When Death cometh and catcheth thee by the top-lock, [^210] why then weep ?
+Thou hopest for _longer_ life, while he waiteth for thy _last_ breath —
+The world is a game, O Kabir, carefully throw the dice.[^211]
 
-[^xx1] Purity. [^xx2] Maya. [^xx3] Soul. [^xx4] Heart or mind. [^xx5] Conscience.
-
-[^xx6] The organs of action and perception. [^xx7] Understanding,
-
-[^xx8] To the company of the saints. [^xx9] Contentment.
-
-[^xx10] Greed. ' 11 Worldly desires.
-
-[^xx12] Meditation on God. 13 Salvation. 14 Worship.
-
-[^xx15] Endurance. 16 Fickleness. 17 Laziness.
-
-[^xx18] Good works.
-
-
-<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
-
-When Death cometh and catcheth thee by the top-lock, [^xx1] why then weep ?
-Thou hopest for longer life, while he waiteth for thy last breath —
-The world is a game, O Kabir, carefully throw the dice.[^xx2]
 Kabir was invited to a marriage feast. He said his own marriage was being celebrated, and he could not go elsewhere. The following is a description of it.
 
 <p style="text-align:center;">XXIV</p>
 
-I turned my body into a dyer's vat and then dyed my heart therein ; [^xx3] the five virtues [^xx4] I made my marriage guests ;
-With God I made my marriage circumambulations, [^xx5] my soul being dyed with His love.
+I turned my body into a dyer's vat and then dyed my heart therein ; [^212] the five virtues [^213] I made my marriage guests ;
+With God I made my marriage circumambulations, [^214] my soul being dyed with His _love_.
 Sing, sing, ye brideswomen, the marriage song :
 The sovereign God hath come to my house as my husband.
-I made the bridal pavilion [^xx6] in the lotus of my heart, and divine knowledge the recitation [^xx7] of my lineage ;
+I made the bridal pavilion [^215] in the lotus of my heart, and divine knowledge the recitation [^216] _of my lineage_ ;
 I obtained God as my bridegroom ; so great hath been my good fortune.
 Demigods, men, saints, and the thirty-three karors of gods in their chariots came as spectators
 Saith Kabir, the one God, the divine Male, hath wed and taken me with Him.
 
-[^xx1] A lock of hair left unshaven on the top of a Hindu's head.
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
-[^xx2] Also translated — Make recollection of God thy throw of the dice.
-
-[^xx3] Kabir represents himself as a bride and God the bridegroom. It is usual on occasions of marriage for people to have their clothes dyed,
-
-[^xx4] The word panckon is also translated the elect.
-
-[^xx5] The Hindu bridegroom and bride circumambulate fire, in some places seven times and in other places four times, on the occasion of a marriage.
-
-[^xx6] Four posts are erected to denote the mind, understanding, thought, and pride. The posts support a cloth covering, beneath which the very youthful Indian brides and bridegrooms are married.
-
-[^xx7] Uchar now called gotrachar ) a panegyric on the families of the bride and bridegroom intoned by the ministering Brahmans. The word is also translated — the repetition of the Vedic sloks for marriage.
-SIKH. VI P
-
-2io BHAGATS OF THE GRANTH SAHIB
 In the following again Kabir represents himself as a wedded woman : —
 
 <p style="text-align:center;">XXV</p>
 
-I am plagued by my mother-in-law, [^xx1] beloved by my father-in-law ; [^xx2] I dread the very name of my husband's eldest brother.[^xx3]
-
-O my friends and companions, my husband's sister [^xx4] hath seized me, and I burn by separation from my husband's youngest brother.[^xx5]
+I am plagued by my mother-in-law, [^217] beloved by my father-in-law ; [^218] I dread the _very_ name of my husband's eldest brother.[^219]
+O my friends and companions, my husband's sister [^220] hath seized me, and I burn by separation from my husband's youngest brother.[^221]
 My mind hath become insane since T have forgotten God ; how can I abide ?
-
-[^xx1] behold not with mine eyes Him who enjoyeth me on the couch ; to whom shall I tell my sorrow ?
-My step-father quarrelleth with me ; my mother is ever intoxicated ;[^xx6]
-As long as I remained with my elder brother [^xx7] I was dear to my Spouse.
+I behold not with mine eyes Him who enjoyeth me on the couch ; to whom shall I tell my sorrow ?
+My step-father quarrelleth _with me_ ; my mother is ever intoxicated ;[^222]
+As long as I remained with my elder brother [^223] I was dear to my Spouse.
 Saith Kabir, I have lost my life struggling with the five evil passions —
 Deceitful Maya hath led captive the whole world, but I have obtained immunity by repeating God's name.
+
 Mammon a thieving courtesan.
-XXVII Worldly life is like a dream,
-But, believing the world to be real, I attached myself to it, and abandoned the Supreme Treasure.
 
-O father, I made love to the courtesan mammon, And she stole from me the jewel of divine knowledge. With its eyes open the moth becometh entangled ; the
-insect regardeth not the flame ;
+<p style="text-align:center;">XXVII</p>
 
-[^xx1] Maya. [^xx2] God. [^xx3] The god of death. [^xx4] Evil thought. [^xx5] Discrimination.
-
-[^xx6] Step-father here means the body, and the mother is selfishness. Bap sawaka is also translated— my former heart, that is, when I was unregenerate.
-
-[^xx7] God's love. Some understand contentment; others, divine knowledge.
-
-
-<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
-
-So, stupid man attached to gold and women heedeth not Death's noose.
+Worldly life is like a dream,
+_But_, believing the world to be real, I attached myself to it, and abandoned the Supreme Treasure.
+O father, I made love to the _courtesan_ mammon,
+And she stole from me the jewel of divine knowledge.
+With its eyes open the moth becometh entangled ; the insect regardeth not the flame ; <span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
+So, stupid _man_ attached to gold and women heedeth not Death's noose.
 Reflect, abandon sin ; and God will save thee.
 Saith Kabir, such is the Life of the world ; He hath no equal.
 Kabir has found God and put an end to his transmigration.
 
 <p style="text-align:center;">XXVIII</p>
 
-Though I have assumed many shapes, this is my last. [^xx1] The strings and wires of the musical instrument are all
-worn out ; I am now in the power of God's name ; I shall not have again to dance to the tune of birth and
-death ;
-Nor shall my heart accompany on the drum*[^xx2]
+Though I have assumed many shapes, this is my last. [^224] The strings and wires of the musical instrument are all
+worn out ; I am now in the power of God's name ; I shall not have again to dance _to the tune of birth and death_ ;
+Nor shall my heart accompany on the drum.[^225]
 I have taken and destroyed my bodily lust and anger ;
 the pitcher of avarice hath burst ; Lust's raiment hath grown old, and all my doubts are
 dispelled.
-I recognize one God in all creatures ; vain wr anglings on this subject are at an end.
+I recognize one God in all creatures ; vain wr anglings _on this subject_ are at an end.
 Saith Kabir, when God was gracious unto me, I obtained Him, the Perfect One.
+
 The following was addressed to a Qazi : —
 
 <p style="text-align:center;">XXIX</p>
 
-Thou fastest to appease God, yet thou destroyest life to please thy palate.[^xx3]
+Thou fastest to appease God, yet thou destroyest life to please thy palate.[^226]
 Thou regardest not others as thou dost thyself ; why pratest thou ?
-
 O Qazi, thy one God is in thee, but thou beholdest Him not by thought and reflection.
-Mad on religion, thou heedest not, wherefore thy life is of no account.
-
-[^xx1] I have had many births, but I shall not be born again.
-
-[^xx2] At a nach, or Oriental dance, the performers are the musicians, the female singers and dancers, and the drummers.
-
-[^xx3] On the first day after the lent of Ramzan, the Muhammadans offer a sacrifice to God. Here Kabir hints that the sacrifice is made to please their palates, not to please God.
-P[^xx2]
-
-<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
-
+Mad on religion, thou heedest not, wherefore thy life is of no account. <span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 Thy books tell thee that God is true, and that He is neither male nor female ;
 Thou gainest nothing by thy reading and study, O madman, since thou regardest Him not at heart :
 God is concealed in every heart ; reflect on this in thy mind
 Kabir loudly proclaimeth — there is the same God for the Hindu as for the Muhammadan.
+
 God becomes not propitious by the mere wearing of religious garbs.
 
 <p style="text-align:center;">XXX</p>
 
-I decorated myself to meet my Spouse,
+I decorated myself to meet my _Spouse_.
 But God the Life and Lord of the world met me not.
 God is my husband, I am his wife ;
 He is big ; I am little.
 The wife and her husband dwell together, but to cohabit is difficult.
 Blessed the woman who is pleasing to her husband ; Saith Kabir, she shall not be born again.
+
 God under the allegory of a diamond.
 
 <p style="text-align:center;">XXXI</p>
 
-When the soul meeteth God, [^xx1] the once fickle mind is easily absorbed in Him.
+When the soul meeteth God, [^227] the _once_ fickle mind is easily absorbed in Him.
 This diamond God filleth everything with light ; I have found this by the instruction of the true guru —
 The praise of God were an endless story —
 When a man becometh perfect he recognizeth the Diamond.
 Saith Kabir, I have seen such a Diamond as filleth the world with its light ;
 The concealed Diamond became manifest ; when I met the guru he showed it to me.
-In the following allegory Kabir refers to his early
 
-[^xx1] Literally—when a diamond pierceth a diamond. There are several interpretations of this line.
-
-
-<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
-
-understanding as his first wife and to his conversion as his second wife : —
+In the following allegory Kabir refers to his early <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> understanding as his first wife and to his conversion as his second wife : —
 
 <p style="text-align:center;">XXXII</p>
 
@@ -2142,198 +2054,177 @@ It turned out well that my first wife departed ;
 May she whom I have now taken live for ever !
 Saith Kabir, when the young wife came I ceased to cohabit with the old one ;
 The young wife is with me now, the elder hath taken another husband.
+
 Kabir's mother addresses him in the first four lines of the following hymn. Kabir was married to Dhania. The holy men who frequented the house called her Ramjania, or worshipper of God. But the name is also applied to courtesans dedicated to idols, and it was consequently offensive to Kabir's mother. She also complains that Kabir had devoted himself to religion and neglected his business : —
 
 <p style="text-align:center;">XXXIII</p>
 
 My daughter-in-law was called Dhania ;
-They have now given her the name of Ramjania.
+They have _now_ given her the name of Ramjania.
 These shaven fellows have ruined my family ;
 They have set my son uttering the name of God.
 Saith Kabir, hear, O my mother,
-These shaven men have done away with my caste.[^xx1]
+These shaven men have done away with my caste.[^228]
+
 The following is a lecture against the veiling of women. It was addressed to the second wife of Kamal, Kabir's son : —
 
 <p style="text-align:center;">XXXIV</p>
 
-Stay, stay, my daughter-in-law, veil not thy face ; At the last moment it wall not avail thee the eighth of a paisa,
+Stay, stay, my daughter-in-law, veil not thy face ;
+At the last moment it wall not avail thee the eighth of a paisa. <span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
+She who preceded thee used to veil her face ;
+Follow not thou in her footsteps.
+The only advantage of veiling thy face is
+That for five or ten days _people will say_ a good daughterin-law hath come.
+Thy veil will _only_ be real
+If thou sing God's praises and skip and dance _in His service_.
+Saith Kabir, O daughter-in-law, thou shalt be victorious [^229]
+When thou passest thy life in singing God's praises.
 
-[^xx1] That is, I am no longer known as a weaver, but a worship} er of God.
-
-<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
-
-She who preceded thee used to veil her face ; Follow not thou in her footsteps. The only advantage of veiling thy face is That for five or ten days people will say a good daughterin-law hath come.
-Thy veil will only be real
-If thou sing God's praises and skip and dance in His service.
-Saith Kabir, O daughter-in-law, thou shalt be victorious [^xx1] When thou passest thy life in singing God's praises.
 Kabir's wife Loi refused to prepare a meal for a holy visitor, upon which Kabir manifested his displeasure. The following hymn except the last two lines is Loi's pleading for forgiveness : —
 
 <p style="text-align:center;">XXXV</p>
 
-Better would it be to be cut in twain with the saw than that thou shouldst turn thy back on me.
+Better would it be _to be cut in twain_ with the saw than that thou shouldst turn thy back on me.
 Hear my entreaty and embrace me ;
 I am a sacrifice unto thee ; turn thy face towards me, my beloved.
-Why killest thou me by turning thy back on me ? Even though thou cut my body I will not turn it away from thee ;[^xx2]
+Why killest thou me by turning thy back on me ?
+Even though thou cut my body I will not turn it away _from thee_ ;[^230]
 My body may perish, but I will not cease to love thee. There hath been no quarrel between thee and me ; Thou art the same good husband and I the same wife as before.
 Saith Kabir, hear, O Loi,
 I shall believe in thee no longer.
+
 The following was Kabir's reply to a Brahman who had advised him to bathe in the sacred rivers of the Hindus.
 
 <p style="text-align:center;">XXXVII</p>
 
-. He who is foul within will not go to heaven by bathing at a place of pilgrimage :
-
-[^xx1] Thou shalt obtain salvation.
-
-[^xx2] Also translated — I will not wince.
-
-
-<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
-
-Nothing is gained by pleasing men ; [^xx1] God is not a simpleton.
+He who is foul within will not go to heaven by bathing at a place of pilgrimage : <span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
+Nothing is gained by pleasing men ; [^231] God is not a simpleton.
 Worship the Lord, the only God ;
 Serving the guru is the true ablution.
-If salvation be obtained by bathing in water, the frogs which are continually bathing will obtain it ;
-But as the frogs so the pilgrims ; they shall be born again and again.
-If a hardened sinner die in Banaras, he cannot escape hell. If a saint of God die in Haramba, [^xx2] he saveth a whole multitude.
+If salvation be obtained by bathing in water, the frogs which are continually bathing _will obtain it_ ;
+_But_ as the frogs so the pilgrims ; they shall be born again and again.
+If a hardened sinner die in Banaras, he cannot escape hell. If a saint of God die in Haramba, [^232] he saveth a whole multitude.
 Where there is neither day nor night, Veds nor Shastars, there dwelleth the Formless One.
 Saith Kabir, meditate on Him, ye foolish denizens of the world.
 
 <p style="text-align:center;">GUJARI</p>
 
-The following was addressed to a Brahman who Kabir supposed would be turned into an ox for his idleness and gluttony. The Hindus believe that they who live on others* wealth without any exertion on their own parts will become oxen, in which condition they will have to labour and suffer for their idleness in human lives.
+The following was addressed to a Brahman who Kabir supposed would be turned into an ox for his idleness and gluttony. The Hindus believe that they who live on others' wealth without any exertion on their own parts will become oxen, in which condition they will have to labour and suffer for their idleness in human lives.
 
 <p style="text-align:center;">I</p>
 
-With four legs, two horns, and a dumb mouth, how wilt thou sing God's praises ?
+With four legs, two horns, and a dumb mouth, how wilt thou sing _God's_ praises ?
 Standing or lying down the stick will fall on thee ; then where wilt thou hide thy head ?
-Without God thou shalt become somebody [^xx3] else's bullock ;
+Without God thou shalt become somebody [^233] else's bullock ;
 Thy nose shall be torn, thy shoulders maimed, and thou shalt eat worthless straw ;
-All day shalt thou wander in the forest, but even then thy belly shall not be satisfied.
-
-[^xx1] That is, by deferring to custom.
-
-[^xx2] Previously called Magahar.
-
-[^xx3] Thou shalt be lent to somebody who will treat thee badly, and not as he would treat his own.
-
-2i<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
-
+All day shalt thou wander in the forest, but even then thy belly shall not be satisfied. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 Thou didst not listen to the advice of holy men, and thou shalt suffer for thine omissions.
 Overwhelmed with great superstition thou shalt endure hardship, and wander in many births.
 Thou hast lost thy precious life by forgetting God ; when wilt thou again have such an opportunity ?
-Thou shalt turn and revolve like an oilman's bullock [^xx1] round his press, and restless shalt thou pass the night.
+Thou shalt turn and revolve like an oilman's bullock [^234] _round his press_, and restless shalt thou pass the night.
 Saith Kabir, for not having repeated God's name thou shalt smite thy head and repent.
+
 Kabir's mother was distressed at his conduct in relinquishing his trade and adopting a religious life. The following is a conversation between the mother and son on the subject.
 
 <p style="text-align:center;">II</p>
 
 Kabir's mother sobbeth and weepeth —
-
-O God, how shall these children live ? [^xx2] Kabir hath given up all his weaving,
-And hath inscribed God's name on his body. Kabir replieth —
+O God, how shall these children live ? [^235]
+Kabir hath given up all his weaving,
+And hath inscribed God's name on his body.
+_Kabir replieth_ —
 While the thread was passing through the bobbin
-
-[^xx1] forgot my Beloved God.[^xx3]
+I forgot my Beloved God.[^236]
 My understanding is mean, my caste is that of weaver ;
 I have gained the name of God as my profit.
 Saith Kabir, hear, O my mother,
 The one God will provide for us and them.
-Sorath
+
+<p style="text-align:center;">SORATH</p>
+
 All are lost without devotion.
 
 <p style="text-align:center;">I</p>
 
 The Hindus kill themselves worshipping idols, the Musalmans make prostrations ;
-The former are burned, the latter buried ; but neither sect knoweth anything of Thee, O God.
-
-[^xx1] Also translated— Like a monkey after red seeds.
-
-[^xx2] How shall Kabir's children be maintained?
-
-[^xx3] Kabir means that even that was too long a time for him to abstain from repeating God's name, and so he gave up weaving.
-
-
-<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
-
+The former are burned, the latter buried ; but neither sect knoweth anything of Thee, _O God_. <span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 O my soul, the world is stark blind ;
-On all sides Death's noose is thrown, but men see it not.
+On all sides Death's noose is thrown, _but men see it not_.
 Poets kill themselves reciting verses ; the Kaparis kill themselves going to Kedarnath ;
-Jogis kill themselves wearing matted hair ; but they know nothing of Thee, O God.
+Jogis kill themselves wearing matted hair ; but they know nothing of Thee, _O God_.
 Kings kill themselves amassing wealth and burying masses of gold ;
 Pandits kill themselves reading the Veds, and women in gazing on their beauty —
 Without the name of God all these are lost ; think and ponder upon this, O man.
 Without the name of God who hath obtained salvation ? Kabir giveth his admonition.
+
 The body is frail, yet it attaches itself to worldly things which desert it.
 
 <p style="text-align:center;">II</p>
 
 When the body is burnt, it becometh ashes ; when it is not burnt, a host of worms eat it up.
-A soft clay vessel will break when water is put into it — such is the nature of the body.
+A soft clay vessel _will break_ when water is put into it — such is the nature of the body.
 Why, O brother, goest thou about puffing and blowing thyself out ?
 How hast thou forgotten the ten months thou didst remain inverted in the womb ?
 As the bee collecteth honey with great zest, so the fool collecteth wealth.
-When a man is dead, they say ' Take him away ! take him away !
-
-' Why allow a ghost to remain ?[^xx5]
+When a man is dead, they say ‘ Take him away ! take him away !
+‘ Why allow a ghost to remain ?’
 His wedded wife accompanieth him to the door, and after that his male friends.
-All the other members of his family go as far as the cremation-ground ; the soul departeth alone.
+All the _other_ members of his family go as far as the cremation-ground ; the soul departeth alone.
 Saith Kabii, hear, O mortals, they who have entangled themselves with the deceitful world,
-Are seized by Death, and fall into the pit like the parrot deceived by the trap.
+Are seized by Death, and _fall into_ the pit like the parrot deceived by the trap.
 
-2i<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
-None may escape physical death, but it brings salvation to the holv.
-<p style="text-align:center;">Ill</p>
+None may escape physical death, but it brings salvation to the holy.
 
-Man hearing all the instructions of the Veds and the Purans, desireth to perform religious ceremonies to overcome death.
-Death hath seized all people, even the wise ; the pandits too depart without hope.
+<p style="text-align:center;">III</p>
 
-O man, thou hast not succeeded in thy sole object [^xx1] Since thou hast not worshipped the supreme God.
+Man hearing all the instructions of the Veds and the Purans, desireth to perform religious ceremonies _to overcome death_.
+Death hath seized all people, _even_ the wise ; the pandits too depart without hope.
+O man, thou hast not succeeded in thy sole object [^237] Since thou hast not worshipped the supreme God.
 Men have gone to the forests, practised jog, performed austerities, and lived on the tubers and roots they picked up.
-The Nadis, [^xx2] the readers of the Veds, the Ekshabdis, and the Monis [^xx3] are all enrolled in Death's register.
-Loving service [^xx4] entereth not into man's heart ; he pampereth his body and giveth it to Death ;
-He hypocritically singeth hymns, but what can he obtain from God ?
-Death hath fallen on the whole world ; in his register the sceptical theologian is recorded.
-Saith Kabir, they who know God's love and devotion to God are pure.[^xx3]
+The Nadis, [^238] the readers of the Veds, the Ekshabdis, and the Monis [^239] are all enrolled in Death's register.
+Loving service [^240] entereth not into _man's_ heart ; he pampereth his body and giveth it _to Death_ ;
+He hypocritically _singeth_ hymns, but what can he obtain from God ?
+Death hath fallen on the whole world ; in his _register_ the sceptical theologian is recorded.
+Saith Kabir, they who know _God's_ love and devotion to God are pure.[^241]
+
 The holy are completely saturated with God.
 
 <p style="text-align:center;">IV</p>
 
-With both mine eyes I look, But I behold nothing save God ; Mine eyes gaze affectionately on Him ; There is now no other subject mentioned. My doubts have departed, my fear hath fled Since I applied my mind to God's name : When the Actor beateth the drum,
-
-[^xx1] To save thyself in this human birth.
-
-[^xx2] Jogis who go about playing a small pipe.
-
-[^xx3] Men vowed to perpetual silence.
-
-[^xx4] Service such as that performed by Narad, the famous rikhi.
-
-[^xx5] The Persian word Mulas, freed or delivered, was here originally written, but the tenth Guru altered its spelling to the Arabic khdlis, pure.
-
-
-2ig
-Everybody cometh to see the show.[^xx1]
-When the Actor collecteth the stage properties,[^xx2]
+With both mine eyes I look,
+_But_ I behold nothing save God ;
+Mine eyes gaze affectionately _on Him_ ;
+There is now no other subject mentioned.
+My doubts have departed, my fear hath fled
+Since I applied my mind to God's name :
+When the Actor beateth the drum,
+Everybody cometh to _see_ the show.[^242]
+When the Actor collecteth the stage properties,[^243]
 He abideth alone in His happiness.
 Doubts are not dispelled by the use of words ;
 Everybody continueth to talk.
 God filleth the heart of him
 To whom through the guru's instruction He hath revealed Himself.
-When the guru bestoweth even a little kindness, Bodies and minds are all absorbed in God. Saith Kabir, I am dyed with the dye of God, And have found the munificent Life of the world.
+When the guru bestoweth even a little kindness,
+Bodies and minds are all absorbed in God.
+Saith Kabir, I am dyed with the dye _of God_,
+And have found the munificent Life of the world.
+
 Man under the allegory of a milkmaid is won by the guru from neglect of God.
 
 <p style="text-align:center;">V</p>
 
-The words of the sacred texts are as seas of milk :
+_The words of_ the sacred texts are as seas of milk :
 For that ocean let the guru be the churning-staff.
 Be thou the churner of that milk ;
 Why shouldst thou be despoiled of thy butter ?
 
 O damsel, why makest thou not God thy husband ?
 He is the life of the world and the support of the soul.
-The strait collar [^xx3] is on thy neck and chains on thy feet ;
+The strait collar [^244] is on thy neck and chains on thy feet ;
 God hath sent thee wandering from birth to birth.
 Thou heedest not even yet, O damsel ;
 Thou art the wretched victim of Death.
@@ -2341,15 +2232,10 @@ It is God who acteth and causeth men to act ;
 What power hath the poor handmaiden ?
 The damsel whom God awaketh
 Attendeth to the duties He assigneth her.
-
-O damsel, where hast thou obtained that wisdom By which thou hast erased the line of doubt ? Kabir feeleth great delight,
+O damsel, where hast thou obtained that wisdom
+By which thou hast erased the line of doubt ?
+Kabir feeleth great delight,
 And by his guru's favour his mind is happy.
-
-[^xx1] When God creates the world, men appear.
-
-[^xx2] When God draws the world within Himself.
-
-[^xx3] Connected by a chain with the feet and hindering the. recumbent posture.
 
 <span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
@@ -2360,49 +2246,38 @@ In reply to an inquiry Kabir describes the happiness he obtained from humility a
 When He without whom one cannot live
 Is found, man's toil is productive.
 Men call it a good thing to live for ever,
-But there is no life without death.[^xx1]
-Where divine knowledge is discussed what more remaineth to be said ?[^xx2]
-As we look on, the things of this world pass away ;
-As men rub and mix saffron and sandal, so man's soul is blended with God,
-And thus seeth the world without bodily eyes.[^xx3]
-Abandonment of the world as a father hath begotten divine knowledge as a son.
-Though placed in an unsubstantial city,[^xx4]
+But there is no life without death.[^245]
+Where divine knowledge is discussed what more remaineth to be said ?[^246]
+As we look on, the things _of this world_ pass away ;
+As men rub and mix saffron and sandal, _so man's soul is blended with God_,
+And thus seeth the world without _bodily_ eyes.[^247]
+_Abandonment of the world_ as a father hath begotten _divine knowledge_ as a son.
+Though placed in an unsubstantial city,[^248]
 I a beggar have found the Giver.
-He hath given me so much that I cannot eat it ;
-I cannot leave off eating [^xx5] or finish it ;
+He hath given me so _much_ that I cannot eat it ;
+I cannot leave off eating [^249] or finish it ;
 And I have ceased to go to strangers.
 The elect who know life to be death,
 Have obtained a mountain of happiness.
 Kabir hath obtained that wealth,
 And effaced his pride on meeting God.
+
 The lamp of holiness, not the Veds and Purans, lights tip man's heart.
 
 <p style="text-align:center;">VII</p>
 
-What availeth reading, what studying, What hearing the Veds and Purans ? What avail reading and listening If divine knowledge be not obtained ?
-
-[^xx1] Without effacing oneself.
-
-[^xx2] Also translated — If man efface himself not, what use discussing divine knowledge ,?
-
-[^xx3] Also translated — Men grind and mix saffron and sandal and waste them by applying them to idols ;
-The world appeareth to have no eyes.
-
-[^xx4] The body. [^xx5] So dear is God's name to me.
-
-
-<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
-
+What availeth reading, what studying, What hearing the Veds and Purans ? What avail reading and listening If divine knowledge be not obtained ? <span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 Thou repeatest not the name of God, O ignorant man ;
 Every moment of what thinkest thou ?
-A lamp [^xx1] is required in this darkness
-To find the One Incomprehensible Thing.[^xx2]
+A lamp [^250] is required in this darkness
+To find the One Incomprehensible Thing.[^251]
 The lamp hath lit up my heart,
 And I have found the Incomprehensible Thing.
 Saith Kabir, I now recognize Him ;
 And when I recognize Him my mind is happy.
 People do not believe that my mind is happy ;
 But even if they do not, of what consequence is it ?
+
 The following was addressed to a hypocritical Brahman who advised Kabir to bathe at Hindu places of pilgrimage.
 
 <p style="text-align:center;">VIII</p>
@@ -2412,6 +2287,7 @@ It the gourd be washed at the sixty-eight places of pilgrimage,
 Even then its bitterness will not depart.
 Thus saith Kabir deliberately—
 Cause me to cross over the terrible ocean, O God.
+
 Men should not practise deceit for the advantage of relations.
 
 <p style="text-align:center;">IX</p>
@@ -2422,12 +2298,8 @@ O my man, practise not deception even by mistake ;
 At the last moment it is thine own soul that shall have to render an account.
 Every moment the body wasteth away and old age warneth thee ;
 Then no one will pour water into thy hands,
-Saith Kabir, thou shalt have no friend then ;
+Saith Kabir, thou shalt have no _friend_ then ;
 Why not repeat God's name in thy heart betimes ?
-
-[^xx1] Divine knowledge.
-
-[^xx2] God.
 
 <span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
@@ -2436,25 +2308,27 @@ The guru has shown man how to protect himself from ferocious animals, to which t
 <p style="text-align:center;">X</p>
 
 O saints, my wandering mind hath obtained rest.
-
-[^xx1] reckon that I have obtained my deserts. The guru hath shown me the passage
+I reckon that I have obtained my deserts.
+The guru hath shown me the passage
 Through which wild animals surreptitiously enter.
 I have closed the gates thereof,
 And spontaneous music playeth for me.
-The pitcher of my heart was filled with the water of sin ;
-When I upturned it, the water was spilled.[^xx1]
-Saith Kabir, the man of God knoweth this,
+The pitcher of my heart was filled with the water _of sin_ ;
+When I upturned it, the water was spilled.[^252]
+Saith Kabir, the man _of God_ knoweth this,
 And knowing it, his mind is happy.
+
 Kabir once felt hungry and rebelled against God.
 
 <p style="text-align:center;">XI</p>
 
-A hungry man cannot perform service ; Take back this rosary of Thine. I only ask for the dust of the saints' feet, Since I owe not any man.[^xx2]
-
+A hungry man cannot perform service ;
+Take back this rosary of Thine.
+I _only_ ask for the dust of the saints' feet,
+Since I owe not any man.[^253]
 O God, how shall I fare if I am shamed before Thee ?
-If Thou give me not of Thine own accord, I will beg for it.
-
-[^xx1] beg for two sers of flour,
+If Thou give me not _of Thine own accord_, I will beg for it.
+I beg for two sers of flour,
 A quarter of a ser of clarified butter and salt ;
 I beg for half a ser of dal
 Which will feed me twice a day.
@@ -2463,48 +2337,52 @@ A pillow and a mattress ;
 I beg for a quilt over me,
 And then thy slave will cheerfully serve Thee.
 I have never been covetous ;
-Thy name alone becometh me.[^xx3]
-This metaphor has often occurred. The hearts of men generally are said to be inverted. The holy have theirs erect. I am not under an obligation to any one. [^xx3] That is, I only ask for these things that I may be able to repeat [^xx1] ny name, " r
-
-
-<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
-
+Thy name alone becometh me.[^254] <span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 Saith Kabir, my soul is happy ;
 And when my soul is happy, then I recognize God.
+
 The gods of the Hindus are ignorant of the Creator.
-Dhanasari I
-Beings like Brahma's four sons, Shiv, And Sheshnag know not Thy secret. Through association with the saints God dwelleth in the heart.
-Beings like Hanuman and Garnda. Indar and Brahma, know not, O God, Thine attributes. The four Veds, the Simritis, and the Purans. Vishnu, and Lakshmi know them not. Saith Kabir, he who toucheth God's feet and seeketh His shelter,
-Shall not wander in transmigration.
+
+<p style="text-align:center;">DHANASARI</p>
+
+<p style="text-align:center;">I</p>
+
+Beings like Brahma's _four_ sons, Shiv,
+And Sheshnag know not Thy secret.
+Through association with the saints God dwelleth in the heart.
+Beings like Hanuman and Garnda.
+Indar and Brahma, know not, O God, Thine attributes.
+The four Veds, the Simritis, and the Purans.
+Vishnu, and Lakshmi know them not.
+Saith Kabir, he who toucheth God's feet and seeketh His shelter,
+Shall not wander _in transmigration_.
+
 Life gradually draws to a close : man should practise devotion betimes.
 
 <p style="text-align:center;">II</p>
 
 Pahars are made up of gharis, days of pahars ; life draweth to a close ; the body pineth away ;
-Death wandereth about like a poacher in quest of game : say what shall man do to escape ?
+Death wandereth about like a poacher _in quest of_ game : say what shall man do _to escape_ ?
 The last day approacheth ;
-Mother, father, brother, son, wife— say whose are they ?[^xx1]
-As long as the light of life remaineth in man's body, the brute knoweth not himself.
-He is anxious to obtain a long life, but he seeth not Death who is at hand.[^xx2]
+Mother, father, brother, son, wife— say whose are they ?[^255]
+As long as the light of _life_ remaineth in man's body, the brute knoweth not himself.
+He is anxious to obtain a long life, but he seeth not _Death who is at hand_.[^256]
 Saith Kabir, hear, O mortal dismiss thy mental doubts ;
-Repeat only the one Name, O mortal, and seek the asylum of the one God,
-
-[^xx1] Literally— does any one belong to any one ?
-
-[^xx2] Also translated— He is anxious to live longer though his eyes see not.
+Repeat only the one Name, O mortal, and seek the asylum of the one _God_.
 
 <span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Salvation depends on the state of man's heart not on the place of his death.
-<p style="text-align:center;">Ill</p>
+
+<p style="text-align:center;">III</p>
 
 What is strange to him who knoweth something of the love and service of God ?
-As water when blended with water separateth not again, so the weaver [^xx1] hath blended with God.
-
+As water when blended with water separateth not again, so the weaver [^257] hath blended with God.
 O men of God, I am out of my senses —
-If Kabir leave his body at Banaras, what obligation is he under to God ?[^xx2]
+If Kabir leave his body at Banaras, what obligation is he under to God ?[^258]
 Saith Kabir, hear, O people, let no one make a mistake ;
-What difference is there between Banaras and the barren Magahar, if God be in the heart ?
+What _difference is there between_ Banaras and the barren Magahar, if God be in the heart ?
+
 Kabir requires nothing but God's name.
 
 <p style="text-align:center;">IV</p>
@@ -2518,216 +2396,167 @@ Help no one at the last moment.
 Say who hath derived any happiness
 From son, wife, or wealth.
 Saith Kabir, nothing else availeth me ;
-The name of God is sufficient wealth for my heart.
+The name of God is _sufficient_ wealth for my heart.
+
 Remember and love God.
 
 <p style="text-align:center;">V</p>
 
 Remember God, remember God, remember God, my brethren !
 Without remembering God's name the majority of men shall be lost.
-Wife, son, body, house, and wealth confer happiness ;
-
-[^xx1] Julako. There is a pun on this word. It means a weaver, and elsewhere it is applied to the soul.
-
-[^xx2] Because all people who die at Banaras must be saved, according to Hindu belief.
-
-
-<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
-
-But none of these shall be thine when the time of death arriveth.
+Wife, son, body, house, and wealth confer happiness ; <span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
+_But_ none of these shall be thine when the time of death arriveth.
 Ajamal, the elephant, and the courtesan committed sinful acts ;
 Yet they were saved by repeating God's name.
-My brethren, you have wandered in the wombs of pigs and dogs, and yet you are not ashamed.
+_My brethren_, you have wandered in the wombs of pigs and dogs, and yet you are not ashamed.
 Why forsake the ambrosia of God's name and eat poison ?
 Abandon doubt regarding acts which are prescribed as well as those which are forbidden, and take God's name.
 The slave Kabir saith, by the favour of the guru love God.
-Sum
+
+<p style="text-align:center;">SUHI</p>
+
 Kabir calls on a worldly man to render an account of his life.
 
 <p style="text-align:center;">I</p>
 
-Having been born what hast thou done ? Thou hast never repeated God's name. Thou wilt not repeat His name ; of what thinkest thou ? What preparation art thou making for death, O luckless one ?
+Having been born what hast thou done ? Thou hast never repeated God's name. Thou wilt not repeat His name ; of what thinkest thou ?
+What _preparation_ art thou making for death, O luckless one ?
 Though through woe and weal thou hast brought up thy family,
 At the time of death thou shalt bear thy troubles alone. When Death seizeth thee by the neck, thou shalt utter loud cries.
-Saith Kabir, why did I not remember God before ?
+Saith Kabir, why did I not remember _God_ before ?
 The condition of one who fears God.
 
 <p style="text-align:center;">II</p>
 
-My woman's heart palpitateth and trembleth ; I know not how my Spouse will treat me. The night hath passed away ; let not the days also pass. [^xx1] The black flies have gone ; the white cranes have now taken their place.[^xx2]
-
-[^xx1] That is, my youth has passed, let not my old age also pass in vain [^xx3] My dark hair has changed to grey. .
-SIKH. VI Q
-
-<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
-
-As water will not remain in a frail vessel,[^xx1]
+My woman's _heart_ palpitateth and trembleth ;
+I know not how my Spouse will treat me.
+The night hath passed away ; let not the days also pass. [^259]
+The _black_ flies have gone ; the _white_ cranes have now taken their place.[^260] <span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
+As water will not remain in a frail vessel,[^261]
 So the soul departeth when the body hath faded.
 I adorn myself like a young virgin,
 But how can I enjoy dalliance without my Spouse ?
 My arm is pained from driving away the crows.
-Saith Kabir, this tale is at an end.[^xx2]
+Saith Kabir, this tale is at an end.[^262]
+
 A dialogue between the soul and the messengers of Death. He who feels God's love needs have no apprehension.
-<p style="text-align:center;">Ill</p>
+
+<p style="text-align:center;">III</p>
 
 Thy stewardship being ended, thou must give thine account,
 
-'When the cruel messengers of Death come to take thee.
-They will ask thee what thou hast earned, and where thou hast squandered it ;
-They will say to thee, 'Come quickly, thou art summoned to court ;
+When the cruel messengers of Death come to take thee.
+_They will ask thee_ what thou hast earned, and where thou hast squandered it ;
+_They will say to thee_, ‘Come quickly, thou art summoned to court ;
+‘ The warrant of God's court hath come for thee.' Thou shalt implore them, _and say_, ‘_I have to collect_ some outstandings in the village,
+‘ And I shall adjust my accounts to-night ;
+‘ I will also pay you something for your expenses ;[^263]
+‘ At dawn we shall pray at an inn _on the road_.’ [^264]
+Blest, blest is he and fortunate is his lot,
+Who feeleth God's love by association with the saints.
+That man shall ever be happy in this world and the next ;
+He hath won the priceless _prize_ of human birth.
+He who while awake _to the world_ is asleep _to God_ [^265] hath lost that birth ;
+The property and wealth he hath accumulated shall become another's.
+Saith Kabir, that man hath gone astray, <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
+Who forgetting the Bridegroom hath mixed himself up with _things of_ clay.
 
-* The warrant of God's court hath come for thee.' Thou shalt implore them, and say, [^xx6] 1 have to collect some
-outstandings in the village,
-
-* And I shall adjust my accounts to-night ;
-
-* I will also pay you something for your expenses ;[^xx3]
-
-* At dawn we shall pray at an inn on the road \ [^xx4] Blest, blest is he and fortunate is his lot,
-Who feeleth God's love by association with the saints. That man shall ever be happy in this world and the next ; He hath won the priceless prize of human birth. He who while awake to the world is asleep to God [^xx5] hath lost that birth ;
-
-• The property and wealth he hath accumulated shall become another's.
-Saith Kabir, that man hath gone astray,
-
-[^xx1] A vessel made of clay not hardened by fire.
-
-[^xx2] That is, life is at an end.
-
-[^xx3] As a bribe to the messengers of Death to allow the soul time to answer the warrant.
-
-* That is, give me time to-day, and we shall be well on our journey early to-morrow morning,
-
-& Also translated — He who after being awakened falleth asleep.
-
-
-<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
-
-Who forgetting the Bridegroom hath mixed himself up with things of clay.
 When avarice only departs with life and there is no thought of God, human birth is in vain.
 
 <p style="text-align:center;">IV</p>
 
-The eyes grow weary of seeing, the ears grow weary of hearing, this fair body groweth weary.
-When old age urgeth thee, all thy senses grow weary ; the desire for wealth alone wearieth not.
-
+The eyes grow weary of seeing, the ears grow weary of hearing, _this_ fair body groweth weary.
+When old age urgeth thee, all thy senses grow weary ; _the desire for_ wealth alone wearieth not.
 O foolish man, thou hast not obtained divine knowledge and meditation ;
-Thou hast lost thy human birth in vain.
-
+Thou hast lost thy _human_ birth in vain.
 O mortal, serve God as long as there is breath in thy body ;
 Even though thy body perish, let not thy love for Him perish ; dwell thou at His feet.
 He in whose heart God hath implanted His Word hath ceased to thirst.
 Let the comprehension of God's will be thy game of chaupar, and the conquest of thy heart the throwing of the dice.
 They who know and worship God shall not perish. Saith Kabir , they who know how to throw such dice shall never lose their game.
+
 Kabir has triumphed over his evil passions, his senses, and death itself.
 
 <p style="text-align:center;">V</p>
 
-There are five kings of one fortress ; the whole five ask for revenue [^xx1] —
-
-[^xx1] have not tilled land belonging to any of them ; it would be hard on me to pay a tax for nothing.
-
-O God's people, the village accountant [^xx2] continually worried me,
-
-[^xx1] Hala from hal, a plough — so much revenue levied on every plough. The five evil passions claim their shares.
-
-[^xx2] Here meant for death.
-Q[^xx2]
-
-[^xx228] BHAG ATS OF THE GRANTH SAHIB
+There are five kings of one fortress ; the whole five ask for revenue [^266] —
+I have not tilled land belonging to any of them ; it would be hard on me to pay _a tax_ for nothing.
+O God's people, the village accountant [^267] continually worried me, <span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 But I raised my arms aloft, complained to my guru, and he saved me.
-Nine surveyors [^xx1] and ten judges [^xx2] go on tour, and will not allow the agriculturists & to live ;
+Nine surveyors [^268] and ten judges [^269] go on _tour_, and will not allow the agriculturists [^270] to live ;
 They measure not with a full tape, and they take many bribes.
 The one Being who is contained in the seventy-two chambers of the body hath written off my account ;
-I have searched Dharmraj's office, and find I owe him not an atom.
-Let no one revile the saints ; the saints and God are one. Saith Kabir, I have obtained that Guru whose name is Bibeko.[^xx4]
+I have searched Dharmraj's office, _and find_ I owe him not an atom.
+Let no one revile the saints ; the saints and God are one. Saith Kabir, I have obtained that Guru whose name is Bibeko.[^271]
 Death triumphs over all except God's sincere worshippers.
-Bilawal I
-This world is like a show ; none may remain here ; Proceed the straight way, otherwise thou shalt be severely buffeted.
+
+<p style="text-align:center;">BILAWAL</p>
+
+<p style="text-align:center;">I</p>
+
+This world is like a show ; none may remain here ;
+Proceed the straight way, otherwise thou shalt be severely buffeted.
 Children, the old, and the young, O my brethren, shall all be taken away by Death.
-God hath made poor man like a mouse ; Death like a cat eateth him up ;
+_God_ hath made poor man like a mouse ; Death like a cat eateth him up ;
 He payeth no regard to rich or poor ;
 He destroy eth kings equally with their subjects — so mighty is Death !
-They who please God become His worshippers, and theirs is a special case ;
-They neither come nor go ; [^xx5] they never die ; God is with them.
-Know in your hearts that by forsaking son, wife, wealth, and property which are perishable,
-
-[^xx1] The nine gates of the body.
-
-[^xx2] The organs of action and perception.
-
-[^xx3] Virtues or good qualities.
-
-[^xx4] Bibeko, God who makes one (ek) out of two {bib), who joins the soul of man with Himself.
-
-[^xx5] They do not suffer transmigration.
-
-
-22g
+They who please God _become_ His worshippers, and theirs is a special case ;
+They neither come nor go ; [^272] they never die ; God is with them.
+Know in your hearts that by forsaking son, wife, wealth, and property _which are perishable_, <span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 Saith Kabir, you shall meet the Lord ; hear this, O ye saints.
+
 Kabir is frenzied with devotion.
 
 <p style="text-align:center;">II</p>
 
 I am not skilled in book knowledge, nor do I understand controversy ;
 I have grown mad reciting and hearing God's praises.
-
 O father, I am mad ; the whole world is sane ; I am mad ;
-
-[^xx1] am ruined ; let not others be ruined likewise ;
+I am ruined ; let not others be ruined _likewise_ ;
 I have not grown mad of mine own will ; God hath made me mad —
 The true guru hath dispelled my doubts —
 I am ruined, and have lost my intellect ;
 Let nobody be led astray in doubts like mine.
 He who knoweth not himself is mad ;
 When one knoweth himself he knoweth the one God.
-He who is not intoxicated with divine love in this human birth shall never be so.
-Saith Kabir, I am dyed with the dye of God.[^xx1]
+He who is not intoxicated _with divine love_ in this human birth shall never be so.
+Saith Kabir, I am dyed with the dye of God.[^273]
+
 Kabir's self-abasement.
+
 <p style="text-align:center;">Ill</p>
 
 Though man leave his home for the forest region and gather tubers to live on,
 His sinful and evil mind even then abandoneth not misdeeds.
 How shall I be saved ? how cross over the great terrible ocean ?
-Preserve me, preserve me, O God ; I Thy slave have come to Thine asylum.
+Preserve me, preserve me, O God ; I Thy slave _have come_ to Thine asylum.
 The desire to gratify my evil passions forsaketh me not ;
 Though I make many efforts to guard myself against them, I am entangled in them again and again.
-My life hath passed — youth and old age — no good have I done ;
-
-[^xx1] I am imbued with God's love.
-
-[^xx2] [^xx3] o BHAGATS OF THE GRANTH SAHIB
+My life hath passed — youth and old age — no good have I done ; <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 This priceless human life attached itself to a kauri and became like it.
 Saith Kabir, O my God, Thou art contained in everything ;
-There is none so merciful as Thou, none so sinful as I. The superiority of God's saint,
+There is none so merciful as Thou, none so sinful as I.
+
+The superiority of God's saint,
 
 <p style="text-align:center;">V</p>
 
 There is no king equal to God ;
-All the kings of this world are only for four days, they make false display.[^xx1]
-Why should the slave of Him who overshadoweth the three worlds waver ?[^xx2]
+All the kings of this world are only for four days, they make false display.[^274]
+Why should the slave of Him who overshadoweth the three worlds waver ?[^275]
 Who can lay hands on him when one cannot even speak with due respect before him ?
-
-O thoughtless and foolish mind of mine, think upon God, and the unbeaten music of ecstasy shall play for thee.
-Saith Kabir, all my doubts and uncertainties are at an end ; God hath favoured me as He did Dhru and Prahlad.
+O thoughtless and foolish mind of mine, think _upon God_, and the unbeaten music of ecstasy shall play for thee.
+Saith Kabir, all my doubts and uncertainties are at an end ; _God_ hath favoured me as He did Dhru and Prahlad.
 Kabir depreciates himself.
 
 <p style="text-align:center;">VI</p>
 
 Preserve me, O God, though I have offended Thee.
-
-[^xx1] have not practised humility, the duties of my religion, repetition of Thy name, or worship ; I am proud, I wear my turban on the side of my head.
-
-- Believing this body immortal I have pampered the frail and perishable vessel ;
+I have not practised humility, the duties of my religion, repetition of Thy name, or worship ; I am proud, I _wear_ my turban on the side of my head.
+Believing this body immortal I have pampered the frail and perishable vessel ;
 I have forgotten Him who made and favoured me, and I have attached myself to strangers.
 I am Thy house-breaker and not Thy saint ; I fall at Thy feet for protection —
-Saith Kabir, hear this supplication ; send me not intelligence of death.[^xx3]
-
-[^xx1] Also translated— They make a false claim to greatness.
-
-[^xx2] That is, allow his mind to wander from God.
-
-[^xx3] Holy men are not led off in triumph by Death ; they become insensibly blended with God.
-
+Saith Kabir, hear this supplication ; send me not intelligence of death.[^276]
 
 <span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
@@ -2735,93 +2564,89 @@ An appeal to God.
 
 <p style="text-align:center;">VII</p>
 
-O God, I stand wearied at Thy court ;
+_O God_, I stand wearied at Thy court ;
 Who but Thee careth for me ? open Thy door and shoM' Thyself unto me.
 Thou art my wealth, O Master ; Thou art generous ; Thou art lavish ; I hear with mine ears Thy great praise.
 Of whom shall I beg ? I see every one poor ; from Thee alone I obtain salvation.
-Thou didst confer endless favour on J aide v, Namdev, and the Brahman Sudama.
+Thou didst confer endless favour on Jaidev, Namdev, and the Brahman Sudama.
 Saith Kabir, Thou art all powerful, Thou art generous, Thou bestowest the four blessings without delay.
+
 The following was addressed to a Jogi : —
 
 <p style="text-align:center;">VIII</p>
 
-Thou dependest on a club, earrings, and patched coat ; In error thou wanderest in a Jogi's garb. Put away thy devotional attitudes and thy suspension of breath ;
-Abandon deception, and ever worship God, O fool. The wealth thou beggest for, the three worlds have enjoyed.[^xx1]
-Saith Kabir, God is the only Jogi in the world. [^xx2] Kabir mourns his lukewarmness and condemns all worldly things.
+Thou dependest on a club, earrings, and patched coat ;
+In error thou wanderest in a _Jogi's_ garb.
+Put away thy devotional attitudes and thy suspension of breath ;
+Abandon deception, and ever worship God, O fool.
+_The wealth_ thou beggest for, the three worlds have enjoyed.[^277]
+Saith Kabir, God is the _only_ Jogi in the world. [^278]
+
+Kabir mourns his lukewarmness and condemns all worldly things.
 
 <p style="text-align:center;">IX</p>
 
 O Sovereign of the world, Lord of the earth, mammon hath caused me to forget Thy feet.
 Even a little affection for Thee is not felt by Thy slave ; what shall Thy poor slave do ?
-Curse on this body, curse on this wealth, curse on these worldly things, a double curse on this perishable intellect and understanding !
-
-O man, firmly restrain this worldly love.; if thou subjugate it, thou shalt be saved.[^xx3]
-
-[^xx1] That is, it is the leavings of the three worlds.
-
-[^xx2] Also translated— He who is united with God is the real Jogi.
-
-[^xx3] Also translated— Thou shalt be released from thine entanglements.
-
-<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
-
+Curse on this body, curse on this wealth, curse on _these_ worldly things, a double curse on this perishable intellect and understanding !
+_O man_, firmly restrain this worldly love.; if thou subjugate it, thou shalt be saved.[^279] <span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 What availeth agriculture ? what commerce ? false is worldly pride.
-Saith Kabir, they who practise such things are ultimately ruined, and death cometh to them at last.
-The soul's dependence is on God, not on the perishable body.
-The body is a lake in which a peerless lotus [^xx1] bloometh ; The Supreme Being who hath neither outline nor form, the Primal Light, is within it.
+Saith Kabir, _they who practise such things_ are ultimately ruined, and death cometh to them at last.
 
+The soul's dependence is on God, not on the perishable body.
+
+<p style="text-align:center;">X</p>
+
+The body is a lake in which a peerless lotus [^280] bloometh ;
+The Supreme Being who hath neither outline nor form, the Primal Light, _is within it_.
 O my soul, worship that God, abandon doubt ; God is the life of the world.
-The soul is not seen either coming or going, as is the body.
-Where the body is born, there it perisheth [^xx2] like the leaves of the water lily.
+The soul is not seen either coming or going, as _is the body_.
+Where the body is born, there it perisheth [^281] like the leaves of the water lily.
 They who knowing the world to be transitory abandon it, are happy in the contemplation of God.
 Saith Kabir, worship God in thy heart.
+
 During life Kabir was absorbed in God as the sound of a bronze vessel is absorbed in it when broken,
 
 <p style="text-align:center;">XI</p>
 
-Since my attention is fixed on God, I no longer suspect that I shall suif er transmigration ;[^xx3]
+Since my attention is fixed on God, I no longer suspect that I shall suif er transmigration ;[^282]
 Even in life I am absorbed in the Infinite ; the guru's instruction hath awakened me.
 The sound which is produced from bronze blendeth again with it ;
 When the bronze is broken, O Pandit, where will the sound be ?
-At the union of the three breaths [^xx4] in the brain I have seen Him who is awake in every heart,
-
-[^xx1] The heart.
-
-[^xx2] That is, the body is resolved into the elements whence it sprang,
-
-[^xx3] Literally — my doubts regarding birth and death have departed.
-
-[^xx4] Of the left and right nostrils and their junction. Trihdi sandhi also includes gyata, the knower; gyan, the means of knowledge; and geya, the subject of knowledge. Devout men endeavour to unite all three.
-
-
-<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
-
-And now such understanding hath entered my heart that I have abandoned the world.
+At the union of the three breaths [^283] _in the brain_ I have seen Him who is awake in every heart, <span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
+And now such understanding hath entered my heart that I have abandoned _the world_.
 When I knew myself, my light was blended with God's light—
-Saith Kabir, I now know God and my mind is satisfied.
+Saith Kabir, I now know _God_ and my mind is satisfied.
+
 The holy man will not waver but be everywhere happy.
 
 <p style="text-align:center;">XII</p>
 
 O God, why should that man waver in whose heart abide Thy lotus feet ?
 Believe that all happiness and the nine treasures are his who tranquilly repeateth God's praises.
-
-. When God openeth the hard knot, [^xx1] man shall be wise enough to behold Him in everything.
-He who ever avoideth worldly love and weigheth his heart in the scale of meditation,
+When God openeth the hard knot, [^284] man shall be wise enough to behold Him in everything.
+He who ever avoideth worldly love and weigheth his heart in the scale _of meditation_,
 Shall be happy wherever he goeth, O Lord, and worldly love shall not sway him.
 Saith Kabir, my heart is happy since it hath been absorbed in God's love.
+
 An inquirer asked Kabir with whom one should converse. The following was his reply : —
-Gaund I
+
+<p style="text-align:center;">GAUND</p>
+
+<p style="text-align:center;">I</p>
+
 When thou meet est a saint, have some conversation with him ;
 When thou meet est a man who is not a saint, remain silent.
-Kabir was asked again — O father, if I speak what shall I speak about ? For instance, ' Continue to repeat God's name.' They who talk to saints confer advantage on others ; They who talk to fools talk in vain.
+_Kabir was asked again_ —
+O father, if I speak what shall I speak about ?
+For instance, ‘ Continue to repeat God's name.’
+They who talk to saints confer advantage on others ;
+They who talk to fools talk in vain. <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
+By incessant talking _with them_ sin increaseth ;
+If I speak not to them, what harm can the wretches do me ?[^285]
+Saith Kabir, an empty vessel soundeth ;
+When it is full it never giveth forth a sound.
 
-[^xx1] The distance between God and the soul.
-
-<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
-
-By incessant talking with them sin increaseth ; If I speak not to them, what harm can the wretches do me ?[^xx1]
-Saith Kabir, an empty vessel soundeth ; When it is full it never giveth forth a sound.
 Man's dead body is much more worthless than that of a beast, and consequently an object of contempt.
 
 <p style="text-align:center;">II</p>
@@ -2830,24 +2655,23 @@ When a man dieth he is of no use ;
 When a beast dieth he is of ten uses.
 What do I know regarding my fate ;
 What do I know, O sir ?
-Man's bones burn like a heap of fire-wood ;
+_Man's_ bones burn like a heap of fire-wood ;
 His hair burnetii like a bundle of grass.
 Saith Kabir, man only awaketh
 When the club of Death toucheth his head.
+
 God is everywhere, even in the acts which attach to the soul.
-<p style="text-align:center;">Ill</p>
+
+<p style="text-align:center;">III</p>
 
 God abideth in the heaven above, in the earth heneath, and in every direction.
 The Supreme Being is ever the root of joy ; the body may perish, but God shall not.
-I am anxious to know
+I am anxious to _know_
 Whence the soul cometh and whither it goeth.
 Five elements combined form the body ; out of what were the elements formed ?
 Thou sayest that the soul is bound by its acts ; who gave life to the acts ?
 The body is contained in God, God in the body ; He is uninterruptedly in all things.
 Saith Kabir, I will not abandon God's name, come what may.
-
-[^xx1] Also translated — If I talk not io saints, how can I practise discrimination ?
-
 
 <span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
@@ -2855,11 +2679,11 @@ The soul described by negatives.
 
 <p style="text-align:center;">V</p>
 
-Somebody asked Kabir : —
+_Somebody asked Kabir_ : —
 What is that whose limit hath never been found,
 Which dwelleth within the temple of the body ?
-Kabir replied — It is neither man nor demigod ;
-It is not a Jati or a worshipper of Shiv ;
+_Kabir replied_ — It is neither man nor demigod ;
+It is not a Jati or a _worshipper_ of Shiv ;
 It is not a Jogi or an Audhut ;
 It hath no mother, nor is it any one's son ;
 It is not a householder or an anchoret ;
@@ -2869,8 +2693,12 @@ It is not a Brahman or a Khatri ;
 It is not an ascetic or a shaikh ;
 It is not born, nor is it observed to die ;
 Whoever weepeth for its death
-Shall lose his honour.[^xx1]
-By the favour of the guru, I have found the steep way ; Birth and death have both been erased for me. Saith Kabir, this soul is a part of God, As ink cannot be erased from paper.[^xx2]
+Shall lose his honour.[^286]
+By the favour of the guru, I have found the steep way ;
+Birth and death have both been erased for me.
+Saith Kabir, this soul is a part of God,
+As ink cannot be erased from paper.[^287]
+
 Kabir's wife thus addressed him on the neglect of his trade and his attentions to saints.
 
 <p style="text-align:center;">VI</p>
@@ -2880,97 +2708,112 @@ Thy reeds shine over the door,
 Thy poor brush hath gone to pieces —
 May death light on this shaven fellow's head !
 This shaven fellow hath lost all his property.
-I am persecuted by those fakirs coming and going.[^xx3]
-
-[^xx1] Shall only excite contempt.
-
-[^xx2] Also translated — His praise cannot be erased from paper ; that is, His praise is continually written and shall be permanent.
-
-[^xx3] This and the two preceding lines are also translated — Death hath lighted on these shaven fellows' heads. They have caused us to lose ail our property.
-There is no end to their coming or going.
-
-<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
-
-Kabir now never speaketh of his beam or his shuttle ; His mind is only concerned with the name of God. His daughter and sons have nothing to eat ; Men with shaven heads are crammed night and day ; One or two are in the house, and one or two on the way. We have only a pallet on the ground ; they get a bed to sleep on.
-They rub their heads with satisfaction and carry books in their waist-bands ;
+I am persecuted by those _fakirs_ coming and going.[^288] <span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
+Kabir now never speaketh of his beam or his shuttle ;
+His mind is only concerned with the name of God.
+His daughter and sons have nothing to eat ;
+Men with shaven heads are crammed night and day ;
+One or two are in the house, and one or two on the way.
+We have only a pallet _on the ground_ ; they get a bed to _sleep on_.
+They rub their heads _with satisfaction_ and _carry_ books in their waist-bands ;
 We get parched pulse, they bread to eat.
 The shaven-heads and my shaven-headed husband have become all one.
-Kabir replieth — These shaven-heads are the support of the drowning.
+_Kabir replieth_ — These shaven-heads are the support of the drowning.
 Hear, O blind misguided Loi,
 Kabir hath taken the protection of these shaven-heads.
 When man dies, mammon, who is described, weeps not for him.
 
 <p style="text-align:center;">VII</p>
 
-When the husband dieth, his wife weepeth not. [^xx1] . She findeth another protector ; And when that protector also dieth, Hell awaiteth him though he have enjoyed pleasures here. One woman [^xx2] alone is dear to the world ; She is the wife of all sentient beings. With a necklace on her neck she looketh beautiful ; She pleaseth the world, but is hateful as poison to the holy.
+When the husband dieth, his wife weepeth not. [^289] .
+She findeth another protector ;
+And when that protector also dieth,
+Hell awaiteth him though he have enjoyed pleasures here.
+One woman [^290] alone is dear to the world ;
+She is the wife of all sentient beings.
+With a necklace on her neck she looketh beautiful ;
+She pleaseth the world, but is hateful as poison to the holy.
 Adorning herself she either sitteth like an abandoned woman,
-Or the wretch wandereth about accursed of the saints. When the saints flee from her, she pursueth them ; But, by the favour of the guru, she feareth punishment. She is the body and soul of the infidel ; Her dreadful witch's eye falleth on me.
-
-* When man dieth, his wealth does not weep for him. [^xx2] Maya, wealth. She never becomes a widow, hence the title suhagan.
-
-
-<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
-
+Or the wretch wandereth about accursed of the saints.
+When the saints flee from her, she pursueth them ;
+But, by the favour of the guru, she feareth punishment.
+She is the body and soul of the infidel ;
+Her dreadful witch's eye falleth on me. <span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 When the merciful holy guru met me,
-I became well acquainted with her secrets.[^xx1]
+I became well acquainted with her secrets.[^291]
 Saith Kabir, I have now turned her out,
 And she hath attached herself to the skirt of the world.
 A further description of mammon.
 
 <p style="text-align:center;">VIII</p>
 
-The guest cometh and departeth hungry From the house which hath no wealth. The guest loseth patience,
-And the host is blamed because he hath not means to entertain him. Hail to the woman who hath turned the heads Of very holy men and penitents high and low ! She is a miser's daughter ;
-Rejecting God's worshippers she sleepeth with everybody. At last standing at the saints' door, She saith, ' I have sought your protection, save me ! [^xx5] The woman is very beautiful ; Her ornaments tinkle on her feet ; As long as man is alive she attacheth herself to him ; When he dieth she quickly departeth without waiting for her shoes.
+The guest cometh and departeth hungry
+From the house which hath no wealth.
+The guest loseth patience,
+And the host is blamed because he hath not means _to entertain him_.
+Hail to the woman who hath turned the heads
+Of very holy men and penitents high and low !
+She is a miser's daughter ;
+Rejecting God's worshippers she sleepeth with everybody.
+At last standing at the saints' door,
+She saith, ‘ I have sought your protection, save me ! ’
+The woman is very beautiful ;
+Her ornaments tinkle on her feet ;
+As long as man is alive she attacheth herself to him ;
+When he dieth she quickly departeth without waiting for her shoes.
 The woman hath conquered the three worlds ;
 She hath made the eighteen Purans and the places of pilgrimage love her ;
-She hath pierced the hearts of Brahma, Vishnu, and Shiv,
+She hath pierced _the hearts_ of Brahma, Vishnu, and Shiv,
 And infatuated great kings and sovereigns.
 There are no bounds to the woman ;
 She is in collusion with the five evil passions.
 Where the vessels of the five evil passions burst,
 Saith Kabir, I was delivered thence by the favour of the guru.
+
 Without a guru man must fall and perish.
 
 <p style="text-align:center;">IX</p>
 
-If the rafters be taken from a house, the roof will fall ; So without God's name how can man be saved ?
+If the rafters be taken from a house, the roof will fall ; So without God's name how can man be saved ? <span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
+As water will not remain without a vessel,
+So without a religious guide man shall go to hell.
+Burn him who thinketh not on God,
+But whose mind is ever absorbed in the field of his body.
+As without a ploughman land cannot be tilled,
+As without a thread jewels cannot be strung,
+And as without a loop clothes cannot be fastened,
+So without a holy guide man shall go to hell.
+As a child cannot be born without a father and mother,
+As clothes cannot be washed without water,
+As one cannot ride without an equipage,
+As without music there cannot be dancing,
+So without a guru _man cannot reach God's_ court.
+As the bad woman leaving her husband looketh for another, _thus eager should man be_ to obtain a guru.
+Saith Kabir, do one thing — Become holy and thou shalt not die again.
 
-[^xx1] And was thus the better able to guard against her.
-
-<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
-
-As water will not remain without a vessel, So without a religious guide man shall go to hell. Burn him who thinketh not on God, But whose mind is ever absorbed in the field of his body. As without a ploughman land cannot be tilled, As without a thread jewels cannot be strung, And as without a loop clothes cannot be fastened, So without a holy guide man shall go to hell. As a child cannot be born without a father and mother, As clothes cannot be washed without water, As one cannot ride without an equipage, As without music there cannot be dancing, So without a guru man cannot reach God's court. As the bad woman leaving her husband looketh for another, thus eager should man be to obtain a guru. Saith Kabir, do one thing — Become holy and thou shalt not die again.
 The following hymn was a reply to some one who had addressed vile abuse to Kabir and called him a pander, a dancer, a street- walker, and a thief : —
 
 <p style="text-align:center;">X</p>
 
-Is he a pander [^xx1] who chasteneth his heart ?
+Is he a pander [^292] who chasteneth his heart ?
 He who chasteneth his heart shall escape from death.
-The pander who thoroughly chasteneth his heart, and applieth to it the touch-stone of love,
+The pander who thoroughly chasteneth his heart, and applieth to it the touch-stone _of love_,
 Shall obtain complete deliverance.
 Whom do you call a pander, O people ?
-
-•In everything that is spoken discrimination should be used.
+In everything that is spoken discrimination _should be used_.
 Is he a dancer who danceth with his mind,
 Who is not satisfied with falsehood, who is pleased with truth,
-And who beateth time with his heart in the presence of God ? God, whose mind is pure, preserveth such a dancer.[^xx2]
-
-[^xx1] Kutan as a noun is a pander and as a verb to beat or chasten. There is a play on the word in the original. It was applied to Kabir, because when his daughter was visiting him, he allowed a strange man shelter in his house.
-
-[^xx2] Also translated — God steadieth the mind of such a dancer.
-
-
-<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
-
-Is he a street-walker who sweepeth the market-place,[^xx1]
-And lighteth up the five wicks ?[^xx2]
+And who beateth time with his heart in the presence _of God_ ?
+God, whose mind is pure, preserveth such a dancer.[^293] <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
+Is he a street-walker who sweepeth the market-place,[^294]
+And lighteth up the five wicks ?[^295]
 I accept as my guru that street-walker
-Who embraceth the service of the lord of the nine continents.[^xx3]
+Who embraceth the service of the lord of the nine continents.[^296]
 Is he a thief who is not envious,
 Who uttereth God's name and curbeth his senses ?
 Saith Kabir, blessings on my divine guru,
 Who possesseth all such qualities and who is very handsome and clever.
+
 The following is an encomium on the staff of life :—
 
 <p style="text-align:center;">XI</p>
@@ -2981,10 +2824,10 @@ Corn cometh from the Primal Being —
 Repeat God's name with the relish of corn.
 Praise His name, praise His corn ;
 With water pleasant is its taste.
-He who abstaineth from corn,[^xx4]
-Shall lose his honour in the three worlds.[^xx5]
-She [^xx6] who abandoneth corn and practiseth hypocrisy,
-Is neither a wife nor a widow.[^xx7]
+He who abstaineth from corn,[^297]
+Shall lose his _honour_ in the three worlds.[^298]
+She [^299] who abandoneth corn and practiseth hypocrisy,
+Is neither a wife nor a widow.[^300]
 They who publicly boast that they live on milk,
 Secretly eat a whole five sers of corn.
 Without corn no one is happy ;
@@ -2992,121 +2835,77 @@ Abandon corn and you shall not meet God.
 Saith Kabir, such is what I think ;
 Blessings on that corn by which man loveth his God !
 
-[^xx1] That is, cleanses his heart.
-
-[^xx2] Illumines his five senses. This is also translated— Who arimonisheth his five evil passions.
-
-[^xx3] Also translated — Who knoweth the nine forms of devotion to God.
-
-[^xx4] As some ascetics do.
-
-[^xx5] Because he practises hypocrisy.
-
-[^xx6] The feminine gender [^xx3] as usual, for man in general.
-
-[^xx7] Is neither a worldly person nor an anchoret.
-
 <span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 The following was addressed to a Jogi who endeavoured to induce Kabir to drink wine.
 Ramkali I
 Make thy body the vat, the guru's instruction thy molasses;
 Cut up avarice, lust, wrath, pride, and envy as thy kikar bark ; thus mix thy yeast.
-Is there any saint, in whose heart composure and happiness dwell, to whom I may offer my devotion and penance as commission for procuring me such wine ?
+Is there any saint, in whose heart composure and happiness dwell, to whom I may offer my devotion and penance as commission _for procuring me such wine_ ?
 I will give my soul and body for one drop of the wine which that vat produceth.
-I have made the fourteen worlds my furnace, and heated it with the fire of divine knowledge ;[^xx1]
-I have sealed the still with the gentle sound of God's name, and plastered it with what yieldeth mental happiness.
-Pilgrimage, fasting, daily religious ceremonies, purifications, and austerities at eclipses of the sun and moon I would pledge for that wine.
-Make meditation thy cup, God's ambrosial name the pure juice, and drink that elixir;
-From such a still a very pure trickling stream ever issueth, and the soul is delighted therewith.
+I have made the fourteen worlds my furnace, and heated it with the fire of divine knowledge ;[^301]
+I have sealed the still with the gentle sound of _God's name_, and plastered it with what yieldeth mental happiness.
+Pilgrimage, fasting, daily religious ceremonies, purifications, and austerities at _eclipses_ of the sun and moon I would pledge _for that wine_.
+_Make_ meditation thy cup, God's ambrosial name the pure juice, and drink that elixir;
+_From such a still_ a very pure trickling stream ever issueth, and the soul is delighted therewith.
 Saith Kabir, all other wines are insipid ; this is the true elixir.
+
 On the same subject.
 
 <p style="text-align:center;">II</p>
 
 Make divine knowledge thy molasses, meditation thy bassia flow T ers, and the fear of God in thy heart thy furnace :
-The drinker who is absorbed in God by means of the breath of the sukhmana imbibeth such wine.
-
+The drinker who is absorbed in God by means of the breath of the sukhmana imbibeth _such wine_.
 O Jogi, my mind is intoxicated —
-When that wine ascendeth to the brain man relisheth no other ; [^xx2] there is then light in the three worlds. :
-
-[^xx1] I have taken the light of divine knowledge to guide me.
-
-[^xx2] Also translated — Those who are intoxicated with celestial wine never taste earthly wine.
-
-
-<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
-
+When that wine ascendeth to the brain man relisheth no other ; [^302] there is then light in the three worlds. : <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 Joining God and the soul I have prepared a furnace and drunk the excellent elixir ;
 I have burnt lust and wrath as firewood, and escaped from worldliness.
 The light of divine knowledge appeared to me when I met my true guru and obtained understanding.
-The slave Kabir is intoxicated with that wine, and will never abstain therefrom.[^xx1]
+The slave Kabir is intoxicated with that wine, and will never abstain therefrom.[^303]
+
 Kabir was likened to a Kotwal for his severity to the wicked, and to a dog for his barking. He accepted both imputations.
 
 <p style="text-align:center;">IV</p>
 
-I honour the saints and I punish the wicked ; this is my court-house.[^xx2]
-I shampoo Thy feet, O God, day and night ; I turn my hair into a chauri and wave it over Thee.
+I honour the saints and I punish the wicked ; this is my court-house.[^304]
+I shampoo Thy feet, _O God_, day and night ; I turn my hair into a chauri and wave it over Thee.
 I am the dog at Thy court ;
-I bark in front of it [^xx3] putting forward my snout.
-In a former birth I was Thy servant ; that position I cannot now resign.
-The gentle order of Thy court was branded on my forehead.[^xx4]
+I bark in front of it [^305] putting forward my snout.
+In a former birth I was Thy servant ; _that position_ I cannot now resign.
+The gentle order of Thy court was branded on my forehead.[^306]
 They who bear such brand fight bravely in battle ; they who bear it not flee away.
-He who is holy knoweth how to serve God, and God putteth him into His treasury.[^xx5]
-In the house of the body is the chamber of the heart, which becometh the most precious chamber of all when filled with meditation on God.
-The guru hath granted God's name, the Real Thing, to Kabir, saying, ' Take it and guard it ' ;
-Kabir hath offered it to the world, but only he who was so destined receiveth it —
-
-[^xx1] Also translated — that wine whose intoxication shall never subside.
-
-[^xx2] The Kotwal in modern times is a police-officer, but in the time of Kabir the Kotwal was a magistrate and police-officer combined.
-
-[^xx3] That is, I pray to Thee.
-
-* That is, I was branded as Thy slave in a former birth, [^xx5] Because he is a genuine and not a counterfeit coin.
-SIKH. VI R
-
-<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
-
+He who is holy knoweth how to serve God, and God putteth him into His treasury.[^307]
+In the house _of the body_ is the chamber _of the heart, which becometh_ the most precious chamber of all when filled with meditation _on God_.
+The guru hath granted God's name, the Real Thing, to Kabir, saying, ‘ Take it and guard it ’ ;
+Kabir hath offered it to the world, but only he who was so destined receiveth it —<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 Abiding is the married state of her who hath found the immortal elixir.
+
 The Brahman trusts not to God but to the Veds and the Gayatri, and hence he shall be lost.
 
 <p style="text-align:center;">V</p>
 
 Why shouldst thou, O Brahman, forget Him from whose mouth the Veds and the Gayatri issued ?
 Why shouldst not thou, O Pandit, utter the name of God, whose feet every one toucheth ?
-
 O my Brahman, why not repeat God's name ?
 If thou utter not His name, O Pandit, thou shalt be cast into hell.
-Thou callest thyself exalted, yet thou eatest in the houses of the low, and fillest thy belly by the exaction of alms.[^xx1]
+Thou _callest_ thyself exalted, yet thou eatest in the houses of the low, and fillest thy belly by the exaction of alms.[^307]
 On the fourteenth and fifteenth days of the half month thou devisest tales and beggest, but even with a lamp in thy hand thou shalt fall into the pit.
 Thou art a Brahman, I am a weaver of Banaras ; how can I be a match for thee ?
 By repeating the name of God I have been saved, while thou, O Pandit, shalt be lost by trusting to the Veds.
+
 A mystic hymn in which God is represented under the allegory of a tree.
 
 <p style="text-align:center;">VI</p>
 
-There is one tree ; [^xx2] it hath endless branches and shoots ; its blossoms [^xx3] and leaves [^xx4] are filled with nectar.[^xx5]
-This world is a garden [^xx6] of ambrosia ; God who is perfect hath created it.
+There is one tree ; [^308] it hath endless branches and shoots ; its blossoms [^309] and leaves [^310] are filled with nectar.[^311]
+This world is a garden [^312] of ambrosia ; God who is perfect hath created it.
 The few holy men in whose hearts the light of God shineth,
 Know the story of my beloved sovereign God.
-One bumble-bee [^xx7] intoxicated with the juice of the flowers
+One bumble-bee [^313] intoxicated with the juice of the flowers <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> hath fixed his mind within the twelve petals of the lotus of the heart ;
+He then raising his breath to the lotus of sixteen petals in his brain gaineth the ecstatic fruit thereof.[^314]
+Another tree [^315] was produced in the silent vacuum ; it dried up the waters of the earth ;[^316]
+Saith Kabir, I am a servant of those who have seen that tree.[^317]
 
-[^xx1] Literally— by obstinate acts, by threatening suicide. &c.
-
-[^xx2] God. * Saints.
-
-[^xx4] The rest of sentient beings. [^xx5] God's name.
-
-[^xx8] In which the branches and shoots have been planted. [^xx7] The searcher for God.
-
-
-<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
-
-hath fixed his mind within the twelve petals of the lotus of the heart ;
-He then raising his breath to the lotus of sixteen petals in his brain gaineth the ecstatic fruit thereof.[^xx1]
-Another tree [^xx2] was produced in the silent vacuum ; it dried up the waters of the earth ;[^xx3]
-Saith Kabir, I am a servant of those who have seen that tree.[^xx4]
 The following was addressed to a Jogi : —
 
 <p style="text-align:center;">VII</p>
@@ -3115,23 +2914,11 @@ Make silence thine earrings, mercy thy wallet, and meditation thy cup ;
 Stitch thy body for thy patched coat, and make the Name thy support.
 
 O Jogi, practise such Jog
-That thou may est while enjoying the world perform thy devotion, penance, and austerities under the guru's instruction.
-Make the knowledge of God the ashes thou smearest on thy body, [^xx5] and meditation thy horn ;
+That thou may est while enjoying _the world_ perform thy devotion, penance, and austerities under the guru's instruction.
+Make the knowledge _of God_ the ashes thou smearest on thy body, [^318] and meditation thy horn ;
 Abandoning the world, roam in the city of the body, and play thy heart as a kinguri ;
 Plant the five virtues in thy heart so that thy contemplation may be undisturbed by the world.
 Saith Kabir, hear, O saints, make honesty and mercy your garden.
-
-[^xx1] There is supposed to be a lotus with twelve petals in the heart. Kabir means that his mind as a bumble-bee has entered that lotus. There is also supposed to be another lotus in the brain which has sixteen petals, and to this again his mind ascends.
-Others suppose that the numbers twelve and sixteen in the above lines mean the repetition of Oam similar numbers of times.
-
-[^xx2] This tree is divine knowledge which has its seat in the brain.
-
-[^xx3] It removed man's earthly desires.
-
-[^xx4] In this hymn tree is also said to mean the universe, the branches and shoots are the planets and stars, the flowers are the saints, the leaves the rest of sentient beings.
-
-[^xx6] Jogis smear ashes on their naked bodies as clothing or protection against the elements.
-R[^xx2]
 
 <span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
@@ -3141,47 +2928,55 @@ Kabir in a fit of introspection and self-abasement addressed himself.
 
 For what object wast thou born in the world, and what advantage hast thou gained from thy human birth ?
 Thou hast not applied thy mind even for a moment to God, the Fulfiller of desires, the Vessel to take thee across the terrible ocean,
-
 O God, such sinners are we,
 That we have never performed service for that Lord who gave us our souls and bodies.
-The passion to possess others' wealth, children, and wives, and to slander and calumniate others hath not forsaken us.
+_The passion_ to possess others' wealth, children, and wives, and to slander and calumniate others hath not forsaken us.
 We suffer transmigration again and again ; this law is not broken.
-
-[^xx1] have not wandered even for a moment to where the conversation of the saints of God is held.
+I have not wandered even for a moment to where the conversation of the saints of God is held.
 Libertines, thieves, panders, and drunkards — with them have I ever consorted.
 My possessions are lust, wrath, covetousness, pride, and envy.
-Mercy, honesty, and service to the guru have not come to me even in my dreams.
+Mercy, honesty, and service to the guru _have_ not _come to me even_ in my dreams.
 O God, compassionate to the poor, merciful, dear to the saints, Remover of fear,
 Prayeth Kabir, preserve Thine afflicted slave, O God, and I will perform Thy service.
+
 Remember God and do Him homage.
 
 <p style="text-align:center;">IX</p>
 
 Remember in thy heart the Being,
 By whose remembrance thou shalt obtain the gate of deliverance,
-Go to heaven, and return not to this world.
+Go to heaven, and _return not to this_ world.
 Play the trumpets in the house of the Fearless One,
 And the unbeaten strain shall ever fully resound for thee.
-Without remembering Him deliverance can never be obtained.
-
-
-<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
-
-Heartily bow before the Being, By remembering whom none may refuse thee ; Who conferreth salvation by which great loads of sin drop off,
-And thy transmigration is at an end. Remember Him through whom thou en joy est thyself, And an everburning [^xx1] lamp shall be placed within thee —
-The lamp [^xx2] which rendereth the world immortal, And expelleth the poison of lust and wrath. Twine and wear on thy neck the rosary Of Him by remembering whom Thy salvation shall be obtained. Wear that rosary, doff it not, And by the favour of the guru thou shalt be saved. Remember the Beloved day and night, And thou shalt have no regard for men ; Thou shalt sleep at home in silken bed-clothes, And thy heart shall be gladdened by a pleasant couch Ever remember God in thy heart and sing His praises. By remembering Him thy troubles shall depart, And Maya affect thee not.
-From the true guru learn how to remember God ; Remember Him ever day and night. Standing or sitting, at every expiration and inspiration, Waking or sleeping, enjoy the sweets of remembering Him ;
-By remembering God thou shalt be united with Him. [^xx3] Make the remembrance of God's name thy support ; By remembering Him no weight of sin shall oppress thee.
-Neither wrought nor spoken incantations can prevail with Him,[^xx4]
+Without remembering Him deliverance can never be obtained. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
+Heartily bow before the Being,
+By remembering whom none may refuse thee ;
+Who conferreth salvation by which great loads of sin drop off,
+And thy transmigration is at an end.
+Remember Him through whom thou en joy est thyself,
+And an everburning [^319] lamp shall be placed within thee —
+The lamp [^320] which rendereth the world immortal,
+And expelleth the poison of lust and wrath. 
+Twine and wear on thy neck the rosary
+Of Him by remembering whom Thy salvation shall be obtained.
+Wear that rosary, doff it not,
+And by the favour of the guru thou shalt be saved.
+Remember the Beloved day and night,
+And thou shalt have no regard for men ;
+Thou shalt sleep at home in silken bed-clothes,
+And thy heart shall be gladdened by a pleasant couch
+Ever remember God in thy heart and sing _His praises_.
+By remembering Him thy troubles shall depart,
+And Maya affect thee not.
+From the true guru learn how to remember God ;
+Remember Him ever day and night.
+Standing or sitting, at every expiration and inspiration,
+Waking or sleeping, enjoy the sweets of remembering _Him_ ;
+By remembering God thou shalt be united with Him. [^321]
+Make the remembrance of God's name thy support ;
+By remembering Him no weight of sin shall oppress thee.
+Neither wrought nor spoken incantations can prevail with Him,[^322]
 Saith Kabir, who hath no limit.
-
-[^xx1] Literally — a lamp not fed with oil.
-
-[^xx2] Divine knowledge.
-
-[^xx3] Also translated — Thou shalt obtain good fortune.
-
-[^xx4] God is only moved by our remembering Him and repeating His naine with devotion.
 
 <span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
@@ -3189,27 +2984,35 @@ The condition of him who has put his passions under subjection.
 
 <p style="text-align:center;">X</p>
 
-He who hath captivated the captivators, [^xx1] Shall obtain deliverance, and the guru shall put out the fire of his passions. [^xx2] When I had thoroughly examined my heart, I made my ablutions within it. To dwell in God, the Lord of life, is the best thing ; There is then no death, or birth, or decay. Turning away from mammon I restrained my mind, And I entered the region of God. [^xx3] I have pierced the serpent's way, [^xx4] And assuredly met God.
-Worldly love and mammon no more affect me ; The sun hath restrained the moon. [^xx5] When I completely stopped my breath, The lute played spontaneously. The preacher hath communicated this instruction ; The hearer hath heard and treasured it in his heart. He who acteth according to it shall be saved, Saith Kabir verily.
+He who hath captivated the captivators, [^323]
+Shall obtain deliverance, and the guru shall put out the fire of his passions. [^324]
+When I had thoroughly examined my heart,
+I made my ablutions within it.
+To dwell in God, the Lord of life, is the best thing ;
+There is then no death, or birth, or decay.
+Turning away from mammon I restrained my mind,
+And I entered the region of God. [^325]
+I have pierced the serpent's way, [^326]
+And assuredly met God.
+Worldly love and mammon no more affect me ;
+The sun hath restrained the moon. [^327]
+When I completely stopped my breath,
+The lute played spontaneously.
+The preacher hath communicated this instruction ;
+The hearer hath heard and treasured it in his heart.
+He who acteth according to it shall be saved,
+Saith Kabir verily.
+
 God is a luminous diamond whose light fills creation.
 
 <p style="text-align:center;">XI</p>
 
-The moon and sun are both forms of light ; God the unequalled pervadeth their light.
-
+The moon and sun are both forms of light ;
+God the unequalled pervadeth their light.
 O wise man, meditate on God
-In whose light creation is contained. Beholding God, the Diamond, I prostrate myself before Him.
+In whose light creation is contained.
+Beholding God, the Diamond, I prostrate myself before Him.
 Saith Kabir, He is bright and yet invisible.
-
-[^xx1] He who has put his passions under subjection.
-
-[^xx2] These two lines are also translated —
-They who are attached to worldly things fall into the net of Death, While they whose avarice the guru extinguished are delivered.
-
-[^xx3] Gagan—Wterdtty, the firmament — is a word applied by Jogis to the brain or tenth gate of the body where God dwells.
-
-* A supposed passage for air through the spinal marrow to the brain. a The brain retains the breath, and a state of exaltation supervenes.
-
 
 <span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
@@ -3219,78 +3022,72 @@ Some Hindus asked Kabir to give them instruction, upon which he composed the fol
 
 O world, be alert and wakeful ; even while awake you are being robbed, my brethren.
 Even while the Veds, who are alert sentinels, look on, Death will take you away.
-The fool, the blockhead, and the pagan think that the nim is a mango, and the mango a nim;[^xx1]
-That a ripe plantain-tree [^xx2] is but a prickly bush, and that the fruit of the coco-nut [^xx3] is like the ripe fruit of the simmal.
+The fool, the blockhead, and the pagan think that the nim is a mango, and the mango a nim;[^327]
+That a ripe plantain-tree [^328] is but a prickly bush, and that the fruit of the coco-nut [^329] is like the ripe fruit of the simmal.
 God is the sugar which hath been spilled in the dust ; it cannot be picked up by the elephant.
 Saith Kabir, renounce family, caste, and lineage, become an ant, and thou canst pick up and eat the sugar.
 A remonstrance to a Brahman for offering animal sacrifice to an idol.
-Maru I
+
+<p style="text-align:center;">MARU</p>
+
+<p style="text-align:center;">I</p>
 
 O Pandit, what folly meditatest thou ?
-Thou shalt be ruined with all thy family for not having repeated God's name, O luckless man.
-What availeth thee to read the Veds and the Purans ? It is like loading a donkey with sandal whose perfume he valueth not.
-Thou knowest not how to repeat God's name ; how shalt thou be saved ?
+Thou shalt be ruined with all thy family for not having repeated God's _name_, O luckless man.
+What availeth thee to read the Veds and the Purans ? It is like loading a donkey with sandal _whose perfume he valueth not_.
+Thou knowest not how _to repeat_ God's name ; how shalt thou be saved ?
 Thou takest life and deemest it religious ; tell me, my brother, what thou callest irreligious.
 Thou makest thyself out an excellent muni ; whom callest thou a butcher ?
-Mentally blind thou knowest not thyself ;[^xx4]
-
-[^xx1] They think good evil and evil good. The fruit of the mm is bitter, of the mango sweet.
-
-[^xx2] God's name. [^xx3] Association with saints. [^xx4] That is, God who is in thee.
-
-<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
-
+Mentally blind thou knowest not thyself ;[^330] <span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 What shalt thou cause others to know ?
 Thou sellest knowledge for money, thy life passeth in vain.
 Narad and Vyas declare— and thou mayest go and ask Shukdev also —
-Saith Kabir, too, by uttering the name of God ye shall be delivered ; otherwise ye shall perish, my brethren.
+Saith Kabir, _too_, by uttering the name of God ye shall be delivered ; otherwise ye shall perish, my brethren.
+
 It is the condition of the heart, not man's garb or place of residence, which produces happiness.
 
 <p style="text-align:center;">II</p>
 
-Unless you remove evil from your hearts, how shall you find God by dwelling in the forest ?
+Unless you remove evil from your hearts, how shall you find _God_ by dwelling in the forest ?
 They who deem their own homes equal to the forest are perfect among men.
 You shall obtain true happiness,
-If you lovingly repeat the name of the Life of the world.
-What avail wearing matted hair, smearing yourselves with ashes, and dwelling in caves ?
+If you lovingly repeat _the name of_ the Life _of the world_.
+What avail _wearing_ matted hair, smearing yourselves with ashes, and dwelling in caves ?
 He who hath conquered his own heart hath conquered the world, because he is free from the deadly sins.
 All people use eye-wash, but there is a difference in their blandishments.
-The eyes to which the surma of divine knowledge is applied, are acceptable to God.
-Saith Kabir, I now know God ; the guru hath explained divine knowledge to me ;
+The eyes to which the surma of divine knowledge is applied, are acceptable _to God_.
+Saith Kabir, I now know _God_ ; the guru hath explained divine knowledge _to me_ ;
 I have met God who dwelleth in the heart ; my mind shall now no more wander.
+
 The following was addressed to a Jogi whom Kabir found begging and boasting that he had obtained all spiritual wealth and perfection : —
 
 <p style="text-align:center;">III</p>
 
 What hath he who hath obtained spiritual wealth and supernatural power to do with any one ?
 What shall I say regarding thy language ? I am much ashamed to speak to thee.
-He who hath obtained God,
-
-
-<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
-
+He who hath obtained God, <span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 Wandereth not from door to door.
-This false world greatly burneth for wealth in the hope of using it for a few days.
+This false world greatly burneth _for wealth_ in the hope of using it for a few days.
 Whosoever drinketh God's water shall not be thirsty again ;
 He who knoweth God by the favour of the guru abandoneth all worldly desires.
-When the heart is withdrawn from the world, the True One appeareth everywhere.
+When the heart is withdrawn _from the world_, the True One appeareth everywhere.
 The name of God saveth him who hath tasted its savour.
 Saith Kabir, I have become gold, my doubts have fled, and I have crossed the ocean.
+
 It was made a reproach to Kabir that he being a weaver dared preach to men of high caste. Upon this he preached equality of all men.
 
 <p style="text-align:center;">IV</p>
 
 As the bubbles of the river are accounted water and blend with the water of the ocean,
-So the man who looketh on all with an equal eye, shall become pure and blend with the Infinite.
-Why should I return to this world ?
+_So the man who looketh on all_ with an equal eye, shall become pure and blend with the Infinite.
+Why should I return _to this world_ ?
 Transmigration taketh place by God's order ; he who obeyeth it shall blend with Him.
 When this fabric of five elements perisheth, my wandering shall be at an end.
 Forswearing sects, I look on all as equal and meditate on the one Name.
 I devote myself to and perform the duties which God assigned me.
 If God bestow mercy on me, I shall be absorbed in Him under the instruction of my guru.
-He who in life is in death, and who from death [^xx1] returneth to life shall not be born again.
+He who in life is in death, and who from death [^331] returneth to life shall not be born again.
 Saith Kabir, he who is permeated with the Name fixeth his love on God.
-Being dead toward God.
 
 <span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
@@ -3298,12 +3095,11 @@ Kabir in a vision beheld God and rushed to embrace Him, but was repulsed. The fo
 
 <p style="text-align:center;">V</p>
 
-If Thou repulse me, then show me the way of deliverance ; One God in many forms, Thou art contained in everything ; why dost Thou now illude me ?
-
+If Thou repulse me, then show me _the way_ of deliverance ; One God in many forms, Thou art contained in everything ; why dost Thou now illude me ?
 O God, whither dost Thou take me for salvation ?
+I ask Thee where Thou wilt give me salvation and of what degree, [^332] _seeing that_ by Thy favour I have already obtained it ?
+I called Thee my _future_ saviour until I knew the reality ; [^333] I have now become pure in heart, saith Kabir, and my mind is happy.
 
-[^xx1] ask Thee where Thou wilt give me salvation and of what degree, [^xx1] seeing that by Thy favour I have already obtained it ?
-I called Thee my future saviour until I knew the reality ; [^xx2] I have now become pure in heart, saith Kabir, and my mind is happy.
 Kabir is said to have uttered the following to a man whom he found committing an act of immorality.
 
 <p style="text-align:center;">VI</p>
@@ -3314,71 +3110,60 @@ O man, why actest thou as it pleaseth thyself ?
 When Death cometh and catcheth thee by the hair, only God's name will save thee.
 Death and life are the work of God ; this deceitful world is only an entanglement ;
 Saith Kabir, they who have the elixir of God in their hearts shall ultimately be saved.
+
 The body likened to a village, the soul to its headman, and the senses to its agriculturists.
 
 <p style="text-align:center;">VII</p>
 
 The body is a village ; the soul placed therein is its headman ; five husbandmen dwell in it —
-The. senses — eyes, nose, ear, tongue, and touch — which obey not my orders.
-
-[^xx1] There are four degrees of salvation — salo/i, heaven ; samzp, being near God ; sarup> assuming God's form ; sayuj, being absorbed in God.
-
-[^xx2] That Thou hadst already saved me.
-
-
-<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
-
+The. senses — eyes, nose, ear, tongue, and touch — which obey not my orders. <span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 O father, I shall no longer dwell in this village ;
 The accountants called Chitr and Gupt ask for an account of every moment of mine,
 So when Dharmraj calleth for my account, there will be a heavy balance against me.
 The five husbandmen will then have all fled, and the bailiffs will arrest the soul.
-Saith Kabir, hear, O holy men, settle your accounts on the field ;[^xx1]
+Saith Kabir, hear, O holy men, settle your accounts on the field ;[^334]
 Pardon for this once thy slave, so that he may not have to return to this terrible ocean.
+
 A Bairagi who had come from Dwaraka told Kabir he had seen God there, and he asked him to go^ there too, and he would also see God. Upon this the following colloquy occurred.
 
 <p style="text-align:center;">VIII</p>
 
 O Bairagi, no one hath seen the Fearless One ;
-Can the Fearless One be obtained without fearing Him ? [^xx4] Certainly not.'[^xx2]
+Can the Fearless One be obtained without fearing Him ? ‘ Certainly not. ’[^335]
+O Bairagi, if _man_ were to see the Lord present, he would feel fear ;
+He who obeyeth God's order is without fear — ‘ Certainly.’
+O Bairagi, though all people are imbued with hypocrisy, Practise it not thou before God — ‘ Certainly not. ’
+O Bairagi, _men_ set not covetousness aside ;
+Egoism hath destroyed the body — ‘ Certainly.’
+O Bairagi, the fire of care hath burnt the body,
+But thou _shalt escape from it_ if thou deaden thy feelings — ‘Certainly.’
+Without a true guru there can be no contempt of the world, O Bairagi,
+Even though everybody desire it — ‘ Certainly.’
+O Bairagi, if it be God's will, thou shalt meet the true guru, <span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
+And shalt easily obtain God—‘ Certainly.’
+Saith Kabir, O Bairagi, _address_ one prayer to God,
+To take thee over the terrible ocean — ‘ Certainly.’
 
-O Bairagi, if man were to see the Lord present, he would feel fear ;
-He who obeyeth God's order is without fear — [^xx4] Certainly.' O Bairagi, though all people are imbued with hypocrisy, Practise it not thou before God — [^xx6] Certainly not. [^xx5] O Bairagi, men set not covetousness aside ; Egoism hath destroyed the body — ' Certainly.' O Bairagi, the fire of care hath burnt the body, But thou shalt escape from it if thou deaden thy feelings — [^xx4] Certainly.'
-Without a true guru there can be no contempt of the world, O Bairagi, Even though everybody desire it — ' Certainly.'
-
-O Bairagi, if it be God's will, thou shalt meet the true guru,
-
-[^xx1] That is, while alive. The metaphor is derived from the practice which prevailed before British rule of taking payments in kind. Creditors' and debtors' accounts were settled on the harvest field.
-
-[^xx2] Wana hanbaL In the Malwa dialect hanbai means yes.
-
-<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
-
-And shalt easily obtain God—' Certainly.'
-Saith Kabir, O Bairagi, address one prayer to God,
-To take thee over the terrible ocean — [^xx4] Certainly.[^xx5]
 Krishan was one day going to visit Duryodhan, but he heard that Duryodhan was then holding court. Krishan, in order to avoid the regal ceremonial and entertainments connected therewith, remained the night with Vidur. Next day when Krishan and Duryodhan met, the latter upbraided him in a friendly manner for not having gone straight to him. The following is Krishan's reply : —
 
 <p style="text-align:center;">IX</p>
 
 O king, who would go to thee ?
-
-[^xx1] have seen such affection on Vidur's part that the poor man pleaseth me.
+I have seen such affection on Vidur's part that the poor man pleaseth me.
 Beholding thine elephants, thou hast been lost in error and hast not recognized God.
 I consider Vidur's water as nectar in comparison with thy milk.
-I got vegetables without condiment, but to me they were equal to Whir, and the night passed in Vidur's singing God's praises.
+I got vegetables _without condiment_, but to me they were equal to _khir_, and the night passed in Vidur's singing God's praises.
 Kabir's God is joyous and happy, and payeth no attention to anybody's caste.
-Sloks
+
+<p style="text-align:center;">SLOKS</p>
+
 The following two sloks in the Rag Maru are attributed to Kabir. The battle referred to is perhaps intended to represent man's struggle with his evil passions. These are the only lines in the Granth Sahib relating to war.
-When the drums sound aloud, the conspicuous warriors fall wounded ;[^xx1]
-
-[^xx1] Also translated— (a) Aim is taken, and wounds are inflicted ; (&) When the guru's drum soundeth, the disciple, at whom it is aimed, is wounded.
-
-
-<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
-
+When the drums sound aloud, the conspicuous _warriors_ fall wounded ;[^336] <span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 The brave have entered the battle-field ; now is the time for combat.
+
 Recognize him as a hero who fighteth for the love of his religion ;
 He may die cut in pieces, but will never desert the battlefield.
+
 The following was a sharp remonstrance addressed to some men of high rank.
 
 <p style="text-align:center;">X</p>
@@ -3387,9 +3172,9 @@ You have forgotten your religion, O madmen ; you have forgotten your religion.
 You fill your bellies, you sleep like beasts, you have lost your human births ;
 You have never associated with saints, but have adopted false occupations ;
 You wander like dogs, pigs, and ravens ;
-You deem yourselves great and others small ;[^xx1]
+You deem yourselves great and others small ;[^337]
 I have seen you going to hell in thought, word, and deed.
-The lustful, the wrathful, the deceitful, the dissemblers, [^xx2] and the idlers,
+The lustful, the wrathful, the deceitful, the dissemblers, [^338] and the idlers,
 Pass their time in doing evil and never remember God.
 Saith Kabir, fools, blockheads, and pagans reflect not ;
 They know not God's name ; how shall they be saved ?
@@ -3397,73 +3182,62 @@ Men should remember God and not be led astray by worldly pleasures.
 
 <p style="text-align:center;">XI</p>
 
-Remember God or thou shalt repent it ;
-
+Remember God _or_ thou shalt repent it ;
 O sinful soul, thou practisest avarice, but thou shalt depart to-day or to-morrow.
 Through thine attachment to avarice and being led astray by mammon, thou hast wasted thy life.
-Be not proud of thy wealth and youth ; they dissolve like paper.
-
-[^xx1] Literally — you deem yourselves vowels and others consonants.
-
-[^xx2] Literally— actors.
-
-<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
-
+Be not proud of thy wealth and youth ; they dissolve like paper. <span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 When Death cometh and seizeth thee by the hair and knocketh thee down, on that day shalt thou be powerless.
 Thou hast not remembered God, or worshipped Him, or shown mercy to His creatures, therefore shalt thou be smitten on the mouth.
 When Dharmraj asketh for thine account, what face shalt thou show him ?
 Saith Kabir, hear, ye good men, ye shall be saved in the company of the holy.
 The condition of him who has obtained salvation during life.
-Kedara I
-They who abandon praise as well as blame, who reject honour as well as dishonour, Who consider iron and gold the same, are the image of God — Few, O Lord, are Thy servants !
+
+<p style="text-align:center;">KEDARA</p>
+
+<p style="text-align:center;">I</p>
+
+They who abandon praise as well as blame, who reject honour as well as dishonour,
+Who consider iron and gold the same, are the image of God —
+Few, _O Lord_, are Thy servants !
 They who abandon lust, wrath, covetousness, and worldly love behold God's feet.
 What are called the qualities of impulse, ignorance, and goodness are all contained in Thy Maya.
 Only they who understand the fourth degree, have obtained the supreme position ;
-They never entertain love for pilgrimages, fasting, or for the religious ceremonies, purifications, and austerities of the superstitious.
+They never entertain love for pilgrimages, fasting, or for the religious ceremonies, purifications, and austerities of _the superstitious_.
 By meditating on God, avarice, worldly love, and doubt depart ;
-The darkness of the mansion in which the lamp of divine knowledge burnetii is dispelled ;
-Its owner abideth completely fearless, and his doubts have lied ; saith Kabir, I am his slave.[^xx3]
+The darkness of the mansion in which the lamp _of divine knowledge_ burneth is dispelled ;
+_Its owner_ abideth completely fearless, and his doubts have lied ; saith Kabir, I am his slave.[^339]
 The saint deals in holiness and is thus emancipated during life.
 
 <p style="text-align:center;">II</p>
 
-Some deal in bronze and copper, others in cloves and betel-nut ;
-
-[^xx1] Also translated — The slave Kabir saith.
-
-
-<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
-
-The saints deal in God's name ; that is my merchandise. O dealers in the name of God,
+Some deal in bronze and copper, others in cloves and betel-nut ; <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
+The saints deal in God's name ; that is my merchandise.
+O dealers in the name of God,
 The priceless diamond hath come to hand, and worldly thoughts have fled.
 They whom the True One attached to truth, remain attached to it ; truth is their occupation.
-They dispatched a load of the true thing, and it reached God the storekeeper.
-God is Himself the gem, the jewel, and the precious stone ; He is Himself the jeweller ;
+They dispatched a load of the true thing, and it reached _God_ the storekeeper.
+God is Himself the gem, the jewel, and the precious stone ;
+He is Himself the jeweller ;
 He is in every direction immovable ;
-He setteth everything in motion ;
+He setteth _everything_ in motion ;
 He is a permanent dealer.
-
-O man, make thy heart the ox, meditation the road, fill thy sack with divine knowledge, and load it on the ox ;
+_O man_, make thy heart the ox, meditation the road, fill thy sack with divine knowledge, and load it on the ox ;
 Saith Kabir, hear, O saints, my goods have arrived at their destination.
+
 The following was addressed to a Jogi who fortified himself for his austerities by potations of wine.
 <p style="text-align:center;">Ill</p>
 
-O ignorant and stupid brawler, [^xx1] reverse thy breath and direct it to thy brain ;
+O ignorant and stupid brawler, [^340] reverse thy breath and direct it _to thy brain_ ;
 Then turn thy brain into a furnace, draw the nectareous stream, and thou shalt become divinely intoxicated.
 O brother, call upon God for assistance.
 O saints, ever drink this wine so difficult to obtain, and your thirst shall easily be quenched.
 In the fear of God is love ; he who knoweth this shall obtain God's elixir, my brother.
 Ambrosia is in every heart ; God giveth it to whomsoever He pleaseth.
-There is one city ; [^xx2] it hath nine gates ;
-Restrain thy wandering mind from issuing by them.
-After the exercise of the ira, pingla, and sukhmana, the tenth gate openeth and the mind becometh intoxicated.
-
-[^xx1] Kalwdr~-d&o translated as if written kalal y a wine-seller, then a drunkard. [^xx2] The body.
-
-<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
-
-When the soul obtaineth the fully fearless dignity, suffering is at an end, saith Kabir deliberately.
-Turning from the way of the world I have obtained this wine, a cup of which causeth divine intoxication.
+There is one city ; [^341] it hath nine gates ;
+Restrain thy wandering _mind from issuing by them_.
+After the exercise of the ira, pingla, and sukhmana, the tenth gate openeth and the mind becometh intoxicated. <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
+When _the soul obtaineth_ the fully fearless dignity, suffering is at an end, saith Kabir deliberately.
+Turning from the way _of the world_ I have obtained this wine, a cup of which causeth _divine_ intoxication.
 Religious instruction addressed to a dissolute fop.
 
 <p style="text-align:center;">IV</p>
@@ -3473,28 +3247,20 @@ Thine eyes are burst, thou seest nothing, thou art drowned even without water.
 Why walkest thou so foppishly ?
 Thou art a compound of bones, skin, and filth, and saturated with evil odour.
 Thou repeatest not God's name ; in what doubts hast thou gone astray ? Death is not far from thee.
-Whatever efforts thou makest to preserve thy body, shall it last when thy term of life is complete ?
+Whatever efforts thou makest to preserve thy body, shall it last when _thy term of_ life is complete ?
 Nothing resulteth from thine efforts ; what can any mortal do ?
 If it be God's will, man shall meet a true guru and repeat the One name.
 Thou livest in a house of sand and puffest out thy body, O simpleton.
 Saith Kabir, they, however clever, who remember not God are lost.
+
 The following was addressed to the same person.
 
 <p style="text-align:center;">V</p>
 
-Crooked thy turban, [^xx1] crooked thy gait, [^xx2] thou beginnest to eat betel ;[^xx3]
-Thou hast naught to do with the love and service of God ; thou say est ' I have business in court '.
+Crooked thy turban, [^342] crooked thy gait, [^343] thou beginnest to eat betel ;[^344]
+Thou hast naught to do with the love and service of God ; _thou sayest_ ‘ I have business in court ’.
 Thou hast forgotten God in thy pride ;
-Ever gazing on thy gold and thy very beautiful women thou deemest them permanent ;
-
-[^xx1] Thou wearest thy turban on the side of thy head like a fop.
-
-[^xx2] Thou walkest foppishly.
-
-[^xx3] So as to give a rosy colour to thy lips.
-
-
-<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
+Ever gazing on thy gold and thy very beautiful women thou deemest them permanent ; <span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Thy life passeth away in covetousness, falsehood, sin, and great arrogance. Saith Kabir, Death will attack thee at last, O fool.
 Kabir reminds a worldly person of his death.
@@ -3503,97 +3269,120 @@ Kabir reminds a worldly person of his death.
 
 Having beaten thy drum for four days, thou shalt depart.
 With all thine earnings, thy ready money, and thy buried treasures, thou shalt take nothing with thee.
-Thy dear wife will sit and weep in the portico ; thy mother will go as far as the gate with thee ;
-All thy friends and relations will accompany thee to the burning-ground ; but thy soul shall depart alone.
+Thy dear wife will sit and weep in the portico ; thy mother _will go_ as far as the gate with thee ;
+All thy friends and relations will accompany thee to the burning-ground ; _but_ thy soul shall depart alone.
 Thou shalt not again behold thy sons, thy wealth, thy towns, and thy cities.
 Saith Kabir, why remember not God ? thy life is passing in vain.
+
 God's name is Kabir's sole property,
-Bhairo I
-The name of God is my wealth ; I cannot tie it in a knot, or sell it for my livelihood. The Name is my field, the Name is my garden ; I Thy slave, O God, perform Thy service and seek Thy protection.
-Thy name is my wealth, Thy name my capital ; I know none but Thee.
-Thy name is my kindred, Thy name my brethren, Thy name my associates, who will assist me at the last moment.
+
+<p style="text-align:center;">BHAIRO</p>
+
+<p style="text-align:center;">I</p>
+
+The name of God is my wealth ;
+I cannot tie it in a knot, or sell it for my livelihood.
+The Name is my field, the Name is my garden ;
+I Thy slave, _O God_, perform Thy service and seek Thy protection.
+Thy name is my wealth, Thy name my capital ;
+I know none but Thee.
+Thy name is my kindred, Thy name my brethren,
+Thy name my associates, who will assist me at the last moment.
 Saith Kabir, I am a slave to him
-Whom God keepeth in the world, but who is indifferent to it.
-The following was addressed to a rich man who had. offered Kabir money : —
+Whom _God_ keepeth in the world, but _who_ is indifferent to it.
+
+The following was addressed to a rich man who had offered Kabir money : —
 
 <p style="text-align:center;">II</p>
 
-Naked thou earnest and naked shalt thou depart ; None shall remain — not even kings or rulers.
-SIKH. VI S
+Naked thou earnest and naked shalt thou depart ;
+None shall remain — _not even_ kings or rulers. <span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
+I have the sovereign God as my nine treasures ;
+Thou hast the love of property, women, and wealth ;
+But they did not come with thee, nor shall they go with thee.
+What availeth thee to have elephants tied at thy gate ?
+The fortress of Ceylon was made of gold,
+But what did the fool Rawan take with him ?
+Saith Kabir, meditate some good acts :
+The gambler shall depart with empty hands.
 
-<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
-
-I have the sovereign God as my nine treasures ; Thou hast the love of property, women, and wealth ; But they did not come with thee, nor shall they go with thee.
-What availeth thee to have elephants tied at thy gate ? The fortress of Ceylon was made of gold, But what did the fool Rawan take with him ? Saith Kabir, meditate some good acts : The gambler shall depart with empty hands.
 God alone is pure.
-<p style="text-align:center;">Ill</p>
+
+<p style="text-align:center;">III</p>
 
 Impure is Brahma, impure is Indar ;
 Impure is the sun and impure the moon.
 This world is defiled with impurity ;
 Pure is God alone who hath neither end nor limit.
 Impure are the gods of the worlds ;
-Impure are nights, days, and months devoted to idolatry. , Impure are pearls, impure are diamonds,
+Impure are nights, days, and months _devoted to idolatry_.
+Impure are pearls, impure are diamonds,
 Impure are wind, fire, and water ;
-Impure are Shiv, Shankar, and Mahesh ;[^xx1]
-Impure are Sidhs, Sadhiks, and those who wear religious garbs;
-Impure are Jogis, and Jangams with their matted hair ; Impure is the body with the soul — Saith Kabir; only those who know God, Are pure and acceptable.
+Impure are Shiv, Shankar, and Mahesh ;[^345]
+Impure are Sidhs, Sadhiks, and _those who_ wear religious garbs;
+Impure are Jogis, and Jangams with their matted hair ;
+Impure is the body with the soul —
+Saith Kabir; only those who know God,
+Are pure and acceptable.
+
 The following was addressed to a hypocritical Muhammadan priest who had advised Kabir to make a pilgrimage to Makka.
 
 <p style="text-align:center;">IV</p>
 
-Make thy mind thy Kaaba, thy body its enclosing temple, Conscience [^xx2] its prime teacher ; Then, O priest, call men to pray to that mosque Which hath ten gates.
+Make thy mind thy Kaaba, thy body its enclosing temple,
+Conscience [^346] its prime teacher ;
+Then, O priest, call men to pray to that mosque
+Which hath ten gates. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
+Sacrifice [^347] wrath, doubt, and malice ;
+Make patience thine utterance of the five prayers.
+The Hindus and the Musalmans have the same Lord ;
+What can the Mulla, what can the Shaikh do _for man_ ?
+Saith Kabir, I have become mad ;
+Stealing my mind away _from the world_ I have become blended with God.
 
-[^xx1] Three names of Shiv. The Hindus say that there are eleven Shivs. [^xx2] Literally— thy speaker.
-
-
-<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
-
-Sacrifice [^xx1] wrath, doubt, and malice ; Make patience thine utterance of the five prayers. The Hindus and the Musalmans have the same Lord ; What can the Mulla, what can the Shaikh do for man ? Saith Kabir, I have become mad ;
-Stealing my mind away from the world I have become blended with God.
 Some one represented to Kabir that he was completely spoiled by his religious exercises. The following was his reply : —
 
 <p style="text-align:center;">V</p>
 
-When a stream is lost in the Ganges, It becometh as the Ganges itself ; Kabir is similarly lost in God by invoking Him ; I have become as the True One and need not go elsewhere. The perfume of the sandal is communicated to other trees ;
+When a stream is lost in the Ganges,
+It becometh as the Ganges itself ;
+Kabir is similarly lost _in God_ by invoking Him ;
+I have become as the True One and need not go elsewhere.
+The perfume of the sandal is communicated to other trees ;
 They then become as the sandal itself.
 When the philosopher's stone is applied to copper,
 It becometh gold ;
 So Kabir having met the saints,
 Hath become as God.
+
 The following was addressed to some Brahmans who had attributed Kabir's contempt for their religious ceremonies to madness,
 
 <p style="text-align:center;">VI</p>
 
-You wear tilaks on your foreheads, carry rosaries in your hands, and put on sectarial dresses : People think that God is a plaything — If I am mad, O God, I am still Thine. How can people know my secret ? [^xx2] I gather no leaves [^xx3] and I worship no idol ;
-
-[^xx1] Mismil a corruption of the Arabic bismillah, in the name of God, an expression used by Musalmans when slaughtering animals.
-
-[^xx2] That is, the cause of my madness.
-
-[^xx3] To offer to idols.
-S[^xx2]
-
-<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
-
-Without devotion to God other worship is fruitless. I worship the True Guru, and ever and ever propitiate Him ;
+You _wear_ tilaks on your foreheads, _carry_ rosaries in your hands, and _put on sectarial_ dresses : 
+eople think that God is a plaything —
+If I am mad, O God, I am still Thine.
+How can people know my secret ? [^348]
+I gather no leaves [^349] and I worship no idol ; <span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
+Without devotion to God _other_ worship is fruitless. I worship the True Guru, and ever and ever propitiate Him ;
 For such service I shall obtain happiness in His court.
 People say Kabir is mad,
-But only God knoweth Kabir's secret.
+But _only_ God knoweth Kabir's secret.
 Kabir renounces both the Hindu and the Muhammadan priests.
 
 <p style="text-align:center;">VII</p>
 
-Turning away from the world I have forgotten both caste and lineage ;
-My weaving is now in the infinite silence.[^xx1]
-I have now no quarrel with any one ;
+Turning away _from the world_ I have forgotten both caste and lineage ;
+My weaving is _now_ in the infinite silence.[^350]
+I have now no quarrel _with any one_ ;
 I have given up both the Pandits and the Mullas.
 I weave clothes and I wear them myself ;
-Where / see no pride [^xx2] there I sing God's praises.
+Where _I see_ no pride [^351] there I sing God's _praises_.
 What the Pandits and the Mullas prescribed for me,
-I have received no advantage from, and have abandoned.
-My heart being pure [^xx3] I have seen the Lord ;
+I have received no _advantage_ from, and have abandoned.
+My heart being pure [^352] I have seen the Lord ;
 Kabir having searched and searched himself, hath found God within him.
+
 Kabir when reproached with his poverty replied ; —
 
 <p style="text-align:center;">VIII</p>
@@ -3604,18 +3393,9 @@ The latter, though opposite him, will turn his back.
 If a rich man go to a poor man,
 The latter respecteth, yea, inviteth him ;
 Yet the poor man and the rich man are brothers :—
-God's design [^xx4] cannot be set aside.
+God's design [^353] cannot be set aside.
 Saith Kabir, it is he who is poor,
 In whose heart the Name abideth not.
-
-*•
-
-[^xx1] In the realms of God. [^xx2] That is, in the society of the saints.
-
-[^xx3] Also translated — being freed from the world,
-
-[^xx4] In making one poor and the other rich.
-
 
 <span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
@@ -3624,78 +3404,117 @@ Worship God betimes.
 <p style="text-align:center;">IX</p>
 
 When man serveth the guru and worshippeth God,
-It is only then he really hath a human body.[^xx1]
-Even the demigods [^xx2] long for this body ;
+It is only then he really hath a human body.[^354]
+Even the demigods [^355] long for this body ;
 Therefore having obtained it,
 Worship God ; forget Him not ;
 That is the advantage of human birth.
 Before the disease of old age hath come upon thee,
 Before Death hath seized thy body,
 Before thy voice hath grown weak,
-
 O man, worship God.
 If thou worship Him not now, when wilt thou, my brother ?
-When the end cometh thou canst not do so. Whatever thou doest, it is best to do now ; Otherwise thou shalt not be saved, and shalt afterwards repent.
-He is a worshipper whom God applieth to His worship ; It is he who shall obtain the pure God. The doors of his understanding shall open to him by meeting the guru, And he shall not return again by the way of the womb. This is thine opportunity, this thy time ; Look into thy heart and reflect on this. Saith Kabir, O man, whether thou win or lose,
+When the end cometh thou canst not do so.
+Whatever thou doest, it is best to do now ;
+_Otherwise_ thou shalt not be saved, and shalt afterwards repent.
+He is a worshipper whom God applieth to His worship ;
+It is he who shall obtain the pure God.
+The doors _of his understanding_ shall open to him by meeting the guru,
+And he shall not return again by the way of the womb.
+This is thine opportunity, this thy time ;
+Look into thy heart and reflect _on this_.
+Saith Kabir, _O man_, whether thou win or lose,
+I have many times called out to thee.
 
-[^xx1] have many times called out to thee.
 In the following Kabir appears to mean that God resides in the brain.
 
 <p style="text-align:center;">X</p>
 
-The best knowledge abideth in the city of Shiv ; [^xx3] Having obtained it there, meditate upon God*
+The best knowledge abideth in the city of Shiv ; [^356]
+Having obtained it there, meditate _upon God_,[^357] <span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
+And thou shalt know this world and the next.
+Why should I kill myself performing works of pride ?
+My attention is fixed on the special place— the brain ;
+The name of the Sovereign God is my divine knowledge.
+He who hath closed his sphincter ani, [^358]
+Hath placed the moon above the sun. [^359]
+At the western gate the sun is hot ; [^360]
+The breath then riseth to the brain from the spine.
+The western gate is closed by a rock ; [^361]
+There is a window [^362] over that rock.
+Over the window is the tenth gate —
+Saith Kabir, _He who dwelleth there_ hath neither end nor limit.
 
-[^xx1] That is, it is only then his human birth is profitable. - [^xx2] The demigods are proud, and do not praise God. They can only obtain deliverance by being born in human bodies.
-
-[^xx3] The brain or tenth gate.
-
-[^xx4] This and the preceding line are also translated — Men of the highest intellect raise their breath to the brain ;
-Do thou meeting them contemplate God.
-
-<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
-
-And thou shalt know this world and the next. Why should I kill myself performing works of pride ? My "attention is fixed on the special place— the brain ; The name of the Sovereign God is my divine knowledge. He who hath closed his sphincter ani, [^xx1] Hath placed the moon above the sun. [^xx2] At the western gate the sun is hot ; [^xx3] The breath then riseth to the brain from the spine. The western gate is closed by a rock ; [^xx4] There is a window [^xx5] over that rock. Over the window is the tenth gate — Saith Kabir, He who dwelleth there hath neither end nor limit.
 Kabir gives his ideas of what a Mulla, a Qazi, and a superior of Jogis ought to be.
 
 <p style="text-align:center;">XI</p>
 
-He is a Mulla who struggleth with his heart, Who by the instruction of the guru contendeth with Death, And crusheth Death's pride. Salutation ever to that Mulla ! God is present ; why describe Him as distant ? If thou restrain thy pugnacity, thou shalt obtain the Beautiful One. He is a Qazi who pondereth on his body, Who burnetii it with divine fire,
-And alloweth not his seed to drop even in his dreams — For such a Qazi there is no old age or death — He is an emperor [^xx6] who knoweth how to draw up his two breaths,[^xx7]
-
-[^xx1] So that all the breath of the body may go to the brain. This act is done mechanically by resting the anus on the heel.
-
-[^xx2] This verse is explained— He has set knowledge with its tiny light above universal ignorance.
-
-[^xx3] When the breath rises to the top of the spine.
-
-[^xx4] A piece of flesh which the Jogis suppose to be at the top of the spinal column.
-
-[^xx5] This is a second obstacle to the passage of the breath.
-
-[^xx6] Sultan — By this word is here meant a superior of Jogis.
-
-[^xx7] Who knows how to exercise the ira and pingla. Also translated — who shoots two arrows — knowledge and contempt of the world.
-
-
-<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
-
-Who recalleth his mind when it goeth abroad, who collecteth the army of breaths [^xx1] in his brain —
+He is a Mulla who struggleth with his heart,
+Who by the instruction of the guru contendeth with Death,
+And crusheth Death's pride.
+Salutation ever to that Mulla !
+God is present ; why describe Him as distant ?
+If thou restrain _thy_ pugnacity, thou shalt obtain the Beautiful One.
+He is a Qazi who pondereth on his body,
+Who burnetii it with divine fire,
+And alloweth not his seed to drop even in his dreams —
+For such a Qazi there is no old age or death —
+He is an emperor [^363] who _knoweth how_ to draw up his two breaths,[^364] <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
+Who recalleth his mind when it goeth abroad, who collecteth the army _of breaths_ [^364] in his brain —
 Such a one is an emperor, and hath an umbrella over his head.
-The Jogis cry out [^xx4] Gorakh, Gorakh [^xx9] ; The Hindus repeat ' Ram, Ram ' ; The Musalmans have Khuda, But Kabir's God is the All-pervading.
+The Jogis cry out ‘ Gorakh, Gorakh ’ ;
+The Hindus repeat ‘ Ram, Ram ’ ;
+The Musalmans have Khuda,
+But Kabir's God is the All-pervading.
+
 The following hymn, which is a homily against idolatry, is said to have been composed by the fifth Guru from a theme of Kabir.
 
 <p style="text-align:center;">XII</p>
 
-Vain is his devotion, Who saith a stone is God. Idle shall be his labour Who falleth at the feet of a stone. My God always speaketh ; [^xx2] He bestoweth gifts on all living things. He who is blind knoweth not God who is within him ; He is led away by superstition, and entangleth others. A stone speaketh not, nor bestoweth gifts ; Vain are the ceremonies of idolaters and fruitless their service.
-Say what advantage can be gained By anointing a corpse with sandal. If any one roll a corpse in the dirt, What harm can it do the corpse ? Saith Kabir, I proclaim with a loud voiceUnderstand me, ye infidels and pagans ; The love of other gods hath destroyed many homes, The saints of God are ever happy. The universal influence of Maya and the means of counteracting it.
+Vain is his devotion,
+Who saith a stone is God.
+Idle shall be his labour
+Who falleth at the feet of a stone.
+My God always speaketh ; [^365]
+He bestoweth gifts on all living things.
+He who is blind knoweth not God who is within him ;
+He is led away by superstition, and entangleth others.
+A stone speaketh not, nor bestoweth gifts ;
+Vain are the ceremonies _of idolaters_ and fruitless their service.
+Say what advantage can be gained
+By anointing a corpse with sandal.
+If any one roll a corpse in the dirt,
+What harm can it do the corpse ?
+Saith Kabir, I proclaim with a loud voice
+Understand me, ye infidels and pagans ;
+The love of other gods hath destroyed many homes,
+The saints of God are ever happy.
+
+The universal influence of Maya and the means of counteracting it.
 
 <p style="text-align:center;">XIII</p>
 
-The fishes in the water are led by Maya ; [^xx3] 1 The body is supposed to have ten breaths, all of which the Jogis believe they can collect in the brain. [^xx2] He is not silent like an idol. [^xx3] Their sense of taste, their palates.
-
-<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
-
-The moths round the lamp are influenced by Maya ; Through Maya the elephant feeleth lust ; Creeping things and bumble-bees [^xx1] perish through Maya — My brethren, Maya is so bewitching That she illudeth all living beings — Birds and beasts are imbued with Maya ; She causeth great hardship to the honey-bees ; [^xx2] Horses and camels are saturated with Maya ; The eighty-four Sidhs are the sport of Maya ; The six Jatis are the slaves of Maya ; So are the nine Naths, the sun, and the moon ; Penitents and the supreme Rikhis are lulled by Maya ; In the power of Maya are Death and his five messengers; [^xx3] Dogs and jackals are imbued with Maya ; So are monkeys, leopards, lions, Cats, sheep, and foxes ; Trees and tubers are subject to Maya ; The demigods are saturated with Maya ; So are the ocean, the firmament, and the earth. Saith Kabir, he who hath a belly is subject to Maya ; But man shall be freed from her influence when he hath found a saint.
+The fishes in the water are led by Maya ; [^366] <span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
+The moths round the lamp are influenced by Maya ;
+Through Maya the elephant feeleth lust ;
+Creeping things and bumble-bees [^367] perish through Maya —
+My brethren, Maya is so bewitching
+That she illudeth all living beings —
+Birds and beasts are imbued with Maya ;
+She causeth great hardship to the honey-bees ; [^368]
+Horses and camels are saturated with Maya ;
+The eighty-four Sidhs are the sport of Maya ;
+The six Jatis are the slaves of Maya ;
+So are the nine Naths, the sun, and the moon ;
+Penitents and the supreme Rikhis are lulled by Maya ;
+In the power of Maya are Death and his five messengers; [^369]
+Dogs and jackals are imbued with Maya ;
+So are monkeys, leopards, lions, Cats, sheep, and foxes ;
+Trees and tubers are subject to Maya ;
+The demigods are saturated with Maya ;
+So are the ocean, the firmament, and the earth.
+Saith Kabir, he who hath a belly _is subject_ to Maya ;
+But man shall be freed _from her influence_ when he hath found a saint.
 Let man fix his attention on God and not on worldly things.
 
 <p style="text-align:center;">XIV</p>
@@ -3707,49 +3526,43 @@ Then God shall come and adjust his affairs.
 To that end, O man, ponder on divine knowledge.
 Why rememberest thou not God, the Destroyer of misery ?
 As long as lions inhabit the forest,
-So long shall the forest not flourish.[^xx4]
-When the jackal eateth the lion,[^xx5]
-The whole forest bursteth out in bloom.
+So long shall the forest not flourish.[^370]
+When the jackal eateth the lion,[^371]
+The whole forest bursteth out in bloom. <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
+_They who think themselves_ victorious are lost : _and they who think themselves_ defeated are saved ; [^372]
+By the favour of the guru they cross over.
+The slave Kabir admonisheth all men
+To fix their attention on God alone.
 
-[^xx1] The lotus closes on them at night.
-
-[^xx2] In their anxiety to store honey. [^xx3] The five evil passions.
-
-[^xx4] The other animals of the forest will be unhappy.
-
-[^xx5] When divine knowledge destroys pride.
-
-
-<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
-
-They who think themselves victorious are lost : and they who think themselves defeated are saved ; [^xx1] By the favour of the guru they cross over. The slave Kabir admonisheth all men To fix their attention on God alone.
 A brief description of God's court to which Kabir craves admittance.
 
 <p style="text-align:center;">XV</p>
 
-Who will introduce poor me to Him Who hath seven thousand commanders, A lakh and a quarter of prophets, Eighty-eight karors of men called Shaikhs, And fifty-six karors of servants to amuse Him ? His court is afar off ; who can reach His private chamber ? He hath thirty-three karors of play-houses ; Eighty-four lakhs of beings wander in them} He showed some favour to father Adam, And put him into paradise for a long time. The faces of those whose hearts are not right are pale, and their utterance is confounded ;
+Who will introduce poor me to Him
+Who hath seven thousand commanders,
+A lakh and a quarter of prophets,
+Eighty-eight karors of men called Shaikhs,
+And fifty-six karors of servants to amuse Him ?
+His court is afar off ; who can reach His private chamber ?
+He hath thirty-three karors of play-houses ;
+Eighty-four lakhs of beings wander in them.[^373]
+He showed some favour to father Adam,
+And put him into paradise for a long time.
+_The faces of those whose_ hearts are not right are pale, and their utterance _is confounded_ ;
 They forsake their books and work evil.
 They who attribute blame to God and are angry with Him,
 Shall obtain the fruit of their acts.
-Thou art the giver, O Lord ; I ever beg of Thee :
-If Thou refuse me, I am ruined.[^xx3]
+Thou art the giver, _O Lord_ ; I ever beg of _Thee_ :
+If Thou refuse me, I am ruined.[^374]
 The slave Kabir is in Thy sanctuary.
 Keep me, O Merciful One, near Thee.
 Kabir desires not heaven but absorption in God.
 
 <p style="text-align:center;">XVI</p>
 
-Everybody saith he is going thither ; [^xx4] I know not where heaven is.
-They who know not the secrets of their own hearts
-
-[^xx1] This verse is also translated— They who are overcome by their evil passions are lost, and they who conquer them are saved.
-
-[^xx2] Also translated — wander as His jesters.
-
-[^xx3] The gyanis translate — A stain shall attach to Thee. The line is also translated— If [^xx1] reply, I shall be at fault. [^xx4] To heaven.
-
-<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
-
+Everybody saith he is going thither ; [^375]
+I know not where heaven is.
+They who know not the secrets of their own hearts <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 Glibly talk of heaven.
 As long as man desireth heaven,
 He shall not dwell at God's feet.
@@ -3757,33 +3570,26 @@ I know not where heaven's gate is,
 Nor its moat, nor its plastered fortress.
 Saith Kabir, what more can I now say
 Than that the society of saints is heaven ?
-Kabir tells how he subdued his evil passions. XVII
-How shall I subdue this beautiful fortress, [^xx1] my brother,
-Which hath double walls [^xx2] and triple moats,[^xx3]
-Whose entrenchments are the five subtle elements, the twenty-five categories* worldly love, pride, jealousy, and very powerful Maya ?
-I who am poor cannot obtain strength to take that fortress \ what shall I do, O God ?
+
+Kabir tells how he subdued his evil passions.
+
+<p style="text-align:center;">XVII</p>
+
+How shall I subdue this beautiful fortress, [^376] my brother,
+Which hath double walls [^377] and triple moats,[^378]
+Whose entrenchments are the five _subtle elements_, the twenty-five _categories_[^379] worldly love, pride, jealousy, and very powerful Maya ?
+I who am poor cannot obtain strength to take that fortress; what shall I do, O God ?
 Lust is its folding doors, woe and weal its gate-keepers, demerits and merits its gates ;
 Anger, which is very quarrelsome, its commander ; and the heart its rebel king.
-The defenders had dainties for their coats of mail, egoism for their helmets, and evil understanding for the bows they drew ;
-Covetousness, which dwelleth in the quiver of the heart, became their arrows ; thus the fortress was impregnable ;
-But I made divine love the fuse, meditation the howitzer, and divine knowledge the shells ;
-I gently lit the fuse with the fire of God's name, and captured the fortress with one shot.
-I began to fight assisted by truth and contentment, and battered both its doors ;
-
-[^xx1] The body.
-
-[^xx2] The two walls are doubt and wrong-headedness.
-
-[^xx3] The three moats are the three qualities,
-
-[^xx4] [^xx7] he "twenty-five categories of the Sankhya philosophy. See Monier Williams's Indian Wisdom and the Introduction to Cockburn Thompson's Bhagavat Gila. An enumeration of the categories here would not assist the Sikh student.
-
-
-<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
-
+The _defenders_ had dainties for their coats of mail, egoism for their helmets, and evil understanding for the bows they drew ;
+Covetousness, which dwelleth in _the quiver_ of the heart, became their arrows ; thus the fortress was impregnable ;
+But I made _divine_ love the fuse, meditation the howitzer, and divine knowledge the shells ;
+I gently lit the fuse with the fire of God's _name_, and captured _the fortress_ with one shot.
+I began to fight assisted by truth and contentment, and battered both its doors ; <span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 By the favour of the congregation of the saints and of the guru I made its king a prisoner.
 By dint of remembering God I, a coward, have cut the noose of Death.
 The slave Kabir hath scaled the fortress, and secured an imperishable empire.
+
 The following refers to another persecution of Kabir : —
 
 <p style="text-align:center;">XVIII</p>
@@ -3793,45 +3599,43 @@ I, Kabir, was made to stand in it with chains on my feet.
 My spirits fell not ; why should my body fear ?
 My mind was absorbed in God's lotus feet ;
 My chains were broken by the ripples of the Ganges,
-And I found myself seated on a deer-skin.
+_And I found myself_ seated on a deer-skin.
 Saith Kabir, I had no friend or companion
-But God the Protector both by water and land.
+_But_ God the Protector both by water and land.
+
 God and His residence.
-ASHTAPADI I
-God constructed an inaccessible fortress [^xx1] for His residence,
+
+<p style="text-align:center;">ASHTAPADI</p>
+
+<p style="text-align:center;">I</p>
+
+God constructed an inaccessible fortress [^380] for His residence,
 Which He illumined with His light.
 The lightning playeth and pleasure reigneth
-Where the youthful [^xx2] Lord God reposeth.
+Where the youthful [^381] Lord God reposeth.
 If the soul love God's name,
 Man shall be released from old age and death, and his doubts shall flee away.
-He whose mind loveth to consider whether a man's caste is high or low,
+He whose mind loveth _to consider_ whether a man's caste is high or low,
 Chanteth the hymn of egoism.
 The sound of the unbeaten music is heard
 Where the Lord God reposeth.
 He who fashioned continents and different countries,
-The three worlds, the three gods, and the three qualities,
-
-[^xx1] The tenth gate or brain.
-
-[^xx2] Some translate this the minute or invisible.
-
-<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
-
-Though styled inaccessible and invisible, dwelleth within the heart.
+The three worlds, the three _gods_, and the three qualities, <span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
+_Though styled_ inaccessible and invisible, dwelleth within the heart.
 None can find the limit or the secret of the Sustainer of the earth ;
 He shineth in the plantain blossom and in the sunshine,
 And hath taken His dwelling in the pollen of the lotus.
 God's spell is within the twelve petals of the heart
 Where the holy Lord of Lakshmi reposeth.
-The great God reacheth from the lower to the upper regions of the firmament ;
+The great _God_ reacheth from the lower to the upper regions of the firmament ;
 He illumineth the silent realm,
 Where there is neither sun nor moon.
 He was in the beginning ; He is without stain and happy.
 Know that he pervadeth the body as well as the universe ;
-He batheth in Mansarowar ; x
-His pass-word is ' Soham ' (I am He) ;
+He batheth in Mansarowar ; [^382]
+His pass-word is ‘ Soham ’ (I am He) ;
 He is not subject to merits or demerits,
-Nor concerned with caste, with sunshine, or with shade ;
+_Nor concerned_ with caste, with sunshine, or with shade ;
 He is only found in the guru's asylum.
 He who fixeth his attention on Him removeth it not, becometh released from transmigration,
 And absorbed in the Infinite.
@@ -3839,40 +3643,60 @@ He who knoweth God in his heart
 And repeateth His name, becometh as He.
 Saith Kabir, that mortal shall be saved
 Who fixeth in his heart God's light and spell.
-God, God's servants, and God's court.
+God, God's servants, and _God's_ court.
 
 <p style="text-align:center;">II</p>
 
 Millions of suns shine for Him ;
-He hath millions of Shivs and Kailases ;[^xx2]
-Millions of Durgas shampoo His limbs ;
+He hath millions of Shivs and Kailases ;[^383]
+Millions of Durgas shampoo _His limbs_ ;
 Millions of Brahmas recite the Veds for Him—
-If I beg, let me beg only of God ;
+If I beg, _let me beg_ only of God ;
 I have naught to do with any other god- —
 Millions of moons form His lamps ;
-Thirty-three demigods cook His food ;
+Thirty-three demigods cook His food ; <span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
+The nine planets [^384] _multiplied_ millions of times stand _on duty_ in his court ;
+Millions of Dharmrajas are His porters ;
+Millions of winds from the four cardinal points fan Him ;
+Millions of Sheshnags lay His bed ;
+Millions of oceans are His water-carriers ;
+The eighteen million loads _of vegetables_ are His hair ;
+Millions of store-keepers fill His store-houses ;
+Millions of Lakshmis decorate Him —
+He removeth many millions of demerits and merits —
+Millions of Indars wait on Him ;
+The fifty-six millions of _clouds_ are His messengers ;
+He is celebrated and unrivalled in every land.
+With His tresses loose and with terrible _aspect_ He moveth —
+God playeth in millions of ways —
+There are millions of feasts at His court ;
+Millions of celestial singers hail Him ;
+Millions of sciences all describe His attributes,
+But even then they cannot find His end.
+In His hair are millions of Bawans,
+And Rams who out-generalled Rawan's army,
+And Krishans who humbled the pride of Duryodhan,
+Greatly extolled by a thousand million Purans.
+Millions of Cupids cannot compete with Him in beauty —
+He stealeth away the inmost heart.
+Saith Kabir, hear me, O God,
+Grant me the fearless dignity, the gift I crave.
 
-[^xx1] In the lake of the heart.
-
-[^xx2] A peak in the Himalayas where the Ganges is supposed to rise.
-
-
-<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
-
-The nine planets [^xx1] multiplied millions of times stand on duty in his court ; Millions of Dharmrajas are His porters ; Millions of winds from the four cardinal points fan Him ; Millions of Sheshnags lay His bed ; Millions of oceans are His water-carriers ; The eighteen million loads of vegetables are His hair ; Millions of store-keepers fill His store-houses ; Millions of Lakshmis decorate Him — He removeth many millions of demerits and merits — Millions of Indars wait on Him ; The fifty-six millions of clouds are His messengers ; He is celebrated and unrivalled in every land. With His tresses loose and with terrible asfiectKe moveth — God playeth in millions of ways — There are millions of feasts at His court ; Millions of celestial singers hail Him ;. Millions of sciences all describe His attributes, But even then they cannot find His end. In His hair are millions of Bawans, And Rams who out-generalled Rawan's army, And Krishans who humbled the pride of Duryodhan, Greatly extolled by a thousand million Pur ans . Millions of Cupids cannot compete with Him in beauty — He stealeth away the inmost heart. Saith Kabir, hear me, O God, Grant me the fearless dignity, the gift I crave.
 The following was written under the grateful influence of early spring in the north of India.
-Basant I
-The earth bloometh, the firmament rejoiceth ; Every heart is gladdened by God's light. The Lord God rejoiceth in endless ways ;
 
-[^xx1] These are— -Suraj, Chand, Mangal, Budh, Brihaspati, Shukkar, Samchar, Rahu, and Ketu. The days of the week are named, in India, after the first seven.
+<p style="text-align:center;">BASANT</p>
 
-<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
+<p style="text-align:center;">I</p>
 
+The earth bloometh, the firmament rejoiceth ;
+Every heart is gladdened by God's light.
+The Lord God rejoiceth in endless ways ;<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 Whithersoever I look, there is He contained.
 The four Veds rejoice in worldliness ;
 So do the Simritis with the books of the Musalmans.
 Shiv practising Jog rejoiceth —
 Kabir's Lord bloometh equally in all things.
+
 Kabir accepts as saints Shukdev, Akrur, Hanuman, and Shiv, famous for their continence, and rejects the hypocritical Brahmans, Jogis, Sanyasis, and Penitents of his time.
 
 <p style="text-align:center;">II</p>
@@ -3881,17 +3705,18 @@ The Pandits grow proud reciting the Purans, The Jogis in practising Jog,
 The Sanyasis in saying there is no one like themselves ;
 The Penitents even in their different penances
 Are all intoxicated with pride ; none of them is awake.
-The thieves [^xx1] who rob houses are already with them.
-Shukdev and Akrur [^xx2] are awake ;
+The thieves [^385] who rob houses are _already_ with them.
+Shukdev and Akrur [^386] are awake ;
 Hanuman with the tail is awake ;
-Shiv is awake and worshippeth God's feet ;
-In this Kal age Namdev and Jaidev are awake.[^xx3]
+Shiv is awake and worshippeth _God's_ feet ;
+In this Kal age Namdev and Jaidev _are awake_.[^387]
 There are several forms of waking and sleeping : —
 He who is awake under the guru's instruction is the best.
 The most important duty of this body,
 Saith Kabir, is to repeat God's name.
 To obtain salvation without a guru would be impossible.
-<p style="text-align:center;">Ill</p>
+
+<p style="text-align:center;">III</p>
 
 Hath a wife ever given birth to her husband ?
 Hath a boy ever dandled his father ?
@@ -3900,39 +3725,39 @@ See, O people, the peculiarity of this Kal age —
 Hath a son ever taken his mother in marriage ?
 Can a man without feet ever leap ?
 Can a man without a mouth burst into laughter ?
-Without sleep can man repose ?
-
-[^xx1] The evil passion?. - An uncle of Krishan.
-
-[^xx3] The persons mentioned did not allow worldly matters to interrupt their devotions.
-
-
-<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
-
+Without sleep can man repose ? <span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 Can one churn milk without a churn ?
 Can a cow without an udder give milk ?
-Can one accomplish a long journey without a road ?
+_Can one accomplish_ a long journey without a road ?
 So the way cannot be found without a true guru,
-Kabir saith, and admonisheth all men.
+Kabir saith, and admonisheth _all men_.
+
 God saves his saints as He did Prahlad.
 
 <p style="text-align:center;">IV</p>
 
-Prahlad was sent to school for instruction ; He took several boys with him as his class-fellows. He said to his teacher : — ' Why teach me worldly entanglements ?
-c Rather write on my tablet the name of God.
-c I will not, sir, abandon the name of God ;
-c I have no concern with any other instruction.[^xx5]
-His tutor's sons, Sanda and Marka, [^xx1] went and reported the matter to Prahlad' 's father.
-He sent for Prahlad, telling them to run quickly to him ;
-Then he addressed him : — ' Abandon the habit of repeating God's name ;
-
-' I will let thee go at once if thou obey my words. [^xx5] Prahlad replied, ' Why dost thou continually annoy me ? c I should be a sinner were I to abandon the one God c Who made the water, the dry land, the hills, and the mountains.
-e Throw me into the fire or kill me if it please thee.' His father became angry and drawing his sword said, c Show me that Preserver of thine/ Upon this God expanding came forth from a pillar, And killed Harnakhas by tearing him with His nails. It was the Supreme Being, the God of gods, who appeared. For the sake of His saint He became incarnate as the man-lion.
-Saith Kabir, He whose limit cannot be seen Saved Prahlad several times.[^xx2]
-
-[^xx1] Brahma's son was Bhrigu, Bhrigu's son was Shukkar, Shukkar's sons were Sanda and Marka.
-
-[^xx2] His life had been often in danger before from the bigotry and violence of his father, and the present occurrence was but the culmination of many acts of paternal cruelty.
+Prahlad was sent to school for instruction ;
+He took several boys with him as his class-fellows.
+_He said to his teacher_ : — ‘ Why teach me worldly entanglements ?
+‘_Rather_ write on my tablet the name of God.
+‘I will not, sir, abandon the name of God ;
+‘I have no concern with any other instruction.’
+_His tutor_'s sons, Sanda and Marka, [^388] went and reported the matter to _Prahlad's father_.
+He sent for Prahlad, _telling them_ to run quickly to him ;
+_Then he addressed him_ : — ‘ Abandon the habit of repeating God's name ;
+I will let thee go at once if thou obey my words.’ 
+_Prahlad replied_, ‘ Why dost thou continually annoy me ?
+‘I should be a sinner were I to abandon the one God
+‘ Who made the water, the dry land, the hills, and the mountains.
+‘Throw me into the fire or kill me if it please thee.’
+His father became angry and drawing his sword said,
+‘Show me that Preserver of thine.’
+_Upon_ this God expanding came forth from a pillar,
+And killed Harnakhas by tearing him with His nails.
+It was the Supreme Being, the God of gods, _who appeared_.
+For the sake of His saint He became _incarnate_ as the man-lion.
+Saith Kabir, He whose limit cannot be seen
+Saved Prahlad several times.[^389]
 
 <span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
@@ -3940,46 +3765,39 @@ Kabir prays to be protected from lust.
 
 <p style="text-align:center;">V</p>
 
-Within this body and mind is the thief Cupid, Who hath stolen my jewel of divine knowledge. I have no patron, O God, to whom I may make my complaint.
-Whom hath Cupid not ruined ? Who am I that I should escape ?
-
-O God, this terrible pain cannot be endured ; What power hath my fickle mind against Cupid ? Sanak Sanandan, the sons of Brahma, Shiv, Shukdev, Vishnu, Brahma, and others know his power. The poets, the Jogis, the wearers of matted hair, Passed their lives guarding themselves against him. Thou, O God, art unfathomable ; I cannot find Thy depth.
-
+Within this body and mind is the thief Cupid,
+Who hath stolen my jewel of divine knowledge.
+I have no patron, O God, to whom I may make my complaint.
+Whom hath _Cupid_ not ruined ? Who am _I that I should escape_ ?
+O God, this terrible pain cannot be endured ;
+What power hath my fickle mind against Cupid ?
+Sanak Sanandan, _the sons of Brahma_, Shiv, Shukdev,
+Vishnu, Brahma, and others know _his power_.
+The poets, the Jogis, the wearers of matted hair,
+Passed their lives guarding themselves against him.
+Thou, O God, art unfathomable ; I cannot find Thy depth.
 O God, Lord of the poor, to whom else may I tell my woes ?
 Let the pain of birth and death subside, and grant me continence.
+
 Kabir singeth the praises of the Ocean of happiness. The body under the allegory of a merchant.
 
 <p style="text-align:center;">VI</p>
 
-There is one head of the firm and five traders,[^xx1]
-Who take with them spurious wares on twenty-five oxen.[^xx2]
-There are ten bags [^xx3] and nine poles [^xx4] to lift them ;
+There is one head of the firm and five traders,[^390]
+Who take with them spurious wares on twenty-five oxen.[^391]
+There are ten bags [^392] and nine poles [^393] _to lift them_ ;
 The body is bound by seventy-two ropes.
-
-[^xx1] have nothing to do with that commerce
+I have nothing to do with that commerce
 By which my capital is lessened, and my interest ever increased.
-I have trafficked by joining the seven threads ;[^xx5]
-
-[^xx1] The head of the firm is man, the five traders the five senses.
-
-[^xx2] The spurious wares are worldly things.
-
-[^xx3] Generally understood to be the ten breaths of the body.
-
-[^xx4] The nine gates of the body.
-
-[^xx5] Bairag, contempt of the world; bibek, discrimination; khatsampal, the six acquisitions; moksk ichha, desire of deliverance; shrawan,
-
-
-<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
-
+I have trafficked by joining the seven threads ;[^394] <span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 I have joined with them good acts and God's love.
-The three tax-gatherers [^xx1] wrangle for their share ;
+The three tax-gatherers [^395] wrangle for their share ;
 But I a trader put them aside and departed.
 The capital of the five traders is lost, their trade is ruined,
 And the oxen disperse in every direction.
 Saith Kabir, O man, thy business shall prosper,
 And thy doubts depart when thou art absorbed in God.
+
 A Brahman had censured Kabir for not having paid due attention to caste rules in eating. The following was his reply : —
 
 <p style="text-align:center;">VII</p>
@@ -3993,11 +3811,6 @@ Fire is also impure, water is impure, and impure the place where thou sittest an
 With an impure ladle it is served up, and impure are those who sit and eat it.
 Impure thy cow-dung, impure thy cooking-square, and impure the lines which mark it out.
 Saith Kabir, that man is pure who hath obtained true knowledge.
-hearing God's name ; manan, obeying God's will ; nididhyasan, profound and continued meditation.
-The six sampats or acquisitions are — Sam, restraint of the mind; dam, restraint of the senses ; uparaii, the preservation of the heart from love and hate ; tatiksha, endurance of pain ; shradha, faith ; samddhdnta, attention to the guru's instruction. Others, by the seven threads, understand the five oigans of perception, the mind, and the understanding.
-
-[^xx1] The three qualities.
-SIKH. VI X
 
 <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
@@ -4010,39 +3823,33 @@ The hair over thy tail is shiny.
 Search for and eat anything in this house ;
 Go not to another's house,
 Lick the hand-mill, eat the flour ;
-Whither takest thou the towel [^xx1] of the hand-mill ?
+Whither takest thou the towel [^396] of the hand-mill ?
 Thou gazest very intently on this safe ;
-Take care that the stick fall not on thy back.[^xx2]
+Take care that the stick fall not on thy back.[^397]
 Saith Kabir, thou hast fared well ;
-Take care that no one throw a brick or a clod at thee.[^xx3]
+Take care that no one throw a brick or a clod at thee.[^398]
 Kabir endeavours to recall man to a sense of his insignificance.
-Sarang I
+
+<p style="text-align:center;">SARANG</p>
+
+<p style="text-align:center;">I</p>
+
 Why, O man, art thou proud of a small matter ?
-With a store of only ten mans of corn and four double ftaise in thy pocket thou swaggerest along.
+With a store of only ten mans of corn and four double _paise_ in thy pocket thou swaggerest along.
 Even if thou obtain greatness, yea, a hundred villages, and have an income of two lakhs of rupees,
 Thy authority shall only last for four days like the green leaves of the forest.
 No one hath brought wealth with him, and no one shall take it away.
-Greater sovereigns than even Rawan departed in a moment ; God's saints who worship Him and repeat His name abide for ever.
-
-[^xx1] A cloth to collect the flour as it falls from the hand-mill.
-
-[^xx2] That is, run away before my wife or my son returns ; you shall meet with a different reception from them.
-
-[^xx3] This hymn is also applied allegorically to man.
-
-
-<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
-
+Greater sovereigns than even Rawan departed in a moment ; God's saints who worship Him and repeat His name abide for ever. <span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 They to whom God is merciful meet the society of the saints.
 Neither mother, father, wife, son, nor wealth shall go with thee at the last moment.
 Saith Kabir, worship God, O fool, or thy life shall pass away in vain.
+
 God's omnipotence.
 
 <p style="text-align:center;">II</p>
 
-O God, I know not the measure of Thy regal authority ;
-
-[^xx1] am the handmaiden of Thy saints.
+_O God_, I know not the measure of Thy regal authority ;
+I am the handmaiden of Thy saints.
 They who go laughing return weeping, and they who go weeping return laughing ;
 What is inhabited becometh deserted, and what is deserted becometh inhabited.
 God turneth water into dry land, dry land He turneth into wells, and wells into mountains ;
@@ -4052,82 +3859,80 @@ He can turn an idiot into a pandit, and a pandit into an idiot.
 He can turn a woman into a man, and a man into a woman.
 Saith Kabir, God is beloved of the saints ; I am a sacrifice unto Him.
 Man should rely on God and practise humility.
-<p style="text-align:center;">Ill</p>
+
+<p style="text-align:center;">III</p>
 
 Without God what succour hath man ?
 The love of parents, brethren, sons, and wife is all fleeting.
 Construct a raft for the other world ; what reliance can be placed on wealth ?
-What confidence can be reposed in this vessel, if it be chinked in the slightest ?[^xx1]
+What confidence can be reposed in this vessel, if it be chinked in the slightest ?[^399]
 Thou shalt obtain the fruit of all religion and good works if thou desire to become the dust of everybody's feet..
-Saith Kabir, hear, O saints, the mind is like the flying bird of the forest,
-
-[^xx1] If it receive even the slightest external pressure, T[^xx2]
+Saith Kabir, hear, O saints, the mind is like the flying bird of the forest.
 
 <span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Kabir's bliss in feeling that he is saved—
-Prabhati I
-My dread of transmigration is at an end Since God displayed His love for me. The light hath dawned, the darkness is dispelled ; I have obtained the jewel God by meditation on Him. When He conferreth happiness sorrow fleeth away ; The jewel of my heart is absorbed in God's love. Whatever occurreth is according to Thy will, O God ; He who understandeth this shall be easily absorbed in Thee.
+
+<p style="text-align:center;">PRABHATI</p>
+
+<p style="text-align:center;">I</p>
+
+My dread of transmigration is at an end
+Since God displayed His love for me. 
+The light hath dawned, the darkness is dispelled ;
+I have obtained the jewel God by meditation on Him.
+When He conferreth happiness sorrow fleeth away ;
+The jewel of my heart is absorbed in God's love.
+Whatever occurreth is according to Thy will, _O God_ ;
+He who understandeth this shall be easily absorbed _in Thee_.
 Saith Kabir, all my sins have been blotted out,
 And my soul is absorbed in the Life of the world.
-God is not confined as regards place to the mosque
-or the temple, or as regards time to any month or
-day.
+
+God is not confined as regards place to the mosque or the temple, or as regards time to any month or day.
 
 <p style="text-align:center;">II</p>
 
 If God dwell only in the mosque, to whom belongeth the rest of the country ?
-They who are called Hindus say that God dwelleth in an idol : I see not the truth in either sect.
-
-O God, whether Allah or Ram, I live by Thy name,
+They who are called Hindus _say_ that God dwelleth in an idol : I see not the truth in either sect.
+_O God_, whether Allah or Ram, I live by Thy name,
 O Lord, show kindness unto me.
 Hari dwelleth in the south, Allah hath His place in the west.
 Search in thy heart, search in thy heart of hearts ; there is His place and abode.
-The Brahmans yearly perform twenty-four fastings on the eleventh day of the dark and light halves of the lunar month ; the Musalmans fast in the month of Ramzan.
-The latter put aside eleven months of the year, and say that the Treasure is in one alone.
-What availeth the Hindus to bathe at Jagannath in Urisa (Orissa), what the Musalmans to bow their heads in a mosque ?
-With deception in their hearts they repeat prayers ; what availeth them to go on a pilgrimage to Makka ?
-
-
-<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
-
+The Brahmans _yearly_ perform twenty-four fastings on the eleventh _day of the dark and light halves of the lunar month_ ; the Musalmans fast in the month of Ramzan.
+The latter put aside eleven months of the year, _and say_ that the Treasure is in one alone.
+What availeth the Hindus to bathe _at Jagannath_ in Urisa (Orissa), what _the Musalmans_ to bow their heads in a mosque ?
+With deception in their hearts they repeat prayers ; what availeth them to go on a pilgrimage to Makka ? <span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 The men and women Thou hast created, O God, are all in Thy form.
 Kabir is a child of Ram and Allah, and accepteth all gurus and pirs.
 Saith Kabir, hear, O men and women, seek the sanctuary of the one God ;
-
 O mortals, only repeat God's name, and then shall you be assuredly saved.
+
 In Kabir's presence a Brahman and a Muhammadan priest were reviling each others' sacred books. The Muhammadan expatiated on the merits of sacrifice.
 
 <p style="text-align:center;">IV</p>
 
 Say not that the Hindu and Musalman books are false ; false is he who reflecteth not on them.
 If you say that the one God is in everything, then why kill fowls ?
-
-O priest, say is this God's justice ? Thy mental doubts forsake thee not ;
-Thou seizest and bringest living things, and takest their lives, but thou merely killest their bodies of clay.
+O priest, say _is this_ God's justice ? Thy mental doubts forsake thee not ;
+Thou seizest and bringest living things, and takest their lives, but thou _merely_ killest _their bodies of_ clay.
 Their souls return to the Indestructible ; say what hast thou killed.
 What avail thy purifications, thy rinsings of the mouth, and thy prostrations in the mosque ?
 If thou pray with deception in thy heart, what availeth thee thy pilgrimage to Makka ?
 Thou art impure ; thou knowest not the Pure One ; thou knowest not His secrets.
 Saith Kabir, thou hast missed heaven, and art satisfied with hell.
+
 Kabir offered to God the following oblation instead of incense, light, and the other accessories of Hindu worship.
 
 <p style="text-align:center;">V</p>
 
-Hear [^xx1] me, God of gods, Supreme Lord, primal and omnipresent, I offer my vespers unto Thee.
-
-[^xx1] Sun, also translated — as an epithet of God — without desires.
-
-<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
-
-The Sidhs even in deep meditation have not discovered Thy limits, but they continue to cling to Thine asylum.
-Accept this oblation, [^xx1] O bright Spirit ; worship the True Guru, my brethren.
-Brahma standeth and readeth the Veds, but the Unseen is seen not by him.[^xx2]
+Hear [^400] me, God of gods, Supreme Lord, primal and omnipresent, I offer my vespers unto Thee. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
+The Sidhs _even_ in _deep_ meditation have not discovered Thy limits, but they continue to cling to Thine asylum.
+Accept this oblation, [^401] O bright Spirit ; worship the True Guru, my brethren.
+Brahma standeth and readeth the Veds, but the Unseen is seen not by him.[^402]
 With divine knowledge as mine oil and Thy name my wick I have made a lamp to illumine my body.
-I have lit the lamp with the light of the Lord of the world ; he who knoweth how to do this knoweth the Omniscient.[^xx3]
+I have lit _the lamp_ with the light of the Lord of the world ; he who knoweth _how to do this_ knoweth the Omniscient.[^403]
 The unbeaten sounds of God who dwelleth with man s are my five musical instruments.
-
-O Thou Formless and Undisturbed, Thy slave Kabir hath made Thee this oblation.[^xx4]
+O Thou Formless and Undisturbed, Thy slave Kabir hath made Thee this oblation.[^404]
 
 <figure class="table chapter-navigator">
   <table>
@@ -4515,3 +4320,489 @@ which decides on the worship of one God.
 [^166]: The oil and wick mean life and breath.
 
 [^166]: When thou diest.
+
+[^167]: Meditate upon divine knowledge.
+
+[^168]: Rapid churning is believed to spoil butter.
+
+[^169]: _Nat_, literally — the acrobat.
+
+[^170]: When desires are at an end, man obtains deliverance.
+
+[^171]: Why dost Thou not pardon my sins ?
+
+[^172]: This apparently is not the river which flows by Lakhnau (Lucknow).
+
+[^173]: Krishan.
+
+[^174]: _Lapasi and kasar_ are both made from clarified butter, flour, and sugar, but the former is made liquid by the addition of water. They are both Oriental puddings.
+
+[^175]: God's name.
+
+[^176]: A niwar bed is one whose bottom is of broad cotton tape instead of the grass rope used by the poorer classes.
+
+[^177]: That is, the soul.
+
+[^178]: Also translated—The cups for the bird's food and water, that is, man leaves his possessions including his food and drink behind him.
+
+[^179]: Also translated — Despise thy lust and pride.
+
+[^180]: Where is now the life of thy body ?
+
+[^181]: The five evil passions.
+
+[^182]: The mind is likened to an elephant for it heedlessly pursues pleasures as the male elephant the female.
+
+[^183]: Has found access even to the holy.
+
+[^184]: Also translated— There is no other creature so vile as she.
+
+[^185]: He shall suffer transmigration.
+
+[^186]: He will still rejoice in filth.
+
+[^187]: It will only become the more venomous after nourishment.
+
+[^188]: That is, to cook his food.
+
+[^189]: So potent was he over the heavenly bodies and the elements, that he subjugated them to his private purposes.
+
+[^190]: Literally — and go nowhere.
+
+[^191]: Loi. This word means people, but it was also the name of Kablr's wife.
+
+[^192]: Purity.
+
+[^193]: Maya.
+
+[^194]: Soul.
+
+[^195]: Heart or mind.
+
+[^196]: Conscience.
+
+[^197]: The organs of action and perception.
+
+[^198]: Understanding.
+
+[^199]: To the company of the saints.
+
+[^200]: Contentment.
+
+[^201]: Greed.
+
+[^202]: Worldly desires.
+
+[^203]: Meditation on God.
+
+[^204]: Salvation.
+
+[^205]: Worship.
+
+[^206]: Endurance.
+
+[^207]: Fickleness.
+
+[^208]: Laziness.
+
+[^209]: Good works.
+
+[^210]: A lock of hair left unshaven on the top of a Hindu's head.
+
+[^211]: Also translated — Make recollection of God thy throw of the dice.
+
+[^212]: Kabir represents himself as a bride and God the bridegroom. It is usual on occasions of marriage for people to have their clothes dyed.
+
+[^213]: The word panckon is also translated the elect.
+
+[^214]: The Hindu bridegroom and bride circumambulate fire, in some places seven times and in other places four times, on the occasion of a marriage.
+
+[^215]: Four posts are erected to denote the mind, understanding, thought, and pride. The posts support a cloth covering, beneath which the very youthful Indian brides and bridegrooms are married.
+
+[^216]: _Uchar_ now called _gotrachar_, a panegyric on the families of the bride and bridegroom intoned by the ministering Brahmans. The word is also translated — the repetition of the Vedic sloks for marriage.
+
+[^217]: Maya.
+
+[^218]: God.
+
+[^219]: The god of death.
+
+[^220]: Evil thought.
+
+[^221]: Discrimination.
+
+[^222]: Step-father here means the body, and the mother is selfishness. Bap sawaka is also translated— my former heart, that is, when I was unregenerate.
+
+[^223]: God's love. Some understand contentment; others, divine knowledge.
+
+[^224]: I have had many births, but I shall not be born again.
+
+[^225]: At a nach, or Oriental dance, the performers are the musicians, the female singers and dancers, and the drummers.
+
+[^226]: On the first day after the lent of Ramzan, the Muhammadans offer a sacrifice to God. Here Kabir hints that the sacrifice is made to please their palates, not to please God.
+
+[^227]: Literally—when a diamond pierceth a diamond. There are several interpretations of this line.
+
+[^228]: That is, I am no longer known as a weaver, but a worshipper of God.
+
+[^229]: Thou shalt obtain salvation.
+
+[^230]: Also translated — I will not wince.
+
+[^231]: That is, by deferring to custom.
+
+[^232]: Previously called Magahar.
+
+[^233]: Thou shalt be lent to somebody who will treat thee badly, and not as he would treat his own.
+
+[^234]: Also translated— Like a monkey after red seeds.
+
+[^235]: How shall Kabir's children be maintained?
+
+[^236]: Kabir means that even that was too long a time for him to abstain from repeating God's name, and so he gave up weaving.
+
+[^237]: To save thyself in this human birth.
+
+[^238]: Jogis who go about playing a small pipe.
+
+[^239]: Men vowed to perpetual silence.
+
+[^240]: Service such as that performed by Narad, the famous rikhi.
+
+[^241]: The Persian word _khulas_, freed or delivered, was here originally written, but the tenth Guru altered its spelling to the Arabic _khalis_, pure.
+
+[^242]: When God creates the world, men appear.
+
+[^243]: When God draws the world within Himself.
+
+[^244]: Connected by a chain with the feet and hindering the. recumbent posture.
+
+[^245]: Without effacing oneself.
+
+[^246]: Also translated — _If man efface himself not_, what use discussing divine knowledge?
+
+[^247]: Also translated — Men grind and mix saffron and sandal and waste them by applying them to idols ;
+  The world appeareth to have no eyes.
+
+[^248]: The body.
+
+[^249]: So dear is God's name to me.
+
+[^250]: Divine knowledge.
+
+[^251]: God.
+
+[^252]: This metaphor has often occurred. The hearts of men generally are said to be inverted. The holy have theirs erect.
+
+[^253]: I am not under an obligation to any one.
+
+[^254]: That is, I only ask for these things that I may be able to repeat _Thy name_.
+
+[^255]: Literally— does any one belong to any one ?
+
+[^256]: Also translated— He is anxious to live longer though his eyes see not.
+
+[^257]: _Julako_. There is a pun on this word. It means a weaver, and elsewhere it is applied to the soul.
+
+[^258]: Because all people who die at Banaras must be saved, according to Hindu belief.
+
+[^259]: That is, my youth has passed, let not my old age also pass in vain
+
+[^260]: My dark hair has changed to grey.
+
+[^261]: A vessel made of clay not hardened by fire.
+
+[^262]: That is, life is at an end.
+
+[^263]: As a bribe to the messengers of Death to allow the soul time to answer the warrant.
+
+[^264]: That is, give me time to-day, and we shall be well on our journey early to-morrow morning.
+
+[^265]: Also translated — He who after being awakened falleth asleep.
+
+[^266]: _Hala_ from hal, a plough — so much revenue levied on every plough. The five evil passions claim their shares.
+
+[^267]: Here meant for death.
+
+[^268]: The nine gates of the body.
+
+[^269]: The organs of action and perception.
+
+[^270]: Virtues or good qualities.
+
+[^271]: _Bibeko_, God who makes one (_ek_) out of two (_bib_), who joins the soul of man with Himself.
+
+[^272]: They do not suffer transmigration.
+
+[^273]: I am imbued with God's love.
+
+[^274]: Also translated— They make a false claim to greatness.
+
+[^275]: That is, allow his mind to wander from God.
+
+[^276]: Holy men are not led off in triumph by Death ; they become insensibly blended with God.
+
+[^277]: That is, it is the leavings of the three worlds.
+
+[^278]: Also translated— He who is united with God is the real Jogi.
+
+[^279]: Also translated— Thou shalt be released from thine entanglements.
+
+[^280]: The heart.
+
+[^281]: That is, the body is resolved into the elements whence it sprang.
+
+[^282]: Literally — my doubts regarding birth and death have departed.
+
+[^283]: Of the left and right nostrils and their junction. _Trihdi sandhi_ also includes gyata, the knower; _gyan_, the means of knowledge; and _geya_, the subject of knowledge. Devout men endeavour to unite all three.
+
+[^284]: The distance between God and the soul.
+
+[^285]: Also translated — If I talk not io saints, how can I practise discrimination ?
+
+[^286]: Shall only excite contempt.
+
+[^287]: Also translated — His praise cannot be erased from paper ; that is, His praise is continually written and shall be permanent.
+
+[^288]: This and the two preceding lines are also translated —
+  Death hath lighted on these shaven fellows' heads.
+  They have caused us to lose ail our property.
+  There is no end to their coming or going.
+
+[^289]: When man dieth, his wealth does not weep for him.
+
+[^290]: Maya, wealth. She never becomes a widow, hence the title suhagan.
+
+[^291]: And was thus the better able to guard against her.
+
+[^292]: _Kutan_ as a noun is a pander and as a verb to beat or chasten. There is a play on the word in the original. It was applied to Kabir, because when his daughter was visiting him, he allowed a strange man shelter in his house.
+
+[^293]: Also translated — God steadieth the mind of such a dancer.
+
+[^294]: That is, cleanses his heart.
+
+[^295]: Illumines his five senses. This is also translated— Who arimonisheth his five evil passions.
+
+[^296]: Also translated — Who knoweth the nine forms of devotion to God.
+
+[^297]: As some ascetics do.
+
+[^298]: Because he practises hypocrisy.
+
+[^299]: The feminine gender, as usual, for man in general.
+
+[^300]: Is neither a worldly person nor an anchoret.
+
+[^301]: I have taken the light of divine knowledge to guide me.
+
+[^302]: Also translated — Those who are intoxicated with celestial wine never taste _earthly_ wine.
+
+[^303]: Also translated — that wine whose intoxication shall never subside.
+
+[^304]: The Kotwal in modern times is a police-officer, but in the time of Kabir the Kotwal was a magistrate and police-officer combined.
+
+[^305]: That is, I pray to Thee.
+
+[^306]: That is, I was branded as Thy slave in a former birth, [^xx5] Because he is a genuine and not a counterfeit coin.
+
+[^307]: Literally— by obstinate acts, by threatening suicide. &c.
+
+[^308]: God.
+
+[^309]: Saints.
+
+[^310]: The rest of sentient beings.
+
+[^311]: God's name.
+
+[^312]: In which the branches and shoots have been planted.
+
+[^313]: The searcher for God.
+
+[^314]: There is supposed to be a lotus with twelve petals in the heart. Kabir means that his mind as a bumble-bee has entered that lotus. There is also supposed to be another lotus in the brain which has sixteen petals, and to this again his mind ascends.
+  Others suppose that the numbers twelve and sixteen in the above lines mean the repetition of Oam similar numbers of times.
+
+[^315]: This tree is divine knowledge which has its seat in the brain.
+
+[^316]: It removed man's earthly desires.
+
+[^317]: In this hymn tree is also said to mean the universe, the branches and shoots are the planets and stars, the flowers are the saints, the leaves the rest of sentient beings.
+
+[^318]: Jogis smear ashes on their naked bodies as clothing or protection against the elements.
+
+[^319]: Literally — a lamp not fed with oil.
+
+[^320]: Divine knowledge.
+
+[^321]: Also translated — Thou shalt obtain good fortune.
+
+[^322]: God is only moved by our remembering Him and repeating His naine with devotion.
+
+[^323]: He who has put his passions under subjection.
+
+[^324]: These two lines are also translated —
+  They who are attached to worldly things fall into the net of Death, While they whose avarice the guru extinguished are delivered.
+
+[^325]: _Gagan_—literally, the firmament — is a word applied by Jogis to the brain or tenth gate of the body where God dwells.
+
+[^326]: A supposed passage for air through the spinal marrow to the brain. a The brain retains the breath, and a state of exaltation supervenes.
+
+[^327]: They think good evil and evil good. The fruit of the mm is bitter, of the mango sweet.
+
+[^328]: God's name.
+
+[^329]: Association with saints.
+
+[^330]: That is, God who is in thee.
+
+[^331]: Being dead toward God.
+
+[^332]: There are four degrees of salvation — _saloh_, heaven ; _samip_, being near God ; _sarup_, assuming God's form ; _sayuj_, being absorbed in God.
+
+[^333]: That Thou hadst already saved me.
+
+[^334]: That is, while alive. The metaphor is derived from the practice which prevailed before British rule of taking payments in kind. Creditors' and debtors' accounts were settled on the harvest field.
+
+[^335]: _Wana hanbai_. In the Malwa dialect _hanbai_ means yes.
+
+[^336]: Also translated— (a) Aim is taken, and wounds are inflicted ; (b) When the guru's drum soundeth, the disciple, at whom it is aimed, is wounded.
+
+[^337]: Literally — you deem yourselves vowels and others consonants.
+
+[^338]: Literally— actors.
+
+[^339]: Also translated — The slave Kabir saith.
+
+[^340]: _Kalwar_ — also translated as if written _kalal_, a wine-seller, then a drunkard.
+
+[^341]: The body.
+
+[^342]: Thou wearest thy turban on the side of thy head like a fop.
+
+[^343]: Thou walkest foppishly.
+
+[^344]: So as to give a rosy colour to thy lips.
+
+[^345]: Three names of Shiv. The Hindus say that there are eleven Shivs.
+
+[^346]: Literally— thy speaker.
+
+[^347]: _Mismil_ a corruption of the Arabic _bismillah_, in the name of God, an expression used by Musalmans when slaughtering animals.
+
+[^348]: That is, the cause of my madness.
+
+[^349]: To offer to idols.
+
+[^350]: In the realms of God.
+
+[^351]: That is, in the society of the saints.
+
+[^352]: Also translated — being freed from the world.
+
+[^353]: In making one poor and the other rich.
+
+[^354]: That is, it is only then his human birth is profitable.
+
+[^355]: The demigods are proud, and do not praise God. They can only obtain deliverance by being born in human bodies.
+
+[^356]: The brain or tenth gate.
+
+[^357]: This and the preceding line are also translated — Men of the highest intellect raise their breath to the brain ;
+  Do thou meeting them contemplate God.
+
+[^358]: So that all the breath of the body may go to the brain. This act is done mechanically by resting the anus on the heel.
+
+[^359]: This verse is explained— He has set knowledge with its tiny light above universal ignorance.
+
+[^360]: When the breath rises to the top of the spine.
+
+[^360]: A piece of flesh which the Jogis suppose to be at the top of the spinal column.
+
+[^361]: This is a second obstacle to the passage of the breath.
+
+[^362]: Sultan — By this word is here meant a superior of Jogis.
+
+[^363]: Who knows how to exercise the ira and pingla. Also translated — who shoots two arrows — knowledge and contempt of the world.
+
+[^364]: The body is supposed to have ten breaths, all of which the Jogis believe they can collect in the brain.
+
+[^365]: He is not silent like an idol.
+
+[^366]: Their sense of taste, their palates.
+
+[^367]: The lotus closes on them at night.
+
+[^368]: In their anxiety to store honey.
+
+[^369]: The five evil passions.
+
+[^370]: The other animals of the forest will be unhappy.
+
+[^371]: When divine knowledge destroys pride.
+
+[^372]: This verse is also translated— They who are overcome by their evil passions are lost, and they who conquer them are saved.
+
+[^373]: Also translated — wander as His jesters.
+
+[^374]: The gyanis translate — A stain shall attach to Thee. The line is also translated— If I reply, I shall be at fault.
+
+[^375]: To heaven.
+
+[^376]: The body.
+
+[^377]: The two walls are doubt and wrong-headedness.
+
+[^378]: The three moats are the three qualities.
+
+[^379]: The twenty-five categories of the Sankhya philosophy. See Monier Williams's _Indian Wisdom_ and the Introduction to Cockburn Thompson's _Bhagavat Gita_. An enumeration of the categories here would not assist the Sikh student.
+
+[^380]: The tenth gate or brain.
+
+[^381]: Some translate this the minute or invisible.
+
+[^382]: In the lake of the heart.
+
+[^383]: A peak in the Himalayas where the Ganges is supposed to rise.
+
+[^384]: These are—Suraj, Chand, Mangal, Budh, Brihaspati, Shukkar, Samchar, Rahu, and Ketu. The days of the week are named, in India, after the first seven.
+
+[^385]: The evil passions.
+
+[^386]: An uncle of Krishan.
+
+[^387]: The persons mentioned did not allow worldly matters to interrupt their devotions.
+
+[^388]: Brahma's son was Bhrigu, Bhrigu's son was Shukkar, Shukkar's sons were Sanda and Marka.
+
+[^389]: His life had been often in danger before from the bigotry and violence of his father, and the present occurrence was but the culmination of many acts of paternal cruelty.
+
+[^390]: The head of the firm is man, the five traders the five senses.
+
+[^391]: The spurious wares are worldly things.
+
+[^392]: Generally understood to be the ten breaths of the body.
+
+[^393]: The nine gates of the body.
+
+[^394]: _Bairag_, contempt of the world; _bibek_, discrimination; _khatsampal_, the six acquisitions; _moksk ichha_, desire of deliverance; _shrawan_, hearing God's name ; _manan_, obeying God's will ; _nididhyasan_, profound and continued meditation.
+The six sampats or acquisitions are — _Sam_, restraint of the mind; _dam_, restraint of the senses ; _uparati_, the preservation of the heart from love and hate ; _tatiksha_, endurance of pain ; _shradha_, faith ; _samddhdnta_, attention to the guru's instruction. Others, by the seven threads, understand the five oigans of perception, the mind, and the understanding.
+
+[^395]: The three qualities.
+
+[^396]: A cloth to collect the flour as it falls from the hand-mill.
+
+[^397]: That is, run away before my wife or my son returns ; you shall meet with a different reception from them.
+
+[^398]: This hymn is also applied allegorically to man.
+
+[^399]: If it receive even the slightest external pressure.
+
+[^400]: Sun, also translated — as an epithet of God — without desires.
+
+[^401]: Of flowers, incense, light, &c.
+
+[^402]: That is, God does not heed him.
+
+[^403]: Also translated — The wise man knoweth how to do this. If sujhe were read for bujhe the two words would be translated — The Omniscient would become manifest.
+
+[^404]: This hymn is included in the Arati of the Sikhs.
