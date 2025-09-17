@@ -66,7 +66,7 @@ Thou, O Spouse, wast angry with me in Thy heart ;
 It was through my demerits, and not my Spouse's fault.
 My Lord, I did not know Thy worth ;
 I have lost my youth and repent too late.
-O black kokil, why art thou black ?
+O black kokil, why art thou black ? <span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 _The kokil_ — ‘ I have been burnt by separation from my Beloved ;
 Can she who is separated from her Beloved ever be happy ? ’
 If the Lord be merciful, He will cause me to meet Him.

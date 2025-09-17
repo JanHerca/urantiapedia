@@ -818,7 +818,7 @@ And in _the joy_ of his heart blessed the Sodhi king, saying,
 ‘When I come in the Kal age under the name of Nanak,
 I will make thee worthy of worship in the world, and thou shalt attain the highest dignity.
 
-Thou hast heard the three Veds from us, On hearing the fourth Ved thou gavest thy territory. Having assumed three births[^69],<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
+Thou hast heard the three Veds from us, On hearing the fourth Ved thou gavest thy territory. Having assumed three births[^69],<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 In my fourth I will make thee Guru.[^70]
 On the one hand the Sodhi king went to the forest,
 On the other the Bedi king was happy in his sovereignty. How far shall I amplify this story ?
@@ -1891,6 +1891,8 @@ We offer this Ardas in Thy presence and at Thy lotus feet. Pardon our errors and
 Through Nanak, may Thy name, O God, be exalted, 
 And all prosper by Thy grace! 
 Sri Wahguru ji ka Khalsa! Sri Wahguru ji ki Fatah ! 
+
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 
 ## THE RAGS OF THE GRANTH SAHIB

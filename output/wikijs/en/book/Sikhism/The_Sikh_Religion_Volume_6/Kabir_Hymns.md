@@ -209,7 +209,7 @@ Kabir desires not heaven but absorption in God.
 
 <p style="text-align:center;">X</p>
 
-The men who have no _correct notion_ of the Supreme Being, Think of entering heaven by mere words. <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
+The men who have no _correct notion_ of the Supreme Being, Think of entering heaven by mere words. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 I know not where heaven is ;
 Everybody saith he longeth to go there,
 But there is no satisfaction in _such_ conversation —
@@ -2200,7 +2200,7 @@ Mine eyes gaze affectionately _on Him_ ;
 There is now no other subject mentioned.
 My doubts have departed, my fear hath fled
 Since I applied my mind to God's name :
-When the Actor beateth the drum,
+When the Actor beateth the drum, <span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 Everybody cometh to _see_ the show.[^242]
 When the Actor collecteth the stage properties,[^243]
 He abideth alone in His happiness.

@@ -40,7 +40,7 @@ Budhu Shah, a Saiyid, who lived in Sadhaura, went with his disciples to pay a vi
 
 Raja Fatah Shah of Srinagar in consultation with his ministers arrived at the conclusion that it would be. politic to be on good terms with the Guru, and accordingly decided to visit him since he had approached so near his territory. When the Guru was apprised of his intention, he prepared a magnificent entertainment for his reception. Rich carpets were spread and minstrels engaged to contribute to the Raja’s amusement and enhance his enjoyment of the feast. During the Raja’s visit the Guru sent his uncle Kripal to him to suggest that it would be well if he and the Raja of Nahan also were on good terms. The Raja at once replied that he would act in all such matters as the Guru desired. The Guru then sent for the Raja of Nahan. He came and promised to forget his former enmity to the Raja of Srinagar. The Guru brought the two Rajas together in open court, caused them to embrace and promise eternal friendship.
 
-<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>g
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>g
 
 Before the assembly was dissolved a _ hillman arrived with tidings of a fierce tiger which was destroying cattle in the neighbourhood. The messenger pressed the Guru to free the country from the pest. The Guru on the morrow took the two Rajas, together with Nand Chand and others, to where the tiger was reported to have his lair. The Guru asked the hillman who had brought the intelligence to lead the way. He guided the Guru and his party into a very dense forest. The tiger, which had been resting, awoke on hearing the tramp of the huntsmen’s feet, and sat on his haunches looking at his pursuers with tranquil curiosity.
 
