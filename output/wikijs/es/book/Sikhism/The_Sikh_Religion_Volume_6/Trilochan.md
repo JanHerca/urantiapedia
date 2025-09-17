@@ -34,9 +34,9 @@ dateCreated: 2025-2-12T12:57:24Z
 
 ## TRILOCHAN
 
-Trilochan, nombre que literalmente significa "tres ojos", es decir, vidente del presente, pasado y futuro, fue un célebre santo de la casta vaisya. Se dice que nació en el año 1267 d. C. [^1] Vivió o visitó Pandharpur, en el distrito de Sholapur de la presidencia de Bombay, y fue contemporáneo de Namdev, quien lo mencionó o se dirigió a él en sus himnos. Sin embargo, las indagaciones en Pandharpur y la vecina ciudad de Barsi no han proporcionado información alguna sobre Trilochan. La siguiente leyenda se hace famosa entre sus admiradores. Tenía una fe y un amor absolutos por los santos, pero estos lo visitaban en cantidades excesivamente grandes, y solo él y su esposa estaban para atenderlos. Pensó que no los atendían como él hubiera deseado, así que decidió contratar a un sirviente si encontraba a uno que estuviera acostumbrado a atender a hombres santos. Continuó buscando a un asistente, pero al no encontrarlo, se entristeció profundamente. Se dice que Dios no se agradó del dolor de su santo y le envió un candidato para el servicio. Trilochan le preguntó al candidato quién era, de dónde venía y si tenía padres, casa y hogar. El hombre respondió que no tenía padres ni hogar. Simplemente había venido para ser contratado como sirviente. Podía atender a los santos de Dios sin ayuda de otros, ya que había dedicado su vida a tal servicio. Dijo que su nombre era Antarjami, que significa "Escudriñador de corazones". Trilochan se sintió muy complacido y le ordenó a su esposa que lo contratara y que con alegría le proporcionara todas sus necesidades. Se le advirtió que considerara su placer como su primer deber.
+Trilochan, nombre que literalmente significa "tres ojos", es decir, vidente del presente, pasado y futuro, fue un célebre santo de la casta vaisya. Se dice que nació en el año 1267 d. C. [^1] <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> Vivió o visitó Pandharpur, en el distrito de Sholapur de la presidencia de Bombay, y fue contemporáneo de Namdev, quien lo mencionó o se dirigió a él en sus himnos. Sin embargo, las indagaciones en Pandharpur y la vecina ciudad de Barsi no han proporcionado información alguna sobre Trilochan. La siguiente leyenda se hace famosa entre sus admiradores. Tenía una fe y un amor absolutos por los santos, pero estos lo visitaban en cantidades excesivamente grandes, y solo él y su esposa estaban para atenderlos. Pensó que no los atendían como él hubiera deseado, así que decidió contratar a un sirviente si encontraba a uno que estuviera acostumbrado a atender a hombres santos. Continuó buscando a un asistente, pero al no encontrarlo, se entristeció profundamente. Se dice que Dios no se agradó del dolor de su santo y le envió un candidato para el servicio. Trilochan le preguntó al candidato quién era, de dónde venía y si tenía padres, casa y hogar. El hombre respondió que no tenía padres ni hogar. Simplemente había venido para ser contratado como sirviente. Podía atender a los santos de Dios sin ayuda de otros, ya que había dedicado su vida a tal servicio. Dijo que su nombre era Antarjami, que significa "Escudriñador de corazones". Trilochan se sintió muy complacido y le ordenó a su esposa que lo contratara y que con alegría le proporcionara todas sus necesidades. Se le advirtió que considerara su placer como su primer deber.
 
-Antarjami realizaba servicios domésticos para los santos, como cocinar, sacar agua, lavarles los pies, lavarles el cabello y bañarlos, de tal manera que la casa de Trilochan* se hizo famosa por su hospitalidad; y una gran multitud de santos comenzó a vivir con él y a consumir sus bienes. Así transcurrieron trece meses, hasta que un día la esposa de Trilochan fue a visitar a una vecina. Esta le preguntó por qué estaba tan sucia y se veía tan miserable. Ella respondió que su señor había contratado a una sirvienta que requería tanta atención que tenía que pasarse todo el día moliendo maíz y cocinando para él. Esto fue informado a Antarjami, quien desapareció rápidamente.
+Antarjami realizaba servicios domésticos para los santos, como cocinar, sacar agua, lavarles los pies, lavarles el cabello y bañarlos, de tal manera que la casa de Trilochan* se hizo famosa por su hospitalidad; y una gran multitud de santos comenzó a vivir con él y a consumir sus bienes. Así transcurrieron trece meses, hasta que un día la esposa de Trilochan fue a visitar a una vecina. Esta le preguntó por qué estaba tan sucia y se veía tan miserable. Ella respondió que su señor había contratado a <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> una sirvienta que requería tanta atención que tenía que pasarse todo el día moliendo maíz y cocinando para él. Esto fue informado a Antarjami, quien desapareció rápidamente.
 
 Cuando llegó el momento de servir a los santos, no se pudo encontrar a Antarjami. Trilochan se sintió profundamente afligido y, reprendiendo a su esposa, le dijo que, debido a su indiscreción, Antarjami había abandonado su servicio. Se dice que, tras tres días de dolor, Trilochan fue consolado por la intervención divina. En consecuencia, se dedicó a la alabanza y la contemplación del único Dios verdadero. Su dolor se disipó entonces.
 
@@ -53,12 +53,12 @@ No los puedo soportar
 ¡Que algún amigo venga y hable conmigo! [^2]
 ¡Ven a mí, Dios mío, y abrázame!
 Ven a mí, Dios mío, y líbrame.
-En diversos placeres y estado real, oh mortal, te has olvidado de Dios y te consideras el único inmortal en este mundo.
-Engañado por Mammón, no pensaste en Dios, y perdiste tu vida, oh hombre negligente.
+En diversos placeres y estado real, oh mortal, te has olvidado de _Dios_ y te consideras el único inmortal en este mundo.
+Engañado por Mammón, no pensaste _en Dios_, y perdiste tu vida, oh hombre negligente.
 Mortal, debes recorrer un camino difícil y terrible donde ni el sol ni la luna tienen entrada.
 Cuando el hombre abandona el mundo, olvida su amor mundano. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 Hoy ha quedado claro para mi entendimiento que Dharmraj mantendrá su mirada sobre el hombre.
-Allí sus poderosísimos mirmidones frotarán a los hombres entre sus manos, y nadie podrá resistirlos.
+Allí sus poderosísimos _mirmidones_ frotarán a los hombres entre sus manos, y nadie podrá resistirlos.
 Si alguien me da instrucción, _que sea ésta_: Dios está contenido en todo lugar. [^3]
 Oh Dios, dice Trilochan, Tú lo sabes todo.
 
@@ -72,9 +72,9 @@ _Al brahmán_. — Te has extraviado en el error, oh Jai Chand,
 Y no reconoció a Dios la Alegría Primordial.
 _Al Jogi_. — Comiendo en cada casa has engordado tu cuerpo; vistes una túnica remendada y pendientes de mendigo para ganar dinero.
 Te has frotado las cenizas del crematorio, _pero_, _al estar_ sin guía espiritual, no has encontrado la Cosa Real. [^4]
-¿Por qué murmurar hechizos? ¿Por qué practicar austeridades? ¿Por qué agitar el agua?
-Recuerda a Dios, el Morador, que ha creado los ochenta y cuatro lakhs de existencias.
-A Kapria. — Oh, Kapria, ¿por qué te afanas por un cántaro de agua? ¿Por qué vagas a los sesenta y ocho lugares de peregrinación?
+¿Por qué murmurar _hechizos_? ¿Por qué practicar austeridades? ¿Por qué agitar el agua?
+Recuerda a _Dios_, el Morador, que ha creado los ochenta y cuatro lakhs de existencias.
+_A Kapria_. — Oh, Kapria, ¿por qué te afanas por un cántaro de agua? ¿Por qué vagas a los sesenta y ocho _lugares de peregrinación_?
 Dice Trilochan: Escucha, oh mortal, si no tienes trigo, ¿por qué pones una era?
 
 <span id="p80"><sup><small>[ pág. 80 ]</small></sup></span>
@@ -104,11 +104,11 @@ Aunque _Krishan, el avatar_ de Vishnu, se encarnó en la familia de la _luna_;
 Sin embargo, la mancha contraída a causa de sus malas acciones es imborrable de su cabeza;
 Aran, el auriga, cuyo señor es _el sol_, la lámpara de la <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> tierra, cuyo hermano era Garur, el rey de los pájaros, nació sin pies a causa de sus pecados;
 Shiv, el eliminador de muchos pecados, el señor de los tres mundos, vagó por muchos lugares de peregrinación, pero nunca llegó al final de ellos:
-El acto de cortar la cabeza de Brahma nunca fue borrado de su persona.
+El acto de _cortar la cabeza de Brahma_ nunca fue borrado de su persona.
 Aunque la ambrosía, la luna, la vaca que todo lo da, Lakhshmi, el árbol milagroso, el corcel de siete caras y el médico surgieron _del océano_, el señor de los ríos,
 Sin embargo, a causa de su acción, la salinidad del océano no desaparece;
 Aunque Hanuman, que quemó la fortaleza de Lanka y arrancó de raíz el parque de Rawan, llevó la planta curativa de heridas a Ram Chandar y lo hizo feliz,
-Sin embargo, a causa de su acto de robo, la maldición de que nunca debería tener más que un taparrabos no fue borrada de su persona.
+Sin embargo, a causa de su acto de robo, la maldición de _que nunca debería tener más_ que un taparrabos no fue borrada de su persona.
 El resultado de los actos pasados ​​nunca se borra, oh esposa de mi casa; por eso repite para mí el nombre de Dios; Trilochan repite el nombre de Dios. [^7]
 
 <figure class="table chapter-navigator">
@@ -150,7 +150,7 @@ El resultado de los actos pasados ​​nunca se borra, oh esposa de mi casa; po
 [^6]: Cuando tal es el caso, no sirve de nada criticar a Dios en la adversidad.
 
 [^7]: Las siguientes son las alusiones en el himno precedente:
-  El Sursari es el Ganges, llamado así porque es Suron Ki Sari, el río de los semidioses o héroes divinos. Se dice que fluye de la cabeza de Shiva.
+  El _Sursari_ es el Ganges, llamado así porque es _Suron Ki Sari_, el río de los semidioses o héroes divinos. Se dice que fluye de la cabeza de Shiva.
   Krishan pertenecía a los Chandarbans, o familia de la luna. Ram Chandar, por otro lado, pertenecía a los Surajbans, o familia del sol.
   La luna se enamoró de la esposa de Brihaspati, el guía espiritual de los dioses, y se la llevó. Se dice que la mancha oscura en la luna es la resultante de este acto. En sánscrito y literatura afín, la luna es masculina.
   Arun era hijo de Vinata y Kashyap. Vinata eclosionó prematuramente, y la cría nació sin muslos, de ahí que se le llame Anuru (sin muslos) o Vipad (sin pies). Maldijo a su madre y rogó que, por haberlo engendrado antes de tiempo, fuera esclava de su rival, Kadru. Sin embargo, ante las fervientes súplicas de su madre, modificó la maldición y dijo que su próximo hijo la liberaría de la esclavitud. Arun, en la mitología hindú posterior, parece ser el mismo que el amanecer y el auriga del sol.

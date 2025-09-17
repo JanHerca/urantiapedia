@@ -128,8 +128,8 @@ Worship God, O my soul, and thou shalt obtain the dignity of salvation,
 And no more transmigration shall await thee.
 _O God_, Thou didst create all men and lead them astray in error :
 He to whom Thou givest _understanding_ knoweth Thee
- When I meet the true guru, my doubts shall depart.
- Whom shall I then worship ? none other would be seen _but Thee_.
+When I meet the true guru, my doubts shall depart.
+Whom shall I then worship ? none other would be seen _but Thee_.
 One stone is adored, <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 Another [^12] is trodden under foot :
 If one is a god, the other is also a god —

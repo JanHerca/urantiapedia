@@ -90,12 +90,12 @@ Se dice que un Labana ofreció un buey a Rav Das. Al rechazar el obsequio, el sa
 
 El camino hacia _Dios_ es muy difícil y empinado, y yo _ya_ tengo un buey inútil. [^5]
 Mi única oración a Dios es: “Preserva mi capital,[^6] oh Dios”.
-¿Hay algún comerciante de Dios que quiera acompañarme? Mis mercancías están cargadas y a punto de partir. [^7]
+¿Hay algún comerciante de Dios _que quiera acompañarme_? Mis mercancías están cargadas y a punto de partir. [^7]
 Soy un comerciante de Dios y negocio con el conocimiento divino.
 La riqueza que he cargado es el nombre de Dios; el mundo ha cargado veneno. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 Vosotros, ángeles registradores, que conocéis este mundo y el próximo, escribid sobre mí todas las tonterías que queráis, no me importa;
 El garrote de la muerte no me tocará porque he desechado todos los enredos.
-Este mundo es como el color fugaz del cártamo,
+Este mundo es como el color _fugaz_ del cártamo,
 _Pero_ el color de mi Dios es el tinte _permanente_ de la rubia, dice el curtidor Rav Das.
 
 Rav Das ora por el favor divino.
@@ -141,7 +141,7 @@ El hombre es presa de los cinco sentidos y sus pasiones acompañantes, y no de u
 <p style="text-align:center;">I</p>
 
 El ciervo, el pez, el abejorro, la polilla y el elefante perecen cada uno por un solo sentido;
-¿Qué esperanza hay entonces para quien, como el hombre, tiene cinco enemigos implacables? <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
+¿Qué esperanza hay entonces para quien, _como el hombre_, tiene cinco enemigos implacables? <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 Oh Dios, el hombre ama la ignorancia;
 Su lámpara de discriminación se ha apagado.
 Los irreflexivos renacen como seres rastreros que no distinguen entre el bien y el mal;
@@ -169,7 +169,7 @@ Rav Das es exaltado por la asociación sagrada.
 <p style="text-align:center;">III</p>
 
 Tú eres sándalo, yo soy la pobre planta de palma christi [^13], habito cerca de ti: <span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
-De humilde arbusto he llegado a ser árbol excelso: Tu excelente perfume permanece en mí.
+De humilde arbusto he llegado a ser árbol excelso: Tu excelente perfume permanece _en mí_.
 Oh Dios, he buscado la protección de tu verdadera congregación.
 Yo no tengo virtudes, tú eres benéfico,
 Tú eres seda blanca [^14] y amarilla retorcida; nosotros somos los pobres gusanos [^15] _que trabajamos y la hacemos_.
@@ -205,7 +205,7 @@ Aquellos que no piensan en Dios serán condenados.
 
 <p style="text-align:center;">VI</p>
 
-¡Cómo baila el hombre, marioneta de barro!
+¡Cómo baila el _hombre_, marioneta de barro!
 Él mira y mira, oye, habla, corre alrededor.
 Cuando adquiere algo se siente orgulloso,
 Pero cuando su riqueza desaparece, comienza a llorar.
@@ -227,7 +227,7 @@ El veneno y la ambrosía habitan juntos;
 El incienso, las lámparas y el pan consagrado están contaminados. [^23]
 ¿Cómo realizará tu siervo tu adoración?
 Permíteme dedicar y ofrecer mi cuerpo y alma como mi adoración,
-Así, por el favor del gurú, encontraré al Puro. No puedo realizar tu adoración según los ritos hindúes; dice Rav Das, ¿en qué condición me encuentro? [^24]
+_Así_, por el favor del gurú, encontraré al Puro. No puedo realizar tu adoración _según los ritos hindúes_; dice Rav Das, ¿en qué condición me encuentro? [^24]
 
 Rav Das concluye que todo es Dios.
 
@@ -239,9 +239,9 @@ Cuando había egoísmo en mí, Tú no estabas conmigo; ahora que estás conmigo,
 Enormes olas son levantadas por el viento en el océano, pero son sólo agua en el agua. [^25]
 Oh Dios, ¿qué diré? Por ilusión, las cosas no son como deberían ser.
 Un rey duerme en su trono; en un sueño se convierte en un mendigo;
-Sufre dolor por haber perdido su imperio, aunque esté intacto: tal ha sido mi condición.
+Sufre dolor por haber perdido su imperio, _aunque_ esté intacto: tal ha sido mi condición.
 Al igual que la historia de la cuerda y la serpiente, ahora me han explicado el secreto [^26].
-Al ver varias [^27] pulseras supuse erróneamente que eran distintas del oro; pero lo que dije entonces no lo digo ya.
+Al _ver_ varias [^27] pulseras supuse erróneamente _que eran distintas del oro_; pero lo que dije entonces no lo digo ya.
 En todas las cosas, el único Señor asume diversas formas; Dios juega en todos los corazones. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 Dice Rav Das: Dios está más cerca de nosotros que nuestras manos y pies; lo que sucede por Su voluntad es lo que sucede.
 
@@ -252,7 +252,7 @@ Rav Das ama tanto a Dios que siente que tiene derecho a Su misericordia.
 Cuando nos ataste con un lazo de ilusión, nosotros te atamos con un lazo de amor;
 Intenta liberarte; nosotros hemos sido liberados al adorarte.
 Oh Dios, Tú sabes cómo nos sentimos hacia Ti;
-Ahora bien, ¿qué harás con nosotros, siendo tal nuestro amor por Ti?
+Ahora bien, ¿qué harás con nosotros, _siendo tal nuestro amor por Ti_?
 El hombre atrapa un pez, lo corta en rodajas, lo troza y lo cocina de diversas maneras;
 Lo muerde y lo come, pero no olvida el agua. [^28]
 El Gobernante Supremo no es herencia de nadie; pertenece a quien lo ama.
@@ -264,10 +264,10 @@ Rav Das, al hablar de introspección, se descubre carente de todo.
 
 <p style="text-align:center;">III</p>
 
-Obtuve este nacimiento difícil de alcanzar como recompensa al mérito, pero pasa en vano debido a mi falta de discernimiento.
+Obtuve este nacimiento difícil de alcanzar como recompensa al mérito, pero pasa en vano debido _a mi falta de_ discernimiento.
 ¿De qué serviría un palacio y un trono como el del rey Indar sin la devoción a Dios?
 No he pensado en el placer del _nombre_ del Dios Supremo, un placer en el que todos los demás placeres se olvidan.
-Lo que debíamos saber, no lo sabíamos; nos hemos vuelto locos y no hemos considerado lo que debíamos haber considerado, y así nuestros días han transcurrido.
+Lo que debíamos saber, no lo sabíamos; nos hemos <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> vuelto locos y no hemos considerado lo que debíamos haber considerado, y así nuestros días han transcurrido.
 Nuestras pasiones son fuertes y nuestro discernimiento débil; nuestro entendimiento no puede entrar en los designios de Dios.
 Decimos una cosa y hacemos otra; el amor mundano nos impide comprender.
 Dice Rav Das: Yo, tu siervo, estoy triste en el corazón;
@@ -310,7 +310,7 @@ El hombre está demasiado orgulloso de su cuerpo aunque su origen y su fin sean 
 _El cuerpo_ es un muro de agua sostenido por una columna de aire; la sangre [^31] y el semen son su mortero.
 La pobre alma habita en un esqueleto de huesos, carne y venas;
 Oh mortal, ¿qué es mío y qué es tuyo?
-Así como un pájaro se posa en un árbol, así también el alma se posa en el cuerpo.
+Así como un pájaro se posa en un árbol, _así también el alma se posa en el cuerpo_.
 Tú pones los cimientos y te edificas una casa;
 Tres codos y medio será tu medida final.
 Rizas tu cabello y llevas tu turbante a un lado de tu cabeza;
@@ -390,7 +390,7 @@ _En cuanto a su pecado, en el cuerpo de Indar_, el amante de la esposa de Ahalya
 Como la cabeza de _Brahma_ se adhirió a _la mano de Shiv_, el señor de Uma [^38] _por su pecado_,
 Así que estos malvados enemigos, _los pecados capitales_, me han atado y golpeado a mí, _también pecador_.
 Soy muy desvergonzada y aún no me he cansado de su compañía.
-Dijo Rav Das: ¿Adónde iré? ¿Qué haré?
+Dijo Rav Das: ¿_Adónde iré_? ¿Qué haré?
 ¿A quién buscaré sino la protección de Dios?
 
 La santa y la pecadora bajo las alegorías de una esposa buena y una mala contrastadas.
@@ -401,7 +401,7 @@ La santa y la pecadora bajo las alegorías de una esposa buena y una mala contra
 
 La buena esposa sabe el valor de su esposo;
 Ella renuncia al orgullo y disfruta de la felicidad conyugal;
-Ella entrega a su marido su cuerpo y su alma, y ​​no hace distinción entre él y ella;
+Ella entrega a su marido su cuerpo y su alma, y ​​no hace distinción _entre él y ella_;
 Ella no ve a nadie más, no oye a nadie más y no habla con nadie más.
 ¿Cómo podría ella, en cuyo corazón no ha entrado ninguna tristeza,
 ¿Conoces los problemas de los demás?
@@ -409,7 +409,7 @@ La mala esposa [^39] que no ha servido continuamente a su esposo
 Es infeliz y pierde ambos mundos.
 El camino por el puente de Sirat [^xx3] es difícil —
 No tendrá compañía y deberá ir sola.
-Con dolor y pena, oh Dios, he llegado a tu puerta; tengo mucha sed y no he recibido respuesta de Ti.
+Con dolor y pena, oh Dios, he llegado a tu puerta; tengo mucha sed y no he recibido respuesta _de Ti_.
 Dice Rav Das: He venido a Tu protección; realiza mi salvación como creas mejor.
 
 <span id="p335"><sup><small>[ pág. 335 ]</small></sup></span>
@@ -422,7 +422,7 @@ Los días que vienen, pasan otra vez;
 Debemos seguir adelante, nada permanece estable.
 Nuestros compañeros se van, nosotros también debemos ir;
 El viaje es largo; la muerte se cierne sobre nosotros.
-¿Por qué duermes? Despierta para el servicio de Dios, oh insensato;
+¿Por qué duermes? Despierta _para el servicio de Dios_, oh insensato;
 Creíste que la vida era algo real en este mundo, _cuando deberías haber pensado en Dios_,
 El que te dio la vida te da sustento,
 Y en cada corazón se abre una tienda. [^41]
@@ -445,7 +445,7 @@ Incluso tus parientes, tu familia y tus compañeros lanzan un grito,
 '¡Sacadlo rápido!'
 La esposa de tu casa que te abrazó _en vida_,
 Grita: «¡Fantasma! ¡Fantasma!» y huye de ti.
-Dice Rav Das: La muerte ha saqueado el mundo entero,
+Dice Rav Das: _La muerte_ ha saqueado el mundo entero,
 Pero yo he escapado repitiendo _el nombre_ del único Dios.
 
 <span id="p336"><sup><small>[ pág. 336 ]</small></sup></span>
@@ -457,10 +457,10 @@ La gracia de Dios no tiene paralelo.
 <p style="text-align:center;">I</p>
 
 Todos se reían al ver mi pobreza: tal era mi condición;
-Pero yo tengo los dieciocho poderes sobrenaturales en la palma de mi mano gracias a tu favor.
+Pero _yo tengo_ los dieciocho poderes sobrenaturales en la palma de mi mano gracias a tu favor.
 Tú sabes que no soy nada, oh Dios, Destructor del miedo;
 Todos los hombres han buscado tu protección, oh Dios, Cumplidor de deseos;
-Aquellos que han buscado tu protección ya no soportan la carga del pecado.
+Aquellos que han buscado tu protección ya no soportan la carga _del pecado_.
 Los altos y los bajos han sido liberados del mundo desvergonzado [^42] por medio de Ti.
 Dice Rav Das: ¿Por qué decir más acerca del Inefable?
 Tú, oh Dios, eres tu propio paralelo; ¿a qué puedo compararte?
@@ -485,7 +485,7 @@ Dios como dispensador de salvación.
 <p style="text-align:center;">I</p>
 
 Repetid, oh pueblos, el nombre de Dios, el Dispensador de salvación.
-Sin el Dispensador de salvación el cuerpo se cansa en la transmigración.
+Sin el Dispensador de salvación el cuerpo se cansa _en la transmigración_.
 El dispensador de salvación es el dador de liberación;
 El dispensador de la salvación es nuestro padre y madre.
 Viviendo _repite_ Su _nombre_, muriendo _repite_ Su _nombre_;
@@ -493,7 +493,7 @@ Su adorador está siempre feliz —
 El dispensador de salvación es mi vida.
 Si así está grabado en tu frente, repetirás su nombre.
 Sólo quien ha dejado de amar al mundo puede servir a Dios.
-Yo, aunque pobre, he obtenido como riqueza a ese dispensador de salvación.
+Yo, aunque pobre, _he obtenido_ como riqueza a ese dispensador de salvación.
 Si el único Dispensador de salvación me hace un favor,
 ¿Qué puede hacerme el mundo?
 Habiendo borrado mi casta me he convertido en un cortesano _de Dios_—
@@ -501,7 +501,7 @@ Tú, oh Dios, eres capaz de salvar al mundo —
 Ha surgido el conocimiento divino y me he iluminado;
 _Dios_ ha aceptado graciosamente a este gusano como su esclavo.
 Dice Rav Das: mi sed ahora ha cesado;
-Repito el nombre de Dios y realizo Su servicio.
+Repito el nombre de Dios y _realizo_ Su servicio.
 
 El destino del calumniador.
 
@@ -514,10 +514,10 @@ _Pero_ practicad la calumnia, y todo será en vano.
 ¿Cómo se salvará el que calumnia a un santo?
 Sabed que con toda seguridad caerá en el infierno.
 Si el hombre celebra los eclipses en Kurkhetar,
-Ofrecer a su esposa con sus decoraciones a los brahmanes,
+Ofrecer a su esposa con sus decoraciones _a los brahmanes_,
 Y escuchar con sus oídos todos los _Simritis_,
 Pero si practica la calumnia, todo será en vano.
-Si prepara muchos festines para los brahmanes,
+Si prepara muchos festines _para los brahmanes_,
 Hacedles donaciones de tierras y construidles espléndidas mansiones públicas;
 Si descuidando sus propios asuntos se ocupa de los de otros,
 Y aun así, si practicas la calumnia, vagarás en muchos nacimientos.
@@ -567,11 +567,11 @@ Las ventajas de repetir el nombre de Dios.
 
 <p style="text-align:center;">BHAIRO</p>
 
-Sin contemplar a Dios no hay esperanza;
+Sin contemplar a _Dios_ no hay esperanza;
 Todo lo que vemos perece.
-El que repite el nombre de Dios con la debida alabanza
+El que repite el nombre de Dios con la _debida_ alabanza
 ¿Es el único Jogi libre de deseos?
-Si alguno se ocupa en repetir el nombre de Dios,
+Si alguno se ocupa en repetir el _nombre_ de Dios,
 Y Dios, la piedra filosofal, lo toca, su dualidad ya no permanecerá.
 El que destruye la dualidad de su mente es un _muni_;
 Será absorbido en Dios [^47] que llena los tres mundos.
@@ -582,7 +582,7 @@ Cuando aparece el fruto, las flores se marchitan.
 Por amor al conocimiento divino los hombres practican ceremonias religiosas;
 Cuando se obtiene el conocimiento divino, no se realizan ceremonias religiosas.
 Para hacer mantequilla, la gente sabe batir la leche coagulada;
-Así pues, aquellos que se esfuerzan por alcanzar el conocimiento divino obtienen la liberación mientras están vivos y están siempre en reposo.
+Así pues, _aquellos que se esfuerzan por alcanzar el conocimiento divino_ obtienen la liberación mientras están vivos y están siempre en reposo.
 Dice Rav Das, _habiendo abrazado_ el desprecio supremo por el mundo,
 ¿Por qué no repites de corazón el nombre de Dios, oh hombre desventurado?
 
@@ -590,15 +590,15 @@ Dice Rav Das, _habiendo abrazado_ el desprecio supremo por el mundo,
 
 <p style="text-align:center;">BASANT</p>
 
-Tú no sabes nada, oh cuerpo mío;
+Tú no sabes nada, _oh cuerpo mío_;
 Al ver tus _finas_ ropas te enorgulleces.
 Ningún lugar puede albergar a los orgullosos;
 Sin embargo, sobre tu cabeza el cuervo se encarama. [^48] <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
-¿Por qué estás orgulloso, oh cuerpo demente?
+¿Por qué estás orgulloso, oh _cuerpo_ demente?
 Eres mucho más efímero que un hongo venenoso en el mes de Bhadon.
-El ciervo no conoce el secreto de su almizcle;
+El ciervo no conoce el secreto de_ su almizcle_;
 Lo tiene en su cuerpo, pero lo busca fuera.
-El que comprende su propio cuerpo fugaz,
+El que comprende su propio cuerpo _fugaz_,
 Nunca serás deshonrado por los mirmidones de la Muerte.
 El hombre está orgulloso de su hijo y su esposa;
 A él le tomará Dios cuenta.
@@ -615,7 +615,7 @@ El santo, por baja que sea su casta, es superior incluso a los semidioses.
 Ni el Señor de Lakshmi, [^49] ni el Señor de Kailas, [^50] ni ningún otro es igual a quienes repiten el nombre de Dios:
 Él es uno solo, aunque está difundido de muchas maneras; recuérdalo, recuérdalo _a tus pensamientos_; Él llena la creación.
 Aquel en cuya casa se veía devoción a Dios y a nada más, era por casta un impresor de calicó intocable.
-La grandeza del nombre de Dios se vio en Vyas; se observó en los hijos de Brahma; es famoso en las siete islas [^51] de la tierra.
+La grandeza del nombre de Dios se vio en Vyas; se observó en los hijos de Brahma; _es famoso en_ las siete islas [^51] de la tierra.
 Aquel cuya familia [^52] solía sacrificar vacas en el Id y el Bakr Id, y que adoraba a los shaykhs, mártires y pirs, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 Kabir, el hijo de un padre que solía hacer tales cosas, tuvo tanto éxito que se volvió célebre en los tres mundos.
 Todos los _chamars_ [^53] de mi familia todavía recorren Benarés retirando el ganado muerto,
@@ -632,7 +632,7 @@ Mi vestido está sucio; ¿hasta cuándo he de lavarlo?
 Las cosas [^56] a las que estaba apegado han perecido todas;
 La tienda del tráfico espurio ha cerrado. [^57]
 Dijo Rav Das, cuando me tomen cuenta,
-Veré que todo lo que he hecho queda registrado a mi favor.
+Veré que todo lo que he hecho queda _registrado a mi favor_.
 
 <figure class="table chapter-navigator">
   <table>

@@ -696,8 +696,8 @@ Kabir, ¿qué haces, oh hombre, durmiendo? Levántate y llora por miedo al infie
 
 <p style="text-align:CXXVIII</p> 
 
-Kabir, ¿qué haces durmiendo? ¿Por qué no te levantas y repites el nombre de Dios? 
-Un día dormirás tendido cuan largo eres en la tumba. 
+Kabir, ¿qué haces durmiendo? ¿Por qué no te levantas y repites el _nombre_ de Dios? 
+Un día dormirás tendido cuan largo eres _en la tumba_. 
 
 <p style="text-align:center;">CXXIX</p> 
 
@@ -779,7 +779,7 @@ cuando el pobre infiel muere, nadie lo mencionará.
 <p style="text-align:center;">CXLIV</p> 
 
 Kabir, los hombres han amasado cientos de miles y millones, kauri tras kauri; 
-pero al partir no obtienen nada; incluso les quitan sus cinturones. 
+pero al partir no obtienen nada; _incluso_ les quitan sus cinturones. 
 
 <p style="text-align:center;">CXLV</p> 
 
@@ -840,7 +840,7 @@ donde hay codicia hay muerte; donde hay perdón está Dios mismo.
 
 <p style="text-align:center;">CLVI</p> 
 
-Kabir, ¿de qué sirve abandonar el amor mundano si no se abandona también el orgullo? 
+Kabir, ¿de qué sirve abandonar el amor mundano si no se abandona _también_ el orgullo? 
 Los munis y sus superiores espirituales perecieron por el orgullo; su orgullo los consumió a todos. 
 
 <p style="text-align:center;">CLVII</p> 
@@ -853,7 +853,7 @@ cuando me impactó, caí al suelo; se me hizo un agujero en el corazón.
 <p style="text-align:center;">CLVIII</p> 
 
 Kabir, ¿qué puede hacer el verdadero gurú si sus discípulos cometen errores? 
-Ni una sola palabra suya impresiona al ciego espiritual: es como soplar en un bambú. 
+Ni una sola palabra suya impresiona al ciego _espiritual_: es como soplar en un bambú. 
 
 <p style="text-align:center;">CLIX</p> 
 
@@ -867,7 +867,7 @@ R. La primera se peina con malas intenciones; la segunda recuerda el nombre de D
 
 <p style="text-align:center;">CLXI</p> 
 
-Kabir, me apoyé en el nombre de Dios y me estabilicé; el verdadero gurú me dio coraje: 
+Kabir, me apoyé en el _nombre de Dios_ y me estabilicé; el verdadero gurú me dio coraje: 
 compré grandes diamantes en la orilla del lago Mansarowar. 
 
 <p style="text-align:center;">CLXII</p> 
@@ -898,7 +898,7 @@ Kabir, el hombre actúa por consideración a su familia y, por lo tanto, muere p
 
 <p style="text-align:center;">CLXVII</p>
 
-Kabir, oh gente miserable, seréis arruinados por vuestra gran consideración a la opinión de los demás; 
+Kabir, oh gente miserable, seréis arruinados por vuestra gran consideración _a la opinión_ de los demás; 
 sabed que el destino de vuestros vecinos también será el vuestro. 
 
 <p style="text-align:center;">CLXVIII</p> 
@@ -909,7 +909,7 @@ no tengo ningún derecho sobre nadie _por ello_; grande es el país y grande su 
 <p style="text-align:center;">CLXIX</p> 
 
 Kabir, el ardor de corazón surge de los derechos; el que no tiene derechos no tiene ansiedad; 
-el que no tiene derechos considera a Indar pobre en comparación consigo mismo. 
+el que no tiene derechos considera a Indar pobre _en comparación consigo mismo_. 
 
 <p style="text-align:center;">CLXX</p> 
 
@@ -958,7 +958,7 @@ gafas para cuatro días, pero después de todo no son más que polvo.
 
 <p style="text-align:center;">CLXXIX</p> 
 
-Kabir, todos los cuerpos son como la salida y la puesta del sol y la luna; [^94] 
+Kabir, todos los cuerpos son como la salida y la _puesta_ del sol y la luna; [^94] 
 pero si no se encuentran con Dios y el gurú, todos se convierten de nuevo en polvo.
 
 <p style="text-align:center;">CLXXX</p> 
@@ -991,7 +991,7 @@ Busca en tu corazón a Aquel por cuyo amor llamas a la oración.
 <p style="text-align:center;">CLXXXV</p> 
 
 ¿Por qué el Shaikh que no se resigna realiza una peregrinación a la Kaaba? 
-Kabir, ¿cómo puede Dios estar con aquel cuyo corazón no está firme en su fe? 
+Kabir, ¿cómo puede Dios estar con aquel cuyo corazón no está firme _en su fe_? 
 
 <p style="text-align:center;">CLXXXVI</p> 
 
@@ -1011,7 +1011,7 @@ Kabir, una excelente cena es khichari [^99] _sazonada_ con _suficiente_ sal para
 <p style="text-align:center;">CLXXXIX</p> 
 
 Kabir, debes saber que el gurú habrá tocado tu corazón cuando el amor y la ambición mundanos se hayan borrado; 
-la alegría y la tristeza no te afectarán entonces; te convertirás en Dios mismo. [^101] 
+la alegría y la tristeza no te afectarán entonces; te _convertirás_ en Dios mismo. [^101] 
 
 <p style="text-align:center;">cxc</p> 
 
@@ -1080,13 +1080,13 @@ Los seis sistemas religiosos y los ochenta y cuatro Sidhs están envueltos en la
 
 <p style="text-align:center;">CCIII</p> 
 
-Kabir,Todo lo que hay en mí no es mío; todo lo que hay es tuyo, oh Dios. 
+Kabir,Todo lo que hay en mí no es mío; todo lo que hay es tuyo, _oh Dios_. 
 Si te fuera devuelto lo que es tuyo, ¿cuánto me costaría? 
 
 <p style="text-align:center;">CCIV</p>
 
 Kabir, al repetir «Tú, Tú», me he convertido en Tú, oh Dios; no he permanecido en mí mismo; 
-cuando la diferencia entre Tú y yo desapareció, dondequiera que miraba, allí estabas Tú. 
+cuando la diferencia entre Tú y yo desapareció, dondequiera que miraba, allí _estabas_ Tú. 
 
 <p style="text-align:center;">CCV</p> 
 
@@ -1105,7 +1105,7 @@ vino y se me apareció por destino primordial y antiguo.
 
 <p style="text-align:center;">CCVIII</p> 
 
-Kabir, he pasado mis días evadiendo el pago de mis deudas con Dios; los intereses siguen aumentando; 
+Kabir, he pasado mis días evadiendo el _pago de mis deudas con Dios_; los intereses siguen aumentando; 
 no adoré a Dios, ni había roto mi cuenta cuando llegó la Muerte. 
 
 El Gurú Arjan ha insertado aquí los tres versos siguientes: — 
@@ -1172,7 +1172,7 @@ cuando tres codos y medio, o como máximo tres y tres cuartos, será tu suerte?
 
 <p style="text-align:center;">CCXIX</p> 
 
-Kabir, si Dios no hace lo que yo deseo, ¿de qué sirve que lo desee? 
+Kabir, si _Dios_ no hace lo que yo deseo, ¿de qué sirve que lo desee? 
 Dios hace lo que Él mismo desea, no lo que yo deseo. 
 
 El siguiente verso de Gurú Amar Das se encuentra aquí: — 
@@ -1214,12 +1214,12 @@ si se encuentra algún comprador, puede tomarla a un alto precio. [^114]
 <p style="text-align:center;">CCXXVI</p> 
 
 Kabir, el hombre no conoce el nombre de Dios mientras cría una familia numerosa; 
-Muere en medio de sus deberes mundanos y no se sabe nada de él en el mundo exterior. 
+Muere en medio de sus deberes mundanos y no se sabe nada de él en el _mundo_ exterior. 
 
 <p style="text-align:center;">CCXXVII</p> 
 
 Kabir,En un abrir y cerrar de ojos, en un instante, la vida pasa; 
-como la mente no se libera de sus ataduras, la Muerte toca su tambor y se lleva a su víctima triunfante. 
+como la mente no se libera de sus ataduras, la Muerte toca su tambor y _se lleva a su víctima triunfante_. 
 
 <p style="text-align:center;">CCXXVIII</p>
 
@@ -1235,7 +1235,7 @@ _cuya_ sombra sea fresca, cuyo fruto sea profuso y en el que los pájaros [^116]
 
 <p style="text-align:center;">ccxxx</p> 
 
-Kabir, el Dador es un árbol cuyo fruto es la misericordia _que derrama favores sobre los hombres; 
+Kabir, el Dador es un árbol cuyo fruto es la misericordia _que derrama_ favores sobre los hombres; 
 cuando los pájaros que alberga migran, [^117] dicen: '¡Oh, árbol, que seas fructífero! ' 
 
 <p style="text-align:center;">CCXXXI</p> 
@@ -1285,7 +1285,7 @@ Dijo Kabir, el gurú, dio este excelente consejo: "Conviértete en una hormiga y
 <p style="text-align:center;">CCXXXIX</p> 
 
 Kabir, si deseas al Amado, córtate la cabeza y hazla una bola; [^120] 
-mientras juegas, alcanza tal estado de éxtasis que estés satisfecho con todo lo que te suceda.
+mientras juegas, alcanza tal estado de _éxtasis_ que _estés satisfecho_ con todo lo que te suceda.
 
 <p style="text-align:center;">CCXL</p> 
 
@@ -1349,11 +1349,11 @@ pero si alguien, habiendo abandonado el mundo, _de nuevo_ se enreda _en él_, gr
 
 [^5]: Mantiene la cabeza alta, pero está hueca por dentro. 
 
-[^6]:
+[^6]: Quien se ha endurecido en su orgullo no mejora con la asociación con los humildes. 
 
-[^7]: Quien se ha endurecido en su orgullo no mejora con la asociación con los humildes. 
+[^7]: Quien tiene que sufrir la transmigración.
 
-[^7]: Quien tiene que sufrir la transmigración. [^8]: Maya aquí significa cuerpo, porque es el resultado de la ilusión. 
+[^8]: _Maya_ aquí significa cuerpo, porque es el resultado de la ilusión. 
 
 [^9]: Puesto en la mantequera en la India durante el clima cálido para ayudar en el proceso de batido. 
 
@@ -1527,7 +1527,7 @@ A menos que nos hayamos arrepentido antes de morir.
 
 [^94]: Los cuerpos de los animales nacen y mueren. 
 
-[^95]: También traducido: Muchos claman que están golpeados por el amor de Dios, pero el dolor que exhiben cuenta una historia diferente. La palabra pir tiene dos significados: (a) un sacerdote o santo; (b) dolor. 
+[^95]: También traducido: Muchos claman que están golpeados por el amor de Dios, pero el dolor _que exhiben_ cuenta una historia diferente. La palabra pir tiene dos significados: (a) un sacerdote o santo; (b) dolor. 
 
 [^96]: Es decir, el corazón. 
 

@@ -77,7 +77,7 @@ En los cenadores de Bindraban, Krishan con el tilak en su frente alegra mi coraz
 La Rana envió una copa de veneno y Mira la bebió con deleite.
 El señor de Mira es el sabio Girdhar; ella está obligada a servirle.
 
-La Rana esperó la noticia de la muerte de Mira, pero su vida se salvó milagrosamente, y sus mejillas gradualmente adquirieron un brillo más intenso. Se dedicó a la decoración y ornamentación de la imagen, y la adornó con modas siempre nuevas. Cantó alabanzas a su dios y llenó su corazón de deleite y amor eterno. También compuso lo siguiente en esta ocasión:
+La Rana esperó la noticia de la muerte de Mira, pero su vida se salvó milagrosamente, y sus mejillas gradualmente adquirieron un brillo más intenso. Se dedicó a la decoración y ornamentación de la imagen, y la adornó con modas siempre nuevas. Cantó alabanzas a su dios y llenó <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> su corazón de deleite y amor eterno. También compuso lo siguiente en esta ocasión:
 
 Sabía que la Rana me había dado veneno.
 Dios, que hiciste que mi barca flotara, separó la leche y el agua para mí. [^3]
@@ -104,7 +104,7 @@ El señor de Mira es el sabio Girdhar; ¿cómo puedo quedarme en casa?
 
 Un hombre disoluto y abandonado intentó tentar la virtud de Mira Bai. Le dijo que contaba con el permiso de Girdhar Lai para brindarle el placer que solo podía obtener de los abrazos de un hombre. Ella respondió que se sometía humildemente a la orden de Girdhar Lai, pero que primero debían cenar. Mientras tanto, hizo colocar y vestir un lecho en el recinto donde se reunían los santos. Allí se dirigió a su pretendiente: «No tienes por qué avergonzarte ni temer a nadie, ya que la orden de Girdhar Lai es en todo sentido correcta». El hombre respondió: «¿Acaso alguien hace tales cosas delante de los demás?». Ella dijo que no conocía ningún lugar secreto, pues Krishan estaba presente en todas partes. «Él ve las buenas y malas acciones de todos y recompensa a los hombres según sus méritos». Al oír esto, el rufián palideció, y el vicio dio paso a la virtud en su corazón. Cayó a sus pies y, con las manos juntas, le pidió misericordia e intercesión divina. Mira Bai sintió compasión y lo puso, según las palabras del cronista, cara a cara con Dios.
 
-Tulsi Das, según todos los relatos, vivió casi un siglo después de Mira Bai, pero algunos poetas los han considerado contemporáneos. La siguiente carta a Tulsi Das es atribuida por Raja Raghuraj Sinh a Mira Bai:
+Tulsi Das, según todos los relatos, vivió casi un siglo después de Mira Bai, pero algunos <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> poetas los han considerado contemporáneos. La siguiente carta a Tulsi Das es atribuida por Raja Raghuraj Sinh a Mira Bai:
 
 Al santo señor Tulsi Das, el virtuoso, el eliminador del pecado, saludos —
 Siempre me inclino ante ti, disipa todo mi dolor.
@@ -126,7 +126,7 @@ La opinión de todos los santos es que sólo las relaciones con Dios y el amor a
 Dice Tulsi Das: esa esposa es venerable, ese hijo es más querido que la vida,
 ¿Quién está apegado a Ram? Él es mi verdadero amigo en este mundo.
 
-Así como Mira Bai fue consagrada contemporánea de Tulsi Das, también lo fue del emperador Akbar. Se dice que, tras conocer las virtudes y la belleza de Mira Bai, este fue con su trovador, Tansen, ambos disfrazados de ermitaños, a visitarla. Las siguientes líneas, que dan fe de esta circunstancia, se atribuyen a Mira Bai:
+Así como Mira Bai fue consagrada contemporánea de Tulsi Das, también lo fue del emperador Akbar. Se dice que, tras conocer las virtudes y la belleza de Mira Bai, este fue con su trovador, Tansen, ambos disfrazados de <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> ermitaños, a visitarla. Las siguientes líneas, que dan fe de esta circunstancia, se atribuyen a Mira Bai:
 
 Oh madre, reconozco a Krishan como mi esposo.
 Akbar vino a probarme y trajo a Tansen con él:
@@ -201,7 +201,7 @@ Aunque use hechizos, encantamientos y drogas, el dolor no desaparecerá.
 ¿Hay alguien que me trate? Intensa es la agonía, oh madre.
 Tú, oh Dios, estás cerca; no estás lejos; ven pronto a mi encuentro.
 Dice Mira: El Señor, el que sostiene la montaña, [^14] que es compasivo, ha apagado el fuego de mi cuerpo, oh madre.
-El de ojos de loto ha entrelazado mi alma con el hilo de Sus atributos.
+El de ojos de loto ha entrelazado _mi alma_ con el hilo de Sus atributos.
 
 <figure class="table chapter-navigator">
   <table>
@@ -231,7 +231,7 @@ El de ojos de loto ha entrelazado mi alma con el hilo de Sus atributos.
 
 [^1]: Esta es una descripción de Vishnu, de quien Krishan fue una encarnación.
 
-[^2]: Esposa de Ayana Ghosha (un pastor de vacas) y amante favorita de Krishan mientras vivía como Gopal entre los pastores de vacas en Bindraban. — Diccionario de mitología hindú de Dowson.
+[^2]: Esposa de Ayana Ghosha (un pastor de vacas) y amante favorita de Krishan mientras vivía como Gopal entre los pastores de vacas en Bindraban. — _Diccionario de mitología hindú_ de Dowson.
 
 [^3]: Es decir, me salvó de la terrible experiencia.
 

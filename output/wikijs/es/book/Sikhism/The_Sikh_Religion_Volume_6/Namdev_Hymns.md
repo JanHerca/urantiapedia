@@ -41,7 +41,7 @@ La influencia salvadora del nombre de Dios.
 Oh Dios, Tú hiciste que las piedras flotaran; [^1]
 ¿Por qué el hombre no debería flotar repitiendo tu nombre?
 Salvaste a la cortesana, al jorobado informe, al cazador y a Ajamal. <span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
-Incluso el asesino que disparó a Krishan en el pie se salvó.
+Incluso el asesino _que disparó a Krishan_ en el pie se salvó.
 Soy un sacrificio para aquellos que pronuncian el nombre de Dios.
 Bidur, hijo de una doncella, Sudama, y ​​Ugarsen, [^2] que obtuvo el estado real;
 Los hombres sin devoción, sin penitencia, sin familia y sin buenas obras, fueron salvados por el Señor del Nombre.
@@ -52,14 +52,14 @@ La omnipresencia de Dios. En el sistema hindú no se asigna ningún propósito t
 
 <p style="text-align:center;">I</p>
 
-Hay un solo Dios de diversas manifestaciones contenidas en todo y llenándolo todo; dondequiera que mire, Él está.
+Hay un solo Dios de diversas _manifestaciones_ contenidas en todo y llenándolo todo; dondequiera que mire, Él está.
 La variada imagen de Maya ha fascinado tanto al mundo que pocos conocen a Dios.
 Todo es Dios, todo es Dios, no hay nada más que _Dios_.
 Una cuerda contiene cientos y miles de cuentas; Dios es la urdimbre y la trama.
 Las olas, la espuma y las burbujas no pueden distinguirse del agua.
-Esta ilusión, _el mundo_, es el juego del Dios Supremo; al reflexionar, no encontrarás que sea diferente de Él.
+Esta ilusión, _el mundo_, es el juego del Dios Supremo; al reflexionar, no _encontrarás_ que sea diferente de Él.
 Los fantasmas fugaces, las ilusiones de los sueños, son para el hombre ventajas reales.
-Mi gurú me inculcó ideas correctas, y cuando desperté a la razón mi mente las aceptó.
+Mi gurú me inculcó ideas correctas, y cuando desperté a _la razón_ mi mente las aceptó.
 Dice Namdev: «Contempla la creación de Dios y reflexiona sobre ella en tu mente». <span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 En cada corazón y en todas las cosas ininterrumpidamente sólo está el único Dios.
 
@@ -72,10 +72,10 @@ Cuarenta y dos lakhs [^3] de especies animales están en el agua; Dios está con
 Dondequiera que voy, Dios está contenido;
 Dios, supremamente feliz, siempre se divierte.
 Si traigo flores y tejo una guirnalda para adorar al ídolo,
-La abeja fue la primera en oler las flores; Dios está contenido en la abeja; ¿por qué debería tejerle una guirnalda?
+La abeja fue la primera en oler las flores; Dios está contenido en la abeja; ¿por qué debería tejerle _una guirnalda_?
 Si traigo leche y la cocino con khir [^4] para alimentar al ídolo,
-El ternero primero ha contaminado la leche al probarla; Dios está contenido en el ternero; ¿por qué debería alimentarlo?
-En este mundo está Dios; en el próximo mundo está Dios; no hay ninguna parte del mundo sin Él.
+El ternero primero ha contaminado la leche _al probarla_; Dios está contenido _en el ternero_; ¿por qué debería alimentarlo?
+En este mundo está Dios; en el próximo mundo está Dios; no _hay_ _ninguna parte_ del mundo sin Él.
 Tú estás, oh Dios, en todo lugar; Nama representa, Tú llenas toda la tierra.
 
 Namdev había renunciado a sus deberes seculares, y se le indicó que debía retomarlos. Aquí ofrece sustitutos para las herramientas de su oficio:
@@ -110,7 +110,7 @@ La devoción a Dios es suficiente para la felicidad humana.
 
 Si ves al Dios Supremo, no tendrás otro deseo;
 Si piensas en la adoración a Dios, mantendrás tu mente libre de preocupaciones.
-Oh alma mía, ¿cómo cruzarás el océano del mundo lleno de aguas de malas pasiones?
+Oh alma mía, ¿cómo cruzarás el océano del mundo _lleno de_ aguas de malas pasiones?
 
 Oh alma mía, te has extraviado al ver el mundo engañoso.
 La casa de un impresor de calicó [^11] me vio nacer, pero me saturé con la instrucción del gurú,
@@ -126,21 +126,21 @@ Si me das un imperio, ¿qué gloria será para mí?
 Si me haces mendigar, ¿cómo me degradarás?
 Adora, alma mía, a Dios y alcanzarás la dignidad de la salvación,
 Y no te esperará más transmigración.
-Oh Dios, Tú creaste a todos los hombres y los extraviaste en el error:
-Aquel a quien le das entendimiento te conoce.
- Cuando conozca al verdadero gurú, mis dudas desaparecerán.
- ¿A quién adoraré entonces? No veré a nadie más que a Ti.
+_Oh Dios_, Tú creaste a todos los hombres y los extraviaste en el error:
+Aquel a quien le das _entendimiento_ te conoce.
+Cuando conozca al verdadero gurú, mis dudas desaparecerán.
+¿A quién adoraré entonces? No veré a nadie más que a Ti.
 Una piedra es adorada, <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 Otro [^12] es pisoteado:
 Si uno es un dios, el otro también es un dios.
-Dice Namdev: “Yo adoro al Dios verdadero”.
+Dice Namdev: “Yo adoro al Dios _verdadero_”.
 
 La presencia de Dios se siente aunque no se pueda describir.
 
 <p style="text-align:center;">II</p>
 
-Aquel que no tiene rastro de impureza, que está más allá de toda impureza y que está perfumado como el sándalo, ha tomado Su asiento en mi corazón.
-Nadie le vio venir; ¿quién le conoce, oh hermana?
+Aquel que no tiene rastro de impureza, que está más allá de toda impureza y que está perfumado como el sándalo, ha tomado Su asiento _en mi corazón_.
+Nadie le vio venir; ¿quién _le_ conoce, oh hermana?
 ¿Quién puede describir, quién puede comprender lo Omnipresente e Incognoscible?
 Así como el rastro de un pájaro no se percibe en el cielo,
 Así como el camino del pez no se ve en el agua,
@@ -164,8 +164,8 @@ En la cámara del corazón hay joyas [^15]
 Que brillan allí como un rayo.
 _Dios_ está cerca, no lejos,
 Y _Su Espíritu_ llena completamente el mío.
-Donde brilla el sol inextinguible de la palabra de Dios,
-Allí las lámparas terrenales palidecen:
+Donde brilla el sol inextinguible de la _palabra de Dios_,
+Allí las lámparas _terrenales_ palidecen:
 Por el favor del gurú he sabido esto.
 El esclavo de Dios, Nama, ha sido fácilmente absorbido por Él.
 
@@ -173,8 +173,8 @@ Todo el siguiente himno se relaciona con la filosofía Jog y la exaltación de l
 
 <p style="text-align:center;">III</p>
 
-Sin cubrirlo con cuero, el tambor del cerebro toca;
-Sin esperar el mes de Sawan, el trueno ruge,
+Sin cubrirlo con cuero, el tambor _del cerebro_ toca;
+Sin _esperar el mes_ de Sawan, el trueno ruge,
 Y llueve sin nubes.
 Si alguien considera el estado real de las cosas,
 He conocido a mi querido Señor.
@@ -197,7 +197,7 @@ Por grande que sea el hombre, debe reflexionar que la muerte es su destino final
 <p style="text-align:center;">I</p>
 
 Los hombres cavan cimientos profundos y construyen palacios sobre ellos.
-¿Hubo alguien que vivió más tiempo que Marcos [^18], que se puso hierba en la cabeza y así pasó sus días?
+¿Hubo alguien que vivió más tiempo que Marcos [^18], que se _puso_ hierba en la cabeza y _así_ pasó _sus días_?
 _Sólo_ Dios el Creador es querido para mí; [^19]
 Oh hombre, ¿por qué estás orgulloso? Este cuerpo insustancial será destruido.
 Los Kaurav, Duryodhan y sus hermanos, solían decir: "Todo es nuestro".
@@ -213,19 +213,19 @@ El siguiente himno fue dirigido a un Jogi que intentó inducir a Namdev a abraza
 
 He restringido los diez órganos de los sentidos; he borrado el nombre mismo de las cinco malas pasiones.
 Habiendo extraído el veneno de los setenta y dos tanques [^22] del corazón, los he llenado de ambrosía; no permitiré que el veneno regrese de nuevo. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
-La palabra ambrosial la pronuncio desde mi corazón; instruyo a mi espíritu a no apegarse a las cosas mundanas.
+La palabra ambrosial la pronuncio desde mi corazón; instruyo a mi espíritu a no _apegarse a_ las cosas mundanas.
 He destruido el amor mundano con un hacha de diamante: toco los pies del gurú y le imploro.
-Alejándome del mundo, me he hecho siervo de los santos y les temo. [^23]
+Alejándome _del mundo_, me he hecho siervo de los santos y les temo. [^23]
 Seré salvado de este mundo en el momento en que deje de estar enredado con Maya.
-Maya es el nombre del poder que coloca al hombre en el vientre materno; abandonándolo obtendré una visión de Dios.
+Maya es el nombre del poder que coloca al hombre en el vientre materno; abandonándolo obtendré una visión _de Dios_.
 El hombre que adora de esta manera quedará libre de todo temor.
-Dice Namdev: «Oh hombre, ¿por qué andas vagando por el mundo? [24] Alcánzate a Dios por el camino que te he indicado».
+Dice Namdev: «Oh hombre, ¿por qué andas vagando por el mundo? [24] Alcánzate a Dios por el camino que _te he indicado_».
 
 Namdev cuenta con ejemplos familiares lo querido que es Dios para él.
 
 <p style="text-align:center;">III</p>
 
-Así como el agua es preciosa para el viajero en Marwar, y la enredadera para el camello;
+Así como el agua es preciosa _para el viajero_ en Marwar, y la enredadera para el camello;
 Así como la campana del cazador por la noche es querida para la cierva, así es Dios para mi alma.
 Tu nombre es hermoso, Tu forma es hermosa, muy hermoso Tu color, oh mi Dios —
 Así como la lluvia es querida para la tierra, así como el olor de las flores es querido para el abejorro;
@@ -243,14 +243,14 @@ Namdev le preguntó a su gurú cómo se había creado el mundo. El gurú respond
 
 Antes del mundo se formó un loto;
 De allí procedió Brahma, y ​​de Brahma todos los hombres.
-Sepa que todo lo demás fue producido por Maya, quien dirige el mundo en una danza.
+Sepa que todo lo demás _fue producido_ por Maya, quien dirige el mundo en una danza.
 
 Namdev entonces preguntó cómo se produjo Maya. El gurú respondió:
 
 Primero procedió una voz de Dios;
 Después Maya procedió de Dios
 _Por medio de esa voz_ las partes de esta _Maya_ y de ese _Dios_ se fusionaron, [^26] _y se produjo el mundo_.
-En este jardín de Dios los hombres bailan como el agua en los cántaros de un pozo; [^27]
+En este jardín de Dios _los hombres bailan_ como el agua en los cántaros de un pozo; [^27]
 Mujeres y hombres bailan. [^28]
 No hay más dios que Dios
 No discutas sobre este punto.
@@ -267,7 +267,7 @@ Oh Señor, sálvame del mundo que trae muerte.
 El himno anterior también se traduce de manera que ofrece diferentes versiones de la creación:
 
 1\. Primero, el Dios omnipresente hizo un loto;
-De allí procedió Brahma y de él todos los seres humanos.
+De allí procedió Brahma y _de él_ todos los seres humanos.
 2\. _Otros dicen_— Sepan que todo fue producido por Maya, quien hace que los hombres bailen diversas danzas.
 3\. _Una tercera versión es ésta_ — Primero procedió una voz de Dios; a través de esa voz
 Maya y Dios unidos,
@@ -303,17 +303,17 @@ Se dice que Namdev compuso lo siguiente al escuchar a dos pandits discutiendo si
 <p style="text-align:center;">I</p>
 
 Algunos dicen que Dios está cerca, otros que está lejos.
-Decir que está cerca o lejos es como decir que un pez podría trepar a un dátil. [^30]
+_Decir que está cerca o lejos es como decir que_ un pez podría trepar a un dátil. [^30]
 ¿Por qué, señor, dice tonterías?
 Aquellos que han encontrado a Dios han ocultado el hecho.
 Los hombres que son pandits gritan los Veds,
-Pero sólo el ignorante Namdev conoce a Dios.
+Pero _sólo_ el ignorante Namdev conoce a Dios.
 
 El undécimo día de cada quincena, los hindúes ayunan. Namdev abandonó la práctica y también dejó de peregrinar. Un visitante en su casa le reprochó su negligencia en ambos deberes religiosos. Su respuesta fue la siguiente:
 
 <p style="text-align:center;">II</p>
 
-¿Quién que pronuncia el nombre de Dios retiene la mancha del pecado?
+¿Quién que pronuncia el nombre de Dios retiene la mancha _del pecado_?
 Los pecadores se han vuelto puros al pronunciar Su nombre.
 En compañía de Dios, Su esclavo Namdev ha adquirido evidencia ocular.
 Ha dejado de ayunar el undécimo día, ¿y por qué debería hacer peregrinaciones?
@@ -341,7 +341,7 @@ De mí que soy ciego, tu nombre, oh Rey, es el soporte,
 Soy pobre, soy miserable, tu nombre es mi sostén.
 Dios generoso y misericordioso, Tú eres generoso;
 Creo que estás presente ante mí;
-Tú eres un río de abundancia, Tú eres el Dador, Tú eres sumamente rico;
+Tú eres un río de _abundancia_, Tú eres el Dador, Tú eres sumamente rico;
 Tú solo das y tomas, no hay ningún otro;
 Eres sabio, eres clarividente; ¿qué concepto puedo formarme de Ti?
 
@@ -358,10 +358,10 @@ Bueno es tu trabajo, exaltado tu nombre;
 Esta es la ciudad de Dwaraka; di la verdad. [^38]
 Hermoso es tu turbante, dulce tu discurso;
 Pero ¿por qué debería haber un mogol en la ciudad de Dwaraka?
-Entre varios miles de personas, Tú eres el único mogol visto;
+Entre varios miles de personas, _Tú eres_ el único _mogol_ visto;
 Eres la viva imagen del rey de color sable; [^39]
 Tú eres el Señor del caballo, el Señor del elefante y el Gobernante de los hombres. [^40]
-Tú eres el Señor de Nama, el Rey de todo y el Dador de la salvación.
+Tú eres el Señor de Nama, el Rey _de todo_ y el Dador de la salvación.
 
 <p style="text-align:center;">BILAWAL</p>
 
@@ -394,7 +394,7 @@ Cumplir todos los oficios religiosos,
 Restringe mis sentidos bajo la instrucción del gurú,
 Cumplir con los seis deberes de los brahmanes,
 Lea las conversaciones entre Shiv y su consorte [^44] —
-Todas estas diferentes ocupaciones serían inútiles; ¡oh alma mía, déjalas a un lado!
+Todas estas diferentes _ocupaciones serían inútiles_; ¡oh alma mía, déjalas a un lado!
 Y recuerda, recuerda el nombre de Dios.
 Adóralo, Nama, y ​​nadarás a través del océano del mundo.
 Namdev describe su amor por Dios con ejemplos familiares.
@@ -405,7 +405,7 @@ Como el ciervo canta la campanilla del cazador y abandona su propia vida antes q
 De la misma manera miro a Dios.
 
 No dejo que Él me lleve a otra parte. Como el martín pescador contempla el pez,
-Como el orfebre medita en robar oro mientras lo trabaja,
+Como el orfebre _medita_ en robar oro mientras lo trabaja,
 Como el hombre lujurioso mira a la esposa de otro, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 Así como el jugador medita en hacer trampa mientras juega kauris, [^45]
 Así Nama siempre medita en los pies de Dios: Dondequiera que miro, allí está Dios.
@@ -444,7 +444,7 @@ Las ventajas de repetir el nombre de Dios.
 <p style="text-align:center;">V</p>
 
 Al repetir el nombre de Dios se disipan todas las dudas.
-Repetir el nombre de Dios es el ejercicio religioso más elevado.
+Repetir el nombre de Dios es el _ejercicio_ religioso más elevado.
 Al repetir el nombre de Dios se borran la casta y el linaje.
 Que Dios es el bastón del ciego.
 ¡Me inclino ante Dios! ¡Me inclino ante Dios!
@@ -467,11 +467,11 @@ El destino de los adoradores de dioses falsos.
 
 Aquellos que adoran a Bhairav ​​se convertirán en espíritus;
 Los que adoran a Sitala montarán en burros y esparcirán polvo.
-Para mí tomo el nombre del único Dios;
+Para mí tomo _el nombre_ del único Dios;
 Entregaría todos los demás dioses a cambio.
 Aquellos que repiten el nombre de Shiv y lo adoran,
 Cabalgará sobre un buey y tocará el tambor;
-Aquellos que adoran a la gran madre Durga,
+Aquellos que adoran a la gran madre _Durga_,
 Nacerán como mujeres en lugar de hombres.
 Tú te llamas a ti misma, _Oh Durga_, la Bhawani primordial,
 Cuando me llegó el turno de ser salvado, ¿dónde te escondiste?
@@ -484,11 +484,11 @@ Namdev amonesta a un brahmán idólatra.
 
 <p style="text-align:center;">VIII</p>
 
-Hoy vi a Dios, ahora amonesto al tonto.
+Hoy vi a Dios, _ahora_ amonesto al tonto.
 Oh pandit, tu gayatri solía pastar en el campo del patán;
-Tomó un palo y le rompió la pierna; desde entonces, ella camina coja. [^51]
+Tomó un palo y le rompió la pierna; _desde entonces_, ella camina coja. [^51]
 Oh pandit, he visto a tu gran dios Shiv caminando sobre un buey blanco.
-En casa de su consorte Parbati se preparó un banquete para él; él mató a su hijo. [^52]
+En casa de su consorte _Parbati_ se preparó un banquete para él; él mató a su hijo. [^52]
 Oh pandit, tu Ram Chandar, yo también lo he visto yendo;
 Después de haber perdido a su esposa, luchó con Rawan.
 Los hindúes son ciegos, los musulmanes son cegados;
@@ -502,7 +502,7 @@ El santo Trilochan una vez le dijo a Namdev que <span id="p59"><sup><small>[ p. 
 
 <p style="text-align:center;">I</p>
 
-Un niño toma papel, lo corta en forma de cometa y lo hace volar por el cielo.
+_Un niño toma_ papel, lo corta en forma de cometa y lo hace volar por el cielo.
 Mientras conversa con sus compañeros, mantiene su atención en la cuerda.
 He traspasado mi alma con el nombre de Dios,
 Mientras la atención del orfebre está absorta _en su trabajo_.
@@ -534,10 +534,10 @@ Dios precedió a toda la creación, a todos los libros religiosos y a todo el ka
 Cuando no había madre, ni padre, ni karma, ni nadie;
 Cuando nosotros no estábamos, ni vosotros estabais, ¿quién estaba allí y de dónde venía?
 Oh Dios, nadie tiene relación;
-La morada del hombre en este mundo es como la posada de un pájaro en un árbol.
-Cuando no había luna ni sol, cuando sólo había agua y aire mezclados,
+La morada del hombre _en este mundo es como la posada_ de un pájaro en un árbol.
+Cuando no había luna ni sol, _cuando sólo_ había agua y aire mezclados,
 Cuando no había Shastars ni Veds, ¿de dónde venía el karma? [^54]
-Por el favor del gurú he obtenido a Dios, por quien los Jogis suspenden la respiración y fijan su atención en los puentes de sus narices, y los Bairagis llevan collares de albahaca dulce.
+Por el favor del gurú he obtenido a _Dios, por quien_ los Jogis suspenden la respiración y fijan su atención en los puentes de sus narices, y los _Bairagis_ llevan collares de albahaca dulce.
 Nama representa, Dios es la Esencia Primordial; cuando hay un verdadero gurú, él lo muestra.
 
 La repetición del nombre de Dios es superior a todas las demás formas de adoración.
@@ -552,7 +552,7 @@ Oh hombre hipócrita, renuncia al engaño, no lo practiques, toma siempre el nom
 Si cada duodécimo año fueras al Ganges y al Godavari y te bañaras en Kedarnath,
 Y hacer ofrendas de miles de vacas en el Gomti; [^57]
 Aunque hicieras millones de peregrinaciones, congelaras tu cuerpo en el Himalaya, no todo sería igual al nombre de Dios;
-Si ofrecieras caballos, elefantes, mujeres con sus lechos, tierras, e hicieras continuamente tales regalos a los brahmanes;
+Si ofrecieras caballos, elefantes, mujeres con sus lechos, tierras, e hicieras continuamente tales regalos _a los brahmanes_;
 Si purificaras tu cuerpo y ofrecieras su peso en oro, no todo sería igual al nombre de Dios.
 Busca la dignidad pura del Nirván, y después no te enojes contigo mismo ni atribuyas culpa al dios de la muerte. [^58]
 Nama representa, bebe el verdadero elixir nectáreo de mi rey Ram Chandar, el hijo de Jasarath Rai. [^59]
@@ -570,7 +570,7 @@ De él sale un sonido muy dulce e ininterrumpido.
 ¡Feliz, feliz aquella manta que llevaba Krishan!
 Feliz, feliz aquel carnero y su vellón, del que _fue hecho_.
 Saludo, saludo a ti, madre Devaki,
-¡En cuya casa nació Dios, el señor de Lakshmi!
+¡En cuya casa _nació_ Dios, el señor de Lakshmi!
 Benditos, benditos los claros del bosque de Bindraban,
 Donde el dios de Nama, Narayan, jugaba,
 Tocaba su flauta, pastoreaba sus vacas,
@@ -602,9 +602,9 @@ Dios ha colmado de favores a Namdev como lo hizo con otros santos.
 
 Cuando entré en el asilo de Dios Esposo, obtuve las cuatro etapas de la salvación y los cuatro poderes sobrenaturales.
 He sido salvado, he llegado a ser famoso a través de las cuatro eras, y he puesto el paraguas de la alabanza y de la fama sobre mi cabeza.
-¿Quién no ha sido salvado al repetir el nombre del Dios Soberano?
-Aquellos que escuchan las instrucciones del gurú y se asocian con hombres santos son llamados santos.
-Al contemplar la refulgencia del gurú, que se hace evidente con su concha, su disco, su collar y su marca de sacrificio, la muerte siente miedo.
+¿Quién no ha sido salvado al repetir _el nombre del_ Dios Soberano?
+Aquellos _que escuchan_ las instrucciones del gurú y se asocian con hombres santos son llamados santos.
+Al contemplar la refulgencia del _gurú_, que se hace evidente con su concha, su disco, su collar y su marca de sacrificio, la muerte siente miedo.
 El hombre entonces se vuelve valiente, y por el poder de Dios proclama que ha escapado al dolor de la transmigración.
 Dios le dio al rey Ambarik [^63] el don de la salvación y engrandeció a Babhikhan con soberanía;
 El Señor le dio los nueve tesoros a Sudama, e hizo a Dhru inamovible en el polo norte, donde está fijado hasta el día de hoy;
@@ -690,7 +690,7 @@ Así como la mujer es querida por los lujuriosos,
 Tal es el amor de Nama por Dios.
 Ese es el verdadero amor por el cual Dios une al hombre a Él,
 Y por medio del favor del gurú, la dualidad [^68] se aparta.
-El amor por Aquel que llena mi corazón nunca se separará;
+_El amor por Aquel_ que llena _mi corazón_ nunca se separará;
 Nama ha aplicado su corazón al verdadero Nombre.
 Como el amor entre un niño y su madre,
 Así está mi alma imbuida de Dios.
@@ -702,7 +702,7 @@ El hombre debería más bien buscar la protección del gurú que dedicarse a los
 <p style="text-align:center;">VIII</p>
 
 Como el necio deja a la mujer de su casa,
-Tiene relaciones sexuales con una mujer extraña y queda arruinado.
+Tiene relaciones sexuales con una mujer extraña y _queda arruinado_.
 Como el loro se alegra al ver el simmal, [^69]
 Pero al final muere aferrándose a él,
 Así que la morada del pecador estará en el fuego del infierno;
@@ -725,7 +725,7 @@ El destino de Harnakhas, quien se opuso a la devoción de su hijo Prahlad*.
 <p style="text-align:center;">IX</p>
 
 Sanda y Marka [^70] fueron y se quejaron _a Harnakhas_ —
--Tu hijo Prahlad no quiere estudiar y estamos cansados ​​de enseñarle;
+-Tu hijo Prahlad no quiere estudiar y estamos cansados ​​de _enseñarle_;
 Él canta alabanzas a Dios, marca el ritmo con sus manos y corrompe a todos los demás discípulos;
 Él repite el nombre de Dios; en su corazón recuerda a Dios.
 La reina le explicó a su hijo: 'El rey ha sometido a toda la tierra;
@@ -734,7 +734,7 @@ Un consejo de sus enemigos se reunió y aprobó una resolución: 6 Prolongaremos
 _Lo aterrorizaron arrojándolo desde lo alto, metiéndolo en agua y fuego, pero Dios cambió para él _las propiedades_ de la materia.
 Harnakhas, enfurecido, sacó su espada y lo amenazó de muerte, diciendo: "Muéstrame quién te salvará".
 _Prahlad respondió_: 'Dios que viste ropas amarillas, el Señor de los tres mundos, está en el pilar.'
-Ante esto, Dios desgarró a Harnakhas con sus uñas y concedió la felicidad a los semidioses y a los hombres. [^72] <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
+_Ante esto_, Dios desgarró a Harnakhas con sus uñas y concedió la felicidad a los semidioses y a los hombres. [^72] <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 Dice Namdev: Medito en ese Dios que otorga la salvación.
 
 Las ventajas de un gurú.
@@ -753,7 +753,7 @@ Cuando uno tiene un gurú, está muy alejado de las cinco malas pasiones;
 Cuando uno tiene un gurú, no muere de pena;
 Cuando uno tiene un gurú, obtiene la Palabra ambrosial;
 Cuando uno tiene un gurú, escucha la historia del Inefable;
-Cuando uno tiene un gurú, su cuerpo se vuelve inmortal;
+Cuando uno tiene un gurú, su cuerpo _se vuelve_ inmortal;
 Cuando uno tiene un gurú, pronuncia el Nombre;
 Cuando uno tiene un gurú, ve los tres mundos;
 Cuando uno tiene un gurú, sabe cómo alcanzar la posición exaltada;
@@ -762,8 +762,8 @@ Cuando uno tiene un gurú, siempre lo felicitan;
 Cuando uno tiene un gurú, está siempre alejado del mundo;
 Cuando uno tiene un gurú, abandona la calumnia;
 Cuando uno tiene un gurú, considera que el mal y el bien son lo mismo;
-Cuando uno tiene un gurú, el buen destino está escrito en su frente; [^73]
-Cuando uno tiene un gurú, las malas pasiones no seducen su cuerpo;
+Cuando uno tiene un gurú, _el buen_ destino está _escrito en_ su frente; [^73]
+Cuando uno tiene un gurú, _las malas pasiones_ no seducen su cuerpo;
 Cuando uno tiene un gurú, el templo se vuelve hacia él; <span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 Cuando uno tiene un gurú, su choza se reconstruye para él; cuando uno tiene un gurú, su cama surge _del río_; [^74]
 Cuando uno tiene un gurú, se baña en los sesenta y ocho lugares de peregrinación;
@@ -774,9 +774,9 @@ Cuando uno tiene un gurú, las dudas se disipan;
 Cuando uno tiene un gurú, escapa de la muerte;
 Cuando uno tiene un gurú, cruza el terrible océano;
 Cuando uno tiene un gurú, no sufre transmigración;
-Cuando uno tiene un gurú, obtiene las ventajas de los dieciocho Puranes;
-Cuando uno tiene un gurú, obtiene las dieciocho cargas de verduras;
-Sin el gurú, no hay lugar de descanso.
+Cuando uno tiene un gurú, obtiene las ventajas de los dieciocho _Puranes_;
+Cuando uno tiene un gurú, obtiene las dieciocho cargas de _verduras_;
+Sin el gurú, no hay lugar de _descanso_.
 Namdev ha entrado en la protección del gurú.
 
 Namdev cayó en trance y creyó tocar címbalos en honor a Dios. Se dice que Dios se le apareció como un Qalandar y le quitó sus címbalos. Al despertar, Namdev compuso lo siguiente en alabanza a Dios:
@@ -786,7 +786,7 @@ Namdev cayó en trance y creyó tocar címbalos en honor a Dios. Se dice que Dio
 Ven Dios, el Qalandar Vistiendo la vestimenta de un Abdali. [^77] <span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 El firmamento es el sombrero de tu cabeza, las siete regiones inferiores tus zapatillas;
 Todos los animales con pieles son tus templos; ¡así estás adornado, oh Dios!
-Los cincuenta y seis millones de nubes son tus vestiduras y las dieciséis mil reinas de Krishan son tus cinturones;
+Los cincuenta y seis millones _de nubes_ son tus vestiduras y las dieciséis mil _reinas de Krishan_ son tus cinturones;
 Las dieciocho cargas de verduras son Tus garrotes, el mundo entero es Tu bandeja;
 El cuerpo de Nama es Tu mezquita, su corazón es Tu sacerdote que reza tranquilamente.
 
@@ -815,7 +815,7 @@ La oración de Namdev cuando estaba en peligro de ahogarse en el tormentoso océ
 
 Las olas de la codicia resuenan como una catarata, mi cuerpo se ahoga _en ellas_, oh Dios. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 Hazme flotar sobre el océano del mundo, oh Dios, hazme flotar sobre él, Padre Vitthal.
-En este vendaval no puedo dirigir mi barca, no puedo alcanzar tu orilla opuesta, oh Dios.
+En _este_ vendaval no puedo dirigir mi barca, no puedo alcanzar tu orilla opuesta, oh Dios.
 Sé compasivo y haz que conozca a un verdadero gurú; llévame al otro lado, oh Dios.
 Nama dice: Ni siquiera sé nadar; dame tu brazo, dame tu brazo, oh Dios.
 
@@ -862,7 +862,7 @@ Dios está contenido en todo.
 
 <p style="text-align:center;">II</p>
 
-¿Por qué no apuestas conmigo, oh Dios, que no hay nada más que Tú?
+¿Por qué no apuestas conmigo, oh Dios, _que no hay nada más que Tú_?
 El siervo se conoce por su amo, y el amo por su siervo: éste es mi juego contigo.
 Tú eres Dios y tu propio templo, Tú te adoras a ti mismo.
 Del agua proceden las ondas, y de las ondas el agua, aunque en la conversación ambas tienen nombres diferentes.
@@ -877,8 +877,8 @@ e El hombre que no adora sino a mí, es a mi imagen;
 La sola visión de él, aunque sea por un momento, quita las tres fiebres del hombre, [^83] y su contacto lo saca del pozo de la vida familiar.
 Un santo puede liberar a alguien que está atado por Mí, pero Yo no puedo liberar a alguien que está atado por un santo.
 Si un santo me agarra y me ata en cualquier momento, no puedo decirle nada.
-Estoy obligado por los méritos de los hombres; soy la vida de todas las cosas, pero mi esclavo es mi vida. [^84]
-Oh Namdev, mi amor brillará sobre aquel cuyo corazón tiene tal fe.
+Estoy obligado por los méritos _de los hombres_; soy la vida de todas las cosas, pero mi esclavo es mi vida. [^84]
+Oh Namdev, mi amor brillará sobre aquel cuyo corazón tiene tal _fe_.
 
 <p style="text-align:center;">MALAR</p>
 
@@ -920,7 +920,7 @@ Cuyo estandarte llevan todos sus santos.
 
 Dios comparado al reflejo en un espejo.
 Dios escudriñador de corazones, como un cuerpo reflejado en un espejo,
-Habita en cada corazón; nada produce ese efecto o impresión en Él.
+Habita en cada corazón; _nada_ produce ese efecto o impresión en Él.
 Está libre de todos los enredos y desprovisto de casta.
 Cuando uno mira su propia cara en el agua, _el agua no puede producir ninguna impresión en ella_,
 Así que _nada puede producir una impresión_ en Vitthal, el Señor del Nombre.
@@ -933,15 +933,15 @@ Todo es irreal; sólo Dios es real,
 
 <p style="text-align:center;">I</p>
 
-Sólo el corazón conoce su propio estado; o bien guarda tu secreto para ti mismo, o bien cuéntalo a un hombre entendido.
+Sólo el corazón conoce su propio estado; _o bien guarda tu secreto para ti mismo_, o bien cuéntalo a un hombre entendido.
 Si repito el nombre de Dios, el Escudriñador de corazones, ¿por qué debería tener miedo?
 Dios, el Señor de la tierra, ha penetrado en mí.
 Mi Dios se difunde en todo lugar.
 Las tiendas son sólo fantasmas, los comerciantes [^90] son ​​sólo fantasmas, las ciudades son sólo fantasmas.
-Los diferentes grados de hombres que habitan la tierra son fantasmas, y el mundo vaga en el error.[^91]
+Los diferentes grados de hombres que habitan _la tierra_ son fantasmas, y el mundo vaga en _el error_.[^91]
 Cuando el corazón está imbuido de las instrucciones del gurú, la dualidad se borra fácilmente.
 Todas las cosas están sujetas a la orden del Comandante; Él no tiene miedo y considera a todos por igual.
-Quien conoce y adora al Ser Supremo, pronuncia palabras de conocimiento divino.
+Quien conoce y adora al Ser Supremo, _pronuncia_ palabras de conocimiento divino.
 Nama dice: He obtenido la Vida del mundo en mi corazón; Él es invisible y maravilloso.
 
 Dios comunica al hombre el perfume de la santidad y lo transforma en oro.
@@ -952,7 +952,7 @@ Dios era en el principio, antes de los siglos, y en todos los siglos; su fin no 
 Dios está contenido en todo ininterrumpidamente; así se describe Su forma.
 La melodía _invicta_ resuena para aquel que repite el nombre de Dios.
 Feliz es mi Dios — <span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
-El perfume del sándalo resulta agradable a los demás árboles del bosque;
+El perfume del sándalo resulta agradable _a los demás árboles_ del bosque;
 Por Dios, que era antes de todas las cosas y que perfecciona como el sándalo, la madera común se convierte en sándalo. [^92]
 Tú, oh Dios, eres como la piedra filosofal; yo soy como el hierro; en tu asociación me he convertido en oro.
 Tú eres compasivo, Tú eres la joya y el rubí.
@@ -968,7 +968,7 @@ Lo que nosotros mismos hemos hecho, tú lo sabes.
 Así como una vasija de barro se produce a partir de arcilla,
 Así que Vitthal creó el mundo.
 Los enredos del alma dependen de sus actos;
-Ella misma es responsable de lo que ha hecho.
+Ella misma es _responsable_ de lo que ha hecho.
 Namdev representó que el alma obtiene el resultado de sus pensamientos;
 El alma que permanece siempre fija en el Inescrutable, se vuelve inmortal. [^94]
 

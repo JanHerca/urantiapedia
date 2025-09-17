@@ -160,7 +160,7 @@ Nanak, los rollos que son el regalo de Dios nunca se agotan.[^6]
 
 El Gurú y Mardana, durante su viaje, se encontraron en casa de un comerciante de cereales. Uno de los socios acababa de tener un hijo, y varias personas habían acudido a felicitarlo. Algunos arrojaron polvo rojo[^7] en señal de alegría, y las voces de bendición y felicitación llenaron el vecindario. Mardana se sentó y contempló el espectáculo. Por la noche, al terminar la fiesta del comerciante de cereales, se levantó y se dirigió a sus aposentos privados sin prestarle atención. Este se acercó al Gurú, quien estaba sentado a cierta distancia, le informó del nacimiento del niño y le contó la fiesta. El Gurú sonrió y dijo que no era un hijo nacido en la casa del comerciante de grano, sino un acreedor que venía a saldar sus cuentas. Se quedaría allí esa noche y partiría por la mañana. Entonces el Gurú le ordenó a Mardana que tocara el rabel y cantó al son de sus acordes el siguiente himno:
 
-I
+<p style="text-align:center;">I</p>
 
 A la primera vigilia de la noche, amigo comerciante mío, el niño, por orden de Dios, entra en el vientre materno.
 Con el cuerpo invertido hace penitencia en su interior, ¡oh amigo comerciante!, y reza al Señor.
@@ -169,7 +169,7 @@ Viene desnudo al mundo y vuelve a partir desnudo.
 Le esperará el destino que la pluma de Dios ha escrito en su frente.
 Dice Nanak que en la primera vigilia, al recibir la orden, el niño entra en el útero.
 
-II
+<p style="text-align:center;">II</p>
 
 En la segunda vigilia de la noche, oh amigo comerciante, se olvida de meditar en Dios.
 Se mece en los brazos, oh amigo comerciante, como Krishan en la casa de Yasodha.
@@ -189,7 +189,7 @@ Dedicado a la mujer y embriagado de su juventud, desperdicia su vida en vano.
 No ha comerciado con la virtud ni ha hecho de las buenas obras sus amigos.
 Dice Nanak que en la tercera vigilia los pensamientos del hombre se centran en la mujer y en los placeres de la juventud.
 
-IV
+<p style="text-align:center;">IV</p>
 
 A la cuarta vigilia de la noche, oh amigo comerciante, el segador llega al campo;
 El secreto no ha sido revelado a nadie cuando la Muerte se apoderará de su víctima y se la llevará.

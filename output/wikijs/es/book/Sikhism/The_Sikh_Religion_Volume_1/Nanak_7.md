@@ -139,7 +139,7 @@ Algunos que están despiertos no los reciben; a otros que están dormidos, Él l
 
 El Gurú le pidió entonces al jeque Brahm que metiera la mano en la leche y palpara su contenido. Farid descubrió que contenía cuatro monedas de oro. Ante esto, el aldeano, creyendo que estaba en manos de magos, se marchó sin su palangana. El Gurú entonó el siguiente himno:
 
-I
+<p style="text-align:center;">I</p>
 
 Oh tú, la de los hermosos ojos, en la primera vigilia de una noche oscura
 Cuida tus bienes, oh mortal; tu turno llegará pronto.
@@ -150,7 +150,7 @@ Oh Nanak, el necio nunca ha pensado en Dios; ¿qué puede ver en una noche oscur
 
 <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
-II
+<p style="text-align:center;">II</p>
 
 Es la segunda vigilia; despierta, oh tú que no eres cuidadoso.
 Vigila, oh mortal, tu hacienda, porque tu campo está siendo consumido.
@@ -159,7 +159,7 @@ Entonces no irás por el camino de la muerte, ni sufrirás por ella; el temor y 
 Las lámparas del sol y de la luna brillarán para ti, si bajo la instrucción del Gurú reflexionas sobre el Verdadero en tu corazón y pronuncias Su nombre con tus labios.
 Nanak, el necio no presta atención ni siquiera ahora; ¿cómo obtendrá felicidad en la segunda vigilia?
 
-III
+<p style="text-align:center;">III</p>
 
 Es la tercera vigilia, estás envuelta en sueño.
 Por la riqueza, los hijos y las esposas los hombres se ven afligidos por el dolor:
@@ -170,7 +170,7 @@ Nanak, en la tercera vigilia los hombres, bajo la influencia de las tres cualida
 
 <span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
-IV
+<p style="text-align:center;">IV</p>
 
 Es la cuarta vigilia; el sol sale.
 Los que velan noche y día salvaron sus casas.

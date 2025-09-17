@@ -464,7 +464,7 @@ Aquellos que te complacen y a quienes les das entendimiento a través de la inst
 El Verdadero es el Señor de todo; aquel a quien Él concede favores Lo recibirá.
 Dice Nanak: canta esta verdadera canción de regocijo en el verdadero templo.
 
-XL
+<p style="text-align:center;">XL</p>
 
 Escuchen mi alegría, mis muy afortunados amigos, todos mis deseos se han cumplido:
 He obtenido a Dios, el Supremo Brahm, y todos mis dolores han desaparecido;

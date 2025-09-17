@@ -94,6 +94,6 @@ Sain saith, worship the Supreme Joy. [^5]
 
 [^4]: This and the preceding line are also translated —
   It is Ramanand who knoweth devotion to God ;
-  It is he who can describe the_ Perfect Primal Joy.
+  It is he who can describe the Perfect Primal Joy.
 
 [^5]: This hymn is included in the Arati, a divine service of the Sikhs when lamps are lit in the evening.
