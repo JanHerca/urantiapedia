@@ -96,12 +96,12 @@ Who heareth not slander of others, and abandoning pride becometh the dust of all
 The deadly sins :—
 
 O love, thou art an invincible hero in the fight ; thou crushest even the very powerful.
-Thou fascinatest the company of the musicians of heaven, demigods, men, beasts, and birds.
+Thou fascinatest the company of the musicians of heaven, demigods, men, beasts, and birds.[^2]
 I bow to God the Creator ; Nanak seeketh the protection of the Lord of the world.
 
 O lust, _thou givest_ an abode in hell ; thou causest man to wander in many a womb ;
 Thou stealest the heart, thou pervadest the three worlds, thou destroyest devotion, penance, and virtue ;
-Thou conferrest scant happiness, O bodiless ? one, thou art fickle, thou fillest high and low ;
+Thou conferrest scant happiness, O bodiless [^3] one, thou art fickle, thou fillest high and low ;
 But fear of thee, saith Nanak, is dispelled by associating with the saints and taking shelter in God.
 
 O wrath, thou root of strife, there is never mercy in thee.

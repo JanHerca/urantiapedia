@@ -286,7 +286,7 @@ Saith Nanak, when I meet the true Guru my anxiety shall depart.
 My Lord God is the Searcher of hearts.
 The Beloved knoweth all the secrets of my heart, so I have forgotten all my idle prayers.
 
-<p style="text-align:center;">MARvu ANJULI</p>
+<p style="text-align:center;">MARVU ANJULI</p>
 
 
 A homily addressed to a Muhammadan :—
@@ -757,4 +757,4 @@ He is saved himself and saveth all his family.
 
 [^28]: The quoit is one of the emblems of Vishnu, with which his worshippers are frequently branded.
 
-: Disinclination to labour is a frequent cause of embracing the life of a faqir.
+[^29]: Disinclination to labour is a frequent cause of embracing the life of a faqir.

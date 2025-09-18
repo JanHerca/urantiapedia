@@ -317,7 +317,7 @@ _Pero_ no obtendrás la salvación sin devoción a Dios; los grandes difuntos lo
 <p style="text-align:center;">LV</p> 
 
 Kabir, a mí, cuya mente es pura como el agua del Ganges, 
-Dios me sigue y me dice: "¡Kabir! ¡Kabir!" [^32] 
+Dios me sigue y me dice:«¡Kabir! ¡Kabir» [^32] 
 
 <p style="text-align:center;">LVI</p> 
 
@@ -347,7 +347,7 @@ no tengo casta ni nombre para que Dios pregunte quién es este hombre.
 <p style="text-align:center;">LXI</p> 
 
 Kabir, deseo morir, _pero_ cuando muera que sea a la puerta de Dios, 
-Para que Dios pueda preguntar, '¿Quién es este que yace a mi puerta? ' 
+Para que Dios pueda preguntar, «¿Quién es este que yace a mi puerta? » 
 
 <p style="text-align:center;">LXII</p> 
 
@@ -438,7 +438,7 @@ he conocido a un hombre santo [^45] y me ha atado a su falda.
 
 <p style="text-align:center;">LXXIX</p> 
 
-Kabir, el médico, dice: "Soy el único buen médico; _todas_ las medicinas están en mi poder": 
+Kabir, el médico, dice:«Soy el único buen médico; _todas_ las medicinas están en mi pode»: 
 Esta cosa _la vida_ es propiedad de Dios, Él la toma cuando le place. 
 
 <p style="text-align:center;">LXXX</p> 
@@ -498,7 +498,7 @@ Kabir, los hombres [^51] simulan viajar con la carga de los pecados de otros sob
 <p style="text-align:center;">XC</p> 
 
 Kabir, un árbol del bosque en pie [^52] que arde clama: 
-'Que no caiga en el poder del herrero [^53] que me quemaría de nuevo _en su forja_'. [^54] 
+«Que no caiga en el poder del herrero [^53] que me quemaría de nuevo _en su forja_». [^54] 
 
 Un día, Kabir estaba sentado a la orilla del Ganges. Vio a un cazador que había disparado a un ciervo. El ciervo tenía dos crías en su vientre. Ambas murieron. Entonces llegó el ciervo, y también fue disparado por el cazador. Este último fue a recoger al animal y fue mordido mortalmente por una serpiente. La esposa del cazador llegó entonces y murió de pena, o porque la serpiente también la mordió. Así murieron cuatro machos y dos hembras. 
 
@@ -1051,7 +1051,7 @@ no puede ser removida, por mucho que los hombres inteligentes se preocupen.
 <p style="text-align:center;">CXCVII</p> 
 
 Kabir, iba en peregrinación a la Kaaba, y me encontré con Dios en el camino; 
-El Señor se enojó conmigo, '¿Quién te ordenó ir a ese lugar? ' 
+El Señor se enojó conmigo, «¿Quién te ordenó ir a ese lugar? » 
 
 <p style="text-align:center;">CXCVIII</p> 
 
@@ -1131,13 +1131,13 @@ Aquí continúan los versos de Kabir: —
 
 <p style="text-align:center;">CCXII</p> 
 
-'Oh Namdev, el amor mundano te ha hechizado', dijo su amigo Trilochan; 
-'¿Por qué imprimes chintzes y no piensas en Dios?' 
+«Oh Namdev, el amor mundano te ha hechizado», dijo su amigo Trilochan; 
+«¿Por qué imprimes chintzes y no piensas en Dios?» 
 
 <p style="text-align:center;">CCXIII</p> 
 
 Namdev respondió: 'Repite el nombre de Dios con tus labios, oh Trilochan, 
-'Realiza todos tus deberes con tus manos y pies, pero deja que tu corazón esté con Dios'. 
+«Realiza todos tus deberes con tus manos y pies, pero deja que tu corazón esté con Dios». 
 
 Gurú Arjan interviene de nuevo: — 
 
@@ -1236,7 +1236,7 @@ _cuya_ sombra sea fresca, cuyo fruto sea profuso y en el que los pájaros [^116]
 <p style="text-align:center;">ccxxx</p> 
 
 Kabir, el Dador es un árbol cuyo fruto es la misericordia _que derrama_ favores sobre los hombres; 
-cuando los pájaros que alberga migran, [^117] dicen: '¡Oh, árbol, que seas fructífero! ' 
+cuando los pájaros que alberga migran, [^117] dicen: «¡Oh, árbol, que seas fructífero! » 
 
 <p style="text-align:center;">CCXXXI</p> 
 
@@ -1280,7 +1280,7 @@ se mata por las perplejidades de los cuatro Veds.
 <p style="text-align:center;">CCXXXVIII</p> 
 
 Dios es como el azúcar esparcido en la arena, pero el elefante no puede recogerlo. 
-Dijo Kabir, el gurú, dio este excelente consejo: "Conviértete en una hormiga y cómelo".' [^119] 
+Dijo Kabir, el gurú, dio este excelente consejo:«Conviértete en una hormiga y cómel».' [^119] 
 
 <p style="text-align:center;">CCXXXIX</p> 
 

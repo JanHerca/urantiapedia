@@ -207,3 +207,7 @@ Sin un verdadero gurú no se encuentra el camino.
 [^23]: Sobre la división de las ofrendas. Sin embargo, es posible que _badan_ (pelea) se refiera a _baman_ (mujer), lo que rimaría con _chiraman_ en el verso anterior. Si se lee _baman_, la traducción sería: Miras con severidad a las mujeres _de día_, pero de noche las amas.
 
 [^24]: Para poder cambiarme después del baño.
+
+[^25]: Según el Tan far Shastar, debe haber cuatro círculos para las divinidades asistentes de Kali: Ganesh, KshetarpSl, Bhairav ​​y Yogini.
+
+[^26]: Rudrakhan, del sánscrito _rudraksh_. Un collar hecho con bayas de eleocarpus. Generalmente lo usan los adoradores de la albahaca y los seguidores de Vishnu, quienes llevan rosarios de albahaca dulce.

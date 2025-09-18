@@ -39,7 +39,7 @@ We have now arrived at a very critical stage of our biography of the Guru, and i
 On this subject the best evidence obtainable is the Guru’s own acknowledged compositions. In the _Akal Ustat_ he writes as follows :—
 
 Some worshipping stones put them on their heads, some suspend lingams from their necks;
-Some see God in the south, some bow their heads to the west ;2
+Some see God in the south, some bow their heads to the west ;[^1]
 Some fools worship idols, others busy themselves with worshipping the dead.
 The whole world entangled in false ceremonies hath not found God’s secret.
 
@@ -74,7 +74,7 @@ Since they are idolaters and I am a breaker of idols.
 
 In further evidence of the Guru’s sentiments on the subject of idolatry, we have a composition, either written or sanctioned by himself, which is found in his collected works, on which to base our conclusion.
 
-There was a king called Sumat Sain married to a lady called Samarmati. They had four sons and an only <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> daughter called Rankhambh Kala. The children were put under the tuition of a Brahman. One day the princess went earlier than usual to the Brahman’s house and found him worshipping and prostrating himself before a salagram andalingam.! She smiled on seeing her tutor thus engaged, and asked him the reason of his extraordinary conduct.
+There was a king called Sumat Sain married to a lady called Samarmati. They had four sons and an only <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> daughter called Rankhambh Kala. The children were put under the tuition of a Brahman. One day the princess went earlier than usual to the Brahman’s house and found him worshipping and prostrating himself before a salagram andalingam.[^2] She smiled on seeing her tutor thus engaged, and asked him the reason of his extraordinary conduct.
 
 <p style="text-align:center;"><em>The Brahman</em></p>
 
@@ -122,7 +122,7 @@ God will consider him a sinner who saith that this stone is other than God, and 
 
 <p style="text-align:center;"><em>The Princess</em></p>
 
-I only worship the one great God. I regard not Shiv. Nor do I worship either Brahma or Vishnu. I fear not <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> your gods. Know that whoever invoketh them is already dead, but death will not approach him who meditateth on the Deathless One. He who meditateth on the Deathless One and even once invoketh His name, shall obtain wealth and perfection in every act. He who meditateth on the immortal God shall never suffer, but enjoy great happiness in the world. When death tortureth thee, O Brahman, what book wilt thouthen read? Willit be the Bhagavat [^4] or the Gita? Wilt thou hold on to Ram or clutch at Krishan for protection? The gods whom thou deemest supreme have all been destroyed by Death’s mace. None— not even Brahma, Vishnu, or Indar—may escape it. The gods were born as the demons were, and both are subject to transmigration. The Hindus and the Turks are the same, and death is potent over them all. Sometimes the demons killed the gods, and sometimes the gods the demons. The Being who destroyed both gods and demons is He who cherisheth me, and whom I have taken as my Guru. I bow to Him whose sovereignty is recognized in the fourteen worlds, who destroyed Indar, Vishnu, the sun, the moon,? Kuver, Varun, and Sheshnag.
+I only worship the one great God. I regard not Shiv. Nor do I worship either Brahma or Vishnu. I fear not <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> your gods. Know that whoever invoketh them is already dead, but death will not approach him who meditateth on the Deathless One. He who meditateth on the Deathless One and even once invoketh His name, shall obtain wealth and perfection in every act. He who meditateth on the immortal God shall never suffer, but enjoy great happiness in the world. When death tortureth thee, O Brahman, what book wilt thouthen read? Willit be the Bhagavat [^4] or the Gita? Wilt thou hold on to Ram or clutch at Krishan for protection? The gods whom thou deemest supreme have all been destroyed by Death’s mace. None— not even Brahma, Vishnu, or Indar—may escape it. The gods were born as the demons were, and both are subject to transmigration. The Hindus and the Turks are the same, and death is potent over them all. Sometimes the demons killed the gods, and sometimes the gods the demons. The Being who destroyed both gods and demons is He who cherisheth me, and whom I have taken as my Guru. I bow to Him whose sovereignty is recognized in the fourteen worlds, who destroyed Indar, Vishnu, the sun, the moon,[^5] Kuver, Varun, and Sheshnag.
 
 <p style="text-align:center;"><em>The Brahman</em></p>
 

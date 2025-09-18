@@ -49,7 +49,7 @@ El sacerdote explicó que la costumbre de llevar un janeu provenía del ritual v
 _Aunque los hombres cometan_ innumerables[^2] robos, innumerables adulterios, profieran innumerables falsedades e innumerables palabras de abuso;
 _Aunque cometan_ innumerables robos y villanías noche y día contra sus semejantes;
 Sin embargo, el hilo de algodón ya está hilado, y el Brahman viene a torcerlo.
-_Para la ceremonia_ matan una cabra, la cocinan y la comen, y luego todos dicen: "Pónganse el janeu".
+_Para la ceremonia_ matan una cabra, la cocinan y la comen, y luego todos dicen: «Pónganse el janeu».
 Cuando se hace viejo, se tira y se pone otro,
 Nanak, la cuerda no se rompe si es fuerte.
 
@@ -230,7 +230,7 @@ El médico ignorante no sabe que es en mi mente donde está el dolor.[^1]
 Médico, vete a casa y no lleves contigo mi maldición.
 Estoy imbuido de mi Señor; ¿a quién le das medicina?
 Cuando hay dolor, el médico está preparado con un suministro de medicinas:
-El cuerpo llora, el alma grita: "Médico, no me des tu medicina".
+El cuerpo llora, el alma grita: «Médico, no me des tu medicina».
 Médico, váyase a casa, pocos conocen _mi enfermedad_.
 El Creador que me dio este dolor, lo quitará.
 
@@ -330,7 +330,7 @@ Todos los Janamsakhi modernos sitúan el matrimonio de Nanak mucho después de e
 
 [^2]: La _Salvadora Oleoides_.
 
-[^1]: _Anudin_, traducido 'noche y día' por los gyânis, es literalmente: cada día.
+[^1]: _Anudin_, traducido «noche y día» por los gyânis, es literalmente: cada día.
 
 [^2]: Gauri Ashtapadi.
 

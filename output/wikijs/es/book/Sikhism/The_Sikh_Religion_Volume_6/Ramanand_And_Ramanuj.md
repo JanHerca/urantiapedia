@@ -36,11 +36,11 @@ dateCreated: 2025-2-12T12:57:24Z
 
 Una breve reseña de Ramanuj parece necesaria para explicar las doctrinas de Ramanand y el progreso de la reforma religiosa hindú en la India. Swami Ramanuj [^1] prosperó en el siglo XI de la era cristiana. Nació en la aldea de Bhutnagan, también llamada Perumbhudur, al sureste de Kanchipur, la actual Kanjeveram, en la <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> presidencia de Madrás, en el año 1017 d. C. durante el reinado de Betawardhan, rey de Dwar Samudra en el estado de Maisur (Mysore). La fecha de su nacimiento está atestiguada por el cronograma sánscrito _dhirlabdha_, palabra que corresponde a la fecha 939 de la era Saka y significa que los hombres recibieron paciencia o consuelo en su nacimiento. El padre de Ramanuj fue Keshav Jajjwa, un brahmán que se decía pertenecía a la ilustre raza de Harit, el rey espiritual y literario de los Rikhis. Su madre se llamaba Kantimati. Durante mucho tiempo no tuvo hijos. Su esposo oró al cielo pidiendo un hijo cuando, según se dice, un dios se le apareció y le dijo que su deseo se cumpliría. Para lograrlo, se cuenta que Sheshnag, la serpiente sabia que, según los hindúes, sostiene la tierra, se encarnó en Ramanuj.
 
-Por línea materna, Ramanuj también pertenecía a una familia intelectual, pues su hermano materno, Yadav Acharya [^4], fue su primer preceptor y le enseñó los principios de la religión hindú expuestos en el Simritis. Ramanuj se convirtió en un alumno hábil y, desde muy joven, dominó los Veds y los Shastars. Mientras estudiaba, disfrutaba sentado bajo un tamarindo cerca de Perumbhudur, que aún es venerado por sus seguidores.
+Por línea materna, Ramanuj también pertenecía a una familia intelectual, pues su hermano materno, Yadav Acharya [^2], fue su primer preceptor y le enseñó los principios de la religión hindú expuestos en el Simritis. Ramanuj se convirtió en un alumno hábil y, desde muy joven, dominó los Veds y los Shastars. Mientras estudiaba, disfrutaba sentado bajo un tamarindo cerca de Perumbhudur, que aún es venerado por sus seguidores.
 
 Ramanuj propuso nuevas opiniones sobre la relación entre el Creador y sus criaturas. Refutó las teorías del famoso Shankar Acharya, vedantista, y comenzó a inculcar la superioridad del culto a Visnú sobre el de Shiva, el principal objeto de adoración en el sur de la India.
 
-Ramanuj exorcizó un espíritu maligno que había poseído a la hija del rey de Kanchipur. El rey, complacido, le otorgó una generosa <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> recompensa. Al encontrar al rey dispuesto a escuchar sus enseñanzas, le predicó las ventajas de las doctrinas vaisnavas. Sus superiores logros intelectuales y su éxito en todo aquello a lo que dedicaba su atención despertaron los celos de su preceptor, quien urdió un plan para llevarlo de peregrinación a Benarés y ahogarlo en secreto en el Ganges. Ramanuj se salvó de este destino gracias a la oportuna información que recibió del hijo de su tía. [^5]
+Ramanuj exorcizó un espíritu maligno que había poseído a la hija del rey de Kanchipur. El rey, complacido, le otorgó una generosa <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> recompensa. Al encontrar al rey dispuesto a escuchar sus enseñanzas, le predicó las ventajas de las doctrinas vaisnavas. Sus superiores logros intelectuales y su éxito en todo aquello a lo que dedicaba su atención despertaron los celos de su preceptor, quien urdió un plan para llevarlo de peregrinación a Benarés y ahogarlo en secreto en el Ganges. Ramanuj se salvó de este destino gracias a la oportuna información que recibió del hijo de su tía. [^3]
 
 Ramanuj adoró durante un tiempo considerable a un ídolo llamado Bardraj, la deidad tutelar de Kanchipur. Deseoso de ampliar sus estudios teológicos y profundamente desconfiado de su tío, viajó a Sri Rang Nath, el actual Srirangam, en la confluencia de los ríos Kavari y Kolarun, cerca de Trichinoply, para visitar a Yamun Acharya, el gran representante de la secta Sri, y obtener de él la iniciación y ser adoptado como su discípulo. Desafortunadamente, Yamun Acharya había fallecido antes de la llegada de Ramanuj. Este se sometió entonces a la tutela de Mahapuran, discípulo y sucesor de Yamun Acharya. Posteriormente se convirtió en discípulo de Goshtipuran, quien lo envió de regreso dieciocho veces antes de estar seguro de su idoneidad para la iniciación.
 
@@ -48,11 +48,11 @@ Nabhaji, escribiendo desde una perspectiva vaisnava, enumera cuatro grandes sect
 
 Ramanuj continuó sus estudios con fervor en Sri Rang Nath, y allí compuso sus comentarios sobre los Sutras de Vyas y otras obras védicas. <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> Al cumplir los cincuenta años, abandonó a su familia y se dedicó a la salvación de sus semejantes. Mahapuran le había comunicado el conjuro mediante el cual se podía obtener la protección de Dios, y le dijo que quien lo escuchara se salvaría del dolor de la transmigración. Al mismo tiempo, le informó a Ramanuj que nunca debía revelar el secreto. Ramanuj reflexionó sobre la prohibición y llegó a la conclusión de que era absolutamente correcto divulgar a los hombres el secreto de la salvación, incluso si sufría el castigo eterno por revelarlo. En consecuencia, iba de un lugar a otro repitiendo en voz alta el conjuro de la liberación humana. Peregrinó a Triputi, Jagannath y Benarés, y tras predicar con éxito las doctrinas vaisnavas en estos lugares sagrados, erigió edificios para el culto en todos ellos. Desde Benarés, se dirigió a Badrinath, en el Himalaya, donde rindió homenaje a Visnú bajo su doble forma de Nar Narayan. Se dice que convocó a miles y decenas de miles de personas.
 
-En el _Prapann Amrit_, una obra sánscrita dedicada a Ramanuj y sus doctrinas, se afirma que en el mes de Poh del año 1012 de la era Salavahana, correspondiente a 1090 de la era cristiana, dedicó un ídolo a Dios bajo el nombre de Narayan en un lugar llamado Yadavachala. [^6]
+En el _Prapann Amrit_, una obra sánscrita dedicada a Ramanuj y sus doctrinas, se afirma que en el mes de Poh del año 1012 de la era Salavahana, correspondiente a 1090 de la era cristiana, dedicó un ídolo a Dios bajo el nombre de Narayan en un lugar llamado Yadavachala. [^4]
 
 Los cronistas revelan hasta qué punto el celo religioso y sus aliados, la intolerancia religiosa y la persecución, prevalecían ya entonces en la India. El rey Chola Karikala, llamado Krimi Kantha debido a una afección de garganta que padecía, era un fanático devoto de Shiv y aborrecía profundamente las doctrinas de la secta Sri. Enfrentó controversias con Mahapuran, guía religioso de Ramanuj, y Kruresh, discípulo de Ramanuj. El monarca, al ser derrotado en una discusión, <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> recurrió a la fuerza física para vengarse y les sacó los ojos a sus antagonistas. Mahapuran murió a los pocos días, pero Kruresh sobrevivió y posteriormente prestó a Ramanuj un servicio invaluable en la difusión de sus doctrinas.
 
-El propio Ramanuj, para escapar de la furia de Krimi Kantha, se refugió en la corte de Bitta o Vitala Deva, monarca jainista de Dwar Samudra, en el estado de Maisur, quien reinó del 1104 al 1141 d. C. [^7] Tras una controversia con Ramanuj, el rey cambió de fe y buscó la protección de Dios en sus enseñanzas. Lleno de renovado fervor, cambió también su nombre a Vishnu Vardhana y se dedicó a convertir a sus numerosos súbditos, quienes, según se afirma, eran todos jainistas. La mayoría se convirtió, pero algunos huyeron, y al resto el monarca los pasó piadosamente por la espada. En el 1117 d. C., el rey erigió el templo de Belur en conmemoración de su conversión al vaishnavismo por Ramanuj.
+El propio Ramanuj, para escapar de la furia de Krimi Kantha, se refugió en la corte de Bitta o Vitala Deva, monarca jainista de Dwar Samudra, en el estado de Maisur, quien reinó del 1104 al 1141 d. C. [^5] Tras una controversia con Ramanuj, el rey cambió de fe y buscó la protección de Dios en sus enseñanzas. Lleno de renovado fervor, cambió también su nombre a Vishnu Vardhana y se dedicó a convertir a sus numerosos súbditos, quienes, según se afirma, eran todos jainistas. La mayoría se convirtió, pero algunos huyeron, y al resto el monarca los pasó piadosamente por la espada. En el 1117 d. C., el rey erigió el templo de Belur en conmemoración de su conversión al vaishnavismo por Ramanuj.
 
 Ramanuj, temiendo por su propia seguridad en su país natal y complacido con el santo celo, amistad y protección del rey Maisur, residió en su capital durante doce años, tiempo durante el cual lo indujo a erigir un templo a Krishan en Mailkot. Aquí Ramanuj continuó predicando sus doctrinas e hizo numerosos conversos entre los brahmanes, a quienes retiró de su lealtad a Shiv.
 
@@ -67,7 +67,7 @@ Los seguidores de Ramanuj creen que Visnú es el Ser supremo, que existió antes
 
 Se erigieron varios templos en honor a Ramanuj, los principales de los cuales se encuentran en Jadari, Galata, Ahobal y Rewasa. En el famoso fuerte de Srirangapatam, también se señala a los visitantes un templo consagrado a Ramanuj:
 
-Ramanuj escribió varias obras, las principales de las cuales son el _Sri Ramanuj Bhashya_, el _Gita Bhashya_, el _Vedaratha Sangraha_, el _Vedanta dipa_, el _Vedanta Sar_ y el _Dharm Sanhita_. [^8]
+Ramanuj escribió varias obras, las principales de las cuales son el _Sri Ramanuj Bhashya_, el _Gita Bhashya_, el _Vedaratha Sangraha_, el _Vedanta dipa_, el _Vedanta Sar_ y el _Dharm Sanhita_. [^6]
 
 Ramanand, un brahmán Gaur, nació en Mailkot, donde Ramanuj había erigido un ídolo de Vishnu e indujo a los brahmanes a renunciar a su devoción a Shiva. Se sabe muy poco de la vida de Ramanand. Solo se le dedica una página y media en el Bhagat Mal de Nabhaji, donde se le compara con Rama y se le presenta como una encarnación de Dios que descendió del cielo para salvar al mundo.
 
@@ -83,13 +83,13 @@ Es cierto que Ramanand entró en contacto en Benarés con eruditos musulmanes, p
 
 Es una práctica común de los sacerdotes hindúes, al colocar comida ante un ídolo, colocar una pantalla sobre ambos. Cuando, según las ideas humanas, se concede al ídolo suficiente tiempo para su consumo, se retira la pantalla. Los seguidores de Ramanuj observan la misma práctica, pero le han añadido una estricta advertencia: si alguien <span id="p103"><sup><small>[ p. 103 ]</small></sup></span>, además de quien cocina, ve la comida del ídolo, debe ser rechazada de inmediato. Los seguidores de Ramanuj consideran que la atención a estos asuntos es uno de los elementos más importantes del culto divino.
 
-Ramanand no adoptó esta perspectiva. Al igual que cualquier otro gran Maestro, no comprendía la relación entre las reglas culinarias y la adoración a Dios; [^9] y debió expresar libremente sus sentimientos, aunque sus expresiones no se han conservado. Su secta lo expulsó de inmediato, pero su guía religioso, Raghwanand, parece haber sentido cierta simpatía por él, pues lo autorizó a fundar una secta propia, lo cual hizo. Los principios teológicos de la nueva fe correspondían en cierta medida a los de Ramanuj, salvo que Sita y Rama, en lugar de Lakshmi y Narayan, se convirtieron en objetos especiales de su adoración, y las reglas culinarias y similares de Ramanuj se relajaron generosamente.
+Ramanand no adoptó esta perspectiva. Al igual que cualquier otro gran Maestro, no comprendía la relación entre las reglas culinarias y la adoración a Dios; [^7] y debió expresar libremente sus sentimientos, aunque sus expresiones no se han conservado. Su secta lo expulsó de inmediato, pero su guía religioso, Raghwanand, parece haber sentido cierta simpatía por él, pues lo autorizó a fundar una secta propia, lo cual hizo. Los principios teológicos de la nueva fe correspondían en cierta medida a los de Ramanuj, salvo que Sita y Rama, en lugar de Lakshmi y Narayan, se convirtieron en objetos especiales de su adoración, y las reglas culinarias y similares de Ramanuj se relajaron generosamente.
 
 Ramanand se dedicó entonces a demostrar, a partir de los Shastars, que la observancia de las reglas de casta era innecesaria para quien buscara la protección de Dios y abrazara su servicio. Estableció como regla que todas las personas de cualquier casta que aceptaran los principios de su secta podían comer y beber juntas, independientemente de su nacimiento. Todos los hombres que sirven a Dios de la misma manera son hermanos y pertenecen a la misma posición social. Contrariamente a la práctica de Ramanuj, quien había impuesto una disciplina demasiado estricta para el común de los mortales, Ramanand abrió de par en par su puerta espiritual, admitió discípulos de todas las castas y anunció con valentía que el gyan, o conocimiento de Dios, emancipaba al hombre de toda atadura social.
 
-Está escrito en el _Bhagat Mal_ de Nabhaji que incluso un hombre de casta inferior que ama a Dios es superior a un brahmán que, aunque irreprochable en sus actos, no siente amor por el Creador. Se cita <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> un ejemplo de esto: en el gran banquete ofrecido por Yudhishtar para conmemorar la victoria de los Pandavas sobre los Kauravas, la campana festiva no sonó espontáneamente a la hora señalada. Krishan, quien asistió al banquete, preguntó si alguien había dejado de recibir su parte de las viandas. Le informaron que no se le había servido comida a Valmik porque era un Chandal y, como cazador, destructor de vidas. Krishan ordenó entonces que Valmik se sentara en medio de la asamblea, y que Draupadi, la esposa fraccionaria [^10] de Yudhishtar, lo alimentara con sus propias manos. Así lo hizo, y la campana festiva resonó sin que nadie la tocara.
+Está escrito en el _Bhagat Mal_ de Nabhaji que incluso un hombre de casta inferior que ama a Dios es superior a un brahmán que, aunque irreprochable en sus actos, no siente amor por el Creador. Se cita <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> un ejemplo de esto: en el gran banquete ofrecido por Yudhishtar para conmemorar la victoria de los Pandavas sobre los Kauravas, la campana festiva no sonó espontáneamente a la hora señalada. Krishan, quien asistió al banquete, preguntó si alguien había dejado de recibir su parte de las viandas. Le informaron que no se le había servido comida a Valmik porque era un Chandal y, como cazador, destructor de vidas. Krishan ordenó entonces que Valmik se sentara en medio de la asamblea, y que Draupadi, la esposa fraccionaria [^8] de Yudhishtar, lo alimentara con sus propias manos. Así lo hizo, y la campana festiva resonó sin que nadie la tocara.
 
-Ramanand se distinguió por su bondad hacia los demás y su amor a Dios. Señaló el camino del Señor a hombres de las cuatro castas y las cuatro condiciones de vida. [^11] Consideraba superfluas las formas de adoración y sostenía que la recompensa suprema de la devoción se obtenía pronunciando incesantemente el nombre de Dios. Llamó a sus discípulos los Liberados cuando les permitió, y ellos aceptaron, una interpretación liberal de las normas sociales hindúes sancionadas por la religión. Al mismo tiempo, se opuso vehementemente a los ateos y a quienes se jactaban de existir independientemente de Dios. Derrotó con argumentos a los jainistas, budistas y seguidores del camino de la izquierda, [^12] cuyas devociones no se dirigían al Señor supremo del mundo.
+Ramanand se distinguió por su bondad hacia los demás y su amor a Dios. Señaló el camino del Señor a hombres de las cuatro castas y las cuatro condiciones de vida. [^9] Consideraba superfluas las formas de adoración y sostenía que la recompensa suprema de la devoción se obtenía pronunciando incesantemente el nombre de Dios. Llamó a sus discípulos los Liberados cuando les permitió, y ellos aceptaron, una interpretación liberal de las normas sociales hindúes sancionadas por la religión. Al mismo tiempo, se opuso vehementemente a los ateos y a quienes se jactaban de existir independientemente de Dios. Derrotó con argumentos a los jainistas, budistas y seguidores del camino de la izquierda, [^10] cuyas devociones no se dirigían al Señor supremo del mundo.
 
 <span id="p105"><sup><small>[ pág. 105 ]</small></sup></span>
 
@@ -106,12 +106,12 @@ El siguiente es el himno de Ramanand que se encuentra en el Granth Sahib. Recibi
 <p style="text-align:center;">BASANT</p>
 
 ¿Adónde iré, señor? Soy feliz en casa.
-Mi corazón no quiere ir conmigo; se ha vuelto un lisiado. [^13] <span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
+Mi corazón no quiere ir conmigo; se ha vuelto un lisiado. [^11] <span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 Un día tuve ganas de ir;
 Molí sándalo, tomé madera de aloe destilada y muchos perfumes,
 Y procedía a adorar a Dios en un templo,
 Cuando mi guía espiritual me mostró a Dios en mi corazón.
-Dondequiera que voy _sólo encuentro_ agua o piedras. [^14]
+Dondequiera que voy _sólo encuentro_ agua o piedras. [^12]
 Pero Tú, oh Dios, estás igualmente contenido en todo.
 He visto y buscado todos los Veds y los Purans.
 Ve tú allá, si _Dios_ no está aquí.
@@ -146,31 +146,27 @@ La palabra del gurú corta millones de pecados.
 
 ## Notas
 
-[^1]: Según el Tan far Shastar, debe haber cuatro círculos para las divinidades asistentes de Kali: Ganesh, KshetarpSl, Bhairav ​​y Yogini.
+[^1]: El autor agradece al Sr. L. Rice de Bangalore por algunas notas valiosas sobre la vida de Ramanuj.
 
-[^2]: Rudrakhan, del sánscrito _rudraksh_. Un collar hecho con bayas de eleocarpus. Generalmente lo usan los adoradores de la albahaca y los seguidores de Vishnu, quienes llevan rosarios de albahaca dulce.
+[^2]: Algunos seguidores de Ramanuj niegan que Yadav Acharya fuera su tío.
 
-[^3]: El autor agradece al Sr. L. Rice de Bangalore por algunas notas valiosas sobre la vida de Ramanuj.
+[^3]: _Bhagat Mal_ de Nabhaji y también _Bhagat Mal_ de Maharaja Raghuraj Sinh Algunos creen que la dama a quien Ramanuj curó era la hija de Dwarsamudar.
 
-[^4]: Algunos seguidores de Ramanuj niegan que Yadav Acharya fuera su tío.
+[^4]: _Prapann Amrit_, edición de Bombay.
 
-[^5]: _Bhagat Mal_ de Nabhaji y también _Bhagat Mal_ de Maharaja Raghuraj Sinh Algunos creen que la dama a quien Ramanuj curó era la hija de Dwarsamudar.
+[^5]: Bitta Deva fue rey de los Hoysalas que habitaron al oeste del actual estado de Maisur. Su dinastía gobernó Maisur desde el siglo XI hasta el XIV. Su capital fue Dwarsamudajr, ahora Halebid, en el distrito de Belur. Los Cholas y su rey habitaban al este de los Hoysalas. Los reyes Hoysala eran jainistas hasta la época de Bitta Deva. — Mysore de Rice.
 
-[^6]: _Prapann Amrit_, edición de Bombay.
-
-[^7]: Bitta Deva fue rey de los Hoysalas que habitaron al oeste del actual estado de Maisur. Su dinastía gobernó Maisur desde el siglo XI hasta el XIV. Su capital fue Dwarsamudajr, ahora Halebid, en el distrito de Belur. Los Cholas y su rey habitaban al este de los Hoysalas. Los reyes Hoysala eran jainistas hasta la época de Bitta Deva. — Mysore de Rice.
-
-[^8]: Además del Prapann Amrz't, las principales autoridades para la vida de Ramanuj son el _Bhagat Mal_ (hindi), el _Divya Charitar_ (kanarés), el _Bharat Khanda cha aravachm kosh_ (marathi) y el _Kabi Charitar_ (gujrati).
+[^6]: Además del Prapann Amrz't, las principales autoridades para la vida de Ramanuj son el _Bhagat Mal_ (hindi), el _Divya Charitar_ (kanarés), el _Bharat Khanda cha aravachm kosh_ (marathi) y el _Kabi Charitar_ (gujrati).
   Para una descripción más detallada de las doctrinas y seguidores de Ramanuj, véase _Brahmanism and Hinduism_ de Sir Monier Williams.
 
-[^9]: 'No lo que entra en la boca contamina al hombre; sino lo que sale de la boca, esto contamina al hombre'.
+[^7]: «No lo que entra en la boca contamina al hombre; sino lo que sale de la boca, esto contamina al hombre».
 
-[^10]: En esa época, la poliandria estaba en vigor. Draupadi era la esposa de los cinco hermanos Pandav, uno de los cuales era Yudhishtar.
+[^8]: En esa época, la poliandria estaba en vigor. Draupadi era la esposa de los cinco hermanos Pandav, uno de los cuales era Yudhishtar.
 
-[^11]: Los brahmanes, kshatris y vaisyas deberían, según los antiguos escritos hindúes, ser, en primer lugar, _Brahmacharis_, que practican el celibato y dedican sus vidas al estudio y a los ejercicios religiosos; en segundo lugar, _grihastkis_, o hombres casados ​​que llevan vidas seculares; en tercer lugar, _banparasthis_, o anacoretas, cuando sus esposas pueden acompañarlos y pueden vivir de frutas del bosque, tubérculos y raíces; y en cuarto lugar, sanyasis, renunciando completamente al mundo y subsistiendo totalmente de limosnas.
+[^9]: Los brahmanes, kshatris y vaisyas deberían, según los antiguos escritos hindúes, ser, en primer lugar, _Brahmacharis_, que practican el celibato y dedican sus vidas al estudio y a los ejercicios religiosos; en segundo lugar, _grihastkis_, o hombres casados ​​que llevan vidas seculares; en tercer lugar, _banparasthis_, o anacoretas, cuando sus esposas pueden acompañarlos y pueden vivir de frutas del bosque, tubérculos y raíces; y en cuarto lugar, sanyasis, renunciando completamente al mundo y subsistiendo totalmente de limosnas.
 
-[^12]: Vamis o Vamacharis. Para una descripción de ellos, véase _Ensayos sobre la religión de los hindúes_ del profesor H.H. Wilson, vol. I.
+[^10]: Vamis o Vamacharis. Para una descripción de ellos, véase _Ensayos sobre la religión de los hindúes_ del profesor H.H. Wilson, vol. I.
 
-[^13]: Compare el uso de la palabra mancus por Horacio.
+[^11]: Compare el uso de la palabra mancus por Horacio.
 
-[^14]: Ríos de peregrinación o ídolos.
+[^12]: Ríos de peregrinación o ídolos.

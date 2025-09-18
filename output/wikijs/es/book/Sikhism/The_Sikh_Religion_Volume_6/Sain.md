@@ -86,7 +86,7 @@ Sain dice: adorad la Alegría Suprema. [^5]
 
 ## Notas
 
-[^1]: Beaumarchais fue censurado por escritores contemporáneos por la diversidad de logros del héroe de su gran comedia: 'Figaro le barbier, beau diseur, mauvais poete, hardi musicien, grand fringueneur de guitare, et jadis valet de chambre du comte, établi dans Sevilla, y faisant avec succes des barbes, des romances, et des managers, y maniant. dgalement le fer du phtebotome et le piston.'
+[^1]: Beaumarchais fue censurado por escritores contemporáneos por la diversidad de logros del héroe de su gran comedia: «Figaro le barbier, beau diseur, mauvais poete, hardi musicien, grand fringueneur de guitare, et jadis valet de chambre du comte, établi dans Sevilla, y faisant avec succes des barbes, des romances, et des managers, y maniant. dgalement le fer du phtebotome et le piston.»
 
 [^2]: El _Bhagat Mal_ del Maharajá Raghuraj Sinh de Rewa. Declaró ser el décimo descendiente del Raja en cuya corte vivió Sain.
 

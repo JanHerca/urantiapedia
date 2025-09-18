@@ -428,7 +428,7 @@ Oh cuerpo mío, ¿qué has hecho viniendo a este mundo?
 ¿Qué has hecho, oh cuerpo, desde que viniste a este mundo?
 Al Dios que te formó, no le diste lugar en tu corazón.
 Por el favor del Gurú, Dios mora en el corazón, si tal fue predestinado.
-Dice Nanak: «El hombre[22] que une su corazón al verdadero Gurú es aceptable».
+Dice Nanak: «El hombre[^22] que une su corazón al verdadero Gurú es aceptable».
 
 <p style="text-align:center;">XXXVI</p>
 

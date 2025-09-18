@@ -76,7 +76,7 @@ Yet shall he be deemed as dead, O Nanak, if he have no love for God.[^3]
 They who eat the fruit of their labour and bestow something,
 O Nanak, recognize the right way.[^4]
 
-A deficiency in your weights or want of equality in your scales must be avoided. [ver abide firm in your faith.’
+A deficiency in your weights or want of equality in your scales must be avoided abide firm in your faith.’
 
 ‘The Sikhs then asked the Guru to give them further instruction in the Sikh religion. He replied, ‘ You must read the Granth Sahib, and not worship any inanimate object. When a Sikh dieth, sacred food should be prepared and distributed after reading the Sohila. There should be no mourning, but hymns of the Gurus should be sung, and the Granth Sahib should be intoned. No gods or <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> goddesses should be deemed succourers of man. Reliance must be placed on the immortal God alone.’
 

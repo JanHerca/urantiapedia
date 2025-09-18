@@ -401,8 +401,6 @@ O man, where hast thou wrecked and sunk thy boat ?
 Having broken with God thou hast joined the deadly sins,
 In whose fire demigods and men burn.
 
-[^xx1] 
-
 <span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Water [^30] is near, but, O beasts, why not drink it, removing its scum ?[^31]
@@ -623,7 +621,7 @@ Having cut away birth and death I have obtained the supreme state.
 _God_ hath united me with the guild of the saints,
 And freed me from the five deadly sins.
 The ambrosial name I repeat with my tongue ;
-God hath made me His unbought [^50]2 slave.
+God hath made me His unbought [^50] slave.
 The True Guru did me a favour
 By rescuing me from the ocean of the world.
 I have begun to love God's lotus feet,
@@ -754,8 +752,8 @@ Human life under the allegory of an ox and his burden.
 
 <p style="text-align:center;">XLIX</p>
 
-With merits and demerits an ox is purchased ; [^66] life appeareth as the capital ;[^67]
-In this way a herd is purchased ; 3 covetousness which filleth man's heart is as a sack _on the ox's back_.
+With merits and demerits an ox is purchased ; [^65] life appeareth as the capital ;[^66]
+In this way a herd is purchased ; [^67] covetousness which filleth man's heart is as a sack _on the ox's back_.
 So _potent_ a master is my God <span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 Who made the whole world dealers.[^68]
 Lust and wrath are both tax-gatherers ; [^69] the whims of the mind are highway robbers.
@@ -834,8 +832,8 @@ Is not _the body_ measured by yards, weighed by weight, and starched by two and 
 If the body obtain not starch quickly, it will quarrel and destroy its abode.[^84]
 _O man_, how many days are there for thee to sit _idly_ ? When shalt thou, who art adverse to the Lord, again have the present opportunity ?
 The vessels [^85] and the wetted bobbins shall fall to pieces, and the weaver depart in anger ;
-Thread cometh not out of an empty bobbin, [^87] and _the cloth_ will not remain wound around the beam.
-O wretched man, abide in the world, but renounce display — Kabir _giveth thee this_ advice.[^88]
+Thread cometh not out of an empty bobbin, [^86] and _the cloth_ will not remain wound around the beam.
+O wretched man, abide in the world, but renounce display — Kabir _giveth thee this_ advice.[^87]
 
 <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
@@ -1390,7 +1388,7 @@ But in that case God alone would exist, and man exist not at all.
 
 <p style="text-align:center;">43</p>
 
-Everybody goeth about saying, ‘ I will take this, and I will take that’.[^130]
+Everybody goeth about saying, ‘ I will take this, and I will take that’.
 They therefore feel great sorrow _when they are disappointed_.
 He who fixeth his attention on God,
 Shall obtain all happiness and his sorrows shall depart.
@@ -1405,10 +1403,10 @@ He shall obtain an abiding place with Him from whom he is separated.
 <p style="text-align:center;">45</p>
 
 The _Pandits_ have in another way joined the fifty-two letters,
-But they cannot recognize one letter.[^131]
+But they cannot recognize one letter.[^130]
 Kabir uttereth the word of the True One —
 He is a pandit who abideth without fear —
-_To join letters_ [^132] is the business of the Pandits;
+_To join letters_ [^131] is the business of the Pandits;
 To meditate on God _is the business_ of the holy man.
 Saith Kabir, man will understand _which to do_
 According to his intelligence.
@@ -4319,7 +4317,7 @@ which decides on the worship of one God.
 
 [^166]: The oil and wick mean life and breath.
 
-[^166]: When thou diest.
+[^167]: When thou diest.
 
 [^167]: Meditate upon divine knowledge.
 
@@ -4603,7 +4601,9 @@ which decides on the worship of one God.
 
 [^305]: That is, I pray to Thee.
 
-[^306]: That is, I was branded as Thy slave in a former birth, [^xx5] Because he is a genuine and not a counterfeit coin.
+[^306]: That is, I was branded as Thy slave in a former birth.
+
+[^307]: Because he is a genuine and not a counterfeit coin.
 
 [^307]: Literally— by obstinate acts, by threatening suicide. &c.
 
@@ -4645,7 +4645,9 @@ which decides on the worship of one God.
 
 [^325]: _Gagan_—literally, the firmament — is a word applied by Jogis to the brain or tenth gate of the body where God dwells.
 
-[^326]: A supposed passage for air through the spinal marrow to the brain. a The brain retains the breath, and a state of exaltation supervenes.
+[^326]: A supposed passage for air through the spinal marrow to the brain. 
+
+[^327]: The brain retains the breath, and a state of exaltation supervenes.
 
 [^327]: They think good evil and evil good. The fruit of the mm is bitter, of the mango sweet.
 

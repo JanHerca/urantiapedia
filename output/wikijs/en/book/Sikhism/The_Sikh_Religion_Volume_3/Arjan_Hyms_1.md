@@ -152,7 +152,7 @@ Who gave thee soul, mind, and body, and who is the support of the heart.
 <span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 The world is intoxicated with the prevailing lust, wrath, and pride.
 Enter the asylum of the saints, fall at their feet, and thy misery and mental blindness shall be removed.
-The practice of truth, patience, and mercy is the best work _man can accomplish._
+The practice of truth, patience, and mercy is the best work _man can accomplish_.
 He to whom God the Formless One granteth grace, renounceth pride and becometh the dust of all men’s feet.
 Whatever is seen, the extension of creation, is all Thou, O God.
 Saith Nanak, the Guru hath cut away doubt ; and I consider all things God.

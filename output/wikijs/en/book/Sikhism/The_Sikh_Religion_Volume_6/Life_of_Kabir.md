@@ -216,14 +216,14 @@ I am as a fish out of water,
 Because in a former life I performed no penance.
 Now say, O God, what shall be my condition.
 People tell me I had little sense to leave Banaras,
-That I wasted all my life in that city of Shiv ; 1
+That I wasted all my life in that city of Shiv ; [^28]
 And now when about to die, I have removed to Magahar.
 For many years I did penance at Banaras,
 But, now that death is at hand, I have come to dwell in Magahar —
 I consider Magahar as good as Banaras —
 How shall he of scant devotion be saved ?
-Saith Kabir, my guru _Ramanand_,[^28] Ganesh, Shiv, [^29] and all men know,
-That Kabir when dying uttered God's holy name. [^30] And also the following : —
+Saith Kabir, my guru _Ramanand_,[^29] Ganesh, Shiv, [^30] and all men know,
+That Kabir when dying uttered God's holy name. [^31] And also the following : —
 Thou art my great mountain ; O Lord, I have sought Thy shelter.
 Thou shakest not, nor do I fall ; Thou hast sheltered me, O God;
 Now and then and forever more _there is but_ Thou. By Thy favour I am ever happy.

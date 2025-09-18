@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:8:12Z
   </table>
 </figure>
 
-THE LIFE OF GURU NANAK. CHAPTER V
+## THE LIFE OF GURU NANAK. CHAPTER V
 
 The Guru set out towards the east, having arrayed himself in a strange motley of Hindu and Muhammadan religious habiliments. He put on a mango-coloured jacket, over which he threw a white safa or sheet. On his head he carried the hat of a Musalman Qalandar[^3], while he wore a necklace of bones, and imprinted a saffron mark on his forehead in the style of Hindus. This was an earnest of his desire to found a religion which should be acceptable both to Hindus and Muhammadans without conforming to either faith. As the Guru and his attendant proceeded, they met a Muhammadan notable called Shaikh Wajid. The Shaikh alighted under a tree, and his bearers began to shampoo and fan him. This afforded matter for contemplation to Mardana, and he asked the Guru whether there was not one God for the rich and another for the poor. The Guru replied that there <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> was only one God. Mardana then put his question in another form: ‘Who created this man who rideth in a sedan of ease while the bearers have no shoes. to their feet? Their legs are naked while they shampoo and fan him.’ The Guru replied with the following verses:—
 

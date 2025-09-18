@@ -207,7 +207,7 @@ The name of God shall be there to recognize thee ;
 Where there is very terrible heat and great sunshine,
 There the name of God shall be a. shadow over thee.
 O man, where thirst tormenteth thee,
-There, _saith_ Nanak, _the name of_ God shall rain nectar on thee.”
+There, _saith_ Nanak, _the name of_ God shall rain nectar on thee.[^9]
 
 <p style="text-align:center;">5</p>
 
@@ -866,8 +866,8 @@ The man who knoweth God restraineth his wandering mind ;[^35]
 Very good are _the acts_ of the man who knoweth God ;
 Everything prospereth with him who knoweth God ;
 In the company of the man who knoweth God all shall be saved—
-Nanak, the whole world praiseth the man who knoweth God.
-1 
+Nanak, the whole world praiseth the man who knoweth God.[^36]
+
 <span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 <p style="text-align:center;">5</p>
@@ -1071,7 +1071,7 @@ Many millions of birds and serpents have been created ;
 Many millions of stones and trees have been produced ;
 Many millions of winds, waters, and fires ;
 Many millions of countries and regions of the earth
-Many millions of moons, suns, and stars ;?
+Many millions of moons, suns, and stars ;[^43]
 Many millions of demigods, demons, and crowned Indars.
 _God_ holdeth all things by His string,
 And, O Nanak, saveth those whom He pleaseth.
@@ -1951,7 +1951,7 @@ Nanak, will accept the Guru’s instruction ;
 
 <p style="text-align:center;">3</p>
 
-The servant who fully ! conciliateth the Guru,
+The servant who fully [^61] conciliateth the Guru,
 Shall know the state of the Supreme Being.
 He in whose heart is God’s name is the true Guru ;
 I am many times a sacrifice to such a Guru ;
@@ -2072,7 +2072,7 @@ Remember it, remember it, and thou shalt ever be happy.
 By service and love the mind becometh enlightened,
 Fears depart, all hopes shall be fulfilled,
 Man shall abide in the imperishable home,
-Saith Nanak, and Death’s noose be cut _for hiis escape_.
+Saith Nanak, and Death’s noose be cut _for his escape_.
 
 <p style="text-align:center;">4</p>
 
@@ -2480,7 +2480,6 @@ And Death shall not approach him.
 Nanak, he who in the company of the saints meditateth on God
 Becometh immortal, and obtaineth the immortal rank.
 
-' 
 <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 <p style="text-align:center;">SLOK XXIII</p>

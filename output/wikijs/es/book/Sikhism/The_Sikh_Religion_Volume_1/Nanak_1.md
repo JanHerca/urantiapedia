@@ -36,7 +36,7 @@ VIDA DE GURU NANAK. CAPÍTULO I
 
 Para recapitular lo expuesto con más detalle en la Introducción, Gurú Nanak, fundador de la religión sij, nació, según todos los registros sijs antiguos, en la madrugada del tercer día de la primera quincena del mes de Baisakh (abril-mayo) del año 1469 d. C.; pero, por conveniencia, los sijs ahora celebran su aniversario con ocasión de la luna llena del mes de Kartik (octubre-noviembre). Su padre, llamado Kalu, era contable en la aldea de Talwandi, en el actual distrito de Lahore, en el Punjab, y su madre, Tripta, fue memorable en los escritos sijs por su devoción a su hijo.
 
-Los biógrafos sijs relatan con minucioso detalle todas las circunstancias del nacimiento de Gurú Nanak. Daulatan, una partera, asistió en el evento. Cuando a la mañana siguiente, el astrólogo Hardial, quien vino a escribir el horóscopo del niño, la interrogó sobre la naturaleza de la voz que emitió al nacer, dijo que era como la voz risueña de un hombre sabio que se une a una reunión social; y se expresó incapaz de comprender la naturaleza del niño. El astrólogo quiso verlo, pero su madre se negó debido al frío. Insistió, y le trajeron al niño en pañales. Se dice que el astrólogo, al ver al bebé, lo adoró con las manos juntas. Declaró que el niño debía llevar la sombrilla, símbolo de la dignidad real o profética en Oriente. Al mismo tiempo, lamentaba no poder ver la eminencia del joven Nanak, venerado como corresponde por hindúes y musulmanes, y no solo por hindúes, como en las anteriores manifestaciones humanas del Creador. El nombre del niño debería resonar tanto en la tierra como en el cielo. La naturaleza inanimada debería gritar "¡Nanak, Nanak!". Debería tener poder sobre la materia para atravesar ileso las profundidades del océano. Debería adorar y reconocer a un solo Dios, y a la criatura debería tratarla como tal. En otras palabras, debería ser monoteísta, no adorador de deidades menores e ídolos.
+Los biógrafos sijs relatan con minucioso detalle todas las circunstancias del nacimiento de Gurú Nanak. Daulatan, una partera, asistió en el evento. Cuando a la mañana siguiente, el astrólogo Hardial, quien vino a escribir el horóscopo del niño, la interrogó sobre la naturaleza de la voz que emitió al nacer, dijo que era como la voz risueña de un hombre sabio que se une a una reunión social; y se expresó incapaz de comprender la naturaleza del niño. El astrólogo quiso verlo, pero su madre se negó debido al frío. Insistió, y le trajeron al niño en pañales. Se dice que el astrólogo, al ver al bebé, lo adoró con las manos juntas. Declaró que el niño debía llevar la sombrilla, símbolo de la dignidad real o profética en Oriente. Al mismo tiempo, lamentaba no poder ver la eminencia del joven Nanak, venerado como corresponde por hindúes y musulmanes, y no solo por hindúes, como en las anteriores manifestaciones humanas del Creador. El nombre del niño debería resonar tanto en la tierra como en el cielo. La naturaleza inanimada debería gritar «¡Nanak, Nanak!». Debería tener poder sobre la materia para atravesar ileso las profundidades del océano. Debería adorar y reconocer a un solo Dios, y a la criatura debería tratarla como tal. En otras palabras, debería ser monoteísta, no adorador de deidades menores e ídolos.
 
 Se dice que, a la temprana edad de cinco años, Nanak comenzó a hablar de temas divinos y a comprender plenamente el significado de su lenguaje. Se depositó una gran confianza en él; tanto hindúes como musulmanes le prodigaron su característico lenguaje de adulación religiosa.
 
@@ -60,7 +60,7 @@ U. Alabad a Aquel cuyo límite no se puede encontrar.
 Aquellos que practican la verdad y realizan el servicio obtendrán su recompensa.
 
 N. El que conoce el conocimiento divino es el pandit erudito.[^1]
-Aquel que conoce al único Dios en todas las criaturas, nunca diría: "Yo existo por mí mismo".
+Aquel que conoce al único Dios en todas las criaturas, nunca diría: «Yo existo por mí mismo».
 
 K. Cuando el cabello crece blanco, brilla sin jabón.
 Los cazadores del Rey Muerte siguen a aquel que está atado por la cadena de Mammón.[^2]
@@ -160,7 +160,7 @@ Medita en el nombre de Dios; absórbete en el nombre de Dios, y noche y día obt
 A. Lo que Dios, que creó el mundo, tiene que hacer, lo sigue haciendo.
 Él actúa y hace que otros actúen; Él lo sabe todo; así dice el poeta Nanak.
 
-Parece que Nanak continuó asistiendo a la escuela durante algún tiempo. Un día se le observó permanecer en silencio y no dedicarse a sus libros. El maestro le preguntó por qué no leía. Nanak preguntó: "¿Eres lo suficientemente sabio como para enseñarme?". El maestro respondió que lo había leído todo. Conocía los Veds y los Shastars,[^1] y había aprendido a llevar cuentas, a registrar libros de contabilidad y diarios, y a hacer balances. Ante esto, Nanak dijo: "A tus logros prefiero el estudio del conocimiento divino". Entonces compuso el siguiente himno:
+Parece que Nanak continuó asistiendo a la escuela durante algún tiempo. Un día se le observó permanecer en silencio y no dedicarse a sus libros. El maestro le preguntó por qué no leía. Nanak preguntó: «¿Eres lo suficientemente sabio como para enseñarme?». El maestro respondió que lo había leído todo. Conocía los Veds y los Shastars,[^1] y había aprendido a llevar cuentas, a registrar libros de contabilidad y diarios, y a hacer balances. Ante esto, Nanak dijo: «A tus logros prefiero el estudio del conocimiento divino». Entonces compuso el siguiente himno:
 
 Quema el amor mundano, muele _sus cenizas_ y conviértelas en tinta;[^2] convierte el intelecto superior en papel.
 Haz del amor divino tu pluma y de tu corazón el escritor; pregunta a tu gurú y escribe sus instrucciones.
@@ -377,7 +377,7 @@ No parece que ni siquiera el aprendizaje del persa orientara los pensamientos de
 
 [^4]: Sri Râg.
 
-[^1]: _Jog_, relacionado con el griego {griego zugo'n}, originalmente significaba la unión del alma con Dios y puede compararse con el significado etimológico de la palabra 'religión'. Quienes practicaban el Jog eran llamados Jogis. El término Jog se aplica ahora a ciertas prácticas de los Jogis que se detallan en los _Aforismos de Patanjali_.
+[^1]: _Jog_, relacionado con el griego {griego zugo'n}, originalmente significaba la unión del alma con Dios y puede compararse con el significado etimológico de la palabra «religión». Quienes practicaban el Jog eran llamados Jogis. El término Jog se aplica ahora a ciertas prácticas de los Jogis que se detallan en los _Aforismos de Patanjali_.
 
 [^1]: _San nishâmi jâi_. También traducido: si llevan tu marca.
 

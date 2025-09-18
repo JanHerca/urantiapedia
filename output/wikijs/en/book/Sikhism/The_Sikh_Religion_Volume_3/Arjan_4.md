@@ -162,4 +162,4 @@ The Guru then went to the shrine of Guru Nanak at Dehra Baba Nanak in the Gurdas
 [^6]: The tank at Tarn Taran is larger than that at the Golden Temple at Amritsar. At one corner is a tall minaret built by Ranjit Singh. He intended to build three others, but died before he could accomplish his project. The money collected for the construction mysteriously disappeared from its custodians.
   The approach to the temple has lately been opened by the demolition of some houses, to whose proprietors large sums of money have been paid by willing subscribers as compensation.
 
-  [^7]: Tilang.
+[^7]: Tilang.

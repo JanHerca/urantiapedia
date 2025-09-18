@@ -329,7 +329,7 @@ El hombre debe vigilar su mente refractaria:
 
 ## GAURI KARHALE
 
-Oh alma refractaria[^8] que vienes de lejos, ¿cómo encontrarás a Dios <
+Oh alma refractaria[^8] [^9] que vienes de lejos, ¿cómo encontrarás a Dios ?
 Cuando encontré al Gurú por perfecta buena fortuna, el Amado vino y me abrazó.
 Oh alma refractaria, medita en el Verdadero Gurú;
 Oh alma refractaria y miserable, medita en el nombre de Dios,
@@ -640,7 +640,7 @@ Bajo la instrucción del Gurú he meditado en lo Invisible e Inaprensible; he ob
 Al cantar los himnos del verdadero Gurú, la voz de la melodía invicta resuena siempre.
 Nanak, Dios el Dador me otorgó un regalo: mi luz se ha mezclado con la Suya.
 Los perversos mueren en su perversidad, diciendo que su propiedad es suya.
-¿Apegan sus corazones a la inmundicia cubierta de piel? Que viene por un momento y en un momento se va:
+¿Apegan sus corazones a la inmundicia cubierta de piel [^17] que viene por un momento y en un momento se va:
 Atan sus corazones a una inmundicia cubierta de piel que es fugaz como el tinte del cártamo.
 Ora van hacia el este, ora hacia el oeste, como gira la rueda de un alfarero.
 En la tristeza comen, en la tristeza acumulan y disfrutan; extienden su aumento de tristeza.
@@ -856,7 +856,7 @@ El Gurú se ha dedicado completamente a Dios:
 
 Ahora he venido cansado a Dios:
 Ya que he acudido a tu protección, sálvame, oh Dios, o destrúyeme.
-Desprecio [24] los artificios y las alabanzas de los hombres.
+Desprecio [^24] los artificios y las alabanzas de los hombres.
 Sea que hablen bien o mal de mí, yo he humillado mi cuerpo.
 Dios preserva misericordiosamente a quien acude a su protección.
 El esclavo Nanak ruega: ¡Oh Dios, preserva mi honor si he buscado tu refugio!
@@ -912,7 +912,7 @@ El Gurú ha puesto el conocimiento divino como un bocado en la boca,
 Y aplicó el amor de Dios como un látigo al cuerpo:
 El hombre piadoso que ha conquistado su propia mente, aplica el amor de Dios como un látigo a su cuerpo.
 Él obtiene la Palabra, moldea su mente no moldeada y bebe el néctar de Dios.
-Aquel que escucha la Palabra que pronuncia el Gurú, tiñe su corcel con el color de Dios,[^26]
+Aquel que escucha la Palabra que pronuncia el Gurú, tiñe su corcel con el color de Dios,[^27]
 Recorre el camino grande y difícil, oh Nanak, y cruza al otro lado.
 Dios creó el cuerpo como una yegua veloz.
 El cuerpo por el cual se repite el nombre de Dios es bendito, es bendito.
@@ -1343,7 +1343,7 @@ Cuando el Gurú hace que el hombre pruebe el agua del nombre de Dios, éste la d
 He examinado y buscado minuciosamente mi cuerpo; el hombre santo me mostró una visión:
 Todos los apóstatas morían buscando en el extranjero, mientras que yo, bajo la instrucción del Gurú, encontré a Dios en casa.
 Dios ha sido compasivo con los más pobres entre los pobres, como cuando Krishan fue a la casa de Bidur.
-Sudama[^41] fue hacia Krishan con amor, gracias a lo cual Krishan eliminó su pobreza y lo hizo feliz.
+Sudama[^42] fue hacia Krishan con amor, gracias a lo cual Krishan eliminó su pobreza y lo hizo feliz.
 Grande es el honor del nombre de Dios; mi Señor mismo me lo ha otorgado.
 Si todos los apóstatas practicaran la calumnia contra ella, eso de ninguna manera la disminuiría.
 El nombre de Dios es la alabanza de su siervo, por la cual obtiene honor en todas direcciones.

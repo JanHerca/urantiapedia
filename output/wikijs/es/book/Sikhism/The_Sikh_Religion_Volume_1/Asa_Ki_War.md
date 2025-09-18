@@ -32,13 +32,15 @@ dateCreated: 2025-2-12T12:56:47Z
   </table>
 </figure>
 
-ASA KI WAR[^1]
+## ASA KI WAR
+
+[^1]
 
 Sólo hay un solo Dios cuyo nombre es verdadero, el Creador, libre de temor y enemistad, inmortal, no nacido, autoexistente, grande y benéfico.
 
-GURÚ HAR GOBIND
+## GURÚ HAR GOBIND
 
-Esta Guerra incluye sloks. Los sloks también fueron escritos por el primer Gurú y deben cantarse con el aria de 'Tunda As Raja'.[^2]
+Esta Guerra incluye sloks. Los sloks también fueron escritos por el primer Gurú y deben cantarse con el aria de «Tunda As Raja».[^2]
 
 ## SIPP
 
@@ -86,14 +88,6 @@ Verdaderas tus alabanzas, verdaderos tus elogios
 Verdadera tu fuerza, oh verdadero Rey.
 Nanak, verdaderos son aquellos que meditan en el Verdadero.
 Aquellos que nacen y mueren son los más falsos de los falsos.[^4]
-
-[^1]: Los _pauris_ de esta colección son todos de Guru Nanak, por lo que en el original su nombre se omite al principio.
-
-[^2]: En la literatura sánscrita, a Mâya se le denomina _anâdi_, sin principio, por lo tanto increada, pero esta no es la doctrina de los gurús. Creer que Dios no creó a Mâya sería creer en una limitación de su poder.
-
-[^3]: También traducido: Tú das y quitas la vida del cuerpo.
-
-[^4]: _Koch_ se utiliza aquí como correlativo de _sach_, verdadero.
 
 <span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
@@ -213,16 +207,6 @@ Se obtiene el Verdadero.
 Que todos los gharis sean vuestras lecheras, y los pahars vuestros Krishans y Gopals[^5]:
 Que el viento, el agua y el fuego sean tus joyas; y la luna y el sol tus avatares;
 
-[^1]: También traducido: ¡Cuántos explican los Veds!
-
-[^2]: También traducido como: «Atraer a una multitud a su alrededor». Este himno pretende ofrecer una breve descripción de los milagros de Ram y Krishan.
-
-[^3]: Literalmente—habla de las regiones superior e inferior.
-
-[^4]: _Lâkh takiân_. _Takâ_ es en realidad una moneda doble, o aproximadamente medio penique de dinero inglés, pero en plural significa dinero en general.
-
-[^5]: Los _Gopâls_ son pastores entre los que Krishan solía divertirse.
-
 <span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Toda la Tierra, vuestro escenario, vuestras propiedades y vuestros vasos, que son todos enredos.
@@ -304,10 +288,6 @@ Dios se ha puesto en el verdadero Gurú; Él ha manifestado y proclamado esto.
 La salvación se obtiene siempre al encontrar al verdadero Gurú que ha desterrado el amor mundano de su interior.
 Las mejores son las meditaciones de aquel que ha fijado su mente en el Verdadero:
 Ha encontrado al Dador de vida para el mundo.
-
-[^1]: Y no he hecho nada meritorio en este nacimiento.
-
-[^2]: Este versículo también se traduce: Muchos se van de aquí después de gastar lo que poseían; ¿tenían algún otro negocio _en este mundo_?
 
 <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
@@ -646,7 +626,7 @@ _Gurú Nanak_
 _Aunque los hombres cometan_ innumerables robos, innumerables adulterios, profieran innumerables falsedades e innumerables palabras de abuso;
 _Aunque cometan_ innumerables robos y villanías noche y día contra sus semejantes;
 _Sin embargo_ el hilo de algodón ya está hilado, y el Brahman viene a torcerlo.
-_Para la ceremonia_ matan una cabra, la cocinan y la comen, y luego todos dicen: "Pónganse el janeu".
+_Para la ceremonia_ matan una cabra, la cocinan y la comen, y luego todos dicen: «Pónganse el janeu».
 Cuando algo envejece, se tira y se pone otro.
 Nanak, la cuerda no se rompe si es fuerte.
 
@@ -996,6 +976,14 @@ Nanak, excepto en el único Dios solo no hay lugar permanente.
 
 [^2]: As, hijo de Chitrbîr, era un príncipe santo contra quien su lasciva madrastra había presentado una acusación falsa, lo que resultó en la amputación de manos y pies como castigo. Una de las muchas versiones orientales de la historia de la esposa de Putifar.
 
+[^1]: Los _pauris_ de esta colección son todos de Guru Nanak, por lo que en el original su nombre se omite al principio.
+
+[^2]: En la literatura sánscrita, a Mâya se le denomina _anâdi_, sin principio, por lo tanto increada, pero esta no es la doctrina de los gurús. Creer que Dios no creó a Mâya sería creer en una limitación de su poder.
+
+[^3]: También traducido: Tú das y quitas la vida del cuerpo.
+
+[^4]: _Koch_ se utiliza aquí como correlativo de _sach_, verdadero.
+
 [^1]: En el original, Mahala I. Está escrito así para marcar la distinción entre los versos anteriores, que son _sloks_, y los versos siguientes, que están en una medida diferente.
 
 [^2]: Separándose de Sí mismo.
@@ -1010,6 +998,16 @@ Nanak, excepto en el único Dios solo no hay lugar permanente.
 
 [^3]: Literalmente: Dios ha escrito el destino del miedo en las cabezas de todos.
 
+[^1]: También traducido: ¡Cuántos explican los Veds!
+
+[^2]: También traducido como: «Atraer a una multitud a su alrededor». Este himno pretende ofrecer una breve descripción de los milagros de Ram y Krishan.
+
+[^3]: Literalmente—habla de las regiones superior e inferior.
+
+[^4]: _Lâkh takiân_. _Takâ_ es en realidad una moneda doble, o aproximadamente medio penique de dinero inglés, pero en plural significa dinero en general.
+
+[^5]: Los _Gopâls_ son pastores entre los que Krishan solía divertirse.
+
 [^1]: _Jhâlâ_ es la cabellera de una mujer. Los actores, que en la India suelen ser todos hombres, usan pelucas femeninas.
 
 [^2]: _Bhini_. Literalmente—rocío; cuando la atmósfera está tranquila y el calor no es excesivo.
@@ -1019,6 +1017,10 @@ aceptado.
 
 [^2]: Los Yogis, en profunda meditación, cierran los ojos. Al abrirlos y mirar hacia arriba, creen contemplar a Dios en su propia imagen en el firmamento.
 
+[^1]: Y no he hecho nada meritorio en este nacimiento.
+
+[^2]: Este versículo también se traduce: Muchos se van de aquí después de gastar lo que poseían; ¿tenían algún otro negocio _en este mundo_?
+
 [^1]: También traducido—
   (_a_) Tratar a los hombres según sus actos.
   (_b_) Trata a los demás como te gustaría que te trataran a ti.
@@ -1027,7 +1029,7 @@ aceptado.
 
 [^2]: Hay dos formas de Jog o ejercicio para la unión del alma con Dios. _Sahaj jog_ o _râj jog_ es la repetición del nombre de Dios con atención fija y asociación con lo sagrado, a diferencia del _hath jog_ de Patanjali, la forma más severa y dolorosa de las austeridades de un Jogi.
 
-\[1 Muchos faqîrs no comen maíz, algunos van desnudos, algunos practican un silencio perpetuo, algunos van descalzos, algunos comen inmundicias, etc.
+[^1]: Muchos faqîrs no comen maíz, algunos van desnudos, algunos practican un silencio perpetuo, algunos van descalzos, algunos comen inmundicias, etc.
 
 [^2]: Los gyanis generalmente traducen: Si un hombre anda descalzo, simplemente está sufriendo por su necedad.
 
@@ -1064,7 +1066,7 @@ aceptado.
 
 [^5]: La expresión musulmana _Bismillâh_ (en el nombre de Dios), utilizada tanto al sacrificar animales como en otras ocasiones, es, por supuesto, inaceptable para los hindúes.
 
-[^1]: _Ghâh_. Generalmente traducido como "cortadores de hierba" por los gyânis: también existe una tercera interpretación. En tiempos pasados, los hombres de posición se presentaban ante los conquistadores con hierba en la boca, lo que implicaba que eran las vacas de los conquistadores cuyas vidas debían ser salvadas. Por consiguiente, la frase también se traduce como "y Él haría que los reyes se pusieran hierba en la boca".
+[^1]: _Ghâh_. Generalmente traducido como «cortadores de hierba» por los gyânis: también existe una tercera interpretación. En tiempos pasados, los hombres de posición se presentaban ante los conquistadores con hierba en la boca, lo que implicaba que eran las vacas de los conquistadores cuyas vidas debían ser salvadas. Por consiguiente, la frase también se traduce como «y Él haría que los reyes se pusieran hierba en la boca».
 
 [^1]: _Har rangi_. Literalmente, con todos los colores.
 
@@ -1076,7 +1078,7 @@ aceptado.
 
 [^1]: Se entiende por mujer. Los griegos a veces usaban la palabra {griego skeu^os} en el mismo sentido.
 
-[^2]: Algunos suponen que la palabra que falta aquí es "mujer", ya que la parte anterior del verso es una defensa de las mujeres, no un elogio a Dios.
+[^2]: Algunos suponen que la palabra que falta aquí es «mujer», ya que la parte anterior del verso es una defensa de las mujeres, no un elogio a Dios.
 
 [^1]: Es decir, no hay mediador entre Dios y el hombre. Es Dios mismo quien decide el destino del hombre.
 

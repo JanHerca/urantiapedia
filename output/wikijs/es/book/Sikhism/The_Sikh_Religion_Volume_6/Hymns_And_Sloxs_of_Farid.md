@@ -38,7 +38,7 @@ Instrucción religiosa miscelánea:
 
 <p style="text-align:center;">ASA</p>
 
-Dijo Shaikh Farid: “Mis queridos amigos, apegaos a Dios”.
+Dijo Shaikh Farid: «Mis queridos amigos, apegaos a Dios».
 Este cuerpo se convertirá en polvo y su morada será la tumba sin honor. [^1]
 Hoy puedes encontrar a Dios, Shaikh Farid, si refrenas los sentimientos que agitan tu mente.
 Si hubiera sabido que moriría y no volvería,
@@ -500,7 +500,7 @@ No debería haber caído en tales problemas ni haber pasado por tales penurias,
 <p style="text-align:center;">LXXVII</p>
 
 Mis dientes, mis pies, mis ojos, mis oídos han cesado sus funciones;
-El cuerpo grita en voz alta: "Esos conocidos se han ido".
+El cuerpo grita en voz alta: «Esos conocidos se han ido».
 
 <p style="text-align:center;">LXXVIII</p>
 
@@ -509,7 +509,7 @@ Así tu cuerpo no sufrirá dolor y lo conseguirás todo.
 
 <p style="text-align:center;">LXXIX</p>
 
-Farid, los pájaros [^xx1] son ​​huéspedes en el hermoso jardín del mundo;
+Farid, los pájaros [^48] son ​​huéspedes en el hermoso jardín del mundo;
 Suena el tambor de la mañana; haz preparativos para tu partida.
 
 <p style="text-align:center;">LXXX</p>
@@ -542,7 +542,7 @@ El río fluye hacia donde Dios quiere.
 <p style="text-align:center;">LXXXV</p>
 
 Farid, mis días han pasado en tristeza y mis noches en angustia;
-El barquero se levanta y grita: "El viento está empujando el barco hacia el remolino".[^50]
+El barquero se levanta y grita:«El viento está empujando el barco hacia el remolin».[^50]
 
 <p style="text-align:center;">LXXXVI</p>
 
@@ -581,7 +581,7 @@ De todos modos, no comáis la carne de donde habita mi Señor en mi esqueleto.
 
 <p style="text-align:center;">XCIII</p>
 
-Farid, la miserable tumba llama: "¡Oh, sin hogar, vuelve a casa!"
+Farid, la miserable tumba llama:«¡Oh, sin hogar, vuelve a casa»
 Seguramente vendrás a mí; no temes a la muerte.
 
 <p style="text-align:center;">XCIV</p>
@@ -605,7 +605,7 @@ Farid, si pones agua en un recipiente frágil, ¿cuánto tiempo permanecerá all
 
 Farid, los lugares se han quedado vacíos y sus ocupantes se han ido abajo;
 Las miserables tumbas se apoderan de las almas; [^55]
-Oh Shaikh, despide a tus amigos; debes partir hoy o mañana.
+Oh Shaikh, despide _a tus amigos_;[^56] debes partir hoy o mañana.
 
 <p style="text-align:center;">XCVIII</p>
 
@@ -883,7 +883,7 @@ Si deseas al Amado, no angusties el corazón de nadie.
 
 [^27]: Literalmente — separación, pero aquí significa amor en ausencia.
 
-[^28]: Algunos hacen de las mujeres el tema de este verso, pero esto contradice la enseñanza del Granth Sahib. Así, Gurú Nanak escribe: "¿Por qué llamar mala a la mujer?". Gurú Arjan, por su aprecio por las mujeres, rechazó una estrofa que Pilo le había traído para incluirla en el Granth Sahib. Comenzaba: "Ni siquiera mires la imagen de una mujer en el papel".
+[^28]: Algunos hacen de las mujeres el tema de este verso, pero esto contradice la enseñanza del Granth Sahib. Así, Gurú Nanak escribe:«¿Por qué llamar mala a la mujer». Gurú Arjan, por su aprecio por las mujeres, rechazó una estrofa que Pilo le había traído para incluirla en el Granth Sahib. Comenzaba:«Ni siquiera mires la imagen de una mujer en el pape».
 
 [^29]: Al final del primer _ghari_ del _pahar_, el gong fue golpeado una vez; al final del segundo gkart, dos veces, y así sucesivamente hasta el final del _pahar_ de ocho _gharis_, cuando fue golpeado dieciséis veces.
 

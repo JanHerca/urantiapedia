@@ -39,7 +39,7 @@ Hemos llegado ahora a una etapa muy crítica de nuestra biografía del Gurú, y 
 Sobre este tema, la mejor evidencia disponible son las propias composiciones reconocidas del Gurú. En el _Akal Ustat_, escribe lo siguiente:
 
 Algunos adoradores se ponen piedras sobre sus cabezas, otros suspenden lingams de sus cuellos;
-Algunos ven a Dios en el sur, otros inclinan sus cabezas hacia el oeste ;2
+Algunos ven a Dios en el sur, otros inclinan sus cabezas hacia el oeste ;[^1]
 Algunos necios adoran ídolos, otros se dedican a adorar a los muertos.
 El mundo entero enredado en falsas ceremonias no ha descubierto el secreto de Dios.
 
@@ -74,7 +74,7 @@ Porque ellos son idólatras y yo soy destructor de ídolos.
 
 Como prueba adicional de los sentimientos del Gurú sobre el tema de la idolatría, tenemos una composición, escrita o sancionada por él mismo, que se encuentra en sus obras completas, sobre la cual basar nuestra conclusión.
 
-Había un rey llamado Sumat Sain, casado con una dama llamada Samarmati. Tuvieron cuatro hijos y una única <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> hija llamada Rankhambh Kala. Los niños fueron puestos bajo la tutela de un brahmán. Un día, la princesa fue más temprano de lo habitual a la casa del brahmán y lo encontró adorando y postrándose ante un salagram andalingam. Sonrió al ver a su tutor tan ocupado y le preguntó la razón de su extraordinaria conducta.
+Había un rey llamado Sumat Sain, casado con una dama llamada Samarmati. Tuvieron cuatro hijos y una única <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> hija llamada Rankhambh Kala. Los niños fueron puestos bajo la tutela de un brahmán. Un día, la princesa fue más temprano de lo habitual a la casa del brahmán y lo encontró adorando y postrándose ante un salagram andalingam.[^2] Sonrió al ver a su tutor tan ocupado y le preguntó la razón de su extraordinaria conducta.
 
 <p style="text-align:center;"><em>El Brahmán</em></p>
 
@@ -92,7 +92,7 @@ Escúchame, oh princesa, no has considerado la grandeza de Shiv. Adora siempre a
 
 Comunicáis hechizos para hacer discípulos. Luego les ofrecéis dinero de cualquier manera posible, pero no les enseñáis la verdad y arruináis su felicidad en este mundo y en el venidero. Escucha, oh brahmán, despojáis de cualquier manera posible a quienes reciben vuestro hechizo iniciático. Los necios no reciben de ti conocimiento divino, sino que son estafados por sus esfuerzos. Les dices que tu hechizo les será beneficioso y que Shiv les concederá una bendición. Cuando los hechizos fracasan, finges que han omitido alguna ceremonia necesaria, y que por eso no han tenido éxito. Después les ordenas que den limosna a los brahmanes y realicen el hechizo para contemplar al dios. Les cobras una multa cuando deberían habértela cobrado por engañarlos, y a cambio de su dinero les repites el mismo hechizo. Los extravías a lo largo de todo el camino, y finalmente les dices que han omitido ciertas palabras, o que algo interrumpió las ceremonias, lo que explica la ausencia del dios y su imposibilidad de conceder la bendición deseada. Ante esto, <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> les aconsejas que te den limosna de nuevo. Oh, brahmán, ese es el tipo de hechizo que enseñas a aquellos cuyas casas pretendes saquear. Y cuando tus víctimas empobrecen, vas a espiar a otros. Si tus encantamientos y hechizos fueran eficaces, te sentarías como un monarca en casa y no mendigarías.
 
-El brahmán, lleno de ira y maldiciendo a la princesa, dijo: "¿Cómo puedes saber lo que me pasa? Hablas como si hubieras tomado bhang".
+El brahmán, lleno de ira y maldiciendo a la princesa, dijo: «¿Cómo puedes saber lo que me pasa? Hablas como si hubieras tomado bhang».
 
 <p style="text-align:center;"><em>La Princesa</em></p>
 
@@ -122,7 +122,7 @@ Dios considerará pecador a quien diga que esta piedra es otra que Dios, y arroj
 
 <p style="text-align:center;"><em>La Princesa</em></p>
 
-Solo adoro al único gran Dios. No respeto a Shiva. Tampoco adoro ni a Brahma ni a Visnú. No temo <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> a vuestros dioses. Tened presente que quien los invoque ya está muerto, pero la muerte no se acercará a quien medite en el Inmortal. Quien medite en el Inmortal e invoque su nombre una sola vez, obtendrá riqueza y perfección en cada acto. Quien medite en el Dios inmortal nunca sufrirá, sino que disfrutará de gran felicidad en el mundo. Cuando la muerte te torture, oh Brahmán, ¿qué libro leerás entonces? ¿Será el Bhagavad Gita o el Bhagavad Gita? ¿Te aferrarás a Ram o a Krishan para protegerte? Los dioses que consideras supremos han sido destruidos por la maza de la Muerte. Nadie, ni siquiera Brahma, Visnú o Indar, puede escapar de ella. Los dioses nacieron como los demonios, y ambos están sujetos a la transmigración. Los hindúes y los turcos son iguales, y la muerte los domina a todos. A veces, los demonios mataban a los dioses, y a veces, los dioses a los demonios. El Ser que destruyó tanto a los dioses como a los demonios es Aquel que me aprecia y a quien he tomado como mi Gurú. Me inclino ante Aquel cuya soberanía se reconoce en los catorce mundos, quien destruyó a Indar, Visnú, el sol, la luna, Kuver, Varun y Sheshnag.
+Solo adoro al único gran Dios. No respeto a Shiva. Tampoco adoro ni a Brahma ni a Visnú. No temo <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> a vuestros dioses. Tened presente que quien los invoque ya está muerto, pero la muerte no se acercará a quien medite en el Inmortal. Quien medite en el Inmortal e invoque su nombre una sola vez, obtendrá riqueza y perfección en cada acto. Quien medite en el Dios inmortal nunca sufrirá, sino que disfrutará de gran felicidad en el mundo. Cuando la muerte te torture, oh Brahmán, ¿qué libro leerás entonces? ¿Será el Bhagavad o el [^4] Gita? ¿Te aferrarás a Ram o a Krishan para protegerte? Los dioses que consideras supremos han sido destruidos por la maza de la Muerte. Nadie, ni siquiera Brahma, Visnú o Indar, puede escapar de ella. Los dioses nacieron como los demonios, y ambos están sujetos a la transmigración. Los hindúes y los turcos son iguales, y la muerte los domina a todos. A veces, los demonios mataban a los dioses, y a veces, los dioses a los demonios. El Ser que destruyó tanto a los dioses como a los demonios es Aquel que me aprecia y a quien he tomado como mi Gurú. Me inclino ante Aquel cuya soberanía se reconoce en los catorce mundos, quien destruyó a Indar, Visnú, el sol, la luna,[^5] Kuver, Varun y Sheshnag.
 
 <p style="text-align:center;"><em>El Brahmán</em></p>
 
@@ -138,7 +138,7 @@ Di ahora, oh Brahmán, ¿adónde se ha ido tu Shiv? Aquel a quien siempre has se
 
 <p style="text-align:center;"><em>El poeta</em></p>
 
-La princesa distribuyó todos los bienes que le quitó al brahmán entre los demás brahmanes y luego le dijo a su antagonista: “No te preocupes, recibirás diez veces más en el próximo mundo”. [^6]
+La princesa distribuyó todos los bienes que le quitó al brahmán entre los demás brahmanes y luego le dijo a su antagonista: «No te preocupes, recibirás diez veces más en el próximo mundo». [^6]
 
 <p style="text-align:center;"><em>La Princesa</em></p>
 

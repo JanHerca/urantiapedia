@@ -707,7 +707,7 @@ The true Guru hath united me with God, the Lord of excellences.
 
 The following is a description of Maya, or worldly love :—
 
-On her forehead is a frown,! her look is sour,
+On her forehead is a frown,[^40] her look is sour,
 Bitter is her speech, rude her tongue ;
 She is ever hungry, she thinketh God is distant _and seeth her not_.
 Such a female hath the one God created.
@@ -857,7 +857,7 @@ The servant who serveth the Guru, O Nanak, is a slave of the Lord.
 Devotion is pleasing to the Lord and procures the fulfilment of desires :—
 
 Sing God’s praises and thou shalt obtain great happiness, comfort, and delight.
-If the true Guru give His name, evil influences? shall be removed.
+If the true Guru give His name, evil influences[^47] shall be removed.
 I am ever and ever a sacrifice to my Guru ;
 I devote myself to the Guru by meeting whom I have obtained my real object.
 He who remembereth not God believeth in good and bad omens.
@@ -872,7 +872,7 @@ The Guru sings God’s praises on every occasion :—
 I sing God’s praises at home, I sing them abroad, I sing them awaking in the morning.
 I, who deal in God’s name, have obtained it as my viaticum _from the Guru_,
 And completely forgotten all things beside.
-The perfect Guru hath given me the gift of the Name ; it is my only support. <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
+The perfect Guru hath given me the gift of the Name ; it is my only support. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 In woe I sing _God’s praises_, in weal I sing them; on my way I remember them.
 The Guru hath firmly fixed the Name in my heart and slaked my thirst. |
 I sing _God’s praises by_ day, I sing them by night, I sing them with my tongue at every breath.
@@ -917,7 +917,7 @@ Thou greatly delightest in slander, and art wrong-headed.<span id="p308"><sup><s
 Thou covetest thy neighbour’s wealth, son, and wife, and like a mad dog eatest what ought not to be eaten.
 Thou hast no love for the true faith ; on hearing the truth thou becomest angry.
 O compassionate to the poor, merciful Lord God, Thy name is the support of the saints.
-O God, Nanak hath gladly entered Thine asylum; be mindful of Thine own honour.!
+O God, Nanak hath gladly entered Thine asylum; be mindful of Thine own honour.[^52]
 
 An exhortation to man to abandon worldly love :—
 

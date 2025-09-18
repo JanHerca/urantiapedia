@@ -772,7 +772,7 @@ God is everywhere, there is no place without Him ; He is with thee, Nanak, wheth
 W. Bear not enmity to any one—
 God is contained in every heart ;
 He is contained in sea and land ;
-By the favour of the Guru some rare person singeth _His pratses_.
+By the favour of the Guru some rare person singeth _His praises_.
 Enmity and jealousy shall depart from the heart of him
 Who under the Guru’s instruction heareth God’s praises.
 Nanak, he who under the Guru’s instruction repeateth God’s name,
@@ -811,7 +811,7 @@ Thou art omnipotent, infinite,[^31] and illimitable.
 O Compassionate One, protect us who have fallen under Thy protection !
 _Saith_ Nanak, O God, we are Thy children.
 
-<p style="text-align:center;">SLOK KLIX</p>
+<p style="text-align:center;">SLOK XLIX</p>
 
 When pride is erased, happiness resulteth, the mind and body are healed,<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 Nanak, and He who is worthy of praise becometh manifest.

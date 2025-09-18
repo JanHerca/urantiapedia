@@ -71,7 +71,7 @@ Cuando tu propia fuerza no te sirva, junta las manos y adora a Dios.
 
 Jai Ram presentó a Nanak como un hombre culto al gobernador Daulat Khan, quien lo nombró tendero y le otorgó una vestimenta honoraria como preámbulo de su servicio. Nanak comenzó a dedicarse a sus deberes, desempeñándolos de tal manera que todos se sintieron complacidos y lo felicitaron. También recibió grandes elogios del gobernador, quien se mostró muy complacido con su nuevo sirviente. De las provisiones que Gurú Nanak recibió, dedicó solo una pequeña parte a su propio sustento; el resto lo dio a los pobres. Solía ​​pasar las noches entonando himnos a su Creador.
 
-Si Nanak, al pesar provisiones, llegaba hasta el número trece —tera— solía hacer una pausa y repetir varias veces la palabra —que también significa 'Tuyo', es decir, 'Yo soy Tuyo, Oh Señor'— antes de continuar pesando.
+Si Nanak, al pesar provisiones, llegaba hasta el número trece —tera— solía hacer una pausa y repetir varias veces la palabra —que también significa «Tuyo», es decir, «Yo soy Tuyo, Oh Señor»— antes de continuar pesando.
 
 El trovador Mardana llegó posteriormente desde Talwandi y se convirtió en sirviente privado de Nanak. Mardana pertenecía a la tribu de los dums, quienes son trovadores por herencia. Solía ​​acompañar a Nanak en el rabab o rabel.[^1] Otros amigos también lo siguieron. Nanak los presentó al Khan y les consiguió empleo. Todos se ganaron la vida gracias a la preferencia de Nanak y eran felices. A la hora de cenar, iban a sentarse con él, y todas las noches había cantos continuos. Una vigilia antes del amanecer, Nanak solía ir al cercano río Bein a realizar sus abluciones. Al amanecer, iba a cumplir con las obligaciones de su cargo.
 
@@ -131,7 +131,7 @@ En aquella época, la creencia general era que Nanak estaba poseído por un esp�
 Cuando el campo está dañado ¿dónde está el montón de la cosecha?
 Malditas sean las vidas de quienes escriben el nombre de Dios y lo venden.
 
-El Mulá, sin prestar atención a la seria objuración de Nanak, continuó la ceremonia de exorcismo y finalmente se dirigió al supuesto espíritu maligno: "¿Quién eres?". La siguiente respuesta salió de la boca de Nanak:
+El Mulá, sin prestar atención a la seria objuración de Nanak, continuó la ceremonia de exorcismo y finalmente se dirigió al supuesto espíritu maligno: «¿Quién eres?». La siguiente respuesta salió de la boca de Nanak:
 
 Algunos dicen que el pobre Nanak es un duende, otros dicen que es un demonio,
 Otros más que es un hombre.
@@ -264,7 +264,7 @@ Ante esto, los faquires besaron los pies del Gurú. El Gobernador también acudi
 
 [^1]: Sri Rag.
 
-[^2]: La traducción ordinaria de _Gur parsâd_, 'Por el favor del Gurú', no parece apropiada aquí.
+[^2]: La traducción ordinaria de _Gur parsâd_, «Por el favor del Gurú», no parece apropiada aquí.
 
 [^1]: Sri Rag.
 
@@ -272,7 +272,7 @@ Ante esto, los faquires besaron los pies del Gurú. El Gobernador también acudi
 
 [^2]: Maru.
 
-[^1]: En el original, 'ser llamado musulmán'. El mismo modismo se encuentra en griego.
+[^1]: En el original, «ser llamado musulmán». El mismo modismo se encuentra en griego.
 
 [^2]: También traducido—(_a_) Que primero haga que su religión sea agradable a los hombres; (_b_) que primero ame a sus santos y a su religión.
 

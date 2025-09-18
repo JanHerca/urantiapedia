@@ -1546,7 +1546,7 @@ Meditate on Him in thy heart who was, is, and ever shall be.
 He who made millions of Indars, He who made and destroyed some millions of Bawans, 
 Demons, demigods, serpents, Sheshnags, birds and beasts innumerable, 
 To whom till to-day Shiv and Brahma are doing penance without finding His limit, 
-He whose secrets the Veds and the Quran have not penetrated, is the great Being whom the Guru[^112] hath shown me. 
+He whose secrets the Veds and the Quran have not penetrated, is the great Being whom the Guru[^113] hath shown me. 
 
 <p style="text-align:center;">XVIII</p>
 

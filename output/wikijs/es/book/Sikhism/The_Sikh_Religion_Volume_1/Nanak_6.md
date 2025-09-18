@@ -129,7 +129,7 @@ Id y preguntad a las felices esposas[^1] por qué medios obtuvieron su Esposo—
 'Aplica tu mente a la adoración de Sus pies por cuyo amor se obtiene lo que más se valora.[^2]
 «Haz todo lo que el Esposo te ordene; entrégale tu cuerpo y tu alma; tales perfumes son aplicables.»[^3]
 Así hablan las felices esposas:[^4] 'Oh hermana, por estos medios se obtiene el Esposo.
-'Desapóyate y obtendrás al Esposo; ¿qué otro arte hay?'
+«Desapóyate y obtendrás al Esposo; ¿qué otro arte hay?»
 Solamente importa el día en que el Esposo mira con agrado, pues entonces la esposa habrá obtenido las riquezas del mundo.
 Ella que complace a su esposo es la feliz esposa Nanak, ella es la reina de todos ellos.
 Ella está saturada de placer, intoxicada de felicidad,[^5] y día y noche absorta en Su amor.

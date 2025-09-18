@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:57:16Z
 
 ## CAPÍTULO X
 
-Lo que se conoce como el Granth del décimo Gurú es solo parcialmente de su composición. La mayor parte fue escrita por bardos a su servicio. Las dos obras tituladas Chandi Charitar y Bhagauti ki War que se encuentran en él son traducciones abreviadas, realizadas por diferentes autores, del Durga Sapt Shati, o setecientos sloks sobre Durga, un episodio del Markandeya Puran sobre las luchas de la diosa Durga con los demonios que habían declarado la guerra a los dioses.
+Lo que se conoce como el Granth del décimo Gurú es solo parcialmente de su composición. La mayor parte fue escrita por bardos a su servicio. Las dos obras tituladas Chandi Charitar y Bhagauti ki War que se encuentran en él son traducciones abreviadas, realizadas por diferentes autores,[^1] del Durga Sapt Shati, o setecientos sloks sobre Durga, un episodio del Markandeya Puran sobre las luchas de la diosa Durga con los demonios que habían declarado la guerra a los dioses.
 
 ## CHANDI CHARITAR I
 
@@ -55,11 +55,11 @@ Los santos que continuamente meditan en ti, oh Chandi, obtendrán al final la sa
 Esto no está en el sánscrito original, pero un creyente en Chandi puede inferir el sentido general de su propia autoglorificación en el canto nonagésimo segundo.
 El primer Chandi Charitar comienza así: _Ek oamkar, Sri Wahguru ji ki fatah. Ath Chandi Charitar ukt bilas_—Ahora se contará (ukt) el relato (bilas) de los hechos de Chandi. El segundo Chandi Charitar comienza de la misma manera, pero sin las palabras ukt bilas. La Bhagauti ki War comienza así: _Ek oamkar Sri Wahguru ji ki fatah ! Sri Bhagauti ji sahai! War Sri Bhagauti ji ki Patshahi das_—Hay un solo Dios. ¡Victoria al santo Wahguru! ¡Imploramos el favor de la santa Bhagauti (Espada)! El himno de la santa Bhagauti del décimo Gurú. Por lo tanto, parece que la Bhagauti ki War fue escrita por el propio décimo Gurú.
 
-Los hindúes sostienen que en los escritos del décimo Gurú la palabra Bhagauti significa Durga. En los dos Chandi Charitars la palabra Bhagauti no aparece en absoluto, e incluso en el Bhagauti ki War solo se encuentra tres veces: una en el título de la composición, una segunda en la primera línea y una tercera en otro lugar. En este último caso, _Lai Bhagauti Durg shah_, es claro que la palabra Bhagauti significa una espada: 'La diosa Durga tomó la espada'. Esto también lo atestigua Gur Das. En el sexto pauri de su vigésimo quinto War, se refiere a la manera en que a menudo se altera el significado de las palabras y escribe: _Nam bhagauti loh gharaya_ —El hombre ha creado lo que se llama la espada (bhagautt) del hierro.
+Los hindúes sostienen que en los escritos del décimo Gurú la palabra Bhagauti significa Durga. En los dos Chandi Charitars la palabra Bhagauti no aparece en absoluto, e incluso en el Bhagauti ki War solo se encuentra tres veces: una en el título de la composición, una segunda en la primera línea y una tercera en otro lugar. En este último caso, _Lai Bhagauti Durg shah_, es claro que la palabra Bhagauti significa una espada: «La diosa Durga tomó la espada». Esto también lo atestigua Gur Das. En el sexto pauri de su vigésimo quinto War, se refiere a la manera en que a menudo se altera el significado de las palabras y escribe: _Nam bhagauti loh gharaya_ —El hombre ha creado lo que se llama la espada (bhagautt) del hierro.
 
 Como prueba adicional de que Bhagauti no significa Durga en las escrituras Sikh, se cita la siguiente línea del Ad Granth: Bhagautt mudra man mohya maya, cuya traducción es: Los hombres llevan las marcas de Dios mientras sus mentes están fascinadas con Mammon.
 
-Los siguientes son los dos primeros pauris del “War Sri Bhagauti ji ki”.
+Los siguientes son los dos primeros pauris del «War Sri Bhagauti ji ki».
 
 <span id="p82"><sup><small>[ pág. 82 ]</small></sup></span>
 
@@ -84,11 +84,11 @@ La última línea de la Guerra de Bhagauti ki es:
 
 El que esto cantó no nació de nuevo, es decir, obtuvo liberación.
 
-Esta línea da el significado del vigésimo segundo verso del canto nonagésimo segundo del 'Markandeya Puran'.
-La línea de pensamiento mediante la cual el Gurú hizo <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> a Dios y a la espada uno fue la siguiente: En el 'Shastar Nam Mala' se lee:
+Esta línea da el significado del vigésimo segundo verso del canto nonagésimo segundo del «Markandeya Puran».
+La línea de pensamiento mediante la cual el Gurú hizo <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> a Dios y a la espada uno fue la siguiente: En el «Shastar Nam Mala» se lee:
 
 Primero menciono la palabra shatru (un enemigo) y luego la palabra daman (subyugador).
-Sabed que las palabras compuestas significan: "Señor del mundo": estad seguros de ello.
+Sabed que las palabras compuestas significan: «Señor del mundo»: estad seguros de ello.
 
 El significado es: Dios somete a los enemigos, lo mismo hace la espada; por lo tanto, la espada es Dios, y Dios es la espada.
 

@@ -155,7 +155,7 @@ El Gurú sintió aún más afecto por el leproso y lo bendijo. El leproso se cur
 
 <span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
-El Gurú viajó entonces por Sultanpur —su antigua sede cuando era funcionario del gobierno—, Vairowal y Jalalabad, hasta llegar a un lugar llamado Kari Pathandi, en el distrito de Amritsar. En Kari Pathandi, convocó a muchos pastunes. Solían cantarle serenatas con música instrumental, intercaladas con gritos de "¡Salud al rey Nanak!". Allí, el Gurú compuso lo siguiente:
+El Gurú viajó entonces por Sultanpur —su antigua sede cuando era funcionario del gobierno—, Vairowal y Jalalabad, hasta llegar a un lugar llamado Kari Pathandi, en el distrito de Amritsar. En Kari Pathandi, convocó a muchos pastunes. Solían cantarle serenatas con música instrumental, intercaladas con gritos de «¡Salud al rey Nanak!». Allí, el Gurú compuso lo siguiente:
 
 El que hizo el mundo vela por él; ¿qué diremos, oh hermano?
 El mismo que diseñó su jardín lo sabe y actúa.
@@ -320,10 +320,10 @@ El hombre será bueno o malo, oh Señor, según cómo lo mires.
 El Ser Primordial se llama ahora Alá; ha llegado el turno de los Shaikhs.
 Existe un impuesto sobre los santuarios de los dioses; tal es la práctica establecida.
 Hay ollas para abluciones, llamadas a la oración, cinco oraciones diarias, alfombras de oración y Dios aparece vestido de azul.[^1]
-En cada casa todos decís 'Mian';[^2] vuestro lenguaje ha sido cambiado.
+En cada casa todos decís «Mian»;[^2] vuestro lenguaje ha sido cambiado.
 Puesto que Tú, que eres el Señor de la tierra, has designado a Babar como Mir,[^3] ¿qué poder tenemos nosotros?
 En las cuatro direcciones los hombres te rinden homenaje, y tus alabanzas se pronuncian en cada casa.
-El beneficio que se obtiene de las peregrinaciones, repitiendo los Simritis[4] y dando limosna durante todo el día,
+El beneficio que se obtiene de las peregrinaciones, repitiendo los Simritis[^4] y dando limosna durante todo el día,
 Se obtiene, oh Nanak, en un ghari al recordar el Nombre que confiere grandeza.[^5]
 
 Los hindúes y musulmanes que regresaron a Saiyidpur comenzaron a deshacerse de sus muertos, y hubo llanto y duelo en cada casa. La gente decía: «Fulano de tal era el difunto». Ante esto
@@ -533,7 +533,7 @@ pronunciamiento.
 
 [^6]: Esto se refiere a la vida nómada que prevalecía alrededor de la aldea natal del Gurú.
 
-[^1]: ¡Ay, ay! Hay un juego de palabras con la palabra "ay". Significa "¡Ay!", y Él (Dios) existe.
+[^1]: ¡Ay, ay! Hay un juego de palabras con la palabra «ay». Significa «¡Ay!», y Él (Dios) existe.
 
 [^2]: Âsa Ashtapadi.
 

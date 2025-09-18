@@ -32,6 +32,8 @@ dateCreated: 2025-2-12T12:8:26Z
   </table>
 </figure>
 
+## CHAPTER VII
+
 When Har Gobind had completely recovered, there were illuminations and great rejoicings. Prithia’s wife, however, kept raw the sore of her husband’s inflamed mind : ‘ My lord and master, thy words have proved false. Thine enemies increase daily like the waxing, while thou decreasest like the waning moon. I cannot endure Arjan’s greatness, therefore I will either drown or poison myself.’
 
 Prithia sent for Har Gobind’s male nurse and said to him: ‘Thou art a high Brahman and on that account I ever take thought for thee. What are thy wages? ‘Thou wearest no necklace and no bracelets. Arjan squandereth on others and boasteth of his generosity. Thou gottest nothing even when the child was born. My friend, if thou do business for me, I will fill thy house with wealth, and thou shalt not want for jewellery. But since thou art intimate with Arjan’s family, I will only tell thee what I wish thee to do on thy taking an oath on thy janeu to keep my secret.’ When the servant complied, Prithia said, ‘ Take five hundred rupees from me and kill that boy. I will show thee how to doit. Thou wilt not find it difficult, for he is all day with thee. Put poison either in curds or bread-pudding, and extract the thorn from mine eyes. I will give thee half of the money now, and the other half when thou hast done the deed. Fear not in the slightest.’
@@ -152,7 +154,11 @@ The Sikhs and the saints are as children ; the holy Guru is their cherisher ; th
 
 On hearing this the Brahman’s pride was thoroughly humbled, and he was obliged to admit that the Sikhs were better than his own co-religionists. His burning heart obtained comfort from the Guru’s instruction. He threw away his salagram, began to utter the true Name, was initiated into the Sikh religion, and thus obtained salvation. Several other learned pandits followed his example, and accepted the pure faith of Guru Nanak.
 
-Paira reached Ceylon with great difficulty, as was natural considering the restricted travelling expenses allowed him. The King of Ceylon received him with respect, treated him hospitably, and gave him the required volume, with a letter and many presents <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> for the Guru, and allowed him to depart on his return journey to Amritsar. The Pransangali was subsequently stolen by a pretended sadhu, or holy man.
+Paira reached Ceylon with great difficulty, as was natural considering the restricted travelling expenses allowed him. The King of Ceylon received him with respect, treated him hospitably, and gave him the required volume, with a letter and many presents <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> for the Guru, and allowed him to depart on his return journey to Amritsar. The Pransangali was subsequently stolen by a pretended sadhu, or holy man.[^15]
+
+## CHAPTER VII
+
+<small>(Note: There are two chapters title as VII in the original edition)</small>
 
 Guru Arjan now felt the necessity of laying down rules for the guidance of his followers in the performance of their daily religious duties and expiatory rites. This course would reduce his religion to consistency, and hinder divergent tenets and rituals. That consummation, however, could only be attained when the exact words of the Gurus were permanently recorded in one grand volume. The Guru was strengthened in this determination by information he continually received that Prithia was composing religious hymns of his own which he described as the compositions of Guru Nanak and his successors, and the ignorant populace had not sufficient intelligence to discriminate. Guru Amar Das, in the twentythird and twenty-fourth pauris of the Anand, had decided that only the real hymns of the Guru should be repeated and reverenced by Sikhs. Accordingly, such compositions should be collected and arranged for the guidance of the faithful. Nothing but evil could result from the hymns which Prithia endeavoured to impose upon the public.
 
@@ -300,7 +306,7 @@ A Muhammadan poet called Alim in A.H. 991 <span id="p65"><sup><small>[ p. 65 ]</
 
 The Guru invited all his Sikhs to see the precious compilation, the fruit of so much anxious labour, and distributed sacred food amongst them as a thanksgiving for the completion of his toil. The volume was by the advice of Bhai Budha and Bhai Gur Das deposited in the Har Mandar.
 
-At the conclusion of his task the Guru told his Sikhs that the Granth Sahib was the embodiment of the Gurus, and should therefore be held in extreme reverence. He then considered to whom he could entrust the sacred volume. If he entrusted it to the Bedis, Tehans, Bhallas, or Sodhis—the tribes from whom the Gurus had sprung—they might become proud, and consider themselves far superior to their surroundings; or they might perchance, owing to their mutual jealousies and quarrels, treat it with disrespect. He therefore decided on giving charge of it to Bhai Budha, who had seen Guru Nanak, whose devotion had been often tried, and who would perform the duty with reverence and love.”
+At the conclusion of his task the Guru told his Sikhs that the Granth Sahib was the embodiment of the Gurus, and should therefore be held in extreme reverence. He then considered to whom he could entrust the sacred volume. If he entrusted it to the Bedis, Tehans, Bhallas, or Sodhis—the tribes from whom the Gurus had sprung—they might become proud, and consider themselves far superior to their surroundings; or they might perchance, owing to their mutual jealousies and quarrels, treat it with disrespect. He therefore decided on giving charge of it to Bhai Budha, who had seen Guru Nanak, whose devotion had been often tried, and who would perform the duty with reverence and love.[^26]
 
 Supplementary to the instructions contained in the Granth Sahib the Guru prescribed the rites to be observed on the decease of a Sikh, and also on occasions of rejoicing.
 

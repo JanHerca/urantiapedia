@@ -207,3 +207,7 @@ Without a true guru the way is not found.
 [^23]: Over the division of the offerings. Possibly, however, _badan_ (quarrel) is for _baman_ (woman) which would rhyme with _chiraman_ in the preceding line. If _baman_ be read, the translation will be—Thou lookest severely on women _by day_, but by night thou lovest them.
 
 [^24]: So as to have a change after bathing.
+
+[^25]: According to the Tan far Shastar, there must be four circles for Kali s attendant divinities, Ganesh, KshetarpSl, Bhairav, and Yogini.
+
+[^26]: Rudrakhan, the Sanskrit _rudraksh_. A necklace made of the berries of the eleocarpus. This is generally worn by the worshippers basil is folIowers of Vishnu who carry rosaries of sweet basil.

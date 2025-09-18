@@ -220,7 +220,7 @@ Oh Creador, todo el mundo está en tu poder.
 Medita en la única Palabra; donde Tú, oh Dios, estás, ¿qué más se necesita?
 Ve y pregúntale a la feliz esposa por qué méritos goza de su Esposo.
 'La compostura, la satisfacción y el dulce discurso son mis adornos.
-'Conocí a mi Amado, que es una morada de placer, cuando escuché la palabra del Gurú.'
+«Conocí a mi Amado, que es una morada de placer, cuando escuché la palabra del Gurú.»
 ¡Cuán grande es, oh Dios, tu poder! ¡Cuán grandes tus dones!
 ¡Cuántos hombres y animales inferiores pronuncian tus alabanzas día y noche!
 ¡Cuántas son tus formas y colores! ¡Cuántas castas altas y bajas!

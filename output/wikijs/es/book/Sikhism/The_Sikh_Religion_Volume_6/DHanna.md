@@ -150,7 +150,7 @@ La esclava Dhanna te suplica. [^12]
 
 [^10]: Sidha, literalmente, alimento crudo que se da a los faquires, generalmente se refiere a harina. Algunos leen sindha, que significa sal de roca.
 
-[^11]: Y; sat sika es lo mismo que _satnaja_, 'una mezcla de siete tipos de grano otorgada a una casta de personas llamada Dakaunt en ciertas ocasiones, para el beneficio de una persona que se supone está bajo la influencia maligna de algún planeta, siendo el grano igual en peso al cuerpo de la persona'— Diccionario Ludhiana PanjdU.
+[^11]: Y; sat sika es lo mismo que _satnaja_, «una mezcla de siete tipos de grano otorgada a una casta de personas llamada Dakaunt en ciertas ocasiones, para el beneficio de una persona que se supone está bajo la influencia maligna de algún planeta, siendo el grano igual en peso al cuerpo de la persona»— Diccionario Ludhiana PanjdU.
   _Anaj sat sika_ también se traduce como maíz cultivado en un campo arado siete veces, llamado en panjabi _sat sian lanian_.
 
 [^12]: Como pedir favores mundanos a Dios se considera incompatible con el carácter santo, los gyanis han ejercitado su ingenio para encontrar uno o más significados fantasiosos para casi todos los sustantivos del himno mencionado. Por ejemplo, dal se refiere a la sumisión de las pasiones, sJdha, o harina, a la rectitud, ghi al amor de Dios, etc. Quienes lo deseen pueden adoptar estas interpretaciones. Sin embargo, debe recordarse que Dhanna era agricultor y, por el bien de su vocación y su sustento, por no hablar de sus devociones, generalmente necesitaba aquello por lo que oraba.

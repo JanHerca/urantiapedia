@@ -32,11 +32,13 @@ dateCreated: 2025-2-12T12:8:12Z
   </table>
 </figure>
 
-ASA KI WAR[^1]
+## ASA KI WAR
+
+[^1]
 
 THERE is but one God whose name is true, the Creator, devoid of fear and enmity, immortal, unborn, self-existent, great and beneficent.
 
-GURU HAR GOBIND
+## GURU HAR GOBIND
 
 This _War_ includes _sloks_. The _sloks_ also were written by the first Guru, and should be sung to the air of ‘Tunda As Raja’.[^2]
 
@@ -86,14 +88,6 @@ True Thy praises, true _Thy_ eulogies
 True Thy might, O true King.
 Nanak, true are they who meditate on the True One.
 They who are born and die are the falsest of the false.[^4]
-
-[^1]: The _pauris_ in this collection are all by Guru Nanak, so in the original his name is omitted at their head.
-
-[^2]: In Sanskrit literature, Mâya is styled _anâdi_, without a beginning, hence uncreated, but this is not the doctrine of the Gurus. To believe that God did not create Mâya would be to believe in a limitation of His power.
-
-[^3]: Also translated—Thou givest and takest life from the body.
-
-[^4]: _Koch_ is here used as the correlative of _sach_, true.
 
 <span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
@@ -213,16 +207,6 @@ The True One is obtained.
 Let all the gharis be your milkmaids, and the pahars your Krishans and Gopals[^5]:
 Let wind, water, and fire be your jewels; and the moon and sun your avatars;
 
-[^1]: Also translated—How many expound the Veds!
-
-[^2]: Also translated—draw a crowd around them. This hymn purports to give a brief description of the miracle-plays of Ram and Krishan.
-
-[^3]: Literally—speak of the upper and lower regions.
-
-[^4]: _Lâkh takiân_. _Takâ_ is really a double pice, or about a halfpenny of English money, but in the plural it means money in general.
-
-[^5]: _Gopâls_ are herdsmen among whom Krishan used to sport.
-
 <span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 The whole earth your _stage_ properties and vessels, which are all entanglements.
@@ -304,10 +288,6 @@ God hath put Himself into the true Guru; He hath made manifest and proclaimed th
 Salvation is ever obtained by meeting the true Guru who hath banished worldly love from within him.
 Best are the meditations of him who hath fixed his mind on the True One:
 He hath found the Giver of life to the world.
-
-[^1]: And have done nothing meritorious in this birth.
-
-[^2]: This verse is also translated—Many depart from here after spending what they possessed; had they any other business _in this world_?
 
 <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
@@ -1000,6 +980,14 @@ He doeth what He pleaseth.
 
 [^2]: By separating from Himself.
 
+[^1]: The _pauris_ in this collection are all by Guru Nanak, so in the original his name is omitted at their head.
+
+[^2]: In Sanskrit literature, Mâya is styled _anâdi_, without a beginning, hence uncreated, but this is not the doctrine of the Gurus. To believe that God did not create Mâya would be to believe in a limitation of His power.
+
+[^3]: Also translated—Thou givest and takest life from the body.
+
+[^4]: _Koch_ is here used as the correlative of _sach_, true.
+
 [^1]: Also translated—By Thy power was created animate and inanimate nature.
 
 [^2]: _Mân abhmân_. The latter word is for _apmân_, as so often in the Granth Sahib. Compare _mân abhimân madhê so sewak nâhîn_, He who hath regard for honour or dishonour is not a holy man.
@@ -1009,6 +997,16 @@ He doeth what He pleaseth.
 [^2]: _Adânê_, from the Sanskrit _ûdûgan_. The phrase is also translated—In fear is the firmament extended.
 
 [^3]: Literally—God hath written the destiny of fear on tile heads of all.
+
+[^1]: Also translated—How many expound the Veds!
+
+[^2]: Also translated—draw a crowd around them. This hymn purports to give a brief description of the miracle-plays of Ram and Krishan.
+
+[^3]: Literally—speak of the upper and lower regions.
+
+[^4]: _Lâkh takiân_. _Takâ_ is really a double pice, or about a halfpenny of English money, but in the plural it means money in general.
+
+[^5]: _Gopâls_ are herdsmen among whom Krishan used to sport.
 
 [^1]: _Jhâlâ_ is a woman's head of hair. The actors, who in India are generally all men, wear female wigs.
 
@@ -1023,11 +1021,15 @@ admitted.
   (_a_) Treat men according to their acts.
   (_b_) Treat others as thou wouldst be treated thyself.
 
+[^1]: And have done nothing meritorious in this birth.
+
+[^2]: This verse is also translated—Many depart from here after spending what they possessed; had they any other business _in this world_?
+
 [^1]: Literally-Have not put their feet into evil.
 
 [^2]: There are two forms of Jog or exercise for the union of the soul with God. _Sahaj jog_ or _râj jog_ is the repetition of God's name with fixed attention and association with the holy, as contradistinguished from the _hath jog_ of Patanjali, the severest and most painful form of a Jogi's austerities.
 
-\[1 Several faqîrs do not eat corn, some go naked, some practise perpetual silence, some go barefooted, some eat filth, &c.
+[^1]: Several faqîrs do not eat corn, some go naked, some practise perpetual silence, some go barefooted, some eat filth, &c.
 
 [^2]: The gyanis generally translate—If a man go barefooted, he is _merely_ suffering for his folly.
 

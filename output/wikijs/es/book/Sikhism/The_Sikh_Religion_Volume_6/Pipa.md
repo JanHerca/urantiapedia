@@ -70,7 +70,7 @@ Pipa, en más ocasiones de las que se pueden relatar, mostró una marcada defere
 
 Había un brahmán amigo de Pipa que adoraba a Durga. Pipa preparó un banquete religioso en casa del brahmán, comió él mismo e indujo al brahmán a hacer lo mismo. Por intercesión de Pipa, se relata que Durga se manifestó al brahmán. Su corazón se purificó y comenzó a adorar a Dios en lugar de a un ídolo.
 
-Una hermosa mujer que vendía aceite solía decir: "¡Compra mi aceite! ¡Compra mi aceite!". Pipa dijo que sería más apropiado para sus labios pronunciar el nombre de Dios. La mujer se enojó y respondió que solo era costumbre pronunciar el nombre de Dios cuando alguien moría. Al llegar a casa, encontró a su esposo muerto. Se convirtió en creyente, se postró a los pies de Pipa y prometió pronunciar el nombre de Dios con toda su familia. Se dice que, tras esto, Pipa devolvió la vida a su esposo.
+Una hermosa mujer que vendía aceite solía decir:«¡Compra mi aceite! ¡Compra mi aceite». Pipa dijo que sería más apropiado para sus labios pronunciar el nombre de Dios. La mujer se enojó y respondió que solo era costumbre pronunciar el nombre de Dios cuando alguien moría. Al llegar a casa, encontró a su esposo muerto. Se convirtió en creyente, se postró a los pies de Pipa y prometió pronunciar el nombre de Dios con toda su familia. Se dice que, tras esto, Pipa devolvió la vida a su esposo.
 
 <span id="p118"><sup><small>[ pág. 118 ]</small></sup></span>
 

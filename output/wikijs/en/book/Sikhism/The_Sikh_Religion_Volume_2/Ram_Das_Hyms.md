@@ -329,7 +329,7 @@ Man ought to keep watch over his refractory mind :—
 
 ## GAURI KARHALE
 
-O refractory [^8] soul[^9] who comest from afar, how shalt thou meet God <
+O refractory [^8] soul[^9] who comest from afar, how shalt thou meet God ?
 When I found the Guru by perfect good fortune, the Beloved came and embraced me.
 O refractory soul, meditate upon the True Guru ;
 O refractory and wretched soul, meditate on God’s name,
@@ -640,7 +640,7 @@ Under the Guru’s instruction I have meditated on the Unseen and Inapprehensibl
 On singing the true Guru’s hymns the voice of the unbeaten strain ever resoundeth.
 Nanak, God the Giver bestowed on me a gift—my light hath blended with His.
 The perverse die in their perversity, saying their property was their own.
-They attach their hearts to skin-covered filth? which cometh for a moment and in a moment departeth :
+They attach their hearts to skin-covered filth[^17] which cometh for a moment and in a moment departeth :
 They attach their hearts to skin-covered filth which is fleeting as the dye of the safflower.
 They go now to the east, and now to the west, as a potter’s wheel revolveth.
 In sorrow they eat, in sorrow they amass and enjoy ; they extend their increase of sorrow.
@@ -912,7 +912,7 @@ The Guru hath put divine knowledge as a bit into the mouth,
 And applied God’s love as a whip to the body :
 The pious man who hath conquered his own mind, applieth God’s love as a whip to his body.
 He obtaineth the Word, fashioneth his unfashioned mind, and drinketh God’s nectar.
-He who heareth the Word which the Guru uttereth, dyeth his steed with God’s colour,[^26]
+He who heareth the Word which the Guru uttereth, dyeth his steed with God’s colour,[^27]
 Traverseth the great and difficult way, O Nanak, and crosseth over.
 God created the body a fleet mare.
 The body by which God’s name is repeated is blest, is blest.
@@ -1343,7 +1343,7 @@ When the Guru causeth man to taste the water of God’s name, he enjoyeth it and
 I have thoroughly examined and searched my body ; the holy man showed me a sight—
 All the apostates were dying of searching abroad, while I under the Guru’s instruction found God at home.
 God hath been compassionate to the poorest of the poor as when Krishan went to Bidur’s house.
-Sudama[^41] went to Krishan with love, upon which Krishan removed his poverty, and rendered him happy.
+Sudama[^42] went to Krishan with love, upon which Krishan removed his poverty, and rendered him happy.
 Great is the honour of God’s name; my Lord Himself hath bestowed it on me.
 If all the apostates were to practise slandering it, that would in no wise lessen it.
 God’s name is His servant’s praise by which he obtaineth honour in every direction.

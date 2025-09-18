@@ -509,7 +509,7 @@ Thus shall thy body not suffer pain, and thou shalt obtain everything.
 
 <p style="text-align:center;">LXXIX</p>
 
-Farid, the birds [^xx1] are guests in the beautiful garden of the world ;
+Farid, the birds [^48] are guests in the beautiful garden of the world ;
 The morning drum beateth ; make preparations for thy departure.
 
 <p style="text-align:center;">LXXX</p>

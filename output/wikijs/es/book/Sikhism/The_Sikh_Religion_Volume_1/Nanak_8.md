@@ -118,7 +118,7 @@ El Dador, el Organizador del mundo da Sus dones, Nanak, y Él es verdadero.
 
 Cuando Él mismo actúa, ¿a quién debemos quejarnos? Nadie más actúa.
 
-Nanak continuó dirigiéndose a Kalu: «Padre querido, es Dios quien organiza los matrimonios. Él no se equivoca, y a quienes una vez unió, los une para siempre». Con estas palabras, el Gurú quizá pretendía establecer la monogamia[2]. La madre del Gurú intervino entonces y le pidió a su hijo que se levantara, los acompañara y dejara de tonterías. Obtendría riquezas cumpliendo con sus deberes mundanos. El Gurú respondió con el siguiente himno:
+Nanak continuó dirigiéndose a Kalu: «Padre querido, es Dios quien organiza los matrimonios. Él no se equivoca, y a quienes una vez unió, los une para siempre». Con estas palabras, el Gurú quizá pretendía establecer la monogamia[^2]. La madre del Gurú intervino entonces y le pidió a su hijo que se levantara, los acompañara y dejara de tonterías. Obtendría riquezas cumpliendo con sus deberes mundanos. El Gurú respondió con el siguiente himno:
 
 Al final de la noche invoca el nombre del Señor,
 Y aparecerán tiendas, sombrillas, pabellones y carruajes, listos para vuestro viaje celestial.

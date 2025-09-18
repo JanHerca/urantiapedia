@@ -127,7 +127,7 @@ Nanak, aquellos que están imbuidos de la verdad son maravillosos y se deleitan 
 
 Ante esto, Brahm Das volvió a caer a los pies del Gurú, se quitó el ídolo del cuello y, convertido en adorador de Dios, le prestó servicio. Sin embargo, sus malos deseos no se desvanecieron. Cualquier servicio que realizó fue breve y superficial, pues creía haber realizado un servicio similar antes; pero todo lo que hizo fue en vano debido a su orgullo.
 
-En una de sus reuniones, el Gurú le dijo que buscara un gurú. Preguntó: "¿Qué gurú debo buscar?". El Gurú le indicó que fuera a cierta casa en el desierto donde encontraría cuatro faquires, quienes le informarían. El pandit fue hacia ellos, y ellos, tras una breve demora, le señalaron un templo donde, según dijeron, encontraría a su gurú. El pandit se dirigió hacia allá, pero en lugar de recibir una recepción cortés, fue golpeado lastimeramente con sus zapatos por una mujer vestida de rojo que custodiaba el templo. Llorando amargamente, regresó con los cuatro hombres que lo habían enviado a la desagradable misión. Le preguntaron si había encontrado un gurú, y en respuesta les contó su dolorosa historia. Le explicaron que la mujer era Maya, o el amor mundano; y que aquella a quien tanto había anhelado era su gurú. El pandit regresó con el Gurú y se postró a sus pies. Entonces arrojó sus dos cargas de libros, comenzó a repetir el nombre de Dios y se volvió tan humilde que era, por así decirlo, el polvo de la tierra. El pandit preguntó quiénes eran felices en este mundo. El Gurú respondió con los siguientes versos, que Hassu y Sihan pusieron por escrito:
+En una de sus reuniones, el Gurú le dijo que buscara un gurú. Preguntó: «¿Qué gurú debo buscar?». El Gurú le indicó que fuera a cierta casa en el desierto donde encontraría cuatro faquires, quienes le informarían. El pandit fue hacia ellos, y ellos, tras una breve demora, le señalaron un templo donde, según dijeron, encontraría a su gurú. El pandit se dirigió hacia allá, pero en lugar de recibir una recepción cortés, fue golpeado lastimeramente con sus zapatos por una mujer vestida de rojo que custodiaba el templo. Llorando amargamente, regresó con los cuatro hombres que lo habían enviado a la desagradable misión. Le preguntaron si había encontrado un gurú, y en respuesta les contó su dolorosa historia. Le explicaron que la mujer era Maya, o el amor mundano; y que aquella a quien tanto había anhelado era su gurú. El pandit regresó con el Gurú y se postró a sus pies. Entonces arrojó sus dos cargas de libros, comenzó a repetir el nombre de Dios y se volvió tan humilde que era, por así decirlo, el polvo de la tierra. El pandit preguntó quiénes eran felices en este mundo. El Gurú respondió con los siguientes versos, que Hassu y Sihan pusieron por escrito:
 
 Indar lloró después de su castigo mil veces mayor;[^1]
 Paras Ram lloró al regresar a casa;[^2]
@@ -187,8 +187,8 @@ Vine según el curso natural, y según la orden de Dios me iré. Nanak siempre e
 
 Un Sidh llamado Charpat preguntó.—
 
-"El mundo es un océano, y se dice que es difícil cruzarlo. ¿Cómo podrá el hombre atravesarlo?"
-Dice Charpat: 'Oh Audhut Nanak, da una respuesta verdadera'.
+«El mundo es un océano, y se dice que es difícil cruzarlo. ¿Cómo podrá el hombre atravesarlo?»
+Dice Charpat: «Oh Audhut Nanak, da una respuesta verdadera».
 _Nanak_\—'Tú lo dices; tú mismo lo entiendes. ¿Qué respuesta puedo darte?
 -Digo la verdad: has llegado a una orilla lejana. ¿Cómo puedo discutir contigo?
 "Como un loto en el agua permanece seco, así como un ave acuática en la corriente,
@@ -196,7 +196,7 @@ _Nanak_\—'Tú lo dices; tú mismo lo entiendes. ¿Qué respuesta puedo darte?
 Nanak es esclavo de aquellos que permanecen apartados _del mundo_, en cuyos corazones habita el único Dios, que viven sin deseos en medio de los deseos,
 Y quienes ven y muestran a los demás al Dios inaccesible e incomprensible.[^1]
 
-Entonces los Sidhs exclamaron: "¡Salud!". El Gurú respondió: "¡Salud al Ser Primordial!". Varios sijs suponen que Gurú Nanak compuso el Sidh Gosht en aquella ocasión en que encontró tiempo libre y retiro para escribir.
+Entonces los Sidhs exclamaron: «¡Salud!». El Gurú respondió: «¡Salud al Ser Primordial!». Varios sijs suponen que Gurú Nanak compuso el Sidh Gosht en aquella ocasión en que encontró tiempo libre y retiro para escribir.
 
 <figure class="table chapter-navigator">
   <table>
@@ -236,13 +236,13 @@ Entonces los Sidhs exclamaron: "¡Salud!". El Gurú respondió: "¡Salud al Ser 
 
 [^3]: Machhindar es descrito en un verso atribuido a Gorakhnâth como su padre.
 
-[^4]: El _gâyatri_ es el conjuro de los hindúes. Actualmente se recita de la siguiente manera: _Oam, bhûr, bhuvas, svar, tat savitur varenyam, bhargo devasya, dhîmahi dhîyo yo nah prachodyât_. 'Oam, tierra, aire y cielo, meditemos en ese excelente sol, el dios brillante, que estimula nuestros intelectos'. El difunto profesor Max Müller dio la siguiente traducción: 'Meditamos en la adorable luz del divino Savitri, para que despierte nuestros pensamientos'.
+[^4]: El _gâyatri_ es el conjuro de los hindúes. Actualmente se recita de la siguiente manera: _Oam, bhûr, bhuvas, svar, tat savitur varenyam, bhargo devasya, dhîmahi dhîyo yo nah prachodyât_. «Oam, tierra, aire y cielo, meditemos en ese excelente sol, el dios brillante, que estimula nuestros intelectos». El difunto profesor Max Müller dio la siguiente traducción: «Meditamos en la adorable luz del divino Savitri, para que despierte nuestros pensamientos».
 
 [^5]: Esta palabra se aplica a los musulmanes que han hecho la peregrinación a La Meca.
 
 [^6]: La energía o consorte de Shiv recibió diversos nombres: Pârbati, Durga, etc.
 
-[^7]: 'Sin semilla, no hay sangre': esto se refiere a las funciones masculinas y femeninas de la generación.
+[^7]: «Sin semilla, no hay sangre»: esto se refiere a las funciones masculinas y femeninas de la generación.
 
 [^1]: Se describen como los Salmos de David, el Antiguo Testamento, el Nuevo Testamento y el Corán.
 

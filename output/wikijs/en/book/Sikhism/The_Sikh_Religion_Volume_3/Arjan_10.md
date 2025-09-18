@@ -76,7 +76,7 @@ Upon this the Guru’s enemies again applied themselves to his torture. They kep
 
 The Guru repeated the following also during the period of his torture :—
 
-SRI RAG ASHTAPADI
+<p style="text-align:center;">SRI RAG ASHTAPADI</p>
 
 When very great troubles befall, and nobody receiveth one ;
 When enemies pursue, and relations flee away ;

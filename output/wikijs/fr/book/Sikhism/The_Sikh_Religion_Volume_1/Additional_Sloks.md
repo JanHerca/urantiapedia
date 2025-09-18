@@ -63,7 +63,7 @@ Ce qui suit a été composé par Guru Nanak en voyant des femmes en deuil :
 
 Ils disent « Hai hai ! » et « Oh Oh ! » ;
 Ils se frappent les joues et s'arrachent les cheveux de la tête ;
-Ils prononcent le nom de Dieu[^1] _sans le vouloir : s’ils_ étaient absorbés par lui,
+Ils prononcent le nom de Dieu[^2] _sans le vouloir : s’ils_ étaient absorbés par lui,
 Alors Nanak leur serait offert en sacrifice.
 
 Le gourou alla rendre visite à un homme réputé saint, mais en le trouvant, un hypocrite composa ce qui suit :
@@ -77,7 +77,7 @@ Pure est l'ablution, ô Nanak, lorsque le Guru est considéré comme la rivière
 
 Les véritables saints sont peu nombreux :
 
-Les saints sont peu nombreux, et non nombreux ; la tromperie et les querelles prévalent dans le monde.[^2]
+Les saints sont peu nombreux, et non nombreux ; la tromperie et les querelles prévalent dans le monde.[^3]
 
 <span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
@@ -110,7 +110,7 @@ Et soyez digne d’adoration.
 Une définition d'un Khatri :
 
 C'est un Khatri qui est courageux dans ses bonnes actions
-Et qui emploie son corps à la charité.[^1]
+Et qui emploie son corps à la charité.[^4]
 Le Khatri qui inspecte son terrain avant de semer ses dons,
 
 <span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
@@ -134,13 +134,13 @@ Sans vérité, il n’y a pas de crédit, et sans capital, pas de solde.
 Si Ram avait été Dieu, il n'aurait pas perdu sa reine Sita, et il aurait lui-même guéri son demi-frère Lachhman au lieu de faire appel à Hanuman pour le faire :
 
 Ram Chandar pleurait dans son âme Sita et Lachhman
-Il se souvint d'Hanuman[^1] et vint à sa rencontre.
+Il se souvint d'Hanuman[^5] et vint à sa rencontre.
 Le démon égaré _Rawan_ ne savait pas que ce n'était _pas Ram mais Dieu_ qui avait fait cela.
 Nanak, Dieu est indépendant : Ram ne pouvait pas effacer son destin.
 
 Un homme orgueilleux s'adressa au gourou en termes déplacés. Les disciples du gourou le prenant mal, celui-ci prononça :
 
-N'imputez pas de blâme au Raï ;[^2] son ​​intellect l'abandonne dans sa vieillesse.
+N'imputez pas de blâme au Raï ;[^6] son ​​intellect l'abandonne dans sa vieillesse.
 
 <span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
@@ -175,12 +175,12 @@ FIN DU VOL. I
 
 [^1] : _Dohi dichai_. Littéralement : faire une proclamation de départ.
 
-[^1]: _Oh hai_. Il l'est.
+[^2]: _Oh hai_. Il l'est.
 
-[^2]: Aussi traduit—Ceux qui agissent comme de bons faqîrs sont peu nombreux dans le monde.
+[^3]: Aussi traduit—Ceux qui agissent comme de bons faqîrs sont peu nombreux dans le monde.
 
-[^1]: C'est-à-dire celui qui se sacrifie pour les autres.
+[^4]: C'est-à-dire celui qui se sacrifie pour les autres.
 
-[^1]: Voir l'histoire d'Hanumân allant chercher une plante pour guérir Lachhman, dans le _Dictionnaire de mythologie hindoue_ de Dowson.
+[^5]: Voir l'histoire d'Hanumân allant chercher une plante pour guérir Lachhman, dans le _Dictionnaire de mythologie hindoue_ de Dowson.
 
-[^2]: Ce mot signifie un noble.
+[^6]: Ce mot signifie un noble.

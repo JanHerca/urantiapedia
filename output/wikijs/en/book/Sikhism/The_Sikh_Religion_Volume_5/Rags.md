@@ -35,7 +35,7 @@ dateCreated: 2025-2-12T12:8:41Z
 ## THE RAGS OF THE GRANTH SAHIB
 
 
-<p style="text-align:center;">SRI RAG</p>[^130]
+<p style="text-align:center;">SRI RAG</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Sikhism/The_Sikh_Religion_Volume_5/1.jpg">

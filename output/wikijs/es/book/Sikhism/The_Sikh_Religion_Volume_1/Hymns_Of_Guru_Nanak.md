@@ -889,10 +889,10 @@ Practicas la avaricia, la codicia y la falsedad excesiva,y llevas muchas cargas.
 Te he visto, oh cuerpo, pisoteado como cenizas en el suelo.' 
 _El Cuerpo_: 'Escucha, escucha mi instrucción. 
 Si has hecho buenas obras, permanecerán contigo; oh alma mía, no volverás a encontrar tal oportunidad.' 
-_El Alma_: 'Me dirijo a ti, oh cuerpo mío, escucha mi 'instrucción. 
+_El Alma_: «Me dirijo a ti, oh cuerpo mío, escucha mi »instrucción. 
 Calumnias[^1] y das falso testimonio contra otros.' 
-_El Cuerpo_: 'Codicias la vid de otro,[^2] oh Alma; cometes robos y malas acciones.' 
-_El Alma_: 'Cuando el alma parta, permanecerás atrás como una mujer abandonada. Tú, oh cuerpo, permanecerás solo como un sueño: ¿qué buenas acciones has hecho? ' 
+_El Cuerpo_: «Codicias la vid de otro,[^2] oh Alma; cometes robos y malas acciones.» 
+_El Alma_: «Cuando el alma parta, permanecerás atrás como una mujer abandonada. Tú, oh cuerpo, permanecerás solo como un sueño: ¿qué buenas acciones has hecho? » 
 _El Cuerpo_: 'Todo lo que tomé a escondidas te agradó. 
 No tienes honor en este mundo, y serás rechazado 
 en el siguiente; Has perdido tu morada humana en vano. 
@@ -1008,7 +1008,7 @@ Puedo ser llamado Sidh, y puedo invocar riqueza y poder sobrenatural;
 puedo hacerme una corona, un sombrero regio y un paraguas para la cabeza, 
 pero ¿cómo podría alcanzar la verdadera felicidad sin el Señor del mundo? 
 Puedo ser llamado señor, emperador o rey, 
-puedo decir 'Ahora bien' [^2] _a inferiores; todo esto_ sería una falsa exhibición. 
+puedo decir «Ahora bien» [^2] _a inferiores; todo esto_ sería una falsa exhibición. 
 Sin la instrucción del Gurú, mi negocio no podría ajustarse. 
 El egoísmo y el egoísmo se olvidan bajo la instrucción del Gurú. 
 A través de la instrucción del Gurú se sabe que Dios está en el corazón.
@@ -1153,7 +1153,7 @@ El anhelo del piadoso por Dios se compara al anhelo de la joven novia por su esp
 
 Dolorosa es la noche para la joven novia; _sin su Amado_ no duerme. 
 Ella se consume de pena _por Su ausencia_: 
-La mujer se consume de pena por _Su ausencia_, diciendo_ '¿Cómo lo miraré?'
+La mujer se consume de pena por _Su ausencia_, diciendo_ «¿Cómo lo miraré?»
 
 <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 
 
@@ -2527,7 +2527,7 @@ y serás castigado por tu mundanidad con la maza de la Muerte.
 El vaso impuro de tu corazón no puede contener las limosnas del amor. 
 Estás atado por lazos y sufrirás la transmigración. 
 No restringes tu descendencia, y aun así te llamas continente.
-Mientras dices: "Madre", suplicas y te enamoras de una mujer.
+Mientras dices: «Madre», suplicas y te enamoras de una mujer.
 No tienes compasión y la luz de Dios no brilla en ti. 
 Estás inmerso en todo tipo de enredos. 
 Con un abrigo remendado y una bolsa asumes muchas apariencias. 
@@ -2813,7 +2813,7 @@ Oh, compañeros míos, mi Esposo está teñido con el color verdadero.
 El verdadero Esposo nunca abandona; Él disfruta con deleite. 
 Todas las estaciones son buenas para aquellos que aman al Verdadero. 
 La mujer que conoce a su esposo disfruta de la felicidad día[^1] y noche. 
-El barquero grita en la barca: "¡Vamos, date prisa; te demoras!". 
+El barquero grita en la barca: «¡Vamos, date prisa; te demoras!». 
 He visto al otro lado a aquellos a quienes el Gurú puso en el bote. 
 Algunos han cargado su equipaje, algunos han partido con él, y otros están agobiados por sus cargas. 
 Aquellos que han hecho un trato verdadero están con el Dios verdadero. 
@@ -3182,7 +3182,7 @@ Oh, mi Amado, querido es tu amor, que será mi compañero.
 No puedo vivir ni un momento en este mundo sin Él, tanta es mi sed de Él. 
 El loto en el lago, al contemplar los rayos del sol del cielo, se regocija naturalmente: 
 Oh, mi Amado, tal es el anhelo que siento en mi corazón de que mi luz se mezcle con la Tuya. 
-El chatrik sin agua grita "¡Prio, prio!" y chilla a gritos. 
+El chatrik sin agua grita «¡Prio, prio!» y chilla a gritos. 
 Hay un trueno terrible, llueve por todas partes, pero sin sus gotas especiales, la sed del chatrik no se aparta. 
 El pez que nace y vive en el agua, obtiene prosperidad y desgracia según sus actos previos.
 No puede vivir ni un instante sin agua; su muerte o su vida dependen de ello. 
@@ -3190,7 +3190,7 @@ La mujer está separada de su Amado, que vive en el extranjero; le envía un men
 
 <span id="p376"><sup><small>[ p. 376 ]</small></sup></span> 
 
-Todos gritan "¡Prio, prio!", pero solo pueden obtener a su Amado si le place al Gurú. 
+Todos gritan «¡Prio, prio!», pero solo pueden obtener a su Amado si le place al Gurú. 
 El Amado está con nosotros; siempre se asocia con la verdad; fusiona consigo mismo a quienes mira con favor. 
 Dios es la vida en todas las vidas; Él impregna cada corazón. 
 Por el favor del Gurú, Él se manifiesta en el hogar, y los hombres se absorben fácilmente en Él. 
@@ -3424,7 +3424,7 @@ Es insípido el placer de hacer otra cosa que no sea repetir el nombre de Dios.
 
 [^1]: Por las marcas frontales y la raya del cabello. 
 
-[^2]: _Abe tabe_ en panyabí es una expresión mucho más despectiva que 'ahora entonces'. 
+[^2]: _Abe tabe_ en panyabí es una expresión mucho más despectiva que «ahora entonces». 
 
 [^1]: Los animales mencionados sufren por la gratificación de sus sentidos. La abeja huele el loto y se enreda; la polilla mira la lámpara y se quema; el elefante, para satisfacer su lujuria, se precipita a una trampa: el pez tiene hambre y muerde el anzuelo; y el ciervo es atraído a su muerte por la campana del cazador. 
 
@@ -3510,7 +3510,7 @@ Es insípido el placer de hacer otra cosa que no sea repetir el nombre de Dios.
 
 [^2]: Literalmente: esta fruta. 
 
-[^1]: _Soham_, yo soy él. Compárese con 'Yo soy el que soy'. 
+[^1]: _Soham_, yo soy él. Compárese con «Yo soy el que soy». 
 
 [^2]: Que no vaya a adorar a un templo pagano por el bien de Mammón. 
 

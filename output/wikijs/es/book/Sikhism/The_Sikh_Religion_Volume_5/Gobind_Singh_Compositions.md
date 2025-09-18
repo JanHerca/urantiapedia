@@ -361,7 +361,7 @@ En la estación fría, el chacal ladra cinco veces y el elefante y el burro emit
 Sin la meditación en el conocimiento divino, los necios se ahogan en el río del infierno; y sin fe, ¿cómo puede haber tal meditación?
 
 Si alguno quisiera alcanzar por la penitencia al Señor que no sufre dolor, el herido sufre dolores de muchas clases.
-Si alguien quisiera, repitiendo el nombre de Dios, obtener a Dios, a quien no se puede obtener mediante la adoración de los labios[^34], la curruca siempre pronuncia: “¡Tu hi! ¡tu hi!”
+Si alguien quisiera, repitiendo el nombre de Dios, obtener a Dios, a quien no se puede obtener mediante la adoración de los labios[^34], la curruca siempre pronuncia: «¡Tu hi! ¡tu hi!»
 Si alguien pudiera alcanzar a Dios volando por los cielos, el ave llamada anal vagaría por el firmamento. <span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 Si la salvación se obtiene quemándose en el fuego, ¿por qué no se salvarían la Sati y también la serpiente que vive en el infierno? [^35]
 
@@ -393,7 +393,7 @@ Así como la luz se mezcla con la oscuridad y la oscuridad con la luz, así tamb
 ¡Cuántos andan aullando! ¡Cuántos mueren llorando! ¡Cuántos se ahogan en el agua! ¡Cuántos se queman en el fuego!
 ¡Cuántos viven a orillas del Ganges! ¡Cuántos en Medina y La Meca! ¡Cuántos vagan como anacoretas!
 ¡Cuántos sufren el dolor de ser cortados por la sierra! ¡Cuántos de enterrarse en la tierra! ¡Cuántos de ser empalados! <span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
-¡Cuántos vuelan en el firmamento! ¡Cuántos habitan en el agua! Pero todos serán quemados en el fuego[40] por falta del conocimiento divino.
+¡Cuántos vuelan en el firmamento! ¡Cuántos habitan en el agua! Pero todos serán quemados en el fuego[^40] por falta del conocimiento divino.
 
 Los semidioses se han cansado de buscar a Dios; los archidemonios se han cansado de luchar con Él; los sabios se han cansado de ejercitar su sabiduría; los que repiten Su nombre se han cansado de velar.
 Los hombres se han cansado de moler y aplicarse sándalo; se han cansado de aplicar excelente aceite de rosas; se han cansado de adorar piedras y ofrecerles pudín.
@@ -539,7 +539,7 @@ Oh hombres, meditad en vuestros corazones en Aquel cuyo poder inmensurable se di
 IX Los Veds, los Purans, el Corán y otros libros <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> musulmanes, no han encontrado Su secreto; todos los reyes[^48] se han cansado _de buscarlo_.
 No pudieron encontrar el secreto del Inescrutable; después de grandes trabajos lo proclamaron invulnerable.
 Tú, oh Señor, no tienes pasión, ni forma, ni contorno, ni color, ni relación, ni dolor, ni compañero.
-Tú eras en el principio, y sin embargo no tuviste principio; eres insondable, sin vestimenta distintiva,[49] y sin celos: el que repita tu nombre salvará a sus parientes.
+Tú eras en el principio, y sin embargo no tuviste principio; eres insondable, sin vestimenta distintiva,[^49] y sin celos: el que repita tu nombre salvará a sus parientes.
 
 <p style="text-align:center;">X</p>
 
@@ -923,7 +923,7 @@ Y nadie pensó que yo era Dios.
 Luego hice las ocho Sakhis[^76]
 Quienes fueron designados para velar por las criaturas.
 Dijeron a la gente que los adorara,
-Y dijo: “No hay más Dios que nosotros”.
+Y dijo: «No hay más Dios que nosotros».
 Aquellos que no reconocieron la Esencia Primordial,
 Los adoraron como a Dios.
 ¡Cuántos adoraban al sol y a la luna!
@@ -1046,7 +1046,7 @@ El dolor y el pecado no se han acercado a quienes han meditado en tu nombre.
 Aquellos que meditan en cualquier otro
 Morirán de discusiones y contiendas.
 El Gurú divino me envió por el bien de la religión: por eso he venido al mundo: 'Extiende la fe por todas partes; <span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
-'Apoderaos y destruid al mal y al pecador.'
+«Apoderaos y destruid al mal y al pecador.»
 Entended esto, oh varones santos, en vuestras almas.
 Asumí el nacimiento con ese propósito
 De difundir la fe, de salvar a los santos,
@@ -1335,7 +1335,7 @@ Los Puranes de Ram (el Dios de los hindúes) y el Corán de Rahim (el Dios de lo
 Los Simritis, los Shastars y los Veds exponen muchas doctrinas diferentes, pero no acepto ninguna de ellas.
 Oh Dios santo, por tu favor no soy yo quien ha hablado; todo lo que se ha dicho, ha sido dicho por ti.
 
-Abandonando todas las demás puertas, me he aferrado a la tuya. Es un honor para ti protegerme, a quien has agarrado del brazo; Gobind es tu esclavo.
+Abandonando todas las demás puertas, me he aferrado a la tuya. Es un honor para ti protegerme, a quien has agarrado del brazo; Gobind es tu esclavo.[^98]
 
 <p style="text-align:center;">KRISHAN AVATAR</p>
 
@@ -1429,7 +1429,7 @@ Las siguientes treinta y tres sawaiyas también se leen en Abchalangar y otros l
 
 Aquel que repite noche y día el nombre de Aquel cuya luz duradera es inextinguible, que no piensa en nadie más que en el único Dios;
 Quien tiene pleno amor y confianza en Dios, que no pone su fe ni siquiera por error en el ayuno, o en la _adoración_ en los cementerios, lugares de cremación, o lugares de sepultura de los Jogis;
-Quien sólo reconoce al único Dios y no las peregrinaciones, las limosnas, la no destrucción de la vida, las penitencias _hindúes_ ni las austeridades;<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
+Quien sólo reconoce al único Dios y no las peregrinaciones, las limosnas, la no destrucción de la vida,[^103] las penitencias _hindúes_ ni las austeridades;<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 Y en cuyo corazón brilla la luz del Perfecto, se le reconoce como un miembro puro del Khalsa.
 
 <p style="text-align:center;">II</p>
@@ -1546,7 +1546,7 @@ Medita en Aquel que fue, es y será siempre en tu corazón.
 El que hizo millones de Indars, El que hizo y destruyó algunos millones de Bawans,
 Demonios, semidioses, serpientes, Sheshnags, pájaros y bestias innumerables,
 A quien hasta hoy Shiv y Brahma le hacen penitencia sin encontrar Su límite,
-Aquel cuyos secretos los Veds y el Corán no han penetrado, es el gran Ser que el Gurú[^112] me ha mostrado.
+Aquel cuyos secretos los Veds y el Corán no han penetrado, es el gran Ser que el Gurú[^113] me ha mostrado.
 
 <p style="text-align:center;">XVIII</p>
 
@@ -1633,7 +1633,7 @@ Todos dicen: «Traedme, traedme», pero nadie me muestra a Dios.
 
 Si alguno sirve a los masands, dirán: 'Traed y dadnos todas vuestras ofrendas.
 'Ve inmediatamente y haznos un regalo con todo lo que tienes en tu casa.
-'Pensad en nosotros noche y día, y no mencionéis a otros ni siquiera por error.'
+«Pensad en nosotros noche y día, y no mencionéis a otros ni siquiera por error.»
 Si oyen que alguien da, corren a él incluso de noche,[^117] porque no les agrada en absoluto no recibir.
 
 <p style="text-align:center;">XXX</p>
@@ -2057,7 +2057,7 @@ Por Nanak, oh Dios, sea exaltado tu nombre,
 
 [^67]: Cerca de Benarés, sus habitantes, los sanaudhis, fueron llamados posteriormente sodhis.
 
-[^68]: Compárese el proverbio indostánico: _zan, zamin, zar, tinen jhagre ka ghar_ 'Las mujeres, la tierra y el dinero son fuentes de conflicto entre los hombres'.
+[^68]: Compárese el proverbio indostánico: _zan, zamin, zar, tinen jhagre ka ghar_ «Las mujeres, la tierra y el dinero son fuentes de conflicto entre los hombres».
 
 [^69]: Cuando me haya convertido en Guru Nanak, Guru Angad y Guru Amar Das.
 
@@ -2174,7 +2174,7 @@ sierra.
 
 [^123]: La referencia aquí es a los dioses hindúes Vishnu y Krishan.
 
-[^124]: La expresión _kal pai_ en esta línea y las dos anteriores también se traduce como "habiendo muerto primero".
+[^124]: La expresión _kal pai_ en esta línea y las dos anteriores también se traduce como «habiendo muerto primero».
 
 [^125]: «El universo proviene de Dios, vive en Él y retorna a Él» es una expresión común en los Upanishads y el Mahabharat. En el Bhagavad Gita, la creación se representa como una evolución de Dios, como el mundo, al acercarse el día, emerge lentamente de la oscuridad de la noche, y se disuelve o desaparece de nuevo en Él, como el mundo desaparece tras el crepúsculo vespertino.
 

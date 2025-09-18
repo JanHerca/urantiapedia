@@ -70,7 +70,7 @@ Y, dice Nanak, balancea tu brazo triunfalmente.'
 
 Mian Mitha le planteó entonces al Gurú la pregunta contenida en la primera línea del siguiente himno. También le preguntó por la condición de las almas de los malvados después de la muerte. El Gurú respondió lo siguiente:
 
-'Hermano mío, ¡salam alaikum! Por el amor de Dios, di la verdad. ¿Cómo podrá el hombre obtener distinción en la corte de Dios?'
+«Hermano mío, ¡salam alaikum! Por el amor de Dios, di la verdad. ¿Cómo podrá el hombre obtener distinción en la corte de Dios?»
 Así como el hombre sembrare, así cosechará; y comerá lo que hubiere obtenido del Comandante.
 Nanak, sin el verdadero Nombre el hombre estará atado y soportará sufrimiento.
 Alabado sea el Creador; cuando el hombre descienda a la miserable y oscura tumba, el poder de Dios se manifestará.
@@ -124,7 +124,7 @@ La lengua que probó sabores pecaminosos se levantará en el tribunal y clamará
 Los oídos también depondrán que es el alma la que es falsa y engañosa.
 La nariz y los ojos también se declararán inocentes, y será la pobre alma la que sufrirá.
 El alma arrestada en el tribunal de la Muerte _suplica_: 'Son los sentidos los que han llevado al mundo entero por mal camino:
-'Los sentidos unidos han arrojado al hombre a la miseria, como el herrero coloca el hierro sobre el yunque.'
+«Los sentidos unidos han arrojado al hombre a la miseria, como el herrero coloca el hierro sobre el yunque.»
 
 <span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
@@ -154,7 +154,7 @@ Brahma, que vino al mundo repitiendo los Veds, no puede describir a Dios.
 Shiv y los innumerables dioses y diosas que están a tu puerta te alaban.
 El que se aleja de Dios se consumirá y morirá; el Verdadero es siempre el Perdonador.[^1]
 
-Mian Mitha habló entonces: "¿Cuál es ese Nombre que tanto alabas?". El Gurú respondió: "¿Ha conocido alguien alguna vez el valor de ese Nombre?". Mian Mitha le pidió que tuviera la amabilidad de explicárselo. El Gurú entonces lo tomó del brazo, lo llevó aparte y le dijo: "Shaikh, ¿escuchas el Nombre del Dios único?". Mientras hablaban, el nombre del Profeta se desvaneció entre los sonidos del éxtasis divino, y cuando volvieron a mirar, solo apareció en su lugar un montón de cenizas. Entonces se escuchó una voz del cielo que solo repetía "Alá", el nombre árabe de Dios. Ante esto, Shaikh Mitha se levantó y besó los pies del Gurú. El Gurú entonces cayó en trance, y en ese estado pronunció lo siguiente:
+Mian Mitha habló entonces: «¿Cuál es ese Nombre que tanto alabas?». El Gurú respondió: «¿Ha conocido alguien alguna vez el valor de ese Nombre?». Mian Mitha le pidió que tuviera la amabilidad de explicárselo. El Gurú entonces lo tomó del brazo, lo llevó aparte y le dijo: «Shaikh, ¿escuchas el Nombre del Dios único?». Mientras hablaban, el nombre del Profeta se desvaneció entre los sonidos del éxtasis divino, y cuando volvieron a mirar, solo apareció en su lugar un montón de cenizas. Entonces se escuchó una voz del cielo que solo repetía «Alá», el nombre árabe de Dios. Ante esto, Shaikh Mitha se levantó y besó los pies del Gurú. El Gurú entonces cayó en trance, y en ese estado pronunció lo siguiente:
 
 CONSEJO DE NOMBRE[^2]
 

@@ -60,7 +60,7 @@ Is my guardian.[^3]
 
 ‘Have no anxiety whatever for me, everything shall be according to the will of God.’
 
-The Guru then issued an encyclical letter to the masands to the effect that he would be pleased with those who brought offerings of arms and _ horses instead of money. On Monday, the fifth day of the light half of Har, Sambat 1663, he laid the foundation of the Takht Akal Bunga. When it was built <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> of solid masonry, he took his seat on it. It is the corridor of the golden temple whereon the Akalis now sit and the arms of the Gurus are preserved.
+The Guru then issued an encyclical letter to the masands to the effect that he would be pleased with those who brought offerings of arms and horses instead of money. On Monday, the fifth day of the light half of Har, Sambat 1663, he laid the foundation of the Takht Akal Bunga. When it was built <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> of solid masonry, he took his seat on it. It is the corridor of the golden temple whereon the Akalis now sit and the arms of the Gurus are preserved.
 
 Bhai Budha, too, on seeing the young Guru in military harness mildly remonstrated with him. The Guru replied, ‘It is through thine intercession I obtained birth; and it is in fulfilment of thy blessing I wear two swords as emblems of spiritual and temporal authority. In the Guru’s house religion and worldly enjoyment shall be combined— the caldron to supply the poor and needy and the scimitar to smite oppressors.’
 

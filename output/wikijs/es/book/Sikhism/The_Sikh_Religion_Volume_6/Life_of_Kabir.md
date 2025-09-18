@@ -105,7 +105,7 @@ Cuando la madre de Kabir descubrió que su atención se centraba en la adoració
 Kabir continuó con su oficio, pero al mismo tiempo recibía y servía a hombres santos y mendicantes. <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> Ante esto, su madre se angustió mucho y pronunció las quejas versificadas en la primera parte del siguiente himno:
 
 Siempre te levantas temprano y traes utensilios nuevos [^12]; has pasado tu vida enyesando _cuadrados de cocina_;
-No prestas atención a tu tejido; estás absorto en el placer de decir: "Dios, Dios".
+No prestas atención a tu tejido; estás absorto en el placer de decir:«Dios, Dio».
 ¿Quién en nuestra familia ha pronunciado alguna vez el nombre de Ram? [^13]
 Desde que este inútil [^14] hijo nuestro empezó a usar el rosario, no hemos tenido paz.
 Escucha, esposa de mi cuñado mayor; escucha, esposa de mi cuñado menor; [^15] ¡ha ocurrido algo maravilloso!
@@ -131,7 +131,7 @@ Mientras tanto, Dios inspiró a un comerciante de maíz a llevar bueyes cargados
 
 Cuando los brahmanes de Benarés se enteraron de que Kabir había dado cientos de manes de maíz a hombres santos, pero ni un solo grano a ellos mismos, fueron en masa a su casa y le dijeron: «Tejedor, te has enorgullecido mucho de tu riqueza, ya que, sin avisarnos, has distribuido provisiones entre faquires y sudars de casta baja. Abandona esta ciudad de inmediato y establece tu residencia en otro lugar». Kabir preguntó por qué debía abandonar la ciudad. ¿Había allanado la casa de alguien o cometido un robo en la carretera para que intentaran exiliarlo? Los brahmanes respondieron que, dado que había servido y honrado a faquires en lugar de a ellos mismos, era una ofensa suficiente para merecer la expulsión de la ciudad. «No digas más», continuaron, «es mejor que nos hagas una ofrenda o te vayas de aquí». Kabir respondió que su casa era todo lo que tenía y que podían tomar posesión de ella. Y diciendo esto, se escapó de ellos y se ocultó de nuevo en un bosque lejano. [^21]
 
-Ante esto, algunos admiradores de la santidad de Kabir y simpatizantes de sus problemas distribuyeron entre los brahmanes tal cantidad de dinero y provisiones que el nombre y las alabanzas de Kabir resonaron por toda la ciudad, y los brahmanes se sintieron sumamente encantados y complacidos al encontrar sus estómagos repletos. Después de eso, un hombre santo buscó a Kabir y le preguntó por qué pasaba sus días en el bosque. "¿Por qué no vas a <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> tu propia casa? Quien llama a tu puerta obtiene dinero y provisiones, ¿y no habrá nada para ti?". Kabir regresó entonces a casa y, al encontrar abundantes provisiones para su familia, agradeció la misericordia y el amor de Dios. Cuando se difundió la noticia de tan buena fortuna y la generosidad de Dios, la gente acudió en masa a ver al santo. Al ver interrumpidas sus meditaciones por sus visitantes, recurrió a un singular expediente para manchar su propio carácter y mantenerlos a distancia. [^22] La gente piadosa se escandalizó y dijo que, aunque Kabir había sido un santo perfecto, ahora debía ser considerado un hombre malvado, no apto para la asociación de los virtuosos.
+Ante esto, algunos admiradores de la santidad de Kabir y simpatizantes de sus problemas distribuyeron entre los brahmanes tal cantidad de dinero y provisiones que el nombre y las alabanzas de Kabir resonaron por toda la ciudad, y los brahmanes se sintieron sumamente encantados y complacidos al encontrar sus estómagos repletos. Después de eso, un hombre santo buscó a Kabir y le preguntó por qué pasaba sus días en el bosque. «¿Por qué no vas a <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> tu propia casa? Quien llama a tu puerta obtiene dinero y provisiones, ¿y no habrá nada para ti?». Kabir regresó entonces a casa y, al encontrar abundantes provisiones para su familia, agradeció la misericordia y el amor de Dios. Cuando se difundió la noticia de tan buena fortuna y la generosidad de Dios, la gente acudió en masa a ver al santo. Al ver interrumpidas sus meditaciones por sus visitantes, recurrió a un singular expediente para manchar su propio carácter y mantenerlos a distancia. [^22] La gente piadosa se escandalizó y dijo que, aunque Kabir había sido un santo perfecto, ahora debía ser considerado un hombre malvado, no apto para la asociación de los virtuosos.
 
 Mientras el deseo de Kabir de reclusión se veía así plenamente satisfecho y la gente dejaba de apiñarse a su alrededor, la gente ignorante profería reproches y lo satirizaba. Kabir acudió con un extraño disfraz a la corte real y se sentó en medio de la asamblea. El rey y sus cortesanos, al ver su extraño comportamiento, lo trataron con desprecio y le ordenaron que se fuera. El rey, sin embargo, tras reflexionar, se avergonzó de su orden precipitada y de su falta de consideración hacia semejante santo, a pesar del extraño disfraz que había adoptado. El rey entonces comenzó a considerar cómo sus propios pecados podrían ser perdonados. Se puso un hacha al hombro y un haz de leña en la cabeza, se presentó descalzo con su reina ante Kabir y se postró con gran humildad y modestia a los pies del santo. Kabir perdonó su descortesía y le mostró el camino de la devoción a Dios.
 
@@ -143,7 +143,7 @@ Me ataron los brazos y me lanzaron como una pelota;
 Golpearon a un elefante enfurecido en la cabeza para que me pisoteara,
 Pero él tocó la trompeta y huyó, diciendo:
 «Soy un sacrificio a esa forma _que apareció_.» <span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
-Sarth Kabir, 'Oh Dios mío, Tú eres mi fuerza'
+Sarth Kabir, «Oh Dios mío, Tú eres mi fuerza»
 El Qazi ordenó: "Conduce al elefante,
 ¡Oh, conductor, o te haré picadillo!
 Conduce al elefante y hiérelo.
@@ -216,14 +216,14 @@ Soy como un pez fuera del agua,
 Porque en una vida anterior no hice penitencia.
 Di ahora, oh Dios, ¿cuál será mi condición?
 La gente me dice que no tuve mucho sentido común al abandonar Benarés.
-Que desperdicié toda mi vida en esa ciudad de Shiv; 1
+Que desperdicié toda mi vida en esa ciudad de Shiv; [^28]
 Y ahora, cuando estoy a punto de morir, me he mudado a Magahar.
 Durante muchos años hice penitencia en Benarés,
 Pero ahora que la muerte está cerca, he venido a morar en Magahar.
 Considero que Magahar es tan bueno como Benarés.
 ¿Cómo se salvará aquel de poca devoción?
-Saith Kabir, mi gurú _Ramanand_,[^28] Ganesh, Shiv, [^29] y todos los hombres lo saben,
-Que Kabir al morir pronunció el santo nombre de Dios. [^30] Y también lo siguiente: —
+Saith Kabir, mi gurú _Ramanand_,[^29] Ganesh, Shiv, [^30] y todos los hombres lo saben,
+Que Kabir al morir pronunció el santo nombre de Dios. [^31] Y también lo siguiente: —
 Tú eres mi gran monte; oh Señor, he buscado tu refugio.
 No te tambaleas, ni yo caigo; Tú me has cubierto, oh Dios;
 De vez en cuando y para siempre, _solo estás_ Tú. Por tu favor soy siempre feliz.

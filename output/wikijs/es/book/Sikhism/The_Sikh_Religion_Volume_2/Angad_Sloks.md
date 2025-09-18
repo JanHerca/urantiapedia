@@ -306,7 +306,7 @@ Dios mira con favor, Nanak, a aquellos que llevan el estandarte de Su nombre.
 La inferioridad de los Veds respecto a las enseñanzas del Gurú —
 
 Los lectores de los Veds han traído cuentos y leyendas _de los dioses_, y han definido pecados y virtudes.
-Porque lo que los hombres dan, lo reciben, y lo que reciben, lo dan[13], y, en consecuencia, nacen de nuevo, ya sea en el infierno o en el cielo.
+Porque lo que los hombres dan, lo reciben, y lo que reciben, lo dan[^14], y, en consecuencia, nacen de nuevo, ya sea en el infierno o en el cielo.
 El mundo vagabundea en la duda sobre qué son las castas y especies altas y bajas;
 _Pero_ la palabra ambrosial _del Gurú_ habla de la Cosa Real, y trae conocimiento divino y meditación;
 Los piadosos lo dicen, los piadosos lo saben; aquellos que poseen el conocimiento divino meditan en ello y actúan conforme a ello.
@@ -317,13 +317,13 @@ El futuro del hombre está determinado por sus actos :—
 
 Como son sus actos, así es el hombre: ésta es una consecuencia necesaria;
 Quien tiene las marcas de la piedad no puede perderlas; debe conservar esa apariencia.
-El que actúa según la voluntad de Dios recibe su recompensa; Nanak, él es digno de homenaje.[^14]
+El que actúa según la voluntad de Dios recibe su recompensa; Nanak, él es digno de homenaje.[^15]
 
 ## MALAR KI WAR
 
 La temporada de lluvias, durante la cual los nativos de la India suelen descansar, se considera un momento de placer:
 
-Sawan [^14] ha llegado, compañeros míos, pensad en el Novio;
+Sawan [^16] ha llegado, compañeros míos, pensad en el Novio;
 Nanak, la mala esposa que ama a otro se consumirá y morirá.
 
 <span id="p56">[<sup><small>pág. 56</small></sup>]</span>

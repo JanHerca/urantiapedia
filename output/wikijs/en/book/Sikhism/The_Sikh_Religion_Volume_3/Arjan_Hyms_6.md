@@ -45,7 +45,7 @@ Saith Nanak, when I saw God with mine eyes my heart was gratified with Him.
 Highly adorned are my beautiful gates:
 My continual guests are the beloved saints.
 When I did homage to them and served them, they adjusted mine affairs.
-God Himself is the Groomsman, He Himself is the Bridesman, He Himself is the priest, He Himself is the God of marriage.”
+God Himself is the Groomsman, He Himself is the Bridesman, He Himself is the priest, He Himself is the God of marriage.[^1]
 He Himself adjusteth His own affairs; He Himself sustaineth the world. <span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 Saith Nanak, when the Bridegroom sitteth at home with me adorned are my beautiful gates ;
 The nine treasures in abundance then enter my house,
@@ -205,7 +205,7 @@ Nanak representeth, the saints of God are ever steadfast in seeking His protecti
 
 Why should man fall away from God for the sake of short-lived pleasure ?>—
 
-Rise and go, O traveller,t why delayest thou ?
+Rise and go, O traveller,[^6] why delayest thou ?
 Thine appointed time is complete; why covetest thou what is false ?
 Thou covetest what is false, and by the deceit of Maya thou committest innumerable sins.
 O wretched man, Death hath sought thee; thou shalt be overcome by him, and thy body shall be a heap of ashes.
@@ -271,7 +271,7 @@ Love to the Beloved hath sprung up within me: I have abandoned the world to meet
 Mine eyelids close not ; I am absorbed in the love of the Dear One; my mind anxiously looketh for Him night and day.
 They who are imbued with God’s love and intoxicated with the Name, lose all fear, doubt, and worldly love.
 Bestow mercy and compassion, O Thou compassionate, all-pervading God, that Nanak may be absorbed in Thy love.
-The bumble-bee is humming, the bumble-bee is humming ; alas! intoxicated with the savour and odour of the honey of the flowers, it entangleth itself in its love for the lotus.
+The bumble-bee is humming, the bumble-bee is humming ; alas! intoxicated with the savour and odour of the honey of the flowers,[^11] it entangleth itself in its love for the lotus.
 The heart of the chatrik thirsteth, the heart of the chatrik <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> thirsteth ; its heart longeth for the beautiful cloud-drops ; when it drinketh all its fever departeth.
 O Destroyer of fear, O Destroyer of sorrow, come to me: my soul and body feel for Thee excessive love.
 Beautiful, clever, wise Lord, with what tongue shall I utter Thy praise ?

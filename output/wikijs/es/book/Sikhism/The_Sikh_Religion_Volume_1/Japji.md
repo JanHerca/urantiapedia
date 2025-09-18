@@ -312,7 +312,7 @@ Lavará su impureza en el lugar de peregrinación, dentro de él.
 Todas las virtudes son tuyas, oh Señor; ninguna es mía.
 No hay devoción sin virtud.
 Del Autoexistente procedió Maya (athi), de donde surgió una palabra que produjo a Brahma y al resto[^1]—
-'¡Eres veraz, eres hermosa, siempre hay placer en tu corazón!'
+«¡Eres veraz, eres hermosa, siempre hay placer en tu corazón!»
 ¿Qué hora es, qué época es, qué día lunar y qué día de la semana?
 ¿En qué estación y en qué mes se creó el mundo?
 Los Pandits no lo descubrieron; si lo hubieran hecho, lo habrían registrado en los Purans.
@@ -610,7 +610,7 @@ Aquellos que han reflexionado sobre el Nombre y se han marchado tras haber cumpl
 
 [^4]: _Gur Parsâd_. Hemos traducido estas palabras en deferencia a las opiniones de la mayoría de los sijs; pero con varios gyânis portados, no dudamos que pretendían ser epítetos de Dios, el grande y generoso. Gurú Nanak no tuvo gurú humano; como ya hemos visto, su gurú era Dios. Fue durante la supremacía espiritual de sus sucesores que se invocó el favor del Gurú, considerándose indispensable para la liberación. Además, aunque _gur parsâd_ a veces significa en el Granth Sâhib el favor del Gurú, parece expresarse con más frecuencia como _gur parsâdi_.
 
-[^5]: _Bhi_. Hay dos _bhi_s en este verso que algunos consideran idiomáticos. Tenemos muy pocas dudas de que el primer _bhi_ es un pasado obsoleto del verbo defectuoso _bhu_, y que el verso debería traducirse como 'El Verdadero es, fue y también será'. Compárese con: 'Guru Nânak, Shahu hai, bhi, hosi'. —Sûhi Ashtapadi 1.
+[^5]: _Bhi_. Hay dos _bhi_s en este verso que algunos consideran idiomáticos. Tenemos muy pocas dudas de que el primer _bhi_ es un pasado obsoleto del verbo defectuoso _bhu_, y que el verso debería traducirse como «El Verdadero es, fue y también será». Compárese con: «Guru Nânak, Shahu hai, bhi, hosi». —Sûhi Ashtapadi 1.
 
 [^6]: También traducido—
   Dios era verdadero en el principio, era verdadero en la era primordial.
@@ -631,7 +631,7 @@ Aquellos que han reflexionado sobre el Nombre y se han marchado tras haber cumpl
 
 [^7]: También traducido: El que conoce sus señales.
 
-[^1]: Se entiende que _Châr_ es una forma contraída de _achâr_. Algunos traducen la palabra 'excelente' y la convierten en un epíteto de wadiâi.
+[^1]: Se entiende que _Châr_ es una forma contraída de _achâr_. Algunos traducen la palabra «excelente» y la convierten en un epíteto de wadiâi.
 
 [^2]: Esta y la línea anterior de este pauri también se traducen—
   Algunos cantan su poder según sus capacidades;
@@ -727,7 +727,7 @@ Primero se forma el cuerpo, y luego el alma de otro cuerpo entra en él. Dios de
 
 [^4]: Agua en la que se ha disuelto el tinte del Nombre.
 
-[^1]: El verso también se traduce como "¡Bendición para Ti!", y se dice que fue el primer saludo que Brahma te dirigió.
+[^1]: El verso también se traduce como «¡Bendición para Ti!», y se dice que fue el primer saludo que Brahma te dirigió.
 
 [^2]: Guru Nânak significa los escribas que pusieron el Corán por escrito.
 

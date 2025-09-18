@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:30:58Z
   </table>
 </figure>
 
-LA VIE DE GURU NANAK. CHAPITRE V
+## LA VIE DE GURU NANAK. CHAPITRE V
 
 Le gourou partit vers l'est, vêtu d'un étrange mélange d'habits religieux hindous et musulmans. Il revêtit une veste couleur mangue, sur laquelle il jeta un safa ou drap blanc. Il portait sur sa tête le chapeau d'un Qalandar musulman[^3], un collier d'os et une marque safran imprimée sur son front, à la manière des hindous. C'était un gage de son désir de fonder une religion acceptable à la fois par les hindous et les musulmans, sans se conformer à aucune des deux confessions. En cheminant, le gourou et son assistant rencontrèrent un notable musulman appelé Cheikh Wajid. Le gourou descendit sous un arbre, et ses porteurs commencèrent à le shampouiner et à l'éventer. Cela donna matière à réflexion à Mardana, qui demanda au gourou s'il n'y avait pas un Dieu pour les riches et un autre pour les pauvres. Le gourou répondit qu'il n'y avait pas <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> n'était qu'un seul Dieu. Mardana posa alors sa question sous une autre forme : « Qui a créé cet homme qui voyage dans une berline de confort alors que ses porteurs sont pieds nus ? Leurs jambes sont nues tandis qu'ils le shampouinent et le ventilent. » Le gourou répondit par les vers suivants :
 

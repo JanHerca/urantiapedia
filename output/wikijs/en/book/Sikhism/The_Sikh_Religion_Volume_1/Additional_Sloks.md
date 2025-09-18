@@ -63,7 +63,7 @@ The following was composed by Guru Nanak on seeing women mourning:—
 
 They are saying ‘Hai hai!’ and ‘Oh Oh!’;
 They beat their cheeks and pluck out the hairs of their heads;
-They utter God's name[^1] _without meaning it: if they_ were absorbed in it,
+They utter God's name[^2] _without meaning it: if they_ were absorbed in it,
 Then would Nanak be a sacrifice unto them.
 
 The Guru went to visit a man of reputed sanctity, but on finding him a hypocrite composed the following:—
@@ -77,7 +77,7 @@ Pure is the ablution, O Nanak, when the Guru is deemed the river of pilgrimage.
 
 The really holy are few:—
 
-The saints are few, not many; deceit and wrangling Prevail in the world.[^2]
+The saints are few, not many; deceit and wrangling Prevail in the world.[^3]
 
 <span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
@@ -110,7 +110,7 @@ And be worthy of worship.
 A definition of a Khatri:—
 
 He is a Khatri who is brave in good deeds
-And who employeth his body in charity.[^1]
+And who employeth his body in charity.[^4]
 The Khatri who inspecteth his ground before sowing his gifts,
 
 <span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
@@ -134,13 +134,13 @@ Without truth there is no credit, and without capital no balance.
 If Ram had been God he would not have lost his queen Sita, and he would himself have healed his half-brother Lachhman instead of calling on Hanuman to do so:—
 
 Ram Chandar mourned in his soul for Sita and Lachhman
-He remembered Hanuman,[^1] and he came to meet him.
+He remembered Hanuman,[^5] and he came to meet him.
 The misguided demon _Rawan_ did not know it was _not Ram but God_ who did this.
 Nanak, God is independent: Ram could not erase his destiny.
 
 A purse-proud person addressed improper language to the Guru. When the Guru's disciples took this amiss, the Guru uttered the following:—
 
-Impute not blame to the Rai;[^2] his intellect is forsaking him in his old age.
+Impute not blame to the Rai;[^6] his intellect is forsaking him in his old age.
 
 <span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
@@ -175,12 +175,12 @@ END OF VOL. I
 
 [^1]: _Dohi dichai_. Literally-make a proclamation to depart.
 
-[^1]: _Oh hai_. He is.
+[^2]: _Oh hai_. He is.
 
-[^2]: Also translated—They who act as become faqîrs are few in the world.
+[^3]: Also translated—They who act as become faqîrs are few in the world.
 
-[^1]: That is, who sacrifices himself for others.
+[^4]: That is, who sacrifices himself for others.
 
-[^1]: See the story of Hanumân going for a plant to heal Lachhman, in Dowson's _Dictionary of Hindu Mythology_.
+[^5]: See the story of Hanumân going for a plant to heal Lachhman, in Dowson's _Dictionary of Hindu Mythology_.
 
-[^2]: This word means a nobleman.
+[^6]: This word means a nobleman.

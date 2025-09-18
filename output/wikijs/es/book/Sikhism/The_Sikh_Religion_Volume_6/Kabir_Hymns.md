@@ -146,7 +146,7 @@ Y decid que sólo los hombres santos obtendrán la felicidad en este océano de 
 Dijo Kabir: ¿Por qué se realizan tantas ceremonias?
 Abandonando todas las demás esencias, bebamos la gran esencia _del nombre de Dios_.
 
-Dios 'prefiere antes de todos los templos el corazón recto y puro'
+Dios «prefiere antes de todos los templos el corazón recto y puro»
 
 <p style="text-align:center;">VI</p>
 
@@ -176,7 +176,7 @@ Si eres un Brahman nacido de una madre Brahmani,
 Dice Kabir: Sólo aquel que medita en Dios
 Es un Brahman en mi opinión.
 
-'Todos son hombres condenados por igual a gemir.'
+«Todos son hombres condenados por igual a gemir.»
 
 <p style="text-align:center;">VIII</p>
 
@@ -401,8 +401,6 @@ Oh hombre, ¿dónde has naufragado y hundido tu barca?
 Habiendo roto con Dios te has unido a los pecados mortales,
 En cuyo fuego arden semidioses y hombres.
 
-[^xx1]
-
 <span id="p154"><sup><small>[ pág. 154 ]</small></sup></span>
 
 El agua [^30] está cerca, pero, oh bestias, ¿por qué no la bebéis, quitándoos su espuma?[^31]
@@ -623,7 +621,7 @@ Habiendo cortado el nacimiento y la muerte he alcanzado el estado supremo.
 _Dios_ me ha unido al gremio de los santos,
 Y me liberó de los cinco pecados capitales.
 El nombre ambrosial lo repito con mi lengua;
-Dios me ha hecho su esclavo no comprado [^50]2
+Dios me ha hecho su esclavo no comprado [^50]
 El verdadero gurú me hizo un favor
 Rescatándome del océano del mundo.
 He comenzado a amar los pies de loto de Dios,
@@ -754,8 +752,8 @@ La vida humana bajo la alegoría de un buey y su carga.
 
 <p style="text-align:center;">XLIX</p>
 
-Con méritos y deméritos se compra un buey; [^66] la vida aparece como el capital;[^67]
-De esta manera se compra un rebaño; 3 la codicia que llena el corazón del hombre es como un saco _sobre el lomo del buey_.
+Con méritos y deméritos se compra un buey; [^65] la vida aparece como el capital;[^66]
+De esta manera se compra un rebaño; [^67] la codicia que llena el corazón del hombre es como un saco _sobre el lomo del buey_.
 Tan _poderoso_ es mi Dios <span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 Quien hizo del mundo entero un comerciante.[^68]
 Tanto la lujuria como la ira son recaudadores de impuestos; [^69] los caprichos de la mente son ladrones de caminos.
@@ -834,8 +832,8 @@ Entonces llega el tejedor [^82], dejando su última morada.
 Si el cuerpo no obtiene almidón rápidamente, se peleará y destruirá su morada.[^84]
 _Oh hombre_, ¿cuántos días te quedan para estar sentado _sin hacer nada_? ¿Cuándo volverás a tener la oportunidad, tú que eres adverso al Señor?
 Las vasijas [^85] y los carreteles mojados caerán en pedazos, y el tejedor se marchará enojado;
-El hilo no sale de una bobina vacía, [^87] y _la tela_ no permanecerá enrollada alrededor de la viga.
-¡Oh, miserable hombre! Permanece en el mundo, pero renuncia a la ostentación. Kabir _te da este_ consejo.[^88]
+El hilo no sale de una bobina vacía, [^86] y _la tela_ no permanecerá enrollada alrededor de la viga.
+¡Oh, miserable hombre! Permanece en el mundo, pero renuncia a la ostentación. Kabir _te da este_ consejo.[^87]
 
 <span id="p171"><sup><small>[ pág. 171 ]</small></sup></span>
 
@@ -866,7 +864,7 @@ La intoxicación del orgullo engaña a aquellos que no guardan la palabra del gu
 Pecadores son aquellos que se dejan llevar por el placer, que son tentados por los deleites sensuales y que disfrutan del sabor del vino.
 Los que por destino mantienen la compañía de los santos, flotan como el hierro unido a la madera.
 Por error he vagado entre los seres humanos y los de nacimiento inferior; ahora estoy cansado y agotado por el trabajo.
-Dijo Kabir: “Al encontrarme con el gurú sentí una gran alegría y mi amor y devoción me salvaron”.
+Dijo Kabir: «Al encontrarme con el gurú sentí una gran alegría y mi amor y devoción me salvaron».
 
 Los engaños del mundo.
 
@@ -983,7 +981,7 @@ Kabir anhela a Dios como una esposa amorosa para su cónyuge ausente.
 
 Una mujer con los ojos llenos de lágrimas y suspiros aguarda a _su señor_;
 Su corazón no está contento; ella no vuelve sobre sus pasos con la esperanza de verlo.
-¿Por qué no te alejas, cuervo negro, para que pueda encontrarme pronto con mi amado? <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
+¿Por qué no te alejas, cuervo negro, [^97] para que pueda encontrarme pronto con mi amado? <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 Dice Kabir: realiza el servicio a Dios para obtener la dignidad de la vida eterna;
 El nombre de Dios es el único apoyo; repítelo con tu lengua.
 
@@ -992,8 +990,8 @@ Hay muchas excelencias en el cuerpo; Dios reside dentro de él y Kabir está enc
 <p style="text-align:center;">LXVI</p>
 
 Hay muchos arbustos de albahaca dulce; cerca y dentro de ellos se encuentra el pueblo de Barsana.[^98]
-La lechera _Radha_ al ver la belleza de _Krishan_ se enamoró: 'No me dejes; no vayas de aquí para allá.'
-"Mi corazón está apegado a tus pies; oh portador del arco, muy afortunada es aquella que te encuentra."[99]
+La lechera _Radha_ al ver la belleza de _Krishan_ se enamoró: «No me dejes; no vayas de aquí para allá.»
+"Mi corazón está apegado a tus pies; oh portador del arco, muy afortunada es aquella que te encuentra."[^99]
 Encantador es Bindraban, donde el fascinante Krishan pastoreaba su ganado.
 Puesto que tú eres mi Señor, oh poseedor del arco, Kabir (el grande) es mi nombre.
 
@@ -1099,7 +1097,7 @@ Abandonando el orgullo de mi corazón, mi alma está perfumada con el perfume de
 Dios habita en aquel que ha cantado y meditado en sus alabanzas.
 Muy afortunados son aquellos en cuyo corazón _Él_ habita, y distinguido es el destino grabado en sus frentes.
 He destruido a Maya, [^109] el conocimiento divino se ha encendido en mi corazón y me he absorbido en el único Dios.
-Dijo Kabir: “Al encontrarme con el gurú sentí un gran consuelo; mi mente dejó de divagar y está feliz”.
+Dijo Kabir: «Al encontrarme con el gurú sentí un gran consuelo; mi mente dejó de divagar y está feliz».
 
 <p style="text-align:center;">ACRÓSTICO DE KABIR</p>
 
@@ -1390,7 +1388,7 @@ Pero en ese caso sólo existiría Dios y el hombre no existiría en absoluto.
 
 <p style="text-align:center;">43</p>
 
-Todo el mundo anda diciendo: "Tomaré esto, y tomaré aquello".[^130]
+Todo el mundo anda diciendo:«Tomaré esto, y tomaré aquell».
 Por eso sienten un gran dolor _cuando se sienten decepcionados_.
 El que fija su atención en Dios,
 Obtendrá toda la felicidad y sus penas desaparecerán.
@@ -1405,10 +1403,10 @@ Tendrá un lugar de residencia con Aquel de quien está separado.
 <p style="text-align:center;">45</p>
 
 Los _Pandits_ han unido de otra manera las cincuenta y dos letras,
-Pero no pueden reconocer ni una sola letra.[^131]
+Pero no pueden reconocer ni una sola letra.[^130]
 Kabir pronuncia la palabra del Verdadero —
 Es un pandit quien permanece sin temor.
-_Unir letras_ [^132] es tarea de los Pandits;
+_Unir letras_ [^131] es tarea de los Pandits;
 Meditar en Dios _es la ocupación_ del hombre santo.
 Dice Kabir, el hombre entenderá _qué hacer_.
 Según su inteligencia.
@@ -1726,10 +1724,10 @@ Cuando el aceite se gasta y la mecha se apaga, la cámara queda oscura.
 
 Oh loco, _cuando tu lámpara se apaga_, nadie te guardará ni siquiera por un ghari,
 Por tanto, repite el nombre de Dios. ¿Quién tiene madre? ¿Quién tiene padre? ¿Quién tiene esposa?
-Cuando el barco revienta, [^167] nadie pregunta por ti; todo es: "¡Sácalo! ¡Sácalo!"
+Cuando el barco revienta, [^167] nadie pregunta por ti; todo es:«¡Sácalo! ¡Sácalo»
 Tu madre está sentada en el umbral y llora, y tu hermano te quita el féretro.
 Tu mujer abre las trenzas de su cabello y llora; el alma parte sola.
-Dice Kabir: “Escuchen, oh santos, lo que dice este terrible océano”.
+Dice Kabir: «Escuchen, oh santos, lo que dice este terrible océano».
 El esclavo sufre tormento, y el señor de la muerte no se retira de él, oh Dios.
 
 <span id="p201"><sup><small>[ pág. 201 ]</small></sup></span>
@@ -1894,7 +1892,7 @@ Esta serpiente es criatura de Dios. Es débil, ¿qué puede hacer?
 Pero mientras ella permanezca _con el hombre, su alma_ permanecerá en los cuerpos;[^185]
 Por el favor del gurú, Kabir ha escapado fácilmente de ella.
 
-'No arrojéis perlas a los cerdos'
+«No arrojéis perlas a los cerdos»
 
 <p style="text-align:center;">XX</p>
 
@@ -1941,7 +1939,7 @@ Las ramas _de un árbol_ [^202] abajo, sus raíces [^203] arriba;
 Y su tronco dando fruto [^204] y flores; [^205]
 Un búfalo [^206] a caballo yendo a pastar un caballo; [^207]
 Un buey [^208] en camino _mientras_ su carga [^209] llegaba a casa _antes que él_.
-Dice Kabir: “Quien entienda este himno lo sabrá todo al repetir el nombre de Dios”.
+Dice Kabir: «Quien entienda este himno lo sabrá todo al repetir el nombre de Dios».
 
 Todo el esfuerzo del alma por obtener un cuerpo humano se perderá si no se recuerda a Dios.
 
@@ -2188,7 +2186,7 @@ Los Nadis, [^238] los lectores de los Veds, los Ekshabdis y los Monis [^239] est
 El servicio amoroso [^240] no entra en el corazón _del hombre_; él mima su cuerpo y lo entrega _a la muerte_;
 Él hipócritamente _canta_ himnos, pero ¿qué puede obtener de Dios?
 La muerte ha caído sobre el mundo entero; en su _registro_ está inscrito el teólogo escéptico.
-Dice Kabir: “Quienes conocen el amor _de Dios_ y la devoción a Dios son puros”.[^241]
+Dice Kabir: «Quienes conocen el amor _de Dios_ y la devoción a Dios son puros».[^241]
 
 Los santos están completamente saturados de Dios.
 
@@ -2487,7 +2485,7 @@ Nueve agrimensores [^268] y diez jueces [^269] se van de _gira_ y no dejan vivir
 No miden con cinta métrica y aceptan muchos sobornos.
 El único Ser que está contenido en las setenta y dos cámaras del cuerpo ha cancelado mi cuenta;
 He buscado en la oficina de Dharmraj y _descubrí_ que no le debo ni un átomo.
-Que nadie insulte a los santos; los santos y Dios son uno. Kabir dice: «He encontrado a ese Gurú cuyo nombre es Bibeko».[271]
+Que nadie insulte a los santos; los santos y Dios son uno. Kabir dice: «He encontrado a ese Gurú cuyo nombre es Bibeko».[^271]
 La muerte triunfa sobre todos, excepto sobre los adoradores sinceros de Dios.
 
 <p style="text-align:center;">BILAWAL</p>
@@ -2546,7 +2544,7 @@ Todos los reyes de este mundo sólo existen por cuatro días, hacen una falsa ex
 ¿Por qué debería vacilar el esclavo de Aquel que eclipsa los tres mundos?[^275]
 ¿Quién podrá ponerle las manos encima cuando ni siquiera se le puede hablar con el debido respeto?
 ¡Oh mente mía, irreflexiva y tonta! Piensa _en Dios_, y la música ininterrumpida del éxtasis sonará para ti.
-Dijo Kabir: “Todas mis dudas e incertidumbres han terminado; _Dios_ me ha favorecido como lo hizo con Dhru y Prahlad”.
+Dijo Kabir: «Todas mis dudas e incertidumbres han terminado; _Dios_ me ha favorecido como lo hizo con Dhru y Prahlad».
 Kabir se menosprecia a sí mismo.
 
 <p style="text-align:center;">VI</p>
@@ -2556,7 +2554,7 @@ No he practicado la humildad, los deberes de mi religión, la repetición de tu 
 Creyendo que este cuerpo es inmortal, he mimado el vaso frágil y perecedero;
 Me he olvidado de Aquel que me creó y me favoreció, y me he apegado a extraños.
 Soy tu ladrón de casas y no tu santo; caigo a tus pies en busca de protección.
-Dice Kabir: «Escucha esta súplica; no me envíes noticias de muerte».[276]
+Dice Kabir: «Escucha esta súplica; no me envíes noticias de muerte».[^276]
 
 <span id="p231"><sup><small>[ pág. 231 ]</small></sup></span>
 
@@ -2639,7 +2637,7 @@ Cuando te encuentres con un santo, ten alguna conversación con él;
 Cuando te encuentres con un hombre que no sea un santo, permanece en silencio.
 _A Kabir le preguntaron de nuevo_ —
 Oh Padre, si hablo, ¿de qué hablaré?
-Por ejemplo: “Continúa repitiendo el nombre de Dios”.
+Por ejemplo: «Continúa repitiendo el nombre de Dios».
 Los que hablan con los santos confieren ventaja a los demás;
 Quien habla con necios, habla en vano. <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 Por hablar incesantemente _con ellos_, el pecado aumenta;
@@ -2756,7 +2754,7 @@ Salve a la mujer que ha hecho girar las cabezas
 Ella es hija de un avaro;
 Rechazando a los adoradores de Dios, se acuesta con todos.
 Por fin, de pie ante la puerta de los santos,
-Ella dice: 'He buscado tu protección, ¡sálvame!'
+Ella dice: «He buscado tu protección, ¡sálvame!»
 La mujer es muy hermosa ;
 Sus adornos tintinean en sus pies;
 Mientras el hombre esté vivo, ella se apega a él;
@@ -2876,7 +2874,7 @@ El gentil orden de tu corte quedó grabado en mi frente.[^306]
 Los que llevan esta marca luchan valientemente en la batalla; los que la llevan no huyen.
 El que es santo sabe servir a Dios, y Dios lo pone en su tesoro.[^307]
 En la casa _del cuerpo_ está la cámara _del corazón_, que se convierte en la cámara más preciosa de todas cuando se llena con la meditación _en Dios_.
-El gurú le ha concedido el nombre de Dios, la Cosa Real, a Kabir, diciendo: "Tómalo y cuídalo";
+El gurú le ha concedido el nombre de Dios, la Cosa Real, a Kabir, diciendo:«Tómalo y cuídal»;
 Kabir se lo ha ofrecido al mundo, pero solo aquel que estaba destinado a ello lo recibe. —<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 Permanece el estado matrimonial de aquella que ha encontrado el elixir inmortal.
 
@@ -2918,7 +2916,7 @@ Para que puedas estar tranquilo mientras disfrutas _del mundo_, realiza tu devoc
 Haz que el conocimiento _de Dios_ sea la ceniza que untas sobre tu cuerpo, [^318] y la meditación tu cuerno;
 Abandonando el mundo, vaga por la ciudad del cuerpo, y juega con tu corazón como un kinguri;
 Planta las cinco virtudes en tu corazón para que tu contemplación no sea perturbada por el mundo.
-Dice Kabir: “Escuchad, oh santos, haced de la honestidad y de la misericordia vuestro jardín”.
+Dice Kabir: «Escuchad, oh santos, haced de la honestidad y de la misericordia vuestro jardín».
 
 <span id="p244"><sup><small>[ pág. 244 ]</small></sup></span>
 
@@ -3129,20 +3127,20 @@ Un Bairagi que había venido de Dwaraka le dijo a Kabir que había visto a Dios 
 <p style="text-align:center;">VIII</p>
 
 Oh Bairagi, nadie ha visto al Intrépido;
-¿Se puede alcanzar al Intrépido sin temerle? —Ciertamente no. —[335]
+¿Se puede alcanzar al Intrépido sin temerle? —Ciertamente no. —[^335]
 Oh Bairagi, si el _hombre_ viera presente al Señor, sentiría miedo;
 El que obedece la orden de Dios no tiene miedo. —Ciertamente.
-Oh Bairagi, aunque todas las personas están imbuidas de hipocresía, no la practiques ante Dios. "Ciertamente no".
+Oh Bairagi, aunque todas las personas están imbuidas de hipocresía, no la practiques ante Dios.«Ciertamente n».
 Oh Bairagi, los _hombres_ no dejéis de lado la codicia;
-El egoísmo ha destruido el cuerpo — "Ciertamente."
+El egoísmo ha destruido el cuerpo —«Ciertamente»
 Oh Bairagi, el fuego de la preocupación ha quemado el cuerpo,
-Pero _podrás escapar de ello_ si amortiguas tus sentimientos: "Ciertamente".
+Pero _podrás escapar de ello_ si amortiguas tus sentimientos:«Ciertament».
 Sin un verdadero gurú no puede haber desprecio por el mundo, oh Bairagi,
-Aunque todo el mundo lo desee: "Por supuesto".
+Aunque todo el mundo lo desee:«Por supuest».
 Oh Bairagi, si es la voluntad de Dios, conocerás al verdadero gurú, <span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 Y fácilmente alcanzarás a Dios—Ciertamente.
 Dice Kabir, oh Bairagi, _dirige_ una oración a Dios,
-Para llevarte a través del terrible océano — "Ciertamente."
+Para llevarte a través del terrible océano —«Ciertamente»
 
 Krishan iba un día a visitar a Duryodhan, pero se enteró de que este celebraba la corte. Para evitar las ceremonias reales y los entretenimientos que conllevaban, Krishan pasó la noche con Vidur. Al día siguiente, cuando Krishan y Duryodhan se encontraron, este último lo reprendió amistosamente por no haber ido directamente a verlo. La siguiente es la respuesta de Krishan:
 
@@ -3189,7 +3187,7 @@ No te enorgullezcas de tu riqueza ni de tu juventud; se disuelven como el papel.
 Cuando la Muerte venga y te agarre por los cabellos y te derribe, ese día serás impotente.
 No te has acordado de Dios, ni le has adorado, ni has mostrado misericordia a sus criaturas; por eso serás herido en la boca.
 Cuando Dharmraj te pida cuentas, ¿qué cara le mostrarás?
-Dice Kabir: “Escuchad, hombres buenos, seréis salvados en la compañía de los santos”.
+Dice Kabir: «Escuchad, hombres buenos, seréis salvados en la compañía de los santos».
 La condición de quien ha obtenido la salvación durante la vida.
 
 <p style="text-align:center;">KEDARA</p>
@@ -3222,7 +3220,7 @@ Dios mismo es la gema, la joya y la piedra preciosa;
 Él pone _todo_ en movimiento;
 Es un comerciante permanente.
 _Oh hombre_, haz de tu corazón el buey, de la meditación el camino, llena tu saco con conocimiento divino y cárgalo sobre el buey;
-Dice Kabir: “Escuchen, oh santos, mis bienes han llegado a su destino”.
+Dice Kabir: «Escuchen, oh santos, mis bienes han llegado a su destino».
 
 Lo siguiente fue dirigido a un Jogi que se fortificaba para sus austeridades con brebajes de vino.
 <p style="text-align:center;">Enfermo</p>
@@ -3462,8 +3460,8 @@ Para un Qazi así no hay vejez ni muerte.
 Es un emperador [^363] que _sabe_ cómo tomar sus dos alientos,[^364] <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 ¿Quién recuerda su mente cuando está dispersa, quién reúne el ejército de alientos [^364] en su cerebro?
 Tal persona es un emperador y tiene un paraguas sobre su cabeza.
-Los Jogis gritan 'Gorakh, Gorakh';
-Los hindúes repiten "Ram, Ram";
+Los Jogis gritan «Gorakh, Gorakh»;
+Los hindúes repiten«Ram, Ra»;
 Los musulmanes tienen Khuda,
 Pero el Dios de Kabir es Omnipresente.
 
@@ -3513,7 +3511,7 @@ También lo son los monos, los leopardos, los leones, los gatos, las ovejas y lo
 Los árboles y tubérculos están sujetos a Maya;
 Los semidioses están saturados de Maya;
 Así son el océano, el firmamento y la tierra.
-Dice Kabir: “Quien tiene barriga _está sujeto_ a Maya”.
+Dice Kabir: «Quien tiene barriga _está sujeto_ a Maya».
 Pero el hombre quedará libre _de su influencia_ cuando encuentre un santo.
 Que el hombre fije su atención en Dios y no en las cosas mundanas.
 
@@ -3633,7 +3631,7 @@ Donde no hay sol ni luna.
 Él era en el principio; Él es sin mancha y feliz.
 Sabe que Él permea el cuerpo así como el universo;
 Se baña en Mansarowar; [^382]
-Su contraseña es 'Soham' (Yo soy Él);
+Su contraseña es «Soham» (Yo soy Él);
 No está sujeto a méritos ni deméritos,
 _No me preocupa_ la casta, ni la luz del sol, ni la sombra;
 Sólo se le encuentra en el asilo del gurú.
@@ -3867,7 +3865,7 @@ El amor de los padres, de los hermanos, de los hijos y de la esposa es fugaz.
 Construir una balsa para el otro mundo: ¿qué confianza se puede depositar en la riqueza?
 ¿Qué confianza se puede depositar en este vaso si se le hace el más mínimo daño?[^399]
 Obtendrás el fruto de toda religión y buenas obras si deseas convertirte en el polvo de los pies de todos.
-Dice Kabir: “Escuchen, oh santos, la mente es como el pájaro que vuela en el bosque”.
+Dice Kabir: «Escuchen, oh santos, la mente es como el pájaro que vuela en el bosque».
 
 <span id="p276"><sup><small>[ pág. 276 ]</small></sup></span>
 
@@ -3928,7 +3926,7 @@ Kabir ofreció a Dios la siguiente oblación en lugar de incienso, luz y otros a
 Escúchame, Dios de dioses, Señor Supremo, primordial y omnipresente, te ofrezco mis vísperas. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 Los Sidhs, _incluso_ en meditación _profunda_, no han descubierto Tus límites, pero continúan aferrándose a Tu asilo.
 Acepta esta oblación, [^401] ¡Oh Espíritu brillante! Adorad al Verdadero Gurú, hermanos míos.
-Brahma se pone de pie y lee los Veds, pero él no ve lo Invisible.[402]
+Brahma se pone de pie y lee los Veds, pero él no ve lo Invisible.[^402]
 Con el conocimiento divino como mi aceite y tu nombre como mecha, he hecho una lámpara para iluminar mi cuerpo.
 He encendido _la lámpara_ con la luz del Señor del mundo; el que sabe _cómo hacer esto_ conoce al Omnisciente.[^403]
 Los sonidos invictos de Dios que mora con los hombres son mis cinco instrumentos musicales.
@@ -4115,7 +4113,7 @@ Los sonidos invictos de Dios que mora con los hombres son mis cinco instrumentos
   Tanto la lujuria como la ira se convierten en recaudadores de impuestos, y los caprichos mentales en ladrones de caminos.
   El hombre que se asocia con los elegidos que conocen a Dios, paga el impuesto y su buey pasa.
   Dice Kabir: «Escuchen, oh santos, ahora ha llegado el momento en que, al escalar el paso del conocimiento divino, al menos un buey ha desechado su saco de deseos y ha continuado su viaje.
-  Luego viene el mukalawa o 'llevar a casa'. El significado aquí es que la Muerte se lleva a su víctima.
+  Luego viene el mukalawa o «llevar a casa». El significado aquí es que la Muerte se lleva a su víctima.
 
 [^73]: En Oriente, como todavía ocurre entre las clases campesinas de Irlanda, a las mujeres se les permite permanecer algún tiempo después del matrimonio con sus padres.
 
@@ -4259,7 +4257,7 @@ que decide sobre el culto a un solo Dios.
   Cuando un hombre se encuentra con un gurú, éste le revela el secreto del conocimiento divino,
   Y el hombre se aparta del mundo y permanece absorto en lo Infrangible e Indivisible.
 
-[^137]: Un modismo hindi para "todo lugar".
+[^137]: Un modismo hindi para«todo luga».
 
 [^138]: Hacia Dios.
 
@@ -4307,7 +4305,7 @@ que decide sobre el culto a un solo Dios.
 
 [^160]: Un eminente pastelero de la época de Kablr.
 
-[^161]: Algunos comienzan con 'El hijo de una mujer estéril fue a casarse' y hacen que los animales mencionados formen parte de la procesión nupcial, poniendo todo en forma narrativa.
+[^161]: Algunos comienzan con «El hijo de una mujer estéril fue a casarse» y hacen que los animales mencionados formen parte de la procesión nupcial, poniendo todo en forma narrativa.
 
 [^162]: Las setenta y dos cámaras del cuerpo y el cerebro o décima puerta.
 
@@ -4319,7 +4317,7 @@ que decide sobre el culto a un solo Dios.
 
 [^166]: El aceite y la mecha significan vida y aliento.
 
-[^166]: Cuando mueras.
+[^167]: Cuando mueras.
 
 [^167]: Medita sobre el conocimiento divino.
 
@@ -4575,7 +4573,7 @@ que decide sobre el culto a un solo Dios.
 
 [^291]: Y de esta manera pudo protegerse mejor contra ella.
 
-[^292]: _Kutan_ como sustantivo significa "proxeneta" y como verbo significa "azotar" o "castigar". Hay un juego de palabras en el original. Se aplicaba a Kabir porque, cuando su hija lo visitaba, permitió que un desconocido se refugiara en su casa.
+[^292]: _Kutan_ como sustantivo significa«proxenet» y como verbo significa«azota» o«castiga». Hay un juego de palabras en el original. Se aplicaba a Kabir porque, cuando su hija lo visitaba, permitió que un desconocido se refugiara en su casa.
 
 [^293]: También traducido: Dios estabiliza la mente de tal bailarín.
 
@@ -4603,7 +4601,9 @@ que decide sobre el culto a un solo Dios.
 
 [^305]: Es decir, te ruego a Ti.
 
-[^306]: Es decir, fui marcado como Tu esclavo en un nacimiento anterior, [^xx5] Porque él es una moneda genuina y no falsa.
+[^306]: Es decir, fui marcado como Tu esclavo en un nacimiento anterior.
+
+[^307]: Porque él es una moneda genuina y no falsa.
 
 [^307]: Literalmente—por actos obstinados, por amenazas de suicidio, etc.
 
@@ -4645,7 +4645,9 @@ que decide sobre el culto a un solo Dios.
 
 [^325]: _Gagan_—literalmente, el firmamento—es una palabra aplicada por Jogis al cerebro o décima puerta del cuerpo donde habita Dios.
 
-[^326]: Un supuesto paso del aire a través de la médula espinal hasta el cerebro. a El cerebro retiene la respiración y sobreviene un estado de exaltación.
+[^326]: Un supuesto paso del aire a través de la médula espinal hasta el cerebro.
+
+[^327]: El cerebro retiene la respiración y sobreviene un estado de exaltación.
 
 [^327]: Creen que el bien es malo y el mal es bueno. El fruto del mm es amargo, el del mango dulce.
 
@@ -4707,7 +4709,7 @@ que decide sobre el culto a un solo Dios.
 
 [^356]: El cerebro o décima puerta.
 
-[^357]: Esta línea y la precedente también se traducen como "Los hombres del más alto intelecto elevan su aliento al cerebro";
+[^357]: Esta línea y la precedente también se traducen como«Los hombres del más alto intelecto elevan su aliento al cerebr»;
   Cuando te encuentres con ellos, contempla a Dios.
 
 [^358]: Para que todo el aliento del cuerpo llegue al cerebro. Este acto se realiza mecánicamente apoyando el ano sobre el talón.

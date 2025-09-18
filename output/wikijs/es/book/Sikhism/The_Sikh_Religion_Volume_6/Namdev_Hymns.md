@@ -133,7 +133,7 @@ Cuando conozca al verdadero gurú, mis dudas desaparecerán.
 Una piedra es adorada, <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 Otro [^12] es pisoteado:
 Si uno es un dios, el otro también es un dios.
-Dice Namdev: “Yo adoro al Dios _verdadero_”.
+Dice Namdev: «Yo adoro al Dios _verdadero_».
 
 La presencia de Dios se siente aunque no se pueda describir.
 
@@ -158,7 +158,7 @@ Entonces yo, su esclavo, obtengo contentamiento.
 Acepta, oh hombre, la instrucción divina; el verdadero gurú te hará encontrar a Dios.
 Donde brilla la luz celestial,
 Suena música espontánea.
-'La luz de Dios lo impregna todo' [^14] — <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
+«La luz de Dios lo impregna todo» [^14] — <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 Por el favor del gurú lo sé.
 En la cámara del corazón hay joyas [^15]
 Que brillan allí como un rayo.
@@ -171,7 +171,7 @@ El esclavo de Dios, Nama, ha sido fácilmente absorbido por Él.
 
 Todo el siguiente himno se relaciona con la filosofía Jog y la exaltación de la mente producida por su práctica:
 
-<p style="text-align:center;">III</p>
+<p style="text-align:center;">III</p> [^16]
 
 Sin cubrirlo con cuero, el tambor _del cerebro_ toca;
 Sin _esperar el mes_ de Sawan, el trueno ruge,
@@ -200,7 +200,7 @@ Los hombres cavan cimientos profundos y construyen palacios sobre ellos.
 ¿Hubo alguien que vivió más tiempo que Marcos [^18], que se _puso_ hierba en la cabeza y _así_ pasó _sus días_?
 _Sólo_ Dios el Creador es querido para mí; [^19]
 Oh hombre, ¿por qué estás orgulloso? Este cuerpo insustancial será destruido.
-Los Kaurav, Duryodhan y sus hermanos, solían decir: "Todo es nuestro".
+Los Kaurav, Duryodhan y sus hermanos, solían decir:«Todo es nuestr».
 Sus paraguas [^20] se extendían sobre un espacio de doce jojans, _sin embargo_ los buitres devoraban sus cuerpos.
 Lanka era todo oro; ¿existía alguien más grande que Rawan?
 ¿De qué le sirvieron los elefantes atados a su puerta? En un instante pasaron a ser propiedad de otros.
@@ -219,7 +219,7 @@ Alejándome _del mundo_, me he hecho siervo de los santos y les temo. [^23]
 Seré salvado de este mundo en el momento en que deje de estar enredado con Maya.
 Maya es el nombre del poder que coloca al hombre en el vientre materno; abandonándolo obtendré una visión _de Dios_.
 El hombre que adora de esta manera quedará libre de todo temor.
-Dice Namdev: «Oh hombre, ¿por qué andas vagando por el mundo? [24] Alcánzate a Dios por el camino que _te he indicado_».
+Dice Namdev: «Oh hombre, ¿por qué andas vagando por el mundo? [^24] Alcánzate a Dios por el camino que _te he indicado_».
 
 Namdev cuenta con ejemplos familiares lo querido que es Dios para él.
 
@@ -255,7 +255,7 @@ Mujeres y hombres bailan. [^28]
 No hay más dios que Dios
 No discutas sobre este punto.
 Si tienes dudas,
-Dios dice: “Considera en tu corazón que este mundo y yo somos uno”.
+Dios dice: «Considera en tu corazón que este mundo y yo somos uno».
 El mundo es como cántaros de agua, a veces arriba, a veces abajo.
 Vagando he llegado a tu puerta.
 _Dios_ — ¿Quién eres?
@@ -317,7 +317,7 @@ El undécimo día de cada quincena, los hindúes ayunan. Namdev abandonó la pr�
 Los pecadores se han vuelto puros al pronunciar Su nombre.
 En compañía de Dios, Su esclavo Namdev ha adquirido evidencia ocular.
 Ha dejado de ayunar el undécimo día, ¿y por qué debería hacer peregrinaciones?
-Dijo Namdev: “Mis acciones y pensamientos se han vuelto buenos”.
+Dijo Namdev: «Mis acciones y pensamientos se han vuelto buenos».
 ¿Quién no ha ido al cielo pronunciando el nombre de Dios bajo la instrucción del gurú?
 
 Namdev está satisfecho con Dios como su porción.
@@ -626,7 +626,7 @@ Meditando en el nombre de Dios, teñite con un buen tinte;
 Falsas, oh lengua mía, son _todas_ las demás ocupaciones.
 La dignidad del Nirvan sólo se obtiene a través del nombre de Dios.
 Si adorases a incontables millones de otros _dioses_,
-No sería igual a repetir solo el nombre de Dios, Namdev representa, haz esto, _oh mi lengua, y di_ 'Oh Dios, Tus formas son infinitas.'
+No sería igual a repetir solo el nombre de Dios, Namdev representa, haz esto, _oh mi lengua, y di_ «Oh Dios, Tus formas son infinitas.»
 
 Un hombre puede ser perfecto en otros aspectos, pero está perdido si no repite el nombre de Dios.
 
@@ -732,8 +732,8 @@ La reina le explicó a su hijo: 'El rey ha sometido a toda la tierra;
 Hijo mío, Prahlad, no estás haciendo lo que él te ordena; él tiene algún designio sobre ti.
 Un consejo de sus enemigos se reunió y aprobó una resolución: 6 Prolongaremos su vida. [^71]
 _Lo aterrorizaron arrojándolo desde lo alto, metiéndolo en agua y fuego, pero Dios cambió para él _las propiedades_ de la materia.
-Harnakhas, enfurecido, sacó su espada y lo amenazó de muerte, diciendo: "Muéstrame quién te salvará".
-_Prahlad respondió_: 'Dios que viste ropas amarillas, el Señor de los tres mundos, está en el pilar.'
+Harnakhas, enfurecido, sacó su espada y lo amenazó de muerte, diciendo:«Muéstrame quién te salvar».
+_Prahlad respondió_: «Dios que viste ropas amarillas, el Señor de los tres mundos, está en el pilar.»
 _Ante esto_, Dios desgarró a Harnakhas con sus uñas y concedió la felicidad a los semidioses y a los hombres. [^72] <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 Dice Namdev: Medito en ese Dios que otorga la salvación.
 
@@ -1164,7 +1164,7 @@ El alma que permanece siempre fija en el Inescrutable, se vuelve inmortal. [^94]
 
 [^81]: Dhatura, bhang, etc., con los cuales los thags atontan a sus víctimas. Aquí se alude a la ignorancia espiritual.
 
-[^82]: _Tachi an_ también se traduce como "renunciar a esas cosas", pero este significado no sería apropiado en otro lugar.
+[^82]: _Tachi an_ también se traduce como«renunciar a esas cosa», pero este significado no sería apropiado en otro lugar.
 
 [^83]: _Adhi_, dolor mental; _viadhi_, dolor corporal; _upadhi_, dolor por causas externas. Un forúnculo sería _viadhi_, una caída sería _upadhi_.
 

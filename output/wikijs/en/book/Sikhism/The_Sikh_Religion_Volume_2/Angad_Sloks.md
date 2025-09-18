@@ -306,7 +306,7 @@ God looketh with favour, Nanak, on those who bear the standard of His name.
 The inferiority of the Veds to the Guru’s teaching —
 
 The readers of the Veds have brought tales and legends _of the gods_, and defined sins and virtues.
-For what men give they receive, and for what they receive they give,[^13] and they are accordingly born again either in hell or heaven.
+For what men give they receive, and for what they receive they give,[^14] and they are accordingly born again either in hell or heaven.
 The world wandereth in doubt as to what are high and low castes and species ;
 _But_ the ambrosial word _of the Guru_ speaketh of the Real Thing, and bringeth divine knowledge and meditation ;
 The pious utter it, the pious know it; they who possess divine knowledge meditate on it, and act according to it.
@@ -317,13 +317,13 @@ Man’s future is determined by his acts :—
 
 As a man’s acts so is he: this is a necessary consequence ;
 He who hath the marks of piety cannot lose them ; he must retain such appearance.
-He who acteth according to the will of God receiveth his reward ; Nanak, he is worthy of homage.[^14]
+He who acteth according to the will of God receiveth his reward ; Nanak, he is worthy of homage.[^15]
 
 ## MALAR KI WAR
 
 The rainy season, during which the natives of India usually take rest, is accounted a time of pleasure :—
 
-Sawan [^14] hath come, my companions, think of the Bridegroom ;
+Sawan [^16] hath come, my companions, think of the Bridegroom ;
 Nanak, the bad wife who loveth another shall pine away and die.
 
 <span id="p56">[<sup><small>p. 56</small></sup>]</span>

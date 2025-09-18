@@ -32,11 +32,13 @@ dateCreated: 2025-2-12T22:30:58Z
   </table>
 </figure>
 
-GUERRE D'ASA KI[^1]
+## GUERRE D'ASA KI
+
+[^1]
 
 Il n’y a qu’un seul Dieu dont le nom est vrai, le Créateur, dépourvu de peur et d’inimitié, immortel, non né, existant par lui-même, grand et bienfaisant.
 
-GURU HAR GOBIND
+## GURU HAR GOBIND
 
 Cette _Guerre_ inclut des _sloks_. Ces _sloks_ furent également composés par le premier gourou et doivent être chantés sur l'air de « Tunda As Raja ».[^2]
 
@@ -86,14 +88,6 @@ Tes louanges sont vraies, tes éloges sont vrais
 Ta puissance est vraie, ô vrai Roi.
 Nanak, vrais sont ceux qui méditent sur le Véritable.
 Ceux qui naissent et meurent sont les plus faux des faux.[^4]
-
-[^1]: Les _pauris_ de cette collection sont tous de Guru Nanak, donc dans l'original son nom est omis en tête.
-
-[^2]: Dans la littérature sanskrite, Mâya est appelée _anâdi_, sans commencement, donc incréée, mais ce n'est pas la doctrine des gourous. Croire que Dieu n'a pas créé Mâya reviendrait à croire à une limitation de son pouvoir.
-
-[^3]: Également traduit par : Tu donnes et tu retires la vie du corps.
-
-[^4]: _Koch_ est ici utilisé comme corrélatif de _sach_, vrai.
 
 <span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
@@ -213,16 +207,6 @@ Le Vrai est obtenu.
 Que toutes les gharis soient vos laitières, et les pahars vos Krishans et Gopals[^5] :
 Que le vent, l’eau et le feu soient vos joyaux, et la lune et le soleil vos avatars ;
 
-[^1]: Également traduit — Combien expliquent les Védas !
-
-[^2] : Également traduit par « attirer une foule autour d'eux ». Cet hymne vise à donner une brève description des miracles de Ram et Krishan.
-
-[^3] : Littéralement, parler des régions supérieures et inférieures.
-
-[^4]: _Lâkh takiân_. _Takâ_ est en réalité un double pice, ou environ un demi-penny de monnaie anglaise, mais au pluriel, cela signifie l'argent en général.
-
-[^5]: Les _Gopâls_ sont des bergers parmi lesquels Krishan avait l'habitude de se divertir.
-
 <span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 La terre entière, vos propriétés et vaisseaux de _scène_, qui sont tous des enchevêtrements.
@@ -304,10 +288,6 @@ Dieu s'est placé dans le véritable Guru ; Il l'a manifesté et proclamé.
 Le salut s’obtient toujours en rencontrant le véritable gourou qui a banni l’amour du monde en lui.
 Meilleures sont les méditations de celui qui a fixé son esprit sur le Véritable :
 Il a trouvé le Donneur de vie au monde.
-
-[^1]: Et je n’ai rien fait de méritoire dans cette naissance.
-
-[^2]: Ce verset est également traduit par : Beaucoup partent d'ici après avoir dépensé ce qu'ils possédaient ; avaient-ils d'autres affaires _dans ce monde_ ?
 
 <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
@@ -1000,6 +980,14 @@ Il fait ce qu’il veut.
 
 [^2]: En se séparant de Lui-même.
 
+[^1]: Les _pauris_ de cette collection sont tous de Guru Nanak, donc dans l'original son nom est omis en tête.
+
+[^2]: Dans la littérature sanskrite, Mâya est appelée _anâdi_, sans commencement, donc incréée, mais ce n'est pas la doctrine des gourous. Croire que Dieu n'a pas créé Mâya reviendrait à croire à une limitation de son pouvoir.
+
+[^3]: Également traduit par : Tu donnes et tu retires la vie du corps.
+
+[^4]: _Koch_ est ici utilisé comme corrélatif de _sach_, vrai.
+
 [^1]: Également traduit par : Par ta puissance a été créée la nature animée et inanimée.
 
 [^2] : _Mân abhmân_. Ce dernier mot signifie _apmân_, comme souvent dans le Granth Sahib. Comparer à _mân abhimân madhê so sewak nâhîn_ : Celui qui a du respect pour l'honneur ou le déshonneur n'est pas un saint homme.
@@ -1014,6 +1002,16 @@ Il fait ce qu’il veut.
 
 [^2] : _Bhini_. Littéralement — rosée ; lorsque l'atmosphère est calme et la chaleur pas excessive.
 
+[^1]: Également traduit — Combien expliquent les Védas !
+
+[^2] : Également traduit par « attirer une foule autour d'eux ». Cet hymne vise à donner une brève description des miracles de Ram et Krishan.
+
+[^3] : Littéralement, parler des régions supérieures et inférieures.
+
+[^4]: _Lâkh takiân_. _Takâ_ est en réalité un double pice, ou environ un demi-penny de monnaie anglaise, mais au pluriel, cela signifie l'argent en général.
+
+[^5]: Les _Gopâls_ sont des bergers parmi lesquels Krishan avait l'habitude de se divertir.
+
 [^1]: Certains supposent que _kâr_ est un nom signifiant les lignes que les hindous tracent sur le sol pour délimiter les lieux de cuisson, à l'intérieur desquels les autres ne se trouvent pas
 admis.
 
@@ -1023,11 +1021,15 @@ admis.
   (_a_) Traitez les hommes selon leurs actes.
   (_b_) Traitez les autres comme vous voudriez être traité vous-même.
 
+[^1]: Et je n’ai rien fait de méritoire dans cette naissance.
+
+[^2]: Ce verset est également traduit par : Beaucoup partent d'ici après avoir dépensé ce qu'ils possédaient ; avaient-ils d'autres affaires _dans ce monde_ ?
+
 [^1]: Littéralement - N'ont pas mis les pieds dans le mal.
 
 [^2]: Il existe deux formes de Jog ou d'exercice pour l'union de l'âme avec Dieu. _Sahaj jog_ ou _râj jog_ est la répétition du nom de Dieu avec une attention fixe et une association avec le sacré, par opposition au _hath jog_ de Patanjali, la forme la plus sévère et la plus douloureuse des austérités d'un Jogi.
 
-\[1 Plusieurs faqîrs ne mangent pas de maïs, certains vont nus, certains pratiquent un silence perpétuel, certains vont pieds nus, certains mangent des ordures, etc.
+[^1]: Plusieurs faqîrs ne mangent pas de maïs, certains vont nus, certains pratiquent un silence perpétuel, certains vont pieds nus, certains mangent des ordures, etc.
 
 [^2]: Les gyanis se traduisent généralement par : Si un homme marche pieds nus, il souffre simplement de sa folie.
 

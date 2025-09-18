@@ -89,7 +89,7 @@ Se dice que un Labana ofreció un buey a Rav Das. Al rechazar el obsequio, el sa
 <p style="text-align:center;">III</p>
 
 El camino hacia _Dios_ es muy difícil y empinado, y yo _ya_ tengo un buey inútil. [^5]
-Mi única oración a Dios es: “Preserva mi capital,[^6] oh Dios”.
+Mi única oración a Dios es: «Preserva mi capital,[^6] oh Dios».
 ¿Hay algún comerciante de Dios _que quiera acompañarme_? Mis mercancías están cargadas y a punto de partir. [^7]
 Soy un comerciante de Dios y negocio con el conocimiento divino.
 La riqueza que he cargado es el nombre de Dios; el mundo ha cargado veneno. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
@@ -407,7 +407,7 @@ Ella no ve a nadie más, no oye a nadie más y no habla con nadie más.
 ¿Conoces los problemas de los demás?
 La mala esposa [^39] que no ha servido continuamente a su esposo
 Es infeliz y pierde ambos mundos.
-El camino por el puente de Sirat [^xx3] es difícil —
+El camino por el puente de Sirat [^40] es difícil —
 No tendrá compañía y deberá ir sola.
 Con dolor y pena, oh Dios, he llegado a tu puerta; tengo mucha sed y no he recibido respuesta _de Ti_.
 Dice Rav Das: He venido a Tu protección; realiza mi salvación como creas mejor.
@@ -442,7 +442,7 @@ _Pero_ después de la _Muerte_ no puede permanecer en ellos durante un ghari.
 Este cuerpo es como un revestimiento de hierba;
 Cuando la hierba se quema, se mezcla con el polvo.
 Incluso tus parientes, tu familia y tus compañeros lanzan un grito,
-'¡Sacadlo rápido!'
+«¡Sacadlo rápido!»
 La esposa de tu casa que te abrazó _en vida_,
 Grita: «¡Fantasma! ¡Fantasma!» y huye de ti.
 Dice Rav Das: _La muerte_ ha saqueado el mundo entero,
@@ -476,7 +476,7 @@ Se purifica adorando a Dios, y se salva a sí mismo y a las familias de sus padr
 ¡Bendito sea el pueblo, bendito el lugar _de su nacimiento_, bendita su pura familia en todos los mundos!
 Ha bebido la esencia suprema; abandonando todas las demás, se ha embriagado con ella y ha renunciado al pecado.
 Entre los pandits, héroes y escritores, no hay nadie igual al santo. <span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
-43Como las hojas del nenúfar [^xx1] en el agua, dice Rav Das, es la existencia del santo en el mundo; _él permanece incontaminado por ella_.
+43Como las hojas del nenúfar [^43] en el agua, dice Rav Das, es la existencia del santo en el mundo; _él permanece incontaminado por ella_.
 
 Dios como dispensador de salvación.
 
@@ -524,7 +524,7 @@ Y aun así, si practicas la calumnia, vagarás en muchos nacimientos.
 Oh, pueblo mío, ¿por qué calumniáis?
 El carácter del calumniador es bien conocido.
 Los hombres santos han considerado y decidido acerca del calumniador:
-Dijo Rav Das: “Él es un pecador y irá al infierno”.
+Dijo Rav Das: «Él es un pecador y irá al infierno».
 
 Es el gurú quien comunica el Nombre mediante el cual se manifiestan los designios de Dios.
 
@@ -536,7 +536,7 @@ Oh Dios, no deshagas los nudos de la duda;
 La lujuria, la ira, el amor mundano, el orgullo y los celos: estos cinco combinados saquean el mundo.
 "Somos grandes poetas, de alta familia, '[^45] somos Pandits, somos Jogis, Sanyasis,
 «Gyanis, héroes virtuosos, somos generosos»: estas ideas nunca perecerán. <span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
-Dijo Rav Das: “Todos estos hombres no entienden a Dios, se desvían como locos”.
+Dijo Rav Das: «Todos estos hombres no entienden a Dios, se desvían como locos».
 El nombre de Dios es mi soporte, mi vida, mi alma y mi riqueza.
 
 Rav Das al obtener la salvación reconoce el favor de Dios.
@@ -548,7 +548,7 @@ Amador de los pobres, Señor de la tierra; Tú has puesto sobre mi cabeza el par
 Te apiadas de aquel cuyo toque contamina el mundo;
 Tú exaltas a los humildes, Dios mío, y a nadie temes.
 Namdev, Kabir, Trilochan, Sadhna y Sain se salvaron.
-Dice Rav Das: “Escuchen, oh santos, a través de Dios todo se realiza”.
+Dice Rav Das: «Escuchen, oh santos, a través de Dios todo se realiza».
 
 El hombre de baja cuna y casta puede salvarse mediante la devoción.
 
@@ -603,7 +603,7 @@ Nunca serás deshonrado por los mirmidones de la Muerte.
 El hombre está orgulloso de su hijo y su esposa;
 A él le tomará Dios cuenta.
 Sufrirás por lo que tú misma has hecho, oh alma.
-¿A quién te dirigirás después como "querido, querido"?
+¿A quién te dirigirás después como «querido, querido»?
 Si buscas la protección de los hombres santos, tus pecados, aunque sean millones y millones, serán todos borrados.
 Dice Rav Das: “Quien repite el nombre de Dios
 No le importan la casta, ni el nacimiento, ni la transmigración.
@@ -627,7 +627,7 @@ El siguiente himno fue compuesto en respuesta a un brahmán que preguntó cómo 
 
 ¿Con qué devoción podré encontrarme con mi Amado, el Señor de las almas?
 El estado supremo se obtiene mediante la asociación con los santos.
-Mi vestido está sucio; ¿hasta cuándo he de lavarlo?
+Mi vestido está sucio;[^54] ¿hasta cuándo he de lavarlo?
 ¿Hasta cuándo permaneceré en este sueño [^55] que me ha sobrevenido?
 Las cosas [^56] a las que estaba apegado han perecido todas;
 La tienda del tráfico espurio ha cerrado. [^57]
@@ -674,7 +674,7 @@ Veré que todo lo que he hecho queda _registrado a mi favor_.
 
 [^7]: Es decir, Lam se preparó para dar instrucción religiosa a quien quiera unirse a mí.
 
-[^8]: 'Rana en un pozo' se aplica en indostánico a una persona ignorante.
+[^8]: «Rana en un pozo» se aplica en indostánico a una persona ignorante.
 
 [^9]: Los Veds y Purans prescriben diferentes formas de adoración.
 

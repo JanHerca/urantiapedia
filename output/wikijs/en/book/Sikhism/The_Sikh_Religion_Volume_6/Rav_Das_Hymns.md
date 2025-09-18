@@ -407,7 +407,7 @@ How should she, into whose heart no sorrow hath entered,
 Know of the woes of others ?
 The bad wife [^39] who hath not served her spouse continually
 Is unhappy, and loseth both worlds—
-The way by the bridge of Sirat [^xx3] is difficult —
+The way by the bridge of Sirat [^40] is difficult —
 She shall have no companion, and must go alone.
 In grief and in pain, O God, I have come to Thy door ; I am very thirsty, and I have received no answer _from Thee_.
 Saith Rav Das, I have come to Thy protection ; effect my salvation as Thou thinkest best.
@@ -476,7 +476,7 @@ He becometh pure by worshipping God ; he saveth himself and the families of both
 Blest the village, blest the place _of his birth_, blest his pure family in all worlds !
 He hath quaffed the supreme essence ; abandoning all others, he hath become intoxicated with it, and renounced sin.
 Among pandits, heroes, and ^paperors, there is none equal to the saint. <span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
-43As the leaves of the water-lily [^xx1] in the water, saith Rav Das, is the saint's existence in the world ; _he remaineth uncontaminated by it_.
+43As the leaves of the water-lily [^43] in the water, saith Rav Das, is the saint's existence in the world ; _he remaineth uncontaminated by it_.
 
 God as the Dispenser of salvation.
 

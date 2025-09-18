@@ -139,7 +139,7 @@ The importance of meeting _God_[^4] cannot be described ; Nanak, it is beyond ev
 
 Only the really holy man is free from worldly love :—
 
-Men call themselves Munis, Jogis, and learned in the Shastars, but _Maya_ hath them all under her control. The mind is lost in astonishment at her subjection of the <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> three gods! and the three hundred and thirty millions of demigods.
+Men call themselves Munis, Jogis, and learned in the Shastars, but _Maya_ hath them all under her control. The mind is lost in astonishment at her subjection of the <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> three gods[^5] and the three hundred and thirty millions of demigods.
 She is potent and continueth to pervade the whole world.
 Her secret is obtained by the Guru’s favour; no one besides knoweth it.
 Ever conquering she hath subdued all places, and enmeshed all the world ;

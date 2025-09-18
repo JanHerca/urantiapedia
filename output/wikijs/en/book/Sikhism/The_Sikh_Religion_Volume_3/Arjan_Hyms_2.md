@@ -1378,7 +1378,7 @@ rann gur_, Truth is pepper, falsehood sugar, money is the spiritual guide, and w
 
 [^20]: _Tasu_, two fingers wide, or the twenty-fourth part of a yard.
 
-[^21]: J have controlled my evil passions and subjugated them to the One Central Authority.
+[^21]: I have controlled my evil passions and subjugated them to the One Central Authority.
 
 [^22]: Or— guard me in this blind well, that is, this world.
 

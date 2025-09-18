@@ -42,7 +42,7 @@ vivir después de él en este mundo es una maldición para la vida».
 Tras una pausa, el Gurú continuó:—
 
 Corta la cabeza de quien no se inclina ante el Señor.
-Nanak, toma y quema el miserable cuerpo [^2] que no siente el dolor de la separación
+Nanak,[^1] toma y quema el miserable cuerpo [^2] que no siente el dolor de la separación.[^3]
 
 <span id="p14">[<sup><small>p. 14</small></sup>]</span>
 
