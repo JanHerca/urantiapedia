@@ -92,7 +92,7 @@ Nanak prie : préserve-moi dans ton asile, ô toi qui exauces les désirs.
 
 <p style="text-align:center;">SLOK IV</p>
 
-Mon amour est attaché à mon Bien-Aimé ; je ne peux pas demeurer un instant sans Lui.
+Mon amour est attaché à mon Bien-Aimé ; je ne peux pas demeurer un instant _sans Lui_.
 Nanak, par sa bienveillance, il remplit mon âme et mon corps.
 Celui qui a été mon ami à de nombreuses naissances m'a pris par la main.
 Dieu, avec son amour sincère, a fait de Nanak l'esclave de ses pieds.
@@ -163,7 +163,7 @@ Nanak est un sacrifice pour ceux qui, en répétant le nom de Dieu, ont atteint 
 
 <p style="text-align:center;">CHHANT</p>
 
-Les pieds des saints président à tout ; par leur moyen tous les troubles sont effacés ;
+Les pieds des saints président à tout ; _par leur moyen_ tous les troubles sont effacés ;
 Ils dissipent la douleur de la transmigration et font entrer la dévotion à Dieu dans le cœur ;
 Ils sont imprégnés de l’amour de Dieu et enivrés de la connaissance divine : je ne les oublie pas un instant.
 Celui qui renonce à l'orgueil et tombe sous la protection <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> de leurs pieds, obtiendra toutes les faveurs du Seigneur du monde.
@@ -176,7 +176,7 @@ Un sikh nommé Mahila demanda au gourou si les saints pouvaient libérer les hom
 
 Comme j’ai entendu parler du vrai gourou, je l’ai trouvé.
 Il est le médiateur à la cour de Dieu et unit à Dieu ceux qui ont été séparés de Lui.
-Il fixe le charme du nom de Dieu dans le cœur des disciples et guérit la maladie de l'orgueil.
+Il fixe le charme du nom de Dieu _dans le cœur des disciples_ et guérit la maladie de l'orgueil.
 Nanak, Dieu a fait en sorte que ceux qui étaient destinés à cela depuis le début rencontrent le véritable gourou.
 
 En se conciliant Dieu, tout est obtenu :
@@ -237,7 +237,7 @@ La dévotion du gourou à Dieu :—
 Je suis un sacrifice pour toi, ô grand Dieu.
 Pour moi qui suis sans mérite, Tu es le bienfaiteur parfait ; Tu es le Seigneur compatissant des pauvres.
 Debout ou assis, endormi ou éveillé, ô homme, considère Dieu comme ton âme, ta vie, ta richesse et tes biens.
-La soif de Te voir, ô Dieu, est grande dans mon cœur ; Nanak prie : rends-moi heureux par la vue de Toi.
+La soif de Te voir, ô Dieu, est grande dans mon cœur ; Nanak _prie_ : rends-moi heureux par la vue de Toi.
 
 <p style="text-align:center;">MARU</p>
 
@@ -354,7 +354,7 @@ Prends garde que tes pieds ne glissent et que tu ne sois éclaboussé.
 
 Les hommes comptent sur des irréalités et sont déçus :
 
-Pensant que ce qui est faux et transitoire est réel, tu cours devant les autres pour t'en emparer ;
+Pensant que ce qui est faux et transitoire est réel, tu cours devant les autres pour _t'en emparer_ ;
 Mais Nanak, il fondra comme le beurre au feu et se fanera comme le nénuphar.
 
 Le gourou stimule son âme à la piété :
@@ -400,7 +400,7 @@ S'il pose son pied sur moi, je fleurirai comme le lotus.
 Le Guru est le seul régénérateur :—
 
 Dieu, invisible et non soumis au destin, ne s’obtient pas par des procédés de sagesse.
-Dieu ne se trouve pas dans les six systèmes hindous, ni dans l’errance et le vagabondage, ni dans le port d’habits religieux.
+Dieu ne se trouve pas dans les six systèmes _hindous_, ni dans l’errance et le vagabondage, ni dans le port d’habits religieux.
 Ceux qui jeûnent jusqu’à ce qu’ils voient la lune [^21] ne sont d’aucune utilité.
 Même s'ils lisent l'intégralité des Védas, ils ne comprennent pas Dieu dans sa véritable nature.
 Ils dessinent des marques sur leur front, font des ablutions, mais à l'intérieur il y a de la noirceur.
@@ -451,7 +451,7 @@ Le seul Seigneur de la terre est mon Dieu,
 Qui juge à la fois les hindous et les musulmans.[^24]
 Je ne vais pas en pèlerinage à La Mecque, ni ne pratique mon culte dans les lieux de pèlerinage hindous.
 Je sers un seul Dieu et aucun autre.
-Je n'adore pas comme les hindous, et je ne prie pas comme les musulmans.
+Je n'adore pas _comme les hindous_, et je ne prie pas _comme les musulmans_.
 Je prends le Dieu sans forme dans mon cœur et là je lui rends hommage.
 Je ne suis ni hindou ni musulman.[^25]
 L'âme et le corps appartiennent à Dieu, qu'Il soit appelé Allah ou Ram.
@@ -551,12 +551,12 @@ C'est celui qui a trouvé le véritable lieu qui est permanent.
 
 La saison du printemps, qui est un emblème de notre vie transitoire, est aussi le temps d'un nouvel accès de dévotion :
 
-Nos cœurs s'épanouissent en contemplant les fleurs du printemps, mais celles-ci se fanent rapidement.
+Nos cœurs s'épanouissent en contemplant les fleurs _du printemps, mais celles-ci se fanent rapidement_.
 _En nous souvenant de cela_ abandonnons complètement l’orgueil,
 Et soyez absorbé dans les pieds pareils-au-lotus de Dieu.
 Vous qui êtes chanceux, venez à Dieu.
 Pense à Dieu, ô mon âme,
-Au bord du ruisseau, il y a de très nombreux arbres odorants,
+Au bord _du ruisseau_, il y a de très nombreux arbres odorants,
 Pourtant, un arbuste est desséché là ; [^26] <span id="p426"><sup><small>[ p. 426 ]</small></sup></span>
 Mais puisque la saison du printemps est arrivée,
 Il fleurit désormais avec luxuriance.
@@ -579,7 +579,7 @@ Vainquez la luxure, la colère, la convoitise et l’amour du monde ; un tel jeu
 Levez-vous à l'aube, faites vos ablutions, puis au moment du coucher, adorez Dieu.
 Mon véritable gourou vous permettra de remporter le lancer critique et vous rentrerez chez vous avec bonheur et confort.
 Dieu lui-même joue ; Dieu lui-même regarde ; il a lui-même fait ce qui est fait.
-Nanak, l'homme qui joue sous les instructions du gourou gagnera la partie et rentrera chez lui heureux.
+Nanak, l'homme qui joue sous les instructions du gourou gagnera la partie et rentrera chez lui _heureux_.
 
 Louanges à Dieu :—
 
@@ -591,14 +591,14 @@ Ton service peut être effectué par Toi-même et par personne d’autre.
 Seul celui qui Te plaît et que Tu aimes est Ton adorateur.
 Tu es le grand Donateur ; Tu es le grand Sage : nul n’est égal à Toi.
 Tu es tout-puissant ; ô mon Seigneur, comment sais-je comment T'adorer ?
-Ton palais est invisible, ô mon cher ; il est difficile d'obéir à ta volonté.
+Ton palais est invisible, ô mon cher ; il est difficile _d'obéir_ à ta volonté.
 Dit Nanak, je suis tombé à ta porte ; protège-moi, moi qui suis stupide et ignorant.
 
 <p style="text-align:center;">SARANG</p>
 
 La dépendance du serviteur envers son maître :
 
-Chacun se souvient de son maître.
+Chacun se souvient de _son maître_.
 Celui qui est esclave va vers son maître
 Pour lui dire sa tristesse, pour lui dire sa joie, pour lui dire son Seale :
 C'est de lui qu'il tire l'honneur, la force, l'avantage.
@@ -620,7 +620,7 @@ Action de grâce à Dieu :—
 De quel humble commencement m'as-tu fait homme par ta puissance !
 Donneur de vie et d’âme à toutes les créatures, Tu es sans égal ; Tes mérites ne peuvent être décrits.
 Tu es le Bien-aimé de tous, le Protecteur de tous, le Soutien de tous les cœurs.
-Personne ne connaît ton état ni ta condition ; c'est de toi seul que tu as créé l'étendue du monde.
+Personne ne connaît ton état ni ta condition ; c'est de toi seul que tu as créé l'étendue _du monde_.
 Nanak prie : asseyez-moi sur le bateau du saint homme, et je traverserai l'océan dangereux.
 
 <p style="text-align:center;">KANRA</p>
@@ -642,7 +642,7 @@ Les hommes adorent et font de grands étalages ;
 Ils font des ablutions et font des marques de palets[^28] sur leur corps ;
 Mais la saleté de leur cœur ne s’en va jamais.
 Personne n’a trouvé Dieu de cette façon.
-Les hommes impriment les marques de Vishnu sur leur corps, mais leur esprit est fasciné par Mammon. <span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
+Les hommes impriment les marques de Vishnu _sur leur corps_, mais leur esprit est fasciné par Mammon. <span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
 Ils commettent des péchés et sont sous le pouvoir des cinq mauvaises passions.
 Ils se baignent dans les lieux de pèlerinage et disent que tous leurs péchés ont disparu,
 Et pourtant, ils les commettent à nouveau sans crainte.
@@ -709,7 +709,7 @@ Il est sauvé lui-même et sauve toute sa famille.
 
 [^4]: Ce nom dans le Granth Sahib signifie évidemment Dieu.
 
-[^5] : _Supchar_. Littéralement : celui qui cuisine et mange des chiens.
+[^5]: _Supchar_. Littéralement : celui qui cuisine et mange des chiens.
 
 [^6]: Qui a accidentellement tiré sur Krishan.
 
@@ -719,19 +719,19 @@ Il est sauvé lui-même et sauve toute sa famille.
 
 [^9]: Danseurs dans les temples hindous.
 
-[^10] : Le monde.
+[^10]: Le monde.
 
 [^11]: Le dieu de la mort.
 
 [^12]: Ton chemin à venir sera pénible et ardu.
 
-[^13] : Littéralement : prenez possession de ma cour et asseyez-vous-y.
+[^13]: Littéralement : prenez possession de ma cour et asseyez-vous-y.
 
 [^14]: Les saints hommes qui me visitent enlèveront toujours le nom de Dieu.
 
-[^15] : Les épouses des autres.
+[^15]: Les épouses des autres.
 
-[^16] : Le jardin de la beauté est vaste, et il y a de nombreuses femmes parmi lesquelles choisir sans braconner sur les terres des voisins. Le gourou voulait peut-être aussi dire que les hommes et les femmes devaient choisir eux-mêmes leur partenaire.
+[^16]: Le jardin de la beauté est vaste, et il y a de nombreuses femmes parmi lesquelles choisir sans braconner sur les terres des voisins. Le gourou voulait peut-être aussi dire que les hommes et les femmes devaient choisir eux-mêmes leur partenaire.
 
 [^17]: C'est-à-dire le gourou.
 
@@ -745,13 +745,13 @@ Il est sauvé lui-même et sauve toute sa famille.
 
 [^22]: Également traduit par : Ô Dieu bien-aimé, je suis un sacrifice pour Toi que le Guru a implanté dans mon cœur.
 
-[^23] : Le mois lunaire du jeûne musulman.
+[^23]: Le mois lunaire du jeûne musulman.
 
 [^24]: Également traduit : J'ai renoncé à la fois aux hindous et aux musulmans.
 
 [^25]: Cette ligne est très importante en référence aux récentes controverses quant à savoir si les Sikhs sont des hindous.
 
-[^26] : Il y a un homme parmi les saints dont la foi n'est pas parfaite. Ces deux versets sont également traduits ainsi : « Les arbres tendres dégagent une odeur abondante. D'autres restent comme du bois sec. » Autrement dit, les cœurs tendres bénéficient pleinement de l'enseignement du gourou, tandis que les cœurs durs le rejettent.
+[^26]: Il y a un homme parmi les saints dont la foi n'est pas parfaite. Ces deux versets sont également traduits ainsi : « Les arbres tendres dégagent une odeur abondante. D'autres restent comme du bois sec. » Autrement dit, les cœurs tendres bénéficient pleinement de l'enseignement du gourou, tandis que les cœurs durs le rejettent.
 
 [^27]: La référence est au jeu indien du chaupar.
 

@@ -990,23 +990,23 @@ Il fait ce qu’il veut.
 
 [^1]: Également traduit par : Par ta puissance a été créée la nature animée et inanimée.
 
-[^2] : _Mân abhmân_. Ce dernier mot signifie _apmân_, comme souvent dans le Granth Sahib. Comparer à _mân abhimân madhê so sewak nâhîn_ : Celui qui a du respect pour l'honneur ou le déshonneur n'est pas un saint homme.
+[^2]: _Mân abhmân_. Ce dernier mot signifie _apmân_, comme souvent dans le Granth Sahib. Comparer à _mân abhimân madhê so sewak nâhîn_ : Celui qui a du respect pour l'honneur ou le déshonneur n'est pas un saint homme.
 
 [^1]: La crainte de Dieu est bien sûr visée.
 
-[^2] : _Adânê_, du sanskrit _ûdûgan_. L'expression est également traduite par : « Dans la peur s'étend le firmament. »
+[^2]: _Adânê_, du sanskrit _ûdûgan_. L'expression est également traduite par : « Dans la peur s'étend le firmament. »
 
 [^3]: Littéralement, Dieu a écrit le destin de la peur sur la tête de tous.
 
 [^1]: _Jhâlâ_ est une chevelure féminine. Les acteurs, qui en Inde sont généralement tous des hommes, portent des perruques féminines.
 
-[^2] : _Bhini_. Littéralement — rosée ; lorsque l'atmosphère est calme et la chaleur pas excessive.
+[^2]: _Bhini_. Littéralement — rosée ; lorsque l'atmosphère est calme et la chaleur pas excessive.
 
 [^1]: Également traduit — Combien expliquent les Védas !
 
-[^2] : Également traduit par « attirer une foule autour d'eux ». Cet hymne vise à donner une brève description des miracles de Ram et Krishan.
+[^2]: Également traduit par « attirer une foule autour d'eux ». Cet hymne vise à donner une brève description des miracles de Ram et Krishan.
 
-[^3] : Littéralement, parler des régions supérieures et inférieures.
+[^3]: Littéralement, parler des régions supérieures et inférieures.
 
 [^4]: _Lâkh takiân_. _Takâ_ est en réalité un double pice, ou environ un demi-penny de monnaie anglaise, mais au pluriel, cela signifie l'argent en général.
 
@@ -1044,7 +1044,7 @@ admis.
 
 [^1]: _Meru_ est le gros grain dans lequel les deux extrémités d'un chapelet sont jointes, sans lequel on croit que les prières répétées sur le chapelet ne servent à rien. _Mer sharîr_ signifie ici le corps de l'homme, qui est supérieur à celui des autres animaux.
 
-[^2] : _Agan_. Littéralement : feu. Ce mot est souvent utilisé pour désigner la colère, mais Guru Nanak a plus souvent dénoncé l'avarice ou la convoitise que la colère, et c'est peut-être la première qui est considérée comme un attribut particulier de cette époque dégénérée.
+[^2]: _Agan_. Littéralement : feu. Ce mot est souvent utilisé pour désigner la colère, mais Guru Nanak a plus souvent dénoncé l'avarice ou la convoitise que la colère, et c'est peut-être la première qui est considérée comme un attribut particulier de cette époque dégénérée.
 
 [^3]: _Setambar_. L'avatar de Hans ou Swan.
 
@@ -1062,11 +1062,11 @@ admis.
 
 [^3]: Selon les livres saints des hindous, les brahmanes ne devraient pas manger dans les maisons des hommes qui récitent des prières musulmanes.
 
-[^4] : _Kâkhâi_, rougeâtre, ou partiellement sale à cause de lavages fréquents. Le mot w s'applique également au fait de rentrer un _dhoti_ d'une manière particulière.
+[^4]: _Kâkhâi_, rougeâtre, ou partiellement sale à cause de lavages fréquents. Le mot w s'applique également au fait de rentrer un _dhoti_ d'une manière particulière.
 
 [^5]: L'expression musulmane _Bismillah_ (au nom de Dieu), utilisée lors de l'abattage des animaux ainsi qu'en d'autres occasions, est, bien sûr, inacceptable pour les hindous.
 
-[^1] : _Ghâh_. Généralement traduit par « coupeurs d'herbe » par les gyânis ; une troisième interprétation est également courante. Autrefois, les hommes de haut rang se présentaient aux conquérants avec de l'herbe dans la bouche, laissant entendre qu'ils étaient les vaches des conquérants dont la vie devait être sauvée. En conséquence, l'expression est également traduite par : « Il ferait en sorte que les rois mettent de l'herbe dans leur bouche. »
+[^1]: _Ghâh_. Généralement traduit par « coupeurs d'herbe » par les gyânis ; une troisième interprétation est également courante. Autrefois, les hommes de haut rang se présentaient aux conquérants avec de l'herbe dans la bouche, laissant entendre qu'ils étaient les vaches des conquérants dont la vie devait être sauvée. En conséquence, l'expression est également traduite par : « Il ferait en sorte que les rois mettent de l'herbe dans leur bouche. »
 
 [^1]: _Har rangi_. Littéralement, avec toutes les couleurs.
 
@@ -1074,9 +1074,9 @@ admis.
 
 [^3]: Dans les _Janamsâkhis_ actuels, il est indiqué que ce slok a été composé sur la purification proposée de la maison du Guru après la naissance de son fils, Sri Chand.
 
-[^1] : Beurre clarifié, toujours considéré comme pur par les hindous et les sectes apparentées.
+[^1]: Beurre clarifié, toujours considéré comme pur par les hindous et les sectes apparentées.
 
-[^1] : Il s'agit de la femme. Les Grecs utilisaient parfois le mot {grec skeu^os} dans le même sens.
+[^1]: Il s'agit de la femme. Les Grecs utilisaient parfois le mot {grec skeu^os} dans le même sens.
 
 [^2]: Certains supposent que femme est le mot manquant ici, car la partie précédente du slok est une défense des femmes, et non un éloge de Dieu.
 

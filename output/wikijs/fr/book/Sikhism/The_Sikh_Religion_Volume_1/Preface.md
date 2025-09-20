@@ -238,7 +238,7 @@ LONDRES.
 
 [^1]: Sahib est un mot arabe qui signifie seigneur ou maître. Il est appliqué par les Indiens aux Européens et aux autochtones de haut rang, mais il est particulièrement utilisé par les Sikhs pour désigner un objet vénéré ou sacré, comme « Darbar Sahib », le temple sikh d'Amritsar, le Granth Sahib, le livre sacré des Sikhs, etc.
 
-[^1] : _Sûrai Prakâsh_, Râs III.
+[^1]: _Sûrai Prakâsh_, Râs III.
 
 [^1]: Le mot gyani en panjabi signifie un interprète professionnel du Granth Sahib.
 

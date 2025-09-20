@@ -194,13 +194,13 @@ Sur ce, le Pir fut convaincu que le Guru était un chef spirituel exalté.
 
 ## Notes de bas de page
 
-[^1] : Le mot de Khedher, signifiant en Arabe verd et verdoyant, sur {footnote p. 148} prétendre que ce nom fut donné à ce prophète à cause qu'il jouit d'une vie florissante et immortelle depuis qu'il eut bû de l'eau de la Fontaine. Plusieurs le confondent avec le prophète Élie, que nous disons faire sa demeure dans le Paradis terrestre et jouir de l'immortalité. Parce que l'arbre de vie étoit dans ce Paradis, et qu'il y avoit aussi une Fontaine, les Musulmans donnent à cette Fontaine le nom de Fontaine de Vie, et croisent que c'est de la boisson de son eau, aussi bien que du fruit de l'arbre de vie, qu'Élie entretient son immortalité. (D'Herbelot.)
+[^1]: Le mot de Khedher, signifiant en Arabe verd et verdoyant, sur {footnote p. 148} prétendre que ce nom fut donné à ce prophète à cause qu'il jouit d'une vie florissante et immortelle depuis qu'il eut bû de l'eau de la Fontaine. Plusieurs le confondent avec le prophète Élie, que nous disons faire sa demeure dans le Paradis terrestre et jouir de l'immortalité. Parce que l'arbre de vie étoit dans ce Paradis, et qu'il y avoit aussi une Fontaine, les Musulmans donnent à cette Fontaine le nom de Fontaine de Vie, et croisent que c'est de la boisson de son eau, aussi bien que du fruit de l'arbre de vie, qu'Élie entretient son immortalité. (D'Herbelot.)
 
-[^1] : Prabhâti.
+[^1]: Prabhâti.
 
 [^1]: Asa Ashtapadi.
 
-[^2] : _Nau nidhi_. Cette expression est utilisée dans les écrits sacrés des Sikhs pour désigner une richesse et une prospérité illimitées. Dans les livres sacrés des Hindous, l'expression a une signification numérique plus précise.
+[^2]: _Nau nidhi_. Cette expression est utilisée dans les écrits sacrés des Sikhs pour désigner une richesse et une prospérité illimitées. Dans les livres sacrés des Hindous, l'expression a une signification numérique plus précise.
 
 [^3]: Mâjh ki Wâr.
 

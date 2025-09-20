@@ -66,11 +66,11 @@ Nanak a obtenu l'objet des désirs de son cœur ; Dieu les a exaucés.[^4]
 
 En apprenant la naissance d'un fils du Guru, Karmo, l'épouse de Prithia, fut profondément attristée. Elle dit à son mari : « As-tu entendu parler des réjouissances de Wadali ? La gloire d'Arjan est désormais semblable à celle du soleil, et tu es caché comme les étoiles devant son éclat. Tous tes discours et tes vantardises ont été vains. » Le cœur de Prithia brûla également, et il répondit avec insolence : « Mes paroles sont toujours vraies. Et si un fils était né d'Arjan ? Devrais-je nourrir le chagrin dans mon cœur ? Je ne laisserai pas l'enfant vivre. » Karmo ne prit rien la nuit suivante et fut incapable de dormir. La naissance d'un jeune héritier rappela aux Sikhs l'époque où tout Ajudhia se réjouissait de l'accession de Ram à la souveraineté, et où Kekai, l'une des épouses de son père, était seule à pleurer l'événement.
 
-Le lendemain matin, Karmo fit venir une vieille nourrice de la famille et, après une conversation préliminaire, lui demanda d'aller à Wadali, de se faire passer pour une amie de la famille du gourou et de trouver une occasion d'empoisonner son fils nouveau-né. Si la nourrice réussissait, elle aurait autant d'argent qu'elle le voudrait. Actuellement, elle pouvait avoir cent roupies, et, lorsque Mihrban, le fils de Karmo, obtiendrait le titre de gourou, elle serait récompensée par une allocation pécuniaire supplémentaire, une excellente maison et une pension alimentaire à vie. La nourrice répondit : « J'ai été employée dans votre famille pendant de nombreuses générations, et maintenant que c'est mon tour d'obtenir le poste de nourrice, la femme du gourou en a engagé une autre. Mon cœur était déjà bouleversé avant d'entendre ton histoire. Dans quelques jours, tu verras que j'accomplirai ton œuvre. » Karmo lui a donné l'argent promis et un magnifique châle en guise de garantie.
+Le lendemain matin, Karmo fit venir une vieille nourrice de <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> la famille et, après une conversation préliminaire, lui demanda d'aller à Wadali, de se faire passer pour une amie de la famille du gourou et de trouver une occasion d'empoisonner son fils nouveau-né. Si la nourrice réussissait, elle aurait autant d'argent qu'elle le voudrait. Actuellement, elle pouvait avoir cent roupies, et, lorsque Mihrban, le fils de Karmo, obtiendrait le titre de gourou, elle serait récompensée par une allocation pécuniaire supplémentaire, une excellente maison et une pension alimentaire à vie. La nourrice répondit : « J'ai été employée dans votre famille pendant de nombreuses générations, et maintenant que c'est mon tour d'obtenir le poste de nourrice, la femme du gourou en a engagé une autre. Mon cœur était déjà bouleversé avant d'entendre ton histoire. Dans quelques jours, tu verras que j'accomplirai ton œuvre. » Karmo lui a donné l'argent promis et un magnifique châle en guise de garantie.
 
 La nourrice fourbe rentra chez elle, appliqua du poison sur ses mamelons, en mélangea un peu à un médicament appelé gurhti, administré aux nourrissons en Orient, et se rendit à Wadali. C'était à une époque où, suite à une indisposition passagère, l'enfant refusa le sein, et la famille fut plongée dans une grande anxiété. Des femmes sages recommandèrent chacune son propre remède. Lorsque la nourrice de Karmo arriva, l'épouse de Ganga le Guru fut ravie de la voir, et la nourrice se réjouit également à l'idée de pouvoir mettre à exécution son projet hostile. Elle dit hypocritement : « Ô Reine Ganga, mille et une félicitations pour toi ! Puissent ton enfant et ton mari vivre à jamais ! Tu ne t'es pas souvenue de moi, mais moi, je me suis souvenue de toi. Je suis venue te souhaiter le bonheur. »
 
-Ganga lui dit que l'enfant n'allait pas bien et qu'il avait cessé de téter. La nourrice répondit : « Amenez-le ici ; je lui donnerai un remède pour nourrissons. Je comprends les plaintes des nourrissons et j'en traite nombre qu'on m'amène de pays lointains. Après une dose de mon remède, ils n'en ont plus besoin. La femme de Prithia faisait toujours soigner son enfant par moi, et il n'a jamais été malade par la suite. » Le résultat fut que Ganga, trompée par ses paroles spécieuses, lui confia l'enfant. La nourrice prit Har Gobind sur ses genoux et lui offrit le médicament empoisonné, mais il refusa. Elle le caressa et le cajola, et réussit à lui mettre le médicament dans la bouche, mais il refusa. Elle retira alors son sein et le lui offrit. Au moment où elle le fit, elle s'évanouit et tomba en arrière. Certains lui mirent de l'eau dans la bouche, d'autres l'aspergèrent d'eau de rose pour la guérir. Ayant repris conscience, elle regarda autour d'elle et dit : « Le pot-de-vin de cent roupies que Prithia et sa femme m'ont donné m'a ruinée. Pourquoi ai-je empoisonné mes seins et entrepris de tuer un Enfant ? »
+Ganga lui dit que l'enfant n'allait pas bien et qu'il avait cessé de téter. La nourrice répondit : « Amenez-le ici ; je lui donnerai un remède pour nourrissons. Je comprends les plaintes des nourrissons et j'en traite nombre qu'on m'amène de pays lointains. Après une dose de mon remède, ils n'en ont plus <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> besoin. La femme de Prithia faisait toujours soigner son enfant par moi, et il n'a jamais été malade par la suite. » Le résultat fut que Ganga, trompée par ses paroles spécieuses, lui confia l'enfant. La nourrice prit Har Gobind sur ses genoux et lui offrit le médicament empoisonné, mais il refusa. Elle le caressa et le cajola, et réussit à lui mettre le médicament dans la bouche, mais il refusa. Elle retira alors son sein et le lui offrit. Au moment où elle le fit, elle s'évanouit et tomba en arrière. Certains lui mirent de l'eau dans la bouche, d'autres l'aspergèrent d'eau de rose pour la guérir. Ayant repris conscience, elle regarda autour d'elle et dit : « Le pot-de-vin de cent roupies que Prithia et sa femme m'ont donné m'a ruinée. Pourquoi ai-je empoisonné mes seins et entrepris de tuer un Enfant ? »
 
 L'histoire de l'instigation de Prithia pour le meurtre de l'enfant se répandit de maison en maison et lui valut une honte méritée. Le gourou composa l'hymne suivant à cette occasion :
 
@@ -155,7 +155,7 @@ Il y eut de grandes réjouissances et illuminations lorsque le gourou, après un
 Lorsque cette conversation fut rapportée au Guru, il répéta la composition suivante de Guru Ram Das :
 
 Les pervers sont toute la journée occupés par l'avarice, bien qu'ils prétendent le contraire ;
-La nuit, oppressés par la somnolence et leurs neuf ouvertures relâchées, ils n'adorent pas Dieu.
+La nuit, oppressés par la somnolence et leurs neuf ouvertures relâchées, _ils n'adorent pas Dieu_.
 Les femmes exercent leur pouvoir sur les pervers et font toujours de belles promesses ;
 Mais ceux qui agissent comme les femmes le leur disent sont impurs, insensés et stupides.
 Les impurs qui ressentent la luxure demandent leur chemin aux femmes et voyagent par leur intermédiaire ;
@@ -163,7 +163,7 @@ Mais celui qui marche comme le vrai gourou le lui dit, est un homme véritable, 
 Dieu a créé toutes les femmes et tous les hommes ; Il joue chaque pièce.
 _Dit_ Nanak, toute l'œuvre que tu as faite, ô Dieu, est la meilleure des meilleures.[^9]
 
-Har Gobind présenta des symptômes fiévreux. Le troisième jour, son corps s'enflamma et présenta des pustules rouges qui finirent par prendre une forme confluente. Les yeux de l'enfant se fermèrent comme s'il dormait perpétuellement. Une variole très virulente s'était déclarée. La mère de l'enfant pria : « Ô grand Dieu, j'ai obtenu un fils après une longue attente. Puisse-t-il se baigner et se lever en pleine santé ! » Le gourou apporta à sa femme la consolation qui lui vint à l'esprit. Les habitants de la ville lui conseillèrent de faire une offrande à la déesse de la variole et de la rendre propice en vénérant une jeune vierge. Ils dirent : « La déesse est heureuse qu'on vénère une vierge immaculée en lui offrant nourriture et argent, et en lui rendant d'autres services abjects. » Selon le « Skand Puran » hindou, la déesse de la variole doit être adressée ainsi : « Je m’incline devant Sitala Devi, qui monte un âne, qui est nue, qui porte un balai en guise de diadème et dont le front est orné d’un tamis. » Les hindous ont coutume de répéter cette incantation dans l’espoir d’obtenir la guérison. Rejetant les conseils de ses amis hindous, le gourou leur adressa la parole suivante :
+Har Gobind présenta des symptômes fiévreux. Le troisième jour, son corps s'enflamma et présenta des pustules rouges qui finirent par prendre une forme confluente. Les yeux de l'enfant se fermèrent comme s'il dormait perpétuellement. Une variole très virulente s'était déclarée. La mère de l'enfant pria : « Ô grand Dieu, j'ai obtenu un fils après une longue attente. Puisse-t-il se baigner et se lever en pleine santé ! » Le gourou apporta à sa femme la consolation qui lui vint à l'esprit. Les habitants de la ville lui conseillèrent de faire une offrande à la déesse de la variole et de la rendre propice en vénérant une jeune vierge. Ils dirent : « La déesse <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> est heureuse qu'on vénère une vierge immaculée en lui offrant nourriture et argent, et en lui rendant d'autres services abjects. » Selon le « Skand Puran » hindou, la déesse de la variole doit être adressée ainsi : « Je m’incline devant Sitala Devi, qui monte un âne, qui est nue, qui porte un balai en guise de diadème et dont le front est orné d’un tamis. » Les hindous ont coutume de répéter cette incantation dans l’espoir d’obtenir la guérison. Rejetant les conseils de ses amis hindous, le gourou leur adressa la parole suivante :
 
 Dieu est mon seul soutien ; j’ai abandonné d’autres espoirs.
 Dieu, le Seigneur parfait des excellences, est puissant sur toutes choses.
@@ -233,7 +233,7 @@ Le vrai gourou, étant compatissant, a guéri sa fièvre.
 Soyez toujours heureux, mes amis bien-aimés ; le gourou a préservé Har Gobind.
 Nanak, grande est la grandeur du Créateur ; vraie est sa parole et vraie sa parole.[^16]
 
-Les auteurs du « Gur Bilas », du « Suraj Parkash », du « Guru Samhita » et d’autres ouvrages, sans tenir compte des hymnes du Guru, ont faussement affirmé, chacun selon ses propres convictions hindoues, que l’épouse du Guru se rendait au temple de Durga pour prier, accomplissait la cérémonie hindoue du hom et adorait des vierges, tout cela pour la guérison de son fils. Rien n’indique ce culte superstitieux dans les hymnes du Guru. Au contraire, seuls l’Anand du Guru Amar Das et les autres hymnes cités ici ont été répétés ou chantés à cette occasion.
+Les auteurs du « Gur Bilas », du « Suraj Parkash », du « Guru Samhita » et d’autres ouvrages, sans tenir compte des hymnes du Guru, ont faussement affirmé, chacun selon ses propres convictions hindoues, que l’épouse du Guru se rendait au temple de Durga pour prier, accomplissait la cérémonie hindoue du hom et adorait des vierges, tout cela pour la guérison de son fils. Rien n’indique ce culte <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> superstitieux dans les hymnes du Guru. Au contraire, seuls l’Anand du Guru Amar Das et les autres hymnes cités ici ont été répétés ou chantés à cette occasion.
 
 <figure class="table chapter-navigator">
   <table>
@@ -263,32 +263,32 @@ Les auteurs du « Gur Bilas », du « Suraj Parkash », du « Guru Samhita » et
 
 [^1]: Le troisième Guru, comme nous l'avons déjà vu, a composé l'Anand à la naissance de son petit-fils appelé Anand.
 
-[^2] : Asa.
+[^2]: Asa.
 
 [^3]: C'est-à-dire Bhai Budha.
 
-[^4] : Bilawal.
+[^4]: Bilawal.
 
-[^5] : Asa.
+[^5]: Asa.
 
 [^6]: Le nom de Dieu.
 
-[^7] : Gaund.
+[^7]: Gaund.
 
-[^8] : Sorath.
+[^8]: Sorath.
 
 [^9]: Gauri ki Guerre I.
 
-[^10] : Bilawal.
+[^10]: Bilawal.
 
-[^11] : Sonath.
+[^11]: Sonath.
 
-[^12] : Gauri.
+[^12]: Gauri.
 
 [^13]: Dans le Granth Sahib, protéger l’honneur signifie souvent protéger la vie.
 
-[^14] : Giijari.
+[^14]: Giijari.
 
-[^15] : Devgandhari. Guru Nanak est l'homme mentionné dans la dernière ligne de l'hymne.
+[^15]: Devgandhari. Guru Nanak est l'homme mentionné dans la dernière ligne de l'hymne.
 
-[^16] : Sorath.
+[^16]: Sorath.

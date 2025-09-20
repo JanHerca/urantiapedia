@@ -85,11 +85,11 @@ Nanak représente — répétez toujours Son nom qui soutient l'âme et le corps
 
 Le nouveau Premier ministre de l'empereur Akbar, Raja Birbar, homme érudit et accompli, était, pour des raisons religieuses, hostile au Guru et jaloux de son influence et de sa popularité grandissantes. Ce ministre était un grand favori de l'empereur, qui désirait l'avoir toujours à ses côtés. On dit qu'il était capable, par la force de son intelligence, de lui confier ses secrets à tout moment. Son énergie rayonna un instant, mais ce ne fut que la lueur vacillante d'une lampe. À cause de son hostilité envers le Guru, des jours sombres s'abattirent sur lui. Après l'échec de Zain Khan Kokah dans son expédition <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> contre les Yusufzais, Birbar reçut l'ordre de se rendre auprès de lui avec des renforts. Avant son départ, il reçut de l'empereur l'autorisation écrite de prélever un impôt d'une roupie sur la maison de chaque Khatri en route. Il traversa le Bias et envoya ses agents collecter l'impôt à Amritsar. Les Khatris refusèrent de payer et se plaignirent au gourou. Ce dernier déclara aux agents du Premier ministre : « L’impôt est à la charge des Khatris. Nous sommes sikhs et nous souhaitons être exemptés. Jusqu’à présent, le gouvernement n’a jamais imposé de travaux forcés ni de taxes sur la maison du gourou. Ma cuisine est maintenue ouverte grâce aux offrandes des sikhs et des saints. L’accès est libre. Prenez autant de blé et de nourriture que vous le souhaitez, mais je n’ai pas d’argent à vous donner. Je vis de ma confiance en Dieu. »
 
-Les agents répétèrent ce discours au Premier ministre, qui devint furieux en l'entendant. Il dit : « Je commande à une armée nombreuse ; comment le Guru ose-t-il me désobéir ? De plus, je suis porteur de l'ordre de l'Empereur. Même s'il s'agit de la maison du Guru, elle est réservée aux Sikhs et non à moi… » Sur ce, Birbar envoya des soldats au Guru avec le message suivant : « Tu es un Khatri, un sujet, et en tout point subordonné à l'État. Si tu viens à ma rencontre, tout ira bien ; sinon, je pillerai toute ta ville. » Les soldats partirent, mais restèrent stupéfaits en présence du Guru. Devinant leur objectif, il leur dit : « Mes amis, je ne me soucie de personne et je ne crains personne. Que Raja Birbar vienne et fasse ce qu'il veut. Le Créateur me protégera. » Les soldats, craignant les paroles du gourou et la colère de leur maître, allèrent lui mentir et lui annoncèrent que le gourou viendrait le lendemain. Raja Birbar dit : « Qu'importe qu'il soit un saint, un objet de vénération, ou même très vieux, s'il n'a pas peur de moi ? Eh bien, s'il ne vient pas demain, je pillerai Amritsar. » Cette nuit-là, le raja ne dormit pas, son esprit étant perturbé.
+Les agents répétèrent ce discours au Premier ministre, qui devint furieux en l'entendant. Il dit : « Je commande à une armée nombreuse ; comment le Guru ose-t-il me désobéir ? De plus, je suis porteur de l'ordre de l'Empereur. Même s'il s'agit de la maison du Guru, elle est réservée aux Sikhs et non à moi… » Sur ce, Birbar envoya des soldats au Guru avec le message suivant : « Tu es un Khatri, un sujet, et en tout point subordonné à l'État. Si tu viens à ma rencontre, tout ira bien ; sinon, je pillerai toute ta ville. » Les soldats partirent, mais restèrent stupéfaits en présence du Guru. Devinant leur objectif, il leur dit : « Mes amis, je ne me soucie de personne et je ne crains personne. Que Raja Birbar vienne et fasse ce qu'il veut. Le Créateur me protégera. » Les soldats, craignant les paroles du gourou et la colère de leur maître, allèrent lui mentir et lui annoncèrent que le gourou viendrait le lendemain. Raja Birbar dit : « Qu'importe qu'il soit un saint, un objet de vénération, ou même très vieux, s'il n'a pas peur de moi ? Eh bien, s'il ne vient pas demain, je pillerai Amritsar. » Cette <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> nuit-là, le raja ne dormit pas, son esprit étant perturbé.
 
 Entre-temps, un autre ordre de l'Empereur arriva, ordonnant au Raja de se hâter et de poursuivre ses troupes à marches forcées pour s'unir à Zain Khan contre les Yusufzais. Le Raja fut très déçu de recevoir cet ordre péremptoire, car il ne lui laissait pas le temps d'assouvir sa vengeance sur le Guru. Il ordonna à son état-major de lui rappeler le Guru à son retour, et dit que s'il n'obtenait pas une roupie de chaque maison d'Amritsar, il raserait la ville jusqu'à ses fondations. Comme le feu sacrificiel s'embrase lorsqu'on y jette du beurre clarifié, l'esprit du Raja brûlait au souvenir du langage du Guru. Lorsque les Sikhs communiquèrent au Guru les paroles courroucées du Raja, il se contenta de dire : « Si le Raja revient, il nous causera des ennuis. » Zain Khan, le commandant en chef, et Raja Birbar tinrent des conseils divisés. Ils furent attaqués et vaincus par les Yusufzais. Zain Khan s'échappa avec difficulté, mais Birbar fut tué.[^4]
 
-Prithi Chand, allié à Sulahi Khan, trouva de nombreuses occasions d'agacer le gourou. Wazir Khan, Premier ministre adjoint de l'empereur, intervint en sa faveur et persuada Sulahi Khan de trouver un compromis entre les deux frères. La raison pour laquelle Wazir Khan embrassa la cause du gourou serait la suivante : un jour qu'il était malade chez lui à Lahore, souffrant d'hydropisie, un sikh passa par là en chantant le Sukhmani du gourou.[^5] Tandis que Wazir Khan écoutait, sa douleur diminua. Lorsque le sikh fut devenu inaudible, la douleur réapparut. Lorsqu'il revint par le même chemin en chantant le même air, la douleur de Wazir Khan fut à nouveau apaisée. Il appela le sikh et lui demanda de continuer à chanter le Sukhmani pour lui. Il distribua ensuite de la nourriture sacrée au nom du gourou et recouvra rapidement une santé parfaite. Dès qu'il en eut l'occasion, il rendit visite au gourou, lui raconta toute l'histoire et devint son fervent disciple. Jusqu'à sa mort, Wazir Khan recruta des Sikhs à son service pour chanter les hymnes du gourou chaque matin avant le lever du jour, un moment que les Sikhs appellent l'heure de l'ambroisie. Lorsque Wazir Khan sollicita l'instruction du gourou, celui-ci lui adressa la parole suivante :
+Prithi Chand, allié à Sulahi Khan, trouva de nombreuses occasions d'agacer le gourou. Wazir Khan, Premier ministre adjoint de l'empereur, intervint en sa faveur et persuada Sulahi Khan de trouver un compromis entre les deux frères. La raison pour laquelle Wazir Khan embrassa la cause du gourou serait la suivante : un jour qu'il était malade chez lui à Lahore, souffrant d'hydropisie, un sikh passa par là en chantant le Sukhmani du gourou.[^5] Tandis que Wazir Khan écoutait, sa douleur diminua. Lorsque le sikh fut devenu inaudible, la douleur réapparut. Lorsqu'il revint par le même chemin en chantant le même air, la douleur de Wazir Khan fut à nouveau apaisée. Il appela le sikh et lui demanda de continuer à chanter le Sukhmani <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> pour lui. Il distribua ensuite de la nourriture sacrée au nom du gourou et recouvra rapidement une santé parfaite. Dès qu'il en eut l'occasion, il rendit visite au gourou, lui raconta toute l'histoire et devint son fervent disciple. Jusqu'à sa mort, Wazir Khan recruta des Sikhs à son service pour chanter les hymnes du gourou chaque matin avant le lever du jour, un moment que les Sikhs appellent l'heure de l'ambroisie. Lorsque Wazir Khan sollicita l'instruction du gourou, celui-ci lui adressa la parole suivante :
 
 Ô serviteur de Dieu l'Insondable,
 Cessez de penser aux occupations mondaines.
@@ -108,11 +108,11 @@ Obéissance implicite [^8] à la parole de ton prêtre ton ciel,
 Le service de Dieu, tes huris, ton nur,[^9] et ton parfum ; et Dieu, ton haut hujra.[^10] <span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 Celui qui pratique la vérité est un Qazi ;
 Celui qui châtie son cœur est un Haji ;
-Celui qui bannit Satan est un Mulla, et celui qui loue Dieu est un darwesh.
+Celui qui bannit Satan est un Mulla, et celui qui loue _Dieu_ est un darwesh.
 À chaque instant et à chaque occasion
 Souviens-toi de Dieu, le Créateur, dans ton cœur.
 Fais de la soumission de tes dix organes le rosaire par lequel Dieu est rappelé dans ton cœur ;
-Bonne conduite et grande retenue sur toi-même, ta circoncision.
+Bonne conduite et grande retenue _sur toi-même_, ta circoncision.
 Sache dans ton cœur que tout est pour le moment.
 Les sports, les banquets et les associations sont tous des enchevêtrements.
 Les rois, les dirigeants et les nobles sont périssables ; seule la porte de Dieu est le lieu stable.
@@ -164,7 +164,7 @@ Comprends l'ordre de Dieu qui est vrai, ô Nanak, et tu seras libéré de ta pri
 
 ## Remarques
 
-[^1] : Bilawal.
+[^1]: Bilawal.
 
 [^2]: Dieu qui fait les rois et les empereurs.
 
@@ -172,9 +172,9 @@ Comprends l'ordre de Dieu qui est vrai, ô Nanak, et tu seras libéré de ta pri
 
 [^4]: Cet épisode, au mépris de la chronologie, est souvent inclus par les chroniqueurs sikhs dans la Vie de Guru Amar Das.
 
-[^5] : Une composition de Guru Arjan qui sera donnée ultérieurement.
+[^5]: Une composition de Guru Arjan qui sera donnée ultérieurement.
 
-[^6] : Sincérité.
+[^6]: Sincérité.
 
 [^7]: Patience:
 
@@ -182,10 +182,10 @@ Comprends l'ordre de Dieu qui est vrai, ô Nanak, et tu seras libéré de ta pri
 
 [^9]: Nur. Littéralement : la lumière, puis la vue de Dieu.
 
-[^10] : Un petit appartement ou une structure pour le culte privé.
+[^10]: Un petit appartement ou une structure pour le culte privé.
 
 [^11]:Les paroles traditionnelles du Prophète, qui ont force de loi parmi les musulmans.
 
 [^12]: C'est-à-dire incirconcis.
 
-[^13] : Maru Solha.
+[^13]: Maru Solha.

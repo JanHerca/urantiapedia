@@ -314,19 +314,19 @@ Le commerçant chargea son navire de produits de Ceylan et retourna en Inde. Raj
 
 [^1]: Au lieu de _chhâr_, poussière, le Granth Sâhib a _khwâr_, méprisé.
 
-[^1] : Âsa ki civilisé.
+[^1]: Âsa ki civilisé.
 
-[^2] : Râmkali ki Wâr I.
+[^2]: Râmkali ki Wâr I.
 
 [^1]: Les _Carissa Carandas_.
 
-[^2] : Une classe de faqirs aux cheveux emmêlés et aux pieds finement enchaînés. Ils se promènent généralement en sonnant des cloches.
+[^2]: Une classe de faqirs aux cheveux emmêlés et aux pieds finement enchaînés. Ils se promènent généralement en sonnant des cloches.
 
-[^3] : Basant.
+[^3]: Basant.
 
 [^1]: L’homme du monde ne se souvient pas de la mort.
 
-[^1] : Sri Rag, Ashtapadi.
+[^1]: Sri Rag, Ashtapadi.
 
 [^1]: Durga est l'énergie ou l'épouse de Shiv.
 
@@ -338,7 +338,7 @@ Le commerçant chargea son navire de produits de Ceylan et retourna en Inde. Raj
 
 [^1]: Son cri est « prio », un mot qui signifie aussi bien-aimé. C'est pourquoi on dit que l'oiseau appelle Dieu et vit dans son adoration.
 
-[^2] : Le coucou noir indien. Son nom vient de son cri, dont le volume sonore augmente à mesure qu'il progresse. Il est plus grand que le chatrik.
+[^2]: Le coucou noir indien. Son nom vient de son cri, dont le volume sonore augmente à mesure qu'il progresse. Il est plus grand que le chatrik.
 
 [^1]: Dieu, dans le sens où Il n'aime pas le pécheur, Le mot Bairâgi signifie ordinairement un homme sans amour pour le monde. Les Bairâgis forment maintenant une secte spéciale qui vénère Vishnu et porte des fils sacrificiels. Ils se distinguent des Sanyâsis qui vénèrent Shiv et se passent de fils sacrificiels.
 
@@ -358,7 +358,7 @@ Le commerçant chargea son navire de produits de Ceylan et retourna en Inde. Raj
 
 [^2]: Dieu.
 
-[^1] : Célèbre lieu de pèlerinage hindou, près d'Allâhâbâd. Le troisième fleuve est la Saraswati, censée rejoindre le Gange et la Jamna sous terre. La Saraswati, bien qu'on ne la voie plus aujourd'hui, fut autrefois une véritable rivière. D'après une légende du Mahâbhârat, il semblerait qu'elle ait pris sa source avec d'autres grands fleuves de l'Himalaya, qu'elle ait ensuite traversé le Râjpûtâna, où elle disparaissait parfois dans les sables de ce pays, et qu'elle ait finalement débouché au nord de Dwâraka dans la mer d'Arabie.
+[^1]: Célèbre lieu de pèlerinage hindou, près d'Allâhâbâd. Le troisième fleuve est la Saraswati, censée rejoindre le Gange et la Jamna sous terre. La Saraswati, bien qu'on ne la voie plus aujourd'hui, fut autrefois une véritable rivière. D'après une légende du Mahâbhârat, il semblerait qu'elle ait pris sa source avec d'autres grands fleuves de l'Himalaya, qu'elle ait ensuite traversé le Râjpûtâna, où elle disparaissait parfois dans les sables de ce pays, et qu'elle ait finalement débouché au nord de Dwâraka dans la mer d'Arabie.
 
 [^2]: Soixante-huit est le nombre de lieux sacrés de pèlerinage dans l'estimation des hindous.
 

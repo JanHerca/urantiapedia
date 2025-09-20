@@ -81,7 +81,7 @@ Asarh?[^2] est un mois de feu pour celui dont le Seigneur Dieu n'est pas proche.
 Celui qui abandonne à Dieu la vie du monde et place ses espoirs dans l’homme,
 Il sera ruiné par son amour de Mammon et portera le licou de la Mort autour de son cou.
 Comme l'homme a semé, _dans une vie antérieure_, ainsi le destin a été inscrit sur son front, et ainsi a-t-il récolté.
-Lorsque la nuit de la vie humaine est passée, l’homme regrette et s’en va sans espoir.
+Lorsque la nuit _de la vie humaine_ est passée, l’homme regrette et s’en va sans espoir.
 Ceux qui rencontrent les saints seront libérés devant le tribunal de Dieu.
 Ô Dieu, montre-moi ta miséricorde afin que j'aie soif de te voir.
 Nanak signifie : Ô Dieu, il n’y a personne d’autre que Toi.
@@ -142,7 +142,7 @@ En rencontrant le saint, chantez les louanges de Dieu et le péché ne vous affe
 Tu seras fusionné avec ce dont tu es issu ; c'est pourquoi sois absorbé dans le véritable amour.
 Celui que l’Être suprême a pris par la main ne sera jamais séparé de Lui.
 Je suis cent mille fois un sacrifice à Dieu l’Ami, l’inapprochable et l’insondable.
-Nanak est tombé à la porte de Dieu : c'est à Son honneur de le protéger.
+Nanak est tombé à la porte de Dieu : c'est à Son honneur _de le protéger_.
 Poh est agréable et apporte tout le bonheur à celui à qui Dieu pardonne.
 
 A Magh, baignez-vous dans la poussière des pieds des saints ;
@@ -150,7 +150,7 @@ Méditez sur le nom de Dieu et accordez-le à tous ;
 Ainsi la souillure des péchés de la naissance sera lavée, et l’orgueil disparaîtra de ton cœur.
 La convoitise et la colère ne séduiront pas, et la cupidité du chien sera détruite.
 Le monde loue ceux qui marchent dans le vrai chemin.
-La miséricorde envers les êtres humains est plus acceptable que les bains dans les soixante-huit lieux de pèlerinage, et que toutes les aumônes qui y sont offertes :
+La miséricorde envers les êtres humains est plus acceptable que les bains dans les soixante-huit lieux de pèlerinage, et que toutes les aumônes qui y _sont offertes_ :
 Celui à qui Dieu l’accorde avec miséricorde est un homme sage.
 Nanak est un sacrifice pour ceux qui ont rencontré leur Seigneur.
 Dans le Magh, ceux envers qui le Guru parfait est bienveillant sont appelés les purs.
@@ -181,8 +181,8 @@ Un interrogateur demanda au gourou, dans les deux premières lignes du texte sui
 
 Comment trouve-t-on du réconfort, ô mon frère ?
 Comment obtenir Dieu, le secours ?
-Il n'y a pas de confort dans la maison dont le maître dit : « Toute cette richesse est à moi » ;
-Ni de vivre dans une demeure élevée et magnifiquement construite.
+Il n'y a pas de confort dans la maison _dont le maître dit_ : « Toute cette richesse est à moi » ;
+Ni _de vivre_ dans une demeure élevée et magnifiquement construite.
 Dans une telle avarice trompeuse, l’homme perd sa vie humaine.
 Il se réjouit de contempler ses éléphants et ses chevaux,
 L'assemblée de son armée, de ses porteurs de masse et de ses serviteurs ;<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
@@ -306,7 +306,7 @@ Et ne pensez pas à la dernière heure.
 L'insensé est lié par le désir,
 Et impliqué dans la luxure, la colère et l’amour mondain :
 Dharmraj se tient au-dessus de lui :
-Il mange du poison qu'il considère comme doux, et dit
+Il mange du poison qu'il considère comme doux, _et dit_
 « Je ferai prisonnier mon ennemi et je le punirai ;
 Qui osera poser le pied sur mon sol ?
 Je suis un pandit, je suis intelligent et sage.
@@ -325,9 +325,9 @@ Afin qu’il n’oublie jamais ton nom.
 Ceux qui, sans servir Dieu, sont attachés à Mammon, le regretteront quand il sera trop tard :
 
 L’homme ne se satisfait pas d’une immense richesse.
-Il ne lui suffit pas de voir de nombreuses phases de la vie ; il désire en voir davantage.
+Il ne lui suffit pas de voir de nombreuses phases de la vie ; _il désire en voir davantage_.
 Il est occupé avec ses enfants et sa femme, les considérant comme les siens ;
-Mais ses richesses périront, et ses enfants et sa femme deviendront des tas de cendres ;
+Mais ses _richesses_ périront, et ses _enfants et sa femme_ deviendront des tas de cendres ;
 Alors vous le verrez se lamenter sans le nom de Dieu.
 Maudits soient les corps, maudites soient les richesses des amoureux de Mammon.
 
@@ -335,14 +335,14 @@ Toutes les richesses appartiennent à Dieu ; elles ne sont données à l’homme
 
 Comme lorsqu’on met un sac d’argent sur la tête d’un travailleur forcé ;
 L'argent parvient à la maison du maître, mais l'ouvrier souffre.
-Comme lorsqu'un mendiant s'assoit dans un rêve sur le trône d'un roi,
-En ouvrant les yeux, il découvre qu'il ne s'agit que d'un fantôme sans fondement.
+Comme lorsqu'_un mendiant_ s'assoit dans un rêve sur le trône d'un roi,
+En ouvrant les yeux, il _découvre_ qu'il ne s'agit que d'un fantôme sans fondement.
 Comme lorsqu'un gardien est placé sur le champ d'autrui,
 Le champ appartient à son maître, et le gardien s'en va _quand son travail est terminé_.
 Même si le gardien s'efforce vigoureusement,
 Il ne deviendra pas propriétaire du champ.
-Celui à qui appartient l'empire du monde l'a envoyé comme un rêve.
-Celui qui a créé Maya a infusé l’avarice dans l’humanité.
+Celui à qui appartient l'empire _du monde_ l'a envoyé comme un rêve.
+Celui qui a créé Maya a infusé l’avarice _dans l’humanité_.
 Dieu lui-même détruit, il lui-même restaure.
 Nanak, offre-lui ta supplication.
 
@@ -403,7 +403,7 @@ Tout bonheur, ô Dieu, s’obtient par ta miséricorde.
 Pur est l’acte qui te plaît ;
 La vraie foi qui te plaît est vraie.
 Le trésor de toutes les excellences est avec toi.
-Tu es l'Éternel, ton serviteur t'adresse cette supplication.
+Tu es l'Éternel, ton serviteur _t'adresse cette_ supplication.
 « Que mon âme et mon corps deviennent purs par l'amour de Dieu !
 Puissé-je obtenir tout le bonheur dans la société des saints !
 Que mon âme soit teinte de ton nom !
@@ -414,7 +414,7 @@ De toutes les saveurs, aucune n'est aussi douce que le nom de Dieu :
 _Ô ma langue_, ta soif ne s'éteint pas un instant, malgré toutes les douceurs que tu goûtes.
 Si tu goûtes maintenant la douceur de Dieu,
 Tu seras étonné en le goûtant.
-Ma langue bien-aimée, bois le nectar du nom de Dieu :
+Ma langue bien-aimée, bois le nectar du _nom de Dieu_ :
 Imprégné de cette saveur, tu seras rassasié.
 Ô ma langue, chante les louanges de Dieu ;
 Méditez sur Dieu à chaque instant.
@@ -424,7 +424,7 @@ Pendant les huit veilles, ô ma langue, adore
 Le Dieu suprême, le Seigneur insondable,
 Et tu seras toujours heureux dans ce monde et dans le suivant.
 En chantant ses louanges, ô ma langue, tu seras au-dessus de tout prix.
-Les plantes et les arbres peuvent fleurir et produire des fruits, et leur saveur peut être douce,
+Les plantes et les arbres peuvent fleurir et produire des fruits, _et leur saveur peut être douce_,
 Mais tu n'abandonneras jamais le nom de Dieu, une fois goûté.
 Aucune autre saveur[^10] ne peut l’égaler.
 Dit Nanak, le Guru est devenu mon secours.
@@ -454,9 +454,9 @@ Il nous réunira avec miséricorde avec le Marchand.
 
 L'occupation, les attributs et les louanges des saints :
 
-Nuit et jour, les pieux demeurent dans l’amour du seul Dieu.
+Nuit et jour, _les pieux_ demeurent dans l’amour du seul _Dieu_.
 Ils croient que Dieu est toujours avec eux ;
-Ils font de la répétition du nom de Dieu leur occupation ;
+Ils font de _la répétition_ du nom de Dieu leur occupation ;
 Ils sont satisfaits et réconfortés par sa vue.
 En entrant dans l'asile du parfait gourou
 Ils deviennent amoureux de Dieu, et leur esprit et leur corps deviennent heureux.
@@ -480,12 +480,12 @@ Elle est contenue dans le ciel, l'enfer et les incarnations ;
 Elle est contenue dans les riches, les pauvres et ceux qui se distinguent par leur splendeur ;
 Elle est contenue dans la convoitise qui est la racine du trouble ;
 Elle est contenue _dans le monde_ sous diverses formes.
-Ô Dieu, les saints vivent par Ta protection et ne sont pas soumis à Maya.
+Ô Dieu, les saints vivent par Ta protection _et ne sont pas soumis à Maya_.
 Maya est contenue en celui qui est enivré d’orgueil intellectuel ;
 Elle est contenue en celui qui est attaché aux enfants et à la femme ;
 Elle est contenue dans les éléphants, les chevaux et d'autres animaux ;<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 Elle est contenue en celui qui est enivré du vin de la beauté et de la jeunesse ;
-Elle est contenue dans les rois, dans les pauvres et dans ceux qui s'adonnent aux plaisirs ;
+Elle est contenue dans les rois, dans les pauvres _et dans ceux qui_ s'adonnent aux plaisirs ;
 Elle est contenue dans les chants et les instruments de musique entendus lors des assemblées ;
 Elle est contenue dans les lits, dans les palais et leurs ornements ;
 Elle est contenue dans les mauvaises passions _qui rendent l'homme_ aveugle ;
@@ -517,7 +517,7 @@ Ils ne sont contrôlés que par la société des saints.
 Aie pitié de moi, ô Dieu ;
 Accorde-moi la poussière des pieds des saints pour tout mon trésor.
 Celui qui rencontre le vrai gourou s'éveille dans l'amour de Dieu,
-Ô Nanak, le capital de sa vie humaine est intact.
+Ô Nanak, le capital _de sa vie humaine_ est intact.
 Celui envers qui Dieu est miséricordieux est éveillé ;
 Son capital social, sa richesse et ses biens restent intacts.
 
@@ -532,7 +532,7 @@ Afin qu'il arrange toutes tes affaires.
 Sa cour est la plus élevée de toutes ;
 Son nom est le soutien de tous les saints.
 Le Seigneur dont la gloire brille dans chaque cœur,
-Est contenu dans tout et remplit la création.
+Est contenu dans tout et remplit la _création_.
 En se souvenant de Lui, la demeure de la douleur est démolie ;
 En nous souvenant de Lui, la mort ne nous moleste pas ;
 En se souvenant de Lui, ce qui est flétri devient vert ;
@@ -556,8 +556,8 @@ Et même si tu es engagé dans le monde, cela ne te fascinera pas.
 Tu seras sauvé toi-même, et tu sauveras le monde.
 En répétant le nom du Dieu unique.
 Quand le nom de Dieu entre dans ton cœur,
-Utilisez-le vous-même et conseillez aux autres de faire de même.
-Celui sur le front duquel se trouve la richesse du Nom
+Utilisez-le vous-même et conseillez aux autres _de faire de même_.
+Celui sur le front duquel se trouve la richesse _du Nom_
 _A été écrit_, je le répéterai.
 Chantez les louanges de Dieu tout au long de la journée :
 Nanak dit : « Je suis un sacrifice pour Lui. »
@@ -648,13 +648,13 @@ Lorsque le véritable gourou, qui est l’incarnation des bonnes qualités, fait
 Le chagrin s’enfuit et le bonheur prend sa place.
 En cela, il n’y a pas de délai, lorsque Dieu en donne l’ordre.
 Nos désirs sont comblés lorsque le véritable gourou est trouvé ;
-Nanak, ceux qui le trouvent portent de bons fruits.
+Nanak, ceux _qui le trouvent_ portent de bons fruits.
 
 Ceux qui cherchent Dieu correctement n’ont aucune crainte :
 
 Le monde entier est plongé dans la peur ; mais celui qui s'appuie sur le Nom n'a aucune crainte. Celui qui, ô Seigneur, prend ta protection n'a pas peur :<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 Ce qui te plaît doit être fait.
-Ceux qui pleurent et se réjouissent subissent la transmigration, tandis que ceux qui plaisent au Seigneur obtiennent le réconfort. Maya imprègne cet océan ardent du monde :
+Ceux qui pleurent et se réjouissent subissent la transmigration, tandis que ceux qui plaisent au Seigneur obtiennent le réconfort. Maya imprègne cet océan ardent _du monde_ :
 Ceux qui ont trouvé le véritable gourou ont été guéris.
 Ô Dieu, le Conservateur, préserve-moi !
 Dit Nanak, quelle pauvre créature je suis !
@@ -664,7 +664,7 @@ Sans valeur est le corps sans le Nom :
 Les bouches sans nom sont vides
 Comme des balles dépourvues de grain.
 Ô mortel, répète toujours le nom de Dieu :
-Sans elle, malheur au corps, qui deviendra alors la proie de la Mort [^12] ;
+Sans elle, malheur au corps, _qui deviendra_ alors la proie de la Mort [^12] ;
 Sans elle, le visage perd son éclat.[^13]
 Sans son époux, où est la femme ? [^14]
 Quand, par dévotion aux plaisirs du monde, l’homme oublie le Nom,
@@ -676,7 +676,7 @@ Les péchés de l’homme ne peuvent être cachés à Dieu :
 
 L'homme fait le mal mais prétend faire le bien :
 _Pour cela_ il sera lié _comme un voleur_ devant le tribunal de Dieu.
-Celui qui prononce le Nom est un saint de Dieu.
+Celui qui prononce le Nom est _un saint_ de Dieu.
 Qui est également contenu dans la mer, la terre, les régions inférieures et le firmament,
 Celui qui prononce des paroles de nectar alors qu’il y a du poison dans son cœur,
 Seront liés et punis dans la cité de la Mort.
@@ -692,7 +692,7 @@ Qui nous a donné des vêtements et de la nourriture ?
 Celui qui oublie le Seigneur et s’attache aux autres,
 Échange une gemme contre un kauri.
 L’homme peut abandonner Dieu, fasciné par d’autres divinités ;
-Mais qui a de l'honneur en saluant un esclave au lieu de son maître ?
+Mais qui a de l'honneur en saluant un esclave _au lieu de son maître_ ?
 L'homme prend des aliments et des boissons au goût de nectar ;
 Mais le chien ne connaît pas celui qui les a donnés.
 Dit Nanak, nous sommes ingrats ;
@@ -789,7 +789,7 @@ Tu ouvres ta ceinture, et tu en étends une partie sous toi ;<span id="p149"><su
 Tu charges ton ventre comme un âne ;
 Mais sans bonnes œuvres, la délivrance n’est pas obtenue.
 La bénédiction de la délivrance est accordée à la méditation sur le Nom.
-Tu accomplis des adorations et des ablutions, et tu appliques des marques sacrificielles sur ton front ;
+Tu accomplis des adorations et des ablutions, et tu appliques des marques sacrificielles _sur ton front_ ;
 Tu sors un couteau _pour menacer de te suicider_ si l'aumône ne t'est pas faite ;
 Tu récites les Veds d'une voix mélodieuse.
 N'hésites-tu pas à tuer des créatures,[^17] ô mortel ?
@@ -803,7 +803,7 @@ Ceux qui sont imprégnés de l’amour de Dieu ne sont pas trompés par Maya ;
 Ceux qui sont imprégnés de l’amour de Dieu ne se noient pas dans l’eau ;
 Ceux qui sont imprégnés de l’amour de Dieu portent de bons fruits :
 Par le nom de Dieu, toute leur peur est dissipée ;
-Ils rencontrent la société des saints et chantent les louanges de Dieu.
+Ils rencontrent la société _des saints_ et chantent les louanges de Dieu.
 Celui qui est imprégné de l’amour de Dieu est libéré de toutes les angoisses ;
 Celui qui reçoit le charme du gourou s'attache à Dieu ;
 Celui qui est imprégné de l’amour de Dieu n’a pas peur de la mort ;
@@ -866,18 +866,18 @@ Que peut faire l'homme, la pauvre marionnette de bois ? Celui qui met la marionn
 Il joue le rôle pour lequel le joueur l'a habillé.
 Il a fait à l'intérieur de ce lieu diverses chambres de diverses sortes, et il le garde lui-même.
 L'âme doit rester dans le corps où elle est placée ; que peut faire cette misérable créature ? <span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
-Celui qui a fait quelque chose, c'est-à-dire tout l'appareil du corps, connaît sa construction.
+Celui qui a fait quelque chose, _c'est-à-dire_ tout l'appareil _du corps_, connaît sa construction.
 Nanak, le Dieu infini connaît la valeur de son propre travail.
 
 Au milieu des plaisirs du péché, l’homme ne pense pas à la mort :
 
 Abandonne, abandonne, les plaisirs du péché :
-Ô fou et insensé, tu es empêtré avec eux, et tu seras puni comme le bétail qui tombe sur les récoltes.
+Ô fou et insensé, tu es empêtré avec eux, et tu _seras puni_ comme le bétail qui tombe sur les récoltes.
 Ce que tu considères comme ton avantage ne t'accompagnera pas d'un pouce.[^20]
-Tu es venu nu, tu partiras nu ; tu deviendras un morceau pour la mort, et tu retourneras à un corps encore et encore.
+Tu es venu nu, tu partiras nu ; tu deviendras un morceau pour la mort, et tu retourneras _à un corps_ encore et encore.
 En contemplant les sports éphémères du monde, tu t'y absorbe et tu ris tant qu'ils durent.
-Le fil de la vie s'use jour et nuit ; tu n'as rien fait pour ton âme.
-Au milieu de vaines œuvres, la vieillesse t'a saisi ; ta parole est défaillante, et ton corps dépérit.
+Le fil _de la vie_ s'use jour et nuit ; tu n'as rien fait pour ton âme.
+Au milieu de vaines œuvres, la vieillesse _t'a saisi_ ; ta parole est défaillante, et ton corps dépérit.
 Depuis que cette femme fascinante t'a ensorcelé, ton amour pour elle n'a en rien diminué.
 Quand le Guru m'a montré que tel était le monde, j'ai abandonné l'orgueil et je suis entré dans Ton sanctuaire, ô Dieu.
 Les saints m'ont montré le chemin vers Dieu ; l'esclave Nanak a adopté le service et les louanges de Dieu.
@@ -926,7 +926,7 @@ Nanak sert et adore une telle personne et lui lèche les pieds.
 Une prière au Seigneur de la vie :
 
 Ô Seigneur de ma vie, montre-moi de la compassion et de la miséricorde ; je suis entré sans défense dans ton sanctuaire.
-Donne-moi ta main, et tire-moi du puits aveugle ;[^22] je n'ai ni stratagème ni sort pour m'aider.
+Donne-moi ta main, et tire-moi du puits aveugle ;[^22] je n'ai ni stratagème ni sort _pour m'aider_.
 Cause des causes, tu es tout, tu es tout-puissant, il n'y a rien en dehors de toi.
 Toi seul connais ton propre état et ta condition ; ceux qui sont ainsi destinés [^23] deviennent tes adorateurs.
 Toi, ô Dieu, tu aimes tes adorateurs : tu es contenu en eux comme la chaîne et la trame.
@@ -952,7 +952,7 @@ Mais, dit Nanak, Il est toujours présent.
 Le mépris du corps :—
 
 _Ô corps_, grand est ton orgueil d'une telle origine.
-Tu es transitoire, même si tu t'attaches aux choses du monde.
+Tu es _transitoire_, même si tu t'attaches aux choses du monde.
 Tu aimes les choses que les saints savants t’ont interdites.
 Comme un joueur qui, tout en perdant, reste attaché au jeu, ainsi tes sens te conquièrent et te maintiennent en esclavage.
 Tu n’es pas imprégné d’amour pour les pieds pareils-au-lotus de Celui qui détruit et crée toutes choses.
@@ -972,12 +972,12 @@ L’homme devrait penser à son âme, et non à son corps éphémère :
 
 Ô mon âme, cherche la protection de Dieu et tu seras heureuse.
 Les jours où le Donneur de vie et de bonheur est oublié passent en vain.
-Tu es venu comme l'invité d'une nuit, et pourtant tu laisses entrevoir l'espoir de vivre pendant de nombreux siècles.
+Tu es venu comme l'invité d'une nuit, et pourtant tu laisses entrevoir l'espoir _de vivre_ pendant de nombreux siècles.
 Maisons, palais, richesses, _tout_ ce que l'on voit est comme l'ombre d'un arbre.
 Ce corps qui est mien, toute ma richesse, mes jardins et mes biens disparaîtront.
 Tu as oublié Dieu, le Donateur ; en un instant, ces choses deviendront celles d'un autre.
 Tu te baignes, tu mets des vêtements propres et tu te parfumes avec du bois d'aloès distillé et du santal.
-Tu ne penses pas à l'Intrépide, à l'Informe ; tu es comme un éléphant qui jette de la poussière sur lui-même après avoir été baigné.
+Tu ne penses pas à l'Intrépide, à l'Informe ; tu es comme un éléphant qui jette de la poussière _sur lui-même après avoir_ été baigné.
 Quand Dieu est miséricordieux, Il vous fera rencontrer le vrai Guru ; tout bonheur réside dans le nom de Dieu.
 Nanak, en chantant les louanges de Dieu, le gourou débloquera tes chaînes et tu seras libéré.
 
@@ -990,7 +990,7 @@ Bien qu'il possède de belles femmes de nombreuses races, il commet l'adultère 
 Il ne fait pas de distinction entre le bien et le mal.
 Sous les nombreux liens de Mammon, il erre et ne chante pas les louanges du Trésor des excellences ;
 Son esprit est absorbé par les affaires du monde.
-Celui envers qui Dieu est miséricordieux est mort tout en étant vivant, et en compagnie des saints, il traverse l'océan du monde.
+Celui envers qui Dieu est miséricordieux est mort tout en étant vivant, et en compagnie des saints, il traverse _l'océan_ du monde.
 Nanak, cet homme sera acceptable devant la cour de Dieu.
 
 Pour l’homme, Dieu devrait être le plus cher de tous :
@@ -1001,7 +1001,7 @@ Et certains vivent une vie d'ermite.
 Certains aiment le culte des lèvres, d’autres les austérités, d’autres l’adoration, les holocaustes et les cérémonies quotidiennes ;
 Et certains vivent une existence errante.
 Certains aiment le rivage, d'autres la mer, d'autres l'étude des Védas,
-Mais pour Nanak, seul le service de Dieu est cher.
+Mais pour Nanak, _seul_ le service de Dieu est cher.
 
 Dieu pour le gourou est tout ce qui est précieux :—
 
@@ -1011,7 +1011,7 @@ Toi, ô Dieu, tu es mon espérance et mon refuge ;
 Tu es ma fierté, Tu es ma richesse, Tu es mon honneur, Tu es ma vie,
 Le Guru m'a uni à Toi dont je m'étais séparé.
 Tu es ma maison, Tu es ma forêt, Tu es mon village, Tu es mon désert ;
-Dit Nanak, tu es pour moi le plus proche et le plus cher de tous.
+Dit Nanak, tu es pour moi le plus proche et le plus _cher_ de tous.
 
 Le gourou donne l’opinion des saints hommes quant aux moyens du salut :
 
@@ -1029,7 +1029,7 @@ En compagnie des saints et en devenant la poussière de leurs pieds, Nanak s'est
 Le gourou donne un résumé de son enseignement :
 
 Sans Dieu, toutes les œuvres sont vaines.
-Par des œuvres de dévotion hypocrite, de pénitence et d'austérités, l'homme est pillé de ce côté.[^24]
+Par des œuvres de dévotion _hypocrite_, de pénitence et d'austérités, l'homme est pillé de ce côté.[^24]
 Celui qui s'adonne au jeûne, aux cérémonies insincères et aux austérités n'obtiendra pas un huitième de paisa.
 Dans l'autre monde, la pièce est différente, mon frère ; cette pièce n'y servira à rien.
 Celui qui se baigne dans un lieu de pèlerinage et erre sur la terre ne trouvera plus de lieu de résidence par la suite.
@@ -1046,8 +1046,8 @@ Nuit et jour, à chaque respiration, laisse-moi méditer sur Toi.
 Ô saints, donnez à Dieu ce message : « Je tombe à tes pieds ;
 Sans toi, comment serai-je sauvé ?
 Avec toi je me réjouis ;
-Tu es dans la forêt, dans les clairières, dans les trois mondes ; Tu confères le bonheur et la joie suprêmes.
-Mon lit est agréable, mon âme s'étend vers toi.
+Tu es dans la forêt, dans les clairières, dans les trois mondes ; _Tu confères_ le bonheur et la joie suprêmes.
+Mon lit est agréable, mon âme s'étend _vers toi_.
 En te voyant, mon bonheur sera mien.
 Je te laverai les pieds, et je te servirai continuellement.
 Je t'adorerai, je te ferai des offrandes et je te rendrai hommage.
@@ -1134,7 +1134,7 @@ Race, caste, musulmans, hindous,
 Bêtes, oiseaux, animaux de différentes espèces,<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 Toute la création visible,
 Et toutes les formes d’existence périront.
-En louant et en servant Dieu, on obtient une véritable connaissance divine,
+En louant et en servant Dieu, on _obtient_ une véritable connaissance divine,
 Qui confère toujours le bonheur et la demeure permanente et réelle.
 Là où la congrégation des saints est absorbée dans les louanges de Dieu,
 Et demeurera pour toujours dans la cité sans peur,
@@ -1172,7 +1172,7 @@ Celui qui se dépouille ainsi mènera une vie pure ;
 Celui qui se dépouille ainsi sera parfaitement versé dans la connaissance divine ;
 Celui qui se dépouille ainsi méditera sur Dieu.
 Sans se dépouiller ainsi, l’homme ne sera pas acceptable,
-Même s'il accomplit des millions de cérémonies et de formes de culte superstitieux,
+Même s'il accomplit des millions de cérémonies et de formes de culte _superstitieux_,
 Sans se dépouiller ainsi, il renaîtra ;
 Sans se dépouiller ainsi, il n’échappera pas à la mort ;
 Sans se dépouiller ainsi, il n’obtiendra pas la connaissance divine ;
@@ -1198,7 +1198,7 @@ Entendre le nom de Dieu équivaut à des millions d’ablutions ;
 Méditer sur Lui équivaut à des millions d’adorations ;
 Entendre ses louanges équivaut à des millions d’aumônes ;
 Connaître Ses voies grâce au Guru apporte des millions de récompenses.
-Pense encore et encore à Dieu dans ton cœur,
+Pense encore et encore _à Dieu_ dans ton cœur,
 Et ton amour pour Mammon s’en ira.
 Le Dieu immortel est avec toi ;
 Ô homme, sois absorbé dans ton amour pour Lui.
@@ -1208,7 +1208,7 @@ En servant celui que les myrmidons de la Mort ne regarderont pas ;
 En servant qui tu obtiendras un grand honneur ;
 En servant qui tu deviendras immortel ;
 Dont le serviteur ne sera pas puni ;
-Dont le serviteur ne sera même pas lié [^27] ;
+Dont le serviteur ne sera même _pas_ lié [^27] ;
 Et c'est à lui que tu ne demanderas pas de comptes.
 Ô homme, accomplis ton service envers Lui
 Qui n'a besoin de rien,
@@ -1233,7 +1233,7 @@ L'infidèle cupide tombe dans des pièges ;
 Sans se souvenir du Nom, il se suicide.
 L'infidèle est bas ; il n'a ni famille ni caste.
 Le gourou fait rencontrer à celui envers qui il est miséricordieux la société des saints,
-Et, ô Nanak, de traverser l'océan du monde.
+Et, ô Nanak, de traverser _l'océan du_ monde.
 
 Le sort funeste de celui qui oublie le Nom :
 
@@ -1261,7 +1261,7 @@ Mon âme aspire à cet ami,
 Qui ne m'abandonne pas au début, au milieu ou à la fin de mes entreprises.
 L’amour de Dieu nous accompagne toujours ;
 Il est le Chérisseur Compatissant et Omniprésent.
-Il ne périt pas, et il n’abandonne pas son serviteur.
+Il ne périt pas, et il n’abandonne pas _son serviteur_.
 Partout où je regarde, Il est là, contenu.
 Il est beau, habile, intelligent, le Donneur de vie ;
 Il est frère, fils, père et mère ;
@@ -1274,7 +1274,7 @@ Et en méditant sur Ses pieds, il jouit de tout le bonheur.
 L’Être omniprésent est toujours frais et jeune ;
 Il est le compagnon et le protecteur de l’homme, que ce soit à la maison ou à l’étranger.
 Dit Nanak, le saint qui connaît la dignité de Dieu
-A obtenu de Lui le Nom pour toutes ses richesses.
+A obtenu de Lui le Nom pour toutes ses _richesses_.
 
 L'homme qui ne connaît pas Dieu passe sa vie dans les plaisirs, l'amour du monde et l'orgueil, et ne peut obtenir le salut :
 
@@ -1283,7 +1283,7 @@ Toute sa vie passe en disant : « J'amasse, je gagne ;
 Je suis un héros, je suis distingué ; personne ne m'égale ;
 Je suis jeune, religieux, de bonne famille'; ainsi l'orgueil entre dans son cœur,
 Et il ne l'oublie pas jusqu'à la mort, tant il est empêtré dans son intellect vantard [^30].<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
-Il cède sa richesse à ses frères, amis, parents et compagnons qui lui survivent.
+Il cède _sa richesse_ à ses frères, amis, parents et compagnons qui lui survivent.
 Le désir auquel l’esprit est attaché devient suprême à la dernière heure.
 Si l’homme accomplit des purifications par orgueil, il devient lié par de tels enchevêtrements.
 Ô Dieu miséricordieux, fais preuve de miséricorde afin que Nanak devienne l'esclave de Tes esclaves.
@@ -1337,15 +1337,15 @@ J'ai trouvé mon Mari, le Seigneur, le Chercheur des cœurs ; ô Nanak, mon éta
 
 [^1]: Sans l’interposition du Guru.
 
-[^2] : Appelé Har dans les Zwelve ALonths de Guru Nanak.
+[^2]: Appelé Har dans les Zwelve ALonths de Guru Nanak.
 
 [^3]: Ils ne donnent aucune indication préalable de leur visite.
 
-[^4] : C'est-à-dire dans le corps humain. Dans son dictionnaire sanskrit, Apte traduit _karm bhumi_ par « ce monde », par « lieu de probation ».
+[^4]: C'est-à-dire dans le corps humain. Dans son dictionnaire sanskrit, Apte traduit _karm bhumi_ par « ce monde », par « lieu de probation ».
 
-[^5] : _Voile_, un rocher ou une montagne.
+[^5]: _Voile_, un rocher ou une montagne.
 
-[^6] : Il existe un proverbe panjabi : _Sach mirchan, jhuth gur ; pir paisa,
+[^6]: Il existe un proverbe panjabi : _Sach mirchan, jhuth gur ; pir paisa,
 rann gur_, La vérité est poivre, le mensonge sucre, l'argent est le guide spirituel et la femme le maître.
 
 [^7]: Les hommes sont capturés par Mammon.
@@ -1360,15 +1360,15 @@ rann gur_, La vérité est poivre, le mensonge sucre, l'argent est le guide spir
 
 [^11]: Dormez en vous tournant vers Dieu, ne le regardez pas.
 
-[^12] : _Birani_. Littéralement — celui d'un autre.
+[^12]: _Birani_. Littéralement — celui d'un autre.
 
-[^13] : _Bhag_. Littéralement — la fortune, puis l'éclat du visage produit par la bonne fortune — un idiome panjabi.
+[^13]: _Bhag_. Littéralement — la fortune, puis l'éclat du visage produit par la bonne fortune — un idiome panjabi.
 
-[^14] : _Suhdg_. Littéralement : l’état matrimonial. Cela signifie qu’il ne peut y avoir de bonheur sans Dieu.
+[^14]: _Suhdg_. Littéralement : l’état matrimonial. Cela signifie qu’il ne peut y avoir de bonheur sans Dieu.
 
 [^15]: C'est-à-dire, de qui procède tout pouvoir.
 
-[^16] : Singari. Littéralement : décoré.
+[^16]: Singari. Littéralement : décoré.
 
 [^17]: Égarer les hommes et les ruiner.
 
@@ -1376,7 +1376,7 @@ rann gur_, La vérité est poivre, le mensonge sucre, l'argent est le guide spir
 
 [^19]: L'orateur est censé être une femme.
 
-[^20] : _Tasu_, deux doigts de large, ou la vingt-quatrième partie d'un yard.
+[^20]: _Tasu_, deux doigts de large, ou la vingt-quatrième partie d'un yard.
 
 [^21]: J'ai contrôlé mes mauvaises passions et les ai soumises à l'Autorité Centrale Unique.
 
@@ -1386,7 +1386,7 @@ rann gur_, La vérité est poivre, le mensonge sucre, l'argent est le guide spir
 
 [^24]: Dans ce monde.
 
-[^25] : _Sudhakhar_. Également traduit par : la parole pure, le nom de Dieu.
+[^25]: _Sudhakhar_. Également traduit par : la parole pure, le nom de Dieu.
 
 [^26]: C'est-à-dire qu'il accomplit un grand exploit.
 
@@ -1394,6 +1394,6 @@ rann gur_, La vérité est poivre, le mensonge sucre, l'argent est le guide spir
 
 [^28]: Il est toujours déterminé à blesser les autres.
 
-[^29] : L'âne, comme la vache, le mouton et d'autres animaux indiens, est un animal immonde. Il est utilisé pour nettoyer les saletés dans les villes indiennes.
+[^29]: L'âne, comme la vache, le mouton et d'autres animaux indiens, est un animal immonde. Il est utilisé pour nettoyer les saletés dans les villes indiennes.
 
 [^30]: _Badh_ ; certains lisent _bal_, et traduisent—Un homme est empêtré par son intellect dès sa jeunesse, et n'oublie pas son orgueil jusqu'à sa mort,

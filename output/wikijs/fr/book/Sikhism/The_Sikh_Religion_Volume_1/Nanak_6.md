@@ -280,14 +280,14 @@ Mais tu ne vois pas ce qui est derrière toi, c'est une chose merveilleuse.[^1]
 
 [^1]: À l'époque du Guru, on pense que Kâwarû, ou Kâmrûp, comprenait au moins les districts actuels de Goalpâra et de Kâmrûp.
 
-[^2] : _Kallar_, nitrate de soude impur trouvé dans les sols sableux en Inde.
+[^2]: _Kallar_, nitrate de soude impur trouvé dans les sols sableux en Inde.
 
 [^3]: Comparer—
 
 'Je jouerai le rôle d'une épée tranchante.
 Rendre ce que vaut l'épée, c'est le lot même de la coupe. — HORACUS.
 
-[^4] : Wadhans.
+[^4]: Wadhans.
 
 [^1]: Littéralement : qui connaît mon nom ?
 
@@ -313,7 +313,7 @@ Rendre ce que vaut l'épée, c'est le lot même de la coupe. — HORACUS.
 
 [^5]: Un pot-de-vin doit être versé au juge.
 
-[^1] : Travail.
+[^1]: Travail.
 
 [^2]: Littéralement, nous sommes blancs à l’extérieur.
 
@@ -333,25 +333,25 @@ Rendre ce que vaut l'épée, c'est le lot même de la coupe. — HORACUS.
 
 [^4]: C'est la réponse des épouses préférées montrant comment elles ont gagné Dieu comme leur époux.
 
-[^5] : _Sahij_. Ce mot a plusieurs significations dans le Granth Sâhib. Il signifie disposition naturelle, facilement, lentement, connaissance divine, tranquillité divine, Dieu, etc. Dans certains de ses sens, il dérive de _sah_, avec, et _ja_, né.
+[^5]: _Sahij_. Ce mot a plusieurs significations dans le Granth Sâhib. Il signifie disposition naturelle, facilement, lentement, connaissance divine, tranquillité divine, Dieu, etc. Dans certains de ses sens, il dérive de _sah_, avec, et _ja_, né.
 
-[^6] : Contravention routière.
+[^6]: Contravention routière.
 
 [^1]: Kaljug signifie ici Satan.
 
 [^2]: Dar ghar, la demeure de la peur, est expliqué par les gyânis comme signifiant Dieu.
 
-[^1] : Gauri.
+[^1]: Gauri.
 
-[^2] : Ramkali.
+[^2]: Ramkali.
 
-[^1] : Sri Rag.
+[^1]: Sri Rag.
 
 2 C'est-à-dire que je suis devenu un fakir et j'ai déshonoré ma famille.
 
 [^1]: C'est-à-dire que l'état du corps est aussi changeant que les saisons.
 
-[^1] : Maliânlo, littéralement : le vent de l'arbre malais.
+[^1]: Maliânlo, littéralement : le vent de l'arbre malais.
 
 [^2]: Dans l'original, _chauri_, un clapet fabriqué à partir de la queue du yak ou de la vache tibétaine, et utilisé en Inde pour chasser les mouches.
 
@@ -374,4 +374,4 @@ Rendre ce que vaut l'épée, c'est le lot même de la coupe. — HORACUS.
 
 [^6]: Le Sârang, ou coucou pie indien, le Cuculus Melanoleukos, est censé ne boire de l'eau que lorsque la lune est dans la demeure d'Arcturus ; ainsi, lorsque son heure de boire arrive, il a naturellement soif. Cet oiseau est également connu sous les noms de châtrik et de papîha. Son amour est célébré en chansons et en histoires. Il est à pleine voix à l'approche de la mousson indienne, lorsque ses chants plaintifs sont plus clairs la nuit. On dit qu'ils font saigner à nouveau les blessures non cicatrisées de l'amour.
 
-[^7] : Dhanâsari.
+[^7]: Dhanâsari.

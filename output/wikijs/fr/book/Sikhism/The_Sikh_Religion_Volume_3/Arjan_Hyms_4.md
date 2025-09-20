@@ -63,7 +63,7 @@ Et donne la paix au cœur des saints.[^4]
 
 <p style="text-align:center;">2</p>
 
-En se souvenant de Dieu, l'homme n'entre plus dans le ventre maternel ;
+En se souvenant de Dieu, l'homme n'entre _plus_ dans le ventre maternel ;
 En se souvenant de Dieu, les tortures de la mort disparaissent ;
 En se souvenant de Dieu, la mort est supprimée ;
 En se souvenant de Dieu, les ennemis reculent ;
@@ -78,9 +78,9 @@ Nanak, c'est par l'amour de Dieu que toute richesse est obtenue.
 
 En nous souvenant de Dieu, nous obtenons la richesse, le pouvoir surnaturel et les neuf trésors ;
 En nous souvenant de Dieu, nous obtenons la connaissance divine, la méditation et l’essence de la sagesse ;
-Le souvenir de Dieu est la véritable dévotion, la pénitence et l’adoration ;
-En se souvenant de Dieu, la conception de la dualité est dissipée ;
-En nous souvenant de Dieu, nous obtenons les avantages de nous baigner dans les lieux de pèlerinage ;
+Le souvenir de Dieu est la _véritable_ dévotion, la pénitence et l’adoration ;
+En se souvenant de Dieu, _la conception de_ la dualité est dissipée ;
+En nous souvenant de Dieu, nous obtenons _les avantages_ de nous baigner dans les lieux de pèlerinage ;
 1
 <span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 En nous souvenant de Dieu, nous sommes honorés à sa cour ;
@@ -131,8 +131,8 @@ En se souvenant de Dieu, l’homme ne s’afflige jamais ;
 En se souvenant de Dieu, l’homme prononce ses louanges ;
 En se souvenant de Dieu, l’homme est facilement absorbé en Lui ;
 En se souvenant de Dieu, l’homme trouve un siège inébranlable ;
-En se souvenant de Dieu, le lotus du cœur de l'homme fleurit ;
-En se souvenant de Dieu, l'homme entend la mélodie ininterrompue ;
+En se souvenant de Dieu, le lotus du _cœur de l'homme_ fleurit ;
+En se souvenant de Dieu, l'homme _entend_ la mélodie ininterrompue ;
 Le bonheur que l’on obtient en se souvenant de Dieu n’a ni fin ni limite :
 Ceux envers qui Dieu est miséricordieux se souviennent de Lui ;
 Nanak recherche la protection de tels hommes.
@@ -165,10 +165,10 @@ Là où les terribles ministres de la Mort t'écrasent,
 Là, le nom de Dieu seul t'accompagnera.
 Là où il y a de très grands obstacles,
 Le nom de Dieu les enlèvera en un instant.
-Tu ne seras pas sauvé, même par de nombreuses expiations ;
+Tu ne seras pas sauvé, _même par_ de nombreuses expiations ;
 C'est le nom de Dieu qui enlève des millions de péchés.
 Ô mon âme, prononce le nom de Dieu sous l'instruction du Guru ;
-Ainsi, dit Nanak, tu connaîtras de multiples joies.
+Ainsi, _dit_ Nanak, tu connaîtras de multiples joies.
 
 <p style="text-align:center;">2</p>
 
@@ -207,7 +207,7 @@ Le nom de Dieu sera là pour te reconnaître ;
 Là où il y a une chaleur terrible et un grand soleil,
 Là, le nom de Dieu sera une ombre sur toi.
 Ô homme, là où la soif te tourmente,
-Là, dit Nanak, le nom de Dieu fera pleuvoir du nectar sur toi.[^9]
+Là, _dit_ Nanak, _le nom de_ Dieu fera pleuvoir du nectar sur toi.[^9]
 
 <p style="text-align:center;">5</p>
 
@@ -227,7 +227,7 @@ En prononçant le nom de Dieu, il n’arrive jamais de mal à personne ;
 Le nom de Dieu est la gloire de son serviteur ;
 Du nom de Dieu l'homme obtient de la gloire ;
 Le nom de Dieu est joie et salut pour son serviteur ;
-En prononçant le nom de Dieu, l’homme n’est jamais séparé de Lui.
+En prononçant le nom de Dieu, l’homme n’est jamais séparé _de Lui_.
 Nanak, chaque demi-dieu [^10] l'adore
 Qui est teint par l'adoration du nom de Dieu,
 
@@ -248,7 +248,7 @@ L'adoration de Dieu confère le salut à beaucoup. Nanak, combien seront sauvés
 <p style="text-align:center;">8</p>
 
 Ce nom de Dieu est comme l'arbre qui pousse dans le ciel ; [^12]
-Le chant des louanges de Dieu est comme les dons de Kamdhen ;
+Le chant des louanges de Dieu est _comme les dons_ de Kamdhen ;
 Parler de Dieu est la meilleure de toutes les paroles ;
 En entendant le Nom, la douleur et le chagrin sont éliminés :
 La louange du Nom demeure dans le cœur des pieux ;
@@ -264,7 +264,7 @@ J'ai vu de nombreux Shastars, de nombreux Simritis, et je les ai tous recherché
 
 <p style="text-align:center;">ASHTAPADI III</p>
 
-Marmonner des sorts, faire pénitence, faire semblant d'être au courant, toute méditation,
+Marmonner des sorts, faire pénitence, _faire_ semblant d'être au courant, toute méditation,
 L'exposition des six Shastars et des Simritis,
 La pratique du Jog, l'accomplissement de cérémonies religieuses _vaines_,
 L'abandon de tout, l'errance dans la forêt,
@@ -304,7 +304,7 @@ Nanak, les pires pécheurs ont été sauvés par le Nom.
 
 Par trop d'habileté, l'homme ressentira la peur de la mort : même en faisant divers efforts, sa soif ne sera pas étanchée ;<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 _Même en adoptant_ divers vêtements _religieux_, le feu de son amour mondain ne s'éteint pas ;
-Même malgré des millions d’efforts d’autres religions, l’homme n’est pas acceptable devant le tribunal de Dieu.
+Même malgré des millions d’efforts _d’autres religions_, l’homme n’est pas acceptable devant le tribunal de Dieu.
 Celui sur qui l’amour mondain a étendu son filet,
 Je n'échapperai ni au paradis ni à l'enfer.
 La mort ne s’intéresse qu’aux louanges de Dieu ;
@@ -316,7 +316,7 @@ Nanak prononce le _Nom_ sans effort.
 
 Que celui qui prie pour les quatre bienfaits,
 S'appliquer au service des saints hommes.
-Que celui qui désire se débarrasser de ses ennuis,
+Que celui qui _désire_ se débarrasser de ses ennuis,
 Chantez continuellement le nom de Dieu dans votre cœur.
 Que celui qui désire l’honneur pour lui-même,
 Renoncez à l’orgueil en vous associant à des hommes saints.
@@ -354,7 +354,7 @@ Pour éliminer la souillure des mauvaises inclinations par l’association avec 
 De tous les efforts, le meilleur effort est
 Répéter toujours de bon cœur le nom de Dieu ;
 De toutes les paroles, la parole divine est
-Prononcer avec la langue les louanges de Dieu entendues du Gourou ;
+Prononcer avec la langue les louanges de Dieu entendues _du Gourou_ ;
 De tous les endroits, c'est le meilleur endroit
 Nanak, là où le nom de Dieu demeure dans le cœur.
 
@@ -388,8 +388,8 @@ Et les vents agréables et le feu inestimable _sont à ton service_ ;
 Par la faveur de qui tu jouis de tous les plaisirs,
 Et tu vis avec tout le nécessaire _à la vie_ ;
 Qui t’a donné des mains, des pieds, des oreilles, des yeux et une langue,
-De tels péchés d'ingratitude s'attachent à l'homme aveugle et insensé :
-Nanak prie : sauve-nous, ô Seigneur, de tels péchés.
+De tels péchés _d'ingratitude_ s'attachent à l'homme aveugle et insensé :
+Nanak _prie_ : sauve-nous, ô Seigneur, _de tels péchés_.
 
 <p style="text-align:center;">3</p>
 
@@ -422,20 +422,20 @@ _Saith_ Nanak, ô Dieu miséricordieux, délivre-le :
 Il n’est homme qu’en apparence ; ses actes sont ceux d’une brute ;
 Il séduit [^18] les gens jour et nuit ;
 Il porte un vêtement religieux, mais en lui se trouve la saleté de l'amour mondain ;
-Malgré tous ses efforts, il ne peut cacher ses péchés ;
-Devant le monde, il pratique la contemplation, la méditation et les ablutions,
+Malgré tous ses efforts, il ne peut cacher _ses péchés_ ;
+Devant le monde, il _pratique_ la contemplation, la méditation et les ablutions,
 Tandis que dans son cœur il a l'avidité d'un chien ;
-Dans son cœur est le feu de l'avarice tandis qu'il applique des cendres sur son corps ; [^19]
-Il y a une pierre attachée à son cou : comment traversera-t-il l'océan sans fond ?
+Dans son cœur est le feu de _l'avarice_ tandis qu'il applique des cendres sur son corps ; [^19]
+Il y a une pierre _attachée_ à son cou : comment traversera-t-il _l'océan_ sans fond ?
 Celui dans le cœur duquel Dieu lui-même habite,
 Tu seras, ô Nanak, facilement absorbé en Lui.
 
 <p style="text-align:center;">6</p>
 
-Comment un aveugle trouvera-t-il le chemin même s'il entend où il est ?
+Comment un aveugle trouvera-t-il le chemin même s'il _entend où il est_ ?
 Prends sa main et il atteindra le but.
 Comment un sourd peut-il comprendre des énigmes ?
-Parlez-lui de la nuit, et il pensera que vous parlez de l'aube ;<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
+Parlez-lui de la nuit, et il pensera que _vous parlez de_ l'aube ;<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 Comment un muet peut-il chanter une portée ?
 Même s'il essayait, cela lui brisait la voix,[^20]
 Comment un infirme peut-il errer sur une montagne ?
@@ -454,7 +454,7 @@ Attaché aux péchés de vengeance, d’inimitié, de luxure, de colère, d’am
 Le mensonge, l’avarice excessive et la tromperie,
 La pensée de la mort n’entre jamais dans son cœur insensé.
 Il a ainsi passé plusieurs vies ;
-Nanak prie, ô Dieu, de le sauver par ta faveur.
+Nanak _prie, ô Dieu_, de le sauver par ta faveur.
 
 <p style="text-align:center;">8</p>
 
@@ -498,7 +498,7 @@ Il mange, et mange, et en use avec plaisir et JOIE ;
 Mais si Dieu le banquier reprend une partie de ce qu'il a confié à l'homme,
 L'insensé se met en colère.
 Il perd la confiance par son propre acte,
-Et Dieu ne lui fera plus confiance.
+Et Dieu ne lui fera _plus_ confiance.
 Si tu mets les choses [^24] devant leur propriétaire,
 Et obéis à l'ordre de Dieu de toutes tes forces,[^25]
 <span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
@@ -572,7 +572,7 @@ Nanak tombe aux pieds de tels hommes.
 <p style="text-align:center;">8</p>
 
 Suppliez l’Être suprême qui connaît toutes choses.
-Dieu accepte les prières de ses créatures :
+Dieu accepte _les prières_ de ses créatures :
 C'est lui-même et par lui-même qui décide :
 A l'un il se montre de loin, à l'autre il se montre de près.
 Lui-même est libre de tout stratagème et de toute ruse ;
@@ -723,7 +723,7 @@ Par l'association avec les saints, l'Invisible est obtenu,
 En s'associant aux saints, l'homme prospère toujours,
 En s'associant aux saints, les cinq mauvaises passions sont contenues,
 En s'associant aux saints, l'homme participe à l'essence ambroisiale du Nom,
-En s'associant aux saints, l'homme devient la poussière des pieds de tous les hommes,
+En s'associant aux saints, l'homme devient la poussière _des pieds de_ tous les hommes,
 Dans l'association des saints, il y a une conversation fascinante,
 En association avec les saints, l’esprit ne s’égare dans aucune direction,
 En s'associant aux saints, il devient stable,
@@ -745,13 +745,13 @@ Nanak, il y a une entente entre Dieu et Ses saints—
 
 <p style="text-align:center;">4</p>
 
-En association avec les saints, l'esprit ne s'égare jamais,
+En association avec les saints, _l'mental_ ne s'égare jamais,
 En s'associant aux saints, le bonheur est toujours obtenu,
 En s'associant aux saints, l'homme obtient ce qui est invisible,
 En fréquentant les saints, l’homme supporte des choses intolérables,
 Par association avec les saints, l’homme habite dans une position exaltée,
 En s'associant aux saints, l'homme atteindra le palais de Dieu,
-Par l’association avec les saints, la foi de l’homme est complètement établie,
+Par l’association avec les saints, la foi de l’homme est complètement _établie_,
 Dans l'association des saints, seul l'Être suprême est mentionné,
 En s'associant aux saints, l'homme obtient le trésor du Nom.
 Nanak est un sacrifice aux saints.
@@ -780,7 +780,7 @@ En s'associant aux saints, ceux qui sont séparés de Dieu le rencontreront,
 En s'associant aux saints, l'homme ne repart pas à vide,
 Mais il obtient le fruit qu’il désire.
 L’Être suprême habite dans le cœur des saints ;
-Nanak, l'homme qui entend le délicieux nom de Dieu de la part des saints sera sauvé.
+Nanak, l'homme qui entend le délicieux _nom_ de Dieu de la part des saints sera sauvé.
 
 <p style="text-align:center;">7</p>
 
@@ -806,7 +806,7 @@ La gloire des saints est éternelle,
 La gloire des saints est la plus élevée des plus hautes,
 La gloire des saints est la plus grande des grandes,
 La gloire des saints appartient à eux seuls ;
-_Saith_ Nanak, mes frères, il n’y a pas de différence entre Dieu et ses saints.
+_Dit_ Nanak, mes frères, il n’y a pas de différence entre Dieu et ses saints.
 
 <p style="text-align:center;">SLOK VIII</p>
 
@@ -863,7 +863,7 @@ L’homme qui connaît Dieu est imprégné d’humilité,
 L’homme qui connaît Dieu prend plaisir à faire preuve de bonté envers les autres,
 L'homme qui connaît Dieu n'est pas impliqué dans les affaires du monde,
 L'homme qui connaît Dieu retient son esprit vagabond ;[^35]
-Les actes de l'homme qui connaît Dieu sont très bons ;
+_Les actes_ de l'homme qui connaît Dieu sont très bons ;
 Tout prospère pour celui qui connaît Dieu ;
 En compagnie de l’homme qui connaît Dieu, tous seront sauvés.
 Nanak, le monde entier loue l'homme qui connaît Dieu.[^36]
@@ -885,7 +885,7 @@ L'homme qui connaît Dieu, ô Nanak, ne périra jamais.
 
 <p style="text-align:center;">6</p>
 
-L'homme qui connaît Dieu est appelé un Brahmgyani,
+L'homme qui connaît Dieu _est appelé_ un Brahmgyani,
 L'homme qui connaît Dieu n'aime que Lui seul,
 L'homme qui connaît Dieu est libre de tout souci ;
 La doctrine de celui qui connaît Dieu est pure ;
@@ -902,7 +902,7 @@ L’homme qui connaît Dieu n’a pas de prix,
 L'homme qui connaît Dieu sait tout.
 Qui connaît le secret de celui qui connaît Dieu ?
 Obéissance toujours à celui qui connaît Dieu !
-Même la moitié d'une lettre de ses louanges ne peut être écrite par quiconque connaît Dieu.
+Même la moitié d'une lettre de _ses louanges_ ne peut être écrite par quiconque connaît Dieu.
 L'homme qui connaît Dieu est le seigneur de tous.
 Qui peut dire la valeur de l'homme qui connaît Dieu ?<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 Seul l’homme qui connaît Dieu connaît son propre état ;
@@ -946,7 +946,7 @@ Il maîtrise ses passions et s’abstient des cinq péchés capitaux.
 
 C'est un Vaishnav dont Dieu est satisfait,
 Qui est libre de l'influence de Mamion,
-Qui, en accomplissant de bonnes actions, ne cherche pas de récompense [^39] —
+Qui, en accomplissant de _bonnes_ actions, ne cherche pas de récompense [^39] —
 La religion d'un Vaishnav si pur est celle-ci—
 Nanak, que Vaishnav obtienne le salut final,
 Qui ne désire aucune récompense pour quoi que ce soit,
@@ -960,7 +960,7 @@ Lui-même s'attache au nom de Dieu et fait que les autres le répètent.
 C'est un Bhagauti qui aime le service de Dieu,
 Qui abandonne la compagnie de tous les méchants,
 Qui ôte toute superstition de son esprit,
-Qui considère et vénère toute la nature comme l'Être suprême,
+Qui considère et vénère toute la _nature_ comme l'Être suprême,
 Qui, par association avec les saints, lave la souillure du péché,
 D'un tel Bhagauti est suprême la sagesse—
 Celui qui sert continuellement Dieu,
@@ -1012,7 +1012,7 @@ Ainsi devient-il, ô Nanak, un esclave de Dieu.<span id="p229"><sup><small>[ p. 
 Celui dont le cœur aime l'ordre de Dieu
 On dit qu'il a obtenu le salut au cours de sa vie.
 Pour lui, la joie et la tristesse sont la même chose ;
-Il est toujours heureux et n'est jamais séparé de Dieu,
+Il est toujours heureux et n'est jamais séparé _de Dieu_,
 Pour lui, l'or est comme la crasse,
 Tel est le nectar, tel est le poison amer,
 Tel est l'honneur, tel est le déshonneur,
@@ -1046,8 +1046,8 @@ Des millions d'entre eux errent comme des anachorètes dans la forêt,<span id="
 Des millions de personnes écoutent les Védas,
 Des millions de personnes pratiquent des pénitences excessives,
 Des millions de personnes méditent sur Dieu dans leur cœur,
-Des millions de poètes composent des vers à sa louange,
-Des millions de personnes méditent sur Ses noms toujours nouveaux —
+Des millions de poètes composent des vers _à sa louange_,
+Des millions de personnes méditent _sur_ Ses noms toujours nouveaux —
 _Même alors_, Nanak, ils ne trouvent pas la limite du Créateur.
 
 <p style="text-align:center;">2</p>
@@ -1110,13 +1110,13 @@ Avec qui Dieu est bien agréable.
 
 <p style="text-align:center;">7</p>
 
-Des millions de sources de vie et de régions ont été créées,
+Des millions de sources de vie et de régions ont _été créées_,
 Des millions de cieux, des œufs banals,[^48]
 Des millions d’incarnations.
 Sous diverses formes, le monde s'est étendu ; [^49]
 La prolongation a été prolongée à plusieurs reprises.
 De tout temps et à jamais il n'y a qu'un seul Dieu.
-Des millions de créatures ont été créées selon de nombreuses descriptions ;
+Des millions de _créatures_ ont été créées selon de nombreuses descriptions ;
 De Dieu ils émanent et en Dieu ils seront absorbés.
 Personne ne connaît sa limite ;
 Nanak, Dieu Lui-même est tout en tous.
@@ -1150,14 +1150,14 @@ Celui qui n'a ni fin ni limites
 Par Son ordre, Il soutient et maintient le firmament ; [^50]
 Par Son ordre il y a création, et par Son ordre absorption _en Lui-même_ ;
 Les occupations des hauts et des bas sont selon Son ordre ;
-C'est par son ordre qu'existent les différentes phases de la nature ;
+C'est par son ordre qu'existent les différentes phases _de la nature_ ;
 Après avoir créé, il contemple sa propre grandeur.
 Nanak, Dieu est contenu dans toutes choses.
 
 <p style="text-align:center;">2</p>
 
 Si Dieu le veut, l’homme obtient le salut ;
-S'il plaît à Dieu, il fait traverser d'une pierre l'océan du monde ;
+S'il plaît à Dieu, il fait traverser d'une pierre _l'océan du monde_ ;
 Si Dieu le veut, Il peut restaurer le corps sans vie ;
 S'il plaît à Dieu, l'homme raconte ses louanges ;
 Si Dieu le veut, il sauve les pécheurs.
@@ -1175,7 +1175,7 @@ Si l’homme avait le pouvoir, il acquerrait toutes choses.[^51]
 Dieu fait ce qui lui plaît,
 En ne connaissant pas Dieu, l’homme est attaché au péché ;
 S’il connaissait Dieu, il se sauverait de cela.
-L'esprit égaré par la superstition erre dans toutes les directions,<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
+_L'mental_ égaré par la superstition erre dans toutes les directions,<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 Et revient en un instant.
 Dieu accorde son service à celui envers qui il est miséricordieux ;
 Nanak, un tel homme sera absorbé dans le Nom.
@@ -1202,7 +1202,7 @@ Ce qui plaît à Dieu arrivera finalement.
 L’homme est parfois exalté, parfois avili ;
 Parfois il pleure, et parfois il rit avec joie et délice ;
 Parfois il se livre au blâme et à la louange,
-Parfois il est en haut au ciel, parfois en bas en enfer ;
+Parfois il est en haut au ciel, _parfois_ en bas en enfer ;
 Parfois, il est familiarisé avec la connaissance divine,
 Nanak, Dieu Lui-même nous fait le rencontrer.
 
@@ -1221,7 +1221,7 @@ Par la faveur du Guru, Nanak dit la vérité.
 
 <p style="text-align:center;">7</p>
 
-Parfois, lorsqu'un Pandit expose des textes,
+Parfois, lorsqu'un Pandit expose des _textes_,
 Parfois voué au silence, il pratique la contemplation,
 Parfois il se baigne dans des lieux de pèlerinage,
 Parfois, en tant que Sidh ou Lutteur, il prêche la connaissance divine.
@@ -1277,7 +1277,7 @@ Celui dont l'orgueil est effacé par la faveur du Guru, sera acceptable, Nanak, 
 <p style="text-align:center;">3</p>
 
 Si l’homme fait des millions de bonnes actions _mais_ possède de l’orgueil,
-Il n'encourt que des ennuis ; tous ses actes sont vains.
+Il n'encourt que des ennuis ; tous _ses actes_ sont vains.
 Celui qui est fier de ses diverses mortifications,
 Je renaîtrai encore et encore en enfer et au paradis.
 Comment celui qui, malgré de nombreux efforts,
@@ -1303,7 +1303,7 @@ Et par la faveur du Guru, l'orgueil, ô Nanak, est éliminé.
 Même si l'homme gagne des milliers, il courra après un lakh, :
 Il ne sera jamais satisfait dans sa quête de richesse.
 Bien qu'il se consacre à la jouissance de nombreuses passions mauvaises,
-Il ne sera jamais satisfait ; il se tuera à vouloir toujours plus.
+Il ne sera jamais satisfait ; il se tuera à vouloir _toujours plus_.
 Personne ne peut être satisfait sans contentement ;
 Sinon tous les efforts sont vains comme l’illusion d’un rêve.
 Tout bonheur s’obtient en aimant le Nom ;
@@ -1378,7 +1378,7 @@ En calomniant les saints, l’homme brûle de soif,
 En calomniant les saints, l'homme trompe tout le monde,
 En calomniant les saints, toute influence de l’homme disparaît,
 En calomniant les saints, l’homme devient le plus bas des bas ;
-Il n’y a pas de lieu de résidence pour celui qui calomnie les saints ;
+Il n’y _a pas de_ lieu de résidence pour celui qui calomnie les saints ;
 _Mais_ si cela plaît aux saints, ô Nanak, lui aussi peut obtenir le salut.
 
 <p style="text-align:center;">3</p>
@@ -1443,7 +1443,7 @@ Celui qui calomnie les saints n’est ni mort ni vivant,
 Celui qui calomnie les saints n’a jamais vu ses espoirs se réaliser,
 Celui qui calomnie les saints s'en va déçu ;
 Personne n’obtient la permanence [^56] en calomniant les saints —
-L'homme est tel qu'il plaît à Dieu de le faire ;
+L'homme est tel qu'il plaît à Dieu _de le faire_ ;
 Personne ne peut mettre de côté son destin.
 Nanak, le Vrai sait tout ;
 
@@ -1489,9 +1489,9 @@ Nanak, et aucun obstacle ne se dressera sur ton chemin.
 Bois le nectar du Nom, et ta langue deviendra pure,
 Et tu rendras ton âme heureuse pour toujours.
 Contemple la splendeur de Dieu avec tes yeux.
-Dans la compagnie des saints, l’amour pour toute autre compagnie disparaîtra.
+Dans la compagnie des saints, _l’amour pour_ toute autre compagnie disparaîtra.
 Marche avec tes pieds dans la voie de Dieu :
-Tes péchés seront effacés si tu répètes, ne serait-ce qu'un instant, le nom de Dieu.
+Tes péchés seront effacés si tu répètes, ne serait-ce qu'un instant, le _nom_ de Dieu.
 Fais l'œuvre de Dieu, écoute son histoire avec tes oreilles,
 Et ton visage, ô Nanak, sera radieux dans sa cour.
 
@@ -1529,9 +1529,9 @@ Le serviteur à qui Dieu montre sa miséricorde,
 Dis de qui aura-t-il peur :
 Tel Dieu est, tel Il lui apparaît.
 Contenu dans sa propre création.
-Celui qui réussit dans sa longue recherche de Dieu,
+Celui qui réussit dans sa longue recherche _de Dieu_,
 Par la faveur du gourou, on connaît toute la réalité.
-Quand je regarde, je vois que Dieu est la racine de toutes choses ;
+Quand je regarde, je _vois que Dieu_ est la racine de toutes choses ;
 Nanak, Il est à la fois minuscule et grand ;
 
 <p style="text-align:center;">6</p>
@@ -1567,7 +1567,7 @@ Il demeurera toujours et à jamais avec Lui.
 Tout ce qui arrive naturellement arrive.
 Et reconnaissez-Le comme le Créateur.
 Ce que Dieu fait est agréable aux saints ;
-Tel qu'il est, tel il leur apparaît.
+Tel qu'il est, tel _il leur_ apparaît.
 Ils seront absorbés en Celui dont ils sont issus,
 Et soyez seul jugé digne du trésor du bonheur.
 Il donne lui-même honneur aux siens ;
@@ -1614,9 +1614,9 @@ Comme une pierre flotte lorsqu'on la met dans un bateau,
 De même, les mortels sont sauvés en s’accrochant aux pieds du gourou ;
 Comme une lampe donne de la lumière dans les ténèbres,
 Ainsi l’homme brille en contemplant le Guru ;
-Comme l'homme peut trouver son chemin dans un grand désert s'il a un guide,
+Comme l'homme peut trouver son chemin dans un grand désert _s'il a un guide_,
 Ainsi la lumière brillera pour lui lorsqu’il rejoindra la congrégation des saints.
-Je désire la poussière des pieds de ces saints ;
+Je désire la poussière des _pieds_ de ces saints ;
 Ô Dieu, exauce les désirs de Nanak.
 
 <p style="text-align:center;">4</p>
@@ -1628,7 +1628,7 @@ Abandonnez les autres et pensez à Lui :
 Tout ce qu’Il ​​fait, Il l’accepte volontiers,
 Pourquoi t'égares-tu, ô insouciant ?
 Ô papillon gourmand, attaché aux plaisirs,
-Qu'est-ce qui est venu au monde avec toi ?
+Qu'est-ce qui est venu _au monde_ avec toi ?
 Répète le nom de Dieu dans ton cœur,
 Nanak, et tu rentreras chez toi avec honneur.
 RZ
@@ -1637,19 +1637,19 @@ RZ
 <p style="text-align:center;">5</p>
 
 Dans la demeure des saints se trouve le nom de Dieu.
-La marchandise que tu es venu au monde chercher.
-Renonce à l'orgueil, pèse le nom de Dieu dans ton cœur,
+La marchandise que tu es venu _au monde_ chercher.
+Renonce à l'orgueil, pèse _le nom de Dieu_ dans ton cœur,
 Et achète-le de ta vie.
 Charge tes marchandises, pars avec les saints,
 Et, t'étant libéré des liens des péchés capitaux,
 Tout le monde te félicitera ;
 Ton visage sera radieux, et tu seras honoré à la cour de Dieu.
-Rares sont les marchands qui traitent cette marchandise,
+Rares sont les marchands qui _traitent_ cette marchandise,
 Et pour eux, Nanak est toujours un sacrifice.
 
 <p style="text-align:center;">6</p>
 
-Baignez les pieds des saints et buvez ensuite l'eau du bain ;
+Baignez les pieds des saints et buvez _ensuite_ l'eau du bain ;
 Consacre ton âme aux saints ;
 Baigne-toi dans la poussière des pieds des saints,
 Et deviens pour eux un sacrifice.
@@ -1714,7 +1714,7 @@ Pour tomber aux pieds de tes saints.
 <p style="text-align:center;">2</p>
 
 Dieu est celui qui accomplit les désirs et est capable d’accorder une protection ;
-Ce qu’Il ​​a inscrit dans la destinée de l’homme aura lieu.
+Ce qu’Il ​​a inscrit dans _la destinée de l’homme_ aura lieu.
 Il peut détruire et créer en un clin d’œil ;
 Nul autre que Lui-même ne connaît son conseil ;
 Il est toujours heureux et joyeux ;
@@ -1734,7 +1734,7 @@ Son serviteur à qui Il donne la sagesse, la connaissance divine et la méditati
 Médite sur Lui.
 Ceux qu’Il ​​égare parmi les trois qualités,
 Mourir pour naître de nouveau et souffrir à nouveau la transmigration.
-Les lieux hauts et bas de la terre sont à Lui.
+Les lieux hauts et bas _de la terre_ sont à Lui.
 Ô Nanak, l’homme connaît comme Dieu lui fait connaître.
 
 <p style="text-align:center;">4</p>
@@ -1753,9 +1753,9 @@ Nanak vit en prononçant toujours le nom de Dieu.
 <p style="text-align:center;">5</p>
 
 Par le Nom sont soutenues toutes les créatures ;
-Par le Nom sont soutenues les régions de la terre et de l'univers ;
+Par le Nom sont soutenues les régions _de la terre_ et de l'univers ;
 Par le Nom sont soutenus les Simritis, les Veds et les Purans ;
-Par le soutien du Nom, nous entendons les louanges de Dieu et obtenons la connaissance et la méditation divines ;
+Par le soutien du Nom, nous entendons _les louanges de Dieu et obtenons_ la connaissance et la méditation divines ;
 Par le Nom sont soutenus le firmament et les régions inférieures ; |
 Par le Nom le monde entier est soutenu ;
 Par le Nom sont maintenues toutes les villes et toutes les maisons ;
@@ -1770,7 +1770,7 @@ Il est le Véritable Esprit, Lui seul est Suprême ;
 Ses actes sont vrais, sa parole est vraie;
 Le véritable Esprit est contenu en tout ;
 Ses œuvres sont vraies, sa création est vraie ;
-La racine du monde est vraie, et vrai ce qui en jaillit ;
+La racine _du monde_ est vraie, et vrai ce qui en jaillit ;
 Ses actes sont purs, les plus purs des purs.
 Tout réussit bien à celui à qui Dieu donne la connaissance.
 Le vrai nom de Dieu confère le bonheur ;
@@ -1791,7 +1791,7 @@ Nanak, ce qui plaît à Dieu prévaut.
 
 <p style="text-align:center;">8</p>
 
-L'homme s'émerveille des merveilles de la création,
+L'homme s'émerveille des merveilles _de la création_,
 Mais seul celui qui connaît Dieu obtient la félicité.
 Les hommes de Dieu qui sont épris de son amour,
 Recevez sous l'instruction du Guru les _grands_ bienfaits ;
@@ -1851,7 +1851,7 @@ Nanak, un tel serviteur se souvient de Dieu à chaque souffle.
 
 <p style="text-align:center;">4</p>
 
-Dieu jettera un voile sur les fautes de son serviteur,
+Dieu jettera un voile sur _les faute_s de son serviteur,
 Et il préservera assurément son _honneur_ ;
 Il accordera la grandeur à son esclave,
 Fais-le répéter son nom,
@@ -1865,7 +1865,7 @@ Tu seras célèbre, ô Nanak, dans toutes les directions.
 <p style="text-align:center;">5</p>
 
 _Si Dieu_ insuffle de la puissance à une petite fourmi,
-Elle peut réduire en cendres des armées de centaines de milliers et de millions d’hommes.
+Elle peut réduire en cendres des armées de centaines de milliers et de millions _d’hommes_.
 Dieu le préserve et lui tend la main
 À qui il ne veut pas ôter la vie.<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 Bien que l’homme fasse des efforts de toutes sortes,
@@ -1977,7 +1977,7 @@ Nanak, celui qui lui plaît, il se mélange à lui-même.
 
 <p style="text-align:center;">5</p>
 
-L'homme n'a qu'une seule langue, les louanges de Dieu sont multiples ;
+L'homme n'a qu'une seule langue, les louanges _de Dieu_ sont multiples ;
 Il est le véritable Être de la discrimination parfaite ;
 Les mortels ne peuvent par aucun mot réussir à le décrire.
 Il est inaccessible, incompréhensible et imperturbable.
@@ -2003,7 +2003,7 @@ Et, ô Nanak, ses doutes, son amour mondain et ses chagrins s'enfuient.
 <p style="text-align:center;">7</p>
 
 Par l’instruction parfaite des saints,
-L'homme devient froid au milieu de la chaleur ;
+L'homme devient froid _au milieu_ de la chaleur ;
 Le chagrin est mis en fuite, le bonheur en résulte,
 La peur de la naissance et de la mort est supprimée,
 La peur cesse, l'homme demeure sans peur,
@@ -2049,7 +2049,7 @@ Nanak, et toutes tes maladies seront guéries.
 <p style="text-align:center;">2</p>
 
 En servant Dieu, tu obtiendras la richesse
-Après quoi tu vas maintenant dans toutes les directions.
+Après _quoi_ tu vas maintenant dans toutes les directions.
 Le bonheur que tu désires toujours, mon ami,
 _Se trouvera_ en aimant la société des saints.
 La gloire pour laquelle tu accomplis de bonnes actions,
@@ -2079,7 +2079,7 @@ Dit Nanak, et le nœud coulant de la mort sera coupé _pour son évasion_.
 C'est l'homme véritable qui médite sur Dieu ;
 Ce sont les plus faux des faux qui souffrent la transmigration ;
 Mais cette transmigration sera effacée en servant Dieu.
-Abandonnez l'orgueil et recherchez la protection du divin gourou,
+Abandonnez l'orgueil et _recherchez_ la protection du divin gourou,
 Ainsi ta précieuse vie humaine sera sauvée.
 Souvenez-vous de Dieu qui est le soutien de l’âme —
 _L'homme_ ne sera pas sauvé par de nombreux stratagèmes,
@@ -2098,7 +2098,7 @@ Dites qui peut échapper à ceux-ci.
 Chevaux, éléphants, calèches et équipages,
 Ce sont des spectacles trompeurs et des fausses démonstrations ;
 L’homme ignorant ne connaît pas Celui qui les a donnés ;
-Nanak, il oublie le Nom et regrette ensuite.
+Nanak, il oublie le Nom et regrette _ensuite_.
 
 <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
@@ -2133,7 +2133,7 @@ Il voit le seul Dieu sans interruption en toutes choses.
 Répétez le nom du Dieu unique, magnifiez le Dieu unique,
 Souviens-toi du Dieu unique, fais de lui le désir de ton cœur,
 Chantez les excellences du Dieu unique qui est sans fin ;
-Répétez avec votre âme et votre corps le nom du Dieu unique.
+Répétez avec votre âme et votre corps _le nom_ du Dieu unique.
 Dieu Lui-même est le seul, l'unique, l'unique ;
 Le Dieu parfait remplit chaque lieu ;
 Il y a eu de nombreuses expansions du Dieu unique.[^62]<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
@@ -2189,14 +2189,14 @@ Nanak est absorbé dans le service de Dieu et dans son nom.
 
 <p style="text-align:center;">4</p>
 
-Pourquoi oublier Celui qui ne détruit pas les effets du travail ?
+Pourquoi oublier Celui qui ne détruit pas les _effets_ du travail ?
 Pourquoi oublier Celui qui regarde ce qui est fait _pour Lui_ ?
 Pourquoi oublier Celui qui nous a tout donné ?
 Pourquoi oublier Celui qui est la vie des êtres vivants ?
-Pourquoi oublier Celui qui nous garde dans le feu du ventre maternel ?
+Pourquoi oublier Celui qui nous garde dans le feu _du ventre maternel_ ?
 Par la faveur du gourou, un être rare le voit —
 Pourquoi oublier Celui qui libère l’homme du péché,
-Et rejoint-il avec Lui ceux qui avaient rompu avec Lui pendant de nombreuses naissances ?
+Et rejoint-il _avec Lui ceux qui_ avaient rompu _avec Lui_ pendant de nombreuses naissances ?
 Le gourou parfait m'a enseigné la vraie chose ;
 Ainsi Nanak a médité sur son Dieu.
 
@@ -2216,11 +2216,11 @@ Et toute ta douleur s'en ira.
 <p style="text-align:center;">6</p>
 
 Le souhait de mon âme et de mon corps est
-Que les plaisirs de l’amour, de l’affection et du désir de Dieu puissent naître en moi ;
+Que les plaisirs de l’amour, de l’affection et du désir _de Dieu_ puissent naître en moi ;
 Afin que j'aie le bonheur de le contempler avec mes yeux ;
 Et que mon âme soit réjouie en lavant les pieds des saints.
 Rares sont ceux qui peuvent obtenir la communion avec les saints,
-Et dont les âmes et les corps sont remplis d'amour pour Toi.
+Et dont les âmes et les corps sont _remplis_ d'amour pour Toi.
 Accorde-moi une chose avec miséricorde, ô Dieu,
 Pour répéter ton nom par la faveur du gourou.
 Nanak, les louanges de Dieu ne peuvent être exprimées ;
@@ -2301,7 +2301,7 @@ Nanak, c'est Lui-même qui a créé Sa propre forme.
 <p style="text-align:center;">4</p>
 
 Quand il n'y avait que l'Être pur, le Seigneur des hommes,
-Et il n'y avait aucune souillure de péché, dites quel était le besoin de
+Et il n'y avait aucune souillure de péché, dites quel était _le besoin_ de
 ablution.
 Quand il n'y avait que l'Un brillant, sans forme et imperturbable,
 Qui était honoré et qui était déshonoré ?
@@ -2332,7 +2332,7 @@ Nanak, seul Dieu Lui-même connaît sa propre condition.
 Lorsque l’introuvable, l’impénétrable et l’insondable était contenu en Lui-même,
 Qui a ressenti l’influence de Mammon ?
 Quand il n’y avait personne d’autre que Lui-même pour offrir son hommage à Dieu,
-Les trois qualités n’étaient pas encore entrées dans le monde.
+Les trois qualités n’étaient pas encore entrées _dans le monde_.
 Quand il n'y avait qu'un seul Dieu,
 Qui était libre de tout souci, qui ressentait du souci ?
 Quand Dieu était content de lui-même,
@@ -2362,14 +2362,14 @@ La gloire de Dieu lui est propre ;
 Il exécute lui-même des pièces de théâtre, des divertissements et des farces ;
 Il jouit des plaisirs et pourtant reste séparé d'eux ;<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 Il attache à son nom qui il veut,
-Et il fait jouer la pièce du monde à qui il veut.
+Et il fait jouer la pièce _du monde_ à qui il veut.
 Il est incalculable, insondable, innombrable et sans égal.
 Son esclave Nanak parle comme Il le fait parler.
 
 <p style="text-align:center;">SLOK XXII</p>
 
 Ô Seigneur des hommes et des animaux inférieurs, Tu es contenu _en tout_ ;
-Nanak, le Dieu unique est étendu partout ; où en voit-on un autre ?
+Nanak, le Dieu unique est étendu _partout_ ; où en voit-on un autre ?
 
 <p style="text-align:center;">ASHTAPADI XXII</p>
 
@@ -2387,16 +2387,16 @@ Il regarde tout avec un œil égal, connaît la vérité, et est, ô Nanak, vict
 
 <p style="text-align:center;">2</p>
 
-Les hommes et les animaux inférieurs sont sous son pouvoir
+Les hommes et les animaux _inférieurs_ sont sous son pouvoir
 Qui est compatissant envers les pauvres et le protecteur des sans-protecteur.
 Personne ne peut détruire celui que Dieu préserve ;
-Celui que Dieu oublie est déjà mort.
+Celui que Dieu oublie est _déjà_ mort.
 Pourquoi quelqu’un devrait-il quitter Dieu pour aller vers un autre ?
 Le monarque brillant est au-dessus de tout.
 Sachez que Celui en qui sont en puissance les voies de toutes les créatures,
 Il est avec toi, que tu sois à la maison ou à l'étranger.
 L’océan des excellences est sans fin et illimité ;
-L'esclave Nanak est toujours un sacrifice pour Lui.
+L'esclave Nanak est toujours un sacrifice _pour Lui_.
 
 <span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
@@ -2469,7 +2469,7 @@ Sur qui veille le brave[^69] Guru.
 
 <p style="text-align:center;">8</p>
 
-Le monde sera sauvé en contemplant le Guru,
+Le monde sera sauvé en contemplant _le Guru_,
 Dont l’intelligence est parfaite, dont le regard est nectar,
 Et dont les pieds pareils au lotus sont incomparables.
 Sa vue est profitable, sa forme est belle,
@@ -2509,14 +2509,14 @@ Il est contenu dans chaque cœur,
 Sur la terre, dans le ciel et dans les régions inférieures ;
 Dans tous les mondes, Il est le Parfait Protecteur ;
 Dans la forêt, la clairière et la montagne, Il est l’Être suprême ;
-Comme Il ordonne, ainsi agissent Ses créatures.
+Comme Il ordonne, ainsi agissent _Ses créatures_.
 Dans le vent, l'eau, le feu, Et dans toutes les directions Il est contenu ;
 Il n’y a aucun endroit où Il n’est pas.
 Nanak, par la faveur du Guru, obtiens le bonheur ;
 
 <p style="text-align:center;">3</p>
 
-Consultez les Veds, les Purans et les Simritis, et vous saurez
+Consultez les Veds, les Purans et les Simritis, _et vous saurez_
 Que le Dieu unique est dans la lune, le soleil et les étoiles.
 Chacun parle de la voix de Dieu,<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 Qui est inébranlable et ne vacille jamais.
@@ -2531,7 +2531,7 @@ Par la faveur du gourou, nous sommes libérés de la superstition.
 
 Aux yeux des saints, tout est Dieu ;
 Dans leur cœur, il y a toute la foi.
-Ce ne sont que de bonnes paroles que les saints entendent ;
+Ce ne sont _que_ de bonnes paroles que les saints entendent ;
 Ils aiment Dieu qui est contenu en toutes choses.
 La règle du saint qui connaît Dieu est de dire la vérité à tout le monde ;
 Quoi qu'il arrive, il prend pour le meilleur,
@@ -2574,7 +2574,7 @@ Il connaît lui-même sa propre pensée ;
 Lui-même est vrai, et vrai est tout ce qu'il soutient ;
 Il a mélangé avec Lui-même la chaîne et la trame du monde ;
 Sa condition et sa mesure ne peuvent être décrites ;
-Si quelqu’un d’autre était comme Lui, il saurait comment Le décrire.
+Si quelqu’un d’autre était _comme Lui_, il saurait comment Le décrire.
 Nanak, par la faveur du gourou
 Il est connu que tous les actes de Dieu doivent être acceptés.
 
@@ -2614,7 +2614,7 @@ Nanak, et inclinez-vous devant le gourou parfait.
 
 <p style="text-align:center;">2</p>
 
-En répétant le nom de Dieu en compagnie des saints,
+En répétant le _nom_ de Dieu en compagnie des saints,
 _Tu obtiendras_ le repos, le confort, la paix et le bonheur.
 Buvez l’essence nectarée de la louange de Dieu,
 Et tu éviteras l’enfer et tu sauveras ton âme.
@@ -2644,7 +2644,7 @@ Nanak, dans sa compagnie les hommes sont sauvés.
 
 Ayant entendu que Dieu est capable de donner un abri, je suis venu le voir.
 Dieu m’a miséricordieusement mélangé à Lui.
-Il ne me reste plus de haine ; je suis devenu la poussière des pieds de tous les hommes ;
+Il ne me reste plus de haine ; je suis devenu la poussière _des pieds_ de tous les hommes ;
 Et j'ai obtenu, en compagnie des saints, le nom nectaré de Dieu.
 Le divin gourou était content de moi,
 Et le service de son serviteur a été récompensé.
@@ -2668,7 +2668,7 @@ Je partirai après avoir gagné la richesse du nom de Dieu.
 
 <p style="text-align:center;">6</p>
 
-Ces avantages seront obtenus par celui qui récite le Sukhmani,
+Ces avantages seront obtenus par celui qui récite _le Sukhmani_,
 Et écoute de tout cœur les paroles de Guru Nanak à la louange du Nom :
 Repos, paix, richesse, les neuf trésors,
 Compréhension, connaissance divine, tout pouvoir spirituel,
@@ -2681,7 +2681,7 @@ Et le pouvoir de considérer tous les hommes comme égaux.
 
 <p style="text-align:center;">7</p>
 
-Si quelqu'un prononce de bon cœur ce précieux hymne,
+Si quelqu'un prononce de bon cœur ce précieux _hymne_,
 Il obtiendra le salut dans tous les âges.
 Il contient le son du nom de Dieu,
 Ce que répètent les Simritis, les Shastars et les Veds.
@@ -2726,9 +2726,9 @@ Le sort de ceux qui oublient Dieu :—
 Où ceux qui ont totalement oublié Dieu trouveront-ils un bras sur lequel s’appuyer ?[^74]
 Nanak, Dieu puissant pour agir et faire agir les a ruinés.
 Le sort des meurtriers, des adultères et des voleurs :
-Les hommes prennent des licous la nuit et vont étrangler les autres, mais Dieu connaît de telles personnes.
+Les hommes prennent des licous la nuit et vont _étrangler_ les autres, mais Dieu connaît de telles personnes.
 Cachés dans certains endroits, ils lorgnent les femmes des autres hommes.
-Ils s'introduisent par effraction dans les maisons, même difficiles d'accès, et apprécient le vin pour sa douceur :
+Ils s'introduisent par effraction _dans_ les maisons, même difficiles d'accès, et apprécient le vin pour sa douceur :
 Mais ils regretteront ensuite leurs méfaits respectifs.
 L'ange Azrail les pressera comme des moulins à sésame.
 
@@ -2818,7 +2818,7 @@ La dévotion du gourou à Dieu :—
 
 Je lui ai fait un ami versé dans tous les arts ;
 Je Lui sacrifie mon âme : Il est la richesse de mon corps et de mon âme.
-Ô Bien-aimé, si Tu prends ma main, je ne T'abandonnerai jamais.
+Ô Bien-aimé, si Tu prends _ma main_, je ne T'abandonnerai jamais.
 Ceux qui abandonnent Dieu sont mauvais et tombent dans les tourments de l'enfer.
 
 Aimez l'Omniprésent :—
@@ -2886,9 +2886,9 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^9]: Les hindous allument des lampes pour guider les défunts. Ils offrent de l'eau pour étancher leur soif et des parapluies pour les protéger de la chaleur. De telles offrandes, faites par l'intermédiaire des brahmanes, sont rejetées par les sikhs, considérées comme de vaines superstitions.
 
-[^10] : _Har har deva_. Également traduit par : (a) Vishnu, Shiv et les autres dieux. (4) Nanak l'adore comme un dieu au lieu de Vishnu et Shiv.
+[^10]: _Har har deva_. Également traduit par : (a) Vishnu, Shiv et les autres dieux. (4) Nanak l'adore comme un dieu au lieu de Vishnu et Shiv.
 
-[^11] : _Ot pot_. Également traduit par « complètement ». L'homme de Dieu est profondément imprégné de l'amour de Dieu.
+[^11]: _Ot pot_. Également traduit par « complètement ». L'homme de Dieu est profondément imprégné de l'amour de Dieu.
 
 [^12]: Ceci s'appelle _kalaptaru_ et, selon les Hindous, il communique toutes les richesses à l'homme. Ce dieu et la vache Kamdhenu furent produits parmi les quatorze gemmes issues du barattage de l'océan.
 
@@ -2900,11 +2900,11 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^16]: _Gawar_. _Gaonwar_, habitant d'un village, est littéralement le mot latin paganus.
 
-[^17] : Ce qui est précieux.
+[^17]: Ce qui est précieux.
 
 [^18]: _Lok pachar_, le sanskrit _lokopachar_, est également traduit par — il suit l'exemple des autres.
 
-[^19] : Imiter les personnes religieuses.
+[^19]: Imiter les personnes religieuses.
 
 [^20]: C'est-à-dire que sa voix serait désaccordée.
 
@@ -2920,7 +2920,7 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^26]: Également traduit par Périssable le plaisir obtenu en contemplant de près les diverses formes de Mammon.
 
-[^27] : _Sakat_. Ce mot désigne un adorateur des Shaktis, ou énergies féminines des dieux, mais le terme s'applique plus particulièrement aux adorateurs de Parbati, l'énergie féminine de Shiv. De même que les adorateurs de Shiv érigent le phallus en représentation extérieure et visible de leur dieu, de même les adorateurs de sa compagne se consacrent au culte du principe féminin, désignant ainsi la puissance divine personnifiée par la femme. Certains supposent que Shakti a créé le monde sans l'intervention de Dieu.
+[^27]: _Sakat_. Ce mot désigne un adorateur des Shaktis, ou énergies féminines des dieux, mais le terme s'applique plus particulièrement aux adorateurs de Parbati, l'énergie féminine de Shiv. De même que les adorateurs de Shiv érigent le phallus en représentation extérieure et visible de leur dieu, de même les adorateurs de sa compagne se consacrent au culte du principe féminin, désignant ainsi la puissance divine personnifiée par la femme. Certains supposent que Shakti a créé le monde sans l'intervention de Dieu.
   Les Sakats se divisent en deux classes : ceux qui suivent la voie de droite et ceux qui suivent la voie de gauche. Le culte des premiers est ouvert et non dissimulé, tandis que celui des seconds est secret et dissimulé. Les cérémonies doivent être accompagnées d'un ou de plusieurs des cinq objets commençant par un M : mans, la chair ; matsya, le poisson ; madya, le vin ; maithuna, la sensualité ; et mudra, les gesticulations naturalistes. On comprend donc que le culte s'écarte parfois de son caractère strictement religieux.
   Les écritures des Sakats sont appelées Tantras. Elles consistent principalement en des dialogues entre Shiv et son épouse. Leur composition est attribuée à Shiv lui-même. Leur ancienneté est indéniable, car elles sont mentionnées dans les Purans.
 
@@ -2928,9 +2928,9 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^29]: Les Sikhs répètent également ce pad comme grâce après les repas.
 
-[^30] : Naissance humaine.
+[^30]: Naissance humaine.
 
-[^31] : _Kar_. Si on lisait _pad_, le pied, à la place de ce mot, le vers paraîtrait plus simple.
+[^31]: _Kar_. Si on lisait _pad_, le pied, à la place de ce mot, le vers paraîtrait plus simple.
 
 [^32]: Quand les louanges des saints ne peuvent être exprimées, celles de Dieu le peuvent encore moins.
 
@@ -2942,7 +2942,7 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^36]: Également traduit : Pour l’homme qui connaît Dieu, tout ce qui est est le meilleur.
 
-[^37] : _Parwar_. Ce mot signifie également famille et suite.
+[^37]: _Parwar_. Ce mot signifie également famille et suite.
 
 [^38]: _Aparas_, une secte qui se targue de ne pas toucher aux métaux.
 
@@ -2950,25 +2950,25 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^40]: Qui reconnaît le grand Dieu dans ses formes minuscules.
 
-[^41] : Littéralement : des pierres.
+[^41]: Littéralement : des pierres.
 
-[^42] : _Abhig_. On pense que cela vient de _a_, négatif, et du bhijna panjabi.
+[^42]: _Abhig_. On pense que cela vient de _a_, négatif, et du bhijna panjabi.
 
 [^43]: _Nakshatar_ en sanskrit signifie proprement les demeures lunaires, mais dans le Granth Sahib, cela signifie généralement les étoiles.
 
-[^44] : Êtres surnaturels au service du dieu de la richesse. On les appelait « bonnes gens ».
+[^44]: Êtres surnaturels au service du dieu de la richesse. On les appelait « bonnes gens ».
 
 [^45]: Musiciens célestes qui surgirent avec les Yakshas de l'orteil de Brahma. « Ils sont censés résider dans le paradis du dieu de la richesse sur le mont Kailas dans l'Himalaya.
 
-[^46] : L'ordre le plus malin des esprits maléfiques.
+[^46]: L'ordre le plus malin des esprits maléfiques.
 
-[^47] : Littéralement : manger pendant qu’ils sont assis.
+[^47]: Littéralement : manger pendant qu’ils sont assis.
 
 [^48]: _Brahmand_. 'Ce mot signifie l'univers.
 
 [^49]: À chaque création, le monde prenait des formes différentes.
 
-[^50] : Ce qui n'est pas soutenu, le firmament. La ligne est également traduite : Par son ordre, il soutient le monde, sans aucun soutien.
+[^50]: Ce qui n'est pas soutenu, le firmament. La ligne est également traduite : Par son ordre, il soutient le monde, sans aucun soutien.
 
 [^51]: Il doit donc dépendre de Dieu et rechercher Son aide.
 
@@ -2976,15 +2976,15 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^53]: En s'élargissant, Dieu a créé le monde.
 
-[^54] : _Atatai_, du sanskrit _atatayin_. Littéralement : Qui menace autrui avec un arc bandé ; puis toute personne qui commet un crime odieux.
+[^54]: _Atatai_, du sanskrit _atatayin_. Littéralement : Qui menace autrui avec un arc bandé ; puis toute personne qui commet un crime odieux.
 
 [^55]: C'est-à-dire qu'il meurt dans sa jeunesse. Comparez—
   Et eh' man nur den halben Weg erreicht,
     Muss wohl ein armer Teufel sterben. Le _Faust_ de Goethe.
 
-[^56] : Exemption de transmigration.
+[^56]: Exemption de transmigration.
 
-[^57] : _Birtha_. Également traduit par trouble, du sanskrit _dyatha_.
+[^57]: _Birtha_. Également traduit par trouble, du sanskrit _dyatha_.
 
 [^58]: Ces six lignes sont également traduites—
   De celui qui reconnaît Dieu comme vrai
@@ -2998,7 +2998,7 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^60]: Il est ici fait référence à Guru Nanak. Il était appelé le véritable Guru, car il était le médiateur de l'Être véritable.
 
-[^61] : _Bis biswe_. Littéralement : vingt _biswas_. Il y a vingt _biswas_ dans un _digha_, une superficie équivalant à environ un demi-acre. Lorsque tous les _biswas_ sont inclus, le _digha_ est complet.
+[^61]: _Bis biswe_. Littéralement : vingt _biswas_. Il y a vingt _biswas_ dans un _digha_, une superficie équivalant à environ un demi-acre. Lorsque tous les _biswas_ sont inclus, le _digha_ est complet.
 
 [^62]: C'est-à-dire qu'il y a eu de nombreuses créations.
 
@@ -3012,7 +3012,7 @@ Celui qui a Dieu n'a plus de désirs ; Nanak, tous ceux qui touchent Ses pieds s
 
 [^67]: Lorsqu'Il attire la création en Lui-même.
 
-[^68] : Création et destruction.
+[^68]: Création et destruction.
 
 [^69]: Ainsi appelé parce qu'il a vaincu les péchés capitaux.
 

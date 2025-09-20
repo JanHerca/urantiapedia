@@ -41,7 +41,7 @@ A debtor, the father of a maid, and a man in fear of an eneiny.
 
 Chandu had to expiate the crime of having been instrumental in killing Guru Arjan; his daughter remained unwedded, and he feared the growing military power of Guru Har Gobind. Chandu’s aspirations, however, like those of a. poor man remained unfulfilled. One day he was vaunting in his wife’s presence, that if she said but the word, he would send Guru Har Gobind to his father. She replied, ‘ My lord, a tree beareth fruit at the proper season ; I fear that the thorns which we formerly planted shall now prick us. I hear that the young Guru hath vowed to avenge his father. May God preserve us! There is no reliance on Emperors. In a moment they become as if they had never known one. When we extended our enmity to Guru Arjan, what return did we obtain for it? Our daughter is still unwedded, and thou art in fear. Wherefore let us make peace with the Guru.’
 
-Sur ce, Chandu écrivit au gourou : « Ma fille est vertueuse. Fais d'elle ton esclave. Tu es le gourou, je suis le ministre de l'Empereur. La dignité d'un homme s'accroît par une alliance avec les plus élevés. Si tu écoutes mes paroles, ce sera un grand avantage pour toi. Pour le moment, tu ne comprends pas, mais tu comprendras plus tard. Autrefois, les Sikhs de ton père m'ont traité de chien. Cela ne leur a fait aucun mal ; c'est ton père qui en a souffert. J'ai maintenant oublié mon ancienne inimitié ; mais si tu n'écoutes pas mes paroles, je te servirai comme j'ai servi ton père. » La lecture de cette lettre rappela au gourou toutes les souffrances et le déshonneur de son père, et le blessa profondément. Il écrivit en réponse : « Ce que les Sikhs ont dit est vrai. Tu continues à prononcer des paroles dures. Tu souffriras assurément pour tous tes méfaits. La torture que tu as infligée à un gourou aussi philanthrope et pacifique que mon père, devra bien finir par se venger. Tu mourras foulé aux pieds et déshonoré par les coups de chaussures infligés par des parias. Guru Ram Das a dit :
+Sur ce, Chandu écrivit au gourou : « Ma fille est vertueuse. Fais d'elle ton esclave. Tu es le gourou, je suis le ministre de l'Empereur. La dignité d'un homme s'accroît par une alliance avec les plus élevés. Si tu écoutes mes paroles, ce sera un grand avantage pour toi. Pour le moment, tu ne comprends pas, mais tu comprendras plus tard. Autrefois, les Sikhs de ton père m'ont traité de chien. Cela ne leur a fait aucun mal ; c'est ton père qui en a souffert. J'ai maintenant oublié mon ancienne inimitié ; mais si tu n'écoutes pas mes paroles, je te servirai comme j'ai servi ton père. » La lecture de cette lettre rappela au gourou toutes les souffrances et le déshonneur de son père, et le blessa profondément. Il écrivit en réponse : « Ce que les Sikhs ont dit est vrai. Tu continues à prononcer des paroles dures. Tu souffriras assurément pour tous tes méfaits. La torture que tu as infligée à un gourou aussi philanthrope et pacifique que mon père, devra bien finir par se venger. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> Tu mourras foulé aux pieds et déshonoré par les coups de chaussures infligés par des parias. Guru Ram Das a dit :
 
 Celui qui fait confiance au Guru perdra tout dans ce monde et dans le suivant.
 Il grincera des dents, écumera, et périra en parlant sans discernement.
@@ -123,7 +123,7 @@ Le gourou partit pour Dihli le lundi deuxième jour de Magh 1669 (1612 apr. J.-C
 
 Lorsque le gourou atteignit la rivière Jamna, il installa son camp dans un jardin fleuri près de la colline de Majnun et renvoya les envoyés Wazir Khan et Kind Beg informer l'empereur de son arrivée. Wazir Khan fit l'éloge du gourou dans l'espoir de lui assurer un accueil chaleureux à la cour. Des foules de Sikhs vinrent de Dihli pour le voir. L'arrivée du gourou leur rappela la mort de Guru Arjan et ils commencèrent à pleurer. Le gourou les consola en leur répétant les paroles de son père :
 
-Heureux tes saints, ô Dieu, dans les maisons desquels réside la richesse de ton nom.
+Heureux tes saints, _ô Dieu_, dans les maisons desquels _réside_ la richesse de ton nom.
 Leur venue au monde est agréable, et leurs actes sont profitables.
 Ô mon Dieu, je suis un sacrifice pour tes saints.
 Je ferais un chauri avec mes cheveux, je les agiterais au-dessus d'eux et je mettrais la poussière de leurs pieds sur mon front. <span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
@@ -168,7 +168,7 @@ Le monde est égaré par la superstition, mes frères ; seuls quelques-uns le sa
 Le vrai gourou m’a donné ce trésor.
 Même lorsque les hommes apprennent les postures des Sidhs et pratiquent la retenue de leurs sens,
 Ni leur souillure mentale ni la souillure de leur orgueil ne s'en vont.
-Il n’y a aucun moyen de purifier le cœur si ce n’est en prenant refuge dans le véritable Guru.
+Il n’y a aucun moyen de _purifier_ le cœur si ce n’est en prenant refuge dans le véritable Guru.
 En rencontrant le véritable gourou, mes frères, le cœur est transformé au-delà de toute expression. <span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 Dit Nanak, si quelqu'un meurt en rencontrant le vrai gourou et est à nouveau réanimé par son enseignement,
 La souillure de son égoïsme s’en ira et son cœur deviendra pur.[^13]
@@ -177,7 +177,7 @@ L'Empereur demanda alors : « Ô Guru, dis-moi qui est le plus saint, les hindou
 
 Le gourou répondit avec l'hymne suivant de Kabir :
 
-Au commencement, Dieu, par sa toute-puissance, créa la lumière et, à partir d'elle, toutes les races humaines.
+Au commencement, Dieu, par sa toute-puissance, créa la lumière et, _à partir d'elle_, toutes _les races_ humaines.
 De la même lumière a été créé le monde entier ; alors, qui est bon et qui est mauvais ?
 Ô mes frères, ne vous perdez pas dans le doute.
 La création est dans le Créateur, et le Créateur est dans la création ; il remplit tout lieu.
@@ -188,7 +188,7 @@ Celui qui obéit à la volonté de Dieu et le reconnaît comme un, est son servi
 Dieu est invisible ; Il ne peut être vu ; le Guru m'a donné de la mélasse sucrée [^15] à manger.
 Dit Kabir, mes doutes sont abandonnés depuis que j'ai vu le Sans Tache partout.[^16]
 
-L'Empereur s'intéressa vivement à ces hymnes et à l'exposé général des doctrines du Gourou. Avant de le congédier, il désira connaître son point de vue sur les devoirs et les attributs d'un monarque. Le Gourou dit alors : « Un bon monarque est toujours philanthrope. Il ne peut supporter de voir un homme dans la misère sans déployer de grands efforts, tant physiques que spirituels, pour soulager ses souffrances. S'il voit un homme affamé ou sans toit, il lui fournit les ressources nécessaires. Il fournit du travail aux pauvres : réparer un puits ou un pont effondré, niveler une route accidentée ou planter des arbres au bord de la route. » Sur ce, le Gourou prit congé.
+L'Empereur s'intéressa vivement à ces hymnes et à l'exposé général des doctrines du Gourou. Avant de le congédier, il désira connaître son point de vue sur les devoirs et les attributs <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> d'un monarque. Le Gourou dit alors : « Un bon monarque est toujours philanthrope. Il ne peut supporter de voir un homme dans la misère sans déployer de grands efforts, tant physiques que spirituels, pour soulager ses souffrances. S'il voit un homme affamé ou sans toit, il lui fournit les ressources nécessaires. Il fournit du travail aux pauvres : réparer un puits ou un pont effondré, niveler une route accidentée ou planter des arbres au bord de la route. » Sur ce, le Gourou prit congé.
 
 <figure class="table chapter-navigator">
   <table>
@@ -214,36 +214,37 @@ L'Empereur s'intéressa vivement à ces hymnes et à l'exposé général des doc
   </table>
 </figure>
 
+
 ## Remarques
 
-[^1]: Chanakya était un brahmane ami du monarque Chandragupta. Il écrivit un ouvrage sur la politique et l'éthique, et fut surnommé le Machiavel indien. Son Niti fut traduit en vers hindi élégants par Sainapat sur ordre de Guru Gobind Singh.
+[^1]: Chanakya était un brahmane ami du monarque Chandragupta. Il écrivit un ouvrage sur la politique et l'éthique, et fut surnommé le Machiavel indien. Son _Niti_ fut traduit en vers hindi élégants par Sainapat sur ordre de Guru Gobind Singh.
 
 [^2]: Gauri ki Guerre I.
 
-[^3] : Bilawal.
+[^3]: Bilawal.
 
-[^4] : Souhi.
+[^4]: Souhi.
 
 [^5]: C'est-à-dire qu'ils ne sont plus sujets à la transmigration.
 
 [^6]: Gauri ki Guerre I.
 
-[^7] : Asa.
+[^7]: Asa.
 
 [^8]: Celui-ci, également appelé le Darbar Sahib, est connu des Européens sous le nom de Temple d'Or d'Amritsar.
 
-[^9] : Asa.
+[^9]: Asa.
 
-[^10] : Souhi.
+[^10]: Souhi.
 
 [^11]: Les noms propres hindis dans cet hymne sont tous des noms de Dieu.
 
-[^12] : Ramkali.
+[^12]: Ramkali.
 
-[^13] : Wadhans.
+[^13]: Wadhans.
 
 [^14]: On ne peut pas reprocher à Dieu d’avoir créé des vases d’argile, c’est-à-dire des êtres humains, et on ne peut pas reprocher aux êtres humains d’avoir été créés par Lui.
 
 [^15]: Bonne instruction.
 
-[^16] : Prabhati.
+[^16]: Prabhati.

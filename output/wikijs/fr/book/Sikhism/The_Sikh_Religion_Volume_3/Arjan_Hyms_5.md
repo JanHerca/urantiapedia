@@ -223,7 +223,7 @@ _Séparé de mon époux_, un ghari m'apparaît comme un jour, oui, comme autant 
 Mon esprit est en détresse jusqu’à ce que je rencontre mon bien-aimé.
 _Séparé de mon époux_ un instant me paraît être un jour ; oui, il ne passe jamais.
 Le désir de mon cœur est excessif de le contempler ; existe-t-il un saint qui me fera rencontrer mon Bien-Aimé ?
-Les quatre veilles du jour m'apparaissent comme les quatre âges du monde.
+Les quatre veilles du jour _m'apparaissent_ comme les quatre âges du monde.
 Quand la nuit vient, je pense qu'elle ne finira jamais.
 La conspiration des péchés capitaux m’a éloigné de mon Bien-Aimé.
 Errant et errant, je pleure et me tords les mains.
@@ -233,9 +233,9 @@ _Enfin_ Dieu s'est montré à son serviteur, Nanak, qui l'ayant vu a obtenu le b
 Au lieu d’adorer Dieu chez lui, l’homme accomplit une vaine dévotion à l’étranger : —
 
 L’homme abandonnant l’amour de Dieu, s’enivre de l’amour des objets sans valeur.
-Il a ce qu'il veut chez lui, et pourtant il va le chercher à l'étranger : [^16]
+Il a ce qu'il _veut_ chez lui, et pourtant il va le _chercher_ à l'étranger : [^16]
 Il n’écoute pas la véritable Parole ambroisiale.
-Attaché à de fausses écritures, il se dispute avec les saints.
+Attaché à de fausses écritures, il se dispute _avec les saints_.
 En recevant le salaire du Seigneur, il sert quelqu'un d'autre.
 De telles qualités sont revêtues les mortels.
 Il se cache de Celui qui est toujours avec lui.
@@ -293,8 +293,8 @@ En méditant sur le Dieu suprême dans leur cœur.
 
 Le gourou ne craint pas la mort de son corps :
 
-Le temps de la mort, que l’homme ne désire pas, arrivera.
-Sans l'ordre de Dieu, comment le feu de la peur pourrait-il être éteint, malgré tous nos efforts ?
+Le temps _de la mort_, que l’homme ne désire pas, arrivera.
+Sans l'ordre de Dieu, comment le feu _de la peur_ pourrait-il être éteint, malgré tous nos efforts ?
 _Le corps_ est dissous par l'eau, le feu et la terre,[^18]
 Mais l’âme n’est ni jeune ni vieille,[^19] ô mes frères.
 L'esclave Nanak est entré dans le sanctuaire des saints,
@@ -311,7 +311,7 @@ En rencontrant le véritable gourou, nous obtiendrons l'Être suprême parfait.
 Ô mon vrai gourou, détenteur du jeu du monde, préserve ton enfant.
 Donne-moi le sens de chanter toujours tes louanges, mon Dieu, inaccessibles et sans fin.
 Lorsqu'un mortel est dans le ventre de sa mère, il demeure sous le soutien du Nom ;
-Il est heureux, il se souvient de Dieu à chaque souffle, et le feu de l'utérus ne l'affecte pas ;
+Il est heureux, il se souvient de Dieu à chaque souffle, et le feu _de l'utérus_ ne l'affecte pas ;
 Alors, ô homme, cesse de convoiter les biens d'autrui, les femmes d'autrui, et de calomnier autrui.
 En vous appuyant sur le véritable gourou, adorez dans votre cœur les pieds pareils-au-lotus de Dieu.
 Les maisons, les manoirs et les palais que tu contemples, aucun d'entre eux ne partira avec toi.<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
@@ -329,7 +329,7 @@ Qui se vantaient bruyamment d’avoir le pouvoir de tuer, de capturer ou de lib�
 Il a tout quitté et est parti le jour même où l'ordre de l'Être suprême est arrivé.
 L’homme accomplit des œuvres cérémonielles de toutes sortes, mais il ne connaît pas le Créateur.
 Il prêche, mais il ne pratique pas; il ne connaît pas la parole de Dieu.
-Nu il est venu, nu il repartira ; ses actes sont impurs, comme lorsque l'éléphant jette de la poussière sur sa tête.
+Nu il est venu, nu il repartira ; _ses actes sont impurs_, comme lorsque l'éléphant jette de la poussière sur sa tête.
 Vous, bons saints et amis, écoutez-moi tous : ce monde est faux.
 Des imbéciles sont morts dans d’atroces souffrances en parlant de leurs biens.
 En rencontrant le Guru, Nanak a médité sur le Nom ; le vrai Nom l'a sauvé.
@@ -360,7 +360,7 @@ Nanak dit : Dieu protège ses saints, et il livre le calomniateur au courant.
 
 Ce qui suit a été adressé à un Sanyasi hypocrite :
 
-Celui qui lave son corps alors qu'il a de la saleté dans son cœur perdra son bonheur dans les deux mondes.
+Celui qui lave son corps alors qu'il a de la saleté dans son cœur perdra _son bonheur_ dans les deux mondes.
 Ici, il souffre de la luxure, de la colère et de l'amour mondain ; désormais, il sanglotera et pleurera.
 La manière d’adorer Dieu est différente.
 Le serpent ne se tue pas en frappant son antre à l'extérieur, et le sourd n'entend pas le Nom. <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
@@ -380,8 +380,8 @@ Le gourou a soumis le lion[^24] à la chèvre ; les chiens[^25] mangent de l'her
 Une hutte[^27] a été élevée sans piliers dans laquelle les sans-abri trouvent un abri.
 Sans sertisseur, des joyaux sont sertis[^28] et une merveilleuse pierre précieuse [^29] est placée parmi eux.<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 Ce n’est pas par la clameur que le plaignant réussit ; c’est par le silence qu’il obtient justice.
-L'homme mort à Dieu alors qu'il jouit de la richesse et qu'il est assis sur des tapis coûteux, sait maintenant que ce qui apparaît à l'œil disparaît rapidement.
-Celui qui dit qu'il sait, ne sait rien ; mais celui qui sait vraiment est bien connu.
+L'homme mort à Dieu alors qu'il jouit de la richesse et qu'il est assis sur des tapis coûteux, sait _maintenant_ que ce qui apparaît à l'œil disparaît rapidement.
+Celui qui dit qu'il sait, ne sait rien ; mais celui qui sait _vraiment_ est bien connu.
 Dit Nanak, le Guru m'a donné du nectar à boire, et en le goûtant, je suis heureux.
 
 La dépendance du gourou envers Dieu :—
@@ -428,7 +428,7 @@ Ce qui suit représente une autre conversation entre la même dame et le Sikh :
 
 Ta veste rouge [^32] te va bien ;
 Tu plais au Seigneur, et tu gagnes son cœur.
-Qui a donné cette fleur à ton visage ?
+Qui a donné cette fleur _à ton visage_ ?
 Quelle teinture t'a donné ton teint éclatant ?
 Tu es belle, tu es une épouse heureuse.
 Dans ta maison est ton bien-aimé, dans ta maison est bon
@@ -472,10 +472,10 @@ Quels que soient les plaisirs de l'homme, il est, pour ainsi dire, mort sans dé
 
 L’homme peut jouir des plaisirs dans la vigueur de la jeunesse,
 Mais sans le Nom, il est mélangé à la poussière.
-Il peut porter des boucles d'oreilles coûteuses et de beaux vêtements ;
+Il peut porter des boucles d'oreilles _coûteuses_ et de _beaux_ vêtements ;
 Il peut avoir un canapé confortable et en être fier ;
 Il peut avoir des éléphants à monter et un parapluie doré sur la tête ;
-Mais sans le culte de Dieu, il est, pour ainsi dire, sous la terre.
+Mais sans le culte de Dieu, _il est_, pour ainsi dire, sous la terre.
 L'homme peut profiter de nombreuses belles femmes,
 Mais sans l’essence de Dieu, toutes les saveurs sont insipides.
 Trompé par Mammon, l'homme est conduit au péché et au mal,
@@ -496,8 +496,8 @@ Traverse l'océan du monde selon l'esclave Nanak.
 
 Le gourou préfère l’endroit où les saints se rassemblent à tout lieu de pèlerinage :
 
-Si je vais en pèlerinage, je vois des hommes se vanter ;
-Si j'interroge les Brahmanes, je les trouve immergés dans Mammon.
+Si je vais en pèlerinage, _je vois_ des hommes se vanter ;
+Si j'interroge les Brahmanes, _je les trouve_ immergés dans Mammon.
 Ô mon ami, montre-moi cet endroit
 Là où les louanges de Dieu sont toujours chantées.
 En méditant sur le mal et le bien selon les Shastars et les Veds,
@@ -515,7 +515,7 @@ Que vous soyez debout, assis ou endormi, méditez sur Dieu.
 En vous promenant, chantez les louanges de Dieu.
 Écoute avec tes oreilles la Parole ambroisie.
 En l'écoutant, ton cœur se réjouira, et toutes tes infirmités et tous tes troubles disparaîtront. <span id="p294"><sup><small>[ p. 294 ]</small></sup></span>.
-Pendant que vous travaillez, voyagez ou vous promenez au bord de la rivière, répétez le nom de Dieu.
+Pendant que vous travaillez, _voyagez ou vous promenez_ au bord de la rivière, répétez _le nom de Dieu_.
 Par la faveur du gourou, buvez le nectar de Dieu.
 Celui qui chante jour et nuit les louanges de Dieu
 Ne tombera pas sur le chemin de la mort.
@@ -550,7 +550,7 @@ L'autodérision du gourou :—
 
 Je ne connais ni artifices ni astuces de langage, mais jour et nuit je répète ton nom.<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 Je ne possède aucun mérite, pas même un seul.
-Ô Dieu, tu fais et tu fais que toutes choses soient faites.
+Ô Dieu, tu fais et tu fais _que toutes choses_ soient faites.
 Je suis un imbécile, un imbécile, un ignorant et un irréfléchi,
 Je désire ardemment ton nom dans mon cœur.
 Je n’ai accompli aucune œuvre de dévotion, de pénitence ou de mortification ;
@@ -561,12 +561,12 @@ Nanak signifie : Tu es, ô Dieu, mon refuge.
 La relation de la créature au Créateur :—
 
 Tu es mon lac, je suis ton poisson ;[^36]
-Tu es mon Seigneur, je suis le mendiant à Ta porte.
+Tu es mon Seigneur, je suis _le mendiant_ à Ta porte.
 Tu es mon Créateur, je suis ton adorateur.
 J'ai trouvé ton sanctuaire, ô Dieu d'excellence profonde.
 Tu es ma vie, tu es mon soutien.
 En te voyant, je fleuris comme le lotus.
-Tu es mon salut et mon honneur ; tu es celui qui accepte le saint.
+Tu es mon salut et mon honneur ; tu es celui qui accepte _le saint_.
 Tu es Tout-Puissant, Tu es ma force.
 
 La supplication de Nanak à Dieu est la suivante :
@@ -577,7 +577,7 @@ Un jour, le gourou, visitant son bassin sacré, vit le deuil dans une maison et 
 
 Les personnes en deuil pratiquent le mensonge ;
 Ils rient tout en pleurant les autres.
-L'un meurt, et l'on pleure sur lui; dans la maison d'un autre, on chante.
+L'un meurt, _et l'on pleure sur lui_; dans la maison d'un autre, on chante.
 L’un pleure, l’autre rit.
 De la jeunesse à la vieillesse
 L’homme n’atteint pas son but ; alors il regrette les _opportunités perdues_.
@@ -613,27 +613,27 @@ Avec elle tu as été choyé ;
 Sans elle, tu serais resté dans la poussière.
 Avec elle tu as eu honneur et grandeur,
 Avec elle tu avais des relations avec le monde,
-Avec elle, ton cadre a été truqué de diverses manières ;
+Avec elle, ton cadre a _été truqué_ de diverses manières ;
 Sans elle, tu es devenu de l'argile.
 L'âme ne meurt ni ne naît ;
 Il agit sous réserve des ordres de Dieu.
-Ô Nanak, c'est Dieu qui, ayant façonné le corps, unit et sépare l'âme de lui.
+Ô Nanak, c'est Dieu qui, ayant façonné _le corps_, unit et sépare _l'âme_ de lui.
 Lui-même connaît sa propre puissance.
 
 Les attributs que Dieu et les saints possèdent en commun :
 
-Dieu ne meurt pas, et nous ne craignons pas la mort ;
+Dieu ne meurt pas, et nous ne craignons pas _la mort_ ;
 Il ne périra pas, et nous ne serons pas affligés.
 Il n’est pas pauvre, et nous n’avons pas faim ;
 Il ne ressent pas la douleur, et nous non plus.
 Il n’y a pas de destructeur, si ce n’est Dieu ;
 Il vit et nous donne la vie.
 Il n’a pas d’embûches, et nous non plus ;
-Il n'a pas d'occupations mondaines, et nous non plus ;
+Il n'a pas d'occupations _mondaines_, et nous non plus ;
 Il n’a aucune impureté, et nous non plus.
 Quand Il est heureux, nous sommes toujours heureux.
 Il n’a aucune inquiétude, et nous non plus ;
-Il n'est pas souillé par le monde, et nous non plus ;
+Il n'est pas souillé _par le monde_, et nous non plus ;
 Il n’a pas faim, et nous n’avons pas soif.
 S’Il est pur, nous le sommes aussi.
 Nous ne sommes rien, Il est le seul Être :
@@ -709,7 +709,7 @@ Ce qui suit est une description de Maya, ou l’amour mondain :
 
 Sur son front se dessine un froncement de sourcils,[^40] son ​​regard est amer,
 Son discours est amer, sa langue est rude ;
-Elle a toujours faim, elle pense que Dieu est loin et ne la voit pas.
+Elle a toujours faim, elle pense que Dieu est loin _et ne la voit pas_.
 Une telle femme est celle que Dieu a créée.
 Elle a dévoré le monde entier, à l’exception de ceux que le Guru a protégés, mes frères.
 Jetant un filet de tromperie, elle veille jusqu'à ce que le monde entier y tombe.
@@ -790,7 +790,7 @@ Pour t'adorer et te souvenir de toi jour et nuit à chaque respiration.
 L’homme devrait toujours prêter attention à ses dévotions :
 
 Ô toi, proie de la paresse, pourquoi dors-tu en oubliant le Nom ?
-Combien s'en vont vers la perdition sur ce fleuve de vie !
+Combien s'en vont vers _la perdition_ sur ce fleuve de vie !
 Ô homme, embarque sur la barque des pieds de Dieu et traverse.
 Durant les huit veilles du jour, chantez les louanges de Dieu en compagnie des saints.
 Tu jouis de divers plaisirs, mais ils sont vides sans le Nom.
@@ -847,7 +847,7 @@ Tant que j'ai des doutes mentaux, je m'égare dans des chemins tortueux :
 Lorsque le gourou a dissipé mes doutes, j’ai obtenu le repos.
 Les mauvaises passions qui me tourmentaient m'ont quitté par l'intermédiaire du Guru :
 Je leur ai échappé, et ils m'ont échappé.
-L’homme est empêtré à partir du moment où il pense que les choses du monde sont une propriété privée.
+L’homme est empêtré à partir du moment où il pense que _les choses du monde_ sont une propriété privée.
 J'ai échappé aux enchevêtrements depuis que le gourou a dissipé mon ignorance spirituelle.<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 L’homme souffre tant qu’il ne connaît pas la volonté de Dieu.
 Il est heureux quand, rencontrant le Guru, il reconnaît la volonté de Dieu.
@@ -870,7 +870,7 @@ Nanak, si l'Être suprême nous préserve, aucun chagrin ne nous arrivera.
 Le gourou chante les louanges de Dieu à chaque occasion :
 
 Je chante les louanges de Dieu à la maison, je les chante à l'étranger, je les chante en me réveillant le matin.
-Moi qui travaille au nom de Dieu, je l'ai obtenu comme viatique du Gourou,
+Moi qui travaille au nom de Dieu, je l'ai obtenu comme viatique _du Gourou_,
 Et j'ai complètement oublié tout le reste.
 Le Gourou parfait m'a donné le don du Nom ; c'est mon seul soutien. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 Dans le malheur je chante les louanges de Dieu, dans la joie je les chante ; sur mon chemin je m'en souviens.
@@ -897,11 +897,11 @@ Les bénédictions obtenues lorsque Dieu accorde avec miséricorde le véritable
 
 Quand Dieu est miséricordieux,
 Ce qui est renversé devient droit, et les calomniateurs et les ennemis deviennent amis.
-Le joyau de la connaissance divine brille dans l’obscurité, et l’entendement impur devient purifié.
+Le joyau de la _connaissance divine_ brille dans l’obscurité, et l’entendement impur devient purifié.
 Lorsque j’ai rencontré le vrai gourou, j’ai obtenu le bonheur, la prospérité et le fruit du nom de Dieu.
 Personne ne me connaissait, tout méprisable que j'étais[^50], _mais maintenant_ je suis devenu célèbre dans le monde entier.
 _Auparavant_ personne ne me permettait de m'associer à lui, _mais maintenant_ tous les hommes adorent mes pieds.
-Autrefois, j'allais partout mendier de l'argent, mais maintenant, toute la soif de mon cœur est étanchée.
+_Autrefois_, j'allais partout mendier de l'argent, _mais maintenant_, toute la soif de mon cœur est étanchée.
 Moi qui ne pouvais supporter les reproches de personne, je suis devenu patient grâce à la compagnie des saints.
 Quelles louanges de Celui qui est totalement hors d’atteinte peuvent être prononcées par une seule langue ?
 Ton serviteur Nanak est dans ton sanctuaire ; fais de lui ton esclave parmi les esclaves.
@@ -1080,7 +1080,7 @@ Embrasse le pauvre Nanak qui est entré dans ton asile.
 
 Le gourou, dans son humilité et son sens de dépendance envers Dieu, le prie :
 
-Si seulement quelqu'un pouvait détruire la puissante forteresse du péché,
+Si seulement quelqu'un pouvait détruire la puissante forteresse _du péché_,
 Préserve-moi des désirs, de l’avarice, de la tromperie, de l’amour mondain et de l’erreur ;
 Et que les maladies de la luxure, de la colère, de l’avarice et de l’orgueil me quittent !
 Puis-je, en compagnie des saints, aimer le nom de Dieu, chanter ses louanges,
@@ -1114,7 +1114,7 @@ Le gourou continue son instruction :
 Prenez la protection du Dieu unique,
 Prononcez les hymnes du gourou,
 Obéis à l'ordre du Vrai,
-Reçois le trésor du Nom dans ton cœur,
+Reçois le trésor _du Nom_ dans ton cœur,
 Et toi, ô homme, tu entreras dans le bonheur.
 Celui qui dans la vie est mort
 Traversera le terrible océan.
@@ -1138,7 +1138,7 @@ Ceci, ô mon âme, est la prière de Nanak.
 
 Le message du gourou à son âme :
 
-Ô mon âme, qui viens de loin,
+Ô _mon âme_, qui viens de loin,
 Écoute mon message.
 Tout le monde a abandonné les choses
 Auquel tu es attaché.
@@ -1154,9 +1154,9 @@ Celui envers qui Dieu est miséricordieux,
 
 L’homme doit faire son choix entre Dieu et Mammon :
 
-Quand je plais aux cinq vertus, je déplaît aux cinq péchés.
+Quand je plais aux cinq _vertus_, je déplaît aux cinq péchés.
 Quand je mets le premier dans mon cœur, je dépossède le second.
-C'est ainsi que la cité de mon corps est peuplée, ô mes frères.
+C'est ainsi que la cité _de mon corps_ est peuplée, ô mes frères.
 Les ennuis m’ont quitté lorsque j’ai compris la connaissance divine du Guru.
 Le gourou a dressé une clôture[^57] autour de la vraie religion :
 La méditation sur la connaissance divine du Guru est une porte épineuse et solide.
@@ -1216,15 +1216,15 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^1]: Tous les êtres en qui se trouvent les trois qualités.
 
-[^2] : Maya.
+[^2]: Maya.
 
 [^3]: Espoir:
 
-[^4] : Désir.
+[^4]: Désir.
 
 [^5]: Le dieu de la mort.
 
-[^6] : Ignorance spirituelle.
+[^6]: Ignorance spirituelle.
 
 [^7]: Différents moralistes et connaisseurs donnent des noms différents à ces qualités. Elles sont censées inclure toutes les excellences morales et physiques.
 
@@ -1236,11 +1236,11 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^11]: Le gourou :
 
-[^12] : Un saint médiateur.
+[^12]: Un saint médiateur.
 
-[^13] : _Ajgar bhar_. Si _ajar bhar_ était lu, la traduction serait un fardeau intolérable.
+[^13]: _Ajgar bhar_. Si _ajar bhar_ était lu, la traduction serait un fardeau intolérable.
 
-[^14] : En preuve de souveraineté.
+[^14]: En preuve de souveraineté.
 
 [^15]: Deux sers et demi à l'époque de Guru Arjan équivalent à un ser ou deux livres avoirdupois aujourd'hui.
 
@@ -1252,19 +1252,19 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^19]: C'est-à-dire que l'âme n'est pas affectée par le temps ou la mort.
 
-[^19] : _Dabua_. Cette pièce valait un peu plus qu'un pa/sa indien ou qu'un farthing anglais.
+[^19]: _Dabua_. Cette pièce valait un peu plus qu'un pa/sa indien ou qu'un farthing anglais.
 
 [^19]: _Lahbar_, littéralement — une flamme. _Sakhni_ — vide et _ insatisfait. La ligne est également traduite : (_a_) Même si les richesses du monde sont obtenues, les désirs de l’homme ne seront pas satisfaits, mais lorsque l’Époux (_Bar_) est obtenu (_lah_), tout désir (_khai_) s’éteint. (_b_) _L’âme_ erre insatisfaite dans les régions inférieures et supérieures, mais lorsqu’elle obtient l’Époux, sa faim est apaisée. (_c_) Celui qui est dépourvu de bénédictions terrestres et célestes, en recevant le fruit de l’instruction du Guru, verra sa faim pour ces choses satisfaite.
 
-[^20] : Compréhension.
+[^20]: Compréhension.
 
-[^21] : Le cœur.
+[^21]: Le cœur.
 
-[^22] : Les choses du monde.
+[^22]: Les choses du monde.
 
-[^23] : Fierté.
+[^23]: Fierté.
 
-[^24] : Humilité.
+[^24]: Humilité.
 
 [^25]: Les organes des sens.
 
@@ -1272,7 +1272,7 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^27]: L'esprit de l'homme est rempli de vertus.
 
-[^28] : L'amour divin. Zhewa est la grosse pierre d'un anneau.
+[^28]: L'amour divin. Zhewa est la grosse pierre d'un anneau.
 
 [^29]: C'est-à-dire que ce n'est pas moi, c'est toi qui es distingué.
 
@@ -1280,13 +1280,13 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^31]: Tu n’es pas devenu méchant dans ce monde mauvais.
 
-[^32] : Dévotion.
+[^32]: Dévotion.
 
-[^33] : Coeur.
+[^33]: Coeur.
 
 [^34]: La compagnie des saints.
 
-[^35] : Le monde.
+[^35]: Le monde.
 
 [^36]: C'est-à-dire que, comme un poisson ne peut vivre sans eau, ainsi je ne peux pas vivre sans Toi.
 
@@ -1296,17 +1296,17 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^39]: La vie humaine.
 
-[^40] : Littéralement, la marque des trois qualités.
+[^40]: Littéralement, la marque des trois qualités.
 
 [^41]: Les hommes suivent leurs propres inclinations et souffrent en conséquence. Le bétail qui empiétait sur leur propriété était enchaîné et mis en fourrière.
 
 [^42]: Par lequel tu pourras être heureux.
 
-[^43] : Un savon oriental utilisé pour rendre la peau douce et délicate.
+[^43]: Un savon oriental utilisé pour rendre la peau douce et délicate.
 
 [^44]: Les péchés capitaux qui sont venus les voler.
 
-[^45] : La compagnie des saints.
+[^45]: La compagnie des saints.
 
 [^46]: C'est-à-dire que je ne suis l'ennemi de personne.
 
@@ -1316,7 +1316,7 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^49]: Un jour, la mort arrivera.
 
-[^50] : _Kripan_. Littéralement : un avare.
+[^50]: _Kripan_. Littéralement : un avare.
 
 [^51]: _Renata_. Choses de sable ou de poussière.
 
@@ -1324,15 +1324,15 @@ Ceux qui s'emparent de la jupe du saint, ô Nanak, traverseront le terrible océ
 
 [^53]: C'est-à-dire que les mauvaises passions sont belles à l'extérieur mais viles à l'intérieur.
 
-[^54] : _Bairi karan_. Également traduit : Tu commets un péché pour tes proches qui sont tes ennemis.
+[^54]: _Bairi karan_. Également traduit : Tu commets un péché pour tes proches qui sont tes ennemis.
 
-[^55] : Gajmoti. Des perles, selon la légende, proviendraient de la tête de l'éléphant blanc.
+[^55]: Gajmoti. Des perles, selon la légende, proviendraient de la tête de l'éléphant blanc.
 
 [^56]: Ne sera pas sujet à la transmigration.
 
 [^57]: Pour éloigner les mauvaises passions.
 
-[^58] : Le gourou.
+[^58]: Le gourou.
 
 [^59]: Les disciples.
 

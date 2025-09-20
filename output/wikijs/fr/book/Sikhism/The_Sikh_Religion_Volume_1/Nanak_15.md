@@ -188,11 +188,11 @@ _De telles choses_, ô Nanak, sont obtenues par la faveur du Guru en y participa
 
 ## Notes de bas de page
 
-[^1] : Sidh Gosht.
+[^1]: Sidh Gosht.
 
-[^1] : Ramkali.
+[^1]: Ramkali.
 
-[^1] : Ramkali.
+[^1]: Ramkali.
 
 [^1]: Il est curieux de retrouver la même expression chez un auteur d’opéra italien du XVIIIe siècle.
   Et si, là où il demeure,
@@ -213,9 +213,9 @@ _De telles choses_, ô Nanak, sont obtenues par la faveur du Guru en y participa
 
 [^2]: _Takbîr_ est compris comme étant l'arabe _taqdîr_, destin.
 
-[^3] : Contravention routière.
+[^3]: Contravention routière.
 
-[^4] : _Akâsh_, ou éther, étant le cinquième.
+[^4]: _Akâsh_, ou éther, étant le cinquième.
 
 [^1]: Granth Sahib de Banno.
 

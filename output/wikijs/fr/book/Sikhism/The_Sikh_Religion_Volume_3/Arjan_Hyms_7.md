@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:8:26Z
 
 La nécessité du gourou :—
 
-Les hommes accomplissent des exercices de dévotion[^1] et les six actes religieux des hindous ; les gens du monde sont imprégnés de telles choses ;
+Les hommes accomplissent des exercices de dévotion[^1] et les six actes religieux _des hindous_ ; les gens du monde sont imprégnés de telles choses ;
 Mais sans le gourou, la saleté de l’orgueil ne quitte pas leur cœur, et ils perdent leur jeu.
 Ô mon Dieu, préserve-moi dans ta miséricorde.
 Parmi des millions, un homme rare est un serviteur de Dieu ; tous les autres sont mondains.<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
@@ -139,7 +139,7 @@ L’importance de rencontrer _Dieu_[^4] ne peut être décrite ; Nanak, c’est 
 
 Seul l’homme véritablement saint est libre de l’amour mondain :
 
-Les hommes se nomment Munis, Jogis et érudits dans les Shastars, mais Maya les contrôle tous. L'esprit est stupéfait par sa soumission aux trois dieux et aux trois cent trente millions de demi-dieux.
+Les hommes se nomment Munis, Jogis et érudits dans les Shastars, mais Maya les contrôle tous. L'esprit est stupéfait par sa soumission <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> aux trois dieux[^5] et aux trois cent trente millions de demi-dieux.
 Elle est puissante et continue de envahir le monde entier.
 Son secret est obtenu par la faveur du Guru ; personne d'autre ne le connaît.
 Toujours conquérante, elle a soumis tous les lieux et enchevêtré le monde entier ;
@@ -209,11 +209,11 @@ Dissipateur de la peur et de la terreur, Demeure de miséricorde, Trésor d'exce
 J'ai pris la protection de tes pieds, Dieu miséricordieux, fais-moi traverser le terrible océan du monde.
 Dissipateur de luxure et de colère, Brûleur d'orgueil et d'amour mondain, Murari, Miel de l'âme,
 Soutien de la terre, mets de côté ma transmigration et préserve mon honneur, Toi la Joie primordiale.
-Beaucoup brûlent dans leur désir de Mammon ; mais par le charme du Guru, la connaissance divine est obtenue dans le cœur, et ils sont guéris.
-Pique la bulle de mon orgueil, ô Toi plein de miséricorde, et dissipe mes angoisses, ô Toi Être éternel.
+Beaucoup brûlent dans leur désir de Mammon ; mais par le charme du Guru, la connaissance divine est obtenue dans le cœur, _et ils sont guéris_.
+Pique _la bulle_ de mon orgueil, ô Toi plein de miséricorde, et dissipe mes angoisses, ô Toi Être éternel.
 Homme OQ, souviens-toi du Tout-Puissant à chaque instant, et applique-toi calmement à la contemplation de Dieu.
 Ô miséricordieux envers les pauvres, toujours heureux, qui remplissez tout espace, je vous demande la poussière des pieds de vos saints.
-Préserve-nous des maux de l'amour mondain et sensuel, et des péchés de l'espoir et du désir.
+_Préserve-nous_ des maux de l'amour mondain et sensuel, et des péchés de l'espoir et du désir.
 Préserve la foi et ôte le doute de nos cœurs ; sauve-nous, ô Informe !
 <span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 Même ceux qui sont nus sont bien habillés grâce au trésor des greniers de Dieu.
@@ -323,7 +323,7 @@ Les faveurs conférées par le gourou :
 Salut ! Salut à ce véritable gourou qui a démoli la forteresse du doute !
 Félicitations à ce véritable gourou qui m’a uni à Dieu !
 Le Guru m’a donné comme médicament le trésor inépuisable du Nom.
-Il a guéri la grande et terrible maladie de l’ignorance spirituelle.
+Il a guéri la grande et terrible maladie de _l’ignorance spirituelle_.
 En obtenant la richesse du Nom, j’ai trouvé un grand trésor ;
 Et en me reconnaissant, j’ai gagné cette vie humaine inestimable.
 Les louanges du Guru, l’être omnipotent, ne peuvent être exprimées.
@@ -389,7 +389,7 @@ Détourne-toi, ô mon âme, détourne-toi,
 Détournez-vous de l’apostat.
 Faux est l'amour du faux ; abandonne-le, ô mon âme, et tu seras sauvée ; tu ne seras pas sauvée dans la compagnie des apostats.
 Comme quiconque entre dans une maison remplie de suie devient noir,
-Ainsi, quiconque s'associe à l'apostat sera souillé ; mais celui qui rencontre le Guru échappera à Maya et fuira les mauvaises associations.
+Ainsi, quiconque s'associe à l'apostat sera souillé ; mais celui qui rencontre le Guru échappera à Maya et fuira _les mauvaises associations_.
 Ô Miséricordieux, Océan de miséricorde, j'implore cette faveur de Toi, de ne pas me mettre face à face avec l'apostat.
 Fais de Nanak ton esclave parmi les esclaves, et sa tête roulera sous les pieds des saints.
 
@@ -412,13 +412,13 @@ Ceux que Dieu a ainsi prédestinés fixent leur attention sur Lui jour et nuit.
 L’orgueil, l’égoïsme et l’amour du monde disparaissent lorsque nous nous associons à l’homme saint.
 L'esclave Nanak dit que le salut s'obtient en adorant le nom de Dieu.
 Ô saints, mes bien-aimés, unissons-nous et, les mains jointes, adorons l’Être impérissable.
-J'ai examiné de nombreuses formes de culte, mes bien-aimés ; _mais elles sont toutes vaines_ ; consacrons-Lui entièrement nos âmes et nos corps.
+J'ai examiné de nombreuses formes de culte, mes bien-aimés ; _mais elles sont toutes vaines_ ; consacrons-_Lui entièrement_ nos âmes et nos corps.
 Quand l’âme, le corps et les biens appartiennent au Seigneur, quelle offrande lui ferons-nous ?
 Le Dieu compatissant embrasse celui à qui il fait miséricorde.
 Celui sur le front duquel un tel destin était écrit aime le gourou. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 L'esclave Nanak dit : adorons le nom de Dieu en nous associant aux saints.
 Je suis de retour, ô mon bien-aimé, après avoir cherché dans toutes les directions ; et j'ai trouvé Dieu dans ma propre maison.
-Dieu a fait ce corps comme un temple, ô mon bien-aimé, et Il y est contenu.
+Dieu a fait _ce corps_ comme un temple, ô mon bien-aimé, et Il y est contenu.
 Le Seigneur Dieu est contenu en toute chose ; Il se manifeste par l’instruction du Guru.
 Les ténèbres sont dissipées et les troubles éliminés lorsque le gourou a fait couler l'essence du nectar de Dieu dans la bouche.
 Partout où je regarde, là et en tout lieu se trouve le Seigneur, l’Être suprême.
@@ -457,7 +457,7 @@ Toi qui es imprégné d’amour pour de nombreuses choses du monde, tu trouveras
 Ô pécheur, il n’y a personne pour t’aider ;
 Tu n’as pas d’aide ; tu ne le regretteras jamais.
 Tu ne proclames pas les louanges de Dieu : ces jours connaîtront-ils jamais un renouveau ? [^10]
-De même que les feuilles séparées de l'arbre ne repousseront plus, ainsi tes parents et tes amis se sépareront de toi, et tu poursuivras seul ton chemin vers la mort. <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
+De même que les feuilles séparées de l'arbre ne repousseront plus, _ainsi tes parents et tes amis se sépareront de toi_, et tu poursuivras seul ton chemin vers la mort. <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 Nanak représente que sans le nom de Dieu, l'homme n'erre jamais dans la détresse.
 Ô homme, tu pratiques la tromperie en secret, mais Dieu qui sait tout te connaît.
 Quand Dharmraj prendra tes comptes, tu seras pressé comme un paquet[^11] de sésame.
@@ -501,7 +501,7 @@ Nanak représente : je suis l'esclave de Dieu qui est le soutien de l'âme et de
 Tu es grand et tout-puissant ; mon entendement est faible.
 Tu chéris même les ingrats ; Tu regardes tous avec la même égalité.<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 Insondable est ta connaissance, ô Créateur infini ; je suis humble et je ne sais rien.
-Ayant rejeté le joyau de ton nom, j'ai amassé des kauris ; je suis un être dégradé et stupide.
+Ayant rejeté le joyau _de ton nom_, j'ai amassé des kauris ; je suis un être dégradé et stupide.
 Par la commission du péché, j'ai amassé quelque chose de très instable et j'ai abandonné l'homme. |
 Nanak a recherché ta protection, ô Seigneur tout-puissant ; préserve son honneur.
 Quand je chantais les louanges de Dieu en compagnie des saints,
@@ -524,7 +524,7 @@ Des centaines de milliers de saints l’adorent.
 Des centaines de milliers de grands pénitents font pénitence devant Lui.
 Des centaines de milliers de jogis pratiquent le jogging.
 Des centaines de milliers de grands amateurs de plaisirs jouissent de plaisirs ; [^13]
-Mais Dieu ne se trouve pas ainsi ; il habite dans chaque cœur : seuls quelques-uns le savent. <span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
+Mais Dieu _ne se trouve pas ainsi_ ; il habite dans chaque cœur : seuls quelques-uns le savent. <span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 Y a-t-il un ami qui puisse briser l’écran entre Lui et nous ?
 Si cet ami est gentil avec moi, je ferai des efforts pour rencontrer Dieu,
 Et je Lui sacrifierai mon corps et mon âme.
@@ -762,7 +762,7 @@ Nanak, quand j'ai médité sur le Nom, toutes mes tristesses ont disparu.
 L’homme ne devrait pas avoir honte, mais devrait être désireux d’adorer Dieu :
 
 Comme un homme affamé n’a pas honte de manger,
-Ainsi, l’esclave de Dieu n’a pas honte de chanter ses louanges.
+Ainsi, l’esclave de Dieu _n’a pas honte_ de chanter ses louanges.
 Pourquoi être paresseux dans tes propres affaires ?
 En te souvenant de Dieu, ton visage sera rayonnant dans sa cour, et tu obtiendras le bonheur pour toujours et à jamais.
 Comme un homme lubrique est avide de satisfaire sa convoitise,
@@ -814,7 +814,7 @@ Ils poussent de nombreux gémissements, ô mon bien-aimé, mais leur torture ne 
 Ceux que Tu as introduits auprès du Guru et régénérés, conservent leur capital intact.
 Autant que possible, ô mon bien-aimé, ne fréquente pas les infidèles.
 En le rencontrant, ô mon Bien-Aimé, l’homme oublie Dieu et devient déshonoré.
-Les pervers n'obtiennent pas l'entrée dans la cour de Dieu, ô mon bien-aimé, mais sont punis par la mort.
+Les pervers n'obtiennent pas l'entrée dans la cour de Dieu, ô mon bien-aimé, mais sont punis _par la mort_.
 
 On raconte qu'un homme alla trouver le gourou et lui dit qu'il accomplissait depuis longtemps diverses cérémonies religieuses, mais que son cœur était encore troublé. Il demanda au gourou le remède et le chemin vers Dieu. Le gourou répondit ainsi :
 
@@ -824,7 +824,7 @@ Il n’échappera pas à la compagnie des cinq péchés capitaux ; bien au contr
 Je suis tombé fatigué à la porte du Seigneur : qu'Il m'accorde la sagesse et le discernement !
 L'homme peut être voué au silence ; il peut vivre de feuilles ; [^19] il peut errer nu dans la forêt ;
 Il peut visiter tous les lieux de pèlerinage de la terre ; mais même alors, il ne pourra jamais échapper à l’amour du monde.
-Avec un désir d'émancipation dans son cœur, il peut s'asseoir dans un lieu de pèlerinage et appliquer sa tête à la scie ;
+Avec un désir _d'émancipation_ dans son cœur, il peut s'asseoir dans un lieu de pèlerinage et appliquer sa tête à la scie ;
 Mais même s'il faisait des centaines de milliers d'efforts de ce genre, son impureté mentale ne disparaissait pas. <span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 Il peut offrir des cadeaux de toutes sortes : de l’or, des femmes, des chevaux et des éléphants ;
 Il peut offrir du blé, des vêtements et des terres en abondance ; mais même dans ce cas, il ne peut pas atteindre la porte de Dieu.
@@ -976,7 +976,7 @@ En buvant l'eau du Nom, l'esclave Nanak s'est séparé avec amour de tous les au
 
 La société des saints est supérieure à tous les lieux de pèlerinage :
 
-Plus je me baignais dans des lieux sacrés, plus je contractais d'impureté d'orgueil ; le Seigneur de mon cœur n'est pas du tout mes efforts.
+Plus je me baignais dans des lieux sacrés, plus je contractais d'impureté d'orgueil ; le Seigneur de mon cœur n'est pas du tout _mes efforts_.
 Quand obtiendrai-je la compagnie des saints où règne toujours le plaisir divin ? Mon esprit y demeurera, et j'obtiendrai le collyre de la connaissance divine.
 Celui qui pratique l'obstination et recherche la richesse, comme une grue qui guette un poisson, ne comptera pour rien.
 Existe-t-il un dispensateur de bonheur capable de me réciter les légendes de Dieu ? Lorsque je rencontrerai une telle personne, je serai sauvé.
@@ -1031,7 +1031,7 @@ Nanak, le Guru ouvrant les portes de ma compréhension m'a fait rencontrer Dieu,
 J'erre, ô mon bien-aimé, à la recherche du fascinant Chéri.
 Montre-Le-moi, ô mon bien-aimé, accorde-moi de Le voir ne serait-ce que pour un instant, et je donnerai ma vie pour toi.
 Mes yeux sont teints de la couleur du Bien-Aimé, et ne se reposent pas même un instant.
-Mon âme est attachée à Dieu comme un poisson à l'eau, comme le chatrik assoiffé aux gouttes de pluie.
+Mon âme est attachée à Dieu comme un poisson à l'eau, comme le chatrik assoiffé aux _gouttes de pluie_.
 L'esclave Nanak a trouvé le vrai gourou, et toute sa soif est étanchée.
 Ô mon ami, je ne suis égal à aucun des compagnons du Bien-Aimé.
 Ô mon ami, l’un d’eux est meilleur que l’autre ; qui pense à moi ?
@@ -1058,9 +1058,9 @@ Les habitants du monde sont des voyageurs remplis de fierté ;
 Poussés par l’amour de Mammon, ils commettent divers péchés ;
 Ils sont noyés dans la convoitise, l’amour mondain et l’orgueil, et ne pensent pas à la mort ;
 Ils passent leur vie à parler de leurs fils, de leurs amis, des affaires du monde et de leurs femmes.
-Lorsque les jours où ils étaient destinés à rester dans le monde seront expirés, ils souffriront en voyant les myrmidons de la mort.
+Lorsque les jours où ils étaient destinés à _rester dans le monde_ seront expirés, ils souffriront en voyant les myrmidons de la mort.
 Nanak, les actes qui ont été commis ne peuvent être effacés ; pourquoi l'homme n'a-t-il pas mérité la richesse du nom de Dieu ?
-L'homme fait beaucoup d'efforts dans les affaires du monde, mais il ne chante pas le nom de Dieu ;
+L'homme fait beaucoup d'efforts dans _les affaires du monde_, mais il ne chante pas le nom de Dieu ;
 C'est pourquoi il erre dans d'innombrables naissances, meurt et naît de nouveau.
 Chez les bêtes, les oiseaux, les rochers, les arbres, dont le nombre ne peut être déterminé. <span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 L’homme récolte ce qu’il sème et obtient le résultat de ses propres actes.
@@ -1105,7 +1105,7 @@ Nanak signifie : « J’ai participé au festin du nom de Dieu dont je suis rass
 
 ## Remarques
 
-[^1] : _Kiriachar_. Cela comprend le culte, l'application de marques frontales, le bain, l'alimentation des idoles, etc.
+[^1]: _Kiriachar_. Cela comprend le culte, l'application de marques frontales, le bain, l'alimentation des idoles, etc.
 
 [^2]: C'est-à-dire qu'il s'adonne à des plaisirs interdits.
 
@@ -1113,7 +1113,7 @@ Nanak signifie : « J’ai participé au festin du nom de Dieu dont je suis rass
 
 [^4]: Ceci est également traduit dans un sens séculier : l’importance de l’union ne peut être décrite.
 
-[^5] : Brahma, Vishnu et Shiv.
+[^5]: Brahma, Vishnu et Shiv.
 
 [^6]: Les noms hindis dans cet hymne ne signifient évidemment que Dieu, et non aucune de ses prétendues incarnations.
 
@@ -1133,17 +1133,17 @@ Nanak signifie : « J’ai participé au festin du nom de Dieu dont je suis rass
 
 [^13]: Il existe certaines sectes d'hindous, notamment les _Bam Maragis_, qui croient que le paradis s'obtient par les plaisirs terrestres.
 
-[^14] : Les êtres humains.
+[^14]: Les êtres humains.
 
-[^15] : La vie.
+[^15]: La vie.
 
 [^16]: C’est-à-dire qu’il ne trouve aucun défaut chez les autres.
 
 [^17]: Guru Nanak est devenu célèbre dans le monde.
 
-[^18] : _Bhujangam_, littéralement — un serpent, mais appliqué par les Jogis à la colonne vertébrale, à travers laquelle ils disent qu'ils aspirent le souffle de l'anus vers le cerveau.
+[^18]: _Bhujangam_, littéralement — un serpent, mais appliqué par les Jogis à la colonne vertébrale, à travers laquelle ils disent qu'ils aspirent le souffle de l'anus vers le cerveau.
 
-[^19] : _Karpati_. On peut aussi traduire par « Il peut se servir de ses mains comme d'un plat ». Certains faqirs se privent d'assiettes ou de plats, quels qu'ils soient.
+[^19]: _Karpati_. On peut aussi traduire par « Il peut se servir de ses mains comme d'un plat ». Certains faqirs se privent d'assiettes ou de plats, quels qu'ils soient.
 
 [^20]: La nuit, lorsque les pétales du lotus se ferment.
 

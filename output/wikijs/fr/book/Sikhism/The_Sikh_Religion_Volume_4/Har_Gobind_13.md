@@ -45,7 +45,7 @@ Puissé-je, moi qui suis maintenant sans fruit, porter du fruit !
 
 Chabba est un village situé à environ six kilomètres d'Amritsar, sur la route de Tarn Taran. Il se trouve près du monument Sangrana, érigé en hommage à ceux tombés lors de la bataille du gourou contre les forces impériales. La dame était l'épouse d'un agriculteur jat. Elle était venue implorer le gourou d'intercéder pour elle afin qu'elle puisse avoir un fils. Le gourou pria pour elle et elle eut ensuite la bénédiction d'avoir sept enfants. Un barde a célébré cet événement comme suit :
 
-Alors que le gourou était en tournée, une femme vint le voir pour lui demander un fils.
+Alors que le gourou était en tournée, une femme vint le voir pour lui _demander un fils_.
 Il dit : « Un fils n'est pas écrit sur ton front » ; en entendant cela, elle fut déçue. <span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 Puis le gourou écrivit sur son front le chiffre un.
 Au moment où j'écrivais, sa main tremblait et un est devenu sept.
@@ -58,11 +58,11 @@ Baba Atal, fils du Guru et de Nanaki, jouait avec les enfants de la ville et les
 
 À Amritsar vivait un Sikh nommé Gurumukh, père d'un fils unique, Mohan, âgé de huit ans. Lui et Baba Atal jouaient ensemble à la batte et au ballon. Une fois, ils jouèrent jusqu'à la tombée de la nuit. La victoire revint à Baba Atal, et les deux garçons convinrent que Mohan paierait son forfait au matin. Ils rentrèrent tous deux chez eux. La nuit, Mohan se leva, par pure nécessité, et, marchant dans l'obscurité, il fut mordu par un cobra. En entendant ses cris, son père et sa mère se levèrent et le trouvèrent évanoui. On appela un médecin, mais le poison avait fait son effet et le garçon succomba.
 
-Le lendemain matin, Baba Atal se rendit chez Mohan. Il entendit des pleurs en chemin et, lorsqu'on lui annonça la mort de Mohan, il dit : « Non, il n'est pas mort. Il est vivant. Viens, je vais le chercher. » Après avoir dit cela, il se rendit à l'appartement où gisait le corps de Mohan. Le touchant de sa batte, il dit : « Mohan, lève-toi. Prononce Wahguru ! Ouvre les yeux. Tu ne devrais pas dormir si tard, lève-toi et paie-moi ce que j'ai gagné. » Sur ce, on raconte que Mohan, bien que mort depuis quatre heures et demie, se réveilla comme s'il dormait. Une foule de spectateurs félicita le fils du gourou et déclara qu'il avait accompli un acte indescriptible.
+Le lendemain matin, Baba Atal se rendit chez Mohan. Il entendit des pleurs en chemin et, lorsqu'on lui annonça <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> la mort de Mohan, il dit : « Non, il n'est pas mort. Il est vivant. Viens, je vais le chercher. » Après avoir dit cela, il se rendit à l'appartement où gisait le corps de Mohan. Le touchant de sa batte, il dit : « Mohan, lève-toi. Prononce Wahguru ! Ouvre les yeux. Tu ne devrais pas dormir si tard, lève-toi et paie-moi ce que j'ai gagné. » Sur ce, on raconte que Mohan, bien que mort depuis quatre heures et demie, se réveilla comme s'il dormait. Une foule de spectateurs félicita le fils du gourou et déclara qu'il avait accompli un acte indescriptible.
 
 Le gourou, assis dans sa cour, entendit les réjouissances. On disait : « Tel est le père, tel est le fils, un trésor de pouvoirs miraculeux. » Mais le gourou n'était pas du tout satisfait. Il dit : « Baba Atal a toujours eu pour habitude de dissiper son pouvoir. Désormais, chaque fois qu'un fils mourra, ses parents le ramèneront à notre porte. Quel fils allons-nous ranimer, et qui laisserons-nous mourir ? Dieu ne fait aucune faveur à l'homme, qui doit jouir ou souffrir des conséquences de ses actes, et la religion des saints et des hommes pieux prescrit l'obéissance à la volonté de Dieu. »
 
-Pendant que le gourou parlait ainsi, Baba Atal revint de chez Mohan. Le gourou s'adressa à lui avec colère : « Tu dois accomplir des miracles, tandis que j'enseigne aux hommes à obéir à la volonté de Dieu. » Baba Atal répondit : « Grand roi, puisses-tu vivre éternellement ! Je pars pour Sach Khand. » Sur ces mots, il quitta l'assemblée. Personne ne songea à le chercher ni à implorer le pardon du Guru. On pensa que le garçon était simplement allé chez sa mère. En réalité, il était allé se baigner dans le bassin de nectar du Guru. Après ses ablutions, il fit quatre fois le tour du Temple d'Or, puis alla s'asseoir au bord du Kaulsar. Penchant la tête en avant, il appuya son menton sur sa batte et répéta le Japji, les yeux fixés sur le Temple. Alors qu'il terminait ses dévotions matinales, sa lumière se mêla à celle de Dieu, le dixième jour de la moitié sombre d'Assou, Sambat 1685, alors qu'il était dans sa neuvième année.
+Pendant que le gourou parlait ainsi, Baba Atal revint de chez Mohan. Le gourou s'adressa à lui avec colère : « Tu dois accomplir des miracles, tandis que j'enseigne aux hommes à obéir à la volonté de Dieu. » Baba Atal répondit : « Grand roi, puisses-tu vivre éternellement ! Je pars pour Sach Khand. » Sur ces mots, il quitta l'assemblée. Personne ne songea à le chercher ni à implorer le pardon du Guru. On pensa que le garçon était simplement allé chez sa mère. En réalité, il était allé se baigner dans le bassin de nectar du Guru. Après ses ablutions, il fit quatre fois le tour du Temple d'Or, puis alla s'asseoir au bord du Kaulsar. Penchant la tête en avant, il appuya son menton sur sa batte et répéta le Japji, les yeux fixés sur le Temple. Alors qu'il terminait ses dévotions matinales, sa lumière <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> se mêla à celle de Dieu, le dixième jour de la moitié sombre d'Assou, Sambat 1685, alors qu'il était dans sa neuvième année.
 
 Le Gourou, voyant ses épouses, ses enfants et les Sikhs pleurer leur bien-aimé Baba Atal, dit : « Ce monde est périssable. Tout est un jeu de la mort. Elle fait rire ceux qui pleurent et pleurer ceux qui rient, et engendre les autres vicissitudes de la vie. Soyez consolé. Baba Atal a obtenu une dignité immortelle et sa renommée demeurera à jamais. » Lorsque le Gourou fit venir une charge de bois de santal pour l'incinérer dans la forêt, les Sikhs suggérèrent que le corps soit transporté près d'un lieu habité et non incinéré dans cet endroit peu fréquenté. Le Gourou répondit : « La ville augmentera en population, et ce lieu en sera le centre. Dans la ville du Gourou, ce lieu sera comme l'Anpurna[^1] à Bénarès, où tous les arrivants sont gratuitement remplis de blé. » Lors de la crémation, Baba Atal reçut le nom de Kotwal, ou agent de police de la ville, ce qui signifiait qu'il protégerait toujours ses habitants. Le gourou dit : « En commémoration de celui qui, par la volonté de Dieu, a renoncé à son corps au cours de sa neuvième année, un sanctuaire de neuf étages sera érigé qui sera visible de loin. » Les vertus et les miracles de Baba Atal ont été abondamment célébrés par les Sikhs dans des chants et des histoires.
 
@@ -113,11 +113,11 @@ Les pandits discutèrent avec lui des mérites respectifs du sanskrit et de la l
 
 Gur Das écrivit au Guru : « Comme un veau attaché pleure sa mère ; comme un ouvrier qui désire rentrer chez lui, mais est forcé de travailler pour un autre, passe son temps dans l'anxiété ; comme une épouse retenue par ses parents et séparée de son époux se languit de lui, ainsi un Sikh désire le bonheur aux pieds du Guru, mais est maintenu dans la misère dans un pays étranger en obéissance à ses ordres. » [^8]
 
-Le gourou envoya Bhai Jetha et quelques Sikhs chercher Gur Das, mais pas de la manière prévue. Le gourou envoya par Jetha une lettre au gouverneur de Bénarès pour l'informer que Gur Das l'avait abandonné sans sa permission et demandait son arrestation pour le punir. Le gouverneur fut stupéfait à la réception de la lettre du gourou et déclara qu'il ne connaissait aucun voleur nommé Gur Das, ni serviteur du gourou, mais que les messagers du gourou pourraient l'arrêter et l'emmener au service du gourou. Sur ce, Gur Das, qui venait de terminer sa lecture du Japji, raconta au gouverneur et à son équipe toute l'histoire de son voyage à Kaboul et de sa fuite, ce qui ne fit qu'accroître la curiosité et l'étonnement.
+Le gourou envoya Bhai Jetha et quelques Sikhs chercher Gur Das, mais pas de la manière prévue. Le gourou envoya par Jetha une lettre <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> au gouverneur de Bénarès pour l'informer que Gur Das l'avait abandonné sans sa permission et demandait son arrestation pour le punir. Le gouverneur fut stupéfait à la réception de la lettre du gourou et déclara qu'il ne connaissait aucun voleur nommé Gur Das, ni serviteur du gourou, mais que les messagers du gourou pourraient l'arrêter et l'emmener au service du gourou. Sur ce, Gur Das, qui venait de terminer sa lecture du Japji, raconta au gouverneur et à son équipe toute l'histoire de son voyage à Kaboul et de sa fuite, ce qui ne fit qu'accroître la curiosité et l'étonnement.
 
 On attacha alors les mains de Gur Das dans son dos, mais, au même moment, le gouverneur et ses hommes, convaincus de son innocence, le congédièrent avec le plus grand respect. Après que le groupe d'arrestation eut parcouru environ six kilomètres pour rentrer chez lui, Bhai Jetha libéra Gur Das afin qu'il puisse voyager plus confortablement. Bhai Gur Das n'avait pas sollicité cette faveur. Arrivés près d'Amritsar, Bhai Jetha lia de nouveau son prisonnier comme auparavant pour le présenter au Guru. Ce dernier, ironiquement, déclara à Gur Das qu'il était un excellent sikh et fit plusieurs autres remarques cinglantes sur sa conduite. Bhai Gur Das répondit :
 
-Si une mère empoisonne son fils, qui sera assez affectueux pour le sauver ?
+Si une mère empoisonne son fils, qui sera assez affectueux _pour le sauver_ ?
 Si une sentinelle entre par effraction dans une maison, qui va la garder ?
 Si un guide emmène un voyageur dans un désert, à qui se plaindra-t-il ?
 Si une clôture dévore le champ, il n’y aura personne pour la surveiller.
@@ -149,13 +149,14 @@ Le gourou lui pardonna et lui suggéra de terminer les compositions dans lesquel
   </table>
 </figure>
 
+
 ## Remarques
 
-[^1] : Anpurna, un nom de Parbati, est censé être l'Anna Perenna des Romains, que Varron plaçait au même rang que Pallas et Cérès, et qui fut déifiée par le peuple romain pour lui avoir fourni de la nourriture lors de sa retraite sur le mont Aventin. Outre la quasi-identité des noms, il existe une singulière coïncidence dans les dates de leur culte : la fête d'Anpurna a lieu au début du croissant de lune, au mois de Chet (mars-avril).
+[^1]: Anpurna, un nom de Parbati, est censé être l'Anna Perenna des Romains, que Varron plaçait au même rang que Pallas et Cérès, et qui fut déifiée par le peuple romain pour lui avoir fourni de la nourriture lors de sa retraite sur le mont Aventin. Outre la quasi-identité des noms, il existe une singulière coïncidence dans les dates de leur culte : la fête d'Anpurna a lieu au début du croissant de lune, au mois de Chet (mars-avril).
 
 [^2]: Les cultures non mûres sont fréquemment coupées en Orient.
 
-[^3] : Asa.
+[^3]: Asa.
 
 [^4]: Il est écrit dans les Shastars que si un Brahmane boit du vin, la seule expiation est de se tuer en le buvant bouillant.
 
@@ -167,4 +168,4 @@ Le gourou lui pardonna et lui suggéra de terminer les compositions dans lesquel
 
 [^8]: _Kabit_ de Gur Das.
 
-[^9] : Guerre XXXV.
+[^9]: Guerre XXXV.

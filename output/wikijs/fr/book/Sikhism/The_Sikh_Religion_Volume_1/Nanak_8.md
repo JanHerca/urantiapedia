@@ -175,13 +175,13 @@ Le gourou s'adressa de nouveau à ses parents : « Père chéri, mère chérie, 
   Si les ivrognes n'obtiennent pas de stimulants, de poissons, d'eau, ils ne se contentent de rien d'autre,
   Ainsi, tous ceux qui sont imprégnés de leur Seigneur ne se contentent de rien d'autre que de Lui.
 
-[^1] : Dieu.
+[^1]: Dieu.
 
-[^2] : Wadhans.
+[^2]: Wadhans.
 
 [^3]: Les gourmets indiens énumèrent trente-six plats savoureux.
 
-[^1] : Sri Rag.
+[^1]: Sri Rag.
 
 [^1]: La voix, les instruments à cordes, les instruments à vent, les instruments en cuir, comme les tambours, et les instruments métalliques comme les cymbales, les cloches, etc. _Pânch sabd_ peut également signifier les cinq espèces de souffle énumérées par Jogis.
 

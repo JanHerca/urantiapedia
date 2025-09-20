@@ -77,13 +77,13 @@ Nanak signifie que mes désirs ont été exaucés. Je vis à ta vue.[^2]
 
 Le texte suivant a également été composé à la même occasion :
 
-Le Créateur se tenait au milieu de l'œuvre,
-Et pas un seul cheveu de la tête d'aucun homme ne fut touché.[^3]
+Le Créateur se tenait au milieu _de l'œuvre_,
+Et pas un seul cheveu _de la tête d'aucun homme_ ne fut touché.[^3]
 Le gourou rendra les ablutions ici très profitables,
 Et en répétant le nom de Dieu, les péchés s’en iront.
 Ô saints, le char de Ram Das[^4] est excellent :
 Celui qui s'y baigne sauvera sa famille, et son âme aussi sera sauvée.
-Celui qui ici-bas chante un chant de joie sur cette œuvre,
+Celui qui ici-bas chante un chant de joie _sur cette œuvre_,
 Il obtiendra le fruit que son cœur désire.[^5]
 Celui qui, tout en méditant sur son Dieu,
 Celui qui vient se baigner ici sera en sécurité et en bonne santé.
@@ -140,7 +140,7 @@ A trouvé Dieu l'Être primordial.[^8]
 
 [^1]: La référence est à Guru Ram Das.
 
-[^2] : Sthi Chhant.
+[^2]: Sthi Chhant.
 
 [^3]: C’est-à-dire que les autorités musulmanes de l’époque n’ont pas interféré avec les travaux.
 
@@ -152,4 +152,4 @@ A trouvé Dieu l'Être primordial.[^8]
 
 [^7]: Cette ligne est également traduite par : En se baignant dans le réservoir des saints de Dieu.
 
-[^8] : Sorath.
+[^8]: Sorath.

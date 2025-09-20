@@ -103,24 +103,24 @@ Tous ceux qui sont sans le Nom, Nanak, sont comme la poussière.
 
 <p style="text-align:center;">PAURI IV</p>
 
-D H. La poussière des pieds de ton serviteur est pure, ô Dieu ;
+D H. La poussière des pieds de ton serviteur est pure, _ô Dieu_ ;
 Bienheureux ceux dont l’âme le désire ;
 Ils ne veulent pas de richesses, ils ne désirent même pas le paradis ;
-Ils sont fascinés par l'amour du Très Cher et par la poussière des pieds du saint.
+Ils sont fascinés par l'amour du Très Cher et par la poussière des _pieds_ du saint.
 Pourquoi les affaires du monde devraient-elles affecter ceux
-Qui n'abandonne pas le Dieu unique ou ne va pas ailleurs pour l'adorer ? <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
+Qui n'abandonne pas le Dieu unique ou ne va pas ailleurs pour _l'adorer_ ? <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 Celui dans le cœur duquel Dieu a mis le Nom,
 Ô Nanak, tu es un parfait saint de Dieu.
 
 <p style="text-align:center;">SLOK V</p>
 
-Ce n’est pas en adoptant divers vêtements religieux, ni par la connaissance, ni par la méditation, ni par l’obstination que l’on obtient Dieu :
+Ce n’est pas en _adoptant_ divers vêtements religieux, ni par la connaissance, ni par la méditation, ni par l’obstination que l’on obtient Dieu :
 Dit Nanak, celui envers qui Dieu est miséricordieux est un saint et un possesseur de la connaissance divine.
 
 <p style="text-align:center;">PAURI V</p>
 
 N G. La connaissance divine ne consiste pas dans les paroles que la bouche prononce,
-Ni en extrayant différentes espèces d’arguments des Shastars.
+Ni en _extrayant_ différentes espèces d’arguments des Shastars.
 Celui qui possède la connaissance divine dans le cœur duquel Dieu est fermement fixé ;
 Ce n’est pas en discutant qu’il devient capable.
 Celui qui est strict dans son obéissance à l’ordre de Dieu possède la connaissance divine ;
@@ -177,7 +177,7 @@ C'est de Lui seul que procède toute la création. Nanak, Lui-même en est l'Arr
 
 <p style="text-align:center;">SLOK IX</p>
 
-L'homme continue d'aimer les femmes, les plaisirs et le tumulte des passions, choses passagères comme la teinture du carthame.[^10]
+L'homme continue d'aimer les femmes, les plaisirs et le tumulte des passions, _choses passagères_ comme la teinture du carthame.[^10]
 Nanak, prends la protection de Dieu et ton égoïsme disparaîtra.
 
 <p style="text-align:center;">PAURI IX</p>
@@ -197,7 +197,7 @@ Ceux qui s'associent aux saints et qui sont teints de la profonde teinture de l'
 
 <p style="text-align:center;">PAURI X</p>
 
-R. Teins ce cœur avec l'amour de Dieu ;
+R. Teins ce cœur _avec l'amour de Dieu_ ;
 Répète le nom de Dieu avec ta langue,
 Ainsi, personne ne t'adressera des paroles injurieuses dans la cour de Dieu ; chacun t'honorera en disant : « Viens, assieds-toi. » Dans ce palais, tu auras ta demeure.
 Là où il n’y a ni transmigration ni destruction.
@@ -218,7 +218,7 @@ L'homme agit comme Dieu l'ordonne.
 Il n’y a personne d’imparfait et personne de parfait ;
 Il n’y a personne de sage et personne de fou.
 Là où Dieu a désigné des hommes, ils accomplissent leurs devoirs.
-Nanak, le Seigneur, n'est jamais affecté par les affaires mondaines.[^13]
+Nanak, le Seigneur, n'est jamais affecté par les _affaires mondaines_.[^13]
 
 <p style="text-align:center;">SLOK XII</p>
 
@@ -264,7 +264,7 @@ Y. Allez et prenez la protection des saints,
 Grâce à l'aide de qui tu traverseras ce terrible océan.
 Y. Celui qui prend le seul Nom et le met dans son cœur,
 Ne renaîtra pas.
-Y. Grâce au soutien du Guru, tu ne perdras pas ta naissance humaine.
+Y. Grâce au soutien du Guru, tu ne perdras pas ta naissance _humaine_.
 Nanak, celui dans le cœur duquel réside le Dieu unique, a obtenu le bonheur.
 
 <p style="text-align:center;">SLOK XV</p>
@@ -325,7 +325,7 @@ Les hommes mangent, dépensent et jouissent [^17] d'eux-mêmes, mais les réserv
 <p style="text-align:center;">PAURI XVIII</p>
 
 K H. Avec ce Tout-Puissant, il n’y a pas de limite ;
-Il continue à donner ce qu'il juge juste de donner, partout où l'homme peut aller.
+Il continue à donner ce qu'il juge _juste de donner_, partout où l'homme peut aller.
 La richesse du Nom est le trésor dont les saints dépensent ; c'est leur capital.
 Avec patience, humilité, joie et calme, ils continuent à répéter les louanges de Dieu.
 Ceux envers qui Dieu est miséricordieux s'amusent et s'amusent.
@@ -461,9 +461,9 @@ d'excellence !
 
 Servez le seul Dieu, à qui personne n’invoque en vain ;
 S’Il habite dans ton âme, ton corps, ta bouche et ton cœur, tu obtiendras tout ce que tu désires.
-Celui envers qui le saint homme est bon, obtiendra le service par lequel la cour de Dieu sera gagnée.
+Celui envers qui le saint homme est bon, obtiendra le service par lequel la _cour de Dieu_ _sera gagnée_.
 Si Dieu est miséricordieux, tu demeureras en compagnie des saints.
-J'ai cherché dans de nombreux pays, mais je n'ai trouvé aucun bonheur sans le Nom.
+J'ai cherché dans de nombreux pays, mais je n'ai _trouvé_ aucun bonheur sans le Nom.
 Les ministres de la mort s’éloigneront de celui qui se joint à la société des saints ;
 Encore et encore je me sacrifie aux saints,
 _Par qui_, ô Nanak, les péchés d'autrefois sont effacés.
@@ -548,7 +548,7 @@ Tu obtiendras alors le fruit que ton cœur désire, et ton désir s’en ira.
 Celui dans le cœur duquel le Nom demeure, n’aura aucune crainte sur le chemin de la mort ;
 Son intelligence sera éclairée ; il obtiendra le salut et une place au tribunal de Dieu.
 Ni la richesse, ni la demeure, ni la jeunesse, ni l'empire ne partiront avec toi.
-En compagnie des saints, continue à te souvenir du nom de Dieu ; c'est cela qui te sera utile.
+En compagnie des saints, continue à te souvenir _du nom de Die_u ; c'est cela qui te sera utile.
 Il n’y aura plus de brûlure lorsque Dieu Lui-même enlèvera ta fièvre ;
 Nanak, Dieu Lui-même nous protège ; Il est notre mère et notre père.
 
@@ -615,8 +615,8 @@ Ceux qui, sous l’instruction du Guru, répètent le Nom, qui est un trésor,
 Ne périra pas par le poison de Mammon.
 Aucun refus ne l'attend
 À qui le Guru a donné le sort du Nom.
-Le nom de Dieu qui est plein de nectar est le trésor de la richesse :
-Nanak, des instruments de musique invaincus sonnent pour celui qui les répète.
+Le _nom_ de Dieu qui est plein de nectar est le trésor de la richesse :
+Nanak, des instruments de musique invaincus sonnent pour celui _qui les répète_.
 
 <p style="text-align:center;">SLOK XXXVII</p>
 
@@ -630,7 +630,7 @@ Des millions de pécheurs qui rencontrent les saints
 Et répétez le Nom ambroisial devenez pur.
 Celui que tu préserves toi-même, ô Seigneur de la terre,
 Perd toute tromperie, toute fraude et tout amour du monde.
-Dieu est empereur ; Lui seul a droit au parapluie au-dessus de sa tête :
+Dieu est empereur ; Lui _seul a droi_t au parapluie au-dessus de sa tête :
 Nanak, il n’y a pas d’autre souverain.
 
 <p style="text-align:center;">SLOK XXXVITI</p>
@@ -643,9 +643,9 @@ Nanak, la permanence est obtenue du Guru et la transmigration est effacée pour 
 P H. Ô âme, tu es de retour après de longues errances ;
 Dans cet âge Kal, tu as obtenu un corps _humain_ si difficile à obtenir ;
 Tu n’auras plus cette opportunité.
-Répétez le nom de Dieu, alors le nœud coulant de la Mort sera coupé,
+Répétez le nom de Dieu, alors le nœud coulant de _la Mort_ sera coupé,
 Et il n'y aura plus de transmigration pour toi.
-Prononcez le nom du Dieu unique ; c’est la véritable parole.
+Prononcez _le nom du Dieu_ unique ; c’est la _véritable_ parole.
 Aie pitié, ô Dieu Créateur,
 Et unis le pauvre Nanak à toi-même.
 
@@ -668,7 +668,7 @@ _Ô Dieu_, celui à qui tu fais connaître Te connaître, _dit_ Nanak, Te conna�
 <p style="text-align:center;">SLOK XL</p>
 
 Adorez de tout cœur Dieu qui est le destructeur de la peur et celui qui dissipe le péché et la tristesse ;
-Celui dans le cœur duquel Il demeure à travers la compagnie des saints ne s'égarera plus jamais, ô Nanak, dans la transmigration.
+Celui dans le cœur duquel Il demeure à travers la compagnie des saints ne s'égarera plus jamais, ô Nanak, _dans la transmigration_.
 
 <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
@@ -685,18 +685,18 @@ Les pieux qui ont effacé l'erreur, la peur et l'amour du monde, obtiendront, Na
 <p style="text-align:center;">SLOK XLI</p>
 
 À cause de la richesse, l'esprit vacille de plusieurs manières et s'emmêle ;
-Celui que Tu préserves, ô Dieu, de le demander, dit Nanak, aime le Nom.
+Celui que Tu préserves, ô Dieu, de le demander, _dit_ Nanak, aime le Nom.
 
 <p style="text-align:center;">PAURI XLI</p>
 
 M. Celui qui demande est stupide ;
 Le Donateur qui est sage continue à donner :
-Ce que Dieu donne, il le donne une fois pour toutes.
+Ce que Dieu donne, il le _donne_ une fois pour toutes.
 Ô homme insensé, pourquoi cries-tu à haute voix ?
 Quand tu pries, tu pries pour des choses du monde,
 Dont le bonheur ne résulte pour personne.
 Si vous priez pour quelque chose, alors priez pour le Dieu unique,
-Par qui, dit Nanak, tu seras sauvé.
+Par qui, _dit_ Nanak, tu seras sauvé.
 
 <p style="text-align:center;">SLOK XLII</p>
 
@@ -705,7 +705,7 @@ Nanak, ceux qui connaissent leur Dieu sont chanceux.
 
 <p style="text-align:center;">PAURI XLII</p>
 
-M. Celui qui connaît le secret de Dieu
+M. Celui qui connaît le secret _de Dieu_
 Est satisfait de rencontrer la compagnie des saints ;
 Il considère que le malheur et le bien-être sont identiques ;
 Il est exempté d’entrer en enfer ou au paradis :
@@ -751,14 +751,14 @@ Sont teints de l’amour du nom de Dieu et enivrés de sa saveur.
 <p style="text-align:center;">SLOK XLV</p>
 
 Les maladies de la cupidité, du mensonge et des autres péchés mortels infestent ce corps ;
-Mais les pieux qui boivent le remède du nectar de Dieu, ô Nanak, seront guéris.
+Mais les pieux qui boivent _le remède_ du nectar de Dieu, ô Nanak, seront guéris.
 
 <p style="text-align:center;">PAURI XLV</p>
 
 L. Lui, _ô Dieu_, à qui tu administres la médecine,
 Est immédiatement guéri de ses chagrins et de ses douleurs.
 Ce médicament est le Nom ; quiconque l'aime de tout son cœur Ne rêvera même pas de maladie.
-Le médicament du nom de Dieu est dans chaque cœur, mes frères.
+Le médicament du _nom_ de Dieu est dans chaque cœur, mes frères.
 À part le gourou parfait, personne ne sait comment le préparer.
 Celui dont le mode de vie a été désigné par le gourou parfait,
 Ô Nanak, tu ne tomberas plus jamais malade.
@@ -803,7 +803,7 @@ L'instruction du Guru, Nanak, demeure dans le cœur de celui sur le front duquel
 <p style="text-align:center;">PAURI XLVIII</p>
 
 S H. Fatigué de répéter les Shastars, les Simritis et les Veds,
-Nous sommes maintenant entrés, ô Dieu, dans ton asile.
+Nous sommes maintenant entrés, _ô Dieu_, dans ton asile.
 Dans mes recherches, je suis arrivé à cette conclusion,
 Que sans adorer Dieu, il n’y a pas de délivrance.
 Nous faisons constamment des erreurs ;
@@ -821,7 +821,7 @@ Nanak, et Celui qui est digne de louange devient manifeste.
 K H. Louez Dieu avec générosité
 Qui en un instant peut remplir à ras bord ce qui est vide.
 Quand un mortel est complètement humble,
-Il répète nuit et jour le nom du Dieu éternel.
+Il répète nuit et jour _le nom_ du Dieu éternel.
 Le Seigneur donne le bonheur à ceux qui lui plaisent.
 L'Être suprême infini est si puissant,
 Qu’Il peut en un instant pardonner d’innombrables péchés :
@@ -840,7 +840,7 @@ Même si tu pratiques mille formes d’intelligence,
 Rien ne te sera utile.[^33]
 Jour et nuit répétez Son _nom_,
 Ô mon âme, qui ira avec toi.
-Celui que Dieu lui-même applique au service du saint,
+Celui que _Dieu_ lui-même applique au service du saint,
 Nanak, ne te sentira jamais malheureux.
 
 <p style="text-align:center;">SLOK LI</p>
@@ -868,19 +868,19 @@ Dit Nanak, ô Toi Qui pardonne, pardonne-nous et sauve-nous.
 
 <p style="text-align:center;">PAURI LII</p>
 
-L’homme est déloyal et pécheur ; il est étranger à Dieu et de peu de sagesse ;
-Il ne connaît pas l’Essence de toutes choses, celle qui lui a donné l’âme, le corps et le bonheur.
+L’homme est déloyal et pécheur ; il est étranger _à Dieu_ et de peu de sagesse ;
+Il ne connaît pas l’Essence de _toutes choses_, celle qui lui a donné l’âme, le corps et le bonheur.
 Pour le gain terrestre, il va chercher dans toutes les directions ;
 Dieu, le Donateur, le Dispensateur, il ne garde pas un seul instant de trésor dans son cœur.
 La cupidité, le mensonge, le péché, l’amour du monde, voilà ce qu’il garde dans son cœur.
-Il passe sa vie avec de grands adultères, des voleurs et des calomniateurs.
+Il passe _sa vie_ avec de grands adultères, des voleurs et des calomniateurs.
 Si cela te plaît, ô Dieu, pardonne la contrefaçon comme l'authentique. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 _Dit_ Nanak, ô Dieu suprême, si cela te plaît, les pierres flotteront sur l'eau.
 
 <p style="text-align:center;">SLOK LIII</p>
 
 En mangeant, en buvant, en jouant et en riant, nous avons erré dans de nombreuses naissances ;
-Ô Dieu, sauve-nous du terrible océan, prie Nanak ; nous comptons sur toi.
+Ô Dieu, sauve-nous du terrible océan, _prie_ Nanak ; nous comptons sur toi.
 
 <p style="text-align:center;">PAURI LIII</p>
 
@@ -888,9 +888,9 @@ Après avoir à la fois profité et souffert de la douleur de nombreuses naissan
 Les problèmes sont éliminés en rencontrant le saint homme et en étant absorbé par les instructions du véritable gourou.
 L’homme qui adopte le contentement amasse la vérité et vit de l’ambroisie du Nom.
 La miséricorde de Dieu est véritable ; j’ai trouvé mon refuge dans la joie et le bonheur.
-Ma cargaison est arrivée à bon port ; j'ai réalisé un grand profit et je rentre chez moi avec honneur.
+Ma cargaison est arrivée à bon port ; _j'ai réalisé un grand_ profit et je rentre chez moi avec honneur.
 La consolation que le gourou m’a donnée est authentique : j’ai rencontré Dieu à mon retour.
-Dieu lui-même a agi et agit ; il était au commencement et sera à la fin.
+Dieu lui-même a agi et agit ; _il était_ au commencement et _sera_ à la fin.
 Nanak, louez Celui qui est contenu dans chaque cœur.
 
 <p style="text-align:center;">SLOK LIV</p>
@@ -967,19 +967,19 @@ Nanak s'incline devant le divin Guru, le vrai Guru, le suprême Brahm, le Dieu s
 
 [^1]: Les mots _bawan akhari_ désignent les cinquante-deux lettres du sanskrit. Un nombre similaire de mots à signification religieuse sont introduits et développés. L'intention était que leurs initiales soient dans l'ordre des lettres sanskrites, mais, pour une raison jusqu'ici inexpliquée, la disposition prévue n'a pas été respectée. Les sloks du Bawan Akhari ont une portée religieuse générale ; c'est dans les Pauris que se trouvent les mots choisis pour l'exposition. Le Bawan Akhari se compose au total de cinquante-cinq sloks et pauris.
 
-[^2] : En Inde, la mère est placée en premier. En anglais, selon l'idiome grec, la priorité est donnée au père.
+[^2]: En Inde, la mère est placée en premier. En anglais, selon l'idiome grec, la priorité est donnée au père.
 
-[^3] : _Sahodara_, de _sah_, le même, et _udar_, l'utérus. Comparer le grec adelphos et sa dérivation ordinaire de _a_, et _delphus_, l'utérus.
+[^3]: _Sahodara_, de _sah_, le même, et _udar_, l'utérus. Comparer le grec adelphos et sa dérivation ordinaire de _a_, et _delphus_, l'utérus.
 
-[^4] : _Mant nirodhara_. Les gyanis traduisent : le sort le plus puissant pour sauver. Il s'agit cependant du sanskrit _niruddhar mantar_ tel que traduit dans le texte.
+[^4]: _Mant nirodhara_. Les gyanis traduisent : le sort le plus puissant pour sauver. Il s'agit cependant du sanskrit _niruddhar mantar_ tel que traduit dans le texte.
 
-[^5] : Akar. Littéralement : formes, corps.
+[^5]: Akar. Littéralement : formes, corps.
 
 [^6]: Afin qu'ils soient sous sa puissance.
 
-[^7] : Soit dans l'utérus, soit après la naissance. D'autres traduisent : soit dans ce monde, soit dans l'autre.
+[^7]: Soit dans l'utérus, soit après la naissance. D'autres traduisent : soit dans ce monde, soit dans l'autre.
 
-[^8] : _Trigun_. Littéralement : les trois qualités qui prévalent dans le monde.
+[^8]: _Trigun_. Littéralement : les trois qualités qui prévalent dans le monde.
 
 [^9]: Également traduit par : L'homme fait le bien et le mal selon le destin, comme Dieu lui-même l'a ordonné.
 
@@ -996,28 +996,28 @@ amer comme du poison.
 
 [^15]: Les quatre points cardinaux, les quatre points intermédiaires, le ciel au-dessus et la terre en dessous.
 
-[^16] : Littéralement, rien n’arrive deux fois.
+[^16]: Littéralement, rien n’arrive deux fois.
 
 [^17]: Les hommes s'amusent et, ce faisant, gaspillent.
 
-[^18] : La torture infligée par le dieu de la mort.
+[^18]: La torture infligée par le dieu de la mort.
 
 [^19]: Également traduit par : tu seras sauvé.
 
-[^20] : Littéralement : tombera comme les feuilles des arbres.
+[^20]: Littéralement : tombera comme les feuilles des arbres.
 
 [^21]: Ce slok est récité par les ménestrels sikhs lorsqu'ils commencent à chanter,
 et également par les lecteurs du Granth Sahib à son ouverture.
 
 [^22]: C'est-à-dire Dieu.
 
-[^23] : _Bhadu_, béni, heureux, du sanskrit _dhaddra_. Il pourrait cependant s'agir d'une déformation du mot _bahadur_, brave, héros. Si l'on lit _so sobha du hoi_, la traduction sera : Il sera honoré dans les deux mondes.
+[^23]: _Bhadu_, béni, heureux, du sanskrit _dhaddra_. Il pourrait cependant s'agir d'une déformation du mot _bahadur_, brave, héros. Si l'on lit _so sobha du hoi_, la traduction sera : Il sera honoré dans les deux mondes.
 
 [^24]: _Mani_, considérer les choses comme si elles étaient les siennes.
 
 [^25]: Ceci est expliqué pour signifier qu'il sera très humble.
 
-[^26] : Métaphore issue des querelles de propriétaires fonciers indiens. Sur une parcelle disputée, un prétendant avance son pied, son adversaire fait de même. Dans le texte, l'expression signifie « mettre tout à sa portée ».
+[^26]: Métaphore issue des querelles de propriétaires fonciers indiens. Sur une parcelle disputée, un prétendant avance son pied, son adversaire fait de même. Dans le texte, l'expression signifie « mettre tout à sa portée ».
 
 [^27]: Tu n'erreras plus dans la transmigration.
 
@@ -1027,9 +1027,9 @@ et également par les lecteurs du Granth Sahib à son ouverture.
 
 [^30]: Également traduit : Celui qui remplit chaque cœur jouit du bonheur de Dieu.
 
-[^31] : Littéralement — innombrables.
+[^31]: Littéralement — innombrables.
 
-[^32] : Ordonner à Dieu d'une manière familière d'accorder des faveurs terrestres, comme envoyer la pluie, guérir les maladies, donner des fils aux parents, etc. — une pratique des Brahmanes.
+[^32]: Ordonner à Dieu d'une manière familière d'accorder des faveurs terrestres, comme envoyer la pluie, guérir les maladies, donner des fils aux parents, etc. — une pratique des Brahmanes.
 
 [^33]: Littéralement : aucun d’entre eux n’ira avec toi.
 
@@ -1038,6 +1038,6 @@ et également par les lecteurs du Granth Sahib à son ouverture.
 
 [^35]: Le compte de l'homme auprès de Dieu est toujours débiteur.
 
-[^36] : _Akhar_. Littéralement : une lettre. Il existe cependant un jeu de mots. Il signifie également « indestructible », du sanskrit, une négation, et _kshar_, destruction.
+[^36]: _Akhar_. Littéralement : une lettre. Il existe cependant un jeu de mots. Il signifie également « indestructible », du sanskrit, une négation, et _kshar_, destruction.
 
 [^37]: Ce slok et ce pauri LV sont chantés par les Sikhs à la fin de l'intonation d'un passage du Granth Sahib.

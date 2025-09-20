@@ -331,6 +331,6 @@ Tandis qu'ils continuaient leur errance, Mardana eut de nouveau faim et sortit s
 
 [^2]: Sri Râg.
 
-[^1] : _Jatis_, hommes voués à la continence perpétuelle.
+[^1]: _Jatis_, hommes voués à la continence perpétuelle.
 
 [^1]: Comme.

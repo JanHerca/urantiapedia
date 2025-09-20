@@ -288,7 +288,7 @@ Puis le gourou partit de là.
 
 ## Notes de bas de page
 
-[^1] : _Thâl_, assiettes posées sur un bâton et tournées.
+[^1]: _Thâl_, assiettes posées sur un bâton et tournées.
 
 [^2]: De rien.
 
@@ -302,7 +302,7 @@ Puis le gourou partit de là.
 
 [^1]: Dans le Granth Sahib, Dieu est le marchand en gros de qui proviennent toutes les grâces et tous les bons dons, et les hommes sont les commerçants qui reçoivent de Lui.
 
-[^2] : Suhi.
+[^2]: Suhi.
 
 [^3]: Les Jogis soufflent dans des cornes de cerf.
 
@@ -310,23 +310,23 @@ Puis le gourou partit de là.
 
 [^5]: _Târi lagâna_ consiste à s'asseoir les jambes croisées dans une attitude contemplative comme Bouddha est représenté.
 
-[^1] : Suhi.
+[^1]: Suhi.
 
 [^2]: Bénarès, en sanskrit Bârânasi, est dérivé de Barna et Asi, deux affluents du Gange.
 
-[^3] : Une pierre quartzeuse portant l'empreinte d'ammonites et que les hindous croient représenter Vishnu pétrifié par une malédiction de Brinda pour l'avoir possédée sous les traits de son époux. On trouve des sâlagrams dans les rivières Gandika et Son.
+[^3]: Une pierre quartzeuse portant l'empreinte d'ammonites et que les hindous croient représenter Vishnu pétrifié par une malédiction de Brinda pour l'avoir possédée sous les traits de son époux. On trouve des sâlagrams dans les rivières Gandika et Son.
 
 [^4]: Indique ainsi qu'il était dédié au dieu Vishnu.
 
-[^1] : Basant.
+[^1]: Basant.
 
-[^2] : Le corps.
+[^2]: Le corps.
 
 [^3]: Le cœur.
 
 [^4]: Espoir et désir.
 
-[^5] : L'amour et la haine.
+[^5]: L'amour et la haine.
 
 [^1]: Le feu des mauvaises passions.
 
@@ -356,7 +356,7 @@ Puis le gourou partit de là.
 
 [^5]: _Chhamchari_, ceux qui ont marché sur la terre, les mânes des ancêtres.
 
-[^6] : Jésus.
+[^6]: Jésus.
 
 [^7]: En Inde, on jette de la poudre rouge sur les passants lors des festivités. Cette pratique est particulièrement répandue à l'occasion de Holi, une saturnale hindoue.
 
@@ -364,11 +364,11 @@ Puis le gourou partit de là.
 
 [^1]: On suppose que l'homme recevra dans l'autre monde les choses qui formaient l'objet de ses dernières pensées en celui-ci. Celui qui n'a pas fixé ses pensées sur Dieu au dernier moment ne le trouvera pas, mais recommencera un nouveau parcours de transmigration. Voir _Trilochan, Gûjari_, vol. vi.
 
-[^2] : Lunettes Sri Rag.
+[^2]: Lunettes Sri Rag.
 
 [^1]: Les musulmans brûlent leurs morts. Les hindous les incinèrent ou les jettent dans leurs cours d'eau sacrés.
 
-[^2] : Chanâ, _Cicer arietinum_, pois chiches, huile dont on nourrit les chevaux en Inde. Les Européens l'appellent gram. Rôti vert, il est parfois consommé par les classes les plus pauvres.
+[^2]: Chanâ, _Cicer arietinum_, pois chiches, huile dont on nourrit les chevaux en Inde. Les Européens l'appellent gram. Rôti vert, il est parfois consommé par les classes les plus pauvres.
 
 [^1]: Littéralement — Conduite — le cœur étant le papier — l'encre.
 
@@ -376,11 +376,11 @@ Puis le gourou partit de là.
 
 [^3]: Maru.
 
-[^1] : Des voleurs indiens qui accomplissent généralement leurs actes en utilisant des drogues stupéfiantes et toxiques.
+[^1]: Des voleurs indiens qui accomplissent généralement leurs actes en utilisant des drogues stupéfiantes et toxiques.
 
 [^2]: Également traduit : La calomnie des autres est la saleté de notre prochain, le langage grossier est un balayeur, la colère est un feu.
 
-[^1] : Sri Rag.
+[^1]: Sri Rag.
 
 [^2]: _Mushâiq_. C'est l'arabe _mashshâq_, un lutteur.
 

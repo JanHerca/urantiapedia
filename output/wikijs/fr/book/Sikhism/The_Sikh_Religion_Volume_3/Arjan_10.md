@@ -50,7 +50,7 @@ L'œuf de la superstition a éclaté ; l'esprit est illuminé :
 Le gourou a coupé les chaînes des pieds et libéré le captif.
 Ma transmigration est terminée.
 Le chaudron chauffé est devenu froid ; le gourou a donné le nom de refroidissement.
-Depuis que le saint homme est avec moi, les myrmidons de la mort qui me guettaient m'ont quitté.
+Depuis que le saint homme est avec moi, les _myrmidons de la mort_ qui me guettaient m'ont quitté.
 J'ai été délivré de celui qui me retenait ; que me fera maintenant le juge ?
 Le poids de mon karma est enlevé ; j’en suis libéré.
 De la mer j'ai atteint le rivage ; le gourou m'a fait cette faveur.
@@ -59,18 +59,18 @@ La vérité est le capital ; la vérité le fonds de commerce que Bana a mis dan
 
 Lorsque Chandu menaça de soumettre le gourou à de nouvelles tortures, il s'adressa à lui en ces termes :
 
-La terre, le firmament et les étoiles sont sous l’influence de la peur ; au-dessus de leurs têtes règne une loi immuable.
+La terre, le firmament et les étoiles _sont sous l’influence_ de la peur ; au-dessus de leurs têtes règne une loi immuable.
 Le vent, l'eau et le feu sont sous l'influence de la peur ; Indar, lui aussi, est impuissant.
 Il n’y a qu’un seul Dieu sans crainte, comme je l’ai entendu.
 Celui qui, rencontrant le gourou, chante les louanges de Dieu est heureux et toujours en paix.<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 Les êtres corporels et les dieux sont sous l’influence de la peur ; les Sidhs et leurs disciples sont morts de peur.
-Les quatre-vingt-quatre lakhs d'êtres qui meurent et naissent, qui sont sans cesse attachés à des utérus, sont sous l'influence de la peur.
-Tous les êtres que Tu as créés, ô Dieu, sous l'influence de la passion, de la bonté et des ténèbres sont sous l'influence de la peur.
-Lakshmi[^2] impuissante, celle qui produit l'illusion, est sous l'influence de la peur, et Dharmraj l'est aussi grandement.
+Les quatre-vingt-quatre lakhs d'êtres qui meurent et naissent, qui sont sans cesse attachés à des utérus, sont _sous l'influence de la peur_.
+Tous les êtres que Tu as créés, _ô Dieu_, sous _l'influence de la passion_, de la bonté et des ténèbres sont sous l'influence de la peur.
+Lakshmi[^2] impuissante, celle qui _produit_ l'illusion, est sous l'influence de la peur, et Dharmraj l'est aussi grandement.
 Toutes choses sont remplies de peur, seul le Créateur en est dépourvu.
 Nanak dit : Dieu est le compagnon des saints ; les saints ornent sa cour[^3] _et sont donc sans crainte_.
 
-Plusieurs jogis et religieux qui avaient rencontré le gourou et apprécié sa sincérité et ses doctrines élevées allèrent lui témoigner leur compassion dans ses afflictions. Mian Mir, le saint musulman de Lahore, vint également lui verser ses larmes de compassion. Il trouva le corps du gourou couvert de cloques et de suppuration, et lui demanda la permission de supplier l'empereur pour sa libération et le châtiment de ses tortionnaires. Le gourou lui demanda de lever les yeux au ciel. Ce faisant, dit-on, Mian Mir vit des anges implorer le gourou de détruire les méchants, les orgueilleux et les pervers. Face à cette vision surnaturelle, Mian Mir demanda au gourou pourquoi, alors qu'il possédait un pouvoir surhumain, il consentait à endurer les souffrances de ces vils pécheurs. Le gourou répondit : « Je supporte toutes ces tortures pour donner l'exemple aux maîtres du Vrai Nom, afin qu'ils ne perdent pas patience ni n'injurient Dieu dans l'affliction. La véritable épreuve de la foi, c'est l'heure du malheur. » Sans exemples pour les guider, l'esprit des gens ordinaires vacille au milieu de la souffrance. Deuxièmement, si celui qui possède le pouvoir intérieur ne défend pas sa religion en la professant ouvertement, celui qui ne possède pas un tel pouvoir abjurera sa foi sous la torture. Le péché retombera sur celui qui possède le pouvoir mais ne le manifeste pas ; et Dieu le considérera comme un ennemi de la religion. Troisièmement, le corps est naturellement sujet au malheur et au bien-être, mais pas l'esprit. Le corps est périssable, l'âme impérissable. Ignorer par l'exercice d'un pouvoir surnaturel la loi de la nature qui s'applique à toute chose périssable, et ainsi engendrer l'orgueil dans le cœur, serait une folie suprême. En entendant cela, Mian Mir partit en louant le courage du gourou et en chantant ses louanges.
+Plusieurs jogis et religieux qui avaient rencontré le gourou et apprécié sa sincérité et ses doctrines élevées allèrent lui témoigner leur compassion dans ses afflictions. Mian Mir, le saint musulman de Lahore, vint également lui verser ses larmes de compassion. Il trouva le corps du gourou couvert de cloques et de suppuration, et lui demanda la permission de supplier l'empereur pour sa libération et le châtiment de ses tortionnaires. Le gourou lui demanda de lever les yeux au ciel. Ce faisant, dit-on, Mian Mir vit des anges implorer le gourou de détruire les méchants, les orgueilleux et les pervers. Face à cette vision surnaturelle, Mian Mir demanda au gourou pourquoi, alors qu'il possédait un pouvoir surhumain, il consentait à endurer les souffrances de ces vils pécheurs. Le gourou répondit : « Je supporte toutes ces tortures pour donner l'exemple aux maîtres du Vrai Nom, afin qu'ils ne perdent pas patience ni n'injurient Dieu dans l'affliction. La véritable épreuve de la foi, c'est l'heure du malheur. » Sans exemples pour les guider, l'esprit des gens ordinaires vacille au milieu de la souffrance. Deuxièmement, si celui qui possède le pouvoir intérieur ne défend <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> pas sa religion en la professant ouvertement, celui qui ne possède pas un tel pouvoir abjurera sa foi sous la torture. Le péché retombera sur celui qui possède le pouvoir mais ne le manifeste pas ; et Dieu le considérera comme un ennemi de la religion. Troisièmement, le corps est naturellement sujet au malheur et au bien-être, mais pas l'esprit. Le corps est périssable, l'âme impérissable. Ignorer par l'exercice d'un pouvoir surnaturel la loi de la nature qui s'applique à toute chose périssable, et ainsi engendrer l'orgueil dans le cœur, serait une folie suprême. En entendant cela, Mian Mir partit en louant le courage du gourou et en chantant ses louanges.
 
 Sur ce, les ennemis du gourou le torturèrent de nouveau. Ils le tinrent assis pendant trois heures dans un chaudron chauffé par un feu ardent. Le gourou était presque mort, mais il refusa même de se soumettre aux conditions de Chandu, à savoir permettre à son fils Har Gobind d'épouser sa fille.
 
@@ -80,7 +80,7 @@ Le gourou répéta également ce qui suit pendant la période de sa torture :
 
 Quand de très grandes difficultés surviennent et que personne n’en reçoit un ;
 Quand les ennemis poursuivent et que les parents s'enfuient ;
-Lorsque tous ceux dont l'homme attendait de l'aide auront fui et que tout secours sera terminé,
+Lorsque tous ceux dont l'homme _attendait_ de l'aide auront fui et que tout secours sera terminé,
 S'il se souvient alors de Dieu, aucun vent chaud ne le frappera.
 Dieu est la force des faibles.
 Il ne vient ni ne s'en va ; Il est permanent à jamais ; par l'instruction du Guru, reconnaissez-Le comme le Vrai.
@@ -93,14 +93,14 @@ S'il est lié à son foyer et à sa famille, il ressent alternativement de la jo
 S'il erre dans tous les sens et ne peut se reposer même un instant,
 Mais s’il pense à Dieu, son corps et son âme seront heureux.
 L'homme peut être sous le pouvoir de la luxure, de la colère et de la convoitise ; il peut devenir avare par amour de la cupidité ;
-Il peut avoir commis les quatre grands péchés[^4] et tous les péchés véniels ; il peut être un démon à détruire ;
-Il n’a peut-être jamais écouté de livres sacrés, d’hymnes et de poésie ;
+Il peut avoir commis les quatre grands péchés[^4] et tous les péchés _véniels_ ; il peut être un démon à détruire ;
+Il n’a peut-être jamais écouté de livres _sacrés_, d’hymnes et de poésie ;
 Mais il sera sauvé s’il pense à Dieu et répète son nom même un instant.
 Même si l’homme répète par cœur les Shastars, les Simritis et les quatre Veds ;
 Qu'il soit pénitent, chef de pénitents ou jogi et qu'il ait fait tous les pèlerinages ;
 Bien qu'il accomplisse les six devoirs deux fois, bien qu'il se baigne et accomplisse un culte,
 Mais s’il n’aime pas le Dieu suprême, il ira assurément en enfer.
-L'homme peut avoir un empire, une domination et une principauté ; les jouissances peuvent être dispersées autour de lui ;
+L'homme peut avoir un empire, une domination et une principauté ; les jouissances peuvent être dispersées autour _de lui_ ;
 Il peut avoir des jardins charmants et magnifiques, et ses ordres peuvent être tels qu’ils ne peuvent être désobéis ;
 Il peut avoir des divertissements et des spectacles de toutes sortes, et il peut continuer à se consacrer au plaisir ;
 Mais s’il ne pense pas au Dieu suprême, il renaîtra comme un serpent.
@@ -113,7 +113,7 @@ Il ne pense peut-être pas à la mort, mais jour et nuit il s'amuse ;
 Il a peut-être tout fait sien et ne craindre personne ;
 Mais s’il ne pense pas au Dieu suprême, il tombera sous le pouvoir des myrmidons de la Mort.
 Celui envers qui le Dieu suprême est miséricordieux obtient la société des saints.
-Plus cette association augmente, plus grand est son amour pour Dieu.
+Plus cette _association_ augmente, plus grand est son amour pour Dieu.
 Il est le Seigneur des deux mondes ; il n’y a pas de lieu de repos en dehors de Lui.
 Si le vrai gourou est satisfait, Nanak obtiendra le vrai nom.
 
@@ -129,11 +129,11 @@ Pendant cinq jours, le gourou subit des tortures, puis demanda la permission de 
 
 Chandu envoya avec son prisonnier une escorte de soldats armés d'épées et de fusils à mèche. Il leur ordonna de surveiller étroitement le gourou. Ils ne devaient parler à personne en chemin, de peur de révéler les souffrances du gourou. Ils reçurent également l'ordre de ne laisser le gourou faire aucun détour, mais de continuer tout droit et de ne pas s'arrêter avant d'avoir atteint la rive. Pendant que le gourou se baignait puis se séchait, les soldats ne devaient ni lui adresser la parole ni l'interrompre. Ils devaient ensuite revenir avec lui et le maintenir, lui et ses sikhs, devant eux afin qu'il ne puisse pas s'échapper.
 
-Le gourou s'enveloppa d'un long drap et partit. Tout son corps était couvert d'ampoules, et la plante de ses pieds était douloureuse et suppurée. Cherchant où il pourrait marcher sans souffrir, il avança très lentement. Apercevant son serviteur Pirana près de lui, il s'appuya sur son épaule et sortit de la ville par un guichet donnant sur la rivière. Plusieurs personnes s'inclinèrent à son passage. « Les spectateurs furent étonnés de le voir affaibli par la faim et la souffrance, et dirent : “Dans quel état voyage le gourou !” » Son esprit, cependant, semblait recueilli et fixé sur la méditation divine, comme dans ses premiers jours heureux. Sa dévotion, telle une montagne inébranlable, ne fut en rien affectée par ses souffrances physiques.
+Le gourou s'enveloppa d'un long drap et partit. Tout son corps était couvert d'ampoules, et la plante de ses pieds était douloureuse et suppurée. Cherchant où il pourrait marcher sans souffrir, il avança <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> très lentement. Apercevant son serviteur Pirana près de lui, il s'appuya sur son épaule et sortit de la ville par un guichet donnant sur la rivière. Plusieurs personnes s'inclinèrent à son passage. « Les spectateurs furent étonnés de le voir affaibli par la faim et la souffrance, et dirent : “Dans quel état voyage le gourou !” » Son esprit, cependant, semblait recueilli et fixé sur la méditation divine, comme dans ses premiers jours heureux. Sa dévotion, telle une montagne inébranlable, ne fut en rien affectée par ses souffrances physiques.
 
 Arrivé au Ravi d'un pas lent et pénible, il prit un peu d'eau froide – fraîchement fondue des glaces de l'Himalaya – et s'en lava les pieds et les mains. Il entra ensuite dans l'eau et se lava tout le corps. Pendant ce temps, il récitait avec une grande dévotion le Japji, qui confère le salut aux Sikhs. Ses hommes, qui l'entouraient comme un halo, suivirent son exemple. Le gourou s'inclina à la fin de ses dévotions et s'adressa ainsi à ses Sikhs : « J'ai réussi à atteindre le but de ma vie. Allez trouver mon fils, le saint Har Gobind, et apportez-lui de ma part une ample consolation. Qu'il ne se lamente pas et ne se livre pas à des lamentations indignes, mais chante les louanges de Dieu. Qu'il préserve également les autres membres de ma famille de tout chagrin. Qu'il siège sur son trône, armé jusqu'aux dents, et qu'il maintienne une armée du mieux qu'il peut. » Qu'il applique le signe distinctif de Guru sur son front, selon l'ancienne coutume, et qu'il traite toujours ses Sikhs avec la plus grande courtoisie. Qu'il honore Bhai Budha et, à tous égards, à l'exception du port des armes prescrit par la présente, qu'il adopte les pratiques des précédents Guru. N'incinérez pas mon corps, mais laissez-le couler sur le sein de ce fleuve.
 
-Ayant ainsi parlé, le gourou vit un ménestrel s'approcher avec un instrument à deux cordes et l'invita à s'asseoir dans un endroit agréable près de la rivière, à chanter les hymnes du gourou et à s'accompagner de son instrument. Le ménestrel se mit alors à chanter avec beaucoup d'émotion et d'expression, sur quoi les armées célestes se pressèrent pour écouter, assister au départ du gourou et le féliciter de sa victoire sur la torture et la tyrannie. Certains racontèrent les exploits du gourou, tandis que d'autres écoutaient avec admiration. Ils juraient que la terre elle-même n'avait pas la patience du gourou. Rien, animé ou inanimé, ne pouvait lui être comparé. « Il a fait preuve d'une patience et d'une endurance extrêmes, même si, s'il avait choisi d'exercer son pouvoir miraculeux, il aurait pu éviter ses souffrances. » Il n'a jamais songé à se venger de son ennemi ; ses louanges ne conviennent qu'à lui-même, pour avoir enduré d'extrêmes souffrances sans y prêter attention. Il vient maintenant parmi nous pour demeurer dans la gloire et la félicité après sa misère terrestre.
+Ayant ainsi parlé, le gourou vit un ménestrel s'approcher avec un instrument à deux cordes et l'invita à s'asseoir dans un endroit agréable près de la rivière, à chanter les hymnes du gourou et à s'accompagner de son instrument. Le ménestrel se mit alors <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> à chanter avec beaucoup d'émotion et d'expression, sur quoi les armées célestes se pressèrent pour écouter, assister au départ du gourou et le féliciter de sa victoire sur la torture et la tyrannie. Certains racontèrent les exploits du gourou, tandis que d'autres écoutaient avec admiration. Ils juraient que la terre elle-même n'avait pas la patience du gourou. Rien, animé ou inanimé, ne pouvait lui être comparé. « Il a fait preuve d'une patience et d'une endurance extrêmes, même si, s'il avait choisi d'exercer son pouvoir miraculeux, il aurait pu éviter ses souffrances. » Il n'a jamais songé à se venger de son ennemi ; ses louanges ne conviennent qu'à lui-même, pour avoir enduré d'extrêmes souffrances sans y prêter attention. Il vient maintenant parmi nous pour demeurer dans la gloire et la félicité après sa misère terrestre.
 
 La mort du gourou eut lieu le quatrième jour de la moitié claire du mois de Jeth, Sambat 1663 (juin 1606 après J.-C.).
 
@@ -176,11 +176,11 @@ J'ai prononcé les compositions et les hymnes de Dieu.
 
 ## Remarques
 
-[^1] : Maru.
+[^1]: Maru.
 
 [^2]: Lakshmi est ici appelée Kaula (Kamala) ou l'habitant du lotus.
 
-[^3] : Maru.
+[^3]: Maru.
 
 [^4]: Guru Amar Das donne dans ses sloks supplémentaires les quatre péchés que les hindous considèrent comme les plus odieux.
 

@@ -42,7 +42,7 @@ Les guerres de Gur Das sont au nombre de quarante. Chaque guerre est divisée en
 
 L'avantage de la société des saints :—
 
-Les arbres qui poussent près du santal sont parfumés comme le santal. Si l'un des huit métaux est touché par la pierre philosophale, il se transforme en or. De même que les rivières, les ruisseaux et les cours d'eau qui se jettent dans le Gange deviennent le Gange, ainsi la société des saints sauve les pécheurs et lave les impuretés du péché. Elle sauve d'innombrables âmes de l'enfer et s'associe à des centaines de milliers de perdus. Les saints voient Dieu au milieu d'eux.[^1]
+Les arbres qui poussent près du santal sont parfumés comme le santal. Si l'un des huit métaux est touché par la pierre philosophale, il se transforme en or. De même que les rivières, les ruisseaux et les cours d'eau <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> qui se jettent dans le Gange deviennent le Gange, ainsi la société des saints sauve les pécheurs et lave les impuretés du péché. Elle sauve d'innombrables âmes de l'enfer et s'associe à des centaines de milliers de perdus. Les saints voient Dieu au milieu d'eux.[^1]
 
 En fréquentant le sacré, on trouve la voie de l'union avec Dieu dans son propre foyer. Chérir les enseignements du gourou, c'est obtenir le salut.[^2]
 
@@ -55,7 +55,7 @@ La foi des Sikhs est fixe, et par elle l’homme est absorbé en Dieu.
 Des centaines de milliers de groupes de Sikhs forment un seul groupe et n'ont pas de fausse fierté, c'est-à-dire qu'ils ne nourrissent pas de mépris les uns pour les autres en raison de la fierté de la naissance.[^4]
 La voie du sikhisme est étroite ; elle est plus tranchante que le fil d'une épée et plus fine qu'un cheveu. Aucune croyance ne lui est égale, ni dans le passé, ni dans le présent, ni dans l'avenir. Il n'y a pas de second Dieu ; il n'y a qu'un seul Dieu dans cette maison.[^5]
 Il n’y a qu’un point de différence entre le saint et l’impie :
-Il n'y a qu'un pas du sacré au profane. Par exemple, le mot _maharam_ (saint), par l'ajout d'un point, devient _mujaram_ (criminel). Les sikhs, par ailleurs raisonnables, dans un état d'égarement, se ruinent l'esprit en participant à des cérémonies superstitieuses.[^6] Ceux qui sont subordonnés au gourou accomplissent son service et gardent leurs secrets pour eux.[^7]
+Il n'y a qu'un pas du sacré au profane. Par exemple, le mot _maharam_ (saint), par l'ajout d'un point, devient _mujaram_ (criminel). Les sikhs, par ailleurs raisonnables, dans un état d'égarement, se ruinent l'esprit en participant à <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> des cérémonies superstitieuses.[^6] Ceux qui sont subordonnés au gourou accomplissent son service et gardent leurs secrets pour eux.[^7]
 
 L'unité des Sikhs :—
 
@@ -81,7 +81,7 @@ Le Sikh qui reçoit l’instruction du Guru est réellement un Sikh. [^15]
 
 Sur instruction du gourou, les quatre castes furent fusionnées en une seule société de saints. Les disciples du gourou adoptèrent une couleur rouge, semblable à celle du bétel, fabriqué à partir de quatre ingrédients : feuille de bétel, noix de bétel, cachou et citron vert.[^15]
 
-Le véritable gourou, le véritable roi, conduit les saints sur la voie du salut. Il retient les péchés capitaux, les mauvaises inclinations et l'amour du monde. Les Sikhs passent leur temps à se souvenir de la Parole avec dévotion, et c'est pourquoi la Mort, le collecteur d'impôts, ne les approche pas. Le gourou a dispersé les apostats et installé la guilde des saints au Paradis. Par le charme du Nom, il a inculqué l'amour, la dévotion, la crainte, la charité et les ablutions. Comme le lotus reste sec dans l'eau, ainsi le gourou préserve le saint homme de l'influence du monde. Les Sikhs s'effacent et ne s'affirment pas.[^16]
+Le véritable gourou, le véritable roi, conduit les saints sur la voie du salut. Il retient les péchés capitaux, les mauvaises inclinations et l'amour du monde. Les Sikhs passent leur temps à se souvenir de la Parole avec dévotion, et c'est pourquoi la Mort, le collecteur d'impôts, ne les approche pas. Le gourou a dispersé les apostats et installé la guilde des saints au Paradis. Par le charme du Nom, il a <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> inculqué l'amour, la dévotion, la crainte, la charité et les ablutions. Comme le lotus reste sec dans l'eau, ainsi le gourou préserve le saint homme de l'influence du monde. Les Sikhs s'effacent et ne s'affirment pas.[^16]
 
 L'instruction du Guru enseigne à louer Wahguru. Les Veds l'ignorent et Sheshnag n'a pas découvert son secret.[^17]
 
@@ -110,13 +110,13 @@ Il y a des centaines de milliers d'hommes de rangs élevés, intermédiaires et 
 
 La terre est la plus humble de toutes, mais à la cour de Dieu, elle acquiert la grandeur par sa patience. Certains la désherbent ou la labourent, d'autres la polluent. Les saints obtiennent le fruit de la paix dans la maison du contentement. Ils ne s'effacent ni ne s'affirment. Qu'ils soient éveillés, en train de rêver ou de dormir profondément, le cœur empli d'amour, ils demeurent absorbés par Dieu. Ils se souviennent des hymnes du gourou en compagnie des saints.[^26]
 
-L'éléphant n'est pas mangé par orgueil, et personne ne mange le puissant lion. La chèvre est méprisée, mais elle obtient une distinction religieuse et profane. On la mange lors des décès et des mariages, et on l'accepte lors des festins. Sa chair est sacrée pour les gens du monde, et on fabrique des cordes pour instruments de musique avec ses entrailles. Les chaussures que portent les saints sont faites de sa peau. Les trompettes et les tambours en peau de chèvre procurent du plaisir par leur musique à la société des saints.[^27]
+L'éléphant n'est pas mangé par orgueil, et personne ne mange le puissant lion. La chèvre est méprisée, mais elle obtient une distinction religieuse et profane. On la mange lors des décès et des mariages, et on l'accepte lors des festins. Sa chair <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> est sacrée pour les gens du monde, et on fabrique des cordes pour instruments de musique avec ses entrailles. Les chaussures que portent les saints sont faites de sa peau. Les trompettes et les tambours en peau de chèvre procurent du plaisir par leur musique à la société des saints.[^27]
 
-Se considérer comme le plus bas des bas est l'enseignement du gourou, si l'on agit en conséquence. Soixante paises de cuivre valent une roupie d'argent, accueillie avec suspicion, tandis que les paises ne le sont pas. Dix roupies valent une pièce d'or, accueillie avec encore plus de suspicion. Pour des milliers de pièces d'or, on achète un diamant enfilé sur un collier, accueilli avec encore plus de suspicion. Les Sikhs qui se prosternent les uns aux pieds des autres et deviennent poussière les uns aux autres sont égaux en pensées, en paroles et en actes à des saints, et sont libérés de la superstition et de la peur.[^28]
+Se considérer comme le plus bas des bas est l'enseignement du gourou, si l'on agit en conséquence. Soixante paises de cuivre valent une roupie d'argent, accueillie avec suspicion, _tandis que les paises ne le sont pas_. Dix roupies valent une pièce d'or, accueillie avec encore plus de suspicion. Pour des milliers de pièces d'or, on achète un diamant enfilé sur un collier, accueilli avec encore plus de suspicion. Les Sikhs qui se prosternent les uns aux pieds des autres et deviennent poussière les uns aux autres sont égaux en pensées, en paroles et en actes à des saints, et sont libérés de la superstition et de la peur.[^28]
 
 Il y a du sucre dans un nid de frelons, les abeilles grouillent et produisent du miel. La soie et le satin sont obtenus à partir des vers. La toile est fabriquée à partir de chanvre battu. La mousseline provient des graines de coton. Le lotus qui enchante le bourdon pousse dans la boue. Il y a un joyau dans la tête du cobra. Le diamant est une pierre. Le musc est dans le corps du cerf. L'épée façonnée en acier est appelée bhagauti (déesse). L'odeur de la civette embaume les cours. C'est des choses humbles que l'on tire le plus grand avantage.[^29]
 
-Considérez-vous comme le plus bas des bas, devenez un ver et ne soyez pas vaniteux. Suivez la voie du Guru, et que mille d'entre vous soient contenus dans un seul trou de ver.[^30] Partout où se répand l'odeur du beurre clarifié et du sucre, les vers se pressent ; ainsi font les Sikhs pour entendre les paroles du Guru. Quand du sucre est répandu dans le sable, les vers ramassent les grains. Par peur du bhringi[^31], la fourmi meurt, mais le bhringi la ranime et en fait un bhringi semblable à lui-même.[^32] Celui qui reçoit l'instruction du Guru craint de commettre de mauvaises actions. L'instruction du Guru l'humilie et l'exalte à nouveau. C'est ainsi que les Sikhs du Guru reçoivent la récompense du bonheur.[^33]
+Considérez-vous comme le plus bas des bas, devenez un ver et ne soyez pas vaniteux. Suivez la voie du Guru, et que mille d'entre vous soient contenus dans un seul trou de ver.[^30] Partout où se répand l'odeur du beurre clarifié et du sucre, les vers se pressent ; ainsi font les Sikhs pour entendre les paroles du Guru. Quand du sucre est répandu dans le sable, les vers ramassent les grains. Par peur du bhringi[^31], la fourmi meurt, mais le bhringi la ranime <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> et en fait un bhringi semblable à lui-même.[^32] Celui qui reçoit l'instruction du Guru craint de commettre de mauvaises actions. L'instruction du Guru l'humilie et l'exalte à nouveau. C'est ainsi que les Sikhs du Guru reçoivent la récompense du bonheur.[^33]
 
 Les Sikhs du Guru qui ont dissipé leur orgueil sont continentaux et dignes d'éloges.[^34]
 
@@ -142,7 +142,7 @@ Prêter attention aux présages, aux neuf grihs, aux douze signes du zodiaque, a
 
 On vénère les héros disparus, les ancêtres, les satis, les épouses décédées, les chars et les fosses, mais tout cela est vain. Ceux qui ne profitent pas de la compagnie des saints et de l'enseignement du gourou meurent, renaissent et sont rejetés par Dieu. C'est le disciple du gourou qui porte le nom de Dieu comme son collier de diamants.[^38]
 
-Les Sikhs du Guru mènent une vie de famille, mais porter une touffe de cheveux et un janeu, ainsi que le porter sur l'oreille lors des offices religieux, relèvent de la superstition. Les Sikhs du Guru reconnaissent la connaissance divine et les bienfaits de la méditation sur l'Être suprême qui imprègne toute la création. Lorsqu'ils fréquentent le sacré, ils sont honorés et acceptés à la cour de Dieu.[^40]
+Les Sikhs du Guru mènent une vie de famille, mais porter une touffe de <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> cheveux et un janeu, ainsi que le porter sur l'oreille lors des offices religieux, relèvent de la superstition. Les Sikhs du Guru reconnaissent la connaissance divine et les bienfaits de la méditation sur l'Être suprême qui imprègne toute la création. Lorsqu'ils fréquentent le sacré, ils sont honorés et acceptés à la cour de Dieu.[^40]
 
 Le saint homme rejette le culte du feu avec ses sept couleurs, piétine l'armée des Bhairavs et les manifestations de Shiv, et n'est pas satisfait des présages des sept Rohinis,[^41] des sept jours de la semaine et des sept femmes dont les maris sont vivants.[^42]
 
@@ -166,7 +166,7 @@ Une courtisane qui a de nombreux amants commet toutes sortes de péchés. Rejet�
 
 La condition de la courtisane :—
 
-Une femme abandonnée quittant la maison de son père et de son beau-père devient impudente et ne se lave pas de sa mauvaise réputation. Quittant son mari, elle jouit de son amant. Comment pourrait-elle être heureuse si son cœur est porté vers d'autres directions ? Elle ne tient pas compte des conseils et est méprisée dans les assemblées de deuil et de réjouissance. Elle pleure lorsqu'on la réprimande et est humiliée dans chaque maison. Elle est arrêtée pour ses péchés et punie par ordre du tribunal. Elle n'est ni morte ni vivante, elle souffre la misère ; elle n'habite pas sa propre maison, mais en cherche une autre pour la ruiner. Dans sa situation douteuse, elle se tisse une couronne de vices.[^48]
+Une femme abandonnée quittant la maison de son père et de son beau-père devient impudente et ne se lave pas de sa mauvaise réputation. Quittant son mari, elle jouit de son amant. Comment pourrait-elle être heureuse si son cœur est porté vers d'autres directions ? Elle ne tient pas compte des conseils et est méprisée dans les assemblées de deuil et de réjouissance. Elle pleure lorsqu'on la réprimande et est humiliée dans chaque maison. Elle est arrêtée pour ses péchés et punie par ordre du tribunal. Elle n'est ni morte ni vivante, elle souffre la misère ; elle n'habite pas sa propre maison, mais en cherche une autre <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> pour la ruiner. Dans sa situation douteuse, elle se tisse une couronne de vices.[^48]
 
 L’homme qui n’adhère pas à une religion est comparé à une courtisane qui a plusieurs amants :
 
@@ -180,7 +180,7 @@ Un hôte reste affamé parmi plusieurs maisons. Lorsqu'un bien partagé est perd
 
 Les pratiques religieuses et laïques des Sikhs :
 
-Les Sikhs se lèvent à l'heure divine du matin [^50] et se baignent. Rassemblant leurs pensées et méditant doucement sur l'Insondable, ils répètent le Japji du Guru. Ils se joignent ensuite aux saints et s'assoient avec eux. Ils s'absorbent dans le souvenir et l'amour de la Parole, chantent et écoutent les hymnes du Guru. Ils passent leur temps dans l'amour, le service et la crainte de Dieu. Ils servent le Guru et célèbrent ses anniversaires. Ils chantent le Sodar en groupe et se réunissent chaleureusement. Après avoir lu le Sohila et fait des supplications le soir, ils distribuent la nourriture sacrée. Ainsi, les saints Sikhs goûtent avec joie le fruit du bonheur.[^51]
+Les Sikhs se lèvent à l'heure divine du matin [^50] et se baignent. Rassemblant leurs pensées et méditant doucement <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> sur l'Insondable, ils répètent le Japji du Guru. Ils se joignent ensuite aux saints et s'assoient avec eux. Ils s'absorbent dans le souvenir et l'amour de la Parole, chantent et écoutent les hymnes du Guru. Ils passent leur temps dans l'amour, le service et la crainte de Dieu. Ils servent le Guru et célèbrent ses anniversaires. Ils chantent le Sodar en groupe et se réunissent chaleureusement. Après avoir lu le Sohila et fait des supplications le soir, ils distribuent la nourriture sacrée. Ainsi, les saints Sikhs goûtent avec joie le fruit du bonheur.[^51]
 
 Les Sikhs mangent peu et boivent peu d'eau. Ils parlent peu et ne se vantent pas. Ils dorment peu, et seulement la nuit, et ne s'attachent pas aux amours mondaines. Lorsqu'ils entrent dans une belle demeure, ils ne la convoitent pas.[^52]
 
@@ -206,7 +206,7 @@ Des millions de Brahmas[^56] ont reçu les Védas sans en comprendre une seule l
 Des millions de Shivs assis dans une attitude religieuse ne reconnaissent ni la forme, ni le contour, ni le vêtement du Créateur.
 Des millions d’incarnations de Shiv sous forme humaine n’ont pas obtenu la moindre connaissance de Dieu.
 Des millions de serpents qui répètent chaque jour de nouveaux noms de Dieu,[^57] ne sont pas parvenus à le connaître.
-Ceux qui ont vécu longtemps et joui de tous les plaisirs de la vie, les adeptes des six écoles philosophiques et des sectes de l'hindouisme, n'ont pas reconnu le vrai Nom. Ayant reçu des dons, ils oublient tous le Donateur.[^58]
+Ceux qui ont vécu longtemps et joui de tous les plaisirs de la vie, les adeptes des six écoles philosophiques et <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> des sectes de l'hindouisme, n'ont pas reconnu le vrai Nom. Ayant reçu des dons, ils oublient tous le Donateur.[^58]
 
 Le dieu hindou Brahma ne peut être accepté comme guide moral :-—
 
@@ -274,7 +274,7 @@ Les hommes qui oublient le véritable Donateur mendient auprès des mendiants. L
 
 Inutilité des lieux de pèlerinage hindous :—
 
-Ceux qui quittent le pèlerinage du véritable gourou et vont se baigner dans les soixante-huit lieux sacrés des hindous s'assoient en contemplation, telles des grues, et déchirent et dévorent les animaux dans l'eau. Les éléphants peuvent être lavés, mais en quittant l'eau, ils se couvrent de poussière. La calebasse ne s'enfonce pas dans l'eau, et son amertume ne disparaît pas en un lieu de pèlerinage. Si une pierre est lavée dans l'eau, sa dureté ne s'en trouve pas adoucie. La superstition de l'homme pervers ne disparaît pas. Il erre sans foyer et, privé du véritable gourou, ne peut être sauvé.[^70]
+Ceux qui quittent le pèlerinage du véritable gourou et vont se baigner dans les soixante-huit lieux sacrés des hindous s'assoient en contemplation, telles des grues, et déchirent et dévorent les animaux dans l'eau. Les éléphants peuvent être lavés, mais en quittant l'eau, ils se couvrent de poussière. La calebasse ne s'enfonce pas dans l'eau, et son amertume ne disparaît pas en un lieu de pèlerinage. Si une pierre est lavée dans l'eau, sa dureté ne s'en trouve pas adoucie. La superstition de l'homme pervers ne disparaît pas. Il <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> erre sans foyer et, privé du véritable gourou, ne peut être sauvé.[^70]
 
 Ne sollicite pas un donateur auprès duquel tu devras faire appel à un autre. N'engage pas un banquier sans valeur qui te tromperait ensuite. Ne sers pas un maître qui t'exposerait au châtiment de la mort. N'engage pas un médecin incapable de guérir la maladie de l'orgueil. C'est la souillure du corps, et non celle des mauvaises inclinations, qui est purifiée par les bains dans les lieux de pèlerinage. Pourquoi s'y baigner ? Les disciples devraient aimer un prêtre qui leur confère bonheur et sérénité.[^71]
 
@@ -292,7 +292,7 @@ Les bêtes et les créatures dépourvues d'instinct sont supérieures aux êtres
 
 Les pervers préfèrent le poison du péché au nectar de la vertu, le sang impur au lait pur :
 
-Les légumes de la forêt portent des fruits aux saveurs et aux parfums multiples. La mangue, la pêche, la pomme, la grenade, le jaman[^74], le khirni[^75], la mûre, la datte, le pilun, le câprier sauvage, le ber, la noix… la cigale qui mange l’akk n’en est absolument pas satisfaite. Elle délaisse le fruit de l’ambroisie et s’attache au poison. Si une sangsue est appliquée sur le sein d’une femme, elle ne boira pas de lait, mais seulement du sang impur. Ainsi, l’homme pervers, même s’il entend les hymnes du gourou en compagnie des saints, profère une folie dans son orgueil. Son amour est tromperie et il n’obtient pas de place à la cour de Dieu[^76].
+Les légumes de la forêt portent des fruits aux saveurs et aux parfums multiples. La mangue, la pêche, la pomme, la grenade, le jaman[^74], le khirni[^75], la mûre, la datte, le pilun, le câprier sauvage, le ber, la noix… la cigale qui mange l’akk n’en est absolument pas satisfaite. Elle délaisse le fruit de l’ambroisie et s’attache au poison. Si une sangsue est appliquée sur le sein d’une femme, elle ne boira pas <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> de lait, mais seulement du sang impur. Ainsi, l’homme pervers, même s’il entend les hymnes du gourou en compagnie des saints, profère une folie dans son orgueil. Son amour est tromperie et il n’obtient pas de place à la cour de Dieu[^76].
 
 Vérité :-
 
@@ -302,7 +302,7 @@ Le mensonge est comme l'akk amer et venimeux ; la vérité est comme la mangue s
 
 La vérité est belle comme un turban sur la tête. Le mensonge est un vêtement souillé. La vérité est un lion puissant, le mensonge un agneau faible. Fais usage de la vérité et tu gagneras. Pourquoi faire usage du mensonge qui cause des pertes ? La vérité est une monnaie courante, le mensonge est du cuivre contrefait. Des centaines de milliers d'étoiles dans une nuit noire éclairent, mais lorsqu'un soleil se lève, elles disparaissent toutes. De même, le mensonge disparaît devant la vérité. Vérité et mensonge sont l'un par rapport à l'autre comme une pierre à un vase de terre. Si une pierre est jetée sur un vase de terre, c'est le vase de terre qui se brisera. Si le vase de terre est jeté sur une pierre, c'est à son tour le vase de terre qui se brisera. Dans les deux cas, c'est le vase de terre qui souffre.[^78]
 
-Le mensonge est une arme offensive, la vérité une armure défensive. Le mensonge est un ennemi qui guette toujours l'occasion d'attaquer, la vérité est un véritable ami qui prête assistance, la vérité est un héros, le mensonge amasse le faux. La vérité est inébranlable et solide ; le mensonge se tient debout et tremble sur une base instable. La vérité s'empare du mensonge et le renverse. Le monde entier peut le constater. Le mensonge, trompeur, est toujours en difficulté. La vérité est toujours sûre et entière. La vérité apparaît toujours vraie et le mensonge faux.[^79]
+Le mensonge est une arme offensive, la vérité une armure défensive. Le mensonge est un ennemi qui guette toujours l'occasion d'attaquer, la vérité est un véritable ami qui prête assistance, la vérité est un héros, le mensonge amasse le faux. La vérité est inébranlable et solide ; le mensonge se tient debout et tremble sur une base instable. La vérité s'empare du mensonge et le renverse. Le monde entier peut le constater. Le mensonge, trompeur, est toujours en difficulté. La vérité est toujours sûre <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> et entière. La vérité apparaît toujours vraie et le mensonge faux.[^79]
 
 Les Sikhs devraient contracter des alliances entre eux :
 
@@ -322,7 +322,7 @@ Comme le ghi n'est jamais impur, les saints n'ont pas de caste.[^84]
 
 Suivez l’exemple d’un arbre et rendez le bien pour le mal :—
 
-C'est la particularité d'un arbre de rendre le bien pour le mal. Quiconque élague ses branches s'assoit à son ombre, et l'arbre lui rend le bien pour le mal. Il donne des fruits même quand on lui jette des mottes de terre. Sculpté en barque, il sauve celui qui l'a sculpté. Les pervers, dépourvus de l'endurance et de la générosité des arbres, n'obtiennent pas de fruits, tandis que l'adorateur en produit d'innombrables. Rares sont les saints qui, tels des arbres, servent les serviteurs de Dieu. Ô Dieu, le monde est son esclave, lui qui possède les qualités d'un arbre.[^85]
+C'est la particularité d'un arbre de rendre le bien pour le mal. Quiconque élague ses branches s'assoit à son ombre, et l'arbre lui rend le bien pour le mal. Il donne des fruits même quand <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> on lui jette des mottes de terre. Sculpté en barque, il sauve celui qui l'a sculpté. Les pervers, dépourvus de l'endurance et de la générosité des arbres, n'obtiennent pas de fruits, tandis que l'adorateur en produit d'innombrables. Rares sont les saints qui, tels des arbres, servent les serviteurs de Dieu. Ô Dieu, le monde est son esclave, lui qui possède les qualités d'un arbre.[^85]
 
 La coutume du monde est de rendre le bien pour le bien, mais la coutume du gourou est de rendre le bien pour le mal.[^86]
 
@@ -336,7 +336,7 @@ Si quelqu'un, par vanité excessive, se rebelle contre un roi, le traître est m
 
 L'amour du disciple pour son gourou devrait être supérieur à tout ce qui a été dit ou chanté des amoureux dans tous les âges et dans tous les pays :
 
-Les amants Laili et Majnun sont connus aux quatre coins du monde. L'excellente épopée de Sorath et Bija est chantée partout. L'amour de Sassi et Punnu, bien que de castes différentes, est partout évoqué. La renommée de Sohni, qui traversait chaque nuit le Chinab à la nage pour se rendre à Mahinwal, est bien connue. Ranjha et Hir sont réputés pour l'amour qu'ils se portaient l'un à l'autre. Mais plus grand que tout est l'amour que les disciples portent à leur gourou. Ils le chantent à l'heure de l'ambroisie du matin.[^87]
+Les amants Laili et Majnun sont connus aux quatre coins du monde. L'excellente épopée de Sorath et Bija est chantée partout. L'amour de Sassi et Punnu, bien que de castes différentes, est partout évoqué. La renommée de Sohni, qui traversait chaque nuit le Chinab à la nage pour se rendre à Mahinwal, est bien connue. Ranjha et <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> Hir sont réputés pour l'amour qu'ils se portaient l'un à l'autre. Mais plus grand que tout est l'amour que les disciples portent à leur gourou. Ils le chantent à l'heure de l'ambroisie du matin.[^87]
 
 Gur Das, par des exemples familiers, continue de décrire l'amour mutuel du disciple et de son gourou :
 
@@ -348,7 +348,7 @@ Un voleur n'abandonne pas son activité par crainte du châtiment. Le bandit de 
 
 L’amour du Sikh pour son gourou est supérieur à celui qu’il porte à toutes ses relations :
 
-Il existe trois degrés de parenté : premièrement, le père, la mère, la sœur, le frère, leurs enfants et leurs alliances ; deuxièmement, le père de la mère, la mère de la mère, les sœurs de la mère, les frères de la mère ; troisièmement, le beau-père, la belle-mère, le beau-frère et la belle-sœur, pour qui or, argent, diamants et coraux sont amassés ; mais plus cher que tout est l’amour des Sikhs du Guru pour le Guru. C’est cette relation qui confère le bonheur.[^88]
+Il existe trois degrés de parenté : premièrement, le père, la mère, la sœur, le frère, leurs enfants et leurs alliances ; deuxièmement, le père de la mère, la mère de la mère, les sœurs de la mère, les frères de la mère ; troisièmement, le beau-père, <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> la belle-mère, le beau-frère et la belle-sœur, pour qui or, argent, diamants et coraux sont amassés ; mais plus cher que tout est l’amour des Sikhs du Guru pour le Guru. C’est cette relation qui confère le bonheur.[^88]
 
 Les yeux ne se satisfont pas de la contemplation de spectacles et d'expositions ; les oreilles ne se satisfont pas d'entendre des louanges ou des blâmes, des deuils ou des réjouissances ; la langue ne se satisfait pas de manger ce qui procure plaisir et délices ; le nez ne se satisfait pas d'une bonne ou d'une mauvaise odeur ; personne n'est satisfait de sa durée de vie, et chacun nourrit de faux espoirs ; mais ses disciples sont satisfaits du Guru ; leur véritable amour est[^88].
 
@@ -358,7 +358,7 @@ Le chakor aime la lune et la contemple sans cesse. Le chakwi aime le soleil et, 
 
 Le sort de celui qui n’est pas totalement dévoué au Guru :
 
-Celui qui ne voit pas le Guru est aveugle, même s'il a des yeux. Celui qui n'écoute pas les paroles du Guru est sourd, même s'il a des oreilles. Celui qui ne chante pas les hymnes du Guru est muet, même s'il a une langue. Même si celui qui ne sent pas le parfum des pieds du Guru a un nez, c'est comme s'il était coupé. Celui qui n'accomplit pas l'œuvre du Guru, même s'il a des mains, en est dépourvu et gémit de chagrin. Celui dont le cœur ne conserve pas l'instruction du Guru est dépourvu de compréhension et n'a pas accès à la cour de Dieu. Que personne ne fréquente un tel insensé.[^89]
+Celui qui ne voit pas le Guru est aveugle, même s'il a des yeux. Celui qui n'écoute pas les paroles du Guru est sourd, même s'il a des oreilles. Celui qui ne chante pas les hymnes du Guru est muet, même s'il a une langue. Même si celui qui ne sent pas le parfum des pieds du Guru a un nez, c'est comme s'il était coupé. Celui qui n'accomplit pas l'œuvre du Guru, <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> même s'il a des mains, en est dépourvu et gémit de chagrin. Celui dont le cœur ne conserve pas l'instruction du Guru est dépourvu de compréhension et n'a pas accès à la cour de Dieu. Que personne ne fréquente un tel insensé.[^89]
 
 La globalité spirituelle du gourou :—
 
@@ -400,7 +400,7 @@ L'inimitié ne demeure pas dans l'esprit de l'homme de bien, ni l'amitié dans c
 
 La différence entre le saint et l'impie :-—
 
-Pourquoi comparer les branches de l'arbre à perles à des friandises ? Personne n'appelle les baies d'akk des mangues. Les bijoux dorés ne valent pas l'or. Le cristal ne vaut pas les diamants. Le babeurre et le lait sont tous deux blancs, mais de qualité et de goût différents ; ainsi, le sacré et le profane se distinguent par leurs attributs.[^95]
+Pourquoi comparer les branches de l'arbre à perles à des friandises ? Personne n'appelle les baies d'akk des mangues. Les bijoux dorés ne valent pas l'or. Le cristal ne vaut pas <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> les diamants. Le babeurre et le lait sont tous deux blancs, mais de qualité et de goût différents ; ainsi, le sacré et le profane se distinguent par leurs attributs.[^95]
 
 La différence entre fréquenter un homme sage et un fou :
 
@@ -414,7 +414,7 @@ Un jour, une chamelle avala un melon coincé dans sa gorge. On fit venir un chir
 
 Gur Das raconte l'histoire comme suit :
 
-Un chirurgien guérit une chamelle. Il plaça une pierre sous son cou et en frappa la partie supérieure avec une autre, brisant ainsi le melon. Son serviteur pensait maîtriser l'art chirurgical. Il tua une vieille femme, provoquant des lamentations féminines. La foule s'empara du prétendu chirurgien et le roua de coups, ce qui lui fit reprendre ses esprits. Interrogé, il avoua toute l'affaire, et son imposture fut alors dévoilée. Des hommes sensés l'emmenèrent et le chassèrent, car un bracelet de verre ne vaut rien face à des bijoux. Un imbécile est dépourvu de bon sens. Un bambou ne pourrait jamais égaler une canne à sucre. Un imbécile n'a que le corps d'un homme ; il a été créé brute.[^98]
+Un chirurgien guérit une chamelle. Il plaça une pierre sous son cou et en frappa la partie supérieure <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> avec une autre, brisant ainsi le melon. Son serviteur pensait maîtriser l'art chirurgical. Il tua une vieille femme, provoquant des lamentations féminines. La foule s'empara du prétendu chirurgien et le roua de coups, ce qui lui fit reprendre ses esprits. Interrogé, il avoua toute l'affaire, et son imposture fut alors dévoilée. Des hommes sensés l'emmenèrent et le chassèrent, car un bracelet de verre ne vaut rien face à des bijoux. Un imbécile est dépourvu de bon sens. Un bambou ne pourrait jamais égaler une canne à sucre. Un imbécile n'a que le corps d'un homme ; il a été créé brute.[^98]
 
 Ne fréquentez pas les trompeurs et les pervers.
 
@@ -438,7 +438,7 @@ Un chacal tomba dans la cuve d'un teinturier et fut teint. Il s'enfonça dans la
 
 Les prétendus gourous sont comme des enfants qui jouent :
 
-Les nuits de clair de lune, les enfants jouent ensemble.[^104] Ils incarnent des rois et des sujets. Certains mènent des armées en expédition, d'autres s'enfuient. Ils paient les revenus fonciers en tessons de poterie. Très volages, ils interrompent la pièce en un instant et s'enfuient chez eux. Ainsi, ceux qui, bien que dénués de mérite, se disent gourous, sont des imposteurs et des méchants.[^105]
+Les nuits de clair de lune, les enfants jouent ensemble.[^104] Ils incarnent des rois et des sujets. Certains mènent des armées en expédition, d'autres s'enfuient. Ils paient les revenus fonciers en tessons de poterie. Très volages, ils interrompent la pièce en <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> un instant et s'enfuient chez eux. Ainsi, ceux qui, bien que dénués de mérite, se disent gourous, sont des imposteurs et des méchants.[^105]
 
 Il est impossible de se passer du Guru :
 
@@ -474,7 +474,7 @@ Celui qui abandonne ses parents pour écouter les Veds ne connaîtra jamais leur
 
 Les Sikhs revendiquent la supériorité sur toutes les races :-—
 
-Les sectes sunnites, chiites et rafazies sont appréciées de beaucoup, mais elles sont toutes païennes, hypocrites et noyées dans la superstition. Les chrétiens et les juifs errent, affolés par leur orgueil. Les Européens, les Arméniens et les Turcs sont remplis de vaine gloire. Les faqirs vêtus de noir, les qalandars, les darweshes et deux fois plus n'ont rien à voir avec un cheveu d'un sikh qui s'est consacré au gourou.[^113]
+Les sectes sunnites, chiites et rafazies sont appréciées de beaucoup, mais elles sont toutes païennes, hypocrites et noyées dans la superstition. Les chrétiens et les juifs errent, affolés par leur orgueil. Les Européens, les Arméniens et les Turcs sont remplis de vaine gloire. Les faqirs vêtus <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> de noir, les qalandars, les darweshes et deux fois plus n'ont rien à voir avec un cheveu d'un sikh qui s'est consacré au gourou.[^113]
 
 La vérité est cachée aussi bien aux hindous qu'aux musulmans ; les deux sectes se sont égarées :
 
@@ -484,7 +484,7 @@ Les hindous lisent les Védas ; les soufis et les musulmans les livres de l'isla
 
 Lorsque les hindous et les musulmans abandonnent la superstition, ils forment un seul corps de sikhs qui boivent à la coupe de l'amour de Dieu et obtiennent la délivrance finale :
 
-Ceux qui s'enivrent de la coupe d'amour dans la cour privée du gourou contemplent l'Invisible. Les Sikhs rejettent aussi bien le rosaire à cent-huit grains des hindous que celui à cent grains des musulmans. Les Sikhs, traitant les deux rosaires de la même manière, ne répètent pas les noms de Ram ou de Rahim à chaque grain. Les deux sectes réunies forment un seul corps sikh et ne sont alors pas mentionnées séparément. Ainsi, lorsqu'on parle du jeu de chaupar, les pièces ne sont pas mentionnées. Les Sikhs rejetant Shiv et son énergie Durga parviennent à leur propre demeure grâce à la coupe de l'amour divin. Insensibles aux trois qualités, ils atteignent le quatrième degré du salut. Baba Nanak a proclamé la vraie Parole et, en amenant les vrais Sikhs à fixer leur attention sur elle, les a fusionnés avec le Vrai qui est le vrai Roi à qui la vérité est agréable.[^116]
+Ceux qui s'enivrent de la coupe d'amour dans la cour privée du gourou contemplent l'Invisible. Les Sikhs rejettent aussi bien le rosaire à cent-huit grains des hindous que celui à cent grains des musulmans. Les Sikhs, traitant les deux rosaires de la même manière, ne répètent pas les noms de Ram ou de Rahim à chaque grain. Les deux sectes réunies forment un seul corps sikh et ne sont alors pas mentionnées séparément. Ainsi, lorsqu'on parle du jeu de chaupar, les pièces ne sont <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> pas mentionnées. Les Sikhs rejetant Shiv et son énergie Durga parviennent à leur propre demeure grâce à la coupe de l'amour divin. Insensibles aux trois qualités, ils atteignent le quatrième degré du salut. Baba Nanak a proclamé la vraie Parole et, en amenant les vrais Sikhs à fixer leur attention sur elle, les a fusionnés avec le Vrai qui est le vrai Roi à qui la vérité est agréable.[^116]
 
 Extraits du _Kabit_ de Gur Das contre l'idolâtrie :—
 
@@ -502,6 +502,7 @@ Selon les règles de la société, les livres sacrés et l’enseignement des th
 Pour la femme chaste, la répétition des noms des idoles, les ablutions, les aumônes, les austérités, la pénitence, le pèlerinage, le jeûne, le culte et les cérémonies quotidiennes ne servent à rien. <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 Les holocaustes, les festins, les aliments offerts aux idoles, le culte des dieux et des déesses, le chant des hymnes et la visite de temples étranges ne sont que vanité des vanités.
 Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, la contemplation et le souvenir d'autres dieux sont de la prostitution.
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -527,15 +528,16 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
   </table>
 </figure>
 
+
 ## Remarques
 
-[^1] : Seconde Guerre mondiale.
+[^1]: Seconde Guerre mondiale.
 
-[^2] : III.
+[^2]: III.
 
-[^3] : XL.
+[^3]: XL.
 
-[^4] : III.
+[^4]: III.
 
 [^5]: IX.
 
@@ -551,27 +553,27 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^11]: VI.
 
-[^12] : Un petit tambour.
+[^12]: Un petit tambour.
 
-[^13] : VI.
+[^13]: VI.
 
-[^14] : VII.
+[^14]: VII.
 
-[^15] : III.
+[^15]: III.
 
 [^16]: V.
 
 [^17]: IX.
 
-[^18] : Une croyance orientale découlant de la conformation particulière du bec du cygne.
+[^18]: Une croyance orientale découlant de la conformation particulière du bec du cygne.
 
-[^19] : XI. La onzième Guerre contient une liste des principaux Sikhs jusqu'à l'époque de Gur Das.
+[^19]: XI. La onzième Guerre contient une liste des principaux Sikhs jusqu'à l'époque de Gur Das.
 
 [^20]: XIII.
 
 [^21]: III. Les musulmans sont ravis de prendre de la nourriture après le jeûne du Ramadan.
 
-[^22] : III.
+[^22]: III.
 
 [^23]: IV.
 
@@ -581,7 +583,7 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^26]: XVI.
 
-[^27] : XXIII.
+[^27]: XXIII.
 
 [^28]: Les deuxième, troisième et quatrième lignes de ce pauri dans l'original signifient que l'homme humble va plus facilement et plus sûrement au ciel que celui qui occupe une position élevée dans ce monde, et dont les actions sont donc plus sévèrement scrutées XXIII.
 
@@ -611,7 +613,7 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^41]: Étoiles de la quatrième maison lunaire spécialement vénérées par les femmes hindoues pour les sauver du veuvage.
 
-[^42] : VII. Les femmes indiquées sont les épouses des immortels Rikhis Marichi, Atri, Pulah, Pulsat, Kritu, Angira, Vishisht. Gurumat Sudhakar.
+[^42]: VII. Les femmes indiquées sont les épouses des immortels Rikhis Marichi, Atri, Pulah, Pulsat, Kritu, Angira, Vishisht. Gurumat Sudhakar.
 
 [^43]: Un parapluie, des chaussures, des vêtements, une bague, un pot à eau, un tissu pour s'asseoir, cinq récipients de cuisine, un bâton, un récipient en cuivre pour distribuer l'eau, du maïs, de la nourriture, de l'argent et un fil sacrificiel. _Garur Puran_, chap. XIII.
 
@@ -619,7 +621,7 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^45]: V.
 
-[^46] : XX.
+[^46]: XX.
 
 [^47]: V.
 
@@ -631,7 +633,7 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^51]: VI.
 
-[^52] : XX.
+[^52]: XX.
 
 [^53]: VI.
 
@@ -645,13 +647,13 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^58]: XVIII.
 
-[^59] : XII.
+[^59]: XII.
 
 [^60]: XV.
 
 [^61]: IX.
 
-[^62] : XIII. Voir aussi Sorath XI.
+[^62]: XIII. Voir aussi Sorath XI.
 
 [^63]: XXII.
 
@@ -659,7 +661,7 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^65]: XIII.
 
-[^66] : XXIII.
+[^66]: XXIII.
 
 [^67]: XIX.
 
@@ -683,11 +685,11 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^77]: XVIII.
 
-[^78] : XXX.
+[^78]: XXX.
 
 [^79]: XXX.
 
-[^80] : XX.
+[^80]: XX.
 
 [^81]: Telle était la salutation jusqu'à l'arrivée du dixième gourou. Il ordonna que, lorsque les Sikhs se réunissaient, leur salut soit : _Wahguriu ji ka Khalsa, Wahguri ji ki Fatah_.
 
@@ -727,7 +729,7 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^99]: XXXIV.
 
-[^100] : XXXIII.
+[^100]: XXXIII.
 
 [^101]: _Moth_ est une légumineuse indienne.
 
@@ -739,17 +741,17 @@ Ainsi, parmi les Sikhs du Guru, un accessoire est le meilleur ; la méditation, 
 
 [^105]: XXXVI.
 
-[^106] : Certains insectes indiens qui fréquentent les étangs et les rivières pendant la saison des pluies.
+[^106]: Certains insectes indiens qui fréquentent les étangs et les rivières pendant la saison des pluies.
 
 [^107]: XIII. Gur Das signifie qu'il ne doit y avoir aucun secret dans l'initiation d'un Sikh.
 
-[^108] : VI.
+[^108]: VI.
 
 [^109]: XXXVI.
 
 [^110]: XXXVII.
 
-[^111] : Un homme qui servit avec la plus grande diligence ses parents aveugles. Il fut tué par erreur par Dasarath, le père de Ram Chandar. XXXVII.
+[^111]: Un homme qui servit avec la plus grande diligence ses parents aveugles. Il fut tué par erreur par Dasarath, le père de Ram Chandar. XXXVII.
 
 [^112]: XXXVII.
 

@@ -84,7 +84,7 @@ Nanaki, l'épouse du gourou Har Gobind, s'adressa ainsi à son époux : « Tu as
 
 Le gourou se retira alors pour l'introspection et la méditation divine dans une maison appelée Patalpuri, qu'il avait construite en bordure du Satluj, et, comme l'avaient fait les autres gourous, exhorta son peuple à ne pas le pleurer. « Ce corps visible et tangible est faux, Dieu seul est vrai. »
 
-Sa fille Bibi Viro vint à lui, les larmes aux yeux, et lui dit : « Ma mère est partie et m’a abandonnée. Depuis, tu as été pour moi une mère autant qu’un père. Que ferai-je sans toi ? » Le gourou lui apporta toute sa consolation et conclut ainsi son discours : « Ne t’afflige pas pour moi. Tout ce qui naît doit périr. Tu auras des fils qui combattront aux côtés de ton neveu, le dixième gourou, et feront preuve d’une grande bravoure. » Le gourou Har Gobind adressa ensuite des paroles d’adieu ou des conseils et des instructions à ses amis et à sa famille qui l’entouraient.
+Sa fille Bibi Viro vint à lui, les larmes <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> aux yeux, et lui dit : « Ma mère est partie et m’a abandonnée. Depuis, tu as été pour moi une mère autant qu’un père. Que ferai-je sans toi ? » Le gourou lui apporta toute sa consolation et conclut ainsi son discours : « Ne t’afflige pas pour moi. Tout ce qui naît doit périr. Tu auras des fils qui combattront aux côtés de ton neveu, le dixième gourou, et feront preuve d’une grande bravoure. » Le gourou Har Gobind adressa ensuite des paroles d’adieu ou des conseils et des instructions à ses amis et à sa famille qui l’entouraient.
 
 Guru Har Rai posa au Guru sortant une question qui nécessitait une réponse urgente : « Ô grand roi, ton inimitié envers les Turcs a cessé. L'Empereur possède des trésors, des armes et des forteresses. S'il s'attaque à moi, comment dois-je agir ? » Guru Har Gobind répondit : « Sois sans inquiétude. Celui qui s'attaque à toi avec l'inimitié au cœur ne l'emportera jamais. Dieu sera avec toi et t'assistera. Garde toujours deux mille deux cents soldats à cheval avec toi. »
 
@@ -145,6 +145,7 @@ Guru Arjan a obtenu le fruit nectaré de Guru Ram Das dont la nature était inco
 Guru Har Gobind, l'être supérieur, a amené Guru Arjan à le saluer comme Guru. |
 Le Guru ne peut pas être caché à ceux qui ont obtenu une certaine connaissance par sa faveur.
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -169,30 +170,31 @@ Le Guru ne peut pas être caché à ceux qui ont obtenu une certaine connaissanc
   </table>
 </figure>
 
+
 ## Remarques
 
-[^1] : Dieu.
+[^1]: Dieu.
 
-[^2] : Littéralement : maisons, mais le mot est souvent utilisé pour le cœur.
+[^2]: Littéralement : maisons, mais le mot est souvent utilisé pour le cœur.
 
 [^3]: Le Holi est célébré au mois de Phagan.
 
 [^4]: Le mot rang signifie soit couleur, soit amour.
 
-[^5] : Basant.
+[^5]: Basant.
 
 [^6]: Ces deux lignes sont également traduites—
   Ceux qui aiment beaucoup de loisirs, d’amusement varié et de plaisirs qui égarent les sens ;
   Ceux qui jouissent d’un état royal et impérial sont sujets à l’anxiété.
 
-[^7] : Gourou Arjan, Sri Rag.
+[^7]: Gourou Arjan, Sri Rag.
 
-[^8] : Sarang.
+[^8]: Sarang.
 
-[^9] : Maru Ashtapadi.
+[^9]: Maru Ashtapadi.
 
 [^10]: Des chroniqueurs sikhs hindouisés ont inventé une histoire selon laquelle le gourou se serait fait enfermer à Patalpuri et aurait ordonné au gourou Har Rai de verrouiller la porte et de ne l'ouvrir que le septième jour. Selon Abulfazl, cela était considéré par les hindous comme la forme de mort la plus méritoire, et des personnes ignorantes et superstitieuses ont donc attribué au gourou cette forme de suicide. Si cela avait eu lieu, il aurait certainement été rapporté par Muhsan Fani parmi les autres détails qu'il a donnés.
 
 [^11]: C'est-à-dire les péchés capitaux.
 
-[^12] : Gur Das, Troisième Guerre.
+[^12]: Gur Das, Troisième Guerre.

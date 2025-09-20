@@ -149,9 +149,9 @@ Elle a perdu son paquet de mérites et est partie avec un fardeau de démérites
 
 [^1]: Un compte rendu plus complet de l'influence de Jodha sur Lahina sera donné dans la Vie de Guru Angad, Vol. II.
 
-[^1] : L'avarice.
+[^1]: L'avarice.
 
-[^2] : Désir et convoitise.
+[^2]: Désir et convoitise.
 
 [^3]: La ligne signifie que le désir et la convoitise appellent en vain le saint.
 

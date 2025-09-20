@@ -267,7 +267,7 @@ Nanak, ceux qui ont la crainte de Dieu dans leur cœur ont aussi l'amour.[^2]
 
 ## Notes de bas de page
 
-[^1] : Enceintes, généralement enduites de bouse de vache pour les rendre sacrées, dans lesquelles les hindous prient et cuisinent leur nourriture.
+[^1]: Enceintes, généralement enduites de bouse de vache pour les rendre sacrées, dans lesquelles les hindous prient et cuisinent leur nourriture.
 
 [^1]: Littéralement — vingt-cinq, car c'était une coutume indienne de compter l'argent par tas de vingt-cinq chacun.
 
@@ -275,17 +275,17 @@ Nanak, ceux qui ont la crainte de Dieu dans leur cœur ont aussi l'amour.[^2]
 
 [^2]: Le héron, bien que blanc, a un cœur noir.
 
-[^3] : Le _Bombax heplaphyllum_. Il ne porte pas de fruits au sens propre du terme. Ses gousses produisent du coton, impropre à l'usage textile. Son bois est très cassant et presque inutilisable en menuiserie.
+[^3]: Le _Bombax heplaphyllum_. Il ne porte pas de fruits au sens propre du terme. Ses gousses produisent du coton, impropre à l'usage textile. Son bois est très cassant et presque inutilisable en menuiserie.
 
 [^4]: Comme les oiseaux qui picorent ce qu'ils supposent être le fruit de l'arbre simmal, mais n'en trouvent pas. Les gyânis exercent leur ingéniosité sur cette ligne et traduisent : Les perroquets (_mai jan_) qui le regardent font une erreur.
 
-[^5] : _Dûgar_, de là la tribu des Dogras dans le Kângra et les districts adjacents. Dogra signifie littéralement homme des collines.
+[^5]: _Dûgar_, de là la tribu des Dogras dans le Kângra et les districts adjacents. Dogra signifie littéralement homme des collines.
 
-[^6] : Souhi.
+[^6]: Souhi.
 
-[^1] : Également appelé charanâmrit. Il s'agissait d'une forme d'initiation consistant à boire l'eau dans laquelle les pieds du gourou avaient été lavés. Le préambule du Japji était lu en même temps. La cérémonie était inaugurée par le gourou Nânak.
+[^1]: Également appelé charanâmrit. Il s'agissait d'une forme d'initiation consistant à boire l'eau dans laquelle les pieds du gourou avaient été lavés. Le préambule du Japji était lu en même temps. La cérémonie était inaugurée par le gourou Nânak.
 
-[^2] : _Dharmsâl_. De nos jours, ce mot désigne une maison de repos charitable où le Granth Sahib est conservé et le culte divin célébré, où les voyageurs sont logés gratuitement et où les enfants reçoivent une instruction religieuse. Un temple situé dans un lieu visité par un gourou est aujourd'hui appelé Gurdwâra.
+[^2]: _Dharmsâl_. De nos jours, ce mot désigne une maison de repos charitable où le Granth Sahib est conservé et le culte divin célébré, où les voyageurs sont logés gratuitement et où les enfants reçoivent une instruction religieuse. Un temple situé dans un lieu visité par un gourou est aujourd'hui appelé Gurdwâra.
 
 [^3]: L'ancien Kurukshetra, théâtre de la grande bataille entre les Pandavas et les Kauravas. Dans les livres hindous, on l'appelle le Nombril de la Terre, et l'on considère que c'est là que furent créés les êtres terrestres. Khulâsat-ul-Tawârikh.
 
@@ -297,7 +297,7 @@ Nanak, ceux qui ont la crainte de Dieu dans leur cœur ont aussi l'amour.[^2]
 
 [^3]: Mâlar ki Wâr.
 
-[^1] : Dûmni, l'épouse d'un Dûm.
+[^1]: Dûmni, l'épouse d'un Dûm.
 
 [^2]: Sri Râg ki Wâr.
 
@@ -307,7 +307,7 @@ Nanak, ceux qui ont la crainte de Dieu dans leur cœur ont aussi l'amour.[^2]
 
 [^2]: Cet hymne et les suivants, portant sur la philosophie du jog, expriment les idées de Guru Nânak sur le sujet. Ces hymnes ne se trouvent pas dans le Granth Sâhib.
 
-[^1] : Le Guru de Nânak était Dieu. Voir Sorath xi, Mahalla I et Gur Dâs's Wâr, xiii, 25.
+[^1]: Le Guru de Nânak était Dieu. Voir Sorath xi, Mahalla I et Gur Dâs's Wâr, xiii, 25.
 
 [^2]: Mon cerveau est dans un état de repos.
 
@@ -323,7 +323,7 @@ Nanak, ceux qui ont la crainte de Dieu dans leur cœur ont aussi l'amour.[^2]
 
 [^1]: C'est-à-dire que je n'ai pas plus de caste que le feu et le vent.
 
-[^2] : Couper, appliqué à un arbre, et creuser jusqu'à la terre. Autrement dit, je peux endurer toutes les formes de torture.
+[^2]: Couper, appliqué à un arbre, et creuser jusqu'à la terre. Autrement dit, je peux endurer toutes les formes de torture.
 
 [^3]: Ayant extrait tous les plaisirs de ce monde.
 

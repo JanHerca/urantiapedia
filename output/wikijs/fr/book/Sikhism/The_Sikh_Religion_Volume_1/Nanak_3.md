@@ -250,25 +250,25 @@ Sur ce, les faqirs baisèrent les pieds du gourou. Le gouverneur arriva égaleme
 
 ## Notes de bas de page
 
-[^1] : Malar.
+[^1]: Malar.
 
 [^2]: Gauri est une _râgini_ ou épouse de Sri Râg, et possède neuf variétés, dont l'une est la Cheti.
 
 [^1]: Les anciens géographes indiens divisaient la Terre en neuf régions ou continents.
 
-[^2] : Gauri.
+[^2]: Gauri.
 
 [^1]: Cet instrument, d'origine arabe, est tombé en désuétude dans le nord de l'Inde. Il possédait de quatre à six cordes en boyau de chèvre avec des cordes en acier pour la résonance.
 
 [^1]: C'est-à-dire, si je devais mener la vie la plus ascétique possible.
 
-[^1] : Sri Rag.
+[^1]: Sri Rag.
 
 [^2]: La traduction ordinaire de _Gur parsâd_, « Par la faveur du Guru. » ne semble pas appropriée ici.
 
-[^1] : Sri Rag.
+[^1]: Sri Rag.
 
-[^1] : S. expression familière.
+[^1]: S. expression familière.
 
 [^2]: Maru.
 
@@ -280,11 +280,11 @@ Sur ce, les faqirs baisèrent les pieds du gourou. Le gouverneur arriva égaleme
 
 [^4]: Ce verset est également traduit : Étant résigné à Dieu, obéissant (dîn) et humble (mahâne), que l'homme mette de côté toute crainte de la naissance et de la mort, cette transmigration qui exerce tant l'esprit oriental.
 
-[^5] : Mâjh ki Civilisé.
+[^5]: Mâjh ki Civilisé.
 
 [^6]: Le grand temple musulman en forme de cube à La Mecque où les fidèles font des pèlerinages.
 
-[^1] : Littéralement : droits, ou ce qui est dû à ton prochain.
+[^1]: Littéralement : droits, ou ce qui est dû à ton prochain.
 
 [^2]: Les musulmans s'abstiennent de la chair de porc, et les hindous de la chair de bœuf.
 
@@ -298,9 +298,9 @@ Sur ce, les faqirs baisèrent les pieds du gourou. Le gouverneur arriva égaleme
 
 [^2]: Juristes musulmans.
 
-[^3] : Brahma, Vishnu et Shiv forment la trinité hindoue et sont respectivement les dieux de la création, de la préservation et de la destruction.
+[^3]: Brahma, Vishnu et Shiv forment la trinité hindoue et sont respectivement les dieux de la création, de la préservation et de la destruction.
 
-[^4] : Ram Chandar, roi d'Ayudhia, déifié par les Hindous. Lui et son épouse Sita sont souvent mentionnés.
+[^4]: Ram Chandar, roi d'Ayudhia, déifié par les Hindous. Lui et son épouse Sita sont souvent mentionnés.
 
 [^1]: Les _Sanyâsis_ sont des anachorètes qui ont abandonné le monde et dont on croit généralement qu'ils ont vaincu la nature. Le mot _sanyâs_ signifie renoncement.
 
@@ -308,12 +308,12 @@ Sur ce, les faqirs baisèrent les pieds du gourou. Le gouverneur arriva égaleme
 
 [^3]: Les Sidhs, en sanskrit _Siddhs_, sont des personnes qui, par la pratique du Jog, sont communément supposées acquérir une vie prolongée et des pouvoirs miraculeux.
 
-[^4] : Sâdhik, personnes aspirant à devenir Sidhs.
+[^4]: Sâdhik, personnes aspirant à devenir Sidhs.
 
 [^5]: Granth Sâhib de Banno, Un récit de Banno se trouve dans la vie de Guru Arjan.
 
-[^1] : Une métaphore du métier de teinturier. Avant la teinture, les vêtements sont trempés dans de l'alun comme base ou mordant pour mieux retenir la teinture.
+[^1]: Une métaphore du métier de teinturier. Avant la teinture, les vêtements sont trempés dans de l'alun comme base ou mordant pour mieux retenir la teinture.
 
-[^2] : _Cholra_, un manteau qui arrive jusqu'aux genoux ; _choli_, son diminutif, est un corsage de femme.
+[^2]: _Cholra_, un manteau qui arrive jusqu'aux genoux ; _choli_, son diminutif, est un corsage de femme.
 
 [^3]: C'est-à-dire que l'homme sera heureux s'il se rend acceptable à Dieu par de bonnes œuvres. L'hymne est de Tilang.

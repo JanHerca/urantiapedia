@@ -604,13 +604,13 @@ Leurs visages seront illuminés, ô Nanak ; combien seront émancipés en leur c
 
 [^1]: Le Japji est considéré par les Sikhs comme la clé de leur livre sacré et un résumé de ses doctrines. Il est répété silencieusement par les Sikhs tôt le matin. Chaque Sikh doit le connaître par cœur, sinon il n'est pas considéré comme orthodoxe. C'est le devoir de tous les Sikhs, même s'ils ne savent pas lire, de se faire enseigner ce service divin du matin. La composition semble avoir été l'œuvre de Guru Nânak à un âge avancé.
 
-[^2] : _Karta purukh_. Il n'est peut-être pas nécessaire de traduire le mot _purukh_. Il signifie action masculine ou créatrice. L'esprit omniprésent, en union avec un élément féminin, a prononcé une parole d'où est née la création.
+[^2]: _Karta purukh_. Il n'est peut-être pas nécessaire de traduire le mot _purukh_. Il signifie action masculine ou créatrice. L'esprit omniprésent, en union avec un élément féminin, a prononcé une parole d'où est née la création.
 
 [^3]: _Saibhan_ est dérivé du sanskrit _swayambhu_, que nous avons trouvé dans ce passage d'un très ancien manuscrit sikh.
 
-[^4] : _Gur Parsâd_. Nous avons traduit ces mots par respect pour l'opinion de la majorité des Sikhs ; mais avec plusieurs gyânis portés, nous ne doutons pas qu'ils étaient destinés à évoquer Dieu – le grand et le généreux. Guru Nanak n'avait pas de gourou humain ; comme nous l'avons déjà vu, son gourou était Dieu. C'est durant la suprématie spirituelle de ses successeurs que la faveur du gourou fut invoquée, jugée indispensable à la délivrance. De plus, bien que _gur parsâd_ désigne parfois dans le Granth Sâhib la faveur du gourou, cela semble être plus souvent exprimé par _gur parsâdi_.
+[^4]: _Gur Parsâd_. Nous avons traduit ces mots par respect pour l'opinion de la majorité des Sikhs ; mais avec plusieurs gyânis portés, nous ne doutons pas qu'ils étaient destinés à évoquer Dieu – le grand et le généreux. Guru Nanak n'avait pas de gourou humain ; comme nous l'avons déjà vu, son gourou était Dieu. C'est durant la suprématie spirituelle de ses successeurs que la faveur du gourou fut invoquée, jugée indispensable à la délivrance. De plus, bien que _gur parsâd_ désigne parfois dans le Granth Sâhib la faveur du gourou, cela semble être plus souvent exprimé par _gur parsâdi_.
 
-[^5] : _Bhi_. Il y a deux _bhi_ dans ce vers, que certains considèrent comme idiomatiques. Nous ne doutons guère que le premier _bhi_ soit un passé dépassé du verbe déficient _bhu_, et que le verset doive être traduit par « Le Vrai est, était et sera aussi. » Comparer à : « Guru Nânak, Shahu hai, bhi, hosi. » — Sûhi Ashtapadi 1.
+[^5]: _Bhi_. Il y a deux _bhi_ dans ce vers, que certains considèrent comme idiomatiques. Nous ne doutons guère que le premier _bhi_ soit un passé dépassé du verbe déficient _bhu_, et que le verset doive être traduit par « Le Vrai est, était et sera aussi. » Comparer à : « Guru Nânak, Shahu hai, bhi, hosi. » — Sûhi Ashtapadi 1.
 
 [^6]: Également traduit—
   Dieu était vrai au commencement, il était vrai à l'époque primitive
@@ -661,7 +661,7 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^5]: La déesse hindoue de la richesse et des biens, épouse de Vishnu et mère de Kâm, le dieu de l'amour.
 
-[^6] : La déesse de l'éloquence et de l'apprentissage et patronne des arts et des sciences.
+[^6]: La déesse de l'éloquence et de l'apprentissage et patronne des arts et des sciences.
   Ce verset est également traduit—
   {note de bas de page p. 199}
   (_a_) Il est plus grand que Shiv, plus grand que Vishnu et Brahma, plus grand que Pârbati, Lakshmi et Saraswati.
@@ -675,7 +675,7 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^1]: Les Sûrs sont des héros spirituels.
 
-[^2] : Le taureau qui, selon les Hindous, soutient la Terre. Les Sikhs n'y croient pas. Voir ci-dessous, pauri xvi.
+[^2]: Le taureau qui, selon les Hindous, soutient la Terre. Les Sikhs n'y croient pas. Voir ci-dessous, pauri xvi.
 
 [^3]: L’homme ne mourra plus, mais obtiendra la délivrance.
 
@@ -691,19 +691,19 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^4]: Le dieu de la mort, autrefois appelé Dharmrâj. Ce verset signifie que l'homme ne mourra plus, mais sera absorbé en Dieu.
 
-[^1] : _Magun_. Ce mot est censé signifier _magan_. Ceux qui lisent _magu na_ traduisent :
+[^1]: _Magun_. Ce mot est censé signifier _magan_. Ceux qui lisent _magu na_ traduisent :
   (_a_) En lui obéissant, l’homme ne s’engage pas sur le chemin de la destruction.
   (_b_) L’homme avance par le chemin large et non par le chemin étroit.
 
 [^2]: Cela signifie que l'on ne déambule pas dans la transmigration.
 
-[^3] : _Panch_, littéralement cinq. Ce nombre évoque la notion de sélection. Il existe un proverbe hindou : _Pânehon men Parameshwar hai_, qui signifie « Là où les vivants sont rassemblés, Dieu est au milieu d'eux ». D'autres disent que _panch_ désigne les catégories de personnes vivantes mentionnées précédemment : celles qui marchent selon la volonté de Dieu, qui le connaissent comme vrai, qui le louent, qui entendent son nom et qui lui obéissent.
+[^3]: _Panch_, littéralement cinq. Ce nombre évoque la notion de sélection. Il existe un proverbe hindou : _Pânehon men Parameshwar hai_, qui signifie « Là où les vivants sont rassemblés, Dieu est au milieu d'eux ». D'autres disent que _panch_ désigne les catégories de personnes vivantes mentionnées précédemment : celles qui marchent selon la volonté de Dieu, qui le connaissent comme vrai, qui le louent, qui entendent son nom et qui lui obéissent.
 
 [^4]: C'est l'interprétation de _sohahi_ donnée par Bhâi Chanda Singh dans son commentaire sur le Granth Sâhib.
 
 [^5]: Les élus ont un Dieu comme gourou ou guide spirituel, et méditent sur Lui.
 
-[^1] : _Sût_, le fil sur lequel le monde est tendu. Le gourou entend par patience l'équilibre du monde, où tout est en équilibre.
+[^1]: _Sût_, le fil sur lequel le monde est tendu. Le gourou entend par patience l'équilibre du monde, où tout est en équilibre.
 
 [^2]: Ici, Guru Nânak rejette évidemment l’histoire hindoue selon laquelle la terre est soutenue par un taureau.
 
@@ -711,11 +711,11 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^4]: Les Hindous croient que c'est _Eko aham, bahu syâm_, un, laisse-Moi devenir multiple.
 
-[^5] : Littéralement, répétitions du nom de Dieu. Ici, le mot est utilisé par métonymie pour désigner ceux qui répètent le nom de Dieu.
+[^5]: Littéralement, répétitions du nom de Dieu. Ici, le mot est utilisé par métonymie pour désigner ceux qui répètent le nom de Dieu.
 
 [^1]: Également traduit : Nombreux sont ceux qui donnent des ordres oppressifs.
 
-[^2] : _Malechh_. Ceux dont les désirs sont immondes, considérés comme les plus vils, de véritables parias. À l'époque du gourou, le mot _malechh_ était utilisé par les hindous comme un terme d'opprobre pour les musulmans. Les hindous l'appliquent encore aujourd'hui à tous ceux qui ne sont pas de leur confession.
+[^2]: _Malechh_. Ceux dont les désirs sont immondes, considérés comme les plus vils, de véritables parias. À l'époque du gourou, le mot _malechh_ était utilisé par les hindous comme un terme d'opprobre pour les musulmans. Les hindous l'appliquent encore aujourd'hui à tous ceux qui ne sont pas de leur confession.
 
 [^1]: Également traduit—
   (a) Avec leurs corps inversés, c'est-à-dire debout sur la tête, c'est une forme d'austérité religieuse pratiquée en Inde.
@@ -725,7 +725,7 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^3]: _Bân_ signifie généralement « coutume ». Ici, il est utilisé pour désigner le mot _bâni_.
 
-[^4] : Eau dans laquelle le colorant du Nom a été dissous.
+[^4]: Eau dans laquelle le colorant du Nom a été dissous.
 
 [^1]: Le verset est également traduit par « Bénédiction sur Toi ! » qui aurait été la première salutation que Brahma T'adressa.
 
@@ -733,7 +733,7 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^1]: Le verset est également traduit —Les Védas se sont enfin lassés de chercher les limites de Dieu, mais ils ne peuvent pas donner la moindre description de Lui.
 
-[^2] : Comme il n'y a que dix-huit Purâns, l'expression dans le texte signifie mille fois dix-huit, soit un nombre indéfini. Le mot _sahans_ est également compris par les gyânis comme désignant les rikhis et les érudits en nombre indéfini.
+[^2]: Comme il n'y a que dix-huit Purâns, l'expression dans le texte signifie mille fois dix-huit, soit un nombre indéfini. Le mot _sahans_ est également compris par les gyânis comme désignant les rikhis et les érudits en nombre indéfini.
 
 [^3]: C'est-à-dire que Dieu est la racine ou le principe de toutes choses.
 
@@ -741,17 +741,17 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^1]: Également traduit : Il n’y a pas de limite au Loué.
 
-[^2] : Une métaphore tirée des rives d'une rivière.
+[^2]: Une métaphore tirée des rives d'une rivière.
 
 [^3]: _Billâh_, littéralement, pleurer de douleur.
 
-[^4] : _Karm_, en sanskrit, signifie travail ; en persan, bonté, faveur ou générosité. Le contexte semble indiquer que c'est ce dernier terme qui est visé.
+[^4]: _Karm_, en sanskrit, signifie travail ; en persan, bonté, faveur ou générosité. Le contexte semble indiquer que c'est ce dernier terme qui est visé.
 
 [^5]: Comparer. _Man Vekârin veria_, l'esprit est englobé par le péché. Guru Amar Das.
 
-[^1] : _Bande_, être enfermé dans un utérus.
+[^1]: _Bande_, être enfermé dans un utérus.
 
-[^2] : _Khâik_. Ce mot se retrouve également dans le Sri Râg ki Wâr, Slok 2—_thâo nâhîn khâika_, il n'y a pas de place pour le fou.
+[^2]: _Khâik_. Ce mot se retrouve également dans le Sri Râg ki Wâr, Slok 2—_thâo nâhîn khâika_, il n'y a pas de place pour le fou.
 
 [^3]: Également traduit—
   _À ces quelques-uns_, ô Nânak. le Roi des rois
@@ -771,9 +771,9 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^3]: Ce verset est également traduit : Fais du châtiment de ton corps qui n'est pas encore marié à la mort ton manteau rapiécé, et de la foi ton bâton de mendiant.
 
-[^4] : Une secte de Jogi.
+[^4]: Une secte de Jogi.
 
-[^1] : _Adesh_, la salutation ordinaire des Jogis. Ce mot dérive de _âdi_, primordial, et de _Îsh_ ou _Îshwar_, Dieu. Guru Nânak signifie que cette salutation ne doit être adressée qu'à Dieu.
+[^1]: _Adesh_, la salutation ordinaire des Jogis. Ce mot dérive de _âdi_, primordial, et de _Îsh_ ou _Îshwar_, Dieu. Guru Nânak signifie que cette salutation ne doit être adressée qu'à Dieu.
 
 [^2]: _Anîl_\—littéralement, pas de couleur bleue, comme Kristian est représenté.
 
@@ -795,9 +795,9 @@ Le corps est d'abord formé, puis l'âme d'un autre corps y pénètre. Dieu déc
 
 [^2]: Là où les hommes récoltent les fruits de leurs actes.
 
-[^3] : Nârad, qui a instruit Dhru pour obtenir sa dignité exaltée. On dit que Nârad était un fils de Brahma. Son père lui a conseillé de se marier, mais il a rejeté son conseil, affirmant qu'il était juste d'aimer Krishan. Père et fils ont alors commencé à se maudire mutuellement, ce qui a eu des conséquences immorales et désastreuses pour tous deux. L'une des épithètes de Nârad est « fauteur de conflits ».
+[^3]: Nârad, qui a instruit Dhru pour obtenir sa dignité exaltée. On dit que Nârad était un fils de Brahma. Son père lui a conseillé de se marier, mais il a rejeté son conseil, affirmant qu'il était juste d'aimer Krishan. Père et fils ont alors commencé à se maudire mutuellement, ce qui a eu des conséquences immorales et désastreuses pour tous deux. L'une des épithètes de Nârad est « fauteur de conflits ».
 
-[^1] : _Sharm khand_. _Sharm_ ne désigne pas ici le persan _sharm_, honte, ni le sanskrit _shram_, labeur. Il s'agit du sanskrit _sharman_, bonheur. Le verset est également traduit ainsi : « Belles sont les paroles de ceux qui ont atteint le royaume du bonheur. »
+[^1]: _Sharm khand_. _Sharm_ ne désigne pas ici le persan _sharm_, honte, ni le sanskrit _shram_, labeur. Il s'agit du sanskrit _sharman_, bonheur. Le verset est également traduit ainsi : « Belles sont les paroles de ceux qui ont atteint le royaume du bonheur. »
 
 [^2]: C'est-à-dire le monde.
 

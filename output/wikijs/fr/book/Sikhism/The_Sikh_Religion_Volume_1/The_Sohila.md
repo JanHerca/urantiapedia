@@ -133,7 +133,7 @@ L'esclave Nanak aspire au bonheur d'être réduit à la poussière des pieds des
 
 [^2]: Le sens est que Guru Nanak rejette les systèmes hindous.
 
-[^1] : Le corps.
+[^1]: Le corps.
 
 [^1]: Cette partie et la conclusion de la ligne précédente sont également traduites—
   Celui que le saint qui connaît Dieu réveille sera sauvé,

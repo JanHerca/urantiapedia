@@ -88,7 +88,7 @@ Le slok final du Japji fut alors chanté. Le gourou se couvrit d'un drap, pronon
 
 [^2]: Avant le mariage, les proches de la mariée l'oignent d'huile.
 
-[^3] : Râg Gauri Dîpaki. Guru Nânak fit répéter cet hymne pour lui en signe de joie au moment de sa mort. Il est toujours lu lors d'une cérémonie funéraire.
+[^3]: Râg Gauri Dîpaki. Guru Nânak fit répéter cet hymne pour lui en signe de joie au moment de sa mort. Il est toujours lu lors d'une cérémonie funéraire.
 
 <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
@@ -164,4 +164,4 @@ Il réduisit les quatre castes hindoues à une seule. Qu'un Sikh appartienne ou 
 
 [^1]: Wadhans, Alâhaniân.
 
-[^1] : Hanifi, Shâfai, Mâliki et Hanbali.
+[^1]: Hanifi, Shâfai, Mâliki et Hanbali.

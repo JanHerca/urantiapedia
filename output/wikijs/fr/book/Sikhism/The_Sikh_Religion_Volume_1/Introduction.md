@@ -528,33 +528,33 @@ Ceux qui, forts de leur sagesse et de leur infaillibilité, et vivant à l'écar
 
 [^1]: Certains disent que les Sahijdharis ont reçu leur nom des promesses de certains Sikhs à l'époque de Guru Gobind Singh, qu'ils n'accepteraient pas son baptême à l'époque, mais qu'ils le feraient progressivement.
 
-[^1] : Primus in orbe deos fecit timor.' _Theb._ iii. 661.
+[^1]: Primus in orbe deos fecit timor.' _Theb._ iii. 661.
 
 [^2]: Pendant de longues années après la découverte et l'étude du sanskrit, il n'y eut aucun doute sur l'identité de Varuna avec Ouranos. Des doutes ont maintenant surgi dans l'esprit de certaines personnes en raison, dit-on, de difficultés phonétiques.
 
-[^1] : Tacite a écrit à propos des anciens Germains : « Herthum, id est terram matrem, colunt eamque interviente rebus hominum, invehi populis arbitrantur », _ Germania_, cap. XI.
+[^1]: Tacite a écrit à propos des anciens Germains : « Herthum, id est terram matrem, colunt eamque interviente rebus hominum, invehi populis arbitrantur », _ Germania_, cap. XI.
 
 [^2]: Une idole dans un temple, Harihareshwar, à la périphérie de l'État de Maisûr (Mysore) contient les emblèmes conjoints de Vishnu et Shiv.
 
-[^3] : Aesch. _Bal de promo. Vinc._ 49.
+[^3]: Aesch. _Bal de promo. Vinc._ 49.
 
 [^1]: Aesch. _Frag_.
 
 [^2]: Lucain, _Pharsale_ ix.
 
-[^3] : Rik Veda, X, 129. Tacite désigne un Dieu adoré sous différents noms par les Germains, et perçu seulement par la lumière de la foi : « Deorum nominibus appellant secretum illud quod sola reverentia vident. » On peut remarquer ici que le récit de Tacite sur la Germanie et son peuple est beaucoup plus digne de confiance que celui de César, qui était un écrivain moins philosophe. César affirme que les Germains adoraient le soleil, le feu et la lune, et eux seuls.
+[^3]: Rik Veda, X, 129. Tacite désigne un Dieu adoré sous différents noms par les Germains, et perçu seulement par la lumière de la foi : « Deorum nominibus appellant secretum illud quod sola reverentia vident. » On peut remarquer ici que le récit de Tacite sur la Germanie et son peuple est beaucoup plus digne de confiance que celui de César, qui était un écrivain moins philosophe. César affirme que les Germains adoraient le soleil, le feu et la lune, et eux seuls.
 
 [^1]: Les paroles indiennes de cet hymne seront expliquées ultérieurement.
 
 [^1]: Les Grecs anciens croyaient aussi que Dieu avait créé l'homme à l'image divine. Ainsi Platon — {grec W!sd\`e kinhðe'n au?to\` kai\` zw^ne?no'hse tw^na?ïdi'wn ðew^n gegono\`sa?'galma o! gennh'sas path'r, h?gasðh te kai\` eu?franðei\`se?'ti dh\` ma^llon o!'moion pro\`s to\` para'deigma e?peno'hsen a?perga'sasðai} (Le Père créateur, voyant que cette image des dieux immortels avait à la fois le mouvement et la vie, fut satisfait, et dans sa joie, réfléchit à la manière dont il pourrait la façonner encore plus semblable à son prototype), _Timée_.
 
-[^1] : Comparez ; {grec ?Anðrw'pou ge psyxh', ei?'per ti kai\` a?'llo tw^na?nðrwpi'nwn, tou^ ðei'ou me'texei}, Xénophe. _Mémoire_.; « Humanus autem animus decerptus ex divina mente cum alio nullo nisi cum ipso Deo, si hoc est fas dictu, comparari potest », Cicéron, _Tusc. Disp._
+[^1]: Comparez ; {grec ?Anðrw'pou ge psyxh', ei?'per ti kai\` a?'llo tw^na?nðrwpi'nwn, tou^ ðei'ou me'texei}, Xénophe. _Mémoire_.; « Humanus autem animus decerptus ex divina mente cum alio nullo nisi cum ipso Deo, si hoc est fas dictu, comparari potest », Cicéron, _Tusc. Disp._
 
 [^2]: Comparez aussi les expressions attribuées au Christ dans l'Évangile selon saint Jean : « Moi et le Père nous sommes un », « Je suis dans le Père et le Père en moi », et encore : « Je suis en mon Père, et vous en moi et moi en vous ».
 
-[^1] : Virgile, _Énéide_ vi. 7 45.
+[^1]: Virgile, _Énéide_ vi. 7 45.
 
-[^2] : Dans les _Tusculan Disputations_, Cicéron cite un paragraphe qu'il avait écrit dans un ouvrage sur la Consolation, dans lequel il semble traiter l'âme et l'esprit comme étant identiques. Après avoir parlé de l'âme comme de ce qui possède le sentiment, la compréhension, la vie et la vigueur (« quicquid est illud, quod sentit, quod sapit, quod vivit, quod viget »), il déclare que l'esprit humain est de même espèce et de même nature (« Hoc e genere atque eadem e natura, est humana mens »), _Tusc. Disp._i. 27.
+[^2]: Dans les _Tusculan Disputations_, Cicéron cite un paragraphe qu'il avait écrit dans un ouvrage sur la Consolation, dans lequel il semble traiter l'âme et l'esprit comme étant identiques. Après avoir parlé de l'âme comme de ce qui possède le sentiment, la compréhension, la vie et la vigueur (« quicquid est illud, quod sentit, quod sapit, quod vivit, quod viget »), il déclare que l'esprit humain est de même espèce et de même nature (« Hoc e genere atque eadem e natura, est humana mens »), _Tusc. Disp._i. 27.
 
 [^1]: Saint Paul parle d'un corps spirituel (1 Cor. xv. 44).
 
@@ -576,7 +576,7 @@ Le mot « Bhâi » signifie « frère ». Guru Nanak, qui ignorait les castes et
 
 [^2]: Le Diwâli, à l'origine une fête observée uniquement par les hindous en l'honneur de Lakshmi, leur déesse de la richesse, le 15e jour de Kârtik (octobre-novembre). C'était la date à laquelle Bhâi Budha le premier Granthi {note de bas de page p. lxxvi} a terminé sa lecture du Granth Sahib, et il est par conséquent devenu également une fête sikh.
 
-[^1] : La généalogie de Bhâi Gurbakhsh Singh est la suivante : Bhâi Budha, qui a vécu de l'époque de Guru Nânak à celle de Guru Har Gobind, a engendré Bhâna, qui a engendré Sarwan, qui a engendré Jalâl, qui a engendré Jhanda, qui a engendré Gurditta, qui a engendré Bhâi Râm Kanwar (Gurbakhsh Singh).
+[^1]: La généalogie de Bhâi Gurbakhsh Singh est la suivante : Bhâi Budha, qui a vécu de l'époque de Guru Nânak à celle de Guru Har Gobind, a engendré Bhâna, qui a engendré Sarwan, qui a engendré Jalâl, qui a engendré Jhanda, qui a engendré Gurditta, qui a engendré Bhâi Râm Kanwar (Gurbakhsh Singh).
 
 [^1]: Comparez la manière dont les Janamsakhis ou évangiles se sont multipliés dans l'Église chrétienne primitive. « Un grand nombre d'écrits apocryphes portant les noms des apôtres et de leurs disciples, et revendiquant une autorité apostolique plus ou moins directe, circulaient dans l'Église primitive - les Évangiles selon Pierre, selon Thomas, selon Jacques, selon Judas, selon les Apôtres, ou selon les Douze, selon Barnabé, selon Matthias, selon Nicodème, etc. ; et les écrivains ecclésiastiques apportent un témoignage abondant de la croissance précoce et rapide de la littérature apocryphe. » _Supernatural Religion_, Vol. i, p. 292. Il peut être mentionné incidemment que c'est l'Évangile selon Barnabé que Mahomet a utilisé dans la composition du Coran.
 

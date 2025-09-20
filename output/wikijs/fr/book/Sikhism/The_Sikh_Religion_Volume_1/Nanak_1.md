@@ -339,7 +339,7 @@ Il ne semble pas que l'acquisition du persan ait orienté les pensées de Nanak 
 
 [^1]: Pandit signifie un homme érudit, mais le titre est désormais approprié par les brahmanes versés dans la littérature sanskrite.
 
-[^2] : Mâyâ. Dans les écrits sacrés des Sikhs, ce mot a deux significations : l'une est mammon, comme le mot est traduit ici ; l'autre est illusion ou pouvoir mystique de Dieu par lequel Il a créé la matière.
+[^2]: Mâyâ. Dans les écrits sacrés des Sikhs, ce mot a deux significations : l'une est mammon, comme le mot est traduit ici ; l'autre est illusion ou pouvoir mystique de Dieu par lequel Il a créé la matière.
 
 [^3]: Le mot Guru signifie grand. Ici, il désigne Dieu. Dans un sens secondaire, il s'applique à un grand enseignant religieux.
 
@@ -361,15 +361,15 @@ Il ne semble pas que l'acquisition du persan ait orienté les pensées de Nanak 
 
 [^1]: Chaupar est le jeu de dames indien.
 
-[^2] : Initiale de Madhusûdan, l'un des noms donnés à Dieu. Il pourrait également s'agir de l'initiale du mot arabe _maut_, mort.
+[^2]: Initiale de Madhusûdan, l'un des noms donnés à Dieu. Il pourrait également s'agir de l'initiale du mot arabe _maut_, mort.
 
 [^1]: Le sanskrit traite des six systèmes philosophiques des hindous. Ce sont : le Nyâya fondé par Gautama, le Vaisheshika par Kanâda, le Sânkhya par Kapila, le Yoga par Patanjali, le Mimânsa par Jaimini, le Vedânt par Vyâs. Ces six systèmes ont été savamment exposés par Max Müller dans son ouvrage « Philosophie indienne ».
 
 [^2]: À cette époque, en Inde, l'encre était fabriquée à partir d'écorces d'amandes brûlées et de gomme.
 
-[^3] : Correspondant au {grec e?kei^} en grec, l'autre monde.
+[^3]: Correspondant au {grec e?kei^} en grec, l'autre monde.
 
-[^1] : Littéralement, on les appelle commandants. Cela fait référence à la coutume des parents de donner à leurs fils des noms ronflants.
+[^1]: Littéralement, on les appelle commandants. Cela fait référence à la coutume des parents de donner à leurs fils des noms ronflants.
 
 [^2]: Dans les écrits sikhs, le mot Nom est fréquemment utilisé pour Dieu. Une pratique quelque peu similaire était connue des anciens Juifs (Amos VII. 10). À une époque trop ancienne pour être retracée, les Juifs s'abstenaient de prononcer le nom Jéhovah par crainte de son usage irrévérencieux, et prononçaient à la place Adonaï ou Seigneur. À ce propos, nous pouvons dire que la répétition du nom de Dieu est l'une des principales formes de culte sikh. Les formes de prière établies ont tendance à être répétées mécaniquement ou ostentatoirement ; et on croyait que par la répétition constante et sincère du nom de Dieu, l'homme finirait par s'absorber en Lui, et ainsi atteindre l'objectif suprême de la naissance humaine après d'innombrables transmigrations.
 
@@ -385,11 +385,11 @@ Il ne semble pas que l'acquisition du persan ait orienté les pensées de Nanak 
 
 [^1]: Dans les instituts de Parâsar, on trouve une injonction de ne pas parler la langue des habitants de Yavan – un mot qui désignait à l'origine la Grèce, mais qui fut ensuite appliqué à l'Arabie – même si cela empêchait la vie de sortir par la gorge. Parâsar possédait l'horreur hindoue des pays étrangers et l'exprimait. Ses paroles sont maintenant comprises par les Hindous comme se référant à la langue des Musulmans, bien qu'il n'y ait plus eu de Musulmans pendant des siècles après son époque.
 
-[^2] : Loi musulmane.
+[^2]: Loi musulmane.
 
 [^3]: Environ un huitième de farthing de monnaie anglaise.
 
-[^1] : La luxure, la colère, la convoitise, l’amour du monde et l’orgueil.
+[^1]: La luxure, la colère, la convoitise, l’amour du monde et l’orgueil.
 
 [^2]: Il existe quatre étapes du soufisme : Sharîat, la loi ou les cérémonies extérieures ; Tarîqat, la marche dans la voie de Dieu ; Mârafat, la connaissance divine ; Haqîqat, la certitude ou l'union avec Dieu. De nombreux érudits natifs de l'Inde croient que le système soufiste est basé sur le Vedânt.
 

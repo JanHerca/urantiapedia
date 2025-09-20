@@ -38,7 +38,7 @@ Lorsque Har Gobind fut complètement rétabli, il y eut des illuminations et de 
 
 Prithia fit venir le nourrice de Har Gobind et lui dit : « Tu es un grand brahmane et c'est pourquoi je pense toujours à toi. Quel est ton salaire ? » « Tu ne portes ni collier ni bracelet. Arjan gaspille pour les autres et se vante de sa générosité. Tu n'as rien reçu, même à la naissance de l'enfant. Mon ami, si tu travailles pour moi, je remplirai ta maison de richesses et tu ne manqueras pas de bijoux. Mais puisque tu es intime avec la famille d'Arjan, je ne te dirai ce que je veux que tu fasses que si tu prêtes serment sur ton janeu de garder mon secret. » Lorsque le serviteur obéit, Prithia dit : « Prends-moi cinq cents roupies et tue ce garçon. Je te montrerai comment faire. Tu n'auras pas de difficulté, car il est avec toi toute la journée. Mets du poison dans du lait caillé ou du pudding au pain, et retire l'épine de mes yeux. » Je te donnerai la moitié de l'argent maintenant, et l'autre moitié quand tu auras fait ce que tu voulais. N'aie aucune crainte.
 
-Le brahmane fut ainsi persuadé de promettre d'empoisonner l'enfant. Il prit un poison très puissant et le réduisit en poudre. Le lendemain, lorsque la mère du garçon lui envoya du lait par l'intermédiaire d'un autre serviteur, le brahmane trouva l'occasion d'y verser le poison. L'enfant détourna la tête de la nourriture empoisonnée, la repoussa et demanda autre chose à boire. Le brahmane se mit à le caresser et à lui tapoter la tête, en disant : « Tu devrais certainement boire cela. » L'enfant se mit alors à pleurer. Le gourou l'entendit, fit appeler le brahmane et lui demanda la cause des pleurs qu'il avait entendus. Le brahmane répondit qu'il avait offert du lait sucré à l'enfant, mais qu'il refusait et, pressé de le faire, se mit à pleurer.
+Le brahmane fut ainsi persuadé de promettre d'empoisonner l'enfant. Il prit un poison très puissant et le réduisit en poudre. Le lendemain, <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> lorsque la mère du garçon lui envoya du lait par l'intermédiaire d'un autre serviteur, le brahmane trouva l'occasion d'y verser le poison. L'enfant détourna la tête de la nourriture empoisonnée, la repoussa et demanda autre chose à boire. Le brahmane se mit à le caresser et à lui tapoter la tête, en disant : « Tu devrais certainement boire cela. » L'enfant se mit alors à pleurer. Le gourou l'entendit, fit appeler le brahmane et lui demanda la cause des pleurs qu'il avait entendus. Le brahmane répondit qu'il avait offert du lait sucré à l'enfant, mais qu'il refusait et, pressé de le faire, se mit à pleurer.
 
 Le gourou, prenant l'enfant dans ses bras, commença à l'encourager à boire ce qu'on lui offrait. Cependant, l'enfant détournait toujours la tête et refusait d'y toucher. Le gourou soupçonna alors un autre complot. Il prit un peu de la potion et la donna à un chien, qui tomba malade aussitôt et mourut peu après. Le brahmane, voyant l'état du chien, fut lui-même pris de coliques et commença à souffrir terriblement. Il avoua son intention d'empoisonner l'enfant à l'instigation de Prithia, puis s'éteignit. Sur ces mots, le gourou composa ce qui suit :
 
@@ -53,7 +53,7 @@ Le visage du calomniateur est noirci ici et dans l’au-delà.
 Dieu a entendu la prière de son serviteur Nanak,
 Et le vil pécheur fut détruit sans espoir.[^2]
 
-Guru Arjan saisit l'occasion de reprocher à Prithia ses desseins meurtriers. Furieux de leur découverte, Prithia décida de partir avec sa famille pour Dihhi afin de porter plainte contre le Guru auprès de l'empereur Akbar et d'anticiper ainsi toute accusation ultérieure. Mahadev s'efforça de le retenir et cita de nombreux passages d'écrits anciens pour prouver que des frères doivent vivre en harmonie ; mais aucune remontrance ne put retenir Prithia. Avant son départ pour Dihhi, il décida de se rendre au village de Hehar et de rendre visite à son ami Sulahi. Sulahi lui conféra la propriété du village, et il y resta quelque temps pour construire un réservoir d'eau à usage public. Le Guru envoya Bhai Gur Das à Prithia afin de tenter de le concilier. Bhai Gur Das échoua dans les négociations et ne reçut que des insultes à l'adresse du Guru. Gur Das composa alors le texte suivant :
+Guru Arjan saisit l'occasion de reprocher à <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> Prithia ses desseins meurtriers. Furieux de leur découverte, Prithia décida de partir avec sa famille pour Dihhi afin de porter plainte contre le Guru auprès de l'empereur Akbar et d'anticiper ainsi toute accusation ultérieure. Mahadev s'efforça de le retenir et cita de nombreux passages d'écrits anciens pour prouver que des frères doivent vivre en harmonie ; mais aucune remontrance ne put retenir Prithia. Avant son départ pour Dihhi, il décida de se rendre au village de Hehar et de rendre visite à son ami Sulahi. Sulahi lui conféra la propriété du village, et il y resta quelque temps pour construire un réservoir d'eau à usage public. Le Guru envoya Bhai Gur Das à Prithia afin de tenter de le concilier. Bhai Gur Das échoua dans les négociations et ne reçut que des insultes à l'adresse du Guru. Gur Das composa alors le texte suivant :
 
 La grue, bien que résidant dans un lieu de pèlerinage, n'est pas satisfaite.
 Il pleut près du chatrik, et pourtant il ne boit pas.
@@ -64,7 +64,7 @@ Le vrai Guru Arjan est le vrai roi ; le visage de la mina Prithia a été noirci
 
 Le sens de cet hymne semble être que nul ne sait quand il est riche. Prithia n'appréciait pas l'avantage de résider près du gourou.
 
-Une lettre de l'empereur fut reçue en temps voulu, convoquant Sulahi à Dihli. Il emmena Prithia avec lui pour déposer plainte contre le gourou. L'empereur décida, premièrement, qu'il n'interviendrait pas dans les affaires des religieux, et deuxièmement, que le mémorial était faux. Prithia, accablé par sa déception, tomba gravement malade. Le gourou, apprenant le résultat final des démarches de son ennemi, composa le texte suivant :
+Une lettre de l'empereur fut reçue en temps voulu, convoquant Sulahi à Dihli. Il emmena Prithia avec lui pour déposer plainte contre le gourou. L'empereur décida, premièrement, qu'il <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> n'interviendrait pas dans les affaires des religieux, et deuxièmement, que le mémorial était faux. Prithia, accablé par sa déception, tomba gravement malade. Le gourou, apprenant le résultat final des démarches de son ennemi, composa le texte suivant :
 
 Dieu Lui-même a montré que le mémorial était faux,
 Et l’affliction s’abattit sur le pécheur.
@@ -74,7 +74,7 @@ L'aveugle fou a menti au vrai tribunal,
 Et il frappa sa tête avec ses mains.
 Ceux qui commettent le péché contractent la maladie.
 Dieu Lui-même s’est assis comme juge.
-Prithia est impliqué dans les conséquences de ses propres actes ;
+Prithia est impliqué dans _les conséquences de_ ses propres actes ;
 Toutes ses richesses disparaîtront avec sa vie.
 Nanak, mon Créateur garde l'honneur de ceux
 Qui recherchent la protection de Sa cour.[^4]
@@ -83,13 +83,13 @@ Lorsque Har Gobind fut en âge de recevoir son instruction, le gourou se rendit 
 
 Celui qui a médité sur la connaissance confère des faveurs aux autres.[^5]
 
-Bhai Budha commença son enseignement. Il écrivit d'abord les trente-cinq lettres de l'alphabet Gurumukhi sur une tablette de bois et en donna le nom à Har Gobind. L'élève les répéta aussitôt de mémoire comme s'il les connaissait déjà. En quelques jours, il sut associer les voyelles aux consonnes et maîtrisa l'orthographe. Il commença alors à lire les hymnes du Guru, ce qui développa sa perception et sa compréhension. Peu après, il reçut le don des langues. On lui enseigna ensuite le maniement des armes offensives et défensives, l'équitation, la natation, la chimie, l'astronomie, la médecine, l'agriculture, l'administration et d'autres sciences. Une fois son éducation terminée, le Guru l'emmena au temple, remercia Dieu et remercia Bhai Budha pour son enseignement complet et réussi.
+Bhai Budha commença son enseignement. Il écrivit d'abord <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> les trente-cinq lettres de l'alphabet Gurumukhi sur une tablette de bois et en donna le nom à Har Gobind. L'élève les répéta aussitôt de mémoire comme s'il les connaissait déjà. En quelques jours, il sut associer les voyelles aux consonnes et maîtrisa l'orthographe. Il commença alors à lire les hymnes du Guru, ce qui développa sa perception et sa compréhension. Peu après, il reçut le don des langues. On lui enseigna ensuite le maniement des armes offensives et défensives, l'équitation, la natation, la chimie, l'astronomie, la médecine, l'agriculture, l'administration et d'autres sciences. Une fois son éducation terminée, le Guru l'emmena au temple, remercia Dieu et remercia Bhai Budha pour son enseignement complet et réussi.
 
 Un sikh nommé Paira vivait auprès du gourou Arjan et le servait jour et nuit. L'enseignement du gourou fit une profonde impression sur lui. À cette époque, un pandit fier et ritualiste arriva pour tenir une controverse religieuse avec le gourou. Le lendemain matin, il posa un tilak sur son front et alla s'asseoir en dévotion au bord du bassin du gourou. On lui offrit un salagram, une cloche et un coquillage, qu'il exhiba avec ostentation.
 
-Le gourou avait l'habitude de se baigner chaque matin dans son bassin. Après cela, il entrait dans le temple et effectuait quatre circumambulations. Puis, en sortant, il en faisait quatre autres. Lors de la première ronde, il passait devant le pandit, mais ne s'inclina ni devant lui ni devant son salagram. Le pandit se mit en colère et dit que le gourou et ses sikhs s'étaient malheureusement éloignés du culte orthodoxe. « Bien qu'il se qualifie de gourou », dit le pandit, « et qu'il ait des disciples et des adorateurs, il n'est qu'un Khatri et un père de famille, tandis que je suis un brahmane rigide et continent. Il aurait donc dû m'adorer. Ram et Krishan, qui étaient des incarnations de Dieu, vénéraient et adoraient les brahmanes. » Le gourou comprit ce qui se passait dans l'esprit du brahmane et s'arrêta pour lui parler lors de la seconde circumambulation. « Excellent deux fois né, quelles pensées as-tu conçues pour te mettre en colère ? Je t'en prie, explique-moi la cause de ta colère. » Le brahmane en expliqua brièvement la cause. Le gourou entonna alors l'hymne suivant :
+Le gourou avait l'habitude de se baigner chaque matin dans son bassin. Après cela, il entrait dans le temple et effectuait quatre circumambulations. Puis, en sortant, il en faisait quatre autres. Lors de la première ronde, il passait devant le pandit, mais ne s'inclina ni devant lui ni devant son salagram. Le pandit se mit en colère et dit que le gourou et ses sikhs s'étaient malheureusement éloignés du culte orthodoxe. « Bien qu'il se qualifie de gourou », dit le pandit, « et qu'il ait des disciples et des adorateurs, il n'est qu'un Khatri et un père de famille, tandis que je suis un brahmane rigide et continent. Il aurait donc dû m'adorer. Ram et Krishan, <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> qui étaient des incarnations de Dieu, vénéraient et adoraient les brahmanes. » Le gourou comprit ce qui se passait dans l'esprit du brahmane et s'arrêta pour lui parler lors de la seconde circumambulation. « Excellent deux fois né, quelles pensées as-tu conçues pour te mettre en colère ? Je t'en prie, explique-moi la cause de ta colère. » Le brahmane en expliqua brièvement la cause. Le gourou entonna alors l'hymne suivant :
 
-Tu lis les Védas avec leurs commentaires,
+Tu lis _les Védas_ avec leurs commentaires,
 Mais le Dieu omniprésent ne demeure pas dans ton cœur.[^6]
 Tu donnes des instructions pour rendre les hommes fermes dans leur foi,
 Mais tu ne fais pas toi-même ce que tu prêches.
@@ -99,7 +99,7 @@ Tu places un salagramme devant toi,
 Mais tes pensées sont dispersées dans toutes les directions.
 Tu mets un tilak sur le salagram et tu tombes à ses pieds.
 Tu suis aveuglément le monde.
-Tu accomplis les six devoirs, tu étends ta natte et tu portes un pagne ;
+Tu accomplis les six devoirs, tu _étends_ ta natte et tu _portes_ un pagne ;
 Mais c'est seulement dans les maisons riches que tu lis tes livres,
 Tu récites ton chapelet et tu demandes l’aumône,
 Ô mon ami, personne n’a été sauvé de cette façon.
@@ -127,7 +127,7 @@ La compagnie des saints est sa cour parfaite.[^9]
 Chanter les louanges de Dieu, qui procure toujours du plaisir, est mon adoration.
 Sa grandeur est belle et éternelle.
 Celui qui est venu sous la protection des pieds des saints
-Et si j'ai de la chance, j'obtiendrai un tel salagramme.[^10]
+Et si j'ai de la chance, j'obtiendrai _un tel salagramme_.[^10]
 
 Le gourou a également cité ce qui suit à la même occasion :
 
@@ -135,10 +135,10 @@ Le gourou a également cité ce qui suit à la même occasion :
 Tu dois laisser toutes ces choses vaines et partir.
 Dit Nanak, ô Dieu, accorde-moi ta miséricorde
 La faveur de la compagnie des saints.
-L'homme obtient quelque chose lorsqu'il devient la poussière des pieds des saints.
+L'homme obtient quelque chose lorsqu'il devient la poussière _des pieds des saints_.
 Celui à qui Dieu donne l’intelligence répète son nom.
 
-Le brahmane désirait poursuivre la controverse, mais le gourou l'évitait autant que possible. Finalement, il consentit à l'entendre parler des Védas et des Upanishads.[^11] Le brahmane conclut par un discours sur la nature de Brahm. Lorsqu'il eut terminé, Bhai Salo se présenta et fut accueilli par le gourou comme son Ananya Bhagat, ou saint monothéiste. Le brahmane affirma qu'une telle appellation ne pouvait s'appliquer qu'à lui-même. Le gourou nia, arguant qu'il adorait de nombreux dieux. Sur ce, le brahmane présenta tous les livres qu'il avait apportés, mais ils ne suffirent pas à satisfaire le gourou. Le brahmane proposa alors d'envoyer son fils à Bénarès pour récupérer le reste de sa bibliothèque. Les astrologues avaient fixé un moment propice pour le départ du fils, mais après son départ, il rencontra un âne qui braillait. Pensant à un mauvais présage, il revint. Cet événement provoqua beaucoup de plaisanteries et d'amusement chez les Sikhs, qui n'en furent que plus convaincus de la véracité de leur religion.
+Le brahmane désirait poursuivre la controverse, mais le gourou l'évitait autant que possible. Finalement, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> il consentit à l'entendre parler des Védas et des Upanishads.[^11] Le brahmane conclut par un discours sur la nature de Brahm. Lorsqu'il eut terminé, Bhai Salo se présenta et fut accueilli par le gourou comme son Ananya Bhagat, ou saint monothéiste. Le brahmane affirma qu'une telle appellation ne pouvait s'appliquer qu'à lui-même. Le gourou nia, arguant qu'il adorait de nombreux dieux. Sur ce, le brahmane présenta tous les livres qu'il avait apportés, mais ils ne suffirent pas à satisfaire le gourou. Le brahmane proposa alors d'envoyer son fils à Bénarès pour récupérer le reste de sa bibliothèque. Les astrologues avaient fixé un moment propice pour le départ du fils, mais après son départ, il rencontra un âne qui braillait. Pensant à un mauvais présage, il revint. Cet événement provoqua beaucoup de plaisanteries et d'amusement chez les Sikhs, qui n'en furent que plus convaincus de la véracité de leur religion.
 
 Le gourou convoqua Paira et lui dit que, lors de sa visite à Ceylan, Guru Nanak avait composé le Pransangali et l'y avait laissé jusqu'à ce qu'un de ses successeurs le réclame. Le gourou donna à Paira des instructions pour qu'il aille chercher le volume. Alors que la question des fonds pour le long voyage était à l'étude, un sikh s'avança et offrit au gourou cinq paise – tout ce qu'il possédait au monde. Le gourou donna cette somme à Paira pour ses frais de voyage et le congédia sans consulter d'astrologue. Le brahmane remarqua cette omission, sur quoi le gourou lui fit une leçon sur les méfaits de la superstition. Bhai Gur Das, qui se trouvait avec le gourou, écrivit la strophe suivante à cette occasion :
 
@@ -147,14 +147,14 @@ Après avoir consulté les astrologues et calculé les moments propices, tu pars
 Quand tu sors, si tu rencontres un âne ou un chien, la superstition est réveillée par le présage et tu reviens chez toi.
 Tu n'as pas le don de continence, et tu n'es pas content du soutien d'un seul Dieu ; l'indécision étant dans ton cœur, tu n'obtiendras pas le rang suprême.
 
-Tel est le pouvoir de l'association avec la compagnie des Sikhs du Guru que la continence est produite, l'homme s'appuie sur un seul soutien et son indécision est supprimée.
+Tel est le pouvoir de l'association avec la compagnie des Sikhs du Guru que la continence est produite, _l'homme s'appuie sur_ un seul soutien et son indécision est supprimée.
 Il ne consultera pas les astrologues ni les Védas, ni ne demandera le jour lunaire ou le jour de la semaine ; et il n'attachera pas à son cœur aucune superstition concernant les planètes et les demeures lunaires.
 Il ne tiendra aucun compte des présages ou des conjonctions des planètes et ne servira pas d’autres dieux ; et il fixera son attention, son amour et son affection sur la parole de l’Informe.
 Les Sikhs et les saints sont comme des enfants ; le saint gourou est leur protecteur ; ceux qui méditent sur Dieu obtiendront le salut de leur vivant.[^14]
 
 À ces mots, l'orgueil du brahmane fut profondément humilié et il dut admettre que les Sikhs étaient supérieurs à ses propres coreligionnaires. Son cœur brûlant trouva du réconfort dans les instructions du Guru. Il jeta son salagram, commença à prononcer le vrai Nom, fut initié à la religion sikh et obtint ainsi le salut. Plusieurs autres pandits érudits suivirent son exemple et acceptèrent la foi pure du Guru Nanak.
 
-Paira atteignit Ceylan avec beaucoup de difficulté, ce qui était naturel compte tenu des faibles frais de voyage qui lui étaient accordés. Le roi de Ceylan le reçut avec respect, le traita avec hospitalité et lui remit le volume requis, ainsi qu'une lettre et de nombreux présents pour le gourou, et l'autorisa à repartir pour Amritsar. Le Pransangali fut ensuite volé par un prétendu sâdhu, ou saint homme.[^15]
+Paira atteignit Ceylan avec beaucoup de difficulté, ce qui était naturel compte tenu des faibles frais de voyage qui lui étaient accordés. Le roi de Ceylan le reçut avec respect, le traita avec hospitalité et lui remit le volume requis, ainsi qu'une lettre et de nombreux présents <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> pour le gourou, et l'autorisa à repartir pour Amritsar. Le Pransangali fut ensuite volé par un prétendu sâdhu, ou saint homme.[^15]
 
 ## CHAPITRE VII
 
@@ -162,7 +162,7 @@ Paira atteignit Ceylan avec beaucoup de difficulté, ce qui était naturel compt
 
 Guru Arjan ressentit alors la nécessité d'établir des règles pour guider ses disciples dans l'accomplissement de leurs devoirs religieux quotidiens et de leurs rites expiatoires. Cette démarche réduirait sa religion à sa cohérence et empêcherait les doctrines et rituels divergents. Cependant, ce parachèvement ne pourrait être atteint que si les paroles exactes des gourous étaient consignées de façon permanente dans un seul et même volume. Le gourou était conforté dans cette détermination par les informations qu'il recevait continuellement selon lesquelles Prithia composait ses propres hymnes religieux, qu'il présentait comme les compositions de Guru Nanak et de ses successeurs, et que la population ignorante n'avait pas l'intelligence nécessaire pour les distinguer. Guru Amar Das, dans les vingt-troisième et vingt-quatrième pauris de l'Anand, avait décidé que seuls les véritables hymnes du gourou devaient être répétés et vénérés par les sikhs. En conséquence, ces compositions devaient être rassemblées et arrangées pour guider les fidèles. Les hymnes que Prithia s'efforçait d'imposer au public ne pouvaient avoir que des conséquences néfastes.
 
-Outre les hymnes des gourous, Guru Arjan loua les compositions de Gur Das, en particulier son « Waran ». Ainsi félicité, Gur Das se porta volontaire pour aller trouver Goindwal, auprès de Mohan, fils aîné du troisième gourou, afin de lui remettre les volumes contenant ses compositions. Gur Das, cependant, ne parvint pas à attirer l'attention de Mohan. Il s'était enfermé chez lui et, disait-on, était absorbé par ses dévotions. Gur Das continua à frapper à sa porte toute une nuit, sans obtenir de réponse. Il retourna alors à Amritsar et raconta au gourou son échec.
+Outre les hymnes des gourous, Guru Arjan loua les compositions de Gur Das, en particulier son « Waran ». Ainsi félicité, Gur Das se porta volontaire pour aller trouver Goindwal, auprès de Mohan, fils aîné du troisième gourou, afin de lui remettre les volumes contenant ses compositions. Gur Das, cependant, ne parvint pas à attirer l'attention de Mohan. Il s'était enfermé chez lui et, disait-on, était absorbé par ses dévotions. Gur Das continua à frapper à sa porte <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> toute une nuit, sans obtenir de réponse. Il retourna alors à Amritsar et raconta au gourou son échec.
 
 Bhai Budha se porta alors volontaire. Arrivé à Goindwal, il tenta d'attirer l'attention de Mohan, mais en vain. Il ouvrit alors sa porte et trouva Mohan dans un état simulant l'inconscience. Mohri, le frère cadet de Mohan, arriva en entendant le tumulte et conseilla à Bhai Budha de ne pas réveiller le dormeur. Sur ce, Bhai Budha abandonna et retourna à Amritsar. Le gourou, apprenant son insuccès, décida d'y aller lui-même. Arrivé chez Mohan, il l'appela, mais ne reçut aucune réponse. Le gourou lui adressa alors la strophe suivante, que l'on pourrait considérer comme adressée en partie à Dieu et en partie à Mohan – Mohan signifiant l'enchanteur, étant l'un des noms de la Divinité :
 
@@ -176,8 +176,8 @@ Nanak signifie : « J'ai soif de te voir, accorde-le-moi, et tout le bonheur ser
 À ces mots, Mohan ouvrit la porte et découvrit que le gourou lui-même était venu lui rendre visite. N'étant pas totalement apaisé par les versets qu'il venait d'entendre, il reprocha au gourou d'avoir arraché la splendeur à sa famille et d'être venu voler les monuments religieux et littéraires de ses prédécesseurs. Le gourou ne prêta aucune attention à ses fanfaronnades et lui adressa une autre strophe :
 
 Ô Mohan, tes paroles sont incomparables et ton comportement est supérieur. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
-Ô Mohan, tu crois en un seul Dieu, tu traites tous les autres comme des déchets.
-Tu crois au Dieu unique et invisible qui tient toute la structure du monde.
+Ô Mohan, tu crois en un seul Dieu, _tu traites tous_ les autres comme des déchets.
+Tu crois au Dieu unique et invisible qui tient toute la structure _du monde_.
 Sous l'instruction du Guru, tu t'es soumis à Dieu, l'Être primordial.
 Toi-même, ô Dieu, tu te meus, toi-même tu restes immobile, toi-même tu soutiens tout l'édifice.
 Nanak représente, préserve mon honneur ; tous tes serviteurs recherchent ton sanctuaire.
@@ -204,7 +204,7 @@ Le gourou composa également ce qui suit à cette occasion :
 
 Je suis riche et chanceux au vrai nom ;
 Je chante les louanges de Dieu avec calme et amour.
-Quand j'ai ouvert et vu le trésor de livres sacrés de mon père et de mon grand-père [^17]
+Quand j'ai ouvert et vu le trésor de _livres sacrés_ de mon père et de mon grand-père [^17]
 Mon âme s'est enrichie ;
 Mes entrepôts étaient remplis de pierres précieuses et de rubis
 Inestimable, inépuisable et inestimable.
@@ -215,11 +215,11 @@ Nous nous joindrons à nous pour profiter de ce trésor.[^18]
 
 Après cela, le Guru et Mohan eurent une longue conversation au sujet des gourous de l'époque de Guru Nanak. Mohan fut si satisfait de l'entretien qu'il pressa son visiteur de rester avec lui. Le Guru s'excusa, prétextant le projet qu'il avait formé de compiler les hymnes de ses prédécesseurs. Il partit ensuite, promettant de revoir Mohan dès qu'il serait honoré d'une invitation.
 
-De retour à Amritsar, le gourou séjourna à Khadur. Datu, le fils de Guru Angad, qui avait chassé Guru Amar Das de son trône, alla à sa rencontre et, par humilité et en signe de contrition, se posa les questions suivantes en présence du gourou : « Comment peut-il y avoir adoration sans mérites ? Comment peut-il y avoir honneur sans savoir ? Comment peut-il y avoir victoire sans bravoure ? Comment peut-il y avoir méditation sans calme mental ? Comment le cœur peut-il trouver la paix sans contentement ? Comment peut-on obtenir un empire sans accomplir des actes méritoires ? Comment peut-il y avoir connaissance divine sans le véritable gourou ? Comment peut-on avoir honneur sans vertu ? Puisque l’océan de la vie est insondable, comment le traverser sans navire ? Comment peut-on adorer sans aimer les pieds pareils-au-lotus de Dieu ? Comment peut-on être délivré sans Dieu ? » Comment peut-on chanter sans mélodie ? Comment acquérir la gloire sans vers, la louange sans dons ? L'océan du monde est vaste : comment le traverser sans la religion sikh ? Comment peut-il y avoir un jour sans soleil ? Je n'avais ni vertus ni qualités, alors comment aurais-je pu être gourou ? Telles ont été mes réflexions.
+De retour à Amritsar, le gourou séjourna à Khadur. Datu, le fils de Guru Angad, qui avait chassé Guru Amar Das de son trône, alla à <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> sa rencontre et, par humilité et en signe de contrition, se posa les questions suivantes en présence du gourou : « Comment peut-il y avoir adoration sans mérites ? Comment peut-il y avoir honneur sans savoir ? Comment peut-il y avoir victoire sans bravoure ? Comment peut-il y avoir méditation sans calme mental ? Comment le cœur peut-il trouver la paix sans contentement ? Comment peut-on obtenir un empire sans accomplir des actes méritoires ? Comment peut-il y avoir connaissance divine sans le véritable gourou ? Comment peut-on avoir honneur sans vertu ? Puisque l’océan de la vie est insondable, comment le traverser sans navire ? Comment peut-on adorer sans aimer les pieds pareils-au-lotus de Dieu ? Comment peut-on être délivré sans Dieu ? » Comment peut-on chanter sans mélodie ? Comment acquérir la gloire sans vers, la louange sans dons ? L'océan du monde est vaste : comment le traverser sans la religion sikh ? Comment peut-il y avoir un jour sans soleil ? Je n'avais ni vertus ni qualités, alors comment aurais-je pu être gourou ? Telles ont été mes réflexions.
 
 Datu raconta alors au gourou toutes ses fautes et les conséquences de celles-ci. Il dit ressentir encore une douleur au pied blessé par les brigands. Il était allé rendre visite à Guru Amar Das sur son lit de mort et avait imploré son pardon pour ses violences. Guru Amar Das lui dit que le cinquième gourou le guérirait. Guru Arjan, considérant la descendance de Datu, posa sa main sur le membre blessé et le guérit. Après une conversation avec Datu au sujet des gourous précédents et un entretien avec son frère Dasu, il partit pour Amritsar.
 
-À son arrivée à Amritsar, le gourou planifia la compilation du Granth Sahib. Il choisit à cet effet un endroit isolé, où jand[^19], câprier sauvage, figuier indien et pipals procuraient une ombre agréable, tandis que l'herbe verte gratifiait l'œil et offrait un agréable tapis aux pieds. Des tentes furent dressées pour loger le gourou, ses bardes et ses ménestrels. Le gourou décida d'y faire construire un réservoir et entreprit de le creuser.
+À son arrivée à Amritsar, le gourou planifia la compilation du Granth Sahib. Il choisit à cet effet un endroit isolé, où jand[^19], câprier sauvage, figuier indien et pipals procuraient une ombre agréable, tandis que l'herbe verte gratifiait <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> l'œil et offrait un agréable tapis aux pieds. Des tentes furent dressées pour loger le gourou, ses bardes et ses ménestrels. Le gourou décida d'y faire construire un réservoir et entreprit de le creuser.
 
 Une fois le réservoir terminé et au moment de lui donner le nom de Ramsar, le gourou composa ce qui suit, qui peut être compris littéralement ou spirituellement :
 
@@ -229,7 +229,7 @@ Le nom de Dieu est eau bénite ;
 Celui qui s'y baigne verra tous ses désirs comblés.
 Là où l’on parle de Dieu en compagnie des saints,
 Les péchés de millions de naissances sont effacés.
-Les saints se réjouissent en se souvenant du nom de Dieu,
+Les saints se réjouissent en se souvenant du _nom de Dieu_,
 Et leurs âmes et leurs corps ressentent un plaisir suprême.
 L'esclave Nanak est un sacrifice pour lui
 Qui a acquis le trésor de la poussière des pieds de Dieu.[^21]
@@ -246,7 +246,7 @@ Les quatre gourous ont illuminé les quatre âges du monde ; toi, Arjan, tu es l
 C'est toi-même qui as créé _le monde_ ; tu en es le pilier.
 Tu es la tablette, tu es le stylo, tu es l'écrivain.
 La race humaine va et vient ; tu es tout nouveau et entier.<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
-Guru Arjan est assis sur le trône de Baba Nanak ; le dais du véritable Guru brille au-dessus de lui.
+Guru Arjan est assis sur le trône de _Baba Nanak_ ; le dais du véritable Guru brille au-dessus de lui.
 Tu as illuminé toutes les directions, de l’est à l’ouest.
 Ceux qui n’adorent pas le vrai gourou sont sujets à la transmigration.
 Tes miracles se multiplient par deux et par quatre ; c'est une véritable offrande au véritable gourou.[^23]
@@ -283,7 +283,7 @@ Cette idée a également été rejetée au motif qu’il vaut mieux être un hom
 
 Krishan Lal et Har Lal, deux vieux pandits érudits de Bénarès, vinrent rencontrer le gourou. Ils lui racontèrent que Guru Nanak leur avait donné de nombreuses instructions lors de sa visite dans leur ville sainte. Ces instructions étaient désormais intégrées à la guerre d'Asa ki et étaient devenues monnaie courante ; mais ils vinrent voir Guru Arjan pour recevoir de lui des instructions spécifiques adaptées à leur situation particulière. Il composa ce qu'on appelle les sloks Sahaskriti, écrits dans une sorte de prakrit, pour leur édification. À ces compositions, il ajouta par la suite le Gatha, que l'on trouve aujourd'hui vers la fin du Granth Sahib.
 
-Le gourou, probablement pour mettre à l'épreuve son savant et talentueux scribe Bhai Gur Das, dont il admirait les compositions, proposa de les insérer dans le Granth ; mais Bhai Gur Das répondit qu'elles n'étaient pas dignes d'un tel honneur. Le gourou le complimenta pour sa modestie et son talent, et dit que quiconque lirait les écrits du Bhai devrait acquérir un profit spirituel, une instruction et une foi dans les enseignements des saints gourous.
+Le gourou, probablement pour mettre à l'épreuve son savant et talentueux scribe Bhai Gur Das, dont il admirait les compositions, proposa de les insérer dans le Granth ; mais Bhai Gur Das répondit qu'elles n'étaient pas dignes d'un tel honneur. Le gourou le complimenta pour sa modestie et son talent, et dit que quiconque lirait les écrits du <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> Bhai devrait acquérir un profit spirituel, une instruction et une foi dans les enseignements des saints gourous.
 
 Plusieurs bardes ayant adopté la religion sikh se présentèrent devant le gourou et lui offrirent des panégyriques de lui-même et de ses prédécesseurs. Le gourou accorda gracieusement à ces compositions une place dans le volume sacré.
 
@@ -302,7 +302,7 @@ Je suis plein de défauts, je n'ai aucun mérite, et pourtant toi-même tu as co
 Tu fais preuve de compassion et de bonté envers moi ; j’ai trouvé le véritable gourou, l’ami.
 Nanak, si j'obtiens le Nom, je vivrai, et mon corps et mon âme seront rafraîchis.
 
-Un poète musulman appelé Alim, en 991 H (1583 apr. J.-C.), écrivit une œuvre en 353 strophes, généralement de quatre à six lignes chacune, intitulée « Madhava Nal Sangit », qui se veut le récit des amours de Madhava Nal et d'une dame appelée Kam Kandala.[^25] Le Rag Mala, qui forme la conclusion du Granth Sahib et contient une liste des rags et raginis ainsi que de leurs subdivisions, est une portion de l'œuvre d'Alim s'étendant de la soixante-troisième à la soixante-douzième strophe. On ne comprend pas comment elle a été incluse dans le volume sacré. Les rags qui y sont mentionnés ne correspondent pas à ceux du Granth Sahib.
+Un poète musulman appelé Alim, en 991 H <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> (1583 apr. J.-C.), écrivit une œuvre en 353 strophes, généralement de quatre à six lignes chacune, intitulée « Madhava Nal Sangit », qui se veut le récit des amours de Madhava Nal et d'une dame appelée Kam Kandala.[^25] Le Rag Mala, qui forme la conclusion du Granth Sahib et contient une liste des rags et raginis ainsi que de leurs subdivisions, est une portion de l'œuvre d'Alim s'étendant de la soixante-troisième à la soixante-douzième strophe. On ne comprend pas comment elle a été incluse dans le volume sacré. Les rags qui y sont mentionnés ne correspondent pas à ceux du Granth Sahib.
 
 Le gourou invita tous ses sikhs à découvrir la précieuse compilation, fruit d'un travail acharné, et leur distribua une nourriture sacrée en remerciement de l'accomplissement de son œuvre. Sur les conseils de Bhai Budha et de Bhai Gur Das, le volume fut déposé au Har Mandar.
 
@@ -342,21 +342,21 @@ Bhai Banno, qui vivait à Mangat, dans le district de Gujrat au Panjab, s'intér
 
 ## Remarques
 
-[^1] : Littéralement, pas de la taille d’un sésame.
+[^1]: Littéralement, pas de la taille d’un sésame.
 
-[^2] : Bhairo.
+[^2]: Bhairo.
 
-[^3] : Guerre XXXVI.
+[^3]: Guerre XXXVI.
 
-[^4] : Gauri.
+[^4]: Gauri.
 
-[^5] : Asa.
+[^5]: Asa.
 
 [^6]: Aussi traduit : Dieu n’est pas dans ton cœur, et tes voies ne sont pas parfaites.
 
-[^7] : Ramikali.
+[^7]: Ramikali.
 
-[^8] : Samput, une petite boîte dans laquelle les brahmanes gardent le salagram, les fleurs, le riz et d'autres choses offertes aux idoles.
+[^8]: Samput, une petite boîte dans laquelle les brahmanes gardent le salagram, les fleurs, le riz et d'autres choses offertes aux idoles.
 
 [^9]: De petites idoles en laiton sont placées autour du salagramme, et on dit qu'elles forment une cour.
 
@@ -366,25 +366,25 @@ Bhai Banno, qui vivait à Mangat, dans le district de Gujrat au Panjab, s'intér
 
 [^12]: L'épithète ironique avanya, qui signifie ne pas adorer d'autres dieux, n'a pas été traduite.
 
-[^13] : L'épisode de l'Alahabharat dans lequel Krishan se déclare être Dieu.
+[^13]: L'épisode de l'Alahabharat dans lequel Krishan se déclare être Dieu.
 
 [^14]: Kadv' de Gur Das.
 
-[^15] : Un Pransangali imprimé sur la science du Jog peut désormais être acheté, mais les Sikhs ne l'acceptent pas comme authentique.
+[^15]: Un Pransangali imprimé sur la science du Jog peut désormais être acheté, mais les Sikhs ne l'acceptent pas comme authentique.
 
-[^16] : Gauri Chhant.
+[^16]: Gauri Chhant.
 
-[^17] : Ram Das, le quatrième gourou, était le père de Guru Arjan. Son grand-père maternel était Guru Amar Das. Le gourou désigne sans doute tous ses prédécesseurs.
+[^17]: Ram Das, le quatrième gourou, était le père de Guru Arjan. Son grand-père maternel était Guru Amar Das. Le gourou désigne sans doute tous ses prédécesseurs.
 
-[^18] : Gauri.
+[^18]: Gauri.
 
-[^19] : Le Prosopis Spicigera.
+[^19]: Le Prosopis Spicigera.
 
 [^20]: Ramsar est également utilisé dans un sens spirituel pour désigner l'association des saints.
 
-[^21] : Gauri.
+[^21]: Gauri.
 
-[^22] : Siraj Parkash, Ras UI, chapitre 41.
+[^22]: Siraj Parkash, Ras UI, chapitre 41.
 
 [^23]: Également traduit : Tu es le véritable successeur du véritable gourou
 

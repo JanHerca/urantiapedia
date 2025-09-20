@@ -230,7 +230,7 @@ Les Sikhs dirent alors : « Salut ! » Le Guru répondit : « Salut à l'Être p
 
 [^2]: Un hymne contenant seize strophes.
 
-[^1] : L'une des réalisations de jeunesse de Krishan.
+[^1]: L'une des réalisations de jeunesse de Krishan.
 
 [^2]: Littéralement, personne ne méditait sur personne d'autre. Autrement dit, personne n'adorait alors les dieux ou les idoles des hindous.
 
@@ -242,23 +242,23 @@ Les Sikhs dirent alors : « Salut ! » Le Guru répondit : « Salut à l'Être p
 
 [^6]: L'énergie ou l'épouse de Shiv était diversement nommée Pârbati, Durga, etc.
 
-[^7] : « Pas de semence, pas de sang » : cela fait référence aux fonctions masculines et féminines de la génération.
+[^7]: « Pas de semence, pas de sang » : cela fait référence aux fonctions masculines et féminines de la génération.
 
 [^1]: Ils sont décrits comme les Psaumes de David, l'Ancien Testament, le Nouveau Testament et le Coran.
 
 [^1]: Indar était le dieu du firmament. Sa punition résultait de sa tentative de séduire Ahalya, l'épouse du sage Gautama.
 
-[^2] : Paras Râm. Râm à la hache était le sixième avatar de Vishnu et précédait le Râm du culte populaire indien. On dit qu'il a débarrassé la terre des Kshatriyas vingt et une fois. Il l'a ensuite donnée au sage Kashyapa et s'est retiré dans les montagnes de Mahendra. Le texte fait allusion à son retour ultérieur.
+[^2]: Paras Râm. Râm à la hache était le sixième avatar de Vishnu et précédait le Râm du culte populaire indien. On dit qu'il a débarrassé la terre des Kshatriyas vingt et une fois. Il l'a ensuite donnée au sage Kashyapa et s'est retiré dans les montagnes de Mahendra. Le texte fait allusion à son retour ultérieur.
 
 [^3]: Aj était le grand-père de Râm Chandar. Un jour, alors qu'il chassait, il trempa un tissu dans le sang d'un cerf qu'il avait abattu ; et, afin de tester l'affection de sa femme, il le lui envoya avec un message mourant annonçant qu'il avait été tué sur le terrain de chasse. Elle, croyant le messager, s'incinéra aussitôt avec le tissu qu'elle avait reçu. Le roi Aj, de retour chez lui, apprit ce qui s'était passé et fut si accablé de chagrin et de tristesse qu'il abandonna son trône et se retira du monde pour faire pénitence de son crime.
 
 [^4]: Lachhman était le frère de Râm.
 
-[^5] : Lanka. C'était l'ancien nom de Ceylan, où régnait Rawan.
+[^5]: Lanka. C'était l'ancien nom de Ceylan, où régnait Rawan.
 
 [^6]: Les adversaires des Kauravs dans la grande guerre qui constitue le sujet du _Mahâbhârat_.
 
-[^7] : Krishan.
+[^7]: Krishan.
 
 [^1]: Janameja, roi d'Hastinapura, qui écouta la longue épopée sanskrite _Mahâbhârat_ en expiation du péché d'avoir tué des Brahmanes.
 

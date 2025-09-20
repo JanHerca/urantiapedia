@@ -43,15 +43,15 @@ Voici ! Je suis l'homme dont la muse autrefois se masquait,
 Comme le temps l'a enseigné, dans les mauvaises herbes d'un humble berger,
 Je suis maintenant contraint – une tâche bien plus inadaptée –
 Pour les trompettes sévères pour changer mes anches d'avoine.
-SPENSER.
+&nbsp;&nbsp;&nbsp;SPENSER.
 
-La jeunesse de Guru Har Gobind a déjà été retracée dans la vie de son père, Guru Arjan. Apprenant la mort de son père, il fit lire le Granth Sahib et engagea Bhai Budha à cette fin. Les musiciens du temple chantèrent les hymnes des gourous accompagnés de leurs instruments. Le chant et la lecture du Granth Sahib durèrent dix jours.
+La jeunesse de Guru Har Gobind a déjà été retracée dans la vie de son père, Guru Arjan. Apprenant <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> la mort de son père, il fit lire le Granth Sahib et engagea Bhai Budha à cette fin. Les musiciens du temple chantèrent les hymnes des gourous accompagnés de leurs instruments. Le chant et la lecture du Granth Sahib durèrent dix jours.
 
 Une fois les derniers rites terminés, Bhai Budha revêtit Guru Har Gobind de nouveaux vêtements et déposa devant lui un seli – un cordon de laine porté en collier ou enroulé autour de la tête par les anciens gourous – et un turban, symboles de sa vocation. Guru Har Gobind ordonna que le seli soit déposé au trésor, apparemment parce qu'il n'était pas adapté à la nouvelle situation politique des Sikhs. Il s'adressa alors à Bhai Budha : « Je m'efforcerai d'accomplir ta prophétie. Mon seli sera une ceinture d'épée, et je porterai mon turban avec une aigrette royale. » Il fit ensuite venir ses armes et se para en tenue martiale, de sorte que, comme le rapporte le chroniqueur sikh, sa splendeur rayonnait comme le soleil.
 
 Guru Har Gobind, selon la coutume en pareille occasion, convoqua tous ses Sikhs et invita les principaux habitants d'Amritsar à un banquet. Il fit préparer une grande quantité de mets sacrés et les apporta au temple pour le plaisir de ses invités. Tandis que Bhai Budha lisait le Granth Sahib au milieu d'une assemblée bien ordonnée, Gur Das se leva et agita un magnifique chauri au-dessus du volume sacré. Une fois la lecture terminée, toute l'assemblée inclina respectueusement la tête. Les chanteurs reprirent les hymnes des gourous. Le Sadd fut entonné et une prière solennelle fut prononcée. Le gourou réitéra ses instructions pour aider les futures générations de Sikhs lors des obsèques :
 
-Lorsqu'un Sikh décède, on ne doit pas célébrer les obsèques des Hindous. On doit préparer et distribuer des aliments sacrés, entonner le Granth Sahib et réciter une prière solennelle, comme je l'ai fait faire en apprenant la mort de mon père. C'est ainsi qu'on prépare le voyage du défunt vers Sach Khand.
+Lorsqu'un Sikh décède, on ne doit pas célébrer les obsèques des Hindous. On doit préparer et distribuer des aliments sacrés, entonner le Granth Sahib et réciter une prière solennelle, comme je l'ai fait faire en apprenant <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> la mort de mon père. C'est ainsi qu'on prépare le voyage du défunt vers Sach Khand.
 
 Seul un groupe d'hommes parmi ses disciples fut mécontent de son accession au trône. Les masands, qui collectaient les offrandes et les dîmes auprès des Sikhs, étaient devenus très corrompus et malhonnêtes, et ils tremblaient désormais de leurs méfaits. Ils déclarèrent à la mère du Giru : « C'est le règne des Moghols. Nous n'avons personne d'âge mûr pour nous guider et nous protéger. Le Guru est encore un enfant. Chandu est toujours un ennemi. Le Guru ceint ses armes, mais pour les faqirs, dominer les hommes est une voie périlleuse. Les cinq gourous précédents n'avaient jamais manié les armes. Si Jahangir entend parler des agissements de notre Guru, il sera en colère ; et où nous cacherons-nous ? » La mère du gourou répondit : « Sois sans inquiétude. La main de Guru Nanak repose sur la tête de mon fils. Le gourou est vivant à jamais. Les paroles de Bhai Budha, selon lesquelles Har Gobind serait un dirigeant temporel et spirituel et manierait deux épées, sont sur le point de s'accomplir. » Malgré son visage courageux aux masands, elle protesta auprès du jeune gourou. « Mon fils, nous n'avons ni trésor, ni revenu d'État, ni propriété foncière, ni armée. Si tu marches sur les traces de ton père et de ton grand-père, tu seras heureux. » Le gourou répondit avec les mots de Guru Arjan :
 
@@ -60,7 +60,7 @@ Est mon tuteur.[^3]
 
 « Ne vous inquiétez pas pour moi, tout se fera selon la volonté de Dieu. »
 
-Le gourou publia alors une lettre encyclique aux masands, stipulant qu'il serait satisfait de ceux qui apporteraient des offrandes d'armes et de chevaux plutôt que d'argent. Le lundi, cinquième jour de la moitié légère de Har, Sambat 1663, il posa les fondations du Takht Akal Bunga. Une fois construit en maçonnerie solide, il s'y assit. C'est le couloir du temple d'or où siègent aujourd'hui les Akalis et où sont conservées les armes des gourous.
+Le gourou publia alors une lettre encyclique aux masands, stipulant qu'il serait satisfait de ceux qui apporteraient des offrandes d'armes et de chevaux plutôt que d'argent. Le lundi, cinquième jour de la moitié légère de Har, Sambat 1663, il posa les fondations du Takht Akal Bunga. Une fois construit <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> en maçonnerie solide, il s'y assit. C'est le couloir du temple d'or où siègent aujourd'hui les Akalis et où sont conservées les armes des gourous.
 
 Bhai Budha, lui aussi, voyant le jeune gourou en harnais militaire, lui fit de douces remontrances. Le gourou répondit : « C'est par ton intercession que j'ai obtenu la naissance ; et c'est en accomplissement de ta bénédiction que je porte deux épées, emblèmes de mon autorité spirituelle et temporelle. Dans la demeure du gourou, religion et plaisirs matériels seront réunis : le chaudron pour nourrir les pauvres et les nécessiteux, et le cimeterre pour frapper les oppresseurs. »
 
@@ -77,14 +77,14 @@ Guru Har Gobind semble avoir été le premier gourou à se consacrer systématiq
 
 Un jour, un sadhu, ou saint homme hindou, voyant les agissements du gourou, exprima son mépris pour lui, le qualifiant de destructeur de vie. Le gourou cita pour se justifier les versets de Guru Nanak sur la chair. Sur ce, le saint homme se repentit de sa critique.
 
-Tard dans l'après-midi, le gourou s'asseyait sur son trône et donnait audience à ses visiteurs et à ses fidèles. Des ménestrels chantaient les hymnes du gourou et, au crépuscule, le « Sodar » était lu. Puis, tous se levaient et, les mains jointes, offraient une prière au Tout-Puissant. À la fin de l'office, des instruments de musique de toutes sortes étaient joués. L'assemblée s'inclinait alors devant le gourou, et tous se retiraient pour leur repas du soir. Un concert sacré était ensuite donné, au cours duquel des hymnes étaient chantés dans les mesures Kalian et Kanra. Puis, les chants martiaux du ménestrel Abdulla, inspiraient aux Sikhs l'amour des actes héroïques et dissipaient les sentiments indignes des guerriers.
+Tard dans l'après-midi, le gourou s'asseyait sur son trône et donnait audience à ses visiteurs et à ses fidèles. Des ménestrels chantaient les hymnes du gourou et, au crépuscule, le « Sodar » était lu. Puis, tous se levaient et, les mains jointes, offraient une prière au Tout-Puissant. À la fin de l'office, des instruments de musique de toutes sortes étaient joués. L'assemblée s'inclinait <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> alors devant le gourou, et tous se retiraient pour leur repas du soir. Un concert sacré était ensuite donné, au cours duquel des hymnes étaient chantés dans les mesures Kalian et Kanra. Puis, les chants martiaux du ménestrel Abdulla, inspiraient aux Sikhs l'amour des actes héroïques et dissipaient les sentiments indignes des guerriers.
 
 Le Sohila était ensuite lu, après quoi le gourou se retirait dans son appartement privé. Avant de s'endormir, il posait sa tête sur les pieds de sa mère en guise de salut respectueux et recevait sa bénédiction et son étreinte.
 
 Le gourou aimait réciter les compositions de Guru Nanak à ses Sikhs, en particulier les suivantes :
 
 Tu es le Créateur, l'Arrangeur,
-Toi qui as créé le monde toi-même, tu l'as reconnu comme bon.
+Toi qui as créé _le monde_ toi-même, tu l'as reconnu comme bon.
 Tu es toi-même le véritable gourou, toi-même l’adorateur, toi-même le créateur de l’univers.
 Tu es proche, pas lointain.
 Ceux qui savent cela sous l'instruction du Guru sont parfaits.
@@ -139,16 +139,16 @@ Le fleuve de feu forme des vagues sifflantes : par sa perversité l'homme tombe 
 
 [^2]: Virgile n'avait qu'un seul héros ; nous en avons plusieurs.
 
-[^3] : Bhairo.
+[^3]: Bhairo.
 
 [^4]: Malwa comprend la partie du Panjab formée par les États féodaux de Patiala, Nabha, Jind et Faridkot, ainsi que les districts britanniques de Firozpur et Ludhiana.
 
 [^5]: Gujari
 
-[^6] : Sas. Littéralement — pour un souffle.
+[^6]: Sas. Littéralement — pour un souffle.
 
-[^7] : _Kabara_. De ce mot vient le célèbre saddr7, un homme qui vend aux Anglo-Indiens des meubles achetés aux enchères.
+[^7]: _Kabara_. De ce mot vient le célèbre saddr7, un homme qui vend aux Anglo-Indiens des meubles achetés aux enchères.
 
-[^8] : _Uchhahara_. Considéré comme le wcherna du Pendjab. D'autres supposent qu'il s'agit d'uchhalna, de sauter et de traduire la ligne. La mort fera un bond et détruira le faux.
+[^8]: _Uchhahara_. Considéré comme le wcherna du Pendjab. D'autres supposent qu'il s'agit d'uchhalna, de sauter et de traduire la ligne. La mort fera un bond et détruira le faux.
 
-[^9] : Maru Solha.
+[^9]: Maru Solha.

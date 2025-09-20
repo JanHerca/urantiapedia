@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T22:31:21Z
 
 Nous avons vu que Guru Har Gobind, le sixième Guru, avait cinq fils : Baba Gurditta, Suraj Mal, Ani Rai, Baba Atal et Teg Bahadur. Baba Gurditta, qui mourut avant son père, laissa deux fils, Dhir Mal et Har Rai. Dhir Mal s'était montré déloyal et désobéissant envers son grand-père. Guru Har Gobind, souhaitant observer autant que possible la coutume du droit d'aînesse et voyant Har Rai constant, pieux et en tous points apte à la fonction de Guru, la lui conféra avec toutes les formalités et les cérémonies traditionnelles.
 
-Guru Har Rai est né de l'épouse de Gurditta, Nihal Kaur, née Natti, le treizième jour de la moitié claire de la lune de Magh, Sambat 1687, 1631 après J.-C. Il était très attentif à ses dévotions et à ses ablutions, et aimait répéter à ses disciples les versets suivants de Gur Das :
+Guru Har Rai est né de l'épouse de Gurditta, Nihal Kaur, _née_ Natti, le treizième jour de la moitié claire de la lune de Magh, Sambat 1687, 1631 après J.-C. Il était très attentif à ses dévotions et à ses ablutions, et aimait répéter à ses disciples les versets suivants de Gur Das :
 
 Lève-toi au bout de la nuit, insuffle dans les esprits les mérites du Nom et de la charité.
 Parlez civilement, soyez humble, faites du bien aux autres avec les dons de vos mains.
@@ -74,7 +74,7 @@ Le gourou embrasse celui qui recherche sa protection ; telle est la fonction de 
 
 Le Premier ministre déclara à l'Empereur : « Il te convient maintenant, ô Seigneur, d'oublier tes anciens sentiments d'inimitié et de supplier le Guru de t'accorder ce qui est requis, et tes souhaits seront immédiatement exaucés. » Selon un proverbe panjabi, « L'intérêt personnel fait moudre l'orge, même humide. »[^6] Shah Jahan jugea nécessaire de s'humilier devant le Guru et lui adressa la lettre suivante :
 
-Ton prédécesseur, le saint Baba Nanak, a accordé la souveraineté à l'empereur Babar, le fondateur de ma dynastie ; Guru Angad était extrêmement bien disposé envers son fils, l'empereur Humayun ; et Guru Amar Das a aplani de nombreuses difficultés sur le chemin de mon père Akbar. Je regrette que les mêmes relations amicales n'aient pas subsisté entre Guru Har Gobind et moi, et que des malentendus aient été causés par l'intervention d'étrangers. Je n'en suis pas responsable. Mon fils Dara Shikoh est maintenant très malade. Son remède est entre tes mains. Si tu me donnes le myrobalan et le clou de girofle qui se trouvent dans ton entrepôt, et que tu y ajoutes tes prières, tu me conféreras une faveur durable.
+Ton prédécesseur, le saint Baba Nanak, a accordé la souveraineté à l'empereur Babar, le fondateur de ma dynastie ; Guru Angad était extrêmement bien disposé envers son fils, l'empereur Humayun ; et Guru Amar Das a aplani de nombreuses difficultés sur le chemin de mon père Akbar. Je regrette <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> que les mêmes relations amicales n'aient pas subsisté entre Guru Har Gobind et moi, et que des malentendus aient été causés par l'intervention d'étrangers. Je n'en suis pas responsable. Mon fils Dara Shikoh est maintenant très malade. Son remède est entre tes mains. Si tu me donnes le myrobalan et le clou de girofle qui se trouvent dans ton entrepôt, et que tu y ajoutes tes prières, tu me conféreras une faveur durable.
 
 Un noble apporta cette lettre au gourou, alors à Kiratpur, et la présenta au darbar le lendemain matin de son arrivée. Le gourou fut ravi que l'empereur lui accordât une telle confiance qu'il lui écrivit une lettre aussi amicale et consentit à lui fournir les médicaments nécessaires. Il cita un vers du quatorzième slok de la guerre d'Asa ki :
 
@@ -110,14 +110,14 @@ L'empereur fut naturellement ravi, oublia toute son hostilité envers le gourou 
 
 ## Remarques
 
-[^1] : Guerre XXVIII.
+[^1]: Guerre XXVIII.
 
-[^2] : Ramkali, Ashtapadi.
+[^2]: Ramkali, Ashtapadi.
 
 [^3]: Asa Chhant.
 
 [^4]: Un chitank pèse cinq tolas ou deux onces.
 
-[^5] : Bihagra Chhant.
+[^5]: Bihagra Chhant.
 
-[^6] : L'orge indienne humide est moulue avec plus de difficulté dans un moulin à main que n'importe quelle autre céréale indienne.
+[^6]: L'orge indienne humide est moulue avec plus de difficulté dans un moulin à main que n'importe quelle autre céréale indienne.

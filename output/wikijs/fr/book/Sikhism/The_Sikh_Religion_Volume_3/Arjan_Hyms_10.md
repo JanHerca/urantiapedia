@@ -41,7 +41,7 @@ dateCreated: 2025-2-12T12:8:26Z
 
 Dieu préserve l'homme saint.
 
-Un chasseur, en voyant un cerf, peut tirer des centaines de milliers de flèches et le manquer ;
+Un chasseur, en voyant un cerf, peut tirer des centaines de milliers de flèches _et le manquer_ ;
 Ainsi, celui que Dieu préserve, ô Nanak, ne sera pas touché à un cheveu de sa tête.
 
 La vie d’un roi, si grand soit-il, ne tient qu’à un cheveu :
@@ -99,7 +99,7 @@ Les péchés capitaux :—
 Tu fascines la compagnie des musiciens du ciel, des demi-dieux, des hommes, des bêtes et des oiseaux.[^2]
 Je m'incline devant Dieu le Créateur ; Nanak recherche la protection du Seigneur du monde.
 
-Ô luxure, tu donnes à l'homme une demeure dans l'enfer ; tu fais errer l'homme dans bien des ventres ;
+Ô luxure, _tu donnes_ à l'homme une demeure dans l'enfer ; tu fais errer l'homme dans bien des ventres ;
 Tu voles le cœur, tu pénètres les trois mondes, tu détruis la dévotion, la pénitence et la vertu ;
 Tu confères un bonheur maigre, ô sans corps [^3], tu es inconstant, tu remplis les plus hauts et les plus bas ;
 Mais la crainte de toi, dit Nanak, est dissipée en fréquentant les saints et en prenant refuge en Dieu.
@@ -126,7 +126,7 @@ La prière suivante est répétée par de nombreux Sikhs lors de leurs ablutions
 Ô Seigneur de l'âme, Gobind, Océan de miséricorde, Gourou du monde ;
 Ô Destructeur des griefs du monde, plein de compassion, dissipe toute douleur.
 Ô Toi, capable d'offrir un abri, Seigneur miséricordieux des pauvres, aie pitié de nous.
-Nanak, lorsque Dieu, qu'il soit appelé Ram, Damodar ou Madhwa, est rappelé, ce corps périssable obtient du réconfort.
+Nanak, _lorsque Dieu_, qu'il soit appelé Ram, Damodar ou Madhwa, est rappelé, ce corps périssable obtient du réconfort.
 
 La puissance de Dieu :—
 
@@ -207,7 +207,7 @@ Nanak, celui qui répète le nom et les louanges de Dieu ne retourne pas à l'oc
 
 <p style="text-align:center;">10</p>
 
-Les discours sur Dieu sont profonds et sans fin, et peu nombreux sont ceux qui les comprennent.
+Les discours _sur Dieu_ sont profonds et sans fin, et peu nombreux sont ceux qui les comprennent.
 _Ceux qui les comprennent_, Nanak, abandonnent les désirs mondains et répètent le nom de Dieu en compagnie des saints.
 
 <p style="text-align:center;">11</p>
@@ -393,8 +393,8 @@ Harihan, quand l’homme oublie Dieu, il décline chaque jour.
 
 _Le bourdon_ est très fier, mais il est pris dans les pétales du lotus ;
 Son corps s'y empêtre et il perd la raison ; _mais le soleil lui permet de s'échapper au matin_.
-Existe-t-il un soleil[^7] qui puisse ouvrir pour moi le dur nœud de l’ignorance ?
-Nanak, le seul Seigneur Dieu qui unit ce qui est brisé, a seul le pouvoir de le faire.
+Existe-t-il un soleil[^7] qui puisse ouvrir pour moi le dur nœud _de l’ignorance_ ?
+Nanak, le seul Seigneur Dieu qui unit ce qui est brisé, a seul _le pouvoir de le faire_.
 
 <p style="text-align:center;">16</p>
 
@@ -434,7 +434,7 @@ Harihan, en voyant un château dans les airs, pourquoi supposer qu'il est réel
 <p style="text-align:center;">21</p>
 
 Qui peut préserver sa vie quand elle arrive à son terme ?
-Le médecin peut prescrire une infinité de remèdes, mais ils ne servent à rien ;
+Le médecin peut prescrire une infinité de remèdes, _mais ils ne servent à rien_ ;
 C'est pourquoi, ô homme ignorant, souviens-toi du seul Dieu qui t'assistera.
 Harihan, sans le Nom, le corps est saleté, et tout est vain.
 
@@ -481,7 +481,7 @@ Nanak, Dharmraj leur dira qu'ils ont sanctifié sa cour.
 Conseillers maléfiques :-—
 
 Les hommes s'enfoncent dans de mauvais bourbiers à cause des douces paroles de mauvais conseillers ;
-Nanak, ceux dont la bonne fortune est inscrite sur leur front échappent à leur influence.
+Nanak, ceux dont la bonne fortune est inscrite sur leur front échappent à _leur influence_.
 
 Baba Nanak divinement inspiré :—
 
@@ -490,7 +490,7 @@ Tant que Dieu sera miséricordieux, ce capital ne diminuera jamais.
 
 Le gourou dans sa quête de Dieu vendrait son corps pour des ailes :
 
-Si je pouvais trouver des ailes à acheter, je les prendrais pour un poids égal à celui de ma chair ;
+Si je pouvais trouver des ailes à acheter, je les prendrais pour un poids égal à celui _de ma chair_ ;
 Je les attacherais à mon corps et chercherais et trouverais l’Ami.
 
 S'asseoir avec Dieu le Roi des rois est le plus grand honneur du gourou :
@@ -539,7 +539,7 @@ S’asseoir près de Celui en qui tous doivent avoir foi est un honneur.
 
 [^4]: Gatha désignait à l'origine un vers sanskrit. Plus tard, le prakrit, ou toute langue autre que le sanskrit, a été ainsi appelé ; les Gatha de Guru Arjan peuvent peut-être être décrits comme des aphorismes.
 
-[^5] : Littéralement : il y a l’image d’un lotus dans ma main, une marque de bon augure selon les palmistes hindous.
+[^5]: Littéralement : il y a l’image d’un lotus dans ma main, une marque de bon augure selon les palmistes hindous.
 
 [^6]: Le Temple d'Or d'Amritsar.
 

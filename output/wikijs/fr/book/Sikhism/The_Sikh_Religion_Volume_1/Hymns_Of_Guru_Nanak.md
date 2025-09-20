@@ -3305,7 +3305,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 ## Notes de bas de page
 
-[^1] : _Sofiân_. Il ne faut pas les confondre avec les soufis de Perse, dont les prédilections vont dans le sens opposé. Par abstinents, on entend ici les véridiques.
+[^1]: _Sofiân_. Il ne faut pas les confondre avec les soufis de Perse, dont les prédilections vont dans le sens opposé. Par abstinents, on entend ici les véridiques.
 
 [^1]: Le gourou est visé.
 
@@ -3316,7 +3316,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^3]: C'est-à-dire spirituellement aveugle.
 
-[^4] : Une composition rouge, principalement à base de safran, utilisée par les femmes pour orner leur front.
+[^4]: Une composition rouge, principalement à base de safran, utilisée par les femmes pour orner leur front.
 
 [^1]: Les quatre feux sont : _hinsa_, la cruauté ; _moh_, l’amour mondain ; _krodh_, la colère ; et _lobh_, l’avarice.
 
@@ -3326,7 +3326,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^2]: Le lotus ouvre ses feuilles le jour et le nénuphar la nuit. Dieu est le soleil et la lune qui les contemplent alternativement le jour et la nuit.
 
-[^3] : _Maula_, un nom de Dieu en arabe. Le verbe hindi _maulna_ signifie fleurir. Il y a un jeu de mots sur ce mot dans l'original.
+[^3]: _Maula_, un nom de Dieu en arabe. Le verbe hindi _maulna_ signifie fleurir. Il y a un jeu de mots sur ce mot dans l'original.
 
 [^1]: Vrai ici signifie apparemment durable, éternel.
 
@@ -3336,7 +3336,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Littéralement - être compté par Lui.
 
-[^1] : Le bijou ou le précieux.
+[^1]: Le bijou ou le précieux.
 
 [^2]: _Chit wasâia_; également traduit par retenue mentale.
 
@@ -3346,7 +3346,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^2]: Les poèmes épiques Ramâyan et Mahâbhârat.
 
-[^1] : Le tadorne roux, appelé par les Anglo-Indiens canard Brahmani. Si les oiseaux mâles et femelles sont séparés la nuit, par exemple sur les rives opposées d'une rivière, on pense qu'ils s'appellent jusqu'à ce qu'ils aperçoivent le soleil matinal, où ils renouent leurs relations conjugales.
+[^1]: Le tadorne roux, appelé par les Anglo-Indiens canard Brahmani. Si les oiseaux mâles et femelles sont séparés la nuit, par exemple sur les rives opposées d'une rivière, on pense qu'ils s'appellent jusqu'à ce qu'ils aperçoivent le soleil matinal, où ils renouent leurs relations conjugales.
 
 [^1]: Parce que l’âme est émanée de Dieu.
 
@@ -3376,7 +3376,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^4]: C'est-à-dire que je suis totalement absorbé par Dieu.
 
-[^1] : Nourriture obtenue par la spéculation et la corruption.
+[^1]: Nourriture obtenue par la spéculation et la corruption.
 
 [^2]: C'est-à-dire ceux qui pratiquent l'extorsion ou la tyrannie.
 
@@ -3390,7 +3390,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 \[1 Sa nature ne sera pas altérée.
 
-[^2] : _Munh mar_. Également traduit par « rester silencieux ».
+[^2]: _Munh mar_. Également traduit par « rester silencieux ».
 
 [^1]: Cela signifie qu'ils se battent jusqu'à la mort avec leurs péchés capitaux.
 
@@ -3402,13 +3402,13 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Quand la vie cesse, leurs âmes prennent leur envol.
 
-[^1] : _Ninda chinda_ est une allitération.
+[^1]: _Ninda chinda_ est une allitération.
 
 [^2]: Ceci est censé être destiné à la femme du voisin.
 
 [^1]: Les péchés capitaux qui volent le corps.
 
-[^2] : Le corps.
+[^2]: Le corps.
 
 [^3]: L'âme.
 
@@ -3434,7 +3434,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^2]: Littéralement — attirer en Lui-même. La création est l'extension de Dieu ; la destruction, sa contraction.
 
-[^1] : Mammon.
+[^1]: Mammon.
 
 [^1]: Une partie d'une danse orientale.
 
@@ -3452,7 +3452,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^2]: En matière de manger, de boire, de porter, de vivre et d'adorer.
 
-[^3] : Mammon.
+[^3]: Mammon.
 
 [^4]: Les saints.
 
@@ -3470,7 +3470,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Littéralement, on lui jette des cendres sur la tête.
 
-[^1] : Une secte de sybarites indiens.
+[^1]: Une secte de sybarites indiens.
 
 [^1]: Également traduit par — dans l'océan.
 
@@ -3492,7 +3492,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^5]: Également traduit par : Mais à la fin, il sera délivré de son erreur.
 
-[^1] : _Ursa_. Une pierre sur laquelle on gratte la sandale pour le culte.
+[^1]: _Ursa_. Une pierre sur laquelle on gratte la sandale pour le culte.
 
 [^1]: _Ab tab_. Aussi traduit : Je ne recherche que ton nom pur, et non les choses vaines de ce monde.
 
@@ -3502,7 +3502,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Ont été réduits en esclavage.
 
-[^2] : Littéralement : pourquoi devrait-il manger des choses sucrées ?
+[^2]: Littéralement : pourquoi devrait-il manger des choses sucrées ?
 
 [^1]: Également traduit par : Dieu n’est pas lié par l’influence de Ses actes.
 
@@ -3526,7 +3526,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: L'homme ne peut rien obtenir de Dieu, si ce n'est par Sa faveur. Si l'homme ne reçoit rien de Dieu, aucune garantie n'est nécessaire.
 
-[^1] : Destinées supérieures, moyennes et inférieures.
+[^1]: Destinées supérieures, moyennes et inférieures.
 
 [^2]: Littéralement, les trois forment la limite du désert, c'est-à-dire prêchent tout ce qui ruine les mortels.
 
@@ -3544,13 +3544,13 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Qui appelle à la prière du haut d'une mosquée.
 
-[^1] : Littéralement — sanskrit.
+[^1]: Littéralement — sanskrit.
 
 [^2]: Certains invoquent des dieux et des déesses.
 
 [^3]: Parfois l’homme est exalté et parfois déprimé.
 
-[^1] : Littéralement : fixe ton attention sur Dieu.
+[^1]: Littéralement : fixe ton attention sur Dieu.
 
 [^2]: Le petit radeau sur lequel la lampe est placée.
 
@@ -3566,7 +3566,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Les gens et le jogging sont subdivisés selon les trois qualités.
 
-[^1] : Un titre appliqué aux brahmanes par les hindous.
+[^1]: Un titre appliqué aux brahmanes par les hindous.
 
 [^1]: Il s'agit d'une composition de Guru Nanak, réalisée dans le sud de l'Inde en louange à Dieu.
 
@@ -3580,7 +3580,7 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Les fondateurs des religions hindoue et musulmane.
 
-[^1] : Enchevêtrements mondains.
+[^1]: Enchevêtrements mondains.
 
 [^1]: Les cinq vertus.
 
@@ -3594,11 +3594,11 @@ Insipide le plaisir de faire autre chose que la répétition du nom de Dieu.
 
 [^1]: Comme le supposent les Jaïns, qui évitent l'eau.
 
-[^2] : _Chuli_, autant d'eau que l'on peut en prendre dans une main. Les hindous prennent l'eau à pleines poignées et la boivent en guise de grâce avant et parfois après les repas, accompagnée de textes sacrés. Les hindous utilisent également l'eau de la même manière lorsqu'ils prêtent serment.
+[^2]: _Chuli_, autant d'eau que l'on peut en prendre dans une main. Les hindous prennent l'eau à pleines poignées et la boivent en guise de grâce avant et parfois après les repas, accompagnée de textes sacrés. Les hindous utilisent également l'eau de la même manière lorsqu'ils prêtent serment.
 
 [^3]: Par opposition à l'aumône des voleurs sur leur butin.
 
-[^4] : Tels que Lakhshmi, Garur, Ganesh, etc.
+[^4]: Tels que Lakhshmi, Garur, Ganesh, etc.
 
 [^1]: Il passe tout son temps dans sa mosquée, afin de recevoir le plus d'aumônes possible.
 

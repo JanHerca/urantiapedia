@@ -320,7 +320,7 @@ Tous les Janamsakhis modernes situent le mariage de Nanak bien après celui-ci, 
 
 [^1]: Âsa ki Wâr. Cette composition sera ultérieurement donnée in extenso, et le sens du mot wâr expliqué.
 
-[^2] : Lâkh. Utilisé ici pour un nombre indéfini.
+[^2]: Lâkh. Utilisé ici pour un nombre indéfini.
 
 [^1]: Âsa ki Wâr.
 
@@ -328,11 +328,11 @@ Tous les Janamsakhis modernes situent le mariage de Nanak bien après celui-ci, 
 
 [^1]: Son lieu de naissance à Batala est vénéré par les Sikhs. Mahârâja Sher Singh a érigé un temple en son honneur.
 
-[^2] : La _Salvadora Oleoides_.
+[^2]: La _Salvadora Oleoides_.
 
 [^1]: _Anudin_, traduit par « nuit et jour » par les gyânis, signifie littéralement — tous les jours.
 
-[^2] : Gauri Ashtapadi.
+[^2]: Gauri Ashtapadi.
 
 [^1]: Sri Râg.
 
@@ -348,13 +348,13 @@ Tous les Janamsakhis modernes situent le mariage de Nanak bien après celui-ci, 
 
 [^1]: Dans lequel le petit commerçant indien garde ses marchandises.
 
-[^1] : Sorath.
+[^1]: Sorath.
 
 [^2]: Aussi traduit : Combien Il est grand, quiconque L'a vu pourrait le dire.
 
 [^3]: _Gurhâi_, traduit par grands prêtres, est en réalité le pluriel persan de _guru_. Comparez les mots _Shaikh mashâikh_, si fréquemment trouvés dans le Granth Sâhib. _Mashâikh_ est, bien sûr, le pluriel arabe de _shaikh_.
 
-[^4] : Asa.
+[^4]: Asa.
 
 [^1]: Bien sûr, la vie spirituelle et la mort sont visées.
 
@@ -364,16 +364,16 @@ Tous les Janamsakhis modernes situent le mariage de Nanak bien après celui-ci, 
 
 [^4]: Sens familier du mot _kamijât_, qui signifie littéralement caste inférieure.
 
-[^5] : _Sanât_, pluriel de san, une année ou un âge. Ce mot était {note de bas de page p. 26} appliqué à une pièce de monnaie ayant circulé longtemps et qui s'était par conséquent usée et était devenue sans valeur.
+[^5]: _Sanât_, pluriel de san, une année ou un âge. Ce mot était {note de bas de page p. 26} appliqué à une pièce de monnaie ayant circulé longtemps et qui s'était par conséquent usée et était devenue sans valeur.
 
 [^1]: Malâr ki Wâr.
 
 [^1]: Également traduit par : Quand l'homme possède ne serait-ce qu'une partie du nom du Brillant.
 
-[^2] : Malâr.
+[^2]: Malâr.
 
 [^3]: Ses parents avaient l'intention de faire un sacrifice _hom_ ou une offrande brûlée pour la guérison de Nânak. Le mot sanskrit _hom_ est interprété comme signifiant jeter au feu, et représente correctement l'oblation de beurre clarifié, de sésames, de beurre, etc., qui fait partie du cérémonial.
 
-[^4] : Livres sacrés des hindous, au nombre de dix-huit. Ils constituent les principales autorités en matière d'idolâtrie et de superstition des hindous.
+[^4]: Livres sacrés des hindous, au nombre de dix-huit. Ils constituent les principales autorités en matière d'idolâtrie et de superstition des hindous.
 
 [^5]: Écrire une ordonnance.

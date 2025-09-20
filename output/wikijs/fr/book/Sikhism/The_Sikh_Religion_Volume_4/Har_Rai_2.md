@@ -40,7 +40,7 @@ Une dame pieuse priait sans cesse pour que le gourou mange du pain cuit de ses m
 
 Au moment où elle était presque au désespoir, le gourou arriva et lui demanda un peu du pain qu'elle avait préparé. Il lui dit qu'il serait très tard à son retour de chasse et qu'il désirait se nourrir pour se fortifier en attendant. Le gourou mangea le pain à cheval, sans se laver les mains, et dit l'avoir savouré comme un mets délicat. La femme le complimenta pour l'humilité avec laquelle il lui avait rendu visite et accepté son hospitalité. En retour, le gourou lui donna un enseignement spirituel et rompit les liens de sa transmigration.
 
-Les Sikhs furent étonnés que le Guru ait pris de la nourriture d'une inconnue et l'ait mangée à cheval, sans se laver les mains. Ils lui demandèrent pourquoi. Il ne répondit pas, mais continua sa chasse. Le lendemain, ils préparèrent des gâteaux sucrés avec une grande attention à la propreté et les emportèrent dans la forêt avec le Guru, afin de l'empêcher d'avoir à prendre de la nourriture potentiellement impure des mains d'une personne de caste inférieure. Le moment venu, les Sikhs offrirent au Guru les gâteaux qu'ils avaient préparés. Le Guru dit : « Ô Sikhs, j'ai mangé de la nourriture des mains de cette femme parce qu'elle était sainte. Cette nourriture que vous avez préparée avec le respect des anciens cérémoniaux ne me plaît pas. Il est écrit dans le Granth Sahib :
+Les Sikhs furent étonnés que le Guru ait pris de la nourriture d'une inconnue et l'ait mangée à cheval, sans se laver les mains. Ils lui demandèrent pourquoi. Il ne répondit pas, mais continua sa chasse. Le lendemain, ils préparèrent des gâteaux sucrés avec une grande attention à la propreté et les emportèrent dans la forêt avec le Guru, afin de l'empêcher d'avoir à prendre de la nourriture potentiellement impure des mains d'une personne de caste inférieure. Le moment venu, les Sikhs offrirent au Guru les gâteaux qu'ils avaient préparés. Le Guru dit : « Ô Sikhs, j'ai mangé de la nourriture des mains de cette femme parce qu'elle était sainte. Cette <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> nourriture que vous avez préparée avec le respect des anciens cérémoniaux ne me plaît pas. Il est écrit dans le Granth Sahib :
 
 Celui dont les œuvres sont pures est appelé un homme saint,[^1]
 
@@ -58,7 +58,7 @@ Vous vous souvenez comment Guru Nanak, fuyant la compagnie des grands et des ric
 
 Au cours de ce colloque, le gourou et son groupe pénétrèrent dans une forêt dense. Le gourou, apercevant un cerf noir surgir des fourrés, le poursuivit à cheval à toute vitesse et l'empêcha de s'échapper. L'animal fut capturé et emmené au zoo du gourou. Les hommes venus de loin pour voir le gourou furent ravis de sa tendresse envers les animaux, en particulier envers les cerfs, que les rois d'autrefois sacrifiaient lors de leurs festins.
 
-Un jour que le gourou chassait, il aperçut un serpent blessé qui rampait avec difficulté. Il était torturé par des vers dont il tentait de se débarrasser en se tortillant et en secouant son corps. Le gourou non seulement apaisa l'animal, mais lui accorda le salut. L'auteur du Suraj Parkash rapporte que son esprit, sous la forme d'une lumière vive, fut vu sortir de son corps et s'élever vers le ciel. Les Sikhs demandèrent au gourou de quelle lumière il s'agissait. Le gourou répondit : « Ce serpent était dans un état similaire au python vu par mon grand-père à Malwa. Ce serpent avait été un pandit autrefois, qui vantait faussement le pouvoir des Védas. Il affirmait être Dieu, mais sa conduite ne justifiait en rien une telle vantardise. Il avait également l'habitude de formuler des remarques désobligeantes sur les hymnes du gourou, disant : « Qu'est-ce qu'un hymne en dialecte vulgaire ? » Il ignorait que les compositions de Guru Nanak étaient supérieures à celles des Védas. L'âme du pandit s'est infiltrée dans ce serpent, et les vers l'ont fait souffrir pour la tromperie qu'il a pratiquée sur les hommes. Il avait cependant accompli de bonnes actions lors de ses vies précédentes, et c'est grâce à cela qu'il a rencontré les disciples de Guru Nanak et obtenu le salut. Comme l'a dit Guru Arjan :
+Un jour que le gourou chassait, il aperçut un serpent blessé qui rampait avec difficulté. Il était torturé par des vers dont il tentait de se débarrasser en se tortillant et en secouant son corps. Le gourou non seulement apaisa l'animal, mais lui accorda le salut. L'auteur du _Suraj Parkash_ rapporte que son esprit, sous la forme d'une lumière vive, fut vu sortir de son corps et s'élever vers le ciel. Les Sikhs demandèrent au gourou de quelle lumière il s'agissait. Le gourou répondit : « Ce serpent était dans un état similaire au python vu par mon grand-père à Malwa. Ce serpent avait été un pandit autrefois, qui vantait faussement le pouvoir des Védas. Il affirmait être Dieu, mais sa conduite ne justifiait en rien une telle vantardise. Il avait également l'habitude de formuler des remarques désobligeantes sur les hymnes du gourou, disant : « Qu'est-ce qu'un hymne en dialecte vulgaire ? » Il ignorait que les compositions de Guru Nanak étaient supérieures à celles des Védas. L'âme du pandit s'est infiltrée dans ce serpent, et les vers l'ont fait souffrir pour la tromperie qu'il a pratiquée sur les hommes. Il avait cependant accompli de bonnes actions lors de ses vies précédentes, et c'est grâce à cela qu'il a rencontré les disciples de Guru Nanak et obtenu le salut. Comme l'a dit Guru Arjan :
 
 En s'associant aux saints, l'homme n'a aucun travail ;
 Il n’est pas nécessaire de travailler dur en leur compagnie :
@@ -78,7 +78,7 @@ Ceux qui mangent le fruit de leur travail et donnent quelque chose,
 
 Il faut éviter toute insuffisance dans vos poids ou tout manque d'égalité dans vos balances. Restez fermes dans votre foi.
 
-Les Sikhs demandèrent alors au gourou de leur donner des instructions plus approfondies sur la religion sikhe. Il répondit : « Vous devez lire le Granth Sahib et ne vénérer aucun objet inanimé. Lorsqu'un Sikh décède, une nourriture sacrée doit être préparée et distribuée après la lecture du Sohila. Il ne doit pas y avoir de deuil, mais des hymnes des gourous doivent être chantés et le Granth Sahib doit être entonné. Aucun dieu ni déesse ne doit être considéré comme le soutien de l'homme. Il faut se fier uniquement au Dieu immortel. »
+Les Sikhs demandèrent alors au gourou de leur donner des instructions plus approfondies sur la religion sikhe. Il répondit : « Vous devez lire le Granth Sahib et ne vénérer aucun objet inanimé. Lorsqu'un Sikh décède, une nourriture sacrée doit être préparée et distribuée après la lecture du Sohila. Il ne doit pas y avoir de deuil, mais des hymnes des gourous doivent être chantés et le Granth Sahib doit être entonné. Aucun dieu ni <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> déesse ne doit être considéré comme le soutien de l'homme. Il faut se fier uniquement au Dieu immortel. »
 
 Un sikh fervent nommé Bhai Gonda demeurait auprès du gourou. C'était un saint en pensées, en paroles et en actes. Le gourou, ravi de sa sincère dévotion, lui dit : « Ô Bhai Gonda, va à Kaboul, instruis les sikhs de la région dans le culte du vrai Nom et prêche la foi sikhe. Nourris les saints et les pèlerins avec les offrandes que tu reçois, et envoie le reste pour l'entretien de ma cuisine. Tels sont tes devoirs, et je suis certain que tu les rempliras. »
 
@@ -89,7 +89,7 @@ Régalez votre esprit avec la parole et le sort du gourou.
 Mets les pieds du gourou dans ton cœur,
 Et inclinez-vous toujours devant le Guru, l'Être suprême.[^5]
 
-Un jour, alors que Gonda répétait le Japji, il s'imagina s'accrocher aux pieds du Guru. Il était dans un tel état d'abstraction qu'il en perdit connaissance. Il était aussi absorbé par la vue du Guru qu'une goutte de pluie dans l'océan. Le Guru, par son pouvoir occulte, savait ce qui se passait dans l'esprit de Gonda et s'assit fermement sur son trône, les pieds joints. Lorsque le dîner fut annoncé, comme d'habitude à midi, il ne répondit pas. Lorsque l'annonce fut répétée environ une heure plus tard, il resta silencieux. Une troisième fois, après un intervalle plus long, le dîner fut annoncé et le cuisinier demanda la permission de le servir, mais même alors, le Guru resta silencieux. Alors que plusieurs Sikhs étaient sur le point de lui faire une représentation, il rompit le silence et dit : « Frères Sikhs, Bhai Gonda est à Kaboul. » Il est, en pensées, en paroles et en actes, un saint du Guru. Aujourd'hui, il a serré mes pieds. Comment puis-je les lui retirer ? Et comment puis-je aller dîner avant qu'il ne les ait lâchés ? J'attends donc la fin de sa méditation et de son hommage. Bhai Gonda ne s'éveilla de sa transe qu'au crépuscule, et ce n'est qu'à ce moment-là que le Guru se sentit libre de prendre son repas.
+Un jour, alors que Gonda répétait le Japji, il s'imagina s'accrocher aux pieds du Guru. Il était dans un tel état d'abstraction qu'il en perdit connaissance. Il était aussi absorbé par la vue du Guru qu'une goutte de pluie dans l'océan. Le Guru, par son pouvoir occulte, savait ce qui se passait dans l'esprit de Gonda et s'assit fermement sur son trône, les pieds joints. Lorsque le dîner fut annoncé, comme d'habitude à midi, il ne répondit pas. Lorsque l'annonce fut répétée environ une heure plus tard, il resta silencieux. Une troisième fois, après un intervalle plus long, le dîner fut annoncé et le cuisinier demanda la permission de le servir, mais même alors, le Guru <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> resta silencieux. Alors que plusieurs Sikhs étaient sur le point de lui faire une représentation, il rompit le silence et dit : « Frères Sikhs, Bhai Gonda est à Kaboul. » Il est, en pensées, en paroles et en actes, un saint du Guru. Aujourd'hui, il a serré mes pieds. Comment puis-je les lui retirer ? Et comment puis-je aller dîner avant qu'il ne les ait lâchés ? J'attends donc la fin de sa méditation et de son hommage. Bhai Gonda ne s'éveilla de sa transe qu'au crépuscule, et ce n'est qu'à ce moment-là que le Guru se sentit libre de prendre son repas.
 
 Lorsque les Sikhs eurent ensuite l'occasion d'interroger Gonda, ils découvrirent que les paroles du gourou étaient confirmées et que ses actes étaient expliqués par les réflexions et les mouvements de Gonda pendant son état de transe. Les Sikhs furent alors profondément convaincus de la grandeur du gourou et déclarèrent qu'ils étaient eux-mêmes de pauvres ignorants. Comme l'a dit le gourou Arjan :
 
@@ -99,7 +99,7 @@ Et encore :—
 
 Sachez que Dieu et le Guru ne font qu'un.[^7]
 
-Les Sikhs disaient : « Les avantages de la religion de Guru Nanak sont indescriptibles, et quiconque la quitte et s'égare vers d'autres sectes est profondément malheureux, car il perd ainsi sa précieuse naissance humaine. » Un jour, alors que les Sikhs parcouraient de longues distances pour se rendre à la foire de Baisakhi et faisaient des offrandes selon leurs moyens, hommes et femmes tournaient autour du Guru comme des bourdons autour d'une fleur de lotus. Le Guru demanda s'il y avait parmi ses Sikhs des personnes qui, ayant établi une cuisine selon ses moyens, partageaient leur nourriture avec d'autres. On lui répondit que deux ou trois Sikhs étaient venus, qui avaient établi des cuisines dans plusieurs villages et distribuaient leur nourriture aux disciples du Guru. Le gourou ordonna qu'on les appelle et leur demanda sur quel principe ils avaient établi des cuisines et s'ils recevaient tous les Sikhs dans les mêmes conditions que leurs proches. Un Sikh répondit : « Lorsqu'un Sikh a la gentillesse de me rendre visite au moment de la distribution de nourriture, je le satisfais d'abord, puis je me contente moi-même. » Un deuxième dit : « Je cuisine et distribue la nourriture de mes propres mains. » Un troisième dit : « Je lave les pieds des Sikhs et j'en bois l'eau, car il est écrit dans le Sukhmani :
+Les Sikhs disaient : « Les avantages de la religion de Guru Nanak sont indescriptibles, et quiconque la quitte et s'égare vers d'autres sectes est profondément malheureux, car il perd ainsi sa précieuse naissance humaine. » Un jour, alors que les Sikhs parcouraient de longues distances pour se rendre à la foire de Baisakhi et faisaient des offrandes selon leurs moyens, hommes et femmes tournaient autour du Guru comme des bourdons autour d'une fleur de lotus. Le Guru demanda s'il y avait parmi ses Sikhs des personnes qui, ayant établi une cuisine selon ses moyens, partageaient leur nourriture avec d'autres. On lui répondit que deux ou trois Sikhs étaient venus, qui avaient établi des cuisines dans plusieurs villages et distribuaient leur nourriture <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> aux disciples du Guru. Le gourou ordonna qu'on les appelle et leur demanda sur quel principe ils avaient établi des cuisines et s'ils recevaient tous les Sikhs dans les mêmes conditions que leurs proches. Un Sikh répondit : « Lorsqu'un Sikh a la gentillesse de me rendre visite au moment de la distribution de nourriture, je le satisfais d'abord, puis je me contente moi-même. » Un deuxième dit : « Je cuisine et distribue la nourriture de mes propres mains. » Un troisième dit : « Je lave les pieds des Sikhs et j'en bois l'eau, car il est écrit dans le Sukhmani :
 
 Lavez les pieds des saints hommes et buvez l'eau qui en sort.
 
@@ -155,18 +155,18 @@ En entendant cela, les Rajas trouvèrent leur affaire avec le Guru terminée. Il
 
 ## Remarques
 
-[^1] : Soukhmani.
+[^1]: Soukhmani.
 
-[^2] : Soukhmani.
+[^2]: Soukhmani.
 
-[^3] : Bawan Akhari.
+[^3]: Bawan Akhari.
 
 [^4]: Sarang ki War.
 
-[^5] : Gaund.
+[^5]: Gaund.
 
-[^6] : Soukhmani.
+[^6]: Soukhmani.
 
-[^7] : Gaund.
+[^7]: Gaund.
 
 [^8]: Gourou Ram Das, Gauri.

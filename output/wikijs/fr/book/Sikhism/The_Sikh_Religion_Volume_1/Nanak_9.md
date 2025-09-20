@@ -472,25 +472,25 @@ Assis à la maison, tu trouveras le Seigneur si tes intentions sont bonnes.
 
 [^4]: Âsa ki Wâr.
 
-[^1] : Dhanâsari.
+[^1]: Dhanâsari.
 
 [^1]: C'est-à-dire dans une future naissance.
 
 [^1]: Celui qui accomplit une dévotion sincère.
 
-[^2] : Tilang, Ashtapadi.
+[^2]: Tilang, Ashtapadi.
 
 [^3]: Ceci fait référence à la licence de l'armée de Bâbar.
 
 [^1]: Autrement dit, les Moghols arriveront en Sambat 1578 et partiront en Sambat 1597 (1540). L'année Sambat précède de cinquante-sept ans l'annus Domini. Le monarque sortant était Humâyûn. Le disciple d'un héros serait Sher Shâh Sûri, qui l'a dépossédé. Cette ligne semble être une réponse à une question posée au gourou par Lâlo.
 
-[^2] : Tilang.
+[^2]: Tilang.
 
 [^3]: Mâjh ki Wâr.
 
 [^1]: C'est-à-dire que je suis un serviteur héréditaire de Dieu.
 
-[^2] : Mâru.
+[^2]: Mâru.
 
 [^1]: La mère ou la sœur aînée du marié agite de l'eau autour de la tête de la mariée, puis la boit, afin de prendre sur elle tous ses maux.
 
@@ -523,13 +523,13 @@ prononcer.
 
 [^1]: Les musulmans portent fréquemment des vêtements bleus, une coutume qui vient des anciens Égyptiens.
 
-[^2] : _Miân_, titre de respect adressé aux musulmans. Dans les régions montagneuses de l'Inde, il est donné aux fils des princes Râjput.
+[^2]: _Miân_, titre de respect adressé aux musulmans. Dans les régions montagneuses de l'Inde, il est donné aux fils des princes Râjput.
 
-[^3] : _Mîr_, un seigneur ou un maître.
+[^3]: _Mîr_, un seigneur ou un maître.
 
-[^4] : _Simritis_, les institutions cérémonielles et juridiques traditionnelles des hindous. Les principaux Simritis sont au nombre de vingt-sept.
+[^4]: _Simritis_, les institutions cérémonielles et juridiques traditionnelles des hindous. Les principaux Simritis sont au nombre de vingt-sept.
 
-[^5] : Basant Ashtapadi.
+[^5]: Basant Ashtapadi.
 
 [^6]: Cela fait référence à la vie nomade qui prévalait autour du village natal du gourou.
 
@@ -545,4 +545,4 @@ prononcer.
 
 [^1]: C'est-à-dire que personne ne les méprise.
 
-[^2] : Tilang.
+[^2]: Tilang.

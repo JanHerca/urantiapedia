@@ -209,20 +209,20 @@ Sur ce, le Guru et Mian Mitha se séparèrent.
 
 ## Notes de bas de page
 
-[^1] : Sloks supplémentaires de Guru Nanak.
+[^1]: Sloks supplémentaires de Guru Nanak.
 
 [^1]: C'est-à-dire, si tu deviens musulman.
 
 [^1]: Sri Râg.
 
-[^1] : Prière d'introduction du Coran. Son sens secondaire est la prière offerte pour une personne décédée.
+[^1]: Prière d'introduction du Coran. Son sens secondaire est la prière offerte pour une personne décédée.
 
 [^2]: La presse à huile indienne est une machine primitive. Une poutre est conçue pour tourner dans une alvéole où sont placées les graines à presser. Cela signifie que les machines seront torturées comme si les poutres des presses à huile tournaient à l'intérieur comme des alvéoles.
 
-[^1] : Dharmrâj, le Pluton de la mythologie grecque.
+[^1]: Dharmrâj, le Pluton de la mythologie grecque.
 
-[^1] : Contentement, compassion, piété, patience, moralité. La liste des cinq vertus est quelque peu arbitraire. La vérité y figure généralement, mais ici le gourou en fait une vertu à part entière.
+[^1]: Contentement, compassion, piété, patience, moralité. La liste des cinq vertus est quelque peu arbitraire. La vérité y figure généralement, mais ici le gourou en fait une vertu à part entière.
 
-[^1] : Granth Sahib de Banno. Il convient de noter que cet hymne n'est généralement pas accepté par les Sikhs.
+[^1]: Granth Sahib de Banno. Il convient de noter que cet hymne n'est généralement pas accepté par les Sikhs.
 
-[^2] : Instruction. Ceci non plus ne se trouve pas dans le Granth Sahib.
+[^2]: Instruction. Ceci non plus ne se trouve pas dans le Granth Sahib.

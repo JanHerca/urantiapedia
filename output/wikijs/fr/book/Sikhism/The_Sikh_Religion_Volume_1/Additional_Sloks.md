@@ -173,7 +173,7 @@ FIN DU VOL. I
 
 ## Notes de bas de page
 
-[^1] : _Dohi dichai_. Littéralement : faire une proclamation de départ.
+[^1]: _Dohi dichai_. Littéralement : faire une proclamation de départ.
 
 [^2]: _Oh hai_. Il l'est.
 

@@ -248,19 +248,19 @@ Durant son séjour à Batala, le gourou composa le Sidh Gosht, un traité dont l
 
 ## Notes de bas de page
 
-[^1] : Sri Rag, Ashtapadi.
+[^1]: Sri Rag, Ashtapadi.
 
 [^1]: Les brahmanes utilisent le basilic doux et les feuilles de bel (_Aegle Marmelos_) dans leur culte, le premier dans le culte de Vishnu et le second dans le culte de Shiv.
 
-[^1] : Mâru.
+[^1]: Mâru.
 
 [^2]: Le grec {grec koi^lon}, le latin caelum, ciel.
 
 [^3]: Le sens de cette expression est totalement différent de celui du {grec gnw^ði seauton}. Se connaître soi-même, dans les écrits sacrés sikhs, signifie connaître Dieu qui est en soi.
 
-[^1] : Fête en l'honneur du dieu Shiv, célébrée le 14e jour de la moitié sombre de Phâgan (février-mars). Il était habituel pour les Jogis de se rassembler à l'occasion de cette fête. L'Aîn-i-Akbari rapporte que l'empereur Akbar avait alors pour habitude de réunir tous les Jogis de l'Empire et de manger et boire avec eux. Sous l'influence de ces festivités, ils lui promettaient qu'il vivrait trois ou quatre fois plus longtemps que le commun des mortels.
+[^1]: Fête en l'honneur du dieu Shiv, célébrée le 14e jour de la moitié sombre de Phâgan (février-mars). Il était habituel pour les Jogis de se rassembler à l'occasion de cette fête. L'Aîn-i-Akbari rapporte que l'empereur Akbar avait alors pour habitude de réunir tous les Jogis de l'Empire et de manger et boire avec eux. Sous l'influence de ces festivités, ils lui promettaient qu'il vivrait trois ou quatre fois plus longtemps que le commun des mortels.
 
-[^2] : Achal, à environ trois milles de Batâla, abrite le sanctuaire de Sâmkârtik, fils de Shiv. Pour un récit complet de Batâla, voir le _Khulâsat-ul-Tawârikh_, dont l'auteur est né là-bas.
+[^2]: Achal, à environ trois milles de Batâla, abrite le sanctuaire de Sâmkârtik, fils de Shiv. Pour un récit complet de Batâla, voir le _Khulâsat-ul-Tawârikh_, dont l'auteur est né là-bas.
 
 [^1]: En hindi, le poids d'un réservoir est égal à quatre mâshas, ​​un mâsha vaut huit rattis et un ratti vaut huit grains de riz.
 

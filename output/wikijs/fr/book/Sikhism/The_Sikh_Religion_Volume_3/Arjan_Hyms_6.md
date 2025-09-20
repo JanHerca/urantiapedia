@@ -133,7 +133,7 @@ Elle a toutes les perfections, les neuf trésors ; sa maison n'est jamais vide, 
 L'état matrimonial de celle dont le discours est mielleux et qui obéit à son Bien-Aimé, sera toujours permanent.
 Nanak expose ce qu'il sait à travers les instructions du Guru : celle qui a Dieu pour époux jouit d'une félicité excessive.
 Venez, mes compagnons, auprès du saint homme, et appliquons-nous à son service.
-Laissons de côté notre orgueil, broyons son grain et lavons son leet :
+Laissons de côté notre orgueil, broyons _son grain_ et lavons son leet :
 Effaçons-nous et ne nous pavanons pas, et nos ennuis s'en iront.
 Prenons la protection du Guru, obéissons-lui et soyons heureux de tout ce qu’il fait.
 Rendons-lui le plus humble service, dissipons tout souci, soyons éveillés et tenons-nous devant lui, les mains jointes, jour et nuit.
@@ -260,13 +260,13 @@ Nanak représente celui qui obtient Dieu par une grande bonne fortune et entre d
 L'effet de l'amour du monde sur l'homme et les autres animaux :
 
 L'illusion de Mammon est terrible,[^8] l'illusion de Mammon <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> est terrible ; hélas ! grande est son ivresse, elle pervertit la nature des hommes, et leurs vies, hélas ! passent en vain.
-Dans la forêt profonde et terrible, dans la forêt profonde et terrible, hélas ! les voleurs de l'âme pillent la maison[^9] en plein jour, et nuit et jour mangent le butin[^10].
+Dans la forêt profonde et terrible, dans la forêt profonde et terrible, hélas ! les voleurs de l'âme pillent la maison[^9] en plein jour, et nuit et jour mangent _le butin_[^10].
 Nuit et jour ils dévorent le butin; la vie s'en va sans Dieu. Viens à moi, ô Dieu, Seigneur de miséricorde.
 Sans la compagnie du Bien-Aimé, de nombreuses naissances et de nombreux décès ont eu lieu, et il n’y a pas de salut.
 Je suis sans famille, sans beauté, sans distinction, sans connaissance divine ; qui est mon protecteur, sinon Toi, ô Dieu ?
 Les mains jointes, Nanak est entré dans ton sanctuaire ; ô Seigneur bien-aimé, accorde-lui le salut.
 Hélas ! comme un poisson hors de l’eau, un poisson hors de l’eau meurt lorsqu’il est séparé de l’eau, ainsi comment puis-je vivre sans le Bien-Aimé ?
-Le cerf fait face à la flèche, il fait face à la flèche, hélas ! il sacrifie sa vie tandis qu'il est absorbé par le plaisir d'écouter la cloche du chasseur.
+Le cerf fait face à la flèche, il fait face à la flèche, hélas ! il sacrifie sa vie tandis qu'il est absorbé par le plaisir d'écouter _la cloche du chasseur_.
 L'amour pour le Bien-Aimé a jailli en moi : j'ai abandonné le monde pour Le rencontrer : maudit soit le corps qui reste un instant sans Lui !
 Mes paupières ne se ferment pas ; je suis absorbé dans l'amour du Bien-aimé ; mon esprit le cherche anxieusement nuit et jour.
 Ceux qui sont imprégnés de l’amour de Dieu et enivrés par le Nom, perdent toute peur, tout doute et tout amour du monde.
@@ -315,13 +315,13 @@ Nanak signifie que mes désirs ont été exaucés. J'ai trouvé le Porteur de pr
 
 [^2]: La signification du Guru est que l'homme, l'eau, doit se sacrifier pour Dieu et Dieu, le lait le mélangerait à Lui-même.
 
-[^3] : J'ai mis des vêtements rouges et j'ai teint mes lèvres, mes mains, mes pieds, etc. Le rouge est porté par les femmes mariées, mais jamais par les veuves.
+[^3]: J'ai mis des vêtements rouges et j'ai teint mes lèvres, mes mains, mes pieds, etc. Le rouge est porté par les femmes mariées, mais jamais par les veuves.
 
-[^4] : _Avgah_. Les gyanis traduisent ce mot-cache, mais il s'agit d'un mot sanskrit courant portant le sens donné.
+[^4]: _Avgah_. Les gyanis traduisent ce mot-cache, mais il s'agit d'un mot sanskrit courant portant le sens donné.
 
 [^5]: La nuit est ici expliquée par la vie humaine, et les étoiles par les vertus.
 
-[^6] : L'âme.
+[^6]: L'âme.
 
 [^7]: Quand les chasseurs sont dehors et que les pièges sont posés.
 

@@ -146,7 +146,7 @@ Nanak, le corps qui oublie le Seigneur deviendra cendre.
 L’homme peut jouir d’un beau lit, de plaisirs variés et de tous les délices ;
 Il peut posséder un palais, de l’or et de l’argent ; il peut utiliser des parfums et porter des perles et des diamants ;
 Il peut profiter des plaisirs que son cœur désire et n’avoir aucune anxiété ;
-Mais s'il ne se souvient pas de Dieu, il sera comme un ver dans les ordures.
+Mais s'il ne se souvient pas de Dieu, _il sera comme_ un ver dans les ordures.
 Sans le nom de Dieu il n'y a pas de paix, comment le cœur sera-t-il consolé ?
 
 La félicité du bonheur spirituel obtenu par le travail :
@@ -155,7 +155,7 @@ La félicité du bonheur spirituel obtenu par le travail :
 
 Les anachorètes recherchent dans les dix directions l'amour des pieds de lotus de Dieu :
 Ils renoncent au Mammon trompeur, Nanak, dans la délicieuse compagnie des saints.
-Puis-je répéter le nom de Dieu dans mon cœur et avec mes lèvres, et parcourir tous les pays en prêchant !
+Puis-je répéter le nom de Dieu dans mon cœur et avec mes lèvres, et parcourir tous les pays en _prêchant_ !
 Nanak, toutes les choses du monde sont fausses ; je vis en entendant la vraie renommée de Dieu.
 L'homme pauvre et saint, s'il est pieux, est le roi du monde :
 
@@ -203,7 +203,7 @@ L'homme considère un lieu comme une ville, même s'il ne s'agit que d'un déser
 En voyant une fausse richesse, l’homme croit qu’elle est réelle.
 Les hommes deviennent fous à cause de la luxure, de la colère et de l’orgueil.
 Quand la massue de la mort tombera sur leurs têtes, ils seront tués.
-Celui qui erre sans la compagnie du parfait gourou divin est un démon.
+Celui qui erre sans _la compagnie du_ parfait gourou divin est un démon.
 
 Tout trompe, sauf la dévotion à Dieu :
 
@@ -222,7 +222,7 @@ Pourquoi amasser ce qui ne t'accompagnera pas dans ta progression ?
 Dis-moi pourquoi tu t’efforces d’acquérir ce que tu dois laisser derrière toi ?
 Comment ton esprit peut-il être content et ne pas être affligé lorsque tu oublies Dieu ?
 Celui qui abandonne Dieu et s’attache aux idoles demeurera dans l’enfer.
-Ô Dieu, sois miséricordieux et compatissant, et dissipe la crainte de Nanak de la transmigration.
+Ô Dieu, sois miséricordieux et compatissant, et dissipe la crainte de Nanak _de la transmigration_.
 Le saint homme ne trouve aucun plaisir dans les jouissances du monde :
 
 <p style="text-align:center;">SLOK XI</p>
@@ -254,7 +254,7 @@ Nanak demeurera avec ce Seigneur Dieu qui est l’Ami des saints.
 <p style="text-align:center;">PAURI XII</p>
 
 Comment un poisson peut-il survivre sans eau ? Comment le chatrik peut-il se contenter de gouttes de pluie ?
-Comme le cerf fasciné par la cloche court vers le chasseur ; <span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
+Comme le cerf fasciné par la cloche court vers _le chasseur_ ; <span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 Comme le bourdon gourmand, trouvant une fleur odorante, s'y enferme ;
 Ainsi les saints hommes aiment Dieu et sont satisfaits de le contempler.
 
@@ -355,7 +355,7 @@ Toutes les miséricordes s'obtiennent en répétant le nom et les louanges de Di
 
 Nanak, pour répéter les louanges du nom de l'Être suprême miséricordieux
 C'est obtenir miséricorde, enlever les chagrins et se débarrasser de Mammon.
-La fièvre ardente de mon cœur a été éteinte ; Dieu lui-même m’a préservé.
+La fièvre ardente _de mon_ cœur a été éteinte ; Dieu lui-même m’a préservé.
 Nanak, répétez le nom de ce Dieu qui a créé le monde.
 
 <span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
@@ -489,7 +489,7 @@ L'avare a particulièrement besoin de la faveur de Dieu :
 En compagnie des saints, adorez le Seigneur ; c'est Lui seul qui jette un voile sur vos péchés.
 Quand il y a beaucoup de trous dans le bateau,[^2] ils ne peuvent pas être bouchés par les doigts.
 Adressez-vous à Celui qui a fait la barque, _et ils seront arrêtés_, _et_ la barque fragile redeviendra solide.
-Si quelqu'un essaie de soulever une montagne avec des mots, il n'y parviendra pas ; là où elle était, elle demeure.
+Si quelqu'un essaie de soulever une montagne avec des mots, _il n'y parviendra pas_ ; là où elle était, elle demeure.
 Nanak n'a ni force ni pouvoir ; ô Dieu, préserve-le ; il a recherché ta protection.
 
 Ceux qui sont esclaves de Mammon seront difficilement sauvés :
@@ -594,7 +594,7 @@ En rencontrant le Guru, Nanak a constaté cela ; c'est pourquoi il chante toujou
 Dieu a installé le gourou comme une femme au foyer bien-aimée dans son palais :
 
 Dieu m’a donné la possession de la maison ; je suis devenue la maîtresse de maison.
-Mon Époux a fait des dix organes de l'action et de la réflexion mes esclaves.
+Mon Époux a fait des dix organes de _l'action et de la réflexion_ mes esclaves.
 J'ai rassemblé toutes les choses de la maison,
 Et avec un désir assoiffé, je désire ardemment mon Bien-Aimé.
 Quels mérites de mon époux bien-aimé dois-je mentionner ?
@@ -641,7 +641,7 @@ Alors que son esprit est lent à entendre les louanges de Dieu.
 Tu dois abandonner toutes ces fausses occupations et partir.
 Dit Nanak, ô Dieu, accorde-moi ta miséricorde
 La faveur de la compagnie de tes saints.
-L'homme obtient quelque chose lorsqu'il devient la poussière des pieds des saints.
+L'homme obtient quelque chose lorsqu'il devient la poussière _des pieds des saints_.
 Celui à qui Dieu donne l’intelligence répète son nom.
 
 L'instruction du gourou :
@@ -792,11 +792,11 @@ Je cherche et je cherche dans les forêts
 Pour ce Dieu qui est introuvable, invulnérable et impénétrable.
 Quand verrai-je mon Dieu, le délice de mon âme ?
 Mieux que de se réveiller est le rêve dans lequel je demeure avec Dieu.
-En écoutant les Shastars sur les quatre castes et les quatre étapes de la vie, je ne suis pas satisfait, mais j'ai soif de contempler Dieu.
+En écoutant les Shastars sur les quatre castes et les quatre étapes de la vie, _je ne suis pas satisfait_, mais j'ai soif de contempler Dieu.
 Il n'a ni couleur ni contour, et il n'est pas fait de cinq éléments ; il est impérissable.
 Les saints ou un homme rare d’une grande sainteté peuvent décrire son apparence.
 Ceux qu’Il ​​rencontre avec miséricorde doivent être félicités.
-Ses doutes s'évanouissent pour celui qui voit Dieu en lui et hors de lui.
+Ses doutes s'évanouissent pour celui _qui voit Dieu_ en lui et hors de lui.
 Nanak, celui dont les actes sont parfaits rencontre Dieu.
 
 <span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
@@ -828,7 +828,7 @@ Nanak, celui qui se baigne dans les pieds du saint homme verra les péchés de n
 Le gourou décrit son amour pour Dieu :
 
 Ô Dieu, il n’y a personne d’autre que Toi.
-L'amour de mon cœur pour Toi est comme celui du chakra pour la lune,
+L'amour de mon cœur _pour Toi est comme celui du_ chakra pour la lune,
 Ou l'amour des poissons pour l'eau. <span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 Comme le bourdon n’abandonne pas le lotus,
 Comme le chawki désire le soleil,
@@ -866,7 +866,7 @@ Les mouvements de tes pieds et tes respirations sont comptés ; tu ne seras sauv
 Ô homme, comprends ceci et cesse ta perversité.<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 Ne trouves-tu pas un endroit où habiter chez toi ? Pourquoi vas-tu chez les autres ? [^12]
 Poussé comme un éléphant par le plaisir de la luxure, tu restes attaché à ta famille.
-Comme les oiseaux se rassemblent puis se séparent, ainsi toi aussi tu seras séparé de ton peuple, mais tu obtiendras un lieu de résidence stable si, en association avec les saints, tu médites sur Dieu.
+Comme les oiseaux se rassemblent puis se séparent, _ainsi toi aussi tu seras séparé de ton peuple, mais tu obtiendras_ un lieu de résidence stable si, en association avec les saints, tu médites sur Dieu.
 Comme le poisson périt par l'amour de son palais, ainsi l'homme insensé est ruiné par sa cupidité.
 Tu es au pouvoir de tes cinq ennemis, mais tu leur échapperas en recherchant la protection de Dieu.
 Ô Destructeur de douleur, sois miséricordieux envers les pauvres ; l'homme et les animaux inférieurs sont tous à Toi.
@@ -977,7 +977,7 @@ Instruction à un Jogi :—
 
 Ô Jogi, les quatre _Veds_ t'appellent, mais tu ne leur obéis pas ;
 Les six _Shastars_ racontent également une chose.
-Les dix-huit Purans réunis parlent du Dieu unique ;
+Les dix-huit _Purans_ réunis parlent du Dieu unique ;
 Pourtant, même ainsi, tu n’as pas trouvé leur secret.
 Le kinguri de Dieu joue un ton inégalé,
 Ô Jogi enivré.
@@ -1133,6 +1133,7 @@ Le bateau du gourou ne se trouve que par chance.
 Nanak, une pierre flotte en s'associant au saint.
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -1166,11 +1167,11 @@ Nanak, une pierre flotte en s'associant au saint.
 [^3]: La mesure Tilang est très chantée par les Baloches. Les hymnes dans ce
 mesure contiennent généralement plusieurs mots persans.
 
-[^4] : Également traduit par jouer.
+[^4]: Également traduit par jouer.
 
 [^5]: Allah et Khuda utilisés dans ce verset sont des noms musulmans de Dieu.
 
-[^6] : Connaissance divine.
+[^6]: Connaissance divine.
 
 [^7]: Le monde qui a été projeté par le Créateur.
 
@@ -1178,29 +1179,29 @@ mesure contiennent généralement plusieurs mots persans.
 
 [^9]: _Rita_, qui signifie vide, signifie également chemin, et la phrase peut être traduite par : Montre-moi le chemin pour te contempler.
 
-[^10] : Également traduit : Le jeu du corps, de la richesse et de la jeunesse est terminé.
+[^10]: Également traduit : Le jeu du corps, de la richesse et de la jeunesse est terminé.
 
 [^11]: _Duar_ dans l'original.
 
 [^12]: Fais toi-même le bien, et ensuite va prêcher aux autres.
 
-[^13] : _Ram kawach_. Littéralement : la cotte de mailles de Dieu ; mais le terme s'applique également à un sort particulier.
+[^13]: _Ram kawach_. Littéralement : la cotte de mailles de Dieu ; mais le terme s'applique également à un sort particulier.
 
 [^14]: C'est-à-dire que l'homme est un pécheur.
 
 [^15]: Un préposé tenant une lampe dans chaque main fait le tour du théâtre et éclaire celui-ci.
 
-[^16] : Les organes d'action et de perception.
+[^16]: Les organes d'action et de perception.
 
-[^17] : Les cinq sens.
+[^17]: Les cinq sens.
 
-[^18] : Le corps.
+[^18]: Le corps.
 
-[^19] : Pensées, fantaisies, etc., etc.
+[^19]: Pensées, fantaisies, etc., etc.
 
 [^20]: C'est-à-dire que la vérité habitait partout où il y avait des habitations humaines.
 
-[^21] : _Dutera_ — deux ou trois. Les hommes étaient par groupes de six et sept.
+[^21]: _Dutera_ — deux ou trois. Les hommes étaient par groupes de six et sept.
 
 [^22]: La puissance de Dieu.
 
@@ -1216,4 +1217,4 @@ mesure contiennent généralement plusieurs mots persans.
 
 [^28]: En compagnie des saints.
 
-[^29] : Littéralement : la grosse perle d’un chapelet.
+[^29]: Littéralement : la grosse perle d’un chapelet.

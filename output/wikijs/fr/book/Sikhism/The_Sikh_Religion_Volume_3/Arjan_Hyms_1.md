@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T12:8:26Z
 La vie est incertaine et l’homme devrait se repentir à temps :
 
 Même s'il n'est qu'un invité pour un ou deux ghari, l'homme organise ses affaires.
-Il est absorbé par Mammon et la luxure ; et, fou qu'il est, il ne sait pas qu'il n'est qu'un invité.
+Il est absorbé par Mammon et la luxure ; et, fou qu'il est, il ne sait pas qu'il n'est _qu'un invité_.
 Il ne se repent qu'après son départ, et tombe ainsi sous le pouvoir de la Mort, le bourreau.
 Ô aveugle, tu es assis sur une berge qui s'effondre.
 Si tel est ton destin depuis le début, alors agis selon les instructions du Guru.
@@ -103,7 +103,7 @@ Nanak, répète le vrai Nom auquel je suis pour toujours et à jamais un sacrifi
 
 Le gourou conseille le rejet des plaisirs mondains :
 
-Considérant les plaisirs du monde comme doux, l’homme y prend part, mais ils s’avèrent avoir un goût amer.
+Considérant les _plaisirs du monde_ comme doux, l’homme y prend part, mais ils s’avèrent avoir un goût amer.
 Il se fait aimer de tout son cœur par ses frères et ses amis ; il se livre en vain à des plaisirs coupables.
 Tout cela passera en un clin d'œil, et il sera étonné sans le Nom.
 Ô mon âme, applique-toi au service du vrai Guru.
@@ -120,16 +120,16 @@ Le peuple de Dieu est sauvé par son amour pour Lui ; pour lui, Nanak est toujou
 
 L’homme, durant sa brève vie, devrait pratiquer la dévotion :
 
-Quand le berger ne va que pour quelques jours au pâturage, pourquoi devrait-il y prétendre ?
+Quand le berger ne va _que pour quelques jours_ au pâturage, pourquoi devrait-il y _prétendre_ ?
 Quand ton temps sera accompli, tu devras partir ; mais tu es en train d'arranger les affaires de ta maison.[^4]
 Ô homme, chante les louanges de Dieu et sers le vrai gourou avec amour.
 Pourquoi es-tu fier d’une bagatelle ?
 Comme l'hôte d'une nuit, tu partiras au matin.<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
-Pourquoi es-tu attaché à ta famille ? Tout est éphémère comme les fleurs du jardin.
+Pourquoi es-tu attaché à ta famille ? Tout est _éphémère_ comme les fleurs du jardin.
 Pourquoi parler de tes biens ? Souhaites-tu le Dieu qui te les a donnés ?
 Tu dois assurément partir et laisser tes lakhs et tes karors.
 Après avoir erré parmi les quatre-vingt-quatre lakhs d'existences, tu as enfin obtenu la vie humaine si difficile à obtenir.
-Nanak, souviens-toi du Nom ; le jour de ton départ est proche.
+Nanak, souviens-toi du Nom ; le jour _de ton départ_ est proche.
 
 Tant que la vie dure, apprenez une conduite sage :
 
@@ -174,12 +174,12 @@ En rencontrant le Guru, Nanak a reconnu le Dieu Suprême.
 
 Il vaut mieux rechercher la protection de Dieu plutôt que de rejoindre l’une des sectes religieuses indiennes actuelles :
 
-Je ne sais pas ce qui plaît au Seigneur ;
+Je ne sais pas ce qui plaît _au Seigneur_ ;
 Ô mon âme, cherche sa voie.
 Le méditant pratique la méditation.
 Celui qui possède la connaissance peut utiliser sa connaissance,
 Pourtant, peu de gens connaissent Dieu.<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
-Le Bhagavan[^5] agit selon les règles de sa secte ;
+Le Bhagavan[^5] agit selon les règles _de sa secte_ ;
 Le Jogi prétend qu'il est _seul_ émancipé ;
 Le Pénitent est absorbé dans sa pénitence ;
 Les Silencieux observent le silence ;
@@ -258,15 +258,15 @@ Tous sont rassemblés pour la lutte ; Dieu Lui-même est assis pour la contemple
 La musique des tambours et des clairons retentit ;
 Les lutteurs entrent dans l'arène et se promènent.
 J'ai vaincu les cinq jeunes gens – les péchés capitaux – ; le gourou m'a tapoté dans le dos.
-Tous se sont réunis pour voir la lutte,
+Tous se sont réunis pour _voir la lutte_,
 Et ils prendront leurs différents chemins pour rentrer chez eux.
 Les saints ont obtenu du profit ; les pervers ont perdu même leur capital.
 Tu es dépourvu de couleur et de marques ;
 Ô Dieu, tu es toujours présent.
-Ô Seigneur des excellences, Tes saints entendent Tes louanges, méditent sur Toi et T'aiment.
+Ô Seigneur des excellences, Tes saints entendent _Tes louanges_, méditent sur Toi et T'aiment.
 Je suis le serviteur de Dieu à chaque époque.
-Le gourou a coupé la corde de l'ignorance qui me liait.
-Je ne m'engagerai plus dans la lutte ; Nanak a cherché et trouvé cette opportunité de délivrance.
+Le gourou a coupé la corde de _l'ignorance qui me liait_.
+Je ne m'engagerai plus dans la lutte ; Nanak a cherché et trouvé cette opportunité _de délivrance_.
 
 
 ## CHHANT.
@@ -353,7 +353,7 @@ Comme un enfant est satisfait en buvant du lait,
 Comme un homme pauvre est heureux de trouver la richesse,
 Comme un homme assoiffé est rafraîchi en buvant de l’eau, ainsi mon âme est heureuse avec Dieu.
 Comme une lampe brille dans les ténèbres,
-Comme les espoirs d’une femme se réalisent en contemplant son époux,
+Comme les espoirs _d’une femme_ se réalisent en contemplant son époux,
 De même que l’on devient heureux en rencontrant son bien-aimé, ainsi mon âme est réjouie par l’amour de Dieu.
 Les saints m'ont mis sur le chemin de Dieu,
 Et étant miséricordieux, tu m’as rendu intime avec Lui.
@@ -369,7 +369,7 @@ Et devenez immortel en le possédant.
 Le trésor du Nom est obtenu par celui dans le cœur duquel demeure la parole du Guru.
 Celui qui obtient l’essence du nom de Dieu est satisfait et écœuré.
 Celui qui a obtenu les douceurs de Dieu ne vacille pas.
-Le nom de Dieu est obtenu par celui sur le front duquel un destin favorable a été inscrit.
+Le nom de Dieu est obtenu par celui sur le front duquel un destin favorable a _été inscrit_.
 Dieu est entré en possession d’un homme, le Guru, de qui beaucoup reçoivent des faveurs.
 En le rencontrant, beaucoup obtiennent le salut.
 Les pieux obtiennent le trésor du Nom, mais peu nombreux sont ceux qui les ont vus, ô Nanak.
@@ -452,7 +452,7 @@ Dieu imprègne la création :—
 Tu es l’arbre ; ta branche[^20] a fleuri ;
 De petit tu es devenu grand.
 Tu es un océan, Tu es son écume et ses bulles ; on ne voit rien en dehors de Toi.
-Tu es le fil, Tu es les perles du rosaire,
+Tu es le fil, Tu es les perles _du rosaire_,
 Tu es ses nœuds, Tu es sa perle principale.
 Dieu est au commencement, au milieu et à la fin, et rien d’autre n’est vu.
 Ô Donateur de réconfort, Tu ne possèdes aucun attribut, et pourtant Tu possèdes tout.[^21]
@@ -567,7 +567,7 @@ Le mortel qui a une parfaite bonne fortune
 Je rencontrerai Dieu en compagnie d’hommes saints.
 Nanak, celui dans le cœur duquel le Nom demeure sera acceptable, qu'il soit chef de famille ou anachorète.
 
-Les prières ne doivent être offertes que pour des objets dignes :
+Les prières ne doivent _être_ offertes que pour des objets dignes :
 
 Si quelqu'un prie pour des objets terrestres,
 Il ne tardera pas à périr.
@@ -576,7 +576,7 @@ Celui dans le cœur duquel il y a de l’amour et de la dévotion,
 Je suis toujours éveillé jour et nuit en chantant les louanges de Dieu.
 Dieu prendra son bras et fusionnera avec lui celui qu’il a destiné à recevoir de lui.
 Les pieds pareils-au-lotus de Dieu demeurent dans le cœur des saints.
-Sans l’aide de Dieu, tous les hommes sont volés.
+Sans _l’aide_ de Dieu, tous les hommes sont volés.
 Désirez toujours la poussière des pieds des saints : le nom du Véritable est leur ornement.
 Que vous soyez debout ou assis, chantez le nom de Dieu :
 En s’en souvenant, on obtient un bienfait permanent.
@@ -614,7 +614,7 @@ Selon les instructions du Guru, le malheur et le bien-être sont supportés de l
 L'enseignement du Guru est la voie par laquelle le Dieu suprême est médité et l'homme chante Ses louanges.
 Toi-même, tu as fait toute la création.
 Tu es la Cause des causes, et — tu as tout établi.
-Dit Nanak, d'un tu es devenu sans fin, et dans l'Un l'Infini est absorbé.
+Dit Nanak, d'un tu es devenu sans fin, et dans l'Un _l'Infini_ est absorbé.
 
 Louanges à Dieu :—
 
@@ -671,7 +671,7 @@ Tu es le Roi, ta souveraineté est immense. Nanak est un sacrifice pour toi.
 
 ## Remarques
 
-[^1]: Dieu.[
+[^1]: Dieu.
 
 [^2]: Les myrmidons de la mort.
 
@@ -679,7 +679,7 @@ Tu es le Roi, ta souveraineté est immense. Nanak est un sacrifice pour toi.
 
 [^4]: Également traduit par : Organise tes affaires domestiques ; c'est-à-dire prépare ton voyage.
 
-[^5] : Dans les écrits sikhs, le Bhagavani est un adorateur de Dieu. À l'époque du gourou, les Bhagavanis semblent avoir formé une secte distincte.
+[^5]: Dans les écrits sikhs, le Bhagavani est un adorateur de Dieu. À l'époque du gourou, les Bhagavanis semblent avoir formé une secte distincte.
 
 [^6]: Les Bhagats énumèrent neuf formes de dévotion. Ce sont _shrawan_, ou entendre les louanges de Dieu ; _kiratan_, chanter les louanges de Dieu ; _simiran_, se souvenir de Dieu ; _bandan_, prosternation devant Dieu ; _dasatwa_, service subalterne de Dieu ; _sakkyatwa_, croire que Dieu est son compagnon ; _archan_, invocation de Dieu ; _atam naiwedan_, sacrifier sa vie pour Dieu ; _padsewan_, adoration des pieds de Dieu.
 
@@ -689,7 +689,7 @@ Tu es le Roi, ta souveraineté est immense. Nanak est un sacrifice pour toi.
 
 [^9]: Hommes qui veillent la nuit.
 
-[^10] : Le mois où les pluies commencent en Inde. Ici, cela signifie la vie humaine.
+[^10]: Le mois où les pluies commencent en Inde. Ici, cela signifie la vie humaine.
 
 [^11]: Conduire les hommes à la sainteté.
 
@@ -697,21 +697,21 @@ Tu es le Roi, ta souveraineté est immense. Nanak est un sacrifice pour toi.
 
 [^13]: Les cinq passions mauvaises ou péchés capitaux qui réclament un partenariat dans le village du corps.
 
-[^14] : Littéralement : Peut tendre l’oreille pour entendre les plaintes contre moi.
+[^14]: Littéralement : Peut tendre l’oreille pour entendre les plaintes contre moi.
 
 [^15]: Le corps est désormais plein de mérites au lieu de démérites.
 
-[^16] : Ayant adhéré à la religion sikh.
+[^16]: Ayant adhéré à la religion sikh.
 
-[^17] : Le règne de la religion sikh.
+[^17]: Le règne de la religion sikh.
 
-[^18] : Autrefois, les lutteurs victorieux étaient décorés de turbans imposants. Les Nihangs, une petite secte sikhe, citent cette citation pour justifier leur haute coiffure.
+[^18]: Autrefois, les lutteurs victorieux étaient décorés de turbans imposants. Les Nihangs, une petite secte sikhe, citent cette citation pour justifier leur haute coiffure.
 
 [^19]: Jaulan a deux significations : chaînes ou errance.
 
 [^20]: Le monde qui a été développé à partir de Dieu.
 
-[^21] : _Nirgun sargun_. On dit que Dieu ne possède aucune qualité lorsqu'il a attiré le monde en lui. On dit qu'il possède toutes les qualités lorsqu'il projette la matière de lui-même pour former la création.
+[^21]: _Nirgun sargun_. On dit que Dieu ne possède aucune qualité lorsqu'il a attiré le monde en lui. On dit qu'il possède toutes les qualités lorsqu'il projette la matière de lui-même pour former la création.
 
 [^22]: L'homme se souvient de Dieu et l'adore à travers Lui car Il est assis dans le cœur de chaque personne.
 
@@ -721,4 +721,4 @@ Tu es le Roi, ta souveraineté est immense. Nanak est un sacrifice pour toi.
 
 [^25]: C'est-à-dire que Dieu veillera toujours sur l'homme.
 
-[^26] : Vers lequel se retirer pour se protéger.
+[^26]: Vers lequel se retirer pour se protéger.
