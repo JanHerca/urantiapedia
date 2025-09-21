@@ -1005,7 +1005,7 @@ Será aceptable en su corte.
 Su siervo a quien muestra bondad,
 Obtendrá todo el conocimiento.
 El hombre que entre todos los hombres es un recluso de corazón,
-Así te conviertes, oh Nanak, en un esclavo de Dios.<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
+Así te conviertes, oh Nanak, en un esclavo de Dios.<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 <p style="text-align:center;">7</p>
 

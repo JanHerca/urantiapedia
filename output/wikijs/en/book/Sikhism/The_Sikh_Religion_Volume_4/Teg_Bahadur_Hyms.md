@@ -184,7 +184,7 @@ _Saith_ Nanak, O mortal, lay aside all doubt, and think upon God’s feet.
 
 O man, love God ;
 Hear His praises with thine ears, and sing His songs with thy tongue.
-Associate with holy men, remember God, and thou shalt be cleansed from sin. |
+Associate with holy men, remember God, and thou shalt be cleansed from sin.
 Death wandereth about, O friend, like a serpent with protruding fangs,
 And it will seize thee sooner or later; understand this in thy heart.
 Saith Nanak, worship God; thine opportunity is passing away.

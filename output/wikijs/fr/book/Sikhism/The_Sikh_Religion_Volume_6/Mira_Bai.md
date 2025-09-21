@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T22:31:38Z
 
 Un hymne de Mira Bai est conservé dans le Granth Sahib de Bhai Banno, qui peut être vu à Mangat dans le district de Gujrat au Panjab, mais il n'est pas inclus dans la collection de Guru Arjan.
 
-Mira Bai était la fille de Ratan Singh Rathaur de Merata, une ville située entre Bikaner et Jodhpur, au Rajputana. Elle naquit vers 1504. Elle semble avoir hérité ses penchants religieux de sa mère. Alors que Mira Bai était encore enfant, le cortège nuptial d'un jeune homme de haut rang passa devant le palais. Toutes les dames de la cour, à l'exception de sa mère, se rendirent dans les appartements supérieurs pour assister au cortège. Elle profita de leur absence pour vénérer une image de Krishan, appelée Girdhar Lai, qui était installée dans son appartement privé.
+Mira Bai était la fille de Ratan Singh Rathaur de Merata, une ville située entre Bikaner et Jodhpur, au Rajputana. Elle naquit vers 1504. Elle semble avoir hérité ses penchants religieux <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> de sa mère. Alors que Mira Bai était encore enfant, le cortège nuptial d'un jeune homme de haut rang passa devant le palais. Toutes les dames de la cour, à l'exception de sa mère, se rendirent dans les appartements supérieurs pour assister au cortège. Elle profita de leur absence pour vénérer une image de Krishan, appelée Girdhar Lai, qui était installée dans son appartement privé.
 
 Mira Bai déposa ses jouets pour suivre sa mère et lui dit : « Qui est mon époux ? » Sa mère sourit, la prit dans ses bras et, désignant Girdhar Lai, dit : « Voilà ton époux. » Sur ce, Mira Bai l'accepta aussitôt et se voila le visage, selon la coutume orientale qui veut qu'une épouse se voile le visage, même à sa mère, en présence de son mari. Elle devint si amoureuse de Girdhar Lai qu'elle ne pouvait passer un instant sans le voir. Son amour pour lui est comparable à celui des laitières de Bindraban pour Krishan. Elle finit par assouvir sa passion sans crainte ni honte, et sans aucun égard pour les traditions familiales concernant la discrétion des femmes.
 
@@ -44,7 +44,7 @@ Tandis que ses affections étaient ainsi engagées, elle fut fiancée à Kanwar 
 
 Mira Bai, ravie d'avoir pris possession de l'objet de sa dévotion, l'installa dans son palanquin et, durant le voyage, en contempla la beauté. À son arrivée dans sa nouvelle demeure, sa belle-mère, la Rani, lui avait à peine offert les rites d'hospitalité qu'elle lui demanda d'adorer Durga, une déesse au caractère bien différent de l'enjoué Krishan. Mira Bai répondit qu'elle avait consacré son corps à Girdhar Lai et qu'elle ne s'inclinerait devant personne d'autre que lui. Sa belle-mère rétorqua qu'une bonne épouse s'améliorait en vénérant Durga. Mais Mira Bai mit fin à la discussion en déclarant qu'il était inutile d'insister davantage et qu'elle s'en tiendrait à sa première décision. Sur ce, la Rani, très en colère, alla se plaindre de Mira Bai à la Rana : « Notre belle-fille est une vaine personne, car le jour même de son arrivée, elle refuse de m'obéir et me fait honte. Nos relations futures sont claires. »
 
-Le Rana, furieux, se rendit chez sa belle-fille avec l'intention de la punir. Cependant, la Rani eut le bon sens de le retenir ; il décida que, pour préserver la paix du foyer, il fallait placer Mira Bai dans un appartement séparé. Bien que Nabhaji admette que Rukmini, devenue l'épouse de Krishan, et les laitières, devenues ses compagnes de jeu, ne l'eurent rencontré qu'après avoir sacrifié à Durga, Mira Bai ayant déjà obtenu Krishan, il était inutile qu'elle vénère Durga, et aucune exception ne pouvait être faite à sa conduite sur le modèle de Rukmini et des laitières.
+Le Rana, furieux, se rendit chez sa belle-fille avec l'intention de la punir. Cependant, la Rani eut le bon sens de le retenir ; il décida que, pour préserver la paix du foyer, il fallait placer Mira Bai dans un appartement séparé. Bien que Nabhaji admette que Rukmini, devenue l'épouse de Krishan, et les laitières, devenues ses compagnes de jeu, ne l'eurent rencontré qu'après <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> avoir sacrifié à Durga, Mira Bai ayant déjà obtenu Krishan, il était inutile qu'elle vénère Durga, et aucune exception ne pouvait être faite à sa conduite sur le modèle de Rukmini et des laitières.
 
 Mira Bai, se retrouvant dans un appartement privé, fut comblée de joie et laissa libre cours à son enthousiasme religieux. Elle dressa son image, la décora et la para, et se consacra jour et nuit à la compagnie des saints. Sa belle-sœur, Udai Bai, fut envoyée pour lui faire des remontrances et lui dit : « Tu es issue d'une noble maison. Sois sage et renonce à la compagnie des faqirs, qui porte atteinte à nos deux familles. » Mira Bai répondit : « L'atteinte portée à des centaines de milliers de naissances disparaît lorsqu'on fréquente les saints. L'atteinte est portée à celle qui n'aime pas leur compagnie. Ma vie dépend de la compagnie des saints. À quiconque en est mécontent, tes remontrances seraient de mise. » C'est à cette occasion que Mira Bai composa les hymnes suivants :
 
@@ -77,7 +77,7 @@ Dans les bosquets de Bindraban, Krishan avec le tilak sur son front réjouit mon
 Le Rana envoya une coupe de poison et Mira la but avec délice.
 Le seigneur de Mira est le très sage Girdhar ; elle est liée à son service.
 
-La Rana attendait la nouvelle de la mort de Mira, mais sa vie fut miraculeusement préservée et ses joues s'épanouirent peu à peu. Elle se consacra à la décoration et à l'ornementation de l'image, la parant de manières toujours nouvelles. Elle chanta les louanges de son dieu et emplit son cœur de joie et d'amour immortel. Elle composa également ce qui suit à cette occasion :
+La Rana attendait la nouvelle de la mort de Mira, mais sa vie fut miraculeusement préservée et ses joues s'épanouirent peu à peu. Elle se consacra à la décoration et à l'ornementation de l'image, la parant de manières toujours nouvelles. Elle chanta les louanges de son dieu et emplit <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> son cœur de joie et d'amour immortel. Elle composa également ce qui suit à cette occasion :
 
 Je savais que le Rana m'avait donné du poison.
 Dieu qui a fait flotter mon bateau, a séparé le lait et l'eau pour moi. [^3]
@@ -104,7 +104,7 @@ Le seigneur de Mira est le sage Girdhar ; comment puis-je rester à la maison ?
 
 Un homme débauché et abandonné tenta de séduire Mira Bai. Il lui dit qu'il était muni de la permission de Girdhar Lai pour lui donner le plaisir qu'elle ne pouvait obtenir que par les étreintes d'un homme. Elle répondit qu'elle se soumettait humblement à l'ordre de Girdhar Lai, mais qu'ils devaient d'abord dîner. Entre-temps, elle fit installer et habiller un canapé dans l'enceinte où les saints étaient rassemblés. Elle s'adressa alors à son prétendant amant : « Tu n'as à avoir honte ni à craindre personne, car l'ordre de Girdhar Lai est parfaitement légitime. » L'homme répondit : « Est-ce que quelqu'un fait de telles choses devant les autres ? » Elle répondit qu'elle ne connaissait aucun lieu secret, car Krishan était partout présent. « Il voit les bonnes et les mauvaises actions de chacun et récompense les hommes selon leurs mérites. » À ces mots, le voyou pâlit, et le vice fit place à la vertu dans son cœur. Il tomba à ses pieds et, les mains jointes, implora sa miséricorde et l'intercession divine. Mira Bai ressentit de la compassion et le mit, selon les mots du chroniqueur, face à face avec Dieu.
 
-Selon tous les témoignages reçus, Tulsi Das aurait vécu près d'un siècle après Mira Bai, mais certains poètes en ont fait des contemporains. La lettre suivante à Tulsi Das est attribuée par Raja Raghuraj Sinh à Mira Bai :
+Selon tous les témoignages reçus, Tulsi Das aurait vécu près d'un siècle après Mira Bai, mais certains <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> poètes en ont fait des contemporains. La lettre suivante à Tulsi Das est attribuée par Raja Raghuraj Sinh à Mira Bai :
 
 Au saint seigneur Tulsi Das, le vertueux, celui qui enlève le péché, salut —
 Je m'incline toujours devant toi, dissipe toute ma tristesse.
@@ -126,7 +126,7 @@ L'opinion de tous les saints est que les relations avec Dieu et l'amour de Dieu 
 Dit Tulsi Das, que cet époux est vénérable, que ce fils est plus cher que la vie,
 Qui est attaché à Ram ; il est mon véritable ami dans ce monde.
 
-De même que Mira Bai est devenue contemporaine de Tulsi Das, elle l'est aussi de l'empereur Akbar. On raconte qu'ayant entendu parler des vertus et de la beauté de Mira Bai, il se rendit avec son ménestrel, Tansen, tous deux déguisés en ermites, pour lui rendre visite. Les lignes suivantes, attestant de cette circonstance, sont attribuées à Mira Bai :
+De même que Mira Bai est devenue contemporaine de Tulsi Das, elle l'est aussi de l'empereur Akbar. On raconte qu'ayant entendu parler des vertus et de la beauté de Mira Bai, il se rendit avec son ménestrel, Tansen, tous deux déguisés <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> en ermites, pour lui rendre visite. Les lignes suivantes, attestant de cette circonstance, sont attribuées à Mira Bai :
 
 Ô mère, je reconnais Krishan comme mon époux.
 Akbar est venu me tester et a amené Tansen avec lui :
@@ -201,7 +201,7 @@ Même si j’utilise des charmes, des incantations et des drogues, la douleur ne
 Y a-t-il quelqu'un pour me soigner ? L'agonie est intense, ô mère.
 Toi, ô Dieu, tu es proche ; tu n’es pas loin ; viens vite à ma rencontre.
 Dit Mira, le Seigneur, le porteur de la montagne, [^14] qui est compatissant, a éteint le feu de mon corps, ô mère.
-L'Œil de Lotus a entrelacé mon âme avec le fil de Ses attributs.
+L'Œil de Lotus a entrelacé _mon âme_ avec le fil de Ses attributs.
 
 <figure class="table chapter-navigator">
   <table>
@@ -231,7 +231,7 @@ L'Œil de Lotus a entrelacé mon âme avec le fil de Ses attributs.
 
 [^1]: Ceci est une description de Vishnu, dont Krishan était une incarnation.
 
-[^2] : Épouse d'Ayana Ghosha (un bouvier) et maîtresse préférée de Krishan alors qu'il vivait comme Gopal parmi les bouviers à Bindraban. — Dowson's _Dictionary of Hindu Mythology_.
+[^2]: Épouse d'Ayana Ghosha (un bouvier) et maîtresse préférée de Krishan alors qu'il vivait comme Gopal parmi les bouviers à Bindraban. — Dowson's _Dictionary of Hindu Mythology_.
 
 [^3]: C'est-à-dire qu'il m'a sauvé de l'épreuve.
 
@@ -239,7 +239,7 @@ L'Œil de Lotus a entrelacé mon âme avec le fil de Ses attributs.
 
 [^5]: L'idole de Mira Bai est toujours conservée dans un temple qui lui est dédié dans l'ancienne forteresse abandonnée de Chitaur, autrefois la maison des ancêtres du Maharana d'Udaipur.
 
-[^6] : Eau dans laquelle son idole avait été baignée.
+[^6]: Eau dans laquelle son idole avait été baignée.
 
 [^7]: Cette exclusivité originellement orientale avait été imitée depuis longtemps par les ascètes chrétiens. Saint Sénan est représenté s'adressant ainsi à une sainte qui cherchait à débarquer sur son île —
   Quid foeminis
@@ -251,12 +251,12 @@ L'Œil de Lotus a entrelacé mon âme avec le fil de Ses attributs.
 
 [^9]: Jiv Gosain était le fils de Ballabh Acharya, et l'oncle de Rupa et Sanatan, deux fervents disciples de Chaitanya, le grand réformateur vaishnav de Bangal (1485-1533 apr. J.-C.). Rupa et Sanatan avaient été ministres du souverain musulman du Bihar, et étaient de sang royal, de haut rang et d'une grande richesse*, avantages qu'ils renoncèrent pour mener une vie religieuse. Jiv Gosain était un auteur de certaines prétentions. Il annota un traité de son neveu Rupa, décrivant les plaisirs et les émotions religieuses. Il écrivit un livre sur les actes de Krishan, mais son œuvre la plus importante fut celle dans laquelle il développa ses annotations sur le traité de Rupa, et s'étendit longuement sur les différentes phases de l'exaltation dévotionnelle.
 
-[^10] : Krishan a reçu le nom de Ranchhor lorsqu'il a fui Raja Jarasandh pour Dwaraka.
+[^10]: Krishan a reçu le nom de Ranchhor lorsqu'il a fui Raja Jarasandh pour Dwaraka.
 
 [^11]: Les hymnes de cette vie de Mira Bai sont traduits du _Bhagat Mal_ de Raja Raghuraj Sinn.
 
-[^12] : Kawalnain, l'œil de lotus, une épithète de Krishan, l'objet du culte particulier de Mira Bai.
+[^12]: Kawalnain, l'œil de lotus, une épithète de Krishan, l'objet du culte particulier de Mira Bai.
 
 [^13]: _Gun_ a deux significations : une corde ou une ficelle, et un attribut.
 
-[^14] : Krishan.
+[^14]: Krishan.

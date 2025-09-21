@@ -1525,7 +1525,7 @@ But if any one, having abandoned the world, _again_ become entangled _with it_, 
 
 [^93]: Kabir's heart was at first cold and hard as hail. When the fire of divine love shone on it, it melted into water, which, flowing on, blended with the ocean of God.
 
-[^94]: Animals* bodies are born and die.
+[^94]: Animals bodies are born and die.
 
 [^95]: Also translated— Many cry out that they arc struck by God's love, but the pain _they exhibit_ tells a different story. The word pir has two meanings : (a) a priest or saint ; (b) pain.
 

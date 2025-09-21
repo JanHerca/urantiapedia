@@ -42,7 +42,7 @@ Les accomplissements et les devoirs d'un barbier de la cour indienne à l'époqu
 
 Selon un chroniqueur hindou, Dieu chérissait Sain comme une vache chérit son veau. Il fréquentait la société des saints et se plaisait en leur compagnie. Il accomplissait pour eux tous les devoirs subalternes, car il croyait que servir les saints équivalait à servir Dieu lui-même.
 
-Le _Bhagat Mal_ contient une légende qui illustre à la fois la dévotion de Sain envers les saints et l'estime qu'il portait à sa piété. Un jour, alors qu'il allait exercer son ministère habituel auprès du roi Raja Ram, il rencontra en chemin des saints. Il pensa que son premier devoir était de s'occuper d'eux. Il les emmena avec lui et commença à leur rendre les services habituels. Avec la plus grande satisfaction, il leur donna de la nourriture consacrée et profane pour soulager leurs âmes et leurs corps. En agissant ainsi, Sain négligea son devoir envers le roi et brava son mécontentement.
+Le _Bhagat Mal_ contient une légende qui illustre à la fois <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> la dévotion de Sain envers les saints et l'estime qu'il portait à sa piété. Un jour, alors qu'il allait exercer son ministère habituel auprès du roi Raja Ram, il rencontra en chemin des saints. Il pensa que son premier devoir était de s'occuper d'eux. Il les emmena avec lui et commença à leur rendre les services habituels. Avec la plus grande satisfaction, il leur donna de la nourriture consacrée et profane pour soulager leurs âmes et leurs corps. En agissant ainsi, Sain négligea son devoir envers le roi et brava son mécontentement.
 
 La légende raconte qu'un saint homme, par la grâce de Dieu, afin de conjurer la colère du roi et de sauver Sain du châtiment, prit son apparence et, après être allé accomplir les devoirs d'usage pour le roi, prit congé. Peu après, Sain arriva et commença à s'excuser de son retard. Le roi dit : « Tu viens juste de partir après m'avoir rendu les services habituels ; pourquoi t'excuses-tu ? » Sain répondit : « Je n'étais pas venu. Peut-être que Ta Majesté le dit pour excuser mon absence. » Le Raja comprit alors qu'une providence spéciale était intervenue et avait accompli pour lui les devoirs habituels de la tonsure. Il se convertit aussitôt, tomba aux pieds de Sain, l'adora comme son gourou et chercha ainsi refuge auprès de Dieu. En tout cas, à l'époque de la composition du Bhagat Mal, il était devenu une coutume établie que les rois successifs de la maison de Bandhavgarh soient toujours disciples des descendants de Sain. On dit aujourd'hui qu'ils sont disciples de Kabir. [^2]
 
@@ -53,7 +53,7 @@ Après avoir fait une oblation d’encens, de lampes et de beurre clarifié,
 Je vais te les offrir, ô Dieu. [^3] <span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 Salut à toi, ô Dieu, salut !
 Salut à toi à jamais, ô Dieu souverain !
-Ton nom est la meilleure lampe, et la méditation sur lui la mèche la plus pure ;
+Ton nom est la meilleure lampe, et _la méditation sur_ lui la mèche la plus pure ;
 Toi seul es le Lumineux, ô Dieu.
 Ce sont les saints de Dieu qui ressentent le plaisir divin ;
 Ils Te décrivent comme omniprésent et la Joie suprême. [^4]
@@ -87,11 +87,11 @@ Sain dit : adorez la Joie Suprême. [^5]
 
 ## Remarques
 
-[^1] : Beaumarchais fut censuré par les écrivains contemporains pour la diversité des réalisations du héros de sa grande comédie : « Figaro le barbier, beau diseur, mauvais poète, hardi musicien, grand fringueneur de guitare, et jadis valet de chambre du comte, établi dans Séville, y faisant avec succès des barbes, des romances, et des gères, y maniant également le fer du phtébotome et le piston.
+[^1]: Beaumarchais fut censuré par les écrivains contemporains pour la diversité des réalisations du héros de sa grande comédie : « Figaro le barbier, beau diseur, mauvais poète, hardi musicien, grand fringueneur de guitare, et jadis valet de chambre du comte, établi dans Séville, y faisant avec succès des barbes, des romances, et des gères, y maniant également le fer du phtébotome et le piston.
 
-[^2] : Le _Bhagat Mal_ du Maharaja Raghuraj Sinh de Rewa. Il a déclaré qu'il était le dixième descendant du Raja à la cour duquel Sain vivait.
+[^2]: Le _Bhagat Mal_ du Maharaja Raghuraj Sinh de Rewa. Il a déclaré qu'il était le dixième descendant du Raja à la cour duquel Sain vivait.
 
-[^3] : Kawalapati, littéralement : Seigneur de Lakshmi.
+[^3]: Kawalapati, littéralement : Seigneur de Lakshmi.
 
 [^4]: Cette ligne et la précédente sont également traduites —
   C'est Ramanand qui connaît la dévotion à Dieu ;

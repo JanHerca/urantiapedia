@@ -77,7 +77,7 @@ In the bowers of Bindraban, Krishan with the tilak on his forehead gladdeneth my
 The Rana sent a cup of poison and Mira drank it with delight.
 Mira's lord is the all- wise Girdhar ; she is bound to his service.
 
-The Rana waited to hear of Mira's death, but her life was miraculously preserved, and her cheeks gradually assumed a higher bloom. She devoted herself to the further decoration and ornamentation of the image, and decked it out in fashions ever new. She sang thfc praises of her god and filled <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> her heart with delight and immortal love. She also composed the following on this occasion : —
+The Rana waited to hear of Mira's death, but her life was miraculously preserved, and her cheeks gradually assumed a higher bloom. She devoted herself to the further decoration and ornamentation of the image, and decked it out in fashions ever new. She sang thfc praises of her god and filled <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> her heart with delight and immortal love. She also composed the following on this occasion : 
 
 I knew the Rana had given me poison.
 God who caused my boat to float across, separated the milk and water for me. [^3]

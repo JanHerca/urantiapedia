@@ -34,6 +34,7 @@ dateCreated: 2025-2-12T12:8:41Z
 
 ## THE RAGS OF THE GRANTH SAHIB
 
+[^1]
 
 <p style="text-align:center;">SRI RAG</p>
 
@@ -385,3 +386,7 @@ END OF VOL. V
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: As stated in the Life of Guru Nanak, these Rags are sung differently in different provinces of India. Of eight of them we have given alternative versions extracted from Raja Sir Surindra Mohan Tagore’s collection of Indian airs made for the Coronation of the King-Emperor. The Raja’s music is in a high pitch adapted for musical instruments ; the Gurus’ Rags are in a low pitch adapted for the voice. 

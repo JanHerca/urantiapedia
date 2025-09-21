@@ -34,6 +34,8 @@ dateCreated: 2025-2-12T22:31:31Z
 
 ## LES HACHILLONS DU GRANTH SAHIB
 
+[^1]
+
 
 <p style="text-align:center;">SRI RAG</p>
 
@@ -385,3 +387,7 @@ FIN DU VOL. V
     </tbody>
   </table>
 </figure>
+
+## Remarques
+
+[^1]: Comme indiqué dans la Vie de Guru Nanak, ces Rags sont chantés différemment selon les provinces de l'Inde. Nous avons donné des versions alternatives de huit d'entre eux, extraites du recueil d'airs indiens du Raja Sir Surindra Mohan Tagore, composé pour le couronnement du roi-empereur. La musique du Raja est dans un ton aigu adapté aux instruments de musique ; les Rags des Gurus sont dans un ton grave adapté à la voix.

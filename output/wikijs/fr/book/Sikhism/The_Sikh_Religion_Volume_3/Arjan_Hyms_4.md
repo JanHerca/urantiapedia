@@ -478,7 +478,7 @@ Ceux qui abandonnent Dieu le Donateur et s’attachent à d’autres plaisirs,
 
 <p style="text-align:center;">ASHTAPADI V</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Si l’homme obtient dix choses et les met de côté,
 Doit-il lâchement abandonner sa foi pour une seule chose ? [^23]
@@ -1005,7 +1005,7 @@ Sera acceptable à sa cour.
 Son serviteur envers qui il fait preuve de bonté,
 Obtiendra toutes les connaissances.
 L'homme qui parmi tous les hommes est un reclus dans l'âme,
-Ainsi devient-il, ô Nanak, un esclave de Dieu.<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
+Ainsi devient-il, ô Nanak, un esclave de Dieu.<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 <p style="text-align:center;">7</p>
 

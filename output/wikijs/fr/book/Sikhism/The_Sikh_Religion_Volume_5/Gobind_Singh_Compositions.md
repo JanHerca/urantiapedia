@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T22:31:31Z
 
 ## COMPOSITIONS DE GURU GOBIND SINGH
 
-En 1734, alors qu'il se trouvait à Amritsar, Bhai Mani Singh compila les compositions et traductions du Guru Gobind Singh et des bardes qui lui étaient associés. Cette compilation fut par la suite connue sous le nom de Granth du dixième Guru, bien que Mani Singh ne lui ait pas donné ce titre.[^1] Nous allons maintenant en traduire les passages doctrinaux et historiques que nous estimons représentatifs des opinions et des actes du Guru.
+En 1734, alors qu'il se trouvait à Amritsar, Bhai Mani Singh compila les compositions et traductions du Guru Gobind Singh et des bardes qui lui étaient associés. Cette compilation fut par la suite connue sous le nom de Granth du dixième Guru, bien que Mani Singh ne lui ait pas donné ce titre.[^1] Nous <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> allons maintenant en traduire les passages doctrinaux et historiques que nous estimons représentatifs des opinions et des actes du Guru.
 
 <p style="text-align:center;">JAP</p> [^2]
 
@@ -70,7 +70,7 @@ Il est contenu dans la fourmi comme dans l’éléphant ;
 Il considère les riches comme les pauvres de la même manière ;
 Il est sans égal, invisible et éternel ;
 Il est le Chercheur de tous les cœurs ;
-Il est invisible, indestructible et sans tenue distinctive [^7] ;
+Il est invisible, indestructible et sans tenue _distinctive_ [^7] ;
 Il est sans passion, sans couleur, sans forme, sans contour ;
 Il est dépourvu de toute marque de caste ;
 Il est l’Être primordial, incomparable et immuable ;
@@ -107,7 +107,7 @@ Tu es le filet[^10] de la jeunesse, la mort de la Mort, le tourment des ennemis,
 
 Les dix Sawaiyas ou quatrains suivants sont récités lors de l'administration du pahul ou baptême selon les rites du dixième gourou :
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 J'ai erré et j'ai vu dans leurs propres maisons des foules de Saravagis, de Sudhs [^11], de Sidhs, de Jogis et de Jatis,
 Des démons courageux, des demi-dieux se régalant de nectar et des foules de saints de diverses sectes. <span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
@@ -184,7 +184,7 @@ Il est sans tache et infini,
 Il est d'une luminosité éternelle et généreux,
 Sa forme n’est pas rapidement reconnue,
 Il est le chef des saints du monde entier,
-Il est l'objet le plus élevé de louanges ; par Lui la terre et le soleil sont soutenus ;
+Il est l'objet _le_ plus élevé de louanges ; par Lui la terre et le soleil sont soutenus ;
 Il est le trésor des dix-huit pouvoirs surnaturels,[^18]
 Il est le Dissipateur de la douleur dans tous les mondes,
 Il n’est pas soumis au temps, à la mort ou au karma,
@@ -196,7 +196,7 @@ Brahma par ses quatre Veds chante ses louanges,
 Les Védas parlent de Lui comme d'un être indescriptible,
 Brahma parle de Lui comme étant sans fin—
 Sa gloire est inconnaissable et sans égale.
-Indivisible, incommensurable et non établi par quiconque
+Indivisible, incommensurable et non établi _par quiconque_
 Il a fait l'extension du monde :
 Il l'a créé avec la plus grande réflexion.
 Sa forme est infinie et infrangible,
@@ -338,9 +338,9 @@ Des hommes fiers comme Dara,[^32] comme les rois de Dihli et comme Durjodhan, ay
 Les artilleurs, les chasseurs portant des costumes de leurre et ceux qui mangent de l'opium baissent la tête à plusieurs reprises.
 À quoi sert aux hommes d'accomplir des prosternations de toutes sortes devant Dieu ? Ils sont comme des lutteurs pratiquant l'exercice du dand.[^33]
 À quoi bon rester allongés, le visage tourné vers le ciel ? S'ils ne s'inclinent pas de tout leur cœur devant le Dieu suprême, ils ne sont que des malades.
-Comment celui qui est esclave des désirs mondains et toujours habile à obtenir des richesses, peut-il obtenir le seul Seigneur du monde sans la foi en Lui ?
+Comment celui qui est esclave des désirs _mondains_ et toujours habile à obtenir des richesses, peut-il obtenir le seul Seigneur du monde sans la foi en Lui ?
 
-Celui dans l'oreille duquel un perce-oreille est entré secoue la tête ; celui qui a perdu un ami ou un fils se frappe la tête en signe de deuil.
+Celui dans l'oreille duquel un perce-oreille est entré secoue la tête ; _celui qui a perdu_ un ami ou un fils se frappe la tête en signe de deuil.
 Pour brouter du kaffir, manger des fruits et des fleurs, et errer dans les forêts, il n'y a pas d'animal comme une chèvre.
 Et si un mouton frottait sa tête contre les arbres _et s'enlevait ainsi les poils_ ? Quant à manger de la terre, appelez la sangsue et demandez-lui.
 Comment celui qui est esclave des désirs du monde et adonné à la convoitise et à la colère, peut-il trouver Dieu sans la foi ?
@@ -386,7 +386,7 @@ Comme dans un courant des millions de vagues sont produites ; les vagues étant 
 Ainsi, à partir de la forme de Dieu, les choses insensibles et sensibles[^39] se manifestent et, jaillissant de Lui, seront toutes réunies en Lui à nouveau.
 
 Combien de tortues et de poissons, et combien de mangeurs d'entre eux ! Combien d'excellents jeunes animaux deviennent forts et volent !
-Combien d'oiseaux de proie dans le firmament mangent les excellents oiseaux ! et combien d'animaux mangent et digèrent les oiseaux de proie quand ils les voient !
+Combien _d'oiseaux de proie_ dans le firmament mangent les excellents oiseaux ! et combien d'animaux mangent et digèrent _les oiseaux de proie_ quand ils les voient !
 Qu'importe que les êtres vivent dans l'eau ou sur la terre, ou qu'ils volent dans le firmament ? Dieu les a créés et il les détruira tous.
 Comme la lumière se mêle aux ténèbres et les ténèbres à la lumière, ainsi toutes choses sont issues de Dieu et seront unies en Lui.
 
@@ -397,8 +397,8 @@ Combien volent dans le firmament ! combien demeurent dans l'eau ! Mais ils seron
 
 Les demi-dieux se sont lassés de chercher Dieu ; les archidémons se sont lassés de lutter avec Lui ; les sages se sont lassés d'exercer leur sagesse ; ceux qui répètent Son nom se sont lassés de veiller.
 Les hommes se sont lassés de broyer et de s'appliquer du santal ; ils se sont lassés d'appliquer de l'excellent atar de roses ; ils se sont las d'adorer des pierres et de leur offrir du pudding.
-Ils sont las de fréquenter les cimetières et les lieux de sépulture des Jogis, ils sont las de salir les murs et d'être marqués au fer rouge des idoles.[^41]
-Les musiciens célestes se sont lassés de chanter ; tous les Kinnars se sont lassés de leur pénitence, mais aucun d'eux n'a trouvé Dieu.
+Ils sont las de fréquenter les cimetières et les lieux de sépulture des Jogis, ils sont las de salir les murs et d'être marqués au fer rouge _des idoles_.[^41]
+Les musiciens célestes se sont lassés de chanter ; tous les Kinnars se sont lassés de leur pénitence, _mais aucun d'eux n'a trouvé Dieu_.
 
 Voici la conception de la divinité selon Guru Gobind Singh :
 
@@ -445,7 +445,7 @@ Il est impénétrable, indivisible, sans karma et sans mort.
 Il ne peut être ni détruit ni diffamé ; Il est brillant et sans protecteur ;
 Il n'a ni père, ni mère, ni caste, ni corps ;
 Il n’a pas d’amour mondain, pas de foyer, pas de doute, pas de peur ;
-Il n'a pas de forme, il n'y a pas de roi sur Lui, Il n'a pas de corps, aucun acte ne lui est attaché ;
+Il n'a pas de forme, il n'y a pas de roi sur Lui, Il n'a pas de corps, aucun acte ne _lui est attaché_ ;
 Il n’a aucune crainte ; il ne peut être ni tué ni percé ; il n’a aucun doute.
 Il est éternel, toujours parfait et d’une taille incommensurable.
 Je m'incline devant Lui comme un seul homme ! Je m'incline devant Lui comme un seul homme !
@@ -478,7 +478,7 @@ Mais même ainsi Dieu ne se manifeste pas à eux.
 
 Les sawaiyas suivants sont également parfois lus lors de l'administration du pahul.
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Dieu chérit toujours les pauvres, sauve les saints et détruit les ennemis.
 Oiseaux, bêtes, montagnes, serpents et rois : tout ce qu’il chérit toujours.
@@ -488,7 +488,7 @@ Compatissant envers les pauvres, un océan de miséricorde, il voit les péchés
 <p style="text-align:center;">II</p>
 
 Il détruit la misère et le péché ; Il écrase en un instant une armée d’hommes méchants ;
-Il brise ceux qui ne peuvent être brisés par la puissance humaine ; il frappe les plus vaillants, mais il nourrit l'amour pour ceux qui l'aiment vraiment.
+Il brise ceux qui ne peuvent être brisés par _la puissance humaine_ ; il frappe les plus vaillants, mais il nourrit l'amour pour ceux qui l'aiment vraiment.
 Vishnu, le seigneur de Lakshmi, ne peut trouver sa limite ; les <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> Védas et les livres des musulmans ne peuvent prononcer son secret.
 Le Miséricordieux voit toujours les secrets des hommes ; pourtant il ne se met pas en colère et ne leur refuse pas leur pain quotidien.
 
@@ -496,7 +496,7 @@ Le Miséricordieux voit toujours les secrets des hommes ; pourtant il ne se met 
 
 Il a créé les vers, les mites, les cerfs, les serpents, le passé, le futur et le présent.
 Les demi-dieux et les démons furent Cnimnit par leur orgueil ; ils ne connaissaient pas le secret de Dieu et étaient égarés par l'erreur.
-Les Védas, les Purans, le Coran et les autres livres musulmans se sont lassés de tenir compte de Dieu, mais ils ne l'ont pas trouvé.
+Les Védas, les Purans, le Coran et les autres livres musulmans se sont lassés de tenir _compte de Dieu_, mais ils ne l'ont pas trouvé.
 Sans la lumière du véritable amour, quelqu’un a-t-il obtenu l’honneur de trouver Dieu ?
 
 <p style="text-align:center;">IV</p>
@@ -536,7 +536,7 @@ Les Védas et les livres des musulmans n'ont pas trouvé ton secret ; tous se so
 Shiv, le seigneur d'Uma,[^47] ne peut trouver Ta limite. Les Sidhs, leurs chefs spirituels et les fils de Brahma méditent sur Toi.
 Ô hommes, méditez dans vos cœurs sur Celui dont la puissance incommensurable est diffusée dans le monde entier.
 
-IX Les Védas, les Purans, le Coran et les autres livres musulmans n'ont pas trouvé son secret ; tous les rois[^48] se sont lassés de le chercher.
+IX Les Védas, les Purans, le Coran et les autres livres <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> musulmans n'ont pas trouvé son secret ; tous les rois[^48] se sont lassés _de le chercher_.
 Ils ne purent trouver le secret de l'Insondable ; après de grands efforts, ils le proclamèrent invulnérable.
 Toi, Seigneur, tu n’as ni passion, ni forme, ni contour, ni couleur, ni relation, ni chagrin, ni compagnon.
 Tu étais au commencement et pourtant tu n'avais pas de commencement ; tu es insondable, sans vêtement distinctif,[^49] et sans jalousie : celui qui répète ton nom sauvera ses proches.
@@ -556,7 +556,7 @@ Tu es instruit dans la connaissance divine ; Tu es le grand Donneur de sagesse, 
 <span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Les habitants de l'Est ne connaissent pas Ta limite, la déesse Hingula[^51] qui habite dans l'Himalaya médite sur Toi ; les Gurdezis de Ghor[^52] chantent les louanges de Ton nom.
-Les Jogis pratiquent le Jog pour s'unir à Toi ; combien suspendent leur souffle pour T'obtenir ? Les Arabes d'Arabie adorent Ton nom.
+Les Jogis pratiquent le Jog pour s'unir à Toi ; combien suspendent leur souffle pour _T'obtenir_ ? Les Arabes d'Arabie adorent Ton nom.
 Les Firangis de France te vénèrent, les Kandharis et les Qureshis te connaissent, les habitants de l'Ouest te reconnaissent comme l'objet de leur amour.
 Les Marathes, les Magadhis [^53] font pénitence de bon cœur à Toi, les natifs de Tilang [^54] Te fixent dans leur cœur et Te reconnaissent comme la demeure de la religion.
 
@@ -601,7 +601,7 @@ Son filet de karma est étendu de manière invisible.
 
 <p style="text-align:center;">VICHITAR NATAK</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Guru Gobind Singh s'adresse à Dieu comme à une épée pour détruire ses ennemis.
 
@@ -671,7 +671,7 @@ Comment peuvent-ils te sauver alors qu’ils ne peuvent pas se protéger du coup
 Ils te suspendront dans la fosse ardente d'une terrible colère comme ils sont eux-mêmes suspendus. <span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 Pense, pense encore aujourd'hui dans ton cœur, ô insensé, que sans la faveur de Dieu rien ne peut te servir.
 
-Ce n'est pas par la pratique du silence perpétuel, ni par l'abandon ostensible de l'orgueil, ni par l'adoption d'un vêtement religieux, ni par le rasage de la tête,
+Ce n'est pas par la pratique du silence perpétuel, ni par l'abandon _ostensible_ de l'orgueil, ni par l'adoption d'un vêtement religieux, ni par le rasage de la tête,
 Ce n'est pas en portant un collier de bois, ni en enroulant des cheveux emmêlés autour de la tête que l'on trouve Dieu.
 Je dis la vérité, je l'écoute attentivement, sans entrer dans la protection du Miséricordieux envers les pauvres.
 Et c'est en l'aimant que Dieu peut être trouvé ? Le Miséricordieux n'agrée pas la circoncision.
@@ -723,7 +723,7 @@ Kalsain fut le premier roi ;
 Sa force et sa forme étaient inégalées, incomparables et sans égal.
 Kalket était le deuxième roi ;
 Krurbaras fut nommé troisième roi du monde ;
-Kaldhuj était le quatrième roi à honorer la souveraineté.
+Kaldhuj était le quatrième roi à honorer la _souveraineté_.
 Dans cette lignée Raghu est né,
 De qui descendait la race Raghu. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 D'eux naquit un excellent fils, Aj,
@@ -760,7 +760,7 @@ Le fils né dans sa maison de ce mariage
 Il s'appelait Sodhi Rai.
 La course Sodhi a commencé à partir de ce moment-là.
 Elle a été créée par le Créateur suprêmement pur.
-Les fils et petits-fils issus de Sodhi Rai
+Les fils et petits-fils issus _de Sodhi Rai_
 Nous sommes tous appelés Sodhis dans ce monde.
 Ils sont devenus très distingués parmi les hommes,
 Et leur richesse augmentait de jour en jour.
@@ -771,7 +771,7 @@ Ils ont fait flotter des parapluies au-dessus de leurs têtes,
 Et à de nombreuses occasions, ils ont effectué des sacrifices lors des couronnements royaux.
 Par la suite, des dissensions surgirent parmi eux,
 Et aucun saint homme ne pouvait arrêter sa progression.
-Des héros et des guerriers invincibles allaient et venaient, caparaçonnés,
+Des héros et des _guerriers_ invincibles allaient et venaient, caparaçonnés,
 Ils prirent les armes et allèrent se battre sur le champ de bataille.
 Pour la richesse et la terre, la lutte est ancienne,[^68]
 Pour atteindre cet objectif, les hommes meurent _volontairement_.
@@ -814,7 +814,7 @@ Et, renonçant à la richesse et à la place,
 Je suis devenu absorbé dans l’amour de Dieu.
 
 Le chef Bedi était heureux d’avoir obtenu le royaume,
-Et dans la joie de son cœur, il bénit le roi Sodhi, en disant :
+Et dans _la joie_ de son cœur, il bénit le roi Sodhi, en disant :
 « Quand j'arriverai à l'âge Kal sous le nom de Nanak,
 Je te rendrai digne d’adoration dans le monde, et tu atteindras la plus haute dignité.
 
@@ -826,7 +826,7 @@ J'ai très peur de gonfler mon livre.
 
 <p style="text-align:center;">V</p>
 
-Par la suite, les querelles recommencèrent à augmenter parmi les Bedis,
+Par la suite, les querelles recommencèrent à augmenter _parmi les Bedis_,
 Ce que personne ne pouvait régler.
 C'était la volonté de Dieu
 Cette souveraineté devrait être transmise à leur famille.
@@ -869,7 +869,7 @@ Quand Har Gobind se rendait à la ville de Dieu,
 Il a fait asseoir Har Rai à sa place.
 Har Krishan, son fils, devint ensuite Guru.
 Après lui vint Teg Bahadur,
-Qui protégeait les marques frontales et les fils sacrificiels des Hindous,
+Qui protégeait les marques frontales et les fils sacrificiels _des Hindous_,
 Et il a fait preuve d'une grande bravoure à l'époque Kal.
 Lorsqu'il mit fin à sa vie pour l'amour des saints hommes,
 Il pencha la tête mais ne poussa pas un gémissement.
@@ -880,7 +880,7 @@ Pour réaliser les tours des saltimbanques et des tricheurs.[^72]
 
 
 Après avoir brisé son tesson sur la tête [^73] du roi de Dihli, il partit au paradis.
-Personne n'est venu au monde qui ait accompli de telles actions. <span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
+Personne n'est venu _au monde_ qui ait accompli de telles actions. <span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 À son départ, il y eut du deuil dans ce monde : il y eut de la tristesse dans le monde, mais de la joie dans le paradis.
 
@@ -914,9 +914,9 @@ Ils s'enivrèrent de la force de leurs bras,
 Et ils ont cessé de m’adorer, l’Être suprême.
 Je me suis mis en colère et je les ai immédiatement détruits.
 À leur place j'ai établi les dieux : <span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
-Ils s'occupaient également de recevoir des sacrifices et des adorations,
+Ils s'occupaient également de _recevoir_ des sacrifices et des adorations,
 Et ils se sont appelés êtres suprêmes.
-Mahadev s’appelait lui-même le Dieu impérissable.
+Mahadev s’appelait lui-même le _Dieu_ impérissable.
 Vishnu s'est également déclaré Dieu ;
 Brahma s'est appelé lui-même le Brahm suprême,
 Et personne ne pensait que j’étais Dieu.
@@ -1031,7 +1031,7 @@ Ce que Dieu m'a dit, je le ferai.
 Je répéterai le seul nom
 Ce qui sera partout profitable.
 Je ne répéterai aucun autre nom,
-Et n'établis aucun autre Dieu dans mon cœur.
+Et n'établis aucun autre _Dieu dans mon cœur_.
 Je méditerai sur le nom de l'Éternel,
 Et obtenez la lumière suprême.
 Je suis imprégné de ton nom, _ô Dieu_ ;
@@ -1095,7 +1095,7 @@ Celui qui garde son cœur soumis
 Reconnaît l’Être suprême.
 
 Ceux qui, en portant un vêtement religieux, maintiennent les peuples du monde dans la soumission,
-Seront enfin coupés par les ciseaux de la mort et s'installeront en enfer.
+Seront enfin coupés par les ciseaux _de la mort_ et s'installeront en enfer.
 
 Ceux qui présentent des apparences au monde,
 Éprouver un plaisir extrême à dépouiller [^86] les autres.
@@ -1134,11 +1134,11 @@ Et se baignait dans divers lieux de pèlerinage.
 Lorsqu'il arriva à la Tribu (Priyag),
 Il passa ses jours à faire des œuvres méritoires et des aumônes. C'est là que je fus conçu.
 Je suis né dans la ville de Patna,
-Et ensuite emmené au Pendjab,
+Et _ensuite_ emmené au Pendjab,
 Où des infirmières de toutes sortes me caressaient,
 Et j'ai pris soin de mon corps de toutes les manières.
 J'ai reçu une instruction sous diverses formes.
-Quand je suis arrivé à l’âge d’accomplir mes devoirs religieux,
+Quand je suis arrivé _à l’âge d’accomplir_ mes devoirs religieux,
 Mon père est parti vers la ville de Dieu.
 
 <p style="text-align:center;">VIII</p>
@@ -1205,8 +1205,8 @@ Me sachant son esclave, il m'a secouru, il m'a donné la main et m'a sauvé.
 <p style="text-align:center;">GYAN PRABODH</p>
 
 Ni les Veds, ni Brahma ne connaissent le secret de Dieu,
-Ni Vyas, ni son père Parasar, ni son fils Shukdev, ni les fils de Brahma, ni Shiv ne connaissent la limite de Dieu.
-Aucun des quatre fils de Brahma ne connaît le temps de Dieu.
+Ni Vyas, ni son _père_ Parasar, ni _son fils_ Shukdev, ni les fils de Brahma, ni Shiv ne connaissent la limite de Dieu.
+Aucun des quatre fils de Brahma ne connaît le temps _de Dieu_.
 Des centaines de milliers de Lakshmis, des centaines de milliers de Vishnus et de nombreux Krishans le déclarent indescriptible.
 Tu es incompréhensible, ô Dieu, et sans peur ; Tu es très puissant, le Créateur de la mer et de la terre.
 Tu es le Seigneur inébranlable, sans fin, inégalé, incommensurable ; Pur, je cherche Ta protection.
@@ -1241,7 +1241,7 @@ Personne ne t'a jamais vu nulle part ;
 C'est pourquoi tu es appelé l'Invisible.
 Tu n'es jamais né dans le monde ; [^91]
 C'est pourquoi chacun te décrit comme étant à naître.
-Brahma et les autres se lassent tous de chercher ton origine.
+Brahma et les autres se lassent tous _de chercher ton origine_.
 Vishnu et Shiv, quels sont ces êtres misérables ?
 Après réflexion et délibération, Dieu créa la lune et le soleil ;
 C'est pourquoi il est connu comme le Créateur.
@@ -1281,7 +1281,7 @@ Tous les Jogis et Sanyasis,
 Les multitudes de têtes rasées et de musulmans,
 Ils ont pillé le monde avec leurs vêtements.
 Les saints hommes dont le soutien est le nom de Dieu restent inconnus.
-Les impies pratiquent l'hypocrisie pour le bien de leur ventre :
+Les _impies_ pratiquent l'hypocrisie pour le bien de leur ventre :
 Sans hypocrisie, ils ne peuvent rien obtenir.
 Les hommes qui méditent sur l'Être unique
 Ne pratiquez jamais l’hypocrisie envers qui que ce soit.
@@ -1300,7 +1300,7 @@ N'appartiennent ni à la forêt ni à la maison.
 Au commencement, Dieu était le père de tout le monde ;
 De Lui procède la première lumière.
 Je n’ai pas la capacité suffisante pour raconter l’histoire,
-Ou pour citer les noms des différentes créatures qu'Il a créées.
+Ou pour citer les noms des différentes créatures qu'_Il a créées_.
 Des choses fortes et des choses faibles ont été produites ;
 Les choses hautes et basses étaient montrées séparément.
 La lumière primordiale qui est appelée le Dieu unique,
@@ -1415,7 +1415,7 @@ Te vantant de ta ferveur religieuse, tu trompes le monde en exerçant une grande
 Tu penses dans ton cœur que tu as abandonné l’amour mondain, mais l’amour mondain ne t’a pas abandonné.
 
 Ô homme vêtu, la religion ne consiste pas à porter un vêtement.
-Cela ne consiste pas à porter des cheveux emmêlés et des ongles longs, ni à se couvrir de cendres, ni à teindre ses vêtements.
+Cela ne consiste pas à porter des cheveux emmêlés et des ongles _longs_, ni à se couvrir _de cendres_, ni à teindre ses vêtements.
 Si l'homme obtient du Jog en demeurant dans la forêt, l'oiseau y demeure toujours.
 L'éléphant jette toujours de la poussière sur sa tête ; considère cela dans ton cœur.
 Les grenouilles et les poissons se baignent toujours dans les lieux de pèlerinage.
@@ -1425,10 +1425,10 @@ Ainsi tu connaîtras une grande connaissance divine et boiras le nectar suprême
 
 Les trente-trois sawaiyas suivants sont également lus à Abchalangar et ailleurs lors de la préparation de l'eau baptismale sikhe. Plusieurs sikhs orthodoxes affirment que ce sont ces sawaiyas qui doivent toujours être lus lors du baptême, et il existe des preuves internes à ce sujet.
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Celui qui répète nuit et jour le nom de Celui dont la lumière éternelle est inextinguible, qui ne pense qu'au seul Dieu ;
-Qui a un amour et une confiance totale en Dieu, qui n'a pas foi, même par erreur, en jeûnant ou en adorant les cimetières, les lieux de crémation ou les lieux de sépulture des Juifs ;
+Qui a un amour et une confiance totale en Dieu, qui n'a pas foi, même par erreur, en jeûnant ou en _adorant_ les cimetières, les lieux de crémation ou les lieux de sépulture des Juifs ;
 Qui ne reconnaît que le Dieu unique et non les pèlerinages, les aumônes, la non-destruction de la vie,[^103] les pénitences _hindoues_ ou les austérités ;<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 Et dans le cœur de qui brille la lumière du Parfait, il est reconnu comme un pur membre du Khalsa.
 
@@ -1494,7 +1494,7 @@ Tes louanges remplissent la terre ; elles sont entrées dans mon cœur et m'ont 
 
 Les Védas et les livres des musulmans n'ont pas trouvé le secret de Dieu ; tous les Sidhs se sont lassés de Le contempler.
 Les Simritis, les Shastars, les Veds et les Purans le décrivent tous de diverses manières ;
-Mais Dieu, qui était au commencement, et qui n'a pas eu de commencement, dont l'histoire est insondable, ne peut être connue. Il a sauvé des êtres tels que Dhru, Prahlad et Ajamal.
+Mais Dieu, qui était au commencement, et qui n'a pas eu de commencement, dont l'histoire est insondable, _ne peut être connue_. Il a sauvé des êtres tels que Dhru, Prahlad et Ajamal.
 La courtisane a été sauvée en répétant le nom de Dieu ; ce nom est mon soutien, l'objet de mes pensées.
 
 <p style="text-align:center;">XI</p>
@@ -1509,7 +1509,7 @@ Les mondes visibles et invisibles, les huit directions, les démons ainsi que le
 <p style="text-align:center;">XII</p>
 
 Certains attachent fermement une idole sur leur poitrine ; certains disent que Shiv est Dieu ;
-Certains disent que Dieu est dans le temple des Hindous ; d'autres croient qu'Il est dans la mosquée des Musulmans ;
+Certains disent que Dieu est dans le temple _des Hindous_ ; d'autres croient qu'Il est dans la mosquée des Musulmans ;
 Certains disent que Ram est Dieu ; certains disent Krishan ; certains dans leur cœur acceptent les incarnations comme Dieu ;
 Mais j’ai oublié toute vaine religion et je sais dans mon cœur que le Créateur est le seul Dieu.
 
@@ -1604,7 +1604,7 @@ Renonçant à toutes les subtilités des Védas et du Coran, j'adore Dieu seul, 
 <p style="text-align:center;">XXV</p>
 
 Ô imbécile, ta vie s'est écoulée dans tes occupations présentes ; tu n'as pas pensé dans ton cœur au Dieu miséricordieux.
-En abandonnant la honte, tu es devenu sans vergogne, et en abandonnant ton propre travail, tu as fait un travail inutile pour toi-même.
+En abandonnant la honte, tu es _devenu_ sans vergogne, et en abandonnant ton propre travail, tu as fait un travail inutile _pour toi-même_.
 Quand tu avais des chevaux et de grands éléphants royaux, tu as eu la folie de penser à monter sur des ânes.[^115]
 Tu n'as pas adoré Dieu, ô insensé, et tu as ainsi honteusement gâché ta bonne affaire.
 
@@ -1690,8 +1690,8 @@ Ainsi ton corps restera toujours comme de l’or, et la mort ne t’approchera j
 Pourquoi dors-tu du sommeil de l'amour mondain ? Sois parfois éveillé et vigilant.
 Pourquoi instruire les autres, ô bête, puisque tu n'as aucune connaissance toi-même ? <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 Pourquoi accumuler le péché ? Même maintenant, abandonnez l’amour du péché.
-Considérez ces choses comme de simples erreurs et aimez les actes vraiment religieux.
-Gardez toujours en mémoire le souvenir de Dieu ; renoncez et fuyez le péché mortel.
+Considérez ces choses comme de simples erreurs et aimez les actes _vraiment_ religieux.
+Gardez toujours en mémoire le souvenir _de Dieu_ ; renoncez et fuyez le péché mortel.
 De cette façon, tu ne rencontreras ni chagrin ni péché, et tu échapperas au nœud coulant de la mort.
 Si tu désires un jour connaître le bonheur sous toutes ses formes, sois absorbé dans l’amour de Dieu.
 
@@ -1755,7 +1755,7 @@ Comment fuiras-tu Celui qui tient les quatorze mondes en Son pouvoir ?
 Ram et Rahim dont tu répètes les noms ne peuvent te sauver. <span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 Brahma, Vishnu, Shiv, le soleil et la lune sont tous sous le pouvoir de la mort.
 Les Veds, les Purans, le Coran, toutes les sectes, Indar, Sheshnag, les rois des Munis,
-J'ai médité pendant de nombreux siècles sur Celui qu'on appelle l'Indescriptible, mais je ne pouvais me faire aucune idée de Lui.
+J'ai médité pendant de nombreux siècles _sur_ Celui qu'on appelle l'Indescriptible, mais je ne pouvais me faire aucune idée de Lui.
 Pourquoi Celui dont la forme et la couleur ne sont pas connues devrait-il être appelé noir ? [^123]
 Lorsque tu saisiras et t'accrocheras aux pieds de Dieu, tu seras libéré du nœud coulant de la mort.
 
@@ -1777,7 +1777,7 @@ Puis-je obtenir de Toi tout ce que je désire !
 Sauvez mes serviteurs et mes disciples ;
 Identifiez mes ennemis et frappez-les.
 Éloigne de moi la peur de l’heure de la mort.
-Sois toujours à mes côtés; __
+Sois toujours à mes côtés;
 Ô Toi avec l'épée sur Ta bannière, protège-moi ;
 Préserve-moi, ô Toi qui me garde,
 Seigneur bien-aimé, Protecteur des saints,
@@ -1922,13 +1922,13 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 [^1]: Après l'exécution de Mani Singh, les Sikhs emportèrent le volume pour examen et approbation dans un village de l'État de Patiala appelé Talwandi Sabo, aujourd'hui connu parmi les Sikhs Damdama. Damdama fut choisi pour l'examen du volume car plusieurs Sikhs érudits y résidaient, et ce village éloigné était également considéré comme un lieu sûr.
   Plusieurs Sikhs intelligents étaient d'avis que les contes et les traductions du volume, tels qu'ils se trouvent actuellement, n'auraient pas dû y être inclus, car beaucoup d'entre eux sont d'origine hindoue, d'autres ne se prêtent pas à la lecture, et aucun n'est comparable aux hymnes contenus dans l'Ad Granth. « Les Sikhs ont donc soutenu que les _Hikayat_ ou contes persans, et l'ensemble des _Tria Charitar_, ou histoires illustrant la tromperie des femmes, devraient être omis, et inclus dans un volume séparé, qui pourrait être lu, non pas à des fins religieuses, mais pour le divertissement et la délectation du public. »
   Pendant que cette discussion se poursuivait, un certain Mahtab Singh de Mirankot arriva de Bikaner à Damdama. Il avait juré de tuer un certain Massa Ranghar, un dignitaire musulman qui avait pris possession du Temple d'Or et qui utilisait les lieux comme théâtre pour danseuses ; il était en route pour Amritsar afin de mettre son projet à exécution. Mahtab Singh jura que s'il réussissait et retournait à Damdama, le Granth de Mani Singh serait conservé en un seul volume, tel qu'il l'avait prévu. Si, au contraire, Massa le tuait, le Granth pourrait être arrangé selon les souhaits des opposants. Mahtab Singh tua Massa Ranghar, retourna triomphalement à Damdama, et le Granth de Mani Singh fut autorisé à rester, conformément à son plan.
-  La disposition du dixième Granth du Guru présente de nombreux défauts évidents. Par exemple, plusieurs questions posées dans les doharas 201 à 210 de l'Akal Ustat restent sans réponse. Les Chhands 211 à 230 sont manifestement hors sujet et appartiennent au deuxième Chandi Charitar ; et le dernier Chhand de l'Akal Ustat est incomplet. Le Gyan Parbodh est également incomplet. La disposition présente également de nombreux défauts.
+  La disposition du dixième Granth du Guru présente de nombreux défauts évidents. Par exemple, plusieurs questions posées dans les doharas 201 à 210 de l'_Akal Ustat_ restent sans réponse. Les Chhands 211 à 230 sont manifestement hors sujet et appartiennent au deuxième Chandi Charitar ; et le dernier Chhand de l'_Akal Ustat_ est incomplet. Le Gyan Parbodh est également incomplet. La disposition présente également de nombreux défauts.
 
-[^2]: Le Japji de Guru Gobind Singh est tenu par les Sikhs au même rang que celui de Guru Nanak. Les Hindous possèdent un ouvrage intitulé Vishnu Sahasar Nam – Les mille noms de Vishnā. Le Japji a été composé pour fournir aux Sikhs un nombre similaire d'épithètes du Créateur.
+[^2]: Le Japji de Guru Gobind Singh est tenu par les Sikhs au même rang que celui de Guru Nanak. Les Hindous possèdent un ouvrage intitulé _Vishnu Sahasar Nam_ – Les mille noms de Vishnā. Le Japji a été composé pour fournir aux Sikhs un nombre similaire d'épithètes du Créateur.
 
 [^3]: Cette ligne est une composition de Bhai Mani Singh.
 
-[^4] : _Chakr_. Ce mot s'applique également aux dépressions corporelles observées à des fins mystiques, astrologiques ou chiropratiques.
+[^4]: _Chakr_. Ce mot s'applique également aux dépressions corporelles observées à des fins mystiques, astrologiques ou chiropratiques.
 
 [^5]: Le dixième Guru inventa de nouveaux noms pour Dieu : Akal (l'Immortel), Sarbloh (Tout Acier), Mahanloh (Grand Acier), Sarbkal (Toute Mort), Mahankal (Grande Mort), Asidhuj, Asiketu et Kharagketu (ayant l'épée sur Sa bannière), Asipani (l'épée dans Sa main), c'est-à-dire Dieu comme personnification et source de bravoure.
 
@@ -1936,7 +1936,7 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^7]: _Anbhekh_. Le mot signifie également sans forme.
 
-[^8] : Parbati ou Durga, l'épouse de Shiv.
+[^8]: Parbati ou Durga, l'épouse de Shiv.
 
 [^9]: Bawan était l'incarnation naine de Vishnu.
 
@@ -1944,21 +1944,21 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^11]: Les Sudhs signifient les propres, par opposition aux Saravagis qui sont réputés pour être sales dans leurs habitudes.
 
-[^12] : La graine de l'Abrus precatortus (NO Leguminosae) utilisée en Inde comme petit poids (voir Vol. I, p. 138, n. 1).
+[^12]: La graine de l'Abrus precatortus (NO Leguminosae) utilisée en Inde comme petit poids (voir Vol. I, p. 138, n. 1).
 
-[^13] : Également traduit, quelle que soit leur propre position.
+[^13]: Également traduit, quelle que soit leur propre position.
 
-[^14] : _Subatanhi_. Également traduit — en un mot, rapidement.
+[^14]: _Subatanhi_. Également traduit — en un mot, rapidement.
 
-[^15] : Assemblées dans l'Antiquité au cours desquelles les jeunes femmes choisissaient leurs maris.
+[^15]: Assemblées dans l'Antiquité au cours desquelles les jeunes femmes choisissaient leurs maris.
 
-[^16] : Également traduit par « assis en compagnie des vicieux ».
+[^16]: Également traduit par « assis en compagnie des vicieux ».
 
-[^17] : Ces connaissances comprenaient toutes les connaissances indiennes anciennes. Différents auteurs en ont donné des listes différentes.
+[^17]: Ces connaissances comprenaient toutes les connaissances indiennes anciennes. Différents auteurs en ont donné des listes différentes.
 
 [^18]: Il n'y a généralement que huit _sidhis_ ou pouvoirs surnaturels énumérés : _anuma_, devenir si petit qu'il soit invisible ; _mahzma_, pouvoir augmenter sa taille indéfiniment ; _guruzwata_, se rendre lourd ; _laghuma_, se rendre léger ; _prapti_, aller où bon lui semble ; _wasi karna_, pouvoir soumettre les autres ; _ishta_, obtenir la gloire ou la grandeur royale ; _kam_, pouvoir satisfaire tous ses désirs. Une liste des dix-huit pouvoirs surnaturels peut être laissée à l'imagination du lecteur.
 
-[^19] : Bindhiachal, un sommet sacré de l'Himalaya.
+[^19]: Bindhiachal, un sommet sacré de l'Himalaya.
 
 [^20]: Le _Sheshnag_ des Hindous.
 
@@ -1966,41 +1966,41 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^22]: _Abhed_ est souvent traduit par impénétrable.
 
-[^23] : Petites mouches noires sur les rivières indiennes.
+[^23]: Petites mouches noires sur les rivières indiennes.
 
 [^24]: Dieu qui se meut dans les eaux.
 
-[^25] : L'un des noms de Vishnu. Les hindous supposaient qu'il avait un lotus dans son nombril.
+[^25]: L'un des noms de Vishnu. Les hindous supposaient qu'il avait un lotus dans son nombril.
 
 [^26]: La référence est aux faqirs dansants et rugissants.
 
-[^27] : _Monadi Madar_ — On comprend que Monadi est l'arabe _munadi_, une proclamation ou un sermon. Madar était un saint musulman célèbre. Si l'on lit _mommin-i-din madar_, la traduction sera : « Combien de musulmans orthodoxes et de fidèles ! »
+[^27]: _Monadi Madar_ — On comprend que Monadi est l'arabe _munadi_, une proclamation ou un sermon. Madar était un saint musulman célèbre. Si l'on lit _mommin-i-din madar_, la traduction sera : « Combien de musulmans orthodoxes et de fidèles ! »
 
-[^28] : Une incarnation incomplète de Vishnu.
+[^28]: Une incarnation incomplète de Vishnu.
 
-[^29] : Les brahmacharis sont des jeunes hommes qui préservent la continence durant leurs études. Manu, le législateur hindou, fixe la limite à vingt-cinq ans.
+[^29]: Les brahmacharis sont des jeunes hommes qui préservent la continence durant leurs études. Manu, le législateur hindou, fixe la limite à vingt-cinq ans.
 
-[^30] : Mandhatri, un fils miraculeusement né de Yuvanashwa de la lignée d'Ikshwaku, et auteur d'un hymne dans le Rig Veda.
+[^30]: Mandhatri, un fils miraculeusement né de Yuvanashwa de la lignée d'Ikshwaku, et auteur d'un hymne dans le Rig Veda.
 
 [^31]: Il appartenait à la race solaire et était l'ancêtre de Ram Chandar.
 
-[^32] : Darius.
+[^32]: Darius.
 
-[^33] : Exercice oriental dans lequel un homme s'allonge d'abord à plat sur le sol, puis s'appuie sur ses mains de manière à soulever son corps, et le rabaisse à nouveau de manière à presque toucher le sol avec sa poitrine.
+[^33]: Exercice oriental dans lequel un homme s'allonge d'abord à plat sur le sol, puis s'appuie sur ses mains de manière à soulever son corps, et le rabaisse à nouveau de manière à presque toucher le sol avec sa poitrine.
 
 [^34]: Ajap Dev, également traduit : Dieu qui ne répète aucun nom.
 
-[^35] : Le gourou rejette la croyance selon laquelle une veuve qui s'incinère avec le corps de son mari obtiendrait le salut. La seconde partie du verset pourrait également se traduire ainsi : « Si le salut était obtenu en vivant sous la terre, le serpent qui vit dans les régions inférieures serait également sauvé. »
+[^35]: Le gourou rejette la croyance selon laquelle une veuve qui s'incinère avec le corps de son mari obtiendrait le salut. La seconde partie du verset pourrait également se traduire ainsi : « Si le salut était obtenu en vivant sous la terre, le serpent qui vit dans les régions inférieures serait également sauvé. »
 
 [^36]: Certains chiites ou disciples d'Ali qui ont renoncé à leur allégeance à Zaid, petit-fils de Hussein.
 
 [^37]: Il n’y a pas un Dieu pour les hindous et un autre pour les musulmans.
 
-[^38] : Ban, également traduit — coutumes, habils.
+[^38]: Ban, également traduit — coutumes, habils.
 
-[^39] : Abhiilbhut, également traduit par êtres incorporels et corporels.
+[^39]: Abhiilbhut, également traduit par êtres incorporels et corporels.
 
-[^40] : Jak=zakka (83). Les gyanis traduisent l'obstination.
+[^40]: Jak=zakka (83). Les gyanis traduisent l'obstination.
 
 [^41]: À Dwaraka, les hommes sont marqués au fer rouge portant les insignes de Vishnu.
 
@@ -2024,21 +2024,21 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^51]: Hingula est un autre des noms de Parbati ou Durga.
 
-[^52] : Une région montagneuse d'Afghanistan au sud-est de Harat.
+[^52]: Une région montagneuse d'Afghanistan au sud-est de Harat.
 
-[^53] : Natifs du pays de Magadha, aujourd'hui le sud du Bihar.
+[^53]: Natifs du pays de Magadha, aujourd'hui le sud du Bihar.
 
-[^54] : Le pays Telegu sur la côte est de l'Inde entre Urisa (Orissa) et Madras.
+[^54]: Le pays Telegu sur la côte est de l'Inde entre Urisa (Orissa) et Madras.
 
 [^55]: Une sorte de jasmin aux fleurs blanches parfumées.
 
 [^56]: Har har. On croyait que Shiv portait un serpent blanc en guise de collier.
 
-[^57] : Un petit tambour ou tambourin.
+[^57]: Un petit tambour ou tambourin.
 
-[^58] : Voir la partie du Markandeya Puran qui traite des exploits de Chandi. On y trouvera les noms des démons mentionnés dans ces quatrains.
+[^58]: Voir la partie du Markandeya Puran qui traite des exploits de Chandi. On y trouvera les noms des démons mentionnés dans ces quatrains.
 
-[^59] : Un cousin germain de Rawan.
+[^59]: Un cousin germain de Rawan.
 
 [^60]: Le frère de Rawan.
 
@@ -2050,19 +2050,19 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^64]: Lav dans le _Ramayan_.
 
-[^65] : Descendant de Kushu.
+[^65]: Descendant de Kushu.
 
-[^66] : Descendant de Lahu.
+[^66]: Descendant de Lahu.
 
 [^67]: Près de Bénarès, ses habitants, les Sanaudhis, furent plus tard appelés Sodhis.
 
 [^68]: Comparez le proverbe hindoustani — _zan, zamin, zar, tinen jhagre ka ghar_ « Les femmes, la terre et l'argent sont les sources de conflits entre les hommes. »
 
-[^69] : Quand je suis devenu Guru Nanak, Guru Angad et Guru Amar Das.
+[^69]: Quand je suis devenu Guru Nanak, Guru Angad et Guru Amar Das.
 
 [^70]: La référence est à Guru Ram Das.
 
-[^71] : _Sirar_. S'il s'agit d'un mot panjabi, sa signification est celle que nous avons donnée. Parmi les Sikhs, cependant, circule ce qui est censé être l'original persan de la phrase, telle que prononcée par Guru Teg Bahadur lui-même à la veille de son exécution – سیر جدید مسیر زندگی را داریم, ce qui se traduit généralement par « J'ai donné ma tête, mais pas le secret de Dieu ».
+[^71]: _Sirar_. S'il s'agit d'un mot panjabi, sa signification est celle que nous avons donnée. Parmi les Sikhs, cependant, circule ce qui est censé être l'original persan de la phrase, telle que prononcée par Guru Teg Bahadur lui-même à la veille de son exécution – سیر جدید مسیر زندگی را داریم, ce qui se traduit généralement par « J'ai donné ma tête, mais pas le secret de Dieu ».
 
 [^72]: C'est-à-dire que Guru Teg Bahadur aurait pu accomplir un miracle et se sauver lui-même, mais il a dédaigné de le faire.
 
@@ -2074,15 +2074,15 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^76]: On pense qu'il s'agit des Dikpals ou régents des huit points cardinaux.
 
-[^77] : Expression indienne désignant l'anarchie. Grands et petits ont péri à cause de leurs propres conflits.
+[^77]: Expression indienne désignant l'anarchie. Grands et petits ont péri à cause de leurs propres conflits.
 
 [^78]: Les Simritis prétendent suivre les Védas.
 
 [^79]: Le lait des feuilles du banian est utilisé par les faqirs pour mouiller les cheveux. Il est ensuite enduit de cendres.
 
-[^80] : Il ne s'agit pas du Ramanand dont l'hymne se trouve dans le Granth Sahib. L'auteur de cet hymne vécut bien après lui, et après l'époque de Mahomet. Il était le gourou de Kabir, qui prospéra au XVe siècle apr.
+[^80]: Il ne s'agit pas du Ramanand dont l'hymne se trouve dans le Granth Sahib. L'auteur de cet hymne vécut bien après lui, et après l'époque de Mahomet. Il était le gourou de Kabir, qui prospéra au XVe siècle apr.
 
-[^81] : _Muhammad, rasul Alla_.
+[^81]: _Muhammad, rasul Alla_.
 
 [^82]: Saints musulmans d'une dévotion excessive.
 
@@ -2096,7 +2096,7 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^87]: Qui ne peut pas être vu du tout.
 
-[^88] : L'antilope indienne.
+[^88]: L'antilope indienne.
 
 [^89]: Ou bien — Quels sont les desseins d’un ennemi contre lui ?
 
@@ -2106,11 +2106,11 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^92]: Noms musulmans et hindous des chapelets.
 
-[^93] : Comme l'a fait Guru Teg Bahadur.
+[^93]: Comme l'a fait Guru Teg Bahadur.
 
-[^94] : Absorbeur par la mort.
+[^94]: Absorbeur par la mort.
 
-[^95] : Délivrance.
+[^95]: Délivrance.
 
 [^96]: Pour l'avoir détruit.
 
@@ -2122,9 +2122,9 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
   Au pied de la majestueuse Naina Devi, au bord des eaux de Satluj,
   Grâce à l’aide de Dieu, j’ai terminé l’histoire de Ram, c’est-à-dire la traduction de l’Avatar Ram en hindi à partir du sanskrit.
 
-[^99] : Comme c'est souvent le cas dans les œuvres littéraires hindi, le gourou a sans doute voulu que ces versets servent d'introduction à sa traduction hindi du Krishan Avatar, qui constitue le dixième chapitre du Bhagwat.
+[^99]: Comme c'est souvent le cas dans les œuvres littéraires hindi, le gourou a sans doute voulu que ces versets servent d'introduction à sa traduction hindi du Krishan Avatar, qui constitue le dixième chapitre du Bhagwat.
 
-[^100] : La marmite pour nourrir les pauvres et les étrangers, sans distinction de caste ni de religion, et l'épée pour détruire les oppresseurs de l'humanité. Une inscription sur une épée en possession du Raja de Nabha dit : « Badhe degh te ya tegh te », ce qui signifie que l'homme devient grand soit en divertissant ses amis, soit en détruisant ses ennemis.
+[^100]: La marmite pour nourrir les pauvres et les étrangers, sans distinction de caste ni de religion, et l'épée pour détruire les oppresseurs de l'humanité. Une inscription sur une épée en possession du Raja de Nabha dit : « Badhe degh te ya tegh te », ce qui signifie que l'homme devient grand soit en divertissant ses amis, soit en détruisant ses ennemis.
 
 [^101]: Certains supposent que Sidm est le takhallas ou nom de plume du gourou. D'autres soutiennent qu'il s'agissait du véritable nom de l'un des cinquante-deux bardes que le gourou recevait.
 
@@ -2132,14 +2132,14 @@ Sri Wahguru ji ka Khalsa ! Sri Wahguru ji ki Fatah !
 
 [^103]: Tel que pratiqué par les Jaïns.
 
-[^104] : Anahad. Si « anahat » est lu, il doit être traduit par « invulnérable » ou « invincible ».
+[^104]: Anahad. Si « anahat » est lu, il doit être traduit par « invulnérable » ou « invincible ».
 
-[^105] : _Sidh_. Certains traduisent ce mot par miracles.
+[^105]: _Sidh_. Certains traduisent ce mot par miracles.
 
 [^106]: La réponse à cette question se trouve dans la dernière ligne de ce qui suit
 Sawaiya.
 
-[^107] : Des musiciens célestes.
+[^107]: Des musiciens célestes.
 
 [^108]: Dans cette ligne de l'original, le premier Kal signifie Dieu et le second la mort.
 
@@ -2151,7 +2151,7 @@ Sawaiya.
 
 [^112]: Également traduit — L'abandon d'un seul Dieu et l'adoration de plusieurs dieux ont été montrés par Shukdev, Parasar et Vyas comme étant vains.
 
-[^113] : Gourou Teg Bahadur.
+[^113]: Gourou Teg Bahadur.
 
 [^114]: Littéralement — sur terre.
 
@@ -2161,7 +2161,7 @@ Sawaiya.
 
 [^117]: Également traduit : Ils prétendent adorer toute la nuit.
 
-[^118] : Également traduit par : épargne thésaurisée et enterrée.
+[^118]: Également traduit par : épargne thésaurisée et enterrée.
 
 [^119]: Les gyanis traduisent danwari — habitant de la forêt.
 
@@ -2177,12 +2177,11 @@ Sawaiya.
 
 [^125] « L'univers vient de Dieu, vit en Lui et retourne à Lui » est une expression couramment utilisée dans les Upanishads et le Mahabharata. Dans la Bhagavat Gita, la création est représentée comme évoluant à partir de Dieu, tandis que le monde, à l'approche du jour, émerge lentement de l'obscurité de la nuit, et se dissout ou disparaît à nouveau en Lui, tandis que le monde disparaît après le crépuscule.
 
-[^126] : Badan, la bouche, littéralement : toutes les choses de la création qui ont une bouche.
+[^126]: Badan, la bouche, littéralement : toutes les choses de la création qui ont une bouche.
 
-[^127] : On peut aussi traduire par « Tu connais le secret de la connaissance divine et du monde ». D'autres supposent que « bed » et « alim » désignent respectivement les hindous et les musulmans.
+[^127]: On peut aussi traduire par « Tu connais le secret de la connaissance divine et du monde ». D'autres supposent que « bed » et « alim » désignent respectivement les hindous et les musulmans.
 
 [^128]: C'est-à-dire comme Brahma, par l'intermédiaire duquel, selon les Hindous, le monde a été créé.
 
-[^129] : _Ridh sidh_, littéralement : richesse et pouvoir surnaturel.
+[^129]: _Ridh sidh_, littéralement : richesse et pouvoir surnaturel.
 
-[^130] : Comme indiqué dans la Vie de Guru Nanak, ces Rags sont chantés différemment selon les provinces de l'Inde. Nous avons donné des versions alternatives de huit d'entre eux, extraites du recueil d'airs indiens du Raja Sir Surindra Mohan Tagore, composé pour le couronnement du roi-empereur. La musique du Raja est dans un ton aigu adapté aux instruments de musique ; les Rags des Gurus sont dans un ton grave adapté à la voix.

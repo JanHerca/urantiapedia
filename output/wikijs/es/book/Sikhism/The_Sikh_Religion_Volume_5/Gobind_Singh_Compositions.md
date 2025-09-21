@@ -2186,4 +2186,3 @@ sierra.
 
 [^129]: _Ridh sidh_, literalmente: riqueza y poder sobrenatural.
 
-[^130]: Como se afirma en la Vida del Gurú Nanak, estos Rags se cantan de forma diferente en las distintas provincias de la India. De ocho de ellos, hemos presentado versiones alternativas extraídas de la colección de aires indios del Raja Sir Surindra Mohan Tagore, compuesta para la Coronación del Rey-Emperador. La música del Raja tiene un tono agudo, adaptado para instrumentos musicales; los Rags de los Gurús tienen un tono grave, adaptado para la voz.

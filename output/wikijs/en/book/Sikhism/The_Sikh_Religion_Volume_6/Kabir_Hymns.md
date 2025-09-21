@@ -2004,7 +2004,7 @@ Nor shall my heart accompany on the drum.[^225]
 I have taken and destroyed my bodily lust and anger ;
 the pitcher of avarice hath burst ; Lust's raiment hath grown old, and all my doubts are
 dispelled.
-I recognize one God in all creatures ; vain wr anglings _on this subject_ are at an end.
+I recognize one God in all creatures ; vain wranglings _on this subject_ are at an end.
 Saith Kabir, when God was gracious unto me, I obtained Him, the Perfect One.
 
 The following was addressed to a Qazi : —

@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T22:31:38Z
 
 ## LES SLOKS DE KABIR
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Kabir, mon chapelet est ma langue, sur laquelle je répète le nom de Dieu ;
 À chaque époque, elle apporte paix et réconfort à tous les serviteurs de Dieu.
@@ -52,17 +52,17 @@ Dieu est le Seigneur de tout bonheur ; buvez l’essence de son nom.
 <span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 Kabir, si des boucles d'oreilles en or devaient être fabriquées et des rubis sertis dedans,
-Ils ressembleraient à des roseaux brûlés si le nom de Dieu n'était pas dans le cœur de celui qui les porte. [^1]
+Ils ressembleraient à des roseaux brûlés si le nom de Dieu n'était pas dans le cœur de celui qui les _porte_. [^1]
 
 <p style="text-align:center;">V</p>
 
 Kabir, il y en a peu qui, vivants, sont morts, [^2]
-Et qui chantent sans crainte les louanges de Dieu ; où que je regarde, Il est là pour me sauver.
+Et qui chantent sans crainte les louanges de Dieu ; où que je regarde, Il est là _pour me sauver_.
 
 <p style="text-align:center;">VI</p>
 
 Kabir, le jour de ma mort, il y aura de la joie après moi ; [^3]
-J'aurai alors rencontré mon Dieu, et mes amis l'adoreront au lieu de pleurer.
+J'aurai alors rencontré mon Dieu, et mes amis l'adoreront _au lieu de pleurer_.
 
 <p style="text-align:center;">VII</p>
 
@@ -72,12 +72,12 @@ Celui qui partage le même avis est mon ami.
 <p style="text-align:center;">VIII</p>
 
 Kabir, _l'amour mondain_ est venu à moi sous divers déguisements,
-Mais mon gourou m'a préservé ; l'amour du monde m'a alors fait hommage et est parti.
+Mais mon gourou m'a préservé ; _l'amour du monde_ m'a alors fait hommage et est _parti_.
 
 <p style="text-align:center;">IX</p>
 
 Kabir, détruis cette _Maya_ dont la mort te rendra heureux ;
-Chacun dira alors que c'est bien ; personne ne le jugera mauvais.
+Chacun dira _alors_ que c'est bien ; personne ne _le jugera_ mauvais.
 
 <p style="text-align:center;">X</p>
 
@@ -121,11 +121,11 @@ Pleurez _plutôt_ pour le pauvre infidèle qu'on vend dans toutes les boutiques.
 <span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Kabir, l'infidèle est comme un dîner d'ail ;
-On peut s'asseoir dans un coin et le manger, mais son odeur finit par se manifester.
+On peut s'asseoir dans un coin et le manger, _mais son odeur_ finit par se manifester.
 
 <p style="text-align:center;">XVIIIe</p>
 
-Kabir, le corps [^8] est une baratte, le souffle de vie son bâton de barattage ;
+Kabir, le corps [^8] est une baratte, le souffle _de vie_ son bâton de barattage ;
 Les saints mangent du beurre, le monde boit du babeurre.
 
 <p style="text-align:center;">XIXe</p>
@@ -150,13 +150,13 @@ Car c'est seulement par la mort que l'on obtient la félicité suprême.
 
 <p style="text-align:center;">XXIII</p>
 
-Kabir, quand tu obtiendras le joyau du nom de Dieu, garde-le pour toi, [^13] <span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
+Kabir, quand tu obtiendras le joyau du _nom_ de Dieu, garde-le pour toi, [^13] <span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 _Car_ il n'y a pas de bazar _où le vendre_, pas de connaisseur, pas d'acheteur, pas de prix _pour cela_.
 
 <p style="text-align:center;">XXIV</p>
 
 Kabir, aime celui qui a fait de Dieu son maître ;
-Hommes savants, rois, seigneurs du sol, à quoi leur sert l'amour ?
+Hommes savants, rois, seigneurs du sol, à quoi leur _sert l'amour_ ?
 
 <p style="text-align:center;">XXV</p>
 
@@ -165,7 +165,7 @@ Que tu portes les cheveux longs ou que tu te rases la tête de près. [^14]
 
 <p style="text-align:center;">XXVI</p>
 
-Kabir, le monde est une chambre de suie ; ceux qui y entrent sont aveugles et se souillent.
+Kabir, le monde est une chambre de suie ; ceux qui y entrent sont aveugles _et se souillent_.
 Je suis un sacrifice pour ceux qui y sont entrés et qui en ressortent purs.
 
 <p style="text-align:center;">XXVII</p>
@@ -199,7 +199,7 @@ L’homme n’obtiendra le joyau du Seigneur que s’il méprise son corps.
 
 <p style="text-align:center;">XXXII</p>
 
-Kabir, ne prononce pas de vaines plaintes contre Dieu ; rien ne résultera de ce que tu dis ;
+Kabir, ne prononce pas de vaines plaintes _contre Dieu_ ; rien ne résultera de ce que tu dis ;
 Personne ne peut mettre de côté ce que fait le Miséricordieux.
 
 <p style="text-align:center;">XXXIII</p>
@@ -225,14 +225,14 @@ Kabir est triste de voir tout le monde brûler. [^18]
 <p style="text-align:center;">XXXVII</p>
 
 Kabir, ne sois pas fier de tes os enveloppés dans la peau ;
-Ceux qui montaient d'excellents chevaux, et sous des parapluies, furent finalement enterrés dans la terre.
+Ceux qui montaient d'excellents chevaux, _et_ sous des parapluies, furent finalement enterrés dans la terre.
 
 <span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 <p style="text-align:center;">XXXVIII</p>
 
 Kabir, ne sois pas fier en voyant tes hautes demeures ;
-Aujourd'hui ou demain, tu seras couché sous la terre, et l'herbe poussera sur toi.
+Aujourd'hui ou demain, tu seras _couché_ sous la terre, et l'herbe poussera sur toi.
 
 <p style="text-align:center;">XXXIX</p>
 
@@ -252,12 +252,12 @@ _Sinon_ tu te repentiras plus tard _quand_ la vie aura quitté ton corps.
 <p style="text-align:center;">XLII</p>
 
 Kabir, peu [^20] sont nés qui ont appliqué le feu de la _connaissance divine_ à leur corps,
-Qui ont brûlé les cinq mauvaises passions, et avec la même ferveur ont continué à aimer Dieu.
+Qui ont brûlé les cinq mauvaises passions, et avec _la même ferveur_ ont continué à aimer Dieu.
 
 <p style="text-align:center;">XLIII</p>
 
 Y a-t-il quelqu'un qui me vendra son fils ; quelqu'un qui me vendra sa fille ? [^21]
-_Y a-t-il quelqu'un_ qui s'associerait à Kabir et traiterait avec lui au nom de Dieu ?
+_Y a-t-il quelqu'un_ qui s'associerait à Kabir et traiterait avec lui au _nom_ de Dieu ?
 
 <p style="text-align:center;">XLIV</p>
 
@@ -266,7 +266,7 @@ Tu ne peux pas échanger les plaisirs dont tu as déjà profité contre un morce
 
 <p style="text-align:center;">XLV</p>
 
-Kabir, j'ai d'abord pensé qu'apprendre était une bonne chose, puis que la philosophie Jog était meilleure que l'apprentissage ;
+Kabir, j'ai d'abord pensé qu'apprendre était une bonne chose, puis que la _philosophie_ Jog était meilleure que l'apprentissage ;
 Mais maintenant je n'abandonnerai jamais le service de Dieu, même si les hommes m'insultent pour cela.
 
 <p style="text-align:center;">XLVI</p>
@@ -326,17 +326,17 @@ Lorsque les deux couleurs se mélangent, le Dieu bien-aimé est rencontré. [^33
 
 <span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
-Kabir, le curcuma perd alors sa couleur jaune, et il ne reste plus aucune trace de la blancheur du citron vert ;
+Kabir, le curcuma perd alors sa couleur jaune, et il ne reste plus aucune trace de la _blancheur_ du citron vert ;
 Je suis un sacrifice à cet amour par lequel la tribu, la caste et la lignée sont effacées.
 
 <p style="text-align:center;">LVIII</p>
 
 Kabir, la porte du salut est étroite, _la largeur_ d'un dixième de grain de moutarde ;
-L'esprit est aussi grand qu'un éléphant ; [^34] comment peut-il passer à travers ?
+L'esprit _est aussi grand_ qu'un éléphant ; [^34] comment peut-il passer à travers ?
 
 <p style="text-align:center;">LIX</p>
 
-Kabir, si je rencontre un vrai gourou et qu'il a la gentillesse de me favoriser, la porte du salut sera élargie et je pourrai facilement passer.
+Kabir, si je rencontre un vrai gourou et qu'il a la gentillesse de me favoriser, la porte du salut sera _élargie_ et je pourrai facilement passer.
 La hutte de Kabir s'est un jour effondrée, et les gens lui ont demandé de la réparer ; voici sa réponse :
 
 <p style="text-align:center;">LX</p>
@@ -378,7 +378,7 @@ Comment partirai-je, puisqu'il y a une telle porte ?
 
 <p style="text-align:center;">LXVII</p>
 
-Kabir, j'étais en train de me noyer, mais la vague de bonnes qualités m'a rapidement emporté sur le rivage et m'a sauvé ;
+Kabir, j'étais en train de me noyer, mais la vague de bonnes qualités m'a rapidement _emporté_ sur le rivage et m'a sauvé ;
 Quand j’ai vu que l’écorce était pourrie, j’ai immédiatement sauté dessus.
 
 <p style="text-align:center;">LXVIII</p>
@@ -409,7 +409,7 @@ Personne n’appelle bon un homme qui est dépourvu de vertu.
 <p style="text-align:center;">LXXIII</p>
 
 Kabir, _le corps est comme_ un pot de terre rempli d'eau ; il éclatera aujourd'hui ou demain :
-Si tu ne te souviens pas de ton grand Dieu, tu seras pillé à moitié. [^40]
+Si tu ne te souviens pas de ton grand _Dieu_, tu seras pillé à moitié. [^40]
 
 <p style="text-align:center;">LXXIV</p>
 
@@ -429,7 +429,7 @@ Celui qui est séparé de Dieu ne vivra pas, ou s'il vivra, il deviendra fou. [^
 <p style="text-align:center;">LXXVII</p>
 
 Kabir, la pierre philosophale et le sandale ont une bonne propriété _en commun_ ;
-Au contact du premier, le fer devient le meilleur métal ; [^44] au contact du second, le bois inodore est parfumé.
+Au contact du premier, le fer devient le meilleur _métal_ ; [^44] _au contact du second_, le bois inodore _est parfumé_.
 
 <p style="text-align:center;">LXXVIII</p>
 
@@ -438,7 +438,7 @@ J'ai rencontré un saint homme [^45] et il m'a attaché à sa jupe.
 
 <p style="text-align:center;">LXXIX</p>
 
-Kabir, le médecin, dit : « Je suis le seul bon médecin ; tous les médicaments sont en mon pouvoir » :
+Kabir, le médecin, dit : « Je suis le seul bon médecin ; _tous_ les médicaments sont en mon pouvoir » :
 Cette chose _la vie_ est la propriété de Dieu, Il la prend quand Il veut.
 
 <p style="text-align:center;">LXXX</p>
@@ -449,7 +449,7 @@ _Ce monde_ est comme la rencontre sur un bateau fluvial _de personnes_ qui ne se
 <p style="text-align:center;">LXXXI</p>
 
 Kabir, si je faisais des sept océans mon encre, des arbres de la forêt mes plumes,
-Et la terre mon papier, je ne réussirais pas à écrire les louanges de Dieu.
+Et la terre mon papier, je ne _réussirais_ pas à écrire les louanges de Dieu.
 
 <p style="text-align:center;">LXXXII</p>
 
@@ -486,12 +486,12 @@ Tu t'es transformé en Dieu, celui que tu croyais différent.
 <p style="text-align:center;">LXXXVIII</p>
 
 Kabir, je meurs de mauvaise compagnie comme le plantain près du câprier sauvage ;
-Ce dernier agite et le premier est percé par ses épines, évitez donc l'apostat.
+Ce dernier agite et le premier est percé _par ses épines_, évitez donc l'apostat.
 
 <p style="text-align:center;">LXXXIX</p>
 
 Kabir, les hommes [^51] affectent de voyager avec le fardeau des péchés des autres hommes sur leur tête ;
-Pourquoi ne craignent-ils pas leur propre fardeau, puisque la route devant eux est difficile à parcourir ?
+Pourquoi ne craignent-ils _pas leur propre_ fardeau, puisque la route devant _eux_ est difficile à parcourir ?
 
 <span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
@@ -509,7 +509,7 @@ Kabir, à la mort de l'un, deux moururent ; à la mort de deux, quatre ;
 
 <p style="text-align:center;">XCII</p>
 
-Kabir a vu et cherché le monde, mais n'a trouvé nulle part de lieu de résidence :
+Kabir a vu et cherché le monde, mais n'a trouvé nulle part de lieu de _résidence_ :
 Pourquoi celui qui n’a pas pensé au nom de Dieu se perd-il dans d’autres spéculations ?
 
 <p style="text-align:center;">XCIII</p>
@@ -525,7 +525,7 @@ Ceux qui n’ont pas pensé au nom de Dieu sont nés en vain.
 <p style="text-align:center;">XCV</p>
 
 Kabir, espère en Dieu ; tout autre espoir est sans espoir :
-Ceux qui sont privés du nom de Dieu reconnaîtront sa puissance lorsqu'ils tomberont en enfer.
+Ceux qui sont privés du nom de Dieu reconnaîtront _sa puissance_ lorsqu'ils tomberont en enfer.
 
 <p style="text-align:center;">XCVI</p>
 
@@ -535,21 +535,21 @@ Il s’est mis en route pour rencontrer Dieu, mais son cœur l’a abandonné à
 <p style="text-align:center;">XCVII</p>
 
 Kabir, que fera le pauvre homme si Dieu ne l'aide pas ?
-Quelle que soit la branche sur laquelle je pose mon pied, elle plie sous moi.
+Quelle que soit la branche sur laquelle je pose mon pied, elle _plie_ sous moi.
 
 <p style="text-align:center;">XCVIII</p>
 
-Kabir, du sable tombera dans la bouche de ceux qui ne pratiquent pas ce qu'ils prêchent aux autres ;
+Kabir, du sable tombera dans la bouche de ceux qui _ne pratiquent_ pas ce qu'ils prêchent aux autres ;
 Ils surveillent les biens des autres, tandis que leurs propres champs sont dévorés.
 
 <p style="text-align:center;">XCIX</p>
 
 Kabir, fréquente les saints hommes même si tu ne manges que du son d'orge :
-Ce qui doit arriver arrivera ; ne t'associe pas à l'apostat, même s'il te donne un meilleur sort.
+Ce qui doit arriver arrivera ; ne t'associe pas à l'apostat, _même s'il te donne un meilleur sort_.
 
 <p style="text-align:center;">C</p>
 
-Kabir, par association avec les saints, l'amour de Dieu double de jour en jour :
+Kabir, par association avec les saints, l'amour _de Dieu_ double de jour en jour :
 L'infidèle est comme une couverture noire ; il ne devient pas blanc en se lavant.
 
 <p style="text-align:center;">CI</p>
@@ -594,23 +594,23 @@ Je renaîtrai comme un âne et porterai le poids de quatre hommes. [^63]
 
 <p style="text-align:center;">CIX</p>
 
-Kabir, il faut une très grande habileté pour prononcer le nom de Dieu dans le cœur ;
+Kabir, il _faut_ une très grande habileté pour prononcer le nom de Dieu dans le cœur ;
 Si l'acrobate qui se produit sur la haute perche tombe, il ne peut pas survivre. [^64]
 
 <p style="text-align:center;">CX</p>
 
-Kabir, bénie soit sa bouche qui prononce le nom de Dieu ;
-Tout son village sera béni, sans parler de la pauvre créature elle-même.
+Kabir, bénie soit sa bouche qui prononce le _nom_ de Dieu ;
+Tout son village sera béni, _sans parler_ de la pauvre _créature_ elle-même.
 
 <p style="text-align:center;">CXI</p>
 
 Kabir, la famille est heureuse dans laquelle naît un esclave de Dieu ;
-La famille dans laquelle n'est pas né un esclave de Dieu sera stérile comme l'arbre dhak.
+La famille dans laquelle n'est pas né un esclave de Dieu sera _stérile_ comme l'arbre dhak.
 
 <p style="text-align:center;">CXII</p>
 
-Kabir a vu des centaines de milliers de chevaux, d'éléphants et de chariots, et des bannières flotter aussi épaisses que des nuages ​​—
-La mendicité, quand les jours passent à se souvenir de Dieu, est meilleure que tout cet état.
+Kabir _a vu_ des centaines de milliers de chevaux, d'éléphants et de chariots, et des bannières flotter aussi épaisses que des nuages ​​—
+La mendicité, quand les jours passent à se souvenir de Dieu, est meilleure que _tout_ cet état.
 
 <p style="text-align:center;">CXIII</p>
 
@@ -621,7 +621,7 @@ J'ai tout vu et examiné attentivement [^65], et je trouve que personne n'a d'am
 
 <p style="text-align:center;">CXIV</p>
 
-Kabir, des perles étaient éparpillées sur la route ; un aveugle passait par là et ne les vit pas ;
+Kabir, des perles étaient éparpillées sur la route ; un aveugle passait par là et _ne les vit pas_ ;
 Sans la lumière du Seigneur du monde, chacun, comme un aveugle, passe à côté des perles.
 
 On raconte que Kamal, le fils de Kabir, rencontra un riche lépreux qui, désespéré, allait se noyer dans le Gange. Kamal le supplia de renoncer et promit de le guérir. Kamal prit de l'eau du Gange dans la paume de sa main, souffla dessus, répéta le nom de Dieu, puis jeta l'eau sur le lépreux. Ce dernier fut instantanément guéri. Il récompensa Kamal par un généreux don d'argent. Dans le couplet suivant, Kabir blâme son fils pour l'avoir accepté :
@@ -639,7 +639,7 @@ Ne reviens pas en arrière ; continue, quoi qu'il arrive.
 <p style="text-align:center;">CXVII</p>
 
 Ne te lie pas, ô Kabir, avec la corde [^67] par laquelle le monde est lié ;
-Comme le sel se perd dans la farine, ainsi ce corps semblable à de l'or disparaîtra.
+Comme le sel se perd dans la farine, ainsi ce corps semblable à de l'or _disparaîtra_.
 
 <p style="text-align:center;">CXVIII</p>
 
@@ -650,7 +650,7 @@ Mais maintenant encore, il ne laissera pas la convoitise s’échapper de ses ye
 
 <p style="text-align:center;">CXIX</p>
 
-Kabir, puis-je te contempler, ô Dieu, avec mes yeux, entendre ton nom avec mes oreilles,
+Kabir, puis-je te contempler, _ô Dieu_, avec mes yeux, entendre ton nom avec mes oreilles,
 Prononce ton nom avec ma langue, et mets tes pieds pareils-au-lotus dans mon cœur !
 
 <p style="text-align:center;">cxx</p>
@@ -665,12 +665,12 @@ Leur beauté ne peut être décrite ; elle ne peut être réalisée que lorsqu'o
 
 <p style="text-align:center;">CXXII</p>
 
-Kabir, même si je les vois, à qui les décrirais-je ? Personne ne serait satisfait de mes paroles ;
+Kabir, même si je les vois, à qui les décrirais-je ? Personne ne serait satisfait _de mes paroles_ ;
 Dieu est son propre parallèle ; je demeure dans le plaisir de chanter ses louanges.
 
 <p style="text-align:center;">CXXIII</p>
 
-Kabir, le kulang picore sa nourriture et se souvient en même temps de ses petits ; il picore, et picore, et picore et se souvient de ses petits ;
+Kabir, le kulang picore _sa nourriture_ et se souvient en même temps de ses petits ; _il picore_, et picore, et picore et se souvient de _ses petits_ ;
 Tout comme ses petits sont chers au kulang, l'amour du monde l'est aussi à son esprit.
 
 <p style="text-align:center;">CXXIV</p>
@@ -691,13 +691,13 @@ Kabir, ô coquillage, reste dans l'océan ; si tu le quittes, tu devras crier au
 
 <p style="text-align:center;">CXXVII</p>
 
-Kabir, que fais-tu, ô homme, en dormant ? Lève-toi et pleure par peur de l'enfer et de ses tourments :
+Kabir, que fais-tu, ô homme, en dormant ? Lève-toi et pleure par peur _de l'enfer et de ses tourments_ :
 Comment celui dont la demeure est dans le tombeau peut-il dormir en paix ? [^72]
 
 <p style="text-align:center;">CXXVIII</p>
 
-Kabir, que fais-tu en dormant ? Pourquoi ne pas te lever et répéter le nom de Dieu ?
-Un jour, tu dormiras étendu de tout ton long dans la tombe.
+Kabir, que fais-tu en dormant ? Pourquoi ne pas te lever et répéter le _nom_ de Dieu ?
+Un jour, tu dormiras étendu de tout ton long _dans la tombe_.
 
 <p style="text-align:center;">CXXIX</p>
 
@@ -711,7 +711,7 @@ Purifie-toi en les voyant, et répète le nom de Dieu en les rencontrant.
 
 <p style="text-align:center;">CXXXI</p>
 
-Kabir, ne t'associe pas à l'infidèle ; fuis loin de lui ;
+Kabir, ne t'associe pas à l'infidèle ; fuis loin _de lui_ ;
 Si tu touches un pot noir, une certaine saleté s'attachera à toi.
 
 <p style="text-align:center;">CXXXII</p>
@@ -722,11 +722,11 @@ Quand la porte de ta maison est en feu, que peut-on sortir et sauver ?
 <span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Kabir, l’œuvre que le Créateur a faite a été accomplie _une fois pour toutes_.
-Il n’y a pas de Dieu à part Lui, le seul Créateur.
+Il n’y a pas de Dieu _à part Lui_, le seul Créateur.
 
 <p style="text-align:center;">CXXXIV</p>
 
-Kabir, lorsque les arbres fruitiers commencent à porter des fruits et que la mangue commence à mûrir,
+Kabir, lorsque les _arbres_ fruitiers commencent à porter des fruits et que la mangue commence à mûrir,
 Le fruit parvient à son propriétaire si entre-temps les corbeaux [^73] ne l'ont pas mangé.
 
 <p style="text-align:center;">CXXXV</p>
@@ -763,8 +763,8 @@ Puisque j'ai répété le nom du Cherisher qui l'a créé.
 
 <p style="text-align:center;">CXLI</p>
 
-Kabir, Dieu est comme le musc ; tous ses saints sont comme les bourdons qui l'entourent :
-Plus Kabir rend service, plus Dieu demeure dans son cœur.
+Kabir, Dieu est comme le musc ; tous ses saints sont comme les bourdons _qui l'entourent_ :
+Plus Kabir rend service, plus Dieu demeure _dans son cœur_.
 
 <p style="text-align:center;">CXLII</p>
 
@@ -779,7 +779,7 @@ Quand le pauvre infidèle mourra, personne ne fera mention de lui.
 <p style="text-align:center;">CXLIV</p>
 
 Kabir, les hommes ont amassé des centaines de milliers et des millions, kauri par kauri ;
-Mais en partant, ils ne reçoivent rien ; on leur enlève même leurs ceintures.
+Mais en partant, ils ne reçoivent rien ; _on leur_ enlève même leurs ceintures.
 
 <p style="text-align:center;">CXLV</p>
 
@@ -799,16 +799,16 @@ Kabir, _mais_ à quoi bon être des pierres brisées ? Elles blesseraient les pi
 <p style="text-align:center;">CXLVIII</p>
 
 Kabir, _mais_ à quoi bon être poussière qui vole et tombe sur le corps des hommes ?
-Le serviteur de Dieu doit être comme l’eau qui purifie tous les membres. [^81]
+Le serviteur de Dieu doit être comme l’eau qui _purifie_ tous les membres. [^81]
 
 <p style="text-align:center;">CXLIX</p>
 
 Kabir, _mais_ à quoi bon être de l'eau ? Elle devient froide ou chaude _selon la saison_ ;
-Chaque serviteur de Dieu doit être parfait comme Dieu Lui-même.
+Chaque serviteur de Dieu doit être _parfait_ comme Dieu Lui-même.
 
 <p style="text-align:center;">CL</p>
 
-Les drapeaux flottent au sommet des hautes demeures pleines d'or et de femmes —
+Les drapeaux flottent au sommet des hautes demeures _pleines_ d'or et de femmes —
 Mieux que tout, il y a le pain de l'aumône [^82] et le fait de chanter les louanges de Dieu en compagnie de ses saints.
 
 <p style="text-align:center;">CLI</p>
@@ -825,7 +825,7 @@ Kabir a construit une hutte où les saints et les hommes de Dieu cherchent le ch
 
 <p style="text-align:center;">CLIII</p>
 
-Kabir, si l'homme continuait jusqu'à la fin à aimer Dieu comme il est né,
+Kabir, si l'homme continuait jusqu'à la fin _à aimer Dieu_ [^84] comme il est né,
 Des millions de pierres précieuses, sans parler d’un pauvre diamant, ne lui seraient pas égal.
 
 <p style="text-align:center;">CLIV</p>
@@ -840,7 +840,7 @@ Là où il y a la convoitise, il y a la mort ; là où il y a le pardon, il y a 
 
 <p style="text-align:center;">CLVI</p>
 
-Kabir, à quoi sert d’abandonner l’amour mondain si l’orgueil n’est pas aussi abandonné ?
+Kabir, à quoi sert d’abandonner l’amour mondain si l’orgueil n’est pas _aussi_ abandonné ?
 Les Munis et leurs supérieurs spirituels périrent par orgueil ; leur orgueil les rongea tous.
 
 <p style="text-align:center;">CLVII</p>
@@ -853,7 +853,7 @@ Quand cela m'a frappé, je suis tombé à terre ; un trou s'est fait dans mon c�
 <p style="text-align:center;">CLVIII</p>
 
 Kabir, que peut faire le vrai gourou si ses disciples sont en faute ?
-Pas un seul de ses mots n'impressionne l'aveugle spirituel : c'est comme souffler dans un bambou.
+Pas un seul de ses mots n'impressionne l'aveugle _spirituel_ : c'est comme souffler dans un bambou.
 
 <p style="text-align:center;">CLIX</p>
 
@@ -867,13 +867,13 @@ A. La première sépare ses cheveux avec de mauvaises intentions ; la seconde se
 
 <p style="text-align:center;">CLXI</p>
 
-Kabir, je me suis soutenu avec le nom de Dieu et je me suis stabilisé ; le vrai gourou m'a donné du courage :
+Kabir, je me suis soutenu avec _le nom de Dieu_ et je me suis stabilisé ; le vrai gourou m'a donné du courage :
 J'ai acheté de gros diamants sur la rive du lac Mansarowar.
 
 <p style="text-align:center;">CLXII</p>
 
 Kabir, Dieu est le diamant, le serviteur de Dieu est le bijoutier qui a pris la pierre précieuse et a ouvert une boutique pour elle ;
-Dès qu'un essayeur sera trouvé, le prix du diamant sera déterminé.
+Dès qu'un essayeur sera trouvé, le prix du diamant sera _déterminé_.
 
 <p style="text-align:center;">CLXIII</p>
 
@@ -898,18 +898,18 @@ Qui a la fierté de sa famille lorsqu'il est placé sur le lieu de crémation ?
 
 <p style="text-align:center;">CLXVII</p>
 
-Kabir, ô peuple misérable, vous serez ruinés à cause de votre grande considération pour l'opinion des autres ;
+Kabir, ô peuple misérable, vous serez ruinés à cause de votre grande considération pour _l'opinion_ des autres ;
 Sachez que le sort de vos voisins sera aussi le vôtre.
 
 <p style="text-align:center;">CLXVIII</p>
 
 Kabir, bonne est la farine d'aumône faite de différentes espèces [^86] de blé ;
-Je n'ai aucun droit sur personne pour cela ; grand est le pays et grand est son gouvernement. [^87]
+Je n'ai aucun droit sur personne _pour cela_ ; grand est le pays et grand est son gouvernement. [^87]
 
 <p style="text-align:center;">CLXIX</p>
 
 Kabir, le cœur brûle à cause des prétentions ; celui qui n'a aucune prétention est sans anxiété ;
-Celui qui n'a aucun droit considère Indar comme pauvre en comparaison de lui-même.
+Celui qui n'a aucun droit considère Indar comme pauvre _en comparaison de lui-même_.
 
 <p style="text-align:center;">CLXX</p>
 
@@ -928,7 +928,7 @@ Les pandits périssent dans le feu tandis que les illettrés s'échappent.
 
 <p style="text-align:center;">CLXXIII</p>
 
-Kabir, dissipe les doutes, laisse les livres des pandits ;
+Kabir, dissipe les doutes, laisse les livres _des pandits_ ;
 Après avoir recherché dans les livres sanskrits, fixe tes pensées sur les pieds de Dieu,
 
 <p style="text-align:center;">CLXXIV</p>
@@ -948,17 +948,17 @@ Le Maître lui-même ou l'esclave à sa cour [^92] le comprend.
 
 <p style="text-align:center;">CLXXVII</p>
 
-Kabir, c'est une bonne chose pour moi d'avoir ressenti la crainte de Dieu et d'avoir oublié tout le reste : <span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
+Kabir, c'est une bonne chose pour moi d'avoir ressenti la crainte _de Dieu_ et d'avoir oublié tout le reste : <span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 De la grêle je me suis fondu en eau, et en coulant je me suis mélangé à l'océan. [^93]
 
 <p style="text-align:center;">CLXXVIII</p>
 
-Kabir, Dieu ayant ramassé la poussière, fit des corps comme les poudres d'un médecin —
+Kabir, Dieu ayant ramassé la poussière, fit des corps comme les poudres d'un _médecin_ —
 Des lunettes pour quatre jours, mais après tout ce ne sont que de la poussière.
 
 <p style="text-align:center;">CLXXIX</p>
 
-Kabir, tous les corps sont comme le lever et le coucher du soleil et de la lune ; [^94]
+Kabir, tous les corps sont comme _le lever_ et le coucher du soleil et de la lune ; [^94]
 Mais s’ils ne rencontrent pas Dieu et le gourou, ils redeviennent tous poussière.
 
 <p style="text-align:center;">CLXXX</p>
@@ -973,7 +973,7 @@ Tandis que ceux qui pensent savoir ont leur lot d’ennuis.
 
 <p style="text-align:center;">CLXXXII</p>
 
-Kabir, ceux qui sont soumis à l'amour du monde poussent de nombreux cris, mais le cri du pir est différent : [^95]
+Kabir, ceux qui sont soumis _à l'amour du monde_ poussent de nombreux cris, mais le cri du pir est différent : [^95]
 Kabir qui a été frappé à un endroit vulnérable [^96] est tombé sur place.
 
 <p style="text-align:center;">CLXXXIII</p>
@@ -991,7 +991,7 @@ Cherchez dans votre cœur Celui pour qui vous appelez à la prière.
 <p style="text-align:center;">CLXXXV</p>
 
 Pourquoi le Cheikh qui n’a aucune résignation, accomplit-il un pèlerinage à la Kaaba ?
-Kabir, comment Dieu peut-il être pour celui dont le cœur n'est pas ferme dans sa foi ?
+Kabir, comment Dieu peut-il être pour celui dont le cœur n'est pas ferme _dans sa foi_ ?
 
 <p style="text-align:center;">CLXXXVI</p>
 
@@ -1001,17 +1001,17 @@ Le Seigneur se manifestera dans ton cœur, et le feu [^98] qui te brûle s'étei
 <p style="text-align:center;">CLXXXVII</p>
 
 Kabir, utiliser la force est une tyrannie, même si tu la considères comme légale ;
-Lorsque tes comptes seront demandés au bureau de Dieu, quelle sera ta condition ?
+Lorsque tes comptes seront demandés au bureau _de Dieu_, quelle sera ta condition ?
 
 <p style="text-align:center;">CLXXXVIII</p>
 
 Kabir, un excellent dîner est le khichari [^99] _assaisonné_ avec _suffisamment_ de sel pour le rendre savoureux ;
-Qui se couperait la gorge en mangeant de la viande avec son pain ? [^100]
+Qui se couperait la gorge en _mangeant_ de la viande avec son pain ? [^100]
 
 <p style="text-align:center;">CLXXXIX</p>
 
 Kabir, sache que le gourou aura touché ton cœur lorsque l’amour et l’ambition mondains auront été effacés ;
-Alors la joie et la tristesse ne t'affecteront plus ; tu deviendras Dieu Lui-même. [^101]
+Alors la joie et la tristesse ne t'affecteront plus ; tu _deviendras_ Dieu Lui-même. [^101]
 
 <p style="text-align:center;">cxc</p>
 
@@ -1086,7 +1086,7 @@ Si tes biens t'étaient rendus, qu'est-ce que cela me coûterait ?
 <p style="text-align:center;">CCIV</p>
 
 Kabir, en répétant : « Toi, Toi », je suis devenu Toi, ô Dieu ; je ne suis pas resté en moi-même ;
-Lorsque la différence entre Toi et moi fut supprimée, partout où je regardais, Tu étais là.
+Lorsque la différence entre Toi et moi fut supprimée, partout où je regardais, Tu _étais_ là.
 
 <p style="text-align:center;">CCV</p>
 
@@ -1105,7 +1105,7 @@ Il est venu et m'est apparu par destinée primitive et ancienne.
 
 <p style="text-align:center;">CCVIII</p>
 
-Kabir, j'ai passé mes jours à éluder le paiement de mes dettes envers Dieu ; les intérêts continuent d'augmenter ;
+Kabir, j'ai passé mes jours à éluder le _paiement de mes dettes envers Dieu_ ; les intérêts continuent d'augmenter ;
 Je n’adorais pas Dieu, et mon compte n’avait pas été déchiré lorsque la Mort est arrivée.
 
 Guru Arjan a inséré ici les trois distiques suivants : —
@@ -1172,7 +1172,7 @@ Quand trois coudées et demie, ou au plus trois et trois quarts, seront ton lot 
 
 <p style="text-align:center;">CCXIX</p>
 
-Kabir, si Dieu ne fait pas ce que je désire, à quoi me sert de le désirer ;
+Kabir, si _Dieu_ ne fait pas ce que je désire, à quoi me sert de le désirer ;
 Dieu fait ce qu’il désire, pas ce que je désire.
 
 On trouve ici le distique suivant de Guru Amar Das : —
@@ -1203,7 +1203,7 @@ En appelant nuit et jour, Dieu pourra peut-être parfois entendre tes cris.
 
 <p style="text-align:center;">CCXXIV</p>
 
-Kabir, le corps est un bosquet de plantains, le cœur un éléphant rendu fou par la passion qui le brise ;
+Kabir, le corps est un bosquet de plantains, le cœur un éléphant rendu fou par la passion _qui le brise_ ;
 Le joyau de la connaissance divine est l'aiguillon, et un saint rare est le dompteur [^113] de l'éléphant.
 
 <p style="text-align:center;">CCXXV</p>
@@ -1214,12 +1214,12 @@ Si un acheteur se trouve, il pourra l'accepter à un prix élevé. [^114]
 <p style="text-align:center;">CCXXVI</p>
 
 Kabir, l'homme ne connaît pas le nom de Dieu alors qu'il élève une famille nombreuse ;
-Il meurt au milieu de ses devoirs terrestres et on n'entend plus parler de lui dans le monde extérieur.
+Il meurt au milieu de ses devoirs terrestres et on n'entend plus parler de lui dans _le monde_ extérieur.
 
 <p style="text-align:center;">CCXXVII</p>
 
 Kabir, en un clin d'œil et en un instant la vie passe ;
-Puisque l'esprit ne se libère pas des enchevêtrements, la mort bat son tambour et emmène sa victime en triomphe.
+Puisque l'esprit ne se libère pas des enchevêtrements, la mort bat son tambour _et emmène sa victime en triomphe_.
 
 <p style="text-align:center;">CCXXVIII</p>
 
@@ -1230,7 +1230,7 @@ Le saint qui a abandonné les discussions inutiles [^115] comme son ombre.
 
 <p style="text-align:center;">CCXXIX</p>
 
-Kabir, plante la graine d'un arbre qui portera des fruits pérennes,
+Kabir, plante la graine d'un _arbre_ qui portera des fruits pérennes,
 _Dont_ l'ombre sera fraîche, dont les fruits seront abondants et sur lesquels les oiseaux [^116] joueront.
 
 <p style="text-align:center;">ccxxx</p>
@@ -1241,7 +1241,7 @@ Lorsque les oiseaux qu'il abrite migrent, [^117] ils disent : « Ô Arbre, puiss
 <p style="text-align:center;">CCXXXI</p>
 
 Kabir, l'association avec les saints est obtenue par le destin ;
-Par une telle association, on obtient le bienfait du salut, et la route difficile vers Dieu n'est pas obstruée.
+Par une telle association, on obtient le bienfait du salut, et la route difficile _vers Dieu_ n'est pas obstruée.
 
 <p style="text-align:center;">CCXXXII</p>
 
@@ -1264,7 +1264,7 @@ Le cinquième gourou intervient ici : —
 
 <p style="text-align:center;">CCXXXV</p>
 
-Pendant les huit veilles, les soixante-quatre gharis du jour, mon âme regarde vers Toi, ô Dieu.
+Pendant les huit veilles, les soixante-quatre _gharis_ du jour, mon âme regarde vers Toi, ô Dieu.
 Pourquoi baisser les yeux puisque je contemple le Bien-Aimé dans chaque cœur ?
 
 <p style="text-align:center;">CCXXXVI</p>
@@ -1285,7 +1285,7 @@ Saith Kabir, le gourou, a donné cet excellent conseil : « Devenez une fourmi e
 <p style="text-align:center;">CCXXXIX</p>
 
 Kabir, si tu désires le Bien-Aimé, coupe ta tête et fais-en une boule ; [^120]
-En jouant, atteignez un tel état d'extase que vous serez satisfait de tout ce qui vous arrive.
+En jouant, atteignez un tel état d'_extase_ que _vous serez satisfait_ de tout ce qui vous arrive.
 
 <p style="text-align:center;">CCXL</p>
 
@@ -1355,7 +1355,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^8]: _Maya_ signifie ici corps, car c'est le résultat de l'illusion.
 
-[^9] : Mis dans la baratte en Inde par temps chaud pour faciliter le processus de barattage.
+[^9]: Mis dans la baratte en Inde par temps chaud pour faciliter le processus de barattage.
 
 [^10]: Qui brise le cœur et le prive de ses vertus.
 
@@ -1379,7 +1379,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^20]: Dans l'original, aucun, mais il s'agit apparemment d'une exagération de l'enthousiasme religieux.
 
-[^21] : Ce slok est une allégorie. Par fils, Kabir entendait l'âme, et par fille, le corps. Y a-t-il quelqu'un qui consacrerait son âme et son corps au culte de Dieu ? Une autre explication est la suivante : Y a-t-il quelqu'un qui me donnerait son fils, son cœur, en échange de ma fille, l'instruction religieuse ?
+[^21]: Ce slok est une allégorie. Par fils, Kabir entendait l'âme, et par fille, le corps. Y a-t-il quelqu'un qui consacrerait son âme et son corps au culte de Dieu ? Une autre explication est la suivante : Y a-t-il quelqu'un qui me donnerait son fils, son cœur, en échange de ma fille, l'instruction religieuse ?
 
 [^22]: Les plaisirs dont tu as joui te sont désormais inutiles.
 
@@ -1387,7 +1387,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^24]: La mort a attaqué le corps de l'homme.
 
-[^25] : L'âme.
+[^25]: L'âme.
 
 [^26]: La petite eau et le petit étang signifient le monde. L'océan est Dieu dont l'homme est issu, et auprès de qui il doit chercher refuge contre le filet du pêcheur, c'est-à-dire la mort.
 
@@ -1403,7 +1403,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^32]: Également traduit — Kabir, Dieu suit ceux dont l'esprit est pur comme l'eau du Gange, et dit qu'ils lui sont supérieurs.
 
-[^33] : Le curcuma et le citron vert désignent les hommes de différentes castes. Le curcuma désigne les hommes de basses castes, tandis que le citron vert désigne les hommes de hautes castes. À l'origine, les hommes de hautes castes étaient plus clairs que les aborigènes bruns d'Inde. Le mélange du curcuma et du citron vert produit un produit rouge utilisé pour les marques sacrificielles sur le front. Lorsque des hommes saints de différentes castes se rencontrent, Dieu est obtenu par leur association, et leurs castes disparaissent.
+[^33]: Le curcuma et le citron vert désignent les hommes de différentes castes. Le curcuma désigne les hommes de basses castes, tandis que le citron vert désigne les hommes de hautes castes. À l'origine, les hommes de hautes castes étaient plus clairs que les aborigènes bruns d'Inde. Le mélange du curcuma et du citron vert produit un produit rouge utilisé pour les marques sacrificielles sur le front. Lorsque des hommes saints de différentes castes se rencontrent, Dieu est obtenu par leur association, et leurs castes disparaissent.
 
 [^34]: L’homme est très fier.
 
@@ -1425,13 +1425,13 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^43]: Le serpent le piquera, et il mourra ou deviendra fou.
 
-[^44] : Or.
+[^44]: Or.
 
-[^45] : Ramanand.
+[^45]: Ramanand.
 
 [^46]: Soyez heureux tant que vous le pouvez.
 
-[^47] : Comparez — Le monde est une ville pleine de rues errantes, Et la mort est le marché où chacune d'elles se rencontre.
+[^47]: Comparez — Le monde est une ville pleine de rues errantes, Et la mort est le marché où chacune d'elles se rencontre.
 
 [^48]: Pour mortifier leur chair.
 
@@ -1439,9 +1439,9 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^50]: Pour dompter leur concupiscence.
 
-[^51] : Les Brahmanes.
+[^51]: Les Brahmanes.
 
-[^52] : Le corps.
+[^52]: Le corps.
 
 [^53]: Le dieu de la mort.
 
@@ -1453,15 +1453,15 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^57]: Le corps a vieilli et ses membres sont devenus inutiles.
 
-[^58] : La vie.
+[^58]: La vie.
 
 [^59]: C'est-à-dire que tu ne tiendras pas compte du sort des autres.
 
-[^60] : Après la crémation d'un corps et avant que les ossements ne soient recueillis, des étrangers se rendent la nuit au lieu de l'incinération et pratiquent des incantations dans le but de retenir l'esprit du défunt afin de lui être utile dans ses biens matériels. Lorsque les proches du défunt ont connaissance de la cérémonie, ils ne l'autorisent pas.
+[^60]: Après la crémation d'un corps et avant que les ossements ne soient recueillis, des étrangers se rendent la nuit au lieu de l'incinération et pratiquent des incantations dans le but de retenir l'esprit du défunt afin de lui être utile dans ses biens matériels. Lorsque les proches du défunt ont connaissance de la cérémonie, ils ne l'autorisent pas.
 
-[^61] : On suppose qu'une femelle serpent dessine un cercle autour de ses œufs, puis les casse elle-même. Les jeunes serpents qui peuvent sortir du cercle sont autorisés à sortir et à vivre, mais ceux qui ne le peuvent pas sont censés être mangés par la mère.
+[^61]: On suppose qu'une femelle serpent dessine un cercle autour de ses œufs, puis les casse elle-même. Les jeunes serpents qui peuvent sortir du cercle sont autorisés à sortir et à vivre, mais ceux qui ne le peuvent pas sont censés être mangés par la mère.
 
-[^62] : Hoi est une représentation de la déesse de la variole. Une fête est organisée par les femmes en son honneur au mois de Kartik, huit jours avant Diwali. Des femmes célibataires fabriquent des images d'argile à son effigie pour satisfaire leurs désirs. Ces images sont jetées à l'eau après Diwali. Au Panjab, Hoi est connue sous le nom de Sanjhi.
+[^62]: Hoi est une représentation de la déesse de la variole. Une fête est organisée par les femmes en son honneur au mois de Kartik, huit jours avant Diwali. Des femmes célibataires fabriquent des images d'argile à son effigie pour satisfaire leurs désirs. Ces images sont jetées à l'eau après Diwali. Au Panjab, Hoi est connue sous le nom de Sanjhi.
 
 [^63]: À cette époque, l'homme (maund) ne pesait que trente-cinq livres avoirdupois. À présent, il pèse quatre-vingts livres.
 
@@ -1469,13 +1469,13 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^65]: _Thok bajana_ consiste à faire tinter un récipient avec le majeur pour tester sa solidité.
 
-[^66] : Autrement dit, n'attendez pas de compagnon. Cela peut aussi vouloir dire : ne prenez pas avec vous un compagnon qui pourrait vouloir vous faire changer d'avis et vous faire rebrousser chemin.
+[^66]: Autrement dit, n'attendez pas de compagnon. Cela peut aussi vouloir dire : ne prenez pas avec vous un compagnon qui pourrait vouloir vous faire changer d'avis et vous faire rebrousser chemin.
 
 [^67]: L'amour mondain.
 
 [^68]: Également traduit : Il exprime ses souhaits à ses proches par des signes.
 
-[^69] : Littéralement — au début et à la fin.
+[^69]: Littéralement — au début et à la fin.
 
 [^70]: Ceux qui n’acceptent pas l’enseignement des saints hommes qui est aussi abondant que la pluie.
 
@@ -1487,9 +1487,9 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^74]: Les écrits dans lesquels l'idolâtrie et les pèlerinages sont prescrits.
 
-[^75] : Adoration des idoles.
+[^75]: Adoration des idoles.
 
-[^76] : Les femmes portent des bracelets en cire blanche. Ils sont voyants mais sans consistance.
+[^76]: Les femmes portent des bracelets en cire blanche. Ils sont voyants mais sans consistance.
 
 [^77]: C'est-à-dire qu'il fera ce que je lui demande.
 
@@ -1501,7 +1501,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^81]: Lorsqu'il est souillé par la poussière.
 
-[^82] : _Madhukari_. Ce mot dérive du sanskrit madhuhar, l'abeille qui extrait le miel de chaque fleur.
+[^82]: _Madhukari_. Ce mot dérive du sanskrit madhuhar, l'abeille qui extrait le miel de chaque fleur.
 
 [^83]: Les gyanis traduisent généralement cela — Dans le sukhmana où le souffle des narines gauche et droite se rencontre.
 
@@ -1525,7 +1525,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^93]: Le cœur de Kabir était d'abord froid et dur comme la grêle. Lorsque le feu de l'amour divin l'illumina, il se transforma en eau qui, coulant, se mêla à l'océan de Dieu.
 
-[^94]: Les corps des animaux* naissent et meurent.
+[^94]: Les corps des animaux naissent et meurent.
 
 [^95]: On peut aussi traduire par : « Beaucoup crient qu'ils sont frappés par l'amour de Dieu, mais la douleur qu'ils manifestent raconte une histoire différente. » Le mot « pir » a deux significations : (a) un prêtre ou un saint ; (b) douleur.
 
@@ -1541,7 +1541,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^101]: Tu n'auras aucune conscience d'existence distincte de Dieu.
 
-[^102] : Rani est le nom de Dieu dans Kabir et les autres œuvres des Bhagats. On utilise parfois Har, Hari, Gobind et d'autres noms, mais il est entendu qu'il s'agit toujours du Dieu Suprême, le Seigneur de la création.
+[^102]: Rani est le nom de Dieu dans Kabir et les autres œuvres des Bhagats. On utilise parfois Har, Hari, Gobind et d'autres noms, mais il est entendu qu'il s'agit toujours du Dieu Suprême, le Seigneur de la création.
 
 [^103]: Bien que dans certains de leurs hymnes, Kabir et certains autres Bhagats du Granth Sahib semblent avoir cru aux incarnations hindoues, ils les ont parfois ridiculisées.
 
@@ -1551,7 +1551,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
   En général, les gens prononcent le nom de Ram d'une manière, et les saints d'une autre.
   CXCI
   Kabir, prononce Ram, Ram, mais fais preuve de discernement en le prononçant.
-  Certains, ce faisant, s’adonnent à leurs diverses occupations tandis que d’autres sont absorbés par le seul Dieu.
+  Certains, _ce faisant_, s’adonnent à leurs diverses occupations tandis que d’autres sont absorbés par le seul Dieu.
 
 [^105]: C'est pourquoi l'exhortation du gourou a fait impression sur mon cœur.
 
@@ -1563,7 +1563,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^109]: Si _tubari_ est lu comme un seul mot, la traduction sera : Sur terre et au ciel, il y a deux coupes de mendiant — le désir et la convoitise — difficiles à détruire.
 
-[^110] : Littéralement — un squelette.
+[^110]: Littéralement — un squelette.
 
 [^111]: Dans cette ligne, si _bharan_ est lu comme un seul mot, la traduction sera : La terre ressent leur poids ; ô Dieu, enlève-les.
 
@@ -1575,7 +1575,7 @@ Mais si quelqu'un, après avoir abandonné le monde, s'y mêle de nouveau, son m
 
 [^115]: Le saint, comme l'ombre d'un arbre, apporte du réconfort à l'homme.
 
-[^116] : Saints hommes.
+[^116]: Saints hommes.
 
 [^117]: Les saints errent pour proclamer la bonté de Dieu.
 

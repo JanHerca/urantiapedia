@@ -199,7 +199,7 @@ Ceux qui s'associent aux saints et qui sont teints de la profonde teinture de l'
 
 R. Teins ce cœur _avec l'amour de Dieu_ ;
 Répète le nom de Dieu avec ta langue,
-Ainsi, personne ne t'adressera des paroles injurieuses dans la cour de Dieu ; chacun t'honorera en disant : « Viens, assieds-toi. » Dans ce palais, tu auras ta demeure.
+Ainsi, personne ne t'adressera des paroles injurieuses dans la cour de Dieu ; chacun t'honorera en disant : « Viens, assieds-toi. » Dans ce palais, tu auras ta demeure.<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 Là où il n’y a ni transmigration ni destruction.
 La richesse de Dieu est dans sa maison,
 Nanak, sur le front duquel un tel destin était inscrit au commencement.

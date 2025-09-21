@@ -42,7 +42,7 @@ Lorsque la mère de Dhanna lui apporta du pain, il le déposa devant l'idole et,
 
 Le Brahmane rendit de nouveau visite à Dhanna et, constatant ses progrès vers la perfection spirituelle, se prosterna devant lui et versa des larmes d'amour. La contemplation, l'adoration et la répétition du Nom de Dhanna réjouirent Dieu, et le Brahmane, grâce à la dévotion de Dhanna, obtint, disait-on, l'objet de ses désirs, en ce monde comme dans l'autre.
 
-Dhanna reçut l'ordre surnaturel de se rendre à Bénarès et de recevoir le sort d'initiation de Ramanand. Il s'exécuta. Ramanand, voyant sa pureté de cœur et sa dévotion, le reconnut comme un grand saint et un apôtre, et l'initia comme disciple. En temps voulu, Ramanand, lui ayant confié le service des saints comme un devoir particulier, le congédia avec tous les témoignages d'amour et de respect, et Dhanna, de retour chez lui, suivit scrupuleusement les instructions de son guide spirituel.
+Dhanna reçut l'ordre surnaturel de se rendre à Bénarès et de recevoir le sort d'initiation de Ramanand. Il s'exécuta. Ramanand, voyant sa pureté de cœur et sa dévotion, le reconnut comme un grand saint et un apôtre, et l'initia comme disciple. En temps voulu, Ramanand, <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> lui ayant confié le service des saints comme un devoir particulier, le congédia avec tous les témoignages d'amour et de respect, et Dhanna, de retour chez lui, suivit scrupuleusement les instructions de son guide spirituel.
 
 Un jour, alors que Dhanna emportait du blé pour semer, il rencontra des saints qui les pressèrent de subvenir à leurs besoins. Il leur accorda donc ses semences de blé. Dieu, voyant la charité de Dhanna envers ses saints, dit : « Qui jette du blé en terre s'attend à un retour plusieurs fois supérieur. Or, Dhanna met du blé dans la bouche de Mes saints, je dois donc lui en rendre mille fois plus. » Le champ de Dhanna prospéra donc tellement mieux que ceux de ses voisins qu'il devint l'objet de félicitations générales. Dhanna pensa que ces félicitations n'étaient que des railleries, jusqu'au jour où il visita son champ. Il découvrit alors que ce que les gens disaient était vrai. Il s'immergea dans l'amour de Dieu et redoubla de dévotion envers Lui et Ses saints. Sa terre est toujours appelée _Dhanne Bhagat ka khet_, ou le champ de Saint Dhanna. On dit que la pierre noire de son culte de jeunesse fut par la suite encastrée dans l'un des murs de son temple.
 
@@ -71,7 +71,7 @@ Errant et vagabondant, de nombreuses naissances se sont écoulées ; mon corps, 
 Attaché et souillé par les péchés de convoitise et de luxure, j’ai oublié Dieu, le diamant.
 Le fruit du péché est doux pour l’esprit dément ; il ne connaît pas d’excellente méditation.
 Mon amour, se détournant de la vertu, grandit, et je tisse à nouveau la toile de la naissance et de la mort. <span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
-Je ne savais pas reconnaître Celui qui habite dans le cœur ; [^7] j'ai brûlé dans le feu de l'amour mondain et je suis tombé dans le nœud coulant de la mort.
+Je ne savais pas _reconnaître_ Celui qui habite dans le cœur ; [^7] j'ai brûlé dans le feu _de l'amour mondain_ et je suis tombé dans le nœud coulant de la mort.
 J’ai accumulé tellement de fruits du péché et j’en ai rempli mon cœur, que j’ai oublié Dieu l’Être suprême.
 Lorsque le gourou a fait entrer en moi la richesse de la connaissance divine, j'ai médité sur Dieu et j'ai accepté dans mon cœur qu'Il était Un,
 J’ai embrassé l’amour et le service de Dieu et connu le réconfort ; je suis rassasié et satisfait, et j’ai obtenu le salut.
@@ -81,10 +81,10 @@ Dhanna a obtenu Dieu [^8] comme richesse ; [^9] en rencontrant les saints, il s'
 Dieu est le Conservateur universel.
 
 Ô mon cœur, pourquoi ne penses-tu pas au Dieu de miséricorde ? Pourquoi n'ignores-tu pas tout le reste ?
-Si tu devais parcourir l'univers et les continents de la terre, cela ne te servirait à rien ; seul ce que fait le Créateur arrive.
+Si tu devais parcourir l'univers et les continents de la terre, cela _ne te servirait à rien_ ; _seul_ ce que fait le Créateur arrive.
 Celui qui a fait le corps avec ses dix portes dans l'eau du ventre de sa mère,
-Il le nourrit et le préserve dans sa demeure ardente ; tel est notre Seigneur.
-La tortue femelle vit dans l'eau ; ses petits restent sur terre ; ils n'ont pas d'ailes maternelles pour les abriter, ni de lait à boire.
+Il le nourrit et le préserve dans sa _demeure_ ardente ; tel est notre Seigneur.
+La tortue femelle vit dans l'eau ; ses petits _restent_ sur terre ; ils n'ont pas d'ailes maternelles pour les _abriter_, ni de lait à _boire_.
 _Pourtant_ Dieu, l'Omniprésent, la Joie primordiale, le Délicieux _les nourrit_ ; comprends cela dans ton cœur.
 Un ver est incrusté dans une pierre, et il n'y a pas d'issue pour lui :
 Dhanna dit : Dieu le remplit ; Ô mon âme, n'aie pas peur.
@@ -93,7 +93,7 @@ Dhanna, pour subvenir à ses besoins pendant qu'il est engagé dans ses dévotio
 
 <p style="text-align:center;">DHANASAKI</p>
 
-Ô Dieu, je viens à toi, ton serviteur affligé : —
+Ô Dieu, je viens à toi, _ton serviteur affligé_ : —
 Tu arranges les affaires de ceux qui accomplissent Ton service.
 Dal, farine, [^10] et ghi je t'en prie
 Ainsi mon cœur sera toujours heureux.
@@ -136,7 +136,7 @@ L'esclave Dhanna te supplie. [^12]
 
 [^3]: _Butkaria_, de butti, travail forcé.
 
-[^4] : _Partakh_, le latin _praesens_.
+[^4]: _Partakh_, le latin _praesens_.
 
 [^5]: Dans le Granth Sahib, cet hymne est intitulé Mahala V, sous lequel sont incluses les compositions de Guru Arjan, mais il ne fait aucun doute qu'il s'agissait de la composition de Dhanna.
 
@@ -153,4 +153,4 @@ L'esclave Dhanna te supplie. [^12]
 [^11]: Et; sat sika est le même que _satnaja_, 'un mélange de sept sortes de céréales accordé à une caste de personnes appelée Dakaunt à certaines occasions, pour le bénéfice d'une personne qui est supposée être sous la mauvaise influence d'une planète, le grain étant égal en poids au corps de la personne' - The Ludhiana PanjdU Dictionary.
   _Anaj sat sika_ est également traduit par « maïs cultivé sur un champ labouré sept fois », appelé en panjabi _sat sian lanian_.
 
-[^12] : Comme demander à Dieu des faveurs matérielles est jugé incompatible avec la sainteté, les gyanis ont fait preuve d'ingéniosité en trouvant une ou plusieurs significations fantaisistes à presque chaque substantif de l'hymne ci-dessus. Par exemple, dal représente la soumission aux passions, sJdha, ou farine, la rectitude, ghi l'amour de Dieu, etc. Ceux qui le souhaitent peuvent adopter de telles interprétations. Il faut cependant se rappeler que Dhanna était un cultivateur et que, pour sa vocation et ses moyens de subsistance, sans parler de ses dévotions, il avait généralement besoin de ce pour quoi il priait.
+[^12]: Comme demander à Dieu des faveurs matérielles est jugé incompatible avec la sainteté, les gyanis ont fait preuve d'ingéniosité en trouvant une ou plusieurs significations fantaisistes à presque chaque substantif de l'hymne ci-dessus. Par exemple, dal représente la soumission aux passions, sJdha, ou farine, la rectitude, ghi l'amour de Dieu, etc. Ceux qui le souhaitent peuvent adopter de telles interprétations. Il faut cependant se rappeler que Dhanna était un cultivateur et que, pour sa vocation et ses moyens de subsistance, sans parler de ses dévotions, il avait généralement besoin de ce pour quoi il priait.

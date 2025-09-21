@@ -671,7 +671,7 @@ Thou art the King, eae is Thy sovereignty. Nanak is a sacrifice unto Thee.
 
 ## Notes
 
-[^1]: God.[
+[^1]: God.
 
 [^2]: Death’s myrmidons.
 

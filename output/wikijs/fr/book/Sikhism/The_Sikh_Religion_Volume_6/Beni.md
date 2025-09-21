@@ -41,8 +41,8 @@ En raison de la grande difficulté de ses écrits, on pense qu'il est relativeme
 <p style="text-align:center;">SRIRAG</p>
 
 Ô homme, lorsque tu étais dans le creux de l'utérus et que tu méditais et fixais ton attention sincère sur Dieu ; [^1]
-N'étant pas fier de la dignité de ton corps mortel, tu étais jour et nuit libre de l'orgueil qui est l'ignorance.
-Souviens-toi du travail et des grandes souffrances de ces jours-là ; maintenant tu as trop étendu tes pensées aux choses du monde. <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
+N'étant pas fier de la dignité de ton corps mortel, tu étais jour et nuit libre de _l'orgueil qui_ est l'ignorance.
+Souviens-toi du travail et des grandes souffrances de ces jours-là ; maintenant tu as trop étendu tes pensées _aux choses du monde_. <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 Lorsque tu as quitté le ventre maternel et que tu es entré dans ce monde périssable, tu as oublié Dieu.
 Tu te repentiras ensuite, ô insensé ; par quelle perversité mentale la superstition s'est-elle attachée à toi ?
 Souviens-toi de Dieu, sinon tu iras au séjour de la mort ; ne t'égare pas dans un autre culte.
@@ -51,16 +51,16 @@ Sous prétexte que c'est un sacrifice, [^2] l'homme goûte la viande comme si c'
 Il abandonne la dévotion, la pénitence, la maîtrise de soi et les bonnes œuvres, et dans son cœur il n'adore pas le nom de Dieu.
 Sa luxure déborde, la noirceur s'attache à son cœur, et il embrasse la femme étrangère.
 Dans l'ardeur de sa jeunesse, il fixe du regard la femme d'un autre, et ne distingue pas le bien du mal.
-Dans l'ivresse de la luxure et des autres grands péchés, il s'égare et ne distingue pas le vice de la vertu.
+Dans l'ivresse de la luxure et _des autres_ grands péchés, il s'égare et ne distingue pas le vice de la vertu.
 Voyant ses enfants et ses richesses, il est orgueilleux et oublie Dieu dans son cœur.
 Il pèse dans son cœur les richesses d'un mort, puis ruine sa vie par des femmes et des banquets.
 Quand ses cheveux deviennent gris — plus gris que le jasmin — et que sa voix devient faible ; [^4]
 Quand ses yeux pleurent et que son intellect et sa force s'en vont, alors ses désirs tourbillonnent. [^5]
-Son esprit est souillé par de mauvaises passions, et c'est pourquoi son corps se dessèche comme le lotus pendant la saison des pluies.
+Son esprit _est souillé_ par de mauvaises passions, et c'est pourquoi son corps se dessèche comme le lotus pendant la saison des pluies.
 Celui qui renonce au nom de Dieu dans ce monde périssable se repentira ensuite.
 En regardant ses proches, il marmonne quelque chose et est fier d'eux, mais ils ne l'écoutent pas. <span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 Il désire la distinction d'une longue vie, même si ses yeux ne la voient pas. [^6]
-Le feu de son corps est éteint, l'oiseau de son âme s'est enfui, et son cadavre est désagréable, que ce soit dans la maison ou dans la cour.
+Le feu de _son corps_ est éteint, l'oiseau de son âme s'est enfui, et _son cadavre_ est désagréable, que ce soit dans la maison ou dans la cour.
 Dit Beni, écoutez-moi, ô saints ; qui a obtenu le salut après la mort ? [^7]
 
 L'instruction divine est communiquée sous l'allégorie du hathjog, la forme la plus difficile et la plus douloureuse de la pratique d'un Jogi.
@@ -71,10 +71,10 @@ Unissez le souffle de l'ira, du pingla et du sukhmana en un seul endroit ; [^8]
 Il y a le Beni [^9] et le Pryag où les trois rivières se rencontrent ; que l'âme s'y repose.
 Ô saints, il y a le Dieu pur.
 Peu de gens comprennent cela lorsqu’ils vont chez le gourou ;
-Là, dans le cerveau, se trouve le Pur.
+Là, dans _le cerveau_, se trouve le Pur.
 Quels sont les signes de la demeure de Dieu ?
 Là se joue la musique ininterrompue de la Parole. [^10]
-Là, ni la lune, ni le soleil, ni le vent, ni l'eau ne sont adorés.
+Là, ni la lune, ni le soleil, ni le vent, ni l'eau ne _sont adorés_.
 Celui dont la conscience est éveillée par l’instruction du gourou le sait.
 Par lui, la connaissance divine est produite, les mauvaises inclinations s'éloignent,
 Et le jus d’ambroisie coule du cerveau.
@@ -102,7 +102,7 @@ Que l'homme enfile en lui le précieux joyau du nom de Dieu —
 Il a un lotus dans son cerveau et des pierres précieuses [^19] autour ; <span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 Au centre se trouve le Sans Tache, le Seigneur des trois mondes ;
 Les cinq espèces d’instruments de musique sont clairement entendues ;
-Les chauris semblent onduler et un obus résonner comme le tonnerre —
+Les chauris _semblent_ onduler et un obus résonner comme le tonnerre —
 Les pieux, par la connaissance divine, piétinent leurs mauvaises passions. [^20]
 Beni implore ton nom, _ô Seigneur, car la pratique du Jog est vaine_.
 
@@ -110,18 +110,18 @@ Beni implore ton nom, _ô Seigneur, car la pratique du Jog est vaine_.
 
 Ce qui suit a été adressé à un brahmane hypocrite : —
 
-Tu frottes des sandales sur ton corps et tu mets des feuilles sur ton front, [^21]
+Tu _frottes_ des sandales sur ton corps et tu mets des feuilles sur ton front, [^21]
 Mais tu as un couteau meurtrier dans ton cœur.
-Tu regardes les gens comme un thag, et tu les observes comme une grue à la recherche de poissons.
+Tu regardes les gens comme un thag, et tu les observes comme une grue à la _recherche de poissons_.
 La vie du Vaishnav, lorsqu'il te voit, s'échappe par sa bouche. [^22]
 Tu t'inclines _quotidiennement_ devant la belle _idole_ de Vishnu pendant longtemps ;
 Tu es affecté du mauvais œil, et la nuit tu te disputes ; [^23]
 Tu baignes toujours ton corps ;
 
-Tu as deux dhotis, [^24] tu accomplis ostensiblement tes devoirs religieux et tu vis uniquement de lait,
+Tu as deux dhotis, [^24] _tu accomplis ostensiblement_ tes devoirs religieux et tu vis uniquement de lait,
 Mais dans ton cœur tu as un couteau pour poignarder.
 C'est ta coutume de piller les biens d'autrui. <span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
-Tu adores une pierre, et dans le culte de Kali tu fais un cercle pour Ganesh. [^25]
+Tu adores une pierre, et dans le culte de Kali _tu fais_ un cercle pour Ganesh. [^25]
 Tu veilles la nuit _pour que les hommes pensent_ que tu es entré au service de Dieu ;
 Tu danses avec tes pieds, mais ton cœur médite le mal —
 Ô pécheur, ta danse est méchante —
@@ -131,7 +131,7 @@ Dans ton cœur il y a du mensonge, même si tu portes un collier [^26] à ton co
 Ô pécheur, tu ne répètes pas le nom de Dieu.
 Tout le culte de cet homme est vain, et il est aveugle.
 Qui n’a pas reconnu le Dieu suprême.
-Dit Beni, méditez sur Dieu selon les instructions du gourou ;
+Dit Beni, méditez _sur Dieu_ selon les instructions du gourou ;
 Sans un véritable gourou, le chemin n’est pas trouvé.
 
 <figure class="table chapter-navigator">
@@ -160,13 +160,13 @@ Sans un véritable gourou, le chemin n’est pas trouvé.
 
 ## Remarques
 
-[^1]: Dans le Granth Sahib, Urdh signifie souvent Dieu. Cependant, on peut aussi le traduire par « corps inversé ».
+[^1]: Dans le Granth Sahib, _Urdh_ signifie souvent Dieu. Cependant, on peut aussi le traduire par « corps inversé ».
 
 [^2]: _Medh_ désigne ici l'animal tué en sacrifice.
 
 [^3]: Il faut se rappeler que ceci a été écrit par un Vaishnav à qui toute viande était interdite.
 
-[^4] : Littéralement — comme si cela provenait de la septième région inférieure.
+[^4]: Littéralement — comme si cela provenait de la septième région inférieure.
 
 [^5]: Littéralement — le tourbillon des désirs est dans son cœur.
 
@@ -178,36 +178,36 @@ Sans un véritable gourou, le chemin n’est pas trouvé.
 
 [^9]: À Priyag, il y a ou il y avait un temple appelé Beni Madhav.
 
-[^10] : Pas les cloches, les cymbales ou les coquillages du culte hindou.
+[^10]: Pas les cloches, les cymbales ou les coquillages du culte hindou.
 
 [^11]: _Kala_, littéralement — dispositifs.
 
-[^12] : Le cerveau.
+[^12]: Le cerveau.
 
 [^13]: C'est-à-dire Dieu.
 
-[^14] : Expliqué par les Gyanis comme désignant les veines et les muscles du corps. C'est aux membres supérieurs et inférieurs que le mot « branches » s'applique en anatomie hindoue. — Dr Hoernle.
+[^14]: Expliqué par les Gyanis comme désignant les veines et les muscles du corps. C'est aux membres supérieurs et inférieurs que le mot « branches » s'applique en anatomie hindoue. — Dr Hoernle.
 
 [^15]: C'est-à-dire dans le vice.
 
-[^16] : Littéralement — quand il a enduré des choses insupportables.
+[^16]: Littéralement — quand il a enduré des choses insupportables.
 
-[^17] : Une lampe à quatre mèches pour donner une lumière vive. Il s'agit de la connaissance divine.
+[^17]: Une lampe à quatre mèches pour donner une lumière vive. Il s'agit de la connaissance divine.
 
 [^18]: Les mystiques supposent que le cerveau contient une fleur de lotus, à l'intérieur de laquelle Dieu habite.
 
 [^19]: Les feuilles du lotus.
 
-[^20] : _Daint_, littéralement - démons.
+[^20]: _Daint_, littéralement - démons.
 
 [^21]: Sembler avoir renoncé au monde.
 
 [^22]: Le Vaishnav s'abstient de viande et meurt en te voyant adonné à des actes sanglants. Le verset est également traduit : « Tu ressembles à un Vaishnav dont l'âme s'est échappée de son corps. »
 
-[^23] : Sur le partage des offrandes. Il est possible, cependant, que _badan_ (querelle) soit pour _baman_ (femme), ce qui rimerait avec _chiraman_ au vers précédent. Si l'on lit _baman_, la traduction sera : « Tu regardes les femmes avec sévérité le jour, mais la nuit tu les aimes. »
+[^23]: Sur le partage des offrandes. Il est possible, cependant, que _badan_ (querelle) soit pour _baman_ (femme), ce qui rimerait avec _chiraman_ au vers précédent. Si l'on lit _baman_, la traduction sera : « Tu regardes les femmes avec sévérité _le jour_, mais la nuit tu les aimes. »
 
 [^24]: Pour se changer après le bain.
 
 [^25]: Selon le Tan far Shastar, il doit y avoir quatre cercles pour les divinités accompagnatrices de Kali, Ganesh, KshetarpSl, Bhairav ​​et Yogini.
 
-[^26] : Rudrakhan, le rudraksh sanskrit. Collier fait de baies d'éléocarpe. Il est généralement porté par les adorateurs du basilic, disciples de Vishnu, qui portent des chapelets de basilic doux.
+[^26]: Rudrakhan, le _rudraksh_ sanskrit. Collier fait de baies d'éléocarpe. Il est généralement porté par les adorateurs du basilic, disciples de Vishnu, qui portent des chapelets de basilic doux.

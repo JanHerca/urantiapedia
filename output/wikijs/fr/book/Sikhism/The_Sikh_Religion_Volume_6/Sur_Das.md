@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T22:31:38Z
 
 ## SUR DAS
 
-Le Sur Das, dont l'un des hymnes figure dans le Granth Sahib, ne doit pas être confondu avec Sur Das, poète aveugle célèbre dans le nord de l'Inde pour avoir écrit le Sur Sagar. Le Sur Das qui nous intéresse était un brahmane né en 1528. Sa beauté le surnommait Madan Mohan, épithète qui signifie qu'il ensorcelait Cupidon lui-même, et on disait que ses yeux, extérieurs et intérieurs, s'épanouissaient comme une fleur de lotus. Il acquit une grande maîtrise de la musique, de la poésie et des arts apparentés, et possédait en même temps toute la joie, le réconfort et le plaisir que procure la connaissance divine ésotérique. Il chantait l'amour, première et plus grande des passions divines qui constituent les sujets légitimes de la poésie. Dès qu'un vers sortait de sa bouche, il devenait célèbre. On dit que, même à cette époque de mauvaises routes et de lenteur, il parcourait six cents kilomètres en un jour, comme s'il avait acquis des ailes pour voler.
+Le Sur Das, dont l'un des hymnes figure dans le Granth Sahib, ne doit pas être confondu avec Sur Das, poète aveugle célèbre dans le nord de l'Inde pour avoir écrit le _Sur Sagar_. Le Sur Das qui nous intéresse était un brahmane né en 1528. Sa beauté le surnommait Madan Mohan, épithète qui signifie qu'il ensorcelait Cupidon lui-même, et on disait que ses yeux, extérieurs et intérieurs, s'épanouissaient comme une fleur de lotus. Il acquit une grande maîtrise de la musique, de la poésie et des arts apparentés, et possédait en même temps toute la joie, le réconfort et le plaisir que procure la connaissance divine ésotérique. Il chantait l'amour, première et plus grande des passions divines qui constituent les sujets légitimes de la poésie. Dès qu'un vers sortait de sa bouche, il devenait célèbre. On dit que, même à cette époque de mauvaises routes et de lenteur, il parcourait six cents kilomètres en un jour, comme s'il avait acquis des ailes pour voler.
 
 L'empereur Akbar, qui admirait les talents poétiques, nomma Sur Das gouverneur de la province de Sandila. Sa capitale se trouve dans l'actuel district de Hardoi, dans l'Oudh. Son administration semble avoir été loin d'être couronnée de succès. Les revenus fonciers ordinaires de Sandila s'élevaient à treize lakhs de roupies par an, mais Sur Das les dépensait entièrement pour nourrir les saints. Apprenant qu'une inspection de sa province et la collecte de ses revenus étaient envisagées, il s'enfuit pour éviter les conséquences de sa générosité excessive. Lorsque les fonctionnaires arrivèrent pour percevoir les revenus, ils trouvèrent des pierres dans les coffres scellés au lieu d'argent. Chaque coffre était étiqueté avec une étiquette contenant ces lignes :
 
@@ -52,7 +52,7 @@ Que le roi soleil Akbar me sauve des Dix Nuits !
 
 Sur Das fut immédiatement libéré de prison et le gouverneur de la prison obtint le surnom de Dix Nuits à partir du jeu de mots sur son nom.
 
-Sur Das écrivit ensuite une strophe dans laquelle il priait pour que le titre de gardien des chaussures des saints de Dieu lui soit conféré. Un saint homme, pour le mettre à l'épreuve, lui dit qu'il allait voir le grand seigneur Madan Mohan, également épithète de Krishan, et lui demanda de veiller sur ses chaussures jusqu'à son retour. Sur Das, ravi, prit les chaussures du saint et dit : « Jusqu'à présent, mes souhaits n'ont été qu'exprimés, mais ils sont maintenant exaucés. » Le grand prêtre, de connivence avec le saint, envoya à plusieurs reprises un homme à Gall Sur Das tenant les chaussures. Il refusa de venir avant d'avoir accompli le service subalterne qu'il avait entrepris. Le grand prêtre et le saint furent tous deux ravis de la dévotion de Sur Das.
+Sur Das écrivit ensuite une strophe dans laquelle il priait pour que le titre de gardien des chaussures des saints de Dieu lui soit conféré. Un saint homme, pour le mettre à l'épreuve, lui dit qu'il allait voir le grand seigneur Madan Mohan, également épithète de Krishan, et lui demanda <span id="p419"><sup><small>[ p. 419 ]</small></sup></span> de veiller sur ses chaussures jusqu'à son retour. Sur Das, ravi, prit les chaussures du saint et dit : « Jusqu'à présent, mes souhaits n'ont été qu'exprimés, mais ils sont maintenant exaucés. » Le grand prêtre, de connivence avec le saint, envoya à plusieurs reprises un homme à Gall Sur Das tenant les chaussures. Il refusa de venir avant d'avoir accompli le service subalterne qu'il avait entrepris. Le grand prêtre et le saint furent tous deux ravis de la dévotion de Sur Das.
 
 Sur Das passa le reste de sa vie dans les forêts, à adorer et à contempler Dieu en compagnie de saints. Son sanctuaire se trouve près de Bénarès.
 
@@ -105,7 +105,7 @@ Accorde à Tes Sikhs le don du Sikhisme, le don de l'instruction du Guru, le don
 
 ## Remarques
 
-[^1] : _Jhok_, la chute de la tête dans une profonde pensée ou absorption.
+[^1]: _Jhok_, la chute de la tête dans une profonde pensée ou absorption.
 
 [^2]: _Ih parlok_, le monde à venir, par lequel on entend la joie du monde à venir, c'est-à-dire l'absorption en Dieu et la délivrance de la transmigration.
 

@@ -130,7 +130,7 @@ Yet without worshipping the name of God the Lord of wealth, they went at last to
 
 <p style="text-align:center;">IV</p>
 
-Men bathe at places of pilgrimage, exercise mercy, curb their passions, bestow gifts, exercise abstinence, and _perform various special ceremonies—
+Men bathe at places of pilgrimage, exercise mercy, curb their passions, bestow gifts, exercise abstinence, and perform various special ceremonies—
 The Veds, the Purans, the Quran, and the other books of the Musalmans, the earth and heaven all have I seen ;
 Thousands of fasters, Jatis who practised continence, all have I carefully observed ; <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 Yet without worshipping the name of the one God and loving Him even kings are of no account.
@@ -352,7 +352,7 @@ How can the wretch who is without divine knowledge and who is never absorbed in 
 
 Like an actor man sometimes poseth as a Jogi or Bairagi ; sometimes he assumeth the guise of a Sanyasi.
 Sometimes he appeareth to live on air, sometimes he sitteth in an attitude of contemplation, sometimes in his infatuation for pelf he singeth many praises of men.
-Sometimes he is a Brahmachari, sometimes he produceth a garden in his hand, sometimes he holdeth a fakir’s staff and deceiveth men’s senses. __
+Sometimes he is a Brahmachari, sometimes he produceth a garden in his hand, sometimes he holdeth a fakir’s staff and deceiveth men’s senses.
 He who is subject to worldly desires danceth with gestures; but being devoid of divine knowledge, how shall he obtain heaven ?
 
 In the cold season the jackal barketh five times, and the elephant and the donkey utter various cries.
@@ -832,7 +832,7 @@ It was the will of God
 That sovereignty should pass from their family.
 
 Only twenty villages remained to the Bedis, Which they began to till.
-A long time passed_in that way
+A long time passed in that way
 Until the epoch for the birth of Nanak arrived.
 
 Nanak Rai, born in the line of those Bedis,
@@ -1777,7 +1777,7 @@ May I obtain from Thee whatever boon I crave !
 Save my servants and my disciples ; 
 Single out mine enemies and smite them. 
 Remove from me the fear of the hour of death. 
-Be Thou always on my side; __ 
+Be Thou always on my side;
 O Thou with the sword on Thy banner, protect me ; 
 Preserve me, O Thou Preserver, 
 Beloved Lord, Protector of the saints, 
@@ -2186,4 +2186,3 @@ sawaiya.
 
 [^129]: _Ridh sidh_, literally—wealth and supernatural power. 
 
-[^130]: As stated in the Life of Guru Nanak, these Rags are sung differently in different provinces of India. Of eight of them we have given alternative versions extracted from Raja Sir Surindra Mohan Tagore’s collection of Indian airs made for the Coronation of the King-Emperor. The Raja’s music is in a high pitch adapted for musical instruments ; the Gurus’ Rags are in a low pitch adapted for the voice. 

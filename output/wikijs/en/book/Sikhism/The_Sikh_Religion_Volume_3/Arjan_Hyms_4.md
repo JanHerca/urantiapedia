@@ -1005,7 +1005,7 @@ Shall be acceptable at His court.
 His servant to whom He showeth kindness,
 Shall obtain all knowledge.
 The man who among all men is a recluse at heart,
-Thus becometh, O Nanak, a slave of God.<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
+Thus becometh, O Nanak, a slave of God.<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 <p style="text-align:center;">7</p>
 

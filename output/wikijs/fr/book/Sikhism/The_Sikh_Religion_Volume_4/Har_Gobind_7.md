@@ -42,7 +42,7 @@ Le gourou se rendit ensuite à Manga, dans le district de Lahore, pour voir l'ar
 
 Son épouse Damodari offrit au gourou un autre enfant, une fille cette fois. Chez les Sikhs, un nom est donné à un nouveau-né par divination. On ouvre le Granth Sahib et l'initiale du premier mot du dernier hymne, sur la page de droite, devient l'initiale du nom de l'enfant. La fille du gourou fut ainsi nommée Viro.
 
-Painda Khan, recruté à Kartarpur, était constamment choyé pour accroître sa force. Il pouvait soulever le tronc d'un arbre pesant dix _mans_ et soulever deux jeunes buffles. Il pouvait, sans corde ni bride, arrêter un cheval lancé à toute vitesse. Aucun lutteur ne voulait l'affronter.
+Painda Khan, recruté à Kartarpur, était constamment choyé pour accroître sa force. Il pouvait soulever le tronc d'un arbre pesant dix _mans_[^1] et soulever deux jeunes buffles. Il pouvait, sans corde ni bride, arrêter un cheval lancé à toute vitesse. Aucun lutteur ne voulait l'affronter.
 
 <span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 

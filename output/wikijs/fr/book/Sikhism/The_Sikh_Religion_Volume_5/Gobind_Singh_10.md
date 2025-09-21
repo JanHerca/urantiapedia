@@ -85,7 +85,7 @@ La dernière ligne du Bhagauti ki War est :—
 Celui qui a chanté cela n’est pas né de nouveau, c’est-à-dire qu’il a obtenu la délivrance.
 
 Cette ligne donne le sens du vingt-deuxième slok du quatre-vingt-douzième chant du « Markandeya Puran ».
-Le train de pensée par lequel le gourou a fait de Dieu et de l'épée un était le suivant : Dans le « Shastar Nam Mala » on peut lire :
+Le train de pensée par lequel le gourou a fait <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> de Dieu et de l'épée un était le suivant : Dans le « Shastar Nam Mala » on peut lire :
 
 Je mentionne d’abord le mot shatru (un ennemi) puis le mot daman (soumettre).
 Sachez que les mots composés signifient le Seigneur du monde : soyez-en assurés.
@@ -132,4 +132,4 @@ Troisièmement, le gourou souhaitait que ses sikhs, en se familiarisant avec les
 
 [^3]: Cette ligne montre que le Guru croyait que Durga était une création de Dieu et non une divinité indépendante co-égale ou co-puissante avec Lui et digne d'adoration humaine.
 
-[^4] : _Durga Prabodh_ de Bhai Dit Singh.
+[^4]: _Durga Prabodh_ de Bhai Dit Singh.

@@ -34,9 +34,9 @@ dateCreated: 2025-2-12T22:31:38Z
 
 ## TRILOCHAN
 
-Trilochan, nom qui signifie littéralement « à trois yeux », c'est-à-dire « voyant du présent, du passé et de l'avenir », était un saint célèbre de la caste des Vaisyas. Sa naissance aurait eu lieu en 1267 apr. J.-C. [^1]. Il vécut ou visita Pandharpur, dans le district de Sholapur, dans la présidence de Bombay, et était contemporain de Namdev, qui le mentionna ou s'adressa à lui dans ses hymnes. Les enquêtes menées à Pandharpur et dans la ville voisine de Barsi n'ont cependant fourni aucune information concernant Trilochan. La légende suivante est passée pour historique parmi ses admirateurs. Il avait une foi et un amour profonds pour les saints, mais ils lui rendaient visite en nombre inopportun, et il n'y avait que lui et sa femme pour les servir. Il pensa qu'ils n'étaient pas servis comme il l'aurait souhaité, aussi décida-t-il d'engager un serviteur s'il en trouvait un habitué du service aux saints. Il continua de chercher un tel serviteur, mais ne le trouvant pas, il en fut triste. On dit que Dieu, mécontent du chagrin de son saint, lui envoya un candidat. Trilochan demanda au candidat qui il était, d'où il venait et s'il avait des parents, une maison et un foyer. L'homme répondit qu'il n'avait ni parents ni foyer. Il était simplement venu pour être engagé comme serviteur. Il pouvait servir les saints de Dieu sans l'aide d'autrui, car il avait consacré sa vie à ce service. Il se nomma Antarjami, ce qui signifie « Scrutateur des cœurs ». Trilochan fut ravi et ordonna à sa femme de l'engager et de subvenir avec joie à tous ses besoins. Elle fut avertie de considérer son plaisir comme son premier devoir.
+Trilochan, nom qui signifie littéralement « à trois yeux », c'est-à-dire « voyant du présent, du passé et de l'avenir », était un saint célèbre de la caste des Vaisyas. Sa naissance aurait eu lieu en 1267 apr. J.-C. [^1]. Il <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> vécut ou visita Pandharpur, dans le district de Sholapur, dans la présidence de Bombay, et était contemporain de Namdev, qui le mentionna ou s'adressa à lui dans ses hymnes. Les enquêtes menées à Pandharpur et dans la ville voisine de Barsi n'ont cependant fourni aucune information concernant Trilochan. La légende suivante est passée pour historique parmi ses admirateurs. Il avait une foi et un amour profonds pour les saints, mais ils lui rendaient visite en nombre inopportun, et il n'y avait que lui et sa femme pour les servir. Il pensa qu'ils n'étaient pas servis comme il l'aurait souhaité, aussi décida-t-il d'engager un serviteur s'il en trouvait un habitué du service aux saints. Il continua de chercher un tel serviteur, mais ne le trouvant pas, il en fut triste. On dit que Dieu, mécontent du chagrin de son saint, lui envoya un candidat. Trilochan demanda au candidat qui il était, d'où il venait et s'il avait des parents, une maison et un foyer. L'homme répondit qu'il n'avait ni parents ni foyer. Il était simplement venu pour être engagé comme serviteur. Il pouvait servir les saints de Dieu sans l'aide d'autrui, car il avait consacré sa vie à ce service. Il se nomma Antarjami, ce qui signifie « Scrutateur des cœurs ». Trilochan fut ravi et ordonna à sa femme de l'engager et de subvenir avec joie à tous ses besoins. Elle fut avertie de considérer son plaisir comme son premier devoir.
 
-Antarjami accomplissait des tâches domestiques pour les saints, comme cuisiner, puiser de l'eau, leur laver les pieds, leur faire un shampoing et leur donner un bain, de telle sorte que la maison de Trilochan* devint célèbre pour son hospitalité ; et une grande foule de saints commença à vivre avec lui et à consommer ses biens. Treize mois passèrent ainsi, jusqu'au jour où la femme de Trilochan alla rendre visite à une voisine. Celle-ci lui demanda pourquoi elle était si sale et avait l'air si misérable. Elle répondit que son seigneur avait engagé une servante qui exigeait tant d'attention qu'elle devait passer ses journées à moudre du maïs et à cuisiner pour lui. Cela fut rapporté à Antarjami, et il disparut aussitôt.
+Antarjami accomplissait des tâches domestiques pour les saints, comme cuisiner, puiser de l'eau, leur laver les pieds, leur faire un shampoing et leur donner un bain, de telle sorte que la maison de Trilochan* devint célèbre pour son hospitalité ; et une grande foule de saints commença à vivre avec lui et à consommer ses biens. Treize mois passèrent ainsi, jusqu'au jour où la femme de Trilochan alla rendre visite à une voisine. Celle-ci lui demanda pourquoi elle était si sale et avait l'air si misérable. Elle répondit que son seigneur avait engagé une <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> servante qui exigeait tant d'attention qu'elle devait passer ses journées à moudre du maïs et à cuisiner pour lui. Cela fut rapporté à Antarjami, et il disparut aussitôt.
 
 Quand vint le moment de servir les saints, Antarjami resta introuvable. Trilochan fut profondément affligé et, réprimandant sa femme, lui expliqua que c'était à cause de son indiscrétion qu'Antarjami avait quitté leur service. Après trois jours de chagrin, on dit qu'il fut consolé par l'intervention divine. Il s'adonna alors à la louange et à la contemplation du seul vrai Dieu. Son chagrin fut alors dissipé.
 
@@ -53,13 +53,13 @@ Je ne peux pas les supporter.
 Qu'un ami vienne me parler ! [^2]
 Viens à moi, mon Dieu, jette tes bras autour de moi !
 Viens à moi, mon Dieu, et sauve-moi !
-Dans divers plaisirs et dans l'état royal, ô mortel, as-tu oublié Dieu et te considères-tu comme le seul immortel de ce monde.
-Trompé par Mammon, tu n'as pas pensé à Dieu, et tu as perdu ta vie, ô homme insouciant.
+Dans divers plaisirs et dans l'état royal, ô mortel, as-tu oublié _Dieu_ et te considères-tu comme le seul immortel de ce monde.
+Trompé par Mammon, tu n'as pas pensé _à Dieu_, et tu as perdu ta vie, ô homme insouciant.
 Mortel, tu dois parcourir un chemin difficile et terrible où ni le soleil ni la lune n'ont accès.
 Quand l'homme a abandonné le monde, il oublie son amour mondain. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 Aujourd’hui, il est devenu clair pour moi que Dharmraj gardera un œil sur l’homme.
-Là, ses très puissants myrmidons frotteront les hommes entre leurs mains, et nul ne pourra leur résister.
-Si quelqu'un me donne une instruction, qu'il me dise que Dieu est contenu en chaque lieu. [^3]
+Là, ses très puissants _myrmidons_ frotteront les hommes entre leurs mains, et nul ne pourra leur résister.
+Si quelqu'un me donne une instruction, _qu'il me dise que_ Dieu est contenu en chaque lieu. [^3]
 Ô Dieu, dit Trilochan, tu sais tout.
 
 <p style="text-align:center;">GUJARI</p>
@@ -102,7 +102,7 @@ Ton malheur et ton bien-être sont selon tes actes. [^6]
 Bien que la lune soit attachée au front de Shiv et se baigne quotidiennement dans le Gange ;
 Bien que _Krishan l'avatar_ de Vishnu se soit incarné dans la famille de la _lune_ ;
 Mais la tache contractée à cause de ses méfaits est ineffaçable de sa tête ;
-Aran, le cocher, dont le seigneur est _le soleil_, la lampe de la terre, dont le frère était Garur, le roi des oiseaux, naquit sans pieds à cause de ses péchés ;
+Aran, le cocher, dont le seigneur est _le soleil_, la lampe <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> de la terre, dont le frère était Garur, le roi des oiseaux, naquit sans pieds à cause de ses péchés ;
 Shiv, celui qui enlève de nombreux péchés, le seigneur des trois mondes, a erré dans de nombreux lieux de pèlerinage, mais n'a jamais atteint la fin de ceux-ci :
 L'acte de couper la tête de Brahma n'a jamais été effacé de sa personne.
 Bien que l'ambroisie, la lune, la vache toute-puissante, Lakhshmi, l'arbre miraculeux, le coursier aux sept visages et le médecin surgissent de l'océan, le seigneur des rivières,
@@ -143,14 +143,14 @@ Le résultat des actes passés ne s'efface jamais, ô femme de ma maison ; C'est
 
 [^3]: _Wan trin_, littéralement — dans les bois et les clairières.
 
-[^4] : Dieu.
+[^4]: Dieu.
 
-[^5] : _Larke_. Cette expression se traduit aussi par « Celui qui pense à ses enfants ». L'idée semble être que l'homme ne devrait penser qu'à Dieu dans ses derniers instants.
+[^5]: _Larke_. Cette expression se traduit aussi par « Celui qui pense à ses enfants ». L'idée semble être que l'homme ne devrait penser qu'à Dieu dans ses derniers instants.
 
 [^6]: Quand tel est le cas, il ne sert à rien de s’en prendre à Dieu dans l’adversité.
 
 [^7]: Voici les allusions dans l'hymne précédent : —
-  Le Sursari est le Gange, ainsi appelé car il est le Suron Ki Sari, le fleuve des demi-dieux ou des héros divins. On dit qu'il coule de la tête de Shiva.
+  Le _Sursari_ est le Gange, ainsi appelé car il est le Suron Ki Sari, le fleuve des demi-dieux ou des héros divins. On dit qu'il coule de la tête de Shiva.
   Krishan appartenait aux Chandarbans, ou famille de la lune. Ram Chandar, quant à lui, appartenait aux Surajbans, ou famille du soleil.
   La lune tomba amoureuse de l'épouse de Brihaspati, le guide spirituel des dieux, et l'enleva. La tache sombre sur la lune serait la conséquence de cet acte. En sanskrit et dans la littérature apparentée, la lune est masculine.
   Arun était le fils de Vinata et de Kashyap. Vinata couva prématurément un œuf, et le petit naquit sans cuisses ; c'est pourquoi il est appelé Anuru, sans cuisses, ou Vipad, sans pieds. Il maudit sa mère et pria que, pour l'avoir mis au monde prématurément, elle devienne l'esclave de son rival, Kadru. Sur les supplications pressantes de sa mère, cependant, il modifia sa malédiction et déclara que son prochain fils la délivrerait de l'esclavage. Dans la mythologie hindoue tardive, Arun apparaît comme l'aurore et le conducteur du char du soleil.

@@ -54,7 +54,7 @@ Comme les bras d’une femme ornent le cou de son mari en hiver,
 Ainsi les choses transitoires passent ; réfléchis-y dans ton esprit.
 L’homme met six mois à se former [^4] et un instant à se briser.
 La terre demanda au ciel, [^5] _dit_ Farid, combien de pilotes [^6] étaient passés ;
-Certains ont été brûlés, d'autres sont dans les cimetières, et leurs âmes souffrent des reproches des anges de la Mort.
+Certains ont été brûlés, d'autres sont dans les cimetières, et leurs âmes souffrent des reproches _des anges de la Mort_.
 
 Le désir de Farid de rencontrer Dieu :—
 
@@ -81,7 +81,7 @@ Cheikh Farid, prépare-toi à temps pour cette route.
 
 ## SLOKS DE SHAIKH FARID
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Le jour où la femme devait se marier avait été fixé à l'avance. [^9]
 L'Époux, l'ange de la mort dont nous avons entendu parler, est venu montrer son visage ;
@@ -116,7 +116,7 @@ Je n'ai trouvé personne d'aussi grand que toi ; j'ai vu et parcouru le monde en
 
 <p style="text-align:center;">VI</p>
 
-Farid, si tu as une sagesse aiguë, n'écris pas de marque noire contre les autres.
+Farid, si tu as une sagesse aiguë, n'écris pas de marque noire _contre les autres_.
 Penche la tête et regarde sous ton col. [^17]
 
 <p style="text-align:center;">VII</p>
@@ -129,7 +129,7 @@ _Non_, embrasse leurs pieds et rentre chez toi.
 <p style="text-align:center;">VIII</p>
 
 Farid, quand il fut temps pour toi de gagner, [^18] tu étais amoureux du monde :
-Les fondements de la mort sont solides ; [^19] lorsque le dernier souffle sera rendu, ton âme sera emballée.
+Les fondements de la mort sont solides ; [^19] lorsque _le dernier souffle_ sera rendu, _ton âme_ sera emballée.
 
 <p style="text-align:center;">IX</p>
 
@@ -148,7 +148,7 @@ L'arbre du corps est devenu mûr, [^20] et a pris une autre couleur.
 
 <p style="text-align:center;">XII</p>
 
-Farid, # quelqu'un qui n'a pas apprécié son époux quand ses cheveux étaient noirs, a-t-il apprécié son époux quand ses cheveux étaient gris ?
+Farid, # quelqu'un qui n'a pas apprécié _son époux quand ses cheveux_ étaient noirs, a-t-il apprécié son époux quand ses cheveux étaient gris ?
 Aime ton époux, et la couleur de tes cheveux sera restaurée. [^21]:
 
 Guru Amar Das propose l’objection suivante à ce distique : —
@@ -195,7 +195,7 @@ C'est dans le cœur que Dieu habite ; pourquoi le cherches-tu dans la forêt ?
 <p style="text-align:center;">XX</p>
 
 Farid, avec ces tiges de fuseau j'ai traversé plaines et montagnes.
-Mais aujourd'hui, pour Farid, soulever sa cruche est devenu aussi pénible qu'un voyage de plusieurs centaines de kilomètres.
+Mais aujourd'hui, pour Farid, _soulever_ sa cruche est devenu aussi pénible qu'un _voyage de plusieurs centaines_ de kilomètres.
 
 <p style="text-align:center;">XXI</p>
 
@@ -217,7 +217,7 @@ Il file la laine, mais il veut porter de la soie.
 <p style="text-align:center;">XXIV</p>
 
 Farid, dans les rues il y a de la boue : la maison de mon cher ami que j'aime est loin ;
-Si je vais chez lui, je mouillerai ma couverture ; si je reste à la maison, notre amour sera rompu.
+Si je vais chez lui, je mouillerai ma _couverture_ ; si je reste à la maison, notre amour sera rompu.
 
 <p style="text-align:center;">XXV</p>
 
@@ -267,7 +267,7 @@ Nanak, c'est une épouse heureuse qui plaît à Dieu l'Insouciant.
 
 <p style="text-align:center;">XXXIII</p>
 
-Ceux qui se baignent, se lavent, se parent, puis dorment sans se soucier de leurs conjoints,
+Ceux qui se baignent, se lavent, se parent, puis dorment sans se soucier de _leurs conjoints_,
 Les Farid sont comme enduits d'asafoetida, et le parfum de leur musc s'en va.
 
 <p style="text-align:center;">XXXIV</p>
@@ -287,22 +287,22 @@ Farid, considère le corps dans lequel il n'y a pas d'amour comme un lieu de cr�
 
 <p style="text-align:center;">XXXVII</p>
 
-Farid, les plaisirs [^28] sont comme des pousses vénéneuses enduites de sucre ;
+Farid, les _plaisirs_ [^28] sont comme des pousses vénéneuses enduites de sucre ;
 Certains meurent en les plantant, d'autres sont ruinés en les récoltant. <span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 
 <p style="text-align:center;">XXXVIII</p>
 
-Farid, les hommes ont perdu les quatre veilles du jour dans l'errance et les quatre veilles de la nuit dans le sommeil ;
+Farid, les hommes ont perdu _les quatre veilles du jour_ dans l'errance et les quatre veilles de la nuit dans le sommeil ;
 Dieu te demandera des comptes et te demandera pourquoi tu es venu dans le monde.
 
 <p style="text-align:center;">XXXIX</p>
 
-Farid, quand tu es allé à la porte de la cour, n'as-tu pas vu le gong ?
+Farid, quand tu es allé à la porte de la cour, _n'as-tu_ pas vu le gong ?
 Lorsque cette chose sans péché sera ainsi battue, quelle sera la condition de nous, pécheurs ?
 
 <p style="text-align:center;">XL</p>
 
-Il est battu à chaque ghari et reçoit une punition complète à la fin de chaque veille ; [^29]
+Il est battu à chaque ghari et reçoit une punition _complète_ à la fin de chaque veille ; [^29]
 Ainsi le corps, tel un gong, traverse une nuit douloureuse.
 
 <p style="text-align:center;">XLI</p>
@@ -329,8 +329,8 @@ Quand ils seront tous partis, on saura qui sera puni.
 
 <p style="text-align:center;">XLV</p>
 
-Eux qui avaient des tambours, des trompettes, des parapluies sur la tête et des bardes pour chanter leurs louanges,
-Je suis allé dormir au cimetière et j'ai été enterré comme s'ils avaient été de pauvres orphelins.
+Eux qui avaient des tambours, des trompettes, des parapluies _sur la tête_ et des bardes pour chanter leurs louanges,
+Je suis allé dormir au cimetière et j'ai été enterré comme s'ils avaient été de _pauvres_ orphelins.
 
 <p style="text-align:center;">XLVI</p>
 
@@ -355,7 +355,7 @@ Le châtiment qu’ils reçoivent attend ceux qui font le mal.
 
 <p style="text-align:center;">L</p>
 
-Farid, les hommes portent des tapis de prière sur leurs épaules, portent une robe soufie[^33] et parlent doucement, mais il y a des couteaux dans leurs cœurs ; <span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
+Farid, les hommes portent des tapis de prière sur leurs épaules, portent une _robe_ soufie[^33] et parlent doucement, mais il y a des couteaux dans leurs cœurs ; <span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 Extérieurement, ils paraissent brillants, mais dans leur cœur règne une nuit noire.
 
 <p style="text-align:center;">LI</p>
@@ -369,14 +369,14 @@ Sur ce distique, Guru Amar Das a fait le commentaire suivant :
 
 Ce corps est tout sang ; le corps ne peut exister sans sang ;
 Mais le sang de la cupidité n’entre pas dans le corps qui est teint avec son Seigneur.
-Lorsque la crainte du Seigneur entre dans le cœur, le corps s’amincit et le sang de la cupidité s’en éloigne.
+Lorsque la crainte _du Seigneur_ entre dans le cœur, le corps s’amincit et le sang de la cupidité s’en éloigne.
 Comme les métaux sont purifiés par le feu, ainsi la crainte du Seigneur élimine la souillure des mauvaises inclinations.
 Nanak, cet homme est bel, il est teint de l'amour de Dieu.
 
 <p style="text-align:center;">LIII</p>
 
 Farid, cherche le lac [^34] où se trouve la Vraie Chose [^35] ;
-A quoi bon chercher dans un étang ? [^36] la main s'enfonce simplement dans la boue.
+A quoi bon chercher dans un étang ? [^36] la main s'enfonce _simplement_ dans la boue.
 
 <p style="text-align:center;">LIV</p>
 
@@ -476,7 +476,7 @@ Brûlez-le à la place du bois de chauffage sous le pot en terre.
 <p style="text-align:center;">LXXIII</p>
 
 Farid, où sont le père et la mère qui t'ont donné naissance ?
-Ils se sont éloignés de toi ; n'es-tu pas encore convaincu que le monde est instable ?
+Ils se sont éloignés de toi ; n'es-tu pas encore convaincu _que le monde est instable_ ?
 
 <p style="text-align:center;">LXXIV</p>
 
@@ -605,7 +605,7 @@ Farid, si tu mets de l'eau dans un récipient fragile, combien de temps restera-
 
 Farid, les lieux sont devenus vides et leurs occupants sont partis en bas ;
 Les tombes misérables prennent possession des âmes ; [^55]
-Ô Cheikh, dis au revoir à tes amis ; [^56] tu dois partir aujourd'hui ou demain.
+Ô Cheikh, dis au revoir _à tes amis_ ; [^56] tu dois partir aujourd'hui ou demain.
 
 <p style="text-align:center;">XCVIII</p>
 
@@ -714,7 +714,7 @@ Celle qu’on appelle une bonne épouse ne cherche jamais personne d’autre.
 <p style="text-align:center;">cxv</p>
 
 Fais de la patience ton arc, de la patience ta corde,
-Sois patient avec ta flèche, et le Créateur ne te permettra pas de rater ta cible.
+Sois patient avec ta flèche, et le Créateur _ne te permettra_ pas de rater ta cible.
 
 <p style="text-align:center;">CXVI</p>
 
@@ -756,7 +756,7 @@ Les couplets suivants ont été rédigés par Guru Amar Das : —
 
 <p style="text-align:center;">CXXII</p>
 
-La grue voyant le cygne [^65] nager conçut le désir de nager ;
+La grue voyant le cygne [^65] nager conçut le désir _de nager_ ;
 Mais la pauvre grue s'est noyée et son corps s'est retourné.
 
 <p style="text-align:center;">CXXIII</p>
@@ -839,11 +839,11 @@ Si tu désires le Bien-aimé, ne trouble le cœur de personne.
 
 [^5]: C'est ce que les disciples ont demandé au gourou.
 
-[^6] : Guides religieux.
+[^6]: Guides religieux.
 
 [^7]: C'est-à-dire le monde.
 
-[^8] : L'âme.
+[^8]: L'âme.
 
 [^9]: Le mariage signifie ici la mort.
 
@@ -853,7 +853,7 @@ Si tu désires le Bien-aimé, ne trouble le cœur de personne.
 
 [^12]: C’est-à-dire qu’il est difficile pour les gens du monde d’être saints.
 
-[^13] : Respirations.
+[^13]: Respirations.
 
 [^14]: Si j'avais su que Dieu, tel un jeune et innocent époux, ne m'appréciait pas, j'aurais été moins vaniteuse. Le verset est aussi traduit : « Si j'avais su que l'Époux était pour les humbles, j'aurais été moins fière. »
 
@@ -865,17 +865,17 @@ Si tu désires le Bien-aimé, ne trouble le cœur de personne.
 
 [^18]: C'est-à-dire servir Dieu.
 
-[^19] : Littéralement — augmenter d’un quart par jour.
+[^19]: Littéralement — augmenter d’un quart par jour.
 
 [^20]: Le gyanis se traduit par « Les légumes sont mûrs ». Autrement dit, le champ de la vie a donné sa moisson, et c'est l'heure de la mort.
 
 [^21]: C'est-à-dire que la jeunesse reviendra, et tu auras une autre occasion de profiter de ton Époux. _Rangan wela hoi_ se lit et se traduit également par : C'est le moment de profiter de Lui.
 
-[^22] : Utilisé pour assombrir les paupières. Ce slok fe aurait été écrit en voyant le crâne d'une belle courtisane qui reprochait à sa servante de lui toucher les yeux en appliquant du noir de fumée.
+[^22]: Utilisé pour assombrir les paupières. Ce slok fe aurait été écrit en voyant le crâne d'une belle courtisane qui reprochait à sa servante de lui toucher les yeux en appliquant du noir de fumée.
 
 [^23]: Également traduit : Quand les épines de la forêt cherchent à te repousser.
 
-[^24] : Une tribu généralement employée dans l'agriculture.
+[^24]: Une tribu généralement employée dans l'agriculture.
 
 [^25]: Une référence au gâteau en bois que Farid J portait sur son ventre pour satisfaire ses envies de faim.
 
@@ -893,19 +893,19 @@ Si tu désires le Bien-aimé, ne trouble le cœur de personne.
 
 [^32]: C'est-à-dire que la mort survient pendant que l'homme regarde.
 
-[^33] : Suph, également appelé kafni, un manteau rapiécé sans manches porté par les soufis musulmans. On suppose généralement que le mot « souf » vient du grec « sophia sagesse », mais en arabe, ce mot signifie laine. Les soufis portaient des vêtements en laine.
+[^33]: Suph, également appelé kafni, un manteau rapiécé sans manches porté par les soufis musulmans. On suppose généralement que le mot « souf » vient du grec « sophia sagesse », mais en arabe, ce mot signifie laine. Les soufis portaient des vêtements en laine.
 
 [^34]: La guilde des saints.
 
 [^35]: Le nom de Dieu.
 
-[^36] : En compagnie inférieure.
+[^36]: En compagnie inférieure.
 
 [^37]: L'âme qui a perdu ses chances de salut regrette de ne pouvoir retourner à nouveau dans un corps humain.
 
 [^38]: C'est-à-dire que les saints sont tombés dans la compagnie des méchants.
 
-[^39] : Une céréale indienne inférieure, le _Paspalum scrobiculatum_.
+[^39]: Une céréale indienne inférieure, le _Paspalum scrobiculatum_.
 
 [^40]: Les saints se portent mal parmi les pervers qui les importunent et les calomnient.
 
@@ -915,13 +915,13 @@ Si tu désires le Bien-aimé, ne trouble le cœur de personne.
 
 [^43]: Le lac signifie le monde
 
-[^44] : Hommes saints.
+[^44]: Hommes saints.
 
 [^45]: Ne bouge pas.
 
-[^46] : Le corps.
+[^46]: Le corps.
 
-[^47] : La corde par laquelle on descend la cruche d'eau dans le puits. Ici, elle désigne la vie.
+[^47]: La corde par laquelle on descend la cruche d'eau dans le puits. Ici, elle désigne la vie.
 
 [^48]: C'est-à-dire des âmes.
 
@@ -939,15 +939,15 @@ Si tu désires le Bien-aimé, ne trouble le cœur de personne.
 
 [^55]: Les musulmans croient que l'âme reste avec le corps jusqu'à ce que ses comptes soient rendus.
 
-[^56] : On peut aussi traduire par « adorer Dieu ». Certains disent que ce cantique était adressé à un disciple de Farid. Farid lui aurait conseillé d'adorer Dieu, car son séjour dans ce monde était incertain.
+[^56]: On peut aussi traduire par « adorer Dieu ». Certains disent que ce cantique était adressé à un disciple de Farid. Farid lui aurait conseillé d'adorer Dieu, car son séjour dans ce monde était incertain.
 
-[^57] : Littéralement, la frontière de la mort apparaît comme celle d'un fleuve destructeur. La mort fait autant de ravages dans le monde qu'un grand fleuve tropical pendant la saison des pluies dans les pays environnants.
+[^57]: Littéralement, la frontière de la mort apparaît comme celle d'un fleuve destructeur. La mort fait autant de ravages dans le monde qu'un grand fleuve tropical pendant la saison des pluies dans les pays environnants.
 
-[^58] : L'âme.
+[^58]: L'âme.
 
 [^59]: La mort frappe l'âme.
 
-[^60] : Ermites.
+[^60]: Ermites.
 
 [^61]: C'est-à-dire que la vieillesse arrive.
 

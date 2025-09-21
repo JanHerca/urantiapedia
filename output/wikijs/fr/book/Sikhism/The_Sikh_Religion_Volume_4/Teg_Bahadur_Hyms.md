@@ -32,6 +32,7 @@ dateCreated: 2025-2-12T22:31:21Z
   </table>
 </figure>
 
+
 <span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 
 ## HYMNES DE GURU TEG BAHADUR
@@ -41,7 +42,7 @@ dateCreated: 2025-2-12T22:31:21Z
 <p style="text-align:center;">GAURI</p>
 
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Ô bonnes gens, renoncez à votre orgueil mental,
 Jour et nuit, fuyez la luxure, la colère et la compagnie du mal.
@@ -52,7 +53,7 @@ Nanak, c'est un rôle difficile à jouer ; seuls quelques hommes pieux savent co
 
 <p style="text-align:center;">II</p>
 
-Ô bon peuple, Dieu a ainsi fait la création —
+Ô bon peuple, Dieu a _ainsi_ fait la création —
 Certains périssent, d’autres pensent qu’ils vivront éternellement ; c’est une chose merveilleuse et incompréhensible.
 Le mortel est sous le pouvoir de la luxure, de la colère et de l’amour mondain, et a oublié Dieu.
 Le corps qui, comme un rêve nocturne, est irréel, l'homme le considère comme réel.[^2]
@@ -62,7 +63,7 @@ Nanak, ceux qui savent que le monde est irréel demeureront sous la protection d
 <p style="text-align:center;">III</p>
 
 La louange de Dieu n’entre pas dans le cœur de l’homme ;
-Jour et nuit, il reste absorbé par Mammon ; dites-moi comment il chantera les louanges de Dieu. <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
+Jour et nuit, il reste absorbé par Mammon ; dites-moi comment il chantera les louanges _de Dieu_. <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 De cette façon, il se lie à ses enfants, à ses amis, à Mammon et à son égoïsme.
 Ce monde est faux comme un mirage, et pourtant l'homme, en le voyant, court après lui.
 Le Seigneur, la Cause du bonheur dans ce monde et dans l’autre, est oublié par l’insensé.
@@ -74,7 +75,7 @@ Nanak, parmi des millions, rares sont ceux qui trouvent le moyen d'adorer Dieu.
 Il est inconstant, la cupidité demeure avec lui, c'est pourquoi il ne peut être maintenu stable :
 En elle réside une rage violente qui fait oublier toute sagesse,
 Et qui a volé le joyau de la connaissance divine à tous les hommes : rien ne peut lui résister.
-Tous les efforts des Jogis et les chantres des louanges de Dieu n'ont pas réussi à stabiliser leur esprit.
+Tous les efforts des Jogis et les chantres des louanges de Dieu n'ont pas réussi à stabiliser _leur mentals_.
 Nanak, quand Dieu est miséricordieux, tout réussit.
 
 <p style="text-align:center;">V</p>
@@ -112,8 +113,8 @@ Nanak, admets qu'un tel mortel est sauvé.
 Ne sais-tu pas que la vie diminue jour et nuit, et que tu es dégradé par l’avarice ?
 Dans le corps, la belle maison et la femme que tu considères comme les tiens,
 Tu n’as aucune part ; vois et réfléchis attentivement à cela.
-Tu as perdu le joyau de la vie humaine, et tu ne connais pas la voie de Dieu ;
-Tu n’as pas été absorbé dans les pieds du Seigneur même un seul instant, et tu as passé ta vie en vain.
+Tu as perdu le joyau de la vie _humaine_, et tu ne connais pas la voie de Dieu ;
+Tu n’as pas été absorbé dans les pieds du _Seigneur_ même un seul instant, et tu as passé ta vie en vain.
 Dit Nanak, heureux est l'homme qui chante le nom et les louanges de Dieu ;
 Mammon a ensorcelé tous les autres hommes ; ils n’atteindront pas la dignité intrépide.
 
@@ -139,7 +140,7 @@ Nanak, pourquoi ne chantes-tu pas les louanges de Dieu afin que tes mauvais penc
 
 <p style="text-align:center;">DEVGANDHARI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 L’homme n’obéit pas une seule seconde à mes ordres.
 Je l'ai instruit, et il ne s'abstient pas de la méchanceté ;
@@ -169,21 +170,21 @@ Nanak, si l'homme chante les louanges de Dieu, il traversera le terrible océan.
 <p style="text-align:center;">BIHAGRA</p>
 
 Personne ne connaît les voies de Dieu ;
-Les jogis, les jatis, les pénitents et plusieurs sages se sont lassés de penser à Lui ;
+Les jogis, les jatis, les pénitents et plusieurs sages se sont lassés _de penser_ à Lui ;
 Il peut en un instant faire d’un mendiant un roi, ou d’un roi un mendiant ;
 Ce qui est vide, il le remplit, et ce qui est plein, il le vide ; c'est là une pratique de Dieu ;
 Il a répandu sa propre illusion, et il la voit lui-même ;
-Il prend de nombreuses formes et pratique de nombreux sports, mais il est distinct de tout. <span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
+Il prend de nombreuses formes et _pratique_ de nombreux sports, mais il est distinct de tout. <span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 Incomputable, illimité, invisible et sans tache est Celui qui a perturbé l'esprit de tous les hommes.
 _Saith_ Nanak, ô mortel, laisse de côté tout doute et pense aux pieds de Dieu.
 
 <p style="text-align:center;">SORATH</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Ô homme, aime Dieu ;
 Écoute ses louanges avec tes oreilles, et chante ses cantiques avec ta langue.
-Fréquentez les saints hommes, souvenez-vous de Dieu et vous serez purifié du péché. |
+Fréquentez les saints hommes, souvenez-vous de Dieu et vous serez purifié du péché.
 La mort erre, ô ami, comme un serpent aux crocs proéminents,
 Et cela te saisira tôt ou tard ; comprends cela dans ton cœur.
 Dit Nanak, adore Dieu ; ton opportunité est en train de passer.
@@ -204,7 +205,7 @@ Tu as trouvé du plaisir dans les femmes d'autrui et dans la calomnie, et tu n'a
 Tu n'as pas connu le chemin de la délivrance, mais tu t'es empressé d'amasser des richesses. <span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 Enfin, plus rien ne t'accompagnera ; c'est en vain que tu t'es empêtré.
 Tu n'as pas adoré Dieu, tu n'as pas servi les saints, et aucune connaissance divine n'a germé dans ton cœur.
-Dieu est dans ton cœur, et pourtant tu le cherches dans le désert ;
+Dieu est dans ton cœur, _et_ pourtant tu le cherches dans le désert ;
 Tu es las d'errer dans de nombreuses naissances, et tu n'as pas acquis un esprit stable ;
 Ayant maintenant acquis un corps humain, adore les pieds de Dieu ; Nanak te donne ce conseil.
 
@@ -227,7 +228,7 @@ Dites quelle science _doit-il étudier_, et ensuite quels actes et cérémonies 
 Quel est ce grand nom, dont le souvenir permet à l'homme de traverser le redoutable océan ?
 Dans l'âge Kal, il y a un Nom, celui de l'Océan de miséricorde, en répétant lequel l'homme peut obtenir la délivrance ;
 Il n'existe aucune autre cérémonie religieuse équivalente à celle-ci, comme le montrent les écrits sacrés. <span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
-Celui qui est appelé le Seigneur de la terre, reste toujours libre de la joie et de la tristesse, non contaminé par le monde,
+Celui qui est appelé le Seigneur de la terre, reste toujours libre de la joie et de la tristesse, non contaminé _par le monde_,
 Et sans en être affecté, ô Nanak, comme un miroir ; Il demeure en toi.
 
 <p style="text-align:center;">VI</p>
@@ -237,7 +238,7 @@ Dans l’obscurité du grand amour mondain et de l’ignorance spirituelle, mon 
 J'ai perdu toute ma vie dans l'errance, et je n'ai pas obtenu un esprit stable ;
 J’ai poursuivi jour et nuit des plaisirs coupables, et je n’ai pas abandonné mes mauvaises habitudes.
 Je n’ai jamais fréquenté de saints ni chanté les louanges de Dieu.
-Nanak, il n'y a en moi aucune vertu ; prends-moi, ô Dieu, sous ta protection.
+Nanak, il n'y a en moi aucune vertu ; prends-moi, _ô Dieu_, sous ta protection.
 
 <p style="text-align:center;">VII</p>
 
@@ -246,7 +247,7 @@ Nuit et jour, il poursuit les plaisirs coupables ; comment le contenir ?
 Bien que j'aie entendu les enseignements des Veds, des Purans et des Simritis, je ne leur ai pas accordé une place dans mon cœur un seul instant ;
 J'ai convoité les biens d'autrui et les femmes d'autrui, et j'ai passé ma vie en vain ;
 Je suis devenu fou à cause de l'ivresse de Mammon, et je ne connais aucune connaissance divine ;
-Le Pur habite dans mon cœur, mais je ne connais pas Son VOIR.
+Le Pur habite dans mon cœur, _mais_ je ne connais pas Son VOIR.
 Depuis que je suis entré dans l'asile des Saints,[^5] mes mauvaises pensées se sont toutes dispersées.
 Nanak, quand j'ai pensé à Celui qui comble les désirs, le nœud de la mort a été coupé.
 
@@ -256,7 +257,7 @@ Nanak, quand j'ai pensé à Celui qui comble les désirs, le nœud de la mort a 
 Comme un mur de sable, même construit avec soin, ne dure pas quatre jours,
 Ainsi en est-il du plaisir de Mammon ; pourquoi t'y empêtres-tu, ô homme ignorant ?
 Reviens à la raison aujourd'hui même ; aucun mal n'a encore été fait ; répète le nom de Dieu.
-Nanak dit : « Je t'ai proclamé, ô homme, l'enseignement spécial des saints hommes. »
+Nanak dit : « Je t'ai proclamé, _ô homme_, l'enseignement spécial des saints hommes. »
 
 <p style="text-align:center;">IX</p>
 
@@ -278,7 +279,7 @@ Tu as rempli ton ventre par tromperie, et tu as dormi comme une bête ;
 Tu ne sais pas adorer Dieu, et tu t'es vendu à Mammon.
 Ô fou, tu es resté empêtré dans le péché, et tu as oublié le joyau du Nom ;
 Tu as été insouciant, tu n'as pas pensé à Dieu, tu as passé ta vie en vain. <span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
-Dit Nanak, ô Dieu, reconnais ta pratique quotidienne du pardon ; le mortel erre toujours.
+Dit Nanak, ô Dieu, reconnais ta pratique quotidienne _du pardon_ ; le mortel erre toujours.
 
 <p style="text-align:center;">XI</p>
 
@@ -294,7 +295,7 @@ Et tu seras mélangé à Dieu, ô Nanak, comme l'eau avec l'eau.
 <p style="text-align:center;">XII</p>
 
 Mes chers amis, sachez ceci dans vos cœurs :
-Le monde entier est empêtré dans ses propres plaisirs ; personne n’est l’ami de personne.
+Le monde entier est empêtré dans ses propres plaisirs ; personne n’est _l’ami_ de personne.
 Dans la prospérité, de nombreuses personnes viennent s'asseoir ensemble près de l'un d'eux, l'entourant de tous côtés ;
 Quand l’adversité lui arrive, tous l’abandonnent et personne ne s’approche de lui.
 L'épouse de son foyer qui a été tendrement aimée et qui a toujours été attachée à son mari,
@@ -304,13 +305,13 @@ Au dernier moment, Nanak, seul Dieu peut nous aider.
 
 <p style="text-align:center;">DHANASARI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Ô Seigneur, pourquoi vas-tu chercher dans la forêt ?
 Dieu, bien que toujours à part, demeure partout et est contenu même en toi. <span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 Comme dans les fleurs il y a une odeur et dans un miroir il y a un reflet,
 Ainsi Dieu demeure continuellement dans ton cœur ; cherche-le là, ô frère.
-Que tu sois à l'étranger ou chez toi, sache qu'il n'y a qu'un seul Dieu ; cette connaissance, le Guru m'a donnée.
+_Que tu sois_ à l'étranger ou chez toi, sache qu'il n'y a qu'un seul Dieu ; cette connaissance, le Guru m'a donnée.
 Nanak, sans te connaître toi-même, l'écume du doute ne sera pas enlevée.
 
 <p style="text-align:center;">II</p>
@@ -338,11 +339,11 @@ Que mon anxiété mentale puisse prendre fin et traverser le terrible océan ?
 Je n'ai rien fait de bien depuis ma naissance, c'est pourquoi je crains davantage ; <span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 Je n’ai pas chanté les louanges de Dieu en pensées, en paroles ou en actes ; dans mon cœur, je me sens anxieux à ce sujet ;
 Bien que j'aie entendu l'instruction du Guru, aucune connaissance spirituelle n'en a résulté ; je remplis mon ventre comme une bête — |
-Nanak dit : « Ô Dieu, adopte ta pratique quotidienne du pardon, et moi, pécheur, je serai sauvé. »
+Nanak dit : « Ô Dieu, adopte ta pratique quotidienne _du pardon_, et moi, pécheur, je serai sauvé. »
 
 <p style="text-align:center;">JAITSARI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Mon esprit errant s’est empêtré dans Mammon ;
 Plus j'accomplissais d'œuvres en étant avide d'avarice, plus je m'empêtrais ;
@@ -381,7 +382,7 @@ Nanak dit : « Je n’ai désormais de salut que dans la protection de Dieu. »
 
 <p style="text-align:center;">TILANG</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Ô mortel, si tu as de la sagesse, pense alors à Dieu nuit et jour ;
 À chaque instant, la vie s’écoule comme l’eau d’un récipient fissuré.
@@ -412,7 +413,7 @@ Nanak proclame haut et fort : recherchez la protection de Dieu.
 
 <p style="text-align:center;">BILAWAL</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Reconnaissez le nom de Dieu comme celui qui dissipe la tristesse :
 Sache dans ton cœur qu’en se souvenant de Lui, Ajamal et la courtisane furent sauvés ;
@@ -443,7 +444,7 @@ Dit Nanak, c'est un grand homme qui chante les louanges de Dieu.
 
 <p style="text-align:center;">RAMKALI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Ô mon âme, prends refuge au nom de Dieu ;
 En s'en souvenant, les mauvaises pensées sont dissipées et le rang de nirvan est obtenu.
@@ -472,13 +473,13 @@ Il perdra toute peur de la mort et réformera sa vie.
 Tu as perdu ta jeunesse dans les plaisirs sensuels et ton enfance dans l’ignorance ;
 Tu as vieilli et même maintenant tu ne comprends pas dans quelle folie tu es empêtré.
 Pourquoi as-tu oublié Dieu qui t’a donné la naissance humaine ?
-Tu n’as pas chanté un seul instant les louanges de Celui en te souvenant de qui l’homme obtient le salut.
+Tu n’as pas chanté un seul instant _les louanges_ de Celui en te souvenant de qui l’homme obtient le salut.
 Pourquoi es-tu fier de la richesse terrestre ? Elle ne partira avec personne.
 Nanak dit : « Pensez à Celui qui comble les désirs ; Il sera notre aide à la fin. »
 
 <p style="text-align:center;">MARU</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Le nom de Dieu apporte toujours du réconfort ; en s'en souvenant, Ajamal fut sauvé, et la courtisane obtint également la délivrance ;
 Panchali[^7] lors de l'assemblée royale se souvenait du nom de Dieu ; <span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
@@ -506,11 +507,11 @@ La vie n'est profitable, Nanak, que lorsque nous sommes absorbés dans les louan
 
 <p style="text-align:center;">BASANT</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Ô bonnes gens, sachez que ce corps est temporaire ;
 Le Dieu qui habite en elle est reconnu comme permanent.
-Ce monde est comme une richesse obtenue dans un rêve ; pourquoi s’exalter en la contemplant ?
+Ce monde est comme une richesse _obtenue dans_ un rêve ; pourquoi s’exalter en la contemplant ?
 Pourquoi t'y attache-tu ? Rien ne t'échappera.
 Renoncez à la flatterie et à la calomnie ; prenez les louanges de Dieu dans votre cœur.
 Nanak, le Dieu unique remplit toutes choses.
@@ -523,7 +524,7 @@ Ce filet de convoitise est jeté
 Sur Jogis, Jangams et Sanyasis.
 Ceux qui se souviennent du nom de Dieu
 Traversez le terrible océan.
-L'esclave Nanak a pris refuge en Dieu ;
+L'esclave Nanak _a pri_s refuge en Dieu ;
 Accorde-moi ton nom, _ô Dieu_, afin que je puisse continuer à chanter tes louanges.
 
 <p style="text-align:center;">III</p>
@@ -561,7 +562,7 @@ Dit Nanak, qui t'aidera au dernier moment.
 
 <p style="text-align:center;">SARANG</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Tu n’as d’autre secours que Dieu ;
 Qui a une mère, un père, un fils ou une femme ? Qui a un frère ?
@@ -603,7 +604,7 @@ Dit Nanak, en moi il y a tous les démérites ; protège-moi, ô Dieu, je suis v
 
 <p style="text-align:center;">JAIJAWANTI</p>[^12]
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Souviens-toi de Dieu, souviens-toi de Dieu, c'est ton devoir ;
 Abandonnez la compagnie de l’amour mondain ; accrochez-vous au sanctuaire de Dieu ; admettez que les plaisirs du monde sont faux ; tout est irréel.
@@ -630,6 +631,9 @@ Ta vie passera, passera en vain dans un Bien que tu entendes nuit et jour les hi
 Ce corps que tu crois permanent deviendra poussière ; pourquoi ne répètes-tu pas le nom de Dieu, toi, insensé et éhonté ?
 Introduisez le service de Dieu dans votre cœur ; renoncez à l’orgueil mental, ainsi vous serez, affirme Nanak, illustre dans le monde.
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -653,6 +657,7 @@ Introduisez le service de Dieu dans votre cœur ; renoncez à l’orgueil mental
     </tbody>
   </table>
 </figure>
+
 
 ## Remarques
 

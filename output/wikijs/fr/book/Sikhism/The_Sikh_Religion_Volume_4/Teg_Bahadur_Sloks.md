@@ -31,7 +31,7 @@ dateCreated: 2025-2-12T22:31:21Z
 
 ## SLOKS DE GURU TEG BAHADUR
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Celui qui ne chante pas les louanges de Dieu rend sa vie inutile ;
 Dit Nanak, adore Dieu, ô mon âme, comme le poisson aime l'eau.
@@ -70,7 +70,7 @@ Nanak dit : « Ô fou, pourquoi trembles-tu si abjectement ? »
 <p style="text-align:center;">VIII</p>
 
 Dit Nanak, écoute ô homme, pourquoi ne te souviens-tu pas de Dieu
-Qui t'a donné un corps humain, une femme, des richesses, de la prospérité et des demeures confortables ?
+Qui t'a donné un corps _humain_, une femme, des richesses, de la prospérité et des demeures confortables ?
 
 <p style="text-align:center;">IX</p>
 
@@ -100,7 +100,7 @@ Qui n’est pas affecté par le bien ou le malheur, par la convoitise, l’amour
 <p style="text-align:center;">XIV</p>
 
 Dit Nanak, écoute, ô homme, sache qu'il est sauvé
-Qui ne prononce ni louange ni blâme, et pour qui l'or et le fer sont la même chose.
+Qui ne _prononce_ ni louange ni blâme, et pour qui l'or et le fer sont la même chose.
 
 <span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
@@ -194,7 +194,7 @@ Dit Nanak, sans adorer Dieu, le nœud de la mort tombera sur l'homme.
 <p style="text-align:center;">XXXII</p>
 
 L’homme trouvera de nombreux compagnons dans le bonheur, mais aucun dans le malheur ;
-Dit Nanak, adore Dieu, ô homme, et Il t'aidera au dernier moment.
+Dit Nanak, adore Dieu, ô homme, et Il t'aidera au dernier _moment_.
 
 <p style="text-align:center;">XXXIII</p>
 
@@ -329,7 +329,7 @@ IMPRIMÉ À OXFORD À LA CLARENDON PRESS PAR HORACE HART, MA IMPRIMEUR DE L'UNIV
 
 ## Remarques
 
-[^1] : _Ar_ dans l'original. « Le mot, cependant, signifie généralement « et ».
+[^1]: _Ar_ dans l'original. « Le mot, cependant, signifie généralement « et ».
 
 [^2]: C'est-à-dire que les hommes naissent et meurent comme des bulles.
 

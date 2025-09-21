@@ -53,7 +53,7 @@ Bien que la naissance de Rav Das soit basse, il est un candidat à la faveur de 
 
 <p style="text-align:center;">GAURI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Mes associations sont faibles — j’y pense jour et nuit —
 Ma naissance est méchante, mes actes sont tordus.
@@ -95,7 +95,7 @@ Je suis un marchand de Dieu et je fais commerce de la connaissance divine.
 La richesse que j'ai chargée est le nom de Dieu ; le monde a chargé du poison. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 Vous, anges enregistreurs, qui connaissez ce monde et l'autre, écrivez toutes les bêtises que vous voulez à mon sujet, je m'en fiche ;
 Le gourdin de la mort ne m'atteindra pas puisque j'ai rejeté tous les enchevêtrements.
-Ce monde est comme la couleur fugace du carthame,
+Ce monde est comme la couleur _fugace_ du carthame,
 _Mais_ la couleur de mon Dieu est la teinture _permanente_ de la garance, dit le tanneur Rav Das.
 
 Rav Das prie pour la faveur divine.
@@ -138,10 +138,10 @@ L'homme est soumis aux cinq sens et aux passions qui les accompagnent, et non à
 
 <p style="text-align:center;">ASA</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Le cerf, le poisson, le bourdon, le papillon de nuit et l’éléphant périssent chacun pour un sens ;
-Quel espoir y a-t-il donc pour celui qui, comme l'homme, a cinq ennemis implacables ? <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
+Quel espoir y a-t-il donc pour celui qui, _comme l'homme_, a cinq ennemis implacables ? <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 Ô Dieu, l’homme aime l’ignorance ;
 Sa lampe de discernement s’est affaiblie.
 Les insouciants renaissent comme des créatures rampantes qui ne font pas de distinction entre le bien et le mal ;
@@ -218,7 +218,7 @@ Le but de l'hymne suivant est de montrer que rien de ce qui est offert à Dieu p
 
 <p style="text-align:center;">GUJARI</p>
 
-Le veau a souillé le lait du pis de la vache en y goûtant ;
+Le veau a souillé le lait du pis de la vache _en y goûtant_ ;
 Le bourdon a gâché les fleurs et les poissons l'eau.
 Ma mère, où trouverai-je quelque chose à offrir au culte de Dieu ?
 Je ne trouve pas d'autres fleuristes supérieurs à ceux-ci.
@@ -227,13 +227,13 @@ Le poison et l’ambroisie vivent ensemble ;
 L'encens, les lampes et le pain consacré sont pollués. [^23]
 Comment ton esclave accomplira-t-il ton culte ?
 Laissez-moi consacrer et offrir mon corps et mon âme en guise d'adoration,
-Ainsi, par la grâce du gourou, je trouverai le Pur. Je ne peux pas accomplir ton adoration et ton culte selon les rites hindous ; dit Rav Das, dans quelle situation suis-je ? [^24]
+Ainsi, par la grâce du gourou, je trouverai le Pur. Je ne peux pas accomplir ton adoration et ton culte _selon les rites hindous_ ; dit Rav Das, dans quelle situation suis-je ? [^24]
 
 Rav Das conclut que tout est Dieu.
 
 <p style="text-align:center;">SORATH</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Quand il y avait de l’égoïsme en moi, Tu n’étais pas avec moi ; maintenant que Tu es avec moi, il n’y a plus d’égoïsme.
 D'énormes vagues sont soulevées par le vent dans l'océan, mais elles ne sont que de l'eau dans l'eau. [^25]
@@ -241,7 +241,7 @@ D'énormes vagues sont soulevées par le vent dans l'océan, mais elles ne sont 
 Un roi dort sur son trône ; dans un rêve, il devient un mendiant ;
 Il souffre de perdre son empire, bien qu'il soit intact : telle a été ma condition.
 Comme pour l'histoire de la corde et du serpent, on m'a maintenant expliqué le secret [^26].
-En voyant plusieurs [^27] bracelets, j'ai supposé à tort qu'ils étaient distincts de l'or ; mais ce que j'ai dit alors, je ne le dis plus maintenant.
+En _voyant_ plusieurs [^27] bracelets, j'ai supposé à tort _qu'ils étaient distincts de l'or_ ; mais ce que j'ai dit alors, je ne le dis plus maintenant.
 En toutes choses, le seul Seigneur assume des formes diverses ; Dieu se manifeste dans tous les cœurs. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 Rav Das dit : Dieu est plus proche de nous que nos mains et nos pieds ; c'est ce qui arrive par Sa volonté qui arrive.
 
@@ -252,7 +252,7 @@ Rav Das aime tellement Dieu qu’il estime avoir droit à sa miséricorde.
 Quand tu nous as liés d’un nœud coulant d’illusion, nous t’avons lié d’un lien d’amour ;
 Essaie de te libérer ; nous avons été libérés en t'adorant.
 Ô Dieu, tu sais ce que nous ressentons envers toi ;
-Maintenant, que veux-tu faire de nous, étant donné notre amour pour toi ?
+Maintenant, que veux-tu faire de nous, _étant donné notre amour pour toi_ ?
 L'homme attrape un poisson, le tranche, le découpe et le cuisine de diverses manières ;
 Il le mord et le mange, mais il n'oublie pas l'eau. [^28]
 Le Souverain Suprême n'est l'héritage d'aucun homme ; Il appartient à celui qui L'aime.
@@ -264,10 +264,10 @@ Rav Das, en faisant une introspection, se retrouve dans une situation délicate.
 
 <p style="text-align:center;">III</p>
 
-J'ai obtenu cette naissance difficile à atteindre comme récompense du mérite, mais elle passe en vain à cause de mon manque de discernement.
+J'ai obtenu cette naissance difficile à atteindre comme récompense du mérite, mais elle passe en vain _à cause de mon_ manque de discernement.
 Dites, à quoi serviraient un palais et un trône comme ceux du roi Indar sans dévotion à Dieu ?
 Je n’ai pas pensé au plaisir que procure le nom du Dieu suprême, un plaisir dans lequel tous les autres plaisirs sont oubliés.
-Ce que nous aurions dû savoir, nous ne le savions pas ; nous sommes devenus fous et n'avons pas considéré ce que nous aurions dû considérer, et ainsi nos jours sont passés.
+Ce que nous aurions dû savoir, nous ne le savions pas ; nous <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> sommes devenus fous et n'avons pas considéré ce que nous aurions dû considérer, et ainsi nos jours sont passés.
 Nos passions sont fortes et notre discernement faible ; notre intelligence ne peut entrer dans les desseins de Dieu.
 Nous disons une chose et nous en faisons une autre ; l’amour du monde nous empêche de comprendre.
 Rav Das dit : Moi, ton esclave, j'ai le cœur triste ;
@@ -284,7 +284,7 @@ Et abandonner tout autre procédé de mots ?
 Les poèmes épiques, les Purans, les Veds de Brahma, sont tous composés de trente-quatre lettres. [^29]
 Bias, après avoir réfléchi, exprima sa conviction qu'il n'y avait rien d'égal au nom de Dieu.
 Bien heureux sont ceux qui contemplent et fixent tranquillement leur attention sur Dieu ; ils seront ensuite délivrés de leurs ennuis.
-Rav Das dit que la peur de la mort et de la naissance fuit celui qui a mis la lumière de la connaissance divine dans son cœur.
+Rav Das dit que la peur de la mort et de la naissance fuit celui qui a mis la lumière de la _connaissance divine_ dans son cœur.
 
 La relation du saint à Dieu.
 
@@ -310,7 +310,7 @@ L’homme est trop fier de son corps bien que son origine et sa fin soient mépr
 _Le corps_ est un mur d'eau soutenu par une colonne d'air ; le sang [^31] et le sperme en sont le mortier.
 La pauvre âme habite dans un squelette d’os, de chair et de veines ;
 Ô mortel, qu'est-ce qui est à moi et qu'est-ce qui est à toi ?
-Comme un oiseau se perche sur un arbre, ainsi l'âme se perche sur le corps.
+Comme un oiseau se perche sur un arbre, _ainsi l'âme se perche sur le corps_.
 Tu poses les fondements et tu te bâtis une maison ;
 Trois coudées et demie seront ta mesure à la fin
 Tu frises tes cheveux, et tu portes ton turban sur le côté de ta tête ;
@@ -337,7 +337,7 @@ La dévotion et l'espoir de Rav Das en Dieu.
 
 <p style="text-align:center;">DHANASARI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Il n’y a personne d’aussi pauvre que moi, personne d’aussi compatissant que toi ; pour cela, quelle autre épreuve est maintenant nécessaire ?
 Que mon cœur obéisse à tes paroles ! Remplis-en ton serviteur.
@@ -370,9 +370,9 @@ Ton nom est le safran que j'asperge pour toi ;
 Ton nom est l'eau, ton nom le santal, la répétition de ton nom son râpage ; [^35] la prenant, je te l'offre ;
 Ton nom est la lampe, ton nom est la mèche, ton nom est l'huile que j'y verse ;
 Ton nom est la lumière que je lui ai appliquée, et qui a illuminé le monde entier ;
-Ton nom est le cordon, Ton nom le collier de fleurs ; les dix-huit charges de légumes sont trop impures [^36] pour te les offrir.
+Ton nom est le cordon, Ton nom le collier de fleurs ; les dix-huit charges de _légumes_ sont trop impures [^36] pour _te les offrir_.
 Pourquoi t'offrirais-je l'œuvre de tes mains ? Ton nom est le chauri que j'agite sur toi.
-Le monde entier est absorbé par les dix-huit Purans, les soixante-huit lieux de pèlerinage et les quatre sources de vie.
+Le monde entier est absorbé par les dix-huit _Purans_, les soixante-huit _lieux de pèlerinage_ et les quatre sources de vie.
 Rav Das dit : Ton nom est l'Arati ; le vrai Nom est la nourriture que je T'offre, ô Dieu. [^37]
 
 Dieu seul peut sauver l’homme de ses mauvaises passions.
@@ -387,21 +387,21 @@ J'ai à chaque instant dressé une barrière entre toi et moi.
 Où que je regarde, je suis confronté à une multitude de problèmes. <span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 Je ne suis pas encore satisfait, bien que les Veds témoignent de Dieu.
 _Quant à son péché, sur le corps d'Indar_, l'amant de la femme d'Ahalya Gautam, mille vagins se formèrent ;
-Comme la tête de Brahma adhéra à la main de Shiv, le seigneur d'Uma [^38] pour son péché,
+Comme la tête de _Brahma_ adhéra à la _main de Shiv_, le seigneur d'Uma [^38] _pour son péché_,
 Ainsi, ces méchants ennemis, _les péchés capitaux_, m'ont lié et battu _moi aussi, pécheur_.
 Je suis très effronté et je ne me suis pas encore lassé de leur compagnie.
-Rav Das dit : « Où dois-je aller ? Que dois-je faire ? »
+Rav Das dit : « _Où dois-je aller_ ? Que dois-je faire ? »
 Hormis la protection de Dieu, de qui devrais-je chercher ?
 
 La sainte et la pécheresse sous les allégories d'une bonne et d'une mauvaise épouse contrastées.
 
 <p style="text-align:center;">SUHI</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 La bonne épouse connaît la valeur de son époux ;
 Elle renonce à l’orgueil et jouit du bonheur conjugal ;
-Elle donne à son mari son corps et son âme, et ne fait aucune distinction entre lui et elle-même ;
+Elle donne à son mari son corps et son âme, et ne fait aucune distinction _entre lui et elle-même_ ;
 Elle ne voit personne d’autre, n’entend personne d’autre, et ne parle à personne d’autre.
 Comment pourrait-elle, elle dont le cœur n'a pas été marqué par la tristesse,
 Connaissez-vous les malheurs des autres ?
@@ -409,7 +409,7 @@ La mauvaise épouse [^39] qui n'a pas servi son époux continuellement
 Est malheureux et perd les deux mondes —
 Le chemin par le pont de Sirat [^40] est difficile —
 Elle n’aura pas de compagnon et devra partir seule.
-C'est dans la douleur et le chagrin, ô Dieu, que je suis venu à ta porte ; j'ai très soif, et je n'ai reçu aucune réponse de toi.
+C'est dans la douleur et le chagrin, ô Dieu, que je suis venu à ta porte ; j'ai très soif, et je n'ai reçu aucune réponse _de toi_.
 Rav Das dit : « Je suis venu sous ta protection ; accomplis mon salut comme tu le juges bon. »
 
 <span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
@@ -422,8 +422,8 @@ Les jours qui viennent passent à nouveau ;
 Il faut marcher, rien n'est stable.
 Nos compagnons s'en vont, nous devons aussi y aller ;
 Le voyage est long ; la mort se tient au-dessus de nous.
-Pourquoi dors-tu ? Réveille-toi pour le service de Dieu, ô insensé ;
-Tu pensais que la vie était une chose réelle dans ce monde, alors que tu aurais dû penser à Dieu,
+Pourquoi dors-tu ? Réveille-toi pour _le service de Dieu_, ô insensé ;
+Tu pensais que la vie était une chose réelle dans ce monde, _alors que tu aurais dû penser à Dieu_,
 Celui qui t'a donné la vie te donne la subsistance,
 Et dans chaque cœur s'ouvre une boutique. [^41]
 Adorez Dieu, mettez de côté l’égoïsme ;
@@ -454,13 +454,13 @@ La grâce de Dieu est sans égale.
 
 <p style="text-align:center;">BILAWAL</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Tout le monde riait en voyant ma pauvreté, telle était ma condition ;
-Mais je tiens dans la paume de ma main, par Ta faveur, la totalité des dix-huit pouvoirs surnaturels.
+Mais je _tiens_ dans la paume de ma main, par Ta faveur, la totalité des dix-huit pouvoirs surnaturels.
 Tu sais que je ne suis rien, ô Dieu, Destructeur de la peur ;
 Tous les hommes ont recherché ta protection, ô Dieu, qui comble les désirs ;
-Ceux qui ont recherché Ta protection ne portent plus le fardeau du péché.
+Ceux qui ont recherché Ta protection ne portent plus le fardeau _du péché_.
 Grands et petits ont été délivrés du monde sans honte [^42] par toi.
 Dit Rav Das, pourquoi en dire plus sur l'Ineffable ?
 Toi, ô Dieu, tu es ton propre parallèle ; à quoi puis-je te comparer ?
@@ -473,22 +473,22 @@ La famille dans laquelle naît un saint de Dieu,
 Qu'il soit de haute ou de basse caste, pauvre ou riche, sa renommée sans mélange sera répandue dans le monde entier.
 Que l'homme soit un Brahman, un Vaisya, un Sudar, un Khatri, un Dum, un Chandal ou un Malechh,
 Il devient pur en adorant Dieu ; il se sauve lui-même et les familles de ses deux parents.
-Que soit béni le village, que soit béni le lieu de sa naissance, que soit bénie sa pure famille dans tous les mondes !
+Que soit béni le village, que soit béni le lieu _de sa naissance_, que soit bénie sa pure famille dans tous les mondes !
 Il a bu l'essence suprême ; abandonnant toutes les autres, il s'en est enivré et a renoncé au péché.
 Parmi les pandits, les héros et les papetiers, nul n'égale le saint. <span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
-43Comme les feuilles du nénuphar [^43] dans l'eau, dit Rav Das, est l'existence du saint dans le monde ; il reste intact.
+43Comme les feuilles du nénuphar [^43] dans l'eau, dit Rav Das, est l'existence du saint dans le monde ; _il reste intact_.
 
 Dieu comme dispensateur du salut.
 
 <p style="text-align:center;">GAUND</p>
 
-<p style="text-align:center;">Je</p>
+<p style="text-align:center;">I</p>
 
 Répétez le nom de Dieu, le Dispensateur du salut, vous, peuple.
 Sans le Dispensateur du salut, le corps se fatigue _dans la transmigration_.
 Le dispensateur du salut est le donateur de la délivrance ;
 Le dispensateur du salut est notre père et notre mère.
-En vivant, répétez Son nom, en mourant, répétez Son nom ;
+En vivant, _répétez_ Son nom, en _mourant_, _répétez_ Son _nom_ ;
 Son adorateur est toujours heureux —
 Le Dispensateur du salut est ma vie.
 Si cela a été ainsi inscrit sur ton front, tu répéteras Son nom.
@@ -496,12 +496,12 @@ Seul celui qui a cessé d’aimer le monde peut servir Dieu.
 Ce dispensateur du salut, moi, pauvre _bien que je sois_, je l'ai obtenu comme richesse.
 Si le seul Dispensateur du salut me rendait service,
 Que peut me faire le monde ?
-Ayant effacé ma caste, je suis devenu un courtisan de Dieu.
+Ayant effacé ma caste, je suis devenu un courtisan _de Dieu_.
 Toi, ô Dieu, tu es capable de sauver le monde —
 La connaissance divine a surgi, et je suis devenu éclairé ;
 _Dieu_ a gracieusement accepté ce ver comme son esclave.
 Dit Rav Das, ma soif a maintenant cessé ;
-Je répète le nom de Dieu et j'accomplis Son service.
+Je répète le nom de Dieu et j'_accomplis_ Son service.
 
 Le sort du calomniateur.
 
@@ -517,7 +517,7 @@ Si l’homme célèbre les éclipses à Kurkhetar,
 Offrir sa femme avec ses décorations _aux Brahmanes_,
 Et entend de ses oreilles tous les _Simritis_,
 Mais s’il pratique la calomnie, tout sera vain.
-S'il prépare de nombreux festins aux brahmanes,
+S'il prépare de nombreux festins _aux brahmanes_,
 Faites-leur don de terres et construisez-leur de splendides hôtels publics ;
 Si, négligeant ses propres affaires, il s'occupe de celles des autres,
 Et pourtant, s'il pratique la calomnie, il errera dans de nombreuses naissances.
@@ -544,7 +544,7 @@ En obtenant le salut, Rav Das reconnaît la faveur de Dieu.
 <p style="text-align:center;">MARU</p>
 
 Qui d’autre que Toi, mon Joyau, pourrait faire une telle chose ?
-Protecteur des pauvres, Seigneur de la terre ; Tu as placé sur ma tête le parapluie de la souveraineté spirituelle.
+Protecteur des pauvres, Seigneur de la terre ; Tu as placé sur ma tête le parapluie _de la souveraineté spirituelle_.
 Tu ressens de la pitié envers celui dont le contact souille le monde ;
 Tu élèveras les humbles, ô mon Dieu, et tu ne crains personne.
 Namdev, Kabir, Trilochan, Sadhna et Sain ont été sauvés —
@@ -571,7 +571,7 @@ Sans contempler Dieu, il n’y a pas d’espoir ;
 Tout ce que nous voyons périt.
 Celui qui répète le nom de Dieu avec les louanges qui lui sont dues
 C'est le seul Jogi libre de désirs.
-Si quelqu'un s'emploie à répéter le nom de Dieu,
+Si quelqu'un s'emploie à répéter le _nom_ de Dieu,
 Et Dieu, la pierre philosophale, touche-le, sa dualité ne subsistera plus.
 Celui qui détruit la dualité de son esprit est un _muni_ ;
 Il sera absorbé en Dieu [^47] qui remplit les trois mondes.
@@ -582,7 +582,7 @@ Quand le fruit apparaît, les fleurs se fanent.
 Pour la connaissance divine, les hommes pratiquent des cérémonies religieuses ;
 Lorsque la connaissance divine est obtenue, les cérémonies religieuses ne sont pas accomplies.
 Pour faire du beurre, les gens connaisseurs barattaient du lait coagulé ;
-Ainsi, ceux qui s’efforcent d’acquérir la connaissance divine obtiennent la délivrance de leur vivant et sont toujours en repos.
+Ainsi, _ceux qui s’efforcent d’acquérir la connaissance divine_ obtiennent la délivrance de leur vivant et sont toujours en repos.
 Dit Rav Das, _ayant embrassé_ le mépris suprême pour le monde,
 Pourquoi ne pas répéter de bon cœur le nom de Dieu, ô homme malchanceux ?
 
@@ -591,14 +591,14 @@ Rav Das s'efforce d'humilier son corps.
 <p style="text-align:center;">BASANT</p>
 
 Tu ne sais rien, _ô mon corps_ ;
-En voyant tes beaux vêtements, tu te gonfles d'orgueil.
+En voyant tes _beaux_ vêtements, tu te gonfles d'orgueil.
 Aucun endroit ne peut contenir les orgueilleux ;
 Pourtant, au-dessus de ta tête, le corbeau vole. [^48] <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
-Pourquoi es-tu fier, ô corps dément ?
+Pourquoi es-tu fier, ô _corps_ dément ?
 Tu as une vie bien plus courte qu'un champignon au mois de Bhadon.
-Le cerf ne connaît pas le secret de son musc ;
+Le cerf ne connaît pas le secret de _son musc_ ;
 Il l'a dans son corps, et pourtant il le cherche au loin.
-Celui qui comprend son propre corps fugace,
+Celui qui comprend son propre corps _fugace_,
 Ne sera jamais déshonoré par les myrmidons de la mort.
 L'homme est fier de son fils et de sa femme ;
 C'est à lui que Dieu demandera compte.
@@ -613,9 +613,9 @@ Le saint, quelle que soit sa caste, est supérieur même aux demi-dieux.
 <p style="text-align:center;">MALAIRE</p>
 
 Ni le Seigneur de Lakshmi, [^49] ni le Seigneur de Kailas, [^50] ni personne d'autre n'est égal à ceux qui répètent le nom de Dieu :
-Il est unique, bien que diffusé de multiples façons ; rappelez-Le, rappelez-Le à vos pensées ; Il remplit la création.
+Il est unique, bien que diffusé de multiples façons ; rappelez-Le, rappelez-Le _à vos pensées_ ; Il remplit la création.
 Celui dans la maison duquel on ne voyait que la dévotion à Dieu et rien d'autre, était, par caste, un imprimeur de calicot intouchable.
-La grandeur du nom de Dieu a été vue dans Vyas ; elle a été observée dans les fils de Brahma ; elle est célèbre à travers les sept îles [^51] de la terre.
+La grandeur du nom de Dieu a été vue dans Vyas ; elle a été observée dans les fils de Brahma ; elle est célèbre _à travers_ les sept îles [^51] de la terre.
 Celui dont la famille [^52] avait pour habitude de sacrifier des vaches à l'Aïd et au Bakr Aïd, et qui adorait les Cheikhs, les martyrs et les pirs, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 Kabir, le fils d'un père qui avait l'habitude de faire de telles choses, réussit tellement qu'il devint célèbre dans les trois mondes.
 Tous les _chamars_ [^53] de ma famille vont encore à Bénarès pour enlever le bétail mort,
@@ -632,7 +632,7 @@ Jusqu'à quand resterai-je dans ce sommeil [^55] qui m'a saisi ?
 Les choses [^56] auxquelles j’étais attaché ont toutes péri ;
 Le magasin du trafic frauduleux a fermé. [^57]
 Dit Rav Das, quand mon compte est pris,
-Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
+Je veillerai à ce que tout ce que j'ai fait soit _enregistré à mon actif_.
 
 <figure class="table chapter-navigator">
   <table>
@@ -662,7 +662,7 @@ Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
 
 [^1]: Les gyanis traduisent : Une plume rare peut expliquer que Dieu est également contenu dans tout.
 
-[^2] : Une ville où il n'y a pas de chagrin. Ce n'est pas Begampur, un village sur la rive gauche de la Bhima, ainsi nommé parce qu'une des filles d'Aurangzeb mourut et y fut enterrée, tandis que son père campait à Brahmapuri, de l'autre côté de la rivière.
+[^2]: Une ville où il n'y a pas de chagrin. Ce n'est pas Begampur, un village sur la rive gauche de la Bhima, ainsi nommé parce qu'une des filles d'Aurangzeb mourut et y fut enterrée, tandis que son père campait à Brahmapuri, de l'autre côté de la rivière.
 
 [^3]: C'est-à-dire, pas de Vishnu ou de Shiv.
 
@@ -682,7 +682,7 @@ Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
 
 [^11]: Certains lisent _olag olagm_ et traduisent — Afin que je devienne leur esclave des esclaves.
 
-[^12] : _Chintamani_, une gemme censée procurer à son possesseur tout ce qu'il désire. En Angleterre, on disait que le bonnet à souhaits possédait la même vertu.
+[^12]: _Chintamani_, une gemme censée procurer à son possesseur tout ce qu'il désire. En Angleterre, on disait que le bonnet à souhaits possédait la même vertu.
 
 [^13]: Il s'agit du _Ricinus communis_, ou ricin.
 
@@ -690,13 +690,13 @@ Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
 
 [^15]: _Kira_ est une toile traduite par certains gyanis.
 
-[^16] : On peut aussi traduire par « Tes pieds sont le lotus, et mon âme est le bourdon qui vole au-dessus d'eux ». Ceci suppose que bhawar se lit pour _bkawan_.
+[^16]: On peut aussi traduire par « Tes pieds sont le lotus, et mon âme est le bourdon qui vole au-dessus d'eux ». Ceci suppose que bhawar se lit pour _bkawan_.
 
 [^17]: Cette ligne est censée imiter la répétition du nom de Dieu par le dévot. Les gyanis traduisent : « Ceux qui répètent le nom de Dieu dans leur cœur, ceux qui le répètent avec leur langue et ceux qui le font répéter par les autres, fleurissent à nouveau. »
 
 [^18]: _Nistar_, littéralement — ceux qui ne devraient pas être sauvés.
 
-[^19] : _Nimat_, sanskrit _niyamit_. Son père, avant de partir en voyage, lui enjoignit de donner du lait à l'idole familiale pendant son absence.
+[^19]: _Nimat_, sanskrit _niyamit_. Son père, avant de partir en voyage, lui enjoignit de donner du lait à l'idole familiale pendant son absence.
 
 [^20]: Au lieu d’être absorbé dans la lumière de Dieu, il naît de nouveau comme un animal inférieur.
 
@@ -716,11 +716,11 @@ Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
 
 [^28]: C'est-à-dire que celui qui le mange a soif.
 
-[^29] : Omettre les modifications et combinaisons des caractères sanskrits et ne conserver qu'un seul « s ». Le sens est apparemment que les lettres qui forment le nom de Dieu sont supérieures à toutes les autres lettres employées dans les écrits sacrés hindous.
+[^29]: Omettre les modifications et combinaisons des caractères sanskrits et ne conserver qu'un seul « s ». Le sens est apparemment que les lettres qui forment le nom de Dieu sont supérieures à toutes les autres lettres employées dans les écrits sacrés hindous.
 
 [^30]: En Inde, les paons vivent généralement sur des terres vallonnées.
 
-[^31] : _Rakat_, la partie supposée être apportée par la femelle au lieu des ovules de la physiologie moderne.
+[^31]: _Rakat_, la partie supposée être apportée par la femelle au lieu des ovules de la physiologie moderne.
 
 [^32]: Et négligeant Dieu, l’expression ganthi ganthi signifie également être attaché aux choses du monde.
 
@@ -734,11 +734,11 @@ Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
 
 [^37]: Cet hymne est récité dans un recueil de prières sikhs appelé _Arati_.
 
-[^38] : Également appelé Parbati.
+[^38]: Également appelé Parbati.
 
 [^39]: Le terme « épouse » désigne ici l’homme au sens générique, et l’épouse est Dieu.
 
-[^40] : _Sirat-ul-mustakim_. Le pont qui mène au ciel, selon les musulmans.
+[^40]: _Sirat-ul-mustakim_. Le pont qui mène au ciel, selon les musulmans.
 
 [^41]: Distribuer de la nourriture.
 
@@ -746,29 +746,29 @@ Je veillerai à ce que tout ce que j'ai fait soit enregistré à mon actif.
 
 [^43]: Le nénuphar est censé rester sec dans l'eau.
 
-[^44] : _Tata_, ici pour _tarag_, un réservoir. D'autres comprennent ce mot comme une marge et traduisent _kup tata_ par un puits et son terrain environnant.
+[^44]: _Tata_, ici pour _tarag_, un réservoir. D'autres comprennent ce mot comme une marge et traduisent _kup tata_ par un puits et son terrain environnant.
 
-[^45] : _Kulin_. Ce mot s'applique aujourd'hui à une race de brahmanes du Bengale, qui épousent une grande pluralité d'épouses.
+[^45]: _Kulin_. Ce mot s'applique aujourd'hui à une race de brahmanes du Bengale, qui épousent une grande pluralité d'épouses.
 
 [^46]: Il s'agit de l'homme dont Krishan a lavé les pieds, et non de l'auteur du _Ramayana_.
 
-[^47] : Bindware — Dieu qui est sans organes d'action.
+[^47]: Bindware — Dieu qui est sans organes d'action.
 
 [^48]: Chez certains peuples orientaux, les morts sont jetés aux corbeaux, aux milans et aux vautours.
 
-[^49] : Vishnu.
+[^49]: Vishnu.
 
 [^50]: Où Shiv est censé résider.
 
 [^51]: La conception des anciens géographes hindous.
 
-[^52] : Il s'agit de Nlru, le père adoptif de Kablr. Ce verset prouve que les musulmans tuaient des vaches lors des deux fêtes mentionnées bien avant l'occupation britannique de l'Inde.
+[^52]: Il s'agit de Nlru, le père adoptif de Kablr. Ce verset prouve que les musulmans tuaient des vaches lors des deux fêtes mentionnées bien avant l'occupation britannique de l'Inde.
 
 [^53]: Les coupeurs de cuir sont considérés comme impurs par les castes hindoues supérieures.
 
 [^54]: Jusqu’à ce que Dieu y entre, il est inutile de supposer que mon cœur puisse être purifié.
 
-[^55] : Ignorance spirituelle.
+[^55]: Ignorance spirituelle.
 
 [^56]: Les plaisirs du monde.
 
