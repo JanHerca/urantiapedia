@@ -236,11 +236,11 @@ Remove duplicate lines (requires a previous sorting, see below) ||
 * Beta - Β β
 * Gamma - Γ γ
 * Delta - Δ δ
-* Epsilon - Ε ε
+* Epsilon - Ε ε έ
 * Zeta - Ζ ζ
 * Eta - Η η
 * Theta - Θ θ
-* Iota - Ι ι
+* Iota - Ι ι ί
 * Kappa - Κ κ
 * Lambda - Λ λ
 * Mu - Μ μ
@@ -251,7 +251,7 @@ Remove duplicate lines (requires a previous sorting, see below) ||
 * Rho - Ρ ρ
 * Sigma - Σ σ/ς
 * Tau - Τ τ
-* Upsilon - Υ υ
+* Upsilon - Υ υ ύ
 * Phi - Φ φ
 * Chi - Χ χ
 * Psi - Ψ ψ
