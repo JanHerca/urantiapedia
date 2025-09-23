@@ -44,9 +44,9 @@ Several important works have appeared since this book was, in the main, finished
 
 The first five chapters and parts of some others are based upon lectures which I delivered in Harvard University on the Noble foundation in 1928, but I have greatly expanded the material and, on some points, modified my opinions, so that no part of the book remains precisely as it was in its original form. I regret that the revision has taken so long and sieze this opportunity of thanking the authorities at Harvard for their generosity <span id="pxiii"><sup><small>[ p. xiii ]</small></sup></span> and patience. But for the stimulus of their invitation the book would not have been produced.
 
-I owe sincere thanks to members of my “seminar” at King’s College for constructive criticism. One by whose comments I have often profited, the Rev. G. W. Sibley, M.A., A.K.C,, Vicar of Old St. Pancras, has died in the full tide of life, while these pages were passing through the press. I am under especial obligation to my friend and former pupil, Miss M. E. Sandbach Marshall, M.A., B.D., who has read the whole book in MSS. and has helped in many ways to clarify its thought and expression.
+I owe sincere thanks to members of my “seminar” at King’s College for constructive criticism. One by whose comments I have often profited, the Rev. G. W. Sibley, M.A., A.K.C., Vicar of Old St. Pancras, has died in the full tide of life, while these pages were passing through the press. I am under especial obligation to my friend and former pupil, Miss M. E. Sandbach Marshall, M.A., B.D., who has read the whole book in MSS. and has helped in many ways to clarify its thought and expression.
 
-W. R. M,
+W. R. M.
 
 KING'S COLLEGE, LONDON, _July_ 30, 1930.
 

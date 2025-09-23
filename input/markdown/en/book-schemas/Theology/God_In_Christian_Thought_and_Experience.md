@@ -24,7 +24,7 @@ BY<br>
 <span class="text-h5">BY W. R. MATTHEWS</span><br>
 MA, DD.<br>
 London<br>
-NISBET & CO. LTD. 22 BERNERS STREBT, W.1<br>
+NISBET & CO. LTD. 22 BERNERS STREET, W.1<br>
 First Published 1930<br>
 <br>
 <br>

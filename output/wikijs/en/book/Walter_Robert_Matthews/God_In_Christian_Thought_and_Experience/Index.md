@@ -263,7 +263,7 @@ Realism, 251
 Reality, 155 aa
 Reason, 228; and imagination, 213
 Redeemer, 274
-Redemption, 21, 82, 104
+Redemption, 21, 82, 104 <span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 Reformation theology, 105
 Relativity, 121
 Religion, definitions of, 5; nature of, 64; paradox’ of, 25 ff.; progressive, 28; and theology, 8941; of evolution, 145; of Jesus, 67
