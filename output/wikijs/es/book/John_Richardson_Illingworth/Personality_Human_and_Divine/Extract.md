@@ -30,10 +30,10 @@ dateCreated: 2025-2-12T14:32:52Z
 </figure>
 
 <p style="text-align:center;">
-DEL ÚLTIMO TESTAMENTO
+DEL ÚLTIMO TESTAMENTO<br>
 DEL DIFUNTO<br>
-REVERENDO JOHN BAMPTON,
-CANÓNIGO DE SALISBURY.
+REVERENDO JOHN BAMPTON,<br>
+CANÓNIGO DE SALISBURY.<br>
 </p>
 
 <span id="pv"><sup><small>[ p. v ]</small></sup></span>
