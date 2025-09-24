@@ -32,7 +32,9 @@ dateCreated: 2025-2-12T14:32:52Z
   </table>
 </figure>
 
+<span id="pvii"><sup><small>[ pág. vii ]</small></sup></span>
 
+Un prefacio apologético siempre tiende a tener un sabor irreal, ya que naturalmente invita a la crítica de que lo que requiere una apología nunca debió haber sido impreso. Sin embargo, es difícil publicar algo sobre un tema serio sin expresar su incompetencia. Por lo tanto, diré simplemente que las siguientes conferencias no pretenden ser originales; son simplemente un intento de ordenar y resumir lo que ya se ha expresado con mayor amplitud y autoridad en otros lugares; con la esperanza de atraer a algunos, cuyo tiempo libre en estos días de ajetreo pueda ser limitado, a reconsiderar la importante cuestión que tratan. Su principal argumento es que, mientras que la ciencia física no se ha debilitado en absoluto, la filosofía crítica ha fortalecido claramente la pretensión —la pretensión inmemorial— de la personalidad humana de ser una cosa espiritual; y, como tal, la categoría más alta bajo la cual podemos concebir a Dios. Y como esta concepción nos llevaría a esperar una revelación progresiva, se describe brevemente la evidencia de dicha revelación y se reivindica su culminación en la Encarnación. Se han adjuntado notas que pueden servir para ilustrar y enfatizar la postura principal de las conferencias, con referencia a autoridades donde se discuten sus diversos temas con mayor profundidad.
 
 <figure class="table chapter-navigator">
   <table>

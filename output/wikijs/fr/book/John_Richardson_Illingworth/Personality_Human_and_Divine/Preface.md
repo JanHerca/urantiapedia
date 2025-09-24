@@ -32,7 +32,9 @@ dateCreated: 2025-2-12T22:38:28Z
   </table>
 </figure>
 
+<span id="pvii"><sup><small>[ p. vii ]</small></sup></span>
 
+Une préface apologétique a toujours tendance à évoquer l'irréalité, car elle invite naturellement à la critique selon laquelle ce qui nécessite une excuse n'aurait jamais dû être publié. Pourtant, il est difficile de publier quoi que ce soit sur un sujet sérieux sans exprimer son sentiment d'inadéquation. Je dirai donc simplement que les conférences suivantes ne prétendent à aucune originalité ; elles tentent simplement d'organiser et de résumer ce qui a déjà été exprimé avec plus d'ampleur et une plus grande autorité ailleurs, dans l'espoir d'inciter certains, dont les loisirs sont peut-être limités en ces temps d'agitation, à reconsidérer l'importante question qu'elles traitent. Leur principal argument est que, si la science physique n'a en rien faibli, la philosophie critique a nettement renforcé la prétention – immémoriale – de la personnalité humaine à être une chose spirituelle ; et, à ce titre, la catégorie la plus élevée sous laquelle nous puissions concevoir Dieu. Et comme cette conception nous amène à espérer une révélation progressive, les preuves de cette révélation sont brièvement retracées, et son aboutissement dans l'Incarnation est confirmé. Des notes ont été ajoutées pour illustrer et souligner l'essentiel des conférences, en faisant référence à des autorités où leurs différents points sont plus adéquatement abordés.
 
 <figure class="table chapter-navigator">
   <table>

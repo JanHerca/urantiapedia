@@ -1,0 +1,80 @@
+## title: Dieu dans la pensée et l'expérience chrétiennes
+## folder_name: God_In_Christian_Thought_and_Experience
+## shelf_name: Walter_Robert_Matthews
+## tag: Theology
+## cover:
+<div class="urantiapedia-book-front urantiapedia-book-science">
+	<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+		<g transform="translate(-7,-5)">
+			<rect width="9.6" height="136.8" x="7" y="5" />
+			<rect width="96.9" height="136.8" x="17" y="5" />
+			<text style="font-size:5px" x="61" y="22">W. R. Matthews, K.C.V.O., D.D., D.Lit.</text>
+			<text style="font-size:4px" x="61" y="125">London: Nisbet & Co. Ltd., 1930</text>
+			<text style="font-size:9px" x="61" y="60">Dieu dans</text>
+			<text style="font-size:9px" x="61" y="70">la pensée et</text>
+			<text style="font-size:9px" x="61" y="80">l'expérience</text>
+			<text style="font-size:9px" x="61" y="90">chrétiennes</text>
+		</g>
+	</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">DIEU</span><br>
+<span class="text-h5">DANS LA PENSÉE ET L'EXPÉRIENCE CHRÉTIENNES</span><br>
+PAR<br>
+<span class="text-h5">PAR WR MATTHEWS</span><br>
+MA, DD.<br>
+Londres<br>
+NISBET & CO. 22 BERNERS STREBT, W.1<br>
+Première publication en 1930<br>
+<br>
+<br>
+À MA FEMME<br>
+</p>
+
+<br>
+
+
+
+
+## index:
+INTRODUCTION GÉNÉRALE | General_Introduction
+PRÉFACE | Preface
+CHAPITRE I. L'EXPÉRIENCE DE L'HOMME AVEC DIEU | 1
+	L'impulsion naturelle de l'homme à rechercher Dieu, 1. Classification primitive des religions en vraies et fausses, 2. Le christianisme et son lien avec le développement global de la conscience religieuse, 4. Définitions de la religion, 5. L'accent mis sur le sentiment, 7. Schleiermacher et Otto : comparaison des définitions, 8. « L'au-delà apparenté » et la reconnaissance de la coopération, 9. La religion, interprétation anthropomorphique de la réalité, 11. Science : Esthétique : Moralité, 13-16. La religion, unification de l'expérience intérieure et extérieure, 18. Rédemption, 21. La religion, accomplissement de la vie spirituelle, 24. | #
+CHAPITRE II. LE DÉVELOPPEMENT DE LA CONCEPTION DE DIEU | 2
+	Nature paradoxale de la religion : l’au-delà de soi, intérieur et apparenté, 25. Génies religieux et religions supérieures, 27. Dégénérescence et progrès, 29. L’anthropomorphisme, voie du progrès, 31. Sentiment numineux et sentiment de créature, 32. Parenté entre l’humain et le divin, 33. Types inférieurs et supérieurs d’anthropomorphisme, 34. La prière, pierre de touche de la perspicacité religieuse, 35. Le monothéisme, unification de l’expérience, 37. Panthéisme et polythéisme, 38. La religion chrétienne anthropomorphique, 39. L’homme à l’image de Dieu : Dieu en Jésus-Christ, 39. Dieu Hobrew, soutien des valeurs éthiques, 39. L’accent grec sur la raison comme divine, 40. La valeur suprême est personnelle, 42. | #
+CHAPITRE III. L'EXPÉRIENCE CHRÉTIENNE DE DIEU | 3
+	Influence hébraïque prédominante dans le Nouveau Testament, 43. Jésus, un Juif du premier siècle, 44. Le Nouveau Testament, norme du christianisme, 44. Christianisme essentiellement historique, 45. L'expérience de Dieu par Jésus, 47. L'accent mis sur l'absence de péché de Jésus omet la valeur positive de sa communion avec Dieu, 51. La vie religieuse de Jésus témoigne de dépendance et de coopération, 63. Prophétique et apocalyptique dans la doctrine de Dieu de Jésus, 54-87. Jésus, enseignant de la repentance, 57. L'accent mis sur l'amour actif du Père apporte une note nouvelle à l'enseignement de Jésus, 68. La véritable paternité n'est pas de nature, mais de grâce, 60. Le « à plus forte raison » de la conception de Jésus de la connaissance et de l'amour divins, 60. La paternité universelle de Dieu, 61. « Le Serviteur souffrant » et la mort de Jésus, 63. La Providence de Dieu et la destinée de Jésus, 64. | #
+CHAPITRE IV. L'EXPÉRIENCE CHRÉTIENNE DE DIEU | 4
+	L'expérience chrétienne de Dieu n'est pas identique à l'expérience de Jésus, 67. L'« imitation » du Christ et la « vie nouvelle en Christ », 68. L'importance de la Communauté, 70. La « mystique du Christ », 71. La persistance de l'idée hébraïque de Dieu dans la présentation apostolique de l'Évangile, 72. Le « problème du mal » dans le Nouveau Testament, 73. La « sainteté » comme attribut de Dieu, 73. La colère de Dieu, 74. Le « dualisme » dans l'expérience apostolique, 75. Un dualisme non définitif cependant, 78. La pensée centrale : l'amour de Dieu, 80. Le fondement de la croyance que Dieu est amour, 81. Comparaison avec l'interprétation de Jésus de sa vie et de sa mort, 81. Remarques sur la position de la foi néotestamentaire à la lumière de la réflexion générale sur le monde, 82. Le caractère historique de la révélation chrétienne de Dieu, 83. La doctrine néotestamentaire de la relation de Dieu à l'histoire, 84. Les suggestions vers une doctrine de la Trinité dans le Nouveau Testament, 85. Résumé général de la discussion, 87. | #
+CHAPITRE V. LA CONCEPTION THÉOLOGIQUE DE DIEU | 5
+	La distinction entre religion et théologie, 90. Le besoin de théologie, 91. La fonction et la méthode de la théologie, 91. La « reformulation » de la théologie chrétienne, 93. Les éléments qui sont entrés dans la structure de la théologie chrétienne : l'expérience : le livre infaillible : la philosophie, 94. Platonisme et christianisme, 95. La conception du divin dans les controverses chrétiennes sur la personne du Christ, 97. Le problème insoluble des « deux natures » du Christ, 98. Saint Augustin — les deux éléments de sa pensée, 99. La théologie scolastique comme formulation finale de l'orthodoxie et de la philosophie traditionnelles, 100. Sa valeur permanente, 101. Les défauts : les attributs « métaphysiques » et « moraux » de Dieu, 101-103. L'interprétation de la création et de la rédemption, 104. La théologie de la Réforme a eu peu d'influence sur la doctrine de Dieu, 105. L'agnosticisme pratique de Calvin, 106. Histoire ultérieure des idées scolastiques : leur réapparition chez Spinoza, 108. Raison de l'échec partiel de la théologie traditionnelle, 110. | #
+CHAPITRE VI. TRANSITION | 6
+	Le stade actuel du développement intellectuel, 111. L'expérience chrétienne aujourd'hui : quelques modifications, 112. L'Écriture et son autorité, 114. L'absence d'une « philosophie moderne », 115. L'influence de la méthode scientifique, 117. La validité de la vérité scientifique, 117. Le retour à la philosophie, 119. L'influence des découvertes scientifiques sur l'imagination : « l'univers sans limites » et l'homme, 119. Types de tendances philosophiques : Monisme neutre : réalisme et idéalisme, 122. Naturalisme et « évolution émergente », 124. Le nouvel idéalisme comparé à l'ancien, 126. Idéalisme activiste, 128. Philosophie païenne et philosophie chrétienne, 129. Les tendances convergentes des différentes écoles de philosophie, 130. Les catégories dynamiques remplaçant les catégories statiques, 131. | #
+CHAPITRE VII. TRANSCENDANCE | 7
+	Existe-t-il un univers ? Significations de « transcendance », 152. Deux aspects de la transcendance, 134. Le sens de la transcendance divine, 136. Créateur : _Deus Absconditus_, 136. La transcendance de Dieu dans l'expérience religieuse, 138. Les arguments cosmologiques et téléologiques : leurs implications transcendantes, 139. La référence transcendante dans toute tentative de compréhension du « réel », 141. (1) La réalité comme « nature » : les « objets éternels », 142. (2) La réalité comme « vie » — Vitalisme et « émergence », 143. La « religion de l'évolution », 145. La difficulté du but « immanent », 149. (3) La réalité comme histoire, 151. « Idéalisme historique », 152. La critique de la vision de Croce, 153. Implication transcendante de l'histoire, 154. Personnalités et histoire, 154. L'histoire comme _Wissenschaft_, 155. L'« au-delà de l'histoire », 155. | #
+CHAPITRE VIII. LE DIEU VIVANT ET PERSONNEL | 8
+	La conscience religieuse et la raison critique, 157. La valeur probante de l'expérience religieuse, 158. | #
+	I. L'expérience religieuse témoigne-t-elle d'un Dieu personnel ? 159. Divers points de vue représentés, 159. Le caractère personnel du Divin suggéré dans son ensemble, 161. Le cas du bouddhisme, 162. Le langage de la dévotion, 162. La position chrétienne définie, 163. L'Incarnation, 163. | #
+	II. Nature de la personnalité, 163. Points de vue subjectif et objectif, 164. Personnes en tant qu'objets : leurs caractéristiques, 164-165. Individualité, 165. Personnes en tant que sujets : le centre actif, l'Égo ; le soi comme « substance », 166. Intuition et connaissance de soi, 169. Liberté et créativité des personnes, 172. | #
+	III. Personnalité en Dieu, 173. Raisons de croire que Dieu est mauvais, 174. Objections examinées, 175. Le non-soi, 175. L'environnement, 175. La conscience de soi, 176. Dieu doit être distinct des créatures, 177. Résumé de la discussion, 179. | #
+CHAPITRE IX. LA SAINTE TRINITÉ | 9
+	La doctrine de la Trinité est-elle nécessaire au christianisme ? 180. Absence de doctrine trinitaire dans l'Ancien Testament. 181. Trinité dans le platonisme. 182. Absence d'influence de la religion païenne sur la doctrine chrétienne. 183. La doctrine découle réellement de la dévotion chrétienne. 184. Religion apostolique et fondement de la doctrine de la Trinité. 186. | #
+	Une doctrine spéculative est-elle possible ? 188. La Trinité « économique » rejetée, 189. Constitution trinitaire de la personnalité, 190. Analogies de la Trinité considérées, 192. Les analogies personnelles et sociales convergent réellement, 193. Pourquoi pas deux ou quatre personnes ? 195. La personnalité de l’Esprit, 195. La Trinité et l’ordre créé, 196. Fonctions du Fils et de l’Esprit, 199. | #
+CHAPITRE X. CRÉATEUR DU CIEL ET DE LA TERRE | 10
+	L'importance de la conception de la création, 203. L'obscurité du sens, 203. La création continue, 204. La création « à partir de rien », 206. Dieu dépend-il de la création ? 206. Les éléments essentiels de l'idée de création, 207. L'apparente contradiction impliquée, 207. Illustré dans l'histoire de la pensée, 208. Leibniz sur la création, 209. Remarques sur la contradiction, 210. | #
+	Approche par l'expérience, 211. L'imagination, 212. Son rapport à la raison, 213. Analogie de la création poétique, 214. L'ordre et la continuité de la création, 216. L'immanence divine dans la création, 218. Degrés d'immanence considérés, 219. Le Dieu de la création, 219. Liberté et nécessité, 321. | #
+CHAPITRE XI. L'AMOUR, UN MAL | 11
+	I. Le fondement de la croyance en l'amour de Dieu, 223. La nature de l'amour divin à comprendre par analogie, 224. L'échec de la théologie à présenter un Dieu d'amour, 226. L'influence d'Aristote, 227. Aucune explication logique de l'amour n'est possible, 228. L'amour humain suprême envisagé, 229. La place de l'imagination, 230. L'amour divin et l'imagination, 231. | #
+	Dieu est-il moralement bon ? 233. La réponse chrétienne, | #
+	II. L'importance du problème du mal, 234. Le problème parallèle du bien, 235. L'attribut de toute-puissance, 236. Le « meilleur monde possible », 237. Le rapport du mal moral à l'expérience divine, 238. L'attribut d'omniséience, 239. Signification de « dans l'Esprit », 240. Prescience et prédestination, 241. Dieu peut-il être surpris ? 242. | #
+	III. Sacrifice divin, 246. Dieu peut-il souffrir ? 247. Les implications de l'Évangile, 248. | #
+CHAPITRE XII. TEMPS ET PROVIDENCE | 12
+	I. Le problème du temps n'est pas propre à la théologie : son importance philosophique, 251. La signification de « Éternel », 25 : Philosophies rivales du temps, 252. Intérêts religieux en jeu, 263. Le temps n'est pas illusoire, 255. | #
+	II. Dieu et le temps, 256. Le temps réel pour Dieu, 256. « Temps conceptuel » et « durée », 257. La physique moderne et le temps, 258. Le soi « nouménal » et le temps, 260. En quel sens Dieu n'est-il « pas dans le temps » ? 7261. Critique de Gentile, 263. La relation de l'âme avec Dieu, 264. | #
+	III. Les hésitations de la doctrine chrétienne de la Providence, 265. L'importance d'éclaircir le problème, 266. L'absence de Providence « absolue », 267. Les « causes libres », 268. La Providence dans l'histoire, 269. Les catastrophes, 270. Hommes de destinée et hommes de Providence, 272. La « providence particulière », 273. Le Royaume de Dieu et l'ordre providentiel du monde, 274. L'Église et le Royaume, 275. L'accomplissement, 276. | #
+INDEX | Index
+
+## links:
+[Internet Archive](https://archive.org/details/godinchristianth0000matt)
