@@ -368,7 +368,7 @@ It should be noticed that this aesthetic aspect of the argument from design is t
 
 ‘... εστι πάλιν και από των φαινομένων την περί τον Θεού γνωσιν καταλαβεϊν3 της κτίσεως ώσπερ γράμμασι διά της τάξεως και αρμονίας τον έαντης δεσπότην και ποιητην σημαινονσης καί βοωσης’ (St. Athan. _Ad Gen._ 34.)
 
-‘Εκ μεγεθονς και καλλονής κτισμάτων άναλόγως 6 γενεσιουργός θεωρείται.” (Id. _Ib_. 44.)
+‘Εκ μεγεθονς και καλλονής κτισμάτων άναλόγως 6 γενεσιουργός θεωρείται.’ (Id. _Ib_. 44.)
 
 ‘Deum quippe Patrem ex magnitudine et pulchritudine creaturarum potest quis intelligere, et a conditionibus conditor consequenter agnoscitur.’ (St. Jerom. _In Gal._ 3, 2)
 
