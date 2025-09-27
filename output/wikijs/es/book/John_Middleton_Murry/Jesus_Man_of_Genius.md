@@ -8,12 +8,35 @@ editor: markdown
 dateCreated: 2025-2-12T14:32:22Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">J. Middleton Murry</text>		<text style="font-size:4px" x="61" y="125">Nueva York: Harper & Brothers Publishers, 1926</text>		<text style="font-size:9px" x="61" y="60">Jesús—</text>		<text style="font-size:9px" x="61" y="70">Hombre de genio</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Una armonía de los Evangelios</span><br>POR<br><span class="text-h5">J. Middleton Murry</span><br>Nueva York y Londres<br>Editorial Harper & Brothers<br>1926<br><br></p>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">J. Middleton Murry</text>
+		<text style="font-size:4px" x="61" y="125">Nueva York: Harper & Brothers Publishers, 1926</text>
+		<text style="font-size:9px" x="61" y="60">Jesús—</text>
+		<text style="font-size:9px" x="61" y="70">Hombre de genio</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Una armonía de los Evangelios</span><br>
+POR<br>
+<span class="text-h5">J. Middleton Murry</span><br>
+Nueva York y Londres<br>
+Editorial Harper & Brothers<br>
+1926<br>
+<br>
+</p>
+
+
 ## Índice
 
 - [PREFACIO](/es/book/John_Middleton_Murry/Jesus_Man_of_Genius/Preface)
 - Primera parte
-	- [PRÓLOGO](/es/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part1_Prólogo)
+	- [PRÓLOGO](/es/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part1_Prologue)
 	- [Yo Juan el Bautista](/es/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part1_1)
 	- [II EL BAUTISMO DE JESÚS](/es/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part1_2)
 	- [III LA TENTACIÓN EN EL DESIERTO](/es/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part1_3)
