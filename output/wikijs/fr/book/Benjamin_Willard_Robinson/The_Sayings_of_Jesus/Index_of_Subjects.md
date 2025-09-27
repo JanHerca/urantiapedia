@@ -122,7 +122,7 @@ Azotus brûlé, 24
 
 Bacchidès, 17 et suiv., 21 et suiv.
 
-Bacon, BW, 89, 193
+Bacon, B. W., 89, 193
 
 Balas, Alexandre, 20, 22 et suiv.
 
@@ -148,7 +148,7 @@ Fraternité, 216 et suiv., 224, 239
 
 Bunyan, Le Voyage du pèlerin , 94 et suiv., 260
 
-Burton, ED, 188, 201, 203 pieds; et Goodspeed, 147 pieds.
+Burton, E. D., 188, 201, 203 pieds; et Goodspeed, 147 pieds.
 
 César, 45 f.
 
@@ -216,7 +216,7 @@ Darius, 2
 
 Dates des dirigeants syriens, 20
 
-Davis, OS, 235
+Davis, O. S., 235
 
 Débiteurs, parabole de, 247, 253
 
@@ -312,11 +312,11 @@ Dieu, caractère de, 237 s., 263 ; paternité, 223 ; imitation de, 151, 155, 237
 
 Règle d'or, 239, 241 ; négatif, 228
 
-Goodspeed, EJ, ix, 147 p.
+Goodspeed, E. J., ix, 147 p.
 
 Gorgias, n, 12
 
-Sources évangéliques, 120, 123, 133, 144, 147 et plus. Graham, WC, 89
+Sources évangéliques, 120, 123, 133, 144, 147 et plus. Graham, W. C., 89
 
 Culture grecque, 53 f., 61 f.
 

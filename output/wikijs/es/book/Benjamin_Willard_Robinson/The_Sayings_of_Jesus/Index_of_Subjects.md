@@ -122,7 +122,7 @@ Azoto quemado, 24
 
 Báquides, 17 y ss., 21 y ss.
 
-Bacon, BW, 89, 193
+Bacon, B. W., 89, 193
 
 Balas, Alexander, 20, 22 y sigs.
 
@@ -148,7 +148,7 @@ Hermandad, 216 y ss., 224, 239
 
 Bunyan, El progreso del peregrino, 94 y sigs., 260
 
-Burton, ED, 188, 201, 203 y siguientes; y Goodspeed, 147 y siguientes.
+Burton, E. D., 188, 201, 203 y siguientes; y Goodspeed, 147 y siguientes.
 
 César, 45 s.
 
@@ -216,7 +216,7 @@ Darío, 2 años
 
 Fechas de los gobernantes sirios, 20
 
-Davis, OS, 235
+Davis, O. S., 235
 
 Deudores, parábola de, 247, 253
 
@@ -312,11 +312,11 @@ Edad de Oro, 226
 
 Regla de oro, 239, 241; negativa, 228
 
-Goodspeed, EJ, ix, 147 y sig.
+Goodspeed, E. J., ix, 147 y sig.
 
 Gorgias, n, 12
 
-Fuentes evangélicas, 120, 123, 133, 144, 147 y sig. Graham, WC, 89
+Fuentes evangélicas, 120, 123, 133, 144, 147 y sig. Graham, W. C., 89
 
 Cultura griega, 53 y ss., 61 y ss.
 
