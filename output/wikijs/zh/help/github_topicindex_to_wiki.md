@@ -41,7 +41,7 @@ TXT 格式的“百科全书”文件由“主编”创建和审阅。这些文�
 - [Urantiapedia 工具 - GitHub 项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
 <br>

@@ -126,12 +126,12 @@ _Urantiapedia Tools_ 中大型页面翻译器的开发 | GitHub | 开发人员
 媒体库也需要开发能够在 Urantiapedia 上进行交互式演示的功能。我们不想简单地链接到 PowerPoint 或 PDF 文件供用户下载和外部查看。我们希望内容涵盖所有语言，并与 Urantiapedia 的其他部分相连接。使用专有格式并引入技术依赖性，这并非易事。因此，我们将寻找能够实现广泛功能且基于标准格式的替代方案。
 
 一些替代方案可能是：
-- [Google 文档](https://docs.google.com/)。
-- [Prezi](https://prezi.com/)。
+- [Google 文档](https://docs.google.com/)
+- [Prezi](https://prezi.com/)
 - [Impress.js](https://impress.js.org/) ([GitHub](https://github.com/impress/impress.js)) + [Hovercraft](https://regebro.github.io/hovercraft) ([GitHub](https://github.com/regebro/hovercraft))
-- [Bespoke.js](https://markdalgleish.com/projects/bespoke.js/) ([GitHub](https://github.com/bespokejs/bespoke))。
-- [Reveal.js](https://revealjs.com/) + [黑客幻灯片](https://github.com/jacksingleton/hacker-slides)。
--[Landslide]（https://github.com/adamzap/landslide）。
+- [Bespoke.js](https://markdalgleish.com/projects/bespoke.js/) ([GitHub](https://github.com/bespokejs/bespoke))
+- [Reveal.js](https://revealjs.com/) + [黑客幻灯片](https://github.com/jacksingleton/hacker-slides)
+- [Landslide](https://github.com/adamzap/landslide)
 
 
 <figure id="Sample_fig_4" class="image urantiapedia">
@@ -144,11 +144,11 @@ _Urantiapedia Tools_ 中大型页面翻译器的开发 | GitHub | 开发人员
 https://github.khronos.org/glTF-Sample-Viewer-Release/
 
 该格式在许多应用程序中被广泛使用和支持，并且已经存在在线 glTF 编辑器和查看器：
-- [Sketchfab]（https://sketchfab.com/）
-- [PlayCanvas](https://playcanvas.com/)。
-- [Babylon.js](https://www.babylonjs.com/)。
+- [Sketchfab](https://sketchfab.com/)
+- [PlayCanvas](https://playcanvas.com/)
+- [Babylon.js](https://www.babylonjs.com/)
 - [Three.js](https://threejs.org/) + [编辑器](https://threejs.org/editor/)
-- [WebGL Studio](https://webglstudio.org/) + [litescene.js](https://github.com/jagenjo/litescene.js)。
+- [WebGL Studio](https://webglstudio.org/) + [litescene.js](https://github.com/jagenjo/litescene.js)
 
 
 <figure id="Sample_fig_5" class="image urantiapedia">
@@ -177,7 +177,7 @@ https://github.khronos.org/glTF-Sample-Viewer-Release/
 - [Urantiapedia 工具 - GitHub 项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
 <br>

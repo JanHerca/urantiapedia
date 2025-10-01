@@ -72,7 +72,7 @@ output
 - [Urantiapedia 工具 - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - proyecto en GitHub](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia 基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
 <br>

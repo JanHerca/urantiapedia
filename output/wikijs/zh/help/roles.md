@@ -122,14 +122,14 @@ Youtube 帐户 | :heavy_check_mark: | | | | | | | :heavy_check_mark: |
 
 ## 外部链接
 
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [蓝色田野中的尤兰提亚百科](https://blue-fields.netlify.app/projects/292396532506821125)
 - [Urantiapedia-GitHub 主项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 上的批量加载项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Wiki.js - Urantiapedia 定制项目](https://github.com/JanHerca/wiki)
 - [GitHub]（https://github.com/）
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
 

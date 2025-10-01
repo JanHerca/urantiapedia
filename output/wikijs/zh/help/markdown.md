@@ -1157,7 +1157,7 @@ Lorem ipsum pain <kbd>CTRL</kbd> + <kbd>C</kbd>
 - [Urantiapedia 工具 - GitHub 项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 - [MultiMarkdown 用户指南](https://fletcher.github.io/MultiMarkdown-6/)
 - [Markdown 规范](https://commonmark.org/)

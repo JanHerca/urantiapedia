@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:09:29.761Z
 《尤兰提亚之书》| 尤兰提亚基金会 | 新增 25 / 27 个译文 :+1:
 _《尤兰提亚之书》删节版和插图版_ | （从未完成）| ---
 _《尤兰提亚之书》插图网络版_ [^2] | **Urantiapedia** | 正在建设中：建设中：
-_Urantia 书有声读物_ | Urantia 基金会 (`DE`、`EN`、`ES`、`ET`、`HU`、`FI`、`FR`、`IT`、`NL`、`PL`、`PT`、`TR`) / **Urantiapedia** (`DE`、`ES`、`FR`、`IT`、`JA`、`KO`、`NL`、`PT`) |添加了 9 种语言​​：+1：
+_Urantia 书有声读物_ | Urantia 基金会 (`DE`、`EN`、`ES`、`ET`、`HU`、`FI`、`FR`、`IT`、`NL`、`PL`、`PT`、`TR`) / **Urantiapedia** (`DE`、`ES`、`FR`、`IT`、`JA`、`KO`、`NL`、`PT`) |添加了 9 种语言 ​​:+1：
 **主题索引**: | &nbsp; | &nbsp;
 _主题索引_ | Harry McMullan (`EN`) | ---
 **交叉引用**: | &nbsp; | &nbsp;

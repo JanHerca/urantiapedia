@@ -145,7 +145,7 @@ Notepad++：https://notepad-plus-plus.org/
 - [Urantiapedia-GitHub 主项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 上的批量加载项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
 <br>

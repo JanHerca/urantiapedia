@@ -198,7 +198,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 - [Urantiapedia 工具 - GitHub 项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 - [GitHub]（https://github.com/）
 - [按母语人士数量列出的语言列表]（https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers）

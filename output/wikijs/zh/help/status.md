@@ -106,7 +106,7 @@ _主题索引编辑器_，一个加速_百科全书_创建的工具 | :heavy_che
 添加目标语言的 :notebook: 学习辅助工具并链接到《尤兰提亚之书》| :heavy_check_mark: （英语、西班牙语、法语）
 添加 :green_book: 圣经外的书籍 | :heavy_check_mark: （英语、西班牙语、法语）
 添加 :orange_book: 有关所有当前世界宗教的书籍 | :heavy_check_mark: （英语、西班牙语、法语）
-添加据称由启示者使用的哲学、神学和科学书籍：books：|：heavy_check_mark：（英语、西班牙语、法语）
+添加据称由启示者使用的哲学、神学和科学书籍：books：| :heavy_check_mark: （英语、西班牙语、法语）
 添加来自已授权在 Urantiapedia 上发布的读者 :notebook_with_decorative_cover: 的书籍 | :heavy_check_mark: （英语、西班牙语、法语）
 创建目标语言的 :card_index: _Encyclopedia_。| :heavy_check_mark: （英语、西班牙语、法语）
 创建目标语言的《百科全书》索引 :capital_abcd: | :heavy_check_mark: （英语、西班牙语、法语）
@@ -169,7 +169,7 @@ _Urantiapedia Tools_ 中大型页面翻译器的开发 | :heavy_check_mark:
   - :memo: 交互式图表或方案。
   - :bar_chart: 交互式演示。
   - :milky_way: 3D 模型。
-  - :声音: 《尤兰提亚之书》音频
+  - :sound: 《尤兰提亚之书》音频
   - :movie_camera：嵌入式视频。
 
 ### 发展
@@ -254,7 +254,7 @@ _报纸图书馆_的第一个版本，包含 :page_with_curl: 文章和 :noteboo
 - [Urantiapedia 工具 - GitHub 项目](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - GitHub 项目](https://github.com/JanHerca/urantiapedia-backup)
 - [Urantia基金会](https://www.urantia.org/)
-- [蓝色田野]（https://blue-fields.netlify.app/）
+- [蓝色田野](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
 <br>

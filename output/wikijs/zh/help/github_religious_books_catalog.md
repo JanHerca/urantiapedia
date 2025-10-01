@@ -55,7 +55,7 @@ https://github.com/JanHerca/urantiapedia/blob/master/input/txt/books-en/Religiou
 > 强烈建议使用 [Visual Studio Code](https://code.visualstudio.com/) 编辑 TSV 文件，并添加扩展名 [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)，这样可以对数据进行着色以及执行其他更多操作。
 {.is-info}
 
-＃＃ 结果
+## 结果
 
 使用此文件，已手动创建了_Urantiapedia 图书馆_的索引以及每个书架的索引（使用_replaces_）。结果可在[所有书组索引](/en/index/books)中查看。您也可以在本网站左侧菜单中选择`OTHER BOOKS \ Index`访问此页面。目前，此页面仅提供英语、西班牙语和法语版本。
 
