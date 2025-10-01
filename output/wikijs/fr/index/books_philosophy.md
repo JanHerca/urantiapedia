@@ -391,7 +391,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Anatomie de la Paix</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Emery Reves </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/book/Emery_Reves/The_Anatomy_of_Peace" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

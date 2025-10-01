@@ -186,7 +186,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dios en el pensamiento y la experiencia cristianos</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W. R. Matthews, K.C.V.O., D.D., D.Lit.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Walter_Robert_Matthews/God_In_Christian_Thought_and_Experience" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -266,7 +266,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Personalidad humana y divina</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. R. Illingworth, M.A.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/John_Richardson_Illingworth/Personality_Human_and_Divine" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -294,7 +294,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psicología y Dios: un estudio de las implicaciones de la psicología reciente para las creencias y prácticas religiosas</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. L.W. Grensted, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Laurence_William_Grensted/Psychology_and_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1051,7 +1051,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesús: hombre de genio</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. Middleton Murry</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/John_Middleton_Murry/Jesus_Man_of_Genius" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1634,7 +1634,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los dichos de Jesús: sus antecedentes e interpretación</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Benjamin Willard Robinson, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
