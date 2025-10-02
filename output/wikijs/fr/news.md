@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2025
 
+- [Nouvelles Septembre 2025](/fr/news/2025/09)
 - [Nouvelles Août 2025](/fr/news/2025/08)
 - [Nouvelles Juillet 2025](/fr/news/2025/07)
 - [Nouvelles Juin 2025](/fr/news/2025/06)
