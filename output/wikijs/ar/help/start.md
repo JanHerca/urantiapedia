@@ -75,7 +75,7 @@ dateCreated: 2021-11-28T13:46:33.162Z
 للتعرف على مراحل المشروع، راجع [مراحل المشروع](/ar/help/phases).
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/help/Phases_2025_ar.svg">
+<img src="/image/help/Phases_2025_en.svg">
 <figcaption>الشكل 1: مراحل إنجاز المشروع.</figcaption>
 </figure>
 
