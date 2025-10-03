@@ -208,7 +208,7 @@ dateCreated: 2022-09-27T13:55:38.362Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Religious books of Sikhism</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/index/books_shikhism" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/en/index/books_sikhism" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 			</div>

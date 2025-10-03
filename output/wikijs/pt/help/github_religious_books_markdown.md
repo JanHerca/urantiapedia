@@ -116,7 +116,7 @@ As pastas de trabalho devem ser salvas nestas pastas de projeto do GitHub:
 	- `Hinduism`: para livros da estante «Livros Religiosos do Hinduísmo».
 	- `Taoism`: para livros da estante «Livros religiosos taoístas».
 	- `Bahaism`: para os livros dos «Escritos religiosos del Bahaismo» existentes.
-	- `Shikhism`: para livros da estante “Livros religiosos do Sikhismo”.
+	- `Sikhism`: para livros da estante “Livros religiosos do Sikhismo”.
 	- `Shintoism`: para libros del estante «Libros religiosos sintoístas».
 	- `Zoroastrianism`: para libros del estante «Libros religiosos del zoroastrismo».
 	- `Jainism`: para livros da estante «Livros religiosos do Jainismo».
@@ -186,7 +186,7 @@ Em _tags_ você deve colocar tags, separadas por vírgulas, que foram estabeleci
 - As etiquetas devem ser **obrigatoriamente em inglês**. A opção de tags traduzidas não está atualmente disponível em [Wiki.js](https://js.wiki/), o software usado pela Urantiapedia.
 - O rótulo não importa se está em letras maiúsculas ou minúsculas. `book` e `Book` são a mesma tag. Na verdade, todos eles são mostrados em letras minúsculas na Urantiapedia: [Pesquisar por tags](https://urantiapedia.org/t). Todas as tags existentes também são exibidas nesta página.
 - Pelo menos todos os arquivos de um livro devem ter a tag `book` indicando que se trata de um conteúdo da Biblioteca.
-- Pelo menos deve ter um rótulo da religião a que o livro pertence: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`.
+- Pelo menos deve ter um rótulo da religião a que o livro pertence: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Sikhism`, `Shintoism`.
 - Para livros bíblicos e extra-bíblicos existem muitas tags criadas como `Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT` e outras.
 - Caso não exista uma tag e você queira adicioná-la, basta adicioná-la no cabeçalho de qualquer arquivo e essa tag será criada.
 

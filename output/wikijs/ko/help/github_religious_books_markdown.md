@@ -116,7 +116,7 @@ Get-ChildItem -Filter '*.png' | ForEach-Object {
 	- `Hinduism`: “힌두교 종교 서적” 선반의 도서.
 	- `Taoism`: 도교 종교 서적 선반의 도서.
 	- `Bahaism`: 기존의 `바하이교 종교 서적`에 대한 서적입니다.
-	- `Shikhism`: 선반에 있는 “시크교 종교 서적”을 위한 책입니다.
+	- `Sikhism`: 선반에 있는 “시크교 종교 서적”을 위한 책입니다.
 	- `Shintoism`: 신토교 종교 서적 선반에 있는 책입니다.
 	- `Zoroastrianism`: 선반에 있는 책들을 보려면 “조로아스터교 종교 서적”을 선택하세요.
 	- `Jainism`: 선반에 있는 “자이나교 종교 서적”을 위한 책입니다.

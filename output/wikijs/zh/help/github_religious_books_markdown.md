@@ -116,7 +116,7 @@ Get-ChildItem -Filter '*.png' | ForEach-Object {
 	- `Hinduism`：适用于“印度教宗教书籍”书架上的书籍。
 	- `Taoism`：适用于“道教宗教书籍”书架上的书籍。
 	- `Bahaism`：针对现有的“巴哈伊教宗教书籍”的书籍。
-	- `Shikhism`：针对书架上“锡克教宗教书籍”的书籍。
+	- `Sikhism`：针对书架上“锡克教宗教书籍”的书籍。
 	- `Shintoism`：针对“神道教宗教书籍”书架上的书籍。
 	- `Zoroastrianism`：针对书架上“琐罗亚斯德教的宗教书籍”的书籍。
 	- `Jainism`：针对书架“耆那教宗教书籍”上的书籍。
@@ -186,7 +186,7 @@ dateCreated: 2024-01-10T13:55:38.362Z
 - 标签必须**使用英文**。Urantiaapedia 使用的软件 [Wiki.js](https://js.wiki/) 目前不支持翻译标签。
 - 标签大小写无关紧要。`book` 和 `Book` 是同一个标签。事实上，它们在 Urantiapedia 上均以小写显示：[按标签搜索](https://urantiapedia.org/t)。所有现有标签也会显示在此页面上。
 - 至少一本书中的所有文件都必须标有`book`以表明它是图书馆内容。
-- 必须至少带有该书所属宗教的标签：`Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`。
+- 必须至少带有该书所属宗教的标签：`Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Sikhism`, `Shintoism`。
 - 对于圣经和圣经以外的书籍，创建了许多标签，例如`Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT`等。
 - 如果标签不存在而您想添加它，只需将其添加到任何文件的标题中，即可创建该标签。
 

@@ -116,7 +116,7 @@ Les classeurs doivent être enregistrés dans ces dossiers de projet GitHub :
 	- `Hinduism` : pour les livres de l'étagère « Livres religieux sur l'hindouisme ».
 	- `Taoism` : pour les livres du rayon « Livres religieux taoïstes ».
 	- `Bahaism` : pour les livres du rayon « Écrits religieux du Bahaïsme ».
-	- `Shikhism` : pour les livres du rayon « Livres religieux sur le sikhisme ».
+	- `Sikhism` : pour les livres du rayon « Livres religieux sur le sikhisme ».
 	- `Shintoism` : pour les livres du rayon « Livres religieux shinto ».
 	- `Zoroastrianism` : pour les livres du rayon « Livres religieux zoroastriens ».
 	- `Jainism` : pour les livres du rayon « Livres religieux du jaïnisme ».
@@ -186,7 +186,7 @@ Dans _tags_, vous devez mettre les balises, séparées par des virgules, qui ont
 - Les étiquettes doivent être **obligatoires en anglais**. L'option de balises traduites n'est actuellement pas disponible dans [Wiki.js](https://js.wiki/), le logiciel utilisé par Urantiapedia.
 - L'étiquette n'a pas d'importance si elle est en majuscule ou en minuscule. `book` et `Book` sont la même balise. En fait, ils sont tous affichés en minuscules sur Urantiapedia : [Recherche par tags](https://urantiapedia.org/t). Toutes les balises existantes sont également affichées sur cette page.
 - Au moins tous les fichiers d'un livre doivent avoir la balise `book` indiquant qu'il s'agit d'un contenu de bibliothèque.
-- Au moins, il doit porter une étiquette de la religion à laquelle appartient le livre : `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`.
+- Au moins, il doit porter une étiquette de la religion à laquelle appartient le livre : `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Sikhism`, `Shintoism`.
 - Pour les livres bibliques et extra-bibliques, de nombreuses balises ont été créées telles que `Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT` et autres.
 - Si une balise n'existe pas et que vous souhaitez l'ajouter, ajoutez-la simplement à l'en-tête de n'importe quel fichier et cette balise sera créée.
 

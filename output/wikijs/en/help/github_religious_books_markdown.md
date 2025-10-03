@@ -116,7 +116,7 @@ Books should be saved in these folders of the GitHub project:
 	- `Hinduism`: for books on the “Hinduism Religious Books” shelf.
 	- `Taoism`: for books on the “Taoist Religious Books” shelf.
 	- `Bahaism`: for the books of the existing “Religious books of Bahaism”.
-	- `Shikhism`: for books on the shelf “Religious Books of Sikhism”.
+	- `Sikhism`: for books on the shelf “Religious Books of Sikhism”.
 	- `Shintoism`: for books on the “Shintoist religious books” shelf.
 	- `Zoroastrianism`: for books on the shelf “Religious books of Zoroastrianism”.
 	- `Jainism`: for books on the shelf “Religious Books of Jainism”.
@@ -186,7 +186,7 @@ In _tags_ you should put tags, separated by commas, that have been established f
 - Labels must **be in English**. The option for translated labels is not currently available in [Wiki.js](https://js.wiki/), the software that Urantiapedia uses.
 - The tag does not matter if it is in upper or lower case. `book` and `Book` are the same tag. In fact, they are all displayed in lower case on Urantiapedia: [Search by tag](https://urantiapedia.org/t). All existing tags are also displayed on this page.
 - At least all files in a book must be tagged with `book` to indicate that it is Library content.
-- It must at least bear a label of the religion to which the book belongs: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`.
+- It must at least bear a label of the religion to which the book belongs: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Sikhism`, `Shintoism`.
 - For biblical and extra-biblical books there are many tags created such as `Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT` and others.
 - If a tag does not exist and you want to add it, just add it to the header of any file and that tag will be created.
 

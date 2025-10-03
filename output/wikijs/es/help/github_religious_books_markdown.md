@@ -116,7 +116,7 @@ Los libros deben guardarse en estas carpetas del proyecto GitHub:
 	- `Hinduism`: para libros del estante «Libros religiosos del hinduismo».
 	- `Taoism`: para libros del estante «Libros religiosos taoístas».
 	- `Bahaism`: para libros del estante «Escritos religiosos del Bahaismo».
-	- `Shikhism`: para libros del estante «Libros religiosos del sijismo».
+	- `Sikhism`: para libros del estante «Libros religiosos del sijismo».
 	- `Shintoism`: para libros del estante «Libros religiosos sintoístas».
 	- `Zoroastrianism`: para libros del estante «Libros religiosos del zoroastrismo».
 	- `Jainism`: para libros del estante «Libros religiosos del jainismo».
@@ -186,7 +186,7 @@ En _tags_ hay que poner etiquetas, separadas por comas, que se haya establecido 
 - Las etiquetas deben ser **obligatoriamente en inglés**. La opción de etiquetas traducidas no está actualmente disponible en [Wiki.js](https://js.wiki/), el software que utiliza Urantiapedia.
 - La etiqueta da igual si está en mayúsculas o minúsculas. `book` y `Book` es la misma etiqueta. De hecho luego todas se muestran en minúsculas en Urantiapedia: [Búsqueda por etiquetas](https://urantiapedia.org/t). En esta página también se muestran todas las etiquetas existentes.
 - Al menos todos los archivos de un libro deberán llevar la etiqueta `book` que indica que es un contenido de la Biblioteca.
-- Al menos deberá llevar una etiqueta de la religión a la que pertenece el libro: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Shikhism`, `Shintoism`.
+- Al menos deberá llevar una etiqueta de la religión a la que pertenece el libro: `Judaism`, `Christianity`, `Islam`, `Buddhism`, `Hinduism`, `Taoism`, `Bahai`, `Sikhism`, `Shintoism`.
 - Para libros bíblicos y extra-bíblicos hay muchas etiquetas creadas como `Bible`, `Apocrypha OT`, `Apocrypha NT`, `Deuterocanon OT`, `Deuterocanon NT` y otras.
 - Si alguna etiqueta no existe y se desea añadir, basta con añadirla en la cabecera de cualquier archivo y esa etiqueta será creada.
 
