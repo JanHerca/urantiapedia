@@ -23,10 +23,10 @@ Pages | `^[A-Z ]+\n\n(\d+)` | `<span id=@p$1@><sup><small>[ p. $1 ]</small></sup
 
 Origin | Fix
 --- | ---
-`^p\. ([0-9ivxlc]+)` | `<span id=@p$1@><sup><small>[ p. $1 ]</small></sup>]</span>`
-`\n\n<span id=@p([0-9ivxl]+)@><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n\\\[paragraph continues\\\]` | ` <span id=@p$1@><sup><small>[ p. $2 ]</small></sup></span>`
-`\n\n<span id=@p([0-9ivxlc]+)@><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n([a-z0-9])` | ` <span id=@p$1@><sup><small>[ p. $2 ]</small></sup></span> $3`
-`([a-z0-9])\n\n<span id=@p([0-9ivxlc]+)@><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n([A-Z])` | `$1 <span id=@p$2@><sup><small>[ p. $3 ]</small></sup></span> $4`
+`^p\. ([0-9ivxlc]+)` | `<span id="p$1"><sup><small>[ p. $1 ]</small></sup>]</span>`
+`\n\n<span id="p([0-9ivxl]+)"><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n\\\[paragraph continues\\\]` | ` <span id="p$1"><sup><small>[ p. $2 ]</small></sup></span>`
+`\n\n<span id="p([0-9ivxlc]+)"><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n([a-z0-9])` | ` <span id="p$1"><sup><small>[ p. $2 ]</small></sup></span> $3`
+`([a-z0-9_,;])\n\n<span id="p([0-9ivxlc]+)"><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n([a-z0-9_])` | `$1 <span id="p$2"><sup><small>[ p. $3 ]</small></sup></span> $4`
 `// File: tests\\\\book.+\n` | ``
 `\[Sacred Texts\]\(\.\./\.\..+\n` | `
 `\[Buy this Book at Amazon.+\n` | ``
