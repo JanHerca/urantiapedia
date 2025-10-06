@@ -64,8 +64,6 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[182:1](sbe18059_htm.html) That is, having made a bargain, he is not to be aggrieved at any unexpected excess of profit made in good faith by the other parties to the bargain; a rather high standard of commercial morality.
-
 [^2]: (182:2) The word is pûr, but it may be suspected of being a blunder, as tô<i>r</i>â, ‘ox,’ would be a more likely word.
 
 [^1]: (183:1) Who would not be likely to kill the animal, and with whom they could come to an understanding as to its good treatment, so as to avoid the sin of bô<i>d</i>yôzê<i>d</i>îh (see Chap. XLIX, 5 n).

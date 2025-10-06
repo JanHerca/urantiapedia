@@ -58,7 +58,7 @@ V. FINDING A CORPSE IN THE WILDERNESS.
 
 B29 (written A.D. 1679), a Persian Rivâyat, No. 29 in the University Library at Bombay.
 
-BK, J, K35, M10 (as described on page [278](sbe18102_htm.html)).
+BK, J, K35, M10 (as described on page [278](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_1#p278)).
 
 L4 (written about A.D. 1324), a Vendidâ<i>d</i> with Pahlavi, in the India Office Library in London.
 

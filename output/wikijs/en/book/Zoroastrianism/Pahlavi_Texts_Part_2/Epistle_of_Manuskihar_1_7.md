@@ -72,12 +72,6 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[304:1](sbe18107_htm.html) In Vend. IX, 48-117 the washings of the several parts of the body are mentioned only once, which is ‘the first computation’ here mentioned.
-
-[304:2](sbe18107_htm.html) Reading pêsmâl, as equivalent to the pê<i>s</i>mâl or pê<i>s</i>îmal previously used; but the word can also be read pasîmal, ‘after deponent,’ which would be inconsistent with the context. The two terms are very liable to be confounded in writing Pahlavi, and in Ep. II, ii, 6 they are again written alike, though put in opposition to each other. The ‘prior deponent’ is Afarg.
-
-[304:3](sbe18107_htm.html) That is, ‘about this one time,’ as J has it.
-
 [^4]: (304:4) In the epistle to which he is replying.
 
 [^5]: (304:5) The words pavan kâmîstîh, both here and in §§ 5, 6, would be better translated as ‘a desideratum, or desired quantity;’ but in p. 305 Pahl. Vend. IX, 132, <i>c</i> the phrase is pavan kamistîh, which can mean only ‘at the minimum, or least.’

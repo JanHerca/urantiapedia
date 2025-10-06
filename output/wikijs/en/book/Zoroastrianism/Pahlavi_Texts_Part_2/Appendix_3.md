@@ -268,7 +268,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^3]: (399:3) The name of this editor was Âtû<i>r</i>\-pad, son of Hêmî<i>a</i>, as appears from the last chapter (chap. 413) of the same book. He was a contemporary of the author of the Dâ<i>d</i>istan-î Dînîk (see Bd. XXXIII, 11).
 
-[^4]: (399:4) Chap. 80 in the recent edition of Dastûr Peshotanji Behramji, because his numbers do not commence at the beginning of the book. His translation of this chapter (see pp. [90](sbe18044_htm.html)\-[102](sbe18044_htm.html) of the English translation of his edition) differs considerably from that given in our text. This difference may be partly owing to its being translated from the Gu<i>g</i>arâti translation, and not direct from the original Pahlavi; but it is chiefly due to the inevitable result of attempting a free translation of difficult Pahlavi, without preparing a literal version in the first place. The translation here given is as literal as possible, but the Pahlavi text is too obscure to be yet understood with absolute certainty in some places.
+[^4]: (399:4) Chap. 80 in the recent edition of Dastûr Peshotanji Behramji, because his numbers do not commence at the beginning of the book. His translation of this chapter (see pp. [90](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p90)\-[102](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p102) of the English translation of his edition) differs considerably from that given in our text. This difference may be partly owing to its being translated from the Gu<i>g</i>arâti translation, and not direct from the original Pahlavi; but it is chiefly due to the inevitable result of attempting a free translation of difficult Pahlavi, without preparing a literal version in the first place. The translation here given is as literal as possible, but the Pahlavi text is too obscure to be yet understood with absolute certainty in some places.
 
 [^1]: (400:1) Literally ‘bearer’ (bûr<i>d</i>âr), which is not the usual word for ‘mother,’ but equivalent to the Av. baretar that is used in that sense.
 
@@ -350,7 +350,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^2]: (412:2) See [^400], note 1.
 
-[^3]: (412:3) See [384](sbe18124_htm.html), note 1.
+[^3]: (412:3) See [384](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p384), note 1.
 
 [^1]: (413:1) The word hû-nô<i>s</i>akŏ is the Pahlavi equivalent of Av. hunu<i>s</i>tâ (Yas. L, 10, b), but the meaning of both words is uncertain. This Tar seems to have been more friendly to Zaratû<i>s</i>t than the Tûrânians were in general, but he appears not to be mentioned in the extant Avesta.
 
@@ -392,7 +392,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^3]: (418:3) Evidently intended for Tî<i>s</i>tar, a personification of the star Sirius, who is supposed to bring the rain from the ocean (see Dd. XCIII, 1-17). Strictly speaking Tîr is the planet Mercury, the opponent of Tî<i>s</i>tar, whose name is given to the fourth month, and thirteenth day of the month, in the Parsi year (see Bd. V, 1, VII, 2, XXVII, 24); but the confusion between the two names is not uncommon in the later books (comp. Sls. XXII, 13 with XXIII, 2).
 
-[^1]: (419:1) See [p. 371](sbe18123_htm.html), note 3.
+[^1]: (419:1) See [p. 371](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_1#p371), note 3.
 
 [^2]: (419:2) Not identified, and the reading is, therefore, uncertain.
 

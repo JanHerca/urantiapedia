@@ -50,7 +50,7 @@ A.D. 881.
 
 1\. For all divisions into chapters and sections the translator is responsible, as the manuscripts are written continuously, with very few stops marked, and even those are often misplaced.
 
-2-6. (The same as on page [2](sbe18008_htm.html).)
+2-6. (The same as on page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_Observations#p2).)
 
 7\. The manuscripts mentioned are:--
 

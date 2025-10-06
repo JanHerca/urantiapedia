@@ -70,10 +70,6 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[292:1](sbe18104_htm.html) J has bûr<i>z</i>îdakŏ, ‘extolled,’ instead of var<i>z</i>îdakŏ, ‘practised.’
-
-[292:2](sbe18104_htm.html) Reading dûkhsharmîh as in J; the other MSS. have m instead. of û.
-
 [^3]: (292:3) Reading dî<i>d</i> ahvôîh; but it can also be read stihânŏîh, in which case the translation would be:--‘And my worldly condition.’
 
 [^4]: (292:4) Meaning the incomplete kind of purification which their statements complained of, or his referred to.

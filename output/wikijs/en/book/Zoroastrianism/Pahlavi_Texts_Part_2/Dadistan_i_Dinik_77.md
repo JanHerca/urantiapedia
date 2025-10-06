@@ -70,10 +70,6 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[224:1](sbe18083_htm.html) Reading vinâsânŏ, as in M14, instead of the doubtful word vashki<i>s</i>n, which might perhaps be compared with Pers. buzhi<i>s</i>, ‘opposition.’
-
-[224:2](sbe18083_htm.html) The meaning is that no one is bound to put such sinners to death until they are condemned by the authorities, but should one do so upon his own responsibility, entirely for the good of the faith, and certain of the impenitence of the sinners, he is not only free from blame, but has done a meritorious deed.
-
 [^1]: (225:1) Reading va<i>l</i>\-dâm-nîvâri<i>s</i>nŏîhâtar; the syllables -âtar being written separately M14 has va<i>l</i> dâm-nîvâri<i>s</i>nîh aîyyâ<i>d</i>tar, ‘more remembering the provision for the creatures.’ Promoting the increase of, and providing maintenance for, good creatures are considered to be important good works.
 
 [^2]: (225:2) Here written Mashyâ and Mashyâyâôîh, but see Chaps. XXXVII, 82, LXIV; 2.

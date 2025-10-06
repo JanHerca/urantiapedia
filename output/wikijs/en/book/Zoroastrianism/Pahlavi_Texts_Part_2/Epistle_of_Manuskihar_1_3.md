@@ -46,7 +46,7 @@ dateCreated: 2025-10-5T18:50:3Z
 
 16\. The sixth is this, that even he who is a rescued [^3] _and_ better-operating (hû-dâgtar) man--when, owing to the writing of a learned _man_ of the realm who is desiring the truth, _he_ is so perplexed [^4] on account of a doubt of increasing the after-tearing of the same perplexity--_has_ no doubt of the falsity and little training existent in the worldly.
 
-17\. The seventh is this, that if none of these six _of_ which I _have_ written should exist, even then your approved cleverness (<i>s</i>îvagdârîh), extolled freedom from strife, hereafter-discerning and complete mindfulness, <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> practised [1](sbe18105_htm.html) attention to the good, and much affection [2](sbe18105_htm.html) for the faithful--so kindly regarding, truly judging, _and_ with a liking for praising (srî<i>d</i>anŏ), as regards whatever I write truly _and_ with true conviction--are, I consider, to make provision, and _have_ realised a preparation striven for.
+17\. The seventh is this, that if none of these six _of_ which I _have_ written should exist, even then your approved cleverness (<i>s</i>îvagdârîh), extolled freedom from strife, hereafter-discerning and complete mindfulness, <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> practised [^1] attention to the good, and much affection [^2] for the faithful--so kindly regarding, truly judging, _and_ with a liking for praising (srî<i>d</i>anŏ), as regards whatever I write truly _and_ with true conviction--are, I consider, to make provision, and _have_ realised a preparation striven for.
 
 <figure class="table chapter-navigator">
   <table>
@@ -119,3 +119,7 @@ dateCreated: 2025-10-5T18:50:3Z
 [^3]: (291:3) That is, delivered from contamination or sin; virikhtô is probably to be traced to Av. vi+irikhta, rather than to vi+rikhta (Pers. gurêkht).
 
 [^4]: (291:4) K35 has a blank space here, and again a few words further on, but it is doubtful if any words be missing, The spaces are filled up in J and BK, apparently by guess, as follows: J has ‘he sees so perplexing a chance, concerning which, owing to the increase of after-tearing of the same perplexity and the arrival of evil, _he_ is doubtful, _has_ no doubt,’ &e. And BK has ‘_he_ is so perplexed on account of no doubt of the falsity _and_ little training _that_ existed in the worldly for increasing the after-tearing of the same perplexity, _has_ no doubt, &c.’
+
+[^1]: (292:1) J has bûr<i>z</i>îdakŏ, ‘extolled,’ instead of var<i>z</i>îdakŏ, ‘practised.’
+
+[^2]: (292:2) Reading dûkhsharmîh as in J; the other MSS. have m instead. of û.

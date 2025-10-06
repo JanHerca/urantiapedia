@@ -64,10 +64,6 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[34:1](sbe18022_htm.html) The three days and nights of final punishment, after the resurrection and before the final purification in melted metal (see Bd. XXX, 13, 16, 20), which is mentioned again in § 8.
-
-[34:2](sbe18022_htm.html) This does not refer to the final punishment of §§ 6 and 8, but to the previous three nights' tribulation just after death, and to the fate of the soul before the resurrection (see Chaps. XXIV, XXV).
-
 [^3]: (34:3) The exposure of the dead, apparently; but the construction of this question and its relation to the reply are by no means clear at first sight. From §§ 2, 5, 6 we have to infer that the exposure is a meritorious action rather than a sin; and from §§ 3, 4 we have to gather that as loss of life occurs to every one, and exposure of the corpse only to some, the former cannot be caused by the latter.
 
 [^1]: (35:1) Differently from others.

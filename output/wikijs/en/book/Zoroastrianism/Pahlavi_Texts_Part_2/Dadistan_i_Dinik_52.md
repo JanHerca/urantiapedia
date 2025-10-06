@@ -36,7 +36,7 @@ dateCreated: 2025-10-5T18:50:3Z
 
 1\. _As to_ the fifty-first question _and_ reply, that _which_ you ask is thus: _There is_ a man who hands over a dirham [^2] as regards five bushels (kafî<i>z</i>) of <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> wheat, thus: ‘I give this to thee as an instalment (bôn-ae) [^1] of five bushels of wheat at the end of a month;’ and during the month, _and_ at _its_ end, those five bushels of wheat become five _times_ the price; would they authorisedly seize the five bushels of wheat _when_ winnowed (pêkhtŏ ka<i>r</i><i>d</i>ŏ) by him, through that instalment which he handed over, or not?
 
-2\. The reply is this, that when they who shall take his dirham _have_ to intrust the five bushels of wheat, unsuspiciously _and_ by their own will, _to him_ to winnow, even so as _they_ are advisedly _and_ unsuspiciously winnowed by him they should take _them_ just as winnowed; _this_ is the decision authorisedly given. 3. But when _it_ is winnowed by him on account of very grievous necessity for payment, _it_ is more suitable for the soul to beg the giver of the money, who is the purchasing payer [^2], for _some_ of that excess of undivided (apâr) profit. 4. For _he has_ to consider the profit of _his_ successors as among the profit of money on the spot [^3]\--_when_ more than <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> such instalment demanded--_and_ not as a fresh carrying off of a gift [1](sbe18060_htm.html).
+2\. The reply is this, that when they who shall take his dirham _have_ to intrust the five bushels of wheat, unsuspiciously _and_ by their own will, _to him_ to winnow, even so as _they_ are advisedly _and_ unsuspiciously winnowed by him they should take _them_ just as winnowed; _this_ is the decision authorisedly given. 3. But when _it_ is winnowed by him on account of very grievous necessity for payment, _it_ is more suitable for the soul to beg the giver of the money, who is the purchasing payer [^2], for _some_ of that excess of undivided (apâr) profit. 4. For _he has_ to consider the profit of _his_ successors as among the profit of money on the spot [^3]\--_when_ more than <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> such instalment demanded--_and_ not as a fresh carrying off of a gift [^1].
 
 <figure class="table chapter-navigator">
   <table>
@@ -71,3 +71,5 @@ dateCreated: 2025-10-5T18:50:3Z
 [^2]: (181:2) Reading zednunand dûkhtâr, but, perhaps, this is a corruption of zednûnînî<i>d</i>âr, ‘a causer of purchase, a broker.’
 
 [^3]: (181:3) That is, ‘ready money.’
+
+[^1]: (182:1) That is, having made a bargain, he is not to be aggrieved at any unexpected excess of profit made in good faith by the other parties to the bargain; a rather high standard of commercial morality.

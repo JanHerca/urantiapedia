@@ -274,11 +274,11 @@ The other account, which is much shorter., is given in Vend. XI X, 67-84. It spe
 
 [^2]: (433:2) That is, 7 feet 10½ inches. This diminution of distance enables a purifying priest to stand near enough to an unclean person to hand him the purifying liquid in a ladle tied to a stick (see §§ 40-42), without going within the furrows traced around the holes or ablution seats at the same distance of three steps (see §§ 21-23).
 
-[^3]: (433:3) That is, at which the unclean person is sprinkled with the urine (see §§ 48-116). The urine should he that of a bull, according to Vend. XIX, 70; but Vend. VIII, 35, 36 state that it mat be that of cattle or draught oxen, generally, or even that of those who perform Khvêtûk-das (see [p. 391](sbe18125_htm.html)). At the present time the term magh, which means ‘a hole’ in the Avesta, is applied to the stones which are used as ablution seats for squatting upon.
+[^3]: (433:3) That is, at which the unclean person is sprinkled with the urine (see §§ 48-116). The urine should he that of a bull, according to Vend. XIX, 70; but Vend. VIII, 35, 36 state that it mat be that of cattle or draught oxen, generally, or even that of those who perform Khvêtûk-das (see [p. 391](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p391)). At the present time the term magh, which means ‘a hole’ in the Avesta, is applied to the stones which are used as ablution seats for squatting upon.
 
 [^4]: (433:4) The greater depth of the hole for catching the ablution droppings in the winter, would provide for the larger quantity of liquid that could not sink into the soil, or evaporate, during the tedious washing, owing to the soil and air being damper than in summer.
 
-[^5]: (433:5) The probable positions of these holes, and of the furrows enclosing them, are shown upon the [plan of the Bareshnûm Gâh](.) on [p. 435](.). which differs but little from the plan still in use.
+[^5]: (433:5) The probable positions of these holes, and of the furrows enclosing them, are shown upon the [plan of the Bareshnûm Gâh](.) on [p. 435](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_4#p435). which differs but little from the plan still in use.
 
 [^1]: (434:1) That is, made of metal, which is under the special protection of the archangel Shat<i>r</i>yŏvair or Shatvaî<i>r</i>ô (see Dd. XLVIII, 17 n).
 
@@ -288,7 +288,7 @@ The other account, which is much shorter., is given in Vend. XI X, 67-84. It spe
 
 [^3]: (436:3) That is, the priest is to stand outside, to the right (see § 132, <i>i</i>), but close to the furrows.
 
-[^1]: (437:1) See [p. 393](sbe18125_htm.html), note 2. This exclamation is a Pahlavi version of a quotation from the Gâthas (Yas. XLVIII, 10, <i>c</i>)
+[^1]: (437:1) See [p. 393](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p393), note 2. This exclamation is a Pahlavi version of a quotation from the Gâthas (Yas. XLVIII, 10, <i>c</i>)
 
 [^2]: (437:2) The demon of wrath (see Dd. XXXVII, 44).
 
@@ -316,7 +316,7 @@ The other account, which is much shorter., is given in Vend. XI X, 67-84. It spe
 
 [^2]: (442:2) Only the initial and final words of the Avesta of the following passages are given in the MSS. here, but they are given at length, with their Pahlavi translation, in Vend. VIII, 49-62, whence the Pahlavi version is here taken.
 
-[^1]: (443:1) This paragraph is the Pahlavi version of the Ahunavar, or Yathâ-ahû-vairyô formula (see [p. 385](sbe18124_htm.html)).
+[^1]: (443:1) This paragraph is the Pahlavi version of the Ahunavar, or Yathâ-ahû-vairyô formula (see [p. 385](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p385)).
 
 [^2]: (443:2) Reading amat, instead of mûn, ‘who,’ (see Dd. LXII, 4 n.)
 
@@ -330,7 +330,7 @@ The other account, which is much shorter., is given in Vend. XI X, 67-84. It spe
 
 [^3]: (444:3) This paragraph is the Pahlavi version of a passage in the Gâthas (Yas. XLIII, 16, b-e).
 
-[^4]: (444:4) See [p. 393](sbe18125_htm.html), note 2.
+[^4]: (444:4) See [p. 393](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p393), note 2.
 
 [^5]: (444:5) From hell, the place of the demons.
 
@@ -388,7 +388,7 @@ The other account, which is much shorter., is given in Vend. XI X, 67-84. It spe
 
 [^7]: (448:7) See Dd. XL, 5, note. All the prayers here detailed are to be murmured merely as a preliminary spell, but while each furrow is being scored a further formula is to be recited (see § <i>g</i>).
 
-[^8]: (448:8) See pp. [385](sbe18124_htm.html)\-386.
+[^8]: (448:8) See pp. [385-386](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p385).
 
 [^1]: (449:1) See Dd. XLVIII, 19 n.
 

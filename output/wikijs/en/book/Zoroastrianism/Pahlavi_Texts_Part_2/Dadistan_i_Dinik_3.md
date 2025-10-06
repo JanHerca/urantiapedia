@@ -74,10 +74,6 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[15:1](sbe18010_htm.html) Mentioned in §§ 7, 8.
-
-[15:2](sbe18010_htm.html) M14 and J have ‘_such rulers_’ own praise is above the sun with swift horses, the primeval luminaries, and all good creatures; for that, too, which may be seen when the light of the sun is owing to the removal of darkness, and the removal is the advance of illumination of the world, is the display of days _and_ nights.'
-
 [^1]: (16:1) Reading kâmakŏ instead of the dâmakŏ of the MSS., which was, no doubt, originally gâmakŏ.
 
 [^2]: (16:2) M14 has ‘knowing perfectly.’

@@ -176,7 +176,7 @@ dateCreated: 2025-10-5T18:50:3Z
 
 [^4]: (275:4) Reading mûn, as in M14 and J, instead of amat, ‘when,’ (see Chap. LXII, 4 n.)
 
-[^1]: (276:1) See [p. 3](sbe18009_htm.html), note 2.
+[^1]: (276:1) See [p. 3](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_1#p3), note 2.
 
 [^2]: (276:2) The two southern provinces of Persia, bordering on the Persian Gulf.
 
