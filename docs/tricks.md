@@ -53,7 +53,7 @@ Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `
 `_([A-Za-zâêîôûñ])_` | `<i>$1</i>`
 `_([A-Za-zâêîôûñ])([A-Za-zâêîôûñ])_` | `<i>$1$2</i>`
 `<script\b[^>]*>[\s\S]*?<\/script>` | `blank` (Remove script tags from HTML)`
-`!\[\]\(data:image/jpeg[^\)]+\)` | `![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_1/001)`
+`!\[\]\(data:image/jpeg[^\)]+\)` | `![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_1/001.jpg)`
 `^\[([ivxlc]+):(\d+)\]\(\.\)` | `[^$2]: ($1:$2)`
 `^\[(\d+):(\d+)\]\(\.\)` | `[^$2]: ($1:$2)`
 `\[(\d+)\]\(\.\)` | `[^$1]`

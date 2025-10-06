@@ -1,0 +1,139 @@
+---
+title: "2. The Sikand-Gûmânîk Vigâr"
+description: "Pahlavi Texts, Part III (SBE 24) Dînâ-î Maînôg-î Khirad, Sikand-gûmânîk Vigâr, and the Sad Dar"
+published: true
+date: 2025-10-6T9:44:6Z
+tags: Zoroastrianism, book
+editor: markdown
+dateCreated: 2025-10-6T9:44:6Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1. The Dînâ-î Maînôg-î Khirad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Zoroastrianism/Pahlavi_Texts_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_3">
+          <span class="pr-2">3. The Sad Dar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+## INTRODUCTION. 2. THE <i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR.
+
+The term <i>S</i>ikand-gûmânîk Vi<i>g</i>âr, ‘doubt-dispelling explanation,’ is the Pahlavi name applied to a controversial work by its author. The chief object of the work is to prove the correctness of the fundamental doctrine of the Mazda-worshipping religion, that good and evil do not proceed from the same source, and to show that other religions, while professing to believe in the unity of creation, can only account for the origin of evil, either by degrading the character of the sacred being, or by attributing evil to <i>a</i> corrupting influence which is really a second being. In other words, the author's object is to show that all people, who believe in an all-good and omnipotent creator, must logically admit the existence of an independent origin of evil, whatever they may say to the contrary. In the course of his arguments, he naturally finds it easier to attack the inconsistencies of other beliefs than to defend his own, and much of his attention is, therefore, given to pointing out apparent inconsistencies and seemingly delusive statements in the scriptures of the Muhammadans, Jews, Christians, and Mânîchaeans.
+
+The author's name was Mar<i>d</i>ân-farukh, son of Aûha<i>r</i>ma<i>z</i><i>d</i>\-dâ<i>d</i> (Chap. I, 35), and his account of his enquiries (§§ 36, 37) bears much resemblance to what is said of the wise man's proceedings in Mkh. I, 34-36. He determines to <span id="pxxvi"><sup><small>[ p. xxvi ]</small></sup></span> write a treatise for removing religious doubt, and calls it the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr (Chap. I, 38). He is also careful in stating that he has selected many of his facts and arguments from older writings, such as those of Âtûr-pâ<i>d</i>îyâvand [^1], which he had found in the Dînka<i>r</i><i>d</i> [^2] compiled by Âtû<i>r</i>\-frôbag, son of Farukh-zâ<i>d</i>. In this statement he must be referring to the first two books of the Dînka<i>r</i><i>d</i>, which have not yet been discovered, as the other seven books, which are extant, do not contain the matters to which he alludes. He also mentions the Rôshan manuscript compiled by Rôshan [^3], son of Âtû<i>r</i>\-frôbag, a writer who is often quoted in the Pahlavi commentaries on the Avesta [^4]. And he begins his religious discussion by replying to some difficulties that had been suggested to him, in a friendly manner, for solution by Mit<i>r</i>ô-aîyyâr, son of Mahmâ<i>d</i>, of Ispahân [^5].
+
+His allusions to Muhammadanism are of a very guarded character, though sufficiently clear to leave no doubt as to the religion he means. Like all Pahlavi writers, he never mentions that religion by name, but when, in the position of a Zoroastrian in Persia, he states that he did not admire the religion that was then in supremacy [^6], there can be little doubt that he refers to Muhammadanism. And any such doubt would be dispelled, not only by such vague references to passages in the Qur’ân as occur in Chap. XI, 4, 5, 269-271, but also by the distinct quotation of a striking legend, from the same source, regarding the fallen angel in §§ 52-60, 248 of the same chapter, and by the use of the term Mûtazalîk (Ar. mu’htazil) with reference to a certain sect in § 280.
+
+With regard, therefore, to the age of the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr, we may be quite certain that it was written long after the Arab conquest of Persia; and from the names mentioned by the author, as stated above, it is evident that he lived after the time of Rôshan, son of Âtû<i>r</i>\-frôbag, son of <span id="pxxvii"><sup><small>[ p. xxvii ]</small></sup></span> Farukh-zâ<i>d</i>. Now, according to a Pahlavi tale [^1], the accursed Abâli<i>s</i> [^2], the Zandîk, had a religious disputation with Âtû<i>r</i>\-frôbag, son of Farukh-zâ<i>d</i>, in the presence of the Khalîfah Al-Mâmûn who reigned A.D. 813-833; it is, therefore, hardly possible that Rôshan, son of Âtû<i>r</i>\-frôbag, could have written his commentary before the middle of the ninth century. We also know, from the last chapter of the third book of the Dînka<i>r</i><i>d</i>, that Âtû<i>r</i>\-frôbag was not the last editor of that work, but was succeeded by his son Zaratû<i>s</i>t, and, later still, by Âtû<i>r</i>pâ<i>d</i>, son of Hêmî<i>d</i>, who appears to have given the book its final revision. Of Âtû<i>r</i>pâ<i>d</i>'s work the author of the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr does not speak, and it is, therefore, reasonable to suppose that it had not been completed in his time. But, according to Bd. XXXIII, 10, 11, this Âtû<i>r</i>pâ<i>d</i> was a contemporary of Zâ<i>d</i>\-sparam who was living in A.D. 881 [^3], and his revision of the Dînka<i>r</i><i>d</i> was, therefore, probably in progress by the end of the ninth century. From these facts we may conclude that the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr was written after the middle, but before the end, of the ninth century; unless we were to suppose that, although its author consulted only the first two books of the Dînka<i>r</i><i>d</i> (as mentioned above), the remaining seven books may have existed as a separate work unknown to him. Considering, however, that Âtû<i>r</i>pâ<i>d</i>, son of Hêmî<i>d</i>, was so important a personage as ‘the leader of those of the good religion’ of his time, this supposition would not be very probable.
+
+There is probably nothing new to defenders of Christianity in Mar<i>d</i>ân-farukh's attacks upon the apparent inconsistencies of their scriptures, with regard to the origin of evil and the existence of unity in trinity, subjects that are more usually admitted without investigation than seriously discussed. This is not, however, the mode in which such subjects are likely to be treated by outsiders, and missionaries will no doubt find among Mar<i>d</i>ân-farukh's arguments many that they must become accustomed to hear from educated <span id="pxxviii"><sup><small>[ p. xxviii ]</small></sup></span> men of other faiths. And, if they engage in controversy, as they ought to do, they must expect to hear them stated in less considerate language than this author uses.
+
+An interesting question, for any one who possesses special information on the subject, would be to ascertain from what version of the Old and New Testaments Mar<i>d</i>ân-farukh drew his quotations. There seems every probability that his translation of the passages, though it may not be altogether literal, is yet sufficiently so to admit of the particular version being identified, if its peculiarities of wording were carefully considered. The peculiar Pahlavi spelling of the name Isaac in Chap. XIV, 42, as deduced from its corruption in Pâzand, points to a Syriac version of one of the legendary works consulted by the author.
+
+In his discussion of the tenets of the Mânîchaeans Mar<i>d</i>ân-farukh is dealing with a subject that is far less known than the other faiths he attacks, and the information he gives may be valuable. Unfortunately the latter part of this discussion is missing, although the loss of text is probably not very extensive.
+
+The original Pahlavi text of the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr has not yet been discovered, although there are several existing copies of a Pahlavi version of the earlier part of the work, which are evidently reproductions from the Pâzand text. These pseudo-Pahlavi manuscripts usually end with the fifth chapter, and are certainly superior to the [similar](errata_htm.html) reproductions of the Dînâ-î Maînôg-î Khira<i>d</i>, represented by K22 (see [p. xix](sbe24002_htm.html)). Yet they generally use the adjective suffix -îk for the abstract suffix -îh, because both these suffixes become -î in Pâzand; they often have kabed, ‘much,’ for afa<i>s</i>, and ‘by him,’ when the Pâzand has vas by mistake for va<i>s</i>; they also substitute the Pâzand misreading ainâ for the true Pahlavi adîna<i>s</i>; besides adopting other occasional miswritings for which the Pâzand version alone is responsible. Such manuscripts could be of no critical value, unless they had descended from some family of Pâzand manuscripts which had left no surviving representatives in Pâzand, and this does not appear to be the case.
+
+A specimen of these Pahlavi reproductions is contained <span id="pxxix"><sup><small>[ p. xxix ]</small></sup></span> in the last 36 folios of L15, No. 15 of the Avesta and Pahlavi manuscripts in the India Office Library in London. It commences with the words ‘all the angels’ in Chap. I, 4, and ends with Chap. V, 71; the handwriting being the same as that in L26, a manuscript that contains a date corresponding to A.D. 1737.
+
+In fols. 9-16 of BM. No. 22,378 of the Additional Oriental manuscripts in the British Museum Library, there is a modern fragment of this reproduced Pahlavi text, interlined with a transliteration in the Persian character, and alternating with a Persian paraphrase. This fragment contains only Chap. I, 1-31.
+
+The reproduced Pahlavi text also occurs, in parallel columns with the usual Pâzand and Sanskrit versions and a Persian paraphrase, in R, an imperfect polyglot manuscript given to the late Mr. J. Romer by a Dastûr in Surat. Of this foolscap-folio manuscript Mr. Romer sent pp. 16-31 (with the first fifteen pages of a Pahlavi-Persian Bundahi<i>s</i>) to the late Professor M. J. Müller, through Mr. Poley; he also sent pp. 32-63, 82-93 to the late Professor H. H. Wilson on 3rd December 1836, who afterwards transferred them to Professor Max Müller; and he gave pp. 64-81, 99-143 to the late Mr. Norris. The first of these fragments, together with that of the Bundahi<i>s</i> now constitute No. 10 of the Müller Collection in the State Library at Munich; the next two fragments were presented to the India Office Library, and the two last mentioned were acquired by it, in 1876. It is most probable that the first fifteen pages of this polyglot manuscript were not given to Mr. Romer, but the first fifteen pages of the Bundahi<i>s</i> were substituted for them. The portion extant (pp. 16-143) contains all four versions of Chaps. I, 28-V, 57, with the Sanskrit and Persian versions of Chap. I, 25-27, and the Pahlavi and Pâzand versions of Chap. V, 58-62; and the latter two versions are everywhere interlined with a transliteration in Persian characters. This manuscript is modern and of no particular critical value; but, as the combination of the four versions is rare, if not unique, it would be very desirable to discover the rest of the manuscript.
+
+<span id="pxxx"><sup><small>[ p. xxx ]</small></sup></span>
+
+In another manuscript, No. 18 of the Anquetil Collection in the National Library at Paris, the reproduced Pahlavi text has the usual Pâzand version written above it. This manuscript, which is in the form of a roll, begins at the same point as L15 (see [p. xxix](.)) and ends with Chap. V, 95, which is said to be the usual extent of other manuscripts of this class in India. A copy of this manuscript is No. 23 of the Müller Collection in the State Library at Munich.
+
+An extension of the same reproduced Pahlavi text, with the Pâzand version written above it, and alternating with the Sanskrit version, is contained in K28, No. 28 of the Irânian manuscripts in the University Library at Kopenhagen. It is an imperfect octavo manuscript, of which only 66 folios remain, written eleven lines to the page, and, in its present state, it is undated, but seems to be fully 150 years old. The portions of the text that it still contains are only Chaps. I, 1-II, 8; III, 1-25; III, 36-IV, 106; VIII, 103-IX, 16; IX, 30-X, 13; X, 71-XI, 28; XI, 55-61; so that more than half the text that ought to be included within its extreme limits is missing; but its original extent, within the same limits, was more than double the usual length of the reproduced Pahlavi text, as stated above. In this particular, of unusual length, only one other manuscript of that text seems to be known in India that resembles it, in addition to the imperfect copy next described. K28 contains Nêryôsang's usual Sanskrit introduction (see [p. xxxiii](.)), and differs from the oldest Pâzand manuscript AK in only two or three instances, and these variations can be explained as corrections made on the authority of the Sanskrit version.
+
+An imperfect and modern copy of the Pahlavi-Pâzand-Sanskrit texts is also contained in twenty-two folios prefixed to AK (described below). This copy commences with Nêryôsang's Sanskrit introduction, and includes only Chaps. I, 1-IV, 100 and X, 71-XI, 47. Its writer has intended to give the three versions in successive sentences, but, after Chap. I, 23, the Pâzand and Sanskrit sentences are less and less frequently written, till they cease altogether after I, 43, with the exception of one or two isolated sections. In <span id="pxxxi"><sup><small>[ p. xxxi ]</small></sup></span> several cases he has also substituted the correct abstract suffix -îh for the usual incorrect -îk, but this correction is generally confined to abstract nouns in common use.
+
+As none of these Pahlavi manuscripts can be considered otherwise than as reproductions from the Pâzand, it is to the Pâzand-Sanskrit version of Nêryôsang that we must still look for the nearest approach to the original text of the work. It is in this version, too, that we find the greatest extent of text still extant, although the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr seems to possess the peculiarity of wearying out all its copyists at some point or other, so that not only is there no complete copy of the work known, but also nearly every copyist has stopped his work at a different place.
+
+The oldest known manuscript of the Pâzand-Sanskrit version belongs to Dastûr Hôshangji Jâmâspji of Poona, and is called AK, because it is supposed to have been written by Âsadîn, son of Kâkâ. In its present state this manuscript consists of seventy-seven small quarto folios of very old, discoloured, Indian paper, written sixteen lines to the page, and containing the Pâzand version in short sentences, alternating with a word-for-word Sanskrit translation of each sentence; the Sanskrit being written upside down, for the sake of forming a continuous line with the reversely-written Avesta characters of the Pâzand. From other manuscripts it is known that this Pâzand-Sanskrit version was compiled by Nêryôsang, son of Dhaval, but in this manuscript his usual Sanskrit introduction is lost with the first three folios of the text, and the existing seventy-seven folios contain only Chaps. I, 16-XI, 145. As this extends only one folio beyond the middle of the whole of the text that is extant, it is supposed that this old manuscript was divided into two nearly equal moieties on the occasion of some division of property, of which the earlier moiety has been preserved, and the later one either lost, or destroyed, or buried in some inaccessible library.
+
+In consequence of the imperfect state of this manuscript it bears no date, but an old Sanskrit colophon has been copied by the writer of JE (one of the more modern manuscripts that are evidently derived from AK through one or <span id="pxxxii"><sup><small>[ p. xxxii ]</small></sup></span> more intermediate copies), and this may be fairly assumed to be the colophon of AK. This colophon may be translated as follows:—‘In the Sa<i>m</i>vat year 1625, in the current <i>S</i>âka _year_ 1490, on the present day (?), the fourth day Shahrîvar of the eleventh month Bahman, in the district of Nâga-ma<i>n</i><i>d</i>ala [^1], in the royal reign of king Sul<i>t</i>ân Mu_th_affar-shâh, the book named <i>S</i>ikand-gûmânîk Vi<i>g</i>âr is written, for the use of Amalshâh <i>K</i>angashâh [^2], by the priest Âsadîn [^3], son of the priest Kâkâ. May it become auspicious! may it be beneficial!’
+
+The date indicated by this colophon seems to correspond to the 23rd September 1568 [^4], but it may, of course, be doubted whether it originally belonged to AK, because the text to which it is appended in JE is incomplete. If it were attached to AK, the text in that manuscript must either have been originally incomplete, or some of the later folios must have been lost, while the last one, containing the colophon, was still preserved. If it did not belong to AK, it must have belonged to some later manuscript, because there is no doubt that JE has descended from AK, and could not, therefore, contain the colophon of an older manuscript than AK, unless it had been written in AK itself, or obtained in an irregular manner from some unrecorded source. For these reasons there seems little doubt that AK was written either in 1568, or earlier; and the general appearance of its folios favours this assumption. So far as it extends this is the best manuscript of the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr that is known to exist, and the present translation has, therefore, been based upon its texts, <span id="pxxxiii"><sup><small>[ p. xxxiii ]</small></sup></span> which are, no doubt, very nearly in the same state as when edited by Nêryôsang; the Sanskrit version, especially, is far more correct than in the later copies. Many of the Pâzand sections in Chaps. V-VIII are written in Pahlavi only, or in Pahlavi with the Pâzand written above it; but, in all cases, this Pahlavi is as corrupt as that of the reproduced Pahlavi manuscripts.
+
+The most complete manuscripts of the Pâzand-Sanskrit version are JJ and JE, of which JJ is the oldest and best, but it has not yet been thoroughly examined. It is a small quarto volume of 182 folios of Indian paper, written fifteen to seventeen lines to the page, and belongs to Dastûr Khurshêdji Jamshêdji of Nausârî. From certain blunders and peculiarities, which its writer has copied, it is certain that this manuscript has descended from AK, and, also, that it has derived a few variations from some other source. Its Sanskrit text is not written inverted, as it is in AK, and it commences with Nêryôsang's usual Sanskrit introduction, as translated in [p. xx](sbe24002_htm.html), but with the clause containing the names altered to the following effect: This book, named <i>S</i>ikand-gûmânîk Vi<i>g</i>âr, is translated by me, Nêryôsang son of Dhaval, from the Pahlavi language into the Sanskrit language, and written from the difficult Parsi letters with the Avesta letters, for the joyful understanding of the good listeners to instruction, the true-minded.' The texts in JJ are of the same extent as the translation in this volume, and are followed by a colophon in Persian, Sanskrit, and imperfect Pahlavi, which states that the manuscript was written by Dastûr Jamshêd, son of Jâmâsp, son of Âsâ, son of Frê<i>d</i>ûn, inhabitants of Nausârî, and completed on the day Srôsh of the month Vohûman, A.Y. 1137 (corresponding to the 28th August 1768).
+
+The other manuscript, JE, which is as complete as the translation in this volume, is a foolscap-folio volume of 132 folios, written eighteen lines to the page, and belongs to Dastûr Hôshangji Jâmâspji of Poona. It corresponds very closely with JJ, but its Sanskrit (which is not written inverted) is rather more corrupt; and it contains the same indications of descent from AK as that manuscript does, <span id="pxxxiv"><sup><small>[ p. xxxiv ]</small></sup></span> with the same variations derived from some other source. It commences with Nêryôsang's usual Sanskrit introduction, and at the end of the text it has the old Sanskrit colophon translated above, and supposed to belong to AK. And this is followed by a Persian colophon, written on the day Hôrmazd of the month Bahman, A.Y. 1211 (corresponding to the 26th July 1842), and stating that this manuscript was copied from that of Âsadîn, son of Kâkâ, in Bombay, by Jamshêd, son of Edalji, son of Bahmanji, son of the writer of JJ. From this it might be too hastily assumed that the old manuscript AK was still complete as recently as 1842; but, if such were the case, it would be difficult to understand why Dastûr Hôshangji could learn nothing about it's missing moiety some twenty-five years afterwards, when he made searching enquiries on the subject; and it would be still more difficult to explain the variations in J E, already mentioned as derived from some other source than AK. It is more probable that the writer of JE found the old colophon of AK copied at the end of a more recent manuscript, which led him to believe that the latter was written by Âsadîn, son of Kâkâ.
+
+That the first folio of AK had already been lost, considerably more than a century ago, appears from PB3, No. 3 of the Burnouf Collection in the National Library at Paris, which was evidently copied from a copy of AK, and is certainly more than a century old, judging from the general appearance of the paper on which it is written. This manuscript, which was given to Burnouf by Mr. Mâ<i>n</i>ekji Khurshêdji of Bombay, is a small octavo volume of 125 folios of Indian paper, written twelve to sixteen lines to the page, and contains the Pâzand-Sanskrit text of Chaps. I, 5-53, and II, 5-X, 66: the Sanskrit being written upside down, as in AK. The loss of Nêryôsang's Sanskrit introduction and Chap. I, 1-4 of the text indicates that the first folio of AK was already missing when the original of PB3 was copied, and several lacunae in the earlier folios, which have been filled up in red ink from some other source, indicate the torn condition of the earlier folios of AK. The loss of Chaps. I, 54-II, 4 is due to two folios <span id="pxxxv"><sup><small>[ p. xxxv ]</small></sup></span> being absent between folios 11 and 12 of PB3; and after Chap. X, 66 all further folios have been lost. In some sections in Chaps. VI and VIII, where the Pâzand text is written above its Pahlavi equivalent in AK, much confusion has been occasioned in PB3 by reading the Pâzand and Pahlavi versions as two successive lines of text; and it is evident that this confusion originated in some manuscript intermediate between AK and PB3, though it has been increased by further blundering on the part of the writer of PB3 itself.
+
+The Pâzand version of Nêryôsang also occurs in short sentences alternating with a Gu<i>g</i>arâti translation in MH19, No. 19 of the Haug Collection in the State Library at Munich. This manuscript, which was given to Haug by Dastûr Kaî-Khusrô at Surat in 1864, is a small quarto of 124 folios of old Indian paper, of which the first Ira folios contain the Pâzand-Gu<i>g</i>arâti version of Chaps. I, 1-XI, 201, written thirteen to nineteen lines to the page. Towards the latter end of the manuscript blank spaces are left for the Gu<i>g</i>arâti version of many of the sections; and several of the passages that are written only in Pahlavi in AK are similarly written in MH19. From this and other peculiarities it is evident that MH19 has descended from AK, but probably through some intermediate manuscript that must have been written when AK was more complete than it is now. Judging from the appearance of the paper of MH19 it can hardly be less than 150 years old, hut it contains no date or colophon of any description.
+
+Another manuscript, which contains a large portion of the Pâzand version of Nêryôsang, without his Sanskrit translation, is L23, No. 23 in the India Office Library in London. It is an octavo volume of eighty folios of Indian paper, written ten to twelve lines to the page, in the same handwriting as L15 and L26 (see [p. xxix](.)), which last manuscript contains a date corresponding to A.D. 1737. L23 contains the Pâzand text of Chaps. I, 34-VIII, 23, and many of the passages written in Pahlavi in AK are similarly written in L23, which indicates the descent of the latter manuscript <span id="pxxxvi"><sup><small>[ p. xxxvi ]</small></sup></span> from the former; an indication which is confirmed by the repetition of other peculiarities.
+
+From this account of all the manuscripts of the <i>S</i>ikand-gûmânîk Vi<i>g</i>âr, that have been examined by the translator, it appears probable that no manuscript independent of AK has yet been discovered. The few variations which indicate another source can easily be explained as emendations by some later copyist, who had noticed, or imagined, some deficiencies in the text of that manuscript.
+
+The <i>S</i>ikand-gûmânîk Vi<i>g</i>âr has not been hitherto translated into any European language, but an edition of its Pâzand and Pahlavi texts was prepared by Dastûr Hôshangji about fifteen years ago, and arrangements have been made for the publication of these texts, with the Sanskrit version, at an early date.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1. The Dînâ-î Maînôg-î Khirad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Zoroastrianism/Pahlavi_Texts_Part_3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_3">
+          <span class="pr-2">3. The Sad Dar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+## Footnotes
+
+[^1]: (xxvi:1) See Chaps. I, 38, IV, 106, IX, 2, X, 52.
+
+[^2]: (xxvi:2) See Chaps. IV, 107, IX, I, 4, X, 57.
+
+[^3]: (xxvi:3) See Chap. X, 53, 54.
+
+[^4]: (xxvi:4) See Sls. I, 4n.
+
+[^5]: (xxvi:5) See Chap. II, 1, 2.
+
+[^6]: (xxvi:6) See Chap. X, 45.
+
+[^1]: (xxvii:1) A copy of which is contained in the very old codex No. 20 in the University Library at Kopenhagen, fols. 148-152.
+
+[^2]: (xxvii:2) The reading of this name is uncertain, but this is the Pâzand form.
+
+[^3]: (xxvii:3) See Ep. III, 2, 17, 21.
+
+[^1]: (xxxii:1) Probably an old name of Nausârî.
+
+[^2]: (xxxii:2) This <i>K</i>angashâh was probably a grandson of the <i>K</i>angashâh at whose instigation the Parsis in India carried on a correspondence with those in Persia in A.D. 1478-81, which is still preserved in the Persian Rivâyats. And his father may have been the Mâ<i>n</i>ekshâh <i>K</i>angashâh who was the head of the Parsi laymen in Nausârî in 1531, when he was 70 years old, as appears from the Hâdesâ Nâmu (Bombay, 1831).
+
+[^3]: (xxxii:3) In a Gu<i>g</i>arâti memorandum, recently appended to JE, it is stated that the colophon of a Yasna Sâdah, written in A.D. 1572 or 1576, gives the pedigree of this copyist as follows:—Âsadîn, son of Kâkâ, son of Dharpâl, son of Lakhmidar, son of Môbad Kâmdîn, son of Zaratû<i>s</i>t, son of Môbad Hormazdyâr, son of Râmyâr.
+
+[^4]: (xxxii:4) Or it may be 1569, as the <i>S</i>âka date has been altered from 1491 into 1490.

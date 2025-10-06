@@ -18,7 +18,7 @@
 
 <p style="text-align:center;">
 <span class="text-h3">PAHLAVI TEXTS</span><br>
-PART I<br>
+PART II<br>
 <span class="text-h3">THE DÂDISTÂN-Î DÎNÎK AND THE EPISTLES OF MÂNÛSKÎHAR</span><br>
 TRANSLATED BY<br>
 <span class="text-h5">E.W. WEST</span><br>
