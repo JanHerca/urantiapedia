@@ -27,18 +27,21 @@ Origin | Fix
 `\n\n<span id="p([0-9ivxl]+)"><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n\\\[paragraph continues\\\]` | ` <span id="p$1"><sup><small>[ p. $2 ]</small></sup></span>`
 `\n\n<span id="p([0-9ivxlc]+)"><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n([a-z0-9])` | ` <span id="p$1"><sup><small>[ p. $2 ]</small></sup></span> $3`
 `([a-z0-9_,;])\n\n<span id="p([0-9ivxlc]+)"><sup><small>\[ p\. ([0-9ivxlc]+) \]</small></sup></span>\n\n([a-z0-9_])` | `$1 <span id="p$2"><sup><small>[ p. $3 ]</small></sup></span> $4`
-`// File: tests\\\\book.+\n` | ``
-`\[Sacred Texts\]\(\.\./\.\..+\n` | `
-`\[Buy this Book at Amazon.+\n` | ``
-`\[!\[\]\(\.\./\.\./cdshop.+\n` | ``
-`\* \* \*\n` | ``
-`\[!\[\]\(img/tease\.jpg.+\n` | ``
+`^// File: tests\\\\book.+\n` | ``
+`^\[Sacred Texts\]\(\.\./\.\..+\n` | `
+`^\[Buy this Book at Amazon.+\n` | ``
+`^\[!\[\]\(\.\./\.\./cdshop.+\n` | ``
+`^\* \* \*\n` | ``
+`^\[!\[\]\(img/tease\.jpg.+\n` | ``
+`^\[« Previou.+\n` | ``
+`^\[Index\]\(\.\./.+\n` | ``
 `(?<!\w)'([^']*)'(?!\w)` | `‘$1’`
 `"([^"]*)"` | `“$1”`
 `@` | `"`
 `\[[^\]]+\]\(#fn_(\d+)\)` | `[^$1]`
 `\[([^\]]+)\]\(\w+\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
 `### Footnotes` | `## Footnotes`
+`### CHAPTER` | `## CHAPTER`
 `  $` | ``
 `^"` | `“`
 `"$` | `”`
@@ -57,6 +60,7 @@ Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `
 `^\[([ivxlc]+):(\d+)\]\(\.\)` | `[^$2]: ($1:$2)`
 `^\[(\d+):(\d+)\]\(\.\)` | `[^$2]: ($1:$2)`
 `\[(\d+)\]\(\.\)` | `[^$1]`
+`"Go to next page"` | ``
 `([^=>])"([^>"]*)"([^=>])` | `$1“$2”$3`
 
 ### After translation with Google Translator of Markdown articles to Spanish 
