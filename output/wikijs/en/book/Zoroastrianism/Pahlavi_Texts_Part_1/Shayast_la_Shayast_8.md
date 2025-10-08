@@ -130,7 +130,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^3]: (305:3) This applies to all cases of merely imputed sin, such as those committed by children, which are imputed to the father, and for which he is spiritually, as well as temporally, responsible.
 
-[^4]: (305:4) Reading pavan, ‘on,’ instead of barâ, ‘out of,’ (see [p. 176](sbe0552_htm.html), note [5](sbe0552_htm.html)).
+[^4]: (305:4) Reading pavan, ‘on,’ instead of barâ, ‘out of,’ (see [p. 176](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Zad_sparam_8#p176), note 5).
 
 [^5]: (305:5) Most of this clause is omitted in K20 by mistake.
 

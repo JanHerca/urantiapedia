@@ -31,25 +31,25 @@ dateCreated: 2025-10-7T9:56:37Z
 
 <span id="p501"><sup><small>[ p. 501 ]</small></sup></span>
 
-P. [89](sbe37029_htm.html), ll. 9, 10, for ‘the Irânian nationality (Aîrîh)’ read ‘subjection (hêrih)’
+P. [89](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_47#p89), ll. 9, 10, for ‘the Irânian nationality (Aîrîh)’ read ‘subjection (hêrih)’
 
-P. [186](sbe37059_htm.html), ll. 19, 20, for ‘preparation’ read ‘bespattering’
+P. [186](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_11#p186), ll. 19, 20, for ‘preparation’ read ‘bespattering’
 
 In several places it would be better to read âmûkŏ,‘ teaching,’ instead of hamô-kun, ‘every kind (or mode),’ so as to obtain the following amended passages:—
 
-P. [23](sbe37012_htm.html), ll. 14-16. Then the exalting chanted teaching of Aûha<i>r</i>ma<i>z</i><i>d</i> for Zaratû<i>s</i>t is called, &c.
+P. [23](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p23), ll. 14-16. Then the exalting chanted teaching of Aûha<i>r</i>ma<i>z</i><i>d</i> for Zaratû<i>s</i>t is called, &c.
 
-P. [24](sbe37014_htm.html), l. 1, the teaching for Kaî-Vi<i>s</i>tâsp; &c.
+P. [24](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p24), l. 1, the teaching for Kaî-Vi<i>s</i>tâsp; &c.
 
-P. [114](sbe37039_htm.html), ll. 15-18, the meritoriousness in the guardianship and teaching by the keepers of those flocks; the happy effect of the flock and that of the keeper's teaching; &c.
+P. [114](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_Observations#p114), ll. 15-18, the meritoriousness in the guardianship and teaching by the keepers of those flocks; the happy effect of the flock and that of the keeper's teaching; &c.
 
 &nbsp;&nbsp;&nbsp;&nbsp;„  ll. 23-28, that of the disciple through the teaching by the priestly instructor; the teaching of the priestly instructor for the pupil, and the happy effect of the priestly instructor's teaching in similar matters.
 
-P. [119](sbe37040_htm.html), ll. 2-5, the want of eminence of any one through a teaching that is an offence to others, which is owing to his closed doors and evil eminence in teaching; &c.
+P. [119](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_1#p119), ll. 2-5, the want of eminence of any one through a teaching that is an offence to others, which is owing to his closed doors and evil eminence in teaching; &c.
 
 Professor Darmesteter has suggested the following correction:—
 
-P. [26](sbe37016_htm.html), ll. 22, 23, for ‘_based_ upon the traditional early law (vâsarî<i>d</i> pê<i>s</i>dâdŏ)’ read ‘_dependent_ upon Vâêgerê<i>d</i> the Pê<i>s</i>dâ<i>d</i>ian;’ \[who was the twin brother of Hôshâng; see Sachau's Albîrûnî's Chronology of Ancient Nations, pp. 206, 211\].
+P. [26](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p26), ll. 22, 23, for ‘_based_ upon the traditional early law (vâsarî<i>d</i> pê<i>s</i>dâdŏ)’ read ‘_dependent_ upon Vâêgerê<i>d</i> the Pê<i>s</i>dâ<i>d</i>ian;’ \[who was the twin brother of Hôshâng; see Sachau's Albîrûnî's Chronology of Ancient Nations, pp. 206, 211\].
 
 <figure class="table chapter-navigator">
   <table>

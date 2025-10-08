@@ -98,7 +98,7 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[^1]: (133:1) Zâ<i>d</i>\-sparam was Dastûr of Sîrkân, about thirty parasangs south of Kirmân, in A.D. 881. At a later date, probably about A. D. 900, he compiled three series of Selections, from religious texts then extant, and these have been preserved by the Parsis in the same MSS. as contain the Dâ<i>d</i>istân-î Dînîk (see the Introduction). The first eleven chapters of this first series of Selections have been already translated in S.B.E., vol. v, pp. 155-186, as they refer to some of the subjects detailed in the Bundahi<i>s</i>. The remaining chapters are here translated, except the last which refers to the Nasks and Gâthas, and will be found in S.B.E., vol. xxxvii, pp. 401-405. The MS. authorities for the text are K35 and T (see [p. 2](sbe4704_htm.html) and Introduction).
+[^1]: (133:1) Zâ<i>d</i>\-sparam was Dastûr of Sîrkân, about thirty parasangs south of Kirmân, in A.D. 881. At a later date, probably about A. D. 900, he compiled three series of Selections, from religious texts then extant, and these have been preserved by the Parsis in the same MSS. as contain the Dâ<i>d</i>istân-î Dînîk (see the Introduction). The first eleven chapters of this first series of Selections have been already translated in S.B.E., vol. v, pp. 155-186, as they refer to some of the subjects detailed in the Bundahi<i>s</i>. The remaining chapters are here translated, except the last which refers to the Nasks and Gâthas, and will be found in S.B.E., vol. xxxvii, pp. 401-405. The MS. authorities for the text are K35 and T (see [p. 2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_5/Dinkard_7_Observations#p2) and Introduction).
 
 [^2]: (133:2) T has ‘devoid of.’
 

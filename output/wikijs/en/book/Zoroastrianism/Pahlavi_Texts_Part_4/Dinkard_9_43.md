@@ -76,12 +76,6 @@ _Var<i>s</i>tmânsar Nask_.
 
 ## Footnotes
 
-[291:1](sbe37091_htm.html) See Pahl. Yas. XLVIII, 10 a, b, c and Bk. VIII, Chap. IX, 3n.
-
-[291:2](sbe37091_htm.html) Ibid. 11 a, b.
-
-[291:3](sbe37091_htm.html) Ibid. 12 b, d. In Pt4, Mf4, § b is as follows: ‘Mûn Zaratû<i>s</i><i>t</i>ŏ <i>k</i>îgûn lak Vohûman;’ being correctly limited according to the Avesta text.
-
 [^4]: (291:4) See Chap. XX, 1 n; it is here written ka<i>d</i>\-môg-ravakŏ in Pahlavi.
 
 [^5]: (291:5) See Pahl. Yas. XLIX, 1 a.

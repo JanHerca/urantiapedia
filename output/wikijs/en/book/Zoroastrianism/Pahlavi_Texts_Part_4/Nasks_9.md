@@ -102,10 +102,6 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## Footnotes
 
-[428:1](sbe37126_htm.html) See Dk. VIII, Chap. XLV. O225 has Hâdôkht.
-
-[428:2](sbe37126_htm.html) The Yasna, or Stôd-ya<i>s</i>t of § 1.
-
 [^3]: (428:3) Narêmân Hôshang of Bharô<i>k</i> returned from Persia, A.D. 1478, with letters from priests in Irân in reply to those from priests in India. His account of the Nasks is more abbreviated than the others, and appears to be derived from a Pahlavi original.
 
 [^1]: (432:1) Pâz. <i>g</i>ud is a translation of Av. vi which is merely transliterated by vîk in Vîk-dêv-dad, the original form of Vendîdâ<i>d</i>.

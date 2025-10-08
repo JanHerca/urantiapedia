@@ -32,7 +32,7 @@ dateCreated: 2025-10-7T9:56:37Z
   </table>
 </figure>
 
-## EXTANT FRAGMENTS. V. NÂ<i>D</i>AR NASK [1](sbe37135_htm.html).
+## EXTANT FRAGMENTS. V. NÂ<i>D</i>AR NASK [^1].
 
 No quotation from this Nask has yet been noticed.
 
@@ -59,3 +59,7 @@ No quotation from this Nask has yet been noticed.
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1]: (466:1) As there is no account of this Nask in Dk. VIII, we can only guess that its extent was about the average length of the other Hadha-mãthric Nasks, or about 6,800 words of Avesta text and 22,200 of Pahlavi version.

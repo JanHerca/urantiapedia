@@ -46,7 +46,7 @@ dateCreated: 2025-10-7T9:56:46Z
 
 12\. About his own desire for the good quality [^4] of a wife, on account also of the will of _his_ parents, _and his_ not mingling his own seed before a suitable obtainment, this, too, is declared, that when his father sought a wife for him, Zaratû<i>s</i>t argued with the bride (nêsh<i>â</i>) thus: ‘Show me thy face, so that I may find out (barkhâm) its kind of appearance, _and_ this, too, whether its appearance _be_ undesirable, or shall not be gratifying;’ and the bride turned away her face from him. 13. And Zaratû<i>s</i>t spoke thus: <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> ‘Whoever takes away a sight from me, does not practise respect for me.’
 
-14\. About his _having_ accepted progress even from the iniquitous, _that_ listened sinfully desirous, who accepted so much advantageousness as _was_ manifest, this, too, is declared, that he came into an assembly who were well known in the place for much knowledge, and he enquired of them thus: ‘What is most favourable for the soul?’ 15. And they spoke thus: ‘To nourish the poor, to give fodder to cattle, to bring firewood to the fire, to pour Hôm juice into water, and [1](sbe4729_htm.html) to worship many demons with words, with the words which are called revelation (dênô).’ 16. Then Zaratû<i>s</i>t nourished the poor, foddered the cattle, brought firewood to the fire, and squeezed Hôm into water, _but_ never are any demons whatever worshipped with words _by_ Zaratû<i>s</i>t.
+14\. About his _having_ accepted progress even from the iniquitous, _that_ listened sinfully desirous, who accepted so much advantageousness as _was_ manifest, this, too, is declared, that he came into an assembly who were well known in the place for much knowledge, and he enquired of them thus: ‘What is most favourable for the soul?’ 15. And they spoke thus: ‘To nourish the poor, to give fodder to cattle, to bring firewood to the fire, to pour Hôm juice into water, and [^1] to worship many demons with words, with the words which are called revelation (dênô).’ 16. Then Zaratû<i>s</i>t nourished the poor, foddered the cattle, brought firewood to the fire, and squeezed Hôm into water, _but_ never are any demons whatever worshipped with words _by_ Zaratû<i>s</i>t.
 
 <figure class="table chapter-navigator">
   <table>
@@ -91,3 +91,5 @@ dateCreated: 2025-10-7T9:56:46Z
 [^3]: (153:3) T has ‘a bone for food.’
 
 [^4]: (153:4) T has ‘good child-bearing.’
+
+[^1]: (154:1) T inserts ‘not’ here, which is clearly wrong, and must have been introduced by some copyist who did not observe that the assembly, though learned, was sinful; and that the object of the anecdote is to exhibit Zaratû<i>s</i>t's ability to distinguish between good works and sin, when still untaught by the sacred beings.

@@ -84,6 +84,6 @@ No allusion has been noticed in Dk. IX to another passage which is thus quoted i
 
 [^2]: (451:2) The detailed account of this Nask, in Dk. IX, contains about 5,400 Pahlavi words, and, if these represent the same proportion of original text as those in the accounts of the first three fargar<i>d</i>s of the Bakŏ Nask do, they would indicate about 4,700 words of Avesta text and 10,500 of Pahlavi version as the original extent of this Nask.
 
-[^3]: (451:3) See [p. 418](sbe37124_htm.html), n. [3](sbe37125_htm.html).
+[^3]: (451:3) See [p. 418](/en/book/Zoroastrianism/Pahlavi_Texts_Part_4/Nasks_6#p418), n. 3.
 
-[^4]: (451:4) This translation has been corrected in accordance with [178](sbe37054_htm.html), n. [2](sbe37055_htm.html).
+[^4]: (451:4) This translation has been corrected in accordance with [178](/en/book/Zoroastrianism/Pahlavi_Texts_Part_4/Dinkard_9_5#p178), n. 2.

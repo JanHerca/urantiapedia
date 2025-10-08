@@ -72,20 +72,6 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[127:1](sbe4718_htm.html) A<i>r</i><i>d</i>ashîr Pâpakân (A<i>D</i>. 226-241), the founder of the Sâsânian dynasty.
-
-[127:2](sbe4718_htm.html) Son of Mâraspend, and prime minister of Shahpûhar II (A<i>D</i>. 309-379).
-
-[127:3](sbe4718_htm.html) Anôshêrvân (A<i>D</i>. 531—578).
-
-[127:4](sbe4718_htm.html) A son of Vi<i>s</i>tâsp and immortal ruler of Kangd<i>e</i><i>z</i>, see Dk. VII, iv, 81.
-
-[127:5](sbe4718_htm.html) See Chap. II, 15.
-
-[127:6](sbe4718_htm.html) See Chap. II, 12.
-
-[127:7](sbe4718_htm.html) This was the original Avesta prepared by order of Vi<i>s</i>tâsp, as stated in the last chapter of Dk. III, § 3 (see S.B.E., vol. xxxvii, p. xxxi).
-
 [^8]: (127:8) B omits the words in brackets.
 
 [^9]: (127:9) Son of Masyê, called Sâmak in Dk. VII, i, 15.

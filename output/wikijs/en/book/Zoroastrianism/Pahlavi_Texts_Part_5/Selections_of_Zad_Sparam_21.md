@@ -82,8 +82,6 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[154:1](sbe4728_htm.html) T inserts ‘not’ here, which is clearly wrong, and must have been introduced by some copyist who did not observe that the assembly, though learned, was sinful; and that the object of the anecdote is to exhibit Zaratû<i>s</i>t's ability to distinguish between good works and sin, when still untaught by the sacred beings.
-
 [^2]: (154:2) On the last day of the twelfth Parsi month.
 
 [^3]: (154:3) The Maidhyôzaremaya season-festival, held on the fifteenth day of the second Parsi month.

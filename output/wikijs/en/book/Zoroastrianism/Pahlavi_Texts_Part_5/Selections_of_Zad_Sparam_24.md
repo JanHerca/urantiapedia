@@ -92,8 +92,6 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[167:1](sbe4731_htm.html) This chapter ends the first series of Selections of Zâ<i>d</i>\-sparam, and is immediately followed in the MSS. by a second series. It is evident from the extent of this chapter, as compared with the amount of text contained in the three misplaced folios (see p. 162, n; 3), that this chapter could have occupied only about one folio and a half in the dislocated MS., so that the second series must have commenced on the same folio as contained the end of this chapter, and that Chaps. XXIV, XXV cannot have belonged to this series. The three misplaced folios contain two distinct texts; the first (Chap. XXIV) is an Iranian version of the Five Dispositions of priests and the Ten Admonitions, and is here translated; the second (Chap. XXV) contains some details about the Nasks and Gâthas, and has been already translated in S.B.E., vol. xxxvii, pp. 401-405.
-
 [^2]: (167:2) This Iranian version of the Dispositions and Admonitions is more complete than the Indian version, which, like the Bundahi<i>s</i>, was brought from Irân five or six centuries ago, and is found in two MSS. (Pt. and J) written in India about 500 years ago, and now in the libraries of Dastûrs Dr. Peshotan and Di. Jâmâsp, respectively. Passages which occur only in the Iranian version are here enclosed in brackets, and other differences between the two versions are mentioned in the notes.
 
 [^3]: (167:3) The Indian version has ‘of.’

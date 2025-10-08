@@ -96,10 +96,6 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 ## Footnotes
 
-[43:1](sbe37021_htm.html) These three modes are expressed by Pâz. ithrih, hidhih, and apavarâvar<i>s</i>tih, which stand evidently for the original Avesta words ithra, hadha, and apaurvavar<i>s</i>ta (see Chap. XXI, 6).
-
-[43:2](sbe37021_htm.html) See § 2.
-
 [^1]: (44:1) Pahl. aharûbŏkîh (= Av. ashavagha) must not be confounded with aharûbŏîh, ‘righteousness,’ for which aharâyîh is more commonly used.
 
 [^2]: (44:2) These two kinds of injury, usually written bâîô<i>d</i>ôk-zê<i>d</i>ŏ and kâîtyôk-<i>g</i>a<i>d</i>ŏ in the Dinka<i>r</i><i>d</i>, are mentioned in Farh. Oîm, pp. 32, l. 8-34, l. 2, as follows:—‘_Av_. baodha<i>g</i>a<i>d</i> = _Pahl_. bô<i>d</i>ô-zê<i>d</i> _and_ _Av_. baodhô-var<i>s</i>tahê = _Pahl_. bô<i>d</i>ôk-var<i>s</i>t are as _it were_ “observantly assaulted,” and _one_ mentions _them_ most about the assault and injury of anything which is noticeable. Through falsehood other noticeable sin is small, _and_ is subdued through _being_ devoid of an injurer, as the assault _and_ injury of anything through wear is a small sin. Kâîtyô-ge<i>d</i> is a sin for mankind, which is a degree of Bô<i>d</i>ôk-zê<i>d</i>, _but_ less; so also the decree (dastînak) is different from Bô<i>d</i>ôk-var<i>s</i>t. The principal Bô<i>d</i>ôk-zê<i>d</i>, that of animals with observance, the Bô<i>d</i>ôk-zê<i>d</i> through wear, _and_ the Kâîtyôk-zê<i>d</i> sin towards people are sins which are hamêmâlân (“affecting accusers”). The dissipating weapon for sin dissipates the sinfulness of the other sin, which is called rûbânîk (“affecting the soul”).’

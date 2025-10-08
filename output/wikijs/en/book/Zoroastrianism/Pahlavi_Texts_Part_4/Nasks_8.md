@@ -74,7 +74,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 19\. The name of the nineteenth is Askâram [^2], _and_ it is of fifty-two subdivisions, about judges and philosophers, the method of examining decrees, the knowledge of definitions, and am opinion of those in other matters.
 
-20\. The name of the twentieth is Vendîdâd [^3], _and_ that is of twenty-two subdivisions, for causing the abstinence of mankind from bad actions, from the devil and disgrace, foreign magicians and those who act after their proceedings and become committers of crime; and we are told of their crime among the whole of the goodness and purity, and the whole of the wickedness and defilement, and the explanation of them. <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> 21\. The name of the twenty-first is Hâdokht [1](sbe37127_htm.html), and this is a book of thirty subdivisions, about the manner of bringing together and the abundance of miracles, also the excellence and connections of them. And the accursed devil goes far from every one who recites this book together with the Ya<i>s</i>t [2](sbe37127_htm.html), and this person is near _to_ the rank (pâîgâh) of a sacred being, and his sins become pure; also in this book the accursed devil becomes cursed, and God knows _it_.
+20\. The name of the twentieth is Vendîdâd [^3], _and_ that is of twenty-two subdivisions, for causing the abstinence of mankind from bad actions, from the devil and disgrace, foreign magicians and those who act after their proceedings and become committers of crime; and we are told of their crime among the whole of the goodness and purity, and the whole of the wickedness and defilement, and the explanation of them. <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> 21\. The name of the twenty-first is Hâdokht [^1], and this is a book of thirty subdivisions, about the manner of bringing together and the abundance of miracles, also the excellence and connections of them. And the accursed devil goes far from every one who recites this book together with the Ya<i>s</i>t [^2], and this person is near _to_ the rank (pâîgâh) of a sacred being, and his sins become pure; also in this book the accursed devil becomes cursed, and God knows _it_.
 
 <figure class="table chapter-navigator">
   <table>
@@ -157,3 +157,7 @@ dateCreated: 2025-10-7T9:56:37Z
 [^2]: (427:2) Ibid. Chaps. XXXVIII-XLIII.
 
 [^3]: (427:3) Ibid. Chap. XLIV.
+
+[^1]: (428:1) See Dk. VIII, Chap. XLV. O225 has Hâdôkht.
+
+[^2]: (428:2) The Yasna, or Stôd-ya<i>s</i>t of § 1.

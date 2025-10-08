@@ -158,7 +158,7 @@ is that when [^1] _one_ is in contact with him who touched the corpse and from 
 
 [^1]: (245:1) Alluding probably to Mê<i>d</i>ôk-mâh's complete commentary on the Vendidad (now no longer extant), as the commentary on Pahl. Vend. III, 48, which treats of Sag-dî<i>d</i> or dog-gaze, does not mention Mê<i>d</i>ôk-mâh or any of the details described here in the text; these details, however, are to be found in Pahl. Vend., VII, 4.
 
-[^2]: (245:2) Reading amat barâ zôr <i>g</i>ân dâ<i>d</i>. This phrase occurs only in M6 (as a marginal note) and in the text of its descendants. Assuming that barâ may be a miswriting of pavan (see [p. 176](sbe0552_htm.html), note [5](sbe0552_htm.html)), we might read amat pavan zôr shûyâ<i>d</i>, ‘when he shall wash with holy-water.’
+[^2]: (245:2) Reading amat barâ zôr <i>g</i>ân dâ<i>d</i>. This phrase occurs only in M6 (as a marginal note) and in the text of its descendants. Assuming that barâ may be a miswriting of pavan (see [p. 176](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Zad_sparam_8#p176), note 5), we might read amat pavan zôr shûyâ<i>d</i>, ‘when he shall wash with holy-water.’
 
 [^3]: (245:3) The ‘corruption’ which is supposed to enter a corpse shortly after death, whence it issues in the form of a fiend and seizes upon any one who touches the corpse, unless it has been destroyed, or driven away, by the gaze of a dog, as mentioned in the text (compare Vend. VIII, 38-48). The carcase of a dog is considered equally contagious with the corpse of a human being, and when the fiend of corruption (Nasû<i>s</i> or Nas of Bund. XXVIII, 29) has seized upon any one, it can be driven out only by a long and troublesome form of purification described in Vend. VIII. 111-228, IX, 4-117.
 

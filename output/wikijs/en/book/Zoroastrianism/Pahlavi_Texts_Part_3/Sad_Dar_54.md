@@ -62,8 +62,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[316:1](sbe24141_htm.html) The dedication to the angel Bahirâm, which begins with these words (see Sîr. I. 20).
-
 [^2]: (316:2) A childless widow who has married again, and half of whose children, by her second husband, belong to her first one, to whom she also belongs in the other world (see Bd. XXXII, 6 n).
 
 [^3]: (316:3) B29 has ‘if a male child be born.’

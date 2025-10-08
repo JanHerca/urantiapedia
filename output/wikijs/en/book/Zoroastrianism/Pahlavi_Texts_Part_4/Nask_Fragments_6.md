@@ -62,6 +62,4 @@ Dk. VIII, Chap. VII, 4, or 5, probably refers to the passage which contained the
 
 ## Footnotes
 
-[466:1](sbe37134_htm.html) As there is no account of this Nask in Dk. VIII, we can only guess that its extent was about the average length of the other Hadha-mãthric Nasks, or about 6,800 words of Avesta text and 22,200 of Pahlavi version.
-
 [^2]: (466:2) The account of this Nask in Dk. VIII (like those of Nasks VIII, XII, XIII, XX), though four or five times as long as the very short accounts, is still short, and the data for estimating the original extent of these five Nasks are very inadequate. We may, perhaps, guess that the two Nasks VI, VIII were together equal to half the length of the four other Hadha-mãthric Nasks IV, VII, IX, X, and then proceed to apportion the extent, thus guessed, between the two in proportion to the number of Pahlavi words in the short account of each. In this way we shall find that the 505 Pahlavi words in the short account of the Pâ<i>g</i>ag may indicate about 9,100 words of Avesta text and 29,800 of Pahlavi version.

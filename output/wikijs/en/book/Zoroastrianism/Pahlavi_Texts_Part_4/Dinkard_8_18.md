@@ -42,7 +42,7 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 4\. These, too, namely, when any one, through an assault, produces, for any other, stupefaction, swelling, or leanness, blackness [^4], or paleness, shortness, or tallness, want of intelligence, much eating, little eating, or moderate eating, indolence, or diligence, or dulness of hearing; or he wishes to speak _some_ words, and they strike him in return; or _one_ altogether diminishes _any_ one's speech, sight, _or_ hearing, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> wisdom, strength, _or_ semen, milk, _or_ pregnancy; _or_ when _one_ destroys the spleen (s<i>p</i>ur) or milk of females, or, in revenge (gî<i>f</i>ar), kills _his_ son outright; _or_ when they would inflict a wound upon a wound, and one's blood goes streaming forth.
 
-5\. Also about an assault with one, two, or three weapons, or more, in conjunction; or they may commit _it_ on the spot, or in confederacy, or as a first offence [1](sbe37022_htm.html). 6. About the measure of a wound when a two-edged sword (dôbarakŏ) plunges down, the area (sarâî), walls, and surroundings, and the shape which is plunged; that _which_ is hacked, or cleft, or mutilated, or a torrent _of_ blood streaming; the affliction (vamang) of the furious serpent-scourge (mârvanô) [2](sbe37022_htm.html), and the length, glitter, and weight of the weapon.
+5\. Also about an assault with one, two, or three weapons, or more, in conjunction; or they may commit _it_ on the spot, or in confederacy, or as a first offence [^1]. 6. About the measure of a wound when a two-edged sword (dôbarakŏ) plunges down, the area (sarâî), walls, and surroundings, and the shape which is plunged; that _which_ is hacked, or cleft, or mutilated, or a torrent _of_ blood streaming; the affliction (vamang) of the furious serpent-scourge (mârvanô) [^2], and the length, glitter, and weight of the weapon.
 
 7\. The ritual for the departure of a wound and the departure of pain, watching over _it for_ the duration of three nights _or_ a year, _its_ greater wretchedness _or_ less wretchedness, _its_ cure (s<i>p</i>ôrîkîh) or incurableness, and whatever is on the same subject. 8. Trivial enumerations, and decisions upon each separately.
 
@@ -79,3 +79,7 @@ _Nîkâ<i>d</i>ûm Nask_.
 [^3]: (42:3) The mâr-ganô (Av. khrafstraghna), we are told in Pahl. Vend. XVIII, 6, ‘may be _made_ of anything, _but_ a leathern _one_ is good’ (see also Bd. XXVIII, 22). Intended as a snake-killer, it was misused as a scourge for human beings.
 
 [^4]: (42:4) Assuming that vê<i>s</i>îh, ‘excess,’ is a miswriting of siyahîh.
+
+[^1]: (43:1) These three modes are expressed by Pâz. ithrih, hidhih, and apavarâvar<i>s</i>tih, which stand evidently for the original Avesta words ithra, hadha, and apaurvavar<i>s</i>ta (see Chap. XXI, 6).
+
+[^2]: (43:2) See § 2.

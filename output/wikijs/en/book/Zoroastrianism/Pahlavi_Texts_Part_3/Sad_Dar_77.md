@@ -66,10 +66,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[340:1](sbe24164_htm.html) Only B29 and the Gu<i>g</i>arâti have ‘a second.’
-
-[340:2](sbe24164_htm.html) B29 omits these twelve words.
-
 [^3]: (340:3) So in B29, which agrees with Vend. VII, 163, but La, Lp are defective. The ‘something’ means consecrated bull's urine, as in Chap. LXXIV, 1; this, mingled with ashes, is prescribed as the first thing to be tasted by the woman.
 
 [^4]: (340:4) That is, from the given hour to the same hour on the third day, although, from what follows, it appears that, if the given hour were in the middle of any period of the day, the third day would expire at the beginning of the third similar period. Whether the three days are to be inclusive, or exclusive, of the day when the term begins, that is, whether the term is to be nearly 48 or 72 hours, is not very clear.

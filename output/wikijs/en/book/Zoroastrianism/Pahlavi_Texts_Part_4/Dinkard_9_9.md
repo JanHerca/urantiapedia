@@ -70,12 +70,6 @@ _Sû<i>d</i>kar Nask_.
 
 ## Footnotes
 
-[181:1](sbe37057_htm.html) Compare Yas. XXXI, 14; Byt. I, 1-5.
-
-[181:2](sbe37057_htm.html) See Bk. VIII, Chap. XI, 1-3.
-
-[181:3](sbe37057_htm.html) See Bk. VIII, Chap. I, 22.
-
 [^4]: (181:4) The appellation of the fifth hâ of the first Gâtha (Yas. XXXII) which begins with the words a<i>h</i><i>v</i>yâ<i>k</i>â <i>h</i><i>v</i>aêtu<i>s</i>; it is here written khvatamaîtŏ in Pahlavi in both MSS.
 
 [^5]: (181:5) Compare Yas. XXXII, 3.

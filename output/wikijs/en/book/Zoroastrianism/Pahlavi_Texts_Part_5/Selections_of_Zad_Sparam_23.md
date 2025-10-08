@@ -52,7 +52,7 @@ dateCreated: 2025-10-7T9:56:46Z
 
 11\. Of the six great upholders of the religion there are the two daughters of Zaratû<i>s</i>t, whose names are Frênŏ and Srîtŏ [^2], _with_ Aharûbŏ-stôtô, _son_ of Mê<i>d</i>yômâh [^3], and another three, who _are_ renowned for their religion for a hundred years, who are Vohûnêm [^4] that is born in the fortieth year of the religion, Sênô [^5] is _afterwards_ born and passes away in the two-hundredth year, _and_ as to his hundred-discipledom [^6], it exists day and night till the three-hundredth year. 12. Afterwards the religion is disturbed and the monarchy is contested (<i>g</i>angî-aîtŏ).
 
-13\. About the three customs (dâ<i>d</i>ŏ) which Zaratû<i>s</i>t prescribed as the best:—The first of them is this: ‘Do not go without others, except with magisterial authority (apatkâr ra<i>d</i>îhâ);’ the second is: ‘Though they shall proceed unlawfully as to you, consider _your_ actions lawfully beforehand;’ _and_ the third is: ‘Next-of-kin marriage, for the <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> sake of the pure progress of _your_ race, is the best of the actions _of_ the living, which _are_ provided for the proper begetting of children [1](sbe4732_htm.html).’
+13\. About the three customs (dâ<i>d</i>ŏ) which Zaratû<i>s</i>t prescribed as the best:—The first of them is this: ‘Do not go without others, except with magisterial authority (apatkâr ra<i>d</i>îhâ);’ the second is: ‘Though they shall proceed unlawfully as to you, consider _your_ actions lawfully beforehand;’ _and_ the third is: ‘Next-of-kin marriage, for the <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> sake of the pure progress of _your_ race, is the best of the actions _of_ the living, which _are_ provided for the proper begetting of children [^1].’
 
 <figure class="table chapter-navigator">
   <table>
@@ -125,3 +125,5 @@ dateCreated: 2025-10-7T9:56:46Z
 [^5]: (166:5) He was born in the tooth year; see Dk. VII, vii, 6.
 
 [^6]: (166:6) This seems to be the sixth upholder of the religion, the third of those lasting about a century.
+
+[^1]: (167:1) This chapter ends the first series of Selections of Zâ<i>d</i>\-sparam, and is immediately followed in the MSS. by a second series. It is evident from the extent of this chapter, as compared with the amount of text contained in the three misplaced folios (see p. 162, n; 3), that this chapter could have occupied only about one folio and a half in the dislocated MS., so that the second series must have commenced on the same folio as contained the end of this chapter, and that Chaps. XXIV, XXV cannot have belonged to this series. The three misplaced folios contain two distinct texts; the first (Chap. XXIV) is an Iranian version of the Five Dispositions of priests and the Ten Admonitions, and is here translated; the second (Chap. XXV) contains some details about the Nasks and Gâthas, and has been already translated in S.B.E., vol. xxxvii, pp. 401-405.

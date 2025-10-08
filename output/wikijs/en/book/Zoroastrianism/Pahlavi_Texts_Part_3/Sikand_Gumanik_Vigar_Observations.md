@@ -42,7 +42,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. For the division into chapters the translator is responsible, but the sections are divided according to the alternating Pâzand-Sanskrit text of Nêryôsang.
 
-2-6. (The same as on page [2](sbe24006_htm.html).)
+2-6. (The same as on page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
 
 7\. The manuscripts mentioned are:—
 

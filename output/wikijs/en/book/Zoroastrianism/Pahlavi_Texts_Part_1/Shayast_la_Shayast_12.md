@@ -146,7 +146,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^4]: (341:4) No fresh meat is to be cooked or eaten for the first three days after a death in the house, according to the Sad-dar Bundahi<i>s</i>, LXXVIII (compare Chap. XVII, 1-3).
 
-[^5]: (341:5) See SZS. IX, 1. The passage here quoted may perhaps be found in the complete text of the Bundahi<i>s</i>, as given in TD (Chap. 37; see Introduction, [p. xxxvii](sbe0504_htm.html)).
+[^5]: (341:5) See SZS. IX, 1. The passage here quoted may perhaps be found in the complete text of the Bundahi<i>s</i>, as given in TD (Chap. 37; see Introduction, [p. xxxvii](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Introduction_3#pxxxvii)).
 
 [^1]: (342:1) A righteous soul is supposed to step out first to the star station, then to the moon station, and then to the sun station, on its way to Garô<i>d</i>mân, the highest heaven; but if its righteousness is imperfect it has to stop at one of these three stations, which are the three lower grades of heaven (see note on pâhlûm ahvân, Chap. VI, 3).
 

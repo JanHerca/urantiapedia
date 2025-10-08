@@ -98,7 +98,7 @@ In connection with this account of the various versions of the ‘Opinions of th
 
 ## Footnotes
 
-[^1]: (xv:1) See [p. 3](sbe24007_htm.html), note [1](sbe24007_htm.html).
+[^1]: (xv:1) See [p. 3](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_1#p3), note 1.
 
 [^1]: (xviii:1) See Zend-Avesta, or the Religious Books of the Zoroastrians, edited by N. L. Westergaard (Kopenhagen, 1852-54), vol. i, introd. p. 8, note 3.
 
@@ -108,6 +108,6 @@ In connection with this account of the various versions of the ‘Opinions of th
 
 [^1]: (xxi:1) Probably an old name of Nausârî.
 
-[^1]: (xxiv:1) A variation of this pedigree is quoted in [p. xlii](sbe24004_htm.html).
+[^1]: (xxiv:1) A variation of this pedigree is quoted in [p. xlii](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_3#pxlii).
 
 [^1]: (xxv:1) Bd. X, 3, XIV, 13 mention 282 (or 272 in some copies).

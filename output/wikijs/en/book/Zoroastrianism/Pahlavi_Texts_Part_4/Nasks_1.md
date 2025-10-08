@@ -42,11 +42,11 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## OBSERVATIONS.
 
-1-5. (The same as on page [2](sbe37003_htm.html).)
+1-5. (The same as on page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_4/Observations#p2).)
 
 6\. The manuscripts mentioned are:—
 
-B (written A.D. 1659), see page [2](sbe37003_htm.html).
+B (written A.D. 1659), see page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_4/Observations#p2).
 
 B29 (written A.D. 1679), a Persian Rivâyat, No. 29 in the University Library at Bombay.
 

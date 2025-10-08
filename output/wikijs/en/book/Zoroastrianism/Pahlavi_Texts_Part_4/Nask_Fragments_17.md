@@ -78,10 +78,6 @@ No allusion has been noticed in Dk. VIII, Chaps. XXVIII-XXXVII, to the two passa
 
 ## Footnotes
 
-[476:1](sbe37144_htm.html) The very long account of this Nask, in Dk. VIII, contains 2,179 Pahlavi words, from which the extent of its original text may be estimated (in the same way as in the case of Nask XVII) at about 28,000 Avesta and 251,500 Pahlavi words.
-
-[476:2](sbe37144_htm.html) So as to include the nine months’ existence, before birth, in the prescribed fifteen years.
-
 [^3]: (476:3) As the 212 Pahlavi words in Dk. VIII, Chap. XXIX, 1-17, represent about 2,722 words of the original Avesta text of this Nask, with 24,472 of its Pahlavi version, it may be fairly assumed that the 3,496 Pahlavi words of the whole account of the Nask in Chaps. XXVIII-XXXVII, must represent about 44,900 Avesta and 403,600 Pahlavi words of original text. And the same proportion probably holds good with regard to the other Legal Nasks, XV, XVI, XVIII, of which very long accounts are given.
 
 [^1]: (478:1) This corrupt Avesta means probably ‘fourfold fire.’

@@ -72,10 +72,6 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## Footnotes
 
-[408:1](sbe37122_htm.html) See [p. 407](sbe37121_htm.html), n. [2](sbe37122_htm.html).
-
-[408:2](sbe37122_htm.html) Compare Dk. VIII, Chap. I, 13, 14.
-
 [^1]: (409:1) Pahl. Yas. L, 1 a.
 
 [^2]: (409:2) Pahl. Yas. XXIX, 5 C.

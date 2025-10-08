@@ -72,6 +72,4 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[148:1](sbe4725_htm.html) The ordinary heaven, see Dd. XX, 3.
-
 [^1]: (149:1) T has ‘he saluted (nîyâî<i>d</i>).’ This legend has not yet been found elsewhere.

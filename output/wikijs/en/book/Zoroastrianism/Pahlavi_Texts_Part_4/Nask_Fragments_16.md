@@ -32,9 +32,9 @@ dateCreated: 2025-10-7T9:56:37Z
   </table>
 </figure>
 
-## EXTANT FRAGMENTS. XVI. GANABÂ-SAR-NI<i>G</i>A<i>D</i> NASK [1](sbe37145_htm.html).
+## EXTANT FRAGMENTS. XVI. GANABÂ-SAR-NI<i>G</i>A<i>D</i> NASK [^1].
 
-Dk. VIII, Chap. XXII, [2](sbe37145_htm.html), probably refers to the passage which contained the statement thus quoted in Sls. X, 13:—‘_It is_ revealed _in_ the Ganabâ-sar-ni<i>g</i>ê<i>d</i>, where a day in the year is indicated, that the _sacred thread-_girdle of every one who shall be one day more than fourteen years _and_ three months _old_ [2](sbe37145_htm.html) is to be tied on—_it is_ better so than when he remains unto fifteen years, _and then_ ties on the girdle—who is more cared for, that way, than those of five (_or_ nine) months in the womb of the mother, on _whom_ they should put _it_.’
+Dk. VIII, Chap. XXII, [^2], probably refers to the passage which contained the statement thus quoted in Sls. X, 13:—‘_It is_ revealed _in_ the Ganabâ-sar-ni<i>g</i>ê<i>d</i>, where a day in the year is indicated, that the _sacred thread-_girdle of every one who shall be one day more than fourteen years _and_ three months _old_ [^2] is to be tied on—_it is_ better so than when he remains unto fifteen years, _and then_ ties on the girdle—who is more cared for, that way, than those of five (_or_ nine) months in the womb of the mother, on _whom_ they should put _it_.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -59,3 +59,9 @@ Dk. VIII, Chap. XXII, [2](sbe37145_htm.html), probably refers to the passage whi
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1]: (476:1) The very long account of this Nask, in Dk. VIII, contains 2,179 Pahlavi words, from which the extent of its original text may be estimated (in the same way as in the case of Nask XVII) at about 28,000 Avesta and 251,500 Pahlavi words.
+
+[^2]: (476:2) So as to include the nine months’ existence, before birth, in the prescribed fifteen years.

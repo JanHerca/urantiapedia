@@ -42,7 +42,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The division into dars, ‘chapters or subjects,’ is indicated in the original manuscripts; but for that of the sections the translator is responsible, as the subdivisions of the alternating Persian-Gu<i>g</i>arâti text are often at variance with its meaning.
 
-2-6. (The same as on page [2](sbe24006_htm.html).)
+2-6. (The same as on page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
 
 7\. All Arabic words are quoted in parentheses on their first occurrence in the text. And the spelling of names approximates more closely to modern Persian than to the older Pahlavi.
 
