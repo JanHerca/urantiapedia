@@ -32,7 +32,7 @@ dateCreated: 2025-10-6T9:44:6Z
   </table>
 </figure>
 
-## SAD DAR. CHAPTER XLIX [^6].
+## SAD DAR. CHAPTER XLIX [^1].
 
 1\. The forty-ninth subject is this, that, when _one_ <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> gathers up a fire, it is requisite to leave _it for_ a time, so that the ash-bed (bûm) of the fire _may_ become cold; afterwards, _one is_ to take _it_ up and carry _it_ to the precinct of fire. 2. It is not proper that they carry the ash-bed (zamîn) of a hot fire to the precinct of fire; so far is notorious.
 
@@ -62,4 +62,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^6]: (311:6) Inserted in La after the last chapter in the book, and numbered C. In Lp it is numbered LII.
+[^1]: (311:6) Inserted in La after the last chapter in the book, and numbered C. In Lp it is numbered LII.

@@ -34,7 +34,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER XLVI.
 
-1\. The forty-sixth subject is this, that, when people become fourteen years _of age_, it is necessary to tie on the _sacred thread-_girdle [^3], because the high-priests have said that it is likewise necessary to take into account those nine months that they have been in the womb of the mother.
+1\. The forty-sixth subject is this, that, when people become fourteen years _of age_, it is necessary to tie on the _sacred thread-_girdle [^1], because the high-priests have said that it is likewise necessary to take into account those nine months that they have been in the womb of the mother.
 
 2\. For in our religion there is no duty better than wearing the _sacred thread-_girdle, and it is incumbent <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> on man and woman. 3. And, in former days, if any one should have become completely fifteen years _of age_, and should not have worn the _sacred thread-_girdle, they would have done for him by stoning, as bread and water are forbidden (‘harâm) for him.
 
@@ -64,4 +64,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^3]: (309:3) See Chap. X, which mentions fifteen years in accordance with Vend. XVIII, 115, 120. But Sls. X, 13 recommends fourteen years and three months as more prudent, no doubt for the reason stated here in the text.
+[^1]: (309:3) See Chap. X, which mentions fifteen years in accordance with Vend. XVIII, 115, 120. But Sls. X, 13 recommends fourteen years and three months as more prudent, no doubt for the reason stated here in the text.

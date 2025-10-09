@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sage asked the spirit of wisdom (2) thus: ‘Wherefore is he who is an ill-natured man no friend of the good, _nor_ an untalented man of a talented _one?_’
 
-3\. The spirit of wisdom answered (4) thus: 'For this reason, because he who is an ill-talented [^2] man is _at_ \[all\] [^3] times _in_ fear of the talented, (5) lest "they should trouble [^4] us by _their_ skill and talent, and, owing to that circumstance, shame _may_ come upon _us_ before the good and _our_ opponents."
+3\. The spirit of wisdom answered (4) thus: 'For this reason, because he who is an ill-talented [^1] man is _at_ \[all\] [^2] times _in_ fear of the talented, (5) lest "they should trouble [^3] us by _their_ skill and talent, and, owing to that circumstance, shame _may_ come upon _us_ before the good and _our_ opponents."
 
 6\. ‘And the ill-natured are no friends of the good for this reason, because _there_ is a time for their annihilation and destruction by the hands of the good.’
 
@@ -66,8 +66,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (97:2) L19 has ‘untalented.’
+[^1]: (97:2) L19 has ‘untalented.’
 
-[^3]: (97:3) K43 omits ‘all,’ and its text may be translated thus:—‘because the position of him who is an ill-talented man is in danger from the talented.’
+[^2]: (97:3) K43 omits ‘all,’ and its text may be translated thus:—‘because the position of him who is an ill-talented man is in danger from the talented.’
 
-[^4]: (97:4) Reading aê ran<i>g</i>ênd. Nêr. has the doubtful reading airô<i>z</i>ine<i>n</i>d, ‘they enlighten,’ and also several other variations, so as to produce the following meaning:—‘lest “these enlighten _others_ by the skill and talent which are not mine,” and shame come upon him before the good and _his_ helpmates.’
+[^3]: (97:4) Reading aê ran<i>g</i>ênd. Nêr. has the doubtful reading airô<i>z</i>ine<i>n</i>d, ‘they enlighten,’ and also several other variations, so as to produce the following meaning:—‘lest “these enlighten _others_ by the skill and talent which are not mine,” and shame come upon him before the good and _his_ helpmates.’

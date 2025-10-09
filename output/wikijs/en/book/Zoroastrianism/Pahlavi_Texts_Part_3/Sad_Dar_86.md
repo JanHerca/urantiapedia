@@ -34,7 +34,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXXVI.
 
-1\. The eighty-sixth subject is this, that it is not proper to kill a beaver [^4]; _but_, if they see _it in_ any place, it is necessary to take _it_ up and carry _it_ to running water. 2. For, in the commentary of the Vendîdâ<i>d</i> it is ranked [^5] _as_ a great sin for the _killer_ [^6]; and, _as to_ every one who kills a beaver, the source of his seed becomes exhausted.
+1\. The eighty-sixth subject is this, that it is not proper to kill a beaver [^1]; _but_, if they see _it in_ any place, it is necessary to take _it_ up and carry _it_ to running water. 2. For, in the commentary of the Vendîdâ<i>d</i> it is ranked [^2] _as_ a great sin for the _killer_ [^3]; and, _as to_ every one who kills a beaver, the source of his seed becomes exhausted.
 
 <figure class="table chapter-navigator">
   <table>
@@ -62,8 +62,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^4]: (350:4) Literally ‘a water dog.’
+[^1]: (350:4) Literally ‘a water dog.’
 
-[^5]: (350:5) B29 has ‘decreed.’
+[^2]: (350:5) B29 has ‘decreed.’
 
-[^6]: (350:6) As shown by the excessive atonements prescribed in Vend. XIV, in default of which he is said to go to hell till the resurrection.
+[^3]: (350:6) As shown by the excessive atonements prescribed in Vend. XIV, in default of which he is said to go to hell till the resurrection.

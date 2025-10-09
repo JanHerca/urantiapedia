@@ -44,7 +44,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 .     .     .     .     .     .     .     .     .
 
-6\. One [^1] is _that_, on account of him who gave the Legal, and is <i>a</i>lso the protector of a priestly master who is given over to the Hadha-mãthric, and the Gâthic, through which the purity of the good creations arises, _one_ is more steadfastly to aggrandise and develope _them_.     .     .     .     .     .     .
+6\. One [^4] is _that_, on account of him who gave the Legal, and is <i>a</i>lso the protector of a priestly master who is given over to the Hadha-mãthric, and the Gâthic, through which the purity of the good creations arises, _one_ is more steadfastly to aggrandise and develope _them_.     .     .     .     .     .     .
 
 <figure class="table chapter-navigator">
   <table>
@@ -78,4 +78,4 @@ dateCreated: 2025-10-7T9:56:37Z
 
 [^3]: (409:3) Dk. IX, Chap. XX, 4.
 
-[^1]: (410:1) This is the fourth of ‘the ten admonitions of the righteous <i>S</i>ênôv about the law of the Ma<i>z</i><i>d</i>a-worshipping religion.’ In the seventh book of the Dinka<i>r</i><i>d</i> it is stated that as regards the high-priests this, too, is said on the subject of <i>S</i>ênôv, that one hundred years of the religion elapse when <i>S</i>ênôv is born, and two hundred years when he passes away; he was also the first Ma<i>z</i><i>d</i>a-worshipper with a life of a hundred years (100 khayâ), and who walks forth upon this earth with a hundred disciples.' This last clause clearly identifies him with the ‘Saêna, _son_ of Ahûm-stu<i>d</i>, who first appeared upon this earth with a hundred pupils,’ as stated in Yt. XIII, 97 (see Darmesteter, _Textes pehlvis relatifs au Judaisme_, première partie, p. 3, n. 2).
+[^4]: (410:1) This is the fourth of ‘the ten admonitions of the righteous <i>S</i>ênôv about the law of the Ma<i>z</i><i>d</i>a-worshipping religion.’ In the seventh book of the Dinka<i>r</i><i>d</i> it is stated that as regards the high-priests this, too, is said on the subject of <i>S</i>ênôv, that one hundred years of the religion elapse when <i>S</i>ênôv is born, and two hundred years when he passes away; he was also the first Ma<i>z</i><i>d</i>a-worshipper with a life of a hundred years (100 khayâ), and who walks forth upon this earth with a hundred disciples.' This last clause clearly identifies him with the ‘Saêna, _son_ of Ahûm-stu<i>d</i>, who first appeared upon this earth with a hundred pupils,’ as stated in Yt. XIII, 97 (see Darmesteter, _Textes pehlvis relatifs au Judaisme_, première partie, p. 3, n. 2).

@@ -34,11 +34,11 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER XCIII.
 
-1\. The ninety-third subject is this, that it is necessary for all those of the good religion to practise abstinence from uttering slander (_gh_aîbat) behind _one's_ back [^2].
+1\. The ninety-third subject is this, that it is necessary for all those of the good religion to practise abstinence from uttering slander (_gh_aîbat) behind _one's_ back [^1].
 
-2\. In the commentary of the Vendîdâ<i>d</i> it states, that [^3] slander is the greatest of all sins. 3. Every one who perpetrates slander _about_ any one is like him who has eaten dead matter—and the eating of dead matter is a sin [^4] _that_ has likewise been mentioned, before this, in this book [^5]—but the statement is like this, while they do not indicate _any_ punishment for it in this world [^6], it does not go _without it_ in that _other_ world. 4. Therefore it is necessary for those of the good religion to make an effort, so that they _may_ guard themselves from this slander.
+2\. In the commentary of the Vendîdâ<i>d</i> it states, that [^2] slander is the greatest of all sins. 3. Every one who perpetrates slander _about_ any one is like him who has eaten dead matter—and the eating of dead matter is a sin [^3] _that_ has likewise been mentioned, before this, in this book [^4]—but the statement is like this, while they do not indicate _any_ punishment for it in this world [^5], it does not go _without it_ in that _other_ world. 4. Therefore it is necessary for those of the good religion to make an effort, so that they _may_ guard themselves from this slander.
 
-5\. In order that they _may_ show thy soul, _when_ [^7] resigning life, the satisfaction (i<i>g</i>zâ) for the sin, it <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> states, in the commentary of the Vendîdâ<i>d</i>, _as to_ any one by whom slander is perpetrated, if _the injured person_ goes before him _and_ begs a righteous gift from him, and he provides a righteous gift for that _person_, the sin departs from him.
+5\. In order that they _may_ show thy soul, _when_ [^6] resigning life, the satisfaction (i<i>g</i>zâ) for the sin, it <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> states, in the commentary of the Vendîdâ<i>d</i>, _as to_ any one by whom slander is perpetrated, if _the injured person_ goes before him _and_ begs a righteous gift from him, and he provides a righteous gift for that _person_, the sin departs from him.
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,14 +66,14 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (356:2) Literally ‘face.’
+[^1]: (356:2) Literally ‘face.’
 
-[^3]: (356:3) B29 inserts ‘the perpetration of.’
+[^2]: (356:3) B29 inserts ‘the perpetration of.’
 
-[^4]: (356:4) B29, J15 have ‘a great sin.’
+[^3]: (356:4) B29, J15 have ‘a great sin.’
 
-[^5]: (356:5) See Chap. LXXI.
+[^4]: (356:5) See Chap. LXXI.
 
-[^6]: (356:6) Thereby differing from the sin of eating dead matter.
+[^5]: (356:6) Thereby differing from the sin of eating dead matter.
 
-[^7]: (356:7) Lp, B29 have ‘show at the time of.’
+[^6]: (356:7) Lp, B29 have ‘show at the time of.’

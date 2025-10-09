@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER XXVII.
 
-1\. The twenty-seventh subject is this, that is, if any affair comes forward, that they _should_ thoroughly understand [^2] whether it be a good work, or a sin. 2. In that manner it becomes better that they make an evasion on the spot [^3], until a time _when_ they make _it_ known with accuracy [^4] that that affair is a sin or a reward. 3. If they perform any affair without knowing _this_, although it be a good work, it becomes a sin for them.
+1\. The twenty-seventh subject is this, that is, if any affair comes forward, that they _should_ thoroughly understand [^1] whether it be a good work, or a sin. 2. In that manner it becomes better that they make an evasion on the spot [^2], until a time _when_ they make _it_ known with accuracy [^3] that that affair is a sin or a reward. 3. If they perform any affair without knowing _this_, although it be a good work, it becomes a sin for them.
 
-4\. For it is declared in revelation, that, except that which they enquire of the high-priests, no affair whatever is proper to perform. 5. Whatever wisdom _there be_ for any one from his own head is only one; then, _as_ two wisdoms are more than one [^5], it therefore makes _it_ expedient to enquire of the high-priests.
+4\. For it is declared in revelation, that, except that which they enquire of the high-priests, no affair whatever is proper to perform. 5. Whatever wisdom _there be_ for any one from his own head is only one; then, _as_ two wisdoms are more than one [^4], it therefore makes _it_ expedient to enquire of the high-priests.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,10 +64,10 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (290:2) Lp has ‘that they _should_ be told,’ and B29 has ‘that _one should_ realise.’
+[^1]: (290:2) Lp has ‘that they _should_ be told,’ and B29 has ‘that _one should_ realise.’
 
-[^3]: (290:3) See Sls. X, 25, 27.
+[^2]: (290:3) See Sls. X, 25, 27.
 
-[^4]: (290:4) Lp adds ‘and truly,’ and B29 has ‘make known _that_ it is false _or_ true.’
+[^3]: (290:4) Lp adds ‘and truly,’ and B29 has ‘make known _that_ it is false _or_ true.’
 
-[^5]: (290:5) Lp, B29 omit these eight words.
+[^4]: (290:5) Lp, B29 omit these eight words.

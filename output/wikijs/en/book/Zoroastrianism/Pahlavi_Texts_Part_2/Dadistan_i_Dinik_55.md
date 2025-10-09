@@ -34,7 +34,7 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER LV.
 
-1\. _As to_ the fifty-fourth question _and_ reply, that _which_ you ask is thus: What is the occupation and capacity (giriftârîh) of the person _that has_ to preserve those who are in their three nights' _trials_ [^2], _and_ who is he?
+1\. _As to_ the fifty-fourth question _and_ reply, that _which_ you ask is thus: What is the occupation and capacity (giriftârîh) of the person _that has_ to preserve those who are in their three nights' _trials_ [^1], _and_ who is he?
 
 2\. The reply is this, that it is said a husband (gab<i>r</i>â) is indispensable for preservation through the three nights' _trials_ which shall be _for_ a privileged wife, a father _for_ those of a child, _and_ a master _for_ those of a servant.
 
@@ -64,4 +64,4 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[^2]: (187:2) The three nights after death (see Chap. XXIV).
+[^1]: (187:2) The three nights after death (see Chap. XXIV).

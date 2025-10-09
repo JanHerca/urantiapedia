@@ -32,7 +32,7 @@ dateCreated: 2025-10-7T9:56:37Z
   </table>
 </figure>
 
-## III. FROM THE RIVÂYAT OF NARÊMÂN HÔSHANG [^3]
+## III. FROM THE RIVÂYAT OF NARÊMÂN HÔSHANG [^1]
 
 1\. Again, that which is in Pahlavi characters is clear _in_ that manner, that in the Yathâ-ahû-vairyô there are twenty-one vocables, that is, twenty-one words, and beneath each word there is an equivalent meaning; it is also known to the devout _that_ there are twenty-one Nasks of the Avesta.
 
@@ -70,11 +70,11 @@ dateCreated: 2025-10-7T9:56:37Z
 
 19\. The eighteenth is the Duvâsarô<i>g</i>ad, and it is of sixty-five subdivisions; its explanation is that which is a statement on the subject of Khêdyôdath, that is, forming a union with each other _by_ relations and those next _one another_.
 
-20\. The name of the nineteenth is Askâram, and it is of fifty-two subdivisions; its explanation is about the occurrence of the production of the renovation _of the universe_, up to the resurrection _and_ future existence which are the converting of the dead alive, Aharman _and_ the demons becoming extinct, and the circumstances of those _events_. <span id="p432"><sup><small>[ p. 432 ]</small></sup></span> 21\. The name of the twentieth is <i>G</i>ud-dêv-dâd [^1], and that is of twenty-two subdivisions; its explanation is of causing the abstinence of mankind from pollution, that is, from defilement, and the assault of evil peculiarly owing to the great; _from_ the sight of a menstruous woman, and the like of these, whenever harm and injury happen to the creation.
+20\. The name of the nineteenth is Askâram, and it is of fifty-two subdivisions; its explanation is about the occurrence of the production of the renovation _of the universe_, up to the resurrection _and_ future existence which are the converting of the dead alive, Aharman _and_ the demons becoming extinct, and the circumstances of those _events_. <span id="p432"><sup><small>[ p. 432 ]</small></sup></span> 21\. The name of the twentieth is <i>G</i>ud-dêv-dâd [^2], and that is of twenty-two subdivisions; its explanation is of causing the abstinence of mankind from pollution, that is, from defilement, and the assault of evil peculiarly owing to the great; _from_ the sight of a menstruous woman, and the like of these, whenever harm and injury happen to the creation.
 
 22\. The name of the twenty-first is Hâdokht, and this is a book of thirty subdivisions; its explanation is such that the accursed devil goes far from every one _who_ shall recite this book together with the Ya<i>s</i>t, and this person becomes near unto the sacred being, the praiseworthy _and_ exalted, and in such manner as _he is_ near the sacred being in like manner he obtains rank.
 
-23\. And the purpose of this _being_ written is so, that it is known to these humble individuals [^2] in this manner, that these books are of those tendencies, and it has been written _by_ those devout _ones_ [^3] in such manner that ‘among us no one is able to read the Pahlavi characters, and the interpretation of these Nasks is in Pahlavi; any one who does not know the Pahlavi characters is high-priest and is not able to demonstrate the miracles of the religion, nor that which was written with regard to the commentary of these Nasks.’
+23\. And the purpose of this _being_ written is so, that it is known to these humble individuals [^3] in this manner, that these books are of those tendencies, and it has been written _by_ those devout _ones_ [^4] in such manner that ‘among us no one is able to read the Pahlavi characters, and the interpretation of these Nasks is in Pahlavi; any one who does not know the Pahlavi characters is high-priest and is not able to demonstrate the miracles of the religion, nor that which was written with regard to the commentary of these Nasks.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -102,10 +102,10 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## Footnotes
 
-[^3]: (428:3) Narêmân Hôshang of Bharô<i>k</i> returned from Persia, A.D. 1478, with letters from priests in Irân in reply to those from priests in India. His account of the Nasks is more abbreviated than the others, and appears to be derived from a Pahlavi original.
+[^1]: (428:3) Narêmân Hôshang of Bharô<i>k</i> returned from Persia, A.D. 1478, with letters from priests in Irân in reply to those from priests in India. His account of the Nasks is more abbreviated than the others, and appears to be derived from a Pahlavi original.
 
-[^1]: (432:1) Pâz. <i>g</i>ud is a translation of Av. vi which is merely transliterated by vîk in Vîk-dêv-dad, the original form of Vendîdâ<i>d</i>.
+[^2]: (432:1) Pâz. <i>g</i>ud is a translation of Av. vi which is merely transliterated by vîk in Vîk-dêv-dad, the original form of Vendîdâ<i>d</i>.
 
-[^2]: (432:2) The priests in Irân who supplied this information to Narêmân.
+[^3]: (432:2) The priests in Irân who supplied this information to Narêmân.
 
-[^3]: (432:3) The priests in India who had applied for the information, using the words about to be quoted.
+[^4]: (432:3) The priests in India who had applied for the information, using the words about to be quoted.

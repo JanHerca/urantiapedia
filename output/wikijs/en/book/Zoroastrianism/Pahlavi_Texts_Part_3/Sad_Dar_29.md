@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The twenty-ninth subject is this, that, when they provide any munificence (sa‘<i>h</i>âvat) _or_ liberality, it is necessary that they provide _it for_ the worthy; and _one is_ to consider thus: ‘Is this person, to whom I am giving this thing, worthy or not?’
 
-2\. Therefore it is necessary to make an effort, so that they _may_ not give to the unworthy. 3. For in revelation, as regards [^2] that person who provides any munificence for the unworthy, they call _it_ a vain work _and_ a gift without advantage; and day by day _it_ is [^3] <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> the punishment _and_ torment of that person. 4. And, whatever they give to the unworthy, they have made that thing extinct.
+2\. Therefore it is necessary to make an effort, so that they _may_ not give to the unworthy. 3. For in revelation, as regards [^1] that person who provides any munificence for the unworthy, they call _it_ a vain work _and_ a gift without advantage; and day by day _it_ is [^2] <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> the punishment _and_ torment of that person. 4. And, whatever they give to the unworthy, they have made that thing extinct.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (291:2) Lp, B29 have ‘for in the good religion it is declared.’
+[^1]: (291:2) Lp, B29 have ‘for in the good religion it is declared.’
 
-[^3]: (291:3) Lp, B29 have ‘it increases.’
+[^2]: (291:3) Lp, B29 have ‘it increases.’

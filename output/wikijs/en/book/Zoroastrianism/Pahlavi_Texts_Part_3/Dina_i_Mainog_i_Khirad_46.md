@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPTER XLVI.
 
-1\. The sage asked the spirit of wisdom (2) thus: ‘Which is the one [^4] oppression, as regards men, _that_ Aharman considers as the more injurious and great?’
+1\. The sage asked the spirit of wisdom (2) thus: ‘Which is the one [^1] oppression, as regards men, _that_ Aharman considers as the more injurious and great?’
 
-3\. The spirit of wisdom answered (4) thus: Aharman, when he wrings life and wife and child and worldly happiness of every kind away from men, does not consider, as to this, that any injury whatever is inflicted by him upon that person; (5) but when he wrings away the soul of a single _individual_, and makes it utterly depraved, he then considers, as to this, that “an injury which is complete would thereby be inflicted by me,” because this is done by him through his own depravity of wish and action [^5].'
+3\. The spirit of wisdom answered (4) thus: Aharman, when he wrings life and wife and child and worldly happiness of every kind away from men, does not consider, as to this, that any injury whatever is inflicted by him upon that person; (5) but when he wrings away the soul of a single _individual_, and makes it utterly depraved, he then considers, as to this, that “an injury which is complete would thereby be inflicted by me,” because this is done by him through his own depravity of wish and action [^2].'
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^4]: (88:4) L19 omits ‘one.’
+[^1]: (88:4) L19 omits ‘one.’
 
-[^5]: (88:5) The last fourteen words occur only in the Pahlavi text of K43.
+[^2]: (88:5) The last fourteen words occur only in the Pahlavi text of K43.

@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sage asked the spirit of wisdom (2) thus: Which is that pleasure which is worse than unhappiness?'
 
-3\. The spirit of wisdom answered (4) thus: ‘Whoever has acquired wealth by crime, and he becomes glad of it thereby [^5], then that pleasure is worse for him than unhappiness.’
+3\. The spirit of wisdom answered (4) thus: ‘Whoever has acquired wealth by crime, and he becomes glad of it thereby [^1], then that pleasure is worse for him than unhappiness.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,4 +64,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^5]: (49:5) ‘Glad of the crime on account of the wealth’ is probably meant.
+[^1]: (49:5) ‘Glad of the crime on account of the wealth’ is probably meant.

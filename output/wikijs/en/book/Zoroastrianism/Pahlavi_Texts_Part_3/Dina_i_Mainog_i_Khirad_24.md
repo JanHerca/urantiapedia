@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPTER XXIV.
 
-1\. The sage asked the spirit of wisdom (2) thus: On account of the begging of favours, and the practice and worthiness of good works, do the sacred beings also grant anything to men otherwise [^2], or not?'
+1\. The sage asked the spirit of wisdom (2) thus: On account of the begging of favours, and the practice and worthiness of good works, do the sacred beings also grant anything to men otherwise [^1], or not?'
 
-3\. The spirit of wisdom answered (4) thus: ‘They grant; (5) for _there are_ such as they call thus: “Destiny _and_ divine providence.” 6. Destiny is that which is ordained from the beginning, (7) _and_ divine providence is that which they also grant otherwise. 8. But the sacred beings provide and manifest in the spiritual _existence_ little of that grant, on this account, because Aharman, the wicked [^3], through the power of the seven planets extorts wealth, _and_ also every other benefit of the worldly _existence_, from the good _and_ worthy, _and_ grants _them_ more fully to the bad _and_ unworthy.’
+3\. The spirit of wisdom answered (4) thus: ‘They grant; (5) for _there are_ such as they call thus: “Destiny _and_ divine providence.” 6. Destiny is that which is ordained from the beginning, (7) _and_ divine providence is that which they also grant otherwise. 8. But the sacred beings provide and manifest in the spiritual _existence_ little of that grant, on this account, because Aharman, the wicked [^2], through the power of the seven planets extorts wealth, _and_ also every other benefit of the worldly _existence_, from the good _and_ worthy, _and_ grants _them_ more fully to the bad _and_ unworthy.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (55:2) That is, otherwise than by destiny, as mentioned in the previous chapter, and in consequence of prayer and merit.
+[^1]: (55:2) That is, otherwise than by destiny, as mentioned in the previous chapter, and in consequence of prayer and merit.
 
-[^3]: (55:3) TD2 inserts ‘through that cause.’
+[^2]: (55:3) TD2 inserts ‘through that cause.’

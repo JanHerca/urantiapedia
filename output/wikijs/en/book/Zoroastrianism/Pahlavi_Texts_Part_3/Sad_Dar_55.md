@@ -32,9 +32,9 @@ dateCreated: 2025-10-6T9:44:6Z
   </table>
 </figure>
 
-## SAD DAR. CHAPTER LV [^6].
+## SAD DAR. CHAPTER LV [^1].
 
-1\. The fifty-fifth subject is this, that when a Navazû<i>d</i> [^7] _ceremony_ is performed, and it happens that it is not possible to consecrate a sacred cake, it is necessary that _one should_ eat bread with the Hôrmazd _inward_ prayer; _and_, afterwards, he _should_ <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> complete the prayer just as when they complete _it_ as regards the sacred cake, so that the sin _may_ be less.
+1\. The fifty-fifth subject is this, that when a Navazû<i>d</i> [^2] _ceremony_ is performed, and it happens that it is not possible to consecrate a sacred cake, it is necessary that _one should_ eat bread with the Hôrmazd _inward_ prayer; _and_, afterwards, he _should_ <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> complete the prayer just as when they complete _it_ as regards the sacred cake, so that the sin _may_ be less.
 
 <figure class="table chapter-navigator">
   <table>
@@ -62,6 +62,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^6]: (316:6) Lp omits this chapter.
+[^1]: (316:6) Lp omits this chapter.
 
-[^7]: (316:7) See Chap. V, 1 n.
+[^2]: (316:7) See Chap. V, 1 n.

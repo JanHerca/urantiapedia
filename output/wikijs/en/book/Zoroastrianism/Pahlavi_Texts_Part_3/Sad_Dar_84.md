@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXXIV.
 
-1\. The eighty-fourth subject is this, when they wish to sleep, it is requisite to utter one Yathâ-ahû-vairyô _and_ one Ashem-vohû [^1], and to accomplish repentance _one is_ to speak thus: ‘I am sorrowing for, and repentant and in renunciation of all that sin which I have spoken and _was_ imagined by <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> me, and _has_ assailed me; of these actions I am in renunciation [^1].’
+1\. The eighty-fourth subject is this, when they wish to sleep, it is requisite to utter one Yathâ-ahû-vairyô _and_ one Ashem-vohû [^1], and to accomplish repentance _one is_ to speak thus: ‘I am sorrowing for, and repentant and in renunciation of all that sin which I have spoken and _was_ imagined by <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> me, and _has_ assailed me; of these actions I am in renunciation [^2].’
 
-2\. Afterwards _one is_ to lie down; and every time that _one_ acts _in_ the manner that I have mentioned, and wears the _sacred thread-_girdle on the waist—while _he is_ equally sharing the whole of the good works which they are performing in all the world during that night, _and he is_ of similar merit [^2]—every single breath that he inhales and exhales is a good work of a weight of three dirhams. 3. _And_ when he turns from side to side he _should, in_ like manner, recite one Ashem-vohû [^3].
+2\. Afterwards _one is_ to lie down; and every time that _one_ acts _in_ the manner that I have mentioned, and wears the _sacred thread-_girdle on the waist—while _he is_ equally sharing the whole of the good works which they are performing in all the world during that night, _and he is_ of similar merit [^3]—every single breath that he inhales and exhales is a good work of a weight of three dirhams. 3. _And_ when he turns from side to side he _should, in_ like manner, recite one Ashem-vohû [^4].
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,8 +66,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^1]: (348:1) See Chap. VII, 1 n.
 
-[^1]: (349:1) This is the general form of a Patit or renunciation of sin.
+[^2]: (349:1) This is the general form of a Patit or renunciation of sin.
 
-[^2]: (349:2) B29 omits these six words.
+[^3]: (349:2) B29 omits these six words.
 
-[^3]: (349:3) See Chap. LXXX, 8. This chapter nearly corresponds to Sls. X, 24.
+[^4]: (349:3) See Chap. LXXX, 8. This chapter nearly corresponds to Sls. X, 24.

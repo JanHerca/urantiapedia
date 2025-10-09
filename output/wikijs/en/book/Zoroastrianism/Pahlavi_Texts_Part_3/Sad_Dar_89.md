@@ -34,7 +34,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXXIX.
 
-1\. The eighty-ninth subject is this, that [^3] Hôrmazd keeps watch when any one, through imposition (‘hîlat) _and_ unawares, eats dead matter, _or_ gives _it to_ one of the good religion, or throws dead matter upon one of the good religion. 2. While his will and command are, _that_ it is necessary that _such a person should_ undergo the Bareshnûm _ceremony_ [^4], and accomplish repentance [^5] before the _spiritual_ chiefs and high-priests. 3. So that, after that, _one may_ indicate to him the sin in these _actions, and_ he _may_ perform the retribution which the high-priest mentions, in order that, owing to this, his sin _may_ depart.
+1\. The eighty-ninth subject is this, that [^1] Hôrmazd keeps watch when any one, through imposition (‘hîlat) _and_ unawares, eats dead matter, _or_ gives _it to_ one of the good religion, or throws dead matter upon one of the good religion. 2. While his will and command are, _that_ it is necessary that _such a person should_ undergo the Bareshnûm _ceremony_ [^2], and accomplish repentance [^3] before the _spiritual_ chiefs and high-priests. 3. So that, after that, _one may_ indicate to him the sin in these _actions, and_ he _may_ perform the retribution which the high-priest mentions, in order that, owing to this, his sin _may_ depart.
 
 <figure class="table chapter-navigator">
   <table>
@@ -62,8 +62,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^3]: (353:3) B29, J15 insert ‘the religion of.’
+[^1]: (353:3) B29, J15 insert ‘the religion of.’
 
-[^4]: (353:4) See Chap. XXXVI, 1 n.
+[^2]: (353:4) See Chap. XXXVI, 1 n.
 
-[^5]: (353:5) See Chap. XLV, 7 n.
+[^3]: (353:5) See Chap. XLV, 7 n.

@@ -46,7 +46,7 @@ nourishes him, as all milk arises from the seed of the males, _and_ the blood is
 
 6\. These four things, they say, are male, _and these_ female: the sky, metal, wind, _and_ fire are male, and are never otherwise; the water, earth, plants, _and_ fish are female, _and_ are never otherwise; the remaining creation consists of male and female.
 
-7\. As regards the fish [^1] it says that, at the time of excitement, they go forwards and come back in the water, two _and_ two, the length of a mile (hâsar), which is one-fourth of a league (parasang), in the running water; in that coming _and_ going they then rub _their_ bodies _together_, and a kind of sweat drops out betwixt them, and _both_ become pregnant.
+7\. As regards the fish [^2] it says that, at the time of excitement, they go forwards and come back in the water, two _and_ two, the length of a mile (hâsar), which is one-fourth of a league (parasang), in the running water; in that coming _and_ going they then rub _their_ bodies _together_, and a kind of sweat drops out betwixt them, and _both_ become pregnant.
 
 <figure class="table chapter-navigator">
   <table>
@@ -76,4 +76,4 @@ nourishes him, as all milk arises from the seed of the males, _and_ the blood is
 
 [^1]: (60:1) M6 has ‘always.’
 
-[^1]: (61:1) K20 has ‘the male fish,’ which is inconsistent with the preceding sentence.
+[^2]: (61:1) K20 has ‘the male fish,’ which is inconsistent with the preceding sentence.

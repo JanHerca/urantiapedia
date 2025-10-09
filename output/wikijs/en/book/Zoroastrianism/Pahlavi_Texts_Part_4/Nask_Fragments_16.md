@@ -34,7 +34,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## EXTANT FRAGMENTS. XVI. GANABÂ-SAR-NI<i>G</i>A<i>D</i> NASK [^1].
 
-Dk. VIII, Chap. XXII, [^2], probably refers to the passage which contained the statement thus quoted in Sls. X, 13:—‘_It is_ revealed _in_ the Ganabâ-sar-ni<i>g</i>ê<i>d</i>, where a day in the year is indicated, that the _sacred thread-_girdle of every one who shall be one day more than fourteen years _and_ three months _old_ [^2] is to be tied on—_it is_ better so than when he remains unto fifteen years, _and then_ ties on the girdle—who is more cared for, that way, than those of five (_or_ nine) months in the womb of the mother, on _whom_ they should put _it_.’
+Dk. VIII, Chap. XXII, [^2], probably refers to the passage which contained the statement thus quoted in Sls. X, 13:—‘_It is_ revealed _in_ the Ganabâ-sar-ni<i>g</i>ê<i>d</i>, where a day in the year is indicated, that the _sacred thread-_girdle of every one who shall be one day more than fourteen years _and_ three months _old_ [^3] is to be tied on—_it is_ better so than when he remains unto fifteen years, _and then_ ties on the girdle—who is more cared for, that way, than those of five (_or_ nine) months in the womb of the mother, on _whom_ they should put _it_.’
 
 <figure class="table chapter-navigator">
   <table>

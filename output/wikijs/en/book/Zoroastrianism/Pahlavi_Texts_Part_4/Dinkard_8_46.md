@@ -34,9 +34,9 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## DÎNKA<i>R</i><i>D</i>.—BOOK VIII. CHAPTER XLVI.
 
-1\. The Gâthas of the Ya<i>s</i>t [^1], as the first offspring of the Ahunavair, are a recitation of the source of sources of the religion, and in the compass (parvastârîh) [^2] _of_ the Gâthas, every word (mârîk) <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> in it is the origin of a word. 2. The word ahû [^1] of the beginning [^2] is of a like kind with ahyâ [^3], the beginning of the Gâthas; the end word, which is vâstârem [^4], is _of a like kind_ with vahyô [^5], the end of the Gâthas; and the whole—which, though _its_ nature is _of_ one kind, is distributed (vakhtŏ) in _what is_ selected therefrom—is stored up (a<i>v</i>argû<i>d</i>ŏ) in _this_ compendium [^6] of all parts of the Ma<i>z</i><i>d</i>a-worshipping religion.
+1\. The Gâthas of the Ya<i>s</i>t [^1], as the first offspring of the Ahunavair, are a recitation of the source of sources of the religion, and in the compass (parvastârîh) [^2] _of_ the Gâthas, every word (mârîk) <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> in it is the origin of a word. 2. The word ahû [^3] of the beginning [^4] is of a like kind with ahyâ [^5], the beginning of the Gâthas; the end word, which is vâstârem [^6], is _of a like kind_ with vahyô [^7], the end of the Gâthas; and the whole—which, though _its_ nature is _of_ one kind, is distributed (vakhtŏ) in _what is_ selected therefrom—is stored up (a<i>v</i>argû<i>d</i>ŏ) in _this_ compendium [^8] of all parts of the Ma<i>z</i><i>d</i>a-worshipping religion.
 
-3\. Likewise the purport (<i>a</i><i>v</i>orî-hastân) [^7] of its verse (gâh), and the particulars of the primitive Vîspêra<i>d</i> [^8] are to procure homage and praise, oblation _and_ invocation; _and_ the blessing [^9], which is regulated by the sagacity of the creator, is adapted for the spiritual illustration of the lodgment of the ceremonial of the sacred beings therein. 4. All <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> three are provisions for the first _and_ last presentations [^1] which _one_ utters by means of the Stô<i>d</i> Ya<i>s</i>t.
+3\. Likewise the purport (<i>a</i><i>v</i>orî-hastân) [^9] of its verse (gâh), and the particulars of the primitive Vîspêra<i>d</i> [^10] are to procure homage and praise, oblation _and_ invocation; _and_ the blessing [^11], which is regulated by the sagacity of the creator, is adapted for the spiritual illustration of the lodgment of the ceremonial of the sacred beings therein. 4. All <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> three are provisions for the first _and_ last presentations [^12] which _one_ utters by means of the Stô<i>d</i> Ya<i>s</i>t.
 
 5\. It is perfect _is_ the excellence of righteousness; it is perfect excellence _that is_ righteousness; with the copy revised (râyînî<i>d</i>ŏ).
 
@@ -70,22 +70,22 @@ dateCreated: 2025-10-7T9:56:37Z
 
 [^2]: (169:2) This word can also be read fravistârîh (Av. fra + vid), ‘interpretation,’ or frôstârîh, ‘handing down.’
 
-[^1]: (170:1) The Ahunavair begins with the words yathâ ahû vairyô. The word ahû, in the MS., is written ahî as usual in Irân.
+[^3]: (170:1) The Ahunavair begins with the words yathâ ahû vairyô. The word ahû, in the MS., is written ahî as usual in Irân.
 
-[^2]: (170:2) Assuming that ba<i>r</i>â stands for bûn.
+[^4]: (170:2) Assuming that ba<i>r</i>â stands for bûn.
 
-[^3]: (170:3) The first Gâtha, or sacred hymn, begins with the words ahyâ yâsâ nemanghâ (Yas. XXVIII, 1 a). There is, of course, no connection but that of sound between ahû, ‘a spiritual lord,’ and ahyâ, ‘of this;’ nor is there any other between the concluding words vâstârem, ‘a protector,’ and vahyô, ‘better,’ though the phrases in which these latter occur are of a very similar character, which fully justifies the comparison made in the text.
+[^5]: (170:3) The first Gâtha, or sacred hymn, begins with the words ahyâ yâsâ nemanghâ (Yas. XXVIII, 1 a). There is, of course, no connection but that of sound between ahû, ‘a spiritual lord,’ and ahyâ, ‘of this;’ nor is there any other between the concluding words vâstârem, ‘a protector,’ and vahyô, ‘better,’ though the phrases in which these latter occur are of a very similar character, which fully justifies the comparison made in the text.
 
-[^4]: (170:4) The Ahunavair ends with the words yim drigubyô dada<i>d</i> vâstârem.
+[^6]: (170:4) The Ahunavair ends with the words yim drigubyô dada<i>d</i> vâstârem.
 
-[^5]: (170:5) The last Gâtha ends with the words yâ erezhe<i>g</i>yôi dâhî drigaovê vahyô (Yas. LIII, 9 d).
+[^7]: (170:5) The last Gâtha ends with the words yâ erezhe<i>g</i>yôi dâhî drigaovê vahyô (Yas. LIII, 9 d).
 
-[^6]: (170:6) The Gâthas apparently.
+[^8]: (170:6) The Gâthas apparently.
 
-[^7]: (170:7) Or <i>a</i><i>v</i>ar-gâstân, ‘disseminations.’
+[^9]: (170:7) Or <i>a</i><i>v</i>ar-gâstân, ‘disseminations.’
 
-[^8]: (170:8) The Vîspêra<i>d</i> service consists of the Yasna ritual with certain additional passages intermixed, which passages are called the Vîspêra<i>d</i> because the earlier ones invoke ‘all the chiefs’ (vîspê ratavô, Visp. II, 3) of creation.
+[^10]: (170:8) The Vîspêra<i>d</i> service consists of the Yasna ritual with certain additional passages intermixed, which passages are called the Vîspêra<i>d</i> because the earlier ones invoke ‘all the chiefs’ (vîspê ratavô, Visp. II, 3) of creation.
 
-[^9]: (170:9) Possibly Yas. LV.
+[^11]: (170:9) Possibly Yas. LV.
 
-[^1]: (171:1) Probably referring to Yas. XIV and LVIII.
+[^12]: (171:1) Probably referring to Yas. XIV and LVIII.

@@ -38,11 +38,11 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. 'Nevertheless I have created _thee_ at the present time, in the middle period; for it is three thousand years from the days of Gayômard till now, and from now till the resurrection are the three thousand years that remain: therefore, I have created thee in the middle. 5. For whatever is in the middle is more precious and better and more valuable, _in_ the same manner as the heart is in the middle of the whole body _and_ is unquestionably (lâ-<i>g</i>arm) very precious [^2], _in_ the same manner as the land of <i>E</i>rân [^3] is more valuable than other lands, for the reason that it is in the middle. 6. And the country of <i>E</i>rân, which is _in_ the fourth climate (iqlîm) [^4], is better than other places, for the reason that it is in the middle. 7. Therefore, I have created thee in the middle, in the manner of _what is_ precious, and I have given thee the apostleship, and have sent _thee_ to a monarch, a friend of knowledge and a friend of religion.
 
-8\. 'Afterwards, I have sent thee, with thus much <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> preciousness, to the people; and the knowledge of the good works that mankind perform [^1] in life, and have not been able to bring to hand without trouble (mi‘hnat), I have made clear _and_ plain unto thee; and I have made thee aware of the whole of knowledge. 9. I have taught _it_ [^2] to thee in the Avesta, in a language that no one in the world considers plain _and_ easy; and I have told thee its interpretation (zand) in a language that is more current among mankind, and thou likewise hast more eloquence (faʓ‘h) therein.
+8\. 'Afterwards, I have sent thee, with thus much <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> preciousness, to the people; and the knowledge of the good works that mankind perform [^5] in life, and have not been able to bring to hand without trouble (mi‘hnat), I have made clear _and_ plain unto thee; and I have made thee aware of the whole of knowledge. 9. I have taught _it_ [^6] to thee in the Avesta, in a language that no one in the world considers plain _and_ easy; and I have told thee its interpretation (zand) in a language that is more current among mankind, and thou likewise hast more eloquence (faʓ‘h) therein.
 
-10\. ‘While _thou hast_ all this greatness that I have given to thee, O Zaratu<i>s</i>t! I enact a precept for thee, that “every good work which thou art able to do to-day do not postpone for to-morrow, and accomplish with thine own hand the counsel of thine own soul.” 11. Do not be proud (_gh_arrah) on the _score_ that it is still _the time of_ youth, _and_ it is quite possible to do _it hereafter_, while thou thinkest thus: “I will do _it_ after this.” 12. For _there_ have been many people whose _remaining_ life was one day, and they have been taken _away_ in the presence of fifty years’ work [^3].’
+10\. ‘While _thou hast_ all this greatness that I have given to thee, O Zaratu<i>s</i>t! I enact a precept for thee, that “every good work which thou art able to do to-day do not postpone for to-morrow, and accomplish with thine own hand the counsel of thine own soul.” 11. Do not be proud (_gh_arrah) on the _score_ that it is still _the time of_ youth, _and_ it is quite possible to do _it hereafter_, while thou thinkest thus: “I will do _it_ after this.” 12. For _there_ have been many people whose _remaining_ life was one day, and they have been taken _away_ in the presence of fifty years’ work [^7].’
 
-13\. Therefore, make an effort, so that thou _mayest_ not postpone to-day's duty for to-morrow. 14. Because Aharman, the evil wicked _one_, has intrusted two fiends with this matter, the name of one is Tardy (dêr) and the name of the other is Afterwards (pas). 15. Both these fiends are united, _and_ they <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> make an effort and exertion [^1] with man, so that his duty falls back behindhand [^2]. 16. For, _as to_ every duty and good work which comes forward, that fiend whose name is Tardy speaks thus: ‘Thou wilt live long, and it is possible to perform this duty _at_ all times;’ and that fiend whose name is Afterwards says: ‘Pass on now; it is possible to perform _it_ afterwards.’ 17. And these two fiends united keep the soul away from its own duty, till the end arrives; all duties have fallen back behindhand, and _it has_ to experience regret (‘hasarat) and penitence. 18. It has no benefit through duty _and_ good works, _and_ departs from this world.
+13\. Therefore, make an effort, so that thou _mayest_ not postpone to-day's duty for to-morrow. 14. Because Aharman, the evil wicked _one_, has intrusted two fiends with this matter, the name of one is Tardy (dêr) and the name of the other is Afterwards (pas). 15. Both these fiends are united, _and_ they <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> make an effort and exertion [^8] with man, so that his duty falls back behindhand [^9]. 16. For, _as to_ every duty and good work which comes forward, that fiend whose name is Tardy speaks thus: ‘Thou wilt live long, and it is possible to perform this duty _at_ all times;’ and that fiend whose name is Afterwards says: ‘Pass on now; it is possible to perform _it_ afterwards.’ 17. And these two fiends united keep the soul away from its own duty, till the end arrives; all duties have fallen back behindhand, and _it has_ to experience regret (‘hasarat) and penitence. 18. It has no benefit through duty _and_ good works, _and_ departs from this world.
 
 <figure class="table chapter-navigator">
   <table>
@@ -78,12 +78,12 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^4]: (345:4) The middle one of the seven.
 
-[^1]: (346:1) B29 has ‘the knowledge that mankind practise.’
+[^5]: (346:1) B29 has ‘the knowledge that mankind practise.’
 
-[^2]: (346:2) Lp, B29 have ‘taught the whole of knowledge.’
+[^6]: (346:2) Lp, B29 have ‘taught the whole of knowledge.’
 
-[^3]: (346:3) It is quite uncertain whether Hôrmazd's exhortation ends here, or elsewhere.
+[^7]: (346:3) It is quite uncertain whether Hôrmazd's exhortation ends here, or elsewhere.
 
-[^1]: (347:1) Lp has ‘conflict.’
+[^8]: (347:1) Lp has ‘conflict.’
 
-[^2]: (347:2) B29 omits ‘behindhand.’
+[^9]: (347:2) B29 omits ‘behindhand.’

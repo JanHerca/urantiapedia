@@ -38,7 +38,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. And in the commentary of the Vendîdâ<i>d</i> [^2] it says ‘“every woman who consorts with two strange men is the first _down_ upon me, who am Hôrmazd. 4. For if she takes a look into a river of water it will make _it_ diminish, if she takes a look [^3] at a tree _or_ shrub the fruit of the trees becomes scanty, and if she speaks a word with a righteous man it will make the glory [^4] of the man diminish.” 5. Zaratu<i>s</i>t enquired of Hôrmazd, “What occurs on [^5] her account?” 6. The creator Hôrmazd spoke thus: “It is necessary to kill her sooner than a biting serpent and similar creatures and wild beasts, because she is more harmful to my creatures.”’
 
-7\. Therefore, since she is like this, it is necessary for women to keep themselves _with_ great effort, so that they _may_ not become unlawful unto their own <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> husbands. 8. For, every time that _one of them_ gives herself four times to another person, she is, after that, unlawful as long as [^1] she may be _in_ the house of _her_ husband [^2] and new sin is increasing _in connection_ with her soul [^3].
+7\. Therefore, since she is like this, it is necessary for women to keep themselves _with_ great effort, so that they _may_ not become unlawful unto their own <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> husbands. 8. For, every time that _one of them_ gives herself four times to another person, she is, after that, unlawful as long as [^6] she may be _in_ the house of _her_ husband [^7] and new sin is increasing _in connection_ with her soul [^8].
 
 <figure class="table chapter-navigator">
   <table>
@@ -76,8 +76,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^5]: (331:5) Lp, B29 have ‘what is necessary.’
 
-[^1]: (332:1) B29 has ‘unlawful when.’
+[^6]: (332:1) B29 has ‘unlawful when.’
 
-[^2]: (332:2) This seems to be the author's interpretation of the following commentary (Pahl. Vend. XVIII, 124<i>a</i>):—‘And it is no matter to her; for, when cohabitation is three times conceded by her, _she is_ worthy of death. Gôgô<i>s</i>asp said that this is an adulteress who is _kept_ within bounds.’
+[^7]: (332:2) This seems to be the author's interpretation of the following commentary (Pahl. Vend. XVIII, 124<i>a</i>):—‘And it is no matter to her; for, when cohabitation is three times conceded by her, _she is_ worthy of death. Gôgô<i>s</i>asp said that this is an adulteress who is _kept_ within bounds.’
 
-[^3]: (332:3) B29 has ‘increasing as to water and fire.’
+[^8]: (332:3) B29 has ‘increasing as to water and fire.’

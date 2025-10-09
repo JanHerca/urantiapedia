@@ -32,7 +32,7 @@ dateCreated: 2025-10-7T9:56:37Z
   </table>
 </figure>
 
-## EXTANT FRAGMENTS. XI. VA<i>S</i>TAG NASK [^2].
+## EXTANT FRAGMENTS. XI. VA<i>S</i>TAG NASK [^1].
 
 No quotation from this Nask has yet been noticed.
 
@@ -62,4 +62,4 @@ No quotation from this Nask has yet been noticed.
 
 ## Footnotes
 
-[^2]: (468:2) As there is no account of this Nask in Dk. VIII, we can only guess that its extent was about the average length of the other Gâthic Nasks, or about 8,900 words of Avesta text and 18,400 of Pahlavi version.
+[^1]: (468:2) As there is no account of this Nask in Dk. VIII, we can only guess that its extent was about the average length of the other Gâthic Nasks, or about 8,900 words of Avesta text and 18,400 of Pahlavi version.

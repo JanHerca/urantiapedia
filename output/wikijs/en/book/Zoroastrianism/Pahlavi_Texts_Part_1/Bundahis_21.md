@@ -38,9 +38,9 @@ dateCreated: 2025-10-5T10:16:32Z
 
 1\. In revelation they mention seventeen [^2] species of liquid (mâyâ), as one liquid resides in plants  [^3]; second, that which is flowing from the mountains, that is, the rivers; third, that which is rain-water; fourth, that of tanks _and_ other special _constructions_; fifth, the semen of animals and men; sixth, the urine of animals and men [^4]; seventh, the sweat of animals and men; the eighth liquid is that in the skin of animals and men; ninth, the tears of animals and men; tenth, the blood of animals and men; eleventh, the oil in animals and men, a necessary in both worlds [^5]; twelfth, the saliva of animals and men, with which they nourish the embryo [^6]; the thirteenth is that which is under the bark [^7] of plants, as it is said that every bark has a liquid, through which a drop _appears_ on a twig (têkh) _when placed_ four finger-breadths before a fire [^8]; fourteenth, the milk of animals and men. 2. All these, through growth, or <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> the body which is formed, mingle again with the rivers, for the body which is formed _and_ the growth are both one.
 
-3\. This, too, they say, that of these three rivers, that is, the Arag river, the Marv river, _and_ the Vêh [^1] river, the spirits were dissatisfied, so that they would not flow into the world, owing to the defilement of stagnant water (armê<i>s</i>t) which they beheld, so that they were in tribulation through it until Zaratû<i>s</i>t was exhibited to them, whom I (Aûharmazd) will create, who _will_ pour sixfold holy-water (zôr) into it _and_ make _it_ again wholesome; he will preach carefulness [^2]. 4. This, too, it says, that, of water whose holy-water is more and pollution less, the holy-water has come in excess, _and_ in three years it goes back to the sources [^3]; _that_ of which the pollution _and_ holy-water have both become equal, arrives back in six years; _that_ of which the pollution is more and holy-water less, arrives back in nine years. 5. So, also, the growth of plants is connected, in this manner, strongly with the root [^4]; so, likewise, the blessings (âfrîn) which the righteous utter, come back, in this proportion, to themselves.
+3\. This, too, they say, that of these three rivers, that is, the Arag river, the Marv river, _and_ the Vêh [^9] river, the spirits were dissatisfied, so that they would not flow into the world, owing to the defilement of stagnant water (armê<i>s</i>t) which they beheld, so that they were in tribulation through it until Zaratû<i>s</i>t was exhibited to them, whom I (Aûharmazd) will create, who _will_ pour sixfold holy-water (zôr) into it _and_ make _it_ again wholesome; he will preach carefulness [^10]. 4. This, too, it says, that, of water whose holy-water is more and pollution less, the holy-water has come in excess, _and_ in three years it goes back to the sources [^11]; _that_ of which the pollution _and_ holy-water have both become equal, arrives back in six years; _that_ of which the pollution is more and holy-water less, arrives back in nine years. 5. So, also, the growth of plants is connected, in this manner, strongly with the root [^12]; so, likewise, the blessings (âfrîn) which the righteous utter, come back, in this proportion, to themselves.
 
-6\. Regarding the river Nâhvtâk [^5] it says, that Frâsîyâ<i>v</i> of Tûr conducted it away; _and_ when [^6] <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> Hûshê<i>d</i>ar [^1] comes it _will_ flow again suitable for horses; so, also, _will_ the fountains of the sea Kyânsîh [^2]. 7. Kyânsîh [^2] is the one where the home (<i>g</i>inâk) of the Kayân race is.
+6\. Regarding the river Nâhvtâk [^13] it says, that Frâsîyâ<i>v</i> of Tûr conducted it away; _and_ when [^14] <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> Hûshê<i>d</i>ar [^15] comes it _will_ flow again suitable for horses; so, also, _will_ the fountains of the sea Kyânsîh [^16]. 7. Kyânsîh [^16] is the one where the home (<i>g</i>inâk) of the Kayân race is.
 
 <figure class="table chapter-navigator">
   <table>
@@ -84,18 +84,18 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^8]: (83:8) See Chap. XXVII, 25.
 
-[^1]: (84:1) K20 has ‘Hêlmand,’ but M6 has ‘<i>S</i>apîr,’ the Huz. equivalent of ‘Vêh,’ which is more probable.
+[^9]: (84:1) K20 has ‘Hêlmand,’ but M6 has ‘<i>S</i>apîr,’ the Huz. equivalent of ‘Vêh,’ which is more probable.
 
-[^2]: (84:2) Or, ‘abstinence _from impurity_.’
+[^10]: (84:2) Or, ‘abstinence _from impurity_.’
 
-[^3]: (84:3) The source Arêdvîvsûr (see Chap. XIII, 3, 10).
+[^11]: (84:3) The source Arêdvîvsûr (see Chap. XIII, 3, 10).
 
-[^4]: (84:4) That is, by the sap circulating like the waters of the earth. The greater part of this sentence is omitted in K20.
+[^12]: (84:4) That is, by the sap circulating like the waters of the earth. The greater part of this sentence is omitted in K20.
 
-[^5]: (84:5) Probably ‘the Nâvadâ’ and ‘navigable waters’ of Chap. XX, 7, 34, and Nâîvtâk of Chap. XXIX, 4, 5.
+[^13]: (84:5) Probably ‘the Nâvadâ’ and ‘navigable waters’ of Chap. XX, 7, 34, and Nâîvtâk of Chap. XXIX, 4, 5.
 
-[^6]: (84:6) Reading amat, ‘when,’ instead of mûn, ‘which’ (see note to Chap. I, 7).
+[^14]: (84:6) Reading amat, ‘when,’ instead of mûn, ‘which’ (see note to Chap. I, 7).
 
-[^1]: (85:1) Written Khûrshê<i>d</i>ar, as usual in Bundahi<i>s</i> (see Chap. XXXII, 8).
+[^15]: (85:1) Written Khûrshê<i>d</i>ar, as usual in Bundahi<i>s</i> (see Chap. XXXII, 8).
 
-[^2]: (85:2) Written Kayâseh in Pâzand (see Chap. XIII, 16).
+[^16]: (85:2) Written Kayâseh in Pâzand (see Chap. XIII, 16).

@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The fifty-second subject is this, that it is incumbent on every one that, every year _when_ the month Fravardîn comes on, _he is_ to provide a sacred cake _on_ the day Khurdâ<i>d</i> [^1], and whatever they are able to bring to hand, _a little_ of everything, _they are_ to place by that sacred cake, and to consecrate _it_ with the dedicatory _formula_ Ayaranãm<i>k</i>a [^2], so that <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> the affairs of that year may be better through that day's provision and the entry and coming in _of guests_.
 
-2\. For it is declared in revelation [^1], that, every year, when the day Khurdâ<i>d</i> of the month Fravardîn comes on, they allot a daily provision _for_ mankind, and whatever _one_ wishes to pass to the lot of mankind in that year they write down that day. 3. Therefore, when they shall consecrate this sacred cake, the archangel Khurdâ<i>d</i> [^2] is making intercession for that person.
+2\. For it is declared in revelation [^3], that, every year, when the day Khurdâ<i>d</i> of the month Fravardîn comes on, they allot a daily provision _for_ mankind, and whatever _one_ wishes to pass to the lot of mankind in that year they write down that day. 3. Therefore, when they shall consecrate this sacred cake, the archangel Khurdâ<i>d</i> [^4] is making intercession for that person.
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,6 +68,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^2]: (314:2) Corrected from airyanãm<i>k</i>a in all MSS. See Af. I, 1 as far as saredhanãm<i>k</i>a, then gâthâbyô, &c. (Âf. II, 1).
 
-[^1]: (315:1) B29 has ‘in the good religion.’
+[^3]: (315:1) B29 has ‘in the good religion.’
 
-[^2]: (315:2) See Ho<i>r</i>vada<i>d</i> (Mkh. II, 34).
+[^4]: (315:2) See Ho<i>r</i>vada<i>d</i> (Mkh. II, 34).

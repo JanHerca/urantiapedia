@@ -40,7 +40,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 <span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
-4\. Forth Gô<i>s</i>ûrvan walked to the star station (pâyak) _and_ cried in the same manner, and forth to the moon station _and_ cried in the same manner, _and_ forth to the sun station, and then the guardian spirit of Zaratû<i>s</i>t was exhibited to her, _and Aûharmazd said_ thus [^1]: ‘I will produce for the world _him_ who will preach carefulness.’ 5. Contented became the spirit Gô<i>s</i>ûrvan, and assented thus: ‘I will nourish the creatures;’ that is, she became again consenting to a worldly creation in the world.
+4\. Forth Gô<i>s</i>ûrvan walked to the star station (pâyak) _and_ cried in the same manner, and forth to the moon station _and_ cried in the same manner, _and_ forth to the sun station, and then the guardian spirit of Zaratû<i>s</i>t was exhibited to her, _and Aûharmazd said_ thus [^5]: ‘I will produce for the world _him_ who will preach carefulness.’ 5. Contented became the spirit Gô<i>s</i>ûrvan, and assented thus: ‘I will nourish the creatures;’ that is, she became again consenting to a worldly creation in the world.
 
 <figure class="table chapter-navigator">
   <table>
@@ -76,4 +76,4 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^4]: (20:4) In K20, ‘You are ill.’
 
-[^1]: (21:1) As the text stands in the MSS. it means, ‘and then the guardian spirit of Zaratû<i>s</i>t demonstrated to her thus;’ but whether it be intended to represent the fravâhar as producing the creature is doubtful. The angel Gô<i>s</i>, who is identified with Gô<i>s</i>ûrvan, is usually considered a female, but this is hardly consistent with being the soul of a bull (see Chap. X, 1, 2), though applicable enough to a representative of the earth. In the Selections of Zâ<i>d</i>\-sparam, II, 6, however, this mythological animal is said to have been a female (see Appendix to Bundahi<i>s</i>).
+[^5]: (21:1) As the text stands in the MSS. it means, ‘and then the guardian spirit of Zaratû<i>s</i>t demonstrated to her thus;’ but whether it be intended to represent the fravâhar as producing the creature is doubtful. The angel Gô<i>s</i>, who is identified with Gô<i>s</i>ûrvan, is usually considered a female, but this is hardly consistent with being the soul of a bull (see Chap. X, 1, 2), though applicable enough to a representative of the earth. In the Selections of Zâ<i>d</i>\-sparam, II, 6, however, this mythological animal is said to have been a female (see Appendix to Bundahi<i>s</i>).

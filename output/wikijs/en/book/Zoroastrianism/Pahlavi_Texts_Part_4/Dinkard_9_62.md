@@ -36,13 +36,13 @@ dateCreated: 2025-10-7T9:56:37Z
 
 _Bakŏ Nask_.
 
-1\. The sixteenth fargar<i>d</i>, Spe<i>n</i>tâ-mainyû [^3], is _that_ the religion is lodging in him who is himself wise, or becomes a hearer of the wise. 2. This, too, that the deeds of complete mindfulness are practised [^4] and taught by him who becomes himself completely mindful. 3. This, too, that _whoever_ shall openly perform good works becomes a nourisher of good works.
+1\. The sixteenth fargar<i>d</i>, Spe<i>n</i>tâ-mainyû [^1], is _that_ the religion is lodging in him who is himself wise, or becomes a hearer of the wise. 2. This, too, that the deeds of complete mindfulness are practised [^2] and taught by him who becomes himself completely mindful. 3. This, too, that _whoever_ shall openly perform good works becomes a nourisher of good works.
 
-4\. This, too, that the spirit of fatherhood becomes lodging in him who nourishes the creatures with propriety [^5]. 5. This, too, that pasture is given [^6] to cattle is taught by him who shall provide care _for_ cattle, because the giving of pasture to them with care is advantageous.
+4\. This, too, that the spirit of fatherhood becomes lodging in him who nourishes the creatures with propriety [^3]. 5. This, too, that pasture is given [^4] to cattle is taught by him who shall provide care _for_ cattle, because the giving of pasture to them with care is advantageous.
 
-6\. This, too, that all for his good who becomes a benefit to him who is good [^7]—_through_ that which <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> has come to him—is every benefit which occurs to him who is good; all _for_ his good every benefit is given to every _one_ good by way of similarity in race, species, and nature, and every benefit is given in the way of complete giving which is possible for it.
+6\. This, too, that all for his good who becomes a benefit to him who is good [^5]—_through_ that which <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> has come to him—is every benefit which occurs to him who is good; all _for_ his good every benefit is given to every _one_ good by way of similarity in race, species, and nature, and every benefit is given in the way of complete giving which is possible for it.
 
-7\. This, too, that whoever shall justly inflict sentence and judgment, really according to the declaration regarding _one_ acquitted _or_ convicted [^1], becomes praiseworthy; even for this reason, because the origin of the judgment is the ritual of the ordeal. 8. And this, too, that by him who gives to him who is wise that which is needful for him, an immense [^2] _and_ strong foundation for learning is produced, _and_ the knowledge in the world is augmented.
+7\. This, too, that whoever shall justly inflict sentence and judgment, really according to the declaration regarding _one_ acquitted _or_ convicted [^6], becomes praiseworthy; even for this reason, because the origin of the judgment is the ritual of the ordeal. 8. And this, too, that by him who gives to him who is wise that which is needful for him, an immense [^7] _and_ strong foundation for learning is produced, _and_ the knowledge in the world is augmented.
 
 9\. Perfect excellence is righteousness.
 
@@ -72,16 +72,16 @@ _Bakŏ Nask_.
 
 ## Footnotes
 
-[^3]: (370:3) See Chap. XVII, 1 n; it is here written s<i>p</i>endmatŏ in Pahlavi.
+[^1]: (370:3) See Chap. XVII, 1 n; it is here written s<i>p</i>endmatŏ in Pahlavi.
 
-[^4]: (370:4) See Pahl. Yas. XLVI, 2 c.
+[^2]: (370:4) See Pahl. Yas. XLVI, 2 c.
 
-[^5]: (370:5) Ibid. 2 d.
+[^3]: (370:5) Ibid. 2 d.
 
-[^6]: (370:6) Ibid. 3 c.
+[^4]: (370:6) Ibid. 3 c.
 
-[^7]: (370:7) Ibid. 5 b.
+[^5]: (370:7) Ibid. 5 b.
 
-[^1]: (371:1) See Pahl. Yas. XLVI, 6 b.
+[^6]: (371:1) See Pahl. Yas. XLVI, 6 b.
 
-[^2]: (371:2) Ibid. 6 c.
+[^7]: (371:2) Ibid. 6 c.

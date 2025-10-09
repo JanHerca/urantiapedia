@@ -302,7 +302,7 @@ exports.readFromAndExecute = (dirPath, format, executeFn) => {
 		file => {
 			return exports.readFile(file)
 				.then(lines => {
-					const newLines = executeFn(lines);
+					const newLines = executeFn(file, lines);
 					return exports.writeFile(file, newLines.join('\n'));
 				});
 		}, null);
@@ -1357,33 +1357,55 @@ exports.containsRef = (lu_ref, paperIndex, sectionIndex, parIndex) => {
 /**
  * Fixes an array of lines with some Markdown content ensuring that footnotes
  * numbers match the order of appearance.
+ * @param {string} file File in process.
  * @param {string[]} lines Array of lines.
  * @return {string[]} The lines fixed.
  */
-exports.fixMarkdownFootnotes = (lines) => {
-	const footnotePattern = /\[\^(\d+)\]/g;
-	const matches = [];
-	lines.forEach(line => {
-		let match;
-		while ((match = footnotePattern.exec(line)) !== null) {
-			matches.push(match[0]);
-		}
-	});
-	const uniqueSortedMatches = [
-		...new Set(matches.map(match => parseInt(match.match(/\d+/)[0])))
-	].sort((a, b) => a - b);
-	let currentIndex = 0;
+exports.fixMarkdownFootnotes = (file, lines) => {
+	const footnotePattern = /\[ (p\. [0-9ivxlc]+) \]|\[\^(\d+)\]/g;
 	const footnotePattern2 = /^\[\^(\d+)\]: /g;
+	let index = 0;
+	let index2 = 0;
+	let largestNumber = 0;
+	let afterPage = false;
 	const updatedLines = lines.map(line => {
-		return line.replace(footnotePattern2, (match, number) => {
-			const expectedNumber = uniqueSortedMatches[currentIndex];
-			currentIndex++;
-			if (parseInt(number) === expectedNumber) {
-				return match;
-			} else {
-				return `[^${expectedNumber}]: `;
-			}
+		let isPattern2 = false;
+		let line2 = line.replace(footnotePattern2, (match, p) => {
+			index2++;
+			isPattern2 = true;
+			return `[^${index2}]: `;
 		});
+		if (!isPattern2) {
+			// const matches = [];
+			// let found;
+			// while((found = footnotePattern.exec(line)) !== null) {
+			// 	matches.push(found[1] != undefined ? found[1] : found[2]);
+			// }
+			line2 = line.replace(footnotePattern, (match, p1, p2) => {
+				if (p1 != undefined) {
+					afterPage = true;
+					index = index + largestNumber;
+					largestNumber = 0;
+					return match;
+				}
+				if (afterPage) {
+					const number = parseInt(p2);
+					if (number > largestNumber) {
+						largestNumber = number;
+					}
+					return `[^${index + number}]`;
+				}
+				index++;
+				return `[^${index}]`;
+			});
+		}
+		return line2;
 	});
+	if (largestNumber > 0) {
+		index = index + largestNumber;
+	}
+	if (index != index2) {
+		console.warn(`Number of footnotes unmatch: ${file}`)
+	}
 	return updatedLines;
 };

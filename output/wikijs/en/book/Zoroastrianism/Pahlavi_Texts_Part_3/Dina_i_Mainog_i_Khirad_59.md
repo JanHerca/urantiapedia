@@ -34,11 +34,11 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPTER LIX.
 
-1\. The sage asked the spirit of wisdom (2) thus: ‘What are the vices of priests? 3. What are the vices of warriors? 4. What are the vices of husbandmen? 5. And what are the vices of artizans [^4]?’
+1\. The sage asked the spirit of wisdom (2) thus: ‘What are the vices of priests? 3. What are the vices of warriors? 4. What are the vices of husbandmen? 5. And what are the vices of artizans [^1]?’
 
-6\. The spirit of wisdom answered (7) thus: 'The vices of priests are heresy, covetousness, negligence, <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> trafficking (sû<i>d</i>akîh) [^1], attention to trifles, and unbelief in the religion.
+6\. The spirit of wisdom answered (7) thus: 'The vices of priests are heresy, covetousness, negligence, <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> trafficking (sû<i>d</i>akîh) [^2], attention to trifles, and unbelief in the religion.
 
-8\. 'The vices of warriors are oppression, violence, promise-breaking, unmercifulness (an-a<i>v</i>ôkhshâgâ-vandîh), ostentation (dakhshîh) [^2], haughtiness, and arrogance.
+8\. 'The vices of warriors are oppression, violence, promise-breaking, unmercifulness (an-a<i>v</i>ôkhshâgâ-vandîh), ostentation (dakhshîh) [^3], haughtiness, and arrogance.
 
 9\. 'The vices of husbandmen are ignorance, enviousness, ill-will, and maliciousness.
 
@@ -70,8 +70,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^4]: (105:4) Literally ‘the well-endeavouring,’ the lowest of the four classes of the community here mentioned (see also Chaps. XXXI, X).XII).
+[^1]: (105:4) Literally ‘the well-endeavouring,’ the lowest of the four classes of the community here mentioned (see also Chaps. XXXI, X).XII).
 
-[^1]: (106:1) Or, perhaps, ‘usuriousness.’ The Sanskrit version has ‘laziness,’ as if Nêr. had read âsû<i>d</i>akîh.
+[^2]: (106:1) Or, perhaps, ‘usuriousness.’ The Sanskrit version has ‘laziness,’ as if Nêr. had read âsû<i>d</i>akîh.
 
-[^2]: (106:2) Nêr. has read <i>g</i>ahî, and translated ‘incontinence.’
+[^3]: (106:2) Nêr. has read <i>g</i>ahî, and translated ‘incontinence.’

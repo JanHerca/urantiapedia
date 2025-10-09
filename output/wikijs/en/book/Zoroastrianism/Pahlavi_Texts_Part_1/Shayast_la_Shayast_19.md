@@ -42,29 +42,29 @@ dateCreated: 2025-10-5T10:16:32Z
 
 <span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
-3\. _That_ a blessing (âfrînô) may be more benedictory, for this _reason one_ utters two _formulas_; for _there_ are two kinds of blessing, one is that which is in the thoughts [^1], and one is that which is in words.
+3\. _That_ a blessing (âfrînô) may be more benedictory, for this _reason one_ utters two _formulas_; for _there_ are two kinds of blessing, one is that which is in the thoughts [^4], and one is that which is in words.
 
-4\. Four are for coming out more thankfully when at a season-festival [^2].
+4\. Four are for coming out more thankfully when at a season-festival [^5].
 
-5\. Five _by him_ who goes to atone for sin, in order to expel the fiend; because it is necessary to undergo punishment by the decision (dastôbarîh) of these five persons, the house-ruler, the village-ruler, _the tribe-ruler_ [^3], the province-ruler, and the supreme Zaratû<i>s</i>t; and five Ashem-vohûs [^4] are to be uttered by him at the end.
+5\. Five _by him_ who goes to atone for sin, in order to expel the fiend; because it is necessary to undergo punishment by the decision (dastôbarîh) of these five persons, the house-ruler, the village-ruler, _the tribe-ruler_ [^6], the province-ruler, and the supreme Zaratû<i>s</i>t; and five Ashem-vohûs [^7] are to be uttered by him at the end.
 
 6\. Six _by him_ who goes to seek power, and to battle, so that he may be more successful.
 
 <span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
-7\. Seven _by him_ who goes to perform the worship of God (yazdân), _so that_ the archangels may come more forward [^1] at the worship.
+7\. Seven _by him_ who goes to perform the worship of God (yazdân), _so that_ the archangels may come more forward [^8] at the worship.
 
 8\. Eight _by him_ who goes to perform the ceremonial of the righteous guardian spirit.
 
-9\. Nine _by him_ who goes to sow corn; these he utters for this _reason_, because the corn will ripen (rasê<i>d</i>) in nine months, _and_ so that the corn may come forward he will make the mischief of the noxious creatures less [^2].
+9\. Nine _by him_ who goes to sow corn; these he utters for this _reason_, because the corn will ripen (rasê<i>d</i>) in nine months, _and_ so that the corn may come forward he will make the mischief of the noxious creatures less [^9].
 
-10\. Ten _by him_ who goes to seek a wife, so that the presents may be favourable for the purpose. 11. Ten _by him_ who wishes to allow the male _access_ to beasts _of burden_ and cattle, so that it may be more procreative [^3].
+10\. Ten _by him_ who goes to seek a wife, so that the presents may be favourable for the purpose. 11. Ten _by him_ who wishes to allow the male _access_ to beasts _of burden_ and cattle, so that it may be more procreative [^10].
 
-12\. Eleven _by him_ who goes to the lofty mountains, so that the glory of mountains and hills may bless him _and_ be friendly [^4].
+12\. Eleven _by him_ who goes to the lofty mountains, so that the glory of mountains and hills may bless him _and_ be friendly [^11].
 
-13\. Twelve _by him_ who goes to the low districts, so that the glory of that country and district may bless him and be friendly [^5].
+13\. Twelve _by him_ who goes to the low districts, so that the glory of that country and district may bless him and be friendly [^12].
 
-14\. Thirteen _by him_ who shall become pathless; _at_ that same place he shall utter _them_; or _by him_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> who shall pass over a bridge and a river, so that the spirit of that water may bless him [^1]; because the Yathâ-ahû-vairyô is greater and more successful _than_ everything in the Avesta as to all rivers, all wholesomeness, and all protection.
+14\. Thirteen _by him_ who shall become pathless; _at_ that same place he shall utter _them_; or _by him_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> who shall pass over a bridge and a river, so that the spirit of that water may bless him [^13]; because the Yathâ-ahû-vairyô is greater and more successful _than_ everything in the Avesta as to all rivers, all wholesomeness, and all protection.
 
 15\. Religion is as connected with the Yathâ-ahû-vairyô as the hair is more connected with the glory of the face; any one, indeed, would dread (samâ<i>d</i>) to separate hairiness _and_ the glory of the face.
 
@@ -100,22 +100,22 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^3]: (390:3) The Persian Rivâyat adds to these occasions, when he goes on the water, or a river, or goes to borrow, or to ask repayment of a loan, or goes out from his house, or comes into it.
 
-[^1]: (391:1) The words pavan mîni<i>s</i>n are guessed, for this first clause is omitted by mistake in M6, and these two words are illegible in K20, except part of the last letter.
+[^4]: (391:1) The words pavan mîni<i>s</i>n are guessed, for this first clause is omitted by mistake in M6, and these two words are illegible in K20, except part of the last letter.
 
-[^2]: (391:2) K20 substitutes for val, ‘at,’ the following mutilated phrase \[. . . . aNh<i>a</i>u khshapô ka<i>d</i>ar<i>k</i>âi pavan ka<i>d</i>âr<i>k</i>âî\] madam vazlûnê<i>d</i> râ<i>d</i>ih-i; the portion in brackets being evidently a fragment from the Hâ<i>d</i>ôkht Srôsh Yt. 5 with Pahlavi translation (a passage which treats of the efficacy of reciting the Yathâ-ahû-vairyô). If this fragment be not merely a marginal gloss, which has crept into the text by mistake, we must translate the whole section as follows: ‘Four are for the more thankful coming out of the liberality of a season-festival, when the passage, “_on that day nor_ on that night _comes there_ anything whatever on any one,” goes on.’ The Dînkar<i>d</i> has merely: ‘Four by _him_ who is at the invocation of the chiefs _of creation and_ the celebration of a season-festival.’ The Persian Rivâyats omit the section altogether.
+[^5]: (391:2) K20 substitutes for val, ‘at,’ the following mutilated phrase \[. . . . aNh<i>a</i>u khshapô ka<i>d</i>ar<i>k</i>âi pavan ka<i>d</i>âr<i>k</i>âî\] madam vazlûnê<i>d</i> râ<i>d</i>ih-i; the portion in brackets being evidently a fragment from the Hâ<i>d</i>ôkht Srôsh Yt. 5 with Pahlavi translation (a passage which treats of the efficacy of reciting the Yathâ-ahû-vairyô). If this fragment be not merely a marginal gloss, which has crept into the text by mistake, we must translate the whole section as follows: ‘Four are for the more thankful coming out of the liberality of a season-festival, when the passage, “_on that day nor_ on that night _comes there_ anything whatever on any one,” goes on.’ The Dînkar<i>d</i> has merely: ‘Four by _him_ who is at the invocation of the chiefs _of creation and_ the celebration of a season-festival.’ The Persian Rivâyats omit the section altogether.
 
-[^3]: (391:3) This person is omitted both in M6 and K20, but he is wanted to make up the five. This section is omitted by the Persian Rivâyats.
+[^6]: (391:3) This person is omitted both in M6 and K20, but he is wanted to make up the five. This section is omitted by the Persian Rivâyats.
 
-[^4]: (391:4) See Bund. XX, 2. These are to be recited after the punishment is over.
+[^7]: (391:4) See Bund. XX, 2. These are to be recited after the punishment is over.
 
-[^1]: (392:1) Or ‘may arrive earlier;’ there being seven archangels has suggested the number seven. This section and the next are omitted by the Persian Rivâyats.
+[^8]: (392:1) Or ‘may arrive earlier;’ there being seven archangels has suggested the number seven. This section and the next are omitted by the Persian Rivâyats.
 
-[^2]: (392:2) The Persian Rivâyats add general cultivation, planting trees, and cohabitation with one's wife.
+[^9]: (392:2) The Persian Rivâyats add general cultivation, planting trees, and cohabitation with one's wife.
 
-[^3]: (392:3) Instead of §§ 10, 11 the Persian Rivâyats have buying quadrupeds, and driving pegs into the ground for picketing them.
+[^10]: (392:3) Instead of §§ 10, 11 the Persian Rivâyats have buying quadrupeds, and driving pegs into the ground for picketing them.
 
-[^4]: (392:4) The Persian Rivâyats substitute conference with a maiden, seeking a wife, giving one's children in marriage, and obtaining anything from another.
+[^11]: (392:4) The Persian Rivâyats substitute conference with a maiden, seeking a wife, giving one's children in marriage, and obtaining anything from another.
 
-[^5]: (392:5) The Persian Rivâyats add going up hills, mounting anything lofty, going on a bridge, and losing one's way.
+[^12]: (392:5) The Persian Rivâyats add going up hills, mounting anything lofty, going on a bridge, and losing one's way.
 
-[^1]: (393:1) The Persian Rivâyats substitute going to and entering a city or town; they also add twenty-one recitations on setting out on a journey, so that the angel Bahrâm may grant a safe arrival.
+[^13]: (393:1) The Persian Rivâyats substitute going to and entering a city or town; they also add twenty-one recitations on setting out on a journey, so that the angel Bahrâm may grant a safe arrival.

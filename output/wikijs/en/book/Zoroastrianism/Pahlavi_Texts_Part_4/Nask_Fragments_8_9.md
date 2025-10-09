@@ -32,7 +32,7 @@ dateCreated: 2025-10-7T9:56:37Z
   </table>
 </figure>
 
-## EXTANT FRAGMENTS. VIII, IX. BARI<i>S</i> [^3] AND KA<i>S</i>KÎSRÔBÔ [^4] NASKS.
+## EXTANT FRAGMENTS. VIII, IX. BARI<i>S</i> [^1] AND KA<i>S</i>KÎSRÔBÔ [^2] NASKS.
 
 No quotation from these Nasks has yet been noticed.
 
@@ -62,6 +62,6 @@ No quotation from these Nasks has yet been noticed.
 
 ## Footnotes
 
-[^3]: (467:3) The short account of this Nask, in Dk. VIII, contains 248 Pahlavi words, from which the extent of its original text may be guessed (in the same way as in the case of Nask VI) at about 4,400 Avesta and 14,600 Pahlavi words.
+[^1]: (467:3) The short account of this Nask, in Dk. VIII, contains 248 Pahlavi words, from which the extent of its original text may be guessed (in the same way as in the case of Nask VI) at about 4,400 Avesta and 14,600 Pahlavi words.
 
-[^4]: (467:4) The very short account of this Nask, in Dk. VIII, contains 46 Pahlavi words, from which the extent of its original text may be estimated (in the same way as in the case of Nask IV) at about 5.500 Avesta and 17,900 Pahlavi words.
+[^2]: (467:4) The very short account of this Nask, in Dk. VIII, contains 46 Pahlavi words, from which the extent of its original text may be estimated (in the same way as in the case of Nask IV) at about 5.500 Avesta and 17,900 Pahlavi words.

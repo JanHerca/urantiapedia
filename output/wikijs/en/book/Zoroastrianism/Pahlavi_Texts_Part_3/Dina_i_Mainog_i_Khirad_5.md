@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPTER V.
 
-1\. The sage asked the spirit of wisdom (2) thus: ‘Which land is the happier [^5]?’
+1\. The sage asked the spirit of wisdom (2) thus: ‘Which land is the happier [^1]?’
 
-3\. The spirit of wisdom answered (4) thus: ‘That: land is the happier, in which a righteous man, who is true-speaking, makes his abode. 5. The second, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> in which they make the abode of fires. 6. The third, when oxen and sheep repose upon it. 7. The fourth is uncultivated and uninhabited land when they bring _it_ back to cultivation and habitableness. 8. The fifth, from which they extirpate the burrows of noxious creatures. 9. The sixth, on which exist the ceremonies and coming of the sacred beings, and the sitting of the good [^1], 10. The seventh, when they make populous that which _was_ desolate. 11. The eighth, when from the possession of the bad it comes into the possession of the good. 12. The ninth, when of the produce and yield (bê<i>d</i>ŏ) which arise from it they provide the share of the sacred beings, the good, and the worthy. 13. _And_ the tenth, in which they provide holy-water and ceremonies.’
+3\. The spirit of wisdom answered (4) thus: ‘That: land is the happier, in which a righteous man, who is true-speaking, makes his abode. 5. The second, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> in which they make the abode of fires. 6. The third, when oxen and sheep repose upon it. 7. The fourth is uncultivated and uninhabited land when they bring _it_ back to cultivation and habitableness. 8. The fifth, from which they extirpate the burrows of noxious creatures. 9. The sixth, on which exist the ceremonies and coming of the sacred beings, and the sitting of the good [^2], 10. The seventh, when they make populous that which _was_ desolate. 11. The eighth, when from the possession of the bad it comes into the possession of the good. 12. The ninth, when of the produce and yield (bê<i>d</i>ŏ) which arise from it they provide the share of the sacred beings, the good, and the worthy. 13. _And_ the tenth, in which they provide holy-water and ceremonies.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^5]: (27:5) This chapter is an imitation of Vend. III, 1-20, where it is stated that the five most pleasing spots on the earth are, first, where a righteous man performs ceremonies; second, where he has built his house and keeps his fire, cattle, family, and retainers; third, where the land is best cultivated; fourth, where most oxen and sheep are produced; and fifth, that which is most manured by oxen and sheep.
+[^1]: (27:5) This chapter is an imitation of Vend. III, 1-20, where it is stated that the five most pleasing spots on the earth are, first, where a righteous man performs ceremonies; second, where he has built his house and keeps his fire, cattle, family, and retainers; third, where the land is best cultivated; fourth, where most oxen and sheep are produced; and fifth, that which is most manured by oxen and sheep.
 
-[^1]: (28:1) That is, the ceremonial precinct where the priests sit to conduct the ceremonies.
+[^2]: (28:1) That is, the ceremonial precinct where the priests sit to conduct the ceremonies.

@@ -72,13 +72,13 @@ A copy of the epistle of the priest Mânû<i>s</i><i>k</i>îhar [^1], son of Y�
 
 ## CHAPTER I.
 
-1\. _In_ the name of the sacred beings, who sent you a soul with long life, with provision for proper progress, _and_ with the protection of increase of righteousness and wisdom, may such works and <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> mysterious dignity, encompassed with [^1] happiness, now possess increasing prosperity and a complete share of pre-eminent welfare and great exaltation in both worlds.
+1\. _In_ the name of the sacred beings, who sent you a soul with long life, with provision for proper progress, _and_ with the protection of increase of righteousness and wisdom, may such works and <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> mysterious dignity, encompassed with [^4] happiness, now possess increasing prosperity and a complete share of pre-eminent welfare and great exaltation in both worlds.
 
-2\. The epistle [^2] which _was_ wisely, properly, and with religious demeanour ordered by you, _and_ sent by a courier (paîkŏ), _has_ come, and _has_ enveloped _and_ assailed (<i>g</i>astŏ) me, indeed, with appalling intelligence on other subjects; and if even a portion [^3] _of_ the vast importance and great value, as regards your heavenly _concerns_, arrangements, and natural _and_ unpremeditated (avarîk) prodigies [^4], which are for my knowledge, for the sake of courteous (drû<i>d</i>îk) information, _be_ owing to intelligence for which the courteousness _and_ proper courageousness are among you, special pleasure is received _therewith_. 3. And praise is, thereupon, recited by me to the sacred beings, as regards the conflicting affairs even of this disordered (gûmê<i>z</i>i<i>s</i>nîkŏ) existence; worldly possessions, as much as are suitable for the assistance of wisdom, are proper [^5], and the gift of virtuous pleasure is the gain of the undeserving good work _or_ prayer they (the sacred beings) shall accept; it causes aggrandizement and is as deserving as even that which the decision of <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> the wise has said about _it_, that even from the management of disordered possessions which are impaired _there_ is advantage through the power of wisdom; _and_ they (the sacred beings) select and cleanse and uplift the good works _in_ such manner as a precious stone (sag khêl) from the water, and gold brocade [^1] from the dust.
+2\. The epistle [^5] which _was_ wisely, properly, and with religious demeanour ordered by you, _and_ sent by a courier (paîkŏ), _has_ come, and _has_ enveloped _and_ assailed (<i>g</i>astŏ) me, indeed, with appalling intelligence on other subjects; and if even a portion [^6] _of_ the vast importance and great value, as regards your heavenly _concerns_, arrangements, and natural _and_ unpremeditated (avarîk) prodigies [^7], which are for my knowledge, for the sake of courteous (drû<i>d</i>îk) information, _be_ owing to intelligence for which the courteousness _and_ proper courageousness are among you, special pleasure is received _therewith_. 3. And praise is, thereupon, recited by me to the sacred beings, as regards the conflicting affairs even of this disordered (gûmê<i>z</i>i<i>s</i>nîkŏ) existence; worldly possessions, as much as are suitable for the assistance of wisdom, are proper [^8], and the gift of virtuous pleasure is the gain of the undeserving good work _or_ prayer they (the sacred beings) shall accept; it causes aggrandizement and is as deserving as even that which the decision of <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> the wise has said about _it_, that even from the management of disordered possessions which are impaired _there_ is advantage through the power of wisdom; _and_ they (the sacred beings) select and cleanse and uplift the good works _in_ such manner as a precious stone (sag khêl) from the water, and gold brocade [^9] from the dust.
 
 4\. My pleasure, also, is as much increased through the information clue to the same courtesy, _and I have_ a new _and_ great desire for the arrival of information, continuously from henceforth, about the perfect courageousness, enduring humility, good works; worshipping, favouring position, and eagerness of soul of you who _have_ recounted _your_ great thoughtfulness for religion _and have_ provided good works.
 
-5\. On account of the universal renown (aspôharakânîh) of the good _people_ of Khvanîras [^2], which is yours, owing to the favour that is your complete happiness, ardently _and_ joyfully most desired, and constantly _so_, when _there_ are opportunities of seeing you--though it is supposed _to be_ the advantage of your own religion, joy of soul, courteousness, _and_ proper constancy--since my will _resides_ among you, you make known _and_ command my actions, through the will of the sacred beings.
+5\. On account of the universal renown (aspôharakânîh) of the good _people_ of Khvanîras [^10], which is yours, owing to the favour that is your complete happiness, ardently _and_ joyfully most desired, and constantly _so_, when _there_ are opportunities of seeing you--though it is supposed _to be_ the advantage of your own religion, joy of soul, courteousness, _and_ proper constancy--since my will _resides_ among you, you make known _and_ command my actions, through the will of the sacred beings.
 
 <figure class="table chapter-navigator">
   <table>
@@ -112,16 +112,16 @@ A copy of the epistle of the priest Mânû<i>s</i><i>k</i>îhar [^1], son of Y�
 
 [^3]: (279:3) He was high-priest of Sîrkân and brother of Mânû<i>s</i><i>k</i>îhar (as expressly stated in the heading to Ep. II), both being sons of the same father.
 
-[^1]: (280:1) Or, ‘sent down in,’ according as we read parvastŏ or frôstŏ.
+[^4]: (280:1) Or, ‘sent down in,’ according as we read parvastŏ or frôstŏ.
 
-[^2]: (280:2) An epistle complaining of certain heretical teachings of their high-priest, Zâ<i>d</i>\-sparam, which is no longer extant.
+[^5]: (280:2) An epistle complaining of certain heretical teachings of their high-priest, Zâ<i>d</i>\-sparam, which is no longer extant.
 
-[^3]: (280:3) Reading va hat vâhar-i<i>k</i>.
+[^6]: (280:3) Reading va hat vâhar-i<i>k</i>.
 
-[^4]: (280:4) The epistle which he had received from his brother, Zâ<i>d</i>\-sparam, some time before, seems also to have mentioned certain omens (see Ep. II, i, 3).
+[^7]: (280:4) The epistle which he had received from his brother, Zâ<i>d</i>\-sparam, some time before, seems also to have mentioned certain omens (see Ep. II, i, 3).
 
-[^5]: (280:5) J omits shâye<i>d</i>ŏ, ‘are proper,’ because it follows the other shâye<i>d</i>, ‘are suitable;’ but it is not always safe to assume that the repetition of a word is a blunder.
+[^8]: (280:5) J omits shâye<i>d</i>ŏ, ‘are proper,’ because it follows the other shâye<i>d</i>, ‘are suitable;’ but it is not always safe to assume that the repetition of a word is a blunder.
 
-[^1]: (281:1) Reading dîpakŏ-î zahabâ.
+[^9]: (281:1) Reading dîpakŏ-î zahabâ.
 
-[^2]: (281:2) The central region of the earth, containing all the lands best known to the Iranians (see Dd. XC, 3).
+[^10]: (281:2) The central region of the earth, containing all the lands best known to the Iranians (see Dd. XC, 3).

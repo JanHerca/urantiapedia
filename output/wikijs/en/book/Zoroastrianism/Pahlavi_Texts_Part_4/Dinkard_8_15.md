@@ -34,7 +34,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## DÎNKA<i>R</i><i>D</i>.—BOOK VIII. CHAPTER XV.
 
-1\. The Bakân-ya<i>s</i>t [^3] _contains_ particulars, first, about the worship of Aûha<i>r</i>ma<i>z</i><i>d</i>, the highest of divinities (bakân), and, secondly, _of_ the worship of the angels of other invisible and visible worldly existences, out of whom are likewise the names of <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> the days [^1]; _also_ their glory, power, triumph, _and_ marvellousness. 2. Besides, also, many angels who are invoked by name in their worship, and the attention _and_ obeisance _due_ to them.
+1\. The Bakân-ya<i>s</i>t [^1] _contains_ particulars, first, about the worship of Aûha<i>r</i>ma<i>z</i><i>d</i>, the highest of divinities (bakân), and, secondly, _of_ the worship of the angels of other invisible and visible worldly existences, out of whom are likewise the names of <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> the days [^2]; _also_ their glory, power, triumph, _and_ marvellousness. 2. Besides, also, many angels who are invoked by name in their worship, and the attention _and_ obeisance _due_ to them.
 
 3\. The worthiness _and_ dispensation of favour for worshippers, _and_ the duty of their many separate recitations unto the angels. 4. The duty of unlimited acquaintance _with_ knowledge about the possessions _and_ arrangements of the period, over which the creator Aûha<i>r</i>ma<i>z</i><i>d</i> _has_ appointed them, and they remain to cause industry.
 
@@ -66,6 +66,6 @@ dateCreated: 2025-10-7T9:56:37Z
 
 ## Footnotes
 
-[^3]: (34:3) Corresponding to the fourteenth word, mazdâi, in the Ahunavair, according to B. P. Riv.; but it is the fifteenth Nask in other Rivâyats. Bakân-ya<i>s</i>t means ‘worship of the divinities,’ and is written Baghân-ya<i>s</i>t, or Bayân-ya<i>s</i>t, in the Rivâyats, which also state that it contained seventeen kardah, or subdivisions.
+[^1]: (34:3) Corresponding to the fourteenth word, mazdâi, in the Ahunavair, according to B. P. Riv.; but it is the fifteenth Nask in other Rivâyats. Bakân-ya<i>s</i>t means ‘worship of the divinities,’ and is written Baghân-ya<i>s</i>t, or Bayân-ya<i>s</i>t, in the Rivâyats, which also state that it contained seventeen kardah, or subdivisions.
 
-[^1]: (35:1) Each of the days of the Parsi month being named after some particular angel, or spirit. From this description it appears probable that the Ya<i>s</i>ts formed a part of this Nask; but, if so, it ought to have contained at least thirty chapters.
+[^2]: (35:1) Each of the days of the Parsi month being named after some particular angel, or spirit. From this description it appears probable that the Ya<i>s</i>ts formed a part of this Nask; but, if so, it ought to have contained at least thirty chapters.

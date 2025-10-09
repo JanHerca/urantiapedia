@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXVI.
 
-1\. The seventy-sixth subject is this, when a woman brings forth, it is necessary that she _should_ not wash _her_ head _for_ twenty-one days, nor put _her_ hand again on anything, nor walk on a terrace-roof, nor put _her_ foot on a threshold in _her_ habitation. 2. And after the twenty-one days, if she sees herself _in_ such a state that she is able to wash _her_ head, she washes _her_ head. 3. And, after that, until the coming on of the fortieth day, it is requisite to abstain from the vicinity of a fire and anything that is wooden [^3] _or_ earthen; it is also requisite to abstain from everything of her cooking and pot-boiling [^4]. 4. Afterwards, when it is forty days, _she is_ <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> to wash _her_ head, and it is proper _for her_ to do every _kind of_ work.
+1\. The seventy-sixth subject is this, when a woman brings forth, it is necessary that she _should_ not wash _her_ head _for_ twenty-one days, nor put _her_ hand again on anything, nor walk on a terrace-roof, nor put _her_ foot on a threshold in _her_ habitation. 2. And after the twenty-one days, if she sees herself _in_ such a state that she is able to wash _her_ head, she washes _her_ head. 3. And, after that, until the coming on of the fortieth day, it is requisite to abstain from the vicinity of a fire and anything that is wooden [^1] _or_ earthen; it is also requisite to abstain from everything of her cooking and pot-boiling [^2]. 4. Afterwards, when it is forty days, _she is_ <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> to wash _her_ head, and it is proper _for her_ to do every _kind of_ work.
 
-5\. Till the lapse of a second [^1] forty days it is not proper _for her_ husband to make an approach to her, for it is a great sin, and it is possible that she _may_ become pregnant a second time, as within a _period of_ forty days women become very quickly pregnant [^2].
+5\. Till the lapse of a second [^3] forty days it is not proper _for her_ husband to make an approach to her, for it is a great sin, and it is possible that she _may_ become pregnant a second time, as within a _period of_ forty days women become very quickly pregnant [^4].
 
 6\. And if after the _first_ forty days she sees herself impure, unless she knows with accuracy that it has come from the infant, it is necessary to consider if _she be_ menstruous.
 
@@ -66,10 +66,10 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^3]: (339:3) La ‘<i>h</i>a<i>s</i>, B29 <i>k</i>ôbîn; Lp has ‘<i>h</i>ûri<i>s</i>, ‘food.’
+[^1]: (339:3) La ‘<i>h</i>a<i>s</i>, B29 <i>k</i>ôbîn; Lp has ‘<i>h</i>ûri<i>s</i>, ‘food.’
 
-[^4]: (339:4) B29 omits these thirteen words.
+[^2]: (339:4) B29 omits these thirteen words.
 
-[^1]: (340:1) Only B29 and the Gu<i>g</i>arâti have ‘a second.’
+[^3]: (340:1) Only B29 and the Gu<i>g</i>arâti have ‘a second.’
 
-[^2]: (340:2) B29 omits these twelve words.
+[^4]: (340:2) B29 omits these twelve words.

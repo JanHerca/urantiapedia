@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sage asked the spirit of wisdom (2) thus: ‘Wherefore _is it_ when there are _instances_ when a lazy, ignorant, and bad man attains to eminence and great welfare, (3) and there are _instances_ when a worthy, wise, and good man attains to grievous misery, perplexity, and indigence?’
 
-4\. The spirit of wisdom answered (5) thus: ‘_As to_ him who is a lazy, ignorant, and bad man, when his destiny becomes a helper, that laziness of his then becomes like unto diligence, that ignorance unto [^2] knowledge, and that vileness unto [^2] goodness. 6. And _as to_ him who is a wise, worthy, and good man, when his destiny is an opponent, that wisdom of his then turns to stupidity and foolishness (alakîh), and that worthiness to ignorance; (7) and _his_ <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> knowledge, skill, and worthiness become manifestly secluded [^1].’
+4\. The spirit of wisdom answered (5) thus: ‘_As to_ him who is a lazy, ignorant, and bad man, when his destiny becomes a helper, that laziness of his then becomes like unto diligence, that ignorance unto [^1] knowledge, and that vileness unto [^2] goodness. 6. And _as to_ him who is a wise, worthy, and good man, when his destiny is an opponent, that wisdom of his then turns to stupidity and foolishness (alakîh), and that worthiness to ignorance; (7) and _his_ <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> knowledge, skill, and worthiness become manifestly secluded [^3].’
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (93:2) L19 has ‘like unto’ in all three clauses.
+[^1]: (93:2) L19 has ‘like unto’ in all three clauses.
 
-[^1]: (94:1) See Chap. XV, 6 n. Nêr. has in Sans. ‘are manifest in immobility.’
+[^2]: (94:1) See Chap. XV, 6 n. Nêr. has in Sans. ‘are manifest in immobility.’

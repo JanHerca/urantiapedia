@@ -46,7 +46,7 @@ _Hûspâram Nask_.
 
 10\. About the five best and five worst actions, the seven [^2] heinous sins, _and_ the three sins that are very ill-atoned for. 11. About the sin of staining with bodily refuse, injuring the existence [^3], _and_ of a <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> death-producing formation _as to_ clothing. 12. About the sin owing to idleness when, moreover, that which they might do is good. 13. About a decision as to the justifiableness of clothing, arms, equipments, and _other_ things _being_ given to foreigners, besides promoting their service and business, and _giving them_ any assistance whatever, _or_ listening to that which relates to assistance; likewise listening to drunkards. 14. About unlawfully destroying _and_ cutting plants, _with_ a decision about it.
 
-15\. About the sin of digging a grave [^1] for burying a corpse, _whether_ of the idolators (dêvîyastân) _or_ non-idolators, and _of supplying_ clothing for the corpse of a dead _one_ of the idolators. 16. About him who threw bodily refuse [^2] _on_ to fire _or_ water, _or_ _any_ place _or_ garment _on_ which _it_ is not authorisedly _cast_, to make Ma<i>z</i><i>d</i>a-worshippers polluted; _and_ whatever is on the same subject.
+15\. About the sin of digging a grave [^4] for burying a corpse, _whether_ of the idolators (dêvîyastân) _or_ non-idolators, and _of supplying_ clothing for the corpse of a dead _one_ of the idolators. 16. About him who threw bodily refuse [^5] _on_ to fire _or_ water, _or_ _any_ place _or_ garment _on_ which _it_ is not authorisedly _cast_, to make Ma<i>z</i><i>d</i>a-worshippers polluted; _and_ whatever is on the same subject.
 
 17\. An account of water as regards the description _and_ extent of moisture of the land. 18. About the sin owing to rendering anything useless through water _or_ fire. 19. About carrying off two-thirds _of_ the misery from the world, by eradicating _it_ from the creatures through all the illumination of fires; _and_ carrying off all adversity from the period of the creatures, through the freedom from malice of mankind, one as regards the other, _and_ through _their_ perfect sympathy together.
 
@@ -82,6 +82,6 @@ _Hûspâram Nask_.
 
 [^3]: (107:3) Pahl. bâîô<i>d</i>ôk-zê<i>d</i>ŏ, see Chap. XIX, 1 n.
 
-[^1]: (108:1) Assuming that gôbar _kh<i>e</i>k_îrûntanŏ stands for gôbar (Pers. gôr) _kh_efrûntanŏ.
+[^4]: (108:1) Assuming that gôbar _kh<i>e</i>k_îrûntanŏ stands for gôbar (Pers. gôr) _kh_efrûntanŏ.
 
-[^2]: (108:2) See Chap. XIX, 3.
+[^5]: (108:2) See Chap. XIX, 3.

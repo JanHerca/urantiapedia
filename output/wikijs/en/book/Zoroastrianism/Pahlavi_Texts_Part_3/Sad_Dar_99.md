@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The ninety-ninth subject is this, that it is not proper for officiating priests, high-priests, _spiritual_ chiefs, and priests, that they teach Pahlavi to every one.
 
-2\. For Zaratu<i>s</i>t enquired of Hôrmazd thus: ‘To whom is it proper to teach Pahlavi?’ 3. _And_ Hôrmazd, the good _and_ propitious, gave a reply thus: ‘_To_ every one who is of thy family (nasl), an officiating priest, a high-priest, a _spiritual_ chief, and every one who is an intelligent priest. 4. [^4] Besides these that I have mentioned, if _one_ teaches _it_ to others [^5] it is a great sin for him; _and_ if he has performed many duties _and_ good works, the end for him may _still_ be hell.’
+2\. For Zaratu<i>s</i>t enquired of Hôrmazd thus: ‘To whom is it proper to teach Pahlavi?’ 3. _And_ Hôrmazd, the good _and_ propitious, gave a reply thus: ‘_To_ every one who is of thy family (nasl), an officiating priest, a high-priest, a _spiritual_ chief, and every one who is an intelligent priest. 4. [^1] Besides these that I have mentioned, if _one_ teaches _it_ to others [^2] it is a great sin for him; _and_ if he has performed many duties _and_ good works, the end for him may _still_ be hell.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^4]: (360:4) B29 inserts ‘it is not proper for any other person.’
+[^1]: (360:4) B29 inserts ‘it is not proper for any other person.’
 
-[^5]: (360:5) Lp has ‘if _there be_ any one of the others, it is not proper that _one_ teaches _him_.’
+[^2]: (360:5) Lp has ‘if _there be_ any one of the others, it is not proper that _one_ teaches _him_.’

@@ -38,9 +38,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. When they wish to provide [^3] bread they put the hand into the sleeve, or they place something on the top of the sleeve, _and_ it is necessary that her bare hand _should_ not come _forth_ again in any place. 4. Because every drop of water that trickles on to a limb of a menstruous woman becomes a sin of three hundred stîrs [^4]. 5. And it is requisite _for_ a menstruous woman to avoid everything that is washed _with_ ceremony by fifteen steps. 6. It is _also_ necessary _for her_ to be _at least_ three steps distant from a righteous man, and on whatever her eye casts a look it diminishes the glory [^5] of that thing.
 
-7\. And on every woman the twelve ceremonials [^6], _atoning for_ the offence of menstruation, are incumbent. 8. One on account of the offence that has occurred as regards the spiritual _existence_ [^7]. 9. The second on account of the offence that has occurred <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> as regards the stars [^1]. 10. The third on account of that which [^2] has occurred as regards the sun. 11. The fourth on account of that which has occurred as regards the moon. 12. The fifth on account of that which has occurred as regards the spirit of fire. 13. The sixth on account of that which has occurred as regards the spirit of water. 14. The seventh on account of that which has occurred as regards the spirit of earth. 15. The eighth on account of that which has occurred as regards the spirit of the wind. 16. The ninth on account of that which has occurred as regards Khurdâ<i>d</i> [^3]. 17. The tenth on account of the offence that has occurred as regards Ameredâ<i>d</i> [^3]. 18. The eleventh on account of the offence that has occurred as regards meal-time (‘<i>h</i>urdak gâh) [^4]. 19. The twelfth on account of the offence that has occurred as regards bodily refuse _and_ dead matter. 20. Therefore it is incumbent on every one _in_ this manner [^5]; if any one be more opulent eighteen _ceremonials_ are indispensable, and if she has silver in excess (ba-_gh_âyat) _there should be_ twenty-one, _and in_ one place I have read that twenty-four are indispensable; but, for lesser people, this that I have noted is necessary.
+7\. And on every woman the twelve ceremonials [^6], _atoning for_ the offence of menstruation, are incumbent. 8. One on account of the offence that has occurred as regards the spiritual _existence_ [^7]. 9. The second on account of the offence that has occurred <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> as regards the stars [^8]. 10. The third on account of that which [^9] has occurred as regards the sun. 11. The fourth on account of that which has occurred as regards the moon. 12. The fifth on account of that which has occurred as regards the spirit of fire. 13. The sixth on account of that which has occurred as regards the spirit of water. 14. The seventh on account of that which has occurred as regards the spirit of earth. 15. The eighth on account of that which has occurred as regards the spirit of the wind. 16. The ninth on account of that which has occurred as regards Khurdâ<i>d</i> [^10]. 17. The tenth on account of the offence that has occurred as regards Ameredâ<i>d</i> [^10]. 18. The eleventh on account of the offence that has occurred as regards meal-time (‘<i>h</i>urdak gâh) [^11]. 19. The twelfth on account of the offence that has occurred as regards bodily refuse _and_ dead matter. 20. Therefore it is incumbent on every one _in_ this manner [^12]; if any one be more opulent eighteen _ceremonials_ are indispensable, and if she has silver in excess (ba-_gh_âyat) _there should be_ twenty-one, _and in_ one place I have read that twenty-four are indispensable; but, for lesser people, this that I have noted is necessary.
 
-21\. That which they provide in _their_ lifetime is better [^6]; _and_, just as would occur when any one <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> plants a tree anew, _and_ is eating the fruit of it every year, even so much is that good work increasing every year. 22. If she shall live ten years, _or_ if a hundred years, even so long it is becoming every year much more [^1]. 23. If they provide _it_ after her _lifetime_, that which would be the increase departs; and in _her_ lifetime, also, that occurs which every one, who _has_ done a duty on his own account, has seen, that _the thing_ itself _which others_ accomplish after his _lifetime_ is very different; so that she _should_ provide _it_ with her own hands, not after her decease (vafât).
+21\. That which they provide in _their_ lifetime is better [^13]; _and_, just as would occur when any one <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> plants a tree anew, _and_ is eating the fruit of it every year, even so much is that good work increasing every year. 22. If she shall live ten years, _or_ if a hundred years, even so long it is becoming every year much more [^14]. 23. If they provide _it_ after her _lifetime_, that which would be the increase departs; and in _her_ lifetime, also, that occurs which every one, who _has_ done a duty on his own account, has seen, that _the thing_ itself _which others_ accomplish after his _lifetime_ is very different; so that she _should_ provide _it_ with her own hands, not after her decease (vafât).
 
 <figure class="table chapter-navigator">
   <table>
@@ -82,16 +82,16 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^7]: (303:7) Lp has ‘the spirits,’ and B29 has ‘mankind.’
 
-[^1]: (304:1) B29 has ‘the rain.’
+[^8]: (304:1) B29 has ‘the rain.’
 
-[^2]: (304:2) Lp, B29 use the same form of words in §§ 10-16 as in §§ 8, 9.
+[^9]: (304:2) Lp, B29 use the same form of words in §§ 10-16 as in §§ 8, 9.
 
-[^3]: (304:3) See Mkh. II, 34.
+[^10]: (304:3) See Mkh. II, 34.
 
-[^4]: (304:4) Doubtful, and not understood by the Gu<i>g</i>arâti translator.
+[^11]: (304:4) Doubtful, and not understood by the Gu<i>g</i>arâti translator.
 
-[^5]: (304:5) Lp, B29 have ‘thus much.’
+[^12]: (304:5) Lp, B29 have ‘thus much.’
 
-[^6]: (304:6) The author evidently implies, by this paragraph, that the celebration of these ceremonials was only occasional, perhaps once in a lifetime, but the earlier the better, so as to admit of a larger growth of merit before death.
+[^13]: (304:6) The author evidently implies, by this paragraph, that the celebration of these ceremonials was only occasional, perhaps once in a lifetime, but the earlier the better, so as to admit of a larger growth of merit before death.
 
-[^1]: (305:1) Lp, B29 have ‘it is proceeding every year to a head.’
+[^14]: (305:1) Lp, B29 have ‘it is proceeding every year to a head.’

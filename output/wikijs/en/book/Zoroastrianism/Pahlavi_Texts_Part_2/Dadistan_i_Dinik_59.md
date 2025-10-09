@@ -36,7 +36,7 @@ dateCreated: 2025-10-5T18:50:3Z
 
 1\. _As to_ the fifty-eighth question _and_ reply, that which you ask is thus: For how much property is it then necessary to appoint an adopted son?
 
-2\. The reply is this, that when the property which _has_ remained his for whom it is necessary to appoint an adopted son is as much as sixty stîrs [^2] of income, _it_ is then indispensable to appoint an adopted son for him. 3. Even when _it_ is less they should recognise him whose adoption is needful, _and who_ conducts an adopted son's duty; and, similarly, an adoption is to be appointed for him, though it may not come as a possession unto him who is fittest for adoption.
+2\. The reply is this, that when the property which _has_ remained his for whom it is necessary to appoint an adopted son is as much as sixty stîrs [^1] of income, _it_ is then indispensable to appoint an adopted son for him. 3. Even when _it_ is less they should recognise him whose adoption is needful, _and who_ conducts an adopted son's duty; and, similarly, an adoption is to be appointed for him, though it may not come as a possession unto him who is fittest for adoption.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,4 +64,4 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## Footnotes
 
-[^2]: (192:2) About 84 rûpîs (see Chap. LVI, 2).
+[^1]: (192:2) About 84 rûpîs (see Chap. LVI, 2).

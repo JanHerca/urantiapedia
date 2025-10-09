@@ -48,9 +48,9 @@ dateCreated: 2025-10-5T10:16:32Z
 
 6\. May Horvada<i>d</i> grant thee plenty and prosperity!
 
-7\. May Amerôda<i>d</i> grant thee herds of four-footed _beasts!_ <span id="p402"><sup><small>[ p. 402 ]</small></sup></span> 8\. May Dînô always secure [^1] _thee_ the support of the creator Aûharmazd!
+7\. May Amerôda<i>d</i> grant thee herds of four-footed _beasts!_ <span id="p402"><sup><small>[ p. 402 ]</small></sup></span> 8\. May Dînô always secure [^4] _thee_ the support of the creator Aûharmazd!
 
-9\. May the light of the sublime Âtarô [^2] hold thy throne in heaven!
+9\. May the light of the sublime Âtarô [^5] hold thy throne in heaven!
 
 10\. May Â<i>v</i>ân grant thee wealth from every generous one!
 
@@ -60,15 +60,15 @@ dateCreated: 2025-10-5T10:16:32Z
 
 13\. May Tî<i>s</i>tar hold thee a traveller in the countries of the seven regions!
 
-14\. Gô<i>s</i>ûrvan the archangel [^3] is the protection _of_ four-footed _beasts_.
+14\. Gô<i>s</i>ûrvan the archangel [^6] is the protection _of_ four-footed _beasts_.
 
 15\. May Dînô always remain _for thee_ as the support of the creator Aûharmazd!
 
 16\. May Mitrô be thy judge, who shall wish thy existence _to be_ vigorous!
 
-17\. May Srôsh the righteous, the smiter of demons, keep greed, wrath, and want [^4] far from thee! may he destroy _them, and_ may he not seize thee _as_ unjust!
+17\. May Srôsh the righteous, the smiter of demons, keep greed, wrath, and want [^7] far from thee! may he destroy _them, and_ may he not seize thee _as_ unjust!
 
-18\. May Rashnû be thy conductor [^5] to the resplendent heaven!
+18\. May Rashnû be thy conductor [^8] to the resplendent heaven!
 
 <span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
@@ -76,9 +76,9 @@ dateCreated: 2025-10-5T10:16:32Z
 
 20\. Vâhrâm the victorious is the stimulator of the warlike.
 
-21\. May Râm, applauding the life of a praiser of the persistent [^1] lord, keep thee perfect (aspar), that is, living three hundred years [^2], undying and undecaying unto the end of _thy_ days!
+21\. May Râm, applauding the life of a praiser of the persistent [^9] lord, keep thee perfect (aspar), that is, living three hundred years [^10], undying and undecaying unto the end of _thy_ days!
 
-22\. May Vâ<i>d</i> bring thee peace [^3] from the resplendent heaven!
+22\. May Vâ<i>d</i> bring thee peace [^11] from the resplendent heaven!
 
 23\. May Dînô always secure _thee_ the support of the creator Aûharmazd!
 
@@ -96,11 +96,11 @@ dateCreated: 2025-10-5T10:16:32Z
 
 29\. May Mâraspend hold thee a throne in the resplendent heaven!
 
-30\. May Anîrân the immortal, with every kind of all wealth, become thy desire! the horses of God (yazdân) [^1] who shall come that he may go, and thou mayest obtain a victory.
+30\. May Anîrân the immortal, with every kind of all wealth, become thy desire! the horses of God (yazdân) [^12] who shall come that he may go, and thou mayest obtain a victory.
 
 31\. May destiny give thee a helper! he is the guardian of the _celestial_ sphere for all these archangels whose names I have brought _forward;_ may he be thy helper _at_ all times, in every good work and duty!
 
-32\. Homage to Srît [^2] the teacher! may he live long! may he be prosperous _in_ the land! may _his_ be every pleasure and joy, _and_ every glory of the Kayâns, through the will of the persistent Aûharmazd!
+32\. Homage to Srît [^13] the teacher! may he live long! may he be prosperous _in_ the land! may _his_ be every pleasure and joy, _and_ every glory of the Kayâns, through the will of the persistent Aûharmazd!
 
 <figure class="table chapter-navigator">
   <table>
@@ -134,22 +134,22 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^3]: (401:3) The reading is uncertain.
 
-[^1]: (402:1) This verb is doubtful; here and in § 23 it is netrûnâ<i>d</i>, ‘may she guard,’ but in § 15 it is ketrûnâ<i>d</i>, ‘may she remain.’
+[^4]: (402:1) This verb is doubtful; here and in § 23 it is netrûnâ<i>d</i>, ‘may she guard,’ but in § 15 it is ketrûnâ<i>d</i>, ‘may she remain.’
 
-[^2]: (402:2) Bûr<i>z</i> âtarô, ‘the sublime fire,’ seems to be a personification of the fire Berezi-savang of Bund. XVII, 1; 3, the Supremely-benefiting of SZS. XI, 1, 6.
+[^5]: (402:2) Bûr<i>z</i> âtarô, ‘the sublime fire,’ seems to be a personification of the fire Berezi-savang of Bund. XVII, 1; 3, the Supremely-benefiting of SZS. XI, 1, 6.
 
-[^3]: (402:3) She is usually called an angel. Either the verb is omitted in this section, or it is not a blessing; and the same may be said of §§ 20, 25.
+[^6]: (402:3) She is usually called an angel. Either the verb is omitted in this section, or it is not a blessing; and the same may be said of §§ 20, 25.
 
-[^4]: (402:4) These are the three fiends, Â<i>z</i>, Aeshm, and Nîyâz (see Bund. XXVIII, 15-17, 26, 27).
+[^7]: (402:4) These are the three fiends, Â<i>z</i>, Aeshm, and Nîyâz (see Bund. XXVIII, 15-17, 26, 27).
 
-[^5]: (402:5) It is very possible that the verb should be yehabûnâ<i>d</i>, p. 403 instead of yehevûnâ<i>d</i>, in which case we should have ‘give thee a passport.’
+[^8]: (402:5) It is very possible that the verb should be yehabûnâ<i>d</i>, p. 403 instead of yehevûnâ<i>d</i>, in which case we should have ‘give thee a passport.’
 
-[^1]: (403:1) The meaning of khvâpar (Av. <i>h</i><i>v</i>âpara) is by no means certain; it is an epithet of Aûharmazd, angels, and spirits, and is then often assumed to mean ‘protecting;’ but it is also a term applied to the earth and offspring; perhaps ‘self-sustaining’ would suit both its etymology and its various applications best, but the root par has many other meanings.
+[^9]: (403:1) The meaning of khvâpar (Av. <i>h</i><i>v</i>âpara) is by no means certain; it is an epithet of Aûharmazd, angels, and spirits, and is then often assumed to mean ‘protecting;’ but it is also a term applied to the earth and offspring; perhaps ‘self-sustaining’ would suit both its etymology and its various applications best, but the root par has many other meanings.
 
-[^2]: (403:2) That is, two great cycles. It is usual for the copyists of Pahlavi MSS. to wish, in their colophons, that the persons for whom the MSS. are written, whether themselves or others, may retain the MSS. for a hundred and fifty years before leaving them to their children; which period is mentioned because it is supposed to constitute a great cycle of the moon and planets.
+[^10]: (403:2) That is, two great cycles. It is usual for the copyists of Pahlavi MSS. to wish, in their colophons, that the persons for whom the MSS. are written, whether themselves or others, may retain the MSS. for a hundred and fifty years before leaving them to their children; which period is mentioned because it is supposed to constitute a great cycle of the moon and planets.
 
-[^3]: (403:3) Written drûd instead of drû<i>d</i>.
+[^11]: (403:3) Written drûd instead of drû<i>d</i>.
 
-[^1]: (404:1) Both nouns are in the plural, and both verbs in the singular. Anîrân is a personification of Av. anaghra rao<i>k</i><i>a</i>u, ‘the beginningless lights,’ or fixed stars (which, however, are said to have been created by Aûharmazd in Bund. II, 1), and these stars appear to have been considered as horses of the angels (Bund. VI, 3, SZS. VI, 1). There are several uncertain phrases in §§ 30-32.
+[^12]: (404:1) Both nouns are in the plural, and both verbs in the singular. Anîrân is a personification of Av. anaghra rao<i>k</i><i>a</i>u, ‘the beginningless lights,’ or fixed stars (which, however, are said to have been created by Aûharmazd in Bund. II, 1), and these stars appear to have been considered as horses of the angels (Bund. VI, 3, SZS. VI, 1). There are several uncertain phrases in §§ 30-32.
 
-[^2]: (404:2) This would appear to be the name of the person to whom the benediction is addressed, as it can hardly be meant for the ancient hero Thrita, the Athrat of Bund. XXXI, 27, and the Srîtô of SZS. XI, 10, note.
+[^13]: (404:2) This would appear to be the name of the person to whom the benediction is addressed, as it can hardly be meant for the ancient hero Thrita, the Athrat of Bund. XXXI, 27, and the Srîtô of SZS. XI, 10, note.

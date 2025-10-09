@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXI.
 
-1\. The seventy-first subject is this, that, forasmuch as it is not desirable _for_ any one to eat dead matter for the sake of medicine and remedy, _let them_ beware (zinhâr) when they eat it [^4].
+1\. The seventy-first subject is this, that, forasmuch as it is not desirable _for_ any one to eat dead matter for the sake of medicine and remedy, _let them_ beware (zinhâr) when they eat it [^1].
 
-2\. For it asserts, in the commentary of the Vendîdâ<i>d</i> [^5], that it is requisite to demolish the habitation, house, and abode of any one _who_ has [^6] eaten dead matter, and to fetch his heart out of _his_ body, and it is necessary to scoop out his eyes. 3. And _along_ with these torments, which they accomplish on him, his soul is in hell till the resurrection.
+2\. For it asserts, in the commentary of the Vendîdâ<i>d</i> [^2], that it is requisite to demolish the habitation, house, and abode of any one _who_ has [^3] eaten dead matter, and to fetch his heart out of _his_ body, and it is necessary to scoop out his eyes. 3. And _along_ with these torments, which they accomplish on him, his soul is in hell till the resurrection.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,8 +64,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^4]: (336:4) B29 has ‘beware that they do not eat _it_.’
+[^1]: (336:4) B29 has ‘beware that they do not eat _it_.’
 
-[^5]: (336:5) Perhaps alluding to Pahl. Vend. VII, 59-64.
+[^2]: (336:5) Perhaps alluding to Pahl. Vend. VII, 59-64.
 
-[^6]: (336:6) B29 has ‘to demolish his house and abode if any one has.’
+[^3]: (336:6) B29 has ‘to demolish his house and abode if any one has.’

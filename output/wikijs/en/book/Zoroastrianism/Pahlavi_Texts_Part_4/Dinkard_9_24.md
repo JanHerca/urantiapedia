@@ -38,21 +38,21 @@ dateCreated: 2025-10-7T9:56:37Z
 
 <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
-_they_ considered _it_ the shoulder _of_ [^1] Arekdvîksûr [^2], _and his_ chest and back _those of_ Aharî<i>s</i>vang [^3], _and_ when _they saw_ his full [^4] bosom _they considered it that of_ the spirit of liberality [^5]; and by _his_ side _was_ the Kayân glory [^6] to rub (mû<i>s</i>tanŏ) his bosom.
+_they_ considered _it_ the shoulder _of_ [^7] Arekdvîksûr [^8], _and his_ chest and back _those of_ Aharî<i>s</i>vang [^9], _and_ when _they saw_ his full [^10] bosom _they considered it that of_ the spirit of liberality [^11]; and by _his_ side _was_ the Kayân glory [^12] to rub (mû<i>s</i>tanŏ) his bosom.
 
-4\. The speaking of Zaratû<i>s</i>t spiritually, on the grievous bringing forth of _his_ head [^7], thus: ‘As a spiritual lord is _my_ desire, do thou who art the Zôti speak forth to me [^8];’ and the reply from Aûha<i>r</i>ma<i>z</i><i>d</i> thus: ‘So shouldst thou be the priestly master as regards whatever righteousness I speak forth with righteous intelligence; thou art of very much value, thou _art_ very righteous, thou _art_ most intelligent, and thou _wilt_ state the religion of the Ma<i>z</i><i>d</i>a-worshippers to creatures of every kind.’ 5. Through that saying an arrow reaches spiritually unto the demons, just as from a mighty chief warrior of Kaî-Vi<i>s</i>tâsp [^9], like him in a mountain dwelling (garânŏ mân) who _has_ shot an arrow for an attack (patkopi<i>s</i>nŏ) opposing those in coats of mail. 6. The evil spirit grumbled (dandî<i>d</i>ŏ) to the demons thus: ‘Evil _has_ it become _for_ you _who_ are demons, but <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> you are unobservant.’ 7. Even so Zaratû<i>s</i>t proclaimed life _free_ from the control of the demons, when this same _saying was_ uttered by him, thus: ‘As a spiritual lord is _my_ desire;’ and, _at_ the falling of the demons upon Zaratû<i>s</i>t for _his_ destruction, an incarnation (tanû) of _its_ spiritual existence stood opposed to them, in that weapon _proceeding_ from Zaratû<i>s</i>t, to keep them back.
+4\. The speaking of Zaratû<i>s</i>t spiritually, on the grievous bringing forth of _his_ head [^13], thus: ‘As a spiritual lord is _my_ desire, do thou who art the Zôti speak forth to me [^14];’ and the reply from Aûha<i>r</i>ma<i>z</i><i>d</i> thus: ‘So shouldst thou be the priestly master as regards whatever righteousness I speak forth with righteous intelligence; thou art of very much value, thou _art_ very righteous, thou _art_ most intelligent, and thou _wilt_ state the religion of the Ma<i>z</i><i>d</i>a-worshippers to creatures of every kind.’ 5. Through that saying an arrow reaches spiritually unto the demons, just as from a mighty chief warrior of Kaî-Vi<i>s</i>tâsp [^15], like him in a mountain dwelling (garânŏ mân) who _has_ shot an arrow for an attack (patkopi<i>s</i>nŏ) opposing those in coats of mail. 6. The evil spirit grumbled (dandî<i>d</i>ŏ) to the demons thus: ‘Evil _has_ it become _for_ you _who_ are demons, but <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> you are unobservant.’ 7. Even so Zaratû<i>s</i>t proclaimed life _free_ from the control of the demons, when this same _saying was_ uttered by him, thus: ‘As a spiritual lord is _my_ desire;’ and, _at_ the falling of the demons upon Zaratû<i>s</i>t for _his_ destruction, an incarnation (tanû) of _its_ spiritual existence stood opposed to them, in that weapon _proceeding_ from Zaratû<i>s</i>t, to keep them back.
 
-8\. And he spoke again thus: ‘The religion of the benefiters progresses there in him who, through good actions, _has_ joyfulness owing to his righteousness [^1];’ and, through that saying, an arrow reaches spiritually unto the demons, equal to ten _of_ that which _was_ first spoken, and, _at_ the falling of the demons upon Zaratû<i>s</i>t for _his_ destruction, it stood spiritually opposed to them, and that weapon _proceeding_ from Zaratû<i>s</i>t kept _them_ back.
+8\. And he spoke again thus: ‘The religion of the benefiters progresses there in him who, through good actions, _has_ joyfulness owing to his righteousness [^16];’ and, through that saying, an arrow reaches spiritually unto the demons, equal to ten _of_ that which _was_ first spoken, and, _at_ the falling of the demons upon Zaratû<i>s</i>t for _his_ destruction, it stood spiritually opposed to them, and that weapon _proceeding_ from Zaratû<i>s</i>t kept _them_ back.
 
-9\. The third utterance of Zaratû<i>s</i>t, on the bringing forth of _his_ arms, _was_ thus: ‘That which the first existence produced is to be so practised, with attention, through actions to be concealed _by_ him who is a priestly authority (ra<i>d</i>ŏ) [^2];’ and through that saying an arrow reaches spiritually unto the demons, equal to one hundred _of_ that which _was_ first spoken, and, _at_ the falling of a demon upon Zaratû<i>s</i>t for _his_ death, _its_ spirit, _as_ a sacred being, kept the demon away from Zaratû<i>s</i>t.
+9\. The third utterance of Zaratû<i>s</i>t, on the bringing forth of _his_ arms, _was_ thus: ‘That which the first existence produced is to be so practised, with attention, through actions to be concealed _by_ him who is a priestly authority (ra<i>d</i>ŏ) [^17];’ and through that saying an arrow reaches spiritually unto the demons, equal to one hundred _of_ that which _was_ first spoken, and, _at_ the falling of a demon upon Zaratû<i>s</i>t for _his_ death, _its_ spirit, _as_ a sacred being, kept the demon away from Zaratû<i>s</i>t.
 
-10\. And, when the whole body of Zaratû<i>s</i>t _was_ brought forth, trouble (âsipŏ) fell among the demons, and the demons rushed back to hell in haste; light <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> increased among the creatures, and every creature of the beneficent sacred being is pleased and talked of virtuous conduct. 11. And Aûha<i>r</i>ma<i>z</i><i>d</i> took away Zaratû<i>s</i>t with joyfulness to provide security for _him_, and Arekdvîksûr, Aharî<i>s</i>vang, and the primitive and Kayân glory _in_ the body of Zaratû<i>s</i>t spoke to Zaratû<i>s</i>t of _its_ production _by_ Aûha<i>r</i>ma<i>z</i><i>d</i> thus: ‘Thou shouldst think of him who is wise.’ 12. Thereupon Zaratû<i>s</i>t spoke spiritually, _in_ reply, thus: ‘I am a Ma<i>z</i><i>d</i>a-worshipper, I profess the Ma<i>z</i><i>d</i>a-worship of Zaratû<i>s</i>t [^1]; _and_ this _means_ that I am an apostle of Aûha<i>r</i>ma<i>z</i><i>d</i>, and am sent _by_ Aûha<i>r</i>ma<i>z</i><i>d</i>.’
+10\. And, when the whole body of Zaratû<i>s</i>t _was_ brought forth, trouble (âsipŏ) fell among the demons, and the demons rushed back to hell in haste; light <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> increased among the creatures, and every creature of the beneficent sacred being is pleased and talked of virtuous conduct. 11. And Aûha<i>r</i>ma<i>z</i><i>d</i> took away Zaratû<i>s</i>t with joyfulness to provide security for _him_, and Arekdvîksûr, Aharî<i>s</i>vang, and the primitive and Kayân glory _in_ the body of Zaratû<i>s</i>t spoke to Zaratû<i>s</i>t of _its_ production _by_ Aûha<i>r</i>ma<i>z</i><i>d</i> thus: ‘Thou shouldst think of him who is wise.’ 12. Thereupon Zaratû<i>s</i>t spoke spiritually, _in_ reply, thus: ‘I am a Ma<i>z</i><i>d</i>a-worshipper, I profess the Ma<i>z</i><i>d</i>a-worship of Zaratû<i>s</i>t [^18]; _and_ this _means_ that I am an apostle of Aûha<i>r</i>ma<i>z</i><i>d</i>, and am sent _by_ Aûha<i>r</i>ma<i>z</i><i>d</i>.’
 
-13\. And Aûha<i>r</i>ma<i>z</i><i>d</i> spoke to Zaratû<i>s</i>t thus: ‘_As to_ the sacred beings _of_ the worldly _existence_, do thou beg companionship from them; _but as to_ the demons, do thou long for (dôsh) [^2] separation from every one of them; practise good thoughts, good words, and good deeds, and abstain from evil thoughts, evil words, and evil deeds.’ 14. Also about vigilantly reverencing the sacred beings, and the reward thereof; not strengthening the vile, nor weakening [^3] the good; expounding _for_ the disturber of religion (dênô-pa<i>d</i>rêsh), and producing liberality for the accepters of religion; and not turning _away_ from the religion on account of fondness for body and life.
+13\. And Aûha<i>r</i>ma<i>z</i><i>d</i> spoke to Zaratû<i>s</i>t thus: ‘_As to_ the sacred beings _of_ the worldly _existence_, do thou beg companionship from them; _but as to_ the demons, do thou long for (dôsh) [^19] separation from every one of them; practise good thoughts, good words, and good deeds, and abstain from evil thoughts, evil words, and evil deeds.’ 14. Also about vigilantly reverencing the sacred beings, and the reward thereof; not strengthening the vile, nor weakening [^20] the good; expounding _for_ the disturber of religion (dênô-pa<i>d</i>rêsh), and producing liberality for the accepters of religion; and not turning _away_ from the religion on account of fondness for body and life.
 
-15\. The accepting of such advice spiritually _by_ Zaratû<i>s</i>t, and his glorifying Aûha<i>r</i>ma<i>z</i><i>d</i>, for creativeness, <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> sovereignty, and all goodness, and the primary archangels _and_ other good creations, each separately, for their own special glory [^1]. 16. And, afterwards, the grumbling of the evil spirit maliciously, at that vexation, thus: ‘I have produced, for the annoyance [^2] of _any_ upholder of that religion of thine, 99,999 wizards, 99,999 wolf-worshippers [^3], and 99,999 apostates.’
+15\. The accepting of such advice spiritually _by_ Zaratû<i>s</i>t, and his glorifying Aûha<i>r</i>ma<i>z</i><i>d</i>, for creativeness, <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> sovereignty, and all goodness, and the primary archangels _and_ other good creations, each separately, for their own special glory [^21]. 16. And, afterwards, the grumbling of the evil spirit maliciously, at that vexation, thus: ‘I have produced, for the annoyance [^22] of _any_ upholder of that religion of thine, 99,999 wizards, 99,999 wolf-worshippers [^23], and 99,999 apostates.’
 
-17\. Aûha<i>r</i>ma<i>z</i><i>d</i> spoke to Zaratû<i>s</i>t thus: ‘Maintain this religion steadfastly, for through the assistance of this religion I, who am Aûha<i>r</i>ma<i>z</i><i>d</i>, _will_ be with thee, and the omniscient wisdom becomes thine, and extends to thy disciples, Maî<i>d</i>ôk-mâh [^4], Parsha<i>d</i>\-gâvô [^5], <i>S</i>ênô [^6], Kaî-Vi<i>s</i>tâsp, Frashô<i>s</i>tar, and <i>G</i>âmâsp [^7], the teacher of public observance and will to the righteous, _besides_ many of the people who are diligent and even those who are idle, and their good works and praise _will_ be owned by thee.’ 18. Likewise <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> about the worldly display of the religion to Zaratû<i>s</i>t _by_ Aûha<i>r</i>ma<i>z</i><i>d</i>, the accepting of the religion _by_ Zaratû<i>s</i>t through recitation and faith, and the reverence of the Ahunavair [^1] _by_ Zaratû<i>s</i>t.
+17\. Aûha<i>r</i>ma<i>z</i><i>d</i> spoke to Zaratû<i>s</i>t thus: ‘Maintain this religion steadfastly, for through the assistance of this religion I, who am Aûha<i>r</i>ma<i>z</i><i>d</i>, _will_ be with thee, and the omniscient wisdom becomes thine, and extends to thy disciples, Maî<i>d</i>ôk-mâh [^24], Parsha<i>d</i>\-gâvô [^25], <i>S</i>ênô [^26], Kaî-Vi<i>s</i>tâsp, Frashô<i>s</i>tar, and <i>G</i>âmâsp [^27], the teacher of public observance and will to the righteous, _besides_ many of the people who are diligent and even those who are idle, and their good works and praise _will_ be owned by thee.’ 18. Likewise <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> about the worldly display of the religion to Zaratû<i>s</i>t _by_ Aûha<i>r</i>ma<i>z</i><i>d</i>, the accepting of the religion _by_ Zaratû<i>s</i>t through recitation and faith, and the reverence of the Ahunavair [^28] _by_ Zaratû<i>s</i>t.
 
 19\. Also about Aûha<i>r</i>ma<i>z</i><i>d</i> _having_ created the creatures in the spiritual _existence, and_ their allotment out to the worldly _existence_, the superiority of the righteous man as compared with other creatures, and, among mankind, _of_ him who is relying on the provisions of the law and _its_ unchangeableness from goodness, _and_ who is a teacher and provider of teaching _as to_ the pre-eminent existence of the good religion of the sacred beings.
 
@@ -98,46 +98,46 @@ _they_ considered _it_ the shoulder _of_ [^1] Arekdvîksûr [^2], _and his_ ches
 
 [^6]: (226:6) Assuming that vagânŏ stands for vag<i>d</i>ânŏ, which word occurs in § 4, according to K.
 
-[^1]: (227:1) B omits ‘the shoulder _of_.’
+[^7]: (227:1) B omits ‘the shoulder _of_.’
 
-[^2]: (227:2) Av. Aredvî sûra of Yt. V, a title of Anâhita, the female angel of the waters.
+[^8]: (227:2) Av. Aredvî sûra of Yt. V, a title of Anâhita, the female angel of the waters.
 
-[^3]: (227:3) See Bk. VIII, Chap. IX, 3.
+[^9]: (227:3) See Bk. VIII, Chap. IX, 3.
 
-[^4]: (227:4) Pahl. aûrûks<i>p</i>ar = Av. uruthware.
+[^10]: (227:4) Pahl. aûrûks<i>p</i>ar = Av. uruthware.
 
-[^5]: (227:5) Av. Rita, who is associated with the archangel Spe<i>ñ</i>ta-Ârmaiti in Yt. II, 3, 8; Sîr. I, II, 5, and with Ashi Vanguhi in Yt. XXIV, 8.
+[^11]: (227:5) Av. Rita, who is associated with the archangel Spe<i>ñ</i>ta-Ârmaiti in Yt. II, 3, 8; Sîr. I, II, 5, and with Ashi Vanguhi in Yt. XXIV, 8.
 
-[^6]: (227:6) Av. kavaêm <i>h</i><i>v</i>arenô (see Chap. XXII, 7).
+[^12]: (227:6) Av. kavaêm <i>h</i><i>v</i>arenô (see Chap. XXII, 7).
 
-[^7]: (227:7) B has ‘whenever his birth occurred.’
+[^13]: (227:7) B has ‘whenever his birth occurred.’
 
-[^8]: (227:8) This, with the first clause of the response, is the Pahlavi version of the concluding formula of Yas. XXVI, 11, without the extra Pahlavi glosses.
+[^14]: (227:8) This, with the first clause of the response, is the Pahlavi version of the concluding formula of Yas. XXVI, 11, without the extra Pahlavi glosses.
 
-[^9]: (227:9) See Bk. VIII, Chaps. XI, 5-4, XIII, 15.
+[^15]: (227:9) See Bk. VIII, Chaps. XI, 5-4, XIII, 15.
 
-[^1]: (228:1) This is the Pahlavi version of Yas. XXXIV, 13 b, without the glosses.
+[^16]: (228:1) This is the Pahlavi version of Yas. XXXIV, 13 b, without the glosses.
 
-[^2]: (228:2) This is the Pahlavi version of Yas. XXXIII, 1 a, b, without the glosses and incomplete.
+[^17]: (228:2) This is the Pahlavi version of Yas. XXXIII, 1 a, b, without the glosses and incomplete.
 
-[^1]: (229:1) This is the Pahlavi version of part of Yas. XII, 7, 8 (XIII, 25 Sp.) without the glosses.
+[^18]: (229:1) This is the Pahlavi version of part of Yas. XII, 7, 8 (XIII, 25 Sp.) without the glosses.
 
-[^2]: (229:2) B has ‘hope for’ (nyôsh).
+[^19]: (229:2) B has ‘hope for’ (nyôsh).
 
-[^3]: (229:3) Assuming that nizôrinî<i>d</i>anŏ (K) stands for nizârînî<i>d</i>anŏ; B has zôrînî<i>d</i>anŏ, which is synonymous with the previous nîrûkînî<i>d</i>anŏ, ‘strengthening.’
+[^20]: (229:3) Assuming that nizôrinî<i>d</i>anŏ (K) stands for nizârînî<i>d</i>anŏ; B has zôrînî<i>d</i>anŏ, which is synonymous with the previous nîrûkînî<i>d</i>anŏ, ‘strengthening.’
 
-[^1]: (230:1) Or it may be ‘in his own particular soul (nisman).’
+[^21]: (230:1) Or it may be ‘in his own particular soul (nisman).’
 
-[^2]: (230:2) Pahl. rêshî<i>d</i>ârîh, which B omits.
+[^22]: (230:2) Pahl. rêshî<i>d</i>ârîh, which B omits.
 
-[^3]: (230:3) This term, gûrg-ya<i>z</i>akŏ (= Av. vehrkayâza), does not occur in the extant Avesta.
+[^23]: (230:3) This term, gûrg-ya<i>z</i>akŏ (= Av. vehrkayâza), does not occur in the extant Avesta.
 
-[^4]: (230:4) See § 1.
+[^24]: (230:4) See § 1.
 
-[^5]: (230:5) Av. Parsha<i>d</i>\-g<i>a</i>u of Yt. XIII, 96 (compare Piz. Par<i>s</i>adgâ of Bd. XXIX, 5). This name can also be read Fradâ<i>d</i>ayânŏ and be compared with Av. Fradhidaya of Yt. XIII, 97.
+[^25]: (230:5) Av. Parsha<i>d</i>\-g<i>a</i>u of Yt. XIII, 96 (compare Piz. Par<i>s</i>adgâ of Bd. XXIX, 5). This name can also be read Fradâ<i>d</i>ayânŏ and be compared with Av. Fradhidaya of Yt. XIII, 97.
 
-[^6]: (230:6) Av. Saêna of Yt. XIII, 97, who is said to have ‘first set forth upon this earth with a hundred disciples.’ Further details about him are given in Chap. XXXIII, 5. In the third and seventh books of the Dinka<i>r</i><i>d</i> his name is written <i>S</i>ênôv (for <i>S</i>ênôk or <i>S</i>ênôê) which has been read Dâyûn by Peshotan (Dk. pp. 308-314 of English translation), as pointed out by Darmesteter in his _Textes Pehlvis relatifs au Judaisme_, p. 3, n. 2. In Dk. VII he is said to have been a high-priest who was born in the 100th year of the religion, and died in its 200th year.
+[^26]: (230:6) Av. Saêna of Yt. XIII, 97, who is said to have ‘first set forth upon this earth with a hundred disciples.’ Further details about him are given in Chap. XXXIII, 5. In the third and seventh books of the Dinka<i>r</i><i>d</i> his name is written <i>S</i>ênôv (for <i>S</i>ênôk or <i>S</i>ênôê) which has been read Dâyûn by Peshotan (Dk. pp. 308-314 of English translation), as pointed out by Darmesteter in his _Textes Pehlvis relatifs au Judaisme_, p. 3, n. 2. In Dk. VII he is said to have been a high-priest who was born in the 100th year of the religion, and died in its 200th year.
 
-[^7]: (230:7) See Bk. VIII, Chap. XXXVIII, 68.
+[^27]: (230:7) See Bk. VIII, Chap. XXXVIII, 68.
 
-[^1]: (231:1) See Bk. VIII, Chap. I, 7.
+[^28]: (231:1) See Bk. VIII, Chap. I, 7.

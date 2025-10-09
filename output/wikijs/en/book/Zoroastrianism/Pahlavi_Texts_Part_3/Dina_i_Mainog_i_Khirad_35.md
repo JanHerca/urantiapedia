@@ -38,7 +38,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: 'These are the people it is necessary to consider as rich:—(5) one is he who is perfect in wisdom; (6) the second, whose body is healthy, and he lives fearlessly; (7) the third, who is content with that which has come; (8) the fourth, he whose destiny is a helper in virtue; (9) the fifth, who is well-famed in the eyes of the sacred beings, and _by_ the tongues of the good; (10) the sixth, whose trust is on this one, pure, good religion of the Ma<i>z</i><i>d</i>a-worshippers; (11) _and_ the seventh, whose wealth is from honesty.
 
-12\. ‘And these are the people to be considered as poor:—(13) one is he _with_ whom there is no wisdom; (14) the second, whose body is not healthy; (15) the third, who lives in his fear, terror [^2], and falsehood; (16) the fourth, who is not ruling in his <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> own body; (17) the fifth, whose destiny is no helper; (18) the sixth, who is infamous in the eyes of the sacred beings, and _on_ the tongues of the good; (19) _and_ the seventh, who is old, _and_ no child and kindred exist.’
+12\. ‘And these are the people to be considered as poor:—(13) one is he _with_ whom there is no wisdom; (14) the second, whose body is not healthy; (15) the third, who lives in his fear, terror [^1], and falsehood; (16) the fourth, who is not ruling in his <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> own body; (17) the fifth, whose destiny is no helper; (18) the sixth, who is infamous in the eyes of the sacred beings, and _on_ the tongues of the good; (19) _and_ the seventh, who is old, _and_ no child and kindred exist.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,4 +66,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (70:2) L19 omits ‘terror.’
+[^1]: (70:2) L19 omits ‘terror.’

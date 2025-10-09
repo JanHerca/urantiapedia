@@ -40,11 +40,11 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. And in former times the custom (’hâdat) of the people would have been in this manner, that, if any one should have come to the door in the middle of the feast, that person whose Âfrîngân-precinct it might have been, _or_ whoever should have gone to the expense of that Âfrîngân, would have had words with that _intruding_ person [^5], and would have also spoken thus: ‘As thou hast brought my feast to harm, give me back whatever has been the cost [^6].’
 
-6\. And _in_ one place in revelation _it is_ declared <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> that from eating chatteringly itself is the sin, for [^1] every one who is chattering during the eating of bread is just like him who is smiting and harassing the angels of the spiritual _existences_.
+6\. And _in_ one place in revelation _it is_ declared <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> that from eating chatteringly itself is the sin, for [^7] every one who is chattering during the eating of bread is just like him who is smiting and harassing the angels of the spiritual _existences_.
 
-7\. Therefore, if _there_ be any one who is not able to consecrate a sacred cake [^2], it is necessary to eat bread with the _inward_ prayer of Hôrmazd, that is, the archangels. 8. And, if he does not altogether know _it_, he recites the Ithâ-â<i>d</i>\-yazamaidê [^3] and three Ashem-vohûs, and eats up the bread. 9. Afterwards he makes _his_ mouth clean, and, four Ashem-vohûs and two Yathâ-ahû-vairyôs _being_ spoken out [^4], _he is_ then to utter words.
+7\. Therefore, if _there_ be any one who is not able to consecrate a sacred cake [^8], it is necessary to eat bread with the _inward_ prayer of Hôrmazd, that is, the archangels. 8. And, if he does not altogether know _it_, he recites the Ithâ-â<i>d</i>\-yazamaidê [^9] and three Ashem-vohûs, and eats up the bread. 9. Afterwards he makes _his_ mouth clean, and, four Ashem-vohûs and two Yathâ-ahû-vairyôs _being_ spoken out [^10], _he is_ then to utter words.
 
-10\. For, every time that this custom (qâ’hidat) is carried _on_ in a place, through the first Ashem-vohû so much good work _has_ arisen that it has propitiated the sacred being, the good _and_ propitious; through the second Ashem-vohû so much good work _has_ arisen that it has reverenced and [^5] propitiated Srôsh, the righteous [^6]; through the third Ashem-vohû so much good work _has_ arisen that it has reverenced and [^5] propitiated Khurdâ<i>d</i> _and_ Ameredâ<i>d</i> [^7], the archangels; and through the fourth Ashem-vohû so much good work _has_ arisen that whatever the creator Hôrmazd has created becomes reverenced and propitiated. 11. And with each mouthful (luqmah) that is eaten, while the _inward_ prayer subsists, they <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> proclaim a blessing _for_ Khurdâ<i>d</i> and Ameredâ<i>d</i>, the archangels. 12. _But_, if _it be_ eaten without the _inward_ prayer, as demons are _in_ that place [^1], they say, ‘Thou mightest have eaten the poison of a serpent.’ 13. Therefore, take notice as to which is the better of these two.
+10\. For, every time that this custom (qâ’hidat) is carried _on_ in a place, through the first Ashem-vohû so much good work _has_ arisen that it has propitiated the sacred being, the good _and_ propitious; through the second Ashem-vohû so much good work _has_ arisen that it has reverenced and [^11] propitiated Srôsh, the righteous [^12]; through the third Ashem-vohû so much good work _has_ arisen that it has reverenced and [^11] propitiated Khurdâ<i>d</i> _and_ Ameredâ<i>d</i> [^13], the archangels; and through the fourth Ashem-vohû so much good work _has_ arisen that whatever the creator Hôrmazd has created becomes reverenced and propitiated. 11. And with each mouthful (luqmah) that is eaten, while the _inward_ prayer subsists, they <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> proclaim a blessing _for_ Khurdâ<i>d</i> and Ameredâ<i>d</i>, the archangels. 12. _But_, if _it be_ eaten without the _inward_ prayer, as demons are _in_ that place [^14], they say, ‘Thou mightest have eaten the poison of a serpent.’ 13. Therefore, take notice as to which is the better of these two.
 
 <figure class="table chapter-navigator">
   <table>
@@ -84,18 +84,18 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^6]: (283:6) B29 has only, ‘As it is my feast, give _it_ back.’ The interruption having destroyed the merit of the ceremony.
 
-[^1]: (284:1) B29 has ‘from eating chatteringly is so much sin that.’
+[^7]: (284:1) B29 has ‘from eating chatteringly is so much sin that.’
 
-[^2]: (284:2) See Mkh. XVI, 17 n.
+[^8]: (284:2) See Mkh. XVI, 17 n.
 
-[^3]: (284:3) See § 1 n.
+[^9]: (284:3) See § 1 n.
 
-[^4]: (284:4) These formulas begin the grace after eating, and, being uttered aloud, break the spell of the inward prayer now no longer necessary; after them the eaters are at liberty to speak.
+[^10]: (284:4) These formulas begin the grace after eating, and, being uttered aloud, break the spell of the inward prayer now no longer necessary; after them the eaters are at liberty to speak.
 
-[^5]: (284:5) B29 omits these two words.
+[^11]: (284:5) B29 omits these two words.
 
-[^6]: (284:6) See Mkh. II, 115 n.
+[^12]: (284:6) See Mkh. II, 115 n.
 
-[^7]: (284:7) See Ho<i>r</i>vada<i>d</i> and Ame<i>r</i>ôda<i>d</i> (Mkh. II, 34).
+[^13]: (284:7) See Ho<i>r</i>vada<i>d</i> and Ame<i>r</i>ôda<i>d</i> (Mkh. II, 34).
 
-[^1]: (285:1) See § 4.
+[^14]: (285:1) See § 4.

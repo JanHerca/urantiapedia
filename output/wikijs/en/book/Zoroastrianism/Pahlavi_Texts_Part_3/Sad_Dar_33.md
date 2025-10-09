@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER XXXIII.
 
-1\. The thirty-third subject is this, that, when _there_ is a place and any risk _or_ fear exists that a corpse [^2] is concealed beneath the ground, _one is_ to make _it_ apparent _and_ visible [^3], because it is a great good work.
+1\. The thirty-third subject is this, that, when _there_ is a place and any risk _or_ fear exists that a corpse [^1] is concealed beneath the ground, _one is_ to make _it_ apparent _and_ visible [^2], because it is a great good work.
 
-2\. For it is declared in the good religion, that, _when_ they conceal a corpse beneath the ground, Spendârma<i>d</i> [^4], the archangel, shudders; it is just as severe as a serpent _or_ scorpion would be to any one in private sleep [^5], and [is also](errata_htm.html) just like that to the ground. 3. When thou makest a corpse <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> beneath the ground as _it were_ apparent, thou makest _the ground_ liberated from that affliction.
+2\. For it is declared in the good religion, that, _when_ they conceal a corpse beneath the ground, Spendârma<i>d</i> [^3], the archangel, shudders; it is just as severe as a serpent _or_ scorpion would be to any one in private sleep [^4], and [is also](errata_htm.html) just like that to the ground. 3. When thou makest a corpse <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> beneath the ground as _it were_ apparent, thou makest _the ground_ liberated from that affliction.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,10 +64,10 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (294:2) Or ‘dead matter.’
+[^1]: (294:2) Or ‘dead matter.’
 
-[^3]: (294:3) B29 has ‘it is necessary to make _it_ apparent.’
+[^2]: (294:3) B29 has ‘it is necessary to make _it_ apparent.’
 
-[^4]: (294:4) Av. spe<i>n</i>ta ârmaiti, ‘bountiful devotion,’ the female archangel who is supposed to have special charge of the earth (see Sls. XV, 20-24).
+[^3]: (294:4) Av. spe<i>n</i>ta ârmaiti, ‘bountiful devotion,’ the female archangel who is supposed to have special charge of the earth (see Sls. XV, 20-24).
 
-[^5]: (294:5) B29 has ‘in a sleeping garment.’
+[^4]: (294:5) B29 has ‘in a sleeping garment.’

@@ -64,4 +64,4 @@ Regarding the sacredness of these Pahlavi translations, in the eyes of the Parsi
 
 ## Footnotes
 
-[x:1](.) See Haug's Essays, on the Sacred Language, Writings, and Religion of the Parsis, second edition, London, 1878; pp. 121, 122.
+[^1]: (x:1) See Haug's Essays, on the Sacred Language, Writings, and Religion of the Parsis, second edition, London, 1878; pp. 121, 122.

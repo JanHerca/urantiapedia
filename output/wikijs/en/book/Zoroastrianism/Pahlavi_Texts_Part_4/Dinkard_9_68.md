@@ -36,7 +36,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 _Bakŏ Nask_.
 
-1\. The beginning of the twenty-second fargar<i>d</i>, the Airyaman [^1], is the last question (fra<i>s</i>nŏ) beyond the five Gâthas; it is taught for the dominion of Aûha<i>r</i>ma<i>z</i><i>d</i> only by him—that is, it is making him ruler of himself—who shall do that which is declared by the passage:—Yâ ere<i>z</i>e<i>g</i>yôi dâhî <span id="p384"><sup><small>[ p. 384 ]</small></sup></span> drigaovê vahyô [^1]: who gives delights (vâyagânŏ) to him who is a right-living poor _man_ [^2]—preservation from the destroyer, _and_ the consummation of every happiness.
+1\. The beginning of the twenty-second fargar<i>d</i>, the Airyaman [^1], is the last question (fra<i>s</i>nŏ) beyond the five Gâthas; it is taught for the dominion of Aûha<i>r</i>ma<i>z</i><i>d</i> only by him—that is, it is making him ruler of himself—who shall do that which is declared by the passage:—Yâ ere<i>z</i>e<i>g</i>yôi dâhî <span id="p384"><sup><small>[ p. 384 ]</small></sup></span> drigaovê vahyô [^2]: who gives delights (vâyagânŏ) to him who is a right-living poor _man_ [^3]—preservation from the destroyer, _and_ the consummation of every happiness.
 
 2\. It is perfect excellence _that is_ righteousness.
 
@@ -68,6 +68,6 @@ _Bakŏ Nask_.
 
 [^1]: (383:1) See Chap. XXIII, 1 n; it is here written aîremanŏ in Pahlavi.
 
-[^1]: (384:1) See Yas. LIII, 9 d.
+[^2]: (384:1) See Yas. LIII, 9 d.
 
-[^2]: (384:2) See Pahl. Yas. LII, 9 d, and Chaps. XLV, 10, XLVII, 17.
+[^3]: (384:2) See Pahl. Yas. LII, 9 d, and Chaps. XLV, 10, XLVII, 17.

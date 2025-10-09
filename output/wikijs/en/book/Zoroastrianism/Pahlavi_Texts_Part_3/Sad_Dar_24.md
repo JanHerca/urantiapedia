@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER XXIV.
 
-1\. The twenty-fourth subject is this, that when an infant is born from _its_ mother it is necessary that they give _it_ the consecrated Hôm-juice [^2], on this account, that understanding (’haql), wisdom, and <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> knowledge _may_ more abundantly get to it, and the want (ablat) of them _may_ come more scantily upon _it_ [^1].
+1\. The twenty-fourth subject is this, that when an infant is born from _its_ mother it is necessary that they give _it_ the consecrated Hôm-juice [^1], on this account, that understanding (’haql), wisdom, and <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> knowledge _may_ more abundantly get to it, and the want (ablat) of them _may_ come more scantily upon _it_ [^2].
 
-2\. If, at that time, they do not perform the consecration, they _should_ take forth a little Hôm for it [^2], and recite [^3] a Yathâ-ahû-vairyô [^4], and put a trifle of water into _it_, and make Hôm-juice of that, and give _it_ to the infant, and afterwards [^5] milk.
+2\. If, at that time, they do not perform the consecration, they _should_ take forth a little Hôm for it [^3], and recite [^4] a Yathâ-ahû-vairyô [^5], and put a trifle of water into _it_, and make Hôm-juice of that, and give _it_ to the infant, and afterwards [^6] milk.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,14 +64,14 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^2]: (286:2) See Mkh. LVII, 28 n, Sls. X, 16.
+[^1]: (286:2) See Mkh. LVII, 28 n, Sls. X, 16.
 
-[^1]: (287:1) B29 omits these eleven words.
+[^2]: (287:1) B29 omits these eleven words.
 
-[^2]: (287:2) B29 adds ‘in the Hôm-mortar.’
+[^3]: (287:2) B29 adds ‘in the Hôm-mortar.’
 
-[^3]: (287:3) B29 adds ‘and utter.’
+[^4]: (287:3) B29 adds ‘and utter.’
 
-[^4]: (287:4) See Mkh. XXVII, 70 n.
+[^5]: (287:4) See Mkh. XXVII, 70 n.
 
-[^5]: (287:5) Lp, B29 insert ‘_they are_ to give.’
+[^6]: (287:5) Lp, B29 insert ‘_they are_ to give.’

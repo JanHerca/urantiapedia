@@ -32,7 +32,7 @@ dateCreated: 2025-10-7T9:56:46Z
   </table>
 </figure>
 
-## SELECTIONS OF ZÂ<i>D</i>\-SPARAM [^1]. CHAPTER XVIII.
+## SELECTIONS OF ZÂ<i>D</i>\-SPARAM. CHAPTER XVIII.
 
 1\. About his diverse want of participation (gvî<i>d</i> akhvê<i>s</i>îh) with _his_ parents this also is declared, that the demons, at an assembly of wizards, produced an outcry _for_ a conference (ham-vâ<i>k</i>ô lâyi<i>s</i>nŏ) thus: ‘That son of Pôrûshaspô is senseless and foolish _and_ secretly corrupted; no one, man _or_ woman, _will_ consider _or_ accept _him_ as exalted.’
 

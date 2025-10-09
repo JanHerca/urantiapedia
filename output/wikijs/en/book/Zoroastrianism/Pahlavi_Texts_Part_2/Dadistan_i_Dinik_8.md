@@ -40,7 +40,7 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4.. If he who _has_ passed _away_ did not order that good work, and did not even bequeath _it_, but was consenting to it by design, that which shall be done in _his_ life_time_ then reaches out in the three _nights_ (satûîh) for the aggrandizement of his position; _but_ that which shall be done after _his_ passing _away_ is not in the account of the three _nights_ and the balance, but reaches out, at the time the good work is proceeded with, for the enjoyment of the soul.
 
-5\. And if he who _has_ passed _away_ ordered that <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> good work in his own life_time_, or bequeathed it, or was the originator and cause of the soul's employment, although it is proceeded with after _his_ passing away, it then reaches out to him for the happiness of his soul, since the origin of the thanksgiving (sipâs) [^1], and the orderer and ownership of the good work are certain.
+5\. And if he who _has_ passed _away_ ordered that <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> good work in his own life_time_, or bequeathed it, or was the originator and cause of the soul's employment, although it is proceeded with after _his_ passing away, it then reaches out to him for the happiness of his soul, since the origin of the thanksgiving (sipâs) [^3], and the orderer and ownership of the good work are certain.
 
 6\. Any good work whatever which is proceeded with is clearly a like good work as regards those who account for _it as_ with him who is the doer _of it_; also in the account of his soul the good work is as much with him who did _it_, but the soul of him by whom the good work is done by his own hand, is handsomer and stronger than of him by whom it is ordered. 7. And its similitude is such as when a man's handsome and seemly suit of clothes is his own, and he wears _it_ on _his_ body _and_ is handsomer, more splendid, and more seemly _than_ another man _who_ wears a suit of clothes, _in_ like manner, _which_ is his own by theft.
 
@@ -74,4 +74,4 @@ dateCreated: 2025-10-5T18:50:3Z
 
 [^2]: (27:2) Where the soul's good works are balanced against its sins, to determine its fate till the resurrection.
 
-[^1]: (28:1) The good works mentioned in this chapter would chiefly consist of prayers and ceremonies for which priests have to be remunerated, and gifts to holy men and the poor; such actions as are most highly appreciated by priests.
+[^3]: (28:1) The good works mentioned in this chapter would chiefly consist of prayers and ceremonies for which priests have to be remunerated, and gifts to holy men and the poor; such actions as are most highly appreciated by priests.

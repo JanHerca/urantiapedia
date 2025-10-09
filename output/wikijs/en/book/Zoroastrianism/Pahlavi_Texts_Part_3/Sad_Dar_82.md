@@ -34,9 +34,9 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXXII.
 
-1\. The eighty-second subject is this, that, when thou risest up from the bed-clothes, it is necessary to tie the _sacred thread-_girdle [^3] again _at_ that same place, and it is not desirable to put _forth_ a step without the girdle.
+1\. The eighty-second subject is this, that, when thou risest up from the bed-clothes, it is necessary to tie the _sacred thread-_girdle [^1] again _at_ that same place, and it is not desirable to put _forth_ a step without the girdle.
 
-2\. For it is declared in revelation, that every single step which _one_ puts forth without the _sacred thread-_girdle is a Farmân sin [^4], _and_ through four steps it becomes a Tanâvar sin which would be a weight of a thousand _and_ two hundred dirhams [^5]. 3. Therefore, it is necessary to keep watch _over_ oneself, as regards this sin, and to tie on the _sacred thread-_girdle.
+2\. For it is declared in revelation, that every single step which _one_ puts forth without the _sacred thread-_girdle is a Farmân sin [^2], _and_ through four steps it becomes a Tanâvar sin which would be a weight of a thousand _and_ two hundred dirhams [^3]. 3. Therefore, it is necessary to keep watch _over_ oneself, as regards this sin, and to tie on the _sacred thread-_girdle.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,8 +64,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^3]: (347:3) See Chaps. X, XLVI.
+[^1]: (347:3) See Chaps. X, XLVI.
 
-[^4]: (347:4) See Sls. I, 2, IV, 10, XI, 2.
+[^2]: (347:4) See Sls. I, 2, IV, 10, XI, 2.
 
-[^5]: (347:5) The dirham being probably about 63 grains (see Dd. LII, 1 n).
+[^3]: (347:5) The dirham being probably about 63 grains (see Dd. LII, 1 n).

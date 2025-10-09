@@ -36,7 +36,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 _Var<i>s</i>tmânsar Nask_.
 
-1\. The third fargar<i>d</i>, A she m-vohû [^2], is about <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> admonition as to the praising of righteousness, which is itself the production of true awe of Aûha<i>r</i>ma<i>z</i><i>d</i>, the perfection of existences, the better state of prayers [^1], and the greatest assemblage of righteousness, good breeding, humility (avŏpatagîh), awe of the spiritual _existence_, extreme joyfulness, and comfort and enlightenment of soul. 2. _Also_ the equipment (pa<i>d</i>mûkîh) of him who is practising as a high-priest is righteousness and the maintenance of the worship _and_ obeisance for the spirit of righteousness.
+1\. The third fargar<i>d</i>, A she m-vohû [^1], is about <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> admonition as to the praising of righteousness, which is itself the production of true awe of Aûha<i>r</i>ma<i>z</i><i>d</i>, the perfection of existences, the better state of prayers [^2], and the greatest assemblage of righteousness, good breeding, humility (avŏpatagîh), awe of the spiritual _existence_, extreme joyfulness, and comfort and enlightenment of soul. 2. _Also_ the equipment (pa<i>d</i>mûkîh) of him who is practising as a high-priest is righteousness and the maintenance of the worship _and_ obeisance for the spirit of righteousness.
 
 3\. Of righteousness perfect is the excellence.
 
@@ -67,6 +67,6 @@ _Var<i>s</i>tmânsar Nask_.
 
 ## Footnotes
 
-[^2]: (232:2) See Chap. III, 1 n.
+[^1]: (232:2) See Chap. III, 1 n.
 
-[^1]: (233:1) K omits ‘of prayers.’
+[^2]: (233:1) K omits ‘of prayers.’

@@ -36,11 +36,11 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The fifth subject is this, that it is necessary for all those of the good religion that they make a thorough effort, so that they celebrate the ritual and become Navazû<i>d</i> [^1].
 
-2\. For in our religion there is no good work more ample than this. 3. And it is declared in revelation, that, although much duty and good work be performed, it s not possible to attain to the supreme heaven (garô<i>d</i>mân) [^2], except _on_ that one occasion when the Navazû<i>d</i> _ceremony_ is performed, or they have celebrated a Gêtî-kharî<i>d</i> [^3]. 4. And _on_ any occasion (‘hâl), if they are not able to perform _it_ with their own hands, it is requisite to order _it; and_ then it is inevitably necessary that the celebration of [^4] the Gêtî-kharî<i>d</i> should be _in_ the same manner as they _would_ have performed _it_ with their own hands. <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> 5\. Man and woman are both [^1] equal in this good work; therefore [^2], it is not proper to neglect this duty, for it is the chief of all the good works of the religion. 6. Because it is declared in revelation, that on the day that they are performing the Navazû<i>d</i> _ceremony_, or are celebrating a Gêtî-kharî<i>d</i> on his account, three times the soul of that person arrives at heaven, and they show it a place therein, and offer it a profuse greeting (niTHâr) [^3].
+2\. For in our religion there is no good work more ample than this. 3. And it is declared in revelation, that, although much duty and good work be performed, it s not possible to attain to the supreme heaven (garô<i>d</i>mân) [^2], except _on_ that one occasion when the Navazû<i>d</i> _ceremony_ is performed, or they have celebrated a Gêtî-kharî<i>d</i> [^3]. 4. And _on_ any occasion (‘hâl), if they are not able to perform _it_ with their own hands, it is requisite to order _it; and_ then it is inevitably necessary that the celebration of [^4] the Gêtî-kharî<i>d</i> should be _in_ the same manner as they _would_ have performed _it_ with their own hands. <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> 5\. Man and woman are both [^5] equal in this good work; therefore [^6], it is not proper to neglect this duty, for it is the chief of all the good works of the religion. 6. Because it is declared in revelation, that on the day that they are performing the Navazû<i>d</i> _ceremony_, or are celebrating a Gêtî-kharî<i>d</i> on his account, three times the soul of that person arrives at heaven, and they show it a place therein, and offer it a profuse greeting (niTHâr) [^7].
 
-7\. The explanation (tafsîr) of the Gâhs [^4] is this, that a Gâh—that is, that his own place—becomes visible to him [^5] in heaven that day.
+7\. The explanation (tafsîr) of the Gâhs [^8] is this, that a Gâh—that is, that his own place—becomes visible to him [^9] in heaven that day.
 
-8\. And if _one_ does not perform a Navazû<i>d</i> _ceremony_, or does not order the celebration of a Gêtî-kharî<i>d</i>, it is the same as when a poor (_gh_arîb) man makes _for_ [^6] a town, and does not obtain a spot where he _may_ alight _in_ that place. 9. Although it is his own town he is in this trouble. 10. Therefore, it is not possible to bring to hand a place in heaven through any good work, except by the performance of the Navazû<i>d</i> ceremony, or _by_ ordering the celebration of a Gêtî-kharî<i>d</i>.
+8\. And if _one_ does not perform a Navazû<i>d</i> _ceremony_, or does not order the celebration of a Gêtî-kharî<i>d</i>, it is the same as when a poor (_gh_arîb) man makes _for_ [^10] a town, and does not obtain a spot where he _may_ alight _in_ that place. 9. Although it is his own town he is in this trouble. 10. Therefore, it is not possible to bring to hand a place in heaven through any good work, except by the performance of the Navazû<i>d</i> ceremony, or _by_ ordering the celebration of a Gêtî-kharî<i>d</i>.
 
 11\. And a Gêtî-kharî<i>d</i> is this, that heaven is purchased in the world, and one's own place brought to hand in heaven.
 
@@ -78,14 +78,14 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^4]: (262:4) Lp, B29 have ‘that they celebrate.’
 
-[^1]: (263:1) Lp, B29 omit ‘both.’
+[^5]: (263:1) Lp, B29 omit ‘both.’
 
-[^2]: (263:2) Lp omits ‘therefore,’ and B29 has ‘certainly.’
+[^6]: (263:2) Lp omits ‘therefore,’ and B29 has ‘certainly.’
 
-[^3]: (263:3) Lp, B29, J15 add ‘and, afterwards they bring the Gêtî,’ and Lp continues thus: ‘the meaning is adduced in Pâzand.’
+[^7]: (263:3) Lp, B29, J15 add ‘and, afterwards they bring the Gêtî,’ and Lp continues thus: ‘the meaning is adduced in Pâzand.’
 
-[^4]: (263:4) This explains ‘the heavenly Gâhs’ of Bd. XXX, 28. The Sad Darband-i Hush (as quoted in B29, fol. 458 b) says that it is stated in revelation that the day when one celebrates the Gêtî-kharî<i>d</i> of any one, the soul of that person seizes-upon the heavenly Gâhs three times in that one day, _and_ is conveyed to heaven and the supreme heaven.'
+[^8]: (263:4) This explains ‘the heavenly Gâhs’ of Bd. XXX, 28. The Sad Darband-i Hush (as quoted in B29, fol. 458 b) says that it is stated in revelation that the day when one celebrates the Gêtî-kharî<i>d</i> of any one, the soul of that person seizes-upon the heavenly Gâhs three times in that one day, _and_ is conveyed to heaven and the supreme heaven.'
 
-[^5]: (263:5) Lp, B29 have ‘is brought into sight.’
+[^9]: (263:5) Lp, B29 have ‘is brought into sight.’
 
-[^6]: (263:6) Lp, B29 have ‘arrives at.’
+[^10]: (263:6) Lp, B29 have ‘arrives at.’

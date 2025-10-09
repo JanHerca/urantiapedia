@@ -40,7 +40,7 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 5\. It is also about making the dog which drives the sheep (pasû<i>s</i>\-haûrvô) dumb. 6. About bruising the limbs and plucking the feathers of birds, such as the _case_ when _it is_ complete smiting, and such as that when _it is_ not complete smiting. 7. And unlawfully destroying as regards fish, such as when it would make their flesh uneatable. 8. An account as to noticeably and worryingly beating cattle, about decrees of whatever kinds as to each separate beating worryingly that is to be considered as noticeable beating, _and_ many decrees as to whatever is on the same subject. 9. About the retribution for making clothing of skins and woven _wool_ (ta<i>d</i>akŏ), and the sin of any one owing to kindling a fire therewith, _or_ roasting flesh which is stolen _or_ plundered.
 
-10\. About the good work _of_ all that is wise activity, and the reward of the happy place [^2]; the sin of every_thing_ that is ignorant activity, and the <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> bridge _penalty_ of the evil place [^1]; connected therewith, to make him who is righteous develope in wisdom, and to make him who is wicked diminish in ignorance, is the world.
+10\. About the good work _of_ all that is wise activity, and the reward of the happy place [^2]; the sin of every_thing_ that is ignorant activity, and the <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> bridge _penalty_ of the evil place [^3]; connected therewith, to make him who is righteous develope in wisdom, and to make him who is wicked diminish in ignorance, is the world.
 
 <figure class="table chapter-navigator">
   <table>
@@ -72,4 +72,4 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 [^2]: (85:2) Heaven.
 
-[^1]: (86:1) Falling into hell owing to the narrowness of the <i>K</i>înva<i>d</i> bridge to the other world, occasioned by an excess of sin over good works (see Dd. XXI, 5-7).
+[^3]: (86:1) Falling into hell owing to the narrowness of the <i>K</i>înva<i>d</i> bridge to the other world, occasioned by an excess of sin over good works (see Dd. XXI, 5-7).

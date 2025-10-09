@@ -36,9 +36,9 @@ dateCreated: 2025-10-7T9:56:37Z
 
 _Var<i>s</i>tmânsar Nask_.
 
-1\. The thirteenth fargar<i>d</i>, U<i>s</i>tavaiti [^4], is about the great reward of him who, through virtuous procedure, may occasion the benefit of a man [^5] _and of_ the religion of righteousness also. 2. This, too, that the maintenance of righteousness [^6] is through the practice _of it_.
+1\. The thirteenth fargar<i>d</i>, U<i>s</i>tavaiti [^1], is about the great reward of him who, through virtuous procedure, may occasion the benefit of a man [^2] _and of_ the religion of righteousness also. 2. This, too, that the maintenance of righteousness [^3] is through the practice _of it_.
 
-3\. About the tokens of a righteous man—that is, the evidence of him—and _his_ reverence for duty _and_ good works; also his imperceptible perversion (kastârîh)—that is, not a single sin is manifest <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> in him—and _he is_ an accomplisher _of_ the stipulations of Vohûman [^1], good thoughts, good words, and good deeds, and a comprisal of every goodness in the propitiation of the righteous. 4. About [^2] . . . . . . . . . . . . . . . . .
+3\. About the tokens of a righteous man—that is, the evidence of him—and _his_ reverence for duty _and_ good works; also his imperceptible perversion (kastârîh)—that is, not a single sin is manifest <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> in him—and _he is_ an accomplisher _of_ the stipulations of Vohûman [^4], good thoughts, good words, and good deeds, and a comprisal of every goodness in the propitiation of the righteous. 4. About [^5] . . . . . . . . . . . . . . . . .
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,12 +66,12 @@ _Var<i>s</i>tmânsar Nask_.
 
 ## Footnotes
 
-[^4]: (269:4) See Chap. XIII, 1 n.
+[^1]: (269:4) See Chap. XIII, 1 n.
 
-[^5]: (269:5) See Pahl. Yas. XLII, 1 a.
+[^2]: (269:5) See Pahl. Yas. XLII, 1 a.
 
-[^6]: (269:6) Ibid. 1 d.
+[^3]: (269:6) Ibid. 1 d.
 
-[^1]: (270:1) See Pahl. Yas. XLII, 2 d.
+[^4]: (270:1) See Pahl. Yas. XLII, 2 d.
 
-[^2]: (270:2) Another folio of B is here lost, containing the end of this chapter and the beginning of the next. The passage missing was equivalent to about 100 lines of this translation, of which perhaps three-fourths belonged to this chapter and one-fourth to the next.
+[^5]: (270:2) Another folio of B is here lost, containing the end of this chapter and the beginning of the next. The passage missing was equivalent to about 100 lines of this translation, of which perhaps three-fourths belonged to this chapter and one-fourth to the next.

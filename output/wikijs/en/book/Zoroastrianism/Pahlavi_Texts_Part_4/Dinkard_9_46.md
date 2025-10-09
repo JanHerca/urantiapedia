@@ -36,7 +36,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 _Var<i>s</i>tmânsar Nask_.
 
-1\. The twenty-third fargar<i>d</i>, Airyaman [^3], is the Airman supplication [^4]:—‘That is the greatest, I tell thee, O Spîtâmân! of the pure sayings of every kind, in so much Avesta lore, this is the best, because it is given forth by him who is a very eminent producer (madam-kârtar) of sayings of every kind. 2. Which <i>A</i>îrmân supplication they should recite who are beneficial [^5], _and_ the benefiter [^5], through the recital of it aloud, O Spîtâmân! becomes predominant. 3. The evil spirit, who is heretical (dû<i>s</i>dênŏ), O Zaratû<i>s</i>t! with his own creatures, O Spîtâmân! becomes buried _in_ the earth; the evil spirit is among _those_ buried _in_ the earth—who are the demons—where their bodily form (kâlpu<i>d</i>ŏ) is completely <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> shattered. 4. And up the dead are arrayed by it; through its assistance they give life back unto the body, and the embodied life they _then_ possess is _such_ that they do not die.’
+1\. The twenty-third fargar<i>d</i>, Airyaman [^1], is the Airman supplication [^2]:—‘That is the greatest, I tell thee, O Spîtâmân! of the pure sayings of every kind, in so much Avesta lore, this is the best, because it is given forth by him who is a very eminent producer (madam-kârtar) of sayings of every kind. 2. Which <i>A</i>îrmân supplication they should recite who are beneficial [^3], _and_ the benefiter [^4], through the recital of it aloud, O Spîtâmân! becomes predominant. 3. The evil spirit, who is heretical (dû<i>s</i>dênŏ), O Zaratû<i>s</i>t! with his own creatures, O Spîtâmân! becomes buried _in_ the earth; the evil spirit is among _those_ buried _in_ the earth—who are the demons—where their bodily form (kâlpu<i>d</i>ŏ) is completely <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> shattered. 4. And up the dead are arrayed by it; through its assistance they give life back unto the body, and the embodied life they _then_ possess is _such_ that they do not die.’
 
 5\. It is perfect _is_ the excellence of righteousness; it is perfect excellence _that is_ righteousness.
 
@@ -66,8 +66,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 ## Footnotes
 
-[^3]: (302:3) See Chap. XXIII, 1 n; it is here written Aîremanŏ in Pahlavi.
+[^1]: (302:3) See Chap. XXIII, 1 n; it is here written Aîremanŏ in Pahlavi.
 
-[^4]: (302:4) See Pahl. Yas. LIII, 1 and Bk. VIII, Chap. XLIV, 8r.
+[^2]: (302:4) See Pahl. Yas. LIII, 1 and Bk. VIII, Chap. XLIV, 8r.
 
-[^5]: (302:5) Pahl. sû<i>d</i>\-hômônd=Av. saoshyãs, referring to the future restorer of religion to the world, just before the renovation of the universe.
+[^3]: (302:5) Pahl. sû<i>d</i>\-hômônd=Av. saoshyãs, referring to the future restorer of religion to the world, just before the renovation of the universe.

@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sage asked the spirit of wisdom (2) thus: ‘Is living in fear _and_ falsehood worse, or death?’
 
-3\. The spirit of wisdom answered (4) thus: 'To live in fear and falsehood is worse than death. 5. Because every one's life is necessary for the enjoyment _and_ pleasure of the worldly _existence_, (6) and when the enjoyment _and_ pleasure of the worldly _existence_ are not his, and fear and even falsehood [^3] are with him, it is called worse than death.'
+3\. The spirit of wisdom answered (4) thus: 'To live in fear and falsehood is worse than death. 5. Because every one's life is necessary for the enjoyment _and_ pleasure of the worldly _existence_, (6) and when the enjoyment _and_ pleasure of the worldly _existence_ are not his, and fear and even falsehood [^1] are with him, it is called worse than death.'
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,4 +64,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^3]: (50:3) These being considered as fiends; the latter, mîtôkht, being the first demon produced by the evil spirit (see Bd. I, 24, XXVIII, 14, 16).
+[^1]: (50:3) These being considered as fiends; the latter, mîtôkht, being the first demon produced by the evil spirit (see Bd. I, 24, XXVIII, 14, 16).

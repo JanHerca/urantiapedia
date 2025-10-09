@@ -36,7 +36,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sage asked the spirit of wisdom (2) thus: ‘Is it possible to contend with destiny through wisdom _and_ knowledge, or not?’
 
-3\. The spirit of wisdom answered (4) thus: ‘Even with the might and powerfulness of wisdom _and_ knowledge, even then it is not possible to contend with destiny. 5. Because, when predestination as to virtue, or as to the reverse [^3], comes forth, the wise becomes wanting (nîyâ<i>z</i>ân) in duty, and the astute in evil _becomes_ intelligent; (6) the faint-hearted _becomes_ braver, and the braver _becomes_ faint-hearted; <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> (7) the diligent _becomes_ lazy, and the lazy acts diligently [^1]. (8) Just as is predestined as to the matter, the cause enters into it, (9) _and_ thrusts out everything else.’
+3\. The spirit of wisdom answered (4) thus: ‘Even with the might and powerfulness of wisdom _and_ knowledge, even then it is not possible to contend with destiny. 5. Because, when predestination as to virtue, or as to the reverse [^1], comes forth, the wise becomes wanting (nîyâ<i>z</i>ân) in duty, and the astute in evil _becomes_ intelligent; (6) the faint-hearted _becomes_ braver, and the braver _becomes_ faint-hearted; <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> (7) the diligent _becomes_ lazy, and the lazy acts diligently [^2]. (8) Just as is predestined as to the matter, the cause enters into it, (9) _and_ thrusts out everything else.’
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^3]: (54:3) L19 has ‘vileness.’
+[^1]: (54:3) L19 has ‘vileness.’
 
-[^1]: (55:1) L19 has ‘becomes diligent.’
+[^2]: (55:1) L19 has ‘becomes diligent.’

@@ -34,7 +34,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXIX.
 
-1\. The sixty-ninth subject is this, that it is not proper that sunshine _should_ fall on a fire, for, every time that sunshine falls upon a fire [^6], it is a [^7] sin. 2. If thou expose a fire to the sun it is a sin of three <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> stîrs [^1]; and, if thou set down anything on the top of the fire, it is necessary that it _should_ not have any hole—so that the light (nûr) and strength of the fire _might_ become less—so far as thou knowest.
+1\. The sixty-ninth subject is this, that it is not proper that sunshine _should_ fall on a fire, for, every time that sunshine falls upon a fire [^1], it is a [^2] sin. 2. If thou expose a fire to the sun it is a sin of three <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> stîrs [^3]; and, if thou set down anything on the top of the fire, it is necessary that it _should_ not have any hole—so that the light (nûr) and strength of the fire _might_ become less—so far as thou knowest.
 
 <figure class="table chapter-navigator">
   <table>
@@ -62,8 +62,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^6]: (334:6) B29 omits these eight words.
+[^1]: (334:6) B29 omits these eight words.
 
-[^7]: (334:7) B29 has ‘much.’
+[^2]: (334:7) B29 has ‘much.’
 
-[^1]: (335:1) The same as the twelve dirhams in Chap. LXVIII, 1, 2.
+[^3]: (335:1) The same as the twelve dirhams in Chap. LXVIII, 1, 2.

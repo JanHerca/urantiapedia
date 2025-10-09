@@ -32,13 +32,13 @@ dateCreated: 2025-10-7T9:56:46Z
   </table>
 </figure>
 
-## SELECTIONS OF ZÂ<i>D</i>\-SPARAM [^1]. CHAPTER XVII.
+## SELECTIONS OF ZÂ<i>D</i>\-SPARAM. CHAPTER XVII.
 
-1\. These were his tokens at birth:—One day, one of those five brothers of the Karaps saw Zaratû<i>s</i>t, and he looked a long while upwards, downwards, _and_ on all sides around [^2].
+1\. These were his tokens at birth:—One day, one of those five brothers of the Karaps saw Zaratû<i>s</i>t, and he looked a long while upwards, downwards, _and_ on all sides around [^1].
 
 2\. Pôrûshaspô enquired thus: ‘What _was_ there when thou lookedst upwards, what when _thou lookedst_ downwards, _and_ what when thou lookedst on all sides?’
 
-3\. And he replied thus, namely: ‘When I looked upwards, it _was_ for this reason, when I saw that our souls [^3] _that_ go up to the sky, _will_ go up to the best <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> _existence_ [^1], owing to the words of this soul. of mankind. 4. When I looked downwards, I saw that, owing to the action of this _one_, the demon and fiend, the wizard and witch become buried below the earth, _and_ fall paralyzed back to hell. 5. And when I looked on all sides, I saw that the words of this _one will_ extend through the whole earth; and when _they have_ become as the law of the seven regions, each person is kept clothed _with_ a robe (kapâh) of seven skins, in which the glory of the seven archangels _has_ arisen.’
+3\. And he replied thus, namely: ‘When I looked upwards, it _was_ for this reason, when I saw that our souls [^2] _that_ go up to the sky, _will_ go up to the best <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> _existence_ [^3], owing to the words of this soul. of mankind. 4. When I looked downwards, I saw that, owing to the action of this _one_, the demon and fiend, the wizard and witch become buried below the earth, _and_ fall paralyzed back to hell. 5. And when I looked on all sides, I saw that the words of this _one will_ extend through the whole earth; and when _they have_ become as the law of the seven regions, each person is kept clothed _with_ a robe (kapâh) of seven skins, in which the glory of the seven archangels _has_ arisen.’
 
 6\. And Brâ<i>d</i>\-rûkhsh the Tûr went forth; when he went to the right side (arakŏ), Zaratû<i>s</i>t hastened away to the left, and when he went to the left side, Zaratû<i>s</i>t hastened to the right, and he is thereby concealed from Brâ<i>d</i>\-rûkhsh the Tûr, _who_ has not met with him.
 
@@ -68,8 +68,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[^2]: (147:2) Compare Dk. VII, iii, 2 7-30.
+[^1]: (147:2) Compare Dk. VII, iii, 2 7-30.
 
-[^3]: (147:3) Assuming that the MS. Ladd, ‘glory, or destiny,’ has lost an initial n, with which it was originally nism<i>â</i> = Chald. נִשְׁמָא ‘the soul;’ as the copyists have not been aware of the existence of this Zvâri<i>s</i> equivalent for rûbân, ‘the soul,’ for some centuries, it has been altered into gad<i>â</i>, by the omission of its first letter, in nearly all but the very oldest existing MSS., such as Kao and M6 in Bd. XV, 3-5, and even there the medial m is really missing, though apparently existing in the final <i>â</i>; the irregularity of using s for sh is common in Pahlavi.
+[^2]: (147:3) Assuming that the MS. Ladd, ‘glory, or destiny,’ has lost an initial n, with which it was originally nism<i>â</i> = Chald. נִשְׁמָא ‘the soul;’ as the copyists have not been aware of the existence of this Zvâri<i>s</i> equivalent for rûbân, ‘the soul,’ for some centuries, it has been altered into gad<i>â</i>, by the omission of its first letter, in nearly all but the very oldest existing MSS., such as Kao and M6 in Bd. XV, 3-5, and even there the medial m is really missing, though apparently existing in the final <i>â</i>; the irregularity of using s for sh is common in Pahlavi.
 
-[^1]: (148:1) The ordinary heaven, see Dd. XX, 3.
+[^3]: (148:1) The ordinary heaven, see Dd. XX, 3.

@@ -32,7 +32,7 @@ dateCreated: 2025-10-7T9:56:46Z
   </table>
 </figure>
 
-## SELECTIONS OF ZÂ<i>D</i>\-SPARAM [^1]. CHAPTER XIX.
+## SELECTIONS OF ZÂ<i>D</i>\-SPARAM. CHAPTER XIX.
 
 1\. About his interfering talk (andarg-gôbi<i>s</i>nŏîh) with the iniquitous, this also is declared, that one <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> day Dûrêsrôbô [^1] the Karap, as _it were_ from the same five brethren, came out to the house of Pôrûshaspô; _and_ Pôrûshaspô placed a bowl (<i>g</i>amakŏ) of mare's milk before _him_, and spoke to him thus: ‘Consecrate _it_.’
 
@@ -42,7 +42,7 @@ dateCreated: 2025-10-7T9:56:46Z
 
 5\. And Dûrêsrôbô spoke unto Zaratû<i>s</i>t thus: ‘As _some_ of my portion _of_ daily _food was_ first thrown away by thee, it is I who _will_ bring _it_ on both thy lives, and _will_ utterly destroy thee.’ 6. Zaratû<i>s</i>t spoke interruptingly [^3] thus: ‘With complete mindfulness I _will_ look upon thee with both eyes, and _will_ utterly destroy thee.’
 
-7\. And, for a long time, they constantly looked, one at the other, with unshrinking gaze; _but_ the divine nature of Zaratû<i>s</i>t is victorious over the witchcraft of that _wizard, and_ Dûrêsrôbô is further disturbed; he also asked for _his_ horse _and_ spoke thus: ‘On account of this _boy, it_ is impossible for me to stay.’ <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> 8\. He sat upon the horse, _and_ when he had gone a little _way_, he fell off from the horse, through severe distress, and died; and the children of his children's children have died upon the same spot [^1].
+7\. And, for a long time, they constantly looked, one at the other, with unshrinking gaze; _but_ the divine nature of Zaratû<i>s</i>t is victorious over the witchcraft of that _wizard, and_ Dûrêsrôbô is further disturbed; he also asked for _his_ horse _and_ spoke thus: ‘On account of this _boy, it_ is impossible for me to stay.’ <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> 8\. He sat upon the horse, _and_ when he had gone a little _way_, he fell off from the horse, through severe distress, and died; and the children of his children's children have died upon the same spot [^4].
 
 <figure class="table chapter-navigator">
   <table>
@@ -76,4 +76,4 @@ dateCreated: 2025-10-7T9:56:46Z
 
 [^3]: (150:3) Or ‘inwardly’
 
-[^1]: (151:1) Probably meaning that he died childless.
+[^4]: (151:1) Probably meaning that he died childless.

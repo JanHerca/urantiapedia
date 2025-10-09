@@ -34,7 +34,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## SAD DAR. CHAPTER LXXIII.
 
-1\. The seventy-third subject is this, that, when a cow or a goat _has_ eaten dead matter [^4], in any place, nothing whatever of _its_ flesh, _or_ milk, _or_ hair, _should_ come into use for one year. 2. After that one year it is clean: and, if it be pregnant, its young one is likewise not clean _for_ one year.
+1\. The seventy-third subject is this, that, when a cow or a goat _has_ eaten dead matter [^1], in any place, nothing whatever of _its_ flesh, _or_ milk, _or_ hair, _should_ come into use for one year. 2. After that one year it is clean: and, if it be pregnant, its young one is likewise not clean _for_ one year.
 
 3\. And if a domestic fowl _has_ eaten dead matter, its flesh and eggs are, _in_ like manner, not clean _for_ one year.
 
@@ -64,4 +64,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^4]: (337:4) See Pahl. Vend. VII, 189-192, Sls. II, 109.
+[^1]: (337:4) See Pahl. Vend. VII, 189-192, Sls. II, 109.
