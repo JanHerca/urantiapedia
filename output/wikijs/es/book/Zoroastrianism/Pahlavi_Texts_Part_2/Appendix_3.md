@@ -1,0 +1,59 @@
+---
+title: "III. El significado de Khvêtûk-das o Khvêtûdâd"
+description: "Textos Pahlavi, Parte II (SBE 18) El Dâdistân-î Dînîk y las Epístolas de Mânûskîhar"
+published: true
+date: 2025-10-10T14:41:30Z
+tags: Zoroastrianism, book
+editor: markdown
+dateCreated: 2025-10-10T14:41:30Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">II. El Nîrang-i Kustî</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_4">
+          <span class="pr-2">IV. La ceremonia de Bareshnum</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">II. El Nîrang-i Kustî</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_4">
+          <span class="pr-2">IV. La ceremonia de Bareshnum</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
