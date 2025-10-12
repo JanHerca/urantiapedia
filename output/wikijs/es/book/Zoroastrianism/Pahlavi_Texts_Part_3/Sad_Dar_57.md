@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+<span id="p318"><sup><small>[ pág. 318 ]</small></sup></span>
 
+## TRISTE DAR. CAPÍTULO LVII.
+
+1\. El tema quincuagésimo séptimo es este: no es apropiado matar a un erizo; y, dondequiera que lo vean, es necesario recogerlo y llevarlo al desierto (sa'hrâ), para que entre en un agujero, lo cual siempre se considera una gran buena obra. 2. Porque, cuando un erizo está en su nido [^1], algunas hormigas mueren; también atrapa y se come a miles de serpientes y [^2] otras criaturas dañinas, y se alimenta de todas las criaturas nocivas. 3. Por lo tanto, debido a todo esto, estas palabras son oportunas.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (318:1) Lp, B29 tiene 'entra en un hormiguero'.
+
+[^2]: (318:2) B29 omite estas cuatro palabras.

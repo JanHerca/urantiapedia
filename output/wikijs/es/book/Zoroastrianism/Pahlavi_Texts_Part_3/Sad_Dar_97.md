@@ -32,6 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO XCVII.
+
+1\. El nonagésimo séptimo punto es que conviene que quienes profesan buena religión conversen, según su capacidad, en presencia de sacerdotes oficiantes, sumos sacerdotes, jefes espirituales y sacerdotes, y escuchen atentamente todo lo que digan. 2. Deben comprender sus declaraciones y, durante ellas, no deben responder ni preguntar (sûâl).
+
+3\. Porque en el comentario del Avesta se dice que, a todo aquel que introduce altercado ('hu<i>g</i><i>g</i>at) en cualquier declaración de los ancianos de la religión, 'se le rompe la lengua o sale de este mundo abortivamente (muba<i>t</i><i>t</i>alâ)'.
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +62,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (359:1) Lp, B29 inserte 'todos'.

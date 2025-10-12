@@ -32,6 +32,11 @@ dateCreated: 2025-10-10T14:41:30Z
   </table>
 </figure>
 
+## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO XI.
+
+1\. La décima pregunta es la que planteas así: ¿El crecimiento que aumenta llega a ser tan loable en la cuarta noche [^1] como la buena obra original [^2] en _su_ posesión, o llega a ser de otra manera?
+
+2\. La respuesta es ésta: es de otra manera, pues la buena obra original se opone al pecado, y la buena obra en crecimiento [^3] se opone al crecimiento del pecado.
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +62,11 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (30:2) Después de la muerte, cuando se han completado todas las ceremonias inmediatas por los muertos (ver Sls. XVII, nota 5).
+
+[^2]: (30:3) Literalmente, 'la buena obra del principio'. Que bûn ki<i>r</i>fakŏ no signifique aquí bûn-î ki<i>r</i>fakŏ, 'el origen o raíz de la buena obra', aparece en el cap. XII, 1, donde está escrito ki<i>r</i>fakŏ-î bûn.
+
+[^3]: (30:4) Literalmente, 'la buena obra del crecimiento'.

@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO XCII.
 
+1\. El nonagésimo segundo tema es este: es necesario mantener adecuadamente el fuego sagrado [^1] y alguien que trabaje con asiduidad (kandân) para proveerle [^2] de mantenimiento y compasión. 2. Y el suministro de leña es completamente de tal manera que este año queman la leña del año pasado [^3]. 3. A medianoche lo encienden y le ponen incienso de tal manera que el viento se lleva su aroma.
+
+4\. Los demonios y demonios huyen, porque la gloria del fuego sagrado nos permite crear una existencia viviente en medio de este pueblo. 5. Porque, si no existieran los demonios [^4], la gloria de los arcángeles y el día del fuego sagrado, no habría sido posible crear la existencia viviente ningún día. 6. Por lo tanto, es conveniente que proporcionen un cuidador del fuego para mantener la leña y el fuego, de modo que se pueda buscar su seguridad ('hâfiyat), y puedan encontrar un apoyo y protección aceptables.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,13 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (355:4) Literalmente, 'el fuego de Bahirâm'. Compárese con el cap. XXXIX.
+
+[^2]: (355:5) Lp, B29, J15 tienen 'para que alguien _pueda_ vigilarlo y proveer lo apropiado'.
+
+[^3]: (355:6) Para que esté completamente seco, ya que poner algo húmedo en el fuego sería considerado pecado (ver AV. X, 6-24).
+
+[^4]: (356:1) Es decir, la ausencia de demonios. B29 tiene 'si el esplendor'.

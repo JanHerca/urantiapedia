@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XX.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: 'Para los reyes, ¿qué es más ventajoso y cuál más perjudicial?'
+
+3\. El espíritu de sabiduría respondió (4) así: «Para los reyes, la conversación con los sabios y buenos es lo <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> más ventajoso, (5) y hablar y conversar con calumniadores y dobles traidores es lo más perjudicial para ellos».
 
 <figure class="table chapter-navigator">
   <table>

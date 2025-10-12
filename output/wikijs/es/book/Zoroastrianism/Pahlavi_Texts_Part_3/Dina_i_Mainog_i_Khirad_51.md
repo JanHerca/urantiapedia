@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO LI.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Por qué hay casos en que un hombre perezoso, ignorante y malo alcanza la eminencia y el gran bienestar, (3) y hay casos en que un hombre digno, sabio y bueno alcanza la miseria, la perplejidad y la indigencia?'
+
+4\. El espíritu de sabiduría respondió (5) así: «En cuanto a quien es perezoso, ignorante y malo, cuando su destino se convierte en una ayuda, su pereza se convierte en diligencia, su ignorancia en [^1] conocimiento, y su vileza en [^2] bondad. 6. Y en cuanto a quien es sabio, digno y bueno, cuando su destino se convierte en un oponente, su sabiduría se convierte en estupidez y necedad (alakîh), y su dignidad en ignorancia; (7) y su <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> conocimiento, habilidad y dignidad se vuelven manifiestamente aislados [^3].»
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (93:2) L19 tiene 'como' en las tres cláusulas.
+
+[^2]: (94:1) Véase Cap. XV, 6 n. Nêr. tiene en Sans. 'se manifiestan en la inmovilidad'.

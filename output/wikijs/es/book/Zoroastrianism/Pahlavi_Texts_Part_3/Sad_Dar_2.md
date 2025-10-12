@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO II.
 
+1. El segundo tema es que es necesario esforzarse (<i>g</i>ahd) para que no cometan ningún pecado. 2. Si se comete incluso un pecado insignificante, no es deseable asumir que esta pequeña cantidad no traerá daño en el futuro.
+
+3. Porque se dice en la revelación que si la cantidad de pecado es tal que el pecado pesa un filamento de las pestañas más que las buenas obras, esa persona llega al infierno. 4. Y si tal cantidad de buenas obras es excesiva, llega justo a la radiante localidad del cielo.
+
+5\. Por lo tanto, aunque un pecado sea insignificante, no es deseable cometerlo; y es necesario abstenerse, para que no lo cometan y puedan estar seguros de la religión.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (259:1) Comparar Mkh. II, 121.

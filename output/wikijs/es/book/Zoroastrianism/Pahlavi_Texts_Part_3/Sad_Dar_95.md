@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO XCV.
 
+1\. El tema nonagésimo quinto es que es necesario que sea conveniente para todos aquellos de buena religión realizar el saludo al sol [^1] tres veces al día.
+
+2. Si se realiza una vez, se considera una buena obra de un Tanâvar [^2]; si se realiza dos veces, se considera el doble; y si se realiza tres veces, se considera el triple. 3. Si no se realiza una repetición, se considera un pecado de treinta stîrs [^3]; si no se realizan dos repeticiones, se considera el doble; y si no se realizan tres repeticiones, se considera el triple.
+
+4\. Y lo mismo ocurre con los saludos a la luna y al fuego [^4]. 5. Por lo tanto, conviene, en la religión, que cada persona de buena religión ponga en práctica los saludos.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,13 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (358:1) Los Khûrshê<i>d</i> Nyâyi<i>s</i> (véanse Caps. VI, 2, LXVIII, 4).
+
+[^2]: (358:2) Es decir, suficiente para contrarrestar un pecado de Tanâvar o Tanâpûhar (ver Sls. I, 2).
+
+[^3]: (358:3) Equivalente a un pecado de Aredû<i>s</i>, o golpe con un arma (ver Sls. I, 1, 2).
+
+[^4]: (358:4) Los Mâh y Âtash Nyâyi<i>s</i>. B29 también interpola 'los Mihir' Nyâyi<i>s</i>.

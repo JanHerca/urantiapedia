@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:30Z
   </table>
 </figure>
 
+## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO LVII.
 
+1\. En cuanto a la quincuagésima sexta pregunta y respuesta, lo que usted pregunta es así: ¿Quién es apto para la adopción y quién no lo es?
+
+2\. La respuesta es esta: un hombre adulto de buena religión, inteligente, responsable de una familia numerosa [^1], que espera descendencia y no tiene pecados dignos de muerte, es apto para la adopción; incluso si ha aceptado una o varias adopciones, sigue siendo apto para otra. 3. Y una mujer adulta, o incluso una niña, es apta para una adopción, pero al ser adoptada en una familia, no lo es para otra. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 4\. Una mujer que requiere esposo —aunque sea una fiel creyente—, o una extranjera, o una infiel, o alguien que tenga pecados dignos de muerte, no es apta para la adopción; Así también, los que son adoradores de demonios, la que es concubina (shûsar nê<i>s</i>man) _o_ cortesana, _y_ la que está menstruando no son aptos.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (190:4) M14 tiene malkâânŏ malkâ bôndak, 'un sirviente del rey de reyes'; pero véase Cap. LVI, 2.

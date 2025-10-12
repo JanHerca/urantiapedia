@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO XX.
 
+1\. El vigésimo tema es este: que a quienes profesan buena religión les corresponde dar continuamente algo a quienes son dignos de comer, debido a lo que dice la revelación [^1]: «Cuando das algo a alguien para que coma, todo deber y buena obra que realice en ese estado de saciedad se convierte en la de quien le ha dado ese pan o alimento, al igual que las que ha realizado con sus propias manos». 2. Y si comete un pecado, quien le haya dado alimento es inocente. 3. Pero es necesario que sea de buena religión y digno; solo deben dar algo a alguien de otra religión en caso de extrema necesidad (ʓ̣arûrat), para que no se convierta en pecado.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (282:3) En el Nihâ<i>d</i>ûm Nask (ver Sls. X, 23, XII, 16).

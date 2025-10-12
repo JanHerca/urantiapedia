@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XIX.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Es peor vivir con miedo y falsedad, o la muerte?'
+
+3\. El espíritu de sabiduría respondió (4) así: «Vivir con miedo y falsedad es peor que la muerte. 5. Porque la vida de cada uno es necesaria para el disfrute y el placer de la existencia mundana, (6) y cuando el disfrute y el placer de la existencia mundana no le pertenecen, y el miedo e incluso la falsedad [^1] le acompañan, se dice que es peor que la muerte».
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (50:3) Estos son considerados como demonios; el último, mîtôkht, es el primer demonio producido por el espíritu maligno (véase Bd. I, 24, XXVIII, 14, 16).

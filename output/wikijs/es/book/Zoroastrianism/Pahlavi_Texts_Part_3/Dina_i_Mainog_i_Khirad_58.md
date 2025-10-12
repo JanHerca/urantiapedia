@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+<span id="p105"><sup><small>[ pág. 105 ]</small></sup></span>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO LVIII.
+
+1\. El sabio preguntó al espíritu de sabiduría (2) así: ¿Por qué _se_ convierte la ignorancia y la necedad de un rey ignorante en conocimiento e inteligencia, a causa de la soberanía que le corresponde; (3) y, _en cuanto a_ un hombre pobre, que es sabio [^1], _se_ convierte el conocimiento y la sagacidad, que son suyos, en necedad e inutilidad, a causa de la pobreza?
+
+4\. El espíritu de sabiduría respondió (5) así: «A causa del engaño y la violencia del demonio [^2] de la avaricia (6) los hombres hablan más sobre la hombría de quien posee más riqueza y poder, y relatan sus hechos y acciones con mayor detalle; (7) pero, a los ojos de los ángeles y arcángeles, un hombre pobre, inocente y sabio, es mejor y más valioso que un rey o un hombre opulento [^3] que es ignorante».
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,11 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (105:1) L19 añade 'e inocente'.
+
+[^2]: (105:2) L19 tiene 'demonio'.
+
+[^3]: (105:3) L19 tiene 'que un rey opulento'.

@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:43Z
   </table>
 </figure>
 
+## DÎNKA<i>R</i><i>D</i>.—LIBRO VIII. CAPÍTULO XXXII.
 
+_Casa de Nask_.
+
+1\. Una sección de las siguientes veinte contiene detalles sobre el rito de una ordalía realizada, también los modos de preservación o incriminación de la persona en ella, y todo lo que se refiera al mismo tema.
 
 <figure class="table chapter-navigator">
   <table>

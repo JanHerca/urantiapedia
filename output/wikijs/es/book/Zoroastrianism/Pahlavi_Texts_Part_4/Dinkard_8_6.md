@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:43Z
   </table>
 </figure>
 
+<span id="p15"><sup><small>[ pág. 15 ]</small></sup></span>
 
+## DÎNKA<i>R</i><i>D</i>.—LIBRO VIII. CAPÍTULO VI
+
+1\. Debido a que el Zand del Nâ<i>d</i>ar [^1] no ha llegado hasta nosotros, se conserva el Avesta para la enseñanza, la recitación y la ceremonia, porque ha llegado hasta nosotros con autoridad.
+
+2\. De la justicia la excelencia es la excelencia perfecta.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (15:1) Corresponde a la quinta palabra, ratu<i>s</i>, del Ahunavair, según BP Riv.; pero es el sexto Nask en otros Rivâyats. Debido a que su versión Zand, o Pahlavi, se ha perdido, el autor no se propone describir su contenido; sin embargo, los Rivâyats afirman que constaba de treinta y cinco ʓûrat, o compilaciones, sobre astronomía y astrología. El nombre tradicional Nâ<i>d</i>ar, o Nâ<i>d</i>ûr, probablemente sea una lectura errónea, ya que Vakhtar (por Vakhttar), «más destinado», y Vakhtvar, «que trae el destino», serían interpretaciones más inteligibles de las mismas letras.

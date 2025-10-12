@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:50Z
   </table>
 </figure>
 
+<span id="p1"><sup><small>[ pág. 1 ]</small></sup></span>
 
+## MARAVILLAS DEL ZOROASTRIANISMO SEGÚN SE EXPLICAN EN LOS LIBROS SÉPTIMO Y QUINTO DEL DÎNKA<i>R</i><i>D</i>
+
+Y EN LAS SELECCIONES DE ZÂ<i>D</i>\-SPARAM
+
+CAPÍTULOS XII-XXIV.
 
 <figure class="table chapter-navigator">
   <table>

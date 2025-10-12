@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XXIX.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Qué es necesario guardar con más respeto y protección?» <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 3\. El espíritu de sabiduría respondió (4) así: «Es necesario guardar con más respeto y protección a un joven sirviente (rasîk) [^1], a una esposa, a una bestia de carga y a un fuego».
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (67:1) L19 tiene un niño pequeño (r<i>e</i>dak).'

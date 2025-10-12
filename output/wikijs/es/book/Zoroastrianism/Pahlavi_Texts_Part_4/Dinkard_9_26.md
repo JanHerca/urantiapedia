@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:43Z
   </table>
 </figure>
 
+## DÎNKA<i>R</i><i>D</i>.—LIBRO IX. CAPÍTULO XXVI.
 
+_Var<i>s</i>tmânsar Nask_.
+
+1\. El tercer fargar<i>d</i>, A she m-vohû [^1], trata sobre la <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> admonición sobre la alabanza de la rectitud, que es en sí misma la producción del verdadero temor reverencial de Aûha<i>r</i>ma<i>z</i><i>d</i>, la perfección de las existencias, el mejor estado de las oraciones [^2], y la mayor asamblea de rectitud, buena crianza, humildad (avŏpatagîh), temor reverencial de la _existencia_ espiritual, alegría extrema, y ​​consuelo e iluminación del alma. 2. _También_ el equipamiento (pa<i>d</i>mûkîh) de aquel que ejerce como sumo sacerdote es la rectitud y el mantenimiento de la adoración _y_ la reverencia al espíritu de rectitud.
+
+3\. De la justicia perfecta es la excelencia.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,9 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (232:2) Véase Cap. III, 1 n.
+
+[^2]: (233:1) K omite 'de oraciones'.

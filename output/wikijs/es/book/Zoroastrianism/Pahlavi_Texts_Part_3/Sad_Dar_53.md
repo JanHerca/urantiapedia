@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO LIII.
 
+1\. El tema quincuagésimo tercer es que, en tiempos pasados, cuando alguien deseaba emprender un viaje (safar) de al menos [^1] doce leguas (parasang), consagraba un pastel sagrado, para que no le ocurriera ninguna aflicción en el viaje, y los asuntos se desarrollaran según sus deseos y sus ocupaciones fueran [^3] alegres. 2. Y sigue siendo responsabilidad de todos, cuando deseen emprender un viaje, consagrar este pastel sagrado.
+
+3\. _Y_, mientras la persona esté de viaje, _deberá_ ordenar la consagración de este pastel sagrado, en su casa, cada día de Bahirâm [^4], para que esa persona _pueda_ llegar sana y salva (salâmat) a _su_ casa. 4. <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> La fórmula dedicatoria es esta: Amahê hutâ<i>s</i>tahê [^5]—_y_ la conoce el propio sacerdote.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,15 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (315:3) La, Lp omiten 'anterior'.
+
+[^2]: (315:4) B29 tiene 'menor que'.
+
+[^3]: (315:5) Lp, B29 inserta 'podría llegar a ser'.
+
+[^4]: (315:6) El vigésimo día del mes parsi.
+
+[^5]: (316:1) La dedicación al ángel Bahirâm, que comienza con estas palabras (ver Sîr. I. 20).

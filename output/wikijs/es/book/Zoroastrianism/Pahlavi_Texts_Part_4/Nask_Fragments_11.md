@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:41:43Z
   </table>
 </figure>
 
+## FRAGMENTOS EXTENTES. XI. VA<i>S</i>TAG NASK [^1].
 
+Aún no se ha encontrado ninguna cita de este Nask.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (468:2) Como no hay relato de este Nask en Dk. VIII, solo podemos suponer que su extensión era aproximadamente la longitud promedio de los otros Nasks gáticos, o alrededor de 8.900 palabras del texto Avesta y 18.400 de la versión Pahlavi.

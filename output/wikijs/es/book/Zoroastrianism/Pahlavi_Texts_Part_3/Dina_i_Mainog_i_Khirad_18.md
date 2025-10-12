@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XVIII.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Por qué la gente considera estas cuatro cosas tan insignificantes, <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> que es necesario que consideren más, como advertencias (dakhshak), (3) la variabilidad de las cosas de la existencia mundana, la muerte del cuerpo, la cuenta del alma [^1] y el temor al infierno?'
+
+4\. El espíritu de sabiduría respondió (5) así: 'Por el engaño (nîyâ<i>z</i>ânîh) del demonio de la avaricia [^2] y del descontento.'
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (50:1) Es decir, la cuenta que debe rendir el alma después de la muerte.
+
+[^2]: (50:2) Ver cap. VIII, 15 n.

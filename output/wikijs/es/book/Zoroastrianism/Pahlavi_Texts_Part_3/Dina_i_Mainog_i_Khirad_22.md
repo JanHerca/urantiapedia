@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+<span id="p54"><sup><small>[ pág. 54 ]</small></sup></span>
 
+## EL DINERO ES MAÍZ ES KHIRA<i>D</i>. CAPÍTULO XXII.
+
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Es posible proveerse, con las propias manos, del tesoro y la riqueza de la existencia mundana mediante el esfuerzo, o no?'
+
+3\. El espíritu de sabiduría respondió (4) así: «No es posible procurarse, mediante el esfuerzo, ese beneficio que no está ordenado; (5) pero una pequeña porción (kazd) de lo ordenado se obtiene mediante el esfuerzo. 6. Sin embargo, el esfuerzo, cuando es infructuoso en la existencia mundana, por no estar los seres sagrados con él [^1], aun así, después, nos ayuda en la existencia espiritual y pesa más en la balanza [^2].»
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,9 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (54:1) TD2 tiene 'tiempo que no _está_ con él'.
+
+[^2]: (54:2) La balanza en la que el ángel Rashnû pesa las acciones de los hombres (véase Cap. II, 119-122).

@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:30Z
   </table>
 </figure>
 
+## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO LIX.
 
+1\. En cuanto a la quincuagésima octava pregunta y respuesta, lo que usted pregunta es así: ¿Para cuántos bienes es necesario entonces designar un hijo adoptivo?
+
+2. La respuesta es la siguiente: cuando los bienes que han quedado en su poder, para quien es necesario designar un hijo adoptivo, ascienden a sesenta stîrs [^1] de ingresos, es indispensable designarle un hijo adoptivo. 3. Incluso cuando sea menor, deben reconocer a quien necesita la adopción y cumple con los deberes de un hijo adoptivo; y, de igual manera, se le debe designar una adopción, aunque no llegue como posesión a quien sea más apto para la adopción.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (192:2) Unos 84 rûpîs (véase Cap. LVI, 2).

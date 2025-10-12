@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO LXXXII.
 
+1\. El tema octogésimo segundo es este: que, cuando te levantas de las sábanas, es necesario atar el cinturón del hilo sagrado [^1] de nuevo en ese mismo lugar, y no es deseable dar un paso sin el cinturón.
+
+2\. Pues se declara en la revelación que cada paso que uno da sin el cinturón sagrado es un pecado de Farmân [^2], y al dar cuatro pasos se convierte en un pecado de Tanâvar, que equivaldría a mil doscientos dirhams [^3]. 3. Por lo tanto, es necesario vigilarse a sí mismo respecto a este pecado y ceñirse el cinturón sagrado.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (347:3) Véanse los caps. X, XLVI.
+
+[^2]: (347:4) Véase Sls. I, 2, IV, 10, XI, 2.
+
+[^3]: (347:5) El dirham probablemente equivalía a unos 63 granos (véase Dd. LII, 1 n).

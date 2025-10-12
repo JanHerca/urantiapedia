@@ -32,6 +32,17 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO LIX.
+
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Cuáles son los vicios de los sacerdotes? 3. ¿Cuáles son los vicios de los guerreros? 4. ¿Cuáles son los vicios de los agricultores? 5. ¿Y cuáles son los vicios de los artesanos?»
+
+6\. El espíritu de sabiduría respondió (7) así: «Los vicios de los sacerdotes son la herejía, la codicia, la negligencia, el tráfico de bienes (sû<i>d</i>akîh) [^2], la atención a las nimiedades y la incredulidad en la religión.»
+
+8\. 'Los vicios de los guerreros son la opresión, la violencia, el incumplimiento de promesas, la crueldad (an-a<i>v</i>ôkhshâgâ-vandîh), la ostentación (dakhshîh) [^3], la altanería y la arrogancia.
+
+9\. 'Los vicios de los agricultores son la ignorancia, la envidia, la mala voluntad y la malicia.
+
+10\. '_Y_ los vicios de los artesanos son la incredulidad, la falta de acción de gracias, la murmuración indebida de oraciones, el mal humor y el abuso.'
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +68,11 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (105:4) Literalmente, 'el que se esfuerza bien', la más baja de las cuatro clases de la comunidad aquí mencionada (véanse también los capítulos XXXI, X y XII).
+
+[^2]: (106:1) O, quizás, 'usura'. La versión sánscrita tiene 'pereza', como si Nêr. hubiera leído âsû<i>d</i>akîh.
+
+[^3]: (106:2) Masculino. ha leído <i>g</i>ahi, y traducido 'incontinencia'.

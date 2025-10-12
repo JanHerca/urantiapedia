@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:43Z
   </table>
 </figure>
 
+<span id="p172"><sup><small>[ pág. 172 ]</small></sup></span>
 
+## DÎNKA<i>R</i><i>D</i>.—LIBRO IX. CAPÍTULO I [^1].
+
+1\. Satisfacción (shnôkhar) _al creador Aûha<i>r</i>ma<i>z</i><i>d</i>, _y_ reverencia _a_ la religión que adora a Ma<i>z</i><i>d</i>a.
+
+2\. El noveno libro (babâ) trata de los Hâs y Fargar<i>d</i>s [^2] de los diversos Nasks; el objeto de procurar la división de aquellas porciones que existen _siendo_ debido a la cantidad de lo que hay en cada uno de los Nasks; _también_ una explicación de una selección adecuada [^3] de ellos, tal como es un epítome (nisangag-1) del abundante detalle que allí se encuentra.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,11 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (172:1) Desde este punto hasta el Cap. XXXI, 17 el texto también se encuentra en un segundo MS, (K) que es independiente del MS. B traído a Surat en 1783 d.C., el original de todas las copias de Bombay.
+
+[^2]: (172:2) Véase Libro VIII, Cap. I, 20, 23. El contenido de estos se detalla más adelante, en los Caps. II-LXVIII, en lo que respecta a los tres primeros Nasks.
+
+[^3]: (172:3) Refiriéndose al Cap. LXIX.

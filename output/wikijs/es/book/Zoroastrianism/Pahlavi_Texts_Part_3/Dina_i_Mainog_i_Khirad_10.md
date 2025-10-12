@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO X.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Puede haber paz y afecto alguno entre Aharman, el malvado, y sus demonios y deformaciones, con Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles, uno con el otro, o no?'
+
+3\. El espíritu de sabiduría respondió (4) así: 'No puede haber, bajo ningún concepto; (5) porque Aharman medita sobre la maldad y sus actos, la ira, la malicia y la discordia, (6) y Aûha<i>r</i>ma<i>z</i><i>d</i> medita sobre la rectitud y sus actos, las buenas obras <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>, la bondad y la verdad. 7. Y todo puede cambiar, excepto la naturaleza buena y mala. 8. Una naturaleza buena no puede cambiar al mal bajo ningún concepto, ni una naturaleza mala al bien bajo ningún concepto. 9. Aûha<i>r</i>ma<i>z</i><i>d</i>, debido a su buena naturaleza, no aprueba el mal ni la falsedad; (10) y Aharman, debido a su mala naturaleza, no acepta la bondad ni la verdad; (11) y, por esta razón, no puede haber para ellos paz ni afecto alguno, el uno con el otro.
 
 <figure class="table chapter-navigator">
   <table>

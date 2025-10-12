@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XLV.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Con qué engaña más Aharman y conduce a la gente al infierno? 3. ¿Y de qué se deleita más? 4. ¿Dónde está el lugar donde tiene su fundamento? <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 5. ¿Adónde, también, acude con más frecuencia _junto_ con los demonios? 6. ¿Y de qué se alimenta?»
+
+7\. El espíritu de sabiduría respondió (8) así: Aharman engaña a la gente principalmente con la prosperidad y la adversidad [^1], el demonio de la apostasía, el escepticismo y la codicia. 9. Su placer, también, proviene principalmente de la discordia humana. 10. Y su alimento proviene de la impenitencia [^2] y la reticencia humana. 11. Tiene su fundamento en la malicia [^3]. 12. Y su ir y venir se dan principalmente con los iracundos.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (88:1) O 'superfluidad y escasez'.
+
+[^2]: (88:2) Suponiendo que apatôtakîh significa apatîtakîh, 'no renuncia _al pecado_'. L19 tiene 'comer inmoderadamente'.
+
+[^3]: (88:3) L19 tiene 'en el calumniador y malicioso'.

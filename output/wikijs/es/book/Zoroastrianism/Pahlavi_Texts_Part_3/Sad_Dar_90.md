@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+<span id="p354"><sup><small>[ pág. 354 ]</small></sup></span>
 
+## TRISTE DAR. CAPÍTULO XC.
+
+1\. El nonagésimo tema es este: no es apropiado que den nada a una persona pecadora o merecedora de muerte, porque [^1] es como si hubieran caído en las fauces de una serpiente destructora (a<i>z</i>dahâ). 2. Y, si se trata de alimento que devora y le dan, incurren en pecado; y quien le haya dado alimento participa con él. 3. Al comer, si no hay peligro ni temor de ellos [^2], no es deseable darles nada, pues sería un gran pecado.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (354:1) B29 omite estas seis palabras.
+
+[^2]: (354:2) Es decir, si los pecadores que piden ayuda no son peligrosos.

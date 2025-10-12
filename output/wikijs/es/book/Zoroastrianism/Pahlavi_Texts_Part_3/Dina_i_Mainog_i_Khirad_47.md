@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+<span id="p89"><sup><small>[ pág. 89 ]</small></sup></span>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XLVII.
+
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Qué es aquello que es la más perfecta de todas las riquezas? 3. ¿Qué es aquello que predomina sobre todo lo demás? 4. ¿Y qué es aquello de lo que nadie puede escapar?»
+
+5\. El espíritu de sabiduría respondió (6) así: «Es la sabiduría la que es mejor que cualquier riqueza que haya en el mundo. 7. Es el destino el que predomina sobre todos y sobre todo. 8. Y es Vâê el mal [^1] del que nadie puede escapar».
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (89:1) El demonio que lleva el alma a su cuenta (ver Cap. II, 115).

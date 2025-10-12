@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:41:20Z
   </table>
 </figure>
 
+## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO III.
 
+1\. Y Gô<i>s</i>ûrvan, siendo ella misma el alma del buey primigenio, cuando este falleció, salió de él, como el alma del cuerpo del difunto, y lanzó un clamor a Aûharmazd como el de un ejército de mil hombres cuando gritan juntos [^1]. 2. Y Aûharmazd, para poder vigilar mejor a las criaturas mezcladas que frente a Gâyômar<i>d</i>, ascendió de la tierra al cielo. 3. Y Gô<i>s</i>ûrvan lo seguía continuamente, gritando, y lanzaba este clamor: «¿Con quién puedes dejar la custodia de las criaturas?»
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (163:3) Bund. IV, 2.

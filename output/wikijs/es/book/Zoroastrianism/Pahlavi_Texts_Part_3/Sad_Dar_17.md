@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+<span id="p278"><sup><small>[ pág. 278 ]</small></sup></span>
 
+## TRISTE DAR. CAPÍTULO XVII.
+
+1\. El decimoséptimo tema es que, al cortar un palillo ('<i>h</i>ilâl) o una astilla para aplicarla a la raíz de los dientes, es necesario que no retengan corteza. 2. Porque si hay poca corteza al aplicarla a los dientes y la desechan, si una mujer embarazada la pisa, existe el peligro de que el niño sufra daños.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (278:1) Por temor a haber pisado materia muerta (ver Sls. X, 20, XII, 13).

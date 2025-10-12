@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO LIV.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Por qué, cuando un hombre ignorante —cuando le traen progreso— considera que el conocimiento y el progreso de los sabios y buenos son, en su mayoría, tan [^1], por avaricia, que enseñárselos es difícil?'
+
+3\. El espíritu de sabiduría respondió (4) así: 'Por esta razón, porque el ignorante considera, en su pensamiento, su propia ignorancia tan buena como el sabio considera, en su pensamiento, su propio conocimiento.'
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (97:1) L19 tiene 'tal disgusto', al leer bêsh en lugar de vas.

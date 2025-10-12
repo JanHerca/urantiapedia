@@ -32,6 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO LXXII.
+
+1\. El septuagésimo segundo tema es este: cuando alguien lleva materia muerta al agua o al fuego, es <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> digno de muerte [^1]. 2. Y [^2] se afirma en el Apocalipsis que cualquier año en que la langosta abunda [^3], lo hace porque la materia muerta es llevada al agua y al fuego. 3. De igual manera, el invierno es más frío y el verano más caluroso.
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +60,11 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (337:1) Véase Pahl. Vender. VII, 65-71.
+
+[^2]: (337:2) Lp, B29 tiene 'para'.
+
+[^3]: (337:3) La tiene sâl, y B29 san para 'año'; Lp tiene 'aquello cuando el bê<i>s</i> y langostas vienen profusamente'. El bê<i>s</i> puede ser una planta venenosa (_Napellus Moysis_), o 'angustia'.

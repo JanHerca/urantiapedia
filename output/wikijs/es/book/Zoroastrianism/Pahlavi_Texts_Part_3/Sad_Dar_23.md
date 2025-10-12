@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO XXIII.
 
+1\. El tema vigésimo tercero es el siguiente: es necesario impedir que un animal atado se porte mal y vigilar a las propias criaturas, especialmente cuando han comido carne.
+
+2\. Por lo tanto, si han comido carne y cometen un ataque, toda ofensa que el animal ('haîvân) cometa puede ser de aquella persona cuya carne puede ser comida. 3. Por ejemplo, si un caballo lanza una patada (lakad) a alguien, la ofensa puede ser de aquella persona cuya comida puede ser comida y causó la ofensa.
+
+4\. Por lo tanto, es necesario esforzarse para que no cometan ninguna ofensa, especialmente en el momento en que han comido carne.
 
 <figure class="table chapter-navigator">
   <table>

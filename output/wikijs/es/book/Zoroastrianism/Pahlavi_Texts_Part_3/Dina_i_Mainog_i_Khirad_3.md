@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO III.
 
+1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Es buena la liberalidad, o la verdad [^1], (3) o la gratitud [^2], o la sabiduría, (4) o la atención plena [^3], o el contentamiento?'
+
+5\. El espíritu de sabiduría respondió (6) así: «En cuanto al alma, es la liberalidad; en cuanto al mundo entero, es la verdad; (7) a los seres sagrados, es la gratitud; en cuanto al yo del hombre [^4], es la sabiduría; (8) a todos los negocios, es la atención plena; y en cuanto al bienestar del cuerpo y la victoria sobre Aharman y los demonios, la satisfacción es buena».
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,13 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (26:1) K43 tiene 'o tu verdad'.
+
+[^2]: (26:2) L19 tiene 'o es buena la gratitud'.
+
+[^3]: (26:3) L19 tiene 'o es buena la atención plena completa'.
+
+[^4]: (26:4) Literalmente, 'el cuerpo de un hombre'.

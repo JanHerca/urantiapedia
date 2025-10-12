@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
+## TRISTE DAR. CAPÍTULO XCIV.
 
+1\. El nonagésimo cuarto punto es este: cuando una persona otorga un beneficio o una bondad a alguien, es necesario que este comprenda su valor y se imponga la obligación (minnat); y, si puede, debe proporcionar un beneficio por esa cantidad (miqdâr) a esa persona.
+
+2. Se declara en la revelación que, cuando alguien otorga un beneficio a alguien, Hôrmazd [^1] le otorga diez veces más, como equivalente. 3. Y si el otro no comprende [^2] la justicia de esto, el comentario del Avesta relata de esta manera que es un gran pecado para él. 4. Y Aharman [^3] habla así: «Ese pecador es afín a mí; al final caerá en mis manos; no lo entregaré a ningún demonio, sino que lo castigaré con mis propias manos». 5. Y el sumo sacerdote [^4] dice que es necesario que todos los zaratucianos se mantengan alejados de este pecado.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,13 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (357:1) Lp, B29 añade 'el bueno _y_ propicio'.
+
+[^2]: (357:2) Lp, B29 tiene 'alabar'.
+
+[^3]: (357:3) Lp, B29 añade 'los malditos'.
+
+[^4]: (357:4) Probablemente se refiere al comentarista.

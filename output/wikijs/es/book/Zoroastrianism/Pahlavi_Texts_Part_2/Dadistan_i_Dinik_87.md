@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:41:30Z
   </table>
 </figure>
 
+## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO LXXXVII.
 
+1\. En cuanto a la octogésima sexta pregunta y respuesta, lo que preguntas es lo siguiente: ¿Cómo es bueno que den un regalo para el ceremonial? <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> 2\. La respuesta es esta: como es necesario, para que el ceremonial de los seres sagrados sea más avanzado y dicha riqueza pueda contribuir más a la buena obra, para los estipendios adecuados de los enterradores y solemnizadores, para que se vuelvan menos tibios en cuanto a las costumbres que los acompañan y, por lo tanto, diligentes en su ejecución, y no hay en ello [^1] una conexión expresa con una obra diferente, ni con la que ha provenido de tantas buenas personas anteriores, considero que su introducción [^2] es más expresamente mejor.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,9 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+
+## Notas al pie
+
+[^1]: (250:1) El ceremonial.
+
+[^2]: (250:2) El regalo.
