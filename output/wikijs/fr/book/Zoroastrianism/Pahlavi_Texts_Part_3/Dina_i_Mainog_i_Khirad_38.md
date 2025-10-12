@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXXVIII.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi ne répartissent-ils pas le bonheur de l'existence terrestre selon la dignité, et font-ils de l'âme un accapareur des existences spirituelles par la dignité de l'action ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « À cause de la compassion d'Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur, à l'égard des créatures, il répartit tout bonheur également entre les bons et les mauvais. 5. Mais quand il ne leur arrive pas toujours, c'est à cause de l'oppression d'Aharman et des démons, et de l'extorsion de ces sept planètes [^1]. »
+
+6\. 'Et ils font de quelqu'un [^2] un saisisseur des existences spirituelles, par la valeur de l'action, à cause de cela, parce que la méchanceté de chacun [^3] naît de l'accomplissement de ses propres actions.'
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (76:1) Qui sont supposés être des agents d'Aharman pour causer du malheur aux créatures (voir chap. VIII, 19, 20 ; XII, 7-10).
+
+[^2]: (76:2) L19 a « l'âme ».
+
+[^3]: (76:3) L19 a « chaque ».

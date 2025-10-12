@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XLV.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Par quoi Aharman trompe-t-il le plus et conduit-il les gens en enfer ? 3. Et d'où vient le plus son plaisir ? 4. Où est le lieu où il a un fondement ? <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 5. Où vient-il aussi le plus souvent, avec les démons ? 6. Et de quoi est sa nourriture ? »
+
+7\. L'esprit de sagesse répondit (8) ainsi : Aharman trompe les gens surtout par la prospérité et l'adversité [^1], le démon de l'apostasie, du scepticisme et de la convoitise. 9. Son plaisir, aussi, vient surtout de la discorde des hommes. 10. Et sa nourriture vient de l'impénitence [^2] et de la réticence des hommes. 11. Il a un fondement dans la malice [^3]. 12. Et ses allées et venues se font surtout avec les courroucés.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (88:1) Ou « superfluité et pénurie ».
+
+[^2]: (88:2) En supposant que apatôtakîh signifie apatîtakîh, « non-renoncement au péché ». L19 signifie « manger immodérément ».
+
+[^3]: (88:3) L19 contient « dans le calomniateur et le malveillant ».

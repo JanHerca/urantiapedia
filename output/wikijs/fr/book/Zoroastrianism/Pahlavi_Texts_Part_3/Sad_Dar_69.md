@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE LXIX.
 
+1\. Le soixante-neuvième sujet est celui-ci, qu'il ne convient pas que le soleil tombe sur un feu, car, chaque fois que le soleil tombe sur un feu [^1], c'est un [^2] péché. 2. Si tu exposes un feu au soleil, c'est un péché de trois <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> stîrs [^3]; et, si tu poses quelque chose sur le dessus du feu, il est nécessaire qu'il n'y ait pas de trou—afin que la lumière (nûr) et la force du feu puissent diminuer—pour autant que tu saches.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (334:6) B29 omet ces huit mots.
+
+[^2]: (334:7) B29 a « beaucoup ».
+
+[^3]: (335:1) Le même que les douze dirhams du chap. LXVIII, 1, 2.

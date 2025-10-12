@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:45Z
   </table>
 </figure>
 
+## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPITRE XI.
 
+1\. La dixième question est celle que vous posez ainsi : la croissance qui augmente devient-elle aussi louable dans la quatrième nuit [^1] que la bonne œuvre originelle [^2] en sa possession, ou devient-elle autrement ?
+
+2\. La réponse est la suivante : il en est autrement ; car la bonne œuvre originelle s’élève contre le péché, et la bonne œuvre croissante [^3] s’élève contre la croissance du péché.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (30:2) Après la mort, lorsque toutes les cérémonies immédiates pour le défunt ont été achevées (voir Sls. XVII, 5 note).
+
+[^2]: (30:3) Littéralement « la bonne œuvre du commencement ». Que bûn ki<i>r</i>fakŏ ne représente pas ici bûn-î ki<i>r</i>fakŏ, « l'origine ou la racine de la bonne œuvre », apparaît au chap. XII, 1, où il est écrit ki<i>r</i>fakŏ-î bûn.
+
+[^3]: (30:4) Littéralement « la bonne œuvre de la croissance ».

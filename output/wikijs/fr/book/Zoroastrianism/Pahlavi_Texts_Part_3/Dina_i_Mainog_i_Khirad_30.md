@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXX.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : Laquelle de toutes les existences vivantes (zîvêndag-1) est la pire ? 3. Et dans la sagesse, qui est le plus imprévoyant [^1] ?
+
+4\. L'esprit de sagesse répondit (5) ainsi : « La vie de celui qui vit dans la peur et le mensonge est la pire [^2]. 6. Et dans la sagesse, celui qui ne pourvoit pas [^3] à l'existence spirituelle et s'occupe de l'existence mondaine est d'autant plus inconscient. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (67:2) Littéralement, « plus imprévisible (apasa<i>s</i>dânîktar). » L19 a « plus inapprouvable (apasa<i>n</i>da<i>s</i>nîtar). »
+
+[^2]: (67:3) Voir Chap. XIX, 6.
+
+[^3]: (67:4) L19 a « ne croit pas en ».

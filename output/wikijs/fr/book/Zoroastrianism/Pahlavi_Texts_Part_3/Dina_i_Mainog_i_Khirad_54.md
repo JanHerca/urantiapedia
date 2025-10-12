@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE LIV.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi, lorsqu'un homme ignorant — lorsqu'on lui apporte de l'avancement — considère-t-il l'apprentissage <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> et l'avancement des sages et des bons de telle manière [^1], par cupidité, qu'il lui soit difficile de l'enseigner ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Pour cette raison, parce que l'ignorant considère, en pensée, sa propre ignorance aussi bonne que le sage considère, en pensée, sa propre connaissance. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (97:1) L19 a « une telle vexation », en lisant bêsh au lieu de vas.

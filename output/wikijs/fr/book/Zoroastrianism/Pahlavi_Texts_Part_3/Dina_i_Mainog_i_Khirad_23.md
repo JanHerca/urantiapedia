@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## L'ARGENT, C'EST DU MAÏS, C'EST DU KHIRA<i>D</i>. CHAPITRE XXIII.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Est-il possible de lutter contre le destin par la sagesse et la connaissance, ou non ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Même avec la force et la puissance de la sagesse et de la connaissance, même alors il n'est pas possible de lutter contre le destin. 5. Car, lorsque la prédestination quant à la vertu, ou quant à son contraire [^1], se manifeste, le sage devient défaillant (nîyâ<i>z</i>ân) dans le devoir, et l'astucieux dans le mal devient intelligent ; (6) le lâche devient plus courageux, et le plus courageux devient lâche ; <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> (7) le diligent devient paresseux, et le paresseux agit avec diligence [^2]. (8) De même qu'il est prédestiné quant à la matière, la cause y entre, (9) _et_ chasse tout le reste. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (54:3) L19 a de la « vilenie ».
+
+[^2]: (55:1) L19 a « devient diligent ».

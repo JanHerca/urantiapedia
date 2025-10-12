@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE LVI.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi ces montagnes et ces rivières [^1] qui sont dans le monde ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Parmi ces montagnes qui sont dans le monde, il y en a qui sont des modérateurs du vent, et il y en a qui sont [^2] des gardiens ; (5) il y en a qui sont le lieu et l'évent, le lieu de repos et le support du nuage pluvieux ; (6) et il y en a qui frappent Aharman et les démons, et qui maintiennent et vivifient les créatures et la création d'Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur.
+
+7\. 'Et ces rivières, qui sont dans le monde, le créateur Aûha<i>r</i>ma<i>z</i><i>d</i> les a formées, à partir des frontières d'Albûr<i>z</i> [^3], pour assurer la protection et la vivification de ses propres créatures et de sa création.'
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (98:1) Ou il pourrait s'agir de « mers », comme la version sanskrite traduit le mot, ici et dans le § 7, mais cela ne concorde guère avec le contexte,
+
+[^2]: (98:2) L19 omet ces cinq mots.
+
+[^3]: (98:3) Voir Chap. XLIV, 16 n.

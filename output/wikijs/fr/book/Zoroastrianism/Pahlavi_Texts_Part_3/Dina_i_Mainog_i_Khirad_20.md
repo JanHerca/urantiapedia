@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XX.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « _Pour_ les rois, quelle est la chose la plus avantageuse et laquelle est la plus nuisible ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Pour les rois, la conversation avec les sages et les bons est la <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> chose la plus avantageuse, (5) et parler et converser avec les calomniateurs et les doubles joueurs leur sont plus nuisibles. »
 
 <figure class="table chapter-navigator">
   <table>

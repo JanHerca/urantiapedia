@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XLVI.
 
+1\. Le quarante-sixième sujet est celui-ci, que, lorsque les gens atteignent l'âge de quatorze ans, il est nécessaire de nouer la ceinture de fil sacré [^1], parce que les grands prêtres ont dit qu'il est également nécessaire de tenir compte des neuf mois qu'ils ont passés dans le ventre de la mère.
+
+2\. Car dans notre religion, il n'y a pas de devoir plus grand que de porter la ceinture sacrée, et il incombe à l'homme et à la femme. 3. Et, autrefois, si quelqu'un avait atteint l'âge de quinze ans révolus et n'avait pas porté la ceinture sacrée, on le lapidait, comme le pain et l'eau lui sont interdits ('harâm).
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (309:3) Voyez le chap. X, qui mentionne quinze ans conformément à Vend. XVIII, 115, 120. Mais Sls. X, 13 recommande quatorze ans et trois mois comme plus prudents, sans doute pour la raison indiquée ici dans le texte.

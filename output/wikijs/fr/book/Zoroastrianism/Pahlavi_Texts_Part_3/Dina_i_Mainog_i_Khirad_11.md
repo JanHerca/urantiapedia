@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XI.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « La sagesse est-elle bonne, ou l'habileté, ou la bonté [^1] ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « La sagesse dans laquelle il n'y a pas de bonté ne doit pas être considérée comme sagesse ; (5) et l'habileté dans laquelle il n'y a pas de sagesse ne doit pas être considérée comme habileté. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (37:1) L19 omet les deux derniers mots, mais ils sont évidemment mentionnés dans la réponse.

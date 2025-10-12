@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXXIV.
+
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Le créateur Aûha<i>r</i>ma<i>z</i><i>d</i> a-t-il produit la création de quoi que ce soit pour l'existence terrestre [^1], à laquelle Aharman ne soit pas capable d'apporter de perturbation ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « À celui qui est un homme sage et satisfait, il est peu possible d'apporter du trouble. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (70:1) L19 omet ces quatre mots.

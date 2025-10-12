@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE LXXXII.
 
+1\. Le quatre-vingt-deuxième sujet est celui-ci, que, lorsque tu te lèves du lit, il est nécessaire de nouer à nouveau la ceinture de fil sacrée [^1] à ce même endroit, et il n'est pas désirable de faire un pas en avant sans la ceinture.
+
+2. Car il est déclaré dans la révélation que chaque pas que l'on fait sans la ceinture sacrée est un péché de Farmân [^2], et qu'au bout de quatre pas, il devient un péché de Tanâvar, qui équivaut à mille deux cents dirhams [^3]. 3. Il est donc nécessaire de se surveiller soi-même concernant ce péché et de s'attacher à la ceinture sacrée.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (347:3) Voir chap. X, XLVI.
+
+[^2]: (347:4) Voir Sls. I, 2, IV, 10, XI, 2.
+
+[^3]: (347:5) Le dirham vaut probablement environ 63 grains (voir Dd. LII, 1 n).

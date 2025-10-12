@@ -32,7 +32,15 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
+## L'ARGENT, C'EST DU MAÏS, C'EST DU KHIRA<i>D</i>. CHAPITRE LXIII.
+
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Quelle est cette bonne œuvre qui est plus grande et meilleure [^1] que \[toutes [^2]\] bonnes œuvres, et pour laquelle aucun trouble (an<i>g</i>înakŏ) n'est nécessaire [^3] ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Être reconnaissant dans le monde, (5) _et_ souhaiter le bonheur à chacun. 6. Cela est plus grand et meilleur que toute bonne œuvre, et aucune commotion (an<i>g</i>înakŏ) n'est nécessaire à son accomplissement [^4]. »
+
+Paix et prospérité [^5].
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +65,16 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (113:1) L19 insère « plus précieux et plus avantageux ».
+
+[^2]: (113:2) K43 omet « tous ».
+
+[^3]: (113:3) L19 n'a « aucun problème ni dépense nécessaires ».
+
+[^4]: (113:4) Cette réponse est fortement modifiée par Nêr. et se présente comme suit, dans L19 : — 'Souhaiter le bonheur à chacun ; (5) être reconnaissant envers les êtres sacrés et les bons ; (6) en toute situation et en tout temps considérer et garder en mémoire Aûha<i>r</i>ma<i>z</i><i>d</i>, en ce qui concerne la créativité, et Aharman, en ce qui concerne la destructivité ; (7) et être sans aucun doute quant à l'existence des êtres sacrés, à la religion et à l'âme, au ciel et au compte des trois jours, et à la réalité de la résurrection et de l'existence future. 8. Ceci, tout particulièrement, est la bonne œuvre qui est plus grande et meilleure, plus précieuse et plus avantageuse que toutes les bonnes œuvres, et aucune peine ni dépense n'y sont nécessaires.'
+  Le texte de toutes les versions s’arrête brusquement à ce point, sans aucune péroraison.
+
+[^5]: (113:5) Uniquement dans K43.

@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE LIV.
 
+1\. Le cinquante-quatrième sujet est celui-ci, que si quelqu'un a une épouse servante [^1], _et_ si l'acquisition d'un enfant mâle résulte [^2] d'elle, il est apte à l'adoption _par_ cette personne [^3], et le pont [^4] n'est pas rompu _pour_ cette personne. 2. _Mais_ s'il s'agit d'une fille, il est nécessaire que l'homme ne soit pas négligent (_gh_âfil) en désignant un fils adoptif pour son propre bien. 3. Il _devrait_ lui-même désigner un fils de quelque parenté, _qui est_ un ami de l'âme, afin que le pont ne soit pas rompu _pour_ son âme.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,13 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (316:2) Une veuve sans enfants qui s'est remariée, et dont la moitié des enfants, de son second mari, appartiennent à son premier, à qui elle appartient aussi dans l'autre monde (voir Bd. XXXII, 6 n).
+
+[^2]: (316:3) B29 a « si un enfant mâle naît ».
+
+[^3]: (316:4) L'enfant étant considéré comme appartenant au premier mari de sa mère, ne peut être qu'un fils adoptif de son second mari.
+
+[^4]: (316:5) Le pont <i>K</i>enva<i>d</i>, qui est le passage vers le ciel.

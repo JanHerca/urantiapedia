@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XV.
 
+1\. Le quinzième sujet est celui-ci, quand on voit quelque chose qui est agréable aux yeux, il est nécessaire de dire « au nom de l'être sacré ». 2. Car, si l'on ne dit pas « au nom de l'être sacré », et qu'un préjudice arrive à cette chose, ou qu'un désastre survient, on devient un pécheur ; cela est notoire (ma'hlûm).
 
 <figure class="table chapter-navigator">
   <table>

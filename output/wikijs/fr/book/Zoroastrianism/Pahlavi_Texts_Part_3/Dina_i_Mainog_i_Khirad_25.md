@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXV.
 
+1\. Le sage demanda à l'esprit de sagesse (2) ainsi : « Parmi les riches, qui est le plus pauvre, et parmi les pauvres, qui est le plus riche ? » <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> 3\. L'esprit de sagesse répondit (4) ainsi : « Parmi les riches, le plus pauvre est celui qui ne se contente pas de ce qui est à lui, (5) et qui s'inquiète de l'accroissement de quoi que ce soit.
+
+6\. '_Et_ parmi les pauvres, le plus riche est celui qui se contente de ce qui est venu, (7) et ne se soucie pas de l'accroissement de quoi que ce soit.'
 
 <figure class="table chapter-navigator">
   <table>

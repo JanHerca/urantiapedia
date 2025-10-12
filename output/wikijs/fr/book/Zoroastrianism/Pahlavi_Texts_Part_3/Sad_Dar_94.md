@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XCIV.
 
+1\. Le quatre-vingt-quatorzième sujet est le suivant : lorsqu'une personne confère un bienfait ou une gentillesse à quelqu'un, il est nécessaire que ce dernier en comprenne la valeur et s'en impose l'obligation (minnat) ; et, s'il en est capable, il doit fournir un bienfait d'un montant équivalent (miqdâr) à cette personne.
+
+2\. Il est déclaré dans la révélation que, lorsqu'une personne confère un bienfait à quelqu'un, Hôrmazd [^1] lui en donne dix fois plus, en guise d'équivalent. 3. Et, si l'autre ne comprend pas [^2] la justice de cela, il est relaté dans le commentaire de l'Avesta de cette manière, que c'est un grand péché pour lui. 4. Et Aharman [^3] parle ainsi, à savoir : « Ce pécheur est apparenté à moi ; à la fin, il tombera entre mes mains ; je ne le livrerai aux mains d'aucun démon, mais j'infligerai le châtiment de mes propres mains. » 5. _Et_ le grand prêtre [^4] dit qu'il est nécessaire pour tous les Zaratutiens de se tenir loin de ce péché.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,13 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (357:1) Lp, B29 ajoute « le bon _et_ propice ».
+
+[^2]: (357:2) Lp, B29 a « louange ».
+
+[^3]: (357:3) Lp, B29 ajoute « les maudits ».
+
+[^4]: (357:4) Il s'agit probablement du commentateur.

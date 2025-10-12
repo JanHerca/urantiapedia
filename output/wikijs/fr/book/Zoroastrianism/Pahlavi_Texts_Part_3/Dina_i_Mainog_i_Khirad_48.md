@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XLVIII.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Comment se trouve la demeure de l'entendement, de l'intellect et de la semence des hommes dans le corps ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Le lieu de l'entendement, de l'intellect et de la semence des hommes est dans le cerveau de la tête. 5. Et lorsque le cerveau de la tête est sain, l'entendement, l'intellect et la semence augmentent ; (6) _mais_ lorsqu'une personne atteint la vieillesse, le cerveau de la tête ne reste qu'en diminution. 7. Et celui qui est un homme âgé, à cause de la diminution de l'entendement et de l'intellect, voit moins et sait moins de ce qu'il est nécessaire de faire avec la sagesse. 8. La sagesse, au commencement, se mêle à la moelle des doigts des mains des hommes ; (9) et, ensuite, <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> son siège, sa demeure et sa place [^1] sont dans le cœur. 10. Et sa demeure [^2] dans tout le corps devient telle que la forme du pied dans diverses chaussures (mûg<i>k</i>akŏ). [^3]'
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (90:1) L19 a « son siège et son lieu de résidence ».
+
+[^2]: (90:2) L19 a « et la demeure de l'âme ».
+
+[^3]: (90:3) L19 a « dans la chaussure ».

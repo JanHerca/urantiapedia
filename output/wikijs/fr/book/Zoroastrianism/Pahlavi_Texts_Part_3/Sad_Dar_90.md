@@ -32,6 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
+
+## TRISTE DAR. CHAPITRE XC.
+
+1\. Le quatre-vingt-dixième sujet est celui-ci, qu'il n'est pas convenable qu'ils donnent quoi que ce soit à un pécheur ou à quelqu'un qui mérite la mort, car [^1] c'est comme s'ils l'avaient placé dans la gueule d'un serpent destructeur (a<i>z</i>dahâ). 2. Et, si c'est de la nourriture qu'il dévore _et_ qu'ils la donnent, ils commettent un péché ; _et_ celui qui lui a donné de la nourriture participe avec lui. 3. En mangeant de la nourriture, s'il n'y a pas de danger ni de peur à leur égard [^2], il n'est pas souhaitable de leur donner quoi que ce soit, car ce serait un grand péché.
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +62,9 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (354:1) B29 omet ces six mots.
+
+[^2]: (354:2) C'est-à-dire, si les pécheurs qui implorent de l'aide ne sont pas dangereux.

@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XVII.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Quel est le plaisir qui est pire que le malheur ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Quiconque a acquis la richesse par le crime, et s'en réjouit [^1], alors ce plaisir est pire pour lui que le malheur. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (49:5) « Heureux du crime à cause de la richesse » est probablement voulu.

@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XLIX [^1].
 
+1\. Le quarante-neuvième sujet est celui-ci, que, lorsque l'on allume un feu, il est nécessaire de le laisser un certain temps, afin que le lit de cendres (bûm) du feu puisse refroidir ; ensuite, on doit le prendre et le porter jusqu'à l'endroit où se trouve le feu. 2. Il ne convient pas qu'ils portent le lit de cendres (zamîn) d'un feu chaud jusqu'à l'endroit où se trouve le feu ; cela est notoire.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (311:6) Inséré dans La après le dernier chapitre du livre, et numéroté C. Dans Lp, il est numéroté LII.

@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXII.
+
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Est-il possible de se procurer par ses propres moyens le trésor et la richesse de l'existence terrestre par l'effort, ou non ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Il n'est pas possible de se procurer par l'effort ce qui n'est pas ordonné ; (5) mais une petite partie (kazd) de ce qui est ordonné vient par l'effort. 6. Pourtant, l'effort, lorsqu'il est infructueux dans l'existence terrestre, faute d'être accompagné des êtres sacrés [^1], vient néanmoins, par la suite, à notre secours dans l'existence spirituelle, et pèse dans la balance [^2]. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,9 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (54:1) TD2 a « le temps de ne pas être avec lui ».
+
+[^2]: (54:2) La balance dans laquelle les actions des hommes sont pesées par l'ange Rashnû (voir Chap. II, 119-122).

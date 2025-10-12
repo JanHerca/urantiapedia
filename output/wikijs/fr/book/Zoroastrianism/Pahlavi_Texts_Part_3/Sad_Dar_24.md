@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XXIV.
 
+1\. Le vingt-quatrième sujet est celui-ci, que lorsqu'un enfant naît de sa mère, il est nécessaire qu'on lui donne le jus consacré de Hôm [^1], afin que l'entendement ('haql), la sagesse et la connaissance puissent lui parvenir plus abondamment, et que leur manque (ablat) puisse lui venir plus rarement [^2].
+
+2\. Si, à ce moment-là, ils n'accomplissent pas la consécration, ils _devront_ prélever un peu de Hôm pour cela [^3], et réciter [^4] un Yathâ-ahû-vairyô [^5], et y mettre un peu d'eau, et en faire du jus de Hôm, et le donner à l'enfant, et ensuite [^6] du lait.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,17 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1] : (286 : 2) Voir Mkh. LVII, 28 n, Sls. X, 16.
+
+[^2]: (287:1) B29 omet ces onze mots.
+
+[^3]: (287:2) B29 ajoute « dans le mortier Hôm ».
+
+[^4]: (287:3) B29 ajoute « et prononce ».
+
+[^5] : (287 : 4) Voir Mkh. XXVII, 70 n.
+
+[^6]: (287:5) Lp, B29 insérer '_ils doivent_ donner.'

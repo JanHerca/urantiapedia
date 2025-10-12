@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XCVIII.
 
+1\. Le quatre-vingt-dix-huitième sujet est celui-ci, qu'il est nécessaire pour tous ceux de la bonne religion, qu'ils apprennent les caractères de l'Avesta _en_ ​​présence de <span id="p360"><sup><small>[ p. 360 ]</small></sup></span> prêtres _et_ d'enseignants, afin de lire, _et qu'aucune erreur _ne puisse_ persister _dans_ les Nyâyi<i>s</i>es et les Ya<i>s</i>ts.
+
+2\. Et il est encore plus avantageux pour les prêtres et les enseignants d'enseigner les caractères de l'Avesta à tous ceux de la bonne religion [^1] : et si un prêtre, en enseignant, fait preuve d'incompétence (taqʓîr), c'est un grand péché pour lui. 3. Car Hôrmazd, le bon et propice, parla ainsi à Zaratu<i>s</i>t : « Quant à tout prêtre et enseignant qui commet une faute en enseignant [^2] ceux de la bonne religion, je le place aussi loin du ciel que la largeur de la terre [^3]. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (360:1) B29 omet ces sept mots.
+
+[^2]: (360:2) Lp, B29 insérer « l'Avesta à ».
+
+[^3]: (360:3) Comparez le chapitre XXVIII, 3.

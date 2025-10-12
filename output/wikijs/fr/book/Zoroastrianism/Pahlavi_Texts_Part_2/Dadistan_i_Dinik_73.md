@@ -32,6 +32,13 @@ dateCreated: 2025-10-10T14:56:45Z
   </table>
 </figure>
 
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
+
+## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPITRE LXXIII.
+
+1\. _Quant à_ la soixante-douzième question _et_ à_ la_ réponse, ce que vous demandez est ainsi : la puanteur de celui qui, de surcroît, commet des relations contre nature, monte-t-elle jusqu'au ciel, ou non ; et vers quel endroit le vent de cette puanteur va-t-il _quand_ il va _n'importe où_ ?
+
+2\. La réponse est la suivante : la puanteur matérielle s’étend aussi loin et dans la même proportion qu’il y a de la saleté et de la fétidité dans les existences puantes, et la puanteur spirituelle va là où se trouvent les appareils (sâmânŏ) pour acquérir la puanteur, un endroit misérable ; à cause de la séparation (gard<i>d</i>îh) du ciel, partout où elle va dans la direction du ciel, elle n’atteint pas les existences paisibles [^1]. 3. L’information sur la puanteur est manifeste chez le créateur omniscient, dont l’omniscience est parmi les luminaires, _mais_ ce créateur persistant _et_ les anges et les archanges primordiaux _sont _à l’abri_ de son attaque ; et _son_ information sur la tromperie qui est _pratiquée_ sur ce travailleur _de_ l’enfer et de l’esprit _allié_ aux démons [^2] est certaine.
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +64,9 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (220:1) Le ciel étant divisé en trois parties, et la partie la plus élevée étant inaccessible au mal (voir Chap. XXXVII, 24, 25).
+
+[^2]: (220:2) Lecture a<i>v</i>â-<i>s</i>êdâ-mîni<i>s</i>nŏîh, mais il est possible que a<i>v</i>â ait été à l'origine kha<i>v</i>dak, pour l'Av. khavzô, 'amant mâle', de Vend. VIII, 99, 103 (trad. D.).

@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XLIV.
 
+1\. Le quarante-quatrième sujet est celui-ci, qu'il n'est pas désirable pour ceux de la bonne religion, autant qu'ils en sont capables, de poser un pied nu sur le sol [^1], parce que c'est un péché, et qu'il en résulte un préjudice [^2] pour Spendârma<i>d</i> [^3], l'archange. 2. Et ils appellent cela le péché de courir çà et là sans être couverts.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (307:3) Voir Sls. X, 12.
+
+[^2]: (307:4) Lp n'a que « à cause d'une blessure ».
+
+[^3]: (307:5) Voir Chap. XXXIII, 2 n.

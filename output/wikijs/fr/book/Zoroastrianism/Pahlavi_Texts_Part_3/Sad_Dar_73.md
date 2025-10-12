@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE LXXIII.
 
+1\. Le soixante-treizième sujet est celui-ci, que, lorsqu'une vache ou une chèvre a mangé de la matière morte [^1], en quelque lieu que ce soit, rien de sa chair, ni de son lait, ni de ses poils, ne doit être utilisé pendant un an. 2. Après cet an, elle est pure : et, si elle est enceinte, son petit n'est pas non plus pur pendant un an.
+
+3\. Et si une volaille domestique a mangé des choses mortes, sa chair et ses œufs ne sont pas non plus purs pendant un an.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (337:4) Voir réf. Sell. VII, pp. 189–192, p. II, 109.

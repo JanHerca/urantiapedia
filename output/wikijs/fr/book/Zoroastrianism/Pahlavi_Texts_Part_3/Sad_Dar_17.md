@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
+## SAD DAR. CHAPITRE XVII.
+
+1\. Le dix-septième point est le suivant : lorsqu’ils coupent un cure-dent ('<i>h</i>ilâl) ou une écharde qu’ils veulent appliquer à la racine des dents, il est nécessaire qu’ils n’en retiennent pas l’écorce. 2. Car s’il y a une petite quantité d’écorce dessus lorsqu’ils l’appliquent sur les dents, et qu’ils la jettent, si une femme enceinte pose son pied dessus, le danger est que l’enfant soit blessé [^1].
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (278:1) À cause de sa peur d'avoir marché sur de la matière morte (voir Sls. X, 20, XII, 13).

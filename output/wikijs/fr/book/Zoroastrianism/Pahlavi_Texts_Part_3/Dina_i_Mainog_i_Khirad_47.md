@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XLVII.
+
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Quelle est la chose la plus parfaite de toutes les richesses ? 3. Qu'est-ce qui prédomine sur tout ? 4. Et qu'est-ce dont personne ne peut échapper ? »
+
+5\. L'esprit de sagesse répondit (6) ainsi : « C'est la sagesse qui vaut mieux que les richesses de toute espèce qui sont dans le monde. 7. C'est le destin qui prédomine sur tous et sur tout. 8. Et c'est Vâê le mauvais [^1] dont personne ne peut échapper. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (89:1) Le démon qui transporte l'âme sur son compte (voir Chap. II, 115).

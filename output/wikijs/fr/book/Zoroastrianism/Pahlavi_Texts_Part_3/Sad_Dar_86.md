@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE LXXXVI.
 
+1\. Le quatre-vingt-sixième sujet est celui-ci, qu'il n'est pas convenable de tuer un castor [^1] ; _mais_, si on le voit en quelque endroit, il est nécessaire de le ramasser et de le porter à l'eau courante. 2. Car, dans le commentaire du Vendîdâ<i>d</i>, il est classé [^2] _comme_ un grand péché pour le _tueur_ [^3] ; et, _comme_ pour_ quiconque tue un castor, la source de sa semence s'épuise.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (350:4) Littéralement « un chien d'eau ».
+
+[^2]: (350:5) B29 a « décrété ».
+
+[^3]: (350:6) Comme le montrent les expiations excessives prescrites dans le Vend. XIV, à défaut desquelles il est dit qu'il ira en enfer jusqu'à la résurrection.

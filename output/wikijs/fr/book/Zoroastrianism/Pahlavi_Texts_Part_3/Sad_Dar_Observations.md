@@ -32,7 +32,29 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span> p. 253
 
+## SAD DAR, OU LES CENT SUJETS.
+
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
+
+## OBSERVATIONS.
+
+1\. La division en dars, « chapitres ou sujets », est indiquée dans les manuscrits originaux ; mais pour celle des sections, le traducteur est responsable, car les subdivisions du texte alterné persan-gu<i>g</i>arâti sont souvent en désaccord avec son sens.
+
+2-6. (Le même qu'à la page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
+
+7\. Tous les mots arabes sont cités entre parenthèses lors de leur première occurrence dans le texte. L'orthographe des noms se rapproche davantage du persan moderne que de l'ancien pahlavi.
+
+8\. Les manuscrits mentionnés sont :
+
+B29 (écrit en 1679 après J.-C.) dans un Rivâyat persan, n° 29 de la bibliothèque universitaire de Bombay.
+
+J15 (sans date) Persan, n° 15 de la bibliothèque de Dastûr Jâmâspji Minochiharji à Bombay. Il n'a été consulté qu'occasionnellement pour cette traduction.
+
+La (daté de 1575 après J.-C.) Persan, en écriture Avesta, alternant avec Gu<i>g</i>arâti, n° 3043 des manuscrits persans de la bibliothèque de l'India Office à Londres ; sur le texte duquel cette traduction est basée.
+
+Lp (sans date) persan, n° 2506 des manuscrits persans de la même bibliothèque.
 
 <figure class="table chapter-navigator">
   <table>

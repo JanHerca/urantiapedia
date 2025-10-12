@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
+## SAD DAR. CHAPITRE LXXXVIII.
+
+1\. Le quatre-vingt-huitième sujet est celui-ci, que, quant à tout morceau de bois sur lequel ils portent un cadavre, ou sur lequel ils le lavent, et celui qui peut être souillé de sang et d'impureté, celui sur lequel une femme menstruée dépose une souillure menstruelle, ou un membre nu, et celui sur lequel ils empalent un être humain, il est nécessaire d'éviter tous ces morceaux de bois, et de ne plus travailler avec [^1] eux, car le vêtement devient impur ; et il n'est pas convenable de les brûler. 2. Il est nécessaire de les mettre dans un endroit où quiconque, [^2] les arrache et les remue, ne les mettra pas à la disposition des hommes.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (353:1) La doit « manger », Lp « acheter avec », B29 « toucher ».
+
+[^2]: (353:2) B29 a « personne ne les prendra et ne les remuera, de sorte qu'il ne le fait pas. »

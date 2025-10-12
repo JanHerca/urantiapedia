@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## TRISTE DAR. CHAPITRE XX.
 
+1\. Le vingtième sujet est celui-ci, qu'il incombe à ceux de la bonne religion de donner continuellement quelque chose à manger à celui qui en est digne, à cause (<i>g</i>ihat) de ce qui est dit dans la révélation [^1] ainsi : « Quand tu donnes des choses à quelqu'un pour qu'il mange, tout devoir et toute bonne œuvre qu'il accomplit dans cet état de satiété deviennent ceux de la personne qui lui a donné ce pain ou cette nourriture, tout comme ceux qu'il a accomplis de sa propre main. » 2. Et s'il commet un péché, celui qui lui a donné de la nourriture est innocent. 3. Mais il est nécessaire qu'il soit de la bonne religion et digne ; ils ne devraient donner quelque chose à quelqu'un d'une religion différente qu'en cas d'extrême nécessité (ʓ̣arûrat), de peur que cela ne devienne un péché.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (282:3) Dans le Nihâ<i>d</i>ûm Nask (voir Sls. X, 23, XII, 16).

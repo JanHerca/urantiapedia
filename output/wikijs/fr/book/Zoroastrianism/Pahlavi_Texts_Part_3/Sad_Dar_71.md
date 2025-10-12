@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE LXXI.
 
+1\. Le soixante et onzième sujet est le suivant : puisqu'il n'est pas souhaitable que quiconque mange de la matière morte à des fins de médecine et de remède, qu'il prenne garde (zinhâr) lorsqu'il en mange [^1].
+
+2\. Car il affirme, dans le commentaire du Vendîdâ<i>d</i> [^2], qu'il est nécessaire de démolir l'habitation, la maison et le séjour de quiconque a [^3] mangé de la matière morte, et d'arracher son cœur de son corps, et il est nécessaire de lui arracher les yeux. 3. Et avec ces tourments qu'ils accomplissent sur lui, son âme est en enfer jusqu'à la résurrection.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,11 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (336:4) B29 dit « attention à ce qu'ils ne le mangent pas ».
+
+[^2]: (336:5) Peut-être en allusion à Pahl. Vend. VII, 59-64.
+
+[^3]: (336:6) B29 doit « démolir sa maison et sa demeure si quelqu'un en a ».

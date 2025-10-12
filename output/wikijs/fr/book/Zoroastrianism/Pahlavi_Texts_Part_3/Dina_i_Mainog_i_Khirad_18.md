@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XVIII.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi les gens considèrent-ils ces très petites choses, <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> ces quatre choses qu'il leur est nécessaire de considérer davantage, comme des avertissements (dakhshak), (3) la variabilité des choses de l'existence terrestre, la mort du corps, le compte de l'âme [^1], _et_ la peur de l'enfer ? »
+
+4\. L'esprit de sagesse répondit (5) ainsi : « À cause de l'illusion (nîyâ<i>z</i>ânîh) du démon de l'avidité [^2] et du mécontentement. »
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,9 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (50:1) C'est-à-dire le compte que l'âme doit rendre après la mort.
+
+[^2] : (50:2) Voir Chap. VIII, 15 n.

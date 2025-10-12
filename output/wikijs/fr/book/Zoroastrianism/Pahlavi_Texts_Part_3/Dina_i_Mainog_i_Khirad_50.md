@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE L.
 
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Quelle est cette personne opulente qui doit être considérée comme fortunée, et quelle est cette personne qui doit être considérée comme mal conditionnée ? »
+
+3\. L'esprit de sagesse répondit (4) ainsi : « Celui qui a produit l'opulence par un effort approprié doit être considéré comme heureux ; et celui qui l'a produite par la malhonnêteté, comme mal conditionné. »
 
 <figure class="table chapter-navigator">
   <table>

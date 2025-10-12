@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
+## SAD DAR. CHAPITRE XXVIII.
 
+1\. Le vingt-huitième sujet est celui-ci, que, lorsqu'ils enseignent l'Avesta, il est _de la même manière nécessaire <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> qu'ils l'enseignent _correctement et fidèlement, _et_ qu'ils_ le récitent _avec délibération et calme (sâkinî). 2. Et il est nécessaire _pour_ ceux à qui on l'enseigne de le réciter _constamment, et de le garder _toujours_ en mémoire.
+
+3\. Car il est déclaré dans la révélation, que l'être sacré a décrété ainsi : « Quant à quiconque efface l'Avesta de sa mémoire, je placerai son âme aussi loin du ciel que la largeur de la terre [^1]. » 4. Et dans le commentaire de l'Avesta, il est rapporté que, dans les temps anciens, quant à quiconque avait appris l'Avesta et l'avait effacé de sa mémoire, jusqu'au moment où il l'avait à nouveau rendu facile, on lui aurait donné du pain comme celui qu'on donne aux chiens. 5. _Et dans un autre endroit, j'ai lu qu'on lui aurait donné du pain sur la pointe d'une lance.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1] : (291:1) Comparez le Chap. XCVIII, 3.
