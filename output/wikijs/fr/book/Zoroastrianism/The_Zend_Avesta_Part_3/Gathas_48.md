@@ -116,13 +116,13 @@ de bas de page [^678]: 153:1 Le Pahlavi a aussi pavan zak dahi<i>s</i>nŏ; mais 
 
 [^684]: 154:1 M<i>e</i><i>n</i>g = mãm ou homme ; -<i>e</i><i>n</i>g est la voyelle nasalisée. Man est ici d'une signification suspecte ; « batailles mentales » est plutôt avancé dans les circonstances. Ce n'est cependant pas impossible. Le Pahlavi privilégie mãm (?) ici ; il a avŏ li. Nous pourrions même lire m<i>e</i>nâ sur son évidence. Le Pahlavi indique le sens de « crises » sous la figure du « Pont », qui fut la dernière grande crise pour chaque homme aux yeux de la Foi antérieure, comme de la Foi postérieure ; Français ainsi aussi dans Y. LI, 12. Les « difficultés de la vie » seraient une signification admirable ; je suis en désaccord avec hésitation. 
 
-[^685] : 154:2 Pahlavi kar<i>d</i>ârîh. 
+[^685]: 154:2 Pahlavi kar<i>d</i>ârîh. 
 
-[^686] : 154:3 Voir Y. XLIII, 14. 
+[^686]: 154:3 Voir Y. XLIII, 14. 
 
-[^687] : 154:4 Yaê<i>k</i>î<i>t</i> gûzrâ-s<i>e</i>ngh<i>a</i>unghô. Ou, « connaissant aussi ceux qui sont les enseignants de doctrines secrètes. » 
+[^687]: 154:4 Yaê<i>k</i>î<i>t</i> gûzrâ-s<i>e</i>ngh<i>a</i>unghô. Ou, « connaissant aussi ceux qui sont les enseignants de doctrines secrètes. » 
 
-[^688] : 154:5 Nous pouvons, avec un certain effort, relier thwâvãs à vaêdemnâi. Spe<i>n</i>tô vîdv<i>a</i>u, cependant, doit se référer à l'Ahurô immédiatement précédent, surtout au vu du tv<i>e</i>m vîdv<i>a</i>u, Ahurâ, du verset 2. 'Celui qui est comme Toi' pourrait même, comme dans d'autres cas, n'être qu'une manière oblique de rendre 'Toi-même' ; mais l'expression 'avec la compréhension de Vohu Manah' m'incite à rapporter le mot Thwâvãs au serviteur d'Ahura ; dans ce cas, cependant, cette dernière ligne doit bien sûr être tirée au verset 4, bien qu'elle ne soit pas mécaniquement séparée du verset 3. 
+[^688]: 154:5 Nous pouvons, avec un certain effort, relier thwâvãs à vaêdemnâi. Spe<i>n</i>tô vîdv<i>a</i>u, cependant, doit se référer à l'Ahurô immédiatement précédent, surtout au vu du tv<i>e</i>m vîdv<i>a</i>u, Ahurâ, du verset 2. 'Celui qui est comme Toi' pourrait même, comme dans d'autres cas, n'être qu'une manière oblique de rendre 'Toi-même' ; mais l'expression 'avec la compréhension de Vohu Manah' m'incite à rapporter le mot Thwâvãs au serviteur d'Ahura ; dans ce cas, cependant, cette dernière ligne doit bien sûr être tirée au verset 4, bien qu'elle ne soit pas mécaniquement séparée du verset 3. 
 
 [^689]: 155:1 Voir le verset 2. 
 

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## TRISTE DAR. CHAPITRE LI.
 
-1. Le cinquante et unième sujet est le suivant : il incombe à chacun d’envoyer son enfant à l’école et de lui apprendre quelque chose. 2. Car tout devoir et toute bonne œuvre qu’un enfant accomplit sont comme si son père et sa mère les avaient accomplis de leurs propres mains. 3. Il est donc nécessaire de s’efforcer de leur enseigner quelque chose de bon et de les sensibiliser aux bonnes œuvres et au péché ; car ils agissent ainsi pour leur propre bien, afin que ces enfants soient courageux dans les bonnes œuvres.
+1\. Le cinquante et unième sujet est le suivant : il incombe à chacun d’envoyer son enfant à l’école et de lui apprendre quelque chose. 2. Car tout devoir et toute bonne œuvre qu’un enfant accomplit sont comme si son père et sa mère les avaient accomplis de leurs propres mains. 3. Il est donc nécessaire de s’efforcer de leur enseigner quelque chose de bon et de les sensibiliser aux bonnes œuvres et au péché ; car ils agissent ainsi pour leur propre bien, afin que ces enfants soient courageux dans les bonnes œuvres.
 
 4 [^1]. S'ils ne sont pas instruits, ils accomplissent moins de devoirs et de bonnes œuvres, et moins de bienfaits atteignent les âmes du père et de la mère. 5. Et il arrive aussi que s'ils n'envoient pas leurs enfants à l'école et ne leur enseignent rien, et qu'ils s'enhardissent à commettre le péché, ce péché [^2] se fixe sur le cou du père et de la mère.
 

@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^2]: (269:4) Dk. a « les anciens des sages ».
 
-[^3] : (269:5) NSP. ajoute "des hommes".
+[^3]: (269:5) NSP. ajoute "des hommes".
 
 [^4]: (270:1) Dk. a 'qui est désigné et', etc.
 
@@ -96,11 +96,11 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^8]: (270:5) L'archange féminin, qui est une personnification d'Av. spe<i>n</i>ta ârmaiti, et a la charge spéciale de la terre et des femmes vertueuses (voir Bd. I, 26, Sls. XV, 20-24).
 
-[^9] : (270 : 6) Ici écrit Tarokmatŏ (Av. taromaiti) ; il est l'archi-démon de la désobéissance, aussi appelé Nâûnghas (voir Bd. XXVIII, 14, XXX, 29).
+[^9]: (270 : 6) Ici écrit Tarokmatŏ (Av. taromaiti) ; il est l'archi-démon de la désobéissance, aussi appelé Nâûnghas (voir Bd. XXVIII, 14, XXX, 29).
 
 [^10]: (270:7) Av. areta, titre de l'ange féminin Arshi<i>s</i>ang ou Ashi<i>s</i>ang (Av. ashi<i>s</i> vanguhi, 'bonne rectitude'), dont le nom est donné au 25e jour du mois parsi (voir Bd. XXII, 4, XXVII, 24, Sls. XXII, 25, XXIII, 4).
 
-[^11] : (270 : 8) Av. varena, « désir », personnifié comme un démon (voir Bd. XXVIII, 25).
+[^11]: (270 : 8) Av. varena, « désir », personnifié comme un démon (voir Bd. XXVIII, 25).
 
 [^12]: (270:9) Av. daêna personnifié comme un ange dont le nom est donné au dixième mois et au 24e jour du mois de l'année parsie, et est également associé aux noms d'autres anges pour former des appellations p. 271 pour les 8e, 15e et 23e jours (voir Bd. XXV, 3, r 1, 20, Sls. XXII, 8, 15, 23, 24, XXIII, 4). Dk. omet l'épithète « bon ».
 
@@ -176,12 +176,12 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^48]: (275:4) Lecture de mûn, comme dans M14 et J, au lieu de amat, 'quand', (voir Chap. LXII, 4 n.)
 
-[^49]: (276:1) Voir [p. 3](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_1#p3), note 2.
+[^49]: (276:1) Voir [p. 3](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_1#p3), note 2.
 
 [^50]: (276:2) Les deux provinces du sud de la Perse, limitrophes du golfe Persique.
 
 [^51]: (276:3) Ce titre semble toujours orthographié en pahlavi avec â en syllabe médiane, de sorte que la forme framaDHâr dans Geschichte der Perser and Araber zur Zeit der Sasaniden de Nŏldeke, p. 9, doit être considérée comme une corruption arabe, et l'idée qu'elle signifie « un prédécesseur ou celui qui a la préséance » est difficilement soutenable. Il signifie probablement farmâî<i>d</i>âr, « un directeur ou un commandant », et non dans un sens militaire. On le retrouve également dans le livre XXXIII, 2, où le titre « un grand farmâ<i>d</i>âr » est évidemment équivalent à « premier ministre, ou grand vazîr », mais appliqué à un prêtre, comme farmâ<i>d</i>âr ici et au chap. XLV, 5.
 
-[^52] : (276:4) Lecture de râs, comme dans M14, au lieu de ra, qui est simplement un imparfait. Cette proposition de la phrase est une légère modification d'une citation bien connue (qui serait tirée de la partie perdue du Hâdôkht Nask) souvent utilisée dans les péroraisons.
+[^52]: (276:4) Lecture de râs, comme dans M14, au lieu de ra, qui est simplement un imparfait. Cette proposition de la phrase est une légère modification d'une citation bien connue (qui serait tirée de la partie perdue du Hâdôkht Nask) souvent utilisée dans les péroraisons.
 
 [^53]: (276:5) Ou « qui s'acquitte de son devoir et accomplira ainsi son devoir ».

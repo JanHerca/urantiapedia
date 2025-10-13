@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 4\. Así como ella sabe que _es_ la menstruación, en el lugar _en el que se encuentra_ para el propósito [^4], primero debe quitarse el collar, luego los aretes, luego el tocado (<i>k</i>ambar), y luego las _vestiduras_ exteriores (<i>g</i>âmak). 5. Cuando se encuentra en el lugar en el que se encuentra para el propósito, aunque pueda permanecer mucho tiempo para ese propósito, aun así, las _vestiduras_ exteriores están limpias, _y no hay_ necesidad de cubrirse ni de zapatos de cuero [^5].
 
-6\. Cuando sepa con certeza (aêvar) que _es_ la menstruación, hasta el cambio completo (gûharî<i>d</i>anŏ) de todas sus _vestiduras_, y se haya _sentado_ en el lugar de la menstruación [^6], se debe retener una oración interiormente [^7]. 7. Cuando se celebra el culto, se debe retener una oración interiormente [^8], y si llega la menstruación, la debe recitar en voz alta. 8. Cuando al recitar la oración llega la menstruación, tanto después, cuando el momento era seguro (a<i>v</i>îgûmân), como ahora _ella_ está segura [^9]. 9. Cuando ella retiene una oración _internamente_ y surge un llamado de la naturaleza, no hay necesidad de que ella diga _en voz alta_ la oración, porque la fórmula para el llamado debe ser dicha por ella [^10].
+6\. Cuando sepa con certeza (aêvar) que _es_ la menstruación, hasta el cambio completo (gûharî<i>d</i>anŏ) de todas sus _vestiduras_, y se haya _sentado_ en el lugar de la menstruación [^6], se debe retener una oración interiormente [^7]. 7. Cuando se celebra el culto, se debe retener <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> una oración interiormente [^8], y si llega la menstruación, la debe recitar en voz alta. 8. Cuando al recitar la oración llega la menstruación, tanto después, cuando el momento era seguro (a<i>v</i>îgûmân), como ahora _ella_ está segura [^9]. 9. Cuando ella retiene una oración _internamente_ y surge un llamado de la naturaleza, no hay necesidad de que ella diga _en voz alta_ la oración, porque la fórmula para el llamado debe ser dicha por ella [^10].
 
 10\. Las manos rociadas en la ablución ceremonial (pâ<i>d</i>îyâ<i>v</i>), cuando una mujer menstruante las ve, se vuelven completamente impuras (apâ<i>d</i>îyâ<i>v</i>) por su mirada [^11], e incluso cuando mira apresuradamente y no ve las ramitas sagradas (baresôm), es lo mismo. 11. Y _sobre_ el tema de una casa (khânak-1 babâ), cuando una _mujer menstruante_ está arriba _en_ ​​ella, y las ramitas sagradas <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> si están justo debajo, incluso quince escalones más abajo, incluso entonces las ramitas _sagradas_ son impuras (apâ<i>d</i>îyâ<i>v</i>) [^12]; pero cuando no están justo _debajo_, quince escalones son suficientes.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 15\. Una mujer que ha dado a luz o ha abortado (nasâî) durante cuarenta días, ve siempre que está impura; pero cuando sabe con certeza que está libre de menstruación, debe, entonces, asociarse con el entretanto (vadas), a partir de los cuarenta días [^17]; pero cuando sabe con certeza que hay algo de ello, debe ser considerada como menstruante.
 
-16. Una mujer menstruante, cuando ha permanecido un mes en estado de menstruación y queda limpia al trigésimo día, y al mismo tiempo vuelve a menstruar, su agotamiento (tîhîk) se extiende desde el inicio, y no se permite lavarse hasta el quinto día. 17. Y cuando se haya lavado de la menstruación, y haya permanecido tres días en estado de pureza, y vuelva a menstruar como al principio, deberá observar cuatro días, y el quinto día es para lavarse [^18]. 18. Cuando haya quedado libre <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> a partir de la segunda menstruación no está limpia _durante_ nueve días y nueve noches,—estos días _y_ noches son para vigilia,—_y_ luego _ella_ debe ser lavada; cuando se completen los nueve días _y_ noches, en el mismo día el lavado es bueno [^19].
+16\. Una mujer menstruante, cuando ha permanecido un mes en estado de menstruación y queda limpia al trigésimo día, y al mismo tiempo vuelve a menstruar, su agotamiento (tîhîk) se extiende desde el inicio, y no se permite lavarse hasta el quinto día. 17. Y cuando se haya lavado de la menstruación, y haya permanecido tres días en estado de pureza, y vuelva a menstruar como al principio, deberá observar cuatro días, y el quinto día es para lavarse [^18]. 18. Cuando haya quedado libre <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> a partir de la segunda menstruación no está limpia _durante_ nueve días y nueve noches,—estos días _y_ noches son para vigilia,—_y_ luego _ella_ debe ser lavada; cuando se completen los nueve días _y_ noches, en el mismo día el lavado es bueno [^19].
 
 19\. De la leucorrea (<i>k</i>îharak) [^20], cuando _ha_ cambiado completamente de color, la que aparece antes _y_ también la que aparece después de la menstruación, la contaminación es igual a la _de la_ menstruación.
 
@@ -102,13 +102,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^3]: (277:1) Los §§ 2 y 3 son simplemente corolarios del § 1.
 
-[^4]: (277:2) O, posiblemente, 'en el lugar donde _ella_ se encuentra en la ocasión'; aunque parecería del § 5 que el lugar al que se hace referencia es el dashtânistân, o lugar de retiro para los impuros.
+[^4]: (277:2) O, posiblemente, «en el lugar donde _ella_ se encuentra en la ocasión»; aunque parecería del § 5 que el lugar al que se hace referencia es el dashtânistân, o lugar de retiro para los impuros.
 
-[^5]: (277:3) Se lee ma<i>s</i>k va <i>s</i>almîhâ, pero tanto la lectura como el significado son dudosos. La primera palabra podría ser mu<i>s</i>kŏ, 'almizcle', y la otra podría leerse sharmgâh; sin embargo, de ser así, la construcción de la oración es defectuosa, tal como aparece en los manuscritos.
+[^5]: (277:3) Se lee ma<i>s</i>k va <i>s</i>almîhâ, pero tanto la lectura como el significado son dudosos. La primera palabra podría ser mu<i>s</i>kŏ, «almizcle», y la otra podría leerse sharmgâh; sin embargo, de ser así, la construcción de la oración es defectuosa, tal como aparece en los manuscritos.
 
 [^6]: (277:4) El dashtânistân, una habitación o celda incómoda provista en cada casa parsi para que las personas impuras se retiren allí, donde no pueden ver ni el sol, la luna, las estrellas, el fuego, el agua, los vasos sagrados ni a los hombres justos; debe estar a quince pasos (39½ pies) del fuego, p. 278 del agua y las ramitas sagradas, y a tres pasos (8 pies) de los hombres justos (ver § 33 y Vend. XVI, 1-10).
 
-[^7]: (278:1) Este tipo de oración (vâ<i>k</i>, 'palabra o frase', vâ<i>g</i> pahl., bâ<i>z</i> pers.) es una fórmula breve, cuyo comienzo debe murmurarse en un susurro o (según el idioma pahlavi) debe retenerse internamente (como protección al comer, rezar o realizar otros actos necesarios) absteniéndose estrictamente de toda conversación, hasta la finalización del acto, cuando la oración o vâ<i>g</i> debe pronunciarse en voz alta, y la persona es entonces libre de expresarse como desee. Se utilizan diferentes fórmulas en diferentes ocasiones.
+[^7]: (278:1) Este tipo de oración (vâ<i>k</i>, «palabra o frase», vâ<i>g</i> pahl., bâ<i>z</i> pers.) es una fórmula breve, cuyo comienzo debe murmurarse en un susurro o (según el idioma pahlavi) debe retenerse internamente (como protección al comer, rezar o realizar otros actos necesarios) absteniéndose estrictamente de toda conversación, hasta la finalización del acto, cuando la oración o vâ<i>g</i> debe pronunciarse en voz alta, y la persona es entonces libre de expresarse como desee. Se utilizan diferentes fórmulas en diferentes ocasiones.
 
 [^8]: (278:2) K20 dice: «ella retiene una oración». Véase Pahl. Vend, XVI, 5.
 
@@ -120,9 +120,9 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^12]: (279:1) Pahl. Vend. XVI, 10 dice: «Todo es apropiado cuando se encuentra a la distancia correcta, excepto en ese caso, cuando la impureza está arriba y la pureza también justo debajo; aunque esté muy por debajo, no es apropiado». En tal caso, la distancia prescrita de quince escalones no es suficiente; por lo tanto, el dashtânistân debe estar en la planta baja, no sobre un aljibe subterráneo ni a quince escalones del agua de dicho aljibe.
 
-[^13]: (279:2) O, posiblemente, ham nê<i>s</i>man puede significar 'una mujer de compañía', cuando dos o más están recluidas al mismo tiempo. Pahl. Vend. XVI, 17 dice: 'la comida que entrega una mujer menstruante no sirve de nada, no es apropiada; en partes libres de contaminación (gavî<i>d</i><i>v</i>a<i>s</i>nŏ), en esas tampoco es apropiada'; sin embargo, la lectura gavî<i>d</i><i>v</i>a<i>s</i>nŏ (propuesta por Dastûr Hoshangji) es dudosa.
+[^13]: (279:2) O, posiblemente, ham nê<i>s</i>man puede significar «una mujer de compañía», cuando dos o más están recluidas al mismo tiempo. Pahl. Vend. XVI, 17 dice: «la comida que entrega una mujer menstruante no sirve de nada, no es apropiada; en partes libres de contaminación (gavî<i>d</i><i>v</i>a<i>s</i>nŏ), en esas tampoco es apropiada»; sin embargo, la lectura gavî<i>d</i><i>v</i>a<i>s</i>nŏ (propuesta por Dastûr Hoshangji) es dudosa.
 
-[^14]: (279:3) O 'ropa', vistarg.
+[^14]: (279:3) O «ropa», vistarg.
 
 [^15]: (279:4) Véase Cap. I, 3.
 
@@ -136,17 +136,17 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^20]: (281:2) Av. <i>k</i>ithra, véase la explicación de <i>k</i>îharak-hômand (Av. <i>k</i>ithravan<i>d</i>) en Pahl. Vend. XVI, 1, 34.
 
-[^21]: (281:3) Dastûr Jâmâspji lee val bavan-i âtâsh, 'a la parte del fuego'. De lo que sigue, parecería dudoso que esta aproximación distante al fuego sea permisible hasta que esté lista para lavarse.
+[^21]: (281:3) Dastûr Jâmâspji lee val bavan-i âtâsh, «a la parte del fuego». De lo que sigue, parecería dudoso que esta aproximación distante al fuego sea permisible hasta que esté lista para lavarse.
 
 [^22]: (281:4) Véase § 6, nota.
 
-[^23]: (281:5) O, 'sube desde el lugar de la menstruación'.
+[^23]: (281:5) O, «sube desde el lugar de la menstruación».
 
-[^24]: (282:1) Literalmente, 'hay _uno_ que dice así'.
+[^24]: (282:1) Literalmente, «hay _uno_ que dice así».
 
 [^25]: (282:2) Véase Cap. II, 65.
 
-[^26]: (282:3) Leyendo aî<i>s</i> en lugar de adîna<i>s</i>, 'entonces para él'.
+[^26]: (282:3) Leyendo aî<i>s</i> en lugar de adîna<i>s</i>, «entonces para él».
 
 [^27]: (282:4) Es decir, el pecado es un Khôr (ver Cap. I, 2).
 
@@ -154,7 +154,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^29]: (282:6) Véase Cap. I, 2. Que era pecado para ella mirar el fuego, incluso en tiempos del Avesta, aparece en Vend. XVI, 8.
 
-[^30]: (282:7) Literalmente, 'sobre el cuerpo del fuego'.
+[^30]: (282:7) Literalmente, «sobre el cuerpo del fuego».
 
 [^31]: (282:8) Que libû<i>s</i>yâ significa «cenizas» aparece en Pahl. Vend. V, 150; literalmente es Huzvâri<i>s</i>, que significa «vestidura o cobertura», y se usa así en Pahl. Vend. VI, 106, VII, 122. Metafóricamente, las cenizas son la vestimenta del fuego.
 
@@ -162,15 +162,15 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^33]: (283:1) La diablesa <i>G</i>êh (véase Bund. III, 3-9).
 
-[^34]: (283:2) Por khânak, 'casa, morada', debe entenderse aquí simplemente el lugar de reclusión de la mujer. K20 inserta âtâ<i>s</i> dên después de mûn, lo que permite (asumiendo otra preposición) traducir de la siguiente manera: 'En cuanto a una casa en la que hay un fuego, el fuego en esa casa no debe ser encendido por una mujer menstruante'.
+[^34]: (283:2) Por khânak, «casa, morada», debe entenderse aquí simplemente el lugar de reclusión de la mujer. K20 inserta âtâ<i>s</i> dên después de mûn, lo que permite (asumiendo otra preposición) traducir de la siguiente manera: «En cuanto a una casa en la que hay un fuego, el fuego en esa casa no debe ser encendido por una mujer menstruante».
 
 [^35]: (283:3) Véase § 12.
 
 [^36]: (283:4) Apto para uso nuevo.
 
-[^37]: (283:5) Quizás deberíamos leer _'ella'_ a lo largo de esta sección, ya que una mujer puede realizar estos ritos entre mujeres (ver Cap. X, 35).
+[^37]: (283:5) Quizás deberíamos leer _«ella»_ a lo largo de esta sección, ya que una mujer puede realizar estos ritos entre mujeres (ver Cap. X, 35).
 
-[^38]: (283:6) El drôn (Av. draona, desvirtuado en drûn o darûn por los escritores de Pâz. p. 284) es una pequeña torta redonda o oblea de pan sin levadura, del tamaño aproximado de la palma de la mano. Está hecha de harina de trigo y agua, con un poco de mantequilla clarificada, y es flexible. Un drôn se convierte en un frasast marcándolo en un lado, antes de freírlo, con nueve cortes superficiales (en tres filas de tres cada una) hechos con la uña mientras se repiten tres veces las palabras humat hûkht huvar<i>s</i>t, 'bien pensado, bien dicho, bien hecho', una palabra por cada uno de los nueve cortes. Cualquier drôn o frasast que se rompa no debe usarse en ninguna ceremonia. En la ceremonia del drôn, el sacerdote coloca dos drôns por separado sobre una mesa muy baja, a su izquierda. El más cercano contiene un pequeño trozo de mantequilla (gâu<i>s</i> hudh<i>a</i>u); dos frasasts se colocan de forma similar a su derecha; el más alejado contiene una ramita de granado (urvarãm); y entre este y el drôn más alejado se coloca un huevo. La ramita sagrada (baresôm) también debe estar presente en su soporte a la izquierda del sacerdote, y una lámpara o fuego debe estar frente a él, al otro lado de la mesa. El sacerdote recita una fórmula de consagración (principalmente Yas. III, 1-VIII, 9), durante la cual eleva las ramitas sagradas y menciona el nombre del ángel o del espíritu guardián del difunto, en cuyo honor se realiza la ceremonia. Después de la consagración, el sacerdote oficiante rompe trozos de los drôns, que son comidos por él mismo y por los presentes, empezando por los sacerdotes (véase Ensayos de Haug, págs. 396, 407, 408, AV. pág. 147).
+[^38]: (283:6) El drôn (Av. draona, desvirtuado en drûn o darûn por los escritores de Pâz. p. 284) es una pequeña torta redonda o oblea de pan sin levadura, del tamaño aproximado de la palma de la mano. Está hecha de harina de trigo y agua, con un poco de mantequilla clarificada, y es flexible. Un drôn se convierte en un frasast marcándolo en un lado, antes de freírlo, con nueve cortes superficiales (en tres filas de tres cada una) hechos con la uña mientras se repiten tres veces las palabras humat hûkht huvar<i>s</i>t, «bien pensado, bien dicho, bien hecho», una palabra por cada uno de los nueve cortes. Cualquier drôn o frasast que se rompa no debe usarse en ninguna ceremonia. En la ceremonia del drôn, el sacerdote coloca dos drôns por separado sobre una mesa muy baja, a su izquierda. El más cercano contiene un pequeño trozo de mantequilla (gâu<i>s</i> hudh<i>a</i>u); dos frasasts se colocan de forma similar a su derecha; el más alejado contiene una ramita de granado (urvarãm); y entre este y el drôn más alejado se coloca un huevo. La ramita sagrada (baresôm) también debe estar presente en su soporte a la izquierda del sacerdote, y una lámpara o fuego debe estar frente a él, al otro lado de la mesa. El sacerdote recita una fórmula de consagración (principalmente Yas. III, 1-VIII, 9), durante la cual eleva las ramitas sagradas y menciona el nombre del ángel o del espíritu guardián del difunto, en cuyo honor se realiza la ceremonia. Después de la consagración, el sacerdote oficiante rompe trozos de los drôns, que son comidos por él mismo y por los presentes, empezando por los sacerdotes (véase Ensayos de Haug, págs. 396, 407, 408, AV. pág. 147).
 
 [^39]: (284:1) El baresôm (av. baresma) consiste en varias varas delgadas o tâî (pahl. tâk), que antiguamente eran ramitas de ciertos árboles, pero ahora se suelen usar finos alambres metálicos. El número de estas ramitas varía según la naturaleza de la ceremonia, pero suele ser de cinco a treinta y tres. Estas ramitas se colocan sobre las puntas en forma de medialuna de dos soportes metálicos adyacentes, cada uno llamado mâh-rû (cara de luna), y juntos forman el baresôm-dân o soporte de ramitas. El baresôm se prepara para los ritos sagrados mediante la recitación de ciertas oraciones por el sacerdote oficiante, durante las cuales lava las ramitas con agua y las ata con un kûstîk o cinturón formado por seis cintas similares a hilos, cortadas de una hoja de palmera datilera y retorcidas entre sí; este cinturón, que se pasa dos veces alrededor de las ramitas, se asegura con un nudo a derecha e izquierda en un lado, y luego se pasa una tercera vez y se asegura con un doble nudo similar en el otro lado, exactamente como el kûstîk o cinturón de hilo sagrado se asegura alrededor de la cintura de un hombre o una mujer parsi (ver Ensayos de Haug, págs. 396-399).
 

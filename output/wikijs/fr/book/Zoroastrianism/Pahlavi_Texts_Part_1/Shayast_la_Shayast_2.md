@@ -50,27 +50,27 @@ dateCreated: 2025-10-10T14:56:40Z
 
 18\. Si quelqu'un meurt sur un toit-terrasse (bân) [^31], lorsqu'un de ses membres, ou un cheveu, reste au bord du toit, le toit est souillé _pour_ la taille du corps jusqu'à l'eau ; et ils doivent descendre toutes les brindilles _sacrées_ (baresôm) [^32] de la maison, depuis l'endroit où se trouve la souillure, jusqu'à ce qu'il y ait trente marches de trois pieds [^33] jusqu'aux brindilles _sacrées_, afin que les brindilles _sacrées_ ne soient pas souillées ; et lorsque ses cheveux ou son membre n'ont pas atteint l'avant-toit (parakân), le toit est souillé jusqu'en bas (tôhîk). 19. Et quand quelqu'un meurt sur un rîtâ [^34], il est souillé <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> _pour_ la taille du corps jusqu'à l'eau ; _en_ ​​la durée d'une année, il deviendra propre _avec_ le sol. 20. Un pont construit est _responsable_ tout comme un toit-terrasse. 21. Quand _quelqu'un_ meurt sur le toit-terrasse d'un appartement grillagé (varam), celui-ci est également _responsable_ tout comme un toit-terrasse. 22. Quand il meurt dans un appartement grillagé, si un de ses membres, ou un cheveu, ne reste pas sur les bords (parakân), cela ne transporte pas la pollution vers le bas, mais si _quelqu'un_ de lui reste derrière, cela la transporte vers le bas ; c'est permis lorsqu'ils le déterrent [^35], et _qu'on_ le répand également à nouveau ensuite, et il_ est pur.
 
-23. Si quelqu'un meurt étranglé et pris d'une corde au milieu d'une foule, s'il n'y a aucune crainte de chute, on ne le portera pas ; et s'il y a crainte de chute, si cette crainte concerne un seul côté, on le portera de ce côté ; et s'il est tombé, on le portera à l'endroit même où il est tombé. 24. Si quelqu'un est assis et meurt, s'il y a crainte de chute d'un côté, on le portera de ce côté-là, et s'il y a crainte des quatre côtés, on le portera des quatre côtés ; et s'il est tombé, on le portera à l'endroit même où il est tombé [^36].
+23\. Si quelqu'un meurt étranglé et pris d'une corde au milieu d'une foule, s'il n'y a aucune crainte de chute, on ne le portera pas ; et s'il y a crainte de chute, si cette crainte concerne un seul côté, on le portera de ce côté ; et s'il est tombé, on le portera à l'endroit même où il est tombé. 24. Si quelqu'un est assis et meurt, s'il y a crainte de chute d'un côté, on le portera de ce côté-là, et s'il y a crainte des quatre côtés, on le portera des quatre côtés ; et s'il est tombé, on le portera à l'endroit même où il est tombé [^36].
 
-25. Et quand quelqu'un meurt sur un arbre, dont l'écorce est verte et qu'il n'y a pas de crainte de tomber, ils ne le porteront pas en bas ; et s'il y a crainte, ils porteront tout le corps (tanû masâî). 26. Et quand l'écorce de l'arbre est sèche, s'il y a crainte et s'il n'y a pas de crainte, ils le porteront en bas. 27. Quand il meurt sur une branche d'arbre verte, s'il n'y a pas de crainte de tomber, ils ne le porteront pas en bas. 28. Et s'il y a crainte, ou s'il s'agit d'une branche d'arbre desséché, ou si un cheveu ou un membre provenant de lui reste sur l'arbre en question, ils doivent faire descendre le corps entier [^37]. 29. Et s'il ne reste pas sur l'arbre en question, mais qu'il y a crainte de le voir tomber, ils ne doivent pas le faire descendre (vad frô<i>d</i>) [^38].
+25\. Et quand quelqu'un meurt sur un arbre, dont l'écorce <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> est verte et qu'il n'y a pas de crainte de tomber, ils ne le porteront pas en bas ; et s'il y a crainte, ils porteront tout le corps (tanû masâî). 26. Et quand l'écorce de l'arbre est sèche, s'il y a crainte et s'il n'y a pas de crainte, ils le porteront en bas. 27. Quand il meurt sur une branche d'arbre verte, s'il n'y a pas de crainte de tomber, ils ne le porteront pas en bas. 28. Et s'il y a crainte, ou s'il s'agit d'une branche d'arbre desséché, ou si un cheveu ou un membre provenant de lui reste sur l'arbre en question, ils doivent faire descendre le corps entier [^37]. 29. Et s'il ne reste pas sur l'arbre en question, mais qu'il y a crainte de le voir tomber, ils ne doivent pas le faire descendre (vad frô<i>d</i>) [^38].
 
-30\. Lorsqu'un cadavre (nasâî-1) [^39], de l'extérieur, reste sur une jarre (khûmbŏ) dans laquelle il peut y avoir du vin, la jarre est souillée, et le vin est pur. 31. Et si quelqu'un meurt à l'intérieur, dans le vin de la jarre, s'il ne reste pas un cheveu ou une boucle provenant de lui sur la jarre, le vin est souillé et la jarre n'est pas souillée [^40]. 32. Lorsqu'il s'agit d'une jarre dans laquelle il y a de l'huile [^41], et qu'une matière morte (nasâî), de l'extérieur, reste sur elle, c'est comme si elle restait à l'intérieur, car l'huile sort et retourne à l'intérieur, et tous deux sont souillés, la jarre et l'huile ; et même en séchant le pot [^42] il n'est pas propre à y mettre quoi que ce soit.
+30\. Lorsqu'un cadavre (nasâî-1) [^39], de l'extérieur, reste sur une jarre (khûmbŏ) dans laquelle il peut y avoir du vin, la jarre est souillée, et le vin est pur. 31. Et si quelqu'un meurt à l'intérieur, dans le vin de la jarre, s'il ne reste pas un cheveu ou une boucle provenant de lui sur la jarre, le vin est souillé et la jarre n'est pas souillée [^40]. 32. Lorsqu'il s'agit <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> d'une jarre dans laquelle il y a de l'huile [^41], et qu'une matière morte (nasâî), de l'extérieur, reste sur elle, c'est comme si elle restait à l'intérieur, car l'huile sort et retourne à l'intérieur, et tous deux sont souillés, la jarre et l'huile ; et même en séchant le pot [^42] il n'est pas propre à y mettre quoi que ce soit.
 
-33. Lorsqu'un serpent (gar<i>z</i>ak) se trouve dans une jarre contenant du vin, les deux sont inutiles et souillés, car cela les rend souillés (pa<i>d</i>vîshak). 34. Et lorsqu'il y a du grain dedans, la jarre est souillée et le grain pur ; et lorsque rien provenant du serpent à l'intérieur de la jarre ne reste sur la jarre, la quantité de grain qui contient le serpent et sur laquelle le contact (mâli<i>s</i>n) du serpent a porté – car le contact de la semence du serpent pourrait entraîner la mort – doit être retirée et jetée. 35. Et lorsque des cheveux ou des matières mortes, même ne provenant pas du serpent, restent sur la jarre, la jarre est souillée, mais peut servir (shâya<i>d</i>) en la séchant [^43].
+33\. Lorsqu'un serpent (gar<i>z</i>ak) se trouve dans une jarre contenant du vin, les deux sont inutiles et souillés, car cela les rend souillés (pa<i>d</i>vîshak). 34. Et lorsqu'il y a du grain dedans, la jarre est souillée et le grain pur ; et lorsque rien provenant du serpent à l'intérieur de la jarre ne reste sur la jarre, la quantité de grain qui contient le serpent et sur laquelle le contact (mâli<i>s</i>n) du serpent a porté – car le contact de la semence du serpent pourrait entraîner la mort – doit être retirée et jetée. 35. Et lorsque des cheveux ou des matières mortes, même ne provenant pas du serpent, restent sur la jarre, la jarre est souillée, mais peut servir (shâya<i>d</i>) en la séchant [^43].
 
 36\. La brique, la terre et le mortier sont séparés par <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> leur propre substance (pavan mindavam-i naf<i>s</i>man), et sont liés au sol ; étant séparés par leur propre substance, cela signifie que tout espace sur lequel tombe de la matière morte [^44] est pollué ; étant liés au sol, cela signifie qu'ils transmettraient la pollution jusqu'à l'eau. 37. Le fumier, les cendres, la farine et autres poudres sont liés à leur propre substance et sont séparés du sol ; étant liés à leur propre substance, cela signifie que lorsque de la matière morte les atteint, ils sont entièrement pollués ; et étant séparés du sol, cela signifie que lorsque de la matière morte les atteint, le sol n'est pas pollué [^45].
 
-38\. _Dans_ une maison _où_ la cérémonie _sacrée_ (ya<i>z</i>i<i>s</i>n) est préparée, et qu'un chien ou une personne y décède [^46], la première chose à faire est de préserver le feu de tout danger ; de plus, s'il est seulement possible de transporter le feu de manière à ce qu'il soit emporté à trois pas du cadavre [^47], même alors il doit être emporté, _et_ le mur ne doit pas être coupé. 39. Rôshan [^48] a dit qu'un mur de terre doit être coupé, _mais_ un mur de mortier ne doit pas être coupé ; en bas et en haut, on ne tient pas compte des dommages (bo<i>d</i>ôzê<i>d</i>îh) [^49] causés au mur [^50]. 40. Amener le feu à [^51] moins de trois pas du cadavre est un péché Tanâpûhar ; et lorsqu'une exsudation se produit sur le cadavre, elle est digne de mort [^52]. 41. La nourriture préparée dans cette maison est toute inutile, et ce qui n'est pas préparé est utilisable pendant neuf nuits <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> _ou_ un mois [^53]. 42. Les vêtements aussi _de la même manière, sauf ceux que l'on porte sur le corps ; cela, même pendant ce temps, n'est pas propre, puisqu'il reste en usage. 43. Et l'eau bénite (zôhar) [^54], aussi, qui est prise et reste _dans_ ce lieu, doit être emportée immédiatement vers l'eau; aussi le lait sacré (<i>g</i>îv) [^55] _et_ le beurre (<i>g</i>um) [^56] _de_ la même manière. 44. Du vêtement de prière [^57] Vand-Aûharmazd [^58] a dit qu'il est utilisable pendant la durée de neuf nuits _ou_ d'un mois, l'écrivain [^59] (dapîr) a dit que c'est lorsqu'ils effectuent le lavage des mains, et les lavent _complètement_, qu'il deviendra propre à ce moment-là.
+38\. _Dans_ une maison _où_ la cérémonie _sacrée_ (ya<i>z</i>i<i>s</i>n) est préparée, et qu'un chien ou une personne y décède [^46], la première chose à faire est de préserver le feu de tout danger ; de plus, s'il est seulement possible de transporter le feu de manière à ce qu'il soit emporté à trois pas du cadavre [^47], même alors il doit être emporté, _et_ le <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> mur ne doit pas être coupé. 39. Rôshan [^48] a dit qu'un mur de terre doit être coupé, _mais_ un mur de mortier ne doit pas être coupé ; en bas et en haut, on ne tient pas compte des dommages (bo<i>d</i>ôzê<i>d</i>îh) [^49] causés au mur [^50]. 40. Amener le feu à [^51] moins de trois pas du cadavre est un péché Tanâpûhar ; et lorsqu'une exsudation se produit sur le cadavre, elle est digne de mort [^52]. 41. La nourriture préparée dans cette maison est toute inutile, et ce qui n'est pas préparé est utilisable pendant neuf nuits <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> _ou_ un mois [^53]. 42. Les vêtements aussi _de_ la même manière, sauf ceux que l'on porte sur le corps ; cela, même pendant ce temps, n'est pas propre, puisqu'il reste en usage. 43. Et l'eau bénite (zôhar) [^54], aussi, qui est prise et reste _dans_ ce lieu, doit être emportée immédiatement vers l'eau; aussi le lait sacré (<i>g</i>îv) [^55] _et_ le beurre (<i>g</i>um) [^56] _de_ la même manière. 44. Du vêtement de prière [^57] Vand-Aûharmazd [^58] a dit qu'il est utilisable pendant la durée de neuf nuits _ou_ d'un mois, l'écrivain [^59] (dapîr) a dit que c'est lorsqu'ils effectuent le lavage des mains, et les lavent _complètement_, qu'il deviendra propre à ce moment-là.
 
-45\. Si dans une maison il y a trois pièces (gun<i>g</i>înak), et qu'on meure dans l'entrée (dargâs), si c'est de manière à ce qu'on puisse ouvrir la porte, et que le cadavre arrive de ce côté, seul ce côté-là est souillé ; et si le cadavre arrive de ce côté-là, seul ce côté-là est souillé ; s'il arrive des deux côtés à la fois (aêvâ<i>k</i>), seule l'entrée est souillée, les deux pièces d'habitation (khânak) sont pures.
+45\. Si dans une maison il y a trois pièces (gun<i>g</i>înak), et qu'on meure dans l'entrée (dargâs), si c'est de manière à ce qu'on puisse ouvrir la porte, et que le cadavre arrive de ce côté, seul ce <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> côté-là est souillé ; et si le cadavre arrive de ce côté-là, seul ce côté-là est souillé ; s'il arrive des deux côtés à la fois (aêvâ<i>k</i>), seule l'entrée est souillée, les deux pièces d'habitation (khânak) sont pures.
 
 46\. Et la voûte des feux sacrés [^60] seule n'est pas polluée.
 
-47. Si quelqu'un meurt dans un endroit sauvage (va<i>s</i>kar), la nourriture préparée à moins de trois pas est inutile, et au-delà de quatre pas, elle n'est pas polluée. 48. Les aliments préparés sont les suivants : pain, viande bouillie ou rôtie, et bouillon préparé [^61].
+47\. Si quelqu'un meurt dans un endroit sauvage (va<i>s</i>kar), la nourriture préparée à moins de trois pas est inutile, et au-delà de quatre pas, elle n'est pas polluée. 48. Les aliments préparés sont les suivants : pain, viande bouillie ou rôtie, et bouillon préparé [^61].
 
 49\. Et les cendres (var) du feu sacré [^62] deviennent dans une certaine mesure polluées.
 
-50. S'ils introduisent le feu dans une maison où la durée de neuf nuits ou d'un mois est requise pour être purifiée, il y a un péché d'un Tanâpûhar [^63] pour l'introduire, et un Tanâpûhar pour l'allumer ; et chaque créature insignifiante (khûr ou khûl) qui meurt et reste cause un péché d'un Tanâpûhar. 51. De même, pour introduire de l'eau, il y a un péché d'un Farmân ; et verser de l'eau à l'endroit où la vie de quelqu'un s'éteint est un péché d'un Tanâpûhar, et en verser à un autre endroit est un péché d'un Yât. 52. Et à <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> faire ses ablutions [^64] à l'intérieur de la maison impure_ est toute non-ablution. 53. Et quiconque y entre inutilement, son corps et ses vêtements doivent être chaque fois soigneusement lavés, et son péché est un Tanâpûhar [^64] ; et lorsqu'il y entre par nécessité, ce n'est ni une bonne œuvre ni un péché [^65].
+50\. S'ils introduisent le feu dans une maison où la durée de neuf nuits ou d'un mois est requise pour être purifiée, il y a un péché d'un Tanâpûhar [^63] pour l'introduire, et un Tanâpûhar pour l'allumer ; et chaque créature insignifiante (khûr ou khûl) qui meurt et reste cause un péché d'un Tanâpûhar. 51. De même, pour introduire de l'eau, il y a un péché d'un Farmân ; et verser de l'eau à l'endroit où la vie de quelqu'un s'éteint est un péché d'un Tanâpûhar, et en verser à un autre endroit est un péché d'un Yât. 52. Et à <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> faire ses ablutions [^64] à l'intérieur de la maison impure_ est toute non-ablution. 53. Et quiconque y entre inutilement, son corps et ses vêtements doivent être chaque fois soigneusement lavés, et son péché est un Tanâpûhar [^64] ; et lorsqu'il y entre par nécessité, ce n'est ni une bonne œuvre ni un péché [^65].
 
 54\. Et cette pollution est toute dans le récit acerbe (tîkhak amâr) lorsque la vie s'en va [^66] ; la seule chose qui équivaut à polluer est le contact avec la chair, et même avec les cheveux et les ongles. 55. Du contact qui est mentionné dans l'Avesta [^67], le récit est qu'il se fait d'un seul côté, et qu'il s'attache toujours à un seul ; la malédiction (ga<i>z</i>i<i>s</i>n) [^68] qui est mentionnée dans l'Avesta avance des quatre côtés. 56. Sôshyans [^69] dit qu'elle est, jusqu'à son exposition à un chien, exactement comme elle le devient au moment où sa vie s'en va [^70] ; un prêtre, un <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> guerrier et un laboureur ne servent à rien, car seul un chien est mentionné. 57. Kûshtanŏ-bû<i>g</i>ê<i>d</i> [^71] a dit que le récit se déroule au moment où sa vie s'en va ; et ce que Kûshtanŏ-bû<i>g</i>ê<i>d</i> a dit spécialement est : « Quand quelque chose est à l'intérieur (du lieu), la pollution s'étend jusqu'à l'endroit où se trouve cette chose. » 58. Quand un chien, ou une chèvre, ou un cochon est requis (dârvâî) [^72], c'est approprié, car la pollution n'attaque pas plus loin ; et la pollution d'un enfant dans le ventre est avec la mère.
 
@@ -78,13 +78,13 @@ dateCreated: 2025-10-10T14:56:40Z
 
 <span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
-61. La pollution indirecte d'un singe [^77] et d'une femme menstruée, n'agissant pas de la même manière, demeure. 62. Le chien de berger, et de même le chien de village, et d'autres aussi du même genre portent la contamination à huit [^78] ; et lorsqu'ils portent le cadavre à terre, l'endroit [^79] est immédiatement propre ; et ce qui meurt sur un balcon (â<i>s</i>kûp), jusqu'à ce qu'ils le portent en bas, est souillé pour la durée d'une année.
+61\. La pollution indirecte d'un singe [^77] et d'une femme menstruée, n'agissant pas de la même manière, demeure. 62. Le chien de berger, et de même le chien de village, et d'autres aussi du même genre portent la contamination à huit [^78] ; et lorsqu'ils portent le cadavre à terre, l'endroit [^79] est immédiatement propre ; et ce qui meurt sur un balcon (â<i>s</i>kûp), jusqu'à ce qu'ils le portent en bas, est souillé pour la durée d'une année.
 
-63\. Quiconque apporte une matière morte (nasâî) sur une personne est digne de mort ; il est trois fois digne de mort [^80] au moment où un chien n'a pas vu le cadavre (nasâî) ; et si, par négligence des appareils et des moyens (<i>k</i>âr va tûbânŏ), il le dérange, et le dérange en le touchant, il sait que c'est un péché digne de mort ; et pour un cadavre qu'un chien a vu, et pour un cadavre qu'un chien n'a pas vu, la responsabilité doit être comprise comme étant la même [^81], et pour la mort et la maladie [^82] d'un homme faible et d'un homme puissant. 64. Afarg a dit qu'il n'y a aucun compte rendu des appareils et des moyens [^83], car il n'est pas permis de commettre un péché digne de mort dans les cas de décès et de maladie.
+63\. Quiconque apporte une matière morte (nasâî) sur une personne est digne de mort ; il est trois <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> fois digne de mort [^80] au moment où un chien n'a pas vu le cadavre (nasâî) ; et si, par négligence des appareils et des moyens (<i>k</i>âr va tûbânŏ), il le dérange, et le dérange en le touchant, il sait que c'est un péché digne de mort ; et pour un cadavre qu'un chien a vu, et pour un cadavre qu'un chien n'a pas vu, la responsabilité doit être comprise comme étant la même [^81], et pour la mort et la maladie [^82] d'un homme faible et d'un homme puissant. 64. Afarg a dit qu'il n'y a aucun compte rendu des appareils et des moyens [^83], car il n'est pas permis de commettre un péché digne de mort dans les cas de décès et de maladie.
 
-65. Lorsqu'ils déplacent un cadavre qu'un chien n'a pas vu avec mille hommes, même alors les corps de tous sont souillés [^84] et doivent être lavés pour eux avec cérémonie (pî<i>s</i>ak) [^85]. 66. Et pour ce qu'un chien a vu, sauf celui-là seulement, lorsqu'un homme le déplace entièrement [^86] en le touchant, son lavage ne doit alors pas être avec cérémonie. 67. Et lorsqu'il est en contact avec le cadavre et ne le déplace pas, il doit être lavé avec de l'urine de taureau et de l'eau. 68. Et <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> lorsqu'il déplacera avec un pieu (dâr) [^87] un cadavre qu'un chien n'a pas vu, sauf celui-là seul, lorsqu'il déplacera le tout, le lavage pour lui ne doit pas être cérémonieux.
+65\. Lorsqu'ils déplacent un cadavre qu'un chien n'a pas vu avec mille hommes, même alors les corps de tous sont souillés [^84] et doivent être lavés pour eux avec cérémonie (pî<i>s</i>ak) [^85]. 66. Et pour ce qu'un chien a vu, sauf celui-là seulement, lorsqu'un homme le déplace entièrement [^86] en le touchant, son lavage ne doit alors pas être avec cérémonie. 67. Et lorsqu'il est en contact avec le cadavre et ne le déplace pas, il doit être lavé avec de l'urine de taureau et de l'eau. 68. Et <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> lorsqu'il déplacera avec un pieu (dâr) [^87] un cadavre qu'un chien n'a pas vu, sauf celui-là seul, lorsqu'il déplacera le tout, le lavage pour lui ne doit pas être cérémonieux.
 
-69. Et lorsqu'un homme déplace un cadavre qu'un chien n'a pas vu, par la main d'un autre homme, celui qui le déplace par la main d'un homme, et celui dont la propre main le fait, sont souillés dans leurs corps respectifs ; et c'est la racine d'un Tanâpûhar [^88] péché pour lui-même et d'un Tanâpûhar pour l'autre, pour cette raison, que son propre corps et celui de l'autre sont tous deux souillés par le péché. 70. Et lorsqu'il n'y a pas en lui, ni même provenant de lui (ahambûni<i>k</i>), la force de celui à qui appartient la propre main, c'est comme s'il le déplaçait (le cadavre) avec un pieu [^89] ; et celui qui l'a tenu en contact avec sa main doit être lavé avec cérémonie ; 71. Lorsqu'il déplace un cadavre par la main d'un homme, et que le cadavre est de ceux qu'un chien a vus — sauf celui-là seulement lorsqu'il le déplace entièrement [^91] — le lavage pour lui ne doit pas être cérémonieux.
+69\. Et lorsqu'un homme déplace un cadavre qu'un chien n'a pas vu, par la main d'un autre homme, celui qui le déplace par la main d'un homme, et celui dont la propre main le fait, sont souillés dans leurs corps respectifs ; et c'est la racine d'un Tanâpûhar [^88] péché pour lui-même et d'un Tanâpûhar pour l'autre, pour cette raison, que son propre corps et celui de l'autre sont tous deux souillés par le péché. 70. Et lorsqu'il n'y a pas en lui, ni même provenant de lui (ahambûni<i>k</i>), la force de celui à qui appartient la propre main, c'est comme s'il le déplaçait (le cadavre) avec un pieu [^89] ; et celui qui l'a tenu en contact avec sa main doit être lavé avec cérémonie ; 71. Lorsqu'il déplace un cadavre par la main d'un homme, et que le cadavre est de ceux qu'un chien a vus — sauf celui-là seulement lorsqu'il le déplace entièrement [^91] — le lavage pour lui ne doit pas être cérémonieux.
 
 <span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
@@ -94,25 +94,25 @@ dateCreated: 2025-10-10T14:56:40Z
 
 74\. _À propos_ d'une porte sur laquelle un cadavre s'écrase ; quant à la porte d'une ville, ils ont été du même avis, qu'elle doit être rejetée par ses camarades (hamkâr) [^94] ; quant à une porte qui est presque entièrement fermée (badtûm) [^95], ils ont été d'avis différents, <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> Gôgô<i>s</i>asp [^96] a dit que le fait que ses camarades la rejettent est également convenable, et Sôshyans a dit que ce n'est pas convenable ; et quant aux autres portes, ils ont été du même avis, que ce n'est pas convenable. 75. La porte de son propre appartement principal (shah-gâs) est propre à celle du lieu des menstruations (dastânistân), et celle du lieu des menstruations est propre à celle du dépôt des morts (khazânŏ) [^97], et celle du dépôt des morts n'est propre à aucun usage quel qu'il soit [^98] ; celle du plus agréable est propre à celle du plus douloureux.
 
-76\. Quiconque, par péché, jette un cadavre dans l'eau est passible de mort sur-le-champ [^99] ; s'il n'en jette qu'un seul, c'est un péché passible de mort, et s'il en jette dix à la fois, c'est un péché passible de mort ; s'il les jette séparément, c'est un péché passible de mort pour chacun. 77. Quant à l'eau dans laquelle on jette des corps morts, le degré de pollution est de trois pas de trois pieds dans l'eau qui avance, neuf pas de trois pieds dans l'eau traversée, et six pas de trois pieds dans l'eau à côté [^100] ; six pas de trois pieds dans la profondeur de l'eau, et trois pas de trois pieds dans l'eau qui se déverse sur les corps morts sont pollués quant à la profondeur [^101]. 78. Lorsqu'on le jette au milieu d'une grande eau stagnante, de la même manière, la proportion dans laquelle il entre est toujours égale à celle dans laquelle il sort, et c'est la proportion qu'ils devraient toujours emporter avec la matière morte [^102].
+76\. Quiconque, par péché, jette un cadavre dans l'eau est passible de mort sur-le-champ [^99] ; s'il n'en jette qu'un seul, c'est un péché passible de mort, et s'il en jette dix à la fois, c'est un péché passible de mort ; s'il les jette séparément, c'est un péché passible de mort pour chacun. 77. Quant à l'eau dans laquelle on jette des corps morts, le degré de pollution est de trois pas de trois pieds dans l'eau qui avance, neuf pas de trois pieds dans l'eau traversée, et six pas de trois pieds dans l'eau à côté [^100] ; six pas de trois pieds dans la profondeur de l'eau, et trois pas de trois pieds dans l'eau qui se déverse sur les corps morts sont pollués quant à la profondeur [^101]. 78. Lorsqu'on le jette au milieu d'une grande eau stagnante, de la même manière, la proportion dans laquelle il entre est toujours égale à celle dans laquelle il sort, et <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> c'est la proportion qu'ils devraient toujours emporter avec la matière morte [^102].
 
 79\. Et lorsqu'un homme sort et qu'un cadavre gît dans l'eau, s'il est capable de le sortir, et que ce n'est pas une blessure pour lui, il n'est pas permis de l'abandonner, sauf lorsqu'il le sort [^103]. 80. Sôshyans [^104] a dit que, lorsqu'il s'agit d'une blessure, il est permis [^105] qu'il ne le sorte pas ; et lorsqu'il n'en est pas une, et qu'il ne le sort pas, son péché est un Tanâpûhar [^106]. 81. Kûshtanŏ-bû<i>g</i>ê<i>d</i> [^107] a dit que même en cas de blessure, il n'est pas permis de l'abandonner, sauf lorsqu'il le sort ; lorsqu'il ne le sort pas, il mérite la mort. 82. Et Gôgô<i>s</i>asp [^108] dit que même en cas de blessure, cela n'est pas permis, sauf s'il la fait sortir ; et lorsque, en cas de blessure, il ne la fait pas sortir, son péché est un Tanâpûhar ; et lorsque ce n'est pas une blessure pour lui, et qu'il ne la fait pas sortir, il est digne de mort.
 
-83\. Et lorsqu'il voudra l'apporter, ses vêtements seront déposés [^109], car ils les souillent, et ce qu'il sera le premier et le plus à même d'apporter, il le fera sortir. 84. Lorsqu'il pourra le faire sortir par la largeur de l'eau, il le fera aussi [^110] ; et lorsqu'il ne le pourra pas, il le fera sortir par la longueur de l'eau ; et s'il le montrera à un chien, il ne faudra pas attendre les deux hommes [^111].
+83\. Et lorsqu'il voudra l'apporter, ses vêtements seront déposés [^109], car ils les souillent, <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> et ce qu'il sera le premier et le plus à même d'apporter, il le fera sortir. 84. Lorsqu'il pourra le faire sortir par la largeur de l'eau, il le fera aussi [^110] ; et lorsqu'il ne le pourra pas, il le fera sortir par la longueur de l'eau ; et s'il le montrera à un chien, il ne faudra pas attendre les deux hommes [^111].
 
 85\. Et il doit l'emporter si loin du voisinage de l'eau que, lorsqu'il le pose, l'eau qui s'écoule du corps ne retourne pas à l'eau ; car lorsque l'eau qui s'écoule du corps retourne continuellement à l'eau, il mérite la mort ; et après cela (min zak frâ<i>g</i>) il doit le montrer à un chien, et il doit être emporté par deux hommes. 86. Et lorsqu'il veut le jeter hors de l'eau, Mar<i>d</i>\-bû<i>d</i> [^112] dit qu'il est permis de le jeter ainsi, de sorte que l'eau du corps ruisselant ne retourne pas continuellement à l'eau ; Rôshan dit qu'il serait permis de le jeter loin.
 
 87\. Le traîner sur l'eau est permis, le saisir et l'abandonner n'est pas permis [^113] ; et lorsqu'il est possible d'agir de manière à le transporter d'une grande eau à une petite eau, lorsque l'eau est <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> connectée, cela est permis, et lorsqu'elle est séparée, cela ne l'est pas. 88. Afarg [^114] a dit qu'il est permis de le traîner en dessous à travers l'eau, mais que le traîner au-dessus n'est pas permis, car ceci est venu sur l'eau comme un danger [^115], et cela ne lui est pas venu comme un danger. 89. Mê<i>d</i>ôk-mâh [^114] dit qu'il est permis de le traîner en haut, mais qu'il n'est pas permis de le traîner en bas, car le danger est passé au-delà de l'eau, et le danger ne doit pas maintenant être amené sur lui ; et sur ce qui est en bas, sur lequel le danger n'est pas venu, le danger arrivera enfin.
 
-90\. Lorsqu'il entre dans l'eau, il doit y aller avec cette idée : « S'il y en a beaucoup en bas, alors je les ramènerai tous » ; car quiconque n'y entre pas avec cette idée et dérange un autre qui y repose, sera souillé [^116]. 91. Et si le corps est lourd et qu'il n'est pas possible de le sortir par une seule personne, il sort avec cette idée : « J'irai préparer les moyens et sortir ce corps de l'eau » ; et si, par péché [^117], il ne retourne pas, son corps est souillé et digne de mort, et s'il est incapable de retourner, il n'est pas souillé.
+90\. Lorsqu'il entre dans l'eau, il doit y aller avec cette idée : « S'il y en a beaucoup en bas, alors je les ramènerai tous » ; car quiconque n'y entre pas avec cette idée et dérange un autre qui y repose, sera souillé [^116]. 91. Et si le corps est lourd et qu'il n'est pas possible de le sortir par une seule personne, il sort avec cette idée : « J'irai préparer les moyens et sortir ce corps de l'eau » ; et si, par péché [^117], il ne retourne pas, son corps est souillé <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> et digne de mort, et s'il est incapable de retourner, il n'est pas souillé.
 
 92\. Lorsque le cadavre est tellement décomposé (pû<i>d</i>ak), lorsqu'il est nécessaire de le sortir, qu'il doit en découper divers fragments, même après les avoir découpés, ils doivent être sortis ; et pour chaque fragment, ses mains et son couteau doivent être lavés avec de l'urine de taureau (gômê<i>z</i>), et avec de la poussière et de l'humidité (nambŏ), ils sont purs [^118]. 93. Et ils doivent être arrachés [^119] par lui, et pour chaque fragment qu'il sort, sa bonne œuvre est un Tanâpûhar.
 
 94\. Et quand la pluie tombe, le cadavre gît dans l'eau ; le sortir de l'eau pour le déposer sous la pluie n'est pas [^120] permis.
 
-95\. Les vêtements inutiles [^121], c'est-à-dire ceux dans lesquels on doit porter un cadavre, et même lorsqu'ils sont très ou totalement inutiles ; de ceux sur lesquels ils se décomposeront [^122] (barâ vishûpênd), et de ceux sur lesquels viennent les excrétions (hîkhar) du mort, un certain espace doit être coupé [^123], et le reste doit être soigneusement lavé pendant la période de six mois [^124]. 96. Ce qu'une femme menstruée porte (mahmânîh) [^125] doit être jeté de la même manière.
+95\. Les vêtements inutiles [^121], c'est-à-dire ceux dans lesquels on doit porter un cadavre, et même lorsqu'ils sont très ou totalement inutiles ; de ceux sur lesquels ils se décomposeront [^122] (barâ vishûpênd), et de ceux sur lesquels viennent les excrétions (hîkhar) du mort, un certain espace doit être coupé [^123], et le reste doit <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> être soigneusement lavé pendant la période de six mois [^124]. 96. Ce qu'une femme menstruée porte (mahmânîh) [^125] doit être jeté de la même manière.
 
-97\. Les vêtements à laver pendant les six mois sont ceux qui sont décrits dans l'Avesta [^126]. 98. Si le vêtement est en cuir, il doit être soigneusement lavé trois fois avec de l'urine de taureau (gômê<i>z</i>), à chaque fois complètement séché avec de la poussière, et soigneusement lavé trois fois à l'eau, puis étendu pendant trois mois dans un endroit exposé au soleil [^127] ; il convient alors à une personne impure (armê<i>s</i>t) [^128] qui n'a pas accompli de culte, ou à une femme menstruée. 99. Les autres vêtements, lorsqu'ils sont couverts de poils [^129], sont sujets à caution tout comme les étoffes tissées (ta<i>d</i>ak) ; Tout le lavage de la laine, de la soie, de la soie, des cheveux et des poils de chameau est identique à celui des tissus tissés ; et les vêtements tissés doivent être lavés six fois [^130].
+97\. Les vêtements à laver pendant les six mois sont ceux qui sont décrits dans l'Avesta [^126]. 98. Si le vêtement est en cuir, il doit être soigneusement lavé trois fois avec de l'urine de taureau (gômê<i>z</i>), à chaque fois complètement séché avec de la poussière, et soigneusement lavé trois fois à l'eau, puis étendu pendant trois mois dans un endroit exposé au soleil [^127] ; il convient alors à une personne impure (armê<i>s</i>t) [^128] qui n'a pas accompli de <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> culte, ou à une femme menstruée. 99. Les autres vêtements, lorsqu'ils sont couverts de poils [^129], sont sujets à caution tout comme les étoffes tissées (ta<i>d</i>ak) ; Tout le lavage de la laine, de la soie, de la soie, des cheveux et des poils de chameau est identique à celui des tissus tissés ; et les vêtements tissés doivent être lavés six fois [^130].
 
 100\. La laine qui est liée ensemble, lorsqu'une partie est torsadée sur une autre, et qu'un cadavre repose [^131] dessus, est entièrement souillée à cause de la liaison ; et lorsque la toison (mêsh) repose sur la toison, alors l'espace sur lequel repose le cadavre est souillé. 101. Lorsqu'on meurt sur un riche tapis (bûp), lorsque le tapis est sur un tapis grossier (nama<i>d</i>) et est lié, le tapis et le tapis sont tous deux souillés, et lorsqu'ils sont séparés, le tapis est propre. 102. Lorsque plusieurs coussins sont entassés (ni<i>k</i>î<i>d</i>) l'un sur l'autre, sans être liés, et que de la matière morte vient sur eux, ils ont été unanimes pour dire que seul celui sur lequel la matière morte est venue est souillé. 103. Un coussin attaché à de la laine [^132] est aussi sensible qu'un tapis attaché à une carpette [^133]. 104. Si plusieurs coussins sont attachés ensemble, si des débris s'accumulent sur le lien, les deux sont souillés : la corde et les coussins ; et si les débris s'accumulent sur un coussin et non sur le lien, les coussins sont tous souillés à cause de la liaison, et le lien est propre [^134].
 
@@ -124,7 +124,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 109\. Quel que soit l'animal qui a mangé sa matière morte [^139], son lait, ses excréments, ses poils et sa laine sont souillés pendant un an ; et si elle est enceinte lorsqu'elle l'a mangée, le petit l'a également mangé, et le petit est pur après un an depuis sa naissance. 110. Lorsqu'un mâle qui l'a mangée monte une femelle, la femelle n'est pas souillée. 111. Lorsqu'il mange de la matière morte, <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> et même sans être digéré, il mourra, il est sujet à la même intoxication qu'un sac de cuir (anbân) contenant de la matière morte.
 
-112\. L'or, lorsqu'il est recouvert de matière morte, doit être soigneusement lavé une fois avec de l'urine de taureau (gômê<i>z</i>), puis complètement séché avec de la poussière, puis complètement lavé à l'eau, et il est pur [^140]. 113. L'argent doit être soigneusement lavé deux fois avec de l'urine de taureau, puis complètement séché avec de la poussière, puis complètement lavé à l'eau, et il est pur [^141]. 114. De même, le fer, trois fois, l'acier quatre fois et la pierre six fois [^142]. 115. Afarg a dit : « S'il s'agit de vif-argent (â<i>v</i>gînak) [^143], il est aussi sensible que l'or, l'ambre (kahrupâî) comme la pierre, et tous les bijoux comme le fer. 116. La perle (mûrvârî<i>d</i>) [^144], l'ambre, le rubis (yâkand), la turquoise [^145], l'agate (shapak), le corail (vasa<i>d</i>în sag), l'os et les autres substances (gôhar) qui ne sont pas particulièrement mentionnées, doivent être lavées tout comme le bois [^146] ; et lorsqu'elles sont mises en usage, il n'y a pas de lavage [^147], et lorsqu'elles ne sont pas mises en usage, leur lavage est une fois. 117. Des objets en terre et en corne, il n'y a pas de lavage ; et des autres substances qui ne sont pas mises en usage, le lavage est une fois, et elles sont déclarées hors d'usage.
+112\. L'or, lorsqu'il est recouvert de matière morte, doit être soigneusement lavé une fois avec de l'urine de taureau (gômê<i>z</i>), puis complètement séché avec de la poussière, puis complètement lavé à l'eau, et il est pur [^140]. 113. L'argent doit être soigneusement lavé deux fois avec de l'urine de taureau, puis complètement séché avec de la poussière, puis complètement lavé à l'eau, et il est pur [^141]. 114. De même, le fer, trois fois, l'acier quatre fois et la pierre six fois [^142]. 115. Afarg a dit : « S'il s'agit de vif-argent (â<i>v</i>gînak) [^143], il est aussi sensible que l'or, l'ambre (kahrupâî) comme la pierre, et tous les bijoux comme le fer. 116. La perle (mûrvârî<i>d</i>) [^144], l'ambre, <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> le rubis (yâkand), la turquoise [^145], l'agate (shapak), le corail (vasa<i>d</i>în sag), l'os et les autres substances (gôhar) qui ne sont pas particulièrement mentionnées, doivent être lavées tout comme le bois [^146] ; et lorsqu'elles sont mises en usage, il n'y a pas de lavage [^147], et lorsqu'elles ne sont pas mises en usage, leur lavage est une fois. 117. Des objets en terre et en corne, il n'y a pas de lavage ; et des autres substances qui ne sont pas mises en usage, le lavage est une fois, et elles sont déclarées hors d'usage.
 
 118\. Le bois de chauffage, lorsqu'il est vert, doit être coupé sur la longueur d'un empan (vitast), un par un, en autant de bâtons qu'il y en a — et lorsqu'il est sec, sur un empan et deux largeurs de doigt [^148] — et doit être déposé quelque part pendant une année, sans qu'on y verse d'eau ; et il est retiré après une année ; Sôshyans [^149] a dit qu'il convient comme bois de chauffage pour les feux ordinaires, et Kûshtanŏ-bû<i>g</i>ê<i>d</i> [^150] a dit qu'il est exactement comme le déclare l'Avesta : « Le <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> lavé, même alors, convient aux vêtements secs [^151]. » 119. À propos du blé [^152], ils ont été unanimes à dire que l'espace est autant pollué que la matière morte s'y est déposée ; et à propos de ce qui est descendu dans des fosses [^153], ou qui doit l'être, et de ce qui est dispersé (af<i>s</i>î<i>d</i>) à un tel endroit, il y a des opinions différentes ; Sôshyans a dit : « S'il est d'un tel endroit, il est autant pollué que la matière morte s'y est déposée » ; et Gôgô<i>s</i>asp [^154] a dit : « S'il en est ainsi, il est tout pollué, et la paille est toute polluée. »
 
@@ -158,7 +158,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^1]: (245:1) Faisant probablement allusion au commentaire complet de Mê<i>d</i>ôk-mâh sur la Vendidad (aujourd'hui disparu), car le commentaire sur Pahl. Vend. III, 48, qui traite du Sag-dî<i>d</i> ou regard de chien, ne mentionne pas Mê<i>d</i>ôk-mâh ni aucun des détails décrits ici dans le texte ; ces détails, cependant, se trouvent dans Pahl. Vend., VII, 4.
 
-[^2] : (245:2) Lecture de amat barâ zôr <i>g</i>ân dâ<i>d</i>. Cette expression n'apparaît que dans M6 (en note marginale) et dans le texte qui en dérive. En supposant que barâ puisse être une orthographe erronée de pavan (voir [p. 176](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Zad_sparam_8#p176), note 5), on pourrait lire amat pavan zôr shûyâ<i>d</i>, « lorsqu'il se lavera avec de l'eau bénite ».
+[^2]: (245:2) Lecture de amat barâ zôr <i>g</i>ân dâ<i>d</i>. Cette expression n'apparaît que dans M6 (en note marginale) et dans le texte qui en dérive. En supposant que barâ puisse être une orthographe erronée de pavan (voir [p. 176](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_1/Zad_sparam_8#p176), note 5), on pourrait lire amat pavan zôr shûyâ<i>d</i>, « lorsqu'il se lavera avec de l'eau bénite ».
 
 [^3]: (245:3) La « corruption » qui est censée pénétrer un cadavre peu après la mort, d'où elle sort sous la forme d'un démon et s'empare de quiconque touche le cadavre, à moins qu'il n'ait été détruit ou chassé par le regard d'un chien, comme mentionné dans le texte (comparer Vend. VIII, 38-48). La carcasse d'un chien est considérée comme tout aussi contagieuse que le cadavre d'un être humain, et lorsque le démon de la corruption (Nasû<i>s</i> ou Nas de Bund. XXVIII, 29) s'est emparé de quelqu'un, il ne peut être chassé que par une forme longue et pénible de purification décrite dans Vend. VIII. 111-228, IX, 4-117.
 
@@ -172,7 +172,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^8]: (246:2) Ceci est également indiqué dans Pahl. Vend. III, 138.
 
-[^9] : (246 : 3) Voir Pahl. Vend. VII, 4.
+[^9]: (246 : 3) Voir Pahl. Vend. VII, 4.
 
 [^10]: (246:4) Les Rivâyats persans disent que c'est parce que le Nasû<i>s</i> est caché sous les cheveux et les ongles (comparer Vend. VII, 70).
 
@@ -204,7 +204,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^24]: (249:7) De l'av. var, « couvrir, abriter » ; comparer avec le persan gullah, « un abri ou un hangar ». De nos jours, les Parsis disposent d'un abri permanent près du Dakhma. Pahl. Vend. VIII, 17 dit : « Porter un parapluie (a<i>v</i>argash) par derrière, ou soutenir un abri, ne sert à rien. »
 
-[^25]: (250:1) Ou, 'cela le rendrait très sec', si nous lisions a<i>v</i>îr, 'très', au lieu de a<i>g</i>îr, 'en dessous' ; ces deux mots s'écrivant de la même manière en Pahlavi.
+[^25]: (250:1) Ou, « cela le rendrait très sec », si nous lisions a<i>v</i>îr, « très », au lieu de a<i>g</i>îr, « en dessous » ; ces deux mots s'écrivant de la même manière en Pahlavi.
 
 [^26]: (250:2) Citation à nouveau de son commentaire perdu.
 
@@ -216,11 +216,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^30]: (251:1) Cette section serait plus appropriée au chap. III.
 
-[^31]: (251:2) Ou 'un étage supérieur' ; Pahl. Vend. VI, 9 dit : 'lorsqu'il meurt à un étage supérieur, quand il ne reste plus rien de lui aux cloisons (pardakân), le sol est souillé jusqu'au balcon (â<i>s</i>kûp) _et_ le balcon seul est propre ; quand il reste quelque chose de lui aux cloisons, le sol est souillé jusqu'au balcon, le sol est souillé jusqu'à l'eau, _autour_ du balcon seul il n'est pas clair.'
+[^31]: (251:2) Ou « un étage supérieur » ; Pahl. Vend. VI, 9 dit : 'lorsqu'il meurt à un étage supérieur, quand il ne reste plus rien de lui aux cloisons (pardakân), le sol est souillé jusqu'au balcon (â<i>s</i>kûp) _et_ le balcon seul est propre ; quand il reste quelque chose de lui aux cloisons, le sol est souillé jusqu'au balcon, le sol est souillé jusqu'à l'eau, _autour_ du balcon seul il n'est pas clair.'
 
 [^32]: (251:3) Voir note sur Chap. III, 32.
 
-[^33]: (251:4) Le gâm, 'pas', étant de 2 pieds 7½ pouces (voir note sur Bund. XXVI, 3) ces trente pas font environ 79 pieds anglais.
+[^33]: (251:4) Le gâm, « pas », étant de 2 pieds 7½ pouces (voir note sur Bund. XXVI, 3) ces trente pas font environ 79 pieds anglais.
 
 [^34]: (251:5) Signification incertaine ; le mot ressemble à Huzvâri<i>s</i>, mais il est possible de lire rî<i>d</i>\-aê au lieu de rîtâ-1.
 
@@ -246,7 +246,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^45]: (255:2) C'est-à-dire que ces substances communiquent la contamination à travers leur propre substance, mais pas jusqu'au sol.
 
-[^46]: (255:3) Le verbe vi<i>d</i>ar<i>d</i>anŏ (Huz. vabrûntanŏ), 'traverser, passer' (Av, vi + tar, Pers. guDHa<i>s</i>tan), ne peut être utilisé que pour désigner la mort de _bonnes_ personnes ou d'animaux ; mais le verbe mûr<i>d</i>anŏ (Huz. yemîtûntanŏ), 'mourir, expirer' (Av. mar, Pers. murdan), peut être utilisé de manière générale, bien qu'il soit habituellement appliqué aux méchants et aux créatures mauvaises. Pahl. Vend. V, 134 contient presque le même texte que §§ 38, 39.
+[^46]: (255:3) Le verbe vi<i>d</i>ar<i>d</i>anŏ (Huz. vabrûntanŏ), « traverser, passer » (Av, vi + tar, Pers. guDHa<i>s</i>tan), ne peut être utilisé que pour désigner la mort de _bonnes_ personnes ou d'animaux ; mais le verbe mûr<i>d</i>anŏ (Huz. yemîtûntanŏ), « mourir, expirer » (Av. mar, Pers. murdan), peut être utilisé de manière générale, bien qu'il soit habituellement appliqué aux méchants et aux créatures mauvaises. Pahl. Vend. V, 134 contient presque le même texte que §§ 38, 39.
 
 [^47]: (255:4) En temps normal, le feu ne doit pas être amené à moins de trente pas, soit environ 79 pieds anglais, d'un cadavre (voir Vend. VIII, p. 256-17). Mais l'esprit de la loi mazdayasnienne est raisonnable et, bien que stricte, elle tient compte des difficultés pratiques et choisit le moindre mal de manière plus judicieuse qu'on ne pourrait s'y attendre (un fait qu'il serait bon que les Parsis et autres observent en cas de doute). Ici, percer le mur d'une maison est considéré comme un plus grand mal que la pollution possible par le feu en passant à une distance de trois pas, soit huit pieds anglais, d'un cadavre.
 
@@ -264,11 +264,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^54]: (257:2) Av. zaothra; cette eau bénite est consacrée par le prêtre récitant certaines prières tout en tenant les coupes métalliques vides dans ses mains, tout en les remplissant d'eau, et après les avoir remplies (voir Haug's Essays, p. 397).
 
-[^55]: (257:3) L'Av. gâu<i>s</i> <i>g</i>îvya, '_produit_ de la vache vivante', qui est conservé dans une soucoupe en métal pendant les cérémonies, et utilisé pour asperger les brindilles sacrées (baresôm), et pour mélanger avec l'eau bénite et le jus de Hôm dans le mortier (voir Haug's Essays, pp. 403, 405, 06).
+[^55]: (257:3) L'Av. gâu<i>s</i> <i>g</i>îvya, « _produit_ de la vache vivante », qui est conservé dans une soucoupe en métal pendant les cérémonies, et utilisé pour asperger les brindilles sacrées (baresôm), et pour mélanger avec l'eau bénite et le jus de Hôm dans le mortier (voir Haug's Essays, pp. 403, 405, 06).
 
-[^56]: (257:4) Comparer Pers. <i>k</i>ûm, 'gras' ; c'est l'Av. gâu<i>s</i> hudh<i>a</i>u, '_produit_ de la vache qui donne bien', dont un petit morceau est placé sur l'une des crêpes sacrées, ou gaufrettes (drôn), pendant les cérémonies (voir Haug's Essays, pp. 396, 407).
+[^56]: (257:4) Comparer Pers. <i>k</i>ûm, « gras » ; c'est l'Av. gâu<i>s</i> hudh<i>a</i>u, « _produit_ de la vache qui donne bien », dont un petit morceau est placé sur l'une des crêpes sacrées, ou gaufrettes (drôn), pendant les cérémonies (voir Haug's Essays, pp. 396, 407).
 
-[^57]: (257:5) Je lis ya<i>s</i>t ; mais il peut être ga<i>s</i>t, 'changé'.
+[^57]: (257:5) Je lis ya<i>s</i>t ; mais il peut être ga<i>s</i>t, « changé ».
 
 [^58]: (257:6) Voir la note sur Chap. I, 4.
 
@@ -276,7 +276,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^60]: (258:1) Littéralement, « la voûte des feux de Vâhrâm ». Pahl. Vend. V, 134 dit : « la voûte des feux est _responsable_ tout comme une maison vide. » Cette section et le § 49 semblent tous deux déplacés.
 
-[^61] : (258 : 2) Voir Pahl. Vend. V, 134.
+[^61]: (258 : 2) Voir Pahl. Vend. V, 134.
 
 [^62]: (258:3) Littéralement, « le produit du feu de Vâhrâm », terme pour « cendres », qui est utilisé dans Pahl. Vend. V, 150 avec l'expression équivalente, « vêtement du feu » (voir Chap. III, 27).
 
@@ -288,7 +288,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^66]: (259:3) Cela signifie, apparemment, que toute pollution est prise en compte, comme un péché, dans l'investigation que l'âme doit subir avant d'entrer dans l'autre monde. Une grande partie de ce paragraphe se trouve dans Pahl. Vend. V, 107.
 
-[^67] : (259:4) Se référant à Vend. V, 82-107, qui rend compte du nombre de personnes contaminées par un cadavre, proportionnel à l'importance de l'individu décédé. On affirme ici que l'infection, passant de l'un à l'autre, ne pénètre chaque personne que d'un côté, mais que le démon de la corruption les attaque de tous côtés.
+[^67]: (259:4) Se référant à Vend. V, 82-107, qui rend compte du nombre de personnes contaminées par un cadavre, proportionnel à l'importance de l'individu décédé. On affirme ici que l'infection, passant de l'un à l'autre, ne pénètre chaque personne que d'un côté, mais que le démon de la corruption les attaque de tous côtés.
 
 [^68]: (259:5) Signifiant, probablement, le Nasû<i>s</i>, ou démon de la corruption (voir § 1 qui est censé se précipiter sur tous ceux qui sont pollués comme détaillé dans Vend. V, 82-107.
 
@@ -300,11 +300,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^72]: (260:2) Le sens n'est pas tout à fait clair, mais cette phrase doit probablement être lue en lien avec la précédente, comme impliquant que là où de tels animaux domestiques sont gardés, ils peuvent être utilisés pour stopper l'infection, aussi efficacement que n'importe quel objet inanimé. Le porc est mentionné ici comme un animal domestique courant, mais les Parsis ont depuis longtemps adopté les préjugés des Hindous et des Musulmans concernant l'impureté du porc.
 
-[^73]: (260:3) Comme Vend. V, 108-112 dit la même chose du chien urupi, il semblerait que l'auteur de notre texte considérait l'urupi comme un hérisson (zûzak) ; la traduction pahlavi du Vendidad le rend par rapuk ou rîpûk, ce qui semble n'être qu'une transcription approximative du mot Avesta ; traditionnellement, on le lit raspûk et on le compare au persan râsû, 'ichneumon' ; son identification avec le hérisson est certainement douteuse, bien qu'elle semble être admise dans Pahl. Vend. V, 112, où les mêmes mots sont utilisés que dans cette section.
+[^73]: (260:3) Comme Vend. V, 108-112 dit la même chose du chien urupi, il semblerait que l'auteur de notre texte considérait l'urupi comme un hérisson (zûzak) ; la traduction pahlavi du Vendidad le rend par rapuk ou rîpûk, ce qui semble n'être qu'une transcription approximative du mot Avesta ; traditionnellement, on le lit raspûk et on le compare au persan râsû, « ichneumon » ; son identification avec le hérisson est certainement douteuse, bien qu'elle semble être admise dans Pahl. Vend. V, 112, où les mêmes mots sont utilisés que dans cette section.
 
 [^74]: (260:4) Les termes techniques hamrê<i>d</i> et paîtrê<i>d</i>, pour contagion et infection, sont de simples altérations des av. hãm-raêthwayêiti et paiti-raêthwayêiti. La définition de ce dernier est omise par erreur dans K20.
 
-[^75]: (261:1) Lecture de amat, 'quand', au lieu de mûn, 'qui' (voir note de Bund. I, 7).
+[^75]: (261:1) Lecture de amat, « quand », au lieu de mûn, « qui » (voir note de Bund. I, 7).
 
 [^76]: (261:2) Vend. V, 86, 87 limite la pollution à la onzième personne infectée, dans le cas extrême où le cadavre aurait été un prêtre ; mais Pahl. Vend. V, 107 cite l'opinion de Sôshâns selon laquelle jusqu'à ce qu'un chien ait regardé le cadavre, la pollution s'étend au douzième, mais seules les dix premières nécessitent la purification cérémonielle du bareshnûm, les autres étant nettoyées par un lavage ordinaire avec de l'urine de taureau et de l'eau.
 
@@ -318,7 +318,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^81]: (262:2) Lecture de ve<i>s</i> comme équivalent à vê<i>s</i>.
 
-[^82]: (262:3) Lecture râkhtakîh (comparer avec le persan rakhtah, 'malade, blessé').
+[^82]: (262:3) Lecture râkhtakîh (comparer avec le persan rakhtah, « malade, blessé »).
 
 [^83]: (262:4) Cette opinion d'Afarg (voir chap. I, 3) est également citée dans Pahl. Vend. III, 48.
 
@@ -350,11 +350,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^97]: (265:2) L'équivalent Huz. de Pâz. dakhmak (voir § 6).
 
-[^98] : (265 : 3) Voir Pahl. Vend. V, 14.
+[^98]: (265 : 3) Voir Pahl. Vend. V, 14.
 
-[^99] : (265:4) Comparez Pahl. Vend. VII, 66.
+[^99]: (265:4) Comparez Pahl. Vend. VII, 66.
 
-[^100] : (265:5) Voir Vend. VI, 80.
+[^100]: (265:5) Voir Vend. VI, 80.
 
 [^101]: (265:6) Autrement dit, la pollution s'étend sur environ huit pieds anglais en amont et vers le haut, seize pieds latéralement et vers le bas, et vingt-quatre pieds en aval. Une partie de la dernière partie de la phrase est omise par erreur dans K20.
 
@@ -364,7 +364,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^104]: (266:3) Voir Chap. I, 3.
 
-[^105]: (266:4) Lecture de amat, 'quand', au lieu de mûn, 'qui' (voir Bund. I, 7, note).
+[^105]: (266:4) Lecture de amat, « quand », au lieu de mûn, « qui » (voir Bund. I, 7, note).
 
 [^106]: (266:5) Voir Chap. I, 1, 2.
 
@@ -372,7 +372,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^108]: (266:7) Voir Chap. I, 3.
 
-[^109] : (266 : 8) Voir Pahl. Vend. VI, 64.
+[^109]: (266 : 8) Voir Pahl. Vend. VI, 64.
 
 [^110]: (267:1) Pour que moins d'eau soit polluée par le cadavre empruntant le chemin le plus court à travers elle ; mais si cela est impossible, il faut qu'elle sorte rapidement, en tout cas.
 
@@ -386,29 +386,29 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^115]: (268:2) Ou « peur ». La différence d'opinion entre les deux commentateurs sur cette question en casuistique semble provenir du fait qu'Afarg considérait l'eau simplement comme le représentant d'un esprit, qui pourrait être mis en danger ou effrayé par la source d'impureté devenant plus visible lorsqu'elle est au-dessus de l'eau, tandis que Mê<i>d</i>ôk-mâh considérait l'eau sous son aspect matériel et souhaitait la préserver de la pollution supplémentaire résultant du passage du cadavre à travers davantage d'eau.
 
-[^116] : (268 : 3) Voir Pahl. Vend. VI, 64.
+[^116]: (268 : 3) Voir Pahl. Vend. VI, 64.
 
 [^117]: (268:4) Ces règles distinguent généralement clairement entre les offenses commises « par péché », c'est-à-dire volontairement, et celles qui découlent d'une incapacité accidentelle ; l'accent étant davantage mis sur l'intention que sur l'action.
 
-[^118] : (269 : 1) Voir Pahl. Vend. VI, 64 pour les §§ 92, 93.
+[^118]: (269 : 1) Voir Pahl. Vend. VI, 64 pour les §§ 92, 93.
 
-[^119]: (269:2) Ou 'tordu' ; le huz. neskhûntanŏ doit être rattaché au chald. נְסַח 'arracher, arracher', et semble avoir un sens similaire en pahlavi ; son équivalent paz. vîkhtanŏ (av. vi<i>g</i>) devrait être comparé plutôt au persan kîkhtan, 'meurtrir ou briser', qu'à bêkhtan ou pêkhtan, 'tordre'.
+[^119]: (269:2) Ou « tordu » ; le huz. neskhûntanŏ doit être rattaché au chald. נְסַח « arracher, arracher », et semble avoir un sens similaire en pahlavi ; son équivalent paz. vîkhtanŏ (av. vi<i>g</i>) devrait être comparé plutôt au persan kîkhtan, « meurtrir ou briser », qu'à bêkhtan ou pêkhtan, « tordre ».
 
 [^120]: (269:3) Ce négatif est omis dans M6 par erreur.
 
-[^121] : (269 : 4) Comparez Pahl. Vend. VII, 32.
+[^121]: (269 : 4) Comparez Pahl. Vend. VII, 32.
 
 [^122]: (269:5) Ou « tomber en morceaux » ; que ce soit le sens de vishûpênd apparaît clairement dans Pahl. Vend. VII, 123, mais une glose persane dans le manuscrit moderne M9 l'explique comme « déposer des fragments du bec d'un oiseau », ce qui signifie, bien sûr, des fragments de matière morte laissés tomber par un oiseau charognard.
 
 [^123]: (269:6) Comme inutiles, étant incapables de purification ; de telles boutures doivent être enterrées, selon l'Avesta de Vend. VII, 32, bien que le commentaire Pahlavi explique qu'elles doivent être jetées.
 
-[^124]: (270:1) Khshvâ<i>s</i>\-mâûgôk n'est qu'une corruption de l'Av. khshva<i>s</i> m<i>a</i>unghô, 'six mois', de Vend. VII, 36, où cette forme de purification est ainsi décrite : 'Si (le vêtement) est tissé, ils doivent le laver six fois avec de l'urine de taureau, ils doivent le récurer six fois avec de la terre, ils doivent le laver six fois avec de l'eau, ils doivent le fumiger six mois à la fenêtre de la maison.'
+[^124]: (270:1) Khshvâ<i>s</i>\-mâûgôk n'est qu'une corruption de l'Av. khshva<i>s</i> m<i>a</i>unghô, « six mois », de Vend. VII, 36, où cette forme de purification est ainsi décrite : 'Si (le vêtement) est tissé, ils doivent le laver six fois avec de l'urine de taureau, ils doivent le récurer six fois avec de la terre, ils doivent le laver six fois avec de l'eau, ils doivent le fumiger six mois à la fenêtre de la maison.'
 
-[^125] : (270 : 2) Voir Pahl. Vend. VII, 3 2.
+[^125]: (270 : 2) Voir Pahl. Vend. VII, 3 2.
 
 [^126]: (270:3) C'est-à-dire des vêtements tissés, comme déclaré dans Vend. VII, 36 (cité ci-dessus dans la note 1).
 
-[^127] : (270:4) Voir Vend. VII, 35.
+[^127]: (270:4) Voir Vend. VII, 35.
 
 [^128]: (270:5) Une glose persane définit armê<i>s</i>t comme « une femme qui a donné naissance à un enfant mort », et c'est l'opinion générale ; mais cela ne semble être qu'un exemple particulier d'une personne impure qui serait incluse sous le terme général armê<i>s</i>t, car selon Pahl. Vend. IX, 133, 137, 141 un homme lorsqu'il n'est que partiellement purifié doit rester à l'écart dans le lieu de l'armê<i>s</i>t (Av. airima, comparer sans. il ou rî) pendant un certain temps. Nêryôsang, dans sa traduction sanskrite de Mkh. (XXXVII, 36, XXXIX, 40, LI, 7), explique armê<i>s</i>t comme « boiteux, estropié, immobilité » ; il signifie également « stagnant », lorsqu'il est appliqué à l'eau ; et sa signification primitive était probablement « le plus immobile », terme approprié pour les personnes impures tenues de rester dans un lieu particulier, à l'écart de tous les autres, ainsi que pour les infirmes sans défense et les aliénés sous contrainte (voir chap. VI, x). Le sens de « le plus pollué » s'appliquerait difficilement à l'eau des réservoirs.
 
@@ -422,7 +422,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^133]: (271:5) Voir § 101.
 
-[^134] : (271 : 6) Voir Pahl. Vend. VII, 27.
+[^134]: (271 : 6) Voir Pahl. Vend. VII, 27.
 
 [^135]: (272:1) C'est-à-dire qu'elle ne peut pas être purifiée.
 
@@ -432,7 +432,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^138]: (272:4) Voir Chap. I, 4, note.
 
-[^139] : (272 : 5) Comparez Pahl. Vend. VII, 192.
+[^139]: (272 : 5) Comparez Pahl. Vend. VII, 192.
 
 [^140]: (273:1) La purification détaillée ici est prescrite pour les vases en or dans Vend. VII, 186.
 
@@ -440,7 +440,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^142]: (273:3) Voir Vend. VII, 75 W., dont une grande partie est omise dans la traduction de Vendidad en pahlavi, et dans l'édition de Spiegel (voir la note précédente), le lavage en six étapes de la pierre étant appliqué par erreur à l'argent (voir Vend. VII, 187 Sp.), en raison de cette omission du texte intermédiaire. Il ressort de cette section que l'AV. haosafna, habituellement traduit par « cuivre », était compris comme pûlâ<i>v</i><i>d</i>, « acier », par les traducteurs pahlavi.
 
-[^143]: (273:4) Ou 'un miroir' (Pers. âbgînah), mais le mot est évidemment utilisé pour un métal dans SZS. X, 2, et très probablement ici aussi.
+[^143]: (273:4) Ou « un miroir » (Pers. âbgînah), mais le mot est évidemment utilisé pour un métal dans SZS. X, 2, et très probablement ici aussi.
 
 [^144]: (273:5) La plupart des substances mentionnées aux §§ 115 et 116 sont détaillées dans Pahl. Vend. VII, 188, où il est indiqué que « quant à la perle, il y a eu des opinions différentes : certains disent qu'elle est aussi résistante que l'or, d'autres disent qu'elle est comme les autres bijoux, et d'autres encore disent qu'il n'y a pas de lavage pour elle. »
 

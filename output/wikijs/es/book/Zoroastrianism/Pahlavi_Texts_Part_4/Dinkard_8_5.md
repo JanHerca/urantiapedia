@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 1\. Entre los Dâmdâ<i>d</i> [^1] se encuentran detalles sobre el mantenimiento de la acción y la producción de las <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> criaturas benéficas. 2. Primero, en cuanto a la existencia espiritual, y cuánto y cómo se mantiene en la _existencia_ espiritual; y la producción de la _existencia_ mundana a partir de ella, cualificada _y_ construida para descender (fitô<i>d</i>anŏ) al combate con el destructor, y cumplir con la necesidad asociada para el fin y la elusión (garang) de la destructividad.
 
-3. La manera _y_ especie _de_ la creación de las criaturas; también su _existencia_ material, y el carácter y uso de las razas y especies; y todo lo que se refiere al mismo tema. 4. La razón de _su_ creación, y de _su_ perfección final. 5. Sobre la adversidad, daño y miseria de esas criaturas, y sus recursos secretos (nîhônŏ) _y_ medios para atacarlas _y_ aniquilarlas; con_ la preservación _o_ incapacitación (<i>a</i>p<i>î</i><i>k</i>ârînî<i>d</i>anŏ) de las criaturas por medio de ello [^2].
+3\. La manera _y_ especie _de_ la creación de las criaturas; también su _existencia_ material, y el carácter y uso de las razas y especies; y todo lo que se refiere al mismo tema. 4. La razón de _su_ creación, y de _su_ perfección final. 5. Sobre la adversidad, daño y miseria de esas criaturas, y sus recursos secretos (nîhônŏ) _y_ medios para atacarlas _y_ aniquilarlas; con_ la preservación _o_ incapacitación (<i>a</i>p<i>î</i><i>k</i>ârînî<i>d</i>anŏ) de las criaturas por medio de ello [^2].
 
 6\. De la justicia la excelencia es la excelencia perfecta.
 

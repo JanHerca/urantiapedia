@@ -78,23 +78,23 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^5]: (83:5) On dit que les âmes des défunts sont nourries avec de l'huile au paradis.
 
-[^6] : (83 :6) K20 omet le mot pûs, « embryon ».
+[^6]: (83 :6) K20 omet le mot pûs, « embryon ».
 
 [^7]: (83:7) Le sens de « écorce » pour Pâz. ayvan n'est qu'une supposition ; Anquetil a « sève » (comparer au persan âvînâ, « jus »), mais cela n'est guère cohérent avec le reste de la phrase.
 
 [^8]: (83:8) Voir Chap. XXVII, 25.
 
-[^9]: (84:1) K20 a 'Hêlmand', mais M6 a '<i>S</i>apîr', l'équivalent Huz. de 'Vêh', ce qui est plus probable.
+[^9]: (84:1) K20 a « Hêlmand », mais M6 a « <i>S</i>apîr », l'équivalent Huz. de « Vêh », ce qui est plus probable.
 
 [^10]: (84:2) Ou, « abstinence _d'impureté_ ».
 
-[^11] : (84:3) La source Arêdvîvsûr (voir Chap. XIII, 3, 10).
+[^11]: (84:3) La source Arêdvîvsûr (voir Chap. XIII, 3, 10).
 
 [^12]: (84:4) C'est-à-dire par la sève qui circule comme les eaux de la terre. La majeure partie de cette phrase est omise dans K20.
 
-[^13]: (84:5) Probablement 'la Nâvadâ' et les 'eaux navigables' du chap. XX, 7, 34, et Nâîvtâk du chap. XXIX, 4, 5.
+[^13]: (84:5) Probablement « la Nâvadâ » et les « eaux navigables » du chap. XX, 7, 34, et Nâîvtâk du chap. XXIX, 4, 5.
 
-[^14]: (84:6) Lecture de amat, 'quand', au lieu de mûn, 'qui' (voir note au chap. I, 7).
+[^14]: (84:6) Lecture de amat, « quand », au lieu de mûn, « qui » (voir note au chap. I, 7).
 
 [^15]: (85:1) Écrit en Khûrshê<i>d</i>ar, comme d'habitude dans les Bundahi<i>s</i> (voir Chap. XXXII, 8).
 

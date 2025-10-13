@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^2]: (169:1) Bund. VII, 2-6 est paraphrasé dans les §§ 2-6.
 
-[^3] : (169 : 2) Lecture de neksûnd barâ min khasandakânŏ au lieu du MS. barâ nasûnd min khasandakânŏ.
+[^3]: (169 : 2) Lecture de neksûnd barâ min khasandakânŏ au lieu du MS. barâ nasûnd min khasandakânŏ.
 
 [^4]: (169:3) Comparer Bund. XIII, 1, 2.
 
@@ -92,7 +92,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^6]: (170:2) Bund. VII, 7-4 est paraphrasé dans les §§ 9-14.
 
-[^7] : (170:3) L'Av. aokhtô-nâmana yasna de Tî<i>s</i>tar Yt. II, 23 ; 24.
+[^7]: (170:3) L'Av. aokhtô-nâmana yasna de Tî<i>s</i>tar Yt. II, 23 ; 24.
 
 [^8]: (171:1) Ou peut-être « a fait pleuvoir le nuage », si madame vârânînî<i>d</i> représente un<i>v</i>ar vârânînî<i>d</i>.
 

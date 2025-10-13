@@ -434,9 +434,9 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1525]: 337:1 Les Amesha-Spe<i>n</i>tas (voir § 46).
 
-[^1526] : 337 : 2 À Vî<i>s</i>tâspa.
+[^1526]: 337 : 2 À Vî<i>s</i>tâspa.
 
-[^1527] : 337 : 3 Hathwadh<i>k</i>a : Pahl. tîz<i>k</i>je.
+[^1527]: 337 : 3 Hathwadh<i>k</i>a : Pahl. tîz<i>k</i>je.
 
 [^1528]: 337:4 Cf. Vendre. III, 29.
 
@@ -468,7 +468,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1542]: 339:4 Voir § 27.
 
-[^1543] : 339 : 5 Tu Vî<i>s</i>tâspa.
+[^1543]: 339 : 5 Tu Vî<i>s</i>tâspa.
 
 [^1544]: 339:6 Ahura Mazda.
 

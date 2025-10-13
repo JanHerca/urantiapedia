@@ -135,17 +135,17 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^3]: (401:3) La lectura es incierta.
 
-[^4]: (402:1) Este verbo es dudoso; aquí y en el § 23 es netrûnâ<i>d</i>, 'que ella guarde', pero en el § 15 es ketrûnâ<i>d</i>, 'que ella permanezca'.
+[^4]: (402:1) Este verbo es dudoso; aquí y en el § 23 es netrûnâ<i>d</i>, «que ella guarde», pero en el § 15 es ketrûnâ<i>d</i>, «que ella permanezca».
 
-[^5]: (402:2) Bûr<i>z</i> âtarô, 'el fuego sublime', parece ser una personificación del fuego Berezi-savang de Bund. XVII, 1; 3, el Supremamente beneficiado de SZS. XI, 1, 6.
+[^5]: (402:2) Bûr<i>z</i> âtarô, «el fuego sublime», parece ser una personificación del fuego Berezi-savang de Bund. XVII, 1; 3, el Supremamente beneficiado de SZS. XI, 1, 6.
 
 [^6]: (402:3) Se la suele llamar ángel. O bien se omite el verbo en esta sección, o bien no es una bendición; y lo mismo puede decirse de los §§ 20 y 25.
 
 [^7]: (402:4) Éstos son los tres demonios, Â<i>z</i>, Aeshm y Nîyâz (véase Bund. XXVIII, 15-17, 26, 27).
 
-[^8]: (402:5) Es muy posible que el verbo fuera yehabûnâ<i>d</i>, p. 403 en lugar de yehevûnâ<i>d</i>, en cuyo caso tendríamos 'darte un pasaporte'.
+[^8]: (402:5) Es muy posible que el verbo fuera yehabûnâ<i>d</i>, p. 403 en lugar de yehevûnâ<i>d</i>, en cuyo caso tendríamos «darte un pasaporte».
 
-[^9]: (403:1) El significado de khvâpar (Av. <i>h</i><i>v</i>âpara) no es de ninguna manera seguro; es un epíteto de Aûharmazd, ángeles y espíritus, y a menudo se supone que significa 'protector'; pero también es un término aplicado a la tierra y a la descendencia; tal vez 'autosuficiente' se ajustaría mejor tanto a su etimología como a sus diversas aplicaciones, pero la raíz par tiene muchos otros significados.
+[^9]: (403:1) El significado de khvâpar (Av. <i>h</i><i>v</i>âpara) no es de ninguna manera seguro; es un epíteto de Aûharmazd, ángeles y espíritus, y a menudo se supone que significa «protector»; pero también es un término aplicado a la tierra y a la descendencia; tal vez «autosuficiente» se ajustaría mejor tanto a su etimología como a sus diversas aplicaciones, pero la raíz par tiene muchos otros significados.
 
 [^10]: (403:2) Es decir, dos grandes ciclos. Es habitual que los copistas de manuscritos Pahlavi deseen, en sus colofones, que las personas para quienes se escribieron los manuscritos, ya sean ellos mismos o terceros, los conserven durante ciento cincuenta años antes de legárselos a sus hijos; dicho período se menciona porque se supone que constituye un gran ciclo de la luna y los planetas.
 

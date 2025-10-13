@@ -62,7 +62,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (337 : 1) Voir Pahl. Vend. VII, 65-71.
+[^1]: (337 : 1) Voir Pahl. Vend. VII, 65-71.
 
 [^2]: (337:2) Lp, B29 ont « pour ».
 

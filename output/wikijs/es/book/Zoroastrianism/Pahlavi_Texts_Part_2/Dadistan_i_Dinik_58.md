@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 1\. La quincuagésima séptima pregunta es la que usted formula así: ¿Cuántas clases de tutela familiar y adopción _existen_?
 
-2. La respuesta es esta: se dice que hay tres tipos: el existente, el provisto y el designado. 3. Un hijo adoptivo existente es como una esposa que puede ser privilegiada, o una hija única es un tipo de hijo adoptivo debido a la confianza en sí misma, como sucede cuando no hay esposa, y una hija para quien no hay esposo ni se le provee de nadie, es la que queda.
+2\. La respuesta es esta: se dice que hay tres tipos: el existente, el provisto y el designado. 3. Un hijo adoptivo existente es como una esposa que puede ser privilegiada, o una hija única es un tipo de hijo adoptivo debido a la confianza en sí misma, como sucede cuando no hay esposa, y una hija para quien no hay esposo ni se le provee de nadie, es la que queda.
 
 4\. El hijo adoptivo _que_ es proporcionado es aquel _que_ es reconocido, que es aceptado por uno mismo [^1], y _libre_ de _ser_ designado, o _de_ necesidad [^2].
 

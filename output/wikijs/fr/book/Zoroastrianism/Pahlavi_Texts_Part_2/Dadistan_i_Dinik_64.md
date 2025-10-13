@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^1]: (197:4) Voir Chap. II, 10.
 
-[^2] : (197 :5) Le même que le Marhayâ et Marhîyôih du Chap. XXXVII, 82.
+[^2]: (197 :5) Le même que le Marhayâ et Marhîyôih du Chap. XXXVII, 82.
 
 [^3]: (198:1) C'est la seconde des quatre périodes de trois mille ans dont le temps est censé être composé (voir Chap. XXXVII, 11 n). La « forme du prêtre du feu » est l'une des créations spirituelles de la première période, forme sous laquelle l'homme fut créé durant la seconde période, et cet homme primitif devint Gâyômar<i>d</i> (c'est-à-dire, « un mortel vivant ») par la persécution de l'esprit malin (voir § 5) au début de la troisième période. Les deux premières étapes de cette création ne sont pas décrites dans le texte des Bundahi<i>s</i> connus des Européens.
 

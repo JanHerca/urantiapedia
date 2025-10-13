@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 0\. El significado de los Gâthas [^1].
 
-1\. Estos tres Ashem-vohûs (Yas. XI, final) que <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> _representan_ [^2] el Fravarânê (Yas. XI, final) del ritual preliminar (pê<i>s</i> nîrang) y la rotación de estos tres Hâs ('capítulos'), el Fravarânê, Frastuyê y Âstuyê—fravarânê _siendo_ el comienzo del Fravarânê [^3] _que se extiende_ hasta frasastayaê<i>k</i>a [^4], frastuyê [^5], el comienzo del Frastuyê (Yas. XII, I-XIII, 26) _que se extiende_ hasta el Âstuyê, y âstuyê [^6], el comienzo del Âstaothwanem [^7], (Yas. XIII, 27-XIV, final) _que se extiende_ hasta âstaothwanem<i>k</i>â daênay<i>a</i>u Mâzdayasnôi<i>s</i>—_también representan_ el Vîsâi-v<i>e</i>\-ameshâ-spe<i>n</i>tâ (Yas. XV), _que es_ el comienzo del Stôtânyasnô ('el ritual de los alabadores') [^8], y estos tres Hâs del Baghãm (Yas. XIX-XXI).
+1\. Estos tres Ashem-vohûs (Yas. XI, final) que <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> _representan_ [^2] el Fravarânê (Yas. XI, final) del ritual preliminar (pê<i>s</i> nîrang) y la rotación de estos tres Hâs («capítulos»), el Fravarânê, Frastuyê y Âstuyê—fravarânê _siendo_ el comienzo del Fravarânê [^3] _que se extiende_ hasta frasastayaê<i>k</i>a [^4], frastuyê [^5], el comienzo del Frastuyê (Yas. XII, I-XIII, 26) _que se extiende_ hasta el Âstuyê, y âstuyê [^6], el comienzo del Âstaothwanem [^7], (Yas. XIII, 27-XIV, final) _que se extiende_ hasta âstaothwanem<i>k</i>â daênay<i>a</i>u Mâzdayasnôi<i>s</i>—_también representan_ el Vîsâi-v<i>e</i>\-ameshâ-spe<i>n</i>tâ (Yas. XV), _que es_ el comienzo del Stôtânyasnô («el ritual de los alabadores») [^8], y estos tres Hâs del Baghãm (Yas. XIX-XXI).
 
 2\. En la exposición (<i>k</i>ashî<i>d</i>ak) y a través de la <span id="p354"><sup><small>[ p. 354 ]</small></sup></span> evidencia de la revelación (dînô) los sabios de la fe primitiva [^9] _han_ dicho así, que un hombre de quince años [^10], y un hijo y hermano de Mazdayasnians—cuando confiesa _sus_ fallas (mândak) a los sumos sacerdotes (ra<i>d</i>ân), y le traerán el látigo y el azote [^11], y estos cinco Gâthas [^12] son ​​cantados y las buenas aguas consagradas por él, y toda la _ceremonia_ del renovado nacimiento (navî<i>d</i>\-zâ<i>d</i>îh) [^13] es realizada por él—_se convierte en un joven maduro y no en un niño, y una parte de las oraciones de iniciación (nâpar) y de los fuegos debe ser entregada a él [^14]; y cuando no realiza tanto, no se le debe dar una parte. 3. Estos cinco [^15] Gâthas se componen del cuerpo de un hombre justo.
 
@@ -46,17 +46,17 @@ dateCreated: 2025-10-10T14:41:20Z
 
 5\. Ashem-Ahurem-mazdãm (Visp. XV) debe recitarse [^17] tres veces antes de la llegada de Hûshê<i>d</i>ar, Hûshê<i>d</i>ar-mâh y Sôshyans; y cuando también recitan el capítulo (hâ<i>d</i>) correctamente, y por verso (gâs) y estrofa, esos apóstoles están presentes [^18], y el país se vuelve más floreciente y más dominante en el mundo.
 
-6\. Las veintidós estrofas de Tâ-v<i>e</i>\-urvâtâ (Yas. XXXI) son los veintidós juicios (dâ<i>d</i>istân) de los que se habla en el Hâ<i>d</i>ôkht _Nask_ [^19] así:—'Anaomô mananghê daya vîspâi kva, kva parô?' (¿Dónde se deben producir más allá de todo pensamiento? ¿Y dónde antes?) 'Alojamiento en el juez, para que mientras tenga veintidós juicios sea más justo'; de modo que cuando rezan bien el capítulo Tâ-v<i>e</i>\-urvâtâ y lo recitan línea por línea y estrofa, los jueces poseen esos veintidós juicios más correctamente, y la prudencia se aloja más en ellos.
+6\. Las veintidós estrofas de Tâ-v<i>e</i>\-urvâtâ (Yas. XXXI) son los veintidós juicios (dâ<i>d</i>istân) de los que se habla en el Hâ<i>d</i>ôkht _Nask_ [^19] así:—«Anaomô mananghê daya vîspâi kva, kva parô?» (¿Dónde se deben producir más allá de todo pensamiento? ¿Y dónde antes?) «Alojamiento en el juez, para que mientras tenga veintidós juicios sea más justo»; de modo que cuando rezan bien el capítulo Tâ-v<i>e</i>\-urvâtâ y lo recitan línea por línea y estrofa, los jueces poseen esos veintidós juicios más correctamente, y la prudencia se aloja más en ellos.
 
 7\. Las dieciséis estrofas del capítulo <i>H</i><i>v</i>aêtumaithi_capítulo_ (Yas. XXXII) [^20] alojan a los guerreros, de modo que es posible, durante su buena protección, forzar al enemigo _a alejarse_ de esos dieciséis países que la Vendidad [^21] menciona en _su_ primer fargar<i>d</i>.
 
 <span id="p357"><sup><small>[ pág. 357 ]</small></sup></span>
 
-8\. Las catorce estrofas de Yathâ-âi<i>s</i> (Yas. XXXIII) son por esta razón, porque siete arcángeles son más diligentes en la actividad _para_ el espíritu, y siete arcángeles [^22] para el mundo, para que puedan alcanzar 'el cielo, el hogar (mêhônŏ) de Aûharmazd, el hogar de los arcángeles, el hogar de aquellos justos', avi garô-nmânem, maêthanem Ahurahê mazd<i>a</i>u, maêthanem ameshanãm spe<i>n</i>tanãm, maêthanem anyaêshãm ashaonãm [^23]. 9. Las tres repeticiones (dânar) de Y<i>e</i>\-s<i>e</i>vi<i>s</i>tô (Yas. XXXIII, 11) [^24], _y_ la retención del agua bendita (zôhar) en estas _repeticiones_, son para las cuatro clases [^25], y por esta _razón_ en Ahurâi mazdâi _y_ ashem<i>k</i>â frâda<i>d</i> [^26] el agua bendita es <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> debe mantenerse a la altura del corazón de aquel que es el sacerdote oficiante (zôt), y en sraotâ [^27] _debe_ mantenerse a la altura del brazo de aquel que es el sacerdote oficiante, para que mientras los guerreros están en batalla con extranjeros (anâîrân) puedan estar más llenos de aliento (vayô-gîrtar), y los agricultores más fuertes en la labranza y el cultivo del mundo.
+8\. Las catorce estrofas de Yathâ-âi<i>s</i> (Yas. XXXIII) son por esta razón, porque siete arcángeles son más diligentes en la actividad _para_ el espíritu, y siete arcángeles [^22] para el mundo, para que puedan alcanzar «el cielo, el hogar (mêhônŏ) de Aûharmazd, el hogar de los arcángeles, el hogar de aquellos justos», avi garô-nmânem, maêthanem Ahurahê mazd<i>a</i>u, maêthanem ameshanãm spe<i>n</i>tanãm, maêthanem anyaêshãm ashaonãm [^23]. 9. Las tres repeticiones (dânar) de Y<i>e</i>\-s<i>e</i>vi<i>s</i>tô (Yas. XXXIII, 11) [^24], _y_ la retención del agua bendita (zôhar) en estas _repeticiones_, son para las cuatro clases [^25], y por esta _razón_ en Ahurâi mazdâi _y_ ashem<i>k</i>â frâda<i>d</i> [^26] el agua bendita es <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> debe mantenerse a la altura del corazón de aquel que es el sacerdote oficiante (zôt), y en sraotâ [^27] _debe_ mantenerse a la altura del brazo de aquel que es el sacerdote oficiante, para que mientras los guerreros están en batalla con extranjeros (anâîrân) puedan estar más llenos de aliento (vayô-gîrtar), y los agricultores más fuertes en la labranza y el cultivo del mundo.
 
 10\. Las quince estrofas de Yâ-<i>s</i>kyaothanâ (Yas. XXXIV) son por esta razón, porque se dan [^28] para la destrucción de esos quince demonios que se revelan en la parte médica (bêshâ<i>z</i>) del Hâ<i>d</i>ôkht _Nask_ [^29]. 11. Las cuatro repeticiones (bâr) de Mazdâ-a<i>d</i>\-môi (Yas. XXXIV, 15) [^30] son ​​para la correcta venida de la parte de estas cinco jefaturas (ra<i>d</i>îh), el gobernante de la casa, el gobernante de la aldea, el gobernante de la tribu, el gobernante de la provincia y el supremo Zaratû<i>s</i>t [^31].
 
-12\. Las dos repeticiones de Ahyâ-yâsâ (Yas. XVIII, 1) [^32], son para que el soberano (dahyûpat) no se apodere de inmediato del cuerpo, la consciencia y el alma. 13. Esos cuatro Yathâ-ahû-vairyôs del primer _Gâtha_ [^33] son ​​para que los inferiores se vuelvan más tolerantes a las órdenes de los superiores, y los buenos pensamientos, las buenas palabras y las buenas acciones se dominen (mâhmântar) en el mundo, y el demonio sea más impotente (apâ<i>d</i>akhshâhtar).
+12\. Las dos repeticiones de Ahyâ-yâsâ (Yas. XVIII, 1) [^32], son para que el soberano (dahyûpat) no se apodere de inmediato del cuerpo, la consciencia <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> y el alma. 13. Esos cuatro Yathâ-ahû-vairyôs del primer _Gâtha_ [^33] son ​​para que los inferiores se vuelvan más tolerantes a las órdenes de los superiores, y los buenos pensamientos, las buenas palabras y las buenas acciones se dominen (mâhmântar) en el mundo, y el demonio sea más impotente (apâ<i>d</i>akhshâhtar).
 
 14\. En resumen (aê-mar) [^34], Ahyâ-yâsâ es como (pavan) [^35] Aûharmazd y el hombre justo, Khshmaibyâ como Vohûman y el ganado, A<i>d</i>\-tâ-vakhshyâ como Ar<i>d</i>avahi<i>s</i>t y el fuego, Tâ-v<i>e</i>\-urvâtâ como Shatvaîrô [^36] y el metal, el <i>H</i><i>v</i>aêtumaithi como el Gâtha de Spendarma<i>d</i> y la tierra, Yatha-âi<i>s</i> como Horvada<i>d</i> y el agua, y Yâ-<i>s</i>kyaothanâ como Amerôda<i>d</i> y plantas.
 
@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 18\. Las cinco estrofas de Ithâ-â<i>d</i>\-yazamaidê (Yas. XXXVII) son de agradecimiento y alabanza por la producción de las buenas creaciones de Aûharmazd.
 
-19\. Las cinco estrofas del Imãm-âa<i>d</i>\-zãm (Yas. XXXVIII) se deben a esos cinco consuelos y cinco incomodidades de la tierra, que, como se declara en el tercer fargar<i>d</i> en la Vendidad [^43], se cumplen <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> así:—'El primer consuelo de la tierra proviene de la tierra sobre la que camina un hombre justo; el segundo es cuando harán la morada de los buenos y encenderán fuegos en ella; el tercero es cuando sembrarán maíz en ella y se cuidarán de la materia muerta; el cuarto es cuando todas las bestias _de carga_ nazcan en ella; el quinto es cuando todas las bestias _de carga_ estén en ella [^44]; y su primera incomodidad es la cresta de Arezûr [^45] y la puerta del infierno; la segunda es cuando la excavan [^46] _para_ un _cuerpo_ muerto; la tercera es cuando _uno_ construye un depósito _para_ los muertos_ (khazân) [^47] sobre ella; la cuarta es los agujeros de sus criaturas nocivas; la quinta es cuando abandonarán a un hombre en aflicción (var<i>d</i>akîh) sobre ella, que es justo.'
+19\. Las cinco estrofas del Imãm-âa<i>d</i>\-zãm (Yas. XXXVIII) se deben a esos cinco consuelos y cinco incomodidades de la tierra, que, como se declara en el tercer fargar<i>d</i> en la Vendidad [^43], se cumplen <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> así:—«El primer consuelo de la tierra proviene de la tierra sobre la que camina un hombre justo; el segundo es cuando harán la morada de los buenos y encenderán fuegos en ella; el tercero es cuando sembrarán maíz en ella y se cuidarán de la materia muerta; el cuarto es cuando todas las bestias _de carga_ nazcan en ella; el quinto es cuando todas las bestias _de carga_ estén en ella [^44]; y su primera incomodidad es la cresta de Arezûr [^45] y la puerta del infierno; la segunda es cuando la excavan [^46] _para_ un _cuerpo_ muerto; la tercera es cuando _uno_ construye un depósito _para_ los muertos_ (khazân) [^47] sobre ella; la cuarta es los agujeros de sus criaturas nocivas; la quinta es cuando abandonarán a un hombre en aflicción (var<i>d</i>akîh) sobre ella, que es justo.»
 
 20\. Las cinco estrofas de Ithâ (Yas. XXXIX) son exactamente las mismas que las anteriores.
 
@@ -102,7 +102,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 39\. Un Vohû-khshathrem yazamaidê (Visp. XXIII, 1-9) [^74] es para la alabanza de Shatvaîrô [^75], y otro para el metal. 40. Las dos repeticiones de <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> Avi-apâm (Visp. XXIV, 1-12) [^76] son, una para la alabanza de las aguas, y otra para las plantas.
 
-41\. Las nueve estrofas del Vahi<i>s</i>tôi<i>s</i>ti (Yas. LII) se deben a esas nueve cosas que son [^77] . . . el Zaratû<i>s</i>tismo supremo que se aloja en los Zaratû<i>s</i>ts supremos, la fuente de las fuentes, el puente _sobre_ las aguas, e incluso el río navegable, el hombre justo y la mujer justa. 42. Y _es_ un Gâtha de un capítulo, _y_ cada estrofa de cuatro líneas, excepto Ithâ-î-haithyâ-narô (Yas. LII, 6) [^78], pues _hay_ siempre un señor y soberano en el mundo. 43. Y esas cuatro líneas son por esta _razón_, porque _se_ declara: <i>k</i>athru<i>s</i> hamay<i>a</i>u khshapô dahmayâ<i>d</i> parô âfritôi<i>d</i> [^79], 'cuatro veces cada noche es la “bendición de lo sagrado” (Yas. LIX),' y tres _veces_ Srôsh [^80], dos veces Bûshâsp [^81], y una vez Aêshm [^82] vendrán <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> al mundo material. 44. Y las cinco líneas de esa única estrofa (Yas. LII, 6) son por esta razón, porque los asistentes del supremo Zaratû<i>s</i>t son cinco: el gobernante de la casa, el gobernante de la aldea, el gobernante de la tribu, el gobernante de la provincia y aquella que es su propia esposa (nârîk) [^83]. 45. Las dos repeticiones de Vahi<i>s</i>tâ-î<i>s</i>tis (Yas. LII, 1) [^84] son, una para la alabanza de los soberanos y otra para la alabanza de la paz (pa<i>d</i>mân).
+41\. Las nueve estrofas del Vahi<i>s</i>tôi<i>s</i>ti (Yas. LII) se deben a esas nueve cosas que son [^77] . . . el Zaratû<i>s</i>tismo supremo que se aloja en los Zaratû<i>s</i>ts supremos, la fuente de las fuentes, el puente _sobre_ las aguas, e incluso el río navegable, el hombre justo y la mujer justa. 42. Y _es_ un Gâtha de un capítulo, _y_ cada estrofa de cuatro líneas, excepto Ithâ-î-haithyâ-narô (Yas. LII, 6) [^78], pues _hay_ siempre un señor y soberano en el mundo. 43. Y esas cuatro líneas son por esta _razón_, porque _se_ declara: <i>k</i>athru<i>s</i> hamay<i>a</i>u khshapô dahmayâ<i>d</i> parô âfritôi<i>d</i> [^79], «cuatro veces cada noche es la «bendición de lo sagrado» (Yas. LIX),» y tres _veces_ Srôsh [^80], dos veces Bûshâsp [^81], y una vez Aêshm [^82] vendrán <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> al mundo material. 44. Y las cinco líneas de esa única estrofa (Yas. LII, 6) son por esta razón, porque los asistentes del supremo Zaratû<i>s</i>t son cinco: el gobernante de la casa, el gobernante de la aldea, el gobernante de la tribu, el gobernante de la provincia y aquella que es su propia esposa (nârîk) [^83]. 45. Las dos repeticiones de Vahi<i>s</i>tâ-î<i>s</i>tis (Yas. LII, 1) [^84] son, una para la alabanza de los soberanos y otra para la alabanza de la paz (pa<i>d</i>mân).
 
 46\. Las dos repeticiones de Vahi<i>s</i>tem-Ahurem-mazdãm (Visp. XXVI) [^85] son, una _para_ la alabanza de Aûharmazd y los arcángeles, y otra para la destrucción de los demonios. 47. Las cuatro repeticiones del Airyamana (Yas. LIII) [^86] son ​​para la existencia de más sumisión (aîrmânîh) en la casa, la aldea, la tribu y la provincia. 48. Las cuatro repeticiones de Ava<i>d</i>\-mi<i>z</i>dem (Visp. XXVII) son para la curación de aquellos [^87] _que_ habitan en la casa, la aldea, la tribu y la provincia.
 
@@ -160,7 +160,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^12]: (354:4) Los cinco Gâthas son el Ahunavaiti (Yas. XXVIII-XXXIV), el U<i>s</i>tavaiti (Yas. XLII-XLV), el Spe<i>n</i>tâ-mainyû (Yas. XLVI-XLIX), el Vohû-khshathra (Yas. L), y el Vahi<i>s</i>tôi<i>s</i>ti (Yas. LII); estas colecciones de himnos se denominan así a partir de las palabras con las que cada uno de ellos comienza, excepto el primero, que deriva su nombre del Ahunavar (véase Bund. I, 21) que está escrito en la misma métrica.
 
-[^13]: (354:5) Esta es la forma Pahlavi del navazûdi Parsi, un término aplicado a toda la ceremonia iniciática de un nônâbar, o sacerdote recién iniciado; el término evidentemente implica que la ceremonia se considera de alguna manera a la luz de la 'regeneración'.
+[^13]: (354:5) Esta es la forma Pahlavi del navazûdi Parsi, un término aplicado a toda la ceremonia iniciática de un nônâbar, o sacerdote recién iniciado; el término evidentemente implica que la ceremonia se considera de alguna manera a la luz de la «regeneración».
 
 [^14]: (354:6) Es decir, puede tomar parte en los deberes sacerdotales regulares, incluida la iniciación de otros neófitos.
 
@@ -168,9 +168,9 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^16]: (355:1) Se supone que estos primeros tres capítulos de la colección de himnos Ahunavaiti simbolizan aquí los tres elementos materiales, cuya unión distingue el cuerpo de un hombre de las sustancias inorgánicas; mientras que las once estrofas que contiene cada uno de estos capítulos simbolizan las once existencias inmateriales que se dice que están contenidas en el mismo cuerpo.
 
-[^17]: (355:2) Esto es dudoso, ya que no se expresa ningún verbo, y la palabra bâr, 'tiempo', está tachada en M6, por lo que es posible leer 'los “tres principales” del Ashem-Ahurem-mazdãm son la llegada de Hûshê<i>d</i>ar', etc. Los 'tres principales' (3 levînŏg) serían una posible traducción pahlavi del Av. ti<i>s</i>rô paoiryô y ti<i>s</i>ra paoirya de Visp. XV, 4-6, en lugar de los 'tres primeros' reales (3-i fratûm), como puede verse en Pahl. Visp. VIII, 17, 20, donde tanto pê<i>s</i> (= levînŏ) como fratûm se usan indistintamente para Av. paoiryô. En cualquier caso, la idea que se transmite en el texto es que estos «tres primeros» hacen referencia a los tres futuros apóstoles de la religión parsi (véase Bund. XXXII, 8, B. Yt. III, 13, 44, 52, 62). Sin embargo, en realidad, parecen referirse a los tres primeros capítulos del Ahunavaiti Gâtha, inmediatamente después de los cuales se recita este capítulo (Visp. XV) en el ritual parsi completo; la frase se traduce en la traducción pahlavi así: «Reverencio a los tres primeros no hablando, es decir, no digo nada durante ellos, y no me desmayo, es decir, no me quedo dormido durante ellos».
+[^17]: (355:2) Esto es dudoso, ya que no se expresa ningún verbo, y la palabra bâr, «tiempo», está tachada en M6, por lo que es posible leer «los «tres principales» del Ashem-Ahurem-mazdãm son la llegada de Hûshê<i>d</i>ar», etc. Los «tres principales» (3 levînŏg) serían una posible traducción pahlavi del Av. ti<i>s</i>rô paoiryô y ti<i>s</i>ra paoirya de Visp. XV, 4-6, en lugar de los «tres primeros» reales (3-i fratûm), como puede verse en Pahl. Visp. VIII, 17, 20, donde tanto pê<i>s</i> (= levînŏ) como fratûm se usan indistintamente para Av. paoiryô. En cualquier caso, la idea que se transmite en el texto es que estos «tres primeros» hacen referencia a los tres futuros apóstoles de la religión parsi (véase Bund. XXXII, 8, B. Yt. III, 13, 44, 52, 62). Sin embargo, en realidad, parecen referirse a los tres primeros capítulos del Ahunavaiti Gâtha, inmediatamente después de los cuales se recita este capítulo (Visp. XV) en el ritual parsi completo; la frase se traduce en la traducción pahlavi así: «Reverencio a los tres primeros no hablando, es decir, no digo nada durante ellos, y no me desmayo, es decir, no me quedo dormido durante ellos».
 
-[^18]: (355:3) K20 tiene 'llegar temprano'.
+[^18]: (355:3) K20 tiene «llegar temprano».
 
 [^19]: (356:1) Véase B. Yt. III, 25. Tanto el texto avéstico aquí citado como la traducción sugerida deben interpretarse con cautela, ya que los manuscritos no concuerdan en las tres palabras centrales; K20 tiene manaNhê de vîspâi kaua, y M6 tiene manaNhê kya vîsâi kaia. Se ha adoptado la primera lectura, con una ligera corrección, por parecer más inteligible; pero el significado de la palabra precedente, anaomô, es incierto. El autor parece haber citado una versión pahlavi del Nask que contenía esta cita avéstica.
 
@@ -190,7 +190,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^27]: (358:1) La primera palabra en la tercera línea de la estrofa; pero esto, nuevamente, debe adivinarse a partir de una versión Pahlavi en los MSS. que puede leerse va vâ-srôdâân.
 
-[^28]: (358:2) O 'producido'.
+[^28]: (358:2) O «producido».
 
 [^29]: (358:3) En la última división de ese Nask (ver B. Yt. III, 25, nota).
 
@@ -198,17 +198,17 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^31]: (358:5) Véase Yas. XIX, 50-52. El último de estos gobernantes debió haber sido el pontífice supremo o patriarca de la provincia, y en la provincia de Ragha (Rages o Raî, cerca de Teherán) fue gobernante tanto temporal como espiritual.
 
-[^32]: (358:6) Esta primera estrofa del Ahunavaiti Gâtha se recita dos veces, no sólo en su lugar apropiado (como lo es la primera estrofa de cada capítulo, en los Gâthas), sino también al final de cada capítulo del Ahunavaiti Gâtha, mientras el sacerdote oficiante rocía las ramitas sagradas con la leche sagrada o gâu<i>s</i> <i>g</i>îvya, 'producto de la vaca viva' (ver Ensayos de Haug, págs. 405, 406).
+[^32]: (358:6) Esta primera estrofa del Ahunavaiti Gâtha se recita dos veces, no sólo en su lugar apropiado (como lo es la primera estrofa de cada capítulo, en los Gâthas), sino también al final de cada capítulo del Ahunavaiti Gâtha, mientras el sacerdote oficiante rocía las ramitas sagradas con la leche sagrada o gâu<i>s</i> <i>g</i>îvya, «producto de la vaca viva» (ver Ensayos de Haug, págs. 405, 406).
 
 [^33]: (359:1) Después de los dos Ahyâ-yâsâs, al final de cada capítulo del Ahunavaiti Gâtha, se recita cuatro veces la fórmula Yathâ-ahû-vairyô (véase Bund. I, 21).
 
-[^34]: (359:2) O 'para resumir'.
+[^34]: (359:2) O «para resumir».
 
-[^35]: (359:3) No está del todo claro cómo debe traducirse pavan, 'en, sobre, con, por, a través de, como, para', etc., en cada cláusula de esta sección; pero la intención es evidentemente comparar los siete capítulos del Ahunavaiti Gathâ con los siete arcángeles y las siete creaciones terrenales que ellos protegen individualmente (ver Cap. XV).
+[^35]: (359:3) No está del todo claro cómo debe traducirse pavan, «en, sobre, con, por, a través de, como, para», etc., en cada cláusula de esta sección; pero la intención es evidentemente comparar los siete capítulos del Ahunavaiti Gathâ con los siete arcángeles y las siete creaciones terrenales que ellos protegen individualmente (ver Cap. XV).
 
 [^36]: (359:4) Aquí está escrito Shatrîvar.
 
-[^37]: (359:5) Probablemente significa 'la prosperidad que es _ocasionada_ por'; pero el significado exacto de la palabra frâk-shâm o freh-kashâm (o como sea que pueda leerse) es incierto.
+[^37]: (359:5) Probablemente significa «la prosperidad que es _ocasionada_ por»; pero el significado exacto de la palabra frâk-shâm o freh-kashâm (o como sea que pueda leerse) es incierto.
 
 [^38]: (359:6) Spendômat o Spendamat en Pahlavi.
 
@@ -218,23 +218,23 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^41]: (360:3) Véase Cap. X, 21; pero probablemente se refiere al Sakâ<i>d</i>ûm Nask (véase Cap. X, 25), ya que contenía una sección sobre pruebas de calor y frío.
 
-[^42]: (360:4) Estas palabras del Avesta están evidentemente corruptas, pero quizá se refiere a 'un fuego cuádruple'. K20 tiene <i>k</i>athrâyâim âthraiãm.
+[^42]: (360:4) Estas palabras del Avesta están evidentemente corruptas, pero quizá se refiere a «un fuego cuádruple». K20 tiene <i>k</i>athrâyâim âthraiãm.
 
 [^43]: (360:5) Aquí se escribe Vandîkdâ<i>d</i> (véase § 7). El pasaje citado no es una cita, sino tan solo un breve resumen de Vend. III, 1-37; y parece haberse derivado directamente del Avesta, sin la ayuda de la versión Pahlavi, ya que varias palabras difieren de dicha traducción.
 
-[^44]: (361:1) El verbo probablemente se omite por error, y deberíamos leer 'vacía la orina sobre él', de acuerdo con Vend. III, 20.
+[^44]: (361:1) El verbo probablemente se omite por error, y deberíamos leer «vacía la orina sobre él», de acuerdo con Vend. III, 20.
 
 [^45]: (361:2) Véase Bund. XII, 8.
 
-[^46]: (361:3) La lectura kalêndend (Pers. kalandand), como Vend. III, 27 se refiere al entierro de los muertos, y la misma idea podría obtenerse, de forma más fantasiosa, leyendo kilînênd, 'se convierten en arcilla' (compárese con Pers. gil, 'arcilla'); pero la lectura más obvia es karînênd, 'cortan', y tal como está la oración implicaría que 'cortan a sus muertos'.
+[^46]: (361:3) La lectura kalêndend (Pers. kalandand), como Vend. III, 27 se refiere al entierro de los muertos, y la misma idea podría obtenerse, de forma más fantasiosa, leyendo kilînênd, «se convierten en arcilla» (compárese con Pers. gil, «arcilla»); pero la lectura más obvia es karînênd, «cortan», y tal como está la oración implicaría que «cortan a sus muertos».
 
 [^47]: (361:4) Véase Cap. II, 6.
 
 [^48]: (361:5) Los tres apóstoles esperados en el futuro (véase § 5 y Bund. XXXII, 8). Es dudoso que estos tres pasajes del Yasna (pág. 362) se refieran aquí al mismo tema, pero no se menciona ningún otro para los dos primeros. Tras completar la enumeración de las secciones del Yasna de siete capítulos, el autor procede ahora a mencionar los pasajes que se recitan más de una vez durante el ritual.
 
-[^49]: (362:1) M6 tiene gairî, 'en una canción', con la g obsoleta, que es muy parecida a la s, y también se usa en la palabra garô en el § 22; esta es una variante que vale la pena considerar para los traductores del Avesta. K20 solo tiene Ashahyâ.
+[^49]: (362:1) M6 tiene gairî, «en una canción», con la g obsoleta, que es muy parecida a la s, y también se usa en la palabra garô en el § 22; esta es una variante que vale la pena considerar para los traductores del Avesta. K20 solo tiene Ashahyâ.
 
-[^50]: (362:2) Esta fórmula (ver B. Yt. II, 64) se recita después de cada capítulo de los Gâthas, pero no parece que se recite dos veces en ningún lugar; por lo que las palabras 2 dânar, 'dos ​​repeticiones', tal vez se hayan insertado aquí en el lugar equivocado, ya que faltan en § 25.
+[^50]: (362:2) Esta fórmula (ver B. Yt. II, 64) se recita después de cada capítulo de los Gâthas, pero no parece que se recite dos veces en ningún lugar; por lo que las palabras 2 dânar, «dos ​​repeticiones», tal vez se hayan insertado aquí en el lugar equivocado, ya que faltan en § 25.
 
 [^51]: (362:3) Estas palabras se omiten en el texto Pahlavi, evidentemente por error.
 
@@ -246,15 +246,15 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^55]: (362:7) Véase § 7.
 
-[^56]: (363:1) Es decir, el primer verso (ta<i>d</i> thwâ peresâ ere<i>s</i> môi vao<i>k</i>â Ahurâ! 'que te preguntaré, dime _lo_ bien, ¡oh Ahura!') se repite al principio de cada una de las primeras diecinueve estrofas, y al recitar la primera estrofa dos veces (como en todos los capítulos de los Gâthas), estas palabras se recitan veinte veces antes de llegar a la última. Las frases 'y por esta _razón_' y 'porque deberían pronunciar de nuevo el juicio original' se omiten en M6.
+[^56]: (363:1) Es decir, el primer verso (ta<i>d</i> thwâ peresâ ere<i>s</i> môi vao<i>k</i>â Ahurâ! «que te preguntaré, dime _lo_ bien, ¡oh Ahura!») se repite al principio de cada una de las primeras diecinueve estrofas, y al recitar la primera estrofa dos veces (como en todos los capítulos de los Gâthas), estas palabras se recitan veinte veces antes de llegar a la última. Las frases «y por esta _razón_» y «porque deberían pronunciar de nuevo el juicio original» se omiten en M6.
 
-[^57]: (363:2) Éstas no pueden ser las mismas 'jefaturas' (ra<i>d</i>îh) que las mencionadas en el § 11, de las cuales sólo hay cinco; pero tal vez sean las jefaturas espirituales, o primacías, de las otras seis regiones de la tierra (véase Bund. XXIX, 1).
+[^57]: (363:2) Éstas no pueden ser las mismas «jefaturas» (ra<i>d</i>îh) que las mencionadas en el § 11, de las cuales sólo hay cinco; pero tal vez sean las jefaturas espirituales, o primacías, de las otras seis regiones de la tierra (véase Bund. XXIX, 1).
 
 [^58]: (363:3) Suponiendo que aî<i>s</i>an significa aî<i>s</i>ân.
 
 [^59]: (363:4) El puente <i>K</i>inva<i>d</i>, o ruta del alma hacia el otro mundo (véase Cap. XII, 31). Parte de estas cláusulas cuarta y quinta se omite en K20 por error.
 
-[^60]: (364:1) O puede ser, 'a través de su propio intelecto (khvê<i>s</i>ak hûsh)', o simplemente otro modo de escribir khvê<i>s</i>kârîh, 'industria'.
+[^60]: (364:1) O puede ser, «a través de su propio intelecto (khvê<i>s</i>ak hûsh)», o simplemente otro modo de escribir khvê<i>s</i>kârîh, «industria».
 
 [^61]: (364:2) Considerando cada una de las estrofas como una ofrenda o propiciación a (Av. usefriti) los ángeles.
 
@@ -274,7 +274,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^69]: (365:2) La primera estrofa del Gâtha Spe<i>n</i>tâ-mainyû, que se recita dos veces, tanto en su lugar apropiado como al final de cada capítulo de ese Gâtha (ver § 12, nota).
 
-[^70]: (365:3) Parece probable que el escritor Pahlavi haya confundido aquí a Spendamat, 'el espíritu benéfico', con el arcángel Spendarma<i>d</i> que tiene a su cargo especial la tierra; sus nombres son incluso más parecidos en Pahlavi que en inglés, aunque corrompidos a partir de las distintas formas Avesta spe<i>n</i>ta mainyu y spe<i>n</i>ta ârmaiti, respectivamente.
+[^70]: (365:3) Parece probable que el escritor Pahlavi haya confundido aquí a Spendamat, «el espíritu benéfico», con el arcángel Spendarma<i>d</i> que tiene a su cargo especial la tierra; sus nombres son incluso más parecidos en Pahlavi que en inglés, aunque corrompidos a partir de las distintas formas Avesta spe<i>n</i>ta mainyu y spe<i>n</i>ta ârmaiti, respectivamente.
 
 [^71]: (365:4) La Vigilia XXII sigue a Yas. XLIX en el ritual parsi completo, y se recita dos veces.
 
@@ -288,13 +288,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^76]: (366:1) Después de las dos recitaciones de Visp. XXIII, 1-9 siguen Vend. XV, XVI y Visp. XXIII, 10, y luego se recita Visp. XXIV, 1-12 dos veces, en el ritual parsi completo, seguido de Visp. XXV.
 
-[^77]: (366:2) Es evidente que aquí se pierden algunas palabras; M6 tiene m seguida de un espacio en blanco, y K20 tiene madam, 'sobre'. No se sabe con certeza si las cosas mencionadas deben contarse como cuatro, cinco o seis; pero suponiendo que sean cinco, es posible que las cuatro cosas que faltan en el texto sean las cuatro jefaturas restantes (véase § 11), las gobernaciones de la casa, la aldea, la tribu y la provincia, a cargo de sus respectivos gobernantes.
+[^77]: (366:2) Es evidente que aquí se pierden algunas palabras; M6 tiene m seguida de un espacio en blanco, y K20 tiene madam, «sobre». No se sabe con certeza si las cosas mencionadas deben contarse como cuatro, cinco o seis; pero suponiendo que sean cinco, es posible que las cuatro cosas que faltan en el texto sean las cuatro jefaturas restantes (véase § 11), las gobernaciones de la casa, la aldea, la tribu y la provincia, a cargo de sus respectivos gobernantes.
 
 [^78]: (366:3) Esta estrofa tiene cinco líneas y, por lo tanto, aquí se considera simbólica del monarca gobernante o pontífice.
 
-[^79]: (366:4) Este pasaje del Avesta no parece existir en ningún otro lugar, y su traducción Pahlavi, dada en el texto, no es del todo correcta; sería mejor así: 'a través de la “bendición del santo” cuatro veces cada noche'; dahma âfriti (Pahl. dâhmân âfrînô, 'bendición del santo') es el nombre técnico de Yas. LIX.
+[^79]: (366:4) Este pasaje del Avesta no parece existir en ningún otro lugar, y su traducción Pahlavi, dada en el texto, no es del todo correcta; sería mejor así: «a través de la «bendición del santo» cuatro veces cada noche»; dahma âfriti (Pahl. dâhmân âfrînô, «bendición del santo») es el nombre técnico de Yas. LIX.
 
-[^80]: (366:5) Véase Bund. XIX, 33, XXX, 29. Este ángel, invocado por la 'bendición' (Yas. LIX, 8), viene a defender a la humanidad contra las artimañas de Bûshâsp y Aêshm.
+[^80]: (366:5) Véase Bund. XIX, 33, XXX, 29. Este ángel, invocado por la «bendición» (Yas. LIX, 8), viene a defender a la humanidad contra las artimañas de Bûshâsp y Aêshm.
 
 [^81]: (366:6) La demonio de la pereza (véase Bund. XXVIII, 26).
 
@@ -308,13 +308,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^86]: (367:4) Llamado así por sus primeras palabras â airy<i>e</i>mâ; se recita cuatro veces después de Vend. XX, y poco después Visp. XXVII también se recita cuatro veces, como se menciona en § 48.
 
-[^87]: (367:5) M6 tiene 'del alma', lo cual es, sin duda, un error debido a la ilegibilidad del manuscrito del cual fue copiado.
+[^87]: (367:5) M6 tiene «del alma», lo cual es, sin duda, un error debido a la ilegibilidad del manuscrito del cual fue copiado.
 
-[^88]: (367:6) Este es el Fshûshô-mãthra ('un hechizo u oración para la prosperidad'). De Visp. I, 28, II, 30, Yas. LVI, ix, 6, LVIII, 13. No se sabe con certeza si el resto de Yas. LVII pertenece a los Gâthas; el sacerdote asistente lo recita en siete secciones, cada una desde una posición diferente; estas siete posiciones son las estaciones de los siete sacerdotes asistentes, quienes se supone que están presentes espiritualmente y que están dispuestos tres a cada lado y uno en el extremo sur del área ceremonial, mientras que el sacerdote oficiante principal ocupa el extremo norte (véase Ensayos de Haug, pág. 332).
+[^88]: (367:6) Este es el Fshûshô-mãthra («un hechizo u oración para la prosperidad»). De Visp. I, 28, II, 30, Yas. LVI, ix, 6, LVIII, 13. No se sabe con certeza si el resto de Yas. LVII pertenece a los Gâthas; el sacerdote asistente lo recita en siete secciones, cada una desde una posición diferente; estas siete posiciones son las estaciones de los siete sacerdotes asistentes, quienes se supone que están presentes espiritualmente y que están dispuestos tres a cada lado y uno en el extremo sur del área ceremonial, mientras que el sacerdote oficiante principal ocupa el extremo norte (véase Ensayos de Haug, pág. 332).
 
 [^89]: (368:1) La numeración de las estrofas y versos es correcta, como se desprende de los detalles del § 51. Respecto a las palabras, existe incertidumbre sobre qué constituye una palabra compuesta, pero, considerando cada compuesto en la edición de Westergaard de los textos como una sola palabra, el número total de palabras en los 1016 versos es de aproximadamente 6147; y esto podría reducirse a 5567 solo omitiendo el Yasna de siete capítulos y flexibilizando un poco la regla sobre las palabras compuestas. El significado de los dos últimos términos, mârik y khûr<i>d</i>ak, es dudoso, pero ciertamente no son sílabas ni letras, ya que el número de sílabas supera las 13 000. En otros lugares (véase Bund. I, 21), mârik suele significar «una palabra», pero en este caso ese significado se expresa con el término vâ<i>k</i>ak. Si el número 9999 es correcto, mârîk debe significar una clase particular de sílaba que incluiría aproximadamente tres cuartas partes del número total de sílabas. Cabe señalar, sin embargo, que Zâ<i>d</i>\-sparam, en los detalles que da sobre los Gâthas (véase SZS. XI, 10, nota 6), indica el número de mârîk en 6666. Los khûr<i>d</i>ak o «cosas pequeñas» son probablemente las consonantes.
 
-[^90]: (369:1) Todos los manuscritos tienen 'cuatro', y luego agregan la excepción sobre Ithâ-i al relato de este Gâtha, en lugar de mencionarlo en los detalles del Vahi<i>s</i>tôi<i>s</i>ti; error que se corrige aquí.
+[^90]: (369:1) Todos los manuscritos tienen «cuatro», y luego agregan la excepción sobre Ithâ-i al relato de este Gâtha, en lugar de mencionarlo en los detalles del Vahi<i>s</i>tôi<i>s</i>ti; error que se corrige aquí.
 
 [^91]: (369:2) Se lee kadmon yehevûni<i>s</i>nŏ, pero la última palabra, con parte de los cifrados que siguen, está arrancada en K20, y en M6 está escrita de manera que se parece a las letras del Avesta gnn gnn, que son ininteligibles, aunque algo así como Pahl. yehevûni<i>s</i>nŏ; sin embargo, puede haber pocas dudas en cuanto al significado general de la frase.
 

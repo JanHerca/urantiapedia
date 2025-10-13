@@ -78,21 +78,21 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^5]: (83:5) Se dice que las almas difuntas son alimentadas con aceite en el paraíso.
 
-[^6]: (83:6) K20 omite la palabra pûs, 'embrión'.
+[^6]: (83:6) K20 omite la palabra pûs, «embrión».
 
-[^7]: (83:7) El significado de 'corteza' para Pâz. ayvan es meramente una suposición; Anquetil tiene 'savia' (compárese con Pers. âvînâ, 'jugo'), pero esto difícilmente es consistente con el resto de la oración.
+[^7]: (83:7) El significado de «corteza» para Pâz. ayvan es meramente una suposición; Anquetil tiene «savia» (compárese con Pers. âvînâ, «jugo»), pero esto difícilmente es consistente con el resto de la oración.
 
 [^8]: (83:8) Véase Cap. XXVII, 25.
 
-[^9]: (84:1) K20 tiene 'Hêlmand', pero M6 tiene '<i>S</i>apîr', el equivalente huz. de 'Vêh', lo cual es más probable.
+[^9]: (84:1) K20 tiene «Hêlmand», pero M6 tiene «<i>S</i>apîr», el equivalente huz. de «Vêh», lo cual es más probable.
 
-[^10]: (84:2) O, 'abstinencia _de la impureza_.'
+[^10]: (84:2) O, «abstinencia _de la impureza_.»
 
 [^11]: (84:3) La fuente Arêdvîvsûr (ver Capítulo XIII, 3, 10).
 
 [^12]: (84:4) Es decir, por la savia que circula como las aguas de la tierra. La mayor parte de esta oración se omite en K20.
 
-[^13]: (84:5) Probablemente 'el Nâvadâ' y las 'aguas navegables' del Cap. XX, 7, 34, y Nâîvtâk del Cap. XXIX, 4, 5.
+[^13]: (84:5) Probablemente «el Nâvadâ» y las «aguas navegables» del Cap. XX, 7, 34, y Nâîvtâk del Cap. XXIX, 4, 5.
 
 [^14]: (84:6) Lectura amat, ‘cuando’, en lugar de mûn, ‘cual’ (véase la nota del Cap. I, 7).
 

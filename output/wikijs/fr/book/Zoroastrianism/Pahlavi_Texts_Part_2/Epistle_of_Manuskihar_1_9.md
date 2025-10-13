@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^2]: (312:2) Voir Chap. V, 1.
 
-[^3] : (312:3) Voir Chap. VI, 2-4.
+[^3]: (312:3) Voir Chap. VI, 2-4.
 
 [^4]: (313:1) L'auteur dit qu'il ne comprend pas cet argument de ses correspondants, parce qu'il diffère du point de vue qu'il adopte au chap. VI, 2, mais il faut avouer que le sens du passage en litige (Pahl. Vend. IX, 132, b) n'est pas très clair, car le mot ashâye<i>d</i>, 'il ne convient pas', peut aussi être lu ae shâye<i>d</i>, 'il conviendrait', à la fois là et dans notre texte.
 
@@ -92,6 +92,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^11]: (315:1) C'est-à-dire lorsque le cas différent se présente, ou lorsqu'il est manifestement plus efficace.
 
-[^12] : (315:2) Voir Chap. VI, 7.
+[^12]: (315:2) Voir Chap. VI, 7.
 
 [^13]: (316:1) Consulter sur les questions en suspens.

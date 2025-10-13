@@ -64,4 +64,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (291:1) Comparez le Chap. XCVIII, 3.
+[^1]: (291:1) Comparez le Chap. XCVIII, 3.

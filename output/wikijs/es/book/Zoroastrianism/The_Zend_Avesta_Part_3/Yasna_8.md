@@ -44,7 +44,7 @@ Ofrezco el Myazda (de la) ofrenda de carne con una ofrenda completa y sagrada; y
 
 3\. ¡Oh, vosotros, los Generosos Inmortales, y vosotros, la ley Mazdayasniana, vosotros, hombres y mujeres justos, y vosotros, los Zaothras! Quienquiera entre estos Mazdayasnianos que se considere Mazdayasniano y desee vivir en la práctica de la liberalidad de la Rectitud [pues por la brujería se arruinan los asentamientos de la Rectitud], ¡haced que (a tal persona) se le enseñe (aún más), (vosotros), que sois las aguas, las plantas y los Zaothras!
 
-4. Y quien de estos Mazdayasnians, adultos, al invocar con fervor, no se atiene a estas palabras y habla así, se aproxima a la palabra del mago; pero, en contra de la palabra de ese mago, «una bendición es la Virtud (llamada) la Mejor».
+4\. Y quien de estos Mazdayasnians, adultos, al invocar con fervor, no se atiene a estas palabras y habla así, se aproxima a la palabra del mago; pero, en contra de la palabra de ese mago, «una bendición es la Virtud (llamada) la Mejor».
 
 5\. ¡Oh Ahura Mazda!, reina a tu voluntad y con un gobierno salvador sobre tus propias criaturas, y haz que el santo (hombre) también sea soberano a su voluntad sobre las aguas, las plantas y todas las criaturas puras y sagradas que contienen la semilla de la Rectitud. ¡Despojad a los malvados de todo poder!
 

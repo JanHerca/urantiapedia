@@ -98,7 +98,7 @@ Yê<i>n</i>hê hâtãm: Todos aquellos seres de los cuales Ahura Mazda. . . .
 
 ¿Quién golpea al hombre malvado [^756], quién golpea a la mujer malvada; quién hiere al <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> Droga diabólica, y es el más fuerte y destructor del mundo; quién mantiene y vigila todo este mundo en movimiento [^757];
 
-11. Quien, sin dormir jamás, vela por la creación de Mazda; quien, sin dormir jamás, vela por la creación de Mazda; quien protege todo el mundo material con su maza en alto, desde la hora en que se pone el sol;
+11\. Quien, sin dormir jamás, vela por la creación de Mazda; quien, sin dormir jamás, vela por la creación de Mazda; quien protege todo el mundo material con su maza en alto, desde la hora en que se pone el sol;
 
 12\. Quien nunca más disfrutó del sueño desde que los dos Espíritus crearon el mundo, a saber, el Espíritu bueno y el Espíritu malo; quien cada día, cada noche, lucha con los Daevas Mâzainya.
 

@@ -42,7 +42,7 @@ _Var<i>s</i>tmânsar Nask_.
 
 7\. Sobre la alabanza de Zaratû<i>s</i>t _hay_ esto, también, a saber: 'Tu dulzura y mansedumbre se muestran a las existencias mundanas, tu liderazgo de la religión es a través de Vohûman, _y_ eres muy versado en la rectitud [^7].' 8. Sobre la alabanza del ardor de Frashô<i>s</i>tar en el liderazgo de las buenas obras, en la virtud [^8], escuchando _la_ instrucción y hablando con veracidad, y en pastorear (fshegîh), cultivar el mundo, lograr beneficio (sû<i>d</i>ŏ tâshî<i>d</i>ârîh), y no dar liderazgo a los villanos [^9]. 9. Sobre la alabanza también de la energía _y_ sumo sacerdocio de <i>G</i>âmâsp [^10]. 10. Sobre la protección de las buenas <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> creaciones por Vohûman, _y_ también la de las almas de los justos _por_ Spenda<i>r</i>ma<i>d</i> también [^11].
 
-11. Sobre el castigo del gobernante malvado que se apropia de algo ilegalmente en su reino. 12. También sobre el severo castigo del gobernante malvado, de malos pensamientos, malas palabras, malas obras, hereje (dû<i>s</i>\-dênô), malvado en el infierno [^12]. 13. Sobre la respuesta de los arcángeles a Zaratû<i>s</i>t, en cuanto a la recompensa que pidió, para que quedara satisfecho [^13].
+11\. Sobre el castigo del gobernante malvado que se apropia de algo ilegalmente en su reino. 12. También sobre el severo castigo del gobernante malvado, de malos pensamientos, malas palabras, malas obras, hereje (dû<i>s</i>\-dênô), malvado en el infierno [^12]. 13. Sobre la respuesta de los arcángeles a Zaratû<i>s</i>t, en cuanto a la recompensa que pidió, para que quedara satisfecho [^13].
 
 14\. Es la justicia _que es_ la excelencia perfecta.
 

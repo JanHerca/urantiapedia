@@ -106,9 +106,9 @@ Y. L, 1. Oui, mon âme obtient vraiment l'assistance <span id="p171"><sup><small
 
 [^762]: 171:5 Âskârak stî.
 
-[^763] : 172:1 La traduction Pahlavi, comme d'habitude, pas littéralement exacte, fournit toujours l'indice correct, Zak î nazdistô (1) gêhânŏ min valman î darvand bakhshê<i>d</i> \[aîga<i>s</i> zak dên dâri<i>s</i>n barâ yansegûnyên\].
+[^763]: 172:1 La traduction Pahlavi, comme d'habitude, pas littéralement exacte, fournit toujours l'indice correct, Zak î nazdistô (1) gêhânŏ min valman î darvand bakhshê<i>d</i> \[aîga<i>s</i> zak dên dâri<i>s</i>n barâ yansegûnyên\].
 
-[^764] : 172:2 Frô tâi<i>s</i> vîspâi<i>s</i> <i>K</i>invatô frâ, peretûm.
+[^764]: 172:2 Frô tâi<i>s</i> vîspâi<i>s</i> <i>K</i>invatô frâ, peretûm.
 
 [^765]: 172:3 Âk<i>a</i>u (comparer avec l'indien âkê) ; 'qui s'approchent de Dieu et sont donc évidents (âshkârak) et Le voient.' Comp. âk<i>a</i>u dans Y. LI, 13, qui a été considéré comme un loc.
 
@@ -134,11 +134,11 @@ Y. L, 1. Oui, mon âme obtient vraiment l'assistance <span id="p171"><sup><small
 
 « Lorsque l'âme du pieux franchit ce pont, sa largeur atteint environ une lieue » (West, Mainyô-î Khard, p. 134). L'extension du pont pour les pieux est peut-être due à l'emploi du pluriel ici.
 
-[^777] : 174 : 1 Comparez Y. XXVIII, 3.
+[^777]: 174 : 1 Comparez Y. XXVIII, 3.
 
-[^778] : 174 : 2 Voir Y. XXVIII, 9.
+[^778]: 174 : 2 Voir Y. XXVIII, 9.
 
-[^779] : 174 : 3 Voir Y. XXVIII, 2.
+[^779]: 174 : 3 Voir Y. XXVIII, 2.
 
 [^780]: 174:4 Voir Y. XLVI, 9.
 

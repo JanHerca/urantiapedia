@@ -44,7 +44,7 @@ SAD DAR.
 
 6\. À cette occasion (vaqt), moi, serviteur de la religion, comme le môbad Erân-shâh [^3], fils (bin) de Yazad-yâr, fils de Tîstar-yâr, fils d'Âdar-bâd, fils de Mâraspend [^4], j'ai envoyé une récompense à leurs âmes, à quiconque lit et est tenu par le devoir [^5]. 7. Ainsi (în qadar), ce qui est venu écrit, est une bonne œuvre, ceux qui sont supérieurs le savent ; mais il n'est pas possible à tous ceux qui sont inférieurs de le savoir. 8. Si c'était plus (ziyâdat) c'est convenable, mais si (imṃâ) moins que cela, il n'est pas convenable de savoir [^6] ; tandis que, _en_ ​​gratitude _pour_ les bienfaits (<i>s</i>ukr-i ni'hmat) de l'être sacré, ils deviennent croissants en action, et l'être sacré, le Très-Haut (ta'hâlâi) [^7], fait en sorte que les bienfaits se produisent sur-le-champ à cause de cela. <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> 9\. Et, deuxièmement, la bonté (lu<i>t</i>f) et la générosité (karm) de l'être sacré, le Très-Haut [^8], sont manifestes de ceci, qu'il nous a créés avec chaque membre (âlat) complet (tamâm), et n'a rien refusé à la nature maternelle. 10. Et tout ce qui était nécessaire à l'usage, il nous l'a donné. 11. À la tête, il a également nommé un maître, qui est [^9] la sagesse afin qu'ils puissent maintenir ces membres en action.
 
-12. Que la paix de l'Être sacré, le Très-Haut, soit sur les âmes de ceux qui connaissent la religion du pur Zaratu<i>s</i>t, du Spitamân, et de ceux qui sont purs et vertueux. 13. Pour les âmes de ces personnes, il est souhaitable qu'elles accomplissent chaque devoir par l'autorité (dastûrî) de la sagesse des grands prêtres [^10].
+12\. Que la paix de l'Être sacré, le Très-Haut, soit sur les âmes de ceux qui connaissent la religion du pur Zaratu<i>s</i>t, du Spitamân, et de ceux qui sont purs et vertueux. 13. Pour les âmes de ces personnes, il est souhaitable qu'elles accomplissent chaque devoir par l'autorité (dastûrî) de la sagesse des grands prêtres [^10].
 
 <figure class="table chapter-navigator">
   <table>
@@ -72,7 +72,7 @@ SAD DAR.
 
 ## Notes de bas de page
 
-[^1]: (255:1) Il est possible de traduire l'original (qui est le même que dans Sg. I, 1) comme suit : « Le nom de Hôrmazd est “le seigneur, le plus grand sage”, » comme si ces épithètes étaient la signification de Hôrmazd, ce qui n'est pas loin de la vérité ; mais ce ne serait pas une forme probable pour une invocation. Lp et B29 ont une invocation différente.
+[^1]: (255:1) Il est possible de traduire l'original (qui est le même que dans Sg. I, 1) comme suit : « Le nom de Hôrmazd est « le seigneur, le plus grand sage », » comme si ces épithètes étaient la signification de Hôrmazd, ce qui n'est pas loin de la vérité ; mais ce ne serait pas une forme probable pour une invocation. Lp et B29 ont une invocation différente.
 
 [^2]: (255:2) Lp, B29, J15 omettent « _et_ pur ».
 

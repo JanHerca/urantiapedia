@@ -65,11 +65,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (317 : 1) Pahl. Vend. XVIII, 98.
+[^1]: (317 : 1) Pahl. Vend. XVIII, 98.
 
 [^2]: (317:2) Lp, B29 ont 'qu'ils ne rendent pas l'évacuation de l'eau plus _que_.'
 
-[^3] : (317 : 3) Voir Mkh. XXVII, 70 n.
+[^3]: (317 : 3) Voir Mkh. XXVII, 70 n.
 
 [^4]: (317:4) Voir Chap. VII, 1 n. La récitation de cette formule et des quatre suivantes est commandée dans Vend. XVIII, 97.
 

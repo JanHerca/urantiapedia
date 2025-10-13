@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « En raison de la mendicité des faveurs, de la pratique et de la valeur des bonnes œuvres, les êtres sacrés accordent-ils aussi autre chose aux hommes [^1], ou non ? »
 
-3\. L'esprit de sagesse répondit (4) ainsi : « Ils accordent ; (5) car il y a ce qu'ils appellent ainsi : “Destin et providence divine.” 6. Le destin est ce qui est ordonné dès le commencement, (7) et la providence divine est ce qu'ils accordent aussi autrement. 8. Mais les êtres sacrés fournissent et manifestent dans l'existence spirituelle une petite partie de ce don, à cause de cela, parce qu'Aharman, le méchant [^2], par le pouvoir des sept planètes extorque la richesse, et aussi tous les autres bienfaits de l'existence terrestre, aux bons et aux dignes, et les accorde plus pleinement aux mauvais et aux indignes. »
+3\. L'esprit de sagesse répondit (4) ainsi : « Ils accordent ; (5) car il y a ce qu'ils appellent ainsi : « Destin et providence divine. » 6. Le destin est ce qui est ordonné dès le commencement, (7) et la providence divine est ce qu'ils accordent aussi autrement. 8. Mais les êtres sacrés fournissent et manifestent dans l'existence spirituelle une petite partie de ce don, à cause de cela, parce qu'Aharman, le méchant [^2], par le pouvoir des sept planètes extorque la richesse, et aussi tous les autres bienfaits de l'existence terrestre, aux bons et aux dignes, et les accorde plus pleinement aux mauvais et aux indignes. »
 
 <figure class="table chapter-navigator">
   <table>

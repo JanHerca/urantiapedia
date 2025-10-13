@@ -66,11 +66,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (318:3) B29 a « pour chaque fois qu'ils ont célébré _une cérémonie_ pour l'âme vivante. »
 
-[^2] : (318 : 4) Voir Mkh. II, 115 n.
+[^2]: (318 : 4) Voir Mkh. II, 115 n.
 
 [^3]: (319:1) Alors qu'il est censé rester près du corps.
 
-[^4] : (319 : 2) B29 ajoute « et l'ange Mihir ». Voir Mkh. II, 118, 119.
+[^4]: (319 : 2) B29 ajoute « et l'ange Mihir ». Voir Mkh. II, 118, 119.
 
 [^5]: (319:3) Lp, B29 ont simplement « et elle le prend ».
 

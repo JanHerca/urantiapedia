@@ -80,7 +80,7 @@ Yênhê hâtãm: Todos aquellos seres de quienes Ahura Mazda . . . . [^535]
 
 Quien unce tiros de caballos . . . . para ayudar a los fieles [^536].
 
-8. A ella, Yima Khshaêta, el buen pastor, le ofreció un sacrificio desde la altura de Hukairya, con cien caballos, mil bueyes, diez mil corderos y una ofrenda de libaciones:
+8\. A ella, Yima Khshaêta, el buen pastor, le ofreció un sacrificio desde la altura de Hukairya, con cien caballos, mil bueyes, diez mil corderos y una ofrenda de libaciones:
 
 9\. '¡Concédeme este don, oh bueno y muy benéfico Drvâspa!, para que pueda traer gordura y rebaños al mundo creado por Mazda; para que pueda traer inmortalidad al mundo creado por Mazda;
 

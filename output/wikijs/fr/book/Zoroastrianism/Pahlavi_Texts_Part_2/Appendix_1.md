@@ -58,7 +58,7 @@ V. TROUVER UN CADAVRE DANS LE DÉSERT.
 
 B29 (écrit en 1679 après J.-C.), un Rivâyat persan, n° 29 à la bibliothèque universitaire de Bombay.
 
-BK, J, K35, M10 (comme décrit à la page [278](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_1#p278)).
+BK, J, K35, M10 (comme décrit à la page [278](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_1#p278)).
 
 L4 (écrit vers 1324 après J.-C.), un Vendidâ<i>d</i> avec Pahlavi, conservé à la bibliothèque de l'India Office à Londres.
 
@@ -102,7 +102,7 @@ Et l'âme de Keresâsp parla ainsi : « Pardonne-moi, ô Aûha<i>r</i>ma<i>z</i>
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Éloigne-toi ! car tu serais hideux à mes yeux, car le feu, qui est mon fils, a été éteint par toi. »
 
-'Keresâsp parla ainsi : « Accorde-moi, ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! le ciel _ou_ le ciel suprême ! Lorsque le vent _fut_ affaibli (rakhtŏ) et paralysé par moi, les <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> démons trompèrent le vent, et ils lui parlèrent ainsi : « _Il_ te résiste plus que toutes les créatures et la création, et tu devrais penser à lui ainsi, qu'“il n'y a personne qui marche sur cette terre plus résistant à moi que_ Keresâsp” ; il méprise les démons _et_ les hommes, et toi aussi, qui devrais être le vent, _même_ il te méprise. » Et le vent, lorsqu'il entendit ces paroles, souffla si fort que tous les arbres et arbustes qui se trouvaient sur son passage furent déracinés, et toute la terre qui se trouvait sur son passage fut réduite en poussière (paya<i>g</i>ânŏîaîtŏ ka<i>r</i><i>d</i>ŏ), et les ténèbres s'étendirent. Et lorsqu'il vint à moi, qui suis Keresâsp, il ne lui fut pas possible de soulever mon pied du sol ; alors je me levai et m'avançai (ba<i>r</i>â yehabûn<i>d</i>) sur la terre, et je me tins dessus, les deux pieds sur un pied d'égalité (mirîh), jusqu'à ce qu'un rempart (pû<i>s</i>tŏ) en fût achevé, afin que je puisse retourner sous terre ; c'est ce qu'Aûha<i>r</i>ma<i>z</i><i>d</i> Il ordonna ainsi : « Si je nommais un gardien de la terre et du ciel, ils ne m'abandonneraient pas [^44]. » Et si cette chose n'avait pas été faite par moi, Aharman serait devenu prédominant sur tes créatures.
+'Keresâsp parla ainsi : « Accorde-moi, ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! le ciel _ou_ le ciel suprême ! Lorsque le vent _fut_ affaibli (rakhtŏ) et paralysé par moi, les <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> démons trompèrent le vent, et ils lui parlèrent ainsi : « _Il_ te résiste plus que toutes les créatures et la création, et tu devrais penser à lui ainsi, qu'« il n'y a personne qui marche sur cette terre plus résistant à moi que_ Keresâsp » ; il méprise les démons _et_ les hommes, et toi aussi, qui devrais être le vent, _même_ il te méprise. » Et le vent, lorsqu'il entendit ces paroles, souffla si fort que tous les arbres et arbustes qui se trouvaient sur son passage furent déracinés, et toute la terre qui se trouvait sur son passage fut réduite en poussière (paya<i>g</i>ânŏîaîtŏ ka<i>r</i><i>d</i>ŏ), et les ténèbres s'étendirent. Et lorsqu'il vint à moi, qui suis Keresâsp, il ne lui fut pas possible de soulever mon pied du sol ; alors je me levai et m'avançai (ba<i>r</i>â yehabûn<i>d</i>) sur la terre, et je me tins dessus, les deux pieds sur un pied d'égalité (mirîh), jusqu'à ce qu'un rempart (pû<i>s</i>tŏ) en fût achevé, afin que je puisse retourner sous terre ; c'est ce qu'Aûha<i>r</i>ma<i>z</i><i>d</i> Il ordonna ainsi : « Si je nommais un gardien de la terre et du ciel, ils ne m'abandonneraient pas [^44]. » Et si cette chose n'avait pas été faite par moi, Aharman serait devenu prédominant sur tes créatures.
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Éloigne-toi ! Car tu serais hideux à mes yeux, car le feu, qui est mon fils, a été frappé par toi. »
 
@@ -176,13 +176,13 @@ Outre la paraphrase persane de cette légende, en prose, les Rivâyats persans c
 
 [^9]: (370:2) Voir Âbân Yt. 38, Zamyâ<i>d</i> Yt. 41. Un monstre dans l'océan aux larges rivages, qui est également mentionné dans Râm Yt. 28.
 
-[^10] : (370:3) Voir Râm Yt. 28, Zamyâ<i>d</i> Yt. 41.
+[^10]: (370:3) Voir Râm Yt. 28, Zamyâ<i>d</i> Yt. 41.
 
 [^11]: (370:4) Voir Zamyâ<i>d</i> Yt. 41. Pour « Hunus », certains lisent « fils » :
 
 [^12]: (370:5) Voir Zamyâ<i>d</i> Yt. 41-44.
 
-[^13] : (370:6) Voir Fravar<i>d</i>în Yt. 136.
+[^13]: (370:6) Voir Fravar<i>d</i>în Yt. 136.
 
 [^14]: (370:7) Le nom de Yas. XLIV, étant les deux premiers mots, a<i>d</i> fravakhshyâ, de ce chapitre des Gâthas. Dans le compte rendu détaillé du contenu de chaque fargar<i>d</i> des trois premiers Nasks, donné dans le neuvième livre du Dînka<i>r</i><i>d</i>, chaque fargar<i>d</i> est distingué p. 371 par le nom d'une section des Gâthas. Les noms ainsi employés sont composés du premier, des deux ou des trois premiers mots du Yathâ-ahû-vairyô, de l'Ashem-vohû, du YêNhê-hâtãm, Yas. XXVIII-XXXIV, du Yasna haptanghâiti, Yas. XLII-L, LII, LIII, qui fournissent les vingt-deux noms requis. Lorsque le Nask contient vingt-trois fargar<i>d</i>s, comme dans le cas du Var<i>s</i>tmânsar, le premier fargar<i>d</i> reste sans nom. Il est difficile de déterminer, à partir de nos informations actuelles, si ces mots étaient simplement utilisés comme noms, ou si leur insertion implique que les fargar<i>d</i>s de ces Nasks étaient récités (un peu comme ceux du Vendidâ<i>d</i>) en alternance avec les sections des Gâthas. Il convient de noter que les trois Nasks (Sû<i>d</i>kar, Var<i>s</i>tmânsar et Bakô), dont le contenu est ainsi détaillé dans le Dînka<i>r</i><i>d</i>, appartiennent tous à la classe des Nasks dite gâsânîk ou Gâtha ; mais il n'est pas certain non plus que ce terme implique qu'ils étaient métriques ou simplement qu'ils étaient liés d'une certaine manière aux Gâthas.
 

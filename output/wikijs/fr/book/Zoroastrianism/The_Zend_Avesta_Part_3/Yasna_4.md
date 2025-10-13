@@ -118,7 +118,7 @@ Nous adorons les Immortels Généreux qui gouvernent avec droiture et qui dispos
 
 [^943]: 213:3 La prééminence et la suprématie de chaque divinité, ou génie, alors qu'il est particulièrement l'objet d'adoration dans l'ordre rituel, les expressions étant tirées de l'Ahuna-vairya.
 
-[^944] : 214 : 1 Vohu Manah, Asha et Khshathra.
+[^944]: 214 : 1 Vohu Manah, Asha et Khshathra.
 
 [^945]: 214:2 Âramaiti, Haurvatâ<i>t</i> et Ameretatâ<i>t</i>.
 

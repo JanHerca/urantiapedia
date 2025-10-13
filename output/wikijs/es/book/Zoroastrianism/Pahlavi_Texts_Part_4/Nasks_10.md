@@ -43,7 +43,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 3\. El nombre del segundo Nask es Stûdgar, y consta de veintidós subdivisiones; su descripción trata sobre la oración, la autoridad virtuosa y la intercesión.
 
-4. El tercer Nask es el Vahi<i>s</i>t-mânthrah, y consta de veintidós subdivisiones sobre la fe y la atención; y se recuerda a uno \[_&c., casi lo mismo que en II_, 3\],
+4\. El tercer Nask es el Vahi<i>s</i>t-mânthrah, y consta de veintidós subdivisiones sobre la fe y la atención; y se recuerda a uno \[_&c., casi lo mismo que en II_, 3\],
 
 5\. El cuarto Nask es el Bagh, y consta de veintiuna subdivisiones. Su explicación trata sobre la religión y su intención, y sobre todo lo que el Señor ha impuesto a la humanidad en cuanto a devoción y atención; también trata sobre cómo cerrar el camino de Satanás y acercarse a la morada final.
 

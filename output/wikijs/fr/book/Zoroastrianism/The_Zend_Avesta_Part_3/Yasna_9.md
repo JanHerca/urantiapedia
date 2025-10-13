@@ -164,13 +164,13 @@ Contre le perturbateur de la justice, le destructeur de vie impie, pensées et p
 
 [^961]: 232:2 Le cinquième de Gaya Maretan l'Adam iranien, mais son homologue, l'Indien Vivasvat, apparaît non seulement comme le père de Yama, mais de Manu, et même des dieux (en tant que mortels promus ?).
 
-[^962] : 232 : 3 Comparez svar-d_rí_sas pávamânâs.
+[^962]: 232 : 3 Comparez svar-d_rí_sas pávamânâs.
 
 [^963]: 232:4 Ainsi les Pahlavi.
 
 [^964]: 232:5 Les mâles, comme les femelles, semblent avoir été considérés comme développés à l'âge de quinze ans.
 
-[^965] : 233 : 1 Comp. Tritá âptiá.
+[^965]: 233 : 1 Comp. Tritá âptiá.
 
 [^966]: 233:2 Comp. l'Indien Traitaná relié à Tritá.
 
@@ -184,13 +184,13 @@ Contre le perturbateur de la justice, le destructeur de vie impie, pensées et p
 
 [^971]: 233:\* Et à celui des autres dieux.
 
-[^972] : 234 : 1 Comp. Kapardínam.
+[^972]: 234 : 1 Comp. Kapardínam.
 
 [^973]: 234:2 J'abandonne à contrecœur l'admirable comparaison de hvîs avec le svid indien (Geldner), également expliqué comme un inchoatif (Barth.), mais le sens qui en résulte est loin d'être naturel, ni ici ni dans Vend. III, 32 (Sp. 305). Que le dragon se mette à suer (!) sous le feu allumé dans son dos et qui le fait bondir, semble difficile. Le processus n'était pas aussi délibéré. ​​Il fut brûlé, sursauta, puis bondit. De même, dans Vend. III, 32, lorsque l'orge est produite, les démons ne « suent » guère (de misère mentale). L'idée est trop avancée pour le document. Le « sifflement » de Burnouf et Haug était bien meilleur aux deux endroits. Mais je préfère l'allusion au lâlâ vazlûn<i>d</i> pahlavi. Dans Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta<i>s</i><i>k</i>a sa n<i>ri</i><i>s</i>a<i>m</i>sa<i>h</i> <i>k</i>ukshubhe \[dvipâdo\* babhûva\]. Que <i>h</i><i>v</i>îsa<i>t</i><i>k</i>a = hîsa<i>t</i><i>k</i>a (?) ait quelque chose à voir avec hiz ou khiz = Pahlavi âkhîzîdanŏ [^969], NP 'hizîdan, est une question. Je suis la tradition sans aide étymologique ; peut-être pourrions-nous aussi bien écrire le mot comme la forme la plus connue, par conjecture.
 
 [^974]: 234:3 Le traducteur Pahlavi tente d'expliquer l'épithète « viril » appliquée à Keresâspa alors qu'il fuyait encore effrayé ; il dit : Hôman<i>d</i> mar<i>d</i>mîni<i>s</i>nîh hanâ yehevûn<i>d</i>, aîgha<i>s</i> libbemman pavan gâsdâ<i>s</i>t ; Ner. asya paurushamânasatvam\* ida<i>m</i> babhûva yad asau <i>k</i>aitanya<i>m</i> sthâne dadhau, « sa virilité était telle qu'il gardait son sang-froid en cette occasion. » Voir la même histoire traitée quelque peu différemment dans les Ya<i>s</i>ts de Darmesteter (p. 295, note 2).
 
-[^975] : 234 :† Ou, âkhêzîdanŏ.
+[^975]: 234 :† Ou, âkhêzîdanŏ.
 
 [^976]: 235:1 Fils de Pâîtirasp ou Spêtârasp ; Bundahi<i>s</i> XXXII, 1, 2, &c.
 
@@ -200,23 +200,23 @@ Contre le perturbateur de la justice, le destructeur de vie impie, pensées et p
 
 [^979]: 235:4 Gratuit.
 
-[^980] : 235 : 5 Comp. pathm<i>e</i>ng gavôi.
+[^980]: 235 : 5 Comp. pathm<i>e</i>ng gavôi.
 
 [^981]: 236:1 Ou bien, madhem est-il lié à medhâ´ ainsi qu'à mazdâ (fém.) ?
 
-[^982] : 236 : 2 Pahl. farzânakih.
+[^982]: 236 : 2 Pahl. farzânakih.
 
 [^983]: 236:3 Ce ne sont pas vraiment des « sorcières » ; ce sont des êtres féminins extérieurement attirants, mais mauvais.
 
-[^984] : 236 : 4 Pahl. sâstârânŏ.
+[^984]: 236 : 4 Pahl. sâstârânŏ.
 
-[^985] : 236 : 5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
+[^985]: 236 : 5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
 
 [^986]: 236:6 Vîspô-<i>h</i><i>v</i>âthrem ne signifie pas ici « confortable ». <i>H</i><i>v</i>an est la racine ; comp. <i>h</i><i>v</i>e<i>n</i>g = soleil.
 
-[^987] : 237 : 1 Pahl. min <i>h</i><i>v</i>âstâr.
+[^987]: 237 : 1 Pahl. min <i>h</i><i>v</i>âstâr.
 
-[^988] : 237 : 2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
+[^988]: 237 : 2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
 
 [^989]: 237:3 Arva<i>n</i>tô = aurva<i>n</i>tô; donc le Pahl. arvand.
 
@@ -228,7 +228,7 @@ Contre le perturbateur de la justice, le destructeur de vie impie, pensées et p
 
 [^993]: 238:3 La « saisie », le résumé d'entre eux.
 
-[^994] : 239 : 1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
+[^994]: 239 : 1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
 
 [^995]: 239:2 Ou, « frappe ta massue ».
 

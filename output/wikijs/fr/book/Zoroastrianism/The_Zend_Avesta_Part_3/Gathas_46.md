@@ -66,7 +66,7 @@ Cela devait être une récompense suffisante, et même ce prestige (pourvatâtem
 
 Il ne s'adresserait pas, comme il le laisse entendre, à un seul homme, fût-ce Vî<i>s</i>tâspa, l'héroïque, mais à tous ceux qu'Ahura reconnaîtrait dans son assemblée, par le suffrage inspiré de la masse.
 
-15. Il s'adresse d'abord au groupe composé principalement de sa famille, les Spitâmas ; ils étaient, comme il le laissait entendre, éclairés dans la science sacrée, et donc parmi les plus éminents des Ar(e)dra. 16. Il appelle ensuite Frashaostra, avec les Hvôgvas, les exhortant tous à poursuivre leur voie juste, en harmonie avec ceux qu'ils souhaitent comme Sauveurs pour la terre, les assurant qu'ils atteindront enfin cette scène sacrée où les « Immortels » demeurent avec Dieu. 17. « Cette scène », ajoute-t-il, « où les fidèles chantent leurs louanges avec perfection, utilisant la mesure juste » (aussi sacrée que le védique). Et il déclare qu'Ahura, qui discerne infailliblement la vérité, écoutera et répondra ; car les louanges chantées là-bas seront celles d'hommes obéissants qui se sacrifient pour la cause. 18. Il présente une fois de plus ses récompenses spirituelles comme les meilleurs dons de la révélation inspirée, menaçant comme d'habitude d'infliger des châtiments proportionnés aux clans oppresseurs, tandis que les promesses et les menaces sont en harmonie avec la volonté d'Ahura, car cela seul a été son guide dans chaque déclaration. 19. Après toutes les plaintes, les menaces et les injonctions sévères, il termine par le mot une fois de plus répété « récompense », et cela pour chaque homme qui aidera dans « sa grande affaire » (Y. XXX, 2), et il fait appel à Dieu Lui-même, affirmant Son inspiration pour tout ce qu'il a dit.
+15\. Il s'adresse d'abord au groupe composé principalement de sa famille, les Spitâmas ; ils étaient, comme il le laissait entendre, éclairés dans la science sacrée, et donc parmi les plus éminents des Ar(e)dra. 16. Il appelle ensuite Frashaostra, avec les Hvôgvas, les exhortant tous à poursuivre leur voie juste, en harmonie avec ceux qu'ils souhaitent comme Sauveurs pour la terre, les assurant qu'ils atteindront enfin cette scène sacrée où les « Immortels » demeurent avec Dieu. 17. « Cette scène », ajoute-t-il, « où les fidèles chantent leurs louanges avec perfection, utilisant la mesure juste » (aussi sacrée que le védique). Et il déclare qu'Ahura, qui discerne infailliblement la vérité, écoutera et répondra ; car les louanges chantées là-bas seront celles d'hommes obéissants qui se sacrifient pour la cause. 18. Il présente une fois de plus ses récompenses spirituelles comme les meilleurs dons de la révélation inspirée, menaçant comme d'habitude d'infliger des châtiments proportionnés aux clans oppresseurs, tandis que les promesses et les menaces sont en harmonie avec la volonté d'Ahura, car cela seul a été son guide dans chaque déclaration. 19. Après toutes les plaintes, les menaces et les injonctions sévères, il termine par le mot une fois de plus répété « récompense », et cela pour chaque homme qui aidera dans « sa grande affaire » (Y. XXX, 2), et il fait appel à Dieu Lui-même, affirmant Son inspiration pour tout ce qu'il a dit.
 
 Traduction.
 
@@ -148,15 +148,15 @@ Traduction.
 
 [^609]: 135:3 Ukshâno semble être une ancienne erreur pour ushâno, car le traducteur pahlavi rend comme s'il lisait ushâ dans Y. L, 10, et p. 136 et non ukhshâ. Autrement, « augmentation des jours » est une belle expression, mais suspecte au vu de la traduction pahlavi dans Y. L, 10. Le \*vikâ<i>s</i>ayitryo (sic) de Ner. est frappant, mais je ne peux pas prétendre pour lui tout ce qu'il semble offrir, car Ner. rend ailleurs les formes de vakhsh par celles de kas. Le persan suit le pahlavi.
 
-[^610] : 136:1 Comp. Y. XLIV, 1.
+[^610]: 136:1 Comp. Y. XLIV, 1.
 
 [^611]: 136:2 Pa, au sens de « s'abstenir du bien-être » ainsi que de « protection », un sens enseigné pour la première fois par les auteurs Pahlavi, est désormais généralement reconnu. Comme beaucoup d'autres suggestions des Pahlavi, il éclaire la traduction du mot védique analogue.
 
 [^612]: 136:3 Ainsi, la masse des manuscrits avec le pahl. min fravâmi<i>s</i>nŏ ; persan az raftan. L'expression pourrait faire référence au « départ des vaches », comme représentant les personnes sur son « chemin ».
 
-[^613] : 136:4 Comp. Y. XXXI, 18.
+[^613]: 136:4 Comp. Y. XXXI, 18.
 
-[^614] : 136 : 5 Pahl. zak î pavan dû<i>s</i>\-stahamak; Ner. dush<i>t</i>o balâtkârî. Les éléments semblent être du<i>z</i> + hazô + bâo(= vâo).
+[^614]: 136 : 5 Pahl. zak î pavan dû<i>s</i>\-stahamak; Ner. dush<i>t</i>o balâtkârî. Les éléments semblent être du<i>z</i> + hazô + bâo(= vâo).
 
 [^615]: 136:6 Ush en iranien semble parfois avoir le sens de destruction combiné avec lui ; d'où aoshah, aoshi<i>s</i>nŏ.
 
@@ -210,7 +210,7 @@ Traduction.
 
 [^640]: 140:4 'Allez de l'avant.'
 
-[^641] : 140:5 Ou, 'avec les rois;' mais le Pahlavi a, avŏ khû<i>d</i>âyîh ayû<i>g</i>ênd mûn Kîk va Karapŏ.
+[^641]: 140:5 Ou, 'avec les rois;' mais le Pahlavi a, avŏ khû<i>d</i>âyîh ayû<i>g</i>ênd mûn Kîk va Karapŏ.
 
 [^642]: 140:6 C'est ce qu'indique le Pahlavi. Autrement, « s'endurcira », ou, si l'on lit khraodat, « s'enflammera (contre) ».
 

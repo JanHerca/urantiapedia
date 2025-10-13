@@ -176,7 +176,7 @@ Le quatrième pas que fit l’âme du méchant le plongea dans les ténèbres sa
 
 [^1399]: 314:3 Littéralement, voit, perçoit.
 
-[^1400] : 315:1 Thrao<i>s</i>ta : en Pahlavi rôi<i>s</i>man.
+[^1400]: 315:1 Thrao<i>s</i>ta : en Pahlavi rôi<i>s</i>man.
 
 [^1401]: 316:1 'C'est-à-dire des dieux' (Pahl. Comm.).
 
@@ -184,7 +184,7 @@ Le quatrième pas que fit l’âme du méchant le plongea dans les ténèbres sa
 
 [^1403]: 316:3 Douteux. Le commentaire Pahlavi a la glose suivante : « Il ne donnait pas à ses amis ce qu'ils demandaient. »
 
-[^1404] : 316:4 Aux pauvres :—Urvarô-straya : urvar babâi<i>k</i> kart (Pahl. Comm.) : âighshân babâ barâ asrûnast (étoile, attacher, comme dans frastaretem baresma). Cf. Yt. XXIV, 37, 59.
+[^1404]: 316:4 Aux pauvres :—Urvarô-straya : urvar babâi<i>k</i> kart (Pahl. Comm.) : âighshân babâ barâ asrûnast (étoile, attacher, comme dans frastaretem baresma). Cf. Yt. XXIV, 37, 59.
 
 [^1405]: 316:5 Avec des aumônes aux pauvres Mazdayasniens (ashô-dâd).
 
@@ -242,7 +242,7 @@ Le quatrième pas que fit l’âme du méchant le plongea dans les ténèbres sa
   
   « Puis vers l’aube de l’aube… » (voir le texte).
 
-[^1424] : 322:7 Cf. Vend. XVIII, 23.
+[^1424]: 322:7 Cf. Vend. XVIII, 23.
 
 [^1425]: 322:8 « Celui qui a la connaissance faite », ou « Celui qui a la connaissance de ce qui est fait » (kartak dânishn) ; son autre nom Parôdar<i>s</i> est « Celui qui prévoit. »
 

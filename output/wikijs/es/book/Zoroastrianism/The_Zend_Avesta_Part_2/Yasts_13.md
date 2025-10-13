@@ -154,7 +154,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 33\. Adoramos a los buenos, fuertes y benéficos Fravashis de los fieles, quienes luchan con valentía y valentía, causando estragos, hiriendo [^843], destruyendo toda la malicia de los maliciosos, Daêvas y hombres, y golpeando poderosamente en la batalla, a su antojo.
 
-34. Tú, bondadosamente, entregas la Victoria de Ahura y el Ascendente aplastante, con la mayor benevolencia, a aquellos países donde ustedes, los buenos, ilesos y regocijados, sin opresión ni ofensa, han sido considerados dignos de sacrificio y oración, y prosiguen el camino de su deseo.
+34\. Tú, bondadosamente, entregas la Victoria de Ahura y el Ascendente aplastante, con la mayor benevolencia, a aquellos países donde ustedes, los buenos, ilesos y regocijados, sin opresión ni ofensa, han sido considerados dignos de sacrificio y oración, y prosiguen el camino de su deseo.
 
 ## VIII.
 
@@ -178,7 +178,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 41\. Quienes dan buena gloria a quien los adora con un sacrificio, como los adoró aquel hombre, el santo Zaratustra, el jefe del mundo material, la cabeza de la raza bípeda, en cualquier lucha en la que tuvo que entrar, en cualquier angustia que temió;
 
-42. Quienes, bien invocados, gozan de dicha en los cielos; quienes, bien invocados, descienden de los cielos, quienes son los líderes [^853] de ese cielo de arriba, poseedores de la Fuerza bien formada, la Victoria lograda por Ahura, el Ascendente aplastante, y el Bienestar [^854], los que traen riqueza, los que traen bendiciones, santos, bien alimentados, dignos de sacrificio y oración en la perfección de la santidad.
+42\. Quienes, bien invocados, gozan de dicha en los cielos; quienes, bien invocados, descienden de los cielos, quienes son los líderes [^853] de ese cielo de arriba, poseedores de la Fuerza bien formada, la Victoria lograda por Ahura, el Ascendente aplastante, y el Bienestar [^854], los que traen riqueza, los que traen bendiciones, santos, bien alimentados, dignos de sacrificio y oración en la perfección de la santidad.
 
 43\. Derramaron a Satavaêsa [^855] entre la tierra y el cielo, aquel a quien pertenecen las aguas [^856], quien escucha las súplicas y hace que las aguas fluyan y las plantas crezcan, para nutrir a los animales y a los hombres, para nutrir a las naciones arias, para nutrir a las cinco clases de animales [^857], y para ayudar a los fieles [^858].
 
@@ -194,7 +194,7 @@ Cuando el viento sopla detrás de ellos [^860] y trae su aliento a los hombres,
 
 47\. Cualquiera que sea el lado en el que hayan sido adorados primero con la plenitud de la fe de un corazón devoto [^861], hacia ese lado se vuelven los terribles Fravashis de los fieles, junto con Mitra y Rashnu y el terrible pensamiento maldiciente [^862] de los sabios y el viento victorioso.
 
-48. Y esas naciones son azotadas de un solo golpe por sus cincuenta y sus cien, por sus cien y sus mil, por sus mil y sus decenas de mil, por sus decenas de mil y sus miríadas de miríadas, contra las cuales se vuelven los terribles Fravashis de los fieles, junto con Mitra y Rashnu, y el terrible pensamiento maldiciente de los sabios y el viento victorioso.
+48\. Y esas naciones son azotadas de un solo golpe por sus cincuenta y sus cien, por sus cien y sus mil, por sus mil y sus decenas de mil, por sus decenas de mil y sus miríadas de miríadas, contra las cuales se vuelven los terribles Fravashis de los fieles, junto con Mitra y Rashnu, y el terrible pensamiento maldiciente de los sabios y el viento victorioso.
 
 <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
@@ -252,7 +252,7 @@ Cuando el viento sopla detrás de ellos [^860] y trae su aliento a los hombres,
 
 65\. Y cuando las aguas surgen del mar Vouru-Kasha, ¡oh Spitama Zarathu<i>s</i>tra!, junto con la Gloria hecha por Mazda [^880], entonces avanzan los imponentes Fravashis de los fieles, muchos y muchos cientos, muchos y muchos miles, muchas y muchas decenas de miles,
 
-66. Buscando agua para sus parientes, para su municipio, para su ciudad, para su país, y diciendo así: «¡Que nuestro país tenga un buen abastecimiento y plena alegría!»
+66\. Buscando agua para sus parientes, para su municipio, para su ciudad, para su país, y diciendo así: «¡Que nuestro país tenga un buen abastecimiento y plena alegría!»
 
 67\. Luchan en las batallas que se libran en su propio lugar y tierra, cada uno según el lugar y la casa donde habitó (antaño) [^881]: parecen un guerrero valiente que, ceñido y atento, lucha por el tesoro que ha atesorado.
 

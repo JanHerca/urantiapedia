@@ -84,11 +84,11 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^8]: (302:5) C'est-à-dire qu'ils ont considéré un purificateur suffisant pour réciter p. 303 les passages de l'Avesta (voir Vend. VIII, 49-62, IX, 118) qui sont censés chasser le démon (comp. Ep. II, ii, 7).
 
-[^9] : (303 : 1) Voir Pahl. Vend. IX, 132, b.
+[^9]: (303 : 1) Voir Pahl. Vend. IX, 132, b.
 
 [^10]: (303:2) Voir Pahl. Vend. IX, 132,i, où, cependant, la déclaration relative aux trois lavages est attribuée à Afarg, qui est l'autorité antérieure citée (comme mentionné au § 9), et celle relative au lavage unique est attribuée à Mê<i>d</i>yôk-mâh, qui est l'autorité postérieure.
 
-[^11] : (303:3) Lecture de lâ khalelûnê<i>d</i>ŏ-ae lâ shayedŏ au lieu de lâ khalelûnê<i>d</i>ŏ a-lâ shâye<i>d</i>ŏ.
+[^11]: (303:3) Lecture de lâ khalelûnê<i>d</i>ŏ-ae lâ shayedŏ au lieu de lâ khalelûnê<i>d</i>ŏ a-lâ shâye<i>d</i>ŏ.
 
 [^12]: (303:4) Lecture de aê au lieu de va a. Cette affirmation est attribuée à Mê<i>d</i>yôk-mâh dans Pahl. Vend. (voir note 2, ci-dessus).
 

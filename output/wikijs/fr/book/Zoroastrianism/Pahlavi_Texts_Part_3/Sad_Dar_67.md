@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE LXVII.
 
-1. Le soixante-septième sujet est celui-ci : il est nécessaire que les femmes pratiquent une grande abstinence de commettre l’adultère. 2. Car il est déclaré dans l’Apocalypse, à propos de toute femme qui a couché avec un étranger, ainsi : « Comment faut-il l’appeler, et pourquoi l’explication [^1] est-elle de la même nature que tous les sorciers et les pécheurs ? »
+1\. Le soixante-septième sujet est celui-ci : il est nécessaire que les femmes pratiquent une grande abstinence de commettre l’adultère. 2. Car il est déclaré dans l’Apocalypse, à propos de toute femme qui a couché avec un étranger, ainsi : « Comment faut-il l’appeler, et pourquoi l’explication [^1] est-elle de la même nature que tous les sorciers et les pécheurs ? »
 
 3\. Et dans le commentaire du Vendîdâ<i>d</i> [^2] il est dit : « Toute femme qui fréquente deux hommes étrangers est la première à m'atteindre, moi qui suis Hôrmazd. 4. Car si elle jette un regard dans une rivière d'eau, cela la fera diminuer, si elle regarde [^3] un arbre ou un arbuste, les fruits des arbres se raréfient, et si elle parle à un homme juste, cela fera diminuer la gloire [^4] de l'homme. » 5. Zaratu<i>s</i>t demanda à Hôrmazd : « Que se passe-t-il à son sujet [^5] ? » 6. Le créateur Hôrmazd parla ainsi : « Il est nécessaire de la tuer plutôt qu'un serpent mordeur et autres créatures similaires et bêtes sauvages, car elle est plus nuisible à mes créatures. »
 

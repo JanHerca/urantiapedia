@@ -56,7 +56,7 @@ _Au_ nom des êtres sacrés.
 
 11\. En raison d'un lavage du même genre par la cérémonie de Bareshnûm, comme prévu, l'eau, le feu et d'autres choses dont il n'est pas [^14] . . . . . . . . . . autorisé est un péché grave. <span id="p362"><sup><small>[ p. 362 ]</small></sup></span> 12. Lorsque, en raison d'une purification par un autre lavage, distinct de la cérémonie de Bareshnûm, <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> ils se considèrent comme purs, c'est un péché plus grave ; tout comme lorsqu'ils ne se lavent pas avec le Bareshnûm, comme écrit ci-dessus, mais se considèrent comme purs grâce à quinze lavages, comme écrit ci-dessus, ou à cause de tout lavage distinct du Bareshnûm, c'est un péché plus gravement encore ; car, lorsqu'ils ne se lavent pas avec un Bareshnûm, comme écrit ci-dessus, mais se lavent quinze fois, comme écrit ci-dessus, ou à cause de tout lavage distinct du Bareshnûm, comme écrit ci-dessus, ils ne deviennent pas purs, grâce au lavage professionnel qui est décrété, de cette pollution qui reste [^15].
 
-13. Lorsque, sans une peine similaire et une grande prudence, ils se tournent vers l'eau et le feu, le péché est grave ; et lorsqu'ils se tournent vers le bol (pa<i>d</i>mânŏ) pour l'ablution des brindilles sacrées [^16], c'est une ablution non délibérée, et accomplir le cérémonial avec celles-ci ne serait pas autorisé. 14. De même, le lavage des brindilles de Hôm polluées [^17], pour un but indispensable, avec la cérémonie de Bareshnûm, comme écrit ci-dessus, n'est pas possible.
+13\. Lorsque, sans une peine similaire et une grande prudence, ils se tournent vers l'eau et le feu, le péché est grave ; et lorsqu'ils se tournent vers le bol (pa<i>d</i>mânŏ) pour l'ablution des brindilles sacrées [^16], c'est une ablution non délibérée, et accomplir le cérémonial avec celles-ci ne serait pas autorisé. 14. De même, le lavage des brindilles de Hôm polluées [^17], pour un but indispensable, avec la cérémonie de Bareshnûm, comme écrit ci-dessus, n'est pas possible.
 
 15\. C'est pourquoi, afin que nous puissions obtenir en quelque sorte un remède à cela, je me lave avec la cérémonie du Bareshnûm, comme écrit ci-dessus ; pour garder l'esprit ferme et parvenir à un remède, je me lave avec le Bareshnûm, comme écrit ci-dessus ; et pour conférer l'indispensable et complet Bareshnûm, comme écrit ci-dessus, est en effet une bonne œuvre convenant à l'homme discret et libéré des liens, et la purification du corps et de l'âme y est liée.
 
@@ -96,7 +96,7 @@ _Au_ nom des êtres sacrés.
 
 ## Notes de bas de page
 
-[^1] : (359:1) Voir Dd. XCIV, 13.
+[^1]: (359:1) Voir Dd. XCIV, 13.
 
 [^2]: (359:2) Lecture hâvan ; mais il peut s'agir de « pollution de la vie spirituelle (ahvô), » bien que cela soit difficilement possible dans la phrase suivante, où le même mot apparaît.
 
@@ -128,7 +128,7 @@ _Au_ nom des êtres sacrés.
 
 [^15]: (363:1) Même après le meilleur lavage ordinaire.
 
-[^16] : (363 : 2) Voir Dd. XLIII, 5.
+[^16]: (363 : 2) Voir Dd. XLIII, 5.
 
 [^17]: (363:3) Voir Dd. XLVIII, 16.
 
@@ -136,6 +136,6 @@ _Au_ nom des êtres sacrés.
 
 [^19]: (365:2) Le troisième mois de l'année Parsi 250, qui correspondait à l'intervalle entre le 14 juin et le 13 juillet, 88 r.
 
-[^20] : (365:3) Lecture min, comme dans Ep. II, ix, 14, au lieu de mûn, 'qui.'
+[^20]: (365:3) Lecture min, comme dans Ep. II, ix, 14, au lieu de mûn, 'qui.'
 
 [^21]: (366:1) Comparer Dd. XCIV, 14, Ep. II, ix, 15. Cette épître est suivie, en K35, des Sélections de Zâ<i>d</i>\-sparam, dont la première partie est traduite dans le cinquième volume des Livres Sacrés de l'Orient.

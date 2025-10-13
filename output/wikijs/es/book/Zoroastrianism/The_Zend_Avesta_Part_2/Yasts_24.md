@@ -254,7 +254,7 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 
 59\. ' "Cuando veías a un hombre [^1497]\] burlándose y cometiendo actos de idolatría, o rechazando (a los pobres) y cerrando (su puerta), entonces te sentabas, cantando los Gâthas, y adorando a las buenas aguas, y a Âtar, el hijo de Ahura Mazda, y regocijando a los fieles que venían de cerca o de lejos.
 
-60. «Yo era hermosa, y tú me hiciste aún más hermosa; yo era bella, y tú me hiciste aún más bella; yo era deseable, y tú me hiciste aún más deseable; yo estaba sentada en un lugar prominente, y tú me hiciste sentar en el primer lugar, gracias a este buen pensamiento, gracias a esta buena palabra, gracias a esta buena acción tuya; y así, desde entonces, los hombres me adoran por haber ofrecido sacrificios y conversado durante tanto tiempo con Ahura Mazda».
+60\. «Yo era hermosa, y tú me hiciste aún más hermosa; yo era bella, y tú me hiciste aún más bella; yo era deseable, y tú me hiciste aún más deseable; yo estaba sentada en un lugar prominente, y tú me hiciste sentar en el primer lugar, gracias a este buen pensamiento, gracias a esta buena palabra, gracias a esta buena acción tuya; y así, desde entonces, los hombres me adoran por haber ofrecido sacrificios y conversado durante tanto tiempo con Ahura Mazda».
 
 61\. 'El primer paso que dio el alma del hombre fiel lo colocó en el Paraíso del Buen Pensamiento; el segundo paso que dio el alma del hombre fiel lo colocó en el Paraíso de la Buena Palabra; el tercer paso que dio el alma del hombre fiel lo colocó en el Paraíso de la Buena Acción; el cuarto paso que dio el alma del hombre fiel lo colocó en la Luz Infinita.
 

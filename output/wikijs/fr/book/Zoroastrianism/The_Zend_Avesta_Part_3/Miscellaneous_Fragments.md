@@ -46,7 +46,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## III
 
-1. Toutes les bonnes pensées, toutes les bonnes paroles et toutes les bonnes actions sont pensées, dites et faites avec intelligence, et toutes les mauvaises pensées, paroles et actions sont pensées, dites et faites avec folie. 2. Et que (les hommes qui pensent, parlent et font) toutes les bonnes pensées, paroles et actions habitent [^1565] le Ciel (comme leur demeure). Et que ceux qui pensent, parlent et font de mauvaises pensées, paroles et actions demeurent en Enfer. Car à tous ceux qui pensent de bonnes pensées, disent de bonnes paroles et font de bonnes actions, appartient le Ciel, le meilleur des mondes. Et cela est évident, et comme bien sûr (?) (ou, « et avec cela leur descendance »).
+1\. Toutes les bonnes pensées, toutes les bonnes paroles et toutes les bonnes actions sont pensées, dites et faites avec intelligence, et toutes les mauvaises pensées, paroles et actions sont pensées, dites et faites avec folie. 2. Et que (les hommes qui pensent, parlent et font) toutes les bonnes pensées, paroles et actions habitent [^1565] le Ciel (comme leur demeure). Et que ceux qui pensent, parlent et font de mauvaises pensées, paroles et actions demeurent en Enfer. Car à tous ceux qui pensent de bonnes pensées, disent de bonnes paroles et font de bonnes actions, appartient le Ciel, le meilleur des mondes. Et cela est évident, et comme bien sûr (?) (ou, « et avec cela leur descendance »).
 
 ## IV
 

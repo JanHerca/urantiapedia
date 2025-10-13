@@ -48,7 +48,7 @@ PARTIE I, CHAPITRES I-XI.
 
 ## OBSERVATIONS.
 
-1-5. (Le même que sur [p. 2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Bundahis_1#p2).)
+1-5. (Le même que sur [p. 2](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_1/Bundahis_1#p2).)
 
 6\. Les abréviations utilisées sont : Av. pour Avesta. Bund. pour Bundahi<i>s</i>, tel que traduit dans ce volume. B. Yt. pour Bahman Ya<i>s</i>t, tel que traduit dans ce volume. Haug's Essays, pour Essays on the Sacred Language, Writings, and Religion of, the Parsis, par Martin Haug, 2e édition. Mkh. pour Mainyô-i-khar<i>d</i>, éd. West. Pers. pour Persian. Vend. pour Vendîdâd, éd. Spiegel. Yas. pour Yasna, éd. Spiegel. Yt. pour Ya<i>s</i>t, éd. Westergaard.
 

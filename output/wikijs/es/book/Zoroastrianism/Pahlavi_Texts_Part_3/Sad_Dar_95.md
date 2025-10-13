@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El tema nonagésimo quinto es que es necesario que sea conveniente para todos aquellos de buena religión realizar el saludo al sol [^1] tres veces al día.
 
-2. Si se realiza una vez, se considera una buena obra de un Tanâvar [^2]; si se realiza dos veces, se considera el doble; y si se realiza tres veces, se considera el triple. 3. Si no se realiza una repetición, se considera un pecado de treinta stîrs [^3]; si no se realizan dos repeticiones, se considera el doble; y si no se realizan tres repeticiones, se considera el triple.
+2\. Si se realiza una vez, se considera una buena obra de un Tanâvar [^2]; si se realiza dos veces, se considera el doble; y si se realiza tres veces, se considera el triple. 3. Si no se realiza una repetición, se considera un pecado de treinta stîrs [^3]; si no se realizan dos repeticiones, se considera el doble; y si no se realizan tres repeticiones, se considera el triple.
 
 4\. Y lo mismo ocurre con los saludos a la luna y al fuego [^4]. 5. Por lo tanto, conviene, en la religión, que cada persona de buena religión ponga en práctica los saludos.
 

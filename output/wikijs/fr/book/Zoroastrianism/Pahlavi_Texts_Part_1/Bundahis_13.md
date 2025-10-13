@@ -70,11 +70,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^1]: (41:8) Ou peut-être mieux ainsi : « l'océan aux formes larges se trouve dans la direction de la limite sud d'Albûr<i>z</i>, _et_ possède un tiers de cette terre. »
 
-[^2] : (42:1) L'Av. Ardvî sûra d'Âbân Yt. 1, etc.
+[^2]: (42:1) L'Av. Ardvî sûra d'Âbân Yt. 1, etc.
 
 [^3]: (42:2) Littéralement, « pour chaque lac, il y a une seule sorte » ; mais nous pouvons peut-être lire lâ, « pas », au lieu du très similaire râî, « car », et traduire comme suit : « chaque lac n'est pas d'une seule sorte » ; ce qui exprime à peu près le même sens.
 
-[^4] : (42:3) Comparez Âbân Yt. 101.
+[^4]: (42:3) Comparez Âbân Yt. 101.
 
 [^5]: (42:4) Voir Chap. XII, 5.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^11]: (43:4) Ou, peut-être, « l'autre (la puanteur) retourne à Pûtîk. »
 
-[^12]: (43:5) Lecture band ; mais cela peut être bôd, 'conscience, sensibilité'.
+[^12]: (43:5) Lecture band ; mais cela peut être bôd, « conscience, sensibilité ».
 
 [^13]: (44:1) Voir [p. 43](.), note [^5].
 

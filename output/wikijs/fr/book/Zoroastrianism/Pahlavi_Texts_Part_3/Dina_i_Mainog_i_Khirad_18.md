@@ -66,4 +66,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (50:1) C'est-à-dire le compte que l'âme doit rendre après la mort.
 
-[^2] : (50:2) Voir Chap. VIII, 15 n.
+[^2]: (50:2) Voir Chap. VIII, 15 n.

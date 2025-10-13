@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO LI.
 
-1. La quincuagésima pregunta es la que planteas: En cuanto a alguien de buena religión que bebe vino con moderación y sufre pérdidas y daños debido a ese consumo excesivo, ¿cuál es la decisión al respecto? 2. ¿Y cuál es la medida de consumo de vino que se les autoriza cuando beben?
+1\. La quincuagésima pregunta es la que planteas: En cuanto a alguien de buena religión que bebe vino con moderación y sufre pérdidas y daños debido a ese consumo excesivo, ¿cuál es la decisión al respecto? 2. ¿Y cuál es la medida de consumo de vino que se les autoriza cuando beben?
 
 3\. La respuesta es esta: quien, por la influencia de la oportunidad, bebe vino inmoderadamente, siendo adulto e inteligente, a pesar de cualquier pérdida y perjuicio que le sobrevenga por esa bebida inmoderada, o que cause algún daño a alguien, está causando tal contaminación a las criaturas, en sus propios y placenteros [^1] variados modos, que la vergüenza que le resulta es una ayuda (dastakîh) para salir de esa aflicción. 4. E incluso quien da vino autorizadamente [^2] a alguien, y por ello se embriaga con él, es igualmente culpable de todo pecado que ese borracho comete debido a esa embriaguez.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. Cuando una persona no probada, para ser probada, ha bebido una porción mezclada, primero de una copa [^3], luego de dos copas y finalmente de tres copas, y al beberla se vuelve más virtuoso, o no más vicioso, en pensamiento [^4], palabra u obra, debe aumentar las copas, y el experimento es permisible para los probados siempre que la proporción sea tal que mejore o no empeore. 8. A los probados se les autoriza administrar la cantidad a la que se haya extendido el experimento mencionado; pero a quien se demuestre que empeorará al beber vino, no se le autoriza administrar la cantidad que, al ser administrada [^5] en el experimento, se observó que empeoró.
 
-9. En caso de duda, se debe considerar a quien es ortodoxo (hû-dînô), quien ha cantado los himnos sagrados y goza de buena reputación, cuya embriaguez <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> no se manifiesta de esta manera: bebe tanto vino como probó cuando no empeoró al beberlo. 10. Es necesario considerar a quien su religión es invisible, su religión es errónea, y a quien es un niño, incluso con las realidades de la religión, de esta manera: empeora al beber vino. 11. Cuando _aparte_ de la decisión no hay ninguna razón asignable (ban<i>g</i>i<i>s</i>nîk) al respecto, _uno_ considera como _parte_ del vino el que _se dio_ con más autorización [^6].
+9\. En caso de duda, se debe considerar a quien es ortodoxo (hû-dînô), quien ha cantado los himnos sagrados y goza de buena reputación, cuya embriaguez <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> no se manifiesta de esta manera: bebe tanto vino como probó cuando no empeoró al beberlo. 10. Es necesario considerar a quien su religión es invisible, su religión es errónea, y a quien es un niño, incluso con las realidades de la religión, de esta manera: empeora al beber vino. 11. Cuando _aparte_ de la decisión no hay ninguna razón asignable (ban<i>g</i>i<i>s</i>nîk) al respecto, _uno_ considera como _parte_ del vino el que _se dio_ con más autorización [^6].
 
 <figure class="table chapter-navigator">
   <table>

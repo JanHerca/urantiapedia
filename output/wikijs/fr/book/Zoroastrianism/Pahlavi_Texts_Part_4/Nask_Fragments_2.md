@@ -32,7 +32,9 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+## FRAGMENTS EXISTANTS. II. VAR<i>S</i>TMÂNSAR NASK [^1].
 
+Aucune citation de ce Nask n'a encore été remarquée.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +59,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (452:1) Le récit détaillé de ce Nask, dans Dk. IX, contient environ p. 453 9 600 mots Pahlavi, et, si ceux-ci représentent la même proportion de texte original que ceux des récits des trois premiers fargard<i>d</i>s du Bakŏ Nask, ils indiqueraient environ 8 300 mots de texte Avesta et 18 500 de version Pahlavi comme étendue originale de ce Nask.

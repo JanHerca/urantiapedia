@@ -42,11 +42,11 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## OBSERVACIONES.
 
-1-5. (Igual que en la página [2](/es/libro/Zoroastrianismo/Textos_Pahlavi_Parte_4/Observaciones#p2).)
+1-5. (Igual que en la página [2](/es/book/Zoroastrianism/Pahlavi_Texts_Part_4/Observaciones#p2).)
 
 6\. Los manuscritos mencionados son:
 
-B (escrito en 1659 d. C.), véase página [2](/es/libro/Zoroastrianismo/Textos_Pahlavi_Parte_4/Observaciones#p2).
+B (escrito en 1659 d. C.), véase página [2](/es/book/Zoroastrianism/Pahlavi_Texts_Part_4/Observaciones#p2).
 
 B29 (escrito en 1679 d. C.), un Rivâyat persa, n.º 29 en la Biblioteca de la Universidad de Bombay.
 

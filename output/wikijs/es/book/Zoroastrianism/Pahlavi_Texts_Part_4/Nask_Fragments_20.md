@@ -50,7 +50,7 @@ No se ha encontrado ninguna alusión a los siete pasajes siguientes, citados de 
 
 En Sls. XII, 30, se afirma que 'en el Hâ<i>d</i>ôkht <span id="p485"><sup><small>[ p. 485 ]</small></sup></span> dice que una mujer que sea reverente debe ser considerada tanto como aquella que sea adecuada.'
 
-En Sls. XIII, 6, se dice que 'las veintidós estrofas de Tâ-v<i>e</i>\-urvâtâ [^6] son ​​los veintidós juicios de los que habla el Hâ<i>d</i>ôkht así: “Anaomô mananghê daya vîspâi kva, kva parô?—Alojamiento en el juez, para que mientras _él tiene_ veintidós juicios _pueda_ ser más justo.”'
+En Sls. XIII, 6, se dice que 'las veintidós estrofas de Tâ-v<i>e</i>\-urvâtâ [^6] son ​​los veintidós juicios de los que habla el Hâ<i>d</i>ôkht así: «Anaomô mananghê daya vîspâi kva, kva parô?—Alojamiento en el juez, para que mientras _él tiene_ veintidós juicios _pueda_ ser más justo.»'
 
 En Sd. XXII, 3, 4, se afirma que «en el comentario del Hâ<i>d</i>ôkht se dice que todo aquel que intercede y extrae algo de una persona en su nombre y se lo entrega, es tan injusto con ella como quien le ha dado de su propia propiedad. Y en la existencia espiritual, le contabilizan esa ganancia, y así como le contabilizan la buena obra de quien la ha dado, en esa misma medida es su buena obra».
 

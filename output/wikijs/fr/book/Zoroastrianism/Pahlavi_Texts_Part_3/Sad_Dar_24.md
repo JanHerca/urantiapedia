@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (286 : 2) Voir Mkh. LVII, 28 n, Sls. X, 16.
+[^1]: (286 : 2) Voir Mkh. LVII, 28 n, Sls. X, 16.
 
 [^2]: (287:1) B29 omet ces onze mots.
 
@@ -72,6 +72,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (287:3) B29 ajoute « et prononce ».
 
-[^5] : (287 : 4) Voir Mkh. XXVII, 70 n.
+[^5]: (287 : 4) Voir Mkh. XXVII, 70 n.
 
 [^6]: (287:5) Lp, B29 insérer '_ils doivent_ donner.'

@@ -88,7 +88,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 27\. The rule is this, that _one_ is to proceed with great deliberation when he does not know whether _it be_ a sin or a good work, that is, it is not to be done.
 
-28\. The rule is this, that an opinion (andâ<i>z</i>ak) of anything is to be formed through consultation <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> with the good; even so it is revealed in the <i>K</i>î<i>d</i>ra<i>s</i>t _Nask_ [^52] that Spendarma<i>d</i> spoke to Mânû<i>s</i><i>k</i>îhar thus: 'Even the swiftest horse requires the whip (tâ<i>z</i>ânak), <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> the sharpest steel knife requires the whetstone (afsân), and the wisest man requires counsel (hampûrsîh).'
+28\. The rule is this, that an opinion (andâ<i>z</i>ak) of anything is to be formed through consultation <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> with the good; even so it is revealed in the <i>K</i>î<i>d</i>ra<i>s</i>t _Nask_ [^52] that Spendarma<i>d</i> spoke to Mânû<i>s</i><i>k</i>îhar thus: ‘Even the swiftest horse requires the whip (tâ<i>z</i>ânak), <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> the sharpest steel knife requires the whetstone (afsân), and the wisest man requires counsel (hampûrsîh).’
 
 29\. The rule is this, that when _one_ laughs outright (barâ khandê<i>d</i>) the Avesta and Zand are not to be mumbled, for the wisdom of Aûharmazd is omniscient, _and_ good works are a great exercise of liberality, but an extreme abstinence from producing irritation (han<i>g</i>î<i>d</i>âr-dahî<i>s</i>nîh); because in the Ratû<i>s</i>tâîtîh _Nask_ [^53], many harsh things are said about the severe punishment of producers of irritation, in the spiritual _existence_.
 
@@ -108,7 +108,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 38\. At night, when [^68] _one_ lies down, the hands are to be thoroughly washed. 39: That which comes from a menstruous woman to any one, or to anything, is all to be thoroughly washed with bull's urine (gômê<i>z</i>) and water [^69].
 
-\[40. The rule is this, as Âtarô-pâ<i>d</i> _son of_ Mâraspend [^70] said when every one passed away:—'The mouth-veil [^71] and also the clothing are to be well <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> set _apart_ from the gifts (dasarân), so that his soul may become easier.' Completed in peace and pleasure.\]
+\[40. The rule is this, as Âtarô-pâ<i>d</i> _son of_ Mâraspend [^70] said when every one passed away:—‘The mouth-veil [^71] and also the clothing are to be well <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> set _apart_ from the gifts (dasarân), so that his soul may become easier.’ Completed in peace and pleasure.\]
 
 <figure class="table chapter-navigator">
   <table>

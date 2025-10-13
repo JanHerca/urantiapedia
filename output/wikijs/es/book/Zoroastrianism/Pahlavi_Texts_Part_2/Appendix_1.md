@@ -58,7 +58,7 @@ V. ENCONTRANDO UN CADÁVER EN EL DESIERTO.
 
 B29 (escrito en 1679 d. C.), un Rivâyat persa, n.º 29 en la Biblioteca de la Universidad de Bombay.
 
-BK, J, K35, M10 (como se describe en la página [278](/es/book/Zoroastrismo/Textos_Pahlavi_Parte_2/Epístola_de_Manuskihar_1_1#p278)).
+BK, J, K35, M10 (como se describe en la página [278](/es/book/Zoroastrismo/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_1#p278)).
 
 L4 (escrito alrededor del año 1324 d. C.), un Vendidâ<i>d</i> con Pahlavi, en la Biblioteca de la Oficina de la India en Londres.
 
@@ -102,7 +102,7 @@ Y el alma de Keresâsp habló así: "¡Perdóname, oh Aûha<i>r</i>ma<i>z</i><i>
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i>. habló así: "¡Apártate! Porque serías horrible a mis ojos, porque el fuego, que es mi hijo, fue extinguido por ti."
 
-'Keresâsp habló así: «¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! el cielo _o_ el cielo supremo! Cuando el viento _fue_ debilitado (rakhtŏ) y paralizado por mí, los <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> demonios engañaron al viento, y le dijeron así: '_Él_ te resiste más que todas las criaturas y la creación, y deberías pensar en él así, que “no hay nadie en esta tierra que me resista más que_ Keresâsp”; él desprecia a los demonios _y_ a los hombres, y a ti también, que deberías ser el viento, _incluso_ a ti te desprecia.' Y el viento, al oír esas palabras, arreció con tanta fuerza que arrancó de raíz todo árbol y arbusto que se encontraba a su paso, y toda la tierra que se encontraba a su paso quedó reducida a polvo (payan<i>g</i>ânŏîaîtŏ ka<i>r</i><i>d</i>ŏ), y se alzó la oscuridad. Y cuando llegó a mí, que soy Keresâsp, no le fue posible levantar mi pie del suelo; así que me levanté y salí (ba<i>r</i>â yehabûn<i>d</i>) sobre la tierra, y me mantuve de pie sobre ella, con ambos pies en una igualdad (mirîh), hasta que se completó una muralla (pû<i>s</i>tŏ), para poder volver a bajar bajo tierra; aquello que Aûha<i>r</i>ma<i>z</i><i>d</i> ordenó así: «Si yo nombrara un guardián de la tierra y el cielo, no me abandonarían [^44]». Y si yo no hubiera hecho eso, Aharman se habría vuelto predominante sobre tus criaturas.
+'Keresâsp habló así: «¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! el cielo _o_ el cielo supremo! Cuando el viento _fue_ debilitado (rakhtŏ) y paralizado por mí, los <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> demonios engañaron al viento, y le dijeron así: '_Él_ te resiste más que todas las criaturas y la creación, y deberías pensar en él así, que «no hay nadie en esta tierra que me resista más que_ Keresâsp»; él desprecia a los demonios _y_ a los hombres, y a ti también, que deberías ser el viento, _incluso_ a ti te desprecia.' Y el viento, al oír esas palabras, arreció con tanta fuerza que arrancó de raíz todo árbol y arbusto que se encontraba a su paso, y toda la tierra que se encontraba a su paso quedó reducida a polvo (payan<i>g</i>ânŏîaîtŏ ka<i>r</i><i>d</i>ŏ), y se alzó la oscuridad. Y cuando llegó a mí, que soy Keresâsp, no le fue posible levantar mi pie del suelo; así que me levanté y salí (ba<i>r</i>â yehabûn<i>d</i>) sobre la tierra, y me mantuve de pie sobre ella, con ambos pies en una igualdad (mirîh), hasta que se completó una muralla (pû<i>s</i>tŏ), para poder volver a bajar bajo tierra; aquello que Aûha<i>r</i>ma<i>z</i><i>d</i> ordenó así: «Si yo nombrara un guardián de la tierra y el cielo, no me abandonarían [^44]». Y si yo no hubiera hecho eso, Aharman se habría vuelto predominante sobre tus criaturas.
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: "¡Apártate! Porque serías horrible a mis ojos, porque el fuego, que es mi hijo, fue herido por ti."
 
@@ -236,7 +236,7 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 [^39]: (375:5) J omite estas últimas siete palabras.
 
-[^40]: (376:1) La versión persa dice: “Lo maté, y cuando cayó, muchas aldeas y lugares quedaron desolados”.
+[^40]: (376:1) La versión persa dice: «Lo maté, y cuando cayó, muchas aldeas y lugares quedaron desolados».
 
 [^41]: (376:2) Los 'nueve salteadores de caminos' de Zamyâ<i>d</i> Yt. 41. La versión persa dice 'siete'. BK dice 'caminaron', en lugar de 'mataron'.
 
@@ -244,7 +244,7 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 [^43]: (376:4) J omite la palabra 'caído'.
 
-[^44]: (377:1) La versión persa dice 'y cuando llegó cerca de mí, no pudo levantar mi pie del lugar; y me apoderé del espíritu del viento y lo derroté con mi propia fuerza, hasta que hizo una promesa así: “Volveré a bajar a la tierra”. Y no retiré mi mano de esa obra menos que Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles me lo ordenaron.'
+[^44]: (377:1) La versión persa dice 'y cuando llegó cerca de mí, no pudo levantar mi pie del lugar; y me apoderé del espíritu del viento y lo derroté con mi propia fuerza, hasta que hizo una promesa así: «Volveré a bajar a la tierra». Y no retiré mi mano de esa obra menos que Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles me lo ordenaron.'
 
 [^45]: (378:1) Véase Byt. III, 55-61. La versión persa sustituye una leyenda sobre el gigantesco pájaro Kamak (también mencionado en Mkh. XXVII, 50), que cubrió la tierra con su sombra y evitó la lluvia hasta que los ríos se secaron; también devoró a hombres y animales como si fueran granos de maíz, hasta que Keresâsp lo mató disparándole flechas continuamente durante siete días y siete noches.
 
@@ -270,7 +270,7 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 [^56]: (380:4) Véase Dd. XLIV, r6.
 
-[^57]: (380:5) La versión persa continúa así: «Y mientras Zaratû<i>s</i>t el Spîtamân intercedía, Ardîbahi<i>s</i>t, el arcángel, dijo: “Tu reputación es inmensa, y tu voluntad es grande”. Y después de eso no se opuso al alma de Keresâsp, sino que la perdonó por Zaratû<i>s</i>t el Spîtamân; y el alma de Keresâsp se liberó de esa incomodidad». Esta versión concluye con una advertencia sobre la necesidad de tratar el fuego con el debido respeto.
+[^57]: (380:5) La versión persa continúa así: «Y mientras Zaratû<i>s</i>t el Spîtamân intercedía, Ardîbahi<i>s</i>t, el arcángel, dijo: «Tu reputación es inmensa, y tu voluntad es grande». Y después de eso no se opuso al alma de Keresâsp, sino que la perdonó por Zaratû<i>s</i>t el Spîtamân; y el alma de Keresâsp se liberó de esa incomodidad». Esta versión concluye con una advertencia sobre la necesidad de tratar el fuego con el debido respeto.
 
 [^58]: (381:1) J omite las siguientes palabras hasta el siguiente 'así'.
 

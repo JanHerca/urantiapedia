@@ -767,7 +767,7 @@ Je prie avec bénédictions pour un bienfait, et pour le bien, même pour toute 
 
 [^61]: 84:‡ Dînâ-î Maînôg-î Khirad. Livres sacrés de l'Orient. Traduit par le Dr West.
 
-[^62] : 86:\* Dâdîstân-î-Dînîk
+[^62]: 86:\* Dâdîstân-î-Dînîk
 
 [^63]: 86:† Livres sacrés de l'Orient.
 

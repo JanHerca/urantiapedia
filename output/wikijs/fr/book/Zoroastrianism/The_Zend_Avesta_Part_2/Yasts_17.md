@@ -256,13 +256,13 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 [^1221]: 271:5 Car boire du Haoma est un acte de religion (cf. Yasna XI, 12 \[31\] seq.).
 
-[^1222] : 272:1 ? Âgairimaiti<i>s</i>.
+[^1222]: 272:1 ? Âgairimaiti<i>s</i>.
 
 [^1223]: 272:2 Cf. Yt. V, 130.
 
 [^1224]: 272:3 ? Unkupasmanu.
 
-[^1225] : 273:1 ? Ãgamô-paidhi<i>s</i>a.
+[^1225]: 273:1 ? Ãgamô-paidhi<i>s</i>a.
 
 [^1226]: 273:2 Douteux.
 
@@ -278,7 +278,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 [^1232]: 274:5 Ou, « ne pas faire de mal aux justes ».
 
-[^1233] : 274:6 Zarathu<i>s</i>tra.
+[^1233]: 274:6 Zarathu<i>s</i>tra.
 
 [^1234]: 274:7 L'Ahuna Vairya.
 

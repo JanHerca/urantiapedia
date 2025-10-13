@@ -290,7 +290,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 ## Notes de bas de page
 
-[^476] : 92 : 1 ἐγκατέστησε τὸν Σείριον (Plutarque, de Iside et Osiride, § 47 ; cf. infra, § 48).
+[^476]: 92 : 1 ἐγκατέστησε τὸν Σείριον (Plutarque, de Iside et Osiride, § 47 ; cf. infra, § 48).
 
 [^477]: 92:2 Sîrôzah I, 13.
 
@@ -302,7 +302,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^481]: 93:4 Voir Vend., pp. 3, 5, note 2.
 
-[^482] : 93 : 5 Nama ; voir Études Iraniennes, II, 124.
+[^482]: 93 : 5 Nama ; voir Études Iraniennes, II, 124.
 
 [^483]: 93:6 Cf. [p. 47](../Yasts_3#p47).
 
@@ -346,7 +346,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^503]: 97:7 'Je sacrifie à Ti<i>s</i>tar pour (= obtenir) la santé de la vue' (Khorshê<i>d</i> Nyâyi<i>s</i> 8, Pahl. tr.).
 
-[^504] : 98 : 1 L'âge de quinze ans est l'âge paradisiaque dans l'Avesta (Yasna IX, 5 \[18\]).
+[^504]: 98 : 1 L'âge de quinze ans est l'âge paradisiaque dans l'Avesta (Yasna IX, 5 \[18\]).
 
 [^505]: 98:2 Gayô maratan. Mais la traduction est douteuse ; peut-être « comme un homme de premier ordre l'est ».
 
@@ -364,7 +364,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^512]: 100:2 Cf. Vend. Introd. IV, 27.
 
-[^513] : 100:3 §§ 26-27 = §§ 20-21.
+[^513]: 100:3 §§ 26-27 = §§ 20-21.
 
 [^514]: 101:1 Adhavô; peut-être 'les ruisseaux'; cf. Yt. V, 1, note 2. Un mois de l'ancien calendrier persan, censé correspondre à septembre-octobre, était appelé âdukani, ce qui pourrait, dans cette hypothèse, signifier '(le mois) qui fait jaillir les ruisseaux'.
 
@@ -402,7 +402,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^531]: 104:4 Cf. ci-dessus, § 8.
 
-[^532] : 105:1 Sim<i>a</i><i>u</i>, signifiant sahmgûn, bhayamkara (Yasna IX, 38 \[93\]).
+[^532]: 105:1 Sim<i>a</i><i>u</i>, signifiant sahmgûn, bhayamkara (Yasna IX, 38 \[93\]).
 
 [^533]: 105:2 ? Va<i>z</i>dri<i>s</i>.
 
@@ -428,7 +428,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 [^544]: 107:4 Bonne année.
 
-[^545] : 108:1 Lecture ava\[-derenãm\]; cf. Vend. XVIII, 18\[45\].
+[^545]: 108:1 Lecture ava\[-derenãm\]; cf. Vend. XVIII, 18\[45\].
 
 [^546]: 108:2 Kapasti est proprement la coloquinte ou pomme amère :
   'Occidet et serpents, et fallax herba veneni

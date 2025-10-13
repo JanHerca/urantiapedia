@@ -80,4 +80,4 @@ Le Zaotar : Alors que le Ratu, de par sa justice, saint et savant, parle !
 
 [^1073]: 254:1 Voir Y. II, 18.
 
-[^1074] : 254 : 2 Voir Y. III, 24, 25.
+[^1074]: 254 : 2 Voir Y. III, 24, 25.

@@ -80,13 +80,13 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^4]: (65:4) C'est-à-dire l'arbre Gôkar<i>d</i>, qui est le Hôm blanc (voir Chap. XXVII, 4).
 
-[^5] : (65:5) L'Av. karô masyô de Vend. XIX, 140, Bahrâm Yt. 29, Dîn Yt. 7 ; voir aussi Chap. XXIV, 13.
+[^5]: (65:5) L'Av. karô masyô de Vend. XIX, 140, Bahrâm Yt. 29, Dîn Yt. 7 ; voir aussi Chap. XXIV, 13.
 
 [^6]: (65:6) Windischmann et Justi préfèrent traduire ainsi : « De plus, le lézard est la nourriture spirituelle de ces poissons » ; mais cela peut difficilement être concilié avec le texte Pahlavi.
 
 [^7]: (66:1) Voir chap. XIV, 26 et XXIV, 13.
 
-[^8] : (66:2) L'Av. vâsîm yãm pa<i>n</i><i>k</i>âsadvarãm de Yas. XLI, 27.
+[^8]: (66:2) L'Av. vâsîm yãm pa<i>n</i><i>k</i>âsadvarãm de Yas. XLI, 27.
 
 [^9]: (66:3) En transcrivant le Pâz. mârâdu en Pahlavi, nous avons mâr âyin, « la manière du serpent ». Comparez le texte avec Bahrâm Yt. 29.
 

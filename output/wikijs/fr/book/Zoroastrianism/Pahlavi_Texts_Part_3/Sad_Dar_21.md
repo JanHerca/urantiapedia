@@ -86,7 +86,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^7]: (284:1) B29 a « manger en bavardant est un tel péché que ».
 
-[^8] : (284 : 2) Voir Mkh. XVI, 17 n.
+[^8]: (284 : 2) Voir Mkh. XVI, 17 n.
 
 [^9]: (284:3) Voir § 1 n.
 
@@ -94,7 +94,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^11]: (284:5) B29 omet ces deux mots.
 
-[^12] : (284 : 6) Voir Mkh. II, 115 n.
+[^12]: (284 : 6) Voir Mkh. II, 115 n.
 
 [^13]: (284:7) Voir Ho<i>r</i>vada<i>d</i> et Ame<i>r</i>ôda<i>d</i> (Mkh. II, 34).
 

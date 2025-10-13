@@ -70,9 +70,9 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (264:1) Voir Sls. XII, 31.
 
-[^2] : (264 : 2) Voir Mkh. IV, 5 n.
+[^2]: (264 : 2) Voir Mkh. IV, 5 n.
 
-[^3] : (264 : 3) Voir Mkh. LVII, 13 n.
+[^3]: (264 : 3) Voir Mkh. LVII, 13 n.
 
 [^4]: (264:4) Voir Chap. XIII,
 

@@ -82,7 +82,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 13\. Nous adorons Sraosha (Obéissance) le bienheureux, qui est le plus fort et le plus persévérant des jeunes, le plus énergique et le plus rapide, celui de tous les jeunes qui frappe le plus avec terreur [^1249] de loin (?). \[^1250].\]
 
-14. Loin de cette maison, de ce village, de cette tribu et de ce pays, les terreurs maléfiques et destructrices s'éloigneront. Dans la demeure de cet homme chez qui l'obéissance du bienheureux, qui frappe victorieusement, est satisfaite et accueillie, se trouve cet homme saint qui le satisfait ainsi (le plus) en pensant de meilleures pensées, en prononçant des paroles (rituelles) véridiques et en accomplissant des actes saints [^1251].
+14\. Loin de cette maison, de ce village, de cette tribu et de ce pays, les terreurs maléfiques et destructrices s'éloigneront. Dans la demeure de cet homme chez qui l'obéissance du bienheureux, qui frappe victorieusement, est satisfaite et accueillie, se trouve cet homme saint qui le satisfait ainsi (le plus) en pensant de meilleures pensées, en prononçant des paroles (rituelles) véridiques et en accomplissant des actes saints [^1251].
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 

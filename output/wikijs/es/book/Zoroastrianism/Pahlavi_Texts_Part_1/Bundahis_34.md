@@ -44,7 +44,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 7\. Kaî-Kabâ<i>d</i> [^19] _fue_ quince años; Kaî-Kâûs, hasta que fue al cielo, setenta y cinco años, _y_ setenta y cinco años después de eso, en total ciento cincuenta años; Kai-Khûsrôv sesenta años; Kaî-Lôrâsp [^20] ciento veinte años; Kaî-Vi<i>s</i>tâsp, hasta la llegada de la religión, treinta años [^21], en total ciento veinte años.
 
-8\. Vohûman [^22] _hijo_ de Spend-dâ<i>d</i> ciento doce años; Hûmâî, que _era_ hija de Vohûman, treinta años; Dârâî hijo de Kîhar-i-â<i>z</i>â<i>d</i> [^23], es decir, _de la hija_ de Vohûman, doce años; Dârâî hijo de Dârâî catorce años; Alejandro el Rumano [^24] catorce años.
+8\. Vohûman [^22] _hijo_ de Spend-dâ<i>d</i> ciento <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> doce años; Hûmâî, que _era_ hija de Vohûman, treinta años; Dârâî hijo de Kîhar-i-â<i>z</i>â<i>d</i> [^23], es decir, _de la hija_ de Vohûman, doce años; Dârâî hijo de Dârâî catorce años; Alejandro el Rumano [^24] catorce años.
 
 9\. Los A<i>s</i>kânians llevaron el título en una soberanía ininterrumpida (a-arûbâk) doscientos ochenta y cuatro años [^25], Ardashîr hijo de Pâpak _y_ el número de los Sâsânians cuatrocientos sesenta años [^26], y luego pasó a los árabes.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^1]: (149:1) Este capítulo se encuentra en todos los MSS.
 
-[^2]: (149:2) TD añade 'de los árabes (Tâ<i>z</i>îkân).'
+[^2]: (149:2) TD añade «de los árabes (Tâ<i>z</i>îkân).»
 
 [^3]: (149:3) Véase Cap. I, 8.
 
@@ -92,11 +92,11 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^9]: (149:9) Véanse los Caps. XV, 28. XXXI, 1.
 
-[^10]: (149:10) K20 omite, por error, desde 'juntos' en el § 3 hasta este punto.
+[^10]: (149:10) K20 omite, por error, desde «juntos» en el § 3 hasta este punto.
 
 [^11]: (149:11) Véase Cap. XXXI, 2.
 
-[^12]: (149:12) Así en K20, pero M6 tiene nismô, 'alma, razón', como en el cap. XXIII, 1; la palabra 'gloria' se referiría a la supuesta gloria divina de los monarcas iraníes (véase cap. XXXI, 32).
+[^12]: (149:12) Así en K20, pero M6 tiene nismô, «alma, razón», como en el cap. XXIII, 1; la palabra «gloria» se referiría a la supuesta gloria divina de los monarcas iraníes (véase cap. XXXI, 32).
 
 [^13]: (150:1) El séptimo milenio, regido por Libra, es calculado por Windischmann de la siguiente manera: 30 + 40½ + 50 + 93 + 40 + 30 + 616½ + 100 = 1000. El octavo milenio, regido por Escorpio, son los mil años de Dahâk.
 

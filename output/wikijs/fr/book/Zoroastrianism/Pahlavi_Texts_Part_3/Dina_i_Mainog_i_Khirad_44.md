@@ -104,11 +104,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^16]: (86:7) Ceci est déduit de Vend. I, 2-4.
 
-[^17] : (87 : 1) Comparez le Chap. LXII, 18.
+[^17]: (87 : 1) Comparez le Chap. LXII, 18.
 
 [^18]: (87:2) L19 a dre<i>n</i><i>z</i>ine<i>n</i>d, 'ils font répéter.'
 
-[^19] : (87:3) Comparez le Chap. LXII, 17.
+[^19]: (87:3) Comparez le Chap. LXII, 17.
 
 [^20]: (87:4) Av. paoiryô-<i>d</i>kaêsha, terme appliqué à la véritable religion adoratrice de Ma<i>z</i><i>d</i>a de tous les âges, avant et après l'époque de Zaratû<i>s</i>t.
 

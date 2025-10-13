@@ -67,7 +67,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 Ou bien le compositeur de la prière a-t-il correctement traduit Y. LI, 22, et a-t-il hardiment écrit ses paroles succinctes comme étant claires pour ses auditeurs à partir d'explications aujourd'hui perdues ? De telles explications (orales ou écrites) existaient naturellement dès le début. Aucun compositeur ne manque d'analyser ses œuvres.
 
-[^1152] : 269 : 1 faisant référence à yêNhê à Ahura (?).
+[^1152]: 269 : 1 faisant référence à yêNhê à Ahura (?).
 
 [^1153]: 269:2 Apte à vivre, pur.
 

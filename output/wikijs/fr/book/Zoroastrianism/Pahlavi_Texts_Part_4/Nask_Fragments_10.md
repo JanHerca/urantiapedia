@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
+## FRAGMENTS EXISTANTS. X. VI<i>S</i>TÂSP-SÂSTÔ NASK [^1].
+
+La première moitié de ce Nask (comme décrit dans Dk. VIII, Chap. XI, 1, 2) semble encore exister dans le Vi<i>s</i>tâsp Ya<i>s</i>t, 1-44 ; mais le reste de ce Ya<i>s</i>t ne correspond pas à la description de la seconde moitié du Nask.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +61,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (468:1) Comme la moitié de ce Nask est constituée du Vi<i>s</i>tâsp Yt. 1-44, qui contient environ 1 100 mots Avesta et 3 600 mots Pahlavi, le contenu du Nask entier peut être estimé à environ 2 200 mots Avesta et 7 200 mots Pahlavi.

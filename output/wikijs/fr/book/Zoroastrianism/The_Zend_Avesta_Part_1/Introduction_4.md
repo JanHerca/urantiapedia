@@ -272,15 +272,15 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^110]: lviii:1 Ibid.
 
-[^111] : lviii : 2 Οὐρανός ; ou Dyaus, « le ciel brillant » \[Ζεύς, Jup-piter\], ou Svar.
+[^111]: lviii : 2 Οὐρανός ; ou Dyaus, « le ciel brillant » \[Ζεύς, Jup-piter\], ou Svar.
 
 [^112]: lviii:3 Ou peut-être « le Seigneur qui accorde l'intelligence » (Benfey, « Asura Medhâ et Ahura Mazdâo »).
 
 [^113]: lviii:4 C'est du moins le sens qui était attaché à ce nom dans la conscience des compositeurs de l'Avesta.
 
-[^114] : lviii:5 Voir infra, § 12.
+[^114]: lviii:5 Voir infra, § 12.
 
-[^115] : lviii:6 Orm. Ah. §§ 27-36.
+[^115]: lviii:6 Orm. Ah. §§ 27-36.
 
 [^116]: lix:1 Bundahi<i>s</i> I. 7; Yasna LVIII, 8 (LVII, 22).
 
@@ -298,7 +298,7 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^123]: lxi:1 Il conserva cependant une position élevée, tant dans la mythologie concrète qu'abstraite. En tant que dieu de la lumière céleste, seigneur des vastes espaces lumineux des vastes pâturages d'en haut (cf. § 16), il devint plus tard le dieu du soleil (Deo invicto Soli Mithrae ; en persan Mihr est le Soleil). Comme la lumière et la vérité sont une seule et même chose, vues avec les yeux du corps et de l'esprit, il devint le dieu de la vérité et de la foi. Il punit le Mithra-dru<i>g</i>, « celui qui ment à Mithra » (ou « qui ment au contrat », puisque Mithra en tant que nom neutre signifiait « amitié, accord, contrat ») ; il est juge en enfer, en compagnie de Rashnu, « le vrai », le dieu de la vérité, simple rejeton de Mithra dans son caractère moral (Farg. IV, 54).
 
-[^124] : lxi:2 Cf. Plutôt. de Iside, XLVII.
+[^124]: lxi:2 Cf. Plutôt. de Iside, XLVII.
 
 [^125]: lxi:3 Ou, qui travaille dans les hauteurs d'en haut.
 
@@ -306,29 +306,29 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^127]: lxi:5 De la même manière, son homologue grec, Zeus, le dieu du ciel, le seigneur et le père des dieux et des hommes, lorsqu'il est assiégé par les Titans, appelle Thétis, Prométhée et les Hécatonchirs à l'aide.
 
-[^128] : lxii:1 Yt. XIX, 47-52.
+[^128]: lxii:1 Yt. XIX, 47-52.
 
-[^129] : lxii : 2 Yasna LI (L), 9.
+[^129]: lxii : 2 Yasna LI (L), 9.
 
-[^130] : lxii:3 Farg. III, 15 ; V, 10 ; XV, 26, etc.
+[^130]: lxii:3 Farg. III, 15 ; V, 10 ; XV, 26, etc.
 
-[^131] : lxii:4 Cf. Clermont-Ganneau, dans la Revue Critique, 1877, n° 52.
+[^131]: lxii:4 Cf. Clermont-Ganneau, dans la Revue Critique, 1877, n° 52.
 
 [^132]: lxiii:1 Le <i>h</i><i>v</i>arenô, khurrah et farr persans, est proprement la lumière de la souveraineté, la gloire d'en haut qui fait du roi un dieu terrestre. Qui la possède règne, qui la perd tombe ; lorsque Yima la perdit, il périt et A<i>z</i>i Dahâka régna ; comme lorsque la lumière disparaît, le démon règne en maître. Voir infra, § 39 ; et cf. Yt. XIX, 32 seq.
 
-[^133] : lxiii:2 Voir Farg. V, 15 suiv.
+[^133]: lxiii:2 Voir Farg. V, 15 suiv.
 
 [^134]: lxiii:3 Rv. I, 158, 5; X, 99, 6.
 
-[^135] : lxiii:4 Généralement, apâm napât.
+[^135]: lxiii:4 Généralement, apâm napât.
 
-[^136] : lxiii : 5 Yasna IX, 8 (25).
+[^136]: lxiii : 5 Yasna IX, 8 (25).
 
-[^137] : lxiii:6 Cathru-gaosho Varenô ; v. Vendîdâd Ier, 18.
+[^137]: lxiii:6 Cathru-gaosho Varenô ; v. Vendîdâd Ier, 18.
 
 [^138]: lxiii:7 Catur-a<i>s</i>rir Varu<i>n</i>o, Rv. I, 152, 2. Cf. Orm. Ahr. § 65.
 
-[^139] : lxiii:8 'L'extincteur' (?).
+[^139]: lxiii:8 'L'extincteur' (?).
 
 [^140]: lxiii:9 Cf. § 36.
 
@@ -348,21 +348,21 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^148]: lxiv:6 Voir ci-dessus, § 11.
 
-[^149] : lxiv:7 Cf. Atharva-veda II, 26, 1 ; RV. I, 134, 4.
+[^149]: lxiv:7 Cf. Atharva-veda II, 26, 1 ; RV. I, 134, 4.
 
-[^150] : lxiv:8 Farg. III, 2 ; Yasna I, 3 (9).
+[^150]: lxiv:8 Farg. III, 2 ; Yasna I, 3 (9).
 
-[^151] : lxiv:9 Neriosengh ad Yasna, ll
+[^151]: lxiv:9 Neriosengh ad Yasna, ll
 
 [^152]: lxiv:10 Yt. XV, 5.
 
 [^153]: lxiv:11 Bundahi<i>s</i> I, 15.
 
-[^154] : lxv:1 Mainyô i-Khard II, 115 ; cf. Farg. 8, n. 3.
+[^154]: lxv:1 Mainyô i-Khard II, 115 ; cf. Farg. 8, n. 3.
 
-[^155] : lxv:2 Cf. Farg. XIX, 16.
+[^155]: lxv:2 Cf. Farg. XIX, 16.
 
-[^156] : lxv:3 Orm. Ah. § 257.
+[^156]: lxv:3 Orm. Ah. § 257.
 
 [^157]: lxv:4 Farg. V, 8-9, texte et notes.
 
@@ -370,15 +370,15 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^159]: lxv:6 Cf. § 39.
 
-[^160] : lxv:7 Cf. Roth, Zeitschrift der Deutschen Morgenl. Gesellschaft II, 216.
+[^160]: lxv:7 Cf. Roth, Zeitschrift der Deutschen Morgenl. Gesellschaft II, 216.
 
-[^161] : lxv : 8 Farg, XVIII, 19 suiv.
+[^161]: lxv : 8 Farg, XVIII, 19 suiv.
 
-[^162] : lxv:9 Yasna LXVIII, 7 (LXVII, 18).
+[^162]: lxv:9 Yasna LXVIII, 7 (LXVII, 18).
 
-[^163] : lxvi:1 Farg. VIII, 80.
+[^163]: lxvi:1 Farg. VIII, 80.
 
-[^164] : lxvi:2 Orm. Ah. § 142.
+[^164]: lxvi:2 Orm. Ah. § 142.
 
 [^165]: lxvi:3 Ibid. p, 176, n. 6. Ensuite, pairikãm, l'accusatif de pairika, a été interprété comme un composé pahlavi, pari-kâm, 'amour du Paris' (Comm. ad Farg. XIX 5).
 
@@ -386,7 +386,7 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^167]: lxvi:5 Farg. I, 10.
 
-[^168] : lxvi :6 Yasna IX, 11 (34) ; Ya<i>s</i>t XIX, 40.
+[^168]: lxvi :6 Yasna IX, 11 (34) ; Ya<i>s</i>t XIX, 40.
 
 [^169]: lxvi:7 Bundahi<i>s</i> 69, 13. Sur Niyâz, voir Orm. Ahr. p. 2 16, n. 9.
 
@@ -398,27 +398,27 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^173]: lxvii:4 Farg. XI, 9.
 
-[^174] : lxvii:5 Farg. XVIIIe ; 16 suiv.
+[^174]: lxvii:5 Farg. XVIIIe ; 16 suiv.
 
 [^175]: lxvii:6 Bundahi<i>s</i> 69, 15.
 
-[^176] : lxviii:1 Orm. Ah. § 145. Cf. Farg. XXI, 1.
+[^176]: lxviii:1 Orm. Ah. § 145. Cf. Farg. XXI, 1.
 
 [^177]: lxviii:2 Voir infra, § 41; Farg. X, 9; Bundahi<i>s</i> 5, 19.
 
-[^178] : lxviii:3 Orm. Ah. § 212.
+[^178]: lxviii:3 Orm. Ah. § 212.
 
-[^179] : lxviii:4 Farg. IV, 49.
+[^179]: lxviii:4 Farg. IV, 49.
 
-[^180] : lxviii:5 Farg. XIX, 1.
+[^180]: lxviii:5 Farg. XIX, 1.
 
 [^181]: lxviii:6 Farg. IV, 49. Sa description mythique pourrait probablement être complétée par les récits rabbiniques et arabes sur la Brisation du Sépulcre et les anges Monkir et Nakir (Sale, le Coran, Introd. p. 60, et Bargès, Journal Asiatique, 1843).
 
-[^182] : lxviii:7 Voir Farg. XIX, 29, n. 2. Vîzaresha (ibid.) est étroitement lié à Astô-vîdôtu ; sur Bûiti, voir Farg. XIX, I, n. 3.
+[^182]: lxviii:7 Voir Farg. XIX, 29, n. 2. Vîzaresha (ibid.) est étroitement lié à Astô-vîdôtu ; sur Bûiti, voir Farg. XIX, I, n. 3.
 
-[^183] : lxviii:8 Voir Orm. Ah. §§ 87-88.
+[^183]: lxviii:8 Voir Orm. Ah. §§ 87-88.
 
-[^184] : lxix : 1 Yt. VIII, 23 suiv.
+[^184]: lxix : 1 Yt. VIII, 23 suiv.
 
 [^185]: lxix:2 Préparé avec certains rites et prières ; c'est le hotrâ védique.
 
@@ -430,13 +430,13 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^189]: lxix:6 Bundahi<i>s</i> 42, 12; 59, 4
 
-[^190] : lxix : 7 Bundahi<i>s</i>. Cf. Farg. XIX, 9, 43 ; Yasna XIX.
+[^190]: lxix : 7 Bundahi<i>s</i>. Cf. Farg. XIX, 9, 43 ; Yasna XIX.
 
-[^191] : lxix :8 Yasna LXI (LX).
+[^191]: lxix :8 Yasna LXI (LX).
 
 [^192]: lxx:1 Orm. Ahr. § 205.
 
-[^193] : lxx:2 Farg. XVIII, 51 suiv.
+[^193]: lxx:2 Farg. XVIII, 51 suiv.
 
 [^194]: lxx:3 Farg. XXII, 7.
 
@@ -450,13 +450,13 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^199]: lxx:8 Yasna LVI.
 
-[^200] : lxx:9 Farg. VII, 52, n. 4 ; XIX, 46, n. 8.
+[^200]: lxx:9 Farg. VII, 52, n. 4 ; XIX, 46, n. 8.
 
 [^201]: lxx:10 Cf. Farg. V, 57, n.
 
 [^202]: lxx:11 Bundahi<i>s</i> 76, 11.
 
-[^203] : lxxi:1 Orm. Ah. § 85.
+[^203]: lxxi:1 Orm. Ah. § 85.
 
 [^204]: lxxi:2 Bundahi<i>s</i>. I; cf. Yasna XXX.
 
@@ -464,13 +464,13 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^206]: lxxi:4 Cf. Farg. I.
 
-[^207] : lxxi:5 Cf. Farg. XXI. 1.
+[^207]: lxxi:5 Cf. Farg. XXI. 1.
 
 [^208]: lxxi:6 Voir ci-dessus, [p. lx](#plx).
 
-[^209] : lxxii:1 Orm. Ah. §§ 202-206.
+[^209]: lxxii:1 Orm. Ah. §§ 202-206.
 
-[^210] : lxxii:2 Voir ci-dessus, [p. lxviii](#plxviii).
+[^210]: lxxii:2 Voir ci-dessus, [p. lxviii](#plxviii).
 
 [^211]: lxxii:3 Voir § 41.
 
@@ -478,9 +478,9 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^213]: lxxii:5 Une discipline stricte règne parmi eux. Chaque classe d'animaux a un chef ou ratu au-dessus d'elle (Bund. XXIV). La même organisation s'étend à tous les êtres p. lxxiii de la nature : les étoiles, les hommes, les dieux ont leurs ratus respectifs, Ti<i>s</i>trya, Zoroastre, Ahura.
 
-[^214] : lxxiii:1 Orm. Ah. §§ 227-231.
+[^214]: lxxiii:1 Orm. Ah. §§ 227-231.
 
-[^215] : lxxiii:2 Farg. III, 10 ; XIV, 5 suiv., 8, n. 8 ; XVIII, 70, etc.
+[^215]: lxxiii:2 Farg. III, 10 ; XIV, 5 suiv., 8, n. 8 ; XVIII, 70, etc.
 
 [^216]: lxxiii:3 Il n'y a guère de coutume religieuse qui puisse être suivie par une série aussi continue de preuves historiques : cinquième siècle avant J.-C., Hérodote I, 140 ; ​​premier siècle après J.-C., Plutarque, De Isid. XLVI ; Quaest. Conviv. IV, 5, 2 ; sixième siècle, Agathias II, 24 ; dix-septième siècle, G. du Chinon.
 
@@ -490,9 +490,9 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^219]: lxxv:1 Voir Farg II.
 
-[^220] : lxxv:2 Farg. XIX, 28 suiv.
+[^220]: lxxv:2 Farg. XIX, 28 suiv.
 
-[^221] : lxxv:3 Cf. Farg. II, Introd. et § 21 suiv.
+[^221]: lxxv:3 Cf. Farg. II, Introd. et § 21 suiv.
 
 [^222]: lxxvi:1 Voir ci-dessus, [p. lxv](#plxv).
 
@@ -502,23 +502,23 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^225]: lxxvii:2 Ya<i>s</i>t XIX, 39.
 
-[^226] : lxxvii:3 Farg. XIX, 4.
+[^226]: lxxvii:3 Farg. XIX, 4.
 
-[^227] : lxxvii : 4 Rig-Veda II, 30, 4.
+[^227]: lxxvii : 4 Rig-Veda II, 30, 4.
 
 [^228]: lxxvii:5 Un trait singulier de sa naissance, selon Pline, qui est sur ce point en parfait accord avec la tradition parsie ultérieure, est que, seul des mortels, il a ri en naissant : cela montre que son lieu natal se trouve dans les mêmes régions où naissent les Maruts védiques, ces génies de la tempête « nés du rire de l'éclair » (« Je ris en passant dans le tonnerre », dit le Nuage dans Shelley ; cf. le persan Khandah i barq, « le rire de l'éclair »).
 
 [^229]: lxxvii:6 Ya<i>s</i>t XIII, 93.
 
-[^230] : lxxviii:1 Ya<i>s</i>t V, 18.
+[^230]: lxxviii:1 Ya<i>s</i>t V, 18.
 
-[^232] : lxxviii:2 Orm. Ah. § 162 suiv.
+[^232]: lxxviii:2 Orm. Ah. § 162 suiv.
 
 [^233]: lxxviii:3 Ya<i>s</i>t XVII, 18.
 
-[^234] : lxxviii:4 Farg. XXII, 19.
+[^234]: lxxviii:4 Farg. XXII, 19.
 
-[^235] : lxxviii:5 Farg. II, 3, 42 ; Ya<i>s</i>t XIII, 87.
+[^235]: lxxviii:5 Farg. II, 3, 42 ; Ya<i>s</i>t XIII, 87.
 
 [^236]: lxxviii:6 La loi est généralement connue sous le nom de Dâtem vîdaêvô-dâtem (cf. V, 1) ; comme émanant d'Ahura, c'est Mathra Spe<i>n</i>ta, 'la parole sainte', qui est l'âme d'Ahura (Farg. XIX, 4).
 
@@ -526,7 +526,7 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^238]: lxxix:2 Ya<i>s</i>t XIX, 89 seq.
 
-[^239] : lxxx : 1 Rig-veda VI, 62, 8 ; VII, 52, 1 ; VIII, 19, 6 ; Ya<i>s</i>t X, 34 ans ; Yasna IX (60).
+[^239]: lxxx : 1 Rig-veda VI, 62, 8 ; VII, 52, 1 ; VIII, 19, 6 ; Ya<i>s</i>t X, 34 ans ; Yasna IX (60).
 
 [^240]: lxxxii:1 Tous ces quatre principes ne sont que des formes abstraites d'Ormazd lui-même, au moins dans son premier caractère naturaliste du Dieu du Ciel. Le Ciel est Espace Infini, il est Lumière Infinie, et par son mouvement il donne naissance au Temps et au Destin (Orm. Ahr. §§ 244-259). Le temps est double : il y a le temps limité qui mesure la durée du monde (voir ci-dessus, § 39) et dure 12 000 ans, qui est Zrvan dareghô-<i>h</i><i>v</i>adâta, 'le Temps Souverain de la longue période' ; et il y a 'le Temps Sans Limites', Zrvan akarana (Farg. XIX, 9).
 
@@ -534,6 +534,6 @@ Ils parvinrent enfin au monothéisme pur. Il y a une quarantaine d'années, alor
 
 [^242]: lxxxii:3 Eudemos (ap. Damascius, éd. Kopp, 384) connaît χρόνος et τόπος comme les premiers principes des Mages ; le Temps sans limites est déjà transformé en héros légendaire dans Bérose (IIIe siècle avant J.-C.)
 
-[^243] : lxxxiii:1 Aogemaidê, éd. Geiger, p. 36, § 92 ; Mirkhond, Histoire des premiers rois de Perse, tr. Karité, p. 98. Cf. Revue Critique, 1879, II, 163.
+[^243]: lxxxiii:1 Aogemaidê, éd. Geiger, p. 36, § 92 ; Mirkhond, Histoire des premiers rois de Perse, tr. Karité, p. 98. Cf. Revue Critique, 1879, II, 163.
 
 [^244]: lxxxiii:2 'Les Parsis sont maintenant de stricts monothéistes, et quelles qu'aient pu être les vues des écrits philosophiques antérieurs, leur seule divinité suprême est Ahura Mazda. Leurs vues sur Angra Mainyu ne semblent en aucun cas différer de ce qui est supposé être la vision chrétienne orthodoxe du diable.' Haug's Essays, 2e éd. p. 53, Mandelslo, au XVIIe siècle, parle du parsisme comme d'une religion monothéiste.

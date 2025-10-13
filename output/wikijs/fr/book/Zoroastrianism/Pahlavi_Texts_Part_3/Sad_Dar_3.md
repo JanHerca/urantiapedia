@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (259:2) B29 a « peut-être plus tard ».
 
-[^2] : (259 : 3) La omet les « récompenses ».
+[^2]: (259 : 3) La omet les « récompenses ».
 
 [^3]: (259:4) Lp, B29 omet « donc ».
 

@@ -44,7 +44,7 @@ No se ha encontrado ninguna alusión a los siguientes seis pasajes, citados de e
 
 En Sls. X, 22, XII, 15, se dice como en el último fragmento del Spend N ask, ya citado.
 
-En Sls. X, 23, XII, 16, se dice que 'en el Nihâ<i>d</i>ûm los sumos sacerdotes _han_ enseñado así:—“Un hombre da pan a un hambriento, _y es_ demasiado, sin embargo (_o_ cuando un hombre da pan a otro, aunque ese hombre _tenga_ demasiado pan) todas las buenas obras que realice gracias a esa superabundancia, <span id="p474"><sup><small>[ p. 474 ]</small></sup></span> se convierten en algo tan suyo _quien se lo dio_ como si las hubiera hecho él mismo.”'
+En Sls. X, 23, XII, 16, se dice que 'en el Nihâ<i>d</i>ûm los sumos sacerdotes _han_ enseñado así:—«Un hombre da pan a un hambriento, _y es_ demasiado, sin embargo (_o_ cuando un hombre da pan a otro, aunque ese hombre _tenga_ demasiado pan) todas las buenas obras que realice gracias a esa superabundancia, <span id="p474"><sup><small>[ p. 474 ]</small></sup></span> se convierten en algo tan suyo _quien se lo dio_ como si las hubiera hecho él mismo.»'
 
 En Pahl. Vend. V, 73, se dice 'como esta tierra y ese (cielo) que también la cubriría (siempre en todos los lugares; hay alguien que dice que esto es en cuanto a la materia muerta, que en el Nihâ<i>d</i>ûm dice que es en cuanto a la decisión y el juicio, y que en el Hûspârûm dice que es en cuanto al ritual del ceremonial).'
 

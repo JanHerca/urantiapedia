@@ -294,7 +294,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 76\. Y por un dominio lleno de esplendor, por una vida larga, larga, y por todos los beneficios y remedios;
 
-77. Así que el rey Husravah [llevó la delantera] durante toda la larga carrera, y no pudo atravesar el bosque. Él [^1290], el asesino, quien luchaba ferozmente contra él a caballo, prevaleció sobre todos. Encadenó a Frangrasyan y Keresavazda [^1291] para vengar el asesinato de su padre Syâvarshâna, un hombre, y de Aghraêratha, un semihombre [^1292].
+77\. Así que el rey Husravah [llevó la delantera] durante toda la larga carrera, y no pudo atravesar el bosque. Él [^1290], el asesino, quien luchaba ferozmente contra él a caballo, prevaleció sobre todos. Encadenó a Frangrasyan y Keresavazda [^1291] para vengar el asesinato de su padre Syâvarshâna, un hombre, y de Aghraêratha, un semihombre [^1292].
 
 Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
@@ -322,7 +322,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 85\. [^1301]. Quien, impulsando la Droga ante sí [^1302], buscó un amplio espacio para la santa religión; quien, impulsando la Droga ante sí, hizo un amplio espacio para la santa religión; quien se convirtió en el brazo y el apoyo de esta ley de Ahura, de esta ley de Zaratustra;
 
-86. Quien la tomó, atada, de las manos de los hunos, y la estableció para sentarse en el centro del mundo, gobernando con autoridad, sin retroceder jamás, santa, alimentada con abundante ganado y pastos, bendecida con abundante ganado y pastos.
+86\. Quien la tomó, atada, de las manos de los hunos, y la estableció para sentarse en el centro del mundo, gobernando con autoridad, sin retroceder jamás, santa, alimentada con abundante ganado y pastos, bendecida con abundante ganado y pastos.
 
 87\. El valiente rey Vî<i>s</i>tâspa conquistó a todos los enemigos, Tãthrava<i>n</i><i>t</i> de la ley malvada, Peshana, el adorador de los Daêvas, y al malvado y diabólico Are<i>g</i>a<i>t</i>\-aspa y a los otros malvados <i>H</i><i>v</i>yaonas [^1303].
 

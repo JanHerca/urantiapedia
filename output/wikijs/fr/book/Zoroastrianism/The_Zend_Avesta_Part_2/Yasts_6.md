@@ -122,7 +122,7 @@ Donnez à cet homme la luminosité et la gloire, donnez-lui la santé du corps, 
 
 [^447]: 86:3 Car il leur fait du bien et à lui-même par là.
 
-[^448] : 87 : 1 Hunivikhtem : suniyuktam (sansk. tr.) ; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Trad. Pers.).
+[^448]: 87 : 1 Hunivikhtem : suniyuktam (sansk. tr.) ; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Trad. Pers.).
 
 [^449]: 87:2 Comme ils se succèdent dans un ordre régulier.
 

@@ -78,7 +78,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^7]: (75:1) L19 tiene 'mantiene'.
 
-[^8]: (75:2) Es decir, “por temor a la desgracia”.
+[^8]: (75:2) Es decir, «por temor a la desgracia».
 
 [^9]: (75:3) L19 tiene 'se refrena a sí mismo'.
 

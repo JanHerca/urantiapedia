@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (306:1) Voir Vend. XIV, 9-17, XVIII, 144-146.
+[^1]: (306:1) Voir Vend. XIV, 9-17, XVIII, 144-146.
 
 [^2]: (306:2) Si mar<i>k</i>is était Pahlavi, cela signifierait « la chose mortelle ». Il est possible qu'il s'agisse de « la sauterelle » (mala'<i>h</i>), mais la description du § 6 est plutôt déroutante.
 

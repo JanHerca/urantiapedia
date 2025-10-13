@@ -73,7 +73,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1328]: 314:4 Ou, « a l'endroit le plus rapide ».
 
-[^1329] : 315 : 1 Bartholomae suit ici la tradition avec audace, rendant « aushalten, festhalten an ; giftar yehvûnâni(î).'
+[^1329]: 315 : 1 Bartholomae suit ici la tradition avec audace, rendant « aushalten, festhalten an ; giftar yehvûnâni(î).'
 
 [^1330]: 315:2 Ou, « est adoré pour ».
 

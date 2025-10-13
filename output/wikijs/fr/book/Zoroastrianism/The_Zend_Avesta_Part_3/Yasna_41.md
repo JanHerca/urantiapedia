@@ -70,6 +70,6 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1219]: 290:2 Ou, « demeurer ».
 
-[^1220] : 290 : 3 Voir Y. XXVIII, 3.
+[^1220]: 290 : 3 Voir Y. XXVIII, 3.
 
 [^1221]: 290:4 Ici se terminait autrefois le Haptanghâiti.

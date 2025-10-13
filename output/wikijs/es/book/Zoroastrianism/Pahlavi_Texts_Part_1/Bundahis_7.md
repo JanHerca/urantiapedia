@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## BUNDAHI<i>S</i>. CAPÍTULO VII.
 
-1\. El segundo conflicto se libró con el agua, pues, como la estrella Tî<i>s</i>tar _estaba_ en Cáncer, el agua que se encuentra en la subdivisión que llaman Avrak [^1] se vertía a raudales el mismo día en que el destructor irrumpió, _y_ volvió a ser notada por sus fechorías (âvârak) en dirección al oeste. 2. Pues cada mes posee una constelación; el mes Tîr es el cuarto mes [^2] del año, _y_ Cáncer la cuarta constelación desde Aries, por lo que es el dueño de Cáncer, en el que surgió Tî<i>s</i>tar, _y_ mostró las características de un productor de lluvia; y trajo el agua a la altura con la fuerza del viento. 3. Los cooperadores de Tî<i>s</i>tar fueron Vohûman y el ángel Hôm, con la asistencia del ángel Bûr<i>g</i> y los espíritus guardianes justos en un arreglo ordenado.
+1\. El segundo conflicto se libró con el agua, pues, como la estrella Tî<i>s</i>tar _estaba_ en Cáncer, el agua que se encuentra en la subdivisión que llaman Avrak [^1] se <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> vertía a raudales el mismo día en que el destructor irrumpió, _y_ volvió a ser notada por sus fechorías (âvârak) en dirección al oeste. 2. Pues cada mes posee una constelación; el mes Tîr es el cuarto mes [^2] del año, _y_ Cáncer la cuarta constelación desde Aries, por lo que es el dueño de Cáncer, en el que surgió Tî<i>s</i>tar, _y_ mostró las características de un productor de lluvia; y trajo el agua a la altura con la fuerza del viento. 3. Los cooperadores de Tî<i>s</i>tar fueron Vohûman y el ángel Hôm, con la asistencia del ángel Bûr<i>g</i> y los espíritus guardianes justos en un arreglo ordenado.
 
 4\. Tî<i>s</i>star se transformó en tres formas: la de un hombre, la de un caballo y la de un toro [^3]; durante treinta días y treinta noches se distinguió en brillantez [^4], y en cada forma produjo lluvia durante diez días y diez noches; como dicen los astrólogos, cada constelación tiene tres formas. 5. Cada gota de esa lluvia se volvió tan grande como un cuenco, y el agua alcanzó la altura de un hombre sobre toda la tierra; y las criaturas nocivas de la tierra, muertas por la lluvia, se escondieron en los agujeros de la tierra [^5].
 
@@ -48,7 +48,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 11\. Después, con una nube como jarra (khûmb) —así llaman a la medida que era un medio de la obra—, se apoderó del agua y la hizo llover prodigiosamente, en gotas como cabezas de toro y de hombre, vertiéndolas a puñados y brazadas, grandes y pequeñas. 12. Ante la producción de esa lluvia, los demonios Aspen<i>g</i>argâk [^11] _y_ Apâôsh lucharon _con ella_, y el fuego Vâzist [^12] volcó su maza; y debido al golpe de la maza, Aspen<i>g</i>argâk, produjo un ruido muy grave, como incluso ahora, en un conflicto con el productor de la lluvia, se manifiestan un gemido y una furia [^13]. 13. Y durante diez noches y diez días produjo lluvia de esa manera, y el veneno y la ponzoña de las criaturas nocivas que estaban en la tierra se mezclaron en el agua, y el agua se volvió completamente salada, porque aún quedaban en la tierra algunos de esos gérmenes que las criaturas nocivas siempre recogen.
 
-14\. Después, el viento, de la misma manera _que antes_, contuvo el agua, al cabo de tres días, en varios lados de la tierra; y de allí surgieron los tres grandes mares _y_ veintitrés mares pequeños [^14], _y así se manifestaron dos fuentes (<i>k</i>ashmak) del mar: una, el lago <i>K</i>ê<i>k</i>ast, y otra, el Sôvbar [^15], cuyas fuentes están conectadas con la <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> fuente del mar. 15. Y en su lado norte [^16] fluían dos ríos, _y_ uno iba al este _y_ otro al oeste; son el río Arag y el río Vêh; Como se dice así: «¡A través de esos pequeños chorros viertes y extraes dos aguas como estas, oh Aûharmazd!». 16. Ambos ríos serpentean por todos los extremos de la tierra y se entremezclan de nuevo con el agua del vasto océano. 17. Al fluir esos dos ríos, y del mismo lugar de origen que los suyos, fluyeron dieciocho [^17] ríos navegables, y después de que las demás aguas fluyeran de esos arroyos navegables, todas fluyen de vuelta al río Arag [^18] y al río Vêh, cuya fertilización (khvâpardârîh) del mundo surge de ellos.
+14\. Después, el viento, de la misma manera _que antes_, contuvo el agua, al cabo de tres días, en varios lados de la tierra; y de allí surgieron los tres grandes mares _y_ veintitrés mares pequeños [^14], _y_ así se manifestaron dos fuentes (<i>k</i>ashmak) del mar: una, el lago <i>K</i>ê<i>k</i>ast, y otra, el Sôvbar [^15], cuyas fuentes están conectadas con la <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> fuente del mar. 15. Y en su lado norte [^16] fluían dos ríos, _y_ uno iba al este _y_ otro al oeste; son el río Arag y el río Vêh; Como se dice así: «¡A través de esos pequeños chorros viertes y extraes dos aguas como estas, oh Aûharmazd!». 16. Ambos ríos serpentean por todos los extremos de la tierra y se entremezclan de nuevo con el agua del vasto océano. 17. Al fluir esos dos ríos, y del mismo lugar de origen que los suyos, fluyeron dieciocho [^17] ríos navegables, y después de que las demás aguas fluyeran de esos arroyos navegables, todas fluyen de vuelta al río Arag [^18] y al río Vêh, cuya fertilización (khvâpardârîh) del mundo surge de ellos.
 
 <figure class="table chapter-navigator">
   <table>
@@ -86,7 +86,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^5]: (26:4) Al comparar la inundación producida por Tî<i>s</i>tar con el diluvio de Noé, debe recordarse que la primera se representa como ocurriendo antes de que la humanidad se hubiera propagado sobre la tierra.
 
-[^6]: (27:1) El término farâkû-kar<i>d</i>, 'de amplia forma', es una traducción libre al pahlavi del av. vouru-kasha, 'de amplias orillas' o 'que tiene amplios abismos', aplicado al océano sin límites (véase Cap. XIII, 1).
+[^6]: (27:1) El término farâkû-kar<i>d</i>, «de amplia forma», es una traducción libre al pahlavi del av. vouru-kasha, «de amplias orillas» o «que tiene amplios abismos», aplicado al océano sin límites (véase Cap. XIII, 1).
 
 [^7]: (27:2) Para el relato Avesta de esta expedición de Tî<i>s</i>tar, véase Tî<i>s</i>tar Yt. 20-29.
 
@@ -100,7 +100,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^12]: (28:2) Es decir, el relámpago (véase Cap. XVII, 1).
 
-[^13]: (28:3) O, 'un tumulto y destellos'. Justi tiene 'aullidos y chillidos'; las dos palabras son muy ambiguas en el original.
+[^13]: (28:3) O, «un tumulto y destellos». Justi tiene «aullidos y chillidos»; las dos palabras son muy ambiguas en el original.
 
 [^14]: (28:4) Véase Cap. XIII, 6.
 
@@ -110,4 +110,4 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^17]: (29:2) Véase Cap. XX, 2.
 
-[^18]: (29:3) Aquí está escrito Arêng, pero la lectura habitual en Pahlavi es Arag; la nasal del Av. Rangha se omite generalmente en Pahlavi, como a veces ocurre con otras nasales; por eso a menudo encontramos sag en lugar de sang, 'piedra'.
+[^18]: (29:3) Aquí está escrito Arêng, pero la lectura habitual en Pahlavi es Arag; la nasal del Av. Rangha se omite generalmente en Pahlavi, como a veces ocurre con otras nasales; por eso a menudo encontramos sag en lugar de sang, «piedra».

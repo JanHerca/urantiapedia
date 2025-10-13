@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 1\. El Bakân-ya<i>s</i>t [^1] contiene detalles, primero, sobre la adoración de Aûha<i>r</i>ma<i>z</i><i>d</i>, la más alta de las divinidades (bakân), y, segundo, sobre la adoración de los ángeles de otras existencias mundanas, tanto invisibles como visibles, de quienes provienen también los nombres de los días [^2]; también su gloria, poder, triunfo y maravilla. 2. Además, también, muchos ángeles que son invocados por su nombre en su adoración, y la atención y reverencia que se les debe.
 
-3. La dignidad y la dispensación de favores para los adoradores, y el deber de sus numerosas recitaciones separadas a los ángeles. 4. El deber de un conocimiento ilimitado de las posesiones y disposiciones del período, sobre el cual el creador Aûha<i>r</i>ma<i>z</i><i>d</i> los ha designado, y permanecen para causar industria.
+3\. La dignidad y la dispensación de favores para los adoradores, y el deber de sus numerosas recitaciones separadas a los ángeles. 4. El deber de un conocimiento ilimitado de las posesiones y disposiciones del período, sobre el cual el creador Aûha<i>r</i>ma<i>z</i><i>d</i> los ha designado, y permanecen para causar industria.
 
 5\. Perfecta es la excelencia de la justicia.
 

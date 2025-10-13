@@ -98,7 +98,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 29\. 'Llevarás tres cargas de piedras sobre esos espacios de nueve pies [^13], _como_ acceso _a_ los agujeros; (30) _o_ tiestos, o bloques nudosos _y_ macizos, o un _terrón de la_ tierra de Vi<i>s</i>tâsp, o \[una olla _o_ algo de\] cualquier tierra dura.
 
-31\. 'Después, quien _ha estado_ junto a los muertos llegará a ese acceso, que es el acceso a los agujeros. 32. Entonces tú, ¡oh Zaratustra!, tienes que apartarte un poco más, junto a los surcos [^14]. <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> 33. Entonces murmurarás estas palabras \[_por ti_, es decir\]: “¡Alabado sea Spenda<i>r</i>ma<i>d</i> [^15], el propicio!” 34. _Y_ quien _ha estado_ junto a los muertos responderá así: “¡Alabado sea Spenda<i>r</i>ma<i>d</i>, el propicio!” 35. Entonces el demonio queda incapacitado por cada palabra \[de cada repetición\]; (36) el azote del espíritu maligno, el malvado, se debe a él; (37) el azote de Aeshm [^16], el asaltante impetuoso, se debe a él; (38) el azote de los demonios Mâzînîkân [^17] se debe a él; (39) el azote de todos los demonios se debe a él.
+31\. 'Después, quien _ha estado_ junto a los muertos llegará a ese acceso, que es el acceso a los agujeros. 32. Entonces tú, ¡oh Zaratustra!, tienes que apartarte un poco más, junto a los surcos [^14]. <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> 33. Entonces murmurarás estas palabras \[_por ti_, es decir\]: «¡Alabado sea Spenda<i>r</i>ma<i>d</i> [^15], el propicio!» 34. _Y_ quien _ha estado_ junto a los muertos responderá así: «¡Alabado sea Spenda<i>r</i>ma<i>d</i>, el propicio!» 35. Entonces el demonio queda incapacitado por cada palabra \[de cada repetición\]; (36) el azote del espíritu maligno, el malvado, se debe a él; (37) el azote de Aeshm [^16], el asaltante impetuoso, se debe a él; (38) el azote de los demonios Mâzînîkân [^17] se debe a él; (39) el azote de todos los demonios se debe a él.
 
 40\. 'Después, rociarás sobre él orina de toro con un cucharón de hierro o de plomo. 41. _Si_ rociarás sobre él con uno de plomo_ [^18], exigirás con fuerza, ¡oh Zaratû<i>s</i>t!, el tallo de una caña cuyas nueve partes habituales (pî<i>s</i>ak) has mencionado [^19] \[_como_ nueve nudos\]; (42) _y uno_ debería atar ese cucharón de plomo con fuerza en su parte más delantera [^20].
 
@@ -132,7 +132,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 76\. 'Rociarás sobre su costado derecho. 77. Entonces el demonio de la corrupción se precipitará sobre su costado izquierdo. <span id="p440"><sup><small>[ p. 440 ]</small></sup></span> 78\. 'Rociarás sobre su costado izquierdo; \[esto, además, se debe a que uno recita especialmente para siempre en _ese_ lado.\] 79. Entonces el demonio de la corrupción se precipitará sobre su cadera derecha [^24].
 
-80. Rociarás sobre su cadera derecha. 81. Entonces el demonio de la corrupción se lanzará sobre su cadera izquierda.
+80\. Rociarás sobre su cadera derecha. 81. Entonces el demonio de la corrupción se lanzará sobre su cadera izquierda.
 
 82\. 'Rociarás sobre su cadera izquierda, \[justo cuando esté girada, hasta el hueco [^25] de ella (gûyak-î valman) debajo del muslo.\] 83. Entonces el demonio de la corrupción se abalanza sobre su parte sexual.
 
@@ -158,7 +158,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 108\. 'Con los dedos de los pies firmemente unidos al suelo, su talón se mantiene elevado. 109. Rociarás sobre su planta derecha. 110. Entonces el demonio de la corrupción se abalanza sobre su planta izquierda. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 111\. 'Rociarás sobre su planta izquierda. 112. Entonces el demonio de la corrupción se repliega abatido bajo los dedos de los pies, y su semejanza es como el ala de una mosca.
 
-113. 'Con el talón firmemente unido al suelo, sus dedos se mantienen separados del suelo. 114. Rociarás sobre los dedos de su pie derecho. 115. Entonces el demonio de la corrupción se abalanza sobre los dedos de su pie izquierdo.
+113\. 'Con el talón firmemente unido al suelo, sus dedos se mantienen separados del suelo. 114. Rociarás sobre los dedos de su pie derecho. 115. Entonces el demonio de la corrupción se abalanza sobre los dedos de su pie izquierdo.
 
 116\. 'Rociarás sobre los dedos de su pie izquierdo. 117. Entonces el demonio de la corrupción regresa abatido al cuadrante norte en forma de una mosca furiosa, de patas arqueadas, caderas delgadas, ilimitadamente manchada, de modo que cada mancha se une a otra, como la criatura más sórdida [^27], _y_ más sucia.
 
@@ -180,7 +180,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 130\. 'Después, quien esté perfumado con sandárica (râsnŏ) [^43], o benjuí, o áloe [^44], o cualquier otra de las plantas más odoríferas, (131) se pondrá _sus_ ropas. 132. Entonces quien _ha estado_ junto al muerto llegará a ese acercamiento, el acercamiento a _su_ morada [^45].'
 
-\[<i>a</i>. La ropa siempre es _limpiada_ por el Khshvash-m<i>a</i>unghô (“el proceso de seis meses_”) [^46].
+\[<i>a</i>. La ropa siempre es _limpiada_ por el Khshvash-m<i>a</i>unghô («el proceso de seis meses_») [^46].
 
 <i>b</i>. Afarg [^47] dijo que se requieren dos purificadores [^48], y de los dos, es apto quien ha realizado el ritual; por lo tanto, han sido muy unánimes: cuando traza el surco, lava a la persona impura en los lugares habituales y recita el Avesta, lo ha realizado; el otro, si no lo ha realizado, <span id="p447"><sup><small>[ p. 447 ]</small></sup></span> no es apto; cuando también hay uno apto [^49], solemniza plenamente un servicio Vendidâ<i>d</i> para este propósito, con una dedicación (shnumanŏ) a Srôsh.
 
@@ -274,7 +274,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^7]: (433:2) Es decir, 2,28 metros. Esta disminución de distancia permite al sacerdote purificador acercarse lo suficiente a una persona impura para entregarle el líquido purificador en un cucharón atado a un palo (véanse §§ 40-42), sin entrar en los surcos trazados alrededor de los agujeros o asientos de ablución, a la misma distancia de tres pasos (véanse §§ 21-23).
 
-[^8]: (433:3) Es decir, en el que se rocía a la persona impura con orina (véanse §§ 48-116). La orina debe ser de toro, según Vend. XIX, 70; pero Vend. VIII, 35, 36 afirma que puede ser de ganado o bueyes de tiro, en general, o incluso de quienes realizan Khvêtûk-das (véase [p. 391](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p391)). Actualmente, el término magh, que significa «agujero» en el Avesta, se aplica a las piedras que se utilizan como asientos de ablución para agacharse.
+[^8]: (433:3) Es decir, en el que se rocía a la persona impura con orina (véanse §§ 48-116). La orina debe ser de toro, según Vend. XIX, 70; pero Vend. VIII, 35, 36 afirma que puede ser de ganado o bueyes de tiro, en general, o incluso de quienes realizan Khvêtûk-das (véase [p. 391](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p391)). Actualmente, el término magh, que significa «agujero» en el Avesta, se aplica a las piedras que se utilizan como asientos de ablución para agacharse.
 
 [^9]: (433:4) La mayor profundidad del agujero para recoger los excrementos de las abluciones en el invierno permitiría acomodar una mayor cantidad de líquido que no podría hundirse en el suelo ni evaporarse durante el tedioso lavado, debido a que el suelo y el aire están más húmedos que en verano.
 
@@ -316,7 +316,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^28]: (442:2) En los manuscritos aquí citados sólo se dan las palabras iniciales y finales del Avesta de los siguientes pasajes, pero se dan extensamente, con su traducción al pahlavi, en Vend. VIII, 49-62, de donde se toma aquí la versión pahlavi.
 
-[^29]: (443:1) Este párrafo es la versión Pahlavi de la fórmula Ahunavar, o Yathâ-ahû-vairyô (ver [p. 385](/es/book/Zoroastrismo/Textos_Pahlavi_Parte_2/Apéndice_2#p385)).
+[^29]: (443:1) Este párrafo es la versión Pahlavi de la fórmula Ahunavar, o Yathâ-ahû-vairyô (ver [p. 385](/es/book/Zoroastrismo/Pahlavi_Texts_Part_2/Apéndice_2#p385)).
 
 [^30]: (443:2) Lectura de amat, en lugar de mûn, 'quien' (véase Dd. LXII, 4 n.)
 

@@ -690,7 +690,7 @@ Dans la mythologie védique, Gandharva est le gardien du Soma. Il est décrit ta
 
 [^385]: 75:3 Arethna, celle qui fut appelée une fois.
 
-[^386] : 75:4 Vaw<i>z</i>aka, idem.
+[^386]: 75:4 Vaw<i>z</i>aka, idem.
 
 [^387]: 75:5 Varenva, pareil.
 
@@ -764,7 +764,7 @@ Dans la mythologie védique, Gandharva est le gardien du Soma. Il est décrit ta
 
 [^422]: 81:3 Mî<i>s</i>ti traduit hamê<i>s</i>ak, sadâ (Yt. VII, 4).
 
-[^423] : 82 : 1 § 121 = §§ 96, 102.
+[^423]: 82 : 1 § 121 = §§ 96, 102.
 
 [^424]: 82:2 Paitidâna, un manteau, une tunique (Vend. XIV, 9 \[28\]).
 

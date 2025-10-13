@@ -46,7 +46,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 5\. ¡Abandonen, abandonen! A los Daevas y a todo lo que poseen, a los hechiceros y a todos los que se aferran a sus artimañas, y a todo ser de esa clase. Abjuro de sus pensamientos, de sus palabras y acciones, y de su semilla (que propaga su pecado); abjuro de su refugio y de su autoridad, y de los inicuos de toda especie que actúan como Rakhshas.
 
-6. Así y así podría haberle indicado Ahura Mazda a Zaratustra en cada pregunta que Zaratustra le hacía y en todas las consultas en las que ambos conversaban juntos. Así y así podría haber abjurado Zaratustra del refugio y de la jefatura de los Daêvas en todas las preguntas y en todas las consultas en las que ambos conversaban, Zaratustra y el Señor.
+6\. Así y así podría haberle indicado Ahura Mazda a Zaratustra en cada pregunta que Zaratustra le hacía y en todas las consultas en las que ambos conversaban juntos. Así y así podría haber abjurado Zaratustra del refugio y de la jefatura de los Daêvas en todas las preguntas y en todas las consultas en las que ambos conversaban, Zaratustra y el Señor.
 
 Y así yo mismo, en cualquier circunstancia en que me encuentre, como adorador de Mazda y de la orden de Zaratustra, abjuraría de los Daêvas y de su refugio, tal como abjuró de ellos (una vez en la antigüedad) aquel que [^1040] era el santo Zaratustra.
 

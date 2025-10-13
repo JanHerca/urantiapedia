@@ -96,9 +96,9 @@ MÃTHRA.
 
 [^1292]: 307:5 Voir ci-dessous.
 
-[^1293] : 307 : 6 Racine vi + dâ (dhishâ) ; donc aussi le Pahl. 'barâ dahi<i>s</i>nîh.'
+[^1293]: 307 : 6 Racine vi + dâ (dhishâ) ; donc aussi le Pahl. 'barâ dahi<i>s</i>nîh.'
 
-[^1294] : 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. Le mot est difficile.
+[^1294]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. Le mot est difficile.
 
 [^1295]: 308:1 Ou, « les saints hommes et femmes (les Amesha). »
 

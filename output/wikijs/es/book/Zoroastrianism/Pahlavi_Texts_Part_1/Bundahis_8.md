@@ -64,12 +64,12 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## Notas al pie
 
-[^1]: (29:4) La palabra <i>g</i>udnî<i>d</i> es una transposición de <i>g</i>undî<i>d</i>, una variante gráfica de <i>g</i>unbî<i>d</i>, 'sacudió'.
+[^1]: (29:4) La palabra <i>g</i>udnî<i>d</i> es una transposición de <i>g</i>undî<i>d</i>, una variante gráfica de <i>g</i>unbî<i>d</i>, «sacudió».
 
 [^2]: (30:1) M6 tiene ra<i>k</i>âk, pero esta y muchas otras palabras extrañas probablemente se deben a que el copista de ese manuscrito tenía ante sí un original que era casi ilegible en muchos lugares.
 
-[^3]: (30:2) O, 'como si fuera innumerable'; la palabra amar significa tanto 'número' como 'innumerable'.
+[^3]: (30:2) O, «como si fuera innumerable»; la palabra amar significa tanto «número» como «innumerable».
 
 [^4]: (30:3) Véase Cap. XII, 1.
 
-[^5]: (30:4) La palabra debe ser farhâkhtagân, 'propiedades', tanto aquí como en el cap. IX, 6, ya que farhâkhti<i>s</i>n es una forma agramatical.
+[^5]: (30:4) La palabra debe ser farhâkhtagân, «propiedades», tanto aquí como en el cap. IX, 6, ya que farhâkhti<i>s</i>n es una forma agramatical.

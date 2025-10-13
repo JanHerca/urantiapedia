@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## II
 
-1. Me confieso adorador de Mazda, para alabanza de Thraêtaona, el Âthwyan. Que lo declaren: Propiciación al Fravashi de Thraêtaona, el Âthwyan, el santo. 2. Sacrificamos a Thraêtaona, el Âthwyan, el santo señor del orden ritual; y que nos libremos del perro Kuro [^1563], del Tarewani [^1563] y del Karpan, (nosotros que somos) de [^1564] quienes sacrifican en orden. 3. (Sigue la Ahuna <span id="p390"><sup><small>[ p. 390 ]</small></sup></span>). Sacrificio, homenaje, fuerza y ​​rapidez al Fravashi de Thraêtaona, el santo. (Siguen el Ahem y el Ahmâi raê<i>s</i><i>k</i>a.)
+1\. Me confieso adorador de Mazda, para alabanza de Thraêtaona, el Âthwyan. Que lo declaren: Propiciación al Fravashi de Thraêtaona, el Âthwyan, el santo. 2. Sacrificamos a Thraêtaona, el Âthwyan, el santo señor del orden ritual; y que nos libremos del perro Kuro [^1563], del Tarewani [^1563] y del Karpan, (nosotros que somos) de [^1564] quienes sacrifican en orden. 3. (Sigue la Ahuna <span id="p390"><sup><small>[ p. 390 ]</small></sup></span>). Sacrificio, homenaje, fuerza y ​​rapidez al Fravashi de Thraêtaona, el santo. (Siguen el Ahem y el Ahmâi raê<i>s</i><i>k</i>a.)
 
 ## III
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## V
 
-1. A Ahura Mazda, el radiante, el glorioso, a los Generosos Inmortales, a la Fuerza bien formada y majestuosa, al Golpe de la Victoria, otorgado por Ahura, a la Ascensión Victoriosa (que asegura), al camino de la dulzura, al buen Zarenuma<i>n</i>t [^1568], a la Montaña Resplandeciente creada por Mazda, y a todos los Yazads. 2. Sacrificamos a Ahura Mazda, el radiante, el glorioso, y a los Generosos Inmortales que gobiernan con rectitud, que disponen (de todo) con rectitud, y a la Fuerza bien formada y majestuosa, y al Golpe de la Victoria, y a la Ascensión de la Victoria, y al camino de la dulzura, y a Zarenuma<i>n</i>t, el bien, que Mazda creó, y al Monte Resplandeciente, y a todos los santos.
+1\. A Ahura Mazda, el radiante, el glorioso, a los Generosos Inmortales, a la Fuerza bien formada y majestuosa, al Golpe de la Victoria, otorgado por Ahura, a la Ascensión Victoriosa (que asegura), al camino de la dulzura, al buen Zarenuma<i>n</i>t [^1568], a la Montaña Resplandeciente creada por Mazda, y a todos los Yazads. 2. Sacrificamos a Ahura Mazda, el radiante, el glorioso, y a los Generosos Inmortales que gobiernan con rectitud, que disponen (de todo) con rectitud, y a la Fuerza bien formada y majestuosa, y al Golpe de la Victoria, y a la Ascensión de la Victoria, y al camino de la dulzura, y a Zarenuma<i>n</i>t, el bien, que Mazda creó, y al Monte Resplandeciente, y a todos los santos.
 
 ## VI
 

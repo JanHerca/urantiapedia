@@ -212,7 +212,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^556]: 112:1 Comme ci-dessus, [p. 30](../Yasts_1#p30).
 
-[^557] : 112 : 2 § 7 = §§ 1-2.
+[^557]: 112 : 2 § 7 = §§ 1-2.
 
 [^558]: 112:3 §§ 8-10 = Yt. XVII, 28-30; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-2
 

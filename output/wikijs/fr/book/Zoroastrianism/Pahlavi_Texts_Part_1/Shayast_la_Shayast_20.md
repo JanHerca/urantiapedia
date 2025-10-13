@@ -44,7 +44,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 4\. Ceci aussi, que ces trois choses doivent être faites par les hommes, chasser le _démon de_ corruption (nasû<i>s</i>) [^4] loin du corps, être constant dans la religion, et accomplir de bonnes œuvres. 5. Chasser le _démon de_ corruption loin du corps, c'est qu'avant le lever du soleil, on se lave les mains [^5] et le visage avec de l'urine de taureau et de l'eau ; être constant dans la religion, c'est révérer le soleil [^6] ; et accomplir de bonnes œuvres, c'est détruire plusieurs créatures nuisibles.
 
-6\. Voici aussi que les trois plus grandes préoccupations des hommes sont celles-ci : faire de l'ennemi un ami, faire du méchant un juste, et de l'ignorant un savant. 7. Faire d'un ennemi un ami, c'est se souvenir d'un ami parmi les richesses du monde qu'on a devant soi ; faire d'un méchant un juste, c'est se détourner du péché par lequel il devient méchant ; et faire d'un ignorant un savant, c'est se conduire de manière que celui qui est ignorant puisse apprendre de lui.
+6\. Voici aussi que les trois plus grandes préoccupations des hommes sont celles-ci : faire de l'ennemi un ami, faire du méchant un juste, et de l'ignorant un savant. 7. Faire d'un <span id="p395"><sup><small>[ p. 395 ]</small></sup></span> ennemi un ami, c'est se souvenir d'un ami parmi les richesses du monde qu'on a devant soi ; faire d'un méchant un juste, c'est se détourner du péché par lequel il devient méchant ; et faire d'un ignorant un savant, c'est se conduire de manière que celui qui est ignorant puisse apprendre de lui.
 
 8\. Ceci aussi, _que_ les promenades des hommes doivent être dirigées principalement vers ces trois lieux, vers la demeure des bien informés, vers la demeure des bons, _et_ vers la demeure des feux [^7]. 9. Vers la demeure des bien informés, afin qu'ainsi on puisse devenir plus sage, et que la religion soit mieux logée en soi ; vers la demeure des bons pour cette _raison_, afin qu'ainsi, entre le bien et le mal, on puisse ainsi renoncer au mal et emporter chez soi le bien [^8] ; et vers la demeure des feux pour cette _raison_, afin que le démon spirituel puisse se détourner de lui.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 11\. Ceci aussi, que Bakht-âfrî<i>d</i> [^9] a dit, que chaque Gâtha (gâsân) [^10] d'Aûharmazd a été une opposition <span id="p396"><sup><small>[ p. 396 ]</small></sup></span> d'un adversaire, et la renonciation _au péché_ (patîtîk) [^11] pour l'opposition de chaque démon.
 
-12. Il faut aussi éviter de se soucier du monde, de l'angoisse, de la considérer comme une chose quelconque, et de la laisser échapper. 13. Il ne faut pas se soucier de l'angoisse, car ce qui est ordonné arrivera ; il ne faut pas la considérer comme une chose quelconque, car si elle est opportune, il faut l'abandonner ; et il ne faut pas la laisser échapper, car il convient, dans le monde, de se pourvoir d'une existence spirituelle.
+12\. Il faut aussi éviter de se soucier du monde, de l'angoisse, de la considérer comme une chose quelconque, et de la laisser échapper. 13. Il ne faut pas se soucier de l'angoisse, car ce qui est ordonné arrivera ; il ne faut pas la considérer comme une chose quelconque, car si elle est opportune, il faut l'abandonner ; et il ne faut pas la laisser échapper, car il convient, dans le monde, de se pourvoir d'une existence spirituelle.
 
 14\. Ceci aussi, que la meilleure chose est la vérité, et la pire chose est la tromperie ; et il y a celui qui dit vrai et par là devient méchant, et il y a celui qui dit faux et par là devient juste.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 16\. Ceci aussi est déclaré, que rien ne doit être donné au vil ; et _il y a_ _celui par_ qui le meilleur et le plus agréable ragoût (khûr<i>d</i>îk) doit être donné au vil.
 
-17\. C'est sur ces choses aussi que l'attention des hommes doit être fixée, car il y a un remède à tout sauf la mort, un espoir à tout sauf la méchanceté, tout échouera [^13] sauf la justice, il est possible de tout diriger sauf le tempérament (gôhar), et il est possible que tout change sauf la providence divine (bakô-bakhtô).
+17\. C'est sur ces choses aussi que l'attention des hommes doit être fixée, car il y a un remède à tout sauf la mort, un espoir à tout sauf la méchanceté, tout échouera [^13] sauf la justice, il est possible <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> de tout diriger sauf le tempérament (gôhar), et il est possible que tout change sauf la providence divine (bakô-bakhtô).
 
 18\. Il est également déclaré que Frê<i>d</i>ûn [^14] voulait tuer A<i>z</i>\-i Dahâk [^15], _mais_ Aûharmazd parla ainsi : 'Ne le tuez pas maintenant, car la terre sera pleine de créatures nocives.'
 
@@ -104,7 +104,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^7]: (395:1) Le temple du feu.
 
-[^8]: (395:2) En supposant que le mot <i>s</i>apîrîh, 'le bon', ait été omis par erreur ; la phrase semble inintelligible sans lui.
+[^8]: (395:2) En supposant que le mot <i>s</i>apîrîh, « le bon », ait été omis par erreur ; la phrase semble inintelligible sans lui.
 
 [^9]: (395:3) Voir B. Yt. I, 7.
 

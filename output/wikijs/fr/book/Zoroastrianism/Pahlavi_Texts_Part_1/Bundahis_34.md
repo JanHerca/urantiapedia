@@ -96,7 +96,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^11]: (149:11) Voir Chap. XXXI, 2.
 
-[^12]: (149:12) Donc dans K20, mais M6 a nismô, 'âme, raison', comme dans Chap. XXIII, 1 ; le mot 'gloire' se référerait à la prétendue gloire divine des monarques iraniens (voir Chap. XXXI. 32).
+[^12]: (149:12) Donc dans K20, mais M6 a nismô, « âme, raison », comme dans Chap. XXIII, 1 ; le mot « gloire » se référerait à la prétendue gloire divine des monarques iraniens (voir Chap. XXXI. 32).
 
 [^13]: (150:1) Le septième millénaire, gouverné par la Balance, est calculé par Windischmann comme suit : 30 + 40½ + 50 + 93 + 40 + 30 + 616½ + 100 = 1000. Le huitième millénaire, gouverné par le Scorpion, correspond aux mille ans de Dahâk.
 

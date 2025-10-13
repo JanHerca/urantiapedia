@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le traducteur est responsable de la division en chapitres, mais les sections sont divisées selon le texte alterné pâzand-sanskrit de Nêryôsang.
 
-2-6. (Le même qu'à la page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
+2-6. (Le même qu'à la page [2](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
 
 7\. Les manuscrits mentionnés sont :
 

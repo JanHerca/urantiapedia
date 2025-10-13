@@ -166,7 +166,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . .
 
 [^1622]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
 
-[^1623] : 360:5 Atar.
+[^1623]: 360:5 Atar.
 
 [^1624]: 360:6 'Correctement il est infirme (armê<i>s</i>t, immobile) ; spirituellement il est un guerrier' (Pahl. Comm.).
 

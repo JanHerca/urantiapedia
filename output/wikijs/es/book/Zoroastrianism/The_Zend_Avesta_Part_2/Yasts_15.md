@@ -220,7 +220,7 @@ A este Vayu sacrificamos, a este Vayu invocamos...
 
 39\. A él le ofrecieron [^1126] las doncellas, a quienes ningún hombre había conocido, un sacrificio en un trono de oro, bajo vigas de oro y un dosel de oro, con manojos de barisma y ofrendas de leche hirviendo.
 
-40. Le pidieron un favor, diciendo: «¡Concédenos esto, oh Vayu, que trabajas con esmero! Que encontremos un esposo joven y hermoso, que nos trate bien toda la vida y nos dé descendencia; un esposo sabio, erudito y de lengua fácil».
+40\. Le pidieron un favor, diciendo: «¡Concédenos esto, oh Vayu, que trabajas con esmero! Que encontremos un esposo joven y hermoso, que nos trate bien toda la vida y nos dé descendencia; un esposo sabio, erudito y de lengua fácil».
 
 41\. Vayu, quien trabaja con gran talento, les concedió esa bendición, pues el Creador, Ahura Mazda, la persiguió.
 

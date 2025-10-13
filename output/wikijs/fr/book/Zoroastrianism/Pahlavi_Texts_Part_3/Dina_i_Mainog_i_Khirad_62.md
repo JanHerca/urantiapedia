@@ -94,11 +94,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^9]: (109:8) Ainsi indiqué dans Bd. XXXII, 5, et signifiant probablement que sa position ne pouvait plus être découverte sur terre. Bd. XXIX, 14 précise qu'il se trouve au milieu de Pârs, au-dessous du mont Yimakân.
 
-[^10] : (109:9) Voir Vend. II, 106-113.
+[^10]: (109:9) Voir Vend. II, 106-113.
 
 [^11]: (109:10) Peut-être devrions-nous comprendre « de chaque femme et de chaque homme », c'est-à-dire un couple d'enfants de chaque couple, ce qui concorde avec Vend. II, 134.
 
-[^12] : (110 : 1) Pahl. Vend. II, 136 a 150 ans.
+[^12]: (110 : 1) Pahl. Vend. II, 136 a 150 ans.
 
 [^13]: (110:2) Les caractéristiques mentionnées aux §§ 17-19 sont attribuées à l'ensemble d'Aîrân-vê<i>g</i>ô au chap. XLIV, 25, 27, 32.
 

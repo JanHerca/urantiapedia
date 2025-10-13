@@ -52,7 +52,7 @@ Dk. IX, Cap. XV, se refiere a la súplica del alma de Keresâsp para ser admitid
 
 Dk. IX, Cap. XVIII, 2, se refiere al pasaje citado en Sls. X, 8:—'Porque en el Stû<i>d</i>gar se dice, respecto a aquellos que _han_ matado ilegalmente animales, que el castigo es tal que _cada_ pelo _de_ esos animales se vuelve como una daga afilada (têkh), y aquel que es ilegalmente un matador es asesinado.'
 
-No se ha observado ninguna alusión en Dk. IX a otro pasaje que se cita en Sls. XII, 32: «En el Stûdgar dice así: “¿Qué prepara el estornudo? Es decir, ¿a través de qué proceso (kâr) se produce?”». Y Aûha<i>r</i>ma<i>z</i><i>d</i> dijo así: «¡Vida hambrienta, oh Zaratû<i>s</i>t! Además, el remedio para su existencia es el Ahunavair, oh Zaratû<i>s</i>t! y el Ashem (aharâyîh).»
+No se ha observado ninguna alusión en Dk. IX a otro pasaje que se cita en Sls. XII, 32: «En el Stûdgar dice así: «¿Qué prepara el estornudo? Es decir, ¿a través de qué proceso (kâr) se produce?»». Y Aûha<i>r</i>ma<i>z</i><i>d</i> dijo así: «¡Vida hambrienta, oh Zaratû<i>s</i>t! Además, el remedio para su existencia es el Ahunavair, oh Zaratû<i>s</i>t! y el Ashem (aharâyîh).»
 
 <figure class="table chapter-navigator">
   <table>

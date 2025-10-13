@@ -74,6 +74,6 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^3]: (20:3) Refiriéndose a Zaratûst.
 
-[^4]: (20:4) En K20, 'Estás enfermo'.
+[^4]: (20:4) En K20, «Estás enfermo».
 
 [^5]: (21:1) Según el texto de los manuscritos, significa «y entonces el espíritu guardián de Zaratû<i>s</i>t se le manifestó así»; pero es dudoso que su intención sea representar al fravâhar como creador de la criatura. El ángel Gô<i>s</i>, identificado con Gô<i>s</i>ûrvan, suele considerarse femenino, pero esto difícilmente concuerda con ser el alma de un toro (véase cap. X, 1, 2), aunque sí es aplicable a un representante de la tierra. Sin embargo, en las Selecciones de Zâ<i>d</i>\-sparam, II, 6, se dice que este animal mitológico era femenino (véase el apéndice de Bundahi<i>s</i>).

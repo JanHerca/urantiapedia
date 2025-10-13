@@ -136,7 +136,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## XIV.
 
-21. « Que tu sois, ô saint Rashnu, aux confins de cette terre, nous l'invoquons, nous le bénissons. J'invoque son amitié envers ce var préparé… »
+21\. « Que tu sois, ô saint Rashnu, aux confins de cette terre, nous l'invoquons, nous le bénissons. J'invoque son amitié envers ce var préparé… »
 
 ## XV.
 
@@ -252,7 +252,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^810]: 168:1 Minokhirad II, 120-121 (tr. Ouest).
 
-[^811] : 168:2 Sîrôzah I, 18.
+[^811]: 168:2 Sîrôzah I, 18.
 
 [^812]: 169:1 Ahura Mazda.
 
@@ -274,7 +274,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^822]: 171:1 Arethama<i>t</i>\-bairishta : aretha est dînâ, dâdistân (loi, justice).
 
-[^823] : 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
+[^823]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
 
 [^824]: 171:3 Je ne peux rien tirer du reste de la phrase hadhanâ tanasu<i>s</i> ; cf. § 38.
 
@@ -300,7 +300,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^840]: 175:2 Cf. Yt. XX et Yt. VIII, 12.
 
-[^842] : 175:3 Cf. Yt. VIII, 12.
+[^842]: 175:3 Cf. Yt. VIII, 12.
 
 [^843]: 175:4 'L'étoile de l'essence de l'eau est pour l'augmentation de l'eau ; et l'étoile de l'essence de la terre, pour l'augmentation de la terre ; et l'étoile de l'essence de l'arbre, pour l'augmentation des arbres ; et l'étoile de l'essence du bétail, p. 176 pour l'augmentation du bétail ; et l'essence de l'eau, de la terre, des arbres et du bétail est créée pour l'augmentation de l'homme' (Minokhirad XLIX, 7, tr. Ouest).
 
@@ -312,6 +312,6 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^848]: 177:1 Le ciel le plus élevé, la demeure d'Ormazd.
 
-[^849] : 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i> ; cf. §8, [p. 171](#p171), note [^790].
+[^849]: 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i> ; cf. §8, [p. 171](#p171), note [^790].
 
 [^850]: 178:1 Qui aura adoré Rashnu.

@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 0\. Sur le conflit mené avec le bœuf primitif.
 
-1\. Tandis qu'il passait [^1], grâce au principe végétal (<i>k</i>îharak) procédant, de chaque membre du bœuf, cinquante-cinq espèces de céréales [^2] _et_ douze espèces de plantes médicinales poussèrent de la terre, et leur splendeur et leur force étaient l'énergie séminale (tôkhmîh) du bœuf. 2. Livrée à la station lunaire [^3], cette graine fut entièrement purifiée par la lumière de la lune, pleinement préparée de toutes les manières, et produisit la vie dans un corps. 3. De là sortirent deux bœufs, un mâle _et_ une femelle ; et, par la suite, deux cent quatre-vingt-deux espèces de chaque espèce [^4] se manifestèrent sur la terre. 4. La demeure (mânîst) des oiseaux est dans l'air, et les poissons sont au milieu de l'eau.
+1\. Tandis qu'il passait [^1], grâce au principe végétal (<i>k</i>îharak) procédant, de chaque membre du bœuf, cinquante-cinq espèces de céréales [^2] _et_ douze espèces de plantes médicinales poussèrent de la terre, et leur splendeur et leur force étaient <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> l'énergie séminale (tôkhmîh) du bœuf. 2. Livrée à la station lunaire [^3], cette graine fut entièrement purifiée par la lumière de la lune, pleinement préparée de toutes les manières, et produisit la vie dans un corps. 3. De là sortirent deux bœufs, un mâle _et_ une femelle ; et, par la suite, deux cent quatre-vingt-deux espèces de chaque espèce [^4] se manifestèrent sur la terre. 4. La demeure (mânîst) des oiseaux est dans l'air, et les poissons sont au milieu de l'eau.
 
 <figure class="table chapter-navigator">
   <table>

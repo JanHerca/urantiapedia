@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 18\. La règle est la suivante : ce qu'ils donneront aux dignes est autant que ce qui est convenable et au-delà, pour manger et accumuler ; car dans le Nihâ<i>d</i>ûm _Nask_ [^44] les grands prêtres ont enseigné ainsi : « Lorsqu'un homme donne du pain à un autre homme, même si cet homme a trop de pain, toutes les bonnes œuvres qu'il accomplira grâce à cette surabondance deviennent autant celles de celui qui l'a donné que si elles avaient été faites de sa propre main. »
 
-17\. La règle est la suivante : la nuit, on ne doit pas puiser [^45] d'eau d'un puits, car le Bâg-yasnô [^46] donne un avis sur l'impureté (ayo<i>s</i>dâsarîh) de l'eau du puits la nuit.
+17\. La règle est la suivante : la nuit, on ne doit <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> pas puiser [^45] d'eau d'un puits, car le Bâg-yasnô [^46] donne un avis sur l'impureté (ayo<i>s</i>dâsarîh) de l'eau du puits la nuit.
 
 18\. La règle est la suivante : la nuit, rien de comestible ne doit être jeté au nord, car un démon deviendrait enceinte ; et lorsqu'il est jeté, un Yathâ-ahû-vairyô [^47] doit être prononcé. 19. Ceux de la foi primitive [^48] qui agissaient de manière plus orthodoxe (hû-rastakîhâtar), lorsqu'ils mangeaient de la nourriture la nuit, par souci de préservation du péché dû à la venue des égouts et des aspersions sur le sol, demandaient à un homme de chanter l'Ahunavar [^49] du début de la fête <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> (myazd) jusqu'à la fin, plus particulièrement lors des fêtes des saisons ; comme il est dit dans le Hâdôkht Nask [^50], celle des paroles prononcées par l'Ahunavar est celle qui est la plus triomphante.
 
@@ -122,7 +122,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^7]: (339:4) Voir chap. X, 25 ; le passage auquel il est fait allusion se trouvait probablement au début du Nask, qui traitait de « la récompense des préceptes de la religion, et du pont des destructeurs de bons précepteurs, adapté à leur destruction ».
 
-[^8] : (339:5) Voir Chap. VI, 3.
+[^8]: (339:5) Voir Chap. VI, 3.
 
 [^9]: (339:6) K20 dit « qu'un feu doit être correctement entretenu ».
 
@@ -134,7 +134,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^13]: (340:3) Voir Chap. X, 40. K20 a « vêtement ».
 
-[^14]: (340:4) Toujours écrit Vadîkdâ<i>d</i> dans cette seconde partie de Sls., sauf au chap. XIII, 7 ; alors que dans la première partie il est écrit sous sa forme non corrompue <i>G</i>avî<i>d</i>\-dêf-dâ<i>d</i> ou <i>G</i>avî<i>d</i>\-<i>s</i>êdâ-dâ<i>d</i>, 'la loi opposée aux démons'. Le passage cité ici est Pahl. Vend. V, 171, 172, avec une ou deux variantes verbales.
+[^14]: (340:4) Toujours écrit Vadîkdâ<i>d</i> dans cette seconde partie de Sls., sauf au chap. XIII, 7 ; alors que dans la première partie il est écrit sous sa forme non corrompue <i>G</i>avî<i>d</i>\-dêf-dâ<i>d</i> ou <i>G</i>avî<i>d</i>\-<i>s</i>êdâ-dâ<i>d</i>, « la loi opposée aux démons ». Le passage cité ici est Pahl. Vend. V, 171, 172, avec une ou deux variantes verbales.
 
 [^15]: (340:5) Signifie anbânak-aê, qui est corrompu dans les manuscrits du Vendidad en la forme inintelligible andanakŏ-1, de sorte que cette ancienne citation jette un éclairage plutôt inattendu sur un passage du Vendidad que les traducteurs seraient presque certains de mal comprendre. L'allusion est aux sacs utilisés par une femme menstruée, lorsqu'elle mange, pour empêcher la contamination de la nourriture. Les Rivâyats persans indiquent que trois sacs (kîsah) sont faits de deux épaisseurs de lin résistant, un sac à porter sur chaque main, et le troisième, plus grand, pour contenir le bol de nourriture en métal et le gobelet d'eau. Après s'être soigneusement lavé les mains et le visage, elle met les deux sacs sur ses mains, en veillant à ce qu'ils ne touchent ni sa nourriture, ni ses vêtements, ni aucune autre partie de son corps. Elle se nourrit ensuite avec une cuillère en métal, qui ne doit pas toucher son nez ; et lorsque le repas p. 341 une fois terminé, le bol de nourriture et le gobelet d'eau sont placés sur le grand sac, et les deux plus petits sacs à l'intérieur, jusqu'à ce qu'ils soient à nouveau nécessaires.
 
@@ -146,7 +146,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^19]: (341:4) Aucune viande fraîche ne doit être cuite ou consommée pendant les trois premiers jours suivant un décès dans la maison, selon les Sad-dar Bundahi<i>s</i>, LXXVIII (comparer Chap. XVII, 1-3).
 
-[^20]: (341:5) Voir SZS. IX, 1. Le passage cité ici se trouve peut-être dans le texte complet des Bundahi<i>s</i>, tel qu'il est donné dans TD (Chap. 37 ; voir Introduction, [p. xxxvii](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Introduction_3#pxxxvii)).
+[^20]: (341:5) Voir SZS. IX, 1. Le passage cité ici se trouve peut-être dans le texte complet des Bundahi<i>s</i>, tel qu'il est donné dans TD (Chap. 37 ; voir Introduction, [p. xxxvii](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_1/Introduction_3#pxxxvii)).
 
 [^21]: (342:1) Une âme juste est censée s'avancer d'abord vers la station des étoiles, puis vers la station de la lune, puis vers la station du soleil, sur son chemin vers Garô<i>d</i>mân, le ciel le plus élevé ; mais si sa droiture est imparfaite, elle doit s'arrêter à l'une de ces trois stations, qui sont les trois degrés inférieurs du ciel (voir note sur pâhlûm ahvân, Chap. VI, 3).
 
@@ -156,7 +156,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^24]: (342:4) Voir Bund. III, 20, XIX, 19, 20.
 
-[^25] : (342:5) Vend. XVII, 29.
+[^25]: (342:5) Vend. XVII, 29.
 
 [^26]: (342:6) Barman-zerkhûni<i>s</i>nîh peut également signifier « engendrer un fils ».
 
@@ -170,7 +170,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^31]: (343:3) Ici écrit Dû<i>d</i>kâv.
 
-[^32]: (343:4) Ou bien on peut lire <i>s</i>êdâ, 'un démon', signifiant un 'archidémon'.
+[^32]: (343:4) Ou bien on peut lire <i>s</i>êdâ, « un démon », signifiant un « archidémon ».
 
 [^33]: (344:1) C'est-à-dire dans les trente premières sections du Nask (voir chap. X, 25) ; le passage auquel il est fait allusion doit avoir été dans la partie qui traitait des nouveau-nés et de leur traitement approprié.
 
@@ -180,7 +180,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^36]: (344:4) Voir Chap. I, 3.
 
-[^37]: (344:5) Lecture de amat, 'quand', au lieu de mûn, 'qui' (voir Bund. I, 7, note).
+[^37]: (344:5) Lecture de amat, « quand », au lieu de mûn, « qui » (voir Bund. I, 7, note).
 
 [^38]: (344:6) Voir Chap. X, 21.
 
@@ -227,7 +227,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^59]: (349:2) Ya<i>s</i>ti Navashâ<i>d</i>ar dans tous les MSS., mais ce dernier mot est très probablement une corruption de l'Av. navakhshapara, « une période de neuf nuits », pendant laquelle la cérémonie de Bareshnûm doit être poursuivie (voir Vend. IX, 144, XIX, 80). Le « rite Navashâ<i>d</i>ar » est donc « la cérémonie des neuf nuits », qui devrait être fréquemment subie par les prêtres qui célèbrent le cérémonial de Vendidad.
 
-[^60]: (349:3) M6 a pavan pî<i>s</i>ak, 'avec cérémonie'.
+[^60]: (349:3) M6 a pavan pî<i>s</i>ak, « avec cérémonie ».
 
 [^61]: (349:4) M6 a « eux ».
 
@@ -257,7 +257,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^74]: (352:1) La période de midi (voir Bund. II, 8; 9, XXV, 9-14).
 
-[^75] : (352:2) Voir Chap. VIII, 6.
+[^75]: (352:2) Voir Chap. VIII, 6.
 
 [^76]: (352:3) Voir Chap. X, 2.
 

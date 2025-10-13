@@ -378,7 +378,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1158] : 249:1 Cf. Sîrôzah Ier, 22.
+[^1158]: 249:1 Cf. Sîrôzah Ier, 22.
 
 [^1159]: 249:2 Apãm Napâ<i>t</i> (Yt. VIII, 34) ou Ti<i>s</i>trya (Yt. VIII, 1).
 
@@ -402,7 +402,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1169]: 252:1 Takhma Urupa (dans la légende ultérieure, Tahmûrâf) était le frère de Yima. Il régna trente ans et chevaucha Ahriman, transformé en cheval. Mais finalement, sa femme, trompée par Ahriman, lui révéla le secret du pouvoir de son mari, et Tahmûrâf fut englouti par son cheval. Mais Yima parvint à reprendre le corps de son frère du corps d'Ahriman et recouvra ainsi les arts et la civilisation qui avaient disparu avec Tahmûrâf (voir Minokhired XXVII, 32 ; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 s. ; Ormazd et Ahriman, § 137 s. ; cf. ci-dessus, [p. 60](../Yasts_5#p60), note [1](../Yasts_5#fn302)).
 
-[^1170] : 252:2 Azinava<i>n</i><i>t</i> ou zaênahva<i>n</i><i>t</i> : il a conservé cette épithète dans la tradition ultérieure : Zînavend, 'quod cognomen virum significat armis sonde instructum' (Hamza Ispahensis, p. 20, tr. Gottwaldt).
+[^1170]: 252:2 Azinava<i>n</i><i>t</i> ou zaênahva<i>n</i><i>t</i> : il a conservé cette épithète dans la tradition ultérieure : Zînavend, 'quod cognomen virum significat armis sonde instructum' (Hamza Ispahensis, p. 20, tr. Gottwaldt).
 
 [^1171]: 252:3 Comme dit Yt. XIX, 29.
 
@@ -414,11 +414,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1175]: 254:1 Cf. Yt. V, 30 seq.
 
-[^1176] : 255:1 Yt. V, 34 ; IX, 14 ; XVII, 34.
+[^1176]: 255:1 Yt. V, 34 ; IX, 14 ; XVII, 34.
 
 [^1177]: 255:2 Cf. Yt. V, 37 seq.
 
-[^1178] : 255 : 3 Un affluent inconnu du Rangha (Tigre).
+[^1178]: 255 : 3 Un affluent inconnu du Rangha (Tigre).
 
 [^1179]: 255:4 Sâma avait deux fils, Keresâspa, un guerrier, et Urvâkhshaya, un juge et législateur (Yasna IX, 10 \[29 seq.\]). Nous n'avons pas d'autres détails sur la légende d'Urvâkhshaya, si ce n'est qu'il fut tué par « Hitâspa, le couronné d'or » (cf. Yt. XIX, 4I), et vengé par Keresâspa.
 
@@ -448,11 +448,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1192]: 260:1 Âiniva (?).
 
-[^1193] : 260 : 2 Keredhari<i>s</i>a (?).
+[^1193]: 260 : 2 Keredhari<i>s</i>a (?).
 
 [^1194]: 260:3 Douteux ; bao<i>k</i>a, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/26000.jpg).
 
-[^1195] : 260:4 Lecture des sudhi<i>s</i>.
+[^1195]: 260:4 Lecture des sudhi<i>s</i>.
 
 [^1196]: 260:5 Geredha est le terrier d'une créature ahrimanienne (voir Vend. III, à \[33\]; VII, 24 \[60: Vayu, dans cette moitié de lui qui appartient à l'Esprit Maléfique, est le siège (le terrier) d'Ahriman; mais avec sa meilleure moitié, il lutte contre le démon et le détruit.
 
@@ -464,4 +464,4 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1200]: 261:3 Cf. § 42.
 
-[^1201] : 262:1 Études Iraniennes, II, 110.
+[^1201]: 262:1 Études Iraniennes, II, 110.

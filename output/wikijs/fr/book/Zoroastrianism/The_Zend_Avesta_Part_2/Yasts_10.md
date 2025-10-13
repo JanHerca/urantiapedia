@@ -128,7 +128,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Qui tire de la détresse l'homme qui ne lui a pas menti, qui le tire de la mort.
 
-23. « Sors-nous de la détresse, sors-nous de la détresse, ô Mithra ! Puisque nous ne t'avons pas menti. Tu fais s'abattre la terreur sur les corps des hommes qui mentent à Mithra ; tu leur enlèves la force des bras, à cause de leur colère et de leur toute-puissance ; tu leur enlèves la rapidité des pieds, la vue de leurs yeux, l'ouïe de leurs oreilles. »
+23\. « Sors-nous de la détresse, sors-nous de la détresse, ô Mithra ! Puisque nous ne t'avons pas menti. Tu fais s'abattre la terreur sur les corps des hommes qui mentent à Mithra ; tu leur enlèves la force des bras, à cause de leur colère et de leur toute-puissance ; tu leur enlèves la rapidité des pieds, la vue de leurs yeux, l'ouïe de leurs oreilles. »
 
 24\. « Ni la blessure [^581] de la lance bien aiguisée ni celle de la flèche volante n'atteint l'homme vers qui Mithra vient chercher de l'aide de toute la force de son âme, lui, des dix mille espions, le puissant, omniscient, introuvable Mithra.
 
@@ -684,13 +684,13 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 ## Notes de bas de page
 
-[^579] : 119 : 1 Sîrôzah I, 16.
+[^579]: 119 : 1 Sîrôzah I, 16.
 
-[^580] : 120:1 Cf. Yt. VIII, 50.
+[^580]: 120:1 Cf. Yt. VIII, 50.
 
 [^581]: 120:2 Le Mithradru<i>g</i> : on pourrait aussi traduire « qui rompt le contrat », car mithra, en tant que nom commun, signifie « un contrat ».
 
-[^582] : 120 : 3 Kayadhas ; cf. Yt. Moi, 19 ans.
+[^582]: 120 : 3 Kayadhas ; cf. Yt. Moi, 19 ans.
 
 [^583]: 120:4 Cf. Ardâ Viraf, chap. lii.
 
@@ -698,11 +698,11 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^585]: 121:2 La condition des bienheureux dans l'autre monde.
 
-[^586] : 121:3 Va<i>n</i>ta, 'assistance, c'est-à-dire faire du <i>g</i>âdangôi' (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi fait une collecte pour les pauvres (Études Iraniennes, II, 155).
+[^586]: 121:3 Va<i>n</i>ta, 'assistance, c'est-à-dire faire du <i>g</i>âdangôi' (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi fait une collecte pour les pauvres (Études Iraniennes, II, 155).
 
 [^587]: 121:4 Comme [p. 30](../Yasts_1#p30).
 
-[^588] : 121:5 Perethu-vaêdhayana : sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
+[^588]: 121:5 Perethu-vaêdhayana : sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
 
 [^589]: 121:6 <i>G</i>aghâurv<i>a</i><i>u</i>ng hem : ce mot, assez étrangement, est généralement traduit par « celui qui a les bras les plus forts » (balish<i>th</i>abhu<i>g</i>am) ; <i>g</i>agâuru est traduit de la même manière.
 
@@ -742,7 +742,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^610]: 126:3 Douteux.
 
-[^611] : 126 : 4 Ãithya ; cf. Lat. ante (Brugmann).
+[^611]: 126 : 4 Ãithya ; cf. Lat. ante (Brugmann).
 
 [^612]: 127:1 Douteux.
 
@@ -758,7 +758,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^618]: 128:1 Bonheur spirituel, félicité.
 
-[^619] : 128:2 Vend. XVIII, 51 \[III\].
+[^619]: 128:2 Vend. XVIII, 51 \[III\].
 
 [^620]: 128:3 Voir ci-dessus, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120). §§ 30-34 = §§ 56-59.
 
@@ -790,21 +790,21 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^635]: 132:1 Bundahi<i>s</i> V, 3 seq.; cf. Yt. XII, 13, et Yt. X, 13.
 
-[^636] : 132 : 2 Le Haraiti Bareza est le même que le Hara Berezaiti.
+[^636]: 132 : 2 Le Haraiti Bareza est le même que le Hara Berezaiti.
 
 [^637]: 132:3 Sîrôzah I, 9, notes 4 et 5.
 
 [^638]: 132:4 Douteux (mâyao<i>s</i>).
 
-[^639] : 132:5 Cf. Yt. VIII, II, 24 et Yt. X, 74.
+[^639]: 132:5 Cf. Yt. VIII, II, 24 et Yt. X, 74.
 
-[^640] : 133 : 1 §§ 56-59 = §§ 30-34.
+[^640]: 133 : 1 §§ 56-59 = §§ 30-34.
 
 [^641]: 134:1 Le texte est corrompu (vasô-yaonâi inatãm?).
 
-[^642] : 134:2 Eredhwô-za<i>n</i>gem : sud<i>ri</i><i>dh</i>agaṅghatâ, kila kârye yad pâdâbhyâm yu<i>g</i>yate kartum vyavasâyî <i>s</i>akta<i>s</i><i>k</i>a (Yasna LXII, 5\[LXI, 23\]).
+[^642]: 134:2 Eredhwô-za<i>n</i>gem : sud<i>ri</i><i>dh</i>agaṅghatâ, kila kârye yad pâdâbhyâm yu<i>g</i>yate kartum vyavasâyî <i>s</i>akta<i>s</i><i>k</i>a (Yasna LXII, 5\[LXI, 23\]).
 
-[^643] : 135:1 Kar<i>s</i>ô-râzanghem : kê<i>s</i>var vîrâi (Pahl. tr. ibid.).
+[^643]: 135:1 Kar<i>s</i>ô-râzanghem : kê<i>s</i>var vîrâi (Pahl. tr. ibid.).
 
 [^644]: 135:2 D'Ahriman ; cf. Yasna XXIX, 6 (vyâna = vi<i>k</i>âri<i>s</i>n, vi<i>s</i>uddhatâ.)
 
@@ -814,11 +814,11 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^647]: 135:5 De Yt. X, 23-24.
 
-[^648] : 135:6 Cf. Yasna XLIII, 7 : vyânayâ : amat vandînît, yat g_ri<i>h</i>n_âti.
+[^648]: 135:6 Cf. Yasna XLIII, 7 : vyânayâ : amat vandînît, yat g_ri<i>h</i>n_âti.
 
 [^650]: 135:7 Cf. Yt. X, 5, [p. 121](#p121), notes [^561] et [^562].
 
-[^651] : 136:1 Cf. Yt. VIII, 38.
+[^651]: 136:1 Cf. Yt. VIII, 38.
 
 [^652]: 136:2 Voir ci-dessus, [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
@@ -858,19 +858,19 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 [^671]: 138:2 Cf. Yt. X, 55.
 
-[^672] : 138 : 3 Iric ; cf. linquo.
+[^672]: 138 : 3 Iric ; cf. linquo.
 
 [^673]: 139:1 Le Génie de la Vérité (Yt. XII) ; Mithra donne une demeure à l'homme véridique de la même manière qu'il détruit la demeure du menteur (§ 80).
 
 [^674]: 139:2 Cf. § 70.
 
-[^675] : 139:3 Aipi vithi<i>s</i>i ; Api védique vyathis (VIII, 45, 29).
+[^675]: 139:3 Aipi vithi<i>s</i>i ; Api védique vyathis (VIII, 45, 29).
 
 [^676]: 140:1 Yaokh<i>s</i>ti, la racine du persan nyô<i>s</i>idan, du pahlavi niyôkh<i>s</i>îtan, entendre ; on pourrait être enclin à traduire par « mille oreilles » ou « mille écoutes » ; mais le sens du mot doit avoir été plus général, comme le traduit Neriosengh (pra<i>n</i>idhi, IX, 8 \[25\]).
 
-[^677] : 140:2 Dvâ<i>k</i>ina ?
+[^677]: 140:2 Dvâ<i>k</i>ina ?
 
-[^678] : 140:3 Pithê : m<i>ri</i>tyu (Yasna LIII \[LII\], 6).
+[^678]: 140:3 Pithê : m<i>ri</i>tyu (Yasna LIII \[LII\], 6).
 
 [^679]: 141:1 Vâ<i>k</i>em, le soi-disant vâ<i>g</i>.
 
@@ -885,11 +885,11 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^682]: 141:4 Voir ci-dessus, [p. 132](#p132), note [^609].
 
-[^683] : 142 : 1 Haoma ; cf. Yasna IX, 26 181\].
+[^683]: 142 : 1 Haoma ; cf. Yasna IX, 26 181\].
 
 [^684]: 142:2 Pour le service du matin dans le Gâh U<i>s</i>ahîn.
 
-[^685] : 142:3 Cf. Vend. III, 1.
+[^685]: 142:3 Cf. Vend. III, 1.
 
 [^686]: 143:1 Les Amesha-Spe<i>n</i>tas.
 
@@ -911,7 +911,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^695]: 144:5 Cf. Yt. X, 69.
 
-[^696] : 144 : 6 §§ 97-98 = §§ 234-135.
+[^696]: 144 : 6 §§ 97-98 = §§ 234-135.
 
 [^697]: 144:7 Cf. § 97.
 
@@ -921,7 +921,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^700]: 146:2 Le Rangha ou Tigre. Les mots âg<i>e</i>urvayêiti et nighnê, « il saisit, il bat », sont les mots employés pour le prêtre déposant le Haoma dans le mortier et le pilant avec le pilon (Yasna, X, 2 \[4-5\]). Le Sind et le Rangha sont ainsi comparés aux deux parties de la Hâvana, la terre entre les deux est le Haoma, et les bras de Mithra sont les bras du prêtre.
 
-[^701] : 146 : 3 Sanakê, an ἅπαξ λεγόμενον ; opposé aux aodhas du Rangha, Yt. XII, 19.
+[^701]: 146 : 3 Sanakê, an ἅπαξ λεγόμενον ; opposé aux aodhas du Rangha, Yt. XII, 19.
 
 [^702]: 146:4 La mer d'Arabie (?). Cf. Yt. XII, 21.
 
@@ -929,7 +929,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^704]: 147:1 Voir ci-dessus, [p. 4](../Sirozahs_1#p4), n. [5](../Sirozahs_1#fn11).
 
-[^705] : 147 : 2 Âsna : Sansk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
+[^705]: 147 : 2 Âsna : Sansk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
 
 [^706]: 147:3 Celui qui t'offre un bon sacrifice ; cf. § 108.
 
@@ -981,7 +981,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^731]: 152:4 Vers la demeure des Immortels.
 
-[^732] : 152 : 5 Nourris d'ambroisie (ἀμβρόσιον εἶδαρ) comme les coursiers de Poséidon (Il. XIII, 35 ; cf. Ovide, Metam. IV, 274).
+[^732]: 152 : 5 Nourris d'ambroisie (ἀμβρόσιον εἶδαρ) comme les coursiers de Poséidon (Il. XIII, 35 ; cf. Ovide, Metam. IV, 274).
 
 [^735]: 152:6 Douteux (simãm<i>k</i>a simôithrãm<i>k</i>a).
 
@@ -1011,7 +1011,7 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^749]: 154:3 Voir ci-dessus, [p. 123](#p123), note [^575].
 
-[^750] : 155 : 1 §§ 134-135 = § 97-98.
+[^750]: 155 : 1 §§ 134-135 = § 97-98.
 
 [^751]: 155:2 Cf. Yt. X, 32.
 
@@ -1023,11 +1023,11 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^755]: 157:1 Voir Yt. VIII.
 
-[^756] : 157:2 Ashi Vanguhi (?); cf. § 68.
+[^756]: 157:2 Ashi Vanguhi (?); cf. § 68.
 
 [^757]: 157:3 Qui surveille les pays : aiwida<i>h</i><i>v</i>yûm est traduit ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15700.jpg) (Traduction pers. de Mihir Nyâyi<i>s</i>).
 
-[^758] : 158:1 Âda<i>h</i><i>v</i>yûm : ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15800.jpg); cf. Yasna XXVI, 9 \[28\].
+[^758]: 158:1 Âda<i>h</i><i>v</i>yûm : ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15800.jpg); cf. Yasna XXVI, 9 \[28\].
 
 [^759]: 158:2 Pairida<i>h</i><i>v</i>yûm: ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15801.jpg).
 
@@ -1035,6 +1035,6 @@ Sicut et Cacus Vulcani filius ille.'
 
 [^761]: 158:4 Cf. Vend. p. 22, note 2.
 
-[^762] : 158:5 Cf. Sîrôzah Ier, 16.
+[^762]: 158:5 Cf. Sîrôzah Ier, 16.
 
 [^763]: 158:6 Qui sacrifie à Mithra.

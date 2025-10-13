@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^4]: (54:4) La lecture n'est pas disponible.
 
-[^5] : (54:5) Entièrement décrit dans Hn. II, 22-32, AV. IV, 18-35, Mkh. II, 125-139
+[^5]: (54:5) Entièrement décrit dans Hn. II, 22-32, AV. IV, 18-35, Mkh. II, 125-139
 
 [^6]: (54:6) L’auteur est plus pratique que la plupart des autres auteurs sur le même sujet, car il suppose que l’âme juste n’est pas absolument juste, ni l’âme méchante absolument méchante.
 

@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Dans le commentaire du Hâ<i>d</i>ôkht _Nask_, il est dit : — Mâ âzârayôi<i>s</i>, Zarathu<i>s</i>tra! mâ Pourushaspem, mâ Dughdhôvãm, mâ aêthrapaiti<i>s</i> [^1], 'il n'est pas désirable que tu, ô Zaratu<i>s</i>t ! _affliges_ ton_ père, _ou_ ta_ mère, _ou_ ton_ prêtre.'
 
-5. Il est donc indispensable, trois fois par jour, de croiser les bras [^2] en présence de ces trois personnes et de dire : « Quelle est votre volonté (murâd) ? Afin que je puisse la penser, la parler et l’accomplir. » 6. Si ce qui n’était pas convenable est venu de moi de lui-même, il est nécessaire que vous fassiez un don juste en notre faveur.
+5\. Il est donc indispensable, trois fois par jour, de croiser les bras [^2] en présence de ces trois personnes et de dire : « Quelle est votre volonté (murâd) ? Afin que je puisse la penser, la parler et l’accomplir. » 6. Si ce qui n’était pas convenable est venu de moi de lui-même, il est nécessaire que vous fassiez un don juste en notre faveur.
 
 <figure class="table chapter-navigator">
   <table>

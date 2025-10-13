@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## BUNDAHI S. XXXIII [^1].
 
-0\. La familia de los Môbads ('sacerdotes').
+0\. La familia de los Môbads («sacerdotes»).
 
 1\. Bahak [^2] _era_ hijo de Hûbakht, _hijo_ de Âtarô-bôndak, _hijo_ de Mâhda<i>d</i>, _hijo_ de Mê<i>d</i>yôk-mâh, _hijo_ de Frâh-vakhsh-vindâ<i>d</i> [^3], _hijo_ de Mê<i>d</i>yôk-mâh, _hijo_ de Kâ<i>d</i> [^4], _hijo_ de Mê<i>d</i>yôk-mâh, _hijo_ de Ârâstih, _hijo_ de Paîtirâsp [^5]. 2. Así como Bahak era Môbad de Môbads (sumo sacerdote) para Shâhpûhar [^6], hijo de Aûharmazd, _así_ Kâ<i>d</i> era el gran preceptor (farmâ<i>d</i>âr) para Dârâî [^7].
 
@@ -46,9 +46,9 @@ dateCreated: 2025-10-10T14:41:20Z
 
 6\. Mitrô-akâvî<i>d</i> _es hijo_ de Mar<i>d</i>ân-vêh [^16], _hijo_ de Afrôbag-vindâ<i>d</i>, _hijo_ de Vindâ<i>d</i>\-i-pê<i>d</i>âk, _hijo_ de Vâê-bûkht [^17], _hijo_ de Bahak, _hijo_ de Vâê-bûkht. 7. La madre de quien nací es Hûmâî, hija de Freh-mâh, quien también _era_ las hijas justas [^18] <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> de Mâh-ayâr _hijo_ de Mâh-bôndak, _hijo_ de Mâh-bûkht. 8. Pûyi<i>s</i>n-shâ<i>d</i> _es hijo_ de Mar<i>d</i>ân-vêh, _hijo_ de Afrôbag-vindâ<i>d</i>, _hijo_ de Vindâ<i>d</i>\-i-pê<i>d</i>âk, _hijo_ de Vâê-bûkht, _hijo_ de Bahak, _hijo_ de Vâê-bûkht.
 
-9\. Se dice que todos los demás Môbads que fueron renombrados en el imperio (khû<i>d</i>âyîh) _eran_ de la misma familia, _y_ eran de esta raza de Mânû<i>s</i><i>k</i>îhar [^19]. 10. Asimismo, afirman que los Môbads que existen ahora son todos de la misma familia, y también se jactan de mí, a quien llaman [^20] 'la administración de la rectitud perfecta' (Dâ<i>d</i>akîh-i Ashôvahi<i>s</i>tô) [^21]. 11. Yûdân-Yim _hijo_ de Vâhrâm-shâ<i>d</i>, _hijo_ de Zaratû<i>s</i>t, Âtarô-pâ<i>d</i> _hijo_ de Mâraspend, _hijo_ de Zâ<i>d</i>\-sparham [^22], <span id="p148"><sup><small>[ pag. 148 ]</small></sup></span> Zâ<i>d</i>\-sparham _hijo_ de Yûdân-Yim [^23], Âtarô-pâ<i>d</i> hijo de Hâmî<i>d</i> [^24], Ashôvahi<i>s</i>t _hijo_ de Freh-Srôsh, _y_ los otros Môbads han surgido de la misma familia.
+9\. Se dice que todos los demás Môbads que fueron renombrados en el imperio (khû<i>d</i>âyîh) _eran_ de la misma familia, _y_ eran de esta raza de Mânû<i>s</i><i>k</i>îhar [^19]. 10. Asimismo, afirman que los Môbads que existen ahora son todos de la misma familia, y también se jactan de mí, a quien llaman [^20] «la administración de la rectitud perfecta» (Dâ<i>d</i>akîh-i Ashôvahi<i>s</i>tô) [^21]. 11. Yûdân-Yim _hijo_ de Vâhrâm-shâ<i>d</i>, _hijo_ de Zaratû<i>s</i>t, Âtarô-pâ<i>d</i> _hijo_ de Mâraspend, _hijo_ de Zâ<i>d</i>\-sparham [^22], <span id="p148"><sup><small>[ pag. 148 ]</small></sup></span> Zâ<i>d</i>\-sparham _hijo_ de Yûdân-Yim [^23], Âtarô-pâ<i>d</i> hijo de Hâmî<i>d</i> [^24], Ashôvahi<i>s</i>t _hijo_ de Freh-Srôsh, _y_ los otros Môbads han surgido de la misma familia.
 
-12\. También dice que 'en un invierno _localizaré_ (<i>g</i>âkînam) la religión de los Mazdayasnians, _que_ llegó a las otras seis regiones'.
+12\. También dice que «en un invierno _localizaré_ (<i>g</i>âkînam) la religión de los Mazdayasnians, _que_ llegó a las otras seis regiones».
 
 <figure class="table chapter-navigator">
   <table>
@@ -110,7 +110,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^17]: (146:7) Aquí escrito Aê-vûkht, pero ver § 8; puede ser Vîs-bûkht o Vê<i>s</i>\-bûkht.
 
-[^18]: (146:8) El texto es amî<i>d</i>ar mûna<i>s</i> li a<i>g</i>a<i>s</i> zerkhûn<i>d</i> Hûmôî dûkht-i Freh-mâh-i<i>k</i> aharôb vûkht (¿dûkht?). Quizás podríamos leer 'Freh-mâh _hijo_ de <i>K</i>ahârôb-bûkht', pero parece más probable que los §§ 7, 8 estén conectados, y que el significado pretendido es que Hûmâî era hija de Freh-mâh (de cierta familia) y de Pûyi<i>s</i>n-shâ<i>d</i> (de otra familia); También era la madre del editor de la recensión de los Bundahi<i>s</i> que se encuentra en TD; pero ¿quién era su padre? La repetición, singularmente innecesaria, de la genealogía de los dos hermanos, Mitrô-akâvî<i>d</i> y Pûyi<i>s</i>n-shâ<i>d</i>, en los §§ 6 y 8, lleva a sospechar que si este último (pág. 147) era el padre de su madre, el primero probablemente era su propio padre o abuelo. Lamentablemente, el texto no ofrece una declaración clara al respecto, y el § 10 ofrece más información para especular sobre su nombre y sus vínculos.
+[^18]: (146:8) El texto es amî<i>d</i>ar mûna<i>s</i> li a<i>g</i>a<i>s</i> zerkhûn<i>d</i> Hûmôî dûkht-i Freh-mâh-i<i>k</i> aharôb vûkht (¿dûkht?). Quizás podríamos leer «Freh-mâh _hijo_ de <i>K</i>ahârôb-bûkht», pero parece más probable que los §§ 7, 8 estén conectados, y que el significado pretendido es que Hûmâî era hija de Freh-mâh (de cierta familia) y de Pûyi<i>s</i>n-shâ<i>d</i> (de otra familia); También era la madre del editor de la recensión de los Bundahi<i>s</i> que se encuentra en TD; pero ¿quién era su padre? La repetición, singularmente innecesaria, de la genealogía de los dos hermanos, Mitrô-akâvî<i>d</i> y Pûyi<i>s</i>n-shâ<i>d</i>, en los §§ 6 y 8, lleva a sospechar que si este último (pág. 147) era el padre de su madre, el primero probablemente era su propio padre o abuelo. Lamentablemente, el texto no ofrece una declaración clara al respecto, y el § 10 ofrece más información para especular sobre su nombre y sus vínculos.
 
 [^19]: (147:1) Comparar cap. XXXII, 4.
 

@@ -42,7 +42,7 @@ I. Le dixième sujet est celui-ci, qu'il incombe à tous ceux de la bonne religi
 
 9\. Et ces quatre nœuds [^6], _avec_ lesquels ils l'attachent, sont là pour cela, afin qu'il _donne_ quatre attestations. <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> 10. Le premier nœud est celui qui préserve [^7] la constance (qarâr), et donne l'attestation de l'existence, de l'unité, de la pureté et de l'incomparabilité de l'être sacré, le bon _et_ propice. 11. Le deuxième nœud est celui qui donne l'attestation _que c'est_ la bonne religion des adorateurs de Ma<i>z</i><i>d</i>a qui est la parole de l'être sacré. 12. Le troisième nœud est celui qui donne l'attestation de l'apostolat et de la mission (rasûlî) dans le juste ('haqq) Zaratu<i>s</i>t, le Spitamân. 13. Le quatrième nœud est celui qui présente plus agréablement, donne l'assurance (iqrâr), et accepte ouvertement que je _devrais_ penser au bien, parler du bien et faire le bien. 14. Et de tout cela je suis établi ; et la religion pure et bonne [^8] est celle-ci, que je persiste dans ces _vues_.
 
-15. Et, de plus, lorsque les archanges vinrent à la rencontre de Zaratu, ils portèrent également la ceinture sacrée à la taille ; et la caractéristique distinctive (farq) parmi les lois de l'être sacré est le port de la ceinture sacrée. 16. Cela incombe à la fois à la femme et à l'homme, et il est tout à fait (albattah) inapproprié qu'ils ne la portent pas.
+15\. Et, de plus, lorsque les archanges vinrent à la rencontre de Zaratu, ils portèrent également la ceinture sacrée à la taille ; et la caractéristique distinctive (farq) parmi les lois de l'être sacré est le port de la ceinture sacrée. 16. Cela incombe à la fois à la femme et à l'homme, et il est tout à fait (albattah) inapproprié qu'ils ne la portent pas.
 
 <figure class="table chapter-navigator">
   <table>
@@ -72,7 +72,7 @@ I. Le dixième sujet est celui-ci, qu'il incombe à tous ceux de la bonne religi
 
 [^1]: (268:4) Voir Dd. XXXIX, 1 n. Une modification de l'âge est recommandée au chap. XLVI.
 
-[^2] : (268:5) Av. Yima khshaêta (voir Mkh. XXVII, 24 n).
+[^2]: (268:5) Av. Yima khshaêta (voir Mkh. XXVII, 24 n).
 
 [^3]: (269:1) Ces mots font partie d'une formule de bénédiction concluant certaines cérémonies (voir Essais de Haug, pp. 407, 409), et leur récitation implique que la cérémonie, qui est une bonne œuvre, a été pleinement et de manière satisfaisante. Si cette bonne œuvre excède ce qui est nécessaire pour compenser les péchés de son auteur, elle peut être imputée à tout autre membre de la bonne religion qui en aurait besoin, à condition qu'il porte la ceinture. Les manuscrits utilisent hamâ pour hamâ.
 

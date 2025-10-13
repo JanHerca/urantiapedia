@@ -218,9 +218,9 @@ Quant aux bienfaits généraux du zarathustrianisme dans le passé, quelques ré
 
 [^28]: xl:1 Geldner a bien mentionné les « Études Iraniennes » de Darmesteter (KZ. vol. xxviii, p. 186), qui ont fait date. Il faut espérer que ces brillantes pièces stimuleront l'étude des relations entre le Zend et le Nouveau Persan, à travers le Persan ancien et le Pahlavi.
 
-[^29] : xli : 1 Eranisches Alterthumskunde III, art. 767.
+[^29]: xli : 1 Eranisches Alterthumskunde III, art. 767.
 
-[^30] : xli:2 Voir Hübschmann. KZ. bd. 24, art. 326.
+[^30]: xli:2 Voir Hübschmann. KZ. bd. 24, art. 326.
 
 [^31]: xliii:1 L'un des hommages les plus puissants jamais rendus aux traducteurs pahlavi fut la conversion de Haug à eux. Avant de les étudier, il ne perdit aucune occasion de stigmatiser leurs déficiences ; plus tard, cependant, il les suivit dans de nombreux endroits importants, et parfois avec peu de réserve.
 

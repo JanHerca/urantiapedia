@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (265 : 3) Voir Mkh. XXVII, 70 n, Sls. XII, 32.
+[^1]: (265 : 3) Voir Mkh. XXVII, 70 n, Sls. XII, 32.
 
 [^2]: (265:4) Formule de louange à la justice, qui commence par ces deux mots de l'Avesta, et qui est en usage constant (voir Bd. XX, 2).
 

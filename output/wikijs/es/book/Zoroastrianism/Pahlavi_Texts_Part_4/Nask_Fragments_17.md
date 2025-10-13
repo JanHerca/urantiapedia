@@ -48,7 +48,7 @@ Dk. VIII, Cap. XXXV, 2, probablemente se refiere al pasaje que contenía la decl
 
 Dk. VIII, Cap. XXXVI, 7, o 13, probablemente se refiere al pasaje mencionado en Dd. LXI, 3:—'Los detalles más precisos de la tutela familiar que es apropiada _y_ que no es apropiada para el deber de un hijo adoptivo, del niño de buena religión con cuyo negocio _está_ conectado, _y_ de los padres para quienes se debe nombrar un tutor familiar, están _en_ ​​el relato de cinco fargar<i>d</i>s [^4] del Hûspâram.'
 
-Dk. VIII, Cap. XXXVI, 8-12, probablemente se refiere al pasaje que contenía la declaración citada en Sls. X, 21, XII, 14:—'En el decimocuarto [^5] <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> del Hûspâram Nask los sumos sacerdotes _han_ enseñado así: “Mi hijo es adecuado incluso _como_ tu hijo, _pero_ mi hija no es adecuada incluso _como_ tu hija.”'
+Dk. VIII, Cap. XXXVI, 8-12, probablemente se refiere al pasaje que contenía la declaración citada en Sls. X, 21, XII, 14:—'En el decimocuarto [^5] <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> del Hûspâram Nask los sumos sacerdotes _han_ enseñado así: «Mi hijo es adecuado incluso _como_ tu hijo, _pero_ mi hija no es adecuada incluso _como_ tu hija.»'
 
 No se ha observado ninguna alusión en Dk. VIII, Caps. XXVIII-XXXVII, a los dos pasajes en Pahl. Vend. IV, 35, V, 73, referentes a este Nask, que ya han sido citados como referentes también a Nask XV.
 

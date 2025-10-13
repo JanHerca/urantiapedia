@@ -68,6 +68,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (292:2) B29 a « la nécessité de verser ».
 
-[^3] : (292 : 3) Voir Mkh. XXVII, 70 n.
+[^3]: (292 : 3) Voir Mkh. XXVII, 70 n.
 
 [^4]: (292:4) Lp, B29 omet ces sept mots. La récitation et la lumière sont censées effrayer les démons.

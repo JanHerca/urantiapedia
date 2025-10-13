@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+## DÎNKA<i>R</i><i>D</i>.—LIVRE IX. CHAPITRE XXVI.
 
+_Var<i>s</i>tmânsar Nask_.
+
+1\. Le troisième fargard<i>d</i>, A she m-vohû [^1], concerne l'exhortation à louer la droiture, qui est elle-même la production d'une véritable crainte respectueuse d'Aûha<i>r</i>ma<i>z</i><i>d</i>, la perfection des existences, le meilleur état des prières [^2], et le plus grand assemblage de droiture, de bonne éducation, d'humilité (avŏpatagîh), de crainte respectueuse de l'existence spirituelle, d'une joie extrême, et du réconfort et de l'illumination de l'âme. 2. _Aussi_ l'équipement (pa<i>d</i>mûkîh) de celui qui exerce la profession de grand prêtre est la droiture et le maintien du culte _et_ de l'obéissance à l'esprit de droiture.
+
+3\. La justice est parfaite par excellence.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,9 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (232:2) Voir Chap. III, 1 n.
+
+[^2]: (233:1) K omet « des prières ».

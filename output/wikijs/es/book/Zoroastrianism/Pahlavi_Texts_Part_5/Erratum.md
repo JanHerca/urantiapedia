@@ -31,7 +31,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 <span id="p182"><sup><small>[ pág. 182 ]</small></sup></span>
 
-P. [20](/es/book/Zoroastrismo/Textos_Pahlavi_Parte_5/Dinkard_7_2#p20), ll. 4. El nombre del distrito de Alâk probablemente debería leerse Arâk, ya que la provincia se llama Râgh en Zs. XVI, 13.
+P. [20](/es/book/Zoroastrismo/Pahlavi_Texts_Part_5/Dinkard_7_2#p20), ll. 4. El nombre del distrito de Alâk probablemente debería leerse Arâk, ya que la provincia se llama Râgh en Zs. XVI, 13.
 
 
 <figure class="table chapter-navigator">

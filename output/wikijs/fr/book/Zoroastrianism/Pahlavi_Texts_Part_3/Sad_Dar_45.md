@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE XLV.
 
-1. Le quarante-cinquième sujet est le suivant : il est continuellement nécessaire que les gens se souviennent de l’accomplissement du repentir (taûbat). 2. Chaque fois qu’un péché échappe à tout contrôle, il est nécessaire d’agir pour qu’ils se présentent devant les prêtres, les grands prêtres et les chefs spirituels et accomplissent le repentir.
+1\. Le quarante-cinquième sujet est le suivant : il est continuellement nécessaire que les gens se souviennent de l’accomplissement du repentir (taûbat). 2. Chaque fois qu’un péché échappe à tout contrôle, il est nécessaire d’agir pour qu’ils se présentent devant les prêtres, les grands prêtres et les chefs spirituels et accomplissent le repentir.
 
 3\. Et [^1] la bonne œuvre doit être conforme au péché, comme si elle était due à l'occasion où ils l'accomplissent. 4. Tant que l'humanité vit, elle devient chaque année un bienfait supplémentaire. 5. Le péché aussi, de la même manière, s'aggrave chaque année ; et lorsqu'ils accomplissent la repentance, afin qu'elle ne s'aggrave plus, il est comme un arbre qui se dessèche et dont ils arrachent toute croissance.
 

@@ -90,7 +90,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^7]: (41:1) C'est-à-dire qu'il est préférable d'adopter la manière habituelle d'enlever le cadavre.
 
-[^8] : (41:2) Voir Vend. VI, 93-97.
+[^8]: (41:2) Voir Vend. VI, 93-97.
 
 [^9]: (41:3) Ceci n'est ordonné que lorsque le cadavre n'est placé dans aucune enceinte.
 
@@ -98,7 +98,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^11]: (42:1) La chaleur vitale, ou feu Vohu-fryãn (voir Bd. XVII, 1, 2).
 
-[^12] : (42:2) Lecture de gîl-valî<i>g</i>îh (comparez Pers. kalî<i>k</i>, 'sédiment', ou galîz, 'salive').
+[^12]: (42:2) Lecture de gîl-valî<i>g</i>îh (comparez Pers. kalî<i>k</i>, 'sédiment', ou galîz, 'salive').
 
 [^13]: (42:3) Qu'ils ont absorbé par contact avec la matière morte.
 

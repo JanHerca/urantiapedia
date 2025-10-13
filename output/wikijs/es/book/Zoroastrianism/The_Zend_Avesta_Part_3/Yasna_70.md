@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ---
 
-6. Alabamos la inundación y el reflujo de las buenas aguas, y su rugido, y al excelso Ahura, el regio Apãm-napâ<i>t</i>, el resplandeciente, de los caballos veloces; y esto por el sacrificio, homenaje, propiciación y alabanza de toda la sagrada creación; y que Sraosha (Obediencia) esté aquí (para ayudarnos). 7. (Sí), sacrificamos a Sraosha, la Obediencia la bendita [^1364].
+6\. Alabamos la inundación y el reflujo de las buenas aguas, y su rugido, y al excelso Ahura, el regio Apãm-napâ<i>t</i>, el resplandeciente, de los caballos veloces; y esto por el sacrificio, homenaje, propiciación y alabanza de toda la sagrada creación; y que Sraosha (Obediencia) esté aquí (para ayudarnos). 7. (Sí), sacrificamos a Sraosha, la Obediencia la bendita [^1364].
 
 
 

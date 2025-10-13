@@ -94,9 +94,9 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^7]: (170:3) La Av. aokhtô-nâmana yasna de Tî<i>s</i>tar Yt. II, 23; 24.
 
-[^8]: (171:1) O quizás 'hizo llover la nube', si madam vârânînî<i>d</i> representa a<i>v</i>ar vârânînî<i>d</i>.
+[^8]: (171:1) O quizás «hizo llover la nube», si madam vârânînî<i>d</i> representa a<i>v</i>ar vârânînî<i>d</i>.
 
-[^9]: (171:2) Leyendo partâ<i>v</i> en lugar del MS. patûtâ<i>v</i>, 'furia poderosa'.
+[^9]: (171:2) Leyendo partâ<i>v</i> en lugar del MS. patûtâ<i>v</i>, «furia poderosa».
 
 [^10]: (171:3) Esta es una variante del <i>S</i>ahî-bûn o <i>G</i>âhî-bûn del Bund. XIII, 7, 15; los otros dos nombres difieren poco de los que aparecen en el Bund. XIII. En el manuscrito, Pûîtîk aparece una vez y Puîtîk dos veces.
 
@@ -106,7 +106,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^13]: (172:1) Esta es una teoría de las mareas aún más mecánica que la detallada en Bund. XIII, 13. No está claro si las «colas curvas» (ga<i>g</i>ak dunbak) son los «cuernos» de la luna creciente.
 
-[^14]: (172:2) Por una transposición accidental de letras el manuscrito tiene âtarô, 'fuego', en lugar de vâtô, 'viento'.
+[^14]: (172:2) Por una transposición accidental de letras el manuscrito tiene âtarô, «fuego», en lugar de vâtô, «viento».
 
 [^15]: (172:3) El océano y los tres mares principales.
 

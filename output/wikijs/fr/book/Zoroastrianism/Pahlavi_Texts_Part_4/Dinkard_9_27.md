@@ -32,7 +32,15 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+## DÎNKA<i>R</i><i>D</i>.—LIVRE IX. CHAPITRE XXVII.
 
+_Var<i>s</i>tmânsar Nask_.
+
+1\. Le quatrième fargar<i>d</i>, YêNhê-hâtãm [^1], _déclare_ qu'Aûha<i>r</i>ma<i>z</i><i>d</i> a parlé à Zaratû<i>s</i>t le Spîtâmân ainsi : « Prononce les paroles du cérémonial et de l'obéissance _pour_ nous qui sommes Aûha<i>r</i>ma<i>z</i><i>d</i> _et_ [^2] les archanges, car ils sont, ô Zaratû<i>s</i>t ! ton rituel _pour_ l'eau [^3], rituel _pour_ les plantes, rituel _pour_ un esprit gardien des justes, et rituel _pour_ un ange d'une _existence spirituelle, ou_ qui est même désigné pour une _existence_ terrestre. »
+
+2\. Et Zaratû<i>s</i>t parla ainsi : « Je prononcerai les paroles d'Aûha<i>r</i>ma<i>z</i><i>d</i>, qui sont opposées au mal <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> _et sont_ l'ordonnance d'Aûha<i>r</i>ma<i>z</i><i>d</i>, celles du cérémonial et de l'obéissance _pour_ vous qui êtes des archanges. »
+
+3\. La justice est parfaite par excellence.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +65,11 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (233:2) Voir Chap. IV, 1 n. Les textes cités dans ce fargard<i>d</i> ne semblent plus exister.
+
+[^2]: (233:3) B omet 'Aûha<i>r</i>ma<i>z</i><i>d</i> _and_.'
+
+[^3]: (233:4) K omet « rituel _pour_ l'eau ».

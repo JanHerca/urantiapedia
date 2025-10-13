@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 6\. Y mientras uno no reverencie al sol, las buenas obras que realiza ese día no son suyas; algunos dicen que no le corresponde participar de las buenas obras que realiza dentro de la ley (dâ<i>d</i>) de la buena religión. 7. Mientras no se laven las manos sucias, ninguna buena obra que realicen es suya, pues mientras uno no destruya por completo la corrupción (nasû<i>s</i>) [^8], los ángeles no acuden a su cuerpo, y cuando no acuden los ángeles a su cuerpo, no tiene firmeza en la religión, y cuando no tiene firmeza en la religión, ninguna buena obra le alcanza.
 
-8\. Cuando _uno_ desea realizar la propiciación (shnûman) [^9] del fuego, es permisible realizar un 'âthrô' por sí solo, y, cuando dos _y_ el 'ma<i>d</i> vîspaêibyô âterebyô', estos tres son así la propiciación en todas partes [^10]; algunos dicen que sería apropiado realizarlo _mientras esté permitido_, excepto los heterodoxos.
+8\. Cuando _uno_ desea realizar la propiciación (shnûman) [^9] del fuego, es permisible realizar un «âthrô» por sí solo, y, cuando dos _y_ el «ma<i>d</i> vîspaêibyô âterebyô», estos tres son así la propiciación en todas partes [^10]; algunos dicen que sería apropiado realizarlo _mientras esté permitido_, excepto los heterodoxos.
 
 <span id="p300"><sup><small>[ pág. 300 ]</small></sup></span>
 
@@ -74,13 +74,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## Notas al pie
 
-[^1]: (297:3) Refiriéndose a la recitación del Khûrshêd Nyâyi<i>s</i>, o 'saludo al sol', que debe realizarse tres veces al día, en los Gâhs Hâvan, Rapîtvîn y Aûzêrîn, o períodos del día (ver pág. 298 Bund. XXV, 9); unas pocas frases en los Nyâyi<i>s</i>, o fórmula de saludo, se alteran para adaptarse al Gâh particular en el que se recita.
+[^1]: (297:3) Refiriéndose a la recitación del Khûrshêd Nyâyi<i>s</i>, o «saludo al sol», que debe realizarse tres veces al día, en los Gâhs Hâvan, Rapîtvîn y Aûzêrîn, o períodos del día (ver pág. 298 Bund. XXV, 9); unas pocas frases en los Nyâyi<i>s</i>, o fórmula de saludo, se alteran para adaptarse al Gâh particular en el que se recita.
 
 [^2]: (298:1) K20 tiene «lo protegerá»; habiendo leído netrûnê<i>d</i> en lugar de ketrûnê<i>d</i> en su original. Rezar con las manos sin lavar sería pecado (véase Pahl. Vend. XIX, 84).
 
 [^3]: (298:2) Esto es, excepto cuando la omisión es para evitar un mal peor, como en el caso recién mencionado.
 
-[^4]: (298:3) O, quizás, 'no se convierte en un Khûrshê<i>d</i> Ya<i>s</i>t (“una fórmula de alabanza en honor al sol”) _para_ él'. Este Ya<i>s</i>t forma parte del Nyâyi<i>s</i>.
+[^4]: (298:3) O, quizás, «no se convierte en un Khûrshê<i>d</i> Ya<i>s</i>t («una fórmula de alabanza en honor al sol») _para_ él». Este Ya<i>s</i>t forma parte del Nyâyi<i>s</i>.
 
 [^5]: (298:4) Es decir, un pecado de Aredûs (véase Cap. I, 2). M6 dice: «cuando no lo reverencia de nuevo».
 
@@ -92,8 +92,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^9]: (299:2) Un shnûman o khshnûmanŏ (av. khshnûman) es una fórmula breve de alabanza, que recita todos los títulos habituales del espíritu que se pretende propiciar, y se utiliza para dedicar las oraciones o ceremonias especialmente a su servicio (véanse los caps. III, 35, X, 2, XIV, 3). Las fórmulas propiciatorias para los treinta ángeles y arcángeles que presiden los días del mes constituyen el Sîrôzah, o forma de oración relativa a los treinta días.
 
-[^10]: (299:3) La propiciación del fuego (como se da en Sîrôz. I, 9, Âtâ<i>s</i> Nyâyi<i>s</i> 5, 6) consta de cinco oraciones, cada una comenzando con la palabra âthrô, 'del fuego', y la última oración también contiene las palabras ma<i>d</i> vîspaêibyô âterebyô, 'con todos los fuegos'. El significado del texto parece ser que es permisible usar solo una de estas oraciones (probablemente la última), pero si se usan dos además del ayuno son ampliamente suficientes para fines prácticos.
+[^10]: (299:3) La propiciación del fuego (como se da en Sîrôz. I, 9, Âtâ<i>s</i> Nyâyi<i>s</i> 5, 6) consta de cinco oraciones, cada una comenzando con la palabra âthrô, «del fuego», y la última oración también contiene las palabras ma<i>d</i> vîspaêibyô âterebyô, «con todos los fuegos». El significado del texto parece ser que es permisible usar solo una de estas oraciones (probablemente la última), pero si se usan dos además del ayuno son ampliamente suficientes para fines prácticos.
 
-[^11]: (300:1) Literalmente, 'matar'.
+[^11]: (300:1) Literalmente, «matar».
 
 [^12]: (300:2) La hormiga es una criatura del espíritu maligno, debido a que se lleva el maíz.

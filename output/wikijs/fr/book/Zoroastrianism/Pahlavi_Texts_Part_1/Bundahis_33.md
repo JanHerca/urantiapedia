@@ -36,13 +36,13 @@ dateCreated: 2025-10-10T14:56:40Z
 
 ## BUNDAHI<i>S</i>. XXXIII [^1].
 
-0\. La famille des Môbads ('prêtres').
+0\. La famille des Môbads (« prêtres »).
 
 1\. Bahak [^2] _était_ fils de Hûbakht, _fils_ d'Âtarô-bôndak, _fils_ de Mâhda<i>d</i>, _fils_ de Mê<i>d</i>yôk-mâh, _fils_ de Frâh-vakhsh-vindâ<i>d</i> [^3], _fils_ de Mê<i>d</i>yôk-mâh, _fils_ de Kâ<i>d</i> [^4], _fils_ de Mê<i>d</i>yôk-mâh, _fils_ d'Ârâstih, _fils_ de Paîtirâsp [^5]. 2. De même que Bahak était le Môbad des Môbads (grand prêtre) de Shâhpûhar [^6], fils d'Aûharmazd, de même Kâ<i>d</i> était le grand précepteur (farmâ<i>d</i>âr) de Dârâî [^7].
 
-3\. Âtarô-pâ<i>d</i> [^8] _était fils_ de Mâraspend, fils de Dâ<i>d</i>ar<i>d</i>â, _fils_ de Dâ<i>d</i>írâ<i>d</i>, _fils_ de Hûdînô, _tarod_ de<i>drôd_ d'Âraspend Mânû<i>s</i><i>k</i>îhar, _fils_ de Vohûman-<i>k</i>îhar, _fils_ de Fryânô [^9], _fils_ de Bâhak [^10], _fils_ de Frê<i>d</i>ûn, _sma_= de Frê<i>d</i>ûn, _sma=<s.6" <p1 ipan 146 ]</small></sup></span> Frashâîtar [^11], _fils_ de Pôrûshasp, _fils_ de Vînâsp, _fils_ de Nivar, _fils_ de Vakhsh, _fils_ de Vahidhrôs, _fils_ de Fra<i>s</i>2, _^fils_2] de Vakhsh, _fils_ de Fryân, _fils_ de Ra<i>g</i>an, _fils_ de Dûrâsrôb, _fils_ de Mânû<i>s</i><i>k</i>îhar [^13].
+3\. Âtarô-pâ<i>d</i> [^8] _était fils_ de Mâraspend, fils de Dâ<i>d</i>ar<i>d</i>â, _fils_ de Dâ<i>d</i>írâ<i>d</i>, _fils_ de Hûdînô, _tarod_ de<i>drôd_ d'Âraspend Mânû<i>s</i><i>k</i>îhar, _fils_ de Vohûman-<i>k</i>îhar, _fils_ de Fryânô [^9], _fils_ de Bâhak [^10], _fils_ de Frê<i>d</i>ûn, _sma_= de Frê<i>d</i>ûn, <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> Frashâîtar [^11], _fils_ de Pôrûshasp, _fils_ de Vînâsp, _fils_ de Nivar, _fils_ de Vakhsh, _fils_ de Vahidhrôs, _fils_ de Fra<i>s</i>t, _fils_ de Gâk [^12], _fils_ de Vakhsh, _fils_ de Fryân, _fils_ de Ra<i>g</i>an, _fils_ de Dûrâsrôb, _fils_ de Mânû<i>s</i><i>k</i>îhar [^13].
 
-4\. Mitre-vara<i>z</i> était _fils_ de Nîgàs-afzû<i>d</i>\-dâk, _fils_ de Shîrtashôsp, _fils_ de Par<i>s</i>tva, _fils_ d'Urva<i>d</i>\-gà, _fils_ de_ fils de Tâham Durashrob, _sound_ de Manu<i>s</i> [^1 5. Dûrnâmîk _était fils_ de Zâgh, _fils_ de Ma<i>s</i>vāk, _fils_ de Nô<i>d</i>ar [^15], _fils_ de Mânû<i>s</i><i>k</i>har.
+4\. Mitre-vara<i>z</i> était _fils_ de Nîgàs-afzû<i>d</i>\-dâk, _fils_ de Shîrtashôsp, _fils_ de Par<i>s</i>tva, _fils_ d'Urva<i>d</i>\-gà, _fils_ de_ fils de Tâham Durashrob, _sound_ de Manu<i>s</i> [^14] 5. Dûrnâmîk _était fils_ de Zâgh, _fils_ de Ma<i>s</i>vāk, _fils_ de Nô<i>d</i>ar [^15], _fils_ de Mânû<i>s</i><i>k</i>har.
 
 6\. Mitrô-akâvî<i>d</i> _est fils_ de Mar<i>d</i>ân-vêh [^16], _fils_ d'Afrôbag-vindâ<i>d</i>, _fils_ de Vindâ<i>d</i>\-i-pê<i>d</i>âk, _fils_ de Vâê-bûkht [^17], _fils_ de Bahak, _fils_ de Vâê-bûkht. 7. La mère dont je suis né est Hûmâî, fille de Freh-mâh, qui _était_ aussi les filles justes [^18] <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> de Mâh-ayâr _fils_ de Mâh-bôndak, _fils_ de Mâh-bûkht. 8. Pûyi<i>s</i>n-shâ<i>d</i> _est fils_ de Mar<i>d</i>ân-vêh, _fils_ d'Afrôbag-vindâ<i>d</i>, _fils_ de Vindâ<i>d</i>\-i-pê<i>d</i>âk, _fils_ de Vâê-bûkht, _fils_ de Bahak, _fils_ de Vâê-bûkht.
 
@@ -80,9 +80,9 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^2]: (145:2) Ici écrit Bôhak, mais c'est Bahak ou Bâk dans le § 2 ; comparer Bâhak dans le § 3, et Av. B<i>a</i>ungha de Fravardîn Yt. 124.
 
-[^3] : (145:3) Comparez Av. Frashâvakhsha de Fravardîn Yt. 109.
+[^3]: (145:3) Comparez Av. Frashâvakhsha de Fravardîn Yt. 109.
 
-[^4] : (145:4) Comparez Av. Kâta de Fravardîn Yt. 124.
+[^4]: (145:4) Comparez Av. Kâta de Fravardîn Yt. 124.
 
 [^5]: (145:5) Voir Chap. XXXII, 2, pour les trois dernières générations ; TD a Pîrtarâsp ici, comme la variante de M6 au Chap. XXXII, 1.
 
@@ -92,7 +92,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^8]: (145:8) Ce prêtre était premier ministre de Shâpûr II.
 
-[^9] : (145:9) Comparez Av. Fryâna de Yas. XLV, 12.
+[^9]: (145:9) Comparez Av. Fryâna de Yas. XLV, 12.
 
 [^10]: (145:10) Ce nom est répété dans TD, probablement par erreur (comparer Bahak dans §§ 1, 2).
 
@@ -108,9 +108,9 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^16]: (146:6) Ici écrit Mar<i>d</i>\-vêh, mais voir § 8.
 
-[^17] : (146 :7) Ici écrit Aê-vûkht, mais voir § 8 ; ce peut être Vîs-bûkht, ou Vê<i>s</i>\-bûkht.
+[^17]: (146 :7) Ici écrit Aê-vûkht, mais voir § 8 ; ce peut être Vîs-bûkht, ou Vê<i>s</i>\-bûkht.
 
-[^18]: (146:8) Le texte est amî<i>d</i>ar mûna<i>s</i> li a<i>g</i>a<i>s</i> zerkhûn<i>d</i> Hûmôî dûkht-i Freh-mâh-i<i>k</i> aharôb vûkht (dûkht?). On pourrait peut-être lire 'Freh-mâh _fils_ de <i>K</i>ahârôb-bûkht', mais il semble plus probable que les §§ 7, 8 soient liés, et que le sens voulu soit que Hûmâî était fille de Freh-mâh (d'une certaine famille) et de Pûyi<i>s</i>n-shâ<i>d</i> (d'une autre famille) ; Elle était aussi la mère de l'éditeur de cette recension des Bundahi<i>s</i> contenue dans TD ; mais qui était son père ? La répétition singulièrement inutile de la généalogie des deux frères, Mitrô-akâvî<i>d</i> et Pûyi<i>s</i>n-shâ<i>d</i>, aux §§ 6 et 8, laisse supposer que si ce dernier était le père de sa mère, le premier était probablement son propre père ou grand-père. Malheureusement, le texte ne fait aucune déclaration claire à ce sujet, et le § 10 fournit des éléments supplémentaires permettant de deviner autrement son nom et ses relations.
+[^18]: (146:8) Le texte est amî<i>d</i>ar mûna<i>s</i> li a<i>g</i>a<i>s</i> zerkhûn<i>d</i> Hûmôî dûkht-i Freh-mâh-i<i>k</i> aharôb vûkht (dûkht?). On pourrait peut-être lire « Freh-mâh _fils_ de <i>K</i>ahârôb-bûkht », mais il semble plus probable que les §§ 7, 8 soient liés, et que le sens voulu soit que Hûmâî était fille de Freh-mâh (d'une certaine famille) et de Pûyi<i>s</i>n-shâ<i>d</i> (d'une autre famille) ; Elle était aussi la mère de l'éditeur de cette recension des Bundahi<i>s</i> contenue dans TD ; mais qui était son père ? La répétition singulièrement inutile de la généalogie des deux frères, Mitrô-akâvî<i>d</i> et Pûyi<i>s</i>n-shâ<i>d</i>, aux §§ 6 et 8, laisse supposer que si ce dernier était le père de sa mère, le premier était probablement son propre père ou grand-père. Malheureusement, le texte ne fait aucune déclaration claire à ce sujet, et le § 10 fournit des éléments supplémentaires permettant de deviner autrement son nom et ses relations.
 
 [^19]: (147:1) Comparez le chapitre XXXII, 4.
 

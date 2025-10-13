@@ -40,7 +40,7 @@ Del breve relato de este Nask, que aparece en Dk. VIII, Cap. V, se desprende que
 
 Debido al carácter breve del relato en Dk. VIII, Cap. V, es imposible rastrear ninguna alusión a dos pasajes citados del [Dâmdâ<i>d</i>](errata_htm.html) como sigue:
 
-En Sls. X, 22, XII, 15, se dice que 'en el Dâmdâ<i>d</i> _se revela así: “Asimismo, también, las buenas obras, _en_ ​​igual medida (_o_ manera), que llegan a posesión del padre (_o al padre como propias).”'
+En Sls. X, 22, XII, 15, se dice que 'en el Dâmdâ<i>d</i> _se revela así: «Asimismo, también, las buenas obras, _en_ ​​igual medida (_o_ manera), que llegan a posesión del padre (_o al padre como propias).»'
 
 En Sls. XII, 5, se dice que 'en el Dâmdâ<i>d</i> _se revela_ que cuando cortan la conciencia de los hombres, esta sale al fuego más cercano, luego a las estrellas, luego a la luna y luego al sol; <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> y _es necesario que el fuego más cercano, aquel al que _ha_ convergido, _se haga más fuerte.'
 

@@ -78,7 +78,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (146:3) Paz. vyâwãnî (voir Chap. III, 22 n).
+[^1]: (146:3) Paz. vyâwãnî (voir Chap. III, 22 n).
 
 [^2]: (146:4) Sans. digambara fait référence à ce terme pour les ascètes bouddhistes, l'approche la plus proche des athées que Nêr. connaissait.
 
@@ -96,7 +96,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^9]: (147:4) En supposant que Pâz. vas soit une mauvaise lecture de Pahl. varas. Nêr. a Sans. rasa, 'sécrétion liquide'.
 
-[^10] : (147 : 5) En supposant que Pâz. daryam (Sans. nish_th_â) signifie Pahl. dar-î dum.
+[^10]: (147 : 5) En supposant que Pâz. daryam (Sans. nish_th_â) signifie Pahl. dar-î dum.
 
 [^11]: (147:6) Littéralement « colonnes ».
 
@@ -110,6 +110,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^16]: (149:2) En supposant que Pâz. <i>h</i><i>v</i>a<i>s</i>tâw u vada<i>n</i>g est une mauvaise lecture de Pahl. aû<i>s</i>ta<i>v</i>ŏ va tang.
 
-[^17] : (149 : 3) Pâz. suwastaî (Sans. suvastâyîka) est évidemment attribuable à σοφιστικός via Pers. sûfis<i>t</i>âiyah.
+[^17]: (149 : 3) Pâz. suwastaî (Sans. suvastâyîka) est évidemment attribuable à σοφιστικός via Pers. sûfis<i>t</i>âiyah.
 
 [^18]: (149:4) Pâz. tahal (Sans. ka<i>t</i>uka) est transposé en persan tal'<i>h</i>, 'amer', sens dans lequel le mot est utilisé dans les §§ 38, 39 et chap. III, 24.

@@ -46,7 +46,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 34\. 'Quien es falso es tan dudoso en lo bueno como en lo malo; (35) duda del tesoro de las existencias espirituales y mundanas, y también del ceremonial, la invocación y el servicio de los seres sagrados. 36. Y, debido a estas circunstancias, los ángeles y arcángeles aceptarán poco del ceremonial y las invocaciones que realiza, (37) y le darán también poco de la ganancia que busca. 38. Y en boca del hombre bueno, siempre es infame, (39) y su alma se vuelve perversa.
 
-40. Los amigos del arrogante son pocos, y sus enemigos muchos. 41. Incluso de los regalos que ofrece a alguien, y también del ceremonial que realiza para los seres sagrados, estos aceptarán poco, debido a su arrogancia, (42) y darán poco de la ganancia que busca. 43. Y en el infierno lo entregan al demonio de la arrogancia para infligir castigo a su alma; (44) y el demonio de la arrogancia le inflige diversos castigos, y no se apacigua.
+40\. Los amigos del arrogante son pocos, y sus enemigos muchos. 41. Incluso de los regalos que ofrece a alguien, y también del ceremonial que realiza para los seres sagrados, estos aceptarán poco, debido a su arrogancia, (42) y darán poco de la ganancia que busca. 43. Y en el infierno lo entregan al demonio de la arrogancia para infligir castigo a su alma; (44) y el demonio de la arrogancia le inflige diversos castigos, y no se apacigua.
 
 
 <figure class="table chapter-navigator">

@@ -52,7 +52,7 @@ Des temps meilleurs semblent arrivés. La vengeance promise avec tant d'assuranc
 
 13\. Avec une spiritualité encore plus profonde que son collègue sémitique, il demande, non pas de voir la personne de Dieu, mais sa nature, et surtout de pouvoir comprendre et saisir ce qu'implique la souveraineté de Dieu avec ses « récompenses bénies ». Et il demande à la Piété, d'abord acquise, pratiquée, puis parlant en lui, de lui révéler la Gnose, la Vision, c'est-à-dire la Religion.
 
-14. Après le langage fervent des versets précédents, nous pouvons accepter le verset 14 comme une suite légitime. Son « Zarathoustra » pourrait signifier « je », tout comme « David » est utilisé par le Psalmiste pour « moi ». Et ce langage ne peut signifier autre chose que la consécration de tout ce qu'il est et possède à Dieu : sa chair, son corps, son éminence religieuse, l'obéissance qu'il offre en paroles et en actes, inspirée par la Justice, et le Royaume qu'il a réussi à sauver et à bénir. (Je ne pense pas avoir exagéré la portée et la ferveur de cette section. On ne saurait en dire moins, si l'on accorde aux mots leur poids naturel.)
+14\. Après le langage fervent des versets précédents, nous pouvons accepter le verset 14 comme une suite légitime. Son « Zarathoustra » pourrait signifier « je », tout comme « David » est utilisé par le Psalmiste pour « moi ». Et ce langage ne peut signifier autre chose que la consécration de tout ce qu'il est et possède à Dieu : sa chair, son corps, son éminence religieuse, l'obéissance qu'il offre en paroles et en actes, inspirée par la Justice, et le Royaume qu'il a réussi à sauver et à bénir. (Je ne pense pas avoir exagéré la portée et la ferveur de cette section. On ne saurait en dire moins, si l'on accorde aux mots leur poids naturel.)
 
 <span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
@@ -110,7 +110,7 @@ Traduction.
 
 [^357]: 72:3 Ainsi des Pahl.; et ainsi aussi Roth (ZDMG, vol. xxxvii. 5, 223) prenant mithahyâ comme nom. pl. (comp. va<i>k</i>ahya). Mais je suis fortement enclin à une première opinion personnelle. Yêhyâ-mithahyâ ressemblent irrésistiblement à deux génitifs. Je rendrais comme une alternative emphatique « quelle fraude il peut saisir (h<i>e</i>myâsaitê avec le gén.), portée (de l'un), et quelles (semblent) lui être les bonnes actions (de l'autre). » Mais si Roth et les Pahlavi ont raison, nous avons ici l'origine des hamêstagã ultérieurs, les âmes dans le lieu intermédiaire entre le Ciel et l'Enfer, dont les péchés et les bonnes œuvres ont été égaux (West, Gloss. de M. î K.). Le manuscrit persan de Haug 12 b. a : Kih i<i>k</i> (pro ham) û <i>i</i> ân ham rasîd êstêd ân i durû<i>gh</i>, kih i<i>k</i> (jambon) û ân <i>i</i> 'hâli<i>s</i> \[kû, hamêstân\].
 
-[^358] : 72:4 Ainsi, le Pahlavi indique également : Val valman î <i>s</i>apîr—<i>k</i>âshi<i>s</i>n. Ner. uttamasya vâ âsvâdayanti dehina<i>h</i>.
+[^358]: 72:4 Ainsi, le Pahlavi indique également : Val valman î <i>s</i>apîr—<i>k</i>âshi<i>s</i>n. Ner. uttamasya vâ âsvâdayanti dehina<i>h</i>.
 
 [^359]: 72:5 Littéralement, « ils offrent un cadeau à leur propre choix » (var = varena ; comp. yâvarenâ).
 

@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. L'esprit de sagesse répondit (8) ainsi : « Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur, est le plus indulgent. 9. Il a vu [^3] les neuf mille ans de méfait [^4] parmi ses propres créatures, à cause d'Aharman, mais ensuite, par justice et par pardon, il ne le frappe pas pour cela [^5].
 
-10. « Et la sphère céleste est d'autant plus forte. 11. L'intellect [^6] de l'humanité est plus rapide. 12. Les âmes des justes sont plus heureuses. 13. _Et_ celles des méchants sont plus pénitentes [^7]. »
+10\. « Et la sphère céleste est d'autant plus forte. 11. L'intellect [^6] de l'humanité est plus rapide. 12. Les âmes des justes sont plus heureuses. 13. _Et_ celles des méchants sont plus pénitentes [^7]. »
 
 <figure class="table chapter-navigator">
   <table>

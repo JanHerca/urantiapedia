@@ -36,11 +36,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 0\. Sur la race et la généalogie des Kayâns.
 
-1\. Hôshyang [^2] _était fils_ de Fravâk, _fils_ de Sîyâkmak [^3], _fils_ de Mâshya [^4], _fils_ de Gâyômar<i>d</i>. \[2. Takhmôrup [^5] _était fils_ de Vîvanghâû [^6], _fils_ de Yangha<i>d</i> [^7], _fils_ de Hôshyang. 3. Yim,\] [^8] Takhmôrup, Spîtûr [^9], _et_ Narsih [^10], qu'ils appellent aussi 'le Rashnû de <i>K</i>înŏ [^11],'
+1\. Hôshyang [^2] _était fils_ de Fravâk, _fils_ de Sîyâkmak [^3], _fils_ de Mâshya [^4], _fils_ de Gâyômar<i>d</i>. \[2. Takhmôrup [^5] _était fils_ de Vîvanghâû [^6], _fils_ de Yangha<i>d</i> [^7], _fils_ de Hôshyang. 3. Yim,\] [^8] Takhmôrup, Spîtûr [^9], _et_ Narsih [^10], qu'ils appellent aussi «le Rashnû de <i>K</i>înŏ [^11], »
 
 <span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
-4. De Yim et Yimak [^12], qui était sa sœur, naquit un couple, homme et femme, et ils devinrent mari et femme ensemble ; Mîrak l'Âspiyân [^13] et Zîyânak Zardâhim étaient leurs noms, et la lignée continua. 5. Spîtûr était celui qui, avec Dahâk, découpa Yim [^14] ; 3 ; Narsih [^15] vivait alors [^16] aussi, _qu'ils appellent Nêsr-gyâvân [^17] ; ils disent qu'un tel destin (gadman) lui est attribué [^18], qu'il passera chaque jour dans les troubles, et rendra toute nourriture purifiée et pure.
+4\. De Yim et Yimak [^12], qui était sa sœur, naquit un couple, homme et femme, et ils devinrent mari et femme ensemble ; Mîrak l'Âspiyân [^13] et Zîyânak Zardâhim étaient leurs noms, et la lignée continua. 5. Spîtûr était celui qui, avec Dahâk, découpa Yim [^14] ; 3 ; Narsih [^15] vivait alors [^16] aussi, _qu'ils appellent Nêsr-gyâvân [^17] ; ils disent qu'un tel destin (gadman) lui est attribué [^18], qu'il passera chaque jour dans les troubles, et rendra toute nourriture purifiée et pure.
 
 6\. Dahâk [^19] _était fils_ de Khrûtâsp, _fils_ de Zâînîgâv, <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> _fils_ de Viraf<i>s</i>ang, _fils_ de Tâ<i>z</i>, _fils_ de Fravâk, _fils_ de Sîyâkmak [^20]; par _sa_ mère Dahâk _était_ d'Udaî [^21], _fils_ de Bayak, _fils_ de Tambayak, _fils_ d'Owokhm [^22], _fils_ de Pairi-urvaêsm [^23], _fils_ de Gadhwithw [^24], _fils_ de Drû<i>g</i>âskân [^25], _fils_ du mauvais esprit.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 14\. De même que Mânû<i>s</i>k</i>îhar _était de_ Mânû<i>s</i>\-khûrnar, de Mânû<i>s</i>\-khûrnâk [^43], qui était Mâm-sozak [^44], d'Aîrak, de Thritak, de Bîtak, de Frazû<i>s</i>ak, de Zû<i>s</i>ak [^45], de Fragûzak, de Gûzak, d'Aîrî<i>k</i>, de Frê<i>d</i>ûn, _ainsi_ Frâsîyâ<i>v</i> [^46] _était_ <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> de Pashang, de Zaê<i>s</i>m [^47], de Tûrak, de Spaênyasp, de Dûrôshasp, de Tû<i>g</i>, de Frê<i>d</i>ûn. 15. Lui (Frâsîyâ<i>v</i>) ainsi que Karsêvaz [^48], qu'ils appellent Kadân [^49], _et_ Aghrêra<i>d</i> [^50] étaient tous trois frères.
 
-\[16 [^51]. Pashang et Vîsak étaient tous deux frères. 17. De Vîsak furent engendrés Pîrân [^52], Hûmân, <i>S</i>ân [^53] et d'autres frères. 18. De Frâsîyâ<i>v</i> furent engendrés Frasp-i Kûr, <i>S</i>ân, Shê<i>d</i>ak [^54] et d'autres fils ; _et_ Vispân-fryâ [^55], de qui Kaî-Khûsrôb est né, était fille de Frâsîyâ<i>v</i>, _et_ était de la même mère que Frasp-i Kûr. 19. De Frasp-i Kûr furent engendrés Sûrâk, Asûrîk et d'autres enfants ; _et_ par eux furent engendrés Khvâst-aîrikht, Yazdân-aîrikht, Yazdân-<i>s</i>arâ<i>d</i>, Frêh-khûr<i>d</i>, Lâ-vahâk [^56], et d'autres, dont le récit serait fastidieux.
+16\. [^51]. Pashang et Vîsak étaient tous deux frères. 17. De Vîsak furent engendrés Pîrân [^52], Hûmân, <i>S</i>ân [^53] et d'autres frères. 18. De Frâsîyâ<i>v</i> furent engendrés Frasp-i Kûr, <i>S</i>ân, Shê<i>d</i>ak [^54] et d'autres fils ; _et_ Vispân-fryâ [^55], de qui Kaî-Khûsrôb est né, était fille de Frâsîyâ<i>v</i>, _et_ était de la même mère que Frasp-i Kûr. 19. De Frasp-i Kûr furent engendrés Sûrâk, Asûrîk et d'autres enfants ; _et_ par eux furent engendrés Khvâst-aîrikht, Yazdân-aîrikht, Yazdân-<i>s</i>arâ<i>d</i>, Frêh-khûr<i>d</i>, Lâ-vahâk [^56], et d'autres, dont le récit serait fastidieux.
 
 20\. Par Aghrêra<i>d</i> _fut_ Gôpatshah [^57] engendré. 21. Lorsque Frâsîyâ<i>v</i> fit Mânû<i>s</i><i>k</i>îhar, avec les Iraniens, captif dans la chaîne de montagnes (gar) de <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Padashkh-vâr [^58], _et_ dispersa la ruine _et_ la misère parmi eux, Aghrêra<i>d</i> implora une faveur de Dieu (yazdân), et il obtint le bienfait que l'armée et les champions des Iraniens furent sauvés par lui de cette détresse. 22. Frâsîyâ<i>v</i> tua Aghrêra<i>d</i> pour cette faute ; _et_ Aghrêra<i>d</i>, en récompense, engendra un fils nommé Gôpatshah.
 
@@ -64,7 +64,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 30\. Artakhshatar _descendant_ de Pâpak—dont sa mère _était_ fille—_était fils_ de Sâsân [^74], _fils_ de <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> Vêh-âfrî<i>d</i> et [^75] Zarîr, _fils_ de Sâsân, _fils_ d'Artakhshatar qui _était_ ledit Vohûman _fils_ de Spend-dâ<i>d</i>.
 
-31\. La mère de Kaî-Apîvêh était Farhank [^76], _fille_ de _celui qui est_ exalté sur le chemin _céleste_ [^77], Urva<i>d</i>\-gâi-frâ<i>s</i>t [^78], _fils_ de Râk, _fils_ de Dûrâsrôb, _fils_ de Mânû<i>s</i><i>k</i>îhar. 32. Il est également dit que la gloire [^79] de Frê<i>d</i>ûn s'est posée sur la racine d'un roseau (kanyâ) dans le vaste océan ; _et_ Nôktargâ [^80], par sorcellerie, a formé une vache pour le labourage, _et_ en a engendré des _enfants_ ; Français trois ans il porta les roseaux là, _et_ les donna à la vache, jusqu'à ce que la gloire aille à la vache ; il amena la vache, traita _son_ lait, _et_ le donna à ses trois fils ; comme _leur_ marche _était sur_ les sabots, la gloire n'allait pas aux fils, mais à Farhank. 33. Nôktargâ voulut faire du mal [^81] à Farhank, _mais_ Farhank s'en alla avec la gloire _loin_ du <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> père féroce (tîb), et fit un vœu (patyastâk) ainsi : 'Je donnerai _mon_ premier fils à Aûshbâm [^82].' 34. Alors Aûshbâm la sauva du père ; et le premier fils, Kaî-Apîvêh, qu'elle porta et donna à Aûshbâm, fut un héros associé à Aûshbâm, et voyagea en compagnie d'Aûshbâm.
+31\. La mère de Kaî-Apîvêh était Farhank [^76], _fille_ de _celui qui est_ exalté sur le chemin _céleste_ [^77], Urva<i>d</i>\-gâi-frâ<i>s</i>t [^78], _fils_ de Râk, _fils_ de Dûrâsrôb, _fils_ de Mânû<i>s</i><i>k</i>îhar. 32. Il est également dit que la gloire [^79] de Frê<i>d</i>ûn s'est posée sur la racine d'un roseau (kanyâ) dans le vaste océan ; _et_ Nôktargâ [^80], par sorcellerie, a formé une vache pour le labourage, _et_ en a engendré des _enfants_ ; Français trois ans il porta les roseaux là, _et_ les donna à la vache, jusqu'à ce que la gloire aille à la vache ; il amena la vache, traita _son_ lait, _et_ le donna à ses trois fils ; comme _leur_ marche _était sur_ les sabots, la gloire n'allait pas aux fils, mais à Farhank. 33. Nôktargâ voulut faire du mal [^81] à Farhank, _mais_ Farhank s'en alla avec la gloire _loin_ du <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> père féroce (tîb), et fit un vœu (patyastâk) ainsi : « Je donnerai _mon_ premier fils à Aûshbâm [^82]. » 34. Alors Aûshbâm la sauva du père ; et le premier fils, Kaî-Apîvêh, qu'elle porta et donna à Aûshbâm, fut un héros associé à Aûshbâm, et voyagea en compagnie d'Aûshbâm.
 
 35\. La mère d'Aûzôbô était la fille de Nâmûn le sorcier, lorsque Nâmak [^83] était avec Frâsîyâ<i>v</i>.
 
@@ -106,15 +106,15 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^5]: (130:5) Av. Takhmô-urupa de Râm Yt. 11, Zamyâd Yt. 28, Âfrîn Zarat. 2; écrit Tâkhmôrup dans TD, qui est le seul MS. où se trouve le passage entre parenthèses, dont l'omission par K20 a été suspectée par Windischmann (Zoroastriche Studien, p. 199). Ce roi est le Tahmûras du Shâhnâmah. Voir aussi Chap. XVII, 4, XXXIV, 4.
 
-[^6] : (130:6) Av. Vîvan<i>g</i>h<i>a</i>u de Yas. IX, 11, 20, XXXII, 8, Vend. II, 8, 28, 94, Fravardîn Yt. 130, Zamyâd Yt. 35.
+[^6]: (130:6) Av. Vîvan<i>g</i>h<i>a</i>u de Yas. IX, 11, 20, XXXII, 8, Vend. II, 8, 28, 94, Fravardîn Yt. 130, Zamyâd Yt. 35.
 
 [^7]: (130:7) Comme ce nom ou titre Pâzand commence par un y _médial_, sa voyelle initiale est probablement omise (voir p. 141, note 8).
 
-[^8] : (130:8) Av. Yima ou Yima khshaêta de Vend. II, etc., le Jamshêd du Shâhnâmah (voir Chap. XVII. 5, XXXIV, 4).
+[^8]: (130:8) Av. Yima ou Yima khshaêta de Vend. II, etc., le Jamshêd du Shâhnâmah (voir Chap. XVII. 5, XXXIV, 4).
 
-[^9] : (130:9) Av. Spityura de Zamyâd Yt. 46.
+[^9]: (130:9) Av. Spityura de Zamyâd Yt. 46.
 
-[^10] : (130:10) Ici écrit Nârsî en K20, et K20b, et Nôsîh en TD ; mais voir § 5 et Chap. XXIX, 6. Windischmann suggère qu'il pourrait être l'Av. Aoshnara pouru-<i>g</i>îra de Fravardîn Yt. 131, Af. Zarat. 2.
+[^10]: (130:10) Ici écrit Nârsî en K20, et K20b, et Nôsîh en TD ; mais voir § 5 et Chap. XXIX, 6. Windischmann suggère qu'il pourrait être l'Av. Aoshnara pouru-<i>g</i>îra de Fravardîn Yt. 131, Af. Zarat. 2.
 
 [^11]: (130:11) Épithète équivalente à « le Minos de Chine » ; Rashnû étant l'ange de la justice, censé peser les mérites de l'âme du défunt contre ses péchés. Aucun de ces mots n'est cependant tout à fait certain, car rashnûk pourrait signifier rasnîk, « lance », et a également été traduit par « lumière » et « héros ». De plus, Kînŏ ne désignait probablement pas la Chine, mais Samarcande (voir chap. XII, 13, 22, XV, 29).
 
@@ -136,7 +136,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^20]: (132:1) Pour les trois derniers noms, voir Chap. XV, 25, 28.
 
-[^21]: (132:2) Pahl. Aû<i>d</i> dans TD ; comparer 'le démon Uda' du chap. XXVIII, 19. Les deux noms suivants ressemblent à 'peur' et 'peur sombre', deux noms appropriés pour les démons.
+[^21]: (132:2) Pahl. Aû<i>d</i> dans TD ; comparer « le démon Uda » du chap. XXVIII, 19. Les deux noms suivants ressemblent à « peur » et « peur sombre », deux noms appropriés pour les démons.
 
 [^22]: (132:3) TD a Pâz. Owôikh ; comparer Av. aoiwra, « une espèce de cauchemar », en observant que r et ô sont souvent écrits de la même manière en Pahlavi.
 
@@ -146,7 +146,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^25]: (132:6) De même dans TD, mais K20 a Pâz. Dru<i>z</i>\-i ayaskâ, et K20b a Dru<i>g</i>\-i ayaskâ. Cela correspond à Av. dru<i>g</i>aska dans Vend. XIX, 139, Vi<i>s</i>tâsp Yt. 26. Cette généalogie semble retracer la descendance maternelle de Dahâk à travers une série de démons.
 
-[^26] : (132:7) Av. Thraêtaona, fils d'Âthwya, mais généralement appelé « l'Âthwyânien », qui tua le serpent destructeur (a<i>z</i>i dahâka), voir Yas. IX, 24, 25, Vend. Moi, 69 ans, Âbân Yt. 33, 61, Gô<i>s</i> Yt. 13, Fravardîn Yt. 131, Bahrâm Yt. 40, Ram Yt. 23, Ashi Yt. 33, Zamyâd Yt. 36, 92, Af. Zarat. 2. Dans la Shâhnâmah il est appelé Ferîdûn fils d'Abtîn.
+[^26]: (132:7) Av. Thraêtaona, fils d'Âthwya, mais généralement appelé « l'Âthwyânien », qui tua le serpent destructeur (a<i>z</i>i dahâka), voir Yas. IX, 24, 25, Vend. Moi, 69 ans, Âbân Yt. 33, 61, Gô<i>s</i> Yt. 13, Fravardîn Yt. 131, Bahrâm Yt. 40, Ram Yt. 23, Ashi Yt. 33, Zamyâd Yt. 36, 92, Af. Zarat. 2. Dans la Shâhnâmah il est appelé Ferîdûn fils d'Abtîn.
 
 [^27]: (132:8) Ce nom est omis dans K20, mais apparaît dans les deux autres manuscrits ; c'est un hybride Huzvâri<i>s</i> équivalent à Pâz. Pûr-g<i>a</i>u et Av. Pouru-g<i>a</i>u qui est un titre d'un Âthwyânien dans Âf. Zarat. 4, Vi<i>s</i>tâsp Yt. 2. Cette généalogie se compose presque entièrement de tels noms hybrides, qui ont une apparence très artificielle, bien que suffisamment appropriés pour une race de bergers, signifiant, comme ils le font chacun, « celui qui a beaucoup de bœufs, qui a des bœufs utiles, qui a le bœuf brun, qui a le bœuf noir, qui a le bœuf blanc, qui a le bœuf gras et qui a un troupeau de bœufs. »
 
@@ -160,7 +160,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^32]: (133:4) TD a « deux fils _et_ une fille ».
 
-[^33] : (133:5) TD a Anî<i>d</i>âr et Anastabŏ.
+[^33]: (133:5) TD a Anî<i>d</i>âr et Anastabŏ.
 
 [^34]: (133:6) Ou Gû<i>g</i>ak, dans TD ; les autres MSS. ont Pâz. Gan<i>g</i>a ici, mais Guzak dans le § 14 ; il est identique au nom de la sœur et de l'épouse de Hôshyang au chap. XV, 28. Dans le Pâzand <i>G</i>âmâsp-nâmah, le nom de la fille de Frê<i>d</i>ûn est écrit Vîrak.
 
@@ -168,11 +168,11 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^36]: (133:8) TD a bartman, « fille », indiquant que le mot dans K20 doit être lu dûkht, et non dvâ<i>d</i>, « paire ».
 
-[^37]: (134:1) La phrase entre parenthèses n'apparaît que dans TD ; et tout le passage de 'vînîk' à 'sun' est omis dans K20, évidemment par erreur.
+[^37]: (134:1) La phrase entre parenthèses n'apparaît que dans TD ; et tout le passage de « vînîk » à « sun » est omis dans K20, évidemment par erreur.
 
-[^38]: (134:2) TD a 'de Manû<i>s</i> et _sa_ sœur', et K20b 'a de Mânû<i>s</i>\-hû<i>k</i>îhar _et_ Mânû<i>s</i>\-khûrshêd'.
+[^38]: (134:2) TD a « de Manû<i>s</i> et _sa_ sœur », et K20b « a de Mânû<i>s</i>\-hû<i>k</i>îhar _et_ Mânû<i>s</i>\-khûrshêd ».
 
-[^39]: (134:3) Les mots entre parenthèses n'apparaissent que dans TD, et K20b a 'de Mânû<i>s</i>\-khûrnar fut aussi Mânû<i>s</i>\-khûrnâk, _de_ Mânû<i>s</i>\-khûrnâk fut Mânû<i>s</i>k</i>îhar', mais cette introduction d'une génération supplémentaire n'est pas confirmée par la liste des noms du § 14. Le terme khûrnâk (ou khûrnak) semble être simplement une transcription du mot Avesta dont khûrshê<i>d</i>\-vînîk, 'nez-de-soleil', est une traduction. L'autre terme khûrnar peut aussi se lire khûrvar, mais K20 a Pâz. <i>h</i><i>v</i>arnar. Mânû<i>s</i><i>k</i>îhar est l'Av. Manus<i>k</i>ithra de Fravardîn Yt. 131, où il est appelé l'Airyavan, ou descendant d'Airyu (Aîrî<i>k</i>).
+[^39]: (134:3) Les mots entre parenthèses n'apparaissent que dans TD, et K20b a « de Mânû<i>s</i>\-khûrnar fut aussi Mânû<i>s</i>\-khûrnâk, _de_ Mânû<i>s</i>\-khûrnâk fut Mânû<i>s</i>k</i>îhar », mais cette introduction d'une génération supplémentaire n'est pas confirmée par la liste des noms du § 14. Le terme khûrnâk (ou khûrnak) semble être simplement une transcription du mot Avesta dont khûrshê<i>d</i>\-vînîk, « nez-de-soleil », est une traduction. L'autre terme khûrnar peut aussi se lire khûrvar, mais K20 a Pâz. <i>h</i><i>v</i>arnar. Mânû<i>s</i><i>k</i>îhar est l'Av. Manus<i>k</i>ithra de Fravardîn Yt. 131, où il est appelé l'Airyavan, ou descendant d'Airyu (Aîrî<i>k</i>).
 
 [^40]: (134:4) TD a '_et_ vengeance exercée pour Aîrî<i>k</i>.
 
@@ -186,13 +186,13 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^45]: (134:9) K20b omet les cinq noms d'Aîrak à Zû<i>s</i>ak.
 
-[^46] : (134:10) Av. Frangrasyan, le Tûryan, de Yas. XI, 21, Âbân Yt. 41, p. 135 Gô<i>s</i> Yt. 18, 22 ans, Ashi Yt. 38, 42, Zamyâd Yt. 56-63, 62, 93 ; appelé Afrâsiyâb dans le Shâhnâmah.
+[^46]: (134:10) Av. Frangrasyan, le Tûryan, de Yas. XI, 21, Âbân Yt. 41, p. 135 Gô<i>s</i> Yt. 18, 22 ans, Ashi Yt. 38, 42, Zamyâd Yt. 56-63, 62, 93 ; appelé Afrâsiyâb dans le Shâhnâmah.
 
 [^47]: (135:1) Zâd<i>s</i>am dans la Shâhnâmah.
 
 [^48]: (135:2) Garsîvaz dans la Shâhnâmah.
 
-[^49] : (135:3) TD a Pahl. Kî<i>d</i>ân.
+[^49]: (135:3) TD a Pahl. Kî<i>d</i>ân.
 
 [^50]: (135:4) Voir Chap. XXIX, 5.
 
@@ -212,15 +212,15 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^58]: (136:1) Les montagnes au sud de la mer Caspienne (voir Chap. XII. 17).
 
-[^59] : (136 : 2) Av. Uzava Tûmâspana de Fravardîn Yt. 131, appelé Zav, ou Zâb, fils de Tahmâsp, dans le Shâhnâmah.
+[^59]: (136 : 2) Av. Uzava Tûmâspana de Fravardîn Yt. 131, appelé Zav, ou Zâb, fils de Tahmâsp, dans le Shâhnâmah.
 
 [^60]: (136:3) Aucun de ces noms, que TD donne dans Pâzand, ne se trouve dans la partie de l'Avesta encore existante.
 
 [^61]: (136:4) Av. Kavi Kavâta de Fravardîn Yt. 132, Zamyâd Yt. 71, appelé Kaî-Qubâd dans la Shâhnâmah. Il semble y avoir une tentative, dans le texte, de faire dériver son nom du seuil sur lequel il aurait été trouvé.
 
-[^62] : (136 : 5) Les noms Avesta de ces sept autres Kayâns sont, respectivement, Kavi Aipi-vanghu, Kavi Arshan, Kavi Byârshân, Kavi Pisanangh, Kavi Usadhan, Kavi Syâvarshân et Kavi Husravangh (voir Fravardîn Yt. 132, Zamyâd Yt. 71, 74) ; en omettant le troisième, ils sont appelés respectivement Armîn, Ari<i>s</i>, Pa<i>s</i>în, Kaî-Kâvûs, Siyâvush et Kaî-Khusrô dans le Shâhnâmah. TD, en omettant la première lettre, a Sânŏ pour Pisân ; il écrit aussi Kaî-Kâyûks et Kei-Khûsrôvî.
+[^62]: (136 : 5) Les noms Avesta de ces sept autres Kayâns sont, respectivement, Kavi Aipi-vanghu, Kavi Arshan, Kavi Byârshân, Kavi Pisanangh, Kavi Usadhan, Kavi Syâvarshân et Kavi Husravangh (voir Fravardîn Yt. 132, Zamyâd Yt. 71, 74) ; en omettant le troisième, ils sont appelés respectivement Armîn, Ari<i>s</i>, Pa<i>s</i>în, Kaî-Kâvûs, Siyâvush et Kaî-Khusrô dans le Shâhnâmah. TD, en omettant la première lettre, a Sânŏ pour Pisân ; il écrit aussi Kaî-Kâyûks et Kei-Khûsrôvî.
 
-[^63] : (137:1) Av. Keresâspa de Yas. IX, 31, 36, 39, Vend. Moi, 36 ans, Âbân Yt. 37, Fravardîn Yt. 61, 136, Ram Yt. 27, Zamyâd Yt. 38-44, Af. Zarat. 3 ; il est appelé Gar<i>s</i>âsp dans le Shâhnâmah.
+[^63]: (137:1) Av. Keresâspa de Yas. IX, 31, 36, 39, Vend. Moi, 36 ans, Âbân Yt. 37, Fravardîn Yt. 61, 136, Ram Yt. 27, Zamyâd Yt. 38-44, Af. Zarat. 3 ; il est appelé Gar<i>s</i>âsp dans le Shâhnâmah.
 
 [^64]: (137:2) Av. Urvâkhshaya de Yas. IX, 31, Râm Yt. 28, Âf. Zarat. 3. Ces frères étaient fils de Thrita ou Athrat, mentionnés dans le § suivant.
 
@@ -234,9 +234,9 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^69]: (137:7) Écrit ici Ka-Pîsîn, mais il s'agit de la même personne que Kaî-Pisân du § 25 ; la dernière partie du nom est écrite à la fois Pisanangh et Pisina dans l'Avesta.
 
-[^70] : (137 :8) Probablement Zargar (étant Av. Zairivairi de Âbân Yt. 112, 117, Fravardîn Yt. 101), mais appelé Zarîr dans le Shâhnâmah.
+[^70]: (137 :8) Probablement Zargar (étant Av. Zairivairi de Âbân Yt. 112, 117, Fravardîn Yt. 101), mais appelé Zarîr dans le Shâhnâmah.
 
-[^71] : (137:9) Av. Spe<i>n</i>tô-dâta de Fravardîn Yt. 103. Vi<i>s</i>tâsp Yt. 25, appelé Isfendiyâr dans le Shâhnâmah.
+[^71]: (137:9) Av. Spe<i>n</i>tô-dâta de Fravardîn Yt. 103. Vi<i>s</i>tâsp Yt. 25, appelé Isfendiyâr dans le Shâhnâmah.
 
 [^72]: (137:10) Voir chap. XXIX, 5, XXXII, 5.
 
@@ -244,7 +244,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^74]: (137:12) Le texte est plutôt obscur, mais le Kârnâmak d'Ar<i>d</i>ashîr-i Pâpakân indique clairement qu'Ar<i>d</i>ashîr était le fils de Sâsân et de la fille de Pâpak, un souverain tributaire de Pârs sous Ardavân, le dernier des monarques A<i>s</i>kâniyân.
 
-[^75]: (138:1) De même dans le texte pahlavi, qui fait donc de Vêh-âfrî<i>d</i> un nom de femme (comme le persan Beh-âfrîn) ; mais cela est douteux, car les manuscrits confondent souvent va, 'et', et i, 'fils de'.
+[^75]: (138:1) De même dans le texte pahlavi, qui fait donc de Vêh-âfrî<i>d</i> un nom de femme (comme le persan Beh-âfrîn) ; mais cela est douteux, car les manuscrits confondent souvent va, « et », et i, « fils de ».
 
 [^76]: (138:2) Dans la Shâhnâmah, Farhang est la mère de Kaî-Kâvûs. Le nom pahlavi peut également se lire Farânak, le nom de la mère de Ferîdûn dans la Shâhnâmah.
 
@@ -266,7 +266,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^85]: (139:4) Autre nom de Zâl, le père de Rustam, dans la Shâhnâmah.
 
-[^86] : (139 :5) Le même que Sagastân.
+[^86]: (139 :5) Le même que Sagastân.
 
 [^87]: (139:6) Ou, peut-être, « le quartier supérieur ».
 

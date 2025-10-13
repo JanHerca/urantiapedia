@@ -204,4 +204,4 @@ Je loue, j'invoque, je médite et nous sacrifions aux bons, forts et bienfaisant
 
 ## Notes de bas de page
 
-[^102] : 20:1 Cf. Yasna XXVI, 1.
+[^102]: 20:1 Cf. Yasna XXVI, 1.

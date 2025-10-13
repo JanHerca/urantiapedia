@@ -68,13 +68,13 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^1]: (262:2) Voir Chap. XXXVII, 118.
 
-[^2] : (262:3) Comparez Yas. LXIV, 12, Abban Yt. 3.
+[^2]: (262:3) Comparez Yas. LXIV, 12, Abban Yt. 3.
 
 [^3]: (262:4) Un nom du fleuve Tigre (voir Zs. VI, 20)
 
 [^4]: (262:5) Comme cet océan est censé entourer le monde, la terre entière est à l’intérieur.
 
-[^5] : (262:6) Comparez Yas. LXIV, 17, Abban Yt. 4 , 101 .
+[^5]: (262:6) Comparez Yas. LXIV, 17, Abban Yt. 4 , 101 .
 
 [^6]: (263:1) La chaîne de montagnes censée entourer le monde et atteindre le ciel (voir Chap. XX, 3, Bd. XII, 1, 3) ; en raison de sa hauteur, toute eau de son sommet doit couler vers le bas pour atteindre le niveau le plus bas du ciel, appelé la station stellaire.
 

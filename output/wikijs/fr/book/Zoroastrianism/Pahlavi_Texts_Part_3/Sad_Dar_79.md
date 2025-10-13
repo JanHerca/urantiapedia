@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Un homme libéral et généreux est si précieux ('hazîz) qu'Hôrmazd parle [^3] ainsi : « J'ai souhaité pouvoir récompenser un homme généreux, si cela lui convient, mais je n'ai trouvé ni récompense ni bonheur qui lui conviennent, si ce n'est une bénédiction. » 4. Et les hommes vertueux et les archanges unis prononcent perpétuellement des bénédictions à l'égard de l'homme libéral qui ne refuse aucun de ses biens à un étranger. <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> 5\. Car il est déclaré dans la révélation que le créateur Hôrmazd parla à Zaratu<i>s</i>t, le Spitamân, ainsi : « J'ai créé le ciel suprême des cieux pour tous les généreux qui pourvoient aux besoins des dignes et leur donnent quelque chose ; et l'enfer sombre est pour tous ceux qui donnent quelque chose aux indignes. »
 
-6. De même, il est déclaré dans la révélation qu'il y a trente-trois voies vers le ciel, outre celle des âmes des libéraux. 7. Si l'âme appartient à quelqu'un d'autre, elle ne peut arriver au ciel [^4] par cette voie. 8. Outre cette heureuse [^5] voie, une âme du libéral peut arriver au ciel au moyen des trente-trois voies. 9. Car il n'est pas plus facile d'arriver au ciel que pour le libéral.
+6\. De même, il est déclaré dans la révélation qu'il y a trente-trois voies vers le ciel, outre celle des âmes des libéraux. 7. Si l'âme appartient à quelqu'un d'autre, elle ne peut arriver au ciel [^4] par cette voie. 8. Outre cette heureuse [^5] voie, une âme du libéral peut arriver au ciel au moyen des trente-trois voies. 9. Car il n'est pas plus facile d'arriver au ciel que pour le libéral.
 
 <figure class="table chapter-navigator">
   <table>

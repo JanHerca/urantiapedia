@@ -45,7 +45,7 @@ TRISTE DAR.
 
 6\. En esta ocasión (vaqt) yo, un siervo de la religión —como el môbad <i>E</i>rân-shâh [^3], hijo (bin) de <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> Yazad-yâr, hijo de Tî<i>s</i>tar-yâr, hijo de Âdar-bâ<i>d</i>, _hijo de_ Mâraspend [^4]—_he enviado una recompensa a sus almas, a todo aquel que lea y esté obligado por el deber [^5]. 7. Todo aquel que sea superior a ellos sabe que esto (în qadar) que ha sido escrito es una buena obra; pero no es posible que todos los inferiores lo sepan. 8. Si fuera mayor (ziyâdat), es apropiado, pero si (imṃâ) menor, no es apropiado saberlo [^6]; mientras que, en gratitud por los beneficios (<i>s</i>ukr-i ni'hmat) del ser sagrado, estos se incrementan en acción, y el ser sagrado, el Altísimo (ta'hâlâi) [^7], hace que los beneficios ocurran en el acto por esa razón. <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> 9\. Y, en segundo lugar, la bondad (lu<i>t</i>f) y la generosidad (karm) del ser sagrado, el Altísimo [^8], se manifiestan por esto: que nos creó con cada miembro (âlat) completo (tamâm), y no retuvo nada de la naturaleza maternal. 10. Y todo lo que era necesario para nuestro uso nos lo dio. 11. Asimismo, a la cabeza, nombró un maestro, que es [^9] la sabiduría, con el propósito de que puedan mantener a estos miembros en acción.
 
-12. Que la paz del ser sagrado, el Altísimo, esté con las almas de quienes conocen la religión del puro Zaratustra, el Spitamân, y de quienes son puros y virtuosos. 13. Para las almas de estas personas es deseable que todo deber que realicen lo hagan mediante la autoridad (dastûrî) de la sabiduría de los sumos sacerdotes [^10].
+12\. Que la paz del ser sagrado, el Altísimo, esté con las almas de quienes conocen la religión del puro Zaratustra, el Spitamân, y de quienes son puros y virtuosos. 13. Para las almas de estas personas es deseable que todo deber que realicen lo hagan mediante la autoridad (dastûrî) de la sabiduría de los sumos sacerdotes [^10].
 
 
 <figure class="table chapter-navigator">
@@ -74,7 +74,7 @@ TRISTE DAR.
 
 ## Notas al pie
 
-[^1]: (255:1) Es posible traducir el original (que es el mismo que en Sg. I, 1) de la siguiente manera: «El nombre de Hôrmazd es “el señor, el más sabio”, como si estos epítetos fueran el significado de Hôrmazd, lo cual no está lejos de la verdad; pero esta no sería una forma probable para una invocación. Lp y B29 tienen una invocación diferente.
+[^1]: (255:1) Es posible traducir el original (que es el mismo que en Sg. I, 1) de la siguiente manera: «El nombre de Hôrmazd es «el señor, el más sabio», como si estos epítetos fueran el significado de Hôrmazd, lo cual no está lejos de la verdad; pero esta no sería una forma probable para una invocación. Lp y B29 tienen una invocación diferente.
 
 [^2]: (255:2) Lp, B29, J15 omiten '_y_ puro.'
 

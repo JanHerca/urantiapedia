@@ -36,9 +36,9 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE LXXXIII.
 
-1. Le quatre-vingt-troisième sujet est celui-ci : il est nécessaire de s’abstenir de jeûner. 2. Car, dans notre religion, il n’est pas convenable qu’ils ne mangent pas tous les jours, ni quoi que ce soit, car ce serait un péché de ne pas le faire.
+1\. Le quatre-vingt-troisième sujet est celui-ci : il est nécessaire de s’abstenir de jeûner. 2. Car, dans notre religion, il n’est pas convenable qu’ils ne mangent pas tous les jours, ni quoi que ce soit, car ce serait un péché de ne pas le faire.
 
-3. Pour nous, le jeûne consiste à nous abstenir de pécher avec les yeux, la langue, les oreilles, les mains et les pieds. 4. Certains s'efforcent de ne rien manger de la journée et s'abstiennent de toute nourriture. 5. Pour nous aussi, il est nécessaire de faire des efforts pour ne penser, ni parler, ni commettre de péché ; et il est nécessaire qu'aucune mauvaise action ne sorte de nos mains, de notre langue, de nos oreilles ou de nos pieds, ce qui serait un péché à cause d'eux.
+3\. Pour nous, le jeûne consiste à nous abstenir de pécher avec les yeux, la langue, les oreilles, les mains et les pieds. 4. Certains s'efforcent de ne rien manger de la journée et s'abstiennent de toute nourriture. 5. Pour nous aussi, il est nécessaire de faire des efforts pour ne penser, ni parler, ni commettre de péché ; et il est nécessaire qu'aucune mauvaise action ne sorte de nos mains, de notre langue, de nos oreilles ou de nos pieds, ce qui serait un péché à cause d'eux.
 
 6\. Puisque j'ai parlé _de_ cette manière, et que j'ai mis en avant le jeûne des sept membres du corps, ce qui, dans d'autres religions, est un jeûne dû au fait de ne pas manger, est, dans notre religion, un jeûne dû au fait de ne pas commettre de péché.
 

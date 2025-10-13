@@ -72,4 +72,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (355:2) Pahl. Vend. VII, 188 donne trois opinions.
 
-[^4] : (355 : 3) Voir Pahl. Vend. VII, 36.
+[^4]: (355 : 3) Voir Pahl. Vend. VII, 36.

@@ -184,21 +184,21 @@ Donne à cet homme [^213] éclat et gloire, donne-lui la santé du corps, donne-
 
 [^194]: 35:1 Le reste comme ci-dessus, Yt. I, 0.
 
-[^195] : 35:2 Sîrôzah I, 1-2.
+[^195]: 35:2 Sîrôzah I, 1-2.
 
-[^196] : 35:3 Sîrôzah I, 3-4.
+[^196]: 35:3 Sîrôzah I, 3-4.
 
-[^197] : 36 : 1 Sîrôzah I, 5-7.
+[^197]: 36 : 1 Sîrôzah I, 5-7.
 
 [^198]: 36:2 Sîrôzah I, 7.
 
 [^200]: 36:3 Sîrôzah I, 7.
 
-[^201] : 37 : 1 Sîrôzah II, 1-2.
+[^201]: 37 : 1 Sîrôzah II, 1-2.
 
-[^202] : 37:2 Sîrôzah II, 3-4.
+[^202]: 37:2 Sîrôzah II, 3-4.
 
-[^203] : 37:3 Sîrôzah II, 5-7.
+[^203]: 37:3 Sîrôzah II, 5-7.
 
 [^204]: 37:4 Sîrôzah II, 7.
 
@@ -214,9 +214,9 @@ Donne à cet homme [^213] éclat et gloire, donne-lui la santé du corps, donne-
 
 [^210]: 39:1 Douteux.
 
-[^211] : 39 : 2 Voir Yt. VIII, 5, 42 ; cf. § 20.
+[^211]: 39 : 2 Voir Yt. VIII, 5, 42 ; cf. § 20.
 
-[^212] : 39:3 Âtare-vîtaremaibyâ . . . . vîmrao<i>t</i>; cf. atarâish. . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]) : âtareman semble être un péché par commission, vîtareman un péché par omission.
+[^212]: 39:3 Âtare-vîtaremaibyâ . . . . vîmrao<i>t</i>; cf. atarâish. . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]) : âtareman semble être un péché par commission, vîtareman un péché par omission.
 
 [^213]: 39:4 Douteux (fraspâvare<i>s</i> : fraspâ est généralement traduit par ramîtûntan).
 

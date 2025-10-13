@@ -152,9 +152,9 @@ Traduction.
 
 ## Notes de bas de page
 
-[^177] : 40 : 1 Roth, 'wollen wir Worte künden—ungern gehört von denen, welche nach des Unholds Geboten', etc. Hübschmann préfère « wir sprechen Worte nicht anhörbar für diejenigen » (Casuslehre, art. 223). Un datif du pronom est certainement plus naturel que l'ablatif comme inst. Mais dans l’ensemble, agushtâ semble meilleur dans son sens ordinaire, bien que, dans une telle interprétation, nous soyons obligés de fournir un mot.
+[^177]: 40 : 1 Roth, 'wollen wir Worte künden—ungern gehört von denen, welche nach des Unholds Geboten', etc. Hübschmann préfère « wir sprechen Worte nicht anhörbar für diejenigen » (Casuslehre, art. 223). Un datif du pronom est certainement plus naturel que l'ablatif comme inst. Mais dans l’ensemble, agushtâ semble meilleur dans son sens ordinaire, bien que, dans une telle interprétation, nous soyons obligés de fournir un mot.
 
-[^178] : 40:2 Valman<i>s</i>ân mûn pavan âfrîngânîh î Drû<i>g</i> zak î Aharâyîh gêhân barâ, maren<i>k</i>înên<i>d</i>.
+[^178]: 40:2 Valman<i>s</i>ân mûn pavan âfrîngânîh î Drû<i>g</i> zak î Aharâyîh gêhân barâ, maren<i>k</i>înên<i>d</i>.
 
 [^179]: 40:3 Le Pahlavi peut être traduit ainsi : Ces deux bénédictions, que je (nous) récite comme étant les vôtres \[l'Avesta et le Zand\], nous les enseignons oralement à celui qui n'est pas auditeur, \[au destructeur de la sainteté (le persécuteur hérétique) \[ \]\]. Ceux qui tuent complètement le monde de la justice par les bénédictions du Drû<i>g</i> \[ \], même ceux-là pourraient être une excellente chose, s'ils pouvaient faire progresser ce qui appartient à Aûharmazd.
 
@@ -166,7 +166,7 @@ Traduction.
 
 [^183]: 41:1 Comp. chap. XXIX, 2, où le Ratu est discuté ; ici le mot pourrait être l'abstrait.
 
-[^184] : 41:2 Roth 'dieser beiden Parteien (Yasna XXXI).'
+[^184]: 41:2 Roth 'dieser beiden Parteien (Yasna XXXI).'
 
 [^185]: 41:3 Il repousse et condamne le méchant, et il sanctifie et aide le bon.
 
@@ -178,15 +178,15 @@ Traduction.
 
 [^189]: 41:7 Voir verset 1.
 
-[^190] : 41 : 8 Roth, « comme je le fais tout le temps pour le bien ». Il en va de même pour l'indication générale du traducteur Pahlavi. Pavan hûzvânŏ î Lak—zîvandakân harvist-gûn hêmnund. Observez que le système religieux envisageait un prosélytisme universel.
+[^190]: 41 : 8 Roth, « comme je le fais tout le temps pour le bien ». Il en va de même pour l'indication générale du traducteur Pahlavi. Pavan hûzvânŏ î Lak—zîvandakân harvist-gûn hêmnund. Observez que le système religieux envisageait un prosélytisme universel.
 
 [^191]: 42:1 Les indications générales karîtûntâr et bavîhûnam indiquent le sens propre.
 
-[^192] : 42 : 2 Ou, avec Roth, « wenn wirklich sich rufen lassen die Ahura-Mazdas ». Sinon, « Ô Mazda et les Ahuras ». Hübschmann soutenait également que Mazd<i>a</i>u était ici un pluriel ; (voir son Y. XXX, 10.)
+[^192]: 42 : 2 Ou, avec Roth, « wenn wirklich sich rufen lassen die Ahura-Mazdas ». Sinon, « Ô Mazda et les Ahuras ». Hübschmann soutenait également que Mazd<i>a</i>u était ici un pluriel ; (voir son Y. XXX, 10.)
 
 [^193]: 42:3 Roth, rendant ishasâ conformément au Pahlavi, 'erbitte ich'.
 
-[^194] : 42 : 4 Mûn pavan zak î valman gûrdîh—khûshî<i>d</i>ŏ Drû<i>g</i>ŏ aê indique suffisamment le sens propre. Roth, "kraft deren wir den Unhold bemeistern mögen".
+[^194]: 42 : 4 Mûn pavan zak î valman gûrdîh—khûshî<i>d</i>ŏ Drû<i>g</i>ŏ aê indique suffisamment le sens propre. Roth, "kraft deren wir den Unhold bemeistern mögen".
 
 [^195]: 42:5 Le Pahlavi peut être traduit ainsi : Puisque dans cette dispensation \[dans le corps final\], je serai un invocateur d'Ashavahi<i>s</i>t, et d'Aûharmazd aussi \[ \]; et de celle qui est vénération 'Spendarmad' \[ \], je désire \[la meilleure des choses qui est la récompense\], de Vohûman. Que cette autorité qui appartient à mon peuple \[ \] vienne du fort \[ \] par la force duquel \[ \] le Drû<i>g</i> est vaincu \[ \].
 
@@ -200,29 +200,29 @@ Traduction.
 
 [^200]: 43:2 Un intervalle de silence semble ici intervenir, ou des versets perdus laissent une transition inexpliquée. Le sage se tourne à nouveau vers le peuple.
 
-[^201] : 43:3 Vao<i>k</i>â<i>t</i> K4 (Barth.).
+[^201]: 43:3 Vao<i>k</i>â<i>t</i> K4 (Barth.).
 
 [^202]: 43:4 Voir verset 4.
 
-[^203] : 43:5 Le Pahlavi a Aûharmazd având (sic) khû<i>d</i>âyîh <i>k</i> et dên valman vakhshê<i>d</i> Vohûmanŏ.
+[^203]: 43:5 Le Pahlavi a Aûharmazd având (sic) khû<i>d</i>âyîh <i>k</i> et dên valman vakhshê<i>d</i> Vohûmanŏ.
 
-[^204] : 43 : 6 Le MS parsi-persan. est le suivant : Û hast buland, kih ân man âgahîhâ (sic) gû-î â<i>s</i>kârah \[ \] mânsar i tamâm raftanî ; \[kû, tamâm pêdâi<i>s</i>n pah râh <i>i</i> mânsar bâz ân 'hwê<i>s</i>î <i>i</i> Hôrmuzd rasêd\], kih pah Ṣawâb dârad—bî-marg raftanî aza<i>s</i> \[ \]. Hôrmuzd—'hudâî <i>k</i>et andar û afzayêd Bahman \[Kû<i>s</i> pâdi<i>s</i>âhî pah tan <i>i</i> mard—<i>k</i>andî (?) Hôrmuzd pah tan mihmân\].
+[^204]: 43 : 6 Le MS parsi-persan. est le suivant : Û hast buland, kih ân man âgahîhâ (sic) gû-î â<i>s</i>kârah \[ \] mânsar i tamâm raftanî ; \[kû, tamâm pêdâi<i>s</i>n pah râh <i>i</i> mânsar bâz ân 'hwê<i>s</i>î <i>i</i> Hôrmuzd rasêd\], kih pah Ṣawâb dârad—bî-marg raftanî aza<i>s</i> \[ \]. Hôrmuzd—'hudâî <i>k</i>et andar û afzayêd Bahman \[Kû<i>s</i> pâdi<i>s</i>âhî pah tan <i>i</i> mard—<i>k</i>andî (?) Hôrmuzd pah tan mihmân\].
 
 [^205]: 44:1 Mûna<i>s</i> avŏ rôshanîh gâmîkhtŏ khvârîh. <i>H</i><i>v</i>âthrâ et khvârîh peuvent difficilement signifier « confortable » ici. « Facilité » est le dernier sens.
 
 [^206]: 44:2 Rao<i>k</i><i>e</i>bî<i>s</i> signifie certainement, avec des objets éclairants, des étoiles ou des lumières brillantes.
 
-[^207] : 44 : 3 Hübschmann, 'der Schöpfer des Asha.'—Casuslehre, s. 190.
+[^207]: 44 : 3 Hübschmann, 'der Schöpfer des Asha.'—Casuslehre, s. 190.
 
-[^208] : 44:4 Pavan mînavadîkih vakhshînê<i>d</i> \[ \] mûn kevani<i>k</i> ham khû<i>d</i>âî.
+[^208]: 44:4 Pavan mînavadîkih vakhshînê<i>d</i> \[ \] mûn kevani<i>k</i> ham khû<i>d</i>âî.
 
 [^209]: 44:5 Comparez l'expression fréquente « spentem a<i>t</i> Th###vâ meNhî », au chap. XLIII.
 
-[^210] : 44:6 Roth, 'vornehmsten.'
+[^210]: 44:6 Roth, 'vornehmsten.'
 
 [^211]: 44:7 Quand je T'ai saisi (pris) avec mon œil. Les Pahlavi : Amatam \[ \] pavan ham<i>k</i>ashmîh avŏ ham vakhdûn<i>d</i> hômanih.
 
-[^212] : 44:8 Dên ahvânŏ pavan kûni<i>s</i>nŏ khû<i>d</i>âî hômanih.
+[^212]: 44:8 Dên ahvânŏ pavan kûni<i>s</i>nŏ khû<i>d</i>âî hômanih.
   Ner. peut être traduit ainsi : « C’est ainsi que je t’ai d’abord pensé, ô Grand Sage, Seigneur ! », lorsque tu étais engagé dans la production de Gvahmana. Dans cette production, ils appréhendent le père du Meilleur Esprit lorsqu’ils l’observent d’un regard franc. Et tu es le père de cette création manifestement juste ; c’est-à-dire que tu rends la création la plus pure bonne par sa conduite. Tu es un Roi dans le monde quant à l’action ; c’est-à-dire que là où il convient de conférer un bienfait, comme là où il convient d’infliger un châtiment, tu es capable de chacune de ces choses. »
 
 [^213]: 45:1 His spe<i>n</i>ta mainyu ; autrement dit « spirituel (compréhension) », mais mainyu est utilisé ailleurs (versets 3 et 7) seul, et certainement pas comme adjectif, même avec un substantif sous-entendu. La traduction de « esprit » par « Ton esprit » est étrangement significative ; mais à quoi cela sert-il ? La grammaire nous oblige à traduire ainsi.
@@ -237,7 +237,7 @@ Traduction.
 
 [^218]: 45:6 Dans l'Avesta ultérieur, ce premier vâstrya f<i>s</i>uya<i>n</i>t est déclaré être Zarathu<i>s</i>tra.
 
-[^219] : 45:7 Mûn f<i>s</i>uîh pavan Vohûmanŏ.
+[^219]: 45:7 Mûn f<i>s</i>uîh pavan Vohûmanŏ.
 
 [^220]: 46:1 Pahlavi davãsaha<i>k</i>; Ner. pratârayitre.
 
@@ -261,7 +261,7 @@ Traduction.
 
 [^230]: 47:5 Le Pahlavi invariablement dans le sens de mihânŏ \[-a<i>s</i> gâs tamman yehevûnê<i>d</i>ŏ\]; Ner. paralokanivâsân. Voir Y. XXX, 9; XXXIII, 9; XXXIV, 6. Une interrogation faite à la légère indiquerait une volonté de manipuler l'erreur. Le manuscrit persan suivant le Pahlavi a : An<i>g</i>a bang <i>i</i> buland ân <i>i</i> durû<i>gh</i> guftâr \[Ganâ Mînû\] wa ân ham <i>i</i> râst guftâr \[Hôrmuzd\], etc. Mais Neryosangh est plus précis ou littéral : Atra bumbâm\* karoti \[antar <i>g</i>agati\], mithyâvaktâ vâ satyavaktâ vâ, etc.
 
-[^231] : 47 :6 Pavan zakî âshkârakŏ.
+[^231]: 47 :6 Pavan zakî âshkârakŏ.
 
 [^232]: 47:7 Nîhânîk.
 
@@ -281,7 +281,7 @@ Traduction.
 
 [^240]: 48:6 Neryosangh a ce qui suit : Tad dvitaya<i>m</i> tvatta<i>h</i>\* pri<i>k</i><i>kh</i>âmi, Svâmin! yad âgata<i>m</i>, âyâti<i>k</i>a, yo\* <i>ri</i><i>n</i>am dadate dânebhya<i>h</i>\* pu<i>n</i>yâtmane \[Hormi<i>g</i>dâya yathâ yu<i>g</i>yate dâtu<i>m</i>\], ye<i>k</i>a, Mahâ<i>g</i><i>ñ</i>ânin! durgatimadbhya<i>h</i>; katha<i>m</i> teshâ<i>m</i> asti vipâkatâ\* eva<i>m</i> \[kila, ya<i>h</i> tat kurute, tasmai nidâne prasâdadâna<i>m</i> ki<i>m</i> bhavati, ya<i>s</i><i>k</i>a tat kurute, tasmai<i>k</i>a ki<i>m</i> bhavatî 'ti; me brûhi!\] Cela me semble très proche, bien plus que ce que nous sommes en droit d'attendre en règle générale d'un Parsi vivant en Inde, et il y a seulement cinq ou six siècles, trop tard pour la « tradition », et trop tôt pour une critique approfondie.
 
-[^241] : 48 : 7 Roth, « Je réponds : est-ce que le Strafe est ist ? »
+[^241]: 48 : 7 Roth, « Je réponds : est-ce que le Strafe est ist ? »
 
 [^242]: 48:8 Le chef d'un parti semble avoir comploté pour introduire un souverain hostile.
 
@@ -293,9 +293,9 @@ Traduction.
 
 [^246]: 49:1 Neryosangh peut être traduit ainsi : Ainsi je te demande : Qu'y a-t-il pour celui qui s'empare de la destruction, et qui fournit la souveraineté aux méchants \[ \], et qui commet cette mauvaise action. Ô Seigneur ! de laquelle il n'acquiert pas la vie même par un pot-de-vin\* (ce sens), \[ \] et qui est une calamité pour l'homme qui agit pour les troupeaux et les hommes en leur éloignant les calamités \[ \] ?
 
-[^247] : 49:2 Roth, 'der die Herrschaft über Hof Gau and Land um das rechte zu fördern hat.'
+[^247]: 49:2 Roth, 'der die Herrschaft über Hof Gau and Land um das rechte zu fördern hat.'
 
-[^248] : 49 : 3 Pahlavi, Lak hâvand ; Neryosangh, tvattulyo; Roth, "deiner werth".
+[^248]: 49 : 3 Pahlavi, Lak hâvand ; Neryosangh, tvattulyo; Roth, "deiner werth".
 
 [^249]: 49:4 Je traduis le sanskrit de Neryosangh ainsi (il améliore le Pahlavi) : Je te demande ainsi : Comment \[accordes-tu\] la souveraineté à quelqu'un qui est sage et bienfaisant ? \[ \] (dans le corps) de celui qui, par l'accroissement de la sainteté, ne s'oppose pas (à la prospérité) dans les provinces ou les villages ; \[c'est-à-dire avec celui qui s'acquitte de son devoir et accomplit des actes de sainteté. Il est le professeur de ce maître, il ne conteste pas\]. Ton égal, ô Grand Sage, le Seigneur ! tel est en vérité celui qui (est tel) dans l'action, \[qui est ainsi Ton égal par l'activité\].
 
@@ -308,11 +308,11 @@ Traduction.
 [^253]: 50:3 Ou avec d'autres « sois Toi » ; mais la glose de la traduction pahlavi contient une explication qui pourrait bien fournir la vraie solution, comme dans tant de cas où il est suivi à la fois consciemment et par inadvertance. On peut lire \[aîghmânŏ barâ khavîtûnînŏ—\]. Ne pourrait-on pas voir un az = ah dans la forme, ou au moins une racine iranienne distincte, comme également dans azdâ (L, r), où le traducteur pahlavi donne la même explication admirablement adaptée au contexte.
   Neryosangh : Qui est-ce, l'âme pure ou le méchant, qui enseigne comme le grand ? \[ \] L'intelligent parle à l'intelligent \[ \]. Ne sois pas ignorant après cela ; car (l'ignorance vient) du trompeur. Instruis-nous, ô Grand Sage, Seigneur ! \[ \] Donne-nous un signe par le Meilleur Esprit ; \[c'est-à-dire, rends-moi ferme dans une bonne conduite par la reconnaissance du dîn\]. De telles traductions peuvent suffire à montrer qu'il est impératif d'examiner ces anciennes traductions pour y trouver des indices. Pourtant, la pratique courante consiste à omettre la connaissance de la langue pahlavi, dont dépendent étroitement non seulement la plus ancienne traduction de l'Avesta, mais aussi le sanskrit irrégulier de Neryosangh.
 
-[^254] : 50:4 Jolly, 'Keiner von euch höre auf die Lieder and Gebote des Lügners.' Roth, « Rath et Befehle ».
+[^254]: 50:4 Jolly, 'Keiner von euch höre auf die Lieder and Gebote des Lügners.' Roth, « Rath et Befehle ».
 
 [^255]: 50:5 Comparez evîdvâo au verset 17.
 
-[^256] : 50:6 Dû<i>s</i>\-rûbi<i>s</i>nîh.
+[^256]: 50:6 Dû<i>s</i>\-rûbi<i>s</i>nîh.
 
 [^257]: 50:7 Sazê<i>d</i> sanêh, 'préparer le sabre'. C'était cependant une arme à deux mains ; voir Y. LVI, 12, (4 Sp.).
   Le manuscrit parsi-persan : Wa ma kas aêdûn az <i>s</i>umâ kih û p. 51 darwand mânsar <i>s</i>unawad wa âmû'hti<i>s</i>n (sic) ; \[kû az Â<i>s</i>môkân (?) Awestâ wa Zand ma <i>s</i>unawad\], <i>k</i>ih andar—ma<i>h</i>all <i>s</i>ahar wa deh dehad bad-rafti<i>s</i>n wa marg an i Â<i>s</i>mô<i>gh</i> ; aêdûn (sic) ô<i>s</i>ân Â<i>s</i>mô<i>gh</i>ân râ sâzad silâ<i>h</i>. (Encore une fois très proche.)
@@ -344,14 +344,14 @@ Traduction.
 
 [^270]: 52:9 Sardârîh.
 
-[^271] : 52:10 Vazdvarîh ; Ner. pîvaratvam.
+[^271]: 52:10 Vazdvarîh ; Ner. pîvaratvam.
 
-[^272] : 52:11 On pense naturellement à urvatha (vratha), comme ayant quelque chose du sens de vratyá. Mais l’usage impose aussi le sens de l’amitié. Hübschmann, Casuslehre, p. 259, «der durch Gesinnung et Thaten sich ihm als freund erweist».
+[^272]: 52:11 On pense naturellement à urvatha (vratha), comme ayant quelque chose du sens de vratyá. Mais l’usage impose aussi le sens de l’amitié. Hübschmann, Casuslehre, p. 259, «der durch Gesinnung et Thaten sich ihm als freund erweist».
 
-[^273] : 52:12 Ner. : Mahâ<i>g</i><i>ñ</i>âni dadau Svâmî\* avirdâdât\* an irdâdât sa<i>m</i>pûr<i>n</i>atva<i>m</i> p. 53 pu<i>n</i>yâtmane \[ \] ni<i>g</i>a<i>m</i> prabhutva<i>m</i> râ<i>g</i><i>ñ</i>e\* âdhipatyena \[ \] uttamena pîvaratva<i>m</i> manasâ \[-tasmâi dadate\], yo ni<i>g</i>asya adri<i>s</i>yamûrte<i>h</i> karma<i>n</i>â mitra<i>m</i>.
+[^273]: 52:12 Ner. : Mahâ<i>g</i><i>ñ</i>âni dadau Svâmî\* avirdâdât\* an irdâdât sa<i>m</i>pûr<i>n</i>atva<i>m</i> p. 53 pu<i>n</i>yâtmane \[ \] ni<i>g</i>a<i>m</i> prabhutva<i>m</i> râ<i>g</i><i>ñ</i>e\* âdhipatyena \[ \] uttamena pîvaratva<i>m</i> manasâ \[-tasmâi dadate\], yo ni<i>g</i>asya adri<i>s</i>yamûrte<i>h</i> karma<i>n</i>â mitra<i>m</i>.
 
 [^274]: 53:1 Ainsi selon des indications fréquentes.
 
-[^275] : 53:2 Tanû aîtŏ. Ner. : Sa te—mitram asti nivedîtatanu<i>h</i>.
+[^275]: 53:2 Tanû aîtŏ. Ner. : Sa te—mitram asti nivedîtatanu<i>h</i>.
 
 [^276]: 53:3 Voir chap. XXXIII, 14. Le traducteur pahlavi rend librement comme suit : Les choses manifestes (donc possiblement ; autrement « manifestement ») (sont) celles-ci pour (ainsi un manuscrit non encore comparé ailleurs) le sage lorsque, selon sa compréhension, il dispose et réfléchit, \[c'est-à-dire, celui qui médite avec pensée sur ce que son seigneur et dastur lui déclare\]. Bon est le Roi pour qui ils veulent accomplir la justice en paroles et en actes, l'homme dont le corps est porteur de Toi, ô Aûharmazd !

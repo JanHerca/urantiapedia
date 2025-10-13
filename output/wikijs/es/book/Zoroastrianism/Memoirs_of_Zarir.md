@@ -36,7 +36,7 @@ MEMORIAS DE ZARIR<br>
 
 Todas las notas a pie de página se han insertado en el texto entre llaves y en una fuente más pequeña {_es decir_}. Ya no tengo acceso al libro del que las escaneé, por lo que no estoy seguro de quién es el traductor, pero lo siguiente es de la Introducción de Horne:\]
 
-> El “Yatkar-i-Zariran” pretende contar las antiguas guerras religiosas de la época de Zoroastro y relata las hazañas heroicas de un campeón llamado Zarir, a quien Firdausi también menciona, pero que por lo demás es desconocido. Sin duda, este mismo Yatkar o alguna versión más antigua del mismo se encontraba entre las fuentes a las que el poeta Firdausi recurrió para escribir su «Shah-Nameh». De hecho, el traductor parsi del Yatkar nos dice que las mismas palabras del «Shah-Nameh» a menudo hacen eco de las del antiguo relato parsi.
+> El «Yatkar-i-Zariran» pretende contar las antiguas guerras religiosas de la época de Zoroastro y relata las hazañas heroicas de un campeón llamado Zarir, a quien Firdausi también menciona, pero que por lo demás es desconocido. Sin duda, este mismo Yatkar o alguna versión más antigua del mismo se encontraba entre las fuentes a las que el poeta Firdausi recurrió para escribir su «Shah-Nameh». De hecho, el traductor parsi del Yatkar nos dice que las mismas palabras del «Shah-Nameh» a menudo hacen eco de las del antiguo relato parsi.
 
 
 ## Índice

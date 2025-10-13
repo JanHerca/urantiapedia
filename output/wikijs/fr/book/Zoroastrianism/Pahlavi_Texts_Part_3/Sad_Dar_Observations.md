@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. La division en dars, « chapitres ou sujets », est indiquée dans les manuscrits originaux ; mais pour celle des sections, le traducteur est responsable, car les subdivisions du texte alterné persan-gu<i>g</i>arâti sont souvent en désaccord avec son sens.
 
-2-6. (Le même qu'à la page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
+2-6. (Le même qu'à la page [2](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_Observations#p2).)
 
 7\. Tous les mots arabes sont cités entre parenthèses lors de leur première occurrence dans le texte. L'orthographe des noms se rapproche davantage du persan moderne que de l'ancien pahlavi.
 

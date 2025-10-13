@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE XVIII.
 
-1. Le dix-huitième sujet est le suivant : il est nécessaire que l’humanité fasse un effort pour pouvoir épouser une femme dans sa jeunesse et avoir un enfant. 2. De même, il est nécessaire que les femmes aient le désir (ra_gh_bat) d’épouser un mari.
+1\. Le dix-huitième sujet est le suivant : il est nécessaire que l’humanité fasse un effort pour pouvoir épouser une femme dans sa jeunesse et avoir un enfant. 2. De même, il est nécessaire que les femmes aient le désir (ra_gh_bat) d’épouser un mari.
 
 3\. Parce qu'il est déclaré dans la révélation [^1], _que_ chaque devoir et chaque bonne œuvre qu'un enfant accomplit devient celui du père et de la mère, tout comme ceux qu'ils ont accomplis de leurs propres mains. 4. Le sens (ma'hnî) de pûr ('un fils') est celui qui signifie pûl ('un pont') [^2], car par ce pont ils arrivent à cet _autre_ monde. 5. S'il n'y a pas d'enfant pour quelqu'un, ils disent qu'il est un avec un pont coupé, c'est-à-dire que le <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> chemin pour lui _vers cet _autre_ monde est coupé, et il n'est pas capable d'atteindre ce monde. 6. À la tête du pont <i>Roi</i> envahi</i> il restera ; 7. Et tout archange qui s'avance à cet endroit demande d'abord ces mots : « As-tu apporté visiblement ton propre substitut dans le monde, ou non ? » 8. Lorsqu'il ne l'aura pas apporté, ils passeront sur lui, et son âme restera à cet endroit [^3], pleine d'angoisse et de chagrin (_gh_am).
 
@@ -90,6 +90,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^10]: (280:2) B29 a « apporter ».
 
-[^11] : (280 : 3) Voir Mkh. II, 118, 119.
+[^11]: (280 : 3) Voir Mkh. II, 118, 119.
 
 [^12]: (280:4) Lp, J15 insérer « et ont dépensé ».

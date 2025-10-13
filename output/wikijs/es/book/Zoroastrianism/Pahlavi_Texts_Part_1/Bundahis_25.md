@@ -68,13 +68,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## Notas al pie
 
-[^1]: (91:3) Es decir, 'sobre los _períodos para_ la observancia de los deberes religiosos'.
+[^1]: (91:3) Es decir, «sobre los _períodos para_ la observancia de los deberes religiosos».
 
 [^2]: (91:4) La práctica judía y musulmana es exactamente la contraria.
 
 [^3]: (91:5) El Av. maidhyô-shema de Yas. I, 27, II, 36, III, 41, Visp. I, 3, II, 1, Âfrîngân Gâhanbâr 2, 8. Es la segunda festividad estacional, celebrada durante cinco días, que finaliza con el día 105 del año parsi, que antiguamente correspondía aproximadamente al solsticio de verano, según los Bundahi<i>s</i>. Escritos posteriores afirman que conmemora la creación del agua.
 
-[^4]: (92:1) Una disputa sobre el significado de esta palabra formó parte importante de la controversia de la Cábala, que se libró entre los líderes de las dos sectas rivales de parsis en Bombay hace unos cincuenta años. Dastur Edalji Dârâbji, sumo sacerdote de la secta predominante (que seguía el calendario tradicional de los parsis indios), insistió en que significaba «solar» o «perteneciente al calendario rectificado para el tiempo solar mediante la intercalación de un mes cada 120 años». Mullâ Firûz, sumo sacerdote de la nueva secta (que había adoptado el calendario de los parsis persas, que se adelanta un mes al otro), afirmó que la palabra no tenía relación con la intercalación, sino que significaba «que comienza» o «perteneciente al día de Año Nuevo», según la traducción al sánscrito de Nêryôsang en Mkh. XLIX, 27. Anquetil lo traduce como «inclusivo» o «completo»; Windischmann simplemente lo omite; y Justi lo traduce en todas partes como «inclusivo». Dastur Edalji lee la palabra vehî<i>g</i>akî o vehî<i>g</i>ak; Nêryôsang tiene vah<i>e</i><i>z</i>a, Mullâ Firûz lee nâî<i>k</i>akîk en los Bundahi<i>s</i>, pero vêhî<i>g</i>akîk en los Dînkar<i>d</i>, donde también aparece la palabra; Justi tiene nâî<i>k</i>akîk. El significado «inclusivo» se ajusta al contexto en casi todos los casos de los Bundahi<i>s</i>, pero no en otros; Si tuviera ese significado, la lectura más probable sería vikhê<i>g</i>akîk o nikhê<i>g</i>akîk, 'surgir, saltar, incluir'. Casi siempre se usa en relación con fechas o períodos de tiempo, y debe ser algún epíteto de carácter muy general, no solo aplicable a períodos intercalares, sino también al día de Año Nuevo y a las fechas en general; algo así como el epíteto árabe mubârak, 'afortunado', tan comúnmente usado en las fechas persas. Dastur Edalji lo compara con el persa bîhrak o bihtarak, 'mes intercalario', que probablemente sea una corrupción de este; y esto sugiere veh, 'bueno', como un componente del epíteto. La palabra puede leerse veh-ya<i>z</i>akîk, 'para reverenciar al bueno', pero como veh, 'bueno', es un adjetivo, esta sería una forma irregular; Una lectura más probable es veh-îkakîk, 'para cualquier cosa buena', que, al aplicarse a un día o período de tiempo, implicaría que es adecuado para cualquier cosa buena, es decir, es 'auspicioso'. A veces la palabra se escribe vehîkak, vêhîkakîk o vêhîkŏ; y los escritores de colofones se aplican epítetos de formas similares en pahlavi, pero estos deberían leerse vakhêzak o nisîvak, 'humilde, abyecto'.
+[^4]: (92:1) Una disputa sobre el significado de esta palabra formó parte importante de la controversia de la Cábala, que se libró entre los líderes de las dos sectas rivales de parsis en Bombay hace unos cincuenta años. Dastur Edalji Dârâbji, sumo sacerdote de la secta predominante (que seguía el calendario tradicional de los parsis indios), insistió en que significaba «solar» o «perteneciente al calendario rectificado para el tiempo solar mediante la intercalación de un mes cada 120 años». Mullâ Firûz, sumo sacerdote de la nueva secta (que había adoptado el calendario de los parsis persas, que se adelanta un mes al otro), afirmó que la palabra no tenía relación con la intercalación, sino que significaba «que comienza» o «perteneciente al día de Año Nuevo», según la traducción al sánscrito de Nêryôsang en Mkh. XLIX, 27. Anquetil lo traduce como «inclusivo» o «completo»; Windischmann simplemente lo omite; y Justi lo traduce en todas partes como «inclusivo». Dastur Edalji lee la palabra vehî<i>g</i>akî o vehî<i>g</i>ak; Nêryôsang tiene vah<i>e</i><i>z</i>a, Mullâ Firûz lee nâî<i>k</i>akîk en los Bundahi<i>s</i>, pero vêhî<i>g</i>akîk en los Dînkar<i>d</i>, donde también aparece la palabra; Justi tiene nâî<i>k</i>akîk. El significado «inclusivo» se ajusta al contexto en casi todos los casos de los Bundahi<i>s</i>, pero no en otros; Si tuviera ese significado, la lectura más probable sería vikhê<i>g</i>akîk o nikhê<i>g</i>akîk, «surgir, saltar, incluir». Casi siempre se usa en relación con fechas o períodos de tiempo, y debe ser algún epíteto de carácter muy general, no solo aplicable a períodos intercalares, sino también al día de Año Nuevo y a las fechas en general; algo así como el epíteto árabe mubârak, «afortunado», tan comúnmente usado en las fechas persas. Dastur Edalji lo compara con el persa bîhrak o bihtarak, «mes intercalario», que probablemente sea una corrupción de este; y esto sugiere veh, «bueno», como un componente del epíteto. La palabra puede leerse veh-ya<i>z</i>akîk, «para reverenciar al bueno», pero como veh, «bueno», es un adjetivo, esta sería una forma irregular; Una lectura más probable es veh-îkakîk, «para cualquier cosa buena», que, al aplicarse a un día o período de tiempo, implicaría que es adecuado para cualquier cosa buena, es decir, es «auspicioso». A veces la palabra se escribe vehîkak, vêhîkakîk o vêhîkŏ; y los escritores de colofones se aplican epítetos de formas similares en pahlavi, pero estos deberían leerse vakhêzak o nisîvak, «humilde, abyecto».
 
 [^5]: (92:2) El undécimo día del cuarto mes, cuando comienza la fiesta.
 
@@ -82,7 +82,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^7]: (93:1) El vigésimo día del décimo mes, cuando termina la fiesta.
 
-[^8]: (93:2) La palabra kah-aît es meramente una forma híbrida Huzvâri<i>s</i> de kahist, 'más corto', que aparece en la frase siguiente.
+[^8]: (93:2) La palabra kah-aît es meramente una forma híbrida Huzvâri<i>s</i> de kahist, «más corto», que aparece en la frase siguiente.
 
 [^9]: (93:3) Esta afirmación debe considerarse meramente una aproximación. El día más largo dura el doble que el más corto en la latitud 49°, es decir, al norte de París, Viena y Odesa, si se calcula la duración del día desde el amanecer hasta el atardecer; y, si se incluye el crepúsculo, es necesario ir aún más al norte. En Âdarbî<i>g</i>ân, la provincia septentrional de Persia, el día más largo dura unas 14 horas y media desde el amanecer hasta el atardecer, y el más corto, unas 9 horas y media.
 
@@ -94,9 +94,9 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^13]: (94:2) Es decir, desde el primer día del octavo mes hasta el último de los cinco días de Gâtha, que se añaden al duodécimo mes para completar el año de 365 días.
 
-[^14]: (94:3) Todos los manuscritos tienen 'cinco meses' aquí.
+[^14]: (94:3) Todos los manuscritos tienen «cinco meses» aquí.
 
-[^15]: (94:4) K20 tiene 'cuando las estrellas _hayan_ aparecido a la vista'.
+[^15]: (94:4) K20 tiene «cuando las estrellas _hayan_ aparecido a la vista».
 
 [^16]: (94:5) Los nombres Avesta de los cinco Gâhs son Hâvani, Rapithwina, Uzayêirina, Aiwisrûthrema y Ushahina.
 
@@ -104,19 +104,19 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^18]: (95:1) Véanse los Caps. V, 8, XI, 3. El norte, al estar opuesto al cuarto sur o del mediodía, se opone al período del mediodía de Rapîtvîn, que, por lo tanto, desaparece a medida que se acerca el invierno desde el norte.
 
-[^19]: (95:2) Si, en lugar de khânî por khânîk, 'manantial', leemos ahû-i, 'señor de', la traducción será, 'para que el ángel de las aguas pueda difundir', etc.
+[^19]: (95:2) Si, en lugar de khânî por khânîk, «manantial», leemos ahû-i, «señor de», la traducción será, «para que el ángel de las aguas pueda difundir», etc.
 
 [^20]: (95:3) El noveno día del décimo mes.
 
 [^21]: (95:4) Es decir, más cálido que el aire, ya que es más fresco en verano.
 
-[^22]: (96:1) K20 tiene 'invierno' por error.
+[^22]: (96:1) K20 tiene «invierno» por error.
 
-[^23]: (96:2) K20 tiene 'seis' y M6 'cinco', en lugar de 'siete'.
+[^23]: (96:2) K20 tiene «seis» y M6 «cinco», en lugar de «siete».
 
 [^24]: (96:3) Este es un relato bastante preciso del efecto de los monzones en la mayor parte de la India, tal como lo entendería un extranjero que no estuviera familiarizado con el diferente estado de las cosas en una gran parte de las provincias de Madrás.
 
-[^25]: (96:4) M6 tiene khûrâsân en lugar de ârâyi<i>s</i>n, 'preparación', lo que altera el sentido a 'es decir, Khûrâsân, cuyo invierno siempre es frío'.
+[^25]: (96:4) M6 tiene khûrâsân en lugar de ârâyi<i>s</i>n, «preparación», lo que altera el sentido a «es decir, Khûrâsân, cuyo invierno siempre es frío».
 
 [^26]: (96:5) Los manuscritos contienen el término Huzvâri<i>s</i> para «mes», que a veces se usa, por error, para «luna». Es dudoso qué palabra pretendía usar el autor aquí, pero es habitual contar los días de un mes lunar desde la primera aparición real de la luna nueva, que suele ocurrir un día completo después del cambio de luna.
 

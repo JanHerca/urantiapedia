@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. La división en capítulos es responsabilidad del traductor, pero las secciones se dividen según el texto alternado pazand-sánscrito de Nêryôsang.
 
-2-6. (Igual que en la página [2](/es/book/Zoroastrismo/Textos_Pahlavi_Parte_3/Observaciones_Dina_i_Mainog_i_Khirad#p2).)
+2-6. (Igual que en la página [2](/es/book/Zoroastrismo/Pahlavi_Texts_Part_3/Observaciones_Dina_i_Mainog_i_Khirad#p2).)
 
 7\. Los manuscritos mencionados son:
 

@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 1\. Sobre la naturaleza de los lagos, se dice en la revelación que así se han observado muchas fuentes de agua, a las que llaman lagos (var); contrapartes de los ojos (<i>k</i>ashm) de los hombres son esas fuentes (<i>k</i>ashmak) de agua; como el lago <i>K</i>ê<i>k</i>ast, el lago Sôvbar, el lago Khvâri<i>z</i>em [^1], el lago Frazdân, el lago Zarînmand, el lago Âsvast, el lago Husru, el lago Satavês y el lago Urvis.
 
-2\. Los mencionaré también por segunda vez: el lago <i>K</i>ê<i>k</i>ast [^2] está en Âtarô-pâtakân; sus aguas son cálidas y resistentes al daño, de modo que no hay nada vivo en él; y su fuente está conectada con el vasto océano [^3]. 3. El lago Sôvbar se encuentra en el distrito y región superior, en la cima de la montaña de Tûs [^4]; como se dice, el Sû<i>d</i>\-bâhar [^5] ('participación en el beneficio') es propicio y bueno, de lo cual se produce abundante <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> liberalidad. 4. Respecto al lago Khvâri<i>z</i>em [^6], se dice que de él se obtiene un beneficio excelente, es decir, Arshi<i>s</i>ang [^7], el rico en riquezas, el bien provisto con abundante placer. 5. El lago Frazdân [^8] está en Sagastân; dicen que, si un hombre generoso, que es justo, arroja algo en él, lo recibe; si no es justo, lo arroja de nuevo; su fuente también está conectada con el vasto océano. 6. El lago Zarînmand está en Hama<i>d</i>ân [^9]. 7. Respecto al lago Âsvast, se declara que el agua pura [^10] que contiene fluye constantemente hacia el mar, tan brillante y abundante [^11] que _uno_ podría decir que el sol ha entrado en ella _y_ ha mirado al lago Âsvast, a esa agua necesaria para restaurar a los muertos en la renovación _del universo_. 8. El lago Husru [^12] está a cincuenta [^13]
+2\. Los mencionaré también por segunda vez: el lago <i>K</i>ê<i>k</i>ast [^2] está en Âtarô-pâtakân; sus aguas son cálidas y resistentes al daño, de modo que no hay nada vivo en él; y su fuente está conectada con el vasto océano [^3]. 3. El lago Sôvbar se encuentra en el distrito y región superior, en la cima de la montaña de Tûs [^4]; como se dice, el Sû<i>d</i>\-bâhar [^5] («participación en el beneficio») es propicio y bueno, de lo cual se produce abundante <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> liberalidad. 4. Respecto al lago Khvâri<i>z</i>em [^6], se dice que de él se obtiene un beneficio excelente, es decir, Arshi<i>s</i>ang [^7], el rico en riquezas, el bien provisto con abundante placer. 5. El lago Frazdân [^8] está en Sagastân; dicen que, si un hombre generoso, que es justo, arroja algo en él, lo recibe; si no es justo, lo arroja de nuevo; su fuente también está conectada con el vasto océano. 6. El lago Zarînmand está en Hama<i>d</i>ân [^9]. 7. Respecto al lago Âsvast, se declara que el agua pura [^10] que contiene fluye constantemente hacia el mar, tan brillante y abundante [^11] que _uno_ podría decir que el sol ha entrado en ella _y_ ha mirado al lago Âsvast, a esa agua necesaria para restaurar a los muertos en la renovación _del universo_. 8. El lago Husru [^12] está a cincuenta [^13]
 
 <span id="p87"><sup><small>[ pág. 87 ]</small></sup></span>
 
@@ -86,13 +86,13 @@ leguas (parasang). del lago <i>K</i>ê<i>k</i>ast. 9. El lago (o, mejor dicho, g
 
 [^9]: (86:4) K20 añade: «Dicen». Este lago no puede ser el manantial Zarînmand del cap. XX, 34.
 
-[^10]: (86:5) Pâz. avnasti transcrito al pahlavi es avinastag, 'intacto', el equivalente de Av. anâhita en Yas. LXIV, 1, 16, Visp. I, 18.
+[^10]: (86:5) Pâz. avnasti transcrito al pahlavi es avinastag, «intacto», el equivalente de Av. anâhita en Yas. LXIV, 1, 16, Visp. I, 18.
 
-[^11]: (86:6) K20 tiene 'glorioso' como un comentario sobre 'copioso'.
+[^11]: (86:6) K20 tiene «glorioso» como un comentario sobre «copioso».
 
-[^12]: (86:7) El Av. Haosravangha de Sîroz. 9, 'el lago que se llama Husrav<i>a</i>u' de Zamyâd Yt. 56. Puede ser el lago Van o el lago Sevan, que son casi equidistantes del lago Urumiyah.
+[^12]: (86:7) El Av. Haosravangha de Sîroz. 9, «el lago que se llama Husrav<i>a</i>u» de Zamyâd Yt. 56. Puede ser el lago Van o el lago Sevan, que son casi equidistantes del lago Urumiyah.
 
-[^13]: (86:8) M6 tiene 'cuatro leguas'.
+[^13]: (86:8) M6 tiene «cuatro leguas».
 
 [^14]: (87:1) Véase Cap. XIII, 9-13.
 

@@ -124,7 +124,7 @@ Yathâ ahû vairyô; La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^1256]: 284:4 ? Un daêva ou une maladie.
 
-[^1257] : 284 : 5 Voir Yt. VIII, 22.
+[^1257]: 284 : 5 Voir Yt. VIII, 22.
 
 [^1258]: 284:6 Voir Yt. XVII.
 
@@ -134,12 +134,12 @@ Yathâ ahû vairyô; La volonté du Seigneur est la loi de la sainteté . . . .
 
 [^1261]: 284:9 Afin que la pluie tombe en son temps (Yt. VIII, 11).
 
-[^1262] : 284:10 Cf. Yt. VIII, 29.
+[^1262]: 284:10 Cf. Yt. VIII, 29.
 
 [^1263]: 284:11 Cf. § 2.
 
 [^1264]: 285:1 Arshukhdha va<i>k</i>ô, les mots conformes aux rites.
 
-[^1265] : 285:2 Haoma<i>k</i>inem ; voir Études Iraniennes, II, 148.
+[^1265]: 285:2 Haoma<i>k</i>inem ; voir Études Iraniennes, II, 148.
 
 [^1266]: 285:3 Qui aura sacrifié à la Gloire Aryenne.

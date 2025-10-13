@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Porque se declara en la revelación que, si no hubiera habido fuego sagrado, nadie habría podido ir de ciudad en ciudad; porque es debido a la gloria del fuego sagrado que nadie en los caminos puede cometer un exceso con nadie más.
 
-4. Es necesario que presenten toda la leña; y, a quien la enciende, le deben dar pan y un salario (nafaqah). 5. Porque, cada vez que ese fuego se sacia y lo mantienen adecuadamente, todo fuego que exista en la tierra de las siete regiones se sacia con esa persona.
+4\. Es necesario que presenten toda la leña; y, a quien la enciende, le deben dar pan y un salario (nafaqah). 5. Porque, cada vez que ese fuego se sacia y lo mantienen adecuadamente, todo fuego que exista en la tierra de las siete regiones se sacia con esa persona.
 
 <figure class="table chapter-navigator">
   <table>

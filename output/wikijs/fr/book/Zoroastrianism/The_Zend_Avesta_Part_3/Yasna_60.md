@@ -76,7 +76,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1303]: 310:2 Dit lors de la visite des fermes par le prêtre itinérant.
 
-[^1304] : 310 : 3 Voir Y. XLIII, 3.
+[^1304]: 310 : 3 Voir Y. XLIII, 3.
 
 [^1305]: 310:4 Gau<i>s</i> semble féminin ici, et utilisé collectivement, et ha<i>k</i>a a le sens indien de sa<i>k</i>a.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1311]: 311:5 Peut-être, « un bon support ».
 
-[^1312] : 311 : 6 Pahl. Benaf<i>s</i>man.
+[^1312]: 311 : 6 Pahl. Benaf<i>s</i>man.
 
 [^1313]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô détermine le sens.
 

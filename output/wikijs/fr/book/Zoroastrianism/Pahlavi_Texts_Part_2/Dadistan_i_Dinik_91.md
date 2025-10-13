@@ -92,7 +92,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^10]: (261:2) C'est-à-dire « un lieu de vie » (voir § 3 n).
 
-[^11] : (261:3) Lecture dî<i>d</i>ŏ, 'vu;' mais cela peut être stô pour stî, « matériel ».
+[^11]: (261:3) Lecture dî<i>d</i>ŏ, 'vu;' mais cela peut être stô pour stî, « matériel ».
 
 [^12]: (261:4) C'est-à-dire, alors que le ciel était encore un espace indéfini, la région de la lumière, mais pas un lieu d'habitation ; bien que les esprits gardiens aient été créés comme représentants des créatures, à la fois spirituelles et matérielles, qui devaient être produites plus tard (voir Bd. I, 8).
 

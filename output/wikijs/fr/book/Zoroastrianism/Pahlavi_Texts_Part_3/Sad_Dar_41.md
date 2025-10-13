@@ -86,7 +86,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^9]: (304:2) Lp, B29 utilise la même forme de mots dans les §§ 10-16 que dans les §§ 8, 9.
 
-[^10] : (304 : 3) Voir Mkh. II, 34.
+[^10]: (304 : 3) Voir Mkh. II, 34.
 
 [^11]: (304:4) Douteux, et non compris par le traducteur Gu<i>g</i>arâti.
 

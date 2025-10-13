@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^4]: (217:2) Une personnification d'Av. a<i>z</i>i srvara, un serpent ou dragon ainsi décrit dans le Hôm Yt. (Yas. IX, 34-39) : « (Keresâspa) qui tua le serpent Srvara qui dévorait chevaux et hommes, qui était venimeux et jaune, sur lequel coulait un poison jaune d'une largeur de main (longueur de lance ?) de hauteur. Sur quoi Keresâspa fit cuire une boisson dans un chaudron à l'heure de midi, et le serpent brûla, siffla, bondit loin du chaudron et renversa l'eau bouillante ; Keresâspa Nareman<i>a</i>u s'enfuit effrayé » (voir Haug's Essays, pp. 178, 179). Le même récit est donné dans Zamyâ<i>d</i> Yt. 40.
 
-[^5] : (217 :3) M14 a bîmînî<i>d</i>ârîh, 'terrifiant'.
+[^5]: (217 :3) M14 a bîmînî<i>d</i>ârîh, 'terrifiant'.
 
 [^6]: (217:4) Voir Chap. LXXVIII, a. Il y a peut-être un lien entre ce nom et l'épithète av. Vadhaghana, qui est ainsi mentionnée par l'esprit maléfique, parlant à Zaratûst, dans Vend. XIX, 23 : « Maudite soit la bonne religion adoratrice de Ma<i>z</i><i>d</i>a ! et tu obtiendras une fortune telle que celle obtenue par le souverain Vadhaghana » ; et Mkh. LVII, 25 l'appelle « le souverain Va<i>d</i>agân Dahâk ». Les auteurs Pahlavi semblent avoir pris cette épithète comme une épithète matronymique, en raison de sa forme, mais il est douteux que le nom de la mère soit réellement traditionnel ou simplement fabriqué à partir de l'épithète.
 

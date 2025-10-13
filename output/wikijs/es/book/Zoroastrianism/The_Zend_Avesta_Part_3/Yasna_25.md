@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 6\. Y adoramos la Mãthra Spe<i>n</i>ta, verdaderamente gloriosa (tal como es), es decir, la ley pronunciada contra los Daêvas, la ley de Zaratustra, y su larga tradición [^1163]; sí, adoramos la buena Religión Mazdayasniana, y la Mãthra, que es devota y generosa (que imparte devoción del corazón al santo); sí, adoramos la Religión Mazdayasniana mantenida en el entendimiento [^1164] del santo; y honramos esa ciencia que es la Mãthra Spe<i>n</i>ta, y el entendimiento innato, creado por Mazda, y el entendimiento derivado, escuchado con el oído y creado por Mazda.
 
-7. Sí, te adoramos a ti, el Fuego, hijo de Ahura Mazda, el santo señor del orden ritual; y adoramos a todos los Fuegos, y al Monte Ushi-darena (que contiene la luz [^1165]), hecho por Mazda y sagrado, el monte Yazad, resplandeciente de santidad. 8. Y adoramos a todo santo Yazad espiritual [^1166]; y a todo santo Yazad terrenal (que existe).
+7\. Sí, te adoramos a ti, el Fuego, hijo de Ahura Mazda, el santo señor del orden ritual; y adoramos a todos los Fuegos, y al Monte Ushi-darena (que contiene la luz [^1165]), hecho por Mazda y sagrado, el monte Yazad, resplandeciente de santidad. 8. Y adoramos a todo santo Yazad espiritual [^1166]; y a todo santo Yazad terrenal (que existe).
 
 
 

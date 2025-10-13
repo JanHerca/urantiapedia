@@ -88,7 +88,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^11]: (292:3) Au cours de laquelle des bavardages intempestifs se produisent.
 
-[^12]: (292:4) Généralement écrit Gêtî-kharî<i>d</i> (voir Bund. XXX, 28) ; mais, peut-être, devrions-nous lire ici yastôfrî<i>d</i>, 'offrande', bien que gêtôk-kharî<i>d</i> apparaisse au chap. XII, 30.
+[^12]: (292:4) Généralement écrit Gêtî-kharî<i>d</i> (voir Bund. XXX, 28) ; mais, peut-être, devrions-nous lire ici yastôfrî<i>d</i>, « offrande », bien que gêtôk-kharî<i>d</i> apparaisse au chap. XII, 30.
 
 [^13]: (292:5) Les manuscrits n'ont que stôfrî<i>d</i>, qui ne diffère du gêtô-kharî<i>d</i> précédent que par une seule lettre Pahlavi, nous devrions donc probablement lire le même mot dans les deux cas, mais on ne sait pas lequel d'entre eux.
 

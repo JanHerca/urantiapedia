@@ -58,13 +58,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 9\. Nueve _por aquel_ que va a sembrar maíz; esto lo dice por esta _razón_, porque el maíz madurará (rasê<i>d</i>) en nueve meses, _y_ para que el maíz pueda brotar hará que el daño de las criaturas nocivas sea menor [^9].
 
-10. Diez por quien va a buscar esposa, para que los regalos sean favorables para el propósito. 11. Diez por quien desea permitir al varón el acceso a bestias de carga y ganado, para que sea más procreativo [^10].
+10\. Diez por quien va a buscar esposa, para que los regalos sean favorables para el propósito. 11. Diez por quien desea permitir al varón el acceso a bestias de carga y ganado, para que sea más procreativo [^10].
 
 12\. Once _por aquel_ que sube a los montes altos, para que la gloria de los montes y de los collados lo bendiga _y_ le sea amiga [^11].
 
 13\. Doce _por aquel_ que va a los distritos bajos, para que la gloria de ese país y distrito lo bendiga y sea amiga [^12].
 
-14\. Trece por quien se vuelva impenetrable; en ese mismo lugar las pronunciará; o por quien cruce un puente y un río, para que el espíritu de esa agua lo bendiga [^13]; porque el Yathâ-ahû-vairyô es más grande y exitoso que todo lo que dice el Avesta en cuanto a ríos, bienestar y protección.
+14\. Trece _por quien_ se vuelva impenetrable; en ese mismo lugar las pronunciará; o _por quien_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span>cruce un puente y un río, para que el espíritu de esa agua lo bendiga [^13]; porque el Yathâ-ahû-vairyô es más grande y exitoso _que_ todo lo que dice el Avesta en cuanto a ríos, bienestar y protección.
 
 15\. La religión está tan conectada con el Yathâ-ahû-vairyô como el cabello está más conectado con la gloria del rostro; cualquiera, de hecho, temería (samâ<i>d</i>) separar la vellosidad _y_ la gloria del rostro.
 
@@ -102,7 +102,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^4]: (391:1) Las palabras pavan mîni<i>s</i>n se adivinan, ya que esta primera cláusula se omite por error en M6, y estas dos palabras son ilegibles en K20, excepto parte de la última letra.
 
-[^5]: (391:2) K20 sustituye val, 'en', por la siguiente frase mutilada \[. . . . aNh<i>a</i>u khshapô ka<i>d</i>ar<i>k</i>âi pavan ka<i>d</i>âr<i>k</i>âî\] madam vazlûnê<i>d</i> râ<i>d</i>ih-i; la parte entre paréntesis es evidentemente un fragmento del Hâ<i>d</i>ôkht Srôsh Yt. 5 con traducción Pahlavi (un pasaje que trata de la eficacia de recitar el Yathâ-ahû-vairyô). Si este fragmento no es una simple glosa marginal, que se ha colado en el texto por error, debemos traducir toda la sección de la siguiente manera: «Cuatro son para la salida más agradecida de la liberalidad de una festividad estacional, cuando continúa el pasaje: “en ese día ni en esa noche llega nada a nadie”. El Dînkar<i>d</i> simplemente dice: «Cuatro por aquel que está en la invocación de los jefes de la creación y en la celebración de una festividad estacional». Los Rivâyats persas omiten esta sección por completo.
+[^5]: (391:2) K20 sustituye val, «en», por la siguiente frase mutilada \[. . . . aNh<i>a</i>u khshapô ka<i>d</i>ar<i>k</i>âi pavan ka<i>d</i>âr<i>k</i>âî\] madam vazlûnê<i>d</i> râ<i>d</i>ih-i; la parte entre paréntesis es evidentemente un fragmento del Hâ<i>d</i>ôkht Srôsh Yt. 5 con traducción Pahlavi (un pasaje que trata de la eficacia de recitar el Yathâ-ahû-vairyô). Si este fragmento no es una simple glosa marginal, que se ha colado en el texto por error, debemos traducir toda la sección de la siguiente manera: «Cuatro son para la salida más agradecida de la liberalidad de una festividad estacional, cuando continúa el pasaje: «en ese día ni en esa noche llega nada a nadie». El Dînkar<i>d</i> simplemente dice: «Cuatro por aquel que está en la invocación de los jefes de la creación y en la celebración de una festividad estacional». Los Rivâyats persas omiten esta sección por completo.
 
 [^6]: (391:3) Esta persona se omite tanto en M6 como en K20, pero se la necesita para completar los cinco. Esta sección se omite en los Rivâyats persas.
 

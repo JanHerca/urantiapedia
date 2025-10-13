@@ -44,7 +44,7 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 5\. También sobre un asalto con una, dos o tres armas, o más, en conjunto; o pueden cometerlo en el acto, en confederación o como primera ofensa [^5]. 6. Sobre la magnitud de una herida cuando una espada de dos filos (dôbarakŏ) se hunde, el área (sarâî), las paredes y los alrededores, y la forma en que se hunde; lo que está cortado, hendido o mutilado, o un torrente de sangre fluyendo; la aflicción (vamang) del furioso azote de la serpiente (mârvanô) [^6], y la longitud, el brillo y el peso del arma.
 
-7. El ritual para la curación de una herida y la desaparición del dolor, velando por él durante tres noches o un año, su mayor o menor gravedad, su curación (s<i>p</i>ôrîkîh) o incurabilidad, y todo lo relacionado con el mismo tema. 8. Enumeraciones triviales y decisiones sobre cada una por separado.
+7\. El ritual para la curación de una herida y la desaparición del dolor, velando por él durante tres noches o un año, su mayor o menor gravedad, su curación (s<i>p</i>ôrîkîh) o incurabilidad, y todo lo relacionado con el mismo tema. 8. Enumeraciones triviales y decisiones sobre cada una por separado.
 
 <figure class="table chapter-navigator">
   <table>

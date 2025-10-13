@@ -34,9 +34,9 @@ dateCreated: 2025-10-10T14:56:40Z
 
 ## BUNDAHI<i>S</i>. CHAPITRE XXXII [^1]
 
-1\. Sur la parenté de Pôrûshasp [^2], _fils_ de Paîtirâsp [^3], _fils_ d'Aurvadasp [^4], _fils_ de Hâê<i>k</i>a<i>d</i>âsp [^5], _fils_ de <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> <i>K</i>akhshnû<i>s</i> [^6], _fils_ de Pâîtîrasp, _fils_ de Hardar<i>s</i>n [^7], _fils_ de Hardâr [^8], _fils_ de Spîtâmân [^9], _fils_ de Vîda<i>s</i>t [^10], _fils_ d'Ayazem, _fils_ de Ra<i>g</i>an [^11], _fils_ de Dûrâsrôb [^12], _fils_ de Mânû<i>s</i>kîhar [^13]. 2. Comme Paîtirâsp avait deux fils, Pôrûshasp et Ârâsti [^14], Zaratû<i>s</i>t fut engendré de Pôrûshasp pour un sanctuaire de bonne religion [^15], et Mê<i>d</i>yôk-mâh [^16] fut engendré d'Ârâsti. 3. Zaratû<i>s</i>t, lorsqu'il apporta la religion, célébra d'abord le culte [^17] et l'exposa dans l'Aîrân-vê<i>g</i>, et Mê<i>d</i>yôk-mâh reçut de lui la religion. 4. Les Môbads [^18] de Pârs sont tous ramenés à cette race de Mânû<i>s</i><i>k</i>îhar.
+1\. Sur la parenté de Pôrûshasp [^2], _fils_ de Paîtirâsp [^3], _fils_ d'Aurvadasp [^4], _fils_ de Hâê<i>k</i>a<i>d</i>âsp [^5], _fils_ de <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> <i>K</i>akhshnû<i>s</i> [^6], _fils_ de Pâîtîrasp, _fils_ de Hardar<i>s</i>n [^7], _fils_ de Hardâr [^8], _fils_ de Spîtâmân [^9], _fils_ de Vîda<i>s</i>t [^10], _fils_ d'Ayazem, _fils_ de Ra<i>g</i>an [^11], _fils_ de Dûrâsrôb [^12], _fils_ de Mânû<i>s</i>kîhar [^13]. 2. Comme Paîtirâsp avait deux fils, Pôrûshasp et Ârâsti [^14], Zaratû<i>s</i>t fut engendré de Pôrûshasp pour un sanctuaire de bonne religion [^15], et Mê<i>d</i>yôk-mâh [^16] fut engendré d'Ârâsti. 3. Zaratû<i>s</i>t, lorsqu'il apporta la religion, célébra d'abord <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> le culte [^17] et l'exposa dans l'Aîrân-vê<i>g</i>, et Mê<i>d</i>yôk-mâh reçut de lui la religion. 4. Les Môbads [^18] de Pârs sont tous ramenés à cette race de Mânû<i>s</i><i>k</i>îhar.
 
-5\. De plus, je dis que de Zaratûst [^19] furent engendrés trois fils et trois filles [^20] ; l'un des fils était Isa<i>d</i>vâstar [^21], un Aûrvata<i>d</i>-nar [^22], et un Khûrshê<i>d</i>-kîhar [^23] ; comme Isa<i>d</i>vâstar était chef des prêtres, il devint le Môbad des Môbads, et mourut dans la centième année de la religion ; Aûrvata<i>d</i>-nar était agriculteur, et le chef de l'enceinte formée par Yim [^24], qui est sous la terre ; Khûrshê<i>d</i>\-<i>k</i>îhar _était_ un guerrier, commandant de l'armée de Pêshyôtanû, _fils_ de Vi<i>s</i>tâsp, _et_ habite à Kangde<i>z</i> [^24] ; _et_ des trois filles, le nom de l'une était Frên, celui d'une Srît, _et_ celui d'un Pôru<i>k</i>îst [^25]. 6. Aûrvata<i>d</i>\-nar et Khûrshê<i>d</i>\-<i>k</i>îhar étaient issus d'une épouse servante (<i>k</i>akar) [^26], les autres étaient issus d'une épouse privilégiée (pâ<i>d</i>akhshah). <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> 7 [^27]. D'Isa<i>d</i>vâstar fut engendré un fils _dont_ le nom était Ururvi<i>g</i>a [^28], et ils l'appellent Aran<i>g</i>\-i Bîrâ<i>d</i>ân [^29] ('avant-bras des frères') pour cette raison, que, comme ils <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> étaient d'une épouse servante, _elle_ les a ensuite remis à Isa<i>d</i>vâstar par adoption. 8. On sait aussi que trois fils de Zaratûst, à savoir Hûshêdar, Hûshêdar-mâh [^30] et Sôshyans [^31], étaient de Hvôv [^32] ; comme il est dit que Zaratûst s'approcha de Hvôv trois fois, et chaque fois la semence tomba en terre ; l'ange Nêryôsang [^33] reçut l'éclat et la force de cette semence, la remit avec soin à l'ange Anâhîd [^34], et avec le temps la fusionnera avec une mère. 9. Neuf mille neuf cent quatre-vingt-dix-neuf et neuf myriades [^35] des esprits gardiens des justes sont chargés de sa protection, afin que les démons ne puissent pas lui faire de mal [^36].
+5\. De plus, je dis que de Zaratûst [^19] furent engendrés trois fils et trois filles [^20] ; l'un des fils était Isa<i>d</i>vâstar [^21], un Aûrvata<i>d</i>-nar [^22], et un Khûrshê<i>d</i>-kîhar [^23] ; comme Isa<i>d</i>vâstar était chef des prêtres, il devint le Môbad des Môbads, et mourut dans la centième année de la religion ; Aûrvata<i>d</i>-nar était agriculteur, et le chef de l'enceinte formée par Yim [^24], qui est sous la terre ; Khûrshê<i>d</i>\-<i>k</i>îhar _était_ un guerrier, commandant de l'armée de Pêshyôtanû, _fils_ de Vi<i>s</i>tâsp, _et_ habite à Kangde<i>z</i> [^24] ; _et_ des trois filles, le nom de l'une était Frên, celui d'une Srît, _et_ celui d'un Pôru<i>k</i>îst [^25]. 6. Aûrvata<i>d</i>\-nar et Khûrshê<i>d</i>\-<i>k</i>îhar étaient issus d'une épouse servante (<i>k</i>akar) [^26], les autres étaient issus d'une épouse privilégiée (pâ<i>d</i>akhshah). <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> 7 [^27]. D'Isa<i>d</i>vâstar fut engendré un fils _dont_ le nom était Ururvi<i>g</i>a [^28], et ils l'appellent Aran<i>g</i>\-i Bîrâ<i>d</i>ân [^29] (« avant-bras des frères ») pour cette raison, que, comme ils <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> étaient d'une épouse servante, _elle_ les a ensuite remis à Isa<i>d</i>vâstar par adoption. 8. On sait aussi que trois fils de Zaratûst, à savoir Hûshêdar, Hûshêdar-mâh [^30] et Sôshyans [^31], étaient de Hvôv [^32] ; comme il est dit que Zaratûst s'approcha de Hvôv trois fois, et chaque fois la semence tomba en terre ; l'ange Nêryôsang [^33] reçut l'éclat et la force de cette semence, la remit avec soin à l'ange Anâhîd [^34], et avec le temps la fusionnera avec une mère. 9. Neuf mille neuf cent quatre-vingt-dix-neuf et neuf myriades [^35] des esprits gardiens des justes sont chargés de sa protection, afin que les démons ne puissent pas lui faire de mal [^36].
 
 10\. Le nom de la mère de Zaratû<i>s</i>t était Dughdâ [^37], _et_ le nom du père de la mère de Zaratû<i>s</i>t était Frahimravâ [^38].
 
@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^1]: (140:6) Ce chapitre, qui est numéroté XXXIII par les traducteurs précédents, se retrouve dans tous les MSS., mais dans TD il forme une continuation du chapitre précédent, commençant par le nom Pôrûshasp.
 
-[^2] : (140:7) Av. Pourushaspa de Yas. IX, 42, 43, Vend. XIX, 15, 22, 143, Âbân Yt. 18, etc.
+[^2]: (140:7) Av. Pourushaspa de Yas. IX, 42, 43, Vend. XIX, 15, 22, 143, Âbân Yt. 18, etc.
 
 [^3]: (140:8) K20 contient Pâz. Spitarsp, et M6 contient Pâz. Piruasp (voir note sur Chap. XXXIII, 1). La lecture dans le texte est douteuse.
 
@@ -92,13 +92,13 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^13]: (141:8) Cette généalogie est donnée quelque peu différemment dans le Va<i>g</i>arkar<i>d</i>\-i Dînîk (pp. 28, 29), tel que publié à Bombay par Dastur Peshotanji Behramji Sanjânâ en 1848 ; et est étendue en arrière, à travers les générations mentionnées au chap. XXXI, 1, 2, 7, 14, à Gâyômar<i>d</i>, comme suit : 'Pôrûshâspô _fils_ de Paîtîrâsp, _et_ Arâspô fils de Paîtîrâsp, Urva<i>n</i>dasp, Haê<i>k</i>a<i>d</i>asp, <i>K</i>ikhshnu<i>s</i>, Paêtirasp, Hardr<i>s</i>n, Haridâr, Spîtâmânŏ, Vaêdi<i>s</i>t, Nayâzem, Ra<i>g</i>i<i>s</i>n, Dûrâsrôb, Mânû<i>s</i>k</i>îhar souverain d'Iran, Mânu<i>s</i>-khûrnar, Mânu<i>s</i>\-khûrnâk, Nêryôsang, Var<i>z</i>î<i>d</i>\-dîn, Vîzak, Airyak, Aithritak, Ibitak, Frazî<i>s</i>ak, Zi<i>s</i>ak, Frasizak, Izak, Aîrî<i>k</i>, Frê<i>d</i>ûn seigneur des Khvanîras, Pûr-tôrâ l'Âspîkân, Nêvak-tôrâ l'Âspîkân, Sôg-tôrâ l'Âspîkân, Gêfar-tôrâ l'Âspîkân, Vanô-i-fravi<i>s</i>n l'Âspîkân, Yim seigneur des sept régions, Vîvanghâû, Ayangha<i>d</i>, Anangha<i>d</i>, Takhmôrup, Hôshâng le Pê<i>s</i>dâ<i>d</i>, seigneur des sept régions, Fravâk, Sîyâmak, Mashyô dont l'épouse était Mashyãk, Gâyôkmar<i>d</i> le premier homme, et père de toute l'humanité dans le monde matériel.
 
-[^14] : (141:9) Av. Âkrâstaya de Fravardîn Yt. 95 ; TD a Ârâstih.
+[^14]: (141:9) Av. Âkrâstaya de Fravardîn Yt. 95 ; TD a Ârâstih.
 
 [^15]: (141:10) Les mots Pâzand dargâ hidaini<i>s</i> semblent être simplement une mauvaise lecture de Pahl. dargâs-i hûdînôîh.
 
 [^16]: (141:11) Av. Maidhyô-m<i>a</i>ungha de Yas. L, 19, Fravardîn Yt. 95, 106. Il aurait été le premier disciple de Zaratû<i>s</i>t.
 
-[^17]: (142:1) Lire frâ<i>g</i> ya<i>s</i>t; mais cela peut être frâ<i>g</i> ga<i>s</i>t, 'erré'.
+[^17]: (142:1) Lire frâ<i>g</i> ya<i>s</i>t; mais cela peut être frâ<i>g</i> ga<i>s</i>t, « erré ».
 
 [^18]: (142:2) La classe de prêtres dont le devoir spécial est d'accomplir tous les rites et cérémonies religieux.
 
@@ -106,11 +106,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^20]: (142:4) K20 omet ici les « trois filles », par erreur.
 
-[^21] : (142:5) Av. Isa<i>d</i>\-vâstra de Yas. XXIII, 4, XXVI, 17, Fravardîn Yt. 98.
+[^21]: (142:5) Av. Isa<i>d</i>\-vâstra de Yas. XXIII, 4, XXVI, 17, Fravardîn Yt. 98.
 
-[^22] : (142:6) Av. Urvata<i>d</i>\-nara de Vend. II, 143, Fravardîn Yt. 98. K20 et A16 ont Aûrvâta<i>d</i>\-nar, et TD a Aûrvâta<i>d</i>\-nar.
+[^22]: (142:6) Av. Urvata<i>d</i>\-nara de Vend. II, 143, Fravardîn Yt. 98. K20 et A16 ont Aûrvâta<i>d</i>\-nar, et TD a Aûrvâta<i>d</i>\-nar.
 
-[^23] : (142:7) Av. Hvare-<i>k</i>ithra de Fravardîn Yt. 98 ; TD a Khûr-<i>k</i>îhar.
+[^23]: (142:7) Av. Hvare-<i>k</i>ithra de Fravardîn Yt. 98 ; TD a Khûr-<i>k</i>îhar.
 
 [^24]: (142:8) Voir Chap. XXIX, 5. Windischmann et Justi considèrent la clause concernant Pêshyôtanû comme insérée par erreur, et elle est omise dans le Va<i>g</i>arkar<i>d</i>\-i Dînîk (p. 21) ; on la trouve cependant dans tous les manuscrits des Bundahi<i>s</i>.
 
@@ -124,15 +124,15 @@ dateCreated: 2025-10-10T14:56:40Z
   Une épouse khûd-<i>s</i>arâî ou khûd-sarâî (« qui dispose d'elle-même ») est une épouse qui se marie sans le consentement de ses parents ; elle n'hérite d'aucun bien de ses parents jusqu'à ce que son fils aîné l'ait donnée comme épouse pâdshâh à son père.
 
 [^27]: (143:1) Au lieu de cette phrase, le Va<i>g</i>arkar<i>d</i>\-i Dînîk (pp. 21, 22) contient la phrase suivante, qui semble reposer sur une mauvaise interprétation du texte :
-  'Et Zaratûst le juste avait trois femmes ; toutes trois étaient du vivant de Zaratûst, et toutes trois étaient vivantes tout au long de sa vie ; le nom de l'une était Hvôv, la seconde Urvig, la troisième Arnig\-baredâ. Et d'Urvig, qui était une épouse privilégiée, naquirent quatre enfants ; l'un était le fils Isadvâstar, et les trois filles, à savoir Frên, Srîtak et Pôrukist ; ces quatre étaient d'Urvig.' De l'épouse d'Arni<i>g</i>\-baredâ naquirent deux fils, l'un Aûrvart-nar, et le second Khûrshêd-<i>k</i>îhar ; Arni<i>g</i>\-baredâ était une épouse servante, et le nom de son premier mari était Mitrô-ayâr. De Hvôv, qui était une épouse privilégiée, naquirent trois fils, à savoir Hûshê<i>d</i>ar, Hûshê<i>d</i>ar-mâh, et Sôshâns, comme il est dit, etc. (voir § 8).
+  « Et Zaratûst le juste avait trois femmes ; toutes trois étaient du vivant de Zaratûst, et toutes trois étaient vivantes tout au long de sa vie ; le nom de l'une était Hvôv, la seconde Urvig, la troisième Arnig\-baredâ. Et d'Urvig, qui était une épouse privilégiée, naquirent quatre enfants ; l'un était le fils Isadvâstar, et les trois filles, à savoir Frên, Srîtak et Pôrukist ; ces quatre étaient d'Urvig. » De l'épouse d'Arni<i>g</i>\-baredâ naquirent deux fils, l'un Aûrvart-nar, et le second Khûrshêd-<i>k</i>îhar ; Arni<i>g</i>\-baredâ était une épouse servante, et le nom de son premier mari était Mitrô-ayâr. De Hvôv, qui était une épouse privilégiée, naquirent trois fils, à savoir Hûshê<i>d</i>ar, Hûshê<i>d</i>ar-mâh, et Sôshâns, comme il est dit, etc. (voir § 8).
 
-[^28] : (143:2) TD a Pahl. Aûrvarvî<i>g</i>ak ou Khûrûrûpak.
+[^28]: (143:2) TD a Pahl. Aûrvarvî<i>g</i>ak ou Khûrûrûpak.
 
 [^29]: (143:3) Donc dans TD.
 
-[^30] : (144:1) Av. Ukhshya<i>d</i>\-ereta et Ukhshya<i>d</i>\-nemangh de Fravardîn Yt. 128.
+[^30]: (144:1) Av. Ukhshya<i>d</i>\-ereta et Ukhshya<i>d</i>\-nemangh de Fravardîn Yt. 128.
 
-[^31] : (144:2) Av. Saoshyãs de Vend. XIX, 18, Fravardîn Yt. 129, etc. Voir Chap. XI, 6, XXIX, 6, XXX, 3, 4, 7, 17, 25, 27.
+[^31]: (144:2) Av. Saoshyãs de Vend. XIX, 18, Fravardîn Yt. 129, etc. Voir Chap. XI, 6, XXIX, 6, XXX, 3, 4, 7, 17, 25, 27.
 
 [^32]: (144:3) Av. Hvôvi de Fravardîn Yt. 139, Dîn Yt. 15 ; la forme Pahlavi du nom, telle qu'elle est donnée une fois dans TD, est Hûvâôbŏ.
 

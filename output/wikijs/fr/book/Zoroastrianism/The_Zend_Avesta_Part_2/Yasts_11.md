@@ -245,11 +245,11 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^769]: 160:2 Douteux.
 
-[^770] : 160 : 3 Derezvã : Pahl. huzvân; cf. Yt. Moi, 28 ans.
+[^770]: 160 : 3 Derezvã : Pahl. huzvân; cf. Yt. Moi, 28 ans.
 
 [^771]: 160:4 C'est la même chose, c'est aussi puissant.
 
-[^772] : 160:5 Douteux (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
+[^772]: 160:5 Douteux (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
 [^773]: 160:6 Voir [p. 23](../Yasts_1#p23).
 
@@ -259,7 +259,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^776]: 161:1 Des mots différents sont employés, comme d'habitude, pour exprimer le même conflit, selon qu'il s'agit des fidèles ou des idolâtres.
 
-[^777] : 161:2 Aipi-ayanãm : madame râs.
+[^777]: 161:2 Aipi-ayanãm : madame râs.
 
 [^778]: 161:3 Arethyanãm : dâdistân (de aretha, signifiant dînâ, dâdistân).
 
@@ -271,7 +271,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^782]: 161:7 Douteux.
 
-[^783] : 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
+[^783]: 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
 
 [^784]: 162:2 Voir Vend. Introd. IV, 31.
 
@@ -281,7 +281,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^787]: 162:5 Les paroles de la loi.
 
-[^788] : 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
+[^788]: 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
 
 [^789]: 162:7 Cf. Yt. I, 19.
 
@@ -295,7 +295,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^794]: 163:5 Douteux. Le Yasna dit : « Par la force, le pouvoir victorieux, la sagesse et la connaissance desquels les Amesha-Spe<i>n</i>tas parcourent (avãn ; Phl. sâtûnand) les sept Karshvares de la terre » (LVII, 23 \[LVI, 10, 2\]).
 
-[^795] : 164:1 Il enseigne la loi aux trois sauveurs à venir, Oshêdar Bâmî, Oshêdar Mâh et Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\] ; Phl. tr.).
+[^795]: 164:1 Il enseigne la loi aux trois sauveurs à venir, Oshêdar Bâmî, Oshêdar Mâh et Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\] ; Phl. tr.).
 
 [^796]: 164:2 Pare<i>s</i>ta<i>k</i>a mravay<i>â</i>os<i>k</i>a, à corriger, selon diverses lectures, en staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a ou quelque chose de similaire ; les deux génies ici évoqués sont Anâstareta et Amuyamna, l'absence de péché et l'innocence, qui sont invoqués en compagnie d'Akh<i>s</i>ti hamvai<i>ñ</i>ti dans Vispêrad VIII, 4.
 
@@ -313,7 +313,7 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 [^803]: 165:2 Le premier sacrifice est le sacrifice Yasna ; le suivant (littéralement, supérieur) est le Vispêrad ; le sacrifice intermédiaire est le Hâdhôkht \[et\] êvak hômâst ; le sacrifice le plus élevé est le Dvâzdah hômâst (Pahl. Comm.). Sraosha est appelé le premier, le suivant, le moyen et le plus élevé, selon qu'il préside à l'un ou l'autre de ces sacrifices. Pour une définition de l'êvak hômâst et du Dvâzdah hômâst, voir West, Pahlavi Texts, I, 212, note 5.
 
-[^804] : 165 : 3 Vîspãn, traduit harvisp zamân.
+[^804]: 165 : 3 Vîspãn, traduit harvisp zamân.
 
 [^805]: 165:4 Littéralement, celui qui frappe en frappant.
 

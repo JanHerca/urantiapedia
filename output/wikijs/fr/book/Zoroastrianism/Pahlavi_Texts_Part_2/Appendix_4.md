@@ -80,7 +80,7 @@ Pahl. Vend. IX, 1. Zaratû<i>s</i>t s'enquit ainsi d'Aûha<i>r</i>ma<i>z</i><i>d
 
 « Jusqu'à neuf pieds. »
 
-24. Ensuite, il y a le labourage des douze sillons. 25. En labourant trois d'entre eux, trois trous sont séparés à l'intérieur. 26. Tu en laboureras trois d'entre eux avec six trous séparés à l'intérieur. 27. Tu en laboureras trois d'entre eux avec neuf trous séparés à l'intérieur. 28. Et tu laboureras
+24\. Ensuite, il y a le labourage des douze sillons. 25. En labourant trois d'entre eux, trois trous sont séparés à l'intérieur. 26. Tu en laboureras trois d'entre eux avec six trous séparés à l'intérieur. 27. Tu en laboureras trois d'entre eux avec neuf trous séparés à l'intérieur. 28. Et tu laboureras
 
 <span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
@@ -110,15 +110,15 @@ D, endroit pour recueillir quinze poignées de poussière pour sécher le corps.
 
 54\. « Tu lui en feras aspersion devant lui, sur les mâchoires, \[les deux joues jusqu'aux oreilles en arrière, en jetant un quart jusqu'à la gorge.\] 55. Alors le démon de la corruption se précipitera sur son oreille droite.
 
-56. Tu feras aspersion sur son oreille droite. 57. Alors le démon de la corruption se précipitera sur son oreille gauche.
+56\. Tu feras aspersion sur son oreille droite. 57. Alors le démon de la corruption se précipitera sur son oreille gauche.
 
 58\. « Tu lui feras aspersion sur l'oreille gauche, \[exactement comme l'oreille est tournée, en versant un quart dans le liquide [^22].\] <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> 59. Alors le démon de la corruption se précipite sur son épaule droite.
 
-60. « Tu feras aspersion sur son épaule droite. » 61. Alors le démon de la corruption se précipitera sur son épaule gauche.
+60\. « Tu feras aspersion sur son épaule droite. » 61. Alors le démon de la corruption se précipitera sur son épaule gauche.
 
 62\. « Tu lui en feras aspersion sur l'épaule gauche, \[_sur_ le côté en avant, juste comme elle est tournée, jusqu'au coude.\] 63. Alors le démon de la corruption se précipite sur son aisselle droite.
 
-64. « Tu feras aspersion sur son aisselle droite. » 65. Alors le démon de la corruption se précipitera sur son aisselle gauche.
+64\. « Tu feras aspersion sur son aisselle droite. » 65. Alors le démon de la corruption se précipitera sur son aisselle gauche.
 
 66\. « Tu en aspergeras l'aisselle gauche, \[aussi loin que les poils ont poussé.\] 67. Alors le démon de la corruption se précipite sur sa poitrine.
 
@@ -126,25 +126,25 @@ D, endroit pour recueillir quinze poignées de poussière pour sécher le corps.
 
 70\. « Tu lui enverras l'aspersion sur le dos, \[depuis la partie fine de la colonne vertébrale jusqu'à l'anus.\] 71. Alors le démon de la corruption se précipite sur son mamelon droit.
 
-72. « Tu feras aspersion sur son mamelon droit. » 73. Alors le démon de la corruption se précipite sur son mamelon gauche.
+72\. « Tu feras aspersion sur son mamelon droit. » 73. Alors le démon de la corruption se précipite sur son mamelon gauche.
 
 74\. « Tu feras aspersion sur son mamelon gauche, \[tout comme le mamelon sera tourné ; _et_ ceux des femmes (zanagânŏ) doivent être relevés.\] 75. Alors le démon de la corruption se précipite sur son côté droit.
 
 76\. « Tu aspergeras sur son côté droit. » 77. Alors le démon de la corruption se précipitera sur son côté gauche. <span id="p440"><sup><small>[ p. 440 ]</small></sup></span> 78\. « Tu aspergeras sur son côté gauche ; » [ceci, d'ailleurs, est dû au fait qu'on récite spécialement pour toujours de ce côté-là.] 79. Alors le démon de la corruption se précipitera sur sa hanche droite [^24].
 
-80. Tu feras aspersion sur sa hanche droite. 81. Alors le démon de la corruption se précipitera sur sa hanche gauche.
+80\. Tu feras aspersion sur sa hanche droite. 81. Alors le démon de la corruption se précipitera sur sa hanche gauche.
 
 82\. « Tu aspergeras sa hanche gauche, \[telle qu'elle est tournée, jusqu'au creux [^25] de celle-ci (gûyak-î valman) au-dessous de la cuisse.\] 83. Alors le démon de la corruption se précipite sur sa partie sexuelle.
 
-84. « Tu feras aspersion sur son sexe. » 85. Si c'est un mâle, tu feras aspersion derrière lui avant et devant lui après ; (86) et si c'est une femelle, tu feras aspersion devant lui avant et derrière lui après ; « dans ce cas, moitié devant et moitié derrière, et on frotte devant. » 87. Alors le démon de la corruption se précipite sur sa cuisse droite.
+84\. « Tu feras aspersion sur son sexe. » 85. Si c'est un mâle, tu feras aspersion derrière lui avant et devant lui après ; (86) et si c'est une femelle, tu feras aspersion devant lui avant et derrière lui après ; « dans ce cas, moitié devant et moitié derrière, et on frotte devant. » 87. Alors le démon de la corruption se précipite sur sa cuisse droite.
 
-88. « Tu feras aspersion sur sa cuisse droite. » 89. Alors le démon de la corruption se précipitera sur sa cuisse gauche.
+88\. « Tu feras aspersion sur sa cuisse droite. » 89. Alors le démon de la corruption se précipitera sur sa cuisse gauche.
 
 90\. « Tu aspergeras sa cuisse gauche, \[depuis la proéminence (gôhâk) au-dessous de la cuisse jusqu'au genou.\] 91. Alors le démon de la corruption se précipite sur son genou droit.
 
-92\. « Tu aspergeras son genou droit. » 93. Alors le démon de la corruption se précipitera sur son genou gauche. <span id="p441"><sup><small>[ p. 441 ]</small></sup></span> 94\. « Tu aspergeras son genou gauche, \[au-dessus, exactement comme il est tourné, _et_ au-dessous de la partie _mince_ ; certains diraient ainsi : “Autant au-dessus qu’en dessous.”\] 95. Alors le démon de la corruption se précipitera sur son tibia droit.
+92\. « Tu aspergeras son genou droit. » 93. Alors le démon de la corruption se précipitera sur son genou gauche. <span id="p441"><sup><small>[ p. 441 ]</small></sup></span> 94\. « Tu aspergeras son genou gauche, \[au-dessus, exactement comme il est tourné, _et_ au-dessous de la partie _mince_ ; certains diraient ainsi : « Autant au-dessus qu’en dessous. »\] 95. Alors le démon de la corruption se précipitera sur son tibia droit.
 
-96. « Tu aspergeras son tibia droit. » 97. Alors le démon de la corruption se précipitera sur son tibia gauche.
+96\. « Tu aspergeras son tibia droit. » 97. Alors le démon de la corruption se précipitera sur son tibia gauche.
 
 98\. « Tu feras aspersion sur son tibia gauche, \[du genou jusqu'à l'endroit où la jambe et le pied s'unissent.\] 99. Alors le démon de la corruption se précipitera sur sa cheville droite [^26].
 
@@ -266,7 +266,7 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^3]: (432:2) Voir Dd. XLVIII, 19 n. L4 omet complètement cette clause.
 
-[^4] : (432:3) Voir Dd. XLIII, 5 n.
+[^4]: (432:3) Voir Dd. XLIII, 5 n.
 
 [^5]: (432:4) Tout prêtre non engagé dans la purification.
 
@@ -274,11 +274,11 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^7]: (433:2) Soit 7 pieds 10 pouces et demi. Cette diminution de distance permet au prêtre purificateur de se tenir suffisamment près d'une personne impure pour lui remettre le liquide purificateur dans une louche attachée à un bâton (voir §§ 40-42), sans passer par les sillons tracés autour des trous ou des sièges d'ablution, à la même distance de trois pas (voir §§ 21-23).
 
-[^8]: (433:3) C'est-à-dire, au cours duquel la personne impure est aspergée d'urine (voir §§ 48-116). L'urine devrait être celle d'un taureau, selon Vend. XIX, 70 ; mais Vend. VIII, 35, 36 précisent qu'elle peut être celle de bovins ou de bœufs de trait, en général, ou même celle de ceux qui accomplissent le Khvêtûk-das (voir [p. 391](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p391)). De nos jours, le terme magh, qui signifie « trou » dans l'Avesta, est appliqué aux pierres qui servent de sièges d'ablution pour s'accroupir.
+[^8]: (433:3) C'est-à-dire, au cours duquel la personne impure est aspergée d'urine (voir §§ 48-116). L'urine devrait être celle d'un taureau, selon Vend. XIX, 70 ; mais Vend. VIII, 35, 36 précisent qu'elle peut être celle de bovins ou de bœufs de trait, en général, ou même celle de ceux qui accomplissent le Khvêtûk-das (voir [p. 391](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p391)). De nos jours, le terme magh, qui signifie « trou » dans l'Avesta, est appliqué aux pierres qui servent de sièges d'ablution pour s'accroupir.
 
 [^9]: (433:4) La plus grande profondeur du trou destiné à recueillir les excréments d'ablution en hiver permettrait de faire passer une plus grande quantité de liquide qui ne pourrait pas s'infiltrer dans le sol, ou s'évaporer, pendant le lavage fastidieux, en raison du sol et de l'air plus humides qu'en été.
 
-[^10]: (433:5) Les positions probables de ces trous, et des sillons qui les entourent, sont indiquées sur le [plan du Bareshnûm Gâh](.) à la [p. 435](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_4#p435). qui diffère peu du plan encore en usage.
+[^10]: (433:5) Les positions probables de ces trous, et des sillons qui les entourent, sont indiquées sur le [plan du Bareshnûm Gâh](.) à la [p. 435](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_4#p435). qui diffère peu du plan encore en usage.
 
 [^11]: (434:1) C'est-à-dire fait de métal, qui est sous la protection spéciale de l'archange Shat<i>r</i>yŏvair ou Shatvaî<i>r</i>ô (voir Dd. XLVIII, 17 n).
 
@@ -288,7 +288,7 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^14]: (436:3) C'est-à-dire que le prêtre doit se tenir à l'extérieur, à droite (voir § 132, <i>i</i>), mais près des sillons.
 
-[^15]: (437:1) Voir [p. 393](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p393), note 2. Cette exclamation est une version pahlavi d'une citation des Gâthas (Yas. XLVIII, 10, <i>c</i>).
+[^15]: (437:1) Voir [p. 393](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p393), note 2. Cette exclamation est une version pahlavi d'une citation des Gâthas (Yas. XLVIII, 10, <i>c</i>).
 
 [^16]: (437:2) Le démon de la colère (voir Dd. XXXVII, 44).
 
@@ -316,7 +316,7 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^28]: (442:2) Seuls les mots initiaux et finaux de l'Avesta des passages suivants sont donnés dans le MSS ici, mais ils sont donnés en détail, avec leur traduction en Pahlavi, dans Vend. VIII, 49-62, d'où la version Pahlavi est ici tirée.
 
-[^29]: (443:1) Ce paragraphe est la version Pahlavi de la formule Ahunavar, ou Yathâ-ahû-vairyô (voir [p. 385](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p385)).
+[^29]: (443:1) Ce paragraphe est la version Pahlavi de la formule Ahunavar, ou Yathâ-ahû-vairyô (voir [p. 385](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p385)).
 
 [^30]: (443:2) Lecture de amat, au lieu de mûn, 'qui', (voir Dd. LXII, 4 n.)
 
@@ -330,7 +330,7 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^35]: (444:3) Ce paragraphe est la version Pahlavi d'un passage des Gâthas (Yas. XLIII, 16, be).
 
-[^36]: (444:4) Voir [p. 393](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p393), note 2.
+[^36]: (444:4) Voir [p. 393](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p393), note 2.
 
 [^37]: (444:5) De l'enfer, le lieu des démons.
 
@@ -354,7 +354,7 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^47]: (446:5) Voir Ep. I, v, 1.
 
-[^48] : (446 : 6) Voir Ep. I, VI, 4, II, II, 7.
+[^48]: (446 : 6) Voir Ep. I, VI, 4, II, II, 7.
 
 [^49]: (447:1) Voir Ep. I, vi, 7.
 
@@ -362,9 +362,9 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^51]: (447:3) L4 a '_il_ doit être repris', en omettant la première lettre de nikîri<i>s</i>nŏ.
 
-[^52] : (447 : 4) Voir Ep. I, VII, 16, II, III, 12.
+[^52]: (447 : 4) Voir Ep. I, VII, 16, II, III, 12.
 
-[^53] : (447 : 5) Voir Ep. I, VIII, r-6.
+[^53]: (447 : 5) Voir Ep. I, VIII, r-6.
 
 [^54]: (447:6) Voir § 8.
 
@@ -388,7 +388,7 @@ L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il préc
 
 [^64]: (448:7) Voir Dd. XL, 5, note. Toutes les prières détaillées ici doivent être murmurées simplement comme formule préliminaire, mais pendant que chaque sillon est marqué, une formule supplémentaire doit être récitée (voir § <i>g</i>).
 
-[^65]: (448:8) Voir pp. [385-386](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p385).
+[^65]: (448:8) Voir pp. [385-386](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p385).
 
 [^66]: (449:1) Voir Dd. XLVIII, 19 n.
 

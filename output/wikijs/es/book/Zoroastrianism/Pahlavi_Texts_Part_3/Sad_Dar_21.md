@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El vigésimo primer tema es este: cuando se come pan, es necesario recitar el Ithâ-â<i>d</i>\-yazamaidê [^1] y los tres Ashem-vohûs [^2], especialmente (ba-'<i>h</i>âʓʓata<i>m</i>) en las ceremonias de bendición (âfrîngân).
 
-2. Porque se declara en la buena religión de los adoradores del Ma<i>z</i><i>d</i>a que, cuando desean celebrar la fiesta sagrada (myazd) y las ceremonias de bendición, es necesario que todos los presentes en la fiesta realicen la oración interior. 3. Para cada hombre se coloca un ángel a la derecha, y dos ángeles para los sacerdotes. 4. Pero cuando comen charlando o relatan las noticias ('hadîTH) [^3], los ángeles se alejan de ellos y un demonio ocupa el lugar de cada ángel [^4].
+2\. Porque se declara en la buena religión de los adoradores del Ma<i>z</i><i>d</i>a que, cuando desean celebrar la fiesta sagrada (myazd) y las ceremonias de bendición, es necesario que todos los presentes en la fiesta realicen la oración interior. 3. Para cada hombre se coloca un ángel a la derecha, y dos ángeles para los sacerdotes. 4. Pero cuando comen charlando o relatan las noticias ('hadîTH) [^3], los ángeles se alejan de ellos y un demonio ocupa el lugar de cada ángel [^4].
 
 5\. Y en tiempos pasados ​​la costumbre ('hâdat) del pueblo habría sido así: si alguien hubiera llegado a la puerta en medio del banquete, aquella persona cuyo recinto Âfrîngân pudiera haber sido, _o_ quienquiera que hubiera corrido con los gastos de ese Âfrîngân, habría discutido con esa persona _intrusa_ [^5], y también habría dicho así: 'Ya que has causado daño a mi banquete, devuélveme lo que haya costado [^6]'.
 

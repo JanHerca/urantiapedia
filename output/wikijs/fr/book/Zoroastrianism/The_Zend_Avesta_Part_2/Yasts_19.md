@@ -448,7 +448,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1291]: 289:7 Voir les notes de Yt. III, 17 ([p. 47](../Yasts_3#p47)).
 
-[^1292] : 290 : 1 §§ 11-12 = §§ 19-20, 23-24, 89-90.
+[^1292]: 290 : 1 §§ 11-12 = §§ 19-20, 23-24, 89-90.
 
 [^1293]: 290:2 Douteux.
 
@@ -456,11 +456,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1295]: 290:4 §§ 15-17 = Yt. XIII, 82-84.
 
-[^1296] : 291 : 1 §§ 19-20 = §§ 11-12.
+[^1296]: 291 : 1 §§ 19-20 = §§ 11-12.
 
 [^1297]: 291:2 Les Saoshya<i>n</i><i>t</i>s ; voir [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
-[^1298] : 291 : 3 §§ 23-24 = §§ 19-20.
+[^1298]: 291 : 3 §§ 23-24 = §§ 19-20.
 
 [^1299]: 292:1 Pendant quarante ans, selon les Bundahi<i>s</i> (XXXIV, 4) ; pendant trente ans, selon Firdausi.
 
@@ -603,7 +603,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1369]: 306:3 Cf. Yt. V, 109.
 
-[^1370] : 306 : 4 §§ 89-90 = §§ 11-12.
+[^1370]: 306 : 4 §§ 89-90 = §§ 11-12.
 
 [^1371]: 306:5 Voir [p. 117](../Yasts_9#p117), note [6](../Yasts_9#fn555).
 

@@ -50,7 +50,7 @@ Año 881 d.C.
 
 1\. El traductor es responsable de todas las divisiones en capítulos y secciones, ya que los manuscritos se escriben de forma continua, con muy pocas paradas marcadas, e incluso éstas suelen estar mal colocadas.
 
-2-6. (Igual que en la página [2](/es/libro/Zoroastrianismo/Textos_Pahlavi_Parte_2/Observaciones_Dadistan_i_Dinik#p2).)
+2-6. (Igual que en la página [2](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Observaciones_Dadistan_i_Dinik#p2).)
 
 7\. Los manuscritos mencionados son:
 
@@ -76,7 +76,7 @@ Una copia de la epístola del sacerdote Mânû<i>s</i><i>k</i>îhar [^1], hijo d
 
 2\. La epístola [^5] que _fue_ sabia, apropiada y con decencia religiosa ordenada por usted, _y_ enviada por un mensajero (paîkŏ), _ha_ llegado, y _me_ ha envuelto _y_ asaltado (<i>g</i>astŏ), de hecho, con información espantosa sobre otros temas; y si incluso una porción [^6] _de_ la vasta importancia y gran valor, en cuanto a sus _preocupaciones_ celestiales, arreglos y prodigios naturales _e_ impremeditados (avarîk) [^7], que son para mi conocimiento, por el bien de la información cortés (drû<i>d</i>îk), _sea_ debido a la información para la cual la cortesía _y_ valentía apropiada están entre ustedes, se recibe especial placer _con ello_. 3. Y, acto seguido, recito alabanzas a los seres sagrados, en cuanto a los asuntos conflictivos, incluso de esta existencia desordenada (gûmê<i>z</i>i<i>s</i>nîkŏ); las posesiones mundanas, en la medida en que sean adecuadas para la asistencia de la sabiduría, son apropiadas [^8], y el don del placer virtuoso es la ganancia de la buena obra u oración inmerecida que ellos (los seres sagrados) aceptarán; causa engrandecimiento y es tan merecedor incluso como aquello que la decisión del sabio ha dicho sobre _esto_, que incluso de la gestión de posesiones desordenadas que están deterioradas _hay_ ventaja mediante el poder de la sabiduría; _y_ ellos (los seres sagrados) seleccionan, limpian y elevan las buenas obras _de_ tal manera como una piedra preciosa (sag khêl) del agua, y un brocado de oro [^9] del polvo.
 
-4. Mi satisfacción también aumenta con la información que me ha proporcionado la misma cortesía, y siento un nuevo y gran deseo de recibir información, de ahora en adelante, sobre la perfecta valentía, la perseverante humildad, las buenas obras, la adoración, la posición favorable y el afán de alma de ustedes, quienes han mencionado su gran dedicación a la religión y han proporcionado buenas obras.
+4\. Mi satisfacción también aumenta con la información que me ha proporcionado la misma cortesía, y siento un nuevo y gran deseo de recibir información, de ahora en adelante, sobre la perfecta valentía, la perseverante humildad, las buenas obras, la adoración, la posición favorable y el afán de alma de ustedes, quienes han mencionado su gran dedicación a la religión y han proporcionado buenas obras.
 
 5\. Por el renombre universal (aspôharakânîh) del buen pueblo de Khvanîras [^10], que es tuyo, debido al favor que es tu completa felicidad, ardientemente y alegremente deseada, y constantemente así, cuando hay oportunidades de verte—aunque se supone que es la ventaja de tu propia religión, alegría del alma, cortesía y constancia apropiada—ya que mi voluntad reside entre ti, haces conocer y ordenas mis acciones, a través de la voluntad de los seres sagrados.
 

@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El noveno tema es este: es necesario practicar la abstinencia de cometer o permitir relaciones sexuales antinaturales [^1]. 2. Porque este es el mayor de todos los pecados en la religión: no hay pecado peor que este en la buena religión, y es apropiado llamar a quienes lo cometen dignos de muerte en realidad.
 
-3. Si alguien se acerca a ellos y los ve en el acto, y está trabajando con un hacha [^2], está obligado a cortarles la cabeza o desgarrarles el vientre a ambos, y no es pecado. 4. Pero no es apropiado matar a nadie sin la autorización de los sumos sacerdotes y reyes, excepto por haber cometido o permitido relaciones sexuales contra natura.
+3\. Si alguien se acerca a ellos y los ve en el acto, y está trabajando con un hacha [^2], está obligado a cortarles la cabeza o desgarrarles el vientre a ambos, y no es pecado. 4. Pero no es apropiado matar a nadie sin la autorización de los sumos sacerdotes y reyes, excepto por haber cometido o permitido relaciones sexuales contra natura.
 
 5\. Porque dice en la revelación que las relaciones sexuales antinaturales están a la par con Aharman, con Afrâsiyâb [^3], con Dahâk [^4], con Tûr-i Brâ<i>d</i>ar-vakhṣh [^5] que mató a <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> Zaratu<i>s</i>t, con Malkôs [^6] que surgirá, con la serpiente Sruvar que existía en los días de Sâm Narîmân [^7], y tantos pecados como los suyos. 6. Y Aharman, el maligno, se vuelve más alegre, debido a esta práctica, que debido a los otros pecados _que_ han hecho necesarios a los sumos sacerdotes [^8]; porque el alma misma de esa persona se extingue.
 

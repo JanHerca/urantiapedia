@@ -74,9 +74,9 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (95:2) L19 ajoute « et les plantes ».
 
-[^5] : (95:3) Lecture d'êdîna<i>s</i> ; Nêr. a mal lu ainâ, « autrement ».
+[^5]: (95:3) Lecture d'êdîna<i>s</i> ; Nêr. a mal lu ainâ, « autrement ».
 
-[^6] : (95:4) Lecture de gvî<i>d</i>arîh ; Nêr. a mal lu vatarî, « un mal ».
+[^6]: (95:4) Lecture de gvî<i>d</i>arîh ; Nêr. a mal lu vatarî, « un mal ».
 
 [^7]: (95:5) L19 a « trop », et K43 omet le mot.
 

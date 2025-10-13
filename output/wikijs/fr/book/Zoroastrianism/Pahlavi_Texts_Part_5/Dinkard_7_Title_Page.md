@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:57:1Z
   </table>
 </figure>
 
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
+## MERVEILLES DU ZOROASTRIANISME TELLES QU'EXPRIMÉES DANS LES SEPTIÈME ET CINQUIÈME LIVRES DES DINKA<i>R</i><i>D</i>
+
+ET DANS LES SÉLECTIONS DE ZÂ<i>D</i>\-SPARAM
+
+CHAPITRES XII-XXIV.
 
 <figure class="table chapter-navigator">
   <table>

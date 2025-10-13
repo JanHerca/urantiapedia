@@ -154,9 +154,9 @@ Donnez à cet homme la luminosité et la gloire, donnez-lui la santé du corps, 
 
 [^470]: 91:1 Ou posséder : donner peut être remplacé par posséder dans ce mot comme dans le suivant.
 
-[^471] : 91 : 2 Vare<i>k</i>angha<i>n</i>tem : dânâk (Phl.) ; <i>g</i><i>ñ</i>ânitaram (Sansk.).
+[^471]: 91 : 2 Vare<i>k</i>angha<i>n</i>tem : dânâk (Phl.) ; <i>g</i><i>ñ</i>ânitaram (Sansk.).
 
-[^472] : 91:3 Kh<i>s</i>tâva<i>n</i>tem : lakshmîvantam (Sansk.).
+[^472]: 91:3 Kh<i>s</i>tâva<i>n</i>tem : lakshmîvantam (Sansk.).
 
 [^473]: 91:4 Yaokh<i>s</i>tiva<i>n</i>tem, 'réfléchir à ce qui est bon à faire' (vi<i>k</i>âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
 

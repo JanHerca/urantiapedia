@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 6\. Et tant qu'on ne révère pas le soleil, les bonnes œuvres qu'on fait ce jour-là ne sont pas les siennes ; certains disent qu'on n'a aucune part des bonnes œuvres qu'on fait dans le cadre de la loi (dâ<i>d</i>) de la bonne religion. 7. Tant qu'on ne se lave pas les mains sales, toute bonne œuvre qu'on fait ne lui appartient pas, car tant qu'on ne détruit pas complètement la corruption (nasû<i>s</i>) [^8], il n'y a pas de venue des anges dans son corps, et quand il n'y a pas de venue des anges dans son corps, on n'a pas de constance dans la religion, et quand on n'a pas de constance dans la religion, aucune bonne œuvre, quelle qu'elle soit, ne lui parvient.
 
-8\. Quand _on_ désire accomplir la propitiation (shnûman) [^9] du feu, il est permis d'accomplir un 'âthrô' seul, et, quand on en fait deux _et_ le 'ma<i>d</i> vîspaêibyô âterebyô', ces trois sont ainsi la propitiation partout [^10] ; certains disent qu'il serait convenable de l'accomplir tant que cela est permis, sauf pour les hétérodoxes.
+8\. Quand _on_ désire accomplir la propitiation (shnûman) [^9] du feu, il est permis d'accomplir un « âthrô » seul, et, quand on en fait deux _et_ le « ma<i>d</i> vîspaêibyô âterebyô », ces trois sont ainsi la propitiation partout [^10] ; certains disent qu'il serait convenable de l'accomplir tant que cela est permis, sauf pour les hétérodoxes.
 
 <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 ## Notes de bas de page
 
-[^1]: (297:3) Se référant à la récitation du Khûrshêd Nyâyi<i>s</i>, ou 'salutation du soleil', qui doit être effectuée trois fois par jour, dans les Gâhs Hâvan, Rapîtvîn et Aûzêrîn, ou périodes de la journée (voir p. 298 Bund. XXV, 9) ; quelques phrases dans le Nyâyi<i>s</i>, ou formule de salutation, sont modifiées pour convenir au Gâh particulier dans lequel il est récité.
+[^1]: (297:3) Se référant à la récitation du Khûrshêd Nyâyi<i>s</i>, ou « salutation du soleil », qui doit être effectuée trois fois par jour, dans les Gâhs Hâvan, Rapîtvîn et Aûzêrîn, ou périodes de la journée (voir p. 298 Bund. XXV, 9) ; quelques phrases dans le Nyâyi<i>s</i>, ou formule de salutation, sont modifiées pour convenir au Gâh particulier dans lequel il est récité.
 
 [^2]: (298:1) K20 a dit « il le protégera » après avoir lu « netrûnê<i>d</i> » au lieu de « ketrûnê<i>d</i> » dans l'original. Prier avec les mains sales serait un péché (voir Pahl. Vend. XIX, 84).
 
@@ -92,7 +92,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^9]: (299:2) Un shnûman ou khshnûmanŏ (av. khshnûman) est une courte formule de louange, récitant tous les titres habituels de l'esprit qu'elle vise à apaiser, et est utilisée pour dédier les prières ou la cérémonie spécialement à son service (voir chap. III, 35, X, 2, XIV, 3). Les formules propitiatoires pour les trente anges et archanges qui président aux jours du mois constituent la Sîrôzah, ou forme de prière « relative aux trente jours ».
 
-[^10]: (299:3) La propitiation du feu (telle qu'elle est donnée dans Sîrôz. I, 9, Âtâ<i>s</i> Nyâyi<i>s</i> 5, 6) consiste en cinq phrases, chacune commençant par le mot âthrô, 'du feu', et la dernière phrase contient aussi les mots ma<i>d</i> vîspaêibyô âterebyô, 'avec tous les feux'. Le sens du texte semble être qu'il est permis d'utiliser seulement une de ces phrases (probablement la dernière), mais si deux sont utilisées en plus du jeûne, elles sont amplement suffisantes à des fins pratiques.
+[^10]: (299:3) La propitiation du feu (telle qu'elle est donnée dans Sîrôz. I, 9, Âtâ<i>s</i> Nyâyi<i>s</i> 5, 6) consiste en cinq phrases, chacune commençant par le mot âthrô, « du feu », et la dernière phrase contient aussi les mots ma<i>d</i> vîspaêibyô âterebyô, « avec tous les feux ». Le sens du texte semble être qu'il est permis d'utiliser seulement une de ces phrases (probablement la dernière), mais si deux sont utilisées en plus du jeûne, elles sont amplement suffisantes à des fins pratiques.
 
 [^11]: (300:1) Littéralement, « tuer ».
 

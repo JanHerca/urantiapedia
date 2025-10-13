@@ -60,7 +60,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 47\. Dado que aquellos antiguos sabios decidieron (48) que la liberalidad es de tres tipos: de pensamiento, de palabra y de acción. 49. La liberalidad de pensamiento es aquella cuyo deseo de felicidad para cualquier otro, de igual disposición, es tanto como para la propia. 50. La liberalidad de palabra es aquella que enseña al digno algo de todo conocimiento e información virtuosos que le han llegado; (51) tal como dijo un cierto sabio (52): «Deseo poder comprender toda la información ventajosa, y la enseñaré a mis amigos y obtendré el resultado que pueda obtenerse». 53. Y la liberalidad que en realidad es, es aquella que, cualquiera que sea el beneficio que haya recibido, es un beneficio para el digno.
 
-54. Además, es un recordatorio del bien en cuanto a la preservación del alma; (55) y por la misma razón he dispuesto que, mientras los sabios me observan con bondad, por su propia compasión, recuerden la inmortalidad del alma. 56. Ya que se dice que el ojo de quien observa a todas las criaturas buenas con ojos bondadosos es el ojo del sol; (57) porque el sol es, en verdad, un observador y embellecedor con ojos bondadosos para todas las criaturas.
+54\. Además, es un recordatorio del bien en cuanto a la preservación del alma; (55) y por la misma razón he dispuesto que, mientras los sabios me observan con bondad, por su propia compasión, recuerden la inmortalidad del alma. 56. Ya que se dice que el ojo de quien observa a todas las criaturas buenas con ojos bondadosos es el ojo del sol; (57) porque el sol es, en verdad, un observador y embellecedor con ojos bondadosos para todas las criaturas.
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## TRISTE DAR. CAPÍTULO XIII.
 
-1. El decimotercer tema es este: es necesario mantener las almas de los padres, madres y parientes adecuadamente. 2. Y, cuando llega un día festivo, es necesario esforzarse para que puedan cumplir con la ceremonia (yazi<i>s</i>n), la fiesta sagrada (myazd), la consagración de los pasteles sagrados (drôn) y las bendiciones (âfrîngân).
+1\. El decimotercer tema es este: es necesario mantener las almas de los padres, madres y parientes adecuadamente. 2. Y, cuando llega un día festivo, es necesario esforzarse para que puedan cumplir con la ceremonia (yazi<i>s</i>n), la fiesta sagrada (myazd), la consagración de los pasteles sagrados (drôn) y las bendiciones (âfrîngân).
 
 3\. Pues se declara en la revelación que, cada vez que llegue un día cualquiera, traerán consigo 9999 espíritus guardianes de los justos, como cuando alguien regresa a casa y trae gente (qaûm) en hospitalidad. 4. Y, cuando pronuncian [^2] la consagración de los pasteles sagrados, el banquete sagrado y las bendiciones, esas personas se alegran y bendicen esa casa, al dueño de la casa, a la dueña de la casa y a todos los que estén en ella.
 

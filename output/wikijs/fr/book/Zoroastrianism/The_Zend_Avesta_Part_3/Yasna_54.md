@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1224]
 
-1. Que l'Aïryaman, l'ami désiré et l'homme de son rang, s'approche pour obtenir la grâce des hommes et des femmes qui reçoivent l'enseignement de Zarathoustra, pour la grâce joyeuse du Bon Esprit, par laquelle la conscience peut atteindre la récompense tant désirée. Je prie pour la récompense sacrée de l'ordre rituel, qui est (également) tant désirée ; et puisse Ahura Mazda l'accorder (ou la faire croître).
+1\. Que l'Aïryaman, l'ami désiré et l'homme de son rang, s'approche pour obtenir la grâce des hommes et des femmes qui reçoivent l'enseignement de Zarathoustra, pour la grâce joyeuse du Bon Esprit, par laquelle la conscience peut atteindre la récompense tant désirée. Je prie pour la récompense sacrée de l'ordre rituel, qui est (également) tant désirée ; et puisse Ahura Mazda l'accorder (ou la faire croître).
 
 ---
 

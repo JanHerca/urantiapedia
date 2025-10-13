@@ -64,11 +64,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 42\. « Tu dois être (yehevûne<i>s</i>) diligent et modéré, (43) et manger de ton propre travail régulier, (44) et fournir la part des êtres sacrés et des bons ; (45) et, ainsi, la pratique de ceci, dans ton occupation, est la plus grande bonne œuvre.
 
-46. ​​« N'extorque pas les richesses d'autrui ; (47) afin que ton propre travail régulier ne soit pas ignoré. » 48. Car il est dit (49) : « Celui qui mange quelque chose, non pas de son propre travail régulier, mais d'un autre, est semblable à celui qui tient une tête humaine dans sa main et mange des cerveaux humains. »
+46\. ​​« N'extorque pas les richesses d'autrui ; (47) afin que ton propre travail régulier ne soit pas ignoré. » 48. Car il est dit (49) : « Celui qui mange quelque chose, non pas de son propre travail régulier, mais d'un autre, est semblable à celui qui tient une tête humaine dans sa main et mange des cerveaux humains. »
 
 50\. « Tu devrais t'abstenir des femmes des autres ; (51) parce que toutes ces trois seraient négligées par toi, la richesse, le corps et l'âme.
 
-52. Combats avec équité avec tes ennemis. 53. Avec un ami, agis avec l'approbation de tes amis. 54. N'engage aucun conflit avec un homme malveillant [^16], (55) et ne le moleste en aucune façon. 56. Ne t'associe pas à un homme cupide, (57) et ne lui confie pas le commandement. 58. N'approche pas d'un calomniateur à la porte des rois. 59. Ne t'associe pas à un homme de mauvaise réputation. 60. Ne t'associe pas à un ignorant. 61. Ne te dispute pas avec un insensé. 62. Ne marche pas sur la route avec un ivrogne. 63. N'emprunte rien à un homme méchant.
+52\. Combats avec équité avec tes ennemis. 53. Avec un ami, agis avec l'approbation de tes amis. 54. N'engage aucun conflit avec un homme malveillant [^16], (55) et ne le moleste en aucune façon. 56. Ne t'associe pas à un homme cupide, (57) et ne lui confie pas le commandement. 58. N'approche pas d'un calomniateur à la porte des rois. 59. Ne t'associe pas à un homme de mauvaise réputation. 60. Ne t'associe pas à un ignorant. 61. Ne te dispute pas avec un insensé. 62. Ne marche pas sur la route avec un ivrogne. 63. N'emprunte rien à un homme méchant.
 
 64\. « Dans l'action de grâce envers les êtres sacrés, dans le culte, la louange, les cérémonies, l'invocation et l'apprentissage de la connaissance, tu dois être énergique et dépenser ta vie. 65. Car il est dit (66) : « Au secours des contingences (<i>g</i>ahisnŏ) [^17] parmi les hommes, la sagesse est bonne ; (67) dans la recherche de la renommée et la préservation de l'âme, la libéralité est bonne ; (68) dans l'avancement des affaires et de la justice, une pleine conscience est bonne ; (69) et dans les déclarations de ceux qui confessent (khûstîvân) [^18], en rapport avec la coutume de la loi [^19], la vérité est bonne. 70. Dans le progrès des affaires, l'énergie est bonne, (71) pour [^20] que chacun y prenne confiance, la constance est bonne, (72) et pour le bénéfice qui en découle, la reconnaissance est bonne. 73. Pour se garder serein (anaîrang) [^21], la parole discrète qui est sur le chemin de [^22] la vérité est bonne ; (74) et pour éloigner de 75. Devant les dirigeants et les rois, il est bon de parler avec discernement, et dans [^24] une assemblée, de réciter ; (76) entre amis, le repos et les amis raisonnables [^25] sont bons ; (77) et avec un associé à ses propres actions, donner un avantage (sûkŏ) est bon. 78. Entre les plus grands (a<i>g</i>a<i>s</i> masân), la douceur et l'humilité sont bonnes, (79) et parmi les plus petits, la flatterie [^26] et la civilité sont bonnes. 80. Parmi ceux qui font des actions, il est bon de remercier et de faire preuve de générosité ; (81) et entre ceux de la même race, la formation d'amitié (hûmânŏîh) [^27] est bonne. 82. Pour une santé physique modérée Manger et maintenir le corps en activité sont bons ; (83) et parmi les habiles dans l'action de grâce est bon. 84. Parmi les chefs, l'unanimité et la recherche de l'avantage sont bonnes ; (85) parmi ceux qui sont à l'unisson et les serviteurs, une bonne conduite et une démonstration de crainte sont bonnes ; (86) et pour avoir peu de souci en soi, le contentement est bon. 87. Dans la chefferie, comprendre parfaitement le bien dans sa bonté et le vil dans sa vilenie est bon ; et rendre le vil invisible, par le châtiment [^28], est bon. 88. En tout lieu et en tout temps, se retenir du péché et être diligent dans l'œuvre méritoire sont bons ; (89) et chaque jour, penser et se souvenir d'Aûha<i>r</i>ma<i>z</i><i>d</i>, en ce qui concerne la créativité, et d'Aharman, en ce qui concerne la destructivité, est bon. 90. _Et_ pour le déshonneur, ne pas 91. Tout cela est propre <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> et vrai et de même description, (92) mais l'occupation et la garde de la langue (pâ<i>d</i>\-hûzvânîh) [^29] par-dessus tout.
 
@@ -160,7 +160,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^6]: (10:2) L19 contient « colère » ; ce qui fait de § 19 une phrase distincte.
 
-[^7] : (10:3) Le mauvais esprit, Av. Angra Mainyu.
+[^7]: (10:3) Le mauvais esprit, Av. Angra Mainyu.
 
 [^8]: (10:4) K43 omet « disgrâce », par erreur.
 
@@ -184,7 +184,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^18]: (13:2) L19 a lu aûstîkân, « le constant », par erreur.
 
-[^19] : (13:3) Lecture dâ<i>d</i>ŏ-khûk-bari<i>s</i>nŏîhâ. L19 a 'transmettre l'intercession (<i>g</i>âda<i>n</i>gô = dâ<i>d</i>ŏ-gôk) ;' cette petite différence de lecture peut être une erreur administrative dans K43. La version sanskrit omet complètement la phrase.
+[^19]: (13:3) Lecture dâ<i>d</i>ŏ-khûk-bari<i>s</i>nŏîhâ. L19 a 'transmettre l'intercession (<i>g</i>âda<i>n</i>gô = dâ<i>d</i>ŏ-gôk) ;' cette petite différence de lecture peut être une erreur administrative dans K43. La version sanskrit omet complètement la phrase.
 
 [^20]: (13:4) L19 omet pavan, « pour ».
 
@@ -310,7 +310,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^81]: (23:5) L19 a vehã, 'le bien'.
 
-[^82] : (23:6) Au lieu de âk-hômandîhâ, L19 a anaom<i>e</i>dihâ, 'désespérément'.
+[^82]: (23:6) Au lieu de âk-hômandîhâ, L19 a anaom<i>e</i>dihâ, 'désespérément'.
 
 [^83]: (23:7) Lecture de nagirz, mais cela est incertain ; L19 a az<i>e</i>r, « inférieur ».
 

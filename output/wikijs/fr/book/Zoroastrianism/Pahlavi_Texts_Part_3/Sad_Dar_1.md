@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (258:2) Les livres les plus anciens disent à l'aube du quatrième jour (voir Mkh. II, 115).
 
-[^5] : (258 : 3) Voir Mkh. II, 118, 119.
+[^5]: (258 : 3) Voir Mkh. II, 118, 119.
 
 [^6]: (258:4) Lp ajoute, dans la marge, « par un filament du poil des cils » ; mais cette phrase semble avoir été tirée du chap. II, 3.
 

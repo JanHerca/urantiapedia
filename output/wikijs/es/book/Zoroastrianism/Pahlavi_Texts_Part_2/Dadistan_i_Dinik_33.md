@@ -77,4 +77,4 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^5]: (75:3) Bd. XII, I6 menciona otro Arezûr 'en dirección a Arûm'.
 
-[^6]: (75:4) Vend. XIX, 142 (trad. D.) dice: 'Huyen echando el mal de ojo, los Daêvas malvados y malhechores: “¡Reunámonos a la cabeza de Arezûra!”'
+[^6]: (75:4) Vend. XIX, 142 (trad. D.) dice: 'Huyen echando el mal de ojo, los Daêvas malvados y malhechores: «¡Reunámonos a la cabeza de Arezûra!»'

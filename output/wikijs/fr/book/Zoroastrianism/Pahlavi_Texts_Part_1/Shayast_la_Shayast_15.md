@@ -54,7 +54,7 @@ PARTIE III.—_Annexe_ [^1].
 
 12\. Quiconque désire apaiser Ar<i>d</i>avahi<i>s</i>t dans le monde est celui qui désire promouvoir ses biens ; et il lui est nécessaire, pour qu'Ar<i>d</i>avahi<i>s</i>t soit avec lui en tout lieu (gâs) et en tout temps, qu'il apaise le feu d'Aûharmazd, quoi qu'il arrive et quoi qu'il arrive, et qu'il agisse pour son bonheur ; il ne doit pas y mettre du bois, de l'encens et de l'eau bénite [^10] qui sont volés et extorqués, et il ne doit pas y cuire une ration (bâhar) qui est violemment extorquée aux hommes. 13. Car c'est une contrepartie de lui-même (Ar<i>d</i>avahi<i>s</i>t) dans le monde, le feu d'Aûharmazd ; et quiconque apaise ceux qui sont les feux d'Aûharmazd, sa renommée subsiste dans le monde, et la splendeur d'Aûharmazd devient la sienne _au_ ciel.
 
-14\. Quiconque désire apaiser Shatvaîrô dans le monde et désire agir pour son bonheur est celui qui désire promouvoir les choses de Shatvaîrô ; et qui qu'il soit, il est nécessaire, pour que Shatvaîrô soit avec lui en tout lieu et en tout temps, qu'il apaise le métal fondu [^11] en tout lieu et en tout temps. 15. Et l'apaisement du métal fondu consiste en ce qu'il pratique des habitudes (âîyînŏ) du cœur si immaculé et pur que, lorsqu'on y verse du métal fondu, il ne brûle pas. 16. Et Âtarôpâ<i>d</i> fils de Mâraspend [^12] agissait même de cette manière sacerdotale (dastôbarîh), de sorte que le métal fondu, lorsqu'ils le laissent tomber sur la région (khânŏ) de son cœur pur, lui devient aussi agréable que s'ils y trayaient du lait. 17. Lorsqu'ils le laissent tomber sur la région du cœur des méchants et des pécheurs, il brûle, et ils meurent. 18. Et on ne doit pas commettre de péché avec le métal, et par sa combustion ; et on ne doit pas donner d'or et d'argent aux vils. 19. Car c'est une contrepartie de Shatvaîrô lui-même dans le monde pour lui, _et_ puisqu'il apaise ceux qui sont des métaux fondus, sa renommée subsiste dans le monde, et la splendeur d'Aûharmazd devient la sienne _au ciel_.
+14\. Quiconque désire apaiser Shatvaîrô dans le monde et désire agir pour son bonheur est celui qui désire promouvoir les choses de Shatvaîrô ; et qui qu'il soit, il est nécessaire, pour que Shatvaîrô soit avec lui en tout lieu et en tout temps, qu'il apaise le métal fondu [^11] en tout lieu et en tout temps. 15. Et l'apaisement du métal fondu consiste en ce qu'il pratique des habitudes (âîyînŏ) du <span id="p376"><sup><small>[ p. 376 ]</small></sup></span> cœur si immaculé et pur que, lorsqu'on y verse du métal fondu, il ne brûle pas. 16. Et Âtarôpâ<i>d</i> fils de Mâraspend [^12] agissait même de cette manière sacerdotale (dastôbarîh), de sorte que le métal fondu, lorsqu'ils le laissent tomber sur la région (khânŏ) de son cœur pur, lui devient aussi agréable que s'ils y trayaient du lait. 17. Lorsqu'ils le laissent tomber sur la région du cœur des méchants et des pécheurs, il brûle, et ils meurent. 18. Et on ne doit pas commettre de péché avec le métal, et par sa combustion ; et on ne doit pas donner d'or et d'argent aux vils. 19. Car c'est une contrepartie de Shatvaîrô lui-même dans le monde pour lui, _et_ puisqu'il apaise ceux qui sont des métaux fondus, sa renommée subsiste dans le monde, et la splendeur d'Aûharmazd devient la sienne _au ciel_.
 
 20\. « Quiconque désire apaiser Spendarma<i>d</i> dans le monde désire promouvoir les choses de Spendarma<i>d</i> ; et quel qu'il soit, il est nécessaire, pour que Spendarma<i>d</i> soit avec lui, qu'il apaise, en tout lieu et en tout temps, la terre et la femme vertueuse, quoi qu'il arrive et quoi qu'il arrive, et qu'il agisse pour leur bonheur. » 21. Car lorsqu'il n'étend pas (barâ lâ vêshê<i>d</i>) cette terre, et qu'elle ne la sépare pas une par une, son corps non plus ne sera pas toujours <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> vivant sur elle en tout lieu et en tout temps [^14]. 22. À cause de la présence de Spendarmad sur la terre, lorsqu'un brigand violent et digne de mort, et des épouses irrespectueuses envers leurs maris, circulent dans le péché, et que leurs maris sont actifs et vertueux, la terre devient très angoissée (zanŏîk). 23. Il est également déclaré que, chaque fois que cette terre est angoissée (zanîk), c'est surtout au moment où les pécheurs dignes de mort sont les plus nombreux ; car il est déclaré que lorsque des pécheurs dignes de mort la foulent, sa douleur et son malaise deviennent aussi angoissants (dû<i>s</i>khvâr) pour elle que le fils mort sur son sein pour sa mère ; et la présence de Spendarmad sur la terre est faible là où marchent des pécheurs dignes de mort. 24. Et son bonheur [^15] naît de ce lieu où ils y pratiquent le labourage et la culture, et où un fils vertueux naît et où ils y élèvent du bétail ; et c'est ainsi que la renommée subsiste dans le monde, et la splendeur d'Aûharmazd devient la sienne _au_ ciel.
 
@@ -96,7 +96,7 @@ PARTIE III.—_Annexe_ [^1].
 
 [^3]: (372:3) Shatrôîvar écrit tout au long de ce chapitre ; ces six (voir Bund. I, 26) avec Aûharmazd lui-même, sont les sept archanges.
 
-[^4]: (372:4) Lecture de mûn, 'qui', au lieu de amat, 'quand' (voir Bund. I, 7, note).
+[^4]: (372:4) Lecture de mûn, « qui », au lieu de amat, « quand » (voir Bund. I, 7, note).
 
 [^5]: (372:5) Zaratûst doute de devoir vénérer des êtres dont il n'avait aucune preuve tangible de l'existence lorsqu'il ne les voyait plus ; craignant peut-être qu'il ne s'agisse que de simples rêves ou d'illusions d'optique. Mais on lui dit que chacun de ces êtres spirituels est le protecteur d'une classe d'existences terrestres, et que le traitement approprié de ces existences est le meilleur moyen pour un homme de révérer les êtres spirituels intéressés par leur bien-être.
 
@@ -106,7 +106,7 @@ PARTIE III.—_Annexe_ [^1].
 
 [^8]: (373:3) Tout au long de ce chapitre, un sens conditionnel est donné aux verbes en préfixant hanâ, aê ou 1 (tous représentant Pâz. aê ou <i>e</i>) au présent, au lieu de l'apposer.
 
-[^9] : (375:1) Voir Chap. VI, 3.
+[^9]: (375:1) Voir Chap. VI, 3.
 
 [^10]: (375:2) On ne met pas d'eau bénite sur le feu, car ce serait un péché, mais on la présente au feu, et l'extérieur du foyer en est aspergé ou lavé (voir Essais de Haug, p. 403). Le « feu d'Aûharmazd » désigne tout feu, qu'il soit sacré ou utilisé à des fins domestiques.
 
@@ -114,16 +114,16 @@ PARTIE III.—_Annexe_ [^1].
 
 [^12]: (376:1) Le primat et premier ministre de Shâpûr II (309-379 apr. J.-C.), qui aurait subi l'épreuve de se faire verser du métal fondu sur la poitrine, afin de prouver la véracité de la religion mazdayasnienne. Le métal utilisé est généralement appelé rûî, « airain », mais il s'agit ici d'aîyên, « fer », bien qu'un métal plus fusible que l'un ou l'autre ait sans doute été utilisé.
 
-[^13]: (376:2) Lecture de amat, 'bien que', au lieu de mûn, 'qui' (voir Bund. I, 7, note).
+[^13]: (376:2) Lecture de amat, « bien que », au lieu de mûn, « qui » (voir Bund. I, 7, note).
 
 [^14]: (377:1) Signifie que la terre doit être labourée pour subvenir aux besoins de ses habitants, mais il existe un doute quant à la formulation exacte de la traduction.
 
 [^15]: (377:2) Spendarma<i>d</i> est un archange féminin ; peut-être, cependant, la terre est-elle ici visée, car on dit qu'elle est très satisfaite de l'existence de temples de feu, d'habitations de personnes justes, de cultures, d'écuries et de pâturages (voir Vend. III, 1-20).
 
-[^16]: (378:1) En lisant mûn, 'qui', au lieu de amat, 'quand', et dû<i>g</i>end, 'ils volent', au lieu de dû<i>g</i>d (peut-être pour dû<i>g</i>ak, 'voleur') ; et en supposant que le verbe soit vakhdûnê<i>d</i>, 'prend, saisit', et non vâdûnê<i>d</i>, 'fait, agit'. Si l'inverse était supposé, la traduction serait ainsi : 'devrait agir pour leur _bonheur_. ​​Lorsqu'ils consomment de l'eau et de la végétation, il ne devrait pas agir de manière voleuse et oppressive.'
+[^16]: (378:1) En lisant mûn, « qui », au lieu de amat, « quand », et dû<i>g</i>end, « ils volent », au lieu de dû<i>g</i>d (peut-être pour dû<i>g</i>ak, « voleur ») ; et en supposant que le verbe soit vakhdûnê<i>d</i>, « prend, saisit », et non vâdûnê<i>d</i>, « fait, agit ». Si l'inverse était supposé, la traduction serait ainsi : 'devrait agir pour leur _bonheur_. ​​Lorsqu'ils consomment de l'eau et de la végétation, il ne devrait pas agir de manière voleuse et oppressive.'
 
 [^17]: (378:2) Pour la signification de hîkhar et nasâî, voir la note sur Chap. II, 30.
 
-[^18]: (378:3) Lecture de amat, 'quand', au lieu de mûn, 'qui' (voir Bund. I, 7, note).
+[^18]: (378:3) Lecture de amat, « quand », au lieu de mûn, « qui » (voir Bund. I, 7, note).
 
 [^19]: (379:1) C'est la phrase finale la plus courante des courts textes pahlavi, et elle indique que ce récit de la meilleure façon de se concilier les archanges doit être considéré comme un texte distinct. Elle est suivie dans M6 par les paragraphes qui constituent les deux chapitres suivants.

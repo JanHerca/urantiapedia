@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El septuagésimo tema es que, al llevar un cadáver al lugar designado, es necesario que cualquier persona se ponga dos trajes para esta tarea. 2. Es requisito que esos trajes estén puestos [^1], y es necesario [^2] hacer que un perro mire el cadáver dos veces: una cuando la vida se separa de él, y otra cuando desean recogerlo.
 
-3. Entonces es necesario que ambas personas estén conectadas, y cada una debe atar una cuerda a una de sus manos, para que la mano se aleje [^3] de la del otro. 4. Y, cuando se muevan, es necesario que él esté preparado y no diga palabra a nadie. 5. Y si se trata de una mujer embarazada, deben levantarla entre cuatro personas, porque hay dos cadáveres [^4].
+3\. Entonces es necesario que ambas personas estén conectadas, y cada una debe atar una cuerda a una de sus manos, para que la mano se aleje [^3] de la del otro. 4. Y, cuando se muevan, es necesario que él esté preparado y no diga palabra a nadie. 5. Y si se trata de una mujer embarazada, deben levantarla entre cuatro personas, porque hay dos cadáveres [^4].
 
 6\. Cuando, evitando la materia muerta, _uno_ vuelve a encontrarla, _tiene_, al final, que lavarse [^5] con la ablución _ceremonial_ [^6], y esto es necesario para que no sea por ello rápidamente _causa_ de maldad o muerte para nadie [^7].
 

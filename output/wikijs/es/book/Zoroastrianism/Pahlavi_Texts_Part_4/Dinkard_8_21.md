@@ -44,7 +44,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 9\. Sobre la propiedad acumulada _de_ los innumerables que mantendrían lejos de los ladrones, _tanto_ del ladrón por medio de _sus_ manos, como de aquel que es un ladrón por medio de _sus_ manos. 10. Sobre el testimonio _de_ un ladrón, es decir, para qué _es_ admisible_ cuando [^5] avanza como ladrón; cómo en el _momento_ en que _es necesario_ apoderarse _y_ atarlo_, y cómo en el momento en que es necesario adular (nivâkhtanŏ) y engañarlo_ hasta que _uno_ alcance el poder absoluto (kâm-kârîh) con ello. 11. Sobre las recompensas (na<i>v</i>i<i>s</i>nŏ) con los ladrones. 12. Sobre la diferencia entre el robo y el saqueo.
 
-13. Sobre la propiedad que, al llevársela, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> _debe_ devolver a sus dueños; como la que los fronterizos pueden arrebatar a los extranjeros, la que el juez puede arrebatar a los ladrones y la parte que puede arrebatar a cualquiera que no interfiera [^6] con los ladrones. 14. Y sobre los protectores y defensores del ladrón, y también sobre muchas otras decisiones legales en materia de robo.
+13\. Sobre la propiedad que, al llevársela, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> _debe_ devolver a sus dueños; como la que los fronterizos pueden arrebatar a los extranjeros, la que el juez puede arrebatar a los ladrones y la parte que puede arrebatar a cualquiera que no interfiera [^6] con los ladrones. 14. Y sobre los protectores y defensores del ladrón, y también sobre muchas otras decisiones legales en materia de robo.
 
 <figure class="table chapter-navigator">
   <table>

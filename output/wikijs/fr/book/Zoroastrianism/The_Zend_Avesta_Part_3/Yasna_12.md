@@ -46,7 +46,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Loin, loin, j'abjure les Daêvas et tous ceux qu'ils possèdent, les sorciers et tous ceux qui s'accrochent à leurs artifices, et tout être existant de ce genre ; j'abjure leurs pensées, leurs paroles et leurs actions, et leur semence (qui propage leur péché) ; j'abjure leur abri et leur autorité, et les iniques de toute sorte qui agissent comme les Rakhshas !
 
-6. Ainsi, en effet, Ahura Mazda aurait pu indiquer [^1039] à Zarathustra dans chaque question que Zarathustra posait, et dans toutes les consultations au cours desquelles ils conversaient ensemble. 6. Ainsi, Zarathustra aurait pu abjurer l'abri et la direction des Daêvas dans toutes les questions, et dans toutes les consultations au cours desquelles ils conversaient ensemble, Zarathustra et le Seigneur.
+6\. Ainsi, en effet, Ahura Mazda aurait pu indiquer [^1039] à Zarathustra dans chaque question que Zarathustra posait, et dans toutes les consultations au cours desquelles ils conversaient ensemble. 6. Ainsi, Zarathustra aurait pu abjurer l'abri et la direction des Daêvas dans toutes les questions, et dans toutes les consultations au cours desquelles ils conversaient ensemble, Zarathustra et le Seigneur.
 
 Et ainsi moi-même, quelles que soient les circonstances dans lesquelles je puisse être placé, en tant qu'adorateur de Mazda et de l'ordre de Zarathustra, j'abjurerais les Daêvas et leur abri, comme celui qui [^1040] était le saint Zarathustra les a abjurés (autrefois).
 
@@ -110,4 +110,4 @@ Et ainsi moi-même, quelles que soient les circonstances dans lesquelles je puis
 
 [^1049]: 250:1 Fraspâvaokhedhrãm; 'y' mal écrit pour 'v.' Fra semble être prohibitif 'discours sans chute, ni hésitation'; mieux comme adj.
 
-[^1050] : 250 : 2 comp. Y. XXXI, 18.
+[^1050]: 250 : 2 comp. Y. XXXI, 18.

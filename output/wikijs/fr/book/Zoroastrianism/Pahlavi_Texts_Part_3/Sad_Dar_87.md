@@ -71,11 +71,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (351:1) La omet « du monde ».
 
-[^2] : (351 : 2) Voir Mkh. II, 115 n, Sls. XVII, 3.
+[^2]: (351 : 2) Voir Mkh. II, 115 n, Sls. XVII, 3.
 
-[^3] : (351 : 3) Voir Mkh. II, 114, 158.
+[^3]: (351 : 3) Voir Mkh. II, 114, 158.
 
-[^4] : (351 : 4) Voir Mkh. II, 118, 119, Sls. XVII, 4.
+[^4]: (351 : 4) Voir Mkh. II, 118, 119, Sls. XVII, 4.
 
 [^5]: (351:5) Av. ar<i>s</i>tâ<i>d</i>, 'droiture' ; l'ange dont le nom est donné au vingt-sixième jour du mois parsi.
 

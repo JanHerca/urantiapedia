@@ -98,9 +98,9 @@ Du texte Pâzand du Mainyô-i Khard, Chaps. LVII, XXVII, LXII, I, 51-61, VII, 9-
 
 ## Notes de bas de page
 
-[^1]: (xv:1) Voir [p. 3](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_1#p3), note 1.
+[^1]: (xv:1) Voir [p. 3](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_1#p3), note 1.
 
-[^2] : (xviii : 1) Voir Zend-Avesta, ou les livres religieux des zoroastriens, édité par NL Westergaard (Kopenhagen, 1852-54), vol. je, introduit. p. 8, note 3.
+[^2]: (xviii : 1) Voir Zend-Avesta, ou les livres religieux des zoroastriens, édité par NL Westergaard (Kopenhagen, 1852-54), vol. je, introduit. p. 8, note 3.
 
 [^3]: (xviii:2) Le Livre du Mainyô-i-Khard, également un ancien fragment du Bundehesh, édité par FC Andreas (Kiel, 1882).
 
@@ -108,6 +108,6 @@ Du texte Pâzand du Mainyô-i Khard, Chaps. LVII, XXVII, LXII, I, 51-61, VII, 9-
 
 [^5]: (xxi:1) Probablement un ancien nom de Nausârî.
 
-[^6]: (xxiv:1) Une variante de ce pedigree est citée dans [p. xlii](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_3#pxlii).
+[^6]: (xxiv:1) Une variante de ce pedigree est citée dans [p. xlii](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Introduction_3#pxlii).
 
 [^7]: (xxv:1) Bd. X, 3, XIV, 13 mentionnent 282 (ou 272 dans certains exemplaires).

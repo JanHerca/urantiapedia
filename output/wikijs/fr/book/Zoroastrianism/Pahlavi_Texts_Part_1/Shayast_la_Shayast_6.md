@@ -82,7 +82,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^7]: (295:2) Voir Chap. I, 3.
 
-[^8]: (295:3) Lecture de aê, 'un', et supposant que cette forme Pâz. ait été substituée à un Huz. khadûk, 'un' original. Cette supposition étant nécessaire pour expliquer le aê précédant son nom, au lieu de le suivre ; et sans lui, nous devrions lire 'trois' au lieu de 'un', ce qui semble, cependant, difficilement conciliable avec le contexte (mais comparer Pahl. Vend. VII, 136). Ceci est un exemple de l'ambiguïté occasionnée par aê, 'un', et le chiffre 3 étant souvent écrits de la même manière en pahlavi, comme déjà noté dans p. 289, note 3. Le mot pourrait aussi être pris comme la forme verbale conditionnelle aê, 'sera', mais dans ce cas, il est également mal placé.
+[^8]: (295:3) Lecture de aê, « un », et supposant que cette forme Pâz. ait été substituée à un Huz. khadûk, « un » original. Cette supposition étant nécessaire pour expliquer le aê précédant son nom, au lieu de le suivre ; et sans lui, nous devrions lire « trois » au lieu de « un », ce qui semble, cependant, difficilement conciliable avec le contexte (mais comparer Pahl. Vend. VII, 136). Ceci est un exemple de l'ambiguïté occasionnée par aê, « un », et le chiffre 3 étant souvent écrits de la même manière en pahlavi, comme déjà noté dans p. 289, note 3. Le mot pourrait aussi être pris comme la forme verbale conditionnelle aê, « sera », mais dans ce cas, il est également mal placé.
 
 [^9]: (295:4) Voir la note sur pâhlûm ahvân au § 3.
 

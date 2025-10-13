@@ -32,7 +32,13 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE XV.
 
+1\. Le Bakân-ya<i>s</i>t [^1] _contient_ des détails, premièrement, sur le culte d'Aûha<i>r</i>ma<i>z</i><i>d</i>, la plus haute des divinités (bakân), et, deuxièmement, sur le culte des anges des autres existences terrestres invisibles et visibles, d'où proviennent également les noms des <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> jours [^2] ; _ainsi_ que leur gloire, leur puissance, leur triomphe, _et_ leur merveille. 2. De plus, aussi, de nombreux anges qui sont invoqués par leur nom dans leur culte, et l'attention _et_ l'obéissance _qui leur sont dues_.
+
+3\. La dignité et la dispensation de faveurs pour les adorateurs, et le devoir de leurs nombreuses récitations séparées aux anges. 4. Le devoir d'une connaissance illimitée des possessions et des arrangements de la période sur laquelle le créateur Aûha<i>r</i>ma<i>z</i><i>d</i> les a assignés, et ils restent pour y faire œuvre utile.
+
+5\. Parfaite est l’excellence de la justice.
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +63,9 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (34:3) Correspondant au quatorzième mot, mazdâi, dans l'Ahunavair, selon BP Riv. ; mais c'est le quinzième Nask dans d'autres Rivâyats. Bakân-ya<i>s</i>t signifie « culte des divinités » et s'écrit Baghân-ya<i>s</i>t, ou Bayân-ya<i>s</i>t, dans les Rivâyats, qui précisent également qu'il contenait dix-sept kardah, ou subdivisions.
+
+[^2]: (35:1) Chaque jour du mois parsi porte le nom d'un ange ou d'un esprit particulier. D'après cette description, il semble probable que les Yasts faisaient partie de ce Nask ; mais, si tel était le cas, il aurait dû contenir au moins trente chapitres.

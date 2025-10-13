@@ -38,7 +38,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 2\. Aharman exclaimed thus: ‘Say which are those three things.’
 
-3\. Aêshm exclaimed thus: 'The season-festival <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> (gâsânbâr) [^4], the _sacred_ feast (myazd), and next-of-kin marriage (khvêtûk-das).'
+3\. Aêshm exclaimed thus: ‘The season-festival <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> (gâsânbâr) [^4], the _sacred_ feast (myazd), and next-of-kin marriage (khvêtûk-das).’
 
 <span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 

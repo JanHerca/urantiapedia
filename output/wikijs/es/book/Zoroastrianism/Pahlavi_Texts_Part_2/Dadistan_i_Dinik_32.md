@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (71:1) M14 y J omiten las palabras desde 'también' hasta 'lo guía'.
 
-[^2]: (71:2) El término “fallecer” se usa aquí con referencia a la muerte de una persona malvada, contrariamente a la regla general (véase Cap. XX, 2).
+[^2]: (71:2) El término «fallecer» se usa aquí con referencia a la muerte de una persona malvada, contrariamente a la regla general (véase Cap. XX, 2).
 
 [^3]: (71:3) Véase Cap. XX, 3.
 

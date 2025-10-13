@@ -50,9 +50,9 @@ dateCreated: 2025-10-10T14:41:20Z
 
 10\. Después, el espíritu maligno, con los demonios aliados, se dirigió hacia las luminarias y vio el cielo; y las condujo hacia arriba, cargado de malas intenciones. 11. Se paró sobre un tercio [^8] del interior del cielo y, como una serpiente, saltó del cielo a la tierra.
 
-12\. _En_ el mes de Fravar<i>d</i>în y el día de Aûharmazd [^9], irrumpió al mediodía, y el cielo quedó tan destrozado y aterrorizado por él, como una oveja por un lobo. 13. Llegó al agua que estaba dispuesta [^10] bajo la tierra, y entonces el centro de esta tierra fue perforado _y_ entró por él. 14. Después, llegó a la vegetación, luego al buey, luego a Gâyômar<i>d</i>, y luego llegó al fuego [^11]; así, como una mosca, se precipitó sobre toda la creación; y dejó el mundo tan dañado y oscuro [^12] al mediodía como si fuera de noche. 15. Y criaturas nocivas. Él esparció sobre la tierra plagas mordedoras y venenosas, como la serpiente, el escorpión, la rana (kalvâk) y el lagarto (vazak), de modo que ni siquiera la punta de una aguja quedó libre de criaturas nocivas. 16. Y la plaga [^13] fue esparcida por él sobre la vegetación, y esta se marchitó al instante. 17. Y la avaricia, la necesidad, el dolor, el hambre, la enfermedad, la lujuria y el letargo fueron esparcidos por él sobre el buey y Gâyômar<i>d</i>.
+12\. _En_ el mes de Fravar<i>d</i>în y el día de Aûharmazd [^9], irrumpió al mediodía, y el cielo quedó tan destrozado y aterrorizado por él, como una oveja por un lobo. 13. Llegó al agua que estaba dispuesta [^10] bajo la tierra, y entonces el centro de esta tierra fue perforado _y_ entró por él. 14. Después, llegó a la vegetación, luego al buey, luego a Gâyômar<i>d</i>, y luego llegó al fuego [^11]; así, como una mosca, se precipitó sobre toda la creación; y dejó el mundo tan dañado y oscuro [^12] al mediodía como si fuera de noche. 15. Y criaturas nocivas. Él esparció sobre la tierra plagas mordedoras y venenosas, como la serpiente, el escorpión, la rana (kalvâk) y el lagarto (vazak), de modo que ni siquiera la punta de una aguja quedó libre de criaturas nocivas. 16. Y la plaga [^13] fue esparcida por él sobre la <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> vegetación, y esta se marchitó al instante. 17. Y la avaricia, la necesidad, el dolor, el hambre, la enfermedad, la lujuria y el letargo fueron esparcidos por él sobre el buey y Gâyômar<i>d</i>.
 
-18\. Antes de llegar al buey, Aûharmazd molió el fruto curativo [^14], que algunos llaman 'bînâk', diluyéndolo en agua abiertamente ante sus ojos, para que el daño y la incomodidad causados ​​por la calamidad (zani<i>s</i>n) fueran menores; y cuando se volvió flaco y enfermo, al exhalar y exhalar, el buey también dijo: «El ganado debe ser creado, y su trabajo, labor y cuidado deben ser asignados».
+18\. Antes de llegar al buey, Aûharmazd molió el fruto curativo [^14], que algunos llaman «bînâk», diluyéndolo en agua abiertamente ante sus ojos, para que el daño y la incomodidad causados ​​por la calamidad (zani<i>s</i>n) fueran menores; y cuando se volvió flaco y enfermo, al exhalar y exhalar, el buey también dijo: «El ganado debe ser creado, y su trabajo, labor y cuidado deben ser asignados».
 
 19\. Y antes de _su_ llegada a Gâyômar<i>d</i>, Aûharmazd hizo sudar a Gâyômar<i>d</i>, mientras este pudiera recitar una oración (vâ<i>g</i>) de una estrofa (vi<i>k</i>ast); además, Aûharmazd formó ese sudor en el cuerpo juvenil de un hombre de quince años, radiante _y_ alto. 20. Cuando Gâyômar<i>d</i> salió del sudor, vio el mundo oscuro como la noche, y la tierra como si ni la punta de una aguja permaneciera _libre_ de criaturas nocivas; la esfera _celestial_ estaba en revolución, _y_ el sol y la luna permanecían en movimiento: _y_ la lucha del mundo, debido al clamor de los demonios Mâzînâkân [^15], era con las constelaciones.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 24\. Y, después, él (el espíritu maligno) se acercó al fuego, y mezcló humo y oscuridad con él. 25. Los planetas, con muchos demonios, se estrellaron contra la esfera celestial, y mezclaron las constelaciones; y toda la creación quedó tan desfigurada como si el fuego lo desfigurara todo y el humo se elevara sobre ella. 26. Y durante noventa días y noventa noches los ángeles celestiales lucharon en el mundo con los demonios confederados del espíritu maligno, y los arrojaron confundidos al infierno; y la muralla del cielo se formó de tal manera que el adversario no pudo mezclarse con ella.
 
-27\. El infierno está en medio de la tierra; allí donde el espíritu maligno atravesó la tierra [^17] y se abalanzó sobre ella, mientras todas las posesiones del mundo se transformaban en dualidad, y la persecución, la contienda y la mezcla de lo alto y lo bajo se manifestaban.
+27\. El infierno está en medio de la tierra; allí donde el espíritu maligno atravesó la tierra [^17] y se abalanzó sobre ella, mientras todas las posesiones del mundo <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> se transformaban en dualidad, y la persecución, la contienda y la mezcla de lo alto y lo bajo se manifestaban.
 
 <figure class="table chapter-navigator">
   <table>
@@ -88,7 +88,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## Notas al pie
 
-[^1]: (15:1) Los manuscritos de Pâzand tienen garôist, por el Huz. hêmnunast, 'confiado'. Windischmann y Justi tienen 'todos'.
+[^1]: (15:1) Los manuscritos de Pâzand tienen garôist, por el Huz. hêmnunast, «confiado». Windischmann y Justi tienen «todos».
 
 [^2]: (15:2) Probablemente Gâyômar<i>d</i>.
 
@@ -96,7 +96,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^4]: (15:4) La personificación de la impureza de la menstruación.
 
-[^5]: (16:1) La palabra vêsh o vîsh puede significar bêsh, 'angustia, vejación', como se supone aquí, o vish, 'veneno', como lo traducen Windischmann y Justi de acuerdo con los manuscritos Paz.
+[^5]: (16:1) La palabra vêsh o vîsh puede significar bêsh, «angustia, vejación», como se supone aquí, o vish, «veneno», como lo traducen Windischmann y Justi de acuerdo con los manuscritos Paz.
 
 [^6]: (16:2) Que este es el Huzvâri<i>s</i> de rûbân, «alma», se desprende del cap. XV, 3-5, donde ambas palabras se usan indistintamente; pero no se menciona en el glosario Huz.-Pâz. Es evidentemente equivalente al caldeo ni<i>s</i>mâ, y probablemente debería tener la pronunciación tradicional nisman, abreviatura de nismman.
 
@@ -106,13 +106,13 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^9]: (17:2) El equinoccio de primavera (véase Cap. XXV, 7).
 
-[^10]: (17:3) Literalmente, 'y fue arreglado'.
+[^10]: (17:3) Literalmente, «y fue arreglado».
 
 [^11]: (17:4) Para los detalles de estas visitaciones, véanse los capítulos VI-X.
 
-[^12]: (17:5) Lectura khûst tôm; pero puede ser hangî<i>d</i>tûm, 'muy turbio, opaco'.
+[^12]: (17:5) Lectura khûst tôm; pero puede ser hangî<i>d</i>tûm, «muy turbio, opaco».
 
-[^13]: (17:6) La palabra makhâ, 'golpe, golpe', es un logograma Huzvâri<i>s</i> que no se encuentra en los glosarios; M6 tiene dâr, 'madera', pero esto puede ser una lectura errónea, debido a que el original, del cual se copió M6, es difícil de leer.
+[^13]: (17:6) La palabra makhâ, «golpe, golpe», es un logograma Huzvâri<i>s</i> que no se encuentra en los glosarios; M6 tiene dâr, «madera», pero esto puede ser una lectura errónea, debido a que el original, del cual se copió M6, es difícil de leer.
 
 [^14]: (18:1) La palabra mîvang es una forma inusual de mîvak, «fruto». Probablemente se remonta a un av. mivangh, que podría significar «gordura», como sugiere Windischmann.
 

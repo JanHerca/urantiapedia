@@ -68,29 +68,29 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^1]: (404:3) Se conservan dos versiones de este capítulo, que detallan las cualidades de los treinta ángeles y arcángeles (pág. 405): una en M6, que ha perdido los §§ 3-5, y la otra en un manuscrito muy antiguo de la biblioteca del sumo sacerdote de los parsis en Bombay. Este último, al estar completo, se toma aquí como texto, mientras que las variaciones de M6, presentes en casi todos los epítetos, se incluyen en las notas. Es difícil determinar con certeza cuál de las versiones es la más antigua a partir del estado de los manuscritos. M6 omite esta bendición inicial.
 
-[^2]: (405:1) M6 es 'más ágil'.
+[^2]: (405:1) M6 es «más ágil».
 
-[^3]: (405:2) M6 tiene 'más discriminativo'.
+[^3]: (405:2) M6 tiene «más discriminativo».
 
-[^4]: (405:3) M6 tiene 'más activo'.
+[^4]: (405:3) M6 tiene «más activo».
 
-[^5]: (405:4) M6 tiene 'más completo'.
+[^5]: (405:4) M6 tiene «más completo».
 
-[^6]: (405:5) M6 tiene 'más gordo'.
+[^6]: (405:5) M6 tiene «más gordo».
 
-[^7]: (405:6) M6 tiene 'más fructífero'.
+[^7]: (405:6) M6 tiene «más fructífero».
 
-[^8]: (405:7) M6 tiene 'Dînô es más deseoso'.
+[^8]: (405:7) M6 tiene «Dînô es más deseoso».
 
-[^9]: (405:8) M6 tiene 'más calentamiento'.
+[^9]: (405:8) M6 tiene «más calentamiento».
 
-[^10]: (405:9) Refiriéndose quizás a los canales dorados (Bund. XIII, 4, 5) a través de los cuales se supone que fluye el agua de Arêdvîvsûr (un título del ángel Â<i>v</i>ân, aguas'). M6 tiene 'más brillante'.
+[^10]: (405:9) Refiriéndose quizás a los canales dorados (Bund. XIII, 4, 5) a través de los cuales se supone que fluye el agua de Arêdvîvsûr (un título del ángel Â<i>v</i>ân, aguas«). M6 tiene »más brillante'.
 
-[^11]: (405:10) M6 tiene 'más embellecimiento'.
+[^11]: (405:10) M6 tiene «más embellecimiento».
 
 [^12]: (405:11) M6 tiene varpântar, cuyo significado es incierto.
 
-[^13]: (405:12) M6 tiene 'más escucha'.
+[^13]: (405:12) M6 tiene «más escucha».
 
 [^14]: (405:13) La versión en M6 termina aquí; se pierde el siguiente folio.
 

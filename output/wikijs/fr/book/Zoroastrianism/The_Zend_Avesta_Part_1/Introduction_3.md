@@ -180,9 +180,9 @@ La différence religieuse entre les Perses et leurs prêtres médiques résidait
 
 ## Notes de bas de page 
 
-[^34] : xxx:1 Une désignation très impropre, car Zend signifie « un commentaire ou une explication », et n'était appliqué qu'aux textes explicatifs, aux traductions de l'Avesta. Avesta (du vieux persan âbastâ, « la loi » ; voir Oppert, Journal Asiatique, 1872, Mars) est le nom propre des textes originaux. Ce qu'il est d'usage d'appeler « la langue zend » devrait être appelé « la langue avesta » ; le zend n'étant pas une langue du tout ; et, si le mot est utilisé pour désigner une langue, il ne peut s'appliquer à juste titre qu'au Pahlavi. L'expression « Avesta et Zend » est souvent utilisée dans le commentaire pahlavi pour désigner « la loi avec son explication traditionnelle et révélée ». 
+[^34]: xxx:1 Une désignation très impropre, car Zend signifie « un commentaire ou une explication », et n'était appliqué qu'aux textes explicatifs, aux traductions de l'Avesta. Avesta (du vieux persan âbastâ, « la loi » ; voir Oppert, Journal Asiatique, 1872, Mars) est le nom propre des textes originaux. Ce qu'il est d'usage d'appeler « la langue zend » devrait être appelé « la langue avesta » ; le zend n'étant pas une langue du tout ; et, si le mot est utilisé pour désigner une langue, il ne peut s'appliquer à juste titre qu'au Pahlavi. L'expression « Avesta et Zend » est souvent utilisée dans le commentaire pahlavi pour désigner « la loi avec son explication traditionnelle et révélée ». 
 
-[^35] : xxxii : 1 Ravâet ap. Anquetil, Mémoires de l'Acad. des Inscr. et Belles-Lettres XXXVIII, 216 ; Spiegel, Zeitschrift der Deutschen Morgenländischen Gesellschaft IX, 174. 
+[^35]: xxxii : 1 Ravâet ap. Anquetil, Mémoires de l'Acad. des Inscr. et Belles-Lettres XXXVIII, 216 ; Spiegel, Zeitschrift der Deutschen Morgenländischen Gesellschaft IX, 174. 
 
 [^36]: xxxii:2 J. Darmesteter, La légende d'Alexandre chez les Parses. 
 
@@ -190,17 +190,17 @@ La différence religieuse entre les Perses et leurs prêtres médiques résidait
 
 [^38]: xxxiii:1 Gvê<i>t</i> rastakân. Nous sommes redevables à M. West de la traduction exacte de ce mot. 
 
-[^39] : xxxiii:2 Ainsi traduit par West (Glossaire du Livre d'Ardâ Vîrâf, p. 27). 
+[^39]: xxxiii:2 Ainsi traduit par West (Glossaire du Livre d'Ardâ Vîrâf, p. 27). 
 
-[^40] : xxxiii : 3 Haug, Essai sur Pahlavi p. 145 suiv., 149 suiv. 
+[^40]: xxxiii : 3 Haug, Essai sur Pahlavi p. 145 suiv., 149 suiv. 
 
-[^41] : xxxiii : 4 Spiegel, Eranische Alterthumskunde III, 782, n. 1. 
+[^41]: xxxiii : 4 Spiegel, Eranische Alterthumskunde III, 782, n. 1. 
 
-[^42] : xxxiii:5 S. de Sacy, Mémoires sur quelques antiquités de la Perse. Cf. Masudi, 125. II, 125. 
+[^42]: xxxiii:5 S. de Sacy, Mémoires sur quelques antiquités de la Perse. Cf. Masudi, 125. II, 125. 
 
-[^43] : xxxiv:1 Peut-être cinq (voir de Longpérier, Mémoire sur la Numismatique des Arsacides, p. 111). 
+[^43]: xxxiv:1 Peut-être cinq (voir de Longpérier, Mémoire sur la Numismatique des Arsacides, p. 111). 
 
-[^44] : xxxiv : 2 'Magus ad eum Tiridates venerat' (Pline, Nat. Hist. XXX, 6).
+[^44]: xxxiv : 2 'Magus ad eum Tiridates venerat' (Pline, Nat. Hist. XXX, 6).
 
 [^45]: xxxiv:3 Pline confond très souvent magisme et magie, mages et magiciens. Nous savons aussi par Pline que Tiridate refusa d'initier Néron à son art : mais la cause n'était pas, comme il le suppose, qu'il s'agissait d'un « art détestable, frivole et vain », mais parce que la loi mazdéenne interdit de révéler la connaissance sacrée aux laïcs, et encore plus aux étrangers. 
 
@@ -232,15 +232,15 @@ La différence religieuse entre les Perses et leurs prêtres médiques résidait
 
 [^60]: xli:6 Le patriarche d'Alexandrie, Timothée, permettait aux autres patriarches, p. xlii évêques et moines de manger de la viande le dimanche, afin de reconnaître ceux qui appartenaient à la secte manichéenne (Flügel, p. 279). 
 
-[^61] : xlii:1 'Ceux qui suivent l'hérésie de Prodicus se vantent de posséder des livres secrets de Zoroastre', Clemens Alex. Stromates I. Cf. le ἀποκαλύψεις Ζωροάστρου forgé par Adelphius ou Aquilin (ap. Porphyr. Vita Plotini, § 16). 
+[^61]: xlii:1 'Ceux qui suivent l'hérésie de Prodicus se vantent de posséder des livres secrets de Zoroastre', Clemens Alex. Stromates I. Cf. le ἀποκαλύψεις Ζωροάστρου forgé par Adelphius ou Aquilin (ap. Porphyr. Vita Plotini, § 16). 
 
-[^62] : xlii:2 Ἐπᾴδει δὲ ἐπιλεγόμενος ἐκ βιβλίου (V, 27, 3). 
+[^62]: xlii:2 Ἐπᾴδει δὲ ἐπιλεγόμενος ἐκ βιβλίου (V, 27, 3). 
 
-[^63] : xlii:3 Voir Windischmann, Zoroastrische Studien, 288. 
+[^63]: xlii:3 Voir Windischmann, Zoroastrische Studien, 288. 
 
-[^64] : xlii:4 'Hermippus, qui de tota arte ea (magia) diligentissime scripsit et viciens centiens milia versuum a Zoroastre condita indicibus quoque volumem ejus positis explanavit.' . . . (Hist. Nat. XXX, 1, 2). Il avait écrit un livre περὶ μάγων (Diog. Laert. Prooem. 8). 
+[^64]: xlii:4 'Hermippus, qui de tota arte ea (magia) diligentissime scripsit et viciens centiens milia versuum a Zoroastre condita indicibus quoque volumem ejus positis explanavit.' . . . (Hist. Nat. XXX, 1, 2). Il avait écrit un livre περὶ μάγων (Diog. Laert. Prooem. 8). 
 
-[^65] : xliii:1 Dans Plutarque, De Iside et Osiride, §§46-47. 
+[^65]: xliii:1 Dans Plutarque, De Iside et Osiride, §§46-47. 
 
 [^66]: xliii:2 Les hommes, une fois ressuscités d'entre les morts, n'auront plus d'ombre (μήτε σκιὰν ποιοῦντας). En Inde, les dieux n'ont pas d'ombre (Nalus) ; en Perse, Râshidaddîn a été reconnu comme un dieu parce qu'il ne produisait pas d'ombre (Guyard, Un grand maître, des Assassins, Journal Asiatique, 1877, I, 392) ; la plante de la vie éternelle, Haoma, n'a pas d'ombre (Henry Lord). 
 
@@ -264,7 +264,7 @@ La différence religieuse entre les Perses et leurs prêtres médiques résidait
 
 [^76]: xlv:7 Il y a d'autres caractéristiques de la religion de l'Avesta qui semblent avoir été étrangères à la Perse, mais qui sont attribuées aux Mages. Le <i>h</i><i>v</i>aêtvôdatha, la sainteté du mariage entre proches parents, même jusqu'à l'inceste, était inconnu de p. xlvi La Perse sous Cambyse (Hérode III, 31), mais elle est hautement louée dans l'Avesta, et était pratiquée sous les Sassanides (Agathias II, 31) ; à l'époque antérieure aux Sassanides, elle n'est mentionnée que comme une loi des Mages (Diog. Laert. Prooem. 6 ; Catulle, Carm. XC). 
 
-[^77] : xlvi:1 Ou des historiens dont il copie. Il semble pourtant parler d'après des preuves contemporaines. Sozomène (Hist. Eccles. II, 9) affirme que le soin du culte appartenait héréditairement aux Mages « comme à une race sacerdotale », ὡ?'σπερ τι φῦλον ἱερατικόν. 
+[^77]: xlvi:1 Ou des historiens dont il copie. Il semble pourtant parler d'après des preuves contemporaines. Sozomène (Hist. Eccles. II, 9) affirme que le soin du culte appartenait héréditairement aux Mages « comme à une race sacerdotale », ὡ?'σπερ τι φῦλον ἱερατικόν. 
 
 [^78]: xlvi:2 Τὸ τῶν Μάγων φῦλον (XV, 14). 
 
@@ -312,7 +312,7 @@ Leur propagation et leur errance sur les terres mazdéennes apparaissent dans Ya
 
 [^99]: lii:2 Si l'interprétation de la fin de l'inscription de Behistun (conservée seulement dans la version scythe) telle que donnée par le professeur Oppert est correcte, Darius doit avoir fait une collection de textes religieux connue sous le nom d'Avesta, d'où il s'ensuivrait, avec une grande probabilité, que l'Avesta actuelle procède de Darius. La traduction du célèbre érudit est la suivante : « J'ai fait une collection de textes (dippimas) ailleurs en langue arienne qui autrefois n'existait pas. Et j'ai fait un texte de la Loi (de l'Avesta ; Haduk ukku) et un commentaire de la Loi, et la Bénédiction (la prière, le Zend) et les Traductions. » (Le peuple et la langue des Mèdes, pp. 155, 186.) L'autorité d'Oppert est si grande, et en même temps le passage est si obscur, que je ne sais guère s'il y a plus de témérité à rejeter son interprétation ou à l'adopter. Français Je me permets cependant de remarquer que le mot dippimas est la translittération scythe habituelle du persan dipi, « une inscription », et il n'y a aucune raison apparente de s'écarter de ce sens dans ce passage ; si le mot traduit par « la Loi », ukku représente réellement ici un mot persan Aba<i>s</i>ta, il n'est pas nécessaire qu'il désigne l'Avesta, le livre religieux, p. liii car dans ce cas le mot n'aurait très certainement pas été traduit dans la version scythe, mais seulement translittéré ; l'idéogramme pour « Bénédiction, prière », peut se référer à des inscriptions religieuses comme Persépolis I ; l'importance de tout le passage serait donc que Darius a fait graver d'autres inscriptions et a écrit d'autres édits et formules religieuses (le mot « traductions » n'est qu'une supposition). 
 
-[^100] : liv:1 Cf. V, 8. 
+[^100]: liv:1 Cf. V, 8. 
 
 [^101]: lv:1 Darius reconstruisit les temples que le mage Gaumata avait détruits (Behistun I, 63). Les mages, dit-on, voulaient que les dieux ne soient pas emprisonnés entre quatre murs (Cic. de Legibus II, 10). Xerxès se comporta en leur disciple, du moins en Grèce. Pourtant, les mages semblent avoir finalement cédé sur ce point aux coutumes perso-assyriennes, et il y avait des temples même sous les Sassanides. 
 
@@ -320,8 +320,8 @@ Leur propagation et leur errance sur les terres mazdéennes apparaissent dans Ya
 
 [^103]: lv:3 Cf. Westergaard, Préface du Zend-Avesta, p. 17. Ceci concorde avec ce que nous savons du goût d'Artaxerxès pour les nouveautés religieuses. C'est lui qui a mêlé le culte de l'Assyrienne Anat-Mylitta à celui de l'Iranienne Anâhita (l'attribution de cette innovation à Artaxerxès Mnémon par Clément d'Alexandrie (Stromates I) doit reposer sur une erreur cléricale, car à l'époque d'Hérodote, qui écrivit sous Longimanus, le culte de Mylitta avait déjà été introduit en Perse (I, 131)). 
 
-[^104] : lv:4 Agathias II, 26. 
+[^104]: lv:4 Agathias II, 26. 
 
-[^105] : lvi:1 De Gobineau, Histoire des Perses, II, 632 seq.
+[^105]: lvi:1 De Gobineau, Histoire des Perses, II, 632 seq.
 
 [^106]: lvi:2 Nous devrions discuter ici de la théorie scythe du magisme ; mais jusqu'ici nous n'avons pu trouver nulle part un exposé clair et cohérent de sa thèse et de ses arguments. On ne sait rien d'aucune religion scythe, et ce que l'on attribue à une prétendue influence scythe, le culte des éléments, est l'un des traits les plus anciens et les plus essentiels des religions aryennes.

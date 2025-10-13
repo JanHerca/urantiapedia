@@ -118,45 +118,45 @@ Au même moment, les anciennes inscriptions persanes de Persépolis et de Béhis
 
 [^3]: xi:4 Il y a un siècle, dit-on, ils comptaient encore près de 100 000 âmes ; mais il n'en reste plus aujourd'hui que 8 000 ou 9 000, dispersées à Yezd et dans les villages environnants (Dosabhoy Framjee, Les Parsis).
 
-[^4] : xii : 1 Diogène Laertius, Prooemium 8.
+[^4]: xii : 1 Diogène Laertius, Prooemium 8.
 
 [^5]: xii:2 Pline, Hist. Nat. XXX, 1, 2. Cf. infra, III, 11.
 
-[^6] : xii:3 Dinon, Théopompe, Hermodorus, Heraclides Cumanus.
+[^6]: xii:3 Dinon, Théopompe, Hermodorus, Heraclides Cumanus.
 
-[^7] : xii : 4 Voir Nicolas Damazcenus, Didot, Fragm. Hist. III, 409.
+[^7]: xii : 4 Voir Nicolas Damazcenus, Didot, Fragm. Hist. III, 409.
 
-[^8] : xiii : 1 Fabricius, Graeca Bibliotheca, quatrième annonce. p. 309 suiv.
+[^8]: xiii : 1 Fabricius, Graeca Bibliotheca, quatrième annonce. p. 309 suiv.
 
-[^9] : xiii:2 Clemens Alexandrinus, Stromates I. Cf. infra, III, 11, et Porphyrius, de vita Plotini, § 16.
+[^9]: xiii:2 Clemens Alexandrinus, Stromates I. Cf. infra, III, 11, et Porphyrius, de vita Plotini, § 16.
 
 [^10]: xiii:3 'De regio Persarum principatu libri tres', Paris, 1590. Le deuxième livre est consacré à la religion et aux mœurs des anciens Perses.
 
-[^11] : xiv : 1 'Veterum Persarum et Parthorum et Medorum, religionis historia', Oxford, 1700.
+[^11]: xiv : 1 'Veterum Persarum et Parthorum et Medorum, religionis historia', Oxford, 1700.
 
 [^12]: xiv:2 Ainsi, il reconnut en Abraham le premier législateur de l'ancienne Perse, dans le magisme une corruption sabéenne de la foi primitive, et en Zoroastre un homme qui avait appris la vérité oubliée des Juifs exilés à Babylone.
 
-[^13] : xv:1 'Zend-Avesta, ouvrage de Zoroastre, contenant les Ideés Théologiques, Physiques et Morales de ce Législateur. . . . Traduit en François sur l'Original Zend.' Par M. Anquetil Du Perron, 3 vol. in 4o, Paris, 1771.
+[^13]: xv:1 'Zend-Avesta, ouvrage de Zoroastre, contenant les Ideés Théologiques, Physiques et Morales de ce Législateur. . . . Traduit en François sur l'Original Zend.' Par M. Anquetil Du Perron, 3 vol. in 4o, Paris, 1771.
 
-[^14] : xv:2 'Lettre à M. A\*\*\* du P\*\*\* dans laquelle est compris l'examen de sa traduction des livres attribués Zoroastre.'
+[^14]: xv:2 'Lettre à M. A\*\*\* du P\*\*\* dans laquelle est compris l'examen de sa traduction des livres attribués Zoroastre.'
 
-[^15] : xvi:1 Cf. l'article sur Zoroastre dans le Dictionnaire philosophique.
+[^15]: xvi:1 Cf. l'article sur Zoroastre dans le Dictionnaire philosophique.
 
 [^16]: xvi:2 'Dissertation sur les langues, la littérature et les mœurs des nations orientales', Oxford, 1777.
 
-[^17] : xvii : 1 'De Zoroastris vita, institutis, doctrina et libris', dans les Novi Comentarii Societatis Regiae, Goettingen, 1778-1779.
+[^17]: xvii : 1 'De Zoroastris vita, institutis, doctrina et libris', dans les Novi Comentarii Societatis Regiae, Goettingen, 1778-1779.
 
-[^18] : xvii:2 'Zend-Avesta . . . nach dem Franzoesischen des Herm Anquetil Du Perron,' vol. en 40, 1776.
+[^18]: xvii:2 'Zend-Avesta . . . nach dem Franzoesischen des Herm Anquetil Du Perron,' vol. en 40, 1776.
 
-[^19] : xvii : 3 'Anhang zum Zend-Avesta', 2 vol. en 4o, 1781.
+[^19]: xvii : 3 'Anhang zum Zend-Avesta', 2 vol. en 4o, 1781.
 
-[^20] : xix:1 'Commentatio prior observations historico-criticas de Zoroastre ejusque et placitis exhibens.' Goettingen, dans le Novi Comment. Soc. Rég. 1791.
+[^20]: xix:1 'Commentatio prior observations historico-criticas de Zoroastre ejusque et placitis exhibens.' Goettingen, dans le Novi Comment. Soc. Rég. 1791.
 
 [^21]: xx:1 La grammaire sanskrite.
 
 [^22]: xx:2 Recherches asiatiques, II, § 3.
 
-[^23] : xxi:1 'De antiquitate et affinitate linguae samscredamicae et germanicae', Rome, 1798.
+[^23]: xxi:1 'De antiquitate et affinitate linguae samscredamicae et germanicae', Rome, 1798.
 
 [^24]: xxii:1 Recherches asiatiques, X.
 
@@ -164,10 +164,10 @@ Au même moment, les anciennes inscriptions persanes de Persépolis et de Béhis
 
 [^26]: xxii:3 Un grand dictionnaire persan compilé en Inde sous le règne de Jehangir.
 
-[^27] : xxii : 4 'Erläuterungen zum Neuen Testament aus einer neueröffneten Morgenländischen Quelle, Ἰδοὺ μάγοι ἀπὸ ἀνατολῶν,' Riga, 1775.
+[^27]: xxii : 4 'Erläuterungen zum Neuen Testament aus einer neueröffneten Morgenländischen Quelle, Ἰδοὺ μάγοι ἀπὸ ἀνατολῶν,' Riga, 1775.
 
-[^28] : xxii:5 'Die Heilige Sage . . . des Zend-Volks, Francfort, 1820.
+[^28]: xxii:5 'Die Heilige Sage . . . des Zend-Volks, Francfort, 1820.
 
-[^29] : xxii:6 'Ueber das Alter und die Echtheit der Zend-Sprache und des Zend Avesta' (übersetzt von FH von der Hagen), Berlin, 1826. Remarques sur la langue Zend et la Zend-Avesta (Transactions de la branche Bombay de la Royal Asiatic Society, III, 524).
+[^29]: xxii:6 'Ueber das Alter und die Echtheit der Zend-Sprache und des Zend Avesta' (übersetzt von FH von der Hagen), Berlin, 1826. Remarques sur la langue Zend et la Zend-Avesta (Transactions de la branche Bombay de la Royal Asiatic Society, III, 524).
 
 [^30]: xxv:1 Les attaques de John Romer (« Zend : est-ce une langue originale ? », Londres, 1855) n'ont suscité une réfutation qu'à Bombay (Dhanjibai Framji, « On the Origin and the Authenticity of the Aryan Family of Languages, the Zend-Avesta and the Huzvarash », 1861).

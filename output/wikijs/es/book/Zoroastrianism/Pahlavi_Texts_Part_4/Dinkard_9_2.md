@@ -44,7 +44,7 @@ _Beneficio Nask_.
 
 16\. Sobre el lugar donde se debe pronunciar el primer Yathâ-ahû-vairyô para aniquilar a los demonios. 17. Sobre los buenos resultados (dahi<i>s</i>nân) de una recitación adecuada de las palabras del Ahunavair, el resumen de todo lo que Zaratû<i>s</i>t debe pronunciar. 18. Y sobre el hecho de que, al cantar cada palabra del Ahunavair con una intención virtuosa, se incapacita a un demonio y se protege a la persona y a la propiedad del adversario.
 
-19. Sobre la división de los veintiún Nasks, asimismo, según la primera, segunda y tercera líneas (gâs) del Ahunavair [^6]. 20. Sobre el aumento de las criaturas debido al pensamiento, la palabra y la acción liberales de una persona justa; debido a que los sacerdotes se han vuelto numerosos, y a la reverencia de quien los está haciendo numerosos, y debido a la meditación perpetua de la justicia y la existencia de su recompensa.
+19\. Sobre la división de los veintiún Nasks, asimismo, según la primera, segunda y tercera líneas (gâs) del Ahunavair [^6]. 20. Sobre el aumento de las criaturas debido al pensamiento, la palabra y la acción liberales de una persona justa; debido a que los sacerdotes se han vuelto numerosos, y a la reverencia de quien los está haciendo numerosos, y debido a la meditación perpetua de la justicia y la existencia de su recompensa.
 
 21\. La justicia es la excelencia perfecta.
 

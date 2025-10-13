@@ -70,6 +70,6 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^3]: (31:2) Aquí se mencionan 120.000, pero véase Cap. XXVII, 2, y Selecciones de Zâ<i>d</i>\-sparam, VIII, 2.
 
-[^4]: (31:3) O, 'de todas las semillas' (véase Cap. XVIII, 9).
+[^4]: (31:3) O, «de todas las semillas» (véase Cap. XVIII, 9).
 
 [^5]: (31:4) El árbol blanco-Hôm (véanse Caps. XVIII, 1-6, XXVII, 4).

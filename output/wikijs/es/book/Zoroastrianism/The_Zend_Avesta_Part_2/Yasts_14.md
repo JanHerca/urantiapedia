@@ -142,7 +142,7 @@ Así llegó Verethraghna, trayendo la buena Gloria hecha por Mazda, la Gloria he
 
 ## V.
 
-14. Ofrecemos sacrificios a Verethraghna, hechos por Ahura.
+14\. Ofrecemos sacrificios a Verethraghna, hechos por Ahura.
 
 Zaratustra le preguntó a Ahura Mazda: «¡Ahura Mazda, Espíritu más benéfico, Creador del mundo material, tú, Santo!
 

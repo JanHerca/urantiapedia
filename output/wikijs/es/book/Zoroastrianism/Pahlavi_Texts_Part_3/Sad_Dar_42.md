@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El cuadragésimo segundo tema es este: que es necesario practicar una estricta abstinencia _de_ ese pecado _que afecta_ a los acusadores [^1]. 2. Esto sería cuando alguien calumnia (buhtânad) [^2], o alguien comete una violación contra la esposa de alguien [^3], o hace que una mujer _ocupe_ una cama separada de la de su propio esposo.
 
-3. Estos son pecados _por_ los cuales no hay retribución, excepto cuando imploras perdón a la persona a quien tu pecado ha atacado. 4. Después, retienen el alma, _en_ ​​el puente invadido por el Rey, hasta que llega su antagonista y le exige justicia; entonces obtiene la liberación.
+3\. Estos son pecados _por_ los cuales no hay retribución, excepto cuando imploras perdón a la persona a quien tu pecado ha atacado. 4. Después, retienen el alma, _en_ ​​el puente invadido por el Rey, hasta que llega su antagonista y le exige justicia; entonces obtiene la liberación.
 
 5\. Cada vez que alguien aplica una falsedad o calumnia a otra persona, de modo que la gente vuelve a repetirla, y esto aflige el corazón de esa persona, se le está infligiendo un nuevo castigo. 6. El pecado no desaparece mediante el cumplimiento de deberes y buenas obras, mientras no se satisfaga a su antagonista.
 

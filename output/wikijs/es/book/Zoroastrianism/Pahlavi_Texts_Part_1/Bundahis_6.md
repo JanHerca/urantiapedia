@@ -66,4 +66,4 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^1]: (25:1) Esta es la palabra dudosa traducida como ‘atacar’ en el cap. V, 6 (véase la nota allí); también aparece al comienzo de cada uno de los cuatro capítulos siguientes.
 
-[^2]: (25:2) Lectura zôrîh; pero puede ser zûrîh, 'falsedad'.
+[^2]: (25:2) Lectura zôrîh; pero puede ser zûrîh, «falsedad».

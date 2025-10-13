@@ -38,7 +38,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 1\. Un ton de gratitude persiste. Comme pour remercier Ahura d'une meilleure fortune, le prophète déclare qu'il accordera à Ahura, en priorité, selon la mesure des dons qu'il a reçus. Ces dons étaient l'immortalité assurée et non une simple « immortalité » temporelle, l'Ordre Juste et le Pouvoir Souverain établi dans la sainteté et conférant le Bien-être Universel.
 
-2. Les offrandes proposées ne sont pas des animaux ou des fruits sacrificiels, mais les actes du citoyen véritablement pieux, dont l'âme est intimement unie à la Justice, l'hommage de la prière et les chants de louange. De même qu'aucune piété ne pouvait exister sans une stricte régularité ecclésiastique, aucune ponctualité cérémonielle n'était conçue en dehors de l'honneur et de la charité (voir verset 5 et Yast XXII).
+2\. Les offrandes proposées ne sont pas des animaux ou des fruits sacrificiels, mais les actes du citoyen véritablement pieux, dont l'âme est intimement unie à la Justice, l'hommage de la prière et les chants de louange. De même qu'aucune piété ne pouvait exister sans une stricte régularité ecclésiastique, aucune ponctualité cérémonielle n'était conçue en dehors de l'honneur et de la charité (voir verset 5 et Yast XXII).
 
 3\. En conséquence, l'offrande de viande, dont la mention suit immédiatement, est décrite comme offerte en hommage à l'Ordre Juste et à la Souveraineté Divine pour le bénéfice de tous les établissements sacrés, afin d'équiper pleinement l'homme sage, et comme une bénédiction utile parmi les Immortels eux-mêmes et leurs adhérents.
 
@@ -56,9 +56,9 @@ Il s'enquiert alors avec une certaine nostalgie des « ar(e)drâ », des hommes 
 
 9\. « Oui », réitère-t-il en amplifiant, « les malheureux pécheurs qui s'éloignent de Ta bienveillante et sacrée Piété dans cette ignorance de toute expérience de Ton Bon Esprit, souffriront d'un abandon égal. Les caractéristiques de la droiture, à leur tour, les éviteront comme les créatures impures nous fuient. » 10. « Et ceci est », poursuit-il, « un signe ou un résultat que le Très-Sage me déclare pour affermir mon âme alors que je vacille. » « Et ce sont en effet les preuves encourageantes de Ta faveur », ajoute-t-il en s'adressant à Ahura, « qui terrifient nos ennemis <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> et nous font progresser, nous accordant une juste éminence (XXXIII, 14) dans Ton Royaume. »
 
-11. « C'est pourquoi cette piété bienveillante, que ces hommes abandonnent dans leur ignorance juridique, accroîtra pour nous les bienfaits infinis : l'immortalité spirituelle, commencée ici-bas, et sa condition nécessaire, le bien-être. Et elles serviront de nourriture au peuple de Mazda dans la détresse, ou mieux, à sa gloire en tant que monarque. Et par leur intermédiaire, Ahura pourra se défendre efficacement contre l'ennemi persécuteur et idolâtre. » 12. Prenant en considération tout ce qui dépend d'une compréhension correcte des devoirs religieux et politiques, il prie avec ferveur d'être bien guidé dans l'établissement d'un cérémonial et de louanges, suppliant Mazda de parler, déclarant le genre de culte qui peut assurer les ashis (qui sont les récompenses bénies). Et il demande qu'on lui enseigne les voies religieuses sur lesquelles aucune erreur n'était possible, les voies qui sont celles du Bon Esprit.
+11\. « C'est pourquoi cette piété bienveillante, que ces hommes abandonnent dans leur ignorance juridique, accroîtra pour nous les bienfaits infinis : l'immortalité spirituelle, commencée ici-bas, et sa condition nécessaire, le bien-être. Et elles serviront de nourriture au peuple de Mazda dans la détresse, ou mieux, à sa gloire en tant que monarque. Et par leur intermédiaire, Ahura pourra se défendre efficacement contre l'ennemi persécuteur et idolâtre. » 12. Prenant en considération tout ce qui dépend d'une compréhension correcte des devoirs religieux et politiques, il prie avec ferveur d'être bien guidé dans l'établissement d'un cérémonial et de louanges, suppliant Mazda de parler, déclarant le genre de culte qui peut assurer les ashis (qui sont les récompenses bénies). Et il demande qu'on lui enseigne les voies religieuses sur lesquelles aucune erreur n'était possible, les voies qui sont celles du Bon Esprit.
 
-13. D'une manière que nous connaissons déjà (comme dans XXIX), il répond lui-même à sa question. Cette voie qu'Ahura avait déjà révélée comme étant celle du Bon Esprit était constituée des préceptes révélés des Saoshya<i>n</i>ts. Là, comme dans les sentiers où Ahura demeure (XXXIII, 5 ; XLVI, 16), le bienfaiteur peut prospérer grâce à sa dévotion aux vérités religieuses et obtenir immédiatement une récompense de la main de Dieu. 14. Comme s'il n'oubliait jamais la calamité originelle, les malheurs du Veau, il déclare en outre que cette voie est celle qu'il faut choisir pour cette vie terrestre, comme le vestibule de la vie céleste. Et il affirme que ceux qui travaillent pour le Veau (qui représente ici, comme généralement, les établissements sacrés ainsi que leur principale source de richesse et de soutien) s'efforcent de promouvoir et de démontrer la sagesse de cette voie par tous les moyens justes.
+13\. D'une manière que nous connaissons déjà (comme dans XXIX), il répond lui-même à sa question. Cette voie qu'Ahura avait déjà révélée comme étant celle du Bon Esprit était constituée des préceptes révélés des Saoshya<i>n</i>ts. Là, comme dans les sentiers où Ahura demeure (XXXIII, 5 ; XLVI, 16), le bienfaiteur peut prospérer grâce à sa dévotion aux vérités religieuses et obtenir immédiatement une récompense de la main de Dieu. 14. Comme s'il n'oubliait jamais la calamité originelle, les malheurs du Veau, il déclare en outre que cette voie est celle qu'il faut choisir pour cette vie terrestre, comme le vestibule de la vie céleste. Et il affirme que ceux qui travaillent pour le Veau (qui représente ici, comme généralement, les établissements sacrés ainsi que leur principale source de richesse et de soutien) s'efforcent de promouvoir et de démontrer la sagesse de cette voie par tous les moyens justes.
 
 Bien plus, il déclare que les actes de piété sont eux-mêmes la plus haute sagesse, tout comme les paroles et les actions justes des Saoshya<i>n</i>ts non seulement déclarent et font, mais constituent, « la voie ».
 
@@ -160,7 +160,7 @@ Le Pahlavi traduit librement et non sans esprit critique, en considérant le spe
 
 [^425]: 86:5 Interrogatif rhétorique comme souvent en anglais, ou même une simple particule. (Comparer XLVI, 9.)
 
-[^426] : 86:6 Ainsi aussi le Pahlavi indique avec son âmûkhti<i>s</i>nŏ (sic) î hûvari<i>s</i>nŏ \[î avŏ kâr va kirfak\], mûni<i>k</i> pavan âsânîh va mûni<i>k</i> pavan tangîh vâdûnyên frâkh-hushih. Ner. : <i>S</i>sikshâm satyiya ya<i>h</i> samâdhânatve, sa<i>m</i>ka<i>t</i>atve\* 'pi kurute vipula<i>k</i>aitanya<i>h</i> \[kila, ya<i>h</i> kârya<i>m</i> pu<i>n</i>ya<i>m</i> yat sam<i>ri</i>ddhatayâ kurute\] ta<i>k</i><i>k</i>a yat sa<i>m</i>ka<i>t</i>atayâ 'pi kurute, tasya vi<i>g</i><i>ñ</i>âna<i>k</i>aitanya<i>m</i> tasmâd bhavati.
+[^426]: 86:6 Ainsi aussi le Pahlavi indique avec son âmûkhti<i>s</i>nŏ (sic) î hûvari<i>s</i>nŏ \[î avŏ kâr va kirfak\], mûni<i>k</i> pavan âsânîh va mûni<i>k</i> pavan tangîh vâdûnyên frâkh-hushih. Ner. : <i>S</i>sikshâm satyiya ya<i>h</i> samâdhânatve, sa<i>m</i>ka<i>t</i>atve\* 'pi kurute vipula<i>k</i>aitanya<i>h</i> \[kila, ya<i>h</i> kârya<i>m</i> pu<i>n</i>ya<i>m</i> yat sam<i>ri</i>ddhatayâ kurute\] ta<i>k</i><i>k</i>a yat sa<i>m</i>ka<i>t</i>atayâ 'pi kurute, tasya vi<i>g</i><i>ñ</i>âna<i>k</i>aitanya<i>m</i> tasmâd bhavati.
 
 [^427]: 86:7 Nâo étant pris dans un sens possessif.
 
@@ -168,7 +168,7 @@ Le Pahlavi traduit librement et non sans esprit critique, en considérant le spe
 
 [^429]: 87:1 C'est une erreur de supposer que le traducteur pahlavi et ses disciples, Ner. et le manuscrit persan (de la collection de Haug), réfèrent nâidy<i>a</i>unghem et nade<i>n</i>tô au même mot sanskrit. Ils les traduisent comme s'ils renvoyaient le premier à nâdh et le dernier à nid.
 
-[^430] : 87:2 Min valman<i>s</i>ân barâ rakhîk aîtŏ Vohûman. Asmanô semble une lecture impossible, et inconciliable avec Vohû.
+[^430]: 87:2 Min valman<i>s</i>ân barâ rakhîk aîtŏ Vohûman. Asmanô semble une lecture impossible, et inconciliable avec Vohû.
 
 [^431]: 87:3 L'allusion du Pahlavi pointe, comme d'habitude, vers le sens général, nous laissant la tâche de découvrir la structure grammaticale.
 
@@ -186,7 +186,7 @@ Ici je ne suis pas l'indication de sedkûnyên ; Ner. parikshipyanti. Le voc. «
 
 [^437]: 88:2 De même, les Pahlavi avec leur khûri<i>s</i>nŏ ; autrement « pour la gloire » ; <i>h</i><i>v</i>ar = svar. Littéralement « À Toi sont à la fois le Bien-être et l'Immortalité. »
 
-[^438] : 88:3 <i>G</i>avî<i>d</i> bêsh min lak hômanih; Ner. vîtakash<i>t</i>as tva<i>m</i> asi.
+[^438]: 88:3 <i>G</i>avî<i>d</i> bêsh min lak hômanih; Ner. vîtakash<i>t</i>as tva<i>m</i> asi.
 
 [^439]: 88:4 Ner.: Ainsi, les deux sont (à dériver) de toi, la nourriture d'Avirdâda, et celle d'Amirdâda aussi, \[^441] (ainsi l'Avesta et le Parsisme ultérieurs)\], et dans le royaume du meilleur esprit, la droiture fait une révélation avec l'esprit parfait. Accorde aussi zèle et puissance à celui-ci, ô Grand Sage, le Seigneur ! Du tourment tu es exempt.
 
@@ -214,7 +214,7 @@ Ici je ne suis pas l'indication de sedkûnyên ; Ner. parikshipyanti. Le voc. «
 
 [^451]: 90:3 Notez que vere<i>z</i><i>e</i>nâ ne peut pas bien signifier « stalle » dans ce vers. Le Pahlavi y voit également varzî-aît ; Ner. vidhîyate, tous deux libres quant à la forme.
 
-[^452] : 90:4 Neryosangh : Sa yato, Mahâ<i>g</i><i>ñ</i>ânin ! kâmo 'smâka<i>m</i> yat tanumate <i>g</i>îvamate dîyate \[â<i>k</i>âryâya\], uttamena karma<i>n</i>e manasâ \[khshatriyâya\], ya<i>s</i><i>k</i>a gavâ\* â<i>k</i>ârayitre\* A<i>g</i>inâmnyâ, \[ku<i>t</i>umbine\], yo yushmâka<i>m</i> sunirvâ<i>n</i>a<i>g</i><i>ñ</i>ânatayâ, Svâmin ! bouddhyâ<i>k</i>a, pu<i>n</i>yapradattayâ vidhîyate \[dîni<i>h</i>\]
+[^452]: 90:4 Neryosangh : Sa yato, Mahâ<i>g</i><i>ñ</i>ânin ! kâmo 'smâka<i>m</i> yat tanumate <i>g</i>îvamate dîyate \[â<i>k</i>âryâya\], uttamena karma<i>n</i>e manasâ \[khshatriyâya\], ya<i>s</i><i>k</i>a gavâ\* â<i>k</i>ârayitre\* A<i>g</i>inâmnyâ, \[ku<i>t</i>umbine\], yo yushmâka<i>m</i> sunirvâ<i>n</i>a<i>g</i><i>ñ</i>ânatayâ, Svâmin ! bouddhyâ<i>k</i>a, pu<i>n</i>yapradattayâ vidhîyate \[dîni<i>h</i>\]
 
 [^453]: 90:5 J'accorde cette nuance de sens au témoignage constant et invariable du traducteur Pahlavi. Il traduit uniformément par avâm yehabûnê<i>d</i> ou ses équivalents.
 

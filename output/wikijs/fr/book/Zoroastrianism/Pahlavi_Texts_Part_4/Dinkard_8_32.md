@@ -32,7 +32,11 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE XXXII.
 
+_Hûspâram Nask_.
+
+1\. Une section des vingt suivantes contient des détails sur le rite d'une épreuve accomplie, ainsi que sur les modes de préservation ou d'incrimination de quelqu'un, et tout ce qui concerne le même sujet.
 
 <figure class="table chapter-navigator">
   <table>

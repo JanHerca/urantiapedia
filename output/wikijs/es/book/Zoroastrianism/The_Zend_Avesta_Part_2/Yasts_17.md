@@ -110,7 +110,7 @@ Por su resplandor y su gloria le ofreceré un sacrificio. . . .
 
 29\. Le rogó un favor, diciendo: «¡Concédeme esto, oh gran Ashi Vanguhi! Que pueda traer gordura y rebaños al mundo creado por Mazda; que pueda traer inmortalidad al mundo creado por Mazda;
 
-30. Para que yo pueda quitar el hambre y la sed del mundo creado por Mazda; para que yo pueda quitar la vejez y la muerte del mundo creado por Mazda; para que yo pueda quitar el viento caliente y el viento frío del mundo creado por Mazda, por mil años.
+30\. Para que yo pueda quitar el hambre y la sed del mundo creado por Mazda; para que yo pueda quitar la vejez y la muerte del mundo creado por Mazda; para que yo pueda quitar el viento caliente y el viento frío del mundo creado por Mazda, por mil años.
 
 31\. El gran Ashi Vanguhi corrió y llegó a su lado: Yima Khshaêta, el buen pastor, obtuvo esa bendición.
 

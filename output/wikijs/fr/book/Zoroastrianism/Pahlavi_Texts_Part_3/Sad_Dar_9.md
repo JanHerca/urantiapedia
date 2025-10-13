@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## TRISTE DAR. CHAPITRE IX.
 
-1. Le neuvième point est qu'il est nécessaire de s'abstenir de commettre ou de permettre des relations sexuelles contre nature [1]. 2. Car c'est là le principal de tous les péchés dans la religion : il n'y a pas de péché plus grave que celui-là dans la bonne religion, et il convient de déclarer ceux qui le commettent dignes de mort en réalité.
+1\. Le neuvième point est qu'il est nécessaire de s'abstenir de commettre ou de permettre des relations sexuelles contre nature [1]. 2. Car c'est là le principal de tous les péchés dans la religion : il n'y a pas de péché plus grave que celui-là dans la bonne religion, et il convient de déclarer ceux qui le commettent dignes de mort en réalité.
 
 3\. Si quelqu'un s'avance vers eux et les voit en flagrant délit, et qu'il travaille avec une hache [^2], il lui est demandé de leur couper la tête ou de leur déchirer le ventre à tous les deux, et ce n'est pas un péché pour lui. 4. Mais il ne convient pas de tuer une personne sans l'autorisation des grands prêtres et des rois, sauf pour avoir commis ou permis des relations contre nature.
 
@@ -68,15 +68,15 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (267:3) _Gh_ulâmbâragî u mûâ<i>g</i>arî.
+[^1]: (267:3) _Gh_ulâmbâragî u mûâ<i>g</i>arî.
 
 [^2]: (267:4) B29, J15 ont « regarde », et J15 ajoute « il tuera alors ».
 
-[^3] : (267 : 5) Voir Mkh. VIII, 29 n.
+[^3]: (267 : 5) Voir Mkh. VIII, 29 n.
 
 [^4]: (267:6) L'un des cinq frères de la tribu Karap (voir Byt. II, 3, Dd. LXXII, 8).
 
-[^5] : (268 : 1) Voir Mkh. XXVII, 28 n.
+[^5]: (268 : 1) Voir Mkh. XXVII, 28 n.
 
 [^6]: (268:2) Sâma et Nareman<i>a</i>u sont deux titres du héros Keresâspa qui tua le serpent Srvara (voir SBE, vol. xviii, pp. 369-371). Dans la Shâhnâmah, il est appelé Sâm, fils de Narîmân.
 

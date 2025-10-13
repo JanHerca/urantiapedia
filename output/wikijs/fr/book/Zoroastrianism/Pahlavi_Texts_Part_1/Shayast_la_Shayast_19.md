@@ -58,13 +58,13 @@ dateCreated: 2025-10-10T14:56:40Z
 
 9\. Neuf _par celui_ qui va semer du blé ; il les prononce pour cette _raison_, parce que le blé mûrira (rasê<i>d</i>) dans neuf mois, _et_ afin que le blé puisse pousser, il rendra moins nuisibles les créatures nuisibles [^9].
 
-10. Dix _par celui_ qui va chercher une épouse, afin que les présents soient favorables à ce dessein. 11. Dix _par celui_ qui souhaite permettre au mâle d'avoir accès aux bêtes de somme et au bétail, afin que cela soit plus procréateur [^10].
+10\. Dix _par celui_ qui va chercher une épouse, afin que les présents soient favorables à ce dessein. 11. Dix _par celui_ qui souhaite permettre au mâle d'avoir accès aux bêtes de somme et au bétail, afin que cela soit plus procréateur [^10].
 
 12\. Onze _par celui_ qui va vers les hautes montagnes, afin que la gloire des montagnes et des collines le bénisse _et_ lui soit amicale [^11].
 
 13\. Douze _par celui_ qui va dans les régions basses, afin que la gloire de ce pays et de cette région le bénisse et lui soit amicale [^12].
 
-14\. Treize _par celui_ qui deviendra sans chemin ; _en_ ​​ce même lieu il les prononcera_ ; ou _par celui_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> qui traversera un pont et une rivière, afin que l'esprit de cette eau le bénisse [^13] ; car le Yathâ-ahû-vairyô est plus grand et plus efficace que_ tout ce qui est dans l'Avesta quant à tous les fleuves, à toute salubrité et à toute protection.
+14\. Treize _par celui_ qui deviendra sans chemin ; _en_ ​​ce même lieu il les prononcera_ ; ou _par celui_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> qui traversera un pont et une rivière, afin que l'esprit de cette eau le bénisse [^13] ; car le Yathâ-ahû-vairyô est plus grand et plus efficace que_ tout ce qui est dans l'Avesta _quant_ à tous les fleuves, à toute salubrité et à toute protection.
 
 15\. La religion est aussi liée au Yathâ-ahû-vairyô que les cheveux sont davantage liés à la gloire du visage ; n'importe qui, en effet, redouterait (samâ<i>d</i>) de séparer la pilosité _et_ la gloire du visage.
 
@@ -102,7 +102,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^4]: (391:1) Les mots pavan mîni<i>s</i>n sont devinés, car cette première clause est omise par erreur dans M6, et ces deux mots sont illisibles dans K20, sauf une partie de la dernière lettre.
 
-[^5]: (391:2) K20 remplace val, 'at', par la phrase mutilée suivante \[. . . . aNh<i>a</i>u khshapô ka<i>d</i>ar<i>k</i>âi pavan ka<i>d</i>âr<i>k</i>âî\] madam vazlûnê<i>d</i> râ<i>d</i>ih-i ; la partie entre parenthèses étant évidemment un fragment du Hâ<i>d</i>ôkht Srôsh Yt. 5 avec une traduction en pahlavi (un passage qui traite de l'efficacité de la récitation du Yathâ-ahû-vairyô). Français Si ce fragment n'est pas simplement une glose marginale, qui s'est glissée dans le texte par erreur, nous devons traduire toute la section comme suit : « Quatre sont pour les plus reconnaissants qui résultent de la libéralité d'une fête saisonnière, lorsque le passage, « ce jour-là ni cette nuit-là, il n'arrive rien sur personne », continue. » Le Dînkar<i>d</i> a simplement : « Quatre par _celui_ qui est à l'invocation des chefs _de la création et_ à la célébration d'une fête saisonnière. » Les Rivâyats persans omettent complètement la section.
+[^5]: (391:2) K20 remplace val, « at », par la phrase mutilée suivante \[. . . . aNh<i>a</i>u khshapô ka<i>d</i>ar<i>k</i>âi pavan ka<i>d</i>âr<i>k</i>âî\] madam vazlûnê<i>d</i> râ<i>d</i>ih-i ; la partie entre parenthèses étant évidemment un fragment du Hâ<i>d</i>ôkht Srôsh Yt. 5 avec une traduction en pahlavi (un passage qui traite de l'efficacité de la récitation du Yathâ-ahû-vairyô). Français Si ce fragment n'est pas simplement une glose marginale, qui s'est glissée dans le texte par erreur, nous devons traduire toute la section comme suit : « Quatre sont pour les plus reconnaissants qui résultent de la libéralité d'une fête saisonnière, lorsque le passage, « ce jour-là ni cette nuit-là, il n'arrive rien sur personne », continue. » Le Dînkar<i>d</i> a simplement : « Quatre par _celui_ qui est à l'invocation des chefs _de la création et_ à la célébration d'une fête saisonnière. » Les Rivâyats persans omettent complètement la section.
 
 [^6]: (391:3) Ce personnage est omis dans M6 et K20, mais il est souhaité pour compléter le groupe des cinq. Cette section est omise par les Rivâyats persans.
 

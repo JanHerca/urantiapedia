@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. _Cuando_ el infante se convierte en un _niño_ de cuatro meses, siempre que _nace muerto_ es un _cuerpo_ muerto_ [^5], por la razón de que mientras no llega al cuarto mes la vida no le llega. 6. Y si después de tres meses ocurre esto, _uno debe_ tener gran precaución (i'htiyâ<i>t</i>) e insistir estrictamente en este asunto.
 
-7. Nuestra religión ha reiterado sobre este asunto que, si alguien se contamina y no se mantiene puro, mientras viva no se purificará de esa contaminación. 8. Que, si se lava la cabeza diez mil veces en la ablución ceremonial, de ninguna manera se purificará [^6]. 9. Porque esta contaminación no proviene del exterior; proviene del interior de cada hueso, vena y tendón; y el agua purifica solo lo que está en la piel. 10. La impureza que está en los huesos, excepto mediante el líquido consagrado por la fórmula religiosa [^7], no se purifica de ninguna otra manera.
+7\. Nuestra religión ha reiterado sobre este asunto que, si alguien se contamina y no se mantiene puro, mientras viva no se purificará de esa contaminación. 8. Que, si se lava la cabeza diez mil veces en la ablución ceremonial, de ninguna manera se purificará [^6]. 9. Porque esta contaminación no proviene del exterior; proviene del interior de cada hueso, vena y tendón; y el agua purifica solo lo que está en la piel. 10. La impureza que está en los huesos, excepto mediante el líquido consagrado por la fórmula religiosa [^7], no se purifica de ninguna otra manera.
 
 <figure class="table chapter-navigator">
   <table>

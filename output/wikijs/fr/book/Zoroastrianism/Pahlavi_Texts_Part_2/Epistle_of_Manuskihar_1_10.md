@@ -108,4 +108,4 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^19]: (320:1) Lecture hanâ giring, mais on peut aussi lire ân adarog, 'celui qui est trompeur'.
 
-[^20] : (320:2) Zâ<i>d</i>\-sparam.
+[^20]: (320:2) Zâ<i>d</i>\-sparam.

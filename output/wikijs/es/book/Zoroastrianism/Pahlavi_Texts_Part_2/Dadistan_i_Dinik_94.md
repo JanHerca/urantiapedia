@@ -90,7 +90,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^5]: (270:2) Literalmente 'sostiene'.
 
-[^6]: (270:3) Del contexto se desprende que se omite algo, y Dk. añade lo siguiente: «y en la palabra hay un hecho para la posición designada, y hay un demonio que obstruye el camino. Y en el espíritu de la vida hay un corazón (vâlôm) y Vohûman (“buen pensamiento”) ocupa la posición, y Akômanô (“mal pensamiento”) obstruye el camino; y en el corazón hay una voluntad y Srôsh (“atención”) ocupa la posición, y Aeshm (“ira”) obstruye el camino». Parece probable que el autor no quisiera citar la última frase de este pasaje.
+[^6]: (270:3) Del contexto se desprende que se omite algo, y Dk. añade lo siguiente: «y en la palabra hay un hecho para la posición designada, y hay un demonio que obstruye el camino. Y en el espíritu de la vida hay un corazón (vâlôm) y Vohûman («buen pensamiento») ocupa la posición, y Akômanô («mal pensamiento») obstruye el camino; y en el corazón hay una voluntad y Srôsh («atención») ocupa la posición, y Aeshm («ira») obstruye el camino». Parece probable que el autor no quisiera citar la última frase de este pasaje.
 
 [^7]: (270:4) Dk. tiene 'y en la voluntad'.
 

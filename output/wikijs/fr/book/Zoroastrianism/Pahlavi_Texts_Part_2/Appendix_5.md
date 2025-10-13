@@ -106,7 +106,7 @@ Pahl. Vend. VIII, 271. « Ô créateur ! comment sont purifiés ces hommes, ô j
 
 [^10]: (457:2) C'est-à-dire le tiers restant de la violation initiale.
 
-[^11] : (457 : 3) Voir Ep. II, III, 3.
+[^11]: (457 : 3) Voir Ep. II, III, 3.
 
 [^12]: (457:4) Ce qui suit est un commentaire, par les traducteurs Pahlavi, sur l'ensemble du passage.
 

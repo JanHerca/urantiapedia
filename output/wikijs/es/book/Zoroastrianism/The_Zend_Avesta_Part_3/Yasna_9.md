@@ -114,7 +114,7 @@ Así que con esto estás ceñido en las cumbres de las montañas, para la difusi
 
 Cualquier hombre violento y malvado en esta casa, cualquier hombre en esta aldea, o esta tribu, o provincia, quítale la ligereza de <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> sus pies; arroja un velo de oscuridad sobre su mente; ¡haz que su intelecto (de inmediato) sea una ruina!
 
-29. Que quien nos daña, en mente o en cuerpo, no pueda caminar con ambas piernas, ni sostenerse con ambas manos, ni ver con ambos ojos, ni la tierra bajo sus pies, ni el rebaño que tiene delante.
+29\. Que quien nos daña, en mente o en cuerpo, no pueda caminar con ambas piernas, ni sostenerse con ambas manos, ni ver con ambos ojos, ni la tierra bajo sus pies, ni el rebaño que tiene delante.
 
 ---
 

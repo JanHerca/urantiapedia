@@ -410,11 +410,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1093] : 231 : 1 Sîrôzah I, 20.
+[^1093]: 231 : 1 Sîrôzah I, 20.
 
 [^1094]: 232:1 Verethraghna.
 
-[^1095] : 232:2 Zarathu<i>s</i>tra.
+[^1095]: 232:2 Zarathu<i>s</i>tra.
 
 [^1096]: 233:1 Comme ci-dessus, § 3.
 
@@ -422,15 +422,15 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1098]: 233:3 Comme ci-dessus, § 5.
 
-[^1099] : 234:1 Douteux (vadharôi<i>s</i>).
+[^1099]: 234:1 Douteux (vadharôi<i>s</i>).
 
 [^1100]: 234:2 Douteux (dadãsôi<i>s</i>).
 
-[^1101] : 234:3 ? Urvatô; cf. § 19.
+[^1101]: 234:3 ? Urvatô; cf. § 19.
 
 [^1102]: 234:4 Apprivoisé, domestiqué.
 
-[^1103] : 234:5 ? Smar<i>s</i>nô.
+[^1103]: 234:5 ? Smar<i>s</i>nô.
 
 [^1104]: 234:6 ? Haitahê.
 
@@ -438,11 +438,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1106]: 235:2 Ou mieux, se précipiter devant. Cf. Yt. X, 127.
 
-[^1108] : 236:1 ? Urvatô, pishatô.
+[^1108]: 236:1 ? Urvatô, pishatô.
 
 [^1109]: 236:2 Le corbeau était consacré à Apollon. On dit que les prêtres du soleil en Perse étaient appelés corbeaux (Porphyre). Cf. Georgica I, 45.
 
-[^1110] : 236:3 Lecture de vîgâtavô.
+[^1110]: 236:3 Lecture de vîgâtavô.
 
 [^1111]: 236:4 Douteux.
 
@@ -452,7 +452,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1114]: 237:3 Tandis qu'Ardashîr, le fondateur de la dynastie sassanide, fuyait Ardavân, un beau bélier sauvage courut après lui et le rattrapa, et Ardavân comprit de là que la Gloire royale l'avait quitté et était passée à son rival (Shâh Nâmah, Ardashîr ; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45).
 
-[^1115] : 239 : 1 Erezi, Pahl. gond (Ancien dictionnaire Zand-Pahlavi, p. 11)
+[^1115]: 239 : 1 Erezi, Pahl. gond (Ancien dictionnaire Zand-Pahlavi, p. 11)
 
 [^1116]: 239:2 Voir Vendîdâd XIX, 42.
 
@@ -464,7 +464,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1120]: 239:6 Cf. Yt. XVI, 10, et Bundahi<i>s</i> XIX, 32 : 'Concernant le cheval arabe p. 240, ils disent que si, dans une nuit noire, un seul cheveu tombe sur le sol, il le voit' (tr. West).
 
-[^1121] : 240:1 Peut-être le Gypaetus, le vautour doré.
+[^1121]: 240:1 Peut-être le Gypaetus, le vautour doré.
 
 [^1122]: 240:2 'Même de son vol le plus élevé, il (le vautour) voit quand de la chair de la taille d'un poing est sur le sol' (Bund. XIX, 31 ; tr. West). Cf. Horapollo (I, 11).
 
@@ -490,9 +490,9 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1133]: 243:2 Ou une flèche empennée de quatre plumes de Vâre<i>n</i><i>g</i>ana.
 
-[^1136] : 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
+[^1136]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
 
-[^1137] : 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vimarezen, cf. Yt. Moi, 2 ; Fra Marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
+[^1137]: 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vimarezen, cf. Yt. Moi, 2 ; Fra Marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
 
 [^1138]: 243:5 Cf. Yt. IV, 10.
 
@@ -500,9 +500,9 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1140]: 244:2 Cf. Yt. X, 108 seq.
 
-[^1141] : 244 : 3 § 48 ; cf. Yt. VIII, 56.
+[^1141]: 244 : 3 § 48 ; cf. Yt. VIII, 56.
 
-[^1142] : 244 : 4 §§ 49-53 = Yt. VIII, 57-61.
+[^1142]: 244 : 4 §§ 49-53 = Yt. VIII, 57-61.
 
 [^1143]: 245:1 Gô<i>s</i>ûrûn ou Drvâspa ; voir Yt. IX. La destruction de tout être vivant est une blessure à Drvâspa.
 
@@ -514,15 +514,15 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 [^1148]: 245:5 Le sens général des quatre dernières clauses est que les impies sont vaincus.
 
-[^1149] : 246:1 ? Sâiri-baoghem; cf. § 46.
+[^1149]: 246:1 ? Sâiri-baoghem; cf. § 46.
 
-[^1150] : 246 : 2 Nivazaïti ; littéralement, avaler (? frôt ô bun burtan, Vend. V, 8 \[26\]).
+[^1150]: 246 : 2 Nivazaïti ; littéralement, avaler (? frôt ô bun burtan, Vend. V, 8 \[26\]).
 
 [^1151]: 246:3 Littéralement, dépasser.
 
 [^1152]: 246:4 Cf. Yt. V, 85.
 
-[^1153] : 246:5 ? Asânem sighûirê.
+[^1153]: 246:5 ? Asânem sighûirê.
 
 [^1154]: 246:6 Cf. Yt. V, 69.
 

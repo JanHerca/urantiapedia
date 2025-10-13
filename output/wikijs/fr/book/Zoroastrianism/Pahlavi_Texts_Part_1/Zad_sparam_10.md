@@ -72,6 +72,6 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^4]: (183:4) Il est évident que ham-bandi<i>s</i>nîh, « connexion mutuelle », conformément au Bund. XV, 3, serait préférable au ham-ba<i>s</i>nŏîh, « même stature », de ce texte.
 
-[^5]: (184:1) Le vieux mot nismô, 'âme' (voir Bund. XV, 3, 4), a été corrompu ici (par l'omission du trait initial) en gadman, 'gloire'. Cette corruption peut être due soit au fait que Dâ<i>d</i>\-sparam ne comprenait pas le mot (auquel cas le Bundahi<i>s</i> devait être un vieux livre de son temps), soit à un copiste ultérieur qui a confondu l'ancien mot pour 'âme' avec le mot plus connu 'gloire' des souverains iraniens.
+[^5]: (184:1) Le vieux mot nismô, « âme » (voir Bund. XV, 3, 4), a été corrompu ici (par l'omission du trait initial) en gadman, « gloire ». Cette corruption peut être due soit au fait que Dâ<i>d</i>\-sparam ne comprenait pas le mot (auquel cas le Bundahi<i>s</i> devait être un vieux livre de son temps), soit à un copiste ultérieur qui a confondu l'ancien mot pour « âme » avec le mot plus connu « gloire » des souverains iraniens.
 
 [^6]: (184:2) Bund. XV, 5.

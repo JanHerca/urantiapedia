@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1\. Que, para que mejor que el bien, se acerque quien nos muestra los caminos rectos de beneficio, tanto para esta vida corporal como para la mental, en los reinos eternos (?) donde mora Ahura; sí, que se acerque quien es Tu digno siervo y buen ciudadano, ¡oh Señor, Gran Dador! [^1294]
 
-2. Que estas bendiciones, que son las sabias percepciones de los santos, las sagradas bendiciones otorgadas mediante el ritual, sus características inocentes, junto con su reconocimiento de lo que es debido, lleguen a esta casa; y que el Orden Justo aparezca para esta aldea, y el Poder Divino Soberano, junto con el beneficio y el glorioso bienestar que resultan,
+2\. Que estas bendiciones, que son las sabias percepciones de los santos, las sagradas bendiciones otorgadas mediante el ritual, sus características inocentes, junto con su reconocimiento de lo que es debido, lleguen a esta casa; y que el Orden Justo aparezca para esta aldea, y el Poder Divino Soberano, junto con el beneficio y el glorioso bienestar que resultan,
 
 3\. Y con esto, la perdurable prominencia de esta religión de Ahura, la fe zaratustriana. Y que el ganado [^1295] llegue ahora con la mayor rapidez a esta casa, y que la santidad recompensada y la fuerza del hombre santo lleguen pronto, así como la sabiduría de Ahura. 4. Y que los buenos, heroicos y generosos Fravashis de los santos vengan aquí, y que puedan ir de la mano con nosotros con las virtudes curativas de (sus) benditos dones tan extendidos como la tierra, tan extendidos como los ríos, tan elevados [^1296] como el sol, para el avance [^1297] de los mejores hombres, para el obstáculo de los hostiles y para el abundante crecimiento de las riquezas y de la gloria.
 

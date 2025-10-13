@@ -65,7 +65,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 ## Notes de bas de page
 
-[^1]: (30:5) Lecture de amat, 'quand', au lieu de mûn, 'qui' (voir la note du chap. 1, 7).
+[^1]: (30:5) Lecture de amat, « quand », au lieu de mûn, « qui » (voir la note du chap. 1, 7).
 
 [^2]: (31:1) Voir Chap. XXVII, 2.
 

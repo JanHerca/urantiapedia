@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (38:1) Littéralement, 'Mit<i>r</i>ô', l'ange du soleil.
 
-[^3] : (38:2) Voir Chap. VIII, 17-21.
+[^3]: (38:2) Voir Chap. VIII, 17-21.
 
 [^4]: (38:3) En omettant une lettre, K43 a une « création erronée ».
 

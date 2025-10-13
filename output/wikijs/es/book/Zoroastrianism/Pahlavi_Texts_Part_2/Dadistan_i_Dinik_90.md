@@ -102,7 +102,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^17]: (257:10) Véase Cap. XXXVII, 36.
 
-[^18]: (257:11) O kang-î raftâr puede significar 'joven alegre'; pero es evidentemente un intento de explicar el nombre Kangde<i>z</i> como 'la fortaleza del kang (“juventud”)'.
+[^18]: (257:11) O kang-î raftâr puede significar 'joven alegre'; pero es evidentemente un intento de explicar el nombre Kangde<i>z</i> como 'la fortaleza del kang («juventud»)'.
 
 [^19]: (257:12) El hijo de Sîyâvash (véase Cap. XXXVI, 3, Bd. XXXI, 25).
 

@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 <span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
-8. Quand cet âne tiendra son cou dans l'océan, ses oreilles terrifieront (asahmê<i>d</i>), et toute l'eau du vaste océan tremblera d'agitation, et le flanc de Ganâva<i>d</i> [^8] tremblera (shîvanê<i>d</i>). 9. Lorsqu'il poussera un cri, toutes les créatures aquatiques femelles, parmi les créatures d'Aûharmazd, deviendront enceintes ; et toutes les créatures aquatiques nuisibles enceintes, lorsqu'elles entendront ce cri, mettront bas. 10. Lorsqu'il stagnera dans l'océan, toute l'eau de mer sera purifiée, ce qui est le cas dans les sept régions de la terre — c'est même pour cette raison que tous les ânes qui viennent dans l'eau stagnent dans l'eau — comme il est dit ainsi : « Si, ô âne à trois pattes ! 'Vous n'avez pas été créés pour l'eau, toute l'eau de la mer aurait péri à cause de la contamination que le poison de l'esprit maléfique a apportée dans ses eaux, par la mort des créatures d'Aûharmazd.'
+8\. Quand cet âne tiendra son cou dans l'océan, ses oreilles terrifieront (asahmê<i>d</i>), et toute l'eau du vaste océan tremblera d'agitation, et le flanc de Ganâva<i>d</i> [^8] tremblera (shîvanê<i>d</i>). 9. Lorsqu'il poussera un cri, toutes les créatures aquatiques femelles, parmi les créatures d'Aûharmazd, deviendront enceintes ; et toutes les créatures aquatiques nuisibles enceintes, lorsqu'elles entendront ce cri, mettront bas. 10. Lorsqu'il stagnera dans l'océan, toute l'eau de mer sera purifiée, ce qui est le cas dans les sept régions de la terre — c'est même pour cette raison que tous les ânes qui viennent dans l'eau stagnent dans l'eau — comme il est dit ainsi : « Si, ô âne à trois pattes ! 'Vous n'avez pas été créés pour l'eau, toute l'eau de la mer aurait péri à cause de la contamination que le poison de l'esprit maléfique a apportée dans ses eaux, par la mort des créatures d'Aûharmazd.'
 
 11\. Tî<i>s</i>tar saisit l'eau [^9] plus complètement de l'océan avec l'aide de l'âne à trois pattes. 12. De l'ambre gris aussi (ambar-i<i>k</i>) _on_ déclare que c'est la fiente de l'âne à trois pattes ; car s'il a beaucoup de nourriture spirituelle, alors aussi l'humidité de la nourriture liquide passe par les veines _apparentant_ au corps dans l'urine, _et_ la fiente est rejetée.
 
@@ -60,11 +60,11 @@ dateCreated: 2025-10-10T14:56:40Z
 
 26\. Le bœuf de montagne, la chèvre de montagne, le cerf, l'âne sauvage et d'autres bêtes dévorent tous les serpents. 27. De même, parmi les autres animaux, les chiens sont créés en opposition à l'espèce des loups et pour assurer la protection des moutons ; le renard est créé en opposition au démon Khava ; l'ichneumon est créé en opposition au serpent venimeux (gar<i>z</i>ak) et aux autres créatures nocives des terriers ; de même le grand animal musqué est créé en opposition [^26] aux vers intestinaux voraces (ka<i>d</i>ûk-dânak gar<i>z</i>ak). 28. Le hérisson est créé en opposition à la fourmi qui emporte le grain [^27], car il est dit que le hérisson, chaque fois qu'il urine dans une fourmilière, détruira mille fourmis ; Quand le porteur de grain se déplace sur la terre, il produit <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> une piste creuse [^28] ; quand le hérisson la traverse, la piste s'en éloigne et elle devient plate. 29. Le castor d'eau est créé en opposition au démon qui est dans l'eau. 30. La conclusion est la suivante : de toutes les bêtes, oiseaux et poissons, chacun est créé en opposition à une créature nuisible.
 
-31. À propos du vautour (karkâs), il est dit que, même de son plus haut vol, il voit lorsque de la chair grosse comme un poing est à terre ; et une odeur de musc se crée sous son aile, de sorte que si, en dévorant de la matière morte, la puanteur de la matière morte s'en dégage, il remet sa tête sous l'aile et se sent à nouveau bien. 32. À propos du cheval arabe, ils disent que si, dans une nuit noire, un seul poil tombe à terre, il le voit.
+31\. À propos du vautour (karkâs), il est dit que, même de son plus haut vol, il voit lorsque de la chair grosse comme un poing est à terre ; et une odeur de musc se crée sous son aile, de sorte que si, en dévorant de la matière morte, la puanteur de la matière morte s'en dégage, il remet sa tête sous l'aile et se sent à nouveau bien. 32. À propos du cheval arabe, ils disent que si, dans une nuit noire, un seul poil tombe à terre, il le voit.
 
 33\. Le coq est créé en opposition aux démons et aux sorciers, coopérant avec le chien ; comme il est dit dans la révélation, que, parmi les créatures du monde, celles qui coopèrent avec Srôsh [^29], pour détruire les démons, sont le coq et le chien. 34. Ceci, aussi, est-il dit, n'aurait pas été réalisé si je n'avais pas créé le chien du berger, qui est le Pasu<i>s</i>\-haurva [^30], et le chien de garde de la maison, le Vi<i>s</i>\-haurva [^30] ; car il est dit dans la révélation, que le chien est un destructeur d'un démon tel que la convoitise, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> parmi ceux qui sont dans la nature (aîtîh) de l'homme et des animaux. 35. De plus, il est dit que, dans la mesure où il détruira tous les désobéissants, lorsqu'il aboie, il détruira la douleur [^31] ; et sa chair et sa graisse sont des remèdes pour chasser la pourriture et la douleur des hommes [^32].
 
-36\. Aûharmazd n'a rien créé d'inutile, car tout cela (kolâ aê) est créé pour l'avantage ; quand on n'en comprend pas la raison, il est nécessaire de demander au Dastûr ('grand prêtre'), car ses cinq dispositions (khûk) [^33] sont créées de cette manière afin qu'il puisse continuellement détruire le démon (ou la tromperie).
+36\. Aûharmazd n'a rien créé d'inutile, car tout cela (kolâ aê) est créé pour l'avantage ; quand on n'en comprend pas la raison, il est nécessaire de demander au Dastûr (« grand prêtre »), car ses cinq dispositions (khûk) [^33] sont créées de cette manière afin qu'il puisse continuellement détruire le démon (ou la tromperie).
 
 <figure class="table chapter-navigator">
   <table>
@@ -124,13 +124,13 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^16]: (70:5) Ou, « du district d'Arag » (voir la note sur le chap. XII, 23). Bien qu'aucun lac Arag ne soit décrit au chap. XXII, certaines épithètes se référant à son équivalent avestaïste Rangha s'appliquent plus à un lac qu'à une rivière, comme dans Bahrâm Yt. 29. Il est possible que les basses terres entre la Caspienne et l'Aral, ou sur les rives de la Caspienne, soient visées.
 
-[^17]: (70:6) L'Av. vi<i>s</i> kar<i>s</i>ipta de Vend. II, 139, où, cependant, vi<i>s</i> p. 71 ne signifie pas 'oiseau', et le traducteur pahlavi l'appelle 'un quadrupède'. Dans le Pahl. Visp. I, 1, 'le Kar<i>s</i>ipt est le chef des créatures volantes', et le Bundahi<i>s</i> le prend également pour un oiseau (voir chap. XIV, 23, XXIV, 11).
+[^17]: (70:6) L'Av. vi<i>s</i> kar<i>s</i>ipta de Vend. II, 139, où, cependant, vi<i>s</i> p. 71 ne signifie pas « oiseau », et le traducteur pahlavi l'appelle « un quadrupède ». Dans le Pahl. Visp. I, 1, « le Kar<i>s</i>ipt est le chef des créatures volantes », et le Bundahi<i>s</i> le prend également pour un oiseau (voir chap. XIV, 23, XXIV, 11).
 
 [^18]: (71:1) Voir chap. XIV, 11, 23, 24, XXIV, 11, 29.
 
-[^19] : (71:2) L'Av. Ashô-zu<i>s</i>ta de Vend. XVII, 26, 28.
+[^19]: (71:2) L'Av. Ashô-zu<i>s</i>ta de Vend. XVII, 26, 28.
 
-[^20]: (71:3) Comparer au persan <i>z</i>ûlah, 'un moineau ou une alouette'.
+[^20]: (71:3) Comparer au persan <i>z</i>ûlah, « un moineau ou une alouette ».
 
 [^21]: (71:4) Comparer au persan <i>s</i>ak, « une pie ».
 
@@ -138,15 +138,15 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^23]: (71:6) Le mot pahlavi est ambigu ; il peut se lire zîl, « bon marché, commun », ou zagar = yakar, « cher, précieux », mais ce dernier terme semble le plus probable, bien que le corbeau soit peut-être aussi « commun » que « précieux », comme un charognard en Orient. De manière assez singulière, le persan arzân est un synonyme des deux mots, car il signifie à la fois « bon marché » et « digne ».
 
-[^24]: (72:1) L'Av. kahrkâsa de Vend. III, 66, IX, 181, Âbân Yt. 61, Mihir Yt. 129 ; son épithète zarmân-mâni<i>s</i>n, 'habitant dans la décadence', est évidemment destinée à être une traduction de l'Av. zarenumaini<i>s</i>, qui lui est appliqué dans Bahrâm Yt. 33, Dîn Yt. 13.
+[^24]: (72:1) L'Av. kahrkâsa de Vend. III, 66, IX, 181, Âbân Yt. 61, Mihir Yt. 129 ; son épithète zarmân-mâni<i>s</i>n, « habitant dans la décadence », est évidemment destinée à être une traduction de l'Av. zarenumaini<i>s</i>, qui lui est appliqué dans Bahrâm Yt. 33, Dîn Yt. 13.
 
 [^25]: (72:2) Le texte devrait probablement être valâk-i sîyâk va sâr-i gar, « le corbeau noir et le milan des montagnes », qui sont donnés comme des oiseaux différents dans Shâyast-lâ-shâyast, II, 5.
 
 [^26]: (72:3) K20 omet les mots de cette « opposition » à la suivante.
 
-[^27] : (72 :4) Le môr-i dânak-kash est l'Av. maoiri<i>s</i> dânô-karsô de Vend. XIV, 14, XVI ; 28, XVIII, 146.
+[^27]: (72 :4) Le môr-i dânak-kash est l'Av. maoiri<i>s</i> dânô-karsô de Vend. XIV, 14, XVI ; 28, XVIII, 146.
 
-[^28]: (73:1) Comparaison de sûrâk avec le persan surâgh de préférence à sûrâkh ou sûlâkh, 'un trou'.
+[^28]: (73:1) Comparaison de sûrâk avec le persan surâgh de préférence à sûrâkh ou sûlâkh, « un trou ».
 
 [^29]: (73:2) Av. Sraosha, l'ange dont on dit qu'il protège spécialement le monde des démons la nuit ; il est généralement appelé « le juste » et est l'adversaire spécial du démon Aêshm, « la Colère » (voir Chap. XXX, 29).
 

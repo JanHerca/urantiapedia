@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 0\. Sobre la raza y genealogía de los Kayâns.
 
-1\. Hôshyang [^2] _era hijo_ de Fravāk, _hijo_ de Sîyâkmak [^3], _hijo_ de Mâshya [^4], _hijo_ de Gâyômar<i>d</i>. \[2. Takhmôrup [^5] _era hijo_ de Vîvanghâû [^6], _hijo_ de Yangha<i>d</i> [^7], _hijo_ de Hôshyang. 3. Yim,\] [^8] Takhmôrup, Spitûr [^9], _y_ Narsih [^10], a quienes también llaman 'el Rashnû de <i>K</i>înŏ [^11],'
+1\. Hôshyang [^2] _era hijo_ de Fravāk, _hijo_ de Sîyâkmak [^3], _hijo_ de Mâshya [^4], _hijo_ de Gâyômar<i>d</i>. \[2. Takhmôrup [^5] _era hijo_ de Vîvanghâû [^6], _hijo_ de Yangha<i>d</i> [^7], _hijo_ de Hôshyang. 3. Yim,\] [^8] Takhmôrup, Spitûr [^9], _y_ Narsih [^10], a quienes también llaman «el Rashnû de <i>K</i>înŏ [^11],»
 
 <span id="p131"><sup><small>[ pág. 131 ]</small></sup></span>
 
@@ -50,7 +50,7 @@ eran todos hermanos 4. De Yim y Yimak [^12], que era _su_ hermana, nació una pa
 
 14\. Así como Mânû<i>s</i><i>k</i>îhar _era de_ Mânû<i>s</i>\-khûrnar, de Mânû<i>s</i>\-khûrnâk [^43], que era Mâm-sozak [^44], de Aîrak, de Thritak, de Bîtak, de Frazû<i>s</i>ak, de Zû<i>s</i>ak [^45], de Fragûzak, de Gûzak, de Aîrî<i>k</i>, de Frê<i>d</i>ûn, _así_ Frâsîyâ<i>v</i> [^46] _era_ <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> de Pashang, de Zaê<i>s</i>m [^47], de Tûrak, de Spaênyasp, de Dûrôshasp, de Tû<i>g</i>, de Frê<i>d</i>ûn. 15. Él (Frâsîyâ<i>v</i>) así como Karsêvaz [^48], a quien llaman Kadân [^49], _y_ Aghrêra<i>d</i> [^50] eran los tres hermanos.
 
-\[16 [^51]. Pashang y Vîsak eran hermanos. 17. Por Vîsak fueron engendrados Pîrân [^52], Hûmân, <i>S</i>ân [^53] y otros hermanos. 18. Por Frâsîyâ<i>v</i> fueron engendrados Frasp-i Kûr, <i>S</i>ân, Shê<i>d</i>ak [^54] y otros hijos; _y_ Vispân-fryâ [^55], de quien nació Kaî-Khûsrôb, era hija de Frâsîyâ<i>v</i>, _y_ era de la misma madre que Frasp-i Kûr. 19. De Frasp-i Kûr nacieron Sûrâk, Asûrîk y otros hijos; y de ellos nacieron Khvâst-aîrikht, Yazdân-aîrikht, Yazdân-<i>s</i>arâ<i>d</i>, Frêh-khûr<i>d</i>, Lâ-vahâk [^56] y otros, un relato de los cuales sería tedioso.
+16\. [^51]. Pashang y Vîsak eran hermanos. 17. Por Vîsak fueron engendrados Pîrân [^52], Hûmân, <i>S</i>ân [^53] y otros hermanos. 18. Por Frâsîyâ<i>v</i> fueron engendrados Frasp-i Kûr, <i>S</i>ân, Shê<i>d</i>ak [^54] y otros hijos; _y_ Vispân-fryâ [^55], de quien nació Kaî-Khûsrôb, era hija de Frâsîyâ<i>v</i>, _y_ era de la misma madre que Frasp-i Kûr. 19. De Frasp-i Kûr nacieron Sûrâk, Asûrîk y otros hijos; y de ellos nacieron Khvâst-aîrikht, Yazdân-aîrikht, Yazdân-<i>s</i>arâ<i>d</i>, Frêh-khûr<i>d</i>, Lâ-vahâk [^56] y otros, un relato de los cuales sería tedioso.
 
 20\. Por Aghrêra<i>d</i> fue engendrado Gôpatshah [^57]. 21. Cuando Frâsîyâ<i>v</i> hizo prisionero a Mânû<i>s</i><i>k</i>har con los iraníes en la cordillera (gar) de Padashkh-vâr [^58], y sembró la ruina y la necesidad entre ellos, Aghrêra<i>d</i> imploró un favor a Dios (yazdân), y obtuvo el beneficio de que el ejército y los campeones de los iraníes fueran salvados por él de esa aflicción. 22. Frâsîyâ<i>v</i> mató a Aghrêra<i>d</i> por esa falta; _y_ Aghrêra<i>d</i>, como recompensa, engendró un hijo llamado Gôpatshah.
 
@@ -64,11 +64,11 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 30\. Artakhshatar _descendiente_ de Pâpak—de quien su madre _era_ hija—_era hijo_ de Sâsân [^74], _hijo_ de <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> Vêh-âfrî<i>d</i> y [^75] Zarîr, _hijo_ de Sâsân, _hijo_ de Artakhshatar quien _era_ el susodicho Vohûman _hijo_ de Spend-dâ<i>d</i>.
 
-31\. La madre de Kaî-Apîvêh fue Farhank [^76], _hija_ de _aquel que es_ exaltado en el camino _celestial_ [^77], Urva<i>d</i>\-gâi-frâ<i>s</i>t [^78], _hijo_ de Râk, _hijo_ de Dûrâsrôb, _hijo_ de Mânû<i>s</i><i>k</i>îhar. 32. Esto, también, dice, que la gloria [^79] de Frê<i>d</i>ûn se asentó en la raíz de una caña (kanyâ) en el océano ancho formado; _y_ Nôktargâ [^80], a través de la hechicería, formó una vaca para la labranza, _y_ engendró _hijos_ allí; tres años llevó las cañas allí, _y_ se las dio a la vaca, hasta que la gloria pasó a la vaca; trajo la vaca, ordeñó _su_ leche, _y_ se la dio _a sus tres hijos; como _su_ caminar _era sobre_ pezuñas, la gloria no fue para los hijos, sino para Farhank. 33. Nôktargâ quiso herir a [^81] Farhank, _pero_ Farhank se fue con la gloria _lejos_ del fiero (tîb) padre, e hizo un voto (patyastâk) así: 'Daré _mi_ primer hijo a Aûshbâm [^82]'. 34. Entonces Aûshbâm la salvó del padre; y el primer hijo, Kaî-Apîvêh, que ella dio a luz y se lo dio a Aûshbâm, fue un héroe que se asoció con Aûshbâm y viajó en compañía de Aûshbâm.
+31\. La madre de Kaî-Apîvêh fue Farhank [^76], _hija_ de _aquel que es_ exaltado en el camino _celestial_ [^77], Urva<i>d</i>\-gâi-frâ<i>s</i>t [^78], _hijo_ de Râk, _hijo_ de Dûrâsrôb, _hijo_ de Mânû<i>s</i><i>k</i>îhar. 32. Esto, también, dice, que la gloria [^79] de Frê<i>d</i>ûn se asentó en la raíz de una caña (kanyâ) en el océano ancho formado; _y_ Nôktargâ [^80], a través de la hechicería, formó una vaca para la labranza, _y_ engendró _hijos_ allí; tres años llevó las cañas allí, _y_ se las dio a la vaca, hasta que la gloria pasó a la vaca; trajo la vaca, ordeñó _su_ leche, _y_ se la dio _a sus tres hijos; como _su_ caminar _era sobre_ pezuñas, la gloria no fue para los hijos, sino para Farhank. 33. Nôktargâ quiso herir a [^81] Farhank, _pero_ Farhank se fue con la gloria _lejos_ <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> del fiero (tîb) padre, e hizo un voto (patyastâk) así: «Daré _mi_ primer hijo a Aûshbâm [^82]». 34. Entonces Aûshbâm la salvó del padre; y el primer hijo, Kaî-Apîvêh, que ella dio a luz y se lo dio a Aûshbâm, fue un héroe que se asoció con Aûshbâm y viajó en compañía de Aûshbâm.
 
 35\. La madre de Aûzôbô era hija de Nâmûn el mago, cuando Nâmak [^83] estaba con Frâsîyâ<i>v</i>.
 
-36\. Además, junto con los engendrados por <i>S</i>âm [^84], hubo seis hijos en parejas, varón y hembra; el nombre de uno era Damnak, el de otro Khûsrôv, y el de otro Mârgandak, y el nombre de cada hombre y mujer juntos era uno. 37. Y el nombre de uno _además_ era Dastân [^85]; era considerado más eminente que ellos, y Sagânsîh [^86] y el cuartel sur le fueron otorgados; y Avar-shatrô [^87] y la gobernación le fueron otorgados por él a Avarnak. 38. de Avar-shatrô se dice que es el distrito de Avarnak, y ofrecieron bendiciones a Srôsh y Ar<i>d</i>avahi<i>s</i>t sucesivamente; por esta razón poseen caballos y armas; y por su firme religión, pureza y alegría manifiesta, su buena estimación y extensa fama son muy apreciados entre ellos. 39. A Damnak se le dio la gobernación de Asûristân; la soberanía y la organización de la ley de la soberanía, la terquedad y los defectos persistentes que traerían, estaban entre ellos. 40. A Sparnak [^88] se le dio la gobernación de Spâhân [^89]; A Khûsrôv se le dio la gobernación de Râi [^90]; a Mârgandak se le dio el reino, los asentamientos forestales y montañosos de Padashkhvârgar; donde viajan nómadamente, y donde se forman rebaños, hay prolificidad, procreación fácil y un triunfo continuo sobre los enemigos. 41. De Dastân procedieron Rû<i>d</i>astâm [^91] y Hûzavârak [^92].
+36\. Además, junto con los engendrados por <i>S</i>âm [^84], hubo seis hijos en parejas, varón y hembra; el nombre de uno era Damnak, el de otro Khûsrôv, y el de otro Mârgandak, y el nombre de cada hombre y mujer juntos era uno. 37. Y el nombre de uno _además_ era Dastân [^85]; era considerado más eminente que ellos, y Sagânsîh [^86] y el cuartel sur le fueron otorgados; y Avar-shatrô [^87] y la gobernación le fueron otorgados por él a Avarnak. 38. de Avar-shatrô se dice que es el distrito de Avarnak, y ofrecieron bendiciones a Srôsh y Ar<i>d</i>avahi<i>s</i>t sucesivamente; por esta razón poseen caballos y armas; y por su firme religión, pureza y alegría manifiesta, su buena estimación y extensa fama son muy apreciados <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> entre ellos. 39. A Damnak se le dio la gobernación de Asûristân; la soberanía y la organización de la ley de la soberanía, la terquedad y los defectos persistentes que traerían, estaban entre ellos. 40. A Sparnak [^88] se le dio la gobernación de Spâhân [^89]; A Khûsrôv se le dio la gobernación de Râi [^90]; a Mârgandak se le dio el reino, los asentamientos forestales y montañosos de Padashkhvârgar; donde viajan nómadamente, y donde se forman rebaños, hay prolificidad, procreación fácil y un triunfo continuo sobre los enemigos. 41. De Dastân procedieron Rû<i>d</i>astâm [^91] y Hûzavârak [^92].
 
 <figure class="table chapter-navigator">
   <table>
@@ -126,7 +126,7 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 [^15]: (131:4) Aquí escrito Nârsak en K20 y K20b, y Nôsîh en TD.
 
-[^16]: (131:5) TD tiene 'juntos', en lugar de 'entonces'.
+[^16]: (131:5) TD tiene «juntos», en lugar de «entonces».
 
 [^17]: (131:6) Así en K20, pero K20b tiene Narst-gyâvân, y TD tiene Nôsîh-vîyâvânîk (o nîyâzânîk). Quizás podamos asumir que el epíteto fue nîgîr-vîyâvânîk (o nîyâzânîk), «el de mirada desconcertante (o anhelante)».
 
@@ -136,9 +136,9 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 [^20]: (132:1) Para los últimos tres nombres, véase Cap. XV, 25, 28.
 
-[^21]: (132:2) Pahl. Aû<i>d</i> en TD; compárese con 'el demonio Uda' del cap. XXVIII, 19. Los dos nombres siguientes parecen 'miedo' y 'miedo-tristeza', ambos nombres apropiados para demonios.
+[^21]: (132:2) Pahl. Aû<i>d</i> en TD; compárese con «el demonio Uda» del cap. XXVIII, 19. Los dos nombres siguientes parecen «miedo» y «miedo-tristeza», ambos nombres apropiados para demonios.
 
-[^22]: (132:3) TD tiene Pâz. Owôikh; compárese Av. aoiwra, 'una especie de pesadilla', observando que r y ô a menudo se escriben igual en Pahlavi.
+[^22]: (132:3) TD tiene Pâz. Owôikh; compárese Av. aoiwra, «una especie de pesadilla», observando que r y ô a menudo se escriben igual en Pahlavi.
 
 [^23]: (132:4) TD y K20b tienen Paz. Pairi-urva-urvaêsm, y K20 tiene Pai-urvaêsm.
 
@@ -146,35 +146,35 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 [^25]: (132:6) Así en TD, pero K20 tiene Pâz. Dru<i>z</i>\-i ayaskâ, y K20b tiene Dru<i>g</i>\-i ayaskâ. Corresponde a Av. dru<i>g</i>aska en Vend. XIX, 139, Vi<i>s</i>tâsp Yt. 26. Esta genealogía parece rastrear la descendencia materna de Dahâk a través de una serie de demonios.
 
-[^26]: (132:7) Av. Thraêtaona, hijo de Âthwya, pero generalmente llamado 'el Âthwyânian', que mató a la serpiente destructora (a<i>z</i>i dahâka), véase Yas. IX, 24, 25, Viernes I, 69, Abban Yt. 33, 61, Evangelio Yt. 13, Viernes Yt. 131, Bahram Yt. 40, Cobre Yt. 23, Ashi Yt. 33, Zamyâd Yt. 36, 92, Âpp. Roots. 2. En la Shahnâmah se le llama Feryudun hijo de Abîn.
+[^26]: (132:7) Av. Thraêtaona, hijo de Âthwya, pero generalmente llamado «el Âthwyânian», que mató a la serpiente destructora (a<i>z</i>i dahâka), véase Yas. IX, 24, 25, Viernes I, 69, Abban Yt. 33, 61, Evangelio Yt. 13, Viernes Yt. 131, Bahram Yt. 40, Cobre Yt. 23, Ashi Yt. 33, Zamyâd Yt. 36, 92, Âpp. Roots. 2. En la Shahnâmah se le llama Feryudun hijo de Abîn.
 
-[^27]: (132:8) Este nombre se omite en K20, pero aparece en los otros dos manuscritos; es un equivalente híbrido de Huzvâri<i>s</i> a Pâz. Pûr-g<i>a</i>u y Av. Pouru-g<i>a</i>u, que es un título de un Âthwyânian en Âf. Zarat. 4, Vi<i>s</i>tâsp Yt. 2. Esta genealogía consiste casi en su totalidad en nombres híbridos de este tipo, que tienen una apariencia muy artificial, aunque lo suficientemente adecuados para una raza de pastores, significando, como lo hacen individualmente, 'uno con bueyes abundantes, con bueyes útiles, con el buey marrón, con el buey negro, con el buey blanco, con el buey gordo y con una manada de bueyes'.
+[^27]: (132:8) Este nombre se omite en K20, pero aparece en los otros dos manuscritos; es un equivalente híbrido de Huzvâri<i>s</i> a Pâz. Pûr-g<i>a</i>u y Av. Pouru-g<i>a</i>u, que es un título de un Âthwyânian en Âf. Zarat. 4, Vi<i>s</i>tâsp Yt. 2. Esta genealogía consiste casi en su totalidad en nombres híbridos de este tipo, que tienen una apariencia muy artificial, aunque lo suficientemente adecuados para una raza de pastores, significando, como lo hacen individualmente, «uno con bueyes abundantes, con bueyes útiles, con el buey marrón, con el buey negro, con el buey blanco, con el buey gordo y con una manada de bueyes».
 
 [^28]: (132:9) Así ocurre en TD, pero los otros dos manuscritos tienen Sîyâk-tôrâ, lo cual probablemente sea erróneo, ya que el mismo nombre aparece nuevamente en esta genealogía.
 
 [^29]: (133:1) En TD este nombre puede leerse Vanfrôki<i>s</i>n o Vanfrôkgân.
 
-[^30]: (133:2) TD tiene 'así como _él_'. K20b omite la mayor parte de esta oración por error.
+[^30]: (133:2) TD tiene «así como _él_». K20b omite la mayor parte de esta oración por error.
 
 [^31]: (133:3) Estos hijos, como observa Windischmann, no son mencionados en el Avesta existente, pero sus nombres Avesta, Sairima, Tûirya o Tûra, y Airya o Airyu, pueden deducirse de los nombres de los países sobre los que se supone que gobernaron (ver Fravardîn Yt. 143).
 
-[^32]: (133:4) TD tiene 'dos ​​hijos _y_ una hija'.
+[^32]: (133:4) TD tiene «dos ​​hijos _y_ una hija».
 
 [^33]: (133:5) TD tiene Anîdâr y Anastabŏ.
 
 [^34]: (133:6) O Gû<i>g</i>ak, en TD; los otros manuscritos tienen Pâz. Gan<i>g</i>a aquí, pero Guzak en § 14; es idéntico al nombre de la hermana y esposa de Hôshyang en el cap. XV, 28. en el Pâzand <i>G</i>âmâsp-nâmah el nombre de la hija de Frê<i>d</i>ûn se escribe Vîrak.
 
-[^35]: (133:7) Lectura min zak dûkht dûkht-i zâ<i>d</i>, como en K20b y TD; surge cierta incertidumbre aquí debido a que las palabras dûkht, 'hija', y dvâ<i>d</i>, 'par', están escritas de la misma manera en Pahlavi.
+[^35]: (133:7) Lectura min zak dûkht dûkht-i zâ<i>d</i>, como en K20b y TD; surge cierta incertidumbre aquí debido a que las palabras dûkht, «hija», y dvâ<i>d</i>, «par», están escritas de la misma manera en Pahlavi.
 
-[^36]: (133:8) TD tiene bartman, 'hija', lo que indica que la palabra en K20 debe leerse dûkht, y no dvâ<i>d</i>, 'par'.
+[^36]: (133:8) TD tiene bartman, «hija», lo que indica que la palabra en K20 debe leerse dûkht, y no dvâ<i>d</i>, «par».
 
-[^37]: (134:1) La frase entre paréntesis aparece sólo en TD; y todo el pasaje de 'vînîk' a 'sun' se omite en K20, evidentemente por error.
+[^37]: (134:1) La frase entre paréntesis aparece sólo en TD; y todo el pasaje de «vînîk» a «sun» se omite en K20, evidentemente por error.
 
-[^38]: (134:2) TD tiene 'de Manû<i>s</i> y _su_ hermana', y K20b 'tiene de Mânû<i>s</i>\-hû<i>k</i>îhar _y_ Mânû<i>s</i>\-khûrshêd'.
+[^38]: (134:2) TD tiene «de Manû<i>s</i> y _su_ hermana», y K20b «tiene de Mânû<i>s</i>\-hû<i>k</i>îhar _y_ Mânû<i>s</i>\-khûrshêd».
 
-[^39]: (134:3) Las palabras entre paréntesis aparecen solo en TD, y K20b tiene 'de Mânû<i>s</i>\-khûrnar también nació Mânû<i>s</i>\-khûrnâk, _de_ Mânû<i>s</i>\-khûrnâk nació Mânû<i>s</i>\-khûrnâk</i>îhar', pero esta introducción de una generación extra no está confirmada por la lista de nombres en § 14. El término khûrnâk (o khûrnak) parece ser meramente una transcripción de la palabra avéstica de la cual khûrshê<i>d</i>\-vînîk, 'nariz de sol', es una traducción. El otro término, khûrnar, también puede leerse khûrvar, pero K20 tiene Pâz. <i>h</i><i>v</i>arnar. Mânû<i>s</i><i>k</i>îhar es el Av. Manus<i>k</i>ithra de Fravardîn Yt. 131, donde se le llama Airyavan, o descendiente de Airyu (Aîrî<i>k</i>).
+[^39]: (134:3) Las palabras entre paréntesis aparecen solo en TD, y K20b tiene «de Mânû<i>s</i>\-khûrnar también nació Mânû<i>s</i>\-khûrnâk, _de_ Mânû<i>s</i>\-khûrnâk nació Mânû<i>s</i>\-khûrnâk</i>îhar», pero esta introducción de una generación extra no está confirmada por la lista de nombres en § 14. El término khûrnâk (o khûrnak) parece ser meramente una transcripción de la palabra avéstica de la cual khûrshê<i>d</i>\-vînîk, «nariz de sol», es una traducción. El otro término, khûrnar, también puede leerse khûrvar, pero K20 tiene Pâz. <i>h</i><i>v</i>arnar. Mânû<i>s</i><i>k</i>îhar es el Av. Manus<i>k</i>ithra de Fravardîn Yt. 131, donde se le llama Airyavan, o descendiente de Airyu (Aîrî<i>k</i>).
 
-[^40]: (134:4) TD tiene '_y_ venganza exigida por Aîrî<i>k</i>.'
+[^40]: (134:4) TD tiene «_y_ venganza exigida por Aîrî<i>k</i>.»
 
 [^41]: (134:5) Véase Cap. XXIX, 6.
 
@@ -182,7 +182,7 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 [^43]: (134:7) Lo mismo que Mânû<i>s</i>\-i khûrshê<i>d</i>\-vînîk, como se señaló anteriormente.
 
-[^44]: (134:8) Este epíteto de Pâzand parece significar 'quema de madre', y puede tener alguna conexión con la leyenda mencionada en § 11. TD tiene mûn am Gû<i>g</i>ak, 'cuya madre era Gû<i>g</i>ak'.
+[^44]: (134:8) Este epíteto de Pâzand parece significar «quema de madre», y puede tener alguna conexión con la leyenda mencionada en § 11. TD tiene mûn am Gû<i>g</i>ak, «cuya madre era Gû<i>g</i>ak».
 
 [^45]: (134:9) K20b omite los cinco nombres desde Aîrak hasta Zû<i>s</i>ak.
 
@@ -244,21 +244,21 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 [^74]: (137:12) El texto es bastante oscuro, pero el Kârnâmak de Ar<i>d</i>ashîr-i Pâpakân afirma claramente que Ar<i>d</i>ashîr era hijo de Sâsân con la hija de Pâpak, un gobernante tributario de Pârs bajo Ardavân, el último de los monarcas A<i>s</i>kâniyân.
 
-[^75]: (138:1) Así también en el texto Pahlavi, que por lo tanto hace de Vêh-âfrî<i>d</i> un nombre de mujer (como Pers. Beh-âfrîn); pero esto es dudoso, ya que los manuscritos a menudo confunden va, 'y', e i, 'hijo de'.
+[^75]: (138:1) Así también en el texto Pahlavi, que por lo tanto hace de Vêh-âfrî<i>d</i> un nombre de mujer (como Pers. Beh-âfrîn); pero esto es dudoso, ya que los manuscritos a menudo confunden va, «y», e i, «hijo de».
 
 [^76]: (138:2) En la Shâhnâmah, Farhang es la madre de Kaî-Kâvûs. El nombre Pahlavi también puede leerse Farânak, el nombre de la madre de Ferîdûn en la Shâhnâmah.
 
 [^77]: (138:3) Pâz. vîdharg-âfrâr<i>s</i>taka, que parece más un epíteto que un nombre.
 
-[^78]: (138:4) O, quizás, 'Urva<i>d</i>\-gâ _hijo_ de Frâ<i>s</i>t.'
+[^78]: (138:4) O, quizás, «Urva<i>d</i>\-gâ _hijo_ de Frâ<i>s</i>t.»
 
 [^79]: (138:5) La gloria divina que se suponía debía acompañar a todos los soberanos legítimos de Irán, desde la época de Hôshyang hasta la de la dinastía sasánida; es el Av. <i>h</i><i>v</i>arenangh del Zamyâd Ya<i>s</i>t, y se dice que huyó al océano en busca de refugio durante el reinado de dinastías extranjeras y reyes malvados (véase Âbân Yt. 42, Zamyâd Yt. 51, 56, 59, 62).
 
 [^80]: (138:6) La última sílaba está escrita así, en Pâzand, en § 33.
 
-[^81]: (138:7) Se lee han<i>g</i>î<i>d</i>anŏ, 'herir', en lugar de khun<i>g</i><i>d</i>anŏ, que puede significar 'abrazar'; la diferencia entre las dos palabras es simplemente la letra î.
+[^81]: (138:7) Se lee han<i>g</i>î<i>d</i>anŏ, «herir», en lugar de khun<i>g</i><i>d</i>anŏ, que puede significar «abrazar»; la diferencia entre las dos palabras es simplemente la letra î.
 
-[^82]: (139:1) Este nombre significa 'el amanecer'; tal vez pueda identificarse con Av. Usinemangh o Usenemangh de Fravardîn Yt. 113, 1401 cuya esposa Fr<i>e</i>ni posiblemente sea la Farhank (o Frânak) del texto.
+[^82]: (139:1) Este nombre significa «el amanecer»; tal vez pueda identificarse con Av. Usinemangh o Usenemangh de Fravardîn Yt. 113, 1401 cuya esposa Fr<i>e</i>ni posiblemente sea la Farhank (o Frânak) del texto.
 
 [^83]: (139:2) Así también en TD, pero probablemente sea sólo una variante de Nâmûn.
 
@@ -268,7 +268,7 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 [^86]: (139:5) Lo mismo que Sagastân.
 
-[^87]: (139:6) O, quizás, 'el distrito superior'.
+[^87]: (139:6) O, quizás, «el distrito superior».
 
 [^88]: (140:1) Parece que no fue hijo de Sam, pues no se le menciona antes. La lectura de todos estos nombres es incierta.
 

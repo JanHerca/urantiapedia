@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPITRE LI.
 
-1. La cinquantième question est celle que vous posez ainsi : « Quant à quelqu’un de bonne religion qui boit du vin avec excès, et qui subit des pertes et des préjudices à cause de cette consommation immodérée, quelle est alors la décision à son égard ? » 2. « Et quelle est la mesure de consommation de vin qui, lorsqu’ils boivent, leur est alors autorisée ? »
+1\. La cinquantième question est celle que vous posez ainsi : « Quant à quelqu’un de bonne religion qui boit du vin avec excès, et qui subit des pertes et des préjudices à cause de cette consommation immodérée, quelle est alors la décision à son égard ? » 2. « Et quelle est la mesure de consommation de vin qui, lorsqu’ils boivent, leur est alors autorisée ? »
 
 3\. La réponse est la suivante : quiconque, par l'influence de l'occasion, boit du vin avec excès, et est adulte et intelligent, malgré toutes les pertes et tous les préjudices qui lui arrivent de ce fait, ou qui causent quelque chose à quelqu'un, cause alors aux créatures une telle pollution, par ses propres modes agréables [^1] variés, que la honte qui en résulte est un secours (dastakîh) pour sortir de cette affliction. 4. Et même celui qui donne du vin avec autorisation [^2] à quelqu'un, et qui en est ainsi enivré, est également coupable de tous les péchés que cet ivrogne commet à cause de cette ivresse.
 

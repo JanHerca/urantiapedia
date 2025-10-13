@@ -63,7 +63,7 @@ Ce dernier manuscrit comprend deux volumes, écrits respectivement en 1865 et 18
 
 D'autres exemplaires du Dâ<i>d</i>istân-î Dînîk, qui n'ont pas été examinés, se trouvent en Inde, mais, à moins qu'ils ne descendent d'autres manuscrits que le K35 et le codex susmentionné appartenant récemment à M. Dhanjibhâi Frâmji, ils ne seraient d'aucune utilité pour établir le texte.
 
-Parmi les manuscrits décrits ci-dessus, les suivants ont été disponibles pour les traductions dans ce volume : K35 pour l'ensemble du Dâ<i>d</i>istân-î Dînîk et les Épîtres ; M14 pour l'ensemble du Dâ<i>d</i>istân-î Dînîk seul ; BK pour Dd. Français I, 1-VI, 3 [^3], X, 2-XIV, 3 [^4], LXXXVIII, 9-XCIV, 15, l'intégralité des Épîtres, la légende sur l'âme de Keresâsp (voir pp. [373-381](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_1#p373)), et les extraits des Pahlavi Rivâyat dans ces codex relatifs à Khvêtûk-das (voir pp. [415-423](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p415)); et J pour Dd. I, 1-XXXIX, 10 [^5]; LXXXVIII, 9-LXXXIX, 1 [^6], XCI, 7-XCIV, 15, Ép. I, i, 1-II, ix, 7 [^7], la légende de Keresâsp et les extraits relatifs à Khvêtûk-das. Les autres manuscrits, utilisés pour les autres extraits traduits en appendice, seront mentionnés au § 4 de cette introduction.
+Parmi les manuscrits décrits ci-dessus, les suivants ont été disponibles pour les traductions dans ce volume : K35 pour l'ensemble du Dâ<i>d</i>istân-î Dînîk et les Épîtres ; M14 pour l'ensemble du Dâ<i>d</i>istân-î Dînîk seul ; BK pour Dd. Français I, 1-VI, 3 [^3], X, 2-XIV, 3 [^4], LXXXVIII, 9-XCIV, 15, l'intégralité des Épîtres, la légende sur l'âme de Keresâsp (voir pp. [373-381](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_1#p373)), et les extraits des Pahlavi Rivâyat dans ces codex relatifs à Khvêtûk-das (voir pp. [415-423](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_3#p415)); et J pour Dd. I, 1-XXXIX, 10 [^5]; LXXXVIII, 9-LXXXIX, 1 [^6], XCI, 7-XCIV, 15, Ép. I, i, 1-II, ix, 7 [^7], la légende de Keresâsp et les extraits relatifs à Khvêtûk-das. Les autres manuscrits, utilisés pour les autres extraits traduits en appendice, seront mentionnés au § 4 de cette introduction.
 
 L'existence de deux versions du texte du Dâdistân-î Dînîk aurait été une source de grande perplexité pour le traducteur, s'il n'était pas rapidement apparu que la version représentée par M14 n'était qu'une révision de celle de K35, tentée par un éditeur qui avait éprouvé de grandes difficultés à comprendre la phraséologie complexe du Mânûskîhar. Il y a, sans aucun doute, des mots et des passages corrompus dans K35, où la version révisée peut être suivie avec avantage, mais les neuf dixièmes des modifications apportées par le réviseur sont totalement inutiles et, dans de nombreux cas, totalement incompatibles avec le contexte.
 
@@ -112,8 +112,8 @@ Le lecteur ordinaire doit cependant noter que ces subtilités de translittérati
 
 [^5]: (xviii:3) Aucune copie des chapitres intermédiaires n'a été prise par le traducteur actuel.
 
-[^6] : (xviii : 4) Chap. LXXXIX, I-XCI, 7 omis.
+[^6]: (xviii : 4) Chap. LXXXIX, I-XCI, 7 omis.
 
-[^7]: (xviii:5) Ep. vi, 2-ix, 7 étant copié de BK et inséré par erreur dans Dd. XXXVII, 33 (voir [p. 89](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p89), note 5).
+[^7]: (xviii:5) Ep. vi, 2-ix, 7 étant copié de BK et inséré par erreur dans Dd. XXXVII, 33 (voir [p. 89](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p89), note 5).
 
 [^8]: (xxi:1) Des lettres pointillées pourraient être utilisées, si elles étaient disponibles, à la place des italiques ; mais elles sont sujettes à l'objection que, indépendamment des erreurs habituelles dues à la faillibilité ordinaire de la vue humaine, le traducteur a constaté qu'un point, qui était invisible sur les épreuves, apparaîtra parfois sous une mauvaise lettre au cours de l'impression.

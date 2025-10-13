@@ -88,7 +88,7 @@ Durant le rite, celui qui l'accomplit doit rester debout, sans reculer ni avance
 
 ## Notes de bas de page
 
-[^1] : (383 : 1) Pour la plupart des détails qui suivent, je suis redevable à Dastûr Jâmâspji Minochiharji Jâmâsp-Âsâ-nâ.
+[^1]: (383 : 1) Pour la plupart des détails qui suivent, je suis redevable à Dastûr Jâmâspji Minochiharji Jâmâsp-Âsâ-nâ.
 
 [^2]: (383:2) Comme c'est le cas à Bombay, pendant environ deux mois en été.
 

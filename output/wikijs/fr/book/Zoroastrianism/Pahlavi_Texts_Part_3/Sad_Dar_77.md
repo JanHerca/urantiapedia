@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. _Lorsque_ l'enfant devient un enfant de quatre mois, toutes les fois qu'il est mort-né, c'est un corps mort [^5], car tant qu'il n'atteint pas le quatrième mois, la vie ne lui vient pas. 6. Et si après trois mois cette affaire se produit, il faut faire preuve d'une grande prudence (i'htiyâ<i>t</i>) et insister strictement sur cette question.
 
-7. Car notre religion a réitéré à ce sujet que, si quelqu'un est souillé et ne se garde pas pur, tant qu'il vit, il ne sera jamais purifié de cette souillure. 8. Que, même s'il se lave la tête dix mille fois lors des ablutions rituelles, il n'en devient certainement pas pur [^6]. 9. Car cette souillure ne vient pas de l'extérieur ; elle vient de l'intérieur de chaque os, veine et tendon ; et l'eau ne purifie que ce qui est sur la peau. 10. L'impureté qui est dans les os, sauf par le liquide consacré par la formule religieuse [^7], ne devient pas pure autrement.
+7\. Car notre religion a réitéré à ce sujet que, si quelqu'un est souillé et ne se garde pas pur, tant qu'il vit, il ne sera jamais purifié de cette souillure. 8. Que, même s'il se lave la tête dix mille fois lors des ablutions rituelles, il n'en devient certainement pas pur [^6]. 9. Car cette souillure ne vient pas de l'extérieur ; elle vient de l'intérieur de chaque os, veine et tendon ; et l'eau ne purifie que ce qui est sur la peau. 10. L'impureté qui est dans les os, sauf par le liquide consacré par la formule religieuse [^7], ne devient pas pure autrement.
 
 <figure class="table chapter-navigator">
   <table>

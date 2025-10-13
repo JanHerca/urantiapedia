@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Porque se declara en la revelación que, a quien robe un dirham [^2] a otro, a sabiendas de ello, se le deben quitar dos dirhams; un dirham por el hurto y otro como multa al que cometió el robo. 3. También se le debe cortar una oreja, asestarle diez palos y pasar un tiempo en prisión. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 4\. 5. Si roba tres dirhams y dos dângs, se le debe cortar la mano derecha. 6. Si roba quinientos dirhams, se le debe colgar.
 
-7. El castigo inmediato es este, y entre los espíritus, castiga al alma misma. 8. Y si la otra persona no lo sabe, le quitan el doble de buenas obras, entre los espíritus, a ese ladrón y se las dan a su alma. 9. Si el ladrón no posee buenas obras, le dan la compensación del tesoro siempre beneficioso [^8] y le imponen el castigo.
+7\. El castigo inmediato es este, y entre los espíritus, castiga al alma misma. 8. Y si la otra persona no lo sabe, le quitan el doble de buenas obras, entre los espíritus, a ese ladrón y se las dan a su alma. 9. Si el ladrón no posee buenas obras, le dan la compensación del tesoro siempre beneficioso [^8] y le imponen el castigo.
 
 10\. _En cuanto a_ aquella persona que ha tomado algo <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> de otra por la fuerza, entre los espíritus se apoderan de cuatro cosas [^9] como compensación por cada una. 11. Y si, _en_ ​​el lugar _donde la gente_ lo captura, _le conviene_ devolver cuatro cosas_ en compensación _por_ una, cuando hayan comprendido plenamente, al capturar a esa persona que está cometiendo un robo en la carretera, _que_ le conviene [^10], _pueden_ matarlo de inmediato.
 

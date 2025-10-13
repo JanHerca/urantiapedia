@@ -126,11 +126,11 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1590] : 353:4 §§ 1-5 = Khôrshê<i>d</i> Nyâyi<i>s</i>, §§ 1-5.
+[^1590]: 353:4 §§ 1-5 = Khôrshê<i>d</i> Nyâyi<i>s</i>, §§ 1-5.
 
-[^1591] : 353:5 §§ 6-7 = Khôrshê<i>d</i> Nyâyi<i>s</i>, §§ 6-7.
+[^1591]: 353:5 §§ 6-7 = Khôrshê<i>d</i> Nyâyi<i>s</i>, §§ 6-7.
 
-[^1592] : 354:1 § 8-9 = Khôrshê<i>d</i> Nyâyi<i>s</i>, §§ 8-9.
+[^1592]: 354:1 § 8-9 = Khôrshê<i>d</i> Nyâyi<i>s</i>, §§ 8-9.
 
 [^1593]: 354:2 Yt. X, 0.
 

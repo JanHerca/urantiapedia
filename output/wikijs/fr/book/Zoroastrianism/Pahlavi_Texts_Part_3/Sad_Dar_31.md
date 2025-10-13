@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Et dans la révélation, il est déclaré de cette manière que, si un chien dort sur la route, il ne convient pas qu'on pose violemment un pied sur le sol, afin qu'il se réveille. 5. Et, autrefois, une ration (râtib) de pain était faite chaque jour pour les chiens, trois fois en été et deux fois en hiver, pour cette raison, qu'on souhaite qu'ils viennent au secours de son âme au pont envahi par les Rois.
 
-6. Dans la vie terrestre, ils sont les gardiens des hommes et du bétail. 7. Sans chien, ils n'auraient pas pu garder un seul mouton. 8. Chaque fois qu'il aboie, au moment même où il aboie, les démons et les démons s'enfuient.
+6\. Dans la vie terrestre, ils sont les gardiens des hommes et du bétail. 7. Sans chien, ils n'auraient pas pu garder un seul mouton. 8. Chaque fois qu'il aboie, au moment même où il aboie, les démons et les démons s'enfuient.
 
 <figure class="table chapter-navigator">
   <table>

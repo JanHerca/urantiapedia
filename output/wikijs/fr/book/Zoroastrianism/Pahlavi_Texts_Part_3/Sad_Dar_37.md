@@ -66,7 +66,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (298 : 1) Voir Mkh. LVII, 13 n.
+[^1]: (298 : 1) Voir Mkh. LVII, 13 n.
 
 [^2]: (298:2) Qui sont censés revisiter la terre pendant ces jours.
 

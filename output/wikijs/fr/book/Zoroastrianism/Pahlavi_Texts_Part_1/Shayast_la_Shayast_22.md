@@ -136,7 +136,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^4]: (402:1) Ce verbe est douteux ; ici et dans le § 23 il est netrûnâ<i>d</i>, 'qu'elle garde', mais dans le § 15 il est ketrûnâ<i>d</i>, 'qu'elle reste'.
 
-[^5]: (402:2) Bûr<i>z</i> âtarô, 'le feu sublime', semble être une personnification du feu Berezi-savang de Bund. XVII, 1; 3, le Suprêmement bénéfique de SZS. XI, 1, 6.
+[^5]: (402:2) Bûr<i>z</i> âtarô, « le feu sublime », semble être une personnification du feu Berezi-savang de Bund. XVII, 1; 3, le Suprêmement bénéfique de SZS. XI, 1, 6.
 
 [^6]: (402:3) On l'appelle généralement un ange. Soit le verbe est omis dans cette section, soit il ne s'agit pas d'une bénédiction ; on peut en dire autant des §§ 20 et 25.
 

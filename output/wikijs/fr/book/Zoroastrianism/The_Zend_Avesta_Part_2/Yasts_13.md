@@ -1136,7 +1136,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^887]: 189:1 Cf. § 25.
 
-[^888] : 189:2 Yâstô-zay<i>a</i>u.
+[^888]: 189:2 Yâstô-zay<i>a</i>u.
 
 [^889]: 189:3 Douteux.
 
@@ -1158,7 +1158,7 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 [^898]: 190:4 Cf. Yt. VIII, 9, et 34, note.
 
-[^899] : 190:5 Ta<i>t</i>\-âpem.
+[^899]: 190:5 Ta<i>t</i>\-âpem.
 
 [^900]: 190:6 Voir ci-dessus, [p. 182](#p182), note [^817].
 

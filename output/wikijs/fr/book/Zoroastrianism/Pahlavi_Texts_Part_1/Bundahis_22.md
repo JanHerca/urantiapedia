@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 1\. Sur la nature des lacs, il est dit dans la révélation, que ainsi de nombreuses fontaines d'eaux sont apparues, qu'ils appellent lacs (var) ; les contreparties des yeux (<i>k</i>ashm) des hommes sont ces fontaines (<i>k</i>ashmak) d'eaux ; telles que le lac <i>K</i>ê<i>k</i>ast, le lac Sôvbar, le lac Khvâri<i>z</i>em [^1], le lac Frazdân, le lac Zarînmand, le lac Âsvast, le lac Husru, le lac Satavês, le lac Urvis.
 
-2\. Je les mentionnerai aussi une seconde fois : le lac <i>K</i>ê<i>k</i>ast [^2] est dans l'Âtarô-pâtakân, l'eau est chaude et opposée au mal, de sorte que rien ne vit en lui ; et sa source est reliée à l'océan aux formes vastes [^3]. 3. Le lac Sôvbar est dans la région supérieure et dans la campagne, au sommet de la montagne de Tûs [^4] ; comme il est dit, que le Sû<i>d</i>\-bâhar [^5] ('partage de bien') est propice et bon, d'où une abondante <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> libéralité est produite. 4. À propos du lac Khvâri<i>z</i>em [^6], il est dit qu'il produit d'excellents bienfaits, c'est-à-dire Arshi<i>s</i>ang [^7], le riche en richesses, le bien-aimé en plaisirs abondants. 5. Le lac Frazdân [^8] se trouve à Sagastân ; on dit que lorsqu'un homme généreux, qui est juste, y jette quelque chose, il le reçoit ; s'il n'est pas juste, il le rejette ; sa source aussi est reliée à l'océan aux formes vastes. 6. Le lac Zarînmand se trouve à Hama<i>d</i>ân [^9]. 7. Concernant le lac Âsvast, il est déclaré que l'eau pure [^10] qu'il contient coule constamment dans la mer, si brillante et abondante [^11] qu'on pourrait dire que le soleil y est entré et a regardé le lac Âsvast, dans cette eau qui est nécessaire pour restaurer les morts dans la rénovation de l'univers. 8. Le lac Husru [^12] est à moins de cinquante [^13]
+2\. Je les mentionnerai aussi une seconde fois : le lac <i>K</i>ê<i>k</i>ast [^2] est dans l'Âtarô-pâtakân, l'eau est chaude et opposée au mal, de sorte que rien ne vit en lui ; et sa source est reliée à l'océan aux formes vastes [^3]. 3. Le lac Sôvbar est dans la région supérieure et dans la campagne, au sommet de la montagne de Tûs [^4] ; comme il est dit, que le Sû<i>d</i>\-bâhar [^5] (« partage de bien ») est propice et bon, d'où une abondante <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> libéralité est produite. 4. À propos du lac Khvâri<i>z</i>em [^6], il est dit qu'il produit d'excellents bienfaits, c'est-à-dire Arshi<i>s</i>ang [^7], le riche en richesses, le bien-aimé en plaisirs abondants. 5. Le lac Frazdân [^8] se trouve à Sagastân ; on dit que lorsqu'un homme généreux, qui est juste, y jette quelque chose, il le reçoit ; s'il n'est pas juste, il le rejette ; sa source aussi est reliée à l'océan aux formes vastes. 6. Le lac Zarînmand se trouve à Hama<i>d</i>ân [^9]. 7. Concernant le lac Âsvast, il est déclaré que l'eau pure [^10] qu'il contient coule constamment dans la mer, si brillante et abondante [^11] qu'on pourrait dire que le soleil y est entré et a regardé le lac Âsvast, dans cette eau qui est nécessaire pour restaurer les morts dans la rénovation de l'univers. 8. Le lac Husru [^12] est à moins de cinquante [^13]
 
 <span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
@@ -84,13 +84,13 @@ lieues (parasanges). du lac <i>K</i>ê<i>k</i>ast. 9. Le lac (ou plutôt le golf
 
 [^8]: (86:3) L'« eau Frazdânava » d'Âbân Yt. 108 et Farhang-i Oîm-khadûk, p. 17. Justi l'identifie au lac Âb-istâdah (« eau stagnante »), au sud de Ghaznî. Il est ici représenté comme un lac salé.
 
-[^9]: (86:4) K20 ajoute, 'ils disent.' Ce lac ne peut pas être la source Zarînmand du chap. XX, 34.
+[^9]: (86:4) K20 ajoute, « ils disent. » Ce lac ne peut pas être la source Zarînmand du chap. XX, 34.
 
-[^10]: (86:5) Pâz. avnasti transcrit en pahlavi est avinastag, 'intact', l'équivalent de Av. anâhita dans Yas. LXIV, 1, 16, Visp. I, 18.
+[^10]: (86:5) Pâz. avnasti transcrit en pahlavi est avinastag, « intact », l'équivalent de Av. anâhita dans Yas. LXIV, 1, 16, Visp. I, 18.
 
 [^11]: (86:6) K20 utilise « glorieux » comme synonyme de « copieux ».
 
-[^12]: (86:7) L'Av. Haosravangha de Sîroz. 9, 'le lac qui est nommé Husrav<i>a</i>u' de Zamyâd Yt. 56. Il peut s'agir soit du lac Van, soit du lac Sevan, qui sont presque équidistants du lac Urumiyah.
+[^12]: (86:7) L'Av. Haosravangha de Sîroz. 9, « le lac qui est nommé Husrav<i>a</i>u » de Zamyâd Yt. 56. Il peut s'agir soit du lac Van, soit du lac Sevan, qui sont presque équidistants du lac Urumiyah.
 
 [^13]: (86:8) M6 a « quatre lieues ».
 

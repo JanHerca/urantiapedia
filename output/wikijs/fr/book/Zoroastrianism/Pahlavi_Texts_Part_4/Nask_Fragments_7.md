@@ -32,6 +32,9 @@ dateCreated: 2025-10-10T14:56:56Z
   </table>
 </figure>
 
+## FRAGMENTS EXISTANTS. VII. RA<i>D</i>Ö-DÂ<i>D</i>\-AÎTAG NASK [^1].
+
+Dk. VIII, Chap. VIII, 4, se réfère probablement au passage contenant la déclaration ainsi mentionnée dans Sls. X, 29 : « Dans le Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtîh, on dit beaucoup de choses dures sur la punition sévère des inutiles (avi<i>g</i>î<i>d</i>âr-daî<i>s</i>nânŏ) [^2] dans l'existence spirituelle. »
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +60,9 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+
+## Notes de bas de page
+
+[^1]: (467:1) Le très court récit de ce Nask, dans Dk. VIII, contient 88 mots Pahlavi, à partir desquels l'étendue de son texte original peut être estimée (de la même manière que dans le cas de Nask IV) à environ 10 500 mots Avesta et 34 300 mots Pahlavi.
+
+[^2]: (467:2) Autrement, lire h<i>g</i>î<i>d</i>âr-dahî<i>s</i>nânŏ, « producteurs d'irritation », dans SBE, vol. v, p. 330.

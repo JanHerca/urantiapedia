@@ -67,7 +67,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1] : (310 : 1) Voir Mkh. II, 115 n.
+[^1]: (310 : 1) Voir Mkh. II, 115 n.
 
 [^2]: (310:2) C'est-à-dire que la plupart des cérémonies requises après la mort d'un adulte, comme détaillées au chap. LXXXVII, doivent également être exécutées dans ce cas, pour la raison donnée ici.
 

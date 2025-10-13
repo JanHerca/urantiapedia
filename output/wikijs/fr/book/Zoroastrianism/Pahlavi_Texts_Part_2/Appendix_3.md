@@ -98,7 +98,7 @@ Et si l'on dit qu'avec tout ce que vous expliquez, il y a aussi, après coup, un
 
 'Alors pour nous la bonne œuvre de cette chose [^56], _dont_ il_ est_ reconnaissable_ qu'elle_ est_ ainsi_ ordonnée_ par_ le_ créateur, a_ sa_ récompense;_ elle_ est_ la_ protectrice_ de_ la_ race, _et_ la_ famille_ est_ plus_ parfaite;_ sa_ nature <span id="p409"><sup><small>[ p. 409 ]</small></sup></span> est sans vexation (apî<i>z</i>âr) et rassembleuse d'affection, un avantage pour l'enfant - la lignée _étant_ exaltée - rassemblant (a<i>v</i>ar<i>k</i>ûn) l'espoir, la progéniture et le plaisir _elle_ est_ une_ douceur_ pour_ le_ procréateur, et_ la_ joie_ est_ la_ plus_ complète; Moins il y a de mal et plus il y a d'avantages, peu de prétention et beaucoup d'habileté dans les gracieuses flatteries (nâz<i>â</i>nŏ) qui sont apparentes, aidant et procurant assistance (ban<i>g</i>isnŏ), évitant le désastre et dirigeant les affaires ; moins il y a de peur, par elle-même elle-même est illustre, et les persévérants abandonneront le crime (<i>k</i>am). Et tous nos pères et grands-pères, par qui la même pratique était légitimement entretenue, l'ont entretenue élégamment dans leurs foyers ; et penser à l'humanité uniquement en ce qui concerne une certaine assistance est l'illumination des persévérants, une raison qui démontre la sagesse, qu'aucune pratique de celle-ci [^57] n'est opportune.
 
-« Et si l'on dit que la loi [^58] a ensuite ordonné à propos de cette coutume ainsi : “Vous ne la pratiquerez pas !”, quiconque connaît ce commandement doit le considérer comme courant ; mais nous ne connaissons pas ce commandement, et une personne intelligente (khapârvârakŏ) devrait également voir minutieusement, par une observation correcte, que toute la connaissance des hommes est issue de Khvêtûk-das. Car la connaissance est générée par l'union de la sagesse instinctive et de la sagesse acquise [^59] ; la sagesse instinctive est la femelle, et la sagesse acquise le mâle ; et pour cette raison, puisque toutes deux sont une réalisation du créateur, elles sont sœur et frère. Et <span id="p410"><sup><small>[ p. 410 ]</small></sup></span> aussi de tout ce qui est mondain l'existence, la maturation et l'arrangement sont dus à l'union en proportion ; « L'eau, qui est femelle, et le feu, qui est mâle [^60], sont considérés comme sœur et frère en combinaison, et ils semblent comme si l'un les retenait de Khvêtûk-das, à moins que, en se dissipant eux-mêmes [^61], la semence - qui est la progéniture - n'en surgisse ; et c'est en raison d'une proportionnalité mutuelle de l'eau et du feu que se trouve le pouvoir dans le cerveau, car si l'eau est plus abondante, elle le fait pourrir, et si le feu est plus abondant, il le brûle. »
+« Et si l'on dit que la loi [^58] a ensuite ordonné à propos de cette coutume ainsi : « Vous ne la pratiquerez pas ! », quiconque connaît ce commandement doit le considérer comme courant ; mais nous ne connaissons pas ce commandement, et une personne intelligente (khapârvârakŏ) devrait également voir minutieusement, par une observation correcte, que toute la connaissance des hommes est issue de Khvêtûk-das. Car la connaissance est générée par l'union de la sagesse instinctive et de la sagesse acquise [^59] ; la sagesse instinctive est la femelle, et la sagesse acquise le mâle ; et pour cette raison, puisque toutes deux sont une réalisation du créateur, elles sont sœur et frère. Et <span id="p410"><sup><small>[ p. 410 ]</small></sup></span> aussi de tout ce qui est mondain l'existence, la maturation et l'arrangement sont dus à l'union en proportion ; « L'eau, qui est femelle, et le feu, qui est mâle [^60], sont considérés comme sœur et frère en combinaison, et ils semblent comme si l'un les retenait de Khvêtûk-das, à moins que, en se dissipant eux-mêmes [^61], la semence - qui est la progéniture - n'en surgisse ; et c'est en raison d'une proportionnalité mutuelle de l'eau et du feu que se trouve le pouvoir dans le cerveau, car si l'eau est plus abondante, elle le fait pourrir, et si le feu est plus abondant, il le brûle. »
 
 Cette défense élaborée du Khvêtûk-das montre clairement qu'à l'époque où elle a été écrite (il y a environ mille ans), cette coutume était censée inclure les mariages réels entre les parents les plus proches, bien que ceux entre cousins ​​germains semblent également être mentionnés.
 
@@ -214,7 +214,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^1]: (389:1) Voir la traduction du Dînka<i>r</i><i>d</i> par Dastûr Peshotanji, D. 96, note.
 
-[^2] : (390 : 1) Parfois écrit Khvêtûk-dat, comme dans Pahl. Vend. VIII, 36 (voir [p. 392](.)).
+[^2]: (390 : 1) Parfois écrit Khvêtûk-dat, comme dans Pahl. Vend. VIII, 36 (voir [p. 392](.)).
 
 [^3]: (391:1) Voir p. 387, note 3.
 
@@ -222,7 +222,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^5]: (392:2) Ou peut-être, « homme et femme » ; comme gab<i>r</i>â, « homme », est parfois utilisé pour « mari », bien que shûî soit le mot habituel, et nê<i>s</i>man signifie à la fois « femme » et « épouse ».
 
-[^6] : (392:3) Khvêtvadas ou Khvêtûdas écrits dans le très ancien manuscrit de Dastûr Jâmâspji Minochiharji, dont le texte est suivi dans cette traduction. Les expressions entre parenthèses n'ont pas d'équivalent dans le texte original de l'Avesta et ne représentent donc que l'opinion des traducteurs pahlavi.
+[^6]: (392:3) Khvêtvadas ou Khvêtûdas écrits dans le très ancien manuscrit de Dastûr Jâmâspji Minochiharji, dont le texte est suivi dans cette traduction. Les expressions entre parenthèses n'ont pas d'équivalent dans le texte original de l'Avesta et ne représentent donc que l'opinion des traducteurs pahlavi.
 
 [^7]: (392:4) Spenda<i>r</i>ma<i>d</i> apparemment, comme l'indique la suite.
 
@@ -264,17 +264,17 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^26]: (399:1) Voir Livres sacrés de l'Orient, vol. v, pp. liii-lvi.
 
-[^27] : (399 : 2) Voir Byt. II, 57, 61.
+[^27]: (399 : 2) Voir Byt. II, 57, 61.
 
 [^28]: (399:3) Le nom de cet éditeur était Âtû<i>r</i>\-pad, fils de Hêmî<i>a</i>, comme il ressort du dernier chapitre (chap. 413) du même livre. Il était contemporain de l'auteur du Dâ<i>d</i>istan-î Dînîk (voir Bd. XXXIII, 11).
 
-[^29] : (399:4) Chap. 80 dans la récente édition de Dastûr Peshotanji Behramji, car ses numéros ne commencent pas au début du livre. Sa traduction de ce chapitre (voir pp. [90](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p90)\-[102](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p102) de la traduction anglaise de son édition) diffère considérablement de celle donnée dans notre texte. Cette différence peut être due en partie au fait qu'il est traduit de la traduction Gu<i>g</i>arâti, et non directement du pahlavi original ; mais elle est principalement due au résultat inévitable d'une tentative de traduction libre d'un pahlavi difficile, sans préparer au préalable une version littérale. La traduction donnée ici est aussi littérale que possible, mais le texte Pahlavi est trop obscur pour être encore compris avec une certitude absolue dans certains endroits.
+[^29]: (399:4) Chap. 80 dans la récente édition de Dastûr Peshotanji Behramji, car ses numéros ne commencent pas au début du livre. Sa traduction de ce chapitre (voir pp. [90](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p90)\-[102](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_37#p102) de la traduction anglaise de son édition) diffère considérablement de celle donnée dans notre texte. Cette différence peut être due en partie au fait qu'il est traduit de la traduction Gu<i>g</i>arâti, et non directement du pahlavi original ; mais elle est principalement due au résultat inévitable d'une tentative de traduction libre d'un pahlavi difficile, sans préparer au préalable une version littérale. La traduction donnée ici est aussi littérale que possible, mais le texte Pahlavi est trop obscur pour être encore compris avec une certitude absolue dans certains endroits.
 
 [^30]: (400:1) Littéralement « porteur » (bûr<i>d</i>âr), qui n'est pas le mot habituel pour « mère », mais équivalent à l'Av. baretar qui est utilisé dans ce sens.
 
 [^31]: (401:1) Voir p. 393, note 2.
 
-[^32] : (401:2) Voir Dd. II, 10, XXXVII, 82, LXIV, 5.
+[^32]: (401:2) Voir Dd. II, 10, XXXVII, 82, LXIV, 5.
 
 [^33]: (401:3) On ne sait pas si la déclaration du grand prêtre continue au-delà de ce point ou non.
 
@@ -304,7 +304,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^46]: (404:4) Lire zak-î au lieu de zî<i>s</i>, comme précédemment. Il s'agit de la quatrième espèce de cousinage de Dastûr Peshotanji, qu'il comprend comme signifiant cousins ​​au second degré.
 
-[^47] : (404:5) Lecture 13, en divisant le chiffre pahlavi pour « quatre » en deux parties, ici et vers la fin de la phrase. Ce paragraphe ne peut guère être compris autrement que comme une référence à la forme actuelle du Khvêtûk-das, le mariage des cousins ​​germains.
+[^47]: (404:5) Lecture 13, en divisant le chiffre pahlavi pour « quatre » en deux parties, ici et vers la fin de la phrase. Ce paragraphe ne peut guère être compris autrement que comme une référence à la forme actuelle du Khvêtûk-das, le mariage des cousins ​​germains.
 
 [^48]: (405:1) Lire amat au lieu de mûn, 'qui', (voir Dd. LXII, 4 n.)
 
@@ -340,7 +340,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^64]: (411:1) Av. Akhtya d'Âbân Yt. 82, qui proposa quatre-vingt-dix-neuf énigmes à Yôi<i>s</i>tô des Fryâns (voir Dd. XC, 3).
 
-[^65] : (411 : 2) Voir Dd. XCIV, 1 n.
+[^65]: (411 : 2) Voir Dd. XCIV, 1 n.
 
 [^66]: (411:3) L'homme créé seul (voir Dd. II, 10, XXXVII, 82).
 
@@ -350,7 +350,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^69]: (412:2) Voir [^400], note 1.
 
-[^70]: (412:3) Voir [384](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p384), note 1.
+[^70]: (412:3) Voir [384](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p384), note 1.
 
 [^71]: (413:1) Le mot hû-nô<i>s</i>akŏ est l'équivalent pahlavi de l'Av. hunu<i>s</i>tâ (Yas. L, 10, b), mais la signification des deux mots est incertaine. Ce Tar semble avoir été plus amical envers Zaratû<i>s</i>t que ne l'étaient les Tûrâniens en général, mais il ne semble pas être mentionné dans l'Avesta existante.
 
@@ -392,7 +392,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^90]: (418:3) Évidemment destiné à Tî<i>s</i>tar, une personnification de l'étoile Sirius, qui est censée apporter la pluie de l'océan (voir Dd. XCIII, 1-17). Strictement parlant, Tîr est la planète Mercure, l'adversaire de Tî<i>s</i>tar, dont le nom est donné au quatrième mois et au treizième jour du mois, dans l'année parsi (voir Bd. V, 1, VII, 2, XXVII, 24) ; mais la confusion entre les deux noms n'est pas rare dans les livres ultérieurs (comp. Sls. XXII, 13 avec XXIII, 2).
 
-[^91]: (419:1) Voir [p. 371](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_1#p371), note 3.
+[^91]: (419:1) Voir [p. 371](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_1#p371), note 3.
 
 [^92]: (419:2) Non identifié, et la lecture est donc incertaine.
 
@@ -404,7 +404,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^96]: (422:2) Voir [p. 421](.), note 1.
 
-[^97] : (422:3) C'est-à-dire la loi générale du culte de Ma<i>z</i><i>d</i>a, par opposition à ce qu'il préconise comme une loi spécifiquement religieuse sanctionnée (p. 432) par les prêtres (« les bons »). Il s'agit évidemment d'un aveu que la pratique préconisée était contraire aux lois ordinaires du culte de Ma<i>z</i><i>d</i>a lui-même.
+[^97]: (422:3) C'est-à-dire la loi générale du culte de Ma<i>z</i><i>d</i>a, par opposition à ce qu'il préconise comme une loi spécifiquement religieuse sanctionnée (p. 432) par les prêtres (« les bons »). Il s'agit évidemment d'un aveu que la pratique préconisée était contraire aux lois ordinaires du culte de Ma<i>z</i><i>d</i>a lui-même.
 
 [^98]: (423:1) Comme les auteurs Pahlavi s’attendent à ce qu’ils le fassent avant la résurrection.
 
@@ -416,7 +416,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^102]: (424:3) Le Rivâyat persan d'où toutes ces informations ont été extraites est M10 (fol. 50 a).
 
-[^103] : (424:4) Voir Dd. XLIV, 2II.
+[^103]: (424:4) Voir Dd. XLIV, 2II.
 
 [^104]: (425:1) Ceci semble être une allusion à une certaine ingérence du gouvernement musulman dans les mariages des proches parents. Une allusion similaire apparaît dans l'avant-dernier paragraphe, qui, comme la majeure partie de ce paragraphe, se trouve également dans M7, fol. 229 b, 230 a.
 
@@ -428,7 +428,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
 
 [^108]: (427:1) M5, fol. 54, 55.
 
-[^109] : (427:2) Dans NSP. III, lxxxii (voir [p. 404](.)).
+[^109]: (427:2) Dans NSP. III, lxxxii (voir [p. 404](.)).
 
 [^110]: (428:1) Voir pp. [^415]-423.
 

@@ -232,7 +232,7 @@ Aux cieux élevés et puissants, à la demeure lumineuse, heureuse et bienheureu
 
 [^16]: 4:9 Une personnification du bien d'Ormazdean ; cf. Vend. XXII, 3 \[8\], et Yt. XIII, 42.
 
-[^17] : 4:10 Vouru-dôithra, kâmak dôisr ; elle est « le génie du bien p. 5 oeil, mînôî hu<i>k</i>a<i>s</i>mîh' (Vend. XIX, 36 \[523\]), l'envers du mauvais œil (Yasna LXVII, 62 \[LXVIII, 22\] ; cf. Études Iraniennes, II, 182).
+[^17]: 4:10 Vouru-dôithra, kâmak dôisr ; elle est « le génie du bien p. 5 oeil, mînôî hu<i>k</i>a<i>s</i>mîh' (Vend. XIX, 36 \[523\]), l'envers du mauvais œil (Yasna LXVII, 62 \[LXVIII, 22\] ; cf. Études Iraniennes, II, 182).
 
 [^18]: 5:1 Vend. Introd. IV, 33; Ormazd et Ahriman, §§ 202-206.
 

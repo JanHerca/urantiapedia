@@ -50,7 +50,7 @@ QUELQUES chapitres des enquêtes que Mit<i>r</i>ô-khûrshê<i>d</i>, fils d'Ât
 
 12\. Ce qui concerne la longue rédaction de questions, _quant_ à vos circonstances mondaines (stihânîhâ) et à vos affaires mondaines, _a_ aussi montré ceci, que je devrais écrire une réponse à un moment où j'ai du temps. 13. Cela est plus important en raison de vos questions bien formulées _et_ de votre audace à répondre de manière ambiguë, et de _votre_ désir ardent de réserver du temps ; car réserver, ou ne pas commencer, une réponse est implicite. 14. _Mais_ à cause de la lutte perplexe [^15] à cause du démon, il y a peu de temps pour une pensée rapide et approfondie, et à cause de ce qui est indécis [^16], il y a peu_ pour le travail indispensable (frê<i>z</i>vânîkŏ).
 
-15. Quant à une réponse à un moment opportun, la concrétisation du moment fixé se manifeste en tout, hormis les salutations amicales et la collecte d'informations qui, grâce à mon peu de temps libre, vous sont communiquées. 16. J'ai aussi la certitude que vos questions sont écrites avec une foi religieuse et un désir de décision religieuse ; et dans la réponse, les raisons tirées de la révélation (dînô) sont multiples, car <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> guident avec sagesse et sans risque aucune importunité [^17].
+15\. Quant à une réponse à un moment opportun, la concrétisation du moment fixé se manifeste en tout, hormis les salutations amicales et la collecte d'informations qui, grâce à mon peu de temps libre, vous sont communiquées. 16. J'ai aussi la certitude que vos questions sont écrites avec une foi religieuse et un désir de décision religieuse ; et dans la réponse, les raisons tirées de la révélation (dînô) sont multiples, car <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> guident avec sagesse et sans risque aucune importunité [^17].
 
 17\. Et _cette_ même épître [^18] arriva au mois de Tîr [^19], à une époque où, à cause des supplications pendant trois ans des gens du pays (dêsîkânŏ), et du fardeau des ennuis des descendants (sarakŏ) de ceux de la bonne religion, de la grande importunité d'arranger _ce qui était_ indécis parmi eux - ce qui, dans la mesure où je n'avais pas le pouvoir d'enquêter sur ces ennuis et ces souffrances, _était_ d'autant plus indispensable - les arrangements pour la conservation et l'éducation des disciples [^20], _et_ beaucoup d'affaires privées qui s'étaient accumulées, je n'ai pas eu l'occasion d'examiner correctement _ces_ mêmes questions jusqu'au mois de Shatvaî<i>r</i>ô [^21], quand je suis arrivé à Shirâ<i>z</i> [^22] et que j'ai eu _à_ divers moments un peu de loisir.
 
@@ -124,7 +124,7 @@ QUELQUES chapitres des enquêtes que Mit<i>r</i>ô-khûrshê<i>d</i>, fils d'Ât
 
 [^16]: (7:3) C'est-à-dire attendre la décision judiciaire et ecclésiastique du grand prêtre.
 
-[^17] : (8:1) Ou « sur-persuasion ».
+[^17]: (8:1) Ou « sur-persuasion ».
 
 [^18]: (8:2) Voir § 2.
 

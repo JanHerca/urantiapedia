@@ -79,7 +79,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1167]: 275:1 Ailleurs peut-être, par erreur, comme un nom propre : ou lire angheu<i>s</i>.
 
-[^1168] : 275:2 Pahlavi frashakar<i>d</i> kar<i>d</i>ârân.
+[^1168]: 275:2 Pahlavi frashakar<i>d</i> kar<i>d</i>ârân.
 
 [^1169]: 275:3 'Et la récitation entendue des Gâthas.'
 

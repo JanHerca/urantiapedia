@@ -50,7 +50,7 @@ III. À TOUTE LA BONNE RELIGION EN IRAN.
 
 1\. Pour toutes les divisions en chapitres et sections, le traducteur est responsable, car les manuscrits sont écrits en continu, avec très peu d'arrêts marqués, et même ceux-ci sont souvent mal placés.
 
-2-6. (Le même qu'à la page [2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_Observations#p2).)
+2-6. (Le même qu'à la page [2](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_Observations#p2).)
 
 7\. Les manuscrits mentionnés sont :--
 
@@ -122,6 +122,6 @@ Copie de l'épître du prêtre Mânû<i>s</i><i>k</i>îhar [^1], fils de Yûdân
 
 [^8]: (280:5) J omet shâye<i>d</i>ŏ, « sont appropriés », parce qu'il suit l'autre shâye<i>d</i>, « sont appropriés » ; mais il n'est pas toujours prudent de supposer que la répétition d'un mot est une erreur.
 
-[^9] : (281 : 1) Lecture de dîpakŏ-î zahabâ.
+[^9]: (281 : 1) Lecture de dîpakŏ-î zahabâ.
 
 [^10]: (281:2) La région centrale de la terre, contenant toutes les terres les mieux connues des Iraniens (voir Dd. XC, 3).

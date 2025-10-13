@@ -46,7 +46,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 9\. Question : Il y a une action qui, selon l'Avesta [^15], n'est pas bonne à faire pour une personne, et la sentence de « digne de mort » est prononcée sur elle ; car sa meilleure conservation est de ne pas accomplir cette action, <span id="p386"><sup><small>[ p. 386 ]</small></sup></span> ou de l'accomplir et de l'inciter à poursuivre, pour l'avancement de la religion dans un état d'incertitude (var-hômandîh) ? 10. La réponse est la suivante : lorsque l'on agit bien pour sa meilleure conservation, il n'y a pas de crainte, du fait d'avoir bien agi, mais on ne doit pas non plus abandonner cela [^16], même si ce n'est pas de la bonté ; un devoir abandonné est très mauvais, car son mépris entre en soi.
 
-11\. Il est également déclaré que Zaratûst demanda à Aûharmazd ainsi : « De quel lieu ces gens ressuscitent-ils ? De ce lieu où ils sont d'abord allés vers leurs mères, ou de ce lieu où leurs mères leur ont donné naissance, ou de ce lieu où leurs corps se trouvent (aûftê<i>d</i>) ? » 12. Aûharmazd répondit ainsi : « Ni de ce lieu où ils sont allés vers leurs mères, ni de ce lieu où ils sont nés de leurs mères, ni de ce lieu où se trouvent leurs corps et leur chair, car ils ressuscitent de ce lieu où la vie est sortie de leurs corps. » 13. Et il demanda aussi ceci : « D'où ressuscitent-ils [^17] celui qui est suspendu à quoi que ce soit, et qui mourra dans les airs ? » 14. La réponse fut : « De l’endroit où ses os et sa chair tombent d’abord à terre ; par conséquent, sauf s’il meurt sur un divan (gâs) ou un lit (vistarg), avant qu’ils ne l’emportent, quel qu’il soit, un fragment [^18] doit être pris et placé sur ses membres ; car lorsque l’usage n’est pas ainsi, ils le relèvent de l’endroit où son corps arrive à terre. »
+11\. Il est également déclaré que Zaratûst demanda à Aûharmazd ainsi : « De quel lieu ces gens ressuscitent-ils ? De ce lieu où ils sont d'abord allés vers leurs mères, ou de ce lieu où leurs mères leur ont donné naissance, ou de ce lieu où leurs corps se trouvent (aûftê<i>d</i>) ? » 12. Aûharmazd répondit ainsi : « Ni de ce lieu où ils sont allés vers leurs mères, ni de ce lieu où ils sont nés de leurs mères, ni de ce lieu où se trouvent leurs corps et leur chair, car ils ressuscitent de ce lieu où la vie est sortie de leurs corps. » 13. Et il demanda aussi ceci : « D'où ressuscitent-ils [^17] celui qui est suspendu à quoi que ce soit, et qui mourra dans les airs ? » 14. La réponse fut : « De l’endroit où ses os et sa chair tombent d’abord à terre ; par conséquent, sauf s’il meurt sur un divan (gâs) ou un lit (vistarg), avant qu’ils ne l’emportent, quel qu’il <span id="p387"><sup><small>[ p. 387 ]</small></sup></span> soit, un fragment [^18] doit être pris et placé sur ses membres ; car lorsque l’usage n’est pas ainsi, ils le relèvent de l’endroit où son corps arrive à terre. »
 
 15\. Accompli dans la paix, le plaisir et la joie [^19].
 
@@ -96,7 +96,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^10]: (385:2) Et, par conséquent, pas immortel selon la foi parsie.
 
-[^11] : (385:3) Comparez Vend. VIII, 98-106.
+[^11]: (385:3) Comparez Vend. VIII, 98-106.
 
 [^12]: (385:4) Qui étant une créature de l'esprit maléfique est condamnée à la destruction.
 

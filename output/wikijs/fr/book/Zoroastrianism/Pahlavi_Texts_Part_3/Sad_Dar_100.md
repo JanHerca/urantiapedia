@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## TRISTE DAR. CHAPITRE C.
 
-1. Le centième sujet est le suivant : lorsqu’une personne moleste ou frappe un innocent, elle commet un péché d’un Tanâvar par jour, tant qu’elle vit [1]. 2. Et, lorsqu’elle quitte ce monde, l’ange Mihir et l’ange Rashn dressent son bilan. 3. Elle est [2] pleine d’affliction, éprouve beaucoup de regrets et de pénitence, et n’en tire aucun avantage [3]. 4. Il est donc nécessaire de se tenir loin de ce péché [4].
+1\. Le centième sujet est le suivant : lorsqu’une personne moleste ou frappe un innocent, elle commet un péché d’un Tanâvar par jour, tant qu’elle vit [1]. 2. Et, lorsqu’elle quitte ce monde, l’ange Mihir et l’ange Rashn dressent son bilan. 3. Elle est [2] pleine d’affliction, éprouve beaucoup de regrets et de pénitence, et n’en tire aucun avantage [3]. 4. Il est donc nécessaire de se tenir loin de ce péché [4].
 
 <figure class="table chapter-navigator">
   <table>
@@ -70,4 +70,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (361:3) B29, J15 ajoutent « _à_ cet endroit ».
 
-[^4]: (361:4) B29, J15 ajoutent « et de faire du bien à chacun. » Dans La, ce chapitre était à l'origine numéroté XCIX, et le chap. XLIX a été inséré après lui, et numéroté C. Dans Lp, il était numéroté XCVIII, et apparaît à nouveau comme chap. C, tandis que le chap. XCIX est une répétition de XLIX (qui est numéroté LII dans Lp). La divergence dans la numérotation des chapitres, d'un dans le cas de La, et de deux dans Lp, remonte jusqu'à la confusion mentionnée dans [p. 311](/en/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sad_Dar_48#p311), note 1, et était évidemment due à cette confusion.
+[^4]: (361:4) B29, J15 ajoutent « et de faire du bien à chacun. » Dans La, ce chapitre était à l'origine numéroté XCIX, et le chap. XLIX a été inséré après lui, et numéroté C. Dans Lp, il était numéroté XCVIII, et apparaît à nouveau comme chap. C, tandis que le chap. XCIX est une répétition de XLIX (qui est numéroté LII dans Lp). La divergence dans la numérotation des chapitres, d'un dans le cas de La, et de deux dans Lp, remonte jusqu'à la confusion mentionnée dans [p. 311](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sad_Dar_48#p311), note 1, et était évidemment due à cette confusion.

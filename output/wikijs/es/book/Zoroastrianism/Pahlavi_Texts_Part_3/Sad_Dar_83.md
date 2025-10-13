@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## TRISTE DAR. CAPÍTULO LXXXIII.
 
-1. El tema octogésimo tercero es que es necesario abstenerse de ayunar. 2. Porque, en nuestra religión, no es apropiado que no se coma nada todos los días, porque sería pecado no hacerlo.
+1\. El tema octogésimo tercero es que es necesario abstenerse de ayunar. 2. Porque, en nuestra religión, no es apropiado que no se coma nada todos los días, porque sería pecado no hacerlo.
 
 3\. Para nosotros, el ayuno consiste en abstenernos de pecar con los ojos, la lengua, los oídos, las manos y los pies. 4. Algunos se esfuerzan por no comer nada en todo el día y se abstienen de comer. 5. Para nosotros también es necesario esforzarnos por no pensar, hablar ni cometer pecado alguno; y es necesario que ninguna mala acción provenga de nuestras manos, lengua, oídos o pies, ya que sería un pecado debido a ellos.
 

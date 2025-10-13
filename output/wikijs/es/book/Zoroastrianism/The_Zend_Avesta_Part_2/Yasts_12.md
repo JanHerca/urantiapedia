@@ -136,7 +136,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## XIV.
 
-21. «Si tú, ¡oh santo Rashnu!, te encuentras en el límite de esta tierra, invocamos y bendecimos a Rashnu. Invoco su amistad hacia este var preparado...»
+21\. «Si tú, ¡oh santo Rashnu!, te encuentras en el límite de esta tierra, invocamos y bendecimos a Rashnu. Invoco su amistad hacia este var preparado...»
 
 ## XV.
 

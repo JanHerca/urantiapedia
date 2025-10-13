@@ -44,7 +44,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 4\. Esto también, que estas tres cosas deben ser realizadas por los hombres, para expulsar al _demonio de la_ corrupción (nasû<i>s</i>) [^4] del cuerpo, para ser firmes en la religión y para realizar buenas obras. 5. Para expulsar al _demonio de la corrupción del cuerpo, es esto: antes de que salga el sol, uno debe lavarse las manos [^5] y la cara con orina de toro y agua; para ser firmes en la religión, es esto: reverenciar al sol [^6]; y para realizar buenas obras, es esto: destruir diversas criaturas nocivas.
 
-6\. Esto también, que las tres mayores preocupaciones de los hombres son: convertir al enemigo en amigo, convertir al malvado en justo, y convertir al ignorante en sabio. 7. Convertir al enemigo en amigo es que, de las riquezas mundanas que uno tiene ante sí, se acuerde de un amigo; convertir al malvado en justo es que, del pecado por el cual se vuelve malvado, uno lo aparta; y convertir al ignorante en sabio es que uno se administre de tal manera que el ignorante aprenda de él.
+6\. Esto también, que las tres mayores preocupaciones de los hombres son: convertir al enemigo en amigo, convertir al malvado en justo, y convertir al ignorante en sabio. 7. Convertir al <span id="p395"><sup><small>[ p. 395 ]</small></sup></span> enemigo en amigo es que, de las riquezas mundanas que uno tiene ante sí, se acuerde de un amigo; convertir al malvado en justo es que, del pecado por el cual se vuelve malvado, uno lo aparta; y convertir al ignorante en sabio es que uno se administre de tal manera que el ignorante aprenda de él.
 
 8\. Esto también, que los caminos de los hombres deben dirigirse principalmente a estos tres lugares: a la morada de los bien informados, a la morada de los buenos y a la morada de los fuegos [^7]. 9. A la morada de los bien informados, para que así uno se vuelva más sabio y la religión se arraigue más en la persona; a la morada de los buenos por esta razón, para que, entre el bien y el mal, renuncie al mal y lleve consigo el bien [^8]; y a la morada de los fuegos por esta razón, para que el demonio espiritual se aleje de él.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 17\. En estos también debe fijarse la atención de los hombres, porque hay remedio para todo menos la muerte, esperanza para todo menos la maldad, todo decaerá [^13] excepto la rectitud, es posible <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> controlar todo menos el temperamento (gôhar), y es posible que todo cambie excepto la providencia divina (bakô-bakhtô).
 
-18\. También se declara que Frê<i>d</i>ûn [^14] quería matar a A<i>z</i>\-i Dahâk [^15], _pero_ Aûharmazd dijo así: 'No lo matéis ahora, porque la tierra se llenará de criaturas nocivas.'
+18\. También se declara que Frê<i>d</i>ûn [^14] quería matar a A<i>z</i>\-i Dahâk [^15], _pero_ Aûharmazd dijo así: «No lo matéis ahora, porque la tierra se llenará de criaturas nocivas.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -104,7 +104,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^7]: (395:1) El templo del fuego.
 
-[^8]: (395:2) Suponiendo que la palabra <i>s</i>apîrîh, 'el bueno', ha sido omitida por error; la oración parece ininteligible sin ella.
+[^8]: (395:2) Suponiendo que la palabra <i>s</i>apîrîh, «el bueno», ha sido omitida por error; la oración parece ininteligible sin ella.
 
 [^9]: (395:3) Véase B. Yt. I, 7.
 
@@ -112,7 +112,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^11]: (396:1) Es decir, el Patit o fórmula de la renuncia (véase Cap. IV, 14).
 
-[^12]: (396:2) Literalmente, 'matado'.
+[^12]: (396:2) Literalmente, «matado».
 
 [^13]: (396:3) M6 termina en este punto, perdiéndose el siguiente folio. El resto del capítulo se ha recuperado de una copia en Bombay, verificada por los manuscritos Pâz. L7 y L22, todos los cuales deben haberse derivado de M6 antes de que perdiera su último folio; mientras que el manuscrito n.° 121 de la colección Ouseley en Oxford, que termina en el mismo punto, debe haber sido escrito después de la pérdida del folio.
 

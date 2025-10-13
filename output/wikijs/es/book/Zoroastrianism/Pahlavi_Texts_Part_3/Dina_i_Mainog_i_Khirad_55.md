@@ -70,4 +70,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (97:3) K43 omite 'todos', y su texto puede traducirse así: 'porque la posición de aquel que es un hombre mal talentoso está en peligro por parte del talentoso'.
 
-[^3]: (97:4) La lectura aê ran<i>g</i>ênd. Nêr. tiene la dudosa lectura airô<i>z</i>ine<i>n</i>d, 'ellos iluminan', y también varias otras variaciones, para producir el siguiente significado: 'no sea que “estos iluminen a _otros_ con la habilidad y el talento que no son míos”, y la vergüenza le sobrevenga ante los buenos y sus ayudantes'.
+[^3]: (97:4) La lectura aê ran<i>g</i>ênd. Nêr. tiene la dudosa lectura airô<i>z</i>ine<i>n</i>d, 'ellos iluminan', y también varias otras variaciones, para producir el siguiente significado: 'no sea que «estos iluminen a _otros_ con la habilidad y el talento que no son míos», y la vergüenza le sobrevenga ante los buenos y sus ayudantes'.

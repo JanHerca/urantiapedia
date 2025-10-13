@@ -120,7 +120,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^13]: (58:9) Av. Takhmô-urupa, le Tahmûras du Shâhnâmah ; il p. 59 passe pour avoir été arrière-petit-fils de Hôshâng, auquel il succéda sur le trône, et pour avoir régné trente ans (voir Bd. XXXI, 2, XXXIV, 4). Écrit Takhmôrî<i>d</i>ŏ dans TD2.
 
-[^14] : (59 : 1) Voir Râm Yt. 12, Zamyâd Yt. 29.
+[^14]: (59 : 1) Voir Râm Yt. 12, Zamyâd Yt. 29.
 
 [^15]: (59:2) Av. Yima khshaêta, 'Yim le [splendide](errata_htm.html);' il était un frère de son prédécesseur, Tâkhmorup, et le Bundahi<i>s</i> déclare qu'il régna six cent seize ans et six mois dans la gloire, et cent ans dans la clandestinité (voir Chap. VIII, 27, Bd. XXXI, 3, XXXIV, 4).
 
@@ -144,7 +144,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^25]: (60:5) Ou, peut-être, « comme un substitut d'un vieil homme ». Ce quatrième avantage ne se trouve que dans TD2, où le texte est le suivant : « <i>K</i>ahârûm, amata<i>s</i> gôspend pavan gôharî<i>k</i>\-î pîr va<i>l</i> <i>s</i>êdân lâ. yehabûntô. »
 
-[^26] : (61:1) Voir Chap. VIII, 29.
+[^26]: (61:1) Voir Chap. VIII, 29.
 
 [^27]: (61:2) Le démon de la colère (voir Chap. II, 115).
 
@@ -166,7 +166,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^36]: (62:2) L19 a 'enfer'. Ce Dû<i>g</i>akŏ pourrait éventuellement être destiné au Du<i>z</i>akô de Vend. I, 34, dont Vaêkereta était la principale colonie, et cette dernière est identifiée à Kâ<i>v</i>ûl (Kâbul) par les traducteurs pahlavi. Le nom peut aussi se lire Gan<i>g</i>akŏ, ce qui pourrait être identifié à Canzaca, mais cela correspondrait moins bien à la légende, évoquée dans le texte, qui raconte comment Mânû<i>s</i><i>k</i>îhar, s'étant enfermé dans la forteresse imprenable d'Âmul au Taparistân, ne put être conquis par Frâsîyâk, qui fut contraint de conclure un accord selon lequel tout le pays situé à une portée de flèche à l'est du mont Dimâvand resterait soumis à Mânû<i>s</i><i>k</i>îhar. La flèche fut tirée et poursuivie son vol de l'aube jusqu'à midi, puis elle tomba sur la rive de l'Oxus, fleuve désormais considéré comme la frontière des Iraniens. Cette frontière inclurait entièrement tout le territoire entre Taparistân et Kâboul mentionné dans le texte. Dans le Bd. XXXI, 21 Le succès de Mânû<i>s</i><i>k</i>îhar est attribué à une dispute entre Frâsîyâk et son frère, Aghrêra<i>d</i>.
 
-[^37] : (62:3) Voir Chap. VIII, 29 n.
+[^37]: (62:3) Voir Chap. VIII, 29 n.
 
 [^38]: (62:4) L19 a « tel qui a été fait la portion (pa<i>d</i>mânŏ) de Frâsîyâk. »
 

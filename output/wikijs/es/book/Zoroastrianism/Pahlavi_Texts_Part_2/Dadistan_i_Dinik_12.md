@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 1\. La undécima pregunta es la que planteas así: ¿El crecimiento de una buena obra erradica el pecado igual que la buena obra original, o no?
 
-2. La respuesta es esta: el crecimiento lo erradica, como sucede con la buena obra que expia el pecado; se realizará como retribución por el pecado, y erradica el pecado, mencionado especialmente en el Apocalipsis [^1]. 3. «Entonces, el lugar de su otra buena obra es evidentemente el alma; y, para estar con el pecado en su origen, permanece y se tiene en cuenta». 4. «Mediante las buenas obras y el crecimiento de estas se obtiene la recompensa del alma, para que realice esas buenas obras en expiación por el pecado». 5. Y respecto al pecado erradicado se dice: «Una buena obra original erradica el pecado original [^2], y el crecimiento de una buena obra erradica el crecimiento de un pecado».
+2\. La respuesta es esta: el crecimiento lo erradica, como sucede con la buena obra que expia el pecado; se realizará como retribución por el pecado, y erradica el pecado, mencionado especialmente en el Apocalipsis [^1]. 3. «Entonces, el lugar de su otra buena obra es evidentemente el alma; y, para estar con el pecado en su origen, permanece y se tiene en cuenta». 4. «Mediante las buenas obras y el crecimiento de estas se obtiene la recompensa del alma, para que realice esas buenas obras en expiación por el pecado». 5. Y respecto al pecado erradicado se dice: «Una buena obra original erradica el pecado original [^2], y el crecimiento de una buena obra erradica el crecimiento de un pecado».
 
 <figure class="table chapter-navigator">
   <table>

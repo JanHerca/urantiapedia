@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO V.
 
-Español Cuando de la misma manera, e igualmente opresivamente, como sus criaturas (de Aûharmazd) fueron desfiguradas, entonces a través de ese mismo deterioro su propia gran gloria fue exhibida; pues mientras él entró en el cielo [^1] él mantiene el espíritu del cielo, como un guerrero intrépido que se ha puesto una armadura de metal [^2]; y el cielo en su fortaleza [^3] dijo estas palabras apresuradas y engañosas a Aharman, así: 'Ahora cuando hayas entrado yo no te dejaré volver;' _y_ lo obstruyó hasta que Aûharmazd preparó otra muralla, que es más fuerte, alrededor del cielo, _que_ se llama 'entendimiento recto' (ashôk âkâsîh). 2. Y él dispuso a los espíritus guardianes [^4] de los justos que son guerreros alrededor de esa muralla, montados en caballos y lanza en mano, de tal manera que el cabello en la cabeza; y adquirieron la apariencia de guardias de prisión que vigilan una prisión desde afuera y no entregarían los límites exteriores a un enemigo que descendía desde adentro.
+Español Cuando de la misma manera, e igualmente opresivamente, como sus criaturas (de Aûharmazd) fueron desfiguradas, entonces a través de ese mismo deterioro su propia gran gloria fue exhibida; pues mientras él entró en el cielo [^1] él mantiene el espíritu del cielo, como un guerrero intrépido que se ha puesto una armadura de metal [^2]; y el cielo en su fortaleza [^3] dijo estas palabras apresuradas y engañosas a Aharman, así: «Ahora cuando hayas entrado yo no te dejaré volver;» _y_ lo obstruyó hasta que Aûharmazd preparó otra muralla, que es más fuerte, alrededor del cielo, _que_ se llama «entendimiento recto» (ashôk âkâsîh). 2. Y él dispuso a los espíritus guardianes [^4] de los justos que son guerreros alrededor de esa muralla, montados en caballos y lanza en mano, de tal manera que el cabello en la cabeza; y adquirieron la apariencia de guardias de prisión que vigilan una prisión desde afuera y no entregarían los límites exteriores a un enemigo que descendía desde adentro.
 
 3\. Inmediatamente, Aharman intentó regresar a su completa oscuridad, pero no encontró salida; y recapituló, con aparente recelo, sus temores sobre la dignidad que surgiría con la aparición de la renovación del universo al final de los nueve mil años.
 
@@ -74,12 +74,12 @@ Español Cuando de la misma manera, e igualmente opresivamente, como sus criatur
 
 [^2]: (167:2) Compárese Bund. VI, 2.
 
-[^3]: (167:3) O 'signos zodiacales', porque bûr<i>g</i>ŏ significa ambos.
+[^3]: (167:3) O «signos zodiacales», porque bûr<i>g</i>ŏ significa ambos.
 
 [^4]: (167:4) Abajo. VI, 3, 4.
 
 [^5]: (167:5) Esta cita de los Gâthas proviene del Yasna pahlavi XXX, 4, y concuerda con el texto pahlavi, que aparece en el antiguo manuscrito de Dastûr, pág. 168, Jâmâspji, del Yasna en Bombay, casi tan fielmente como la edición de Spiegel. Parece, por lo tanto, que Dâ<i>d</i>\-sparam utilizó la misma traducción pahlavi del Yasna que los parsis utilizan actualmente.
 
-[^6]: (168:1) El manuscrito aquí omite las palabras 'a través de este propósito', por error.
+[^6]: (168:1) El manuscrito aquí omite las palabras «a través de este propósito», por error.
 
-[^7]: (168:2) La palabra âr<i>d</i>îk, que Dâ<i>d</i>\-sparam usa en lugar de kharah, 'conflicto', del Bund. V, 6, VI, 1, etc., puede estar conectada con Pers. ârd, 'ira'.
+[^7]: (168:2) La palabra âr<i>d</i>îk, que Dâ<i>d</i>\-sparam usa en lugar de kharah, «conflicto», del Bund. V, 6, VI, 1, etc., puede estar conectada con Pers. ârd, «ira».

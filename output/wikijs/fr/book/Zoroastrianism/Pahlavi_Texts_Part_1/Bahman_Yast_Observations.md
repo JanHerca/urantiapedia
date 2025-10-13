@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 ## OBSERVATIONS.
 
-1-5. (Le même que sur [p. 2](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Bundahis_1#p2).)
+1-5. (Le même que sur [p. 2](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_1/Bundahis_1#p2).)
 
 6\. Les abréviations utilisées sont : Av. pour Avesta. Bund. pour Bundahi<i>s</i>, tel que traduit dans ce volume. Dâ<i>d</i>. pour Dâ<i>d</i>istân-i Dînîk. Gr. pour grec. Haug's Essays, pour Essays on the Sacred Language, Writings, and Religion of the Parsis, par Martin Haug, 2e édition. Huz. pour Huzvâri<i>s</i>. Pahl. pour Pahlavi. Pâz. pour Pâzand. Pers. pour persan. Sans. pour sanskrit. Sls. pour Shâyast la-shâyast, tel que traduit dans ce volume. SZS. pour Selections of Zâ<i>d</i>\-sparam, tel que traduit dans ce volume. Vend. pour Vendîdâd, éd. Spiegel. Yas. pour Yasna, éd. Spiegel. Yt. pour Ya<i>s</i>t, éd. Westergaard.
 

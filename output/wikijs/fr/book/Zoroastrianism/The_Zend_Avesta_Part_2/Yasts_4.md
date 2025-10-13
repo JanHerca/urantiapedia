@@ -112,7 +112,7 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 ## Notes de bas de page
 
-[^262] : 48:4 Vend. XXII, 20 \[54\]
+[^262]: 48:4 Vend. XXII, 20 \[54\]
 
 [^263]: 48:5 Comme ci-dessus, [p. 22](../Yasts_1#p22) et notes.
 
@@ -132,11 +132,11 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 [^274]: 50:4 Sic; cf. § 2.
 
-[^275] : 50:5 Starâi ; cf. Études Iraniennes, II, 135.
+[^275]: 50:5 Starâi ; cf. Études Iraniennes, II, 135.
 
 [^276]: 50:6 Comment reconnaît-on le méchant du fidèle ?
 
-[^277] : 50:7 Marâo : Phl. ô<i>s</i>môrît, Sansk. adhésif; safarûnît, poshayati (pustakayati ? Yasna XIX, 6 \[9\]).
+[^277]: 50:7 Marâo : Phl. ô<i>s</i>môrît, Sansk. adhésif; safarûnît, poshayati (pustakayati ? Yasna XIX, 6 \[9\]).
 
 [^278]: 50:8 Les sillons pour la purification de Bareshnûm (Vend. IX).
 
@@ -144,7 +144,7 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 [^282]: 51:1 Pour accomplir le Bareshnûm ; cf. Vend. XXII, 20 \[54\].
 
-[^283] : 51:2 Lecture de nasûm kereta ; cf. nasu-kereta (Vend. VII, 26 \[67\]).
+[^283]: 51:2 Lecture de nasûm kereta ; cf. nasu-kereta (Vend. VII, 26 \[67\]).
 
 [^284]: 51:3 Voir ci-dessus, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
 
@@ -154,7 +154,7 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 [^287]: 51:6 Douteux.
 
-[^288] : 51:7 Lecture d'ashava au lieu d'asô ava.
+[^288]: 51:7 Lecture d'ashava au lieu d'asô ava.
 
 [^289]: 51:8 Cf. Yt. XIV, 46.
 

@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. Car Hôrmazd, le bon et propice, a créé un oiseau qu'ils appellent Ashô-zu<i>s</i>t [^9], et ils l'appellent l'oiseau de Bahman [^10]. 9. Ils l'appellent aussi le hibou, et il mange des ongles.
 
-10. Il est absolument nécessaire qu'ils ne les laissent pas intacts, car ils pourraient servir d'armes (silâ'h) aux sorciers [^11]. 11. Et ils ont aussi dit que, s'ils tombent au milieu d'un repas, il y a danger de phtisie pulmonaire.
+10\. Il est absolument nécessaire qu'ils ne les laissent pas intacts, car ils pourraient servir d'armes (silâ'h) aux sorciers [^11]. 11. Et ils ont aussi dit que, s'ils tombent au milieu d'un repas, il y a danger de phtisie pulmonaire.
 
 <figure class="table chapter-navigator">
   <table>
@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (275:2) Une forme particulière de prière.
 
-[^3] : (275 : 3) Voir Mkh. XXVII, 70 n.
+[^3]: (275 : 3) Voir Mkh. XXVII, 70 n.
 
 [^4]: (275:4) B29 omet ces onze mots.
 

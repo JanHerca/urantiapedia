@@ -150,7 +150,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^34]: (103:3) Comme Va<i>d</i>ak est dite (Dd. LXXII, 5) avoir été la mère de Dahâk, ce terme peut être un matronymique impliquant « fils de Va<i>d</i>ak ».
 
-[^35] : (103:4) Voir Chap. VIII, 29 n.
+[^35]: (103:4) Voir Chap. VIII, 29 n.
 
 [^36]: (103:5) Cette section est beaucoup modifiée dans la version Pâzand, mais le sens général est le même.
 

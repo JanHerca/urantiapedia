@@ -155,7 +155,7 @@ Traduction.
 
 [^150]: 30:5 Notez qu'Ahura est sans aucun doute appelé speni<i>s</i>ta mainyu. Ailleurs, nous devons parfois traduire par « Son esprit généreux ».
 
-[^151] : 31 : 1 Zak î sakht sag nihûftŏ âsmâni<i>k</i>. Ner. Gâ<i>dh</i>ataram\* âkâ<i>s</i>a<i>m</i> dadau.
+[^151]: 31 : 1 Zak î sakht sag nihûftŏ âsmâni<i>k</i>. Ner. Gâ<i>dh</i>ataram\* âkâ<i>s</i>a<i>m</i> dadau.
 
 [^152]: 31:2 'Qui par des actions vraiment bonnes satisfait pieusement Ahura.' Il est à noter que fraore<i>t</i> n'est pas traduit indépendamment par les Pahlavi. Il est librement inclus dans avŏ Aûharmazd ; et pourtant, certains supposent qu'il s'agit d'une traduction mot à mot ! Ner. praka<i>t</i>âi<i>s</i><i>k</i>a karmabhi<i>h</i>.
   Verbatim. De ces deux esprits, il s'est choisi lui-même, celui qui était le plus mauvais, celui qui commettait les pires actes. L'Ordre Juste (accusatif) a choisi l'esprit le plus généreux, celui qui revêt les pierres les plus solides, ceux qui contenteront Ahura par des actions réelles, croyant Mazda.
