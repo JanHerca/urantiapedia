@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE XLV.
 
-1\. Des trois divisions du Hâ<i>d</i>ôkht [^1], tel qu'il existe dans ses 133 sections, la première est de treize [^2] sections, et contient des détails sur la nature de la récitation de l'Ahunavair [^3], qui est le bénéfice spirituel de le chanter à haute voix, et tout ce qui est sur le même sujet [^4]. 2. Conseils sur le choix et la conservation d'un grand prêtre spirituel et profane, accomplissant tous les devoirs du grand prêtre, et entretenant même ceux de divers grands prêtres.
+1\. Des trois divisions du Hâ<i>d</i>ôkht [^1], tel qu'il existe dans ses 133 sections, la première est de treize [^2] sections, et contient des détails sur la nature de la récitation de l'Ahunavair [^3], qui est le bénéfice spirituel de le chanter à haute voix, et tout ce qui est sur le même sujet [^4]. 2. Conseils sur le choix et la conservation <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> d'un grand prêtre spirituel et profane, accomplissant tous les devoirs du grand prêtre, et entretenant même ceux de divers grands prêtres.
 
 3\. Des vingt et une chefferies, spirituellement par Aûha<i>r</i>ma<i>z</i><i>d</i> et matériellement par Zaratû<i>s</i>t, par lesquelles existent le cérémonial des êtres sacrés _et_ le gouvernement des membres de la communauté (dâhmânŏ râyînî<i>d</i>ârîh). 4. Des devoirs dans les cinq périodes [^5] du jour et de la nuit, chacune séparément, et du jugement-pont_ de celui qui crie [^6] dans la cérémonie d'une fête saisonnière [^7] ; _de même_ de celui qui ne pourvoit pas aux préparatifs de la fête d'une fête saisonnière, et qui s'inquiète aussi (sû<i>d</i>akŏ) dans d'autres cérémonies des êtres sacrés.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 9\. La dignité d'un homme contenu (vandak) par l'autorité, la dévotion de sa vie et de son corps aux êtres sacrés, aux bons dirigeants, et leur examen et satisfaction ; _aussi_ la bénédiction et les paroles de consolation qui sont les plus efficaces pour chasser l'affliction due au démon. 10. De la créativité et de l'omniscience agréables à tous, de toute préséance [^8], du leadership, de la prévoyance [^9], de la libéralité louable, de la perspicacité (vênâkîh), et de toute cause et effet propres à la droiture ; l'individualité (khû<i>d</i>îh) de la droiture, l'opposition aux démons de la loi d'Aûha<i>r</i>ma<i>z</i><i>d</i>, et aussi beaucoup d'autres informations dans la même section.
 
-11\. La division du milieu est composée de 102 sections contenant des détails sur la diligence spirituelle et profane, la direction des diligents et leurs moyens puissants, ainsi que toutes les actions de justice antérieures. 12. La justice qui attise la résolution est la récompense du mérite, chacun pour chacun, et est fournie par elle pour ce que l'on mentionne ainsi : « C'est le Hadith qui est le maintien de la justice, afin qu'il puisse rendre la justice plus durable dans le corps d'un homme. »
+11\. La _division_ du milieu est composée de 102 sections _contenant_ des détails sur la diligence spirituelle et profane, la direction des diligents et leurs moyens puissants, ainsi que toutes les actions de justice antérieures. 12. La justice qui attise la résolution est la récompense du mérite, chacun pour chacun, et est fournie par elle pour ce que l'on mentionne ainsi : « C'est le Hadith qui est le maintien de la justice, afin qu'il puisse rendre la justice plus durable dans le corps d'un homme. »
 
 13\. La dernière _division_ est _de_ dix-neuf sections _contenant_ un remède sûr, c'est-à-dire un remède dont la prononciation à haute voix par les fidèles est une ressource principale (<i>a</i>fzârtûm) pour les créatures des êtres sacrés. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> 14. Également la nature des paroles pleines d'humilité (pûrpâstîh), bienveillantes, très choisies, _et_ adaptées _à_ ce que l'on_ mentionne ainsi : « Je révère ce chef, le bienfaisant _et_ éminent Hâ<i>d</i>ôkht, de qui vient le soutien de la force de chaque parole de Zaratû<i>s</i>t en laquelle ils se confient. »
 
@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^5]: (167:1) Voir Chap. XXIX, 9.
 
-[^6]: (167:2) Lire ba<i>r</i>â drâyê<i>d</i>ŏ, mais cela peut être ba<i>r</i>â girâyê<i>d</i>ŏ, 'est zélé'.
+[^6]: (167:2) Lire ba<i>r</i>â drâyê<i>d</i>ŏ, mais cela peut être ba<i>r</i>â girâyê<i>d</i>ŏ, « est zélé ».
 
 [^7]: (167:3) Voir Chap. VII, 1.
 

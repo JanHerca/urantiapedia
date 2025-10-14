@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 _Sakâ<i>d</i>ûm Nask_.
 
-1\. Une section est le Zîyânakistân ('_code des lésés_'), qui traite de _tout_ être animé — et de ce qui _est_ inanimé — lésé par le fait de vivre, de donner, de recevoir ou de rendre légalement ; le devoir de protection et de soin pour les deux espèces ; la nourriture, <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> l'extension, la subsistance, la stimulation, l'établissement, la consolation et aussi la gratification d'un être animé ; et_ la rétribution du péché dû à l'illégalité concernant les mêmes questions.
+1\. Une section est le Zîyânakistân (« _code des lésés_ »), qui traite de _tout_ être animé — et de ce qui _est_ inanimé — lésé par le fait de vivre, de donner, de recevoir ou de rendre légalement ; le devoir de protection et de soin pour les deux espèces ; la nourriture, <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> l'extension, la subsistance, la stimulation, l'établissement, la consolation et aussi la gratification d'un être animé ; et_ la rétribution du péché dû à l'illégalité concernant les mêmes questions.
 
 2\. À propos d'un exemple de cadeau endommagé, _dans_ le_ cas_ où _on_ donne la chose _à_ un pauvre (ga<i>d</i>âk) à un moment fixé, _et_ lorsqu'à un moment non fixé ; _et_ dans_ le_ cas_ où _on_ lui donne une augmentation, où _et_ quelle est cette augmentation. 3. Une décision concernant un berger lorsqu'on doit lui rapporter _un_ animal_ [^1], lorsqu'il est endommagé, avant son_ partage ; ce qu'il obtient pour l'_animal_ endommagé lorsqu'il n'est pas rendu au moment du partage ; lorsque le devoir à ce sujet est dicté par un _homme_ religieux, et lorsqu'il le garde en _sa_ possession.
 

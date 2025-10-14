@@ -92,7 +92,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^9]: (27:3) Av. Yimô khshaêtô, le <i>G</i>amshê<i>d</i> du Shâhnâmah; le frère et successeur de Tâkhmô-rupô (voir Bd. XXXI, 3-5 XXXIV, 4).
 
-[^10]: (27:4) Appelé aussi <i>A</i><i>z</i>\-î Dahâk, Av. a<i>z</i>i<i>s</i> dahâkô, 'serpent destructeur', nom appliqué à une dynastie étrangère, considérée comme un roi unique qui conquit Yim et lui succéda, étant traditionnellement son cousin au troisième degré une fois éloigné (voir Bd. XXXI, 5, 6, XXXIV, 5). De plus amples détails sont donnés dans Bk. IX, Chap. XXI, 1-13. Dahâk fut le dernier souverain de toutes les sept régions, à l'exception de Kâî-Ûs.
+[^10]: (27:4) Appelé aussi <i>A</i><i>z</i>\-î Dahâk, Av. a<i>z</i>i<i>s</i> dahâkô, « serpent destructeur », nom appliqué à une dynastie étrangère, considérée comme un roi unique qui conquit Yim et lui succéda, étant traditionnellement son cousin au troisième degré une fois éloigné (voir Bd. XXXI, 5, 6, XXXIV, 5). De plus amples détails sont donnés dans Bk. IX, Chap. XXI, 1-13. Dahâk fut le dernier souverain de toutes les sept régions, à l'exception de Kâî-Ûs.
 
 [^11]: (27:5) Voir Bd. XV, 26-28.
 
@@ -104,7 +104,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^15]: (28:3) Il s'agit peut-être du célèbre personnage de ce nom, mentionné dans Pahl. Vend. XX, 4, comme un exemple d'opulence. Le Shâhnâmah ne parle que des trois filles du roi du Yaman.
 
-[^16]: (28:4) Ou 'pillage' ; mais Tû<i>g</i>\-hômônd ici, et Tû<i>g</i>âvand dans § 12, peuvent peut-être signifier 'descendant de Tû<i>g</i>', car Frâsîy<i>â</i>v était le sixième descendant de Tû<i>g</i> (voir Bd. XXXI, 14).
+[^16]: (28:4) Ou « pillage » ; mais Tû<i>g</i>\-hômônd ici, et Tû<i>g</i>âvand dans § 12, peuvent peut-être signifier « descendant de Tû<i>g</i> », car Frâsîy<i>â</i>v était le sixième descendant de Tû<i>g</i> (voir Bd. XXXI, 14).
 
 [^17]: (28:5) On dit qu'il était un arrière-petit-fils de Mânû<i>s</i><i>k</i>îhar (voir Bd. XXXI, 23).
 
@@ -126,7 +126,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^26]: (29:6) Douteux ; si le second nom est un patronyme, la combinaison suggère le Yôi<i>s</i>tô yô Fryânanãm de Yt. V, 8,, XIII, 120, à propos duquel l'histoire de Yô<i>s</i>t-î Fryânŏ est racontée. Aucun fils de p. 30 Nô<i>d</i>ar portant un nom correspondant n'est connu, de sorte que nous n'avons pas affaire à une généalogie complète.
 
-[^27]: (30:1) Probablement destiné à Spend-dad, et nous devrions peut-être lire 'Vohûmanô, fils de Spend-dâ<i>d</i>,' dont le règne est célébré comme l'âge d'argent dans Byt. II, 17 (voir aussi Bd. XXXI, 29, XXXIV, 8).
+[^27]: (30:1) Probablement destiné à Spend-dad, et nous devrions peut-être lire « Vohûmanô, fils de Spend-dâ<i>d</i>, » dont le règne est célébré comme l'âge d'argent dans Byt. II, 17 (voir aussi Bd. XXXI, 29, XXXIV, 8).
 
 [^28]: (30:2) Ce nom, ou surnom, est donné dans Pâzand, et se trouve également dans Yt. XIII, 106, comme suit: 'nous révérons l'esprit gardien du juste Avarethrab<i>a</i>u, fils de Râ<i>s</i>tare-vagha<i>n</i><i>t</i>.' Si cette dernière épithète était un surnom de Âtû<i>r</i>\-pâ<i>d</i>, le célèbre premier ministre de Shahpûhar II, comme le texte l'indique, nous devons conclure que la première épithète était un surnom de son fils unique, Zaratû<i>s</i>t, mentionné dans son Pandnâmak. Ces noms de famille, et d'autres de leur époque, auraient pu être facilement interpolés dans la longue liste de noms grossiers inclus dans le Fravardîn Ya<i>s</i>t, lorsque les livres de l'Avesta furent révisés sous le règne de Shahpûhar II, et que les Nasks furent « comptés », comme indiqué dans le quatrième livre du Dinka<i>r</i><i>d</i> (voir l'Essai de Haug sur Pahlavi, pp. 146, 152).
 

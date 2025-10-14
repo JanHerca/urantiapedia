@@ -74,9 +74,9 @@ _Sûdkar Nask_.
 
 [^3]: (198:2) Véase el libro. VIII, cap. XXXV, 13.
 
-[^4]: (198:3) Av. Ga<i>n</i>darewa de Yt. V, 38, XV, 28, XIX, 41; el 'demonio acuático' de Mkh. XXVII, 50.
+[^4]: (198:3) Av. Ga<i>n</i>darewa de Yt. V, 38, XV, 28, XIX, 41; el «demonio acuático» de Mkh. XXVII, 50.
 
-[^5]: (198:4) Se lee hûn Ve<i>s</i>kŏ, los Av. hunavô Vaêskaya de Yt. V, 54, 57, quienes eran enemigos del guerrero Tusa; pero los hunavô de Nivika y de los Dâ<i>s</i>tayâni fueron asesinados por Keresâspa (véase Yt. XIX, 41). También es posible leer khûnŏ-dâkŏ, 'productor de sangre'.
+[^5]: (198:4) Se lee hûn Ve<i>s</i>kŏ, los Av. hunavô Vaêskaya de Yt. V, 54, 57, quienes eran enemigos del guerrero Tusa; pero los hunavô de Nivika y de los Dâ<i>s</i>tayâni fueron asesinados por Keresâspa (véase Yt. XIX, 41). También es posible leer khûnŏ-dâkŏ, «productor de sangre».
 
 [^6]: (198:5) Cuando se convierte en un demonio de la tormenta, el vatô-daêva de Vend. X, 14, en lugar de ser el ángel del viento útil.
 
@@ -84,6 +84,6 @@ _Sûdkar Nask_.
 
 [^8]: (199:1) Las palabras entre paréntesis aparecen solo en K; su significado, sin embargo, se da en el Pahlavi Rivâyat que acompaña a Dd. y se cita en SBE, vol. xviii, pp. 379, 380. La enemistad del fuego hacia Keresâsp se debía a que se había extinguido (cuando se encendió sobre la serpiente Srôbar) al volcar el caldero de Keresâsp, como se describe en Yas. IX, 11, y Yt. XIX, 40.
 
-[^9]: (199:2) Av. g<i>e</i>us urva, 'el alma del buey', el espíritu que se apartó del buey primigenio cuando el espíritu maligno lo atacó; se supone que es la protectora celestial de todos los animales, y también se la llama Drvâspa (véase Yt. IX, 1; Bd. III, 24, 18, IV, 2-5; Sls. XXII, 14).
+[^9]: (199:2) Av. g<i>e</i>us urva, «el alma del buey», el espíritu que se apartó del buey primigenio cuando el espíritu maligno lo atacó; se supone que es la protectora celestial de todos los animales, y también se la llama Drvâspa (véase Yt. IX, 1; Bd. III, 24, 18, IV, 2-5; Sls. XXII, 14).
 
 [^10]: (199:3) Una localidad intermedia entre el cielo y el infierno, donde las almas de aquellos cuyos pecados y buenas obras se equilibran exactamente, permanecen en un estado pasivo e inamovible hasta la resurrección (ver Sls. VI, 2; Mkh. VII, 18, XII, 14; Dd. XX, 3).

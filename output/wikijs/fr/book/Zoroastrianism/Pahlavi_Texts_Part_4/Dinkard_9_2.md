@@ -82,6 +82,6 @@ _Profitez Nask_.
 
 [^4]: (174:1) Sls. XIX, 14 a « treize ».
 
-[^5]: (174:2) Ainsi dans les deux manuscrits, mais ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/17400.jpg) ayô<i>v</i>, 'ou', est plus probable que ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/17401.jpg) aêvakŏ, 'et un'.
+[^5]: (174:2) Ainsi dans les deux manuscrits, mais ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/17400.jpg) ayô<i>v</i>, « ou », est plus probable que ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/17401.jpg) aêvakŏ, « et un ».
 
 [^6]: (174:3) Voir Livre VIII, Chap. I, 7.

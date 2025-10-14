@@ -84,6 +84,6 @@ _Sû<i>d</i>kar Nask_.
 
 [^8]: (199:1) Les mots entre parenthèses n'apparaissent que dans K ; leur signification est cependant donnée dans le Pahlavi Rivâyat accompagnant Dd. et cité dans SBE, vol. xviii, pp. 379, 380. L'inimitié du feu envers Keresâsp était due au fait qu'il avait été éteint (lorsqu'il avait été allumé sur le serpent Srôbar) par le renversement du chaudron de Keresâsp, comme décrit dans Yas. IX, 11, et Yt. XIX, 40.
 
-[^9]: (199:2) Av. g<i>e</i>us urva, 'l'âme du bœuf', l'esprit qui quitta le bœuf primitif lorsque le mauvais esprit l'attaqua ; elle est supposée être la protectrice céleste de tous les animaux, et est également appelée Drvâspa (voir Yt. IX, 1 ; Bd. III, 24, 18, IV, 2-5 ; Sls. XXII, 14).
+[^9]: (199:2) Av. g<i>e</i>us urva, « l'âme du bœuf », l'esprit qui quitta le bœuf primitif lorsque le mauvais esprit l'attaqua ; elle est supposée être la protectrice céleste de tous les animaux, et est également appelée Drvâspa (voir Yt. IX, 1 ; Bd. III, 24, 18, IV, 2-5 ; Sls. XXII, 14).
 
 [^10]: (199:3) Une localité intermédiaire entre le ciel et l'enfer, où les âmes de ceux dont les péchés et les bonnes œuvres s'équilibrent exactement restent dans un état passif et immobile jusqu'à la résurrection (voir Sls. VI, 2; Mkh. VII, 18, XII, 14; Dd. XX, 3).

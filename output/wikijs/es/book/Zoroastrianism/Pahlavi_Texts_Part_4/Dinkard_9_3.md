@@ -76,6 +76,6 @@ Ashem vohû vahi<i>s</i>tem astî,
 u<i>s</i>tâ astî; u<i>s</i>tâ ahmâi
 hya<i>d</i> ashâi vahi<i>s</i>tâi ashem.
 
-\[el párrafo continúa\] Esto puede traducirse de la siguiente manera: 'La rectitud es el mayor bien, es una bendición; una bendición _sea_ para aquello que _es_ rectitud para la rectitud perfecta.'
+\[el párrafo continúa\] Esto puede traducirse de la siguiente manera: «La rectitud es el mayor bien, es una bendición; una bendición _sea_ para aquello que _es_ rectitud para la rectitud perfecta.»
 
 Pero la versión Pahlavi lo explica así: «La rectitud es la excelencia perfecta [la rectitud de cualquier excelencia es buena]. Feliz esa rectitud y feliz también ese hombre virtuoso que es causa de la rectitud, la rectitud que es perfecta [es decir, que cumplirá con el deber y las buenas obras]».

@@ -78,7 +78,7 @@ _Hûspâram Nask_.
 
 [^1]: (107:1) El texto Pahl. es pavan mamanîh va-ka<i>d</i>âmîh-i namî<i>d</i>ŏ. Es posible que namî<i>d</i>ŏ, «humedecido», pueda significar numû<i>d</i>ŏ, «indicado»; pero la frase completa es más o menos confusa.
 
-[^2]: (107:2) Escrito 4 + 2 (= seis) en el manuscrito, pero esta es una manera muy inusual de escribir 'seis'; es más probable que debamos leer 4 + 3, el modo usual de escribir 'siete'. 'Siete malhechores de pecado de una clase atroz' se detallan en Dd. LXXII, 2-9.
+[^2]: (107:2) Escrito 4 + 2 (= seis) en el manuscrito, pero esta es una manera muy inusual de escribir «seis»; es más probable que debamos leer 4 + 3, el modo usual de escribir «siete». «Siete malhechores de pecado de una clase atroz» se detallan en Dd. LXXII, 2-9.
 
 [^3]: (107:3) Pahl. bâîô<i>d</i>ôk-zê<i>d</i>ŏ, véase el cap. XIX, 1 n.
 

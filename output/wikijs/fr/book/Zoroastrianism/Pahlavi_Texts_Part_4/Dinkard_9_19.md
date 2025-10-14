@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 _Sû<i>d</i>kar Nask_.
 
-1\. Le dix-huitième fargard<i>d</i>, A<i>d</i>\-mâ-yavâ [^1], est <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> à propos de la grossesse du démon de celui qui a mangé et bavardé dans son péché envers Khû<i>r</i>da<i>d</i> et Amû<i>r</i>da<i>d</i> [^2], ou qui fait de l'eau _en_ ​​se tenant debout [^3]) ou qui voit insouciamment _son_ sperme. 2. Et la coquine [^4] qui renverse (gûyê<i>d</i>ŏ) quoi que ce soit après le coucher du soleil (hûk-frâshmôk-dâ<i>d</i>), _ou_ qui disperse un morceau (dânar) _de_ nourriture vers le nord, _la_ nuit, sans réciter l'Ahunavair [^5].
+1\. Le dix-huitième fargard<i>d</i>, A<i>d</i>\-mâ-yavâ [^1], est <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> à propos de la grossesse du démon de celui qui a mangé et bavardé dans son péché envers Khû<i>r</i>da<i>d</i> et Amû<i>r</i>da<i>d</i> [^2], ou qui fait de l'eau _en_ ​​se tenant debout [^3] ou qui voit insouciamment _son_ sperme. 2. Et la coquine [^4] qui renverse (gûyê<i>d</i>ŏ) quoi que ce soit après le coucher du soleil (hûk-frâshmôk-dâ<i>d</i>), _ou_ qui disperse un morceau (dânar) _de_ nourriture vers le nord, _la_ nuit, sans réciter l'Ahunavair [^5].
 
 3\. Ceci aussi, que seule l'âme est constamment désirable pour le corps, même par cela seul, que ce corps périssable [^6] \[est un état mondain de justice, et, en se réveillant (lâlâ-payami<i>s</i>nîh) [^7] alors que tu voudrais dormir, la justice\] est en avance alors que tu aurais voulu te retirer ; et <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> la justice, en se levant, est comme toi à chaque arrivée et départ ; en allant chercher et en restituant le souffle, elle deviendra une bonne récompense, une récompense abondante, et la récompense de la justice. 4. Lorsque le corps agira ainsi, l'âme se réjouira et prononcera une bénédiction pour le corps ainsi : « Heureux puisse-t-il être pour toi, ô corps périssable ! 5. Et lorsque le corps n'accepte pas le progrès (<i>a</i>frâs) de l'âme, et dit que c'est un mauvais progrès en s'éveillant, un mauvais progrès en avançant, \[et un mauvais progrès vers le haut, l'âme est un démon\]' et offre des paroles \[lamentables\] [^8] ainsi : « Mauvais es-tu, ô corps périssable ! que j'ai rendu nain (ga<i>s</i>ûk), _et_ que j'ai rapproché de la pire existence. »
 
@@ -74,7 +74,7 @@ _Sû<i>d</i>kar Nask_.
 
 [^1]: (206:5) Les trois premiers mots du troisième hâ de la troisième Gâtha (Yas. XLIX, 1), ici écrits a<i>d</i>\-mâ-îyûbŏ en pahlavi.
 
-[^2]: (207:1) Av. haurvatât, 'complétude, ou santé', et ameretât, 'immortalité' ; les archanges qui ont la charge spéciale de l'eau et des plantes, respectivement (voir Sls. XV, 25-29), et dont on dit qu'ils sont lésés par le péché de parler en mangeant et en buvant ces choses (voir Chap. IX, 2).
+[^2]: (207:1) Av. haurvatât, « complétude, ou santé », et ameretât, « immortalité » ; les archanges qui ont la charge spéciale de l'eau et des plantes, respectivement (voir Sls. XV, 25-29), et dont on dit qu'ils sont lésés par le péché de parler en mangeant et en buvant ces choses (voir Chap. IX, 2).
 
 [^3]: (207:2) Polluant ainsi plus de terrain que nécessaire (voir Sls. X, 5).
 

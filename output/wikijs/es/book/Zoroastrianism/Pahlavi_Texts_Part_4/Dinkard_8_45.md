@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## DÎNKA<i>R</i><i>D</i>.—LIBRO VIII. CAPÍTULO XLV.
 
-1\. De las tres divisiones del Hâ<i>d</i>ôkht [^1], tal como existe en sus 133 secciones, la primera consta de trece [^2] secciones y contiene detalles sobre la naturaleza de la recitación del Ahunavair [^3], que es el beneficio espiritual de cantarlo en voz alta, y todo lo que trate sobre el mismo tema [^4]. 2. Consejos sobre la selección y el mantenimiento de un sumo sacerdote espiritual y mundano, el cumplimiento de todos los deberes del sumo sacerdote y el mantenimiento incluso de los de varios sumos sacerdotes.
+1\. De las tres divisiones del Hâ<i>d</i>ôkht [^1], tal como existe en sus 133 secciones, la primera consta de trece [^2] secciones y contiene detalles sobre la naturaleza de la recitación del Ahunavair [^3], que es el beneficio espiritual de cantarlo en voz alta, y todo lo que trate sobre el mismo tema [^4]. 2. Consejos sobre la selección <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> y el mantenimiento de un sumo sacerdote espiritual y mundano, el cumplimiento de todos los deberes del sumo sacerdote y el mantenimiento incluso de los de varios sumos sacerdotes.
 
 3\. Sobre las veintiún jefaturas, espiritualmente a través de Aûha<i>r</i>ma<i>z</i><i>d</i> y materialmente a través de Zaratû<i>s</i>t, mediante las cuales existen el ceremonial de los seres sagrados _y_ el gobierno de los miembros de la comunidad (dâhmânŏ râyînî<i>d</i>ârîh). 4. Sobre los deberes en los cinco períodos [^5] del día y la noche, cada uno por separado, y el juicio puente_\-de aquel que grita [^6] en la ceremonia de un festival estacional [^7]; _igualmente_ de aquel que no provee los preparativos para la fiesta de un festival estacional, y que también se preocupa (sû<i>d</i>akŏ) en otros ceremoniales de los seres sagrados.
 
@@ -42,9 +42,9 @@ dateCreated: 2025-10-10T14:41:43Z
 
 9\. La dignidad de un hombre controlado (vandak) por la autoridad, la devoción de la vida y el cuerpo a los seres sagrados, los buenos gobernantes, y su examen y satisfacción; también las bendiciones y palabras persuasivas que son las más eficaces para aliviar la aflicción causada por el demonio. 10. Acerca de la creatividad y la omnisciencia que todo lo complacen, toda precedencia [^8], liderazgo, previsión [^9], liberalidad digna, perspicacia (vênâkîh), y toda causa y efecto apropiados de la rectitud; la individualidad (khû<i>d</i>îh) de la rectitud, la oposición a los demonios de la ley de Aûha<i>r</i>ma<i>z</i><i>d</i>, y también mucha otra información en la misma sección.
 
-11\. La división intermedia consta de 102 secciones que contienen detalles sobre la diligencia espiritual y mundana, el liderazgo de los diligentes y sus poderosos medios, y todas las obras de rectitud anteriores. 12. La rectitud que impulsa la resolución es la recompensa del mérito, para cada uno, y se proporciona por ella para lo que se menciona así: «Es el Hâ<i>d</i>ôkht el que mantiene la rectitud, para que la haga más duradera en el cuerpo del hombre».
+11\. La _división_ intermedia consta de 102 secciones que _contienen_ detalles sobre la diligencia espiritual y mundana, el liderazgo de los diligentes y sus poderosos medios, y todas las obras de rectitud anteriores. 12. La rectitud que impulsa la resolución es la recompensa del mérito, para cada uno, y se proporciona por ella para lo que se menciona así: «Es el Hâ<i>d</i>ôkht el que mantiene la rectitud, para que la haga más duradera en el cuerpo del hombre».
 
-13\. La última división consta de diecinueve secciones que contienen un remedio confiable, es decir, un remedio cuya pronunciación en voz alta por los fieles constituye un recurso principal (<i>a</i>fzârtûm) para las criaturas de los seres sagrados. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> 14. También la naturaleza de los dichos llenos de humildad (pûrpâstîh), bien favorecidos, muy selectos y adaptados para aquello que se menciona así: «Reverencio a ese jefe, el benéfico y eminente Hâ<i>d</i>ôkht, de quien se sustenta la fuerza de cada palabra de Zaratû<i>s</i>t en la que confían».
+13\. La última _división_ consta de diecinueve secciones que _contienen_ un remedio confiable, es decir, un remedio cuya pronunciación en voz alta por los fieles constituye un recurso principal (<i>a</i>fzârtûm) para las criaturas de los seres sagrados. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> 14. También la naturaleza de los dichos llenos de humildad (pûrpâstîh), bien favorecidos, muy selectos y adaptados para aquello que se menciona así: «Reverencio a ese jefe, el benéfico y eminente Hâ<i>d</i>ôkht, de quien se sustenta la fuerza de cada palabra de Zaratû<i>s</i>t en la que confían».
 
 15\. La excelencia perfecta es lo que es justicia.
 
@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 [^5]: (167:1) Véase Cap. XXIX, 9.
 
-[^6]: (167:2) Leyendo ba<i>r</i>â drâyê<i>d</i>ŏ, pero puede ser ba<i>r</i>â girâyê<i>d</i>ŏ, 'es celoso'.
+[^6]: (167:2) Leyendo ba<i>r</i>â drâyê<i>d</i>ŏ, pero puede ser ba<i>r</i>â girâyê<i>d</i>ŏ, «es celoso».
 
 [^7]: (167:3) Véase Cap. VII, 1.
 

@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## DÎNKA<i>R</i><i>D</i>.—LIBRO VIII. CAPÍTULO IV.
 
-1\. El Bakŏ [^1] _contiene_ detalles sobre la división del relato del primer dicho de la revelación [^2], la primera criatura [^3] _en_ ​​ese dicho, su primera aparición, la adaptación de la criatura y la grandeza _de_ ese dicho que incorpora a la criatura, debido a ello; también, especialmente, la entremezcla del pensamiento (mê<i>d</i>) [^4] con él. 2. Conocimiento muy completo sobre todo, cada uno por separado su propia descendencia, y muchos apéndices tan conectados con él como lo que se dice sobre el Bakŏ [^5], que 'el Bakŏ de la comunidad (dâhmân) se escucha donde se habla para la comunidad', es decir, quienquiera que haga esta buena obra, para él esta buena obra _será_ realizada.
+1\. El Bakŏ [^1] _contiene_ detalles sobre la división del relato del primer dicho de la revelación [^2], la primera criatura [^3] _en_ ​​ese dicho, su primera aparición, la adaptación de la criatura y la grandeza _de_ ese dicho que incorpora a la criatura, debido a ello; también, especialmente, la entremezcla del pensamiento (mê<i>d</i>) [^4] con él. 2. Conocimiento muy completo sobre todo, cada uno por separado su propia descendencia, y muchos apéndices tan conectados con él como lo que se dice sobre el Bakŏ [^5], que «el Bakŏ de la comunidad (dâhmân) se escucha donde se habla para la comunidad», es decir, quienquiera que haga esta buena obra, para él esta buena obra _será_ realizada.
 
 3\. La justicia es la excelencia perfecta.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 [^2]: (13:2) El Ahunavair (ver Cap. II, 2 y Libro IX, Cap. XLVII, 3).
 
-[^3]: (13:3) El Ahû, o 'señor espiritual', que es la primera criatura mencionada en el Ahunavair (véase Libro IX, Cap. XLVII, 4).
+[^3]: (13:3) El Ahû, o «señor espiritual», que es la primera criatura mencionada en el Ahunavair (véase Libro IX, Cap. XLVII, 4).
 
 [^4]: (13:4) Av. maiti, Pâz. mit en Bk. IX, cap. XLVII, 5, de la Av. manás de Yas. XIX, 29 (español).
 

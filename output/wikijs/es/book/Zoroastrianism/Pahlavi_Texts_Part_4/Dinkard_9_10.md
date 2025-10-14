@@ -74,4 +74,4 @@ _Sûdkar Nask_.
 
 [^4]: (185:4) Pahl. saryâ hûnŏ-dahakîh, cuya última palabra indica un Av original. hunu<i>s</i>ta (ver Pahl. Yas. L, 10 b).
 
-[^5]: (185:5) Ambos manuscritos tienen Aharmanŏ, pero éste difiere sólo en su última letra de aharmôk, 'un apóstata', que es la lectura de Dd. LXXII, 9 y más adecuada al contexto.
+[^5]: (185:5) Ambos manuscritos tienen Aharmanŏ, pero éste difiere sólo en su última letra de aharmôk, «un apóstata», que es la lectura de Dd. LXXII, 9 y más adecuada al contexto.

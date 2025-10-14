@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 1\. Le Spend [^1] _contient_ des détails sur l'origine _et_ la_ combinaison _de_ l'_existence_ matérielle_, de l'esprit gardien, _et_ de_ l'âme (nisman) de Zaratû<i>s</i>t ; comment la création de chacun _s'est produite_ dans l'_existence_ spirituelle, et _de_ quelle manière _elle a été_ produite pour l'_existence_ terrestre ; comment _leur_ connexion avec les parents _est née_, la venue des parents ensemble, la combinaison dans la mère, et la naissance de la mère ; _et_ tout ce qui est sur le même sujet. 2. Également sur l'arrivée des deux esprits, le bon _esprit_ pour le développement, et le mauvais _esprit_ pour la destruction ; la victoire _du bon esprit, et l'éducation de Zaratû<i>s</i>t.
 
-3\. Son accession à la maturité, à trente ans, à une conférence avec Aûha<i>r</i>ma<i>z</i><i>d</i> ; et la survenue de sept conférences en dix ans. 4. De nombreuses merveilles, qui lui sont dues, y sont publiées, tout comme il y en a qui, rassemblées et sélectionnées, sont signalées par le manuscrit Dinka<i>r</i><i>d</i> [^2].
+3\. Son accession à la maturité, à trente ans, à une conférence avec Aûha<i>r</i>ma<i>z</i><i>d</i> ; et la survenue <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> de sept conférences en dix ans. 4. De nombreuses merveilles, qui lui sont dues, y sont publiées, tout comme il y en a qui, rassemblées et sélectionnées, sont signalées par le manuscrit Dinka<i>r</i><i>d</i> [^2].
 
 5\. _En_ sept sections (burînŏ), telles que celles appelées Spend, se trouvent les sept enquêtes, _dans_ chaque cas une enquête unique ; _et_ l'octroi des autres Nasks, dans ces sept enquêtes, _se faisait_ par la parole dans chacun des _lieux_ de conférence. 6. À propos des diverses enquêtes, le moment de la séance _et_ du lever _à_ chaque occasion, la nature de la séance des archanges, l'avancée de Zaratû<i>s</i>t à ce conclave domestique (handêmânîh), sa position _en ce lieu, ce qu'il y avait à lui dire, _et_ ce qu'il y avait à lui montrer.
 
@@ -82,7 +82,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^4]: (33:1) Av. <i>k</i>invatô peretu<i>s</i>, la route vers l'autre monde (voir L. IX, Chap. XX, 3).
 
-[^5]: (33:2) Couramment écrit Hûshê<i>d</i>ar, mais [it](errata_htm.html) est une corruption de Av. Ukhshya<i>d</i>\-ereta. Il est le premier des trois fils posthumes de Zaratû<i>s</i>t, qui étaient censés restaurer sa religion et la faire triompher par trois efforts successifs, chacun précédé d'une période d'anarchie (voir Bd. XXXII, 8, Byt. III 13, 43-50).
+[^5]: (33:2) Couramment écrit Hûshê<i>d</i>ar, mais est une corruption de Av. Ukhshya<i>d</i>\-ereta. Il est le premier des trois fils posthumes de Zaratû<i>s</i>t, qui étaient censés restaurer sa religion et la faire triompher par trois efforts successifs, chacun précédé d'une période d'anarchie (voir Bd. XXXII, 8, Byt. III 13, 43-50).
 
 [^6]: (33:3) Le millénaire de Zaratû<i>s</i>t, qui, selon la chronologie des Bundahi<i>s</i>, a dû se terminer durant la période 593-635 après J.-C. (voir Byt. III, 11 n).
 

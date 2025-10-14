@@ -72,7 +72,7 @@ _Sûdkar Nask_.
 
 [^2]: (197:1) Véase Libro VIII, Cap. XXIX, 2.
 
-[^3]: (197:2) K omite 'del infierno', y B omite 'noche'.
+[^3]: (197:2) K omite «del infierno», y B omite «noche».
 
 [^4]: (197:3) Probablemente significa Yas. XLIV.
 

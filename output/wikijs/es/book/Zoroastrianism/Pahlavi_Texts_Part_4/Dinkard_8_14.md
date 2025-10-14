@@ -82,7 +82,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 [^4]: (33:1) Av. <i>k</i>invatô peretu<i>s</i>, la ruta al otro mundo (véase Libro IX, Cap. XX, 3).
 
-[^5]: (33:2) Comúnmente escrito como Hûshê<i>d</i>ar, pero [it](errata_htm.html) es una corrupción de Av. Ukhshya<i>d</i>\-ereta. Es el primero de los tres hijos póstumos de Zaratû<i>s</i>t, de quienes se esperaba que restauraran su religión y la hicieran triunfar mediante tres esfuerzos sucesivos, cada uno precedido por un período de anarquía (véase Bd. XXXII, 8, Byt. III 13, 43-50).
+[^5]: (33:2) Comúnmente escrito como Hûshê<i>d</i>ar, pero es una corrupción de Av. Ukhshya<i>d</i>\-ereta. Es el primero de los tres hijos póstumos de Zaratû<i>s</i>t, de quienes se esperaba que restauraran su religión y la hicieran triunfar mediante tres esfuerzos sucesivos, cada uno precedido por un período de anarquía (véase Bd. XXXII, 8, Byt. III 13, 43-50).
 
 [^6]: (33:3) El milenio de Zaratû<i>s</i>t, que, según la cronología de los Bundahi<i>s</i>, debe haber terminado durante el período 593-635 d.C. (véase Byt. III, 11 n).
 

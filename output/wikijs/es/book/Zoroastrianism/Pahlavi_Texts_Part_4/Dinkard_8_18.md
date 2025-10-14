@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 _Nîkâ<i>d</i>ûm Nask_.
 
-1\. La tercera sección es el Rêshistân ('_código de heridas_'), que describe detalles sobre cortar, desgarrar, hender, destripar, apuñalar, roer [^1], romper, cortar, mutilar y marchitar [^2]; todas ellas llamadas heridas. 2. El movimiento circular ascendente de cierto azote de serpiente [^3], el derribo de la persona y el flujo de sangre de los cuerpos de las personas.
+1\. La tercera sección es el Rêshistân («_código de heridas_»), que describe detalles sobre cortar, desgarrar, <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> hender, destripar, apuñalar, roer [^1], romper, cortar, mutilar y marchitar [^2]; todas ellas llamadas heridas. 2. El movimiento circular ascendente de cierto azote de serpiente [^3], el derribo de la persona y el flujo de sangre de los cuerpos de las personas.
 
 3\. Cómo se dividen los diversos miembros en setenta y seis, que se llaman más particularmente principales, y que se dividen en dos clases: dos de estos, vestidos y diferentes entre sí, son femeninos, y algunos, de las partes circundantes (girvôgânîh), que son aparte de ocho de los principales, que se encuentran en los miembros de las dos clases y entre esos setenta y seis —y que, de igual manera, son diferentes entre sí—, son femeninos y tienen diferente propósito y diseño.
 
@@ -72,13 +72,13 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 ## Notas al pie
 
-[^1]: (42:1) O, quizás, khvâyi<i>s</i>nŏ (compárese con Pers. '<i>h</i>âyîdan) puede significar 'morder'.
+[^1]: (42:1) O, quizás, khvâyi<i>s</i>nŏ (compárese con Pers. «<i>h</i>âyîdan) puede significar »morder'.
 
 [^2]: (42:2) Los últimos cuatro términos son, en Pahlavi: <i>s</i>kôni<i>s</i>nŏ, khûr<i>d</i>ŏ ka<i>r</i><i>d</i>anŏ, tâshî<i>d</i>anô y khû<i>s</i>înî<i>d</i>anô.
 
 [^3]: (42:3) El mâr-ganô (Av. khrafstraghna), como se nos dice en Pahl. Vend. XVIII, 6, «puede estar hecho de cualquier cosa, pero uno de cuero es bueno» (véase también Bd. XXVIII, 22). Concebido como un exterminador de serpientes, fue mal utilizado como azote para los seres humanos.
 
-[^4]: (42:4) Suponiendo que vê<i>s</i>îh, 'exceso', es una mala escritura de siyahîh.
+[^4]: (42:4) Suponiendo que vê<i>s</i>îh, «exceso», es una mala escritura de siyahîh.
 
 [^5]: (43:1) Estos tres modos se expresan mediante Pâz. ithrih, hidhih y apavarâvar<i>s</i>tih, que evidentemente representan las palabras originales del Avesta ithra, hadha y apaurvavar<i>s</i>ta (véase Cap. XXI, 6).
 

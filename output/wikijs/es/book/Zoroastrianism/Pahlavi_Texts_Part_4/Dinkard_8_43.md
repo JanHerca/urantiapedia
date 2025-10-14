@@ -40,7 +40,7 @@ _Sac<i>d</i>um Nask_.
 
 8\. Sobre el pecado de un juez que declara inocente al pecador y culpable al inocente. 9. Sobre un juez que conoce la ley [^2] desde hace diez años, uno que la conoce desde hace once, uno que la conoce desde hace doce, uno que la conoce desde hace trece, uno que la conoce desde hace catorce y uno que la conoce desde hace quince; es decir, sus decisiones, cada una por separado, sobre diversos temas especialmente importantes relacionados con el conocimiento de la ley, en cuanto a decisión y juicio.
 
-10\. Sobre una hija cuyo control religioso, durante la vida de su padre, reside en su madre durante la vida conjunta de esta, pero para [^3] quien está autorizado a entregarla es el padre. 11. Sobre una hija que no tiene esposo, y que no tiene padre ni madre, ni hermanos de sus padres fallecidos, y ni siquiera se le permite entregarse a la tutela de un esposo.
+10\. Sobre una hija cuyo control religioso, durante la vida de su padre, reside en su madre durante la vida conjunta de esta, pero para [^3] quien está autorizado a entregarla es el padre. 11. Sobre una hija que no tiene esposo, y <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> que no tiene padre ni madre, ni hermanos de sus padres fallecidos, y ni siquiera se le permite entregarse a la tutela de un esposo.
 
 12\. Sobre los bienes que se legan por testamento al fallecer; es decir, cómo se dan y cómo se dan cuando no existen. 13. Sobre el privilegio de un padre al dar bienes a sus hijos según su voluntad, y sobre un hijo que es irreverente hacia su padre, de modo que [^4] _parte_ de los bienes del padre _pasa_ a la madre digna; también cuando se pretende hacer de la irreverencia hacia el padre la característica imputada (bâkht nî<i>s</i>ânŏ), donde se decide un decreto sobre los bienes del padre; _y_ todo lo relacionado con el mismo tema, en cuanto al grado de irreverencia _del_ hijo hacia el padre y el pecado que conlleva.
 
@@ -62,7 +62,7 @@ _Sac<i>d</i>um Nask_.
 
 34\. Sobre el daño y perjuicio del mundo debido a la codicia (<i>â</i><i>z</i>ŏ) y sus deformaciones semejantes, _y_ aquel que es su sostén e instigador, el idólatra (dêvîyastô), también el lobo de muchas clases y criaturas nocivas de varias especies; porque la ocurrencia de su maldad se debe al demonio original, _y_ los medios para fortalecer su maldad se _derivan_ de la destrucción de toda la humanidad _y_ de las otras creaciones mundanas primarias que están ayudando a la humanidad. 35. Consejo a la humanidad sobre cómo golpear y destruir la dominación maligna (dû<i>s</i>khshasarînî<i>d</i>anŏ) del mundo _por_ esos _dañinos_, y el mérito manifiesto para ellos mismos_ en ello; el objeto _y_ recompensa espiritual por herir _y_ matar a cada uno de los lobos _y_ criaturas nocivas, _y_, en cuanto a la misma recompensa, la perfección de la obtenida por destruir a un lobo de dos patas [^10]; _y_ todo lo que esté sobre el mismo tema.
 
-36\. Sobre el consejo de no reverenciar a los espíritus malignos ni a los demonios, por el cual la observancia (var'<i>z</i>ŏ) de las diversas ceremonias y gratificaciones de los seres sagrados _sería_ particularmente irregular en _cualquier_ manera, y el daño y perjuicio _debido_ a aquellos _que son_ irregulares _y_ mal observantes, al estar inclinados a esa irregularidad _y_ mala observancia, _se convertiría_ en una opresiva presidencia (pa<i>d</i>gahîh) de los demonios sobre las criaturas; también el vicio de hablar clamorosamente (drâyân gôgîh) [^11] y el daño que esto conlleva, _y_ el placer de los demonios debido a lo mismo _y_ otras _cosas_ que son irregulares. 37. Consejo sobre la razón, el hábito, _y_ la práctica primitiva de no parlotear, y otras buenas costumbres, durante el comer _y_ beber; la gratificación de los seres sagrados debido a esa práctica primitiva de buenas costumbres _por_ la humanidad, y el altruista (a-khvê<i>s</i>\-dâk) es aquel que no lo mantiene.
+36\. Sobre el consejo de no reverenciar a los espíritus malignos ni a los demonios, por el cual la observancia (var'<i>z</i>ŏ) de las diversas ceremonias y gratificaciones de los seres sagrados _sería_ particularmente irregular en _cualquier_ manera, y el daño <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> y perjuicio _debido_ a aquellos _que son_ irregulares _y_ mal observantes, al estar inclinados a esa irregularidad _y_ mala observancia, _se convertiría_ en una opresiva presidencia (pa<i>d</i>gahîh) de los demonios sobre las criaturas; también el vicio de hablar clamorosamente (drâyân gôgîh) [^11] y el daño que esto conlleva, _y_ el placer de los demonios debido a lo mismo _y_ otras _cosas_ que son irregulares. 37. Consejo sobre la razón, el hábito, _y_ la práctica primitiva de no parlotear, y otras buenas costumbres, durante el comer _y_ beber; la gratificación de los seres sagrados debido a esa práctica primitiva de buenas costumbres _por_ la humanidad, y el altruista (a-khvê<i>s</i>\-dâk) es aquel que no lo mantiene.
 
 38\. Mediante la ceremonia de cuyo ser sagrado se obtiene la mayor bienvenida (mâhmânŏtarîh) de un sumo sacerdote _y de_ cualquier buena obra _de_ cada uno de los cinco períodos del día y de la noche; la recompensa y la ventaja debidas a la celebración de la ceremonia de cada uno de ellos por separado en su propio período, y también otros medios _y_ regulaciones en la misma declaración.
 
@@ -94,13 +94,13 @@ _Sac<i>d</i>um Nask_.
 
 ## Notas al pie
 
-[^1]: (145:1) La contradistinción indicada aquí entre dâhm y an-Aîr es una confirmación importante de la definición de Geldner de Av. dahma como 'ciudadanos o miembros plenos' (véase Studien zum Avesta, 1882, pág. 14).
+[^1]: (145:1) La contradistinción indicada aquí entre dâhm y an-Aîr es una confirmación importante de la definición de Geldner de Av. dahma como «ciudadanos o miembros plenos» (véase Studien zum Avesta, 1882, pág. 14).
 
 [^2]: (146:1) Véanse los caps. XX, 74, XXII, 2r.
 
-[^3]: (146:2) Lectura râî en lugar de lâ, 'no'.
+[^3]: (146:2) Lectura râî en lugar de lâ, «no».
 
-[^4]: (147:1) Como aêgh también significa 'donde', es bastante incierto si se supone que la irreverencia es la causa o el efecto de la provisión especial para la madre que luego se convierte en una fuente de litigio.
+[^4]: (147:1) Como aêgh también significa «donde», es bastante incierto si se supone que la irreverencia es la causa o el efecto de la provisión especial para la madre que luego se convierte en una fuente de litigio.
 
 [^5]: (147:2) Se debe referir a un hijo adoptivo.
 

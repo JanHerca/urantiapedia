@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 _Nikadum Nask_.
 
-1\. La troisième section est le Rêshistân ('_code des blessures_'), détails sur la coupure, la déchirure, le fendillement, <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> l'éventration, le poignardage, le rongement [^1], la rupture, le hachage, la mutilation et le flétrissement [^2] ; tels sont tous appelés blessures. 2. Le mouvement circulaire de soulèvement d'un certain fléau de serpent [^3], la chute de la personne et l'écoulement du sang des corps des gens.
+1\. La troisième section est le Rêshistân (« _code des blessures_ »), détails sur la coupure, la déchirure, le fendillement, <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> l'éventration, le poignardage, le rongement [^1], la rupture, le hachage, la mutilation et le flétrissement [^2] ; tels sont tous appelés blessures. 2. Le mouvement circulaire de soulèvement d'un certain fléau de serpent [^3], la chute de la personne et l'écoulement du sang des corps des gens.
 
 3\. Comment les divers membres sont divisés en soixante-seize qui sont plus particulièrement appelés principaux, qui sont compris dans deux classes ; deux d'entre eux, qui sont vêtus _et_ différents, l'un de l'autre, sont des femmes, et _quelques_ des parties environnantes (girvôgânîh), qui sont _à part_ de huit des principaux, qui sont compris dans les membres des deux classes _et_ parmi ces soixante-seize —_et_ qui, de même manière, sont différents l'un de l'autre — sont des femmes, et sont _de_ but différent et de conception différente, l'une de l'autre.
 

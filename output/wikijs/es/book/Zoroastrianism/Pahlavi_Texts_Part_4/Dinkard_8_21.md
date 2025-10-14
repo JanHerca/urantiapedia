@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## Notas al pie
 
-[^1]: (74:2) Corresponde a la decimosexta palabra, ahurâi, del Ahunavair, según la Riv. BP; pero es el decimoctavo Nask en otros Rivâyats. Ganabâ-sar-ni<i>g</i>a<i>d</i> significa 'la cabeza del ladrón abatida'; pero se lee erróneamente como Dvâsrû<i>g</i>ad, Dvâsrûn<i>g</i>ad, Dvâsrû<i>g</i>îd o Dvâsrôb en los Rivâyats, que también afirman que contenía sesenta y cinco kardah, o subdivisiones, que concuerdan con el número de secciones mencionado en los capítulos XXI, XXIII y XXIV. Este Nask recibe su nombre evidentemente del contenido de su primera sección, y posiblemente de sus palabras iniciales.
+[^1]: (74:2) Corresponde a la decimosexta palabra, ahurâi, del Ahunavair, según la Riv. BP; pero es el decimoctavo Nask en otros Rivâyats. Ganabâ-sar-ni<i>g</i>a<i>d</i> significa «la cabeza del ladrón abatida»; pero se lee erróneamente como Dvâsrû<i>g</i>ad, Dvâsrûn<i>g</i>ad, Dvâsrû<i>g</i>îd o Dvâsrôb en los Rivâyats, que también afirman que contenía sesenta y cinco kardah, o subdivisiones, que concuerdan con el número de secciones mencionado en los capítulos XXI, XXIII y XXIV. Este Nask recibe su nombre evidentemente del contenido de su primera sección, y posiblemente de sus palabras iniciales.
 
 [^2]: (75:1) Suponiendo que gû<i>d</i>anŏ significa khû<i>d</i>anŏ.
 

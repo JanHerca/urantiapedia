@@ -67,10 +67,10 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## Notas al pie
 
-[^1]: (19:4) Corresponde a la séptima palabra, <i>k</i>î<i>d</i>, del Ahunavair, según BP Riv.; pero es el octavo Nask en otros Rivâyats. Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtag significa 'relativo a los hábitos de un maestro sacerdotal', lo cual describe adecuadamente el contenido de este Nask, pero se malinterpreta como Ratu<i>s</i>tâî o Ratu<i>s</i>tâîd en los Rivâyats, que también afirman que originalmente contenía cincuenta kardah, o subdivisiones, de las cuales solo trece se recuperaron después de la época de Alejandro.
+[^1]: (19:4) Corresponde a la séptima palabra, <i>k</i>î<i>d</i>, del Ahunavair, según BP Riv.; pero es el octavo Nask en otros Rivâyats. Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtag significa «relativo a los hábitos de un maestro sacerdotal», lo cual describe adecuadamente el contenido de este Nask, pero se malinterpreta como Ratu<i>s</i>tâî o Ratu<i>s</i>tâîd en los Rivâyats, que también afirman que originalmente contenía cincuenta kardah, o subdivisiones, de las cuales solo trece se recuperaron después de la época de Alejandro.
 
 [^2]: (20:1) Av. <i>H</i><i>v</i>aniratha, la región central de la tierra, que contiene los países mejor conocidos por los iraníes, alrededor de la cual se suponía que estaban dispuestas las otras seis regiones más pequeñas.
 
 [^3]: (20:2) Véase Cap. VII, 5.
 
-[^4]: (20:3) O 'fundamentalmente' (va<i>l</i> bûn).
+[^4]: (20:3) O «fundamentalmente» (va<i>l</i> bûn).

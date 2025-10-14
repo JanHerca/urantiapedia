@@ -36,7 +36,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
-1\. One section of _the next_ twelve is the Pasû<i>s</i>\-haûrvastân ('_shepherd's-dog code_'), about the shepherd who is selecting a shepherd's dog for the sheep, and the shepherd with various shepherd's dogs; about the shepherd's comprehension of their serviceableness, one with the other, _and_ whatever is on the same subject. 2. The extent of authorised efficiency (<i>s</i>alît-gârîkîh) accomplished by the shepherd's-dog nature of a shepherd's dog, after his _being_ appointed by the shepherd.
+1\. One section of _the next_ twelve is the Pasû<i>s</i>\-haûrvastân (‘_shepherd's-dog code_’), about the shepherd who is selecting a shepherd's dog for the sheep, and the shepherd with various shepherd's dogs; about the shepherd's comprehension of their serviceableness, one with the other, _and_ whatever is on the same subject. 2. The extent of authorised efficiency (<i>s</i>alît-gârîkîh) accomplished by the shepherd's-dog nature of a shepherd's dog, after his _being_ appointed by the shepherd.
 
 3\. About the shepherd's preparing the means of bedding [^1] for the shepherd's dog, giving the amount of the price of the daily _food_ of a shepherd's dog, provisions for the dog in the winter, and the preparation of a fire beforehand which it is necessary to make in the sheepfold (pâh-hastŏ). 4. About the mode of preparing the appointed _fire_place _of_ the sheepfold, the position of the shepherd's dog and the dog's fire, the means of lodging _and_ provisioning the shepherd's dog in the sheepfold, the sin owing to _the occasions_ when _one_ proceeds to provide _another_ mode, _and_ whatever is on the same subject.
 

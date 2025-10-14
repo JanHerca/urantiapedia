@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 _Ganabâ-sar-ni<i>g</i>a_d _Nask._
 
-1\. La deuxième section est l'Ar'gistân ('code des valeurs'), qui contient des précisions sur la valeur de la petite consommation de biens animés et inanimés, ainsi que sur l'intérêt d'en donner des informations, chacune séparément. 2. La valeur de ne pas détruire un homme juste, même pour un décret et une justice, et l'expiation pour avoir porté atteinte à l'existence [^1] du feu de Varahrân [^2].
+1\. La deuxième section est l'Ar'gistân (« code des valeurs »), qui contient des précisions sur la valeur de la petite consommation de biens animés et inanimés, ainsi que sur l'intérêt d'en donner des informations, chacune séparément. 2. La valeur de ne pas détruire un homme juste, même pour un décret et une justice, et l'expiation pour avoir porté atteinte à l'existence [^1] du feu de Varahrân [^2].
 
 <figure class="table chapter-navigator">
   <table>

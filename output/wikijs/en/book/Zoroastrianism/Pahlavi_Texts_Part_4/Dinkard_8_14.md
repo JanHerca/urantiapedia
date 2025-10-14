@@ -82,7 +82,7 @@ dateCreated: 2025-10-7T9:56:37Z
 
 [^4]: (33:1) Av. <i>k</i>invatô peretu<i>s</i>, the route to the other world (see Bk. IX, Chap. XX, 3).
 
-[^5]: (33:2) Commonly written Hûshê<i>d</i>ar, but [it](errata_htm.html) is a corruption of Av. Ukhshya<i>d</i>\-ereta. He is the first of the three posthumous sons of Zaratû<i>s</i>t, who were expected to restore his religion and make it triumphant by three successive efforts, each preceded by a period of anarchy (see Bd. XXXII, 8, Byt. III 13, 43-50).
+[^5]: (33:2) Commonly written Hûshê<i>d</i>ar, but it is a corruption of Av. Ukhshya<i>d</i>\-ereta. He is the first of the three posthumous sons of Zaratû<i>s</i>t, who were expected to restore his religion and make it triumphant by three successive efforts, each preceded by a period of anarchy (see Bd. XXXII, 8, Byt. III 13, 43-50).
 
 [^6]: (33:3) The millennium of Zaratû<i>s</i>t, which, according to the chronology of the Bundahi<i>s</i>, must have ended during the period A.D. 593-635 (see Byt. III, 11 n).
 

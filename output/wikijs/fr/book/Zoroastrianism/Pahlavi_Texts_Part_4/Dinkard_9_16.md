@@ -86,7 +86,7 @@ _Sû<i>d</i>kar Nask_.
 
 [^7]: (201:2) Comparer Dd. XVI, 7.
 
-[^8]: (201:3) Pahl. ashâ<i>d</i>îh dans K, mais B a aya<i>d</i>akîh, 'souvenir'.
+[^8]: (201:3) Pahl. ashâ<i>d</i>îh dans K, mais B a aya<i>d</i>akîh, « souvenir ».
 
 [^9]: (202:1) Ou 'ils offrent (û<i>z</i>dahênd).'
 
@@ -106,7 +106,7 @@ _Sû<i>d</i>kar Nask_.
 
 [^17]: (203:3) Ceux qui sont censés être conduits en Iran par Pêhshôtanû dans les temps futurs, lorsqu'il sera invoqué par les anges pour restaurer la religion dans le monde après le conflit des nations (voir Byt. III, 25-42).
 
-[^18]: (203:4) K contient 'Frâ<i>d</i>akhshtŏ, fils de Khûmbîk le fils de Hôshâng.' Il s'agissait évidemment du Fradhâkh<i>s</i>ti Khuñbya de Yt. XIII, 138, qui aurait pu être considéré comme un descendant du Haoshyangha mentionné avant lui dans Yt. XIII.
+[^18]: (203:4) K contient « Frâ<i>d</i>akhshtŏ, fils de Khûmbîk le fils de Hôshâng. » Il s'agissait évidemment du Fradhâkh<i>s</i>ti Khuñbya de Yt. XIII, 138, qui aurait pu être considéré comme un descendant du Haoshyangha mentionné avant lui dans Yt. XIII.
 
 [^19]: (203:5) Av. Ashavazdangh Pourudhâkh<i>s</i>tayana de Yt. V, 72, XIII, 112.
 
@@ -116,4 +116,4 @@ _Sû<i>d</i>kar Nask_.
 
 [^22]: (203:8) Kavi Haosravangh (Kaî-Khûsrôî) est le huitième et dernier de la liste des Kavis, ou Kayâns, dans Yt. XIII, 132 ; et fut célèbre pour p. 204 son opposition à l'idolâtrie (voir Yt. V, 49, 50 ; Bd. XVII, 7). Cette section semble être une citation réelle de la version Pahlavi du Nask, prétendant donner les paroles de Zaratû<i>s</i>t.
 
-[^23]: (204:1) K a dêhîk, 'un provincial'.
+[^23]: (204:1) K a dêhîk, « un provincial ».

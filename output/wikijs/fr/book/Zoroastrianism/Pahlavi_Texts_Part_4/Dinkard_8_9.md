@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^2]: (21:1) Pû<i>s</i>, le démon des avares dans Bd. XXVIII, 28.
 
-[^3]: (21:2) Ces quatre anges sont des personnifications de Av. vohû manô, 'bonne pensée', spe<i>n</i>ta ârmaiti<i>s</i>, 'dévotion abondante', sraoshô, 'celui qui est obéissant', et ashi<i>s</i> vanguhi, 'bonne rectitude'.
+[^3]: (21:2) Ces quatre anges sont des personnifications de Av. vohû manô, « bonne pensée », spe<i>n</i>ta ârmaiti<i>s</i>, « dévotion abondante », sraoshô, « celui qui est obéissant », et ashi<i>s</i> vanguhi, « bonne rectitude ».
 
 [^4]: (21:3) Ces quatre propensions démoniaques sont ici mentionnées comme les adversaires des quatre anges précédents. Akômanô et Aeshm, le premier et le troisième, sont les adversaires reconnus de Vohûman et de Srôsh, respectivement (voir Bd. XXX, 29). Varenô, le second, est considéré comme un démon (voir Bd. XXVIII, 25), et est mentionné dans le Dinka<i>r</i><i>d</i>, livre VI, comme s'opposant à l'ange Ar<i>d</i> ou Aharî<i>s</i>vang (voir Dd. XCIV, 2) ; ici, il s'oppose évidemment à un autre ange féminin, Spenda<i>r</i>ma<i>d</i>, tandis qu'Aharî<i>s</i>vang ou Ashi est opposé par sa simple négation, Anâhar.
 
@@ -80,6 +80,6 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^6]: (22:1) Supposons que sûkŏ signifie sûd.
 
-[^7]: (22:2) Lecture de bêshînî<i>d</i>ârîh qui est plus probable que le bêsh<i>â</i><i>z</i>înî<i>d</i>ârîh, 'curativité', du MS.
+[^7]: (22:2) Lecture de bêshînî<i>d</i>ârîh qui est plus probable que le bêsh<i>â</i><i>z</i>înî<i>d</i>ârîh, « curativité », du MS.
 
 [^8]: (22:3) Tous les détails des §§ 5-19 doivent être lus en relation avec « la période » mentionnée au § 4.

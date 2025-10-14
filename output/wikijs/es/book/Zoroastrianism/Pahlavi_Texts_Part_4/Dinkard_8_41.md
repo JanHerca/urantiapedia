@@ -38,17 +38,17 @@ dateCreated: 2025-10-10T14:41:43Z
 
 _Sakâ<i>d</i>ûm Nask_.
 
-1\. Una sección de los últimos veintidós es el Vakhshistân ('código de aumento'), que detalla el progreso del aumento. 2. Sobre la expiación, la rendición y la compensación por cualquier cosa, disipándola mediante la compensación, la expiación y la rendición a quien le pertenece; sin que se haya fijado un período para ello. 3. Cuando quien origina la compensación, la expiación y la rendición es él mismo, ha fijado el período para ello, el crecimiento activo del pecado, después del tiempo señalado, se considera aumento.
+1\. Una sección de los últimos veintidós es el Vakhshistân («código de aumento»), que detalla el progreso del aumento. 2. Sobre la expiación, la rendición y la compensación por cualquier cosa, disipándola mediante la compensación, la expiación y la rendición a quien le pertenece; sin que se haya fijado un período para ello. 3. Cuando quien origina la compensación, la expiación y la rendición es él mismo, ha fijado el período para ello, el crecimiento activo del pecado, después del tiempo señalado, se considera aumento.
 
 4\. Sobre el incremento [^1] que es activo (ka<i>r</i><i>d</i>akŏ), y lo que es existente (zîstakŏ); cómo es cuando lo existente se vuelve completamente activo, y cómo es cuando ambos son suprimidos (armê<i>s</i>tî-aît). 5. Sobre la extracción de incremento sobre incrementos que pueden ocasionar _hasta_ una igualdad; dónde _y_ cuál _es_. 6. Sobre un don justo; es decir, cómo es cuando está abrumado por el empobrecimiento, _y_ cómo es cuando su incremento aún continúa.
 
 7\. Sobre el progreso del interés (vakhsh) sobre la riqueza efectiva, cuando hay interés para ella, y este se acumula; también lo que no progresa; cómo es cuando el deudor (<i>â</i><i>v</i>âm-hômônd), incluso al devolver la riqueza, es opulento, _y_ el prestamista (<i>â</i><i>v</i>âm naf<i>s</i>man) es opulento al solicitarla _la_; cómo es cuando ninguno es opulento, _y_ el deudor _no_ era opulento al solicitarla _la_; y_ cómo es cuando el prestamista (<i>â</i><i>v</i>âm khvê<i>s</i>) <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> es opulento al pedirlo, y el deudor no es opulento a través de la riqueza.
 
-8\. Sobre dónde _y_ cuándo ha fallecido la vida (zîstanŏ) del prestamista, cómo es _cuando_ el préstamo_ se emite de nuevo al final de la emisión (zihî<i>s</i>nŏ), y cómo es _cuando_ ha existido en vigor, a través de la única emisión _por_ el difunto, _y_ se acumulan los intereses. 9. Cuando el deudor fallece, cómo es _cuando pone los intereses en la propiedad de alguien a través de la adopción_, _y_ cómo es _cuando es el interés_ del poseedor de la riqueza en ambos mundos.
+8\. Sobre dónde _y_ cuándo ha fallecido la vida (zîstanŏ) del prestamista, cómo es _cuando_ el préstamo_ se emite de nuevo al final de la emisión (zihî<i>s</i>nŏ), y cómo es _cuando_ ha existido en vigor, a través de la única emisión _por_ el difunto, _y_ se acumulan los intereses. 9. Cuando el deudor fallece, cómo es cuando pone los intereses en la propiedad de alguien a través de la adopción_, _y_ cómo es _cuando es el interés_ del poseedor de la riqueza en ambos mundos.
 
 10\. Sobre la peculiaridad _de_ la retribución, la autoretribución de _uno_ sujeto a retribución por otros, _y_ el límite de la propia retribución. 11. Sobre la pena (tâvân) de quien, comprando _animales_ para la fecundación, da a cada uno un mal macho; cuándo _no_ están preñadas, _y_ cuándo pueden procrear; y todo lo relacionado con el mismo tema. 12. Sobre el momento de permitir la admisión del macho _a_ la bestia _de_ carga, oveja y camello, y el momento de la consignación _a_ cada macho por separado para quien queda la recepción; el _caso_ cuando _es_ el momento de la admisión del macho (gû<i>s</i>n-hilîh), _y_ el _caso_ cuando _es_ tal consignación como cuando el período, que realmente se origina con la admisión del macho, ha continuado. 13. Cuando, por no haber sido preñada al macho en el momento oportuno, la hembra queda sin preñar, y no hay preñez de la vaca, la yegua, el camello, la oveja, la cabra o el cerdo, cada uno por separado, ¿cuál es la pena? y también el pecado que cometen.
 
-14\. Sobre el camello, la yegua, la vaca o la oveja, cuya leche está dañada y carece de mantequilla (akarag), debido a que se pospone el tiempo señalado; también la cantidad promedio y mínima de leche de la yegua, la vaca, la cabra y la oveja, es decir, la cantidad de ordeño que producen cada una por separado. 15. Sobre el camello, es decir, cuánta produce pelo al año y en qué medida supera al ganado vacuno; también se menciona el asno, que se deja embargar por el mismo valor que el de los bueyes, y la forma de apalearlos. 16. Dónde _y_ cómo es cuando las hembras del camello y del caballo son una multiplicación (<i>a</i>fzûnŏ) _que tiende_ a la insatisfacción; el aumento incluso de los aumentos del buey, la oveja y la cabra progresa, _y_ de ellos, cuánto menos se debe producir la multiplicación de la hembra—que es un aumento de aumentos _que tiende_ a la insatisfacción, donde _se_ extiende sobre ellas—que la del macho.
+14\. Sobre el camello, la yegua, la vaca o la oveja, cuya leche está dañada y carece de mantequilla (akarag), debido a que se pospone el tiempo señalado; también la cantidad <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> promedio y mínima de leche de la yegua, la vaca, la cabra y la oveja, es decir, la cantidad de ordeño que producen cada una por separado. 15. Sobre el camello, es decir, cuánta produce pelo al año y en qué medida supera al ganado vacuno; también se menciona el asno, que se deja embargar por el mismo valor que el de los bueyes, y la forma de apalearlos. 16. Dónde _y_ cómo es cuando las hembras del camello y del caballo son una multiplicación (<i>a</i>fzûnŏ) _que tiende_ a la insatisfacción; el aumento incluso de los aumentos del buey, la oveja y la cabra progresa, _y_ de ellos, cuánto menos se debe producir la multiplicación de la hembra—que es un aumento de aumentos _que tiende_ a la insatisfacción, donde _se_ extiende sobre ellas—que la del macho.
 
 17\. El camello que se lastima en el camino, después del tiempo señalado, cuando lo mantienen trabajando ilegalmente y el camino está en mal estado, cuando trabaja ilegalmente y el camino está en buen estado, y cuando pasta cómodamente, donde apoderarse de él tiende a la insatisfacción de varias maneras, y lo compran individualmente cuando está realmente vigorizado [^2], o por un precio.
 
@@ -88,7 +88,7 @@ _Sakâ<i>d</i>ûm Nask_.
 
 ## Notas al pie
 
-[^1]: (138:1) Como esta palabra está escrita vakhs (= nâs), es dudoso que se refiera a vakhsh, 'aumento', o vinâs, 'pecado'; y el contexto es insuficiente para resolver la duda.
+[^1]: (138:1) Como esta palabra está escrita vakhs (= nâs), es dudoso que se refiera a vakhsh, «aumento», o vinâs, «pecado»; y el contexto es insuficiente para resolver la duda.
 
 [^2]: (140:1) Pâz. aôsanghen, tanto aquí como en § 18, sin duda para Av. aoganghem, como en el Cap. XX, 58, siendo el Av. ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/001.jpg) g y ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/001.jpg) s muy parecidos.
 
@@ -96,7 +96,7 @@ _Sakâ<i>d</i>ûm Nask_.
 
 [^4]: (141:2) Lectura ba<i>r</i>â-zegtalûntakŏ, palabra que ha sido corrompida por el reparador del manuscrito.
 
-[^5]: (141:3) Se lee dîl, pero la palabra también puede leerse sar, 'cabeza'.
+[^5]: (141:3) Se lee dîl, pero la palabra también puede leerse sar, «cabeza».
 
 [^6]: (142:1) Suponiendo que madam significa maman; las dos palabras a veces se confunden.
 
@@ -104,9 +104,9 @@ _Sakâ<i>d</i>ûm Nask_.
 
 [^8]: (142:3) Literalmente, «forma corporal». Evidentemente, se refiere a la captura de un esclavo del deudor para saldar la deuda.
 
-[^9]: (142:4) Se lee va-s<i>a</i><i>k</i>i<i>s</i>nŏ en lugar del texto escrito de manera muy similar nik<i>ê</i><i>z</i>i<i>s</i>nŏ, 'explicación' del manuscrito.
+[^9]: (142:4) Se lee va-s<i>a</i><i>k</i>i<i>s</i>nŏ en lugar del texto escrito de manera muy similar nik<i>ê</i><i>z</i>i<i>s</i>nŏ, «explicación» del manuscrito.
 
-[^10]: (143:1) Este parece el significado más probable si queremos entender que la confiscación se ha llevado a cabo en realidad en una temporada inapropiada; pero, si suponemos que se evita debido a la temporada, sería mejor traducirlo como sigue: 'Por cuánta ganancia sobre esa capa, o odre de agua, debe ser compensado el confiscador a quien le corresponde.'
+[^10]: (143:1) Este parece el significado más probable si queremos entender que la confiscación se ha llevado a cabo en realidad en una temporada inapropiada; pero, si suponemos que se evita debido a la temporada, sería mejor traducirlo como sigue: «Por cuánta ganancia sobre esa capa, o odre de agua, debe ser compensado el confiscador a quien le corresponde.»
 
 [^11]: (143:2) Posiblemente se refiere a la confiscación de artículos vendidos por un comerciante, pero no pagados.
 

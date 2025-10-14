@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 _Hûspâram Nask_.
 
-1\. Una sección es el Nîrangistân ('_código ritual_'), que detalla el ritual del ceremonial de los seres sagrados, lo importante _y_ que se refiere al puente _del juicio_ [^1]; la gran meritosidad debida a la amplia cantidad de Râspîs [^2] en el ceremonial; y, en cuanto al Avesta, el Zôti y el Râspî sirven para diversas frases; las que se usan para pronunciar una son para escuchar la otra. 2. Sobre el pastel sagrado [^3], _y_ todo lo relacionado con el mismo tema. 3. Sobre la abstinencia de beber vino durante el ceremonial. 4. Sobre la calidad (sâmân) de la voz al recitar el Avesta en un ceremonial, y la <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> Avesta que se recita dos veces, tres o cuatro veces. 5. Sobre el ceremonial y la conducción de ese ceremonial cuyo Zôti, o Râspî, es un pecador Tanâpûhar [^4]. 6. Sobre el deber Zôti de una mujer [^5] o un niño. 7. Sobre una decisión con respecto a quien es maldecido por la religión que adora a Ma<i>z</i><i>d</i>a.
+1\. Una sección es el Nîrangistân («_código ritual_»), que detalla el ritual del ceremonial de los seres sagrados, lo importante _y_ que se refiere al puente _del juicio_ [^1]; la gran meritosidad debida a la amplia cantidad de Râspîs [^2] en el ceremonial; y, en cuanto al Avesta, el Zôti y el Râspî sirven para diversas frases; las que se usan para pronunciar una son para escuchar la otra. 2. Sobre el pastel sagrado [^3], _y_ todo lo relacionado con el mismo tema. 3. Sobre la abstinencia de beber vino durante el ceremonial. 4. Sobre la calidad (sâmân) de la voz al recitar el Avesta en un ceremonial, y la <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> Avesta que se recita dos veces, tres o cuatro veces. 5. Sobre el ceremonial y la conducción de ese ceremonial cuyo Zôti, o Râspî, es un pecador Tanâpûhar [^4]. 6. Sobre el deber Zôti de una mujer [^5] o un niño. 7. Sobre una decisión con respecto a quien es maldecido por la religión que adora a Ma<i>z</i><i>d</i>a.
 
 8\. Sobre el pecado de quien no solemniza una festividad [^6], y cómo se da el caso cuando la solemniza. 9. Sobre los límites de los cinco períodos [^7] del día y la noche, y las ceremonias de dichos períodos. 10. Sobre las peculiaridades de las cosas para las festividades y otras buenas obras realizadas con autorización.
 
@@ -44,13 +44,13 @@ _Hûspâram Nask_.
 
 13\. Sobre la posición y el deber de los Zôti y los Râspîs en el ceremonial. 14. Sobre el ceremonial perfecto, el obsequio a un hombre justo que se ha convertido en <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> maestro y examinador de la sabiduría de los justos y de todo lo que trate sobre estos temas.
 
-15\. Sobre la camisa sagrada y el cinto de hilo, es decir, cómo se hace correctamente, y sobre el mismo tema. 16. Sobre la recolección y el atado de las ramitas sagradas, y sobre el mismo tema. 17. Sobre la proporción de leña en las distintas partes del ceremonial y la manera de traerla; la del fuego doméstico y la del fuego sacerdotal de Bahirâm (Varahrân).
+15\. Sobre la camisa _sagrada_ y el cinto de _hilo_, es decir, cómo se _hace_ correctamente, y sobre el mismo tema. 16. Sobre la recolección y el atado de las ramitas sagradas, y sobre el mismo tema. 17. Sobre la proporción de leña en las distintas partes del ceremonial _y_ la manera de traerla; la del fuego doméstico _y_ la del fuego sacerdotal de Bahirâm (Varahrân).
 
-18\. Sobre una ceremonia en un ambiente de gran opulencia, en un ambiente de opulencia media, en un ambiente de poca opulencia y una decisión sobre la falta de opulencia. 19. Sobre celebrar siempre las ceremonias de los seres sagrados por lo ocurrido, sin descuidarlas en absoluto. 20. Sobre los casos en que la humanidad celebra las ceremonias de los seres sagrados, tanto de forma observante como no observante; es decir, quién lo hace observantemente y quién no; con consejos sobre cómo celebrar las ceremonias de los seres sagrados observando.
+18\. Sobre una ceremonia en un ambiente de gran _opulencia_, en un ambiente de _opulencia_ media, en un ambiente de poca opulencia y una decisión sobre la falta de opulencia. 19. Sobre celebrar siempre las ceremonias de los seres sagrados por lo ocurrido, sin descuidarlas en absoluto. 20. Sobre los casos en que la humanidad celebra las ceremonias de los seres sagrados, tanto de forma observante como no observante; es decir, quién lo hace observantemente y quién no; con consejos sobre cómo celebrar las ceremonias de los seres sagrados observando.
 
 21\. Sobre la limpieza del cuerpo y la vestimenta del celebrante de la ceremonia, la seguridad de su mente contra el pecado, la ablución de los aparatos del lugar del exaltado (vulandânîh), la limpieza del lugar de la ceremonia, la distancia del mismo para cualquier grado manifiesto de contaminación y hedor, y todo lo relacionado con el mismo tema.
 
-22\. Sobre el ceremonial de las aguas y sus criaturas, el vigor [^10] de la salud, la posesión del brillo celestial, la abundancia del espíritu de las aguas, y todo lo relacionado con el mismo tema. 23. Sobre la celebración de un ceremonial, que es una ordenanza de deberes para alcanzar un estado feliz de alegría (khûp parkânîh) y sus felices consecuencias; y muchas otras afirmaciones sobre el mismo tema. 24. Sobre el ceremonial como apropiado e impropio, beneficioso e ineficaz.
+22\. Sobre el ceremonial de las aguas y sus criaturas, el vigor [^10] de la salud, la posesión del brillo celestial, la abundancia del espíritu de las aguas, y todo lo relacionado <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> con el mismo tema. 23. Sobre la celebración de un ceremonial, que es una ordenanza de deberes para alcanzar un estado feliz de alegría (khûp parkânîh) y sus felices consecuencias; y muchas otras afirmaciones sobre el mismo tema. 24. Sobre el ceremonial como apropiado e impropio, beneficioso e ineficaz.
 
 25\. Sobre las familias de Zaratû<i>s</i>t, Hvôv [^11] y Vi<i>s</i>tâsp, en lo que respecta al relato (aûshmûri<i>s</i>nŏ) _y_ ceremonial de la religión y su naturaleza.
 
@@ -98,6 +98,6 @@ _Hûspâram Nask_.
 
 [^9]: (95:6) El agua bendita, aparentemente.
 
-[^10]: (96:1) O puede ser 'agua bendita'.
+[^10]: (96:1) O puede ser «agua bendita».
 
 [^11]: (97:1) Un antepasado de varias personas mencionadas en el Avesta, incluidos los dos hermanos, <i>G</i>âmâsp, el primer ministro del rey Vi<i>s</i>tâsp, y Frashô<i>s</i>tar, el suegro de Zaratû<i>s</i>t.

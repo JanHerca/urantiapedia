@@ -40,7 +40,7 @@ _Sûdkar Nask_.
 
 2\. Sobre la intención hambrienta (gu<i>s</i>nakŏ-mîni<i>s</i>nîh) de quien come [^9] _y_ bebe charlando; el deleite de los demonios por ello; y consejo respecto a no decir palabra mientras come y bebe. 3. En cuanto a la alabanza y gratificación de los seres sagrados antes de comer y beber, <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> y también al terminar; y la pureza [^10] de la boca debido a su alabanza a la rectitud [^11]. 4. Sobre aquel cuya propiedad de cualquier buena obra, que ellos [^12] puedan realizar, no alcanza la mejor existencia, por no poseer un sumo sacerdote por costumbre.
 
-5\. Sobre el período del ceremonial de Srôsh [^13], el justo, _siendo_ principalmente al pasar la primera mitad de la noche, y el anuncio [^14] de quien es el celebrante (ya<i>s</i>târ) es para su protección del espíritu maligno. 6. El período del ceremonial de Rashnû [^15] y Â<i>s</i>tâ<i>d</i> [^16] es principalmente después de eso, en la jurisdicción (ra<i>d</i>îh) del Aûshahîn [^17], y el anuncio de quien es el celebrante es abundancia de grano. 7. El período del ceremonial de Mit<i>r</i>ô [^18] de los amplios pastos para el ganado, y _del_ espíritu del placer de comer [^19], se encuentra principalmente en la jurisdicción del Hâvan [^20], y el anuncio del celebrante es un rebaño de ovejas. 8. El período del ceremonial de Ashavahi<i>s</i>t [^21], y también _del fuego de Aûha<i>r</i>ma<i>z</i><i>d</i>, se encuentra principalmente en la jurisdicción del Rapithwin [^22], y el anuncio del celebrante es una asamblea de rectitud. 9. El período del ceremonial del alto señor _de_ las hembras, el descendiente de las aguas [^23], y también _del agua creada por Aûha<i>r</i>ma<i>z</i><i>d</i>, está en su mayor parte en la jurisdicción de los Aûzâêrin [^24], y el anuncio de aquel que es el celebrante es una tropa de héroes (vîrân ramakŏ). 10. Y el período del ceremonial de los espíritus guardianes de los justos, de las hembras con tropas de héroes y años de grata morada, del poder bien formado y apuesto, así como victorioso y creado por Aûha<i>r</i>ma<i>z</i><i>d</i>, y de la lucha que está en ascenso [^25], está mayormente en la jurisdicción de los Aiwisrûthrim [^26], y el anuncio de quien es el celebrante es el origen de toda excelencia, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> y el producto de toda manifestación de rectitud.
+5\. Sobre el período del ceremonial de Srôsh [^13], el justo, _siendo_ principalmente al pasar la primera mitad de la noche, y el anuncio [^14] de quien es el celebrante (ya<i>s</i>târ) es para su protección del espíritu maligno. 6. El período del ceremonial de Rashnû [^15] y Â<i>s</i>tâ<i>d</i> [^16] es principalmente después de eso, en la jurisdicción (ra<i>d</i>îh) del Aûshahîn [^17], y el anuncio de quien es el celebrante es abundancia de grano. 7. El período del ceremonial de Mit<i>r</i>ô [^18] de los amplios pastos para el ganado, y _del_ espíritu del placer de comer [^19], se encuentra principalmente en la <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> jurisdicción del Hâvan [^20], y el anuncio del celebrante es un rebaño de ovejas. 8. El período del ceremonial de Ashavahi<i>s</i>t [^21], y también del fuego de Aûha<i>r</i>ma<i>z</i><i>d</i>, se encuentra principalmente en la jurisdicción del Rapithwin [^22], y el anuncio del celebrante es una asamblea de rectitud. 9. El período del ceremonial del alto señor _de_ las hembras, el descendiente de las aguas [^23], y también _del agua creada por Aûha<i>r</i>ma<i>z</i><i>d</i>, está en su mayor parte en la jurisdicción de los Aûzâêrin [^24], y el anuncio de aquel que es el celebrante es una tropa de héroes (vîrân ramakŏ). 10. Y el período del ceremonial de los espíritus guardianes de los justos, de las hembras con tropas de héroes y años de grata morada, del poder bien formado y apuesto, así como victorioso y creado por Aûha<i>r</i>ma<i>z</i><i>d</i>, y de la lucha que está en ascenso [^25], está mayormente en la jurisdicción de los Aiwisrûthrim [^26], y el anuncio de quien es el celebrante es el origen de toda excelencia, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> y el producto de toda manifestación de rectitud.
 
 11\. La justicia es la excelencia perfecta.
 
@@ -82,25 +82,25 @@ _Sûdkar Nask_.
 
 [^6]: (182:4) Av. Tauru y Zairi<i>k</i>a; dos más de los archidemonios y oponentes especiales de los arcángeles Khû<i>r</i>da<i>d</i> y Amû<i>r</i>da<i>d</i>; producen y difunden veneno, y se propician caminando con una bota (véase Bd. I, 27, XXVIII, 11, 13, XXX, 29; Ep. 1. X, 9).
 
-[^7]: (182:5) Av. Akatasha; 'el demonio de la curiosidad, que hace que las criaturas aparten la mirada de las cosas apropiadas' (Bd. XXVIII, 20), y parece estar estrechamente conectado con el demonio Aeshm, 'ira'.
+[^7]: (182:5) Av. Akatasha; «el demonio de la curiosidad, que hace que las criaturas aparten la mirada de las cosas apropiadas» (Bd. XXVIII, 20), y parece estar estrechamente conectado con el demonio Aeshm, «ira».
 
 [^8]: (182:6) Véase Libro XXVIII, 21, 22, y Libro VIII, Cap. XVIII, 2.
 
 [^9]: (182:7) B omite «come». Hablar mientras se come es pecaminoso porque quien come ha murmurado una oración interior, a modo de conjuro protector, cuyo buen efecto se destruiría si se hablara en voz alta (compárese con el Libro VIII, Cap. XLIII, 37).
 
-[^10]: (183:1) K tiene 'protección'.
+[^10]: (183:1) K tiene «protección».
 
 [^11]: (183:2) Es decir, murmurar la fórmula Ashem-vohû que se recita tres veces, como conclusión de la oración interna (ver Dd. LXXIX, 1 n).
 
-[^12]: (183:3) O puede ser 'él', ya que el optativo 3er plural se usa a menudo para el singular; pero es una doctrina de la religión que una persona que hace que otros hagan buenas obras, como lo hace cuando emplea a un sacerdote para realizar ceremonias, es tan dueño de las buenas obras como el ejecutante real (ver Sls. X, 22, 23 para casos de agencia menos directa).
+[^12]: (183:3) O puede ser «él», ya que el optativo 3er plural se usa a menudo para el singular; pero es una doctrina de la religión que una persona que hace que otros hagan buenas obras, como lo hace cuando emplea a un sacerdote para realizar ceremonias, es tan dueño de las buenas obras como el ejecutante real (ver Sls. X, 22, 23 para casos de agencia menos directa).
 
 [^13]: (183:4) Véase Libro VIII, Caps. IX, 3, XLIV, 16, y Pahl. Yas. I, 22.
 
-[^14]: (183:5) Como una ofrenda, refiriéndose al verbo nivaêdhayêmi, 'anuncio o invito', con el que comienzan la mayoría de las cláusulas de Yas. I.
+[^14]: (183:5) Como una ofrenda, refiriéndose al verbo nivaêdhayêmi, «anuncio o invito», con el que comienzan la mayoría de las cláusulas de Yas. I.
 
 [^15]: (183:6) Véase Libro VIII, Cap. XX, 153, y Pahl. Yas. I, 23.
 
-[^16]: (183:7) Av. Ar<i>s</i>tâ<i>d</i>, 'rectitud', un ángel femenino que ayuda al alma en su camino al otro mundo (véase AV. V, 3).
+[^16]: (183:7) Av. Ar<i>s</i>tâ<i>d</i>, «rectitud», un ángel femenino que ayuda al alma en su camino al otro mundo (véase AV. V, 3).
 
 [^17]: (183:8) El período desde la medianoche hasta el amanecer (véase Libro VIII, Cap. XXIX, 9).
 

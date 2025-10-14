@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE V.
 
-1\. Parmi les Dâmdâ<i>d</i> [^1] se trouvent des détails sur le maintien de l'action et la production des créatures bénéfiques. 2. Premièrement, quant à l'existence spirituelle, et dans quelle mesure et comment le maintien dans l'existence spirituelle et la production de l'existence terrestre qui en découle sont qualifiés et construits pour descendre (fitô<i>d</i>anŏ) dans le combat avec le destructeur, et accomplir la nécessité associée pour la fin et le contournement (garang) de la destructivité.
+1\. Parmi les Dâmdâ<i>d</i> [^1] se trouvent des détails sur le maintien de l'action et la production <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> des créatures bénéfiques. 2. Premièrement, quant à l'existence spirituelle, et dans quelle mesure et comment le maintien dans l'existence spirituelle et la production de l'existence terrestre qui en découle sont qualifiés et construits pour descendre (fitô<i>d</i>anŏ) dans le combat avec le destructeur, et accomplir la nécessité associée pour la fin et le contournement (garang) de la destructivité.
 
 3\. La manière et l'espèce de la création des créatures ; ainsi que leur existence matérielle, et le caractère et l'usage des races et des espèces ; et tout ce qui concerne le même sujet. 4. La raison de leur création, et de leur perfectionnement final. 5. De l'adversité, des blessures et de la misère de ces créatures, et de leurs ressources secrètes (nîhônŏ) et des moyens de les attaquer et de les anéantir ; avec la préservation ou la mise hors d'état de nuire (<i>a</i>p<i>î</i><i>k</i>ârînî<i>d</i>anŏ) des créatures par ce moyen [^2].
 

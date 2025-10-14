@@ -65,6 +65,6 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## Notas al pie
 
-[^1]: (23:1) Corresponde a la novena palabra, vangh<i>e</i>u<i>s</i>, en el Ahunavair, según BP Riv.; pero es el décimo Nask en otros Rivâyats. Ka<i>s</i>kîsrôbô quizás signifique 'con declaraciones felices o reconfortantes', y se corrompe en Ka<i>s</i>srôb, Ka<i>s</i>kasîrah o Ka<i>s</i>kanîz, en los Rivâyats, que también afirman que originalmente contenía sesenta kardah, o subdivisiones, de las cuales solo quince se recuperaron después de la época de Alejandro.
+[^1]: (23:1) Corresponde a la novena palabra, vangh<i>e</i>u<i>s</i>, en el Ahunavair, según BP Riv.; pero es el décimo Nask en otros Rivâyats. Ka<i>s</i>kîsrôbô quizás signifique «con declaraciones felices o reconfortantes», y se corrompe en Ka<i>s</i>srôb, Ka<i>s</i>kasîrah o Ka<i>s</i>kanîz, en los Rivâyats, que también afirman que originalmente contenía sesenta kardah, o subdivisiones, de las cuales solo quince se recuperaron después de la época de Alejandro.
 
 [^2]: (23:2) Las ceremonias menores.

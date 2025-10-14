@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 _Beneficio Nask_.
 
-1\. El quinto fargar<i>d</i>, Khshmaibyâ [^1], trata sobre el olvido de un padre por su hijo, un hijo por su padre, un hermano por su hermano, un amigo por su amigo, un esposo (mânpatŏ) por su esposa (nârîk), y una esposa por su esposo en un tiempo medible, a través del exceso y la festividad (khang); y el olvido del espíritu de los Gâthas por tantos recitadores y cantores de los Gâthas. 2. Sobre la queja del espíritu de los Gâthas cuando un sumo sacerdote, aunque sacerdote de la gente del campo (dehîgânŏ), fallece en un distrito exterior [^2], y el cuerpo de ese hombre no regresa a su propia tierra; todo lo relacionado con eso, _y_, además de eso, lo que nacerá en esa tierra, y la opresión de los apóstatas _que_ surge. 3. Sobre el poder superior del espíritu de los Gâthas, _y_ también el de la liberalidad, para preservar el alma del infierno.
+1\. El quinto fargar<i>d</i>, Khshmaibyâ [^1], trata sobre el olvido de un padre por su hijo, un hijo por su padre, un hermano por su hermano, un amigo por su amigo, un esposo (mânpatŏ) por su esposa (nârîk), y una esposa por su esposo en un tiempo medible, a través del exceso y la festividad (khang); y el olvido del espíritu de los Gâthas por tantos recitadores y cantores de los Gâthas. 2. Sobre la queja del espíritu de los Gâthas cuando un sumo sacerdote, aunque sacerdote de la gente del campo (dehîgânŏ), fallece en un distrito exterior [^2], y el cuerpo de ese hombre no regresa a su propia tierra; todo lo relacionado con eso, _y_, además de eso, lo que nacerá en <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> esa tierra, y la opresión de los apóstatas _que_ surge. 3. Sobre el poder superior del espíritu de los Gâthas, _y_ también el de la liberalidad, para preservar el alma del infierno.
 
 4\. La excelencia que es perfecta es la justicia.
 
@@ -68,4 +68,4 @@ _Beneficio Nask_.
 
 [^1]: (178:1) La primera palabra de la segunda M del primer Gâtha (Yas. XXIX, 1), aquí escrita khshmŏâîbê (B) y khshmâîbê (K) en Pahlavi.
 
-[^2]: (178:2) Lectura aû<i>z</i>dêhikîh (del Av. uzda<i>h</i><i>v</i>yu); en Sls. IX, 2, 3, donde evidentemente se hace referencia a este pasaje, esta palabra ha sido leída erróneamente aû<i>z</i>dâyakîh y traducida como 'idolatría'.
+[^2]: (178:2) Lectura aû<i>z</i>dêhikîh (del Av. uzda<i>h</i><i>v</i>yu); en Sls. IX, 2, 3, donde evidentemente se hace referencia a este pasaje, esta palabra ha sido leída erróneamente aû<i>z</i>dâyakîh y traducida como «idolatría».

@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 5\. Acerca de las cuales se consideran las cinco disposiciones [^3] de un sacerdote que son la glorificación de las declaraciones del sacerdote sobre la ley, desde la primera de sus declaraciones en sucesión hasta la última, y ​​todo lo que sea sobre el mismo tema.
 
-6\. Sobre los temas sobre los cuales se debe preguntar a un sacerdote de linaje oculto, con el preludio y la secuela del mismo tema. 7. Sobre la pena de puente [^4] de un sacerdote por pecado, en un fargar aparte [^5]. 8. Sobre un sacerdote que pueden ser expulsados ​​de un distrito, debido a la ansiedad por formar una asamblea sacerdotal, y que se preocupa por formarla. <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 9\. Sobre la superioridad de los sacerdotes en cuanto a conocimiento, uno respecto a otro; el grado de superioridad que da lugar a una mayor idoneidad para la autoridad, de uno respecto a otro [^6]; y todo lo relacionado con el mismo tema.
+6\. Sobre los temas sobre los cuales se debe preguntar a un sacerdote de linaje oculto, con el preludio y la secuela del mismo tema. 7. Sobre la _pena_ de puente [^4] de un sacerdote por pecado, en un fargar aparte [^5]. 8. Sobre un sacerdote que pueden ser expulsados ​​de un distrito, debido a la ansiedad por formar una asamblea sacerdotal, y que se preocupa por formarla. <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 9\. Sobre la superioridad de los sacerdotes en cuanto a conocimiento, uno respecto a otro; el grado de superioridad que da lugar a una mayor idoneidad para la autoridad, de uno respecto a otro [^6]; y todo lo relacionado con el mismo tema.
 
 <figure class="table chapter-navigator">
   <table>

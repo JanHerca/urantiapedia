@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 _Ganabâ-sar-ni<i>g</i>a_d _Nask._
 
-1\. La segunda sección es el Ar'<i>g</i>istân ('_código de valores_'), detalles sobre el valor del pequeño consumo de bienes animados, así como el de los inanimados; _con_ la conveniencia de informarse al respecto, cada uno por separado. 2. El valor de no destruir a un hombre justo, incluso por decreto y justicia, _y_ de la expiación por dañar la existencia [^1] del fuego de Varahrân [^2].
+1\. La segunda sección es el Ar'<i>g</i>istân («_código de valores_»), detalles sobre el valor del pequeño consumo de bienes animados, así como el de los inanimados; _con_ la conveniencia de informarse al respecto, cada uno por separado. 2. El valor de no destruir a un hombre justo, incluso por decreto y justicia, _y_ de la expiación por dañar la existencia [^1] del fuego de Varahrân [^2].
 
 <figure class="table chapter-navigator">
   <table>

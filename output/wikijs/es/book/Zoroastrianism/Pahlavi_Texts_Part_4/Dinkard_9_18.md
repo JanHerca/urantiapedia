@@ -72,8 +72,8 @@ _Sûdkar Nask_.
 
 [^1]: (206:1) La primera palabra del segundo hâ del tercer Gâtha (Yas. XLVIII, 1), aquí escrita yezîk en Pahlavi.
 
-[^2]: (206:2) B omite 'pecados'.
+[^2]: (206:2) B omite «pecados».
 
-[^3]: (206:3) O 'gloria'.
+[^3]: (206:3) O «gloria».
 
 [^4]: (206:4) Así también en K, pero ambos manuscritos dan esta cláusula de manera imperfecta.

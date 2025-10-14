@@ -38,7 +38,7 @@ _Beneficio Nask_.
 
 1\. El decimosexto fargar<i>d</i>, Spe<i>n</i>tâ-mainyû [^1], trata sobre efectuar el juicio puente de los pecadores, según lo declarado por la revelación. 2. Sobre realizar la ceremonia (ya<i>s</i>tô) para un hombre y una mujer, y se ordena _para_ la mujer antes que el hombre; la aptitud para el cielo supremo (garô<i>d</i>mânîkîh) surgida a través de la liturgia (ya<i>s</i>tô) que debe ser recitada, o _mediante_ la adquisición del _cielo_ en la _existencia_ mundana [^2].
 
-3\. Sobre la inmunidad del alma ante el infierno por la rectitud de haber dado respetuosamente un caballo de buena raza, la tierra cultivada o una mujer virtuosa a un hombre justo; y también sobre la mujer que se entrega en matrimonio al hombre justo; y que las buenas obras generosas aumentan de vez en cuando [^3] y de día en día.
+3\. Sobre la inmunidad del alma ante el infierno por la rectitud de haber dado respetuosamente un caballo de buena raza, la tierra cultivada o una mujer virtuosa a un hombre justo; y también sobre la mujer que se entrega en matrimonio al <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> hombre justo; y que las buenas obras generosas aumentan de vez en cuando [^3] y de día en día.
 
 4\. Sobre la pena del puente para quien está de luto (navînî<i>d</i>âr) y se autolesiona en las tres noches posteriores a la muerte, y cómo es como si quienes viven volvieran a verter mineral fundido sobre un ser humano. 5. Sobre el castigo para la mujer que se entrega en matrimonio a un hombre justo y se aleja [^4] de él; como cuando un erizo [^5] entra y sale constantemente por su órgano sexual; y la privación de su mejor existencia. 6. Sobre la no liberación del alma del malvado del infierno hasta la existencia futura. 7. En cuanto al castigo de los malvados, también hay esto: es como si una oveja viva permaneciera atada por las patas, con la cabeza hacia abajo, y tuviera una exudación específica de los dedos de las patas a través de la nariz [^6].
 
@@ -78,10 +78,10 @@ _Beneficio Nask_.
 
 [^3]: (205:1) Pahl. vidanâânag vidanâânag, un equivalente híbrido de zamânak zamânak (ver Libro VIII, Capítulo XXXV, 6 n).
 
-[^4]: (205:2) B tiene 'recaídas'.
+[^4]: (205:2) B tiene «recaídas».
 
 [^5]: (205:3) Comparar AV. LXX.
 
-[^6]: (205:4) Pahl. <i>a</i>fas angûstô zahîh-1-i mâyagânîk pavan vînîk-ta<i>g</i> <i>a</i><i>ê</i>. En lugar de mâyagânîk, 'específico' (que aparece, sin embargo, en el Libro VIII, Cap. XX, 166), podemos leer mâsânîk, 'tumoso o coagulante', o podemos considerarlo equivalente a mûyi<i>s</i>nîk, 'lamentable'.
+[^6]: (205:4) Pahl. <i>a</i>fas angûstô zahîh-1-i mâyagânîk pavan vînîk-ta<i>g</i> <i>a</i><i>ê</i>. En lugar de mâyagânîk, «específico» (que aparece, sin embargo, en el Libro VIII, Cap. XX, 166), podemos leer mâsânîk, «tumoso o coagulante», o podemos considerarlo equivalente a mûyi<i>s</i>nîk, «lamentable».
 
 [^7]: (205:5) Compárese la referencia a la prueba del fuego en Pahl. Yas. XLVI, 6; la primera parte del capítulo es también una especie de homilía sobre las referencias a los malvados y a los justos en el mismo hâ.

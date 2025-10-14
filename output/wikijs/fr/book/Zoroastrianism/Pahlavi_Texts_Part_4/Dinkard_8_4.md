@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE IV.
 
-1\. Le Bakŏ [^1] _contient_ des détails sur la division du récit de la première parole de la révélation [^2], la première créature [^3] _dans_ cette parole, sa première occurrence, l'adaptation de la créature, et la grandeur de cette parole qui incorpore la créature, en raison de cela ; aussi, en particulier, le mélange de pensée (mê<i>d</i>) [^4] avec elle. 2. Une connaissance très complète de toute chose, chaque séparément sa propre progéniture, et de nombreux appendices aussi étroitement liés à elle que ce qui est dit concernant le Bakŏ [^5], que 'le Bakŏ de la communauté (dâhmân) est entendu là où il est prononcé pour la communauté', c'est-à-dire, quiconque fera cette bonne œuvre, pour lui cette bonne œuvre _sera_ faite.
+1\. Le Bakŏ [^1] _contient_ des détails sur la division du récit de la première parole de la révélation [^2], la première créature [^3] _dans_ cette parole, sa première occurrence, l'adaptation de la créature, et la grandeur de cette parole qui incorpore la créature, en raison de cela ; aussi, en particulier, le mélange de pensée (mê<i>d</i>) [^4] avec elle. 2. Une connaissance très complète de toute chose, chaque séparément sa propre progéniture, et de nombreux appendices aussi étroitement liés à elle que ce qui est dit concernant le Bakŏ [^5], que « le Bakŏ de la communauté (dâhmân) est entendu là où il est prononcé pour la communauté », c'est-à-dire, quiconque fera cette bonne œuvre, pour lui cette bonne œuvre _sera_ faite.
 
 3\. La justice est l’excellence parfaite.
 
