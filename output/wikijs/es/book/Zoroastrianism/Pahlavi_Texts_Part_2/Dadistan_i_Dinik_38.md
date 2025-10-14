@@ -64,10 +64,10 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (121:1) Se equilibran con los pecados cometidos (véanse los caps. XIII, 2-4, XXIV, 5, 6); si las buenas obras superan a los pecados por una cantidad muy pequeña, se supone que el alma va al cielo ordinario (vahi<i>s</i>tô), pero si por una cantidad suficiente para equilibrar un pecado inexpiable, va a la mejor existencia, o cielo supremo (garô<i>d</i>mânô, véase Sls. VI, 3, 4). M14 y J tienen simplemente: 'La medida para las buenas obras _siendo_ revelada'.
+[^1]: (121:1) Se equilibran con los pecados cometidos (véanse los caps. XIII, 2-4, XXIV, 5, 6); si las buenas obras superan a los pecados por una cantidad muy pequeña, se supone que el alma va al cielo ordinario (vahi<i>s</i>tô), pero si por una cantidad suficiente para equilibrar un pecado inexpiable, va a la mejor existencia, o cielo supremo (garô<i>d</i>mânô, véase Sls. VI, 3, 4). M14 y J tienen simplemente: «La medida para las buenas obras _siendo_ revelada».
 
 [^2]: (121:2) Las tres características de las buenas obras.
 
 [^3]: (121:3) Véanse los Caps. XXVI, 3, XXXI, 24, XXXVII, 22.
 
-[^4]: (121:4) Las buenas obras en exceso de la cantidad necesaria 'para admitir el alma en el cielo supremo' no pueden afectar el destino del alma, pero se suman a su goce futuro (ver Cap. VIII, 4), y no se puede asignar ningún límite a la cantidad que puede ser así absorbida.
+[^4]: (121:4) Las buenas obras en exceso de la cantidad necesaria «para admitir el alma en el cielo supremo» no pueden afectar el destino del alma, pero se suman a su goce futuro (ver Cap. VIII, 4), y no se puede asignar ningún límite a la cantidad que puede ser así absorbida.

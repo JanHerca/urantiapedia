@@ -82,6 +82,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^8]: (62:5) L'esprit de l'air, ou ange Râm, qui accueille et protège la bonne âme en route vers l'autre monde (voir Chap XXVIII, 2, 5).
 
-[^9]: (62:6) Identifié à Astô-vîdâ<i>d</i>, le démon de la mort, dans Bd. XXVIII, 35, mais Pahl. Vend. V, 25, 31 en fait un démon distinct, qui emporte l'âme liée, ce qui l'identifierait au démon Vîzarêsh de Vend. XIX, 94, Bd. XXVIII, 18. Il y a très peu de doute, cependant, que le traducteur pahlavi de Vend. V ait mal compris l'Avesta, qui dit simplement que 'Astô-vîdhôtu le lie, Vayô le transporte lié', se référant probablement au bon Vâê qui reçoit l'âme qui s'en va ; et Pahl. Vend. V, 31 admet que c'était l'opinion de certains.
+[^9]: (62:6) Identifié à Astô-vîdâ<i>d</i>, le démon de la mort, dans Bd. XXVIII, 35, mais Pahl. Vend. V, 25, 31 en fait un démon distinct, qui emporte l'âme liée, ce qui l'identifierait au démon Vîzarêsh de Vend. XIX, 94, Bd. XXVIII, 18. Il y a très peu de doute, cependant, que le traducteur pahlavi de Vend. V ait mal compris l'Avesta, qui dit simplement que « Astô-vîdhôtu le lie, Vayô le transporte lié », se référant probablement au bon Vâê qui reçoit l'âme qui s'en va ; et Pahl. Vend. V, 31 admet que c'était l'opinion de certains.
 
 [^10]: (63:1) Rien n'est dit ici du troisième gâteau sacré, mais Sls. XVII, 4 précise que celui-ci doit être dédié à l'esprit gardien juste (voir Chap. XXVIII, 7).

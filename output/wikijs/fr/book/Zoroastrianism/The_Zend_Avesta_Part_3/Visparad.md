@@ -336,7 +336,7 @@ Avec ce chant (entièrement) chanté, et qui est pour les Immortels Généreux e
 
 1\. Nous adorons Ahura Mazda comme le meilleur [^1504] (adoration à offrir dans nos offrandes). Nous adorons l'Amesha Spe<i>n</i>ta (une fois de plus, et comme) le meilleur. Nous adorons Asha Vahi<i>s</i>ta (qui est la Justice la Meilleure). Et nous sacrifions à celles (prières) qui sont évidentes comme étant les meilleures ; c'est-à-dire les Louanges des Yasnas.
 
-Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vahi<i>s</i>ta, et nous adorons le Ciel, qui est le meilleur monde des saints, brillant et tout glorieux ; et nous sacrifions de même à cette meilleure approche qui mène à [^1505] lui. 2. Et nous sacrifions à cette récompense, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> la santé, la guérison, le progrès et l'accroissement, et à cette victoire qui est dans [^1506] les deux, l'Ahuna-vairya et l'Airy<i>e</i>mâ-ishyô, par la récitation mémorisée des bonnes pensées, paroles et actions (qu'ils recommandent).
+Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vahi<i>s</i>ta, et nous adorons le Ciel, qui est le meilleur monde des saints, brillant et tout glorieux ; et nous sacrifions de même à cette meilleure approche qui mène à [^1505] lui. 2. Et nous sacrifions à cette récompense, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> la santé, la guérison, le progrès et l'accroissement, et à cette victoire qui est dans [^1506] les deux, l'Ahuna-vairya et l'Airy<i>e</i>mâ-ishyô, par la récitation mémorisée des bonnes pensées, paroles et actions (qu'ils recommandent).
 
 <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 

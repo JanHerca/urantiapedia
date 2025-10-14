@@ -36,7 +36,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 0\. On the conflict waged with the primeval ox.
 
-1\. As it passed away [^1], owing to the vegetable principle (<i>k</i>îharak) _proceeding_, from every limb of the ox, fifty and five species of grain [^2] _and_ twelve species of medicinal plants grew forth from the earth, and their splendour and strength were the <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> seminal energy (tôkhmîh) of the ox. 2. Delivered to the moon station [^3], that seed was thoroughly purified by the light of the moon, fully prepared in every way, and produced life in a body. 3. Thence _arose_ two oxen, one male _and_ one female; and, afterwards, two hundred and eighty-two species of each kind [^4] became manifest upon the earth. 4. The dwelling (mânîst) of the birds is in the air, and the fish are in the midst of the water.
+1\. As it passed away [^1], owing to the vegetable principle (<i>k</i>îharak) _proceeding_, from every limb of the ox, fifty and five species of grain [^2] _and_ twelve species of medicinal plants grew forth from the earth, and their splendour and strength were the <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> seminal energy (tôkhmîh) of the ox. 2. Delivered to the moon station [^3], that seed was thoroughly purified by the light of the moon, fully prepared in every way, and produced life in a body. 3. Thence _arose_ two oxen, one male _and_ one female; and, afterwards, two hundred and eighty-two species of each kind [^4] became manifest upon the earth. 4. The dwelling (mânîst) of the birds is in the air, and the fish are in the midst of the water.
 
 <figure class="table chapter-navigator">
   <table>

@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 1\. _Quant à_ la soixante-dix-neuvième question _et_ réponse, celle que vous demandez est la suivante : Concernant celui qui n'ordonne pas de _cérémonies_, quelle est donc la décision ?
 
-2\. La réponse est celle-ci, que, excepté ceux parmi lesquels se trouve spécialement le rite religieux choisi (dînô) de celui dont la cérémonie n'est pas accomplie - qui, bien qu'ayant beaucoup de bonnes œuvres, n'atteint pas ensuite le ciel suprême, qui est déterminé [^1]\ - ceci, de plus, est ainsi dit, que celui qui n'est pas capable d'accomplir lui-même son rituel, lorsqu'il ordonne une cérémonie de Gêtô-kharî<i>d</i> [^2] et qu'ils l'accomplissent, peut devenir apte au ciel suprême (garô<i>d</i>mânîkŏ) ; cela est grandement louable.
+2\. La réponse est celle-ci, que, excepté ceux parmi lesquels se trouve spécialement le rite religieux choisi (dînô) de celui dont la cérémonie n'est pas accomplie - qui, bien qu'ayant beaucoup de bonnes œuvres, n'atteint pas ensuite le ciel suprême, qui est déterminé [^1]\ - ceci, de plus, est ainsi dit, que celui qui n'est pas capable d'accomplir lui-même son rituel, lorsqu'il ordonne une _cérémonie_ de Gêtô-kharî<i>d</i> [^2] et qu'ils l'accomplissent, peut devenir apte au ciel suprême (garô<i>d</i>mânîkŏ) ; cela est grandement louable.
 
 <figure class="table chapter-navigator">
   <table>

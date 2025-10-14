@@ -72,11 +72,11 @@ L'Avesta nous informe que Keresâspa était le fils de Thrita le Sâman et le fr
 
 <span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
-Français De ses exploits, on nous dit qu'il « tua le serpent Srvara, qui dévorait chevaux et hommes, qui était venimeux et jaune, sur lequel un poison jaune coulait d'une largeur de main de haut. Sur quoi Keresâspa fit cuire une boisson dans un chaudron à l'heure de midi, et le serpent étant brûlé, siffla, s'élança loin du chaudron et renversa l'eau bouillante ; Keresâsp, l'esprit viril, s'enfuit effrayé [^8]. » On nous dit en outre qu'il tua Gandarewa aux talons d'or [^9] ; qu'il frappa Hitâspa pour venger le meurtre de son frère, Urvâkhshaya [^10] ; qu'il frappa les Hunus qui sont les neuf bandits de grand chemin, et ceux descendants de Nivika et de Dâstayâni [^11] ; également Vareshava le Dânayan, Pitaona avec les nombreuses sorcières, Arezô-shamana et Snâvidhaka [^12] ; et qu'il a résisté à de nombreux frappeurs ou meurtriers [^13].
+De ses exploits, on nous dit qu'il « tua le serpent Srvara, qui dévorait chevaux et hommes, qui était venimeux et jaune, sur lequel un poison jaune coulait d'une largeur de main de haut. Sur quoi Keresâspa fit cuire une boisson dans un chaudron à l'heure de midi, et le serpent étant brûlé, siffla, s'élança loin du chaudron et renversa l'eau bouillante ; Keresâsp, l'esprit viril, s'enfuit effrayé [^8]. » On nous dit en outre qu'il tua Gandarewa aux talons d'or [^9] ; qu'il frappa Hitâspa pour venger le meurtre de son frère, Urvâkhshaya [^10] ; qu'il frappa les Hunus qui sont les neuf bandits de grand chemin, et ceux descendants de Nivika et de Dâstayâni [^11] ; également Vareshava le Dânayan, Pitaona avec les nombreuses sorcières, Arezô-shamana et Snâvidhaka [^12] ; et qu'il a résisté à de nombreux frappeurs ou meurtriers [^13].
 
 Les détails de ces exploits, encore présents dans l'Avesta, sont très rares ; mais certains d'entre eux semblent avoir été décrits plus en détail dans une légende sur l'âme de Keresâspa qui constituait autrefois le quatorzième fargard<i>d</i> du Sû<i>d</i>kar Nask, dont le contenu est ainsi résumé dans le neuvième livre du Dînka<i>r</i><i>d</i> :
 
-« Le quatorzième fargar<i>d</i>, A<i>d</i>\-fravakhshî [^14], concerne <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Aûha<i>r</i>ma<i>z</i><i>d</i> montrant le terrible état de l'âme de Keresâsp [^15] à Zaratû<i>s</i>t ; la consternation de Zaratû<i>s</i>t due à ce terrible état ; les paroles douloureuses de Keresâsp concernant le massacre de multitudes, pour lequel l'humanité l'exalte, par lequel des abstentions du péché _se sont produites_ ; et la reconnaissance de lui par le créateur, Aûha<i>r</i>ma<i>z</i><i>d</i>, comme éteignant son feu. Français La supplication de Keresâsp _pour_ la meilleure existence d'Aûha<i>r</i>ma<i>z</i><i>d</i> pour ces exploits lorsque le serpent (gaz) Srôbar [^16] _fut_ tué par lui, et la violence de cet adversaire ; lorsque Gandarep [^17] aux talons d'or _fut_ frappé par lui, _et_ la merveille de ce démon ; lorsque les Hunus _de_ Ve<i>s</i>kŏ [^18], qui sont <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> _descendants_ de Nîvîk _et_ de Dâstânîk [^19], _furent_ tués_ par lui, _et_ les graves dommages et désastres qui leur furent dus ; _et_ lorsque le vent puissant [^20] _fut_ apaisé par lui, et ramené du mal qu'il faisait au monde au bien des créatures ; _et_ pour ce qui _arrive_ lorsque, en raison de son confinement [^21], Dahâk s'empresse, se précipite pour la destruction du monde, _et_ tente l'annihilation des créatures ; _et_ son excitation à le frapper et à apprivoiser ce puissant démon pour les créatures du monde. L'opposition du feu à Keresâsp, en _lui causant_ de la détresse _et_ en_ s'en tenant éloigné_, ce qui _était_ dû à sa recherche de l'enfer ; _la supplication de_ Zaratûs<i>s</i>t au feu d'avoir compassion de _lui_, ce qui _était_ dû à son péché ; _l'acquiescement du feu à cette requête ; et le départ de l'âme de Keresâsp vers l'existence éternellement stationnaire [^22]. Parfaite est l'excellence de la justice [^23].'
+« Le quatorzième fargar<i>d</i>, A<i>d</i>\-fravakhshî [^14], concerne <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Aûha<i>r</i>ma<i>z</i><i>d</i> montrant le terrible état de l'âme de Keresâsp [^15] à Zaratû<i>s</i>t ; la consternation de Zaratû<i>s</i>t due à ce terrible état ; les paroles douloureuses de Keresâsp concernant le massacre de multitudes, pour lequel l'humanité l'exalte, par lequel des abstentions du péché _se sont produites_ ; et la reconnaissance de lui par le créateur, Aûha<i>r</i>ma<i>z</i><i>d</i>, comme éteignant son feu. La supplication de Keresâsp _pour_ la meilleure existence d'Aûha<i>r</i>ma<i>z</i><i>d</i> pour ces exploits lorsque le serpent (gaz) Srôbar [^16] _fut_ tué par lui, et la violence de cet adversaire ; lorsque Gandarep [^17] aux talons d'or _fut_ frappé par lui, _et_ la merveille de ce démon ; lorsque les Hunus _de_ Ve<i>s</i>kŏ [^18], qui sont <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> _descendants_ de Nîvîk _et_ de Dâstânîk [^19], _furent_ tués_ par lui, _et_ les graves dommages et désastres qui leur furent dus ; _et_ lorsque le vent puissant [^20] _fut_ apaisé par lui, et ramené du mal qu'il faisait au monde au bien des créatures ; _et_ pour ce qui _arrive_ lorsque, en raison de son confinement [^21], Dahâk s'empresse, se précipite pour la destruction du monde, _et_ tente l'annihilation des créatures ; _et_ son excitation à le frapper et à apprivoiser ce puissant démon pour les créatures du monde. L'opposition du feu à Keresâsp, en _lui causant_ de la détresse _et_ en_ s'en tenant éloigné_, ce qui _était_ dû à sa recherche de l'enfer ; _la supplication de_ Zaratûs<i>s</i>t au feu d'avoir compassion de _lui_, ce qui _était_ dû à son péché ; _l'acquiescement du feu à cette requête ; et le départ de l'âme de Keresâsp vers l'existence éternellement stationnaire [^22]. Parfaite est l'excellence de la justice [^23]. »
 
 Bien que le Sûdkar Nask soit perdu depuis longtemps, la légende contenue dans ce quatorzième fargard subsiste encore sous sa forme pahlavi, quoique probablement quelque peu abrégée. Une paraphrase persane de cette version pahlavi se trouve également dans les Rivâyats persans [^24]. La légende pahlavi figure parmi une série de citations concernant l'importance du feu, contenues dans un Rivâyat pahlavi précédant le Dâdistân-î Dînîk dans certains manuscrits [^25] ; et sa correspondance étroite avec le résumé ci-dessus du quatorzième fargard du Sûdkar Nask ressort de la traduction suivante :
 
@@ -110,13 +110,13 @@ Keresâsp parla ainsi : « Accorde-moi, ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! le 
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Je ne te donnerai pas cela, âme de Keresâsp ! Car les hommes commettront le péché ; et tant qu’ils ne commettront plus de péché, il ne sera pas possible de te faire revivre, et tu ne pourras pas non plus faire revivre d’autres hommes, car ils produisent la résurrection ainsi, lorsque tous les hommes redeviennent tout à fait innocents. Quand les hommes mourront et que leurs âmes seront mauvaises, tout réconfort les abandonnera, et toute la misère et l’inconfort qu’ils occasionnent persisteront. »
 
-« Quand on parla ainsi de Keresâsp et de ses exploits, les anges des existences spirituelles et les anges des existences terrestres pleurèrent à haute voix, et Zaratû le Spîtamân pleura à haute voix [^48] et parla ainsi : « Bien qu'il n'y ait pas de trompeur, je serais le trompeur à tes yeux [^49], ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! en ce qui concerne l'âme de Keresâsp ; car si Keresâsp n'avait pas existé en tant qu'existence corporelle et vivante, il n'y aurait eu aucun vestige de quoi que ce soit, ni de ta créature, dans le monde [^50]. »
+« Quand on parla ainsi de Keresâsp et de ses exploits, les anges des existences spirituelles et les anges des existences terrestres pleurèrent à haute voix, et <span id="p379"><sup><small>[ p. 379 ]</small></sup></span> Zaratû le Spîtamân pleura à haute voix [^48] et parla ainsi : « Bien qu'il n'y ait pas de trompeur, je serais le trompeur à tes yeux [^49], ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! en ce qui concerne l'âme de Keresâsp ; car si Keresâsp n'avait pas existé en tant qu'existence corporelle et vivante, il n'y aurait eu aucun vestige de quoi que ce soit, ni de ta créature, dans le monde [^50]. »
 
 « Lorsque Zaratûst se tut, l'ange du feu [^51] se tint sur ses pieds [^52], et la nature pécheresse de Keresâsp lui fut pleinement mentionnée, et il parla ainsi : « Je ne le laisserai pas entrer au ciel. »
 
-« Et l'ange de feu, ayant prononcé ces nombreuses paroles, cessa ; et l'ange Gôsaûrvan [^53] se tint sur ses pieds et parla ainsi : « Je ne le laisserai pas entrer dans l'enfer, car le bienfait qu'il m'a apporté était multiple. »
+« Et l'ange de feu, ayant prononcé ces nombreuses <span id="p380"><sup><small>[ p. 380 ]</small></sup></span> paroles, cessa ; et l'ange Gôsaûrvan [^53] se tint sur ses pieds et parla ainsi : « Je ne le laisserai pas entrer dans l'enfer, car le bienfait qu'il m'a apporté était multiple. »
 
-'Gôss-aûrvan, après avoir prononcé ces nombreuses paroles, s'arrêta [^54] ; et Zaratûss se tint debout, et il rendit hommage au feu, et il parla ainsi : « Je prendrai soin de toi, et je parlerai de tes exploits dans le monde, et je parlerai à Viṣṇṭṭâsp [^55] et à Gṣṇṭâsp [^56] ainsi : « Observe bien qu'une place est faite pour le feu comme si c'était immédiatement ! » lorsque Keressâsp se sera engagé dans la renonciation au péché, et tu lui pardonneras [^57].''
+«Gôss-aûrvan, après avoir prononcé ces nombreuses paroles, s'arrêta [^54] ; et Zaratûss se tint debout, et il rendit hommage au feu, et il parla ainsi : « Je prendrai soin de toi, et je parlerai de tes exploits dans le monde, et je parlerai à Viṣṇṭṭâsp [^55] et à Gṣṇṭâsp [^56] ainsi : « Observe bien qu'une place est faite pour le feu comme si c'était immédiatement ! » lorsque Keressâsp se sera engagé dans la renonciation au péché, et tu lui pardonneras [^57]. » »
 
 La légende pahlavi s'interrompt ici, laissant au lecteur la possibilité de déduire que la requête de Zaratûst fut acceptée. Elle est cependant suivie des remarques suivantes concernant Keresâsp, manifestement liées à la même légende :
 
@@ -164,7 +164,7 @@ Outre la paraphrase persane de cette légende, en prose, les Rivâyats persans c
 
 [^3]: (369:3) Voir Âbân Yt. 37, Râm Yt. 27, Zamyâ<i>d</i> Yt. 38, 40, 44. Nous avons donc Sâm, fils de Narîmân, comme grand-père de Rustam dans la Shâhnâmah.
 
-[^4]: (369:4) Voir Yas. IX, 33. M. de Harlez convertit les platines latérales en une arme appelée gaêsu<i>s</i>, mais ce mot survit encore en persan gês ou gêsû, 'anneau, platine latérale'.
+[^4]: (369:4) Voir Yas. IX, 33. M. de Harlez convertit les platines latérales en une arme appelée gaêsu<i>s</i>, mais ce mot survit encore en persan gês ou gêsû, « anneau, platine latérale ».
 
 [^5]: (369:5) Voir Vend. I, 36. Ou bien il peut s'agir de « la sorcière qu'on détruit, ou qu'on prie », si l'on traduit le nom.
 
@@ -172,7 +172,7 @@ Outre la paraphrase persane de cette légende, en prose, les Rivâyats persans c
 
 [^7]: (369:7) Voir Fravar<i>d</i>în Yt. 61. Pour la raison de cette vigilance, voir Dd. XVII, 6 n.
 
-[^8]: (370:1) Voir Yas. IX, 34--39, Zamyâ<i>d</i> Yt. 40 (traduit dans Haug's Essays, pp. 78, 179).
+[^8]: (370:1) Voir Yas. IX, 34—39, Zamyâ<i>d</i> Yt. 40 (traduit dans Haug's Essays, pp. 78, 179).
 
 [^9]: (370:2) Voir Âbân Yt. 38, Zamyâ<i>d</i> Yt. 41. Un monstre dans l'océan aux larges rivages, qui est également mentionné dans Râm Yt. 28.
 
@@ -218,9 +218,9 @@ Outre la paraphrase persane de cette légende, en prose, les Rivâyats persans c
 
 [^30]: (374:1) Le feu est souvent appelé « le fils d'Ahura-mazda » dans l'Avesta, comme dans Yas : II, 18, Vend. V, 9, etc.
 
-[^31]: (374:2) Le Srvara de Yas. IX, 34, Zamyâ<i>d</i> Yt. 40. La version persane a simplement azdahâ, 'un dragon'.
+[^31]: (374:2) Le Srvara de Yas. IX, 34, Zamyâ<i>d</i> Yt. 40. La version persane a simplement azdahâ, « un dragon ».
 
-[^32]: (374:3) Ou cela peut être shâk, 'une branche'. La version persane dit 'quatre-vingts coudées'.
+[^32]: (374:3) Ou cela peut être shâk, « une branche ». La version persane dit « quatre-vingts coudées ».
 
 [^33]: (374:4) La version persane ajoute « et tandis que je regardais dans sa bouche, des hommes étaient encore suspendus à ses dents » ; ce qui était évidemment suggéré par ce qui est dit dans le récit de l'exploit suivant.
 
@@ -274,7 +274,7 @@ Outre la paraphrase persane de cette légende, en prose, les Rivâyats persans c
 
 [^58]: (381:1) J omet les mots suivants jusqu'au prochain « ainsi ».
 
-[^59]: (381:2) Se référant à la renaissance de Keresâsp de sa transe, afin de détruire Dahâk, qui est censée avoir lieu avant la résurrection générale (voir Bd. XXIX, 8, Byt. III, 59--61).
+[^59]: (381:2) Se référant à la renaissance de Keresâsp de sa transe, afin de détruire Dahâk, qui est censée avoir lieu avant la résurrection générale (voir Bd. XXIX, 8, Byt. III, 59—61).
 
 [^60]: (381:3) Dans B29, fols. 169-171, il est cité du « livre de Bahirâm Fîrûz ».
 

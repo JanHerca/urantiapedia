@@ -71,15 +71,15 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^2]: (61:5) Véase Sls. XVII, 4. Se supone que estos dos ángeles están presentes cuando el alma rinde cuentas; Rashnû pesa sus acciones en su balanza de oro, y Â<i>s</i>tâ<i>d</i> la asiste (véase AV. V, 3, 5),
 
-[^3]: (61:6) Leyendo râî, en lugar de lâ, 'no'.
+[^3]: (61:6) Leyendo râî, en lugar de lâ, «no».
 
 [^4]: (62:1) Uno de los cinco períodos del día y de la noche, que se extiende desde la medianoche hasta que las estrellas desaparecen al amanecer, o, como dicen algunos, hasta que todas las estrellas fijas desaparecen excepto cuatro de primera magnitud (véase Bd. XXV, 9, Sls. XIV, 4-6).
 
-[^5]: (62:2) Llamada Ushi-darena en el Avesta, e identificada con alguna montaña en Sagastân en Bd. XII, 15. Se menciona en la fórmula dedicatoria de Â<i>s</i>tâ<i>d</i> (ver Sir. 26), y su nombre evidentemente se supone aquí que significa 'el portador del amanecer', un término apropiado para una montaña elevada hacia el este.
+[^5]: (62:2) Llamada Ushi-darena en el Avesta, e identificada con alguna montaña en Sagastân en Bd. XII, 15. Se menciona en la fórmula dedicatoria de Â<i>s</i>tâ<i>d</i> (ver Sir. 26), y su nombre evidentemente se supone aquí que significa «el portador del amanecer», un término apropiado para una montaña elevada hacia el este.
 
 [^6]: (62:3) Tanto Rashnû como Â<i>s</i>tâ<i>d</i> son bendecidos en las oraciones designadas para el período de Aûshahîn del día.
 
-[^7]: (62:4) La 'gloria de los arios' es alabada en el Â<i>s</i>tâ<i>d</i> Yost.
+[^7]: (62:4) La «gloria de los arios» es alabada en el Â<i>s</i>tâ<i>d</i> Yost.
 
 [^8]: (62:5) El espíritu del aire, o ángel Râm, que recibe y protege al alma buena en su camino hacia el otro mundo (ver Cap XXVIII, 2, 5).
 

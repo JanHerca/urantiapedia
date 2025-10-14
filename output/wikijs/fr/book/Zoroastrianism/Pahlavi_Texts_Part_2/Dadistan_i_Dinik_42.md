@@ -68,11 +68,11 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^1]: (139:4) Il s’agit évidemment d’une personne placée en position d’autorité, comme un grand prêtre ou un juge.
 
-[^2]: (139:5) Lecture de êdîna<i>s</i>, 'puis de lui', au lieu de ayûf, 'ou' ; les deux mots étant identiques en Pahlavi sauf dans la dernière partie de la dernière lettre.
+[^2]: (139:5) Lecture de êdîna<i>s</i>, « puis de lui », au lieu de ayûf, « ou » ; les deux mots étant identiques en Pahlavi sauf dans la dernière partie de la dernière lettre.
 
 [^3]: (140:1) C'est-à-dire que son chemin vers le ciel par le pont <i>K</i>inva<i>d</i> est rendu large et facile par ses bonnes actions (voir chap. XXI, 5).
 
-[^4]: (140:2) Lecture aîmê<i>d</i> ; M14 a khîm, 'disposition', et K35 a khimâ<i>d</i>, ce qui suggère 'sera grandement célébré' comme traduction possible.
+[^4]: (140:2) Lecture aîmê<i>d</i> ; M14 a khîm, « disposition », et K35 a khimâ<i>d</i>, ce qui suggère « sera grandement célébré » comme traduction possible.
 
 [^5]: (140:3) Le sens semble être que leurs bonnes œuvres lui sont imputées seulement tant qu’il continue à exercer un certain contrôle sur elles.
 

@@ -67,6 +67,6 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (30:2) Después de la muerte, cuando se han completado todas las ceremonias inmediatas por los muertos (ver Sls. XVII, nota 5).
 
-[^2]: (30:3) Literalmente, 'la buena obra del principio'. Que bûn ki<i>r</i>fakŏ no signifique aquí bûn-î ki<i>r</i>fakŏ, 'el origen o raíz de la buena obra', aparece en el cap. XII, 1, donde está escrito ki<i>r</i>fakŏ-î bûn.
+[^2]: (30:3) Literalmente, «la buena obra del principio». Que bûn ki<i>r</i>fakŏ no signifique aquí bûn-î ki<i>r</i>fakŏ, «el origen o raíz de la buena obra», aparece en el cap. XII, 1, donde está escrito ki<i>r</i>fakŏ-î bûn.
 
-[^3]: (30:4) Literalmente, 'la buena obra del crecimiento'.
+[^3]: (30:4) Literalmente, «la buena obra del crecimiento».

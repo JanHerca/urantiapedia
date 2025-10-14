@@ -70,11 +70,11 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (43:1) Literalmente, «según se declara la razón». Esta es otra alusión al capítulo faltante mencionado en el cap. XVII, 20.
 
-[^2]: (43:2) Se lee âhûn khadûînŏ, pero es muy probable que sea una corrupción de khadûînŏ khadûînŏ, '_en_ varios modos'.
+[^2]: (43:2) Se lee âhûn khadûînŏ, pero es muy probable que sea una corrupción de khadûînŏ khadûînŏ, «_en_ varios modos».
 
-[^3]: (43:3) Los manuscritos tienen mûnam, 'que por mí'.
+[^3]: (43:3) Los manuscritos tienen mûnam, «que por mí».
 
-[^4]: (43:4) Los manuscritos tienen min madam, 'desde arriba'.
+[^4]: (43:4) Los manuscritos tienen min madam, «desde arriba».
 
 [^5]: (43:5) Es dudoso que khadûkŏ-sagakŏ signifique ‘roca sólida’ o ‘sillar sólido’.
 

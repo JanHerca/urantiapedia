@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Y el mal del infierno es mucho más grave que el más grave mal de la tierra, pues la grandeza de la existencia espiritual es mayor que la del mundo; y el terror del castigo sobre el alma es más grave que el de la vileza de los demonios sobre el cuerpo. 6. Y el castigo sobre el alma proviene de aquellos cuya morada se ha convertido [^3], de los demonios y la oscuridad —una semejanza de ese mal con el infierno—, cuya cabeza (kamârakŏ) es Aharman, el mortal.
 
-7\. Y las palabras de la expresiva expresión de los sumos sacerdotes son estas: que donde hay temor de cualquier otra cosa, ésta es más que la cosa misma, pero el infierno es algo peor que el temor de ella.
+7\. Y las palabras de la expresiva expresión de los sumos sacerdotes son estas: que donde _hay_ temor de cualquier otra cosa, ésta es más que la cosa misma, _pero_ el infierno es algo peor que el temor _de ella_.
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (57:2) O 'ignorancia'.
+[^1]: (57:2) O «ignorancia».
 
 [^2]: (58:1) Probablemente significa que la mezcla del bien y el mal en el mundo está tan alejada del cielo como del infierno. Pero las palabras aê-numâî y gumi<i>s</i>nŏ son dudosas tanto en su lectura como en su significado.
 

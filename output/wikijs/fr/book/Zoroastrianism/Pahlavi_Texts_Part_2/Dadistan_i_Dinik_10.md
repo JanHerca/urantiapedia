@@ -34,9 +34,9 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPITRE X.
 
-1\. La neuvième question est celle que vous posez ainsi : Dans quelle mesure la croissance [^1] de ses bonnes œuvres augmente-t-elle, à partir du moment où les bonnes œuvres sont faites, aussi longtemps qu'il vit ?
+1\. La neuvième question est celle que vous posez ainsi : Dans quelle mesure la croissance [^1] de ses bonnes œuvres augmente-t-elle, à partir du moment où les bonnes œuvres sont faites, aussi longtemps qu'_il_ vit ?
 
-2\. La réponse est celle-ci, qu'à partir du moment où une bonne œuvre commence à se développer, sa croissance continue d'augmenter aussi longtemps que l'homme vit ; de plus, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> lorsqu'il est affligé par cette bonne œuvre [^2], tandis que l'augmentation ne cesse pas d'augmenter, elle croît tout comme un enfant grandit dans le ventre d'une mère.
+2\. La réponse est celle-ci, qu'à partir du _moment_ où une bonne œuvre commence à se développer, sa croissance continue d'augmenter aussi longtemps que l'homme vit ; de plus, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> lorsqu'il est affligé par cette bonne œuvre [^2], tandis que l'augmentation ne cesse pas d'augmenter, elle croît tout comme un enfant grandit dans le ventre d'une mère.
 
 <figure class="table chapter-navigator">
   <table>

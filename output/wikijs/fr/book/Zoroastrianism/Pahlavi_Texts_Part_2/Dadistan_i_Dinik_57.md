@@ -64,4 +64,4 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## Notes de bas de page
 
-[^1]: (190:4) M14 a malkâânŏ malkâ bôndak, 'un serviteur du roi des rois' ; mais voir Chap. LVI, 2.
+[^1]: (190:4) M14 a malkâânŏ malkâ bôndak, « un serviteur du roi des rois » ; mais voir Chap. LVI, 2.

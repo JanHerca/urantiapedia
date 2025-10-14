@@ -32,9 +32,9 @@ dateCreated: 2025-10-5T10:16:32Z
   </table>
 </figure>
 
-## SHAYÂST LA-SHAYÂST. CHAPTER XX [^1].
+## SHAYÂST LA-SHAYÂST. CHAPTER XX [^1].
 
-1\. _In_ one place it is declared that it is said by revelation (dînô) that a man is to go as much as possible (<i>k</i>and vê<i>s</i>\-ast) to the abode of fires [^2], and the salutation (nîyâyi<i>s</i>nŏ) of fire [^3] is to be performed _with_ reverence; because three times every day the archangels form an assembly in the abode of fires, and shed good works and righteousness there; and then the good works and righteousness, which are shed there, become more lodged in the body of _him_ who goes much thither, and performs many salutations of fire _with_ reverence.
+1\. _In_ one place it is declared that it is said by revelation (dînô) that a man is to go as much as possible (<i>k</i>and vê<i>s</i>\-ast) to the abode of fires [^2], and the salutation (nîyâyi<i>s</i>nŏ) of fire [^3] is to be performed _with_ reverence; because three times every day the archangels form an assembly in the abode of fires, and shed good works and righteousness there; and then the good works and righteousness, which are shed there, become more lodged in the body of _him_ who goes much thither, and performs many salutations of fire _with_ reverence.
 
 <span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
@@ -42,27 +42,27 @@ dateCreated: 2025-10-5T10:16:32Z
 
 3\. This, too, that a disposition in which is no wisdom is such-like as a clear, unsullied (anâhûk) fountain which is choked (bastŏ) and never goes into use; and the disposition with which _there_ is wisdom is such-like as a clear, unsullied fountain, over which an industrious man stands _and_ takes _it_ into use; cultivation restrains _it_, and it gives crops (bar) to the world.
 
-4\. This, too, that these three things are to be done by men, to force the _demon of_ corruption (nasû<i>s</i>) [^4] far away from the body, to be steadfast in the religion, and to perform good works. 5. To force the _demon of_ corruption far away from the body is this, that before the sun _has_ come up _one_ is to wash the hands [^5] and face with bull's urine and water; to be steadfast in the religion is this, that _one_ is to reverence the sun [^6]; and to perform good works is this, that _one_ is to destroy several noxious creatures.
+4\. This, too, that these three things are to be done by men, to force the _demon of_ corruption (nasû<i>s</i>) [^4] far away from the body, to be steadfast in the religion, and to perform good works. 5. To force the _demon of_ corruption far away from the body is this, that before the sun _has_ come up _one_ is to wash the hands [^5] and face with bull's urine and water; to be steadfast in the religion is this, that _one_ is to reverence the sun [^6]; and to perform good works is this, that _one_ is to destroy several noxious creatures.
 
 6\. This, too, that the three greatest concerns of men are these, to make him who is an enemy a friend, to make him who is wicked righteous, and to make him who is ignorant learned. 7. To make <span id="p395"><sup><small>[ p. 395 ]</small></sup></span> an enemy a friend is this, that out of the worldly wealth _one_ has before him he keeps a friend in mind; to make a wicked _one_ righteous is this, that from the sin, whereby he becomes wicked, _one_ turns him away; and to make an ignorant _one_ learned is this, that _one_ is to manage himself so that he who is ignorant may learn of him.
 
-8\. This, too, _that_ the walks of men are to be directed chiefly to these three places, to the abode of the well-informed, to the abode of the good, _and_ to the abode of fires [^7]. 9. To the abode of the well-informed, that so _one_ may become wiser, and religion be more lodged in _one's_ person; to the abode of the good for this _reason_, that so, among good and evil, he may thereby renounce the evil and carry home _the good_ [^8]; and to the abode of fires for this _reason_, that so the spiritual fiend may turn away from him.
+8\. This, too, _that_ the walks of men are to be directed chiefly to these three places, to the abode of the well-informed, to the abode of the good, _and_ to the abode of fires [^7]. 9. To the abode of the well-informed, that so _one_ may become wiser, and religion be more lodged in _one's_ person; to the abode of the good for this _reason_, that so, among good and evil, he may thereby renounce the evil and carry home _the good_ [^8]; and to the abode of fires for this _reason_, that so the spiritual fiend may turn away from him.
 
 10\. This, too, that _he_ whose actions are for the soul, the world is then his own, and the spiritual _existence_ more his own; and _he_ whose actions are for the body, the spiritual _existence_ has _him_ at pleasure, _and_ they snatch the world from him compulsorily.
 
-11\. This, too, that Bakht-âfrî<i>d</i> [^9] said, that every Gâtha (gâsân) [^10] of Aûharmazd has been an opposition <span id="p396"><sup><small>[ p. 396 ]</small></sup></span> of the one adversary, and the renunciation _of sin_ (patîtîk) [^11] for the opposition of every fiend.
+11\. This, too, that Bakht-âfrî<i>d</i> [^9] said, that every Gâtha (gâsân) [^10] of Aûharmazd has been an opposition <span id="p396"><sup><small>[ p. 396 ]</small></sup></span> of the one adversary, and the renunciation _of sin_ (patîtîk) [^11] for the opposition of every fiend.
 
 12\. This, too, that, regarding the world, anxiety is not to be suffered, it is not to be considered as anything whatever, and is not to be let slip from the hand. 13. Anxiety is not to be suffered for this _reason_, because that which is ordained will happen; it is not to be considered as anything whatever for this _reason_, because should it be expedient it is necessary to abandon _it_; and it is not to be let slip from the hand for this _reason_, because it is proper, in the world, to provide a spiritual _existence_ for oneself.
 
 14\. This, too, that the best thing is truth, and the worst thing is deceit; and _there_ is _he_ who speaks true _and_ thereby becomes wicked, and _there_ is _he_ who speaks false _and_ thereby becomes righteous.
 
-15\. This, too, that fire is not to be extinguished [^12], for _this_ is a sin; and _there_ is _he_ who extinguishes _it, and_ is good.
+15\. This, too, that fire is not to be extinguished [^12], for _this_ is a sin; and _there_ is _he_ who extinguishes _it, and_ is good.
 
 16\. This, too, is declared, that nothing is to be given to the vile; and _there_ is _he by_ whom the best and most pleasant ragout (khûr<i>d</i>îk) is to be given to the vile.
 
-17\. On these, too, is the attention of men _to be fixed_, because _there_ is a remedy for everything but death, a hope for everything but wickedness, everything will lapse [^13] except righteousness, it is possible <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> to manage everything but temper (gôhar), and it is possible _for_ everything to change but divine providence (bakô-bakhtô).
+17\. On these, too, is the attention of men _to be fixed_, because _there_ is a remedy for everything but death, a hope for everything but wickedness, everything will lapse [^13] except righteousness, it is possible <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> to manage everything but temper (gôhar), and it is possible _for_ everything to change but divine providence (bakô-bakhtô).
 
-18\. This, too, is declared, that Frê<i>d</i>ûn [^14] wished to slay A<i>z</i>\-i Dahâk [^15], _but_ Aûharmazd spoke thus: ‘Do not slay _him_ now, for the earth will become full of noxious creatures.’
+18\. This, too, is declared, that Frê<i>d</i>ûn [^14] wished to slay A<i>z</i>\-i Dahâk [^15], _but_ Aûharmazd spoke thus: ‘Do not slay _him_ now, for the earth will become full of noxious creatures.’
 
 <figure class="table chapter-navigator">
   <table>

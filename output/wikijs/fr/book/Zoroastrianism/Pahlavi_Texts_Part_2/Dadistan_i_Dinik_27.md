@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Et le mal de l'enfer est d'autant plus grave que le mal le plus grave sur terre, car la grandeur de l'existence spirituelle est plus grande que celle du monde ; et la terreur du châtiment sur l'âme est plus grave que celle de la vilenie des démons sur le corps. 6. Et le châtiment sur l'âme vient de ceux dont elle est devenue la demeure [^3], des démons et des ténèbres – une similitude de ce mal avec l'enfer – dont le chef (kamârakŏ) est Aharman le mortel.
 
-7\. Et les paroles expressives des grands prêtres sont celles-ci : là où il y a une crainte de toute autre chose, elle est plus que la chose elle-même, mais l'enfer est une chose pire que la crainte de celui-ci.
+7\. Et les paroles expressives des grands prêtres sont celles-ci : là où il y a une crainte de toute autre chose, elle est plus que la chose elle-même, _mais_ l'enfer est une chose pire que la crainte de _celui-ci_.
 
 <figure class="table chapter-navigator">
   <table>

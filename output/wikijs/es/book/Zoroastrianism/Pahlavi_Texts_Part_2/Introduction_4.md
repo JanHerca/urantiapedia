@@ -1,5 +1,5 @@
 ---
-title: "4. El Apéndice"
+title: "4. Apéndice"
 description: "Textos Pahlavi, Parte II (SBE 18) El Dâdistân-î Dînîk y las Epístolas de Mânûskîhar"
 published: true
 date: 2025-10-10T14:41:30Z
@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:30Z
   </table>
 </figure>
 
-## INTRODUCCIÓN 4\. EL APÉNDICE.
+## INTRODUCCIÓN 4\. APÉNDICE.
 
 Con el fin de aclarar ciertos asuntos mencionados en los escritos de Mânû<i>s</i><i>k</i>îhar, se ha añadido en forma de apéndice información adicional a la que se podía dar en las notas a pie de página.
 
@@ -40,7 +40,7 @@ A un breve resumen de las leyendas del Avesta relacionadas con el antiguo héroe
 
 También se describe en detalle el Nîrang-i Kustî, o ceremonia de atar el cinturón de hilo sagrado, con una traducción del ritual que lo acompaña, en parte a partir de observaciones reales y en parte de relatos Gu<i>g</i>arâti sobre el rito.
 
-Habiéndose hecho necesario determinar con certeza si el término «matrimonio entre parientes más próximos» era una traducción justificable de khvêtûk-das, tal como lo utilizaban los escritores pahlavi, se ha realizado un examen exhaustivo de todos los pasajes accesibles que arrojan alguna luz sobre el significado de la palabra. El resultado de esta investigación se puede comprender mejor a partir de los detalles recopilados, pero se puede afirmar en términos generales que, si bien «matrimonio entre parientes» podría representar con precisión el significado variable de khvêtûk-das en diferentes épocas, su significado habitual en la literatura pahlavi se indica con mayor precisión como «matrimonio entre parientes más próximos».
+Habiéndose hecho necesario determinar con certeza si el término «matrimonio entre parientes más próximos» era una traducción justificable de khvêtûk-das, tal como lo utilizaban los escritores pahlavi, se ha realizado un examen exhaustivo de todos los pasajes accesibles que arrojan alguna luz sobre el significado <span id="pxxix"><sup><small>[ p. xxix ]</small></sup></span> de la palabra. El resultado de esta investigación se puede comprender mejor a partir de los detalles recopilados, pero se puede afirmar en términos generales que, si bien «matrimonio entre parientes» podría representar con precisión el significado variable de khvêtûk-das en diferentes épocas, su significado habitual en la literatura pahlavi se indica con mayor precisión como «matrimonio entre parientes más próximos».
 
 Quizás debamos disculparnos con la comunidad parsi por dirigir la atención a un tema que consideramos desagradable. Sin embargo, con la publicación de una parte del Dînka<i>r</i><i>d</i>, ellos mismos han puesto el pasaje más importante sobre el tema al alcance de todo orientalista europeo, facilitando así que cualquier traductor prejuicioso presente la práctica de tales matrimonios como algo generalizado, en lugar de ser tan desagradables para los laicos como para requerir el ejercicio constante de toda la influencia del sacerdocio para recomendarlos, incluso en las épocas más oscuras de la fe. Evitar estas perspectivas parciales sobre el asunto, así como obstaculizarlas en otros, ha sido el objetivo principal del presente traductor al intentar determinar el significado exacto de los textos oscuros que tuvo que abordar.
 
@@ -52,9 +52,9 @@ Para las traducciones del Vendidâ<i>d</i> Pahlavi, el texto adoptado, siempre q
 
 Para concluir, el traductor debe aprovechar la oportunidad para agradecer la amabilidad y disposición con que Dastûr Peshotanji Behrâmji Sanjânâ, el sumo sacerdote de los parsis en Bombay, y Dastûr Jâmâspji Minochiharji Jâmâsp-Asâ-nâ, de la misma ciudad, siempre le han proporcionado cualquier información que ha solicitado, no sólo sobre aquellos asuntos especialmente mencionados en las notas a pie de página, sino también en muchas otras ocasiones.
 
-NUEVO OESTE.                  
+E. W. WEST.
 
-   MUNICH,  
+&nbsp;&nbsp;MUNICH,  
 Septiembre de 1882.
 
 <figure class="table chapter-navigator">

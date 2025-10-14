@@ -38,56 +38,56 @@ dateCreated: 2025-10-10T14:41:30Z
 
 La gran ceremonia de purificación para cualquier hombre o mujer parsi que se haya vuelto impuro por contacto con los muertos o por cualquier otra contaminación grave, dura nueve noches y se llama Bareshnum, nombre avéstico para la coronilla, la primera parte del cuerpo que se lava en la ceremonia, después de las manos. La descripción de esta ceremonia, que aparece en Pahl. Vend. IX, I-145, que no difiere mucho del rito aún en uso, es la siguiente [^1]:
 
-Pahl. Vend. IX, 1. Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</i> así: '¡Oh Aûha<i>r</i>ma<i>z</i><i>d</i>, espíritu propicio! ¡creador del mundo material! ¡que eres el justo _uno_ \[de la rectitud!' es decir, Aûha<i>r</i>ma<i>z</i><i>d</i> es el creador justo mediante la invocación, _y_ el resto mediante la alabanza\]. 2. 'Cómo, cuando en la existencia material ven a un hombre \[limpio\] junto con \[aquello que está contaminado\], (3) ¿cómo purificarán a quien <span id="p432"><sup><small>[ p. 432 ]</small></sup></span> ¿está _eso_ lleno de corrupción \[junto con contaminación\] debido a ese cadáver? \[es decir, ¿cómo deberían _hacerlo_ completamente limpio?\]'
+Pahl. Vend. IX, 1. Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</i> así: «¡Oh Aûha<i>r</i>ma<i>z</i><i>d</i>, espíritu propicio! ¡creador del mundo material! ¡que eres el justo _uno_ \[de la rectitud!» es decir, Aûha<i>r</i>ma<i>z</i><i>d</i> es el creador justo mediante la invocación, _y_ el resto mediante la alabanza\]. 2. «Cómo, cuando en la existencia material ven a un hombre \[limpio\] junto con \[aquello que está contaminado\], (3) ¿cómo purificarán a quien <span id="p432"><sup><small>[ p. 432 ]</small></sup></span> ¿está _eso_ lleno de corrupción \[junto con contaminación\] debido a ese cadáver? \[es decir, ¿cómo deberían _hacerlo_ completamente limpio?\]»
 
 4\. Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «¡Un hombre justo, oh Zaratû<i>s</i>t el Spîtamân! \[un purificador\], (5) que es un orador \[es decir, es posible para él hablar\], un orador veraz \[es decir, la falsedad es dicha poco por él\], un investigador de la liturgia \[es decir, el ritual es realizado por él\], _y_ justo, (6) aquel que entiende especialmente la purificación de la religión de los adoradores de Ma<i>z</i><i>d</i>a \[es decir, conoce el rito\], (7) tal persona cortará las plantas en la tierra fértil, (8) _por_ una longitud de nueve cañas separadas [^2] en cada una de las cuatro direcciones, (9) _en un lugar_ en esta tierra que esté más desprovisto de agua, más desprovisto de árboles, tierra más purificada \[de desechos corporales\] [^3], _y_ con el suelo más seco \[es decir, no hay humedad en esa extensión de él\]. Incluso _donde_ menos avanzan en los caminos el ganado y las bestias de carga, y el fuego de Aûha<i>r</i>ma<i>z</i><i>d</i>, las ramitas sagradas [^4] se extienden con rectitud, y el hombre justo [^5] _menos existe_.'
 
-11\. ¡Creador del mundo material! ¡Tú, el justo! ¿A qué distancia del fuego? ¿A qué distancia del agua? ¿A qué distancia de las ramas sagradas extendidas con justicia? ¿A qué distancia de un hombre justo?
+11\. ¡Creador del mundo material! ¡Tú, el justo! ¿A qué distancia del fuego? ¿A qué distancia del agua? ¿A qué distancia de las ramas sagradas extendidas <span id="p433"><sup><small>[ p. 433 ]</small></sup></span> con justicia? ¿A qué distancia de un hombre justo?
 
-12\. Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: 'Treinta pasos [^6] desde el fuego, treinta pasos desde el agua, treinta pasos desde las ramas sagradas extendidas con justicia, y tres pasos [^7] desde los hombres de los justos. 13. El corte para el primer agujero \[para la orina de toro\] [^8], después de la llegada del verano, es de dos dedos de ancho en excavación; después de la llegada del invierno cargado de granizo (sôngagân-hômand) _es_ como _si fuera_ una copa de cuatro dedos de ancho_ [^9]. 14. _Así también_ para el segundo agujero, para el tercer agujero, para el cuarto agujero, el quinto, _y_ el sexto.'
+12\. Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «Treinta pasos [^6] desde el fuego, treinta pasos desde el agua, treinta pasos desde las ramas sagradas extendidas con justicia, y tres pasos [^7] desde los hombres de los justos. 13. El corte para el primer agujero \[para la orina de toro\] [^8], después de la llegada del verano, es de dos dedos de ancho en excavación; después de la llegada del invierno cargado de granizo (sôngagân-hômand) _es_ como _si fuera_ una copa de cuatro dedos de ancho_ [^9]. 14. _Así también_ para el segundo agujero, para el tercer agujero, para el cuarto agujero, el quinto, _y_ el sexto.»
 
-'¿Cuánto cuesta _un_ agujero así de otro agujero [^10]?'
+«¿Cuánto cuesta _un_ agujero así de otro agujero [^10]?»
 
-'Tanto como un paso adelante.' <span id="p434"><sup><small>[ p. 434 ]</small></sup></span> 15\. '¿Qué clase de paso?'
+«Tanto como un paso adelante.» <span id="p434"><sup><small>[ p. 434 ]</small></sup></span> 15\. «¿Qué clase de paso?»
 
-'Justo como tres pies.'
+«Justo como tres pies.»
 
-6\. 'La excavación de los otros tres agujeros [que son para agua, (17) después de la llegada del verano, es de hasta dos dedos de ancho; después de la llegada del invierno cargado de granizo, es de hasta cuatro dedos de ancho.'
+6\. «La excavación de los otros tres agujeros [que son para agua, (17) después de la llegada del verano, es de hasta dos dedos de ancho; después de la llegada del invierno cargado de granizo, es de hasta cuatro dedos de ancho.»
 
-18\. '¿Cuánto de aquellos _antiguos_ \[por orina de toro\]?'
+18\. «¿Cuánto de aquellos _antiguos_ \[por orina de toro\]?»
 
-'Hasta tres pasos.'
+«Hasta tres pasos.»
 
-19\. '¿Qué tipo de tres pasos?'
+19\. «¿Qué tipo de tres pasos?»
 
-'Tanto como los pasos que uno da al caminar son los pasos que daría.'
+«Tanto como los pasos que uno da al caminar son los pasos que daría.»
 
-20\. '¿Qué tipo de caminar con escalones?'
+20\. «¿Qué tipo de caminar con escalones?»
 
-'Justo como nueve pies.'
+«Justo como nueve pies.»
 
 21\. También ararás un surco con la hoja debida a Shat<i>r</i>yŏvair [^11].'
 
-22\. '¿Cuánto sale de los agujeros?'
+22\. «¿Cuánto sale de los agujeros?»
 
-'Hasta tres pasos.'
+«Hasta tres pasos.»
 
-'¿Qué clase de tres pasos?'
+«¿Qué clase de tres pasos?»
 
-'Tanto como al caminar con los pasos uno daría y plantaría.'
+«Tanto como al caminar con los pasos uno daría y plantaría.»
 
-23\. '¿Cuanto cuesta caminar con escalones?'
+23\. «¿Cuanto cuesta caminar con escalones?»
 
-'Hasta nueve pies.'
+«Hasta nueve pies.»
 
 24\. 'Luego, después, se ararán los doce surcos. 25. Al arar tres de ellos, se separan tres hoyos en su interior. 26. Ararás tres de ellos con seis hoyos en su interior. 27. Ararás tres de ellos con nueve hoyos en su interior. 28. Y ararás
 
 <span id="p435"><sup><small>[ pág. 435 ]</small></sup></span>
 
-<figure id="Figura_1" class="image urantiapedia image-style-align-center">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Zoroastrianism/Pahlavi_Texts_Part_2/43500.jpg">
 <figcaption>PLAN DE BARESHNÛM GÂH.</figcaption>
-</figura>
+</figure>
 
 <br style="clear:both;"/>
 
@@ -130,7 +130,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 74\. 'Rociarás sobre su pezón izquierdo, \[justo cuando el pezón esté girado; _y_ los de las mujeres (zanagânŏ) deben mantenerse en alto.\] 75. Entonces el demonio de la corrupción se precipitará sobre su lado derecho.
 
-76\. 'Rociarás sobre su costado derecho. 77. Entonces el demonio de la corrupción se precipitará sobre su costado izquierdo. <span id="p440"><sup><small>[ p. 440 ]</small></sup></span> 78\. 'Rociarás sobre su costado izquierdo; \[esto, además, se debe a que uno recita especialmente para siempre en _ese_ lado.\] 79. Entonces el demonio de la corrupción se precipitará sobre su cadera derecha [^24].
+76\. «Rociarás sobre su costado derecho. 77. Entonces el demonio de la corrupción se precipitará sobre su costado izquierdo. <span id="p440"><sup><small>[ p. 440 ]</small></sup></span> 78\. »Rociarás sobre su costado izquierdo; \[esto, además, se debe a que uno recita especialmente para siempre en _ese_ lado.\] 79. Entonces el demonio de la corrupción se precipitará sobre su cadera derecha [^24].
 
 80\. Rociarás sobre su cadera derecha. 81. Entonces el demonio de la corrupción se lanzará sobre su cadera izquierda.
 
@@ -142,7 +142,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 90\. 'Rociarás sobre su muslo izquierdo, \[desde la prominencia (gôhâk) debajo del muslo hasta la rodilla.\] 91. Entonces el demonio de la corrupción se abalanza sobre su rodilla derecha.
 
-92\. 'Rociarás sobre su rodilla derecha. 93. Entonces el demonio de la corrupción se abalanza sobre su rodilla izquierda. <span id="p441"><sup><small>[ p. 441 ]</small></sup></span> 94\. 'Rociarás sobre su rodilla izquierda, \[arriba, justo donde está doblada, _y_ debajo de la _parte_ delgada_; hay _algunos_ que dirían así: "Tanto por encima como por debajo".\] 95. Entonces el demonio de la corrupción se abalanza sobre su espinilla derecha.
+92\. «Rociarás sobre su rodilla derecha. 93. Entonces el demonio de la corrupción se abalanza sobre su rodilla izquierda. <span id="p441"><sup><small>[ p. 441 ]</small></sup></span> 94\. »Rociarás sobre su rodilla izquierda, \[arriba, justo donde está doblada, _y_ debajo de la _parte_ delgada_; hay _algunos_ que dirían así: "Tanto por encima como por debajo".\] 95. Entonces el demonio de la corrupción se abalanza sobre su espinilla derecha.
 
 96\. Rociarás sobre su espinilla derecha. 97. Entonces el demonio de la corrupción se abalanzará sobre su espinilla izquierda.
 
@@ -156,7 +156,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 106\. 'Rociarás sobre su empeine izquierdo, \[desde el lugar donde se unen la pierna y el pie, hasta la punta de los dedos.\] 107. Entonces el demonio de la corrupción se vuelve abatido bajo la planta del pie, y su semejanza es como si fuera el ala del cuerpo de una mosca.
 
-108\. 'Con los dedos de los pies firmemente unidos al suelo, su talón se mantiene elevado. 109. Rociarás sobre su planta derecha. 110. Entonces el demonio de la corrupción se abalanza sobre su planta izquierda. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 111\. 'Rociarás sobre su planta izquierda. 112. Entonces el demonio de la corrupción se repliega abatido bajo los dedos de los pies, y su semejanza es como el ala de una mosca.
+108\. «Con los dedos de los pies firmemente unidos al suelo, su talón se mantiene elevado. 109. Rociarás sobre su planta derecha. 110. Entonces el demonio de la corrupción se abalanza sobre su planta izquierda. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 111\. »Rociarás sobre su planta izquierda. 112. Entonces el demonio de la corrupción se repliega abatido bajo los dedos de los pies, y su semejanza es como el ala de una mosca.
 
 113\. 'Con el talón firmemente unido al suelo, sus dedos se mantienen separados del suelo. 114. Rociarás sobre los dedos de su pie derecho. 115. Entonces el demonio de la corrupción se abalanza sobre los dedos de su pie izquierdo.
 
@@ -168,17 +168,17 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 '"¿A quién me has dado, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! _como_ protección? \[cuando [^30] cumpla con mi deber _y_ buenas obras, ¿quién me brindará protección?\]—cuando esté bajo la custodia de la malicia de ese malvado \[Aharman, es decir, que guarda rencor hacia mí en _sus_ pensamientos\]—¿aparte de tu fuego _y_ buenos pensamientos? \[esto sé, que lo harían _por tu causa; pero, aparte de ti, ¿quién me brindaría protección?\] Cuando a su servicio invoque la rectitud, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! \[es decir, cumpla con mi deber _y_ buenas obras, ¿quién me brindará protección?\] Lo que me proclamarás _como_ religión a través de un sumo sacerdote \[esto digo, es decir, predica la religión por medio de un sumo sacerdote\] [^31].
 
-'"¿Quién es el que castiga con triunfo, mediante esta tu enseñanza de protección? \[es decir, en la medida en que lo declara la revelación de las Escrituras, ¿quién debería infligir el castigo a los pecadores?\] Con claridad se me debe enseñar la superintendencia (ra<i>d</i>îh) de la creación en ambas existencias, \[es decir, es necesario que me des el sumo sacerdocio aquí _y_ allá [^32].\] La llegada de la obediencia virtuosa (Srôsh), con buen pensamiento (Vohûman), está aquí, <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> \[es decir, es necesario que me des Vi<i>s</i>tâsp [^33] como ayuda.\] Oh Aûha<i>r</i>ma<i>z</i><i>d</i>! \[la llegada de\] ese _uno_ \[es _según_ mi deseo\], quién es él _según_ el deseo de cada uno, \[_ese_ Sôshâns [^34] que será necesario para cada uno, para que _puedan_ así alejar su miseria, la miseria que _es_ posible que él pueda alejar de cada uno. [^35]
+«"¿Quién es el que castiga con triunfo, mediante esta tu enseñanza de protección? \[es decir, en la medida en que lo declara la revelación de las Escrituras, ¿quién debería infligir el castigo a los pecadores?\] Con claridad se me debe enseñar la superintendencia (ra<i>d</i>îh) de la creación en ambas existencias, \[es decir, es necesario que me des el sumo sacerdocio aquí _y_ allá [^32].\] La llegada de la obediencia virtuosa (Srôsh), con buen pensamiento (Vohûman), está aquí, <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> \[es decir, es necesario que me des Vi<i>s</i>tâsp [^33] como ayuda.\] Oh Aûha<i>r</i>ma<i>z</i><i>d</i>! \[la llegada de\] ese _uno_ \[es _según_ mi deseo\], quién es él _según_ el deseo de cada uno, \[_ese_ Sôshâns [^34] que será necesario para cada uno, para que _puedan_ así alejar su miseria, la miseria que _es_ posible que él pueda alejar de cada uno. [^35]
 
-'"_Seamos_ protegidos del más aflictivo_ [aquí, _y_ apartados de los pecadores_], ¡oh Aûha<i>r</i>ma<i>z</i><i>d</i> _y_ Spenda<i>r</i>ma<i>d</i> [^36]! \[es decir, ¡manténnos alejados del daño del espíritu maligno!\] ¡Perece, demonio maligno! \[mientras hablo _delante de ti_.\] ¡Perece, raza de los demonios! \[es decir, su raza es de ese lugar.\] [^37] ¡Perece, obra transformada por los demonios \[para la inutilidad_]! ¡Perece, obra producida por los demonios \[hasta ahora y en adelante! Esta producida sin los seres sagrados, y producida por ellos (los demonios) incluso para la inutilidad\]. ¡Perece por completo, demonio! \[es decir, que puedas ¡Te vuelves invisible!\] ¡Muere por completo, demonio! \[es decir, ¡aléjate de aquí, _y_ que te vuelvas invisible en cualquier camino!\] ¡Muere por completo y apartado, demonio! \[es decir, ¡no vuelvas a detenerte en ningún camino!\] ¡Perecerás de nuevo hacia el norte! \[el camino fue mencionado así: '¡Ve _en dirección al norte!'\] ¡No destruyas el mundo material de la rectitud [^38]!" <span id="p445"><sup><small>[ p. 445 ]</small></sup></span> 119\. 'En el primer agujero, el hombre se libera del _demonio de la_ corrupción, \[es decir, se apartará un poco de su cuerpo, como un rebaño cuando lo dispersan.\]
+«"_Seamos_ protegidos del más aflictivo_ [aquí, _y_ apartados de los pecadores_], ¡oh Aûha<i>r</i>ma<i>z</i><i>d</i> _y_ Spenda<i>r</i>ma<i>d</i> [^36]! \[es decir, ¡manténnos alejados del daño del espíritu maligno!\] ¡Perece, demonio maligno! \[mientras hablo _delante de ti_.\] ¡Perece, raza de los demonios! \[es decir, su raza es de ese lugar.\] [^37] ¡Perece, obra transformada por los demonios \[para la inutilidad_]! ¡Perece, obra producida por los demonios \[hasta ahora y en adelante! Esta producida sin los seres sagrados, y producida por ellos (los demonios) incluso para la inutilidad\]. ¡Perece por completo, demonio! \[es decir, que puedas ¡Te vuelves invisible!\] ¡Muere por completo, demonio! \[es decir, ¡aléjate de aquí, _y_ que te vuelvas invisible en cualquier camino!\] ¡Muere por completo y apartado, demonio! \[es decir, ¡no vuelvas a detenerte en ningún camino!\] ¡Perecerás de nuevo hacia el norte! \[el camino fue mencionado así: «¡Ve _en dirección al norte!»\] ¡No destruyas el mundo material de la rectitud [^38]!" <span id="p445"><sup><small>[ p. 445 ]</small></sup></span> 119\. 'En el primer agujero, el hombre se libera del _demonio de la_ corrupción, \[es decir, se apartará un poco de su cuerpo, como un rebaño cuando lo dispersan.\]
 
 120\. '_Entonces debes murmurar estas palabras, etc._ \[_como en_ § 33-118. _En_\] _el segundo_ \[_agujero, etc., como en_ § 119. _Y la misma rutina debe seguirse en_\] _el tercero, cuarto, quinto y sexto_ \[_agujeros_\] [^39].
 
-'Después se sentará--el que _ha estado_ junto al muerto--dentro del recinto (sit<i>r</i>â.) de los agujeros [^40] aparte de aquellos agujeros \[que son para la orina del toro\]. 121. Tanto de eso \[de los anteriores _unos_ para la orina del toro\] como cuatro _anchos_ de dedo_ [^41]. 12 2. También excavarán esas excavaciones completas de esta tierra, \[deberían lograr esto bien.\] 123. Rasparán juntos quince puñados de la tierra, \[de modo que desalojen completamente la humedad pura.\] [^42] 124. Y permanecerán alrededor de ella todo el _período_ desde ese _tiempo_ hasta _el tiempo_ en que el cabello de su cabeza se seque, (125) _y_ hasta _el tiempo_ en que la tierra húmeda en su cuerpo se seque.
+'Después se sentará—el que _ha estado_ junto al muerto—dentro del recinto (sit<i>r</i>â.) de los agujeros [^40] aparte de aquellos agujeros \[que son para la orina del toro\]. 121. Tanto de eso \[de los anteriores _unos_ para la orina del toro\] como cuatro _anchos_ de dedo_ [^41]. 12 2. También excavarán esas excavaciones completas de esta tierra, \[deberían lograr esto bien.\] 123. Rasparán juntos quince puñados de la tierra, \[de modo que desalojen completamente la humedad pura.\] [^42] 124. Y permanecerán alrededor de ella todo el _período_ desde ese _tiempo_ hasta _el tiempo_ en que el cabello de su cabeza se seque, (125) _y_ hasta _el tiempo_ en que la tierra húmeda en su cuerpo se seque.
 
 126\. 'Entonces quien _ha estado_ junto al difunto se acercará a esos otros agujeros \[que son para el agua\]. 127. En el primer agujero, se purificará una vez con agua sobre su propio cuerpo. 128. En el segundo agujero, se purificará dos veces con agua sobre su propio cuerpo. 129. En el tercer agujero, se purificará tres veces con agua sobre su propio cuerpo.
 
-130\. 'Después, quien esté perfumado con sandárica (râsnŏ) [^43], o benjuí, o áloe [^44], o cualquier otra de las plantas más odoríferas, (131) se pondrá _sus_ ropas. 132. Entonces quien _ha estado_ junto al muerto llegará a ese acercamiento, el acercamiento a _su_ morada [^45].'
+130\. «Después, quien esté perfumado con sandárica (râsnŏ) [^43], o benjuí, o áloe [^44], o cualquier otra de las plantas más odoríferas, (131) se pondrá _sus_ ropas. 132. Entonces quien _ha estado_ junto al muerto llegará a ese acercamiento, el acercamiento a _su_ morada [^45].»
 
 \[<i>a</i>. La ropa siempre es _limpiada_ por el Khshvash-m<i>a</i>unghô («el proceso de seis meses_») [^46].
 
@@ -186,7 +186,7 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 <i>c</i>. Por cada persona, al menos, se debe colocar en ese lugar una copa, con agua y orina de toro [^50], y al comienzo de su consagración se debe inspeccionar minuciosamente, y en la Vendidâ<i>d</i> también se debe inspeccionar minuciosamente [^51]; después, cuando esté cubierta, también estará bien; las piedrecitas que se echen en ella [^52] deben llevarse al agua bendita, no sirven de nada; una vez consagrada por completo, siempre es adecuada, hasta que se vuelva completamente fétida [^53].
 
-Para evitar a una mujer menstruante no aislada (agûbâl), es necesario usar nava vîbâzva drâ<i>g</i>ô ('la longitud de nueve brazas') [^54] cuando se encuentre más cerca; en un lugar silvestre, se debe desenterrar la hierba [^55]; cuando se construya el lugar de purificación en la ciudad, y no haya un sendero, un arroyo o un muro que lo atraviese, es adecuado; y es adecuado arrancar limpiamente los árboles pequeños, extrayéndolos durante el día con la recitación del Avesta de Zaratû<i>s</i>t [^56] —aquellos que son espesos y no existen entre los agujeros—.
+Para evitar a una mujer menstruante no aislada (agûbâl), es necesario usar nava vîbâzva drâ<i>g</i>ô («la longitud de nueve brazas») [^54] cuando se encuentre más cerca; en un lugar silvestre, se debe desenterrar la hierba [^55]; cuando se construya el lugar de purificación en la ciudad, y no haya un sendero, un arroyo o un muro que lo atraviese, es adecuado; y es adecuado arrancar limpiamente los árboles pequeños, extrayéndolos durante el día con la recitación del Avesta de Zaratû<i>s</i>t [^56] —aquellos que son espesos y no existen entre los agujeros—.
 
 <i>e</i>. Y cada persona que cava los hoyos, con lo que excave, _y_ cuando excave, es apta; cuatro o dos dedos [^57] no importa; <span id="p448"><sup><small>[ p. 448 ]</small></sup></span> cada hoyo está a una distancia mínima de tres pies [^58], y como máximo, la distancia que uno necesita para purificar completamente su cuerpo; y _los_ deben formarse desde el norte y excavarse hacia su lado más meridional.
 
@@ -198,13 +198,13 @@ Para evitar a una mujer menstruante no aislada (agûbâl), es necesario usar nav
 
 <i>h</i>. Una vez que el exterior del cuerpo esté completamente limpio de los desechos corporales [^66] del mundo; _y_ estando el cabello _atado_ (no sirve de nada cortar el vello púbico [nihânŏ])_, también debe ser llevado al recinto desde el norte hasta los agujeros.
 
-<i>i</i>. El purificador se coloca del lado derecho, y cuando evita que la oración interna raspe los surcos [^67], es apropiado; si no, la oración que debe realizar internamente —que consiste en pronunciar Nemas<i>k</i>â yâ ârmaiti<i>s</i> î<i>z</i>â<i>k</i>â ('y el homenaje que es devoción y alimento') [^68]— es también la que debe pronunciar la persona impura; y cuando no puede hablar, debe pronunciarse en ambas ocasiones por ella.
+<i>i</i>. El purificador se coloca del lado derecho, y cuando evita que la oración interna raspe los surcos [^67], es apropiado; si no, la oración que debe realizar internamente —que consiste en pronunciar Nemas<i>k</i>â yâ ârmaiti<i>s</i> î<i>z</i>â<i>k</i>â («y el homenaje que es devoción y alimento») [^68]— es también la que debe pronunciar la persona impura; y cuando no puede hablar, debe pronunciarse en ambas ocasiones por ella.
 
 <i>j</i>. Y sus manos deben lavarse cuidadosamente tres veces, no por dentro; en cuanto a las otras partes habituales (pî<i>s</i>ak), Afarg ha dicho tres veces, no por dentro, sino una vez (Mê<i>d</i>ôk-mâh [^69]); también se le debe suministrar agua y orina de toro, según sea necesario; y se le debe guardar una porción (bahrak) lejos del cuerpo, y, si algo le cae encima, se le debe echar un poco de orina de toro; asimismo, <span id="p450"><sup><small>[ p. 450 ]</small></sup></span> cualquier parte habitual, mientras se lava, debe protegerse de lo que no se lava. Cuando lo encuentra, es impropio.
 
 <i>k</i>. Cuando quede una gota de agua (â<i>v</i> yû<i>g</i>akŏ-1) sobre él, debe frotarse bien la mano; si en el mismo agujero duda sobre una parte habitual [^70], cuando sabe cuál, debe lavarla de nuevo, y de ahí en adelante siempre debe lavarlas de nuevo; si no sabe cuál, debe comenzar el lavado en el agujero de nuevo, y cuando llegue a lo que hizo antes, cuando lo sepa, también debe volver a lo siguiente, desde que repitió el comienzo del lavado en el agujero; si duda sobre el agujero, debe volver a lo que no le genera duda.
 
-<i>l</i>. Y cuando van de un agujero a otro, se debe sujetar al perro [^71] una vez, se debe recitar el Avesta [^72] del purificador, y este debe hacerlo así: cuando llega al lugar, lo hace; si no, se debe lavar la cabeza completamente —hay quienes dirían: «En el mismo agujero se debe lavar la cabeza completamente»— y este debe introducir las cuatro patas del perro en el agujero. él también debe sentarse a cuatro dedos de distancia [^73], y el Pa<i>n</i><i>k</i>adasa zemŏ ha<i>n</i>kanayen ('quince _veces_ de tierra deberán <span id="p451"><sup><small>[ p. 451 ]</small></sup></span> juntar') [^74] deben ser bien completados por él, _también_ debe ser completamente hecho por él, y _él_ debe ser completamente protegido mientras persevera apropiadamente _y_ completamente bien.
+<i>l</i>. Y cuando van de un agujero a otro, se debe sujetar al perro [^71] una vez, se debe recitar el Avesta [^72] del purificador, y este debe hacerlo así: cuando llega al lugar, lo hace; si no, se debe lavar la cabeza completamente —hay quienes dirían: «En el mismo agujero se debe lavar la cabeza completamente»— y este debe introducir las cuatro patas del perro en el agujero. él también debe sentarse a cuatro dedos de distancia [^73], y el Pa<i>n</i><i>k</i>adasa zemŏ ha<i>n</i>kanayen («quince _veces_ de tierra deberán <span id="p451"><sup><small>[ p. 451 ]</small></sup></span> juntar») [^74] deben ser bien completados por él, _también_ debe ser completamente hecho por él, y _él_ debe ser completamente protegido mientras persevera apropiadamente _y_ completamente bien.
 
 <i>m</i>. Y, después, debe ir a los pozos para beber agua; los diferentes momentos con agua son iguales a los diferentes pozos para la orina del toro, excepto que contiene al perro; el perro también trabaja para él dentro.
 
@@ -226,11 +226,11 @@ Para evitar a una mujer menstruante no aislada (agûbâl), es necesario usar nav
 
 136\. 'Después de esas tres noches, se lavará el cuerpo y sus ropas se purificarán con orina de toro y agua. 137. Se sentará en el lugar de aislamiento, dentro del recinto de su morada, separado de los demás adoradores de la Ma<i>z</i><i>d</i>a. 138. No vendrá con autorización para encender fuego, etc., [tal como se ha escrito en el § 134\], (139) en absoluto desde ese momento hasta que transcurran sus seis noches.
 
-140\. 'Después de esas seis noches_ [^85] se lavará el cuerpo y sus ropas se purificarán con orina de toro y agua. 141-143. Se sentará en el lugar de retiro [tal como está escrito en los §§ 133-135] hasta que transcurran sus nueve noches.
+140\. «_Después de esas seis noches_ [^85] se lavará el cuerpo y sus ropas _se purificarán_ con orina de toro y agua. 141-143. Se sentará en el lugar de retiro [tal como está escrito en los §§ 133-135] _hasta que transcurran sus nueve noches_.»
 
 144\. Después de las nueve noches, se lavará el cuerpo y sus ropas se purificarán con orina de toro y agua. 145. Luego se presentará con autorización ante el fuego, el agua, la tierra, los animales, las plantas, ante un hombre justo y ante una mujer justa.
 
-Además de la descripción detallada de la ceremonia de Bareshnûm, encontramos otros dos relatos del rito en el Vendidâ<i>d</i>. De estos, el más detallado se encuentra en Vendid. VII I, 117-228, que menciona el uso del perro [^86], los nueve agujeros, el lavado con orina de toro y agua, y todos los detalles de expulsar al demonio de la corrupción de una parte del cuerpo a otra (rociándolo con 'las buenas aguas') hasta que vuela hacia el norte, como en Vendid. IX, 117. Pero omite la descripción del purificador, las dimensiones del lugar de purificación, la marcación de los surcos, la colocación de las piedras, el exorcismo [^87], el aislamiento durante nueve noches y todos los lavados después del primer día.
+Además de la descripción detallada de la ceremonia de Bareshnûm, encontramos otros dos relatos del rito en el Vendidâ<i>d</i>. De estos, el más detallado se encuentra en Vendid. VII I, 117-228, que menciona el uso del perro [^86], los nueve agujeros, el lavado con orina de toro y agua, y todos los <span id="p454"><sup><small>[ p. 454 ]</small></sup></span> detalles de expulsar al demonio de la corrupción de una parte del cuerpo a otra (rociándolo con «las buenas aguas») hasta que vuela hacia el norte, como en Vendid. IX, 117. Pero omite la descripción del purificador, las dimensiones del lugar de purificación, la marcación de los surcos, la colocación de las piedras, el exorcismo [^87], el aislamiento durante nueve noches y todos los lavados después del primer día.
 
 El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica que la orina debe ser de un toro joven y que el purificador debe hacer un surco; menciona la recitación de cien Ashem-vohûs y doscientos Yathâ-ahû-vairyôs, cuatro lavados con orina de toro y dos con agua, nueve noches de exposición, seguidas de la atención al fuego y la fumigación, cuando el hombre se viste mientras rinde homenaje a los seres sagrados, y queda limpio; pero no se dan más detalles.
 
@@ -302,23 +302,23 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^21]: (438:1) El demonio Nasû<i>s</i> (véase Dd. XVII, 7).
 
-[^22]: (438:2) La palabra, tanto aquí como en el § 68, debe ser Av. ifs, 'agua', y no un término Pâzand para ninguna parte del cuerpo, ya que dicho término sería inadmisible en el § 68. Parecería que se requiere un suministro menor de líquido para los oídos que para las demás partes habituales, por lo que se indica que una cuarta parte del suministro debe devolverse al recipiente que contiene el líquido. Las observaciones del traductor Pahlavi sobre la aspersión de los miembros izquierdos del cuerpo se aplican también, en casi todos los casos, a la aspersión de los miembros derechos.
+[^22]: (438:2) La palabra, tanto aquí como en el § 68, debe ser Av. ifs, «agua», y no un término Pâzand para ninguna parte del cuerpo, ya que dicho término sería inadmisible en el § 68. Parecería que se requiere un suministro menor de líquido para los oídos que para las demás partes habituales, por lo que se indica que una cuarta parte del suministro debe devolverse al recipiente que contiene el líquido. Las observaciones del traductor Pahlavi sobre la aspersión de los miembros izquierdos del cuerpo se aplican también, en casi todos los casos, a la aspersión de los miembros derechos.
 
 [^23]: (439:1) Lectura dîmak, pero puede ser gâmak (compárese con Pers. gâm, jaw'). L4 tiene gîmak.
 
 [^24]: (440:1) Se lee srînak, como en Pahl. Vend. VIII, 178-182; pero aquí la palabra se escribe cuatro veces sînak.
 
-[^25]: (440:2) O, tal vez, se quiere decir 'prominencia', como en § 90; aunque las dos palabras gûyak y gôhâk se escriben de manera diferente, probablemente se refieren a la misma parte.
+[^25]: (440:2) O, tal vez, se quiere decir «prominencia», como en § 90; aunque las dos palabras gûyak y gôhâk se escriben de manera diferente, probablemente se refieren a la misma parte.
 
-[^26]: (441:1) La palabra zang significa más bien 'la parte inferior de la pierna'.
+[^26]: (441:1) La palabra zang significa más bien «la parte inferior de la pierna».
 
-[^27]: (442:1) Lectura bô<i>g</i>\-âkîntûm, 'muy lleno de ostentación', como en L4. En AV. XVII, 12 la palabra puede leerse ba<i>z</i>ak-âyîntûm, 'muy acostumbrado al pecado'.
+[^27]: (442:1) Lectura bô<i>g</i>\-âkîntûm, «muy lleno de ostentación», como en L4. En AV. XVII, 12 la palabra puede leerse ba<i>z</i>ak-âyîntûm, «muy acostumbrado al pecado».
 
 [^28]: (442:2) En los manuscritos aquí citados sólo se dan las palabras iniciales y finales del Avesta de los siguientes pasajes, pero se dan extensamente, con su traducción al pahlavi, en Vend. VIII, 49-62, de donde se toma aquí la versión pahlavi.
 
-[^29]: (443:1) Este párrafo es la versión Pahlavi de la fórmula Ahunavar, o Yathâ-ahû-vairyô (ver [p. 385](/es/book/Zoroastrismo/Pahlavi_Texts_Part_2/Apéndice_2#p385)).
+[^29]: (443:1) Este párrafo es la versión Pahlavi de la fórmula Ahunavar, o Yathâ-ahû-vairyô (ver [p. 385](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Apéndice_2#p385)).
 
-[^30]: (443:2) Lectura de amat, en lugar de mûn, 'quien' (véase Dd. LXII, 4 n.)
+[^30]: (443:2) Lectura de amat, en lugar de mûn, «quien» (véase Dd. LXII, 4 n.)
 
 [^31]: (443:3) Este párrafo es la versión Pahlavi de la estrofa K<i>e</i>m-nâ-mazdâ de los Gâthas (Yas. XLV, 7).
 
@@ -360,7 +360,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^50]: (447:2) Véase Ep. I, vii, 1.
 
-[^51]: (447:3) L4 tiene '_debe ser tomado', omitiendo la primera letra de nikîri<i>s</i>nŏ.
+[^51]: (447:3) L4 tiene «_debe ser tomado», omitiendo la primera letra de nikîri<i>s</i>nŏ.
 
 [^52]: (447:4) Ver Ep. I, vii, 16, II, iii, 12.
 
@@ -396,7 +396,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^68]: (449:3) Éstas son las palabras del Avesta de Yas. XLVIII, 10, c, de las cuales la versión Pahlavi se da en los §§ 33, 34.
 
-[^69]: (449:4) Mê<i>d</i>yôk-mâh escrito en Ep. I, v, 1. La declaración aquí atribuida a Mê<i>d</i>ôk-mâh se atribuye a Afarg en Ep. I, vi, 7, 9, II, ii, 6, pero se dice allí que Afarg es 'el declarante anterior', como lo es aquí; por lo tanto, probablemente deberíamos transponer 'tres veces' y 'una vez' en nuestro texto; el error se originó de la frecuente sustitución de liana por aê en Pahlavi, ambos significando 'este', mientras que aê también significa 'uno' y es la cifra para '3'.
+[^69]: (449:4) Mê<i>d</i>yôk-mâh escrito en Ep. I, v, 1. La declaración aquí atribuida a Mê<i>d</i>ôk-mâh se atribuye a Afarg en Ep. I, vi, 7, 9, II, ii, 6, pero se dice allí que Afarg es «el declarante anterior», como lo es aquí; por lo tanto, probablemente deberíamos transponer «tres veces» y «una vez» en nuestro texto; el error se originó de la frecuente sustitución de liana por aê en Pahlavi, ambos significando «este», mientras que aê también significa «uno» y es la cifra para «3».
 
 [^70]: (450:1) Es decir, cuando tiene dudas sobre quién se lavó último.
 
@@ -410,7 +410,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^75]: (451:2) El agua, aparentemente.
 
-[^76]: (451:3) Quizás debería ser <i>k</i>y tâk, 'varias veces', en lugar de <i>k</i>îgûn tâk, 'sólo apenas'.
+[^76]: (451:3) Quizás debería ser <i>k</i>y tâk, «varias veces», en lugar de <i>k</i>îgûn tâk, «sólo apenas».
 
 [^77]: (451:4) Véase §§ 136, 140, 144.
 
@@ -426,7 +426,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
 
 [^83]: (452:4) El que ha estado junto a los muertos, como se afirma en el § 132, en relación con el cual debe leerse esta oración; los §§ anteriores <i>a</i>\-<i>s</i> siendo interpolados por los traductores Pahlavi.
 
-[^84]: (452:5) El significado original de armê<i>s</i>t era probablemente 'lo más estacionario', ya que es un término aplicado al agua en tanques, a los lisiados indefensos y a las personas locas, así como a las personas impuras que tienen que permanecer separadas de sus amigos (ver Sls. II, 98 n).
+[^84]: (452:5) El significado original de armê<i>s</i>t era probablemente «lo más estacionario», ya que es un término aplicado al agua en tanques, a los lisiados indefensos y a las personas locas, así como a las personas impuras que tienen que permanecer separadas de sus amigos (ver Sls. II, 98 n).
 
 [^85]: (453:1) Los manuscritos omiten varias palabras cuando se repiten las oraciones, por razones de brevedad.
 

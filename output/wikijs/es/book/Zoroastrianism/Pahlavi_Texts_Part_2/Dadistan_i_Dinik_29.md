@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO XXIX.
 
-1\. La vigésimo octava pregunta es que preguntas así: ¿Por qué no está permitido realizar la ceremonia de Srôsh, el espíritu viviente (ahvô) [^1], junto con otras propiciaciones (shnûmanŏ) [^2], cuando lo reverencian por separado?
+1\. La vigésimo octava pregunta es que preguntas así: ¿Por qué no está permitido realizar <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> la ceremonia de Srôsh, el espíritu viviente (ahvô) [^1], junto con otras propiciaciones (shnûmanŏ) [^2], cuando lo reverencian por separado?
 
 2\. La respuesta es esta: el señor de todas las cosas es el creador que es persistente sobre sus propias criaturas, y una obra preciosa es su propio y verdadero servicio [^3] que le es dado a Srôsh el justo a quien, por esta razón, _uno_ debe reverenciar por separado cuando ni siquiera su nombre se menciona con frecuencia, y _uno_ ni siquiera debe reverenciar los nombres de los arcángeles con él.
 
@@ -64,8 +64,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (61:1) Probablemente sea un error de escritura de ashôk, 'justo'.
+[^1]: (61:1) Probablemente sea un error de escritura de ashôk, «justo».
 
 [^2]: (61:2) Fórmulas breves de alabanza, que recita todos los títulos usuales de los espíritus que se pretende propiciar, y que se introducen en una parte particular de la liturgia para dedicar la ceremonia al espíritu particular en cuyo honor se está realizando (ver Sls. VII, 8).
 
-[^3]: (61:3) Lectura bôndakîh; pero puede ser bûndakîh, 'completitud, perfección'.
+[^3]: (61:3) Lectura bôndakîh; pero puede ser bûndakîh, «completitud, perfección».

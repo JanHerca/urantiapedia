@@ -52,9 +52,9 @@ For translations from the Pahlavi Vendidâ<i>d</i> the text adopted, wherever av
 
 In conclusion, the translator must take the opportunity of thankfully acknowledging the kindness and readiness with which Dastûr Peshotanji Behrâmji Sanjânâ, the high-priest of the Parsis in Bombay, and Dastûr Jâmâspji Minochiharji Jâmâsp-Asâ-nâ, of the same city, have always furnished him with any information he applied for, not only on those matters specially mentioned in the foot-notes, but also on many other occasions.
 
-E. W. WEST.                  
+E. W. WEST.
 
-   MUNICH,  
+&nbsp;&nbsp;MUNICH,  
 September, 1882.
 
 <figure class="table chapter-navigator">

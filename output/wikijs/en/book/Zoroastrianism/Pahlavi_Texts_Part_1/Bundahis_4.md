@@ -34,13 +34,13 @@ dateCreated: 2025-10-5T10:16:32Z
 
 ## BUNDAHI<i>S</i>. CHAPTER IV.
 
-1\. This also is said, that when the primeval ox [^1] passed away it fell to the right hand, _and_ Gâyômar<i>d</i> afterwards, when he passed _away_, to the left hand. 2. Gô<i>s</i>ûrvan [^2], as the soul of the primeval ox came out from the body of the ox, stood up before the ox _and_ cried to Aûharmazd, as much as a thousand men when they sustain a cry at one time, thus: ‘With whom is the guardianship of the creatures left by thee, when ruin _has_ broken into the earth, and vegetation is withered, and water is troubled? Where is the man [^3] of whom it was said by thee thus: I _will_ produce _him_, so that he may preach carefulness?’
+1\. This also is said, that when the primeval ox [^1] passed away it fell to the right hand, _and_ Gâyômar<i>d</i> afterwards, when he passed _away_, to the left hand. 2. Gô<i>s</i>ûrvan [^2], as the soul of the primeval ox came out from the body of the ox, stood up before the ox _and_ cried to Aûharmazd, as much as a thousand men when they sustain a cry at one time, thus: ‘With whom is the guardianship of the creatures left by thee, when ruin _has_ broken into the earth, and vegetation is withered, and water is troubled? Where is the man [^3] of whom it was said by thee thus: I _will_ produce _him_, so that he may preach carefulness?’
 
-3\. And Aûharmazd spoke thus: ‘You are made ill [^4], O Gô<i>s</i>ûrvan! you, have the illness which the evil spirit brought on if it were proper to produce that man in this earth at this time, the. evil spirit would not have been oppressive in it.’
+3\. And Aûharmazd spoke thus: ‘You are made ill [^4], O Gô<i>s</i>ûrvan! you, have the illness which the evil spirit brought on if it were proper to produce that man in this earth at this time, the. evil spirit would not have been oppressive in it.’
 
 <span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
-4\. Forth Gô<i>s</i>ûrvan walked to the star station (pâyak) _and_ cried in the same manner, and forth to the moon station _and_ cried in the same manner, _and_ forth to the sun station, and then the guardian spirit of Zaratû<i>s</i>t was exhibited to her, _and Aûharmazd said_ thus [^5]: ‘I will produce for the world _him_ who will preach carefulness.’ 5. Contented became the spirit Gô<i>s</i>ûrvan, and assented thus: ‘I will nourish the creatures;’ that is, she became again consenting to a worldly creation in the world.
+4\. Forth Gô<i>s</i>ûrvan walked to the star station (pâyak) _and_ cried in the same manner, and forth to the moon station _and_ cried in the same manner, _and_ forth to the sun station, and then the guardian spirit of Zaratû<i>s</i>t was exhibited to her, _and Aûharmazd said_ thus [^5]: ‘I will produce for the world _him_ who will preach carefulness.’ 5. Contented became the spirit Gô<i>s</i>ûrvan, and assented thus: ‘I will nourish the creatures;’ that is, she became again consenting to a worldly creation in the world.
 
 <figure class="table chapter-navigator">
   <table>

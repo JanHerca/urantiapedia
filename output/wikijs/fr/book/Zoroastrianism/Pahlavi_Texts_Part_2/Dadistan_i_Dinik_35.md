@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## Notes de bas de page
 
-[^1]: (76:4) Lecture d'un<i>v</i>îk (ou d'un<i>v</i>ih) anshûtâ, mais il peut s'agir éventuellement d'un<i>v</i>î-<i>i</i> anshûtâ, 'sans un seul homme'.
+[^1]: (76:4) Lecture d'un<i>v</i>îk (ou d'un<i>v</i>ih) anshûtâ, mais il peut s'agir éventuellement d'un<i>v</i>î-<i>i</i> anshûtâ, « sans un seul homme ».
 
 [^2]: (77:1) Bd. XXX, 3 déclare que les hommes s'abstiennent d'abord de viande, ensuite de légumes et de lait, et enfin d'eau.

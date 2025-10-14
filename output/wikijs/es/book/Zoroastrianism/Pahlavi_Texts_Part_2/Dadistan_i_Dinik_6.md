@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Esto también es más particularmente así como decían los antiguos: que el trabajo y la fatiga de los buenos son mucho mayores en el mundo, y su recompensa y recompensa son más seguras en la existencia espiritual; y el consuelo y el placer de los viles son mayores en el mundo, y su dolor y castigo en la existencia espiritual son más severos. 6. Y esto también es así: que los buenos, por temor al dolor y al castigo del infierno, deberían abandonar la comodidad y la tranquilidad del mundo, y no deberían pensar, hablar ni hacer nada indebido. 7. Y por la esperanza del consuelo y el placer en el cielo, deberían aceptar de buen grado, por el cuello [^2], mucha fatiga y temor en la práctica de la virtud en pensamiento, palabra y obra.
 
-8\. Los viles, al proveerse de goce temporal [^3]\ —incluso ese goce de impropiedades para las cuales eventualmente hay infierno—, se divierten allí temporalmente y lujuriosamente por egoísmo; tampoco se preocupan por esas diversas acciones, mediante las cuales _habría_ un camino al cielo.
+8\. Los viles, al proveerse de goce temporal [^3]\ —incluso ese goce de impropiedades para las cuales eventualmente hay infierno—, se divierten <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> allí temporalmente y lujuriosamente por egoísmo; tampoco se preocupan por esas diversas acciones, mediante las cuales _habría_ un camino al cielo.
 
 9\. Y de esta manera, en el mundo, la comodidad y el placer de los viles son mayores, y la ansiedad, la vejación, el desaliento y la angustia de los buenos _han_ aumentado; la razón la revelan las estrellas [^4].
 
@@ -70,10 +70,10 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (23:1) M14 y J tienen «pero el mal mundano y la esclavitud son incalculablemente más manifiestos en torno al bien, mucho más en la estación (zêmânîh) de Srôsh». La «estación de Srôsh» quizás signifique la noche, o las tres noches después de la muerte, cuando más se necesita la protección del ángel Srôsh; pero Dastûr Peshotanji Behramji, el sumo sacerdote de los parsis en Bombay, prefiere leer zîmânash (con un doble sufijo pronominal), y me ha favorecido con la siguiente traducción libre de todo el pasaje: «En todo momento y lugar no les sucede mucho mal a todos los buenos; pues los buenos, tras haber sido separados de este mundo, reciben (como recompensa por haber sufrido el mal) mucha bondad en el otro mundo, bondad que se (considera) de un grado muy alto en las doctrinas religiosas (srôsh).» Quizás, después de todo, Srôsh es un error de ortografía de saryâ, 'malo, perverso'.
+[^1]: (23:1) M14 y J tienen «pero el mal mundano y la esclavitud son incalculablemente más manifiestos en torno al bien, mucho más en la estación (zêmânîh) de Srôsh». La «estación de Srôsh» quizás signifique la noche, o las tres noches después de la muerte, cuando más se necesita la protección del ángel Srôsh; pero Dastûr Peshotanji Behramji, el sumo sacerdote de los parsis en Bombay, prefiere leer zîmânash (con un doble sufijo pronominal), y me ha favorecido con la siguiente traducción libre de todo el pasaje: «En todo momento y lugar no les sucede mucho mal a todos los buenos; pues los buenos, tras haber sido separados de este mundo, reciben (como recompensa por haber sufrido el mal) mucha bondad en el otro mundo, bondad que se (considera) de un grado muy alto en las doctrinas religiosas (srôsh).» Quizás, después de todo, Srôsh es un error de ortografía de saryâ, «malo, perverso».
 
-[^2]: (24:1) La palabra puede leerse garêvan, 'collar', o gardûn, 'cuello', y es la Pâz. habitual del Huz. <i>k</i>avarman (caldo ?Cַ?W.ַ?Rָ?A), 'el cuello', aunque 'cuello' a menudo se expresa como gar<i>d</i>ûn. El significado es que se debe aceptar el yugo de la angustia y el miedo.
+[^2]: (24:1) La palabra puede leerse garêvan, «collar», o gardûn, «cuello», y es la Pâz. habitual del Huz. <i>k</i>avarman (caldo ?Cַ?W.ַ?Rָ?A), «el cuello», aunque «cuello» a menudo se expresa como gar<i>d</i>ûn. El significado es que se debe aceptar el yugo de la angustia y el miedo.
 
-[^3]: (24:2) M14 y J tienen 'por provisión el disfrute de impropiedades que son temporalmente suyas'.
+[^3]: (24:2) M14 y J tienen «por provisión el disfrute de impropiedades que son temporalmente suyas».
 
 [^4]: (25:1) Es decir, depende del destino.

@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 1\. _En cuanto a_ la quincuagésima cuarta pregunta _y_ respuesta, lo _que_ preguntas es así: ¿Cuál es la ocupación y capacidad (giriftârîh) de la persona _que tiene_ que preservar a aquellos que están en sus _pruebas_ de tres noches [^1], _y_ quién es él?
 
-2\. La respuesta es esta, que se dice que un marido (gab<i>r</i>â) es indispensable para la preservación a través de las pruebas de las tres noches que serán _para_ una esposa privilegiada, un padre _para_ las de un niño, _y_ un amo _para_ las de un sirviente.
+2\. La respuesta es esta, que se dice que un marido (gab<i>r</i>â) es indispensable para la preservación a través de las _pruebas_ de las tres noches que serán _para_ una esposa privilegiada, un padre _para_ las de un niño, _y_ un amo _para_ las de un sirviente.
 
 <figure class="table chapter-navigator">
   <table>

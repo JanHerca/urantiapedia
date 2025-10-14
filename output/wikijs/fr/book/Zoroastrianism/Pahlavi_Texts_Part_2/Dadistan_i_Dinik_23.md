@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## Notes de bas de page
 
-[^1]: (51:3) Lecture de abarî<i>s</i> (comparer au persan bar<i>z</i>, 'splendeur'), ​​ou cela peut être abarâkh, 'sans étincelle', si barkh, 'une étincelle', est un mot purement persan, ce qui est douteux.
+[^1]: (51:3) Lecture de abarî<i>s</i> (comparer au persan bar<i>z</i>, « splendeur »), ​​ou cela peut être abarâkh, « sans étincelle », si barkh, « une étincelle », est un mot purement persan, ce qui est douteux.
 
 [^2]: (52:1) M14 et J omettent le reste de la phrase.
 

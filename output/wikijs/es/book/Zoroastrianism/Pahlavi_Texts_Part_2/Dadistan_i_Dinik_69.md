@@ -68,8 +68,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (212:1) Suponiendo que la lectura sea 2-ân gô<i>k</i>îhar-î târ aquí, y 2-ân gô<i>k</i>îharân en § 3. Gô<i>k</i>îhar es un supuesto cuerpo planetario (y, por lo tanto, maligno), conectado con el sol y la luna y con cabeza y cola, que cae sobre la tierra en la resurrección (véase Bd. V, 1, XXVIII, 44, XXX, 18), y se describe aquí como la causa de los eclipses. Su nombre implica que surgió de, o contenía, la semilla del buey primigenio, la supuesta fuente de la vida animal (véase Bd. XIV, 3), y en su forma Av., gao<i>k</i>ithra, es un epíteto común de la luna; en Pers. Se ha convertido en gôzihr o gava<i>z</i>kihr. En K35, las palabras se parecen más a 2 andô<i>g</i> dâlan-î târ, «dos vestíbulos oscuros de tiendas», o 2 andô<i>g</i> gâl-î târ, «dos grupos de arañas oscuras»; y en § 3, la palabra han<i>k</i>înŏ sustituye a la casi sinónima andô<i>g</i>. En M14, las palabras parecen ser 2 ângûn <i>k</i>îharânŏ-î târ, «dos caras tan oscuras».
 
-[^2]: (212:2) M14 tiene 'en los cálculos de los astrónomos'.
+[^2]: (212:2) M14 tiene «en los cálculos de los astrónomos».
 
-[^3]: (213:1) Literalmente, 'caídos'.
+[^3]: (213:1) Literalmente, «caídos».
 
 [^4]: (213:2) Suponiendo que mâ<i>d</i>ârîh significa ma<i>d</i>ârîh. El significado es que un eclipse no produce daño alguno más allá de una breve interrupción del descenso de los rayos del sol o de la luna a la Tierra.

@@ -64,9 +64,9 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (210:4) La única lectura probable para esta palabra es mindavam, 'una cosa'; aparece tres veces en esta pregunta, pero es un término muy vago para las fases de la luna, probablemente refiriéndose a un supuesto cuerpo que cubre la parte oscura del disco de la luna.
+[^1]: (210:4) La única lectura probable para esta palabra es mindavam, «una cosa»; aparece tres veces en esta pregunta, pero es un término muy vago para las fases de la luna, probablemente refiriéndose a un supuesto cuerpo que cubre la parte oscura del disco de la luna.
 
-[^2]: (211:1) Los manuscritos tienen astî-hênd, 'han permanecido', en lugar de khadîtunî-hênd, 'son vistos'; pero la diferencia entre estas palabras en letras Pahlavi es meramente un trazo medio.
+[^2]: (211:1) Los manuscritos tienen astî-hênd, «han permanecido», en lugar de khadîtunî-hênd, «son vistos»; pero la diferencia entre estas palabras en letras Pahlavi es meramente un trazo medio.
 
 [^3]: (211:2) Aparentemente así es, ya que la luna sale y se pone unos 48 minutos más tarde cada día, en promedio.
 

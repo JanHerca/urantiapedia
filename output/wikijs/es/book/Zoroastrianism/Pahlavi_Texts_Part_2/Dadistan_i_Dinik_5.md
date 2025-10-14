@@ -66,8 +66,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (22:1) Se lee pâ<i>d</i>a<i>s</i>ân, pero con una ligera alteración M14 y J tienen pâ<i>d</i>akhshahân, 'monarcas', lo cual es igualmente adecuado.
+[^1]: (22:1) Se lee pâ<i>d</i>a<i>s</i>ân, pero con una ligera alteración M14 y J tienen pâ<i>d</i>akhshahân, «monarcas», lo cual es igualmente adecuado.
 
 [^2]: (22:2) Por revelación.
 
-[^3]: (22:3) M14 y J tienen 'y por lo tanto permanece seguro de que sus buenas obras están en la declaración (mâ<i>d</i>îgânŏ) de buenas obras, _y_ en cuanto a todo ese terror, ansiedad (vayâdŏ) e incomodidad,' etc.
+[^3]: (22:3) M14 y J tienen «y por lo tanto permanece seguro de que sus buenas obras están en la declaración (mâ<i>d</i>îgânŏ) de buenas obras, _y_ en cuanto a todo ese terror, ansiedad (vayâdŏ) e incomodidad,» etc.

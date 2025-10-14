@@ -32,17 +32,17 @@ dateCreated: 2025-10-5T10:16:32Z
   </table>
 </figure>
 
-## SHAYÂST LA-SHAYÂST. CHAPTER XIV [^1].
+## SHAYÂST LA-SHAYÂST. CHAPTER XIV [^1].
 
 0\. May it be in the name of God (yazdân) and the good creation!
 
-1\. When they consecrate a sacred cake (drônô), _and_ it becomes demon worship [^2], what and how many _things_ are not proper?
+1\. When they consecrate a sacred cake (drônô), _and_ it becomes demon worship [^2], what and how many _things_ are not proper?
 
 <span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
-2\. The decision is this:—Whoever knowingly consecrates a sacred cake with unpurified _sacred_ twigs (baresôm-i apâ<i>d</i>iyâ<i>v</i>) [^3], or with a twig-bundle the number of whose twigs (tâk) is _too_ many or _too_ few, or of another plant not proper _for sacred_ twigs; or holds the end of the twig-bundle to the north [^4] _and_ utters the Avesta attentively; or whoever consecrates with efficacy unawares, _it_ is not to be considered as uttered by him. 3. _Nor by him_ who advertently or inadvertently takes a taste (<i>k</i>âshnîk), not from the sacred cake with the butter (gâû<i>s</i>\-daê) [^5], _but_ from the frasast; or takes the prayer (vâ<i>g</i>) [^6] _inwardly_ regarding that cake (drônô) before the officiating priest (zôt) takes a taste from the same cake; or shall utter the length of a stanza _in_ excess, _and_ does not again make a beginning of the _consecration of the_ sacred cake; or takes _up_ the <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> dedication _formula_ (shnûmanŏ) [^7] _too_ soon or _too_ late; or does not utter the Avesta for the fire when he sees the fire.
+2\. The decision is this:—Whoever knowingly consecrates a sacred cake with unpurified _sacred_ twigs (baresôm-i apâ<i>d</i>iyâ<i>v</i>) [^3], or with a twig-bundle the number of whose twigs (tâk) is _too_ many or _too_ few, or of another plant not proper _for sacred_ twigs; or holds the end of the twig-bundle to the north [^4] _and_ utters the Avesta attentively; or whoever consecrates with efficacy unawares, _it_ is not to be considered as uttered by him. 3. _Nor by him_ who advertently or inadvertently takes a taste (<i>k</i>âshnîk), not from the sacred cake with the butter (gâû<i>s</i>\-daê) [^5], _but_ from the frasast; or takes the prayer (vâ<i>g</i>) [^6] _inwardly_ regarding that cake (drônô) before the officiating priest (zôt) takes a taste from the same cake; or shall utter the length of a stanza _in_ excess, _and_ does not again make a beginning of the _consecration of the_ sacred cake; or takes _up_ the <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> dedication _formula_ (shnûmanŏ) [^7] _too_ soon or _too_ late; or does not utter the Avesta for the fire when he sees the fire.
 
-4\. This is how it is when the period _of the day_ (gâs) [^8] is retained, and how it should be when _one_ may relinquish _it_; that is, when even one of the stars created by Aûharmazd is apparent, _it_ is retained, _and_ when not _it_ is relinquished. 5. It is Vand-Aûharmazd [^9] _who_ said that when, besides Tî<i>s</i>tar, Vanand, or Satavês [^10], one of the zodiacal _stars_ (akhtarîk) is apparent, _it_ is retained, and when not _it_ is relinquished. 6. _There_ have been _some_ who said that when, besides one of those three, three zodiacal _stars_ are apparent, _it_ is retained, and when not _it_ is relinquished [^11].
+4\. This is how it is when the period _of the day_ (gâs) [^8] is retained, and how it should be when _one_ may relinquish _it_; that is, when even one of the stars created by Aûharmazd is apparent, _it_ is retained, _and_ when not _it_ is relinquished. 5. It is Vand-Aûharmazd [^9] _who_ said that when, besides Tî<i>s</i>tar, Vanand, or Satavês [^10], one of the zodiacal _stars_ (akhtarîk) is apparent, _it_ is retained, and when not _it_ is relinquished. 6. _There_ have been _some_ who said that when, besides one of those three, three zodiacal _stars_ are apparent, _it_ is retained, and when not _it_ is relinquished [^11].
 
 <figure class="table chapter-navigator">
   <table>

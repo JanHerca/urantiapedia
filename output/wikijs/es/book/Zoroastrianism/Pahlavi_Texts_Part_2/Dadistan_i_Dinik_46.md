@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (154:1) K35 tiene 'mendigar', tanto aquí como en § 6, siendo la diferencia entre las dos palabras en Pahlavi sólo un trazo.
+[^1]: (154:1) K35 tiene «mendigar», tanto aquí como en § 6, siendo la diferencia entre las dos palabras en Pahlavi sólo un trazo.
 
 [^2]: (154:2) Véase Cap. XL IV, 19.
 

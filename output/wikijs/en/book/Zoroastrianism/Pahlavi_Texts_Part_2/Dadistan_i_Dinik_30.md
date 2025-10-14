@@ -34,11 +34,11 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER XXX.
 
-1\. The twenty-ninth question is that which you ask thus: The third night, in the light of dawn, what is the reason for consecrating separately the three sacred cakes [^1] with three dedications (shnûman)?
+1\. The twenty-ninth question is that which you ask thus: The third night, in the light of dawn, what is the reason for consecrating separately the three sacred cakes [^1] with three dedications (shnûman)?
 
-2\. The reply is this, that one sacred cake, whose dedication is _to_ Rashnû _and_ Â<i>s</i>tâ<i>d</i> [^2], is for  [^3] satisfying <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> the light of dawn and the period of Atûshahîn [^4], because the mountain Aûshdâ<i>s</i>târ [^5] is mentioned in the propitiation of the angel Â<i>s</i>tâ<i>d</i>. 3. With Â<i>s</i>tâ<i>d</i> is the propitiation of the period of Aûshahîn [^6], and _she_ is the ruler of glory [^7] of that time when the account occurs; the souls are in the light of the dawn of Aûshahîn when they go to the account; their passage (vi<i>d</i>âr) is through the bright dawn.
+2\. The reply is this, that one sacred cake, whose dedication is _to_ Rashnû _and_ Â<i>s</i>tâ<i>d</i> [^2], is for  [^3] satisfying <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> the light of dawn and the period of Atûshahîn [^4], because the mountain Aûshdâ<i>s</i>târ [^5] is mentioned in the propitiation of the angel Â<i>s</i>tâ<i>d</i>. 3. With Â<i>s</i>tâ<i>d</i> is the propitiation of the period of Aûshahîn [^6], and _she_ is the ruler of glory [^7] of that time when the account occurs; the souls are in the light of the dawn of Aûshahîn when they go to the account; their passage (vi<i>d</i>âr) is through the bright dawn.
 
-4\. One sacred cake, which is in propitiation of the good Vâê [^8], is, moreover, on this account: whereas the bad Vâê [^9] is a despoiler and destroyer, even so the good Vâê is a resister (kûkhshî<i>d</i>âr), and likewise encountering the bad Vâê; _he_ is also a diminisher (vizû<i>d</i>âr) of his abstraction of life, <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> and a receiver and protection of life, on account of the sacred cake [^10].
+4\. One sacred cake, which is in propitiation of the good Vâê [^8], is, moreover, on this account: whereas the bad Vâê [^9] is a despoiler and destroyer, even so the good Vâê is a resister (kûkhshî<i>d</i>âr), and likewise encountering the bad Vâê; _he_ is also a diminisher (vizû<i>d</i>âr) of his abstraction of life, <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> and a receiver and protection of life, on account of the sacred cake [^10].
 
 <figure class="table chapter-navigator">
   <table>

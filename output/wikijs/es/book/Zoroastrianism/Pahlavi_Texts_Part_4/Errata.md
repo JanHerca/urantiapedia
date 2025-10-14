@@ -45,7 +45,7 @@ P. [114](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Observaciones_Sikand_Guman
 
 „ ll. 23-28, la del discípulo a través de la enseñanza del instructor sacerdotal; la enseñanza del instructor sacerdotal para el alumno, y el feliz efecto de la enseñanza del instructor sacerdotal en asuntos similares.
 
-P. [119](/es/book/Zoroastrismo/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_1#p119), ll. 2-5, la falta de eminencia de alguien a través de una enseñanza que es una ofensa para los demás, lo que se debe a sus puertas cerradas y mala eminencia en la enseñanza; etc.
+P. [119](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_1#p119), ll. 2-5, la falta de eminencia de alguien a través de una enseñanza que es una ofensa para los demás, lo que se debe a sus puertas cerradas y mala eminencia en la enseñanza; etc.
 
 El profesor Darmesteter ha sugerido la siguiente corrección:
 

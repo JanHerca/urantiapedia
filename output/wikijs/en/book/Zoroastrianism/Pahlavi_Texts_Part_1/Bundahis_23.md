@@ -34,9 +34,9 @@ dateCreated: 2025-10-5T10:16:32Z
 
 ## BUNDAHI<i>S</i>. CHAPTER XXIII.
 
-1\. On the nature of the ape _and_ the bear they say, that Yim, when reason (nismô) departed from, him [^1], for fear of the demons took a demoness as wife, and gave Yimak, who was _his_ sister, to a demon as wife; and from them have originated the tailed ape and bear _and_ other species of degeneracy.
+1\. On the nature of the ape _and_ the bear they say, that Yim, when reason (nismô) departed from, him [^1], for fear of the demons took a demoness as wife, and gave Yimak, who was _his_ sister, to a demon as wife; and from them have originated the tailed ape and bear _and_ other species of degeneracy.
 
-2\. This, too, they say, that in the reign of A<i>z</i>\-i Dahâk [^2] a young woman was admitted to a demon, and a young man was admitted to a witch (parîk), and on seeing them they had intercourse; owing to that one intercourse the black-skinned negro arose from them. 3. When Frê<i>d</i>ûn [^3] came to them they fled from the country of Iran, _and_ settled upon the sea-coast; now, _through_ the invasion of the Arabs, they are again diffused through the country of Iran.
+2\. This, too, they say, that in the reign of A<i>z</i>\-i Dahâk [^2] a young woman was admitted to a demon, and a young man was admitted to a witch (parîk), and on seeing them they had intercourse; owing to that one intercourse the black-skinned negro arose from them. 3. When Frê<i>d</i>ûn [^3] came to them they fled from the country of Iran, _and_ settled upon the sea-coast; now, _through_ the invasion of the Arabs, they are again diffused through the country of Iran.
 
 <figure class="table chapter-navigator">
   <table>

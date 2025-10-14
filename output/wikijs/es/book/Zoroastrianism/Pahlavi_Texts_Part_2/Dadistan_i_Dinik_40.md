@@ -46,7 +46,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 A. Y cada órgano tiene una función, pero dos funciones especiales están conectadas con la boca: hablar y comer; y, al estar juntas, se oponen mutuamente, pues hablar conecta lo que es una posesión interna con las enseñanzas externas (<i>k</i>âshîhâ), y al comer, el alimento externo llega para una mayor vitalidad interna. 11. Como dijeron los antiguos, cuando una operación se asigna a dos operadores, es más <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> expresamente para que al comer no se produzcan dos operaciones a la vez (ayag-i<i>k</i>\-gûn), al hablar y al comer.
 
-12\. Para mantener estas dos operaciones separadas, la costumbre de pronunciar la alabanza a los seres sagrados _y_ la glorificación de los seres sagrados cuando la boca permanece en el acto de comer, hasta que esta se limpia de alimento, se decreta como incompatible con la bondad (aham-vêhîh). 13. Y lo que queda del derramamiento (rîkh) en el momento de una purificación se llama 'una purificación (nîsn-aê)'.
+12\. Para mantener estas dos operaciones separadas, la costumbre de pronunciar la alabanza a los seres sagrados _y_ la glorificación de los seres sagrados cuando la boca permanece en el acto de comer, hasta que esta se limpia de alimento, se decreta como incompatible con la bondad (aham-vêhîh). 13. Y lo que queda del derramamiento (rîkh) en el momento de una purificación se llama «una purificación (nîsn-aê)».
 
 14\. Un medio para retener el conocimiento es no agotarlo. Pero cuando uno habla así durante esa purificación, las palabras se originan realmente con la boca, pues no las retiene; y siempre que (maman) no dice nada con la lengua, esa glorificación religiosa que se acostumbra pronunciar antes y después de comer la ofrece entonces con sus propios recursos limitados (sâmânŏ-î vîmônd), y se ofrecerá con sus propios recursos limitados.
 
@@ -84,18 +84,18 @@ A. Y cada órgano tiene una función, pero dos funciones especiales están conec
 
 [^4]: (133:4) Es decir, se pasa dos veces alrededor de la cintura antes de atarse la primera vez, pero luego se pasa una tercera vez alrededor de la cintura (ver Cap. XXXIX, I).
 
-[^5]: (134:1) La doble sabiduría del Avesta comprende los dos intelectos, el âsnô khratu<i>s</i>, 'la sabiduría duradera o instintiva', y el gaoshô-srûtô khratu<i>s</i>, 'la sabiduría escuchada o adquirida', que son los términos utilizados aquí.
+[^5]: (134:1) La doble sabiduría del Avesta comprende los dos intelectos, el âsnô khratu<i>s</i>, «la sabiduría duradera o instintiva», y el gaoshô-srûtô khratu<i>s</i>, «la sabiduría escuchada o adquirida», que son los términos utilizados aquí.
 
 [^6]: (134:2) El pecado de vishâ<i>d</i>\-dûbâri<i>s</i>nîh, en el que se habría incurrido en cualquiera de estos casos si no se hubiera usado cinturón, es un pecado venial de un Farmân por cada uno de los tres primeros pasos, pero se convierte en un pecado Tanâpûhar (equivalente a 75 o 400 Farmâns) en el cuarto paso (ver Sls. IV, 8-10).
 
 [^7]: (134:3) Esto se menciona como una ilustración adicional de un deber religioso mayor que reemplaza a uno menor. Cuando se cantan los Gâthas, o himnos, el recitador ya está bajo la protección de la oración interna (vâ<i>g</i>) con la que deben comenzar todos los actos de adoración; por lo tanto, no es necesario realizar otra oración internamente antes de comer. La oración interna es una fórmula corta que se dice que se «toma» y «retiene» internamente, como un conjuro protector, murmurando su comienzo antes de ciertos actos necesarios, y tras completar el acto, el resto de la fórmula se «dice» en voz alta, y el conjuro se disipa, antes de que la persona pueda conversar (véase Sls. III, 6).
 
-[^8]: (134:4) Los manuscritos tienen pêm, 'leche', en lugar de <i>k</i>îm, 'propósito', pero véase § 1; las letras Pahl. p y <i>k</i> son a menudo muy parecidas.
+[^8]: (134:4) Los manuscritos tienen pêm, «leche», en lugar de <i>k</i>îm, «propósito», pero véase § 1; las letras Pahl. p y <i>k</i> son a menudo muy parecidas.
 
-[^9]: (134:5) M14 tiene sipâsîh, 'alabanza'; pero esta y varias otras enmiendas p. 135 en el mismo manuscrito probablemente no son más que intentos fallidos de hacer inteligible un texto oscuro, sin tomarse la molestia de entenderlo.
+[^9]: (134:5) M14 tiene sipâsîh, «alabanza»; pero esta y varias otras enmiendas p. 135 en el mismo manuscrito probablemente no son más que intentos fallidos de hacer inteligible un texto oscuro, sin tomarse la molestia de entenderlo.
 
 [^10]: (135:1) Esta glorificación (stâyi<i>s</i>nŏ) debe referirse a la oración interior del § 5, que comienza alabando a Aûha<i>r</i>ma<i>z</i><i>d</i> (véase Cap. LXXIX, 2, nota).
 
-[^11]: (135:2) Se lee lâ, 'no', en lugar de râî, 'a causa de'. M14 ha alterado el pasaje.
+[^11]: (135:2) Se lee lâ, «no», en lugar de râî, «a causa de». M14 ha alterado el pasaje.
 
 [^12]: (135:3) Es decir, cuando el hechizo de la oración interior se rompe al hablar antes del tiempo apropiado (ver § 5, nota), el hechizo debe renovarse antes de proceder con la comida.

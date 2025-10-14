@@ -50,7 +50,7 @@ Le saint, c'est-à-dire le pieux adhérent au Saint Ordre, quel que soit le rés
 
 Traduction. 
 
-1\. Français Si par son action [^677] dans l'offrande de dons en accord avec l'Ordre Juste, (Ton saint [^678]) frappe le Démon-du-Mensonge (l'esprit inspirant de nos ennemis), quand cela viendra en toute vérité [^679], qui a été (et est encore) proclamé comme une tromperie [^680], (quand il viendra) dans la vie immortelle, concernant (comme il le fait à la fois) les hommes (pour bénir), et les Daêvas [^681] (pour les affliger), alors (Ton fidèle adorateur) augmentera par là la célébration de Ta louange, ô Seigneur ! et avec elle les bénédictions [^682] (pour Ton peuple).
+1\. Si par son action [^677] dans l'offrande de dons en accord avec l'Ordre Juste, (Ton saint [^678]) frappe le Démon-du-Mensonge (l'esprit inspirant de nos ennemis), quand cela viendra en toute vérité [^679], qui a été (et est encore) proclamé comme une tromperie [^680], (quand il viendra) dans la vie immortelle, concernant (comme il le fait à la fois) les hommes (pour bénir), et les Daêvas [^681] (pour les affliger), alors (Ton fidèle adorateur) augmentera par là la célébration de Ta louange, ô Seigneur ! et avec elle les bénédictions [^682] (pour Ton peuple).
 
 2\. Dis-moi donc, Seigneur ? (la fin), car Tu la connais. (Dis-moi de m'accorder force et courage) avant que ne viennent les conflits auxquels je serai confronté [^683] (en tant que chef de Tes tribus) ; le champion de Ton saint Ordre, ô Ahura ! frappera-t-il (enfin) le mauvais hérétique, et quand ? (Je Te le demande) ; car ceci, s'il est acquis (est connu), est la (seule) bonne consommation [^684] de (notre) vie. 
 
@@ -114,7 +114,7 @@ de bas de page [^678]: 153:1 Le Pahlavi a aussi pavan zak dahi<i>s</i>nŏ; mais 
 
 [^683]: 153:6 Voir Y. XXX, 11, sava<i>k</i>â ashavabyô. 
 
-[^684]: 154:1 M<i>e</i><i>n</i>g = mãm ou homme ; -<i>e</i><i>n</i>g est la voyelle nasalisée. Man est ici d'une signification suspecte ; « batailles mentales » est plutôt avancé dans les circonstances. Ce n'est cependant pas impossible. Le Pahlavi privilégie mãm (?) ici ; il a avŏ li. Nous pourrions même lire m<i>e</i>nâ sur son évidence. Le Pahlavi indique le sens de « crises » sous la figure du « Pont », qui fut la dernière grande crise pour chaque homme aux yeux de la Foi antérieure, comme de la Foi postérieure ; Français ainsi aussi dans Y. LI, 12. Les « difficultés de la vie » seraient une signification admirable ; je suis en désaccord avec hésitation. 
+[^684]: 154:1 M<i>e</i><i>n</i>g = mãm ou homme ; -<i>e</i><i>n</i>g est la voyelle nasalisée. Man est ici d'une signification suspecte ; « batailles mentales » est plutôt avancé dans les circonstances. Ce n'est cependant pas impossible. Le Pahlavi privilégie mãm (?) ici ; il a avŏ li. Nous pourrions même lire m<i>e</i>nâ sur son évidence. Le Pahlavi indique le sens de « crises » sous la figure du « Pont », qui fut la dernière grande crise pour chaque homme aux yeux de la Foi antérieure, comme de la Foi postérieure ; ainsi aussi dans Y. LI, 12. Les « difficultés de la vie » seraient une signification admirable ; je suis en désaccord avec hésitation. 
 
 [^685]: 154:2 Pahlavi kar<i>d</i>ârîh. 
 
@@ -136,7 +136,7 @@ de bas de page [^678]: 153:1 Le Pahlavi a aussi pavan zak dahi<i>s</i>nŏ; mais 
 
 [^693]: 155:6 Le Pahlavi a, avec une liberté admirable, zakatŏ hû-khû<i>d</i>âî pâ<i>d</i>akhshâyîni<i>s</i>n, va al lanman zak î dû<i>s</i>\-khû<i>d</i>âî <i>s</i>alîtâ yehavûnâ<i>d</i>ŏ. Je lis hukhshathrâ khshaye<i>ñ</i>tãm, mâ n<i>e</i> dû<i>s</i>\-khshathrâ, pour mettre un peu d'ordre dans le mètre, car une irrégularité grossière est présente ; seule la césure, et non le sens, est affectée par le changement. 
 
-[^694]: 155:7 Ou, 'à partir de l'heure de naissance' ; ainsi le Pahlavi. Français Sa glose se lit \[akhar min zerkhûni<i>s</i>nŏ avinâsîh pâhlûm\]. 
+[^694]: 155:7 Ou, 'à partir de l'heure de naissance' ; ainsi le Pahlavi. Sa glose se lit \[akhar min zerkhûni<i>s</i>nŏ avinâsîh pâhlûm\]. 
 
 [^696]: 156:1 Ainsi Bartholomae, qui s'en tient maintenant à un troisième singulier ici, laissant le texte inchangé et expliquant comme un optatif. 
 
@@ -174,7 +174,7 @@ de bas de page [^678]: 153:1 Le Pahlavi a aussi pavan zak dahi<i>s</i>nŏ; mais 
 
 [^713]: 158:4 L'ivresse du Soma est-elle ici mentionnée ? Et le culte du Haoma était-il en suspens à l'époque ? Les Pahlavi semblent avoir compris ici le mot « magie », et dans le mauvais sens, c'est-à-dire, à en juger par la glose peut-être plus tardive. Cependant, outre la glose, les Pahlavi pourraient bien avoir été, ou plus probablement, destinés à être lus madîh comme = madahyâ. 
 
-[^714]: 158:5 Quant à ce mot, nous ne pouvons faire mieux que de suivre Justi (bien que son ouvrage soit maintenant vieux d'une vingtaine d'années). Le várpas indien, dans le sens de tromperie, a également été comparé. Français Le dernier traducteur Pahlavi a probablement été dérouté en trouvant ce mot, comme si souvent, divisé dans son manuscrit. Il a traduit du mieux qu'il a pu, ou plutôt il a transmis les documents brisés, ou les enseignements oraux, de ses prédécesseurs avec ses propres ajouts trop souvent boiteux, l'ensemble étant riche des reliques de la vérité. 
+[^714]: 158:5 Quant à ce mot, nous ne pouvons faire mieux que de suivre Justi (bien que son ouvrage soit maintenant vieux d'une vingtaine d'années). Le várpas indien, dans le sens de tromperie, a également été comparé. Le dernier traducteur Pahlavi a probablement été dérouté en trouvant ce mot, comme si souvent, divisé dans son manuscrit. Il a traduit du mieux qu'il a pu, ou plutôt il a transmis les documents brisés, ou les enseignements oraux, de ses prédécesseurs avec ses propres ajouts trop souvent boiteux, l'ensemble étant riche des reliques de la vérité. 
 
 [^715]: 158:6 Voir le verset 5. 
 

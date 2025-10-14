@@ -206,7 +206,7 @@ BR 3000, 3630 av. J.-C. Début du septième millénaire, lorsque l'esprit maléf
 
 « 500, 1130 av. J.-C.. Accession de Mânû<i>s</i><i>k</i>îhar (ibid. 6).
 
-Français : « 428, 1058 av. J.-C. Spenda<i>r</i>ma<i>d</i> arrive à Mânû<i>s</i><i>k</i>îhar à l'époque des travaux d'irrigation de Frâsiy<i>â</i><i>v</i> (Zs. XII, 3-6). Les MSS. ont BR 528, mais faire entrer cette date dans le règne de Mânû<i>s</i><i>k</i>îhar serait incompatible avec la disposition millénaire ; tandis que supposer une erreur administrative d'un siècle est une explication probable, car cela rend la date plus cohérente avec l'allusion à Frâsiy<i>â</i><i>v</i>, dont les travaux d'irrigation, mentionnés dans Bd. XX, 34 ; XXI, 6, doivent avoir été réalisés dans la dernière partie du règne de Mânû<i>s</i><i>k</i>îhar.
+: « 428, 1058 av. J.-C. Spenda<i>r</i>ma<i>d</i> arrive à Mânû<i>s</i><i>k</i>îhar à l'époque des travaux d'irrigation de Frâsiy<i>â</i><i>v</i> (Zs. XII, 3-6). Les MSS. ont BR 528, mais faire entrer cette date dans le règne de Mânû<i>s</i><i>k</i>îhar serait incompatible avec la disposition millénaire ; tandis que supposer une erreur administrative d'un siècle est une explication probable, car cela rend la date plus cohérente avec l'allusion à Frâsiy<i>â</i><i>v</i>, dont les travaux d'irrigation, mentionnés dans Bd. XX, 34 ; XXI, 6, doivent avoir été réalisés dans la dernière partie du règne de Mânû<i>s</i><i>k</i>îhar.
 
 « 380, 1010 av. J.-C.. Accession d'Aûzôbô (Bd. XXXIV, 6).
 

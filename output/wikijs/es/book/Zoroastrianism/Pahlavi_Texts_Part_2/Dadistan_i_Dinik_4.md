@@ -70,14 +70,14 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (20:1) Se refiere al Cap. II, 1, y no al Cap. III, 20; de lo contrario se podría suponer que las preguntas fueron ideadas para adaptarse a las respuestas.
 
-[^2]: (20:2) O, quizás, 'entendimiento'.
+[^2]: (20:2) O, quizás, «entendimiento».
 
-[^3]: (20:3) K35 tiene 'obediencia a' al insertar un trazo medial en dâni<i>s</i>nŏ, que lo convierte en <i>s</i>invi<i>s</i>nô, pero probablemente sea un error.
+[^3]: (20:3) K35 tiene «obediencia a» al insertar un trazo medial en dâni<i>s</i>nŏ, que lo convierte en <i>s</i>invi<i>s</i>nô, pero probablemente sea un error.
 
-[^4]: (21:1) M14 y J aquí insertan 'Yo guardaré su mente de los malos pensamientos, y su lengua de las malas palabras'.
+[^4]: (21:1) M14 y J aquí insertan «Yo guardaré su mente de los malos pensamientos, y su lengua de las malas palabras».
 
 [^5]: (21:2) En la existencia futura.
 
-[^6]: (21:3) M4 y J tienen 'y es la obtención de un gobernante que es un sabio defensor de la religión, de tiempo en tiempo, incluso hasta el cambio de las últimas existencias por la renovación bien organizada del universo'. Pero las palabras adicionales parecen haber sido sugeridas por la palabra 'gobernante' tomada literalmente, mientras que parece haber sido aplicada figurativamente a la religión que ha de gobernar a los justos hasta la existencia futura.
+[^6]: (21:3) M4 y J tienen «y es la obtención de un gobernante que es un sabio defensor de la religión, de tiempo en tiempo, incluso hasta el cambio de las últimas existencias por la renovación bien organizada del universo». Pero las palabras adicionales parecen haber sido sugeridas por la palabra «gobernante» tomada literalmente, mientras que parece haber sido aplicada figurativamente a la religión que ha de gobernar a los justos hasta la existencia futura.
 
 [^7]: (21:4) En el Cap. II, 9-13.

@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^1]: (43:1) Littéralement « comme la raison en est déclarée ». Il s'agit d'une autre allusion au chapitre manquant mentionné au chap. XVII, 20.
 
-[^2]: (43:2) Lecture âhûn khadûînŏ, mais il s'agit très probablement d'une corruption de khadûînŏ khadûînŏ, '_de_ diverses manières'.
+[^2]: (43:2) Lecture âhûn khadûînŏ, mais il s'agit très probablement d'une corruption de khadûînŏ khadûînŏ, « _de_ diverses manières ».
 
 [^3]: (43:3) Les MSS. ont mûnam, 'qui est par moi.'
 

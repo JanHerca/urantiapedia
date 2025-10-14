@@ -34,9 +34,9 @@ dateCreated: 2025-10-5T10:16:32Z
 
 ## BUNDAHI<i>S</i>. CHAPTER IX.
 
-1\. The conflict waged with plants was that when [^1] they became quite dry. 2. Amerôda<i>d</i> the arch-angel, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> as the vegetation was his own, pounded the plants small, _and_ mixed _them_ up with the water _which_ Tî<i>s</i>tar seized, and Tî<i>s</i>tar made that water rain down upon the whole earth. 3. On the whole earth plants grew up like hair upon the heads of men. 4. Ten thousand [^2] of them grew forth of one special description, for keeping away the ten thousand species of disease _which_ the evil spirit produced for the creatures; _and_ from those ten thousand, the 100,000 species [^3] of plants have grown forth.
+1\. The conflict waged with plants was that when [^1] they became quite dry. 2. Amerôda<i>d</i> the arch-angel, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> as the vegetation was his own, pounded the plants small, _and_ mixed _them_ up with the water _which_ Tî<i>s</i>tar seized, and Tî<i>s</i>tar made that water rain down upon the whole earth. 3. On the whole earth plants grew up like hair upon the heads of men. 4. Ten thousand [^2] of them grew forth of one special description, for keeping away the ten thousand species of disease _which_ the evil spirit produced for the creatures; _and_ from those ten thousand, the 100,000 species [^3] of plants have grown forth.
 
-5\. From that same germ of plants the tree of all germs [^4] was given forth, _and_ grew up in the wide-formed ocean, from which the germs of all species of plants ever increased. 6. And near to that tree of all germs the Gôkar<i>d</i> tree [^5] was produced, for keeping away deformed (dûspa<i>d</i>) decrepitude; _and_ the full perfection of the world arose therefrom.
+5\. From that same germ of plants the tree of all germs [^4] was given forth, _and_ grew up in the wide-formed ocean, from which the germs of all species of plants ever increased. 6. And near to that tree of all germs the Gôkar<i>d</i> tree [^5] was produced, for keeping away deformed (dûspa<i>d</i>) decrepitude; _and_ the full perfection of the world arose therefrom.
 
 <figure class="table chapter-navigator">
   <table>

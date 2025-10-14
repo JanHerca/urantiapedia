@@ -66,8 +66,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## Notes de bas de page
 
-[^1]: (22:1) Lecture pâ<i>d</i>a<i>s</i>ân, mais par une légère modification M14 et J ont pâ<i>d</i>akhshahân, 'monarques', ce qui est également approprié.
+[^1]: (22:1) Lecture pâ<i>d</i>a<i>s</i>ân, mais par une légère modification M14 et J ont pâ<i>d</i>akhshahân, « monarques », ce qui est également approprié.
 
 [^2]: (22:2) Par révélation.
 
-[^3]: (22:3) M14 et J ont 'et il reste ainsi certain que ses bonnes œuvres sont dans la déclaration (mâ<i>d</i>îgânŏ) de bonnes œuvres, _et_ en ce qui concerne toute cette terreur, cette anxiété (vayâdŏ) et cet inconfort,' etc.
+[^3]: (22:3) M14 et J ont « et il reste ainsi certain que ses bonnes œuvres sont dans la déclaration (mâ<i>d</i>îgânŏ) de bonnes œuvres, _et_ en ce qui concerne toute cette terreur, cette anxiété (vayâdŏ) et cet inconfort, » etc.

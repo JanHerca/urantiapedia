@@ -14,7 +14,7 @@ dateCreated: 2025-10-10T14:41:30Z
       <tr>
         <td>
         <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Introduction_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">4. El Apéndice</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">4. Apéndice</span>
         </a>
         </td>
         <td>
@@ -44,7 +44,7 @@ Acc. para caso acusativo; Af. Zarat. para Âfringân-i Zaratû<i>s</i>t; anc. Pe
       <tr>
         <td>
         <a href="/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Introduction_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">4. El Apéndice</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">4. Apéndice</span>
         </a>
         </td>
         <td>

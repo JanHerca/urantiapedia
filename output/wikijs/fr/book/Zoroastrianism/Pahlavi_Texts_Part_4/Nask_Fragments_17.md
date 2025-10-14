@@ -48,7 +48,7 @@ Dk. VIII, Chap. XXXV, 2, se réfère probablement au passage qui contenait la d�
 
 Dk. VIII, chap. XXXVI, 7 ou 13, se réfère probablement au passage ainsi mentionné dans Dd. LXI, 3 : « Des détails plus précis sur la tutelle familiale qui convient et qui ne convient pas au devoir d'un fils adoptif, sur l'enfant de bonne religion à l'affaire duquel elle est liée, et sur les pères pour lesquels un tuteur familial doit être désigné, se trouvent dans le récit de cinq fargard[^4] du Hûspâram. »
 
-Français Dk. VIII, Chap. XXXVI, 8-12, fait probablement référence au passage qui contenait la déclaration ainsi citée dans Sls. X, 21, XII, 14 : — « Dans le quatorzième [^5] <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> du Hûspâram Nask, les grands prêtres ont enseigné ainsi : « Mon fils est digne d’être aussi bien que ton fils, mais ma fille ne l’est pas non plus que ta fille. » »
+Dk. VIII, Chap. XXXVI, 8-12, fait probablement référence au passage qui contenait la déclaration ainsi citée dans Sls. X, 21, XII, 14 : — « Dans le quatorzième [^5] <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> du Hûspâram Nask, les grands prêtres ont enseigné ainsi : « Mon fils est digne d’être aussi bien que ton fils, mais ma fille ne l’est pas non plus que ta fille. » »
 
 Aucune allusion n'a été relevée dans Dk. VIII, chap. XXVIII-XXXVII, aux deux passages de Pahl. Vend. IV, 35, V, 73, se référant à ce Nask, qui ont déjà été cités comme se référant également à Nask XV.
 

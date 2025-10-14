@@ -70,6 +70,6 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (191:1) Es decir, adoptado durante la vida del hombre.
 
-[^2]: (191:2) Lectura ayûf nîyâ<i>z</i>ŏ, pero puede ser ayûfŏ êyâ<i>v</i>ŏ, 'o _del_ descubrimiento'.
+[^2]: (191:2) Lectura ayûf nîyâ<i>z</i>ŏ, pero puede ser ayûfŏ êyâ<i>v</i>ŏ, «o _del_ descubrimiento».
 
-[^3]: (192:1) M14 tiene 'una tutela familiar existente es _en_ ​​el hijo de él designado, y una _tutela_ provista es aquella cuando él mismo realiza el deber en la tutela'; pero la frase interpolada es difícilmente gramatical.
+[^3]: (192:1) M14 tiene «una tutela familiar existente es _en_ ​​el hijo de él designado, y una _tutela_ provista es aquella cuando él mismo realiza el deber en la tutela»; pero la frase interpolada es difícilmente gramatical.

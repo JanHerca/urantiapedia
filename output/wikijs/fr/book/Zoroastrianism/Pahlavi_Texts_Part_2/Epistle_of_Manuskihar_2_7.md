@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Vous _êtes_ déjà devenu un réserviste (khamo-<i>s</i>î<i>d</i>âr) et un préparateur rapide de l'adaptation des mots dans lesquels il _existe_ de la force, et vous avez_ clairement expliqué <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> tout ce qui est en vue sur la raison de la modification de ce décret, au sujet duquel votre opinion est écrite avec une grande judicieuse. 5. Mais _quant à_ la compréhension qui vous a poussé à écrire correctement, et à ne pas modifier les rites _et_ les purifications de l'Avesta, et au sujet du devoir de purifier les purificateurs [^9], tels qu'ils _ont_ entrés dans la pratique du bien, la convenance est déclarée dans l'enseignement des grands prêtres ; _et_ le faire mieux, autant que possible, c'est s'efforcer d'avancer dans la bonté.
 
-6\. De même, pour ce qui est de changer la loi des quinze lavages [^10], de même qu'il en est pour l'Iran où se trouvent des purificateurs, il est ordonné qu'il y ait des lieux sans purificateurs ; et c'est dans les pays d'Iran que l'ordre est donné concernant les purificateurs qui ne sont pas ainsi désignés pour l'œuvre.
+6\. De même, pour ce qui est de changer la loi des quinze lavages [^10], de même qu'il en est pour l'Iran où se trouvent des purificateurs, il est ordonné qu'il y ait des lieux sans purificateurs ; _et c'est_ dans les pays d'Iran que l'ordre est donné concernant les purificateurs qui ne sont pas ainsi désignés pour l'œuvre.
 
 <figure class="table chapter-navigator">
   <table>

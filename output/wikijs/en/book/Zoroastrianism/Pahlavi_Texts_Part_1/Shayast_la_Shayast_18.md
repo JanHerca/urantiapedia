@@ -32,17 +32,17 @@ dateCreated: 2025-10-5T10:16:32Z
   </table>
 </figure>
 
-## SHAYÂST LA-SHAYÂST. CHAPTER XVIII [^1].
+## SHAYÂST LA-SHAYÂST. CHAPTER XVIII [^1].
 
-1\. It is said in revelation that Aêshm [^2] rushed into the presence of Aharman [^3], and exclaimed thus: ‘I _will_ not go into the world, because Aûharmazd, the lord, has produced three things in the world, _to_ which it is not possible _for_ me to do anything whatever.’
+1\. It is said in revelation that Aêshm [^2] rushed into the presence of Aharman [^3], and exclaimed thus: ‘I _will_ not go into the world, because Aûharmazd, the lord, has produced three things in the world, _to_ which it is not possible _for_ me to do anything whatever.’
 
 2\. Aharman exclaimed thus: ‘Say which are those three things.’
 
-3\. Aêshm exclaimed thus: ‘The season-festival <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> (gâsânbâr) [^4], the _sacred_ feast (myazd), and next-of-kin marriage (khvêtûk-das).’
+3\. Aêshm exclaimed thus: ‘The season-festival <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> (gâsânbâr) [^4], the _sacred_ feast (myazd), and next-of-kin marriage (khvêtûk-das).’
 
 <span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
-4\. Aharman exclaimed thus: ‘Enter into the season-festival! if one of those _present_ shall steal a single thing the season-festival is violated, and the affair is _in accordance_ with [^5] thy wish; enter into the _sacred_ feast [^6]! if only one of those _present_ shall chatter the _sacred_ feast is violated, and the affair is _in accordance_ with thy wish; _but_ avoid next-of-kin marriage [^7]! because I do not know a remedy for it; for whoever _has_ gone four times near to _it will_ not become parted from the possession of Aûharmazd and the archangels [^8].’
+4\. Aharman exclaimed thus: ‘Enter into the season-festival! if one of those _present_ shall steal a single thing the season-festival is violated, and the affair is _in accordance_ with [^5] thy wish; enter into the _sacred_ feast [^6]! if only one of those _present_ shall chatter the _sacred_ feast is violated, and the affair is _in accordance_ with thy wish; _but_ avoid next-of-kin marriage [^7]! because I do not know a remedy for it; for whoever _has_ gone four times near to _it will_ not become parted from the possession of Aûharmazd and the archangels [^8].’
 
 <figure class="table chapter-navigator">
   <table>

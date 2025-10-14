@@ -44,7 +44,7 @@ Aucune allusion aux six passages suivants, cités de ce Nask, n'a été remarqu�
 
 Dans les Sls. X, 22, XII, 15, il est dit comme dans le dernier fragment du Spend N ask, déjà cité.
 
-Français Dans Sls. X, 23, XII, 16, il est dit que « dans le Nihâ<i>d</i>ûm, les grands prêtres ont enseigné ainsi : « Un homme donne du pain à un affamé, et c'est trop, pourtant (ou lorsqu'un homme donne du pain à un homme, même si cet homme a trop de pain) toutes les bonnes œuvres qu'il accomplira grâce à cette surabondance, <span id="p474"><sup><small>[ p. 474 ]</small></sup></span> deviennent autant celles de celui qui les a données que si elles avaient été faites de sa propre main. »
+Dans Sls. X, 23, XII, 16, il est dit que « dans le Nihâ<i>d</i>ûm, les grands prêtres ont enseigné ainsi : « Un homme donne du pain à un affamé, et c'est trop, pourtant (ou lorsqu'un homme donne du pain à un homme, même si cet homme a trop de pain) toutes les bonnes œuvres qu'il accomplira grâce à cette surabondance, <span id="p474"><sup><small>[ p. 474 ]</small></sup></span> deviennent autant celles de celui qui les a données que si elles avaient été faites de sa propre main. »
 
 Dans Pahl. Vend. V, 73, il est dit : « semblable à cette terre et à ce (ciel) qui la recouvrirait également (toujours en tous lieux ; il y a quelqu'un qui dit que cela concerne la matière morte, que dans le Nihâ<i>d</i>ûm il dit que cela concerne la décision et le jugement, et que dans le Hûspârûm il dit que cela concerne le rituel du cérémonial). »
 

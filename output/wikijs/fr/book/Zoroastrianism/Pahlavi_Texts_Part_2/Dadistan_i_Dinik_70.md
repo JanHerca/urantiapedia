@@ -65,7 +65,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## Notes de bas de page
 
-[^1]: (213:3) Il y a un doute quant à savoir si le mot doit être lu zôgakŏ (comp. Pers. zô_gh_, 'une rivière'), ou zandakŏ (comp. Pers. <i>z</i>andah, 'fissuré'), mais le sens est assez certain d'après le contexte.
+[^1]: (213:3) Il y a un doute quant à savoir si le mot doit être lu zôgakŏ (comp. Pers. zô_gh_, « une rivière »), ou zandakŏ (comp. Pers. <i>z</i>andah, « fissuré »), mais le sens est assez certain d'après le contexte.
 
 [^2]: (213:4) Quand l'esprit mauvais s'est précipité sur la terre, on dit qu'elle a tremblé et que les montagnes ont commencé à grandir (voir Bd. VIII, 1-5) ; et à la résurrection, on s'attend à ce que la terre retrouve son état parfait originel d'une plaine plate (voir Bd. XXX, 33).
 

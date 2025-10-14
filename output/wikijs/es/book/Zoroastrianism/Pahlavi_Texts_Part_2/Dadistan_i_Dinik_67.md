@@ -68,8 +68,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (210:1) Se lee dî<i>d</i>anŏîh; pero la palabra también puede leerse sa<i>d</i>\-vanîh, que podría significar sa<i>d</i>\-gûnîh, 'una existencia de cien colores', un posible término para el arco iris, pero los diccionarios persas no dan un término más cercano que sadkas o sadkês.
+[^1]: (210:1) Se lee dî<i>d</i>anŏîh; pero la palabra también puede leerse sa<i>d</i>\-vanîh, que podría significar sa<i>d</i>\-gûnîh, «una existencia de cien colores», un posible término para el arco iris, pero los diccionarios persas no dan un término más cercano que sadkas o sadkês.
 
-[^2]: (210:2) M14 tiene 'esa mezcla de muchas porciones y pocas porciones'.
+[^2]: (210:2) M14 tiene «esa mezcla de muchas porciones y pocas porciones».
 
 [^3]: (210:3) Lectura dî<i>d</i>anŏkŏ; pero también puede leerse sa<i>d</i>\-vanakŏ, una alternativa similar a la del § 1.

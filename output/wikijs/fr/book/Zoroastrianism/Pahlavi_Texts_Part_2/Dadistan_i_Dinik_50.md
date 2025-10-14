@@ -66,4 +66,4 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^2]: (177:2) La richesse qu'ils acquièrent en la vendant au loin, ce qui aurait produit du mal dans les mains des acheteurs, et devrait produire du bien dans les leurs.
 
-[^3]: (177:3) K35 a vinâs, 'péché', au lieu de âs, 'vin', ce qui est clairement faux.
+[^3]: (177:3) K35 a vinâs, « péché », au lieu de âs, « vin », ce qui est clairement faux.

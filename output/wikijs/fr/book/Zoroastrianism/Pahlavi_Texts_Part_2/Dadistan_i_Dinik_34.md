@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 1\. _Quant à_ la trente-troisième question et réponse, ce que vous demandez est ainsi : De quelle manière y a-t-il un chemin des justes du sommet du Dâîtih [^1] au ciel, et un chemin des méchants vers l'enfer ; et _quelle est_ leur nature ?
 
-2\. La réponse est la suivante : l’un est pour l’ascension, l’autre pour la descente ; et comme les deux ont une même apparence, j’écris ceci pour la compréhension et une explication complète, c’est-à-dire : 3. Les âmes justes traversent le pont envahi par le Roi [^2] par le vol spirituel et la puissance des bonnes œuvres ; et elles s’élèvent vers l’étoile, ou vers la lune, ou vers la station solaire, ou vers la lumière infinie [^3]. 4. L’âme du méchant, en raison de sa chute du pont, de son démon menteur et de la souillure accumulée par son péché, ils la conduiront de là vers la descente dans la terre, comme les deux chemins mènent de ce pont sur le pic Dâîtih.
+2\. La réponse est la suivante : l’un est pour l’ascension, l’autre pour la descente ; et comme les deux ont une même apparence, j’écris ceci pour la compréhension et une explication complète, c’est-à-dire : 3. Les âmes justes traversent le pont envahi par le Roi [^2] par le vol spirituel et la puissance des bonnes œuvres ; et elles s’élèvent vers l’étoile, ou vers la lune, ou vers la station solaire, ou vers la lumière infinie [^3]. 4. L’âme du méchant, en raison de _sa_ chute _du_ pont, de son démon menteur et de la souillure accumulée par son péché, ils la conduiront de là vers la descente dans la terre, comme les deux chemins mènent de ce pont sur le pic Dâîtih.
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,9 +34,9 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER XXIX.
 
-1\. The twenty-eighth question is that you ask thus: For what reason is it not allowable to perform <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> the ceremony of Srôsh, the living spirit (ahvô) [^1], _along_ with other propitiations (shnûmanŏ) [^2], when they reverence him separately?
+1\. The twenty-eighth question is that you ask thus: For what reason is it not allowable to perform <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> the ceremony of Srôsh, the living spirit (ahvô) [^1], _along_ with other propitiations (shnûmanŏ) [^2], when they reverence him separately?
 
-2\. The reply is this, that the lord of all _things_ is the creator who is persistent over his own creatures, and a precious work is his own true service [^3] which is given by him to Srôsh the righteous whom, for this reason, _one_ is to reverence separately when even his name is not frequently mentioned, and _one_ is not even to reverence the names of the archangels with him.
+2\. The reply is this, that the lord of all _things_ is the creator who is persistent over his own creatures, and a precious work is his own true service [^3] which is given by him to Srôsh the righteous whom, for this reason, _one_ is to reverence separately when even his name is not frequently mentioned, and _one_ is not even to reverence the names of the archangels with him.
 
 <figure class="table chapter-navigator">
   <table>

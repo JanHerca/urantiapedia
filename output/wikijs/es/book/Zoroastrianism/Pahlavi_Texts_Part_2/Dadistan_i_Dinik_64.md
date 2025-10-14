@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 1\. En cuanto a la sexagésima tercera pregunta y respuesta, lo que preguntas es: ¿De dónde surgió la primera creación de la humanidad y cómo se formó la raza humana original? 2. ¿Qué surgió de Gâyômar<i>d</i> [^1] y en qué se convirtió realmente? ¿Y de qué surgieron Mashyâîh y Mashyâyôîh [^2]?
 
-3\. La respuesta es esta: Aûha<i>r</i>ma<i>z</i><i>d</i>, el gobernante absoluto, produjo de la luz infinita la forma de un sacerdote del fuego (âsrûkŏ) cuyo nombre era Aûha<i>r</i>ma<i>z</i><i>d</i>, y su brillo, el del fuego; su incombustibilidad era como la del interior de la luz, y su expansión como la tierra occidental (khûrbarag). 4. Y en la forma del sacerdote del fuego fue creado por él la existencia material (stih) que se llama hombre, y durante tres mil años [^3], cuando no progresó, no comió y no habló; De igual manera, no pronunció, sino que pensó en la justicia de la religión perfecta _y_ verdadera, el deseo de la pura glorificación del creador.
+3\. La respuesta es esta: Aûha<i>r</i>ma<i>z</i><i>d</i>, el gobernante <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> absoluto, produjo de la luz infinita la forma de un sacerdote del fuego (âsrûkŏ) cuyo nombre era Aûha<i>r</i>ma<i>z</i><i>d</i>, y su brillo, el del fuego; su incombustibilidad era como la del interior de la luz, y su expansión como la tierra occidental (khûrbarag). 4. Y en la forma del sacerdote del fuego fue creado por él la existencia material (stih) que se llama hombre, y durante tres mil años [^3], cuando no progresó, no comió y no habló; De igual manera, no pronunció, sino que pensó en la justicia de la religión perfecta _y_ verdadera, el deseo de la pura glorificación del creador.
 
 5\. Después, el contencioso infractor de promesas [^4] dañó su vida y produjo una onerosa mortalidad; y la mortalidad es _clara_ por el nombre, Gâyômar<i>d</i> [^5], de la naturaleza producida. 6. La semilla que _era_ la esencia de la vida del líder (mîrakŏ) de la vida, quien _era_ Gâyômar<i>d</i>, fluyó al fallecer, llegó a la tierra del ángel benéfico [^6], _y_ se preserva en la tierra hasta que, mediante la protección de los ángeles, un hermano y <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> hermana de la humanidad [^7], conectadas entre sí, han crecido a partir de ella, _han_ alcanzado el movimiento _y_ caminar sobre la tierra, _y_ han avanzado incluso hasta la relación sexual y también a la procreación.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^4]: (198:2) El espíritu maligno, que se dice que es el origen de la falsedad (véase Cap. XXXVII, 17).
 
-[^5]: (198:3) Que significa 'el mortal viviente', o 'el mortal viviente'.
+[^5]: (198:3) Que significa «el mortal viviente», o «el mortal viviente».
 
 [^6]: (198:4) El arcángel femenino Spenda<i>r</i>ma<i>d</i>, encargado especial de la tierra. O la frase podría ser «vino a la tierra que el espíritu benéfico produjo».
 

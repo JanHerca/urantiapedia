@@ -68,9 +68,9 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (247:1) El lugar de la cuenta (véase Cap. XX, 3). O, podría ser, 'dar certeza, con el paso del tiempo, respecto al terrible lugar (el infierno)'.
+[^1]: (247:1) El lugar de la cuenta (véase Cap. XX, 3). O, podría ser, «dar certeza, con el paso del tiempo, respecto al terrible lugar (el infierno)».
 
-[^2]: (247:2) M14 añade 'y adquirir buenas obras'.
+[^2]: (247:2) M14 añade «y adquirir buenas obras».
 
 [^3]: (247:3) Es decir, son más diligentes en aprender las oraciones de memoria.
 

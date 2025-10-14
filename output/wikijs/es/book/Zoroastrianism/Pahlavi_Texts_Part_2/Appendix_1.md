@@ -58,7 +58,7 @@ V. ENCONTRANDO UN CADÁVER EN EL DESIERTO.
 
 B29 (escrito en 1679 d. C.), un Rivâyat persa, n.º 29 en la Biblioteca de la Universidad de Bombay.
 
-BK, J, K35, M10 (como se describe en la página [278](/es/book/Zoroastrismo/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_1#p278)).
+BK, J, K35, M10 (como se describe en la página [278](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_1#p278)).
 
 L4 (escrito alrededor del año 1324 d. C.), un Vendidâ<i>d</i> con Pahlavi, en la Biblioteca de la Oficina de la India en Londres.
 
@@ -72,11 +72,11 @@ El Avesta nos informa que Keresâspa era hijo de Thrita, el Sâman, y hermano de
 
 <span id="p370"><sup><small>[ pág. 370 ]</small></sup></span>
 
-De sus hazañas se nos dice que 'mató a la serpiente Srvara, que devoraba caballos y hombres, que era venenosa y amarilla, sobre la cual fluyó un veneno amarillo de un palmo de altura. Sobre la cual Keresâspa cocinó una bebida en un caldero al mediodía, y la serpiente, quemada, silbó, saltó del caldero y volcó el agua hirviendo; Keresâsp, el de mente varonil, huyó asustado [^8]'. Se nos dice además que mató a Ga<i>n</i>darewa [^9], de tacones dorados; que golpeó a Hitâspa en venganza por el asesinato de su hermano, Urvâkhshaya [^10]; que golpeó a los Hunus que son los nueve salteadores de caminos, y a los descendientes de Nivika y Dâ<i>s</i>tayâni [^11]; También Vareshava el Dânayan, Pitaona con las muchas brujas, Arezô-shamana y Snâvidhaka [^12]; y que resistió a muchos golpeadores o asesinos [^13].
+De sus hazañas se nos dice que «mató a la serpiente Srvara, que devoraba caballos y hombres, que era venenosa y amarilla, sobre la cual fluyó un veneno amarillo de un palmo de altura. Sobre la cual Keresâspa cocinó una bebida en un caldero al mediodía, y la serpiente, quemada, silbó, saltó del caldero y volcó el agua hirviendo; Keresâsp, el de mente varonil, huyó asustado [^8]». Se nos dice además que mató a Ga<i>n</i>darewa [^9], de tacones dorados; que golpeó a Hitâspa en venganza por el asesinato de su hermano, Urvâkhshaya [^10]; que golpeó a los Hunus que son los nueve salteadores de caminos, y a los descendientes de Nivika y Dâ<i>s</i>tayâni [^11]; También Vareshava el Dânayan, Pitaona con las muchas brujas, Arezô-shamana y Snâvidhaka [^12]; y que resistió a muchos golpeadores o asesinos [^13].
 
 Los detalles de estas hazañas, aún existentes en el Avesta, son muy escasos; pero algunos de ellos parecen haber sido descritos con más detalle en una leyenda sobre el alma de Keresâspa que antiguamente constituía el decimocuarto fargar<i>d</i> del Sû<i>d</i>kar Nask, cuyo contenido se resume así en el noveno libro del Dînka<i>r</i><i>d</i>:
 
-'El decimocuarto fargar<i>d</i>, A<i>d</i>\-fravakhshî [^14], trata sobre <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Aûha<i>r</i>ma<i>z</i><i>d</i> mostrando el terrible estado del alma de Keresâsp [^15] a Zaratû<i>s</i>t; la consternación de Zaratû<i>s</i>t debido a ese terrible estado; el triste discurso de Keresâsp en relación con la matanza de multitudes, por la cual la humanidad lo ensalzó, por lo cual se produjo la abstención del pecado; y el reconocimiento de él por el creador, Aûha<i>r</i>ma<i>z</i><i>d</i>, como extinguiendo su fuego. La súplica de Keresâsp _por_ la mejor existencia de Aûha<i>r</i>ma<i>z</i><i>d</i> por aquellas hazañas cuando la serpiente (gaz) Srôbar [^16] _fue_ asesinada por él, y la violencia de ese adversario; cuando Gandarep [^17] con los talones dorados _fue_ herido por él, _y_ la maravilla de ese demonio; cuando los Hunus _de_ Ve<i>s</i>kŏ [^18], que son <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> _descendientes_ de Nîvîk _y_ Dâstânîk [^19], _fueron asesinados_ por él, _y_ el grave daño y desastre que se les debió; _y_ cuando el poderoso viento [^20] _fue_ apaciguado por él, y traído de vuelta de dañar al mundo a beneficiar a las criaturas; _y_ por lo que _sucede_ cuando, debido al confinamiento [^21], Dahâk se ansía, se apresura a la destrucción del mundo, _e_ intenta la aniquilación de las criaturas; _y_ su ser incitado a herirlo y a domar a ese poderoso demonio para las criaturas del mundo. La oposición del fuego a Keresâsp, al causarle angustia _y_ mantenerse alejado _de él_, que _se debían_ a su búsqueda del infierno; _la súplica de_ Zaratû<i>s</i>t al fuego para que tuviera compasión de _él_, que se debía a su pecado; la obediencia del fuego _a_ esa petición; y la partida del alma de Keresâsp a la existencia eternamente estacionaria [^22]. Perfecta es la excelencia de la justicia [^23].'
+«El decimocuarto fargar<i>d</i>, A<i>d</i>\-fravakhshî [^14], trata sobre <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Aûha<i>r</i>ma<i>z</i><i>d</i> mostrando el terrible estado del alma de Keresâsp [^15] a Zaratû<i>s</i>t; la consternación de Zaratû<i>s</i>t debido a ese terrible estado; el triste discurso de Keresâsp en relación con la matanza de multitudes, por la cual la humanidad lo ensalzó, por lo cual se produjo la abstención del pecado; y el reconocimiento de él por el creador, Aûha<i>r</i>ma<i>z</i><i>d</i>, como extinguiendo su fuego. La súplica de Keresâsp _por_ la mejor existencia de Aûha<i>r</i>ma<i>z</i><i>d</i> por aquellas hazañas cuando la serpiente (gaz) Srôbar [^16] _fue_ asesinada por él, y la violencia de ese adversario; cuando Gandarep [^17] con los talones dorados _fue_ herido por él, _y_ la maravilla de ese demonio; cuando los Hunus _de_ Ve<i>s</i>kŏ [^18], que son <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> _descendientes_ de Nîvîk _y_ Dâstânîk [^19], _fueron asesinados_ por él, _y_ el grave daño y desastre que se les debió; _y_ cuando el poderoso viento [^20] _fue_ apaciguado por él, y traído de vuelta de dañar al mundo a beneficiar a las criaturas; _y_ por lo que _sucede_ cuando, debido al confinamiento [^21], Dahâk se ansía, se apresura a la destrucción del mundo, _e_ intenta la aniquilación de las criaturas; _y_ su ser incitado a herirlo y a domar a ese poderoso demonio para las criaturas del mundo. La oposición del fuego a Keresâsp, al causarle angustia _y_ mantenerse alejado _de él_, que _se debían_ a su búsqueda del infierno; _la súplica de_ Zaratû<i>s</i>t al fuego para que tuviera compasión de _él_, que se debía a su pecado; la obediencia del fuego _a_ esa petición; y la partida del alma de Keresâsp a la existencia eternamente estacionaria [^22]. Perfecta es la excelencia de la justicia [^23].»
 
 Aunque el Sû<i>d</i>kar Nask se perdió hace mucho tiempo, la leyenda contenida en este decimocuarto fargar<i>d</i> aún sobrevive en su forma pahlavi, aunque probablemente algo abreviada, y también se encuentra una paráfrasis persa de esta versión pahlavi en los Rivâyats persas [^24]. La leyenda pahlavi se incluye entre una serie de citas sobre la importancia del fuego, contenidas en un Rivâyat pahlavi que precede al Dâ<i>d</i>istân-î Dînîk en algunos manuscritos [^25]; y su estrecha correspondencia con el resumen anterior del decimocuarto fargar<i>d</i> del Sû<i>d</i>kar Nask se puede apreciar en la siguiente traducción:
 
@@ -98,15 +98,15 @@ Y el alma de Keresâsp habló así: "¡Perdóname, oh Aûha<i>r</i>ma<i>z</i><i>
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: "¡Apártate! Porque _eres_ horrible a mis ojos, porque el fuego, que es mi hijo, _fue_ extinguido por ti."
 
-'Keresâsp habló así: "¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! ¡El cielo o el cielo supremo! Pues he matado a los salteadores de caminos [^41] que eran tan corpulentos que, al caminar, la gente pensaba de esta manera: 'debajo de ellos están las estrellas y la luna, y debajo de ellos se mueve el sol al amanecer, y el agua del mar les llega hasta las rodillas'. Y yo les alcancé las piernas, y fueron golpeados por mí; cayeron, y las colinas de la tierra fueron destrozadas por ellos [^42]. Y si esos salteadores caídos [^43] no hubieran sido asesinados por mí, Aharman se habría vuelto predominante sobre tus criaturas."
+«Keresâsp habló así: "¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! ¡El cielo o el cielo supremo! Pues he matado a los salteadores de caminos [^41] que eran tan corpulentos que, al caminar, la gente pensaba de esta manera: »debajo de ellos están las estrellas y la luna, y debajo de ellos se mueve el sol al amanecer, y el agua del mar les llega hasta las rodillas'. Y yo les alcancé las piernas, y fueron golpeados por mí; cayeron, y las colinas de la tierra fueron destrozadas por ellos [^42]. Y si esos salteadores caídos [^43] no hubieran sido asesinados por mí, Aharman se habría vuelto predominante sobre tus criaturas."
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i>. habló así: "¡Apártate! Porque serías horrible a mis ojos, porque el fuego, que es mi hijo, fue extinguido por ti."
 
-'Keresâsp habló así: «¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! el cielo _o_ el cielo supremo! Cuando el viento _fue_ debilitado (rakhtŏ) y paralizado por mí, los <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> demonios engañaron al viento, y le dijeron así: '_Él_ te resiste más que todas las criaturas y la creación, y deberías pensar en él así, que «no hay nadie en esta tierra que me resista más que_ Keresâsp»; él desprecia a los demonios _y_ a los hombres, y a ti también, que deberías ser el viento, _incluso_ a ti te desprecia.' Y el viento, al oír esas palabras, arreció con tanta fuerza que arrancó de raíz todo árbol y arbusto que se encontraba a su paso, y toda la tierra que se encontraba a su paso quedó reducida a polvo (payan<i>g</i>ânŏîaîtŏ ka<i>r</i><i>d</i>ŏ), y se alzó la oscuridad. Y cuando llegó a mí, que soy Keresâsp, no le fue posible levantar mi pie del suelo; así que me levanté y salí (ba<i>r</i>â yehabûn<i>d</i>) sobre la tierra, y me mantuve de pie sobre ella, con ambos pies en una igualdad (mirîh), hasta que se completó una muralla (pû<i>s</i>tŏ), para poder volver a bajar bajo tierra; aquello que Aûha<i>r</i>ma<i>z</i><i>d</i> ordenó así: «Si yo nombrara un guardián de la tierra y el cielo, no me abandonarían [^44]». Y si yo no hubiera hecho eso, Aharman se habría vuelto predominante sobre tus criaturas.
+«Keresâsp habló así: «¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! el cielo _o_ el cielo supremo! Cuando el viento _fue_ debilitado (rakhtŏ) y paralizado por mí, los <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> demonios engañaron al viento, y le dijeron así: »_Él_ te resiste más que todas las criaturas y la creación, y deberías pensar en él así, que «no hay nadie en esta tierra que me resista más que_ Keresâsp»; él desprecia a los demonios _y_ a los hombres, y a ti también, que deberías ser el viento, _incluso_ a ti te desprecia.' Y el viento, al oír esas palabras, arreció con tanta fuerza que arrancó de raíz todo árbol y arbusto que se encontraba a su paso, y toda la tierra que se encontraba a su paso quedó reducida a polvo (payan<i>g</i>ânŏîaîtŏ ka<i>r</i><i>d</i>ŏ), y se alzó la oscuridad. Y cuando llegó a mí, que soy Keresâsp, no le fue posible levantar mi pie del suelo; así que me levanté y salí (ba<i>r</i>â yehabûn<i>d</i>) sobre la tierra, y me mantuve de pie sobre ella, con ambos pies en una igualdad (mirîh), hasta que se completó una muralla (pû<i>s</i>tŏ), para poder volver a bajar bajo tierra; aquello que Aûha<i>r</i>ma<i>z</i><i>d</i> ordenó así: «Si yo nombrara un guardián de la tierra y el cielo, no me abandonarían [^44]». Y si yo no hubiera hecho eso, Aharman se habría vuelto predominante sobre tus criaturas.
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: "¡Apártate! Porque serías horrible a mis ojos, porque el fuego, que es mi hijo, fue herido por ti."
 
-Keresâsp habló así: "¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! ¡el cielo o el cielo supremo! Pues así se declara por revelación que, cuando Dahâk haya escapado del confinamiento [^45], nadie podrá buscar otro remedio contra él excepto yo; por eso, concédeme el cielo o el cielo supremo. Y si no es posible concederme el cielo o el cielo supremo, ¡devuélveme la fuerza y ​​el éxito que tuve durante la vida! Pues cuando me devuelvas la fuerza y ​​el éxito que tuve cuando nací vivo, mataré a Aharman con los demonios, erradicaré la oscuridad del infierno, completaré la hermosa luz, y con su sola existencia (tang-aê) [^46] te sentarás y te moverás [^47]."
+Keresâsp habló así: "¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! ¡el cielo o el cielo supremo! Pues así se declara <span id="p378"><sup><small>[ p. 378 ]</small></sup></span> por revelación que, cuando Dahâk haya escapado del confinamiento [^45], nadie podrá buscar otro remedio contra él excepto yo; por eso, concédeme el cielo o el cielo supremo. Y si no es posible concederme el cielo o el cielo supremo, ¡devuélveme la fuerza y ​​el éxito que tuve durante la vida! Pues cuando me devuelvas la fuerza y ​​el éxito que tuve cuando nací vivo, mataré a Aharman con los demonios, erradicaré la oscuridad del infierno, completaré la hermosa luz, y con su sola existencia (tang-aê) [^46] te sentarás y te moverás [^47]."
 
 'Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: "¡Esto no te lo daré, alma de Keresâsp! Porque los hombres pecarán; y hasta que no lo hagan, no será posible devolverte la vida, ni podrás devolver la vida a otros hombres, pues así se produce la resurrección, cuando todos los hombres se vuelven completamente inocentes. Cuando los hombres mueran y sus almas sean malvadas, todo consuelo los abandonará, y toda la miseria y el malestar que ocasionaron permanecerán."
 
@@ -116,17 +116,17 @@ Keresâsp habló así: "¡Concédeme, oh Aûha<i>r</i>ma<i>z</i><i>d</i>! ¡el c
 
 'Y el ángel de fuego, habiendo dicho tantas <span id="p380"><sup><small>[ p. 380 ]</small></sup></span> palabras, desistió; y el ángel Gô<i>s</i>\-aûrvan [^53] se puso de pie y le dijo así: "No lo dejaré entrar al infierno, pues el beneficio que me produjo fue múltiple".
 
-'Gô<i>s</i>\-aûrvan, _habiendo_ dicho tantas palabras, desistió [^54]; _y_ Zaratû<i>s</i>t se puso de pie, y ofreció homenaje al fuego, y dijo así: "Yo te cuidaré, y hablaré de tus hazañas en el mundo, y hablaré a Vi<i>s</i>tâsp [^55] y a <i>G</i>âmâsp [^56] así: '¡Observa plenamente que se hace un lugar _para_ el fuego, por así decirlo_ de inmediato!' cuando Keresâsp _haya renunciado al pecado_, y lo perdonarás [^57]."'
+«Gô<i>s</i>\-aûrvan, _habiendo_ dicho tantas palabras, desistió [^54]; _y_ Zaratû<i>s</i>t se puso de pie, y ofreció homenaje al fuego, y dijo así: «Yo te cuidaré, y hablaré de tus hazañas en el mundo, y hablaré a Vi<i>s</i>tâsp [^55] y a <i>G</i>âmâsp [^56] así: «¡Observa plenamente que se hace un lugar _para_ el fuego, por así decirlo_ de inmediato!» cuando Keresâsp _haya renunciado al pecado_, y lo perdonarás [^57].»»
 
 La leyenda Pahlavi se interrumpe en este punto, dejando al lector la posibilidad de inferir que la petición de Zaratûst fue concedida. Sin embargo, le siguen las siguientes observaciones adicionales sobre Keresâsp, evidentemente relacionadas con la misma leyenda:
 
-'Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</i> así [^58]: "¿De quién es el primer cadáver que unirás (varâ<i>z</i>ês)?"
+«Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</i> así [^58]: «¿De quién es el primer cadáver que unirás (varâ<i>z</i>ês)?»
 
-'Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así [^58]: "_Su_ que es Keresâsp [^59]."
+«Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así [^58]: «_Su_ que es Keresâsp [^59].»
 
-'Y a Zaratû<i>s</i>t le pareció penoso, y le habló así a Aûha<i>r</i>ma<i>z</i><i>d</i>: «Si el propósito de Keresâsp era la matanza de hombres, ¿por qué prepararás el suyo como primer cadáver?»
+«Y a Zaratû<i>s</i>t le pareció penoso, y le habló así a Aûha<i>r</i>ma<i>z</i><i>d</i>: «Si el propósito de Keresâsp era la matanza de hombres, ¿por qué prepararás el suyo como primer cadáver?»
 
-'Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «¡Que no te parezca penoso, oh Zaratû<i>s</i>! Porque si Keresâsp no hubiera existido, y no hubiera realizado tanta obra como se ha dicho, no habría quedado ningún resto de ti ni de ninguna criatura mía.»'
+«Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «¡Que no te parezca penoso, oh Zaratû<i>s</i>! Porque si Keresâsp no hubiera existido, y no hubiera realizado tanta obra como se ha dicho, no habría quedado ningún resto de ti ni de ninguna criatura mía.»»
 
 Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas contienen otra versión en métrica, que consta de 173 versos [^60]. Las hazañas de Keresâsp también se mencionan en el Mainyô-i Khar<i>d</i> (XXV II, 49-53) de la siguiente manera:
 
@@ -164,21 +164,21 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 [^3]: (369:3) Véase Âbân Yt. 37, Râm Yt. 27, Zamyâ<i>d</i> Yt. 38, 40, 44. Por lo tanto, tenemos a Sâm, hijo de Narîmân, como el abuelo de Rustam en el Shâhnâmah.
 
-[^4]: (369:4) Véase Yas. IX, 33. M. de Harlez convierte los bucles laterales en una especie de arma llamada gaêsu<i>s</i>, pero esta palabra aún sobrevive en Pers. gês o gêsû, 'ringlet, side-lock'.
+[^4]: (369:4) Véase Yas. IX, 33. M. de Harlez convierte los bucles laterales en una especie de arma llamada gaêsu<i>s</i>, pero esta palabra aún sobrevive en Pers. gês o gêsû, «ringlet, side-lock».
 
-[^5]: (369:5) Véase Vend. I, 36. O puede ser 'la bruja a la que uno destruye, o a la que uno reza', si traducimos el nombre.
+[^5]: (369:5) Véase Vend. I, 36. O puede ser «la bruja a la que uno destruye, o a la que uno reza», si traducimos el nombre.
 
 [^6]: (369:6) Véase Vend. XIX, 18.
 
 [^7]: (369:7) Véase Fravar<i>d</i>în Yt. 61. Sobre la razón de esta vigilancia, véase Dd. XVII, 6 n.
 
-[^8]: (370:1) Véase Yas. IX, 34--39, Zamyâ<i>d</i> Yt. 40 (traducido en Haug's Essays, págs. 78, 179).
+[^8]: (370:1) Véase Yas. IX, 34—39, Zamyâ<i>d</i> Yt. 40 (traducido en Haug's Essays, págs. 78, 179).
 
 [^9]: (370:2) Véase Âbân Yt. 38, Zamyâ<i>d</i> Yt. 41. Un monstruo en el océano de amplias costas, que también es mencionado en Râm Yt. 28.
 
 [^10]: (370:3) Véase Râm Yt. 28, Zamyâ<i>d</i> Yt. 41.
 
-[^11]: (370:4) Véase Zamyâ<i>d</i> Yt. 41. En lugar de 'Hunus' algunos leen 'hijos':
+[^11]: (370:4) Véase Zamyâ<i>d</i> Yt. 41. En lugar de «Hunus» algunos leen «hijos»:
 
 [^12]: (370:5) Véase Zamyâ<i>d</i> Yt. 41-44.
 
@@ -214,51 +214,51 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 [^28]: (373:5) Kâbul. Se dice que uno de los tres fuegos más sagrados, el fuego de Frôbak, fue trasladado por Vi<i>s</i>tâsp de Khvâri<i>z</i>em a Kâvulistân (véase Bd. XVII, 6). La versión persa dice «¡Ojalá (kâ<i>s</i>kê) fuera sacerdote!» y modifica el resto de la frase para que corresponda.
 
-[^29]: (373:6) Lectura rê-î li; J tiene 100 var, 'cien lagos (o pruebas o resultados).'
+[^29]: (373:6) Lectura rê-î li; J tiene 100 var, «cien lagos (o pruebas o resultados).»
 
-[^30]: (374:1) Al fuego se le suele llamar 'el hijo de Ahura-mazda' en el Avesta, como en Yas: II, 18, Vend. V, 9, etc.
+[^30]: (374:1) Al fuego se le suele llamar «el hijo de Ahura-mazda» en el Avesta, como en Yas: II, 18, Vend. V, 9, etc.
 
-[^31]: (374:2) El Srvara de Yas. IX, 34, Zamyâ<i>d</i> Yt. 40. La versión persa tiene simplemente azdahâ, 'un dragón'.
+[^31]: (374:2) El Srvara de Yas. IX, 34, Zamyâ<i>d</i> Yt. 40. La versión persa tiene simplemente azdahâ, «un dragón».
 
-[^32]: (374:3) O puede ser shâk, 'una rama'. La versión persa tiene 'ochenta codos'.
+[^32]: (374:3) O puede ser shâk, «una rama». La versión persa tiene «ochenta codos».
 
 [^33]: (374:4) La versión persa añade: "Y mientras miraba dentro de su boca, todavía había hombres colgando de sus dientes", lo que evidentemente fue sugerido por lo que se afirma en el relato de la siguiente hazaña.
 
 [^34]: (374:5) Véase [p. 371](.), nota 3.
 
-[^35]: (375:1) La versión persa dice 'caballos y asnos'.
+[^35]: (375:1) La versión persa dice «caballos y asnos».
 
-[^36]: (375:2) La versión persa sustituye esta cláusula por 'el mar le llegaba hasta las rodillas y su cabeza hasta el sol'.
+[^36]: (375:2) La versión persa sustituye esta cláusula por «el mar le llegaba hasta las rodillas y su cabeza hasta el sol».
 
 [^37]: (375:3) Esto es solo una suposición. La palabra también puede leerse khârvarag, «espinoso» o «brote espinoso»; pero parece ser el nombre de alguna persona, seguido de la palabra dôstŏ, «amigo», en la siguiente oración. Âkhrûra, hijo de Haosravangh, se menciona en Fravar<i>d</i>în Yt. 137, después de Sâma Keresâspa, como «resistiendo a Hashi-dava (o daêva), el malvado y codicioso que destruye el mundo». La versión persa omite la frase desde el arrastre del mar en esta oración hasta la matanza en la siguiente (p. 376, línea 1).
 
-[^38]: (375:4) BK tiene 'por mí', lo cual debe ser un error.
+[^38]: (375:4) BK tiene «por mí», lo cual debe ser un error.
 
 [^39]: (375:5) J omite estas últimas siete palabras.
 
 [^40]: (376:1) La versión persa dice: «Lo maté, y cuando cayó, muchas aldeas y lugares quedaron desolados».
 
-[^41]: (376:2) Los 'nueve salteadores de caminos' de Zamyâ<i>d</i> Yt. 41. La versión persa dice 'siete'. BK dice 'caminaron', en lugar de 'mataron'.
+[^41]: (376:2) Los «nueve salteadores de caminos» de Zamyâ<i>d</i> Yt. 41. La versión persa dice «siete». BK dice «caminaron», en lugar de «mataron».
 
 [^42]: (376:3) En lugar de esta frase, la versión persa dice: «Por miedo a ellos, la gente no podía emprender ningún viaje, y a cualquiera que vieran en el camino, lo devoraban al instante; y en tres años calcularon trescientos mil hombres que habían matado y destruido. Y luché contra ellos y maté a los siete».
 
-[^43]: (376:4) J omite la palabra 'caído'.
+[^43]: (376:4) J omite la palabra «caído».
 
-[^44]: (377:1) La versión persa dice 'y cuando llegó cerca de mí, no pudo levantar mi pie del lugar; y me apoderé del espíritu del viento y lo derroté con mi propia fuerza, hasta que hizo una promesa así: «Volveré a bajar a la tierra». Y no retiré mi mano de esa obra menos que Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles me lo ordenaron.'
+[^44]: (377:1) La versión persa dice «y cuando llegó cerca de mí, no pudo levantar mi pie del lugar; y me apoderé del espíritu del viento y lo derroté con mi propia fuerza, hasta que hizo una promesa así: «Volveré a bajar a la tierra». Y no retiré mi mano de esa obra menos que Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles me lo ordenaron.»
 
 [^45]: (378:1) Véase Byt. III, 55-61. La versión persa sustituye una leyenda sobre el gigantesco pájaro Kamak (también mencionado en Mkh. XXVII, 50), que cubrió la tierra con su sombra y evitó la lluvia hasta que los ríos se secaron; también devoró a hombres y animales como si fueran granos de maíz, hasta que Keresâsp lo mató disparándole flechas continuamente durante siete días y siete noches.
 
 [^46]: (378:2) Es decir, cuando sólo hay luz y no hay oscuridad.
 
-[^47]: (378:3) J tiene 'Me sentaré y me moveré solo dentro de él'; y la versión persa tiene 'Me sentaré solo en ese lugar'.
+[^47]: (378:3) J tiene «Me sentaré y me moveré solo dentro de él»; y la versión persa tiene «Me sentaré solo en ese lugar».
 
 [^48]: (379:1) La versión persa no menciona a los ángeles ni el llanto.
 
-[^49]: (379:2) Esto también puede traducirse así: 'Aunque no fueras un engañador, serías un engañador a mis ojos'; las palabras hômanâye, 'serías', y hômanê<i>s</i>, 'serías', se escriben de la misma manera.
+[^49]: (379:2) Esto también puede traducirse así: «Aunque no fueras un engañador, serías un engañador a mis ojos»; las palabras hômanâye, «serías», y hômanê<i>s</i>, «serías», se escriben de la misma manera.
 
 [^50]: (379:3) La versión persa de este discurso es: "¡Oh, buen creador! Sé que el odio y la ira no están en tu camino, y cuando alguien se entrega al odio hacia otro, no hay aquiescencia tuya en ello; sin embargo, ahora veo este asunto como si alguien mantuviera el odio hacia otro".
 
-[^51]: (379:4) La versión persa dice 'el arcángel Ardîbahi<i>s</i>t', que es el protector del fuego (véase Sls. XV, 5, 12, 13).
+[^51]: (379:4) La versión persa dice «el arcángel Ardîbahi<i>s</i>t», que es el protector del fuego (véase Sls. XV, 5, 12, 13).
 
 [^52]: (379:5) La versión persa continúa y concluye la oración de la siguiente manera: «Y Keresâsp gimió a Zaratû<i>s</i>t el Spîtamân, y Ardîbahi<i>s</i>t, el arcángel, dijo: "¡Oh, Zaratu<i>s</i>t! No sabes lo que Keresâsp me ha hecho; que en el mundo, antes, mi costumbre habría sido que, como quienes ponen leña bajo un caldero, yo enviaría el fuego hasta que el caldero hirviera y su obra se completara, y entonces habría regresado a su lugar. Al ser muerta la serpiente de la que habla, sintió hambre, y como el fuego cayó un momento después sobre la leña que había colocado bajo el caldero, lo atacó con un garrote y lo dispersó.» "Y ahora no pasaré el alma de Keresâsp al cielo."
 
@@ -272,14 +272,14 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 [^57]: (380:5) La versión persa continúa así: «Y mientras Zaratû<i>s</i>t el Spîtamân intercedía, Ardîbahi<i>s</i>t, el arcángel, dijo: «Tu reputación es inmensa, y tu voluntad es grande». Y después de eso no se opuso al alma de Keresâsp, sino que la perdonó por Zaratû<i>s</i>t el Spîtamân; y el alma de Keresâsp se liberó de esa incomodidad». Esta versión concluye con una advertencia sobre la necesidad de tratar el fuego con el debido respeto.
 
-[^58]: (381:1) J omite las siguientes palabras hasta el siguiente 'así'.
+[^58]: (381:1) J omite las siguientes palabras hasta el siguiente «así».
 
-[^59]: (381:2) Se refiere al resurgimiento de Keresâsp de su trance, para destruir a Dahâk, lo que se espera que tenga lugar antes de la resurrección general (véase Bd. XXIX, 8, Byt. III, 59--61).
+[^59]: (381:2) Se refiere al resurgimiento de Keresâsp de su trance, para destruir a Dahâk, lo que se espera que tenga lugar antes de la resurrección general (véase Bd. XXIX, 8, Byt. III, 59—61).
 
-[^60]: (381:3) En B29, fols. 169-171, se cita del 'libro de Bahirâm Fîrûz'.
+[^60]: (381:3) En B29, fols. 169-171, se cita del «libro de Bahirâm Fîrûz».
 
 [^61]: (381:4) Escrito Pêhînŏ, o Pa<i>s</i>înŏ, en el texto Pahlavi.
 
 [^62]: (381:5) Véase pág. 378, nota 1.
 
-[^63]: (381:6) O 'seductor', o 'desolador'.
+[^63]: (381:6) O «seductor», o «desolador».

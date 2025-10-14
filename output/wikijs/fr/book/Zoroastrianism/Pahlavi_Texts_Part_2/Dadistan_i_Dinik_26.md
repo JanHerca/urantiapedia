@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : _il est_ élevé, exalté, et <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> suprême, le plus brillant, le plus parfumé, et le plus pur, le plus _fourni_ de belles existences, le plus désirable, et le plus bon, et le lieu _et_ la demeure des êtres sacrés (ya<i>z</i><i>d</i>ânŏ). 3. Et en lui se trouvent tout le confort, le plaisir, la joie, le bonheur (vasî<i>d</i>âgîh) et le bien-être, plus _et_ meilleurs même que le bien-être et le plaisir les plus grands et les plus suprêmes du monde ; et il n'y a en lui ni besoin, ni douleur, ni détresse, ni_ inconfort quels qu'ils soient ; et son charme et le bien-être des anges viennent de ce lieu constamment bénéfique (gâs), de l'espace plein et indivisible (gûn<i>g</i>) [^1], du monde bon et sans limites.
 
-4\. Et la liberté des célestes du danger du mal dans le ciel est semblable à leur liberté de toute perturbation, et la venue des bons anges est semblable aux bonnes œuvres des célestes eux-mêmes pourvues. 5. Cette prospérité (freh-hastŏ) et ce bien-être de l'existence spirituelle sont plus grands que ceux du monde, autant que ce qui est illimité et éternel est plus grand que ce qui est limité et démoniaque (<i>s</i>êdânîkŏ).
+4\. Et la liberté des célestes du danger du mal dans le ciel est semblable à leur liberté de toute perturbation, et la venue des _bons anges_ est semblable aux bonnes œuvres des célestes eux-mêmes pourvues. 5. Cette prospérité (freh-hastŏ) et ce bien-être de l'_existence_ spirituelle sont _plus_ grands que ceux du monde, autant que ce qui est illimité et éternel est plus grand que ce qui est limité et démoniaque (<i>s</i>êdânîkŏ).
 
 <figure class="table chapter-navigator">
   <table>

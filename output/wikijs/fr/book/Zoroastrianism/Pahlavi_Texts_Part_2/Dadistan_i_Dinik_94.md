@@ -34,19 +34,19 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## GIVE<i>D</i>Y DAY. CHAPITRE XCIV.
 
-1\. Et [^1] ceux de la foi primitive, les anciens de ceux qui connaissent la religion [^2], considéraient ainsi, _que_ dans _l'_esprit de_ vie (ahvô) [^3] il y a <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> une pensée et un désigné qui [^4] tient la position (gâs), _et_ il y a un démon qui barre [^5] le chemin ; et dans la pensée il y a un mot désigné qui tient la position, _et_ il y a un démon qui barre le chemin [^6]. 2. Dans _l'_esprit de_ vie [^7] il y a une pensée _et_ Spenda<i>r</i>ma<i>d</i> [^8] ('dévotion abondante') tient la position, _et_ le démon Tarômat [^9] ('pensée méprisante') barre le chemin ; Français dans la pensée est une parole _et_ Ar<i>d</i> [^10] ('le juste') tient la position, et Varenô [^11] ('la luxure') barre la voie ; dans la parole est un acte _et_ Dînô [^12] ('la religion'), le bon, tient la position, et la suffisance <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> (khû<i>d</i>\-dôshagîh) barre la voie. 3. Nous, les hommes de toutes sortes [^13], devons devenir très [^14] prudents afin que, sans renoncer à cette voie [^15], nous ne nous prenions pas sur la voie des démons _et_ des démons [^16]. 4. Car la lutte des hommes [^17] est _dans_ ces trois [^18] voies et sentiers ; _et_ quiconque est sauvé dans ces trois [^18] voies et sentiers est sauvé de tout lieu, et quiconque s'y égare tombe entre les mains des démons _et_ des démons [^19], et n'est dès lors plus maître (<i>s</i>alîtâ) de lui-même, sauf lorsqu'il fait ce que les démons lui ordonnent [^20].
+1\. Et [^1] ceux de la foi primitive, les anciens de ceux qui connaissent la religion [^2], considéraient ainsi, _que_ dans _l'_esprit de_ vie (ahvô) [^3] il y a <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> une pensée et un désigné qui [^4] tient la position (gâs), _et_ il y a un démon qui barre [^5] le chemin ; et dans la pensée il y a un mot désigné qui tient la position, _et_ il y a un démon qui barre le chemin [^6]. 2. Dans _l'_esprit de_ vie [^7] il y a une pensée _et_ Spenda<i>r</i>ma<i>d</i> [^8] (« dévotion abondante ») tient la position, _et_ le démon Tarômat [^9] (« pensée méprisante ») barre le chemin ; dans la pensée est une parole _et_ Ar<i>d</i> [^10] (« le juste ») tient la position, et Varenô [^11] (« la luxure ») barre la voie ; dans la parole est un acte _et_ Dînô [^12] (« la religion »), le bon, tient la position, et la suffisance <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> (khû<i>d</i>\-dôshagîh) barre la voie. 3. Nous, les hommes de toutes sortes [^13], devons devenir très [^14] prudents afin que, sans renoncer à cette voie [^15], nous ne nous prenions pas sur la voie des démons _et_ des démons [^16]. 4. Car la lutte des hommes [^17] est _dans_ ces trois [^18] voies et sentiers ; _et_ quiconque est sauvé dans ces trois [^18] voies et sentiers est sauvé de tout lieu, et quiconque s'y égare tombe entre les mains des démons _et_ des démons [^19], et n'est dès lors plus maître (<i>s</i>alîtâ) de lui-même, sauf lorsqu'il fait ce que les démons lui ordonnent [^20].
 
-5\. Et ceci aussi était considéré par eux ainsi, que la nature seule est bonne quand elle ne fait pas à autrui ce qui n'est pas bon pour elle-même; et que la sagesse seule est bonne quand elle comprend parfaitement comment utiliser l'avantage du bonheur qui est arrivé, et ne souffre pas de vexation à cause d'un mal qui n'est pas arrivé; et que l'intellect seul est bon quand il comprend qu'il ne comprend pas ce qu'il ne comprend pas.
+5\. Et ceci aussi était considéré par eux ainsi, que la nature seule est bonne quand elle ne fait pas à autrui ce qui n'est pas bon pour elle-même; et que la sagesse seule est bonne quand elle comprend parfaitement comment utiliser l'avantage du bonheur qui est arrivé, et ne souffre pas de vexation à cause d'un mal qui n'est pas arrivé; et que l'intellect seul est bon quand il <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> comprend qu'il ne comprend pas ce qu'il ne comprend pas.
 
 6\. Et ceci aussi, _était_ ainsi considéré par eux, qu'il faut devenir [^26] l'ami de tous, et c'est ta nature [^27]; aussi, amène-les dans [^28] la bonté, et c'est ta sagesse; aussi, considère-les comme les tiens, et c'est ta religion; aussi, par eux elle produira [^29] le bonheur, et c'est ton âme [^30].
 
 7\. Et ceci aussi était considéré par eux ainsi, que, lorsque [^31] _quelqu'un_ fait même ce qu'il sait être un péché [^32], c'est de la désobéissance ; _et_ la désobéissance est la nature de l'adversaire ; lorsque _quelqu'un_ ne fait même pas ce qu'il sait être une bonne œuvre, c'est de la cupidité (varenôîkîh), _et_ la cupidité est la sagesse de l'adversaire [^33] ; _et_ lorsque _quelqu'un_ fait [^34] même ce qu'il ne sait pas être une bonne œuvre ou un péché, jusqu'à ce que cela vienne pleinement à [^35] _sa_ connaissance, <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> c'est de la suffisance, et la suffisance est la religion de l'adversaire [^36].
 
-8\. Et ceci aussi, _était_ ainsi_ considéré par eux, qu'Aharman [^37] ferait tout pour le préjudice d'Aûha<i>r</i>ma<i>z</i><i>d</i>, _mais_ lorsque cela est fait par lui [^38] _c'est alors un préjudice pour lui-même, _et_ un avantage d'Aûha<i>r</i>ma<i>z</i><i>d</i>; et Aûha<i>r</i>ma<i>z</i><i>d</i> ferait tout pour son propre avantage, _et_ lorsque cela est fait par lui, _c'est alors, en effet [^39], un avantage pour lui-même, _mais_ un préjudice pour Aharman [^40]. <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 9\. Et cela aussi était considéré par eux de cette manière, qu'une personne de quelque description que ce soit doit être gardée [^41] en mémoire des affaires de l'esprit à chaque période et à chaque instant, et du bonheur du ciel et de la misère de l'enfer à cette période où le confort, le bonheur et le plaisir lui sont parvenus.
+8\. Et ceci aussi, _était_ ainsi_ considéré par eux, qu'Aharman [^37] ferait tout pour le préjudice d'Aûha<i>r</i>ma<i>z</i><i>d</i>, _mais_ lorsque cela est fait par lui [^38] c'est alors un préjudice pour lui-même, _et_ un avantage d'Aûha<i>r</i>ma<i>z</i><i>d</i>; et Aûha<i>r</i>ma<i>z</i><i>d</i> ferait tout pour son propre avantage, _et_ lorsque cela est fait par lui, c'est alors, en effet [^39], un avantage pour lui-même, _mais_ un préjudice pour Aharman [^40]. <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 9\. Et cela aussi était considéré par eux de cette manière, qu'une personne de quelque description que ce soit doit être gardée [^41] en mémoire des affaires de l'esprit à chaque période et à chaque instant, et du bonheur du ciel et de la misère de l'enfer à cette période où le confort, le bonheur et le plaisir lui sont parvenus.
 
 10\. Et ceci aussi, _était_ ainsi_ considéré par eux [^42], que le bonheur, en effet, serait là, dans le ciel de lumière [^43], alors même qu'ici _il_ est si heureux, bien que, grâce à beaucoup de _choses_ [^44], Aharman - avec qui le bonheur n'est pas lié là-bas - soit même ici si heureux au moment où la détresse, la vexation, _et_ la misère sont arrivées ici ; _et ceci aussi, _était_ ainsi considéré, que les maux, en effet, seraient là, en enfer, alors qu'ici il y a une telle misère, bien que même ici une grande partie du bonheur terrestre _d'Aûha<i>r</i>ma<i>z</i><i>d</i>\-- <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> avec qui la misère n'est pas liée là-bas - soit ici si mauvais.
 
-11\. Et ceci aussi était considéré par eux, que celui qui est le plus heureux [^45], est celui en qui la santé du corps, le bonheur et l'énergie (râyînisnŏ) [^46] ; celui qui a fait ces choses au sujet desquelles le dernier souhait de celui qui quitte le monde est alors ainsi : « Je m'efforcerai d'en faire davantage » ; et celui qui aura exercé une abstinence complète de ces choses au sujet desquelles son dernier souhait, lorsqu'il quittera le monde, est alors tel que « Je m'efforcerai d'en faire moins, et cela se serait produit plus confortablement pour mon âme [^47]. »
+11\. Et ceci aussi _était_ considéré par eux, que celui qui est le plus heureux [^45], est celui en qui la santé du corps, le bonheur et l'énergie (râyînisnŏ) [^46] ; _celui_ qui a fait ces choses au sujet desquelles le dernier souhait de celui qui quitte le monde est alors ainsi : « Je m'efforcerai d'en faire davantage » ; et celui qui aura exercé une abstinence complète de ces choses au sujet desquelles son dernier souhait, lorsqu'il quittera le monde, est alors tel que « Je m'efforcerai d'en faire moins, et cela se serait produit plus confortablement pour mon âme [^47]. »
 
 12\. Vous, braves gens de la bonne religion de ces pays d'Iran, gardez-vous en usage les lois établies par ceux de la foi primitive qui étaient grands prêtres, afin que vos corps deviennent plus renommés et vos âmes plus parfaites, dans le ciel suprême et radieux qui [^48] est le siège d'Aûha<i>r</i>ma<i>z</i><i>d</i> et des archanges, des anges et de tous les esprits gardiens des justes. 13. Voilà donc autant de réponses aux questions posées, et elles sont données de manière explicative à partir de l'exposé de la religion et des déclarations des grands prêtres de <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> ceux de la foi primitive, et _sont_ la nature des enseignements _que_ Mânû<i>s</i><i>k</i>îhar, fils de Yûdân-Yim [^49], pontife (ra<i>d</i>ŏ) de Pârs et Kirmân [^50], et directeur (farmâ<i>d</i>âr) [^51] de la profession des prêtres, a ordonné d'écrire.
 
@@ -86,19 +86,19 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^3]: (269:5) NSP. ajoute "des hommes".
 
-[^4]: (270:1) Dk. a 'qui est désigné et', etc.
+[^4]: (270:1) Dk. a « qui est désigné et », etc.
 
 [^5]: (270:2) Littéralement « détient ».
 
 [^6]: (270:3) Il ressort clairement du contexte que quelque chose est omis ici, et le scribe ajoute ce qui suit : « et dans la parole il y a une action pour la position désignée, et il y a un démon qui barre le chemin. Et dans l'esprit de vie il y a un cœur (vâlôm) et Vohûman (« bonne pensée ») tient la position, et Akômanô (« mauvaise pensée ») barre le chemin ; et dans le cœur il y a une volonté et Srôsh (« attention ») tient la position, et Aeshm (« colère ») barre le chemin. » Il semble probable que l'auteur n'ait pas voulu citer la dernière phrase de ce passage.
 
-[^7]: (270:4) Dk. a 'et dans la volonté'.
+[^7]: (270:4) Dk. a « et dans la volonté ».
 
 [^8]: (270:5) L'archange féminin, qui est une personnification d'Av. spe<i>n</i>ta ârmaiti, et a la charge spéciale de la terre et des femmes vertueuses (voir Bd. I, 26, Sls. XV, 20-24).
 
 [^9]: (270 : 6) Ici écrit Tarokmatŏ (Av. taromaiti) ; il est l'archi-démon de la désobéissance, aussi appelé Nâûnghas (voir Bd. XXVIII, 14, XXX, 29).
 
-[^10]: (270:7) Av. areta, titre de l'ange féminin Arshi<i>s</i>ang ou Ashi<i>s</i>ang (Av. ashi<i>s</i> vanguhi, 'bonne rectitude'), dont le nom est donné au 25e jour du mois parsi (voir Bd. XXII, 4, XXVII, 24, Sls. XXII, 25, XXIII, 4).
+[^10]: (270:7) Av. areta, titre de l'ange féminin Arshi<i>s</i>ang ou Ashi<i>s</i>ang (Av. ashi<i>s</i> vanguhi, « bonne rectitude »), dont le nom est donné au 25e jour du mois parsi (voir Bd. XXII, 4, XXVII, 24, Sls. XXII, 25, XXIII, 4).
 
 [^11]: (270 : 8) Av. varena, « désir », personnifié comme un démon (voir Bd. XXVIII, 25).
 
@@ -140,7 +140,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^30]: (272:5) Dk. continue comme suit : « Et ceci aussi était considéré par eux, que la nature est ce qui ne trompe personne, la sagesse est ce qui ne se trompe pas elle-même, et la religion est ce qui sait où l'on doit accomplir de bonnes œuvres. »
 
-[^31]: (272:6) Lire amat, au lieu de mûn, 'qui', dans les trois clauses (voir Chap. LXII, 4 n) ; le dk. omet complètement le mot.
+[^31]: (272:6) Lire amat, au lieu de mûn, « qui », dans les trois clauses (voir Chap. LXII, 4 n) ; le dk. omet complètement le mot.
 
 [^32]: (272:7) Dk. a « ne fera même pas ce qu'il sait être une bonne œuvre », comme dans la deuxième clause qu'il omet.
 
@@ -174,7 +174,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^47]: (275:3) Deutéronome conclut comme suit : « _qui a_ fait ces choses qui sont faites, _pour_ lesquelles _au dernier jour _quand les choses du monde s'en vont_ son souhait est alors ainsi, que 'plus d'efforts soient faits par moi' ; _et a exercé_ beaucoup d'abstinence de ces choses _pour_ lesquelles son souhait du dernier jour est celui-ci, que l'effort fait ne soit pas fait. » Les citations de Deutéronome s'arrêtent à ce point.
 
-[^48]: (275:4) Lecture de mûn, comme dans M14 et J, au lieu de amat, 'quand', (voir Chap. LXII, 4 n.)
+[^48]: (275:4) Lecture de mûn, comme dans M14 et J, au lieu de amat, « quand », (voir Chap. LXII, 4 n.)
 
 [^49]: (276:1) Voir [p. 3](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Dadistan_i_Dinik_1#p3), note 2.
 

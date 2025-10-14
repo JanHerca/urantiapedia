@@ -34,9 +34,9 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER X.
 
-1\. The ninth question is that which you ask thus: How much does the growth [^1] of his good works increase, from the time when the good works are done, so long as _he_ is living?
+1\. The ninth question is that which you ask thus: How much does the growth [^1] of his good works increase, from the time when the good works are done, so long as _he_ is living?
 
-2\. The reply is this, that from the _time_ when a good work comes into progress _its_ growth remains on the increase so long as _he_ is living; moreover, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> when he is distressed by that good work [^2], while the increase does not desist _from_ increase, it grows just as a child becomes enlarged in the womb of a mother.
+2\. The reply is this, that from the _time_ when a good work comes into progress _its_ growth remains on the increase so long as _he_ is living; moreover, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> when he is distressed by that good work [^2], while the increase does not desist _from_ increase, it grows just as a child becomes enlarged in the womb of a mother.
 
 <figure class="table chapter-navigator">
   <table>

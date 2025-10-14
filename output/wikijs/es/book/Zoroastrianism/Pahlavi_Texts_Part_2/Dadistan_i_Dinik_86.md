@@ -40,9 +40,9 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: dado que deben darse debidamente las cosas destinadas a los ritos religiosos del ceremonial [^1], que son la consideración de quienes se encargan de todos los ritos religiosos y también el estipendio de algunos solemnizadores, ambos [^2] viven cómodamente gracias al ceremonial. 3. Los hijos de los discípulos, que deseaban la aprobación de las palabras rezadas, se vuelven tanto más ordenados y aceptados; y el ceremonial de todos los ritos religiosos se vuelve más progresivo.
 
-4\. Además, cuando van a emprender la actividad del ceremonial, que funciona bien, por una disminución de la remuneración y el regalo, y debido a que emprenden y vuelven a ordenar [^3], por rutina (pavan dôr râs), no piden tanto estipendio, es como si compraran mi lino y lo vendieran de nuevo para su propio pago (dâ<i>d</i>anŏ). 5. En cuanto a los realizadores del ceremonial, quienes tienen que conseguir la aprobación con mucho esfuerzo y palabras rezadas, y obtienen una remuneración que, incluso para el alma, es tan pequeña para el ceremonial como si uno estuviera molesto, por lo que <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> la vida es difícil--se arrepienten de soportar el problema, debido a la tibieza (afsur<i>d</i>ŏ-mini<i>s</i>nîh) _en_ ​​la misma profesión. 6. E incluso los hijos de los discípulos venderán lino por salario, y se regocijan _de que_ es posible aprender otros oficios _con_ menos dolores; y así _los_ hacen volverse tibios _y_ retiro meditativo (a<i>v</i>â<i>z</i>âhang) de las palabras de párrafos nuevos continuamente rezados [^4], de la aprobación solicitada de los eruditos (â<i>z</i>ân), _y_ de todos los ritos religiosos que deben emprender _para_ los contentos.
+4\. Además, cuando van a emprender la actividad del ceremonial, que funciona bien, por una disminución de la remuneración y el regalo, y debido a que emprenden y vuelven a ordenar [^3], por rutina (pavan dôr râs), no piden tanto estipendio, es como si compraran mi lino y lo vendieran de nuevo para su propio pago (dâ<i>d</i>anŏ). 5. En cuanto a los realizadores del ceremonial, quienes tienen que conseguir la aprobación con mucho esfuerzo y palabras rezadas, y obtienen una remuneración que, incluso para el alma, es tan pequeña para el ceremonial como si uno estuviera molesto, por lo que <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> la vida es difícil—se arrepienten de soportar el problema, debido a la tibieza (afsur<i>d</i>ŏ-mini<i>s</i>nîh) _en_ ​​la misma profesión. 6. E incluso los hijos de los discípulos venderán lino por salario, y se regocijan _de que_ es posible aprender otros oficios _con_ menos dolores; y así _los_ hacen volverse tibios _y_ retiro meditativo (a<i>v</i>â<i>z</i>âhang) de las palabras de párrafos nuevos continuamente rezados [^4], de la aprobación solicitada de los eruditos (â<i>z</i>ân), _y_ de todos los ritos religiosos que deben emprender _para_ los contentos.
 
-7\. En cuanto a aquellos, además, que, por su ferviente compromiso con lo ordenado, piden menos para todos los ritos religiosos, y no han obtenido [^5] ni siquiera lo que les corresponde, no es como si los hubieran ordenado para los demonios [^6]. 8. Y la desgracia, también, de los que ordenan las buenas obras de tibieza es la exaltación de la profesión de los discípulos; y su progreso deficiente se convierte en la paralización del ceremonial de los seres sagrados para salvar las almas de los buenos del mortal (mar).
+7\. _En cuanto_ a aquellos, además, que, por su ferviente compromiso con lo ordenado, piden menos para todos los ritos religiosos, y no han obtenido [^5] ni siquiera lo que les corresponde, no es como si los hubieran ordenado para los demonios [^6]. 8. Y la desgracia, también, de los que ordenan las buenas obras de tibieza es la exaltación de la profesión de los discípulos; y su progreso deficiente se convierte en la paralización del ceremonial de los seres sagrados para salvar las almas de los buenos del mortal (mar).
 
 <figure class="table chapter-navigator">
   <table>
@@ -70,13 +70,13 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (248:1) M14 tiene simplemente 'desde la donación apropiada para la ceremonia'.
+[^1]: (248:1) M14 tiene simplemente «desde la donación apropiada para la ceremonia».
 
 [^2]: (248:2) Es decir, tanto los encargados de la funeraria como los solemnizadores, el sumo sacerdote y sus ayudantes.
 
 [^3]: (248:3) Se refiere a un sacerdote que realiza ceremonias y luego ordena a sus inferiores que las realicen (ver Caps. LXVI, 4, 6).
 
-[^4]: (249:1) Literalmente 'oró y oró'.
+[^4]: (249:1) Literalmente «oró y oró».
 
 [^5]: (249:2) Se lee ayâft, en lugar del ininteligible ayâ<i>d</i>t, como <i>d</i> se ha escrito, sin duda, en lugar de f.
 

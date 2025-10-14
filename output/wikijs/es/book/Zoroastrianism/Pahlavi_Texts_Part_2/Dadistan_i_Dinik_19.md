@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (44:2) El espíritu maligno (véase Cap. II, II), cuya naturaleza y poderes difieren muy poco de los que la mayoría de los escritores cristianos atribuyen al diablo.
 
-[^2]: (44:3) O 'sobre'; o, tal vez, 'es lo máximo que él podrá alcanzar de ti mismo'.
+[^2]: (44:3) O «sobre»; o, tal vez, «es lo máximo que él podrá alcanzar de ti mismo».
 
 [^3]: (45:1) La palabra «gloria» debe entenderse siempre en su sentido material de «resplandor, refulgencia».
 

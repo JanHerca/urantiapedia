@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (76:4) Lectura a<i>v</i>îk (o a<i>v</i>ih) anshûtâ, pero posiblemente sea a<i>v</i>î-<i>i</i> anshûtâ, 'sin un solo hombre'.
+[^1]: (76:4) Lectura a<i>v</i>îk (o a<i>v</i>ih) anshûtâ, pero posiblemente sea a<i>v</i>î-<i>i</i> anshûtâ, «sin un solo hombre».
 
 [^2]: (77:1) Bd. XXX, 3 afirma que los hombres primero se abstienen de la carne, después de las verduras y la leche, y, finalmente, del agua.

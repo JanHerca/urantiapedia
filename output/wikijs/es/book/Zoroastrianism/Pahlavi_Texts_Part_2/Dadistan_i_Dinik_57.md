@@ -64,4 +64,4 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (190:4) M14 tiene malkâânŏ malkâ bôndak, 'un sirviente del rey de reyes'; pero véase Cap. LVI, 2.
+[^1]: (190:4) M14 tiene malkâânŏ malkâ bôndak, «un sirviente del rey de reyes»; pero véase Cap. LVI, 2.

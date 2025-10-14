@@ -38,9 +38,9 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that it is said _there_ are three kinds, which are the existent, the provided, and the appointed. 3. An adopted son who is existent is such as a wife who may be privileged, _or_ an only daughter is a kind of adopted son owing to confidence in herself, such as happens when there is no wife, _and_ a daughter for whom there is no husband, _and_ none is provided, is the one _that_ has remained.
 
-4\. An adopted son _who_ is provided is such _as_ a son that is acknowledged, who is accepted by one's self [^1], and _free_ from _being_ appointed, or _from_ necessity [^2].
+4\. An adopted son _who_ is provided is such _as_ a son that is acknowledged, who is accepted by one's self [^1], and _free_ from _being_ appointed, or _from_ necessity [^2].
 
-5\. And an adopted son who is appointed is he who is to be appointed among the relations who are suitable for adoption--and are nearest to him who is to be appointed _as_ adopted son--and the ministers (pa<i>d</i>ân) of religion, _and_ he performs the duty of <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> family guardianship [^3]; he who is the appointed _one_ is he who is appointed by the men _who are_ the nearest relations (nabânazdi<i>s</i>tânŏ) on account of proximity.
+5\. And an adopted son who is appointed is he who is to be appointed among the relations who are suitable for adoption—and are nearest to him who is to be appointed _as_ adopted son—and the ministers (pa<i>d</i>ân) of religion, _and_ he performs the duty of <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> family guardianship [^3]; he who is the appointed _one_ is he who is appointed by the men _who are_ the nearest relations (nabânazdi<i>s</i>tânŏ) on account of proximity.
 
 <figure class="table chapter-navigator">
   <table>

@@ -36,11 +36,11 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER LXVII.
 
-1\. _As to_ the sixty-sixth question _and_ reply, that which you ask is thus: What is this appearance [^1] which is girded on the sky?
+1\. _As to_ the sixty-sixth question _and_ reply, that which you ask is thus: What is this appearance [^1] which is girded on the sky?
 
 2\. The reply is this, that _it is_ a mingling of the brilliance of the sun with mist and cloud that is seen, of which _it_ is _at_ all times and seasons, moreover, a characteristic appearance, whereby _it has_ become their sign above from spiritual to earthly beings.
 
-3\. That which is earthly is the water above to which its brilliance is acceptable; and the many brilliant colours (gunakân) which are formed from that much mingling [^2] of brilliance and water, and are depicted (mânâkî-aîtŏ), are the one portion for appearing [^3].
+3\. That which is earthly is the water above to which its brilliance is acceptable; and the many brilliant colours (gunakân) which are formed from that much mingling [^2] of brilliance and water, and are depicted (mânâkî-aîtŏ), are the one portion for appearing [^3].
 
 <figure class="table chapter-navigator">
   <table>

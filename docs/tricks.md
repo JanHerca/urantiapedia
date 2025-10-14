@@ -63,6 +63,8 @@ Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `
 `"Go to next page"` | ``
 `([^=>])"([^>"]*)"([^=>])` | `$1“$2”$3`
 `^\[\^(\d+)\] :` | `[^$1]:`
+`([^\w])'([^']*)'([^\w])` | `$1« $2 »$3` (quotes in French)
+`Français ` | `` (error translating to French)
 
 ### After translation with Google Translator of Markdown articles to Spanish 
 

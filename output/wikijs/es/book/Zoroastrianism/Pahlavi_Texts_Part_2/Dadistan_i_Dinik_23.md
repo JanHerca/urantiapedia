@@ -70,11 +70,11 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (51:3) Se lee abarî<i>s</i> (compárese con Pers bar<i>z</i>, 'esplendor'), o puede ser abarâkh, 'sin chispa', si barkh, 'una chispa', es una palabra persa pura, lo cual es dudoso.
+[^1]: (51:3) Se lee abarî<i>s</i> (compárese con Pers bar<i>z</i>, «esplendor»), o puede ser abarâkh, «sin chispa», si barkh, «una chispa», es una palabra persa pura, lo cual es dudoso.
 
 [^2]: (52:1) M14 y J omiten el resto de la oración.
 
-[^3]: (52:2) Leyendo <i>s</i>invi<i>s</i>nŏ, pero omitiendo una trazo deberíamos tener dâni<i>s</i>nŏ, 'conocimiento'.
+[^3]: (52:2) Leyendo <i>s</i>invi<i>s</i>nŏ, pero omitiendo una trazo deberíamos tener dâni<i>s</i>nŏ, «conocimiento».
 
 [^4]: (52:3) De una persona a punto de morir. Se supone que el demonio de la muerte, Astôvîdâ<i>d</i>, ata con una soga el cuello de los muertos para arrastrarlos al infierno, del que solo los justos pueden librarse (véase Bd. III, 21, 22).
 
@@ -88,6 +88,6 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^9]: (53:1) Es decir, cuando hay dudas sobre el destino del alma, y ​​los sobrevivientes no pueden obtener garantías satisfactorias del sacerdocio, el alma tiene que proceder al otro mundo sin provisión adecuada para su felicidad.
 
-[^10]: (53:2) Los manuscritos tienen 'alma'.
+[^10]: (53:2) Los manuscritos tienen «alma».
 
-[^11]: (53:3) M14 y J tienen 'que es el alma' y omiten el resto de la oración.
+[^11]: (53:3) M14 y J tienen «que es el alma» y omiten el resto de la oración.

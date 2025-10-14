@@ -65,6 +65,6 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (193:1) M14 tiene 'o cualquiera que haya aceptado la adopción como una adopción'.
+[^1]: (193:1) M14 tiene «o cualquiera que haya aceptado la adopción como una adopción».
 
 [^2]: (193:2) El significado parece ser que, aunque, debido a su confianza infundada y negligencia, han sido culpables de muchos pecados mortales, no están sujetos a la pena capital. Es evidente que el escritor no temía que alguna propiedad quedara descuidada por falta de administración, pero sí albergaba considerables dudas sobre la prudencia y honestidad de los administradores.

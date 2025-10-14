@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO LXXX.
 
-1\. En cuanto a la septuagésima novena pregunta y respuesta, lo que preguntas es así: Respecto de quien no ordena ceremonias, ¿cuál es entonces la decisión?
+1\. En cuanto a la septuagésima novena pregunta _y_ respuesta, lo que preguntas es así: Respecto de quien no ordena _ceremonias_, ¿cuál es entonces la decisión?
 
 2\. La respuesta es esta: que, exceptuando aquellos, entre los cuales se encuentra especialmente el rito religioso selecto (dînô) de aquel cuya ceremonia no se realiza —quien, aunque _haciendo_ muchas buenas obras, no alcanza después el cielo supremo, que está determinado [^1]\—, además, se dice que quien no es capaz de realizar su ritual por sí mismo, cuando ordena una _ceremonia_ Gêtô-kharî<i>i></i> [^2] y se realiza _la_, puede llegar a ser _apto_ para el cielo supremo (garô<i>d</i>mânîkŏ); esto es muy digno de elogio.
 

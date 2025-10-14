@@ -40,7 +40,7 @@ Afin d'élucider certains points mentionnés dans les écrits de Mânû<i>s</i><
 
 Le Nîrang-i Kustî, ou cérémonie de nouage de la ceinture de fil sacré, est également décrit en détail, avec une traduction du rituel qui l'accompagne, en partie à partir d'observations réelles, et en partie à partir des récits Gu<i>g</i>arâti du rite.
 
-Il est devenu nécessaire de déterminer avec certitude si l'expression « mariage entre proches » était une traduction légitime de khvêtûk-das, telle qu'utilisée par les auteurs pahlavi. Un examen approfondi de tous les passages accessibles, susceptibles d'éclairer la signification de ce mot, a été effectué. Le résultat de cette enquête peut être mieux compris à partir des détails recueillis, mais on peut dire en termes généraux que, bien que « mariage entre proches » puisse représenter fidèlement la signification variable de khvêtûk-das à différentes époques, sa signification habituelle dans la littérature pahlavi est plus précisément indiquée par « mariage entre proches ».
+Il est devenu nécessaire de déterminer avec certitude si l'expression « mariage entre proches » était une traduction légitime de khvêtûk-das, telle qu'utilisée par les auteurs pahlavi. Un examen approfondi de tous les passages accessibles, susceptibles d'éclairer la signification de ce mot, a été <span id="pxxix"><sup><small>[ p. xxix ]</small></sup></span> effectué. Le résultat de cette enquête peut être mieux compris à partir des détails recueillis, mais on peut dire en termes généraux que, bien que « mariage entre proches » puisse représenter fidèlement la signification variable de khvêtûk-das à différentes époques, sa signification habituelle dans la littérature pahlavi est plus précisément indiquée par « mariage entre proches ».
 
 La communauté parsie doit peut-être s'excuser d'avoir attiré l'attention sur un sujet qu'elle juge désagréable. Mais, en publiant une partie du Dînka<i>r</i><i>d</i>, elle a elle-même mis le passage le plus important sur le sujet à la portée de tout orientaliste européen ; permettant ainsi à tout traducteur partial de présenter la pratique de tels mariages comme étant généralisée, au lieu de les considérer comme si désagréables pour les laïcs qu'ils nécessitaient un effort constant de toute l'influence que possédait le clergé pour les recommander, même aux âges les plus sombres de la foi. Éviter de telles visions partiales de la question, ainsi que les entraver chez d'autres, a été l'objectif principal du présent traducteur en tentant de déterminer le sens exact des textes obscurs qu'il a eu à traiter.
 
@@ -52,9 +52,9 @@ Pour les traductions du Vendidâ<i>d</i> en pahlavi, le texte adopté, lorsqu'il
 
 En conclusion, le traducteur doit saisir cette occasion pour exprimer sa gratitude à Dastûr Peshotanji Behrâmji Sanjânâ, le grand prêtre des Parsis de Bombay, et à Dastûr Jâmâspji Minochiharji Jâmâsp-Asâ-nâ, de la même ville, pour la gentillesse et la disponibilité avec lesquelles il lui a toujours fourni toutes les informations qu'il a demandées, non seulement sur les questions spécialement mentionnées dans les notes de bas de page, mais aussi à de nombreuses autres occasions.
 
-OUEST.                  
+E. W. WEST.
 
-   MUNICH,  
+&nbsp;&nbsp;MUNICH,  
 Septembre 1882.
 
 <figure class="table chapter-navigator">

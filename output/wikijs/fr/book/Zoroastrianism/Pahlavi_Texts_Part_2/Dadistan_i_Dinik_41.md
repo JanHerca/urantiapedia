@@ -92,6 +92,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^11]: (139:1) Le verbe Avesta spayêiti, utilisé ici comme terme technique, apparaît fréquemment dans Vend. III, 142.-148.
 
-[^12]: (139:2) En supposant que ba<i>r</i>â, 'en effet', représente pavan, 'par', (voir Chap. VII, 2 n.)
+[^12]: (139:2) En supposant que ba<i>r</i>â, « en effet », représente pavan, « par », (voir Chap. VII, 2 n.)
 
 [^13]: (139:3) Lecture de bakhshi<i>s</i>n-î, mais il peut s'agir d'une corruption de bakhshând, « ils accorderont », comme supposé dans M14. Ce passage est tiré de Pahl. Vend. V, 173.

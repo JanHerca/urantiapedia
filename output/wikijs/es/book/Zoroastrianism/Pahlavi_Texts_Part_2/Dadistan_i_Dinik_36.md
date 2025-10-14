@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Pero se dice que los productores de la renovación más renombrados en todas las esferas (vâspôharakânîktar) son siete, cuyos nombres son Rôshanô-<i>k</i>ashm [^7], Khûr-<i>k</i>ashm, Frâda<i>d</i>\-gadman, <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> Vâ<i>r</i>eda<i>d</i>\-gadman, Kâmak-vakhshi<i>s</i>n, Kâmak-sû<i>d</i> y Sôshâns. 5. Como se dice que en los cincuenta y siete años [^8], que son el período de la resurrección de los muertos, Rôshanô-<i>k</i>ashm en Arzâh [^9], Khûr-<i>k</i>ashm en Savâh, Frâda<i>d</i>\-gadman en Frada<i>d</i>âfsh, Vâ<i>r</i>eda<i>d</i>\-gadman en Vî<i>d</i>adâfsh, Kâmak-vakhshi<i>s</i>n en Vôrûbar<i>s</i>t, y Kâmak-sû<i>d</i> en Vôrû<i>g</i>ar<i>s</i>t, mientras que Sôshâns en el ilustre 6. El buen sentido, la audición perfecta y la gloria plena de esos siete productores de la renovación son tan milagrosos que conversan de una región a otra, cada uno junto con los otros seis, tal como ahora los hombres en una entrevista pronuncian palabras de conferencia y cooperación con la lengua, uno al otro, y pueden mantener una conversación [^10].
 
-7\. Las mismas obras perfectas durante seis [^11] años en las seis _otras_ regiones, y durante cincuenta años en las ilustres Khvanîras [^12], preparan la inmortalidad y dan origen a la vida eterna y al bienestar eterno (sû<i>d</i>îh) mediante la ayuda, el poder y la gloria del espíritu omnisciente _y_ benéfico, el creador Aûha<i>r</i>ma<i>z</i><i>d</i>.
+7\. Las mismas obras perfectas durante seis [^11] años en las seis _otras_ regiones, y durante cincuenta años en las ilustres Khvanîras [^12], preparan la inmortalidad <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> y dan origen a la vida eterna y al bienestar eterno (sû<i>d</i>îh) mediante la ayuda, el poder y la gloria del espíritu omnisciente _y_ benéfico, el creador Aûha<i>r</i>ma<i>z</i><i>d</i>.
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (77:2) Véase Cap. II, 10. Su título, que casi siempre se escribe Spîtamân en K35 (raramente Spîtâmân), es Av. spitama o spitâma, pero generalmente se entiende que significa 'descendiente de Spitama', su antepasado en la novena generación (véase Bd. XXXII, I).
+[^1]: (77:2) Véase Cap. II, 10. Su título, que casi siempre se escribe Spîtamân en K35 (raramente Spîtâmân), es Av. spitama o spitâma, pero generalmente se entiende que significa «descendiente de Spitama», su antepasado en la novena generación (véase Bd. XXXII, I).
 
 [^2]: (78:1) Es decir, incluso estos antiguos gobernantes y legisladores han contribuido a la renovación final del universo mediante sus sabias acciones y leyes.
 
@@ -88,6 +88,6 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^10]: (79:3) Si este pasaje se encontrara en las escrituras cristianas, muy probablemente sería considerado como una alusión profética al telégrafo eléctrico y al teléfono.
 
-[^11]: (79:4) Así en todos los manuscritos, pero uno esperaría que fuera 'siete', para completar los cincuenta y siete años del § 5. Como el número está escrito en cifras, la diferencia entre 'seis' y 'siete' es muy leve.
+[^11]: (79:4) Así en todos los manuscritos, pero uno esperaría que fuera «siete», para completar los cincuenta y siete años del § 5. Como el número está escrito en cifras, la diferencia entre «seis» y «siete» es muy leve.
 
 [^12]: (79:5) Esta región central de la tierra es la que contiene a Irán y todas las tierras bien conocidas por los iraníes.

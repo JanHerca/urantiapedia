@@ -68,4 +68,4 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^1]: (220:1) El cielo está dividido en tres partes, y la parte superior es inaccesible al mal (véase Cap. XXXVII, 24, 25).
 
-[^2]: (220:2) Se lee a<i>v</i>â-<i>s</i>êdâ-mîni<i>s</i>nŏîh, pero es posible que a<i>v</i>â haya sido originalmente kha<i>v</i>dak, por el Av. khavzô, 'amante masculino', de Vend. VIII, 99, 103 (trad. D.).
+[^2]: (220:2) Se lee a<i>v</i>â-<i>s</i>êdâ-mîni<i>s</i>nŏîh, pero es posible que a<i>v</i>â haya sido originalmente kha<i>v</i>dak, por el Av. khavzô, «amante masculino», de Vend. VIII, 99, 103 (trad. D.).

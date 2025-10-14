@@ -38,9 +38,9 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : on dit qu’il y a trois sortes de fils adoptifs : les existants, les prévus et les désignés. 3. Un fils adoptif existant est comme une épouse qui peut être privilégiée, ou une fille unique est une sorte de fils adoptif en raison de sa confiance en elle-même, comme cela arrive lorsqu’il n’y a pas d’épouse, et une fille pour laquelle il n’y a pas de mari, et pour laquelle rien n’est prévu, est celle qui est restée.
 
-4\. Un fils adoptif _qui_ est pourvu est tel _qu'un fils qui est reconnu, qui est accepté par soi-même [^1], et _libre_ d'être _désigné, ou _de_ nécessité [^2].
+4\. Un fils adoptif _qui_ est pourvu est tel _qu'un_ fils qui est reconnu, qui est accepté par soi-même [^1], et _libre_ d'être désigné, ou _de_ nécessité [^2].
 
-5\. Et un fils adoptif qui est désigné est celui qui doit être désigné parmi les parents qui sont aptes à l'adoption - et qui sont les plus proches de celui qui doit être désigné comme fils adoptif - et les ministres (pa<i>d</i>ân) de la religion, _et_ il accomplit le devoir de tutelle familiale [^3]; celui qui est désigné est celui qui est désigné par les hommes _qui sont_ les plus proches parents (nabânazdi<i>s</i>tânŏ) en raison de la proximité.
+5\. Et un fils adoptif qui est désigné est celui qui doit être désigné parmi les parents qui sont aptes à l'adoption - et qui sont les plus proches de celui qui doit être désigné comme fils adoptif - et les ministres (pa<i>d</i>ân) de la religion, _et_ il accomplit le devoir de tutelle <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> familiale [^3]; celui qui est désigné est celui qui est désigné par les hommes _qui sont_ les plus proches parents (nabânazdi<i>s</i>tânŏ) en raison de la proximité.
 
 <figure class="table chapter-navigator">
   <table>

@@ -78,6 +78,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^5]: (21:2) Dans l’existence future.
 
-[^6]: (21:3) M4 et J ont '_et_ c'est l'obtention d'un dirigeant qui est un sage défenseur de la religion, de temps en temps, même jusqu'au changement des dernières existences par la rénovation bien organisée de l'univers_.' Mais les mots supplémentaires semblent avoir été suggérés par le mot 'dirigeant' pris littéralement, alors qu'il semble avoir été appliqué au sens figuré à la religion qui doit gouverner les justes jusqu'à l'existence future.
+[^6]: (21:3) M4 et J ont '_et_ c'est l'obtention d'un dirigeant qui est un sage défenseur de la religion, de temps en temps, même jusqu'au changement des dernières existences par la rénovation bien organisée de l'univers_.' Mais les mots supplémentaires semblent avoir été suggérés par le mot « dirigeant » pris littéralement, alors qu'il semble avoir été appliqué au sens figuré à la religion qui doit gouverner les justes jusqu'à l'existence future.
 
 [^7]: (21:4) Au chap. II, 9-13.

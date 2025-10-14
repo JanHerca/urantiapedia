@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. La división en dars, 'capítulos o temas', se indica en los manuscritos originales; pero el traductor es responsable de la división de las secciones, ya que las subdivisiones del texto alternado persa-guarati a menudo difieren de su significado.
 
-2-6. (Igual que en la página [2](/es/book/Zoroastrismo/Pahlavi_Texts_Part_3/Observaciones_Dina_i_Mainog_i_Khirad#p2).)
+2-6. (Igual que en la página [2](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Observaciones_Dina_i_Mainog_i_Khirad#p2).)
 
 7\. Todas las palabras árabes se citan entre paréntesis la primera vez que aparecen en el texto. La ortografía de los nombres se asemeja más al persa moderno que al antiguo pahlavi.
 

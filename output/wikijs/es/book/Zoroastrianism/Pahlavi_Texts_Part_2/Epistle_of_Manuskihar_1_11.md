@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 8\. En cuanto a estas otras difusiones de arreglos que son preeminentemente los recursos de ese hombre sacerdotal, y el conocimiento de la revelación que él busca, por el bien de la religión no deben ser molestados antes de [^10].
 
-9\. ¡Que la organización, restauración y bendición de la revelación (dîn 6) de la religión que adora a Ma<i>z</i><i>d</i>a alcance su clímax! ¡Y que la eminencia de ustedes, oyentes [^11] de la religión primigenia, consista en prosperidad suprema y duradera, mediante toda la felicidad! Entonces, a través de amigos tan considerados, el conocimiento de su difícil enseñanza y sus poderosas palabras, que aumentará su gratitud hacia mí por mis decisiones, se convierta en una bendición para ustedes, si observan en ella una buena idea que les parezca importante, cuando llegue a su vista.
+9\. ¡Que la organización, restauración y bendición de la revelación (dîn 6) de la religión que adora a Ma<i>z</i><i>d</i>a alcance su clímax! ¡Y que la eminencia <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> de ustedes, oyentes [^11] de la religión primigenia, consista en prosperidad suprema y duradera, mediante toda la felicidad! Entonces, a través de amigos tan considerados, el conocimiento de su difícil enseñanza y sus poderosas palabras, que aumentará su gratitud hacia mí por mis decisiones, se convierta en una bendición para ustedes, si observan en ella una buena idea que les parezca importante, cuando llegue a su vista.
 
 10\. Se le ordena al escritor _y_ escriba correcto que no altere _ninguna_ de [^12] las palabras (mârîk), mientras escribe una copia correcta de esta epístola mía, que es escrita por mí para ti, y le ordena a _alguien_ que se la dé a _ese_ mismo hombre, Ya<i>z</i><i>d</i>ân-pânak, _junto_ con esa epístola, para que _pueda_ llegar a él [^13], pues hay _momentos_ en que me parece consciente de que _es mejor _así_. 11. ¡Y que los ángeles aumenten _y_ amplíen tus muchas cosas nuevas con plena medida y completa exaltación! el placer, la paz [^14], la rectitud, la prosperidad, el elogio y la felicidad _de_ los poderosos [^15] que todo lo controlan _y tienen un final feliz.
 
@@ -96,12 +96,12 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^11]: (323:1) Lectura nyôkhshî<i>d</i>ârânŏ, como en J, en lugar de avakhshî<i>d</i>ârânŏ.
 
-[^12]: (323:2) Leyendo min, en lugar de mûn, 'quién'.
+[^12]: (323:2) Leyendo min, en lugar de mûn, «quién».
 
 [^13]: (323:3) A Zâ<i>d</i>\-sparam. Esta copia fue la mencionada en Ep. II, vii, I.
 
-[^14]: (323:4) Lectura slam, como en J; los otros manuscritos tienen shnuman, 'propiciación', siendo las dos palabras casi iguales en las letras Pahlavi.
+[^14]: (323:4) Lectura slam, como en J; los otros manuscritos tienen shnuman, «propiciación», siendo las dos palabras casi iguales en las letras Pahlavi.
 
-[^15]: (323:5) Lectura patûgânŏ; J ha pa<i>d</i>vandânŏ, 'conexiones', insertando un trazo.
+[^15]: (323:5) Lectura patûgânŏ; J ha pa<i>d</i>vandânŏ, «conexiones», insertando un trazo.
 
 [^16]: (323:6) El quinto día del duodécimo mes del año parsi; y, como la Epístola III (que evidentemente fue escrita después de una mayor consideración) está fechada en el tercer mes del año AY 250, debe haber sido escrita en el año AY 249. La fecha de esta epístola, por lo tanto, corresponde al 15 de marzo de 881.

@@ -66,7 +66,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (221:1) Se lee a<i>z</i>\-<i>s</i>êdâîkŏ, pero puede ser â<i>z</i>\-<i>s</i>êdâîkŏ, 'del demonio de la avaricia', o puede significar kha<i>v</i>dak-<i>s</i>êdâîkŏ, 'de un amante masculino de los demonios', como se menciona en la última nota.
+[^1]: (221:1) Se lee a<i>z</i>\-<i>s</i>êdâîkŏ, pero puede ser â<i>z</i>\-<i>s</i>êdâîkŏ, «del demonio de la avaricia», o puede significar kha<i>v</i>dak-<i>s</i>êdâîkŏ, «de un amante masculino de los demonios», como se menciona en la última nota.
 
 [^2]: (221:2) La omnisciencia con respecto a lo que ocurre en el mundo es una característica indispensable de cualquier ser al que se dirigen oraciones o cuya intercesión se implora.
 

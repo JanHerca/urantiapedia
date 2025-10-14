@@ -36,35 +36,35 @@ dateCreated: 2025-10-5T10:16:32Z
 
 ## SHAYÂST LA-SHAYÂST. CHAPTER XIX.
 
-1\. The Yathâ-ahû-vairyô [^1] _formulas_ that are necessary in each place, and how _they_ are to be spoken in performing anything [^2].
+1\. The Yathâ-ahû-vairyô [^1] _formulas_ that are necessary in each place, and how _they_ are to be spoken in performing anything [^2].
 
-2\. One _by him_ who goes forth to an assembly, or before grandees _and_ chieftains, or on any business; or when he goes to ask for what he wants (val khvahî<i>s</i>nŏ); also when he quits any business; in each of these situations _he_ is to say only one _formula_, so that his business may proceed more promptly [^3].
+2\. One _by him_ who goes forth to an assembly, or before grandees _and_ chieftains, or on any business; or when he goes to ask for what he wants (val khvahî<i>s</i>nŏ); also when he quits any business; in each of these situations _he_ is to say only one _formula_, so that his business may proceed more promptly [^3].
 
 <span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
-3\. _That_ a blessing (âfrînô) may be more benedictory, for this _reason one_ utters two _formulas_; for _there_ are two kinds of blessing, one is that which is in the thoughts [^4], and one is that which is in words.
+3\. _That_ a blessing (âfrînô) may be more benedictory, for this _reason one_ utters two _formulas_; for _there_ are two kinds of blessing, one is that which is in the thoughts [^4], and one is that which is in words.
 
-4\. Four are for coming out more thankfully when at a season-festival [^5].
+4\. Four are for coming out more thankfully when at a season-festival [^5].
 
-5\. Five _by him_ who goes to atone for sin, in order to expel the fiend; because it is necessary to undergo punishment by the decision (dastôbarîh) of these five persons, the house-ruler, the village-ruler, _the tribe-ruler_ [^6], the province-ruler, and the supreme Zaratû<i>s</i>t; and five Ashem-vohûs [^7] are to be uttered by him at the end.
+5\. Five _by him_ who goes to atone for sin, in order to expel the fiend; because it is necessary to undergo punishment by the decision (dastôbarîh) of these five persons, the house-ruler, the village-ruler, _the tribe-ruler_ [^6], the province-ruler, and the supreme Zaratû<i>s</i>t; and five Ashem-vohûs [^7] are to be uttered by him at the end.
 
 6\. Six _by him_ who goes to seek power, and to battle, so that he may be more successful.
 
 <span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
-7\. Seven _by him_ who goes to perform the worship of God (yazdân), _so that_ the archangels may come more forward [^8] at the worship.
+7\. Seven _by him_ who goes to perform the worship of God (yazdân), _so that_ the archangels may come more forward [^8] at the worship.
 
 8\. Eight _by him_ who goes to perform the ceremonial of the righteous guardian spirit.
 
-9\. Nine _by him_ who goes to sow corn; these he utters for this _reason_, because the corn will ripen (rasê<i>d</i>) in nine months, _and_ so that the corn may come forward he will make the mischief of the noxious creatures less [^9].
+9\. Nine _by him_ who goes to sow corn; these he utters for this _reason_, because the corn will ripen (rasê<i>d</i>) in nine months, _and_ so that the corn may come forward he will make the mischief of the noxious creatures less [^9].
 
-10\. Ten _by him_ who goes to seek a wife, so that the presents may be favourable for the purpose. 11. Ten _by him_ who wishes to allow the male _access_ to beasts _of burden_ and cattle, so that it may be more procreative [^10].
+10\. Ten _by him_ who goes to seek a wife, so that the presents may be favourable for the purpose. 11. Ten _by him_ who wishes to allow the male _access_ to beasts _of burden_ and cattle, so that it may be more procreative [^10].
 
-12\. Eleven _by him_ who goes to the lofty mountains, so that the glory of mountains and hills may bless him _and_ be friendly [^11].
+12\. Eleven _by him_ who goes to the lofty mountains, so that the glory of mountains and hills may bless him _and_ be friendly [^11].
 
-13\. Twelve _by him_ who goes to the low districts, so that the glory of that country and district may bless him and be friendly [^12].
+13\. Twelve _by him_ who goes to the low districts, so that the glory of that country and district may bless him and be friendly [^12].
 
-14\. Thirteen _by him_ who shall become pathless; _at_ that same place he shall utter _them_; or _by him_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> who shall pass over a bridge and a river, so that the spirit of that water may bless him [^13]; because the Yathâ-ahû-vairyô is greater and more successful _than_ everything in the Avesta as to all rivers, all wholesomeness, and all protection.
+14\. Thirteen _by him_ who shall become pathless; _at_ that same place he shall utter _them_; or _by him_ <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> who shall pass over a bridge and a river, so that the spirit of that water may bless him [^13]; because the Yathâ-ahû-vairyô is greater and more successful _than_ everything in the Avesta as to all rivers, all wholesomeness, and all protection.
 
 15\. Religion is as connected with the Yathâ-ahû-vairyô as the hair is more connected with the glory of the face; any one, indeed, would dread (samâ<i>d</i>) to separate hairiness _and_ the glory of the face.
 

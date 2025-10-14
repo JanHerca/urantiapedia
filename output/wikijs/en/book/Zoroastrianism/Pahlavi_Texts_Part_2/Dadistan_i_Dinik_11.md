@@ -34,9 +34,9 @@ dateCreated: 2025-10-5T18:50:3Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER XI.
 
-1\. The tenth question is that which you ask thus: Does the growth which increases become as commendable in the fourth night [^1] as the original good work [^2] in _his_ possession, or does it become otherwise?
+1\. The tenth question is that which you ask thus: Does the growth which increases become as commendable in the fourth night [^1] as the original good work [^2] in _his_ possession, or does it become otherwise?
 
-2\. The reply is this, that _it_ is otherwise; for the original good work stands up opposing sin, and the growing good work [^3] stands up opposed to the growth of sin.
+2\. The reply is this, that _it_ is otherwise; for the original good work stands up opposing sin, and the growing good work [^3] stands up opposed to the growth of sin.
 
 <figure class="table chapter-navigator">
   <table>

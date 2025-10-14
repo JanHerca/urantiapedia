@@ -34,9 +34,9 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO LII.
 
-1\. En cuanto a la quincuagésima primera pregunta y respuesta, lo que usted pregunta es así: Hay un hombre que entrega un dirham [^1] por cinco bushels (kafî<i>z</i>) de trigo, así: 'Te doy esto como un plazo (bôn-ae) [^2] de cinco bushels de trigo al final de un mes'; y durante el mes, y al final, esos cinco bushels de trigo se convierten en cinco veces el precio; ¿estarían autorizados a confiscar los cinco bushels de trigo cuando él los haya aventado (pêkhtŏ ka<i>r</i><i>d</i>ŏ), a través de ese plazo que entregó, o no?
+1\. En cuanto a la quincuagésima primera pregunta y respuesta, lo que usted pregunta es así: Hay un hombre que entrega un dirham [^1] por cinco bushels (kafî<i>z</i>) de <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> trigo, así: «Te doy esto como un plazo (bôn-ae) [^2] de cinco bushels de trigo al final de un mes»; y durante el mes, y al final, esos cinco bushels de trigo se convierten en cinco veces el precio; ¿estarían autorizados a confiscar los cinco bushels de trigo cuando él los haya aventado (pêkhtŏ ka<i>r</i><i>d</i>ŏ), a través de ese plazo que entregó, o no?
 
-2\. La respuesta es esta: cuando quienes reciban su dirham tengan que confiarle los cinco bushels de trigo, sin sospechar nada y por voluntad propia, para que los aviente, así como él los aviente consciente e insospechadamente, deben tomarlos tal como fueron avientados; esta es la decisión autorizada. 3. Pero cuando él los avienta debido a una necesidad muy grave de pago, es más conveniente que el alma ruegue al donante del dinero, quien es el pagador comprador [^3], por parte de ese exceso de ganancia indivisa (apâr). 4. Porque debe considerar la ganancia de sus sucesores como parte de la ganancia del dinero en el acto [^4]\--_cuando más de <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> tal entrega exigida--_y_ no como un nuevo arrebato de un regalo [^5].
+2\. La respuesta es esta: cuando quienes reciban su dirham tengan que confiarle los cinco bushels de trigo, sin sospechar nada y por voluntad propia, para que los aviente, así como él _los_ aviente consciente _e_ insospechadamente, deben tomarlos tal como fueron avientados; esta es la decisión autorizada. 3. Pero cuando él los avienta debido a una necesidad muy grave de pago, es más conveniente que el alma ruegue al donante del dinero, quien es el pagador comprador [^3], por parte de ese exceso de ganancia indivisa (apâr). 4. Porque debe considerar la ganancia de sus sucesores como parte de la ganancia del dinero en el acto [^4]\—_cuando más de <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> tal entrega exigida—_y_ no como un nuevo arrebato de un regalo [^5].
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,8 +68,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^2]: (181:1) K35 tiene vaban dos veces en esta oración, pero bôn en el § 4. M14 altera esta palabra y otras, haciendo el capítulo ininteligible. Se supone que el dinero se entrega simplemente como depósito, en reconocimiento de un trato que se realizará después de que el maíz esté listo para la entrega.
 
-[^3]: (181:2) Se lee zednunand dûkhtâr, pero, tal vez, esta sea una corrupción de zednûnînî<i>d</i>âr, 'un causante de compra, un corredor'.
+[^3]: (181:2) Se lee zednunand dûkhtâr, pero, tal vez, esta sea una corrupción de zednûnînî<i>d</i>âr, «un causante de compra, un corredor».
 
-[^4]: (181:3) Es decir, 'dinero contante y sonante'.
+[^4]: (181:3) Es decir, «dinero contante y sonante».
 
 [^5]: (182:1) Es decir, después de haber hecho un trato, no debe sentirse agraviado por ningún exceso inesperado de ganancias obtenidas de buena fe por las otras partes del trato; un estándar bastante alto de moralidad comercial.

@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (199:3) Generalmente escrito como khvêtûk-das (Av. <i>h</i><i>v</i>aêtvadatha, 'dar lo propio'). Es un término aplicado a los matrimonios entre parientes cercanos y se alaba como especialmente meritorio. Durante siglos, los parsis lo han entendido como referente a los matrimonios entre primos hermanos, y atribuyen toda alusión al matrimonio entre parientes más cercanos a prácticas herejes (véase Sls. XVIII, 4 n); aunque, al igual que los profesores de todas las demás religiones, deben admitir la necesidad de tal práctica en la primera familia de la humanidad, como se detalla en el texto. Se encontrarán traducciones de otros pasajes relacionados con el tema en el Apéndice III, y también se menciona en los capítulos XXXVII, 82, LXXVII, 6 y LXXVIII, 19.
+[^1]: (199:3) Generalmente escrito como khvêtûk-das (Av. <i>h</i><i>v</i>aêtvadatha, «dar lo propio»). Es un término aplicado a los matrimonios entre parientes cercanos y se alaba como especialmente meritorio. Durante siglos, los parsis lo han entendido como referente a los matrimonios entre primos hermanos, y atribuyen toda alusión al matrimonio entre parientes más cercanos a prácticas herejes (véase Sls. XVIII, 4 n); aunque, al igual que los profesores de todas las demás religiones, deben admitir la necesidad de tal práctica en la primera familia de la humanidad, como se detalla en el texto. Se encontrarán traducciones de otros pasajes relacionados con el tema en el Apéndice III, y también se menciona en los capítulos XXXVII, 82, LXXVII, 6 y LXXVIII, 19.
 
 [^2]: (200:1) Véase Cap. LXIV, 2. Los nombres aquí están escritos Mashyêîh y Mashyêyôîh.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^5]: (200:4) Aquí escrito Hôshyâng. Para los nombres Av. de estos cuatro monarcas primigenios, véase Cap. II, 10 n.
 
-[^6]: (200:5) K35 tiene 'tres tercios', pero véase Âbân Yt. 22, Râm Yt. 8, Zamyâ<i>d</i> Yt. 26.
+[^6]: (200:5) K35 tiene «tres tercios», pero véase Âbân Yt. 22, Râm Yt. 8, Zamyâ<i>d</i> Yt. 26.
 
 [^7]: (200:6) Se dice que subyugó al espíritu maligno y lo utilizó como corcel durante treinta años (véanse los caps. II, 10, XXXVII, 35).
 

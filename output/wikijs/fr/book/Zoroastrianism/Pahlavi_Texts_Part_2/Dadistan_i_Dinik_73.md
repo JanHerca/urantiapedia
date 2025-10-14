@@ -69,4 +69,4 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^1]: (220:1) Le ciel étant divisé en trois parties, et la partie la plus élevée étant inaccessible au mal (voir Chap. XXXVII, 24, 25).
 
-[^2]: (220:2) Lecture a<i>v</i>â-<i>s</i>êdâ-mîni<i>s</i>nŏîh, mais il est possible que a<i>v</i>â ait été à l'origine kha<i>v</i>dak, pour l'Av. khavzô, 'amant mâle', de Vend. VIII, 99, 103 (trad. D.).
+[^2]: (220:2) Lecture a<i>v</i>â-<i>s</i>êdâ-mîni<i>s</i>nŏîh, mais il est possible que a<i>v</i>â ait été à l'origine kha<i>v</i>dak, pour l'Av. khavzô, « amant mâle », de Vend. VIII, 99, 103 (trad. D.).

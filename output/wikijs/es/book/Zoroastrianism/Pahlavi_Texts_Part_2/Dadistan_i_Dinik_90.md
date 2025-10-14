@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO XC.
 
-1\. En cuanto a la octogésima novena pregunta y respuesta, lo que preguntas es lo siguiente: ¿Quiénes y cuántos son los que carecen de religión (adînôîh) pero que son inmortalizados, y con qué propósito es su inmortalidad? 2. ¿Dónde está el lugar donde cada uno de ellos posee soberanía, y en ese lugar hay personas de buena religión de todo tipo, o cómo están? ¿Hay fuegos sagrados [^1] y culto designado, o cómo es? ¿Y con qué propósito es cada una de sus soberanías?
+1\. En cuanto a la octogésima novena pregunta y respuesta, lo que preguntas es lo siguiente: ¿Quiénes y cuántos son los que carecen de religión (adînôîh) pero que son inmortalizados, y con qué propósito es su inmortalidad? 2. ¿Dónde está el lugar donde cada uno de ellos posee soberanía, y en ese lugar hay personas de buena religión de todo tipo, o cómo están? ¿Hay fuegos <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> sagrados [^1] y culto designado, o cómo es? ¿Y con qué propósito es cada una de sus soberanías?
 
 3\. La respuesta es esta, que se dice que los gobernantes inmortales de la región de la gloria, Khvanîras [^2], _son_ siete: uno es Yô<i>s</i>tô, hijo de Fryân [^3]; el nombre avéstico de uno es Yakhmâyûs<i>a</i><i>d</i> [^4], hijo del mismo Fryân; el nombre de uno es Fradhakh<i>s</i>tŏ, hijo de los Khumbîks [^5]; el nombre de uno es Ashavazang, hijo de Pôrûdakhstôîh [^6]; uno es el árbol opuesto al daño [^7]; <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> uno es Gôpatshah [^8]; _y_ uno es Peshyôtanû [^9], que recibe su nombre del <i>K</i>îtravôkŏ-mîyânŏ [^10].
 
@@ -68,13 +68,13 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (255:2) Literalmente 'fuegos de Varahrân' (véase Cap. XXXI, 7).
+[^1]: (255:2) Literalmente «fuegos de Varahrân» (véase Cap. XXXI, 7).
 
 [^2]: (256:1) La región central de las siete regiones de la Tierra, que supuestamente contiene todos los países mejor conocidos por los iraníes, y que es tan extensa como las otras seis regiones juntas (véase Bd. XI, 2-6). El nombre se corrompe aquí en Khvanâîra<i>s</i>.
 
 [^3]: (256:2) Av. Yôi<i>s</i>tô yô Fryananãm de Âbân Yt. 81, Fravar<i>d</i>în Yt. 120, quien tuvo que explicar noventa y nueve enigmas que le propuso el malvado Akhtya. En Pâz., este nombre se corrompe en Gô<i>s</i>t-î Fryânô, cuya explicación de treinta y tres enigmas propuestos por el mago Akht, y la propuesta de tres enigmas a su vez, forman el tema de un relato Pahlavi publicado con AV. No está incluido entre los inmortales mencionados en Bd. XXIX, 5, 6 y Dk. (véase § 8, nota), pero es uno de los especificados en Byt. II, 1.
 
-[^4]: (256:3) Sin duda, el Av. Ashem-yahmâi-u<i>s</i>ta ('rectitud por la cual hay bendición') que precede a Yôi<i>s</i>tô en Fravar<i>d</i>în Yt. 120. Él es el Asâm-î Yamâhu<i>s</i>t de Bd. XXIX, 5, quien se dice que reside en el distrito del río Nâîvtâk; pero no se le menciona en Dk. Los nombres Yakhmâyûs<i>a</i><i>d</i>, Fradhakh<i>s</i>tŏ y Ashavazang están escritos en Pâzand, lo que explica su ortografía irregular.
+[^4]: (256:3) Sin duda, el Av. Ashem-yahmâi-u<i>s</i>ta («rectitud por la cual hay bendición») que precede a Yôi<i>s</i>tô en Fravar<i>d</i>în Yt. 120. Él es el Asâm-î Yamâhu<i>s</i>t de Bd. XXIX, 5, quien se dice que reside en el distrito del río Nâîvtâk; pero no se le menciona en Dk. Los nombres Yakhmâyûs<i>a</i><i>d</i>, Fradhakh<i>s</i>tŏ y Ashavazang están escritos en Pâzand, lo que explica su ortografía irregular.
 
 [^5]: (256:4) Av. Fradhâkh<i>s</i>ti Khu<i>n</i>bya de Fravar<i>d</i>în Yt. 138. En Dk. se dice que es gobernante de las aguas de Nâîvtâk, pero en Bd. se le llama Par<i>s</i>adgâ <i>H</i><i>v</i>embya que reside en la llanura de Pê<i>s</i>yânsaî.
 
@@ -88,7 +88,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^10]: (257:3) El río <i>K</i>atru-mîyân en Kangde<i>z</i> (véase Bd. XX, 31).
 
-[^11]: (257:4) Que es un país no ario según Dk., pero Bd. (XXIX, 5) lo llama 'la tierra de S<i>a</i>ukavastân', y Mkh. (XLIV, 24-35, LXII, 31) coloca a Gôpatshah en Aîrân-vê<i>g</i>.
+[^11]: (257:4) Que es un país no ario según Dk., pero Bd. (XXIX, 5) lo llama «la tierra de S<i>a</i>ukavastân», y Mkh. (XLIV, 24-35, LXII, 31) coloca a Gôpatshah en Aîrân-vê<i>g</i>.
 
 [^12]: (257:5) Véase Cap. XXI, 2.
 
@@ -102,11 +102,11 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^17]: (257:10) Véase Cap. XXXVII, 36.
 
-[^18]: (257:11) O kang-î raftâr puede significar 'joven alegre'; pero es evidentemente un intento de explicar el nombre Kangde<i>z</i> como 'la fortaleza del kang («juventud»)'.
+[^18]: (257:11) O kang-î raftâr puede significar «joven alegre»; pero es evidentemente un intento de explicar el nombre Kangde<i>z</i> como «la fortaleza del kang («juventud»)».
 
 [^19]: (257:12) El hijo de Sîyâvash (véase Cap. XXXVI, 3, Bd. XXXI, 25).
 
-[^20]: (258:1) Literalmente 'fuego de Varahrân'.
+[^20]: (258:1) Literalmente «fuego de Varahrân».
 
 [^21]: (258:2) Se espera que sea convocado por los ángeles para restaurar los ritos religiosos en el mundo, después del conflicto de las naciones en una era futura (ver Byt. III, 25-42).
 
