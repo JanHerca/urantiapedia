@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XVI.
+## SAD DAR. CAPÍTULO XVI.
 
 1\. El decimosexto tema es que, cuando una mujer queda embarazada en una casa, es necesario procurar que haya un fuego constante en ella y mantenerla bajo vigilancia. 2. Y, cuando el niño se separa de la madre, es necesario encender una lámpara durante tres noches y tres días —si se enciende un fuego, mejor— para que los demonios y demonios no puedan causar daño; porque, cuando nace un niño, es extremadamente delicado durante esos tres días.
 
@@ -66,6 +66,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (277:1) Lp, B29 tiene 'en la buena religión'. Esto se cita probablemente del Spend Nask (véase Sls. X, 4, XII, 11).
+[^1]: (277:1) Lp, B29 tiene «en la buena religión». Esto se cita probablemente del Spend Nask (véase Sls. X, 4, XII, 11).
 
-[^2]: (277:2) B29 tiene 'lo cual han dicho'.
+[^2]: (277:2) B29 tiene «lo cual han dicho».

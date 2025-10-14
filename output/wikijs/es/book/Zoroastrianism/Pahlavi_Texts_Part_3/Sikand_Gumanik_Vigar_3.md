@@ -74,13 +74,13 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (125:1) Sans. agrega 'ser', y es seguido por la mayoría de los manuscritos modernos.
+[^1]: (125:1) Sans. agrega «ser», y es seguido por la mayoría de los manuscritos modernos.
 
 [^2]: (125:2) Pâz. vazîha<i>s</i>n, probablemente una lectura errónea de Pahl. uzdahi<i>s</i>n.
 
 [^3]: (125:3) Pâz. gada<i>s</i>ni, tanto aquí como en los caps. IV, 56, VIII, 122, 123, 126, XII, 64, evidentemente significa «disposición, peculiaridad». Probablemente se trate de una lectura errónea de Pahl. gu<i>z</i>ini<i>s</i>n, ocasionada por algún escritor que conectó las dos letras <i>z</i>n y las convirtió en at (<i>d</i>).
 
-[^4]: (126:1) Nêr. lee vyâwãnî, que él entiende que significa 'desconcertante', pero es dudoso que podamos derivar este significado de vyâwãn, 'un desierto sin agua', palabra que aparece en el cap. XIV, 30. La palabra original Pahlavi también puede leerse como nîyâ<i>z</i>ânîh, 'causa del anhelo, la tentación', o nihâ<i>z</i>ânîh, 'intimidación'.
+[^4]: (126:1) Nêr. lee vyâwãnî, que él entiende que significa «desconcertante», pero es dudoso que podamos derivar este significado de vyâwãn, «un desierto sin agua», palabra que aparece en el cap. XIV, 30. La palabra original Pahlavi también puede leerse como nîyâ<i>z</i>ânîh, «causa del anhelo, la tentación», o nihâ<i>z</i>ânîh, «intimidación».
 
 [^5]: (126:2) Pasiones malas que se personifican como demonios (ver Mkh. XLI, 10, 11).
 
@@ -88,4 +88,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^7]: (127:1) Con el propósito de argumentar que los males son a veces ventajosos y pueden, por lo tanto, formar parte del diseño de un espíritu benéfico.
 
-[^8]: (127:2) O grôh puede significar 'un rehén'.
+[^8]: (127:2) O grôh puede significar «un rehén».

@@ -118,7 +118,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^18]: (101:4) Pahl. vîkhtanŏ is more probably connected with Pers. kîkhtan, ‘to break,’ than with Pers. pîkhtan, ‘to sift.’
 
-[^19]: (101:5) The Sanskrit version adds 'and Aharman's.'
+[^19]: (101:5) The Sanskrit version adds ‘and Aharman's.’
 
 [^20]: (101:6) L19 has ‘more fully through the power.’
 

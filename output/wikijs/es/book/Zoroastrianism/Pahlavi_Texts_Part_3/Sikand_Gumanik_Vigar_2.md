@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Ser herido y causar daño, como sea que ocurran, no ocurren excepto por la diferencia de naturaleza y aquellos de naturaleza diferente. 7. Porque en aquellos de naturaleza similar existe semejanza de voluntad y unanimidad, uno hacia el otro, sin dañar ni ser dañado. 8. Y aquellos de naturaleza diferente, debido a su naturaleza opuesta, son destructores y dañinos entre sí, como sea que se unan. 9. Aquellos de naturaleza similar, debido a la unanimidad y similitud de naturaleza, son activos [^4], eficientes y se ayudan mutuamente cuando se unen.
 
-10\. La desintegración y separación de naturalezas similares es la desunión de naturalezas diferentes. 11. Así como el calor y el frío, que, debido a su naturaleza opuesta, son destructores y dañinos, resistiéndose y desintegrándose mutuamente, a través de su naturaleza perpetua. 12. Porque toda desintegración se debe a las leyes (rastagân) del frío y la sequedad, el calor y la humedad, (13) y a su destrucción, daño y oposición mutua. 14. Pues la desintegración de los cuerpos se debe a la lucha perpetua entre el calor y el frío, la sequedad y la humedad; (15) y debido a su lucha mutua, los cuerpos se desintegran y quedan incapacitados.
+10\. La desintegración y separación de naturalezas similares es la desunión de naturalezas diferentes. 11. Así <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> como el calor y el frío, que, debido a su naturaleza opuesta, son destructores y dañinos, resistiéndose y desintegrándose mutuamente, a través de su naturaleza perpetua. 12. Porque toda desintegración se debe a las leyes (rastagân) del frío y la sequedad, el calor y la humedad, (13) y a su destrucción, daño y oposición mutua. 14. Pues la desintegración de los cuerpos se debe a la lucha perpetua entre el calor y el frío, la sequedad y la humedad; (15) y debido a su lucha mutua, los cuerpos se desintegran y quedan incapacitados.
 
 16\. Del agua y del fuego, por su propia naturaleza, no se manifiesta daño alguno; (17) pero el frío de su confraternización [^5] se mezcla con la humedad del agua y se opone al calor del fuego; (18) y la sequedad de su confraternización se mezcla con el calor del fuego y, a su vez, perjudica la humedad del agua.
 
@@ -76,6 +76,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^3]: (123:2) En Bd. I, 9, 10 se nos dice que cuando el espíritu maligno surgió del abismo, se precipitó para destruir la luz que entonces vio por primera vez, pero se asustó por su valentía y gloria.
 
-[^4]: (123:3) Así se entiende por Nêr., pero zîvihend puede significar 'son agraciados', o puede ser una lectura errónea de zênîhend, 'están armados'.
+[^4]: (123:3) Así se entiende por Nêr., pero zîvihend puede significar «son agraciados», o puede ser una lectura errónea de zênîhend, «están armados».
 
 [^5]: (124:1) Cuando el agua entra en contacto con el fuego.

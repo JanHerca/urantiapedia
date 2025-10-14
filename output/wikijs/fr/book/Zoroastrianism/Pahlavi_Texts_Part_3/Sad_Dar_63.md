@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE LXIII.
 
-1\. Le soixante-troisième sujet est celui-ci, qu'il est nécessaire de pratiquer une stricte abstinence d'adultère à cause de ceci, que par quiconque séduit la femme d'un autre et commet une iniquité avec elle, cette femme devient, en un instant, illicite à l'égard de son mari. 2. Et, après cela, chaque fois que son mari l'entoure, c'est comme si elle s'était approchée d'un étranger. 3. Le don juste [^1] d'elle-même à son propre mari, dans cette situation, est toujours pire que ses fréquentations [^2] avec des femmes d'une religion différente, à cause de ceci, que, si cette femme devient enceinte, c'est comme si un homme de bonne religion était tombé dans une autre religion, et [^3] par là cet homme devient digne de mort.
+1\. Le soixante-troisième sujet est celui-ci, qu'il est nécessaire de pratiquer une stricte abstinence d'adultère à cause de ceci, que par quiconque séduit la femme d'un autre et commet une iniquité avec elle, cette femme devient, en un instant, illicite à l'égard de son mari. 2. Et, après cela, chaque fois que son mari l'entoure, c'est comme si elle s'était approchée d'un étranger. 3. Le don juste [^1] d'elle-même à son propre mari, dans cette <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> situation, est toujours pire que ses fréquentations [^2] avec des femmes d'une religion différente, à cause de ceci, que, si cette femme devient enceinte, c'est comme si un homme de bonne religion était tombé dans une autre religion, et [^3] par là cet homme devient digne de mort.
 
 4\. Il arrive aussi que, lorsque cette femme tombe enceinte, elle fasse tuer l'enfant par crainte d'une mauvaise réputation. 5. Alors, pour la personne dont c'est l'enfant, c'est comme s'il l'avait fait de sa propre main ; il est donc passible de mort. 6. Si l'enfant naît et qu'il demeure dans la religion, tout péché commis par cet enfant est, pour cette personne, comme s'il avait été commis de sa propre main.
 
@@ -80,6 +80,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^6]: (326:2) Ou accusateurs (voir-Chap. XLII, 1, 2).
 
-[^7]: (326:3) B29 a 'il coule', si nous lisons bi-rêzad ; mais le traducteur gu<i>g</i>arâti semble prendre gunâh-barêza<i>d</i> (Av. bereza<i>n</i>t) comme une épithète technique pour l'âme, comme s'il disait 'ils retiennent l'âme de celui dont le péché est endémique'.
+[^7]: (326:3) B29 a « il coule », si nous lisons bi-rêzad ; mais le traducteur gu<i>g</i>arâti semble prendre gunâh-barêza<i>d</i> (Av. bereza<i>n</i>t) comme une épithète technique pour l'âme, comme s'il disait 'ils retiennent l'âme de celui dont le péché est endémique'.
 
 [^8]: (326:4) C'est-à-dire que les anges enquêteurs annoncent leur décision quant au sort approprié de l'âme qu'ils ont détenue.

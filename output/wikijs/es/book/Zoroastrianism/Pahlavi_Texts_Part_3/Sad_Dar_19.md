@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XIX.
+## SAD DAR. CAPÍTULO XIX.
 
 1\. El decimonoveno tema es que la actividad agrícola es similar a la que se realiza cuando alguien realiza las ceremonias de los seres sagrados, y es necesario mostrar gran respeto por los agricultores; también es necesario mantenerlos alejados de los problemas y las disputas.
 
@@ -64,11 +64,11 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (281:1) Lp, B29 tiene 'se realiza'.
+[^1]: (281:1) Lp, B29 tiene «se realiza».
 
-[^2]: (281:2) Lp, B29 añade 'de allí'.
+[^2]: (281:2) Lp, B29 añade «de allí».
 
-[^3]: (281:3) B29 agrega 'camino'.
+[^3]: (281:3) B29 agrega «camino».
 
 [^4]: (281:4) La omite el resto de este capítulo, así como las palabras "llegan a ser", por error.
 

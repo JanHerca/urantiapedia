@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XCV.
+## SAD DAR. CAPÍTULO XCV.
 
-1\. El tema nonagésimo quinto es que es necesario que sea conveniente para todos aquellos de buena religión realizar el saludo al sol [^1] tres veces al día.
+1\. El tema nonagésimo quinto es que es necesario que sea conveniente para todos aquellos de buena <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> religión realizar el saludo al sol [^1] tres veces al día.
 
 2\. Si se realiza una vez, se considera una buena obra de un Tanâvar [^2]; si se realiza dos veces, se considera el doble; y si se realiza tres veces, se considera el triple. 3. Si no se realiza una repetición, se considera un pecado de treinta stîrs [^3]; si no se realizan dos repeticiones, se considera el doble; y si no se realizan tres repeticiones, se considera el triple.
 
@@ -72,4 +72,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^3]: (358:3) Equivalente a un pecado de Aredû<i>s</i>, o golpe con un arma (ver Sls. I, 1, 2).
 
-[^4]: (358:4) Los Mâh y Âtash Nyâyi<i>s</i>. B29 también interpola 'los Mihir' Nyâyi<i>s</i>.
+[^4]: (358:4) Los Mâh y Âtash Nyâyi<i>s</i>. B29 también interpola «los Mihir» Nyâyi<i>s</i>.

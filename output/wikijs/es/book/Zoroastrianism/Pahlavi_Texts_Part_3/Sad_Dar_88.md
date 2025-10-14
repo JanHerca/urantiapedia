@@ -34,9 +34,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p353"><sup><small>[ pág. 353 ]</small></sup></span>
 
-## TRISTE DAR. CAPÍTULO LXXXVIII.
+## SAD DAR. CAPÍTULO LXXXVIII.
 
-1\. El octogésimo octavo tema es este: en cuanto a cualquier trozo de madera sobre el que se transporte un cadáver, o sobre el que se lave, y cualquier objeto que pueda estar contaminado con sangre e impureza, aquel sobre el que se deposite una impureza menstrual, o una extremidad desnuda por una mujer menstruante, y aquel sobre el que se empale a un ser humano, es necesario evitar todos estos trozos de madera y no volver a trabajar con ellos, porque la vestimenta se vuelve impura; y no es apropiado quemarlos. 2. Es necesario colocarlos en un lugar donde quien los arranque y los remueva no los ponga al servicio de la humanidad.
+1\. El octogésimo octavo tema es este: en cuanto _a cualquier trozo_ de madera sobre el que se transporte un cadáver, o sobre el que se lave, y cualquier objeto que pueda estar contaminado con sangre e impureza, aquel sobre el que se deposite una impureza _menstrual_, o una extremidad desnuda por una mujer menstruante, y aquel sobre el que se empale a un ser humano, es necesario evitar todos estos _trozos_ de madera y no volver a trabajar con ellos, porque la vestimenta se vuelve impura; y no es apropiado quemarlos. 2. Es necesario colocarlos en un lugar donde quien los arranque y los remueva no los ponga al servicio de la humanidad.
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (353:1) La tiene 'para comer', Lp 'para comprar con', B29 'para tocar'.
+[^1]: (353:1) La tiene «para comer», Lp «para comprar con», B29 «para tocar».
 
-[^2]: (353:2) B29 tiene 'cualquiera que no los tome ni los revuelva, de modo que no lo hace'.
+[^2]: (353:2) B29 tiene «cualquiera que no los tome ni los revuelva, de modo que no lo hace».

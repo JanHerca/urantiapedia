@@ -32,13 +32,13 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO 1.
+## SAD DAR. CAPÍTULO 1.
 
-1\. El tema quincuagésimo primero es este: que es responsabilidad de todos enviar a sus hijos a la escuela y enseñarles algo. 2. Porque todo deber y buena obra que un niño realiza es como si sus padres la hubieran hecho con sus propias manos. 3. Por lo tanto, es necesario esforzarse para que puedan enseñarles algo bueno y para que sean conscientes de las buenas obras y del pecado; pues lo hacen por su propia alma, para que esos niños sean valientes en las buenas obras.
+1\. El tema quincuagésimo primero es este: que es responsabilidad de todos enviar a sus hijos a la escuela y enseñarles algo. 2. Porque todo deber y buena obra que un niño realiza es como si sus padres la hubieran hecho con sus propias manos. 3. Por lo tanto, es necesario esforzarse para que puedan enseñarles algo bueno y para que sean conscientes de las buenas obras y del pecado; pues lo hacen por su propia alma, para que esos _niños sean_ valientes en las buenas obras.
 
 4 [^1]. Si no se les enseña, entonces cumplen menos deberes y buenas obras, y menos llega a las almas del padre y la madre. 5. Y también sucede que si no llevan a los niños a la escuela, ni les enseñan nada, y se atreven a cometer pecados, ese pecado [^2] se fija en el cuello del padre y la madre.
 
-6\. Por lo tanto, han decidido correctamente quién [^3] les enseña algo, especialmente qué es apropiado e inapropiado según la revelación; porque el principio fundamental es este: si, por el deber de este mundo, se obtendrá un resultado bueno o malo en el más allá.
+6\. Por lo tanto, han decidido correctamente quién [^3] les enseña <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> algo, especialmente qué es apropiado e inapropiado según la revelación; porque el principio fundamental es este: si, por el deber de este mundo, se obtendrá un resultado bueno o malo en el más allá.
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,8 +66,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (313:3) Lp, B29 inserta 'porque'.
+[^1]: (313:3) Lp, B29 inserta «porque».
 
-[^2]: (313:4) B29 tiene 'esa comisión de pecado'.
+[^2]: (313:4) B29 tiene «esa comisión de pecado».
 
-[^3]: (313:5) B29 tiene 'correctamente para los hijos, _en_ ​​el momento en que ellos'.
+[^3]: (313:5) B29 tiene «correctamente para los hijos, _en_ ​​el momento en que ellos».

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LVI.
+## SAD DAR. CAPÍTULO LVI.
 
 1\. El tema quincuagésimo sexto es que, cuando alguien desee evacuar agua, es necesario que no lo haga de pie. 2. Porque, en el comentario del Vendîdâ<i>d</i> [^1], se dice, respecto a esto, que es un pecado grave.
 
@@ -66,7 +66,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (317:1) Pahl. Vender. XVIII, 98.
 
-[^2]: (317:2) Lp, B29 tiene 'que no hagan la evacuación del agua más _que_.'
+[^2]: (317:2) Lp, B29 tiene «que no hagan la evacuación del agua más _que_.»
 
 [^3]: (317:3) Véase Mkh. XXVII, 70 n.
 

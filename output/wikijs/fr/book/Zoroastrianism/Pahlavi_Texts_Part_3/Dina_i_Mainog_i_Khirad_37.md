@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^5]: (74:4) L19 transpose les deux verbes, « perçoit » et « veut ».
 
-[^6]: (74:5) Nêr. lit <i>h</i><i>v</i>azî<i>d</i>, qu'il identifie au persan '<i>h</i>azîd, 'caché, p. 75 isolé' ; et qui pourrait aussi être pris dans le sens de quelqu'un qui a 'rampé', c'est-à-dire un jeune enfant ; mais l'identification est douteuse.
+[^6]: (74:5) Nêr. lit <i>h</i><i>v</i>azî<i>d</i>, qu'il identifie au persan '<i>h</i>azîd, « caché, p. 75 isolé » ; et qui pourrait aussi être pris dans le sens de quelqu'un qui a « rampé », c'est-à-dire un jeune enfant ; mais l'identification est douteuse.
 
 [^7]: (75:1) L19 a « garde ».
 
@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^10]: (75:4) L19 a « helper ».
 
-[^11]: (75:5) L19 a <i>h</i><i>v</i>ad-dôshî, 'orgueil'.
+[^11]: (75:5) L19 a <i>h</i><i>v</i>ad-dôshî, « orgueil ».
 
 [^12]: (75:6) Voir Chap. XXXVI, 29 n.
 

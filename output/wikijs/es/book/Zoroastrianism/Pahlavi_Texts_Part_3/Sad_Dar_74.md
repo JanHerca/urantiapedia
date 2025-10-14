@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXIV.
+## SAD DAR. CAPÍTULO LXXIV.
 
 1\. El septuagésimo cuarto tema es este: al amanecer, al despertar, primero es necesario echarse algo [^1] en las manos, es decir, la <span id="p338"><sup><small>[ p. 338 ]</small></sup></span> purificación de manos [^2]. 2. Después, deben lavarse las manos con agua hasta que queden completamente limpias, de tal manera que deben lavarse las manos tres veces desde el antebrazo (sâ'hid) hasta la punta de la mano; y la cara se lava desde detrás de las orejas hasta debajo de la barbilla y hasta la coronilla; y se lavan los pies tres veces a fondo, hasta la pierna (sâq); luego se recita el K<i>e</i>m-nâ-mazdâ [^3].
 
@@ -68,12 +68,12 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (337:5) Según el Sad Dar de métrica larga, este «algo» (como en el cap. L) es Nîrang, el líquido ritual u orina de toro consagrada (véase cap. XXXVI, 7 n). Este capítulo es, en cierta medida, una repetición del cap. L.
 
-[^2]: (338:1) Lp añade 'o alguna hierba sobre la cual no haya caído agua, o fruto, también debe entrar en la nariz _y_ los ojos, _y_ limpiarlos' (véase Cap. L, 2).
+[^2]: (338:1) Lp añade «o alguna hierba sobre la cual no haya caído agua, o fruto, también debe entrar en la nariz _y_ los ojos, _y_ limpiarlos» (véase Cap. L, 2).
 
 [^3]: (338:2) Véase Cap. XXXV, 2 n.
 
 [^4]: (338:3) El saludo al sol (ver Cap. VI, 2).
 
-[^5]: (338:4) B29 inserta 'la cara y'.
+[^5]: (338:4) B29 inserta «la cara y».
 
 [^6]: (338:5) B29 omite el § 4.

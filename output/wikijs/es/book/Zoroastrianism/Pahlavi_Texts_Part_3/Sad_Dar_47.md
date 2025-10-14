@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XLVII.
+## SAD DAR. CAPÍTULO XLVII.
 
 1\. El tema cuadragésimo séptimo es este, que, cuando un niño de siete años muere, es necesaria una orden que exige realizar una ceremonia (ya<i>s</i>t) _para_ Srôsh [^1] a causa de ello, _y_ consagrar el pastel sagrado de la cuarta noche [^2].
 

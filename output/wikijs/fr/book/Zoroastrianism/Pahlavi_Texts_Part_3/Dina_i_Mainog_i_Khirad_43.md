@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1]: (83:2) Lecture de dû<i>s</i>\-vahâk. Nêr. a mal lu le mot du<i>s</i>\-ga<i>n</i>d, 'malodorant', ici et dans les §§ 5, 14.
+[^1]: (83:2) Lecture de dû<i>s</i>\-vahâk. Nêr. a mal lu le mot du<i>s</i>\-ga<i>n</i>d, « malodorant », ici et dans les §§ 5, 14.
 
 [^2]: (84:1) L19 répète « faire », mais cela n'est pas plus nécessaire en pahlavi qu'en anglais.
 

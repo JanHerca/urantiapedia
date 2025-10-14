@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE IX.
+## SAD DAR. CHAPITRE IX.
 
 1\. Le neuvième point est qu'il est nécessaire de s'abstenir de commettre ou de permettre des relations sexuelles contre nature [1]. 2. Car c'est là le principal de tous les péchés dans la religion : il n'y a pas de péché plus grave que celui-là dans la bonne religion, et il convient de déclarer ceux qui le commettent dignes de mort en réalité.
 

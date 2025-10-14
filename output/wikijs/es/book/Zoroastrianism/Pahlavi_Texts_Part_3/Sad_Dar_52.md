@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LII.
+## SAD DAR. CAPÍTULO LII.
 
-1\. El quincuagésimo segundo tema es este: es obligación de todos que, cada año, al llegar el mes de Fravardîn, preparen un pastel sagrado el día de Khurdâ<i>d</i> [^1], y lo que puedan traer, un poco de todo, lo coloquen junto a ese pastel sagrado y lo consagren con la fórmula dedicatoria Ayaranãm<i>k</i>a [^2], para que los asuntos de ese año mejoren gracias a la provisión de ese día y a la llegada de invitados.
+1\. El quincuagésimo segundo tema es este: es obligación de todos que, cada año, al llegar el mes de Fravardîn, preparen un pastel sagrado el día de Khurdâ<i>d</i> [^1], y lo que puedan traer, un poco de todo, lo coloquen junto a ese pastel sagrado y lo consagren con la fórmula dedicatoria Ayaranãm<i>k</i>a [^2], para <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> que los asuntos de ese año mejoren gracias a la provisión de ese día y a la llegada de invitados.
 
 2\. Porque se declara en la revelación [^3] que, cada año, al llegar el día Khurdâ<i>d</i> del mes Fravardîn, se asigna una provisión diaria para la humanidad, y se anota ese día lo que se desee transmitir a la humanidad en ese año. 3. Por lo tanto, cuando consagran este pastel sagrado, el arcángel Khurdâ<i>d</i> [^4] intercede por esa persona.
 
@@ -68,6 +68,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (314:2) Corregido de airyanãm<i>k</i>a en todos los manuscritos. Véase Af. I, 1 hasta saredhanãm<i>k</i>a, luego gâthâbyô, etc. (Âf. II, 1).
 
-[^3]: (315:1) B29 tiene 'en la buena religión'.
+[^3]: (315:1) B29 tiene «en la buena religión».
 
 [^4]: (315:2) Véase Ho<i>r</i>vada<i>d</i> (Mkh. II, 34).

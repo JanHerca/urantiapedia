@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Quelle est l'affaire des bienfaisants [^1], des artisans ? »
 
-3\. L'esprit de sagesse répondit (4) ainsi : « Le métier des artisans est ceci : (5) que, quant à ce travail qu'ils ne comprennent pas, ils n'y mettent pas la main ; (6) et ce qu'ils comprennent bien (hû-dânend), ils l'exécutent bien et avec attention ; (7) et ils exigent un salaire légitime. (8) Car, quant à celui qui persiste à faire ce travail qu'il ne comprend pas, c'est lui qui gâche ce travail et le rend inutile ; et lorsque, de plus, c'est un homme dont le travail le satisfait, il devient alors même une source de péché pour lui. »
+3\. L'esprit de sagesse répondit (4) ainsi : « Le métier des artisans est ceci : (5) que, quant à ce travail qu'ils ne comprennent pas, ils n'y mettent pas la main ; (6) et ce qu'ils comprennent bien [^2] <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> (hû-dânend), ils l'exécutent bien et avec attention ; (7) et ils exigent un salaire légitime. (8) Car, quant à _celui_ qui persiste à faire ce travail [^3] qu'il ne comprend pas, c'est lui qui gâche ce travail et le rend inutile ; et lorsque, de plus, c'est un homme dont le travail le satisfait, il devient alors même une source de péché pour lui. »
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XVII.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Cuál es ese placer que es peor que la infelicidad?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Cuál es ese placer que es peor que la infelicidad?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Quienquiera que haya adquirido riqueza mediante el crimen, y se alegre de ello [^1], entonces ese placer es peor para él que la infelicidad».
 
@@ -64,4 +64,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (49:5) Probablemente se quiere decir 'contento del crimen a causa de la riqueza'.
+[^1]: (49:5) Probablemente se quiere decir «contento del crimen a causa de la riqueza».

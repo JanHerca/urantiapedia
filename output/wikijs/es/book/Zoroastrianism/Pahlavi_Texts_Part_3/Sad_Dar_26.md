@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXVI.
+## SAD DAR. CAPÍTULO XXVI.
 
 1\. El vigésimo sexto tema es este: los sabios y los antiguos dicen que cuando un hombre cumple quince años es necesario que tome <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> a uno de los ángeles [^1] como su propia protección [^2], que tome a uno de los sabios como su propio sabio, y que tome a uno de los sumos sacerdotes y sacerdotes oficiantes como su propio sumo sacerdote. 2. De modo que, si en algún momento se acerca un duelo (âstânah), puede pedir un favor a los arcángeles [^3], para que le proporcione [^4] una salida de ese duelo. 3. Y [^5], cada vez que surge un asunto, y _él tiene_ [^6] que tener opinión (râî) _y_ consejo (ma<i>s</i>varat), consulta con ese sabio, mientras el sabio le dice _su_ opinión (tadbîr). 4. Y, si surge alguna _pregunta sobre_ lo apropiado e inapropiado, habla con ese sumo sacerdote, para que este _pueda_ responderle.
 
@@ -64,20 +64,20 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (289:1) La, Lp tienen 'antiguos', pero esto parece inconsistente con § 2.
+[^1]: (289:1) La, Lp tienen «antiguos», pero esto parece inconsistente con § 2.
 
-[^2]: (289:2) La tiene 'ancestro', habiendo leído ba-niyâh en lugar de panâh.
+[^2]: (289:2) La tiene «ancestro», habiendo leído ba-niyâh en lugar de panâh.
 
-[^3]: (289:3) Lp, B29, J15 añaden 'y pueden proporcionar salud al cuerpo y seguridad'.
+[^3]: (289:3) Lp, B29, J15 añaden «y pueden proporcionar salud al cuerpo y seguridad».
 
-[^4]: (289:4) Lp, B29, J15 tienen 'para que _puedan_ abastecerlo'.
+[^4]: (289:4) Lp, B29, J15 tienen «para que _puedan_ abastecerlo».
 
-[^5]: (289:5) Lp, B29 inserta 'si'.
+[^5]: (289:5) Lp, B29 inserta «si».
 
-[^6]: (289:6) Lp, B29 tiene 'es necesario'.
+[^6]: (289:6) Lp, B29 tiene «es necesario».
 
-[^7]: (289:7) B29 tiene que 'perdonar un tercio de los pecados que comete la humanidad'.
+[^7]: (289:7) B29 tiene que «perdonar un tercio de los pecados que comete la humanidad».
 
-[^8]: (289:8) Lp tiene 'igualmente'.
+[^8]: (289:8) Lp tiene «igualmente».
 
-[^9]: (290:1) Lp, B29 tienen 'es'.
+[^9]: (290:1) Lp, B29 tienen «es».

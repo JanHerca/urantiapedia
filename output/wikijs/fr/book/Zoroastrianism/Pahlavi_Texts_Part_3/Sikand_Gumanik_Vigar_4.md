@@ -104,9 +104,9 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (128:1) Av. gadha, terme désignant « un brigand » qui est utilisé en conjonction avec les sorcières et autres êtres maléfiques dans le Srôsh Yt. Hâ<i>d</i>ôkht, 5, 6.
 
-[^3]: (128:2) En supposant que le Pâz. frawast (fravast au § 16) représente Pahl. parvast, comme dans les chap. VIII, 96, 97, XIV, 73, XVI, 56, 60, 66-69, 71, 72 ; mais comme Nêr. utilise les sans. prasarpita, pravish<i>t</i>a, pravartita, samudgata et samutpatita pour traduire le mot, il a dû supposer qu'il représentait fra<i>z</i>ast (Pahl. fra<i>g</i>ast, 'jaillissait').
+[^3]: (128:2) En supposant que le Pâz. frawast (fravast au § 16) représente Pahl. parvast, comme dans les chap. VIII, 96, 97, XIV, 73, XVI, 56, 60, 66-69, 71, 72 ; mais comme Nêr. utilise les sans. prasarpita, pravish<i>t</i>a, pravartita, samudgata et samutpatita pour traduire le mot, il a dû supposer qu'il représentait fra<i>z</i>ast (Pahl. fra<i>g</i>ast, « jaillissait »).
 
-[^4]: (129:1) Sans. 'se retirera', comme si Nêr. comprenait que le pronom 'son' se référait au bon esprit, au lieu du mauvais ; l'application des pronoms dans les §§ 14, 15 n'étant en aucun cas claire dans le texte original.
+[^4]: (129:1) Sans. « se retirera », comme si Nêr. comprenait que le pronom « son » se référait au bon esprit, au lieu du mauvais ; l'application des pronoms dans les §§ 14, 15 n'étant en aucun cas claire dans le texte original.
 
 [^5]: (129:2) Les représentants spirituels des luminaires, qui sont des anges.
 
@@ -154,11 +154,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^27]: (133:4) Le démon de la sécheresse (voir Bd. VII, 8, 10, 12, XXVIII, 39). Ces deux conflits représentent la lutte entre la pluie et la sécheresse, qui culmine dans l'orage ; Tî<i>s</i>tar (Sirius) étant le porteur de la pluie.
 
-[^28]: (133:5) Ainsi dans AK, PB3, MH19, mais d'autres MSS. ont mâr, 'serpent', au lieu de mar, bien que Nêr. utilise le sans. n_ri_<i>s</i>a<i>m</i>sa.
+[^28]: (133:5) Ainsi dans AK, PB3, MH19, mais d'autres MSS. ont mâr, « serpent », au lieu de mar, bien que Nêr. utilise le sans. n_ri_<i>s</i>a<i>m</i>sa.
 
 [^29]: (133:6) Qui se manifeste dans le monde qui nous entoure.
 
-[^30]: (135:1) Nêr. a 'du piège' en sanskrit. Le Pâz. dãm, signifiant à la fois 'créature' et 'piège'.
+[^30]: (135:1) Nêr. a « du piège » en sanskrit. Le Pâz. dãm, signifiant à la fois « créature » et « piège ».
 
 [^31]: (135:2) Lire bûn ga<i>s</i>tak au lieu de bûn ya<i>s</i>tak, car le mot ne fait évidemment référence à aucune forme de culte. On ne peut le traduire par « perversion originelle » (un sens possible du mot) car il y en a deux (voir § 103 et chap. VIII, 101), l'une en compétition avec l'autre (voir chap. VIII, 1), ce qui, l'une étant ici qualifiée de mauvaise, implique que l'autre est bonne et ne peut donc être une perversion ; ce terme ne serait pas applicable non plus aux chap. VI, 6 ou XV, 56.
 
@@ -170,13 +170,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^35]: (136:1) Comme indiqué dans le § 72.
 
-[^36]: (136:2) Lecture adîna<i>s</i>, 'alors pour cela', qui est le Pahlavi original indiqué par le Pâz. ainâ de Nêr. (voir Mkh. IX, 6 n).
+[^36]: (136:2) Lecture adîna<i>s</i>, « alors pour cela », qui est le Pahlavi original indiqué par le Pâz. ainâ de Nêr. (voir Mkh. IX, 6 n).
 
 [^37]: (136:3) Voir § 12.
 
 [^38]: (136:4) Comparer Chap. XII, 79.
 
-[^39]: (137:1) Nêr. divise le mot gan<i>g</i>ôbar, 'trésorier', en trois mots gan<i>g</i> u bar, 'trésorer et produire'. Ces trésoriers sont les esprits féminins qui rencontrent l'âme après la mort, avec ses réserves de bonnes œuvres et de péchés (voir Dd. XXIV, 5, XXV, 5), et symbolisent sa bonne et sa mauvaise conscience, représentées respectivement par une belle jeune fille et une effrayante sorcière.
+[^39]: (137:1) Nêr. divise le mot gan<i>g</i>ôbar, « trésorier », en trois mots gan<i>g</i> u bar, « trésorer et produire ». Ces trésoriers sont les esprits féminins qui rencontrent l'âme après la mort, avec ses réserves de bonnes œuvres et de péchés (voir Dd. XXIV, 5, XXV, 5), et symbolisent sa bonne et sa mauvaise conscience, représentées respectivement par une belle jeune fille et une effrayante sorcière.
 
 [^40]: (137:2) L'accusateur est toute personne ou tout objet de la bonne création qui a été lésé par un péché, et qui doit être satisfait par l'expiation avant que le péché puisse être remis. La question à trancher, donc, lorsque le compte de l'âme est rendu, est de savoir si ses bonnes œuvres suffisent à expier ses péchés. Dans ce cas, le trésorier des offenses représente les accusateurs.
 

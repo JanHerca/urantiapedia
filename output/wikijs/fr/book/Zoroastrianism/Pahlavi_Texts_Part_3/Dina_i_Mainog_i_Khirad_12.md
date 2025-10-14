@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (37:2) Littéralement, « est ».
 
-[^2]: (38:1) Littéralement, 'Mit<i>r</i>ô', l'ange du soleil.
+[^2]: (38:1) Littéralement, « Mit<i>r</i>ô », l'ange du soleil.
 
 [^3]: (38:2) Voir Chap. VIII, 17-21.
 

@@ -72,4 +72,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (296:4) Une strophe de l'U<i>s</i>tavaiti Gâtha (Vas. XLV, 7) commençant par ces trois mots (voir SBE, vol. xviii, p. 443).
 
-[^5]: (296:5) Ou nisrû<i>s</i>t, 'contamination' (voir. Sls. X, 32) ; probablement le même que le démon Nas ou Nasu (voir Bd. XXVIII, 29). Également mentionné au chap. XXXVI, 7.
+[^5]: (296:5) Ou nisrû<i>s</i>t, « contamination » (voir. Sls. X, 32) ; probablement le même que le démon Nas ou Nasu (voir Bd. XXVIII, 29). Également mentionné au chap. XXXVI, 7.

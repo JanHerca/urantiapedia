@@ -78,7 +78,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (42:3) Les personnes qui sont totalement incapables d'accomplir de bonnes œuvres sont censées avoir droit à une part de toutes les bonnes œuvres surérogatoires accomplies par d'autres (voir Sls. VI, 1, 2), mais la répartition de ces bonnes œuvres imputées semble être à la discrétion des anges qui les gardent en réserve (voir Sls. VIII, 4).
 
-[^4]: (42:4) Nêr. a 'fait des dépenses pour', en lisant khvazînak, comme au chap. XIII, 3.
+[^4]: (42:4) Nêr. a « fait des dépenses pour », en lisant khvazînak, comme au chap. XIII, 3.
 
 [^5]: (42:5) Le § 8 n'apparaît pas dans L19, mais se trouve dans TD2, PA10 et MH7.
 
@@ -88,7 +88,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^8]: (43:3) TD2 omet « maintient », comme cela est suffisamment exprimé par le même verbe Pahl « garde » dans § 19 ; et. L19 omet « par la loi ».
 
-[^9]: (44:1) Lecture dâ<i>d</i>ŏ-gôbîh, 'prononcer la loi', ou 'parler de dons', au lieu de Pâz. <i>g</i>âda<i>n</i>gôî, une mauvaise lecture de Nêr. pour Pahl. yêdatô-gôbîh, parler de l'être sacré.
+[^9]: (44:1) Lecture dâ<i>d</i>ŏ-gôbîh, « prononcer la loi », ou « parler de dons », au lieu de Pâz. <i>g</i>âda<i>n</i>gôî, une mauvaise lecture de Nêr. pour Pahl. yêdatô-gôbîh, parler de l'être sacré.
 
 [^10]: (44:2) La manière habituelle de traiter les non-conformistes à toutes les époques et dans toutes les sectes, lorsque l'esprit de parti est fort. TD2 a « le livre pour le bien du corps et de l'âme ».
 

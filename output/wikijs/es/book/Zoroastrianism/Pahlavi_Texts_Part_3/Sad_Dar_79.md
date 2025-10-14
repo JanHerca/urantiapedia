@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXIX.
+## SAD DAR. CAPÍTULO LXXIX.
 
 1\. El tema septuagésimo noveno es este: que es necesario esforzarse para que ejerzan munificencia y liberalidad hacia los buenos y dignos. 2. Porque el ejercicio de la liberalidad es grandioso, en la medida en que es mejor y más placentero, de igual manera, para el suelo que pisa un hombre liberal, mejor para el viento que sopla sobre él, mejor para el caballo que monta un hombre liberal, mejor, de igual manera, para la vaca y la cabra que [^1] come un hombre liberal, y [^2] más placentero para el sol, la luna y las estrellas que brillan sobre él.
 
@@ -66,12 +66,12 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (342:2) B29 tiene 'cuya leche', y Lp agrega además 'y mantequilla'.
+[^1]: (342:2) B29 tiene «cuya leche», y Lp agrega además «y mantequilla».
 
-[^2]: (342:3) B29 inserta 'mejor y'.
+[^2]: (342:3) B29 inserta «mejor y».
 
-[^3]: (342:4) Lp, B29 tienen 'afirma'.
+[^3]: (342:4) Lp, B29 tienen «afirma».
 
-[^4]: (343:1) B29 omite 'en el cielo'.
+[^4]: (343:1) B29 omite «en el cielo».
 
-[^5]: (343:2) B29 tiene 'además de por el uno'.
+[^5]: (343:2) B29 tiene «además de por el uno».

@@ -70,7 +70,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 ## Footnotes
 
-[^1]: (105:4) Literally ‘the well-endeavouring,’ the lowest of the four classes of the community here mentioned (see also Chaps. XXXI, X).XII).
+[^1]: (105:4) Literally ‘the well-endeavouring,’ the lowest of the four classes of the community here mentioned (see also Chaps. XXXI, X, XII).
 
 [^2]: (106:1) Or, perhaps, ‘usuriousness.’ The Sanskrit version has ‘laziness,’ as if Nêr. had read âsû<i>d</i>akîh.
 

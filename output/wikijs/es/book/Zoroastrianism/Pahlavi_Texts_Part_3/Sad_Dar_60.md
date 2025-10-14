@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LX.
+## SAD DAR. CAPÍTULO LX.
 
 1\. El sexagésimo tema es este: que mantenemos la religión buena y pura de los adoradores de Ma<i>z</i><i>d</i>a [^1], para que nuestras almas puedan escapar del infierno [^2]. 2. Y estamos completamente unidos en la esperanza, y mediante la investigación (ta'hqîq) comprendemos plenamente que, cuando nos mantenemos firmes en la buena religión, llegamos al cielo. 3. Y sabemos que la llegada al cielo ocurre mediante acciones virtuosas, y mediante ellas nos salvamos; para que pensemos en el bien [^3], hablemos del bien y hagamos el bien.
 
@@ -66,9 +66,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (321:2) Lp tiene 'a través de la esperanza'.
+[^1]: (321:2) Lp tiene «a través de la esperanza».
 
-[^2]: (321:3) B29, J15 tienen 'que en la buena _y_ religión pura de los adoradores de Ma<i>z</i><i>d</i>a se declara que mantenemos la esperanza de que el alma _pueda_ obtener escape del infierno.'
+[^2]: (321:3) B29, J15 tienen «que en la buena _y_ religión pura de los adoradores de Ma<i>z</i><i>d</i>a se declara que mantenemos la esperanza de que el alma _pueda_ obtener escape del infierno.»
 
 [^3]: (321:4) La pone el pensamiento del bien en último lugar de los tres.
 

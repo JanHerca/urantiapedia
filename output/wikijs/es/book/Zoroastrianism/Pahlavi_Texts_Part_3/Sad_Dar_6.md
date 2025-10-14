@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p264"><sup><small>[ pág. 264 ]</small></sup></span>
 
-## TRISTE DAR. CAPÍTULO VI.
+## SAD DAR. CAPÍTULO VI.
 
 1\. El sexto tema es este, que de las muchas buenas obras hay aquellas que, cuando se realizan _las_, obtienen grandes ('ha_th_îm) recompensas; _y_ si _uno_ no las realiza_, un castigo severo se apodera de _uno_ a la cabeza del puente <i>K</i>inva<i>d</i> [^1]. 2. Una es _la celebración de_ las festividades estacionales [^2]; la segunda es guardar _los días de_ los espíritus guardianes [^3]; la tercera es _atender_ a las almas de los padres, madres, _y_ otros parientes [^4]; la cuarta es _recitar_ el Khûrshê<i>d</i> Nyâyi<i>s</i> [^5] tres veces al día; el quinto es _recitar_ el Mâh Nyâyi<i>s</i> [^6] tres veces al mes, una vez cuando se vuelve nuevo, una vez cuando se llena y una vez cuando se vuelve delgado [^7]; _y_ el sexto es celebrar la _ceremonia_ de Rapithwin [^8] una vez al año. 3. Si no puede celebrarlas usted mismo, es necesario ordenarlas, para que _puedan_ celebrarlas cada vez [^9].
 
@@ -80,18 +80,18 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^6]: (264:6) El saludo a la luna.
 
-[^7]: (264:7) En Gu<i>g</i>arâti 'en el último día'.
+[^7]: (264:7) En Gu<i>g</i>arâti «en el último día».
 
 [^8]: (264:8) El período del mediodía.
 
-[^9]: (264:9) Lp, B29 tiene 'celebrarlos por su causa'.
+[^9]: (264:9) Lp, B29 tiene «celebrarlos por su causa».
 
-[^10]: (264:10) B29 inserta 'o si es aquello que, una vez omitido.'
+[^10]: (264:10) B29 inserta «o si es aquello que, una vez omitido.»
 
-[^11]: (264:11) B29 simplemente tiene 'si otra vez'.
+[^11]: (264:11) B29 simplemente tiene «si otra vez».
 
-[^12]: (264:12) Lp, B29 tiene '_uno_ no considera'; los copistas, al tener p. 265, no se dieron cuenta de que la retribución y la expiación son ventajosas en este caso, porque salvan el alma del castigo.
+[^12]: (264:12) Lp, B29 tiene «_uno_ no considera»; los copistas, al tener p. 265, no se dieron cuenta de que la retribución y la expiación son ventajosas en este caso, porque salvan el alma del castigo.
 
-[^13]: (265:1) Lp, B29 no tiene 'ninguna buena obra reside'.
+[^13]: (265:1) Lp, B29 no tiene «ninguna buena obra reside».
 
-[^14]: (265:2) Lp, B29 tiene 'que lo liberará del tormento y del castigo'.
+[^14]: (265:2) Lp, B29 tiene «que lo liberará del tormento y del castigo».

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XCIII.
+## SAD DAR. CAPÍTULO XCIII.
 
 1\. El tema nonagésimo tercero es éste: es necesario que todos los de buena religión practiquen la abstinencia de proferir calumnias (_gh_aîbat) a las espaldas [^1].
 
@@ -66,14 +66,14 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (356:2) Literalmente 'cara'.
+[^1]: (356:2) Literalmente «cara».
 
-[^2]: (356:3) B29 inserta 'la perpetración de'.
+[^2]: (356:3) B29 inserta «la perpetración de».
 
-[^3]: (356:4) B29, J15 tienen 'un gran pecado'.
+[^3]: (356:4) B29, J15 tienen «un gran pecado».
 
 [^4]: (356:5) Véase Cap. LXXI.
 
 [^5]: (356:6) Por lo tanto se diferencia del pecado de comer materia muerta.
 
-[^6]: (356:7) Lp, B29 tiene 'mostrar en el momento de'.
+[^6]: (356:7) Lp, B29 tiene «mostrar en el momento de».

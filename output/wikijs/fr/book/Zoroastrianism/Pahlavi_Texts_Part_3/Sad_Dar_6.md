@@ -80,7 +80,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^6]: (264:6) La salutation de la lune.
 
-[^7]: (264:7) In Gu<i>g</i>arâti 'le dernier jour'.
+[^7]: (264:7) In Gu<i>g</i>arâti « le dernier jour ».
 
 [^8]: (264:8) La période de midi.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^11]: (264:11) B29 a simplement « si une autre fois ».
 
-[^12]: (264:12) Lp, B29 ont '_on_ ne considère pas'; les copistes ayant p. 265 omis de remarquer que la rétribution et l'expiation sont avantageuses dans ce cas, car elles sauvent l'âme de la punition.
+[^12]: (264:12) Lp, B29 ont « _on_ ne considère pas »; les copistes ayant p. 265 omis de remarquer que la rétribution et l'expiation sont avantageuses dans ce cas, car elles sauvent l'âme de la punition.
 
 [^13]: (265:1) Lp, B29 n'ont « aucun bon travail restant ».
 

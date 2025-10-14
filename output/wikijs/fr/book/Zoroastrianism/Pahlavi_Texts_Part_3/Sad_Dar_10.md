@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE X.
+## SAD DAR. CHAPITRE X.
 
 I. Le dixième sujet est celui-ci, qu'il incombe à tous ceux de la bonne religion, femmes et hommes, à quiconque atteint quinze ans, de porter la ceinture sacrée [^1]. 2. Parce que la ceinture sacrée doit être une ceinture des reins et préserver l'obéissance (<i>t</i>â'hat) au Seigneur, qu'il soit honoré et glorifié ('hazza va <i>g</i>alla) !
 

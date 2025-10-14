@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXI.
+## SAD DAR. CAPÍTULO LXXI.
 
 1\. El tema septuagésimo primero es este: que, puesto que no es deseable que nadie coma materia muerta con fines medicinales o curativos, que tenga cuidado (zinhâr) cuando la coma [^1].
 
@@ -64,8 +64,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (336:4) B29 tiene 'cuidado de que no lo coman'.
+[^1]: (336:4) B29 tiene «cuidado de que no lo coman».
 
 [^2]: (336:5) Quizás aludiendo a Pahl. Vend. VII, 59-64.
 
-[^3]: (336:6) B29 tiene 'que demoler su casa y morada si alguien la tiene'.
+[^3]: (336:6) B29 tiene «que demoler su casa y morada si alguien la tiene».

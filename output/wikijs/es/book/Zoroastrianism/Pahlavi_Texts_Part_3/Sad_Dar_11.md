@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XI.
+## SAD DAR. CAPÍTULO XI.
 
 1\. El undécimo tema es este: es necesario mantener la chimenea [^1] adecuadamente y vigilar [^2] para que el fuego no se apague y nada contaminado o impuro llegue a él; y es necesario que una mujer menstruante evite estar a menos de tres pasos de él. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> 2\. Porque cada vez que se mantiene adecuadamente una chimenea, la cual se encuentra dentro de una vivienda, todo fuego que se encuentra en la tierra de las siete regiones se complace con esas personas, y, cuando piden un favor o una necesidad ('hâ<i>g</i>at), se activa rápidamente. 3. Y cada vez que alguien no lo mantiene adecuadamente, todo fuego que está en la tierra de las siete regiones recibe daño de esa persona, y la necesidad que implora no se hace efectiva. 4. Si alguien no mantiene el fuego adecuadamente, si da cien dinares [^3] al fuego Gu<i>s</i>asp [^4] _no hay_ aceptación de ello, y ese pecado no se aparta de él.
 
@@ -66,7 +66,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (270:3) O, quizás, 'el incendio de la casa'.
+[^1]: (270:3) O, quizás, «el incendio de la casa».
 
 [^2]: (270:4) B29 omite estas cuatro palabras.
 
@@ -74,8 +74,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^4]: (271:2) Uno de los tres fuegos más sagrados (véase Bd. XVII, 7).
 
-[^5]: (271:3) Lp, B29 tiene 'en la buena religión'.
+[^5]: (271:3) Lp, B29 tiene «en la buena religión».
 
-[^6]: (271:4) Av. asha vahi<i>s</i>ta, 'rectitud perfecta', quien se supone que protege, fuego (ver Bd. I, 26, Sls. XV, 12).
+[^6]: (271:4) Av. asha vahi<i>s</i>ta, «rectitud perfecta», quien se supone que protege, fuego (ver Bd. I, 26, Sls. XV, 12).
 
 [^7]: (271:5) Es decir, tres dirhams y medio en plata, o casi una rupia y cuarto.

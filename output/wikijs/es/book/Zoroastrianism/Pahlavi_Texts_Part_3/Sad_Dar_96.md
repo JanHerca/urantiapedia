@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XCVI.
+## SAD DAR. CAPÍTULO XCVI.
 
 1\. El nonagésimo sexto tema es este: cuando alguien parte hacia ese otro mundo, no es apropiado que otros profieran un grito, mantengan su dolor y se lamenten y lloren. 2. Porque cada lágrima que brota de los ojos se convierte en una gota de ese río [^1] ante el puente <i>K</i>invadido <span id="p359"><sup><small>[ p. 359 ]</small></sup></span>, y entonces el alma de esa persona fallecida permanece en ese lugar; le es difícil llegar hasta allí, y no puede cruzar el puente <i>K</i>invadido. 3. Por lo tanto, es necesario que reciten el Avesta y celebren la ceremonia, para que el paso por ese lugar le resulte fácil.
 

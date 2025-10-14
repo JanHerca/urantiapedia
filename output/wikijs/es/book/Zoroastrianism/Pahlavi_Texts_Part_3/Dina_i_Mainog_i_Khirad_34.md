@@ -36,9 +36,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XXXIV.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Ha producido el creador Aûha<i>r</i>ma<i>z</i><i>d</i> la creación de algo para la existencia mundana [^1], a lo cual Aharman no es capaz de causar perturbación?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Ha producido el creador Aûha<i>r</i>ma<i>z</i><i>d</i> la creación de algo para la existencia mundana [^1], a lo cual Aharman no es capaz de causar perturbación?»
 
-3\. El espíritu de sabiduría respondió (4) así: 'A quien es sabio y está contento es _sólo_ poco posible causarle perturbaciones.'
+3\. El espíritu de sabiduría respondió (4) así: «A quien es sabio y está contento es _sólo_ poco posible causarle perturbaciones.»
 
 <figure class="table chapter-navigator">
   <table>

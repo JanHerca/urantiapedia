@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXVII.
+## SAD DAR. CAPÍTULO LXXVII.
 
-1\. El tema septuagésimo séptimo es que, cuando el bebé de una mujer nace muerto, es necesario darle primero algo lavado con ceremonia y traído con cenizas de fuego [^1], para que purifique su corazón. 2. Después, durante tres días, es totalmente impropio darle agua, ni nada que contenga agua o sal. 3. Y estos tres días se suceden de un período a otro [^2], de tal manera que, si se ha cumplido la oración del mediodía [^3], se extienden hasta la oración del mediodía, y ella debe esperar una hora más, y entonces es apropiado beber agua. 4. Después de eso, hasta que transcurran cuarenta días, ella deberá sentarse aparte nuevamente y, después, someterse a la ceremonia de Bareshnûm [^4].
+1\. El tema septuagésimo séptimo es que, cuando el bebé de una mujer nace muerto, es necesario darle primero algo lavado con ceremonia y traído con cenizas de fuego [^1], para que purifique su corazón. 2. Después, durante tres días, es totalmente impropio darle agua, ni nada que contenga agua o sal. 3. Y estos tres días se suceden de un período a otro [^2], de tal manera que, <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> si se ha cumplido la oración del mediodía [^3], se extienden hasta la oración del mediodía, y ella debe esperar una hora más, y entonces es apropiado beber agua. 4. Después de eso, hasta que transcurran cuarenta días, ella deberá sentarse aparte nuevamente y, después, someterse a la ceremonia de Bareshnûm [^4].
 
 5\. _Cuando_ el infante se convierte en un _niño_ de cuatro meses, siempre que _nace muerto_ es un _cuerpo_ muerto_ [^5], por la razón de que mientras no llega al cuarto mes la vida no le llega. 6. Y si después de tres meses ocurre esto, _uno debe_ tener gran precaución (i'htiyâ<i>t</i>) e insistir estrictamente en este asunto.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (340:4) Es decir, desde la hora dada hasta la misma hora del tercer día, aunque, de lo que sigue, parece que, si la hora dada estuviera a mitad de cualquier período del día, el tercer día expiraría al comienzo del tercer período similar. No está muy claro si los tres días deben incluir o excluir el día en que comienza el plazo, es decir, si el plazo debe ser de aproximadamente 48 o 72 horas.
 
-[^3]: (341:1) Literalmente 'anterior, temprano'.
+[^3]: (341:1) Literalmente «anterior, temprano».
 
 [^4]: (341:2) Véase Cap. XXXVI, 1 n.
 

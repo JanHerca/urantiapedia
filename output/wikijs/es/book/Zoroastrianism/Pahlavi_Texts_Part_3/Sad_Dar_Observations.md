@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## OBSERVACIONES.
 
-1\. La división en dars, 'capítulos o temas', se indica en los manuscritos originales; pero el traductor es responsable de la división de las secciones, ya que las subdivisiones del texto alternado persa-guarati a menudo difieren de su significado.
+1\. La división en dars, «capítulos o temas», se indica en los manuscritos originales; pero el traductor es responsable de la división de las secciones, ya que las subdivisiones del texto alternado persa-guarati a menudo difieren de su significado.
 
 2-6. (Igual que en la página [2](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Observaciones_Dina_i_Mainog_i_Khirad#p2).)
 

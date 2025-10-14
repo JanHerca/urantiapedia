@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE LXXXIV.
 
-1\. Le quatre-vingt-quatrième sujet est le suivant : lorsqu'ils veulent dormir, il est nécessaire de prononcer un Yathâ-ahû-vairyô et un Ashem-vohû [^1], et pour accomplir le repentir, il faut parler ainsi : « Je suis triste, je me repens et je renonce à tout ce péché que j'ai dit et qui a été imaginé par moi et qui m'a assailli ; je renonce à ces actions [^2]. »
+1\. Le quatre-vingt-quatrième sujet est le suivant : lorsqu'ils veulent dormir, il est nécessaire de prononcer un Yathâ-ahû-vairyô et un Ashem-vohû [^1], et pour accomplir le repentir, il faut parler ainsi : « Je suis triste, je me repens et je renonce à tout ce péché que j'ai dit et qui a été imaginé par <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> moi et qui m'a assailli ; je renonce à ces actions [^2]. »
 
 2\. Ensuite, on doit s'allonger ; et chaque fois qu'on agit de la manière que j'ai mentionnée, et qu'on porte la ceinture sacrée à la taille — tout en partageant équitablement l'ensemble des bonnes œuvres qu'ils accomplissent dans le monde entier pendant cette nuit, et qu'on a un mérite similaire [^3] — chaque souffle qu'on inspire et expire est une bonne œuvre d'un poids de trois dirhams. 3. _Et_ lorsqu'on se tourne d'un côté à l'autre, on doit, de la même manière, réciter un Ashem-vohû [^4].
 

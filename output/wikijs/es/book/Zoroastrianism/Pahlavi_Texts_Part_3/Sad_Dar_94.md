@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XCIV.
+## SAD DAR. CAPÍTULO XCIV.
 
 1\. El nonagésimo cuarto punto es este: cuando una persona otorga un beneficio o una bondad a alguien, es necesario que este comprenda su valor y se imponga la obligación (minnat); y, si puede, debe proporcionar un beneficio por esa cantidad (miqdâr) a esa persona.
 
@@ -64,10 +64,10 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (357:1) Lp, B29 añade 'el bueno _y_ propicio'.
+[^1]: (357:1) Lp, B29 añade «el bueno _y_ propicio».
 
-[^2]: (357:2) Lp, B29 tiene 'alabar'.
+[^2]: (357:2) Lp, B29 tiene «alabar».
 
-[^3]: (357:3) Lp, B29 añade 'los malditos'.
+[^3]: (357:3) Lp, B29 añade «los malditos».
 
 [^4]: (357:4) Probablemente se refiere al comentarista.

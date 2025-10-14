@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO L.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Cuál es esa persona opulenta que debe considerarse afortunada, y cuál es esa persona que debe considerarse malvada?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Cuál es esa persona opulenta que debe considerarse afortunada, y cuál es esa persona que debe considerarse malvada?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Quien ha producido opulencia mediante el esfuerzo adecuado debe ser considerado afortunado; y quien la ha producido mediante la deshonestidad, como mal intencionado».
 

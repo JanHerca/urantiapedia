@@ -50,7 +50,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 26\. De cette manière, on l'expose une seconde fois plus longuement. 27. Démontrer l'invisible à partir d'une chose visible, c'est comme si, à partir d'une chose faite et entretenue, qui ne sert pas domestiquement à celui qui l'a faite et entretenue, (28) et à partir d'une chose écrite, dont l'auteur n'est pas déclaré, (29) sont manifestes l'auteur de ce qui est fait, le mainteneur de ce qui est entretenu, et l'auteur de ce qui est écrit, qui sont inévitables, (30) car ce qui n'est pas manifeste et qui est invisible est démontré par ce qui est manifeste et visible.
 
-31\. L'information de ce qui est possible et apte à exister est crédible, (32) comme celle qu'on dit ainsi : « J'ai vu un homme par qui un lion, ou un lion par qui un homme, a été tué sur le coup. » 33. Et ceci, étant ce qui est dans les limites du possible et apte à exister, peut être un mensonge. 34. Mais lorsqu'un homme, réputé pour sa vérité et éprouvé par son jugement, annonce cette intelligence, elle est dans les limites de la vérité et de la réalité. 35. Si un homme, déshonoré par le mensonge et éprouvé par son mauvais jugement, l'annonce, elle est dans les limites du mensonge et de l'irréalité.
+31\. L'information de ce qui est possible et apte à exister est crédible, (32) comme celle qu'on dit ainsi : « J'ai vu un homme par qui un lion, ou un lion par qui un homme, a été tué <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> sur le coup. » 33. Et ceci, étant ce qui est dans les limites du possible et apte à exister, peut être un mensonge. 34. Mais lorsqu'un homme, réputé pour sa vérité et éprouvé par son jugement, annonce cette intelligence, elle est dans les limites de la vérité et de la réalité. 35. Si un homme, déshonoré par le mensonge et éprouvé par son mauvais jugement, l'annonce, elle est dans les limites du mensonge et de l'irréalité.
 
 36\. Un autre mode, en dehors de ceux-ci _et_ dans les limites de l'inévitable, est de savoir ce qui n'est pas arrivé _et_ n'est pas possible ; (37) comme ce qu'on dit ainsi : « Il est possible d'introduire le monde, en secret, dans l'intérieur d'un œuf », (38) ou « il est possible à un éléphant de passer dans le trou d'une aiguille », (39) _de telle manière _que_ l'un d'eux ne devienne réellement ni plus grand ni moins grand, (40) ou que _sa_ substance soit quelque chose qui n'est pas un rudiment.
 
@@ -58,7 +58,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 46\. Alors [^4] la connaissance de l'existence de celui qui est l'être sacré exalté, en dehors de la tangibilité de la nature et d'autres preuves, est par l'inévitable et l'analogie, (47) aussi visible devant la vue de la sagesse que par la prospérité [^5], la formation et l'organisation qui sont, selon différents <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> énoncés de plusieurs sortes, la formation des choses du monde et de l'humanité dont les particules, _et_ les appareils qui leur sont dus, sont tels que les éléments du corps _et_ de la vie, à partir desquels [^6] ils sont préparés _et_ formés, (48) qui sont le feu, l'eau, l'air, _et_ la terre, (49) qui sont, chacun séparément, un stimulus si qualifié et ennobli pour leurs propres opérations, (50) que l'opération du feu, par sa propre qualité (<i>k</i>îharîh) et sa noblesse (vâspûharakânîh), est telle que les opérations de l'eau, de l'air, _et_ de la terre ne doivent pas être stimulées sans restriction (atang) [^7] par elle. 51. Ainsi aussi, l'opération de l'eau, par sa propre qualité, est telle que les opérations de l'air, du feu, _et_ de la terre ne sont pas _sans restriction_ par elle. 52. De même, pour l'air, les opérations du feu, de l'eau et de la terre ne sont pas sans restriction. 53. De même, pour la terre, les opérations de ces autres ne sont pas sans restriction. 54. Mais chacune séparément est destinée à sa propre opération, tout comme elles sont ennoblies et qualifiées (55) par celui qui est, avec sagacité et méthode, un qualificateur, un constructeur et un ennoblisseur. 56. Et l'organisation est construite, préparée, qualifiée et ennoblie comme il convient à ces opérations.
 
-57\. De même, en ce qui concerne l'humanité et les autres créatures, qui sont le germe de ces éléments, (58) dont l'organisation des os, de la graisse, des tendons, des veines et de la peau, chacun séparément (59) sans sympathie, l'un pour l'autre, est entièrement visible. 60. De même, la noblesse et la qualification des organes internes, (61) tels que le foie, le cœur [^8], les poumons, les reins, la vésicule biliaire et d'autres appareils, pour chacun desquels une fonction qui lui est propre est manifeste. 62. Ils sont qualifiés et ennoblis pour leur défense par ces fonctions qui leur sont propres.
+57\. De même, en ce qui concerne l'humanité et les autres créatures, qui sont le germe de ces éléments, (58) dont l'organisation des os, de la graisse, des tendons, des veines et de la peau, chacun séparément (59) sans sympathie, l'un pour l'autre, est entièrement visible. 60. De même, la noblesse et la qualification des organes internes, (61) tels que le foie, le cœur [^8], les poumons, les reins, la vésicule biliaire et d'autres <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> appareils, pour chacun desquels une fonction qui lui est propre est manifeste. 62. Ils sont qualifiés et ennoblis pour leur défense par ces fonctions qui leur sont propres.
 
 63\. Il en est de même pour l'œil, l'oreille, le nez, la langue, la bouche, les dents, la main, le pied et autres organes externes, dont les fonctions sont distinctes. 64. Et cela se manifeste visiblement en cela ; en effet, lorsqu'un de ces organes est inapte, aucun des autres n'est apte à remplir le rôle de cet autre, pour lequel il n'est pas qualifié. 65. Et lorsqu'on examine seulement la structure d'un seul des organes du corps, c'est-à-dire son état, on constate une construction d'une sagacité remarquable [^9].
 
@@ -94,13 +94,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1]: (140:1) En supposant que Pâz. agunast (Sans. anâvila) signifie Pahl. agôndî<i>d</i> ; mais il peut signifier Pahl. agûngî<i>d</i>, 'non réduit au silence'.
+[^1]: (140:1) En supposant que Pâz. agunast (Sans. anâvila) signifie Pahl. agôndî<i>d</i> ; mais il peut signifier Pahl. agûngî<i>d</i>, « non réduit au silence ».
 
 [^2]: (140:2) Sans. insère « la nature de ».
 
 [^3]: (141:1) Comme un poteau indicateur.
 
-[^4]: (142:1) Lecture de adîna<i>s</i>, 'puis de lui', pour Pâz. ainâ, comme au chap. IV, 81. Après avoir expliqué les modes d'argumentation, dans les §§ 12-45, l'auteur revient maintenant à l'argument lui-même.
+[^4]: (142:1) Lecture de adîna<i>s</i>, « puis de lui », pour Pâz. ainâ, comme au chap. IV, 81. Après avoir expliqué les modes d'argumentation, dans les §§ 12-45, l'auteur revient maintenant à l'argument lui-même.
 
 [^5]: (142:2) Donc en sans., mais bâhar-hômandîh signifie aussi « divisibilité ».
 
@@ -112,7 +112,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^9]: (144:1) Donc en sanskrit, mais le texte en pahl. peut être traduit par « comme c'est merveilleux, c'est sagacement construit ».
 
-[^10]: (144:2) En supposant que Pâz. p<i>e</i>gh, ainsi que pih dans § 69 et peh dans § 71, représente Pahl. pîk (pers. pî), 'gras' Il pourrait également être connecté au persan pikah, 'un voile', comme Nêr. semble l'avoir compris ici ; mais 'gras' convient mieux à l'ensemble du contexte.
+[^10]: (144:2) En supposant que Pâz. p<i>e</i>gh, ainsi que pih dans § 69 et peh dans § 71, représente Pahl. pîk (pers. pî), « gras » Il pourrait également être connecté au persan pikah, « un voile », comme Nêr. semble l'avoir compris ici ; mais « gras » convient mieux à l'ensemble du contexte.
 
 [^11]: (144:3) Lecture de lag, au lieu de rag, « une veine », ce dernier étant adopté par Nêr. ici et dans le § 71.
 

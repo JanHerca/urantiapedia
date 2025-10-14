@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XLI
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Cuál hombre es más poderoso? 3. ¿Cuál camino es más terrible? 4. ¿Cuál relato es más desconcertante? 5. ¿Cuál vínculo [^1] es más placentero? 6. ¿Cuál obra es más lamentable? 7. ¿Y cuál don es más inútil?»
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Cuál hombre es más poderoso? 3. ¿Cuál camino es más terrible? 4. ¿Cuál relato es más <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> desconcertante? 5. ¿Cuál vínculo [^1] es más placentero? 6. ¿Cuál obra es más lamentable? 7. ¿Y cuál don es más inútil?»
 
 8\. El espíritu de sabiduría respondió (9) así: «El hombre es más poderoso que puede luchar contra sus propios demonios [^2]; (10) y, en particular, quien mantiene alejados de sí a estos cinco demonios, (11) que son la avaricia, la ira, la lujuria, la desgracia y el descontento. 12. El camino que cruza el puente de Kāndvar [^3] es más terrible. 13. La cuenta del alma del malvado es más confusa. 14. El vínculo con los hijos es más placentero y deseable. 15. El trabajo que realizan para los ingratos es más lamentable. 16. Y el regalo que dan a los indignos es más inútil [^4].»
 
@@ -64,10 +64,10 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (82:1) K43 tiene bôî, 'aroma', que se distingue de band, 'lazo', sólo por marcas diacríticas en pahlavi.
+[^1]: (82:1) K43 tiene bôî, «aroma», que se distingue de band, «lazo», sólo por marcas diacríticas en pahlavi.
 
 [^2]: (82:2) Sus propias pasiones y defectos personificados como demonios.
 
 [^3]: (82:3) Véase Cap. II, 115, 162.
 
-[^4]: (82:4) L19 tiene 'a los ingratos e indignos'.
+[^4]: (82:4) L19 tiene «a los ingratos e indignos».

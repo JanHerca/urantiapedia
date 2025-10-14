@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Por qué las personas que eran de Gâyômar<i>d</i> [^1], _y_ también aquellos que eran señores y monarcas, desde Hôshâng [^2], el Pê<i>s</i>dâ<i>d</i>, incluso hasta Vi<i>s</i>tâsp [^3], el rey de reyes, han sido tales hacedores de _su propia_ voluntad? 3. También _obtuvieron_ mucho beneficio de los seres sagrados, (4) _y_ han sido principalmente aquellos que _fueron_ ingratos con los seres sagrados, (5) e incluso hay _algunos_ que han sido muy ingratos, incumplidores de promesas y pecadores. 6. ¿Para qué beneficio fueron entonces creados cada uno, (7) y qué resultado y ventaja procedió de ellos?
 
-8\. El espíritu de sabiduría respondió (9) así: «Debes ser consciente y comprender plenamente lo que preguntas sobre ellos, ya sea para beneficio o para lo contrario [^4]. 10. Porque los asuntos del mundo, de todo tipo, se rigen por el destino, el tiempo y el decreto supremo de la eternidad autoexistente (zôrvân), el rey y señor eterno. 11. Puesto que, en diversos períodos, le sucede a cada uno, a quien le es asignado, tal como es necesario que suceda. 12. Incluso de la conexión mutua de aquellos antiguos, que han fallecido, es manifiesto (13) que, en última instancia, surgió ese beneficio que era necesario que viniera de ellos a las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i>.»
+8\. El espíritu de sabiduría respondió (9) así: «Debes ser consciente y comprender plenamente lo que preguntas sobre ellos, ya sea para beneficio o para lo contrario [^4]. 10. Porque los asuntos del mundo, de todo tipo, se rigen por el destino, el tiempo y el decreto supremo de la eternidad autoexistente (zôrvân), el rey y señor eterno. 11. Puesto que, en diversos períodos, le sucede a cada uno, a quien le es asignado, tal como es necesario que suceda. 12. Incluso de la conexión mutua de aquellos antiguos, que han <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> fallecido, es manifiesto (13) que, en última instancia, surgió ese beneficio que era necesario que viniera de ellos a las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i>.»
 
 14\. 'Porque la ventaja de Gâyômar<i>d</i> fue esta, (15) primero, la muerte de Ârzûr [^5], y la entrega de su propio cuerpo, con gran juicio, a Aharman [^6]. 16. _Y_ la segunda ventaja fue esta, (17) que la humanidad y todos los espíritus guardianes de los productores de la renovación _del universo_, hombres [^7] _y_ mujeres [^8], _fueron_ producidos de su cuerpo. 18. _Y_, en tercer lugar, esta [^9], que incluso los metales _fueron_ producidos _y_ formados [^10] de su cuerpo [^11].
 
@@ -66,7 +66,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 64\. 'Y la ventaja de Kai-Lôharâsp [^55] fue <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> esta: (65) que ejerció bien su dominio, (66) y se convirtió en un dador de gracias a los seres sagrados. 67. Demolió la Jerusalén de los judíos [^56], y los dispersó y esparció; y de su cuerpo surgió el que aceptó la religión, Kaî-Vi<i>s</i>tâsp [^57].
 
-68\. 'Y la ventaja de Vi<i>s</i>tâsp fue esta, (69) tal como la aceptación y solemnización de la buena religión de los adoradores de Ma<i>z</i><i>d</i>a, (70) a través de la voz divina (bakân aêvâ<i>z</i>) _del_ Ahunavar [^58], la palabra del creador Aûha<i>r</i>ma<i>z</i><i>d</i>; (71) la aniquilación y destrucción de los cuerpos de los demonios y demonios; (72) y el placer y consuelo del agua y el fuego y todos los ángeles y espíritus de las _existencias_ mundanas [^59]. 73. Y _él_ estaba lleno de la esperanza del bien y digno, (74) a través de un deseo virtuoso por su propia determinación, (75) la compensación (nô<i>s</i> da<i>s</i>nŏ) [^60] y la gratificación de Aûha<i>r</i>ma<i>z</i><i>d</i>, con los arcángeles, (76) y la aflicción y destrucción de Aharman y las [^61] descreaciones.'
+68\. «Y la ventaja de Vi<i>s</i>tâsp fue esta, (69) tal como la aceptación y solemnización de la buena religión de los adoradores de Ma<i>z</i><i>d</i>a, (70) a través de la voz divina (bakân aêvâ<i>z</i>) _del_ Ahunavar [^58], la palabra del creador Aûha<i>r</i>ma<i>z</i><i>d</i>; (71) la aniquilación y destrucción de los cuerpos de los demonios y demonios; (72) y el placer y consuelo del agua y el fuego y todos los ángeles y espíritus de las _existencias_ mundanas [^59]. 73. Y _él_ estaba lleno de la esperanza del bien y digno, (74) a través de un deseo virtuoso por su propia determinación, (75) la compensación (nô<i>s</i> da<i>s</i>nŏ) [^60] y la gratificación de Aûha<i>r</i>ma<i>z</i><i>d</i>, con los arcángeles, (76) y la aflicción y destrucción de Aharman y las [^61] descreaciones.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -100,17 +100,17 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^3]: (57:3) Véase Cap. XIII, 14 n.
 
-[^4]: (57:4) L19 tiene 'mal'.
+[^4]: (57:4) L19 tiene «mal».
 
 [^5]: (58:1) Escrito Aîrzûr en TD2. Windischmann (Zor. Stud. p. 5) ha sugerido que este era el nombre de un demonio, posteriormente aplicado a la cresta de Are<i>z</i>ûr en la puerta del infierno (véase Bd. XII, 8), pero esto requiere confirmación. Respecto a esta cresta, la siguiente explicación aparece en el Pahlavi Rivâyat que precede a Dd. en muchos manuscritos: «Dicen que el infierno es la cresta (pûstŏ) de Arekzûr; y el infierno no es la cresta de Arekzûr, sino que el lugar donde existe la puerta del infierno es una cresta (grîvakŏ) como la cresta llamada Arekzûr, y debido a eso afirman que es la cresta (pûstŏ) de Arekzûr». El explicador parece querer decir que la cresta en la puerta del infierno recibió el nombre del otro monte Arezûr, en Arûm (véase Bd. XII, 16).
 
 [^6]: (58:2) Compárese Bd. III, 21-23.
 
-[^7]: (58:3) L19 tiene 'varones justos'.
+[^7]: (58:3) L19 tiene «varones justos».
 
 [^8]: (58:4) Quince de cada uno, como se afirma en Bd. XXX, x7.
 
-[^9]: (58:5) L19 tiene 'esta ventaja'.
+[^9]: (58:5) L19 tiene «esta ventaja».
 
 [^10]: (58:6) L19 omite el verbo anterior.
 
@@ -122,27 +122,27 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^14]: (59:1) Véase Râm Yt. 12, Zamyâd Yt. 29.
 
-[^15]: (59:2) Av. Yima khshaêta, 'Yim el [espléndido](errata_htm.html);' era hermano de su predecesor, Tâkhmorup, y los Bundahi<i>s</i> afirman que reinó seiscientos dieciséis años y seis meses en gloria, y cien años en ocultamiento (véase Cap. VIII, 27, Bd. XXXI, 3, XXXIV, 4).
+[^15]: (59:2) Av. Yima khshaêta, «Yim el [espléndido](errata_htm.html);» era hermano de su predecesor, Tâkhmorup, y los Bundahi<i>s</i> afirman que reinó seiscientos dieciséis años y seis meses en gloria, y cien años en ocultamiento (véase Cap. VIII, 27, Bd. XXXI, 3, XXXIV, 4).
 
-[^16]: (59:3) TD2 sólo tiene 'trescientos años', por la omisión accidental de un código; también omite los meses y los días.
+[^16]: (59:3) TD2 sólo tiene «trescientos años», por la omisión accidental de un código; también omite los meses y los días.
 
 [^17]: (59:4) Véase Vend. II, 16, Râm Yt. 16, Zamyâ<i>d</i> Yt. 33.
 
-[^18]: (59:5) L19 tiene 'esta ventaja'.
+[^18]: (59:5) L19 tiene «esta ventaja».
 
 [^19]: (59:6) Véase Cap. LXII, 15-19. La construcción de este recinto fue ordenada por Aûha<i>r</i>ma<i>z</i><i>d</i> en Vend. II, 61-92, para preservar a la humanidad, los animales y las plantas de los efectos de una época glacial que él predice, y que aquí se representa como la lluvia de Malkôs.
 
-[^20]: (59:7) Este término para 'lluvia diluviosa' puede rastrearse hasta el caldeo מַלְקוֹשׁ 'lluvia otoñal', o hasta el avícola mahrkû<i>s</i>ô, el título de un demonio acerca del cual todavía no se sabe nada (véase Dd. XXXVII, 94 n y SBE, vol. xviii, pág. 479).
+[^20]: (59:7) Este término para «lluvia diluviosa» puede rastrearse hasta el caldeo מַלְקוֹשׁ «lluvia otoñal», o hasta el avícola mahrkû<i>s</i>ô, el título de un demonio acerca del cual todavía no se sabe nada (véase Dd. XXXVII, 94 n y SBE, vol. xviii, pág. 479).
 
-[^21]: (60:1) L19 tiene simplemente 'perecerán en su mayoría', en lugar de estas últimas seis palabras.
+[^21]: (60:1) L19 tiene simplemente «perecerán en su mayoría», en lugar de estas últimas seis palabras.
 
-[^22]: (60:2) L19 tiene 'en tercer lugar, esta ventaja, que.'
+[^22]: (60:2) L19 tiene «en tercer lugar, esta ventaja, que.»
 
-[^23]: (60:3) L19 agrega '¿quién es Aharman?'
+[^23]: (60:3) L19 agrega «¿quién es Aharman?»
 
 [^24]: (60:4) Según una leyenda preservada en los Rivâyats persas (véase MH10, fol. 52), Aharman, mientras Tâkhmorup lo custodiaba como corcel, indujo a su esposa a que le preguntara a su esposo si alguna vez había sentido miedo al montar al demonio. A raíz de la información obtenida, derribó al rey de su lomo mientras descendía de las montañas Alburz y se lo tragó. El ángel Srôsh le comunicó este suceso a Yim, quien le aconsejó buscar al demonio y apaciguarlo. Yim, en consecuencia, se internó en el desierto cantando para atraer a Aharman, y cuando el demonio apareció, Yim se congració con él y, aprovechando un momento de descuido, sacó a Tâkhmorup de las entrañas del demonio y depositó el cadáver en un depósito para muertos. Como consecuencia de esta hazaña, su mano fue atacada por la lepra, de la que sufrió mucho hasta que accidentalmente la lavó con orina de toro, lo que la curó. Esta leyenda se relata con el propósito de recomendar el uso de la orina de toro para la purificación del cuerpo.
 
-[^25]: (60:5) O, quizás, 'como sustituto de un anciano'. Esta cuarta ventaja se encuentra solo en TD2, donde el texto es el siguiente:—'<i>K</i>ahârûm, amata<i>s</i> gôspend pavan gôharî<i>k</i>\-î pîr va<i>l</i> <i>s</i>êdân lâ. yehabûntô.'
+[^25]: (60:5) O, quizás, «como sustituto de un anciano». Esta cuarta ventaja se encuentra solo en TD2, donde el texto es el siguiente:—«<i>K</i>ahârûm, amata<i>s</i> gôspend pavan gôharî<i>k</i>\-î pîr va<i>l</i> <i>s</i>êdân lâ. yehabûntô.»
 
 [^26]: (61:1) Ver cap. VIII, 29.
 
@@ -160,7 +160,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^33]: (61:8) El sucesor de Frê<i>d</i>ûn, quien reinó ciento veinte años (véase Bd. XXXIV, 6). Era descendiente, en la décima generación, de Aîrî<i>k</i>, uno de los hijos de Frê<i>d</i>ûn, quien había sido asesinado por sus hermanos Salm y Tû<i>g</i> (véase Bd. XXXI, 9-14).
 
-[^34]: (61:9) L19 dice 'que mató a Salm y Tû<i>g</i>, que eran sus tíos abuelos, p. 62 en venganza por Aîrî<i>k</i>, y les impidió perturbar el mundo'.
+[^34]: (61:9) L19 dice «que mató a Salm y Tû<i>g</i>, que eran sus tíos abuelos, p. 62 en venganza por Aîrî<i>k</i>, y les impidió perturbar el mundo».
 
 [^35]: (62:1) La región montañosa de Taparistân y Gîlân, al sur del Caspio (véase Bd. XII, 17).
 
@@ -168,7 +168,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^37]: (62:3) Ver cap. VIII, 29 n.
 
-[^38]: (62:4) L19 tiene 'tal como se hizo la porción (pa<i>d</i>mânŏ) de Frâsîyâk.'
+[^38]: (62:4) L19 tiene «tal como se hizo la porción (pa<i>d</i>mânŏ) de Frâsîyâk.»
 
 [^39]: (62:5) Llamado Kyânsîh en el Libro XIII, 16, XX, 34, donde se afirma que antes era dulce, pero luego salado, y que Frâsîyâk desvió muchos ríos y arroyos hacia él. Es el lago salobre y pantano que ahora se llama Hâmûn, «el desierto», o Zarah, «el mar», en Sîstân. En el Avesta se le llama Kãsu, y se espera que los futuros apóstoles de la fe adoradora de Ma<i>z</i><i>d</i>a nazcan en sus orillas.
 
@@ -178,9 +178,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^42]: (63:2) Av. a<i>z</i>i srvara (véase Yas. IX, 34-39, Zamyâ<i>d</i> Yt. 40).
 
-[^43]: (63:3) O 'el lobo azul'; aún no identificado en el Avesta.
+[^43]: (63:3) O «el lobo azul»; aún no identificado en el Avesta.
 
-[^44]: (63:4) Darmesteter (SBE, vol. xxiii, p. 295, nota 4) identifica este nombre con Pathana de Zamyâ<i>d</i> Yt. 41, que parece significar 'salteador de caminos'; pero esta identificación parece depender meramente de la similitud del sonido.
+[^44]: (63:4) Darmesteter (SBE, vol. xxiii, p. 295, nota 4) identifica este nombre con Pathana de Zamyâ<i>d</i> Yt. 41, que parece significar «salteador de caminos»; pero esta identificación parece depender meramente de la similitud del sonido.
 
 [^45]: (63:5) Av. Ga<i>n</i>darewa de Aban Yt. 38, Ram Yt. 28, Zamyâ<i>d</i> It. 41.
 
@@ -192,7 +192,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^49]: (64:2) Véase Cap. II, 95.
 
-[^50]: (64:3) Av. Kangha. Un asentamiento fortificado que se dice que estaba 'en dirección al este, a muchas leguas del lecho del amplio océano hacia ese lado', y en la frontera de Aîrân-vê<i>g</i> (véase Cap. LXII, 13, Bd. XXIX, 10).
+[^50]: (64:3) Av. Kangha. Un asentamiento fortificado que se dice que estaba «en dirección al este, a muchas leguas del lecho del amplio océano hacia ese lado», y en la frontera de Aîrân-vê<i>g</i> (véase Cap. LXII, 13, Bd. XXIX, 10).
 
 [^51]: (64:4) Véase Cap. VIII, 29. Este nombre debe haber sido aplicado más bien a una dinastía que a un solo individuo, ya que reinó en Irán en la época de Mânû<i>s</i><i>k</i>îhar, casi doscientos años antes.
 
@@ -208,10 +208,10 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^57]: (65:2) Véase Cap. XIII, 14 n.
 
-[^58]: (65:3) La fórmula más sagrada de los adoradores de Ma<i>z</i><i>d</i>a, que consta de veintiún palabras, formando tres líneas métricas de dieciséis sílabas cada una, comenzando con yathâ ahû vairyô, 'como espíritu protector es deseable'. Se supone que fue pronunciada por Aûha<i>r</i>ma<i>z</i><i>d</i>, para la derrota de Aharman, en la primera aparición de ese espíritu maligno en el universo (véase Bd. I, 21).
+[^58]: (65:3) La fórmula más sagrada de los adoradores de Ma<i>z</i><i>d</i>a, que consta de veintiún palabras, formando tres líneas métricas de dieciséis sílabas cada una, comenzando con yathâ ahû vairyô, «como espíritu protector es deseable». Se supone que fue pronunciada por Aûha<i>r</i>ma<i>z</i><i>d</i>, para la derrota de Aharman, en la primera aparición de ese espíritu maligno en el universo (véase Bd. I, 21).
 
-[^59]: (65:4) L19 tiene 'todos los ángeles de las _existencias_ espirituales y mundanas'.
+[^59]: (65:4) L19 tiene «todos los ángeles de las _existencias_ espirituales y mundanas».
 
-[^60]: (65:5) L19 tiene u shnâi<i>s</i>n, 'y la propiciación'.
+[^60]: (65:5) L19 tiene u shnâi<i>s</i>n, «y la propiciación».
 
-[^61]: (65:6) L19 tiene 'suyo'.
+[^61]: (65:6) L19 tiene «suyo».

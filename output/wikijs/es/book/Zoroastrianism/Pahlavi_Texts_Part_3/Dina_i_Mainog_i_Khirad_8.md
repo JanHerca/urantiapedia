@@ -68,9 +68,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (32:2) K43 omite la frase entre paréntesis, así como el § 5; pero estos pasajes se proporcionan a partir de L19, simplemente sustituyendo yahi<i>d</i>akân, 'corrompidos', como en el § 10, por vashûdagã, 'creaciones erróneas', de L19.
+[^1]: (32:2) K43 omite la frase entre paréntesis, así como el § 5; pero estos pasajes se proporcionan a partir de L19, simplemente sustituyendo yahi<i>d</i>akân, «corrompidos», como en el § 10, por vashûdagã, «creaciones erróneas», de L19.
 
-[^2]: (33:1) Se lee yahi<i>d</i>akân, pero podría ser yâtukân, 'magos', aunque la palabra requiere una vocal larga adicional para representar ambos términos correctamente. L19 tiene vashûdagã, 'creaciones erróneas'.
+[^2]: (33:1) Se lee yahi<i>d</i>akân, pero podría ser yâtukân, «magos», aunque la palabra requiere una vocal larga adicional para representar ambos términos correctamente. L19 tiene vashûdagã, «creaciones erróneas».
 
 [^3]: (33:2) Según los Bundahi<i>s</i>, el tiempo consta de doce mil años (véase Bd. XXXIV, 1). En el principio, Aûha<i>r</i>ma<i>z</i><i>d</i> creó los prototipos espirituales (Bd. I, 8), quienes permanecieron imperturbables durante los primeros tres mil años, cuando Aharman apareció y accedió a un conflicto por los nueve mil años restantes (Bd. I, 18), durante los primeros tres de los cuales la voluntad de Aûha<i>r</i>ma<i>z</i><i>d</i> fue indiscutible, mientras que durante los tres siguientes Aharman interfiere activamente, y durante los últimos tres su influencia disminuirá hasta desaparecer (Bd. I, 20). Se supone que los nueve mil años de conflicto se extendieron desde aproximadamente el año 5400 a. C. hasta el año 3600 d. C. (véase Byt. III, 11 n, 44 n).
 
@@ -80,17 +80,17 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^6]: (33:5) Probablemente el ángel Rashnû (ver Cap. II, 118, 119).
 
-[^7]: (33:6) Suponiendo que el vâgô-bakhtô de K43 es equivalente al baghô-bakht, 'designación divina', de L19.
+[^7]: (33:6) Suponiendo que el vâgô-bakhtô de K43 es equivalente al baghô-bakht, «designación divina», de L19.
 
-[^8]: (33:7) Av. âzi de Yas. XVII, 46, LXVII, 22, Vend. XVIII, 45, 50, Â<i>s</i>tâd Yt. 1, â<i>z</i>u de Yas. LII, 7, y el demonio de la 'codicia' en Cap. II, 13, 14, XVIII, 5, &c., Bd. XXVIII, 27, y persa moderno, que parece ser un ser distinto de Av. a<i>z</i>i, 'serpiente'.
+[^8]: (33:7) Av. âzi de Yas. XVII, 46, LXVII, 22, Vend. XVIII, 45, 50, Â<i>s</i>tâd Yt. 1, â<i>z</i>u de Yas. LII, 7, y el demonio de la «codicia» en Cap. II, 13, 14, XVIII, 5, &c., Bd. XXVIII, 27, y persa moderno, que parece ser un ser distinto de Av. a<i>z</i>i, «serpiente».
 
-[^9]: (34:1) L19 tiene 'mal'.
+[^9]: (34:1) L19 tiene «mal».
 
 [^10]: (34:2) Los signos zodiacales.
 
 [^11]: (34:3) L19 dice «son llamados en revelación». La autoridad aquí citada no eran los Bundahi, porque ese libro habla de siete jefes de las constelaciones opuestos a los siete planetas (véase Bd. V, 1).
 
-[^12]: (34:4) L19 omite 'y siete planetas', pero tiene un espacio en blanco en este lugar en ambos textos, Pâzand y sánscrito.
+[^12]: (34:4) L19 omite «y siete planetas», pero tiene un espacio en blanco en este lugar en ambos textos, Pâzand y sánscrito.
 
 [^13]: (34:5) K43 omite las palabras entre paréntesis, que tal vez sean superfluas en el texto Pahlavi.
 

@@ -34,9 +34,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p311"><sup><small>[ pág. 311 ]</small></sup></span>
 
-## TRISTE DAR. CAPÍTULO XLVIII [^1].
+## SAD DAR. CAPÍTULO XLVIII [^1].
 
-1\. El cuadragésimo octavo punto es que, al hervir una olla, es necesario reducir el agua a dos partes de un tercio cada una, para que un tercio de la olla quede vacía; de modo que, si en algún momento la olla hierve, el agua no suba a la superficie [^2]. 2. Porque si no se procede así, y el agua [^3], por no detenerse, cae al fuego [^4], es un pecado de mil doscientos dirhams [^5]; por lo tanto, es necesario vigilar que este pecado no se presente.
+1\. El cuadragésimo octavo punto es que, al hervir una olla, es necesario reducir el agua a dos partes de un tercio _cada_ una, para que un tercio de la olla quede vacía; de modo que, si _en algún momento_ la olla hierve, el agua no suba a la superficie [^2]. 2. Porque si no se procede así, y el agua [^3], por no detenerse, cae al fuego [^4], es un pecado de mil doscientos dirhams [^5]; por lo tanto, es necesario vigilar que este pecado no se presente.
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,8 +68,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (311:2) Lp, B29, J15 añaden «y que el agua no entre en el fuego». La, Lp añaden «al menos un tercio debe ser agua [de tal manera que se moje de oreja a oreja. Es necesario mantener la boca cerrada continuamente, para que el agua no entre en la boca]», pero el pasaje entre corchetes es claramente una parte del cap. L, 2, 3; originalmente también estaba escrito en J15, pero ha sido tachado de ese manuscrito.
 
-[^3]: (311:3) La tiene 'si una gota de'.
+[^3]: (311:3) La tiene «si una gota de».
 
-[^4]: (311:4) La tiene 'boca'; el pasaje en ese manuscrito es evidentemente el final del Cap. L, 3.
+[^4]: (311:4) La tiene «boca»; el pasaje en ese manuscrito es evidentemente el final del Cap. L, 3.
 
-[^5]: (311:5) La tiene 'de trescientos stîrs', como en el cap. L, 3, y omite el resto del texto. Las dos cantidades son idénticas y equivalen a un pecado de Tanâvar o Tanâpûhar (véase Sls. I, 2).
+[^5]: (311:5) La tiene «de trescientos stîrs», como en el cap. L, 3, y omite el resto del texto. Las dos cantidades son idénticas y equivalen a un pecado de Tanâvar o Tanâpûhar (véase Sls. I, 2).

@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 12\. Y esta _existencia_ mundana se debe a la mezcla de poderes en competencia. 13. Así que _sus_ numerosas posesiones están construidas, seleccionadas y hechas de diversas razas (<i>k</i>îharân), diversos colores, diversos aromas, diversas características y diversas especies, como _he_ declarado anteriormente [^8] acerca del cuerpo, (14) que está construido _y_ hecho de muchas cosas, como hueso, grasa, tendones, venas, piel, sangre, aliento, cabello [^9], fundamento [^10], mano, pie, cabeza, vientre y otros miembros, internos y externos, (15) en dos series [^11] de cosas de muchos tipos, de las cuales _ser_ nunca hechas por medio de la diversa naturaleza de diversos poderes, (16) o surgir sin un creador, la imposibilidad es segura.
 
-17\. Y, de igual manera, en el caso de las demás criaturas, plantas y árboles, agua y fuego, tierra y aire, su estímulo, que no son ellas mismas, también se dirige a su propio deber; y no son estimuladoras, (18) pero hay un estimulador, un constructor (dê<i>s</i>âk), y una creación para ellas. 19. Y el uso (vâzâr) que cambia y las impulsa, de estímulo en estímulo, de afirmación en afirmación, y de tiempo en tiempo, no se ajusta a la voluntad y la exigencia de quienes las crean, sino a quienes las estimulan y las crean.
+17\. Y, de igual manera, en el caso de las demás criaturas, plantas y árboles, agua y fuego, tierra y aire, su estímulo, que no son ellas mismas, también se dirige a su propio deber; y no son estimuladoras, (18) pero hay un estimulador, un constructor (dê<i>s</i>âk), y una creación para <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> ellas. 19. Y el uso (vâzâr) que cambia y las impulsa, de estímulo en estímulo, de afirmación en afirmación, y de tiempo en tiempo, no se ajusta a la voluntad y la exigencia de quienes las crean, sino a quienes las estimulan y las crean.
 
 20\. Así también, indicativo de la rotación de los años, meses, días y horas, es la revolución de la esfera celeste y las estrellas, que están fijas (pasâkhtak), y del sol y la luna, que están ajustados (nîvâr<i>d</i>ak), un progreso bien aplomado [^12] y una revolución conspicua. 21. Esto también indica que los movimientos de cada apariencia (<i>k</i>îharîh) se deben a un exhibidor, por quien se exhibe el movimiento de esa apariencia.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 29\. Además, en cuanto a esto último, que es precioso para quienes son más amigos de la penuria que del consuelo de la vileza infame—(30) porque producen su felicidad de ella [^15], y son agradecidos, (31) y cuando ven la aflicción se vuelven suplicantes (32) incluso de este destino y dispensación que no puede volverse espiritual excepto por los espíritus—(33) así también, en la aparición de cada uno de los hambrientos, (34) _y_ en cada apresurado y apurado [^16], que implora favores, es una manifestación del mantenimiento de una esperanza de una inspección suprema sobre la humanidad, _y_, de hecho, sobre los animales salvajes, las aves y los cuadrúpedos.
 
-35\. _En cuanto a_ esto, también, que llaman sofístico [^17]. (36) que no hay seguridad ni siquiera de una de _estas_ cosas, (37) porque todos están ictéricos [^18]—(38) pues quien dice que la miel es amarga y la miel es dulce, tiene razón _en_ ​​ambas, (39) ya que _es amarga para los que abundan en bilis, _y_ dulce para los demás; (40) también que el pan es agradable y que el pan es desagradable son ambos <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> ciertos, (41) ya que _es agradable para los hambrientos, _y_ desagradable para los saciados; (42) _y_ muchas otras _declaraciones_ de esta descripción—(43) lo _que_ debería decirse en respuesta a sus tonterías es sumariamente (44) lo que los sabios _les_ han dicho (45) así:—'Incluso esta declaración de ustedes, los sofistas, sobre la naturaleza ictérica de todo, es igualmente ictérica, y no hay verdad _en_ ​​ella.'
+35\. _En cuanto a_ esto, también, que llaman sofístico [^17]. (36) que no hay seguridad ni siquiera de una de _estas_ cosas, (37) porque todos están ictéricos [^18]—(38) pues quien dice que la miel es amarga y la miel es dulce, tiene razón _en_ ​​ambas, (39) ya que _es amarga para los que abundan en bilis, _y_ dulce para los demás; (40) también que el pan es agradable y que el pan es desagradable son ambos <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> ciertos, (41) ya que _es agradable para los hambrientos, _y_ desagradable para los saciados; (42) _y_ muchas otras _declaraciones_ de esta descripción—(43) lo _que_ debería decirse en respuesta a sus tonterías es sumariamente (44) lo que los sabios _les_ han dicho (45) así:—«Incluso esta declaración de ustedes, los sofistas, sobre la naturaleza ictérica de todo, es igualmente ictérica, y no hay verdad _en_ ​​ella.»
 
 46\. Entre ellas se dicen muchas otras cosas; (47) y esto que os indicamos es la información predominante _para_ vosotros, los vencedores, (48) para que _puedáis_ obtener más de la revelación.
 
@@ -84,27 +84,27 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^3]: (146:5) Un término despectivo para el habla de los seres malvados.
 
-[^4]: (146:6) O puede ser 'uno', ya que el sánscrito usa la tercera persona.
+[^4]: (146:6) O puede ser «uno», ya que el sánscrito usa la tercera persona.
 
 [^5]: (146:7) Véase Cap. IV, 73 n.
 
 [^6]: (147:1) Cap. V, 27-30.
 
-[^7]: (147:2) Sans. tiene 'carpintero'.
+[^7]: (147:2) Sans. tiene «carpintero».
 
 [^8]: (147:3) Cap. V, 57-63.
 
-[^9]: (147:4) Suponiendo que Pâz. vas es una lectura errónea de Pahl. varas. Nêr. tiene Sans. rasa, 'secreción líquida'.
+[^9]: (147:4) Suponiendo que Pâz. vas es una lectura errónea de Pahl. varas. Nêr. tiene Sans. rasa, «secreción líquida».
 
 [^10]: (147:5) Suponiendo que Pâz. daryam (sans. nish_th_â) significa Pahl. dar-î dum.
 
-[^11]: (147:6) Literalmente 'columnas'.
+[^11]: (147:6) Literalmente «columnas».
 
-[^12]: (148:1) Aludiendo a los supuestos caballos del sol. Sans. tiene 'brillante'.
+[^12]: (148:1) Aludiendo a los supuestos caballos del sol. Sans. tiene «brillante».
 
 [^13]: (148:2) Es decir, el mundo no puede ser controlado por un solo ser sagrado, debido al mal que contiene.
 
-[^14]: (148:3) Sans. tiene 'hacer', otro significado de varz.
+[^14]: (148:3) Sans. tiene «hacer», otro significado de varz.
 
 [^15]: (149:1) Realizando la buena obra de caridad, que es necesaria para la futura felicidad de sus propias almas.
 
@@ -112,4 +112,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^17]: (149:3) Paz. suwastaî (Sans. suvastâyîka) evidentemente se remonta a σοφιστικός a través de Pers. sûfis<i>t</i>âiyah.
 
-[^18]: (149:4) Pâz. tahal (Sans. ka<i>t</i>uka) se transpone en Pers. tal'<i>h</i>, 'amargo', en cuyo sentido se utiliza la palabra en los §§ 38, 39 y Cap. III, 24.
+[^18]: (149:4) Pâz. tahal (Sans. ka<i>t</i>uka) se transpone en Pers. tal«<i>h</i>, »amargo', en cuyo sentido se utiliza la palabra en los §§ 38, 39 y Cap. III, 24.

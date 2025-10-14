@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XCI.
+## SAD DAR. CAPÍTULO XCI.
 
 1\. El tema nonagésimo primero es éste, es decir: ¿de qué modo es necesario lavar todo lo que se contamina con materia muerta?
 
@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (354:3) Es decir, con orina de toro consagrada (véase Sls. II, 212-117).
 
-[^2]: (355:1) Lp, B29 agrega 'con agua'.
+[^2]: (355:1) Lp, B29 agrega «con agua».
 
 [^3]: (355:2) Pahl. Vend. VII, 188 da tres opiniones.
 

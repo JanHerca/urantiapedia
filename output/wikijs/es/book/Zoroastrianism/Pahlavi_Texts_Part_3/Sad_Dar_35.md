@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p296"><sup><small>[ pág. 296 ]</small></sup></span>
 
-## TRISTE DAR. CAPÍTULO XXXV.
+## SAD DAR. CAPÍTULO XXXV.
 
 1\. El trigésimo quinto tema es este, que, cuando quieran lavarse la cara [^1], _deberán_ recitar ore Ashem-vohû [^2], _y_ cerrar firmemente la boca, para que el agua, no _lejos_ de ella [^3], _no_ entre en la boca. 2. _Y_, mientras uno se lava la cara, _deberán_ recitar el K<i>e</i>m-nâ-mazdâ [^4], para que el demonio Nasru<i>s</i>t [^5] _pueda_ ser herido.
 

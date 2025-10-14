@@ -56,7 +56,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 62\. And an angel came down unto him _and_ spoke thus: ‘The sacred being has not allotted thee, through the constellations [^34], more daily food than this, (63) _and_ it is not possible to allot anew; (64) but, as a recompense for worship _and_ prayer, a throne whose four feet are of jewels is appointed for thee in heaven (vahi<i>s</i>t) by me, (65) _and_, if it be necessary, I _will_ give unto thee one foot of that throne.’
 
-66\. That exalter of the apostles enquired of his own wife, (67) _and_ the unfortunate _one_ spoke thus: '_It is_ better for us to be content with the scanty daily food and bad living in the worldly _existence_, (68) than if our throne, among _our_ companions in heaven, _had_ three feet; (69) but if it may occur to thee then appoint us a day's food by another mode.'
+66\. That exalter of the apostles enquired of his own wife, (67) _and_ the unfortunate _one_ spoke thus: ‘_It is_ better for us to be content with the scanty daily food and bad living in the worldly _existence_, (68) than if our throne, among _our_ companions in heaven, _had_ three feet; (69) but if it may occur to thee then appoint us a day's food by another mode.’
 
 70\. _At_ the second coming of that angel he spoke thus: ‘But if I dissipate the _celestial_ sphere, and produce the sky _and_ earth anew, and construct and produce the motion of the stars anew, _still_ thenceforth _it_ is not clear whether thy destiny _will_ fall _out_ good or bad [^35].’
 
@@ -126,7 +126,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^15]: (223:1) Sans. has ‘whoever is prosperous.’
 
-[^16]: (223:2) 'Who _is_ blind, but my servant? or deaf, as my messenger _that_ I sent? who _is_ blind as _he that is_ perfect, and blind as the Lord's servant?' (Is. xlii. 19).
+[^16]: (223:2) ‘Who _is_ blind, but my servant? or deaf, as my messenger _that_ I sent? who _is_ blind as _he that is_ perfect, and blind as the Lord's servant?’ (Is. xlii. 19).
 
 [^17]: (223:3) ‘The Lord _is_ our king’ (Is. xxxiii. 22).
 
@@ -152,7 +152,7 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^28]: (225:4) Nêr. has read Âsînak, which indicates a Pahlavi form that might be read Aîsôk, and points to Syr. ’Îs‘hoq as the original of this form of Isaac.
 
-[^29]: (225:5) Sans. has 'his whole-blood brother's son.'
+[^29]: (225:5) Sans. has ‘his whole-blood brother's son.’
 
 [^30]: (225:6) Assuming that Pâz. shê stands for Pahl. gâs-1, both here and in § 49. Nêr. seems to have understood it as Ar. <i>s</i>ay, ‘somewhat.’
 

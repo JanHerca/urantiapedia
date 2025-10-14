@@ -34,11 +34,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXI.
 
-1\. Le sage demanda à l'esprit de sagesse (2) : « Quelle est la fin de l'homme qui arrange le monde et détruit les esprits ? 3. Quelle est la fin de l'homme moqueur ? 4. Quelle est la fin de l'homme oisif, malveillant et paresseux ? 7. Quelle est la fin de l'homme au cœur trompeur (8) et de l'arrogant [^1] ? »
+1\. Le sage demanda à l'esprit de sagesse (2) : « Quelle est la fin de l'homme qui arrange le monde _et_ détruit les esprits ? 3. Quelle est la fin de l'homme moqueur ? 4. Quelle est la fin de l'homme oisif, malveillant et paresseux ? 7. Quelle est la fin de l'homme au cœur trompeur (8) et de l'arrogant [^1] ? »
 
 9\. L'esprit de sagesse répondit (10) ainsi : « Celui qui est un homme qui arrange le monde et qui détruit les esprits est aussi blessé, dans le châtiment des trois nuits [^2], qu'un feu déchaîné lorsque l'eau vient sur lui.
 
-11 [^3]. « De celui qui est un moqueur, il n'y a aucune gloire dans son corps et son âme ; (12) _et_ chaque fois qu'il ouvre la bouche, sa méchanceté augmente. 13. Tous les démons, aussi, se logent tellement dans son corps, qu'ils ne lui laissent aucune bonté ; (14) et il se moque du bien et glorifie le vil. 15. De même, dans l'existence mondaine, son corps est infâme, et dans l'existence spirituelle, son âme est mauvaise. 16. Et, pour avoir effectué son châtiment en enfer, ils le livrent au démon moqueur ; (17) _et_ ce démon lui inflige ridicule et moquerie à chaque châtiment. »
+11 [^3]. « De celui qui est un moqueur, il n'y _a_ aucune gloire dans son corps et son âme ; (12) _et_ chaque fois qu'il ouvre la bouche, sa méchanceté augmente. 13. Tous les démons, aussi, se logent tellement dans son corps, qu'ils ne lui laissent aucune bonté ; (14) et il se moque du bien et glorifie le vil. 15. De même, dans l'existence mondaine, son corps est infâme, et dans l'existence spirituelle, son âme est mauvaise. 16. Et, pour avoir effectué son châtiment en enfer, ils le livrent <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> au démon moqueur ; (17) _et_ ce démon lui inflige ridicule et moquerie à chaque châtiment. »
 
 18\. '_Quant à celui qui est un homme oisif, mais dépourvu de méchanceté, la plupart du temps lorsque [^4] la mort survient dans l'existence mondaine, il engendre alors (a<i>g</i>a<i>s</i>) agréablement pour le bien d'un autre.
 

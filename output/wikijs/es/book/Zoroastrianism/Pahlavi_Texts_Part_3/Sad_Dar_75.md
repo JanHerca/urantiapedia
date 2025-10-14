@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXV.
+## SAD DAR. CAPÍTULO LXXV.
 
-1\. El septuagésimo quinto punto es que, cuando se desee abastecer de agua a cualquier terreno cultivado, primero es necesario inspeccionar cada curso y canal del agua para determinar si contiene materia muerta; y, después, inspeccionar el agua de la misma manera. 2. Si se encuentran en medio de la inundación, cuando el agua se encuentre en su terreno cultivado y se observe materia muerta, si es posible evitarla, se la evita, y si es posible desviarla, se la desvía. 3. Y si el agua llega con materia muerta sin que se den cuenta, no es pecado. 4. _Pero_ si no se realiza ninguna inspección del arroyo y de la tierra cultivada, y el agua llega con materia muerta, esas personas están contaminadas y es necesario realizar la ceremonia de Bareshnûm [^2] _con respecto_ a sus cabezas.
+1\. El septuagésimo quinto punto es que, cuando se desee abastecer de agua a cualquier terreno cultivado, primero es necesario <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> inspeccionar cada curso y canal del agua para determinar si contiene materia muerta; y, después, inspeccionar el agua de la misma manera. 2. Si se encuentran en medio de la inundación, cuando el agua se encuentre en su terreno cultivado y se observe materia muerta, si es posible evitarla, se la evita, y si es posible desviarla, se la desvía. 3. Y si el agua llega con materia muerta sin que se den cuenta, no es pecado. 4. _Pero_ si no se realiza ninguna inspección del arroyo y de la tierra cultivada, y el agua llega con materia muerta, esas personas están contaminadas y es necesario realizar la ceremonia de Bareshnûm [^2] _con respecto_ a sus cabezas.
 
 <figure class="table chapter-navigator">
   <table>
@@ -62,6 +62,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (339:1) B29 dice 'cuando alguien desea entrar en participación en un campo cultivado, primero es necesario observar en todo momento.'
+[^1]: (339:1) B29 dice «cuando alguien desea entrar en participación en un campo cultivado, primero es necesario observar en todo momento.»
 
 [^2]: (339:2) Véase Cap. XXXVI, 1 n.

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XI.
 
-1\. El sabio preguntó al espíritu de la sabiduría (2) así: '¿Es buena la sabiduría, o la habilidad, o la bondad [^1]?'
+1\. El sabio preguntó al espíritu de la sabiduría (2) así: «¿Es buena la sabiduría, o la habilidad, o la bondad [^1]?»
 
 3\. El espíritu de sabiduría respondió (4) así: «La sabiduría en la que no hay bondad no debe considerarse sabiduría; (5) y la habilidad en la que no hay sabiduría no debe considerarse habilidad».
 

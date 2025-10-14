@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXIII.
+## SAD DAR. CAPÍTULO LXXIII.
 
 1\. El tema septuagésimo tercer es que, cuando una vaca o una cabra ha comido materia muerta [^1], en cualquier lugar, nada de su carne, leche o pelo debe usarse durante un año. 2. Después de ese año, queda limpia; y, si está preñada, su cría tampoco queda limpia durante un año.
 

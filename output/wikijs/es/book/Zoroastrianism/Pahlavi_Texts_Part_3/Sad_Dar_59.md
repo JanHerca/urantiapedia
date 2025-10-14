@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LIX.
+## SAD DAR. CAPÍTULO LIX.
 
 1\. El quincuagésimo noveno tema es este: en la buena y pura religión de los adoradores de Ma<i>z</i><i>d</i>a, no se les ha ordenado a las mujeres que realicen los Nyâyi<i>s</i>es [^1]. 2. Y [^2] sus Nyâyi<i>s</i>es son estos: tres veces al día, al amanecer, al mediodía [^3] y a la hora de la noche, se ponen de pie en presencia de sus maridos, se cruzan de brazos y dicen así: «¿Qué piensas para que yo pueda pensarlo? ¿Qué te hace falta para que yo pueda expresarlo? ¿Y qué te hace falta para que yo pueda hacerlo?»
 
@@ -66,8 +66,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (320:2) Saludos periódicos al sol y a la luna (véase Cap. VI, 2), al fuego y al agua.
 
-[^2]: (320:3) Lp, B29 tiene 'para'.
+[^2]: (320:3) Lp, B29 tiene «para».
 
-[^3]: (320:4) Literalmente 'anterior, temprano'.
+[^3]: (320:4) Literalmente «anterior, temprano».
 
-[^4]: (321:1) Lp tiene simplemente 'está en', y B29 tiene 'está conectado con'.
+[^4]: (321:1) Lp tiene simplemente «está en», y B29 tiene «está conectado con».

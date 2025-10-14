@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XV.
+## SAD DAR. CAPÍTULO XV.
 
-1\. El decimoquinto tema es este: cuando se ve algo agradable a la vista, es necesario decir «en nombre del ser sagrado». 2. Porque si no se dice «en nombre del ser sagrado», y se produce una lesión en esa cosa, o ocurre un desastre, uno se convierte en pecador; hasta ese punto es notorio (ma'hlûm).
+1\. El decimoquinto tema es este: cuando se ve algo agradable a la vista, es necesario decir «en nombre del ser sagrado». 2. Porque si no se dice «en nombre del ser sagrado», y se produce una lesión en esa <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> cosa, o ocurre un desastre, uno se convierte en pecador; hasta ese punto es notorio (ma'hlûm).
 
 <figure class="table chapter-navigator">
   <table>

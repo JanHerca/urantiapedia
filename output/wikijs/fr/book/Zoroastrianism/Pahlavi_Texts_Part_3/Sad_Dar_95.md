@@ -73,4 +73,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (358:3) Équivalent à un péché d'Aredû<i>s</i>, ou coup porté avec une arme (voir Sls. I, 1, 2).
 
-[^4]: (358:4) Les Nyâyi<i>s</i> Mâh et Âtash. B29 interpole également les Nyâyi<i>s</i> 'Mihir'.
+[^4]: (358:4) Les Nyâyi<i>s</i> Mâh et Âtash. B29 interpole également les Nyâyi<i>s</i> « Mihir ».

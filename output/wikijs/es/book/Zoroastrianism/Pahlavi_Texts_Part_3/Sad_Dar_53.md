@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LIII.
+## SAD DAR. CAPÍTULO LIII.
 
 1\. El tema quincuagésimo tercer es que, en tiempos pasados, cuando alguien deseaba emprender un viaje (safar) de al menos [^1] doce leguas (parasang), consagraba un pastel sagrado, para que no le ocurriera ninguna aflicción en el viaje, y los asuntos se desarrollaran según sus deseos y sus ocupaciones fueran [^3] alegres. 2. Y sigue siendo responsabilidad de todos, cuando deseen emprender un viaje, consagrar este pastel sagrado.
 
@@ -64,11 +64,11 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (315:3) La, Lp omiten 'anterior'.
+[^1]: (315:3) La, Lp omiten «anterior».
 
-[^2]: (315:4) B29 tiene 'menor que'.
+[^2]: (315:4) B29 tiene «menor que».
 
-[^3]: (315:5) Lp, B29 inserta 'podría llegar a ser'.
+[^3]: (315:5) Lp, B29 inserta «podría llegar a ser».
 
 [^4]: (315:6) El vigésimo día del mes parsi.
 

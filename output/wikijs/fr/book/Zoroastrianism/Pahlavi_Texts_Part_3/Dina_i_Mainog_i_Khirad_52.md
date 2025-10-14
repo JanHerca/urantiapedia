@@ -80,4 +80,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^7]: (95:5) L19 a « trop », et K43 omet le mot.
 
-[^8]: (95:6) Mal lu a<i>v</i>â<i>z</i>, 'loin', par Nêryôsang.
+[^8]: (95:6) Mal lu a<i>v</i>â<i>z</i>, « loin », par Nêryôsang.

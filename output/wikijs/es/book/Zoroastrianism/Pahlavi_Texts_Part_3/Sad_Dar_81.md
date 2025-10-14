@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXXI.
+## SAD DAR. CAPÍTULO LXXXI.
 
 1\. El octogésimo primer tema es este: que todo deber y buena obra que sea necesario realizar, deben cumplirse durante ese día, y no posponerse para el día siguiente. <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> 2\. Pues se declara en la revelación que el creador Hôrmazd le habló a Zaratust así: «¡Oh, Zaratust! No he creado a nadie mejor que tú en el mundo, y después de ti tampoco crearé a nadie; tú eres mi elegido, y he hecho este mundo manifiesto por tu causa». 3. Y todas [^1] estas personas ('<i>h</i>alâîq) que he creado, y todos estos monarcas que han existido y existen, siempre han mantenido la esperanza de que yo _debería_ crearte en sus días, para que _deberían_ aceptar (qabûl kunand) la religión, y sus almas _deberían_ alcanzar el cielo supremo.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 10\. Mientras tengas toda esta grandeza que te he dado, ¡oh Zaratust!, te precepto que «no pospongas para mañana toda buena obra que puedas hacer hoy, y realiza con tus propias manos el designio de tu alma». 11. No te enorgullezcas (gharrah) por ser aún joven y poder hacerlo en el futuro, mientras piensas: «Lo haré después de esto». 12. Porque ha habido muchas personas cuyo resto de vida fue un solo día, y se les ha arrebatado ante cincuenta años de trabajo.
 
-13\. Por lo tanto, esfuérzate, para que no pospongas el deber de hoy para mañana. 14. Porque Aharman, el malvado, ha confiado este asunto a dos demonios, uno llamado Tardy (dêr) y el otro llamado Afterwards (pas). 15. Ambos demonios están unidos, y se esfuerzan y se esfuerzan [^8] con el hombre, de modo que su deber se retrasa [^9]. 16. Porque, respecto a todo deber y buena obra que se presenta, ese demonio llamado Tardy dice así: «Vivirás mucho tiempo, y es posible realizar este deber en todo momento»; y ese demonio llamado Afterwards dice: «Pasa ahora; 17. Y estos dos demonios unidos mantienen al alma alejada de su propio deber, hasta que llega el fin; todos los deberes han quedado rezagados, y _tiene_ que experimentar arrepentimiento ('hasarat) y penitencia. 18. No obtiene ningún beneficio a través del deber _y_ las buenas obras, _y_ parte de este mundo.
+13\. Por lo tanto, esfuérzate, para que no pospongas el deber de hoy para mañana. 14. Porque Aharman, el malvado, ha confiado este asunto a dos demonios, uno llamado Tardy (dêr) y el otro llamado Afterwards (pas). 15. Ambos demonios están unidos, y <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> se esfuerzan y se esfuerzan [^8] con el hombre, de modo que su deber se retrasa [^9]. 16. Porque, respecto a todo deber y buena obra que se presenta, ese demonio llamado Tardy dice así: «Vivirás mucho tiempo, y es posible realizar este deber en todo momento»; y ese demonio llamado Afterwards dice: «Pasa ahora; 17. Y estos dos demonios unidos mantienen al alma alejada de su propio deber, hasta que llega el fin; todos los deberes han quedado rezagados, y _tiene_ que experimentar arrepentimiento ('hasarat) y penitencia. 18. No obtiene ningún beneficio a través del deber _y_ las buenas obras, _y_ parte de este mundo.
 
 <figure class="table chapter-navigator">
   <table>
@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (345:1) B29 omite 'todos'.
+[^1]: (345:1) B29 omite «todos».
 
 [^2]: (345:2) B29 omite estas veinticinco palabras.
 
@@ -78,12 +78,12 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^4]: (345:4) El del medio de los siete.
 
-[^5]: (346:1) B29 tiene 'el conocimiento que la humanidad practica'.
+[^5]: (346:1) B29 tiene «el conocimiento que la humanidad practica».
 
-[^6]: (346:2) Lp, B29 han 'enseñado todo el conocimiento'.
+[^6]: (346:2) Lp, B29 han «enseñado todo el conocimiento».
 
 [^7]: (346:3) No está claro si la exhortación de Hôrmazd termina aquí o en otro lugar.
 
-[^8]: (347:1) Lp tiene 'conflicto'.
+[^8]: (347:1) Lp tiene «conflicto».
 
-[^9]: (347:2) B29 omite 'detrás'.
+[^9]: (347:2) B29 omite «detrás».

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXIX.
+## SAD DAR. CAPÍTULO LXIX.
 
 1\. El sexagésimo noveno tema es este: no es apropiado que la luz del sol _deba_ caer sobre un fuego, pues cada vez que la luz del sol cae sobre un fuego [^1], es un [^2] pecado. 2. Si expones un fuego al sol, es un pecado de tres <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> stîrs [^3]; y, si colocas algo sobre el fuego, es necesario que no tenga ningún agujero, para que la luz (nûr) y la fuerza del fuego _puedan_ disminuir, hasta donde sabes.
 
@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (334:6) B29 omite estas ocho palabras.
 
-[^2]: (334:7) B29 tiene 'mucho'.
+[^2]: (334:7) B29 tiene «mucho».
 
 [^3]: (335:1) Lo mismo que los doce dirhams del Cap. LXVIII, 1, 2.

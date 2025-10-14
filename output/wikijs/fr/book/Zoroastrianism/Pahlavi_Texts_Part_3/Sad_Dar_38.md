@@ -73,7 +73,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (300:4) B29, J15 insère « ablutions cérémonielles et ».
 
-[^5]: (300:5) Lp, J15 ajoute 'si la coupe ou le gobelet est en cuivre ou en laiton, on rend l'eau qu'on boit également pure de cette manière ; si elle est en terre ou en bois, on la place loin de la maison, ou on la présente à quelqu'un d'une religion différente ; de même, on accomplit l'ablution cérémonielle de ce qui est entièrement souillé.' (J15 a 'ce qui est souillé comme un métal.')
+[^5]: (300:5) Lp, J15 ajoute 'si la coupe ou le gobelet est en cuivre ou en laiton, on rend l'eau qu'on boit également pure de cette manière ; si elle est en terre ou en bois, on la place loin de la maison, ou on la présente à quelqu'un d'une religion différente ; de même, on accomplit l'ablution cérémonielle de ce qui est entièrement souillé.' (J15 a « ce qui est souillé comme un métal. »)
 
 [^6]: (300:6) J15 ajoute « boire ».
 

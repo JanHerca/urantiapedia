@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿De los ricos, quién es el más pobre, y de los pobres, quién es el más rico?» <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> 3\. El espíritu de sabiduría respondió (4) así: «De los ricos, el más pobre es quien no se conforma con lo que tiene, (5) y se angustia por el aumento de cualquier cosa.»
 
-6\. 'Y de los pobres, el más rico es el que se contenta con lo que tiene, (7) y no se preocupa por el aumento de nada.'
+6\. «_Y_ de los pobres, el más rico es el que se contenta con lo que tiene, (7) y no se preocupa por el aumento de nada.»
 
 <figure class="table chapter-navigator">
   <table>

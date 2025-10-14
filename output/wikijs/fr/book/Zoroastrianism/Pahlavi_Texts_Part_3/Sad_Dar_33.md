@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le trente-troisième sujet est celui-ci, que, lorsqu'il y a un lieu et qu'il existe un risque ou une crainte qu'un cadavre [^1] soit caché sous la terre, il faut le rendre apparent et visible [^2], car c'est une grande bonne œuvre.
 
-2\. Car il est déclaré dans la bonne religion, que, _quand_ ils cachent un cadavre sous la terre, Spendârma<i>d</i> [^3], l'archange, frissonne ; c'est tout aussi grave qu'un serpent _ou_ un scorpion le serait pour quelqu'un dans son sommeil privé [^4], et [est aussi](errata_htm.html) exactement comme cela pour le sol. 3. Quand tu rends un cadavre <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> sous la terre pour ainsi dire apparent, tu rends _le sol_ libéré de cette affliction.
+2\. Car il est déclaré dans la bonne religion, que, _quand_ ils cachent un cadavre sous la terre, Spendârma<i>d</i> [^3], l'archange, frissonne ; c'est tout aussi grave qu'un serpent _ou_ un scorpion le serait pour quelqu'un dans son sommeil privé [^4], et est aussi exactement comme cela pour le sol. 3. Quand tu rends un cadavre <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> sous la terre pour ainsi dire apparent, tu rends _le sol_ libéré de cette affliction.
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,6 +68,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (294:3) B29 dit « il est nécessaire de le rendre apparent ».
 
-[^3]: (294:4) Av. spe<i>n</i>ta ârmaiti, 'dévotion abondante', l'archange féminin qui est censé avoir la charge spéciale de la terre (voir Sls. XV, 20-24).
+[^3]: (294:4) Av. spe<i>n</i>ta ârmaiti, « dévotion abondante », l'archange féminin qui est censé avoir la charge spéciale de la terre (voir Sls. XV, 20-24).
 
 [^4]: (294:5) B29 a « dans un vêtement de nuit ».

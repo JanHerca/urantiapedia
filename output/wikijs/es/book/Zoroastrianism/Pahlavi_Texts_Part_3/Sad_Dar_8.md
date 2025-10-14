@@ -32,11 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO VIII.
+## SAD DAR. CAPÍTULO VIII.
 
 1\. El octavo tema es que es necesario mantener la religión mediante reglas (dastûr) y obedecer las órdenes de los sumos sacerdotes; y todo deber que el pueblo desempeñe debe cumplirse bajo su autoridad.
 
-2\. Pues se declara en la buena religión que, si realizan tantas buenas obras como las hojas de los árboles, los granos de arena del desierto o las gotas (qa<i>t</i>rah) de lluvia, y no las realizan por orden de los sumos sacerdotes o a su entera satisfacción, no obtienen mérito alguno, y por las buenas obras que han realizado obtienen el pecado como recompensa. 3. Mientras viva, no es apropiado llamarlo justo, y cuando muere no alcanza el cielo, ni un solo arcángel se le acerca. 4. No escapa de las manos de los demonios y de Aharman, ni se libera del infierno. 5. Porque los deberes _y_ las buenas obras [^2] llegan al alma _en_ ​​aquellas ocasiones en que _los_ realizan con la autoridad de los sumos sacerdotes y de aquellos familiarizados con la religión, y _cuando_ les dan la décima parte de esas buenas obras [^3].
+2\. Pues se declara en la buena religión que, si realizan tantas buenas obras como las hojas de los árboles, los granos de arena del desierto o las gotas (qa<i>t</i>rah) de lluvia, y no las realizan por orden de los sumos sacerdotes o a su entera satisfacción, no obtienen mérito alguno, y por las buenas obras que han realizado obtienen el pecado como recompensa. 3. Mientras viva, no es apropiado llamarlo justo, y cuando muere no alcanza el cielo, ni un solo arcángel se le acerca. 4. No escapa de las manos de los demonios y de Aharman, ni se <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> libera del infierno. 5. Porque los deberes _y_ las buenas obras [^2] llegan al alma _en_ ​​aquellas ocasiones en que _los_ realizan con la autoridad de los sumos sacerdotes y de aquellos familiarizados con la religión, y _cuando_ les dan la décima parte de esas buenas obras [^3].
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (266:4) Lp, B29 tienen 'va'.
+[^1]: (266:4) Lp, B29 tienen «va».
 
 [^2]: (267:1) Es decir, el mérito de realizarlas.
 

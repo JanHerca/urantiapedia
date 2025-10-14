@@ -64,8 +64,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (67:2) Literalmente, 'más imprevisto (apa<i>s</i>dânîktar).' L19 tiene 'más inaprobable (apasa<i>n</i>da<i>s</i>nîtar).'
+[^1]: (67:2) Literalmente, «más imprevisto (apa<i>s</i>dânîktar).» L19 tiene «más inaprobable (apasa<i>n</i>da<i>s</i>nîtar).»
 
 [^2]: (67:3) Véase Cap. XIX, 6.
 
-[^3]: (67:4) L19 tiene 'no cree en'.
+[^3]: (67:4) L19 tiene «no cree en».

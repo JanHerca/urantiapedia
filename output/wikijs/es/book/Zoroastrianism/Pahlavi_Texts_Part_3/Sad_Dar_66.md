@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXVI.
+## SAD DAR. CAPÍTULO LXVI.
 
 1\. El tema sesenta y seis es este, que es obligación de todas las mujeres [^1] ordenar los días (ayyâm) del Dvâzdah-hômâst [^2], porque todo pecado que pueda haber surgido durante la menstruación, y _en_ ​​otros momentos, se limpia _de ese modo_.
 
@@ -66,7 +66,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (330:2) B29 tiene 'sobre las esposas de cada uno', y J15 tiene 'sobre cada una'.
+[^1]: (330:2) B29 tiene «sobre las esposas de cada uno», y J15 tiene «sobre cada una».
 
 [^2]: (330:3) En la versión Gu<i>g</i>arâti (p. 310) del Sad Dar Dastûr de largo recorrido, Jâmâspji afirma, en una nota al pie, que el Dvâzdah-hômâst consiste en una ceremonia Yazi<i>s</i>n cada día durante 144 días, en honor a doce ángeles, de modo que cada ángel es reverenciado durante doce días consecutivos. Anteriormente declaró (véase Byt. II, 59 n) que esta celebración era un Hômâst, y que un Dvâzdah-hômâst era una celebración similar de 264 días en honor a veintidós ángeles durante doce días cada uno. Sin embargo, del cap. XLI, 7, 20, se desprende que el número de ceremonias puede variar según la riqueza de cada individuo.
 

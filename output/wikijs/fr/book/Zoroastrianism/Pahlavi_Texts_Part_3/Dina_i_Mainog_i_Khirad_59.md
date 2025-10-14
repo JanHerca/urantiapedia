@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1]: (105:4) Littéralement « ceux qui s'efforcent de faire le bien », la plus basse des quatre classes de la communauté mentionnées ici (voir aussi les chap. XXXI, X).XII).
+[^1]: (105:4) Littéralement « ceux qui s'efforcent de faire le bien », la plus basse des quatre classes de la communauté mentionnées ici (voir aussi les chap. XXXI, X et XII).
 
 [^2]: (106:1) Ou, peut-être, « usure ». La version sanskrite contient « paresse », comme si Nêr. avait lu âsû<i>d</i>akîh.
 

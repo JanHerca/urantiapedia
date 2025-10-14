@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le vingt-cinquième sujet est celui-ci, que tout accord et toute promesse (qaûl) qu'ils font avec quelqu'un, il est nécessaire dans cette mesure de les exécuter et de les faire advenir. 2. Bien que beaucoup de choses puissent [^1] nuire par son moyen (sabab), il n'est pas souhaitable d'exécuter cet accord avec duplicité.
 
-3\. Parce que, dans notre religion, ils appellent cela un Mihir-dru<i>g</i> ('rupture de promesse'), _et_ dans la révélation, il décrète, _comme_ à quiconque_ commet un Mihir-dru<i>g</i>, que le chemin _vers_ le ciel lui devient fermé, et cette personne elle-même sort de ce monde, inconfortable, de sorte qu'un avertissement ('halâmat) lui devient tout à fait manifeste.
+3\. Parce que, dans notre religion, ils appellent cela un Mihir-dru<i>g</i> (« rupture de promesse »), _et_ dans la révélation, il décrète, _comme_ à quiconque_ commet un Mihir-dru<i>g</i>, que le chemin _vers_ le ciel lui devient fermé, et cette personne elle-même sort de ce monde, inconfortable, de sorte qu'un avertissement ('halâmat) lui devient tout à fait manifeste.
 
 4\. Et un Mihir-dru<i>g</i> est attaché [^2] _de_ telle manière que, _si_ la fortune (<i>t</i>âli'h) est arrivée heureusement à quelqu'un [^3] <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>, ou s'il ne lui reste qu'une quantité insuffisante de vie ('humr), le Mihir-dru<i>g</i> s'étend à ses enfants sans opposition ('<i>h</i>ilâf). 5. Et chaque foyer qui s'éteint, ou toute race dont la descendance s'éteint, ou _l'un_ des grands malheurs qui arrivent à l'humanité — malheur dont on se libère avec difficulté — peuvent tous être dus au _fait_ qu'ils ont commis un Mihir-dru<i>g</i>.
 

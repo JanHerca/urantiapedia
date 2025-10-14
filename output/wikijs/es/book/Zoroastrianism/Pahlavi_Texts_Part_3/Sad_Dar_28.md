@@ -32,11 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXVIII.
+## SAD DAR. CAPÍTULO XXVIII.
 
-1\. El vigésimo octavo tema es este: que, al enseñar el Avesta, es igualmente necesario <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> que lo enseñen correcta y verazmente, y que lo reciten con deliberación y serenidad (sâkinî). 2. Y es necesario que quienes reciben la enseñanza lo reciten coherentemente y lo recuerden siempre.
+1\. El vigésimo octavo tema es este: que, al enseñar el Avesta, es igualmente necesario <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> que lo enseñen correcta y verazmente, _y_ que lo reciten con deliberación y serenidad (sâkinî). 2. Y es necesario que quienes reciben la enseñanza lo reciten coherentemente y lo recuerden _siempre_.
 
-3\. Pues se declara en la revelación que el ser sagrado ha decretado así: «A todo aquel que aparte el Avesta de su memoria, pondré su alma tan lejos del cielo como la anchura de la tierra». 4. Y en el comentario del Avesta se relata que, en tiempos pasados, a cualquiera que hubiera aprendido el Avesta y lo hubiera apartado de su memoria, hasta que se le hiciera fácil, le habrían dado pan como el que se les da a los perros. 5. Y en otro lugar he leído que le habrían dado pan a punta de lanza.
+3\. Pues se declara en la revelación que el ser sagrado _ha_ decretado así: «A todo aquel que aparte el Avesta de su memoria, pondré su alma tan lejos del cielo como la anchura de la tierra». 4. Y en el comentario del Avesta se relata que, en tiempos pasados, a cualquiera que hubiera aprendido el Avesta y lo hubiera apartado de su memoria, hasta que se le hiciera fácil, le habrían dado pan como el que se les da a los perros. 5. _Y en_ otro lugar he leído que le habrían dado pan _a_ punta de lanza.
 
 <figure class="table chapter-navigator">
   <table>

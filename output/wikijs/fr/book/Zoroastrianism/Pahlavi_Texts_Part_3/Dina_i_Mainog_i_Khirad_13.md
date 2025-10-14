@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (39:3) Le Pandnâmah de Buzurg-Mihir déclare : « ceci aussi est déclaré, que l'esprit maléfique a commis même cette chose très grave sur les créatures d'Aûha<i>r</i>ma<i>z</i><i>d</i>, alors que la récompense des bonnes œuvres et la punition du péché étaient complètement cachées par lui, dans les pensées des hommes, comme la conséquence des actions. »
 
-[^4]: (40:1) Nêr. a 'plus pur', en reliant pa<i>d</i>îyâvandtar avec pâ<i>d</i>îyâ<i>v</i>, 'ablution' ; mais cela est difficilement possible, alors que le premier mot peut être facilement retracé jusqu'à l'av. paiti + yâ + va<i>n</i>t, avec le sens de 'résistant, têtu, fort' ; comparer avec le persan payâb, 'puissance'.
+[^4]: (40:1) Nêr. a « plus pur », en reliant pa<i>d</i>îyâvandtar avec pâ<i>d</i>îyâ<i>v</i>, « ablution » ; mais cela est difficilement possible, alors que le premier mot peut être facilement retracé jusqu'à l'av. paiti + yâ + va<i>n</i>t, avec le sens de « résistant, têtu, fort » ; comparer avec le persan payâb, « puissance ».
 
 [^5]: (40:2) Av. Vî<i>s</i>tâspa, Pers. Gu<i>s</i>tâsp, cinquième roi de la dynastie Kayân, qui adopta la religion de Zarâtu<i>s</i>t dans la trentième année de son règne, et qui aurait régné 120 ans (voir Bd. XXXIV, 7).
 

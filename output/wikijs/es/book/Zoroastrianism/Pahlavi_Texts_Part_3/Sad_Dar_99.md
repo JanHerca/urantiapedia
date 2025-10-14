@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XCIX.
+## SAD DAR. CAPÍTULO XCIX.
 
 1\. El tema nonagésimo noveno es éste: que no es apropiado que los sacerdotes oficiantes, sumos sacerdotes, jefes espirituales y sacerdotes enseñen Pahlavi a todo el mundo.
 
@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (360:4) B29 inserta 'no es apropiado para ninguna otra persona'.
+[^1]: (360:4) B29 inserta «no es apropiado para ninguna otra persona».
 
-[^2]: (360:5) Lp tiene 'si _hay_ alguno de los otros, no es apropiado que _uno_ le enseñe_.'
+[^2]: (360:5) Lp tiene «si _hay_ alguno de los otros, no es apropiado que _uno_ le enseñe_.»

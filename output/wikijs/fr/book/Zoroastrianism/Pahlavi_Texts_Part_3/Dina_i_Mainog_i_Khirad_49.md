@@ -104,6 +104,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^15]: (92:3) L19 a des « étoiles ».
 
-[^16]: (92:4) L19 a azâi<i>s</i>nî, 'non procréatif'.
+[^16]: (92:4) L19 a azâi<i>s</i>nî, « non procréatif ».
 
 [^17]: (93:1) Nêr. lit vah<i>e</i><i>z</i>a et traduit par « jour de l'an ».

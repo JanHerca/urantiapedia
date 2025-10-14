@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le trente-neuvième sujet est celui-ci, qu'il est nécessaire d'entretenir convenablement le feu sacré [^1] qu'ils ont établi dans une ville ou un village. 2. Et _la_ nuit il est nécessaire de le faire s'allumer une fois, et le jour deux fois.
 
-3\. Car il est déclaré dans l'Apocalypse que, s'il n'y avait pas eu de feu sacré, personne n'aurait pu aller de ville en ville ; car c'est grâce à la gloire du feu sacré que personne sur les chemins ne peut commettre d'excès sur qui que ce soit d'autre.
+3\. Car il est déclaré dans l'Apocalypse que, s'il n'y _avait_ pas eu de feu sacré, personne n'aurait pu aller de ville en ville ; car c'est grâce à la gloire du feu sacré que personne sur les chemins ne peut commettre d'excès sur qui que ce soit d'_autre_.
 
 4\. Il est nécessaire qu'ils présentent tout le bois ; et, quant à celui qui l'allume, ils lui donnent du pain et un salaire (nafaqah). 5. Car, chaque fois que ce feu est satisfait et qu'ils l'entretiennent correctement, tout feu qui peut exister sur la terre des sept régions est satisfait par cette personne.
 

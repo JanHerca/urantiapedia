@@ -34,11 +34,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXXVIII.
 
-1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi ne répartissent-ils pas le bonheur de l'existence terrestre selon la dignité, et font-ils de l'âme un accapareur des existences spirituelles par la dignité de l'action ? »
+1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi ne répartissent-ils pas le bonheur <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> de l'_existence_ terrestre selon la dignité, et font-ils de l'âme un accapareur des _existences_ spirituelles par la dignité de l'action ? »
 
 3\. L'esprit de sagesse répondit (4) ainsi : « À cause de la compassion d'Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur, à l'égard des créatures, il répartit tout bonheur également entre les bons et les mauvais. 5. Mais quand il ne leur arrive pas toujours, c'est à cause de l'oppression d'Aharman et des démons, et de l'extorsion de ces sept planètes [^1]. »
 
-6\. 'Et ils font de quelqu'un [^2] un saisisseur des existences spirituelles, par la valeur de l'action, à cause de cela, parce que la méchanceté de chacun [^3] naît de l'accomplissement de ses propres actions.'
+6\. 'Et ils font de quelqu'_un_ [^2] un saisisseur des _existences_ spirituelles, par la valeur de l'action, à cause de cela, parce que la méchanceté de chacun [^3] naît de l'accomplissement de ses propres actions.'
 
 <figure class="table chapter-navigator">
   <table>

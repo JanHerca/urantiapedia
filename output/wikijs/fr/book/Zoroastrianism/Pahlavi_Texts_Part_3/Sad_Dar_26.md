@@ -66,13 +66,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (289:1) La, Lp ont des « anciens », mais cela semble incompatible avec le § 2.
 
-[^2]: (289:2) La a 'ancêtre', ayant lu ba-niyâh au lieu de panâh.
+[^2]: (289:2) La a « ancêtre », ayant lu ba-niyâh au lieu de panâh.
 
 [^3]: (289:3) Lp, B29, J15 ajoutent « _et_ ils _peuvent_ assurer la santé du corps et la sécurité. »
 
 [^4]: (289:4) Lp, B29, J15 ont « qu'ils _peuvent_ lui fournir ».
 
-[^5]: (289:5) Lp, B29 insérer 'si'.
+[^5]: (289:5) Lp, B29 insérer « si ».
 
 [^6]: (289:6) Lp, B29 a « il est nécessaire ».
 

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XLIX [^1].
+## SAD DAR. CAPÍTULO XLIX [^1].
 
 1\. El cuadragésimo noveno tema es este: cuando alguien <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> enciende un fuego, es necesario dejarlo un tiempo para que el lecho de cenizas (bûm) se enfríe; después, hay que tomarlo y llevarlo al recinto del fuego. 2. No es apropiado llevar el lecho de cenizas (zamîn) de un fuego caliente al recinto del fuego; hasta aquí es notorio.
 

@@ -72,4 +72,4 @@ dateCreated: 2025-10-6T9:44:6Z
 
 [^4]: (27:3) Literally, ‘for the producers of business.’
 
-[^5]: (27:4) That is, for the priests. The Parsi-Persian version divides these good works into nine items, by counting next-of-kin marriage' as the third, and providing of lodging' as the seventh. For a fuller detail of good works, see Chap. XXXVII.
+[^5]: (27:4) That is, for the priests. The Parsi-Persian version divides these good works into nine items, by counting next-of-kin marriage‘ as the third, and providing of lodging’ as the seventh. For a fuller detail of good works, see Chap. XXXVII.

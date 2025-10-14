@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXIV.
+## SAD DAR. CAPÍTULO XXIV.
 
-1\. El vigésimo cuarto tema es que cuando un niño nace de su madre, es necesario que le administren el jugo de Hôm consagrado [^1], para que el entendimiento ('haql), la sabiduría y el conocimiento le lleguen con mayor abundancia, y la falta (ablat) le llegue con mayor escasez [^2].
+1\. El vigésimo cuarto tema es que cuando un niño nace de su madre, es necesario que le administren el jugo de Hôm consagrado [^1], para que el entendimiento ('haql), la sabiduría y <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> el conocimiento le lleguen con mayor abundancia, y la falta (ablat) le llegue con mayor escasez [^2].
 
 2\. Si en ese momento no realizan la consagración, _deben_ tomar un poco de Hôm para ello [^3], y recitar [^4] un Yathâ-ahû-vairyô [^5], y poner un poco de agua en _él_, y hacer jugo de Hôm con eso, y dárselo _al infante, y después [^6] leche.
 
@@ -68,10 +68,10 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (287:1) B29 omite estas once palabras.
 
-[^3]: (287:2) B29 añade 'en el mortero Hôm'.
+[^3]: (287:2) B29 añade «en el mortero Hôm».
 
-[^4]: (287:3) B29 agrega 'y pronunciar'.
+[^4]: (287:3) B29 agrega «y pronunciar».
 
 [^5]: (287:4) Véase Mkh. XXVII, 70 n.
 
-[^6]: (287:5) Lp, B29 inserta '_ellos_ deben dar'.
+[^6]: (287:5) Lp, B29 inserta «_ellos_ deben dar».

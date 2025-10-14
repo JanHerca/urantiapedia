@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. L'esprit de sagesse répondit (8) ainsi : « Le ciel, la terre, l'eau et tout ce qui s'y trouve sont semblables à des œufs (khâîyak-dî<i>s</i>), comme [2] l'œuf d'un oiseau. » 9. Le ciel est disposé au-dessus de la terre [^3], comme un œuf, par l'œuvre du créateur Aûha<i>r</i>ma<i>z</i><i>d</i> ; (10) et l'apparence de la terre, au milieu du ciel [^4], est comme le jaune au milieu de l'œuf ; \[(11) et l'eau au sein de la terre et du ciel est telle que l'eau au sein de l'œuf.\] [^5]
 
-12\. 'Et le flux de l'eau de toute espèce qui est dans le monde est. de la région d'Arzah [^6] (13) là où le soleil se lève [^7]; et _sa_ vague descendante (nîgun bâli<i>s</i>nŏ) [^8] est vers la région de Savah (14) où [^9] le soleil se couche; et la vague (âbâli<i>s</i>nŏ) de l'eau est dans la mer Pûtîk [^10], (15) et de la mer Pûtîk elle retourne à la mer Varkash [^11].
+12\. 'Et le flux de l'eau de toute espèce qui est dans le monde est. de la région d'Arzah [^6] (13) là où le soleil se lève [^7]; et _sa_ vague descendante (nîgun bâli<i>s</i>nŏ) [^8] est vers la région de Savah (14) où [^9] le soleil se couche; <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> et la vague (âbâli<i>s</i>nŏ) de l'eau est dans la mer Pûtîk [^10], (15) et de la mer Pûtîk elle retourne à la mer Varkash [^11].
 
 16\. 'La demeure et le siège des nuages ​​sont sur Albûr<i>z</i> [^12].
 
@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (85:1) L19 a « dans le ciel ».
 
-[^2]: (85:2) L19 a 'sont disposés de telle sorte que'. La lecture de dî<i>s</i>, 'comme', est plutôt incertaine.
+[^2]: (85:2) L19 a « sont disposés de telle sorte que ». La lecture de dî<i>s</i>, « comme », est plutôt incertaine.
 
 [^3]: (85:3) L19 ajoute « et sous la terre ».
 
@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^6]: (85:6) Voir Chap. XVI, 10 n.
 
-[^7]: (85:7) Cette clause et celle correspondante du § 14 semblent être en contradiction avec les déclarations du Bd. V, 8, XI, 3, selon lesquelles Arzah est à l'ouest et Savah à l'est ; Nêryôsang a donc transféré la conjonction 'et' au début de la section dans les deux cas, de manière à ce que les eaux orientales coulent vers Savah et les eaux occidentales dans la mer. Si, cependant, nous comprenons que 'là' signifie 'dans ces endroits', et non pas comme se référant à la région dont il suit le nom, nous pouvons conclure que l'affirmation ici est à l'effet qu'à l'est l'eau coule d'Arzah (la région occidentale), et à l'ouest vers Savah (la région orientale), ce qui pourrait être vrai si nous plaçons l'est en Chine ou au Bengale, et l'ouest en Arménie ou en Mésopotamie, mais il est plus probablement destiné à impliquer simplement que la totalité de l'eau coule à travers la région centrale de Khvanîras.
+[^7]: (85:7) Cette clause et celle correspondante du § 14 semblent être en contradiction avec les déclarations du Bd. V, 8, XI, 3, selon lesquelles Arzah est à l'ouest et Savah à l'est ; Nêryôsang a donc transféré la conjonction « et » au début de la section dans les deux cas, de manière à ce que les eaux orientales coulent vers Savah et les eaux occidentales dans la mer. Si, cependant, nous comprenons que « là » signifie « dans ces endroits », et non pas comme se référant à la région dont il suit le nom, nous pouvons conclure que l'affirmation ici est à l'effet qu'à l'est l'eau coule d'Arzah (la région occidentale), et à l'ouest vers Savah (la région orientale), ce qui pourrait être vrai si nous plaçons l'est en Chine ou au Bengale, et l'ouest en Arménie ou en Mésopotamie, mais il est plus probablement destiné à impliquer simplement que la totalité de l'eau coule à travers la région centrale de Khvanîras.
 
 [^8]: (85:8) L19 a anbâri<i>s</i>nŏ, « accumulation », ici et dans le § 14.
 
@@ -114,6 +114,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^21]: (87:5) C'est-à-dire qu'ils vont immédiatement au ciel, comme le fait l'âme juste (voir chap. II, 123-157).
 
-[^22]: (87:6) L19 a Gôpatshâh, 'le roi de Gôpat' (comme dans Chap. LXII, 8, 31), pays qui est décrit dans Dd. XC, 4 comme 'contigus à Aîrân-vê<i>g</i>ô'. Aghrêra<i>d</i> et son fils sont appelés rois de Gôpat dans Bd. XXIX, 5, XXXI, 22 ; et Gôk-patŏ est dit être 'dans les pays non-aryens', dans le Sû<i>d</i>kar Nask (voir Dd. XC, 8 n).
+[^22]: (87:6) L19 a Gôpatshâh, « le roi de Gôpat » (comme dans Chap. LXII, 8, 31), pays qui est décrit dans Dd. XC, 4 comme « contigus à Aîrân-vê<i>g</i>ô ». Aghrêra<i>d</i> et son fils sont appelés rois de Gôpat dans Bd. XXIX, 5, XXXI, 22 ; et Gôk-patŏ est dit être « dans les pays non-aryens », dans le Sû<i>d</i>kar Nask (voir Dd. XC, 8 n).
 
 [^23]: (87:7) Apparemment l'ange Srôsh (voir Chap. II, 115).

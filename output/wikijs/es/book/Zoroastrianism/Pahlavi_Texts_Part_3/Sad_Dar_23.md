@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXIII.
+## SAD DAR. CAPÍTULO XXIII.
 
 1\. El tema vigésimo tercero es el siguiente: es necesario impedir que un animal atado se porte mal y vigilar a las propias criaturas, especialmente cuando han comido carne.
 

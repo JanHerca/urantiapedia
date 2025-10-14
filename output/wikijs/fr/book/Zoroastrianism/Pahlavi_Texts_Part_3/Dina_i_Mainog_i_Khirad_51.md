@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Pourquoi y a-t-il des cas où un homme paresseux, ignorant et mauvais parvient à l'éminence et à un grand bien-être, (3) et des cas où un homme digne, sage et bon parvient à une misère grave, à la perplexité et à l'indigence ? »
 
-4\. L'esprit de sagesse répondit (5) ainsi : « Quant à celui qui est un homme paresseux, ignorant et mauvais, lorsque son destin devient une aide, sa paresse devient alors semblable à de la diligence, son ignorance à [^1] la connaissance, et sa bassesse à [^2] la bonté. 6. Et quant à celui qui est un homme sage, digne et bon, lorsque son destin est un adversaire, sa sagesse se transforme alors en stupidité et en sottise (alakîh), et sa dignité en ignorance ; (7) et sa connaissance, son habileté et sa dignité deviennent manifestement isolées [^3]. »
+4\. L'esprit de sagesse répondit (5) ainsi : « Quant à celui qui est un homme paresseux, ignorant et mauvais, lorsque son destin devient une aide, sa paresse devient alors semblable à de la diligence, son ignorance à [^1] la connaissance, et sa bassesse à [^2] la bonté. 6. Et quant à celui qui est un homme sage, digne et bon, lorsque son destin est un adversaire, sa sagesse se transforme alors en stupidité et en sottise (alakîh), et sa dignité en ignorance ; (7) et <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> sa connaissance, son habileté et sa dignité deviennent manifestement isolées [^3]. »
 
 <figure class="table chapter-navigator">
   <table>

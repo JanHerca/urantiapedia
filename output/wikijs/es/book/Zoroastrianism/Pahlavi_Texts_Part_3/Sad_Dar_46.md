@@ -32,11 +32,11 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XLVI.
+## SAD DAR. CAPÍTULO XLVI.
 
 1\. El tema cuadragésimo sexto es este: cuando las personas cumplen catorce años, es necesario atarse el cinturón sagrado, porque los sumos sacerdotes han dicho que también es necesario tener en cuenta los nueve meses que han estado en el vientre de la madre.
 
-2\. Porque en nuestra religión no hay deber mejor que llevar el cinturón sagrado, y es obligatorio <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> tanto para el hombre como para la mujer. 3. Y, antiguamente, si alguien cumplía quince años y no llevaba el cinturón sagrado, lo apedreaban, pues le está prohibido el pan y el agua.
+2\. Porque en nuestra religión no hay deber mejor que llevar el _cinturón sagrado_, y es obligatorio <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> tanto para el hombre como para la mujer. 3. Y, antiguamente, si alguien cumplía quince años y no llevaba el cinturón sagrado, lo apedreaban, pues le está prohibido el pan y el agua.
 
 <figure class="table chapter-navigator">
   <table>

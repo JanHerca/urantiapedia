@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. 'El cielo está hecho de la sustancia de la piedra de sangre [^4], tal como también la llaman diamante (almâst).
 
-8\. 'Y la mezcla del agua en la tierra es como la sangre en el cuerpo del hombre.'
+8\. «Y la mezcla del agua en la tierra es como la sangre en el cuerpo del hombre.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (35:6) Se supone que la Tierra está dividida en siete regiones, de las cuales la central es tan grande como las otras seis unidas; dos de las seis (pág. 36) se encuentran al norte, dos al sur, una al este y una al oeste; y se dice que están separadas por mares o montañas, difíciles de cruzar (véase Libro XI). Para sus nombres, véanse los capítulos XVI, 10 y XXVII, 40.
 
-[^2]: (36:1) En lugar de adîna<i>s</i>, 'entonces para uno', Nêr. ha inventado una palabra ainâ, 'de otro modo' (véase también Cap. VII, 19 n).
+[^2]: (36:1) En lugar de adîna<i>s</i>, «entonces para uno», Nêr. ha inventado una palabra ainâ, «de otro modo» (véase también Cap. VII, 19 n).
 
 [^3]: (36:2) Esta información se deriva de Pahl. Vend. I, 4 <i>a</i>.
 

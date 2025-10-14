@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Voici les gens qu'il faut considérer comme riches : (5) l'un est celui qui est parfait en sagesse ; (6) le deuxième, dont le corps est sain, et il vit sans crainte ; (7) le troisième, qui est content de ce qui est venu ; (8) le quatrième, celui dont le destin est un assistant dans la vertu ; (9) le cinquième, qui est bien connu aux yeux des êtres sacrés, et par les langues des bons ; (10) le sixième, dont la confiance est dans cette seule, pure et bonne religion des adorateurs de Ma<i>z</i><i>d</i>a ; (11) _et_ le septième, dont la richesse vient de l'honnêteté.
 
-12\. 'Et voici les gens à considérer comme pauvres : (13) l'un est celui chez qui il n'y a pas de sagesse ; (14) le deuxième, dont le corps n'est pas sain ; (15) le troisième, qui vit dans sa peur, sa terreur [^1] et son mensonge ; (16) le quatrième, qui ne règne pas dans son propre corps ; (17) le cinquième, dont le destin n'est d'aucune aide ; (18) le sixième, qui est infâme aux yeux des êtres sacrés et sur la langue des bons ; (19) et le septième, qui est vieux, et sans enfant ni parenté.'
+12\. 'Et voici les gens à considérer comme pauvres : (13) l'un est celui chez qui il n'y a pas de sagesse ; (14) le deuxième, dont le corps n'est pas sain ; (15) le troisième, qui vit dans sa peur, sa terreur [^1] et son mensonge ; (16) le quatrième, qui ne règne pas dans son <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> propre corps ; (17) le cinquième, dont le destin n'est d'aucune aide ; (18) le sixième, qui est infâme aux yeux des êtres sacrés et sur la langue des bons ; (19) et le septième, qui est vieux, et sans enfant ni parenté.'
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p301"><sup><small>[ pág. 301 ]</small></sup></span>
 
-## TRISTE DAR. CAPÍTULO XXXIX.
+## SAD DAR. CAPÍTULO XXXIX.
 
 1\. El tema trigésimo noveno es este: que es necesario mantener adecuadamente el fuego sagrado [^1] que han establecido en una ciudad o aldea. 2. Y por la noche es necesario encenderlo una vez, y durante el día dos veces.
 
@@ -68,4 +68,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (301:1) Literalmente 'el fuego de Bahirâm'. Compárese con el cap. XCII.
+[^1]: (301:1) Literalmente «el fuego de Bahirâm». Compárese con el cap. XCII.

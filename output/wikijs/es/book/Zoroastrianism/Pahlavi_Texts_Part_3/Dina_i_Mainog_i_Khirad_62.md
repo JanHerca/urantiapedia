@@ -46,9 +46,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 28\. 'El Hôm [^26], que es el preparador de los muertos, crece en el mar Varkash, en el lugar más profundo; (29) y 99.999 espíritus guardianes de los justos son designados _como_ su protección [^27]. 30. El pez Kar [^28] también gira siempre a su alrededor y siempre mantiene alejadas de él a las ranas y otras criaturas nocivas.
 
-31\. 'Gôpaîtôshah [^29] está en Aîrân-vê<i>g</i>ô, dentro de la región de Khvanîras [^30]. 32. De pies a cabeza es un buey, y de cabeza a cabeza es un hombre. 33. Y siempre se sienta a la orilla del mar, (34) y siempre realiza la ceremonia de los seres sagrados, y vierte agua bendita en el mar. 35. Por lo cual [^31], al verter esa agua bendita, innumerables criaturas nocivas en el mar morirán. 36. Porque, si no realiza especialmente esa celebración del ceremonial, y no vierte esa agua bendita en el mar, donde esas innumerables criaturas nocivas perecerán por completo [^32], entonces, siempre que llueva, las criaturas nocivas _tienen_ que llover tal como la lluvia.
+31\. 'Gôpaîtôshah [^29] está en Aîrân-vê<i>g</i>ô, dentro de la región de Khvanîras [^30]. 32. De pies a cabeza es un buey, y de cabeza a cabeza es un hombre. 33. Y siempre se sienta a la orilla del mar, (34) y siempre realiza la ceremonia de los seres sagrados, y vierte agua bendita en el mar. 35. Por lo cual [^31], al verter esa agua bendita, innumerables criaturas <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> nocivas en el mar morirán. 36. Porque, si no realiza especialmente esa celebración del ceremonial, y no vierte esa agua bendita en el mar, donde esas innumerables criaturas nocivas perecerán por completo [^32], entonces, siempre que llueva, las criaturas nocivas _tienen_ que llover tal como la lluvia.
 
-37\. 'El nido del pájaro grifo [^33] está en el árbol. opuesto al daño, el de muchas semillas [^34]. 38. Siempre que se eleva, mil ramitas brotarán de ese árbol, (39) y cuando se posa, rompe las mil ramitas y muerde la semilla de ellas. 40. Y el pájaro <i>K</i>înâmrô<i>s</i> [^35] se posa igualmente _en_ ​​esa vecindad; (41) y su obra es esta, que recoge esas semillas que son mordidas del árbol de muchas semillas, que se opone al daño, y las esparce (pargandê<i>d</i>) _las_ allí donde Tî<i>s</i>tar [^36] se apodera del agua; (42) de manera que, mientras Tî<i>s</i>tar se apodera del agua, _junto_ con aquellas semillas de todas clases, las hará llover _sobre el mundo_ con la lluvia [^37].'
+37\. «El nido del pájaro grifo [^33] está en el árbol. opuesto al daño, el de muchas semillas [^34]. 38. Siempre que se eleva, mil ramitas brotarán de ese árbol, (39) y cuando se posa, rompe las mil ramitas y muerde la semilla de ellas. 40. Y el pájaro <i>K</i>înâmrô<i>s</i> [^35] se posa igualmente _en_ ​​esa vecindad; (41) y su obra es esta, que recoge esas semillas que son mordidas del árbol de muchas semillas, que se opone al daño, y las esparce (pargandê<i>d</i>) _las_ allí donde Tî<i>s</i>tar [^36] se apodera del agua; (42) de manera que, mientras Tî<i>s</i>tar se apodera del agua, _junto_ con aquellas semillas de todas clases, las hará llover _sobre el mundo_ con la lluvia [^37].»
 
 
 <figure class="table chapter-navigator">
@@ -77,13 +77,13 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (108:8) L19 omite 'construido'.
+[^1]: (108:8) L19 omite «construido».
 
-[^2]: (109:1) L19 tiene 'restos'.
+[^2]: (109:1) L19 tiene «restos».
 
-[^3]: (109:2) L19 tiene 'restos'.
+[^3]: (109:2) L19 tiene «restos».
 
-[^4]: (109:3) L19 tiene 'un lugar de descanso'.
+[^4]: (109:3) L19 tiene «un lugar de descanso».
 
 [^5]: (109:4) Véase Cap. XXVII, 58, 62.
 
@@ -97,7 +97,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^10]: (109:9) Ver Vend. II, 106-113.
 
-[^11]: (109:10) Quizás deberíamos entender 'de cada mujer y de cada hombre', es decir, un par de hijos de cada pareja, lo que concordaría con Vend. II, 134.
+[^11]: (109:10) Quizás deberíamos entender «de cada mujer y de cada hombre», es decir, un par de hijos de cada pareja, lo que concordaría con Vend. II, 134.
 
 [^12]: (110:1) Pahl. Vender. II, 136 tiene 150 años.
 
@@ -109,7 +109,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^16]: (110:5) El pico más alto del Albûr<i>z</i> moderno, en el que se dice que está confinado Dahâk (véase Bd. XII, 31).
 
-[^17]: (110:6) Lectura hânŏ drû-aê; L19 tiene han mûrd, 'otro arbusto de mirto'.
+[^17]: (110:6) Lectura hânŏ drû-aê; L19 tiene han mûrd, «otro arbusto de mirto».
 
 [^18]: (110:7) Con flores amarillas.
 
@@ -121,11 +121,11 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^22]: (111:1) Un monstruo prodigioso de carácter benévolo, descrito en el Libro XIX, 1-12; posiblemente alguna divinidad local.
 
-[^23]: (111:2) L19 tiene 'se mantiene', como también se menciona en Yas. XLI, 28.
+[^23]: (111:2) L19 tiene «se mantiene», como también se menciona en Yas. XLI, 28.
 
 [^24]: (111:3) Véase Cap. XLIV, 15.
 
-[^25]: (111:4) L19 agrega 'y contaminación'.
+[^25]: (111:4) L19 agrega «y contaminación».
 
 [^26]: (111:5) El Hôm blanco o Gôkarn, el árbol de la inmortalidad (véase Bd. XVIII, 1, XXVIII 4). Es «el preparador de los muertos», pues se espera que de él se prepare el elixir de la inmortalidad en la resurrección (véase Bd. XXX, 25).
 
@@ -139,11 +139,11 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^31]: (111:10) L19 Omite estas cuatro palabras.
 
-[^32]: (112:1) L19 tiene 'y esas innumerables criaturas nocivas no perecen por completo'.
+[^32]: (112:1) L19 tiene «y esas innumerables criaturas nocivas no perecen por completo».
 
 [^33]: (112:2) El Sênô-mûrûv (Av. saênô mereghô) o Simurgh, una criatura voladora mítica que se decía que amamantaba a sus crías y que tenía tres naturalezas como el murciélago (véase Bd. XIV, 11, 24, XIX, 18).
 
-[^34]: (112:3) L19 tiene 'de todas las semillas'. Se dice que este árbol, del que se supone que brotan todas las plantas silvestres, crece en el mar cerca del árbol Gôkarn, y también en Aîrân-vê<i>g</i>ô (véase Bd. IX, 5, 6, XVIII, 9, XXVII, 2, XXIX, 5).
+[^34]: (112:3) L19 tiene «de todas las semillas». Se dice que este árbol, del que se supone que brotan todas las plantas silvestres, crece en el mar cerca del árbol Gôkarn, y también en Aîrân-vê<i>g</i>ô (véase Bd. IX, 5, 6, XVIII, 9, XXVII, 2, XXIX, 5).
 
 [^35]: (112:4) El jefe de las aves míticas después del Sênô-mûrûv; se dice que defiende a Irân de la invasión recogiendo ocasionalmente distritos extranjeros como si fueran granos de maíz (véase Bd. XIX, 15, XXIV, 29).
 

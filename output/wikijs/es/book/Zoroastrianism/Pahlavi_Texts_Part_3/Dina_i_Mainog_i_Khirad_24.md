@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XXIV.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: 'En vista de la petición de favores y la práctica y mérito de las buenas obras, ¿los seres sagrados también conceden algo a los hombres de otra manera [^1], o no?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «En vista de la petición de favores y la práctica y mérito de las buenas obras, ¿los seres sagrados también conceden algo a los hombres de otra manera [^1], o no?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Ellos conceden; (5) pues _existen_ a quienes llaman así: «Destino _y_ providencia divina». 6. El destino es lo ordenado desde el principio, (7) _y_ la providencia divina es lo que también conceden de otra manera. 8. Pero los seres sagrados proveen y manifiestan en la _existencia_ espiritual poco de esa concesión, debido a que Aharman, el malvado [^2], mediante el poder de los siete planetas, extorsiona la riqueza, _y_ también todos los demás beneficios de la _existencia_ mundana, de los buenos _y_ dignos, _y_ los concede con mayor plenitud a los malos _y_ indignos».
 
@@ -66,4 +66,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (55:2) Es decir, de otra manera que por destino, como se mencionó en el capítulo anterior, y como consecuencia de la oración y el mérito.
 
-[^2]: (55:3) TD2 inserta 'a través de esa causa'.
+[^2]: (55:3) TD2 inserta «a través de esa causa».

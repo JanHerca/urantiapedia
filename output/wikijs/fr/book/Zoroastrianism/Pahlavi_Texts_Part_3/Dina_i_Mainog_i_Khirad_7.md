@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Comment est le ciel, et combien y en a-t-il ? 3. Comment sont les immobiles (hamîstân), et combien y en a-t-il ? 4. Et comment est l'enfer, et combien y en a-t-il ? 5. Quelle est la décision concernant les justes au ciel, et d'où vient leur bonheur ? 6. Quelles sont la misère et l'affliction des méchants en enfer ? 7. Et quelle est la décision concernant ceux qui sont parmi les immobiles, et comment y en a-t-il ? »
 
-8\. L'esprit de sagesse répondit (9) ainsi : « Le ciel s'étend, premièrement, de la station stellaire jusqu'à la station lunaire ; (10) deuxièmement, de la station lunaire jusqu'au soleil ; (11) et, troisièmement, de la station solaire jusqu'au ciel suprême (garô<i>d</i>mânô), où est assis le créateur Aûha<i>r</i>ma<i>z</i><i>d</i>. 12. La première partie du ciel est celle des bonnes pensées (hûmatô), la deuxième celle des bonnes paroles (hûkhtô) et la troisième celle des bonnes actions (hûvar<i>s</i>tô). »
+8\. L'esprit de sagesse répondit (9) ainsi : « Le ciel s'étend, premièrement, de la station stellaire jusqu'à la <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> station lunaire ; (10) deuxièmement, de la station lunaire jusqu'au soleil ; (11) et, troisièmement, de la station solaire jusqu'au ciel suprême (garô<i>d</i>mânô), où est assis le créateur Aûha<i>r</i>ma<i>z</i><i>d</i>. 12. La première partie du ciel est celle des bonnes pensées (hûmatô), la deuxième celle des bonnes paroles (hûkhtô) et la troisième celle des bonnes actions (hûvar<i>s</i>tô). »
 
 13\. Les justes au ciel sont immortels et incorruptibles, sans alarme, sans détresse et sans trouble. 14. Et, partout [^1], ils sont remplis de gloire, parfumés et joyeux, pleins de délices et de bonheur. 15. Et, à tout moment, une brise parfumée et un parfum qui est comme le basilic doux viennent à leur rencontre, qui sont plus agréables que tout plaisir et plus parfumés que toute fragrance. 16. Pour eux aussi, il n'y a pas de satiété en raison de l'existence au ciel. 17. Et leur assise et leur marche, leur perception et leur jouissance sont avec les anges, les archanges et les justes pour toujours et à jamais.
 
@@ -74,13 +74,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (30:1) Nêr. a « à tout moment », ce qui peut être correct, car gâs signifie à la fois « temps » et « lieu ». Il convient de noter, cependant, que le mot utilisé dans le § 15 est damân, qui signifie « temps » seulement.
 
-[^2]: (30:2) Nêr. dit 'leur affliction est autre', en confondant Huz. adîna<i>s</i>\-<i>s</i>ân, 'alors c'est . . . pour eux', avec un supposé Pâz. ainâ<i>s</i>ã, 'autrement leur', qui semble n'avoir aucune existence réelle, car partout où il lit ainâ, 'autrement', le texte Pahl. dit adîna<i>s</i>, 'alors c'est.'
+[^2]: (30:2) Nêr. dit « leur affliction est autre », en confondant Huz. adîna<i>s</i>\-<i>s</i>ân, 'alors c'est . . . pour eux', avec un supposé Pâz. ainâ<i>s</i>ã, « autrement leur », qui semble n'avoir aucune existence réelle, car partout où il lit ainâ, « autrement », le texte Pahl. dit adîna<i>s</i>, 'alors c'est.'
 
 [^3]: (31:1) Ces noms, tels qu'ils sont écrits ici, signifient littéralement « mauvaises pensées bonnes, mauvaises paroles bonnes et mauvaises actions bonnes », comme s'ils impliquaient que ces endroits sont destinés à ceux dont les meilleures pensées, paroles et actions sont mauvaises ; mais il n'est pas tout à fait certain que les noms Pahlavi soient correctement orthographiés.
 
 [^4]: (31:2) Comme déjà indiqué au chap. II, 183-186.
 
-[^5]: (31:3) L19 a 'il est expérimenté' dans les §§ 27-30, en raison du fait que Nêr. a lu dânâk, 'connaissant, expérimenté', au lieu de dîvâk, 'un lieu'.
+[^5]: (31:3) L19 a « il est expérimenté » dans les §§ 27-30, en raison du fait que Nêr. a lu dânâk, « connaissant, expérimenté », au lieu de dîvâk, « un lieu ».
 
 [^6]: (31:4) Littéralement, « possédant une pierre, pierreux » si nous lisons sang-dâr, comme cela semble le plus plausible ; mais nous pourrions lire sôkhâr et considérer le persan khasâr ou khasar, « glace », comme une corruption de celui-ci, par transposition. L19 a « glace (yah) et neige ».
 

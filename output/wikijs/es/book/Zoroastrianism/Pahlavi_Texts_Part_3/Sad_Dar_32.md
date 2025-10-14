@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXXII.
+## SAD DAR. CAPÍTULO XXXII.
 
 1\. El tema trigésimo segundo es este: cuando una gallina canta un canto en una casa, o el gallo canta fuera de tiempo, es deseable que no la maten [^1] y no lo consideren una mala costumbre (fa'hl). 2. Porque canta ese canto porque un demonio ha encontrado la manera de entrar en esa casa, y la gallina o el gallo, por sí solos, no poseen el poder (<i>t</i>âqat) que alejaría al demonio de esa casa, y la gallina va a ayudar al gallo y canta el canto. 3. Por lo tanto, si alguna vez se presenta la casualidad (ittifâq), es necesario traer otro gallo, para que <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> _puede_ ahuyentar a ese demonio con la ayuda de unos a otros. 4. Y si un gallo canta fuera de tiempo, tampoco es deseable matarlo, porque la razón puede ser la que he expuesto.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXX.
+## SAD DAR. CAPÍTULO LXXX.
 
 1\. El octogésimo tema es este: que hay un momento en que recitas un Ashem-vohû [^1], y su mérito puede ser igual al de diez. 2. Hay un momento en que recitas un Ashem-vohû, y su mérito puede ser igual al de cien. 3. Hay un momento en que recitas un [^2], y su mérito puede ser igual al de mil. 4. Hay un momento en que el mérito de un Ashem-vohû [^3] puede ser igual al de diez mil. 5. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> Puede llegar un momento en que el mérito de un Ashem-vohû sea tanto como el valor (qîmat) [^4] de este mundo y de ese _otro_ mundo [^5].
 
@@ -66,24 +66,24 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (343:3) Véase Cap. VII, 1 n. El contenido de este capítulo se deriva de Hn. I, 11-35 (Yt. XXI, 6-15).
 
-[^2]: (343:4) B29 agrega 'Ashem-vohû'.
+[^2]: (343:4) B29 agrega «Ashem-vohû».
 
-[^3]: (343:5) La omite 'el mérito de'; y B29 tiene 'cuando recitas un Ashem-vohû, _y_ el mérito de él', tanto aquí como en § 5.
+[^3]: (343:5) La omite «el mérito de»; y B29 tiene «cuando recitas un Ashem-vohû, _y_ el mérito de él», tanto aquí como en § 5.
 
-[^4]: (344:1) Así Lp, B29, Hn., pero La tiene qismat, 'compartir, destino'.
+[^4]: (344:1) Así Lp, B29, Hn., pero La tiene qismat, «compartir, destino».
 
 [^5]: (344:2) B29 omite estas cuatro palabras.
 
 [^6]: (344:3) B29 tiene ‘valor’, tanto aquí como en los §§ 7, 9, 10.
 
-[^7]: (344:4) La significa 'dormir'.
+[^7]: (344:4) La significa «dormir».
 
 [^8]: (344:5) B29 omite el § 8.
 
 [^9]: (344:6) La omite el § 9.
 
-[^10]: (344:7) B29 simplemente dice 'es el precio de este mundo'.
+[^10]: (344:7) B29 simplemente dice «es el precio de este mundo».
 
-[^11]: (344:8) Lp, B29 inserta 'para'.
+[^11]: (344:8) Lp, B29 inserta «para».
 
 [^12]: (344:9) Véase Pahl. Hn. Yo, 35 <i>a</i>.

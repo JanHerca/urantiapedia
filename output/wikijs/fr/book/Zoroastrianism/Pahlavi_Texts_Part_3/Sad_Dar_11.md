@@ -76,6 +76,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^5]: (271:3) Lp, B29 ont « dans la bonne religion ».
 
-[^6]: (271:4) Av. asha vahi<i>s</i>ta, 'rectitude parfaite', qui est censé protéger le feu (voir Bd. I, 26, Sls. XV, 12).
+[^6]: (271:4) Av. asha vahi<i>s</i>ta, « rectitude parfaite », qui est censé protéger le feu (voir Bd. I, 26, Sls. XV, 12).
 
 [^7]: (271:5) C'est-à-dire trois dirhams et demi en argent, ou près d'une roupie et quart.

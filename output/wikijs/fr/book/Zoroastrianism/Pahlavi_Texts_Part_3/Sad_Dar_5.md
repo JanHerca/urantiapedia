@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE V.
+## SAD DAR. CHAPITRE V.
 
 1\. Le cinquième sujet est celui-ci, qu'il est nécessaire pour tous ceux de la bonne religion qu'ils fassent un effort complet, afin qu'ils célèbrent le rituel et deviennent Navazû<i>d</i> [^1].
 
@@ -82,7 +82,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^6]: (263:2) Lp omet « donc » et B29 contient « certainement ».
 
-[^7]: (263:3) Lp, B29, J15 ajoutent 'et, ensuite ils apportent le Gêtî', et Lp continue ainsi : 'le sens est cité dans Pâzand.'
+[^7]: (263:3) Lp, B29, J15 ajoutent « et, ensuite ils apportent le Gêtî », et Lp continue ainsi : 'le sens est cité dans Pâzand.'
 
 [^8]: (263:4) Ceci explique les « Gâhs célestes » du Bd. XXX, 28. Le Sad Darband-i Hush (cité dans B29, fol. 458 b) dit qu'il est indiqué dans la révélation que le jour où l'on célèbre le Gêtî-kharî<i>d</i> de quelqu'un, l'âme de cette personne s'empare des Gâhs célestes trois fois dans ce seul jour, _et_ est transportée au ciel et au ciel suprême.
 

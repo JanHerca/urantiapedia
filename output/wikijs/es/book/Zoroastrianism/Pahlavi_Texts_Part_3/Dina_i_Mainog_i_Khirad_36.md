@@ -72,7 +72,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^4]: (71:4) El baprakŏ-î â<i>v</i>îk es el Av. bawri<i>s</i> upâpô, con cuyas pieles se dice que Ardvîsûra, el ángel del agua, está vestido (Âbân Yt. 129). Se dice que fue «creado en oposición al demonio que es el agua» (véase Bd. XIX, 29). No se sabe con certeza si es el mismo que el Av. udra upâpa, «nutria de agua»; pero matar a este último se consideraba (por alguna razón no aclarada) un pecado atroz, cuya expiación se detalla en Vend. XIV.
 
-[^5]: (72:1) L19 tiene 'falsedad'.
+[^5]: (72:1) L19 tiene «falsedad».
 
 [^6]: (72:2) El término zandîk, según Mas'aûdî (cap. xxiv), se aplicó primero a los maniqueos, y posteriormente a todos los demás que seguían el comentario (zand) con preferencia al Avesta; sin embargo, finalmente los árabes lo aplicaron a los persas, probablemente con su significado adquirido de «hereje» o «infiel». Una explicación diferente del término se da en Pahl. Yas. LX, 11, donde se afirma que «Zand es el apóstol de los hechiceros, _y_ a través de Zand es posible realizar brujería». La versión sánscrita añade aquí: «es decir, tiene buena opinión de Aharman y los demonios»; y en PA10 continúa así: «la religión del ateo, el camino perverso _de que_ no hay creador, no hay cielo, no hay infierno, no hay resurrección, _y_ así sucesivamente; tal es el significado».
 
@@ -80,12 +80,12 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^8]: (72:4) Dado que el verbo del § 23 puede aplicarse, en pahlavi, a cualquier número de secciones anteriores, se omite en K43 en los § 19-22. El verbo también se omite en K43 en el § 25 por una razón similar.
 
-[^9]: (72:5) O 'incumplimiento de contrato'.
+[^9]: (72:5) O «incumplimiento de contrato».
 
-[^10]: (73:1) Tal parece ser el significado de zanŏ-î kârân. L19 tiene zan-î kasân, 'las esposas de otros'.
+[^10]: (73:1) Tal parece ser el significado de zanŏ-î kârân. L19 tiene zan-î kasân, «las esposas de otros».
 
-[^11]: (73:2) O 'irreverente', según leamos a<i>r</i>âstô o anâstŏ.
+[^11]: (73:2) O «irreverente», según leamos a<i>r</i>âstô o anâstŏ.
 
-[^12]: (73:3) L19 tiene 'apartado y apartado', similar al Cap. XXXVII, 23.
+[^12]: (73:3) L19 tiene «apartado y apartado», similar al Cap. XXXVII, 23.
 
-[^13]: (73:4) Es dudoso que se deba leer sîpan<i>g</i>, 'un lugar de parada', o sîpô<i>g</i>, 'dejar a un lado'; pero el significado es prácticamente el mismo.
+[^13]: (73:4) Es dudoso que se deba leer sîpan<i>g</i>, «un lugar de parada», o sîpô<i>g</i>, «dejar a un lado»; pero el significado es prácticamente el mismo.

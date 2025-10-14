@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO LVII.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Por qué _es_ cuando el conocimiento y la sagacidad de las _existencias_ espirituales y mundanas, ambas unidas, están conectadas contigo?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Por qué _es_ cuando el conocimiento y la sagacidad de las _existencias_ espirituales y mundanas, ambas unidas, están conectadas contigo?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Por esta razón, porque, desde el principio, yo, que soy la sabiduría innata, aparte de las existencias espirituales y mundanas, he estado con Aûha<i>r</i>ma<i>z</i><i>d</i>. 5. Y <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> el creador Aûha<i>r</i>ma<i>z</i><i>d</i> creó (âfrî<i>d</i>ŏ) a los ángeles de las creaciones espirituales y mundanas, y a todas las demás criaturas y creaciones mediante el poder y la grandeza, la sabiduría y la sagacidad de la sabiduría innata; y yo produzco [^1] y él los mantiene y los estimula. 6. Y al final de la renovación _del universo_ es posible causar la aniquilación y destrucción de Aharman y sus deformaciones más completamente por el poder de la sabiduría; (7) y Sôshâns [^2], con Kaî-Khûsrôî [^2], y aquellos que la resurrección y la existencia futura son capaces de actuar más completamente, por medio del poder y la ayuda de la sabiduría.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 12\. 'La disposición de la tierra y la mezcla del agua en ella, el crecimiento y el incremento de las plantas, el color de diversos tipos, y el aroma, sabor y placer de diversas cosas se asignan y producen más plenamente a través de la sabiduría. 13. Y la disposición de Albûr<i>z</i> [^10] alrededor del mundo, la manifestación de la tierra de las siete regiones [^11] y el cielo sobre la montaña de Albûr<i>z</i>, el movimiento del sol y la luna y las doce constelaciones [^12], los seis tiempos de los festivales de las estaciones (gâsanbâr) [^13]. los cinco tiempos _dedicados_ a los espíritus guardianes (fravar<i>d</i>îkân) [^14], el cielo que está en el lugar de los buenos pensamientos, el lugar de las buenas palabras, el lugar de las buenas acciones, y el cielo supremo y perfecto (garô<i>d</i>mân) de toda gloriosidad [^15], el camino de los espíritus y las _existencias_ mundanas, y el puente <i>K</i>indvar [^16] se producen y asignan a través del poder de la sabiduría.
 
-14\. 'La nube de aspecto acuoso [^17] toma agua del mar, avanza en la atmósfera y se desprendió gradualmente [^18], gota a gota, hacia la tierra, y la comprensión profunda de las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> [^19] sobre la naturaleza del cielo y el infierno, la compasión de Aûha<i>r</i>ma<i>z</i><i>d</i>, los arcángeles y otros ángeles con respecto a sus propias criaturas, y la devastación y destructividad de Aharman y los demonios con respecto a las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> es posible comprender a través del poder más completo [^20] de la sabiduría. 15. Y la buena religión de los adoradores de Ma<i>z</i><i>d</i>a, los dichos y enseñanzas de los espíritus [^21], y la destrucción del cuerpo mundano por parte de los demonios y su ocultamiento a la vista de los hombres se comprenden [^22] más plenamente mediante los medios más perfectos de la sabiduría. 16. E incluso la lucha y la guerra de Irán contra los extranjeros (an-aîrân), y la destrucción de Aharman y los demonios, es posible efectuarla mediante el poder de la sabiduría. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 17\. 'Para que el sol pueda inspeccionar también el agua oculta debajo de la tierra, es conveniente transportarla para la labranza y el cultivo, y para el beneficio, la comodidad y el disfrute de los hombres y las bestias de carga, bueyes y ovejas, mediante el poder de la sabiduría. 18. La comprensión completa del dolor y la enfermedad de los hombres y las bestias de carga, bueyes, ovejas y otros animales, y el traerles medicinas y remedios, salud corporal y comodidad son mucho más posibles de efectuar [^23] mediante el poder de la sabiduría.
+14\. «La nube de aspecto acuoso [^17] toma agua del mar, avanza en la atmósfera y se desprendió gradualmente [^18], gota a gota, hacia la tierra, y la comprensión profunda de las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> [^19] sobre la naturaleza del cielo y el infierno, la compasión de Aûha<i>r</i>ma<i>z</i><i>d</i>, los arcángeles y otros ángeles con respecto a sus propias criaturas, y la devastación y destructividad de Aharman y los demonios con respecto a las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> es posible comprender a través del poder más completo [^20] de la sabiduría. 15. Y la buena religión de los adoradores de Ma<i>z</i><i>d</i>a, los dichos y enseñanzas de los espíritus [^21], y la destrucción del cuerpo mundano por parte de los demonios y su ocultamiento a la vista de los hombres se comprenden [^22] más plenamente mediante los medios más perfectos de la sabiduría. 16. E incluso la lucha y la guerra de Irán contra los extranjeros (an-aîrân), y la destrucción de Aharman y los demonios, es posible efectuarla mediante el poder de la sabiduría. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 17\. »Para que el sol pueda inspeccionar también el agua oculta debajo de la tierra, es conveniente transportarla para la labranza y el cultivo, y para el beneficio, la comodidad y el disfrute de los hombres y las bestias de carga, bueyes y ovejas, mediante el poder de la sabiduría. 18. La comprensión completa del dolor y la enfermedad de los hombres y las bestias de carga, bueyes, ovejas y otros animales, y el traerles medicinas y remedios, salud corporal y comodidad son mucho más posibles de efectuar [^23] mediante el poder de la sabiduría.
 
 19\. 'Y en cuanto a cada hombre cuya participación en la sabiduría es mucha, su parte del cielo es entonces mucho mayor. 20. Incluso en cuanto a Vi<i>s</i>tâsp [^24], Zaratû<i>s</i>t [^25], Gâyômar<i>d</i> [^26], y aquellos otros cuya parte del cielo fue mucho mayor [^27], fue debido a la gran llegada de sabiduría a ellos. 21. Y en cuanto a Yim, Frê<i>d</i>ûn, Kâî-Ûs [^28], y aquellos otros gobernantes que obtuvieron esplendor (var<i>g</i>ŏ) y poderío (tagakîh) [^29] de los seres sagrados, tal como ocurrió la participación de Vi<i>s</i>tâsp y otros gobernantes en la religión [^30]—y su no logro de la religión, y también en cuanto a los _tiempos_ en que se han vuelto ingratos con su propio señor [^31], _fue_ debido a la poca sabiduría que les llegó.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 31\. 'También se declara que durante los nueve mil años de renovación [^44], hasta la resurrección y la existencia futura, la sabiduría mantiene y estimula a las criaturas y la creación de todo tipo.
 
-32\. 'Y esto también se declara, que, en cuanto a aquel que es un hombre ignorante y de mal carácter, cuando alcanza incluso mucha eminencia, opulencia y autoridad, incluso entonces no es apto para elevarse a ese bienestar y autoridad.'
+32\. «Y esto también se declara, que, en cuanto a aquel que es un hombre ignorante y de mal carácter, cuando alcanza incluso mucha eminencia, opulencia y autoridad, incluso entonces no es apto para elevarse a ese bienestar y autoridad.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -86,19 +86,19 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (99:2) Véanse los Caps. II, 95, XXVII, 63.
 
-[^3]: (99:3) L19 tiene 'de'.
+[^3]: (99:3) L19 tiene «de».
 
-[^4]: (99:4) L19 tiene 'tiempos'.
+[^4]: (99:4) L19 tiene «tiempos».
 
 [^5]: (99:5) Es decir, para escapar del riesgo de ser enviado al infierno.
 
-[^6]: (99:6) L19 omite 'y viniendo'.
+[^6]: (99:6) L19 omite «y viniendo».
 
-[^7]: (100:1) Nêr. ha leído shâyastan, 'posibilidad', en lugar de nishâstanŏ, 'asentarse'.
+[^7]: (100:1) Nêr. ha leído shâyastan, «posibilidad», en lugar de nishâstanŏ, «asentarse».
 
-[^8]: (100:2) Lectura vâdûrnî-hênd. L19 tiene 'son posibles de efectuar'.
+[^8]: (100:2) Lectura vâdûrnî-hênd. L19 tiene «son posibles de efectuar».
 
-[^9]: (100:3) L19 tiene 'por medio de la gran potencia y fuerza'.
+[^9]: (100:3) L19 tiene «por medio de la gran potencia y fuerza».
 
 [^10]: (100:4) Véase Cap. XLIV, 16 n.
 
@@ -112,21 +112,21 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^15]: (101:1) Los cuatro grados del cielo (véase Cap. VII, 9-12).
 
-[^16]: (101:2) Véase Cap. II, 115 n. Al omitir 'y', Nêr. identifica este puente con el camino mencionado antes, pero forma sólo una porción del camino al otro mundo.
+[^16]: (101:2) Véase Cap. II, 115 n. Al omitir «y», Nêr. identifica este puente con el camino mencionado antes, pero forma sólo una porción del camino al otro mundo.
 
 [^17]: (101:3) Suponiendo que mâ-vênakŏ representa mayâ-vênakŏ.
 
-[^18]: (101:4) El pahl. vîkhtanŏ está probablemente más conectado con el pers. kîkhtan, 'romper', que con el pers. pîkhtan, 'tamizar'.
+[^18]: (101:4) El pahl. vîkhtanŏ está probablemente más conectado con el pers. kîkhtan, «romper», que con el pers. pîkhtan, «tamizar».
 
-[^19]: (101:5) La versión sánscrita agrega 'y de Aharman'.
+[^19]: (101:5) La versión sánscrita agrega «y de Aharman».
 
-[^20]: (101:6) L19 tiene 'más plenamente a través del poder'.
+[^20]: (101:6) L19 tiene «más plenamente a través del poder».
 
-[^21]: (101:7) L19 tiene '_existencias_ mundanas'.
+[^21]: (101:7) L19 tiene «_existencias_ mundanas».
 
-[^22]: (101:8) Lectura girî-hastŏ. L19 tiene 'son efectuados'.
+[^22]: (101:8) Lectura girî-hastŏ. L19 tiene «son efectuados».
 
-[^23]: (102:1) L19 omite 'para efectuar'.
+[^23]: (102:1) L19 omite «para efectuar».
 
 [^24]: (102:2) Véase Cap. XIII, 14 n.
 
@@ -134,29 +134,29 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^26]: (102:4) Véase Cap. XXVII, 2 n.
 
-[^27]: (102:5) L19 tiene 'quien obtuvo más plenamente una parte del cielo'.
+[^27]: (102:5) L19 tiene «quien obtuvo más plenamente una parte del cielo».
 
 [^28]: (102:6) Véase Cap. VIII, 27, donde se mencionan los tres.
 
-[^29]: (102:7) L19 tiene 'opulencia'.
+[^29]: (102:7) L19 tiene «opulencia».
 
 [^30]: (102:8) Esta cláusula aparece sólo en K43.
 
 [^31]: (102:9) Los tres sufrieron desgracias en su vejez, atribuidas por el sacerdocio al descuido de la religión, que aquí se atribuye a la disminución del intelecto.
 
-[^32]: (103:1) L19 tiene 'virtuoso en disposición y virtuoso en comportamiento'.
+[^32]: (103:1) L19 tiene «virtuoso en disposición y virtuoso en comportamiento».
 
 [^33]: (103:2) Esto se afirma, en otras palabras, en Vend. XIX, 23-32.
 
-[^34]: (103:3) Como se dice que Va<i>d</i>ak (Dd. LXXII, 5) fue la madre de Dahâk, este término puede ser un matronímico que implica 'hijo de Va<i>d</i>ak'.
+[^34]: (103:3) Como se dice que Va<i>d</i>ak (Dd. LXXII, 5) fue la madre de Dahâk, este término puede ser un matronímico que implica «hijo de Va<i>d</i>ak».
 
 [^35]: (103:4) Ver cap. VIII, 29 n.
 
 [^36]: (103:5) Esta sección está bastante alterada en la versión de Pâzand, pero el significado general es el mismo.
 
-[^37]: (103:6) L19 tiene va vânom, 'y yo _heriré_.'
+[^37]: (103:6) L19 tiene va vânom, «y yo _heriré_.»
 
-[^38]: (103:7) L19 tiene 'y _hará_ marchitar (nizâr).'
+[^38]: (103:7) L19 tiene «y _hará_ marchitar (nizâr).»
 
 [^39]: (103:8) Planta que crece en Persia, cuyas ramitas se machacan en agua, y el sacerdote prueba el jugo resultante durante la ceremonia. Es un símbolo del mítico Hôm, el creador de la inmortalidad (véase Cap. LXII, 28). Originalmente, sin duda, el Hôm (Av. haoma) y el Sans. soma eran la misma planta (véase Dd. XLVIII, 16 n).
 
@@ -168,4 +168,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^43]: (104:3) Se menciona una asamblea de este tipo en Vend. II, 42, pero no se indican sus procedimientos.
 
-[^44]: (104:4) Así en todas las versiones, pero, como la renovación se considera generalmente confinada al final de los nueve mil años, tal vez deberíamos transponer las palabras y leer 'durante los nueve mil años, hasta la renovación, resurrección y existencia futura'.
+[^44]: (104:4) Así en todas las versiones, pero, como la renovación se considera generalmente confinada al final de los nueve mil años, tal vez deberíamos transponer las palabras y leer «durante los nueve mil años, hasta la renovación, resurrección y existencia futura».

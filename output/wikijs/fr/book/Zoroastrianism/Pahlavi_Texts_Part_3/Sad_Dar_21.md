@@ -32,15 +32,15 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE XXI.
+## SAD DAR. CHAPITRE XXI.
 
 1\. Le vingt et unième sujet est celui-ci, que, lorsqu'on mange du pain, il est nécessaire qu'on récite <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> l'Ithâ-â<i>d</i>\-yazamaidê [^1] et les trois Ashem-vohûs [^2], spécialement (ba-'<i>h</i>âʓʓata<i>m</i>) dans les cérémonies de bénédiction (âfrîngân).
 
 2\. Car il est déclaré dans la bonne religion des adorateurs de Ma<i>z</i><i>d</i>a, que, lorsqu'ils souhaitent célébrer la fête sacrée (myazd) et les cérémonies de bénédiction, il est nécessaire que toutes les personnes assises à la fête se mettent à la prière intérieure. 3. Pour chaque homme est placé un ange, à sa droite, et deux anges pour les prêtres. 4. _Mais_ lorsqu'ils mangent en bavardant, _ou_ qu'ils racontent les nouvelles ('hadîTH) [^3], les anges les quittent, et un démon s'empare de la place de chaque ange [^4].
 
-5\. Et autrefois, la coutume ('hâdat) du peuple était la suivante : si quelqu'un s'était présenté à la porte au milieu du festin, la personne dont c'était l'enceinte de l'Âfrîngân, ou quiconque aurait fait les frais de cet Âfrîngân, aurait eu des mots avec cet intrus [^5], et aurait également dit ainsi : « Puisque tu as porté préjudice à mon festin, rends-moi ce qu'en a coûté [^6]. »
+5\. Et autrefois, la coutume ('hâdat) du peuple était la suivante : si quelqu'un s'était présenté à la porte au milieu du festin, la personne dont c'était l'enceinte de l'Âfrîngân, ou quiconque aurait fait les frais de cet Âfrîngân, aurait eu des mots avec cet _intrus_ [^5], et aurait également dit ainsi : « Puisque tu as porté préjudice à mon festin, rends-moi ce qu'en a coûté [^6]. »
 
-6\. Et _dans_ un endroit de l'Apocalypse_, _il est_ déclaré <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> que le fait de manger en bavardant est le péché, car [^7] quiconque bavarde pendant qu'il mange du pain est exactement comme celui qui frappe et harcèle les anges des existences spirituelles.
+6\. Et _dans_ un endroit de l'Apocalypse_, _il est_ déclaré <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> que le fait de manger en bavardant est le péché, car [^7] quiconque bavarde pendant qu'il mange du pain est exactement comme celui qui frappe et harcèle les anges des _existences_ spirituelles.
 
 7\. C'est pourquoi, s'il y a quelqu'un qui ne soit pas capable de consacrer un gâteau sacré [^8], il est nécessaire de manger du pain avec la prière intérieure de Hôrmazd, c'est-à-dire des archanges. 8. Et, s'il ne le sait pas entièrement, il récite l'Ithâ-â<i>d</i>\-yazamaidê [^9] et trois Ashem-vohûs, et mange le pain. 9. Ensuite, il purifie sa bouche, et, après avoir prononcé quatre Ashem-vohûs et deux Yathâ-ahû-vairyôs [^10], il doit alors prononcer des paroles.
 

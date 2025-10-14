@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LV [^1].
+## SAD DAR. CAPÍTULO LV [^1].
 
 1\. El quincuagésimo quinto tema es este: cuando se realiza una ceremonia de Navazû<i>d</i> [^2] y resulta que no es posible consagrar un pastel sagrado, es necesario comer pan con la oración interna de Hôrmazd; y, después, se debe <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> completar la oración igual que cuando se completa la del pastel sagrado, para que el pecado sea menor.
 

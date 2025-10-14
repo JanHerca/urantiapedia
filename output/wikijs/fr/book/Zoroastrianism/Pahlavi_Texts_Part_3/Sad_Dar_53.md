@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE LIII.
+## SAD DAR. CHAPITRE LIII.
 
 1\. Le cinquante-troisième sujet est celui-ci, que, autrefois [^1], lorsque quelqu'un voulait faire un voyage (safar) qui aurait pu être d'au moins [^2] douze lieues (parasang), il aurait consacré un gâteau sacré, afin qu'aucune affliction ne puisse survenir dans ce voyage, et que les affaires puissent être selon son souhait, et les occupations (su_gh_l) [^3] joyeuses. 2. Et il incombe _aujourd'hui_ à chacun, lorsqu'il veut partir en voyage, de consacrer ce gâteau sacré.
 

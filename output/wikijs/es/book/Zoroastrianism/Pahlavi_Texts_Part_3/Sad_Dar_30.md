@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXX.
+## SAD DAR. CAPÍTULO XXX.
 
 1\. El trigésimo tema es este, que no es apropiado verter _agua_ por la noche, especialmente del lado norte (<i>g</i>ânib) que sería lo peor [^1]. 2. Por lo tanto, si se vuelve una necesidad al final (ba-'<i>h</i>atam) [^2], es requisito recitar un Yathâ-ahû-vairyô [^3], y, _cuando_ preparen una luz ('hâʓ̣ir) [^4], verter _agua_ suavemente.
 
@@ -67,7 +67,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (292:1) Lp tiene «lado sería», a lo que B29 añade «audaz». La razón de la impropiedad es que se supone que los demonios vienen del norte, y cualquier cosa arrojada hacia el norte podría serles útil (véase Sls. X, 7, XII, 18, 19).
 
-[^2]: (292:2) B29 tiene 'necesidad de verter'.
+[^2]: (292:2) B29 tiene «necesidad de verter».
 
 [^3]: (292:3) Véase Mc. XXVII, págs. 70;
 

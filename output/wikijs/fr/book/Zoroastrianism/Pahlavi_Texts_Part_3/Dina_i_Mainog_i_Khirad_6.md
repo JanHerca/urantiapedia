@@ -69,7 +69,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (28:3) Bd. III, 27 déclare que « l'enfer est au milieu de la terre ».
 
-[^3]: (28:4) Lecture de mûn . . . rûnŏ-î pa<i>d</i>a<i>s</i>. Au lieu de drû<i>g</i>ân rânŏ, p. 29, Nêr. a lu drû<i>g</i> hanrûnŏ, et a supposé que le dernier mot était équivalent à Av. ha<i>n</i>dvarena, 'congrès' ; afin d'obtenir le sens, 'dans lequel les démons et le démon forment un congrès'. Mais Av. ha<i>n</i>dvarena est Pahl. ham-dûbâri<i>s</i>nîh (voir Pahl. Vend. VII, 237).
+[^3]: (28:4) Lecture de mûn . . . rûnŏ-î pa<i>d</i>a<i>s</i>. Au lieu de drû<i>g</i>ân rânŏ, p. 29, Nêr. a lu drû<i>g</i> hanrûnŏ, et a supposé que le dernier mot était équivalent à Av. ha<i>n</i>dvarena, « congrès » ; afin d'obtenir le sens, « dans lequel les démons et le démon forment un congrès ». Mais Av. ha<i>n</i>dvarena est Pahl. ham-dûbâri<i>s</i>nîh (voir Pahl. Vend. VII, 237).
 
 [^4]: (29:1) Ou « lorsqu'on procède à de nombreuses inhumations de cadavres », car il est douteux que nous devions lire a<i>v</i>îr, « beaucoup », ou a<i>z</i>îr, « en dessous ».
 

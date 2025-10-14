@@ -72,13 +72,13 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (85:1) L19 tiene 'dentro del cielo'.
+[^1]: (85:1) L19 tiene «dentro del cielo».
 
-[^2]: (85:2) L19 tiene 'están dispuestos de tal manera que'. La lectura de dî<i>s</i>, 'como', es bastante incierta.
+[^2]: (85:2) L19 tiene «están dispuestos de tal manera que». La lectura de dî<i>s</i>, «como», es bastante incierta.
 
-[^3]: (85:3) L19 añade 'y debajo de la tierra'.
+[^3]: (85:3) L19 añade «y debajo de la tierra».
 
-[^4]: (85:4) L19 tiene 'y la tierra dentro del cielo'.
+[^4]: (85:4) L19 tiene «y la tierra dentro del cielo».
 
 [^5]: (85:5) El § 11 está tomado de PB6, pero no se encuentra en ningún otro manuscrito Pâzand o Pârsî consultado, ni en el texto Pahlavi de K43; por lo tanto, es probablemente una interpolación.
 
@@ -86,17 +86,17 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^7]: (85:7) Esta cláusula y la correspondiente en el § 14 parecen discrepar de las afirmaciones de Bd. V, 8, XI, 3, de que Arzah está al oeste y Savah al este; por lo tanto, Nêryôsang ha trasladado la conjunción «y» al principio de la sección en ambos casos, para que las aguas orientales fluyan hacia Savah y las occidentales hacia el mar. Sin embargo, si entendemos que «allí» significa «en esos lugares», y no se refiere a la región cuyo nombre le sigue, podemos concluir que la afirmación aquí indica que en el este el agua fluye desde Arzah (la región occidental), y en el oeste hacia Savah (la región oriental), lo cual podría ser cierto si situamos el este en China o Bengala, y el oeste en Armenia o Mesopotamia, pero es más probable que simplemente implique que toda el agua fluye a través de la región central de Khvanîras.
 
-[^8]: (85:8) L19 tiene anbâri<i>s</i>nŏ, 'acumulación', tanto aquí como en § 14.
+[^8]: (85:8) L19 tiene anbâri<i>s</i>nŏ, «acumulación», tanto aquí como en § 14.
 
-[^9]: (85:9) L19 tiene 'allí donde'; y debemos entender '_en aquellos lugares_ donde', como en § 13.
+[^9]: (85:9) L19 tiene «allí donde»; y debemos entender «_en aquellos lugares_ donde», como en § 13.
 
 [^10]: (86:1) Av. Pûitika, que Bd. XIII, 8-11 parece identificar con el Golfo Pérsico; pero en tiempos antiguos, si bien no del todo mítico, probablemente era alguna ensenada del Caspio o del Aral.
 
-[^11]: (86:2) Av. Vouru-kasha; en Pahlavi se le suele llamar 'el de forma amplia', y en Bd. XIII, 1, 8-10 se le identifica con el océano; pero en los primeros tiempos probablemente era un término para el Caspio y el Aral, cuando no se aplicaba al mar mítico del cielo.
+[^11]: (86:2) Av. Vouru-kasha; en Pahlavi se le suele llamar «el de forma amplia», y en Bd. XIII, 1, 8-10 se le identifica con el océano; pero en los primeros tiempos probablemente era un término para el Caspio y el Aral, cuando no se aplicaba al mar mítico del cielo.
 
 [^12]: (86:3) Av. hara berezaiti, «una elevada cordillera», que, según se dice en el cap. LVII, 13 y en los Bundahi, rodea el mundo y es el origen de todas las montañas (véase Vol. V, 3-5, XII, 1-4). En la antigüedad, parece haber sido el nombre de las montañas al este de los primeros asentamientos iraníes, antes de ser transferido a la cordillera al sur del Caspio (véase Geiger's Ost. Kul., págs. 42-45).
 
-[^13]: (86:4) Av. Airyanem vaê<i>g</i>ô, el primer asentamiento de los irânios, que Geiger (Ost. Kul. pp. 30-33) sitúa en las aguas superiores del río Zaraf<i>s</i>ân, y que Bd. XXIX, 12 describe, de acuerdo con la tradición tardía, como 'en dirección a Âtû<i>r</i>\-pâtakân (Âdarbî<i>g</i>ân).'
+[^13]: (86:4) Av. Airyanem vaê<i>g</i>ô, el primer asentamiento de los irânios, que Geiger (Ost. Kul. pp. 30-33) sitúa en las aguas superiores del río Zaraf<i>s</i>ân, y que Bd. XXIX, 12 describe, de acuerdo con la tradición tardía, como «en dirección a Âtû<i>r</i>\-pâtakân (Âdarbî<i>g</i>ân).»
 
 [^14]: (86:5) Vend. I, 9, 10.
 
@@ -106,7 +106,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^17]: (87:1) Comparar cap. LXII, 18.
 
-[^18]: (87:2) L19 ha dre<i>n</i><i>z</i>ine<i>n</i>d, 'hacen que se repita'.
+[^18]: (87:2) L19 ha dre<i>n</i><i>z</i>ine<i>n</i>d, «hacen que se repita».
 
 [^19]: (87:3) Comparar cap. LXII, 17.
 
@@ -114,6 +114,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^21]: (87:5) Es decir, van inmediatamente al cielo, como lo hace el alma justa (véase Cap. II, 123-157).
 
-[^22]: (87:6) L19 tiene a Gôpatshâh, 'el rey de Gôpat' (como en Cap. LXII, 8, 31), cuya tierra se describe en Dd. XC, 4 como 'coterminosa con Aîrân-vê<i>g</i>ô'. Aghrêra<i>d</i> y su hijo son llamados reyes de Gôpat en Bd. XXIX, 5, XXXI, 22; y se dice que Gôk-patŏ está 'en los países no arios', en el Sû<i>d</i>kar Nask (véase Dd. XC, 8 n).
+[^22]: (87:6) L19 tiene a Gôpatshâh, «el rey de Gôpat» (como en Cap. LXII, 8, 31), cuya tierra se describe en Dd. XC, 4 como «coterminosa con Aîrân-vê<i>g</i>ô». Aghrêra<i>d</i> y su hijo son llamados reyes de Gôpat en Bd. XXIX, 5, XXXI, 22; y se dice que Gôk-patŏ está «en los países no arios», en el Sû<i>d</i>kar Nask (véase Dd. XC, 8 n).
 
 [^23]: (87:7) Aparentemente el ángel Srôsh (ver Cap. II, 115).

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO V.
 
-1\. El sabio preguntó al espíritu de la sabiduría (2) así: '¿Cuál tierra es más feliz [^1]?'
+1\. El sabio preguntó al espíritu de la sabiduría (2) así: «¿Cuál tierra es más feliz [^1]?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Esa tierra es más feliz cuando un hombre justo y veraz establece su morada. 5. La segunda, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> en la que se establecen las hogueras. 6. La tercera, cuando bueyes y ovejas descansan en ella. 7. La cuarta es tierra inculta y deshabitada cuando la devuelven al cultivo y la hacen habitable. 8. La quinta, donde extirpan las madrigueras de criaturas nocivas. 9. La sexta, donde se celebran las ceremonias y la llegada de los seres sagrados, y el asentamiento de los buenos [^2], 10. La séptima, cuando se pobla lo que estaba desolado.» 11. El octavo, cuando de la posesión de lo malo se pasa a la posesión de lo bueno. 12. El noveno, cuando del producto y la cosecha (bê<i>d</i>ŏ) que surgen de él, proveen la parte de los seres sagrados, los buenos y los dignos. 13. Y el décimo, en el que proveen agua bendita y ceremonias.
 

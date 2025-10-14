@@ -34,11 +34,11 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XXXVIII.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Por qué no asignan la felicidad de la existencia mundana según su mérito, y hacen que el alma se apodere de las existencias espirituales por su mérito en la acción?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Por qué no asignan la felicidad <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> de la _existencia_ mundana según su mérito, y hacen que el alma se apodere de las _existencias_ espirituales por su mérito en la acción?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Por la compasión de Aûha<i>r</i>ma<i>z</i><i>d</i>, el señor, respecto a las criaturas, él reparte toda la felicidad por igual entre los buenos y los malos. 5. Pero cuando no siempre les llega, es debido a la opresión de Aharman y los demonios, y a la extorsión de esos siete planetas [^1].
 
-6\. 'Y hacen que _uno_ [^2] se apodere de las _existencias_ espirituales, por méritos de la acción, por esta razón, porque la maldad de cualquiera [^3] surge a través de la realización de sus propias acciones.'
+6\. «Y hacen que _uno_ [^2] se apodere de las _existencias_ espirituales, por méritos de la acción, por esta razón, porque la maldad de cualquiera [^3] surge a través de la realización de sus propias acciones.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,6 +68,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (76:1) Que se supone que son agentes de Aharman para causar desgracias a las criaturas (véanse los capítulos VIII, 19, 20; XII, 7-10).
 
-[^2]: (76:2) L19 tiene 'el alma'.
+[^2]: (76:2) L19 tiene «el alma».
 
-[^3]: (76:3) L19 tiene 'cada'.
+[^3]: (76:3) L19 tiene «cada».

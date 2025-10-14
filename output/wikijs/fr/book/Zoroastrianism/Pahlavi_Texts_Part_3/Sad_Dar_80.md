@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE LXXX.
+## SAD DAR. CHAPITRE LXXX.
 
 1\. Le quatre-vingtième sujet est celui-ci, qu'il y a un moment où tu récites un Ashem-vohû [^1], _et_ le mérite de celui-ci peut être aussi grand que celui de dix. 2. Il y a un moment où tu récites un Ashem-vohû, _et_ le mérite de celui-ci peut être aussi grand que celui de cent. 3. Il peut y avoir un moment où tu récites un [^2], _et_ le mérite de celui-ci peut être aussi grand que celui de mille. 4. Il peut y avoir un moment où le mérite d'un Ashem-vohû [^3] peut être aussi grand que celui de dix mille. 5. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> Il peut arriver que le mérite d'un Ashem-vohû soit aussi grand que la valeur (qîmat) [^4] de ce monde et de cet _autre_ monde [^5].
 
@@ -84,6 +84,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^10]: (344:7) B29 a simplement « est le prix de ce monde ».
 
-[^11]: (344:8) Lp, B29 insérer 'pour'.
+[^11]: (344:8) Lp, B29 insérer « pour ».
 
 [^12]: (344 : 9) Voir Pahl. Hn. Moi, 35 ans <i>a</i>.

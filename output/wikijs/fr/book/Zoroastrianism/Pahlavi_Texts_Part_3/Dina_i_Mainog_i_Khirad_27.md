@@ -122,7 +122,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^14]: (59 : 1) Voir Râm Yt. 12, Zamyâd Yt. 29.
 
-[^15]: (59:2) Av. Yima khshaêta, 'Yim le [splendide](errata_htm.html);' il était un frère de son prédécesseur, Tâkhmorup, et le Bundahi<i>s</i> déclare qu'il régna six cent seize ans et six mois dans la gloire, et cent ans dans la clandestinité (voir Chap. VIII, 27, Bd. XXXI, 3, XXXIV, 4).
+[^15]: (59:2) Av. Yima khshaêta, « Yim le [splendide](errata_htm.html); » il était un frère de son prédécesseur, Tâkhmorup, et le Bundahi<i>s</i> déclare qu'il régna six cent seize ans et six mois dans la gloire, et cent ans dans la clandestinité (voir Chap. VIII, 27, Bd. XXXI, 3, XXXIV, 4).
 
 [^16]: (59:3) TD2 n'a que « trois cents ans », par l'omission accidentelle d'un chiffre ; il omet également les mois et les jours.
 
@@ -164,7 +164,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^35]: (62:1) La région montagneuse du Taparistân et du Gîlân, au sud de la mer Caspienne (voir Bd. XII, 17).
 
-[^36]: (62:2) L19 a 'enfer'. Ce Dû<i>g</i>akŏ pourrait éventuellement être destiné au Du<i>z</i>akô de Vend. I, 34, dont Vaêkereta était la principale colonie, et cette dernière est identifiée à Kâ<i>v</i>ûl (Kâbul) par les traducteurs pahlavi. Le nom peut aussi se lire Gan<i>g</i>akŏ, ce qui pourrait être identifié à Canzaca, mais cela correspondrait moins bien à la légende, évoquée dans le texte, qui raconte comment Mânû<i>s</i><i>k</i>îhar, s'étant enfermé dans la forteresse imprenable d'Âmul au Taparistân, ne put être conquis par Frâsîyâk, qui fut contraint de conclure un accord selon lequel tout le pays situé à une portée de flèche à l'est du mont Dimâvand resterait soumis à Mânû<i>s</i><i>k</i>îhar. La flèche fut tirée et poursuivie son vol de l'aube jusqu'à midi, puis elle tomba sur la rive de l'Oxus, fleuve désormais considéré comme la frontière des Iraniens. Cette frontière inclurait entièrement tout le territoire entre Taparistân et Kâboul mentionné dans le texte. Dans le Bd. XXXI, 21 Le succès de Mânû<i>s</i><i>k</i>îhar est attribué à une dispute entre Frâsîyâk et son frère, Aghrêra<i>d</i>.
+[^36]: (62:2) L19 a « enfer ». Ce Dû<i>g</i>akŏ pourrait éventuellement être destiné au Du<i>z</i>akô de Vend. I, 34, dont Vaêkereta était la principale colonie, et cette dernière est identifiée à Kâ<i>v</i>ûl (Kâbul) par les traducteurs pahlavi. Le nom peut aussi se lire Gan<i>g</i>akŏ, ce qui pourrait être identifié à Canzaca, mais cela correspondrait moins bien à la légende, évoquée dans le texte, qui raconte comment Mânû<i>s</i><i>k</i>îhar, s'étant enfermé dans la forteresse imprenable d'Âmul au Taparistân, ne put être conquis par Frâsîyâk, qui fut contraint de conclure un accord selon lequel tout le pays situé à une portée de flèche à l'est du mont Dimâvand resterait soumis à Mânû<i>s</i><i>k</i>îhar. La flèche fut tirée et poursuivie son vol de l'aube jusqu'à midi, puis elle tomba sur la rive de l'Oxus, fleuve désormais considéré comme la frontière des Iraniens. Cette frontière inclurait entièrement tout le territoire entre Taparistân et Kâboul mentionné dans le texte. Dans le Bd. XXXI, 21 Le succès de Mânû<i>s</i><i>k</i>îhar est attribué à une dispute entre Frâsîyâk et son frère, Aghrêra<i>d</i>.
 
 [^37]: (62:3) Voir Chap. VIII, 29 n.
 
@@ -212,6 +212,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^59]: (65:4) L19 a « tous les anges des existences spirituelles et terrestres ».
 
-[^60]: (65:5) L19 a u shnâi<i>s</i>n, 'et la propitiation'.
+[^60]: (65:5) L19 a u shnâi<i>s</i>n, « et la propitiation ».
 
 [^61]: (65:6) L19 a « son ».

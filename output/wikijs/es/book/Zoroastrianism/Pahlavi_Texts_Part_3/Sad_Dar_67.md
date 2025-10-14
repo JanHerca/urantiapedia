@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXVII.
+## SAD DAR. CAPÍTULO LXVII.
 
 1\. El tema sesenta y siete es que es necesario que las mujeres practiquen una gran abstinencia de cometer adulterio. 2. Pues en el Apocalipsis se declara, respecto a toda mujer que se haya acostado con un hombre extraño, lo siguiente: «¿Cómo es necesario llamarla, y por qué se explica que sea de la misma naturaleza que todos los magos y pecadores?».
 
@@ -66,18 +66,18 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (331:1) B29 tiene 'y es por razón de esa falta'.
+[^1]: (331:1) B29 tiene «y es por razón de esa falta».
 
 [^2]: (331:2) Lo que sigue es una paráfrasis libre de Vend. XVIII, 123-132.
 
 [^3]: (331:3) Lp omite estas cuatro palabras.
 
-[^4]: (331:4) Lp, B29 añade 'y pureza'.
+[^4]: (331:4) Lp, B29 añade «y pureza».
 
-[^5]: (331:5) Lp, B29 tiene 'lo que es necesario'.
+[^5]: (331:5) Lp, B29 tiene «lo que es necesario».
 
-[^6]: (332:1) B29 tiene 'ilegal cuando'.
+[^6]: (332:1) B29 tiene «ilegal cuando».
 
-[^7]: (332:2) Esta parece ser la interpretación del autor del siguiente comentario (Pahl. Vend. XVIII, 124a):—'Y a ella no le importa; pues, cuando concede la cohabitación tres veces, _es_ merecedora de muerte. Gôgôsasp dijo que esta es una adúltera _mantenida_ dentro de ciertos límites.'
+[^7]: (332:2) Esta parece ser la interpretación del autor del siguiente comentario (Pahl. Vend. XVIII, 124a):—«Y a ella no le importa; pues, cuando concede la cohabitación tres veces, _es_ merecedora de muerte. Gôgôsasp dijo que esta es una adúltera _mantenida_ dentro de ciertos límites.»
 
-[^8]: (332:3) B29 tiene 'aumentando en cuanto al agua y al fuego'.
+[^8]: (332:3) B29 tiene «aumentando en cuanto al agua y al fuego».

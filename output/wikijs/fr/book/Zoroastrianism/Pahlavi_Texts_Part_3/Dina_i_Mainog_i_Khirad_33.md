@@ -66,6 +66,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (69:2) L19 fait des §§ 2 à 7 une question distincte, en ajoutant « lequel est le pire » à chacun, comme dans le § 8.
 
-[^2]: (69:3) L19 a a<i>s</i>âgardân, 'disciples'.
+[^2]: (69:3) L19 a a<i>s</i>âgardân, « disciples ».
 
 [^3]: (69:4) Ou, 'par accident (hastânak).'

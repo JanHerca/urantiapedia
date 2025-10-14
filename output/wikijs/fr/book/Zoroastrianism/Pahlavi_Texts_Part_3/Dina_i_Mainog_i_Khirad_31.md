@@ -72,10 +72,10 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (68:1) L19 insère « pour rester vrai ».
 
-[^3]: (68:2) K43 a dâ<i>d</i> dâ<i>d</i>istân, 'décisions de la loi' ; mais la répétition de la syllabe dâ<i>d</i> est probablement une erreur cléricale.
+[^3]: (68:2) K43 a dâ<i>d</i> dâ<i>d</i>istân, « décisions de la loi » ; mais la répétition de la syllabe dâ<i>d</i> est probablement une erreur cléricale.
 
 [^4]: (68:3) L19 omet la bande va, « et le contrôle ».
 
 [^5]: (68:4) L19 signifie « conscient des bonnes œuvres et du péché ».
 
-[^6]: (68:5) L19 a vîma<i>n</i>d, 'frontière'.
+[^6]: (68:5) L19 a vîma<i>n</i>d, « frontière ».

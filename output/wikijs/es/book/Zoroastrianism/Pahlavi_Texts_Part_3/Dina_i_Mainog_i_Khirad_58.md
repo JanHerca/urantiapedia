@@ -66,8 +66,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (105:1) L19 añade 'e inocente'.
+[^1]: (105:1) L19 añade «e inocente».
 
-[^2]: (105:2) L19 tiene 'demonio'.
+[^2]: (105:2) L19 tiene «demonio».
 
-[^3]: (105:3) L19 tiene 'que un rey opulento'.
+[^3]: (105:3) L19 tiene «que un rey opulento».

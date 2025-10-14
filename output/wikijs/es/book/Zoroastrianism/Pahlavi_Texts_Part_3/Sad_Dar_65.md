@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXV.
+## SAD DAR. CAPÍTULO LXV.
 
 1\. El sexagésimo quinto tema es este: que todos deben practicar la acción de gracias continuamente, y es requisito que la mantengan en las buenas y en las malas; y deben tener en cuenta [^1] los beneficios de Hôrmazd. 2. Porque el creador [^2] Hôrmazd exige dos cosas de la humanidad: la primera es que no se debe pecar, y la otra es que se debe practicar la acción de gracias. 3. Y cuanto más agradecida se vuelva la humanidad, por virtud y dignidad hacia él, [^3] les concederá una provisión diaria más abundante que a otras personas. 4. Y a quien no le es agradecido, el pan que come se vuelve ilícito, y no es apropiado que nadie haga el bien en relación con él. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 5\. Y se declara en la revelación que cuando una persona ingrata muere, dondequiera que deposite su cadáver, el arcángel Spendârma<i>d</i> [^4] tiembla como una oveja que ve un lobo. 6. Y si un pájaro se come ese cadáver, en cualquier árbol en el que se posa y se posa, ese árbol se marchita, y quien se sienta a la sombra del árbol enferma.
 
@@ -64,18 +64,18 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (328:3) La tiene que 'retratar'.
+[^1]: (328:3) La tiene que «retratar».
 
 [^2]: (328:4) Lp omite estas catorce palabras.
 
 [^3]: (328:5) Los ángeles.
 
-[^4]: (329:1) Véase Cap. XXXIII, 2 n. Lp, B29 omite 'arcángel'.
+[^4]: (329:1) Véase Cap. XXXIII, 2 n. Lp, B29 omite «arcángel».
 
 [^5]: (329:2) Lp omite estas nueve palabras.
 
-[^6]: (329:3) Lp tiene 'que lo que escuchas _para_ ti mismo, lo escuchas _con respecto a cualquier _otra_ persona'. B29 tiene 'que lo que no apruebas _para_ ti mismo, no lo hagas a nadie _otra_ persona' (ver § 12).
+[^6]: (329:3) Lp tiene «que lo que escuchas _para_ ti mismo, lo escuchas _con respecto a cualquier _otra_ persona». B29 tiene «que lo que no apruebas _para_ ti mismo, no lo hagas a nadie _otra_ persona» (ver § 12).
 
-[^7]: (329:4) B19 tiene 'por esta razón se busca de nuevo el mundo'.
+[^7]: (329:4) B19 tiene «por esta razón se busca de nuevo el mundo».
 
-[^8]: (330:1) B29 tiene 'realizar'.
+[^8]: (330:1) B29 tiene «realizar».

@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXIII.
+## SAD DAR. CAPÍTULO LXIII.
 
-1\. El sexagésimo tercer tema es este: es necesario practicar la estricta abstinencia del adulterio, ya que, si alguien engaña a la esposa de otro y comete iniquidad con ella, esa mujer se vuelve, en un instante, ilícita para con su esposo. 2. Y, después de eso, cada vez que su esposo la rodea, es como si se hubiera acercado a un hombre extraño. 3. La justa entrega [^1] de sí misma a su propio esposo, en esta situación, siempre es peor que su relación [^2] con mujeres de otra religión, ya que, si esa esposa queda embarazada, es como si alguien de buena religión se hubiera desviado hacia otra religión, y [^3] por lo tanto, ese hombre se vuelve digno de muerte.
+1\. El sexagésimo tercer tema es este: es necesario practicar la estricta abstinencia del adulterio, ya que, si alguien engaña a la esposa de otro y comete iniquidad con ella, esa mujer se vuelve, en un instante, ilícita para con su esposo. 2. Y, después de eso, cada vez que su esposo la rodea, es como si se hubiera acercado a un hombre extraño. 3. La justa entrega [^1] de sí misma a su propio esposo, en esta <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> situación, siempre es peor que su relación [^2] con mujeres de otra religión, ya que, si esa esposa queda embarazada, es como si alguien de buena religión se hubiera desviado hacia otra religión, y [^3] por lo tanto, ese hombre se vuelve digno de muerte.
 
 4\. Y también sucede que, cuando esa esposa queda embarazada, puede matar al niño por temor a una mala reputación. 5. Entonces, para la persona a quien pertenece el niño, es como si lo hubiera matado con su propia mano; por lo tanto, es merecedor de la muerte. 6. Si el niño nace y permanece [^4] en la religión, todo pecado que cometa ese niño es, para esa persona, como si lo hubiera cometido con su propia mano.
 
@@ -68,18 +68,18 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (324:4) Lp inserta 'él deseará'.
+[^1]: (324:4) Lp inserta «él deseará».
 
-[^2]: (325:1) B29 dice 'nunca se convierte en una entrega justa de ella a _su_ marido, y si, en esta situación, él también lo es'.
+[^2]: (325:1) B29 dice «nunca se convierte en una entrega justa de ella a _su_ marido, y si, en esta situación, él también lo es».
 
-[^3]: (325:2) B29 omite 'y'.
+[^3]: (325:2) B29 omite «y».
 
-[^4]: (325:3) Lp, B29 tiene 'no permanece', pero el texto parece asumir que no se sospecha el origen ilícito del niño, en cuyo caso indudablemente permanecería en la religión, como probablemente sucedería en cualquier caso.
+[^4]: (325:3) Lp, B29 tiene «no permanece», pero el texto parece asumir que no se sospecha el origen ilícito del niño, en cuyo caso indudablemente permanecería en la religión, como probablemente sucedería en cualquier caso.
 
 [^5]: (326:1) B29 omite estas once palabras.
 
 [^6]: (326:2) O acusadores (véase Cap. XLII, 1, 2).
 
-[^7]: (326:3) B29 tiene 'fluye', si leemos bi-rêzad; pero el traductor Gu<i>g</i>arâti parece tomar gunâh-barêza<i>d</i> (Av. bereza<i>n</i>t) como un epíteto técnico para el alma, como si dijera 'ellos retienen el alma de aquel _cuyo_ pecado es rampante'.
+[^7]: (326:3) B29 tiene «fluye», si leemos bi-rêzad; pero el traductor Gu<i>g</i>arâti parece tomar gunâh-barêza<i>d</i> (Av. bereza<i>n</i>t) como un epíteto técnico para el alma, como si dijera «ellos retienen el alma de aquel _cuyo_ pecado es rampante».
 
 [^8]: (326:4) Es decir, los ángeles investigadores anuncian su decisión en cuanto al destino apropiado del alma que han detenido.

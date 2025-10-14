@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XLIV.
+## SAD DAR. CAPÍTULO XLIV.
 
 1\. El tema cuadragésimo cuarto es este: que no es deseable para quienes profesan buena religión, en la medida de sus posibilidades, poner un pie descalzo en el suelo [^1], porque es pecado, y se le causa daño [^2] a Spendârma<i>d</i> [^3], el arcángel. 2. Y a eso lo llaman el pecado de andar descubierto.
 
@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (307:3) Véase Sls. X, 12.
 
-[^2]: (307:4) Lp sólo tiene 'porque lesión'.
+[^2]: (307:4) Lp sólo tiene «porque lesión».
 
 [^3]: (307:5) Véase Cap. XXXIII, 2 n.

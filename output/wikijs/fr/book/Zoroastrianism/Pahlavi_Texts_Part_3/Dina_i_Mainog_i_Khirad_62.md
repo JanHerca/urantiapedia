@@ -104,11 +104,11 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^14]: (110:3) Voir Chap. XXVII, 49.
 
-[^15]: (110:4) L19 a Pu<i>s</i>t Gu<i>s</i>tâspã, 'la crête de Vi<i>s</i>tâsp', qui semble, d'après le Bd. XII, 18, 34, XVII, 8, avoir été quelque part dans le désert central de la Perse. Dans le Bd. XXIX, 7-9, 11, on nous dit que Sam dort dans la plaine de Pê<i>s</i>yânsaî (évidemment le Pê<i>s</i>ândas de notre texte) à Kâvulistân, jusqu'à ce qu'il soit réveillé plus tard pour tuer Dahâk, qui s'échappe du mont Dimâvand. Cette légende a peut-être conduit à la juxtaposition déroutante de Pê<i>s</i>ândas et de Dimâvand dans notre texte, et la perplexité occasionnée par cela a peut-être conduit Nêr. de substituer Pû<i>s</i>t-î Vi<i>s</i>tâspân à l'ancien nom, comme étant plus proche de Dimâvand.
+[^15]: (110:4) L19 a Pu<i>s</i>t Gu<i>s</i>tâspã, « la crête de Vi<i>s</i>tâsp », qui semble, d'après le Bd. XII, 18, 34, XVII, 8, avoir été quelque part dans le désert central de la Perse. Dans le Bd. XXIX, 7-9, 11, on nous dit que Sam dort dans la plaine de Pê<i>s</i>yânsaî (évidemment le Pê<i>s</i>ândas de notre texte) à Kâvulistân, jusqu'à ce qu'il soit réveillé plus tard pour tuer Dahâk, qui s'échappe du mont Dimâvand. Cette légende a peut-être conduit à la juxtaposition déroutante de Pê<i>s</i>ândas et de Dimâvand dans notre texte, et la perplexité occasionnée par cela a peut-être conduit Nêr. de substituer Pû<i>s</i>t-î Vi<i>s</i>tâspân à l'ancien nom, comme étant plus proche de Dimâvand.
 
 [^16]: (110:5) Le plus haut sommet de l'Albûr<i>z</i> moderne, dans lequel Dahâk est censé être confiné (voir Bd. XII, 31).
 
-[^17]: (110:6) Lecture hânŏ drû-aê; L19 donne han mûrd, 'un autre buisson de myrte'.
+[^17]: (110:6) Lecture hânŏ drû-aê; L19 donne han mûrd, « un autre buisson de myrte ».
 
 [^18]: (110:7) Avec des fleurs jaunes.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^33]: (112:2) Le Sênô-mûrûv (Av. saênô mereghô) ou Simurgh, créature volante mythique dont on dit qu'elle allaite ses petits et qu'elle est de trois natures comme la chauve-souris (voir Bd. XIV, 11, 24, XIX, 18).
 
-[^34]: (112:3) L19 a 'de toutes les graines'. Cet arbre, d'où toutes les plantes sauvages sont censées provenir, est censé pousser dans la mer près de l'arbre Gôkarn, et aussi dans l'Aîrân-vê<i>g</i>ô (voir Bd. IX, 5, 6, XVIII, 9, XXVII, 2, XXIX, 5).
+[^34]: (112:3) L19 a « de toutes les graines ». Cet arbre, d'où toutes les plantes sauvages sont censées provenir, est censé pousser dans la mer près de l'arbre Gôkarn, et aussi dans l'Aîrân-vê<i>g</i>ô (voir Bd. IX, 5, 6, XVIII, 9, XXVII, 2, XXIX, 5).
 
 [^35]: (112:4) Le chef des oiseaux mythiques après le Sênô-mûrûv ; on dit qu'il défend l'Iran contre l'invasion en ramassant occasionnellement des districts étrangers comme des grains de blé (voir Bd. XIX, 15, XXIV, 29).
 

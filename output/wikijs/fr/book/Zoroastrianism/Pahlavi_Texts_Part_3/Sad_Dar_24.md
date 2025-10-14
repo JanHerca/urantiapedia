@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE XXIV.
 
-1\. Le vingt-quatrième sujet est celui-ci, que lorsqu'un enfant naît de sa mère, il est nécessaire qu'on lui donne le jus consacré de Hôm [^1], afin que l'entendement ('haql), la sagesse et la connaissance puissent lui parvenir plus abondamment, et que leur manque (ablat) puisse lui venir plus rarement [^2].
+1\. Le vingt-quatrième sujet est celui-ci, que lorsqu'un enfant naît de sa mère, il est nécessaire qu'on lui donne le jus consacré de Hôm [^1], afin que l'entendement ('haql), la sagesse et <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> la connaissance puissent lui parvenir plus abondamment, et que leur manque (ablat) puisse lui venir plus rarement [^2].
 
 2\. Si, à ce moment-là, ils n'accomplissent pas la consécration, ils _devront_ prélever un peu de Hôm pour cela [^3], et réciter [^4] un Yathâ-ahû-vairyô [^5], et y mettre un peu d'eau, et en faire du jus de Hôm, et le donner à l'enfant, et ensuite [^6] du lait.
 

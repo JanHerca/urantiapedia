@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXXV.
+## SAD DAR. CAPÍTULO LXXXV.
 
 1\. El tema octogésimo quinto es este: que en todo asunto que se presente, es necesario preguntar a los sabios y parientes, para obtener su consejo, y no hacer ningún negocio según la propia idea y opinión.
 
@@ -68,4 +68,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^2]: (350:2) Pahl. Mânû<i>s</i><i>k</i>îhar (véase Mkh. XXVII, 41 n). De Sls. X, 28, donde se cita un fragmento de este relato, se desprende que proviene originalmente del <i>K</i>î<i>d</i>ra<i>s</i>t Nask.
 
-[^3]: (350:3) B29 tiene 'aunque un cuchillo esté afilado, _puede_ no haber otro recurso que una piedra de afilar para él', que sigue a la siguiente cláusula en Sls. X, 28. En el texto original este cambio de significado se produce por una diferencia en sólo cuatro palabras, y el autor del Sad Dar probablemente ha malinterpretado el original Pahlavi al traducirlo.
+[^3]: (350:3) B29 tiene «aunque un cuchillo esté afilado, _puede_ no haber otro recurso que una piedra de afilar para él», que sigue a la siguiente cláusula en Sls. X, 28. En el texto original este cambio de significado se produce por una diferencia en sólo cuatro palabras, y el autor del Sad Dar probablemente ha malinterpretado el original Pahlavi al traducirlo.

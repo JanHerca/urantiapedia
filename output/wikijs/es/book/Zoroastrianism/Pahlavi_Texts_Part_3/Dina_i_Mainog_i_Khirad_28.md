@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. El espíritu de sabiduría respondió (8) así: «Aûha<i>r</i>ma<i>z</i><i>d</i>, el señor, es el más indulgente. 9. Vio [^3] los nueve mil años de maldad [^4] entre sus propias criaturas, debido a Aharman, pero después, por justicia y perdón, no lo castiga por ello [^5].
 
-10\. 'Y la esfera celestial es más poderosa. 11. El intelecto [^6] de la humanidad es más veloz. 12. Las almas de los justos son más felices. 13. _Y_ las de los malvados son más arrepentidas [^7].'
+10\. «Y la esfera _celestial_ es más poderosa. 11. El intelecto [^6] de la humanidad es más veloz. 12. Las almas de los justos son más felices. 13. _Y_ las de los malvados son más arrepentidas [^7].»
 
 <figure class="table chapter-navigator">
   <table>
@@ -68,16 +68,16 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (66:1) O 'más agudo'.
+[^1]: (66:1) O «más agudo».
 
-[^2]: (66:2) L19 añade '¿Qué es lo más desesperanzado?'
+[^2]: (66:2) L19 añade «¿Qué es lo más desesperanzado?»
 
-[^3]: (66:3) L19 tiene 'quien ve'.
+[^3]: (66:3) L19 tiene «quien ve».
 
 [^4]: (66:4) El período señalado para el conflicto entre los espíritus buenos y malos (véase Cap. VIII, 11).
 
 [^5]: (66:5) Lectura de êdîna<i>s</i>a<i>s</i>, que Nêr. malinterpretó como ainâ<i>s</i>, «de lo contrario». L19 dice «sin embargo, salvo con justicia y paciencia, no lo castiga de otra manera». También es posible leer «no lo castiga sin escuchar (agûsha<i>s</i>)».
 
-[^6]: (66:6) L19 tiene 'el pensamiento'.
+[^6]: (66:6) L19 tiene «el pensamiento».
 
-[^7]: (66:7) L19 tiene 'el más miserable y más desesperanzado'.
+[^7]: (66:7) L19 tiene «el más miserable y más desesperanzado».

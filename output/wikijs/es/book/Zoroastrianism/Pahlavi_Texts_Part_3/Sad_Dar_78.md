@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXVIII.
+## SAD DAR. CAPÍTULO LXXVIII.
 
-1\. El septuagésimo octavo tema es que, en toda vivienda donde alguien fallezca, es necesario procurar que no coman ni consagren carne fresca durante tres días [^1]. 2. Dado que existe el peligro de que alguien fallezca, los familiares de esa persona no deben comer carne durante tres días.
+1\. El septuagésimo octavo tema es que, en toda vivienda donde alguien fallezca, es necesario procurar <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> que no coman ni consagren carne fresca durante tres días [^1]. 2. Dado que existe el peligro de que alguien fallezca, los familiares de esa persona no deben comer carne durante tres días.
 
 <figure class="table chapter-navigator">
   <table>

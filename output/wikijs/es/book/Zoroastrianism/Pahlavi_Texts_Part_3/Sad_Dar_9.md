@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO IX.
+## SAD DAR. CAPÍTULO IX.
 
 1\. El noveno tema es este: es necesario practicar la abstinencia de cometer o permitir relaciones sexuales antinaturales [^1]. 2. Porque este es el mayor de todos los pecados en la religión: no hay pecado peor que este en la buena religión, y es apropiado llamar a quienes lo cometen dignos de muerte en realidad.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (267:3) _Gh_ulâmbâragî u mûâ<i>g</i>arî.
 
-[^2]: (267:4) B29, J15 tienen 'echa un vistazo', y J15 agrega 'matará entonces'.
+[^2]: (267:4) B29, J15 tienen «echa un vistazo», y J15 agrega «matará entonces».
 
 [^3]: (267:5) Véase Mkh. VIII, 29 n.
 
@@ -80,4 +80,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^6]: (268:2) Sâma y Nareman<i>a</i>u son dos títulos del héroe Keresâspa, quien mató a la serpiente Srvara (véase SBE, vol. XVIII, págs. 369-371). En el Shâhnâmah se le llama Sâm, hijo de Narîmân.
 
-[^7]: (268:3) J15 tiene '_que_ los sumos sacerdotes han hecho manifiesto.'
+[^7]: (268:3) J15 tiene «_que_ los sumos sacerdotes han hecho manifiesto.»

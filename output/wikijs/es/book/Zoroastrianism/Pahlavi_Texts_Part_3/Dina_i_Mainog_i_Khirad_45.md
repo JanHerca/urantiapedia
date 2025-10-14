@@ -64,8 +64,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (88:1) O 'superfluidad y escasez'.
+[^1]: (88:1) O «superfluidad y escasez».
 
-[^2]: (88:2) Suponiendo que apatôtakîh significa apatîtakîh, 'no renuncia _al pecado_'. L19 tiene 'comer inmoderadamente'.
+[^2]: (88:2) Suponiendo que apatôtakîh significa apatîtakîh, «no renuncia _al pecado_». L19 tiene «comer inmoderadamente».
 
-[^3]: (88:3) L19 tiene 'en el calumniador y malicioso'.
+[^3]: (88:3) L19 tiene «en el calumniador y malicioso».

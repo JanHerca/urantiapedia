@@ -82,7 +82,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^9]: (72:5) Ou « rupture de contrat ».
 
-[^10]: (73:1) Tel semble être le sens de zanŏ-î kârân. L19 a zan-î kasân, 'les épouses des autres'.
+[^10]: (73:1) Tel semble être le sens de zanŏ-î kârân. L19 a zan-î kasân, « les épouses des autres ».
 
 [^11]: (73:2) Ou « irrévérencieux », selon que nous lisons a<i>r</i>âstô ou anâstŏ.
 

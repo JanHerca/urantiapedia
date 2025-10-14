@@ -34,8 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p255"><sup><small>[ pág. 255 ]</small></sup></span>
 
-TRISTE DAR.
-========
+SAD DAR.
 
 ## INTRODUCCIÓN.
 
@@ -76,20 +75,20 @@ TRISTE DAR.
 
 [^1]: (255:1) Es posible traducir el original (que es el mismo que en Sg. I, 1) de la siguiente manera: «El nombre de Hôrmazd es «el señor, el más sabio», como si estos epítetos fueran el significado de Hôrmazd, lo cual no está lejos de la verdad; pero esta no sería una forma probable para una invocación. Lp y B29 tienen una invocación diferente.
 
-[^2]: (255:2) Lp, B29, J15 omiten '_y_ puro.'
+[^2]: (255:2) Lp, B29, J15 omiten «_y_ puro.»
 
-[^3]: (255:3) Este es el nombre del escritor que compuso el Sad Dar Na_th_m, o Sad Dar métrico, en 1495 d. C. Sin embargo, se llama a sí mismo hijo de Malik-shâh en la introducción a sus versos (véase Historia Religionis Veterum Persarum de Hyde, Oxon, 1700, pág. 433); y en su posdata menciona Mard-shah como su propio nombre, que Dastûr Jâmâspji entiende que significa Shah-mard, en la introducción a su traducción Gu<i>g</i>arâti del Sad Dar-i Ba'hr-i <i>T</i>avîl, o Sad Dar de métrica larga (2.ª ed., Bombay, 1881). La fecha pág. El año 256 de composición de este Sad Dar de largo metraje es 1531 d. C., según Dastûr Jâmâspji, y sus autores afirman que lo compilaron a partir del Sad Dar NaTHr, o Sad Dar en prosa, compuesto por tres célebres Dastûrs cerca de la época de la conquista árabe. Los nombres de nuestro texto se encuentran aquí únicamente en La, que es el original o una copia temprana de una versión del Sad Dar en prosa compilada por Râma, hijo de Kanhaksha, en la que el persa está escrito en caracteres avésticos y se alterna con una antigua traducción gu<i>g</i>arâti compuesta por su hijo Padama. Esta versión se preparó en 1575 d. C., y la presencia del nombre de Erin-shah, quien vivió tan solo ochenta años antes, indica que esta parte de la introducción probablemente fue escrita por el editor Râma, y ​​no copiada del Sad Dar original en prosa. En Lp se menciona al final de la obra 'el môbad <i>E</i>rân-shâh, hijo de Yazad-yâr'.
+[^3]: (255:3) Este es el nombre del escritor que compuso el Sad Dar Na_th_m, o Sad Dar métrico, en 1495 d. C. Sin embargo, se llama a sí mismo hijo de Malik-shâh en la introducción a sus versos (véase Historia Religionis Veterum Persarum de Hyde, Oxon, 1700, pág. 433); y en su posdata menciona Mard-shah como su propio nombre, que Dastûr Jâmâspji entiende que significa Shah-mard, en la introducción a su traducción Gu<i>g</i>arâti del Sad Dar-i Ba'hr-i <i>T</i>avîl, o Sad Dar de métrica larga (2.ª ed., Bombay, 1881). La fecha pág. El año 256 de composición de este Sad Dar de largo metraje es 1531 d. C., según Dastûr Jâmâspji, y sus autores afirman que lo compilaron a partir del Sad Dar NaTHr, o Sad Dar en prosa, compuesto por tres célebres Dastûrs cerca de la época de la conquista árabe. Los nombres de nuestro texto se encuentran aquí únicamente en La, que es el original o una copia temprana de una versión del Sad Dar en prosa compilada por Râma, hijo de Kanhaksha, en la que el persa está escrito en caracteres avésticos y se alterna con una antigua traducción gu<i>g</i>arâti compuesta por su hijo Padama. Esta versión se preparó en 1575 d. C., y la presencia del nombre de Erin-shah, quien vivió tan solo ochenta años antes, indica que esta parte de la introducción probablemente fue escrita por el editor Râma, y ​​no copiada del Sad Dar original en prosa. En Lp se menciona al final de la obra «el môbad <i>E</i>rân-shâh, hijo de Yazad-yâr».
 
 [^4]: (256:1) Los dos últimos nombres se introducen simplemente para mostrar que <i>E</i>rân-shâh trazó su ascendencia ya sea hasta el célebre Âtûr-pâ<i>d</i> Mâraspend, primer ministro de Shâpûr II (309-379 d. C.), o hasta otro sacerdote del mismo nombre que vivió alrededor del año 900 d. C. (véase Bd. XXXIII, 11); pero se han omitido muchos nombres intermedios en esta genealogía.
 
-[^5]: (256:2) J15 omite todo el § 6, y Lp, B29 simplemente tiene 'y se envía una recompensa a sus almas, etc.', para ser leído en conexión con el § 5.
+[^5]: (256:2) J15 omite todo el § 6, y Lp, B29 simplemente tiene «y se envía una recompensa a sus almas, etc.», para ser leído en conexión con el § 5.
 
-[^6]: (256:3) Lp, B29, J15 tienen 'para que no surja ninguna duda' en lugar de 'saber'.
+[^6]: (256:3) Lp, B29, J15 tienen «para que no surja ninguna duda» en lugar de «saber».
 
 [^7]: (256:4) Lp, B29, J15 omiten este epíteto.
 
 [^8]: (257:1) Lp, B29, J15 omiten este epíteto.
 
-[^9]: (257:2) J15 tiene 'quien poseía'.
+[^9]: (257:2) J15 tiene «quien poseía».
 
-[^10]: (257:3) Porque los §§ 12, 13 Lp, B29, J15 tienen simplemente lo siguiente: 'Y la paz es posible para aquella persona que cumple todo deber que desempeña, mediante la autoridad de los sumos sacerdotes.'
+[^10]: (257:3) Porque los §§ 12, 13 Lp, B29, J15 tienen simplemente lo siguiente: «Y la paz es posible para aquella persona que cumple todo deber que desempeña, mediante la autoridad de los sumos sacerdotes.»

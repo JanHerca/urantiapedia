@@ -46,13 +46,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 34\. Il est également dit qu'il est assis sur un trône que quatre anges tiennent sur leurs ailes, et de chacun d'eux jaillit toujours un fleuve de feu, sous le poids de son poids [23]. 35. Or, s'il est un esprit, sans corps, pourquoi ces quatre-là sont-ils affligés par lui, eux qui doivent supporter avec peine le lourd fardeau de cette tâche facile ?
 
-36\. Il est également dit que chaque jour, de sa propre main, il prépare quatre-vingt-dix mille adorateurs, qui l'adorent jusqu'à la nuit, puis il les renvoie en enfer par un fleuve de feu [^24]. 37. Face à de tels troubles et injustices, comment est-il opportun pour les êtres terrestres d'exister dans le devoir, les bonnes œuvres et les bonnes actions ? 38. Quand il jette les adorateurs affligés, qui sont respectueux, qui écoutent les commandements et qui sont purs dans leurs actions, avec d'autres qui sont des pécheurs, dans l'enfer éternel, (39) c'est comme ce qu'une autre congrégation [^25] affirme, que l'être sacré, au jour de la résurrection, donne le soleil et la lune, avec d'autres qui sont des pécheurs, à l'enfer parce qu'il y a des gens qui leur ont rendu hommage.
+36\. Il est également dit que chaque jour, de sa propre main, il prépare quatre-vingt-dix mille adorateurs, qui l'adorent jusqu'à la nuit, puis il les renvoie en enfer par un fleuve de feu [^24]. 37. Face à de tels troubles et injustices, comment est-il <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> opportun pour les êtres terrestres d'exister dans le devoir, les bonnes œuvres et les bonnes actions ? 38. Quand il jette les adorateurs affligés, qui sont respectueux, qui écoutent les commandements et qui sont purs dans leurs actions, avec d'autres qui sont des pécheurs, dans l'enfer éternel, (39) c'est comme ce qu'une autre congrégation [^25] affirme, que l'être sacré, au jour de la résurrection, donne le soleil et la lune, avec d'autres qui sont des pécheurs, à l'enfer parce qu'il y a des gens qui leur ont rendu hommage.
 
 40\. Un autre passage dit aussi que lorsque les yeux du vieillard (masâtval) [^26] Abraham, qui était l'ami du Seigneur, furent affligés, le Seigneur lui-même vint le chercher ; (41) et il s'assit sur son coussin et demanda la paix [^27]. 42. Et Abraham appela Isaac [^28], qui était son fils le plus cher [^29], en secret, et lui parla (43) ainsi : « Va au paradis (vahi<i>s</i>t), et apporte du vin léger et pur. » 44. Et il y alla et l'apporta. 45. Et Abraham fit de nombreuses supplications au Seigneur (46) ainsi : « Goûte une fois [^30] du vin dans ma demeure. » 47. Et le Seigneur parla ainsi : <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> « Je n'y goûterai pas, car il ne vient pas du paradis et n'est pas pur. » 48. Abraham donna alors cette assurance : « Le vin est pur, venu du paradis, et Isaac, mon fils, l'a apporté. » 49. Alors le Seigneur, en raison de l'absence de doute en Isaac et de l'assurance donnée par Abraham, goûta le vin une fois. 50. Plus tard, lorsqu'il voulut partir, il ne fut pas autorisé à y aller avant que l'un d'eux n'ait juré à l'autre par un serment sérieux [^31].
 
 51\. Observez ce baratin plein d'illusions ; pas un seul détail ne convient à un être sacré. 52. Comment sa venue corporelle au séjour d'Abraham et son repas d'un pain dont aucun détail ne lui convient ? 53. Ceci aussi démontre que la souffrance d'Abraham ne venait pas du Seigneur, mais d'un autre. 54. Et même la faute due à son manque de connaissance était telle qu'il ignorait la pureté du vin et son origine. 55. Sa fausseté se manifeste également lorsqu'il dit ne pas boire le vin et qu'il le but finalement. 56. Il confesse ensuite qu'il est authentique et pur. 57. Or, comment est-il digne d’adoration, en tant que divinité omnisciente et toute-puissante, dont la nature est telle ?
 
-58\. Et un autre passage dit qu'il y avait un malade qui, avec sa propre femme et son enfant, était particulièrement souffrant, pauvre et sans salaire. 59. Il était en tout temps très assidu et actif dans la prière, le jeûne et le culte de l'être sacré. 60. Et un jour, en prière, il demanda secrètement une faveur ainsi : « Accorde-moi tout le plaisir que procure la nourriture quotidienne (rô<i>z</i>îh), (61) afin qu'il me soit plus facile de vivre. »
+58\. Et un autre passage dit qu'il y avait un malade qui, avec sa propre femme et son enfant, était <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> particulièrement souffrant, pauvre et sans salaire. 59. Il était en tout temps très assidu et actif dans la prière, le jeûne et le culte de l'être sacré. 60. Et un jour, en prière, il demanda secrètement une faveur ainsi : « Accorde-moi tout le plaisir que procure la nourriture quotidienne (rô<i>z</i>îh), (61) afin qu'il me soit plus facile de vivre. »
 
 62\. Et un ange descendit vers lui et parla ainsi : « L'être sacré ne t'a pas attribué, par l'intermédiaire des constellations [^34], plus de nourriture quotidienne que cela, (63) _et_ il n'est pas possible d'en attribuer de nouveau ; (64) mais, en récompense de l'adoration _et_ de la prière, un trône dont les quatre pieds sont de joyaux t'est assigné dans le ciel (vahi<i>s</i>t) par moi, (65) _et_, si cela est nécessaire, je te donnerai un pied de ce trône. »
 
@@ -60,13 +60,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 70\. _A_ la seconde venue de cet ange, il parla ainsi : « Mais si je dissipe la sphère _céleste_ et que je recrée le ciel _et_ la terre, et que je construis et reproduise le mouvement des étoiles, désormais _il_ n'est pas clair si ta destinée _sera_ bonne ou mauvaise [^35]. »
 
-71\. De cette déclaration, il est donc manifeste qu'il n'est pas lui-même celui qui ordonne la nourriture quotidienne et que la distribution suprême (72) ne se fait pas par sa volonté, <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> _il n'est pas capable de changer le destin, (73) et la révolution de la sphère _céleste_, du soleil _et_ de la lune et des étoiles, n'est pas dans le champ de sa connaissance, de sa volonté et de son commandement. 74. _Et_ aussi ceci, que le trône, au sujet duquel il a été annoncé (nivîkînî<i>d</i>) ainsi : 'Je le donnerai dans le ciel', n'est pas de sa formation et de sa création.
+71\. De cette déclaration, il est donc manifeste qu'il n'est pas lui-même celui qui ordonne la nourriture quotidienne et que la distribution suprême (72) ne se fait pas par sa volonté, <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> _il n'est pas capable de changer le destin, (73) et la révolution de la sphère _céleste_, du soleil _et_ de la lune et des étoiles, n'est pas dans le champ de sa connaissance, de sa volonté et de son commandement. 74. _Et_ aussi ceci, que le trône, au sujet duquel il a été annoncé (nivîkînî<i>d</i>) ainsi : « Je le donnerai dans le ciel », n'est pas de sa formation et de sa création.
 
 75\. Et dans un autre endroit, il parle ainsi de ses propres balivernes (76) : « J'ai tué, en un seul jour [^36], un groupe (bélier) de pécheurs, ainsi que d'innombrables innocents. » 77. Et lorsque les anges parlèrent longuement de cette performance déraisonnable, il en parla alors ainsi : « Je suis le Seigneur, le maître des volontés, (78) surveillant, sans rival, et faisant ma propre volonté, et personne ne m'assiste ni ne doit proférer un murmure (dren<i>g</i>i<i>s</i>nŏ) à mon sujet [^37]. »
 
 79\. Particulièrement abondantes sont les balivernes complètement trompeuses, qui m'ont semblé fastidieuses à écrire. 80. Quiconque voudrait examiner les opinions rétrogrades de ces affirmations devrait, à cette fin, être un grand prêtre parlant franchement (â<i>z</i>â<i>d</i>), (81) jusqu'à ce qu'il prenne conscience de la nature de cette Écriture et de la vérité de ce que j'y énonce.
 
-82\. Or, s'il s'agit d'un être sacré, dont ces signes et ces indices sont la preuve, cela implique que la vérité est loin de lui, (83) que le pardon lui est étranger, (84) et que la connaissance ne lui est pas accordée. 85. Car celui-ci est lui-même le démon qui est le chef de l'enfer, lequel est le repaire (grêstak) de la race sombre, (86) que les impies et les méchants glorifient au nom du Seigneur et lui rendent hommage.
+82\. Or, s'il s'agit d'un être sacré, dont ces signes et ces indices sont la preuve, cela implique que la vérité est loin de lui, (83) que le pardon lui est étranger, (84) et que la connaissance ne lui est pas accordée. 85. Car celui-ci est lui-même le démon qui est le chef de l'enfer, <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> lequel est le repaire (grêstak) de la race sombre, (86) que les impies et les méchants glorifient au nom du Seigneur et lui rendent hommage.
 
 87\. Tout est ici complet sur ce sujet.
 
@@ -104,19 +104,19 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (221:4) Littéralement « venin ».
 
-[^5]: (221:5) 'Voici, le nom de l'Éternel vient de loin, brûlant de sa colère, et le fardeau de celle-ci est pesant; ses lèvres sont pleines d'indignation, et sa langue est comme un feu dévorant; et son souffle, comme un torrent qui déborde, atteint jusqu'au milieu du cou' (Is. xxx. 27, 28).
+[^5]: (221:5) « Voici, le nom de l »Éternel vient de loin, brûlant de sa colère, et le fardeau de celle-ci est pesant; ses lèvres sont pleines d'indignation, et sa langue est comme un feu dévorant; et son souffle, comme un torrent qui déborde, atteint jusqu'au milieu du cou' (Is. xxx. 27, 28).
 
-[^6]: (222:1) 'Et le Seigneur fera entendre sa voix glorieuse, et montrera l'éclat de son bras, avec l'indignation de sa colère, et avec la flamme d'un feu dévorant, avec la dispersion, la tempête et la grêle' (Is. xxx. 30).
+[^6]: (222:1) « Et le Seigneur fera entendre sa voix glorieuse, et montrera l »éclat de son bras, avec l'indignation de sa colère, et avec la flamme d'un feu dévorant, avec la dispersion, la tempête et la grêle' (Is. xxx. 30).
 
 [^7]: (222:2) En supposant que Pâz. gûam (pers. gum, « invisible ») est une mauvaise lecture de Pahl. tom, « obscurité », comme le sanskrit l'est dhûmalatvam, « fumée ».
 
-[^8]: (222:3) 'Il a fait des ténèbres son lieu secret : son pavillon autour de lui étaient des eaux sombres et des nuages ​​épais des cieux' (Ps. xviii. 11). 'Les nuages ​​et les ténèbres sont autour de lui' (Ps. xcvii. 2).
+[^8]: (222:3) « Il a fait des ténèbres son lieu secret : son pavillon autour de lui étaient des eaux sombres et des nuages ​​épais des cieux » (Ps. xviii. 11). « Les nuages ​​et les ténèbres sont autour de lui » (Ps. xcvii. 2).
 
 [^9]: (222:4) « Qui fait des nuages ​​son char, qui marche sur les ailes du vent » (Ps. civ. 3).
 
-[^10]: (222:5) 'Le Seigneur a sa voie dans le tourbillon et dans la tempête, et les nuages ​​sont la poussière de ses pieds' (Na. i. 3).
+[^10]: (222:5) « Le Seigneur a sa voie dans le tourbillon et dans la tempête, et les nuages ​​sont la poussière de ses pieds » (Na. i. 3).
 
-[^11]: (222:6) 'Car voici, le Seigneur viendra avec le feu, et avec ses chars comme un tourbillon, pour traduire sa colère en fureur, et sa menace en flammes de feu' (Is. lxvi. 15).
+[^11]: (222:6) « Car voici, le Seigneur viendra avec le feu, et avec ses chars comme un tourbillon, pour traduire sa colère en fureur, et sa menace en flammes de feu » (Is. lxvi. 15).
 
 [^12]: (222:7) Pâz. Asarâsarã est évidemment une mauvaise lecture de Pahl. Asrâyîlân.
 
@@ -128,7 +128,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^16]: (223:2) 'Qui est aveugle, sinon mon serviteur ? Ou sourd, comme mon messager que j'ai envoyé ? Qui est aveugle comme celui qui est parfait, et aveugle comme le serviteur du Seigneur ?' (Is. XLII. 19).
 
-[^17]: (223:3) 'Le Seigneur est notre roi' (Is. xxxiii. 22).
+[^17]: (223:3) « Le Seigneur est notre roi » (Is. xxxiii. 22).
 
 [^18]: (223:4) « Environ vingt-cinq hommes, le dos tourné vers le temple de l'Éternel et le visage tourné vers l'orient ; et ils adoraient le soleil tourné vers l'orient. Alors il me dit : « As-tu vu cela, ô fils de l'homme ? Est-ce peu pour la maison de Juda de commettre les abominations qu'ils commettent ici ? » (Ézéchiel 8. 16, 17).
 
@@ -154,13 +154,13 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^29]: (225:5) Sans. a « le fils de son frère de sang ».
 
-[^30]: (225:6) En supposant que Pâz. shê représente Pahl. gâs-1, ici et dans le § 49. Nêr. semble l'avoir compris comme Ar. <i>s</i>ay, 'un peu'.
+[^30]: (225:6) En supposant que Pâz. shê représente Pahl. gâs-1, ici et dans le § 49. Nêr. semble l'avoir compris comme Ar. <i>s</i>ay, « un peu ».
 
 [^31]: (226:1) Ce récit est peut-être à chercher dans le Talmud.
 
 [^32]: (226:2) Lecture de lâ au lieu de râî. En lisant ce dernier, Nêr. donne « la souffrance qui était pour Abraham venait du Seigneur », ce qui est incompatible avec le contexte.
 
-[^33]: (226:3) En supposant que Pâz. bavãnî (Sans. vaikalyam) représente Pahl. zîfânîh, ce qui semble plus probable que de supposer qu'il s'agit d'une erreur d'écriture de Pâz. d<i>e</i>wãnagî, 'folie'.
+[^33]: (226:3) En supposant que Pâz. bavãnî (Sans. vaikalyam) représente Pahl. zîfânîh, ce qui semble plus probable que de supposer qu'il s'agit d'une erreur d'écriture de Pâz. d<i>e</i>wãnagî, « folie ».
 
 [^34]: (227:1) Du zodiaque (voir Mkh. XII, 5, 6, 8).
 

@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1]: (82:1) K43 a bôî, 'parfum', qui se distingue de band, 'lien', uniquement par des signes diacritiques en pahlavi.
+[^1]: (82:1) K43 a bôî, « parfum », qui se distingue de band, « lien », uniquement par des signes diacritiques en pahlavi.
 
 [^2]: (82:2) Ses propres passions et ses propres défauts personnifiés sous forme de démons.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO LXXXII.
+## SAD DAR. CAPÍTULO LXXXII.
 
 1\. El tema octogésimo segundo es este: que, cuando te levantas de las sábanas, es necesario atar el cinturón del hilo sagrado [^1] de nuevo en ese mismo lugar, y no es deseable dar un paso sin el cinturón.
 

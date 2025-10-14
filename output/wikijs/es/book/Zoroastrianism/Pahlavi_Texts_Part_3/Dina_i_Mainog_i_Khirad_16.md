@@ -50,7 +50,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 49\. 'Y en quien bebe vino con moderación, se manifiesta así un gran defecto, (50) ya que disminuye su sabiduría, entendimiento e intelecto, semen y sangre; (51) daña el hígado [^15] y acumula enfermedades, (52) altera la complexión, (53) y disminuye la fuerza y ​​el vigor. 54. El homenaje _y_ la glorificación de los seres sagrados se olvidan. 55. La vista, el oído y el habla disminuyen. 56. Angustia a Ho<i>r</i>vada<i>d</i> y Ame<i>r</i>oda<i>d</i> [^16] (57) _y_ alberga un deseo de letargo [^17]. 58. También lo que es necesario que diga y haga, queda sin hacer; (59) _y_ duerme intranquilo, _y_ se levanta incómodo. 60. _Y_, debido a estas contingencias, él mismo [^18], <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> esposa, hijo, amigo _y_ parientes están afligidos _y_ infelices, (61) y el superintendente de los problemas [^19] y el enemigo están contentos. 62. Los seres sagrados, tampoco están contentos con él; (63) y la infamia llega a su cuerpo, e incluso la maldad a _su_ alma.
 
-64\. 'De la vestimenta que la gente posee _y_ usa [^20], la seda es buena para el cuerpo y el algodón para el alma. 65. Por esta razón, porque la seda surge de una criatura nociva [^21], (66) y el algodón se nutre del agua, y _su_ crecimiento de la tierra [^22]; y como tesoro del alma se le llama grande, bueno y más valioso.'
+64\. «De la vestimenta que la gente posee _y_ usa [^20], la seda es buena para el cuerpo y el algodón para el alma. 65. Por esta razón, porque la seda surge de una criatura nociva [^21], (66) y el algodón se nutre del agua, y _su_ crecimiento de la tierra [^22]; y como tesoro del alma se le llama grande, bueno y más valioso.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -80,31 +80,31 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (45:3) Las seis regiones más externas de la tierra, de las cuales Arzah se encuentra al oeste, Savah al este, Frada<i>d</i>afsh y Vîda<i>d</i>afsh al sur, y Vôrûbar<i>s</i>t y Vôrû<i>g</i>ar<i>s</i>t al norte de la región central (véase Bd. V, 8, XI, 3).
 
-[^2]: (46:1) Se le llama 'el jefe de los granos de semillas grandes' en Bd. XXIV, 19.
+[^2]: (46:1) Se le llama «el jefe de los granos de semillas grandes» en Bd. XXIV, 19.
 
-[^3]: (46:2) Posiblemente en el Pâzag Nask, parte del cual era 'sobre las treinta y tres primeras jefaturas de las existencias alrededor, es decir, cuántas de las cuales son espirituales _y_ cuántas _existencias_ mundanas, y cuál es la segunda, y cuál la tercera de las _existencias_ espirituales _y_ mundanas'; como se afirma en el octavo libro del Dînka<i>r</i><i>d</i>.
+[^3]: (46:2) Posiblemente en el Pâzag Nask, parte del cual era «sobre las treinta y tres primeras jefaturas de las existencias alrededor, es decir, cuántas de las cuales son espirituales _y_ cuántas _existencias_ mundanas, y cuál es la segunda, y cuál la tercera de las _existencias_ espirituales _y_ mundanas»; como se afirma en el octavo libro del Dînka<i>r</i><i>d</i>.
 
 [^4]: (46:3) Es decir, cuando no se puede preparar un pastel, se puede sustituir por fruta en la ceremonia de consagración de los pasteles sagrados. El pastel sagrado, o drôn, es un panqueque pequeño, redondo y flexible de trigo sin levadura, del tamaño aproximado de la palma de la mano, que, tras la consagración, es degustado por todos los presentes en la ceremonia (véase Sls. III, 32 n).
 
 [^5]: (46:4) La fruta y el vino suelen consagrarse y consumirse en la ceremonia del Âfrîngân, tras finalizar la ceremonia del Drôn, pero a veces el Âfrîngân se celebra solo. Ambas ceremonias se realizan en honor a algún ángel o al espíritu guardián de algún difunto (véanse los Ensayos de Haug, págs. 407-409).
 
-[^6]: (46:5) TD2 tiene 'por la naturaleza del vino'; pero âs, 'vino', se escribe mas.
+[^6]: (46:5) TD2 tiene «por la naturaleza del vino»; pero âs, «vino», se escribe mas.
 
-[^7]: (46:6) TD2 dice: 'el bien del hombre está en la ira, y la sabiduría del hombre en la lujuria que excita la maldad'.
+[^7]: (46:6) TD2 dice: «el bien del hombre está en la ira, y la sabiduría del hombre en la lujuria que excita la maldad».
 
 [^8]: (47:1) Lectura de a<i>g</i>a<i>s</i>, en lugar de afa<i>s</i> (Pâz. va<i>s</i>); estas dos palabras están escritas de la misma manera en Pahlavi.
 
 [^9]: (47:2) TD2 dice: «Se vuelve más amigable, más gentil y más agradable con su esposa, su hijo y sus compañeros». También omite el § 29.
 
-[^10]: (47:3) TD2 inserta 'asalariado'.
+[^10]: (47:3) TD2 inserta «asalariado».
 
-[^11]: (47:4) O 'debe volverse inteligente a través de'.
+[^11]: (47:4) O «debe volverse inteligente a través de».
 
 [^12]: (47:5) El calor animal, llamado fuego Vohu-fryãn en Bd. XVII, 1.
 
-[^13]: (48:1) Nêr. tiene 'a la hora de dormir', y la palabra gâs significa 'tiempo' o 'lugar', pero generalmente esto último. TD2 tiene ba<i>s</i>n gâs, probablemente por bâli<i>s</i>n gâs, 'lugar de la cama'.
+[^13]: (48:1) Nêr. tiene «a la hora de dormir», y la palabra gâs significa «tiempo» o «lugar», pero generalmente esto último. TD2 tiene ba<i>s</i>n gâs, probablemente por bâli<i>s</i>n gâs, «lugar de la cama».
 
-[^14]: (48:2) Nêr. inserta las palabras 'aumentar grandemente' en la versión sánscrita, pero no aparecen en TD2.
+[^14]: (48:2) Nêr. inserta las palabras «aumentar grandemente» en la versión sánscrita, pero no aparecen en TD2.
 
 [^15]: (48:3) Estas cuatro palabras aparecen sólo en TD2.
 
@@ -112,7 +112,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^17]: (48:5) Bûshâsp (Av. Bûshyãsta), el demonio del sueño perezoso.
 
-[^18]: (48:6) O puede traducirse como 'su propio cuerpo'.
+[^18]: (48:6) O puede traducirse como «su propio cuerpo».
 
 [^19]: (49:1) Significa probablemente el espíritu maligno.
 

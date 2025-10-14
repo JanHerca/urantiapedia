@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 <span id="p348"><sup><small>[ pág. 348 ]</small></sup></span>
 
-## TRISTE DAR. CAPÍTULO LXXXIII.
+## SAD DAR. CAPÍTULO LXXXIII.
 
 1\. El tema octogésimo tercero es que es necesario abstenerse de ayunar. 2. Porque, en nuestra religión, no es apropiado que no se coma nada todos los días, porque sería pecado no hacerlo.
 

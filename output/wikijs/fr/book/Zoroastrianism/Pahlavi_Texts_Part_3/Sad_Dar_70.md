@@ -32,13 +32,13 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE LXX.
+## SAD DAR. CHAPITRE LXX.
 
 1\. Le soixante-dixième sujet est celui-ci, que, pour toute personne qui porte un cadavre à l'endroit désigné, il est nécessaire qu'elle revête deux vêtements, à cause de ce travail. 2. Il est nécessaire que ces vêtements soient sur elle [^1], et il est nécessaire [^2] de faire regarder le cadavre à un chien deux fois, une fois au moment où la vie s'en sépare, et une fois au moment où elle veut le prendre.
 
 3\. Il est alors nécessaire que ces deux personnes soient liées, et que chacune d'elles attache une corde à l'une de ses mains, afin que la main puisse s'éloigner [^3] de celle de l'autre. 4. Et, lorsqu'ils se déplacent, il est nécessaire qu'il soit prêt et qu'il n'adresse la parole à personne. 5. Et si c'est une femme enceinte, ils la porteront à quatre, car il y a deux cadavres [^4].
 
-6\. Lorsque, évitant la matière morte, on la retrouve, on doit, à la fin, se laver [^5] avec une ablution cérémonielle [^6], et cela est nécessaire pour la raison qu'on ne peut pas ainsi être rapidement une cause de méchanceté ou de mort pour qui que ce soit [^7].
+6\. Lorsque, évitant la matière morte, on la retrouve, on doit, à la fin, se laver [^5] avec une ablution cérémonielle [^6], et cela est nécessaire pour la raison qu'on ne <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> peut pas ainsi être rapidement une cause de méchanceté ou de mort pour qui que ce soit [^7].
 
 7\. Et si on ne montre pas un chien au cadavre, et qu'ils le ramassent, quel que soit leur nombre, ils sont tous souillés [^8]. 8. Dans le commentaire du Vendîdâ<i>d</i>, il est affirmé que quiconque ramasse un cadavre qu'un chien n'a pas vu est souillé et digne de mort [^9], et ne devient jamais pur ; son âme aussi serait mauvaise.
 

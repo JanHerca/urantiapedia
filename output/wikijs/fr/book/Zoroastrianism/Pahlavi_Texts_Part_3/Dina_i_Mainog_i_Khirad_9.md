@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (35:6) La terre est censée être divisée en sept régions, dont la centrale est aussi grande que les six autres réunies ; deux des six se trouvent au nord, deux au sud, une à l'est et une à l'ouest ; et on dit qu'elles sont séparées par des mers ou des montagnes, difficiles à traverser (voir Livre XI). Pour leurs noms, voir Chap. XVI, 10, XXVII, 40.
 
-[^2]: (36:1) Au lieu de adîna<i>s</i>, 'alors pour un', Nêr. a fabriqué un mot ainâ, 'autrement' (voir aussi Chap. VII, 19 n).
+[^2]: (36:1) Au lieu de adîna<i>s</i>, « alors pour un », Nêr. a fabriqué un mot ainâ, « autrement » (voir aussi Chap. VII, 19 n).
 
 [^3]: (36:2) Cette information est tirée de Pahl. Vend. I, 4 <i>a</i>.
 

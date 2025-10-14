@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO L [^1].
+## SAD DAR. CAPÍTULO L [^1].
 
 1\. El tema quincuagésimo es éste, que todos los días al amanecer, cuando se levantan del sueño, no es apropiado lavarse primero las manos con agua.
 
@@ -66,9 +66,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^1]: (312:1) Omitido en La, Lp, aunque el primero contiene una porción de este capítulo anexada a parte del Cap. XLVIII, y la mayor parte de su contenido se repite, en otras palabras, en el Cap. LXXIV.
 
-[^2]: (312:2) Quizás mîvah pueda tomarse como adjetivo de mîv, 'cabello'; en cuyo caso tendríamos 'con algo peludo o herboso'. Según el Sad Dar de largo recorrido, el líquido que se debe usar para esta primera humectación es orina de cabra o de toro.
+[^2]: (312:2) Quizás mîvah pueda tomarse como adjetivo de mîv, «cabello»; en cuyo caso tendríamos «con algo peludo o herboso». Según el Sad Dar de largo recorrido, el líquido que se debe usar para esta primera humectación es orina de cabra o de toro.
 
-[^3]: (312:3) La tiene 'de oreja a oreja' (véase Cap. XLVIII, 1 n).
+[^3]: (312:3) La tiene «de oreja a oreja» (véase Cap. XLVIII, 1 n).
 
 [^4]: (312:4) Un pecado de Tanâvar o Tanâpûhar (ver Sls. I, 2).
 

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XIX.
 
-1\. El sabio preguntó al espíritu de sabiduría (2) así: '¿Es peor vivir con miedo y falsedad, o la muerte?'
+1\. El sabio preguntó al espíritu de sabiduría (2) así: «¿Es peor vivir con miedo y falsedad, o la muerte?»
 
 3\. El espíritu de sabiduría respondió (4) así: «Vivir con miedo y falsedad es peor que la muerte. 5. Porque la vida de cada uno es necesaria para el disfrute y el placer de la existencia mundana, (6) y cuando el disfrute y el placer de la existencia mundana no le pertenecen, y el miedo e incluso la falsedad [^1] le acompañan, se dice que es peor que la muerte».
 

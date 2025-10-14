@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. Y en cuanto a la pregunta (2) así: «Cuando siempre veo que todas las cosas surgen de la esfera celestial y las estrellas, (3) y quién creó esta esfera, entonces es como lo que dicen los de la religión Vîrô<i>d</i> [^1], que creó el bien y el mal». 4. Si Aharman <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> creó algo, ¿cómo pudo crear el efecto de estas cosas maravillosas? (5) ¿y por qué, cuando son estrellas, siempre se otorga la ayuda de la virtud? 6. Si Aûha<i>r</i>ma<i>z</i><i>d</i> y Aharman crearon en conferencia, entonces de esa manera _es_ manifiesto que Aûha<i>r</i>ma<i>z</i><i>d</i> es cómplice _y_ confederado, con Aharman, en el daño y el mal que siempre surgen de la esfera _celestial_.' 7. La respuesta es esta, (8) que la esfera _celestial_ es el lugar de las divinidades (baghân), quienes son los distribuidores de la felicidad, de donde siempre otorgan justamente su distribución de cada felicidad. 9. Y las formas de los siete planetas (estrella) son brujas que se precipitan debajo de ellos, saqueadores que son distribuidores antagónicos, (10) cuyo nombre escritural es Gadûg [^2].
 
-11\. _A través_ del creador Aûha<i>r</i>ma<i>z</i><i>d</i> _fue_ la disposición de estas criaturas y la creación, metódicamente _y_ sagazmente, y por el bien de la continuación de la renovación _del universo_. 12. Como el espíritu maligno _estaba_ enredado en el cielo, ese demonio, con malvada astucia _y_ con mentirosa falsedad, rodeó [^3] _y_ se mezcló con la luz, _junto_ con los demonios de crímenes de muchos tipos, que son los de una raza sombría, _pensando_ así: '_Haré_ que estas criaturas _y_ la creación de Aûha<i>r</i>ma<i>z</i><i>d</i> se extingan, o debo hacerlas _para mí_.'
+11\. _A través_ del creador Aûha<i>r</i>ma<i>z</i><i>d</i> _fue_ la disposición de estas criaturas y la creación, metódicamente _y_ sagazmente, y por el bien de la continuación de la renovación _del universo_. 12. Como el espíritu maligno _estaba_ enredado en el cielo, ese demonio, con malvada astucia _y_ con mentirosa falsedad, rodeó [^3] _y_ se mezcló con la luz, _junto_ con los demonios de crímenes de muchos tipos, que son los de una raza sombría, _pensando_ así: «_Haré_ que estas criaturas _y_ la creación de Aûha<i>r</i>ma<i>z</i><i>d</i> se extingan, o debo hacerlas _para mí_.»
 
 13\. Esas luminarias, las más altas de las del <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> buen _ser_, se percataron, mediante la omnisciencia, de la operación de manchado y de las mentiras _y_ falsedades del demonio, (14) _y_ de esto también, es decir, de hasta qué punto _era_ este poder suyo, por el cual esta operación de manchado y obra de ruina se arrastran [^4], (15) de modo que, a partir de entonces, _no_ existe poder alguno para su restauración, que está _libre_ del completo embadurnamiento de restricción, dolor y enredo que hay dentro del cielo.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 73\. Igual que él es el creador Aûha<i>r</i>ma<i>z</i><i>d</i>, quien es el preservador de las creaciones y el organizador de las criaturas [^30], el desbaratador de la malvada evolución original [^31] y protector de su propio huerto del perjudicador. 74. El travieso animal salvaje, que es el saqueador del huerto, es ese maldito Aharman que es el apresurador _y_ perturbador de las criaturas. 75. La buena trampa es el cielo, en el que se alojan las buenas creaciones, (76) _y_ en el que el espíritu maligno y _sus_ rudimentarias [^32] deformaciones son capturadas. 77. Y perteneciente al resorte y la trampa del animal salvaje, que es dañino debido a su propia obstinación, está el tiempo agotador (78) que, para la lucha de Aharman y sus poderes y recursos, es por el largo período [^33] (79) que, a través de la lucha del animal salvaje en el resorte y la trampa, es un agotamiento de su fuerza. 80. El único [^34] <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> creador de las criaturas organiza una preservación de nuevo, que es la preparación de un progreso eterno y feliz _libre_ de su adversario, que ese sabio dueño del huerto _hace_ con su propia trampa y resorte [^35].
 
-81\. Entonces [^36] el escaso poder y la falta de habilidad de ese demonio para ello, en su lucha por las luminarias, se manifiestan incluso desde esto. 82. Cuando como con mentira mentirosa pensó así [^37]: 'Haré que este cielo y tierra y las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> se extingan, o los apartaré de su propia naturaleza y los traeré a la mía', (83) incluso entonces, con todo el poder, el deseo de destrucción y la lucha perpetua del demonio, ninguna matanza por parte de los demonios está libre de límites efectivos; son esta tierra y este cielo, y estas criaturas, (84) los que se están propagando de unos pocos a muchos, como es manifiesto, (85) e innumerables personas están convencidas de ello. 86. Porque si en esta lucha se hubiera producido alguna victoria especial, habría sido imposible que la alcanzasen unos pocos y muchos.
+81\. Entonces [^36] el escaso poder y la falta de habilidad de ese demonio para ello, en su lucha por las luminarias, se manifiestan incluso desde esto. 82. Cuando como con mentira mentirosa pensó así [^37]: «Haré que este cielo y tierra y las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> se extingan, o los apartaré de su propia naturaleza y los traeré a la mía», (83) incluso entonces, con todo el poder, el deseo de destrucción y la lucha perpetua del demonio, ninguna matanza por parte de los demonios está libre de límites efectivos; son esta tierra y este cielo, y estas criaturas, (84) los que se están propagando de unos pocos a muchos, como es manifiesto, (85) e innumerables personas están convencidas de ello. 86. Porque si en esta lucha se hubiera producido alguna victoria especial, habría sido imposible que la alcanzasen unos pocos y muchos.
 
 87\. Además, si los nacimientos de la existencia mundana se manifiestan principalmente a través de la muerte, incluso entonces se ve que esa muerte no es una disolución completa de la existencia, sino una necesidad de ir de un lugar a otro, de un deber a otro [^38]. 88. Pues, como la existencia de todas estas creaciones se deriva de los cuatro elementos, es evidente a la vista que sus cuerpos mundanos se mezclarán de nuevo con los cuatro elementos. 89. Las partes espirituales, que son los dispositivos rudimentarios de la vida <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> que estimula el cuerpo, se mezclan con el alma—(90) debido a la unidad de naturaleza no se dispersan—(91) y el alma es responsable (amârhômand) de sus propias acciones. 92. Sus tesoreros [^39], también, a quienes se confían sus buenas obras y ofensas, avanzan allí para una contienda. 93. Cuando el tesorero de las buenas obras es de mayor fuerza, ella lo preserva, por su victoria, de las manos del acusador [^40], _y_ lo establece para el gran trono y el deleite mutuo de las luminarias; (94) y es asistido eternamente en el progreso virtuoso. 95. Y cuando el tesorero de sus ofensas es de mayor fuerza, es arrastrado, por su victoria, _lejos_ de las manos del ayudador [^41], (96) _y_ es entregado al lugar de la sed y el hambre y la morada agonizante de la enfermedad [^42]. 97. E incluso allí, esas débiles buenas obras, que _fueron_ practicadas por él en la _existencia_ mundana, no le son inútiles; (98) porque, debido a _esta_ misma razón, que el hambre, la sed y el castigo se le _infligen_ proporcionalmente al pecado, _y_ no ilegalmente, (99) porque _hay_ un vigilante [^43] <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> de la inflicción de su castigo. 100. Y, en última instancia, el creador compasivo, que es el perdonador de las criaturas, no deja a ninguna buena criatura cautiva en manos del enemigo [^44]. 101. _Pero_, un día [^45], salva incluso a los pecadores, _y_ a los justos mediante la expiación del pecado, por manos de los purificadores, _y_ los hace _proceder_ por el curso feliz que es eterno.
 
@@ -100,19 +100,19 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (127:3) Compárese con sans. viruddha, 'perverso, contradictorio', o con pers. bulûd, 'antigüedad'. Es posible que se aluda al mahometanismo, ya que esta religión casi nunca se menciona por su nombre en los escritos pahlavi, probablemente por motivos políticos.
+[^1]: (127:3) Compárese con sans. viruddha, «perverso, contradictorio», o con pers. bulûd, «antigüedad». Es posible que se aluda al mahometanismo, ya que esta religión casi nunca se menciona por su nombre en los escritos pahlavi, probablemente por motivos políticos.
 
-[^2]: (128:1) Av. gadha, un término para 'un bandido' que se usa en conjunción con brujas y otros seres malvados en el Srôsh Yt. Hâ<i>d</i>ôkht, 5, 6.
+[^2]: (128:1) Av. gadha, un término para «un bandido» que se usa en conjunción con brujas y otros seres malvados en el Srôsh Yt. Hâ<i>d</i>ôkht, 5, 6.
 
-[^3]: (128:2) Suponiendo que Pâz. frawast (fravast en § 16) represente a Pahl. parvast, como en los caps. VIII, 96, 97, XIV, 73, XVI, 56, 60, 66-69, 71, 72; pero como Nêr. usa Sans. prasarpita, pravish<i>t</i>a, pravartita, samudgata y samutpatita para traducir la palabra, debe haber asumido que representaba a fra<i>z</i>ast (Pahl. fra<i>g</i>ast, 'surgió').
+[^3]: (128:2) Suponiendo que Pâz. frawast (fravast en § 16) represente a Pahl. parvast, como en los caps. VIII, 96, 97, XIV, 73, XVI, 56, 60, 66-69, 71, 72; pero como Nêr. usa Sans. prasarpita, pravish<i>t</i>a, pravartita, samudgata y samutpatita para traducir la palabra, debe haber asumido que representaba a fra<i>z</i>ast (Pahl. fra<i>g</i>ast, «surgió»).
 
-[^4]: (129:1) Sans. 'se retirará', como si Nêr. entendiera que el pronombre 'su' se refería al buen espíritu, en lugar del maligno; la aplicación de los pronombres en los §§ 14, 15 no está para nada clara en el texto original.
+[^4]: (129:1) Sans. «se retirará», como si Nêr. entendiera que el pronombre «su» se refería al buen espíritu, en lugar del maligno; la aplicación de los pronombres en los §§ 14, 15 no está para nada clara en el texto original.
 
 [^5]: (129:2) Los representantes espirituales de las luminarias, que son ángeles.
 
-[^6]: (129:3) Las palabras entre paréntesis se omiten en AK, PB3, L23, de modo que los §§ 17, 18, en esos manuscritos, quedan como sigue:—'Dado que el veneno diabólico de las criaturas nocivas, los cuatro elementos pertenecientes a Aûha<i>r</i>ma<i>z</i><i>d</i>—que son agua, fuego, tierra y aire—no se han enredado, es como si ellas (las criaturas) vinieran al cielo _y_ a la _existencia_ espiritual.'
+[^6]: (129:3) Las palabras entre paréntesis se omiten en AK, PB3, L23, de modo que los §§ 17, 18, en esos manuscritos, quedan como sigue:—«Dado que el veneno diabólico de las criaturas nocivas, los cuatro elementos pertenecientes a Aûha<i>r</i>ma<i>z</i><i>d</i>—que son agua, fuego, tierra y aire—no se han enredado, es como si ellas (las criaturas) vinieran al cielo _y_ a la _existencia_ espiritual.»
 
-[^7]: (130:1) O grôhê puede significar 'un conjunto'.
+[^7]: (130:1) O grôhê puede significar «un conjunto».
 
 [^8]: (130:2) Los ángeles de las luminarias.
 
@@ -120,9 +120,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^10]: (130:4) Véase § 10 n.
 
-[^11]: (131:1) Llamado 'el grande de en medio del cielo' en Bd. II, 8, V, I, que aún no ha sido identificado, pero puede ser Régulo u Orión.
+[^11]: (131:1) Llamado «el grande de en medio del cielo» en Bd. II, 8, V, I, que aún no ha sido identificado, pero puede ser Régulo u Orión.
 
-[^12]: (131:2) Sans. 'muy visible'.
+[^12]: (131:2) Sans. «muy visible».
 
 [^13]: (131:3) Véase Mkh. XLIX, 15-21, donde se le llama Haptôk-ring.
 
@@ -144,7 +144,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^22]: (132:2) Refiriéndose a la supuesta influencia perjudicial de los cometas que, como suelen aparecer uno a la vez a simple vista, aquí se supone que son un único ser maligno, el Mû<i>s</i>par de Bd. V, 1, 2.
 
-[^23]: (132:3) Quizás deberíamos decir 'ella', ya que un drû<i>g</i>, 'demonio', se considera generalmente un ser femenino, y la Mû<i>s</i>par o Mû<i>s</i>\-pairika es una bruja.
+[^23]: (132:3) Quizás deberíamos decir «ella», ya que un drû<i>g</i>, «demonio», se considera generalmente un ser femenino, y la Mû<i>s</i>par o Mû<i>s</i>\-pairika es una bruja.
 
 [^24]: (133:1) Significa, probablemente, la razón dada por los astrólogos para las buenas obras mencionadas en el § 28.
 
@@ -154,29 +154,29 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^27]: (133:4) El demonio de la sequía (véase Bd. VII, 8, 10, 12, XXVIII, 39). Estos dos conflictos representan la lucha entre la lluvia y la sequía, que culmina en la tormenta; Tî<i>s</i>tar (Sirio) es el portador de la lluvia.
 
-[^28]: (133:5) Así en AK, PB3, MH19, pero otros manuscritos tienen mâr, 'serpiente', en lugar de mar, aunque Nêr. usa Sans. n_ri_<i>s</i>a<i>m</i>sa.
+[^28]: (133:5) Así en AK, PB3, MH19, pero otros manuscritos tienen mâr, «serpiente», en lugar de mar, aunque Nêr. usa Sans. n_ri_<i>s</i>a<i>m</i>sa.
 
 [^29]: (133:6) Lo cual se manifiesta en el mundo que nos rodea.
 
-[^30]: (135:1) Nêr. significa 'de la trampa' en sánscrito. El Pâz. dãm, que significa tanto 'criatura' como 'trampa'.
+[^30]: (135:1) Nêr. significa «de la trampa» en sánscrito. El Pâz. dãm, que significa tanto «criatura» como «trampa».
 
 [^31]: (135:2) Se lee bûn ga<i>s</i>tak en lugar de bûn ya<i>s</i>tak, ya que la palabra evidentemente no hace referencia a ninguna forma de adoración. No puede traducirse como «perversión original» (un posible significado de la palabra) porque hay dos (véase § 103 y Cap. VIII, 101), una compitiendo con la otra (véase Cap. VIII, 1). Esto, al decirse que una de ellas es mala, implica que la otra es buena y, por lo tanto, no puede ser una perversión; este término tampoco sería aplicable en el Cap. VI, 6 ni en XV, 56.
 
-[^32]: (135:3) O puede ser 'primitivo', ya que kâdmon es la forma Huzvâri<i>s</i> del Pâz. khâmast (superlativo del persa '<i>h</i>âm, 'inmaduro') usado aquí.
+[^32]: (135:3) O puede ser «primitivo», ya que kâdmon es la forma Huzvâri<i>s</i> del Pâz. khâmast (superlativo del persa «<i>h</i>âm, »inmaduro') usado aquí.
 
-[^33]: (135:4) Así ocurre en todos los manuscritos más antiguos, pero en Sans. es '_es_ el señor de largo tiempo', un epíteto común del Avesta para 'tiempo', y esta alteración se ha introducido en JE, R y algunos otros manuscritos modernos.
+[^33]: (135:4) Así ocurre en todos los manuscritos más antiguos, pero en Sans. es «_es_ el señor de largo tiempo», un epíteto común del Avesta para «tiempo», y esta alteración se ha introducido en JE, R y algunos otros manuscritos modernos.
 
 [^34]: (135:5) Suponiendo que Pâz. awâ<i>z</i> significa <i>e</i>wâ<i>z</i>. La palabra se omite en Sans., K28, L15.
 
 [^35]: (136:1) Como se afirma en el § 72.
 
-[^36]: (136:2) Lectura adîna<i>s</i>, 'entonces para ello', que es el Pahlavi original indicado por el Pâz. ainâ de Nêr. (véase Mkh. IX, 6 n).
+[^36]: (136:2) Lectura adîna<i>s</i>, «entonces para ello», que es el Pahlavi original indicado por el Pâz. ainâ de Nêr. (véase Mkh. IX, 6 n).
 
 [^37]: (136:3) Véase § 12.
 
 [^38]: (136:4) Compárese con el cap. XII, 79.
 
-[^39]: (137:1) Nêr. divide la palabra gan<i>g</i>ôbar, 'tesorero', en tres palabras: gan<i>g</i> u bar, 'atesorar y producir'. Estos tesoreros son los espíritus femeninos que se encuentran con el alma después de la muerte, con sus reservas de buenas obras y pecados (véase Dd. XXIV, 5, XXV, 5), y simbolizan su buena y mala conciencia, representadas por una bella doncella y una bruja espantosa, respectivamente.
+[^39]: (137:1) Nêr. divide la palabra gan<i>g</i>ôbar, «tesorero», en tres palabras: gan<i>g</i> u bar, «atesorar y producir». Estos tesoreros son los espíritus femeninos que se encuentran con el alma después de la muerte, con sus reservas de buenas obras y pecados (véase Dd. XXIV, 5, XXV, 5), y simbolizan su buena y mala conciencia, representadas por una bella doncella y una bruja espantosa, respectivamente.
 
 [^40]: (137:2) El acusador es cualquier persona o cosa de la buena creación que ha sido perjudicada por algún pecado, y que debe ser expiada para que el pecado pueda ser perdonado. Por lo tanto, la cuestión que debe resolverse al rendir cuentas al alma es si sus buenas obras son suficientes para expiar sus pecados. En este caso, el tesorero de las ofensas representa a los acusadores.
 

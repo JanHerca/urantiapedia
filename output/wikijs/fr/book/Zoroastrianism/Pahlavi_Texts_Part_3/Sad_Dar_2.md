@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE II.
+## SAD DAR. CHAPITRE II.
 
-1\. Le deuxième sujet est celui-ci, qu'il est nécessaire de faire un effort (<i>g</i>ahd), afin qu'ils ne puissent pas commettre de péché. 2. Si même un péché insignifiant se produit, il n'est pas souhaitable de supposer que cette petite quantité ne cause pas de préjudice par la suite.
+1\. Le deuxième sujet est celui-ci, qu'il est nécessaire de faire un effort (<i>g</i>ahd), afin qu'ils ne puissent <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> pas commettre de péché. 2. Si même un péché insignifiant se produit, il n'est pas souhaitable de supposer que cette petite quantité ne cause pas de préjudice par la suite.
 
 3\. Car il est dit dans l'Apocalypse que si la quantité de péché est telle que le péché est un filament de cil [^1] de plus que les bonnes œuvres, cette personne arrive en enfer. 4. Et si une telle quantité de bonnes œuvres est en excès, il arrive juste dans la localité rayonnante du ciel.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE LII.
+## SAD DAR. CHAPITRE LII.
 
 1\. Le cinquante-deuxième sujet est celui-ci, qu'il incombe à chacun, chaque année, _quand_ vient le mois de Fravardîn, _de fournir un gâteau sacré _le_ jour de Khurdâ<i>d</i> [^1], et tout ce qu'ils peuvent apporter, _un peu_ de chaque chose, _ils doivent_ placer à côté de ce gâteau sacré, et le consacrer_ avec la formule dédicatoire Ayaranãm<i>k</i>a [^2], afin que <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> les affaires de cette année-là soient meilleures grâce à la provision de ce jour-là et à l'entrée et à la venue des invités.
 

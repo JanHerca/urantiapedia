@@ -96,7 +96,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^7]: (100:1) Nêr. a lu shâyastan, « possibilité », au lieu de nishâstanŏ, « siège ».
 
-[^8]: (100:2) Lecture de vâdûrnî-hênd. L19 a 'sont possibles à effectuer'.
+[^8]: (100:2) Lecture de vâdûrnî-hênd. L19 a « sont possibles à effectuer ».
 
 [^9]: (100:3) L19 a « au moyen de la grande puissance et de la grande force ».
 
@@ -124,7 +124,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^21]: (101:7) L19 a des « existences mondaines ».
 
-[^22]: (101:8) Lecture de girî-hastŏ. L19 a 'sont effectués'.
+[^22]: (101:8) Lecture de girî-hastŏ. L19 a « sont effectués ».
 
 [^23]: (102:1) L19 omet « à effet ».
 

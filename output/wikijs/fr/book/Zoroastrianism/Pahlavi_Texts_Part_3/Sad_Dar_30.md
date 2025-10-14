@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:56:50Z
   </table>
 </figure>
 
-## TRISTE DAR. CHAPITRE XXX.
+## SAD DAR. CHAPITRE XXX.
 
-1\. Le trentième sujet est celui-ci, qu'il ne convient pas de verser l'eau la nuit, surtout du côté nord (<i>g</i>ânib) qui serait le pire [^1]. 2. C'est pourquoi, si cela devient une nécessité à la fin (ba-'<i>h</i>atam) [^2], il est requis de réciter un Yathâ-ahû-vairyô [^3], et, _quand_ on prépare une lumière ('hâʓ̣ir) [^4], de verser l'eau doucement.
+1\. Le trentième sujet est celui-ci, qu'il ne convient pas de verser l'eau la nuit, surtout du côté nord (<i>g</i>ânib) qui serait le pire [^1]. 2. C'est pourquoi, si cela devient une nécessité à la fin (ba-'<i>h</i>atam) [^2], il est requis de réciter un Yathâ-ahû-vairyô [^3], et, _quand_ on prépare une lumière ('hâʓ̣ir) [^4], de verser l'_eau_ doucement.
 
 3\. _De même_ il ne convient pas d'avaler de l'eau la nuit, car c'est un péché. 4. _Mais_, si une nécessité survient, il est nécessaire de préparer une lumière, et de manger d'abord quelques morceaux de nourriture (<i>t</i>a'hâm) afin que le péché soit moindre.
 

@@ -70,6 +70,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (311:3) La a « si une goutte de ».
 
-[^4]: (311:4) La a 'bouche' ; le passage dans ce manuscrit étant évidemment la fin du chap. L, 3.
+[^4]: (311:4) La a « bouche » ; le passage dans ce manuscrit étant évidemment la fin du chap. L, 3.
 
 [^5]: (311:5) La a « de trois cents stîrs », comme au chap. L, 3, et omet le reste du texte. Les deux quantités sont identiques et équivalent à un Tanâvar ou Tanâpûhar sin (voir Sls. I, 2).

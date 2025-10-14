@@ -32,9 +32,9 @@ dateCreated: 2025-10-10T14:41:36Z
   </table>
 </figure>
 
-## TRISTE DAR. CAPÍTULO XXIX.
+## SAD DAR. CAPÍTULO XXIX.
 
-1\. El vigésimo noveno tema es que, cuando se proporciona alguna munificencia (sa'<i>h</i>âvat) o liberalidad, es necesario que se proporcione a quien la merece; y hay que considerar lo siguiente: «¿Es esta persona a quien le doy esto digna o no?»
+1\. El vigésimo noveno tema es que, cuando se proporciona alguna munificencia (sa'<i>h</i>âvat) _o_ liberalidad, es necesario que se proporcione a quien la merece; y _hay_ que considerar lo siguiente: «¿Es esta persona a quien le doy esto digna o no?»
 
 2\. Por lo tanto, es necesario esforzarse para que no den a los indignos. 3. Porque en la revelación, en cuanto a [^1] quien da alguna munificencia a los indignos, lo llaman obra vana y un don sin provecho; y día tras día es [^2] <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> el castigo y tormento de esa persona. 4. Y, todo lo que dan a los indignos, lo han extinguido.
 
@@ -64,6 +64,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (291:2) Lp, B29 tiene 'porque en la buena religión se declara'.
+[^1]: (291:2) Lp, B29 tiene «porque en la buena religión se declara».
 
-[^2]: (291:3) Lp, B29 tiene 'aumenta'.
+[^2]: (291:3) Lp, B29 tiene «aumenta».

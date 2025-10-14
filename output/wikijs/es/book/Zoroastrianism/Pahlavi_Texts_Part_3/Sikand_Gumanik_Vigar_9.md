@@ -90,6 +90,6 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^6]: (164:1) Se refiere a los dos tipos de evidencia, directa e indirecta, mencionados en los §§ 5, 6.
 
-[^7]: (164:2) Así también en § 24 y en Sans., aunque Pâz. tiene 'obtenible' aquí.
+[^7]: (164:2) Así también en § 24 y en Sans., aunque Pâz. tiene «obtenible» aquí.
 
-[^8]: (164:3) Suponiendo que el Pâz. awar dugâê de AK significa Pahl. bar gôkâs (o gôkâsîh). MH19 tiene duvâê, y PB3, JE tienen dusâê, mientras que Sans. significa 'sobre la magnitud'.
+[^8]: (164:3) Suponiendo que el Pâz. awar dugâê de AK significa Pahl. bar gôkâs (o gôkâsîh). MH19 tiene duvâê, y PB3, JE tienen dusâê, mientras que Sans. significa «sobre la magnitud».
