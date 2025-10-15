@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 ## SÉLECTIONS DE ZÂ<i>D</i>\-SPARAM. CHAPITRE XIX.
 
-1\. Au sujet de ses propos perturbateurs (andarg-gôbi<i>s</i>nŏîh) avec les iniques, il est également déclaré qu'un jour, Dûrêsrôbô [^1] le Karap, pour ainsi dire de la part des cinq mêmes frères, sortit à la maison de Pôrûshaspô ; et Pôrûshaspô plaça un bol (<i>g</i>amakŏ) de lait de jument devant lui, et lui parla ainsi : « Consacre-le. »
+1\. Au sujet de ses propos perturbateurs (andarg-gôbi<i>s</i>nŏîh) avec les iniques, il est également déclaré qu'un <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> jour, Dûrêsrôbô [^1] le Karap, pour ainsi dire de la part des cinq mêmes frères, sortit à la maison de Pôrûshaspô ; et Pôrûshaspô plaça un bol (<i>g</i>amakŏ) de lait de jument devant lui, et lui parla ainsi : « Consacre-le. »
 
 2\. Zaratûst remontra ainsi auprès de Pôrûshaspô : « Je vais le consacrer. » 3. Pôrûshaspô parla ainsi : « Il devrait le consacrer, et la grâce doit être offerte par toi [^2] ; » et ils se disputèrent mutuellement jusqu'à trois fois.
 

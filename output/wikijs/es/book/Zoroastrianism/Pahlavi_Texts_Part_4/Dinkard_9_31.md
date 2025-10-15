@@ -40,7 +40,7 @@ _Var<i>s</i>tmânsar Nask_.
 
 2\. Esto también, que la vida de las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i> y también todos los demás beneficios se deben a Aûha<i>r</i>ma<i>z</i><i>d</i> [^6] y la inclinación (kâmvar<i>i</i><i>k</i>akŏ) de Aûha<i>r</i>ma<i>z</i><i>d</i> hacia ello; además, la recompensa y la recompensa provienen de Aûha<i>r</i>ma<i>z</i><i>d</i>. 3. Y las criaturas de Aharman proceden de Aharman, toda la miseria se debe a Aharman, y Aharman se vuelve peor y más opresivo y un generador aún mayor de miseria cuando lo adoran. <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> 4\. Sobre la continuidad y organización de ambos espíritus en cuanto a sus propias creaciones (stî) y la autoacción de sus propios recursos; el logro de cada uno mediante sus propios recursos naturales y mediante la insignificante (ga<i>d</i>agânîk) operación del otro; el señorío espiritual y la autoridad sacerdotal, la verdadera confesión _y_ el progreso de la buena religión, _siendo de_ Aûha<i>r</i>ma<i>z</i><i>d</i>, _y_, a través de la enemistad _hacia_ las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i>, Aharman los cuestiona. 5. Aûha<i>r</i>ma<i>z</i><i>d</i>, por dejar de lado a ese contendiente, es el productor de la verdadera inteligencia, _y_ dio el lenguaje y también el ritual de la ordalía [^7]; la invocación de los seres sagrados [^8] para pedir ayuda, y la llegada de un ángel para ayudar a los invocadores; la superación de su aflicción, la producción de su inmunidad e incluso su rectitud, y también _de_ ese buen gobernante [^9] que es un recordatorio de Aûha<i>r</i>ma<i>z</i><i>d</i>, y la restauración de los cuerpos, _que es_ la esperanza de todas las buenas creaciones, _son_ a través de los seres sagrados que son invocados para pedir ayuda y _su_ llegada donde la difusión [^10] es la del conocimiento virtuoso a través de Vohûman [^11], la buena religión que es lo que _puede ser_ el conocimiento [^12] _de_ todos los que son, _y_ fueron, _y_ serán.
 
-6\. Sobre los gritos del demonio Aresh [^13] a <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> Zaratû<i>s</i>t y la respuesta de Zaratû<i>s</i>t respecto al consejo de Aûha<i>r</i>ma<i>z</i><i>d</i> y todo lo relacionado con el mismo tema, tal como lo afirma la revelación (dênô), que el demonio Aresh le habló así: «Entonces el Franâmam [^14], ¡oh, Zaratû<i>s</i>t!, es _aplicable_ a la asamblea de demonios que se sientan en el mismo lugar tres noches y cuatro días por tu causa». 7. Zaratû<i>s</i>t le preguntó así: «¡Oh, Aresh, tú, el más engañoso de los demonios! ¿Qué recompensa me correspondería si te adorara con palabras?» 8. Y Aresh, el más engañoso de los demonios, le habló así: «Te volverías predominante entre la humanidad, al producir a voluntad entre las existencias tal como te es necesario; y te volverías inmortal, ¡oh, Spîtâmân!». 9. Zaratû<i>s</i>t también le preguntó así: «¡Oh, Aresh, el más engañoso de los demonios!» En cuanto a las personas que te adoran, ya sea por el nacimiento de un hijo o incluso por una concubina buscada para su disfrute, de modo que el favor sea considerado por ellos como tu propiedad, ¿cómo puede alguno de ellos ser inmortal? 10. Y Aresh, el más engañoso de los demonios, no pudo decirle quién tenía más inteligencia. 11. Entonces Zaratû<i>s</i>t habló así: «Yo estoy a favor de ese ser y me agrada, es decir, soy suyo y me encargaré de sus asuntos, y recitaré la ley y las bendiciones del sagaz Aûha<i>r</i>ma<i>z</i><i>d</i>, el que satisface los deseos».
+6\. Sobre los gritos del demonio Aresh [^13] a <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> Zaratû<i>s</i>t y la respuesta de Zaratû<i>s</i>t respecto al consejo de Aûha<i>r</i>ma<i>z</i><i>d</i> y todo lo relacionado con el mismo tema, tal como lo afirma la revelación (dênô), que el demonio Aresh le habló así: «Entonces el Franâmam [^14], ¡oh, Zaratû<i>s</i>t!, es _aplicable_ a la asamblea de demonios que se sientan en el mismo lugar tres noches y cuatro días por tu causa». 7. Zaratû<i>s</i>t le preguntó así: «¡Oh, Aresh, tú, el más engañoso de los demonios! ¿Qué recompensa me correspondería si te adorara con palabras?» 8. Y Aresh, el más engañoso de los demonios, le habló así: «Te volverías predominante entre la humanidad, al producir a voluntad entre las existencias tal como te es necesario; y te volverías inmortal, ¡oh, Spîtâmân!». 9. Zaratû<i>s</i>t también le preguntó así: «¡Oh, Aresh, el más engañoso de los demonios!» En cuanto a las personas que te adoran, ya sea por el nacimiento de un hijo o incluso por una concubina buscada para su disfrute, de modo que el favor sea considerado por ellos como tu propiedad, ¿cómo puede alguno de ellos ser inmortal? 10. Y Aresh, el más engañoso de los demonios, no pudo decirle quién tenía más inteligencia. 11. Entonces Zaratû<i>s</i>t habló así: «Yo estoy a favor de ese ser y <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> me agrada, es decir, soy suyo y me encargaré de sus asuntos, y recitaré la ley y las bendiciones del sagaz Aûha<i>r</i>ma<i>z</i><i>d</i>, el que satisface los deseos».
 
 12\. Sobre la liberación de todas las criaturas mediante la liturgia [^15], y, mientras sea continuada por ellas, es por el poder mediante el cual se prepara la inmortalidad de las creaciones separadas en la renovación del universo; el aumento de las buenas criaturas mediante la completa continuación de la liturgia, y la existencia de la pureza y el desarrollo de la bondad en el mundo cuando llegue quien sea un buen gobernante.
 
@@ -90,7 +90,7 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^3]: (245:3) B omite estas últimas ocho palabras
 
-[^4]: (245:4) K tiene akdênôân, 'infieles'.
+[^4]: (245:4) K tiene akdênôân, «infieles».
 
 [^5]: (245:5) Véase Pahl. Sí. XXXI, 1c.
 
@@ -102,13 +102,13 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^9]: (246:3) Ibíd. 4 c.
 
-[^10]: (246:4) K tiene 'ceremonial'.
+[^10]: (246:4) K tiene «ceremonial».
 
 [^11]: (246:5) Véase Pahl. Yas. XXXI, 5 b.
 
-[^12]: (246:6) K tiene hû-dânâkîh, 'sagacidad'.
+[^12]: (246:6) K tiene hû-dânâkîh, «sagacidad».
 
-[^13]: (246:7) El demonio de la envidia, como en el cap. XXX, 4. La ocurrencia de su diálogo con Zaratû<i>s</i>t en este lugar explica la palabra ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/001.jpg) que se encuentra dos veces en Pahl. Yas. XXXI, 5 b, y se ha leído hû-vârîh, 'buen juicio', o hû-vaharîh, 'buena fortuna'. En los manuscritos llamados Pt4 y Mf4, en la edición de Geldner del Avesta, esta palabra pahlavi se separa ambas veces en dos así: ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/001.jpg) que puede leerse avŏ Aresh, 'a Aresh', y toda la p. 247 § 5 b puede traducirse de la siguiente manera: «El don del entendimiento a través del Buen Pensamiento es aquello que debes darme (es decir, esa sabiduría que debes proclamarme como virtud), que es para mí (por lo que le pertenece) lo que es para Aresh (es decir, a través de esa sabiduría que es virtud me será posible darle una respuesta a Aresh)». La respuesta aquí mencionada parece ser la que se da en el § 11 de nuestro texto; y el nombre Aresh explica que la palabra ereshi en el texto original del Avesta significa «envidia» y es equivalente a araska.
+[^13]: (246:7) El demonio de la envidia, como en el cap. XXX, 4. La ocurrencia de su diálogo con Zaratû<i>s</i>t en este lugar explica la palabra ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/001.jpg) que se encuentra dos veces en Pahl. Yas. XXXI, 5 b, y se ha leído hû-vârîh, «buen juicio», o hû-vaharîh, «buena fortuna». En los manuscritos llamados Pt4 y Mf4, en la edición de Geldner del Avesta, esta palabra pahlavi se separa ambas veces en dos así: ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_4/001.jpg) que puede leerse avŏ Aresh, «a Aresh», y toda la p. 247 § 5 b puede traducirse de la siguiente manera: «El don del entendimiento a través del Buen Pensamiento es aquello que debes darme (es decir, esa sabiduría que debes proclamarme como virtud), que es para mí (por lo que le pertenece) lo que es para Aresh (es decir, a través de esa sabiduría que es virtud me será posible darle una respuesta a Aresh)». La respuesta aquí mencionada parece ser la que se da en el § 11 de nuestro texto; y el nombre Aresh explica que la palabra ereshi en el texto original del Avesta significa «envidia» y es equivalente a araska.
 
 [^14]: (247:1) La profesión de fe del adorador de Ma<i>z</i><i>d</i>a, que comienza con la palabra Av. fravarânê (Yas. I, 23) = Pahl. franâmam.
 
@@ -124,11 +124,11 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^20]: (249:3) Ibíd. 11 b.
 
-[^21]: (249:4) Así originalmente en B, pero cambiado a 'cuando' por el reparador del MS., para concordar con K.
+[^21]: (249:4) Así originalmente en B, pero cambiado a «cuando» por el reparador del MS., para concordar con K.
 
 [^22]: (249:5) Véase Pahl. Sí. XXXI, 11C.
 
-[^23]: (249:6) B tiene kâmak, 'deseo', con 'lo deseoso' en plural, y esto podría concordar mejor con Pahl. Yas. XXXI, 11 c, pero no con la siguiente cláusula en la oración aquí, donde tanto el nominativo como el verbo están en singular.
+[^23]: (249:6) B tiene kâmak, «deseo», con «lo deseoso» en plural, y esto podría concordar mejor con Pahl. Yas. XXXI, 11 c, pero no con la siguiente cláusula en la oración aquí, donde tanto el nominativo como el verbo están en singular.
 
 [^24]: (249:7) Véase Pahl. Yas. XXXI, siglo XII. Este término es el equivalente pahl. de Av. ârmaiti, que suele personificarse como el arcángel femenino Spenda<i>r</i>ma<i>d</i>.
 

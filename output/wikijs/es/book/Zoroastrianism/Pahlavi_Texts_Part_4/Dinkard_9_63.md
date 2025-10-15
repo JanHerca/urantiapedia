@@ -44,7 +44,7 @@ _Bakŏ Nask_.
 
 6\. Esto, también, que la formación de criaturas (dâmîh) de Aûha<i>r</i>ma<i>z</i><i>d</i> [^7] es ocasionada por aquel cuyo gobierno [^8] es para Aûha<i>r</i>ma<i>z</i><i>d</i>; incluso por esta razón, porque se convierte en un sostenedor y asistente de buenas obras. 7. Esto, también, que la devastación por Vohûman [^9] es enseñada _por_ aquel cuyo gobierno es para Aûha<i>r</i>ma<i>z</i><i>d</i>; incluso por esta razón, porque golpea a los pecadores _y_ destruye entre los villanos.
 
-8\. Esto también, que las personas virtuosas aumentan en una provincia [^10] por quien nombra a un gobernador virtuoso de la provincia. 9. Esto también, que la instrucción virtuosa es proporcionada _y_ explicada por quien ama a Vohûman [^11]. 10. Y esto también, que las acciones virtuosas [^12] son ​​impulsadas por quien enseña dichos eruditos _y_ acciones virtuosas a quien es bueno; incluso por esta razón, porque la recepción _del_ suministro progresivo de virtud por parte de los eruditos se vuelve más completa.
+8\. Esto también, que las personas virtuosas aumentan en una provincia [^10] por quien nombra a un gobernador virtuoso de la provincia. 9. Esto también, que la instrucción virtuosa es proporcionada _y_ explicada por quien ama a Vohûman [^11]. 10. Y esto también, que las acciones <span id="p373"><sup><small>[ p. 373 ]</small></sup></span> virtuosas [^12] son ​​impulsadas por quien enseña dichos eruditos _y_ acciones virtuosas a quien es bueno; incluso por esta razón, porque la recepción _del_ suministro progresivo de virtud por parte de los eruditos se vuelve más completa.
 
 11\. Perfecta es la excelencia de la justicia.
 

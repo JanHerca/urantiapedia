@@ -98,7 +98,7 @@ _Sû<i>d</i>kar Nask_.
 
 [^6]: (213:1) Av. vara; ou il peut s'agir d'une mauvaise écriture de var<i>d</i>ak, « égaré » (Av. vareta).
 
-[^7]: (213:2) Pahl. a<i>î</i><i>z</i>i<i>s</i>n-hômônd, 'celui qui organise des cérémonies', faisant allusion à Dahâk lui-même comme étant la progéniture d'Aû<i>d</i>ak.
+[^7]: (213:2) Pahl. a<i>î</i><i>z</i>i<i>s</i>n-hômônd, « celui qui organise des cérémonies », faisant allusion à Dahâk lui-même comme étant la progéniture d'Aû<i>d</i>ak.
 
 [^8]: (213:3) Ces cinq démons sont Aeshm, Nîy<i>â</i><i>z</i>, Saham, S<i>ê</i><i>g</i> et Zarmân en Pahlavi, qui, à l'exception de Saham, « terreur », sont décrits dans le Bd. XXVIII, 15-17, 23, 26.
 
@@ -120,9 +120,9 @@ _Sû<i>d</i>kar Nask_.
 
 [^17]: (215:2) Demandes souvent formulées par Dahâk, comme indiqué au § 13.
 
-[^18]: (215:3) Pahl. sûlak-hômand, 'quelque chose ayant des ouvertures' ; comparer le sûlâk-hômand qui traduit Av. sufrãm et suwraya dans Vend. II, 7, 18, 30, et a parfois été compris comme une 'sceau'. Comparer également § 19 ci-dessous.
+[^18]: (215:3) Pahl. sûlak-hômand, « quelque chose ayant des ouvertures » ; comparer le sûlâk-hômand qui traduit Av. sufrãm et suwraya dans Vend. II, 7, 18, 30, et a parfois été compris comme une « sceau ». Comparer également § 19 ci-dessous.
 
-[^19]: (215:4) En supposant que mûn, 'qui', représente amat, comme au chap. XIII, 2.
+[^19]: (215:4) En supposant que mûn, « qui », représente amat, comme au chap. XIII, 2.
 
 [^20]: (216 : 1) Voir Livre. VIII, Chap. XIII, 9.
 

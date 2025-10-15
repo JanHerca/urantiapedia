@@ -62,9 +62,9 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## Notas al pie
 
-[^1]: (407:2) Quizás deberíamos leer <i>a</i><i>v</i>îrtar, 'más particularmente', en lugar de <i>a</i><i>v</i>artar.
+[^1]: (407:2) Quizás deberíamos leer <i>a</i><i>v</i>îrtar, «más particularmente», en lugar de <i>a</i><i>v</i>artar.
 
-[^2]: (407:3) B tiene 'cuatro' por error aquí, pero no después.
+[^2]: (407:3) B tiene «cuatro» por error aquí, pero no después.
 
 [^3]: (408:1) Véase [p. 407](/es/book/Zoroastrianism/Pahlavi_Texts_Part_4/Nasks_3#p407), n. 2.
 

@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 4\. Y, además de incluir a este, quien _fue_ un monarca de gloria superior, y a otros monarcas _como_ que también son de la misma raza [^8], los Kayâns [^9] _fueron_ <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> elegidos. 5. Aun así, en cuanto a los Kayâns, los anales _deben_ considerar siempre a quien es monarca como el _correcto_, quien es codescendiente _del_ linaje, y en quien reside la gloria.
 
-6\. El creador Aûha<i>r</i>ma<i>z</i><i>d</i> ha informado a Nêryôsang [^10], su propio recordatorio, _que_ un ejemplo similar es el supremo Zaratû<i>s</i>t, y la gloria de la religión debida a él; también muchas otras razones, que son enumerables, _están_ declaradas en el Avesta, indicaciones conocidas solo _por_ una persona iraní del mejor linaje. 7. Y esto también ha dicho, a saber: 'Gran gloria y bondad de esta descripción _son_ apropiables por la misma raza, _y _son_ incluso ahora [^11] visiblemente manifiestas'.
+6\. El creador Aûha<i>r</i>ma<i>z</i><i>d</i> ha informado a Nêryôsang [^10], su propio recordatorio, _que_ un ejemplo similar es el supremo Zaratû<i>s</i>t, y la gloria de la religión debida a él; también muchas otras razones, que son enumerables, _están_ declaradas en el Avesta, indicaciones conocidas solo _por_ una persona iraní del mejor linaje. 7. Y esto también ha dicho, a saber: «Gran gloria y bondad de esta descripción _son_ apropiables por la misma raza, _y _son_ incluso ahora [^11] visiblemente manifiestas».
 
 8\. Sobre cuáles son los requisitos de la tribu de quienes llaman a esto realmente su Gyêmarâ y cómo se ven afectados por nuestro conocimiento de la revelación, es decir, por su recitación frecuente; solo que varias ocasiones (yâvar 1-<i>k</i>and) son necesarias en estos tiempos. 9. También la acción y la precaución son posibles para ellos, y entre estas acciones y precauciones, una es asumir especialmente la ley y la costumbre, y todo lo que haya sido pervertido por nosotros y vuelto a ser cierto; y, en cuanto a los enseñados, varias personas intelectuales, buscadoras de medios y amigas del alma, han venido a enseñarles completos engaños; también para la misma tribu y a quien sea apropiado enseñar, cuando sea necesario, incluso un mundano <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> la autoridad sacerdotal está guiando a _esa_ misma tribu, porque él ha venido [^12].
 
@@ -80,9 +80,9 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^4]: (128:2) Dk. VII, yo, 16-18.
 
-[^5]: (128:3) K43 tiene 'hijos'.
+[^5]: (128:3) K43 tiene «hijos».
 
-[^6]: (128:4) Probablemente Asiria; pero es posible leer atval como Ar. a<i>t</i>val, y traducirlo como 'fronteras antiguas'.
+[^6]: (128:4) Probablemente Asiria; pero es posible leer atval como Ar. a<i>t</i>val, y traducirlo como «fronteras antiguas».
 
 [^7]: (128:5) Para los nombres anteriores, véase Dk. VII, i, 19-30; ii, 70.
 

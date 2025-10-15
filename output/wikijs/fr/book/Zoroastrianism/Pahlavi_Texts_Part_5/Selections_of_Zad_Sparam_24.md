@@ -42,7 +42,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 4\. La troisième est l'autorité, car le maître sacerdotal est toujours plus sage et parle plus correctement celui qui est enseigné avec sagesse et enseigne avec des paroles plus correctes.
 
-5\. Le quatrième est de [^3] \[comprendre _et_ considérer le cérémonial comme le cérémonial d'Aûha<i>r</i>ma<i>z</i><i>d</i>, _et_ les essentiels avec toute bonté, bienfaisance, _et_ autorité ; d'être constant dans sa religion, et de considérer les indications de protection (sâyag) [^4] qui sont établies pour sa religion. 6. Maintenir la révérence des luminaires dans la prière, _aussi_ la révérence des émanations [^5] _des_ six [^6] _archanges_, qu'ils soient de feu, qu'ils soient de terre, _ou_ qu'ils soient de forme corporelle, et des créatures _qui_ sont formées par eux ; aussi la purification pure de la matière morte, des menstruations, des déchets corporels, et de la nocivité de l'éther ; ceci afin qu'ils puissent être caractérisés, et ainsi constitués, comme ayant de meilleurs principes, plus sensibles [^7] et plus purs, et qu'ils puissent devenir moins défectueux. 7. La révérence de l'humanité consiste à considérer avec autorité la connaissance et la propriété ; la révérence du bétail concerne le fourrage, peu de difficultés et un entretien modéré ; la révérence des plantes concerne les semis et la maturation pour la nourriture des dignes. 8. Le cérémonial qui glorifie tous les êtres sacrés, loue les luminaires et les créations terrestres de manière impropre, et leur est antagoniste, car une glorification complète est appropriée par la récitation complète du rituel ; et le cérémonial de quiconque est son propre devoir professionnel, tant qu'il est possible de le faire, continuez avec très peu de péché].
+5\. Le quatrième est de [^3] \[comprendre _et_ considérer le cérémonial comme le cérémonial d'Aûha<i>r</i>ma<i>z</i><i>d</i>, _et_ les essentiels avec toute bonté, bienfaisance, _et_ autorité ; d'être constant dans sa religion, et de considérer les indications de protection (sâyag) [^4] qui sont établies pour sa religion. 6. Maintenir la révérence des luminaires dans la prière, _aussi_ la révérence des émanations [^5] _des_ six [^6] _archanges_, qu'ils soient de feu, qu'ils soient de terre, _ou_ qu'ils soient de forme corporelle, et des créatures _qui_ sont formées par eux ; aussi la purification pure de la matière morte, des menstruations, des déchets corporels, et de la nocivité de l'éther ; ceci afin qu'ils puissent être caractérisés, et ainsi constitués, comme ayant de meilleurs principes, plus sensibles [^7] et plus purs, et qu'ils puissent devenir moins défectueux. 7. La révérence de l'humanité consiste à considérer avec autorité la connaissance et la propriété ; la révérence du bétail concerne le fourrage, peu de difficultés et un entretien modéré ; la révérence des plantes concerne les semis et la maturation pour la nourriture des dignes. 8. Le cérémonial qui glorifie <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> tous les êtres sacrés, loue les luminaires et les créations terrestres de manière impropre, et leur est antagoniste, car une glorification complète est appropriée par la récitation complète du rituel ; et le cérémonial de quiconque est son propre devoir professionnel, tant qu'il est possible de le faire, continuez avec très peu de péché].
 
 9\. Le cinquième est de lutter dans la prière [^8], jour et nuit, contre votre propre démon [^9], _et toute_ votre vie, de ne pas vous écarter de votre constance, ni de permettre à _votre_ devoir propre [^10] _de vous échapper_ des mains.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 13\. Le quatrième est que tout ce qui est enseigné généreusement par votre propre enseignant, vous devez le restituer à ceux qui en sont dignes, afin de ne pas extorquer une déclaration de renommée aux justes [^13].
 
-14\. Le cinquième est que la récompense des faiseurs de bonnes œuvres et la punition des criminels doivent être établies par la loi, dans l'intérêt du progrès [^14].
+14\. Le cinquième est que la récompense des faiseurs de bonnes <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> œuvres et la punition des criminels doivent être établies par la loi, dans l'intérêt du progrès [^14].
 
 15\. Le sixième est de garder la voie du bien ouverte à _votre_ maison, afin de rendre [^15] la justice bienvenue dans _votre_ propre demeure.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 18\. Le neuvième est de comprendre pleinement le mouvement en avant [^18] de la religion, de maintenir également l'avancement de la religion plus en avant, et de rechercher _votre_ part du devoir dans ce domaine ; et dans un mouvement en arrière, lorsque l'adversité arrive à la religion, de la faire revenir, et de garder _votre_ corps dans la continence (makavadîh) de la religion.
 
-19\. Le dixième est qu'il doit y avoir une période d'obéissance (Srôshdârîh) envers le dirigeant et l'autorité sacerdotale, le grand sacerdoce des religieux [^19].
+19\. Le dixième _est qu'il doit_ y avoir une période d'obéissance (Srôshdârîh) envers le dirigeant et l'autorité sacerdotale, le grand sacerdoce des religieux [^19].
 
 <figure class="table chapter-navigator">
   <table>

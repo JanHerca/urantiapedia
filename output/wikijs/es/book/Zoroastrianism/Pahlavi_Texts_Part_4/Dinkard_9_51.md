@@ -94,4 +94,4 @@ _Bakŏ Nask_.
 
 [^8]: (322:1) Véase Pahl. Yas. XXIX, 10 c.
 
-[^9]: (322:2) Ibid. 10 b; probablemente deberíamos leer hû-mâni<i>s</i>nîh, 'morada agradable', en lugar de hû-mîni<i>s</i>nîh.
+[^9]: (322:2) Ibid. 10 b; probablemente deberíamos leer hû-mâni<i>s</i>nîh, «morada agradable», en lugar de hû-mîni<i>s</i>nîh.

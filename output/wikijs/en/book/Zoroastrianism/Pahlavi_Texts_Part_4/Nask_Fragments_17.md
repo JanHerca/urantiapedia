@@ -46,7 +46,7 @@ Dk. VIII, Chap. XXXIII, 4, refers to the passage which must have contained the s
 
 Dk. VIII, Chap. XXXV, 2, probably refers to the passage which contained the statement thus mentioned in Sls. XII, 7:—‘In the twentieth [^3] of the Hûspâram it is shown _that_ over the soul of him who works in the dark _there is_ more predominance of the evil spirit.’
 
-Dk. VIII, Chap. XXXVI, 7, or 13, probably refers to the passage thus mentioned in Dd. LXI, 3:—'Nearer details of the family guardianship which is proper _and_ which is not proper for an adopted son's duty, of the child of the good religion with whose business _it_ is connected, _and_ of the fathers for whom a family guardian is to be appointed, are _in_ the recital of five fargar<i>d</i>s [^4] of the Hûspâram.'
+Dk. VIII, Chap. XXXVI, 7, or 13, probably refers to the passage thus mentioned in Dd. LXI, 3:—‘Nearer details of the family guardianship which is proper _and_ which is not proper for an adopted son's duty, of the child of the good religion with whose business _it_ is connected, _and_ of the fathers for whom a family guardian is to be appointed, are _in_ the recital of five fargar<i>d</i>s [^4] of the Hûspâram.’
 
 Dk. VIII, Chap. XXXVI, 8-12, probably refers to the passage which contained the statement thus quoted in Sls. X, 21, XII, 14:—‘In the fourteenth [^5] <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> of the Hûspâram Nask the high-priests _have_ taught thus: “My son is suitable even _as_ thy son, _but_ my daughter is not suitable even _as_ thy daughter.”’
 

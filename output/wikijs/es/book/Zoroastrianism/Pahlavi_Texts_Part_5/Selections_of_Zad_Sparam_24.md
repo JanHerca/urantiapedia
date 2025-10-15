@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 2\. De esas cinco disposiciones la primera es la inocencia.
 
-3\. El segundo es la discriminación entre [^2] pensamientos, palabras y acciones; \[para distinguir plenamente los aspectos de la destrucción de los de la indestructividad, _como_ las criaturas nocivas del ganado; y los de la producción de los de la improductividad, _como_ los justos _y_ dignos de los malvados _y_ indignos\].
+3\. El segundo es la discriminación entre [^2] pensamientos, palabras y acciones; \[para distinguir plenamente los aspectos de la destrucción de los de la indestructividad, _como_ <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> las criaturas nocivas del ganado; y los de la producción de los de la improductividad, _como_ los justos _y_ dignos de los malvados _y_ indignos\].
 
 4\. La tercera es la autoridad, porque aquel maestro sacerdotal es siempre más sabio y habla más correctamente quien es enseñado sabiamente y enseña con palabras más correctas.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 13\. El cuarto es que todo lo que tu propio maestro te enseñe con liberalidad, debes devolvérselo a los dignos, para no extorsionar a los justos con una declaración de renombre [^13].
 
-14\. El quinto es que la recompensa de quienes hacen buenas obras y el castigo de los criminales deben ser establecidos por ley, en aras del progreso [^14].
+14\. El quinto es que la recompensa de quienes hacen buenas <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> obras y el castigo de los criminales deben ser establecidos por ley, en aras del progreso [^14].
 
 15\. El sexto es mantener abierto el camino del bien en _tu_ casa, a fin de que la [^15] justicia sea bienvenida en _tu_ propia morada.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 18\. El noveno es comprender plenamente el avance de la religión, así como mantener su progreso y asumir la responsabilidad correspondiente; y, en caso de retroceso, cuando la religión sufra adversidades, recuperarla y mantener el cuerpo en la continencia (makavadîh) de la religión.
 
-19\. El décimo es que debe haber un período de obediencia (Srôshdârîh) hacia el gobernante y la autoridad sacerdotal, el sumo sacerdocio de los religiosos [^19].
+19\. El décimo _es que debe_ haber un período de obediencia (Srôshdârîh) hacia el gobernante y la autoridad sacerdotal, el sumo sacerdocio de los religiosos [^19].
 
 
 <figure class="table chapter-navigator">

@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^1]: (138:2) C'est-à-dire quarante-cinq ans avant d'avoir trente ans (voir chap. XXI, I-14).
 
-[^2]: (138:3) Il est nécessaire de traduire de cette manière, pour être en accord avec Dk. VII, ii, 3, mais le texte, qui est ambigu, est ainsi rédigé : 'amat Frênŏg (Frênŏ-î?) Zaratû<i>s</i>t am, zya<i>s</i>ân Dûk<i>d</i>akŏg ka<i>r</i>îtuntô, p. 139 zerkhûntô;', ce qui pourrait aussi se traduire ainsi : 'quand Frênŏ, la mère de Zaratû<i>s</i>t, qu'ils appelaient Dûk<i>d</i>ak, naquit.' Cette Frênŏ, qu'elle soit mère ou fille, ne semble correspondre à aucune Fr<i>e</i>ni mentionnée dans l'Avesta.
+[^2]: (138:3) Il est nécessaire de traduire de cette manière, pour être en accord avec Dk. VII, ii, 3, mais le texte, qui est ambigu, est ainsi rédigé : « amat Frênŏg (Frênŏ-î?) Zaratû<i>s</i>t am, zya<i>s</i>ân Dûk<i>d</i>akŏg ka<i>r</i>îtuntô, p. 139 zerkhûntô; », ce qui pourrait aussi se traduire ainsi : 'quand Frênŏ, la mère de Zaratû<i>s</i>t, qu'ils appelaient Dûk<i>d</i>ak, naquit.' Cette Frênŏ, qu'elle soit mère ou fille, ne semble correspondre à aucune Fr<i>e</i>ni mentionnée dans l'Avesta.
 
 [^3]: (139 : 1) Voir Nsp. VII, II, 2, 3.
 

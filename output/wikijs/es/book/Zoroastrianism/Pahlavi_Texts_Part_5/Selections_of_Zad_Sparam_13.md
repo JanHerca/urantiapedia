@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO XIII.
 
-1\. Sobre la gloria de Zaratû<i>s</i>t manifestada incluso antes de su nacimiento, se declara así: cuarenta y cinco años antes de que Zaratû<i>s</i>t saliera a su conferencia [^1], cuando Frênŏ dio a luz a la madre de Zaratû<i>s</i>t [^2], a quien llamaban Dûk<i>d</i>ak, descendió de la luz infinita, a la manera del fuego, y se mezcló con el fuego que estaba delante de ella; y del fuego se mezcló con la madre de Zaratû<i>s</i>t [^3].
+1\. Sobre la gloria de Zaratû<i>s</i>t manifestada incluso antes de su nacimiento, se declara así: cuarenta y cinco años antes de que Zaratû<i>s</i>t saliera a su conferencia [^1], cuando Frênŏ dio a luz a la madre de Zaratû<i>s</i>t [^2], a quien llamaban Dûk<i>d</i>ak, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> descendió de la luz infinita, a la manera del fuego, y se mezcló con el fuego que estaba delante de ella; y del fuego se mezcló con la madre de Zaratû<i>s</i>t [^3].
 
 2\. Durante tres noches, fue evidente para todos los transeúntes, como una especie de fuego en dirección a la casa, y quienes pasaban por el camino siempre veían un gran resplandor. 3. También cuando cumplió quince años, el resplandor de esa gloria que había en ella era tal que, en el sendero por el que caminaba, su brillo se derramaba sobre ella [^4].
 
@@ -70,7 +70,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^1]: (138:2) Es decir, cuarenta y cinco años antes de cumplir treinta años (véase Cap. XXI, I-14).
 
-[^2]: (138:3) Es necesario traducir de esta manera, para estar de acuerdo con Dk. VII, ii, 3, pero el texto, que es ambiguo, dice lo siguiente: 'amat Frênŏg (Frênŏ-î?) Zaratû<i>s</i>t am, zya<i>s</i>ân Dûk<i>d</i>akŏg ka<i>r</i>îtuntô, p. 139 zerkhûntô;' que también podría traducirse así: 'cuando nació Frênŏ, la madre de Zaratû<i>s</i>t, a quien llamaban Dûk<i>d</i>ak'. Esta Frênŏ, ya sea madre o hija, no parece corresponderse con ninguna Fr<i>e</i>ni mencionada en el Avesta.
+[^2]: (138:3) Es necesario traducir de esta manera, para estar de acuerdo con Dk. VII, ii, 3, pero el texto, que es ambiguo, dice lo siguiente: «amat Frênŏg (Frênŏ-î?) Zaratû<i>s</i>t am, zya<i>s</i>ân Dûk<i>d</i>akŏg ka<i>r</i>îtuntô, p. 139 zerkhûntô;» que también podría traducirse así: «cuando nació Frênŏ, la madre de Zaratû<i>s</i>t, a quien llamaban Dûk<i>d</i>ak». Esta Frênŏ, ya sea madre o hija, no parece corresponderse con ninguna Fr<i>e</i>ni mencionada en el Avesta.
 
 [^3]: (139:1) Ver Dk. VII, ii, 2, 3.
 

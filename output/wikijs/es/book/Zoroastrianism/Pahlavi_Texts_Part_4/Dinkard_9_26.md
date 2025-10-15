@@ -68,4 +68,4 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^1]: (232:2) Véase Cap. III, 1 n.
 
-[^2]: (233:1) K omite 'de oraciones'.
+[^2]: (233:1) K omite «de oraciones».

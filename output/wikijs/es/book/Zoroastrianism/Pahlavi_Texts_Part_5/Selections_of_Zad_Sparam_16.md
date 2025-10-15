@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 4\. Al mismo tiempo, Pôrûshaspô tomó a Zaratû<i>s</i>t y se lo entregó al Karap para que hiciera con él a su antojo. 5. Lo agarró y lo arrojó a los pies de los bueyes que iban por un sendero hacia el agua; el líder de la manada se detuvo cerca de él, y 150 bueyes que caminaban detrás se mantuvieron alejados de él; y Pôrûshaspô lo tomó y lo llevó de vuelta a la casa [^5].
 
-6\. También el segundo día, el Karap lo arrojó a los pies de los caballos; y el líder de los caballos se detuvo cerca de Zaratû<i>s</i>t, y 150 caballos, que marchaban detrás, se mantuvieron alejados de él; y Pôrûshaspô lo tomó y lo llevó de vuelta a la casa [^6].
+6\. También el segundo día, el Karap lo arrojó a los pies <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> de los caballos; y el líder de los caballos se detuvo cerca de Zaratû<i>s</i>t, y 150 caballos, que marchaban detrás, se mantuvieron alejados de él; y Pôrûshaspô lo tomó y lo llevó de vuelta a la casa [^6].
 
 7\. También al tercer día, el Karap junta leña y deposita sobre ella a Zaratû<i>s</i>t, aviva el fuego, pero con el mismo resultado (ham-bûn-i<i>k</i>), el niño no se quema, y ​​las marcas que existían y que se le hicieron fueron una protección contra él [^7].
 

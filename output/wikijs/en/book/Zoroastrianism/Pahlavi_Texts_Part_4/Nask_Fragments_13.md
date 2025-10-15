@@ -44,7 +44,7 @@ No allusion to the following two passages, quoted from the Spend, has been notic
 
 In Sls. XII, 3, it is said that ‘in the Spend _it_ is revealed that a fire, when they shall make it quite clean from its chilled charcoal, _has_ as much comfort as a man whose clothing they shall make clean.’
 
-In Sls. XII, 15, it is said that 'in the Spend and Nihâ<i>d</i>ûm the high-priests _have_ taught that the duty and good works which a son performs become as much the father's as though they had been done by his own hand.'
+In Sls. XII, 15, it is said that ‘in the Spend and Nihâ<i>d</i>ûm the high-priests _have_ taught that the duty and good works which a son performs become as much the father's as though they had been done by his own hand.’
 
 <figure class="table chapter-navigator">
   <table>

@@ -40,7 +40,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 4\. De la chefferie inébranlable et coopérative de ces ancêtres qui partirent en commandement amical de troupes, et de l'enclave complète de cette tribu sous le contrôle militaire de Bûkht-Narsîh [^6]. 5. De la suppression des habitudes vicieuses et des mauvaises actions, qui sont entièrement liées, et de l'odieux culte des démons et des méfaits qui leur sont dus, par le souverain Kaî-Loharâsp [^7]t envoyé, avec Bûkht-Narsîh, du pays d'Irân à Bêtâ-Makdis [^8] d'Arûm, et de leur séjour dans cette région. 6. Et la croyance orthodoxe dans les détails grossiers de la coutume religieuse dans la délibération mutuelle de ceux de la tribu, la connaissance de la religion d'un rustre (durû<i>s</i>takŏ-1), les arrangements difficiles, et le chercheur dubitatif de la religion après les nombreuses questions et réponses controversées, délibératives et d'investigation de cause adaptées aux importunités de ce disciple bavard [^9].
 
-7\. Comment l'acceptation de cette religion _par_ les prophètes avant Zaratûst _s'est produite_ [^10], comment le pur _et_ saint Zaratûst des Spîtâmas est venu [^11], et qui _viendra_ par la suite comme porteurs de la même pure et bonne religion _ci-après [^12]. 8. C'est-à-dire, parmi les prophètes, les apôtres et ceux qui acceptaient la religion, il y en avait qui l'acceptaient de manière concise et complète, comme Gâyômar<i>d</i>, de qui provenaient irrégulièrement (durû<i>s</i>takŏ) _tels_ que Masyê et Sîyâmak, Hâôshâng, Tâkhmôrup, Yim, Frê<i>d</i>ûn, Mânû<i>s</i><i>k</i>îhar, le Sâmân, le Kayân, et aussi beaucoup d'autres chefs de _ces_ époques [^13]. 9. Et leur acceptation expresse à divers moments est produite pour l'action, et ainsi l'adversité des créatures est écartée, bénéfice <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> et la prospérité sont recherchées, le monde est contrôlé et le créateur et les bonnes créations sont apaisés.
+7\. Comment l'acceptation de cette religion _par_ les prophètes avant Zaratûst _s'est produite_ [^10], comment le pur _et_ saint Zaratûst des Spîtâmas est venu [^11], et qui _viendra_ par la suite comme porteurs de la même pure et bonne religion ci-après [^12]. 8. C'est-à-dire, parmi les prophètes, les apôtres et ceux qui acceptaient la religion, il y en avait qui l'acceptaient de manière concise et complète, comme Gâyômar<i>d</i>, de qui provenaient irrégulièrement (durû<i>s</i>takŏ) _tels_ que Masyê et Sîyâmak, Hâôshâng, Tâkhmôrup, Yim, Frê<i>d</i>ûn, Mânû<i>s</i><i>k</i>îhar, le Sâmân, le Kayân, et aussi beaucoup d'autres chefs de _ces_ époques [^13]. 9. Et leur acceptation expresse à divers moments est produite pour l'action, et ainsi l'adversité des créatures est écartée, bénéfice <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> et la prospérité sont recherchées, le monde est contrôlé et le créateur et les bonnes créations sont apaisés.
 
 <figure class="table chapter-navigator">
   <table>
@@ -76,7 +76,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^4]: (120:2) Ou « y compris (van dig). »
 
-[^5]: (120:3) Pahl. 'mûn<i>s</i>ânŏ ham-shkûp-vindîg fr<i>â</i><i>z</i> aûbas yehamtûni<i>s</i>nîg.' D'où il semble qu'il y ait eu un échange mutuel d'informations entre lui et ses amis juifs.
+[^5]: (120:3) Pahl. « mûn<i>s</i>ânŏ ham-shkûp-vindîg fr<i>â</i><i>z</i> aûbas yehamtûni<i>s</i>nîg. » D'où il semble qu'il y ait eu un échange mutuel d'informations entre lui et ses amis juifs.
 
 [^6]: (120:4) La forme pahlavi de Bu'<i>h</i>ti-naʓar, ou Nebucadnetsar.
 

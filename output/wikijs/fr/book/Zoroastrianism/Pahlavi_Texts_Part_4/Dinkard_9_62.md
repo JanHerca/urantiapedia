@@ -40,7 +40,7 @@ _Bakŏ Nask_.
 
 4\. Ceci aussi, que l'esprit de paternité devient un logement en celui qui nourrit les créatures avec dignité [^3]. 5. Ceci aussi, que le pâturage est donné [^4] au bétail est enseigné par celui qui doit prendre soin du bétail, car leur donner du pâturage avec soin est avantageux.
 
-6\. Ceci aussi, que tout pour son bien qui devient un bienfait pour celui qui est bon [^5] — _par_ ce qui lui est arrivé — est tout bienfait qui arrive à celui qui est bon ; tout _pour_ son bien tout bienfait est donné à tout _être_ bon par voie de similarité de race, d'espèce et de nature, et tout bienfait est donné de la manière de don complet qui lui est possible.
+6\. Ceci aussi, que tout pour son bien qui devient un bienfait pour celui qui est bon [^5] — _par_ ce qui <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> lui est arrivé — est tout bienfait qui arrive à celui qui est bon ; tout _pour_ son bien tout bienfait est donné à tout _être_ bon par voie de similarité de race, d'espèce et de nature, et tout bienfait est donné de la manière de don complet qui lui est possible.
 
 7\. Ceci aussi, que quiconque inflige justement la sentence et le jugement, réellement selon la déclaration concernant _un_ acquitté _ou_ condamné [^6], devient digne de louanges ; même pour cette raison, parce que l'origine du jugement est le rituel de l'ordalie. 8. Et ceci aussi, que par celui qui donne à celui qui est sage ce qui lui est nécessaire, une immense [^7] _et_ solide base pour l'apprentissage est produite, _et_ la connaissance dans le monde est augmentée.
 

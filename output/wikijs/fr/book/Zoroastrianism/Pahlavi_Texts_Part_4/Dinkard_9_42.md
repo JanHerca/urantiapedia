@@ -96,4 +96,4 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^12]: (291:2) Ibid. 11 a, b.
 
-[^13]: (291:3) Ibid. 12 b, d. Dans Pt4, Mf4, § b est le suivant : 'Mûn Zaratû<i>s</i><i>t</i>ŏ <i>k</i>îgûn lak Vohûman;' étant correctement limité selon le texte de l'Avesta.
+[^13]: (291:3) Ibid. 12 b, d. Dans Pt4, Mf4, § b est le suivant : « Mûn Zaratû<i>s</i><i>t</i>ŏ <i>k</i>îgûn lak Vohûman; » étant correctement limité selon le texte de l'Avesta.

@@ -34,9 +34,9 @@ dateCreated: 2025-10-10T14:41:50Z
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO XIX.
 
-1\. Sobre su conversación intrusiva (andarg-gôbi<i>s</i>nŏîh) con los inicuos, también se declara que un día, Dûrêsrôbô [^1] el Karap, por así decirlo, de entre los mismos cinco hermanos, salió a la casa de Pôrûshaspô; y Pôrûshaspô colocó un cuenco (<i>g</i>amakŏ) de leche de yegua delante de él y le dijo: «Conságralo».
+1\. Sobre su conversación intrusiva (andarg-gôbi<i>s</i>nŏîh) con los inicuos, también se declara que <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> un día, Dûrêsrôbô [^1] el Karap, por así decirlo, de entre los mismos cinco hermanos, salió a la casa de Pôrûshaspô; y Pôrûshaspô colocó un cuenco (<i>g</i>amakŏ) de leche de yegua delante de él y le dijo: «Conságralo».
 
-2\. Zaratû<i>s</i>t protestó con Pôrûshaspô así: 'Yo _lo_ consagraré'. 3. Pôrûshaspô habló así: 'Él debe consagrar, y la gracia debe ser ofrecida por ti [^2];' _y_ hasta tres veces _ellos_ discutieron mutuamente.
+2\. Zaratû<i>s</i>t protestó con Pôrûshaspô así: «Yo _lo_ consagraré». 3. Pôrûshaspô habló así: «Él debe consagrar, y la gracia debe ser ofrecida por ti [^2];» _y_ hasta tres veces _ellos_ discutieron mutuamente.
 
 4\. Entonces se levantó Zaratû<i>s</i>t, y con su pie derecho golpeó el cuenco y lo vació, y dijo así: «Reverencio la justicia, reverencio a los justos y a los pobres, hombres y mujeres; tú, ¡oh Pôrûshaspô!, prepara una porción para quien tiene mérito».
 
@@ -72,8 +72,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^1]: (150:1) Así se escribe en Zs., pero Dûrâsrôbô en Dk.; también el primero siempre tiene Pôrûshaspô, pero el segundo Pôrûshâspô. Compárese la misma leyenda en Dk. VII, iii, 34-45.
 
-[^2]: (150:2) Pahl. 'val<i>â</i> aê y<i>a</i><i>z</i>ê<i>d</i>ŏ, <i>a</i>fê<i>d</i> vâ<i>g</i> dahi<i>s</i>nŏ.'
+[^2]: (150:2) Pahl. «val<i>â</i> aê y<i>a</i><i>z</i>ê<i>d</i>ŏ, <i>a</i>fê<i>d</i> vâ<i>g</i> dahi<i>s</i>nŏ.»
 
-[^3]: (150:3) O 'interiormente'
+[^3]: (150:3) O «interiormente»
 
 [^4]: (151:1) Probablemente significa que murió sin hijos.

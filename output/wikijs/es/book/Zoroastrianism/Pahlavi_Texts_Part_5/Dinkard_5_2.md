@@ -42,11 +42,11 @@ dateCreated: 2025-10-10T14:41:50Z
 
 7\. También el triunfo de los seres sagrados al final, y la peculiaridad del control conjunto de los demonios; cómo, antes de eso, se precipitaron abiertamente al mundo y se han desvanecido, sus formas corporales están destrozadas [^10], y se han sumido en una decadencia secreta, de tal manera que sus suplicantes, engañados y engañadores, se convirtieron en terribles contendientes al confesarlo.
 
-8\. Y cuando, tras aceptar por completo la religión de Aûha<i>r</i>ma<i>z</i><i>d</i>, acudió al obediente rey Kaî-Vi<i>s</i>tâsp para atraer a los del mundo, exhibió acciones gloriosas de diversos tipos y aplastó demonios y demonios; y expresó abiertamente los pensamientos del rey Vi<i>s</i>tâsp y de muchos de la multitud sobre asuntos ocultos [^11], así: «Una persona posee vida solo por destino, y sin su cuerpo, pero con un destino similar, la persona que posee vida se restaura». 9. Y esta fue la expresión de aquellas doce estrellas cuyos nombres son los de las doce constelaciones zodiacales, y los primitivos eruditos de Bâpêl [13], que han venido a estos, que están haciendo preguntas a los gobernantes principales de Khvanîras, tienen que justificarlo, en la controversia, con las costumbres espirituales y materiales y las observancias rudas que se manifiestan diversamente, en adelante desde el tiempo de Yim el espléndido; y la evidencia de ello, discernible con él, fue la de Vohûmanô, Ashavahi<i>s</i>tô, el fuego y algunos otros buenos espíritus [14].
+8\. Y cuando, tras aceptar por completo la religión de Aûha<i>r</i>ma<i>z</i><i>d</i>, acudió al obediente rey Kaî-Vi<i>s</i>tâsp para atraer a los del mundo, exhibió acciones gloriosas de diversos tipos y aplastó <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> demonios y demonios; y expresó abiertamente los pensamientos del rey Vi<i>s</i>tâsp y de muchos de la multitud sobre asuntos ocultos [^11], así: «Una persona posee vida solo por destino, y sin su cuerpo, pero con un destino similar, la persona que posee vida se restaura». 9. Y esta fue la expresión de aquellas doce estrellas cuyos nombres son los de las doce constelaciones zodiacales, y los primitivos eruditos de Bâpêl [13], que han venido a estos, que están haciendo preguntas a los gobernantes principales de Khvanîras, tienen que justificarlo, en la controversia, con las costumbres espirituales y materiales y las observancias rudas que se manifiestan diversamente, en adelante desde el tiempo de Yim el espléndido; y la evidencia de ello, discernible con él, fue la de Vohûmanô, Ashavahi<i>s</i>tô, el fuego y algunos otros buenos espíritus [14].
 
 10\. Posteriormente, también, la valoración y ponderación de toda la expresión de la religión de Aûha<i>r</i>ma<i>z</i><i>d</i> _fueron_ presentadas por él a Vi<i>s</i>tâsp y a los del mundo, como una auténtica maravilla; y además, él permaneció _por así decirlo_ más conflictivo con sus compañeros de disputa que sus propias palabras oponiéndose a ellos.
 
-11\. También cuando, por efecto de la gloria y la lucha por la salvación, toda clase de apóstoles y profetas, y la manifestación de señales y similares, con evidencia cierta y contundente, arrojaban bendiciones, entonces surgió el temor del obediente rey Kaî-Vistâsp al adversario de la religión, y también otras causas, por las cuales él aceptaba entonces la propagación de la religión [^15], cuando vio su gran gloria y belleza [^16]. 12. Al principio, Zarîr [^17], Spend-dâ<i>d</i> [^18], Frashô<i>s</i>tar y <i>G</i>âmâsp [^19], varios del reino _que eran_ nobles, conspicuos y de buena conducta, los buenos _y_ príncipes _de_ la humanidad, contemplaron visiblemente la voluntad y la deseabilidad de Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles, y la religión progresiva de las criaturas, apta para aquellos completamente victoriosos (hû<i>k</i>îragânîg).
+11\. También cuando, por efecto de la gloria y la lucha por la salvación, toda clase de apóstoles y profetas, y la manifestación de señales y similares, con evidencia cierta y contundente, arrojaban bendiciones, entonces surgió el temor del obediente <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> rey Kaî-Vistâsp al adversario de la religión, y también otras causas, por las cuales él aceptaba entonces la propagación de la religión [^15], cuando vio su gran gloria y belleza [^16]. 12. Al principio, Zarîr [^17], Spend-dâ<i>d</i> [^18], Frashô<i>s</i>tar y <i>G</i>âmâsp [^19], varios del reino _que eran_ nobles, conspicuos y de buena conducta, los buenos _y_ príncipes _de_ la humanidad, contemplaron visiblemente la voluntad y la deseabilidad de Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles, y la religión progresiva de las criaturas, apta para aquellos completamente victoriosos (hû<i>k</i>îragânîg).
 
 13\. Por último, se observa y vigila la captura (gîrini<i>s</i>nŏ) por parte de los demonios; y estos se han mantenido opuestos, debido a la cantidad de idólatras que compiten en disputa. 14. Y se produjeron muchos conflictos y matanzas, que surgieron puramente, de modo que la mezcla de la religión en el mundo procedió [^20].
 
@@ -100,7 +100,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^11]: (124:1) Dk. VII, iv, 65, 71.
 
-[^12]: (124:2) B tiene 'y separatistas demoníacos (va-shêdâ-gvî<i>d</i>akân).'
+[^12]: (124:2) B tiene «y separatistas demoníacos (va-shêdâ-gvî<i>d</i>akân).»
 
 [^13]: (124:3) Dk. VII, iv, 72.
 
@@ -108,7 +108,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^15]: (125:1) Dk. VII, iv, 87.
 
-[^16]: (125:2) K43 tiene var<i>â</i><i>z</i>ŏ; pero B, omitiendo la primera letra, tiene l<i>â</i>fô, 'alabanza'.
+[^16]: (125:2) K43 tiene var<i>â</i><i>z</i>ŏ; pero B, omitiendo la primera letra, tiene l<i>â</i>fô, «alabanza».
 
 [^17]: (125:3) Un hermano y comandante en jefe de Vi<i>s</i>tâsp, muerto en la batalla con Ar<i>g</i>âsp, véase Bd. XXXI, 29; YZ. 54-56.
 

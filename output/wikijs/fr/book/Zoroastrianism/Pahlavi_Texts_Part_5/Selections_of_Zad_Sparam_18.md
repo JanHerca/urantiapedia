@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 1\. À propos de son manque de participation (gvî<i>d</i> akhvê<i>s</i>îh) auprès de ses parents, il est également déclaré que les démons, lors d'une assemblée de sorciers, ont poussé un cri de guerre pour une conférence (ham-vâ<i>k</i>ô lâyi<i>s</i>nŏ) ainsi : « Ce fils de Pôrûshaspô est insensé et stupide et secrètement corrompu ; personne, homme ou femme, ne le considérera ni ne l'acceptera comme exalté. »
 
-2\. La nouvelle parvint à Pôrûshaspô, et Pôrûshaspô parla ainsi à Zaratûst : « Je pensais avoir engendré un fils qui deviendrait prêtre, guerrier et cultivateur, et maintenant tu serais insensé et secrètement corrompu ; tu devrais te rendre chez les Karaps, afin qu'ils te guérissent. »
+2\. La nouvelle parvint à Pôrûshaspô, et Pôrûshaspô parla ainsi à Zaratûst : « Je pensais avoir engendré un fils qui <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> deviendrait prêtre, guerrier et cultivateur, et maintenant tu serais insensé et secrètement corrompu ; tu devrais te rendre chez les Karaps, afin qu'ils te guérissent. »
 
 3\. Zaratûst répondit ainsi : « Je suis celui qui est ton fils, prêtre, guerrier et cultivateur. » 4. Et, sur l'ordre de Pôrûshaspô, il attela deux chevaux à un char (var<i>d</i>înŏ), et il partit avec Pôrûshaspô.
 
@@ -72,4 +72,4 @@ dateCreated: 2025-10-10T14:57:1Z
 
 ## Notes de bas de page
 
-[^1]: (149:1) T a 'il salua (nîyâî<i>d</i>).' Cette légende n'a pas encore été trouvée ailleurs.
+[^1]: (149:1) T a « il salua (nîyâî<i>d</i>). » Cette légende n'a pas encore été trouvée ailleurs.

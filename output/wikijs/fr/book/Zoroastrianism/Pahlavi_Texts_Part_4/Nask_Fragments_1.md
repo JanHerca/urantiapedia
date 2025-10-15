@@ -44,7 +44,7 @@ Dk. IX, Chap. II, 3-15, se référant à l'effet utile de la récitation du Yath
 
 Dk. IX, Chap. VI, 2, se réfère au passage ainsi mentionné dans Sls. IX, 2, 3 : « Le prêtre qui décède dans un district extérieur (aûzdehîkîh), tu l'as considéré comme désolé (vîrân) ; et il y a un grand prêtre qui est d'un avis différent, il y en a un qui dit que c'est comme un pays non iranien (anâîrân). Il est déclaré que, lorsqu'un grand prêtre suprême (zaratû<i>s</i>trotûm) décède dans un district extérieur, un apostat naîtra dans cette demeure, et cette calamité n'est mentionnée (aêvâ<i>k</i>) que pour le grand prêtre suprême [^4]. »
 
-Dk. IX, Chap. VIII, 1-6, fait référence à la vision prophétique de Zaratûst des périodes d'or, d'argent, d'acier et de fer mêlé de son millénaire, citée en détail dans Byt. I, 1-5, avec des variations indiquant que la date du Bahman Ya<i>s</i>t est postérieure à celle de ce Nask.
+Dk. IX, Chap. VIII, 1-6, fait référence à la vision <span id="p452"><sup><small>[ p. 452 ]</small></sup></span> prophétique de Zaratûst des périodes d'or, d'argent, d'acier et de fer mêlé de son millénaire, citée en détail dans Byt. I, 1-5, avec des variations indiquant que la date du Bahman Ya<i>s</i>t est postérieure à celle de ce Nask.
 
 Dk. IX, Chap. X, 3, fait référence au récit détaillé des sept malfaiteurs les plus odieux, cité dans Dd. LX XII, 3-9,
 

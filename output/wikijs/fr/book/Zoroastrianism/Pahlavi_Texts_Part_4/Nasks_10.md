@@ -76,7 +76,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 20\. Le nom du dix-neuvième Nask est Askâram, et il est de cinquante-deux fargard<i>d</i>s \[_&c., très presque le même que dans II_, 19\].
 
-21\. Le nom du vingtième Nask est Vîndâd, et il comporte vingt-deux subdivisions [et c., à peu près les mêmes qu'en II_, 20\]. Quant à ce livre Vîndâd, qui est le vingtième livre des Nasks, sur les vingt et un Nasks de l'Avesta, nous et vous l'utilisons maintenant dans le cérémonial, et lorsque, après la calamité d'Alexandre, ils recherchèrent les livres, ils trouvèrent une partie de chaque Nask, mais ne trouvèrent aucun Nask complet, à l'exception du Vîndâd, qu'ils trouvèrent complet.
+21\. Le nom du vingtième Nask est Vîndâd, et il comporte vingt-deux subdivisions [et c., à peu près les mêmes qu'en II_, 20\]. Quant à ce livre Vîndâd, qui est le vingtième livre des Nasks, sur les vingt et un Nasks de l'Avesta, nous et vous l'utilisons maintenant dans le cérémonial, et lorsque, <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> après la calamité d'Alexandre, ils recherchèrent les livres, ils trouvèrent une partie de chaque Nask, mais ne trouvèrent aucun Nask complet, à l'exception du Vîndâd, qu'ils trouvèrent complet.
 
 22\. Le nom du vingt et unième Nask est Hâdokht, et il est composé de trente subdivisions, concernant la manière de rassembler et les nombreux miracles, et leurs excellences et connexions ; et dans ce livre, le diable maudit est maudit et anéanti.
 

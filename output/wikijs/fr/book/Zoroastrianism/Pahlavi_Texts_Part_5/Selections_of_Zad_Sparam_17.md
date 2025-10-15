@@ -70,6 +70,6 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^1]: (147:2) Comparez Dk. VII, iii, 2 7-30.
 
-[^2]: (147:3) En supposant que le MS. Ladd, 'gloire ou destinée', ait perdu un n initial, avec lequel il était à l'origine nism<i>â</i> = Chald. נִשְׁמָא 'l'âme' ; comme les copistes n'ont pas eu connaissance de l'existence de cet équivalent zvâri<i>s</i> pour rûbân, 'l'âme', depuis quelques siècles, il a été transformé en gad<i>â</i>, par l'omission de sa première lettre, dans presque tous les MSS existants, sauf les plus anciens, tels que Kao et M6 dans Bd. XV, 3-5, et même là, le m médian est réellement manquant, bien qu'il existe apparemment dans le <i>â</i> final ; l'irrégularité de l'utilisation de s pour sh est courante en pahlavi.
+[^2]: (147:3) En supposant que le MS. Ladd, « gloire ou destinée », ait perdu un n initial, avec lequel il était à l'origine nism<i>â</i> = Chald. נִשְׁמָא « l'âme » ; comme les copistes n'ont pas eu connaissance de l'existence de cet équivalent zvâri<i>s</i> pour rûbân, « l'âme », depuis quelques siècles, il a été transformé en gad<i>â</i>, par l'omission de sa première lettre, dans presque tous les MSS existants, sauf les plus anciens, tels que Kao et M6 dans Bd. XV, 3-5, et même là, le m médian est réellement manquant, bien qu'il existe apparemment dans le <i>â</i> final ; l'irrégularité de l'utilisation de s pour sh est courante en pahlavi.
 
 [^3]: (148:1) Le ciel ordinaire, voir Dd. XX, 3.

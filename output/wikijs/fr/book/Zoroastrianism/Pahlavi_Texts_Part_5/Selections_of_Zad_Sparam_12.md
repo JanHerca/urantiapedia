@@ -116,7 +116,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^9]: (135:2) Selon Bd. XXXIV, 7, Kaî-Ûs régna de 360 ​​à 210 ans avant « l'avènement de la religion ». À ce stade, une dislocation du texte se produit dans tous les MSS existants, en raison du déplacement d'un folio détaché dans une copie inconnue écrite avant 1530 ; le contenu de ce folio, §§ 8-16, se trouve dans les MSS existants trois folios plus loin (après le chap. XIV, 14), et est ici rétabli à sa position originale, telle que déterminée par le sens du texte.
 
-[^10]: (135:3) T a 'par ce bœuf'. Cette légende est également racontée dans Dk. VII. ii. 62-66.
+[^10]: (135:3) T a « par ce bœuf ». Cette légende est également racontée dans Dk. VII. ii. 62-66.
 
 [^11]: (136:1) Srîtô, le septième fils (comparer Dk. VII, ii, 64), n'est pas facile à identifier. Il ne pouvait s'agir de Thrita, le père de Keresâspa, car ce Thrita le Sâmân est censé avoir été un troisième fils dans Pahl. Yas. IX, 30 (Esp.). Il pourrait s'agir de Srîtô des Vîsraps, dont l'âme visita Vi<i>s</i>tâsp dans la dernière partie de son règne, environ 350 ans plus tard, à propos duquel une légende est relatée dans Dk. VII, vi, 2-11, et mentionnée à nouveau dans Dk. V, iii, 2 ; mais les détails correspondants pour l'identification manquent.
 

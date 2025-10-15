@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 _Bakŏ Nask_.
 
-1\. El decimonoveno fargar<i>d</i>, Ka<i>d</i>\-môi-urvâ [^1], es que la naturaleza ovejuna (pâhîh) [^2] se le enseña a quien <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> es oveja (gôs<i>p</i>end), precisamente por esta razón, porque la oveja sigue estando entre ovejas (pâh-i<i>k</i> dên). 2. Esto también: que quien alimenta a las ovejas alimenta (srayinî<i>d</i>ŏ) [^3] a través de ellas; precisamente por esta razón, porque la nutrición de la humanidad proviene de las ovejas, y la de las ovejas, del pasto. 3. Esto también, que la oveja del presente estado _mundano_ se le explica a aquel que es una oveja (pâh) para Zaratû<i>s</i>t, es decir, tiene a Zaratû<i>s</i>t como sumo sacerdote; incluso por esta razón, porque todavía una oveja (pâh-i<i>k</i>) es una oveja.
+1\. El decimonoveno fargar<i>d</i>, Ka<i>d</i>\-môi-urvâ [^1], es que la naturaleza ovejuna (pâhîh) [^2] se le enseña a _quien_ <span id="p377"><sup><small>[ p. 377 ]</small></sup></span> _es_ oveja (gôs<i>p</i>end), precisamente por esta razón, porque la oveja sigue estando entre ovejas (pâh-i<i>k</i> dên). 2. Esto también: que quien alimenta a las ovejas alimenta (srayinî<i>d</i>ŏ) [^3] a través de ellas; precisamente por esta razón, porque la nutrición de la humanidad proviene de las ovejas, y la de las ovejas, del pasto. 3. Esto también, que la oveja del presente estado _mundano_ se le explica a aquel que es una oveja (pâh) para Zaratû<i>s</i>t, es decir, tiene a Zaratû<i>s</i>t como sumo sacerdote; incluso por esta razón, porque todavía una oveja (pâh-i<i>k</i>) es una oveja.
 
 4\. Esto también, que la fuerza en la virtud se incrementa _y_ enseña por quien produce alegría [^4] mediante la búsqueda del desarrollo gradual, de modo que haga aquello que le da alegría, es decir, haga aquello que se convierte en su alegría duradera; incluso por esta razón, porque el aumento de la fuerza surge más particularmente del placer, el placer que _uno_ va alcanzando gradualmente (dêr-pa<i>d</i>âî). 5. Esto también, que por quien proporciona el ceremonial de los seres sagrados, la alegría [^4] debida a los seres sagrados se conecta entonces con la suya propia; incluso por esta razón, porque ocurre la llegada de los seres sagrados a ella.
 
@@ -76,7 +76,7 @@ _Bakŏ Nask_.
 
 [^1]: (376:4) Véase Cap. XX, 1 n; aquí está escrito ka<i>d</i>\-môk-ravŏ en Pahlavi.
 
-[^2]: (376:5) Véase Pahl. Yas. XLIX, 1 b. La distinción que se hace en el texto pahlavi, aquí y en el § 3, al usar el término escritural pâh y la palabra general gôspend para las ovejas, tal vez podría imitarse en español usando la palabra 'flock' para pâh, pero esto no expresaría el significado con exactitud.
+[^2]: (376:5) Véase Pahl. Yas. XLIX, 1 b. La distinción que se hace en el texto pahlavi, aquí y en el § 3, al usar el término escritural pâh y la palabra general gôspend para las ovejas, tal vez podría imitarse en español usando la palabra «flock» para pâh, pero esto no expresaría el significado con exactitud.
 
 [^3]: (377:1) Véase Pahl. Sí. XLIX, 1 b.
 

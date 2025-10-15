@@ -110,7 +110,7 @@ dateCreated: 2025-10-7T9:56:46Z
 
 ## Footnotes
 
-[^1]: (94:1) The contents of Chaps. VII-XI have some connection with the following summary in Dk. VIII, xiv, 11, 12:—'_And_ about the nature of the advancement of the people of the period, the separation _of_ centuries and millenniums, _and_ the signs, wonders, and perplexity which are manifested in the world at the end of each millennium in the world. Also as to the birth _and_ arrival of Aûshê<i>d</i>ar, son of Zaratû<i>s</i>t, at the end of the first millennium, and a report of him and his time, _and of_ the many destroyers of the organizers of the period between Zaratû<i>s</i>t's millennium and the coming of Aûshê<i>d</i>ar.'
+[^1]: (94:1) The contents of Chaps. VII-XI have some connection with the following summary in Dk. VIII, xiv, 11, 12:—‘_And_ about the nature of the advancement of the people of the period, the separation _of_ centuries and millenniums, _and_ the signs, wonders, and perplexity which are manifested in the world at the end of each millennium in the world. Also as to the birth _and_ arrival of Aûshê<i>d</i>ar, son of Zaratû<i>s</i>t, at the end of the first millennium, and a report of him and his time, _and of_ the many destroyers of the organizers of the period between Zaratû<i>s</i>t's millennium and the coming of Aûshê<i>d</i>ar.’
 
 [^2]: (94:2) This meaning for vi<i>g</i>ârdŏ-vars is chiefly based upon the use of vi<i>g</i>âr<i>d</i> in AV. XXXIV, 5, for a woman's hair being ‘combed.’ These invaders of Irân from the east, at the end of the first millennium of the religion, are mentioned in Byt. II, 22, 24, 28; III, 1, 6, 13. They are called ‘Turkish demons’ in § 47.
 

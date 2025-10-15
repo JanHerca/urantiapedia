@@ -31,11 +31,11 @@ dateCreated: 2025-10-10T14:41:43Z
 
 <span id="p501"><sup><small>[ pág. 501 ]</small></sup></span>
 
-P. [89](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_47#p89), ll. 9, 10, en lugar de 'la nacionalidad iránida (Aîrîh)' léase 'sujeción (hêrih)'
+P. [89](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_47#p89), ll. 9, 10, en lugar de «la nacionalidad iránida (Aîrîh)» léase «sujeción (hêrih)»
 
-P. [186](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_11#p186), ll. 19, 20, en lugar de 'preparación' léase 'salpicaduras'
+P. [186](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_11#p186), ll. 19, 20, en lugar de «preparación» léase «salpicaduras»
 
-En varios lugares sería mejor leer âmûkŏ, 'enseñanza', en lugar de hamô-kun, 'todo tipo (o modo)', para así obtener los siguientes pasajes enmendados:
+En varios lugares sería mejor leer âmûkŏ, «enseñanza», en lugar de hamô-kun, «todo tipo (o modo)», para así obtener los siguientes pasajes enmendados:
 
 P. [23](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p23), ll. 14-16. Luego, la exaltante enseñanza cantada de Aûha<i>r</i>ma<i>z</i><i>d</i> para Zaratû<i>s</i>t se llama, etc.
 
@@ -49,7 +49,7 @@ P. [119](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_1#p11
 
 El profesor Darmesteter ha sugerido la siguiente corrección:
 
-P. [26](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p26), ll. 22, 23, en lugar de 'basado_ en la ley tradicional temprana (vâsarî<i>d</i> pê<i>s</i>dâdŏ)' léase 'dependiente_ de Vâêgerê<i>d</i> el Pê<i>s</i>dâ<i>d</i>ian;' \[quien era el hermano gemelo de Hôshâng; véase la Cronología de las naciones antiguas de Albîrûnî de Sachau, pp. 206, 211\].
+P. [26](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p26), ll. 22, 23, en lugar de «basado_ en la ley tradicional temprana (vâsarî<i>d</i> pê<i>s</i>dâdŏ)» léase «dependiente_ de Vâêgerê<i>d</i> el Pê<i>s</i>dâ<i>d</i>ian;» \[quien era el hermano gemelo de Hôshâng; véase la Cronología de las naciones antiguas de Albîrûnî de Sachau, pp. 206, 211\].
 
 <figure class="table chapter-navigator">
   <table>

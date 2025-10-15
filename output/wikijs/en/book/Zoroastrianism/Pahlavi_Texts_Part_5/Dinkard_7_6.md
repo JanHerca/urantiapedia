@@ -90,7 +90,7 @@ dateCreated: 2025-10-7T9:56:46Z
 
 [^7]: (80:2) That is fifty-seven years after the conference of Zaratû<i>s</i>t (see Chap. V, 1).
 
-[^8]: (80:3) See the summary in Dk. VIII, xiv, 10:—'Likewise, about the communication of Zaratû<i>s</i>t's knowledge of the Ma<i>z</i><i>d</i>a-worshipping religion to the world, his attracting mankind to the religion, _and_ the ages, after Zaratû<i>s</i>t, until the renovation _of the universe_.'
+[^8]: (80:3) See the summary in Dk. VIII, xiv, 10:—‘Likewise, about the communication of Zaratû<i>s</i>t's knowledge of the Ma<i>z</i><i>d</i>a-worshipping religion to the world, his attracting mankind to the religion, _and_ the ages, after Zaratû<i>s</i>t, until the renovation _of the universe_.’
 
 [^9]: (80:4) Av. Ferashao<i>s</i>trô Hvôgvô (Yas. LI, 17); he was a brother p. 81of <i>G</i>âmâsp (Dk. V, ii, 12; iii, 4; Zs. XXIII, 10), and the father of Zaratû<i>s</i>t's wife Hvôvi. The Hvôvas (Pahl. Hvôbas) were a numerous family.
 

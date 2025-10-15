@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 ## FRAGMENTOS EXTENTES. VII. RA<i>D</i>Ö-DÂ<i>D</i>\-AÎTAG NASK [^1].
 
-Dk. VIII, Cap. VIII, 4, probablemente se refiere al pasaje que contiene la declaración mencionada en Sls. X, 29:—'En el Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtîh se dicen muchas cosas duras sobre el severo castigo de los _indigentes_ (avi<i>g</i>î<i>d</i>âr-daî<i>s</i>nânŏ) [^2] en la _existencia_ espiritual.'
+Dk. VIII, Cap. VIII, 4, probablemente se refiere al pasaje que contiene la declaración mencionada en Sls. X, 29:—«En el Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtîh se dicen muchas cosas duras sobre el severo castigo de los _indigentes_ (avi<i>g</i>î<i>d</i>âr-daî<i>s</i>nânŏ) [^2] en la _existencia_ espiritual.»
 
 <figure class="table chapter-navigator">
   <table>
@@ -64,4 +64,4 @@ Dk. VIII, Cap. VIII, 4, probablemente se refiere al pasaje que contiene la decla
 
 [^1]: (467:1) El relato muy breve de este Nask, en Dk. VIII, contiene 88 palabras Pahlavi, a partir de lo cual se puede estimar la extensión de su texto original (de la misma manera que en el caso de Nask IV) en alrededor de 10.500 palabras Avesta y 34.300 Pahlavi.
 
-[^2]: (467:2) De lo contrario, léase han<i>g</i>î<i>d</i>âr-dahî<i>s</i>nânŏ, 'productores de irritación', en SBE, vol. v, pág. 330.
+[^2]: (467:2) De lo contrario, léase han<i>g</i>î<i>d</i>âr-dahî<i>s</i>nânŏ, «productores de irritación», en SBE, vol. v, pág. 330.

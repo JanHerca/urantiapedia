@@ -38,11 +38,11 @@ dateCreated: 2025-10-10T14:56:56Z
 
 3\. De la Sélection d'Instructions Coutumières [^3] il y a ceci : — Numéro_ un est l'évolution originelle réelle [^4], ressemblant seulement à lui-même _et_ non conçue (<i>k</i>imîk). 4. Numéro_ deux, la duplication du premier parmi ceux apparentés (khvê<i>s</i>îgân) en raison de la conscience de la création — qui est la première — est Vohûman ; mais _c'est_ son origine, cachée au destructeur, qui est la raison de la création.
 
-. . . . . . . . .
+.     .     .     .     .     .     .     .     .
 
 10\. _Numéro_ trois est la créature originelle Ashavahi<i>s</i>t [^5] — due au développement parmi ceux apparentés, l'un à partir de l'autre — qui possède la troisième place parmi les archanges, pour la révérence du premier.
 
-. . . . . . . . .
+.     .     .     .     .     .     .     .     .
 
 12\. _Numéro_ quatre, la souveraineté parfaite parmi <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> ceux qui lui sont apparentés, est appelée Shatraver [^6], la nécessité de la nature emmagasinée (a<i>v</i>ar-gû<i>d</i>ŏ) d'un seigneur spirituel né de la révérence de l'acteur parfaitement juste Ashavahi<i>s</i>t, qui est le troisième en naissant de celui qui est le second, Vohûman, qui est la première créature. . . . . 19. De même, la souveraineté de la religion est toujours une souveraineté particulièrement bonne _et_ triomphante, et la vraie religion est confiante ; la volonté des êtres sacrés dans le monde est le progrès, et la compréhension de toute connaissance est dans la religion adoratrice de Ma<i>z</i><i>d</i>a ; 20. Ils s'efforcent de maintenir avec puissance la bonne monarchie religieuse des dirigeants, fidèles à la religion en pratiquant le culte de Ma<i>z</i><i>da</i> ; la loi des dirigeants est la coutume, et leur coutume est religieuse.
 

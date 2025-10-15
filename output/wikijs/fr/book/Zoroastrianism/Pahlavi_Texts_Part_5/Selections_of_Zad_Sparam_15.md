@@ -64,13 +64,13 @@ dateCreated: 2025-10-10T14:57:1Z
 
 ## Notes de bas de page
 
-[^1]: (143:3) Av. 'Karapâ Usikhsh-<i>k</i>â' de Yas. XLIV, 20 c; les Kavâ, une troisième classe de prêtres pré-zoroastriens, sont également mentionnés ibid. 20 d. Comparer Dk. VII, ii, 9 n.
+[^1]: (143:3) Av. « Karapâ Usikhsh-<i>k</i>â » de Yas. XLIV, 20 c; les Kavâ, une troisième classe de prêtres pré-zoroastriens, sont également mentionnés ibid. 20 d. Comparer Dk. VII, ii, 9 n.
 
-[^2]: (143:4) Av. Ka<i>h</i><i>v</i>aredha, Yas. LX, 6, 7 (Esp.) où il est traduit par kâstâr, 'diminuateur, dévastateur', dont il est ici dit qu'il est le père ; voir aussi Yt. III, 9, 12, 16.
+[^2]: (143:4) Av. Ka<i>h</i><i>v</i>aredha, Yas. LX, 6, 7 (Esp.) où il est traduit par kâstâr, « diminuateur, dévastateur », dont il est ici dit qu'il est le père ; voir aussi Yt. III, 9, 12, 16.
 
 [^3]: (143:5) Comparez la légende de la descente du singe et de l'ours d'un démon et de Yimak, sœur de Yim, dans Bd. XXIII, 1.
 
-[^4]: (143:6) Comme ces noms n'apparaissent pas dans l'Avesta, leur prononciation p. 144 doit être devinée afin de donner une signification probable à l'orthographe pahlavi. L'écriture du nom de famille est compliquée ; il est écrit ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_5/001.jpg) et ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_5/001.jpg) dans les deux manuscrits faisant autorité, formes qui peuvent être lues le plus évidemment Vasam et Saman, mais Saman peut aussi être lu comme le Zvâri<i>s</i> yad<i>â</i> = dast, 'une main' ; ceci conduit à la conclusion que le nom original sous-tend la forme Vadast, et cela est confirmé par le nom du Karap Vaêdvôi<i>s</i>t écrit en entier en danois. VII, IV, 21-24. Voir ibid. ii, 9 n.
+[^4]: (143:6) Comme ces noms n'apparaissent pas dans l'Avesta, leur prononciation p. 144 doit être devinée afin de donner une signification probable à l'orthographe pahlavi. L'écriture du nom de famille est compliquée ; il est écrit ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_5/001.jpg) et ![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_5/001.jpg) dans les deux manuscrits faisant autorité, formes qui peuvent être lues le plus évidemment Vasam et Saman, mais Saman peut aussi être lu comme le Zvâri<i>s</i> yad<i>â</i> = dast, « une main » ; ceci conduit à la conclusion que le nom original sous-tend la forme Vadast, et cela est confirmé par le nom du Karap Vaêdvôi<i>s</i>t écrit en entier en danois. VII, IV, 21-24. Voir ibid. ii, 9 n.
 
 [^5]: (144:1) Ces frères ne semblent pas mentionnés ailleurs, et l'existence des deux aînés impliquerait une autre mère. La prononciation des noms est devinée.
 

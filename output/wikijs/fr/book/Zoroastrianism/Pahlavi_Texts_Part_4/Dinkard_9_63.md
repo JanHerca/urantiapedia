@@ -44,7 +44,7 @@ _Bakŏ Nask_.
 
 6\. Ceci aussi, que la formation des créatures (dâmîh) d'Aûha<i>r</i>ma<i>z</i><i>d</i> [^7] est occasionnée par celui dont la règle [^8] est pour Aûha<i>r</i>ma<i>z</i><i>d</i> ; même pour cette raison, parce qu'il devient un détenteur et un accompagnateur des bonnes œuvres. 7. Ceci aussi, que la dévastation par Vohûman [^9] est enseignée _par_ celui dont la règle est pour Aûha<i>r</i>ma<i>z</i><i>d</i> ; même pour cette raison, parce qu'il frappe les pécheurs _et_ détruit parmi les méchants.
 
-8\. Ceci aussi, que les gens vertueux sont accrus dans une province [^10] par celui qui nomme un gouverneur vertueux de la province. 9. Ceci aussi, que l'instruction vertueuse est fournie et expliquée par celui qui aime Vohûman [^11]. 10. Et ceci aussi, que les actions vertueuses [^12] sont déclenchées par celui qui enseigne des paroles savantes et des actions vertueuses à celui qui est bon ; même pour cette raison, parce que la réception de l'apport progressif de vertu par les savants devient plus complète.
+8\. Ceci aussi, que les gens vertueux sont accrus dans une province [^10] par celui qui nomme un gouverneur vertueux de la province. 9. Ceci aussi, que l'instruction vertueuse est fournie et expliquée par celui qui aime Vohûman [^11]. 10. Et ceci aussi, que les actions <span id="p373"><sup><small>[ p. 373 ]</small></sup></span> vertueuses [^12] sont déclenchées par celui qui enseigne des paroles savantes et des actions vertueuses à celui qui est bon ; même pour cette raison, parce que la réception de l'apport progressif de vertu par les savants devient plus complète.
 
 11\. L'excellence de la justice est parfaite.
 

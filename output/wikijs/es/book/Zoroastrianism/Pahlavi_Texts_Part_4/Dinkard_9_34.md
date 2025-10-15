@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 [_Var<i>s</i>tmânsar_](errata_htm.html) _Nask_.
 
-...es posible llegar a través de acciones virtuosas _y_ a través de pensamientos virtuosos.' <i>n</i>. Y esto también dijo: 'Ese Buen Pensamiento [^1] mío procede _y_ observa los pensamientos de la existencia encarnada, _y_ de las buenas palabras y acciones que él relata, las que se refieren a mí, hasta tres veces en el mismo día, tanto de aquellos _que son generosos _con_ ti [^1], ¡oh</i> Spîtâmân!, como de aquellos _que son inflexibles contigo.'
+...es posible llegar a través de acciones virtuosas _y_ a través de pensamientos virtuosos.' <i>n</i>. Y esto también dijo: «Ese Buen Pensamiento [^1] mío procede _y_ observa los pensamientos de la existencia encarnada, _y_ de las buenas palabras y acciones que él relata, las que se refieren a mí, hasta tres veces en el mismo día, tanto de aquellos _que son generosos _con_ ti [^1], ¡oh</i> Spîtâmân!, como de aquellos _que son inflexibles contigo.»
 
 <i>o</i>. La lucha de los demonios [^2] por suprimir todo beneficio de la humanidad no ha logrado que obtengan la capacidad para obtener ese beneficio que surge para la humanidad mediante la existencia futura; de modo que ese mal es más grave que cualquier mal que los demonios imaginan para la humanidad, cuando esta se aleja del camino de los seres sagrados y se vuelve malvada; y más duro para ellos son los alabadores de la justicia entre los apóstatas y el resto de la creación, por su alabanza de la justicia, aun cuando muchos la alaban.
 
@@ -80,7 +80,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 [^2]: (263:2) Ibíd. 10 c.
 
-[^3]: (263:3) Ibíd. 9 a, 10 b, 11 b. Av. ârmaiti, 'devoción', el arcángel femenino Spenda<i>r</i>ma<i>d</i>, llamado 'atención plena' en §§ <i>q</i>, <i>s</i>. Târôkmat (Av. tarômaiti), el archidemonio del desprecio y la desobediencia (Bd. XXVIII, 14), es su oponente especial.
+[^3]: (263:3) Ibíd. 9 a, 10 b, 11 b. Av. ârmaiti, «devoción», el arcángel femenino Spenda<i>r</i>ma<i>d</i>, llamado «atención plena» en §§ <i>q</i>, <i>s</i>. Târôkmat (Av. tarômaiti), el archidemonio del desprecio y la desobediencia (Bd. XXVIII, 14), es su oponente especial.
 
 [^4]: (264:1) Véase Pahl. Sí. XXXIV, 8 s.
 

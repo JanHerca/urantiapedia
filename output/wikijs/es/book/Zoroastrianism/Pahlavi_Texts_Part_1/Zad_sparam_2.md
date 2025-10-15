@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO II.
 
-Español Sobre la llegada de Aharman a las criaturas, así se declara en la revelación, que _en_ ​​el mes Fravar<i>d</i>în _y_ el día Aûharmazd, al mediodía [^1], él salió a la frontera del cielo. 2. El cielo lo ve _y_, debido a _su_ naturaleza, teme tanto como tiembla una oveja ante un lobo; _y_ Aharman avanzó, abrasándolo _y_ ardiendo en él. 3. Entonces llegó al agua que estaba dispuesta debajo de la tierra [^2], y él trajo oscuridad sin párpados; y avanzó, a través del centro de la tierra, como una serpiente que salta de un agujero; y permaneció dentro de toda la tierra. 4. El pasaje por donde avanzó es suyo, el camino al infierno, a través del cual los demonios hacen correr a los malvados.
+Sobre la llegada de Aharman a las criaturas, así se declara en la revelación, que _en_ ​​el mes Fravar<i>d</i>în _y_ el día Aûharmazd, al mediodía [^1], él salió a la frontera del cielo. 2. El cielo lo ve _y_, debido a _su_ naturaleza, teme tanto como tiembla una oveja ante un lobo; _y_ Aharman avanzó, abrasándolo _y_ ardiendo en él. 3. Entonces llegó al agua que estaba dispuesta debajo de la tierra [^2], y él trajo oscuridad sin párpados; y avanzó, a través del centro de la tierra, como una serpiente que salta de un agujero; y permaneció dentro de toda la tierra. 4. El pasaje por donde avanzó es suyo, el camino al infierno, a través del cual los demonios hacen correr a los malvados.
 
 5\. Después, llegó a un árbol de una sola raíz, de varios pies de altura, sin ramas ni corteza, jugoso y dulce; y para conservar la fuerza de todos los árboles en su especie, se encontraba cerca de la mitad de la tierra; y al mismo tiempo se marchitó por completo [^3].
 

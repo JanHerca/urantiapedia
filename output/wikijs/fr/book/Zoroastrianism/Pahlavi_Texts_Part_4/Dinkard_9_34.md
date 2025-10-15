@@ -80,7 +80,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [^2]: (263:2) Ibid. 10 c.
 
-[^3]: (263:3) Ibid. 9 a, 10 b, 11 b. Av. ârmaiti, 'dévotion', l'archange féminin Spenda<i>r</i>ma<i>d</i>, intitulé 'pleine conscience' dans §§ <i>q</i>, <i>s</i>. Târôkmat (Av. tarômaiti), l'archidémon du mépris et de la désobéissance (Bd. XXVIII, 14), est son adversaire particulier.
+[^3]: (263:3) Ibid. 9 a, 10 b, 11 b. Av. ârmaiti, « dévotion », l'archange féminin Spenda<i>r</i>ma<i>d</i>, intitulé « pleine conscience » dans §§ <i>q</i>, <i>s</i>. Târôkmat (Av. tarômaiti), l'archidémon du mépris et de la désobéissance (Bd. XXVIII, 14), est son adversaire particulier.
 
 [^4]: (264 : 1) Voir Pahl. Ouais. XXXIV, 8 s.
 

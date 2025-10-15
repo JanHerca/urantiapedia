@@ -40,7 +40,7 @@ From the very short account of this Nask, given in Dk. VIII, Chap. V, it appears
 
 Owing to the brief character of the account in Dk. VIII, Chap. V, it is impossible to trace any allusion to two passages quoted from the [Dâmdâ<i>d</i>](errata_htm.html) as follows:—
 
-In Sls. X, 22, XII, 15, it is said that 'in the Dâmdâ<i>d</i> _it_ is revealed thus: “Likewise, too, the good works, _in_ like measure (_or_ manner), which come into the father's possession (_or to_ the father as his own).”'
+In Sls. X, 22, XII, 15, it is said that ‘in the Dâmdâ<i>d</i> _it_ is revealed thus: “Likewise, too, the good works, _in_ like measure (_or_ manner), which come into the father's possession (_or to_ the father as his own).”’
 
 In Sls. XII, 5, it is said that ‘in the Dâmdâ<i>d</i> _it_ is revealed that when they sever the consciousness of men it goes out to the nearest fire, then out to the stars, then out _to_ the moon, and then out _to_ the sun; <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> and _it_ is needful that the nearest fire, that to which it _has_ cone out, _should_ become stronger.’
 

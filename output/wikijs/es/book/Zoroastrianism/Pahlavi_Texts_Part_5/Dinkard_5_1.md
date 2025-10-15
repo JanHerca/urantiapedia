@@ -72,17 +72,17 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^2]: (119:2) El nombre de este manuscrito solo se puede adivinar. Aparece tres veces en cada una de las dos autoridades de manuscritos, B y K43, y la lectura más simple de cinco de estas seis ocurrencias sería Sîmrâ, por lo que la restante (Sarmâ) puede ignorarse como una corrupción. Una â final en pahlavi es una indicación muy certera de una palabra semítica, pues si una final de forma similar aparece en una palabra iraní, representa h o kh; así que si el nombre fuera iraní, su lectura más probable sería Sîmurkh. Pero, en § 3, se insinúa que el manuscrito pertenecía a una antigua tribu o congregación (ram); también parece, del cap. IV, 8, 9, que la religión de esta tribu no era tan incompatible con el zoroastrismo como para impedir que sus miembros aprendieran esa fe ortodoxa; y los §§ 4, 5 del presente capítulo parecen citar de ese manuscrito algunos detalles de la pág. 120 sobre el asedio de Jerusalén por Nabucodonosor. Por estas circunstancias, podemos sospechar que Âtû<i>r</i>\-farnbag, mientras recopilaba materiales para su Dînka<i>r</i><i>d</i>, había preguntado a algunos amigos judíos qué información contenían sus manuscritos sobre los antiguos persas, ya que los dos pueblos habían estado en contacto, más o menos, desde la época de la dinastía aqueménida. Si lo hubiera hecho, los judíos naturalmente buscarían en el Talmud, en el que aún sobreviven referencias a los persas, aunque el texto ya no está completo. La pregunta es, por lo tanto, si el manuscrito, cuyo nombre se ha leído provisionalmente Sîmrâ, puede haber tenido alguna conexión con el Talmud. Será inmediatamente evidente para cualquier estudiante de Pahlavi que Pahl. sî puede leerse gyê igualmente bien, y no tenemos mejor razón para leer Sîmrâ que la Gyêmarâ, que se ha incluido en el texto, como sugerencia de que Âtû<i>r</i>\-farnbag se refería en realidad a la Gemarâ de los judíos, el suplemento a su comentario sobre las Escrituras. Queda por ver si esto puede probarse claramente, y la evidencia positiva parece escasa.
 
-[^3]: (120:1) O 'congregación'.
+[^3]: (120:1) O «congregación».
 
-[^4]: (120:2) O 'incluyendo (van dig).'
+[^4]: (120:2) O «incluyendo (van dig).»
 
-[^5]: (120:3) Pahl. 'mûn<i>s</i>ânŏ ham-shkûp-vindîg fr<i>â</i><i>z</i> aûbas yehamtûni<i>s</i>nîg.' De lo cual parece como si hubiera habido un intercambio mutuo de información entre él y sus amigos judíos.
+[^5]: (120:3) Pahl. «mûn<i>s</i>ânŏ ham-shkûp-vindîg fr<i>â</i><i>z</i> aûbas yehamtûni<i>s</i>nîg.» De lo cual parece como si hubiera habido un intercambio mutuo de información entre él y sus amigos judíos.
 
 [^6]: (120:4) La forma Pahlavi de Bu'<i>h</i>ti-naʓar, o Nabucodonosor.
 
 [^7]: (121:1) El padre de Kaî-Vistâsp (véase Bd. XXXI, 8, 29; XXXIV, 7). Su expedición a Jerusalén se menciona en Pahl. Mkh. XXVIII, 67 y por algunos escritores árabes.
 
-[^8]: (121:2) 'El lugar santo', un título de Jerusalén.
+[^8]: (121:2) «El lugar santo», un título de Jerusalén.
 
 [^9]: (121:3) No identificado. Desde este punto hasta el cap. IV, 7, Âtû<i>r</i>\-farnbag debió haber usado las mismas autoridades que el autor de Dk. VII; pero regresa al Gyêmarâ en el cap. IV, 8.
 
