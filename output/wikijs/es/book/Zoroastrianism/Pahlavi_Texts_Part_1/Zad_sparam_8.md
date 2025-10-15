@@ -36,7 +36,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO VIII.
 
-1\. Cuando él (Aharman) llegó en cuarto lugar a las plantas—que habían luchado (kûkhshî-aîtŏ) contra él con toda la vegetación—porque la vegetación _estaba_ bastante seca [^1], Amerôda<i>d</i>, por quien la esencia de la vegetación del mundo [^2] fue captada, la trituró y la mezcló _con_ el agua de lluvia de Tî<i>s</i>tar. 2. Después de la lluvia se percibe que toda la tierra brota, y diez mil [^3] especies especiales y cien mil [^4] especies adicionales (levatman sar<i>d</i>akŏ) crecieron como si _hubiera_ una especie de cada tipo; y esas diez mil especies son provistas para [^5] mantener alejadas las diez mil [^3] enfermedades.
+1\. Cuando él (Aharman) llegó en cuarto lugar a las plantas—que habían luchado (kûkhshî-aîtŏ) contra él con toda la vegetación—porque la vegetación _estaba_ bastante seca [^1], Amerôda<i>d</i>, por quien la esencia de la vegetación del mundo [^2] fue captada, la trituró y la mezcló _con_ el agua de lluvia de Tî<i>s</i>tar. 2. Después de la lluvia se percibe que toda la tierra brota, y diez mil [^3] especies especiales y cien mil [^4] especies adicionales (levatman sar<i>d</i>akŏ) crecieron como si _hubiera_ una especie de cada tipo; y esas diez mil especies son provistas para [^5] mantener alejadas las diez mil [3] enfermedades.
 
 3\. Posteriormente, se extrajo la semilla de esas cien mil especies de plantas, y de esa recolección surgió el árbol de todos los gérmenes, en medio del vasto océano, del cual crecen continuamente todas las especies de plantas. 4. Y el pájaro grifo (sênô mûrûvŏ) tiene su lugar de descanso allí; cuando sale de su interior, esparce la semilla seca en el agua, y esta es devuelta a la tierra con la lluvia.
 

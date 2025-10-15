@@ -38,7 +38,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «De la humanidad, aquel cuya estancia [^1] y negocios son con los malos [^2], y estos le dan un nombre de buena reputación y bondad, es el hombre más versado en el bien. 5. Y aquel cuya estancia y negocios son con los buenos [^3], y estos le dan un nombre de descrédito, es el hombre más versado en el mal».
 
-6\. «Porque se dice (7, 8) que quien se une al bien trae consigo el bien, y quien se une al mal trae consigo el mal—(9) igual que el viento que, cuando incide sobre el hedor, es hedor, (10) y cuando incide sobre el perfume, es perfume—(11) _es, por tanto, notorio [^6], (12) que quien se ocupa del bien recibe el bien, (13) y _quien se ocupa del mal recibe el mal; (14) pero, incluso entonces, ambos deben considerarse como un experimento (aû<i>z</i>mâyi<i>s</i>nŏ) [^8].»
+6\. «Porque se dice (7, 8) que quien se une al bien trae consigo el bien, y quien se une <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> al mal trae consigo el [^4] mal—(9) igual que el viento que, cuando incide sobre el hedor, [^5] es hedor, (10) y cuando incide sobre el perfume, es perfume—(11) es, por tanto, notorio [^6], (12) que quien se ocupa del bien recibe el bien, (13) y quien se ocupa del mal _recibe_ [^7] el mal; (14) pero, incluso entonces, ambos deben considerarse como un experimento (aû<i>z</i>mâyi<i>s</i>nŏ) [^8].»
 
 <figure class="table chapter-navigator">
   <table>

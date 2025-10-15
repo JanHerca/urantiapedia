@@ -156,7 +156,7 @@ Quien cumpla un año de matrimonio de Khvêtûdâ<i>d</i> <span id="p421"><sup><
 
 La impopularidad de la práctica defendida difícilmente podría admitirse con mayor plenitud que en este último párrafo, ni la objeción podría desecharse de forma más irracional y dogmática. En cuanto a las numerosas citas que el compilador de este Pahlavi Rivâyat <span id="p424"><sup><small>[ p. 424 ]</small></sup></span> afirma tomar de las escrituras parsis, es innecesario señalar que su autenticidad debe aceptarse con gran reserva.
 
-Los rivayats persas, copiados en el siglo XVII, abogan por el matrimonio entre primos hermanos y aluden vagamente a los matrimonios entre parientes más cercanos, considerados extintos desde hace mucho tiempo. Sin embargo, la mayoría de sus comentarios se limitan a recomendar la celebración del Khêdyôdath [100], sin explicar el significado del término. Así, se nos informa que una persona digna de muerte puede realizar el Khêdyôdath como una buena obra, pero es mejor si se realiza después de la ceremonia del Bareshnûm [101]. Una persona impura puede hacer lo mismo, pero el Bareshnûm debe preceder a la celebración para evitar los pecados derivados de la impureza. La celebración también destruye demonios, magos y brujas; y si alguien la organiza, a sus expensas, para otra persona, es tan meritoria como si la realizara él mismo. Sin embargo, las siguientes citas describen mejor la práctica [102]:
+Los rivayats persas, copiados en el siglo XVII, abogan por el matrimonio entre primos hermanos y aluden vagamente a los matrimonios entre parientes más cercanos, considerados extintos desde hace mucho tiempo. Sin embargo, la mayoría de sus comentarios se limitan a recomendar la celebración del Khêdyôdath [^100], sin explicar el significado del término. Así, se nos informa que una persona digna de muerte puede realizar el Khêdyôdath como una buena obra, pero es mejor si se realiza después de la ceremonia del Bareshnûm [^101]. Una persona impura puede hacer lo mismo, pero el Bareshnûm debe preceder a la celebración para evitar los pecados derivados de la impureza. La celebración también destruye demonios, magos y brujas; y si alguien la organiza, a sus expensas, para otra persona, es tan meritoria como si la realizara él mismo. Sin embargo, las siguientes citas describen mejor la práctica [^102]:
 
 Además, si bien la gran sabiduría del rey y de la asamblea de sacerdotes comprende plenamente que la ceremonia de todos los ritos religiosos [^103] es una gran obra, además de la llamada Khêdyôdath, en la actualidad, ambos han escapado a su control; pero se esforzarán por establecer una conexión con los suyos, y debido <span id="p425"><sup><small>[ p. 425 ]</small></sup></span> a los musulmanes, la conexión es intermedia [^104], mejor que la de un infiel. Ormazd ha dicho que cuanto más cercana sea la conexión, más buena es la obra; y demuestran su esfuerzo y dedicación, y se entregan mutuamente al hijo y a la hija de un hermano. Y tal como se dice esto: Yo establezco al ejecutante de Khêdyôdath, establezco la patrulla del país [^105]", incluso por esto ciertamente muestran un esfuerzo.
 
@@ -232,7 +232,7 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
 
 [^10]: (393:3) Este parece el nominativo más probable para los verbos en esta oración, pero de ninguna manera es seguro.
 
-[^11]: (394:1) Véase págs. [^396], [^401], [^416].
+[^11]: (394:1) Véase págs. 396, 401, 416.
 
 [^12]: (394:2) Véase Zs. V, 4.
 
@@ -252,7 +252,7 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
 
 [^20]: (396:2) «Atención completa» es la explicación Pahlavi habitual de Av. ârmaiti, «devoción», el último componente del nombre Spenda<i>r</i>ma<i>d</i>.
 
-[^21]: (396:3) Véase págs. [^392], [^393].
+[^21]: (396:3) Véase págs. 392, 393.
 
 [^22]: (397:1) Véase Ep. I, iv, 17.
 
@@ -346,9 +346,9 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
 
 [^67]: (411:4) Véase pág. 402, nota 1.
 
-[^68]: (412:1) Véase [^396], nota 2.
+[^68]: (412:1) Véase 396, nota 2.
 
-[^69]: (412:2) Véase [^400], nota 1.
+[^69]: (412:2) Véase 400, nota 1.
 
 [^70]: (412:3) Véase [384](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p384), nota 1.
 
@@ -360,7 +360,7 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
 
 [^74]: (413:4) En sentido figurado.
 
-[^75]: (414:1) Otra forma de la palabra Khvetûk-das (ver [p. 390](.)).
+[^75]: (414:1) Otra forma de la palabra Khvetûk-das (ver p. 390).
 
 [^76]: (414:2) Esto también se afirma en Sls. VII, 18.
 
@@ -372,7 +372,7 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
 
 [^80]: (416:2) Ella es una representante de la tierra.
 
-[^81]: (416:3) Véase [p. 402](.), nota 1.
+[^81]: (416:3) Véase p. 402, nota 1.
 
 [^82]: (416:4) Es decir, del matrimonio entre parientes más cercanos, lo cual se admite, a lo largo de estos extractos, que es desagradable al pueblo; de ahí la vehemencia con la que se lo defiende.
 
@@ -428,8 +428,8 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
 
 [^108]: (427:1) M5, fols. 54, 55.
 
-[^109]: (427:2) En Dk. III, lxxxii (ver [p. 404](.)).
+[^109]: (427:2) En Dk. III, lxxxii (ver p. 404).
 
-[^110]: (428:1) Véase págs. [^415]\-423.
+[^110]: (428:1) Véase págs. 415\-423.
 
 [^111]: (429:1) El sentimiento oriental de tal necesidad, con el mero propósito de perpetuar la familia, se manifiesta abundantemente en la historia de las hijas de Lot (Gén. xix. 30-38), que su autor relata sin reproche. También en la ley excepcional que exige que un hombre se case con la esposa de su hermano, cuando este muere sin descendencia (Deut. xxv. 5-10).

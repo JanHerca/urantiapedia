@@ -80,7 +80,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 146\. Además, dice esto: «He venido a lo mío, y no soy recibido por lo mío [^50]». 147. Por lo tanto, conviene entender que lo suyo y lo ajeno son dos cosas.
 
-148\. Esto también dice, es decir: «Padre nuestro, que estás en el cielo, ¡que se levante tu imperio! ¡Y que sea tu voluntad que se cumpla en la tierra como en el cielo! 149. ¡Danos también el pan de cada día! ¡Y no nos hagas dudar!». 150. De estas palabras es evidente que su voluntad no es tan pura (a<i>v</i>ê<i>z</i>ak) en la tierra como en el cielo. 151. También esto: que la causa de la duda de la humanidad no se debe al ser sagrado.
+148\. Esto también dice, es decir: «Padre nuestro, que estás en el cielo, ¡que se levante tu imperio! ¡Y que sea tu voluntad que se cumpla en la tierra como en el cielo! 149. ¡Danos también el pan de cada día! ¡Y no nos hagas dudar [^51]!». 150. De estas palabras es evidente que su voluntad no es tan pura (a<i>v</i>ê<i>z</i>ak) en la tierra como en el cielo. 151. También esto: que la causa de la duda de la humanidad no se debe al ser sagrado.
 
 152\. Y esto también lo dijo él al principio: que no he venido con el propósito de destruir la ley de Moisés (Mûshâê), (153) sino con el propósito de hacerla más completa [^52]. 154. Y, sin embargo, todos sus dichos y <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> mandatos eran disipadores y aflictivos para las reglas y leyes de Moisés.
 

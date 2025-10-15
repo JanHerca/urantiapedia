@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## SAD DAR. CAPÍTULO LXVII.
 
-1\. El tema sesenta y siete es que es necesario que las mujeres practiquen una gran abstinencia de cometer adulterio. 2. Pues en el Apocalipsis se declara, respecto a toda mujer que se haya acostado con un hombre extraño, lo siguiente: «¿Cómo es necesario llamarla, y por qué se explica que sea de la misma naturaleza que todos los magos y pecadores?».
+1\. El tema sesenta y siete es que es necesario que las mujeres practiquen una gran abstinencia de cometer adulterio. 2. Pues en el Apocalipsis se declara, respecto a toda mujer que se haya acostado con un hombre extraño, lo siguiente: «¿Cómo es necesario llamarla, y por qué se explica [^1] que sea de la misma naturaleza que todos los magos y pecadores?».
 
 3\. Y en el comentario del Vendîdâ<i>d</i> [^2] dice: «Toda mujer que se junta con dos hombres extraños es la primera en caer sobre mí, que soy Hôrmazd. 4. Porque si mira un río de agua, este disminuirá; si mira [^3] un árbol o arbusto, el fruto de los árboles escasea; y si habla una palabra con un hombre justo, la gloria [^4] del hombre disminuirá». 5. Zaratust le preguntó a Hôrmazd: «¿Qué ocurre por [^5] su causa?». 6. El creador Hôrmazd dijo así: «Es necesario matarla antes que a una serpiente mordedora y a criaturas similares y bestias salvajes, porque es más dañina para mis criaturas».
 

@@ -34,7 +34,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 ## BUNDAHI<i>S</i>. CAPÍTULO XXIII.
 
-1\. Sobre la naturaleza del mono y del oso dicen que Yim, cuando perdió la razón (nismô), por temor a los demonios, tomó a una diablesa por esposa y dio a Yimak, su hermana, a un demonio por esposa; y de ellos surgieron el mono con cola y el oso, así como otras especies de degeneración.
+1\. Sobre la naturaleza del mono y del oso dicen que Yim, cuando perdió la razón (nismô) [^1], por temor a los demonios, tomó a una diablesa por esposa y dio a Yimak, su hermana, a un demonio por esposa; y de ellos surgieron el mono con cola y el oso, así como otras especies de degeneración.
 
 2\. También dicen que, durante el reinado de A<i>z</i>\-i Dahâk [^2], una joven fue admitida ante un demonio, y un joven fue admitido ante una bruja (parîk), y al verlos tuvieron relaciones sexuales; debido a esa relación, el negro de piel oscura surgió de ellos. 3. Cuando Frê<i>d</i>ûn [^3] llegó a ellos, huyeron del país de Irán y se asentaron en la costa; ahora, debido a la invasión de los árabes, se han dispersado de nuevo por el país de Irán.
 

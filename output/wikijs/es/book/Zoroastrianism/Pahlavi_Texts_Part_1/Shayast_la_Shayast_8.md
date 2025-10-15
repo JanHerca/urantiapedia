@@ -139,7 +139,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^24]: (306:2) Lectura de dû<i>s</i>mînân en lugar del sin sentido dû<i>s</i>mîyân de los MSS.
 
-[^25]: (306:3) Lectura de yâîtyûnã [^5], en lugar del yâîtam sin significado de los MSS; ã se escribe a menudo de forma muy parecida a la m en Pahlavi.
+[^25]: (306:3) Lectura de yâîtyûnã 5, en lugar del yâîtam sin significado de los MSS; ã se escribe a menudo de forma muy parecida a la m en Pahlavi.
 
 [^26]: (306:4) Esta cláusula acerca del pecado hamêmâl que se convierte en una deuda que debe saldarse con el «acusador», ya sea aquí o en el futuro, está tomada de Pahl. Vend. III, 151.
 

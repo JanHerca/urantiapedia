@@ -208,7 +208,7 @@ Para evitar a una mujer menstruante no aislada (agûbâl), es necesario usar nav
 
 <i>m</i>. Y, después, debe ir a los pozos para beber agua; los diferentes momentos con agua son iguales a los diferentes pozos para la orina del toro, excepto que contiene al perro; el perro también trabaja para él dentro.
 
-<i>n</i>. Cuando la busque, se le calentará bien; cuando tenga hambre, se le dará pan; cuando necesite agua, se le ofrecerá algo; cuando, debido a su fuerza insuficiente (vad zôrîh), no pueda lavarse, alguien se sentará con él; cuando apenas esté lavado, se colocará en su lugar, pronunciará la oración interior y la ofrecerá de nuevo. Sus partes habituales también se lavarán y se considerarán lavadas.
+<i>n</i>. Cuando la busque, se le [^75] calentará bien; cuando tenga hambre, se le dará pan; cuando necesite agua, se le ofrecerá algo; cuando, debido a su fuerza insuficiente (vad zôrîh), no pueda lavarse, alguien [^76] se sentará con él; cuando apenas esté lavado, se colocará en su lugar, pronunciará la oración interior y la ofrecerá de nuevo. Sus partes habituales también se lavarán y se considerarán lavadas.
 
 <i>o</i>. Cuando se mantiene durante tres lavados [^77], aunque no esté limpio, no es impropio; cuando no alcanza los tres lavados, no es apropiado; cuando el recinto no se forma al norte [^78], no es apropiado; cuando _uno_ no solemniza el _servicio_ Vendidâ<i>d</i> [^79], no es apropiado.
 
