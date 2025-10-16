@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## BUNDAHI<i>S</i>. CAPÍTULO XXII.
 
@@ -65,6 +66,7 @@ leguas (parasang). del lago <i>K</i>ê<i>k</i>ast. 9. El lago (o, mejor dicho, g
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

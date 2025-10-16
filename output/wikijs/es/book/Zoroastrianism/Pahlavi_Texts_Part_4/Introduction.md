@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxxviii"><sup><small>[ pág. xxviii ]</small></sup></span> pág. xxix
 
@@ -232,6 +233,7 @@ AD para Anno Domini; âf. para Âfrîngân; Ar. para árabe; AV. para Ar<i>d</i>
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## SAD DAR. CAPÍTULO XV.
 
@@ -59,3 +60,4 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>

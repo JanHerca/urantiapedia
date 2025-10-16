@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCTION 4\. L'ANNEXE.
 
@@ -80,3 +81,4 @@ Septembre 1882.
     </tbody>
   </table>
 </figure>
+<br>

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. XIII. DÉPENSEZ NASK [^1].
 
@@ -70,6 +71,7 @@ Dans Sls. XII, 15, il est dit que « dans le Spend et le Nihâ<i>d</i>ûm, les g
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

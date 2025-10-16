@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p3"><sup><small>[ pág. 3 ]</small></sup></span>
 
@@ -89,6 +90,7 @@ ALGUNOS capítulos de las indagaciones que Mit<i>r</i>ô-khûrshê<i>d</i>, hijo
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

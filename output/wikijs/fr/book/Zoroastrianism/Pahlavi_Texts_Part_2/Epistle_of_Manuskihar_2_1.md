@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
@@ -75,6 +76,7 @@ Copie d'une épître du prêtre Mânû<i>s</i><i>k</i>îhar, fils de Yûdân-Yim
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

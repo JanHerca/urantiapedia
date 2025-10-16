@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
@@ -3163,3 +3164,4 @@ Zû<i>s</i>ak, mec, Bd. **31**, 14.
     </tbody>
   </table>
 </figure>
+<br>

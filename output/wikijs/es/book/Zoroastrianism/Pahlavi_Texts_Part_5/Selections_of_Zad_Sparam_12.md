@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p131"><sup><small>[ pág. 131 ]</small></sup></span> pág. 132 pág. 133
 
@@ -95,6 +96,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

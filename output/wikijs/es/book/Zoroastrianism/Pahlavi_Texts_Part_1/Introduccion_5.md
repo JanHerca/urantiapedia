@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 5. EL BAHMAN YAST.
 
@@ -91,3 +92,4 @@ Una traducción al alemán de algunos pasajes del Bahman Ya<i>s</i>t, con un bre
     </tbody>
   </table>
 </figure>
+<br>

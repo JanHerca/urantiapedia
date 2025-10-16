@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p167"><sup><small>[ pÃ¡g. 167 ]</small></sup></span>
 
@@ -67,6 +68,7 @@ Cuando de la misma manera, e igualmente opresivamente, como sus criaturas (de AÃ
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

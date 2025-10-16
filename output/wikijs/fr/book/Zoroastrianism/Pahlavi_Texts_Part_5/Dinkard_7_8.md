@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
@@ -107,6 +108,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

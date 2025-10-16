@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXISTENTES. XII. <i>K</i>ITRADÂ<i>D</i> NASK [^1].
 
@@ -59,6 +60,7 @@ Dk. VIII, Cap. XIII, 10, probablemente se refiere al pasaje que contenía la dec
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

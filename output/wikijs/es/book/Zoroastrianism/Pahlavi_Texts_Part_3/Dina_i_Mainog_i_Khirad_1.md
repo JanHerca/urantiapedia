@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p3"><sup><small>[ pág. 3 ]</small></sup></span>
 
@@ -77,6 +78,7 @@ POR el nombre, poder y asistencia del creador Aûha<i>r</i>ma<i>z</i><i>d</i>, l
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

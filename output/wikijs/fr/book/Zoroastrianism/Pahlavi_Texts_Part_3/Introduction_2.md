@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCTION. 2. LE <i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR.
 
@@ -109,6 +110,7 @@ Le <i>S</i>ikand-gûmânîk Vi<i>g</i>âr n'a pas été jusqu'à présent tradui
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

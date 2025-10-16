@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
@@ -67,6 +68,7 @@ _Sû<i>d</i>kar Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

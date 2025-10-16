@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p325"><sup><small>[ pág. 325 ]</small></sup></span>
 
@@ -75,6 +76,7 @@ Copia de una epístola del sacerdote Mânû<i>s</i><i>k</i>îhar, hijo de Yûdâ
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

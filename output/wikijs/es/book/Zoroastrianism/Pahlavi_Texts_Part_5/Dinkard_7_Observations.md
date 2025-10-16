@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p2"><sup><small>[ pág. 2 ]</small></sup></span>
 
@@ -81,3 +82,4 @@ T, una copia de un manuscrito unos cincuenta años más antiguo, perteneciente a
     </tbody>
   </table>
 </figure>
+<br>

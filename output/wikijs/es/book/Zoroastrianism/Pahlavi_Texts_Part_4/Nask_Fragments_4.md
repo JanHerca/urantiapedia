@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p465"><sup><small>[ pág. 465 ]</small></sup></span>
 
@@ -67,6 +68,7 @@ En Sls. XII, 5, se dice que «en el Dâmdâ<i>d</i> _se revela_ que cuando corta
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

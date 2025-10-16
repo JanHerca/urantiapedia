@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p245"><sup><small>[ pág. 245 ]</small></sup></span>
 
@@ -153,6 +154,7 @@ es que cuando [^75] _uno_ está en contacto con aquel que tocó el cadáver y de
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

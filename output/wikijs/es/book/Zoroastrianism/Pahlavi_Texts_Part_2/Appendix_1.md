@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p367"><sup><small>[ pág. 367 ]</small></sup></span>
 
@@ -155,6 +156,7 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

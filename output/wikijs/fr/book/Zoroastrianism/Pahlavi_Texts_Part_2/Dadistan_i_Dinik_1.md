@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
@@ -89,6 +90,7 @@ QUELQUES chapitres des enquêtes que Mit<i>r</i>ô-khûrshê<i>d</i>, fils d'Ât
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

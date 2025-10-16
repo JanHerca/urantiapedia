@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 5. LE BAHMAN YA<i>S</i>T.
 
@@ -91,3 +92,4 @@ Une traduction allemande de certains passages du Bahman Ya<i>s</i>t, avec un bre
     </tbody>
   </table>
 </figure>
+<br>

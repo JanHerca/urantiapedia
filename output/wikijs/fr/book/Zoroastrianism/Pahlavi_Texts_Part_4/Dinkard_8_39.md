@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
@@ -77,6 +78,7 @@ I. Une section est le <i>H</i>a<i>k</i>î<i>d</i>akânistân</i> (« _code des s
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

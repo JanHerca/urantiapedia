@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## EL DINERO ES MAÍZ ES KHIRA<i>D</i>. CAPÍTULO XXXII.
 
@@ -61,6 +62,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

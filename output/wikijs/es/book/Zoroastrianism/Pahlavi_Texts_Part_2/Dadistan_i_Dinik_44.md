@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÍA DE GIVE<i>D</i>Y. CAPÍTULO XLIV.
 
@@ -71,6 +72,7 @@ II. Pero quien posee mucha habilidad debe tener [^5] un estipendio alto, y quien
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

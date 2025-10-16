@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. II. VAR<i>S</i>TMÂNSAR NASK [^1].
 
@@ -59,6 +60,7 @@ Aucune citation de ce Nask n'a encore été remarquée.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p468"><sup><small>[ pág. 468 ]</small></sup></span>
 
@@ -61,6 +62,7 @@ La primera mitad de este Nask (tal como se describe en Dk. VIII, Cap. XI, 1, 2) 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

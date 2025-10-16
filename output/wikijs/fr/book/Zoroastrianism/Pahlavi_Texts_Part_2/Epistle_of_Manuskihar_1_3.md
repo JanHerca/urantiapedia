@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## ÉPÎTRES DE MÂNÛ<i>S</i><i>K</i>ÎHAR. ÉPÎTRE I. CHAPITRE III.
 
@@ -71,6 +72,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

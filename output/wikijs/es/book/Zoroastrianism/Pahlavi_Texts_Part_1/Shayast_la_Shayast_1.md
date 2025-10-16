@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p239"><sup><small>[ pág. 239 ]</small></sup></span>
 
@@ -69,6 +70,7 @@ En la administración de la fe primitiva [^9] hay _algunos_ que han tenido opini
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

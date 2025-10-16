@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. XIV. BAKÂN-YA<i>S</i>T NASK [^1].
 
@@ -65,6 +66,7 @@ Tal vez uno de los cinco Ya<i>s</i>ts, XI, XII, XIII, XV, XVIII, dedicados respe
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

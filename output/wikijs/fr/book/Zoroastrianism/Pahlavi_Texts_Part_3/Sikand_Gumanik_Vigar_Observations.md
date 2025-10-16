@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> p. 115
 
@@ -89,3 +90,4 @@ R (moderne) Pahl.-Pâz.-Sans.-Pers., ayant appartenu à M. Romer, et actuellemen
     </tbody>
   </table>
 </figure>
+<br>

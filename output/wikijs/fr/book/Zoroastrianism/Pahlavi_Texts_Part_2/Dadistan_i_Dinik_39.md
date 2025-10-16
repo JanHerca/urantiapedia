@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
@@ -89,6 +90,7 @@ II. L'une d'elles est que les anciens versés dans la religion ont communiqué c
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

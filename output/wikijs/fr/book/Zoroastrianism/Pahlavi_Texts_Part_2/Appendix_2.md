@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## ANNEXE. II. LE NÎRANG-I KUSTÎ.
 
@@ -85,6 +86,7 @@ Durant le rite, celui qui l'accomplit doit rester debout, sans reculer ni avance
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

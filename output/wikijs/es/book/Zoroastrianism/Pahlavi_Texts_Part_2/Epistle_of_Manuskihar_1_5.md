@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## EPÍSTOLAS DE MÂNÛ<i>S</i><i>K</i>ÎHAR. EPÍSTOLA I. CAPÍTULO V.
 
@@ -63,6 +64,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

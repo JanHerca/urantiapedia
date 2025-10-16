@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p155"><sup><small>[ pág. 155 ]</small></sup></span>
 
@@ -83,6 +84,7 @@ A estos memorandos y escritos se les llama las Selecciones (<i>k</i>î<i>d</i>ak
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

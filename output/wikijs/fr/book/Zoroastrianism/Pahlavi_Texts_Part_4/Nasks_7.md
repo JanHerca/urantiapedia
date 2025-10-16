@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 DES RIVÂYATS PERSANS [^1].
 
@@ -61,6 +62,7 @@ Les noms des vingt et un Nasks, du Yathâ-ahû-vairyô : Yathâ, le Stûdkar ; a
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

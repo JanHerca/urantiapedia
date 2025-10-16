@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p318"><sup><small>[ pág. 318 ]</small></sup></span>
 
@@ -75,6 +76,7 @@ _Bakŏ Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

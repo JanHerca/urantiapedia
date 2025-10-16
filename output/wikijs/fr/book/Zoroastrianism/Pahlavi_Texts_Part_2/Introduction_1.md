@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxiii"><sup><small>[ p. xiii ]</small></sup></span>
 
@@ -99,6 +100,7 @@ Le lecteur ordinaire doit cependant noter que ces subtilités de translittérati
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

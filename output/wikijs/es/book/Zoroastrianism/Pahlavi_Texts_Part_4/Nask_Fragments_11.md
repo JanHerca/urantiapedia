@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. XI. VA<i>S</i>TAG NASK [^1].
 
@@ -59,6 +60,7 @@ Aún no se ha encontrado ninguna cita de este Nask.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

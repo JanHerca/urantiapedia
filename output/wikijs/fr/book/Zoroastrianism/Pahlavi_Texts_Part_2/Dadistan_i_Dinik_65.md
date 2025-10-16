@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CHAPTER LXV.
 
@@ -61,6 +62,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Footnotes
 

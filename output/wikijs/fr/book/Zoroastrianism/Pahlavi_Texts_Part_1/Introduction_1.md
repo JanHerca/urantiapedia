@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 
@@ -61,6 +62,7 @@ Quant au caractère sacré de ces traductions en pahlavi, aux yeux des Parsis, i
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

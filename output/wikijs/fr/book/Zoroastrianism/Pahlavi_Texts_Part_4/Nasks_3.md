@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
@@ -66,6 +67,7 @@ La neuvième question.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

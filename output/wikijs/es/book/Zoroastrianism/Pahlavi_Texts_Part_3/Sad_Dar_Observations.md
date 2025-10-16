@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p252"><sup><small>[ pág. 252 ]</small></sup></span> pág. 253
 
@@ -79,3 +80,4 @@ Lp (sin fecha) Persa, No. 2506 de los manuscritos persas de la misma biblioteca.
     </tbody>
   </table>
 </figure>
+<br>

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 DE LOS RIVÂYATS PERSAS [^1].
 
@@ -61,6 +62,7 @@ Los nombres de los veintiún Nasks, del Yathâ-ahû-vairyô: Yathâ, el Stûdkar
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

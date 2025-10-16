@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p362"><sup><small>[ p. 362 ]</small></sup></span> 
 
@@ -1078,3 +1079,4 @@ Zargar, prince, Sg. **10**, 67.
     </tbody>
   </table>
 </figure>
+<br>

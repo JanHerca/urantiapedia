@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXISTENTES. XIII. PASAR NASK [^1].
 
@@ -69,6 +70,7 @@ En Sls. XII, 15, se dice que «en el Spend y el Nihâ<i>d</i>ûm los sumos sacer
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

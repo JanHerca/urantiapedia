@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
@@ -85,6 +86,7 @@ i7. Ceci aussi, que par celui qui accueille Aûha<i>r</i>ma<i>z</i><i>d</i> en l
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

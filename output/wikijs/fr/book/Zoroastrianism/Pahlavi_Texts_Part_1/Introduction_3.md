@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 3. LES BUNDAHI<i>S</i>.
 
@@ -235,6 +236,7 @@ La troisième partie contient un résumé du contenu des cent chapitres du Sad-d
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

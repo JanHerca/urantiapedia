@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. XVII. HÛSPÂRAM NASK [^1].
 
@@ -75,6 +76,7 @@ Aucune allusion n'a été relevée dans Dk. VIII, chap. XXVIII-XXXVII, aux deux 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

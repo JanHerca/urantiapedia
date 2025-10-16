@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 2. LA LENGUA Y LA LITERATURA PAHLAVI.
 
@@ -113,6 +114,7 @@ La literatura pahlavi alcanzó su máximo esplendor hace unos trece siglos, cuan
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

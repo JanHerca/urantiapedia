@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO XL.
 
@@ -73,6 +74,7 @@ A. Y cada órgano tiene una función, pero dos funciones especiales están conec
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

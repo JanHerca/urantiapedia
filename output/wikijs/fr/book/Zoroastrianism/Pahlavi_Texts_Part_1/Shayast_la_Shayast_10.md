@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## SHAYÂST LA-SHAYÂST. CHAPITRE X.
 
@@ -133,6 +134,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

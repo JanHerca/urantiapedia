@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p501"><sup><small>[ pág. 501 ]</small></sup></span>
 
@@ -71,3 +72,4 @@ P. [26](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p2
     </tbody>
   </table>
 </figure>
+<br>

@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxiii"><sup><small>[ pág. xiii ]</small></sup></span>
 
@@ -99,6 +100,7 @@ El lector general debe, sin embargo, observar que estas sutilezas de la translit
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

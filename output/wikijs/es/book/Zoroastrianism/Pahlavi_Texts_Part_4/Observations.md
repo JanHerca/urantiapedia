@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ pág. 1 ]</small></sup></span>
 
@@ -80,3 +81,4 @@ K (escrito en 1594 d. C. y posteriormente), n.º 43, en la Biblioteca Universita
     </tbody>
   </table>
 </figure>
+<br>

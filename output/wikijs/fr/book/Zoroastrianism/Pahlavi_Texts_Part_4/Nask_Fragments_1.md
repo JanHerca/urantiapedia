@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p448"><sup><small>[ p. 448 ]</small></sup></span> p. 449
 
@@ -77,6 +78,7 @@ Aucune allusion n'a été remarquée dans Dk. IX à un autre passage qui est ain
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

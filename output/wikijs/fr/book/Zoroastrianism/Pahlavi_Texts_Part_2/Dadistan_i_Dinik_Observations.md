@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
@@ -95,3 +96,4 @@ TD, un manuscrit des Bundahi appartenant à Môbad Tehmuras Dinshawji à Bombay.
     </tbody>
   </table>
 </figure>
+<br>

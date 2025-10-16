@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ pág. 1 ]</small></sup></span>
 
@@ -85,3 +86,4 @@ TD (escrito alrededor del año 1530 d. C.), perteneciente a Mobad Tehmuras Dinsh
     </tbody>
   </table>
 </figure>
+<br>

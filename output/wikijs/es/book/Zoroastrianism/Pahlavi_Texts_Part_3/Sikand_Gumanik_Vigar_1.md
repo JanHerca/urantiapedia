@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p117"><sup><small>[ pág. 117 ]</small></sup></span>
 
@@ -85,6 +86,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

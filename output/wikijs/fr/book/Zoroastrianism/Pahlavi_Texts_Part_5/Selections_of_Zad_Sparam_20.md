@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## SÉLECTIONS DE ZÂ<i>D</i>\-SPARAM. CHAPITRE XX.
 
@@ -71,6 +72,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

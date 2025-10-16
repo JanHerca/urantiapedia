@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## L'ARGENT, C'EST DU MAÏS, C'EST DU KHIRA<i>D</i>. CHAPITRE XXIII.
 
@@ -61,6 +62,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

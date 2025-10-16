@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p453"><sup><small>[ pág. 453 ]</small></sup></span>
 
@@ -109,6 +110,7 @@ Dk. IX, Cap. XLVII, 11, se refiere a Pahl. Yas. XIX, 12-15, que se cita en Sls. 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

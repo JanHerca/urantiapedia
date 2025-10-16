@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
@@ -209,6 +210,7 @@ Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Ant
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

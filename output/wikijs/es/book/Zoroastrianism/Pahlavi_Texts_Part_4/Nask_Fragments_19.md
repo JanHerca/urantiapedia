@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. XIX. VENDÎDÂD NASK [^1].
 
@@ -59,6 +60,7 @@ La totalidad de este Nask (tal como se describe en Dk. VIII, Cap. XLIV) aún se 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

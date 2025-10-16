@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxlvi"><sup><small>[ pág. xlvi ]</small></sup></span>
 
@@ -73,6 +74,7 @@ Otro manuscrito del Dâ<i>d</i>istân-i Dînîk y sus acompañamientos, escrito 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

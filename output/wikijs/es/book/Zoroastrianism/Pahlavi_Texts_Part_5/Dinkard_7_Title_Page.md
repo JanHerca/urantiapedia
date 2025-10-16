@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ pág. 1 ]</small></sup></span>
 
@@ -63,3 +64,4 @@ CAPÍTULOS XII-XXIV.
     </tbody>
   </table>
 </figure>
+<br>

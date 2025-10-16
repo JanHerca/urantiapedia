@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxv"><sup><small>[ p. xv ]</small></sup></span>
 
@@ -95,6 +96,7 @@ Du texte Pâzand du Mainyô-i Khard, Chaps. LVII, XXVII, LXII, I, 51-61, VII, 9-
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

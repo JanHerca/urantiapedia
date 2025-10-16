@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM. CAPÍTULO XXIV.
 
@@ -90,6 +91,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCCIÓN. 2. EL VIGIR DE SIKAND-GÛMÂNÎK.
 
@@ -109,6 +110,7 @@ El <i>S</i>ikand-gûmânîk Vi<i>g</i>âr no ha sido traducido hasta ahora a nin
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

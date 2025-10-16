@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
@@ -67,6 +68,7 @@ Dans Sls. XII, 5, il est dit que « dans le Dâmdâ<i>d</i> _il_ est révélé q
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

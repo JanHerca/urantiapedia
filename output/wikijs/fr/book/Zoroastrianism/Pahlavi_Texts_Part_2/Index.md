@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p459"><sup><small>[ p. 459 ]</small></sup></span>
 
@@ -1811,3 +1812,4 @@ Zôtŏ, voir Prêtre, officiant.
     </tbody>
   </table>
 </figure>
+<br>

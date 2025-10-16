@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## MERVEILLES DU ZOROASTRIANISME. DÎNKA<i>R</i><i>D</i>.—LIVRE VII. CHAPITRE IX.
 
@@ -83,6 +84,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

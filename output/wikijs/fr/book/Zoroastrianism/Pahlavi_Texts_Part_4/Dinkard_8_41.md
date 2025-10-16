@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
@@ -85,6 +86,7 @@ _Sakâ<i>d</i>ûm Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

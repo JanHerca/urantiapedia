@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxv"><sup><small>[ pág. xv ]</small></sup></span>
 
@@ -95,6 +96,7 @@ En relación con este relato de las diversas versiones de las «Opiniones del Es
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

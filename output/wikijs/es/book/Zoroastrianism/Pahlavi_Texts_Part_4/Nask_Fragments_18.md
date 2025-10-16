@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. XVIII. SAKA<i>D</i>ÛÛM NASK [^1].
 
@@ -69,6 +70,7 @@ El Dk. VIII, Cap. XLIII, 33, se refiere al pasaje que contenía las declaracione
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

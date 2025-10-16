@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE V. CHAPITRE IV.
 
@@ -69,6 +70,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

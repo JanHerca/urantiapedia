@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE VI.
 
@@ -62,6 +63,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

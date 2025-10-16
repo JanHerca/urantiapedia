@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
@@ -69,6 +70,7 @@ SAD DAR.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

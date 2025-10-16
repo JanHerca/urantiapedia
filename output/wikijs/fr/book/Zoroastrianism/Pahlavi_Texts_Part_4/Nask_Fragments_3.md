@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p453"><sup><small>[ p. 453 ]</small></sup></span>
 
@@ -109,6 +110,7 @@ Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ains
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## APÉNDICE. II. EL NÎRANG-I KUSTÎ.
 
@@ -85,6 +86,7 @@ Durante el rito, quien lo realiza debe permanecer de pie en el mismo lugar, sin 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

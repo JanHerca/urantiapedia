@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
@@ -87,3 +88,4 @@ TD (écrit vers 1530 après J.-C.), un manuscrit des Bundahi appartenant à Moba
     </tbody>
   </table>
 </figure>
+<br>

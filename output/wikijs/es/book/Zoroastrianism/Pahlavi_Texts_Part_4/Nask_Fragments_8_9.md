@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXISTENTES. VIII, IX. BARI<i>S</i> [^1] Y KA<i>S</i>KÎSRÔBÔ [^2] NASKS.
 
@@ -59,6 +60,7 @@ Aún no se ha encontrado ninguna cita de estos Nasks.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

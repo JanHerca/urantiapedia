@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p311"><sup><small>[ pág. 311 ]</small></sup></span>
 
@@ -85,6 +86,7 @@ i7. Esto, también, que por quien acoge a Aûha<i>r</i>ma<i>z</i><i>d</i> en _s�
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

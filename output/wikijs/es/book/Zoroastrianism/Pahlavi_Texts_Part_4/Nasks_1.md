@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p398"><sup><small>[ pág. 398 ]</small></sup></span>
 
@@ -84,3 +85,4 @@ O225, un Rivâyat persa en el n.° 225 de la colección de Ouseley en la Bibliot
     </tbody>
   </table>
 </figure>
+<br>

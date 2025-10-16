@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCTION 3. LES ÉPÎTRES DE MÂNÛ<i>S</i><i>K</i>ÎHAR.
 
@@ -71,6 +72,7 @@ Mais les affirmations les plus importantes pour l'érudit pahlavi, dans ces ép�
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## ÉPÎTRE II. À SON FRÈRE, ZÂ<i>D</i>\-SPARAM. CHAPITRE VII.
 
@@ -63,6 +64,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

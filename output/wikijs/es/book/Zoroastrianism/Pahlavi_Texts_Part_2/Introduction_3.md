@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCCIÓN 3. LAS EPÍSTOLAS DE MÂNÛ<i>S</i><i>K</i>ÎHAR.
 
@@ -71,6 +72,7 @@ Pero las declaraciones más importantes para el erudito pahlavi en estas epísto
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

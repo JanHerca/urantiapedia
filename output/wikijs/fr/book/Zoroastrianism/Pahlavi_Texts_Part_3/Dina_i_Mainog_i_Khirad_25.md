@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>. CHAPITRE XXV.
 
@@ -61,3 +62,4 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> p. 132 p. 133
 
@@ -95,6 +96,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

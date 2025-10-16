@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXISTENTES. XX. HÂ<i>D</i>ÔKHT NASK [^1].
 
@@ -85,6 +86,7 @@ En Vig. En las páginas 144 y 145, se dice, con referencia al anuncio del nombre
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

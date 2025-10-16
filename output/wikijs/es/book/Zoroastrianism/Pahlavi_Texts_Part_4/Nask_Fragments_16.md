@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXISTENTES. XVI. GANABÂ-SAR-NI<i>G</i>A<i>D</i> NASK [^1].
 
@@ -59,6 +60,7 @@ Dk. VIII, Cap. XXII, [^2], probablemente se refiere al pasaje que contenía la d
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

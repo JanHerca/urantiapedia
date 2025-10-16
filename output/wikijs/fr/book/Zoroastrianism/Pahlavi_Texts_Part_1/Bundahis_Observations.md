@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
@@ -85,3 +86,4 @@ TD (écrit vers 1530 après JC), appartenant à Mobad Tehmuras Dinshawji Anklesa
     </tbody>
   </table>
 </figure>
+<br>

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 2. LA LANGUE ET LA LITTÉRATURE PAHLAVI.
 
@@ -113,6 +114,7 @@ La littérature pahlavi atteignit son apogée il y a environ treize siècles, en
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

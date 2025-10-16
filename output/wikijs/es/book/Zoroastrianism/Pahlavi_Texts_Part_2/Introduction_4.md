@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCCIÓN 4\. APÉNDICE.
 
@@ -80,3 +81,4 @@ Septiembre de 1882.
     </tbody>
   </table>
 </figure>
+<br>

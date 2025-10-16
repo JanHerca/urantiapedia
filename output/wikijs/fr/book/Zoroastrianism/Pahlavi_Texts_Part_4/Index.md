@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p489"><sup><small>[ p. 489 ]</small></sup></span>
 
@@ -1165,3 +1166,4 @@ Zôti, prêtre, Dk. VIII, **7**, 5, 9; **8**, 3; **29**, 1, 5, 13; **31**, 20; I
     </tbody>
   </table>
 </figure>
+<br>

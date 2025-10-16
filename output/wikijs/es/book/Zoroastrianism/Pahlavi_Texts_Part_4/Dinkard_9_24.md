@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNKA<i>R</i><i>D</i>.—LIBRO IX. CAPÍTULO XXIV.
 
@@ -83,6 +84,7 @@ _ellos_ lo consideraron _el hombro _de_ [^7] Arekdvîksûr [^8], _y su_ pecho y 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

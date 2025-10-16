@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. XVI. GANABÂ-SAR-NI<i>G</i>A<i>D</i> NASK [^1].
 
@@ -59,6 +60,7 @@ Dk. VIII, Chap. XXII, [^2], se réfère probablement au passage qui contenait la
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

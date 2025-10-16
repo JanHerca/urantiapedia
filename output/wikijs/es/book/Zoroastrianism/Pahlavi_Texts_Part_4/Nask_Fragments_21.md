@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXISTENTES. XXI. STÔ<i>D</i>\-YA<i>S</i>T NASK [^1].
 
@@ -65,3 +66,4 @@ Además de los fragmentos atribuidos específicamente a nasks particulares, exis
     </tbody>
   </table>
 </figure>
+<br>

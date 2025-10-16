@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
@@ -65,6 +66,7 @@ Paix et prospérité [^5].
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

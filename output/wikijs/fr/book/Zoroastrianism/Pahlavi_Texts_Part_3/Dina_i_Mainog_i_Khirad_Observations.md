@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
@@ -91,3 +92,4 @@ TD2, Pahlavi, appartenant à Mobad Tehmuras Dinshawji Anklesaria à Bombay ; sur
     </tbody>
   </table>
 </figure>
+<br>

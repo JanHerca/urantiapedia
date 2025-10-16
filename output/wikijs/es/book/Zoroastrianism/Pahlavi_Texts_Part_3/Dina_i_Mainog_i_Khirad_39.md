@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## RELIGIÓN DEL MAÎNÔG-Î KHIRA<i>D</i>. CAPÍTULO XXXIX.
 
@@ -61,6 +62,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

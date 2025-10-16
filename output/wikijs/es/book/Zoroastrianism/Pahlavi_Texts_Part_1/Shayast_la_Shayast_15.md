@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p372"><sup><small>[ pág. 372 ]</small></sup></span>
 
@@ -87,6 +88,7 @@ PARTE III.—Apéndice [^1].
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 P. 133, note 6, au lieu de « fille », lire « petite-fille ».
 
@@ -55,3 +56,4 @@ P. 199, note 6, pour « Shâpûr I », lire « Shâpûr II ».
     </tbody>
   </table>
 </figure>
+<br>

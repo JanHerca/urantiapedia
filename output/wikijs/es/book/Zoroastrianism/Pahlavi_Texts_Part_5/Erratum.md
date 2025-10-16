@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p182"><sup><small>[ pág. 182 ]</small></sup></span>
 
@@ -54,3 +55,4 @@ P. [20](/es/book/Zoroastrianism/Pahlavi_Texts_Part_5/Dinkard_7_2#p20), ll. 4. El
     </tbody>
   </table>
 </figure>
+<br>

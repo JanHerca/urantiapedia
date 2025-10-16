@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxxxi"><sup><small>[ p. xxxi ]</small></sup></span>
 
@@ -61,3 +62,4 @@ Acc. pour l'accusatif ; Af. Zarat. pour Âfringân-i Zaratû<i>s</i>t ; anc. Per
     </tbody>
   </table>
 </figure>
+<br>

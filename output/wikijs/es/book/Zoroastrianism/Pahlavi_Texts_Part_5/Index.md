@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p171"><sup><small>[ pág. 171 ]</small></sup></span>
 
@@ -1099,3 +1100,4 @@ _Zû<i>s</i>ak_, hombre, Dk. VII, **2**, 70; Zs. **13**, 6.
     </tbody>
   </table>
 </figure>
+<br>

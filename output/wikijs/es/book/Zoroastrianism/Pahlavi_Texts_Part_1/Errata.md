@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 P. 133, nota 6, en lugar de «hija» léase «nieta».
 
@@ -55,3 +56,4 @@ P. 199, nota 6, en lugar de «Shâpûr I» léase «Shâpûr II».
     </tbody>
   </table>
 </figure>
+<br>

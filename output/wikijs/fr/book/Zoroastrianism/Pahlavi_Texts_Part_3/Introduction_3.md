@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCTION. 3. LE TRISTE DAR.
 
@@ -97,6 +98,7 @@ Avril 1885.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

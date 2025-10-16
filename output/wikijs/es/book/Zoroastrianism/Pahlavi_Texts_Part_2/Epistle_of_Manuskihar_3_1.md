@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p359"><sup><small>[ pág. 359 ]</small></sup></span>
 
@@ -93,6 +94,7 @@ _En_ el nombre de los seres sagrados.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

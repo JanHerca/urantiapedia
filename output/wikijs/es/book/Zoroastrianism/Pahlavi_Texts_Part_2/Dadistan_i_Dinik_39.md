@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p122"><sup><small>[ pág. 122 ]</small></sup></span>
 
@@ -89,6 +90,7 @@ II. Una es esta, que los antiguos familiarizados con la religión _han_ comunica
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

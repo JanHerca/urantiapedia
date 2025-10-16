@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 7. CONSIDERACIONES FINALES.
 
@@ -87,6 +88,7 @@ En conclusión, cabe destacar que un traductor de pahlavi generalmente comienza 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

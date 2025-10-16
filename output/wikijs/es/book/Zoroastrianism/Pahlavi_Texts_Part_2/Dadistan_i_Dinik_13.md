@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÂ<i>D</i>ISTÂN-Î DÎNÎK. CAPÍTULO XIII.
 
@@ -63,3 +64,4 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>

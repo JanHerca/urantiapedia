@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. XV. NÎKÂ<i>D</i>ÛM NASK [^1].
 
@@ -77,6 +78,7 @@ Dans Vi<i>g</i>. pp. 184, 185, il est dit que « _il est_ déclaré par l'Avesta
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

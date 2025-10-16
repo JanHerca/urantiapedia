@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> p. 253
 
@@ -79,3 +80,4 @@ Lp (sans date) persan, n° 2506 des manuscrits persans de la même bibliothèque
     </tbody>
   </table>
 </figure>
+<br>

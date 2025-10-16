@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxlvi"><sup><small>[ pág. xlvi ]</small></sup></span> pág. xlvii
 
@@ -61,3 +62,4 @@ Acc. para caso acusativo; AD para Anno Domini; Âf. para Âfrîngân; AK para Â
     </tbody>
   </table>
 </figure>
+<br>

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxxxi"><sup><small>[ pág. xxxi ]</small></sup></span>
 
@@ -61,3 +62,4 @@ Acc. para caso acusativo; Af. Zarat. para Âfringân-i Zaratû<i>s</i>t; anc. Pe
     </tbody>
   </table>
 </figure>
+<br>

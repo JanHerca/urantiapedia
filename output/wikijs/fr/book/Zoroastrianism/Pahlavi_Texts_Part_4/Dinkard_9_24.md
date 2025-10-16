@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE IX. CHAPITRE XXIV.
 
@@ -83,6 +84,7 @@ _ils_ la considéraient_ comme l'épaule_ de_ [^7] Arekdvîksûr [^8], _et_ sa_ 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

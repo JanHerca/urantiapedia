@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p448"><sup><small>[ pág. 448 ]</small></sup></span> pág. 449
 
@@ -77,6 +78,7 @@ No se ha observado ninguna alusión en Dk. IX a otro pasaje que se cita en Sls. 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

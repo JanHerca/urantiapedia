@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 3. LOS BUNDAHIS.
 
@@ -235,6 +236,7 @@ La tercera parte contiene un resumen del contenido de los cien capítulos de los
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

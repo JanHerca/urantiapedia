@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## EPÍSTOLA II. A SU HERMANO, ZÂ<i>D</i>\-SPARAM. CAPÍTULO IV.
 
@@ -61,6 +62,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE XXVI.
 
@@ -73,6 +74,7 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask._
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

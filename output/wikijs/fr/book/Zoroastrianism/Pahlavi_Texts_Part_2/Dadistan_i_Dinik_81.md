@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## GIVE<i>D</i>Y DAY. CHAPITRE LXXXI.
 
@@ -71,6 +72,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

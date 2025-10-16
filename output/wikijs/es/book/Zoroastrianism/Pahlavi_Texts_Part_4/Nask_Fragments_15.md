@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. XV. NÎKÂ<i>D</i>ÛM NASK [^1].
 
@@ -77,6 +78,7 @@ En Vig. pp. 184, 185, se dice que «_se declara por el Avesta del Nihâ<i>d</i>�
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

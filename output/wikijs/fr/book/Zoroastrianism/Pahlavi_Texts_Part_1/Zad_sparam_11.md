@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## SÉLECTIONS DE ZÂ<i>D</i>\-SPARAM. CHAPITRE XI.
 
@@ -67,6 +68,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

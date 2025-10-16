@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
@@ -87,6 +88,7 @@ PARTIE III.—_Annexe_ [^1].
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

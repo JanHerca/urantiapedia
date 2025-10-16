@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 6. EL SHÂYAST LÂ-SHÂYAST.
 
@@ -87,6 +88,7 @@ No parece que el Shâyast lâ-shâyast haya sido traducido hasta la fecha a ning
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## III. DEL RIVÂYAT DE NARÊMÂN HÔSHANG [^1]
 
@@ -99,6 +100,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

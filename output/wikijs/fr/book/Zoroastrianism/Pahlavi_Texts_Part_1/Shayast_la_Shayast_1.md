@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
@@ -69,6 +70,7 @@ Dans l'administration de la foi primitive [^9], il y en a _certains_ qui ont eu 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

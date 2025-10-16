@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
@@ -79,3 +80,4 @@ K (écrit en 1594 après J.-C. et après), n° 43 de la bibliothèque universita
     </tbody>
   </table>
 </figure>
+<br>

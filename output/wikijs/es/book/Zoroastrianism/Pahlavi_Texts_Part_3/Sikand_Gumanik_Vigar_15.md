@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## <i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR. CAPÍTULO XV.
 
@@ -109,6 +110,7 @@ dateCreated: 2025-10-10T14:41:36Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

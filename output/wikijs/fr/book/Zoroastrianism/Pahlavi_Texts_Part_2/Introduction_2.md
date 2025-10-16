@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## INTRODUCTION 2. LE DÂ<i>D</i>ISTÂN-Î DÎNÎK.
 
@@ -73,3 +74,4 @@ La présente traduction de cet ouvrage n'est pas la première tentative. Peu ava
     </tbody>
   </table>
 </figure>
+<br>

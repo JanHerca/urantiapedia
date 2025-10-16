@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p161"><sup><small>[ pág. 161 ]</small></sup></span>
 
@@ -69,6 +70,7 @@ Sobre la llegada de Aharman a las criaturas, así se declara en la revelación, 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p131"><sup><small>[ pág. 131 ]</small></sup></span>
 
@@ -77,6 +78,7 @@ I. Una sección es el <i>H</i>a<i>k</i>î<i>d</i>akânistân («_código de secu
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

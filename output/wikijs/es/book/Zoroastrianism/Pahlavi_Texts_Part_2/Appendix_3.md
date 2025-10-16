@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p389"><sup><small>[ pág. 389 ]</small></sup></span>
 
@@ -209,6 +210,7 @@ Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo s
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

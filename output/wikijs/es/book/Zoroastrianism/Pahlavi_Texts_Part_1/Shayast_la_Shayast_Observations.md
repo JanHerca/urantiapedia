@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p236"><sup><small>[ pág. 236 ]</small></sup></span>
 
@@ -87,3 +88,4 @@ TD (escrito alrededor del año 1530 d. C.), un manuscrito de los Bundahi pertene
     </tbody>
   </table>
 </figure>
+<br>

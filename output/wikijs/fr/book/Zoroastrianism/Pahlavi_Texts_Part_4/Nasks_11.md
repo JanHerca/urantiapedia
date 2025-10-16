@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DU DÎN-VI<i>G</i>IRGARD [^1].
 
@@ -109,6 +110,7 @@ Les noms des vingt et un Nasks.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

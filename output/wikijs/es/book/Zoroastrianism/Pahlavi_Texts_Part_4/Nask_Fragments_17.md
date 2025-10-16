@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. XVII. HÛSPÂRAM NASK [^1].
 
@@ -75,6 +76,7 @@ No se ha observado ninguna alusión en Dk. VIII, Caps. XXVIII-XXXVII, a los dos 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

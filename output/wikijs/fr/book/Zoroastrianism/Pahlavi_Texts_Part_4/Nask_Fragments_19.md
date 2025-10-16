@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. XIX. VENDÎDÂD NASK [^1].
 
@@ -59,6 +60,7 @@ L'intégralité de ce Nask (tel que décrit dans Dk. VIII, chap. XLIV) existe en
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

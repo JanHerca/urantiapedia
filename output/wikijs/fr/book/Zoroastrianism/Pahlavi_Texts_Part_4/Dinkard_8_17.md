@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNKA<i>R</i><i>D</i>.—LIVRE VIII. CHAPITRE XVII.
 
@@ -71,6 +72,7 @@ A. Du meurtre commis _par_ des enfants ignorants de sept ans, _ou_ même de huit
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

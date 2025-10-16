@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> p. 189
 
@@ -75,3 +76,4 @@ Version pers. (composée en 1496 après J.-C., copiée en 1679 après J.-C.) dan
     </tbody>
   </table>
 </figure>
+<br>

@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pix"><sup><small>[ pág. ix ]</small></sup></span>
 
@@ -431,6 +432,7 @@ AD para Anno Domini; Alb. para la Cronología de las Naciones Antiguas de Albîr
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

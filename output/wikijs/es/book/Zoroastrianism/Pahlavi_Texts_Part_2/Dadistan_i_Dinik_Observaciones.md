@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ pág. 1 ]</small></sup></span>
 
@@ -95,3 +96,4 @@ TD, un manuscrito de los Bundahi<i>s</i> perteneciente a Môbad Tehmuras Dinshaw
     </tbody>
   </table>
 </figure>
+<br>

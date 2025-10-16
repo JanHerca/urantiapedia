@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. VI. PÂ<i>G</i>AG NASK [^1].
 
@@ -59,6 +60,7 @@ Dk. VIII, Chap. VII, 4, ou 5, se réfère probablement au passage qui contenait 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

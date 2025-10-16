@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## BUNDAHI<i>S</i>. CHAPITRE XXX [^1].
 
@@ -85,6 +86,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

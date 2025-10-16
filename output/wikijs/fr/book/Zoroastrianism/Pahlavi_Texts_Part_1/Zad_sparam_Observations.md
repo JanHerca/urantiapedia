@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> p. 153
 
@@ -77,3 +78,4 @@ PARTIE I, CHAPITRES I-XI.
     </tbody>
   </table>
 </figure>
+<br>

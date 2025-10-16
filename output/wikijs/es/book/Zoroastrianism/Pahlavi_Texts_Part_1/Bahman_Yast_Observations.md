@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p188"><sup><small>[ pág. 188 ]</small></sup></span> pág. 189
 
@@ -75,3 +76,4 @@ Versión personal (compuesta en 1496 d. C., copiada en 1679 d. C.) en un manuscr
     </tbody>
   </table>
 </figure>
+<br>

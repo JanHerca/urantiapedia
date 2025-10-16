@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p455"><sup><small>[ pág. 455 ]</small></sup></span>
 
@@ -83,6 +84,7 @@ Pahl. Vend. VIII, 271. «¡Oh, creador! ¿Cómo se purifican esos hombres, oh ju
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

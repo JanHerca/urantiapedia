@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. VII. RA<i>D</i>Ö-DÂ<i>D</i>\-AÎTAG NASK [^1].
 
@@ -60,6 +61,7 @@ Dk. VIII, Chap. VIII, 4, se réfère probablement au passage contenant la décla
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

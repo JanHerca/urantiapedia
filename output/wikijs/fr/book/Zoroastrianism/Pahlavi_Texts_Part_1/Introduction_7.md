@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## 7. REMARQUES FINALES.
 
@@ -87,6 +88,7 @@ En conclusion, il convient de noter qu'un traducteur de pahlavi débute généra
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

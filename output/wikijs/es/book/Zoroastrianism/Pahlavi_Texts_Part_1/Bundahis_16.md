@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p60"><sup><small>[ pág. 60 ]</small></sup></span>
 
@@ -71,6 +72,7 @@ lo nutre, como toda leche surge de la semilla de los machos, _y_ la sangre es la
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

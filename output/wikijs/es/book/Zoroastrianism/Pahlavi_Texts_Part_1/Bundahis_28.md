@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## BUNDAHI<i>S</i>. CAPÍTULO XXVIII [^1].
 
@@ -81,6 +82,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

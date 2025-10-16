@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:50Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pxlvi"><sup><small>[ p. xlvi ]</small></sup></span> p. xlvii
 
@@ -61,3 +62,4 @@ Acc. pour l'accusatif ; AD pour Anno Domini ; Âf. pour Âfrîngân ; AK pour le
     </tbody>
   </table>
 </figure>
+<br>

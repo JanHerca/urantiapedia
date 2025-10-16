@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
@@ -81,6 +82,7 @@ _Var<i>s</i>tmânsar Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

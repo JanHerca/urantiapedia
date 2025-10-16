@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p277"><sup><small>[ pág. 277 ]</small></sup></span>
 
@@ -103,6 +104,7 @@ Una copia de la epístola del sacerdote Mânû<i>s</i><i>k</i>îhar [^1], hijo d
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

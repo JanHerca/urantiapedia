@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:45Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
@@ -103,6 +104,7 @@ Copie de l'épître du prêtre Mânû<i>s</i><i>k</i>îhar [^1], fils de Yûdân
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

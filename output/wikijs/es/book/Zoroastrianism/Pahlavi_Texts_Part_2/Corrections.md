@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p478"><sup><small>[ pág. 478 ]</small></sup></span> pág. 479
 
@@ -78,3 +79,4 @@ P. [306](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_7#
     </tbody>
   </table>
 </figure>
+<br>

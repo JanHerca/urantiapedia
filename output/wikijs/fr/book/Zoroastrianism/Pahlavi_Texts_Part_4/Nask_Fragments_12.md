@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTS EXISTANTS. XII. <i>K</i>ITRADÂ<i>D</i> NASK [^1].
 
@@ -59,6 +60,7 @@ Dk. VIII, Chap. XIII, 10, fait probablement référence au passage qui contenait
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

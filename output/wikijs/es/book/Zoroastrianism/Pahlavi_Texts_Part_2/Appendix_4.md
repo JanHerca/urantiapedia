@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:30Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p431"><sup><small>[ pág. 431 ]</small></sup></span>
 
@@ -257,6 +258,7 @@ El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica 
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

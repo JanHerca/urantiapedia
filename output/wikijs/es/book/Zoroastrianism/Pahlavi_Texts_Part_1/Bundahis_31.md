@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## BUNDAHI<i>S</i>. CAPÍTULO XXXI [^1]
 
@@ -93,6 +94,7 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

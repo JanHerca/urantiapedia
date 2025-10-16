@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:40Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
@@ -71,6 +72,7 @@ le nourrit, car tout le lait provient de la semence des mâles, et le sang est c
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

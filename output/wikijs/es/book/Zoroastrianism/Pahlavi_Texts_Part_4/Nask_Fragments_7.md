@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## FRAGMENTOS EXTENTES. VII. RA<i>D</i>Ö-DÂ<i>D</i>\-AÎTAG NASK [^1].
 
@@ -59,6 +60,7 @@ Dk. VIII, Cap. VIII, 4, probablemente se refiere al pasaje que contiene la decla
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

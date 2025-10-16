@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:56:56Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
@@ -78,6 +79,7 @@ _Maison de Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 

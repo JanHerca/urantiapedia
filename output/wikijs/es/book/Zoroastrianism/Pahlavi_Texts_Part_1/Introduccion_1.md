@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:41:20Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pix"><sup><small>[ pág. ix ]</small></sup></span>
 
@@ -61,6 +62,7 @@ Respecto a la sacralidad de estas traducciones pahlavi, a ojos de los parsis, no
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 

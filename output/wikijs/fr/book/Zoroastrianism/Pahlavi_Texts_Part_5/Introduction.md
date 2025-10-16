@@ -28,6 +28,7 @@ dateCreated: 2025-10-10T14:57:1Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 
@@ -431,6 +432,7 @@ AD pour Anno Domini ; Alb. pour la Chronologie des Nations Anciennes d'Albîrûn
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notes de bas de page
 
