@@ -132,7 +132,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^1]: (401:1) Ces deux derniers chapitres se trouvent écrits sur des feuillets ajoutés au début du M6 ; mais, bien qu'ils n'appartiennent pas à ce manuscrit à l'origine, ils sont néanmoins très anciens. Le premier de ces deux chapitres n'a été retrouvé nulle part ailleurs ; il s'agit d'une bénédiction élaborée, dans laquelle l'auteur appelle sur quelqu'un une série de bénédictions de chacun des trente archanges et anges dont les noms sont donnés aux jours du mois parsi dans l'ordre où ils se trouvent ici (cf. Bund. XXVII, 24).
 
-[^2]: (401:2) La signification du mot pâ<i>d</i>rô<i>g</i> ou pâ<i>d</i>ran<i>g</i> (qui apparaît également dans les §§ 12, 26, et semble être un titre) peut être devinée à partir du passage suivant du Yâ<i>d</i>kâr-i Zarîrân, ou Vi<i>s</i>tâsp-shâh-nâmak : Pavan har ra<i>z</i>m va pâ<i>d</i>ra<i>z</i>mi lak pîrô<i>g</i> va vêh pâ<i>d</i>rô<i>g</i> <i>s</i>em yâîtûnî-ae, 'dans chacune de tes attaques et contre-attaques, puisses-tu remporter le titre de conquérant et 'bon champion!'
+[^2]: (401:2) La signification du mot pâ<i>d</i>rô<i>g</i> ou pâ<i>d</i>ran<i>g</i> (qui apparaît également dans les §§ 12, 26, et semble être un titre) peut être devinée à partir du passage suivant du Yâ<i>d</i>kâr-i Zarîrân, ou Vi<i>s</i>tâsp-shâh-nâmak : Pavan har ra<i>z</i>m va pâ<i>d</i>ra<i>z</i>mi lak pîrô<i>g</i> va vêh pâ<i>d</i>rô<i>g</i> <i>s</i>em yâîtûnî-ae, 'dans chacune de tes attaques et contre-attaques, puisses-tu remporter le titre de conquérant et 'bon champion! »
 
 [^3]: (401:3) La lecture est incertaine.
 

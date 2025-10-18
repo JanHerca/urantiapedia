@@ -83,7 +83,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 23\. La règle est la suivante : ils donneront aux dignes autant de quoi que ce soit qu'il est convenable de manger et d'accumuler ; car dans le Nihâ<i>d</i>ûm _Nask_ [^41] les grands prêtres ont enseigné ainsi : « Un homme donne du pain à un affamé, et c'est trop, pourtant toutes les bonnes œuvres, qu'il accomplira grâce à cette surabondance, deviennent autant celles de celui qui l'a donnée que si elles avaient été faites de sa propre main. »
 
-24\. La règle est la suivante : lorsque quelqu'un se couche, dans des circonstances de bienséance et d'innocence, un Ashem-vohû doit être prononcé [^42], et de la même manière lorsqu'il se lève bien ; lorsqu'il le fait, chaque inspiration (vayô) devient une bonne œuvre de trois Srôshô-<i>k</i>aranâms, c'est-à-dire un poids de dix dirhams du poids total de quatre mads [^43].
+24\. La règle est la suivante : lorsque quelqu'un se couche, dans des circonstances de bienséance et d'innocence, un Ashem-vohû doit être prononcé [^42], et de la même manière <span id="p326"><sup><small>[ p. 326 ]</small></sup></span> lorsqu'il se lève bien ; lorsqu'il le fait, chaque inspiration (vayô) devient une bonne œuvre de trois Srôshô-<i>k</i>aranâms, c'est-à-dire un poids de dix dirhams du poids total de quatre mads [^43].
 
 25\. La règle est la suivante : lorsqu'une action ou une opinion se présente et que l'on ne sait pas si c'est un péché ou une bonne œuvre, il faut, autant que possible, l'abandonner et ne pas l'exécuter ; comme il est dit dans le Sakâ<i>d</i>ûm _Nask_ [^44] que Zaratû<i>s</i>t _a_ <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> pas prévu pour tout, mais trois fois cela a été fait par Zaratû<i>s</i>t à propos de ce devoir, c'est-à-dire que l'Avesta _et_ le Zand, lorsqu'on les a_ appris parfaitement par cœur [^45], sont destinés à la récitation, _et_ ne doivent pas être marmonnés [^46] (<i>g</i>ûyi<i>s</i>nŏ), car en marmonnant (<i>g</i>û<i>d</i>anŏ) les parties de l'Ahunavar [^47] sont plus bavardes [^48]. 26. Comme il est dit dans le Bagh _Nask_ [^49] <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> ainsi : « Quiconque murmurera, ô Zaratû ! ma part d'Ahunavar [^50] — c'est-à-dire, la prendra doucement intérieurement — et la laissera s'échapper [^51] à nouveau — c'est-à-dire, la prononcera à haute voix — je protégerai, moi qui suis Aûharmazd, la moitié, le tiers, le quart ou le cinquième de son âme de la meilleure existence — c'est-à-dire, je la tiendrai éloignée — d'un intervalle aussi large que la largeur de cette terre. »
 
@@ -279,7 +279,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^64]: (332:6) Mais seulement pour certains offices sacerdotaux mineurs, comme la consécration du gâteau sacré. Selon des passages de l'Avesta, cités dans le Nîrangistân, tout homme qui n'est pas un pécheur Tanâpûhar peut accomplir certains devoirs sacerdotaux pour des hommes vertueux, et toute femme qui n'est pas faible d'esprit (kasu-khrathwa) peut les accomplir pour des enfants.
 
-[^65]: (332:7) M6 a, 'quand elle ne consacre pas.'
+[^65]: (332:7) M6 a, 'quand elle ne consacre pas. »
 
 [^66]: (333:1) Voir Bund. XX, 2 ; il est plutôt douteux que nous devions lire « un » ou « deux ».
 

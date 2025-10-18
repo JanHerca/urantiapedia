@@ -63,7 +63,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 17\. El octavo [^17] es _que_, para separar al demonio de la razón, _tienes_ que alejar la malicia de _tus_ pensamientos, y arrepentirte rápidamente del pecado.
 
-18\. El noveno es comprender plenamente el avance de la religión, así como mantener su progreso y asumir la responsabilidad correspondiente; y, en caso de retroceso, cuando la religión sufra adversidades, recuperarla y mantener el cuerpo en la continencia (makavadîh) de la religión.
+18\. El noveno es comprender plenamente el avance [^18] de la religión, así como mantener su progreso y asumir la responsabilidad correspondiente; y, en caso de retroceso, cuando la religión sufra adversidades, recuperarla y mantener el cuerpo en la continencia (makavadîh) de la religión.
 
 19\. El décimo _es que debe_ haber un período de obediencia (Srôshdârîh) hacia el gobernante y la autoridad sacerdotal, el sumo sacerdocio de los religiosos [^19].
 
@@ -101,7 +101,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^3]: (168:1) El vers. ind. solo dice: «celebrar la ceremonia de los seres sagrados con las palabras correctas, oraciones internas y dominio completo del texto (narm-nasgîhâ) en el ritual». Omite por completo los §§ 6-8.
 
-[^4]: (168:2) T tiene 'límite (kûstak).'
+[^4]: (168:2) T tiene 'límite (kûstak).»
 
 [^5]: (168:3) T tiene 'problema'.
 

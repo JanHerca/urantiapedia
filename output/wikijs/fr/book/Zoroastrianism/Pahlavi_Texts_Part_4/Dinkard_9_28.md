@@ -96,7 +96,7 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^11]: (235:6) Voir Livre VIII, Chap. XI, 1; et comparer Pahl. Yas. XXVIII, 6 b, 7 b, c.
 
-[^12]: (235:7) De même dans K, mais B a '_aussi_ son annonce lorsqu'il _a été_ amené_ à Vi<i>s</i>tâsp, et Zaratû<i>s</i>t _était_ une aide pour lui _et_ la force, etc.'
+[^12]: (235:7) De même dans K, mais B a '_aussi_ son annonce lorsqu'il _a été_ amené_ à Vi<i>s</i>tâsp, et Zaratû<i>s</i>t _était_ une aide pour lui _et_ la force, etc. »
 
 [^13]: (236:1) Voir Livre VIII, Chap. XXXVIII, 68, et comparer Pahl. Yas. XXVIII, 8 b, c.
 

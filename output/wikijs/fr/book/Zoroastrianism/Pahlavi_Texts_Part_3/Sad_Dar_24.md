@@ -76,4 +76,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^5]: (287 : 4) Voir Mkh. XXVII, 70 n.
 
-[^6]: (287:5) Lp, B29 insérer '_ils doivent_ donner.'
+[^6]: (287:5) Lp, B29 insérer '_ils doivent_ donner. »

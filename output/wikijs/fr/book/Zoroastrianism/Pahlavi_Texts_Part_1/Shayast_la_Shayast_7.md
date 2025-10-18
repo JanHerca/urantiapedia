@@ -84,7 +84,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^4]: (298:3) Ou, peut-être, « cela ne convient pas à un Khûrshê<i>d</i> Ya<i>s</i>t (« une formule de louange en l'honneur du soleil ») _pour_ lui. » Ce Ya<i>s</i>t fait partie des Nyâyi<i>s</i>.
 
-[^5]: (298:4) C'est-à-dire un péché d'Aredû<i>s</i> (voir chap. I, 2). M6 a, 'quand il ne le révère pas à nouveau.'
+[^5]: (298:4) C'est-à-dire un péché d'Aredû<i>s</i> (voir chap. I, 2). M6 a, 'quand il ne le révère pas à nouveau. »
 
 [^6]: (298:5) C'est-à-dire une bonne œuvre suffisante pour contrebalancer un péché de Tanâpûhar, ce qui met l'accomplissement d'un Nyâyi<i>s</i> sur le même pied que la consécration du 9, gâteau sacré ou drôn (voir Chap. XVI, 6).
 

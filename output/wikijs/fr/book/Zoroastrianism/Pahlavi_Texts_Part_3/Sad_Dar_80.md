@@ -68,7 +68,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (343:3) Voir Chap. VII, 1 n. Le contenu de ce chapitre est dérivé de Hn. I, 11-35 (Yt. XXI, 6-15).
 
-[^2]: (343:4) B29 ajoute 'Ashem-vohû.'
+[^2]: (343:4) B29 ajoute 'Ashem-vohû. »
 
 [^3]: (343:5) La omet « le mérite de » ; et B29 a « quand tu récites un Ashem-vohû, _et_ le mérite de celui-ci », ici et dans le § 5.
 

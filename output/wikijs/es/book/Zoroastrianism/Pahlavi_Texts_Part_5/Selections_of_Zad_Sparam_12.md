@@ -33,7 +33,11 @@ dateCreated: 2025-10-10T14:41:50Z
 </figure>
 <br>
 
-<span id="p131"><sup><small>[ pág. 131 ]</small></sup></span> pág. 132 pág. 133
+<span id="p131"><sup><small>[ pág. 131 ]</small></sup></span>
+
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
+
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## SELECCIONES DE ZÂ<i>D</i>\-SPARAM [^1]. CAPÍTULO XII.
 

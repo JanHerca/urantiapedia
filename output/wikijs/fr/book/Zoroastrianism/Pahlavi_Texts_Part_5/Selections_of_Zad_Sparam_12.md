@@ -33,7 +33,11 @@ dateCreated: 2025-10-10T14:57:1Z
 </figure>
 <br>
 
-<span id="p131"><sup><small>[ p. 131 ]</small></sup></span> p. 132 p. 133
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
+
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
+
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## SÉLECTIONS DE ZÂ<i>D</i>\-SPARAM [^1]. CHAPITRE XII.
 
@@ -51,11 +55,11 @@ dateCreated: 2025-10-10T14:57:1Z
 
 12\. Sritô s'en alla, et le bœuf qu'il voulait tuer lui remontra en paroles humaines : « Ne me tue pas ! Car, même si tu peux me tuer, celui dont l'esprit protecteur est dans le Hôm, le dissipant la mort, se manifestera aussi sur la terre, celui dont le nom est Zaratûst des Spîtâmas [^12], et proclamera ta mauvaise action dans le monde. 13. Et la détresse de ton âme devient telle que déclarée dans la révélation ainsi : « Comme cela lui arrive, ainsi cela arrive à Vadak [^13], lorsqu'ils mentionnent son iniquité », et ta mort devient semblable et, à cause de la mort, elle se confond avec la sienne (c'est-à-dire que c'est à cause même de la sienne que réside la mort de Sritô). »
 
-14\. Lorsque ces paroles lui furent entendues, Srîtô retourna et retourna vers Kaî-Ûs ; par ses manières, et même en dehors de cela, il déclara [^14] ce que le bœuf avait dit avec effroi, et aussi ainsi : <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> 'Je désire plus que quiconque sur la terre créée par la justice que tu ordonnes maintenant la destruction du bœuf.'
+14\. Lorsque ces paroles lui furent entendues, Srîtô retourna et retourna vers Kaî-Ûs ; par ses manières, et même en dehors de cela, il déclara [^14] ce que le bœuf avait dit avec effroi, et aussi ainsi : <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> 'Je désire plus que quiconque sur la terre créée par la justice que tu ordonnes maintenant la destruction du bœuf. »
 
 15\. Et Kaî-Ûs exprima sa volonté, avec la conviction d'une sagesse supérieure, ainsi : « Il n'est pas certain que celui dont l'esprit gardien est dans le Hôm », le dissipateur de mort, soit lui-même ou non ; et s'il l'est et naît [^15], s'il deviendra manifeste ou non ; » et il commanda avec sévérité, ainsi : « Allez le tuer ! »
 
-16\. _Et_ Srîtô parla ainsi : '_Ce n'est pas_ que je sois sans force pour tuer, car _son_ sursis par moi _était_ dû à sa remontrance, qui m'a été mentionnée, qu'un grand prêtre doit se lever [^16].'
+16\. _Et_ Srîtô parla ainsi : '_Ce n'est pas_ que je sois sans force pour tuer, car _son_ sursis par moi _était_ dû à sa remontrance, qui m'a été mentionnée, qu'un grand prêtre doit se lever [^16]. »
 
 17\. Ainsi, dans une autre révélation (dênô zagâî) [^17], lorsque les Tûrâniens étaient arriérés de cœur, Kaî-Ûs parla ainsi : « Va dans une certaine jungle, où habitent de nombreux chefs des sorcières, et ils te découperont en morceaux sans aucun effort du cœur. »
 
@@ -132,6 +136,6 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^16]: (137:2) Le folio mal placé, qui commence au § 8, s'arrête ici, mais il n'est pas tout à fait certain que quelques lignes de texte ne manquent pas encore.
 
-[^17]: (137:3) T a 'à un autre _moment_ (bên zagâî).'
+[^17]: (137:3) T a 'à un autre _moment_ (bên zagâî). »
 
 [^18]: (138:1) T a « qu'il _devrait_ ordonner qu'on le tue. »

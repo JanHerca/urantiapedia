@@ -102,6 +102,6 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^14]: (334:3) Il s'agit de deux trépieds métalliques à sommets en forme de croissant, destinés à soutenir le petit fagot de brindilles ou de fils sacrés, reliés par une ceinture de fines bandes de foliole de dattier ; la ceinture étant nouée sur le fagot de la même manière que celle attachée à la taille d'un Parsi (voir Sls. III, 32 n). Les brindilles sacrées doivent toujours être présentes lors des cérémonies, parfois tenues dans la main du prêtre officiant, et parfois posées sur leur support.
 
-[^15]: (334:4) B19 a '_et_ si elle lui parle.'
+[^15]: (334:4) B19 a '_et_ si elle lui parle. »
 
 [^16]: (334:5) B29 a « il devient ».

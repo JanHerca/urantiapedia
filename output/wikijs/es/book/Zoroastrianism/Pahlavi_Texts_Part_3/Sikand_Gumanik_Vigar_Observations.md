@@ -33,7 +33,9 @@ dateCreated: 2025-10-10T14:41:36Z
 </figure>
 <br>
 
-<span id="p114"><sup><small>[ pág. 114 ]</small></sup></span> pág. 115
+<span id="p114"><sup><small>[ pág. 114 ]</small></sup></span>
+
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 ## <i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR, O LA EXPLICACIÓN QUE DISIPA LAS DUDAS.
 

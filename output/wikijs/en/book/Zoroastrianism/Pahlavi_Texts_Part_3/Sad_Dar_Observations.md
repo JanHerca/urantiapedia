@@ -32,7 +32,9 @@ dateCreated: 2025-10-6T9:44:6Z
   </table>
 </figure>
 
-<span id="p252"><sup><small>[ p. 252 ]</small></sup></span> p. 253
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
+
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ## SAD DAR, OR THE HUNDRED SUBJECTS.
 

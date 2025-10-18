@@ -76,7 +76,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^5]: (342:3) Autrement dit, la propreté ne peut pas plus être considérée comme une purification qu’un démon, qui est censé être une incarnation de l’impureté, ne peut être considéré comme pur.
 
-[^6]: (342:4) J a 'quand il n'y aurait pas de purificateur il faudrait demander l'aide d'un chef de la religion, et quand _on_ ne l'obtiendrait pas_.'
+[^6]: (342:4) J a 'quand il n'y aurait pas de purificateur il faudrait demander l'aide d'un chef de la religion, et quand _on_ ne l'obtiendrait pas_. »
 
 [^7]: (342:5) Comme indiqué dans Vend. VIII, 299 (voir App. V).
 

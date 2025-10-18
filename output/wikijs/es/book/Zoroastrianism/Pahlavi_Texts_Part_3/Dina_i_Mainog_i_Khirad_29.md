@@ -64,4 +64,4 @@ dateCreated: 2025-10-10T14:41:36Z
 
 ## Notas al pie
 
-[^1]: (67:1) L19 tiene un niño pequeño (r<i>e</i>dak).'
+[^1]: (67:1) L19 tiene un niño pequeño (r<i>e</i>dak).»

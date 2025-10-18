@@ -82,6 +82,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^4]: (179:2) K35 a mân, M14 mîni<i>s</i>nŏ.
 
-[^5]: (179:3) Lecture de vehabûntŏ au lieu de l'inintelligible <i>g</i>ân bû<i>d</i>ŏ de K35, la modification consistant simplement à allonger le trait inférieur du Pahl. b. M14 substitue ba<i>r</i>â yehevûnê<i>d</i> à bû<i>d</i>ŏ <i>g</i>ân bû<i>d</i>ŏ, ce qui donne le sens suivant : 'en buvant, dans l'expérience, on voit qu'il devient complètement pire.'
+[^5]: (179:3) Lecture de vehabûntŏ au lieu de l'inintelligible <i>g</i>ân bû<i>d</i>ŏ de K35, la modification consistant simplement à allonger le trait inférieur du Pahl. b. M14 substitue ba<i>r</i>â yehevûnê<i>d</i> à bû<i>d</i>ŏ <i>g</i>ân bû<i>d</i>ŏ, ce qui donne le sens suivant : 'en buvant, dans l'expérience, on voit qu'il devient complètement pire. »
 
 [^6]: (180:1) Le sens semble être que, lorsqu'il n'y a pas de raison particulière contraire, la quantité de vin que l'on a déjà bu ailleurs doit être considérée comme faisant partie de son allocation.

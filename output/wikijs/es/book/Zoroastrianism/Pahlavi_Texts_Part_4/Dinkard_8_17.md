@@ -80,7 +80,7 @@ A. _Sobre_ el homicidio cometido por niños de siete _o_ incluso de ocho años s
 
 [^2]: (39:2) Los términos utilizados en esta sección no son del todo seguros.
 
-[^3]: (40:1) Pers. «<i>h</i>a<i>s</i>î<i>s</i>. Farh. Oîm, pág. 34, ll. 6-8, tiene »_Av_. vâiti = _Pahl_. khva<i>s</i>i<i>s</i>nŏ es que cuando uno corre detrás de alguien por ofensa.'
+[^3]: (40:1) Pers. «<i>h</i>a<i>s</i>î<i>s</i>. Farh. Oîm, pág. 34, ll. 6-8, tiene »_Av_. vâiti = _Pahl_. khva<i>s</i>i<i>s</i>nŏ es que cuando uno corre detrás de alguien por ofensa.»
 
 [^4]: (40:2) Farh. Oîm, pág. 35, ll. 1-4, dice: «Av. mithôsâst y su explicación de la «enseñanza falsa» es que cuando alguien enseña un camino falso a alguien, incluso cuando, de forma inusual, se lo muestra correctamente, comete Mithôsâst.»
 

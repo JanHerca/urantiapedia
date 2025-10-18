@@ -41,7 +41,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. « Le bœuf qui est glorieux, qui a de grandes oreilles, qui a un troupeau de vaches, est le chef des bœufs.
 
-9\. 'Le <i>K</i>îharâ<i>v</i> [^5] est le chef des oiseaux. 10. Le cheval qui est rapide [^6] est le chef des chevaux. 11. Le lièvre [^7] est le chef des animaux sauvages ; _et_ le blé [^8] est le chef des céréales.'
+9\. « Le <i>K</i>îharâ<i>v</i> [^5] est le chef des oiseaux. 10. Le cheval qui est rapide [^6] est le chef des chevaux. 11. Le lièvre [^7] est le chef des animaux sauvages ; _et_ le blé [^8] est le chef des céréales. »
 
 <figure class="table chapter-navigator">
   <table>

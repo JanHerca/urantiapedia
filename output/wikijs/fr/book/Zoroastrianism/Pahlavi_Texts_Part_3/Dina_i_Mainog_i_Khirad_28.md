@@ -78,7 +78,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (66:4) La période désignée pour le conflit entre les bons et les mauvais esprits (voir chap. VIII, 11).
 
-[^5]: (66:5) Lecture de êdîna<i>s</i>a<i>s</i>, que Nêr. a mal interprété ainâ<i>s</i>, « autrement lui ». L19 donne « pourtant alors, sauf avec justice et patience, il ne le frappe pas autrement ». Il est également possible de lire 'il ne le frappe pas sans écouter (agûsha<i>s</i>).'
+[^5]: (66:5) Lecture de êdîna<i>s</i>a<i>s</i>, que Nêr. a mal interprété ainâ<i>s</i>, « autrement lui ». L19 donne « pourtant alors, sauf avec justice et patience, il ne le frappe pas autrement ». Il est également possible de lire 'il ne le frappe pas sans écouter (agûsha<i>s</i>). »
 
 [^6]: (66:6) L19 a « la pensée ».
 

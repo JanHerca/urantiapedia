@@ -39,7 +39,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 [_Var<i>s</i>tmânsar_](errata_htm.html) _Nask_.
 
-. . . . . . . . . . . . . . . il est possible d'y parvenir par des actes vertueux _et_ par des pensées vertueuses.' <i>n</i> Et il dit aussi ceci, à savoir : 'Cette Bonne Pensée [^1] qui est la mienne procède _et_ remarque les pensées de l'existence incarnée, _et_ des bonnes paroles et des bonnes actions qu'il rapporte à ceux qui se réfèrent à moi, jusqu'à trois fois dans le même jour, à la fois _de ceux_ qui sont libéraux _envers toi [^1], <i>ô</i> Spîtâmân ! et _de ceux_ qui ne sont pas libéraux envers toi.'
+. . . . . . . . . . . . . . . il est possible d'y parvenir par des actes vertueux _et_ par des pensées vertueuses.' <i>n</i> Et il dit aussi ceci, à savoir : 'Cette Bonne Pensée [^1] qui est la mienne procède _et_ remarque les pensées de l'existence incarnée, _et_ des bonnes paroles et des bonnes actions qu'il rapporte à ceux qui se réfèrent à moi, jusqu'à trois fois dans le même jour, à la fois _de ceux_ qui sont libéraux _envers toi [^1], <i>ô</i> Spîtâmân ! et _de ceux_ qui ne sont pas libéraux envers toi. »
 
 <i>o</i>. La lutte des démons [^2], pour supprimer tout bienfait de l'humanité, n'a pas produit l'obtention de leur capacité pour le bienfait qui surgit pour l'humanité par l'existence future ; de sorte que ce mal est plus grave que tous les maux que les démons imaginent pour l'humanité, lorsque celle-ci est effrayée par eux de la voie des êtres sacrés, et est méchante ; et plus dur pour eux sont les louangeurs de la justice parmi les apostats et le reste de la création, à cause de leur louange de la justice, même lorsque très nombreux sont ceux qui la louent.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-10-10T14:56:56Z
 
 <span id="p501"><sup><small>[ p. 501 ]</small></sup></span>
 
-P. [89](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_47#p89), ll. 9, 10, au lieu de « la nationalité iranienne (Aîrîh) » lire 'soumission (hêrih)'
+P. [89](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_47#p89), ll. 9, 10, au lieu de « la nationalité iranienne (Aîrîh) » lire 'soumission (hêrih) »
 
 P. [186](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_3/Sikand_Gumanik_Vigar_11#p186), ll. 19, 20, au lieu de « préparation », lire « éclabousser »
 

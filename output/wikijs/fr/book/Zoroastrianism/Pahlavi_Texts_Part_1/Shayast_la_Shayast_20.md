@@ -63,7 +63,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 17\. C'est sur ces choses aussi que l'attention des hommes doit être fixée, car il y a un remède à tout sauf la mort, un espoir à tout sauf la méchanceté, tout échouera [^13] sauf la justice, il est possible <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> de tout diriger sauf le tempérament (gôhar), et il est possible que tout change sauf la providence divine (bakô-bakhtô).
 
-18\. Il est également déclaré que Frê<i>d</i>ûn [^14] voulait tuer A<i>z</i>\-i Dahâk [^15], _mais_ Aûharmazd parla ainsi : 'Ne le tuez pas maintenant, car la terre sera pleine de créatures nocives.'
+18\. Il est également déclaré que Frê<i>d</i>ûn [^14] voulait tuer A<i>z</i>\-i Dahâk [^15], _mais_ Aûharmazd parla ainsi : 'Ne le tuez pas maintenant, car la terre sera pleine de créatures nocives. »
 
 <figure class="table chapter-navigator">
   <table>

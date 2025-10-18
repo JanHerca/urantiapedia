@@ -106,7 +106,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^16]: (117:2) TD a <i>K</i>itrô-mâônô, et on peut se demander si la dernière partie du nom dérive de Av. mainyu, « esprit », ou m<i>a</i>unghô, « lune ». Le Dâ<i>d</i>istân-i-Dînîk (Réponse 89) l'appelle « Patshâyôtanû qui est appelé du <i>K</i>îtrôk-mâhanô (ou mîyânô) », la rivière <i>K</i>atru-mîyân du chap. XX, 7, 31.
 
-[^17]: (117:3) Voir § 10. TD a Kangde<i>z</i>\-i bâmîk, 'Kangde<i>z</i> le splendide.'
+[^17]: (117:3) Voir § 10. TD a Kangde<i>z</i>\-i bâmîk, 'Kangde<i>z</i> le splendide. »
 
 [^18]: (117:4) L'Av. Aghraêratha Narava de Gô<i>s</i> Yt. 18, 22, Fravardîn Yt. 131, Ashi Yt. 38, Zamyâd Yt. 77 ; il s'agit d'Aghrîrath, frère d'Afrâsiyâb, dans la Shâhnâmah ; voir aussi Chap. XXXI, 15.
 

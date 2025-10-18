@@ -80,14 +80,14 @@ A. Du meurtre commis _par_ des enfants ignorants de sept ans, _ou_ même de huit
 
 [^2]: (39:2) Les termes utilisés dans cette section ne sont pas tout à fait certains.
 
-[^3]: (40:1) Pers. '<i>h</i>a<i>s</i>î<i>s</i>. Farh. Oîm, p. 34, ll. 6-8, a '_Av_. vâiti = _Pahl_. khva<i>s</i>i<i>s</i>nŏ est que l'on court derrière quelqu'un pour offenser.'
+[^3]: (40:1) Pers. '<i>h</i>a<i>s</i>î<i>s</i>. Farh. Oîm, p. 34, ll. 6-8, a '_Av_. vâiti = _Pahl_. khva<i>s</i>i<i>s</i>nŏ est que l'on court derrière quelqu'un pour offenser. »
 
-[^4]: (40:2) Farh. Oîm, p. 35, ll. 1-4, a '_Av_. mithôsâst et son explication « faux enseignement » sont que lorsque quelqu'un enseigne une fausse voie à quelqu'un; même lorsqu'il la montre correctement à quelqu'un de manière inhabituelle, c'est un engagement de Mithôsâst de sa part.'
+[^4]: (40:2) Farh. Oîm, p. 35, ll. 1-4, a '_Av_. mithôsâst et son explication « faux enseignement » sont que lorsque quelqu'un enseigne une fausse voie à quelqu'un; même lorsqu'il la montre correctement à quelqu'un de manière inhabituelle, c'est un engagement de Mithôsâst de sa part. »
 
 [^5]: (40:3) Comparer Pers. tabah, tô, tôî. Farh. Oîm, p. 38, ll. 2-4, dit : « Ataftdâ<i>d</i> est le fait de retenir de la nourriture et de la boisson, ce qui provoque la faim et la soif. » Cela mérite la mort (voir chap. XX, 97).
 
 [^6]: (40:4) Farh. Oîm, p. 34, ll. 3-5, dit : « Av. yâtukhta, par les sorts des sorciers (yâtûk-gôbi<i>s</i>nîhâ), c'est quand on dit ainsi : « Je te détruirai par la sorcellerie » ; quand on dit « par le manque de bonne religion des esprits », c'est du même genre. »
 
-[^7]: (40:5) Farh. Oîm, p. 34, ll. 5, 6, a '_Av_. dudhuwi buzda, menaces de danger (saham-numâyi<i>s</i>nîh), c'est que lorsque _quelqu'un_ parle ainsi : « Je frapperai avec des armes terrestres. »'
+[^7]: (40:5) Farh. Oîm, p. 34, ll. 5, 6, a '_Av_. dudhuwi buzda, menaces de danger (saham-numâyi<i>s</i>nîh), c'est que lorsque _quelqu'un_ parle ainsi : « Je frapperai avec des armes terrestres. » »
 
 [^8]: (41:1) Un péché qui nuit à une autre personne, ou à toute bonne création, qui doit être satisfaite par compensation avant que le péché puisse être remis.

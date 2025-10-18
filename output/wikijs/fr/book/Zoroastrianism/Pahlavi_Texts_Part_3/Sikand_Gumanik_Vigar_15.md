@@ -77,7 +77,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 132\. Et il a également dit ceci : « L'arbre du mérite (kirfak) n'est <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> pas sans restriction (atang) à produire le fruit de l'offense (ba<i>z</i>ak), ni celui de l'offense _comme_ le fruit du mérite [^43]. » 133. Il a également dit ceci : « Il fait soit l'arbre entier avec du fruit de mérite, soit l'arbre entier avec du fruit d'offense [^44], (134) car chaque arbre se manifeste par son fruit, s'il est de mérite et s'il est d'offense [^45]. » 135. Et il a mentionné l'arbre entier, et non la moitié de l'arbre. 136. Or, comment est-il convenable qu'un arbre soit à moitié clair et à moitié sombre, (137) à moitié mérite et à moitié offense, (138) à moitié vérité et à moitié mensonge ? 139. Quand ces deux choses restent en compétition, (140) elles ne peuvent devenir un seul arbre.
 
-141\. De plus, il appelait une secte juive « le serpent des Juifs » (142), et il disait : « Comment pouvez-vous faire de bonnes œuvres, vous qui êtes des Juifs malfaiteurs ? » 143. Et ce n'était pas son propre père qu'il appelait malfaiteur [48]. <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 144\. Il dit aussi que « tout arbre que le père n'a pas semé doit être déterré et jeté au feu [49]. » 145. Il convient donc de comprendre par ces paroles qu'il existe un arbre que le père n'a pas semé ; qu'il est nécessaire de l'arracher et de le jeter.
+141\. Et, encore une fois, il a qualifié une secte juive de « serpent des montagnes des Juifs [^46] » (142) et a déclaré : « Comment pouvez-vous accomplir de bonnes œuvres alors que vous êtes des malfaiteurs juifs [^47] ? » 143. Et ce n'est pas son propre père qu'il a qualifié de malfaiteur [^48]. <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 144\. Il dit aussi que « tout arbre que le père n'a pas semé doit être déterré et jeté au feu [^49]. » 145. Il convient donc de comprendre par ces paroles qu'il existe un arbre que le père n'a pas semé ; qu'il est nécessaire de l'arracher et de le jeter.
 
 146\. Il dit encore ceci : « Je suis venu chez moi, et je ne suis pas reçu par moi-même [^50]. » 147. C'est pourquoi il convient de comprendre que ce qui est à moi et ce qui ne l'est pas sont deux choses.
 
@@ -136,7 +136,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^11]: (232:4) En supposant que Pâz. rasûnâî représente Pahl. rûsvâih. Sans. a « lier avec des cordes ».
 
-[^12]: (233:1) Sans. 'en liant avec des cordes.'
+[^12]: (233:1) Sans. 'en liant avec des cordes. »
 
 [^13]: (233:2) « Malheur à vous, scribes et pharisiens hypocrites ! . . . voici, je vous envoie des prophètes, des sages et des scribes. Vous en tuerez et crucifierez quelques-uns, vous en fouetterez quelques-uns dans vos synagogues, et vous les persécuterez de ville en ville, afin que retombe sur vous tout le sang innocent répandu sur la terre. . . . Toutes ces choses retomberont sur cette génération » (Mat. xxiii. 29, 34-36).
 

@@ -53,9 +53,9 @@ Pahl. Vend. IX, 1. Zaratû<i>s</i>t s'enquit ainsi d'Aûha<i>r</i>ma<i>z</i><i>d
 
 « Juste un mètre. »
 
-6\. 'L'orniérage des trois autres trous \[qui sont destinés à l'eau, (17) après l'arrivée de l'été, atteint une largeur d'excavation de deux doigts ; après l'arrivée de l'hiver chargé de grêle, il atteint une largeur de quatre doigts.'
+6\. « L'orniérage des trois autres trous \[qui sont destinés à l'eau, (17) après l'arrivée de l'été, atteint une largeur d'excavation de deux doigts ; après l'arrivée de l'hiver chargé de grêle, il atteint une largeur de quatre doigts. »
 
-18\. 'Combien de ces anciens _urines_ \[pour l'urine de taureau\] ?'
+18\. « Combien de ces anciens _urines_ \[pour l'urine de taureau\] ? »
 
 « Jusqu'à trois pas. »
 
@@ -67,7 +67,7 @@ Pahl. Vend. IX, 1. Zaratû<i>s</i>t s'enquit ainsi d'Aûha<i>r</i>ma<i>z</i><i>d
 
 « Exactement neuf pieds. »
 
-21\. Tu laboureras aussi un sillon avec la lame à cause de Shat<i>r</i>yŏvair [^11].'
+21\. Tu laboureras aussi un sillon avec la lame à cause de Shat<i>r</i>yŏvair [^11]. »
 
 22\. « Combien des trous ? »
 
@@ -77,7 +77,7 @@ Pahl. Vend. IX, 1. Zaratû<i>s</i>t s'enquit ainsi d'Aûha<i>r</i>ma<i>z</i><i>d
 
 « Autant qu'en marchant avec les pas qu'on ferait et qu'on planterait. »
 
-23\. 'Combien coûte la marche à pas ?'
+23\. « Combien coûte la marche à pas ? »
 
 « Jusqu'à neuf pieds. »
 
@@ -99,9 +99,9 @@ D, endroit pour recueillir quinze poignées de poussière pour sécher le corps.
 
 29\. « Tu porteras trois charges de pierres sur ces espaces de neuf pieds [^13], _comme_ approche_ des trous ; (30) _ou_ des tessons de poterie, ou des _blocs_ noueux_ et_ massifs, ou une _motte de terre de Vi<i>s</i>tâsp, ou _[un pot _ou_ quelque chose de_] n'importe quelle terre dure.
 
-31\. 'Ensuite, celui qui _a été_ près des morts viendra à cette approche, qui est l'approche des trous. 32. Alors toi, ô Zaratûst ! tu devras te tenir plus à l'écart, près des sillons [^14]. <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> 33. Alors ces paroles doivent être murmurées \[_par toi_, c'est-à-dire\] : « Louange à Spenda<i>r</i>ma<i>d</i> [^15], le propice ! » 34. _Et_ celui qui _a été_ près des morts lui répondra ainsi : « Louange à Spenda<i>r</i>ma<i>d</i>, le propice ! » 35. Alors le démon est neutralisé par chaque mot \[de chaque répétition\] ; (36) la frappe de l'esprit mauvais, du méchant, lui est due ; (37) la frappe d'Aeshm [^16], l'assaillant impétueux, lui est due ; (38) la frappe des démons Mâzînîkân [^17] lui est due ; (39) la frappe de tous les démons lui est due.
+31\. « Ensuite, celui qui _a été_ près des morts viendra à cette approche, qui est l'approche des trous. 32. Alors toi, ô Zaratûst ! tu devras te tenir plus à l'écart, près des sillons [^14]. <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> 33. Alors ces paroles doivent être murmurées \[_par toi_, c'est-à-dire\] : « Louange à Spenda<i>r</i>ma<i>d</i> [^15], le propice ! » 34. _Et_ celui qui _a été_ près des morts lui répondra ainsi : « Louange à Spenda<i>r</i>ma<i>d</i>, le propice ! » 35. Alors le démon est neutralisé par chaque mot \[de chaque répétition\] ; (36) la frappe de l'esprit mauvais, du méchant, lui est due ; (37) la frappe d'Aeshm [^16], l'assaillant impétueux, lui est due ; (38) la frappe des démons Mâzînîkân [^17] lui est due ; (39) la frappe de tous les démons lui est due.
 
-40\. 'Ensuite, tu l'aspergeras d'urine de taureau avec une louche de fer ou de plomb. 41. _Si_ tu l'asperges avec une louche de plomb_ [^18], tu exigeras fortement, ô Zaratû<i>s</i>t ! la tige d'un roseau dont tu as mentionné les neuf parties habituelles (pî<i>s</i>ak) [^19] \[_comme_ neuf nœuds\] ; (42) _et on_ devra attacher fermement cette louche de plomb sur sa partie la plus ancienne [^20].
+40\. « Ensuite, tu l'aspergeras d'urine de taureau avec une louche de fer ou de plomb. 41. _Si_ tu l'asperges avec une louche de plomb_ [^18], tu exigeras fortement, ô Zaratû<i>s</i>t ! la tige d'un roseau dont tu as mentionné les neuf parties habituelles (pî<i>s</i>ak) [^19] \[_comme_ neuf nœuds\] ; (42) _et on_ devra attacher fermement cette louche de plomb sur sa partie la plus ancienne [^20].
 
 43\. Il se lavera d'abord les mains \[jusqu'aux coudes\]. 44. S'il ne se lave pas les mains, (45) il rend alors tout son corps impur \[_et_ souillé\]. 46. Lorsqu'il se sera lavé les mains trois fois, (47) alors, lorsque tes mains <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> auront été lavées, (48) tu l'aspergeras sur le devant du sommet de sa tête, \[aussi loin que les cheveux ont poussé.\] 49. Alors le démon de la corruption [^21] se précipite devant, sur une partie de l'espace entre les sourcils de cet homme.
 
@@ -173,13 +173,13 @@ D, endroit pour recueillir quinze poignées de poussière pour sécher le corps.
 
 « Gardons-nous du plus affligeant des pécheurs, ô Aûha<i>r</i>ma<i>z</i><i>d</i> et Spenda<i>r</i>ma<i>d</i> [^36] ! C'est-à-dire, garde-nous du mal de l'esprit maléfique ! Peurs, démon ! Comme je te parle. Peurs, race des démons ! Leur race est originaire de cet endroit. [^37] Peurs, œuvre transformée par les démons pour son inutilité ! Peurs, œuvre produite par les démons, autrefois et aujourd'hui ! Cette œuvre a été produite sans les êtres sacrés, et produite par eux (les démons) pour son inutilité. Peurs, toi, Démon ! \[c'est-à-dire, puisses-tu devenir invisible !\] Peurs complètement, démon ! \[c'est-à-dire, fuis d'ici, _et_ puisses-tu devenir invisible sur tout chemin !\] Peurs complètement et isolé, démon ! \[c'est-à-dire, ne t'arrête plus sur aucun chemin !\] Tu périras de nouveau vers le nord ! \[le chemin était mentionné ainsi : « Va _en_ ​​direction du nord ! »\] ne détruis pas le monde matériel de la justice [^38] !" <span id="p445"><sup><small>[ p. 445 ]</small></sup></span> 119\. « Au premier trou, l'homme se libère du _démon de_ corruption, \[c'est-à-dire qu'il s'éloignera un peu de son corps, comme un troupeau lorsqu'on le disperse.\]
 
-120\. '_Alors ces mots doivent être murmurés par toi, etc._ \[_comme dans_ § 33-118. _Au_\] _deuxième_ \[_trou, etc., comme dans_ § 119. _Et la même routine doit être suivie aux_\] _troisième, quatrième, cinquième et sixième_ \[_trous_\] [^39].
+120\. « _Alors ces mots doivent être murmurés par toi, etc._ \[_comme dans_ § 33-118. _Au_\] _deuxième_ \[_trou, etc., comme dans_ § 119. _Et la même routine doit être suivie aux_\] _troisième, quatrième, cinquième et sixième_ \[_trous_\] [^39].
 
 « Ensuite, il s'assiéra - celui qui a été près du mort - dans l'enceinte (sit<i>r</i>â.) des trous [^40], à l'exception de ces trous \[qui sont pour l'urine de taureau\]. 121. Autant de celui \[des précédents _pour l'urine de taureau\] que quatre largeurs de doigt_ [^41]. 12 2. Ils creuseront également ces fouilles complètes de cette terre, \[ils devraient bien accomplir cela.\] 123. Ils gratteront ensemble quinze poignées de terre, \[afin qu'ils délogent complètement l'humidité purement.\] [^42] 124. Et ils resteront à proximité pendant toute la _période_ à partir de ce _temps_ jusqu'au moment_ où les cheveux sur sa tête deviendront secs, (125) _et_ jusqu'au moment_ où la terre humide sur son corps deviendra sèche.
 
-126\. « Alors celui qui a fréquenté les morts se rendra aux abords des autres trous \[qui sont destinés à l'eau\]. » 127. Au premier trou, il purifiera son corps une fois avec de l'eau. 128. Au deuxième trou, il purifiera son corps deux fois avec de l'eau. 129. Au troisième trou, il purifiera son corps trois fois avec de l'eau.
+126\. « Alors celui qui a fréquenté les morts se rendra aux abords des autres trous \[qui sont destinés à l'eau\]. » 127. Au premier trou, il purifiera son corps une fois avec de l'eau. 128. Au deuxième <span id="p446"><sup><small>[ p. 446 ]</small></sup></span> trou, il purifiera son corps deux fois avec de l'eau. 129. Au troisième trou, il purifiera son corps trois fois avec de l'eau.
 
-130\. 'Ensuite, celui qui est parfumé à la sandaraque (râsnŏ) [^43], au benjoin, à l'aloès [^44], ou à toute autre plante des plus odorantes, (131) mettra alors ses vêtements. 132. Alors celui qui a été près du mort viendra à cette approche, l'approche de sa demeure [^45].'
+130\. « Ensuite, celui qui est parfumé à la sandaraque (râsnŏ) [^43], au benjoin, à l'aloès [^44], ou à toute autre plante des plus odorantes, (131) mettra alors ses vêtements. 132. Alors celui qui a été près du mort viendra à cette approche, l'approche de sa demeure [^45]. »
 
 \[<i>a</i>. Les vêtements sont toujours _nettoyés_ par le Khshvash-m<i>a</i>unghô (« le _processus_ de six mois ») [^46].
 
@@ -209,7 +209,7 @@ D, endroit pour recueillir quinze poignées de poussière pour sécher le corps.
 
 <i>m</i>. Et, après cela, il doit aller aux trous pour chercher de l'eau ; les différents moments avec de l'eau sont exactement comme les différents trous pour l'urine de taureau, sauf qu'il retient le chien ; le chien, lui aussi, travaille pour _lui_ à l'intérieur.
 
-<i>n</i>. Lorsqu'il en cherche, on doit la réchauffer complètement pour lui ; lorsqu'il en a faim, on doit lui donner du pain ; lorsqu'il est nécessaire de faire de l'eau, on doit lui en apporter ; lorsque, faute de forces (vad zôrîh), il est incapable de se laver, on doit s'asseoir avec lui à l'intérieur ; lorsqu'il est juste [^76] lavé, il doit se mettre en position, il doit prononcer la prière intérieure, et la faire à nouveau, ses parties habituelles sont également lavées et doivent être considérées comme lavées.
+<i>n</i>. Lorsqu'il en cherche, on doit [^75] la réchauffer complètement pour lui ; lorsqu'il en a faim, on doit lui donner du pain ; lorsqu'il est nécessaire de faire de l'eau, on doit lui en apporter ; lorsque, faute de forces (vad zôrîh), il est incapable de se laver, on doit s'asseoir avec lui à l'intérieur ; lorsqu'il est juste [^76] lavé, il doit se mettre en position, il doit prononcer la prière intérieure, et la faire à nouveau, ses parties habituelles sont également lavées et doivent être considérées comme lavées.
 
 <i>o</i>. Lorsqu'il persiste pendant trois lavages [^77], bien que non pur, ce n'est pas inconvenant ; lorsqu'il n'atteint pas trois lavages, ce n'est pas convenable ; lorsque l'enceinte ne doit pas être formée au nord [^78], ce n'est pas convenable ; lorsqu'on ne célèbre pas le service de Vendidâ<i>d</i> [^79], ce n'est pas convenable.
 
@@ -223,7 +223,7 @@ D, endroit pour recueillir quinze poignées de poussière pour sécher le corps.
 
 <i>s</i>. Lorsqu'il verra quelque chose d'impur dans le trou, ce n'est pas convenable ; lorsqu'on fera pleuvoir de l'urine de taureau dans un trou, ce n'est pas convenable ; lorsque la nuit viendra sur lui, ce n'est pas convenable ; lorsqu'en toute chose il y a convenance, mais que sur une chose le doute surgit, c'est à cause de cette convenance que ce n'est pas convenable.
 
-133\. '_Il_ [^83] doit s'asseoir dans le lieu retiré (armê<i>s</i>tânŏ) [^84], dans l'enceinte (sit<i>r</i>â) de _sa_ demeure, à l'écart des autres adorateurs de Ma<i>z</i><i>d</i>a. 134. Il ne s'approchera pas avec autorisation du feu, ni de l'eau, ni de la terre, ni des animaux, ni des plantes, ni d'un homme juste, ni d'une <span id="p453"><sup><small>[ p. 453 ]</small></sup></span> femme juste, (135) à partir de ce _moment_, jusqu'au moment_ où ses trois nuits seront entièrement écoulées.
+133\. « _Il_ [^83] doit s'asseoir dans le lieu retiré (armê<i>s</i>tânŏ) [^84], dans l'enceinte (sit<i>r</i>â) de _sa_ demeure, à l'écart des autres adorateurs de Ma<i>z</i><i>d</i>a. 134. Il ne s'approchera pas avec autorisation du feu, ni de l'eau, ni de la terre, ni des animaux, ni des plantes, ni d'un homme juste, ni d'une <span id="p453"><sup><small>[ p. 453 ]</small></sup></span> femme juste, (135) à partir de ce _moment_, jusqu'au moment_ où ses trois nuits seront entièrement écoulées.
 
 136\. Après ces trois nuits, il se lavera le corps et ses vêtements seront purifiés, par exemple avec de l'urine de taureau et de l'eau. 137. Il s'assiéra dans un lieu retiré, dans l'enceinte de sa demeure, à l'écart des autres adorateurs de Ma<i>z</i><i>d</i>a. 138. Il ne viendra pas avec l'autorisation de faire du feu, etc. [comme il a été écrit au § 134] (139) à partir de ce moment-là, jusqu'au moment où ses six nuits seront entièrement écoulées.
 

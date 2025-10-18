@@ -32,7 +32,9 @@ dateCreated: 2025-10-6T9:44:6Z
   </table>
 </figure>
 
-<span id="p114"><sup><small>[ p. 114 ]</small></sup></span> p. 115
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
+
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 ## <i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR, OR THE DOUBT-DISPELLING EXPLANATION.
 

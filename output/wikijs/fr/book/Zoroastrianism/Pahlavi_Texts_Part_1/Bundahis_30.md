@@ -51,7 +51,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 20\. Alors tous les hommes passeront dans ce métal fondu et deviendront purs ; quand quelqu'un est juste, il lui semble alors qu'il marche continuellement dans du lait chaud ; mais quand il est méchant, il lui semble alors, de la même manière, que, dans le monde, il marche continuellement dans du métal fondu.
 
-21\. Ensuite, avec la plus grande affection, tous les hommes se rassemblent, père, fils, frère et ami, se demandant ainsi : « Où sont passées ces années, et quel a été le jugement sur ton âme ? As-tu été juste ou méchant ? » 22. La première âme que le corps voit, il l'interroge avec ces mots (gûft). 23. Tous les hommes s'unissent et louent bruyamment Aûharmazd et les archanges.
+21\. Ensuite, avec la plus grande affection, tous les hommes se rassemblent, père, fils, frère et ami, se demandant ainsi : « Où sont [^23] passées ces années, et quel a été le jugement sur ton âme ? As-tu été juste ou méchant ? » 22. La première âme que le corps voit, il l'interroge avec ces mots (gûft). 23. Tous les hommes s'unissent et louent bruyamment Aûharmazd et les archanges.
 
 24\. Aûharmazd achève _son travail_ à ce moment-là, _et_ les créatures deviennent telles qu'il n'est plus nécessaire de faire aucun effort à leur sujet ; _et_ parmi ceux par qui les morts sont préparés, il n'est pas nécessaire de faire aucun effort. 25. Sôshyans, avec ses assistants, accomplit une _cérémonie_ de Ya<i>z</i>i<i>s</i>n pour préparer les morts, _et_ ils égorgent le bœuf Hadhayôs [^24] dans ce Ya<i>z</i>i<i>s</i>n ; de la graisse de ce bœuf et du Hôm blanc [^25] ils préparent Hûsh, _et_ le donnent à tous les hommes, et tous les hommes deviennent immortels pour toujours _et_ éternellement. 26. Ceci, aussi, est-il dit, que quiconque a eu la taille d'un homme, ils le restaurent alors avec un âge de quarante ans ; ceux qui étaient petits avant d'être morts, ils les rétablissent alors à l'âge de quinze ans ; et ils donnent à chacun sa femme, et <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> lui montrent ses enfants avec la femme ; ainsi ils agissent comme maintenant dans le monde, mais il n'y a pas de procréation d'enfants.
 
@@ -100,7 +100,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^5]: (121:3) Voir chap. XI, 6, X XXII, 8, Bahman Yt. III, 62.
 
-[^6]: (121:4) Comparez (Vend. V, 26) 'l'eau le porte vers le haut, l'eau le porte vers le bas, l'eau le jette au loin.'
+[^6]: (121:4) Comparez (Vend. V, 26) 'l'eau le porte vers le haut, l'eau le porte vers le bas, l'eau le jette au loin. »
 
 [^7]: (121:5) Comparer Mkh. IX, 7.
 

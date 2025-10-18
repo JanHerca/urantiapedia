@@ -33,7 +33,9 @@ dateCreated: 2025-10-10T14:56:50Z
 </figure>
 <br>
 
-<span id="pxlvi"><sup><small>[ p. xlvi ]</small></sup></span> p. xlvii
+<span id="pxlvi"><sup><small>[ p. xlvi ]</small></sup></span>
+
+<span id="pxlvii"><sup><small>[ p. xlvii ]</small></sup></span>
 
 ## ABRÉVIATIONS UTILISÉES DANS CE VOLUME.
 

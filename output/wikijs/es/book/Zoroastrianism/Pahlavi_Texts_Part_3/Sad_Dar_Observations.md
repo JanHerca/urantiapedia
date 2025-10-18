@@ -33,7 +33,9 @@ dateCreated: 2025-10-10T14:41:36Z
 </figure>
 <br>
 
-<span id="p252"><sup><small>[ pág. 252 ]</small></sup></span> pág. 253
+<span id="p252"><sup><small>[ pág. 252 ]</small></sup></span>
+
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ## TRISTE DAR, O LOS CIEN SUJETOS.
 

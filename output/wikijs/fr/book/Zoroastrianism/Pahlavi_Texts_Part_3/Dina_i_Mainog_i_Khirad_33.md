@@ -70,4 +70,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^2]: (69:3) L19 a a<i>s</i>âgardân, « disciples ».
 
-[^3]: (69:4) Ou, 'par accident (hastânak).'
+[^3]: (69:4) Ou, 'par accident (hastânak). »

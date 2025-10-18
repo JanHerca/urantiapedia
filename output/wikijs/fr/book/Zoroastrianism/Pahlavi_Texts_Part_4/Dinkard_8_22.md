@@ -86,7 +86,7 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 [^3]: (79 : 1) Pahl. pâ<i>d</i>ŏ-khân = Pers. pâî'<i>h</i>vân.
 
-[^4]: (79:2) Pâz. vayôzu<i>s</i>t, Av. vayôzu<i>s</i>tô = dvayôzu<i>s</i>tô. Farh. Oîm, p. 43, ll. 10-12, a 'le Vayôzu<i>s</i>tô, qui est un juge, explique cela, de sorte que le requérant qui est dans le doute est un auditeur de certitude ; c'est, comme on dit, délibérément pesé.'
+[^4]: (79:2) Pâz. vayôzu<i>s</i>t, Av. vayôzu<i>s</i>tô = dvayôzu<i>s</i>tô. Farh. Oîm, p. 43, ll. 10-12, a 'le Vayôzu<i>s</i>tô, qui est un juge, explique cela, de sorte que le requérant qui est dans le doute est un auditeur de certitude ; c'est, comme on dit, délibérément pesé. »
 
 [^5]: (80:1) Voir Chap. XX, 68.
 

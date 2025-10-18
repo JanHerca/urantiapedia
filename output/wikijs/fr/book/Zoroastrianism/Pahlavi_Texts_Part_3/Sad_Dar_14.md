@@ -78,7 +78,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^4]: (275:4) B29 omet ces onze mots.
 
-[^5]: (275:5) Vend. XVII, 26-28:—'C'est à toi, ô oiseau Ashô-zu<i>s</i>ta ! que j'annonce ces clous, que j'introduis ces clous' (ou, selon les Pahlavi, « que je fais connaître ces clous, que je te fais connaître ces clous »); 'puissent ces clous être tels pour toi, ô oiseau Ashô-zu<i>s</i>ta ! que des lances et des couteaux, des arcs, des flèches à plumes de faucon et des pierres de fronde contre le démon Mâzainyas.'
+[^5]: (275:5) Vend. XVII, 26-28:—'C'est à toi, ô oiseau Ashô-zu<i>s</i>ta ! que j'annonce ces clous, que j'introduis ces clous' (ou, selon les Pahlavi, « que je fais connaître ces clous, que je te fais connaître ces clous »); 'puissent ces clous être tels pour toi, ô oiseau Ashô-zu<i>s</i>ta ! que des lances et des couteaux, des arcs, des flèches à plumes de faucon et des pierres de fronde contre le démon Mâzainyas. »
 
 [^6]: (275:6) Vas. XXXIII, 7b : — « Par la bonne pensée juste, par laquelle je suis entendu devant le puissant. »
 

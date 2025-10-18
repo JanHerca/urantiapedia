@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^2]: (43:2) Lecture âhûn khadûînŏ, mais il s'agit très probablement d'une corruption de khadûînŏ khadûînŏ, « _de_ diverses manières ».
 
-[^3]: (43:3) Les MSS. ont mûnam, 'qui est par moi.'
+[^3]: (43:3) Les MSS. ont mûnam, 'qui est par moi. »
 
 [^4]: (43:4) Les MSS. ont min madame, « d'en haut ».
 

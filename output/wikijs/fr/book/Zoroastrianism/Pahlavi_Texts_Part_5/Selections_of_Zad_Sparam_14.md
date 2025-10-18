@@ -80,11 +80,11 @@ dateCreated: 2025-10-10T14:57:1Z
 
 ## Notes de bas de page
 
-[^1]: (140:1) T a 'consommer (vi<i>d</i><i>â</i><i>z</i>ŏ).'
+[^1]: (140:1) T a 'consommer (vi<i>d</i><i>â</i><i>z</i>ŏ). »
 
 [^2]: (141:1) Comparez NSP. VII, II, 53-55.
 
-[^3]: (141:2) T a '_et_ tous les coopérateurs _qui_ étaient_ entrés dans son corps, et ceux de puissance égale _qui_ les avaient_ atteints, sont revenus impuissants.'
+[^3]: (141:2) T a '_et_ tous les coopérateurs _qui_ étaient_ entrés dans son corps, et ceux de puissance égale _qui_ les avaient_ atteints, sont revenus impuissants. »
 
 [^4]: (141:3) Ainsi résumé dans Dk. VIII; xiv, 2:—'Également à propos de l'arrivée des deux esprits, le bon _un_ pour le développement, et le mauvais _un_ pour la destruction; la victoire _du_ bon esprit, et l'éducation de Zaratû<i>s</i>t.' L'« éducation » se poursuit dans les chap. XV-XX.
 

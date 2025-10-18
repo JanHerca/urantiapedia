@@ -232,7 +232,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^10]: (393:3) This seems the most probable nominative to the verbs in this sentence, but it is by no means certain.
 
-[^11]: (394:1) See pp. [^396], [^401], [^416].
+[^11]: (394:1) See pp. 396, 401, 416.
 
 [^12]: (394:2) See Zs. V, 4.
 
@@ -252,7 +252,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^20]: (396:2) ‘Complete mindfulness’ is the usual Pahlavi explanation of Av. ârmaiti, ‘devotion,’ the latter component of the name Spenda<i>r</i>ma<i>d</i>.
 
-[^21]: (396:3) See pp. [^392], [^393].
+[^21]: (396:3) See pp. 392, 393.
 
 [^22]: (397:1) See Ep. I, iv, 17.
 
@@ -346,9 +346,9 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^67]: (411:4) See p. 402, note 1.
 
-[^68]: (412:1) See [^396], note 2.
+[^68]: (412:1) See 396, note 2.
 
-[^69]: (412:2) See [^400], note 1.
+[^69]: (412:2) See 400, note 1.
 
 [^70]: (412:3) See [384](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Appendix_2#p384), note 1.
 
@@ -360,7 +360,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^74]: (413:4) In a figurative sense.
 
-[^75]: (414:1) Another form of the word Khvetûk-das (see [p. 390](.)).
+[^75]: (414:1) Another form of the word Khvetûk-das (see [p. 390](#p390)).
 
 [^76]: (414:2) This is also stated in Sls. VII, 18.
 
@@ -402,7 +402,7 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^95]: (422:1) The Pahlavi text is imperfect.
 
-[^96]: (422:2) See [p. 421](.), note 1.
+[^96]: (422:2) See [p. 421](#p421), note 1.
 
 [^97]: (422:3) That is, the general law of Ma<i>z</i><i>d</i>a-worship, as distinguished from what he is advocating as a peculiarly religious law sanctioned p. 432 by the priests (‘the good’). This is evidently an admission that the practice advocated was contrary to the ordinary laws of Ma<i>z</i><i>d</i>a-worship itself.
 
@@ -430,6 +430,6 @@ That such marriages were not unusual among other races, in ancient times, we lea
 
 [^109]: (427:2) In Dk. III, lxxxii (see [p. 404](.)).
 
-[^110]: (428:1) See pp. [^415]\-423.
+[^110]: (428:1) See pp. 415-423.
 
 [^111]: (429:1) The oriental feeling of such a necessity, for the mere purpose of perpetuating the family, is abundantly manifested in the story of Lot‘s daughters (Gen. xix. 30-38), which is related without reproval by its writer. Also by the exceptional law requiring a man to marry his brother’s wife, when the brother has died childless (Deut. xxv. 5-10).

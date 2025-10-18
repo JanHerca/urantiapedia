@@ -35,7 +35,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## SAD DAR. CHAPITRE IX.
 
-1\. Le neuvième point est qu'il est nécessaire de s'abstenir de commettre ou de permettre des relations sexuelles contre nature [1]. 2. Car c'est là le principal de tous les péchés dans la religion : il n'y a pas de péché plus grave que celui-là dans la bonne religion, et il convient de déclarer ceux qui le commettent dignes de mort en réalité.
+1\. Le neuvième point est qu'il est nécessaire de s'abstenir de commettre ou de permettre des relations sexuelles contre nature [^1]. 2. Car c'est là le principal de tous les péchés dans la religion : il n'y a pas de péché plus grave que celui-là dans la bonne religion, et il convient de déclarer ceux qui le commettent dignes de mort en réalité.
 
 3\. Si quelqu'un s'avance vers eux et les voit en flagrant délit, et qu'il travaille avec une hache [^2], il lui est demandé de leur couper la tête ou de leur déchirer le ventre à tous les deux, et ce n'est pas un péché pour lui. 4. Mais il ne convient pas de tuer une personne sans l'autorisation des grands prêtres et des rois, sauf pour avoir commis ou permis des relations contre nature.
 

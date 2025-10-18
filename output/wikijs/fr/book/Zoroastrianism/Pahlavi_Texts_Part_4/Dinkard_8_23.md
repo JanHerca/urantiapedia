@@ -78,7 +78,7 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 ## Notes de bas de page
 
-[^1]: (81:1) Ou couvrant, '<i>g</i>âmakŏ.'
+[^1]: (81:1) Ou couvrant, '<i>g</i>âmakŏ. »
 
 [^2]: (82:1) Paix. pasîvãn pour pasûvãn (pl. de pasu).
 

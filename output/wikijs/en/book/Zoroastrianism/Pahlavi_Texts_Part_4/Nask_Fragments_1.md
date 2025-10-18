@@ -32,11 +32,15 @@ dateCreated: 2025-10-7T9:56:37Z
   </table>
 </figure>
 
-<span id="p448"><sup><small>[ p. 448 ]</small></sup></span> p. 449
+<span id="p448"><sup><small>[ p. 448 ]</small></sup></span>
+
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 ## NASK-FRAGMENTS THAT ARE STILL EXTANT.
 
-<span id="p450"><sup><small>[ p. 450 ]</small></sup></span> p. 451
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
+
+<span id="p451"><sup><small>[ p. 451 ]</small></sup></span>
 
 ## EXTANT FRAGMENTS [^1]. I. SÛ<i>D</i>KAR NASK [^2].
 

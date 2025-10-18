@@ -76,7 +76,7 @@ Paix et prospérité [^5].
 
 [^3]: (113:3) L19 n'a « aucun problème ni dépense nécessaires ».
 
-[^4]: (113:4) Cette réponse est fortement modifiée par Nêr. et se présente comme suit, dans L19 : — 'Souhaiter le bonheur à chacun ; (5) être reconnaissant envers les êtres sacrés et les bons ; (6) en toute situation et en tout temps considérer et garder en mémoire Aûha<i>r</i>ma<i>z</i><i>d</i>, en ce qui concerne la créativité, et Aharman, en ce qui concerne la destructivité ; (7) et être sans aucun doute quant à l'existence des êtres sacrés, à la religion et à l'âme, au ciel et au compte des trois jours, et à la réalité de la résurrection et de l'existence future. 8. Ceci, tout particulièrement, est la bonne œuvre qui est plus grande et meilleure, plus précieuse et plus avantageuse que toutes les bonnes œuvres, et aucune peine ni dépense n'y sont nécessaires.'
+[^4]: (113:4) Cette réponse est fortement modifiée par Nêr. et se présente comme suit, dans L19 : — 'Souhaiter le bonheur à chacun ; (5) être reconnaissant envers les êtres sacrés et les bons ; (6) en toute situation et en tout temps considérer et garder en mémoire Aûha<i>r</i>ma<i>z</i><i>d</i>, en ce qui concerne la créativité, et Aharman, en ce qui concerne la destructivité ; (7) et être sans aucun doute quant à l'existence des êtres sacrés, à la religion et à l'âme, au ciel et au compte des trois jours, et à la réalité de la résurrection et de l'existence future. 8. Ceci, tout particulièrement, est la bonne œuvre qui est plus grande et meilleure, plus précieuse et plus avantageuse que toutes les bonnes œuvres, et aucune peine ni dépense n'y sont nécessaires. »
   Le texte de toutes les versions s’arrête brusquement à ce point, sans aucune péroraison.
 
 [^5]: (113:5) Uniquement dans K43.

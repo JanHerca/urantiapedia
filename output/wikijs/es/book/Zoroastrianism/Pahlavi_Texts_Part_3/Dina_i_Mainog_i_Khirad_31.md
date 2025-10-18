@@ -39,7 +39,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «La función de los sacerdotes es mantener la religión correctamente; (5) y realizar las ceremonias e invocaciones de los seres sagrados con atención y esmero, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> (6) y [^2] los decretos, decisiones [^3], costumbres y control [^4], tal como lo revela la religión pura y buena de los adoradores de Ma<i>z</i><i>d</i>a. 7. Concientizar a la gente sobre la bondad de las buenas obras [^5]; (8) y mostrar el camino al cielo, el peligro y la forma de evitar el infierno.»
 
-9\. 'La tarea de los guerreros es derrotar al enemigo; (10) y mantener su propio país y tierra (bûm) [^6] tranquilos y sin alarma.
+9\. «La tarea de los guerreros es derrotar al enemigo; (10) y mantener su propio país y tierra (bûm) [^6] tranquilos y sin alarma.
 
 11\. «Y la tarea de los agricultores es realizar la labranza y el cultivo; (12) y, en la medida de su capacidad, mantener el mundo vigorizado y poblado.»
 

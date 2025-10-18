@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^3]: (261:2) Lp, B29 omet « entier ».
 
-[^4]: (261:3) Lp, B29 ont 'et son pied droit.'
+[^4]: (261:3) Lp, B29 ont 'et son pied droit. »
 
 [^5]: (261:4) Lp, B29 omet cette épithète.
 

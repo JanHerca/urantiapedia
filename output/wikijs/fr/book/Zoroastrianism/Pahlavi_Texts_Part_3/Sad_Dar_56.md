@@ -69,7 +69,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (317 : 1) Pahl. Vend. XVIII, 98.
 
-[^2]: (317:2) Lp, B29 ont 'qu'ils ne rendent pas l'évacuation de l'eau plus _que_.'
+[^2]: (317:2) Lp, B29 ont 'qu'ils ne rendent pas l'évacuation de l'eau plus _que_. »
 
 [^3]: (317 : 3) Voir Mkh. XXVII, 70 n.
 

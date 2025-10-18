@@ -81,7 +81,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 53\. Une _merveille_ est celle qui est déclarée, qu'après la combinaison de Zaratû<i>s</i>t dans le ventre de sa mère, les démons s'efforcèrent de nouveau merveilleusement <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> pour causer la mort de Zaratû<i>s</i>t dans le ventre de sa mère, et celle qui le porta fut rendue malade par eux par la plus vive des douleurs vives et afflictives, jusqu'à ce qu'elle veuille demander aux médecins sorciers un remède désirable. 54. Et ici se manifeste un grand prodige, comme le dit la révélation : « C'est alors qu'une voix de leur part lui est portée depuis la région supérieure, d'Aûha<i>r</i>ma<i>z</i><i>d</i> et des archanges, ainsi : « Toi, jeune fille qui vas là ! N'y va pas, car tout ce qui leur appartient est une destruction par les soins des sorciers. Pour la santé, lave-toi soigneusement les mains, et ces mains prendront du bois, et dessus tu offriras de la viande pour l'enfant, tu offriras du beurre de vache au feu pour lui ; tu le chaufferas également au feu pour lui, et tu le boiras (pâîmês) au moment opportun pour lui, et tu seras guérie. » 55. Alors, aussitôt, la jeune fille se lava soigneusement les mains, et fit exactement comme elle avait dit. entendu, et fut guéri [^38].
 
-56\. Une _merveille_ est celle qui se manifeste à la multitude lorsque trois jours restèrent avant sa venue [^39] _au-devant_ ; à la manière du soleil, à l'approche de son lever, lorsque son premier crépuscule se diffuse, _son_ corps est alors annoncé comme le dit la révélation : « C'est alors, lorsque dans ces trois dernières nuits pendant lesquelles Zaratûst était dans le ventre maternel, où il subsista encore trois jours jusqu'à sa naissance, que le village de Pôrûshâspô devint tout lumineux. 57. Alors les propriétaires de chevaux et de bétail des Spîtâmas, en s'enfuyant, parlèrent ainsi : « Il faut être pardonné ; le village de Pôrûshâspô, sur lequel <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> le feu [^41] est dans chaque crevasse, est troublé par la confusion [^42]. » 58. Puis, courant de nouveau ensemble, ils dirent : « Ce n'est pas entièrement pardonné pour le village de Pôrûshâspô ; le feu est sur lui dans chaque crevasse _et_ il est troublé par la confusion ; pour lui est né, dans sa maison, un brillant enfant mâle. »
+56\. Une _merveille_ est celle qui se manifeste à la multitude lorsque trois jours restèrent avant sa venue [^39] _au-devant_ ; à la manière du soleil, à l'approche de son lever, lorsque son premier crépuscule se diffuse, _son_ corps est alors annoncé comme le dit la révélation : « C'est alors, lorsque dans ces trois dernières nuits pendant lesquelles Zaratûst était dans le ventre maternel, où il subsista encore trois jours jusqu'à sa naissance, que le village de Pôrûshâspô devint tout lumineux. 57. Alors les propriétaires de chevaux et de bétail des Spîtâmas, en s'enfuyant, parlèrent ainsi : « Il faut être pardonné [^40]; le village de Pôrûshâspô, sur lequel <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> le feu [^41] est dans chaque crevasse, est troublé par la confusion [^42]. » 58. Puis, courant de nouveau ensemble, ils dirent : « Ce n'est pas entièrement pardonné pour le village de Pôrûshâspô ; le feu est sur lui dans chaque crevasse _et_ il est troublé par la confusion ; pour lui est né, dans sa maison, un brillant enfant mâle. »
 
 59\. Ceci aussi est une merveille, lorsque le récit de la merveilleuse naissance de cet enfant mâle et de sa grande gloire est dû aux déclarations de Yim et d'autres, brillants dans la poursuite de la destinée qui leur avait été donnée par les êtres sacrés. 60. Où Yim parla ainsi aux démons : « Ici-bas naîtra le pur et juste Zaratûs, qui suscitera pour vous, démons, cette absence d'intercession qui vous est préparée (c'est-à-dire qu'il suscitera pour vous une inactivité réelle et harassante, une absence d'intercession telle que vous ne pourrez pas prier pour vous-mêmes, et que personne ne prie pour vous). »
 
@@ -124,7 +124,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^2]: (17:2) Le contenu de ce chapitre est ainsi mentionné dans le résumé du Spend Nask (Dk. VIII, xiv, 1 dans SBE, vol. xxxvii, p. 31) : « Le Spend contient des détails sur l'origine et la combinaison de l'existence matérielle, de l'esprit gardien et de l'âme (ou gloire) de Zaratûst ; comment la création de chacun s'est produite dans l'existence spirituelle et de quelle manière elle a été produite pour l'existence terrestre ; comment leur connexion avec les parents est née, la réunion des parents, la combinaison dans la mère et la naissance de la mère ; et tout ce qui concerne le même sujet. »
 
-[^3]: (17:3) L'auteur utilise deux mots arabes : « mâ<i>d</i>îyâtŏ-i  »<i>h</i>alqŏ.'
+[^3]: (17:3) L'auteur utilise deux mots arabes : « mâ<i>d</i>îyâtŏ-i  »<i>h</i>alqŏ. »
 
 [^4]: (18:1) Perplexe devant les répétitions, un copiste a manifestement omis cette phrase par erreur.
 
@@ -186,11 +186,11 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^33]: (28:3) Le mélange du lait avec du Hôm pilé constitue toujours une partie du cérémonial parsi ; voir Haug's Essays, 3e éd., p. 405.
 
-[^34]: (28:4) Pahl. 'ko<i>l</i>â 2 lâlâ fratûm vapdî<i>d</i>ŏ hav<i>â</i>nd.'
+[^34]: (28:4) Pahl. 'ko<i>l</i>â 2 lâlâ fratûm vapdî<i>d</i>ŏ hav<i>â</i>nd. »
 
 [^35]: (29:1) Lecture anâg, mais cela peut être destiné à hanâ = aê, « O ».
 
-[^36]: (29 : 2) Prov. '<i>a</i>fshân madame hâr s<i>u</i>ftŏ, aêghshânŏ pavan akôsh fr<i>â</i>z va<i>îdûntô.'
+[^36]: (29 : 2) Prov. '<i>a</i>fshân madame hâr s<i>u</i>ftŏ, aêghshânŏ pavan akôsh fr<i>â</i>z va<i>îdûntô. »
 
 [^37]: (29:3) De toute évidence un vieux proverbe, impliquant une détermination fixe quelle que soit la catastrophe qui peut survenir, même si les ancêtres de la onzième ou douzième génération apparaissent. Nô<i>d</i>ar (Av. Naotara) était un fils du roi Mânû<i>s</i><i>k</i>îhar (Bd. XXXI, 13, 23), et Râk était un neveu de Nô<i>d</i>ar (Bd. XXXI, 31), sans doute le même que Ra<i>g</i>an (Bd. XXXII, 1; XXXIII, 3) qui semble être une mauvaise lecture Pâzand d'Aîri<i>k</i>ŏ, ou Êri<i>k</i>ŏ, voir Zs. XVI, 11-13, et comparer les généalogies au chap. II, 70 et Zs. XIII, 6. Le proverbe est repris au chap. III, 19, et les noms sont mentionnés au III, 39.
 

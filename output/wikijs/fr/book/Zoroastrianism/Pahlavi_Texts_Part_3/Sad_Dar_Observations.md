@@ -33,7 +33,9 @@ dateCreated: 2025-10-10T14:56:50Z
 </figure>
 <br>
 
-<span id="p252"><sup><small>[ p. 252 ]</small></sup></span> p. 253
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
+
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ## SAD DAR, OU LES CENT SUJETS.
 

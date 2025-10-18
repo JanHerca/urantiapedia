@@ -124,7 +124,7 @@ dateCreated: 2025-10-10T14:41:50Z
 
 [^2]: (17:2) El contenido de este capítulo se menciona así en el resumen del Spend Nask (Dk. VIII, xiv, 1 en SBE, vol. xxxvii, pág. 31):—«El Spend _contiene_ detalles sobre el origen _y_ combinación de la _existencia_ material, espíritu guardián, _y_ alma (o gloria) de Zaratû<i>s</i>t; cómo la creación de cada uno _ocurrió_ en la _existencia_ espiritual, y _en_ ​​qué modo _se_ produjo para la _existencia_ mundana; cómo _surgió_ su conexión con los padres, la llegada de los padres juntos, la combinación en la madre, y el nacimiento de la madre; _y_ todo lo que sea sobre el mismo tema.»
 
-[^3]: (17:3) El escritor utiliza dos palabras árabes: «mâ<i>d</i>îyâtŏ-i »<i>h</i>alqŏ.'
+[^3]: (17:3) El escritor utiliza dos palabras árabes: «mâ<i>d</i>îyâtŏ-i »<i>h</i>alqŏ.»
 
 [^4]: (18:1) Perplejo por las repeticiones, algún copista evidentemente ha omitido esta frase por error.
 

@@ -105,7 +105,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^15]: (347:3) Le terme vîdak est appliqué aux sections ou chapitres de l'Avesta dans Dd. XLVII, 1, 5, 6, LXVI, 4 ; et ici il doit être appliqué à l'Avesta de Vend. VIII ou IX, auquel les interprétations erronées de. Zâ<i>d</i>\-sparam se référaient spécialement.
 
-[^16]: (347:4) J a '_et_ ainsi donné un témoignage similaire, qui est écrit par eux d'un prêtre de votre renommée, et écrit par eux à moi.'
+[^16]: (347:4) J a '_et_ ainsi donné un témoignage similaire, qui est écrit par eux d'un prêtre de votre renommée, et écrit par eux à moi. »
 
 [^17]: (347:5) La diminution de leurs moyens de subsistance par la diminution des ablutions rituelles, plus que leur appréhension du caractère pécheur d'une telle diminution.
 

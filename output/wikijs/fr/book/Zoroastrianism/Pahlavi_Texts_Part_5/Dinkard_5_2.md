@@ -102,7 +102,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^11]: (124:1) NSP. VII, IV, 65, 71.
 
-[^12]: (124:2) B a 'et les séparatistes démoniaques (va-shêdâ-gvî<i>d</i>akân).'
+[^12]: (124:2) B a 'et les séparatistes démoniaques (va-shêdâ-gvî<i>d</i>akân). »
 
 [^13]: (124:3) NSP. VII, IV, 72.
 

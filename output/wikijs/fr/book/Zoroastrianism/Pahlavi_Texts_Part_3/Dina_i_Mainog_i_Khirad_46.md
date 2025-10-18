@@ -37,7 +37,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Quelle est l'oppression [^1], à l'égard des hommes, qu'Aharman considère comme la plus nuisible et la plus grande ? »
 
-3\. L'esprit de sagesse répondit (4) ainsi : Aharman, lorsqu'il arrache aux hommes la vie, la femme, les enfants et le bonheur terrestre de toute sorte, ne considère pas, à cet égard, qu'il inflige à cette personne un préjudice quelconque ; (5) mais lorsqu'il arrache l'âme d'un seul individu et la rend complètement dépravée, il considère alors, à cet égard, qu'« un préjudice complet serait ainsi infligé par moi », car cela est fait par sa propre dépravation de désir et d'action [^2].'
+3\. L'esprit de sagesse répondit (4) ainsi : Aharman, lorsqu'il arrache aux hommes la vie, la femme, les enfants et le bonheur terrestre de toute sorte, ne considère pas, à cet égard, qu'il inflige à cette personne un préjudice quelconque ; (5) mais lorsqu'il arrache l'âme d'un seul individu et la rend complètement dépravée, il considère alors, à cet égard, qu'« un préjudice complet serait ainsi infligé par moi », car cela est fait par sa propre dépravation de désir et d'action [^2]. »
 
 <figure class="table chapter-navigator">
   <table>

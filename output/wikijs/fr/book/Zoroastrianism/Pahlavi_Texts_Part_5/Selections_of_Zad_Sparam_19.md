@@ -74,7 +74,7 @@ dateCreated: 2025-10-10T14:57:1Z
 
 [^1]: (150:1) Ainsi orthographié en Zs., mais Dûrâsrôbô en Dk. ; le premier a aussi toujours Pôrûshaspô, mais le second Pôrûshâspô. Comparer la même légende dans Dk. VII, iii, 34-45.
 
-[^2]: (150:2) Pahl. 'val<i>â</i> aê y<i>a</i><i>z</i>ê<i>d</i>ŏ, <i>a</i>fê<i>d</i> vâ<i>g</i> dahi<i>s</i>nŏ.'
+[^2]: (150:2) Pahl. 'val<i>â</i> aê y<i>a</i><i>z</i>ê<i>d</i>ŏ, <i>a</i>fê<i>d</i> vâ<i>g</i> dahi<i>s</i>nŏ. »
 
 [^3]: (150:3) Ou « intérieurement »
 

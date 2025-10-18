@@ -138,6 +138,6 @@ _Au_ nom des êtres sacrés.
 
 [^19]: (365:2) Le troisième mois de l'année Parsi 250, qui correspondait à l'intervalle entre le 14 juin et le 13 juillet, 88 r.
 
-[^20]: (365:3) Lecture min, comme dans Ep. II, ix, 14, au lieu de mûn, 'qui.'
+[^20]: (365:3) Lecture min, comme dans Ep. II, ix, 14, au lieu de mûn, 'qui. »
 
 [^21]: (366:1) Comparer Dd. XCIV, 14, Ep. II, ix, 15. Cette épître est suivie, en K35, des Sélections de Zâ<i>d</i>\-sparam, dont la première partie est traduite dans le cinquième volume des Livres Sacrés de l'Orient.

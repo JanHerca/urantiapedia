@@ -164,6 +164,6 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^43]: (52:1) Sans doute « un faucon » (Pers. vâ<i>s</i>ah ou bâ<i>s</i>ah), comme mentionné par Justi ; Av. vâre deviendrait vâ ou bâ en persan.
 
-[^44]: (52 : 2) Comparez gûrîk avec Pers. varik, varkâ, varkâk, varkak, vargâh, 'un aigle, un faucon, un cerf-volant ou un faucon.'
+[^44]: (52 : 2) Comparez gûrîk avec Pers. varik, varkâ, varkâk, varkak, vargâh, 'un aigle, un faucon, un cerf-volant ou un faucon. »
 
 [^45]: (52:3) En transcrivant le Pâz. varpa êyi en Pahlavi, nous avons varpak-aê, qui est presque de la même forme que varî<i>k</i>ak-aê, « une hutte ou une chaumière » (Pers. gurî<i>k</i>ah-ê) ; ainsi l'oiseau redoutable que l'esprit maléfique aurait pu créer était « un cerf-volant avec un corps comme une chaumière ».

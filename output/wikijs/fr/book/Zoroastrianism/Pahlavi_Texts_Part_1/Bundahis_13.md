@@ -94,7 +94,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^12]: (43:5) Lecture band ; mais cela peut être bôd, « conscience, sensibilité ».
 
-[^13]: (44:1) Voir [p. 43](.), note [^5].
+[^13]: (44:1) Voir [p. 43](.), note 5.
 
 [^14]: (44:2) Voir Chap. II, 7.
 

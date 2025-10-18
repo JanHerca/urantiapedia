@@ -39,9 +39,9 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. El espíritu de sabiduría respondió (7) así: «Los vicios de los sacerdotes son la herejía, la codicia, la negligencia, <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> el tráfico de bienes (sû<i>d</i>akîh) [^2], la atención a las nimiedades y la incredulidad en la religión.»
 
-8\. 'Los vicios de los guerreros son la opresión, la violencia, el incumplimiento de promesas, la crueldad (an-a<i>v</i>ôkhshâgâ-vandîh), la ostentación (dakhshîh) [^3], la altanería y la arrogancia.
+8\. «Los vicios de los guerreros son la opresión, la violencia, el incumplimiento de promesas, la crueldad (an-a<i>v</i>ôkhshâgâ-vandîh), la ostentación (dakhshîh) [^3], la altanería y la arrogancia.
 
-9\. 'Los vicios de los agricultores son la ignorancia, la envidia, la mala voluntad y la malicia.
+9\. «Los vicios de los agricultores son la ignorancia, la envidia, la mala voluntad y la malicia.
 
 10\. «_Y_ los vicios de los artesanos son la incredulidad, la falta de acción de gracias, la murmuración indebida de oraciones, el mal humor y el abuso.»
 

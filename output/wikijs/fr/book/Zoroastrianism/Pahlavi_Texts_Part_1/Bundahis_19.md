@@ -39,7 +39,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 <span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
-8\. Quand cet âne tiendra son cou dans l'océan, ses oreilles terrifieront (asahmê<i>d</i>), et toute l'eau du vaste océan tremblera d'agitation, et le flanc de Ganâva<i>d</i> [^8] tremblera (shîvanê<i>d</i>). 9. Lorsqu'il poussera un cri, toutes les créatures aquatiques femelles, parmi les créatures d'Aûharmazd, deviendront enceintes ; et toutes les créatures aquatiques nuisibles enceintes, lorsqu'elles entendront ce cri, mettront bas. 10. Lorsqu'il stagnera dans l'océan, toute l'eau de mer sera purifiée, ce qui est le cas dans les sept régions de la terre — c'est même pour cette raison que tous les ânes qui viennent dans l'eau stagnent dans l'eau — comme il est dit ainsi : « Si, ô âne à trois pattes ! 'Vous n'avez pas été créés pour l'eau, toute l'eau de la mer aurait péri à cause de la contamination que le poison de l'esprit maléfique a apportée dans ses eaux, par la mort des créatures d'Aûharmazd.'
+8\. Quand cet âne tiendra son cou dans l'océan, ses oreilles terrifieront (asahmê<i>d</i>), et toute l'eau du vaste océan tremblera d'agitation, et le flanc de Ganâva<i>d</i> [^8] tremblera (shîvanê<i>d</i>). 9. Lorsqu'il poussera un cri, toutes les créatures aquatiques femelles, parmi les créatures d'Aûharmazd, deviendront enceintes ; et toutes les créatures aquatiques nuisibles enceintes, lorsqu'elles entendront ce cri, mettront bas. 10. Lorsqu'il stagnera dans l'océan, toute l'eau de mer sera purifiée, ce qui est le cas dans les sept régions de la terre — c'est même pour cette raison que tous les ânes qui viennent dans l'eau stagnent dans l'eau — comme il est dit ainsi : « Si, ô âne à trois pattes ! 'Vous n'avez pas été créés pour l'eau, toute l'eau de la mer aurait péri à cause de la contamination que le poison de l'esprit maléfique a apportée dans ses eaux, par la mort des créatures d'Aûharmazd. »
 
 11\. Tî<i>s</i>tar saisit l'eau [^9] plus complètement de l'océan avec l'aide de l'âne à trois pattes. 12. De l'ambre gris aussi (ambar-i<i>k</i>) _on_ déclare que c'est la fiente de l'âne à trois pattes ; car s'il a beaucoup de nourriture spirituelle, alors aussi l'humidité de la nourriture liquide passe par les veines _apparentant_ au corps dans l'urine, _et_ la fiente est rejetée.
 
@@ -122,7 +122,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^14]: (70:3) Ou, « à une assemblée ».
 
-[^15]: (70:4) L'Av. Bere<i>g</i>ya de Yas. I, 21, II, 27, III, 35, 'un esprit coopérant avec l'Ushahina Gâh, qui provoque l'augmentation des troupeaux et du blé.'
+[^15]: (70:4) L'Av. Bere<i>g</i>ya de Yas. I, 21, II, 27, III, 35, 'un esprit coopérant avec l'Ushahina Gâh, qui provoque l'augmentation des troupeaux et du blé. »
 
 [^16]: (70:5) Ou, « du district d'Arag » (voir la note sur le chap. XII, 23). Bien qu'aucun lac Arag ne soit décrit au chap. XXII, certaines épithètes se référant à son équivalent avestaïste Rangha s'appliquent plus à un lac qu'à une rivière, comme dans Bahrâm Yt. 29. Il est possible que les basses terres entre la Caspienne et l'Aral, ou sur les rives de la Caspienne, soient visées.
 

@@ -43,13 +43,13 @@ Dk. IX, chap. X LVII-XLIX, décrivent le contenu des trois premiers fargard<i>d<
 
 Le début de l'Ahunavair des Bakân [^2].
 
-1\. Zaratû<i>s</i>t interrogea ainsi Aûha<i>r</i>ma<i>z</i><i>d</i> : « Ô Aûha<i>r</i>ma<i>z</i><i>d</i>, [^3] esprit propice, créateur du monde des existences incarnées, _et_ juste [^4] ! (2) quelles étaient ces paroles, ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! qui _furent_ prononcées par toi pour moi, (3) devant le ciel, devant l'eau, devant la terre, devant le bétail (bien productif), devant les plantes, devant le feu qui est le <span id="p454"><sup><small>[ p. 454 ]</small></sup></span> fils, devant l'homme juste (Gâyômar<i>d</i>), devant les démons, (qui restent) des créatures nocives [^5], et l'humanité, devant toute existence incarnée (la création de la souveraineté), _et_ devant toute l'excellence créée par Aûha<i>r</i>ma<i>z</i><i>d</i>, (qui est due à) la manifestation de la justice ?'
+1\. Zaratû<i>s</i>t interrogea ainsi Aûha<i>r</i>ma<i>z</i><i>d</i> : « Ô Aûha<i>r</i>ma<i>z</i><i>d</i>, [^3] esprit propice, créateur du monde des existences incarnées, _et_ juste [^4] ! (2) quelles étaient ces paroles, ô Aûha<i>r</i>ma<i>z</i><i>d</i> ! qui _furent_ prononcées par toi pour moi, (3) devant le ciel, devant l'eau, devant la terre, devant le bétail (bien productif), devant les plantes, devant le feu qui est le <span id="p454"><sup><small>[ p. 454 ]</small></sup></span> fils, devant l'homme juste (Gâyômar<i>d</i>), devant les démons, (qui restent) des créatures nocives [^5], et l'humanité, devant toute existence incarnée (la création de la souveraineté), _et_ devant toute l'excellence créée par Aûha<i>r</i>ma<i>z</i><i>d</i>, (qui est due à) la manifestation de la justice ? »
 
 4\. Et Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « C'était la répartition des Ahunavair, <i>Ô Spîtâmân Zaratû<i>s</i>t ! (cet esprit qui voulait rendre la religion courante, qui a formé cette religion à partir des Ahunavair) qui a été prononcée par moi pour toi ; (5) (c'est-à-dire) devant le ciel, (_&c., comme au § 3).
 
 6\. Quiconque chante cette répartition de l'Ahunavair, ô Spîtâmân Zaratû ! sans parler (c'est-à-dire qu'il ne parle pas au milieu d'aucun de ses Avesta difficiles [^6]) et non sans anxiété (de peur de s'endormir), (7) est comme cent au-dessus de toute autre autorité de celles des Gâthas, quand on les chante sans parler, ou non sans anxiété [^7] ; (ainsi cela devient _approprié_ au cérémonial). 8. Quiconque le chante en parlant, ou sans anxiété, (ainsi cela devient _approprié_ au cérémonial), est comme dix au-dessus de toute autre autorité de celles des Gâthas.
 
-9\. « Quiconque dans cette existence incarnée qui est la mienne, <i>Ô Spîtâmân Zaratû<i>s</i>t!, se souvient de la répartition de <span id="p455"><sup><small>[ p. 455 ]</small></sup></span> l'Ahunavair, (c'est-à-dire, le cherche), et, de plus, marmonne ce dont il se souvient, (c'est-à-dire, l'accomplira facilement), et, de plus, chante ce qu'il marmonne, (c'est-à-dire, comprend pleinement son rituel), et, de plus, révère ce qui est chanté, (c'est-à-dire, célébrera la cérémonie), (10) son âme je passe à la meilleure existence, trois fois par le pont <i>K</i>inva<i>d</i>, moi qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, (c'est-à-dire, en ce jour où il accomplira fidèlement [^8] la cérémonie, elle conduira [^9] son ​​âme trois fois dans _le monde_ là-bas, et y apportera [^9] son ​​bonheur) (11) à la meilleure existence, la meilleure la justice et la meilleure lumière. 12. Et quiconque dans mon existence incarnée, ô Spîtâmân Zaratû ! murmure la répartition de l'Ahunavair, (c'est-à-dire, l'accomplira facilement,) _et_ laisse tomber [^10], (c'est-à-dire, coupe [^11]) (13) soit [^12] jusqu'à la moitié, ou jusqu'à un tiers, ou jusqu'à un quart, ou jusqu'à un cinquième, (à un cinquième, la fondation du péché est posée, à la moitié, elle devient tout à fait complète, et lorsqu'il coupera le tout, c'est un péché Tanâpûhar [^13],) (14) Je fais tournoyer [^14] loin de son âme, moi qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, de la meilleure existence, (c'est-à-dire que je voudrais l'éteindre ;) (15) à une telle étendue et une telle largeur est le tourbillonnement comme celui de cette terre, _et_ de même l'étendue de cette terre est autant que sa largeur.'
+9\. « Quiconque dans cette existence incarnée qui est la mienne, <i>Ô Spîtâmân Zaratû<i>s</i>t!, se souvient de la répartition de <span id="p455"><sup><small>[ p. 455 ]</small></sup></span> l'Ahunavair, (c'est-à-dire, le cherche), et, de plus, marmonne ce dont il se souvient, (c'est-à-dire, l'accomplira facilement), et, de plus, chante ce qu'il marmonne, (c'est-à-dire, comprend pleinement son rituel), et, de plus, révère ce qui est chanté, (c'est-à-dire, célébrera la cérémonie), (10) son âme je passe à la meilleure existence, trois fois par le pont <i>K</i>inva<i>d</i>, moi qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, (c'est-à-dire, en ce jour où il accomplira fidèlement [^8] la cérémonie, elle conduira [^9] son ​​âme trois fois dans _le monde_ là-bas, et y apportera [^9] son ​​bonheur) (11) à la meilleure existence, la meilleure la justice et la meilleure lumière. 12. Et quiconque dans mon existence incarnée, ô Spîtâmân Zaratû ! murmure la répartition de l'Ahunavair, (c'est-à-dire, l'accomplira facilement,) _et_ laisse tomber [^10], (c'est-à-dire, coupe [^11]) (13) soit [^12] jusqu'à la moitié, ou jusqu'à un tiers, ou jusqu'à un quart, ou jusqu'à un cinquième, (à un cinquième, la fondation du péché est posée, à la moitié, elle devient tout à fait complète, et lorsqu'il coupera le tout, c'est un péché Tanâpûhar [^13],) (14) Je fais tournoyer [^14] loin de son âme, moi qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, de la meilleure existence, (c'est-à-dire que je voudrais l'éteindre ;) (15) à une telle étendue et une telle largeur est le tourbillonnement comme celui de cette terre, _et_ de même l'étendue de cette terre est autant que sa largeur. »
 
 16\. Cette parole est proclamée (une révélation) possédant <span id="p456"><sup><small>[ p. 456 ]</small></sup></span> un Ahu _et_ possédant_ un Ratu, (d'où cela est manifeste, à savoir, la possession d'un dirigeant et d'un grand prêtre. 17. Ceci, aussi, est dit, qu'il était) avant que le ciel _ne soit_ créé, avant l'eau, avant la terre, avant les plantes, (18) avant la création du bœuf à quatre pattes (qui _était_ le bœuf unique créé), (19) avant la création de l'homme juste à deux pattes (qui _était_ Gâyômar<i>d</i>), (20) _et_ avant que ce soleil de forme définie (le corps du soleil) _ne soit_ créé comme une acquisition des archanges. 21. Il m'a été (de même) proclamé par la spiritualité de la propitiation, (il est également devenu possible pour la spiritualité de la propitiation de dire (22) _ce qui a été_ dit [^15] à Zaratû<i>s</i>t,) concernant toute l'existence matérielle des justes qui sont, qui ont été, et qui _se lèveront_, (23) quant au progrès de l'œuvre, (c'est-à-dire, pendant qu'ils accompliront pour elle ce qui est spécifié par elle, et que de bonnes œuvres surgiront par eux,) _que_ cette œuvre, parmi les vivants, est pour Aûha<i>r</i>ma<i>z</i><i>d</i>, (c'est-à-dire, ce qu'ils peuvent accomplir, convenant à Aûha<i>r</i>ma<i>z</i><i>d</i>, ils l'accompliront comme déclaré par ce fargard<i>d</i>).
 
@@ -83,7 +83,7 @@ Le début de la deuxième subdivision [^36].
 
 1\. Une parole du juste Zaratûst, à révérer, était : « Quiconque parmi ceux qui existent est ainsi en adoration en ce qui concerne le bien » [^45] : Ici, ce qui est enseigné par elle est l'adoration d'Aûha<i>r</i>ma<i>z</i><i>d</i>, (que c'est ce à quoi on doit pourvoir), qui est la loi d'Aûha<i>r</i>ma<i>z</i><i>d</i>, (c'est-à-dire, sa loi vertueuse), par laquelle la révérence de l'existence est enseignée, (c'est-à-dire, ce qu'il voudrait le plus susciter, qui est la demande constante d'une progéniture par l'humanité ; et il leur mentionne cette chose), grâce à laquelle il leur est possible de bien vivre. 2. De plus, la révérence des justes, hommes et femmes, par une dévotion complète [^46], qui fut le premier, est enseignée par ce qui est (3) l'obéissance aux archanges (c'est-à-dire qu'elle occasionnerait la propitiation des archanges). Telles étaient les trois assertions (c'est-à-dire trois décrets), et c'était à tous égards une parole à révérer. À qui était révérence ? Aux archanges dans ce culte.
 
-4\. Et Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Heureux celui <span id="p464"><sup><small>[ p. 464 ]</small></sup></span> dont le bonheur est le bonheur de quiconque, (5) et qu'Aûha<i>r</i>ma<i>z</i><i>d</i> l'accorde, par la prédominance de sa volonté, (par son exigence) [^47]. » 6. Quelle réponse a-t-il donnée par ces paroles (de quoi parlait-il [^48]) ? 7. Il a donné la réponse d'un progrès heureux, le progrès heureux des justes de toute espèce, qui sont, qui ont été et qui _se lèveront_. 8. Le développeur a dit (à cet homme, comme) le développement, _en_ ​​réponse ; _et_ (la récompense en tant que) le développement qu'Aûha<i>r</i>ma<i>z</i><i>d</i> a mentionné _en_ ​​réponse _était_ : 'Ce développement [^49] (que j'appelle) juste, (qui) est un développement pour les justes.'
+4\. Et Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Heureux celui <span id="p464"><sup><small>[ p. 464 ]</small></sup></span> dont le bonheur est le bonheur de quiconque, (5) et qu'Aûha<i>r</i>ma<i>z</i><i>d</i> l'accorde, par la prédominance de sa volonté, (par son exigence) [^47]. » 6. Quelle réponse a-t-il donnée par ces paroles (de quoi parlait-il [^48]) ? 7. Il a donné la réponse d'un progrès heureux, le progrès heureux des justes de toute espèce, qui sont, qui ont été et qui _se lèveront_. 8. Le développeur a dit (à cet homme, comme) le développement, _en_ ​​réponse ; _et_ (la récompense en tant que) le développement qu'Aûha<i>r</i>ma<i>z</i><i>d</i> a mentionné _en_ ​​réponse _était_ : 'Ce développement [^49] (que j'appelle) juste, (qui) est un développement pour les justes. »
 
 Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ainsi cité dans Sls. X, 26, sous une forme plus courte et modifiée : « Comme il est dit dans le Bak ainsi : « Quiconque murmurera, <i>Ô</i> Zaratû<i>s</i>t ! ma répartition de l'Ahunavair, (c'est-à-dire, le prendra doucement intérieurement) _et_ le laissera échapper [^50] de nouveau, (c'est-à-dire, le prononcera à haute voix) ne serait-ce que la moitié, ou le tiers, ou le quart, ou le cinquième, son âme je la protégerai [^51], moi qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, de la meilleure existence, (c'est-à-dire, je la garderai loin,) d'une étendue telle que la largeur de cette terre. »
 
@@ -118,7 +118,7 @@ Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ains
 
 [^2]: (453:2) Le titre de ce premier hâ est donné dans 32, Pt4, Mf4, qui a été consulté par le traducteur en plus du texte de Spiegel représentant K5. La division en sections est celle adoptée par Spiegel, et les passages entre parenthèses n'ont pas d'équivalent dans le texte de l'Avesta.
 
-[^3]: (453:3) Sp., J2 insérer 'bon _et_.'
+[^3]: (453:3) Sp., J2 insérer 'bon _et_. »
 
 [^4]: (453:4) J2 ajoute '(c'est-à-dire, Aûha<i>r</i>ma<i>z</i><i>d</i> le créateur est juste ; le reste est à travers la louange qui dit que le créateur est juste) ;' comparer Pahl. Vend. II, 1.
 
@@ -132,7 +132,7 @@ Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ains
 
 [^9]: (455:2) Donc dans Pt4, Mf4; Sp., J2 ont « je voudrais », ce qui peut être correct.
 
-[^10]: (455:3) Pt4, Mf4 aparôdînê<i>d</i>; Sp., J2 have ba<i>r</i>â âpahlûkinê<i>d</i>, 'met complètement de côté.'
+[^10]: (455:3) Pt4, Mf4 aparôdînê<i>d</i>; Sp., J2 have ba<i>r</i>â âpahlûkinê<i>d</i>, 'met complètement de côté. »
 
 [^11]: (455:4) Pahl. ba<i>r</i>â yangê<i>d</i> (Pers. yan<i>g</i>ad).
 
@@ -142,7 +142,7 @@ Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ains
 
 [^14]: (455 : 7) Pahl. tanôm (Pers. tanam).
 
-[^15]: (456:1) J2 omet gûftŏ, '_ce qui a été_ dit.'
+[^15]: (456:1) J2 omet gûftŏ, '_ce qui a été_ dit. »
 
 [^16]: (456 : 2) Pahl. Avŏ Kevan dans Pt4.
 
@@ -158,7 +158,7 @@ Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ains
 
 [^22]: (457:4) Pt4, Mf4, « le plus grand de tous les hommes ».
 
-[^23]: (457:5) Voir [p. 458](.), n. [^3].
+[^23]: (457:5) Voir [p. 458](.), n. 3.
 
 [^24]: (458:1) Donc dans J2, Pt4, Mf4.
 
@@ -188,7 +188,7 @@ Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ains
 
 [^37]: (461:5) Cet Avesta est cité comme faisant partie de la version Pahlavi, et est traduit, dans Pt4, Mf4, par le Pahlavi habituel pour « la justice est l'excellence parfaite ».
 
-[^38]: (462:1) Ainsi dans Pt4, Mf4; J2 a 'à travers un vohû vahi<i>s</i>tem; et vahi<i>s</i>tem astî.'
+[^38]: (462:1) Ainsi dans Pt4, Mf4; J2 a 'à travers un vohû vahi<i>s</i>tem; et vahi<i>s</i>tem astî. »
 
 [^39]: (462:2) Cette phrase de l'Ashem, qui commence l'Avesta de cette section, doit également être comprise comme commençant sa version Pahlavi.
 

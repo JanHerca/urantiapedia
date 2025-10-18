@@ -80,7 +80,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^4]: (234:2) Cette cérémonie, qui signifie « le monde acheté », et par laquelle, selon les Sad-dar Bundahi<i>s</i>, « le ciel est acheté dans le monde, et sa propre place apportée au ciel », dure trois jours, et est accomplie par deux prêtres ; les cérémonies du premier jour sont celles du Nônâbar, celles du deuxième sont celles de l'ange Srôsh, et celles du troisième sont celles des Sîrôzah, ou anges des trente jours du mois (voir Bd. XXX, 28 n).
 
-[^5]: (234:3) Lire râî au lieu de lâ, 'ne pas'
+[^5]: (234:3) Lire râî au lieu de lâ, 'ne pas »
 
 [^6]: (234:4) Lecture va<i>r</i>kâ, au lieu de va neked, « femelle », ce qui lui ressemble beaucoup dans les lettres Pahl.
 

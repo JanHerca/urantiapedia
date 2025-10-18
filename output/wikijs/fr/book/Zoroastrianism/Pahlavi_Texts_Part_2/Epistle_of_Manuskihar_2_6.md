@@ -80,4 +80,4 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^6]: (350:3) Ou « vivant ».
 
-[^7]: (350:4) Ou 'le temps (hangâm).'
+[^7]: (350:4) Ou 'le temps (hangâm). »

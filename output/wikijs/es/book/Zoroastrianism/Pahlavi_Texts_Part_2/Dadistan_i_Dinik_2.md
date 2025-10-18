@@ -95,4 +95,4 @@ dateCreated: 2025-10-10T14:41:30Z
 
 [^12]: (15:1) Mencionado en los §§ 7, 8.
 
-[^13]: (15:2) M14 y J tienen «tales gobernantes» su propia alabanza está por encima del sol con caballos veloces, las luminarias primigenias y todas las buenas criaturas; porque eso también, que puede verse cuando la luz del sol se debe a la eliminación de la oscuridad, y la eliminación es el avance de la iluminación del mundo, es la exhibición de días y noches.'
+[^13]: (15:2) M14 y J tienen «tales gobernantes» su propia alabanza está por encima del sol con caballos veloces, las luminarias primigenias y todas las buenas criaturas; porque eso también, que puede verse cuando la luz del sol se debe a la eliminación de la oscuridad, y la eliminación es el avance de la iluminación del mundo, es la exhibición de días y noches.»

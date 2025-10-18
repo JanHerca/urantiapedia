@@ -85,7 +85,7 @@ _Maison de Nask_.
 
 [^1]: (109:1) On suppose que gêsî-hastanŏ remplace gâsî-hastanŏ dans les trois occurrences du mot. Ceci est plutôt douteux, car le nom gâs, « position », apparaît deux fois en lien étroit avec le mot incertain, et son orthographe est correcte.
 
-[^2]: (110 : 1) Le Pahl. le texte est le suivant :—'Kâr-î madame zâkŏ-î levatman dên ku<i>s</i>n s<i>p</i>ar, vad <i>s</i><i>p</i>ôr kârîh zya<i>s</i> dên sâmân pa<i>d</i>a<i>s</i> ra<i>d</i>akîh.'
+[^2]: (110 : 1) Le Pahl. le texte est le suivant :—'Kâr-î madame zâkŏ-î levatman dên ku<i>s</i>n s<i>p</i>ar, vad <i>s</i><i>p</i>ôr kârîh zya<i>s</i> dên sâmân pa<i>d</i>a<i>s</i> ra<i>d</i>akîh. »
 
 [^3]: (110:2) Ce mot hybride inhabituel est évidemment destiné à être un équivalent Zvâri<i>s</i> de l'irânien zamânah, et est composé de vidanâ (= Ch. עִדָּנָא, qui est le Zvâri<i>s</i> habituel pour zamân) + ânag (= ânah, les syllabes finales de zamânah). La syllabe centrale de zamânah est, par conséquent, représentée deux fois dans le Zvâri<i>s</i> vidanâânag. L'hybride apparaît à nouveau, dans le livre IX, chap. XVII, 3, dans une phrase où il ne peut signifier que « temps, période ». Sans cette occurrence ultérieure, le mot ici pourrait être lu va-dô-ahûg, « et la double existence », avec un certain degré de probabilité.
 

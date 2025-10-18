@@ -64,4 +64,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 ## Notes de bas de page
 
-[^1]: (67:1) L19 a un jeune garçon (r<i>e</i>dak).'
+[^1]: (67:1) L19 a un jeune garçon (r<i>e</i>dak). »

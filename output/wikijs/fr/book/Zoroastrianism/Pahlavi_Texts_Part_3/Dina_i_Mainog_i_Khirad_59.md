@@ -43,7 +43,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 9\. « Les vices des cultivateurs sont l'ignorance, l'envie, la mauvaise volonté et la malveillance.
 
-10\. '_Et_ les vices des artisans sont l'incrédulité, le manque d'actions de grâces, le murmure inapproprié des prières, la morosité et les injures.'
+10\. « _Et_ les vices des artisans sont l'incrédulité, le manque d'actions de grâces, le murmure inapproprié des prières, la morosité et les injures. »
 
 <figure class="table chapter-navigator">
   <table>

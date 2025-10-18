@@ -33,11 +33,15 @@ dateCreated: 2025-10-10T14:41:43Z
 </figure>
 <br>
 
-<span id="p448"><sup><small>[ pág. 448 ]</small></sup></span> pág. 449
+<span id="p448"><sup><small>[ pág. 448 ]</small></sup></span>
+
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 ## FRAGMENTOS DE NASK QUE AÚN CONSERVAN.
 
-<span id="p450"><sup><small>[ pág. 450 ]</small></sup></span> pág. 451
+<span id="p450"><sup><small>[ pág. 450 ]</small></sup></span>
+
+<span id="p451"><sup><small>[ p. 451 ]</small></sup></span>
 
 ## FRAGMENTOS EXISTENTES [^1]. I. SÛ<i>D</i>KAR NASK [^2].
 

@@ -76,7 +76,7 @@ dateCreated: 2025-10-10T14:41:30Z
 
 ## Notas al pie
 
-[^1]: (183:2) M14 tiene si da algo.'
+[^1]: (183:2) M14 tiene si da algo.»
 
 [^2]: (184:1) K35 tiene «¿no es necesario?», al usar lâ (no), en lugar de râî (para), cuya última lectura se adopta en el texto de M14, pero es dudoso cuál sea la mejor. La misma variación ocurre en el § 5.
 

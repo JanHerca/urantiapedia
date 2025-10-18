@@ -77,7 +77,7 @@ dateCreated: 2025-10-10T14:56:45Z
 
 ## Notes de bas de page
 
-[^1]: (183:2) M14 a s'il donne quelque chose.'
+[^1]: (183:2) M14 a s'il donne quelque chose. »
 
 [^2]: (184:1) K35 utilise « n'est-il pas nécessaire » en utilisant lâ, « ne pas », au lieu de râî, « car », cette dernière interprétation étant adoptée dans le texte de M14, mais on peut se demander quelle est la meilleure. La même variation se retrouve au § 5.
 

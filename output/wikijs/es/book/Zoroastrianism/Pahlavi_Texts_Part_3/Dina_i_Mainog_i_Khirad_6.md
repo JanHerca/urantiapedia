@@ -37,7 +37,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El sabio preguntó al espíritu de la sabiduría (2) así: «¿Qué tierra es la más infeliz [^1]?»
 
-3\. El espíritu de sabiduría respondió (4) así: «Esa tierra es la más afligida, en la que se forma el infierno [^2]. 5. La segunda, cuando matan en ella a un hombre justo e inocente. 6. La tercera, por cuya causa [^3] <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> obran los demonios y demonios. 7. La cuarta, en la que construyen un templo-ídolo. 8. La quinta, cuando un hombre malvado, que es un malhechor, hace su morada en ella. 9. La sexta, cuando se realiza el entierro de un cadáver debajo [^4]. 10. La séptima, en la que una criatura nociva tiene una madriguera. 11. La octava, cuando de la posesión del bien pasa a la posesión del mal. 12. La novena, cuando desolan lo que era populoso. 13. _Y_ el décimo, en el cual hacen lamentación y llanto [^5].'
+3\. El espíritu de sabiduría respondió (4) así: «Esa tierra es la más afligida, en la que se forma el infierno [^2]. 5. La segunda, cuando matan en ella a un hombre justo e inocente. 6. La tercera, por cuya causa [^3] <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> obran los demonios y demonios. 7. La cuarta, en la que construyen un templo-ídolo. 8. La quinta, cuando un hombre malvado, que es un malhechor, hace su morada en ella. 9. La sexta, cuando se realiza el entierro de un cadáver debajo [^4]. 10. La séptima, en la que una criatura nociva tiene una madriguera. 11. La octava, cuando de la posesión del bien pasa a la posesión del mal. 12. La novena, cuando desolan lo que era populoso. 13. _Y_ el décimo, en el cual hacen lamentación y llanto [^5].»
 
 <figure class="table chapter-navigator">
   <table>

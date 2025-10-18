@@ -39,7 +39,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. El espíritu de sabiduría respondió (6) así: 'Sin el permiso de los seres sagrados, o el permiso de los demonios, entonces [^2] no es posible que uno vaya de una región a otra [^3].
 
-7\. 'El cielo está hecho de la sustancia de la piedra de sangre [^4], tal como también la llaman diamante (almâst).
+7\. «El cielo está hecho de la sustancia de la piedra de sangre [^4], tal como también la llaman diamante (almâst).
 
 8\. «Y la mezcla del agua en la tierra es como la sangre en el cuerpo del hombre.»
 

@@ -124,7 +124,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^11]: (131:1) Appelé « le grand _un_ du milieu du ciel » dans le livre II, 8, V, I, qui n'a pas encore été identifié, mais qui pourrait être Régulus ou Orion.
 
-[^12]: (131:2) Sans. 'très visible.'
+[^12]: (131:2) Sans. 'très visible. »
 
 [^13]: (131:3) Voir Mkh. XLIX, 15-21, où il est appelé Haptôk-ring.
 

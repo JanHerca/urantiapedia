@@ -39,7 +39,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. El espíritu de sabiduría respondió (6) así: «El hombre sabio, firme en la religión, que alaba bien y habla con veracidad es el jefe de sus compañeros. <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> 7\. «La mujer joven [^2], de buena disposición, fiel, respetada, bondadosa, que anima la casa, cuya modestia y respeto son virtuosos, amiga de su padre y de sus mayores [^3], esposo y tutor, hermosa y llena de vida [^4] es la jefe de las mujeres que son sus compañeras.
 
-8\. 'El buey que es glorioso, que tiene orejas altas, que tiene un rebaño de vacas, es jefe sobre los bueyes.
+8\. «El buey que es glorioso, que tiene orejas altas, que tiene un rebaño de vacas, es jefe sobre los bueyes.
 
 9\. «El <i>K</i>îharâ<i>v</i> [^5] es el jefe de las aves. 10. El caballo veloz [^6] es el jefe de los caballos. 11. La liebre [^7] es el jefe de los animales salvajes; _y_ el trigo [^8] es el jefe de los granos.»
 

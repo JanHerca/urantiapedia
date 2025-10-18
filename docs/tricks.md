@@ -282,6 +282,9 @@ Remove duplicate lines (requires a previous sorting, see below) ||
 - “ ”  (Alt+q)
 - «  » (Alt+w)
 - ‘ ’ (Alt+e)
+- <ins>any text selected</ins> (Ctrl+Shift+,)
+- **<ins>any text selected</ins>** (Ctrl+Shift+.)
+- TitLE > Title (Ctrl+t)
 
 For previous shortcuts in VS Code goto `File > Preferences > Keyboard shortcuts` and click in small button `Open keyboard shortcuts (JSON)`. That open a file in `<user>\AppData\Roaming\Code\User\keybindings.json`. Add next content to file.
 
@@ -308,6 +311,14 @@ For previous shortcuts in VS Code goto `File > Preferences > Keyboard shortcuts`
         "command": "editor.action.insertSnippet",
         "args": {"snippet": "‘$TM_SELECTED_TEXT$0’"},
         "when": "editorTextFocus&&editorHasSelection"
+    },
+    {
+        "key": "ctrl+shift+oem_comma",
+        "command": "surround.with.ins"
+    },
+    {
+        "key": "ctrl+shift+oem_period",
+        "command": "surround.with.ins_bold"
     },
     {
         "key": "ctrl+t",

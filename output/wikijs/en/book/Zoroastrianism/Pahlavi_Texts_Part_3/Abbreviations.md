@@ -32,7 +32,9 @@ dateCreated: 2025-10-6T9:44:6Z
   </table>
 </figure>
 
-<span id="pxlvi"><sup><small>[ p. xlvi ]</small></sup></span> p. xlvii
+<span id="pxlvi"><sup><small>[ p. xlvi ]</small></sup></span>
+
+<span id="pxlvii"><sup><small>[ p. xlvii ]</small></sup></span>
 
 ## ABBREVIATIONS USED IN THIS VOLUME.
 

@@ -41,7 +41,7 @@ La gran ceremonia de purificación para cualquier hombre o mujer parsi que se ha
 
 Pahl. Vend. IX, 1. Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</i> así: «¡Oh Aûha<i>r</i>ma<i>z</i><i>d</i>, espíritu propicio! ¡creador del mundo material! ¡que eres el justo _uno_ \[de la rectitud!» es decir, Aûha<i>r</i>ma<i>z</i><i>d</i> es el creador justo mediante la invocación, _y_ el resto mediante la alabanza\]. 2. «Cómo, cuando en la existencia material ven a un hombre \[limpio\] junto con \[aquello que está contaminado\], (3) ¿cómo purificarán a quien <span id="p432"><sup><small>[ p. 432 ]</small></sup></span> ¿está _eso_ lleno de corrupción \[junto con contaminación\] debido a ese cadáver? \[es decir, ¿cómo deberían _hacerlo_ completamente limpio?\]»
 
-4\. Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «¡Un hombre justo, oh Zaratû<i>s</i>t el Spîtamân! \[un purificador\], (5) que es un orador \[es decir, es posible para él hablar\], un orador veraz \[es decir, la falsedad es dicha poco por él\], un investigador de la liturgia \[es decir, el ritual es realizado por él\], _y_ justo, (6) aquel que entiende especialmente la purificación de la religión de los adoradores de Ma<i>z</i><i>d</i>a \[es decir, conoce el rito\], (7) tal persona cortará las plantas en la tierra fértil, (8) _por_ una longitud de nueve cañas separadas [^2] en cada una de las cuatro direcciones, (9) _en un lugar_ en esta tierra que esté más desprovisto de agua, más desprovisto de árboles, tierra más purificada \[de desechos corporales\] [^3], _y_ con el suelo más seco \[es decir, no hay humedad en esa extensión de él\]. Incluso _donde_ menos avanzan en los caminos el ganado y las bestias de carga, y el fuego de Aûha<i>r</i>ma<i>z</i><i>d</i>, las ramitas sagradas [^4] se extienden con rectitud, y el hombre justo [^5] _menos existe_.'
+4\. Y Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «¡Un hombre justo, oh Zaratû<i>s</i>t el Spîtamân! \[un purificador\], (5) que es un orador \[es decir, es posible para él hablar\], un orador veraz \[es decir, la falsedad es dicha poco por él\], un investigador de la liturgia \[es decir, el ritual es realizado por él\], _y_ justo, (6) aquel que entiende especialmente la purificación de la religión de los adoradores de Ma<i>z</i><i>d</i>a \[es decir, conoce el rito\], (7) tal persona cortará las plantas en la tierra fértil, (8) _por_ una longitud de nueve cañas separadas [^2] en cada una de las cuatro direcciones, (9) _en un lugar_ en esta tierra que esté más desprovisto de agua, más desprovisto de árboles, tierra más purificada \[de desechos corporales\] [^3], _y_ con el suelo más seco \[es decir, no hay humedad en esa extensión de él\]. Incluso _donde_ menos avanzan en los caminos el ganado y las bestias de carga, y el fuego de Aûha<i>r</i>ma<i>z</i><i>d</i>, las ramitas sagradas [^4] se extienden con rectitud, y el hombre justo [^5] _menos existe_.»
 
 11\. ¡Creador del mundo material! ¡Tú, el justo! ¿A qué distancia del fuego? ¿A qué distancia del agua? ¿A qué distancia de las ramas sagradas extendidas <span id="p433"><sup><small>[ p. 433 ]</small></sup></span> con justicia? ¿A qué distancia de un hombre justo?
 
@@ -67,7 +67,7 @@ Pahl. Vend. IX, 1. Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</
 
 «Justo como nueve pies.»
 
-21\. También ararás un surco con la hoja debida a Shat<i>r</i>yŏvair [^11].'
+21\. También ararás un surco con la hoja debida a Shat<i>r</i>yŏvair [^11].»
 
 22\. «¿Cuánto sale de los agujeros?»
 
@@ -81,7 +81,7 @@ Pahl. Vend. IX, 1. Zaratû<i>s</i>t le preguntó a Aûha<i>r</i>ma<i>z</i><i>d</
 
 «Hasta nueve pies.»
 
-24\. 'Luego, después, se ararán los doce surcos. 25. Al arar tres de ellos, se separan tres hoyos en su interior. 26. Ararás tres de ellos con seis hoyos en su interior. 27. Ararás tres de ellos con nueve hoyos en su interior. 28. Y ararás
+24\. «Luego, después, se ararán los doce surcos. 25. Al arar tres de ellos, se separan tres hoyos en su interior. 26. Ararás tres de ellos con seis hoyos en su interior. 27. Ararás tres de ellos con nueve hoyos en su interior. 28. Y ararás
 
 <span id="p435"><sup><small>[ pág. 435 ]</small></sup></span>
 
@@ -97,73 +97,73 @@ O, O, O, tres agujeros al sur, para el agua, a un paso de distancia y a tres pas
 S, S, S, tres cargas de piedras en los tres espacios de tres escalones.  
 D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p436"><sup><small>[ p. 436 ]</small></sup></span> arriba tres, dentro de los cuales están los \[tres\] agujeros que están aparte, \[que son para el agua, y\] más allá \[_los_ de dentro, que son para la orina del toro\] [^12].
 
-29\. 'Llevarás tres cargas de piedras sobre esos espacios de nueve pies [^13], _como_ acceso _a_ los agujeros; (30) _o_ tiestos, o bloques nudosos _y_ macizos, o un _terrón de la_ tierra de Vi<i>s</i>tâsp, o \[una olla _o_ algo de\] cualquier tierra dura.
+29\. «Llevarás tres cargas de piedras sobre esos espacios de nueve pies [^13], _como_ acceso _a_ los agujeros; (30) _o_ tiestos, o bloques nudosos _y_ macizos, o un _terrón de la_ tierra de Vi<i>s</i>tâsp, o \[una olla _o_ algo de\] cualquier tierra dura.
 
-31\. 'Después, quien _ha estado_ junto a los muertos llegará a ese acceso, que es el acceso a los agujeros. 32. Entonces tú, ¡oh Zaratustra!, tienes que apartarte un poco más, junto a los surcos [^14]. <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> 33. Entonces murmurarás estas palabras \[_por ti_, es decir\]: «¡Alabado sea Spenda<i>r</i>ma<i>d</i> [^15], el propicio!» 34. _Y_ quien _ha estado_ junto a los muertos responderá así: «¡Alabado sea Spenda<i>r</i>ma<i>d</i>, el propicio!» 35. Entonces el demonio queda incapacitado por cada palabra \[de cada repetición\]; (36) el azote del espíritu maligno, el malvado, se debe a él; (37) el azote de Aeshm [^16], el asaltante impetuoso, se debe a él; (38) el azote de los demonios Mâzînîkân [^17] se debe a él; (39) el azote de todos los demonios se debe a él.
+31\. «Después, quien _ha estado_ junto a los muertos llegará a ese acceso, que es el acceso a los agujeros. 32. Entonces tú, ¡oh Zaratustra!, tienes que apartarte un poco más, junto a los surcos [^14]. <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> 33. Entonces murmurarás estas palabras \[_por ti_, es decir\]: «¡Alabado sea Spenda<i>r</i>ma<i>d</i> [^15], el propicio!» 34. _Y_ quien _ha estado_ junto a los muertos responderá así: «¡Alabado sea Spenda<i>r</i>ma<i>d</i>, el propicio!» 35. Entonces el demonio queda incapacitado por cada palabra \[de cada repetición\]; (36) el azote del espíritu maligno, el malvado, se debe a él; (37) el azote de Aeshm [^16], el asaltante impetuoso, se debe a él; (38) el azote de los demonios Mâzînîkân [^17] se debe a él; (39) el azote de todos los demonios se debe a él.
 
-40\. 'Después, rociarás sobre él orina de toro con un cucharón de hierro o de plomo. 41. _Si_ rociarás sobre él con uno de plomo_ [^18], exigirás con fuerza, ¡oh Zaratû<i>s</i>t!, el tallo de una caña cuyas nueve partes habituales (pî<i>s</i>ak) has mencionado [^19] \[_como_ nueve nudos\]; (42) _y uno_ debería atar ese cucharón de plomo con fuerza en su parte más delantera [^20].
+40\. «Después, rociarás sobre él orina de toro con un cucharón de hierro o de plomo. 41. _Si_ rociarás sobre él con uno de plomo_ [^18], exigirás con fuerza, ¡oh Zaratû<i>s</i>t!, el tallo de una caña cuyas nueve partes habituales (pî<i>s</i>ak) has mencionado [^19] \[_como_ nueve nudos\]; (42) _y uno_ debería atar ese cucharón de plomo con fuerza en su parte más delantera [^20].
 
-43\. 'Primero se lavará las manos \[hasta los codos\]. 44. Si no se lava las manos, (45) entonces se vuelve impuro y contaminado todo el cuerpo. 46. Cuando se haya lavado las manos tres veces, (47) entonces, cuando _tus_ manos <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> se hayan lavado, (48) lo rociarás en la parte frontal de la coronilla, \[hasta donde haya crecido el cabello\]. 49. Entonces el demonio de la corrupción [^21] se precipitará hacia adelante, sobre _algo_ del espacio entre las cejas de ese hombre.
+43\. «Primero se lavará las manos \[hasta los codos\]. 44. Si no se lava las manos, (45) entonces se vuelve impuro y contaminado todo el cuerpo. 46. Cuando se haya lavado las manos tres veces, (47) entonces, cuando _tus_ manos <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> se hayan lavado, (48) lo rociarás en la parte frontal de la coronilla, \[hasta donde haya crecido el cabello\]. 49. Entonces el demonio de la corrupción [^21] se precipitará hacia adelante, sobre _algo_ del espacio entre las cejas de ese hombre.
 
-50\. 'Rociarás por delante, sobre _un poco_ del espacio entre las cejas de ese hombre, \[desde el lugar donde ha crecido el pelo, hasta las orejas hacia atrás, _y_ ambas mejillas en la parte inferior.\] 51. Entonces el demonio de la corrupción se abalanza sobre la parte posterior de su calor).
+50\. «Rociarás por delante, sobre _un poco_ del espacio entre las cejas de ese hombre, \[desde el lugar donde ha crecido el pelo, hasta las orejas hacia atrás, _y_ ambas mejillas en la parte inferior.\] 51. Entonces el demonio de la corrupción se abalanza sobre la parte posterior de su calor).
 
-52\. 'Rociarás sobre la parte posterior de su cabeza, \[desde el lugar donde ha crecido el pelo, echando (stunak) una cuarta parte sobre la columna vertebral.\] 53. Entonces el demonio de la corrupción se abalanza sobre sus fauces.
+52\. «Rociarás sobre la parte posterior de su cabeza, \[desde el lugar donde ha crecido el pelo, echando (stunak) una cuarta parte sobre la columna vertebral.\] 53. Entonces el demonio de la corrupción se abalanza sobre sus fauces.
 
-54\. 'Rociarás por delante, sobre sus mandíbulas, \[ambas mejillas hasta las orejas hacia atrás, echando una cuarta parte hasta la garganta.\] 55. Entonces el demonio de la corrupción se abalanzará sobre su oreja derecha.
+54\. «Rociarás por delante, sobre sus mandíbulas, \[ambas mejillas hasta las orejas hacia atrás, echando una cuarta parte hasta la garganta.\] 55. Entonces el demonio de la corrupción se abalanzará sobre su oreja derecha.
 
 56\. Rociarás sobre su oreja derecha. 57. Entonces el demonio de la corrupción se lanzará sobre su oreja izquierda.
 
-58\. 'Rociarás sobre su oreja izquierda, \[tal como se gira la oreja, echando una cuarta parte al líquido [^22].\] <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> 59. Entonces el demonio de la corrupción se abalanza sobre su hombro derecho.
+58\. «Rociarás sobre su oreja izquierda, \[tal como se gira la oreja, echando una cuarta parte al líquido [^22].\] <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> 59. Entonces el demonio de la corrupción se abalanza sobre su hombro derecho.
 
 60\. Rociarás sobre su hombro derecho. 61. Entonces el demonio de la corrupción se abalanzará sobre su hombro izquierdo.
 
-62\. 'Rociarás sobre su hombro izquierdo, \[sobre el lado de adelante, tal como está girado, hasta el codo.\] 63. Entonces el demonio de la corrupción se abalanzará sobre su axila derecha.
+62\. «Rociarás sobre su hombro izquierdo, \[sobre el lado de adelante, tal como está girado, hasta el codo.\] 63. Entonces el demonio de la corrupción se abalanzará sobre su axila derecha.
 
 64\. Rociarás sobre su axila derecha. 65. Entonces el demonio de la corrupción se lanzará sobre su axila izquierda.
 
-66\. 'Rociarás sobre su axila izquierda, \[hasta donde haya crecido el pelo.\] 67. Entonces el demonio de la corrupción se precipitará hacia su pecho.
+66\. «Rociarás sobre su axila izquierda, \[hasta donde haya crecido el pelo.\] 67. Entonces el demonio de la corrupción se precipitará hacia su pecho.
 
-68\. 'Rociarás por delante sobre su pecho, \[la mitad del líquido en los hombros y la otra mitad en la región de la garganta, a tres dedos de la cara [^23].\] 69. Entonces el demonio de la corrupción se abalanza sobre su espalda.
+68\. «Rociarás por delante sobre su pecho, \[la mitad del líquido en los hombros y la otra mitad en la región de la garganta, a tres dedos de la cara [^23].\] 69. Entonces el demonio de la corrupción se abalanza sobre su espalda.
 
-70\. 'Rociarás sobre su espalda, \[desde la parte delgada de la columna hasta el ano.\] 71. Entonces el demonio de la corrupción se abalanzará sobre su pezón derecho.
+70\. «Rociarás sobre su espalda, \[desde la parte delgada de la columna hasta el ano.\] 71. Entonces el demonio de la corrupción se abalanzará sobre su pezón derecho.
 
 72\. Rociarás sobre su pezón derecho. 73. Entonces el demonio de la corrupción se lanzará sobre su pezón izquierdo.
 
-74\. 'Rociarás sobre su pezón izquierdo, \[justo cuando el pezón esté girado; _y_ los de las mujeres (zanagânŏ) deben mantenerse en alto.\] 75. Entonces el demonio de la corrupción se precipitará sobre su lado derecho.
+74\. «Rociarás sobre su pezón izquierdo, \[justo cuando el pezón esté girado; _y_ los de las mujeres (zanagânŏ) deben mantenerse en alto.\] 75. Entonces el demonio de la corrupción se precipitará sobre su lado derecho.
 
 76\. «Rociarás sobre su costado derecho. 77. Entonces el demonio de la corrupción se precipitará sobre su costado izquierdo. <span id="p440"><sup><small>[ p. 440 ]</small></sup></span> 78\. »Rociarás sobre su costado izquierdo; \[esto, además, se debe a que uno recita especialmente para siempre en _ese_ lado.\] 79. Entonces el demonio de la corrupción se precipitará sobre su cadera derecha [^24].
 
 80\. Rociarás sobre su cadera derecha. 81. Entonces el demonio de la corrupción se lanzará sobre su cadera izquierda.
 
-82\. 'Rociarás sobre su cadera izquierda, \[justo cuando esté girada, hasta el hueco [^25] de ella (gûyak-î valman) debajo del muslo.\] 83. Entonces el demonio de la corrupción se abalanza sobre su parte sexual.
+82\. «Rociarás sobre su cadera izquierda, \[justo cuando esté girada, hasta el hueco [^25] de ella (gûyak-î valman) debajo del muslo.\] 83. Entonces el demonio de la corrupción se abalanza sobre su parte sexual.
 
-84\. 'Rociarás sobre su parte sexual. 85. Si es varón, rociarás detrás de él antes y delante después; (86) y si es mujer, rociarás delante antes y detrás después; \[en esta ocasión la mitad es para la parte delantera y la otra mitad para la trasera, y se frota por delante.\] 87. Entonces el demonio de la corrupción se abalanza sobre su muslo derecho.
+84\. «Rociarás sobre su parte sexual. 85. Si es varón, rociarás detrás de él antes y delante después; (86) y si es mujer, rociarás delante antes y detrás después; \[en esta ocasión la mitad es para la parte delantera y la otra mitad para la trasera, y se frota por delante.\] 87. Entonces el demonio de la corrupción se abalanza sobre su muslo derecho.
 
 88\. Rociarás sobre su muslo derecho. 89. Entonces el demonio de la corrupción se lanzará sobre su muslo izquierdo.
 
-90\. 'Rociarás sobre su muslo izquierdo, \[desde la prominencia (gôhâk) debajo del muslo hasta la rodilla.\] 91. Entonces el demonio de la corrupción se abalanza sobre su rodilla derecha.
+90\. «Rociarás sobre su muslo izquierdo, \[desde la prominencia (gôhâk) debajo del muslo hasta la rodilla.\] 91. Entonces el demonio de la corrupción se abalanza sobre su rodilla derecha.
 
 92\. «Rociarás sobre su rodilla derecha. 93. Entonces el demonio de la corrupción se abalanza sobre su rodilla izquierda. <span id="p441"><sup><small>[ p. 441 ]</small></sup></span> 94\. »Rociarás sobre su rodilla izquierda, \[arriba, justo donde está doblada, _y_ debajo de la _parte_ delgada_; hay _algunos_ que dirían así: "Tanto por encima como por debajo".\] 95. Entonces el demonio de la corrupción se abalanza sobre su espinilla derecha.
 
 96\. Rociarás sobre su espinilla derecha. 97. Entonces el demonio de la corrupción se abalanzará sobre su espinilla izquierda.
 
-98\. 'Rociarás sobre su espinilla izquierda, \[desde la rodilla hasta el lugar donde se unen la pierna _y_ el pie.\] 99. Entonces el demonio de la corrupción se abalanzará sobre su tobillo derecho [^26].
+98\. «Rociarás sobre su espinilla izquierda, \[desde la rodilla hasta el lugar donde se unen la pierna _y_ el pie.\] 99. Entonces el demonio de la corrupción se abalanzará sobre su tobillo derecho [^26].
 
 100\. Rociarás sobre su tobillo derecho. 101. Entonces el demonio de la corrupción se lanzará sobre su tobillo izquierdo.
 
-102\. 'Rociarás sobre su tobillo izquierdo, \[justo cuando la pierna _y_ el pie se unen, es decir, mientras los diez dedos vuelven al suelo.\] 103. Entonces el demonio de la corrupción se abalanza sobre su empeine derecho.
+102\. «Rociarás sobre su tobillo izquierdo, \[justo cuando la pierna _y_ el pie se unen, es decir, mientras los diez dedos vuelven al suelo.\] 103. Entonces el demonio de la corrupción se abalanza sobre su empeine derecho.
 
 104\. Rociarás sobre su empeine derecho. 105. Entonces el demonio de la corrupción se lanzará sobre su empeine izquierdo.
 
-106\. 'Rociarás sobre su empeine izquierdo, \[desde el lugar donde se unen la pierna y el pie, hasta la punta de los dedos.\] 107. Entonces el demonio de la corrupción se vuelve abatido bajo la planta del pie, y su semejanza es como si fuera el ala del cuerpo de una mosca.
+106\. «Rociarás sobre su empeine izquierdo, \[desde el lugar donde se unen la pierna y el pie, hasta la punta de los dedos.\] 107. Entonces el demonio de la corrupción se vuelve abatido bajo la planta del pie, y su semejanza es como si fuera el ala del cuerpo de una mosca.
 
 108\. «Con los dedos de los pies firmemente unidos al suelo, su talón se mantiene elevado. 109. Rociarás sobre su planta derecha. 110. Entonces el demonio de la corrupción se abalanza sobre su planta izquierda. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 111\. »Rociarás sobre su planta izquierda. 112. Entonces el demonio de la corrupción se repliega abatido bajo los dedos de los pies, y su semejanza es como el ala de una mosca.
 
-113\. 'Con el talón firmemente unido al suelo, sus dedos se mantienen separados del suelo. 114. Rociarás sobre los dedos de su pie derecho. 115. Entonces el demonio de la corrupción se abalanza sobre los dedos de su pie izquierdo.
+113\. «Con el talón firmemente unido al suelo, sus dedos se mantienen separados del suelo. 114. Rociarás sobre los dedos de su pie derecho. 115. Entonces el demonio de la corrupción se abalanza sobre los dedos de su pie izquierdo.
 
-116\. 'Rociarás sobre los dedos de su pie izquierdo. 117. Entonces el demonio de la corrupción regresa abatido al cuadrante norte en forma de una mosca furiosa, de patas arqueadas, caderas delgadas, ilimitadamente manchada, de modo que cada mancha se une a otra, como la criatura más sórdida [^27], _y_ más sucia.
+116\. «Rociarás sobre los dedos de su pie izquierdo. 117. Entonces el demonio de la corrupción regresa abatido al cuadrante norte en forma de una mosca furiosa, de patas arqueadas, caderas delgadas, ilimitadamente manchada, de modo que cada mancha se une a otra, como la criatura más sórdida [^27], _y_ más sucia.
 
-118\. 'Entonces se deben murmurar estas palabras, que son las más triunfantes _y_ las más sanadoras [^28]:--
+118\. «Entonces se deben murmurar estas palabras, que son las más triunfantes _y_ las más sanadoras [^28]:--
 
 "Como es la voluntad del espíritu protector \[como es la voluntad de Aûha<i>r</i>ma<i>z</i><i>d</i>\], así debe ser el amo _terrenal_ \[así debe ser el sumo sacerdote\], debido a cualesquiera que sean los deberes _y_ las buenas obras de rectitud; \[es decir, _él_ siempre debe realizar el deber y las buenas obras con tanta autoridad como la voluntad de Aûha<i>r</i>ma<i>z</i><i>d</i>\] Lo que es el don del buen pensamiento es obra de ambas existencias \[y obra\] de Aûha<i>r</i>ma<i>z</i><i>d</i>; \[es decir, la recompensa _y_ la recompensa que dan al buen pensamiento, también se la dan a él; hay _algunos_ que dirían así: 'Es la posesión del buen pensamiento.\] id="p443"><sup><small>[ p. 443 ]</small></sup></span> La soberanía se le da a Aûha<i>r</i>ma<i>z</i><i>d</i>, \[es decir, Aûha<i>r</i>ma<i>z</i><i>d</i> se ha hecho gobernante,\] quien _ha_ dado protección _y_ alimento a los pobres, \[es decir, les brindaría asistencia _e_ intercesión.\] [^29]
 
@@ -173,11 +173,11 @@ D, lugar para recoger quince puñados de polvo para secar el cuerpo. <span id="p
 
 «"_Seamos_ protegidos del más aflictivo_ [aquí, _y_ apartados de los pecadores_], ¡oh Aûha<i>r</i>ma<i>z</i><i>d</i> _y_ Spenda<i>r</i>ma<i>d</i> [^36]! \[es decir, ¡manténnos alejados del daño del espíritu maligno!\] ¡Perece, demonio maligno! \[mientras hablo _delante de ti_.\] ¡Perece, raza de los demonios! \[es decir, su raza es de ese lugar.\] [^37] ¡Perece, obra transformada por los demonios \[para la inutilidad_]! ¡Perece, obra producida por los demonios \[hasta ahora y en adelante! Esta producida sin los seres sagrados, y producida por ellos (los demonios) incluso para la inutilidad\]. ¡Perece por completo, demonio! \[es decir, que puedas ¡Te vuelves invisible!\] ¡Muere por completo, demonio! \[es decir, ¡aléjate de aquí, _y_ que te vuelvas invisible en cualquier camino!\] ¡Muere por completo y apartado, demonio! \[es decir, ¡no vuelvas a detenerte en ningún camino!\] ¡Perecerás de nuevo hacia el norte! \[el camino fue mencionado así: «¡Ve _en dirección al norte!»\] ¡No destruyas el mundo material de la rectitud [^38]!" <span id="p445"><sup><small>[ p. 445 ]</small></sup></span> 119\. 'En el primer agujero, el hombre se libera del _demonio de la_ corrupción, \[es decir, se apartará un poco de su cuerpo, como un rebaño cuando lo dispersan.\]
 
-120\. '_Entonces debes murmurar estas palabras, etc._ \[_como en_ § 33-118. _En_\] _el segundo_ \[_agujero, etc., como en_ § 119. _Y la misma rutina debe seguirse en_\] _el tercero, cuarto, quinto y sexto_ \[_agujeros_\] [^39].
+120\. «_Entonces debes murmurar estas palabras, etc._ \[_como en_ § 33-118. _En_\] _el segundo_ \[_agujero, etc., como en_ § 119. _Y la misma rutina debe seguirse en_\] _el tercero, cuarto, quinto y sexto_ \[_agujeros_\] [^39].
 
 'Después se sentará—el que _ha estado_ junto al muerto—dentro del recinto (sit<i>r</i>â.) de los agujeros [^40] aparte de aquellos agujeros \[que son para la orina del toro\]. 121. Tanto de eso \[de los anteriores _unos_ para la orina del toro\] como cuatro _anchos_ de dedo_ [^41]. 12 2. También excavarán esas excavaciones completas de esta tierra, \[deberían lograr esto bien.\] 123. Rasparán juntos quince puñados de la tierra, \[de modo que desalojen completamente la humedad pura.\] [^42] 124. Y permanecerán alrededor de ella todo el _período_ desde ese _tiempo_ hasta _el tiempo_ en que el cabello de su cabeza se seque, (125) _y_ hasta _el tiempo_ en que la tierra húmeda en su cuerpo se seque.
 
-126\. 'Entonces quien _ha estado_ junto al difunto se acercará a esos otros agujeros \[que son para el agua\]. 127. En el primer agujero, se purificará una vez con agua sobre su propio cuerpo. 128. En el segundo agujero, se purificará dos veces con agua sobre su propio cuerpo. 129. En el tercer agujero, se purificará tres veces con agua sobre su propio cuerpo.
+126\. «Entonces quien _ha estado_ junto al difunto se acercará a esos otros agujeros \[que son para el agua\]. 127. En el primer agujero, se purificará una vez con agua sobre su propio cuerpo. 128. En el segundo agujero, se purificará dos veces con agua <span id="p446"><sup><small>[ p. 446 ]</small></sup></span> sobre su propio cuerpo. 129. En el tercer agujero, se purificará tres veces con agua sobre su propio cuerpo.
 
 130\. «Después, quien esté perfumado con sandárica (râsnŏ) [^43], o benjuí, o áloe [^44], o cualquier otra de las plantas más odoríferas, (131) se pondrá _sus_ ropas. 132. Entonces quien _ha estado_ junto al muerto llegará a ese acercamiento, el acercamiento a _su_ morada [^45].»
 
@@ -223,9 +223,9 @@ Para evitar a una mujer menstruante no aislada (agûbâl), es necesario usar nav
 
 <i>s</i>. Cuando ve algo impuro en el agujero, no es apropiado; cuando hacen que llueva dentro de un agujero para orinar un toro, no es apropiado; cuando la noche lo sorprende, no es apropiado; cuando en todo hay idoneidad, pero en algo surge la duda, por esa idoneidad no es apropiado.
 
-133\. '_Él_ [^83] se sentará en el lugar apartado (armê<i>s</i>tânŏ) [^84], dentro del recinto (sit<i>r</i>â) de _su_ morada, aparte de los demás adoradores de Ma<i>z</i><i>d</i>a. 134. No se acercará con autorización al fuego, ni al agua, ni a la tierra, ni a los animales, ni a las plantas, ni a un hombre justo, ni a una mujer <span id="p453"><sup><small>[ p. 453 ]</small></sup></span> justa, (135) en absoluto desde ese _tiempo_, hasta _el tiempo_ en que transcurran completamente sus tres noches.
+133\. «_Él_ [^83] se sentará en el lugar apartado (armê<i>s</i>tânŏ) [^84], dentro del recinto (sit<i>r</i>â) de _su_ morada, aparte de los demás adoradores de Ma<i>z</i><i>d</i>a. 134. No se acercará con autorización al fuego, ni al agua, ni a la tierra, ni a los animales, ni a las plantas, ni a un hombre justo, ni a una mujer <span id="p453"><sup><small>[ p. 453 ]</small></sup></span> justa, (135) en absoluto desde ese _tiempo_, hasta _el tiempo_ en que transcurran completamente sus tres noches.
 
-136\. 'Después de esas tres noches, se lavará el cuerpo y sus ropas se purificarán con orina de toro y agua. 137. Se sentará en el lugar de aislamiento, dentro del recinto de su morada, separado de los demás adoradores de la Ma<i>z</i><i>d</i>a. 138. No vendrá con autorización para encender fuego, etc., [tal como se ha escrito en el § 134\], (139) en absoluto desde ese momento hasta que transcurran sus seis noches.
+136\. «Después de esas tres noches, se lavará el cuerpo y sus ropas se purificarán con orina de toro y agua. 137. Se sentará en el lugar de aislamiento, dentro del recinto de su morada, separado de los demás adoradores de la Ma<i>z</i><i>d</i>a. 138. No vendrá con autorización para encender fuego, etc., [tal como se ha escrito en el § 134\], (139) en absoluto desde ese momento hasta que transcurran sus seis noches.
 
 140\. «_Después de esas seis noches_ [^85] se lavará el cuerpo y sus ropas _se purificarán_ con orina de toro y agua. 141-143. Se sentará en el lugar de retiro [tal como está escrito en los §§ 133-135] _hasta que transcurran sus nueve noches_.»
 

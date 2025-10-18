@@ -72,6 +72,6 @@ dateCreated: 2025-10-10T14:56:45Z
 
 [^1]: (191:1) C'est-à-dire adopté au cours de la vie de l'homme.
 
-[^2]: (191:2) Lecture ayûf nîyâ<i>z</i>ŏ, mais cela peut être ayûfŏ êyâ<i>v</i>ŏ, 'ou _à partir_ de la découverte.'
+[^2]: (191:2) Lecture ayûf nîyâ<i>z</i>ŏ, mais cela peut être ayûfŏ êyâ<i>v</i>ŏ, 'ou _à partir_ de la découverte. »
 
 [^3]: (192:1) M14 a « une tutelle familiale existante est _dans_ le fils de celui qui est désigné, et une _une_ fournie est celle où il accomplit lui-même le devoir de tutelle ; » mais la phrase interpolée est à peine grammaticale.

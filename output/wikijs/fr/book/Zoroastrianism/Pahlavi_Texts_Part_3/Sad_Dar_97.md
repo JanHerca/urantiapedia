@@ -37,7 +37,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le quatre-vingt-dix-septième sujet est celui-ci, qu'il est expédient pour [^1] ceux de la bonne religion, qu'ils conversent, selon leurs propres capacités, en présence des prêtres officiants, des grands prêtres, des chefs spirituels et des prêtres, et qu'ils écoutent cordialement tout ce qu'ils disent. 2. Et qu'ils comprennent leurs paroles, et, pendant celles-ci, ils ne prononcent aucune réponse ni question (sûâl).
 
-3\. Car dans le commentaire de l'Avesta, il est dit, _quant à_ quiconque introduit une altercation ('hu<i>g</i><i>g</i>at) dans une déclaration des anciens de la religion, '_il tire la langue, ou il sort de ce monde avorté (muba<i>t</i><i>t</i>alâ).'
+3\. Car dans le commentaire de l'Avesta, il est dit, _quant à_ quiconque introduit une altercation ('hu<i>g</i><i>g</i>at) dans une déclaration des anciens de la religion, '_il tire la langue, ou il sort de ce monde avorté (muba<i>t</i><i>t</i>alâ). »
 
 <figure class="table chapter-navigator">
   <table>

@@ -164,7 +164,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^33]: (283:1) La démone <i>G</i>êh (voir Bund. III, 3-9).
 
-[^34]: (283:2) Par khânak, « maison, demeure », il faut ici entendre simplement le lieu de réclusion de la femme. K20 insère âtâ<i>s</i> dên après mûn, ce qui permet (en supposant une autre préposition) de traduire ainsi : '_Quant à_ une maison dans laquelle il y a un feu, le feu dans cette maison ne doit pas être allumé par une femme menstruée.'
+[^34]: (283:2) Par khânak, « maison, demeure », il faut ici entendre simplement le lieu de réclusion de la femme. K20 insère âtâ<i>s</i> dên après mûn, ce qui permet (en supposant une autre préposition) de traduire ainsi : '_Quant à_ une maison dans laquelle il y a un feu, le feu dans cette maison ne doit pas être allumé par une femme menstruée. »
 
 [^35]: (283:3) Voir § 12.
 

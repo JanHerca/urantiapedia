@@ -39,7 +39,7 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Parmi ces montagnes qui sont dans le monde, il y en a qui sont des modérateurs du vent, et il y en a qui sont [^2] des gardiens ; (5) il y en a qui sont le lieu et l'évent, le lieu de repos et le support du nuage pluvieux ; (6) et il y en a qui frappent Aharman et les démons, et qui maintiennent et vivifient les créatures et la création d'Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur.
 
-7\. 'Et ces rivières, qui sont dans le monde, le créateur Aûha<i>r</i>ma<i>z</i><i>d</i> les a formées, à partir des frontières d'Albûr<i>z</i> [^3], pour assurer la protection et la vivification de ses propres créatures et de sa création.'
+7\. « Et ces rivières, qui sont dans le monde, le créateur Aûha<i>r</i>ma<i>z</i><i>d</i> les a formées, à partir des frontières d'Albûr<i>z</i> [^3], pour assurer la protection et la vivification de ses propres créatures et de sa création. »
 
 <figure class="table chapter-navigator">
   <table>

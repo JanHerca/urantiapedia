@@ -43,13 +43,13 @@ Pahl. Vend. VIII, 271. « Ô créateur ! comment sont purifiés ces hommes, ô j
 
 272\. Et Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Ils sont purifiés, ô juste Zaratû<i>s</i>t ! »
 
-273\. 'Mais quand cela arrivera-t-il ? \[c'est-à-dire, comment _un tel_ deviendra-t-il pur ?\]'
+273\. « Mais quand cela arrivera-t-il ? \[c'est-à-dire, comment _un tel_ deviendra-t-il pur ?\] »
 
 274\. « Si un chien ou un oiseau mangeur de cadavres attaque ce cadavre, (275) l'homme se purifiera alors sur son propre corps avec de l'urine de taureau, (276) trente fois en se lavant en avant avec l'urine de taureau, et trente fois en se lavant dessus [^4], et <span id="p456"><sup><small>[ p. 456 ]</small></sup></span> sa main se frottera dessus.\] 277. Le lavage se fait sur sa partie supérieure, c'est-à-dire que le lavage de sa tête est mentionné par cette exclamation incitant à l'étude (hûshkar).\] [^5]
 
 278\. « Si un chien ou un oiseau mangeur de cadavres n'a pas attaqué ce cadavre, (279) il purifiera quinze fois en lavant en avant, et quinze fois en lavant en arrière, \[et sa main frottera dessus :\]
 
-280\. 'Il courra le premier mile (hâsar) [^6]. 281: Il courra alors en avant, \[lorsque le Pa<i>n</i><i>k</i>adasa (« quinze _fois_ ») aura été accompli par lui.\] 282. _Et_ lorsqu'il s'arrêtera ainsi en face de n'importe qui de l'existence matérielle [^7], il sera prêt par une forte émission de paroles, (283) ainsi [^8]: « Je me suis ainsi tenu près du corps de celui qui est mort; je ne le souhaite pas en pensée, je ne le souhaite pas en parole, je ne le souhaite pas en acte, \[c'est-à-dire, il ne m'est pas possible d'être comme lavé.\] 284. Cela exige une purification pour moi, \[c'est-à-dire, lavez-moi complètement!\] » 285. Lorsqu'il court, le premier qu'il atteindra, (286) s'ils ne lui accordent pas la purification, partagez un tiers de cet acte, \[que c'est que de tout ce péché, il ne lui est pas possible de le supporter, sauf s'ils accomplissent sa purification, une partie sur trois leur appartient à son origine.
+280\. « Il courra le premier mile (hâsar) [^6]. 281: Il courra alors en avant, \[lorsque le Pa<i>n</i><i>k</i>adasa (« quinze _fois_ ») aura été accompli par lui.\] 282. _Et_ lorsqu'il s'arrêtera ainsi en face de n'importe qui de l'existence matérielle [^7], il sera prêt par une forte émission de paroles, (283) ainsi [^8]: « Je me suis ainsi tenu près du corps de celui qui est mort; je ne le souhaite pas en pensée, je ne le souhaite pas en parole, je ne le souhaite pas en acte, \[c'est-à-dire, il ne m'est pas possible d'être comme lavé.\] 284. Cela exige une purification pour moi, \[c'est-à-dire, lavez-moi complètement!\] » 285. Lorsqu'il court, le premier qu'il atteindra, (286) s'ils ne lui accordent pas la purification, partagez un tiers de cet acte, \[que c'est que de tout ce péché, il ne lui est pas possible de le supporter, sauf s'ils accomplissent sa purification, une partie sur trois leur appartient à son origine.
 
 287\. Il court le deuxième mille \[tandis qu'il court pour <span id="p457"><sup><small>[ p. 457 ]</small></sup></span> _ce_\]. 288. Il court, _et_ une seconde fois, il atteint _les gens_. 289. S'ils ne lui accordent pas la purification, (290) ils partagent la moitié [^9] de son acte, \[c'est-à-dire de tout ce péché, qu'il ne peut supporter, sauf s'ils accomplissent _sa_ purification_, comme si une moitié leur était due à son origine.\]
 
@@ -92,7 +92,7 @@ Pahl. Vend. VIII, 271. « Ô créateur ! comment sont purifiés ces hommes, ô j
 
 [^2]: (455:2) Sous réserve des mêmes observations que celles détaillées dans la p.431 n.
 
-[^3]: (455:3) Lecture de pavan va<i>s</i>kar, mais les MSS., en omettant un trait, ont pavan <i>s</i>ikar,' sur la chasse.'
+[^3]: (455:3) Lecture de pavan va<i>s</i>kar, mais les MSS., en omettant un trait, ont pavan <i>s</i>ikar,' sur la chasse. »
 
 [^4]: (455:4) Donc ici, mais « laver à rebours » au § 279 ; et dans Ep. II, iv, a nous trouvons « vers le haut » et « vers le bas », au lieu de « vers l'avant » et « vers l'arrière ». Les traducteurs pahlavi doutaient évidemment que l'Av. upasnât<i>e</i>ê (voir Ep. II, iii, 2) signifiait « laver par-dessus, à rebours ou vers le bas ».
 

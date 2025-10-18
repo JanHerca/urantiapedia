@@ -94,6 +94,6 @@ _Sû<i>d</i>kar Nask_.
 
 [^10]: (208:3) Voir Chap. III, 1 ; ici, et dans les §§ 7, 8, il est exprimé en Pahl. aharâyîh, « justice », étant une abréviation de son appellation habituelle, « louange de la justice », en Pahlavi.
 
-[^11]: (208 : 4) Pahl. 'amat andarg hakhtô vadîdûnâñ <i>a</i><i>ê</i>.'
+[^11]: (208 : 4) Pahl. 'amat andarg hakhtô vadîdûnâñ <i>a</i><i>ê</i>. »
 
 [^12]: (209:1) Comme Yas. XLIX, ce fargard commence par des références spéciales aux méchants, et y revient vers la fin.

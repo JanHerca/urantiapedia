@@ -72,6 +72,6 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^1]: (233:2) Voir Chap. IV, 1 n. Les textes cités dans ce fargard<i>d</i> ne semblent plus exister.
 
-[^2]: (233:3) B omet 'Aûha<i>r</i>ma<i>z</i><i>d</i> _and_.'
+[^2]: (233:3) B omet 'Aûha<i>r</i>ma<i>z</i><i>d</i> _and_. »
 
 [^3]: (233:4) K omet « rituel _pour_ l'eau ».

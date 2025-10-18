@@ -86,7 +86,7 @@ dateCreated: 2025-10-10T14:41:36Z
 
 [^7]: (263:3) Lp, B29, J15 añaden «y, después traen el Gêtî», y Lp continúa así: «el significado se aduce en Pâzand».
 
-[^8]: (263:4) Esto explica «los Gâhs celestiales» de Bd. XXX, 28. El Sad Darband-i Hush (citado en B29, fol. 458 b) dice que se afirma en la revelación que el día en que uno celebra el Gêtî-kharî<i>d</i> de alguien, el alma de esa persona se apodera de los Gâhs celestiales tres veces en ese día, _y_ es transportada al cielo y al cielo supremo.'
+[^8]: (263:4) Esto explica «los Gâhs celestiales» de Bd. XXX, 28. El Sad Darband-i Hush (citado en B29, fol. 458 b) dice que se afirma en la revelación que el día en que uno celebra el Gêtî-kharî<i>d</i> de alguien, el alma de esa persona se apodera de los Gâhs celestiales tres veces en ese día, _y_ es transportada al cielo y al cielo supremo.»
 
 [^9]: (263:5) Lp, B29 tiene «es traído a la vista».
 

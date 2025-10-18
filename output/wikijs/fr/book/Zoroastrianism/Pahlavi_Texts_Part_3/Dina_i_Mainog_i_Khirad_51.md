@@ -68,4 +68,4 @@ dateCreated: 2025-10-10T14:56:50Z
 
 [^1]: (93:2) L19 contient « like unto » dans les trois clauses.
 
-[^2]: (94:1) Voir Chap. XV, 6 n. Nêr. a dans Sans. 'se manifestent dans l'immobilité.'
+[^2]: (94:1) Voir Chap. XV, 6 n. Nêr. a dans Sans. 'se manifestent dans l'immobilité. »

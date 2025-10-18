@@ -32,7 +32,11 @@ dateCreated: 2025-10-7T9:56:46Z
   </table>
 </figure>
 
-<span id="p131"><sup><small>[ p. 131 ]</small></sup></span> p. 132 p. 133
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
+
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
+
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## SELECTIONS OF ZÂ<i>D</i>\-SPARAM [^1]. CHAPTER XII.
 

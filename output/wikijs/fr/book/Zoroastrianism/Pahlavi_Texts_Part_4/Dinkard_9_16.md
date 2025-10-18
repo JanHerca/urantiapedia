@@ -78,7 +78,7 @@ _Sû<i>d</i>kar Nask_.
 
 [^2]: (200:1) Voir Chap. XII, 17. Le lien entre le démon de la mort et Yas. XLVI est que les premiers mots de ce ha sont censés être répétés par l'âme méchante en désespoir de cause après la mort (voir Yt. XXII, 20, W. ; Mkh. II, 159 ; AV. XVII, 7).
 
-[^3]: (200:2) K a mar<i>d</i>ûm, 'humain (?).'
+[^3]: (200:2) K a mar<i>d</i>ûm, 'humain (?). »
 
 [^4]: (200:3) B présente ainsi l'ensemble de cette première clause : « Et la propriété non consommée (<i>a</i>pakhshînŏ) de celui qui est surpris par la merveille invisible qu'il devra endurer, ils ne l'ont pas sauvée. » Cette merveille est probablement le prétendu lancer d'un nœud coulant par Ast-vîdâ<i>d</i>, autour du cou du mort pour le traîner en enfer, que seuls les justes sont capables de jeter.
 
@@ -90,7 +90,7 @@ _Sû<i>d</i>kar Nask_.
 
 [^8]: (201:3) Pahl. ashâ<i>d</i>îh dans K, mais B a aya<i>d</i>akîh, « souvenir ».
 
-[^9]: (202:1) Ou 'ils offrent (û<i>z</i>dahênd).'
+[^9]: (202:1) Ou 'ils offrent (û<i>z</i>dahênd). »
 
 [^10]: (202:2) Voir Livre VIII, Chap. VIII, 2. Et, concernant ces sept dirigeants, comparez Livre XXIX, 5, 6; Dd. XC.
 

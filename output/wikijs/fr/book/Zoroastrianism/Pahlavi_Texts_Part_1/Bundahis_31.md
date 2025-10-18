@@ -252,7 +252,7 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 [^77]: (138:3) Pâz. vîdharg-âfrâr<i>s</i>taka, qui ressemble plus à une épithète qu'à un nom.
 
-[^78]: (138:4) Ou, peut-être, 'Urva<i>d</i>\-gâ _fils_ de Frâ<i>s</i>t.'
+[^78]: (138:4) Ou, peut-être, 'Urva<i>d</i>\-gâ _fils_ de Frâ<i>s</i>t. »
 
 [^79]: (138:5) La gloire divine qui était censée accompagner tous les souverains légitimes de l'Iran, depuis l'époque de Hôshyang jusqu'à celle de la dynastie sassanide ; c'est l'Av. <i>h</i><i>v</i>arenangh des Zamyâd Ya<i>s</i>t, et on dit qu'il s'est enfui vers l'océan pour se réfugier pendant le règne de dynasties étrangères et de rois méchants (voir Âbân Yt. 42, Zamyâd Yt. 51, 56, 59, 62).
 

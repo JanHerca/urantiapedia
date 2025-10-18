@@ -86,7 +86,7 @@ _Var<i>s</i>tmânsar Nask_.
 
 [^4]: (291:7) Para estos tres arcángeles, véanse los Caps. XII, 25 n, XIX, 1 n. y Libro VIII, Cap. IX, 3.
 
-[^5]: (292:1) Véase la nota [^7], página anterior.
+[^5]: (292:1) Véase la nota 7, página anterior.
 
 [^6]: (292:2) Véase Pahl. Sí. XLIX, 3a,c.
 
