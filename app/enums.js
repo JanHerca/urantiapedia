@@ -20,6 +20,8 @@ exports.HTMLSeparator = {
 	SUPER_END: '</sup>',
 	ITALIC_START: '<em>',
 	ITALIC_END: '</em>',
+	BOLD_START: '<span class="font2">',
+	BOLD_END: '</span>',
 	SPAN_START: '<span>',
 	SPAN_END: '</span>',
 	SMALLCAPS_START: '<span class="scaps">',

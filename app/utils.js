@@ -891,7 +891,7 @@ exports.getWikijsBookParRef = (multi, ref, language, color, year, hide_ref) => {
 	const path = `/${language}/The_Urantia_Book${suffix}/` +
 		`${vals[0]}#p${vals[1]}_${vals[2]}`;
 	const link = `<a href="${path}">${ref}</a>`;
-	const hidden = (hide_ref ? ' class="d-none' : '');
+	const hidden = (hide_ref ? ' class="d-none"' : '');
 	html += `<sup${hidden}><small>${link}</small></sup>  `;
 	return html;
 };

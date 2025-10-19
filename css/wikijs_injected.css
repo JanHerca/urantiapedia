@@ -344,6 +344,11 @@ CSS will automatically be minified. */
 .v-main .contents .urantiapedia-book-zoroaster svg g rect:nth-child(2) {
     fill:#9dbfae;
 }
+.v-main .contents u:lang(ko) {
+    font-style: normal;
+    text-decoration: underline;
+    text-underline-offset: 0.3em;
+}
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,
     .v-main .contents figure.image-style-align-left {

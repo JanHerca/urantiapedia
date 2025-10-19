@@ -41,17 +41,19 @@ class Book {
 			name: 'greek',
 			paperTitle: 'h3',
 			secs: 'h4',
+			removeTagsInSecs: true,
 			pars: 'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['el']
 		},
 		{
-			name: 'farsi,korean',
+			name: 'farsi',
 			paperTitle: 'h3',
 			secs: 'h4',
+			removeTagsInSecs: true,
 			pars: 'p',
 			titlesFile: /FM_Titles.htm/,
-			languages: ['fa', 'ko']
+			languages: ['fa']
 		},
 		{
 			name: 'hebrew,japanese',
@@ -60,7 +62,18 @@ class Book {
 			pars: 'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['he', 'ja']
-		}
+		},
+		{
+			name: 'korean',
+			paperTitle: 'h3',
+			secs: 'h4',
+			removeTagsInSecs: true,
+			sec_exception: '* * *',
+			pars: 'p,div:has(h4)',
+			pars_ok: 'p',
+			titlesFile: /FM_Titles.htm/,
+			languages: ['ko']
+		},
 	];
 	footnotes = [];
 	audio = ['en', 'es', 'fr', 'it', 'pt', 'de'];
@@ -730,8 +743,11 @@ class Book {
 						error = 'book_par_no_refcontent';
 						return;
 					}
-					pcontent = replaceTags(par.par_content, '*', '*', 
-						LSep.ITALIC_START, LSep.END, replaceErr);
+					//Replace italics (avoiding special pars with asterisks)
+					pcontent = pcontent.indexOf('* * *') != -1
+						? pcontent
+						: replaceTags(par.par_content, '*', '*', 
+							LSep.ITALIC_START, LSep.END, replaceErr);
 					if (replaceErr.length > 0) {
 						error = replaceErr[0];
 						return;
@@ -988,7 +1004,7 @@ class Book {
 	/**
 	 * Writes references (footnotes) in a file called `footnotes-book-xx.json` 
 	 * in the parent folder of the one passed by param.
-	 * Also saves info of position of eachsub-reference to be able to apply
+	 * Also saves info of position of each sub-reference to be able to apply
 	 * to other translations.
 	 * @param {string} dirPath Folder path.
 	 * @returns {Promise} Promise that returns null in resolve function or an 
@@ -1274,17 +1290,20 @@ class Book {
 					//Add paragraphs
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
-						//Special case of par with asterisks in document 134, 144
-						if ((paperIndex == 134 || paperIndex == 144) && 
-							$(p).html() === '* * *') {
+						//Special case of par with asterisks (docs 31,56,120,134,144,196)
+						if ($(p).text().indexOf('* * *') != -1) {
 							pdata = {
-								par_ref: `${pId[0]}:${pId[1]}.${pId[2] + 1}`,
-								par_pageref: pdata.par_pageref,
-								par_content: '*  *  *',
+								par_ref: `${pId[0]}:${pId[1]}.${pId[2]}b`,
+								par_pageref: `${pdata.par_pageref}b`,
+								par_content: $(p).text().trim(),
 								hide_ref: true
 							};
 							pId = this.getRef(pdata.par_ref);
 							sec.pars.push(pdata);
+							continue;
+						}
+						//Skip pars that are not ones (added for previous special case)
+						if (config.pars_ok && p.name != config.pars_ok) {
 							continue;
 						}
 						pdata = this.getParFromHTML($, p, config, paperIndex);
@@ -1295,7 +1314,8 @@ class Book {
 						sec = paper.sections.find(s => s.section_index === pId[1]);
 						if (!sec) {
 							extendArray(errors, 
-								this.getError('book_section_not_found', pId[1], -999));
+								this.getError('book_section_not_found', 
+									`${paperIndex}:${pId[1]}`, -999));
 							continue;
 						}
 						text = $(p).html();
@@ -1380,7 +1400,7 @@ class Book {
 	 * @return {Object[]}
 	 */
 	getSectionsFromHTML = ($, nodes, config, paperIndex) => {
-		let i, node, c, a, result = [], id, title;
+		let i, node, c, a, result = [], id = 0, title;
 		for (i = 0; i < nodes.length; i++) {
 			node = nodes[i];
 			c = node.children;
@@ -1389,15 +1409,24 @@ class Book {
 				id = parseInt(a.id.split('_')[1]);
 				title = c[0].data;
 			} else {
-				id = i + 1;
 				title = $(node).html();
-				if (config.name === 'greek' || config.name === 'farsi,korean') {
+				if (config.removeTagsInSecs === true) {
 					title = removeHTMLTags(title, HSep.ANCHOR_START, HSep.ANCHOR_END, 
 						false, []);
 				}
 			}
 			title = replaceTags(title, HSep.ITALIC_START, HSep.ITALIC_END, 
 				'*', '*', []);
+			if (config.sec_exception && title.indexOf(config.sec_exception) != -1) {
+				continue;
+			}
+			if (config.name != 'generic') {
+				id++;
+				//Exception in document 139
+				if (paperIndex === 139 && id === 9) {
+					id++;
+				}
+			}
 			result.push({
 				section_index: id,
 				section_ref: `${paperIndex}:${id}`,
@@ -1451,10 +1480,26 @@ class Book {
 			pindex = pId[2];
 			pref = extractStr(c[0].children[0].data, '(', ')');
 		} else {
-			pindex = $(node).prevUntil('h4,div:has(h1,h3,h4)').length + 1;
-			sId = $(node).prevAll('h4,div:has(h4)').length;
+			const exc = config.sec_exception;
+			const filterFunc = (i, e) => !exc || $(e).text().indexOf(exc) === -1;
+			const filterFunc2 = (i, e)=> $(e).text().indexOf('(') != -1;
+			pindex = $(node).prevAll()
+				.filter(filterFunc)
+				.map((i,e)=> {
+					return (
+						e.name==='h4' || 
+						$(e).children().filter('h1,h3,h4').length > 0
+					);
+				})
+				.toArray()
+				.indexOf(true) + 1;
+			sId = $(node).prevAll('h4,div:has(h4)').filter(filterFunc).length;
+			//Exception in document 139
+			if (paperIndex === 139 && sId >= 9) {
+				sId = sId + 1;
+			}
 			pref = '';
-			n = $(node).find('sup').filter((i, e)=> $(e).text().indexOf('(')!=-1);
+			n = $(node).find('sup').filter(filterFunc2);
 			if (n.length > 0) {
 				pref = n.text().replace('(', '').replace(')', '');
 			}
@@ -1474,17 +1519,13 @@ class Book {
 	 * @return {string}
 	 */
 	modifyTagsInHTML = (text, errs) => {
-		text = removeHTMLTags(text, HSep.SMALL_START, HSep.SMALL_END, 
-			true, errs);
-		text = replaceTags(text, HSep.ITALIC_START, HSep.ITALIC_END, '*', '*', 
-			errs);
-		text = replaceTags(text, HSep.SMALLCAPS_START, HSep.SMALLCAPS_END, 
-			'$', '$', errs);
-		text = replaceTags(text, HSep.UNDERLINE_START, HSep.UNDERLINE_END, 
-			'|', '|', errs);
-		text = replaceTags(text, HSep.UNDERLINE2_START, HSep.UNDERLINE2_END, 
-			'|', '|', errs);
+		text = removeHTMLTags(text, HSep.SMALL_START, HSep.SMALL_END, true, errs);
+		text = replaceTags(text, HSep.ITALIC_START, HSep.ITALIC_END, '*', '*', errs);
+		text = replaceTags(text, HSep.SMALLCAPS_START, HSep.SMALLCAPS_END, '$', '$', errs);
+		text = replaceTags(text, HSep.UNDERLINE_START, HSep.UNDERLINE_END, '|', '|', errs);
+		text = replaceTags(text, HSep.UNDERLINE2_START, HSep.UNDERLINE2_END, '|', '|', errs);
 		text = replaceTags(text, HSep.RIGHT_START, HSep.RIGHT_END, '', '', errs);
+		text = replaceTags(text, HSep.BOLD_START, HSep.BOLD_END, '<b>', '</b>', errs);
 		text = removeHTMLTags(text, HSep.SPAN_START, HSep.SPAN_END, false, errs);
 		text = removeHTMLTags(text, HSep.ANCHOR_START, HSep.ANCHOR_END, false, 
 			errs);
@@ -1505,8 +1546,10 @@ class Book {
 			extendArray(errs, errs2);
 			return;
 		}
-		//Replace italics
-		result = replaceTags(result, '*', '*', '<i>', '</i>', errs);
+		//Replace italics (avoiding special pars with asterisks)
+		result = result.indexOf('* * *') != -1
+			? result
+			: replaceTags(result, '*', '*', '<i>', '</i>', errs);
 		return result;
 	};
 
@@ -1774,7 +1817,7 @@ class Book {
 
 						parHtml += (multi 
 							? `<p${center}>`
-							: `<p${center} id="p${si}_${pi}">`);
+							: `<p${center} id="p${si}_${pi}${p.hide_ref ? 'b' : ''}">`);
 						parHtml += getWikijsBookParRef(
 							multi, 
 							p.par_ref, 
@@ -1783,11 +1826,15 @@ class Book {
 							(multi ? papers[ppi].year : null),
 							p.hide_ref
 						);
-						// Urantia Book has pars with `*  *  *` so check here
-						pcontent = (pcontent === '*  *  *' ? pcontent :
-							replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr));
+						//Replacements (avoiding special pars with asterisks)
+						pcontent = pcontent.indexOf('* * *') != -1
+							? pcontent
+							: replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr);
 						pcontent = replaceTags(pcontent, '$', '$', 
 							'<span style="font-variant: small-caps;">', '</span>', rErr);
+						if (this.language === 'ko') {
+							pcontent = replaceTags(pcontent, '|', '|', '<u>', '</u>', rErr);
+						}
 						if (rErr.length > 0) {
 							error_par_ref = p.par_ref;
 							error = rErr[0];
