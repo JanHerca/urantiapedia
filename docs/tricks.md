@@ -56,6 +56,7 @@ Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `
 `_([A-Za-zâêîôûñ])_` | `<i>$1</i>`
 `_([A-Za-zâêîôûñ])([A-Za-zâêîôûñ])_` | `<i>$1$2</i>`
 `<script\b[^>]*>[\s\S]*?<\/script>` | `blank` (Remove script tags from HTML)`
+`<script\b[^>]*>(.|\n)*?<\/script>` | `blank` (Remove script tags from HTML)`
 `!\[\]\(data:image/jpeg[^\)]+\)` | `![](/image/book/Zoroastrianism/Pahlavi_Texts_Part_1/001.jpg)`
 `^\[([ivxlc]+):(\d+)\]\(\.\)` | `[^$2]: ($1:$2)`
 `^\[(\d+):(\d+)\]\(\.\)` | `[^$2]: ($1:$2)`
@@ -146,6 +147,7 @@ LaTeX | Markdown
 `\\par ` | `\n`
 `\\textit\{([^\}]+)\}` | `_$1_`
 `\\bigbreak` | ``
+`---([\w¿¡\.«])` | `—$1`
 `"\+--` | `—`
 `\\section\*\{([^\}]+)\}` | `## $1`
 `\\noindent \\textsc\{([^\}]+)\}` | `<span style="font-variant:small-caps;">$1</span>`
@@ -155,6 +157,7 @@ LaTeX | Markdown
 `\\begin\{displayquote\}\[\]\n` | `\n> `
 `\\begin\{displayquote\}` | `> `
 `\n\\end\{displayquote\}` | ``
+`\\footnote\{[^\}]+\}` | Replace manually with a Markdown note
 `\{\\footnotesize (\d+)\}` | `<sup><small>$1</small></sup>`
 `\\hangindent=1\.0cm \{\\small ([^\}]+)\}` | `$1`
 `\{\\url\{([^\}]+)\}\}` | `$1`
