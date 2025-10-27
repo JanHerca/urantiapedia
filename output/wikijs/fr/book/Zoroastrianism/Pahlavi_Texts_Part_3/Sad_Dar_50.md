@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. L'ablution cérémonielle consiste à se laver soigneusement les mains, le visage, le nez, les yeux et les pieds, soit avec un fruit (mîvah) [^2], soit avec de l'herbe non arrosée ; ensuite, à les sécher et à les laver trois fois avec de l'eau de manière à ce qu'elle soit mouillée du visage jusqu'à l'oreille [^3]. 3. Il est nécessaire de garder la bouche fermée pour que l'eau n'y pénètre pas ; car si une goutte, faute de s'être arrêtée, y pénètre, c'est un péché de trois cents strîrs [^4]. 4. Ensuite, on se lave les mains trois fois avec de l'eau, jusqu'aux bras ; d'abord la main droite, puis la main gauche ; et, de la même manière, on lave le pied droit et le pied gauche. <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> 5\. Puis ils récitent le K<i>e</i>m-nâ-mazdâ [^5], car, chaque fois qu'ils désirent réciter quelque chose comme prière intérieure, il est nécessaire que les mains soient lavées avec une ablution cérémonielle [^6], et, si elles ne le sont pas, l'Avesta n'est pas accepté, et le démon de la corruption (nasu<i>s</i>) ne s'enfuit pas, et cela devient un péché Tanâvar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

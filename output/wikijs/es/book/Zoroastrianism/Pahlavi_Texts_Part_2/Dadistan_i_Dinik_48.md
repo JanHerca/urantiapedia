@@ -61,6 +61,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 38\. El ceremonial que es bueno es cuando lo realizan con una disposición pura y sabiduría segura, un observador de la religión de los seres sagrados de las esferas, y con pensamientos puros, pensamientos justos [^67], acciones sabias, un cuerpo purificado, una lengua digna del bien (vêh-sa<i>z</i>âk), una escritura (nask) fácil de entender [^68], un texto verdadero <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> (a<i>v</i>istâk), abluciones realizadas, ritos apropiados, indivisos e impecables. 39. De la misma manera, con habilidades similares, _e_ innumerables veces, se solemniza con gran pureza en la morada del fuego siempre creciente, luego en la morada de los otros fuegos sagrados [^69], luego en las moradas de los adoradores de Maza _y_ otras buenas personas, y luego _en_ ​​otros lugares declarados puros. 40. El de los tres _días_ [^70] es en la morada del fuego más cercano a la del difunto; la ceremonia de los espíritus guardianes de los justos [^71] se solemniza con pureza allí donde está la morada más cercana a la del difunto cuya alma es honrada. 41. Y que para las victorias en la guerra es entonces en sus tiempos de batalla, la agricultura de Sâm [^72] y otros ofensores (vinâsagân) que _estaban_ por mantener alejada la agricultura, el lugar del sirviente doméstico para un guerrero de otro rango, la ocasión de la protesta de los que no poseen (adârigân) un alojamiento, hasta el resto del mismo temperamento (mûnôkŏ), expresamente para producir _y_ mantener una semejanza proporcional [^73].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

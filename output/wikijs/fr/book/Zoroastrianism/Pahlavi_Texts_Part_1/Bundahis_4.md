@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 4\. Gôssûrvan marcha vers la station des étoiles (pâyak) et cria de la même manière, puis vers la station de la lune et cria de la même manière, puis vers la station du soleil, et alors l'esprit gardien de Zaratûss lui fut montré, et Aûharmazd dit ainsi [^5] : « Je ferai naître pour le monde celui qui prêchera la prudence. » 5. Satisfaite devint l'esprit Gôssûrvan et acquiesça ainsi : « Je nourrirai les créatures » ; c'est-à-dire qu'elle redevint consentante à une création terrestre dans le monde.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

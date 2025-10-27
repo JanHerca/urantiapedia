@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. La pensée raisonnée est consciente des avantages dus aux entrepreneurs et aux célébrants de tous les rites religieux, et une rémunération importante leur est accordée plus que pour toute autre profession. 7. Les fils de prêtres et de disciples s'efforcent également d'obtenir les paroles priées [^3] et sont plus ardents à leurs prières ; et beaucoup, de même, s'engageront dans tous les rites religieux et deviendront plus diffusifs de la religion (dînô bâli<i>s</i>nîktar) ; et, de la même manière, le chemin approprié, plus accessible et plus propice du bien pour le salut de l'âme s'élargit [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

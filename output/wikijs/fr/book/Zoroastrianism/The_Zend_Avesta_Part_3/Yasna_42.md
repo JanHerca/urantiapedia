@@ -42,6 +42,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 4\. Et nous adorons le Bon Esprit (chez les vivants) et les esprits des saints. Et nous sacrifions au poisson à cinquante nageoires [^1213], et à cette bête sacrée, la Licorne [^1214] (?) qui se tient dans le Vouru-kasha, et nous sacrifions à cette mer de Vouru-kasha où il se tient, (5) et au Haoma, aux fleurs d'or, poussant sur les hauteurs ; oui, au Haoma qui nous restaure et aide ce monde à progresser. Nous sacrifions au Haoma qui chasse la mort au loin, (6) et aux courants d'eau, et aux grands vols d'oiseaux, et aux approches des prêtres du Feu, alors qu'ils nous approchent de loin [^1215], cherchant à conquérir les provinces et à répandre la tradition rituelle. Et nous sacrifions aux Immortels Généreux tous [^1216] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 10\. And, yet, as regards that which is suitable profit—and also apart from the eating of corn, _from_ anything eatable for the maintenance of life, _from_ medicine and remedies for the healthfulness of life, and _from_ whatever is for the preservation of life—it is allowable _that_ they shall buy _and_ shall sell dear [^9].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

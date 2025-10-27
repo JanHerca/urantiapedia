@@ -43,6 +43,8 @@ FRAGMENTS DIVERS | [389](../Miscellaneous_Fragments#p389)\-[393](../Miscellaneou
 INDEX | [395](../Index#p395)\-[400](../Index#p400)
 Translittération des alphabets orientaux adoptés pour la traduction des livres sacrés d'Orient | 401-404
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

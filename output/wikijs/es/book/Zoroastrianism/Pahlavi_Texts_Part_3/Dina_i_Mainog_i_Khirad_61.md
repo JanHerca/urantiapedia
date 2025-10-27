@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 9\. «El <i>K</i>îharâ<i>v</i> [^5] es el jefe de las aves. 10. El caballo veloz [^6] es el jefe de los caballos. 11. La liebre [^7] es el jefe de los animales salvajes; _y_ el trigo [^8] es el jefe de los granos.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

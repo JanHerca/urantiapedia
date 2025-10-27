@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:41:30Z
 5\. Estos tres lugares, colectivamente, se llaman infierno, _que_ está al norte, descendiendo y bajo esta tierra, incluso hasta la más profunda pendiente del cielo; y su puerta está en la tierra, un lugar del cuadrante norte, y se llama la cresta de Arezûr [^4], una montaña que, entre las montañas de Arezûr [^5] que se encuentran entre las escarpadas montañas (kôfîk), se dice en la revelación [^6] que _tiene_ gran fama entre los demonios, y la concentración y asamblea de los demonios en el mundo se encuentra en la cima de esa montaña, _o_ como se le llama «la cabeza de Arezûr».
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ El Ratu habla: Como un Ahû (venerado y) que debe ser elegido, el Zaotar me habl
 El Zaotar: ¡Que el Ratu, desde su rectitud, santo y erudito, hable!
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 10\. Al amanecer, la madre de Zaratû<i>s</i>t fue a ese lugar, esperando que fuera necesario sacar un esqueleto de la madriguera, y la oveja lanuda salió y huyó. Su madre supuso que era el lobo, y le dijo así: «Has devorado hasta saciarte; ¡que puedas aguantar eternamente sin él!». 11. Siguió adelante, y cuando vio a Zaratû<i>s</i>t completamente a salvo, lo levantó y le dijo así: «No te entregaré a nadie durante mi vida, ni aunque las provincias de Râgh y Nô<i>d</i>ar lleguen aquí juntas [^9].» <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 12\. Porque estos _príncipes_ estaban entre los espirituales de dos provincias que _están_ en Âtûr-pâ<i>d</i>akân, como las que _están_ a sesenta leguas (parasang) de <i>K</i>îst: Zaratû<i>s</i>t surgió de Râgh, y Vi<i>s</i>tâsp de Nô<i>d</i>ar. 13. Y de estas dos provincias, Râgh era según el nombre de Êrikŏ, _hijo_ de Dûrêsrôbô, _hijo_ de Mânû<i>s</i><i>k</i>îhar [^10], de quien surgió la raza de Zaratû<i>s</i>t: y Nô<i>d</i>ar _era_ según el nombre de Nô<i>d</i>ar, _hijo_ de Mânû<i>s</i><i>k</i>îhar, de quien surgió la raza de Vi<i>s</i>tâsp.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

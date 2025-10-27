@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Si es cometido por uno mismo, se declara, en un lugar de la revelación, que el glorificado Zaratust, el Spitamân, preguntó a Hôrmazd, el bueno y propicio, así: «¿Cuál de los pecados que comete la humanidad es el peor?». 7. Hôrmazd, el bueno y propicio, decretó así: «No hay pecado peor que este: que dos personas hagan un pacto entre sí de tal manera que nadie se interponga entre ellas, excepto yo, que soy Hôrmazd; y, después, una de esas dos personas se desvía y dice: «No tengo conocimiento ('<i>h</i>abar) de ello», y nadie es testigo de esa otra persona, excepto yo». 8. Ningún pecado es peor que ese, y esa persona no saldrá de este mundo hasta que le alcance la retribución, y en ese otro mundo su castigo es más severo que todos; por lo que esa persona se vuelve desafortunada en ambos mundos. 9. Y es lo mismo si este pacto es con una persona justa o con una malvada.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -46,7 +46,7 @@ Je me confesse comme un adorateur de Mazda, un disciple de Zarathustra, quelqu'u
 
 Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\], le saint et maître de sainteté [^187] . . . .
 
-## JE.
+## I.
 
 1 [^188]. À Ahura Mazda, brillant et glorieux, et aux Amesha-Spe<i>n</i>tas ;
 
@@ -156,6 +156,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . .
 
 Donne à cet homme [^213] éclat et gloire, donne-lui la santé du corps, donne-lui la robustesse du corps, donne-lui la force victorieuse du corps, donne-lui le plein bien-être de la richesse, donne-lui une progéniture vertueuse, donne-lui une longue, longue vie, donne-lui la demeure lumineuse, toute heureuse et bienheureuse des saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -182,56 +184,56 @@ Donne à cet homme [^213] éclat et gloire, donne-lui la santé du corps, donne-
 
 ## Notes de bas de page
 
-[^194]: 35:1 Le reste comme ci-dessus, Yt. I, 0.
+[^187]: 35:1 Le reste comme ci-dessus, Yt. I, 0.
 
-[^195]: 35:2 Sîrôzah I, 1-2.
+[^188] : 35:2 Sîrôzah I, 1-2.
 
-[^196]: 35:3 Sîrôzah I, 3-4.
+[^189] : 35:3 Sîrôzah I, 3-4.
 
-[^197]: 36 : 1 Sîrôzah I, 5-7.
+[^190] : 36:1 Sîrôzah I, 5-7.
 
-[^198]: 36:2 Sîrôzah I, 7.
+[^191]: 36:2 Sîrôzah I, 7.
 
-[^200]: 36:3 Sîrôzah I, 7.
+[^192]: 36:3 Sîrôzah I, 7.
 
-[^201]: 37 : 1 Sîrôzah II, 1-2.
+[^193] : 37 : 1 Sîrôzah II, 1-2.
 
-[^202]: 37:2 Sîrôzah II, 3-4.
+[^194] : 37:2 Sîrôzah II, 3-4.
 
-[^203]: 37:3 Sîrôzah II, 5-7.
+[^195] : 37:3 Sîrôzah II, 5-7.
 
-[^204]: 37:4 Sîrôzah II, 7.
+[^196]: 37:4 Sîrôzah II, 7.
 
-[^205]: 38:1 Sîrôzah II, 7.
+[^197]: 38:1 Sîrôzah II, 7.
 
-[^206]: 38:2 Ou : Que Zarathu<i>s</i>tra écrase les Yâtus.
+[^198]: 38:2 Ou : Que Zarathu<i>s</i>tra écrase les Yâtus.
 
-[^207]: 38:3 Les Yâtus sont soit des démons, soit des hommes : l'homme-Yâtu est le sorcier, le magicien. Cf. Yt. VIII, 44.
+[^199]: 38:3 Les Yâtus sont soit des démons, soit des hommes : l'homme-Yâtu est le sorcier, le magicien. Cf. Yt. VIII, 44.
 
-[^208]: 38:4 Douteux.
+[^200]: 38:4 Douteux.
 
-[^209]: 38:5 Je ne parviens pas à tirer quoi que ce soit de cette section.
+[^201]: 38:5 Je ne parviens pas à tirer quoi que ce soit de cette section.
 
-[^210]: 39:1 Douteux.
+[^202]: 39:1 Douteux.
 
-[^211]: 39 : 2 Voir Yt. VIII, 5, 42 ; cf. § 20.
+[^203] : 39 : 2 Voir Yt. VIII, 5, 42 ; cf. § 20.
 
-[^212]: 39:3 Âtare-vîtaremaibyâ . . . . vîmrao<i>t</i>; cf. atarâish. . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]) : âtareman semble être un péché par commission, vîtareman un péché par omission.
+[^204] : 39:3 Âtare-vîtaremaibyâ . . . . vîmrao<i>t</i>; cf. atarâish. . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]) : âtareman semble être un péché par commission, vîtareman un péché par omission.
 
-[^213]: 39:4 Douteux (fraspâvare<i>s</i> : fraspâ est généralement traduit par ramîtûntan).
+[^205]: 39:4 Douteux (fraspâvare<i>s</i>: fraspâ est généralement traduit par ramîtûntan).
 
-[^214]: 39:5 Douteux.
+[^206]: 39:5 Douteux.
 
-[^215]: 39:6 Cf. Yt. XIII, aussi; XIX, 86; frava<i>s</i>nãm est l'inverse de uzvazha<i>t</i> (1.1.).
+[^207]: 39:6 Cf. Yt. XIII, aussi; XIX, 86; frava<i>s</i>nãm est l'inverse de uzvazha<i>t</i> (1.1.).
 
-[^216]: 39:7 Le reste comme ci-dessus, § 1.
+[^208]: 39:7 Le reste comme ci-dessus, § 1.
 
-[^218]: 40:1 Le reste comme ci-dessus, § 2.
+[^209]: 40:1 Le reste comme ci-dessus, § 2.
 
-[^221]: 40:2 Le reste comme ci-dessus, § 3.
+[^210]: 40:2 Le reste comme ci-dessus, § 3.
 
-[^224]: 40:3 Le reste comme ci-dessus, §4.
+[^211]: 40:3 Le reste comme ci-dessus, §4.
 
-[^225]: 40:4 Le reste comme ci-dessus, § 5.
+[^212]: 40:4 Le reste comme ci-dessus, § 5.
 
-[^226]: 40:5 Qui offrira un sacrifice aux Amshaspands.
+[^213]: 40:5 Qui offrira un sacrifice aux Amshaspands.

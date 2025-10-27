@@ -50,6 +50,8 @@ Although Mânû<i>s</i><i>k</i>îhar does not mention, in his writings, any of t
 
 The present translation of this work is not the first that has been attempted. Shortly before the late Professor Haug left India he delivered a lecture on the Parsi religion to a large assemblage of Parsis in Bombay, at their request, and at his desire the sum of 900 rûpîs, out of the net proceeds of the entrance-tickets sold, was offered as a prize for an edition of the Pahlavi text of the Dâ<i>d</i>istân-î Dînîk with a Gu<i>g</i>arâti translation and glossary. Some years afterwards this prize was awarded to Mr. Shehriarji Dadabhoy and Mr. Tehmuras Dinshawji Anklesaria, for their joint Gu<i>g</i>arâti translation of the work, which still, however, remains unpublished <span id="pxxv"><sup><small>[ p. xxv ]</small></sup></span> for want of funds, and has, therefore, been inaccessible to the present translator.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

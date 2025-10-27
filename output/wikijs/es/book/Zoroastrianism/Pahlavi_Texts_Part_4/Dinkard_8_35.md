@@ -55,6 +55,8 @@ _Hûspâram Nask_.
 
 15\. Sobre el vigor creciente de la hembra al montar al macho, y la disminución del vigor del macho al montarse sobre la hembra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

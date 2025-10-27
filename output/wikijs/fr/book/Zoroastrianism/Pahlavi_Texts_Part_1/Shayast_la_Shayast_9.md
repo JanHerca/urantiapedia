@@ -57,6 +57,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 14\. « Ô créateur ! combien dure la vie de celui qui est mort ? » Et Aûharmazd parla ainsi : « Autant que l'aile d'une mouche, ô Zaratûs le Spîtâmân ! ou autant que l'ouïe une aile pour un aveugle » [^27].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

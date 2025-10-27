@@ -64,6 +64,8 @@ With regard to the orthography of Pahlavi names and words, advantage has been ta
 
 In conclusion it may be remarked that a translator of Pahlavi generally begins his career by undervaluing the correctness of Pahlavi texts and the literary ability of their authors, but he can hardly proceed far without finding abundant reason for altering his opinion of both. His depreciatory view of Pahlavi literature is generally due partly to want of knowledge, and partly to his trusting too much to the vile perversions of Pahlavi texts usually supplied by Pâzand writers. But as his knowledge of Pahlavi increases he becomes better able to appreciate the literary merits of the texts. If the reader should have already formed some such low estimate of the ability of Pahlavi writers, it may be hoped that these translations will afford him sufficient reason for changing his opinion; if not, they will have signally failed in doing those writers justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

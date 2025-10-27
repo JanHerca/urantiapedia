@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. «Y los malvados no son amigos de los buenos por esta razón, porque _hay_ un tiempo para su aniquilación y destrucción por manos de los buenos.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

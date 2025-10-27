@@ -51,6 +51,8 @@ A. Y cada órgano tiene una función, pero dos funciones especiales están conec
 
 14\. Un medio para retener el conocimiento es no agotarlo. Pero cuando uno habla así durante esa purificación, las palabras se originan realmente con la boca, pues no las retiene; y siempre que (maman) no dice nada con la lengua, esa glorificación religiosa que se acostumbra pronunciar antes y después de comer la ofrece entonces con sus propios recursos limitados (sâmânŏ-î vîmônd), y se ofrecerá con sus propios recursos limitados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

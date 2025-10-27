@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 9\. Et après ces 6000, qui sont les 6000 ans, il y a l'Airyaman [^28] d'Ashavahi<i>s</i>t _et_ les paroles qui l'accompagnent (ham-v<i>â</i><i>k</i>ŏ) qui sont à la fin des Gâthas ; ce sont les 57 années de Sôshâns [^29], et c'est aussi pour elles que se trouve l'Airyaman _et_ de la louange de la droiture à _sa_ fin _à_ la consécration de l'Airyaman, à l'origine 57 mots (mârîk), car la louange de la droiture pour l'Airyaman est de 12, et la consécration de l'Airyaman est de 21, _sur_ les 57 originaux [^30].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

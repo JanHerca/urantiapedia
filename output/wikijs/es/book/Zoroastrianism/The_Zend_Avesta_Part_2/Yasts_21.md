@@ -76,6 +76,8 @@ Yast XXI es un elogio de la oración Ashem Vohû, cuyo valor aumenta cada vez m�
 
 17\. Ahura Mazda respondió: «¡Es ese, oh santo Zaratustra!, a quien el hombre entrega para que renuncie a los malos pensamientos, las malas palabras y las malas acciones [^1329]».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -102,12 +104,12 @@ Yast XXI es un elogio de la oración Ashem Vohû, cuyo valor aumenta cada vez m�
 
 ## Notas al pie
 
-[^1392]: 311:1 Asha: el Ashem Vohû.
+[^1325]: 311:1 Asha: el Ashem Vohû.
 
-[^1393]: 312:1 Cien veces la fórmula: 'Sé propiciación (khshnaothra) para N. . . ., el santo y maestro de la santidad' (cf. [p. 1](../Preliminar#p1), nota [2](../Preliminar#fn3)).
+[^1326]: 312:1 Cien veces la fórmula: 'Sé propiciación (khshnaothra) para N. . . ., el santo y maestro de la santidad' (cf. [p. 1](../Preliminary#p1), nota [2](../Preliminary#fn3)).
 
-[^1394]: 312:2 Comer o beber (ver Vendîdâd, Introd. IV, 33).
+[^1327]: 312:2 Comer o beber (ver Vendîdâd, Introd. IV, 33).
 
-[^1395]: 313:1 Véase [p. 123](../Yasts_10#p123), nota [5](../Yasts_10#fn575).
+[^1328]: 313:1 Véase [p. 123](../Yasts_10#p123), nota [5](../Yasts_10#fn575).
 
-[^1396]: 313:2 En una conversión, o en la recitación de las oraciones penitenciales.
+[^1329]: 313:2 En una conversión, o en la recitación de las oraciones penitenciales.

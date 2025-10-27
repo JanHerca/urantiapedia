@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 5\. C'est la perfection de la justice ; c'est la perfection qui est la justice ; avec la copie révisée (râyînî<i>d</i>ŏ).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

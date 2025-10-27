@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. Y las palabras de la expresiva expresión de los sumos sacerdotes son estas: que donde _hay_ temor de cualquier otra cosa, ésta es más que la cosa misma, _pero_ el infierno es algo peor que el temor _de ella_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

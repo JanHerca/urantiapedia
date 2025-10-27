@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Y el pensamiento racional es consciente de las ventajas que se deben a los encargados de la ceremonia y solemnizadores de todos los ritos religiosos, y se obtiene y se observa un gran estipendio _para ellos_ más que para _cualquier_ otra profesión. 7. También los hijos de sacerdotes y discípulos se esfuerzan por las palabras rezadas [^3], y son más ávidos en sus oraciones; y muchos, asimismo, se dedicarán a todos los ritos religiosos, y se volverán más divulgadores de la religión (dînô bâli<i>s</i>nîktar); y, de igual manera, el camino adecuado, más alcanzable y más propicio para el bien de la salvación del alma se ensancha [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

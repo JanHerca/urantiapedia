@@ -146,6 +146,8 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -172,82 +174,86 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 ## Footnotes
 
-[^1397]: 314:1 See [p. 319](#p319), note [^1345].
+[^1330]: 314:1 See [p. 319](#p319), note [^1345].
 
-[^1398]: 314:2 The name of the second Gâtha, which begins with the word u<i>s</i>ta: the words in the text, ‘Happy the man . . . .,’ are its opening line (Ya<i>s</i>na XLII, 1).
+[^1331]: 314:2 The name of the second Gâtha, which begins with the word u<i>s</i>ta: the words in the text, ‘Happy the man . . . .,’ are its opening line (Ya<i>s</i>na XLII, 1).
 
-[^1399]: 314:3 Literally, sees, perceives.
+[^1332]: 314:3 Literally, sees, perceives.
 
-[^1400]: 315:1 Thrao<i>s</i>ta: in Pahlavi rôi<i>s</i>man.
+[^1333]: 315:1 Thrao<i>s</i>ta: in Pahlavi rôi<i>s</i>man.
 
-[^1401]: 316:1 ‘That is to say, from the gods’ (Pahl. Comm.).
+[^1334]: 316:1 ‘That is to say, from the gods’ (Pahl. Comm.).
 
-[^1402]: 316:2 Of holy things.
+[^1335]: 316:2 Of holy things.
 
-[^1403]: 316:3 Doubtful. The Pahlavi commentary has the following gloss: ‘He would not give his friends what they begged for.’
+[^1336]: 316:3 Doubtful. The Pahlavi commentary has the following gloss: ‘He would not give his friends what they begged for.’
 
-[^1404]: 316:4 To the poor:—Urvarô-straya: urvar babâi<i>k</i> kart (Pahl. Comm.): âighshân babâ barâ asrûnast (star, to tie, as in frastaretem baresma). Cf. Yt. XXIV, 37, 59.
+[^1337]: 316:4 To the poor:—Urvarô-straya: urvar babâi<i>k</i> kart (Pahl. Comm.): âighshân babâ barâ asrûnast (star, to tie, as in frastaretem baresma). Cf. Yt. XXIV, 37, 59.
 
-[^1405]: 316:5 With alms to the poor Mazdayasnians (ashô-dâd).
+[^1338]: 316:5 With alms to the poor Mazdayasnians (ashô-dâd).
 
-[^1406]: 317:1 The so-called Hûmat Paradise (cf. Yt. III, 3).
+[^1339]: 317:1 The so-called Hûmat Paradise (cf. Yt. III, 3).
 
-[^1407]: 317:2 The so-called Hûkht Paradise.
+[^1340]: 317:2 The so-called Hûkht Paradise.
 
-[^1408]: 317:3 The so-called Hvarsht Paradise.
+[^1341]: 317:3 The so-called Hvarsht Paradise.
 
-[^1409]: 317:4 The seat of the Garôthmân.
+[^1342]: 317:4 The seat of the Garôthmân.
 
-[^1410]: 318:1 Zaremaya is the spring: the word translated oil (raoghna, Persian ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/31800.jpg)) might perhaps be better translated ‘butter;’ the milk made in the middle of spring was said to be the best (Vispêrad I, 2; Pahl. Comm.; cf. Dâdistân XXXI, 14).
+[^1343]: 318:1 Zaremaya is the spring: the word translated oil (raoghna, Persian ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/31800.jpg)) might perhaps be better translated ‘butter;’ the milk made in the middle of spring was said to be the best (Vispêrad I, 2; Pahl. Comm.; cf. Dâdistân XXXI, 14).
 
-[^1411]: 318:2 The Gâtha of lamenting, beginning with the word Kãm (Kãm nemê zãm: ‘To what land shall I turn?’); Yasna XLVI (XLV).
+[^1344]: 318:2 The Gâtha of lamenting, beginning with the word Kãm (Kãm nemê zãm: ‘To what land shall I turn?’); Yasna XLVI (XLV).
 
-[^1412]: 319:1 A development similar to that in §§ 9-14 is to be supplied here: in the Ardâ Vîrâf and the Minokhired the soul of the wicked is met by a horrid old woman, who is his own conscience: ‘And in that wind he saw his own religion and deeds, as a profligate woman, naked, decayed, gaping, bandy-legged, lean-hipped, and unlimitedly spotted, so that spot was joined to spot, like the most hideous noxious creatures (khrafstar), most filthy and most stinking’ (cf. § 9).
+[^1345]: 319:1 A development similar to that in §§ 9-14 is to be supplied here: in the Ardâ Vîrâf and the Minokhired the soul of the wicked is met by a horrid old woman, who is his own conscience: ‘And in that wind he saw his own religion and deeds, as a profligate woman, naked, decayed, gaping, bandy-legged, lean-hipped, and unlimitedly spotted, so that spot was joined to spot, like the most hideous noxious creatures (khrafstar), most filthy and most stinking’ (cf. § 9).
+  &nbsp;
   Then that wicked soul spoke thus: ‘Who art thou? than whom I never saw any one of the creatures of Aûharmazd and Akharman uglier, or filthier or more stinking’ (cf. § 10).
-  
+  &nbsp;
   To him she spoke thus: 'I am thy bad actions, O youth of evil thoughts, of evil words, of evil deeds, of evil religion! It p. 320 is on account of thy will and actions that I am hideous and vile, iniquitous and diseased, rotten and foul-smelling, unfortunate and distressed, as appears to thee (cf. §§ 11-12).
-  
+  &nbsp;
   ‘When thou sawest any one who performed the Yazishn and Drôn ceremonies, and praise and prayer and the service of God, and preserved and protected water and fire, cattle and trees, and other good creations, thou practisedst the will of Akharman and the demons, and improper actions. And when thou sawest one who provided hospitable reception, and gave something deservedly in gifts and charity, for the advantage of the good and worthy who came from far, and who were from near, thou wast avaricious, and shuttedst up thy door (cf. § 13).
-  
+  &nbsp;
   ‘And though I have been unholy (that is, I have been considered bad), I am made more unholy through thee; and though I have been frightful, I am made more frightful through thee; though I have been tremulous, I am made more tremulous through thee; though I am settled in the northern region of the demons, I am settled further north through thee; through these evil thoughts, through these evil words, and through these evil deeds, which thou practisedst. They curse me, a long time, in the long execration and evil communion of the Evil Spirit (cf. § 14).
-  
+  &nbsp;
   ‘Afterwards that soul of the wicked advanced the first footstep on Dûsh-hûmat (the place of evil thoughts), &c.’ (The Book of Ardâ Vîrâf, XVII, 12-27, as translated by Haug).
 
-[^1413]: 321:1 Cf. Yasna XXXI, 20: ‘He who would deceive the holy One, to him afterwards (will be) a long weeping in the dark place, bad food and words of insult. O wicked! this is the place down which your own conscience will bring you through your own deeds.’
+[^1346]: 321:1 Cf. Yasna XXXI, 20: ‘He who would deceive the holy One, to him afterwards (will be) a long weeping in the dark place, bad food and words of insult. O wicked! this is the place down which your own conscience will bring you through your own deeds.’
 
-[^1417]: 321:2 §§ 37-38, 39-40, 41-42 are separate fragments.
+[^1347]: 321:2 §§ 37-38, 39-40, 41-42 are separate fragments.
 
-[^1415]: 321:3 One of the first disciples of Zoroaster; cf. Yt. XIII, 96.
+[^1348]: 321:3 One of the first disciples of Zoroaster; cf. Yt. XIII, 96.
 
-[^1416]: 321:4 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173).
+[^1349]: 321:4 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173).
 
-[^1418]: 322:1 § 38 = Yt. I, 31.
+[^1350]: 322:1 § 38 = Yt. I, 31.
 
-[^1419]: 322:2 A Pahlavi translation of the following two fragments is found in MS. 33, Paris, Supplément Persan (edited in Études Iraniennes, II).
+[^1351]: 322:2 A Pahlavi translation of the following two fragments is found in MS. 33, Paris, Supplément Persan (edited in Études Iraniennes, II).
 
-[^1420]: 322:3 <i>K</i>ithra (Paris MS. p. 255).
+[^1352]: 322:3 <i>K</i>ithra (Paris MS. p. 255).
 
-[^1421]: 322:4 ‘How do they manifest their assistance?’ (Pahl. tr. ibid.); that is to say, when do they assist their relations and countrymen? (see Yt. XIII, 49 seq.)
+[^1353]: 322:4 ‘How do they manifest their assistance?’ (Pahl. tr. ibid.); that is to say, when do they assist their relations and countrymen? (see Yt. XIII, 49 seq.)
 
-[^1422]: 322:5 When men are instinct with good spirit and good thought.
+[^1354]: 322:5 When men are instinct with good spirit and good thought.
 
-[^1423]: 322:6 The Pahlavi translation of this fragment has here §§ 14-16 of the Âtash Nyâyi<i>s</i>, then §§ 18-19 of Vendîdâd XVIII. Therefore the whole passage is to be restored as follows:
+[^1355]: 322:6 The Pahlavi translation of this fragment has here §§ 14-16 of the Âtash Nyâyi<i>s</i>, then §§ 18-19 of Vendîdâd XVIII. Therefore the whole passage is to be restored as follows:
+  &nbsp;
   Âtar looks at the hands of all those who pass by: ‘What does the friend bring to his friend . . . .?’ (Âtash N. 14.)
-  
+  &nbsp;
   And if that passer-by brings him wood holily brought, or bundles of baresma holily tied up . . . ., then Âtar . . . . will bless him thus:
-  
+  &nbsp;
   May herds of oxen grow for thee . . . . (Âtash N. 15-16).
-  
+  &nbsp;
   In the first part of the night, Fire, the son of Ahura Mazda, calls the master of the house for help, saying:
-  
+  &nbsp;
   ‘Up! arise, thou master of the house . . . .’ (Vend. XVIII, 18-19).
-  
+  &nbsp;
   ‘Then towards the dawning of the dawn . . . .’ (see the text).
 
-[^1424]: 322:7 Cf. Vend. XVIII, 23.
+[^1356]: 322:7 Cf. Vend. XVIII, 23.
 
-[^1425]: 322:8 ‘He who has knowledge made,’ or ‘He who has the knowledge of what is made’ (kartak dânishn); his other name Parôdar<i>s</i> is ‘He who foresees.’
+[^1357]: 322:8 ‘He who has knowledge made,’ or ‘He who has the knowledge of what is made’ (kartak dânishn); his other name Parôdar<i>s</i> is ‘He who foresees.’
 
-[^1426]: 322:9 Here again a large passage is omitted: it can only partly be p. 323 supplied from the Pahlavi translation; the words in brackets refer to Zend texts lost to us:
+[^1358]: 322:9 Here again a large passage is omitted: it can only partly be p. 323 supplied from the Pahlavi translation; the words in brackets refer to Zend texts lost to us:
+  &nbsp;
   ‘Then he flaps his wings and lifts up his voice, saying: “Arise, O men! \[and also women, grown-up people, and children, &c . . . . Put on well your girdle and shirt, wash your hands, put your girdle around your body, go and give food to the cattle and recite aloud the five holy Gâthas of Spitama Zarathu<i>s</i>tra.”\]
+  &nbsp;
   ‘Here the fiendish Bûshyãsta . . . .’ (see the text). Then the Pahlavi translation has: ‘Never care for the three excellent things, good thoughts, good words, good deeds’ (cf. Vend. XVIII, 25).

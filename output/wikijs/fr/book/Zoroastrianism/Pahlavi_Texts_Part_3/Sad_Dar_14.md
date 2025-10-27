@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 10\. Il est absolument nécessaire qu'ils ne les laissent pas intacts, car ils pourraient servir d'armes (silâ'h) aux sorciers [^11]. 11. Et ils ont aussi dit que, s'ils tombent au milieu d'un repas, il y a danger de phtisie pulmonaire.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

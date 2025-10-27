@@ -49,6 +49,8 @@ II. Mais celui qui a beaucoup de talent devrait avoir [^5] un salaire important,
 
 22\. La même collecte [^19] est la manière dont les amis de la religion demandent aux défenseurs de la religion la préservation de l'âme, et considèrent bien, avec une grâce extrême et une révérence totale, l'avantage et le plaisir de la position [^20] des défenseurs de la religion, afin qu'ils collectent comme il se doit pour la préservation des âmes en allant collecter minutieusement avec un grand gain.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

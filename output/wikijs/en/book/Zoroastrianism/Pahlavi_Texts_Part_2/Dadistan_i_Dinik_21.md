@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. And the almighty creator responds, _and_ allots a teacher [^13] for smiting the fiend, for the satisfaction of the righteous, _and_ for the protection of the good creatures. 5. As it is said, that in every age a high-priest of the religion and _his_ managing of the creatures are made manifest, in whom, in that age, the protection of the creatures and the will of the sacred beings are progressing.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

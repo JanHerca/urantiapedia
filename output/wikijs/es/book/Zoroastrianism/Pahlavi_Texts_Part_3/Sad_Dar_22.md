@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Pues, en el comentario del Hâ<i>d</i>ôkht Nask, se dice que todo aquel que realiza <i>G</i>âda<i>n</i>gôî</i>, y extrae algo de una persona por cuenta de esta, y se lo entrega, es tan injusto ('<i>h</i>iyânat) hacia ella [^3] como quien <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> les haya dado de su propia propiedad. 4. Y _en_ ​​la _existencia_ espiritual toman [^4] cuenta de esa ganancia para él, y así como hacen cuenta de la buena obra de quien la haya dado, así también es su buena obra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

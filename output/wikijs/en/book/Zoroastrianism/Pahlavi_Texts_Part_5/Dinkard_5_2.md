@@ -52,6 +52,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 15\. _There_ are also his pure new bringers and complete controllers of the same religion, Aûshê<i>d</i>ar [^21], Aûshê<i>d</i>ar-mâh [^22], and Sôshâns [^23]; and through the complete progress of this religion of Aûha<i>r</i>ma<i>z</i><i>d</i>, all the good creatures become without disturbance and all-radiant [^24].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

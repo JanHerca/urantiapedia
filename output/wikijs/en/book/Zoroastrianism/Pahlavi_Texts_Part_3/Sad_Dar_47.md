@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. Therefore, every time that they accomplish the ceremony _for_ Srôsh, the soul of that child becomes separated from the souls of _its_ father and mother, and goes to heaven, and is imploring intercession (<i>s</i>ifâ’hat) for _its_ father and mother in the presence of the sacred beings in that _other_ world.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

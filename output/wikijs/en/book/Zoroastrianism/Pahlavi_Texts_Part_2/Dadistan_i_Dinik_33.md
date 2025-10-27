@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. These three places, collectively, are called hell, _which_ is northerly, descending, and underneath this earth, even unto the utmost declivity of the sky; and its gate is in the earth, a place of the northern quarter, and is called the Arezûr ridge [^4], a mountain which, among its fellow mountains of the name of Arezûr [^5] that are amid the rugged (kôfîk) mountains, is said in revelation [^6] _to have_ a great fame with the demons, and the rushing together and assembly of the demons in the world are on the summit of that mountain, _or_ as it is called ‘the head of Arezûr.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

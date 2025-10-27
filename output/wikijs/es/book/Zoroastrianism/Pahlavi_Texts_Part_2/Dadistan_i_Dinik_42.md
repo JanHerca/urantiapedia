@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Y así como lo que es una ley impropia _y_ una ley digna de muerte es un castigo del alma, y ​​las palabras inconexas [^8] y la perversión (va<i>s</i>takîh), debido también a la perfidia (rangi<i>s</i>nŏ) del demonio _que ha_ venido, son tales que en su tiempo los ritos religiosos (dînô) realizados son ritos de grave vejación _y_ temor, _así_ lo que es una ley apropiada, como la gran glorificación en espíritu y las palabras conexas de los sumos sacerdotes, es la llegada del buen espíritu tanto como una virtud digna de recompensa _y_ llena de esperanza. 7. Así como aquello que se dice así: «De los hombres que practican las buenas obras la manifestación está entonces en sus hijos».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

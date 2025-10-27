@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 14\. Un moyen de retenir la connaissance est de ne pas épuiser cette rétention, mais lorsque quelqu'un parle ainsi pendant cette purification, les mots proviennent en réalité de la bouche, car il ne les retient pas ; et chaque fois qu'il ne dit rien du tout avec la langue, cette glorification religieuse qu'il a coutume de prononcer avant et après avoir mangé est alors offerte par lui de ses propres ressources limitées (sâmânŏ-î vîmônd), et elle sera offerte de ses propres ressources limitées.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

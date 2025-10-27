@@ -48,6 +48,8 @@ dateCreated: 2025-10-10T14:41:43Z
 24\. La justicia es la excelencia perfecta.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

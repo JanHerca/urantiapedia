@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Porque en nuestra religión no hay deber mejor que llevar el _cinturón sagrado_, y es obligatorio <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> tanto para el hombre como para la mujer. 3. Y, antiguamente, si alguien cumplía quince años y no llevaba el cinturón sagrado, lo apedreaban, pues le está prohibido el pan y el agua.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

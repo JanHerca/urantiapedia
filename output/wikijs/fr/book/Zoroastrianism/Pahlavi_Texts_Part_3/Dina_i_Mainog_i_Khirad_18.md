@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. L'esprit de sagesse répondit (5) ainsi : « À cause de l'illusion (nîyâ<i>z</i>ânîh) du démon de l'avidité [^2] et du mécontentement. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

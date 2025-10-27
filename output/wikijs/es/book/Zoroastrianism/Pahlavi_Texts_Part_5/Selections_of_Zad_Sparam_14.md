@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 16\. Otro día, Pôrûshaspô fue y preguntó a los magos que custodiaban el lugar: «¿Cuál es la causa del llanto de los bebés al nacer, aparte de la que se produce cuando se ríen abiertamente?». 17. Y respondieron: «Porque quienes lloran han visto la mortalidad como su fin, y quienes han reído han visto su propia rectitud».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

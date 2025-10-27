@@ -187,6 +187,8 @@ Cualquiera que sea el período en que se originó la práctica del matrimonio en
 
 Que tales matrimonios no eran inusuales entre otras razas en la antigüedad lo sabemos por numerosos relatos de la mitología griega y romana, por la práctica habitual de la dinastía griega de los Ptolomeos en Egipto, e incluso por las leyes que prohibían tales uniones en Levítico 18:6-16, las cuales, dado que las leyes no están hechas para prohibir prácticas inexistentes, difícilmente se habrían escrito a menos que los hijos de Israel hubieran adoptado la costumbre en algún momento, aunque en menor medida. El hecho de que los parsis ahora nieguen la existencia de tales matrimonios entre sus antepasados ​​demuestra que ya no aprueban la costumbre, pero no afecta la evidencia histórica de su antigua <span id="p430"><sup><small>[ p. 430 ]</small></sup></span> existencia. Los cristianos ya no aprueban la persecución y ejecución de mujeres por el supuesto delito de brujería, pero sería infantil e inútil que negaran que sus antepasados ​​cometieron cientos de tales asesinatos judiciales hace menos de dos siglos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

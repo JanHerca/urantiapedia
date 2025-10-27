@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. Therefore, since she is like this, it is necessary for women to keep themselves _with_ great effort, so that they _may_ not become unlawful unto their own <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> husbands. 8. For, every time that _one of them_ gives herself four times to another person, she is, after that, unlawful as long as [^6] she may be _in_ the house of _her_ husband [^7] and new sin is increasing _in connection_ with her soul [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

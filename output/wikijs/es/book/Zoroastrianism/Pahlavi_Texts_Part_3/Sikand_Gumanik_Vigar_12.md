@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 82\. Hasta aquí se considera completo sobre este tema.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

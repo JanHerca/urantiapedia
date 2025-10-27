@@ -42,6 +42,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 5\. About the backward connection of Zaratû<i>s</i>t with Aûha<i>r</i>ma<i>z</i><i>d</i>, through the two who _are_ Yim, the best of the worldly existences, and Nêryôsang of the spirits. 6. The enumeration of the lineage of Zaratû<i>s</i>t is Zaratû<i>s</i>t, _son of_ Pôrûshaspô [^7], of Purtarâspô, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> of Ahûrva<i>d</i>âspô, of Hâê<i>k</i>a<i>d</i>âspô, of <i>K</i>îkhshnû<i>s</i>, of Paîtiraspô, of Are<i>g</i>a<i>d</i>arsî\*, of Kharedhar\*, of Spîtâmân, of Vaêdî<i>s</i>tô, of Ayazem, of Frî<i>s</i>, of Ari<i>g</i>\*; of Dûrasrôbô, of Mânû<i>s</i><i>k</i>îhar, of Mânû<i>s</i>\-khûrnar, of Mânû<i>s</i>\-khûrnâk, whom Nêryôsang the messenger of Aûha<i>r</i>ma<i>z</i><i>d</i> _brought, and_ whose mother was Vîzag, _daughter_ of Aryag, of Srîtak, of Bîtak, of Frazûsak, of Zû<i>s</i>ak, of Fragûzag, of Gûzag, _daughter_ of Aîrî<i>k</i>, _son_ of Frê<i>d</i>ûn of the Âspîgâns to the total of ten Âspîgâns, of Yim, of the Vîvang,has, of the Ayang,has, of the Anang,has, of Hôshâng, of Fravâk, of Sîyâmak, of Masîyâ, of Gâyômar<i>d</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

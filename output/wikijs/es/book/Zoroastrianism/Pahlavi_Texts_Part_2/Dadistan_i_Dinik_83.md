@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. _En cuanto a_ el sacerdote que se encargará de todos los ritos religiosos, si _él_ vive cómodamente (hû-zîvi<i>s</i>nŏ) con una parte de nuestra administración doméstica [^2], <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> administración de aldea, administración de tribu y administración de provincia, y su necesario sustento religioso sigue siendo la consideración para que viva cómodamente, y no necesita el estipendio de todos los ritos religiosos, entonces la regla para él es distribuir adecuadamente esa recompensa de la fiesta sagrada [^3], que se debe dar _para_ todos los ritos religiosos, entre los solemnizadores [^4]. 5. Si es necesario para él, el sacerdote, según su idoneidad, no cambia —con lo cual no se logra una buena administración— y si es necesario incluso para su consideración de todos esos ritos religiosos, su desempeño en el deber y ministerio es entonces una aprobación de mérito y administración. 6. Cuando actúan así, todos esos ritos religiosos se gestionan con mayor mérito; y un día los solemnizadores son elevados del rango de sacerdotes al rango de hombres sacerdotales, que es el estipendio para todos los ritos religiosos que se les autorice expresamente y, por lo tanto, son dignos de él.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

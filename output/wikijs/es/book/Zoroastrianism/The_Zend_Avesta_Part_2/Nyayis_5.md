@@ -112,6 +112,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes...
 
 18\. [^1556]. Con nuestra virtud, alegramos tu poderoso Fuego, ¡oh Ahura!, tu Fuego más rápido y poderoso, que muestra su ayuda [^1557] a quien siempre lo ha consolado, pero se deleita en vengarse con sus manos de quien lo ha dañado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

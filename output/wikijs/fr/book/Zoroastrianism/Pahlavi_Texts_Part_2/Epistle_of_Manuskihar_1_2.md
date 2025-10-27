@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 13\. Quand la période est si indigne, le démon si abondamment querelleur, et le préparateur hâtif d'eau bénite d'une origine si basse (dû<i>s</i>\-vêkh) [^12]\ — ce qui arrive d'ailleurs lorsque les bons sont également bas d'esprit (ham-bâstŏ-mînisnŏ) — nous nous efforçons de trouver ce qui encourage la préparation de ce qui est une profession collectivement vertueuse. 14. De plus, il subsiste une telle montée en puissance de nombreuses choses nouvelles venues de très nombreux pays, ce qui constitue pour nous une détresse et un danger particulièrement graves ; elles nous en livrent des témoignages avec applaudissements, et la capacité d'expression du diffuseur de ces coutumes religieuses et d'autres encore, comme la persistance et la gloire complète des êtres sacrés, est une grande et puissante capacité.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

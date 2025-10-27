@@ -65,6 +65,8 @@ Sacrificamos a la sagrada Ardvi Sûra Anâhita con libaciones. Sacrificamos a Ar
 '\[Dale\] a ese hombre brillo y gloria, . . . dale la brillante, feliz y dichosa morada de los Santos.'
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

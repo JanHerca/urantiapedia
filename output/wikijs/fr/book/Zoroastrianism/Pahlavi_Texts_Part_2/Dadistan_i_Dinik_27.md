@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. Et les paroles expressives des grands prêtres sont celles-ci : là où il y a une crainte de toute autre chose, elle est plus que la chose elle-même, _mais_ l'enfer est une chose pire que la crainte de _celui-ci_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

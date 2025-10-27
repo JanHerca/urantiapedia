@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 14\. Ensuite, le vent, de la même manière que précédemment, retint l'eau, au bout de trois jours, sur différents côtés de la terre ; et les trois grandes mers et vingt-trois petites mers [^14] en sortirent, et deux fontaines (<i>k</i>ashmak) de la mer devinrent ainsi manifestes, l'une le lac <i>K</i>ê<i>k</i>ast, et l'autre le Sôvbar [^15], dont les sources sont reliées à la <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> fontaine de la mer. 15. Et à son côté nord [^16] coulaient deux fleuves, _et_ allaient_ l'un à l'est _et_ l'autre à l'ouest : ce sont le fleuve Arag et le fleuve Vêh ; comme il est dit ainsi : « À travers ces filets de la largeur d'un doigt, verse et fais jaillir deux telles eaux, ô Aûharmazd ! » 16. Ces deux fleuves serpentent à travers toutes les extrémités de la terre, et se mêlent à nouveau à l'eau de l'océan aux formes vastes. 17. Comme ces deux fleuves coulaient, et du même lieu d'origine que les leurs, dix-huit [^17] fleuves navigables coulaient, et après que les autres eaux se soient écoulées de ces cours d'eau navigables, elles retournent toutes au fleuve Arag [^18] et au fleuve Vêh, dont la fertilisation (khvâpardârîh) du monde en provient.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -187,6 +187,8 @@ Quelle que soit l'époque à laquelle la pratique du mariage entre proches paren
 
 Que de tels mariages n'étaient pas inhabituels chez les autres races dans l'Antiquité, nous l'apprenons grâce à de nombreux récits de la mythologie grecque et romaine, à la pratique courante de la dynastie grecque des Ptolémées en Égypte, et même aux lois interdisant de telles unions dans Lévitique XVIII, 6-16. Ces lois, n'étant pas faites pour interdire des pratiques inexistantes, n'auraient guère été écrites si les enfants d'Israël n'avaient pas adopté cette coutume dans une certaine mesure. Que les Parsis nient aujourd'hui l'existence de tels mariages parmi leurs ancêtres prouve qu'ils n'approuvent plus cette coutume, mais n'affecte en rien les preuves historiques de son existence <span id="p430"><sup><small>[ p. 430 ]</small></sup></span> passée. Les chrétiens n'approuvent plus la persécution et l'exécution de femmes pour le crime imaginaire de sorcellerie, mais il serait à la fois puéril et inutile pour eux de nier que leurs ancêtres ont commis des centaines de tels meurtres judiciaires il y a moins de deux siècles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

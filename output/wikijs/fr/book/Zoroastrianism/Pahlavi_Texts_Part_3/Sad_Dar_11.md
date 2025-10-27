@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. _Pour_ chaque incendie qui s'éteint dans une habitation, une perte de trois dirhams et deux dângs [^7] tombe <span id="p272"><sup><small>[ p. 272 ​​]</small></sup></span> sur les biens de cette personne, ou elle devient la perte de cette habitation, ou elle ne lui parvient pas du lieu d'où lui vient la richesse.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

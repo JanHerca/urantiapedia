@@ -70,6 +70,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 33\. And during her menstruation _she_ is to be so seated that, from her body, _there_ are fifteen steps of three feet to water, fifteen steps to fire, fifteen steps to the _sacred_ twigs, and three steps to a righteous man [^40]. 34. And her food is to be carried forth in iron or leaden _vessels_; and the person (valman) who shall carry forth the food stands at three steps away from her [^41]. 35. When worship is celebrated, every time at the dedication (shnûmanê) [^42] of the consecration of sacred cakes (drôn ya<i>s</i>t) _it_ is to be uttered aloud _by her;_ some say the Ithâ _and_ Ashem-vohû [^43].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

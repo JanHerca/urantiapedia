@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. When the instructions of these three persons are brought to pass, carrying _out_ the commands of the sacred being is accomplished. 6. Especially the instructions of the high-priests, because their satisfaction is connected with the satisfaction of the sacred being; and the high-priests possess so much dignity (martabat) _in_ the presence of the sacred being, the good _and_ propitious, that they are quite able to forgive _any_ trivial one of the sins of mankind [^7], and Hôrmazd, the good _and_ propitious, quickly [^8] forgives that sin for the high-priest. 7. <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> Therefore, carrying _out_ the commands of the high-priests becomes [^9] incumbent on every one; and the fulfilment of this maxim is _better_ than _that of_ a whole assemblage of maxims.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

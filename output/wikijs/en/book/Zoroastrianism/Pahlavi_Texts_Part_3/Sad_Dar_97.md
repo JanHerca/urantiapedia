@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. For in the commentary of the Avesta it says, _as to_ every one who brings altercation (‘hu<i>g</i><i>g</i>at) into any statement of the elders of the religion, ‘_one_ breaks out his tongue, or he goes out from this world abortively (muba<i>t</i><i>t</i>alâ).’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

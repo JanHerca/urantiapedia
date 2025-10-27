@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 34\. Regarding Frâsîyâ<i>v</i> [^61] they say, that a thousand springs were conducted away by him into the sea Kyânsîh [^62], suitable for horses, suitable for camels, suitable for oxen, suitable for asses, both great and small [^63]; and he conducted the spring Zarînmand (or golden source), which is the Hêtûmand [^64] river they say, into the same sea; and he conducted the seven navigable waters of the source of the Va<i>k</i>aêni [^65] river into the same sea, _and_ made men settle _there_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

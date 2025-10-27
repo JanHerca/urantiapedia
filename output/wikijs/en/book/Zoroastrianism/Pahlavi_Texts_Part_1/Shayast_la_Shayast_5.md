@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 7\. The deaf and dumb when it is not possible for him to say an Ashem does not commit unseasonable chatter [^15]; and when it is possible for him to say an Ashem he shall three times say of it, ‘Ashem, ashem, ashem;’ and if it be possible for him to say <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> ‘ithâ’ and ‘ashem-vohû’ it is well, and when it is only possible for him to say ‘ithâ’ it matters not [^16].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

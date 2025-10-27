@@ -60,6 +60,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

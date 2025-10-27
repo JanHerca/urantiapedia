@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 2\. La excelencia que es perfecta es justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

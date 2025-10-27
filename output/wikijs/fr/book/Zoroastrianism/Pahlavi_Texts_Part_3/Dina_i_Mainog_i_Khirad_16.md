@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 64\. Parmi les vêtements que les gens possèdent et portent [^20], la soie est bonne pour le corps et le coton pour l'âme. 65. Pour cette raison, parce que la soie provient d'une créature nocive [^21], (66) et que la nourriture du coton vient de l'eau et sa croissance de la terre [^22] ; et en tant que trésor de l'âme, il est appelé grand, bon et plus précieux.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

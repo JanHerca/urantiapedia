@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Et la troisième nuit, à l'arrivée fraîche de l'aube, son péché, sous la forme effrayante et souillée d'une jeune fille (<i>k</i>arâtîk) qui est une blessante, vient à sa rencontre avec le stock de son péché ; et un vent puant du nord [^2] sort à sa rencontre, et il vient en frissonnant, en frémissant [^3], et en courant à contrecœur pour rendre des comptes. 6. Et à cause d'être trompé et trompeur, l'hérésie (a<i>v</i>ârûn-dînôîh), l'accusation implacable et fausse [^4] de compagnons constants, et la péchés largement répandue d'une existence démoniaque (drû<i>g</i>\-stihîh) il est ruiné, tombe du pont, _et_ est précipité en enfer.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

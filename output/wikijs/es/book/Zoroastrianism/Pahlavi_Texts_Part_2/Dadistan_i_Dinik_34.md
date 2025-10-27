@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: uno es para ascender y otro para descender; y debido a que ambos tienen la misma apariencia, escribo esto para su comprensión y explicación completa, es decir: 3. Las almas justas cruzan el puente <i>Kinva<i>d</i> [^2] mediante el vuelo espiritual y el poder de las buenas obras; y ascienden hacia la estrella, la luna, la estación solar o la luz eterna [^3]. 4. El alma del malvado, debido a _su_ caída _del_ puente, su demonio mentiroso y la contaminación acumulada por su pecado, será conducida desde allí al descenso a la tierra, ya que ambos caminos conducen desde ese puente en la cima del Dâîtih.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

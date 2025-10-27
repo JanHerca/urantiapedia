@@ -57,6 +57,8 @@ PARTIE I, CHAPITRES I-XI.
 
 7\. Le manuscrit mentionné dans les notes est le K3. (écrit probablement en 1572 après J.-C.), n° 35 de la bibliothèque universitaire de Copenhague.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

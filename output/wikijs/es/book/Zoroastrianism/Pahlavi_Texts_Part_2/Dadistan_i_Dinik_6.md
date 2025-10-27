@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 9\. Y de esta manera, en el mundo, la comodidad y el placer de los viles son mayores, y la ansiedad, la vejación, el desaliento y la angustia de los buenos _han_ aumentado; la razón la revelan las estrellas [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 8\. Pero, en segundo lugar, _en cuanto_ al paradero de los lugares que son suyos -igual que los suyos- de los cuales _no_ hay disquisición por mi parte, esto también se debe a que _mi_ no los recuerdo [^22].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

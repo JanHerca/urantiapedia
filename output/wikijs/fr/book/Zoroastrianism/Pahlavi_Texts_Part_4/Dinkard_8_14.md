@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 16\. Parfaite est l'excellence de la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

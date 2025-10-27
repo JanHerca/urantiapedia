@@ -58,6 +58,8 @@ B (escrito en 1659 d. C.), un manuscrito casi completo de los Libros III-IX, tra
 K (escrito en 1594 d. C. y posteriormente), n.º 43, en la Biblioteca Universitaria de Copenhague, un manuscrito misceláneo que contiene varios fragmentos de los Libros III, V, VI y IX. De los Libros aquí traducidos, contiene el texto del Libro IX, Caps. I, 1-XXXI, 17.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -57,6 +57,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 26\. L'excellence _qui_ est_ parfaite _est_ la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

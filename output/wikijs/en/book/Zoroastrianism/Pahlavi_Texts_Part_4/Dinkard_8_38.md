@@ -78,6 +78,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 63\. About the proportion of meat with the bread in atonement for deprival of food [^18]. 64. About an ordeal which is severe, and _one which is_ not severe; _and_ the evidence of acquittal from the achievement thereof. 65. About the secrets of the religion, and the sin owing to _their being_ disclosed (gushûftŏ). 66. About the sin of speaking evil words to the wives of others. 67. About the extent of the most inferior house, village, community, _and_ province; _and_ that of the most superior. 68. And about what _was_ the mode _of_ residence of Frashô<i>s</i>tar and <i>G</i>âmâsp [^19] in a plundering (lâî<i>s</i>kar) army, and their habits.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

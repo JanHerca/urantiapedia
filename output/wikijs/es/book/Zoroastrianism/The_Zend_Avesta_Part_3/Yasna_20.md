@@ -46,6 +46,8 @@ Sacrificamos a las diversas partes del Asha Vahi<i>s</i>sta (oración). Sacrific
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

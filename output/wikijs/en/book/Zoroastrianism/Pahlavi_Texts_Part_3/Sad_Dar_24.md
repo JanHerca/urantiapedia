@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. If, at that time, they do not perform the consecration, they _should_ take forth a little Hôm for it [^3], and recite [^4] a Yathâ-ahû-vairyô [^5], and put a trifle of water into _it_, and make Hôm-juice of that, and give _it_ to the infant, and afterwards [^6] milk.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

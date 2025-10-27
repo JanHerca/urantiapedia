@@ -34,6 +34,8 @@ dateCreated: 2025-2-12T12:15:42Z
 
 This chapter is identical with Yasna XXXVII.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

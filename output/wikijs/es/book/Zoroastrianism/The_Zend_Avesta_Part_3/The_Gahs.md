@@ -112,6 +112,8 @@ Y sacrificamos al hombre santo más prolífico en buenos pensamientos, palabras 
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

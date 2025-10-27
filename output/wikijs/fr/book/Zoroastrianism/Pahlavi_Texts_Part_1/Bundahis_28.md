@@ -59,6 +59,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 47\. Concernant l'intérieur froid, sec, pierreux et sombre de l'enfer mystérieux (târîk dên afrâ<i>g</i>\-pê<i>d</i>âk), il est dit que l'obscurité est à saisir avec la main [^54] et la puanteur à couper avec un couteau ; et s'ils infligent le châtiment de mille hommes en un seul geste, ils (les hommes) se croient seuls ; et la solitude est pire que son châtiment [^55]. 48. Et son lien (bande) est avec les sept planètes, que ce soit par un froid intense comme Saturne [^56] (Kêvân), ou par une chaleur intense comme Aharman ; et leur nourriture est le soufre (gandak), et parmi les plantes succulentes le lézard (vazagh), et autres maux et misères (patyân).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

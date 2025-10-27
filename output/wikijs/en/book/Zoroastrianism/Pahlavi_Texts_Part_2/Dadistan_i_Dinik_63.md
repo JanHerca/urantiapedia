@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. _It is_ the custom to give an infidel (ak-dînô), who is not a foreigner, food, clothing, _and_ medicine, when his renunciation (vâ<i>z</i>) has come, for keeping away matters (<i>k</i>isânŏ) of death and sickness owing to hunger _and_ thirst, cold and heat; but wealth, horses, accoutrements, wine, _and_ land are not given authorisedly, it is said, unto foreigners _and_ idolators [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

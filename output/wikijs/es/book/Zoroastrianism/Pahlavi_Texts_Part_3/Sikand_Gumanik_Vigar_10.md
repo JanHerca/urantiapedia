@@ -65,6 +65,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 78\. Así que aquí [^35] observo _algunas_ de _sus_ muchas inconsistencias y desconexión, para informar el juicio de los nuevos estudiantes, (79) porque cuando los escritos de los antiguos eruditos han disertado especialmente, con minuciosidad y reverencia [^36], sobre <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> _lo que es_ más astuto en el mal, para impulsar _a uno_ al buen conocimiento, (80) _deberías_ observar con consideración _lo que se ordena.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

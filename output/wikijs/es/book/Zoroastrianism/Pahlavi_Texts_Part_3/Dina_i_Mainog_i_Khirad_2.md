@@ -123,6 +123,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 195\. El espíritu de sabiduría innata le habló al sabio (196) así: «Esto que _te_ preguntaron, respecto al mantenimiento del cuerpo _y_ a la preservación del alma, también lo he dicho yo, y estás amonestado. 197. Sé virtuoso <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> asiduo a ello y practícalo constantemente; (198) pues este es tu principal camino para el mantenimiento del cuerpo _y_ la preservación del alma».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

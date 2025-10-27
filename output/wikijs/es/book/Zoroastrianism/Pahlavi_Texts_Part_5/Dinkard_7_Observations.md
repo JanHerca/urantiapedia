@@ -59,6 +59,8 @@ K 35 (probablemente escrito en 1572 d.C.), nº 35 de la misma biblioteca, que fu
 
 T, una copia de un manuscrito unos cincuenta años más antiguo, perteneciente a Ervad Tehmuras Dinshawji Ankalesaria de Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

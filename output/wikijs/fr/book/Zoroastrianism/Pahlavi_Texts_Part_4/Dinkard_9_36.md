@@ -41,6 +41,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 3\. Des signes d'un homme juste, c'est-à-dire de sa preuve, et de son respect du devoir et des bonnes œuvres ; ainsi que de sa perversion imperceptible (kastârîh), c'est-à-dire qu'aucun péché n'est manifeste <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> en lui, et qu'il accomplit les stipulations de Vohûman [^4], bonnes pensées, bonnes paroles et bonnes actions, et qu'il comprend toute bonté dans la propitiation des justes. 4. À propos de [^5] . . . . . . . . . . . . . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

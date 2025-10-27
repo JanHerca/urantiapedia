@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 2\. Ils disent aussi que sous le règne d'A<i>z</i>\-i Dahâk [^2] une jeune femme fut admise à un démon, et un jeune homme à une sorcière (parîk), et qu'en les voyant ils eurent des rapports sexuels ; à cause de ce seul rapport, le nègre à la peau noire surgit d'eux. 3. Quand Frê<i>d</i>ûn [^3] vint à eux, ils s'enfuirent du pays d'Iran, et s'établirent sur la côte de la mer ; maintenant, par l'invasion des Arabes, ils sont de nouveau répandus à travers le pays d'Iran.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

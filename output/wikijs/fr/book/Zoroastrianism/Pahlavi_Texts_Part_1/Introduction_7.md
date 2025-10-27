@@ -65,6 +65,8 @@ Concernant l'orthographe des noms et mots pahlavi, nous avons tiré parti du sys
 
 En conclusion, il convient de noter qu'un traducteur de pahlavi débute généralement sa carrière en sous-estimant l'exactitude des textes pahlavi et le talent littéraire de leurs auteurs, mais il ne peut guère aller plus loin sans trouver de nombreuses raisons de changer d'avis sur ces deux aspects. Son opinion dépréciative de la littérature pahlavi est généralement due en partie à son manque de connaissances, et en partie à une confiance excessive dans les viles perversions des textes pahlavi généralement fournies par les auteurs pâzand. Mais à mesure que sa connaissance du pahlavi s'approfondit, il devient plus à même d'apprécier les mérites littéraires de ces textes. Si le lecteur avait déjà une telle opinion négative du talent des auteurs pahlavi, on peut espérer que ces traductions lui fourniront suffisamment de raisons de changer d'avis ; sinon, elles auront lamentablement échoué à leur rendre justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

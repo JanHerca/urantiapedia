@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 10\. The retribution is that way well perfected when, in renunciation of that sin which attacks, a proper efficacy is prepared _and_ becomes a vestige (vûnakŏ) of the sin of the performer. 11. Whoever is not able to arrange it in this manner is to entreat the prayers of three men with a donation of wealth, and is to solemnize his Nônâbar _ceremony_ [^19], _or he_ is to consecrate a sacred cake every day in the ceremonial place, to eat food lawfully, _and_ to order the proper maintenance of the efficacy. 12. The assistance of performing the proper rituals through ordering the Nâbar _ceremony_, and the helping existence of discharging the burden of the trouble of a populous household seem to me suitable for the atonement of such-like sin, through the will of the sacred beings.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

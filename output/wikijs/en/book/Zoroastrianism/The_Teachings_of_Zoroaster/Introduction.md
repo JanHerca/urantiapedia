@@ -348,6 +348,8 @@ Inner Temple, London,
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -58,6 +58,8 @@ A blessing is the Right called the best, there is weal, there is weal to this (m
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

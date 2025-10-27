@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Por lo tanto, es necesario esforzarse para que cada una de ellas se realice a su debido tiempo, para que obtengan una recompensa y no un castigo severo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

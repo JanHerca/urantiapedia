@@ -63,6 +63,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 33\. Il dit aussi que cette terre _devient_ une plaine sans glace [^44], sans pente [^45] ; même la montagne [^46], <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> dont le sommet est le support du pont de <i>K</i>învar _pont_, ils la maintiennent basse, _et_ elle _n'existera_ pas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

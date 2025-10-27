@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 5\. When the day is at a maximum (pavan afzûnŏ), _and_ the sun comes unto the head [^11] of Cancer, _and one's_ shadow becomes six feet and two parts [^12], he makes it the Aûzêrîn period (gâs). <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> 6. Every thirty days it always increases one foot _and_ one-third, therefore about every ten days the reckoning is always half a foot [^13], _and when_ the sun is at the head of Leo the shadow is seven [^14] feet _and_ a half. 7. In this series every _zodiacal_ constellation is _treated_ alike, and the months alike, until the sun comes unto the head of Capricornus, _and_ the shadow becomes fourteen feet and two parts. 8. In Capricornus it diminishes again a foot _and_ one-third [^15]; _and_ from there _where_ it turns back, because of the decrease of the night and increase of the day, it always diminishes one foot _and_ one-third every one of the months, _and_ about every ten days the reckoning is always half a foot, until it comes back to six feet and two parts; every _zodiacal_ constellation _being treated_ alike, and the months alike [^16].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

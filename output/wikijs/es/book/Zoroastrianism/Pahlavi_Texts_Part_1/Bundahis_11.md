@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 5\. De estas siete regiones, el mayor beneficio se creó en Khvanîras, y el espíritu maligno también se manifestó con mayor intensidad en Khvanîras, debido a la superioridad (sarîh) [^5] que vio en él. 6. Porque los Kayânians y los héroes fueron creados en Khvanîras; y la buena religión de los Mazdayasnians fue creada en Khvanîras, y posteriormente transmitida a las demás regiones; Sôshyans [^6] nace en Khvanîras, quien debilita al espíritu maligno y causa la resurrección y la existencia futura.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

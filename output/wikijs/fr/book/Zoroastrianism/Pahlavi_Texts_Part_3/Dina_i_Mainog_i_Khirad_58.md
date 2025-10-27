@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:56:50Z
 4\. L'esprit de sagesse répondit (5) ainsi : « À cause de la tromperie et de la violence du démon [^2] de la cupidité (6) les hommes prononcent plus de mots quant à la virilité de chacun dont la richesse et le pouvoir sont plus grands, et racontent plus complètement ses actes et ses actions ; (7) mais, aux yeux des anges et des archanges, un pauvre homme innocent et sage est meilleur et plus précieux qu'un roi ou un homme opulent [^3] qui est ignorant. »
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

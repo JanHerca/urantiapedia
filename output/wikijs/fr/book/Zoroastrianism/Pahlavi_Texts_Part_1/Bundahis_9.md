@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:40Z
 5\. De ce même germe de plantes naquit l'arbre de tous les germes [^4], _et_ grandit dans l'océan aux formes vastes, d'où les germes de toutes les espèces de plantes ne cessèrent de croître. 6. Et près de cet arbre de tous les germes fut produit l'arbre Gôkar<i>d</i> [^5], pour éloigner la décrépitude déformée (dûspa<i>d</i>) ; _et_ la pleine perfection du monde en naquit.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

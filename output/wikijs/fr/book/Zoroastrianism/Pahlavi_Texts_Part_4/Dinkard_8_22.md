@@ -53,6 +53,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 27\. De l'offense que les accusateurs commettraient, à l'égard de la loi, au moyen de la loi, _étant_ <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> qu'il n'est pas permis de la commettre de leurs propres mains ; aussi _à l'égard_ des biens de quelqu'un, au sujet desquels _il_ y a litige, même avec une certitude quant à sa propriété.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

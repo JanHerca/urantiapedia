@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 46\. Entre ellas se dicen muchas otras cosas; (47) y esto que os indicamos es la información predominante _para_ vosotros, los vencedores, (48) para que _puedáis_ obtener más de la revelación.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

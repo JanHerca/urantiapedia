@@ -38,7 +38,7 @@ Ashi Vanguhi ou « la bonne Ashi » [^1150] est une incarnation féminine de la 
 
 Elle apparaît dans ce dernier personnage dans la première partie du Ya<i>s</i>t (§§ 1-14) ; elle loue et aime Zarathu<i>s</i>tra (§§ 15-21). Elle est vénérée par Hao<i>s</i>yangha (§ 26), Yima (§ 28), Thraêtaona (§33), Haoma (§ 37), Husravah (§ 41), Zarathu<i>s</i>tra (§ 45) et Vî<i>s</i>tâspa (§ 49) [^1153]. Elle rejette les offrandes de toutes les personnes stériles (vieillards, courtisanes et enfants, §§ 53-61).
 
-## JE.
+## I.
 
 1\. Nous sacrifions à Ashi Vanguhi, qui est brillant, grand, de haute stature, bien digne de sacrifice, avec un char retentissant, fort, bienfaisant, guérisseur, avec une plénitude d'intellect [^1154], et puissant ;
 
@@ -210,6 +210,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 \[Donnez\] à cet homme la luminosité et la gloire, donnez-lui la santé du corps, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -236,82 +238,82 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 ## Notes de bas de page
 
-[^1212]: 270:1 En parsi Ardi<i>s</i>vang ou Ard (Ardi<i>s</i> de Arti<i>s</i>, la forme persane de Ashi<i>s</i>) ; elle préside le 25e jour du mois ; cf. Sîrôzah 25.
+[^1150]: 270:1 En parsi Ardi<i>s</i>vang ou Ard (Ardi<i>s</i> de Arti<i>s</i>, la forme persane de Ashi<i>s</i>); elle préside le 25e jour du mois ; cf. Sîrôzah 25.
 
-[^1213]: 270:2 Ashi n'est pas l'adjectif féminin d'Asha, car le i était à l'origine court (génitif ashôi<i>s</i>, pas ashy<i>a</i>u) ; ashi est ar-ti, et signifie bhakti, piété (Neriosengh).
+[^1151]: 270:2 Ashi n'est pas l'adjectif féminin d'Asha, car le i était à l'origine court (génitif ashôi<i>s</i>, pas ashy<i>a</i>u) ; ashi est ar-ti, et signifie bhakti, piété (Neriosengh).
 
-[^1214]: 270:3 Les soi-disant remèdes d'Ashi (ashôi<i>s</i> baêshaza ; cf. Yt. XIII, 32).
+[^1152]: 270:3 Les soi-disant remèdes d'Ashi (ashôi<i>s</i> baêshaza ; cf. Yt. XIII, 32).
 
-[^1215]: 270:4 Cette énumération est la même que dans le Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
+[^1153]: 270:4 Cette énumération est la même que dans le Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
 
-[^1216]: 270:5 Perethu-vîra; see Études Iraniennes, II, 183.
+[^1154] : 270 : 5 Perethu-vîra ; voir Études Iraniennes, II, 183.
 
-[^1217]: 271:1 Les alliés de Saoshya<i>n</i><i>t</i>, qui doivent participer activement à la restauration du monde à la vie éternelle (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769). Ashi leur donne « l'intelligence de la vie » (frasha khratu), grâce à laquelle ils pourront accomplir leur tâche.
+[^1155]: 271:1 Les alliés de Saoshya<i>n</i><i>t</i>, qui doivent participer activement à la restauration du monde à la vie éternelle (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769). Ashi leur donne l'« intelligence de la vie » (frasha khratu), grâce à laquelle ils pourront accomplir leur tâche.
 
-[^1218]: 271:2 Cf. Yt. V, 10.
+[^1156]: 271:2 Cf. Yt. V, 10.
 
-[^1219]: 271:3 La Sainte Parole.
+[^1157]: 271:3 La Sainte Parole.
 
-[^1220]: 271:4 Le Daêva de la colère.
+[^1158]: 271:4 Le Daêva de la colère.
 
-[^1221]: 271:5 Car boire du Haoma est un acte de religion (cf. Yasna XI, 12 \[31\] seq.).
+[^1159]: 271:5 Car boire du Haoma est un acte de religion (cf. Yasna XI, 12 \[31\] seq.).
 
-[^1222]: 272:1 ? Âgairimaiti<i>s</i>.
+[^1160] : 272:1 ? Âgairimaiti<i>s</i>.
 
-[^1223]: 272:2 Cf. Yt. V, 130.
+[^1161]: 272:2 Cf. Yt. V, 130.
 
-[^1224]: 272:3 ? Unkupasmanu.
+[^1162]: 272:3 ? Un<i>n</i>kupasman<i>a</i>u.
 
-[^1225]: 273:1 ? Ãgamô-paidhi<i>s</i>a.
+[^1163] : 273:1 ? Ãgamô-paidhi<i>s</i>a.
 
-[^1226]: 273:2 Douteux.
+[^1164]: 273:2 Douteux.
 
-[^1227]: 273:3 Cf. Yt. XIV, 11.
+[^1165]: 273:3 Cf. Yt. XIV, 11.
 
-[^1228]: 274:1 Né des dieux ; cf. Yt. XXII, 9.
+[^1166]: 274:1 Né des dieux ; cf. Yt. XXII, 9.
 
-[^1229]: 274:2 Voir Yt. XI.
+[^1167]: 274:2 Voir Yt. XI.
 
-[^1230]: 274:3 Voir Yt. XII.
+[^1168]: 274:3 Voir Yt. XII.
 
-[^1231]: 274:4 Voir Yt. X.
+[^1169]: 274:4 Voir Yt. X.
 
-[^1232]: 274:5 Ou, « ne pas faire de mal aux justes ».
+[^1170]: 274:5 Ou, « ne pas faire de mal aux justes ».
 
-[^1233]: 274:6 Zarathu<i>s</i>tra.
+[^1171] : 274:6 Zarathu<i>s</i>tra.
 
-[^1234]: 274:7 L'Ahuna Vairya.
+[^1172]: 274:7 L'Ahuna Vairya.
 
-[^1235]: 274:8 Cf. Yt. XIII, 93.
+[^1173]: 274:8 Cf. Yt. XIII, 93.
 
-[^1236]: 275:1 Cf. Vend. XIX, 4 (13).
+[^1174]: 275:1 Cf. Vend. XIX, 4 (13).
 
-[^1237]: 275:2 Cf. Yt. III.
+[^1175]: 275:2 Cf. Yt. III.
 
-[^1238]: 275:3 La béatitude après la mort.
+[^1176]: 275:3 La béatitude après la mort.
 
-[^1239]: 275:4 Comme § 1.
+[^1177]: 275:4 Comme § 1.
 
-[^1240]: 275:5 Pour les §§ 24-26, cf. Yt. IX, 3-6.
+[^1178]: 275:5 Pour les §§ 24-26, cf. Yt. IX, 3-6.
 
-[^1241]: 276:1 Pour les §§ 28-31, cf. Yt. IX, 8-11.
+[^1179]: 276:1 Pour les §§ 28-31, cf. Yt. IX, 8-11.
 
-[^1242]: 277:1 Cf. Yt. V, 34; IX, 14; XV, 24.
+[^1180]: 277:1 Cf. Yt. V, 34; IX, 14; XV, 24.
 
-[^1243]: 277:2 Pour les §§ 37-39, cf. Yt. IX, 17-19.
+[^1181]: 277:2 Pour les §§ 37-39, cf. Yt. IX, 17-19.
 
-[^1244]: 278:1 Pour les §§ 41-43, cf. Yt. IX, 21-23.
+[^1182]: 278:1 Pour les §§ 41-43, cf. Yt. IX, 21-23.
 
-[^1245]: 279:1 Pour les §§ 45-47, cf. Yt. IX, 25-27.
+[^1183]: 279:1 Pour les §§ 45-47, cf. Yt. IX, 25-27.
 
-280:1 Voir Vend, III, 20 \[63\], note.
+[^1184] : 280:1 Voir Vend, III, 20 \[63\], note.
 
-[^1247]: 280:2 En provoquant un avortement.
+[^1185]: 280:2 En provoquant un avortement.
 
-[^1248]: 280:3 Elle refuse les offrandes de tous les êtres stériles.
+[^1186]: 280:3 Elle refuse les offrandes de tous les êtres stériles.
 
-[^1249]: 280:4 Cf. Yt. V, 98. Les clauses suivantes font allusion à un mythe d'Ashi Vanguhi lié au conflit entre les Touraniens et les Naotaras (soit Tusa et Vistauru ; cf. [p. 71](../Yasts_5#p71), note [7](../Yasts_5#fn352), ou plus probablement Vî<i>s</i>tâspa lui-même, à qui se réfèrent le chapitre précédent p. 281 \[§§ 48-52\] et l'avant-dernière clause du Ya<i>s</i>t). Elle essaya de fuir à la manière pratiquée par Ulysse dans la caverne du Cyclope ; les deux groupes poursuivaient l'animal qui la portait, bien qu'ils ne sachent pas ce qu'il portait, jusqu'à ce que des enfants la découvrent.
+[^1187]: 280:4 Cf. Yt. V, 98. Les clauses suivantes font allusion à un mythe d'Ashi Vanguhi lié au conflit entre les Touraniens et les Naotaras (soit Tusa et Vistauru ; cf. [p. 71](../Yasts_5#p71), note [7](../Yasts_5#fn352), ou plus probablement Vî<i>s</i>tâspa lui-même, à qui se réfèrent le chapitre précédent p. 281 \[§§ 48-52\] et l'avant-dernière clause du Ya<i>s</i>t). Elle essaya de fuir à la manière pratiquée par Ulysse dans la caverne du Cyclope ; les deux groupes poursuivaient l'animal qui la portait, bien qu'ils ne sachent pas ce qu'il portait, jusqu'à ce que des enfants la découvrent.
 
-[^1250]: 282:1 Cf. §§ 49 seq.
+[^1188]: 282:1 Cf. §§ 49 seq.
 
-[^1251]: 282:2 Cf. Sîrôzah, § 25.
+[^1189] : 282:2 Cf. Sîrôzah, § 25.

@@ -56,6 +56,8 @@ Y adoramos el cielo y la tierra del don bendito, y el generoso Mãthra, y las es
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

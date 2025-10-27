@@ -69,6 +69,8 @@ _Sac<i>d</i>um Nask_.
 
 39\. Es la justicia _que es_ la excelencia perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 11\. Entonces, los espíritus guardianes de los hombres coincidieron con la sabiduría omnisciente en su ida al mundo, debido al mal que les azota en el mundo, proveniente del demonio (drû<i>g</i>) Aharman, y su retorno, finalmente, libre de la persecución del adversario, perfecto e inmortal, en la existencia futura, para siempre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

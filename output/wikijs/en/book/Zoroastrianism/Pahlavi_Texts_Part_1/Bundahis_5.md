@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 8\. From there where the sun comes on on the longest day to _where_ it comes on on the shortest day is the east region Savah; from there where it comes on on the shortest day to _where_ it goes off on the shortest day is the direction of the south regions Frada<i>d</i>afsh and Vîda<i>d</i>afsh; from there where it goes in on the shortest day to _where_ it goes in on the longest day is the west region Arzah; from there where it comes in on the longest day to there where it goes in on the longest day are the north regions Vôrûbar<i>s</i>t _and_ Vôrû<i>g</i>ar<i>s</i>t [^14]. 9. When the sun comes on, it illumines (or warms) the regions of Savah, Frada<i>d</i>afsh, Vîda<i>d</i>afsh, and half of Khvanîras [^15]; when it goes in on the dark side, it illumines the regions of Arzah, Vôrûbar<i>s</i>t, Vôrû<i>g</i>ar<i>s</i>t, _and_ one half of Khvanîras; when _it is_ day here _it is_ night there.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

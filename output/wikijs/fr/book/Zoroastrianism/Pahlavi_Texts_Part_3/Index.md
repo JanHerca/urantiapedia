@@ -1059,6 +1059,8 @@ Zaratû<i>s</i>t, apôtre, Mkh. **2**, 95 n; **57**, 20, 24, 26 ; Sg. **10**, 63
 Zargar, prince, Sg. **10**, 67.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

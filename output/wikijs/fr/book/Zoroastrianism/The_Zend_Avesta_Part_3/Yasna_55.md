@@ -56,6 +56,8 @@ Et (puissent-ils) être pour nous (pour cette offrande) d'abondants donneurs de 
 
 Et nous adorons la(les) partie(s) [^1232] des Louanges du Yasna, et leur récitation telle qu'elle est entendue, même leur récitation mémorisée, et leur chant, et leur offrande (comme complète).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

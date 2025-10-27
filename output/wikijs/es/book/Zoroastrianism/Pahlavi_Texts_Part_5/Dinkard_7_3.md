@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 61\. Entonces Zaratû<i>s</i>t pensó así: «Bueno es quien es el creador, quien es mejor que este recordatorio». 62. Entonces procedieron en compañía, Vohûmanô y Zaratû<i>s</i>t; Vohûmanô primero y Zaratû<i>s</i>t después.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

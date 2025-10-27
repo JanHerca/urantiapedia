@@ -44,6 +44,8 @@ dateCreated: 2025-10-10T14:41:30Z
 14\. Y mediante esa excelente, intachable y fraternal obra [^12], _tal gobernante_ puede verse por encima del sol con caballos veloces, las luminarias primigenias y la eliminación total de la oscuridad, el avance de la iluminación que es la manifestación (tô<i>g</i>isnŏ) de los días _y_ noches del mundo [^13]. 15. Respecto a la misma culminación de la renovación _del universo_, se dice en la revelación de los adoradores de Ma<i>z</i><i>d</i>a que esta gran luz es la vestidura de los hombres justos similares.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Porque se declara en la buena religión que hay un demonio al que llaman Sê<i>g</i> [^2], _y_, en cada casa _donde_ hay un infante, ese demonio se esfuerza por causar alguna desgracia en esa casa. 6. _Así_ es necesario que tengan un gallo vigilándola, para que pueda herir a ese demonio y obligarla a alejarse de esa casa.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

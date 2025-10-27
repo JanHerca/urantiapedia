@@ -42,6 +42,8 @@ There appears to be no sufficient evidence, either internal or external, for asc
 
 Besides the fragments which are specially attributed to particular Nasks, there are also a few writings which closely resemble the Nasks, or their fragments, in general character, but which can hardly be traced to their actual source by means of the accounts given in the Dinka<i>r</i><i>d</i>. Thus, the Aogemadaê<i>k</i>â might perhaps be supposed to have been extracted from the Bari<i>s</i> (see Dk. VIII, Chap. IX, 18), if it did not contain a few Avesta quotations from the Yasna, Vendîdâ<i>d</i>, and Ya<i>s</i>ts. While the quotations from the Ashem-staota, given in Vi<i>g</i>. pp. 89, 90, 125-129, 177, 178, are difficult to trace, owing to the name of their source.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -61,6 +61,8 @@ Ils appellent ces mémoires _et_ écrits les Sélections (<i>k</i>î<i>d</i>akî
 
 27\. Au même moment, Aharman, après avoir accompagné Time, revint vers l'avant, vers la station stellaire ; la connexion du ciel avec la station stellaire était ouverte, ce qui témoignait, puisqu'elle pendait dans le vide, de la forte communication entre les lumières et les ténèbres, lieu de conflit où se poursuit l'une et l'autre. 28. Ayant l'obscurité avec lui, il l'apporta dans le ciel, et laissa le ciel si sombre que le déficit interne du ciel s'étendait jusqu'à un tiers [^17] au-dessus de la station stellaire.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

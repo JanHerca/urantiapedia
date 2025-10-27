@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 1\. À propos de _quelqu'un_ suprêmement [^1] familier avec les trois [^2] codes (dâ<i>d</i>ŏ) de la religion adoratrice de Ma<i>z</i><i>d</i>a, il y a _ceci :— Celui_ suprêmement familier <span id="p408"><sup><small>[ p. 408 ]</small></sup></span> avec les trois codes de la religion adoratrice de Ma<i>z</i><i>d</i>a est celui de la foi primitive dont la perspicacité dans la bonne religion est même telle qu'il sait comment distinguer et annoncer les déclarations (v<i>â</i><i>k</i>akŏ) du Hadha-mãthique et du Gâtique de celles de la Loi, celles du Légal et du Gâtique de celles du Hadha-mãthique, et celles du Hadha-mãthique et du Légal de celles des Gâthas. 2. Aux énoncés (v<i>â</i><i>k</i>akŏ) de la Loi, qui est une connaissance supérieure [^3] des existences mondaines, est attribuée (vakhtŏ) la mondanité du Hadha-mãthrique et aussi du Gâtique ; à ceux des Gâthas, qui sont une connaissance supérieure des existences spirituelles, est attribuée la spiritualité du Hadha-mãthrique et même celle de la Loi ; et à ceux du Hadha-mãthra, qui est une connaissance supérieure des choses intermédiaires entre les existences spirituelles et mondaines, est attribuée la matière intermédiaire (mîyânîkîh) du Gâtique et aussi du Légal [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. Et la conscience des hommes, assise trois nuits hors du corps, à proximité du corps, doit se souvenir et s'attendre à ce qui est vraiment peur et trouble (khâr) pour les démons, et récompense, paix et bonne nouvelle (nôvîk) pour les esprits du bien ; et, à cause de la dispersion et des blessures du corps, elle pousse un cri spirituel, <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> ainsi : « Pourquoi les chiens et les oiseaux rongent-ils ce corps organisé, alors qu'enfin le corps et la vie s'unissent à la résurrection des morts ? » 8. Et c'est le rappel de la résurrection et de la libération, et cela devient le bonheur et l'espoir de l'esprit du corps et des autres bons esprits, et la peur et la vexation des démons et des démons.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

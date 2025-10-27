@@ -45,6 +45,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 7\. Ceci aussi, que l'esprit malin [^12]. . . . . . . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

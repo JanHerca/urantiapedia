@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Mais, en effet, lorsqu'ils n'obtiennent pas [^1] de subsistance quotidienne du devoir sacerdotal, et que les bons ne leur donnent pas de dons justes choisis [^2] en échange, et qu'ils ne les laissent pas obtenir quoi que ce soit de leurs proches parents ou des méchants, même par la mendicité, on peut exiger une subsistance de l'accomplissement rémunéré de cérémonies, de l'administration de tous les rites religieux (dînô), et des autres devoirs des disciples sacerdotaux en la matière [^3]. 6. Lorsque même par cela ils ne l'obtiennent pas, ils doivent chercher à gagner leur vie par l'agriculture, l'élevage de moutons, l'écriture, ou tout autre emploi convenable parmi les prêtres ; et lorsqu'il leur est impossible de vivre même de ces choses, ils doivent le chercher par le port des armes, la chasse, ou tout autre emploi convenable dans la profession d'un guerrier vertueux. 7. Et lorsque même ce n'est pas <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> s'il leur est possible de maintenir leur propre corps, qui est sous le contrôle requis, par ce qui est digéré avec avidité, ils doivent demander un don juste [^4] autorisé (dastôbarîhâ) comme remède efficace ; en vivant oisivement, ou en ne dépensant pas de force, leur propre corps, qui est sous le contrôle, est sans moyen de subsistance, mais pas autorisé [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

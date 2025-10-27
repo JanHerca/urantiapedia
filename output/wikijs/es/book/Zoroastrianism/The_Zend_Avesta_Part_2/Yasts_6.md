@@ -84,6 +84,8 @@ Dale a ese hombre brillo y gloria, dale salud de cuerpo, . . . dale la morada lu
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -110,22 +112,22 @@ Dale a ese hombre brillo y gloria, dale salud de cuerpo, . . . dale la morada lu
 
 ## Notas al pie
 
-[^440]: 85:1 O los días 11, 16, 27 y 30 del mes (Anquetil, II, 184).
+[^420]: 85:1 O los días 11, 16, 27 y 30 del mes (Anquetil, II, 184).
 
-[^443]: 85:2 Como arriba, Yt. I, 0.
+[^421]: 85:2 Como arriba, Yt. I, 0.
 
-[^442]: 85:3 Siroza I, 11.
+[^422]: 85:3 Siroza I, 11.
 
-[^444]: 85:4 'Es decir, se eleva' (trad. filosófica).
+[^423]: 85:4 'Es decir, se eleva' (trad. filosófica).
 
-[^445]: 86:1 Literalmente ‘del cuerpo de santidad’, es decir, de las criaturas corporales que incorporan la santidad.
+[^424]: 86:1 Literalmente ‘del cuerpo de santidad’, es decir, de las criaturas corporales que incorporan la santidad.
 
-[^446]: 86:2 'De la inmundicia que los Daêvas mezclan con la tierra durante la noche' (trad. filosófica).
+[^425]: 86:2 'De la inmundicia que los Daêvas mezclan con la tierra durante la noche' (trad. filosófica).
 
-[^447]: 86:3 Porque con ello les beneficia a ellos y a sí mismo.
+[^426]: 86:3 Porque con ello les beneficia a ellos y a sí mismo.
 
-[^448]: 87:1 Hunivikhtem: suniyuktam (sánsk. tr.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Pers. tr.).
+[^427]: 87:1 Hunivikhtem: suniyuktam (sánsk. tr.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Pers. tr.).
 
-[^449]: 87:2 A medida que se suceden uno tras otro en orden regular.
+[^428]: 87:2 A medida que se suceden uno tras otro en orden regular.
 
-[^450]: 87:3 Cf. Yt. III, 18.
+[^429]: 87:3 Cf. Yt. III, 18.

@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. The reply is this, that it would be very grievously sinful, and it would be an evil occupation to transact such business through the influence of opportunity, _and_ to seek profit unauthorisedly in that manner. 5. But if _it be_ the means of existence _of_ those of the good religion _of_ whom _you have_ written, and _they_ are not able to seek _it_ in any other business _and_ proper occupation which _would be_ a less sinful meant of existence, complete [^1] purchasers who _have_ acquired <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> the good religion shall sell unto those of the good religion [^2]; because it is possible for him _to be_ less sinful _to_ whom _it_ is allowable to beg the life of a comrade, for still the rule _of_ a righteous man, with the righteous who are in his guardianship, is to live. 6. So it is possible, when they shall sell cattle for slaughter _and_ foreign eating, many cattle—amounting even to a diminution of the maintenance of Irân—are more wretched than a righteous man forced to kill _them_ through a living becoming unobtainable _and_ the fear of death.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

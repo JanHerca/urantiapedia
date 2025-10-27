@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 11\. But as the same decree, _or_ that which is resembling the same decree [^18], is appointed (vakhtŏ) <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> _and_ specially decided, and is not to be accepted _from_ him, and the operation is not to be performed thereby, its position is then to be considered, _by_ those steadfast _in_ the practice of the pre-eminent religion, with the most advanced understanding and discernment, which are the thought of its true station in the religion of the Ma<i>z</i><i>d</i>a-worshippers. 12. And other religious decrees, intelligently preservative of the soul, which are made known _and_ declared from the teaching of truthful high-priests of the religion of the Ma<i>z</i><i>d</i>a-worshippers, are to be suitably accepted _and_ fulfilled. 13. And since this opinion (dâstakŏ) of mine is, moreover, from the writing of Afarg, even about the preservation of different interpretations and different teachings, not specially owing to unobtainable statements of this shattered [^19] religion of the Ma<i>z</i><i>d</i>a-worshippers, nor even _to_ distress through simultaneous strife, but owing to the desire of true opinions which _has_ existed, there is safety abundantly, but temporarily, from the scribbling of the opposing, partial, and injurious writing of that priestly man [^20].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

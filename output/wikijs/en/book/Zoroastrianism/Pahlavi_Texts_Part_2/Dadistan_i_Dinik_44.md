@@ -48,6 +48,8 @@ II. But he who _has_ much skill should have [^5] a great stipend, and he of medi
 
 22\. The same collection [^19] is the way of the friends of religion for begging from the upholders of religion the preservation of the soul, _and_ for well considering, extremely gracefully _and_ fully reverently, the advantage _and_ pleasure of the position [^20] of the upholders of religion, so that they shall properly collect for the preservation of souls by the mode of going to collect thoroughly with great gain.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

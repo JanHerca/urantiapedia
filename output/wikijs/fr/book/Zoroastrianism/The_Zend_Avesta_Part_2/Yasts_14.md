@@ -62,7 +62,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-## JE.
+## I.
 
 1\. Nous sacrifions à Verethraghna, créé par Ahura.
 
@@ -384,6 +384,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 \[Donnez\] à cet homme [^1095] luminosité et gloire, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des Saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -410,124 +412,124 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1093]: 231 : 1 Sîrôzah I, 20.
+[^1035]: 231:1 Sîrôzah I, 20. 
 
-[^1094]: 232:1 Verethraghna.
+[^1036]: 232:1 Verethraghna. 
 
-[^1095]: 232:2 Zarathu<i>s</i>tra.
+[^1037]: 232:2 Zarathu<i>s</i>tra. 
 
-[^1096]: 233:1 Comme ci-dessus, § 3.
+[^1038]: 233:1 Comme ci-dessus, § 3. 
 
-[^1097]: 233:2 Comme ci-dessus, § 4.
+[^1039]: 233:2 Comme ci-dessus, § 4. 
 
-[^1098]: 233:3 Comme ci-dessus, § 5.
+[^1040]: 233:3 Comme ci-dessus, § 5. 
 
-[^1099]: 234:1 Douteux (vadharôi<i>s</i>).
+[^1041]: 234:1 Douteux (vadharôi<i>s</i>). 
 
-[^1100]: 234:2 Douteux (dadãsôi<i>s</i>).
+[^1042]: 234:2 Douteux (dadãsôi<i>s</i>). 
 
-[^1101]: 234:3 ? Urvatô; cf. § 19.
+[^1043]: 234:3 ? Urvatô; cf. § 19. 
 
-[^1102]: 234:4 Apprivoisé, domestiqué.
+[^1044]: 234:4 Apprivoisé, domestiqué. 
 
-[^1103]: 234:5 ? Smar<i>s</i>nô.
+[^1045]: 234:5 ? Smar<i>s</i>nô. 
 
-[^1104]: 234:6 ? Haitahê.
+[^1046]: 234:6 ? Haitahê. 
 
-[^1105]: 235:1 Cf. Yt. X, 70.
+[^1047]: 235:1 Cf. Yt. X, 70. 
 
-[^1106]: 235:2 Ou mieux, se précipiter devant. Cf. Yt. X, 127.
+[^1048]: 235:2 Ou mieux, se précipitant devant. Cf. Yt. X, 127. 
 
-[^1108]: 236:1 ? Urvatô, pishatô.
+[^1049]: 236:1 ? Urvatô, pishatô. 
 
-[^1109]: 236:2 Le corbeau était consacré à Apollon. On dit que les prêtres du soleil en Perse étaient appelés corbeaux (Porphyre). Cf. Georgica I, 45.
+[^1050]: 236:2 Le corbeau était consacré à Apollon. On dit que les prêtres du soleil en Perse étaient appelés corbeaux (Porphyre). Cf. Georgica I, 45. 
 
-[^1110]: 236:3 Lecture de vîgâtavô.
+[^1051]: 236:3 Lecture vîgâtavô. 
 
-[^1111]: 236:4 Douteux.
+[^1052]: 236:4 Douteux. 
 
-[^1112]: 237:1 La Gloire royale est décrite volant sous la forme d'un corbeau, Yt. XIX, 35.
+[^1053]: 237:1 La Gloire royale est décrite volant sous la forme d'un corbeau, Yt. XIX, 35. 
 
-[^1113]: 237:2 Douteux.
+[^1054]: 237:2 Douteux. 
 
-[^1114]: 237:3 Tandis qu'Ardashîr, le fondateur de la dynastie sassanide, fuyait Ardavân, un beau bélier sauvage courut après lui et le rattrapa, et Ardavân comprit de là que la Gloire royale l'avait quitté et était passée à son rival (Shâh Nâmah, Ardashîr ; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45).
+[^1055]: 237:3 Alors qu'Ardashîr, le fondateur de la dynastie sassanide, fuyait Ardavân, un beau bélier sauvage courut après lui et le rattrapa,et Ardavân comprit de là que la Gloire royale l'avait quitté et était passée à son rival (Shâh Nâmah, Ardashîr ; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45). 
 
-[^1115]: 239 : 1 Erezi, Pahl. gond (Ancien dictionnaire Zand-Pahlavi, p. 11)
+[^1056]: 239:1 Erezi, Pahl. gond (Old Zand-Pahlavi Dictionary, p. 11)
 
-[^1116]: 239:2 Voir Vendîdâd XIX, 42.
+[^1057]: 239:2 Voir Vendîdâd XIX, 42. 
 
-[^1117]: 239:3 Peut-être, percevez.
+[^1058]: 239:3 Peut-être, percevoir. 
 
-[^1118]: 239:4 Cf. Yt. XVI, 7, et Bundahi<i>s</i> XVIII, 6 : « ces poissons... connaissent le grattage d'une pointe d'aiguille (ou mieux, le trou) par lequel l'eau va augmenter, ou par lequel elle va diminuer » (tr. West).
+[^1059]: 239:4 Cf. Yt. XVI, 7, et Bundahi<i>s</i> XVIII, 6: 'ces poissons . . . . connaissent le grattage d'une pointe d'aiguille (ou mieux, le trou) par lequel l'eau va augmenter, ou par lequel elle diminue' (tr. West). 
 
-[^1119]: 239:5 Avakhshaity<i>a</i>u, la nuit avant hu-vakhsha (avant le moment où la lumière commence à croître ; minuit).
+[^1060]: 239:5 Avakhshaity<i>a</i>u, la nuit avant hu-vakhsha (avant le moment où la lumière commence à croître; minuit). 
 
-[^1120]: 239:6 Cf. Yt. XVI, 10, et Bundahi<i>s</i> XIX, 32 : 'Concernant le cheval arabe p. 240, ils disent que si, dans une nuit noire, un seul cheveu tombe sur le sol, il le voit' (tr. West).
+[^1061]: 239:6 Cf. Yt. XVI, 10, et Bundahi<i>s</i> XIX, 32: 'Concernant la p. arabe. 240 cheval, ils disent que si, dans une nuit noire, un seul cheveu tombe à terre, il le voit' (tr. West). 
 
-[^1121]: 240:1 Peut-être le Gypaetus, le vautour doré.
+[^1062]: 240:1 Peut-être le Gypaetus, le vautour doré. 
 
-[^1122]: 240:2 'Même de son vol le plus élevé, il (le vautour) voit quand de la chair de la taille d'un poing est sur le sol' (Bund. XIX, 31 ; tr. West). Cf. Horapollo (I, 11).
+[^1063]: 240:2 'Même de son plus haut vol, il (le vautour) voit quand de la chair grosse comme un poing est à terre' (Bund. XIX, 31; tr. West). Cf. Horapollo (I, 11). 
 
-[^1123]: 241:1 Peshô-parena. Le Vâre<i>n</i><i>g</i>ana est le même oiseau que le Vâraghna, le corbeau.
+[^1064]: 241:1 Peshô-parena. Le Vâre<i>n</i><i>g</i>ana est le même oiseau que le Vâraghna, le corbeau. 
 
-[^1124]: 241:2 La plume du Vâre<i>n</i><i>g</i>ana joue ici le même rôle que la plume du Sîmurgh dans le Shâh Nâmah. Lorsque le flanc de Rûdâbah fut ouvert pour faire sortir Rustem, sa blessure fut guérie en la frottant avec une plume de Sîmurgh ; Rustem, blessé à mort par Isfendyâr, fut guéri de la même manière.
+[^1065]: 241:2 La plume du Vâre<i>n</i><i>g</i>ana joue ici le même rôle que la plume du Sîmurgh dans le Shâh Nâmah. Lorsque le flanc de Rûdâbah fut ouvert pour faire sortir Rustem, sa blessure fut guérie en la frottant avec une plume de Sîmurgh ; Rustem, blessé à mort par Isfendyâr, fut guéri de la même manière. 
 
-[^1125]: 241:3 De celui qui tient cette plume.
+[^1066]: 241:3 De celui qui tient cette plume. 
 
-[^1126]: 241:4 ? Vaêsaêpa.
+[^1067]: 241:4 ? Vaêsaêpa. 
 
-[^1127]: 241:5 Cet oiseau.
+[^1068]: 241:5 Cet oiseau. 
 
-[^1128]: 242:1 Kai Kaus; lorsqu'il essaya de monter au ciel sur un trône porté par des aigles (Journal Asiatique, 1881, I, 513).
+[^1069]: 242:1 Kai Kaus ; lorsqu'il tenta de monter au ciel sur un trône porté par des aigles (Journal Asiatique, 1881, I, 513). 
 
-[^1129]: 242:2 Une métaphore pour exprimer la rapidité du vent, du chameau et des rivières.
+[^1070]: 242:2 Une métaphore pour exprimer la rapidité du vent, du chameau et des rivières. 
 
-[^1130]: 242:3 Cf. Yt. V, 34.
+[^1071]: 242:3 Cf. Yt. V, 34. 
 
-[^1131]: 242:4 Le Sîmurgh ; cf. [p. 241](#p241), note [^1065].
+[^1072]: 242:4 Le Sîmurgh ; cf. [p. 241](#p241), note 1065. 
 
-[^1132]: 243:1 Douteux.
+[^1073]: 243:1 Douteux. 
 
-[^1133]: 243:2 Ou une flèche empennée de quatre plumes de Vâre<i>n</i><i>g</i>ana.
+[^1074]: 243:2 Ou une flèche empennée de quatre plumes de Vâre<i>n</i><i>g</i>ana. 
 
-[^1136]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
+[^1075]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en. 
 
-[^1137]: 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vimarezen, cf. Yt. Moi, 2 ; Fra Marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
+[^1076] : 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vimarezen, cf. Yt. Moi, 2 ; Fra Marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg). 
 
-[^1138]: 243:5 Cf. Yt. IV, 10.
+[^1077] : 243:5 Cf. Yt. IV, 10. 
 
-[^1139]: 244:1 Contre la vérité.
+[^1078] : 244 : 1 Contre la vérité. 
 
-[^1140]: 244:2 Cf. Yt. X, 108 seq.
+[^1079] : 244:2 Cf. Yt. X, 108 suiv. 
 
-[^1141]: 244 : 3 § 48 ; cf. Yt. VIII, 56.
+[^1080] : 244 : 3 § 48 ; cf. Yt. VIII, 56. 
 
-[^1142]: 244 : 4 §§ 49-53 = Yt. VIII, 57-61.
+[^1081]: 244:4 §§ 49-53 = Yt. VIII, 57-61. 
 
-[^1143]: 245:1 Gô<i>s</i>ûrûn ou Drvâspa ; voir Yt. IX. La destruction de tout être vivant est une blessure à Drvâspa.
+[^1082]: 245:1 Gô<i>s</i>ûrûn ou Drvâspa ; voir Yt. IX. La destruction de tout être vivant est une atteinte à Drvâspa. 
 
-[^1146]: 245:2 ? Vyâmbura.
+[^1083]: 245:2 ? Vyâmbura. 
 
-[^1145]: 245:3 Le Haperesi et le Neme<i>t</i>ka sont probablement des espèces de bois vert ; il est interdit de mettre du bois vert dans le feu car il le tue et nuit en même temps au Génie de l'Eau.
+[^1084]: 245:3 Le Haperesi et le Neme<i>t</i>ka sont probablement des espèces de bois vert ; il est interdit de mettre du bois vert dans le feu car il le tue et nuit en même temps au Génie de l'Eau. 
 
-[^1147]: 245:4 Afin de frapper.
+[^1085]: 245:4 Pour frapper.
 
-[^1148]: 245:5 Le sens général des quatre dernières clauses est que les impies sont vaincus.
+[^1086]: 245:5 Le sens général des quatre dernières clauses est que les impies sont vaincus. 
 
-[^1149]: 246:1 ? Sâiri-baoghem; cf. § 46.
+[^1087]: 246:1 ? Sâiri-baoghem; cf. § 46. 
 
-[^1150]: 246 : 2 Nivazaïti ; littéralement, avaler (? frôt ô bun burtan, Vend. V, 8 \[26\]).
+[^1088]: 246:2 Nivazaiti; littéralement, avaler (? frôt ô bun burtan, Vend. V, 8 \[26\]). 
 
-[^1151]: 246:3 Littéralement, dépasser.
+[^1089]: 246:3 Littéralement, rattraper. 
 
-[^1152]: 246:4 Cf. Yt. V, 85.
+[^1090]: 246:4 Cf. Yt. V, 85. 
 
-[^1153]: 246:5 ? Asânem sighûirê.
+[^1091]: 246:5 ? Asânem sighûirê. 
 
-[^1154]: 246:6 Cf. Yt. V, 69.
+[^1092]: 246:6 Cf. Yt. V, 69. 
 
-[^1155]: 247:1 De Yasna X, 20 (62), où, au lieu des mots, 'dans le bœuf est notre force (amem), dans le bœuf est notre besoin', le texte a, 'dans le bœuf est son besoin, dans le bœuf est notre besoin', ce qui signifie, 'quand nous lui donnons son besoin (eau et herbe), il nous donne notre besoin (lait et veaux)' (trad. Pahl.).
+[^1093]: 247:1 De Yasna X, 20 (62), où, au lieu des mots, 'dans le bœuf est notre force (amem), dans le bœuf est notre besoin', le texte a, 'dans le bœuf est son besoin, dans le bœuf est notre besoin', ce qui signifie, 'quand nous lui donnons son besoin (eau et herbe), il nous donne notre besoin (lait et veaux)' (trad. Pahl.). 
 
-[^1156]: 248:1 Voir [p. 120](../Yasts_10#p120), note [2](../Yasts_10#fn558).
+[^1094]: 248:1 Voir [p. 120](../Yasts_10#p120), note [2](../Yasts_10#fn558). 
 
-[^1157]: 248:2 Qui offrira un sacrifice à Verethraghna.
+[^1095]: 248:2 Qui offrira un sacrifice à Verethraghna.

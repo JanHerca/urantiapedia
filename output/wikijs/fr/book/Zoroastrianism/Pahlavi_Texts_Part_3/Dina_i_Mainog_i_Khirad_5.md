@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « La terre est plus heureuse, là où un homme juste, qui dit la vérité, fait sa demeure. » 5. La seconde, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> où ils font la demeure des feux. 6. La troisième, lorsque les bœufs et les moutons s'y reposent. 7. La quatrième est une terre inculte et inhabitée lorsqu'ils la ramènent à la culture et à l'habitabilité. 8. La cinquième, d'où ils extirpent les terriers des créatures nuisibles. 9. La sixième, sur laquelle existent les cérémonies et la venue des êtres sacrés, et la séance des bons [^2], 10. La septième, lorsqu'ils peuplent ce qui était désolé. 11. La huitième, lorsque de la possession des mauvais il passe à la possession des bons. 12. Le neuvième, quand des produits et des rendements (bê<i>d</i>ŏ) qui en découlent, ils fournissent la part des êtres sacrés, des bons et des dignes. 13. _Et_ le dixième, dans lequel ils fournissent l'eau bénite et les cérémonies. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

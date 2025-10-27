@@ -76,6 +76,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 25\. _Then_ Srîtô went out to that jungle, and that witch in the shape of a dog _was_ seen by him; after he smote the witch, she became two; and he constantly smote them till they became a thousand, and the host (gir<i>d</i>ŏ) of _them_ slew Srîtô on the spot.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

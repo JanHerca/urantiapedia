@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 15\. Completado en paz y placer, alegría _y_ deleite; feliz para quien lee, _y_ más feliz para quien lo mantiene _en uso_ y de ahí se deber [^53], si existen para el tiempo eterno.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 28\. Of mountains Mount Apârsên's beginning is _in_ Sagastân _and_ end in Khû<i>g</i>îstân, some say _it is_ all the mountains of Pârs, _and_ is chief of all mountains except Albûr<i>z</i>. 29. Of birds <i>K</i>amrô<i>s</i> [^25] is chief, who is worth all the birds in Khvanîras, except the griffon of three natures. 30. The conclusion is this, that every one who performs a great duty has then much value.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

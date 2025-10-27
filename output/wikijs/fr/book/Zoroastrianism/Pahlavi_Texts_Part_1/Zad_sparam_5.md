@@ -45,6 +45,8 @@ Lorsque de la même manière, et d'une manière tout aussi oppressive, ses créa
 
 5\. Et ce fut le premier combat [^7], _celui_ du ciel avec Aharman.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

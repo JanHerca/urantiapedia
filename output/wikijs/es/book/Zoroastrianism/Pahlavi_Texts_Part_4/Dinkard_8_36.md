@@ -49,6 +49,8 @@ _Casa de Nask_.
 
 17\. Acerca de dónde _y_ en quién, después del padre, está <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> la prerrogativa de que una hija _sea_ entregada a un marido.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

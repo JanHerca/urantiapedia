@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 8\. «Y la mezcla del agua en la tierra es como la sangre en el cuerpo del hombre.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. _As to_ that which is thought by him [^8] of those deliverances sent down, completed, _and_ announced, I consider more particularly about the meaning of one thing, which is their solemnized observance. 6. The solemnized observance of Mê<i>d</i>yôk-mâh is in the teaching [^9] of Mê<i>d</i>yôk-mâh, and those of Afarg and Sôshâns are each one meditated _and_ indicated in a teaching; and the pointedly superior position of each one of them is mentioned by him in _his_ statement of any teaching and _of_ the decision set up. 7. Also with a kind regard for his own choice he _has_ thought it (the former teaching) imperfect, and, on account of _what_ was not attained by it—which _was_ a re-explainer of the same good ideas provided—_its_ dissimilarity to it is not unnoticed [^10]. 8. _But_ when _one_ hears the re-explainers of a true reply he is well protected (hû-zinharî<i>d</i>ŏ) by complete mindfulness [^11], _and_ is himself confident that the teaching of Mê<i>d</i>yôk-mâh is not the whole statement of Mê<i>d</i>yôk-mâh, for there are many opinions of <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> Mê<i>d</i>yôk-mâh [^12] _which_ have decided _in_ another manner; not _that_ whatever Mê<i>d</i>yôk-mâh said is not good, _but_ in the teaching of Mê<i>d</i>yôk-mâh _it_ is certain that even _what_ is not proper is mentioned many _times_ as a possibility [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

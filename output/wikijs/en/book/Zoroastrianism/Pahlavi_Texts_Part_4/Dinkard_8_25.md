@@ -38,6 +38,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask._
 
 1\. The second section is the Ar’<i>g</i>istân (‘_value code_’), particulars about the value of small consumption of animate, and also that of inanimate, property; _with_ the desirableness of information thereon, each separately. 2. The value of not destroying a righteous man even for a decree and justice, _and_ of atonement for injuring the existence [^1] of the fire of Varahrân [^2].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

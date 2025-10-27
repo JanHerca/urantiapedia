@@ -1788,6 +1788,8 @@ Zoroastrians, Int. 14.
 
 Zôtŏ, see Priest, officiating.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -133,6 +133,8 @@ Outre la paraphrase persane de cette légende, en prose, les Rivâyats persans c
 
 « Et l'avantage de Sâm était ceci, que par lui le serpent Sruvar, le loup Kapô<i>d</i> qu'ils appellent aussi P<i>e</i>han [^61], le démon de l'eau Ga<i>n</i>darfi, l'oiseau Kamak [^62] et le démon déconcertant [^63] _ont été_ tués. <span id="p382"><sup><small>[ p. 382 ]</small></sup></span> Et aussi beaucoup d'autres grandes actions, qui _étaient_ plus précieuses, il a accomplies ; et il a retenu beaucoup de troubles du monde, dont, si l'un de ces troubles spéciaux était resté derrière, il n'aurait pas été possible d'effectuer la résurrection et l'existence future. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

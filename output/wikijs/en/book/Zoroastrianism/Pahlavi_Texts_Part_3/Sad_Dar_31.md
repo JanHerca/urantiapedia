@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. In the worldly _existence_ they are the guard of men and cattle. 7. If _there_ had not been a dog they would not have been able to keep a single sheep. 8. Every time that he barks, just as his bark goes forth, the demons and fiends run away from the place.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

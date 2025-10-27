@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Y hay varias cosas cuyo sacrificio es muy malo y el pecado muy abundante, como el cordero, el cabrito, el buey de labranza, el caballo de guerra, la golondrina que atrapa la langosta y el gallo; y de todos estos, el pecado es mayor en _lo que respecta_ al gallo. 4. Si se vuelve necesario [^4], es apropiado matar un gallo que no cante [^5], y es necesario consagrar sus cabezas. 5. Cualquier cabeza de animal que no esté consagrada no es deseable comer, por lo que se convierte en [^6] una ofrenda justa. 6. Si no se puede consagrar la cabeza, es necesario consagrar un riñón _como_ sustituto (badal).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

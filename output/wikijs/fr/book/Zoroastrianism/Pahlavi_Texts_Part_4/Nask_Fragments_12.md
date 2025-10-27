@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 Dk. VIII, Chap. XIII, 10, fait probablement référence au passage qui contenait la déclaration ainsi citée dans Sls. X, 28 : « De même, il est révélé dans le <i>K</i>îtradâ<i>d</i> que Spenda<i>r</i>ma<i>d</i> a parlé à Mânû<i>s</i>'<i>k</i>îhar ainsi : « Même le cheval le plus rapide a besoin du fouet, le couteau d'acier le plus aiguisé a besoin de la pierre à aiguiser, et l'homme le plus sage a besoin de conseil. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

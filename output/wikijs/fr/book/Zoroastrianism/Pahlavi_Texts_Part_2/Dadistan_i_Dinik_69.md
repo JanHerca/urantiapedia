@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : deux sombres descendants du bœuf primitif [^1] se meuvent et sont amenés à tourner bien au-dessous du soleil et de la lune, et chaque fois que, pendant la révolution de la sphère céleste, ils font passer l’un d’eux au-dessous du soleil ou au-dessous de la lune, celui-ci devient une enveloppe qui est filée (ta<i>d</i>) sur le soleil, et il en est ainsi lorsque le soleil ou la lune ne sont pas vus. 3. De chacun de ces deux descendants du bœuf primitif – dont l’un est appelé « la tête » et l’autre « la queue » – le mouvement est spécifié parmi les astronomes [^2] ; mais en restant sur ces luminaires <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> et en produisant cette enveloppe, ils n’atteignent pas ces luminaires à l’intérieur de cette enveloppe. 4. _Il_ ne se produit aucune différence quelle qu'elle soit entre les _rayons_ descendants_ [^3] de ces luminaires dans un lieu de pureté et de liberté de perturbation bien en dessous de ces luminaires, sauf ceci, que la lumière qu'ils détournent vers le monde et leur activité en ce qui concerne les sphères _célestes_ ne sont pas complètes _pendant_ autant de temps, _ni_ la venue [^4] de la lumière sur la terre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

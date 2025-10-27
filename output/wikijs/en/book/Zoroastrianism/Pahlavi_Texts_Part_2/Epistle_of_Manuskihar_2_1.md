@@ -52,6 +52,8 @@ Copy of an epistle of the priest Mânû<i>s</i><i>k</i>îhar, son of Yûdân-Yim
 
 16\. And if, also, those of the good religion in the country of Irân be, therefore, always in want of the learning and acquaintance with religion of _his_ priestly lordship, so that he disperses the profession and the preparation _and_ management of the remedy [^19] of many diseases, then he throws it away as a profession, _and_ there is not much of a necessity for the wisdom _and_ learning of _his_ priestly lordship. 17. For _there_ are _some_ of the _present_ time would never vouchsafe approval of a presiding fire [^20], which is in many modes an advance of foreign habits; _and_ of many _things_ which are in writing, _of_ a nature easier and more comfortable in a worldly _sense_, they offer and <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> always give more than he who is a priest; and, _at_ last, no one ever accepts _any_ except him who is astute in evil _and_ wicked [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

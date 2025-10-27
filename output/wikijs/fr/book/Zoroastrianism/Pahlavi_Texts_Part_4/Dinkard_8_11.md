@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 5\. L’excellence _qui est_ parfaite est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

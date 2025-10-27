@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. Therefore they have decided rightly who [^3] teach <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> them something, especially _what_ is proper and improper according to revelation; because the chief principle is this, whether, through the duty of this world, a good _or_ bad result is coming hereafter.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

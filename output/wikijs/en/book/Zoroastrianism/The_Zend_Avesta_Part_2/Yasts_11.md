@@ -208,6 +208,8 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -234,94 +236,94 @@ I bless the sacrifice and prayer, the strength and vigour of the holy, strong Sr
 
 ## Footnotes
 
-[^764]: 159:1 Cf. Vend. Introd. IV, 31.
+[^731]: 159:1 Cf. Vend. Introd. IV, 31.
 
-[^765]: 159:2 Ibid. III, 3.
+[^732]: 159:2 Ibid. III, 3.
 
-[^766]: 159:3 See an account of the Hâdhôkht Nosk in the Dînkart (West, Pahlavi Texts, I, 225, note); cf. Introd. to Yt. XXI.
+[^733]: 159:3 See an account of the Hâdhôkht Nosk in the Dînkart (West, Pahlavi Texts, I, 225, note); cf. Introd. to Yt. XXI.
 
-[^767]: 159:4 Cf. § 18, note.
+[^734]: 159:4 Cf. § 18, note.
 
-[^768]: 160:1 ‘Has been taught to the world, namely, the Law’ (Pahl. Comm.).
+[^735]: 160:1 ‘Has been taught to the world, namely, the Law’ (Pahl. Comm.).
 
-[^769]: 160:2 Doubtful.
+[^736]: 160:2 Doubtful.
 
-[^770]: 160:3 Derezvã: Pahl. hûzvân; cf. Yt. I, 28.
+[^737]: 160:3 Derezvã: Pahl. hûzvân; cf. Yt. I, 28.
 
-[^771]: 160:4 Is the same with it, is as powerful.
+[^738]: 160:4 Is the same with it, is as powerful.
 
-[^772]: 160:5 Doubtful (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
+[^739]: 160:5 Doubtful (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
-[^773]: 160:6 See [p. 23](../Yasts_1#p23).
+[^740]: 160:6 See [p. 23](../Yasts_1#p23).
 
-[^774]: 160:7 Or, ‘is the best of all fiend-smiters in battle.’
+[^741]: 160:7 Or, ‘is the best of all fiend-smiters in battle.’
 
-[^775]: 160:8 This chapter (Pahl. Comm.).
+[^742]: 160:8 This chapter (Pahl. Comm.).
 
-[^776]: 161:1 Different words are used, as usual, to express the same conflict, according as it refers to the faithful or to the idolaters.
+[^743]: 161:1 Different words are used, as usual, to express the same conflict, according as it refers to the faithful or to the idolaters.
 
-[^777]: 161:2 Aipi-ayanãm: madam râs.
+[^744]: 161:2 Aipi-ayanãm: madam râs.
 
-[^778]: 161:3 Arethyanãm: dâdistân (from aretha, meaning dînâ, dâdistân).
+[^745]: 161:3 Arethyanãm: dâdistân (from aretha, meaning dînâ, dâdistân).
 
-[^779]: 161:4 Gadha: n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh); the Pahlavi has ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), a Saka, a Scythe.
+[^746]: 161:4 Gadha: n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh); the Pahlavi has ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), a Saka, a Scythe.
 
-[^780]: 161:5 The praise of Sraosha.
+[^747]: 161:5 The praise of Sraosha.
 
-[^781]: 161:6 Keresas<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; that name was in the later periods applied to Christians, as if keresa were the name of Christ; cf. Bahman Ya<i>s</i>t II, 19; III, 2.
+[^748]: 161:6 Keresas<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; that name was in the later periods applied to Christians, as if keresa were the name of Christ; cf. Bahman Ya<i>s</i>t II, 19; III, 2.
 
-[^782]: 161:7 Doubtful.
+[^749]: 161:7 Doubtful.
 
-[^783]: 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
+[^750]: 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
 
-[^784]: 162:2 See Vend. Introd. IV, 31.
+[^751]: 162:2 See Vend. Introd. IV, 31.
 
-[^785]: 162:3 See Yt. XVII.
+[^752]: 162:3 See Yt. XVII.
 
-[^786]: 162:4 See Vend. XXII, 7 \[22\] and Sîrôzah I, 9.
+[^753]: 162:4 See Vend. XXII, 7 \[22\] and Sîrôzah I, 9.
 
-[^787]: 162:5 The words of the law.
+[^754]: 162:5 The words of the law.
 
-[^788]: 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
+[^755]: 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
 
-[^789]: 162:7 Cf. Yt. I, 19.
+[^756]: 162:7 Cf. Yt. I, 19.
 
-[^790]: 163:1 Cf. above, [p. 145](../Yasts_10#p145), note [1](../Yasts_10#fn669).
+[^757]: 163:1 Cf. above, [p. 145](../Yasts_10#p145), note [1](../Yasts_10#fn669).
 
-[^791]: 163:2 To hell.
+[^758]: 163:2 To hell.
 
-[^792]: 163:3 As above, §§ 8-9.
+[^759]: 163:3 As above, §§ 8-9.
 
-[^793]: 163:4 To the creation of Ormazd.
+[^760]: 163:4 To the creation of Ormazd.
 
-[^794]: 163:5 Doubtful. The Yasna has: ‘Through whose strength, victorious power, wisdom, and knowledge the Amesha-Spe<i>n</i>tas go (avãn; Phl. sâtûnand) along the seven Karshvares of the earth’ (LVII, 23 \[LVI, 10, 2\]).
+[^761]: 163:5 Doubtful. The Yasna has: ‘Through whose strength, victorious power, wisdom, and knowledge the Amesha-Spe<i>n</i>tas go (avãn; Phl. sâtûnand) along the seven Karshvares of the earth’ (LVII, 23 \[LVI, 10, 2\]).
 
-[^795]: 164:1 He teaches the law to the three saviours to come, Oshêdar Bâmî, Oshêdar Mâh, and Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\]; Phl. tr.).
+[^762]: 164:1 He teaches the law to the three saviours to come, Oshêdar Bâmî, Oshêdar Mâh, and Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\]; Phl. tr.).
 
-[^796]: 164:2 Pare<i>s</i>tas<i>k</i>a mravay<i>â</i>os<i>k</i>a, to be corrected, according to various readings, into staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a or something like it; the two genii here alluded to are Anâstareta and Amuyamna, Sinlessness and Innocence, who are invoked in company with Akh<i>s</i>ti hamvai<i>ñ</i>ti in Vispêrad VIII, 4.
+[^763]: 164:2 Pare<i>s</i>tas<i>k</i>a mravay<i>â</i>os<i>k</i>a, to be corrected, according to various readings, into staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a or something like it; the two genii here alluded to are Anâstareta and Amuyamna, Sinlessness and Innocence, who are invoked in company with Akh<i>s</i>ti hamvai<i>ñ</i>ti in Vispêrad VIII, 4.
 
-[^797]: 164:3 See Yt. XII.
+[^764]: 164:3 See Yt. XII.
 
-[^798]: 164:4 See Yt. XVII.
+[^765]: 164:4 See Yt. XVII.
 
-[^799]: 164:5 See Vend. XIX, 39.
+[^766]: 164:5 See Vend. XIX, 39.
 
-[^800]: 164:6 See ibid.
+[^767]: 164:6 See ibid.
 
-[^801]: 164:7 See Yt. XVI, 1.
+[^768]: 164:7 See Yt. XVI, 1.
 
-[^802]: 165:1 The faithful, as helping through their good deeds in the work of final restoration, to be performed by Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17).
+[^769]: 165:1 The faithful, as helping through their good deeds in the work of final restoration, to be performed by Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17).
 
-[^803]: 165:2 The first sacrifice is the Yasna sacrifice; the next (literally, superior) is the Vispêrad; the middle sacrifice is the Hâdhôkht \[and\] êvak hômâst; the highest sacrifice is the Dvâzdah hômâst (Pahl. Comm.). Sraosha is called the first, next, middle, and highest, accordingly as he presides over one or the other of those sacrifices. For a definition of the êvak hômâst and Dvâzdah hômâst, see West, Pahlavi Texts, I, 212, note 5.
+[^770]: 165:2 The first sacrifice is the Yasna sacrifice; the next (literally, superior) is the Vispêrad; the middle sacrifice is the Hâdhôkht \[and\] êvak hômâst; the highest sacrifice is the Dvâzdah hômâst (Pahl. Comm.). Sraosha is called the first, next, middle, and highest, accordingly as he presides over one or the other of those sacrifices. For a definition of the êvak hômâst and Dvâzdah hômâst, see West, Pahlavi Texts, I, 212, note 5.
 
-[^804]: 165:3 Vîspãn, translated harvisp zamân.
+[^771]: 165:3 Vîspãn, translated harvisp zamân.
 
-[^805]: 165:4 Literally, the smiter who smites with smitings.
+[^772]: 165:4 Literally, the smiter who smites with smitings.
 
-[^806]: 166:1 The same as Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
+[^773]: 166:1 The same as Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
 
-[^807]: 166:2 He receives alms (the ashô-dâd).
+[^774]: 166:2 He receives alms (the ashô-dâd).
 
-[^808]: 167:1 Cf. §§ 16-17.
+[^775]: 167:1 Cf. §§ 16-17.
 
-[^809]: 167:2 Who sacrifices to Sraosha.
+[^776]: 167:2 Who sacrifices to Sraosha.

@@ -88,6 +88,8 @@ Yathâ ahû vairyô; La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Donnez à cet homme [^1204] la luminosité et la gloire, . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -114,32 +116,32 @@ Yathâ ahû vairyô; La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## Notes de bas de page
 
-[^1252]: 283:1 Car il donne de la nourriture, des troupeaux et des richesses à ceux qui en prennent possession.
+[^1190]: 283:1 Car il donne de la nourriture, des troupeaux et des richesses à ceux qui en prennent possession.
 
-[^1253]: 284:1 Voir Vendîdâd, Introd. IV, 22.
+[^1191]: 284:1 Voir Vendîdâd, Introd. IV, 22.
 
-[^1254]: 284:2 Ibid. Introd. IV, 24.
+[^1192]: 284:2 Ibid. Introd. IV, 24.
 
-[^1255]: 284:3 Douteux.
+[^1193]: 284:3 Douteux.
 
-[^1256]: 284:4 ? Un daêva ou une maladie.
+[^1194]: 284:4 ? Un daêva ou une maladie.
 
-[^1257]: 284 : 5 Voir Yt. VIII, 22.
+[^1195] : 284 : 5 Voir Yt. VIII, 22.
 
-[^1258]: 284:6 Voir Yt. XVII.
+[^1196]: 284:6 Voir Yt. XVII.
 
-[^1259]: 284:7 Qui fait l'aumône aux pauvres Mazdayasniens.
+[^1197]: 284:7 Qui fait l'aumône aux pauvres Mazdayasniens.
 
-[^1260]: 284:8 Même un pied (?), quand elle ne reste pas là « pour une longue amitié » (Yt. XVII, 6).
+[^1198]: 284:8 Même un pied (?), quand elle ne reste pas là « pour une longue amitié » (Yt. XVII, 6).
 
-[^1261]: 284:9 Afin que la pluie tombe en son temps (Yt. VIII, 11).
+[^1199]: 284:9 Afin que la pluie tombe en son temps (Yt. VIII, 11).
 
-[^1262]: 284:10 Cf. Yt. VIII, 29.
+[^1200] : 284:10 Cf. Yt. VIII, 29.
 
-[^1263]: 284:11 Cf. § 2.
+[^1201]: 284:11 Cf. § 2.
 
-[^1264]: 285:1 Arshukhdha va<i>k</i>ô, les mots conformes aux rites.
+[^1202]: 285:1 Arshukhdha va<i>k</i>ô, les paroles conformes aux rites.
 
-[^1265]: 285:2 Haoma<i>k</i>inem ; voir Études Iraniennes, II, 148.
+[^1203] : 285:2 Haoma<i>k</i>inem ; voir Études Iraniennes, II, 148.
 
-[^1266]: 285:3 Qui aura sacrifié à la Gloire Aryenne.
+[^1204]: 285:3 Qui aura sacrifié à la Gloire Aryenne.

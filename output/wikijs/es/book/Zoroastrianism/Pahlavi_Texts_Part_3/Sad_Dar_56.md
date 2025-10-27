@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Cuando se acuclillen para evacuar agua, es necesario que _esta se extienda solo_ [^2] desde el talón hasta la punta de los dedos; pues, si es más, cada gota es un pecado de Tanâvar. 4. Y, cuando deseen agacharse para evacuar agua, _deben_ recitar un Yathâ-ahû-vairyô [^3]; _y_, al terminar, _deben_ recitar el Ashem-vohû [^4] tres veces, el Humatanãm [^5] dos veces, el Hukhshathrôtemâi [^6] tres veces, el Yathâ-ahû-vairyô cuatro veces, y el Ahunem-vairîm [^7] hasta el final. 5. Porque cada vez que actúan así, son agradables a los ojos y a los corazones de los hombres, y sus palabras son más aprobadas en la cercanía de los reyes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -42,6 +42,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 6\. About the subjects regarding which a priest of concealed parentage is to be asked, _with_ the prelude and sequel of the same subject. 7. About the bridge _penalty_ [^4] of a priest through sinfulness, _in_ a separate fargar<i>d</i> [^5]. 8. About a priest they may carry away from a district, owing to anxiety for forming a priestly assembly, _who_ becomes worried in forming _it_. <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 9\. About the superiority of priests in means of knowledge, one as regards another; the extent of superiority through which the greater suitability for authority, of one as regards another [^6], arises; _and_ whatever is on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

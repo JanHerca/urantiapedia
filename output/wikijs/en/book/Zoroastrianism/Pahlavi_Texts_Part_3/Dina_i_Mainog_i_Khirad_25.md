@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. ‘_And_ of the poor he is the richer who is content with that which has come, (7) and cares not for the increase of anything.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

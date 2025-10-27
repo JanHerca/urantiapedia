@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. Por lo tanto, es necesario esforzarse para que no cometan ninguna ofensa, especialmente en el momento en que han comido carne.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

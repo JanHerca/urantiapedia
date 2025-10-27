@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. It is declared in revelation, _that_, when a person confers a benefit upon any one, Hôrmazd [^1] gives him ten times as much, as an equivalent. 3. And, if _the other_ be not understanding [^2] the justice _of this_, it is related in the commentary of the Avesta _in_ this manner, that it is a great sin for him. 4. And Aharman [^3] speaks like this, namely: ‘That sinner is akin to me; _in_ the end he will come into my hands; I will not give him into the hands of any demon, _but_ I _will_ inflict punishment _with_ my own hands.’ 5. _And_ the chief priest [^4] says it is necessary for all Zaratu<i>s</i>tians that they keep themselves far from this sin.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Pero, de hecho, cuando no obtienen [^1] su sustento diario del deber sacerdotal, y los buenos no les dan dones justos escogidos [^2] a cambio, y no les permiten obtener nada de sus parientes más cercanos o de los malvados ni siquiera mendigando, se puede solicitar un sustento mediante la celebración remunerada de ceremonias, la administración de todos los ritos religiosos (dînô) y otras obligaciones de los discípulos sacerdotales en relación con ello [^3]. 6. Cuando ni siquiera con eso lo obtengan, deben buscar su sustento en la agricultura, la cría de ovejas, la caligrafía u otro empleo apropiado entre los sacerdotes; y cuando no les sea posible vivir ni siquiera de esto, deben buscarlo portando armas, cazando u otro empleo apropiado en la profesión de un guerrero virtuoso. 7. Y cuando ni siquiera esto sea posible, <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> Si les es posible mantener sus propios cuerpos, que están en control necesario, mediante lo que digieren con ansia, _ellos_ deben pedir un regalo justo [^4] autorizadamente (dastôbarîhâ) como un remedio eficaz; al vivir ociosamente, o no gastar fuerza, sus propios cuerpos, que están en control, quedan sin sustento, pero no autorizadamente [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

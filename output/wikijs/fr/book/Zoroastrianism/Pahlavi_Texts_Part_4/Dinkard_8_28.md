@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 6\. Des sujets sur lesquels un prêtre de parenté cachée doit être interrogé, avec le prélude et la suite du même sujet. 7. De la _peine_ de pont [^4] infligée à un prêtre pour péché, dans un fargard séparé [^5]. 8. D'un prêtre qu'ils peuvent emmener d'un district, par souci de former une assemblée sacerdotale, et qui se préoccupe de la former. <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 9\. De la supériorité des prêtres en matière de connaissances, l'un par rapport à l'autre ; de l'étendue de cette supériorité qui confère à l'un une plus grande aptitude à l'autorité, par rapport à l'autre [^6] ; et tout ce qui concerne le même sujet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

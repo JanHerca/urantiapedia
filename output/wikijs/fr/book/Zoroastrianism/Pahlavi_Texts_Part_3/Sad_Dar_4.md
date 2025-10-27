@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 12\. C'est pourquoi, bien qu'un péché soit arrivé à quelqu'un, il n'est pas nécessaire qu'il devienne désespéré. 13. Et quiconque a le pouvoir (<i>t</i>âqat) <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> doit s'efforcer d'accomplir de bonnes œuvres, afin qu'il y ait par là expiation du péché ; car l'être sacré, le bon et le propice, est bon envers chacun.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

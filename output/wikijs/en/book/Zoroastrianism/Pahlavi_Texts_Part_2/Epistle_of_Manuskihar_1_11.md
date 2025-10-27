@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 12\. Mânû<i>s</i><i>k</i>îhar, son of Yûdân-Yim, _has_ written _it in_ the day _and_ month _of_ Spenda<i>r</i>ma<i>d</i> [^16], in the <span id="p324"><sup><small>[ p. 324 ]</small></sup></span> enjoyment of righteousness, the glorification of the religion, trustfulness to the angels, and gratitude unto the creator Aûha<i>r</i>ma<i>z</i><i>d</i>, the archangels, _and_ all the angels of the spiritual _and_ the angels of the worldly _existences_. 13. Praise to the month (mâh) of like kind which is exalted in its name with this.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

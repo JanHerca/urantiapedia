@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. And the fourth day the ordering and performing the ceremony of the righteous guardian spirit (ar<i>d</i>âî fravar<i>d</i>ŏ) [^8] are _for_ the same soul and the remaining righteous guardian spirits of those who are _and_ were _and will_ be, from Gâyômar<i>d</i> the propitious to Sôshâns the triumphant [^9].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

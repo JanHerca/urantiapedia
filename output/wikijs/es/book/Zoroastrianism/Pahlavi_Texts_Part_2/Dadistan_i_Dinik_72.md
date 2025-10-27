@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 10\. Y quienes se contaminan con una propensión al hedor están con ello dando la bienvenida a los demonios _y_ demonios [^15], _y_ están lejos de la buena intención [^16] al vejarla; y es necesario _mantener_ una distancia de ellos al sentarse y comer con _ellos_, excepto en la medida en que _pueda_ ser_ oportuno para incitarlos _con_ palabras a retirarse (pa<i>d</i>âli<i>s</i>nŏ) de _su_ pecaminosidad, mientras se los convierte _de esa propensión. 11. _Si alguien_ muere, ordenar una ceremonia para él es indecoroso, y realizarla no estaría autorizado; pero si _él_ lo hiciera _con arrepentimiento_, _uno_ estaría autorizado a realizar su ceremonial después de las tres _noches_ [^17], porque es el remedio para la expiación del pecado. 12. Y mientras _él_ esté vivo, _él_ está en las contingencias (vakhtagânŏ) debido a la enfermedad por la cual _él_ es de esa manera un _alguien_ infame (akhamî<i>d</i>âr), y _no_ hay preventivos (bôndagânŏ) ni polvo medicinal para ello; estas son también enseñanzas para el deber y las buenas obras de un ceremonial para el alma [^18].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

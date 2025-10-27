@@ -54,6 +54,8 @@ In Vi<i>g</i>. pp. 180, 181, it is said that ‘in the Nihâ<i>d</i>ûm it is st
 
 In Vi<i>g</i>. pp. 184, 185, it is said that ‘_it is_ declared by the Avesta of the Nihâ<i>d</i>ûm _thus:_—Âa<i>d</i> aêtahê pa<i>n</i><i>k</i>a ayara hamaspathmaidhem paiti ratûm spe<i>n</i>tay<i>a</i>u ârmatôi<i>s</i> mâunghô nôi<i>d</i> frasrâvayôi<i>d</i>:—So _one_ does not chant forth (that is, does not invoke) the month of (the completely mindful) Spenda<i>r</i>ma<i>d</i> [^11] (that is, the Spenda<i>r</i>ma<i>d</i> month) in the reign of those five Hatnaspa<i>d</i>mêdêm days [^12]; (for if _one_ invokes _it_, owing to forgetfulness, the Avesta is not accepted).’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

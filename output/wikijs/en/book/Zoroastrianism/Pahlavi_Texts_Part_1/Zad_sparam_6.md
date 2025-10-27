@@ -54,6 +54,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 23\. And this was the second contest, which was with the water.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -124,7 +126,7 @@ dateCreated: 2025-10-5T10:16:32Z
 
 [^22]: (173:4) Bund. XXII, 2.
 
-[^23]: (173:5) Written Gû<i>s</i>asp in Bund. XVII. 7, and Gû<i>s</i>nâsp in B. Yt. III, 30, 40, while the older form Vi<i>s</i>nâsp occurs in B.Yt. III, 10.
+[^23]: (173:5) Written Gû<i>s</i>asp in Bund. XVII. 7, and Gû<i>s</i>nâsp in B. Yt. III, 30, 40, while the older form Vi<i>s</i>nâsp occurs in B. Yt. III, 10.
 
 [^24]: (173:6) The Sôvbar of Bund. VII, 14, XII, 24, XXII, 3.
 

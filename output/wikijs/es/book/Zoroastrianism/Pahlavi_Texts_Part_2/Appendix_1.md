@@ -133,6 +133,8 @@ Además de la paráfrasis persa de esta leyenda, en prosa, los Rivâyats persas 
 
 «Y de Sâm la ventaja fue esta, que por él _fueron_ muertos la serpiente Sruvar, el lobo Kapô<i>d</i> que también llaman P<i>e</i>han [^61], el demonio del agua Ga<i>n</i>darfi, el pájaro Kamak [^62], y el demonio desconcertante [^63]. <span id="p382"><sup><small>[ p. 382 ]</small></sup></span> Y también muchas otras grandes acciones, que _eran_ más valiosas, las realizó; y evitó muchas perturbaciones del mundo, de las cuales, si una de esas perturbaciones especiales hubiera quedado atrás, no habría sido posible efectuar la resurrección y la existencia futura.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -37,6 +37,8 @@ dateCreated: 2025-3-16T22:11:40Z
 1-4. (Voir Y. XXIII, 1-4, en remplaçant « Je désire m'approcher avec sainteté » par « J'offre avec sainteté » ; voir aussi Y. VII, 24.) 5-7. (Voir Y. XXXVIII, 3-5.)
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -658,6 +658,8 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 '\[Dale\] a ese hombre [^730] brillo y gloria, . . . dale la brillante, feliz y dichosa morada de los Santos!'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -684,357 +686,355 @@ A un lado del carro de Mitra, señor de los vastos pastos, se yerguen mil mazas 
 
 ## Notas al pie
 
-[^579]: 119:1 Sîrôzah I, 16.
+[^556]: 119:1 Sîrôzah I, 16.
 
-[^580]: 120:1 Cf. Yt. VIII, 50.
+[^557]: 120:1 Cfr. Yt. VIII, 50.
 
-[^581]: 120:2 El Mithradru<i>g</i>: también se podría traducir 'quien rompe el contrato', ya que mithra, como sustantivo común, significa 'un contrato'.
+[^558]: 120:2 El Mithradru<i>g</i>: también se podría traducir 'quien rompe el contrato', ya que mithra, como sustantivo común, significa 'un contrato'.
 
-[^582]: 120:3 Kayadhas; cf. Yt. Yo, 19.
+[^559]: 120:3 Kayadhas; cf. Yt. Yo, 19.
 
-[^583]: 120:4 Cf. Ardâ Viraf, cap. lii.
+[^560]: 120:4 Cf. Ardâ Viraf, cap. lii.
 
-[^584]: 121:1 Alegría en la cabecera del puente <i>K</i>inva<i>t</i> (Yasna LXII, 6 \[LXI, 17\]; cf. Vend. XVIII, 6).
+[^561]: 121:1 Alegría en la cabecera del puente <i>K</i>inva<i>t</i> (Yasna LXII, 6 \[LXI, 17\]; cf. Vend. XVIII, 6).
 
-[^585]: 121:2 La condición de los bienaventurados en el próximo mundo.
+[^562]: 121:2 La condición de los bienaventurados en el próximo mundo.
 
-[^586]: 121:3 Va<i>n</i>ta, 'asistencia, es decir, hacer <i>g</i>âdangôi' (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi está haciendo una colecta para los pobres (Études Iraniennes, II, 155).
+[^563]: 121:3 Va<i>n</i>ta, 'asistencia, es decir, hacer <i>g</i>âdangôi' (Yasna LXII \[LXI\], 1; <i>g</i>âdangôi está haciendo una colecta para los pobres (Études Iraniennes, II, 155).
 
-[^587]: 121:4 Como [p. 30](../Yasts_1#p30).
+[^564]: 121:4 Como [p. 30](../Yasts_1#p30).
 
-[^588]: 121:5 Perethu-vaêdhayana: sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
+[^565]: 121:5 Perethu-vaêdhayana: sampûr<i>n</i>avittâram kâryanyâyânam (Khorshê<i>d</i> Nyâyi<i>s</i> 6).
 
-[^589]: 121:6 <i>G</i>aghâurv<i>a</i><i>u</i>ng hem: esta palabra, por extraño que parezca, generalmente se traduce como 'quien tiene los brazos más fuertes' (balish<i>th</i>abhu<i>g</i>am); <i>g</i>agâuru se traduce de la misma manera.
+[^566]: 121:6 <i>G</i>aghâurv<i>a</i><i>u</i>ng hem: esta palabra, por extraño que parezca, generalmente se traduce como 'quien tiene los brazos más fuertes' (balish<i>th</i>abhu<i>g</i>am); <i>g</i>agâuru se traduce de la misma manera.
 
-[^590]: 122:1 Véase [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
+[^567]: 122:1 Véase [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
-[^591]: 122:2 Cf. Yt. V, 53; X, 94.
+[^568]: 122:2 Cf. Yt. V, 53; X, 94.
 
-[^592]: 122:3 Monte Albôrz, de donde sale el sol; véase § 50.
+[^569]: 122:3 Monte Albôrz, de donde sale el sol; véase § 50.
 
-[^593]: 122:4 Mitra está estrechamente relacionado con el sol, pero todavía no es idéntico a él, como llegó a ser en tiempos posteriores ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/12200.jpg), el sol; Deo invicto Soli Mithrae).
+[^570]: 122:4 Mitra está estrechamente relacionado con el sol, pero todavía no es idéntico a él, como llegó a ser en tiempos posteriores ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/12200.jpg), el sol; Deo invicto Soli Mithrae).
 
-[^594]: 123:1 En los países llanos.
+[^571]: 123:1 En los países llanos.
 
-[^595]: 123:2 En las partes montañosas de Irán.
+[^572]: 123:2 En las partes montañosas de Irán.
 
-[^596]: 123:3 En las regiones de los lagos (Seistán, Farsistan, Âdarbai<i>g</i>ân).
+[^573]: 123:3 En las regiones de los lagos (Seistan, Farsistan, Âdarbai<i>g</i>ân).
 
-[^597]: 123:4 En la región de los grandes ríos del este. Mouru es Marv (Margiana), con el río Murghâb (el Margus); Harôyu es la región de Herat, con el Harêrûd; Gava-Sughdha y Hvârizm son Sogdiana y Khvârizm, con el Oxus. La situación de Iskata y Pouruta no está clara: se podría pensar en la eschata de Alejandro sobre el Iaxartes y la región del Paretaceno entre el Oxus y el Iaxartes.
+[^574]: 123:4 En la región de los grandes ríos del este. Mouru es Marv (Margiana), con el río Murghâb (el Margus); Harôyu es la región de Herat, con el Harêrûd; Gava-Sughdha y Hvârizm son Sogdiana y Khvârizm, con el Oxus. La situación de Iskata y Pouruta no está clara: se podría pensar en la eschata de Alejandro sobre el Iaxartes y la región del Paretaceno entre el Oxus y el Iaxartes.
 
-[^598]: 123:5 La Tierra está dividida en siete Karshvares, separados entre sí por mares y montañas intransitables para el hombre. Arezahi y Savahi son los Karshvare occidentales y orientales; Fradadhafshu y Vîdadhafshu están en el sur; Vourubare<i>s</i>ti y Vouru<i>g</i>are<i>s</i>ti están en el norte; <i>H</i><i>v</i>aniratha es el Karshvare central. <i>H</i><i>v</i>aniratha es el único Karshvare habitado por el hombre (Bundahi<i>s</i> XI, 3).
+[^575]: 123:5 La Tierra está dividida en siete Karshvares, separados entre sí por mares y montañas intransitables para el hombre. Arezahi y Savahi son los Karshvare occidentales y orientales; Fradadhafshu y Vîdadhafshu están en el sur; Vourubare<i>s</i>ti y Vouru<i>g</i>are<i>s</i>ti están en el norte; <i>H</i><i>v</i>aniratha es el Karshvare central. <i>H</i><i>v</i>aniratha es el único Karshvare habitado por el hombre (Bundahi<i>s</i> XI, 3).
 
-[^599]: 123:6 Dudoso.
+[^576]: 123:6 Dudoso.
 
-[^600]: 124:1 Mainyu, en el significado del sánscrito manyu (?).
+[^577]: 124:1 Mainyu, en el significado del sánscrito manyu (?).
 
-[^601]: 124:2 Dudoso; aspa<i>k</i>a<i>t</i>: cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/12400.jpg) llegar tarde.
+[^578]: 124:2 Dudoso; aspa<i>k</i>a<i>t</i>: cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/12400.jpg) llegar tarde.
 
-[^604]: 124:3 Apayêi<i>n</i>ti, frastanvai<i>n</i>ti, framanyêi<i>n</i>tê: estos son tres términos técnicos para los movimientos de las tres clases de soldados: infantería, jinetes y aurigas; las dos últimas palabras probablemente sean sinónimos de la primera, pero se desconoce su significado exacto. El Sr. West sugiere que no pueden superarlo en velocidad, velocidad o velocidad.
+[^579]: 124:3 Apayêi<i>n</i>ti, frastanvai<i>n</i>ti, framanyêi<i>n</i>tê: son tres términos técnicos para los movimientos de las tres clases de soldados: infantería, jinetes y aurigas; las dos últimas probablemente sean sinónimos de la primera, pero se desconoce su significado exacto. El Sr. West sugiere que no pueden correr más rápido, cabalgar más rápido, superarlo en velocidad.
 
-[^606]: 125:1 Las palabras sacramentales del contrato, al no ser cumplidas, se convierten en maleficios contra el contrato: rompedor.
+[^580]: 125:1 Las palabras sacramentales del contrato, al no ser cumplidas, se convierten en maleficios contra el contrato: rompedor.
 
-[^607]: 125:2 Dudoso: <i>s</i>anamayô, o <i>s</i>anamaoyô; léase shanmaoyô (?), de shan, sánscrito. kshan.
+[^581]: 125:2 Dudoso: <i>s</i>anamayô, o <i>s</i>anamaoyô; léase shanmaoyô (?), de shan, sánscrito. kshan.
 
-[^608]: 126:1 Vahmô-sendah; cf. Vispêrad VIII (IX, 1), traducción filántropa.
+[^582]: 126:1 Vahmô-sendah; cf. Vispêrad VIII (IX, 1), traducción filántropa.
 
-[^609]: 126:2 Su <i>H</i><i>v</i>arenô.
+[^583]: 126:2 Su <i>H</i><i>v</i>arenô.
 
-[^610]: 126:3 Dudoso.
+[^584]: 126:3 Dudoso.
 
-[^611]: 126:4 Ãithya; cf. Lat. antae (Brugmann).
+[^585]: 126:4 Ãithya; cf. Lat. antae (Brugmann).
 
-[^612]: 127:1 Dudoso.
+[^586]: 127:1 Dudoso.
 
-[^613]: 127:2 Dudoso.
+[^587]: 127:2 Dudoso.
 
-[^614]: 127:3 Cf. Yt. III, 18.
+[^588]: 127:3 Cf. Yt. III, 18.
 
-[^615]: 127:4 Por las oraciones apropiadas (ya<i>s</i>t<i>a</i><i>u</i>).
+[^589]: 127:4 Por las oraciones apropiadas (ya<i>s</i>t<i>a</i><i>u</i>).
 
-[^616]: 127:5 Dudoso.
+[^590]: 127:5 Dudoso.
 
-[^617]: 127:6 Cf. §5.
+[^591]: 127:6 Cf. §5.
 
-[^618]: 128:1 Felicidad espiritual, dicha.
+[^592]: 128:1 Felicidad espiritual, dicha.
 
-[^619]: 128:2 Venta. XVIII, 51 \[III\].
+[^593]: 128:2 Venta. XVIII, 51 \[III\].
 
-[^620]: 128:3 Véase arriba, [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120). §§ 30-34 = §§ 56-59.
+[^594]: 128:3 Véase arriba, [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120). §§ 30-34 = §§ 56-59.
 
-[^621]: 128:4 Dudoso (leyendo arena<i>t</i>\-<i>g</i>aêsha?).
+[^595]: 128:4 Dudoso (leyendo arena<i>t</i>\-<i>g</i>aêsha?).
 
-[^622]: 128:5 Véase § 82, nota.
+[^596]: 128:5 Véase § 82, nota.
 
-[^623]: 129:1 Dudoso.
+[^597]: 129:1 Dudoso.
 
-[^624]: 129:2 El ganado.
+[^598]: 129:2 El ganado.
 
-[^625]: 129:3 El significado es que el ganado de los Mitradru<i>g</i>es no prospera y que sus campos de pastoreo están desolados.
+[^599]: 129:3 El significado es que el ganado de los Mitradru<i>g</i>es no prospera y que sus campos de pastoreo están desolados.
 
-[^626]: 129:4 Véase Yt. XII.
+[^600]: 129:4 Véase Yt. XII.
 
-[^627]: 129:5 Mientras huyen de Mitra, caen en manos de Rashnu.
+[^601]: 129:5 Mientras huyen de Mitra, caen en manos de Rashnu.
 
-[^628]: 129:6 Thrâtâra; uno podría sentirse inclinado a leer thrâstâra, 'el que infunde miedo'; cf. § 36.
+[^602]: 129:6 Thrâtâra; uno podría sentirse inclinado a leer thrâstâra, 'el que infunde miedo'; cf. § 36.
 
-[^629]: 130:1 Cf. §§ 99-101.
+[^603]: 130:1 Cf. §§ 99-101.
 
-[^631]: 130:2 Dudoso. El texto está corrupto.
+[^604]: 130:2 Dudoso. El texto está corrupto.
 
-[^632]: 130:3 Dudoso. El número ocho probablemente tenga un significado astronómico, pues cada una de las ocho râtis de Mitra ocupa uno de los ocho puntos cardinales.
+[^605]: 130:3 Dudoso. El número ocho probablemente tiene un significado astronómico, pues cada una de las ocho râtis de Mitra ocupa uno de los ocho puntos cardinales.
 
-[^633]: 131:1 Dudoso.
+[^606]: 131:1 Dudoso.
 
-[^634]: 131:2 Cf. § 8.
+[^607]: 131:2 Cf. § 8.
 
-[^635]: 132:1 Bundahi<i>s</i> V, 3 seq.; cf. Yt. XII, 13, y Yt. X, 13.
+[^608]: 132:1 Bundahi<i>s</i> V, 3 seq.; cf. Yt. XII, 13, y Yt. X, 13.
 
-[^636]: 132:2 El Haraiti Bareza es lo mismo que el Hara Berezaiti.
+[^609]: 132:2 El Haraiti Bareza es lo mismo que el Hara Berezaiti.
 
-[^637]: 132:3 Sîrôzah I, 9, notas 4 y 5.
+[^610]: 132:3 Sîrôzah I, 9, notas 4 y 5.
 
-[^638]: 132:4 Dudoso (mâyao<i>s</i>).
+[^611]: 132:4 Dudoso (mâyao<i>s</i>).
 
-[^639]: 132:5 Cfr. Yt. VIII, II, 24 e Yt. X, 74.
+[^612]: 132:5 Cfr. Yt. VIII, II, 24 e Yt. X, 74.
 
-[^640]: 133:1 §§ 56-59 = §§ 30-34.
+[^613]: 133:1 §§ 56-59 = §§ 30-34.
 
-[^641]: 134:1 El texto está corrupto (vasô-yaonâi inatãm?).
+[^614]: 134:1 El texto está corrupto (vasô-yaonâi inatãm?).
 
-[^642]: 134:2 Eredhwô-za<i>n</i>gem: sud<i>ri</i><i>dh</i>agaṅghatâ, kila kârye yad pâdâbhyâm yu<i>g</i>yate kartum vyavasâyî <i>s</i>akta<i>s</i><i>k</i>a (Yasna LXII, 5 \[LXI, 23\]).
+[^615]: 134:2 Eredhwô-za<i>n</i>gem: sud<i>ri</i><i>dh</i>agaṅghatâ, kila kârye yad pâdâbhyâm yu<i>g</i>yate kartum vyavasâyî <i>s</i>akta<i>s</i><i>k</i>a (Yasna LXII, 5 \[LXI, 23\]).
 
-[^643]: 135:1 Kar<i>s</i>ô-râzanghem: kê<i>s</i>var vîrâi (Pahl. tr. ibid.).
+[^616]: 135:1 Kar<i>s</i>ô-râzanghem: kê<i>s</i>var vîrâi (Pahl. tr. ibid.).
 
-[^644]: 135:2 De Ahriman; cf. Yasna XXIX, 6 (vyâna = vi<i>k</i>âri<i>s</i>n, vi<i>s</i>uddhatâ.)
+[^617]: 135:2 De Ahriman; cf. Yasna XXIX, 6 (vyâna = vi<i>k</i>âri<i>s</i>n, vi<i>s</i>uddhatâ.)
 
-[^645]: 135:3 Yaokh<i>s</i>tiva<i>n</i><i>t</i>: kâmakômand (que posee todo lo que desea, Vend. XX, 1 \[3\]).
+[^618]: 135:3 Yaokh<i>s</i>tiva<i>n</i><i>t</i>: kâmakômand (que posee todo lo que desea, Vend. XX, 1 \[3\]).
 
-[^646]: 135:4 Véase Yt. X, 82, nota.
+[^619]: 135:4 Véase Yt. X, 82, nota.
 
-[^647]: 135:5 De Yt. X, 23-24.
+[^620]: 135:5 De Yt. X, 23-24.
 
-[^648]: 135:6 Cfr. Yasna XLIII, 7: vyânayâ: amat vandînît, yat g_ri<i>h</i>n_âti.
+[^621]: 135:6 Cfr. Yasna XLIII, 7: vyânayâ: amat vandînît, yat g_ri<i>h</i>n_âti.
 
-[^650]: 135:7 Cf. Yt. X, 5, [p. 121](#p121), notas [^561] y [^562].
+[^622]: 135:7 Cf. Yt. X, 5, [p. 121](#p121), notas 561 y 562.
 
-[^651]: 136:1 Cfr. Yt. VIII, 38.
+[^623]: 136:1 Cfr. Yt. VIII, 38.
 
-[^652]: 136:2 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
+[^624]: 136:2 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
-[^653]: 136:3 Mitra mismo (?).
+[^625]: 136:3 Mitra mismo (?).
 
-[^654]: 136:4 O 'invisible'.
+[^626]: 136:4 O 'invisible'.
 
-[^655]: 136:5 El Karshvare occidental (ver arriba, [p. 123](#p123), nota [^575]); esto parece referirse a la carrera de Mitra durante la noche; cf. § 95.
+[^627]: 136:5 El Karshvare occidental (véase arriba, [p. 123](#p123), nota 575); esto parece referirse a la carrera de Mitra durante la noche; cf. § 95.
 
-[^656]: 136:6 Y rodando sobre él.
+[^628]: 136:6 Y rodando sobre él.
 
-[^657]: 136:7 Cf. Yt. XIII, 89, nota.
+[^629]: 136:7 Cf. Yt. XIII, 89, nota.
 
-[^658]: 136:8 Y elevado.
+[^630]: 136:8 Y elevado.
 
-[^659]: 136:9 Dudoso.
+[^631]: 136:9 Dudoso.
 
-[^660]: 136:10 Véase arriba, [p. 95](../Yasts_8#p95), nota [1](../Yasts_8#fn468).
+[^632]: 136:10 Véase arriba, [p. 95](../Yasts_8#p95), nota [1](../Yasts_8#fn468).
 
-[^661]: 136:11 Véase Vend. Introd. IV, 23.
+[^633]: 136:11 Véase Vend. Introd. IV, 23.
 
-[^662]: 137:1 Cf. § 98.
+[^634]: 137:1 Cf. § 98.
 
-[^663]: 137:2 Véase Yt. XIV, 15; cf. Yt. X, 127.
+[^635]: 137:2 Véase Yt. XIV, 15; cf. Yt. X, 127.
 
-[^664]: 137:3 Anupôithwa; cf. pôithwa (Vend. XIV \[114\]) = rânini<i>s</i>n.
+[^636]: 137:3 Anupôithwa; cf. pôithwa (Vend. XIV \[114\]) = rânini<i>s</i>n.
 
-[^665]: 137:4 Literalmente, manos.
+[^637]: 137:4 Literalmente, manos.
 
-[^668]: 137:5 Dudoso.
+[^638]: 137:5 Dudoso.
 
-[^667]: 137:6 La columna vertebral.
+[^639]: 137:6 La columna vertebral.
 
-[^669]: 137:7 Cf. § 80.
+[^640]: 137:7 Cf. § 80.
 
-[^670]: 138:1 Le han adorado y él ha vencido las reglas de Mitrad<i>g</i>; esto explica la palabra regocijo.
+[^641]: 138:1 Le han adorado y él ha vencido las reglas de Mitrad<i>g</i>es; esto explica la palabra regocijo.
 
-[^671]: 138:2 Cf. Yt. X, 55.
+[^642]: 138:2 Cf. Yt. X, 55.
 
-[^672]: 138:3 Irico; cf. linquo.
+[^643]: 138:3 Irico; cf. linquo.
 
-[^673]: 139:1 El genio de la verdad (Yt. XII); Mitra da una morada al hombre veraz de la misma manera que destruye la morada del mentiroso (§ 80).
+[^644]: 139:1 El genio de la verdad (Yt. XII); Mitra da una morada al hombre veraz de la misma manera que destruye la morada del mentiroso (§ 80).
 
-[^674]: 139:2 Cf. § 70.
+[^645]: 139:2 Cf. § 70.
 
-[^675]: 139:3 Aipi vithi<i>s</i>i; Védico api vyathis (VIII, 45, 29).
+[^646]: 139:3 Aipi vithi<i>s</i>i; Védico api vyathis (VIII, 45, 29).
 
-[^676]: 140:1 Yaokh<i>s</i>ti, la raíz del persa nyô<i>s</i>idan, pahlavi niyôkh<i>s</i>îtan, oír; uno podría estar inclinado a traducir 'mil oídos', o 'mil audiencias'; pero el significado de la palabra debe haber sido bastante más general, como lo traduce Neriosengh (pra<i>n</i>idhi, IX, 8 \[25\]).
+[^647]: 140:1 Yaokh<i>s</i>ti, la raíz del persa nyô<i>s</i>idan, Pahlavi niyôkh<i>s</i>îtan, oír; uno podría estar inclinado a traducir 'mil oídos', o 'mil audiciones'; pero el significado de la palabra debe haber sido bastante más general, como lo traduce Neriosengh (pra<i>n</i>idhi, IX, 8 \[25\]).
 
-[^677]: 140:2 Dvâ<i>k</i>ina?
+[^648]: 140:2 Dvâ<i>k</i>ina?
 
-[^678]: 140:3 Pithê: m<i>ri</i>tyu (Yasna LIII \[LII\], 6).
+[^649]: 140:3 Pithê: m<i>ri</i>tyu (Yasna LIII \[LII\], 6).
 
-[^679]: 141:1 Vâ<i>k</i>em, el llamado vâ<i>g</i>.
+[^650]: 141:1 Vâ<i>k</i>em, el llamado vâ<i>g</i>.
 
-[^680]: 141:2 La mayoría de los manuscritos han añadido aquí, de las cláusulas anteriores, '¡con las manos levantadas!'
+[^651]: 141:2 La mayoría de los manuscritos han añadido aquí, de las cláusulas anteriores, '¡con las manos levantadas!'
 
-[^681]: 141:3 Una alusión a un mito en el que Mitra fue descrito como un Indra que liberaba las vacas llevadas por un Vritra: Firmicus Maternus lo llamó abactorem boum (De Errore Profan. Relig. V); Commodianus lo compara con Caco:
+[^652]: 141:3 Una alusión a un mito en el que Mitra fue descrito como un Indra que liberaba las vacas llevadas por un Vritra: Firmicus Maternus lo llamó abactorem boum (De Errore Profan. Relig. V); Commodianus lo compara con Caco:
+  'Vrtebatque boves alienos semper in antris
+  Sicut et Cacus Vulcani filius ille.'
+  \[el párrafo continúa\] (Apud Windischmann, Mithra, p. 64.)
 
-'Vrtebatque boves alienos semper in antris
-Sicut et Cacus Vulcani filius ille.'
+[^653]: 141:4 Véase arriba, [p. 132](#p132), nota 609.
 
-\[el párrafo continúa\] (Apud Windischmann, Mithra, p. 64.)
+[^654]: Haoma 142:1; cf. Yasna IX, 26 181\].
 
-[^682]: 141:4 Véase arriba, [p. 132](#p132), nota [^609].
+[^655]: 142:2 Para el servicio de la mañana en el Gâh U<i>s</i>ahîn.
 
-[^683]: 142:1 Haoma; cf. Yasna IX, 26 181\].
+[^656]: 142:3 Cfr. Vender. III, 1.
 
-[^684]: 142:2 Para el servicio de la mañana en el Gâh U<i>s</i>ahîn.
+[^657]: 143:1 Las Amesha-Spe<i>n</i>tas.
 
-[^685]: 142:3 Cfr. Vender. III, 1.
+[^658]: 143:2 Véase Vend. Introd. IV, 22.
 
-[^686]: 143:1 Los Amesha-Spe<i>n</i>tas.
+[^659]: 143:3 Véase ibíd.
 
-[^687]: 143:2 Véase Vend. Introd. IV, 22.
+[^660]: 143:4 Véase Yt. V, 53; X, 11, 114; V, 53.
 
-[^688]: 143:3 Véase ibíd.
+[^661]: 143:5 Parecería que Mitra retrocedía durante la noche. Los hindúes suponían que el sol tenía una cara brillante y otra oscura, y que durante la noche regresaba de oeste a este con su cara oscura vuelta hacia la tierra.
 
-[^689]: 143:4 Véase Yt. V, 53; X, 11, 114; V, 53.
+[^662]: 144:1 Cf. § 132.
 
-[^690]: 143:5 Parecería que Mitra retrocedía durante la noche. Los hindúes suponían que el sol tenía una cara brillante y otra oscura, y que durante la noche regresaba de oeste a este con su cara oscura vuelta hacia la tierra.
+[^663]: 144:2 Véase Vend. Introd. V, 19.
 
-[^691]: ​​144:1 Cf. § 132.
+[^664]: 144:3 Véase ibíd. IV, 24.
 
-[^692]: 144:2 Véase Vend. Introd. V, 19.
+[^665]: 144:4 Cf. § 69.
 
-[^693]: 144:3 Véase ibíd. IV, 24.
+[^666]: 144:5 Cf. Yt. X, 69.
 
-[^694]: 144:4 Cf. § 69.
+[^667]: 144:6 §§ 97-98 = §§ 234-135.
 
-[^695]: 144:5 Cf. Yt. X, 69.
+[^668]: 144:7 Cf. § 97.
 
-[^696]: 144:6 §§ 97-98 = §§ 234-135.
+[^669]: 145:1 Fravôi<i>s</i>; la tradición parsi traduce grande: frâz (tr. Phl.), buland (Asp., Yasna LVII, 15 \[LVI, 7, 3\]).
 
-[^697]: 144:7 Cf. § 97.
+[^670]: 146:1 El Sind.
 
-[^698]: 145:1 Fravôi<i>s</i>; la tradición parsi traduce grande: frâz (tr. Phl.), buland (Asp., Yasna LVII, 15 \[LVI, 7, 3\]).
+[^671]: 146:2 El Rangha o Tigris. Las palabras âg<i>e</i>urvayêiti y nighnê, «él agarra, él golpea», se usan para referirse al sacerdote que coloca el haoma en el mortero y lo machaca con el pistilo (Yasna, X, 2 \[4-5\]). El Sind y el Rangha se comparan así con las dos partes del Hâvana; la tierra entre ellos es el haoma, y ​​los brazos de Mitra son los brazos del sacerdote.
 
-[^699]: 146:1 El Sind.
+[^672]: 146:3 Sanakê, an ἅπαξ λεγόμενον; opuesto a los aodhas de Rangha, Yt. XII, 19.
 
-[^700]: 146:2 El Rangha o Tigris. Las palabras âg<i>e</i>urvayêiti y nighnê, «él agarra, él golpea», se usan para referirse al sacerdote que coloca el haoma en el mortero y lo machaca con el pistilo (Yasna, X, 2 \[4-5\]). El Sind y el Rangha se comparan así con las dos partes del Hâvana; la tierra entre ambos es el haoma, y ​​los brazos de Mitra son los brazos del sacerdote.
+[^673]: 146:4 El mar Arábigo (?). Cf. Yt. XII, 21.
 
-[^701]: 146:3 Sanakê, an ἅπαξ λεγόμενον; opuesto a los aodhas de Rangha, Yt. XII, 19.
+[^674]: 146:5 ¿Quién no tiene un rayo de la luz celestial? He aquí, el hombre de poca fe.
 
-[^702]: 146:4 El mar Arábigo (?). Cf. Yt. XII, 21.
+[^675]: 147:1 Véase arriba, [p. 4](../Sirozahs_1#p4), n. [5](../Sirozahs_1#fn11).
 
-[^703]: 146:5 ¿Quién no tiene un rayo de la luz celestial? He aquí, el hombre de poca fe.
+[^676]: 147:2 Âsna: sánsk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
 
-[^704]: 147:1 Véase arriba, [p. 4](../Sirozahs_1#p4), n. [5](../Sirozahs_1#fn11).
+[^677]: 147:3 El que te ofrece un buen sacrificio; cf. § 108.
 
-[^705]: 147:2 Âsna: sánsk. su<i>s</i>îla ([p. 34](../Yasts_1#p34), n. [4](../Yasts_1#fn181)).
+[^678]: 148:1 Dudoso.
 
-[^706]: 147:3 El que te ofrece un buen sacrificio; cf. § 108.
+[^679]: 148:2 El que te ofrece mal sacrificio.
 
-[^707]: 148:1 Dudoso.
+[^680]: 148:3 Dudoso.
 
-[^708]: 148:2 El que te ofrece mal sacrificio.
+[^681]: 148:4 Véase Vend. Introd. IV, 8.
 
-[^710]: 148:3 Dudoso.
+[^682]: 149:1 Cuando choca con otro.
 
-[^711]: 148:4 Véase Vend. Introd. IV, 8.
+[^683]: 149:2 Kahván.
 
-[^712]: 149:1 Cuando choca con otro.
+[^684]: 149:3 Véase Yt. V, 53; X, 11, 94.
 
-[^713]: 149:2 Kahván.
+[^685]: 149:4 El jefe del orden sacerdotal, el llamado Maubedânmaused.
 
-[^714]: 149:3 Véase Yt. V, 53; X, 11, 94.
+[^686]: 149:5 O «el contrato es veinte veces más vinculante...», es decir, veinte veces más estrictamente vinculante que entre dos desconocidos. Este pasaje es uno de los más importantes del Avesta, como breve relato de la constitución social y la moral del Irán zoroastriano.
 
-[^715]: 149:4 El jefe del orden sacerdotal, el llamado Maubedânmaused.
+[^687]: 149:6 Del mismo gremio (svapaṅkti, ap. Neriosengh).
 
-[^716]: 149:5 O «el contrato es veinte veces más vinculante...», es decir, veinte veces más estrictamente vinculante que entre dos desconocidos. Este pasaje es uno de los más importantes del Avesta, como breve reseña de la constitución social y la moral del Irán zoroastriano.
+[^688]: 149:7 Hadha-gaêtha, copropietarios de una gaêtha (un estado rural).
 
-[^717]: 149:6 Del mismo gremio (svapaṅkti, ap. Neriosengh).
+[^689]: 150:1 Dudoso.
 
-[^718]: 149:7 Hadha-gaêtha, copropietarios de una gaêtha (una finca rural).
+[^690]: 150:2 Un justo reconocimiento del jus gentium.
 
-[^719]: 150:1 Dudoso.
+[^691]: ​​150:3 El contrato entre los fieles y la Ley, el pacto (?).
 
-[^720]: 150:2 Un justo reconocimiento del jus gentium.
+[^692]: 150:4 Lectura \[h\]amahê ayãn.
 
-[^721]: 150:3 El contrato entre los fieles y la Ley, el pacto (?).
+[^693]: 150:5 La última cláusula es dudosa; el texto está corrupto.
 
-[^722]: 150:4 Lectura \[h\]amahê ayãn.
+[^694]: 150:6 La oración sigue a Mitra en su carrera, saliendo y poniéndose con él.
 
-[^723]: 150:5 La última cláusula es dudosa; el texto está corrupto.
+[^695]: 151:1 Mitra.
 
-[^724]: 150:6 La oración sigue a Mitra en su carrera, levantándose y poniéndose con él.
+[^696]: 151:2 La traducción de esta frase es conjetural.
 
-[^725]: 151:1 Mitra.
+[^697]: 151:3 Treinta golpes con el Sraoshô-<i>k</i>arana (upâzana; ver Vend. Introd. V, 59); es una expiación (âkayaya<i>n</i>ta) que los purga de sus pecados y los hace aptos para ofrecer un sacrificio a Mitra. Se puede encontrar en este pasaje el origen de las dolorosas pruebas por las que tuvieron que pasar los adeptos de los misterios mitríacos antes de ser admitidos a la iniciación (οὐκ ἂν οὖν εἰς αὐτὸν δυνήσαιτό τις τελεσθῆναι, εἰ μὴ διά τινων βαθμῶν παρελθὼν τῶν κοάσεων δείξει ἑαυτὸν ὅσιον καὶ ἀπαθῆ. Suidas sv, ap. Windischmann, über Mithra, 68 siguientes).
 
-[^726]: 151:2 La traducción de esta frase es conjetural.
+[^698]: 152:1 El sutûd yê<i>s</i>t; los últimos capítulos del Yasna, desde LVIII \[LVII\] hasta el final, según Anquetil (Zend-Avesta I, 2, 232).
 
-[^727]: 151:3 Treinta golpes con el Sraoshô-<i>k</i>arana (upâzana; ver Vend. Introd. V, 59); es una expiación (âkayaya<i>n</i>ta) que los purga de sus pecados y los hace aptos para ofrecer un sacrificio a Mitra. Se puede encontrar en este pasaje el origen de las dolorosas pruebas por las que tuvieron que pasar los adeptos de los misterios mitríacos antes de ser admitidos a la iniciación (οὐκ ἂν οὖν εἰς αὐτὸν δυνήσαιτό τις τελεσθῆναι, εἰ μὴ διά τινων βαθμῶν παρελθὼν τῶν κοάσεων δείξει ἑαυτὸν ὅσιον καὶ ἀπαθῆ. Suidas sv, ap. Windischmann, über Mithra, 68 siguientes).
+[^699]: 152:2 Las primeras palabras del Vispêrad.
 
-[^728]: 152:1 El sutûd yê<i>s</i>t; los últimos capítulos del Yasna, desde LVIII \[LVII\] hasta el final, según Anquetil (Zend-Avesta I, 2, 232).
+[^700]: 152:3 Paraíso.
 
-[^729]: 152:2 Las primeras palabras del Vispêrad.
+[^701]: 152:4 Hacia la morada de los Inmortales.
 
-[^730]: 152:3 Paraíso.
+[^702]: 152:5 Alimentado con ambrosía (ἀμβρόσιον εἶδαρ) como los corceles de Poseidón (Il. XIII, 35; cf. Ovidio, Metam. IV, 274).
 
-[^731]: 152:4 Hacia la morada de los Inmortales.
+[^703]: 152:6 Dudoso (simãm<i>k</i>a simôithrãm<i>k</i>a).
 
-[^732]: 152:5 Alimentado con ambrosía (ἀμβρόσιον εἶδαρ) como los corceles de Poseidón (Il. XIII, 35; cf. Ovidio, Metam. IV, 274).
+[^704]: 152:7 Metal. Véase Vend. Introd. IV, 33.
 
-[^735]: 152:6 Dudoso (simãm<i>k</i>a simôithrãm<i>k</i>a).
+[^705]: 152:8 Upairispâta.
 
-[^736]: 152:7 Metal. Véase Vend. Introd. IV, 33.
+[^706]: 152:9 Véase Yt. XII.
 
-[^737]: 152:8 Upairispâta.
+[^707]: 153:1 Véase Yt. XVI.
 
-[^738]: 152:9 Véase Yt. XII.
+[^708]: 153:2 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
-[^739]: 153:1 Véase Yt. XVI.
+[^709]: 153:3 Cf. Yt. X, 70.
 
-[^741]: 153:2 Véase arriba, [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
+[^710]: 153:4 O mejor, apresurándose delante (pâiri-vâza; cf. las traducciones de pairi-da<i>h</i><i>v</i>yu, Yt. X, 744 y pairi-vâra, Yt. I, 19). Cf. Yt. XIV, 75.
 
-[^742]: 153:3 Cf. Yt. X, 70.
+[^711]: 153:5 El genio del fuego.
 
-[^743]: 153:4 O mejor, apresurándose delante (pâiri-vâza; cf. las traducciones de pairi-da<i>h</i><i>v</i>yu, Yt. X, 744 y pairi-vâra, Yt. I, 19). Cf. Yt. XIV, 75.
+[^712]: 153:6 Véase [p. 95](../Yasts_8#p95), nota [1](../Yasts_8#fn468).
 
-[^744]: 153:5 El genio del fuego.
+[^713]: 153:7 Un punto de oro.
 
-[^745]: 153:6 Véase [p. 95](../Yasts_8#p95), nota [1](../Yasts_8#fn468).
+[^714]: 154:1 Cf. Yt. X, 96.
 
-[^746]: 153:7 Un punto de oro.
+[^715]: 154:2 El texto tiene, ellos van . . . .
 
-[^747]: 154:1 Cf. Yt. X, 96.
+[^716]: 154:3 Véase arriba, [p. 123](#p123), nota 575.
 
-[^748]: 154:2 El texto tiene, ellos van . . . .
+[^717]: 155:1 §§ 134-135 = § 97-98.
 
-[^749]: 154:3 Véase arriba, [p. 123](#p123), nota [^575].
+[^718]: 155:2 Cf. Yt. X, 32.
 
-[^750]: 155:1 §§ 134-135 = § 97-98.
+[^719]: 155:3 Dudoso. Posiblemente, 'de conciencia piadosa'.
 
-[^751]: 155:2 Cf. Yt. X, 32.
+[^720]: 156:1 Un sacerdote no cualificado; cf. Vend. IX, 47-57; XVIII, 1 seq.
 
-[^752]: 155:3 Dudoso. Posiblemente, 'de conciencia piadosa'.
+[^721]: 156:2 O, 'cuya casa es grande'.
 
-[^753]: 156:1 Un sacerdote no cualificado; cf. Vend. IX, 47-57; XVIII, 1 seq.
+[^722]: 157:1 Véase Yt. VIII.
 
-[^754]: 156:2 O, 'cuya casa es grande'.
+[^723]: 157:2 Ashi Vanguhi (?); cf. Artículo 68.
 
-[^755]: 157:1 Véase Yt. VIII.
+[^724]: 157:3 Quien vigila los países circundantes: aiwida<i>h</i><i>v</i>yûm se traduce ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15700.jpg) (trad. personal de Mihir Nyâyi<i>s</i>).
 
-[^756]: 157:2 Ashi Vanguhi (?); cf. Artículo 68.
+[^725]: 158:1 Âda<i>h</i><i>v</i>yûm: ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15800.jpg); cf. Yasna XXVI, 9 \[28\].
 
-[^757]: 157:3 Quien vigila los países circundantes: aiwida<i>h</i><i>v</i>yûm se traduce ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15700.jpg) (trad. personal de Mihir Nyâyi<i>s</i>).
+[^726]: 158:2 Pairida<i>h</i><i>v</i>yûm: ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15801.jpg).
 
-[^758]: 158:1 Âda<i>h</i><i>v</i>yûm: ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15800.jpg); cf. Yasna XXVI, 9 \[28\].
+[^727]: 158:3 Cf. Vend. Introd. IV, 8.
 
-[^759]: 158:2 Pairidah</i><i>v</i>yûm: ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/15801.jpg).
+[^728]: 158:4 Cf. Vend. p. 22, nota 2.
 
-[^760]: 158:3 Cf. Vend. Introd. IV, 8.
+[^729]: 158:5 Cfr. Sirozah I, 16.
 
-[^761]: 158:4 Cf. Vend. p. 22, nota 2.
-
-[^762]: 158:5 Cfr. Sirozah I, 16.
-
-[^763]: 158:6 Quien ofrece sacrificios a Mitra.
+[^730]: 158:6 Quien ofrece sacrificios a Mitra.

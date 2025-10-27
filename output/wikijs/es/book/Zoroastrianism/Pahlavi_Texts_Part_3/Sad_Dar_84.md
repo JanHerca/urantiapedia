@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Después, uno debe acostarse; y cada vez que actúe de la manera que he mencionado, y lleve el cinturón del hilo sagrado en la cintura —mientras comparte equitativamente todas las buenas obras que realizan en todo el mundo durante esa noche, y tiene un mérito similar [^3]—, cada aliento que inhale y exhale es una buena obra de un peso de tres dirhams. 3. Y al girar de un lado a otro, debe, de la misma manera, recitar un Ashem-vohû [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

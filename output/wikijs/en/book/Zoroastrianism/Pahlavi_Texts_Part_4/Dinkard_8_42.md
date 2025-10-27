@@ -44,6 +44,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 5\. About those belonging to the place of ordeal (varistânîkân) and other officials there, the rites and customs therein, the ceremonial to be celebrated in the abode, _and_ the invocation of the sacred beings for assistance. 6. What is the mode _of_ performing the hot and cold ordeal; how is the leading forth _of_ the accomplishers thereto, and of what Avesta is their uplifted recitation; how is the accomplishment of the hot and cold ordeal, _and_ the manifestation _of_ the acquitted and incriminated thereby; _and_ many statements (gôkân) on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

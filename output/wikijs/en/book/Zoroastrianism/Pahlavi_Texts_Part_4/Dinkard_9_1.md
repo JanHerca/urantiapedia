@@ -40,6 +40,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 2\. The ninth book (babâ) is about the Hâs _and_ Fargar<i>d</i>s [^2] of the various Nasks; the object of procuring the division of those portions which exist _being_ owing to the quantity of what is in each one of the Nasks; _also_ an explanation of a suitable selection [^3] therefrom, such as is an epitome (nisangag-1) of the abundant detail therein.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -34,6 +34,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 P. [20](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_5/Dinkard_7_2#p20), ll. 4. Le nom du district d'Alâk devrait probablement se lire Arâk, car la province est appelée Râgh dans Zs. XVI, 13.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

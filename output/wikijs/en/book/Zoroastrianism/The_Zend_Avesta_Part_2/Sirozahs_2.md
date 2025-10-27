@@ -180,6 +180,8 @@ I praise, I invoke, I meditate upon, and we sacrifice unto the good, strong, ben
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

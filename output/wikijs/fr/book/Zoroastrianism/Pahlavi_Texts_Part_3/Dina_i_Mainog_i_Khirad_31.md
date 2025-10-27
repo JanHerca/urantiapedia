@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 11\. « Et la tâche des agriculteurs est de labourer et de cultiver ; (12) et, dans la mesure de leurs capacités, de maintenir le monde revigoré et peuplé. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:50Z
 4\. Car, lorsque [^7] quelqu'un boit avec un étranger, cela rend son cœur incliné (maîl) vers lui, car ce serait un péché ; et, à cause du péché commis, il devient audacieux, et son âme a une inclination pour la méchanceté.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

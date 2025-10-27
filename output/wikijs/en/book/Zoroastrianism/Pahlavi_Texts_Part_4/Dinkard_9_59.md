@@ -50,6 +50,8 @@ _Bakŏ Nask_.
 
 20\. Perfect righteousness is excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

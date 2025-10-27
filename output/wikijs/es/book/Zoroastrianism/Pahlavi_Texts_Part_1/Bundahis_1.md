@@ -75,6 +75,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 28\. De las criaturas del mundo de Aûharmazd, la primera fue el cielo; la segunda, el agua; la tercera, la tierra; la cuarta, las plantas; la quinta, los animales; la sexta, la humanidad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

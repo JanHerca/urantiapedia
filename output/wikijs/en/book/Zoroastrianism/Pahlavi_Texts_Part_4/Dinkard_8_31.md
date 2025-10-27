@@ -64,6 +64,8 @@ _Hûspâram Nask_.
 
 40\. When a sinner dies outright on account of the penalty of giving of scars, or the performance of the labour, or the exertion of effecting the penance of punishment, and when a man has died penitent, but incapable of a desire [^7] for the retribution of sin, and has not atoned in the worldly existence, what the nature of his soul's helplessness is, owing to sin. 41. About those for whom there is no retribution for sin. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> 42\. About what is the kind of contest _of_ a poor _man_, plundered of his property; first, as regards the oppressor who _was_ the plunderer, and, afterwards, _having_ petitioned for criminal proceedings, through the judges, as regards his oppressor, until their repayment of the property. 43. About _being_ delivered into distress _and_ disaster [^8], and the decision thereon. 44. About the oppressiveness _of_ the much pollution of greediness (<i>â</i><i>z</i>ŏ) which is owing to all its fiendishness, _and_ the arrangement of the creator about it for restraining the same fiend [^9] from destroying the whole worldly creation. 45. About the great judiciousness of a man in want of power _being_ good, for preserving his own life and making _it_ nurturable.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

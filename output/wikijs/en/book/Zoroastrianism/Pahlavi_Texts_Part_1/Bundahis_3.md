@@ -62,6 +62,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 27\. Hell is in the middle of the earth; there where the evil spirit pierced the earth [^17] and rushed in upon it, as all the possessions of the world were <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> changing into duality, _and_ persecution, contention, and mingling of high and low became manifest.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

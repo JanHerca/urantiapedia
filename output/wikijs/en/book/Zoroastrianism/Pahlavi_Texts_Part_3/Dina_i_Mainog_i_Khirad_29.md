@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sage asked the spirit of wisdom (2) thus: ‘What is it necessary to keep with more regard and more protection?’ <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 3\. The spirit of wisdom answered (4) thus: ‘It is necessary to keep a young serving-boy (rasîk) [^1], a wife, a beast _of burden_, and a fire with more protection and more regard.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

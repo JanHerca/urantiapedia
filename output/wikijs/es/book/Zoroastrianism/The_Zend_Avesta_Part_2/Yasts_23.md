@@ -124,6 +124,8 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -150,60 +152,60 @@ Y Zaratustra habló al rey Vî<i>s</i>tâspa, diciendo: «¡Te bendigo, oh hombr
 
 ## Notas al pie
 
-[^1427]: 324:1 El Zartusht-Namah, traducido por EB Eastwick, en Wilson's Parsi Religion, pág. 495.
+[^1359]: 324:1 El Zartusht-Namah, traducido por EB Eastwick, en Wilson's Parsi Religion, pág. 495.
 
-[^1428]: 324:2 Ibíd. pág. 499.
+[^1360]: 324:2 Ibíd. pág. 499.
 
-[^1429]: 324:3 Ibíd. pág. 501.
+[^1360]: 324:3 Ibíd. pág. 501.
 
-[^1430]: 324:4 Véase Yt. XXIII, 2; no está claro si la declaración de Anquetil en ese sentido (Zend-Avesta II, 623) se basa en una tradición independiente o sólo en el texto de nuestro Ya<i>s</i>t.
+[^1361]: 324:4 Véase Yt. XXIII, 2; no está claro si la declaración de Anquetil en ese sentido (Zend-Avesta II, 623) se basa en una tradición independiente o sólo en el texto de nuestro Ya<i>s</i>t.
 
-[^1431]: 324:5 Véase arriba, [p. 70](../Yasts_5#p70), nota [1](../Yasts_5#fn344).
+[^1362]: 324:5 Véase arriba, [p. 70](../Yasts_5#p70), nota [1](../Yasts_5#fn344).
 
-[^1432]: 325:1 Por ejemplo, §§ 28, 30, 31, 39, etc.
+[^1363]: 325:1 Por ejemplo, §§ 28, 30, 31, 39, etc.
 
-[^1433]: 325:2 Las diversas lecturas en el manuscrito del Sr. West están indicadas por la letra W. en las notas.
+[^1364]: 325:2 Las diversas lecturas en el manuscrito del Sr. West están indicadas por la letra W. en las notas.
 
-[^1434]: 325:3 Véase la introducción a este Ya<i>s</i>t y Yt. XXIV, 3, texto y nota.
+[^1365]: 325:3 Véase la introducción a este Ya<i>s</i>t y Yt. XXIV, 3, texto y nota.
 
-[^1435]: 326:1 Cf. Yt. V, 33.
+[^1366]: 326:1 Cf. Yt. V, 33.
 
-[^1436]: 326:2 Cf. Yt. V, 68
+[^1367]: 326:2 Cf. Yt. V, 68
 
-[^1437]: 326:3 Cf. Yt. XV, 11.
+[^1368]: 326:3 Cf. Yt. XV, 11.
 
-[^1438]: 326:4 Cf. Yt. V,29.
+[^1369]: 326:4 Cf. Yt. V,29.
 
-[^1439]: 326:5 Cf. Yt. V, 37.
+[^1370]: 326:5 Cf. Yt. V, 37.
 
-[^1440]: 326:6 Véase Yt. XV, 28.
+[^1371]: 326:6 Véase Yt. XV, 28.
 
-[^1441]: 326:7 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
+[^1372]: 326:7 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
-[^1442]: 326:8 Uno perteneciente a la familia Âthwya, de la cual Thraêtaona era miembro. Todos llevaban nombres que indican que eran ricos en ganado: Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, etc. («uno con bueyes abundantes, con bueyes útiles, con el buey pardo, etc.» Bundahi<i>s</i>, tr. West, XXXI, 7, nota 8).
+[^1373]: 326:8 Uno perteneciente a la familia Âthwya, de la cual Thraêtaona era miembro. Todos llevaban nombres que indican que eran ricos en ganado: Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, etc. («uno con bueyes abundantes, con bueyes útiles, con el buey pardo, etc.» Bundahi<i>s</i>, tr. West, XXXI, 7, nota 8).
 
-[^1443]: 326:9 Pouru<i>s</i>\-aspa fue el padre de Zaratustra. Su nombre significa «El que posee muchos caballos», πολύ-ιππος.
+[^1374]: 326:9 Pouru<i>s</i>\-aspa fue el padre de Zaratustra. Su nombre significa «El que posee muchos caballos», πολύ-ιππος.
 
-[^1444]: 326:10 Cf. Yt. V, 61.
+[^1375]: 326:10 Cf. Yt. V, 61.
 
-[^1445]: 326:11 Cf. Yt. XXIV, 4.
+[^1376]: 326:11 Cf. Yt. XXIV, 4.
 
-[^1446]: 327:1 De Vî<i>s</i>tâspa y su esposa Hutaosa.
+[^1377]: 327:1 De Vî<i>s</i>tâspa y su esposa Hutaosa.
 
-[^1447]: 327:2 Cf. Yt. XXIV, 4.
+[^1378]: 327:2 Cf. Yt. XXIV, 4.
 
-[^1448]: 327:3 Cfr. Sîrôzah, § 11.
+[^1379]: 327:3 Cfr. Sîrôzah, § 11.
 
-[^1449]: 327:4 Cf. Yt. XI.
+[^1380]: 327:4 Cf. Yt. XI.
 
-[^1450]: 327:5 Cf. Yt. XII, Introducción.
+[^1381]: 327:5 Cf. Yt. XII, Introducción.
 
-[^1451]: 327:6 Cf. Yt. XIV.
+[^1382]: 327:6 Cf. Yt. XIV.
 
-[^1452]: 327:7 Cf. Yt. XV.
+[^1383]: 327:7 Cf. Yt. XV.
 
-[^1453]: 327:8 Kai Khosrav fue vivo al Paraíso (Firdausi).
+[^1384]: 327:8 Kai Khosrav fue vivo al Paraíso (Firdausi).
 
-[^1454]: 327:9 Cierra su bendición deseándole felicidad en el cielo.
+[^1385]: 327:9 Cierra su bendición deseándole felicidad en el cielo.
 
-[^1455]: 327:10 Yasna XXXV, 2 (4-5).
+[^1386]: 327:10 Yasna XXXV, 2 (4-5).

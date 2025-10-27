@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Este es un pecado grave, y es necesario tener cuidado de no cometerlo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

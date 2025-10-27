@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Se dice con verdad que fue la alegría del señor _y_ creador tras la creación de las criaturas, y, debido a ello, su consumación, que _fue_ su completa realización de la existencia de las criaturas (dâmânîh), le fue debida. 5. Y su ocurrencia, también, es evidencia de que el creador, quien lo es con voluntad inquebrantable (atôrâk), es tanto _la causa_ de la generación y el progreso completo de sus propias criaturas perfectas [^4], en quienes la generación es por destino, como Hôshâng [^5] por quien dos tercios [^6] de los demonios _fueron_ heridos, Tâkhmôrup [^7] quien derrocó a Aharman mediante el poder de los ángeles, Yim por <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> sobre quien _se_ dispuso el orden y _se_ ahuyentó_ la muerte (avakâl<i>d</i>ŏ) [^8], Frê<i>d</i>ûn _quien_ encadenó a A<i>z</i>\-î Dahâk [^9] y despojó al mundo de su blasfemia (nîrangâk), y los muchos príncipes (kayân) y sumos sacerdotes de espíritu grave _que_ fueron, _y_ son, _y_ serán.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

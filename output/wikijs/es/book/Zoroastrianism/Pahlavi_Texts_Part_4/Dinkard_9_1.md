@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 2\. El noveno libro (babâ) trata de los Hâs y Fargar<i>d</i>s [^2] de los diversos Nasks; el objeto de procurar la división de aquellas porciones que existen _siendo_ debido a la cantidad de lo que hay en cada uno de los Nasks; _también_ una explicación de una selección adecuada [^3] de ellos, tal como es un epítome (nisangag-1) del abundante detalle que allí se encuentra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

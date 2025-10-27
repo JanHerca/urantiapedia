@@ -55,6 +55,8 @@ PAR le nom, la puissance et l'assistance du créateur Aûha<i>r</i>ma<i>z</i><i>
 
 57\. Après cela, l'esprit de sagesse, à cause des pensées et des souhaits de ce sage, lui dévoila sa personne. 58. Et il lui parla (59) ainsi : « Ô ami et glorificateur ! Le bien vient d'une justice parfaite ! (60) recherche mon avancement, moi, l'esprit de sagesse, (61) afin que je devienne ton guide pour la satisfaction des êtres sacrés et <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> le bien [^32], et pour le maintien du corps dans l'existence mondaine et la préservation de l'âme dans l'existence spirituelle. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

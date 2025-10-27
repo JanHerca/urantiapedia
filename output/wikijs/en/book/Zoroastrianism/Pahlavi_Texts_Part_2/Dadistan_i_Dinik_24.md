@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. And the first night from its own good thoughts, the second night from _its_ good words, and the third night from _its_ good deeds it obtains pleasure for the soul; and if also, with the righteousness, there be sin which remains _in it_ as its origin, the first punishment in retribution for the evil deed occurs _that_ same third night. 5. The same third night, on the fresh arrival of a dawn [^4], the treasurer of good works, like a handsome maiden (kanîkŏ) [^5], comes out to meet _it_ with the store of its own good works; and, collected by witches (parîkŏ-<i>k</i>ind), the sin and crime unatoned for (atôkhtŏ) come on to the account _and_ are justly accounted for [^6]. <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 6\. For the remaining (ketrûn<i>d</i>) sin it undergoes punishment _at_ the bridge, and the evil thoughts, evil words, and evil deeds are atoned for; and with the. good thoughts, good words, and good deeds of its own commendable and pleasing spirit it steps for-ward unto the supreme heaven (garô<i>d</i>mânô) [^7], or to heaven (vahi<i>s</i>tô), or to the ever-stationary (hamîstânagânŏ) of the righteous [^8], there where there is a place for it in righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

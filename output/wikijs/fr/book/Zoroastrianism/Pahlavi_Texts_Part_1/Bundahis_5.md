@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 8\. De là où le soleil se lève le jour le plus long jusqu'à là où il se lève le jour le plus court se trouve la région orientale de Savah ; de là où il se lève le jour le plus court jusqu'à là où il se couche le jour le plus court se trouve la direction des régions méridionales de Frada<i>d</i>afsh et de Vîda<i>d</i>afsh ; de là où il se lève le jour le plus court jusqu'à là où il se lève le jour le plus long se trouve la région occidentale d'Arzah ; de là où il se lève le jour le plus long jusqu'à là où il se lève le jour le plus long se trouvent les régions septentrionales de Vôrûbar<i>s</i>t _et_ de Vôrû<i>g</i>ar<i>s</i>t [^14]. 9. Quand le soleil apparaît, il illumine (ou réchauffe) les régions de Savah, de Frada<i>d</i>afsh, de Vîda<i>d</i>afsh et la moitié de Khvanîras [^15] ; quand il entre du côté obscur, il illumine les régions d'Arzah, de Vôrûbar<i>s</i>t, de Vôrû<i>g</i>ar<i>s</i>t et la moitié de Khvanîras ; quand il fait jour ici, il fait nuit là-bas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

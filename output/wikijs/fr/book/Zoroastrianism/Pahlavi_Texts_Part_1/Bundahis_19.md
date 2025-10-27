@@ -67,6 +67,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 36\. Aûharmazd n'a rien créé d'inutile, car tout cela (kolâ aê) est créé pour l'avantage ; quand on n'en comprend pas la raison, il est nécessaire de demander au Dastûr (« grand prêtre »), car ses cinq dispositions (khûk) [^33] sont créées de cette manière afin qu'il puisse continuellement détruire le démon (ou la tromperie).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

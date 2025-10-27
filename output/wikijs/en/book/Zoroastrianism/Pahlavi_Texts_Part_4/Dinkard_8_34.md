@@ -50,6 +50,8 @@ _Hûspâram Nask_.
 
 17\. An account of water as regards the description _and_ extent of moisture of the land. 18. About the sin owing to rendering anything useless through water _or_ fire. 19. About carrying off two-thirds _of_ the misery from the world, by eradicating _it_ from the creatures through all the illumination of fires; _and_ carrying off all adversity from the period of the creatures, through the freedom from malice of mankind, one as regards the other, _and_ through _their_ perfect sympathy together.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

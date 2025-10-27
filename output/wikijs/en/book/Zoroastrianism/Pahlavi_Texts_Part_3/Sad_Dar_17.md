@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The seventeenth subject is this, that when they cut a toothpick (‘<i>h</i>ilâl), or a splinter which they wish to apply to the root of the teeth, it is necessary that they retain no bark. 2. For if a small quantity of bark be on it when they apply _it_ to the teeth, and they cast _it_ away, if a pregnant woman puts _her_ foot upon it, the danger of that may be that the child comes to harm [^1].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

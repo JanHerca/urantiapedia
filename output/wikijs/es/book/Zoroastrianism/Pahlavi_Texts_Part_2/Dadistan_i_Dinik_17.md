@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 20\. De esa grasa que se mezcla con el cuerpo vivo de una criatura de Aûha<i>r</i>ma<i>z</i><i>d</i> _surge_ también el asalto [^14] de los demonios, como se muestra en el capítulo [^15] sobre la razón para mostrar un perro a una persona muerta, de modo que el cuerpo de los fallecidos, cuando los roedores se mezclan con el cuerpo vivo de una criatura de Aûha<i>r</i>ma<i>z</i><i>d</i>, exhibe una resurrección parcial y las señales _de ella_, y por lo tanto los demonios lo mantienen (el cuerpo vivo), y causan dolor [^16] por la voluntad de los seres sagrados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

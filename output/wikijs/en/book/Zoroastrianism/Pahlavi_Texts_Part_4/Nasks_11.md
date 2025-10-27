@@ -86,6 +86,8 @@ The names of the twenty-one Nasks.
 
 24\. Just as it is said that _there_ were twenty-one Nasks, there are first, in seven Nasks, the topics of the religion _of_ Ma<i>z</i><i>d</i>a-worship, in the second seven Nasks are the topics of medical practice, _and_ in the third seven Nasks the topics and capabilities of the stars are mentioned.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

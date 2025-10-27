@@ -39,6 +39,8 @@ DES RIVÂYATS PERSANS [^1].
 
 Les noms des vingt et un Nasks, du Yathâ-ahû-vairyô : Yathâ, le Stûdkar ; ahû le Var<i>s</i>tah-mânthrah ; vairyô, le Bagh ; athâ, le Dâmdâ<i>d</i> ; ratu<i>s</i>, le Nâdûr ; ashâ<i>d</i>, le Pâzûn ; <i>k</i>î<i>d</i>, le Ratu<i>s</i>tâyîd ; ha<i>k</i>â, le Bari<i>s</i> ; vangh<i>e</i>u<i>s</i>, le Ka<i>s</i>srôb ; dazdâ, le Vi<i>s</i>tâspâd ; mananghô, le Dâd ; <i>s</i><i>h</i>yaothananãm, le <i>K</i>îdra<i>s</i>t; angh<i>e</i>us, le Spentah; mazdâi, le Bayân-ya<i>s</i>t; khshathrem<i>k</i>â, le Niyâdâm; ahurâi, le Duvâsarô<i>g</i>î<i>d</i>; â, le Hûspârâm; yim, le Sakadâm; drigubyô, le <i>G</i>ud-dêv-dad [^3]; dada<i>d</i>, le Hâdokht du Dvâzdah-hâmâspah; vâstârem, le Ya<i>s</i>t [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

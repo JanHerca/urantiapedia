@@ -67,6 +67,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 36\. Aûharmazd no creó nada inútil en absoluto, pues todos estos (kolâ aê) fueron creados para beneficio; cuando uno no entiende la razón de ellos, es necesario preguntar al Dastûr («sumo sacerdote»), pues sus cinco disposiciones (khûk) [^33] están creadas de esta manera para que pueda destruir continuamente al demonio (o engaño).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

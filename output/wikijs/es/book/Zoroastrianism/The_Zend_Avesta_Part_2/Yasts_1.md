@@ -268,6 +268,8 @@ Adoramos a Râma <i>H</i><i>v</i>âstra y a Vayu, quien obra con gran poder y es
 
 'Ashem Vohû: La santidad es el mejor de todos los bienes...'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -294,184 +296,184 @@ Adoramos a Râma <i>H</i><i>v</i>âstra y a Vayu, quien obra con gran poder y es
 
 ## Notas al pie
 
-[^103]: 22:1 Traducido por West (Textos Pahlavi, I).
+[^98]: 22:1 Traducido por West (Textos Pahlavi, I).
 
-[^104]: 22:2 Las fórmulas de esta sección sirven como introducción a todos los Ya<i>s</i>ts.
+[^99]: 22:2 Las fórmulas de esta sección sirven como introducción a todos los Ya<i>s</i>ts.
 
-[^105]: 22:3 La última cláusula de esta frase está imitada de Yasna XLVI \[XLV\], 19: 'el que hace verdaderamente en santidad lo que fue el primer deseo de Zaratustra' (es decir, lo que ordenó con más fervor; Pahl. Comm.).
+[^100]: 22:3 La última cláusula de esta frase está imitada de Yasna XLVI \[XLV\], 19: 'el que hace verdaderamente en santidad lo que fue el principal deseo de Zaratustra' (es decir, lo que ordenó con más fervor; Pahl. Comm.).
 
-[^106]: 22:4 «Si debo entregar mi vida por mi alma, la entrego» (Pahl. Comm.). Las dos frases, «Alabo...», «Os doy...», están tomadas de Yasna XI, 17, 18 [XII].
+[^101]: 22:4 «Si debo entregar mi vida por mi alma, la entrego» (Pahl. Comm.). Las dos frases, «Alabo...», «Os doy...», están tomadas de Yasna XI, 17, 18 [XII].
 
-[^107]: 22:5 El Ashem Vohû, una de las oraciones más sagradas y más frecuentemente recitadas.
+[^102]: 22:5 El Ashem Vohû, una de las oraciones más sagradas y más frecuentemente recitadas.
 
-[^108]: 22:6 La Fravarânê o profesión de fe del zoroastriano (Yasna L 23 \[65-68\]).
+[^103]: 22:6 El Fravarânê o profesión de fe del zoroastriano (Yasna L 23 \[65-68\]).
 
-[^109]: 23:1 Se muestra zoroastriano al ofrecer sacrificios...
+[^104]: 23:1 Se muestra zoroastriano al ofrecer sacrificios . . . .
 
-[^110]: 23:2 Debe mencionarse aquí el Gâh durante el cual se recita el Yast. Hâvani es el primer Gâh (véase Gâhs).
+[^105]: 23:2 Debe mencionarse aquí el Gâh durante el cual se recita el Yast. Hâvani es el primer Gâh (véase Gâhs).
 
-[^111]: 23:3 Los Genios que cooperan con Hâvani, sus hamkârs; para cada Gâh deben mencionarse los nombres de sus hamkârs apropiados (ver Gâh s).
+[^106]: 23:3 Los Genios que cooperan con Hâvani, sus hamkârs; para cada Gâh deben mencionarse los nombres de sus hamkârs apropiados (ver Gâh s).
 
-[^112]: 23:4 Véase Vendîdâd VIII, 19, texto y notas.
+[^107]: 23:4 Véase Vendîdâd VIII, 19, texto y notas.
 
-[^113]: 23:5 Pun mînishn ît barâ matârtûm, mandûm frârûn (Phl. tr.); manasas asti prâpakatarâ (trad. sánsk.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02300.jpg) (Pers. tr.).
+[^108]: 23:5 Pun mînishn ît barâ matârtûm, mandûm frârûn (Phl. tr.); manasas asti prâpakatarâ (trad. sánsk.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02300.jpg) (Pers. tr.).
 
-[^114]: 23:6 Pun akhû it barâ mûshîtârtûm: pîm(î) u mandûm î apârûn p. 24 (Phl. tr.); vitarkâ<i>n</i>âm asti mûshakatarâ (sánsk. tr.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02400.jpg) (Pers. tr.).
+[^109]: 23:6 Pun akhû it barâ mûshîtârtûm: pîm(î) u mandûm î apârûn p. 24 (Phl. tr.); vitarkâ<i>n</i>âm asti mûshakatarâ (sánsk. tr.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02400.jpg) (Pers. tr.).
 
-[^115]: 24:1 Véase Vendîdâd, Introd. IV, 20-21.
+[^110]: 24:1 Véase Vendîdâd, Introd. IV, 20-21.
 
-[^116]: 24:2 Como el revelador de la ley, que generalmente se explica mediante un proceso de preguntas de Zaratustra y respuestas de Ahura. La revelación misma se llama spe<i>n</i>tô frasna, las preguntas sagradas (Vendîdâd XXII, 19).
+[^111]: 24:2 Como el revelador de la ley, que generalmente se explica mediante un proceso de preguntas de Zaratustra y respuestas de Ahura. La revelación misma se llama spe<i>n</i>tô frasna, las preguntas sagradas (Vendîdâd XXII, 19).
 
-[^117]: 24:3 'Es decir, doy manadas de hombres y ganado' (trad. filosófica).
+[^112]: 24:3 'Es decir, doy rebaños de hombres y de ganado' (trad. filosófica).
 
-[^118]: 24:4 'Fuerte, es decir, tengo fuerza para las obras de la ley' (trad. Filipenses 4:11); la traducción sánscrita tiene, 'poderoso, es decir, tengo poder para crear'.
+[^113]: 24:4 'Fuerte, es decir, tengo fuerza para las obras de la ley' (trad. Filipenses 4:11); la traducción al sánscrito tiene, 'poderoso, es decir, tengo poder para crear'.
 
-[^119]: 25:1 Asha-Vahi<i>s</i>ta, que también es el nombre del segundo Amesha-Spe<i>n</i>ta. El comentario dice: «Es decir, mi propio ser es toda santidad».
+[^114]: 25:1 Asha-Vahi<i>s</i>ta, que también es el nombre del segundo Amesha-Spe<i>n</i>ta. El comentario dice: «Es decir, mi propio ser es toda santidad».
 
-[^120]: 25:2 Literalmente: «Mi sexto nombre es que soy Entendimiento». La misma construcción se utiliza con respecto al octavo, décimo y decimonoveno nombre.
+[^115]: 25:2 Literalmente: «Mi sexto nombre es que soy Entendimiento». La misma construcción se usa con respecto al octavo, décimo y decimonoveno nombre.
 
-[^121]: 25:3 'De este pasaje se sigue que un hombre no es apto para ser rey, a menos que posea doce virtudes' (Phl. tr.).
+[^116]: 25:3 'De este pasaje se sigue que un hombre no es apto para ser rey a menos que posea doce virtudes' (Phl. tr.).
 
-[^122]: 25:4 'Algunos dicen: Yo evito el mal del hombre' (trad. filosófica).
+[^117]: 25:4 'Algunos dicen: Yo evito el mal del hombre' (trad. filosófica).
 
-[^123]: 25:5 'Es decir, hago la cuenta de las buenas obras y los pecados' (trad. filámica); prakat am gan anâkaras kila punyapâpayos saṅkhyâm aham karomi (trad. sánscrita). Cf. Yasna XXXII, 6, b.
+[^118]: 25:5 'Es decir, hago la cuenta de las buenas obras y los pecados' (trad. filántropa); praka<i>t</i>am ga<i>n</i>anâkaras kila pu<i>n</i>yapâpayos saṅkhyâm aham karomi (trad. sánscrita). Cf. Yasna XXXII, 6, b.
 
-[^124]: 26:1 Yasô-bereta: prâptena dânena; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02600.jpg)
+[^119]: 26:1 Yasô-bereta: prâptena dânena; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02600.jpg)
 
-[^125]: 26:2 Los Kavis y los Karapans, los ciegos y los sordos, son aquellos «que no pueden ver ni oír nada de Dios». Estos términos eran comunes en el lenguaje teológico de la época sasánida para designar a los incrédulos. Un edicto, promulgado por el rey Yazdgard III (siglo V d. C.) para convertir el zoroastrismo en religión estatal en Armenia, contenía las siguientes palabras: «Debéis saber que quien no sigue la religión de Mazda es sordo, ciego y engañado por los devas de Ahriman» (Eliseo, La Guerra de Vartan).
+[^120]: 26:2 Los Kavis y los Karapans, los ciegos y los sordos, son aquellos «que no pueden ver ni oír nada de Dios». Estos términos eran comunes en el lenguaje teológico de la época sasánida para designar a los incrédulos. Un edicto, promulgado por el rey Yazdgard III (siglo V d. C.) para convertir el zoroastrismo en religión estatal en Armenia, contenía las siguientes palabras: «Debéis saber que todo hombre que no siga la religión de Mazda es sordo, ciego y engañado por los devas de Ahriman» (Eliseo, La Guerra de Vartan).
 
-[^126]: 26:3 O asesinos (mairya); según los salteadores de caminos parsis ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02601.jpg)).
+[^121]: 26:3 O asesinos (mairya); según los salteadores de caminos parsis ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02601.jpg)).
 
-[^127]: 26:4 Los herejes. Los casuistas distinguen tres tipos de Ashemaogha: el engañador (frîftâr), el obstinado (khôt dôshak) y el engañado (frîftak). El primero y peor es quien desvía a la gente a sabiendas, prohibiendo lo lícito y haciendo lícito lo prohibido; el segundo es quien sigue su propia voluntad y razón, en lugar de buscar la guía de un Dastûr (guía espiritual); el tercero es quien ha sido descarriado por otro.
+[^122]: 26:4 Los herejes. Los casuistas distinguen tres tipos de Ashemaogha: el engañador (frîftâr), el obstinado (khôt dôshak) y el engañado (frîftak). El primero y peor es quien desvía a la gente a sabiendas, prohibiendo lo lícito y lícito lo prohibido; el segundo es quien sigue su propia voluntad y razón, en lugar de buscar la guía de un Dastûr (guía espiritual); el tercero es quien ha sido descarriado por otro.
 
-[^128]: 26:5 Draf<i>s</i>a también significa estandarte: la traducción persa ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02602.jpg), derivada de draf<i>s</i>a, ha conservado ambos significados. La traducción sánscrita tiene <i>s</i>astra, la persa tiene ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02603.jpg).
+[^123]: 26:5 Draf<i>s</i>a también significa estandarte: el persa ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02602.jpg), derivado de draf<i>s</i>a, ha conservado ambos significados. La traducción sánscrita tiene <i>s</i>astra, la persa tiene ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/02603.jpg).
 
-[^129]: 27:1 'Yo guardo la creación' (trad. filosófica).
+[^124]: 27:1 'Yo guardo la creación' (trad. filosófica).
 
-[^130]: 27:2 'Yo creé el mundo y lo mantengo' (ibid.).
+[^125]: 27:2 'Yo creé el mundo y lo mantengo' (ibid.).
 
-[^131]: 27:3 Puedo saber lo que es útil y lo que es perjudicial (ibid.).
+[^126]: 27:3 Puedo saber lo que es útil y lo que es perjudicial (ibid.).
 
-[^132]: 27:4 'El sacerdote.'
+[^127]: 27:4 'El sacerdote.'
 
-[^133]: 27:5 'Yo imparto aumento a los justos' (trad. Filipenses 4:14).
+[^128]: 27:5 'Yo imparto aumento a los justos' (trad. Filipenses).
 
-[^134]: 27:6 Dudoso. F<i>s</i>û<i>s</i>ô-mãthrô se usa en varios pasajes como el nombre de una parte del Avesta, Yasna LVIII \[LVII\], que parece llamarse así por la presencia en ella de las palabras f<i>s</i>û<i>s</i>a, f<i>s</i>ûma<i>n</i><i>t</i>, 'prosperar, hacer prosperar', que expresan acertadamente su contenido.
+[^129]: 27:6 Dudoso. F<i>s</i>û<i>s</i>ô-mãthrô se usa en varios pasajes como el nombre de una parte del Avesta, Yasna LVIII \[LVII\], que parece llamarse así por la presencia en ella de las palabras f<i>s</i>û<i>s</i>a, f<i>s</i>ûma<i>n</i><i>t</i>, 'prosperar, hacer prosperar', que expresan acertadamente su contenido.
 
-[^135]: 28:1 Nâma, traducido como âpât, e interpretado como Khutâi rât. El traductor sánscrito malinterpretó âzât por âpât y tradujo svatantra, independiente.
+[^130]: 28:1 Nâma, traducido como âpât, e interpretado como Khutâi rât. El traductor sánscrito confundió âzât con âpât y tradujo svatantra, independiente.
 
-[^136]: 28:2 El comentarista observa ortodoxamente: "todo bien".
+[^131]: 28:2 El comentarista observa ortodoxamente: "todo bien".
 
-[^137]: 28:3 Es decir, ¿quién recitará este Ya<i>s</i>t?
+[^132]: 28:3 Es decir, ¿quién recitará este Ya<i>s</i>t?
 
-[^138]: 29:1 El aiwyâonghanem o kôsti (véase Vendîdâd XVIII, pág. 191, nota 4).
+[^133]: 29:1 El aiwyâonghanem o kôsti (véase Vendîdâd XVIII, pág. 191, nota 4).
 
-[^139]: 29:2 O 'con ira'.
+[^134]: 29:2 O 'con ira'.
 
-[^140]: 29:3 Akavô, <i>k</i>akavô, ishavô, kareta, vazra, traducido kartari, <i>k</i>akra, <i>s</i>ara, <i>s</i>astrikâ, va<i>g</i>ra.
+[^135]: 29:3 Akavô, <i>k</i>akavô, ishavô, kareta, vazra, traducido kartari, <i>k</i>akra, <i>s</i>ara, <i>s</i>astrikâ, va<i>g</i>ra.
 
-[^141]: 29:4 Min akhar u lûîn (Phl. tr.); p<i>ri</i>sh<i>th</i>a\[ta\]s purata<i>s</i><i>k</i>a (sánsk. tr.).
+[^136]: 29:4 Min akhar u lûîn (Phl. tr.); p<i>ri</i>sh<i>th</i>a\[ta\]s purata<i>s</i><i>k</i>a (sánsk. tr.).
 
-[^142]: 29:5 Interpretado como el demonio de la lujuria y la envidia. Cf. Vendîdâd, Introd. IV, 23.
+[^137]: 29:5 Interpretado como el demonio de la lujuria y la envidia. Cf. Vendîdâd, Introd. IV, 23.
 
-[^143]: 29:6 Kayadha, traducido como kâstâr (Fil.), 'el que perjudica'; kadarthaka (Sánsk.), 'el que no considera nada, que lo menosprecia'.
+[^138]: 29:6 Kayadha, traducido como kâstâr (Fil.), 'el que perjudica'; kadarthaka (Sánsk.), 'el que no considera nada, que lo menosprecia'.
 
-[^144]: 29:7 Dudoso. La traducción filántropa dice «que daña a los seres vivos», etc.
+[^139]: 29:7 Dudoso. La traducción filántropa dice «que daña a los seres vivos», etc.
 
-[^145]: 29:8 Cf. Yt. XIII, 71.
+[^140]: 29:8 Cf. Yt. XIII, 71.
 
-[^146]: 30:1 De Yasna XLIV, 16; cf. Vendîdâd VIII, 20.
+[^141]: 30:1 De Yasna XLIV, 16; cf. Vendîdâd VIII, 20.
 
-[^147]: 30:2 Véase Sîrôzah I, 9, [p. 7](../Sirozahs_1#p7), nota [2](../Sirozahs_1#fn40).
+[^142]: 30:2 Véase Sîrôzah I, 9, [p. 7](../Sirozahs_1#p7), nota [2](../Sirozahs_1#fn40).
 
-[^148]: 30:3 Irân Vê<i>g</i>; véase Vendîdâd, p. 3.
+[^143]: 30:3 Irân Vê<i>g</i>; véase Vendîdâd, p. 3.
 
-[^149]: 30:4 Saoka; ver Sirôzah I, 3.
+[^144]: 30:4 Saoka; ver Sîrôzah I, 3.
 
-[^150]: 30:5 Véase Vendîdâd, p. 5, nota 2.
+[^145]: 30:5 Véase Vendîdâd, p. 5, nota 2.
 
-[^151]: 30:6 Ardvi Sûra Anâhita, la gran diosa de las aguas; véase Yt. V.
+[^146]: 30:6 Ardvi Sûra Anâhita, la gran diosa de las aguas; véase Yt. V.
 
-[^152]: 30:7 Véase arriba, [p. 23](#p23).
+[^147]: 30:7 Véase arriba, [p. 23](#p23).
 
-[^153]: 30:8 Véase arriba, [p. 22](#p22).
+[^148]: 30:8 Véase arriba, [p. 22](#p22).
 
-[^154]: 30:9 La oración yathâ ahû vairyô, conocida como Ahuna vairya (Honover), por sus primeras palabras: ahû vairyô. Véase arriba, [p. 23](#p23).
+[^149]: 30:9 La oración yathâ ahû vairyô, conocida como Ahuna vairya (Honover), por sus primeras palabras: ahû vairyô. Véase arriba, [p. 23](#p23).
 
-[^155]: 30:10 O 'la más bella Amesha-Spe<i>n</i>ta;' cf. Vend. Introd. IV, 7.
+[^150]: 30:10 O 'la más bella Amesha-Spe<i>n</i>ta;' cf. Vend. Introd. IV, 7.
 
-[^156]: 30:11 Se hicieron pasar por dioses, para obtener de ellos los beneficios de los cuales son imitaciones.
+[^151]: 30:11 Se hicieron pasar por dioses, para obtener de ellos los beneficios de los cuales son imitaciones.
 
-[^157]: 30:12 Una fórmula que se encuentra al final de la mayoría de los capítulos del Yasna e imitada de Yasna LI \[L\], 22.
+[^152]: 30:12 Una fórmula que se encuentra al final de la mayoría de los capítulos del Yasna e imitada de Yasna LI \[L\], 22.
 
-[^158]: 30:13 Las Amesha-Spe<i>n</i>tas (Pahl. Comm. ad Yasna XXVII, fin.).
+[^153]: 30:13 Las Amesha-Spe<i>n</i>tas (Pahl. Comm. ad Yasna XXVII, fin.).
 
-[^159]: 30:14 Los beneficios de que disponen, y que imparten como recompensas a los justos.
+[^154]: 30:14 Los beneficios de que disponen, y que imparten como recompensas a los justos.
 
-[^160]: 31:1 Los tres primeros.
+[^155]: 31:1 Los tres primeros.
 
-[^161]: 31:2 Los tres últimos, cuyos nombres son femeninos.
+[^156]: 31:2 Los tres últimos, cuyos nombres son femeninos.
 
-[^162]: 31:3 Lo cual impartirá a cambio a sus adoradores.
+[^157]: 31:3 Lo cual impartirá a cambio a sus adoradores.
 
-[^163]: 31:4 Véase arriba, [p. 21](#p21).
+[^158]: 31:4 Véase arriba, [p. 21](#p21).
 
-[^164]: 31:5 Como los Genios que presiden sobre las plantas y las aguas, es muy probable que se les encomiende el cuidado de alimentar a los justos en el Paraíso. Cf. Yt. XXII, 18.
+[^159]: 31:5 Como los Genios que presiden sobre las plantas y las aguas, es muy probable que se les encomiende el cuidado de alimentar a los justos en el Paraíso. Cf. Yt. XXII, 18.
 
-[^165]: 31:6 De Yasna XXVIII, 12.
+[^160]: 31:6 De Yasna XXVIII, 12.
 
-[^166]: 31:7 Cfr. Yasna XXX, 4.
+[^161]: 31:7 Cfr. Yasna XXX, 4.
 
-[^167]: 32:1 Yasna LXVIII, 15 (LXVII, 50).
+[^162]: 32:1 Yasna LXVIII, 15 (LXVII, 50).
 
-[^168]: 32:2 Véase Siroza I, 20.
+[^163]: 32:2 Véase Sîrôzah I, 20.
 
-[^169]: 32:3 Se refiere probablemente a los Izeds mencionados en el párrafo anterior.
+[^164]: 32:3 Se refiere probablemente a los Izeds mencionados en el párrafo anterior.
 
-[^170]: 32:4 De los enemigos a que se alude § 24.
+[^165]: 32:4 De los enemigos a que se alude § 24.
 
-[^171]: 32:5 Derezván; ver Yt. XI, 2.
+[^166]: 32:5 Derezván; ver Yt. XI, 2.
 
-[^172]: 32:6 Cfr. Yasna XLVIII \[XLVII\], 2.
+[^167]: 32:6 Cfr. Yasna XLVIII \[XLVII\], 2.
 
-[^173]: 32:7 Sigo la lectura de zamerena, seguida también por la traducción pahlavi. En el Yasna IX, 15 (46), se dice que Zaratustra obligó a los daevas a ocultarse en la tierra.
+[^168]: 32:7 Sigo la lectura de zamerena, seguida también por la traducción pahlavi. En el Yasna IX, 15 (46), se dice que Zaratustra obligó a los daevas a ocultarse en la tierra.
 
-[^174]: 32:8 Cf. Yt. XIX, 94.
+[^169]: 32:8 Cf. Yt. XIX, 94.
 
-[^175]: 32:9 Cf. Vend. IX, 12-13.
+[^170]: 32:9 Cf. Vend. IX, 12-13.
 
-[^176]: 32:10 Véase Siroza I, 7.
+[^171]: 32:10 Véase Sîrôzah I, 7.
 
-[^177]: 33:1 Ese monte se llama en la literatura posterior Monte Ô<i>s</i>dâ<i>s</i>târ (la traducción pahlavi de ushi-darena, el guardián del entendimiento). Según los Bundahi<i>s</i> (XII, 15), se encuentra en Seistán. Las altas montañas, al estar más cerca del cielo, tienden a convertirse, en el espíritu de la mitología, en la sede de seres o tesoros celestiales. Fue en la cima de una montaña donde Ahura reveló la ley (véase Vd. XXII, 19 \[531]); el primer hombre y rey, Gayomarth, gobernó en una montaña y fue llamado Gar-shâh, el rey de la montaña. Cuando la familia Kayanian fracasó, los iraníes fueron al Monte Alborz y encontraron allí a Kai Kobâd esperando su destino.
+[^172]: 33:1 Ese monte se llama en la literatura posterior Monte Ô<i>s</i>dâ<i>s</i>târ (la traducción Pahlavi de ushi-darena, el guardián del entendimiento). Según los Bundahi<i>s</i> (XII, 15), se encuentra en Seistán. Las altas montañas, al estar más cerca del cielo, tienden a convertirse, en el espíritu de la mitología, en la sede de seres o tesoros celestiales. Fue en la cima de una montaña donde Ahura reveló la ley (véase Vd. XXII, 19 \[531); el primer hombre y rey, Gayomarth, gobernó en una montaña y fue llamado Gar-shâh, el rey de la montaña. Cuando la familia Kayanian fracasó, los iraníes fueron al Monte Alborz y encontraron allí a Kai Kobâd esperando su destino.
 
-[^178]: 33:2 El orden del texto difiere en una serie de manuscritos, en la que comienza con el § 31; luego viene el § 29 con las siguientes palabras adicionales:
-  «¡Mil remedios, diez mil remedios!» (tres veces; cf. arriba, § 26.)
-  'Adoramos el Fravashi del hombre cuyo nombre es Asmô-<i>h</i><i>v</i>anva<i>n</i><i>t</i>; luego adoraré los Fravashis de los otros santos que fueron fuertes en la fe' (Yt. XXII, 37).
+[^173]: 33:2 El orden del texto difiere en una serie de manuscritos, en la que comienza con el § 31; luego viene el § 29 con las siguientes palabras adicionales:
+  '¡Mil remedios, diez mil remedios! (tres veces; cf. arriba, § 26.)
+  Adoramos el Fravashi del hombre cuyo nombre es Asmô-<i>h</i><i>v</i>anva<i>n</i><i>t</i>; luego adoraré a los Fravashis de los otros santos que fueron fuertes en la fe' (Yt. XXII, 37).
   Asmô-<i>h</i><i>v</i>anva<i>n</i><i>t</i> fue uno de los primeros seguidores de Zaratustra, y con su nombre comienza la enumeración de los Fravashis (Yt. XIII, 96).
-  Luego sigue el § 30, y luego nuevamente el § 31 con el Ashem Vohû: y luego el pasaje adicional, «Adoramos…», se repite dos veces.
+  Luego sigue el § 30, y luego nuevamente el § 31 con el Ashem Vohû: y luego el pasaje adicional, 'Adoramos...', se repite dos veces.
 
-[^179]: 33:3 Visión XIX, 2.
+[^174]: 33:3 Visión XIX, 2.
 
-[^180]: 33:4 Como ahu y ratu, es decir, como jefe temporal y guía espiritual.
+[^175]: 33:4 Como ahu y ratu, es decir, como jefe temporal y guía espiritual.
 
-[^181]: 33:5 Véase Vend. Introd. IV, 22.
+[^176]: 33:5 Véase Vend. Introd. IV, 22.
 
-[^182]: 33:6 Ibíd. 23.
+[^177]: 33:6 Ibíd. 23.
 
-[^183]: 34:1 Véase Yast VIII.
+[^178]: 34:1 Véase Yast VIII.
 
-[^184]: 34:2 Como arriba, [p. 22](#p22).
+[^179]: 34:2 Como arriba, [p. 22](#p22).
 
-[^185]: 34:3 ¿Quién te ofrecerá un sacrificio? Este párrafo está tomado de Yasna LXVIII, 11 (LXVII, 32), donde se dirige a las Aguas: «Vosotras, buenas aguas, dad a quien os ofrezca un sacrificio...».
+[^180]: 34:3 ¿Quién te ofrecerá un sacrificio? Este párrafo está tomado de Yasna LXVIII, 11 (LXVII, 32), donde se dirige a las Aguas: «Vosotras, buenas aguas, dad a quien os ofrezca un sacrificio...».
 
-[^186]: 34:4 Su<i>s</i>îla (Sansk. tr. ad Yasna LXI, 13).
+[^181]: 34:4 Su<i>s</i>îla (Sansk. tr. ad Yasna LXI, 13).
 
-[^187]: 34:5 Esta cláusula sirve como conclusión para todos los Ya<i>s</i>ts.
+[^182]: 34:5 Esta cláusula sirve como conclusión para todos los Ya<i>s</i>ts.
 
-[^188]: 34:6 De Yasna LXVIII, 20 (LXVII, 52).
+[^183]: 34:6 De Yasna LXVIII, 20 (LXVII, 52).
 
-[^189]: 34:7 Cf. arriba, § 26.
+[^184]: 34:7 Cf. arriba, § 26.
 
-[^190]: 34:8 Cfr. Sirozah I, 90
+[^185]: 34:8 Cfr. Sirozah I, 90
 
-[^191]: 34:9 Ibíd. 21.
+[^186]: 34:9 Ibíd. 21.

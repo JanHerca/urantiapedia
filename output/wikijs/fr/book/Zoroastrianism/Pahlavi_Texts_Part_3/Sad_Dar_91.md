@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Pour les perles, deux modes [^3] sont ordonnés, mais la conclusion est celle-ci, qu'ils doivent être lavés six fois, tout comme les objets en pierre. 6. Tous les objets en bois et en terre cuite doivent être jetés. 7. Tous les vêtements du corps doivent être lavés six fois _de la manière que j'ai indiquée, _et_, après cela, de les _mettre_ dans un endroit où le soleil et la lune doivent briller sur eux _pendant_ six mois [^4]; après cela, ils sont propres à une femme menstruée.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

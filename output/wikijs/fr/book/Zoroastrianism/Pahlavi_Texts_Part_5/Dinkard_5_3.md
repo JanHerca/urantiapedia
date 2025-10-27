@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 4\. La formation des coutumes et les indications qui se sont manifestées et se manifesteront à diverses époques ; et leur proclamation par Gâmâsp [^15], d'après l'enseignement de Zaratûst, est ce qu'il a écrit, avec l'Avesta et le Zand, sur des peaux de bœuf, et c'était écrit avec de l'or, et conservé dans le trésor royal [^16]. 5. Et c'est à partir de cela que les grands prêtres des souverains ont fait de nombreuses copies, et c'est aussi à partir de cela qu'il est arrivé, tant aux moins intelligents qu'aux corrupteurs, qu'ils introduisent des opinions et des points de vue différents.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

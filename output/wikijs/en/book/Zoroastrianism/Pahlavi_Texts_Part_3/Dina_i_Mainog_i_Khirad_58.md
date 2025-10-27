@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. The spirit of wisdom answered (5) thus: ‘On account of the deceit and violence of the fiend [^2] of greediness (6) men utter more words as to the manliness of every one whose wealth and power are more, and recount _his_ deeds and actions more fully; (7) but, in the eyes of the angels and archangels, a poor _man_ who is innocent and wise is better and more precious than a king _or_ opulent _man_ [^3] who is ignorant.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

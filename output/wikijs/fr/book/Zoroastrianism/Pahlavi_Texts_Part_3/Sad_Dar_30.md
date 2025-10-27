@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. _De même_ il ne convient pas d'avaler de l'eau la nuit, car c'est un péché. 4. _Mais_, si une nécessité survient, il est nécessaire de préparer une lumière, et de manger d'abord quelques morceaux de nourriture (<i>t</i>a'hâm) afin que le péché soit moindre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

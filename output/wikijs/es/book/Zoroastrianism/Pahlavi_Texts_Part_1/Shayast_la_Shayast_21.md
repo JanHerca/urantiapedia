@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 5\. Cuando el día está en su máximo (pavan afzûnŏ), _y_ el sol llega a la cabeza [^11] de Cáncer, _y la sombra de uno_ llega a seis pies y dos partes [^12], se lo denomina período de Aûzêrîn (gâs). <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> 6. Cada treinta días siempre aumenta un pie _y_ un tercio, por lo tanto, aproximadamente cada diez días, el cómputo es siempre medio pie [^13], _y cuando_ el sol está a la cabeza de Leo, la sombra es de siete [^14] pies _y_ medio. 7. En esta serie, cada constelación _zodiacal_ se _trata_ por igual, y los meses por igual, hasta que el sol llega a la cabeza de Capricornio, _y_ la sombra llega a catorce pies y dos partes. 8. En Capricornio disminuye de nuevo un pie _y_ un tercio [^15]; _y_ desde allí _donde_ regresa, a causa de la disminución de la noche _y_ el aumento del día, siempre disminuye un pie _y_ un tercio cada uno de los meses, _y_ aproximadamente cada diez días el cómputo es siempre medio pie, hasta que regresa a seis pies y dos partes; cada constelación _zodiacal_ siendo tratada_ por igual, y los meses por igual [^16].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

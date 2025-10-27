@@ -75,6 +75,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 108\. También sobre lo que me preguntas acerca de lo ilimitado y lo limitado, lo he escrito a continuación [^56], por voluntad de los seres sagrados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

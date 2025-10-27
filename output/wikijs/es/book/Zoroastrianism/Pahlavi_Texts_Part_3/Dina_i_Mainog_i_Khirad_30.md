@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. El espíritu de sabiduría respondió (5) así: «Peor es la vida de quien vive en el miedo y la falsedad [^2]. 6. Y más imprevisible es en sabiduría quien no se preocupa [^3] por la existencia espiritual y se preocupa por la mundana».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -134,6 +134,8 @@ Besides the Persian paraphrase of this legend, in prose, the Persian Rivâyats c
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

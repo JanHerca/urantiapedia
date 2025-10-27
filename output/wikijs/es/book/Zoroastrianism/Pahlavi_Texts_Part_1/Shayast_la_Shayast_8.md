@@ -66,6 +66,8 @@ dateCreated: 2025-10-10T14:41:20Z
 21\. Cuando ha cometido un pecado mortal (marg-ar<i>g</i>ân) y se dedica mentalmente a la renuncia, y el sumo sacerdote (ra<i>d</i>) sabe que, aunque debe entregar su cuerpo, no lo entregará, es permisible cuando lo mate; es decir, porque confía en la beneficencia (sû<i>d</i>) de Aûharmazd. 22. Además, de la regla (mank) «yazemna [^33] ka<i>d</i> nâ haka<i>d</i>» («al ser adorado lo que entonces de <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> una vez», etc.) es evidente, y se convierte en suyo mediante la ablución ceremonial de las manos; equivale a toda una cantera (kânŏ) de buenas obras, y la adoración a Dios (ya<i>z</i>i<i>s</i>ni yazdânŏ) debe realizarse para él [^34]. 23. Âtarô-pâ<i>d</i> [^35] hijo de Mâraspend dijo que siempre es necesario ser más diligente en la realización de la adoración a Dios _en_ ​​el momento en que se cometen muchos _pecados_ mortales; todos los pecados _siendo_ admisibles en la renuncia, cuando expiarás mediante un completo autosacrificio (pûr-<i>g</i>ân-dâ<i>d</i>îhâ), _y_ cuando _uno_ se involucra en la renuncia del pecado desde _su_ raíz, se vuelve _libre_ del pecado en la renuncia del cual se involucró; porque Aûharmazd no abandonará a sus propias criaturas en manos del espíritu maligno, a menos que estén en el camino de la no renuncia.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

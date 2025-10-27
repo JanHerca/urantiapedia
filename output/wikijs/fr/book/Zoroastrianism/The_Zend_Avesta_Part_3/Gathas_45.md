@@ -82,6 +82,8 @@ Traduction.
 
 11\. (Nous voudrions le magnifier et le louer) qui a méprisé les dieux Daêva et les hommes étrangers, ceux qui auparavant le méprisaient. Bien différents sont ceux qui l'honoraient. Ce dernier est, par la foi généreuse du Saoshya<i>n</i>t, lui aussi le Seigneur du pouvoir salvateur [^600], <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> un ami, un frère ou un père pour nous, Seigneur Mazda [^601] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

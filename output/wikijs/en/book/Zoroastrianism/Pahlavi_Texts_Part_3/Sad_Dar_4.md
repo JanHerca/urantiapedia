@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 12\. Therefore, although a sin has happened to any one, it is not necessary _for him_ [^7] to become hopeless. 13. And whoever has the power (<i>t</i>âqat) <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> is to endeavour to perform good works, so that _there_ may be an atonement for the sin thereby; because the sacred being, the good _and_ propitious, is kind to every one.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

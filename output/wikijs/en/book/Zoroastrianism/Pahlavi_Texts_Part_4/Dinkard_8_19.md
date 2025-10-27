@@ -70,6 +70,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 62\. About authorisedly shooting an arrow at _one_ worthy of death, which is given again for killing _him_ to any one unto whom the _person_ worthy of death is consigned _and_ becomes supplicating (lânakŏ) _and_ goes to the middle of the distance, and they shall afford him assistance _and_ enervate him for _it_, when, through the three words [^19] which he utters, they do not deliver _him_ up again. 63. About _one_ worthy of death who is preserved with great judiciousness when the evidence, which they give before that about him, is through another _one_ worthy of death, _and_ whatever is on the same subject. 64. About evidence as to witchcraft and destroying a righteous _man_, that is, in what proportion <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> it is certain or doubtful. 65. About causing the execution of _one_ worthy of death _for_ entertaining fondness for witchcraft and laughing at witchcraft, _and_ whatever is on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

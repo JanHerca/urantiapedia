@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Celui qui a produit l'opulence par un effort approprié doit être considéré comme heureux ; et celui qui l'a produite par la malhonnêteté, comme mal conditionné. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

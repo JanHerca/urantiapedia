@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Y quien toma su dinero y no realiza su ceremonial, es como si hubiera abstraído de los ángeles [^3] y de los espíritus guardianes justos, _y_ destruido toda la propiciación que hubiera sido posible mediante ese ceremonial; y, por lo tanto, se siente abrumado por él [^4] y lo expía en el alma.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -699,6 +699,8 @@ En ce qui concerne le sujet indexé comme l'originalité du Gâtha, il n'est pas
 
 À la page [198](../Yasna_1#p198) lisez Maidhyô-shema, Maidhyô-zaremaya ; [p. 204](../Yasna_2#p204), -<i>g</i>yâiti; [p. 209](../Yasna_3#p209), -<i>g</i>yâitê.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,8 @@ _Bakŏ Nask_.
 
 14\. It is righteousness _that is_ perfect excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 10\. And it is said summarily that the sky was shaken in the _period of_ disturbance and restored _with_ trouble; and, if the guardian spirits are in freedom from disturbance through the glory _of_ the creator, when there is not even a place for it prepared by themselves [^12], and _their_ nature and own <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> strength are approving the trouble of preparation, it is not moved [^13], except by the creatures of _his_ will, a will which is subduing.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

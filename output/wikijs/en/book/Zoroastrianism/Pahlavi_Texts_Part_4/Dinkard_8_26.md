@@ -50,6 +50,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask._
 
 25\. About the proportion of those who keep the arms (zâ<i>ê</i>) for the combatants, and, after a victory over foreigners, are taking away the hostages and captives, out of the foreigners, from the combatants; _also their_ return from them. 26. At what degree of distance from them _they have_ to carry the arms _and_ appliances and the restoratives for the unfatigued <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> and the fatigued; and, the accoutrements _being_ deposited, a warm bath prepared, and relaxation of the body effected, the reward of merit is given. 27. _One has_ to search offenders, to bring restoratives for the unfatigued and the fatigued, to deliver the accoutrements back to the arsenal (gan<i>g</i>ŏ), to allot the share of the hostage brought back to his own _people_, and also much else on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

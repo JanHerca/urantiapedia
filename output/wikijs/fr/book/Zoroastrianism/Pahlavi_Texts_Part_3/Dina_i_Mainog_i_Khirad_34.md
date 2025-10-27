@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « À celui qui est un homme sage et satisfait, il est peu possible d'apporter du trouble. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

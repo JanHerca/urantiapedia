@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. El espíritu de sabiduría respondió (8) así: Aharman engaña a la gente principalmente con la prosperidad y la adversidad [^1], el demonio de la apostasía, el escepticismo y la codicia. 9. Su placer, también, proviene principalmente de la discordia humana. 10. Y su alimento proviene de la impenitencia [^2] y la reticencia humana. 11. Tiene su fundamento en la malicia [^3]. 12. Y su ir y venir se dan principalmente con los iracundos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

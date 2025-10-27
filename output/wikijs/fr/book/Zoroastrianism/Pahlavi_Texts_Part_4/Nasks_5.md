@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 6\. L'une [^4] est que, à cause de celui qui a donné le Légal, et qui est aussi le protecteur d'un maître sacerdotal qui est consacré au Hadha-mãthrique et au Gâtique, par lesquels la pureté des bonnes créations surgit, on doit plus résolument les agrandir et les développer. . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

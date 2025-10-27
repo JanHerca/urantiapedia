@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 15\. And Tî<i>s</i>tar shall gradually (pa<i>d</i>manîkîhâ) seize upon the water to distribute _it_ liberally, assiduously a similitude _of_ that which a learned ruler said, in extolling a wise high-priest, that, 'just as the wind draws the up-flying water from rivers and springs _and_ from seas; Tî<i>s</i>tar, through his own liberality, bestows the prepared apportionments of the whole production for the advantage of the creatures _by_ the will of the sacred beings, and makes _it_ rain. 16. And through that which he shall purposely seize to distribute suitably he distributes the water purified, he moistens the pleasant _existences_ of animals _and_ plants and spares [^11] the polluted, he provides for the thirsty [^12], he causes harm to the dye-like bloody _one_, and he makes the world thrive. 17. When that wide-_spread_ liberality of his, the production of rain, is from the pure, healing water which he shall thus seize gradually and with just apportionment, _and_ when through that acquiring of water-seizings the rivers, springs, _and_ other existences (shavandagânŏ) are well-expanding, and even the diminution which is owing to the wasting (aîrîkhtagîh) of rivers and springs does not occur thereby, _it is_ thus, too, the lordly, by a law (dâ<i>d</i>ŏ) moderate and varied—if the regulation (gûn) is to reach _away_ from the region—are as much contributing, as <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> Tî<i>s</i>tar is by causing rain for the region and the good, to the aggrandizement of the many grades [^13] and the replenishment of the region and creatures [^14].'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

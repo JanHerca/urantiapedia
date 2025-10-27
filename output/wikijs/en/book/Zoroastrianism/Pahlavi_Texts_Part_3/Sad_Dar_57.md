@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The fifty-seventh subject is this, that it is not proper to kill a hedgehog; and, everywhere that they see _it_, it is necessary to take _it_ up and carry _it_ into the wilderness (sa‘hrâ), so that it _may_ go into a hole, which is ever considered a great good work. 2. Because, when a hedgehog is in _their_ nest [^1], some ants will die; it will _also_ catch and eat thousands of snakes and [^2] other harmful _creatures_, and it eats all noxious creatures. 3. Therefore, owing to the whole _of this_, these words are expedient.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est celle-ci : le mérite est la nomination et la reconnaissance de celui qui accomplit le plus dignement le plus grand bienfait ; le démérite est _quant à_ <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> celui qui est indigne, ou celui dont la dignité n'est pas nommée pour éviter un moindre bienfait et la ruine d'une adoption digne. 3. Des détails plus précis (khûr<i>d</i>akŏ) sur la tutelle familiale qui convient et qui ne convient pas au devoir d'un fils adoptif, sur l'enfant de bonne religion dont les affaires sont liées, et sur les pères pour lesquels un tuteur familial doit être désigné, se trouvent dans la récitation de cinq chapitres (fragar<i>d</i>ŏ) du Hûspârûm Nask[^1], et dans les résumés (giriftakŏîhâ) des bonnes idées dans diverses écritures (naskô) dans lesquelles de nombreuses décisions sont réunies.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

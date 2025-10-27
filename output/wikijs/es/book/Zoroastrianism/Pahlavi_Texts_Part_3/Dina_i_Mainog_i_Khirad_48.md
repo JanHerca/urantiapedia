@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «El lugar del entendimiento, el intelecto y la semilla de los hombres está en el cerebro de la cabeza. 5. Y cuando el cerebro de la cabeza es sano, el entendimiento, el intelecto y la semilla aumentan; (6) pero cuando una persona llega a la vejez, el cerebro de la cabeza permanece solo en una disminución. 7. Y el anciano, debido a la disminución del entendimiento y el intelecto, ve y sabe menos de lo que es necesario hacer con la sabiduría. 8. La sabiduría, al principio, se mezcla con la médula de los dedos de las manos de los hombres; (9) y, después, su sede, morada y lugar [^1] están en el corazón. 10. Y su morada [^2] en todo el cuerpo se vuelve como la forma del pie en diversos zapatos (mûg<i>k</i>akŏ). [^3]»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -270,6 +270,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -296,224 +298,224 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1456]: 328:1 Literally, O young king Vî<i>s</i>tâspa! (or, O my son, king Vî<i>s</i>tâspa!)
+[^1388]: 328:1 Literally, O young king Vî<i>s</i>tâspa! (or, O my son, king Vî<i>s</i>tâspa!)
 
-[^1457]: 328:2 The law of Mazda (Pahl.).
+[^1389]: 328:2 The law of Mazda (Pahl.).
 
-[^1458]: 328:3 Understood in âfri-va<i>k</i><i>a</i>u (who speaks blessing).
+[^1390]: 328:3 Understood in âfri-va<i>k</i><i>a</i>u (who speaks blessing).
 
-[^1459]: 328:4 Cf. Yt. XXIII, I.
+[^1391]: 328:4 Cf. Yt. XXIII, I.
 
-[^1460]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) belongs to § 2 (W.).
+[^1392]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) belongs to § 2 (W.).
 
-[^1461]: 328:6 See [p. 326](../Yasts_23#p326), note [8](../Yasts_23#fn1374).
+[^1393]: 328:6 See [p. 326](../Yasts_23#p326), note [8](../Yasts_23#fn1374).
 
-[^1462]: 328:7 See [p. 326](../Yasts_23#p326), note [9](../Yasts_23#fn1375).
+[^1394]: 328:7 See [p. 326](../Yasts_23#p326), note [9](../Yasts_23#fn1375).
 
-[^1463]: 328:8 Immortality (cf. Yt. XXIII, 7). W. has ashem merezô = ahlâyîh patmânîk, amargîg (Pahl.).
+[^1395]: 328:8 Immortality (cf. Yt. XXIII, 7). W. has ashem merezô = ahlâyîh patmânîk, amargîg (Pahl.).
 
-[^1464]: 328:9 Cf. Yt. XXIII, 4.
+[^1396]: 328:9 Cf. Yt. XXIII, 4.
 
-[^1465]: 329:1 Cf. Yt. XXIII, 5.
+[^1397]: 329:1 Cf. Yt. XXIII, 5.
 
-[^1466]: 329:2 ‘Like Âturpât, the son of Mâhraspand’ (Pahl. Comm.).
+[^1398]: 329:2 ‘Like Âturpât, the son of Mâhraspand’ (Pahl. Comm.).
 
-[^1467]: 329:3 ‘Like Spenddât (Isfendyâr), the son of Gû<i>s</i>tâsp’ (ibid.).
+[^1399]: 329:3 ‘Like Spenddât (Isfendyâr), the son of Gû<i>s</i>tâsp’ (ibid.).
 
-[^1468]: 329:4 ‘Like Zav’ (Uzava; ‘Zav . . . . urbes et castella, quae Afrassiab deleverat, refici jussis, aperuit fluvios, quos ille operuerat, . . . . agros denuo coluit, qui in optimam, qua antehac floruerant, conditionem redierunt,’ Hamzah Ispahensis, p. 24 of the Gottwaldt translation).
+[^1400]: 329:4 ‘Like Zav’ (Uzava; ‘Zav . . . . urbes et castella, quae Afrassiab deleverat, refici jussis, aperuit fluvios, quos ille operuerat, . . . . agros denuo coluit, qui in optimam, qua antehac floruerant, conditionem redierunt,’ Hamzah Ispahensis, p. 24 of the Gottwaldt translation).
 
-[^1469]: 329:5 Cf. Yt. XXIII, 2.
+[^1401]: 329:5 Cf. Yt. XXIII, 2.
 
-[^1470]: 329:6 W. has the same text as Yt. XXIII, 2: yatha dangh<i>e</i>u<i>s</i> Vî<i>s</i>taspâi, which is interpreted âfrîn pata<i>s</i> obdûnât <i>k</i>igûn <i>G</i>âmâsp kart madam matâpat Gû<i>s</i>tâsp.
+[^1402]: 329:6 W. has the same text as Yt. XXIII, 2: yatha dangh<i>e</i>u<i>s</i> Vî<i>s</i>taspâi, which is interpreted âfrîn pata<i>s</i> obdûnât <i>k</i>igûn <i>G</i>âmâsp kart madam matâpat Gû<i>s</i>tâsp.
 
-[^1471]: 329:7 Peshôtanu was a son of Vî<i>s</i>tâspa: Zarathu<i>s</i>tra made him drink of a certain sort of milk, and ‘he forgot death.’ He is one of the seven immortals, and reigns in Kangde<i>z</i> (Zartusht-Namah and Bundahi<i>s</i> XXIX, 5).
+[^1403]: 329:7 Peshôtanu was a son of Vî<i>s</i>tâspa: Zarathu<i>s</i>tra made him drink of a certain sort of milk, and ‘he forgot death.’ He is one of the seven immortals, and reigns in Kangde<i>z</i> (Zartusht-Namah and Bundahi<i>s</i> XXIX, 5).
 
-[^1472]: 329:8 Bavâhi (W.).
+[^1404]: 329:8 Bavâhi (W.).
 
-[^1473]: 329:9 Doubtful. The Pahlavi translation follows Yt. XXIII, 4, though the text is the same as in Westergaard (only bavâi and zarnumatô instead of bavâhi, zaranumatô).
+[^1405]: 329:9 Doubtful. The Pahlavi translation follows Yt. XXIII, 4, though the text is the same as in Westergaard (only bavâi and zarnumatô instead of bavâhi, zaranumatô).
 
-[^1474]: 330:1 For §§ 6-7, cf. Mâh Nyâyi<i>s</i>, 10-11.
+[^1406]: 330:1 For §§ 6-7, cf. Mâh Nyâyi<i>s</i>, 10-11.
 
-[^1475]: 330:2 The prayer is addressed to Waters.
+[^1407]: 330:2 The prayer is addressed to Waters.
 
-[^1476]: 330:3 <i>H</i><i>v</i>âthrô-nahîm: âsânîh lahmâk.
+[^1408]: 330:3 <i>H</i><i>v</i>âthrô-nahîm: âsânîh lahmâk.
 
-[^1477]: 330:4 Paourvatâtem: kebad farzand.
+[^1409]: 330:4 Paourvatâtem: kebad farzand.
 
-[^1478]: 330:5 Stâhyanãm: kebad stâyîtâr.
+[^1410]: 330:5 Stâhyanãm: kebad stâyîtâr.
 
-[^1479]: 330:6 See Yt. XVI.
+[^1411]: 330:6 See Yt. XVI.
 
-[^1480]: 330:7 See Vend. Introd. IV, 30.
+[^1412]: 330:7 See Vend. Introd. IV, 30.
 
-[^1481]: 330:8 See [p. 11](../Sirozahs_1#p11), note [5](../Sirozahs_1#fn77).
+[^1413]: 330:8 See [p. 11](../Sirozahs_1#p11), note [5](../Sirozahs_1#fn77).
 
-[^1482]: 330:9 Pâre<i>n</i>di.
+[^1414]: 330:9 Pâre<i>n</i>di.
 
-[^1483]: 330:10 Plenty will reign in thy house, if thou wilt be liberal to the priest.
+[^1415]: 330:10 Plenty will reign in thy house, if thou wilt be liberal to the priest.
 
-[^1484]: 331:1 Raêvatãm <i>k</i>a (not rashvatãm <i>k</i>a) belongs to § 9 (W.).
+[^1416]: 331:1 Raêvatãm <i>k</i>a (not rashvatãm <i>k</i>a) belongs to § 9 (W.).
 
-[^1485]: 331:2 W. has, hanairê vaêm aiwi vaina<i>t</i> (vaêm = Sansk. vayas?).
+[^1417]: 331:2 W. has, hanairê vaêm aiwi vaina<i>t</i> (vaêm = Sansk. vayas?).
 
-[^1486]: 331:3 See Yt. XIII, 103. Frashao<i>s</i>tra and <i>G</i>âmâspa were brothers.
+[^1418]: 331:3 See Yt. XIII, 103. Frashao<i>s</i>tra and <i>G</i>âmâspa were brothers.
 
-[^1487]: 331:4 Cf. Vend. XVIII, 1-23. Perhaps, ‘Be not bad to the priests! Be not unfriendly to the priest! For he who is bad to the priest, he who is unfriendly to the priest . . . .’
+[^1419]: 331:4 Cf. Vend. XVIII, 1-23. Perhaps, ‘Be not bad to the priests! Be not unfriendly to the priest! For he who is bad to the priest, he who is unfriendly to the priest . . . .’
 
-[^1488]: 331:5 Doubtful.
+[^1420]: 331:5 Doubtful.
 
-[^1489]: 331:6 Cf. Vend. XXI, 6-7.
+[^1421]: 331:6 Cf. Vend. XXI, 6-7.
 
-[^1490]: 332:1 Doubtful.
+[^1422]: 332:1 Doubtful.
 
-[^1491]: 332:2 Saoshya<i>n</i>tem. W. has srashya<i>n</i>tem.
+[^1423]: 332:2 Saoshya<i>n</i>tem. W. has srashya<i>n</i>tem.
 
-[^1492]: 332:3 To the Law.
+[^1424]: 332:3 To the Law.
 
-[^1493]: 332:4 The seven priests engaged in the sacrifice (Vendîdâd, p. 64, note 1).
+[^1425]: 332:4 The seven priests engaged in the sacrifice (Vendîdâd, p. 64, note 1).
 
-[^1494]: 332:5 The <i>h</i><i>v</i>aêtvôdatha (Vend. Introd. p. xlv, note 7; see West, Pahlavi Texts, II, 389 seq.).
+[^1426]: 332:5 The <i>h</i><i>v</i>aêtvôdatha (Vend. Introd. p. xlv, note 7; see West, Pahlavi Texts, II, 389 seq.).
 
-[^1495]: 332:6 Thâtu<i>s</i>: kâr kartâr (Pahl.).
+[^1427]: 332:6 Thâtu<i>s</i>: kâr kartâr (Pahl.).
 
-[^1496]: 333:1 See Yasna I, 10 (33).
+[^1428]: 333:1 See Yasna I, 10 (33).
 
-[^1497]: 333:2 Thrâtôtemô belongs to § 19 (W.).
+[^1429]: 333:2 Thrâtôtemô belongs to § 19 (W.).
 
-[^1498]: 333:3 He kills a hundred times a hundred of them, while they kill a hundred of his people.
+[^1430]: 333:3 He kills a hundred times a hundred of them, while they kill a hundred of his people.
 
-[^1499]: 333:4 For this clause and the following two, cf. Vend. XIX, 17 seq., text and notes.
+[^1431]: 333:4 For this clause and the following two, cf. Vend. XIX, 17 seq., text and notes.
 
-[^1500]: 334:1 Cf. Vend. XIX, 13.
+[^1432]: 334:1 Cf. Vend. XIX, 13.
 
-[^1501]: 334:2 Cf. Yt. V, 53.
+[^1433]: 334:2 Cf. Yt. V, 53.
 
-[^1502]: 334:3 Paourvô vasta <i>s</i>aota: read <i>s</i>kyaothna (cf. § 40), as in Vend. XVI, 14 (paourvô-vasna <i>s</i>kynothna).
+[^1434]: 334:3 Paourvô vasta <i>s</i>aota: read <i>s</i>kyaothna (cf. § 40), as in Vend. XVI, 14 (paourvô-vasna <i>s</i>kynothna).
 
-[^1503]: 334:4 Cf. Vend. XI, 9 and Bundahi<i>s</i> XXVIII, 42.
+[^1435]: 334:4 Cf. Vend. XI, 9 and Bundahi<i>s</i> XXVIII, 42.
 
-[^1504]: 334:5 Cf. Vend. XIX, 41; better: ‘on the Dru<i>g</i>askân’ (the sons of the Dru<i>g</i>? see Bund. XXXI, 6).
+[^1436]: 334:5 Cf. Vend. XIX, 41; better: ‘on the Dru<i>g</i>askân’ (the sons of the Dru<i>g</i>? see Bund. XXXI, 6).
 
-[^1505]: 335:1 The dead man.
+[^1437]: 335:1 The dead man.
 
-[^1506]: 335:2 The <i>K</i>inva<i>t</i>\-bridge (Vend. XIX, 29).
+[^1438]: 335:2 The <i>K</i>inva<i>t</i>\-bridge (Vend. XIX, 29).
 
-[^1507]: 335:3 The fiends (Vend. XIX, 33).
+[^1439]: 335:3 The fiends (Vend. XIX, 33).
 
-[^1508]: 335:4 The soul of the righteous.
+[^1440]: 335:4 The soul of the righteous.
 
-[^1509]: 335:5 See page [152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
+[^1441]: 335:5 See page [152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
 
-[^1510]: 335:6 The Pahlavi has, ‘the way of Zarathu<i>s</i>tra’ (lâ Zartûh<i>s</i>tîg râs yakhsûnît).
+[^1442]: 335:6 The Pahlavi has, ‘the way of Zarathu<i>s</i>tra’ (lâ Zartûh<i>s</i>tîg râs yakhsûnît).
 
-[^1511]: 335:7 Wilful murder (Vend. p. 84, note 1).
+[^1443]: 335:7 Wilful murder (Vend. p. 84, note 1).
 
-[^1512]: 335:8 To procure miscarriage (see Vend. XV, 12-14).
+[^1444]: 335:8 To procure miscarriage (see Vend. XV, 12-14).
 
-[^1513]: 335:9 The sinner.
+[^1445]: 335:9 The sinner.
 
-[^1514]: 335:10 ‘As a horseman on the hack of a good horse, when he has gone the wrong way, perceiving that he has lost his way, turns back his horse from that direction and makes him go the right way; so thou, turn back thy horse to the right way; that is to say, turn him to the way of the Law of Mazda; that is to say, receive the Law’ (Pahl. Comm.).
+[^1446]: 335:10 ‘As a horseman on the hack of a good horse, when he has gone the wrong way, perceiving that he has lost his way, turns back his horse from that direction and makes him go the right way; so thou, turn back thy horse to the right way; that is to say, turn him to the way of the Law of Mazda; that is to say, receive the Law’ (Pahl. Comm.).
 
-[^1515]: 336:1 Bliss, eternal life.
+[^1447]: 336:1 Bliss, eternal life.
 
-[^1516]: 336:2 Yô nô . . . . nidârô anghê: lanman dîn bar â dâshtâr (Pahl.).
+[^1448]: 336:2 Yô nô . . . . nidârô anghê: lanman dîn bar â dâshtâr (Pahl.).
 
-[^1517]: 336:3 Naêdh<i>k</i>a vanghê paiti u<i>s</i>ta vanghô buyâ<i>t</i>; saoshyãs dî<i>s</i> verethraga. I cannot make anything of these words, nor reconcile them with the Pahlavi translation: ‘It is not fair when he wishes weal for his own person; that is to say, when, being satisfied himself, he does not satisfy other people and wishes comfort for himself. (Make the Law of Mazda current, till the time when) the victorious Sôshyôsh will make it current.’ The last three Zend words appear to be abridged from a longer passage.
+[^1449]: 336:3 Naêdh<i>k</i>a vanghê paiti u<i>s</i>ta vanghô buyâ<i>t</i>; saoshyãs dî<i>s</i> verethraga. I cannot make anything of these words, nor reconcile them with the Pahlavi translation: ‘It is not fair when he wishes weal for his own person; that is to say, when, being satisfied himself, he does not satisfy other people and wishes comfort for himself. (Make the Law of Mazda current, till the time when) the victorious Sôshyôsh will make it current.’ The last three Zend words appear to be abridged from a longer passage.
 
-[^1518]: 336:4 The faithful man.
+[^1450]: 336:4 The faithful man.
 
-[^1519]: 336:5 This is an allusion to the Bareshnûm purification (Vend. VIII, 39). The unclean man washes himself with gômêz first and with water last.
+[^1451]: 336:5 This is an allusion to the Bareshnûm purification (Vend. VIII, 39). The unclean man washes himself with gômêz first and with water last.
 
-[^1520]: 336:6 Doubtful.
+[^1452]: 336:6 Doubtful.
 
-[^1521]: 336:7 The sinner.
+[^1453]: 336:7 The sinner.
 
-[^1522]: 336:8 Friendly to the Law.
+[^1454]: 336:8 Friendly to the Law.
 
-[^1523]: 336:9 He recites the prayer Sraotâ mê, mere<i>z</i>dâta mê (Yasna XXXIII, 11).
+[^1455]: 336:9 He recites the prayer Sraotâ mê, mere<i>z</i>dâta mê (Yasna XXXIII, 11).
 
-[^1524]: 336:10 The world above.
+[^1456]: 336:10 The world above.
 
-[^1525]: 337:1 The Amesha-Spe<i>n</i>tas (see § 46).
+[^1457]: 337:1 The Amesha-Spe<i>n</i>tas (see § 46).
 
-[^1526]: 337:2 To Vî<i>s</i>tâspa.
+[^1458]: 337:2 To Vî<i>s</i>tâspa.
 
-[^1527]: 337:3 Hathwadh<i>k</i>a: Pahl. tîz<i>k</i>i.
+[^1459]: 337:3 Hathwadh<i>k</i>a: Pahl. tîz<i>k</i>i.
 
-[^1528]: 337:4 Cf. Vend. III, 29.
+[^1460]: 337:4 Cf. Vend. III, 29.
 
-[^1529]: 337:5 If he practises charity he will be a king even in Garôthmân.
+[^1461]: 337:5 If he practises charity he will be a king even in Garôthmân.
 
-[^1530]: 337:6 Aspahê, from a-spa (no comfort, anâsânîh tangîh, Pahl. Comm.).
+[^1462]: 337:6 Aspahê, from a-spa (no comfort, anâsânîh tangîh, Pahl. Comm.).
 
-[^1531]: 337:7 The Law.
+[^1463]: 337:7 The Law.
 
-[^1532]: 338:1 Hvarishnî dâgh pun rôi<i>s</i>manî lak yahvûnât (Pahl. Comm.).
+[^1464]: 338:1 Hvarishnî dâgh pun rôi<i>s</i>manî lak yahvûnât (Pahl. Comm.).
 
-[^1533]: 338:2 Charity.
+[^1465]: 338:2 Charity.
 
-[^1534]: 338:3 If thou art charitable, thy children will thrive.
+[^1466]: 338:3 If thou art charitable, thy children will thrive.
 
-[^1535]: 338:4 See Yt. XXII, 13.
+[^1467]: 338:4 See Yt. XXII, 13.
 
-[^1536]: 338:5 Cf. Vend. XVIII, 27.
+[^1468]: 338:5 Cf. Vend. XVIII, 27.
 
-[^1537]: 338:6 <i>H</i><i>v</i>arnamazd<i>a</i>u (W.).
+[^1469]: 338:6 <i>H</i><i>v</i>arnamazd<i>a</i>u (W.).
 
-[^1538]: 338:7 He who will pronounce all prayers and hymns: the full formula is found in the Âbân Nyâyi<i>s</i>, § 8.
+[^1470]: 338:7 He who will pronounce all prayers and hymns: the full formula is found in the Âbân Nyâyi<i>s</i>, § 8.
 
-[^1539]: 339:1 Cf. § 26.
+[^1471]: 339:1 Cf. § 26.
 
-[^1540]: 339:2 Cf. Vend. IV, 45; XVIII, 6.
+[^1472]: 339:2 Cf. Vend. IV, 45; XVIII, 6.
 
-[^1541]: 339:3 The supervision and care.
+[^1473]: 339:3 The supervision and care.
 
-[^1542]: 339:4 See § 27.
+[^1474]: 339:4 See § 27.
 
-[^1543]: 339:5 Thou Vî<i>s</i>tâspa.
+[^1475]: 339:5 Thou Vî<i>s</i>tâspa.
 
-[^1544]: 339:6 Ahura Mazda.
+[^1476]: 339:6 Ahura Mazda.
 
-[^1545]: 340:1 See Vend. XIII, 31.
+[^1477]: 340:1 See Vend. XIII, 31.
 
-[^1546]: 340:2 In Paradise; see Vend XVIII, 28, text and note.
+[^1478]: 340:2 In Paradise; see Vend XVIII, 28, text and note.
 
-[^1547]: 340:3 Satayâre: that stands a hundred years (?). The Vend. XVIII, 28 has ‘with a hundred columns.’
+[^1479]: 340:3 Satayâre: that stands a hundred years (?). The Vend. XVIII, 28 has ‘with a hundred columns.’
 
-[^1548]: 340:4 Uninjured by the changes of temperature.
+[^1480]: 340:4 Uninjured by the changes of temperature.
 
-[^1549]: 340:5 Cf. § 34.
+[^1481]: 340:5 Cf. § 34.
 
-[^1550]: 341:1 In Paradise (Pahl. Comm.).
+[^1482]: 341:1 In Paradise (Pahl. Comm.).
 
-[^1551]: 341:2 Doubtful.
+[^1483]: 341:2 Doubtful.
 
-[^1552]: 341:3 Cf. Vend. XXI, 6-7.
+[^1484]: 341:3 Cf. Vend. XXI, 6-7.
 
-[^1553]: 341:4 The Law.
+[^1485]: 341:4 The Law.
 
-[^1554]: 341:5 That is to say, let not impiety prevail.
+[^1486]: 341:5 That is to say, let not impiety prevail.
 
-[^1555]: 341:6 If impiety prevails, the earth will grow barren (cf. Vend. XVIII, 64).
+[^1487]: 341:6 If impiety prevails, the earth will grow barren (cf. Vend. XVIII, 64).
 
-[^1556]: 342:1 The demons (see Vend. VIII, So).
+[^1488]: 342:1 The demons (see Vend. VIII, So).
 
-[^1557]: 342:2 Nôi<i>t</i> ta<i>t</i> paiti vohu manô katha sîsraya aya<i>k</i>a. The Pahlavi Commentary has: ‘That is to say, good will happen to thee through the good will of Âtar (fire).’
+[^1489]: 342:2 Nôi<i>t</i> ta<i>t</i> paiti vohu manô katha sîsraya aya<i>k</i>a. The Pahlavi Commentary has: ‘That is to say, good will happen to thee through the good will of Âtar (fire).’
 
-[^1558]: 342:3 Te <i>k</i>inashanya (W.;—read taê<i>k</i>a nashanya?); âigh harvaspîn bêshîtârân min spînâk mînôi dâmân lvît apêtâk avîn yahvûnît (Pahl. Comm.).
+[^1490]: 342:3 Te <i>k</i>inashanya (W.;—read taê<i>k</i>a nashanya?); âigh harvaspîn bêshîtârân min spînâk mînôi dâmân lvît apêtâk avîn yahvûnît (Pahl. Comm.).
 
-[^1559]: 342:4 Yatha ya<i>t</i> tê fravao<i>k</i>âmi (fravao<i>k</i>âma, W.) puthrô berethyâ<i>t</i> sairimananãm (sairi mananãm, W.) bakhedhrâi (translated as hakhedhrâi: dôstîh, friendship).
+[^1491]: 342:4 Yatha ya<i>t</i> tê fravao<i>k</i>âmi (fravao<i>k</i>âma, W.) puthrô berethyâ<i>t</i> sairimananãm (sairi mananãm, W.) bakhedhrâi (translated as hakhedhrâi: dôstîh, friendship).
 
-[^1560]: 342:5 This chapter is borrowed, though slightly altered, from Yt. XXII.
+[^1492]: 342:5 This chapter is borrowed, though slightly altered, from Yt. XXII.
 
-[^1561]: 342:6 Read u<i>s</i>tavaiti (?cf. § 54 and Yt. XXII, 2): the Vahi<i>s</i>tôi<i>s</i>ti Gâtha is the fifth and last Gâtha.
+[^1493]: 342:6 Read u<i>s</i>tavaiti (?cf. § 54 and Yt. XXII, 2): the Vahi<i>s</i>tôi<i>s</i>ti Gâtha is the fifth and last Gâtha.
 
-[^1562]: 342:7 On the night of his departing.
+[^1494]: 342:7 On the night of his departing.
 
-[^1563]: 342:8 Not in the Good-Word Paradise, to which he will go later (§ 61), but in the thought and delightful remembrance of his good words (cf. Yt. XXII, 2).
+[^1495]: 342:8 Not in the Good-Word Paradise, to which he will go later (§ 61), but in the thought and delightful remembrance of his good words (cf. Yt. XXII, 2).
 
-[^1564]: 343:1 Supplied from Yt. XXII, 7.
+[^1496]: 343:1 Supplied from Yt. XXII, 7.
 
-[^1565]: 344:1 From Yt. XXII, 12-13.
+[^1497]: 344:1 From Yt. XXII, 12-13.
 
-[^1566]: 345:1 This clause, taken from Yt. XXII, 20, shows that the second part of Yt. XXII (§§ 19-36), describing the fate of the wicked, should be inserted here.
+[^1498]: 345:1 This clause, taken from Yt. XXII, 20, shows that the second part of Yt. XXII (§§ 19-36), describing the fate of the wicked, should be inserted here.

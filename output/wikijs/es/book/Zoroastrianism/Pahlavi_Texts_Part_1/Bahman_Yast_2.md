@@ -89,6 +89,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 64\. Quienquiera [^73] de los existentes, con reverencia hacia el bien, realiza mucha adoración a Aûharmazd, Aûharmazd, consciente de ello por su rectitud, le otorga todo aquello que Aûharmazd conoce por su rectitud, como remuneración y recompensa por su deber y buenas obras, y a esos miembros <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> de la congregación, hombres y mujeres, los reverencio; y a los arcángeles, que también son hombres y mujeres, ellos son buenos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

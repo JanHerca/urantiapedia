@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Y un hijo adoptivo designado es aquel que debe ser designado entre los parientes aptos para la adopción, y más cercanos a quien será designado _como_ hijo adoptivo, y los ministros (pa<i>d</i>ân) de la religión, _y_ desempeña el deber de <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> tutela familiar [^3]; quien es designado es aquel que es designado por los hombres _que son_ los parientes más cercanos (nabânazdi<i>s</i>tânŏ) debido a la proximidad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

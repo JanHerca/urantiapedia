@@ -58,6 +58,8 @@ Dk. IX, Chap. XVIII, 2, refers to the passage thus quoted in Sls. X, 8:—‘For
 
 No allusion has been noticed in Dk. IX to another passage which is thus quoted in Sls. XII, 32: ‘In the Stûdgar it says thus: “What prepares sneezing? that is, through what process (kâr) does it come?” And Aûha<i>r</i>ma<i>z</i><i>d</i> spoke thus: "Hungry living, <i>O</i> Zaratû<i>s</i>t! moreover, the remedy for its existence is the Ahunavair, <i>O</i> Zaratû<i>s</i>t! _and_ the Ashem (aharâyîh)."’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

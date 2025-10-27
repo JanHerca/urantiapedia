@@ -87,6 +87,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 155\. Sur ce sujet, cependant, pour autant que nous soyons ici complets.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

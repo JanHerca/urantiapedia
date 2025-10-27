@@ -72,6 +72,8 @@ ZAND CATÉCHÉTIQUE [^1122].
 
 21\. Nous sacrifions aux différentes parties de l'Ahuna-vairya. Nous sacrifions à la récitation mémorisée de l'Ahuna-vairya, à son chant régulier et à son utilisation dans le Yasna complet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 7\. Comment l'acceptation de cette religion _par_ les prophètes avant Zaratûst _s'est produite_ [^10], comment le pur _et_ saint Zaratûst des Spîtâmas est venu [^11], et qui _viendra_ par la suite comme porteurs de la même pure et bonne religion ci-après [^12]. 8. C'est-à-dire, parmi les prophètes, les apôtres et ceux qui acceptaient la religion, il y en avait qui l'acceptaient de manière concise et complète, comme Gâyômar<i>d</i>, de qui provenaient irrégulièrement (durû<i>s</i>takŏ) _tels_ que Masyê et Sîyâmak, Hâôshâng, Tâkhmôrup, Yim, Frê<i>d</i>ûn, Mânû<i>s</i><i>k</i>îhar, le Sâmân, le Kayân, et aussi beaucoup d'autres chefs de _ces_ époques [^13]. 9. Et leur acceptation expresse à divers moments est produite pour l'action, et ainsi l'adversité des créatures est écartée, bénéfice <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> et la prospérité sont recherchées, le monde est contrôlé et le créateur et les bonnes créations sont apaisés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

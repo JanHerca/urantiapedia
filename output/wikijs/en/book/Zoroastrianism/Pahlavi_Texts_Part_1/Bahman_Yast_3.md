@@ -98,6 +98,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 63\. May the end be in peace, pleasure, and joy, by the will of God (yazdânŏ)! so may it be! even more so may it be!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

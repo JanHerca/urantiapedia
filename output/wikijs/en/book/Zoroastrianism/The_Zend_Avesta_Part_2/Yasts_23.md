@@ -124,6 +124,8 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -150,60 +152,60 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 ## Footnotes
 
-[^1427]: 324:1 The Zartusht-Namah, translated by E. B. Eastwick, in Wilson's Parsi Religion, p. 495.
+[^1359]: 324:1 The Zartusht-Namah, translated by E. B. Eastwick, in Wilson's Parsi Religion, p. 495.
 
-[^1428]: 324:2 Ibid. p. 499.
+[^1360]: 324:2 Ibid. p. 499.
 
-[^1429]: 324:3 Ibid. p. 501.
+[^1360]: 324:3 Ibid. p. 501.
 
-[^1430]: 324:4 See Yt. XXIII, 2; whether Anquetil's statement to that effect (Zend-Avesta II, 623) rests on independent tradition or only on the text of our Ya<i>s</i>t is not clear.
+[^1361]: 324:4 See Yt. XXIII, 2; whether Anquetil's statement to that effect (Zend-Avesta II, 623) rests on independent tradition or only on the text of our Ya<i>s</i>t is not clear.
 
-[^1431]: 324:5 See above, [p. 70](../Yasts_5#p70), note [1](../Yasts_5#fn344).
+[^1362]: 324:5 See above, [p. 70](../Yasts_5#p70), note [1](../Yasts_5#fn344).
 
-[^1432]: 325:1 For instance, §§ 28, 30, 31, 39, &c.
+[^1363]: 325:1 For instance, §§ 28, 30, 31, 39, &c.
 
-[^1433]: 325:2 The various readings in Mr. West's manuscript are indicated by the letter W. in the notes.
+[^1364]: 325:2 The various readings in Mr. West's manuscript are indicated by the letter W. in the notes.
 
-[^1434]: 325:3 See the introduction to this Ya<i>s</i>t and Yt. XXIV, 3, text and note.
+[^1365]: 325:3 See the introduction to this Ya<i>s</i>t and Yt. XXIV, 3, text and note.
 
-[^1435]: 326:1 Cf. Yt. V, 33.
+[^1366]: 326:1 Cf. Yt. V, 33.
 
-[^1436]: 326:2 Cf. Yt. V, 68
+[^1367]: 326:2 Cf. Yt. V, 68
 
-[^1437]: 326:3 Cf. Yt. XV, 11.
+[^1368]: 326:3 Cf. Yt. XV, 11.
 
-[^1438]: 326:4 Cf. Yt. V,29.
+[^1369]: 326:4 Cf. Yt. V,29.
 
-[^1439]: 326:5 Cf. Yt. V, 37.
+[^1370]: 326:5 Cf. Yt. V, 37.
 
-[^1440]: 326:6 See Yt. XV, 28.
+[^1371]: 326:6 See Yt. XV, 28.
 
-[^1441]: 326:7 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^1372]: 326:7 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^1442]: 326:8 One belonging to the Âthwya family, of which Thraêtaona was a member. All of them bore names that show them to have been rich in cattle: Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, &c. (‘one with abundant oxen, with useful oxen, with the brown ox, &c.,’ Bundahi<i>s</i>, tr. West, XXXI, 7, note 8).
+[^1373]: 326:8 One belonging to the Âthwya family, of which Thraêtaona was a member. All of them bore names that show them to have been rich in cattle: Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, &c. (‘one with abundant oxen, with useful oxen, with the brown ox, &c.,’ Bundahi<i>s</i>, tr. West, XXXI, 7, note 8).
 
-[^1443]: 326:9 Pouru<i>s</i>\-aspa was the father of Zarathu<i>s</i>tra. His name means, ‘He who possesses many horses,’ πολύ-ιππος.
+[^1374]: 326:9 Pouru<i>s</i>\-aspa was the father of Zarathu<i>s</i>tra. His name means, ‘He who possesses many horses,’ πολύ-ιππος.
 
-[^1444]: 326:10 Cf. Yt. V, 61.
+[^1375]: 326:10 Cf. Yt. V, 61.
 
-[^1445]: 326:11 Cf. Yt. XXIV, 4.
+[^1376]: 326:11 Cf. Yt. XXIV, 4.
 
-[^1446]: 327:1 Of Vî<i>s</i>tâspa and his wife Hutaosa.
+[^1377]: 327:1 Of Vî<i>s</i>tâspa and his wife Hutaosa.
 
-[^1447]: 327:2 Cf. Yt. XXIV, 4.
+[^1378]: 327:2 Cf. Yt. XXIV, 4.
 
-[^1448]: 327:3 Cf. Sîrôzah, § 11.
+[^1379]: 327:3 Cf. Sîrôzah, § 11.
 
-[^1449]: 327:4 Cf. Yt. XI.
+[^1380]: 327:4 Cf. Yt. XI.
 
-[^1450]: 327:5 Cf. Yt. XII, Introduction.
+[^1381]: 327:5 Cf. Yt. XII, Introduction.
 
-[^1451]: 327:6 Cf. Yt. XIV.
+[^1382]: 327:6 Cf. Yt. XIV.
 
-[^1452]: 327:7 Cf. Yt. XV.
+[^1383]: 327:7 Cf. Yt. XV.
 
-[^1453]: 327:8 Kai Khosrav went alive to Paradise (Firdausi).
+[^1384]: 327:8 Kai Khosrav went alive to Paradise (Firdausi).
 
-[^1454]: 327:9 He closes his blessing by wishing him bliss in heaven.
+[^1385]: 327:9 He closes his blessing by wishing him bliss in heaven.
 
-[^1455]: 327:10 Yasna XXXV, 2 (4-5).
+[^1386]: 327:10 Yasna XXXV, 2 (4-5).

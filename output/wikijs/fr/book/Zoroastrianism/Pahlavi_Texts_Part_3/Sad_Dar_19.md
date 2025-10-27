@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2 Car il est déclaré dans la révélation, que, comme pour quiconque replante un arbrisseau, tant que cet arbrisseau ou cet arbre existe à cet endroit, toute bonne œuvre que quiconque mange de cet arbrisseau, fait dans cet état de satiété devient celle de l'agriculteur, tout comme celles qui sont faites de sa propre main. 3. Si quelqu'un l'ordonne, tout comme cette bonne œuvre se produit [^1] beaucoup de nouveau repos (râ'hat) et de réconfort atteignent son âme [^2]. 4. Quant au blé et au grain ('hubûb) et à tout ce qu'ils sèment, il en est exactement ainsi [^3], car en ce qui concerne quiconque mange du blé, de l'orge et d'autres céréales, et accomplit des devoirs et de bonnes œuvres, elles deviennent celles du semeur de [^4] ces céréales, tout comme celles qui sont faites de sa propre main. 5. Parce que, pour la vie de l'humanité, une récolte était nécessaire, la création d'un <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> créateur [^5] après l'être sacré, le plus haut [^6], grâce au travail de l'agriculteur. 6. Car quiconque mange quelque chose meurt, par conséquent, en ce qui concerne la personne par le travail de laquelle la vie de l'humanité est établie, il est nécessaire de la considérer comme précieuse et précieuse.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

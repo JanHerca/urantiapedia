@@ -66,6 +66,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 37 [^28].     .     .     .     .     .     .     .     .     .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

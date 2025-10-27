@@ -51,6 +51,8 @@ dateCreated: 2025-2-12T13:0:42Z
 16-18. (Ver Y. XV, 2; Y. LVI, 3-4 [^1340].)
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

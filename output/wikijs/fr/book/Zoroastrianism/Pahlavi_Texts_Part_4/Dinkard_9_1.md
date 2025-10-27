@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 2\. Le neuvième livre (babâ) traite des Hâs _et_ des Fargard<i>d</i>s [^2] des divers Nasks ; l'objet d'obtenir la division de ces portions qui existent _étant_ dû à la quantité de ce qui est dans chacun des Nasks ; _également_ une explication d'une sélection appropriée [^3] de celles-ci, telle qu'elle est un résumé (nisangag-1) des nombreux détails qui y sont contenus.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

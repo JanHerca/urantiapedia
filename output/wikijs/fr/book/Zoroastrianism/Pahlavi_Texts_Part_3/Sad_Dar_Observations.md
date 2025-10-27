@@ -59,6 +59,8 @@ La (daté de 1575 après J.-C.) Persan, en écriture Avesta, alternant avec Gu<i
 
 Lp (sans date) persan, n° 2506 des manuscrits persans de la même bibliothèque.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

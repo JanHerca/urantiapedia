@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Et il est encore plus avantageux pour les prêtres et les enseignants d'enseigner les caractères de l'Avesta à tous ceux de la bonne religion [^1] : et si un prêtre, en enseignant, fait preuve d'incompétence (taqʓîr), c'est un grand péché pour lui. 3. Car Hôrmazd, le bon et propice, parla ainsi à Zaratu<i>s</i>t : « Quant à tout prêtre et enseignant qui commet une faute en enseignant [^2] ceux de la bonne religion, je le place aussi loin du ciel que la largeur de la terre [^3]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

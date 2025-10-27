@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Cuando se cumplen las instrucciones de estas tres personas, se cumple el cumplimiento de los mandatos del ser sagrado. 6. Especialmente las instrucciones de los sumos sacerdotes, porque su satisfacción está conectada con la satisfacción del ser sagrado; y los sumos sacerdotes poseen tanta dignidad (martabat) en presencia del ser sagrado, el bueno y propicio, que son perfectamente capaces de perdonar cualquier pecado trivial de la humanidad [^7], y Hôrmazd, el bueno y propicio, rápidamente [^8] perdona ese pecado al sumo sacerdote. 7. <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> Por lo tanto, cumplir los mandatos de los sumos sacerdotes se vuelve [^9] obligatorio para todos; y el cumplimiento de esta máxima es _mejor_ que el de todo un conjunto de máximas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

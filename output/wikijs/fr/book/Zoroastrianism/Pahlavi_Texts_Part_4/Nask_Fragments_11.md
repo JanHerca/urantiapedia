@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 Aucune citation de ce Nask n'a encore été remarquée.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

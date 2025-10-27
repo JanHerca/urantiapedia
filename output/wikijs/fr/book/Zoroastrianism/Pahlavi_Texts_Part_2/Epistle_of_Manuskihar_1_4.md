@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 15\. Et une apparence de cela ressort même de ce qu'ont dit le glorifié Nîshahpûhar, le prêtre officiant suprême [^34], ainsi que d'autres prêtres officiants d'Aûha<i>r</i>ma<i>z</i><i>d</i>, qu'il ne faut pas modifier aucun de leurs enseignements à ce sujet après qu'il a été fourni, et ne pas rendre inutiles les déclarations d'autres autorités à ce sujet. 16. Mais ce qu'ils devraient accepter d'eux comme une certitude, c'est de maintenir les déclarations des autres grands prêtres comme prééminentes ; et de ne pas modifier l'application des déclarations d'une autre description qui ont semblé licites. 17. De même, il en fut ainsi de ce même Nîshahpûhar, au conseil du glorifié (anôshakŏ rûbânô) Khûsrô [^35], roi des <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> rois _et_ fils de Kavâ<i>d</i>, -- en préservant les choses anciennes (ligânŏ) -- qui montra la voie sur les pensées de qui elles sont établies, et les écrivit sans les modifier, de sorte que ces pensées à ce sujet devinrent pour ainsi dire décidées ; et leurs pensées à ce sujet, après un tel décret de sa part, devinrent ainsi unanimes. 18. Par l'importance de son rang assuré, et le reste qu'il a dit dans l'œuvre de soutien des fidèles, il maintient autant que les autres déclarations, une à une, de l'enseignement délibératif de ces grands prêtres.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ _Nikadum Nask_.
 
 7\. Le rituel pour la guérison d'une blessure et la disparition de la douleur, la surveillance de celle-ci pendant trois nuits ou un an, sa plus grande misère ou sa moindre misère, sa guérison (s<i>p</i>ôrîkîh) ou son incurabilité, et tout ce qui concerne le même sujet. 8. Énumérations triviales et décisions sur chacune séparément.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Para los reyes, la conversación con los sabios y buenos es lo <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> más ventajoso, (5) y hablar y conversar con calumniadores y dobles traidores es lo más perjudicial para ellos».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

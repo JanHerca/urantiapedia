@@ -59,6 +59,8 @@ This Gâtha, consisting of seven chapters of the Yasna (XXVIII-XXXIV), takes its
 
 An analysis and general summary is placed before each chapter as more convenient than massing them all together. The reader is reminded that the rhythm of the original, so far as it could be reasonably conjectured, is somewhat imitated in parts of the translations.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

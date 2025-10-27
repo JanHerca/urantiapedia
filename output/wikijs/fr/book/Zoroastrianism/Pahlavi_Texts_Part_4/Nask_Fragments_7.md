@@ -38,6 +38,8 @@ dateCreated: 2025-10-10T14:56:56Z
 Dk. VIII, Chap. VIII, 4, se réfère probablement au passage contenant la déclaration ainsi mentionnée dans Sls. X, 29 : « Dans le Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtîh, on dit beaucoup de choses dures sur la punition sévère des inutiles (avi<i>g</i>î<i>d</i>âr-daî<i>s</i>nânŏ) [^2] dans l'existence spirituelle. »
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

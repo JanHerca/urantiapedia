@@ -66,6 +66,8 @@ Y. L, 1. Oui, mon âme obtient vraiment l'assistance <span id="p171"><sup><small
 
 11\. Je serais donc appelé ton louange, et plus encore, tant que par ta justice j'en serai capable et en aurai le pouvoir. Que le Créateur du monde m'aide par sa bonté (implantée) en mes compagnons de service. Et que tout cela soit fait [^784] (pour notre bien) qui, par sa véritable grâce, est le plus favorable (à la cause) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

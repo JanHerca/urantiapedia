@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 12\. Vous _devriez_ comprendre que de même nature est la similitude des trois enseignements dont vous _avez_ écrit, avec cette similitude que j'ai _dépeinte_ [^19] _et_ ordonnée de former _et_ de_ schématiser, afin que vous _puissiez_ la regarder plus clairement, dans un juste souci de votre propre délivrance [^20], _pour_ l'intellectualité acérée <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> de ceux qui réexpliquent _ce qui n'est_ pas_ bien considéré _en rapport_ avec_ son_ but_ (âhankŏ), _et_ pour_ l'accumulation _d'opinions_ qui est constante dans la loi des anciens _et_ vous ordonne_ d'y prêter attention. 13. Car, en raison du caractère miraculeux et de la prééminence de cela [^21], celui qui pense restaurer les bonnes idées des anciens ne comprend pas lui-même la connaissance de cette sagesse des anciens, et ne garde pas sa propre présomption (mînîh) humble et enseignable ; beaucoup aussi, ce qui est par sa propre érudition est déclaré être hors de la loi (de la loi), et la façon dont il nous ordonne de le comprendre, c'est par sa propre opinion [^22].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

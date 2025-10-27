@@ -46,6 +46,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 15\. And when thirty winters of the tenth century _are_ unelapsed, that maiden, who is Gôbâk-abû [^7], walks up to the water; she that is the mother of that testifying Sôshâns who is the guide to conveying away the opposition of the destroyer, and her former lineage is from Vôhû-rô<i>k</i>ô-î Frahânyân [^8] in the family of Îsa<i>d</i>vâstar, the son of Zaratû<i>s</i>t _that_ is brought forth by Arang. 16. ‘That maiden whose title is All-overpowerer is thus all-overpowering, because through giving birth she brings forth him who over-powers all, both the affliction owing to demons, and also that owing to mankind [^9].’ 17. Then she sits in that water, when she is fifteen years old, _and_ it introduces _into_ the girl him ‘whose name is the Triumphant Benefiter, and _his_ title is the Body-maker; such a benefiter as benefits (savînê<i>d</i>ŏ) the whole embodied existence, and such a body-maker, alike possessing body and possessing life, as petitions about the disturbance of the embodied existences _and_ mankind [^10].’ 18. Not before that _has she_ associated with men; nor yet afterwards, when she becomes pregnant, _has she done so_ before the time when she gives birth [^11]. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> 19\. When that man becomes thirty years old, the sun stands still in the zenith of the sky _for_ the duration of thirty days _and_ nights, and it arrives again at that place where it _was_ appointed by allotment.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

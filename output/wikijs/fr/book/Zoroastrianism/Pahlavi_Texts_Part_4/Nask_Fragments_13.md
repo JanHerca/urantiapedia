@@ -48,6 +48,8 @@ Dans Sls. XII, 3, il est dit que « dans le Spend, il est révélé qu'un feu, l
 Dans Sls. XII, 15, il est dit que « dans le Spend et le Nihâ<i>d</i>ûm, les grands prêtres ont enseigné que le devoir et les bonnes œuvres qu'un fils accomplit appartiennent autant au père que s'ils avaient été faits de sa propre main. »
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

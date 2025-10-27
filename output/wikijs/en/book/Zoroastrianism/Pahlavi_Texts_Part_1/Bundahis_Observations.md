@@ -62,6 +62,10 @@ M6 (written A.D. 1397), No. 6 of the Haug Collection in the State Library at Mun
 
 TD (written about A.D. 1530), belonging to Mobad Tehmuras Dinshawji Anklesaria at Bombay.
 
+<br>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

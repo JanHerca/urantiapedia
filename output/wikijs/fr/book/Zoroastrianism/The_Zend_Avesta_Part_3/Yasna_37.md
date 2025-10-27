@@ -40,6 +40,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Et nous adorons le Bon Esprit (du Seigneur), et Sa Puissance Souveraine, et la Bonne Foi, la bonne loi de notre épargne, et la Piété l'esprit prêt (au sein de Ton peuple) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

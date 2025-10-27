@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 10\. «Y la esfera _celestial_ es más poderosa. 11. El intelecto [^6] de la humanidad es más veloz. 12. Las almas de los justos son más felices. 13. _Y_ las de los malvados son más arrepentidas [^7].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

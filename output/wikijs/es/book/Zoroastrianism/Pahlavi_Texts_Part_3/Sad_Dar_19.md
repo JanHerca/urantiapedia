@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2 Pues se declara en la revelación que, para quien replanta un arbusto mientras ese arbusto o árbol existe en el lugar, toda buena obra que quien come de ese arbusto realiza en ese estado de plenitud se convierte en la del agricultor, al igual que las que realiza con sus propias manos. 3. Si alguien lo ordena, al ocurrir esa buena obra [^1], mucho reposo (râ'hat) y consuelo llegan a su alma [^2]. 4. En cuanto al maíz y el grano ('hubûb) y todo lo que siembran, es así [^3], porque, en cuanto a quien come trigo, cebada y otros granos, y realiza deberes y buenas obras, se convierten en las del sembrador de [^4] esos granos, al igual que las que realiza con sus propias manos. 5. Porque, para la vida de la humanidad era necesaria una cosecha, la creación de una <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> creador [^5] después del ser sagrado, el altísimo [^6], debido al trabajo del agricultor. 6. Porque todo aquel que come algo muere, por lo tanto, _en cuanto a_ aquella persona por cuyo trabajo se establece la vida de la humanidad, es necesario considerarla valiosa y preciosa.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 9\. Quiconque éteint [^11] un feu, par lui dix feux seront rassemblés, par lui dix châtiments seront endurés, par lui dix fourmis seront détruites [^12], et par lui de l'eau bénite (zôhar) sera présentée au feu sacré (âtâ<i>s</i>\-i Vâhrâm).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

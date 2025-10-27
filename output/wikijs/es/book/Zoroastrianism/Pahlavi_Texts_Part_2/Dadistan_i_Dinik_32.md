@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 12\. Y en el momento de la renovación, cuando el demonio perece, las almas de los malvados pasan al metal fundido (ayênŏ) [^10] _por_ tres días; y todos los demonios y malos pensamientos, que se deben a su pecado, tienen angustia efectiva, y son apresurados _lejos_ por el corte y la ruptura _lejos_ de la acumulación (ham-dâ<i>d</i>akîh) de pecado de las almas malvadas. 13. Y por esa ablución preeminente (a<i>v</i>artûm) en el metal fundido son completamente purificados de la culpa y la infamia (dastŏ va raspakŏ), y a través de la perseverancia (khvâparîh) [^11] y la misericordia de los persistentes preeminentes son perdonados, y se vuelven los más santos (môgtûm) puros; Como se dice en metáfora, los puros son de dos tipos: uno glorioso (khvârvatô) y otro metálico (ayênavatŏ) [^12]. <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> 14\. Y tras esa purificación, no hay demonios, ni castigo, ni infierno para los malvados, y su destino (vîrâstakŏ) también es justo; se vuelven justos, indoloros, inmortales, intrépidos y libres de daño. 15. Y con ellos llega el espíritu de las buenas obras que realizaron e instigaron en el mundo, y les procura placer y alegría en la medida y proporción de esas buenas obras. 16. Pero la recompensa del alma de los justos es una mejor formación (vêhdâ<i>d</i>îh) y más [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

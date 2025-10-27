@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 27\. « Le mauvais gouvernement est celui (28) qui détruit la vraie et juste loi et coutume, (29) et entraîne [^12] l'oppression, le pillage et l'imprudence. 30. Il dissipe le trésor de l'existence spirituelle, (31) et considère le devoir et les bonnes œuvres comme une vexation, par cupidité [^13]. 32. Il empêche une personne accomplissant de bonnes œuvres d'en faire de bonnes, (33) et elle devient ainsi un malfaiteur. (34) Son déboursement [^14], aussi, de toute sorte, est pour son propre égoïsme, (35) l'administration [^15] du trésor <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> de l'existence mondaine, (36) la célébrité [^16] _et_ l'exaltation du vil, (37) la destruction _et_ la négligence du bon, (38) _et_ l'annihilation du pauvre. 39. Un mauvais roi, qui [^17] est de cette sorte, est appelé égal à Aharman et aux démons.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

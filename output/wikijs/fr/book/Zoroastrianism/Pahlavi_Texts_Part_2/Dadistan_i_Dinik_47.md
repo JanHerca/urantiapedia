@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 9\. Un profond respect pour leurs mérites respectifs est un avantage et une nécessité absolue, l'habileté dans le commentaire et celle dans l'Avesta s'aidant mutuellement ; car même les célébrants de l'Avesta ont besoin des informations du commentaire sur les usages épars (parvand) « convenables » et « inconvenants » de la cérémonie sacrée. 10. Les informations plus pertinentes du commentaire sont avantageuses lorsque le cérémonial est mené par eux, et que l'un des deux est habile, ami, pourvoyeur, glorificateur et magnificateur de l'autre ; et les amis de la religion sont de bons amis et, par conséquent, des pourvoyeurs de renommée pour tous les deux. <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 11\. Quand aussi ils publient des déclarations accusatrices, l'un contre l'autre, par nécessité, ou par violence due à l'adversaire [^12], il est important de devenir un excuseur à leur égard, et non pas un diminuteur de leur part, ni un porteur (âkhtâr) de malsain pour leur force unie.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

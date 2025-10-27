@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 10\. So that when _it is_ the propitiatory dedication for the day Khûr of the month of consecration Â<i>v</i>ân [^10], the day _and_ month are such that their order and the Âtûr (‘fire’) and Â<i>v</i>ân (‘waters’) succeeding them are thereby set in reverse order to the _proper_ sequence [^11]. 11. Then, too, when in the same month [^12] its propitiatory dedication for the day _and_ month becomes _alike for_ day and month [^13], it is recited as regards _both_ the month and the ‘waters’ (â<i>v</i>ân), because _they are_ not connected together and _have_ again become non-inclusive; _and_ then _one_ is to consider them as proper.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

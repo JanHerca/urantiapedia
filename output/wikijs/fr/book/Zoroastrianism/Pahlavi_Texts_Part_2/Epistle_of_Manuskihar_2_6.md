@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. Et aussi de mon départ, et de l'inexistence _d'un_ de vos amis, qui, comme moi, est moins capable de vous nuire que celui qui est _l'un_ des nombreux accusateurs dont c'est moi qui suis le frein, vous savez ceci, que ma venue est à cause de l'affection des uns et de la révérence des autres. 7. De l'exercice de la religion je ne m'écarte nullement, et à cause de la position de la religion je maintiens l'opposition [^5] à quiconque ; même lorsqu'il s'agit d'un ami que j'aime, je suis alors son antagoniste. 8. Le destin (zîkŏ) [^6] est la grande vérité du vide, la forme (andâm) [^7] qui a procuré la lumière de la vie.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

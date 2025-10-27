@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Y cuando cometen el pecado con las mujeres, es exactamente lo mismo que con los hombres.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -44,6 +44,8 @@ dateCreated: 2025-10-10T14:41:36Z
 Paz y prosperidad [^5].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

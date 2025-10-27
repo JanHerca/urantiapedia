@@ -87,6 +87,8 @@ De este recuento de todos los manuscritos del <i>S</i>ikand-gûmânîk Vi<i>g</i
 
 El <i>S</i>ikand-gûmânîk Vi<i>g</i>âr no ha sido traducido hasta ahora a ningún idioma europeo, pero Dastûr Hôshangji preparó una edición de sus textos Pâzand y Pahlavi hace unos quince años, y se han hecho arreglos para la publicación de estos textos, junto con la versión sánscrita, en una fecha próxima.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

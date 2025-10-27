@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:41:30Z
 2\. La respuesta es ésta: es de otra manera, pues la buena obra original se opone al pecado, y la buena obra en crecimiento [^3] se opone al crecimiento del pecado.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

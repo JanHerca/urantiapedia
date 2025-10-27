@@ -88,6 +88,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 64\. Whoever [^73] of those existing, thus, with reverence unto the good, performs much worship for Aûharmazd, Aûharmazd, aware of _it_ through righteousness, gives _him_ whatsoever Aûharmazd is aware of through righteousness, as remuneration _and_ reward of duty _and_ good works, and _such_ members of <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> the congregation, males and females, I reverence; and the archangels, who are also male and female, they are good.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

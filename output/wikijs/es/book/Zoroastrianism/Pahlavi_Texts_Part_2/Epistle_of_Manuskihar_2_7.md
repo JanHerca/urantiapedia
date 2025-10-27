@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Además, en cuanto a cambiar la ley de los quince lavados [^10], así como es _para_ Irán, donde se encuentran purificadores, se ordena que haya lugares sin purificadores; _y es_ en los países de Irán donde se da la orden respecto a los purificadores no designados para la obra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

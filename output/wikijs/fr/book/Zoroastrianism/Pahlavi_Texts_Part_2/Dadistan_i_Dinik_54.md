@@ -50,6 +50,8 @@ dateCreated: 2025-10-10T14:56:45Z
 14\. Lorsque la maîtresse de maison de la famille décède et que les filles sont pourvues d'un mari, la filiation adoptive doit être désignée.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

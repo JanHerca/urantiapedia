@@ -67,6 +67,8 @@ II. Una es esta, que los antiguos familiarizados con la religión _han_ comunica
 
 29\. Entonces, debido a que la gloria por este cinturón nuestro, llamado Kûstîk y que se usa en la mitad del cuerpo, permanece inédita (a<i>v</i>î-vûkht) de los ángeles, quienes dan gloria, y de los hombres gloriosos —lo cual se explica como una semejanza y ejemplo de fortunas (bâharakŏîhâ) entre los mundanos, incluso aquellos que son criaturas primitivas [^38]\—, ha parecido, por lo tanto, atractivo y deseable. 30. Y su corazón, voluntad, conocimiento y propósito están tan a favor como lo que es perceptible donde, incluso aparte de aquellos de la buena religión que atarán el cinturón del hilo sagrado con la fórmula de las escrituras, algunas de las religiones de todos los países, excepto aquellos que no usan cinturón, poseen la costumbre religiosa [^39]. 31. Además, fuera de la sede de la existencia de la fe [^40], todos los hombres tienen la cintura, o las palmas de las manos [^41], o articulaciones similares como faja (kûstîkŏ); _y_ se considera elegante, deseable y conveniente para el trabajo usarla. 32. Y _es_ manifiestamente la suerte (dakŏ) del que alaba profundamente, cuyo deseo es la verdad y el disfrute del bienestar, _es_ una muestra del servicio a los seres sagrados, y una señal de andar _en_ ​​los mandamientos de la religión, <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> que deben atar por causa de los seres superiores (pâshûmân) con la fórmula apropiada, más particularmente _con_ la que _se_ pronuncia cuando _hay_ confianza _en_ ​​la escritura misma.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

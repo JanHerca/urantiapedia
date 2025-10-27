@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. For our religion has reiterated on this matter that, if _one_ be polluted and do not keep himself pure, so long as he is living he never becomes clean from that pollution. 8. That, if he wash _his_ head ten thousand times in _ceremonial_ ablution, he certainly does not any _way_ become pure from it [^6]. 9. Because this pollution is not from without; it is from within every bone and vein and tendon; _and_ water makes clean _only_ anything that is on the skin. 10. Impurity which is _in_ the bones, except _through the liquid consecrated by_ the religious formula [^7], does not otherwise become clean.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

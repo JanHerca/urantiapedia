@@ -69,6 +69,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 92\. Los dos argumentos, cada uno por separado <span id="p146"><sup><small>[ p. 146 ]</small></sup></span>, del manuscrito Dînka<i>r</i><i>d</i>, tal como el erudito supremo [^14] los ha explicado a partir de su conocimiento de la religión, se exponen aquí en detalle. 93. Quien desee comprender plenamente la maravilla de la religión de adoración a Ma<i>z</i><i>d</i>a y las afirmaciones de la fe primitiva, (94) la examina en un manuscrito de ese carácter, (95) y comprenderá con mayor profundidad la maravilla y la verdad de la religión [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

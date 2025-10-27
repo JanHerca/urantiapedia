@@ -54,6 +54,8 @@ dateCreated: 2025-10-10T14:41:50Z
 13\. Los siete interrogatorios se explican dentro de la duración de estos inviernos, que son _de_ cinco meses, _y_ dentro de diez años [^17].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

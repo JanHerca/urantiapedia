@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 21\. That which they provide in _their_ lifetime is better [^13]; _and_, just as would occur when any one <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> plants a tree anew, _and_ is eating the fruit of it every year, even so much is that good work increasing every year. 22. If she shall live ten years, _or_ if a hundred years, even so long it is becoming every year much more [^14]. 23. If they provide _it_ after her _lifetime_, that which would be the increase departs; and in _her_ lifetime, also, that occurs which every one, who _has_ done a duty on his own account, has seen, that _the thing_ itself _which others_ accomplish after his _lifetime_ is very different; so that she _should_ provide _it_ with her own hands, not after her decease (vafât).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

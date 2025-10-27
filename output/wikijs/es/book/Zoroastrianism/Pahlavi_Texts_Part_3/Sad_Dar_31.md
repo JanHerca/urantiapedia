@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. En la _existencia_ terrenal, son los guardianes de los hombres y el ganado. 7. Si no hubiera existido el perro, no habrían podido cuidar ni una
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

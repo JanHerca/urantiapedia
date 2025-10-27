@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 24\. « Et le mouvement du soleil et de la lune est l'illumination particulière du monde, (25) et la maturation des procréations et des croissances de toutes sortes. 26. Et l'observation correcte du jour, du mois et de l'année, de l'été et de l'hiver, du printemps et de l'automne, et d'autres calculs et comptes de toutes sortes que les hommes devraient obtenir, percevoir et comprendre, (27) <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> sont plus complètement définis au moyen du coucher (ni<i>s</i>î<i>v</i>akŏ) [^17] du soleil et de la lune. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

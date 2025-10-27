@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. The spirit of wisdom answered (8) thus: Aharman deceives people most by prosperity and adversity [^1], the fiend of apostasy, scepticism, and covetousness. 9. His pleasure, also, is most from the discord of men. 10. And his food is from the impenitence [^2] and reticence of men. 11. He has a foundation in the malicious [^3]. 12. And his coming and going are most with the wrathful.'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

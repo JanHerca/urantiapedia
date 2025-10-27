@@ -86,6 +86,8 @@ Nous n'avons aucune raison de supposer que le Yasna existait sous sa forme actue
 
 23\. Je me confesserais moi-même comme un adorateur de Mazda, de l'ordre de Zarathustra, un ennemi des Daêvas, dévoué à la tradition du Seigneur, pour Hâvani, le saint seigneur de l'ordre rituel, pour (son) sacrifice, hommage, propitiation et louange, pour Sâvanghi, et pour Vîsya, le saint seigneur de l'ordre rituel, pour (son) sacrifice, hommage, propitiation et louange, et pour le sacrifice, l'hommage, la propitiation et la louange des seigneurs des jours dans leur durée, et des jours pendant la lumière du jour pour <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> celles des fêtes mensuelles, et pour celles des fêtes annuelles, et pour celles des saisons !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

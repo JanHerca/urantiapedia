@@ -90,6 +90,8 @@ Yathâ ahû vairyô; La voluntad del Señor es la ley de santidad . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -116,32 +118,32 @@ Yathâ ahû vairyô; La voluntad del Señor es la ley de santidad . . . .
 
 ## Notas al pie
 
-[^1252]: 283:1 Porque da alimento, rebaños y riquezas a quienes lo poseen.
+[^1190]: 283:1 Porque da alimento, rebaños y riquezas a quienes lo poseen.
 
-[^1253]: 284:1 Véase Vendîdâd, Introd. IV, 22.
+[^1191]: 284:1 Véase Vendîdâd, Introd. IV, 22.
 
-[^1254]: 284:2 Ibíd. Introd. IV, 24.
+[^1192]: 284:2 Ibíd. Introd. IV, 24.
 
-[^1255]: 284:3 Dudoso.
+[^1193]: 284:3 Dudoso.
 
-[^1256]: 284:4 ¿Un daeva o una enfermedad?
+[^1194]: 284:4 ? Un daêva o una enfermedad.
 
-[^1257]: 284:5 Véase Yt. VIII, 22.
+[^1195]: 284:5 Ver Yt. VIII, 22.
 
-[^1258]: 284:6 Véase Yt. XVII.
+[^1196]: 284:6 Véase Yt. XVII.
 
-[^1259]: 284:7 Quien da limosna a los pobres Mazdayasnians.
+[^1197]: 284:7 Quien da limosna a los pobres Mazdayasnians.
 
-[^1260]: 284:8 Incluso un pie (?), cuando no permanece allí 'por una larga amistad' (Yt. XVII, 6).
+[^1198]: 284:8 Incluso un pie (?), cuando no se queda allí 'por una larga amistad' (Yt. XVII, 6).
 
-[^1261]: 284:9 Para que la lluvia caiga a su tiempo (Yt. VIII, 11).
+[^1199]: 284:9 Para que la lluvia caiga a su tiempo (Yt. VIII, 11).
 
-[^1262]: 284:10 Cf. Yt. VIII, 29.
+[^1200]: 284:10 Cfr. Yt. VIII, 29.
 
-[^1263]: 284:11 Cf. § 2.
+[^1201]: 284:11 Cf. § 2.
 
-[^1264]: 285:1 Arshukhdha va<i>k</i>ô, las palabras conformes a los ritos.
+[^1202]: 285:1 Arshukhdha va<i>k</i>ô, las palabras conformes a los ritos.
 
-[^1265]: 285:2 Haoma<i>k</i>inem; véase Estudios iraníes, II, 148.
+[^1203]: 285:2 Haoma<i>kin</i>inem; véase Études Iraniennes, II, 148.
 
-[^1266]: 285:3 Quien habrá sacrificado a la Gloria Aria.
+[^1204]: 285:3 Quien habrá sacrificado a la Gloria Aria.

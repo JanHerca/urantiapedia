@@ -82,6 +82,8 @@ We sacrifice to the Gâtha Ahunavaiti, the holy, as it rules in the ritual order
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

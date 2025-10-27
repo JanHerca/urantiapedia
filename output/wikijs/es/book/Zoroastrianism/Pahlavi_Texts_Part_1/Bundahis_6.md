@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 1\. Sobre el conflicto [^1] de las creaciones del mundo con el antagonismo del espíritu maligno, se dice en la revelación que el espíritu maligno, al precipitarse y contemplar la pura valentía de los ángeles y su propia violencia [^2], quiso regresar corriendo. 2. El espíritu del cielo es como uno de los guerreros que se ha puesto una armadura; desplegó el cielo contra el espíritu maligno y lideró la contienda hasta que Aûharmazd completó una muralla alrededor, más fuerte que el cielo y frente a él. 3. Y sus espíritus guardianes (fravâhar), guerreros y justos, en caballos de guerra y lanza en mano, estaban alrededor del cielo; semejantes a los cabellos de la cabeza (ângunî-aîtak) de quienes vigilan la muralla. 4. Y el espíritu maligno no encontró paso, y regresó corriendo; y contempló la aniquilación de los demonios y su propia impotencia, como Aûharmazd, _vio_ su propio triunfo final, produciendo la renovación _del universo_ para siempre y para siempre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

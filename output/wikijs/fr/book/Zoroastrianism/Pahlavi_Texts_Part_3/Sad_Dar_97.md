@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Car dans le commentaire de l'Avesta, il est dit, _quant à_ quiconque introduit une altercation ('hu<i>g</i><i>g</i>at) dans une déclaration des anciens de la religion, '_il tire la langue, ou il sort de ce monde avorté (muba<i>t</i><i>t</i>alâ). »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Par conséquent, même si un péché est insignifiant, il n'est pas désirable de le commettre ; et il est nécessaire de s'en abstenir, afin qu'ils ne le commettent pas et qu'ils puissent devenir sans doute quant à la religion.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

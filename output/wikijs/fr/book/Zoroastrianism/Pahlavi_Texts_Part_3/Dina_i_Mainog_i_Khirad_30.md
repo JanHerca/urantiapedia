@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. L'esprit de sagesse répondit (5) ainsi : « La vie de celui qui vit dans la peur et le mensonge est la pire [^2]. 6. Et dans la sagesse, celui qui ne pourvoit pas [^3] à l'existence spirituelle et s'occupe de l'existence mondaine est d'autant plus inconscient. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

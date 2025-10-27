@@ -106,6 +106,8 @@ Traduction.
 
 22\. Car Ahura Mazda connaît l'homme dont le meilleur don pour le sacrifice m'est donné, et par motif de justice ; (et en reconnaissance pour tous, et en prière pour encore plus de grâce), j'adorerai (les éternels) ; oui, j'adorerai ceux qui ont toujours vécu, et qui vivent encore, et par leurs propres (saints) noms, et de leurs (trônes [^833]) je m'approcherai avec ma louange !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

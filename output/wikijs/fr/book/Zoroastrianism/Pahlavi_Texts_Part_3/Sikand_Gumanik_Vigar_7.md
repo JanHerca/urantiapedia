@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 22\. J'ai aussi montré [^4], sur ce sujet, par la connaissance inévitable et par analogie, la création et la qualification du monde et de ses circonstances et appareils. 23. De la création et de la qualification du monde se manifeste un créateur et un qualificateur ; (24) et [^5] \[par l'œuvre intentionnelle <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> du créateur sagace, (25) grâce à\] l'œuvre intentionnelle [^6], se manifeste l'existence d'un fauteur de trouble extérieur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

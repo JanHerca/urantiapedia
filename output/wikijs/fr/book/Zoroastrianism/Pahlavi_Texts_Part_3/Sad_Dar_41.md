@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 21\. Ce qu'ils fournissent de leur vivant est meilleur [^13] ; et, tout comme cela se produirait si quelqu'un replantait un arbre et en mangeait le fruit chaque année, ce bon travail s'accroît d'autant chaque année. 22. Si elle vit dix ans, ou cent ans, d'autant plus longtemps elle devient chaque année beaucoup plus [^14]. 23. S'ils le fournissent après sa _vie_, ce qui constituerait l'accroissement disparaît ; et de son vivant aussi, il se produit ce que toute personne ayant accompli un devoir pour son propre compte a constaté : la chose elle-même _que d'autres_ accomplissent après sa _vie_ est très différente ; de sorte qu'elle devrait y pourvoir de ses propres mains, et non après son décès (vafât).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

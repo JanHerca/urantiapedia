@@ -47,6 +47,8 @@ PART I.—_The Original Treatise_.
 In the administration of the primitive faith [^9] there are _some_ who have been of different opinions <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> about it, for Gôgô<i>s</i>asp [^10] spoke otherwise than the teaching [^11] (<i>k</i>â<i>s</i>tak) of Âtarô-Aûharmazd [^12], and Sôshyans [^13] _otherwise_ than the teaching of Âtarô-frôbâg Nôsâî [^14], and Mê<i>d</i>ôk-mâh [^15] _otherwise_ than the teaching of Gôgô<i>s</i>asp [^16], and Afarg [^17] _otherwise_ than the teaching <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> of Sôshyans. 4. And all those of the primitive faith rely upon these six [^18] teachings, and there are _some_ who rely more weakly and some more strongly _upon some_ of them.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

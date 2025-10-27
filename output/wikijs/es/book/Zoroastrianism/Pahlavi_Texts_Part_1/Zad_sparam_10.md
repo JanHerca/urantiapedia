@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 3\. Spendarma<i>d</i> recibió el oro del difunto Gâyômar<i>d</i> [^1], y estuvo cuarenta años en la tierra. 4. Al final de los cuarenta años, a la manera de una planta de Rîvâs, Mashya y Mashyôî [^2] surgieron, y, unidos uno al otro, eran de igual estatura y se adaptaban mutuamente [^3]; y su centro, en el que llegó una gloria, por su similar estatura [^4], era tal que no estaba claro cuál es el masculino y cuál la femenino, y cuál es el que posee la gloria que Aûharmazd creó. 5. Esta es la gloria para la cual el hombre fue creado, como se dice en la revelación: <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> «¿Qué existía antes, la gloria [^5] o el cuerpo?» Y Aûharmazd dijo así: «La gloria fue creada por mí antes; después, para quien es creado, la gloria recibe un cuerpo para que pueda producir actividad, y su cuerpo es creado solo para la actividad». 6. Y, después, cambiaron de la forma de una planta a la forma de un hombre [^6], y la gloria entró espiritualmente en ellos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

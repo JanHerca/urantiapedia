@@ -43,6 +43,8 @@ _Bakŏ Nask_.
 
 9\. La justice est parfaite par excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

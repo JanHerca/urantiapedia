@@ -56,6 +56,8 @@ Et ainsi moi-même, quelles que soient les circonstances dans lesquelles je puis
 
 9\. Oui, je loue d'emblée la Foi de Mazda, la Foi dont la parole est inébranlable [^1043], la Foi qui manie la hallebarde [^1044], la Foi du mariage par alliance, le saint (Credo), qui est la plus imposante, la meilleure et la plus belle de toutes les religions existantes, et de toutes celles qui seront connues à l'avenir, la Foi d'Ahura, le credo zarathoustrien. Oui, à Ahura Mazda j'attribue tout bien, et tel sera le culte de la croyance mazdyasnienne !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

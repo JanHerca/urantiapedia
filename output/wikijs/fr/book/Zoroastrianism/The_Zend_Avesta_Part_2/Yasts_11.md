@@ -58,7 +58,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
-## JE.
+## I.
 
 1\. Nous sacrifions au saint, au grand corps, au diable Sraosha, qui fait croître le monde, le saint et le maître de la sainteté.
 
@@ -207,6 +207,8 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 \[Donnez\] à cet homme [^776] luminosité et gloire, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des Saints !
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -233,94 +235,94 @@ Je bénis le sacrifice et la prière, la force et la vigueur du saint et fort Sr
 
 ## Notes de bas de page
 
-[^764]: 159:1 Cf. Vend. Introd. IV, 31.
+[^731]: 159:1 Cf. Vend. Introd. IV, 31.
 
-[^765]: 159:2 Ibid. III, 3.
+[^732]: 159:2 Ibid. III, 3.
 
-[^766]: 159:3 Voir un récit du Hâdhôkht Nosk dans le Dînkart (Occident, Textes Pahlavi, I, 225, note) ; cf. Introd. à Yt. XXI.
+[^733]: 159:3 Voir un récit du Hâdhôkht Nosk dans le Dînkart (Occident, Textes Pahlavi, I, 225, note) ; cf. Introd. à Yt. XXI.
 
-[^767]: 159:4 Cf. § 18, note.
+[^734]: 159:4 Cf. § 18, note.
 
-[^768]: 160:1 'A été enseigné au monde, à savoir la Loi' (Pahl. Comm.).
+[^735]: 160:1 'A été enseigné au monde, à savoir la Loi' (Pahl. Comm.).
 
-[^769]: 160:2 Douteux.
+[^736]: 160:2 Douteux.
 
-[^770]: 160 : 3 Derezvã : Pahl. huzvân; cf. Yt. Moi, 28 ans.
+[^737] : 160 : 3 Derezvã : Pahl. huzvân; cf. Yt. Moi, 28 ans.
 
-[^771]: 160:4 C'est la même chose, c'est aussi puissant.
+[^738]: 160:4 C'est la même chose, c'est aussi puissant.
 
-[^772]: 160:5 Douteux (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
+[^739] : 160:5 Douteux (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
 
-[^773]: 160:6 Voir [p. 23](../Yasts_1#p23).
+[^740]: 160:6 Voir [p. 23](../Yasts_1#p23).
 
-[^774]: 160:7 Ou, « est le meilleur de tous les ennemis des démons au combat. »
+[^741]: 160:7 Ou, « est le meilleur de tous les tueurs de démons au combat. »
 
-[^775]: 160:8 Ce chapitre (Pahl. Comm.).
+[^742]: 160:8 Ce chapitre (Pahl. Comm.).
 
-[^776]: 161:1 Des mots différents sont employés, comme d'habitude, pour exprimer le même conflit, selon qu'il s'agit des fidèles ou des idolâtres.
+[^743]: 161:1 Des mots différents sont employés, comme d'habitude, pour exprimer le même conflit, selon qu'il s'agit des fidèles ou des idolâtres.
 
-[^777]: 161:2 Aipi-ayanãm : madame râs.
+[^744] : 161:2 Aipi-ayanãm : madame râs.
 
-[^778]: 161:3 Arethyanãm : dâdistân (de aretha, signifiant dînâ, dâdistân).
+[^745]: 161:3 Arethyanãm: dâdistân (de aretha, signifiant dînâ, dâdistân).
 
-[^779]: 161:4 Gadha : n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh) ; le Pahlavi a ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), un Saka, une Faux.
+[^746]: 161:4 Gadha : n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh) ; le Pahlavi a ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), un Saka, une Faux.
 
-[^780]: 161:5 La louange de Sraosha.
+[^747]: 161:5 La louange de Sraosha.
 
-[^781]: 161:6 Keresa<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; ce nom fut appliqué aux chrétiens dans les périodes ultérieures, comme si keresa était le nom du Christ; cf. Bahman Ya<i>s</i>t II, 19; III, 2.
+[^748]: 161:6 Keresa<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; ce nom fut appliqué ultérieurement aux chrétiens, comme si keresa était le nom du Christ; cf. Bahman Ya<i>s</i>t II, 19; III, 2.
 
-[^782]: 161:7 Douteux.
+[^749]: 161:7 Douteux.
 
-[^783]: 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
+[^750] : 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
 
-[^784]: 162:2 Voir Vend. Introd. IV, 31.
+[^751]: 162:2 Voir Vend. Introd. IV, 31.
 
-[^785]: 162:3 Voir Yt. XVII.
+[^752]: 162:3 Voir Yt. XVII.
 
-[^786]: 162:4 Voir Vend. XXII, 7 \[22\] et Sîrôzah I, 9.
+[^753]: 162:4 Voir Vend. XXII, 7 \[22\] et Sîrôzah I, 9.
 
-[^787]: 162:5 Les paroles de la loi.
+[^754]: 162:5 Les paroles de la loi.
 
-[^788]: 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
+[^755] : 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
 
-[^789]: 162:7 Cf. Yt. I, 19.
+[^756]: 162:7 Cf. Yt. I, 19.
 
-[^790]: 163:1 Cf. ci-dessus, [p. 145](../Yasts_10#p145), note [1](../Yasts_10#fn669).
+[^757]: 163:1 Cf. ci-dessus, [p. 145](../Yasts_10#p145), note [1](../Yasts_10#fn669).
 
-[^791]: 163:2 En enfer.
+[^758]: 163:2 En enfer.
 
-[^792]: 163:3 Comme ci-dessus, §§ 8-9.
+[^759]: 163:3 Comme ci-dessus, §§ 8-9.
 
-[^793]: 163:4 À la création d'Ormazd.
+[^760]: 163:4 À la création d'Ormazd.
 
-[^794]: 163:5 Douteux. Le Yasna dit : « Par la force, le pouvoir victorieux, la sagesse et la connaissance desquels les Amesha-Spe<i>n</i>tas parcourent (avãn ; Phl. sâtûnand) les sept Karshvares de la terre » (LVII, 23 \[LVI, 10, 2\]).
+[^761]: 163:5 Douteux. Le Yasna dit : « Par la force, le pouvoir victorieux, la sagesse et la connaissance desquels les Amesha-Spe<i>n</i>tas parcourent (avãn ; Phl. sâtûnand) les sept Karshvares de la terre » (LVII, 23 \[LVI, 10, 2\]).
 
-[^795]: 164:1 Il enseigne la loi aux trois sauveurs à venir, Oshêdar Bâmî, Oshêdar Mâh et Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\] ; Phl. tr.).
+[^762] : 164:1 Il enseigne la loi aux trois sauveurs à venir, Oshêdar Bâmî, Oshêdar Mâh et Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\] ; Phl. tr.).
 
-[^796]: 164:2 Pare<i>s</i>ta<i>k</i>a mravay<i>â</i>os<i>k</i>a, à corriger, selon diverses lectures, en staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a ou quelque chose de similaire ; les deux génies ici évoqués sont Anâstareta et Amuyamna, l'absence de péché et l'innocence, qui sont invoqués en compagnie d'Akh<i>s</i>ti hamvai<i>ñ</i>ti dans Vispêrad VIII, 4.
+[^763]: 164:2 Pare<i>s</i>ta<i>k</i>a mravay<i>â</i>os<i>k</i>a, à corriger, selon diverses lectures, en staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a ou quelque chose de similaire ; les deux génies ici évoqués sont Anâstareta et Amuyamna, l'absence de péché et l'innocence, qui sont invoqués en compagnie d'Akh<i>s</i>ti hamvai<i>ñ</i>ti dans Vispêrad VIII, 4.
 
-[^797]: 164:3 Voir Yt. XII.
+[^764]: 164:3 Voir Yt. XII.
 
-[^798]: 164:4 Voir Yt. XVII.
+[^765]: 164:4 Voir Yt. XVII.
 
-[^799]: 164:5 Voir Vend. XIX, 39.
+[^766]: 164:5 Voir Vend. XIX, 39.
 
-[^800]: 164:6 Voir ibid.
+[^767]: 164:6 Voir ibid.
 
-[^801]: 164:7 Voir Yt. XVI, 1.
+[^768]: 164:7 Voir Yt. XVI, 1.
 
-[^802]: 165:1 Les fidèles, comme aidant par leurs bonnes actions à l'œuvre de restauration finale, à accomplir par Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17).
+[^769]: 165:1 Les fidèles, comme aidant par leurs bonnes actions à l'œuvre de restauration finale, qui doit être accomplie par Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17).
 
-[^803]: 165:2 Le premier sacrifice est le sacrifice Yasna ; le suivant (littéralement, supérieur) est le Vispêrad ; le sacrifice intermédiaire est le Hâdhôkht \[et\] êvak hômâst ; le sacrifice le plus élevé est le Dvâzdah hômâst (Pahl. Comm.). Sraosha est appelé le premier, le suivant, le moyen et le plus élevé, selon qu'il préside à l'un ou l'autre de ces sacrifices. Pour une définition de l'êvak hômâst et du Dvâzdah hômâst, voir West, Pahlavi Texts, I, 212, note 5.
+[^770]: 165:2 Le premier sacrifice est le sacrifice Yasna ; le suivant (littéralement, supérieur) est le Vispêrad ; le sacrifice intermédiaire est le Hâdhôkht \[et\] êvak hômâst ; le sacrifice le plus élevé est le Dvâzdah hômâst (Pahl. Comm.). Sraosha est appelé le premier, le suivant, le moyen et le plus élevé, selon qu'il préside à l'un ou l'autre de ces sacrifices. Pour une définition de l'êvak hômâst et du Dvâzdah hômâst, voir West, Pahlavi Texts, I, 212, note 5.
 
-[^804]: 165 : 3 Vîspãn, traduit harvisp zamân.
+[^771] : 165 : 3 Vîspãn, traduit harvisp zamân.
 
-[^805]: 165:4 Littéralement, celui qui frappe en frappant.
+[^772]: 165:4 Littéralement, celui qui frappe en frappant.
 
-[^806]: 166:1 Identique à Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
+[^773]: 166:1 Identique à Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
 
-[^807]: 166:2 Il reçoit l'aumône (l'ashô-dâd).
+[^774]: 166:2 Il reçoit l’aumône (l’ashô-dâd).
 
-[^808]: 167:1 Cf. §§ 16-17.
+[^775]: 167:1 Cf. §§ 16-17.
 
-[^809]: 167:2 Qui sacrifie à Sraosha.
+[^776]: 167:2 Qui sacrifie à Sraosha.

@@ -111,6 +111,8 @@ Sainteté | [101](../Extraits#p101)
 Prière pour la sécurité | [102] (Extraits#p102)
 NOTES | [103](../Notes#p103)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

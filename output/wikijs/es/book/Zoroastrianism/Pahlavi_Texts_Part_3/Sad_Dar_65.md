@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Hay diferentes cosas que es necesario que quienes profesan la buena religión prevalezcan sobre sí mismos. 8. Una es ser generosos con los dignos; la segunda es hacer justicia; la tercera es ser amables con todos; y la cuarta es ser sinceros y veraces [^5], y mantener la falsedad lejos de sí mismos. 9. Y estos cuatro hábitos ('<i>h</i>aʓlat) son los principios (aʓl) de la religión de Zaratu<i>s</i>t, y es necesario que, cuando los escuches tú mismo, no escuches a nadie más [^6]. 10. Porque el creador Hôrmazd dice: «¡Oh Zaratu<i>s</i>t! Si quieres ser puro y salvo, y llegar al lugar de los puros, cumple estos dos deberes: 11. Una es que prefieras la amistad de la existencia espiritual a la del ser mundano, y consideres las cosas del mundo como despreciables y las del espíritu como preciosas; por esta razón, la gloria del mundo se busca [^7] con desprecio, y no dejes escapar al espíritu. 12. La segunda es que hables con verdad a todos y actúes con justicia conmigo, <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> es decir, lo que no apruebes para ti mismo, no lo apruebes [^8] para nadie más; cuando hayas actuado de esta manera, serás justo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

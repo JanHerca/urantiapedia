@@ -234,6 +234,8 @@ Besides. the above fully detailed description of the Bareshnûm ceremony we find
 
 The other account, which is much shorter., is given in Vend. XI X, 67-84. It specifies that the urine must be that of a young bull, and that the purifier must score a furrow; it mentions the recitation of a hundred Ashem-vohûs and two hundred Yathâ-ahû-vairyôs, four washings with bull‘s urine and two with water, nine nights’ exposure, followed by attention to the fire and fumigation, when the man clothes himself while paying homage to the sacred beings, and is clean; but no other details are given.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

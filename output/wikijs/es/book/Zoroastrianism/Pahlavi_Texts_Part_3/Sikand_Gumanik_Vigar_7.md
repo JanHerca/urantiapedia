@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 22\. También he mostrado [^4], sobre este tema, mediante el conocimiento inevitable y la analogía, la creación y cualificación del mundo y sus circunstancias _y_ aplicaciones. 23. De la creación y cualificación del mundo se manifiesta un hacedor y cualificador; (24) y [^5] \[mediante la obra intencional <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> del sagaz creador, (25) debido a la obra intencional [^6], se manifiesta la existencia de un causante externo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

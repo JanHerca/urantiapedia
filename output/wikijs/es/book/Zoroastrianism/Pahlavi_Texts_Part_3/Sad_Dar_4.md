@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 12\. Por lo tanto, aunque alguien haya cometido un pecado, no es necesario que [^7] se desespere. 13. Y quien tenga el poder (<i>t</i>âqat) <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> debe esforzarse por realizar buenas obras, para que con ellas se expíe el pecado; porque el Ser Sagrado, el Bueno y Propicio, es bondadoso con todos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

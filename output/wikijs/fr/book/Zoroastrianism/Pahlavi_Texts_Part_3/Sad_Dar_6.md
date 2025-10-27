@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. Il faut donc s'efforcer qu'elles soient accomplies chacune en son temps, afin qu'elles obtiennent une récompense et non une punition sévère.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

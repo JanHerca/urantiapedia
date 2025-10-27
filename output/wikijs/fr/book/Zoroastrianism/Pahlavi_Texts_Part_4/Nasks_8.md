@@ -77,6 +77,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 20\. Le nom du vingtième est Vendîdâd [^28], _et_ il est de vingt-deux subdivisions, pour amener l'humanité à s'abstenir des mauvaises actions, du diable et de la disgrâce, des magiciens étrangers et de ceux qui agissent après leurs procédés et commettent des crimes ; et on nous parle de leur crime parmi toute la bonté et la pureté, et toute la méchanceté et la souillure, et de leur explication. <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> 21\. Le nom du vingt et unième est Hâdokht [^29] et c'est un livre de trente subdivisions, sur la manière de rassembler et l'abondance des miracles ainsi que leur excellence et leurs liens. Et le diable maudit s'éloigne de quiconque récite ce livre en même temps que le Ya<i>s</i>t [^30], et cette personne est proche du rang (pâîgâh) d'un être sacré, et ses péchés deviennent purs ; aussi dans ce livre le diable maudit devient maudit, et Dieu le sait.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

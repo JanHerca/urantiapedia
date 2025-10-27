@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> «Todos los días, tres veces, de pie frente al sol y a Mit<i>r</i>ô [^1], mientras proceden juntos [^2], (5) y [^3] la luna y el fuego de Vâhrâm [^4], o el fuego de los fuegos [^5], _de_ la misma manera, mañana, mediodía y tarde, se realiza homenaje y glorificación, (6) y _uno_ se ha vuelto agradecido [^6]. 7. Y si un pecado, o una deficiencia (frô<i>d</i>mând-1) [^7], _ha_ ocurrido, especialmente [^8] en lo que respecta a los ángeles de las _existencias_ espirituales y mundanas, entonces y las bestias _de carga_ [^9], bueyes y ovejas, perros y las especies caninas, y otras criaturas y creaciones de Aûha<i>r</i>ma<i>z</i><i>d</i> el señor, (8) _uno_ debe entristecerse, arrepentirse y estar en renuncia _del pecado_ ante el sol y Mit<i>r</i>ô, la luna y el fuego de Aûha<i>r</i>ma<i>z</i><i>d</i> [^10]; (9) y, _en aras de la expiación por el pecado, se deben practicar buenas obras tanto como sea posible.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

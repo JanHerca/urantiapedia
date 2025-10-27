@@ -77,6 +77,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 23\. Y el propósito de esta escritura es que estos humildes individuos [^3] sepan de esta manera que estos libros pertenecen a esas tendencias, y que ha sido escrito por esos devotos [^4] de tal manera que «entre nosotros nadie puede leer los caracteres pahlavi, y la interpretación de estos nasks está en pahlavi; quien no conozca los caracteres pahlavi es sumo sacerdote y no puede demostrar los milagros de la religión, ni lo que se escribió respecto al comentario de estos nasks».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

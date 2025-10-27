@@ -52,6 +52,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 13\. The seven questionings are explained within the length of these winters, which are _of_ five months, _and_ within ten years [^17].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

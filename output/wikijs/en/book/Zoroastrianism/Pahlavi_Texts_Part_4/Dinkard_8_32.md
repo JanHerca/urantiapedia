@@ -38,6 +38,8 @@ _Hûspâram Nask_.
 
 1\. One section of the _next_ twenty _contains_ particulars about the rite of an ordeal accomplished, also the modes of one's preservation _or_ incrimination therein, _and_ whatever is on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

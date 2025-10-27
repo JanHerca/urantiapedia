@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. «Y hacen que _uno_ [^2] se apodere de las _existencias_ espirituales, por méritos de la acción, por esta razón, porque la maldad de cualquiera [^3] surge a través de la realización de sus propias acciones.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

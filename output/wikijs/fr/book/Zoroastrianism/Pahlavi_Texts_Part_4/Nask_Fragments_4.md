@@ -45,6 +45,8 @@ Dans Sls. X, 22, XII, 15, il est dit que « dans le Dâmdâ<i>d</i> _il_ est ré
 
 Dans Sls. XII, 5, il est dit que « dans le Dâmdâ<i>d</i> _il_ est révélé que lorsqu'ils séparent la conscience des hommes, elle s'étend au feu le plus proche, puis aux étoiles, puis à la lune, et enfin au soleil ; <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> et _il_ est_ nécessaire que le feu le plus proche, celui vers lequel elle _a_ cone, _devienne_ plus fort. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

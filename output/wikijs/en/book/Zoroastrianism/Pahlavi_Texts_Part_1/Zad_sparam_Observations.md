@@ -54,6 +54,8 @@ PART I, CHAPTERS I-XI.
 
 7\. The MS. mentioned in the notes is K3. (written probably A.D. 1572), No. 35 in the University Library at Kopenhagen.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

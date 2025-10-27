@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 16\. Un autre jour, Pôrûshaspô alla s'enquérir auprès des sorciers qui se tenaient devant l'endroit, ainsi : « Quelle est la cause pour laquelle les enfants crient à la naissance, outre celle qui se produit lorsqu'ils rient tout haut [^12] ? » 17. Et ils répondirent ainsi : « Parce que ceux qui sont faits pleurer ont vu la mortalité comme leur fin, et ceux qui ont ri ont vu leur propre justice. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

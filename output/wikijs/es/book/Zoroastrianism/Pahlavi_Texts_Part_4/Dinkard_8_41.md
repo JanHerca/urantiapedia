@@ -63,6 +63,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 31\. Sobre el aumento de los granos, y el de las ovejas, con la progenie, leche y lana que pueden producir individualmente. 32. Sobre la confiscación de ropas e implementos al devolverlos a quien considera especialmente muchos como suyos [^11]; es decir, cómo aumenta el producto (vakhsh) cuando ordena su uso imperfectamente, cómo aumenta cuando lo hace de manera correcta, y cómo aumenta cuando los mantiene inactivos. 33. Sobre el producto de la tierra en la que se siembra grano, y de aquella en la que no se siembra (va-zak-î an-madam ramîtuntô) [^12], cuando al entregarlo se agota. 34. Y lo mismo ocurre con la producción de adornos de oro y plata, y de cosas de color rojo, con muchas regulaciones sobre el mismo tema y lo que está relacionado con ello.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

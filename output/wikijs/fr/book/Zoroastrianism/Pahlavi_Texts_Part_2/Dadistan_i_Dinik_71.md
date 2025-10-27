@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 3\. La réponse est celle-ci, que les grands prêtres [^3] ont dit ainsi, qu'il y a _certaines_ choses par le destin, et il y en a _certaines_ par l'action ; et il est ainsi pleinement décidé par eux, que la vie, la femme et l'enfant, l'autorité et la richesse sont par le destin, et la justice et la méchanceté du sacerdoce, la guerre et l'agriculture sont par l'action. 4. Et ceci, aussi, est dit par eux ainsi, que ce qui n'est pas <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> destiné à un homme dans le monde n'arrive pas ; _et_ ce qui est destiné, soit à cause de l'effort, se réalisera, soit à cause du péché _ou_ de la paresse, il en est blessé. 5. Ce qui surviendra à cause de l'effort est tel que celui qui va à une réunion de bonheur, ou la maladie d'un mortel qui, à cause de la maladie, meurt prématurément [^4] ; et celui qui, par péché et par paresse, est ainsi blessé est tel que celui qui ne veut épouser aucune femme, et est certain qu'aucun enfant ne naîtra de lui, ou tel que celui qui donne son corps à l'abattoir, et dont la vie est blessée par sa vie.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

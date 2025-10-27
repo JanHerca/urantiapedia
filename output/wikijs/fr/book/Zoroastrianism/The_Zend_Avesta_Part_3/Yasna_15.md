@@ -45,6 +45,8 @@ dateCreated: 2025-3-16T22:11:40Z
 (Réponse) : Alors, que le Ratu, de par sa droiture, sa sainteté et son érudition, parle !
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

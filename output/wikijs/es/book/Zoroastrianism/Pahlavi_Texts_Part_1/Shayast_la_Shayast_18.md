@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 4\. Aharman exclamó así: «¡Entra en la fiesta de la temporada! Si uno de los presentes roba una sola cosa, la fiesta de la temporada se viola, y el asunto es conforme a [^5] tu deseo; ¡entra en la fiesta sagrada [^6]! Si tan solo uno de los presentes habla, la fiesta sagrada se viola, y el asunto es conforme a tu deseo; ¡pero evita el matrimonio con parientes cercanos [^7]! Porque no conozco ningún remedio; pues quien se haya acercado cuatro veces a ella no se separará de la posesión de Aûharmazd y los arcángeles [^8].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -68,6 +68,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 92\. The two _arguments_ which are each separate <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> in the Dînka<i>r</i><i>d</i> manuscript, as the supremely learned _one_ [^14] _has_ explained _them_ out of _his_ knowledge of the religion, are here set forth at length. 93. _He_ whose wish is to fully understand the wonderfulness of the Ma<i>z</i><i>d</i>a-worshipping religion and the statements of the primitive faith, (94) examines into it in a manuscript of that character, (95) _and_ shall understand more fully the wonderfulness and truth of the religion [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

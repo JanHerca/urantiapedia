@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. If _committed by_ oneself, it is declared, _in_ one place in revelation, that the glorified Zaratu<i>s</i>t, the Spitamân, enquired of Hôrmazd, the good _and_ propitious, thus: ‘Of any of the sins that mankind commit which is the worst?’ 7. Hôrmazd, the good _and_ propitious, decreed thus: ‘No sin whatever is worse than this, that two persons make a covenant with one another _in_ such a manner that no one whatever is between them, except me who am Hôrmazd; _and_, afterwards one of those two persons deviates _from it_, and says, "I have no knowledge (‘<i>h</i>abar) _of it_," and no one whatever is a witness, for that _other_ person, except me.’ 8. No sin whatever is worse than that, and that person himself _will_ not go out of this world until retribution overtakes him, and in that _other_ world his punishment is more severe than all; _so_ that person becomes unfortunate _in_ both worlds. 9. And it is the same _if_ this covenant _be_ with a righteous _person or_ a wicked _one_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

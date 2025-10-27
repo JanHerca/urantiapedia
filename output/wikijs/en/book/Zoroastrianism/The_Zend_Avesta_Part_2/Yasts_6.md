@@ -84,6 +84,8 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -110,22 +112,22 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 ## Footnotes
 
-[^440]: 85:1 Or the 11th, 16th, 27th, and 30th days of the month (Anquetil, II, 184).
+[^420]: 85:1 Or the 11th, 16th, 27th, and 30th days of the month (Anquetil, II, 184).
 
-[^443]: 85:2 As above, Yt. I, 0.
+[^421]: 85:2 As above, Yt. I, 0.
 
-[^442]: 85:3 Sîrôzah I, 11.
+[^422]: 85:3 Sîrôzah I, 11.
 
-[^444]: 85:4 ‘That is to say, rises up’ (Phl. tr.).
+[^423]: 85:4 ‘That is to say, rises up’ (Phl. tr.).
 
-[^445]: 86:1 Literally ‘of the body of holiness,’ that is to say, of the bodily creatures that incorporate holiness.
+[^424]: 86:1 Literally ‘of the body of holiness,’ that is to say, of the bodily creatures that incorporate holiness.
 
-[^446]: 86:2 ‘From the uncleanness that the Daêvas mix with the earth during the night’ (Phl. tr.).
+[^425]: 86:2 ‘From the uncleanness that the Daêvas mix with the earth during the night’ (Phl. tr.).
 
-[^447]: 86:3 As he benefits them and himself thereby.
+[^426]: 86:3 As he benefits them and himself thereby.
 
-[^448]: 87:1 Hunivikhtem: suniyuktam (Sansk. tr.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Pers. tr.).
+[^427]: 87:1 Hunivikhtem: suniyuktam (Sansk. tr.); ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Pers. tr.).
 
-[^449]: 87:2 As they succeed one another in regular order.
+[^428]: 87:2 As they succeed one another in regular order.
 
-[^450]: 87:3 Cf. Yt. III, 18.
+[^429]: 87:3 Cf. Yt. III, 18.

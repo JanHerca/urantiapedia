@@ -49,6 +49,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 <i>o</i>. La justice parfaite est l’excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

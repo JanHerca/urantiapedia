@@ -148,6 +148,8 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -174,77 +176,76 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad [^222]. . . .
 
 ## Notas al pie
 
-[^227]: 41:1 Ard-î-behi<i>s</i>t es la forma parsi de Asha vahi<i>s</i>ta, siendo ard derivado de arta, la forma persa correspondiente al Zend asha.
+[^214]: 41:1 Ard-î-behi<i>s</i>t es la forma parsi de Asha vahi<i>s</i>ta, siendo ard derivado de arta, la forma persa correspondiente al Zend asha.
 
-[^228]: 41:2 Véase Sîrôzah I, 3, y más abajo la fórmula introductoria.
+[^215]: 41:2 Véase Sîrôzah I, 3, y más abajo la fórmula introductoria.
 
-[^229]: 41:3 Véase Vend. Introd. IV, 30.
+[^216]: 41:3 Véase Vend. Introd. IV, 30.
 
-[^230]: 41:4 Ibíd. 33.
+[^217]: 41:4 Ibíd. 33.
 
-[^231]: 41:5 Véase Yt. XVII, 18.
+[^218]: 41:5 Véase Yt. XVII, 18.
 
-[^232]: 41:6 Fargard XXII e Introd.
+[^219]: 41:6 Fargard XXII e Introd.
 
-[^233]: 41:7 Como arriba, Yt. I, 0.
+[^220]: 41:7 Como arriba, Yt. I, 0.
 
-[^234]: 42:1 Siroza I, 3.
+[^221]: 42:1 Siroza I, 3.
 
-[^235]: 42:2 Varios manuscritos añaden aquí la invocación completa del Sîrôzah mayor:
+[^222]: 42:2 Varios manuscritos añaden aquí la invocación completa del Sîrôzah mayor:
+  'Ofrecemos sacrificios a Asha-Vahi<i>s</i>ta, la más bella, la Amesha-Spe<i>n</i>ta;
+  Ofrecemos sacrificios al tan deseado Airyaman;
+  Sacrificamos al instrumento hecho por Mazda;
+  Sacrificamos al buen Saoka, con ojos de amor, hechos por Mazda y sagrados.
 
-'Ofrecemos sacrificios a Asha-Vahi<i>s</i>ta, la más bella, la Amesha-Spe<i>n</i>ta;
-Ofrecemos sacrificios al tan deseado Airyaman;
-Sacrificamos al instrumento hecho por Mazda;
-Sacrificamos al buen Saoka, con ojos de amor, hechos por Mazda y sagrados.
+[^223]: 42:3 El Garô-nmânem o Paraíso; véase Yasna XVI, 7 \[XVII, 42\], Phl. tr.
 
-[^236]: 42:3 El Garô-nmânem o Paraíso; véase Yasna XVI, 7 \[XVII, 42\], Phl. tr.
+[^224]: 42:4 La cláusula principal parece faltar, a menos que se suponga que Zaratustra interrumpe a Ahura. También se podría entender la oración en sentido optativo: «Que aumentes...».
 
-[^237]: 42:4 La cláusula principal parece faltar, a menos que se suponga que Zaratustra interrumpe a Ahura. También se podría entender la oración en sentido optativo: «Que aumentes...».
+[^225]: 43:1 Aquí nuevamente parece como si se hubiera perdido un párrafo: 'Ahura Mazda respondió: Proclama Asha-Vahi<i>s</i>ta; si proclamas Asha-Vahi<i>s</i>ta . . . .—Entonces Zaratustra respondió: Proclamo Asha-Vahi<i>s</i>ta . . .'
 
-[^238]: 43:1 Aquí nuevamente parece como si se hubiera perdido un párrafo: 'Ahura Mazda respondió: Proclama Asha-Vahi<i>s</i>ta; si proclamas Asha-Vahi<i>s</i>ta . . . .—Entonces Zaratustra respondió: Proclamo Asha-Vahi<i>s</i>ta . . .'
+[^226]: 43:2 El Garôthmân.
 
-[^239]: 43:2 El Garôthmân.
+[^227]: 43:3 Una alusión a los tres Paraísos de Humat, Hûkht, Hvar<i>s</i>t, a través de los cuales las almas de los bienaventurados pasan a Garôthmân (Yt. XXII, 15).
 
-[^240]: 43:3 Una alusión a los tres Paraísos de Humat, Hûkht, Hvar<i>s</i>t, a través de los cuales las almas de los bienaventurados pasan a Garôthmân (Yt. XXII, 15).
+[^228]: 43:4 La oración conocida como Airyama-ishyô; ver Vendîdâd XXI, 11-12.
 
-[^241]: 43:4 La oración conocida como Airyama-ishyô; ver Vendîdâd XXI, 11-12.
+[^229]: 43:5 Véase Vend. Introd. IV, 20-21.
 
-[^242]: 43:5 Véase Vend. Introd. IV, 20-21.
+[^230]: 44:1 Cf. Vendîdâd VII, 44 (118). Que Airyaman usó la Palabra Sagrada (de los hechizos) para curar enfermedades aparece en Vend. XXII, 6 y siguientes.
 
-[^243]: 44:1 Cf. Vendîdâd VII, 44 (118). Que Airyaman usó la Palabra Sagrada (de los hechizos) para curar enfermedades aparece en Vend. XXII, 6 y siguientes.
+[^231]: 44:2 Paityâra: toda obra de Ahura fue opuesta y arruinada por una contraobra de Angra Mainyu. Cf. Bundahi<i>s</i> I, 23 ss.; III, 23 ss.; Vend. I; véase Ormazd et Ahriman, §§ 195 ss.
 
-[^244]: 44:2 Paityâra: toda obra de Ahura fue opuesta y arruinada por una contraobra de Angra Mainyu. Cf. Bundahi<i>s</i> I, 23 ss.; III, 23 ss.; Vend. I; véase Ormazd et Ahriman, §§ 195 ss.
+[^232]: 44:3 Véase Yt. I, 10 y nota 4.
 
-[^245]: 44:3 Véase Yt. I, 10 y nota 4.
+[^233]: 44:4 Las criaturas ahrimanianas pertenecientes a la humanidad, los Mairyas y Ashemaoghas (Yt. I, 10).
 
-[^246]: 44:4 Las criaturas ahrimanianas pertenecientes a la humanidad, los Mairyas y Ashemaoghas (Yt. I, 10).
+[^234]: 44:5 La cortesana; cf. Vend. XXI, 27 (35), e Introd. IV, 25.
 
-[^247]: 44:5 La cortesana; cf. Vend. XXI, 27 (35), e Introd. IV, 25.
+[^235]: 45:1 El Zend es Kahvaredhaini, un sinónimo del cual, Kahvaredha, Yasna LXI, 2 \[LX, 7\], se traduce como el que perjudica la Gloria, que significa muy probablemente: el que hace que uno 'mengüe, se agote y se consuma' (cf. Vend. XVIII, 62-64).
 
-[^248]: 45:1 El Zend es Kahvaredhaini, un sinónimo del cual, Kahvaredha, Yasna LXI, 2 \[LX, 7\], se traduce como el que perjudica la Gloria, que significa muy probablemente: el que hace que uno 'mengüe, se agote y se consuma' (cf. Vend. XVIII, 62-64).
+[^236]: 45:2 Del país del infierno; cf. Vend. VII, 2; XIX, 1; Yt. XXII, 25.
 
-[^249]: 45:2 Del país del infierno; cf. Vend. VII, 2; XIX, 1; Yt. XXII, 25.
+[^237]: 47:1 Un conjunto de manuscritos inserta: 'Él herirá al viento que sopla contra el Norte, afligirá al viento que sopla contra el Norte; el viento que sopla contra el Norte \[perecerá\].' Es muy probable que esto sea una interpolación, ya que el viento que sopla contra el Norte (si este es el significado correcto de aparô apâkhtara, en oposición a pourvô apâkhtara) sopla contra Angra Mainyu.
 
-[^250]: 47:1 Un conjunto de manuscritos inserta: 'Él herirá al viento que sopla contra el Norte, afligirá al viento que sopla contra el Norte; el viento que sopla contra el Norte \[perecerá\].' Es muy probable que esto sea una interpolación, ya que el viento que sopla contra el Norte (si este es el significado correcto de aparô apâkhtara, en oposición a pourvô apâkhtara) sopla contra Angra Mainyu.
+[^238]: 47:2 Cf. Viernes VIII, 21.
 
-[^251]: 47:2 Cf. Viernes VIII, 21.
+[^239]: 47:3 Es decir, digno de ser aceptado: cf. Yt. X, 32; los parsis traducen, 'un sacrificio oído \[de los labios de los Dastûrs\]' ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/04700.jpg); East India Office, XXV, 42).
 
-[^252]: 47:3 Es decir, digno de ser aceptado: cf. Yt. X, 32; los parsis traducen, 'un sacrificio oído \[de los labios de los Dastûrs\]' ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/04700.jpg); East India Office, XXV, 42).
+[^240]: 47:4 Los Haoma y los Myazda.
 
-[^253]: 47:4 Los Haoma y los Myazda.
+[^241]: 47:5 Véase Vend. III, 1, nota 2.
 
-[^254]: 47:5 Véase Vend. III, 1, nota 2.
+[^242]: 47:6 En otras palabras: las fórmulas correctas (trad. filántropa) significa 'las fórmulas correctas'.
 
-[^255]: 47:6 En otras palabras: las fórmulas correctas (trad. filántropa) significa 'las fórmulas correctas'.
+[^243]: 47:7 'El Avesta' (trad. filosófica).
 
-[^256]: 47:7 'El Avesta' (trad. filosófica).
+[^244]: 47:8 Las diversas operaciones del sacrificio.
 
-[^257]: 47:8 Las diversas operaciones del sacrificio.
+[^245]: 47:9 Como arriba, Yt. I, 22.
 
-[^258]: 47:9 Como arriba, Yt. I, 22.
+[^246]: 48:1 Cf. Siroza I, 2.
 
-[^259]: 48:1 Cf. Siroza I, 2.
+[^247]: 48:2 Como arriba, [p. 22](../Yasts_1#p22).
 
-[^260]: 48:2 Como arriba, [p. 22](../Yasts_1#p22).
-
-[^261]: 48:3 ¿Quién ofrecerá un sacrificio a Asha-Vahi<i>s</i>ta?; cf. Yt. I, 33 y notas.
+[^248]: 48:3 ¿Quién ofrecerá un sacrificio a Asha-Vahi<i>s</i>ta?; cf. Yt. I, 33 y notas.

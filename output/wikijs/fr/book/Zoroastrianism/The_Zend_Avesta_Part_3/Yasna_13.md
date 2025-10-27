@@ -56,6 +56,8 @@ Une bénédiction est la Droite appelée la meilleure, il y a du bien, il y a du
 
 8\. Nous adorons l'Ahuna-vairya ; et nous adorons Asha Vahi<i>s</i>ta, le meilleur (?), l'Immortel généreux. Et nous sacrifions au Hâ fraoreti, même à la confession et à la louange de la foi mazdayasnienne !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

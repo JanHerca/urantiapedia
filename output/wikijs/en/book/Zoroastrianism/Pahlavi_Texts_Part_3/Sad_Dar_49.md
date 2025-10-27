@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The forty-ninth subject is this, that, when _one_ <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> gathers up a fire, it is requisite to leave _it for_ a time, so that the ash-bed (bûm) of the fire _may_ become cold; afterwards, _one is_ to take _it_ up and carry _it_ to the precinct of fire. 2. It is not proper that they carry the ash-bed (zamîn) of a hot fire to the precinct of fire; so far is notorious.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

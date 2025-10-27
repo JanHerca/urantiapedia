@@ -54,6 +54,8 @@ PRAISE TO AHURA AND THE IMMORTALS; PRAYER FOR THE PRACTICE AND DIFFUSION OF THE 
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

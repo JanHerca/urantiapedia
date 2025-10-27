@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. L'esprit de sagesse répondit (9) ainsi : « L'homme le plus puissant est celui qui est capable de lutter contre ses propres démons [^2] ; (10) et, en particulier, celui qui éloigne de sa personne ces cinq démons, (11) qui sont tels que l'avidité, la colère, la luxure, la disgrâce et le mécontentement. 12. La route qui passe sur le pont de Kindvar [^3] est la plus redoutable. 13. Le compte de l'âme d'un méchant est le plus déconcertant. 14. Le lien des enfants est le plus agréable et le plus désirable. 15. Le travail qu'ils font pour les ingrats est d'autant plus regrettable. 16. Et le don qu'ils font aux indignes est d'autant plus inutile [^4]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

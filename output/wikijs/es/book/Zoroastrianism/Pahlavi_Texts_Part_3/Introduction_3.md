@@ -75,6 +75,8 @@ NUEVO OESTE.
 
 Abril de 1885.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Y la liberación de los celestiales del peligro del mal en el cielo es como _su_ liberación de la perturbación, y la llegada de los _ángeles buenos_ es como las buenas obras que los celestiales realizan. 5. Esta prosperidad (freh-hastŏ) y bienestar de la _existencia_ espiritual es _mayor_ que la del mundo, así como lo ilimitado y eterno es mayor que lo limitado y demoníaco (<i>s</i>êdânîkŏ).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

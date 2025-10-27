@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 12\. « Et voici les gens à considérer comme pauvres : (13) l'un est celui chez qui il n'y a pas de sagesse ; (14) le deuxième, dont le corps n'est pas sain ; (15) le troisième, qui vit dans sa peur, sa terreur [^1] et son mensonge ; (16) le quatrième, qui ne règne pas dans son <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> propre corps ; (17) le cinquième, dont le destin n'est d'aucune aide ; (18) le sixième, qui est infâme aux yeux des êtres sacrés et sur la langue des bons ; (19) et le septième, qui est vieux, et sans enfant ni parenté. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

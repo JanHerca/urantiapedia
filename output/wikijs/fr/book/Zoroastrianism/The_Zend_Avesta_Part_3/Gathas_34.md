@@ -94,6 +94,8 @@ Traduction.
 
 15\. Oui, (ô Mazda ! montre-moi ce chemin et sa récompense) ; dis-moi la meilleure (des vérités) ; révèle-moi les meilleures paroles et les meilleures actions, et la prière de confession [^452] du loueur par Ton Bon Esprit (vivant en nous) ; et par l'Ordre Juste, ô Ahura ! Et par Ton Pouvoir Souverain et Ta grâce, puisses-Tu rendre la vie vraiment progressive [^453] (jusqu'à ce que la perfection soit atteinte) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

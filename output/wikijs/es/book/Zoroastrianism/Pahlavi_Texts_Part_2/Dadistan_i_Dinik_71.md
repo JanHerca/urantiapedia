@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 3\. La respuesta es esta: los sumos sacerdotes [^3] han dicho que hay cosas que se dan por destino y otras por acción; y así lo han decidido plenamente: la vida, la esposa y los hijos, la autoridad y la riqueza se dan por destino, y la rectitud y la maldad del sacerdocio, la guerra y la agricultura se dan por acción. 4. Y también dicen que lo que no está <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> destinado a un hombre en el mundo no sucede; y lo que está destinado, ya sea por esfuerzo, se manifestará, ya sea por pecado o por pereza, si resulta perjudicado. 5. Lo que se presenta debido al esfuerzo es como _aquel_ que va a una reunión de felicidad, o la enfermedad _de_ un mortal que, debido a la enfermedad, muere temprano [^4]; _y_ aquel que por su pecaminosidad y pereza es así perjudicado es como _aquel_ que no se casaría con esposa, _y_ está seguro de que no nacerá ningún hijo suyo, _o_ como aquel que entrega _su_ cuerpo al matadero, y su vida es perjudicada por su vida.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

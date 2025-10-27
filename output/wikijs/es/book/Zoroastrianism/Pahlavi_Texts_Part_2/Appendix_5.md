@@ -61,6 +61,8 @@ Pahl. Vend. VIII, 271. «¡Oh, creador! ¿Cómo se purifican esos hombres, oh ju
 
 <i>b</i>. Cuando se ha lavado así por completo, su deber incluso entonces es el trabajo frakairi frakerenao<i>d</i>, vâstrê verezyôi<i>d</i> (debe realizar con perseverancia, debe cultivar en los pastos [^13]); hay quienes dirían: "Siempre está para el desempeño del trabajo, y la abstinencia de las ceremonias de otros es para él [^14].\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

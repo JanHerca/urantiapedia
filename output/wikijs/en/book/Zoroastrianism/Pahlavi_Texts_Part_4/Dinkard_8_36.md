@@ -48,6 +48,8 @@ _Hûspâram Nask_.
 
 17\. About where _and_ in whom, after the father, is <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> the prerogative as to a daughter _being_ given away to a husband.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

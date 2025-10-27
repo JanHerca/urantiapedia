@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 17\. _En cuanto a_ todo lo que trata del mismo tema, introduce muchas opiniones, y también esta, que un contraataque (<i>a</i><i>v</i><i>â</i><i>z</i>\-zatam) es aquello que se convierte en golpe y herida, _y_ debe cometerse así cuando <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> es posible producirlos de nuevo exactamente en cada uno de sus detalles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

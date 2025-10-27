@@ -56,6 +56,8 @@ And we worship the heaven and the earth of blessed gift, and the bounteous Mãth
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

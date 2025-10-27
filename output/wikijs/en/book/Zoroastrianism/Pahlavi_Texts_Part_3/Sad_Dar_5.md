@@ -44,6 +44,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 11\. And a Gêtî-kharî<i>d</i> is this, that heaven is purchased in the world, and one's own place brought to hand in heaven.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

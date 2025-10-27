@@ -52,6 +52,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 31\. As there were ten varieties of man [^28], _and_ fifteen races from Fravâk, there were twenty-five races all from the seed of Gâyômar<i>d</i>; _the varieties are such_ as _those_ of the earth, of the water, the breast-eared, the breast-eyed, the one-legged, those also who have wings like a bat, _those_ of the forest, with tails, _and_ who have hair on the body [^29].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

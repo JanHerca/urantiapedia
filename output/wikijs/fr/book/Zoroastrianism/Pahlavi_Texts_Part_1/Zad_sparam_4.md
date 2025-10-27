@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 7\. Car au commencement, il fut ainsi établi que l'étoile Jupiter (Aûharmazd) était la vie pour les créatures, non par sa propre nature, mais parce qu'elle était sous le contrôle (bande) des luminaires [^5] ; et Saturne (Kêvân) était la mort pour les créatures. 8. Tous deux étaient dans leur suprématie (bâlîst) [^6] au commencement des créatures, <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> comme Jupiter était en Cancer à son ascendant, ce qu'on appelle aussi <i>G</i>îvân (« vivant ») [^7], car c'est le lieu où la vie lui est conférée ; _et_ Saturne était en Balance, dans le grand souterrain, de sorte que son propre venin et sa propre mortalité _devinrent_ plus évidents et plus dominants par là. 9. Et c'est lorsque les deux ne seront plus suprêmes _que_ Gâyômar<i>d</i> devait achever sa propre vie, ce qui correspond aux trente années [^8] Saturne ne revint pas à la suprématie, c'est-à-dire à la Balance. 10. Et au moment où Saturne entra en Balance, Jupiter était en Capricorne [^9], à cause de sa propre bassesse [^10], et de la victoire de Saturne sur Jupiter, Gâyômar<i>d</i> souffrit de ces mêmes défauts qui sont venus et continueront à progresser, la continuation de cette défiguration qui Aharman peut faire appel aux créatures d'Aûharmazd.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

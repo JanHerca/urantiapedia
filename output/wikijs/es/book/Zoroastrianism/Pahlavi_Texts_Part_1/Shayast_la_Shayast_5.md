@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 7\. El sordomudo, cuando no puede decir un Ashem, no comete una charla inoportuna [^15]; y cuando pueda decir un Ashem, deberá decirlo tres veces: «Ashem, ashem, ashem»; y si puede decir <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> «ithâ» y «ashem-vohû», está bien, y si solo puede decir «ithâ», no importa [^16].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

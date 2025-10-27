@@ -80,7 +80,7 @@ For his splendour and his glory, for his might . . . .
 
 ## VI.
 
-13\. We worship Sraosha (Obedience) the blessed, who is the strongest and most persistent of the youths, the most energetic, and the swiftest, who of all the youths strikes most with terror [^1249] from afar (?). \[^1250].\]
+13\. We worship Sraosha (Obedience) the blessed, who is the strongest and most persistent of the youths, the most energetic, and the swiftest, who of all the youths strikes most with terror [^1249] from afar (?). [^1250]
 
 14\. Far from this house, this village, and this tribe, and from this country, the evil and destructive terrors (shall) depart. In the dwelling of that man in whose abode Obedience the blessed, who smites victoriously, is satisfied and welcomed, there is that holy man who thus contents him (most) forward in the thinking better thoughts, in the speaking truthful (ritual) words, and in the doing holy deeds [^1251].
 
@@ -141,6 +141,8 @@ Yea, we worship (all the martial gifts) of Sraosha (Obedience) the mighty, both 
 For his splendour and his glory, for his might, which smites with victory, I will worship him with the Yasna of the Yazads, with a Yasna loud-intoned, him Obedience the blessed, with the consecrated waters, and the good Blessedness, the lofty, and Nairya-sangha, the stately, and may he come to us to aid us, he who smites with victory, Obedience the blessed!
 
 
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

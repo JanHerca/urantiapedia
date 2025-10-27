@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. Et les deux professions sont les conservateurs indispensables des grandes décisions _quant à_ ce que la disposition sacerdotale _a_ enseigné, fait et considéré à propos de l'existence perpétuelle de chaque être, de la bonté complète _et_ du succès final du mal inexistant _et_ du bien entier des êtres sacrés, de l'annihilation des démons [^6], _et_ de la compréhension complète des amis des êtres sacrés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

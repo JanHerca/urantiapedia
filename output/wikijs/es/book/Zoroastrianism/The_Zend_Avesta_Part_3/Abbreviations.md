@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="pxlviii">[<sup><small>pág. xlviii</small></sup>]</span>
+<span id="pxlviii"><sup><small>[ pág. xlviii ]</small></sup></span>
 
 Barth. = Bartolomae.
 
@@ -71,6 +71,8 @@ Wg. = Westergaard.
 ZDMG = Zeitschrift der deutschen morgenländischen Gesellschaft.
 
 Un asterisco denota irregularidades.
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

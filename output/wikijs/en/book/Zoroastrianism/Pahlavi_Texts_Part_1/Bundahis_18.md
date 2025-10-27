@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 10\. Between [^12] these trees of such kinds [^13] is formed the mountain with cavities, 9999 thousand myriads _in number_, each myriad being ten thousand. 11. Unto that mountain is given the protection of the waters, so that water streams forth from there, in the rivulet channels, to the land of the seven regions, as the source of all the sea-water in the land of the seven regions is from there [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

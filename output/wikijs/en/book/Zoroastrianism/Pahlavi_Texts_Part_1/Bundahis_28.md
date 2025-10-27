@@ -58,6 +58,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 47\. Regarding the cold, dry, stony, and dark interior of mysterious (târîk dên afrâ<i>g</i>\-pê<i>d</i>âk) hell it says, that the darkness is fit to grasp with the hand [^54], and the stench is fit to cut with a knife; and if they inflict the punishment of a thousand men within a single span, they (the men) think in this _way_, that they are alone; _and_ the loneliness is worse than its punishment [^55]. 48. And its connection (band) is with the seven planets, be it through much cold like Saturn [^56] (Kêvân), be it through much heat like Aharman; and their food is brimstone (gandak), and of succulents the lizard (vazagh), _and_ other evil _and_ wretchedness (patyân).\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -256,7 +256,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 65\. 'Ella lo agarró del brazo: rápidamente lo hizo, y no tardó mucho en llegar, a toda velocidad, a la tierra hecha por Mazda y a su propia casa, sano y salvo, ileso, sin heridas, tal como estaba antes.
 
-\[^343].\]
+[^343]
 
 'Por su resplandor y su gloria le ofreceré un sacrificio...
 
@@ -296,7 +296,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 78\. 'Ardvi Sûra Anâhita se apresuró hacia él en forma de doncella, hermosa de cuerpo, fortísima, alta, de ceñido alto, pura, noble de una raza gloriosa, con zapatos hasta los tobillos, con todo tipo de adornos y radiante [^354]. Detuvo una parte de las aguas, hizo fluir otra, y le dejó un paso seco para cruzar el buen Vîtanghuhaiti [^355].
 
-\[^356].\]
+[^356]
 
 'Por su resplandor y su gloria le ofreceré un sacrificio...
 
@@ -362,7 +362,7 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 98\. 'Ante quien los adoradores de Mazda <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> se presentan con baresma en sus manos: los Hvôvas la adoraron, los Naotaras la adoraron [^381]; los Hvôvas pidieron riquezas, los Naotaras pidieron caballos veloces. Rápidamente Hvôva fue bendecida con riquezas y plena prosperidad; rápidamente se convirtió en Vî<i>s</i>tâspa, el Naotaride, el señor de los caballos más veloces de estos países [^382]
 
-99\. \[^383].\]
+99\. [^383]
 
 'Por su resplandor y su gloria le ofreceré un sacrificio...
 
@@ -474,6 +474,8 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 '¡Dale a ese hombre brillo y gloria, . . . dale la morada brillante, feliz y dichosa de los Santos!'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -500,300 +502,298 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad. . . .
 
 ## Notas al pie
 
-[^291]: 53:1 Siroza I, 10.
+[^273]: 53:1 Siroza I, 10.
 
-[^292]: 54:1 'Como ella desciende a todos los lugares' (Fil. tr. ad Yasna LXV, 1 \[LXVI, 2\]).
+[^274]: 54:1 'Como ella desciende a todos los lugares' (Fil. tr. ad Yasna LXV, 1 \[LXVI, 2\]).
 
-[^293]: 54:2 Âdhu, traducido como <i>g</i>ân; «ella alarga la vida» (Aspendiârji). Quizás âdhu se traduciría mejor como manantiales, ríos (leyendo <i>g</i>ûy en lugar de <i>g</i>ân; cf. Yt. VIII, 29).
+[^275]: 54:2 Âdhu, traducido como <i>g</i>ân; «ella alarga la vida» (Aspendiârji). Quizás âdhu se traduciría mejor como manantiales, ríos (leyendo <i>g</i>ûy en lugar de <i>g</i>ân; cf. Yt. VIII, 29).
 
-[^294]: 54:3 'Puro y sano, sin sangre ni inmundicia' (trad. filosófica).
+[^276]: 54:3 'Puro y sano, sin sangre ni inmundicia' (trad. filosófica).
 
-[^295]: 54:4 'Para que pueda concebir de nuevo' (trad. filosófica).
+[^277]: 54:4 'Para que pueda concebir de nuevo' (trad. filosófica).
 
-[^296]: 54:5 'Hûgar el alto es aquel desde el cual el agua de Arêdvîvsûr salta la altura de mil hombres' (Bundahi<i>s</i> XII, 5, tr. Oeste); cf. infra, §§ 96, 121, 126; Yt. XIII, 24. El Hukairya se menciona de nuevo en § 25 y Yt. IX, 8; Yt. X, 88; Yt. XV, 15; Yt. XVII, 28. Parece estar situado en el oeste (Bundahi<i>s</i> XXIV, 17; II, 7; Minokhired XLIV, 12).
+[^278]: 54:5 'Hûgar el alto es aquel desde el cual el agua de Arêdvîvsûr salta la altura de mil hombres' (Bundahi<i>s</i> XII, 5, tr. Oeste); cf. infra, §§ 96, 121, 126; Yt. XIII, 24. El Hukairya se menciona de nuevo en § 25 y Yt. IX, 8; Yt. X, 88; Yt. XV, 15; Yt. XVII, 28. Parece estar situado en el oeste (Bundahi<i>s</i> XXIV, 17; II, 7; Minokhired XLIV, 12).
 
-[^297]: 54:6 El Océano que rodea la Tierra; cf. Vendîdâd V, 15 (49) seq., texto y notas.
+[^279]: 54:6 El Océano que rodea la Tierra; cf. Vendîdâd V, 15 (49) seq., texto y notas.
 
-[^298]: 55:1 Véase la descripción § 101 y siguientes.
+[^280]: 55:1 Véase la descripción § 101 y siguientes.
 
-[^299]: 55:2 Zao<i>s</i>a o zu<i>s</i>a, un ἅπαξ λεγόμενον, parece designar una parte del cuerpo; cf. § 126.
+[^281]: 55:2 Zao<i>s</i>a o zu<i>s</i>a, un ἅπαξ λεγόμενον, parece designar una parte del cuerpo; cf. § 126.
 
-[^300]: 55:3 Cf. §§ 11, 124.
+[^282]: 55:3 Cf. §§ 11, 124.
 
-[^301]: 56:1 Como arriba, [p. 30](../Yasts_1#p30); el § 9 se repite al final de cada capítulo.
+[^283]: 56:1 Como arriba, [p. 30](../Yasts_1#p30); el § 9 se repite al final de cada capítulo.
 
-[^302]: 56:2 § 10 = § 2.
+[^284]: 56:2 § 10 = § 2.
 
-[^303]: 56:3 Es decir, para su adoración; cf. Yasna XXIII, 2 \[5\], paiti<i>s</i>mare<i>ñ</i>ti = Phl. hûmîtînît, esperan, esperan. Cf. § 123.
+[^285]: 56:3 Es decir, para su adoración; cf. Yasna XXIII, 2 \[5\], paiti<i>s</i>mare<i>ñ</i>ti = Phl. hûmîtînît, esperan, esperan. Cf. § 123.
 
-[^304]: 56:4 Como arriba, § 9.
+[^286]: 56:4 Como arriba, § 9.
 
-[^305]: 57:1 Como arriba, § 10.
+[^287]: 57:1 Como arriba, § 10.
 
-[^306]: 57:2 Cf. [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120).
+[^288]: 57:2 Cf. [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120).
 
-[^307]: 57:3 Dudoso; cf. Yt. VIII, 47.
+[^289]: 57:3 Dudoso; cf. Yt. VIII, 47.
 
-[^308]: 57:4 Cf. arriba, § 3.
+[^290]: 57:4 Cf. arriba, § 3.
 
-[^309]: 57:5 Cf. Vend. Introd. IV, 9, 40. Éste es el prototipo celestial del sacrificio mazdeísta tal como lo mostró posteriormente a los hombres Zaratustra; cf. § 101.
+[^291]: 57:5 Cf. Vend. Introd. IV, 9, 40. Éste es el prototipo celestial del sacrificio mazdeísta tal como lo mostró posteriormente a los hombres Zaratustra; cf. § 101.
 
-[^310]: 57:6 Cf. Yt. I, 4 y notas.
+[^292]: 57:6 Cf. Yt. I, 4 y notas.
 
-[^311]: 57:7 Cf. Yt. III, 18.
+[^293]: 57:7 Cf. Yt. III, 18.
 
-[^312]: 58:1 Haoshyangha fue el primer rey de la dinastía Paradhâta (Pêshdâdyan) (cf. arriba, [p. 7](../Sirozahs_1#p7), nota [2](../Sirozahs_1#fn40), y Bundahi<i>s</i> XXXI, 1). Se relata en el Shâh Nâmah de Firdausi que era nieto de Gayomarth, el primer hombre y rey, e hijo de Syâmak; que habiendo muerto su padre a manos del Dîv negro, lo encontró a la cabeza de un ejército de leones, tigres, pájaros y Paris, y lo destruyó; luego sucedió a su abuelo y reinó supremo sobre los siete Keshvars de la tierra.
+[^294]: 58:1 Haoshyangha fue el primer rey de la dinastía Paradhâta (Pêshdâdyan) (cf. arriba, [p. 7](../Sirozahs_1#p7), nota [2](../Sirozahs_1#fn40), y Bundahi<i>s</i> XXXI, 1). Se relata en el Shâh Nâmah de Firdausi que era nieto de Gayomarth, el primer hombre y rey, e hijo de Syâmak; que habiendo muerto su padre a manos del Dîv negro, lo encontró a la cabeza de un ejército de leones, tigres, pájaros y Paris, y lo destruyó; luego sucedió a su abuelo y reinó supremo sobre los siete Keshvars de la tierra.
 
-[^313]: 58:2 Dudoso: upabda = upabanda, como thribda (Yt. VIII, 55) = thribanda; parece de Yt. XV, 7 que el lugar al que se hace referencia aquí es el Taêra, que se dice en los Bundahi<i>s</i> (V, 7) que está rodeado por el Albôrz (el Hara).
+[^295]: 58:2 Dudoso: upabda = upabanda, como thribda (Yt. VIII, 55) = thribanda; parece de Yt. XV, 7 que el lugar al que se hace referencia aquí es el Taêra, que se dice en los Bundahi<i>s</i> (V, 7) que está rodeado por el Albôrz (el Hara).
 
-[^314]: 58:3 Se suponía que el Hara berezaiti o Albôrz, en Mâzandarân, al sur del Mar Caspio, rodeaba la Tierra; cf. Yt. X, 56.
+[^296]: 58:3 Se suponía que el Hara berezaiti o Albôrz, en Mâzandarân, al sur del Mar Caspio, rodeaba la Tierra; cf. Yt. X, 56.
 
-[^315]: 59:1 Una fórmula frecuentemente utilizada, no sólo en el Avesta, sino también en el Shâh Nâmah.
+[^297]: 59:1 Una fórmula frecuentemente utilizada, no sólo en el Avesta, sino también en el Shâh Nâmah.
 
-[^316]: 59:2 Los Daêvas en Mâzandarân. Mâzandarân era considerado un lugar de refugio para demonios y hechiceros, y en la leyenda iraní era casi igual que Ceilán en el Râmâya<i>n</i>a. El monte Damâvand, al que estaba ligado A<i>z</i>i Dahâka, constituye el límite sur de Mâzandarân.
+[^298]: 59:2 Los Daêvas en Mâzandarân. Mâzandarân era considerado un lugar de refugio para demonios y hechiceros, y en la leyenda iraní era casi igual que Ceilán en el Râmâya<i>n</i>a. El monte Damâvand, al que estaba ligado A<i>z</i>i Dahâka, constituye el límite sur de Mâzandarân.
 
-[^317]: 59:3 Véase Vend. Introd. IV, 23; cf. este Ya<i>s</i>t, § 33.
+[^299]: 59:3 Véase Vend. Introd. IV, 23; cf. este Ya<i>s</i>t, § 33.
 
-[^318]: 59:4 Yima Khshaêta (<i>G</i>emshîd), como rey terrenal, gobernó el mundo durante mil años, mientras hacía reinar en él la inmortalidad (Yt. IX, 8; XV, 15; cf. Vendîdâd II, Introd.).
+[^300]: 59:4 Yima Khshaêta (<i>G</i>emshîd), como rey terrenal, gobernó el mundo durante mil años, mientras hacía reinar en él la inmortalidad (Yt. IX, 8; XV, 15; cf. Vendîdâd II, Introd.).
 
-[^319]: 59:5 Véase arriba, § 3.
+[^301]: 59:5 Véase arriba, § 3.
 
-[^320]: 60:1 Después de que su hermano Takhma Urupa, que reinó antes de él, fuera asesinado y devorado por Angra Mainyu (Yt. IV, 11, nota).
+[^302]: 60:1 Después de que su hermano Takhma Urupa, que reinó antes de él, fuera asesinado y devorado por Angra Mainyu (Yt. IV, 11, nota).
 
-[^321]: 60:2 Cuando Yima comenzó a pecar y perdió la <i>H</i><i>v</i>arenô (Gloria), fue derrocado por A<i>z</i>i Dahâka (Zohâk), quien tomó el poder y reinó en su lugar durante mil años (cf. Yt. XIX, 33 ss.).
+[^303]: 60:2 Cuando Yima comenzó a pecar y perdió la <i>H</i><i>v</i>arenô (Gloria), fue derrocado por A<i>z</i>i Dahâka (Zohâk), quien tomó el poder y reinó en su lugar durante mil años (cf. Yt. XIX, 33 ss.).
+  A<i>z</i>i Dahâka, literalmente «la serpiente diabólica», fue inicialmente un personaje mítico; era la «serpiente» de la nube tormentosa y contraparte del Ahi o V<i>ri</i>tra védico. Aparece aún con ese carácter en Ya<i>s</i>t XIX y siguientes, donde se le describe luchando por el H<i>v</i>arenô contra Âtar (Fuego), en el mar Vourukasha (Vendîdâd, Introd. IV, 38; cf. este Ya<i>s</i>t, § 90). Su lucha con Yima Khshaêta tuvo inicialmente el mismo carácter mitológico, siendo «el brillante Yima» originalmente, al igual que el Yama védico, un héroe solar: cuando Yima se convirtió en un rey terrenal, A<i>z</i>i corrió la misma suerte. En el Shâh Nâmah se le describe como un hombre con dos serpientes que brotan de sus hombros: crecieron gracias al beso de Ahriman. Para los mitos referentes a A<i>z</i>i, véase Ormazd et Ahriman, §§ 91-95.
 
-A<i>z</i>i Dahâka, literalmente «la serpiente diabólica», fue inicialmente un personaje mítico; era la «serpiente» de la nube tormentosa y contraparte del Ahi o V<i>ri</i>tra védico. Aparece aún con ese carácter en Ya<i>s</i>t XIX y siguientes, donde se le describe luchando por el H<i>v</i>arenô contra Âtar (Fuego), en el mar Vourukasha (Vendîdâd, Introd. IV, 38; cf. este Ya<i>s</i>t, § 90). Su lucha con Yima Khshaêta tuvo inicialmente el mismo carácter mitológico, siendo «el brillante Yima» originalmente, al igual que el Yama védico, un héroe solar: cuando Yima se convirtió en un rey terrenal, A<i>z</i>i corrió la misma suerte. En el Shâh Nâmah se le describe como un hombre con dos serpientes que brotan de sus hombros: crecieron gracias al beso de Ahriman. Para los mitos referentes a A<i>z</i>i, véase Ormazd et Ahriman, §§ 91-95.
+[^304]: 60:3 Babilonia (cf. Yt. XV, 19). El usurpador Azí, al no ser ario, fue identificado con su enemigo hereditario, los caldeos: el nombre de Babilonia unía, al mismo tiempo, un vago registro histórico de la antigua opresión asiria, entonces abandonada y olvidada, y una expresión real de la antipatía nacional de los iraníes hacia sus vecinos semitas de Caldea. Tras la conquista de Persia por los musulmanes, Azí se convirtió finalmente en árabe. La sede original de los mitos de Azí se encontraba en la costa sur del mar Caspio (Études Iraniennes, II, 210).
 
-[^322]: 60:3 Babilonia (cf. Yt. XV, 19). El usurpador Azí, al no ser ario, fue identificado con su enemigo hereditario, los caldeos: el nombre de Babilonia unía, al mismo tiempo, un vago registro histórico de la antigua opresión asiria, entonces abandonada y olvidada, y una expresión real de la antipatía nacional de los iraníes hacia sus vecinos semitas de Caldea. Tras la conquista de Persia por los musulmanes, Azí se convirtió finalmente en árabe. La sede original de los mitos de Azí se encontraba en la costa sur del mar Caspio (Études Iraniennes, II, 210).
+[^305]: 61:1 Thraêtaona (Ferîdûn), hijo de Âthwya, conquistó a A<i>z</i>i y lo ató al Monte Damâvand, donde permanecerá hasta el fin del mundo, cuando será liberado y luego asesinado por Keresâspa (Vendîdâd, Introd. IV, 12, 18; Bauman Ya<i>s</i>t III, 55 seq.; Bund. XXIX, 8 seq.).
 
-[^323]: 61:1 Thraêtaona (Ferîdûn), hijo de Âthwya, conquistó a A<i>z</i>i y lo ató al Monte Damâvand, donde permanecerá hasta el fin del mundo, cuando será liberado y luego asesinado por Keresâspa (Vendîdâd, Introd. IV, 12, 18; Bauman Ya<i>s</i>t III, 55 seq.; Bund. XXIX, 8 seq.).
+[^306]: 61:2 Vîsô-puthra = Pahlavi barbîtâ (ver Études Iraniennes, II, 139).
 
-[^324]: 61:2 Vîsô-puthra = Pahlavi barbîtâ (ver Études Iraniennes, II, 139).
+[^307]: 61:3 Cf. Vend. I, 18 e Introd. IV, 12. La tradición moderna supone que Varena era la región de Ghilan (muy probablemente debido a su proximidad a Mâzandarân y al monte Damavand).
 
-[^325]: 61:3 Cf. Vend. I, 18 e Introd. IV, 12. La tradición moderna supone que Varena era la región de Ghilan (muy probablemente debido a su proximidad a Mâzandarân y al monte Damavand).
+[^308]: 61:4 Véase Yt. X, 82, nota.
 
-[^326]: 61:4 Véase Yt. X, 82, nota.
+[^309]: 62:1 Cf. Yt. XIX, 37.
 
-[^327]: 62:1 Cf. Yt. XIX, 37.
+[^310]: 62:2 Las dos hijas de Yima, violadas por Azi, se llaman Shahrinâz y Arnavâz en el Shâh Nâmah (véase Estudios Iraníes, II, 213, Savanghavâk y Erenavâk). Thraêtaona las liberó y se casó con ellas; tuvo un hijo, Airyu, de Arnavâz, y dos hijos de Shahrinâz, Tura y Sairima; Airyu, Tura y Sairima se convirtieron en los reyes de Irán, Turan y Rum.
 
-[^328]: 62:2 Las dos hijas de Yima, violadas por Azi, se llaman Shahrinâz y Arnavâz en el Shâh Nâmah (véase Estudios Iraníes, II, 213, Savanghavâk y Erenavâk). Thraêtaona las liberó y se casó con ellas; tuvo un hijo, Airyu, de Arnavâz, y dos hijos de Shahrinâz, Tura y Sairima; Airyu, Tura y Sairima se convirtieron en los reyes de Irán, Turan y Rum.
+[^311]: 62:3 Cf. Yt. IX, 14; XV, 24; XVII, 34.
 
-[^329]: 62:3 Cf. Yt. IX, 14; XV, 24; XVII, 34.
+[^312]: 62:4 Keresâspa (Garshâsp), uno de los héroes más grandes del romance avéstico, aunque Firdausi prácticamente lo ha ignorado. Véanse sus hazañas, Yt. XIX, 38 y ss.; cf. Yt. V, 27 y ss.; Yasna IX, 10 (29); Vend. I, 10 (36).
 
-[^330]: 62:4 Keresâspa (Garshâsp), uno de los héroes más grandes del romance avéstico, aunque Firdausi prácticamente lo ha ignorado. Véanse sus hazañas, Yt. XIX, 38 y ss.; cf. Yt. V, 27 y ss.; Yasna IX, 10 (29); Vend. I, 10 (36).
+[^313]: 62:5 El valle de Pisín, al sur de Cabool. Fue en la tierra de Cabool donde surgió la leyenda de Keresâspa, o al menos se localizó allí. Es en la llanura cercana al valle de Pisín donde Keresâspa yace dormida hasta el fin del mundo (véase Yt. XIII, 61, nota).
 
-[^331]: 62:5 El valle de Pisín, al sur de Cabool. Fue en la tierra de Cabool donde surgió la leyenda de Keresâspa, o al menos se localizó allí. Es en la llanura cercana al valle de Pisín donde Keresâspa yace dormida hasta el fin del mundo (véase Yt. XIII, 61, nota).
+[^314]: 63:1 Un poema parsi, de fecha muy tardía, ofrece más detalles sobre Ga<i>n</i>darewa. Era un monstruo que vivía «en el mar, en la montaña y en el valle»; se le llamaba Pâshnah zarah, porque el mar no le llegaba más allá del talón (una interpretación errónea de su epíteto avéstico zairi pâshna, «de talones dorados», ya que el zend zairi se confundía con el persa zarah ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/06300.jpg), mar); su cabeza se elevaba hacia el sol y rozaba el cielo; podía engullir a doce hombres a la vez. Keresâspa luchó contra él durante nueve días y nueve noches seguidas; Finalmente lo sacó del fondo del mar y le aplastó la cabeza con su garrote: cuando cayó al suelo, muchos países fueron arruinados por su caída (Spiegel, Die traditionalnelle Literatur der Parsen, p. 339, y West, Pahlavi Texts, II, pp. 369 seq.).
+  En la mitología védica, el Gandharva es el guardián del Soma, y ​​se le describe a veces como un dios, a veces como un demonio, según sea un sacerdote celestial del Soma o un poseedor celoso que lo niega al hombre. No está claro cuál fue la forma original del mito en el mazdeísmo. En el Shâh Nâmah aparece como ministro de A<i>z</i>i Dahâka. Cf. Yt. XV, 27 y ss., y Ormazd et Ahriman, págs. 99, nota 5; 215, nota 1.
 
-[^332]: 63:1 Un poema parsi, de fecha muy tardía, ofrece más detalles sobre Ga<i>n</i>darewa. Era un monstruo que vivía «en el mar, en la montaña y en el valle»; se le llamaba Pâshnah zarah, porque el mar no le llegaba más allá del talón (una interpretación errónea de su epíteto avéstico zairi pâshna, «de talones dorados», ya que el zend zairi se confundía con el persa zarah ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/06300.jpg), mar); su cabeza se elevaba hacia el sol y rozaba el cielo; podía engullir a doce hombres a la vez. Keresâspa luchó contra él durante nueve días y nueve noches seguidas; Finalmente lo sacó del fondo del mar y le aplastó la cabeza con su garrote: cuando cayó al suelo, muchos países fueron arruinados por su caída (Spiegel, Die traditionalnelle Literatur der Parsen, p. 339, y West, Pahlavi Texts, II, pp. 369 seq.).
+[^315]: 64:1 Frangrasyan (Afrâsyâb) fue rey de Tûrân durante doscientos años. La perpetua lucha entre Irán y Tûrân, que perdura hasta nuestros días, quedó representada en la leyenda por las mortíferas e interminables guerras entre Afrâsyâb y los reyes iraníes desde Mino<i>k</i>ihr hasta Kai Khosrav (Kavi Husravah). La principal causa de la disputa fue el asesinato de Syâvakhsh (Syâvarshâna) a manos de Afrâsyâb. Syâvakhsh, hijo de Kai Kaus (Kava Usa), tras ser exiliado por su padre, por instigación de su suegra, se refugió en Afrâsyâb, quien lo recibió con honores y le dio a su hija en matrimonio. Sin embargo, la fortuna de Syâvakhsh despertó los celos del hermano de Afrâsyâb, Karsîvaz (Keresavazda), quien, mediante acusaciones calumniosas, obtuvo de Afrâsyâb la orden de ejecutarlo (véase Yt. XIX, 77). Syâvakhsh fue vengado por su hijo, Kai Khosrav, nieto de Afrâsyâb (Yt. IX, 22).
 
-En la mitología védica, el Gandharva es el guardián del Soma, y ​​se le describe a veces como un dios, a veces como un demonio, según sea un sacerdote celestial del Soma o un poseedor celoso que lo niega al hombre. No está claro cuál fue la forma original del mito en el mazdeísmo. En el Shâh Nâmah aparece como ministro de A<i>z</i>i Dahâka. Cf. Yt. XV, 27 y ss., y Ormazd et Ahriman, págs. 99, nota 5; 215, nota 1.
+[^316]: 64:2 Ha<i>n</i>kanê: Firdausi habla de una cueva en la cima de una montaña, cerca de Barda (en la frontera de Adarbai<i>g</i>ân), donde Afrâsyâb, tras ser derrotado, se refugió y fue descubierto por Kai Khosrav; esa cueva se llamaba «la cueva de Afrâsyâb» (hang i Afrâsiâb; Shâh Nâmah, IV, 196). En una versión más antigua de la leyenda, esa cueva era un palacio construido bajo tierra, con muros de hierro y cien columnas: su altura era mil veces la de un hombre (Aogemaidê, § 61; cf. Bund. XII, 20: véase estudios Iraniennes, II, 225, Le Hang d'Afrâsyâb).
 
-[^333]: 64:1 Frangrasyan (Afrâsyâb) fue rey de Tûrân durante doscientos años. La perpetua lucha entre Irán y Tûrân, que perdura hasta nuestros días, quedó representada en la leyenda por las mortíferas e interminables guerras entre Afrâsyâb y los reyes iraníes desde Mino<i>k</i>ihr hasta Kai Khosrav (Kavi Husravah). La principal causa de la disputa fue el asesinato de Syâvakhsh (Syâvarshâna) a manos de Afrâsyâb. Syâvakhsh, hijo de Kai Kaus (Kava Usa), tras ser exiliado por su padre, por instigación de su suegra, se refugió en Afrâsyâb, quien lo recibió con honores y le dio a su hija en matrimonio. Sin embargo, la fortuna de Syâvakhsh despertó los celos del hermano de Afrâsyâb, Karsîvaz (Keresavazda), quien, mediante acusaciones calumniosas, obtuvo de Afrâsyâb la orden de ejecutarlo (véase Yt. XIX, 77). Syâvakhsh fue vengado por su hijo, Kai Khosrav, nieto de Afrâsyâb (Yt. IX, 22).
+[^317]: 64:3 Yt. XIX, 56 y siguientes.
 
-[^334]: 64:2 Ha<i>n</i>kanê: Firdausi habla de una cueva en la cima de una montaña, cerca de Barda (en la frontera de Adarbai<i>g</i>ân), donde Afrâsyâb, tras ser derrotado, se refugió y fue descubierto por Kai Khosrav; esa cueva se llamaba «la cueva de Afrâsyâb» (hang i Afrâsiâb; Shâh Nâmah, IV, 196). En una versión más antigua de la leyenda, esa cueva era un palacio construido bajo tierra, con muros de hierro y cien columnas: su altura era mil veces la de un hombre (Aogemaidê, § 61; cf. Bund. XII, 20: véase estudios Iraniennes, II, 225, Le Hang d'Afrâsyâb).
+[^318]: 65:1 Kavi Usa (Kai Kaus), hijo de Kavi Kavâta (Kai Kobâd) y padre de Syâvakhsh (véase [p. 64](#p64), nota 315), fue el segundo rey de la dinastía Kayanian.
 
-[^336]: 64:3 Yt. XIX, 56 y siguientes.
+[^319]: 65:2 Se ha supuesto que el monte Erezifya es el mismo que los Montes Sariphi en Ptolomeo, que se extienden entre Margiana y Ariana (Burnouf, Commentaire sur le Yasna, p. 436).
 
-[^337]: 65:1 Kavi Usa (Kai Kaus), hijo de Kavi Kavâta (Kai Kobâd) y padre de Syâvakhsh (véase [p. 64](#p64), nota [^315]), fue el segundo rey de la dinastía Kayanian.
+[^320]: 65:3 Kai Khosrav; cf. [p. 64](#p64), notas 315 y 316.
 
-[^338]: 65:2 Se ha supuesto que el monte Erezifya es el mismo que los Montes Sariphi en Ptolomeo, que se extienden entre Margiana y Ariana (Burnouf, Commentaire sur le Yasna, p. 436).
+[^321]: 66:1 Dudoso.
 
-[^339]: 65:3 Kai Khosrav; cf. [p. 64](#p64), notas [^315] y [^316].
+[^322]: 66:2 Un lago en Adarbai<i>g</i>ân, con agua salada: los peces no pueden vivir en él (Bundahi<i>s</i> XXII, 2). Es el mismo que el lago Urumiah. Su nombre está mal escrito en Firdausi (Khan<i>g</i>ast por Kê<i>g</i>ast, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/06600.jpg) por ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/06601.jpg)).
 
-[^340]: 66:1 Dudoso.
+[^323]: 66:3 Dudoso; véase Études Iraniennes, II, uruyâpa, p. 179.
 
-[^341]: 66:2 Un lago en Adarbai<i>g</i>ân, con agua salada: los peces no pueden vivir en él (Bundahi<i>s</i> XXII, 2). Es el mismo que el lago Urumiah. Su nombre está mal escrito en Firdausi (Khan<i>g</i>ast por Kê<i>g</i>ast, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/06600.jpg) por ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/06601.jpg)).
+[^324]: 66:4 En la persecución de su adversario.
 
-[^342]: 66:3 Dudoso; véase Études Iraniennes, II, uruyâpa, p. 179.
+[^325]: 66:5 Dudoso (cf. Yt. XV, 32).
 
-[^343]: 66:4 En la persecución de su adversario.
+[^326]: 66:6 El Bosque Blanco (ibid.).
 
-[^344]: 66:5 Dudoso (cf. Yt. XV, 32).
+[^327]: 66:7 Aurvasâra (ibíd.).
 
-[^345]: 66:6 El Bosque Blanco (ibid.).
+[^328]: 66:8 Dudoso.
 
-[^346]: 66:7 Aurvasâra (ibíd.).
+[^329]: 66:9 Tratando de huir y escapar.
 
-[^347]: 66:8 Dudoso.
+[^330]: 66:10 Posiblemente, 'compitiendo en caballos' (por la rapidez de la carrera): cf. Yt. XIX, 77.
 
-[^348]: 66:9 Tratando de huir y escapar.
+[^331]: 66:11 Tusa, en el Shâh Nâmah Tus; uno de los Pahlavans más célebres de Kai Khosrav; era hijo del rey Naotara. (Nôdar).
 
-[^349]: 66:10 Posiblemente, 'compitiendo en caballos' (por la rapidez de la carrera): cf. Yt. XIX, 77.
+[^332]: 67:1 No ofrece un sacrificio completo, estando a caballo.
 
-[^350]: 66:11 Tusa, en el Shâh Nâmah Tus; uno de los Pahlavans más célebres de Kai Khosrav; era hijo del rey Naotara. (Nôdar).
+[^333]: 67:2 No hay que dejarse sorprender.
 
-[^351]: 67:1 No ofrece un sacrificio completo, estando a caballo.
+[^334]: 67:3 Cf. Yt. X, II, 94, 114.
 
-[^352]: 67:2 No hay que dejarse sorprender.
+[^335]: 67:4 Vaêsaka era el jefe de la familia Vîsah, cuyo miembro más importante era Pîrân Vîsah, el inteligente y recto ministro de Afrâsyâb, el turanio Néstor; pero sus consejos fueron despreciados por la ruina común, y él mismo pereció con todos sus hijos en la guerra contra Irân.
 
-[^353]: 67:3 Cf. Yt. X, II, 94, 114.
+[^336]: 67:5 Kangha fue una ciudad fundada por Syâvarshâna durante su exilio en una parte de la tierra de Khvârizm, descrita como un paraíso terrenal. Esta ciudad se construyó en la cima de una alta montaña (A<i>n</i>tare-Kangha, Yt. XIX, 4). El castillo de Khshathrô-saoka se llama en el Shâh Nâmah Kang de<i>z</i>, «la fortaleza de Kangha»; y, posiblemente, Khshathrô-saoka sea un mero epíteto de dvarem, «el castillo del bienestar real».
 
-[^354]: 67:4 Vaêsaka era el jefe de la familia Vîsah, cuyo miembro más importante era Pîrân Vîsah, el inteligente y recto ministro de Afrâsyâb, el turanio Néstor; pero sus consejos fueron despreciados por la ruina común, y él mismo pereció con todos sus hijos en la guerra contra Irân.
+[^337]: 67:6 Según el Shâh Nâmah, Kang de<i>z</i> fue asaltado por el propio Kai Khosrav.
 
-[^355]: 67:5 Kangha fue una ciudad fundada por Syâvarshâna durante su exilio en una parte de la tierra de Khvârizm, descrita como un paraíso terrenal. Esta ciudad se construyó en la cima de una alta montaña (A<i>n</i>tare-Kangha, Yt. XIX, 4). El castillo de Khshathrô-saoka se llama en el Shâh Nâmah Kang de<i>z</i>, «la fortaleza de Kangha»; y, posiblemente, Khshathrô-saoka sea un mero epíteto de dvarem, «el castillo del bienestar real».
+[^338]: 68:1 Cf. §§ 53-54.
 
-[^356]: 67:6 Según el Shâh Nâmah, Kang de<i>z</i> fue asaltado por el propio Kai Khosrav.
+[^339]: 68:2 Dudoso (pourvô); quizá 'el hombre de la fe primitiva' (el paoiryô-<i>t</i>kaêsha; cf. Yt. XIII, 0, nota): el sacrificio que ofrece es completamente zoroastriano (cf. §§ 17, 104, y nota 2 a este último).
 
-[^357]: 68:1 Cf. §§ 53-54.
+[^340]: 68:3 Se alude aquí a un mito perteneciente al ciclo de Thraêtaona, del cual no se encuentra ningún otro rastro en el Avesta (excepto en Yt. XXIII, 4). Probablemente se refería al momento en que Thraêtaona, en su marcha hacia Bawri, la capital de A<i>z</i>i (cf. § 29), llegó al Tigris (Rangha); un ángel acudió entonces y le enseñó magia para que pudiera frustrar los sortilegios de A<i>z</i>i (Shah Nâmah). En este pasaje encontramos un ejemplo de su talento como hechicero, que nos ayuda a comprender por qué se considera a Thraêtaona el inventor de la magia, y su nombre se invoca en conjuros y encantamientos (Hamzah Ispahanensis, p. 101; Anquetil, II, pp. 135 y ss.). Cf. Yt. XIV, 40 y nota.
 
-[^358]: 68:2 Dudoso (pourvô); quizá 'el hombre de la fe primitiva' (el paoiryô-<i>t</i>kaêsha; cf. Yt. XIII, 0, nota): el sacrificio que ofrece es completamente zoroastriano (cf. §§ 17, 104, y nota 2 a este último).
+[^341]: 69:1 Urvîkh<i>s</i>na, una palabra de significado dudoso.
 
-[^359]: 68:3 Se alude aquí a un mito perteneciente al ciclo de Thraêtaona, del cual no se encuentra ningún otro rastro en el Avesta (excepto en Yt. XXIII, 4). Probablemente se refería al momento en que Thraêtaona, en su marcha hacia Bawri, la capital de A<i>z</i>i (cf. § 29), llegó al Tigris (Rangha); un ángel acudió entonces y le enseñó magia para que pudiera frustrar los sortilegios de A<i>z</i>i (Shah Nâmah). En este pasaje encontramos un ejemplo de su talento como hechicero, que nos ayuda a comprender por qué se considera a Thraêtaona el inventor de la magia, y su nombre se invoca en conjuros y encantamientos (Hamzah Ispahanensis, p. 101; Anquetil, II, pp. 135 y ss.). Cf. Yt. XIV, 40 y nota.
+[^342]: 69:2 Cf. Yt. V, 78, 126.
 
-[^360]: 69:1 Urvîkh<i>s</i>na, una palabra de significado dudoso.
+[^343]: 69:3 Sin duda esta cláusula es espuria aquí.
 
-[^361]: 69:2 Cf. Yt. V, 78, 126.
+[^344]: 70:1 <i>G</i>âmâspa, el primer ministro de Vî<i>s</i>tâspa (Kai Gû<i>s</i>tâsp), aparece aquí con el carácter de un guerrero, aunque generalmente se le describe como un sabio y un profeta (Yasna XLIX \[XLVIII\], 9; LI \[L\], 8; Zardû<i>s</i>t Nâmah; no obstante, cf. Yt. XXIII, 2). El Shâh Nâmah tiene un episodio que recuerda a este, aunque muy diferente en su espíritu, y más acorde con el carácter general de <i>G</i>âmâspa. En el momento en que los dos ejércitos se encuentran, Gû<i>s</i>tâsp pide a <i>G</i>âmâsp</i> que le revele el resultado del encuentro: <i>G</i>âmâsp obedece de mala gana, ya que el resultado será fatal para los iraníes. <i>G</i>âmâsp pertenecía a la familia Hvôva.
 
-[^362]: 69:3 Sin duda esta cláusula es espuria aquí.
+[^345]: 70:2 O, 'como todo el resto de los arios juntos'.
 
-[^363]: 70:1 <i>G</i>âmâspa, el primer ministro de Vî<i>s</i>tâspa (Kai Gû<i>s</i>tâsp), aparece aquí con el carácter de un guerrero, aunque generalmente se le describe como un sabio y un profeta (Yasna XLIX \[XLVIII\], 9; LI \[L\], 8; Zardû<i>s</i>t Nâmah; no obstante, cf. Yt. XXIII, 2). El Shâh Nâmah tiene un episodio que recuerda a este, aunque muy diferente en su espíritu, y más acorde con el carácter general de <i>G</i>âmâspa. En el momento en que los dos ejércitos se encuentran, Gû<i>s</i>tâsp pide a <i>G</i>âmâsp</i> que le revele el resultado del encuentro: <i>G</i>âmâsp obedece de mala gana, ya que el resultado será fatal para los iraníes. <i>G</i>âmâsp pertenecía a la familia Hvôva.
+[^346]: 71:1 Cf. Yt. XIII, 112. Ashavazdah, el hijo de Pourudhâkh<i>s</i>ti, es uno de los inmortales que vendrán a ayudar a Saoshya<i>n</i><i>t</i> en la lucha final (Bundahi<i>s</i> XXIX, 6; Yt. XIX, 95).
 
-[^364]: 70:2 O, 'como todo el resto de los arios juntos'.
+[^347]: 71:2 Cf. Yt. XIII, 113.
 
-[^365]: 71:1 Cf. Yt. XIII, 112. Ashavazdah, el hijo de Pourudhâkh<i>s</i>ti, es uno de los inmortales que vendrán a ayudar a Saoshya<i>n</i><i>t</i> en la lucha final (Bundahi<i>s</i> XXIX, 6; Yt. XIX, 95).
+[^348]: 71:3 Cf. arriba, [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
 
-[^366]: 71:2 Cf. Yt. XIII, 113.
+[^349]: 71:4 Una tribu turania, Yt. XIII, 37-38.
 
-[^367]: 71:3 Cf. arriba, [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
+[^350]: 71:5 Asabana es muy probablemente un epíteto; posiblemente, 'quien mata con una piedra' (asan-ban); la honda era, según parece, el arma favorita de los Dânus (Yt. XIII, 38).
 
-[^368]: 71:4 Una tribu turania, Yt. XIII, 37-38.
+[^351]: 71:6 Esta sección es el único fragmento que queda de la leyenda de Ashavazdah, que debe haber sido importante, ya que Ashavazdah es uno de los inmortales (Yt. XIX, 95).
 
-[^369]: 71:5 Asabana es muy probablemente un epíteto; posiblemente, 'quien mata con una piedra' (asan-ban); la honda era, según parece, el arma favorita de los Dânus (Yt. XIII, 38).
+[^352]: 71:7 Cf. Yt. XIII, 102. Vistauru, siendo hijo de Naotara, es hermano de Tusa, lo que lo identifica con Gustahm ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/07100.jpg)) en el Shâh Nâmah: Nôdar tuvo dos hijos, Tus y Gustahm.
 
-[^370]: 71:6 Esta sección es el único fragmento que queda de la leyenda de Ashavazdah, que debe haber sido importante, ya que Ashavazdah es uno de los inmortales (Yt. XIX, 95).
+[^353]: 72:1 Un río no mencionado en otro lugar.
 
-[^371]: 71:7 Cf. Yt. XIII, 102. Vistauru, siendo hijo de Naotara, es hermano de Tusa, lo que lo identifica con Gustahm ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/07100.jpg)) en el Shâh Nâmah: Nôdar tuvo dos hijos, Tus y Gustahm.
+[^354]: 72:2 Cf. §§ 64, 226.
 
-[^372]: 72:1 Un río no mencionado en otro lugar.
+[^355]: 72:3 Firdausi no menciona este episodio.
 
-[^373]: 72:2 Cf. §§ 64, 226.
+[^356]: 72:4 Espurio.
 
-[^374]: 72:3 Firdausi no menciona este episodio.
+[^357]: 72:5 Esta leyenda se cuenta con todo detalle en el relato pahlavi de Gô<i>s</i>ti Fryân (editado y traducido por West): un hechicero llamado Akht llega con un inmenso ejército a la ciudad de los expositores de enigmas, amenazando con convertirla en un camino trillado para elefantes si no se resuelven sus enigmas. Un mazdayasniano llamado Gô<i>s</i>ti Fryân adivina los treinta y tres acertijos propuestos por Akht (pág. 73); luego, a su vez, le propone tres acertijos que el hechicero es incapaz de adivinar, y, finalmente, lo destruye con la fuerza de un Nîrang. Cf. Yt. XIII, 220. Este relato, que pertenece al mismo ciclo extendido que el mito de Edipo y la leyenda germánica de la batalla de Wartburg, se encuentra también en la leyenda de Zaratustra (Vendîdâd XIX, 4).
 
-[^375]: 72:4 Espurio.
+[^358]: 73:1 Quizás un afluente del Rangha (cf. Yt. XIII, 29, 29; XV, 27).
 
-[^376]: 72:5 Esta leyenda se cuenta con todo detalle en el relato pahlavi de Gô<i>s</i>ti Fryân (editado y traducido por West): un hechicero llamado Akht llega con un inmenso ejército a la ciudad de los expositores de enigmas, amenazando con convertirla en un camino trillado para elefantes si no se resuelven sus enigmas. Un mazdayasniano llamado Gô<i>s</i>ti Fryân adivina los treinta y tres acertijos propuestos por Akht (pág. 73); luego, a su vez, le propone tres acertijos que el hechicero es incapaz de adivinar, y, finalmente, lo destruye con la fuerza de un Nîrang. Cf. Yt. XIII, 220. Este relato, que pertenece al mismo ciclo extendido que el mito de Edipo y la leyenda germánica de la batalla de Wartburg, se encuentra también en la leyenda de Zaratustra (Vendîdâd XIX, 4).
+[^359]: 73:2 Entre la Tierra y la región de luz infinita existen tres regiones intermedias: la región estelar, la región lunar y la región solar. La región estelar es la más cercana a la Tierra, y la región solar es la más alejada. Ardvi Sûra tiene su sede en la región estelar (Yasna LXV \[LXIV\], 1; traducción filípica); cf. Yt. V, 132.
 
-[^377]: 73:1 Quizás un afluente del Rangha (cf. Yt. XIII, 29, 29; XV, 27).
+[^360]: 74:1 Los guerreros.
 
-[^378]: 73:2 Entre la Tierra y la región de luz infinita existen tres regiones intermedias: la región estelar, la región lunar y la región solar. La región estelar es la más cercana a la Tierra, y la región solar es la más alejada. Ardvi Sûra tiene su sede en la región estelar (Yasna LXV \[LXIV\], 1; traducción filípica); cf. Yt. V, 132.
+[^361]: 74:2 Enseñar.
 
-[^379]: 74:1 Los guerreros.
+[^362]: 74:3 Dudoso.
 
-[^380]: 74:2 Enseñar.
+[^363]: 75:1 Cuando los lechos de los ríos están secos, la causa es que Ardvi Sûra envía sus aguas a los cielos superiores (a la región del sol) en lugar de enviarlas a la tierra (cf. [p. 73](#p73), nota 359).
 
-[^382]: 74:3 Dudoso.
+[^364]: 75:2 La serpiente, A<i>z</i>i, es aquí A<i>z</i>i en su carácter naturalista original, el demonio de la tormenta (cf. Vend. Introd. IV, 38 y este Ya<i>s</i>t, § 29, nota). La impureza e insalubridad de los ríos se atribuyen a su veneno.
 
-[^383]: 75:1 Cuando los lechos de los ríos están secos, la causa es que Ardvi Sûra envía sus aguas a los cielos superiores (a la región del sol) en lugar de enviarlas a la tierra (cf. [p. 73](#p73), nota [^359]).
+[^365]: 75:3 Arethna, an ἅπαξ λεγόμενον.
 
-[^384]: 75:2 La serpiente, A<i>z</i>i, es aquí A<i>z</i>i en su carácter naturalista original, el demonio de la tormenta (cf. Vend. Introd. IV, 38 y este Ya<i>s</i>t, § 29, nota). La impureza e insalubridad de los ríos se atribuyen a su veneno.
+[^366]: 75:4 Vaw<i>z</i>aka, ídem.
 
-[^385]: 75:3 Arethna, an ἅπαξ λεγόμενον.
+[^367]: 75:5 Varenva, ídem.
 
-[^386]: 75:4 Vaw<i>z</i>aka, ídem.
+[^368]: 75:6 Venenos de Varenva.
 
-[^387]: 75:5 Varenva, ídem.
+[^369]: 75:7 Cfr. Vender. II, 29.
 
-[^388]: 75:6 Venenos de Varenva.
+[^370]: 75:8 ? Rangh<i>a</i><i>u</i>.
 
-[^389]: 75:7 Cfr. Vender. II, 29.
+[^371]: 75:9 Que incapacitan para las obras religiosas.
 
-[^390]: 75:8 ? Rangh<i>a</i><i>u</i>.
+[^372]: 76:1 Cfr. Vender. II, 29.
 
-[^391]: 75:9 Que incapacitan para las obras religiosas.
+[^373]: 76:2 Cf. Vend. VII, 79 y nota 2; cf. arriba, § 91.
 
-[^392]: 76:1 Cfr. Vender. II, 29.
+[^374]: 76:3 De alegría. La traducción de esas palabras no es precisa.
 
-[^393]: 76:2 Cf. Vend. VII, 79 y nota 2; cf. arriba, § 91.
+[^375]: 76:4 Dudoso.
 
-[^394]: 76:3 De alegría. La traducción de esas palabras no es precisa.
+[^376]: 76:5 Quizás, esas copas (yam<i>a</i><i>u</i>).
 
-[^395]: 76:4 Dudoso.
+[^377]: 76:6 Completado a partir del § 94.
 
-[^396]: 76:5 Quizás, esas copas (yam<i>a</i><i>u</i>).
+[^378]: 76:7 El texto aquí tiene vîspô-vahmem, 'digno de toda oración'; la lectura vîspô-vaêmem de Yt. XII, 24 parece ser mejor.
 
-[^397]: 76:6 Completado a partir del § 94.
+[^379]: 76:8 Cf. §§ 102, 121.
 
-[^398]: 76:7 El texto aquí tiene vîspô-vahmem, 'digno de toda oración'; la lectura vîspô-vaêmem de Yt. XII, 24 parece ser mejor.
+[^380]: 76:9 Cf. §§ 4, 102, 121.
 
-[^399]: 76:8 Cf. §§ 102, 121.
+[^381]: 77:1 La familia Hvôva o Hvôgva desempeña un papel tan importante en la leyenda religiosa como la familia Naotara en la heroica. Dos de los Hvôvas, Frashao<i>s</i>tra y <i>G</i>âmâspa, estuvieron entre los primeros discípulos de Zaratustra, y el profeta se casó con la hija de Frashao<i>s</i>tra, Hvôgvi (cf. Yt. XIII, 139). Para los Naotaras, véanse arriba, §§ 53, 76. Según los Bundahi<i>s</i>, Vî<i>s</i>tâspa no pertenecía a la familia Naotara (XXXI, 28): quizá se le consideraba un Naotaride por su esposa Hutaosa, que lo era (Yt. XV, 35).
 
-[^400]: 76:9 Cf. §§ 4, 102, 121.
+[^382]: 77:2 Su mismo nombre significa: «El que tiene muchos caballos».
 
-[^401]: 77:1 La familia Hvôva o Hvôgva desempeña un papel tan importante en la leyenda religiosa como la familia Naotara en la heroica. Dos de los Hvôvas, Frashao<i>s</i>tra y <i>G</i>âmâspa, estuvieron entre los primeros discípulos de Zaratustra, y el profeta se casó con la hija de Frashao<i>s</i>tra, Hvôgvi (cf. Yt. XIII, 139). Para los Naotaras, véanse arriba, §§ 53, 76. Según los Bundahi<i>s</i>, Vî<i>s</i>tâspa no pertenecía a la familia Naotara (XXXI, 28): quizá se le consideraba un Naotaride por su esposa Hutaosa, que lo era (Yt. XV, 35).
+[^383]: 77:3 Espurio.
 
-[^402]: 77:2 Su mismo nombre significa: «El que tiene muchos caballos».
+[^384]: 77:4 Cf. § 4.
 
-[^403]: 77:3 Espurio.
+[^385]: 78:1 Cf. § 96.
 
-[^404]: 77:4 Cf. § 4.
+[^386]: 78:2 Cf. § 17. Cabe señalar que sólo Ahura y Zaratustra (y quizás Vafra Navâza; véase [p. 68](#p68), nota [^339]) ofrecen el sacrificio zoroastriano puro.
 
-[^405]: 78:1 Cf. § 96.
+[^387]: 78:3 Llamado Lôhrâsp en la tradición parsi.
 
-[^406]: 78:2 Cf. § 17. Cabe señalar que sólo Ahura y Zaratustra (y quizás Vafra Navâza; véase [p. 68](#p68), nota [^339]) ofrecen el sacrificio zoroastriano puro.
+[^388]: 78:4 Cf. § 18. La conversión de Vî<i>s</i>tâspa por Zaratustra es el punto de inflexión en la historia terrenal del mazdeísmo, como lo es la conversión de Zaratustra por el propio Ahura en su historia celestial. Cf. Yt. XXIV y IX, 26.
 
-[^407]: 78:3 Llamado Lôhrâsp en la tradición parsi.
+[^489]: 79:1 Berezaidhi, traducido buland (Yasna LVII, 11 \[LVI, 5, 2\]).
 
-[^408]: 78:4 Cf. § 18. La conversión de Vî<i>s</i>tâspa por Zaratustra es el punto de inflexión en la historia terrenal del mazdeísmo, como lo es la conversión de Zaratustra por el propio Ahura en su historia celestial. Cf. Yt. XXIV y IX, 26.
+[^390]: 79:2 Ver Yt. XIII, 99; V, 98, 105.
 
-[^409]: 79:1 Berezaidhi, traducido buland (Yasna LVII, 11 \[LVI, 5, 2\]).
+[^391]: 79:3 Un lago en Seistán (Bundahi<i>s</i> XXII, 5); de ese lago surgirá Hôshêdar Bâmî (Ukhshya<i>t</i>\-ereta), el primero de los tres hijos de Zaratustra, aún no nacido (Bahman Ya<i>s</i>t III, 13; cf. Yt. XIII, 98).
 
-[^410]: 79:2 Ver Yt. XIII, 99; V, 98, 105.
+[^392]: 79:4 De estos tres, solo Are<i>g</i>a<i>t</i>-aspa es conocido por Firdausi; es el célebre Ar<i>g</i>âsp, quien libró una guerra mortal contra Gû<i>s</i>tâsp para suprimir la nueva religión: asaltó Balkh, masacró a Lôhrâsp y Zartû<i>s</i>t (Zarathustra), y finalmente fue derrotado y asesinado por el hijo de Gû<i>s</i>tâsp, Isfendyâr. Es el Afrâsyâb del período zoroastriano. En el Avesta no se le llama turanio (Tura), sino hvyaona; véase Yt. IX, 30.
 
-[^411]: 79:3 Un lago en Seistán (Bundahi<i>s</i> XXII, 5); de ese lago surgirá Hôshêdar Bâmî (Ukhshya<i>t</i>\-ereta), el primero de los tres hijos de Zaratustra, aún no nacido (Bahman Ya<i>s</i>t III, 13; cf. Yt. XIII, 98).
+[^393]: 80:1 Zarîr en Firdausi, el hermano de Vî<i>s</i>tâspa; cf. Yt. V, 117; XIII, 101.
 
-[^412]: 79:4 De estos tres, solo Are<i>g</i>a<i>t</i>-aspa es conocido por Firdausi; es el célebre Ar<i>g</i>âsp, quien libró una guerra mortal contra Gû<i>s</i>tâsp para suprimir la nueva religión: asaltó Balkh, masacró a Lôhrâsp y Zartû<i>s</i>t (Zarathustra), y finalmente fue derrotado y asesinado por el hijo de Gû<i>s</i>tâsp, Isfendyâr. Es el Afrâsyâb del período zoroastriano. En el Avesta no se le llama turanio (Tura), sino hvyaona; véase Yt. IX, 30.
+[^394]: 80:2 El Araxes (Vendîdâd I, 3).
 
-[^413]: 80:1 Zarîr en Firdausi, el hermano de Vî<i>s</i>tâspa; cf. Yt. V, 117; XIII, 101.
+[^395]: 80:3 Dudoso (cf. Vend. III, 36 seq.).
 
-[^414]: 80:2 El Araxes (Vendîdâd I, 3).
+[^396]: 80:4 Este es quizás un epíteto para Peshô-Kangha, 'el más malicioso'.
 
-[^415]: 80:3 Dudoso (cf. Vend. III, 36 seq.).
+[^397]: 80:5 Véase [p. 79](#p79), nota [^392].
 
-[^416]: 80:4 Este es quizás un epíteto para Peshô-Kangha, 'el más malicioso'.
+[^398]: 80:6 Si podemos confiar en el Shâh Nâmah, ella no concedió su favor al último, ya que Zarîr fue asesinado por uno de los generales de Ar<i>g</i>âsp, Bîdirafsh.
 
-[^417]: 80:5 Véase [p. 79](#p79), nota [^392].
+[^499]: 80:7 Un hermano de Ar<i>g</i>âsp: su nombre está ligeramente alterado en Firdausi (Andarîmân mal escrito por Vandarîmân, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08000.jpg) por ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08001.jpg).); véase Études Iraniennes, p. 228).
 
-[^418]: 80:6 Si podemos confiar en el Shâh Nâmah, ella no concedió su favor al último, ya que Zarîr fue asesinado por uno de los generales de Ar<i>g</i>âsp, Bîdirafsh.
+[^400]: 81:1 El texto tiene singular aquí y en el resto de la oración: los nombres de los dos hermanos forman una especie de dvandva singular; cf. Franghrasyanem Keresavazdem (Yt. XIX, 77); Ashavazdanghô Thritahê (Yt. XIII, 113; y el mismo Ya<i>s</i>t, 115), y en el presente pasaje Vî<i>s</i>tâspô Zairivairi<i>s</i> (véase Études Iraniennes, II, 229).
 
-[^419]: 80:7 Un hermano de Ar<i>g</i>âsp: su nombre está ligeramente alterado en Firdausi (Andarîmân mal escrito por Vandarîmân, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08000.jpg) por ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08001.jpg).); véase Études Iraniennes, p. 228).
+[^401]: 81:2 Ambos fueron asesinados por Isfendyâr (Shâh Nâmah).
 
-[^420]: 81:1 El texto tiene singular aquí y en el resto de la oración: los nombres de los dos hermanos forman una especie de dvandva singular; cf. Franghrasyanem Keresavazdem (Yt. XIX, 77); Ashavazdanghô Thritahê (Yt. XIII, 113; y el mismo Ya<i>s</i>t, 115), y en el presente pasaje Vî<i>s</i>tâspô Zairivairi<i>s</i> (véase Études Iraniennes, II, 229).
+[^402]: 81:3 Mî<i>s</i>ti traducido como hamê<i>s</i>ak, sadâ (Yt. VII, 4).
 
-[^421]: 81:2 Ambos fueron asesinados por Isfendyâr (Shâh Nâmah).
+[^403]: 82:1 § 121 = §§ 96, 102.
 
-[^422]: 81:3 Mî<i>s</i>ti traducido como hamê<i>s</i>ak, sadâ (Yt. VII, 4).
+[^404]: 82:2 Paitidâna, un manto, una túnica (Vend. XIV, 9 \[28\]).
 
-[^423]: 82:1 § 121 = §§ 96, 102.
+[^405]: 82:3 Véase §§ 8, 11.
 
-[^424]: 82:2 Paitidâna, un manto, una túnica (Vend. XIV, 9 \[28\]).
+[^406]: 83:1 Cf. §§. 64, 78.
 
-[^425]: 82:3 Véase §§ 8, 11.
+[^407]: 83:2 Zao<i>s</i>a; cf. § 7, nota 2.
 
-[^426]: 83:1 Cf. §§. 64, 78.
+[^408]: 83:3 Dudoso (sispemna, de ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08300.jpg)).
 
-[^427]: 83:2 Zao<i>s</i>a; cf. § 7, nota 2.
+[^409]: 83:4 Dudoso.
 
-[^428]: 83:3 Dudoso (sispemna, de ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08300.jpg)).
+[^410]: 83:5 Gemas.
 
-[^429]: 83:4 Dudoso.
+[^411]: 83:6 ? Anupôithwaitim.
 
-[^430]: 83:5 Gemas.
+[^412]: 83:7 ? Ratha; el significado habitual de ratha es 'un carro'; quizás se refiere a la forma redonda del cofre de un carro.
 
-[^431]: 83:6 ? Anupôithwaitim.
+[^413]: 83:8 Posiblemente nutria, Vend. XIV.
 
-[^432]: 83:7 ? Ratha; el significado habitual de ratha es 'un carro'; quizás se refiere a la forma redonda del cofre de un carro.
+[^414]: 83:9 Dudoso.
 
-[^433]: 83:8 Posiblemente nutria, Vend. XIV.
+[^415]: 83:10 Cf. Yt. XVII, 7.
 
-[^434]: 83:9 Dudoso.
+[^416]: 84:1 La traducción de la última cláusula es dudosa.
 
-[^435]: 83:10 Cf. Yt. XVII, 7.
+[^417]: 84:2 Un buen caballo y un buen conductor.
 
-[^436]: 84:1 La traducción de la última cláusula es dudosa.
+[^418]: 84:3 Cf. §§ 85, 88.
 
-[^437]: 84:2 Un buen caballo y un buen conductor.
-
-[^438]: 84:3 Cf. §§ 85, 88.
-
-[^439]: 84:4 Aspendiârji ad Vend. XIX, 40\[133\]
+[^419]: 84:4 Aspendiârji ad Vend. XIX, 40\[133\]

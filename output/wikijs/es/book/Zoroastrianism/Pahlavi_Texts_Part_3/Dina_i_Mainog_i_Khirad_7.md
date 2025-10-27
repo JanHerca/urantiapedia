@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 27\. «Hay un lugar [^5] donde, en cuanto al frío, es como el de la nieve helada más fría [^6]. 28. Hay un lugar donde, en cuanto al calor, es como el del fuego más ardiente y abrasador. 29. Hay un lugar donde criaturas nocivas los roen, como un perro roe los huesos. 30. Hay un lugar donde, en cuanto al hedor, es tal que se tambalean (ba<i>r</i>â lar<i>z</i>ênd) [^7] y caen. 31. Y la oscuridad <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> es siempre tan parecida a la que podrían agarrar con la mano [^8].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

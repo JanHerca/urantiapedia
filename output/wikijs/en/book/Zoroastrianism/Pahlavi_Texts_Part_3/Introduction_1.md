@@ -75,6 +75,8 @@ Of the Pâzand text of the Mainyô-i Khard, Chaps. LVII, XXVII, LXII, I, 51-61, 
 
 In connection with this account of the various versions of the ‘Opinions of the Spirit of Wisdom,’ it should be noticed that an abridgement of the work also exists in Persian prose, and is called the ‘Other Mînôkhirad.’ A copy of this abridgement is contained in fols. 71-78 of MH7 (described above), and consists of a very free Persian translation of the Pâzand texts of Chaps. I, 14-II, 64, III-VII, XIV, XV, <span id="pxxv"><sup><small>[ p. xxv ]</small></sup></span> XXI, XXV, followed by a variety of short statements about thankfulness towards the sacred beings, the supreme heaven, male and female angels and demons, wealth and poverty, &c., and concluding with the names of the first sovereigns of the world, the descent of mankind from Gâyômar<i>d</i>, and of the 292 [^7] species of animals from the primeval ox. Another copy of this abridgement appears to be contained in fols. 80-84 of No. 15 of Anquetil's Collection in the National Library at Paris.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

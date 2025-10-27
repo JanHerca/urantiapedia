@@ -43,6 +43,8 @@ No parece haber evidencia suficiente, ni interna ni externa, para atribuir esta 
 
 Además de los fragmentos atribuidos específicamente a nasks particulares, existen también algunos escritos que se asemejan mucho a los nasks, o a sus fragmentos, en general, pero cuya fuente real es difícil de rastrear mediante los relatos del dinka<i>r</i><i>d</i>. Así, se podría suponer que el Aogemadaê<i>k</i>â fue extraído del Bari<i>s</i> (véase Dk. VIII, cap. IX, 18), si no contuviera algunas citas del Avesta de los Yasna, Vendîdâ<i>d</i> y Ya<i>s</i>ts. Mientras que las citas del Ashem-staota, que aparecen en Vi<i>g</i>, págs. 89, 90, 125-129, 177, 178, son difíciles de rastrear debido al nombre de su fuente.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

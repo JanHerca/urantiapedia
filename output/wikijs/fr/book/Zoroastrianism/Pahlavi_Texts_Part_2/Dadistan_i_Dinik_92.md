@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. L'eau d'Arekdvisûr est sur Albûr<i>z</i> [^6], et coule même jusqu'au sommet de la station stellaire pendant la venue de la guérison de la purification, jusqu'à Hûkhîr le majestueux [^7], tout-magnifique _et_ brillant ; de là _son_ écoulement s'effectue [^8] dans le lac d'un sommet à Albûr<i>z</i>, le mont Aûshin<i>d</i>ûm [^9], qui est au milieu de l'océan aux formes vastes. 6. Et de ce flux d'eaux, ce fleuve destiné, la destruction totale de chaque nuit, vient à la lumière de l'aube ; par l'aspersion des embruns (pash-pashanŏ) il s'étend à travers les sept régions _de la terre_, et de lui naissent la croissance de leurs plantes et la venue de la guérison de la purification ; ce qu'on appelle une goutte (srî<i>s</i>k) des créatures primitives _étant_ une particule (aham) d'eau de la masse d'un cheval [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

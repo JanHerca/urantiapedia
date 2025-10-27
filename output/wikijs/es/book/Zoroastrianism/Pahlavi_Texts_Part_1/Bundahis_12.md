@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 41\. El resto, _aparte_ de esta enumeración, que ellos consideran como colinas propicias del país en la religión de los Mazdayasnians, son las pequeñas colinas, aquellas que han crecido fragmentadamente en algunos lugares.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

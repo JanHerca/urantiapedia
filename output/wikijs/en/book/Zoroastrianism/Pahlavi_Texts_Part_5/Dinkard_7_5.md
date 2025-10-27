@@ -48,6 +48,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 12\. One _marvel_ is the coming of this also to <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> Vi<i>s</i>tâsp, which the archangels announced as a recompense for accepting the religion [^11], as he saw Pêshyôtan the happy ruler, that immortal and undecaying son, not wanting food, large-bodied, completely strong, fully glorious, mighty, victorious, and resembling the sacred beings; the unique splendour of Pêshyôtan for the sovereignty of Kangd<i>e</i><i>z</i> _in_ yonder _world_, as allotted to him _by_ the creator Aûha<i>r</i>ma<i>z</i><i>d</i>, is manifested even through that great wonder to the multitude [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

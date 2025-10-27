@@ -53,6 +53,8 @@ Dk. VIII, Cap. XXXVI, 8-12, probablemente se refiere al pasaje que contenía la 
 
 No se ha observado ninguna alusión en Dk. VIII, Caps. XXVIII-XXXVII, a los dos pasajes en Pahl. Vend. IV, 35, V, 73, referentes a este Nask, que ya han sido citados como referentes también a Nask XV.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

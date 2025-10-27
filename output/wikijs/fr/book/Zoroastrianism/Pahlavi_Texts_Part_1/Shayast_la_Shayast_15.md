@@ -65,6 +65,8 @@ PARTIE III.—_Annexe_ [^1].
 
 31\. Accompli dans la paix, le plaisir et la joie [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

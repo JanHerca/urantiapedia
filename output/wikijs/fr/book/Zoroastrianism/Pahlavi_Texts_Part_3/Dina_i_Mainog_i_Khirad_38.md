@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. « Et ils font de quelqu'_un_ [^2] un saisisseur des _existences_ spirituelles, par la valeur de l'action, à cause de cela, parce que la méchanceté de chacun [^3] naît de l'accomplissement de ses propres actions. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

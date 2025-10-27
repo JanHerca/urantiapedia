@@ -63,6 +63,8 @@ Después, inclinándose hacia adelante y sujetando el nudo frontal del Kustî co
 
 Durante el rito, quien lo realiza debe permanecer de pie en el mismo lugar, sin retroceder ni avanzar, y no debe hablar con nadie. Si algo le obliga a hablar, debe reiniciar el rito tras la interrupción.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

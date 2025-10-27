@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 22\. Il y a aussi une joie abondante, dont aucun exemple n'est donné (vakhtô) dans le monde depuis le commencement, mais elle arrive ainsi à ceux qui sont célestes _et_ à ceux du ciel suprême ; et dont même le bonheur et le plaisir terrestres les plus élevés ne sont pas une similitude, si ce n'est par la possession de la connaissance qui est dite _en être_ un échantillon_ pour les êtres terrestres. <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> 23. Et de ses_ indications par le monde, le limité avec l'illimité, l'impérissable avec le périssable, le consommable avec l'inconsommable ne sont alors pas des similitudes équivalentes [^30]. 24. Et ce sont les choses limitées, périssables et consommables de l'existence du monde qui sont les choses impérissables et inconsommables de l'existence de la lumière infinie [^31], les choses indestructibles de l'espace (gûn<i>g</i>) tout-bienfaisant et toujours-bienfaisant [^32], et les choses toute-joyeuses – sans un seul jour de vexation – du ciel suprême et radieux (garô<i>d</i>mânô). 25: Et le trône (gâs) du juste dans le ciel et le ciel suprême est la récompense qu'il obtient en premier, et est à lui jusqu'à la résurrection, lorsque même le monde devient pur et sans trouble ; il est lui-même par là immuable, mais par la résurrection il obtient ce qui est grand, bon et parfait, et est éternellement glorieux.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

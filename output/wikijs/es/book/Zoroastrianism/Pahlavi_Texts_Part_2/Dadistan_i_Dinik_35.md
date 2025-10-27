@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: este mundo, desde su inmadurez hasta su renovación pura, nunca ha existido, ni existirá, sin hombres; y en el espíritu maligno, el indigno (a<i>s</i>apîr), no surge ningún deseo de esto. 3. Y cerca del momento de la renovación, las existencias corporales desisten de comer y viven sin alimento (pavan akhûri<i>s</i>nîh) [^2]; y sus descendientes son los de un inmortal, pues poseen cuerpos duraderos y agotados por la sangre (khûn-girâî). 4. Tales son los hombres corpóreos que están en el mundo cuando hay hombres, fallecidos, que resucitan y viven de nuevo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

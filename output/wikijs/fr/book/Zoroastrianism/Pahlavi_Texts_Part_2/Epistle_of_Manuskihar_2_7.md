@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. De même, pour ce qui est de changer la loi des quinze lavages [^10], de même qu'il en est pour l'Iran où se trouvent des purificateurs, il est ordonné qu'il y ait des lieux sans purificateurs ; _et c'est_ dans les pays d'Iran que l'ordre est donné concernant les purificateurs qui ne sont pas ainsi désignés pour l'œuvre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

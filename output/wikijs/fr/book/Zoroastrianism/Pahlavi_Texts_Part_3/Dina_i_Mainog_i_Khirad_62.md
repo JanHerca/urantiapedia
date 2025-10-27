@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 37\. Le nid du griffon [^33] est sur l'arbre opposé au mal, l'arbre aux nombreuses graines [^34]. 38. Chaque fois qu'il s'élève, mille brindilles jaillissent de cet arbre, (39) et lorsqu'il se pose, il brise les mille brindilles et en mord les graines. 40. Et l'oiseau <i>K</i>înâmrô<i>s</i> [^35] se pose également dans ce voisinage ; (41) et son travail consiste à recueillir les graines qui sont mordues de l'arbre aux nombreuses graines, qui est opposé au mal, et il les disperse (pargandê<i>d</i>) là où Tî<i>s</i>tar [^36] saisit l'eau ; (42) de sorte que, tandis que Tî<i>s</i>tar saisira l'eau, avec ces graines de toutes sortes, il les fera pleuvoir sur le monde avec la pluie [^37].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

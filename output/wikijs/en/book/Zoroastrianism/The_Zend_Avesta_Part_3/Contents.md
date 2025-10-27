@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="pvii">[<sup><small>p. vii</small></sup>]</span>
+<span id="pvii"><sup><small>[ p. vii ]</small></sup></span>
 
 &nbsp; | PAGE
 --- | ---
@@ -44,6 +44,8 @@ GÂHS I-V | [377](../The_Gahs#p377)\-[388](../The_Gahs#p388)
 MISCELLANEOUS FRAGMENTS | [389](../Miscellaneous_Fragments#p389)\-[393](../Miscellaneous_Fragments#p393)
 INDEX | [395](../Index#p395)\-[400](../Index#p400)
 Transliteration of Oriental Alphabets adopted for the Translations of the Sacred Books of the East | 401-404
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

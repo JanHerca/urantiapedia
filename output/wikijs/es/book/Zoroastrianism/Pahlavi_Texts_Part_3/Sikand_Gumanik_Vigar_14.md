@@ -71,6 +71,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 87\. Sobre este tema se encuentra aquí completo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

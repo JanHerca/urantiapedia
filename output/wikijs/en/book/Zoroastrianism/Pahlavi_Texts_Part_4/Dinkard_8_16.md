@@ -42,6 +42,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 17\. _As to_ whatever is on the same subject it introduces many opinions, and also this, that a counter-assault (<i>a</i><i>v</i><i>â</i><i>z</i>\-zatam) is that which becomes a blow and wound, _and_ is to be so committed when it <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> is possible to produce _them_ again exactly in every single particular.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

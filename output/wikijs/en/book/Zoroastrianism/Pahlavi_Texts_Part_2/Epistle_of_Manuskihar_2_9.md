@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 13\. Written in propitiation, praise, and benediction of the creator Aûha<i>r</i>ma<i>z</i><i>d</i> and the archangels, all the angels of the spiritual and the angels of the worldly _existences, and_ every guardian spirit of the righteous. 14. Homage to the exalted pontiff (ra<i>d</i>ŏ) _sent_ from the creator Aûha<i>r</i>ma<i>z</i><i>d</i>, the most heavenly of the heavenly, Zaratû<i>s</i>t the Spîtamân. 15. The <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> _most_ prayerful _and_ gainful of things is righteousness; great and good and perfect is Zaratû<i>s</i>t; _and_ one _only_ is the way of righteousness, all the others are no ways [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le dix-septième point est le suivant : lorsqu’ils coupent un cure-dent ('<i>h</i>ilâl) ou une écharde qu’ils veulent appliquer à la racine des dents, il est nécessaire qu’ils n’en retiennent pas l’écorce. 2. Car s’il y a une petite quantité d’écorce dessus lorsqu’ils l’appliquent sur les dents, et qu’ils la jettent, si une femme enceinte pose son pied dessus, le danger est que l’enfant soit blessé [^1].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

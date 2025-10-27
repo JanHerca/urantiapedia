@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. Any good work whatever which is proceeded with is clearly a like good work as regards those who account for _it as_ with him who is the doer _of it_; also in the account of his soul the good work is as much with him who did _it_, but the soul of him by whom the good work is done by his own hand, is handsomer and stronger than of him by whom it is ordered. 7. And its similitude is such as when a man's handsome and seemly suit of clothes is his own, and he wears _it_ on _his_ body _and_ is handsomer, more splendid, and more seemly _than_ another man _who_ wears a suit of clothes, _in_ like manner, _which_ is his own by theft.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

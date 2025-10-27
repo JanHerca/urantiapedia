@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

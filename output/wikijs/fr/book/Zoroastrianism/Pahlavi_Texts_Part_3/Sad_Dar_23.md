@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Il est donc nécessaire de s'efforcer qu'ils ne commettent aucune offense, surtout lorsqu'ils ont mangé de la viande.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

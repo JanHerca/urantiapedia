@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Et il est nécessaire que nous devenions ainsi dans le monde afin que la souveraineté suprême du créateur puisse être gardée plus amicale envers nous, ses propres véritables serviteurs. 6. Le chemin vers ce véritable service est connu par la sagesse, est cru (vâ<i>v</i>arî-aîtŏ) par la vérité, _et_ est utilisé par la bonté ; et le chemin de l'excellence y mène plus particulièrement. 7. Et pour placer correctement le bon esprit à la place de la pensée, _elle est_ délibérément prise _et_ ils devraient délibérément la quitter_ [^3], comme il est dit dans la révélation qu'Aûha<i>r</i>ma<i>z</i><i>d</i> s'adressa ainsi à Zaratû<i>s</i>t : « Tu devrais assister Vohûman avec tes pures facultés spirituelles (ahvŏ), afin qu'ils puissent le recevoir pleinement ; car lorsque tu assisteras Vohûman avec tes pures facultés spirituelles, de sorte qu'elles le rendent pleinement bienvenu, tu comprendras ainsi pleinement les deux voies, celle qui est une bonne conduite, et celle qui est aussi une mauvaise conduite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

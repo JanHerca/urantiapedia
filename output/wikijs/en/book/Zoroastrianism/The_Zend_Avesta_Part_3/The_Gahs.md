@@ -112,6 +112,8 @@ And we sacrifice to the holy man most forward in good thoughts, and words, and w
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

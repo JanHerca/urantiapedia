@@ -63,6 +63,8 @@ i7. Esto, también, que por quien acoge a Aûha<i>r</i>ma<i>z</i><i>d</i> en _s�
 
 30\. De la justicia perfecta es la excelencia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

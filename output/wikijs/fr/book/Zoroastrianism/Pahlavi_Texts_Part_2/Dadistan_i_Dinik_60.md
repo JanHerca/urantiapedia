@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:45Z
 2\. La réponse est la suivante : _pour l'homme_ lui-même, _il_ est permis qu'il renonce à tous ses biens en dons justes, _et_ quand il n'a pas de biens, on ne devrait pas lui fournir <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> un fils adoptif, _et_ ses parents sont innocents à cet égard. 3. Mais s'ils reconnaissent celui qui a la filiation adoptive du défunt, ou a accepté la position de sa filiation adoptive [^1], _ou_ s'ils ont saisi les biens de la filiation adoptive _afin_ de nommer un fils adoptif en exercice (satôrgar), _et_ il dirige la filiation adoptive, et jette à la fois la portion (bôn) prévue pour le déboursement (vishôpŏ) et la totalité, et détruit complètement les biens, et ruine complètement la filiation adoptive, bien que, du fait de ne pas l'avoir retenu, cela soit dit _que c'est_ un péché digne de mort pour _chaque_ dirham, il n'est pas dit _qu'ils soient_ tués sur le coup [^2].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

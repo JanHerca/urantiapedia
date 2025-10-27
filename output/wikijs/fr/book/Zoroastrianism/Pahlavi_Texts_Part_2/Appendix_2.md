@@ -63,6 +63,8 @@ Ensuite, se penchant en avant et tenant le nœud avant du Kustî des deux mains,
 
 Durant le rite, celui qui l'accomplit doit rester debout, sans reculer ni avancer, et ne doit parler à personne. Si quelque chose le contraint à parler, il doit recommencer le rite après l'interruption.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 5\. Et de ces sept régions, chaque bienfait fut créé le plus à Khvanîras, et l'esprit mauvais produisit aussi le plus pour Khvanîras, à cause de la supériorité (sarîh) [^5] qu'il y voyait. 6. Car les Kayâniens et les héros furent créés à Khvanîras ; et la bonne religion des Mazdayasniens fut créée à Khvanîras, et ensuite transmise aux autres régions ; Sôshyans [^6] naît à Khvanîras, qui rend l'esprit mauvais impuissant, et provoque la résurrection _et_ l'existence future.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. Before _the time_ when _one_ throws something on the hands it is not proper to wash the hands and face, _and_ it is a Tanâvar sin; it is also not possible to work at anything whatever _with_ the hands and face not washed.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

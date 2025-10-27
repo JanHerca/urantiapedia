@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. Therefore, three times every day it is indispensable _for one_ to fold _his_ arms [^2] in the presence of these three persons, _and_ to say:—‘What is your will (murâd)? So that I _may_ think and speak and do it. 6. If _what_ was not proper has come from me of itself, it is necessary that you make a righteous gift on our behalf.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

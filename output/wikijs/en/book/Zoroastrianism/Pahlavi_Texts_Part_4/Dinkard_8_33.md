@@ -38,6 +38,8 @@ _Hûspâram Nask_.
 
 1\. One section is about the mode and object _of_ confinement as regards a beast _of burden_, sheep, and dog that are mad (dêvânakŏ), and the operation of the affliction (vakhsi<i>s</i>nŏ); also to what extent is their restoration; _and_ when not restored, _but_ come for slaughter, the care of them even in confinement, <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> _and_ whatever is on the same subject. 2. About the harm (vinâs) which the beast _of burden_, sheep, _and_ dog shall commit. 3. About the sin which killed _one who is_ no offender [^1]. 4. About the care and remedy _for_ a sick dog, _and_ whatever is on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

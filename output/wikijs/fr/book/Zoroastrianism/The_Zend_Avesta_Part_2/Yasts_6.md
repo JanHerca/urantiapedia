@@ -82,6 +82,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 Donnez à cet homme la luminosité et la gloire, donnez-lui la santé du corps, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -108,22 +110,22 @@ Donnez à cet homme la luminosité et la gloire, donnez-lui la santé du corps, 
 
 ## Notes de bas de page
 
-[^440]: 85:1 Ou les 11e, 16e, 27e et 30e jours du mois (Anquetil, II, 184).
+[^420]: 85:1 Ou les 11e, 16e, 27e et 30e jours du mois (Anquetil, II, 184).
 
-[^443]: 85:2 Comme ci-dessus, Yt. I, 0.
+[^421]: 85:2 Comme ci-dessus, Yt. I, 0.
 
-[^442]: 85:3 Sîrôzah I, 11.
+[^422]: 85:3 Sîrôzah I, 11.
 
-[^444]: 85:4 'C'est-à-dire, s'élève' (trad. philosophique).
+[^423]: 85:4 'C'est-à-dire, s'élève' (trad. philosophique).
 
-[^445]: 86:1 Littéralement « du corps de sainteté », c'est-à-dire des créatures corporelles qui incorporent la sainteté.
+[^424]: 86:1 Littéralement « du corps de sainteté », c'est-à-dire des créatures corporelles qui incorporent la sainteté.
 
-[^446]: 86:2 'De l'impureté que les Daêvas mélangent à la terre pendant la nuit' (Phl. tr.).
+[^425]: 86:2 'De l'impureté que les Daêvas mélangent à la terre pendant la nuit' (Phl. tr.).
 
-[^447]: 86:3 Car il leur fait du bien et à lui-même par là.
+[^426]: 86:3 Car il leur fait du bien et à lui-même par là.
 
-[^448]: 87 : 1 Hunivikhtem : suniyuktam (sansk. tr.) ; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Trad. Pers.).
+[^427]: 87 : 1 Hunivikhtem : suniyuktam (sansk. tr.) ; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/08900.jpg) (Trad. Pers.).
 
-[^449]: 87:2 Comme ils se succèdent dans un ordre régulier.
+[^428]: 87:2 Comme ils se succèdent dans un ordre régulier.
 
-[^450]: 87:3 Cf. Yt. III, 18.
+[^429]: 87:3 Cf. Yt. III, 18.

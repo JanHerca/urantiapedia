@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 6\. This was the fourth contest, about the plants.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. And it is necessary for us to become so in the world as that the supreme sovereignty of the creator may be kept more friendly to us, its own true servants. 6. The way to that true service is known through wisdom, is believed (vâ<i>v</i>arî-aîtŏ) through truth, _and_ is utilized through goodness; and the path of excellence more particularly _leads to_ it. 7. And to set the good spirit rightly in the place of thought _it is_ deliberately taken _and_ they should deliberately leave _it_ [^3], as it is said in revelation that Aûha<i>r</i>ma<i>z</i><i>d</i> spoke out to Zaratû<i>s</i>t thus: ‘Thou shouldst assist Vohûman with thy pure spiritual faculties (ahvŏ), so that they may make him fully welcome; for when thou assistest Vohûman with thy pure spiritual faculties, so that they make him fully welcome, thou shalt thus fully understand the two ways, _that_ which is good conduct, and _that_ also which is bad conduct.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

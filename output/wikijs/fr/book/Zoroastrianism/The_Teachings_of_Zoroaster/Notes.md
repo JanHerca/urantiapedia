@@ -54,6 +54,8 @@ Gāo était forgeron sous le règne de Zohak. Son fils fut capturé par les serv
 _Imprimé et relié par Hasell, Watson et Viney, Londres et Aylesbury_.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. L'esprit de sagesse répondit (5) ainsi : « Quant à celui qui est un homme paresseux, ignorant et mauvais, lorsque son destin devient une aide, sa paresse devient alors semblable à de la diligence, son ignorance à [^1] la connaissance, et sa bassesse à [^2] la bonté. 6. Et quant à celui qui est un homme sage, digne et bon, lorsque son destin est un adversaire, sa sagesse se transforme alors en stupidité et en sottise (alakîh), et sa dignité en ignorance ; (7) et <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> sa connaissance, son habileté et sa dignité deviennent manifestement isolées [^3]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

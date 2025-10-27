@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 Dk. VIII, Cap. VIII, 4, probablemente se refiere al pasaje que contiene la declaración mencionada en Sls. X, 29:—«En el Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtîh se dicen muchas cosas duras sobre el severo castigo de los _indigentes_ (avi<i>g</i>î<i>d</i>âr-daî<i>s</i>nânŏ) [^2] en la _existencia_ espiritual.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

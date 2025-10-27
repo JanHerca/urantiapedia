@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that it is said a husband (gab<i>r</i>â) is indispensable for preservation through the three nights' _trials_ which shall be _for_ a privileged wife, a father _for_ those of a child, _and_ a master _for_ those of a servant.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

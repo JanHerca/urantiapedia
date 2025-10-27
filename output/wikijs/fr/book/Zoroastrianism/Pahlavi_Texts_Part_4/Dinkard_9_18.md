@@ -45,6 +45,8 @@ _Sû<i>d</i>kar Nask_.
 
 4\. L’excellence _qui est_ parfaite est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

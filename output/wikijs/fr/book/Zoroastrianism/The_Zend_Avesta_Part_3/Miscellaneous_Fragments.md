@@ -84,6 +84,8 @@ Que la propitiation soit faite au corps créé du Veau béni et à son âme (ain
 
 1\. L'Ahuna-vairya est une prière pour être (vénéré et) choisi comme l'élu de Mazda. Le Khshathra-vairya est pareil, ainsi que le Yâ daêna [^1577]. Ils (elle) obtiendront la récompense. Yathâ ahû vairyô. C'est la parole de Mazda. Ce sont les paroles de saison. C'est la parole Mãthra-spe<i>n</i>ta, l'insoumise, l'introuvable, la victorieuse, l'adversaire de la malice, la parole guérisseuse et victorieuse de Mazda, qui, telle qu'elle est prononcée [^1578], donne la plus grande victoire à celui qui la prononce. 2. J'ai déclaré l'hymne le plus utile et le plus victorieux contre les paroles d'Aêshma, qui est salutaire et guérisseur, et propice au progrès, le multiplicateur et le promoteur de la croissance. Et que l'adorateur le présente avec une offrande généreuse… . avec ses paroles agréables. Que cela soit fait par la véritable grâce qui nous aide le plus [^1579]. Le Royaume (appartient) à Ahura, qui peut accorder au pauvre un nourricier [^1580].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. For, any command, and whatever the husband <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> orders, it is requisite to go about that day. 4. _And_, certainly, without the leave (riʓ̣â) of the husband _she is_ to do no work, so that the Lord _may_ be pleased with that wife. 5. For the satisfaction of the sacred being is in a reverence (ya<i>s</i>t) for [^4] the satisfaction of the husband; so that every time that they perform work _by_ command of the husband they call them righteous in the religion; and if not, what do they call them?
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

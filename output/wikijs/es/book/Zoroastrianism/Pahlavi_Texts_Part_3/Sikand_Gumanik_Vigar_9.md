@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 40\. La evidencia de la llegada del destructor a las criaturas, tras su creación, es la formación de los medios del Creador para enfrentarse a un oponente, antes de su llegada, (41) los cuales son una provisión omnisciente del Creador antes de la creación. 42. Y existe un ejemplo de estos mismos medios de las criaturas, que está preparado, que es la lucha contra el oponente mediante la disposición de su naturaleza. 43. Un deber de la naturaleza de las criaturas es dominar tanta aflicción. 44. Su preparación, también, es como una contienda que forma un enemigo que se opone al oponente, (45) y su deseo natural de cumplir con el deber elimina toda prisa.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

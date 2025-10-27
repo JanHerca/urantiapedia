@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 11\. ‘And the business of the husbandmen is to perform tillage and cultivation; (12) and, to the extent of _their_ ability, to keep the world invigorated and populous.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

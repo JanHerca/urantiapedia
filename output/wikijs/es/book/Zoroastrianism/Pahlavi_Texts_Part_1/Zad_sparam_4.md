@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 7\. Pues en el principio estaba previsto que la estrella Júpiter (Aûharmazd) fuera vida para las criaturas, no por su propia naturaleza, sino por estar bajo el control de las luminarias [^5]; y Saturno (Kêvân) fuera muerte para las criaturas. 8. Ambos estaban en su supremacía (bâlîst) [^6] al principio de las criaturas, <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> como Júpiter estaba en Cáncer al ascender, lo que también se llama <i>G</i>îvân («vivo») [^7], pues es el lugar en el que se le otorga la vida; _y_ Saturno estaba en Libra, en el gran subterráneo, de modo que su propio veneno y letalidad _se hicieron_ más evidentes y más dominantes por ello. 9. Y fue cuando ambos no sean supremos _que_ Gâyômar<i>d</i> iba a completar su propia vida, que son los treinta años [^8] en que Saturno no volvió a la supremacía, es decir, _a_ Libra. 10. Y en el momento en que Saturno llegó a Libra, Júpiter estaba en Capricornio [^9], debido a cuya propia bajeza [^10], y la victoria de Saturno sobre Júpiter, Gâyômar<i>d</i> sufrió esos mismos defectos que llegaron y seguirán avanzando, el continuación de esa desfiguración que Aharman puede causar a las criaturas de Aûharmazd.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

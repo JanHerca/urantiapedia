@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. _For_ every single fire which dies out in a dwelling a loss of three dirhams and two dângs [^7] falls <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> on the property of that person, or it becomes the loss of this dwelling, or it does not reach him from the place whence wealth comes to him.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

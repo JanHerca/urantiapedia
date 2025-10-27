@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Et celui qui prend son argent et n'accomplit pas son cérémonial, est comme s'il avait soustrait aux anges [^3] et aux esprits gardiens justes, _et_ détruit, autant de propitiation qu'il aurait été possible de tirer de ce cérémonial ; et il est, par conséquent, accablé par cela [^4], et l'expie dans l'âme.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

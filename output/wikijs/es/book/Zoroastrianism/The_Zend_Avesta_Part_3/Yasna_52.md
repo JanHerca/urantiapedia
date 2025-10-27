@@ -38,6 +38,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1\. Ruego con bendiciones por un beneficio y por el bien, incluso para toda la creación de los santos (y los puros); ruego por ellos para la generación que ahora vive, para la que está naciendo [^1217], y para la que vendrá en el más allá. Y (ruego por esa) santidad que conduce a la prosperidad, y que ha proporcionado refugio durante mucho tiempo [^1218], que va de la mano con ella [^1219], que se une a ella en su caminar, y se convierte en su compañera cercana mientras entrega sus preceptos, (2) llevando toda forma de virtud curativa que nos llega en las aguas [^1220], pertenece al ganado, o se encuentra en las plantas, y abrumando toda la malicia dañina de los Daêvas, (y sus sirvientes) que podrían dañar esta morada [^1221] y a su señor, (3) trayendo buenos regalos y mejores bendiciones, dadas muy temprano, y más tarde (regalos), conduciendo a los éxitos, y por un largo tiempo dando refugio [^1222]. Y así, los mayores, mejores y más hermosos beneficios de la santidad recaen igualmente sobre nosotros (4) para el sacrificio, homenaje, propiciación y alabanza de los Generosos Inmortales, para traer prosperidad a esta morada, y para la prosperidad de toda la creación de los santos, <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> y los puros, (y en cuanto a esto, también) para la oposición de toda la creación malvada. (Y ruego por esto) mientras alabo por la Rectitud, yo, que soy benéfico, escogí a quienes son (igualmente de mejor mente) [^1223]. 5-8. (Véase Y. VIII, 5-8.) (Para Y. LIII, véase Gâthas, pp. [190](../Gathas_53#p190)\-[194](../Gathas_53#p194).)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

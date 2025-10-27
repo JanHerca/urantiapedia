@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:50Z
 3\. Lorsqu'ils s'accroupissent pour évacuer l'eau, il est nécessaire que celle-ci s'étende seulement [^2] du talon jusqu'au bout des orteils ; car, si c'est plus, chaque goutte est un péché Tanâvar. 4. Et, lorsqu'ils souhaitent s'accroupir pour évacuer l'eau, ils doivent prononcer un Yathâ-ahû-vairyô [^3] ; et, lorsque l'action est terminée, ils doivent réciter l'Ashem-vohû [^4] trois fois, le Humatanãm [^5] deux fois, le Hukhshathrôtemâi [^6] trois fois, le Yathâ-ahû-vairyô quatre fois, et l'Ahunem-vairîm [^7] jusqu'à la fin. 5. Car, chaque fois qu'ils agissent ainsi, ils sont agréables aux yeux et au cœur des hommes, et leurs paroles sont davantage approuvées auprès des rois.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

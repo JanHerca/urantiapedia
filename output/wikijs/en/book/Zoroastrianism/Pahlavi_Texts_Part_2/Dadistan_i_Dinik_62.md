@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. If _there_ be no son of that _man_, but there be a daughter or wife of his, and if _some_ of the _affairs_ [^13] of the man are such as render a woman not suitable for the guardianship, it is necessary to appoint a family guardian; if there be, moreover, no wife _or_ daughter of his it is necessary to appoint an adopted son. 7. This—that is, when it is necessary to appoint a family guardian _and_ who is the fittest, _and_ when it is necessary to appoint an adopted son _and_ which is the fittest—is written in the chapters _on_ the question [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

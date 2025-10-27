@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est celle-ci, que ce monde, continuellement depuis son immaturité jusqu'à sa pure rénovation, n'a jamais été, et ne sera pas, sans les hommes ; et dans l'esprit mauvais, le sans valeur (asapîr), aucun désir éveillé de cela ne surgit. 3. Et près du temps de la rénovation, les existences corporelles cessent de manger et vivent sans nourriture (pavan akhûri<i>s</i>nîh) [^2] ; et la progéniture qui en naît est celle d'un immortel, car ils possèdent des corps durables et épuisés par le sang (khûn-girâî). 4. Tels sont ceux qui sont les hommes existant corporellement qui sont dans le monde quand il y a des hommes, décédés, qui ressuscitent et vivent à nouveau.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

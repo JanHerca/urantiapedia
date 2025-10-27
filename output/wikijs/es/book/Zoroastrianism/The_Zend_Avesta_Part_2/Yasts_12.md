@@ -226,6 +226,8 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -252,68 +254,68 @@ Yathâ ahû vairyô: La voluntad del Señor es la ley de santidad . . . .
 
 ## Notas al pie
 
-[^810]: 168:1 Minokhirad II, 120-121 (tr. Oeste).
+[^777]: 168:1 Minokhirad II, 120-121 (tr. Oeste).
 
-[^811]: 168:2 Sîrôzah I, 18.
+[^778]: 168:2 Sîrôzah I, 18.
 
-[^812]: 169:1 Ahura Mazda.
+[^779]: 169:1 Ahura Mazda.
 
-[^813]: 169:2 Cf. Yt. I, 1 seq.
+[^780]: 169:2 Cf. Yt. I, 1 seq.
 
-[^814]: 169:3 El texto está aparentemente corrupto y literalmente dice: 'Nosotros invocamos, nos bendecimos, Ahura Mazda'.
+[^781]: 169:3 El texto está aparentemente corrupto y literalmente dice: 'Nosotros invocamos, nos bendecimos, Ahura Mazda'.
 
-[^817]: 169:4 Véase la página siguiente, nota [^781].
+[^782]: 169:4 Véase la página siguiente, nota 781.
 
-[^816]: 169:5 Posiblemente, aguas; cf. Yt. V, 132 y Vend. IV, 46 \[128\], 54 \[154\] seq.
+[^783]: 169:5 Posiblemente, aguas; cf. Yt. V, 132 y Vend. IV, 46 \[128\], 54 \[154\] seq.
 
-[^818]: 169:6 Literalmente, la grasa.
+[^784]: 169:6 Literalmente, la grasa.
 
-[^819]: 170:1 Véase [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
+[^785]: 170:1 Véase [p. 12](../Sirozahs_1#p12), nota [13](../Sirozahs_1#fn94).
 
-[^820]: 170:2 Véase Vend. XXII, 3.
+[^786]: 170:2 Véase Vend. XXII, 3.
 
-[^821]: 170:3 Varô; esta parece ser la Var nîrang u ordalía a la que se alude en varios pasajes del Avesta; cf. Afrîgân I, 9; Yasna XXXI, 3 b (véase Pahl. Comm.; cf. Comm. ad XXXI V, 4 a); cf. Vend. IV, 46, 55. Según el Dînkart, había treinta y tres tipos de ordalías var (Haug, Ardâ Vîrâf, p. 245); la más común era verter cobre fundido sobre el pecho del hombre cuya veracidad se iba a probar: si salía ileso, se consideraba que había dicho la verdad. Cf. Vend. Introd. III, 9.
+[^787]: 170:3 Varô; esta parece ser la Var nîrang u ordalía a la que se alude en varios pasajes del Avesta; cf. Afrîgân I, 9; Yasna XXXI, 3 b (véase Pahl. Comm.; cf. Comm. ad XXXI V, 4 a); cf. Vend. IV, 46, 55. Según el Dînkart, había treinta y tres tipos de ordalías var (Haug, Ardâ Vîrâf, p. 245); la más común era verter cobre fundido sobre el pecho del hombre cuya veracidad se iba a probar: si salía ileso, se consideraba que había dicho la verdad. Cf. Vend. Introd. III, 9.
 
-[^822]: 171:1 Arethama<i>t</i>\-bairishta: aretha es dînâ, dâdistân (ley, justicia).
+[^788]: 171:1 Arethama<i>t</i>\-bairishta: aretha es dînâ, dâdistân (ley, justicia).
 
-[^823]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
+[^789]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
 
-[^824]: 171:3 No puedo entender nada del resto de la frase hadhanâ tanasu<i>s</i>; cf. § 38.
+[^790]: 171:3 No puedo entender nada del resto de la frase hadhanâ tanasu<i>s</i>; cf. § 38.
 
-[^828]: 171:4 Véase Yt. X, 15, nota 5.
+[^791]: 171:4 Véase Yt. X, 15, nota 5.
 
-[^826]: 171:5 El resto como en los §§ 5-8.
+[^792]: 171:5 El resto como en los §§ 5-8.
 
-[^832]: 172:1 Véase Yt. X, 15, nota 5.
+[^793]: 172:1 Véase Yt. X, 15, nota 5.
 
-[^833]: 172:2 Véase [p. 54](../Yasts_5#p54), nota [6](../Yasts_5#fn279).
+[^794]: 172:2 Véase [p. 54](../Yasts_5#p54), nota [6](../Yasts_5#fn279).
 
-[^834]: 173:1 El Saêna, en la mitología posterior el Sînamrû o Sîmûrgh; su lugar de descanso está en el árbol que es Ja<i>d</i>\-bêsh (opuesto al daño) de todas las semillas; y siempre que asciende, mil ramitas brotan de ese árbol; y al posarse, las rompe y esparce sus semillas. Y el pájaro Chañmrôsh permanece para siempre en esa vecindad; y su obra es ésta, que recoge esa semilla que cae del árbol de todas las semillas, que es Ja<i>d</i>\-bêsh, y la lleva allí donde Tishtar toma el agua, para que Tishtar pueda tomar el agua con esa semilla de todo tipo, y pueda hacerla llover sobre el mundo con la lluvia' (Minokhirad LXII, 37; tr. Oeste).
+[^795]: 173:1 El Saêna, en la mitología posterior el Sînamrû o Sîmûrgh; su lugar de descanso está en el árbol que es Ja<i>d</i>\-bêsh (opuesto al daño) de todas las semillas; y siempre que asciende, mil ramitas brotan de ese árbol; y al posarse, las rompe y esparce sus semillas. Y el pájaro Chañmrôsh se posa eternamente en esa vecindad; y su obra es ésta, que recoge esa semilla que cae del árbol de todas las semillas, que es Ja<i>d</i>\-bêsh, y la lleva allí donde Tishtar toma el agua, para que Tishtar pueda tomar el agua con esa semilla de todo tipo, y pueda hacerla llover sobre el mundo con la lluvia' (Minokhirad LXII, 37; tr. Oeste).
 
-[^835]: 173:2 Por las inundaciones (? Vend. I, 26); probablemente tiene un significado geográfico; cf. el párrafo siguiente; tal vez la región pantanosa en la desembocadura del Tigris.
+[^796]: 173:2 Por las inundaciones (? Vend. I, 26); probablemente tiene un significado geográfico; cf. el párrafo siguiente; tal vez la región pantanosa en la desembocadura del Tigris.
 
-[^836]: 173:3 Cf. Yt. X, 104; aodhas y sanaka pueden referirse a la cuenca sur y norte del Tigris.
+[^797]: 173:3 Cf. Yt. X, 104; aodhas y sanaka pueden referirse a la cuenca sur y norte del Tigris.
 
-[^837]: 174:1 Cf. Yt. X, 50.
+[^798]: 174:1 Cf. Yt. X, 50.
 
-[^838]: 174:2 Lectura vîspô-vaêmem; cf. Yt. V, 96, nota 7.
+[^799]: 174:2 Lectura vîspô-vaêmem; cf. Yt. V, 96, nota 7.
 
-[^839]: 175:1 Véase Bund. V, 3 seq.; cf. Yt. X, 13, 50.
+[^800]: 175:1 Véase Bund. V, 3 seq.; cf. Yt. X, 13, 50.
 
-[^840]: 175:2 Cf. Yt. XX y Yt. VIII, 12.
+[^801]: 175:2 Cf. Yt. XX y Yt. VIII, 12.
 
-[^842]: 175:3 Cfr. Yt. VIII, 12.
+[^802]: 175:3 Cfr. Yt. VIII, 12.
 
-[^843]: 175:4 'La estrella de esencia de agua es para el aumento del agua; y la estrella de esencia de tierra, para el aumento de la tierra; y la estrella de esencia de árbol, para el aumento de los árboles; y la estrella de esencia de ganado, p. 176, para el aumento del ganado; y la esencia del agua, y la tierra, y los árboles, y el ganado es creada para el aumento del hombre' (Minokhirad XLIX, 7, tr. Oeste).
+[^803]: 175:4 'La estrella de esencia de agua es para el aumento del agua; y la estrella de esencia de tierra, para el aumento de la tierra; y la estrella de esencia de árbol, para el aumento de los árboles; y la estrella de esencia de ganado, p. 176, para el aumento del ganado; y la esencia del agua, y la tierra, y los árboles, y el ganado es creada para el aumento del hombre' (Minokhirad XLIX, 7, tr. Oeste).
 
-[^845]: 176:1 Véase la nota anterior.
+[^804]: 176:1 Véase la nota anterior.
 
-[^846]: 176:2 Excluyendo los planetas que pertenecen a Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1).
+[^805]: 176:2 Excluyendo los planetas que pertenecen a Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1).
 
-[^847]: 176:3 Véase arriba, [p. 8](../Sirozahs_1#p8), nota [8](../Sirozahs_1#fn53).
+[^806]: 176:3 Véase arriba, [p. 8](../Sirozahs_1#p8), nota [8](../Sirozahs_1#fn53).
 
-[^848]: 177:1 El cielo más alto, la morada de Ormazd.
+[^807]: 177:1 El cielo más alto, la morada de Ormazd.
 
-[^849]: 177:2? Upa hadhana hadhanâ tanasu<i>s</i>; cf. § 8, [pág. 171](#p171), nota [^790].
+[^808]: 177:2? Upa hadhana hadhanâ tanasu<i>s</i>; cf. § 8, [pág. 171](#p171), nota 790.
 
-[^850]: 178:1 ¿Quién habrá adorado a Rashnu?
+[^809]: 178:1 ¿Quién habrá adorado a Rashnu?

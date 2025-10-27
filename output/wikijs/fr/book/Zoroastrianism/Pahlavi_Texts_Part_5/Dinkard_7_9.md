@@ -61,6 +61,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 23\. Quand cet homme atteint trente ans, il s'entretient avec les archanges, les bons dirigeants et les bons pourvoyeurs ; le lendemain, à la lumière du jour, il est de plus manifeste, lorsque l'existence incarnée est ainsi sans détresse – sans Kai et sans Karap (c'est-à-dire ni aveugle ni sourde aux affaires des êtres sacrés), et qu'elle est prête à être appropriée (c'est-à-dire qu'elle ne s'est pas séparée des affaires des êtres sacrés), et est produite pleine de vie – qu'elle s'est étendue et est de nouveau grande en divers endroits d'Aîrân-vê<i>g</i> où se trouve le bon Dâîtî.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

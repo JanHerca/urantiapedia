@@ -47,6 +47,8 @@ PARTE I.—El Tratado Original_.
 
 En la administración de la fe primitiva [^9] hay _algunos_ que han tenido opiniones diferentes <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> al respecto, pues Gôgô<i>s</i>asp [^10] habló de manera diferente a la enseñanza [^11] (<i>k</i>â<i>s</i>tak) de Âtarô-Aûharmazd [^12], y Sôshyans [^13] _de manera diferente_ a la enseñanza de Âtarô-frôbâg Nôsâî [^14], y Mê<i>d</i>ôk-mâh [^15] _de manera diferente_ a la enseñanza de Gôgô<i>s</i>asp [^16], y Afarg [^17] _de manera diferente_ a la enseñanza <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> de Sôshyans. 4. Y todos los de la fe primitiva confían en estas seis [^18] enseñanzas, y hay _algunos_ que confían más débilmente y otros más fuertemente _en algunas_ de ellas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

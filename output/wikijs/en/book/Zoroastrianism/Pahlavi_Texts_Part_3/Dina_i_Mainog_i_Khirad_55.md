@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. ‘And the ill-natured are no friends of the good for this reason, because _there_ is a time for their annihilation and destruction by the hands of the good.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

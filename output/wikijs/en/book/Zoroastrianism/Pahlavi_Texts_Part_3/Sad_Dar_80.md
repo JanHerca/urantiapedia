@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. As for that Ashem-vohû whose nature [^6] is as much as ten, that is when they recite _it_ as they eat bread. 7. That which is, from nature, as much as a hundred is when they recite _it_ after eating [^7]. 8. That which is so much by nature that, _having_ turned side over side, they recite _it_ correctly may be a merit of a thousand [^8]. 9. That which is of the nature of ten thousand is that which thou recitest when thou risest up from sleep [^9]. 10. And that whose nature is as much as this world and that _other_ world [^10] is when they recite _it_ at the time of the dissolution of life; for, if he be not able to recite _it_ himself, friends and relations give _it_ into his mouth. 11 [^11]. If he be fit for hell he becomes fit for the ever-stationary, if he be fit for the ever-stationary he becomes fit for heaven, _and_ if he be fit for heaven he becomes fit for the supreme heaven [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

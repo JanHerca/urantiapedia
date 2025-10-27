@@ -64,7 +64,7 @@ Traduction.
 
 --- 
 
-7\. (Alors dans notre conflit à venir [^699], que ses deux ennemis mortels soient tués.) Que le démon de la colère de la rapine soit chassé. Frappez l'envie (qui comploterait contre notre Trône [^700]), ô vous qui, fidèles au Bon Esprit et en accord avec notre saint Ordre, désirez conserver fermement ce refuge [^701], auquel appartient le lien sacré de l'homme généreux. Et donc, <span id="p157">[<sup><small>p.157</small></sup>]</span> Ô Ahura ! (pour sauver ton saint qui lutte avec un sort changeant) je placerai (ce refuge) pour lui dans ton monde.
+7\. (Alors dans notre conflit à venir [^699], que ses deux ennemis mortels soient tués.) Que le démon de la colère de la rapine soit chassé. Frappez l'envie (qui comploterait contre notre Trône [^700]), ô vous qui, fidèles au Bon Esprit et en accord avec notre saint Ordre, désirez conserver fermement ce refuge [^701], auquel appartient le lien sacré de l'homme généreux. Et donc, <span id="p157"><sup><small>[ p.157 ]</small></sup></span> Ô Ahura ! (pour sauver ton saint qui lutte avec un sort changeant) je placerai (ce refuge) pour lui dans ton monde.
 
 8\. (Et comment Te supplierai-je pour cette victoire et ce don ?) Quelle est la (puissante [^702]) prière pour amener Ton saint Règne [^703] ? Qu'en est-il de Ta récompense sacrée et de Ta bénédiction pour mon (âme) ? Comment chercherai-je les aides ouvertes pour (la propagation et le maintien de) Ton (grand) Ordre [^704], alors que je vis moi-même [^705] dans les actions de Ton Bon Esprit ? 
 
@@ -75,6 +75,8 @@ Traduction.
 11\. Oui, quand notre piété parfaite apparaîtra-t-elle [span id="p159">[<sup><small>p. 159</small></sup>]</span> avec [^715] Ta Justice ? Quand viendra-t-elle, ayant pour nous les commodités d'une maison, et pourvue (comme notre terre) de pâturages [^716] (pour les vaches) ? Et qui nous donnera la paix [^717] loin des (hommes) cruels de la vie et de la foi mauvaises ? À qui viendra la sagesse sacrée de Ton Bon Esprit (pour les guider dans leur labeur pour nous sauver et nous venger) ? 
 
 12\. (À qui ? La réponse est proche.) Tels seront les Sauveurs des Provinces, et ceux qui, par la grâce de Ton Bon Esprit, iront de pair avec la vivacité d'esprit [^718] (comme elle se répand parmi Tes saints) en accomplissant chaque acte de Ton commandement, ô Ahura ! avec l'aide de, et conformément à, Ton Saint Ordre ; car de tels êtres sont placés (pour nous), comme des ennemis inébranlables de la haine !
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

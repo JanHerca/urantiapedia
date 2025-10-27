@@ -130,6 +130,8 @@ Contra el perturbador de la justicia, el impío destructor de la vida, los pensa
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

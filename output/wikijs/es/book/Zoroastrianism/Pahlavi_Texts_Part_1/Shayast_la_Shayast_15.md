@@ -65,6 +65,8 @@ PARTE III.—Apéndice [^1].
 
 31\. Completado en paz, placer y alegría [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

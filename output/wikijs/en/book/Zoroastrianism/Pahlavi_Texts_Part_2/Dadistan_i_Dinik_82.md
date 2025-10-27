@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. And he who shall take his money, and did not perform his ceremonial, is just as though he had abstracted from the angels [^3] and the righteous guardian spirits, _and_ destroyed, as much propitiation as would have been possible from that ceremonial; and he is, therefore, overwhelmed by it [^4], and expiates _it_ in the soul.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

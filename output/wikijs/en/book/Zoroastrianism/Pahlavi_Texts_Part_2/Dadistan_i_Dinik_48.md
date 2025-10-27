@@ -60,6 +60,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 38\. The ceremonial which is good is when they shall perform _it_ for a pure disposition and assured wisdom, a minder of the religion of the sacred beings of the spheres, and _with_ pure thoughts, just thoughts [^67], wise deeds, a purified body, a tongue worthy of good <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> (vêh-sa<i>z</i>âk), a scripture (nask) _made_ easy [^68], a true text (a<i>v</i>istâk), ablutions performed, proper rites, undivided, and faultless. 39. Near which fashion, with like abilities, _and_ innumerable times, it is very purely solemnized in the abode of the ever-growing fire, then in the abode of the other sacred fires [^69], then in the abodes of Ma<i>z</i><i>d</i>a-worshippers _and_ other good _people, and_ then _in_ other places pronounced clean. 40. That of the three _days_ [^70] is in the abode of the fire-place which is nearest to that of the departed; the ceremony of the guardian spirits of the righteous [^71] is solemnized in purity there where the dwelling is which is nearest that of the departed whose soul is honoured. 41. And that for victories in war is then at its times of battle, the husbandry of Sâm [^72] and other offenders (vinâsagân) who _were_ for keeping away husbandry, the household attendant's place for a warrior of another rank, the occasion of the outcry of those not possessing (adârigân) a lodging, unto the rest of the same temperament (mûnôkŏ), expressly to produce _and_ maintain a proportional resemblance [^73].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -76,6 +76,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 20\. The name of the twentieth is Vendîdâd [^28], _and_ that is of twenty-two subdivisions, for causing the abstinence of mankind from bad actions, from the devil and disgrace, foreign magicians and those who act after their proceedings and become committers of crime; and we are told of their crime among the whole of the goodness and purity, and the whole of the wickedness and defilement, and the explanation of them. <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> 21\. The name of the twenty-first is Hâdokht [^29], and this is a book of thirty subdivisions, about the manner of bringing together and the abundance of miracles, also the excellence and connections of them. And the accursed devil goes far from every one who recites this book together with the Ya<i>s</i>t [^30], and this person is near _to_ the rank (pâîgâh) of a sacred being, and his sins become pure; also in this book the accursed devil becomes cursed, and God knows _it_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

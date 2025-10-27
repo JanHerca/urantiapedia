@@ -44,6 +44,8 @@ I. The tenth subject is this, that it is incumbent on all those of the good reli
 
 15\. And, again, when the archangels came meeting Zaratu<i>s</i>t they likewise wore the _sacred thread-_girdle on the waist; and the distinctive _characteristic_ (farq) amid the laws of the sacred being is the wearing of the _sacred thread-_girdle. 16. It is incumbent both on woman and on man, _and_ it is altogether (albattah) improper when they do not wear _it_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

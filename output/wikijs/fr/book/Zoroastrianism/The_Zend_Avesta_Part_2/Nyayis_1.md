@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-<span id="p374">[<sup><small>p. 347p374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 347p374 ]</small></sup></span>
 
 <span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
@@ -169,6 +169,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 \[Donnez\] à cet homme la luminosité et la gloire, donnez-lui la santé du corps, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints.
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

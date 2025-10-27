@@ -71,6 +71,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 33\. Y durante su menstruación, _ella_ debe estar sentada de tal manera que, desde su cuerpo, _hay_ quince escalones de tres pies hasta el agua, quince escalones hasta el fuego, quince escalones hasta las ramas _sagradas_, y tres escalones hasta un hombre justo [^40]. 34. Y su comida debe ser llevada en _vasijas_ de hierro o plomo; y la persona (valman) que llevará la comida debe estar a tres pasos de ella [^41]. 35. Cuando se celebra el culto, cada vez que en la dedicación (shnûmanê) [^42] de la consagración de los pasteles sagrados (drôn ya<i>s</i>t) _ella_ debe pronunciarlo en voz alta;_ algunos dicen que el Ithâ _y_ Ashem-vohû [^43].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

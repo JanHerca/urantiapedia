@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. L'esprit de sagesse répondit (5) ainsi : « Faire pour soi-même Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur, et les archanges, et <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> le ciel parfumé et agréable, et [^2] Aharman, le méchant, et le. Les démons confondus, et échapper à l'enfer, les ténèbres et les dépréciés, sont possibles ainsi : (6) c'est-à-dire, lorsqu'ils font de l'esprit de sagesse une protection pour le dos (pû<i>s</i>tîkpânakîh), (7) et portent l'esprit de contentement sur le corps, comme des armes, une armure et une valeur, (8) et font de l'esprit de vérité [^3] un bouclier, (9) de l'esprit de gratitude une massue, (To) de l'esprit de pleine conscience un arc, (11) et de l'esprit de libéralité une flèche ; (12) et ils font de l'esprit de modération une lance, (13) de l'esprit de persévérance un gant, et ils mettent en avant l'esprit du destin comme une protection [^4]. 14. De cette manière, il est possible d'arriver au ciel et à la vue des êtres sacrés, et d'échapper à Aharman, le méchant, et à l'enfer, le déprécié.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

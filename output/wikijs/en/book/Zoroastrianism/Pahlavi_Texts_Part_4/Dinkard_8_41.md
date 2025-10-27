@@ -63,6 +63,8 @@ _Sakâ<i>d</i>ûm Nask_.
 31\. About the increase of grains, _and_ that of sheep _with_ the progeny, milk, and wool that they may severally produce. 32. About the confiscation of clothes and implements by delivering _them_ back to _him_ who specially reckons many _as_ his own [^11]; that is, how the produce (vakhsh) increases when he orders _their_ use imperfectly, how it _does_ when _he does so_ not imperfectly, _and_ how it _does_ when he keeps _them_ in inactivity. 33. About the produce of land on which grain is cast, and _of_ that on which _it is_ not cast (va-zak-î an-madam ramîtuntô) [^12], when by delivery thereof _it_ is self-exhausted. 34. And so also the produce _of_ ornaments of gold and silver, and of red-coloured things, with many regulations on the same subject _and_ what is connected therewith.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

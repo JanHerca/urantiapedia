@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 11\. Y _uno_ llama a este pecado un pecado que _afecta_ a los antagonistas [^6], _y_, mientras el antagonista no quede satisfecho, el pecado continúa [^7], _y_ retienen su alma en la cabecera del puente <i>Kinva<i>d</i>, hasta que llegue el momento en que su antagonista llegue y él mismo cumpla _su_ antagonismo, y le den una respuesta [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

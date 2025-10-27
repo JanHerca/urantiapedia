@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 12\. Une _merveille_ est la venue de ceci aussi à <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> Vi<i>s</i>tâsp, que les archanges ont annoncé comme une récompense pour avoir accepté la religion [^11], alors qu'il vit Pêshyôtan l'heureux souverain, ce fils immortel et immuable, ne manquant pas de nourriture, grand, complètement fort, pleinement glorieux, puissant, victorieux et ressemblant aux êtres sacrés ; la splendeur unique de Pêshyôtan pour la souveraineté de Kangd<i>e</i><i>z</i> _dans_ ce _monde_ là-bas_, comme elle lui a été attribuée _par_ le créateur Aûha<i>r</i>ma<i>z</i><i>d</i>, est manifestée même à travers cette grande merveille à la multitude [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

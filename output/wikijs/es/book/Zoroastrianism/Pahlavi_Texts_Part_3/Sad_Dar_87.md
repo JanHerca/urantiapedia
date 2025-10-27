@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 9\. Los seres sagrados hacen la cuenta _y_ ajuste de cuentas para el alma cuando el sacerdote recita frasasti ahurahê mazd<i>a</i>u [^10] y retira el Frasast [^11] de este lado a aquel lado. 10. El alma pasa sobre el puente <i>K</i>inva<i>d</i> cuando, _en_ ​​la cuarta noche, llega del mundo al puente <i>K</i>inva<i>d</i>. 11. Primero va a la morada del fuego (âta<i>s</i>\-gâh) [^12]; después, un paso llega a la estación estelar, el segundo paso llega a la estación lunar, el tercer paso a la estación solar, _y_ con el cuarto paso llega al puente <i>K</i>inva<i>d</i> [^13], _y_ la transportan a su propio lugar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

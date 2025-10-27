@@ -46,6 +46,8 @@ _Bakŏ Nask_.
 
 11\. Excellence _that is_ perfect is righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

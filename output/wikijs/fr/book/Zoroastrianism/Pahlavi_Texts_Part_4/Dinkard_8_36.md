@@ -49,6 +49,8 @@ _Maison de Nask_.
 
 17\. À propos de l'endroit et de la personne en qui, après le père, se trouve <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> la prérogative de donner une fille à un mari.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

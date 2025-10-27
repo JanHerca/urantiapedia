@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 40\. La preuve de la venue du destructeur sur les créatures, après leur création, réside dans la formation des moyens du créateur pour affronter un adversaire, avant son arrivée. (41) Ces moyens sont, de manière omnisciente, une disposition du créateur avant la création. 42. Et il existe une démonstration de ces mêmes moyens chez les créatures : la lutte contre l’adversaire, grâce à l’arrangement de leur nature. 43. Un devoir inhérent à la nature des créatures est de maîtriser tant de vexations. 44. Leur préparation, elle aussi, est comparable à une lutte qui forme un ennemi face à l’adversaire. (45) Et leur désir naturel de devoir élimine toute hâte.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -44,6 +44,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 16\. Of water and fire, through their own nature, no injury whatever is manifest; (17) but the cold of _their_ fraternization [^5] is mingled with the moisture of the water, _and_ is an opponent of the heat of the fire; (18) and the dryness of _their_ fraternization is mingled with the heat of the fire, _and_ is counteractingly an injurer of the moisture _of_ the water.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

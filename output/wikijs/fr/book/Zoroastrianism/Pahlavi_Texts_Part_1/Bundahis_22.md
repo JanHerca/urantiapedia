@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 lieues (parasanges). du lac <i>K</i>ê<i>k</i>ast. 9. Le lac (ou plutôt le golfe) Satavês [^14] est celui dont on a déjà parlé, entre l'océan aux vastes formes et le Pûtîk. 10. On dit qu'à Kamîndân se trouve un abîme (zafar), d'où tout ce qu'on y jette revient toujours, et il ne le reçoit que vivant (<i>g</i>ânvar) ; lorsqu'on y jette une créature vivante, elle l'emporte ; les hommes disent qu'il y a une fontaine de l'enfer en lui. 11. Le lac Urvis est sur Hûgar le Haut [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

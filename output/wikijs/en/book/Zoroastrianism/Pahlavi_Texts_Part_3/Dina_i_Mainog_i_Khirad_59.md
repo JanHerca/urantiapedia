@@ -44,6 +44,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 10\. ‘_And_ the vices of artizans are unbelief, want of thanksgiving, improper muttering _of prayers_, moroseness, and abusiveness.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -62,6 +62,8 @@ MH10 (de unos 150 años de antigüedad), un Rivâyat persa, nº 10 de la colecci
 O225, un Rivâyat persa en el n.° 225 de la colección de Ouseley en la Biblioteca Bodleian de Oxford.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

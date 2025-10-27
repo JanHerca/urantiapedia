@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 29\. «Y en cuanto a lo que preguntas sobre las existencias espirituales y mundanas, la existencia mundana es, en última instancia, muerte y desaparición, (30) y la existencia espiritual, en última instancia, <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> la del alma de los justos es incorruptible, inmortal e imperturbable, llena de gloria y gozo, por los siglos de los siglos, con los ángeles, arcángeles y los espíritus guardianes [^11] de los justos. 31. Y el puente [^12], la destrucción [^13] y el castigo de los malvados en el infierno son por los siglos de los siglos [^14]. 32. Y el alma malvada, aparte del castigo, contempla la existencia, e incluso la aparición [^15], con los demonios y los demonios, tal como, en la _existencia_ mundana, un hombre sano _hace_ eso con aquel que está muy gravemente enfermo.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. Therefore, even if a sin be trifling it is not desirable to commit _it_; and it is requisite to refrain, so that they _may_ not commit _it_, and _may_ become without doubt as to the religion.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

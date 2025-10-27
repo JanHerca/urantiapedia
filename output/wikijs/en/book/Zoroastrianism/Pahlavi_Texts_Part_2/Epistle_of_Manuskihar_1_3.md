@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 17\. The seventh is this, that if none of these six _of_ which I _have_ written should exist, even then your approved cleverness (<i>s</i>îvagdârîh), extolled freedom from strife, hereafter-discerning and complete mindfulness, <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> practised [^24] attention to the good, and much affection [^25] for the faithful—so kindly regarding, truly judging, _and_ with a liking for praising (srî<i>d</i>anŏ), as regards whatever I write truly _and_ with true conviction—are, I consider, to make provision, and _have_ realised a preparation striven for.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

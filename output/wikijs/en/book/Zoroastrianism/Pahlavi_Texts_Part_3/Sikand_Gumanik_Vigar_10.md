@@ -64,6 +64,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 78\. So that I here [^35] notice _some_ of _their_ much inconsistency and disconnection, for informing the judgment of new learners, (79) for the reason that when the writings of the learned ancients have specially minutely and reverently [^36] discoursed of <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> _what is_ most astute in evil, to impel _one_ to good knowledge, (80) you _should_ observe with kind regards _what is_ ordered.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

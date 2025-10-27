@@ -48,6 +48,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 9\. Then those Ma<i>z</i><i>d</i>a-worshippers smite, and none are smiting them. 0. Then those Ma<i>z</i><i>d</i>a-worshippers produce a longing for a renovation among the existences, _one_ ever-living, ever-beneficial, and ever desiring a Lord. 11. ‘Then I, who am Aûha<i>r</i>ma<i>z</i><i>d</i>, produce the renovation according to the longing among the existences, _one_ ever-living, ever-beneficial, _and ever_ desiring a Lord.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

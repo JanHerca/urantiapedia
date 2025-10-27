@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 16\. Et celui qui a eu une intention beaucoup plus louable est déclaré comme le plus pieux et le plus judicieux des adorateurs ; et pour le bien du cérémonial, il est purifié par la cérémonie de Bareshnûm [^16], et doit pratiquer d'autres descriptions de propreté en ce qui concerne son corps et ses vêtements. 17. Pendant l'accomplissement du cérémonial, on mange du pain fait de blé moulu par ceux de la bonne <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> religion, du vin fait par ceux de la bonne religion et de la viande de l'animal [^17] qui est abattu lors du cérémonial ; _et l'on_ doit se rendre dans la demeure des feux [^18] et du bien, _et_ s'abstenir du reste des autres lieux qui sont douteux [^19] _et_ de la nourriture qui est douteuse. 18. Et avec cette attention totale, _on_ doit conduire et ordonner ce cérémonial dans la demeure du feu toujours croissant, ou autre feu de Varahrân [^20] ; par lequel ses nombreuses bonnes œuvres sont efficaces, _et_ le chemin des bonnes œuvres [^21] est très large. 19. Concernant [^22] la souffrance de _celui_ dont la capacité dans ce qui est son efficacité préservatrice [^23] est moindre, il est ainsi révélé, que celui qui est juste n'est pas accablé, pour ainsi dire, contre son gré, par l'incapacité [^24].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. Es necesario que presenten toda la leña; y, a quien la enciende, le deben dar pan y un salario (nafaqah). 5. Porque, cada vez que ese fuego se sacia y lo mantienen adecuadamente, todo fuego que exista en la tierra de las siete regiones se sacia con esa persona.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

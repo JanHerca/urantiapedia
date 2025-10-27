@@ -66,6 +66,8 @@ SOME chapters of the enquiries which Mit<i>r</i>ô-khûrshê<i>d</i>, son of Ât
 
 27\. A fair copy (bûr<i>z</i>i<i>s</i>nîkŏ pa<i>k</i>înŏ) of the questions, as well as the replies, is this; so that, when there is nothing in it which owing to that cause [^29] is different, I am of opinion as is _here_ written.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

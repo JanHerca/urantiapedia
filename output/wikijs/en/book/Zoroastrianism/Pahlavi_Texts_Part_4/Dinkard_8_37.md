@@ -78,6 +78,8 @@ _Hûspâram Nask_.
 
 52\. Perfect is the excellence _of_ righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

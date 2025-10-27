@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. And, for women [^3], there is no duty more indispensable than this; for it is declared in revelation that, when they celebrate a Dvâzdah-hômâst, it is a good work of a hundred thousand Tanâvars [^4], and if <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> it be the days of the Dvâzdah-hômâst it is a good work of a thousand thousand Tanâvars, and when they celebrate _it_ by day it is a good work just like this.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

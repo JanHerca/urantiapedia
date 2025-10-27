@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 11\. La repentance, c'est quand ils accomplissent la repentance du péché qu'ils ont commis, et ne commettent pas ce péché une seconde fois ; s'ils le commettent, ce premier péché revient alors [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

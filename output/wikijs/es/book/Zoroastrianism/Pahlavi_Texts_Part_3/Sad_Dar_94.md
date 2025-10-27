@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Se declara en la revelación que, cuando alguien otorga un beneficio a alguien, Hôrmazd [^1] le otorga diez veces más, como equivalente. 3. Y si el otro no comprende [^2] la justicia de esto, el comentario del Avesta relata de esta manera que es un gran pecado para él. 4. Y Aharman [^3] habla así: «Ese pecador es afín a mí; al final caerá en mis manos; no lo entregaré a ningún demonio, sino que lo castigaré con mis propias manos». 5. Y el sumo sacerdote [^4] dice que es necesario que todos los zaratucianos se mantengan alejados de este pecado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

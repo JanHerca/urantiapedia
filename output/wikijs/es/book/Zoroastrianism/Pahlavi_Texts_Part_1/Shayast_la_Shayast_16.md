@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 6\. Las buenas obras que se encuentran en la adoración _ceremonial_ <span id="p381"><sup><small>[ p. 381 ]</small></sup></span> de los seres sagrados (ya<i>z</i>i<i>s</i>ni yazdân):—_Consagrar_ un pastel sagrado (drôn) [^8] es una buena obra de un Tanâpûhar [^9]; una _forma_ de adoración (ya<i>s</i>t) [^10] son ​​cien Tanâpûhars; un Vispara<i>d</i> [^11] son ​​mil Tanâpûhars; un Dô-hômâst [^12] son ​​diez mil; un Dvâ<i>z</i>dah-hômâst es cien mil, _y_ el mérito (kirfak) de cada uno que se _realiza_ con agua bendita se dice que _es_ cien a uno; un Hâ<i>d</i>ôkht [^13] es dos mil Tanâpûhars, _y_ con agua bendita se convierte en cien a uno [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

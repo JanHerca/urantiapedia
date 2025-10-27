@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 9\. El espíritu de sabiduría le respondió así: «Peor es ese gobernante que no puede mantener el país tranquilo ni al pueblo en paz. 11. Peor es ese jefe que es deficiente en habilidad, desagradecido con los agentes (ka<i>r</i><i>d</i>ârân), y no ayuda ni intercede por un sirviente (a<i>s</i>âk) [^2]. 12. Peor es ese amigo en quien no se puede confiar. 13. Peor es ese pariente que no ayuda en la enfermedad (khastânak) [^3]. 14. Peor es esa esposa con quien no es posible vivir con placer. 15. Peor es ese niño que no trae renombre. 16. Peor es ese país en el que no es posible vivir en felicidad, valentía y permanencia».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

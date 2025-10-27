@@ -50,6 +50,8 @@ dateCreated: 2025-10-10T14:41:43Z
 21\. La justicia perfecta es la excelencia.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

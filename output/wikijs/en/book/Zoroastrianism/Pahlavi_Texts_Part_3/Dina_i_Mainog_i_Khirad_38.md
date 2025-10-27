@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. ‘And they make _one_ [^2] a seizer upon the spiritual _existences_, by worthiness of action, on this account, because the wickedness of any [^3] one arises through the performance of his own actions.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

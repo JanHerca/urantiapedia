@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Ensuite, parce que c'est nécessaire, ils récitent ces prières intérieures [^3] et accomplissent la bénédiction (âfrîn) du feu, afin qu'il puisse rester longtemps pendant que tu maintiens [^4] ce démon vaincu. 7. Lorsqu'une autre personne entend l'éternuement, il est également requis pour elle de prononcer lesdites prières et d'accomplir la bénédiction de cet esprit [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

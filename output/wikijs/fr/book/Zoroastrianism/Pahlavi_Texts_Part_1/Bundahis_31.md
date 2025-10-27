@@ -71,6 +71,8 @@ engendré. 26. Keresâsp [^63] _et_ Aûrvakhsh [^64] étaient tous deux frères.
 
 36\. De plus, avec ceux engendrés par <i>S</i>âm [^84], il y avait six enfants par paires, un garçon et une fille ; le nom de l'un était Damnak, celui de Khûsrôv, et celui de Mârgandak, et le nom de chaque homme et femme ensemble était un. 37. Et le nom de l'un d'eux était Dastân [^85] ; il était considéré comme plus éminent qu'eux, et Sagânsîh [^86] et le quartier sud lui furent donnés ; et Avar-shatrô [^87] et le gouvernement furent donnés par lui à Avarnak. 38. D'Avar-shatrô, on dit que c'est le district d'Avarnak, et ils offirent des bénédictions à Srôsh et à Ar<i>d</i>avahi<i>s</i>t successivement ; à cause de cela est _leur_ possession de chevaux et de possession d'armes ; et à cause de la religion ferme, de la pureté et de la joie manifeste, de la bonne estime et de la grande renommée sont grandement <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> parmi eux. 39. À Damnak le gouvernement d'Asûristân fut donné ; la souveraineté et l'organisation de la loi de souveraineté, l'obstination et les défauts obstinés qu'ils apportaient, étaient parmi eux. 40. À Sparnak [^88] le gouvernement de Spâhân [^89] fut donné ; à Khûsrôv le gouvernement de Râi [^90] fut donné ; à Mârgandak le royaume, les colonies forestières et les colonies montagneuses de Padashkhvârgar furent donnés ; _où_ ils voyagent nomadiquement, et _il y a_ la formation de bergeries, la prolificité, la procréation facile et le triomphe continuel sur les ennemis. 41. De Dastân sont partis Rû<i>d</i>astâm [^91] et Hûzavârak [^92].\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

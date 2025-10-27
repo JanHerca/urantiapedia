@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that the growth does eradicate _it_, as happens _with_ the good work which is for atonement for sin; it shall be done as retribution for sin, _and_ it eradicates the sin, which is specially mentioned in revelation [^1]. 3. ‘Then the place of his <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> other good work is evidently the soul; and, in order to be with the sin at _its_ origin, it remains _and_ is taken into account.’ 4. ‘Through good works and the growth of good works is the recompense of the soul, so that they should do those good works in atonement for sin.’ 5. And concerning the sin eradicated it is said: ‘An original good work eradicates original sin [^2], and the growth of a good work _eradicates_ the growth of a sin.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

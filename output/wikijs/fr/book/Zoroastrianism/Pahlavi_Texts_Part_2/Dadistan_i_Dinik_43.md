@@ -46,6 +46,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 10\. De sorte que lorsqu'il s'agit de la dédicace propitiatoire pour le jour Khûr du mois de consécration Â<i>v</i>ân [^10], le jour _et_ le mois sont tels que leur ordre et l'Âtûr (« feu ») et l'Â<i>v</i>ân (« eaux ») qui les suivent sont ainsi mis en ordre inverse de la séquence _propre_ [^11]. 11. De même, lorsque dans le même mois [^12] sa dédicace propitiatoire pour le jour _et_ le mois devient _identique pour_ le jour et le mois [^13], elle est récitée concernant _à la fois_ le mois et les « eaux » (â<i>v</i>ân), car _ils_ ne sont_ pas liés_ ensemble et _sont_ redevenus_ non inclusifs ; _et_ alors _on_ doit les considérer comme appropriés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

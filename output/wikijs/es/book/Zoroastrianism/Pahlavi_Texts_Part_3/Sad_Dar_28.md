@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Pues se declara en la revelación que el ser sagrado _ha_ decretado así: «A todo aquel que aparte el Avesta de su memoria, pondré su alma tan lejos del cielo como la anchura de la tierra». 4. Y en el comentario del Avesta se relata que, en tiempos pasados, a cualquiera que hubiera aprendido el Avesta y lo hubiera apartado de su memoria, hasta que se le hiciera fácil, le habrían dado pan como el que se les da a los perros. 5. _Y en_ otro lugar he leído que le habrían dado pan _a_ punta de lanza.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

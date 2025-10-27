@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. _En cuanto a_ lo que él piensa [^8] de aquellas liberaciones enviadas, completadas y anunciadas, considero más particularmente sobre el significado de una cosa, que es su observancia solemne. 6. La observancia solemne de Mê<i>d</i>yôk-mâh está en la enseñanza [^9] de Mê<i>d</i>yôk-mâh, y las de Afarg y Sôshâns son cada una meditada _e_ indicada en una enseñanza; y la posición claramente superior de cada una de ellas es mencionada por él en _su_ declaración de cualquier enseñanza y _de_ la decisión establecida. 7. También con una amable consideración por su propia elección él _ha_ pensado que (la enseñanza anterior) es imperfecta, y, debido a _lo_ que no se logró con ella—que _era_ una re-explicación de las mismas buenas ideas proporcionadas—_su_ disimilitud con ella no pasa desapercibida [^10]. 8. _Pero_ cuando _uno_ escucha a los re-explicadores de una respuesta verdadera está bien protegido (hû-zinharî<i>d</i>ŏ) por una completa atención [^11], _y_ él mismo confía en que la enseñanza de Mê<i>d</i>yôk-mâh no es la declaración completa de Mê<i>d</i>yôk-mâh, porque hay muchas opiniones de <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> Mê<i>d</i>yôk-mâh [^12] _que_ han decidido _de_ otra manera; no _que_ todo lo que dijo Mê<i>d</i>yôk-mâh no sea bueno, _sino_ que en la enseñanza de Mê<i>d</i>yôk-mâh _es_ cierto que incluso lo que no es apropiado se menciona muchas _veces_ como una posibilidad [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The forty-eighth subject is this, that, when they boil a cooking-pot, it is necessary to make the water two parts of one-third _each_, that one-third of the pot may be empty; so that, if _at_ any time the pot shall boil, _the water_ shall not go to the top [^2]. 2. For if they do not act so, and the [^3] water, owing to not stopping, goes into the fire [^4], it is a sin of a thousand and two hundred dirhams _in_ weight [^5]; therefore it is necessary to keep watch that this sin does not arise.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

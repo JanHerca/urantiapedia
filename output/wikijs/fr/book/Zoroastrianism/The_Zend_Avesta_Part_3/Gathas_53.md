@@ -70,6 +70,8 @@ Traduction.
 
 9\. Par les faux croyants, le bourreau fait de tes secours [^870] des réfractaires [^871] ; (ceux qui ont autrefois aidé nos héros ne leur porteront plus secours). L'étranger désire ainsi, et le réprouvé [^872] le veut, avec la volonté qu'il nourrit de conquérir notre honneur [^873]. Où est donc le Seigneur juste qui les frappera de mort [^874] et les (trompera) par la licence ? Mazda ! À toi appartient cette puissance (qui bannira et vaincra). Et à toi appartient le Royaume [^875] ; et par lui, tu accordes les plus hautes (bénédictions) aux pauvres qui vivent bien [^876] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

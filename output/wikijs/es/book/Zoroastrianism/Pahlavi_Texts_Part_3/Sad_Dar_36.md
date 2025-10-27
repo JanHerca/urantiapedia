@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 8\. Y en cuanto a la persona que realiza el Bareshnûm por la humanidad [^7], es necesario que sea un hombre, un amigo del alma, un orador veraz y un abstemio, porque mediante la castidad y la modestia (mastûrî) se vuelve empleado. 9. Si se difunde públicamente una queja de alguna perfidia en él [^8], en esa desgracia (malâmat) es necesario que los sumos sacerdotes <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> _deberían_ dislocarle las articulaciones una por una, y es requisito que lo den como pasto para los perros. 10. Para que con esta acción _puedan_ hacer que el hombre observe con mayor castidad y continente, para que este resultado ('hâʓil) del pecado _no ocurra_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

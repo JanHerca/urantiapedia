@@ -60,6 +60,8 @@ Et nous sacrifions à ce Baresman qui porte le Zaothra et sa ceinture, et qui r�
 
 Et nous sacrifions aux âmes des morts, \[qui sont les Fravashis des saints\]. 24. Et nous sacrifions à ce Seigneur sublime qu'est Ahura Mazda Lui-même. <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 25\. Et nous prions (à nouveau) pour les vaches (une fois de plus) avec ces dons et ces actions (cérémoniales) qui sont les meilleures [^1382]. 26-28. (Voir Y. VIII, 5-7.) 29-31. (Voir Y. LX, II-13.)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

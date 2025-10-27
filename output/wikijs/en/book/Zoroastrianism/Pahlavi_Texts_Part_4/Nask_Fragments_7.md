@@ -36,6 +36,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 Dk. VIII, Chap. VIII, 4, probably refers to the passage containing the statement thus mentioned in Sls. X, 29:—‘In the Ra<i>d</i>ŏ-dâ<i>d</i>\-aîtîh many harsh things are said about the severe punishment of the unhelpful _ones_ (avi<i>g</i>î<i>d</i>âr-daî<i>s</i>nânŏ) [^2] in the spiritual _existence_.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

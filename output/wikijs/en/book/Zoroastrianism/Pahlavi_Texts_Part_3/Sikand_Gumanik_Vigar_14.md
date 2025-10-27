@@ -70,6 +70,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 87\. About this subject is here complete.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

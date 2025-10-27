@@ -96,6 +96,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 60\. It is perfect _is_ the excellence of righteousness; it is perfect excellence _that is_ righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

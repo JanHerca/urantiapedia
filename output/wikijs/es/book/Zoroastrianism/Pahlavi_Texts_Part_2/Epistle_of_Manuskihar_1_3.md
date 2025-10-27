@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 17\. El séptimo es este: si no existiera ninguno de estos seis _de_ los cuales _he_ escrito, incluso entonces, tu inteligencia aprobada (<i>s</i>îvagdârîh), tu exaltada libertad de conflicto, tu discernimiento para lo sucesivo y tu completa atención, tu <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> práctica [^24] atención al bien y mucho afecto [^25] por los fieles —tan bondadosamente considerando, juzgando con verdad y con gusto por la alabanza (srî<i>d</i>anŏ) respecto a todo lo que escribo con verdad _y_ con verdadera convicción— considero que están haciendo provisión y han realizado una preparación por la que se esforzaron.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

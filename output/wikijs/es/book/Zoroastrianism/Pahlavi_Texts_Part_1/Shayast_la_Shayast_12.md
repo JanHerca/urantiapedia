@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 32\. La regla es esta: ante cada una de estas tres cosas que se producen al vivir con hambre, es decir, estornudar, bostezar y suspirar, se debe pronunciar un Yathâ-ahû-vairyô y un Ashem-vohû [^78]; y también cuando se oye el estornudo de alguien, hablar de la misma manera se considera una acción del bien [^79]; y en el Stû<i>d</i>gar _Nask_ [^80] dice: ««¿Qué prepara el estornudo? Es decir, ¿a través de qué proceso (kâr) se produce?»» Y Aûharmazd dijo así: «¡Vida hambrienta, oh Zaratû<i>s</i>t! porque el remedio para su existencia es el Ahunavar, oh Zaratû<i>s</i>t! _y_ la rectitud [^81].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

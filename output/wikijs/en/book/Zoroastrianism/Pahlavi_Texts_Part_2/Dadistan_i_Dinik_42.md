@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. And as much as that which is an improper law _and_ a law worthy of death is a punishing of the soul, and the disconnected [^8] words and perversion (va<i>s</i>takîh), due also to the perfidy (rangi<i>s</i>nŏ) of the fiend _who has_ come, are such that in his time the religious rites (dînô) performed are rites of grievous vexation _and_ fear, _so_ that which is a proper law, like the great glorification in spirit and the connected words of the high-priests, is the arrival of the good spirit as much as a virtue worthy of recompense _and_ full of hope. 7. Even as that which is said thus: ‘Of men who are practisers of good deeds the manifestation is then in their children.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

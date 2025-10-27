@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Y si _uno_ no le muestra un perro al cadáver, _y_ lo levantan, _cuantos_ sean, todos _se contaminan_ [^8]. 8. En el comentario del Vendîdâ<i>d</i> se afirma que todo aquel que levanta un cadáver que un perro _no_ ha visto se contamina y merece la muerte [^9], y nunca se purifica; su alma _también_ sería malvada.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

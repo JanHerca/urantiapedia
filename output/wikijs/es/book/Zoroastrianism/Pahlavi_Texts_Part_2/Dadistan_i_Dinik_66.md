@@ -65,6 +65,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 33\. La dignidad del discípulo, que se debe a sí mismo, es la preparación; _y_ el sacerdote es digno, de cuya actuación en la religión _has_ hablado [^31]; por lo tanto, la dignidad suprema es inalcanzable para ninguno de los dos; por lo tanto, es más significativo cuando el discípulo es el preparador, _y_ el sacerdote, _como_ director, se convierte en un demandante de buen efecto; ambos se esfuerzan por el buen progreso, _y_ a través de múltiples tipos de participación pueden ser dignos. 34. Y ambos, alabando juntos—con lo cual la participación llega a su fin—pueden apoderarse [^32] con autorización; pero esa dignidad suya se debe al deber y la alabanza en ello—este _en la preparación, _y_ este _en la supervisión (a<i>v</i>ar-ma<i>d</i>îh) de la recitación—y_ el discurso posterior y la petición, _y_ demás bien realizado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

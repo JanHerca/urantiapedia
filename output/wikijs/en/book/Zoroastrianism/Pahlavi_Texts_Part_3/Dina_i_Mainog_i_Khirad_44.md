@@ -46,6 +46,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 24\. ‘_It_ is declared that Aûha<i>r</i>ma<i>z</i><i>d</i> created Aîrân-vê<i>g</i>ô better than other places and districts [^16]. <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> 25. And its goodness is this, that the life of the people is three hundred years [^17], (26) and of the oxen and sheep one hundred and fifty years. 27. Their pain and sickness, also, are little; (28) they fabricate (drû<i>g</i>ênd) [^18] no lies, (29) they make no lamentation and weeping, (30) and the domination of the demon of greediness (A z) in their bodies is little. 31. When they eat one loaf among ten men, they are satisfied. 32. And in every forty years one child is born from one woman and one man [^19]. 33. Their law, also, is goodness, and _their_ religion the primitive faith [^20]; (34) and when they die they are righteous [^21]. 35. Their _spiritual_ chief (ratû), likewise, is Gôpaîtŏ [^22], and _their_ lord and king is Srôsh [^23].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

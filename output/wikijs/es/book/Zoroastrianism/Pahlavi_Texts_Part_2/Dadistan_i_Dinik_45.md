@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. Y ambas profesiones son los preservadores indispensables de las grandes decisiones _en cuanto a_ lo que la disposición sacerdotal _ha_ enseñado, hecho y considerado acerca de la existencia perpetua de cada ser, la bondad completa _y_ el éxito final del mal inexistente _y_ el bien entero de los seres sagrados, la aniquilación de los demonios [^6], _y_ la comprensión completa de los amigos de los seres sagrados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

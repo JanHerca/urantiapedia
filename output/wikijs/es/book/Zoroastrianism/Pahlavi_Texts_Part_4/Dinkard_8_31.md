@@ -65,6 +65,8 @@ _Casa de Nask_.
 
 40\. Cuando un pecador muere en el acto a causa de la pena de dejar cicatrices, o por el trabajo realizado, o por el esfuerzo de cumplir la penitencia del castigo, y cuando un hombre muere arrepentido, pero incapaz de desear [^7] la retribución del pecado, y no ha expiado en la existencia mundana, ¿cuál es la naturaleza de la impotencia de su alma debido al pecado? 41. Sobre aquellos para quienes no hay retribución por el pecado. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> 42\. Sobre cómo es la clase de contienda _de_ un _hombre_ pobre, despojado de sus bienes; primero, respecto al opresor que _era_ el saqueador, y, después, _habiendo_ solicitado procedimientos penales, a través de los jueces, respecto a su opresor, hasta que se le reembolsen los bienes. 43. Sobre _ser_ entregado a la angustia _y_ al desastre [^8], y la decisión al respecto. 44. Sobre la opresión _de_ la gran contaminación de la avaricia (<i>â</i><i>z</i>ŏ) que se debe a toda su maldad, _y_ el arreglo del creador al respecto para restringir al mismo demonio [^9] de destruir toda la creación mundana. 45. Sobre la gran prudencia de un hombre falto de poder _siendo_ bueno, para preservar su propia vida y hacerla _nutrible_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

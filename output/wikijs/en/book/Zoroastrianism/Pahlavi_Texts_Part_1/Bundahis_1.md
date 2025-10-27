@@ -74,6 +74,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 28\. Of Aûharmazd's creatures of the world, the first _was_ the sky; the second, water; the third, earth; the fourth, plants; the fifth, animals; the sixth, mankind.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

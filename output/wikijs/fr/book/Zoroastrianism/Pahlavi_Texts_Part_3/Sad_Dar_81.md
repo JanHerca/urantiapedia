@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 13\. Fais donc un effort, afin de ne pas remettre à demain ton devoir d'aujourd'hui. 14. Parce qu'Aharman, le méchant, a confié cette affaire à deux démons, l'un s'appelle Tardy (dêr) et l'autre Afterwards (pas). 15. Ces deux démons sont unis, et ils <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> font un effort et une prodigalité [^8] avec l'homme, de sorte que son devoir retombe [^9]. 16. Car, quant à tout devoir et à toute bonne œuvre qui se présentent, ce démon dont le nom est Tardy parle ainsi : « Tu vivras longtemps, et il est possible d'accomplir ce devoir à tout moment » ; et ce démon dont le nom est Afterwards dit : « Passe maintenant ; 17. Et ces deux démons unis éloignent l'âme de son propre devoir, jusqu'à ce que la fin arrive ; tous les devoirs sont abandonnés, et elle doit éprouver du regret ('hasarat) et de la pénitence. 18. Elle ne tire aucun bénéfice du devoir et des bonnes œuvres, et quitte ce monde.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

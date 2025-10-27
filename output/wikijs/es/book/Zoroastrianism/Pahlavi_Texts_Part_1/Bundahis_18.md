@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 10\. Entre [^12] estos árboles de tales clases [^13] se forma la montaña con cavidades, de 9999 mil miríadas _en número_, siendo cada miríada diez mil. 11. A esa montaña se le otorga la protección de las aguas, de modo que el agua fluye desde allí, en los canales de los riachuelos, hacia la tierra de las siete regiones, como la fuente de toda el agua de mar en la tierra de las siete regiones proviene de allí [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

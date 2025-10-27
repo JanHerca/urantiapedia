@@ -46,6 +46,8 @@ _Sû<i>d</i>kar Nask_.
 
 15\. It is righteousness _that is_ perfect excellence.\] [^10]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

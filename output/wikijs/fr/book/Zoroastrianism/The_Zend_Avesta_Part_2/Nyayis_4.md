@@ -66,6 +66,8 @@ Soyez propitiatoire [^1529] . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

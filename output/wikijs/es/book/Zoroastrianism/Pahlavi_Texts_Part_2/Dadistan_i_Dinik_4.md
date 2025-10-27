@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Así como mediante la sabiduría se crea el mundo de la rectitud, mediante la sabiduría se subyuga todo mal, y mediante la sabiduría se perfecciona todo bien; y la mejor sabiduría es la religión pura, cuyo progreso es el alcanzado por los defensores de la religión, la grandeza de los mejores hombres de entre los justos, en cuyo destino _está_, tal como se _mostró_ acerca de Gâyômar<i>d</i>, Zaratû<i>s</i>t y Sôshâns [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

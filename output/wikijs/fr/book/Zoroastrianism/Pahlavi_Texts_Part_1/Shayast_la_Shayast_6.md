@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 7\. d'une loi pure (dâ<i>d</i>) sommes-nous de la bonne religion, et nous sommes de la foi primitive ; d'une loi mixte sont _ceux_ de la congrégation Sînîk [^13] ; d'une loi vile <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> sont les Zandîk [^14], les chrétiens (Tarsâk), les juifs (Yahû<i>d</i>), et d'autres de ce genre (<i>s</i>anŏ) [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

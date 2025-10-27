@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 11\. Mais comme le même décret, _ou_ ce qui ressemble au même décret [^18], est établi (vakhtŏ) <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> _et_ spécialement décidé, et ne doit pas être accepté _de_ lui, et l'opération ne doit pas être effectuée de cette façon, sa position doit alors être considérée, _par_ ceux qui sont constants _dans_ la pratique de la religion prééminente, avec la compréhension et le discernement les plus avancés, qui sont la pensée de sa véritable position dans la religion des adorateurs de Ma<i>z</i><i>d</i>a. 12. Et d'autres décrets religieux, intelligemment préservateurs de l'âme, qui sont révélés et déclarés par l'enseignement des grands prêtres véridiques de la religion des adorateurs de Ma<i>z</i><i>d</i>a, doivent être convenablement acceptés et respectés. 13. Et puisque cette opinion (dâstakŏ) que je formule est, de plus, tirée des écrits d'Afarg, même concernant la préservation d'interprétations et d'enseignements différents, non pas spécialement en raison de déclarations inaccessibles de cette religion brisée [^19] des adorateurs de Ma<i>z</i><i>d</i>a, ni même à cause de la détresse causée par des conflits simultanés, mais en raison du désir d'opinions vraies qui a existé, il y a une sécurité abondante, mais temporaire, contre les griffonnages des écrits opposés, partiaux et nuisibles de ce prêtre [^20].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

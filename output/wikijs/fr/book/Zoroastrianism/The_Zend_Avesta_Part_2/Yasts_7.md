@@ -88,6 +88,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens.
 
 Donnez à cet homme la luminosité et la gloire, donnez-lui la santé du corps, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -114,52 +116,52 @@ Donnez à cet homme la luminosité et la gloire, donnez-lui la santé du corps, 
 
 ## Notes de bas de page
 
-[^451]: 88:1 Les 12e, 2e, 14e et 21e jours du mois.
+[^430]: 88:1 Les 12e, 2e, 14e et 21e jours du mois.
 
-[^452]: 88:2 L'Amshaspand Bahman est chargé de la garde du bétail (Vend. XIX, 20, note 8).
+[^431]: 88:2 L'Amshaspand Bahman est chargé de la garde du bétail (Vend. XIX, 20, note 8).
 
-[^453]: 88:3 Le génie du bétail ; voir Yt. IX.
+[^432]: 88:3 Le génie du bétail ; voir Yt. IX.
 
-[^454]: 88:4 Bahman signifie « bonne pensée, bon esprit », Vohu-Manô ; dans les Védas, on dit que la lune a été créée à partir de l'esprit (manas) de Puru<i>s</i>a. Pour une explication de ce vieux mythe mystique, voir Ormazd et Ahriman, p. 74, note 3.
+[^433]: 88:4 Bahman signifie « bonne pensée, bon esprit », Vohu-Manô ; dans les Védas, on dit que la lune a été créée à partir de l'esprit (manas) de Puru<i>s</i>a. Pour une explication de ce vieux mythe mystique, voir Ormazd et Ahriman, p. 74, note 3.
 
-[^455]: 88:5 Voir Vend. XXI, 9 \[51\], note 4.
+[^434]: 88:5 Voir Vend. XXI, 9 \[51\], note 4.
 
-[^456]: 88:6 Commentaire Pahlavi sur ce Ya<i>s</i>t, I.
+[^435]: 88:6 Commentaire Pahlavi sur ce Ya<i>s</i>t, I.
 
-[^457]: 88:7 Vend. Introd. IV, 16, and Études Iraniennes, II, 187 seq.
+[^436]: 88:7 Vend. Introd. IV, 16, and Études Iraniennes, II, 187 seq.
 
-[^458]: 89:1 Siroza I, 12.
+[^437]: 89:1 Siroza I, 12.
 
-[^459]: 89:2 Voir Vend. XXI, 1, texte et note.
+[^438]: 89:2 Voir Vend. XXI, 1, texte et note.
 
-[^460]: 89:3 Quand la lune se laisse percevoir.
+[^439]: 89:3 Quand la lune se laisse percevoir.
 
-[^461]: 89:4 La traduction Pahlavi contient les détails intéressants suivants : « Pendant quinze jours, ils prennent les bonnes actions des créatures terrestres et les récompenses de la vertu des cieux ; pendant quinze jours, ils font passer les récompenses à la terre et les bonnes actions aux cieux. » La lune est donc une sorte de centre de compensation moral entre la terre et le ciel.
+[^440]: 89:4 La traduction Pahlavi contient les détails intéressants suivants : « Pendant quinze jours, ils prennent les bonnes actions des créatures terrestres et les récompenses de la vertu des cieux ; pendant quinze jours, ils font passer les récompenses à la terre et les bonnes actions aux cieux. » La lune est donc une sorte de centre de compensation moral entre la terre et le ciel.
 
-[^462]: 89:5 Selon les Parsis, ce déclin ne se réfère pas à la lune, mais aux constellations qui l'aident dans la lutte contre les planètes, qui sont censées appartenir au monde ahrimanien (voir Ormazd et Ahriman, §§ 223-226) : « tandis qu'elle croît — à savoir, la lune — elles décroissent, à savoir, celles qui sont opposées aux planètes, aux mauvaises étoiles ; par exemple, Haftôiring, Vana<i>n</i><i>d</i>, Ti<i>s</i>tar, Satvês ; . . . . tandis qu'elle décroît — à savoir, la lune — elles croissent, c'est-à-dire qu'elles sont fortes pour faire le bien. » Ainsi, la lune et les étoiles se soutiennent mutuellement dans la bataille contre Ahriman.
+[^441]: 89:5 Selon les Parsis, ce déclin ne se réfère pas à la lune, mais aux constellations qui l'aident dans la lutte contre les planètes, qui sont censées appartenir au monde ahrimanien (voir Ormazd et Ahriman, §§ 223-226) : « tandis qu'elle croît — à savoir, la lune — elles décroissent, à savoir, celles qui sont opposées aux planètes, aux mauvaises étoiles ; par exemple, Haftôiring, Vana<i>n</i><i>d</i>, Ti<i>s</i>tar, Satvês ; . . . . tandis qu'elle décroît — à savoir, la lune — elles croissent, c'est-à-dire qu'elles sont fortes pour faire le bien. » Ainsi, la lune et les étoiles se soutiennent mutuellement dans la bataille contre Ahriman.
 
-[^463]: 89:6 Ahura.
+[^442]: 89:6 Ahura.
 
-[^464]: 89:7 Cité de Yasna XLIV \[XLIII\],
+[^443]: 89:7 Cité de Yasna XLIV \[XLIII\],
 
-[^465]: 90:1 Dès que la lune apparaît.
+[^444]: 90:1 Dès que la lune apparaît.
 
-[^466]: 90:2 Cf. Surface. VI, 2.
+[^445]: 90:2 Cf. Surface. VI, 2.
 
-[^467]: 90:3 Mi<i>s</i>ti, signifiant sadâ, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09000.jpg) cf. mi-<i>s</i>â<i>k</i>i.
+[^446]: 90:3 Mi<i>s</i>ti, signifiant sadâ, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09000.jpg) cf. mi-<i>s</i>â<i>k</i>i.
 
-[^468]: 90:4 Zaremaëm, signifiant vasantamâse, 09001
+[^447]: 90:4 Zaremaëm, signifiant vasantamâse, 09001
 
-[^469]: 90:5 Nouvelle lune et pleine lune ne sont pas utilisées ici dans le sens français : le mois était divisé en six parties de cinq jours chacune (le fimt nordique ou semaine de cinq jours ; voir Vigfusson, Icelandic Dictionary, sv) : les cinq premiers jours (pan<i>k</i>ak fartûm) formaient la nouvelle lune ou a<i>n</i>tare-m<i>a</i><i>u</i>ngha, littéralement « la lune intérieure » ; les cinq jours suivants (pan<i>k</i>ak datîgar) formaient le perenô-m<i>a</i><i>u</i>ngha, littéralement « la pleine lune », qui correspondait en fait en partie à notre premier quartier ; les cinq jours suivants (pan<i>k</i>ak sitîgar), appartenant à la pleine lune, étaient appelés le Vîshaptatha ; Il n'est fait aucune mention des trois derniers pan<i>k</i>ak, qui forment la seconde moitié du mois. Il est possible qu'ils n'aient pas été mentionnés, car ils appartiennent à la période décroissante, lorsque les pouvoirs de la lune subissent une éclipse. Cf. Neriosengh à Yasna I, (23.)
+[^448]: 90:5 Nouvelle lune et pleine lune ne sont pas utilisées ici dans le sens français : le mois était divisé en six parties de cinq jours chacune (le fimt nordique ou semaine de cinq jours ; voir Vigfusson, Icelandic Dictionary, sv) : les cinq premiers jours (pan<i>k</i>ak fartûm) formaient la nouvelle lune ou a<i>n</i>tare-m<i>a</i><i>u</i>ngha, littéralement « la lune intérieure » ; les cinq jours suivants (pan<i>k</i>ak datîgar) formaient le perenô-m<i>a</i><i>u</i>ngha, littéralement « la pleine lune », qui correspondait en fait en partie à notre premier quartier ; les cinq jours suivants (pan<i>k</i>ak sitîgar), appartenant à la pleine lune, étaient appelés le Vîshaptatha ; Il n'est fait aucune mention des trois derniers pan<i>k</i>ak, qui forment la seconde moitié du mois. Il est possible qu'ils n'aient pas été mentionnés, car ils appartiennent à la période décroissante, lorsque les pouvoirs de la lune subissent une éclipse. Cf. Neriosengh à Yasna I, (23.)
 
-[^470]: 91:1 Ou posséder : donner peut être remplacé par posséder dans ce mot comme dans le suivant.
+[^449]: 91:1 Ou posséder : donner peut être remplacé par posséder dans ce mot comme dans le suivant.
 
-[^471]: 91 : 2 Vare<i>k</i>angha<i>n</i>tem : dânâk (Phl.) ; <i>g</i><i>ñ</i>ânitaram (Sansk.).
+[^450]: 91 : 2 Vare<i>k</i>angha<i>n</i>tem : dânâk (Phl.) ; <i>g</i><i>ñ</i>ânitaram (Sansk.).
 
-[^472]: 91:3 Kh<i>s</i>tâva<i>n</i>tem : lakshmîvantam (Sansk.).
+[^451]: 91:3 Kh<i>s</i>tâva<i>n</i>tem : lakshmîvantam (Sansk.).
 
-[^473]: 91:4 Yaokh<i>s</i>tiva<i>n</i>tem, 'réfléchir à ce qui est bon à faire' (vi<i>k</i>âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
+[^452]: 91:4 Yaokh<i>s</i>tiva<i>n</i>tem, 'réfléchir à ce qui est bon à faire' (vi<i>k</i>âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
 
-[^474]: 91:5 Le Zairimyâva<i>n</i>tem : haritavar<i>n</i>avantam, kila p<i>ri</i>thivi(m) sârdratarâm karoti (Sansk.).
+[^453]: 91:5 Le Zairimyâva<i>n</i>tem : haritavar<i>n</i>avantam, kila p<i>ri</i>thivi(m) sârdratarâm karoti (Sansk.).
 
-[^475]: 91:6 Verset 6: Le Seigneur Jésus-Christ est avec vous.
+[^454]: 91:6 Verset 6: Le Seigneur Jésus-Christ est avec vous.

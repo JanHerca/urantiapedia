@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: 'It is not possible to provide for one's self, through exertion, that benefit which is not ordained; (5) but a morsel (kazd) of that which is ordained comes on by means of exertion. 6. Yet the exertion, when it is fruitless in the worldly _existence_, through the sacred beings not _being_ with it [^1], still comes, afterwards, to _one's_ assistance in the spiritual _existence, and_ outweighs in the balance [^2].'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

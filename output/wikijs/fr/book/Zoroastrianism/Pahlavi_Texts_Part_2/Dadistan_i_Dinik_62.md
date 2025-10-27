@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. S'il _n'y_ a pas de fils de cet _homme_, mais qu'il a une fille ou une épouse, et si certaines _affaires_ de cet homme [^13] sont telles qu'une femme ne convient pas à la tutelle, il est nécessaire de nommer un tuteur familial ; s'il n'y a pas, de plus, d'épouse _ou_ de fille, il est nécessaire de nommer un fils adoptif. 7. Ceci – c'est-à-dire, quand il est nécessaire de nommer un tuteur familial _et_ qui est le plus apte, et quand il est nécessaire de nommer un fils adoptif _et_ lequel est le plus apte – est écrit dans les chapitres consacrés à la question [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

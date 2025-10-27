@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 16\. Of the small seas that which was most <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> wholesome [^18] was the sea Kyânsîh [^19], _such_ as is in Sagastân; _at_ first, noxious creatures, snakes, and lizards (vazagh) were not in _it_, _and_ the water was sweeter _than in_ any of the other seas; later (da<i>d</i>îgar) _it became_ salt; at the closest, on account of the stench, it is not possible to go so near as one league, so very great are the stench and saltness through the violence of the hot wind. 17. When the renovation _of the universe_ occurs it _will_ again become sweet [^20].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

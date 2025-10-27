@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « La plus grande bonne œuvre est la libéralité, et la seconde est la vérité et le mariage du plus proche parent [^1]. 5. La troisième est <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> _observer_ les fêtes saisonnières [^2], _et_ la quatrième est _célébrer_ tous les rites religieux [^3]. 6. La cinquième est le cérémonial des êtres sacrés et la fourniture d'un logement aux commerçants [^4]. 7. La sixième est le souhait de bonheur pour chacun. 8. _Et_ la septième est une bienveillance envers les bons [^5]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

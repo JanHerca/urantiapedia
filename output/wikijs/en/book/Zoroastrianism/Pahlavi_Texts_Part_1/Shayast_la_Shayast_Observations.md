@@ -66,6 +66,8 @@ M9 (modern), No. 9 of the same Collection.
 TD (written about A.D. 1530), a MS. of the Bundahi<i>s</i> belonging to Mobad Tehmuras Dinshawji Anklesaria at Bombay.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

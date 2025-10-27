@@ -63,6 +63,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 27\. L'enfer est au milieu de la terre ; là où l'esprit mauvais a percé la terre [^17] et s'est précipité sur elle, alors que toutes les possessions du monde se <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> transformaient en dualité, _et_ la persécution, la dispute et le mélange des hauts et des bas sont devenus manifestes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 12\. And more like unto the ancient sceptics (vimânakŏ) _have_ become the disciples, among whom disagreement _and_ enmity are produced, as is written in the same writing (khadû-gûn nâmakŏ) [^13]; _and_, owing to admonishing words, these _become_ enviousness and maliciousness unto the disciples, _and_ trouble _and_ disagreement less becoming among you and more contentious about you. 13. And at the time _in_ which a great stipend existed, _they_ contended with him through whose greatness _and_ abundance of stipend their conflict was caused, one with the other, through envy; and now, too, they [always](errata_htm.html) squabble _about_ his deficient stipend, by which they will tempt them, on account of _its_ inadequacy, for the sake of a way for preserving life, as was shown by my metaphor in the other chapter [^14]. 14. When those who, through need of _employment in the rites_ of religion, or the recitations [^15] <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> which are its wisdom, would at once produce enmity, and the friends of religion, are for each _of_ two sides, _it_ is important to look to the procuring of forgiveness, kind regards, and the progress of the elect (pasandakânŏ) in the duty of the faithful.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

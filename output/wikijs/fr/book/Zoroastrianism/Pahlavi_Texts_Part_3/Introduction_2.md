@@ -87,6 +87,8 @@ D'après ce compte rendu de tous les manuscrits du Sikand-gûmânîk Vi<i>g</i>�
 
 Le <i>S</i>ikand-gûmânîk Vi<i>g</i>âr n'a pas été jusqu'à présent traduit dans aucune langue européenne, mais une édition de ses textes en pâzand et en pahlavi a été préparée par Dastûr Hôshangji il y a environ quinze ans, et des dispositions ont été prises pour la publication de ces textes, avec la version sanskrite, à une date prochaine.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

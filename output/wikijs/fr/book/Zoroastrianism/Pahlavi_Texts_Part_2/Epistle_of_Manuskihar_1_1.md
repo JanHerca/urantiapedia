@@ -81,6 +81,8 @@ Copie de l'épître du prêtre Mânû<i>s</i><i>k</i>îhar [^1], fils de Yûdân
 
 5\. En raison de la renommée universelle (aspôharakânîh) des bons _gens_ de Khvanîras [^10], qui est la vôtre, en raison de la faveur qui fait votre bonheur complet, ardemment et joyeusement désirée, _et_ constamment ainsi, quand il y a des occasions de vous voir - bien que cela soit supposé être l'avantage de votre propre religion, de la joie de l'âme, de la courtoisie _et_ de la constance appropriée - puisque ma volonté réside parmi vous, vous faites connaître _et_ commandez mes actions, par la volonté des êtres sacrés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

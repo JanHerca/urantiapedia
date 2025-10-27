@@ -47,6 +47,8 @@ Dk. VIII, Cap. XXXV III, 33, se refiere al pasaje que contenía las declaracione
 
 El Dk. VIII, Cap. XLIII, 33, se refiere al pasaje que contenía las declaraciones mencionadas en los Sls. XII, 10, XIII, 30: «En las veintidós [^5] secciones del Sakâ<i>d</i>ûm se muestran cosas graves sobre quienes no hacen ofrendas a los seres sagrados». Y, además, «mientras esas diecinueve (estrofas del Yas. XLVI) sean nuestra ofrenda, que según el Sakâ<i>d</i>ûm debería ser mía, la fuerza y ​​el poder de los seres sagrados se harán más considerables, y el destructor más perecedero».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

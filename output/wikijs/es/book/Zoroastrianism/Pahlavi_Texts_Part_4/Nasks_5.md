@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 6\. Uno [^4] es _que_, a causa de aquel que dio el Legal, y es también el protector de un maestro sacerdotal que está entregado al Hadha-mãthric, y al Gâthic, a través de los cuales surge la pureza de las buenas creaciones, _uno_ es más firmemente capaz de engrandecerlas y desarrollarlas. . . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

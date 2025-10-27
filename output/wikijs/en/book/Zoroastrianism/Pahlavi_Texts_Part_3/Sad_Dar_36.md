@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 8\. And _as to_ that person, also, who performs the Bareshnûm _for_ mankind [^7], it is necessary that he be a man, a friend of the soul, a truthful speaker, _and_ an abstainer, because through chastity and modesty (mastûrî) he becomes employed. 9. If complaint of any perfidy in him is publicly diffused [^8], in that disgrace (malâmat) it is necessary that the high-priests <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> _should_ dislocate his joints one by one, and it is requisite that they give him as food to the dogs. 10. So that by this action they _may_ make a man observe more chastely and continently, that this result (‘hâʓil) of sin _may_ not occur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

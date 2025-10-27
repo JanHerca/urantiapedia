@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 17\. The retribution is renunciation _of sin_ in procuring pardon; and the renunciation in his turning from equally grievous disobedience [^16], every single <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> time that _he turns_ from similar viciousness, and as an atonement for the sin, is to arrange, or order, four (arbâ) marriages of the next of kin to his own wife, lawfully, authorisedly, and most hopeful of offspring. 18. Through fear of the grievous sinfulness which _I have_ recounted, _in case of_ a child of those of the good religion who has no giver of shame [^17], and to keep lawfully in subjection a child who is under control, he who is unnurtured is lawfully given nurture, _and_ is nominated for lawfully bringing up. 19. And to turn a man _or_ woman of bad disposition, by eulogy and entreaty, or [^18] _by_ distress (fangîm) and fear and other representations, from that bad disposition _and_ vicious habit; to order next-of-kin marriage [^19] and all the religious rites (hamâk dînô), the Dvâ<i>z</i>dah-hômâst [^20], the ceremony _in honour_ of the waters [^21], and the _presentation of_ holy-water to the fires [^22]; to remove the burden of offspring [^23] which is distressing those of the good religion, and to force them from the infidelity acquired, which is a very atoning atonement for such sins, are extremely proper proceedings (a<i>v</i>îr-farhakhtîkîh).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Lorsque les instructions de ces trois personnes sont mises en pratique, l'exécution des commandements de l'être sacré est accomplie. 6. Surtout les instructions des grands prêtres, car leur satisfaction est liée à la satisfaction de l'être sacré ; et les grands prêtres possèdent une telle dignité (martabat) en présence de l'être sacré, le bon et le propice, qu'ils sont tout à fait capables de pardonner n'importe quel péché insignifiant de l'humanité [^7], et Hôrmazd, le bon et le propice, pardonne rapidement [^8] ce péché pour le grand prêtre. 7. <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> Par conséquent, l'exécution des commandements des grands prêtres devient [^9] un devoir pour chacun ; et l'accomplissement de cette maxime est _meilleur_ que celui de tout un ensemble de maximes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

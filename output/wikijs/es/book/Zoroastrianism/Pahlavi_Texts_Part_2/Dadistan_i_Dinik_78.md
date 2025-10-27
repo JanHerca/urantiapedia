@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 17\. La retribución es la renuncia _al pecado_ al procurar el perdón; y la renuncia al apartarse de una desobediencia igualmente grave [^16], cada vez <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> que se aparta de una maldad similar, y como expiación por el pecado, es concertar u ordenar cuatro matrimonios (arbâ) del pariente más cercano con su propia esposa, legalmente, autorizadamente y con la mayor esperanza de descendencia. 18. Por temor a la grave pecaminosidad que _he_ relatado, _en el caso_ de un hijo de aquellos de la buena religión que no tiene quien le dé vergüenza [^17], y para mantener legítimamente en sujeción a un hijo que está bajo control, a quien no ha sido criado se le da legítimamente crianza, _y_ se le nombra para que sea criado legítimamente. 19. Y para convertir a un hombre _o_ mujer de mala disposición, por elogio y súplica, o [^18] _por_ angustia (fangîm) y miedo y otras representaciones, de esa mala disposición _y_ hábito vicioso; para ordenar el matrimonio de los parientes más cercanos [^19] y todos los ritos religiosos (hamâk dînô), el Dvâ<i>z</i>dah-hômâst [^20], la ceremonia _en honor_ de las aguas [^21], y la _presentación de_ agua bendita a los fuegos [^22]; para eliminar la carga de la descendencia [^23] que está angustiando a los de la buena religión, y para obligarlos a abandonar la infidelidad adquirida, que es una expiación muy expiatoria por tales pecados, son procedimientos extremadamente adecuados (a<i>v</i>îr-farhakhtîkîh).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

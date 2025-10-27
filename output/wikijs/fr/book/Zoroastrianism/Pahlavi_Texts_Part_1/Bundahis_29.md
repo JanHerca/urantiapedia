@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 10\. Quant à Kangde<i>z</i>, _il est_ en direction de l'est, à plusieurs lieues du lit (var) [^39] de l'<span id="p120"><sup><small>[ p. 120 ]</small></sup></span> océan aux formes larges, vers ce côté. 11. La plaine de Pê<i>s</i>yânsaî se trouve dans le Kâvulistân, car il est dit que le plateau le plus remarquable (bâlist) du Kâvulistân est là où se trouve Pê<i>s</i>yânsaî ; il y fait plus chaud, sur les élévations plus élevées il n'y a pas de chaleur [^40]. 12. Aîrân-vê<i>g</i> est en direction d'Âtarô-pâtakân [^41]. 13. Le pays de S<i>a</i>ukavastân est sur la route du Tûrkistân au <i>K</i>înistân, en direction du nord. 14. \[L'enceinte\] [^42] formée par Yim est _au_ milieu de Pârs, dans le Sruvâ [^43]; ainsi, dit-on, _ce_ que Yim a formé (Yim-kar<i>d</i>) est au-dessous du mont Yimakân [^44]. 15. Ka<i>s</i>mîr est dans l'Hindûstân.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

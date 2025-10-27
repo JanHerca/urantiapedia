@@ -64,6 +64,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 33\. The worthiness of the disciple, which is owing to himself, is the preparation; _and_ the priest is worthy, of whose performance in the religion _you have_ spoken [^31]; therefore, supreme worthiness is unattainable by either of them; so it is more significant when the disciple is the preparer, _and_ the priest, _as_ director, becomes a demander of good effect; both strive for good progress, _and_ through many kinds of participation they may be worthy. 34. And both of them, praising together—whereby the participation is brought _to_ an end—may authorisedly seize [^32]; but that worthiness of theirs is owing to the duty and the praise therein—this _one_ in preparing, _and_ this _one_ in superintendence (a<i>v</i>ar-ma<i>d</i>îh) of the recital—_and_ the after discourse and petitioning, _and_ other good done.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

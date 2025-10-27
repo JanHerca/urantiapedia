@@ -130,6 +130,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -156,22 +158,22 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1202]: 265:1 Lectura nimarezi<i>s</i>ta; cf. vîmarezi<i>s</i>tem, Yt. I, 2.
+[^1140]: 265:1 Lectura nimarezi<i>s</i>ta; cf. vîmarezi<i>s</i>tem, Yt. I, 2.
 
-[^1203]: 265:2 La morada celestial, el Garôthmân.
+[^1141]: 265:2 La morada celestial, el Garôthmân.
 
-[^1204]: 265:3 El resto como en el § 1.
+[^1142]: 265:3 El resto como en el § 1.
 
-[^1205]: 266:1 Cf. Yt. XIV, 29.
+[^1143]: 266:1 Cf. Yt. XIV, 29.
 
-[^1206]: 266:2 Cf. Yt. XIV, 31.
+[^1144]: 266:2 Cf. Yt. XIV, 31.
 
-[^1207]: 267:1 Cf. Yt. XIV, 33.
+[^1145]: 267:1 Cf. Yt. XIV, 33.
 
-[^1208]: 267:2 La mujer de Zaratustra.
+[^1146]: 267:2 La mujer de Zaratustra.
 
-[^1209]: 267:3 Bangha; el llamado Bang de Zoroastro (Vend. XV, 14 \[44\]; traducción filípica). Su virtud se puede deducir de las leyendas de Gû<i>s</i>tâsp y Ardâ Vîrâf, quienes, según se dice, fueron transportados en alma a los cielos y recibieron la revelación de los misterios superiores al beber de una copa preparada por el profeta (Zardu<i>s</i>t Nâmah), o de una copa de Gû<i>s</i>tâsp-bang (Ardâ Vîrâf, II, 29).
+[^1147]: 267:3 Bangha; el llamado Bang de Zoroastro (Vend. XV, 14 \[44\]; Phl. tr.). Cuál debió haber sido su virtud se puede deducir de las leyendas de Gû<i>s</i>tâsp y Ardâ Vîrâf, de quienes se dice que fueron transportados en alma a los cielos y que se les revelaron los misterios superiores p. 268 al beber de una copa preparada por el profeta (Zardu<i>s</i>t Nâmah), o de una copa de Gû<i>s</i>tâsp-bang (Ardâ Vîrâf, II, 29).
 
-[^1210]: 268:1 Los sacerdotes itinerantes, los antepasados ​​de los derviches modernos.
+[^1148]: 268:1 Los sacerdotes itinerantes, los antepasados ​​de los derviches modernos.
 
-[^1211]: 268:2 O mejor, hacer sacrificio; cf. Yt. XIV, 39.
+[^1149]: 268:2 O mejor, hacer sacrificio; cf. Yt. XIV, 39.

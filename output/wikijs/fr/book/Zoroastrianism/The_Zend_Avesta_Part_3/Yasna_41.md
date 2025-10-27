@@ -40,6 +40,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Que nous soyons appelés [^1208], ô Ahura Mazda, adorateurs de tes louanges et orateurs de Mãthra ! Ainsi le souhaitons-nous, et puissions-nous y parvenir [^1209]. Quelle récompense digne de nos mérites as-tu réservée aux âmes, ô Ahura Mazda ! (6) accorde-nous-en pour cette vie et pour celle de l'esprit [^1210]. De cette récompense (accorde-nous toi-même cet avantage), afin que nous puissions être sous ta protection et celle de la Justice pour toujours. Nous sacrifions à ce brave Yasna, le Yasna Haptanghâiti [^1211], le saint, le chef rituel !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

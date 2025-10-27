@@ -39,6 +39,8 @@ _Casa de Nask_.
 
 1\. Una sección de las siguientes veinte contiene detalles sobre el rito de una ordalía realizada, también los modos de preservación o incriminación de la persona en ella, y todo lo que se refiera al mismo tema.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,8 @@ _Bakŏ Nask_.
 
 11\. The excellence _of_ righteousness is perfect.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

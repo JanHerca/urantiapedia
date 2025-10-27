@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘The greatest good work is liberality, and the second is truth and next-of-kin marriage [^1]. 5. The third is <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> _keeping_ the season festivals [^2], _and_ the fourth is _celebrating_ all the religious rites [^3]. 6. The fifth is the ceremonial of the sacred beings, and the providing of lodging for traders [^4]. 7. The sixth is the wishing of happiness for every one. 8. _And_ the seventh is a kind regard for the good [^5].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

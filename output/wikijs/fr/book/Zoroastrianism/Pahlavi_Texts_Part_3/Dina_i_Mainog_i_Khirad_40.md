@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 29\. « Et quant à ce que tu demandes concernant les existences spirituelles et terrestres, l'existence terrestre est, en fin de compte, mort et disparition, (30) et l'existence spirituelle, en fin de compte, <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> celle de l'âme du juste est immortelle, immortelle et tranquille, pleine de gloire et de joie, pour toujours et à jamais, avec les anges, les archanges et les esprits gardiens [^11] des justes. 31. Et le pont [^12], la destruction [^13] et le châtiment des méchants dans l'enfer sont pour toujours et à jamais [^14]. » 32. Et l'âme méchante, en dehors du châtiment, contemple l'existence, et même l'apparence [^15], avec les démons et les démons, tout comme, dans l'existence mondaine, un homme en bonne santé le fait avec celui qui est très gravement malade.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

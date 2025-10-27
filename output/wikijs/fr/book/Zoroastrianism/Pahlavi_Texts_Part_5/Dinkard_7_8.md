@@ -85,6 +85,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 61\. Telles sont les caractéristiques des deux siècles qui sont le neuvième et le dixième ; l'exactitude de ce qui devait arriver a continué et cela s'est produit, et les deux sont déclarées quant à l'exactitude qui est affirmée sur la base des preuves quant à ce qui arrivera.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

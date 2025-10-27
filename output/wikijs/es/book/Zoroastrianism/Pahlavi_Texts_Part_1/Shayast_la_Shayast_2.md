@@ -127,6 +127,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 120\. Una nuez [^155], por su modo de conexión, está completamente contaminada, y el lavado tanto de su cáscara como de su hueso (pôst va mazg) es igual que el de la madera. 121. Una granada también es de la misma naturaleza que una nuez. 122. En cuanto al dátil, cuando su tallo [^156] no está conectado, el dátil está contaminado y el tallo y el hueso (âstak) están limpios; el lavado del dátil es igual que el del maíz; y cuando se toca el tallo, cuando el tallo, el hueso y el dátil están conectados, todo está contaminado; en cuanto al dátil cuando no está conectado con el tallo, y se toca en la <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> tallo, el dátil está limpio, y el lavado del hueso es igual que el de la madera. 123. La granada, el cidro, el membrillo, la manzana, la pera y otras frutas, cuando están en fructificación y la cáscara (pazâ<i>v</i>i<i>s</i>nŏ) es perceptible en ellas, cuando la materia muerta cae sobre ellas _no_ hay contaminación de ellas; y cuando la cáscara (pazâmi<i>s</i>nŏ) no es perceptible en ellas, su lavado es igual que el del maíz; y la cáscara siempre está con el cidro [^157]. 124. _Para_ la carne, la mantequilla, la leche, el queso y las conservas (rî<i>k</i>âr) no hay lavado [^158].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

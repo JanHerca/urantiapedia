@@ -36,6 +36,8 @@ P. 161, note 4, au lieu de « Dâd-sparam » lire « Zâd-sparam » ; également
 
 P. 199, note 6, pour « Shâpûr I », lire « Shâpûr II ».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

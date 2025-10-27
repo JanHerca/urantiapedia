@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 1\. Al morir [^1], gracias al principio vegetal (<i>k</i>îharak) que provenía de cada miembro del buey, cincuenta y cinco especies de grano [^2] y doce especies de plantas medicinales brotaron de la tierra, y su esplendor y fuerza fueron la <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> energía seminal (tôkhmîh) del buey. 2. Entregada a la estación lunar [^3], esa semilla fue completamente purificada por la luz de la luna, completamente preparada en todos los sentidos, y produjo vida en un cuerpo. 3. De allí surgieron dos bueyes, un macho y una hembra; y, posteriormente, doscientas ochenta y dos especies de cada tipo [^4] se manifestaron sobre la tierra. 4. La morada (mânîst) de las aves está en el aire, y los peces están en medio del agua.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. Afterwards _one is_ to lie down; and every time that _one_ acts _in_ the manner that I have mentioned, and wears the _sacred thread-_girdle on the waist—while _he is_ equally sharing the whole of the good works which they are performing in all the world during that night, _and he is_ of similar merit [^3]—every single breath that he inhales and exhales is a good work of a weight of three dirhams. 3. _And_ when he turns from side to side he _should, in_ like manner, recite one Ashem-vohû [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

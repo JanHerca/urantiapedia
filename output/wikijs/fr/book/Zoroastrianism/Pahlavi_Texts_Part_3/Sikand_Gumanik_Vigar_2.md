@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 16\. De l'eau et du feu, de par leur nature même, aucun mal n'est manifeste ; (17) mais le froid de leur fraternisation [^5] se mêle à l'humidité de l'eau, et s'oppose à la chaleur du feu ; (18) et la sécheresse de leur fraternisation se mêle à la chaleur du feu, et s'oppose à l'humidité de l'eau.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

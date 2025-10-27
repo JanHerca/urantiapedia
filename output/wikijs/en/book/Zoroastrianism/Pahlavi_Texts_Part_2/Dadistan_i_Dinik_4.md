@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. As through wisdom is created the world of righteousness, through wisdom is subjugated every evil, and through wisdom is perfected every good; and the best wisdom is the pure religion whose progress is that achieved by the upholders of religion, the greatness of the best men of the righteous, in whose destiny _it is_, such as that which _was_ shown about Gâyômar<i>d</i>, Zaratû<i>s</i>t, and Sôshâns [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

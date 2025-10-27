@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: todo pensamiento, palabra y obra cuyo resultado sea alegría, felicidad y recompensa loable —cuando se obtiene un resultado feliz y la exuberancia (afzûnŏ) de pensamiento, palabra y obra es importante— es bien pensado, bien dicho y bien hecho [^2]. 3. Y para aquel cuyo deseo de buenas obras resulta en definitiva alegría y exaltación del alma —que son su obtención de la recompensa del espacio constantemente benéfico [^3], el inmortal e ilimitado, que nunca perecerá—, no hay medida de la multitud de buenas obras. 4. Porque todo aquel que realiza muchas, y se involucra en aún más, se apropia más plenamente del resultado y es más digno; pero no se obtiene para completar aquello que es una medida definida, por lo tanto, no obtiene aún más, y no es necesario que deba hacerlo; y además no se obtiene ni siquiera para completar un límite de ilimitación [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

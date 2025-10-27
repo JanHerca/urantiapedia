@@ -84,6 +84,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 23\. En la actualidad, como los Nasks no han permanecido perfectos entre nosotros, no es posible solemnizarlos, porque Alejandro el Rumano [^2] se llevó un borrador, en caracteres rumanos, de los veintiún Nasks del Avesta que trataban sobre las estrellas y la medicina, y quemó repetidamente los libros del Avesta, de modo que el alma de Alejandro arde en el infierno; y después de su calamidad, cada uno de los sumos sacerdotes, en concilio juntos, preservó algo del Avesta en su mente, y el conjunto ha revelado los libros del Yasna (ya<i>s</i>t), Vîsperad, Vendîdâd, Fravash, Khûrdah Avesta, Darûn, Âfrîngân, <i>K</i>îdah Va<i>g</i>arkardan y Bundahi<i>s</i>, que escribieron correctamente; en cuanto al resto (tatammah) que no escribieron, fue por esta razón que no lo preservaron correctamente en sus mentes. Y la expectativa, surgida de entre ellos en la corte de Ormazd y los arcángeles, es que Var<i>g</i>âvand, Peshôtan y Hushêdar [^3] llegarán con premura para la manifestación de la religión, y la bondad <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> de la religión volverá a cobrar esplendor desde una nueva perspectiva; los buenos y los que profesan la buena religión se volverán alegres y felices, y los malos y perversos se extinguirán y desaparecerán. Amén.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

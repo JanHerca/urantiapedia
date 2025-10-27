@@ -265,6 +265,8 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 '\[Dale\] a ese hombre brillo y gloria, . . . dale la brillante, feliz y dichosa morada de los Santos [^528].'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -291,152 +293,152 @@ Por su resplandor y gloria le ofreceré un sacrificio digno de ser escuchado. . 
 
 ## Notas al pie
 
-[^476]: 92:1 Una cuarta estrella sobre todas, guardiana y precursora, estableció a Sirio (Plutarco, de Iside et Osiride, § 47; cf. infra, § 48).
+[^455]: 92:1 Una cuarta estrella sobre todas, guardiana y precursora, estableció a Sirio (Plutarco, de Iside et Osiride, § 47; cf. infra, § 48).
 
-[^477]: 92:2 Siroza I, 13.
+[^456]: 92:2 Siroza I, 13.
 
-[^478]: 93:1 Dudoso.
+[^457]: 93:1 Dudoso.
 
-[^479]: 93:2 La lluvia.
+[^458]: 93:2 La lluvia.
 
-[^480]: 93:3 En su disfraz de caballo; § 18.
+[^459]: 93:3 En su disfraz de caballo; § 18.
 
-[^481]: 93:4 Véase Vend., págs. 3, 5, nota 2.
+[^460]: 93:4 Véase Vend., págs. 3, 5, nota 2.
 
-[^482]: 93:5 Nombre; véase Estudios iraníes, II, 124.
+[^461]: 93:5 Nãma; véase Estudios Iraníes, II, 124.
 
-[^483]: 93:6 Cf. [pág. 47](../Yasts_3#p47).
+[^462]: 93:6 Cf. [pág. 47](../Yasts_3#p47).
 
-[^484]: 94:1 Poderosamente.
+[^463]: 94:1 Poderosamente.
 
-[^485]: 94:2 O, «por quien la belleza de las aguas viene de Bereza, y su semilla de Apãm Napâ<i>t</i>». Bereza, el alto, el alto, un epíteto de Apãm Napâ<i>t</i>, se convirtió en uno de sus nombres (Ized Bôr<i>g</i>; cf. § 34); para Apãm Napâ<i>t</i>, véase arriba, [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
+[^464]: 94:2 O, 'por quien la belleza de las aguas viene de Bereza, y su semilla de Apãm Napâ<i>t</i>'. Bereza, el alto, el alto, un epíteto de Apãm Napâ<i>t</i>, se convirtió en uno de sus nombres (Ized Bôr<i>g</i>; cf. § 34); para Apãm Napâ<i>t</i>, véase arriba, [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
 
-[^486]: 94:3 Paiti<i>s</i>mare<i>n</i>ti; cf. Yt. V, 123.
+[^465]: 94:3 Paiti<i>s</i>mare<i>n</i>ti; cf. Yt. V, 123.
 
-[^487]: 94:4 O mejor, 'en su mirada'.
+[^466]: 94:4 O mejor, 'en su mirada'.
 
-[^488]: 94:5 Véase arriba, [p. 54](../Yasts_5#p54), nota [6](../Yasts_5#fn279).
+[^467]: 94:5 Véase arriba, [p. 54](../Yasts_5#p54), nota [6](../Yasts_5#fn279).
 
-[^489]: 95:1 Mainivas<i>a</i><i>u</i> = mainyu-as<i>a</i><i>u</i> (que significa pun mînôî <i>g</i>îvâkîh, svargasthânam, Yasna LVII, 27 \[LVI, 11, 3\]).
+[^468]: 95:1 Mainivas<i>a</i><i>u</i> = mainyu-as<i>a</i><i>u</i> (que significa pun mînôî <i>g</i>îvâkîh, svargasthânam, Yasna LVII, 27 \[LVI, 11, 3\]).
 
-[^490]: 95:2 Erekhsha khshviwi-ishu<i>s</i>, en Pahlavi Ari<i>s</i> Shîvâtîr (véase Études Iraniennes, II, 220), o «Ari<i>s</i> de la flecha veloz», era el mejor arquero del ejército iraní. Cuando Mino<i>k</i>ihr y Afrâsyab decidieron hacer la paz y fijar la frontera entre Irán y Turán, se estipuló que Ari<i>s</i> ascendería al monte Damavand y desde allí dispararía una flecha hacia el este; y que el lugar donde cayera la flecha constituiría la frontera entre los dos reinos. Aris entonces ascendió la montaña y disparó hacia el este una flecha, cuyo vuelo continuó desde el amanecer hasta el mediodía, cuando cayó en las orillas del Gihún (el Oxus) (Mirkhond, Historia de los primeros reyes de Persia, trad. de David Shea, pág. 175; cf. Noeldeke, Zeitschrift der Deutschen Morgenländischen Gesellschaft, 1881, pág. 445).
+[^469]: 95:2 Erekhsha khshviwi-ishu<i>s</i>, en Pahlavi Ari<i>s</i> Shîvâtîr (véase Études Iraniennes, II, 220), o «Ari<i>s</i> de la flecha veloz», era el mejor arquero del ejército iraní. Cuando Mino<i>k</i>ihr y Afrâsyab decidieron hacer la paz y fijar la frontera entre Irán y Turán, «se estipuló que Ari<i>s</i> ascendería al monte Damâvand y desde allí dispararía una flecha hacia el este; y que el lugar donde cayera la flecha constituiría la frontera entre los dos reinos». Aris ascendió entonces a la montaña y disparó hacia el este una flecha, cuyo vuelo continuó desde el amanecer hasta el mediodía, cuando cayó en las orillas del <i>G</i>ihûn (el Oxus)' (Mirkhond, Historia de los primeros reyes de Persia, trad. de David Shea, pág. 175; cf. Noeldeke, Zeitschrift der Deutschen Morgenländischen Gesellschaft, 1881, pág. 445.)
 
-[^491]: 95:3 El monte Khshaotha parece ser el mismo que el monte Damâvand (véase la nota anterior); el monte Hvânvân podría ser el mismo que el monte Bâmîân, del que nace el río Balkh, pues, según Tabari (trad. de Noeldeke, ll), la flecha de Aris se detuvo en el río Balkh (un afluente del Oxus). Sin embargo, es posible que los límites dados se refieran al curso del Tistrya; cf. § 38, texto y nota.
+[^470]: 95:3 El monte Khshaotha parece ser el mismo que el monte Damâvand (véase la nota anterior); el monte Hvânvân podría ser el mismo que el monte Bâmîân, del que nace el río Balkh, pues, según Tabari (trad. de Noeldeke, ll), la flecha de Aris se detuvo en el río Balkh (un afluente del Oxus). Sin embargo, es posible que los límites dados se refieran al curso del Tistrya; cf. § 38, texto y nota.
 
-[^492]: 95:4 Dudoso. Se alude a estrellas fugaces. El Sr. Geiger comenta que cada año cae un enjambre de estrellas fugaces justo cuando se supone que Tistrya, en el clima europeo, es más activa, el 10 de agosto.
+[^471]: 95:4 Dudoso. Se alude a estrellas fugaces. El Sr. Geiger comenta que cada año cae un enjambre de estrellas fugaces justo cuando se supone que Tistrya, en el clima europeo, es más activa, el 10 de agosto.
 
-[^493]: 96:1 Véase arriba, [p. 66](../Yasts_5#p66), nota [3](../Yasts_5#fn323).
+[^472]: 96:1 Véase arriba, [p. 66](../Yasts_5#p66), nota [3](../Yasts_5#fn323).
 
-[^494]: 96:2 Se dice que Satavaêsa es el líder de las estrellas occidentales (léase estrellas del sur, Bund. II, 7), y tiene en su protección los mares del cuadrante sur (ibid. XIII, 12); el mar de Satavaêsa es el golfo Pérsico.
+[^473]: 96:2 Se dice que Satavaêsa es el líder de las estrellas occidentales (léase estrellas del sur, Bund. II, 7), y tiene bajo su protección los mares del cuadrante sur (ibid. XIII, 12); el mar de Satavaêsa es el golfo Pérsico.
 
-[^495]: 96:3 Esto parece ser una alusión a la marea en el mar Arábigo (el mar Vouru-Kasha) y en el golfo de Omán, que, al ser un mar del sur, está bajo el control de Satavaêsa (cf. nota precedente y Vend. V, 18, nota 1).
+[^474]: 96:3 Esto parece ser una alusión a la marea en el mar Arábigo (el mar Vouru-Kasha) y en el golfo de Omán, que, al ser un mar del sur, está bajo el control de Satavaêsa (cf. nota precedente y Vend. V, 18, nota 1).
 
-[^496]: 96:4 En el momento adecuado del año cuando se espera lluvia.
+[^475]: 96:4 En el momento adecuado del año cuando se espera lluvia.
 
-[^497]: 97:1 Cf. §§ 23-24 y Yt. X, 54-55, 74.
+[^476]: 97:1 Cf. §§ 23-24 y Yt. X, 54-55, 74.
 
-[^498]: 97:2 Como Ti<i>s</i>trya es el productor de la lluvia: Ti<i>s</i>tryênyas<i>k</i>a = Tistaratârakasya v<i>ri</i>sh<i>t</i>im; (Khorshê<i>d</i> Nyâyi<i>s</i> 8, traducción sánscrita).
+[^477]: 97:2 Como Ti<i>s</i>trya es el productor de la lluvia: Ti<i>s</i>tryênyas<i>k</i>a = Tistaratârakasya v<i>ri</i>sh<i>t</i>im; (Khorshê<i>d</i> Nyâyi<i>s</i> 8, tr. sánscrito).
 
-[^499]: 97:3 Ti<i>s</i>trya; cf. [p. 105](#p105), nota [^513].
+[^478]: 97:3 Ti<i>s</i>trya; cf. [p. 105](#p105), nota 513.
 
-[^500]: 97:4 Haptôiri<i>n</i>ga (Osa Mayor) es la líder de las estrellas del norte (Bund. II, 7). Se le confía la puerta y el paso del infierno, para contener a los nueve, noventa, novecientos, nueve mil y nueve miríadas de demonios, demonios, hadas (Pairikas) y hechiceros (Yâtus) que se oponen a la esfera celestial y las constelaciones (Minokhired XLIX, 15; trad. de Vest).
+[^479]: 97:4 Haptôiri<i>n</i>ga (Osa Mayor) es la líder de las estrellas del norte (Bund. II, 7). Se le confía la puerta y el paso del infierno, para contener a los nueve, noventa, novecientos, nueve mil y nueve miríadas de demonios, demonios, hadas (Pairikas) y hechiceros (Yâtus) que se oponen a la esfera celestial y las constelaciones (Minokhired XLIX, 15; trad. de Vest).
 
-[^501]: 97:5 Vana<i>n</i><i>t</i> es el líder de las estrellas en el sur (léase oeste; Bund. II, 7). Cf. Yt. XX.
+[^480]: 97:5 Vana<i>n</i><i>t</i> es el líder de las estrellas en el sur (léase oeste; Bund. II, 7). Cf. Yt. XX.
 
-[^502]: 97:6 Para obtener... Esta invocación se realiza con el nombre mismo de Vana<i>n</i><i>t</i>, que significa «quien hiere, quien vence». El oficio peculiar de Vana<i>n</i><i>t</i> es proteger los pasos y las puertas del Monte Albôrz, alrededor del cual giran el sol, la luna y las estrellas, e impedir que Paris y Daêvas corten y destruyan el camino del sol (Minokhired XLIX, 12).
+[^481]: 97:6 Para obtener... Esta invocación se realiza con el nombre mismo de Vana<i>n</i><i>t</i>, que significa «quien hiere, quien vence». El oficio peculiar de Vana<i>n</i><i>t</i> es guardar los pasos y las puertas del Monte Albôrz, alrededor del cual giran el sol, la luna y las estrellas, e impedir que los Paris y los Daêvas corten y destruyan el camino del sol (Minokhired XLIX, 12).
 
-[^503]: 97:7 'Sacrifico a Ti<i>s</i>tar para (=obtener) la salud de la vista' (Khorshê<i>d</i> Nyâyi<i>s</i> 8, Pahl. tr.).
+[^482]: 97:7 'Sacrifico a Ti<i>s</i>tar para (=obtener) la salud de la vista' (Khorshê<i>d</i> Nyâyi<i>s</i> 8, Pahl. tr.).
 
-[^504]: 98:1 La edad de quince años es la edad paradisíaca en el Avesta (Yasna IX, 5 \[18\]).
+[^483]: 98:1 La edad de quince años es la edad paradisíaca en el Avesta (Yasna IX, 5 \[18\]).
 
-[^505]: 98:2 Gayô maratan. Pero la traducción es dudosa; posiblemente 'como lo es un hombre de primera clase'.
+[^484]: 98:2 Gayô maratan. Pero la traducción es dudosa; posiblemente 'como un hombre de primera clase'.
 
-[^506]: 98:3 Dudoso; cf. erezi, Yt. XIV, 29.
+[^485]: 98:3 Dudoso; cf. erezi, Yt. XIV, 29.
 
-[^507]: 98:4 Cf. Yt. V, 8.
+[^486]: 98:4 Cf. Yt. V, 8.
 
-[^508]: 98:5 Cf. Vend. XIX, 37 (123).
+[^487]: 98:5 Cf. Vend. XIX, 37 (123).
 
-[^509]: 99:1 «Ti<i>s</i>star se transformó en tres formas: la de un hombre, la de un caballo y la de un toro... como dicen los astrólogos que cada constelación tiene tres formas» (Bund. VII, 4; tr. West). Ti<i>s</i>trya promete a sus adoradores hijos (§ 15), bueyes (§ 17) o caballos (§ 19), según aparezca en forma de hombre (§ 13), de toro (§ 16) o de caballo (§ 18).
+[^488]: 99:1 «Ti<i>s</i>star se transformó en tres formas: la de un hombre, la de un caballo y la de un toro... como dicen los astrólogos que cada constelación tiene tres formas» (Bund. VII, 4; tr. West). Ti<i>s</i>trya promete a sus adoradores hijos (§ 15), bueyes (§ 17) o caballos (§ 19), según aparezca en forma de hombre (§ 13), de toro (§ 16) o de caballo (§ 18).
 
-[^510]: 99:2 Una milla (Bundahi<i>s</i> XXVI, 1; tr. West, nota 1).
+[^489]: 99:2 Una milla (Bundahi<i>s</i> XXVI, 1; tr. West, nota 1).
 
-[^511]: 100:1 Cf. § 10 y Yt. X, 54 seq., 74.
+[^490]: 100:1 Cf. § 10 y Yt. X, 54 seq., 74.
 
-[^512]: 100:2 Cf. Vend. Introd. IV, 27.
+[^491]: 100:2 Cf. Vend. Introd. IV, 27.
 
-[^513]: 100:3 §§ 26-27 = §§ 20-21.
+[^492]: 100:3 §§ 26-27 = §§ 20-21.
 
-[^514]: 101:1 Adhavô; posiblemente 'los arroyos'; cf. Yt. V, 1, nota 2. Un mes del antiguo calendario persa, que se suponía correspondía a septiembre-octubre, se llamaba âdukani, que, según esa hipótesis, podría significar '(el mes) que hace brotar los arroyos'.
+[^493]: 101:1 Adhavô; posiblemente 'los arroyos'; cf. Yt. V, 1, nota 2. Un mes del antiguo calendario persa, que se suponía correspondía a septiembre-octubre, se llamaba âdukani, que, según esa hipótesis, podría significar '(el mes) que hace brotar los arroyos'.
 
-[^515]: 101:2 Del cual el representante es el trigo (Bundahi<i>s</i> XXIV, 19.).
+[^494]: 101:2 Del cual el representante es el trigo (Bundahi<i>s</i> XXIV, 19.).
 
-[^516]: 101:3 De la cual la representante es la arveja de verano (ibid. 21).
+[^495]: 101:3 De la cual la representante es la arveja de verano (ibid. 21).
 
-[^517]: 101:4 Cf. §18.
+[^496]: 101:4 Cf. §18.
 
-[^518]: 101:5 «El monte Aûsindôm es aquel que, siendo de rubí, de la sustancia del cielo, se encuentra en medio del vasto océano (el mar Vouru-Kasha)» (Bund. XII, 6; tr. Oeste). El monte Aûsindôm recibe sus aguas a través de un canal dorado desde la altura de Hukairya (cf. Yt. V, 3); desde allí, una parte fluye hacia el océano para la purificación del mar, y otra parte riega con su humedad toda la tierra, y todas las creaciones de Aûharmazd adquieren salud gracias a él, y disipa la sequedad de la atmósfera» (ibid. XIII, 5).
+[^497]: 101:5 «El monte Aûsindôm es aquel que, siendo de rubí, de la sustancia del cielo, se encuentra en medio del vasto océano (el mar Vouru-Kasha)» (Bund. XII, 6; tr. Oeste). El monte Aûsindôm recibe sus aguas a través de un canal dorado desde la altura de Hukairya (cf. Yt. V, 3); desde allí, una parte fluye hacia el océano para la purificación del mar, y otra parte riega con humedad toda esta tierra, y todas las creaciones de Aûharmazd adquieren salud gracias a él, y disipa la sequedad de la atmósfera» (ibid. XIII, 5).
 
-[^519]: 102:1 Dudoso.
+[^498]: 102:1 Dudoso.
 
-[^520]: 102:2 Haoma abre el camino a las aguas del cielo, como elemento principal del sacrificio (cf. § 24). Por la misma razón, los Bundahi<i>s</i> incluyen a Vohu-Manô, «Buena Mente», entre los colaboradores de Ti<i>s</i>trya.
+[^499]: 102:2 Haoma abre el camino a las aguas del cielo, como elemento principal del sacrificio (cf. § 24). Por la misma razón, los Bundahi<i>s</i> incluyen a Vohu-Manô, «Buena Mente», entre los colaboradores de Ti<i>s</i>trya.
 
-[^521]: 102:3 Véase [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
+[^500]: 102:3 Véase [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
 
-[^522]: 102:4 O mejor, 'sentado en las aguas'; véase Yt. XIX, 56 seq. y Yt. XIII, 65.
+[^501]: 102:4 O mejor, 'sentado en las aguas'; véase Yt. XIX, 56 seq. y Yt. XIII, 65.
 
-[^523]: 102:5 Los Fravashis participan activamente en la lucha mundial; cf. Yt. XIII, 43. 'Cooperadores de Tî<i>s</i>tar fueron Vohûman y el ángel Hôm, con la asistencia del ángel Bûr<i>g</i> (el mismo que Apãm Napâ<i>t</i>; véase [p. 94](#p94), nota [^464]) y los espíritus guardianes justos en disposición ordenada' (Bundahi<i>s</i> VII, 3, tr. West).
+[^502]: 102:5 Los Fravashis están activos en la lucha mundial; cf. Yt. XIII, 43. 'Los cooperadores de Tî<i>s</i>tar fueron Vohûman y el ángel Hôm, con la asistencia del ángel Bûr<i>g</i> (el mismo que Apãm Napâ<i>t</i>; ver [p. 94](#p94), nota 464) y los espíritus guardianes justos en disposición ordenada' (Bundahi<i>s</i> VII, 3, tr. West).
 
-[^524]: 103:1 Dudoso.
+[^503]: 103:1 Dudoso.
 
-[^525]: 103:2 Los jefes del estado.
+[^504]: 103:2 Los jefes del estado.
 
-[^526]: 103:3 Para buena o mala cosecha.
+[^505]: 103:3 Para buena o mala cosecha.
 
-[^527]: 103:4 § 37 = § 6.
+[^506]: 103:4 § 37 = § 6.
 
-[^528]: 104:1 Véase Yt. XVII.
+[^507]: 104:1 Véase Yt. XVII.
 
-[^529]: 104:2 Véase arriba, [p. 11](../Sirozahs_1#p11), nota [5](../Sirozahs_1#fn77).
+[^508]: 104:2 Véase arriba, [p. 11](../Sirozahs_1#p11), nota [5](../Sirozahs_1#fn77).
 
-[^530]: 104:3 Dudoso. El monte <i>H</i><i>v</i>anva<i>n</i><i>t</i>, al estar situado en el mar Vouru-Kasha (como se desprende de Ti<i>s</i>trya viajando hacia ese mar, § 38), parece ser el mismo que el monte Aûsindôm (§ 32).
+[^509]: 104:3 Dudoso. El monte <i>H</i><i>v</i>anva<i>n</i><i>t</i>, al estar situado en el mar Vouru-Kasha (como se desprende de Ti<i>s</i>trya viajando hacia ese mar, § 38), parece ser el mismo que el monte Aûsindôm (§ 32).
 
-[^531]: 104:4 Cf. arriba, § 8.
+[^510]: 104:4 Cf. arriba, § 8.
 
-[^532]: 105:1 Sim<i>a</i><i>u</i>, que significa sahmgûn, bhayamkara (Yasna IX, 38 \[93\]).
+[^511]: 105:1 Sim<i>a</i><i>u</i>, que significa sahmgûn, bhayamkara (Yasna IX, 38 \[93\]).
 
-[^533]: 105:2 ? Vazdris.
+[^512]: 105:2 ? Vazdris.
 
-[^534]: 105:3 En los Bundahi<i>s</i> es especialmente la líder de las estrellas orientales; pero el Minokhired la llama la primera estrella (XLIX, 5; cf. arriba, § 12).
+[^513]: 105:3 En los Bundahi<i>s</i> es especialmente la líder de las estrellas orientales; pero el Minokhired la llama la primera estrella (XLIX, 5; cf. arriba, § 12).
 
-[^535]: 105:4 Véase arriba, [p. 38](../Yasts_2#p38), nota [3](../Yasts_2#fn199).
+[^514]: 105:4 Véase arriba, [p. 38](../Yasts_2#p38), nota [3](../Yasts_2#fn199).
 
-[^536]: 106:1 Véase Yt. X, 82, nota.
+[^515]: 106:1 Véase Yt. X, 82, nota.
 
-[^537]: 106:2 Los de Ardvi Sara Anâhita; cf. Yt. V, 4, 101.
+[^516]: 106:2 Los de Ardvi Sara Anâhita; cf. Yt. V, 4, 101.
 
-[^538]: 106:3 Cf. Yt. V, 15.
+[^517]: 106:3 Cf. Yt. V, 15.
 
-[^539]: 106:4 Cf. § 43.
+[^518]: 106:4 Cf. § 43.
 
-[^540]: 106:5 Véase Yt. XIII, 10, nota; cf. Vispêrad I, 1, y Bundahi<i>s</i> XXIV, tr. West, nota 1.
+[^519]: 106:5 Véase Yt. XIII, 10, nota; cf. Vispêrad I, 1, y Bundahi<i>s</i> XXIV, tr. West, nota 1.
 
-[^541]: 107:1 Cf. Yt. X, 1.
+[^520]: 107:1 Cf. Yt. X, 1.
 
-[^542]: 107:2 Año malo, es decir, esterilidad, sequía. Darío, hijo de Histaspes, también desaprueba Du<i>z</i>yâirya en una de sus inscripciones: «Que Ahura Mazda proteja a este país del ejército hostil, de la esterilidad (du<i>s</i>iyâra), de la mentira (deslealtad): que nunca entre en este país el extranjero, ni el ejército hostil, ni la esterilidad, ni la mentira» (Persépolis, H, 15).
+[^521]: 107:2 Año malo, es decir, esterilidad, sequía. Darío, hijo de Histaspes, también desaprueba Du<i>z</i>yâirya en una de sus inscripciones: «Que Ahura Mazda proteja a este país del ejército hostil, de la esterilidad (du<i>s</i>iyâra), de la mentira (deslealtad): que nunca entre en este país el extranjero, ni el ejército hostil, ni la esterilidad, ni la mentira» (Persépolis, H, 15).
 
-[^543]: 107:3 Personas que se oponen a la lluvia y les gusta el buen tiempo (?).
+[^522]: 107:3 Personas que se oponen a la lluvia y les gusta el buen tiempo (?).
 
-[^544]: 107:4 Buen año.
+[^523]: 107:4 Buen año.
 
-[^545]: 108:1 Lectura ava\[-derenãm\]; cf. Venta XVIII, 18 \[45\].
+[^524]: 108:1 Lectura ava\[-derenãm\]; cf. Vender. XVIII, 18\[45\].
 
-[^546]: 108:2 Kapasti es propiamente colocynthis o manzana amarga:
+[^525]: 108:2 Kapasti es propiamente colocynthis o manzana amarga:
   «Tanto la serpiente como la hierba venenosa y engañosa matarán.»
-  Él matará.' (Eclesiastés 4:24, 25.)
+  Matará.' (Ecl. IV, 24, 25.)
 
-[^547]: 108:3 § 57-61 = Yt. XIV, 49-53; cf. Yt. V, 89 seq.
+[^526]: 108:3 § 57-61 = Yt. XIV, 49-53; cf. Yt. V, 89 y siguientes.
 
-[^548]: 109:1 ? Ashaovo.
+[^527]: 109:1 ? Ashaovo.
 
-[^549]: 109:2 Cf. Yt. I, 33.
+[^528]: 109:2 Cf. Yt. I, 33.

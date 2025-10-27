@@ -45,6 +45,8 @@ _Sû<i>d</i>kar Nask_.
 
 8\. C'est la perfection parfaite qui est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

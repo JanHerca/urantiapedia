@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. De los vivos, en el equilibrio justo e imparcial (a<i>k</i>afsi<i>s</i>nŏ), el _hombre_ de hábitos correctos (dâ<i>d</i>ŏ), cuyas buenas obras son mayores, cuando _le_ ha sucedido el pecado, sufre un castigo temporal (vidanâîk) y se purifica eternamente por las buenas obras; y el de hábitos incorrectos, de mucho pecado y pocas buenas obras, alcanza un goce temporal por esas buenas obras, _pero_ por el pecado que perciben _en_ ​​él sufre castigo hasta la resurrección.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

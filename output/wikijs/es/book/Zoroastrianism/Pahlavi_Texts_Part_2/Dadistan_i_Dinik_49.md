@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 10\. Y, sin embargo, en cuanto a lo que constituye un beneficio adecuado, y también aparte del consumo de maíz, de cualquier cosa comestible para el mantenimiento de la vida, de medicinas y remedios para la salud de la vida, y de todo lo que sea para la preservación de la vida, es permisible que compren y vendan caro [^9].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

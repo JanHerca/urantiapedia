@@ -38,6 +38,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1\. Ofrezco ahora este Zaothra aquí con santidad [^1342], junto con el Haoma y la carne, y el Hadhânaêpata elevado con sagrada regularidad hacia ti, oh Ahuriano, para la propiciación de Ahura Mazda, de los Generosos Inmortales, de Sraosha (Obediencia) el bendito, y del Fuego de Ahura Mazda, el sublime señor del ritual. 2. Y. VII, 5-19. 3. Y. XXII, XXVIII, 24-27.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

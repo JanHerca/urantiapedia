@@ -44,6 +44,8 @@ In Sls. X, 22, XII, 15, it is said that ‘in the Dâmdâ<i>d</i> _it_ is reveal
 
 In Sls. XII, 5, it is said that ‘in the Dâmdâ<i>d</i> _it_ is revealed that when they sever the consciousness of men it goes out to the nearest fire, then out to the stars, then out _to_ the moon, and then out _to_ the sun; <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> and _it_ is needful that the nearest fire, that to which it _has_ cone out, _should_ become stronger.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

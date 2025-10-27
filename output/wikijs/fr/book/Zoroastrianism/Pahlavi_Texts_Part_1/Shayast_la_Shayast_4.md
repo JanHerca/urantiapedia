@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 13\. La nuit, lorsqu'ils se couchent, ils porteront la chemise et la ceinture, car elles protègent mieux le corps et sont bénéfiques pour l'âme. 14. Lorsqu'ils se couchent avec la chemise et la ceinture, avant de dormir, ils prononceront un Ashem-vohû [^19], et à chaque vayô (vayô), il y aura une bonne œuvre de trois Srôshô-<i>k</i>aranâms [^20] ; et si, pendant ce sommeil, la mort survient, leur renonciation au péché est accomplie [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

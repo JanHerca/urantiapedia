@@ -36,6 +36,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 1\. A Hâsar [^1] on the ground is a Parasang of one thousand steps of the two feet. 2. A Parasang [^2] is a measure as much as a far-seeing man may look out, see a beast _of burden, and_ make known that _it_ is black or white. 3. And the measure of a man is eight medium spans [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

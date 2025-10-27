@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Ensuite, on doit s'allonger ; et chaque fois qu'on agit de la manière que j'ai mentionnée, et qu'on porte la ceinture sacrée à la taille — tout en partageant équitablement l'ensemble des bonnes œuvres qu'ils accomplissent dans le monde entier pendant cette nuit, et qu'on a un mérite similaire [^3] — chaque souffle qu'on inspire et expire est une bonne œuvre d'un poids de trois dirhams. 3. _Et_ lorsqu'on se tourne d'un côté à l'autre, on doit, de la même manière, réciter un Ashem-vohû [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

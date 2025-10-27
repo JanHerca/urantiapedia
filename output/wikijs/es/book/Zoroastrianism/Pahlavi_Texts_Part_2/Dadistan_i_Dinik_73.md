@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: el hedor material llega tan lejos y en la misma proporción que la suciedad y la fetidez en las existencias pestilentes, y el hedor espiritual llega a donde hay aparatos (sâmânŏ) para adquirir hedor, un lugar miserable; debido a la separación (gar<i>d</i>îh) del cielo, dondequiera que se dirige hacia el cielo, no alcanza a las existencias tranquilas [^1]. 3. La información sobre el hedor es manifiesta en el creador omnisciente, cuya omnisciencia está entre las luminarias, _pero_ ese creador persistente _y_ los ángeles y arcángeles primigenios están _libres_ de su ataque; y _su_ información sobre el engaño que se _practica_ sobre ese trabajador _para_ el infierno y la mente _aliada_ con los demonios [^2] es cierta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

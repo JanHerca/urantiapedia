@@ -47,6 +47,8 @@ _Bakŏ Nask_.
 
 10\. L’excellence _qui est parfaite_ est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -59,6 +59,8 @@ La (fechado en 1575 d. C.) Persa, en escritura avéstica, alternando con gu<i>g<
 
 Lp (sin fecha) Persa, No. 2506 de los manuscritos persas de la misma biblioteca.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

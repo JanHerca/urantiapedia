@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. This is a grave sin, _and_ it is requisite to he careful that they do not commit _it_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

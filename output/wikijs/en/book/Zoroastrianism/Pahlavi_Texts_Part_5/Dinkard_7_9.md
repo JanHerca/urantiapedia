@@ -60,6 +60,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 23\. When that man becomes thirty years old, he confers with the archangels, the good rulers _and_ good providers; _on_ the morrow, in the daylight of the day, _it is_ moreover manifest, when the embodied existence is _thus_ undistressed—without a Kai and without a Karap (that is, not blind _and_ not deaf to the affairs of the sacred beings), and is to be appropriated (that is, has not made its own self apart _from_ the affairs of the sacred beings), and is produced full of life—that it has become extending, and is again great _in_ various places in Aîrân-vê<i>g</i> where the good Dâîtî _is_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

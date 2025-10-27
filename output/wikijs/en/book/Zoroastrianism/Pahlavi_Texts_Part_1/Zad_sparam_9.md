@@ -54,6 +54,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 24\. This is the fifth contest, as to animals.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

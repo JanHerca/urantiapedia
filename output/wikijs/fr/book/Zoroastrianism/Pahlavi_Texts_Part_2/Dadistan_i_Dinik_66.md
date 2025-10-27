@@ -65,6 +65,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 33\. La dignité du disciple, qui lui est due, est sa préparation ; et le prêtre est digne, celui dont vous avez parlé de l'accomplissement dans la religion [^31] ; par conséquent, la dignité suprême est inaccessible à l'un ou l'autre ; elle est donc plus significative lorsque le disciple est le préparateur, et que le prêtre, en tant que directeur, devient un demandeur de bons effets ; tous deux s'efforcent de progresser, et par de nombreuses formes de participation, ils peuvent en être dignes. 34. Et tous deux, louant ensemble – ce qui met fin à la participation – peuvent légitimement saisir [^32] ; mais cette dignité est due au devoir et à la louange qui y sont associés – l'un dans la préparation, l'autre dans la surveillance (a<i>v</i>ar-ma<i>d</i>îh) de la récitation – et du discours et des requêtes qui suivent, et des autres bonnes actions.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

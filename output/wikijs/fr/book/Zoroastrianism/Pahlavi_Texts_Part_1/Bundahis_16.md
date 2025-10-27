@@ -49,6 +49,8 @@ le nourrit, car tout le lait provient de la semence des mâles, et le sang est c
 
 7\. Quant aux poissons [^2], il est dit qu'au moment de l'excitation, ils vont en avant et reviennent dans l'eau, deux à deux, sur la longueur d'un mille (hâsar), qui est un quart de lieue (parasang), dans l'eau courante ; dans ce va-et-vient, ils frottent alors leurs corps l'un contre l'autre, et une sorte de sueur tombe entre eux, et tous _deux_ deviennent enceintes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

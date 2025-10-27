@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 17\. La rétribution est le renoncement _au péché_ en obtenant le pardon ; et le renoncement à son détournement d'une désobéissance tout aussi grave [^16], chaque fois <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> qu'il se détourne d'une méchanceté similaire, et en guise d'expiation pour le péché, il doit arranger ou ordonner quatre mariages (arbâ) du plus proche parent à sa propre femme, légalement, autorisément, et avec le plus grand espoir d'une descendance. 18. Par crainte du grave péché que j'ai raconté, dans le cas d'un enfant de ceux de la bonne religion qui n'a pas de donneur de honte [^17], et pour maintenir légitimement dans la soumission un enfant qui est sous contrôle, celui qui n'est pas nourri reçoit légitimement une éducation, et est désigné pour une éducation légitime. 19. Et détourner un homme ou une femme de mauvaise disposition, par l'éloge et la supplication, ou [^18] par la détresse (fangîm) et la peur et d'autres représentations, de cette mauvaise disposition et de cette habitude vicieuse ; ordonner le mariage du plus proche parent [^19] et tous les rites religieux (hamâk dînô), le Dvâ<i>z</i>dah-hômâst [^20], la cérémonie _en l'honneur_ des eaux [^21], et la _présentation_ de l'eau bénite aux feux [^22] ; enlever le fardeau de la progéniture [^23] qui afflige ceux de la bonne religion, et les forcer à se détourner de l'infidélité acquise, ce qui est une expiation très expiatoire pour de tels péchés, sont des procédures extrêmement appropriées (a<i>v</i>îr-farhakhtîkîh).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

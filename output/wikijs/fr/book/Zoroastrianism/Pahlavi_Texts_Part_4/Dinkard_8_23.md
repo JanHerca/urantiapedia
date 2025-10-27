@@ -51,6 +51,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 19\. De l'instruction que le berger donne à son chien, par des rappels (pavan ayâ<i>d</i>îhâ), pour diriger un mouton, lorsque le chien du berger ayant entendu des notes de musique (srû<i>d</i>ŏ gâsânŏ), l'instruction se fait sous forme de paroles ; et, lorsque les notes ne sont pas entendues, même par un coup (zatam), le moyen de cet instructeur étant un coup. 20. De la particularité du chien du berger quant à son emploi (rô<i>g</i>kâr) aux périodes d'excitation menstruelle satisfaisante, célébrant les fêtes saisonnières, et d'autres bonnes œuvres importantes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

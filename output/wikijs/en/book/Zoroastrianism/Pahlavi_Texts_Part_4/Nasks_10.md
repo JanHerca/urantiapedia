@@ -82,6 +82,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 23\. At present, since the Nasks _have_ not remained perfect in the midst _of us_, it is not possible to solemnize _them_, because Alexander the Rûman [^2] carried off a rough draft, in Rûman characters, of those of the twenty-one Nasks of the Avesta which were _about_ the stars and medicine, and repeatedly burnt the books of the Avesta, so that the soul of Alexander burns in hell; and after his calamity, every one of the high-priests, in council together, preserved something of the Avesta in _his_ mind, _and_ the aggregate _has_ disclosed the books of the Yasna (ya<i>s</i>t), Vîsperad, Vendîdâd, Fravash, Khûrdah Avesta, Darûn, Âfrîngân, <i>K</i>îdah Va<i>g</i>arkardan, and Bundahi<i>s</i>, _which_ they wrote correctly; _as to_ the remainder (tatammah) which they did not write, it was on this account, that they did not preserve _it_ correctly in _their_ minds. And the expectation, descended from the midst _of them_ in the court of Ormazd and the archangels, is thus, that Var<i>g</i>âvand, Peshôtan, and Hushêdar [^3] _will_ arrive in haste _for_ the manifestation of the religion, and the goodness <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> of the religion again assumes splendour from a new head; the good and those of the good religion become cheerful and happy, and the bad and wicked become extinct and disappearing. Amen.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

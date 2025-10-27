@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 13\. Des biens que _quelqu'un_, les emportant, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> _doit_ rapporter à _son_ propriétaire ; tels que ceux que les habitants de la frontière _peuvent_ prendre_ aux étrangers, ceux que le juge _peuvent_ prendre_ aux voleurs, et la part qu'il peut prendre à _quiconque_ ne s'en prend pas [^6] aux voleurs. 14. Et des protecteurs _et_ des défenseurs d'un voleur, ainsi que de nombreuses autres décisions judiciaires concernant le vol.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

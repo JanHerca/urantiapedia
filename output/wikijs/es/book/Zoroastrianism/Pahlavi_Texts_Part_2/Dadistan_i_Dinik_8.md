@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Cualquier buena obra, sea cual sea, es claramente una buena obra tanto para quienes la justifican como para quien la realiza; también, en lo que respecta a su alma, la buena obra corresponde tanto a quien la realizó, pero el alma de quien la realiza con sus propias manos es más hermosa y fuerte que la de quien la ordenó. 7. Y su similitud es como cuando un hombre usa un traje hermoso y decoroso, que es suyo, y lo usa sobre su cuerpo, y es más hermoso, más espléndido y más decoroso que otro hombre que usa un traje, de manera similar, _que_ es suyo por robo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

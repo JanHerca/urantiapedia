@@ -38,6 +38,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 5\. Of the four brothers _of_ Zaratû<i>s</i>t, the names of the two before Zaratû<i>s</i>t _were_ Ratû<i>s</i>tar and Rangû<i>s</i>tar, and of the two after _him_ No<i>d</i>arîgâ and Nîvê<i>d</i>i<i>s</i> [^5]. 6. The middle position of Zaratû<i>s</i>t is for the reason that he is so produced at that time, as an inter-medium of the early narrators and the later narrators, that three millenniums came before him and three after. 7. So that he _has_ prescribed to the creatures in what manner he would teach the ancients as to what _had_ occurred, and _in_ what manner _it_ is also to be done as regards what _will_ occur; as is stated in the Gâthas [^6] thus: ‘Both those I ask of thee, <i>O</i> Aûha<i>r</i>ma<i>z</i><i>d</i>! even whatever _has_ happened till now, _and_ whatever shall happen henceforth?’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

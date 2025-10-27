@@ -74,6 +74,8 @@ E. W. WEST.
 
 April, 1885.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

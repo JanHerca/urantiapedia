@@ -40,6 +40,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 5\. It is perfect _is_ the excellence of righteousness; it is perfect excellence _that is_ righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

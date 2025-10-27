@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Et la liberté des célestes du danger du mal dans le ciel est semblable à leur liberté de toute perturbation, et la venue des _bons anges_ est semblable aux bonnes œuvres des célestes eux-mêmes pourvues. 5. Cette prospérité (freh-hastŏ) et ce bien-être de l'_existence_ spirituelle sont _plus_ grands que ceux du monde, autant que ce qui est illimité et éternel est plus grand que ce qui est limité et démoniaque (<i>s</i>êdânîkŏ).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

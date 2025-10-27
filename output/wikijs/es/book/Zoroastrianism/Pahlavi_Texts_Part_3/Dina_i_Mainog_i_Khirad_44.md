@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 24\. «_Se declara que Aûha<i>r</i>ma<i>z</i><i>d</i> creó Aîrân-vê<i>g</i>ô mejor que otros lugares y distritos [^16]. <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> 25. Y su bondad es esta, que la vida de la gente es de trescientos años [^17], (26) y la de los bueyes y las ovejas de ciento cincuenta años. 27. Su dolor y enfermedad, también, son pequeños; (28) no inventan (drû<i>g</i>ênd) [^18] mentiras, (29) no hacen lamentaciones ni llantos, (30) y el dominio del demonio de la avaricia (A z) en sus cuerpos es pequeño. 31. Cuando comen un pan entre diez hombres, se sacian. 32. Y cada cuarenta años nace un hijo de una mujer y un hombre [^19]. 33. Su ley, también, es la bondad, y su religión, la fe primitiva [^20]; (34) y cuando mueren son justos [^21]. 35. Su jefe espiritual (ratû), asimismo, es Gôpaîtŏ [^22], y su señor y rey ​​es Srôsh [^23].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

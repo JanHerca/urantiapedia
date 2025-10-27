@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. Quant à celui qui accomplit le Bareshnûm pour l'humanité [^7], il est nécessaire qu'il soit un homme, un ami de l'âme, un orateur véridique et un abstinent, car par la chasteté et la modestie (mastûrî) il devient employé. 9. Si une plainte d'une perfidie quelconque en lui est diffusée publiquement [^8], dans cette disgrâce (malâmat), il est nécessaire que les grands prêtres <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> disloquent ses articulations une par une, et il est requis qu'ils le donnent en pâture aux chiens. 10. Afin que par cette action ils puissent amener un homme à observer plus chastement et plus continemment, afin que ce résultat ('hâʓil) du péché ne se produise pas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

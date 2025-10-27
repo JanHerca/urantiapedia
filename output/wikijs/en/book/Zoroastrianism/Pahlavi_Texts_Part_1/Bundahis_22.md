@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 leagues (parasang). of Lake <i>K</i>ê<i>k</i>ast. 9. Lake (or, rather, Gulf) Satavês [^14] is that _already_ written _about_, between the wide-formed ocean _and_ the Pûtîk. 10. It is said that in Kamîndân is an abyss (zafar), from which everything they throw in always comes _back_, and it _will_ not receive it unless alive (<i>g</i>ânvar); when they throw a living creature into it, it carries _it_ down; men say that a fountain from hell is in it. 11. Lake Urvis is on Hûgar the lofty [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

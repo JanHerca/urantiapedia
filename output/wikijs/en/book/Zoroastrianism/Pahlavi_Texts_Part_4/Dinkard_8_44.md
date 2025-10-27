@@ -92,6 +92,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 82\. It is righteousness _that_ is perfect excellence. It is the excellence _of_ righteousness _that_ is perfect.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

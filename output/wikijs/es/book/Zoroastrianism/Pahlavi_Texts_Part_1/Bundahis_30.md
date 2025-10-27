@@ -63,6 +63,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 33\. Esto también dice que esta tierra _se convierte_ en una llanura sin hielo [^44] y sin pendientes [^45]; incluso la montaña [^46], <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> cuya cima es el soporte del puente <i>K</i>învar_, la mantienen abajo, _y_ no existirá.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

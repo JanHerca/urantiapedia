@@ -29,7 +29,7 @@ dateCreated: 2025-3-16T22:11:4Z
   </table>
 </figure>
 
-<span id="pvii">[<sup><small>p. vii</small></sup>]</span>
+<span id="pvii"><sup><small>[ p. vii ]</small></sup></span>
 
 
 ## INTRODUCTION.
@@ -70,7 +70,7 @@ III (17-55). | Outrages | [39](../4#p39)
 (40-43). | Homicide involontaire | [44](../4#p44)
 (44-45). | Contrats | [45](../4#p45)
 (46, 49 \[à\]-55). | Faux serments | [45](../4#p45)
-(47-49). | Éloge du bien-être physique | [46](../4#p46) <span id="pviii">[<sup><small>p. viii</small></sup>]</span>
+(47-49). | Éloge du bien-être physique | [46](../4#p46) <span id="pviii"><sup><small>[ p. viii ]</small></sup></span>
 FARGARD V |   | [48](../4#p48)
 I (1-7). | Si un homme souille le feu ou la terre involontairement ou inconsciemment, ce n'est pas un péché | [49](../5#p49)
 II (8-9). | L'eau et le feu ne tuent pas | [50](../5#p50)
@@ -99,7 +99,7 @@ VIII (45-49). | Purification de la terre, des Dakhmas. Les Dakhmas et les Daêva
 IX (60-72). | Traitement d'une femme ayant accouché d'un enfant mort-né | [89](../7#p89)
 X (73-75). | Purification des vases souillés par les morts | [91](../7#p91)
 XI (76). | Purification de la vache | [92](../7#p92)
-XII (77). | Libations impures | [92](../7#p92) <span id="pix">[<sup><small>p. ix</small></sup>]</span>
+XII (77). | Libations impures | [92](../7#p92) <span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 FARGARD VIII |   | [93](../7#p93)
 I (1-3). | Purification de la maison où un homme est décédé | [93](../7#p93)
 II (4-13). | Funérailles | [94](../8#p94)
@@ -134,7 +134,7 @@ IX (49-50). | Éloge du chien | [163](../13#p163)
 X (50-54). | Le chien d'eau | [163](../13#p163)
 Fargard XIV | L'Expiation pour le meurtre d'un chien d'eau | [165](../13#p165)
 FARGARD XV. |   | [172](../14#p172)
-I (1-8). | Sur les cinq péchés dont la commission fait du pécheur un Peshôtanu | [172](../14#p172) <span id="px">[<sup><small>p. x</small></sup>]</span>
+I (1-8). | Sur les cinq péchés dont la commission fait du pécheur un Peshôtanu | [172](../14#p172) <span id="px"><sup><small>[ p. x ]</small></sup></span>
 II (9-19). | Des unions illégales et des tentatives d'avortement | [174](../15#p174)
 III (20-45). | Sur le traitement d'une chienne avec des petits | [175](../15#p175)
 IV (46-51). | De l'élevage canin | [180](../15#p180)
@@ -162,6 +162,8 @@ III c (12-17). | Invocation conjointe adressée aux eaux et à la lumière des �
 IV (18-21). | Sorts contre la maladie | [229](../21#p229)
 FARGARD XXII. | ANGRA MAINYU CRÉA 99 999 MALADIES : AHURA MAZDA DEMANDE LA GUÉRISON À LA SAINTE PAROLE ET À AIRYAMAN | [229](../21#p229)
 &nbsp; | Translittération des alphabets orientaux adoptés pour la traduction des livres sacrés de l'Orient | 237
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

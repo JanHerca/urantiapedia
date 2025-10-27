@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Si, à ce moment-là, ils n'accomplissent pas la consécration, ils _devront_ prélever un peu de Hôm pour cela [^3], et réciter [^4] un Yathâ-ahû-vairyô [^5], et y mettre un peu d'eau, et en faire du jus de Hôm, et le donner à l'enfant, et ensuite [^6] du lait.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

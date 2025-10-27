@@ -114,6 +114,8 @@ Sanctity | [101](../Extracts#p101)
 Prayer for Safety | [102](../Extracts#p102)
 NOTES | [103](../Notes#p103)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -208,6 +208,8 @@ Bendigo el sacrificio y la oración, la fuerza y ​​el vigor del santo y fuer
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -234,94 +236,94 @@ Bendigo el sacrificio y la oración, la fuerza y ​​el vigor del santo y fuer
 
 ## Notas al pie
 
-[^764]: 159:1 Cf. Vend. Introd. IV, 31.
+[^731]: 159:1 Cf. Vend. Introd. IV, 31. 
 
-[^765]: 159:2 Ibíd. III, 3.
+[^732]: 159:2 Ibid. III, 3. 
 
-[^766]: 159:3 Véase un relato del Hâdhôkht Nosk en el Dînkart (Occidente, Textos Pahlavi, I, 225, nota); cf. Introd. a Yt. XXI.
+[^733]: 159:3 Véase un relato del Hâdhôkht Nosk en el Dînkart (Occidente, Textos Pahlavi, I, 225, nota); cf. Introd. a Yt. XXI. 
 
-[^767]: 159:4 Cf. § 18, nota.
+[^734]: 159:4 Cf. § 18, nota. 
 
-[^768]: 160:1 'Ha sido enseñado al mundo, a saber, la Ley' (Pahl. Comm.).
+[^735]: 160:1 'Se ha enseñado al mundo, a saber, la Ley' (Pahl. Comm.). 
 
-[^769]: 160:2 Dudoso.
+[^736]: 160:2 Dudoso. 
 
-[^770]: 160:3 Derezvá: Pahl. hûzvân; cf. Yt. Yo, 28.
+[^737]: 160:3 Derezvã: Pahl. hûzvân; cf. Yt. I, 28. 
 
-[^771]: 160:4 Es lo mismo con él, es igual de poderoso.
+[^738]: 160:4 Es lo mismo con él, es tan poderoso. 
 
-[^772]: 160:5 Dudoso (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm).
+[^739]: 160:5 Dudoso (vârethrem dâre<i>s</i>tâ . . . . zak drû<i>g</i> vartî dâ<i>s</i>târtûm). 
 
-[^773]: 160:6 Véase [p. 23](../Yasts_1#p23).
+[^740]: 160:6 Véase [p. 23](../Yasts_1#p23). 
 
-[^774]: 160:7 O, 'es el mejor de todos los castigadores de demonios en la batalla'.
+[^741]: 160:7 O, 'es el mejor de todos los castigadores de demonios en la batalla'. 
 
-[^775]: 160:8 Este capítulo (Pahl. Comm.).
+[^742]: 160:8 Este capítulo (Pahl. Comm.). 
 
-[^776]: 161:1 Se usan, como es habitual, palabras diferentes para expresar el mismo conflicto, según se refiera a los fieles o a los idólatras.
+[^743]: 161:1 Se usan diferentes palabras, como es habitual, para expresar el mismo conflicto, según se refiera a los fieles o a los idólatras. 
 
-[^777]: 161:2 Aipi-ayanãm: señora râs.
+[^744]: 161:2 Aipi-ayanãm: señora râs. 
 
-[^778]: 161:3 Arethyanãm: dâdistân (de aretha, que significa dînâ, dâdistân).
+[^745]: 161:3 Arethyanãm: dâdistân (de aretha, que significa dînâ, dâdistân). 
 
-[^779]: 161:4 Gadha: n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh); el Pahlavi tiene ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), un Saka, una guadaña.
+[^746]: 161:4 Gadha: n<i>ri</i><i>s</i>a<i>m</i>sa (Neriosengh); el Pahlavi tiene ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/16100.jpg), un Saka, una Guadaña. 
 
-[^780]: 161:5 La alabanza de Sraosha.
+[^747]: 161:5 La alabanza de Sraosha. 
 
-[^781]: 161:6 Keresas<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; ese nombre se aplicó en épocas posteriores a los cristianos, como si kersa fuera el nombre de Cristo; cf. Bahman Ya<i>s</i>t II, 19; III, 2.
+[^748]: 161:6 Keresas<i>k</i>a: krasîâk; cf. Neriosengh ad Yasna IX, 24 \[75\]; ese nombre se aplicó en los períodos posteriores a los cristianos, como si keresa fuera el nombre de Cristo; cf. Bahman Ya<i>s</i>t II, 19; III, 2. 
 
-[^782]: 161:7 Dudoso.
+[^749]: 161:7 Dudoso. 
 
-[^783]: 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\].
+[^750]: 162:1 §§ 8-9 = Yasna LVII, 3-4 \[LVI, 1, 6-12\]. 
 
-[^784]: 162:2 Véase Vend. Introd. IV, 31.
+[^751]: 162:2 Véase Vend. Introd. IV, 31. 
 
-[^785]: 162:3 Véase Yt. XVII.
+[^752]: 162:3 Véase Yt. XVII. 
 
-[^786]: 162:4 Véase Vend. XXII, 7 \[22\] y Sîrôzah I, 9.
+[^753]: 162:4 Véase Vend. XXII, 7 \[22\] y Sîrôzah I, 9. 
 
-[^787]: 162:5 Las palabras de la ley.
+[^754]: 162:5 Las palabras de la ley. 
 
-[^788]: 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\].
+[^755]: 162:6 §§ 10-13 = Yasna LVII, 15-18 \[LVI, 7\]. 
 
-[^789]: 162:7 Cf. Yt. I, 19.
+[^756]: 162:7 Cf. Yt. I, 19. 
 
-[^790]: 163:1 Cf. arriba, [p. 145](../Yasts_10#p145), nota [1](../Yasts_10#fn669).
+[^757]: 163:1 Cf. arriba, [p. 145](../Yasts_10#p145), nota [1](../Yasts_10#fn669). 
 
-[^791]: 163:2 Al infierno.
+[^758]: 163:2 Al infierno. 
 
-[^792]: 163:3 Como arriba, §§ 8-9.
+[^759]: 163:3 Como arriba, §§ 8-9. 
 
-[^793]: 163:4 A la creación de Ormazd.
+[^760]: 163:4 A la creación de Ormazd. 
 
-[^794]: 163:5 Dudoso. El Yasna dice: «Mediante cuya fuerza, poder victorioso, sabiduría y conocimiento, los Amesha-Spe<i>n</i>tas recorren (avãn; sâtûnand) los siete Karshvares de la tierra» (LVII, 23 [LVI, 10, 2]).
+[^761]: 163:5 Dudoso. El Yasna tiene: 'A través de cuya fuerza, poder victorioso, sabiduría y conocimiento los Amesha-Spe<i>n</i>tas van (avãn; Phl. sâtûnand) a lo largo de los siete Karshvares de la tierra' (LVII, 23 \[LVI, 10, 2\]). 
 
-[^795]: 164:1 Enseña la ley a los tres salvadores que vendrán, Oshêdar Bâmî, Oshêdar Mâh y Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\]; Phl. tr.).
+[^762]: 164:1 Él enseña la ley a los tres salvadores que vendrán, Oshêdar Bâmî, Oshêdar Mâh y Soshyôs (Yasna LVII, 24 \[LVI, 10, 2\]; Phl. tr.).
 
-[^796]: 164:2 Pare<i>s</i>tas<i>k</i>a mravay<i>â</i>os<i>k</i>a, que debe corregirse, según diversas lecturas, en staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a o algo parecido; los dos genios a los que se alude aquí son Anâstareta y Amuyamna, Impecabilidad e Inocencia, que son invocados en compañía de Akh<i>s</i>ti hamvai<i>ñ</i>ti en Vispêrad VIII, 4.
+[^763]: 164:2 Pare<i>s</i>tas<i>k</i>a mravay<i>â</i>os<i>k</i>a, que se debe corregir, según varias lecturas, en staretas<i>k</i>a mavay<i>â</i>os<i>k</i>a o algo similar; los dos genios a los que se alude aquí son Anâstareta y Amuyamna, Impecabilidad e Inocencia, que son invocados en compañía de Akh<i>s</i>ti hamvai<i>ñ</i>ti en Vispêrad VIII, 4. 
 
-[^797]: 164:3 Véase Yt. XII.
+[^764]: 164:3 Véase Yt. XII. 
 
-[^798]: 164:4 Véase Yt. XVII.
+[^765]: 164:4 Véase Yt. XVII. 
 
-[^799]: 164:5 Véase Vend. XIX, 39.
+[^766]: 164:5 Véase Vend. XIX, 39. 
 
-[^800]: 164:6 Véase ibíd.
+[^767]: 164:6 Véase ibid. 
 
-[^801]: 164:7 Véase Yt. XVI, 1.
+[^768]: 164:7 Véase Yt. XVI, 1. 
 
-[^802]: 165:1 Los fieles, como colaboradores a través de sus buenas acciones en la obra de la restauración final, que será realizada por Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17).
+[^769]: 165:1 Los fieles, como ayudando a través de sus buenas obras en el trabajo de la restauración final, que será realizado por Saoshya<i>n</i><i>t</i> (cf. Yt. XIII, 17). 
 
-[^803]: 165:2 El primer sacrificio es el sacrificio Yasna; el siguiente (literalmente, superior) es el Vispêrad; el sacrificio intermedio es el Hâdhôkht \[y\] êvak hômâst; el sacrificio supremo es el Dvâzdah hômâst (Pahl. Comm.). Sraosha se denomina primero, siguiente, intermedio y supremo, según presida uno u otro de estos sacrificios. Para una definición del êvak hômâst y el Dvâzdah hômâst, véase West, Textos Pahlavi, I, 212, nota 5.
+[^770]: 165:2 El primer sacrificio es el sacrificio Yasna; el siguiente (literalmente, superior) es el Vispêrad; el sacrificio intermedio es el Hâdhôkht \[y\] êvak hômâst; el sacrificio más alto es el Dvâzdah hômâst (Pahl. Comm.). Sraosha es llamado el primero, el siguiente, el medio y el más alto, de acuerdo a como presida uno u otro de esos sacrificios. Para una definición de êvak hômâst y Dvâzdah hômâst, véase West, Pahlavi Texts, I, 212, nota 5. 
 
-[^804]: 165:3 Vîspãn, traducido harvisp zamân.
+[^771]: 165:3 Vîspãn, traducido como harvisp zamân. 
 
-[^805]: 165:4 Literalmente, el que golpea con golpes.
+[^772]: 165:4 Literalmente, el que golpea con golpes. 
 
-[^806]: 166:1 Lo mismo que Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\].
+[^773]: 166:1 Lo mismo que Ar<i>s</i>tâ<i>t</i>. Cf. Yasna LVII, 34-35 \[LVI, 13, 3-7\]. 
 
-[^807]: 166:2 Recibe limosna (el ashô-dâd).
+[^774]: 166:2 Recibe limosna (el ashô-dâd). 
 
-[^808]: 167:1 Cf. §§ 16-17.
+[^775]: 167:1 Cf. §§ 16-17. 
 
-[^809]: 167:2 Quien sacrifica a Sraosha.
+[^776]: 167:2 Quien sacrifica a Sraosha.

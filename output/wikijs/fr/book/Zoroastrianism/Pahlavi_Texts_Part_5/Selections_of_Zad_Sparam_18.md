@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 7\. En chemin, Zaratûst donna à boire à leurs deux chevaux, à cause de leur soif ; et il pensa ainsi : « Il ne me servirait à rien d'aller à la résidence des Karaps, si ce n'est de cette manière, où, en donnant à boire aux chevaux, mon âme s'épanouissait. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

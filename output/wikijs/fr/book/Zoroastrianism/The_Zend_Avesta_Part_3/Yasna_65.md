@@ -50,6 +50,8 @@ L'invocateur ne doit-il pas faire offrande à ces bonnes eaux, et avec les parol
 
 16-18. (Voir Y. XV, 2 ; Y. LVI, 3-4 [^1340].)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

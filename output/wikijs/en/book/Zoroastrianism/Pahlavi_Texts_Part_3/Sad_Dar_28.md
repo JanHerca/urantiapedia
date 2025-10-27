@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. For it is declared in revelation, that the sacred being _has_ decreed thus: ‘_As to_ every one who puts the Avesta away from _his_ memory, I _will_ put his soul as far from heaven as the width of the earth [^1].’ 4. And in the commentary of the Avesta it is related _that_, in former times, _as to_ any one who had been taught the Avesta and had put _it_ away from _his_ memory, until the time he had again made _it_ easy, they would have given him bread like that which they give to the dogs. 5. _And in_ another place I have read that they would have given bread to him _on_ the point of a spear.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

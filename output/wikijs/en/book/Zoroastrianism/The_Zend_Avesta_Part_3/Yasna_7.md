@@ -96,6 +96,8 @@ The YêNhê hâtãm.
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

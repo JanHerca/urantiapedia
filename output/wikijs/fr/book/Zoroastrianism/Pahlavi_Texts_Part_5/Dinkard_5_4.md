@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 8\. Quelles sont les exigences de la tribu de ceux qui appellent cela leur véritable Gyêmarâ, et comment notre connaissance de la révélation, c'est-à-dire sa récitation abondante, y parvient-elle ? Seulement, plusieurs occasions (yâvar 1-<i>k</i>and) sont nécessaires en ces temps. 9. Il leur est également possible d'agir et de prendre des précautions, et parmi elles, il y a plus particulièrement la loi et la coutume, et tout ce que nous avons perverti et rendu vrai. Quant à ceux qui sont enseignés, plusieurs intellectuels, en quête de moyens, et amis de l'âme, sont venus leur enseigner des illusions complètes ; de même, pour la même tribu et quiconque il convient d'enseigner, lorsque cela leur est nécessaire, même un profane <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> l'autorité sacerdotale guide _cette_ même tribu, parce qu'il est venu [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

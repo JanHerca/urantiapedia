@@ -52,6 +52,8 @@ dateCreated: 2025-10-10T14:56:45Z
 15\. Et Tî<i>s</i>tar s'emparera graduellement (pa<i>d</i>manîkîhâ) de l'eau pour la distribuer généreusement, assidûment, similitude de ce qu'un souverain savant a dit, en louant un sage grand prêtre, que, « tout comme le vent tire l'eau qui s'élève des rivières et des sources et des mers ; Tî<i>s</i>tar, par sa propre libéralité, accorde les répartitions préparées de toute la production au profit des créatures par la volonté des êtres sacrés, et fait pleuvoir. 16. Et par ce qu'il s'empare volontairement pour le distribuer convenablement, il distribue l'eau purifiée, il humidifie les existences agréables des animaux et des plantes et épargne [^11] les pollués, il pourvoit aux besoins des assoiffés [^12], il cause du tort à celui qui est sanguinaire et il fait prospérer le monde. 17. Lorsque cette large libéralité qui est la sienne, la production de pluie, provient de l'eau pure et curative qu'il saisira ainsi graduellement et avec une juste répartition, et lorsque, grâce à cette acquisition d'eau, les rivières, les sources et les autres existences (shavandagânŏ) se développent bien, et que même la diminution due au gaspillage (aîrîkhtagîh) des rivières et des sources ne se produit pas pour autant, il en est de même, les seigneurs, par une loi (dâ<i>d</i>ŏ) modérée et variée - si la réglementation (gûn) doit s'étendre au-delà de la région - y contribuent autant que <span id="p269"><sup><small>[ p. 269 ​​]</small></sup></span> Tî<i>s</i>tar consiste à faire pleuvoir la région et le bien, à agrandir les nombreux grades [^13] et à reconstituer la région et les créatures [^14]. »
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

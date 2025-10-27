@@ -55,6 +55,8 @@ _Printed and bound by Hasell, Watson and Viney, London and Aylesbury_.
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

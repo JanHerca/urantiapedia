@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 leguas (parasang). del lago <i>K</i>ê<i>k</i>ast. 9. El lago (o, mejor dicho, golfo) Satavês [^14] es aquel _sobre el que ya_ se ha escrito, entre el océano de forma ancha _y_ el Pûtîk. 10. Se dice que en Kamîndân hay un abismo (zafar), del que todo lo que arrojan siempre _regresa_, y _no lo recibirá_ a menos que esté vivo (<i>g</i>ânvar); cuando arrojan una criatura viviente en él, la arrastra hacia abajo; los hombres dicen que en él hay una fuente del infierno. 11. El lago Urvis está en Hûgar el elevado [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

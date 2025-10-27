@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le quatre-vingt-sixième sujet est celui-ci, qu'il n'est pas convenable de tuer un castor [^1] ; _mais_, si on le voit en quelque endroit, il est nécessaire de le ramasser et de le porter à l'eau courante. 2. Car, dans le commentaire du Vendîdâ<i>d</i>, il est classé [^2] _comme_ un grand péché pour le _tueur_ [^3] ; et, _comme_ pour_ quiconque tue un castor, la source de sa semence s'épuise.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

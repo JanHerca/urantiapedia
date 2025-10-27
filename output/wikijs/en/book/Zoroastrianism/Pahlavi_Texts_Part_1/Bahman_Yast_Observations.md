@@ -52,6 +52,8 @@ Pâz. MSS. (modern), No. 22 of the Haug Collection in the State Library at Munic
 
 Pers. version (composed A.D. 1496, copied A.D. 1679) in a Rivâyat MS., No. 29 of the University Library at Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

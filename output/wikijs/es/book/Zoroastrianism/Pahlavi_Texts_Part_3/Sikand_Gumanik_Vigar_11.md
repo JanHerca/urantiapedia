@@ -157,6 +157,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 374\. En cuanto a estos enunciados que enumeramos, (375) debe surgir una de estas dos opiniones: (376) o bien que todos son verdaderos o bien que todos son falsos, (377) o bien que hay algunos que son verdaderos y otros que son falsos. 378. Si todos son verdaderos, todo enunciado que no se ajuste a estos enunciados es falso, o algo de ambos: verdad y falsedad. 379. Si todos son falsos, todo enunciado que no se ajuste a estos enunciados es verdadero, o algo de ambos juntos [^66]. 380. Si hay _algunos_ que son verdaderos y hay _algunos_ que son falsos, (381) entonces de aquellos que son verdaderos—_derivados_ de la naturaleza y núcleo (nâf) de la verdad—(382) y de aquellos que son falsos—_derivados_ de la naturaleza y núcleo y evolución original de la falsedad—(383) los orígenes son dos, uno del cual _surge_ la verdad, _y_ uno del cual _surge_ la falsedad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

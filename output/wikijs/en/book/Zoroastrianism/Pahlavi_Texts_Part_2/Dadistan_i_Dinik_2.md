@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 14\. And through that excellent, unblemished, brotherly work [^12] _such a ruler_ may be seen above the sun with swift horses, the primeval luminaries, and all removal of darkness, the advance of illumination which is the display (tô<i>g</i>isnŏ) of the days _and_ nights of the world [^13]. 15. Regarding the same completion of the renovation _of the universe_ it is said in the revelation of the Ma<i>z</i><i>d</i>a-worshippers, that this great light is the vesture of the like righteous men.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

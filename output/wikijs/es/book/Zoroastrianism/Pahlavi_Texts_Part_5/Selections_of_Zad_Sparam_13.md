@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 5\. Sobre la conexión retrógrada de Zaratû<i>s</i>t con Aûha<i>r</i>ma<i>z</i><i>d</i>, a través de los dos que _son_ Yim, la mejor de las existencias mundanas, y Nêryôsang de los espíritus. 6. La enumeración del linaje de Zaratû<i>s</i>t es Zaratû<i>s</i>t, _hijo de_ Pôrûshaspô [^7], de Purtarâspô, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> de Ahûrva<i>d</i>âspô, de Hâê<i>k</i>a<i>d</i>âspô, de <i>K</i>îkhshnû<i>s</i>, de Paîtiraspô, de Are<i>g</i>a<i>d</i>arsî\*, de Kharedhar\*, de Spîtâmân, de Vaêdî<i>s</i>tô, de Ayazem, de Frî<i>s</i>, de Ari<i>g</i>\*; de Dûrasrôbô, de Mânû<i>s</i><i>k</i>îhar, de Mânû<i>s</i>\-khûrnar, de Mânû<i>s</i>\-khûrnâk, a quien Nêryôsang, el mensajero de Aûha<i>r</i>ma<i>z</i><i>d</i> _trajo_, y_ cuya madre era Vîzag, _hija_ de Aryag, de Srîtak, de Bîtak, de Frazûsak, de Zû<i>s</i>ak, de Fragûzag, de Gûzag, _hija_ de Aîrî<i>k</i>, _hijo_ de Frê<i>d</i>ûn de los Âspîgâns a el total de diez Âspîgâns, de Yim, de los Vîvang,has, de los Ayang,has, de los Anang,has, de Hôshâng, de Fravâk, de Sîyâmak, de Masîyâ, de Gâyômar<i>d</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

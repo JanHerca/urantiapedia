@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 25\. En cuanto a las plantas, cada una de sus especies debe ser colocada a una distancia de cuatro dedos frente al fuego con una gota de agua en una ramita (teh). Sobre todo, se habla del loto (kûnâr).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

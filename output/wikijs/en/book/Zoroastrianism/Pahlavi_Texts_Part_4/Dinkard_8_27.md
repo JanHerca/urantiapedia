@@ -48,6 +48,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 17\. Perfect is the excellence of righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

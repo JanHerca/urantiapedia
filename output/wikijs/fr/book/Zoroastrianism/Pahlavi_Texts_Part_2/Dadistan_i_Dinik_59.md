@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : lorsque les biens qui sont restés siens à qui il est nécessaire de désigner un fils adoptif s'élèvent à soixante stîrs [^1] de revenu, il est alors indispensable de lui désigner un fils adoptif. 3. Même lorsqu'ils sont inférieurs, ils doivent reconnaître celui dont l'adoption est nécessaire et qui accomplit le devoir d'un fils adoptif ; et, de même, une adoption doit lui être désignée, même si elle ne peut pas être une possession pour celui qui est le plus apte à l'adoption.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

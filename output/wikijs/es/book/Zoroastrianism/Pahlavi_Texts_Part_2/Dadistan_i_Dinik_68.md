@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 3\. La respuesta es esta: el sol y la luna siempre se ven [^2] donde están, y existen para los hombres y las criaturas. 4. El sol se mueve más rápido [^3] que la luna, y cada día se adelanta un poco; en luna nueva, el sol brilla, y la luna, debido a su disminución hacia atrás, debido a su delgadez por su largo viaje [^4] y al brillo del sol, no es visible. 5. Al ponerse el sol, una luz poco visible es la luna, y al no ponerse, se ve la luna [^5]; y cada día la luna crece, sale más detrás del sol, y se esconde más, y, por lo tanto, es más visible. 6. Cuando crece hasta su punto máximo, que se acerca a la semejanza del sol, se vuelve esférica (aspiharakŏ) y se ve toda la noche. para disminuir de nuevo vuelve a la compañía del sol, y entra en el esplendor del sol.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

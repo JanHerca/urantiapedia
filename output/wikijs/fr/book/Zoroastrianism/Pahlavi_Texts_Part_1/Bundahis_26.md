@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 1\. Un Hâsar [^1] sur le sol est un Parasange de mille pas des deux pieds. 2. Un Parasange [^2] est une mesure dans la mesure où un homme clairvoyant peut regarder au loin, voir _une bête de_ somme et faire savoir si elle est noire ou blanche. 3. Et la mesure d'un homme est de huit empans moyens [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

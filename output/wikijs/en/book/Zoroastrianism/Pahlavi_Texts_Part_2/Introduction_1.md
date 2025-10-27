@@ -79,6 +79,8 @@ Some endeavour has likewise been made to introduce greater precision than has hi
 
 The general reader should, however, observe that these niceties of transliteration are merely matters of writing, as the exact pronunciation of Pahlavi cannot now be fully ascertained in all its details. There is every reason to suppose that the Semitic portion of the Pahlavi was never pronounced by the Persians as it was written (unless, indeed, in the earliest times); but to transliterate these Semitic words by their Persian equivalents, as the Persians certainly pronounced them, would produce a Pâzand text, instead of a Pahlavi one. If, therefore, we really want the transliteration to represent the Pahlavi text correctly, we must transliterate the Semitic words as they are written, without reference to the mode in which we suppose that the Persians used to, read them. With regard to the Persian words, if we call to mind the fact that Pahlavi was the immediate parent of modern Persian, we shall naturally accept the modern Persian pronunciation (stripped of its Arabic corruptions) as a guide, so far as Pahlavi orthography permits, in preference to tracing the sounds of these words downwards from their remote ancestors' in ancient Persian or the Avesta. But the pronunciation of words evidently derived directly from the Avesta, as is the case with many religious terms, must clearly depend upon the <span id="pxxii"><sup><small>[ p. xxii ]</small></sup></span> Avesta orthography, so far as the alteration in spelling permits. These are the general rules here adopted, but many uncertainties arise in their practical application, which have to be settled in a somewhat arbitrary manner.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

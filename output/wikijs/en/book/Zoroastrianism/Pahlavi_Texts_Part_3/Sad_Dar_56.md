@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. When they squat for evacuating water it is necessary that _it extend only_ [^2] from the heel as far as the end of the toes; for, if it be more, every drop is a Tanâvar sin. 4. And, when they wish to squat for the evacuation of water, _they are_ to utter one Yathâ-ahû-vairyô [^3]; _and_, when the action is over, _they are_ to recite the Ashem-vohû [^4] three times, the Humatanãm [^5] twice, the Hukhshathrôtemâi [^6] three times, the Yathâ-ahû-vairyô four _times_, and the Ahunem-vairîm [^7] to the end. 5. Because, every time that they act like this, they are pleasant in the eyes and hearts of mankind, and their words are more approved _in_ the vicinity of kings.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

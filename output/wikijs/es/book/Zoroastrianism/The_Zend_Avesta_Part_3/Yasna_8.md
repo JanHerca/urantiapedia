@@ -60,6 +60,8 @@ Ofrezco el Myazda (de la) ofrenda de carne con una ofrenda completa y sagrada; y
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

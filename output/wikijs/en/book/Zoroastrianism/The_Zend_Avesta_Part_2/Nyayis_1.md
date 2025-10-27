@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-<span id="p374">[<sup><small>p. 347p374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 347p374 ]</small></sup></span>
 
 <span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
@@ -174,6 +174,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 \[Give\] unto that man brightness and glory, give him health of body, . . . . give him the bright, all-happy, blissful abode of the holy Ones.
 
 
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

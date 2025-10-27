@@ -58,6 +58,8 @@ J'offre le Myazda (de) l'offrande de viande avec une offrande complète et sacr�
 
 9\. Propitiation à Haoma qui nous apporte la justice pour le sacrifice, l'hommage, la propitiation et la louange. (Le Zaotar ?) En tant qu'Ahû à (vénérer et) choisi, le Zaotar me parle. (Le Ratu.) En tant qu'Ahû à (vénérer et) choisi, le Zaotar me parle. (Le Zaotar.) Alors que le Ratu, de par sa justice, saint et savant, parle !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

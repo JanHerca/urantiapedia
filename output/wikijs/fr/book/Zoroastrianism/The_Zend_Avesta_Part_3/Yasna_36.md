@@ -40,6 +40,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Nous nous inclinons donc devant Toi, et nous adressons nos prières à Toi avec des confessions de notre culpabilité, ô Ahura Mazda ! avec toutes les bonnes pensées (que Tu inspires), avec toutes les paroles bien dites et les actions bien accomplies, avec celles-ci nous voudrions nous approcher de Toi. 6. Et à Ton corps le plus beau [^1190] nous adressons nos profondes reconnaissances, ô Ahura Mazda ! à ces étoiles (qui sont Ton corps) ; et à celle, la plus haute des hautes, \[telle qu'on appelait le soleil\] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

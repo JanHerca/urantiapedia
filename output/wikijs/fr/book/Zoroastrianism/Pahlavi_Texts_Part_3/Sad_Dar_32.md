@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Car il est déclaré dans la bonne religion, qu'il y a un démon qu'ils appellent Sê<i>g</i> [^2], _et_, dans chaque maison _où_ existe_ un enfant, ce _démon_ s'efforce de faire en sorte qu'elle _fasse_ quelque malheur sur cette maison. 6. _Ainsi_ il est nécessaire qu'ils _gardent_ un coq pour l'attendre, afin qu'il frappe ce démon et la force à prendre le chemin _loin_ de cette maison.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

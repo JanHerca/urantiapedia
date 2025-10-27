@@ -46,6 +46,8 @@ SAD DAR.
 
 12\. May the peace of the sacred being, the most high, be on the souls of those acquainted with the religion of the pure Zaratu<i>s</i>t, the Spitamân, and of those _who are_ pure _and_ virtuous. 13. For the souls of those persons it is desirable that every duty they perform they _shall_ perform through the authority (dastûrî) of the wisdom of the high-priests [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

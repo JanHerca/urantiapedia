@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 11\. Là-dessus, les esprits gardiens des hommes devinrent du même avis que la sagesse omnisciente sur le fait d'aller dans le monde, à cause du mal qui leur arrive, dans le monde, de la part du démon (drû<i>g</i>) Aharman, et de devenir, enfin, à nouveau non persécutés par l'adversaire, parfaits et immortels, dans l'existence future, pour toujours et à jamais.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

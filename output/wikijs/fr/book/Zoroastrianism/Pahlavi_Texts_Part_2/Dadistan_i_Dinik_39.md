@@ -67,6 +67,8 @@ II. L'une d'elles est que les anciens versés dans la religion ont communiqué c
 
 29\. Puisque la gloire de notre ceinture, appelée Kûstîk et portée au milieu du corps, demeure intacte (a<i>v</i>î-vûkht) auprès des anges, dispensateurs de gloire, et auprès des hommes glorieux – ce qui est expliqué comme une similitude et un exemple de fortune (bâharakŏîhâ) parmi les mondains, même ceux qui sont en réalité des créatures primitives [^38]\ – elle a donc semblé belle et désirable. 30. Et leur cœur, leur volonté, leur connaissance et leur intention y sont tout autant attachés que ce qui est perceptible là où, même en dehors de ceux de bonne religion qui nouent la ceinture sacrée avec la formule des Écritures, certaines confessions de tous les pays, à l'exception de celles qui ne portent pas de ceinture, possèdent la coutume religieuse [^39]. 31. Même en dehors du siège de l'existence de la foi [^40], tous les hommes ont la taille, ou les paumes des mains [^41], ou des articulations similaires en guise de ceinture (kûstîkŏ) ; et il est jugé convenable, désirable et commode de la porter pour le travail. 32. Et c'est manifestement le lot (dakŏ) de celui qui loue pleinement et dont le propre désir est la vérité et la jouissance du bien-être, c'est un signe du service des êtres sacrés, et un signe de marche dans les commandements de la religion, <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> qu'ils lieront, en raison des êtres supérieurs (pâshûmân), à la formule appropriée, plus particulièrement à celle que l'on prononce lorsqu'on s'appuie sur l'Écriture elle-même.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

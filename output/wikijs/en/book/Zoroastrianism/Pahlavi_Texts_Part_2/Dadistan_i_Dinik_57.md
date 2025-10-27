@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that a grown-up man of the good religion who is intelligent, a complete ruler of a numerous household [^1], expecting offspring, _and_ not _having sins_ worthy of death is suitable for adoption; even when he has accepted either one adoption, or many adoptions, he is then still suitable for another adoption. 3. And a grown-up woman, _or_ even a child, is suitable for one adoption, _but_ when adopted in one family she is not suitable for another adoption. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 4\. A woman requiring a husband—though a complete worshipper—or a foreigner, or an infidel, or _one_ having _sins_ worthy of death, is unfit for adoption; so also those who are demon-worshippers, she who is a concubine (shûsar nê<i>s</i>man) _or_ courtezan, _and_ she who is menstruous are unfit.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

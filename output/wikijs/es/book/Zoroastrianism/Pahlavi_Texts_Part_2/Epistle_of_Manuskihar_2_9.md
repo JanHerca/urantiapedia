@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 13\. Escrito en propiciación, alabanza y bendición del creador Aûha<i>r</i>ma<i>z</i><i>d</i> y los arcángeles, todos los ángeles de las _existencias_ espirituales y mundanas, y todo espíritu guardián de los justos. 14. Homenaje al exaltado pontífice (ra<i>d</i>ŏ) _enviado_ por el creador Aûha<i>r</i>ma<i>z</i><i>d</i>, el más celestial de los celestiales, Zaratû<i>s</i>t el Spîtamân. 15. La <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> _más_ piadosa _y_ provechosa de las cosas es la rectitud; grande y bueno y perfecto es Zaratû<i>s</i>t; _y_ uno _solo_ es el camino de la justicia, todos los demás no son caminos [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

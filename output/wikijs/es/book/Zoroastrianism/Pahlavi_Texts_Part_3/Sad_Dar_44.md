@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El tema cuadragésimo cuarto es este: que no es deseable para quienes profesan buena religión, en la medida de sus posibilidades, poner un pie descalzo en el suelo [^1], porque es pecado, y se le causa daño [^2] a Spendârma<i>d</i> [^3], el arcángel. 2. Y a eso lo llaman el pecado de andar descubierto.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -36,6 +36,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 1\. Accorde-moi, Toi qui es créateur du Veau, des plantes et des eaux, l'Immortalité, Mazda ! Accorde aussi, Bien-être, Esprit généreux.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -111,6 +111,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 50\. Le début des Gâthas est Ahyâ-yâsâ (Yas. XXVIII, 1), et leur fin est drigavê vahyô (Yas. LII, 9, fin) ; et _il_ y a 278 strophes, 1016 vers, 5567 mots (vâ<i>k</i>ak), 9999 mârîk, et 16,554 khûr<i>d</i>ak [^89]. 51. Car les vers et les strophes des Gâthas _ont été_ rassemblés par nous, et étaient : — cent strophes de l'Ahunavaiti Gâtha (Yas. XXVIII-XXXIV), dont chaque strophe est de trois vers ; quarante strophes du Yasna _de sept chapitres_ (Yas. XXXV-XLI, 17), <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> dont chaque strophe est de trois vers ; soixante-six strophes de l'U<i>s</i>tavaiti Gâtha (Yas. XLII-XLV), dont chaque strophe est de cinq vers, sauf Haê<i>k</i>a<i>d</i>\-aspâ (Yas. XLV, 15), car celle-ci est de quatre vers ; quarante et une strophes du Spe<i>n</i>tâ-mainyû Gâtha (Yas. XLVI-XLIX), dont chaque strophe est de quatre vers ; vingt-deux strophes du Vohû-khshathra (Yas. L), dont chaque strophe est de trois [^90] vers ; _et_ neuf strophes du Vahi<i>s</i>tôi<i>s</i>ti (Yas. LII), dont chaque strophe est de quatre lignes, sauf Ithâ-î (Yas. LII, 6), car celle-ci est une strophe de cinq ; — le total de ce qui précède [^91] est de 278 strophes [^92].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

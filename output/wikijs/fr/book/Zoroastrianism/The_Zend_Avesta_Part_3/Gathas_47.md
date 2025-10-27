@@ -68,6 +68,8 @@ Traduction.
 
 6\. Oui, ces choses, Tu les lui donneras, ô Toi Ahura Mazda ! et par Ton esprit généreux, (et) par Ton Feu comme dans une bonne effusion aux deux [^675] (foules) qui luttent par l'augmentation prospère de notre Piété, et du rituel juste et de la Vérité morale ; car cela (la Piété qui nous instruit) enseigne [^676] les nombreux qui viennent la chercher (face) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

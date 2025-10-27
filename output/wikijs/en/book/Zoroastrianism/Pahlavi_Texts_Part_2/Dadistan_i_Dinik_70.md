@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that any place where a mountain is not discernible and a river-bed exists _it_ is a fissure (a<i>s</i>kûpŏ); and it is declared as clear that, even before the growth of the mountains, when the earth was all a plain, _by_ the shaking of the world the whole world became rent (zandakŏ) [^2]. 3. Even <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> Frâsîyâ<i>v</i> of Tûr [^3] _was_ specially mighty by causing the construction of channels (vi<i>d</i>arg) there where _it_ is mountainous, _and_ also _in_ low-lands [^4], in which there is no mountain, and the shaking in its creation _was_ the formation of great sunken [^5] springs and river-beds. 4. And if it has been prepared _in, or_ if _it be_ in a ravine (<i>s</i>ikaftŏ) of, the mountains, the cause, too, of the contraction, thundering, and tearing of a river, if _its_ confinement _be_ in the earth, is the resistance which it _meets_ in seeking a passage; and as it is a spring of the waters of the earth, so also it is in the earth, whose contraction _and_ panting are mighty _and_ full of strength. 5. And when _it is_ a time that they would make a constructed channel at the outside of its ravine, as regards the contraction which is within it, the resistance by which it is contracted at the outside of the ravine is the ground  [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ dateCreated: 2025-10-7T9:56:37Z
 13\. About property which _any one_, carrying _it_ off, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> _has_ to bring back to _its_ owners; such as that which the frontier people _may take away_ from foreigners, that which the judge _may take away_ from thieves, and the share which he may take away from _any one_ not interfering [^6] with thieves. 14. And about protectors _and_ defenders of a thief, and also many other legal decisions as regards theft.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

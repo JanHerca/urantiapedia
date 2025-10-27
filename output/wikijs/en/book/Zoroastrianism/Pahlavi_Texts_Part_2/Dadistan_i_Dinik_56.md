@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 9\. _It has_ become the custom _that_ the lapfuls _and_  <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> armfuls [^8] of the family guardian are every month four stîrs of, it may be, sixteen [^9], which is the disbursement (andâ<i>z</i>i<i>s</i>nŏ), for food, clothing, medicine, _and_ shelter, out of the income (bar), or out of the capital (bûn), of the property which remains in the family, by a perfect [^10] wife when she is capable—such as the former house-mistress—so as want of nourishment (atafdâ<i>d</i>ŏ) may not come nakedly and unlawfully upon them.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Ces trois lieux, collectivement, sont appelés l'enfer, _qui_ est au nord, descendant, et sous cette terre, même jusqu'à la plus grande déclivité du ciel ; et sa porte est dans la terre, un endroit du quart nord, et est appelé la crête d'Arezûr [^4], une montagne qui, parmi ses sœurs montagnes du nom d'Arezûr [^5] qui sont au milieu des montagnes escarpées (kôfîk), est dite dans la révélation [^6] avoir_ une grande renommée auprès des démons, et la précipitation et le rassemblement des démons dans le monde se font au sommet de cette montagne, _ou_ comme on l'appelle 'la tête d'Arezûr'.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

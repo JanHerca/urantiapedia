@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 23\. Actuellement, comme les Nasks ne sont pas restés parfaits parmi nous, il n'est pas possible de les célébrer, car Alexandre le Roumain [^2] a emporté un brouillon, en caractères roumans, de ceux des vingt et un Nasks de l'Avesta qui concernaient les étoiles et la médecine, et a brûlé à plusieurs reprises les livres de l'Avesta, de sorte que l'âme d'Alexandre brûle en enfer ; et après sa calamité, chacun des grands prêtres, réunis en conseil, conserva quelque chose de l'Avesta dans son esprit, et l'ensemble révéla les livres du Yasna (ya<i>s</i>t), Vîsperad, Vendîdâd, Fravash, Khûrdah Avesta, Darûn, Âfrîngân, Kîdah Va<i>g</i>arkardan et Bundahi<i>s</i>, qu'ils écrivirent correctement ; quant au reste (tatammah) qu'ils n'écrivirent pas, c'est pour cette raison qu'ils ne le conservèrent pas correctement dans leur esprit. Et l'attente, descendue du milieu d'eux dans la cour d'Ormazd et des archanges, est ainsi, que Var<i>g</i>âvand, Peshôtan et Hushêdar [^3] _arriveront_ en hâte _pour_ la manifestation de la religion, et la bonté <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> de la religion reprendra sa splendeur d'un nouveau chef ; les bons et ceux de la bonne religion deviendront joyeux et heureux, et les mauvais et les méchants s'éteindront et disparaîtront. Amen.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

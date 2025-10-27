@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 13\. Les sept interrogatoires s'expliquent dans la durée de ces hivers, qui sont de cinq mois, et dans dix ans [^17].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

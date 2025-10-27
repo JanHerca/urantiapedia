@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 8\. The spirit of wisdom answered (9) thus: ‘The sacred being is the more defensive protection. 10. A virtuous brother is a good friend. 11. A child, who is virtuous and an upholder of religion, is a good supporter of fame. 12. A virtuous wife, who is well-disposed, is a good helper of enjoyment. 13. That wealth is better and pleasanter which is collected by honesty, _and one_ consumes _and_ maintains with duties and good works. 14. _And_ the pleasures which are superior to all pleasures are health of body, freedom from fear, good repute, _and_ righteousness [^4].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

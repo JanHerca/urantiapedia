@@ -99,6 +99,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 63\. ¡Que el final sea en paz, placer y alegría, por la voluntad de Dios (yazdânŏ)! ¡Que así sea! ¡Que así sea aún más!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

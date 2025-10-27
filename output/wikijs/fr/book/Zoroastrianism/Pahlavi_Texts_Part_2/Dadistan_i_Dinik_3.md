@@ -50,6 +50,8 @@ dateCreated: 2025-10-10T14:56:45Z
 19\. Une réponse plus concise est la suivante : l’homme juste est la créature qui accepte l’occupation qui lui est réservée, et qui veille pleinement <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> dans le monde à ne pas se laisser tromper par le démon rapace. 20. Et en tant que déterminant, par sagesse, de la volonté du Créateur – lui-même propitiateur et compréhensif, et promoteur de la compréhension de la bonté – et de tout ce qui lui appartient (le Créateur), il est un dispensateur d’attention à celle-ci ; et il est nécessaire qu’il en soit ainsi, afin que cette grandeur et cette bonté puissent aussi être siennes avec plus de sécurité dans l’existence spirituelle.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

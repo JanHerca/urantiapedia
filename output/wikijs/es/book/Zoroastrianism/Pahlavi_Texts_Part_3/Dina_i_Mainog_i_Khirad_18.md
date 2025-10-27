@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. El espíritu de sabiduría respondió (5) así: «Por el engaño (nîyâ<i>z</i>ânîh) del demonio de la avaricia [^2] y del descontento.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

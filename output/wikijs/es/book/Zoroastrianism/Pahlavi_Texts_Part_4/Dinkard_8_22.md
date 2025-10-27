@@ -53,6 +53,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 27\. Sobre el delito que los acusadores cometerían, en cuanto a la ley, por medio de la ley, siendo <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> no permitido cometerlo con sus propias manos; también en cuanto a la propiedad de alguien sobre la cual exista una disputa, aunque exista certeza sobre su propiedad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

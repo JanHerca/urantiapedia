@@ -121,6 +121,8 @@ _Nikadum Nask_.
 
 167\. La excelencia perfecta es la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

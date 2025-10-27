@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Cuando se escribe sobre ello, que así se declara en el Sakâ<i>d</i>ûm _Nask_, que la orina de toro consagrada, que está fétida, debe ser removida para el fuego, se declara después que no se refiere solo a la orina de toro que se proporciona esos tres días [^6]; sino también a la que está vieja y consagrada, <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> que se vuelve fétida y se remueve de nuevo cuando se sigue usando, lo cual es apropiado. 7. Y lo que el Sakâ<i>d</i>ûm _ha_ declarado es, especialmente, que uno de los sumos sacerdotes _ha_ dicho individualmente: «Ese hedor se menciona con referencia a la _ocasión_ en que le llega un hedor de un tipo diferente al que existe naturalmente en él.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

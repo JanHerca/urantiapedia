@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Puisque ce qui lui appartient _et_ ce qui lui appartient par dessein, lorsque quelqu'un gère pour lui et de son vivant, agrandit alors sa position, _et_ son âme est préservée, lorsqu'il gère pour lui par la suite, la jouissance atteint alors son âme. 5. Lorsqu'il ne consent pas à une bonne œuvre, et que celle-ci n'est pas par dessein, même si d'autres peuvent la faire pour lui, elle n'entre pas alors en sa possession.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -76,6 +76,8 @@ Quel est le seul mot qui contienne la glorification de toutes les bonnes choses,
 
 17\. Ahura Mazda répondit : « C'est celui-là, ô saint Zarathustra ! qu'un homme délivre pour renoncer aux mauvaises pensées, aux mauvaises paroles et aux mauvaises actions [^1329]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -102,12 +104,12 @@ Quel est le seul mot qui contienne la glorification de toutes les bonnes choses,
 
 ## Notes de bas de page
 
-[^1392]: 311:1 Asha : l'Ashem Vohû.
+[^1325] : 311:1 Asha : l'Ashem Vohû. 
 
-[^1393]: 312:1 Cent fois la formule : « Sois propitiation (khshnaothra) à N. . . ., le saint et maître de sainteté » (cf. [p. 1](../Preliminary#p1), note [2](../Preliminary#fn3)).
+[^1326]: 312:1 Cent fois la formule: 'Sois propitiation (khshnaothra) à N. . . ., le saint et maître de sainteté' (cf. [p. 1](../Preliminary#p1), note [2](../Preliminary#fn3)). 
 
-[^1394]: 312:2 Manger ou boire (voir Vendîdâd, Introd. IV, 33).
+[^1327]: 312:2 Manger ou boire (voir Vendîdâd, Introd. IV, 33). 
 
-[^1395]: 313:1 Voir [p. 123](../Yasts_10#p123), note [5](../Yasts_10#fn575).
+[^1328]: 313:1 Voir [p. 123](../Yasts_10#p123), note [5](../Yasts_10#fn575). 
 
-[^1396]: 313:2 Dans une conversion, ou dans la récitation des prières pénitentielles.
+[^1329]: 313:2 Dans une conversion, ou dans la récitation des prières pénitentielles.

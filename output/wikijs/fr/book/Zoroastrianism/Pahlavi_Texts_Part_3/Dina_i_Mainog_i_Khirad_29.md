@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le sage demanda ainsi à l'esprit de sagesse (2) : « Que faut-il garder avec plus de respect et de protection ? » <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 3\. L'esprit de sagesse répondit (4) ainsi : « Il est nécessaire de garder un jeune serviteur (rasîk) [^1], une épouse, une bête de somme et un feu avec plus de protection et de respect. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

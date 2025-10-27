@@ -46,6 +46,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 24\. Righteousness is perfect excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

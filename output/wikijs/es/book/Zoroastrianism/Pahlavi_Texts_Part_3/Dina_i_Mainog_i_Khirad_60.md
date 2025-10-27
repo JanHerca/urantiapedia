@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. «Porque se dice (7, 8) que quien se une al bien trae consigo el bien, y quien se une <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> al mal trae consigo el [^4] mal—(9) igual que el viento que, cuando incide sobre el hedor, [^5] es hedor, (10) y cuando incide sobre el perfume, es perfume—(11) es, por tanto, notorio [^6], (12) que quien se ocupa del bien recibe el bien, (13) y quien se ocupa del mal _recibe_ [^7] el mal; (14) pero, incluso entonces, ambos deben considerarse como un experimento (aû<i>z</i>mâyi<i>s</i>nŏ) [^8].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

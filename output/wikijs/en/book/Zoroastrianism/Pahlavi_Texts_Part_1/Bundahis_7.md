@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 14\. Afterwards, the wind, in the same manner _as before_, restrained the water, at the end of three days, on various sides of the earth; and the three great seas _and_ twenty-three small seas [^14] arose therefrom, _and_ two fountains (<i>k</i>ashmak) of the sea thereby became manifest, one the <i>K</i>ê<i>k</i>ast lake, and one the Sôvbar [^15], whose sources are connected with the <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> fountain of the sea. 15. And at its north side [^16] two rivers flowed out, _and_ went one to the east _and_ one to the west; they are the Arag river and the Vêh river; as it is said thus: ‘Through those finger-breadth tricklings do thou pour _and_ draw forth two such waters, O Aûharmazd!’ 16. Both those rivers wind about through all the extremities of the earth, and intermingle again with the water of the wide-formed ocean. 17. As those two rivers flowed out, _and_ from the same place of origin as theirs, eighteen [^17] navigable rivers flowed out, and after the other waters have flowed out from those navigable _streams_ they all flow back to the Arag [^18] river and Vêh river, whose fertilization (khvâpardârîh) of the world _arises_ therefrom.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

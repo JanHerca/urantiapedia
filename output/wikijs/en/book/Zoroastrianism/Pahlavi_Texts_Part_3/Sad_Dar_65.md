@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. There are different things that it is necessary for those of the good religion to make predominant over themselves. 8. One is to exercise liberality _in connection_ with the worthy; the second is to do justice; the third is to be friendly unto every one; and the fourth is to be sincere and true [^5], and to keep falsehood far from themselves. 9. And these four habits (‘<i>h</i>aʓlat) are the principles (aʓl) of the religion of Zaratu<i>s</i>t, and it is necessary, when thou listenest _to them_ thyself, _that_ thou dost not listen to any one _else_ [^6]. 10. Because the creator Hôrmazd says, ‘O Zaratu<i>s</i>t! if thou wilt that thou become pure and saved, _and that_ thou arrive at the place of the pure, do thou accomplish these two duties:—11. One is this, that thou prefer the friendship of the spiritual _existence to that of_ the worldly _one_, and consider the things of the world as contemptible and those of the spirit precious; on this account the glory of the world is sought [^7] with scorn, and do not thou let the spirit escape. 12. The second is this, that thou speak truly with every one and act justly with me, <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> that is, whatever thou dost not approve for thyself do not approve [^8] for any one _else;_ when thou hast acted in this manner thou art righteous.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 11\. Afin que nos esprits soient [^1306] ravis et nos âmes les meilleures, que nos corps soient également glorifiés, et qu'ils aillent eux aussi ouvertement (au Ciel), ô Mazda ! comme le meilleur monde [^1307] des saints, dévoués à Ahura, (12) et accompagnés d'Asha Vahi<i>s</i>ta (qui est la Meilleure Justice), et la plus belle ! Puissions-nous Te voir, et puissions-nous, en nous approchant, T'entourer et parvenir à une entière compagnie avec Toi ! Et nous sacrifions à l'Ordre Juste, le meilleur, le plus beau, l'Immortel généreux !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

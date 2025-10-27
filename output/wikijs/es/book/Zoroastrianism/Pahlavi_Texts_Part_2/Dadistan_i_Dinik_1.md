@@ -67,6 +67,8 @@ ALGUNOS capítulos de las indagaciones que Mit<i>r</i>ô-khûrshê<i>d</i>, hijo
 
 27\. Una copia fiel (bûr<i>z</i>i<i>s</i>nîkŏ pa<i>k</i>înŏ) de las preguntas, así como de las respuestas, es la siguiente; de ​​modo que, cuando no hay nada en ella que debido a esa causa [^29] sea diferente, soy de la opinión que está _aquí_ escrita.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 17\. _Quant à_ tout ce qui est sur le même sujet, cela introduit de nombreuses opinions, et aussi celle-ci, qu'une contre-attaque (<i>a</i><i>v</i><i>â</i><i>z</i>\-zatam) est ce qui devient un coup et une blessure, _et_ doit être commise ainsi lorsqu'il <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> est possible de les reproduire exactement dans chaque détail.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

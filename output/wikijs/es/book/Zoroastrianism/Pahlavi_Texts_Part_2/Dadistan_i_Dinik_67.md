@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 3\. Lo terrenal es el agua sobre la cual su brillo es aceptable; y los muchos colores brillantes (gunakân) que se forman a partir de esa gran mezcla [^2] de brillo y agua, y que se representan (mânâkî-aîtŏ), son la única porción para aparecer [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: los arcángeles son inmortales y no sufren aflicciones; su lugar, también, está en esa mejor existencia de luz, gloriosa, deliciosa e imperturbable; y la fuerza del hedor debido a los demonios [^1] no alcanza a nada perteneciente a los arcángeles. 3. Los arcángeles son omniscientes [^2], amigables con las criaturas, persistentes y procuran el perdón; conocen esa práctica atroz que es la práctica atroz [^3] de ese miserable engañado (frîftakŏ) que se ha contaminado de esa manera tan inmunda (zî<i>s</i>ttûm ârang), que es como la que se le proporciona y que se le aplica incluso en el terrible castigo [^4] que le han impuesto los demonios; y entonces, debido a su amistad con las criaturas, les ha parecido <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> severo, y de ahí surge su perdón, que es acorde con la angustia que se debe al tormento que lo aflige.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

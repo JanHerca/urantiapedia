@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 16\. And _he_ who _has_ intended much more laudably is declared _as_ the more devout and more judicious of worshippers; and for the sake of the ceremonial he is cleansed by the Bareshnûm _ceremony_ [^16], _and_ is to practise other descriptions of cleanliness as regards _his_ body and clothing. 17. While in the performance of the ceremonial, bread _made_ from corn which is ground _by_ those of the good <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> religion, wine from that made _by_ those of the good religion, _and_ meat from the animal [^17] which is slaughtered in the ceremonial are eaten; _and one_ is to proceed into the abode of fires [^18] and of the good, _and_ to abstain from the rest of the other places which are dubious [^19] _and_ food which is dubious. 18. And with that thorough heedfulness _one_ is to conduct and order that ceremonial in the abode of the ever-growing fire, or other fire of Varahrân [^20]; whereby his numerous good works are effectual, _and_ the path of good works [^21] is very broad. 19. Concerning [^22] the suffering of _him_ whose capability in that which is his preserving efficacy [^23] is less, it is thus revealed, that not he who is righteous is overwhelmed, as _it were_ unwilling, by incapability [^24].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

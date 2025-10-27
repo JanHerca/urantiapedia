@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. And it is the same as this with regard to _the salutations of_ the moon and fire [^4]. 5. Therefore it is expedient, in the religion, for every one of the good religion to bring the salutations _into_ practice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

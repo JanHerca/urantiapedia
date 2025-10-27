@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 24\. « _Il_ est déclaré qu'Aûha<i>r</i>ma<i>z</i><i>d</i> a créé Aîrân-vê<i>g</i>ô meilleur que les autres lieux et districts [^16]. <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> 25. Et sa bonté est ceci, que la vie du peuple est de trois cents ans [^17], (26) et celle des bœufs et des moutons de cent cinquante ans. 27. Leur douleur et leur maladie sont également peu nombreuses ; (28) ils ne fabriquent (drû<i>g</i>ênd) [^18] aucun mensonge, (29) ils ne font ni lamentations ni pleurs, (30) et la domination du démon de la cupidité (A z) dans leurs corps est faible. 31. Lorsqu'ils mangent un pain parmi dix hommes, ils sont rassasiés. 32. Et tous les quarante ans, un enfant naît d'une femme et d'un homme [^19]. 33. Leur loi, aussi, est la bonté, et leur religion la foi primitive [^20] ; (34) et lorsqu'ils meurent, ils sont justes [^21]. 35. Leur chef spirituel (ratû), de même, est Gôpaîtŏ [^22], et leur seigneur et roi est Srôsh [^23].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

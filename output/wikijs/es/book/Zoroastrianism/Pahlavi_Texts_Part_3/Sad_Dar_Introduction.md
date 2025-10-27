@@ -48,6 +48,8 @@ SAD DAR.
 12\. Que la paz del ser sagrado, el Altísimo, esté con las almas de quienes conocen la religión del puro Zaratustra, el Spitamân, y de quienes son puros y virtuosos. 13. Para las almas de estas personas es deseable que todo deber que realicen lo hagan mediante la autoridad (dastûrî) de la sabiduría de los sumos sacerdotes [^10].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

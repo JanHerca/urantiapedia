@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 150\. Sur ce sujet, en raison de la lenteur, on considère que beaucoup de choses sont complètes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

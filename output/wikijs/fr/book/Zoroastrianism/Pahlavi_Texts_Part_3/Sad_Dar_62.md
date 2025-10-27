@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Le maudit Aharman, lorsqu'il perçut l'esprit de vérité, était tombé sans connaissance pendant trois mille ans [^3]. 7. Par crainte de la vérité, il ne parvint jamais à tenir la tête haute, et par crainte de la vérité, il ne parvint pas à venir en ce monde [^4]. 8. Et tout ce sur quoi tu poses ton regard (na_th_ar) en lui, et qui est resté sur place lorsque tu cherches à l'examiner à nouveau, est resté par la vérité. 9. Et l'interprétation de l'Ashen-vohû [^5] est dans la vérité, et, pour cette raison, ils récitent fréquemment l'Ashem-vohû.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

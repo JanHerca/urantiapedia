@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 11\. «Y el tesoro de la _existencia_ espiritual es tan cierto por esta razón, porque Aûha<i>r</i>ma<i>z</i><i>d</i>, el señor, con todos los ángeles _y_ arcángeles, está [^7] imperturbable, (12) y ellos hacen la lucha con Aharman y los demonios, y también la cuenta de las almas de los hombres, con justicia. 13. Y el lugar de _aquel_ cuya buena obra es mayor está en el cielo, (14) el lugar de _aquel_ cuya buena obra y pecado son iguales está entre los siempre estacionarios [^8], (15) y cuando el crimen es mayor, su camino es entonces al infierno.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

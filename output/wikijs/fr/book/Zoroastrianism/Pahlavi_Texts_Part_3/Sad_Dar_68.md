@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 13\. Et il est nécessaire _pour_ une _femme_ menstruée de ne pas passer par l'extrémité [^13] de quoi que ce soit qui a été lavé cérémoniellement, car, si cela a mille coudées (gaz) de longueur_, elle le souille tout entier, _et_ il devient impur. 14. Avec quiconque tient un support de rameaux sacrés [^14], elle ne doit pas dire un mot ; _et_ si un prêtre tient les rameaux sacrés dans sa main, _et_ qu'une _femme_ menstruée prononce quelques paroles (ba'hʓ̣ê) [^15] de loin, ou s'il marche à moins de trois pas d'une femme menstruée, elle le rend [^16] impur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

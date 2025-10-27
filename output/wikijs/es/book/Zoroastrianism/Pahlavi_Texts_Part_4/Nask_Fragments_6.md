@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 Dk. VIII, Cap. VII, 4 o 5, probablemente se refiere al pasaje que contenía la declaración citada en Sls. IX, 9, 10:—«En un pasaje del quinto fargar<i>d</i> del Pâ<i>g</i>ôn se declara que _uno_ menciona estas características de cuatro tipos de adoración de los seres sagrados:—uno es aquel cuyo Avesta es correcto, _pero_ el hombre es malo; el segundo es aquel cuyo Avesta es defectuoso, _pero_ el hombre es bueno; el tercero es aquel cuyo Avesta es correcto, _y_ el hombre es bueno; _y_ el cuarto es aquel cuyo Avesta es defectuoso, _y_ el hombre es malo. _Aquel cuyo Avesta es correcto, _pero_ el hombre malo, los arcángeles se acercarán y lo escucharán, <span id="p467"><sup><small>[ p. 467 ]</small></sup></span> _pero_ no aceptéis; _aquello_ cuyo Avesta es defectuoso, _pero_ el hombre bueno, los arcángeles _y_ los seres sagrados se acercarán, _pero_ no escucharán, _y_ aceptarán; _aquello_ cuyo Avesta es correcto, _y_ el hombre bueno, los arcángeles _y_ los seres sagrados se acercarán, vendrán a ellos, escucharán y aceptarán; _y aquello_ cuyo Avesta es defectuoso, _y_ el hombre malo, no se acercarán, no escucharán y no aceptarán.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Pues se declara en la buena religión que, cuando ocultan un cadáver bajo tierra, Spendârma<i>d</i> [^3], el arcángel, se estremece; es tan severo como lo sería una serpiente o un escorpión para cualquiera que duerma en privado [^4], y es también lo mismo para la tierra. 3. Cuando haces que un cadáver <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> quede bajo tierra como si fuera visible, liberas la tierra de esa aflicción.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

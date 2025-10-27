@@ -64,6 +64,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 18\. Et dans ce Zaothra avec ce Baresman, je désire approcher tous les saints Yazads avec mes louanges ; oui, même tous les seigneurs de l'ordre rituel, Hâvani à son époque, et Sâvanghi à son époque, et tous les plus grands seigneurs du rituel à leurs époques appropriées.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

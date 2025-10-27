@@ -59,6 +59,8 @@ Ce Gâtha, composé de sept chapitres du Yasna (XXVIII-XXXIV), tire son nom de l
 
 Une analyse et un résumé général précèdent chaque chapitre, plus pratique que de les regrouper tous ensemble. Il est rappelé au lecteur que le rythme de l'original, autant qu'on puisse raisonnablement le supposer, est quelque peu imité dans certaines traductions.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

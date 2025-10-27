@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. One sacred cake, which is in propitiation of the good Vâê [^8], is, moreover, on this account: whereas the bad Vâê [^9] is a despoiler and destroyer, even so the good Vâê is a resister (kûkhshî<i>d</i>âr), and likewise encountering the bad Vâê; _he_ is also a diminisher (vizû<i>d</i>âr) of his abstraction of life, <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> and a receiver and protection of life, on account of the sacred cake [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

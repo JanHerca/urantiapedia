@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 16\. ‘For the existence of renunciation _of sin_ the special thing is this, that _one_ commits no sin voluntarily; (17) and if, through folly, or weakness and ignorance, a sin occurs, he is then in renunciation _of sin_ before the high-priests and the good. 18. And after that, _when_ [^7] he does not commit it, then that sin which is committed by him becomes thus a sweeping (êsvârakŏ) [^8] from his body; (19) just as the wind which is hasty and mighty, when it comes swift and strong, sweeps so over the plain that it carries away every single blade of grass (gîyyâkî<i>k</i>akŏ-1) and anything which is broken _in_ that place.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

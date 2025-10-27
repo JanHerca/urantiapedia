@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Mais s'ils ne célèbrent pas la fête sacrée, _la consécration des_ gâteaux sacrés, le cérémonial et les bénédictions, les esprits resteront pour eux en ce lieu depuis l'aube jusqu'à la fin d'une journée, et garderont l'espoir que « peut-être ils se souviendront de nous ». 6. Alors, s'ils ne les rappellent pas [^3] au souvenir, les âmes se tourneront vers le haut de ce lieu, monteront très vite et diront : « Ô créateur Hôrmazd ! Elles ne savent pas que nous sommes tels que nous sommes [^4], et qu'il leur est nécessaire [^5] de venir dans ce monde, et dans ce monde, elles ne donneront d'acquittement à personne. 7. Pour elles, les bonnes œuvres sont nécessaires pour _consacrer_ les gâteaux sacrés et _célébrer_ la fête sacrée et les bénédictions ; elles n'en ont pas besoin pour des gens comme nous. 8. Pourtant (va lîkin), s'ils avaient maintenu un lieu pour [^6] le devoir de ces jours-là, nous aurions détourné d'eux des malheurs de diverses sortes ; mais, comme ils n'ont pas maintenu [^7] l'observance de nous dans le devoir de ce jour, nous ne pouvons pas venir en amitié dans cette maison. » <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> 9. Ils disent cela, puis se détournent avec colère et s'éloignent de cet endroit.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -670,6 +670,8 @@ And from the seven, three were selected, and from the three, one only, named Vî
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

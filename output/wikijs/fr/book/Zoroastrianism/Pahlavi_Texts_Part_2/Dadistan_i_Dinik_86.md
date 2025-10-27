@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. _Quant_ à ceux qui, par ferveur dans l'accomplissement de ce qui leur est ordonné, demandent moins pour tous les rites religieux et n'ont pas obtenu [^5] même ce qui leur est dû, ce n'est pas comme s'ils en commandaient pour les démons [^6]. 8. Et la honte aussi des ordonnateurs de bonnes œuvres tièdes est l'exaltation de la profession des disciples ; et son progrès insuffisant devient la paralysie du cérémonial des êtres sacrés pour sauver les âmes des bons du mortel (mar).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

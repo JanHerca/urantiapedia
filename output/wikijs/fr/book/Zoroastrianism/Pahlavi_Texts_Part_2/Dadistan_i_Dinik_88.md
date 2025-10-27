@@ -48,6 +48,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 12\. Et plus semblables aux anciens sceptiques (vimânakŏ) _sont_ devenus les disciples, parmi lesquels désaccords _et_ inimitiés sont produits, comme il est écrit dans le même écrit (khadû-gûn nâmakŏ) [^13] ; _et_, à cause des paroles d'avertissement, ceux-ci _deviennent_ envie et méchanceté pour les disciples, _et_ trouble _et_ désaccord moins convenables parmi vous et plus querelleurs à votre sujet. 13. Et à l'époque _où existait un grand salaire, _ils_ se disputèrent avec celui à cause de la grandeur _et_ de l'abondance de son salaire dont leur conflit était causé, l'un avec l'autre, par envie ; et maintenant aussi, ils [toujours](errata_htm.html) se querellent _au sujet_ de son salaire insuffisant, par lequel ils les tenteront, à cause de _son_ insuffisance, au nom d'un moyen de préserver la vie, comme l'a montré ma métaphore dans l'autre chapitre [^14]. 14. Lorsque ceux qui, par besoin d'emploi dans les rites_ de la religion, ou les récitations [^15] <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> qui en sont la sagesse, voudraient à la fois produire de l'inimitié, et les amis de la religion, sont pour chacun des deux côtés, _il_ est important de veiller à obtenir le pardon, les bons égards, et le progrès des élus (pasandakânŏ) dans le devoir des fidèles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

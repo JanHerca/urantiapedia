@@ -66,6 +66,8 @@ II. One is this, that the ancients acquainted with religion _have_ communicated 
 
 29\. Then, because the glory for this belt of ours, which is called the Kûstîk and is worn on the middle of the body, remains unreleased (a<i>v</i>î-vûkht) from the angels, who are givers of glory, _and from_ men who are glorious—which is explained as a similitude _and_ sample of fortunes (bâharakŏîhâ) among worldlings, even those _who are_ actually primitive creatures likewise [^38]\—it _has_, therefore, seemed comely and desirable. 30. And their heart, will, knowledge, and purpose are as much for it as that which is perceptible where, even apart from those of the good religion who shall tie the _sacred thread_\-girdle with the scripture formula, _some_ of the faiths of all countries, except those who are unbelted, possess the religious custom [^39]. 31. Also outside the seat of the existence of faith [^40] all men have the waist, or the palms of the hands [^41], or similar joints for a girdle (kûstîkŏ); _and_ it is deemed comely, desirable, and convenient for work to wear _it_. 32. And _it_ is manifestly the lot (dakŏ) of the thoroughly-praising one whose own desire is truth and the enjoyment of welfare, _it is_ a token of the service of the sacred beings, and a sign of walking _in_ the commands of religion, <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> which they shall tie on account of the superior beings (pâshûmân) with the proper formula, more particularly _with_ that which _one_ utters when _there is_ reliance _upon_ the scripture itself.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

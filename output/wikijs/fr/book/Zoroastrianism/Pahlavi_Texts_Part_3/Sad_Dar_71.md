@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Car il affirme, dans le commentaire du Vendîdâ<i>d</i> [^2], qu'il est nécessaire de démolir l'habitation, la maison et le séjour de quiconque a [^3] mangé de la matière morte, et d'arracher son cœur de son corps, et il est nécessaire de lui arracher les yeux. 3. Et avec ces tourments qu'ils accomplissent sur lui, son âme est en enfer jusqu'à la résurrection.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

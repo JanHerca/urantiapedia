@@ -52,6 +52,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 22\. There is also an abundant joyfulness, of which no example is appointed (vakhtô) in the world from the beginning, but it comes thus to those who are heavenly ones _and_ those of the supreme heaven; and of which even the highest worldly happiness and pleasure are no similitude, except through the possession of knowledge which is said _to be_ a sample _of it_ for worldly beings. <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> 23. And of _its_ indications by the world the limited with the unlimited, the imperishable with perishableness, the consumable with inconsumableness are then no equivalent similitudes of it [^30]. 24. And _it is_ the limited, perishable, and consumable _things_ of the world‘s existence which are the imperishable _and_ inconsumable _ones_ of the existence of endless light [^31], the indestructible _ones_ of the all-beneficial and ever-beneficial space (gûn<i>g</i>) [^32], and the all-joyful _ones_\—without a single day’s vexation—of the radiant supreme heaven (garô<i>d</i>mânô). 25: And the throne (gâs) of the righteous in heaven and the supreme heaven is the reward he obtains first, and is his until the resurrection, when even the world becomes pure _and_ undisturbed; _he_ is himself unchangeable thereby, _but_ through the resurrection he obtains what is great and good and perfect, _and_ is eternally glorious.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

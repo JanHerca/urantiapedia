@@ -40,6 +40,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 5\. Y adoramos la Buena Mente (del Señor), y Su Poder Soberano, y la Buena Fe, la buena ley de nuestro ahorro, y la Piedad, la mente dispuesta (dentro de Tu pueblo).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

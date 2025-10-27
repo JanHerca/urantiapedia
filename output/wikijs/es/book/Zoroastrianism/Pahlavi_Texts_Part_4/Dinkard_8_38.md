@@ -79,6 +79,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 63\. Sobre la proporción de carne con el pan en expiación por la privación de alimento [^18]. 64. Sobre una ordalía severa y otra que no lo es; y la evidencia de absolución por su cumplimiento. 65. Sobre los secretos de la religión y el pecado debido a su revelación (gushûftŏ). 66. Sobre el pecado de hablar mal de las esposas de otros. 67. Sobre la extensión de la casa, aldea, comunidad y provincia más inferior; y la de la más superior. 68. Y sobre cuál era el modo de residencia de Frashô<i>s</i>tar y <i>G</i>âmâsp [^19] en un ejército de saqueo (lâî<i>s</i>kar), y sus hábitos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

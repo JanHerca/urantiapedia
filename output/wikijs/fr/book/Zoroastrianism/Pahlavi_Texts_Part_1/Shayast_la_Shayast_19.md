@@ -69,6 +69,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 15\. La religion est aussi liée au Yathâ-ahû-vairyô que les cheveux sont davantage liés à la gloire du visage ; n'importe qui, en effet, redouterait (samâ<i>d</i>) de séparer la pilosité _et_ la gloire du visage.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

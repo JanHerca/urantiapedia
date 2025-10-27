@@ -45,6 +45,8 @@ S. A. KAPADIA.
 Inner Temple, London,
 &nbsp;&nbsp;&nbsp;&nbsp;_January_ 1_st_, 1905.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

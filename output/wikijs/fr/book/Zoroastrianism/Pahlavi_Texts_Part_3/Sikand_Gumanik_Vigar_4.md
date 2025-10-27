@@ -75,6 +75,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 108\. De ce que vous demandez aussi sur l'illimité et la limitation, je l'ai écrit ci-dessous [^56], par la volonté des êtres sacrés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

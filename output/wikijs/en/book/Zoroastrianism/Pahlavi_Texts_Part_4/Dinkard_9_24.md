@@ -60,6 +60,8 @@ _they_ considered _it_ the shoulder _of_ [^7] Arekdvîksûr [^8], _and his_ ches
 
 21\. Righteousness is perfect excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

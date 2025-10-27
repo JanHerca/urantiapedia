@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 10\. La rétribution est ainsi parfaite lorsque, par renonciation au péché qui attaque, une efficacité appropriée est préparée et devient un vestige (vûnakŏ) du péché de celui qui l'a commis. 11. Quiconque n'est pas en mesure d'organiser cela de cette manière doit implorer les prières de trois hommes avec un don de richesse, et doit célébrer sa cérémonie de Nônâbar [^19], ou il doit consacrer un gâteau sacré chaque jour dans le lieu de cérémonie, manger de la nourriture légalement et ordonner le maintien approprié de l'efficacité. 12. L'assistance consistant à accomplir les rituels appropriés en ordonnant la cérémonie de Nâbar, et l'existence utile consistant à décharger le fardeau des difficultés d'une famille nombreuse me semblent appropriées pour l'expiation d'un tel péché, par la volonté des êtres sacrés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

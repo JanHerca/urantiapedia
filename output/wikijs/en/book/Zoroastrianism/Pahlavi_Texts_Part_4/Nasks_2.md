@@ -46,6 +46,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 9\. And after those 6000, which are the 6000 years, are the Airyaman [^28] of Ashavahi<i>s</i>t _and_ the accompanying sayings (ham-v<i>â</i><i>k</i>ŏ) which are at the end of the Gâthas; those are the 57 years of Sôshâns [^29], and for the sake of them, too, are the Airyaman _and_ from the praise of righteousness at _its_ end _to_ the consecration of the Airyaman, originally 57 words (mârîk), because the praise of righteousness for the Airyaman is 12, and the consecration of the Airyaman is 21, _of_ the original 57 [^30].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

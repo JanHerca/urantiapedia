@@ -44,6 +44,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 4\. The formation of custom, and the indications which _have_ come to manifestation and _will_ arrive at various periods; and the proclamation of these, too, by <i>G</i>âmâsp [^15], from the teaching of Zaratû<i>s</i>t, is what he wrote, together with the Avesta and Zand, upon oxhides, and it was written _with_ gold, and kept in the royal treasury [^16]. 5. And it was from it the high-priests of the rulers made many copies and afterwards, too, it is from it that it happened, both to the less intelligent and the corrupters, that _they_ were introducing different opinions _and_ different views.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

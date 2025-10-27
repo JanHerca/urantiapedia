@@ -110,6 +110,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 \[40. The rule is this, as Âtarô-pâ<i>d</i> _son of_ Mâraspend [^70] said when every one passed away:—‘The mouth-veil [^71] and also the clothing are to be well <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> set _apart_ from the gifts (dasarân), so that his soul may become easier.’ Completed in peace and pleasure.\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

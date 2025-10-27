@@ -52,6 +52,8 @@ dateCreated: 2025-10-10T14:41:36Z
 37\. «El nido del pájaro grifo [^33] está en el árbol. opuesto al daño, el de muchas semillas [^34]. 38. Siempre que se eleva, mil ramitas brotarán de ese árbol, (39) y cuando se posa, rompe las mil ramitas y muerde la semilla de ellas. 40. Y el pájaro <i>K</i>înâmrô<i>s</i> [^35] se posa igualmente _en_ ​​esa vecindad; (41) y su obra es esta, que recoge esas semillas que son mordidas del árbol de muchas semillas, que se opone al daño, y las esparce (pargandê<i>d</i>) _las_ allí donde Tî<i>s</i>tar [^36] se apodera del agua; (42) de manera que, mientras Tî<i>s</i>tar se apodera del agua, _junto_ con aquellas semillas de todas clases, las hará llover _sobre el mundo_ con la lluvia [^37].»
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

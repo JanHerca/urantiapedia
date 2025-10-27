@@ -174,6 +174,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -200,56 +202,56 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^550]: 110:1 Sîrôzah I, 14.
+[^529]: 110:1 Sîrôzah I, 14.
 
-[^551]: 111:1 Doubtful; possibly ‘the friend in health, the child in health.’
+[^530]: 111:1 Doubtful; possibly ‘the friend in health, the child in health.’
 
-[^552]: 111:2 Doubtful.
+[^531]: 111:2 Doubtful.
 
-[^553]: 111:3 Cf. [p. 58](../Yasts_5#p58), note [1](../Yasts_5#fn294).
+[^532]: 111:3 Cf. [p. 58](../Yasts_5#p58), note [1](../Yasts_5#fn294).
 
-[^554]: 111:4 Cf. [59](../Yasts_5#p59), note [2](../Yasts_5#fn298).
+[^533]: 111:4 Cf. [59](../Yasts_5#p59), note [2](../Yasts_5#fn298).
 
-[^555]: 111:5 To hell.
+[^534]: 111:5 To hell.
 
-[^556]: 112:1 As above, [p. 30](../Yasts_1#p30).
+[^535]: 112:1 As above, [p. 30](../Yasts_1#p30).
 
-[^557]: 112:2 § 7 = §§ 1-2.
+[^536]: 112:2 § 7 = §§ 1-2.
 
-[^558]: 112:3 §§ 8-10 = Yt. XVII, 28-30; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-27.
+[^537]: 112:3 §§ 8-10 = Yt. XVII, 28-30; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-27.
 
-[^560]: 113:1 Yt. V, 34; X, 24; XVII, 34.
+[^538]: 113:1 Yt. V, 34; X, 24; XVII, 34.
 
-[^561]: 114:1 §§ 17-19 = Yt. XVII, 37-38.
+[^539]: 114:1 §§ 17-19 = Yt. XVII, 37-38.
 
-[^562]: 114:2 Cf. Yasna XI, 7 \[20-21\]. The destruction of the fiends, being one of the principal effects of sacrifice, is ascribed to Haoma as the most powerful element in the sacrifice. In the Shâh Nâmah, the god Haoma has been turned into a hermit who, living near the cave in which Afrâsyâb had taken refuge (see above, Yt. V, 41), overhears his lamentations, takes him by surprise, binds him, and delivers him into the hands of Khosrav (Études Iraniennes, II, 227).
+[^540]: 114:2 Cf. Yasna XI, 7 \[20-21\]. The destruction of the fiends, being one of the principal effects of sacrifice, is ascribed to Haoma as the most powerful element in the sacrifice. In the Shâh Nâmah, the god Haoma has been turned into a hermit who, living near the cave in which Afrâsyâb had taken refuge (see above, Yt. V, 41), overhears his lamentations, takes him by surprise, binds him, and delivers him into the hands of Khosrav (Études Iraniennes, II, 227).
 
-[^563]: 114:3 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^541]: 114:3 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^564]: 114:4 See above, [p. 66](../Yasts_5#p66), note [2](../Yasts_5#fn322).
+[^542]: 114:4 See above, [p. 66](../Yasts_5#p66), note [2](../Yasts_5#fn322).
 
-[^565]: 114:5 See [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
+[^543]: 114:5 See [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
 
-[^566]: 114:6 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^544]: 114:6 See [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^567]: 114:7 Doubtful (narava, as opposed to nara). Aghraêratha (Aghrêrath) was a brother of Afrâsyâb's; he was a righteous man, and Afrâsyâb killed him for his having saved the Iranian king Mino<i>k</i>ihr with his army, when captive in the Padashkhvâr mountains (Bundahi<i>s</i> XXXI, 21). Yet he is still living as an immortal in the land of Saukavastân, under the name of Gôpatshâh (the king of the bulls); ‘from foot to mid-body he is a bull, and from mid-body to p. 115 the top he is a man; at all times he stays on the sea-shore, and always performs the worship of God, and always pours holy-water into the sea’ (Minokhired LXII, 31 seq., tr. West; Bund. XXIX, 5); according to Bund. XXXI, 20, Aghrêrath was not Gôpatshâh, he was his father. Cf. Yt. XIX, 93.
+[^545]: 114:7 Doubtful (narava, as opposed to nara). Aghraêratha (Aghrêrath) was a brother of Afrâsyâb's; he was a righteous man, and Afrâsyâb killed him for his having saved the Iranian king Mino<i>k</i>ihr with his army, when captive in the Padashkhvâr mountains (Bundahi<i>s</i> XXXI, 21). Yet he is still living as an immortal in the land of Saukavastân, under the name of Gôpatshâh (the king of the bulls); ‘from foot to mid-body he is a bull, and from mid-body to p. 115 the top he is a man; at all times he stays on the sea-shore, and always performs the worship of God, and always pours holy-water into the sea’ (Minokhired LXII, 31 seq., tr. West; Bund. XXIX, 5); according to Bund. XXXI, 20, Aghrêrath was not Gôpatshâh, he was his father. Cf. Yt. XIX, 93.
 
-[^568]: 115:1 §§ 21-22 = Yt. XVII, 41-42.
+[^546]: 115:1 §§ 21-22 = Yt. XVII, 41-42.
 
-[^569]: 115:2 See [p. 114](#p114), note [^545].
+[^547]: 115:2 See [p. 114](#p114), note 545.
 
-[^570]: 116:1 §§ 25-26 = XVII, 44-45; cf. Yt. V, 104.
+[^548]: 116:1 §§ 25-26 = XVII, 44-45; cf. Yt. V, 104.
 
-[^571]: 116:2 Hutaosa was the wife of king Vî<i>s</i>tâspa; cf. Yt. XV, 37.
+[^549]: 116:2 Hutaosa was the wife of king Vî<i>s</i>tâspa; cf. Yt. XV, 37.
 
-[^572]: 117:1 §§ 29-31-Yt. XVII, 49-51.
+[^550]: 117:1 §§ 29-31-Yt. XVII, 49-51.
 
-[^573]: 117:2 ? <i>G</i>ainyâvara<i>t</i>.
+[^551]: 117:2 ? <i>G</i>ainyâvara<i>t</i>.
 
-[^574]: 117:3 See above, [p. 79](../Yasts_5#p79), note [4](../Yasts_5#fn392).
+[^552]: 117:3 See above, [p. 79](../Yasts_5#p79), note [4](../Yasts_5#fn392).
 
-[^577]: 117:4 Ἅπαξ λεγόμενος.
+[^553]: 117:4 Ἅπαξ λεγόμενος.
 
-[^576]: 117:5 Mentioned Yt. V, 109 and XIX, 87.
+[^554]: 117:5 Mentioned Yt. V, 109 and XIX, 87.
 
-[^578]: 117:6 The <i>H</i><i>v</i>yaonas seem to have been the Chionitae, a bellicose tribe, near the land of Gilan, often at war with the first Sassanides (Amm. Marcellinus XVII, 5). The name of the Varedhakas reminds one of the Vertae who are mentioned once in company with the Chionitae (ibid. XIX, 1); but their geographical situation is not ascertained. In any case the proximity of the Dâitya (§ 29) shows that both people must have inhabited the western coast of the Caspian sea.
+[^555]: 117:6 The <i>H</i><i>v</i>yaonas seem to have been the Chionitae, a bellicose tribe, near the land of Gilan, often at war with the first Sassanides (Amm. Marcellinus XVII, 5). The name of the Varedhakas reminds one of the Vertae who are mentioned once in company with the Chionitae (ibid. XIX, 1); but their geographical situation is not ascertained. In any case the proximity of the Dâitya (§ 29) shows that both people must have inhabited the western coast of the Caspian sea.

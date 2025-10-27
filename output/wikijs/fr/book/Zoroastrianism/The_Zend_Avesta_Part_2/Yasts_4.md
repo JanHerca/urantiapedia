@@ -86,6 +86,8 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 « Donnez à cet homme [^272] » la luminosité et la gloire, . . . . donnez-lui la demeure lumineuse, toute heureuse et bienheureuse des saints. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -112,50 +114,50 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 ## Notes de bas de page
 
-[^262]: 48:4 Vend. XXII, 20 \[54\]
+[^249]: 48:4 Vend. XXII, 20 \[54\]
 
-[^263]: 48:5 Comme ci-dessus, [p. 22](../Yasts_1#p22) et notes.
+[^250]: 48:5 Comme ci-dessus, [p. 22](../Yasts_1#p22) et notes.
 
-[^264]: 49:1 Sîrôzah I, 6.
+[^251]: 49:1 Sîrôzah I, 6.
 
-[^265]: 49:2 Sîrôzah II, 6.
+[^252]: 49:2 Sîrôzah II, 6.
 
-[^269]: 49:3 Noms des Daêvas. Selon le traducteur parsi du Dînkart (vol. ii, p. 65), Ha<i>s</i>i est « celui qui rend sceptique » ; Ba<i>s</i>i est « celui qui donne naissance à la maladie aboyante » ; Saêni est « celui qui cause du mal » ; Bû<i>g</i>i est « celui qui s'attaque à ».
+[^253]: 49:3 Noms des Daêvas. Selon le traducteur parsi du Dînkart (vol. ii, p. 65), Ha<i>s</i>i est « celui qui rend sceptique » ; Ba<i>s</i>i est « celui qui donne naissance à la maladie aboyante » ; Saêni est « celui qui cause du mal » ; Bû<i>g</i>i est « celui qui s'attaque à ».
 
-[^270]: 49:4 La traduction de ce paragraphe est assez conjecturale.
+[^254]: 49:4 La traduction de ce paragraphe est assez conjecturale.
 
-[^271]: 50:1 Si je suis du nombre des fidèles.
+[^255]: 50:1 Si je suis du nombre des fidèles.
 
-[^272]: 50:2 Le Génie de la Vérité, Yt. XII.
+[^256]: 50:2 Le Génie de la Vérité, Yt. XII.
 
-[^273]: 50:3 Me libérera comme l'un des fidèles.
+[^257]: 50:3 Me libérera comme l'un des fidèles.
 
-[^274]: 50:4 Sic; cf. § 2.
+[^258]: 50:4 Sic; cf. § 2.
 
-[^275]: 50:5 Starâi ; cf. Études Iraniennes, II, 135.
+[^259]: 50:5 Starâi ; cf. Études Iraniennes, II, 135.
 
-[^276]: 50:6 Comment reconnaît-on le méchant du fidèle ?
+[^260]: 50:6 Comment reconnaît-on le méchant du fidèle ?
 
-[^277]: 50:7 Marâo : Phl. ô<i>s</i>môrît, Sansk. adhésif; safarûnît, poshayati (pustakayati ? Yasna XIX, 6 \[9\]).
+[^261]: 50:7 Marâo : Phl. ô<i>s</i>môrît, Sansk. adhésif; safarûnît, poshayati (pustakayati ? Yasna XIX, 6 \[9\]).
 
-[^278]: 50:8 Les sillons pour la purification de Bareshnûm (Vend. IX).
+[^262]: 50:8 Les sillons pour la purification de Bareshnûm (Vend. IX).
 
-[^279]: 50:9 Douteux : gaozaiti ; lire yaozdâiti (? il purifie).
+[^263]: 50:9 Douteux : gaozaiti ; lire yaozdâiti (? il purifie).
 
-[^282]: 51:1 Pour accomplir le Bareshnûm ; cf. Vend. XXII, 20 \[54\].
+[^264]: 51:1 Pour accomplir le Bareshnûm ; cf. Vend. XXII, 20 \[54\].
 
-[^283]: 51:2 Lecture de nasûm kereta ; cf. nasu-kereta (Vend. VII, 26 \[67\]).
+[^265]: 51:2 Lecture de nasûm kereta ; cf. nasu-kereta (Vend. VII, 26 \[67\]).
 
-[^284]: 51:3 Voir ci-dessus, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
+[^266]: 51:3 Voir ci-dessus, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
 
-[^285]: 51:4 Sao<i>k</i>a; cf. Yt. XXII, 13.
+[^267]: 51:4 Sao<i>k</i>a; cf. Yt. XXII, 13.
 
-[^286]: 51:5 Du<i>z</i>avâ<i>t</i> : la lecture et le sens sont tous deux douteux. M. West suggère « envoie en enfer » (lecture du<i>z</i>anghvâ<i>t</i> ou du<i>z</i>angha<i>t</i>).
+[^268]: 51:5 Du<i>z</i>avâ<i>t</i> : la lecture et le sens sont tous deux douteux. M. West suggère « envoie en enfer » (lecture du<i>z</i>anghvâ<i>t</i> ou du<i>z</i>angha<i>t</i>).
 
-[^287]: 51:6 Douteux.
+[^269]: 51:6 Douteux.
 
-[^288]: 51:7 Lecture d'ashava au lieu d'asô ava.
+[^270]: 51:7 Lecture d'ashava au lieu d'asô ava.
 
-[^289]: 51:8 Cf. Yt. XIV, 46.
+[^271]: 51:8 Cf. Yt. XIV, 46.
 
-[^290]: 52:1 Qui aura sacrifié à Haurvatâ<i>t</i>.
+[^272]: 52:1 Qui aura sacrifié à Haurvatâ<i>t</i>.

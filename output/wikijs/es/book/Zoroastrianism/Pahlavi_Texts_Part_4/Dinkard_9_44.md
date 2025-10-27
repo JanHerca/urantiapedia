@@ -53,6 +53,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 22\. Es la excelencia de la justicia que es perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

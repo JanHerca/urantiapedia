@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : il convient de ne pas diminuer un don lorsqu'il s'agit du don [^1] pour un cérémonial, et les raisons en sont multiples. 3. L'une d'elles est qu'un don est l'argent qui, dans une autre bonne œuvre, suffit à l'accomplissement de la bonne œuvre, et la bonne œuvre d'un don juste [^2] est une grande bonne œuvre, et ne pas la diminuer est une valeur sûre parmi les explicateurs. 4. Lorsque la fête sacrée [^3] et le don pour le cérémonial sont fournis en excès, même ce qui est un excès de don est un excès de libéralité pour les exécutants du cérémonial, et a réalisé (frârâstŏ) un excès de bonnes œuvres qui est louable.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

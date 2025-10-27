@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 5\. De los cuatro hermanos _de_ Zaratû<i>s</i>t, los nombres de los dos anteriores a Zaratû<i>s</i>t _eran_ Ratû<i>s</i>tar y Rangû<i>s</i>tar, y de los dos posteriores a _él_ No<i>d</i>arîgâ y Nîvê<i>d</i>i<i>s</i> [^5]. 6. La posición intermedia de Zaratû<i>s</i>t se debe a que se le produce en esa época, como un intermedio entre los narradores primitivos y los narradores posteriores, de modo que tres milenios le precedieron y tres le siguieron. 7. De modo que él _ha_ prescrito a las criaturas de qué manera enseñaría a los antiguos lo que _había_ ocurrido, y de qué manera _también_ debe hacerse lo que _ocurrirá_; como se afirma en los Gâthas [^6] así: «¡Ambas te pido, <i>Oh</i> Aûha<i>r</i>ma<i>z</i><i>d</i>! ¿Es lo que ha sucedido hasta ahora y lo que sucederá en adelante?»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. For Zaratu<i>s</i>t enquired of Hôrmazd thus: ‘To whom is it proper to teach Pahlavi?’ 3. _And_ Hôrmazd, the good _and_ propitious, gave a reply thus: ‘_To_ every one who is of thy family (nasl), an officiating priest, a high-priest, a _spiritual_ chief, and every one who is an intelligent priest. 4. [^1] Besides these that I have mentioned, if _one_ teaches _it_ to others [^2] it is a great sin for him; _and_ if he has performed many duties _and_ good works, the end for him may _still_ be hell.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 13\. Y es necesario _que_ una _mujer_ menstruante no pase por el extremo [^13] de nada lavado ceremonialmente, porque, si tiene mil codos (gaz) _de largo_, lo contamina por completo, _y_ se vuelve impuro. 14. Con cualquiera que sostenga un puesto de varitas sagradas [^14] no debe decir ni una palabra; _y_ si un sacerdote sostiene las ramitas sagradas en su mano, _y_ una _mujer_ menstruante dice algunas palabras (ba'hʓ̣ê) [^15] desde lejos, o camina a tres pasos de una mujer menstruante, ella lo hace [^16] impuro.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

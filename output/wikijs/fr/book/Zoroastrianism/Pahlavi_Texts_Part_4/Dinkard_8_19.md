@@ -71,6 +71,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 62\. À propos de l'autorisation de tirer une flèche sur un individu digne de mort, cette flèche étant remise pour l'avoir tué à quiconque à qui l'individu digne de mort est confié, se fait suppliant (lânakŏ) et s'éloigne à mi-distance, et on lui portera assistance et on l'énervera pour cela, si, malgré les trois mots [^19] qu'il prononce, on ne le rend pas. 63. À propos d'un individu digne de mort qui est préservé avec une grande sagesse lorsque le témoignage qu'on donne auparavant à son sujet provient d'un autre individu digne de mort, et tout ce qui concerne le même sujet. 64. À propos des preuves relatives à la sorcellerie et à la destruction d'un homme juste, c'est-à-dire dans quelle mesure <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> elles sont certaines ou douteuses. 65. De l'exécution d'une personne digne de mort pour avoir entretenu un penchant pour la sorcellerie et s'être moquée de la sorcellerie, et de tout ce qui touche au même sujet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

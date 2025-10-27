@@ -42,6 +42,8 @@ Para comprender la relación entre estas dos clases de escrituras sagradas parsi
 
 Respecto a la sacralidad de estas traducciones pahlavi, a ojos de los parsis, no cabe duda alguna, siempre que no se demuestre su inconsistencia con el texto <span id="pxi"><sup><small>[ p. xi ]</small></sup></span> original del Avesta. Pero además de estas traducciones, existe otra clase de escritos religiosos pahlavi cuya autoridad es más discutible. Estos escritos son traducciones y zands de textos del Avesta ya no existentes, o bien contienen las opiniones y decisiones de sumos sacerdotes de épocas posteriores, cuando el idioma pahlavi estaba en decadencia. Tales escritos difícilmente serían considerados de autoridad indiscutible por ningún parsi actual, a menos que coincidieran con sus propias opiniones preconcebidas. Pero para quienes no lo conocen, tienen el inestimable valor de proporcionar numerosos detalles de tradiciones y costumbres religiosas que serían vanamente buscados en otros lugares, o de ser registros contemporáneos de las ideas religiosas de los parsis en la decadencia de su fe mazdayasniana. Este volumen se ocupa de algunos de estos escritos; pero antes de describirlos con más detalle, conviene explicar brevemente la lengua pahlavi en la que están escritos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

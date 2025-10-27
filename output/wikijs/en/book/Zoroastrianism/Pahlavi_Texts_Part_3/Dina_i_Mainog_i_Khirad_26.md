@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. ‘The ill-tempered is less evil [^2] than the ill-informed; (8) because the ill-tempered, except by a decree, is not able to seize anything away from any one; (9) and _as to_ the ill-informed man, his desire of every kind is then [^3] for oppression and plunder. 10. Concerning him who is ill-informed _it_ is declared that, apart from predestination, he is born _free_ from fresh understanding [^4]’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

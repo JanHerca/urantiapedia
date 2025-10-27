@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. _Y_, mientras la persona esté de viaje, _deberá_ ordenar la consagración de este pastel sagrado, en su casa, cada día de Bahirâm [^4], para que esa persona _pueda_ llegar sana y salva (salâmat) a _su_ casa. 4. <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> La fórmula dedicatoria es esta: Amahê hutâ<i>s</i>tahê [^5]—_y_ la conoce el propio sacerdote.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

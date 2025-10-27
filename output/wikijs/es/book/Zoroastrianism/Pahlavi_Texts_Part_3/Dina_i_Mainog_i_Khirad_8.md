@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 22\. «Aûha<i>r</i>ma<i>z</i><i>d</i> desea el bien y nunca aprueba ni contempla el mal. 23. Aharman desea el mal y no medita ni aprueba nada bueno en absoluto. 24. Aûha<i>r</i>ma<i>z</i><i>d</i>, cuando lo desea, puede alterar lo que respecta a las criaturas de Aharman, y Aharman, también, es quien, cuando \[lo desea\] [^13], _puede hacerlo_ lo mismo respecto a las criaturas de Aûha<i>r</i>ma<i>z</i><i>d</i>, (25) pero _él_ solo puede alterar de modo que en el efecto final _no_ haya daño a Aûha<i>r</i>ma<i>z</i><i>d</i>, (26) porque la victoria final es de Aûha<i>r</i>ma<i>z</i><i>d</i>. 27. Porque se declara que “los Yim [^14] y <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Frê<i>d</i>ûn [^15] y Kâî-Ûs [^16] de Aûha<i>r</i>ma<i>z</i><i>d</i> son creados inmortales, (28) y Aharman los alteró de tal manera que es sabido. 29. Y Aharman contempló que Bêvarâsp [^17], Frâsîyâk [^18] y Alexander [^19] debían ser inmortales, (30) pero Aûha<i>r</i>ma<i>z</i><i>d</i>, para gran ventaja, los alteró de tal manera que "se declara."
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

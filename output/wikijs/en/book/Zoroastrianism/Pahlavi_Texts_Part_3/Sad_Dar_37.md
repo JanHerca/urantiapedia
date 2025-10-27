@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 9\. Therefore it is necessary to make an effort, so that they _may_ maintain the guardian spirits properly, and the souls of _their_ fathers and mothers and relations _may_ exist with honour from them. 10. For if they retire with dissatisfaction they utter a curse, _and_, as the soul departs from this world, they administer reproaches to it, and speak _thus:_ ‘Thou thinkest that they wish continually to make a way [^7] for thee _to_ that place, _but_ it is not necessary for thee to come into this world [^8]. 11. Now, hadst thou performed duty _and_ good works on our behalf, and hadst thou recollected us, we would also have come to thy assistance, and would have released thee from <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> this fearful position.’ 12. And that _soul_ experiences much repentance, and has no advantage whatever _from it_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

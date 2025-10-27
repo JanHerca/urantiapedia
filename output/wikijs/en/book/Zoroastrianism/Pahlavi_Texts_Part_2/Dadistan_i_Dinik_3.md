@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 19\. A more concise reply is this, that a righteous man is the creature by whom is accepted that occupation which is provided for him, and is fully <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> watchful in the world as to his not being deceived by the rapacious fiend. 20. And as a determiner, by wisdom, of the will of the creator—_one_ who is himself a propitiator and understander, and a promoter of the understanding of goodness—and of whatever _pertains_ to him (the creator), _he_ is a giver of heed thereto; and it is necessary for him to be thus, so that such greatness _and_ goodness may also be his more securely in the spiritual _existence_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

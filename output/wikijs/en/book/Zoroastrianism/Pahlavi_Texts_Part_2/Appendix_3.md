@@ -186,6 +186,8 @@ At whatever period the practice of next-of-kin marriage may have originated ther
 
 That such marriages were not unusual among other races, in ancient times, we learn from many tales in Greek and Roman mythology, from the usual practice of the Greek dynasty of the Ptolemies in Egypt, and even from the laws prohibiting such connections in Lev. xviii. 6-16, which, as laws are not made to prohibit practices that do not exist, would hardly have been written unless the children of Israel had at one time adopted the custom to some slight extent. That Parsis now deny the existence of such marriages among their ancestors proves that they no longer approve the custom, but does not affect the historical evidence of its former <span id="p430"><sup><small>[ p. 430 ]</small></sup></span> existence. Christians no longer approve the persecution and execution of women for the imaginary crime of witchcraft, but it would be both childish and useless for them to deny that their ancestors committed hundreds of such judicial murders less than two centuries ago.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

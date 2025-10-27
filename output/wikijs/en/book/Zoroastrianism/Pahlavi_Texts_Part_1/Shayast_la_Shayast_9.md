@@ -56,6 +56,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 14\. ‘O creator! how much is the duration in life of him who is dead?’ And Aûharmazd spoke thus:, ‘As much as the wing of a fly, O Zaratû<i>s</i>t the Spîtâmân! or as much as the hearing a wing unto a sightless _one_ [^27].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

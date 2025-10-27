@@ -42,6 +42,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 7\. About how the accepting of this religion _by_ the prophets before Zaratû<i>s</i>t _occurred_ [^10], how the pure _and_ saintly Zaratû<i>s</i>t of the Spîtâmas came [^11], and who _will_ afterwards come as bringers of the same pure and good religion _here_after [^12]. 8. That is, of the prophets, apostles, and accepters of the religion, _there_ were _they_ who accepted _it_ concisely _and_ completely _such_ as Gâyômar<i>d</i> was, from whom _came_ irregularly (durû<i>s</i>takŏ) _such_ as Masyê and Sîyâmak, Hâôshâng, Tâkhmôrup, Yim, Frê<i>d</i>ûn, Mânû<i>s</i><i>k</i>îhar, the Sâmân, the Kayân, and also many other leaders in _those_ times [^13]. 9. And their acceptance expressly at various times is produced for action, and thereby the adversity of the creatures is removed, benefit <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> and prosperity _are_ sought, the world is controlled, and the creator and good creations are propitiated.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

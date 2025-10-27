@@ -69,6 +69,8 @@ PB3 (con más de un siglo de antigüedad) Pâz.-Sans., n.º 3 de la Colección B
 
 R (moderna) Pahl.-Pâz.-Sans.-Pers., anteriormente perteneciente al Sr. Romer, y actualmente conservada en parte en la Biblioteca de la Oficina de la India en Londres y en parte en el n.° 10 de la Colección Müller de la Biblioteca Estatal de Múnich. Contiene los capítulos I, 25-V, 57.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

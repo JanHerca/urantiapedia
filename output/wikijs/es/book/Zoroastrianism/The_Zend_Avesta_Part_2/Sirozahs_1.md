@@ -184,6 +184,8 @@ Al eterno [^87] y soberano espacio luminoso [^88]; al brillante Garô-nmâna [^8
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

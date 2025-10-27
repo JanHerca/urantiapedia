@@ -55,6 +55,8 @@ En Vi<i>g</i>. Págs. 180, 181, se dice que 'en el Nihâ<i>d</i>ûm se afirma:�
 
 En Vig. pp. 184, 185, se dice que «_se declara por el Avesta del Nihâ<i>d</i>ûm _así:_—Âa<i>d</i> aêtahê pa<i>n</i><i>k</i>a ayara hamaspathmaidhem paiti ratûm spe<i>n</i>tay<i>a</i>u ârmatôi<i>s</i> mâunghô nôi<i>d</i> frasrâvayôi<i>d</i>:—Entonces _uno_ no canta (es decir, no invoca) el mes de (el completamente consciente) Spenda<i>r</i>ma<i>d</i> [^11] (es decir, el mes Spenda<i>r</i>ma<i>d</i>) en el reinado de esos cinco días Hatnaspa<i>d</i>mêdêm [^12]; (porque si _uno_ lo invoca_, debido al olvido, el Avesta no es aceptado).»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

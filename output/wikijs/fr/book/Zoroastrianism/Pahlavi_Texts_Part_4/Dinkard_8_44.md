@@ -93,6 +93,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 82\. C'est la justice qui est parfaite. C'est l'excellence de la justice qui est parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

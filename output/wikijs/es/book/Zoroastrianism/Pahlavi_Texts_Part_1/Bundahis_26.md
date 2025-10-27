@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 1\. Un Hâsar [^1] en el suelo es un Parasang de mil pasos de dos pies. 2. Un Parasang [^2] es una medida que un hombre perspicaz puede observar, ver una bestia _de carga y_ determinar si es negra o blanca. 3. Y la medida de un hombre son ocho palmos medianos [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

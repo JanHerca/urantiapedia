@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. Il y a différentes choses que ceux qui sont de bonne religion doivent privilégier. 8. L'une est d'exercer la libéralité envers les dignes ; la deuxième est de faire preuve de justice ; la troisième est d'être amical envers chacun ; et la quatrième est d'être sincère et véridique [^5], et de se tenir loin du mensonge. 9. Et ces quatre habitudes ('<i>h</i>aʓlat) sont les principes (aʓl) de la religion de Zaratu<i>s</i>t, et il est nécessaire, lorsque tu les écoutes toi-même, que tu n'écoutes personne d'autre [^6]. 10. Car le créateur Hôrmazd dit : « Ô Zaratu<i>s</i>t ! si tu veux devenir pur et sauvé, et que tu atteignes le lieu de la pureté, accomplis ces deux devoirs : 11. L'une d'elles est que tu préfères l'amitié de l'existence spirituelle à celle de l'existence mondaine, et que tu considères les choses du monde comme méprisables et celles de l'esprit comme précieuses ; c'est pourquoi tu recherches [^7] la gloire du monde avec mépris, et ne laisse pas l'esprit s'échapper. 12. La seconde est que tu parles vrai à chacun et que tu agis avec justice envers moi, <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> c'est-à-dire que tout ce que tu n'approuves pas pour toi-même ne l'approuve [^8] pas pour personne d'autre ; quand tu auras agi de cette manière, tu seras juste.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

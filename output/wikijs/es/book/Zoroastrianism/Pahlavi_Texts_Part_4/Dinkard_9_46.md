@@ -41,6 +41,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 5\. Es perfecta _es_ la excelencia de la justicia; es la excelencia perfecta _eso es_ la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El tema quincuagésimo cuarto es este: si alguien tiene una esposa sirvienta [^1], _y_ de ella resulta la adquisición de un hijo varón [^2], es apto para la adopción _por_ esa persona [^3], y el puente [^4] no se rompe _para_ esa persona. 2. _Pero_ si se trata de una niña, es necesario que el hombre _no sea negligente (_gh_âfil) al designar un hijo adoptivo para su propio beneficio. 3. Él mismo _debe_ designar a un hijo de algún parentesco, _que sea_ amigo del alma, para que el puente no se rompa _para_ su alma.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Car dans notre religion, il n'y a pas de devoir plus grand que de porter la _ceinture sacrée_, et il incombe <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> à l'homme et à la femme. 3. Et, autrefois, si quelqu'un avait atteint l'âge de quinze ans révolus et n'avait pas porté la ceinture sacrée, on le lapidait, comme le pain et l'eau lui sont interdits ('harâm).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

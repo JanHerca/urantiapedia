@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. Since thus his own _and_ that which is his by design, when any one manages for him and in his life_time_, aggrandize his position then, _and his_ soul is preserved, when he manages for him thereafter the enjoyment then reaches unto his soul. 5. When not consenting as to the good work, and _it is_ not his by design, even though others may do _it_ for him it does not then come into his possession.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

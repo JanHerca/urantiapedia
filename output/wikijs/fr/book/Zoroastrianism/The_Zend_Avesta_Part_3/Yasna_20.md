@@ -44,6 +44,8 @@ AJOUT CATÉCHÉTIQUE [^1140].
 
 Nous sacrifions aux différentes parties de l'Asha Vahi<i>s</i>ta (prière). Nous sacrifions à la récitation auditive de l'Asha Vahi<i>s</i>ta, à sa mémorisation, à son chant et à son usage sacrificiel [^1141] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -97,6 +97,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 60\. Es perfecta _es_ la excelencia de la justicia; es la excelencia perfecta _eso es_ la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

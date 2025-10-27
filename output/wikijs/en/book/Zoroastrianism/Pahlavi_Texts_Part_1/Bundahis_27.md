@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 25\. It is concerning plants that every single kind _with_ a drop of water on a twig (teh) they should hold four finger-breadths in front of the fire [^42]; Most of all it is the lotos (kûnâr) they speak of.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

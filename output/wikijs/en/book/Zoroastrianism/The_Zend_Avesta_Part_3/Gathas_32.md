@@ -98,6 +98,8 @@ Translation.
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

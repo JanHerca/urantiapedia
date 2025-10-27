@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. The water of Arekdvisûr is on Albûr<i>z</i> [^6], and flows even to the summit of the star station during the coming of the healing of purification, even unto Hûkhîr the lofty [^7], all-gorgeous _and_ brilliant; thence _its_ flowing is effected [^8] into the lake of a summit to Albûr<i>z</i>, Mount Aûshin<i>d</i>ûm [^9], which is in the middle of the wide-formed ocean. 6. And from that flowing of waters that destined river, the utter destruction of every night, comes on in the light of a dawn; by the sprinkling of spray (pash-pashanŏ) it extends through the seven regions _of the earth_, and from it arise the growth of their plants and the coming of the healing of purification; that which is called a drop (srî<i>s</i>k) of the primeval creatures _being_ a particle (aham) of water of the bulk of a horse [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

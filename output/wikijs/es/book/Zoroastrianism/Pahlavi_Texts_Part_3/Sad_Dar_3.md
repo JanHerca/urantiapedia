@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. De igual manera (maTHalâ<i>m</i>), si alguien va de camino, ocupado en su propio trabajo, y un ladrón le sorprende <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> en el camino y le roba sus bienes (qumâ<i>s</i>), o es asesinado [^4], le devuelven en el otro mundo cuatro cosas por cada una [^5] de lo que se hayan llevado. 5. Si es asesinado, se vuelve justo, cualquier pecado que haya cometido desaparece por completo y lo llevan al cielo. 6. Pero (ammâ) si se vuelve culpable (bâ<i>t</i>il) en algún deber, y un ladrón cae sobre él en el camino [^6], y le quita su riqueza (mâl), o es asesinado, cuando desciende a ese _otro_ mundo [^7] toda la propiedad que _el otro_ le quitó se vuelve tal como _si fuera_ suya quien se la ha quitado a esa persona [^8]; y, además, _allí_ ocurre, como sustituto ('hivaʓ̣) _por_ esa propiedad, el castigo y tormento que le dan. 7. _Y_ si es asesinado es tal como _si_ quien se la ha quitado a esa persona _fuera uno_ que hubiera asesinado inocentemente a esa persona que llega al infierno como retribución (mukâfât) por el pecado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

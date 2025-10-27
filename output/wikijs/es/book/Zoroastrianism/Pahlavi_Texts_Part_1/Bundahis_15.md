@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 31\. Así como había diez variedades de hombre [^28], _y_ quince razas de Fravâk, había veinticinco razas, todas ellas de la semilla de Gâyômar<i>d</i>; _las variedades son tales_ como _las_ de la tierra, del agua, las de orejas de pecho, las de ojos de pecho, las de una sola pierna, también las que tienen alas como las de un murciélago, _las_ del bosque, con cola, _y_ que tienen pelo en el cuerpo [^29].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

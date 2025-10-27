@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T13:0:30Z
   </table>
 </figure>
 
-<span id="pvii">[<sup><small>pág. vii</small></sup>]</span>
+<span id="pvii"><sup><small>[ pág. vii ]</small></sup></span>
 
 
 ## INTRODUCCIÓN.
@@ -70,7 +70,7 @@ III (17-55). | Ultrajes | [39](../4#p39)
 (40-43). | Homicidio involuntario | [44](../4#p44)
 (44-45). | Contratos | [45](../4#p45)
 (46, 49 \[bis\]-55). | Falsos juramentos | [45](../4#p45)
-(47-49). | Elogio del bienestar físico | [46](../4#p46) <span id="pviii">[<sup><small>p. viii</small></sup>]</span>
+(47-49). | Elogio del bienestar físico | [46](../4#p46) <span id="pviii"><sup><small>[ p. viii ]</small></sup></span>
 FARGARD V | | [48](../4#p48)
 I (1-7). | Si un hombre contamina el fuego o la tierra involuntariamente o inconscientemente, no es pecado | [49](../5#p49)
 II (8-9). | El agua y el fuego no matan | [50](../5#p50)
@@ -99,7 +99,7 @@ VIII (45-49). | Purificación de la tierra, de los Dakhmas. Los Dakhmas y los Da
 IX (60-72). | Tratamiento de una mujer que dio a luz a un niño muerto | [89](../7#p89)
 X (73-75). | Purificación de los vasos contaminados por los muertos | [91](../7#p91)
 XI (76). | Limpieza de la vaca | [92](../7#p92)
-XII (77). | Libaciones impuras | [92](../7#p92) <span id="pix">[<sup><small>p. ix</small></sup>]</span>
+XII (77). | Libaciones impuras | [92](../7#p92) <span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 FARGARD VIII |   | [93](../7#p93)
 I (1-3). | Purificación de la casa donde ha fallecido un hombre | [93](../7#p93)
 II (4-13). | Funerales | [94](../8#p94)
@@ -134,7 +134,7 @@ IX (49-50). | Elogio del perro | [163](../13#p163)
 X (50-54). | El perro de agua | [163](../13#p163)
 FARGARD XIV. | LA EXPIACIÓN POR EL ASESINATO DE UN PERRO DE AGUA | [165](../13#p165)
 FARGARD XV. | | [172](../14#p172)
-I (1-8). | Sobre cinco pecados cuya comisión convierte al pecador en Peshôtanu | [172](../14#p172) <span id="px">[<sup><small>p. x</small></sup>]</span>
+I (1-8). | Sobre cinco pecados cuya comisión convierte al pecador en Peshôtanu | [172](../14#p172) <span id="px"><sup><small>[ p. x ]</small></sup></span>
 II (9-19). | Sobre las uniones ilícitas y los intentos de provocar el aborto | [174](../15#p174)
 III (20-45). | Sobre el trato a una perra con crías | [175](../15#p175)
 IV (46-51). | Sobre la cría de perros | [180](../15#p180)
@@ -162,6 +162,8 @@ III c (12-17). | Invocación conjunta dirigida a las aguas y a la luz de las est
 IV (18-21). | Hechizos contra la enfermedad | [229](../21#p229)
 FARGARD XXII. | ANGRA MAINYU CREA 99.999 ENFERMEDADES: AHURA MAZDA SOLICITA LA SANACIÓN A LA PALABRA SAGRADA Y A AIRYAMAN | [229](../21#p229)
 &nbsp; | Transliteración de los alfabetos orientales adoptados para la traducción de los libros sagrados de Oriente | 237
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

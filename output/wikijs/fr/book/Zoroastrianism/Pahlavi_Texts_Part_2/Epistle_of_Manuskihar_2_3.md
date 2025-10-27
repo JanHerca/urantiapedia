@@ -49,6 +49,8 @@ Traduit avec DeepL.com (version gratuite) 13. Vous devenez le meilleur du distri
 
 14\. Quand donc vous écrivez qu'ils doivent toujours l'accomplir comme maintenant, la fausseté en est <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> grave (yagar), et je n'en connais pas de pire ; car ce lavage et cette purification professionnelle qu'il faut maintenir en opération - comme le déclarent la révélation, l'enseignement des grands prêtres et ceux de la foi primitive qui sont estimables [^24]\ - vous vous retirez (madam dârê<i>d</i>ŏ) du milieu de nous. 15. Ce que vous comprenez vous-même, c'est que pour Aûha<i>r</i>ma<i>z</i><i>d</i>, les bonnes créatures confédérées sont comme souillées et qu'aux yeux des bons et des sages, elles sont comme propitiatoires envers le malfaisant Vâê [^25]. 16. Et vos paroles à ce sujet sont exactement comme celles qu'on dit à propos d'un mendiant [^26], à qui on donne un vêtement, ainsi : « Lave soigneusement la saleté (âlûg) sur lui » ; et ce vêtement qu'ils prendront sera mis au feu et brûlé ; et il dit ainsi : « Ma saleté était un réconfort. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

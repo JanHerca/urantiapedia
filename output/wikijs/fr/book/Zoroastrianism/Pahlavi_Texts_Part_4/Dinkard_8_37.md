@@ -79,6 +79,8 @@ _Hûspâram Nask_.
 
 52\. Parfaite est l'excellence de la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

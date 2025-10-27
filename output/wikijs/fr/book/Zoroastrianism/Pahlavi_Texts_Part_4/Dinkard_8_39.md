@@ -55,6 +55,8 @@ I. Une section est le <i>H</i>a<i>k</i>î<i>d</i>akânistân</i> (« _code des s
 
 24\. À propos de celui qui nourrit une brebis saisie ; c'est-à-dire, comment elle se présente lorsqu'elle est sortie de son magasin et comment elle se présente lorsqu'il la nourrit à son arrivée. 25. À propos d'une dispute au sujet d'une brebis saisie, lorsqu'une personne dit qu'elle est née de la couleur de sa mère, et une autre qu'elle était de sa forme [^13], les deux étant vrais ; ou bien l'une mentionne une seule caractéristique avec exactitude, et l'autre en mentionne plusieurs sans exactitude ; les cas où elles mentionnent ses particularités autrement, et de quelle manière, et tout ce qui concerne le même sujet. 26. À propos d'une brebis [^14] saisie, qui doit traverser les endroits les plus élevés où il y a un abri légal ; _et_ comment il y a trois années, trois existences (ahvôn), trois lieux, neuf occasions, et aussi beaucoup d'autres règlements sur le même sujet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

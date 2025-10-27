@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. Quand il est écrit d'elle-même qu'il est ainsi déclaré dans le Sakâ<i>d</i>ûm _Nask_ que l'urine de taureau consacrée qui est fétide doit être agitée pour le feu, il est ensuite déclaré qu'il ne s'agit pas seulement de l'urine de taureau qui est fournie ces trois jours [^6] ; mais aussi de celle qui est vieille _et_ consacrée, <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> devenue fétide _et_ agitée de nouveau, lorsqu'on l'utilise, ce qui est approprié. 7. Et ce que le Sakâdûm a déclaré est, en particulier, que l'un des grands prêtres a dit individuellement : « Cette puanteur est mentionnée en référence à l'occasion où une puanteur l'atteint d'une nature différente de celle qui existe naturellement en lui. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

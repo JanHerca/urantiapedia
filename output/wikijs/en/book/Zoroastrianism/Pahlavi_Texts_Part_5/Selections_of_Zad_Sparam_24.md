@@ -66,6 +66,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 19\. The tenth is _that there is_ to be a period of obedience (Srôshdârîh) towards the ruler and priestly authority, the high-priesthood of the religious [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: el señor de todas las cosas es el creador que es persistente sobre sus propias criaturas, y una obra preciosa es su propio y verdadero servicio [^3] que le es dado a Srôsh el justo a quien, por esta razón, _uno_ debe reverenciar por separado cuando ni siquiera su nombre se menciona con frecuencia, y _uno_ ni siquiera debe reverenciar los nombres de los arcángeles con él.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

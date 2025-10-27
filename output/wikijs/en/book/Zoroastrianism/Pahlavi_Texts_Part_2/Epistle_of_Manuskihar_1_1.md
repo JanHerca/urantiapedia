@@ -80,6 +80,8 @@ A copy of the epistle of the priest Mânû<i>s</i><i>k</i>îhar [^1], son of Yû
 
 5\. On account of the universal renown (aspôharakânîh) of the good _people_ of Khvanîras [^10], which is yours, owing to the favour that is your complete happiness, ardently _and_ joyfully most desired, and constantly _so_, when _there_ are opportunities of seeing you—though it is supposed _to be_ the advantage of your own religion, joy of soul, courteousness, _and_ proper constancy—since my will _resides_ among you, you make known _and_ command my actions, through the will of the sacred beings.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

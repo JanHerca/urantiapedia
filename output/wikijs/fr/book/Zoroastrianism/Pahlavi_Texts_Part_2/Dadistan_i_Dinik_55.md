@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est celle-ci, qu'il est dit qu'un mari (gab<i>r</i>â) est indispensable pour la conservation à travers les trois nuits d'_épreuves_ qui seront pour une épouse privilégiée, un père pour celles d'un enfant, et un maître pour celles d'un serviteur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

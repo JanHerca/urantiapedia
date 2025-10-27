@@ -55,6 +55,8 @@ I. Una sección es el <i>H</i>a<i>k</i>î<i>d</i>akânistân («_código de secu
 
 24\. Sobre quien cría una oveja arrebatada; es decir, cómo es cuando está fuera de su corral y cómo es cuando la cría al llegar. 25. Sobre una disputa en torno a una oveja arrebatada, cuando una persona dice que nació del color de la madre y otra que era de su forma [^13], siendo ambas ciertas; o una persona menciona una sola característica con verdad y otra muchas características falsamente; los casos en que mencionan sus peculiaridades de otra manera, y de qué manera, y todo lo que se refiere al mismo tema. 26. Sobre una oveja [^14] arrebatada, que tiene que pasar por los lugares más elevados donde hay refugio legal; _y_ cómo hay tres años, tres existencias (ahvôn), tres lugares, nueve ocasiones, y también muchas otras regulaciones sobre el mismo tema.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

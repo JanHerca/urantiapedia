@@ -60,6 +60,8 @@ MH10 (about 150 years old), a Persian Rivâyat, No. 10 of Haug's Collection in t
 
 O225, a Persian Rivâyat in No. 225 of Ouseley's Collection in the Bodleian Library at Oxford.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. De igual manera, se declara en el Apocalipsis que hay treinta y tres caminos al cielo, además del de las almas liberales. 7. Si el alma pertenece a otra persona, no puede llegar al cielo [^4] por ese camino. 8. Además de este feliz [^5] camino, un alma liberal puede llegar al cielo por medio de los treinta y tres caminos. 9. Para nadie es más fácil llegar al cielo que para el liberal.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

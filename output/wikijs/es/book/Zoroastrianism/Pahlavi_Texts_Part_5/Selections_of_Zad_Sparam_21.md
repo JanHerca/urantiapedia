@@ -57,6 +57,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 23\. Los seis arcángeles [^21] se manifestaron por su estatura similar (ham-ba<i>s</i>nîh), de tal manera que es obvio que cada uno, sucesivamente, es aparentemente un dedo más bajo que el otro. 24. Los arcángeles exhibieron tres tipos de logros <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> (pasâkhtan) [^22] para la religión: primero, mediante fuegos, y Zaratû<i>s</i>t caminó tres pasos sobre ellos, con las palabras «buenos pensamientos, buenas palabras y buenas obras», y no se quemó; y segundo, se vertió metal caliente sobre su pecho, se enfrió y, agarrándolo con la mano, lo sostuvo para los arcángeles. 25. Aûha<i>r</i>ma<i>z</i><i>d</i> habló así: «Tras el establecimiento de la religión pura, cuando surge una disputa en ella, tus discípulos la derramarán sobre un señor espiritual, la recogerán con la mano y creerán plenamente en aquel que está sobre toda la existencia encarnada». 26. El tercero fue cortar con un cuchillo, y las partes vitales (ahvôn) se hicieron visibles, las cuales están dentro del abdomen, con un flujo de sangre; y, tras frotarla con las manos, sanó. 27. Y esto se señala, a saber: «Tu aceptación de la religión pura y la de tus [correligionarios](./Erratum) es, en cuanto a la firmeza en otras religiones, tal que, mediante la quema de fuego, el vertido de metal caliente y la operación con un instrumento afilado, no hay perversión de la buena religión.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 11\. And _one_ calls this sin a sin _affecting_ antagonists [^6], _and_, so long as the antagonist does not become satisfied, the sin flows on [^7], _and_ they keep his soul back at the head of the <i>K</i>inva<i>d</i> bridge, till the time that its antagonist shall arrive and himself accomplishes _his_ antagonism, and they give him back a reply [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

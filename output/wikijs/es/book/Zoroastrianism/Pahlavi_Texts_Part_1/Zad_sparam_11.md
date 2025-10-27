@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 <span id="p187"><sup><small>[ pág. 187 ]</small></sup></span>
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

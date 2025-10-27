@@ -667,6 +667,8 @@ Ruego con bendiciones por un beneficio, y por el bien, incluso por toda la creac
 
 ¡Líbranos de nuestro enemigo, oh Mazda!... ¡Perece, oh Droga diabólica! ¡Perece, oh prole del demonio! ¡Perece, oh mundo del demonio!... ¡Perece en las regiones del norte, para no entregar jamás a la muerte el mundo viviente del espíritu santo!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

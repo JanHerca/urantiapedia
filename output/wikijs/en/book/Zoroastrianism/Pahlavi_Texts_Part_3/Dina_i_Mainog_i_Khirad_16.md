@@ -52,6 +52,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 64\. ‘Of the dress which people possess _and_ put on [^20], silk is good for the body, and cotton for the soul. 65. For this reason, because silk arises from a noxious creature [^21], (66) and the nourishment of cotton is from water, and _its_ growth from earth [^22]; and as a treasure of the soul it is called great and good and more valuable.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

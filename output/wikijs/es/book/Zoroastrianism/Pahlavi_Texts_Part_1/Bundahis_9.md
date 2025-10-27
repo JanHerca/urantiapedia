@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 5\. De ese mismo germen de plantas surgió el árbol de todos los gérmenes [^4], _y_ creció en el vasto océano, del cual siempre crecieron los gérmenes de todas las especies de plantas. 6. Y cerca de ese árbol de todos los gérmenes se produjo el árbol Gôkar<i>d</i> [^5], para alejar la decrepitud deforme (dûspa<i>d</i>); _y_ de él surgió la plena perfección del mundo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

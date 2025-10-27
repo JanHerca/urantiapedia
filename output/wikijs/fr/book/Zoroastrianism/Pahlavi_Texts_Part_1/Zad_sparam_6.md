@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 23\. Et c'était là le second combat, celui contre l'eau.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -126,7 +128,7 @@ dateCreated: 2025-10-10T14:56:40Z
 
 [^22]: (173:4) Bund. XXII, 2.
 
-[^23]: (173:5) Écrit Gû<i>s</i>asp dans Bund. XVII. 7, et Gû<i>s</i>nâsp dans B. Yt. III, 30, 40, tandis que la forme plus ancienne Vi<i>s</i>nâsp apparaît dans B.Yt. III, 10.
+[^23]: (173:5) Écrit Gû<i>s</i>asp dans Bund. XVII. 7, et Gû<i>s</i>nâsp dans B. Yt. III, 30, 40, tandis que la forme plus ancienne Vi<i>s</i>nâsp apparaît dans B. Yt. III, 10.
 
 [^24]: (173:6) Le Sôvbar de Bund. VII, 14, XII, 24, XXII, 3.
 

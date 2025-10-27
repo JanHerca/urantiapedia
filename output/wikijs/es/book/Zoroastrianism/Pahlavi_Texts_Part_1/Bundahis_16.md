@@ -49,6 +49,8 @@ lo nutre, como toda leche surge de la semilla de los machos, _y_ la sangre es la
 
 7\. En cuanto a los peces [^2], dice que, en el momento de excitación, van y vienen en el agua, dos y dos, la longitud de una milla (hâsar), que es un cuarto de legua (parasang), en el agua corriente; en ese ir y venir, frotan sus cuerpos, y una especie de sudor gotea entre ellos, y _ambos_ quedan preñados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

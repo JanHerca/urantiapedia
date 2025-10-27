@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. For it is declared in revelation, that every single step which _one_ puts forth without the _sacred thread-_girdle is a Farmân sin [^2], _and_ through four steps it becomes a Tanâvar sin which would be a weight of a thousand _and_ two hundred dirhams [^3]. 3. Therefore, it is necessary to keep watch _over_ oneself, as regards this sin, and to tie on the _sacred thread-_girdle.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

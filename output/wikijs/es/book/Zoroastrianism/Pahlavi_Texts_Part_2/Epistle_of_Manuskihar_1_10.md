@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 11\. Pero como el mismo decreto, o aquel que se asemeja al mismo decreto [^18], es designado (vakhtŏ) <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> _y_ especialmente decidido, y no debe ser aceptado _de él, y la operación no debe realizarse por ello, su posición debe ser considerada entonces, _por_ aquellos firmes _en_ ​​la práctica de la religión preeminente, con el entendimiento y discernimiento más avanzados, que son el pensamiento de su verdadera posición en la religión de los adoradores de Ma<i>z</i><i>d</i>a. 12. Y otros decretos religiosos, inteligentemente preservadores del alma, que se dan a conocer _y_ declaran a partir de la enseñanza de los veraces sumos sacerdotes de la religión de los adoradores de Ma<i>z</i><i>d</i>a, deben ser adecuadamente aceptados _y_ cumplidos. 13. Y puesto que esta opinión (dâstakŏ) mía es, además, de la escritura de Afarg, incluso sobre la preservación de diferentes interpretaciones y diferentes enseñanzas, no especialmente debido a declaraciones inalcanzables de esta destrozada [^19] religión de los adoradores de Ma<i>z</i><i>d</i>a, ni siquiera _a_ la angustia a través de la lucha simultánea, sino debido al deseo de opiniones verdaderas que _ha_ existido, hay seguridad abundante, pero temporal, de los garabatos de la escritura opositora, parcial y perjudicial de ese hombre sacerdotal [^20].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

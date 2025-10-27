@@ -48,6 +48,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 34\. _As to_ that, too, which they say [^7], that in the dark night a righteous man is preserved from the lion, wolves, dogs, and robbers, (35) _while_ in the light day he becomes a captive [^8] in their hands, (36) it is not proper to consider that as a benefit owing to darkness, nor yet as an evil owing to light. 37. Because light is created for the removal of darkness, not for the keeping away of the lion, wolf, and noxious creatures. _And there are_ many other _things_ which are of this nature. 38. On account of tediousness _this_ is collected _merely_ as a summary; the virtue _and_ understanding of you triumphant _ones_ (39) are so much, that you _may_ obtain more from revelation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 7\. Esto también, que el espíritu maligno [^12]. . . . . . . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

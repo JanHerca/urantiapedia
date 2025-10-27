@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 9\. En caso de duda, se debe considerar _a quien es_ ortodoxo (hû-dînô), quien ha cantado los himnos _sagrados_ y goza de buena reputación, cuya embriaguez <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> no se manifiesta de esta manera: bebe tanto vino como probó cuando no empeoró al beberlo. 10. Es necesario considerar a quien su religión es invisible, su religión es errónea, y a quien es un niño, incluso con las realidades de la religión, de esta manera: empeora al beber vino. 11. Cuando _aparte_ de la decisión no hay ninguna razón asignable (ban<i>g</i>i<i>s</i>nîk) al respecto, _uno_ considera como _parte_ del vino el que _se dio_ con más autorización [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

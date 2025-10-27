@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 Peace and prosperity [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -71,6 +71,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 33\. Pendant ses menstruations, elle doit être assise de telle sorte qu'il y ait quinze pas de trois pieds entre son corps et l'eau, quinze pas vers le feu, quinze pas vers les rameaux sacrés et trois pas vers un homme juste [^40]. 34. Sa nourriture doit être transportée dans des récipients en fer ou en plomb ; et la personne (valman) qui la lui apportera se tiendra à trois pas d'elle [^41]. 35. Lors des rites, chaque fois qu'elle consacre des gâteaux sacrés (drôn ya<i>s</i>t) lors de leur dédicace (shnûmanê) [^42], elle doit les prononcer à haute voix ; certains disent l'Ithâ et l'Ashem-vohû [^43].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

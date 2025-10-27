@@ -88,6 +88,8 @@ Je suis voué à l'obéissance, et non à la désobéissance sourde ; j'appartie
 
 21\. Nous adorons le Jaune et Majestueux ; nous adorons H(a)oma qui favorise le progrès, qui fait avancer les colonies ; nous adorons H(a)oma qui chasse la mort ; oui, nous adorons toutes les plantes H(a)oma. Et nous adorons leur béatitude, et le Fravashi de Zarathustra Spitâma, le saint [^1013].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

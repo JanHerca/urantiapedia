@@ -90,6 +90,8 @@ A la obediencia me he entregado, y a la desobediencia sorda, no; al santo perten
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -55,6 +55,8 @@ _Bakŏ Nask_.
 
 30\. L'excellence _qui_ est_ parfaite _est_ la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

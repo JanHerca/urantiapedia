@@ -112,6 +112,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . .
 
 18 [^1556]. Nous réjouissons par notre vertu ton puissant Feu, ô Ahura ! ton Feu le plus vif et le plus puissant, qui montre son aide [^1557] à celui qui l'a toujours consolé, mais qui se plaît à se venger de l'homme qui lui a fait du mal.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

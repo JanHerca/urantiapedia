@@ -48,6 +48,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 24\. ‘And the motion of the sun and moon is the special illumination of the world, (25) and the maturing of procreations and growths of all kinds. 26. And the correct keeping of the day, month, and year, summer and winter, spring and autumn, and other calculations and accounts of all kinds which men ought to obtain, perceive, and understand, (27) <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> are more fully defined by means of the setting (ni<i>s</i>î<i>v</i>akŏ) [^17] of the sun and moon.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

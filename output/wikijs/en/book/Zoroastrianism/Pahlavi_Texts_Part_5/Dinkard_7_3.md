@@ -82,6 +82,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 61\. Thereupon, Zaratû<i>s</i>t thought thus: ‘Good is he who is the creator, who is better than this reminder.’ 62. Then they proceeded in company, Vohûmanô and Zaratû<i>s</i>t; Vohûmanô _first and_ Zaratû<i>s</i>t after.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

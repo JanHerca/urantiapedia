@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. For it is declared in the good religion, that, if they accomplish as many good works as the leaves of the trees, _or_ the sand_\-grains_ of the desert, _or_ the drops (qa<i>t</i>rah) of rain, which they do not perform by command of the high-priests, _or_ to their satisfaction, no merit whatever attains to their souls, and _for_ the good works they have done they obtain sin _as_ a recompense. 3. While _such a one_ is living it is not proper to call him righteous, and when he dies he does not attain to heaven, and not a single archangel comes [^1] near him. 4. He does not make his escape from the hands of the demons and Aharman, and he <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> does not obtain a release from hell. 5. Because duties _and_ good works [^2] attain to the soul _on_ those occasions when they perform _them_ with the authority of the high-priests and those acquainted with the religion, and _when_ they give them one-tenth of those good works [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

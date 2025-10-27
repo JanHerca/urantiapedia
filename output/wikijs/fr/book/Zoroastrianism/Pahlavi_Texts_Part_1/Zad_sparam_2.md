@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 11\. Enfin, il (Aharman) s'approcha du feu et y mêla ténèbres et fumée [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

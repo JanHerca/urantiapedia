@@ -45,6 +45,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 5\. Sur la raison pour laquelle le péché d'une personne lésée devient innocent en ne rendant pas un objet endommagé [^3] ; et de nombreuses opinions sur le même sujet sont fournies à notre avantage.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 34\. Quant à ce qu'ils disent [^7], que dans la nuit obscure, le juste est préservé du lion, du loup, du chien et des brigands, (35) tandis qu'au jour il devient captif [^8] entre leurs mains, (36) il ne convient pas de considérer cela comme un bienfait dû aux ténèbres, ni comme un mal dû à la lumière. 37. Car la lumière est créée pour chasser les ténèbres, et non pour éloigner le lion, le loup et les créatures nuisibles. Et il y a bien d'autres choses de cette nature. 38. Par souci de commodité, ceci n'est rassemblé qu'en résumé ; la vertu et l'intelligence de vous, triomphants (39), sont telles que vous pouvez obtenir davantage par la révélation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 8\. Sobre cuáles son los requisitos de la tribu de quienes llaman a esto realmente su Gyêmarâ y cómo se ven afectados por nuestro conocimiento de la revelación, es decir, por su recitación frecuente; solo que varias ocasiones (yâvar 1-<i>k</i>and) son necesarias en estos tiempos. 9. También la acción y la precaución son posibles para ellos, y entre estas acciones y precauciones, una es asumir especialmente la ley y la costumbre, y todo lo que haya sido pervertido por nosotros y vuelto a ser cierto; y, en cuanto a los enseñados, varias personas intelectuales, buscadoras de medios y amigas del alma, han venido a enseñarles completos engaños; también para la misma tribu y a quien sea apropiado enseñar, cuando sea necesario, incluso un mundano <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> la autoridad sacerdotal está guiando a _esa_ misma tribu, porque él ha venido [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

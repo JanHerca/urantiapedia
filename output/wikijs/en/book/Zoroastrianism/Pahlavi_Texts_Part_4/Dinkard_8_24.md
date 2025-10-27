@@ -42,6 +42,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 10\. About the good work _of_ all that is wise activity, and the reward of the happy place [^2]; the sin of every_thing_ that is ignorant activity, and the <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> bridge _penalty_ of the evil place [^3]; connected therewith, to make him who is righteous develope in wisdom, and to make him who is wicked diminish in ignorance, is the world.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -51,6 +51,8 @@ _Hûspâram Nask_.
 
 17\. Un relato del agua en cuanto a la descripción y extensión de la humedad de la tierra. 18. Sobre el pecado de inutilizar cualquier cosa mediante el agua o el fuego. 19. Sobre la eliminación de dos tercios de la miseria del mundo, erradicándola de las criaturas mediante la iluminación del fuego; y la eliminación de toda adversidad de la existencia de las criaturas, mediante la liberación de la malicia de la humanidad, una hacia la otra, y mediante su perfecta compasión mutua.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

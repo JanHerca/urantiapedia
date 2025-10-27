@@ -130,6 +130,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -156,22 +158,22 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1202]: 265:1 Reading nimarezi<i>s</i>ta; cf. vîmarezi<i>s</i>tem, Yt. I, 2.
+[^1140]: 265:1 Reading nimarezi<i>s</i>ta; cf. vîmarezi<i>s</i>tem, Yt. I, 2.
 
-[^1203]: 265:2 The heavenly abode, the Garôthmân.
+[^1141]: 265:2 The heavenly abode, the Garôthmân.
 
-[^1204]: 265:3 The rest as in § 1.
+[^1142]: 265:3 The rest as in § 1.
 
-[^1205]: 266:1 Cf. Yt. XIV, 29.
+[^1143]: 266:1 Cf. Yt. XIV, 29.
 
-[^1206]: 266:2 Cf. Yt. XIV, 31.
+[^1144]: 266:2 Cf. Yt. XIV, 31.
 
-[^1207]: 267:1 Cf. Yt. XIV, 33.
+[^1145]: 267:1 Cf. Yt. XIV, 33.
 
-[^1208]: 267:2 Zarathu<i>s</i>tra's wife.
+[^1146]: 267:2 Zarathu<i>s</i>tra's wife.
 
-[^1209]: 267:3 Bangha; the so-called Bang of Zoroaster (Vend. XV, 14 \[44\]; Phl. tr.). What must have been its virtue may be gathered from the legends of Gû<i>s</i>tâsp and Ardâ Vîrâf, who are said to have been transported in soul to the heavens, and to have had the higher p. 268 mysteries revealed to them, on drinking from a cup prepared by the prophet (Zardu<i>s</i>t Nâmah), or from a cup of Gû<i>s</i>tâsp-bang (Ardâ Vîrâf, II, 29).
+[^1147]: 267:3 Bangha; the so-called Bang of Zoroaster (Vend. XV, 14 \[44\]; Phl. tr.). What must have been its virtue may be gathered from the legends of Gû<i>s</i>tâsp and Ardâ Vîrâf, who are said to have been transported in soul to the heavens, and to have had the higher p. 268 mysteries revealed to them, on drinking from a cup prepared by the prophet (Zardu<i>s</i>t Nâmah), or from a cup of Gû<i>s</i>tâsp-bang (Ardâ Vîrâf, II, 29).
 
-[^1210]: 268:1 The itinerant priests, the ancestors of the modern dervishes.
+[^1148]: 268:1 The itinerant priests, the ancestors of the modern dervishes.
 
-[^1211]: 268:2 Or better, do sacrifice; cf. Yt. XIV, 39.
+[^1149]: 268:2 Or better, do sacrifice; cf. Yt. XIV, 39.

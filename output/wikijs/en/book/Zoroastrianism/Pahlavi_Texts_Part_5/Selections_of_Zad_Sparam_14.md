@@ -52,6 +52,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 16\. Another day, Pôrûshaspô went and enquired of the wizards who kept in front at the place, thus: ‘What is the _cause_ when infants cry out at birth, beyond that _which occurs_ when they laugh out-right [^12]?’ 17. And they replied thus: ‘Because _those who_ are made to cry _have_ seen mortality as _their_ end, _and those_ having laughed _have_ seen their own righteousness.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

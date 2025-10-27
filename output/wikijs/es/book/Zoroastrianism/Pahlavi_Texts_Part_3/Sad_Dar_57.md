@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El tema quincuagésimo séptimo es este: no es apropiado matar a un erizo; y, dondequiera que lo vean, es necesario recogerlo y llevarlo al desierto (sa'hrâ), para que entre en un agujero, lo cual siempre se considera una gran buena obra. 2. Porque, cuando un erizo está en su nido [^1], algunas hormigas mueren; también atrapa y se come a miles de serpientes y [^2] otras criaturas dañinas, y se alimenta de todas las criaturas nocivas. 3. Por lo tanto, debido a todo esto, estas palabras son oportunas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The ninetieth subject is this, that it is not proper that they _should_ give anything to a sinful person _or one_ worthy of death, because [^1] it is like that they have placed in the jaws of a destructive serpent (a<i>z</i>dahâ). 2. And, if this be food which he devours _and_ they give, they pass into the committing of sin; _and_ that person _who_ may have given food to him is a participater with him. 3. In eating food, if _there_ be no danger and fear of them [^2], it is not desirable to give anything to them, for it would be a great sin.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

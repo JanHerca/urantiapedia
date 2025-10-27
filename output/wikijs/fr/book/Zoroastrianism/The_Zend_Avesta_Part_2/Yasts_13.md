@@ -70,7 +70,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
-## JE.
+## I.
 
 1\. Ahura Mazda parla à Spitama Zarathustra, en disant : « Proclamez, ô pur Zarathustra ! la vigueur et la force, la gloire, l'aide et la joie qui sont dans les Fravashis des fidèles, les terribles et puissants Fravashis ; dites comment ils viennent à mon secours, comment ils m'apportent assistance, les terribles Fravashis des fidèles [^811].
 
@@ -1040,6 +1040,8 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 \[Donnez\] à cet homme [^1034] luminosité et gloire, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des Saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -1066,452 +1068,452 @@ Ashem Vohû. : La sainteté est le meilleur de tous les biens. . . .
 
 ## Notes de bas de page
 
-[^851]: 180:1 La soi-disant paoiryô-<i>t</i>kaêsha : la loi primitive est ce qui « est considéré comme la véritable religion mazdayasnienne à toutes les époques, avant et après l'époque de Zaratû<i>s</i>t » (Ouest, Textes Pahlavi, I, 242, note 1) ; cf. § 150.
+[^810]: 180:1 La soi-disant paoiryô-<i>t</i>kaêsha : la loi primitive est ce qui « est considéré comme la véritable religion mazdayasnienne à toutes les époques, avant et après l'époque de Zaratû<i>s</i>t » (Ouest, Textes Pahlavi, I, 242, note 1) ; cf. § 150.
 
-[^852]: 180:2 Cf. § 19.
+[^811]: 180:2 Cf. § 19.
 
-[^853]: 181:1 Lecture du mainyu-tâ<i>s</i>tô ; cf. Yt. X, 90,143, et dans ce même paragraphe vanghanem mainyu-tâ<i>s</i>tem.
+[^812]: 181:1 Lecture du mainyu-tâ<i>s</i>tô; cf. Yt. X, 90,143, et dans ce même paragraphe vanghanem mainyu-tâ<i>s</i>tem.
 
-[^854]: 181:2 Une division de la terre différente et plus ancienne que la division en sept Karshvares ; cf. Yasna XI, 7 \[21\] ; cette division a été dérivée par analogie de la division tripartite de l'univers (terre, atmosphère et ciel).
+[^813]: 181:2 Une division de la terre différente et plus ancienne que la division en sept Karshvares ; cf. Yasna XI, 7 \[21\] ; cette division a été dérivée par analogie de la division tripartite de l'univers (terre, atmosphère et ciel).
 
-[^855]: 181:3 Yt. V, 1.
+[^814]: 181:3 Yt. V, 1.
 
-[^856]: 181:4 §§ 5-8 = Yt. V, 2-5.
+[^815] : 181 : 4 §§ 5-8 = Yt. V, 2-5.
 
-[^857]: 182:1 §§ 4-8 = Yt. V, 1-5.
+[^816] : 182 : 1 §§ 4-8 = Yt. V, 1-5.
 
-[^858]: 182:2 Il y a cinq classes d'animaux : ceux qui vivent dans les eaux (upâpa), ceux qui vivent sous terre (upasma = upa-zema), ceux qui volent (fraptar<i>g</i>at), ceux qui courent (ravas<i>k</i>arant), ceux qui broutent (<i>k</i>angranghâ<i>k</i>k) ; Vispêrad I, 1 seq. ; Yt. XIII, 74. Les représentants de ces différentes classes sont le poisson kar mâhî, l'hermine, le kar<i>s</i>ipt, le lièvre et l'âne-bouc (Pahl. Comm. ad Visp. ll).
+[^817]: 182:2 Il y a cinq classes d'animaux : ceux qui vivent dans les eaux (upâpa), ceux qui vivent sous la terre (upasma = upa-zema), ceux qui volent (fraptar<i>g</i>at), ceux qui courent (ravas<i>k</i>arant), ceux qui broutent (<i>k</i>angranghâ<i>k</i>k) ; Vispêrad I, 1 seq. ; Yt. XIII, 74. Les représentants de ces différentes classes sont le poisson kar mâhî, l'hermine, le kar<i>s</i>ipt, le lièvre et l'âne-bouc (Pahl. Comm. ad Visp. ll).
 
-[^859]: 183:1 Voir Vend. IV, 40 \[137\].
+[^818]: 183:1 Voir Vend. IV, 40 \[137\].
 
-[^860]: 183:2 Douteux.
+[^819]: 183:2 Douteux.
 
-[^861]: 183:3 ? Mensonge.
+[^820]: 183:3 ? Derewda.
 
-[^862]: 183:4 Un berger des peuples.
+[^821] : 183 : 4 A ποιμὴν λαῶν.
 
-[^863]: 183:5 Qui apprend bien, qui a le gaoshô-srûta khratu.
+[^822]: 183:5 Qui apprend bien, qui a le gaoshô-srûta khratu.
 
-[^864]: 184:1 Ou, « qui désire la sagesse » (lore ; khratukâta = khratu<i>k</i>inah).
+[^823]: 184:1 Ou, « qui désire la sagesse » (lore ; khratukâta = khratu<i>k</i>inah).
 
-[^865]: 184:2 Yô nâidhyanghô gaotemahê parô ay<i>a</i>u par<i>s</i>tôi<i>t</i> avâiti. Ceci semble être une allusion aux controverses avec les bouddhistes ou disciples de Gotama, dont la religion s'était implantée dans les régions occidentales de l'Iran dès le deuxième siècle avant Jésus-Christ. Nâidhyanghô signifie un hérétique, un Ashemaogha (voir Pahl. Comm. ad Yasna XXXIV, 8).
+[^824]: 184:2 Yô nâidhyanghô gaotemahê parô ay<i>a</i>u par<i>s</i>tôi<i>t</i> avâiti. Ceci semble être une allusion aux controverses avec les bouddhistes ou disciples de Gotama, dont la religion s'était implantée dans l'ouest de l'Iran dès le deuxième siècle avant Jésus-Christ. Nâidhyanghô désigne un hérétique, un Ashemaogha (voir Pahl. Comm. ad Yasna XXXIV, 8).
 
-[^866]: 184:3 Voir ci-dessus, [p. 180](#p180), note [^810].
+[^825]: 184:3 Voir ci-dessus, [p. 180](#p180), note 810.
 
-[^867]: 184:4 Voir ci-dessus, [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
+[^826]: 184:4 Voir ci-dessus, [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
-[^868]: 185:1 Cf. § 1.
+[^827]: 185:1 Cf. § 1.
 
-[^869]: 185:2 Voir Yt. X, 115, note.
+[^828]: 185:2 Voir Yt. X, 115, note.
 
-[^870]: 185:3 Voir § 143, texte et note.
+[^829]: 185:3 Voir § 143, texte et note.
 
-[^871]: 185:4 Voir § 11.
+[^830]: 185:4 Voir § 11.
 
-[^872]: 186:1 Cf. § 40.
+[^831]: 186:1 Cf. § 40.
 
-[^873]: 186:2 Fréritau: cf. fréreti = farnâmi<i>s</i>n, âde<i>s</i>a (Yasna VIII, 2 \[4\]).
+[^832] : 186:2 Frérit<i>a</i>u : cf. fréreti = farnâmi<i>s</i>n, âde<i>s</i>a (Yasna VIII, 2 \[4\]).
 
-[^874]: 186:3 Avec l'aumône (ashô-dâd).
+[^833]: 186:3 Avec l'aumône (ashô-dâd).
 
-[^875]: 186:4 Cf. § 36.
+[^834]: 186:4 Cf. § 36.
 
-[^878]: 186:5 Douteux.
+[^835]: 186:5 Douteux.
 
-[^879]: 186:6 Armes défensives.
+[^836]: 186:6 Armes défensives.
 
-[^880]: 186:7 Fuir.
+[^837]: 186:7 Fuir.
 
-[^881]: 186:8 Cf. § 23.
+[^838]: 186:8 Cf. § 23.
 
-[^882]: 187:1 Cf. §§ 11, 22.
+[^839]: 187:1 Cf. §§ 11, 22.
 
-[^883]: 187:2 Ils sont comparés à des chevaux ; cf. Yt. VIII, 2.
+[^840]: 187:2 On les compare à des chevaux ; cf. Yt. VIII, 2.
 
-[^884]: 187:3 Leur beauté est vue de loin. Un manuscrit dit « connu de loin » ; un autre « dont la vue s'étend au loin ».
+[^841]: 187:3 Leur beauté est vue de loin. Un manuscrit dit « connu de loin » ; un autre « dont la vue s'étend au loin ».
 
-[^885]: 188:1 Tous les pouvoirs bienfaisants cachés dans la terre, dans les eaux et dans le soleil, et qu'Ashi Vanguhi (Yt. XVII) confère à l'homme.
+[^842]: 188:1 Tous les pouvoirs bienfaisants cachés dans la terre, dans les eaux et dans le soleil, et qu'Ashi Vanguhi (Yt. XVII) communique à l'homme.
 
-[^886]: 188:2 Douteux : urvaênaitî<i>s</i>.
+[^843]: 188:2 Douteux : urvaênaitî<i>s</i>.
 
-[^887]: 189:1 Cf. § 25.
+[^844]: 189:1 Cf. § 25.
 
-[^888]: 189:2 Yâstô-zay<i>a</i>u.
+[^845] : 189:2 Yâstô-zay<i>a</i>u.
 
-[^889]: 189:3 Douteux.
+[^846]: 189:3 Douteux.
 
-[^890]: 189:4 Yt. V, 72.
+[^847]: 189:4 Yt. V, 72.
 
-[^891]: 189:5 Douteux.
+[^848]: 189:5 Douteux.
 
-[^892]: 189:6 Hvîra; see Études Iraniennes, II, 183.
+[^849] : 189:6 Hvîra ; voir Études Iraniennes, II, 183.
 
-[^893]: 189:7 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
+[^850]: 189:7 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
-[^894]: 189:8 Douteux (communique).
+[^851] : 189 : 8 Douteux (asabana).
 
-[^895]: 190:1 Cf. § 24
+[^852]: 190:1 Cf. § 24
 
-[^896]: 190:2 'Les principales créatures' ; cf. Gâh II, 8.
+[^853]: 190:2 'Les principales créatures' ; cf. Gâh II, 8.
 
-[^897]: 190:3 Menton; cf. Siroza I, 3, note.
+[^854] : 190 : 3 Saoka ; cf. Sîrôzah I, 3, note.
 
-[^898]: 190:4 Cf. Yt. VIII, 9, et 34, note.
+[^855]: 190:4 Cf. Yt. VIII, 9, et 34, note.
 
-[^899]: 190:5 Ta<i>t</i>\-âpem.
+[^856] : 190:5 Ta<i>t</i>\-âpem.
 
-[^900]: 190:6 Voir ci-dessus, [p. 182](#p182), note [^817].
+[^857]: 190:6 Voir ci-dessus, [p. 182](#p182), note 817.
 
-[^901]: 190:7 Cf. § 10.
+[^858]: 190:7 Cf. § 10.
 
-[^902]: 191:1 Douteux.
+[^859]: 191:1 Douteux.
 
-[^903]: 191:2 Littéralement, les souffle à l'intérieur.
+[^860]: 191:2 Littéralement, les souffle à l'intérieur.
 
-[^904]: 191:3 Cf. Yt. X, 9.
+[^861]: 191:3 Cf. Yt. X, 9.
 
-[^905]: 191:4 Voir ci-dessus, [p. 12](../Sirozahs_1#p12), note [12](../Sirozahs_1#fn93).
+[^862]: 191:4 Voir ci-dessus, [p. 12](../Sirozahs_1#p12), note [12](../Sirozahs_1#fn93).
 
-[^906]: 192:1 Le sixième et dernier Gâhambâr (voir Âfrîgân Gâhambâr), ou les dix derniers jours de l'année (du 10 au 20 mars), comprenant les cinq derniers jours du dernier mois, Sapendârmad, et les cinq jours complémentaires. Ces dix derniers jours devaient être consacrés à des actes de charité, à des banquets religieux (<i>g</i>a<i>s</i>an) et à des cérémonies en mémoire des morts. C'était aussi à l'approche du printemps que les Romains et les Athéniens offraient des sacrifices annuels aux morts ; les Romains en février « qui tunc extremus anni mensis erat » (Cicéron, De Legibus, II, 21), les Athéniens le troisième jour de la fête d'Anthesterion (du même mois). Les âmes des morts étaient censées participer à la nouvelle vie qui commençait alors à circuler dans la nature, elle aussi morte pendant les longs mois d'hiver.
+[^863]: 192:1 Le sixième et dernier Gâhambâr (voir Âfrîgân Gâhambâr), ou les dix derniers jours de l'année (du 10 au 20 mars), comprenant les cinq derniers jours du dernier mois, Sapendârmad, et les cinq jours complémentaires. Ces dix derniers jours devaient être consacrés à des actes de charité, à des banquets religieux (<i>g</i>a<i>s</i>an) et à des cérémonies en mémoire des morts. C'était aussi à l'approche du printemps que les Romains et les Athéniens offraient des sacrifices annuels aux morts ; les Romains en février « qui tunc extremus anni mensis erat » (Cicéron, De Legibus, II, 21), les Athéniens le troisième jour de la fête d'Anthestérion (du même mois). Les âmes des morts étaient censées participer à la nouvelle vie qui commençait alors à circuler dans la nature, qui était également morte pendant les longs mois d'hiver.
 
-[^907]: 192:2 Peut-être : demander de l'aide, ainsi.
+[^864]: 192:2 Peut-être : demander de l'aide, ainsi.
 
-[^908]: 192:3 Frînâ<i>t</i> : qui prononcera l'Âfrîn ?
+[^865]: 192:3 Frînâ<i>t</i> : qui prononcera l'Âfrîn ?
 
-[^909]: 192:4 À donner en aumône aux pauvres Mazdayasniens (ashô-dâd).
+[^866]: 192:4 À donner en aumône aux pauvres Mazdayasniens (ashô-dâd).
 
-[^910]: 192:5 Asha-nasa : qui le fait atteindre la condition d'un des bienheureux (ahlâyîh arzânîk, Vend. XVIII, 6 \[17\]) : la traduction sanskrite a : 'c'est-à-dire qui le rend digne d'une grande récompense.'
+[^867]: 192:5 Asha-nasa : qui le fait atteindre la condition de bienheureux (ahlâyîh arzânîk, Vend. XVIII, 6 \[17\]) : la traduction sanskrite dit : « c'est-à-dire qui le rend digne d'une grande récompense. »
 
-[^911]: 192:6 Comme dans les invocations du § 87 jusqu'à la fin.
+[^868]: 192:6 Comme dans les invocations du § 87 jusqu'à la fin.
 
-[^912]: 192:7 Une allusion à la formule : « Je sacrifie au Fravashi de ma propre âme », Yasna XXIII, 4 \[6\].
+[^869]: 192:7 Une allusion à la formule : « Je sacrifie au Fravashi de ma propre âme », Yasna XXIII, 4 \[6\].
 
-[^913]: 193:1 Stâhyô: stutikaro (trad. sanskrit ; cf. Âtash Nyâyi<i>s</i>, 10).
+[^870]: 193:1 Stâhyô: stutikaro (trad. sanskrit ; cf. Âtash Nyâyi<i>s</i>, 10).
 
-[^914]: 193:2 §§ 49-52 font partie de ce qu'on appelle l'Âfrîgân Dahmân (prière récitée en l'honneur des morts) ; une traduction sanskrite de cet Âfrîgân a été publiée par Burnouf dans ses Études zendes.
+[^871]: 193:2 §§ 49-52 font partie de ce qu'on appelle l'Âfrîgân Dahmân (prière récitée en l'honneur des morts) ; une traduction sanskrite de cet Âfrîgân a été publiée par Burnouf dans ses Études zendes.
 
-[^915]: 193:3 En hiver.
+[^872]: 193:3 En hiver.
 
-[^916]: 193:4 Douteux. Le mot est <i>h</i><i>v</i>awrîra, qu'Aspendiârji rend synonyme de <i>h</i><i>v</i>âpara, bon, miséricordieux (Vispêrad XXI \[XXIV\], 1).
+[^873]: 193:4 Douteux. Le mot est <i>h</i><i>v</i>awrîra, qu'Aspendiârji rend synonyme de <i>h</i><i>v</i>âpara, bon, miséricordieux (Vispêrad XXI \[XXIV\], 1).
 
-[^917]: 194:1 Bundahis VI, 3.
+[^874] : 194:1 Bundahi<i>s</i> VI, 3.
 
-[^918]: 194:2 Pour garder le Hôm blanc là-bas des êtres maléfiques qui tentent de le détruire (Minokhirad LXII, 28).
+[^875]: 194:2 Pour garder le Hôm blanc là-bas des êtres maléfiques qui tentent de le détruire (Minokhirad LXII, 28).
 
-[^919]: 194:3 Voir ci-dessus, [p. 97](../Yasts_8#p97), note [4](../Yasts_8#fn479).
+[^876]: 194:3 Voir ci-dessus, [p. 97](../Yasts_8#p97), note [4](../Yasts_8#fn479).
 
-[^920]: 195:1 Keresâspa dort dans la plaine de Pê<i>s</i>yânsâi ; « la gloire (lointaine) du ciel se tient au-dessus de lui afin que, lorsque A<i>z</i>-i-Dahâk sera libéré, il puisse se lever et le tuer ; et une myriade d'esprits gardiens des justes sont pour lui une protection » (Bundahi<i>s</i> XXIX, 8 ; tr. Ouest).
+[^877]: 195:1 Keresâspa dort dans la plaine de Pê<i>s</i>yânsâi ; « la gloire (lointaine) du ciel se tient au-dessus de lui afin que, lorsque A<i>z</i>\-i-Dahâk sera libéré, il puisse se lever et le tuer ; et une myriade d'esprits gardiens des justes sont pour lui une protection » (Bundahi<i>s</i> XXIX, 8 ; tr. Ouest).
 
-[^921]: 195:2 'Zaratûst s'approcha de Hvôv (Hvôgvi, sa femme) trois fois, et chaque fois la graine tomba en terre ; l'ange Nêryôsang reçut l'éclat et la force de cette graine, la remit avec soin à l'ange Anâhîd, et avec le temps la mariera à une mère' (Bundahi XXXII, 8). Une servante, Ereda t-fedhri, se baignant dans le lac Kãsava, concevra de cette graine et enfantera le Sauveur Saoshya n t ; ses deux prédécesseurs, Ukhshya<i>t</i>\-ereta et Ukhshya<i>t</i>\-nemah, naîtront de la même manière de Srûta<i>t</i>\-fedhri et de Vanghu-fedhri (Yt. XIII, 141-142).
+[^878]: 195:2 'Zaratû<i>s</i>t s'approcha de Hvôv (Hvôgvi, sa femme) trois fois, et chaque fois la graine tomba en terre ; l'ange Nêryôsang reçut l'éclat et la force de cette graine, la remit avec soin à l'ange Anâhî<i>d</i>, et avec le temps la fusionnera avec une mère' (Bundahi<i>s</i> XXXII, 8). Une servante, Ereda<i>t</i>\-fedhri, se baignant dans le lac Kãsava, concevra de cette graine et enfantera le Sauveur Saoshya<i>n</i><i>t</i> ; ses deux prédécesseurs, Ukhshya<i>t</i>\-ereta et Ukhshya<i>t</i>\-nemah, naîtront de la même manière de Srûta<i>t</i>\-fedhri et de Vanghu-fedhri (Yt. XIII, 141-142).
 
-[^922]: 195:3 Avec des aumônes.
+[^879]: 195:3 Avec des aumônes.
 
-[^923]: 196:1 Cf. Yt. XIX, 56 sec.; VIII, 34.
+[^880] : 196:1 Cf. Yt. XIX, 56 suiv.; VIII, 34.
 
-[^924]: 196:2 Douteux.
+[^881]: 196:2 Douteux.
 
-[^925]: 197:1 Cf. Yt. I, 19.
+[^882]: 197:1 Cf. Yt. I, 19.
 
-[^926]: 197:2 Cf. § 50.
+[^883]: 197:2 Cf. § 50.
 
-[^927]: 197:3 Asna = azan (?).
+[^884] : 197:3 Âsna = âzana (?).
 
-[^928]: 197:4 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
+[^885]: 197:4 Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769).
 
-[^929]: 197:5 Cf. Yt. XIII, 10.
+[^886]: 197:5 Cf. Yt. XIII, 10.
 
-[^930]: 198:1 Il semble y avoir dans ce paragraphe une distinction entre cinq facultés de l'âme, âsna, mana, daêna, urvan, fravashi. La classification habituelle, telle qu'elle est donnée dans ce Ya<i>s</i>t, § 149, et dans le parsisme ultérieur (Spiegel, Die traditionelle Literatur der Parsen, p. 172), est : ahu, esprit de vie (?) ; daêna, conscience ; baodhô, perception ; urvan, l'âme ; fravashi.
+[^887]: 198:1 Il semble y avoir dans ce paragraphe une distinction entre cinq facultés de l'âme, âsna, mana, daêna, urvan, fravashi. La classification habituelle, telle qu'elle est donnée dans ce Ya<i>s</i>t, § 149, et dans le parsisme ultérieur (Spiegel, Die traditionelle Literatur der Parsen, p. 172), est : ahu, esprit de vie (?) ; daêna, conscience ; baodhô, perception ; urvan, l'âme ; fravashi.
 
-[^931]: 198:2 Les Fravashis, « sur des chevaux de guerre et une lance à la main, étaient autour du ciel... et aucun passage ne fut trouvé par l'esprit maléfique, qui se précipita en arrière » (Bund. VI, 3-4 ; tr. Ouest).
+[^888]: 198:2 Les Fravashis, « sur des chevaux de guerre et une lance à la main, étaient autour du ciel . . . . et aucun passage ne fut trouvé par l'esprit maléfique, qui se précipita en arrière » (Bund. VI, 3-4 ; tr. Ouest).
 
-[^932]: 198:3 Cf. Ormazd et Ahriman, § 107.
+[^889]: 198:3 Cf. Ormazd et Ahriman, § 107.
 
-[^933]: 199:1 C'est-à-dire selon leurs différentes espèces (décrites dans Yasna XXXVIII, 3, 5 \[7-9, 13-14\]; LXVIII, 8 \[LXVII, 15\]; et Bund. XXI).
+[^890]: 199:1 C'est-à-dire selon leurs différentes espèces (décrites dans Yasna XXXVIII, 3, 5 \[7-9, 13-14\]; LXVIII, 8 \[LXVII, 15\]; et Bund. XXI).
 
-[^934]: 199:2 Selon leurs espèces (Bund. XXVII).
+[^891]: 199:2 Selon leurs espèces (Bund. XXVII).
 
-[^935]: 199:3 Cf. Yasna I, 1.
+[^892]: 199:3 Cf. Yasna I, 1.
 
-[^936]: 200:1 Le devayâna védique.
+[^893]: 200:1 Le devayâna védique.
 
-[^937]: 200:2 Cf. Yt. XIX, 15, 17.
+[^894]: 200:2 Cf. Yt. XIX, 15, 17.
 
-[^938]: 200:3 Urvâzi<i>s</i>ta. En tant que nom propre, Urvâzi<i>s</i>ta est le nom du feu dans les plantes (Yasna XVII, 11 \[65\], et Bund. XVII, 1).
+[^895]: 200:3 Urvâzi<i>s</i>ta. En tant que nom propre, Urvâzi<i>s</i>ta est le nom du feu dans les plantes (Yasna XVII, 11 \[65\], et Bund. XVII, 1).
 
-[^939]: 200:4 Au foyer et à l'autel.
+[^896]: 200:4 Au foyer et à l'autel.
 
-[^940]: 200:5 Voir Yt. XI.
+[^897]: 200:5 Voir Yt. XI.
 
-[^941]: 200:6 Voir Vend. XXII, 7.
+[^898]: 200:6 Voir Vend. XXII, 7.
 
-[^942]: 200:7 Voir Yt. XII.
+[^899]: 200:7 Voir Yt. XII.
 
-[^943]: 200:8 Voir Yt. X.
+[^900]: 200:8 Voir Yt. X.
 
-[^944]: 200:9 La Sainte Parole.
+[^901]: 200:9 La Sainte Parole.
 
-[^945]: 200:10 Voir Sîrôzah I, 12.
+[^902]: 200:10 Voir Sîrôzah I, 12.
 
-[^946]: 200:11 De l'humanité ; peut-être de Gaya (Maretan).
+[^903]: 200:11 De l'humanité ; peut-être de Gaya (Maretan).
 
-[^947]: 200:12 Douteux.
+[^904]: 200:12 Douteux.
 
-[^948]: 200:13 Le premier homme. Sur les mythes de Gaya Maretan, voir Ormazd et Ahriman, §§ 129-135.
+[^905]: 200:13 Le premier homme. Sur les mythes de Gaya Maretan, voir Ormazd et Ahriman, §§ 129-135.
 
-[^949]: 201:1 Comme ayant établi ces trois classes. Ses trois fils terrestres, Isa<i>t</i>-vâstra, Urvata<i>t</i>-nara et <i>H</i><i>v</i>are-<i>k</i>ithra (§ 98), étaient les chefs des trois classes. Cf. Vend. Introd. III, 15, note 3.
+[^906]: 201:1 Comme ayant établi ces trois classes. Ses trois fils terrestres, Isa<i>t</i>\-vâstra, Urvata<i>t</i>\-nara et <i>H</i><i>v</i>are-<i>k</i>ithra (§ 98), étaient les chefs de ces trois classes. Cf. Vend. Introd. III, 15, note 3.
 
-[^950]: 201:2 Douteux.
+[^907]: 201:2 Douteux.
 
-[^951]: 201:3 Cf. Yasna XXIX, 8.
+[^908] : 201:3 Cf. Yasna XXIX, 8.
 
-[^952]: 201:4 L'Ordre divin, Asha.
+[^909]: 201:4 L'Ordre divin, Asha.
 
-[^953]: 201:5 La roue de la souveraineté (?); cf. Yt. X, 67; cette expression a des relents de bouddhisme.
+[^910]: 201:5 La roue de la souveraineté (?); cf. Yt. X, 67; cette expression a des relents de bouddhisme.
 
-[^954]: 201:6 Qui a prononcé le premier l'Ashem Vohû ; cf. Yt. XXI.
+[^911]: 201:6 Qui a prononcé le premier l'Ashem Vohû; cf. Yt. XXI.
 
-[^955]: 202:1 Seigneur matériel et maître spirituel.
+[^912]: 202:1 Seigneur matériel et maître spirituel.
 
-[^956]: 202:2 Le récitant de l'Ashem Vohû.
+[^913]: 202:2 Le récitant de l'Ashem Vohû.
 
-[^957]: 202:3 Cf. Vend. XIX, 46 \[143\].
+[^914]: 202:3 Cf. Vend. XIX, 46 \[143\].
 
-[^958]: 202:4 Voir Sîrôzah I, 9, note.
+[^915]: 202:4 Voir Sîrôzah I, 9, note.
 
-[^959]: 203:1 Maidhyô-m<i>a</i>ungha était la cousine et la première disciple de Zarathu<i>s</i>tra ; le père de Zarathu<i>s</i>tra, Pourushaspa, et Ârâsti étaient frères (Bund. XXXII, 3) ; cf. Yasna LI \[L\], 19.
+[^916]: 203:1 Maidhyô-m<i>a</i>ungha était la cousine et la première disciple de Zarathu<i>s</i>tra ; le père de Zarathu<i>s</i>tra, Pourushaspa, et Ârâsti étaient frères (Bund. XXXII, 3) ; cf. Yasna LI \[L\], 19.
 
-[^960]: 203:2 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173); Yt. XXII, 37.
+[^917]: 203:2 Cf. [p. 33](../Yasts_1#p33), note [2](../Yasts_1#fn173); Yt. XXII, 37.
 
-[^961]: 203:3 Un autre Par<i>s</i>a<i>t</i>-g<i>a</i>u<i>s</i> est mentionné § 126.
+[^918]: 203:3 Un autre Par<i>s</i>a<i>t</i>-g<i>a</i>u<i>s</i> est mentionné § 126.
 
-[^962]: 203:4 Peut-être, « le faucon sacré, loueur du seigneur » ; ainsi la Loi fut apportée au Var de Yima par l'oiseau Kar<i>s</i>ipta (Vend. II, 42), qui récite l'Avesta dans la langue des oiseaux (Bund. XIX, 16) : l'oiseau Saêna (Sîmurgh) devint dans la littérature ultérieure une incarnation mythique de la sagesse suprême (voir le Mantik uttair et le Dabistân I, 55).
+[^919]: 203:4 Peut-être, 'le faucon sacré, loueur du seigneur' ; ainsi la Loi fut apportée au Var de Yima par l'oiseau Kar<i>s</i>ipta (Vend. II, 42), qui récite l'Avesta dans la langue des oiseaux (Bund. XIX, 16) : l'oiseau Saêna (Sîmurgh) devint dans la littérature ultérieure une incarnation mythique de la sagesse suprême (voir le Mantik uttair et le Dabistân I, 55).
 
-[^963]: 203:5 Qui fut le premier enseignant régulier, le premier aêthrapaiti.
+[^920]: 203:5 Qui fut le premier enseignant régulier, le premier aêthrapaiti.
 
-[^964]: 204:1 'De Zaratûst furent engendrés trois fils et trois filles ; l'un des fils était Isadvâstar, l'un Aûrvatad-nar et l'un Khûrshêd-kîhar ; comme Isadvâstar était chef des prêtres, il devint le Môbad des Môbads et mourut la centième année de la religion ; Aûrvatad-nar était agriculteur et chef de l'enceinte formée par Yim, qui est sous la terre (voir Vend. II, 43 \[141\]) ; Khûrshê<i>d</i>\-<i>k</i>îhar était un guerrier, commandant de l'armée de Pêshyôtanû, fils de Vi<i>s</i>tâsp (voir Yt. XXIV, 4), et réside à Kangde<i>z</i> ; et des trois filles, l'une s'appelait Frên, l'autre Srît et l'autre Pôru<i>k</i>îst (voir Yt. XIII, 139). Aûrvata<i>d</i>\-nar et Khûrshê<i>d</i>\-<i>k</i>îhar étaient issus d'une épouse servante (<i>k</i>akar), les autres étaient issus d'une épouse privilégiée (pâ<i>d</i>akhshah) (Bund. XXXII, 5-6 ; tr. Ouest).
+[^921]: 204:1 'De Zaratûst furent engendrés trois fils et trois filles ; l'un des fils était Isa<i>d</i>vâstar, un Aûrvata<i>d</i>-nar, et un Khûrshê<i>d</i>-kîhar ; comme Isa<i>d</i>vâstar était chef des prêtres, il devint le Môbad des Môbads, et mourut dans la centième année de la religion ; Aûrvata<i>d</i>-nar était un agriculteur, et le chef de l'enceinte formée par Yim, qui est sous la terre (voir Vend. II, 43 \[141\]) ; Khûrshê<i>d</i>\-<i>k</i>îhar était un guerrier, commandant de l'armée de Pêshyôtanû, fils de Vi<i>s</i>tâsp (voir Yt. XXIV, 4), et réside à Kangde<i>z</i> ; et des trois filles, l'une s'appelait Frên, l'autre Srît, et l'autre Pôru<i>k</i>îst (voir Yt. XIII, 139). Aûrvata<i>d</i>\-nar et Khûrshê<i>d</i>\-<i>k</i>îhar étaient issus d'une épouse servante (<i>k</i>akar), les autres étaient issus d'une épouse privilégiée (pâ<i>d</i>akhshah) (Bund. XXXII, 5-6 ; tr. Ouest).
 
-[^965]: 204:2 Selon Anquetil, « la triple semence de Spitama Zarathu<i>s</i>tra ; » cf. ci-dessus, § 62.
+[^922]: 204:2 Selon Anquetil, « la triple semence de Spitama Zarathustra » ; cf. ci-dessus, § 62.
 
-[^966]: 204:3 Le roi de Bactres, le champion du zoroastrisme ; cf. Yt. V, 98,108.
+[^923]: 204:3 Le roi de Bactres, le champion du zoroastrisme ; cf. Yt. V, 98,108.
 
-[^968]: 205:1 Dru<i>g</i>a paurva<i>n</i><i>k</i>a, peut-être, « avec la lance poussée vers l'avant » (lecture dru<i>k</i>a).
+[^924]: 205:1 Dru<i>g</i>a paurva<i>n</i><i>k</i>a, peut-être, « avec la lance poussée vers l'avant » (lecture dru<i>k</i>a).
 
-[^969]: 205:2 Daêna, la religion.
+[^925]: 205:2 Daêna, la religion.
 
-[^970]: 205:3 Cf. Yt. II, 15.
+[^926]: 205:3 Cf. Yt. II, 15.
 
-[^972]: 205:4 Nom générique du peuple appelé ailleurs Varedhakas (Yt. IX, 31 ; XVII, 51) ou <i>H</i><i>v</i>yaonas (ibid. et XIX, 87). Les Hunus ont été comparés aux Hunni ; mais il n'est pas certain qu'il s'agisse d'un nom propre ; il pourrait s'agir d'une dénomination péjorative, signifiant la progéniture (hunu = sanskrit sûnu ; cf. Yt. X, 113).
+[^927]: 205:4 Nom générique du peuple appelé ailleurs Varedhakas (Yt. IX, 31 ; XVII, 51) ou Hvyaonas (ibid. et XIX, 87). Les Hunus ont été comparés aux Hunni ; mais il n'est pas certain qu'il s'agisse d'un nom propre ; il pourrait s'agir d'une dénomination péjorative, signifiant la progéniture (hunu = sanskrit sûnu ; cf. Yt. X, 113).
 
-[^973]: 205:5 Zarîr, frère de Vî<i>s</i>tâspa et fils d'Aurva<i>t</i>-aspa (voir Yt. V, 112). Les dix noms suivants semblent être ceux des autres fils d'Aurva<i>t</i>-aspa (Bund. XXXI, 29).
+[^928]: 205:5 Zarîr, frère de Vî<i>s</i>tâspa et fils d'Aurva<i>t</i>-aspa (voir Yt. V, 112). Les dix noms suivants semblent être ceux des autres fils d'Aurva<i>t</i>-aspa (Bund. XXXI, 29).
 
-[^974]: 205:6 Il en est peut-être de même pour Pât-Khosrav, un frère de Vî<i>s</i>tâspa dans le Yâ<i>d</i>kâr-î Zarîrân, comme me l'informe M. West.
+[^929]: 205:6 Il en est peut-être de même pour Pât-Khosrav, un frère de Vî<i>s</i>tâspa dans le Yâ<i>d</i>kâr-î Zarîrân, comme me l'informe M. West.
 
-[^975]: 206:1 Gustahm, le fils de Nodar ; voir Yt. V, 76. Curieusement, Tusa n'est pas mentionné ici, à moins qu'il ne soit le même que l'un des noms précédents : il est possible que les mots « le fils de Naotara » (Naotairyâna) se réfèrent aux quatre.
+[^930]: 206:1 Gustahm, le fils de Nodar ; voir Yt. V, 76. Curieusement, Tusa n'est pas mentionné ici, à moins qu'il ne soit le même que l'un des noms précédents : il est possible que les mots « le fils de Naotara » (Naotairyâna) se réfèrent aux quatre.
 
-[^976]: 206:2 Possiblement Frashîdvard ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20600.jpg) (mal orthographié à partir d'une forme pahlavi Fra<i>s</i>ânvard ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20601.jpg) (?); le Yâ<i>d</i>kâr-î Zarîrân, comme M. West me l'informe, a ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20602.jpg) et ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20603.jpg)). Frashîdvard était un fils de Gu<i>s</i>tâsp : il fut tué par un héros d'Ar<i>g</i>âsp et vengé par son frère Isfendyâr (Spe<i>ñ</i>tô-dâta). Les noms suivants appartiendraient à ses frères : la plupart d'entre eux contiennent le mot Âtar, en l'honneur du culte du feu nouvellement adopté.
+[^931]: 206:2 Possiblement Frashîdvard ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20600.jpg) (mal orthographié à partir d'une forme pahlavi Fra<i>s</i>ânvard ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20601.jpg) (?); le Yâ<i>d</i>kâr-î Zarîrân, comme M. West me l'informe, a ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20602.jpg) et ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20603.jpg)). Frashîdvard était un fils de Gu<i>s</i>tâsp : il fut tué par un héros d'Ar<i>g</i>âsp et vengé par son frère Isfendyâr (Spe<i>ñ</i>tô-dâta). Les noms suivants appartiendraient à ses frères : la plupart contiennent le mot Âtar, en l'honneur du culte du feu nouvellement adopté.
 
-[^977]: 207:1 Isfendyâr, le fils héroïque de Gû<i>s</i>tâsp, tué par Rustem.
+[^932]: 207:1 Isfendyâr, le fils héroïque de Gû<i>s</i>tâsp, tué par Rustem.
 
-[^978]: 207:2 Dans le Yâ<i>d</i>kâr-î Zarîrân, selon M. West, Bastvar, fils de Zairivairi, venge sa mort sur son meurtrier Vîdraf<i>s</i>. Cela rend Bastavairi identique au Nastûr ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20700.jpg) de Firdausi (lire Bastûr ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20701.jpg)).
+[^933]: 207:2 Dans le Yâ<i>d</i>kâr-î Zarîrân, selon M. West, Bastvar, fils de Zairivairi, venge la mort de son meurtrier Vîdraf<i>s</i>. Ceci rend Bastavairi identique au Nastûr ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20700.jpg) de Firdausi (lire Bastûr ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20701.jpg)).
 
-[^979]: 207:3 Kavârazem est le Gurezm de la tradition ultérieure ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20702.jpg)), 'le frère jaloux d'Isfendyâr, qu'il calomnia auprès de son père et fit jeter en prison' (Burhân qâti'h). Firdausi (IV, 432) dit seulement qu'il était apparenté à Gû<i>s</i>tâsp : ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20703.jpg). Voir Études Iraniennes, II, 230.
+[^934]: 207:3 Kavârazem est le Gurezm de la tradition postérieure ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20702.jpg)), 'le frère jaloux d'Isfendyâr, qu'il calomnia auprès de son père et fit jeter en prison' (Burhân qâti'h). Firdausi (IV, 432) rapporte seulement qu'il était parent de Gû<i>s</i>tâsp : ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/20703.jpg). Voir Études Iraniennes, II, 230.
 
-[^980]: 207:4 Qui donna sa fille, Hvôvi, en mariage à Zarathu<i>s</i>tra (Yasna L \[XLIX\], 4, 17).
+[^935]: 207:4 Qui donna sa fille, Hvôvi, en mariage à Zarathu<i>s</i>tra (Yasna L \[XLIX\], 4, 17).
 
-[^981]: 207:5 Voir Yt. V, 68.
+[^936]: 207:5 Voir Yt. V, 68.
 
-[^982]: 208:1 Un autre frère de Frashao<i>s</i>tra (?).
+[^937]: 208:1 Un autre frère de Frashao<i>s</i>tra (?).
 
-[^983]: 208:2 Le fils de <i>G</i>âmâsp</i> dans le Shâh Nâmah est appelé Girâmî et Garâmîk-kar<i>d</i> dans le Yâ<i>d</i>kâr-î Zarîrân.
+[^938]: 208:2 Le fils de <i>G</i>âmâsp dans le Shâh Nâmah est appelé Girâmî et Garâmîk-kar<i>d</i> dans le Yâ<i>d</i>kâr-î Zarîrân.
 
-[^984]: 208:3 ? Aoiwra.
+[^939]: 208:3 ? Aoiwra.
 
-[^985]: 208:4 Aêthrapati, en parsi hêrbad, prêtre dont la fonction particulière est d'enseigner ; ses élèves étaient appelés aêthrya. Aêthrapati signifiait littéralement « le maître du foyer » (cf. hêrkodah, temple du feu). Hamidhpati est littéralement « le maître de la bûche sacrificielle ».
+[^940]: 208:4 Aêthrapati, en parsi hêrbad, prêtre dont la fonction particulière est d'enseigner ; ses élèves étaient appelés aêthrya. Aêthrapati signifiait littéralement « le maître du foyer » (cf. hêrkodah, temple du feu). Hamidhpati est littéralement « le maître de la bûche sacrificielle ».
 
-[^986]: 208:5 Douteux.
+[^941]: 208:5 Douteux.
 
-[^987]: 208:6 Pas de seigneur temporel (ahu) et pas de maître spirituel (ratu).
+[^942]: 208:6 Pas de seigneur temporel (ahu) et pas de maître spirituel (ratu).
 
-[^988]: 208:7 Douteux (avas<i>k</i>asta-fravashinãm).
+[^943]: 208:7 Douteux (avas<i>k</i>asta-fravashinãm).
 
-[^989]: 208:8 Le mal fait par les Zoroastriens. Ce Mãthravâka (« Proclamateur p. 209 de la Sainte Parole ») était apparemment un grand docteur et un confondateur d'hérésies.
+[^944]: 208:8 Le mal commis par les Zoroastriens. Ce Mãthravâka (« Proclamateur de la Sainte Parole ») était apparemment un grand docteur et un confondateur d'hérésies.
 
-[^990]: 209:1 Voir ci-dessus, § 95.
+[^945]: 209:1 Voir ci-dessus, § 95.
 
-[^991]: 209:2 Peut-être l'éponyme de cette grande famille Kâren, qui a joué un si grand rôle dans l'histoire de l'époque sassanide, et dont l'origine remonte à l'époque de Gû<i>s</i>tâsp (Noeldeke, Geschichte der Perser zur Zeit der Sasaniden, p. 437).
+[^946]: 209:2 Peut-être l'éponyme de cette grande famille Kâren, qui a joué un si grand rôle dans l'histoire de l'époque sassanide, et dont l'origine remonte à l'époque de Gû<i>s</i>tâsp (Noeldeke, Geschichte der Perser zur Zeit der Sasaniden, p. 437).
 
-[^992]: 209:3 Cf. Yt. V, 64.
+[^947]: 209:3 Cf. Yt. V, 64.
 
-[^993]: 209:4 Cf. Yt. XIII, 99.
+[^948]: 209:4 Cf. Yt. XIII, 99.
 
-[^995]: 210:1 Amru et <i>K</i>amru sont apparemment les deux oiseaux mythiques mentionnés ci-dessus sous les noms de Sîn-amru (le faucon Amru) et <i>K</i>ãmrô<i>s</i> ([p. 173](../Yasts_12#p173), note [1](../Yasts_12#fn795)).
+[^949]: 210:1 Amru et <i>K</i>amru sont apparemment les deux oiseaux mythiques mentionnés ci-dessus sous les noms de Sîn-amru (le faucon Amru) et <i>K</i>ãmrô<i>s</i> ([p. 173](../Yasts_12#p173), note [1](../Yasts_12#fn795)).
 
-[^997]: 210:2 M. West compare Ashâvanghu, le fils de Biva<i>n</i>dangha, et <i>G</i>arôdanghu, le fils de Pairi<i>s</i>tîra, avec les deux grands prêtres des Karshvares d'Arezahi et de Savahi, dont les noms sont, dans les Bundahi<i>s</i> p. 211, Ashâshagaha<i>d</i>\-ê <i>H</i><i>v</i>a<i>n</i>d<i>k</i>ân et Hoazarôdathhri-ê Parê<i>s</i>tyarô (Bund. XXIX, 1, notes 4 et 5).
+[^950]: 210:2 M. West compare Ashâvanghu, le fils de Biva<i>n</i>dangha, et <i>G</i>arôdanghu, le fils de Pairi<i>s</i>tîra, avec les deux grands prêtres des Karshvares d'Arezahi et de Savahi, dont les noms sont, dans les Bundahi<i>s</i> p. 211, Ashâshagaha<i>d</i>\-ê <i>H</i><i>v</i>a<i>n</i>d<i>k</i>ân et Hoazarôdathhri-ê Parê<i>s</i>tyarô (Bund. XXIX, 1, notes 4 et 5).
 
-[^998]: 211:1 Saoshya<i>n</i><i>t</i>; cf. §§ 117, 128.
+[^951]: 211:1 Saoshya<i>n</i><i>t</i>; cf. §§ 117, 128.
 
-[^999]: 211:2 Peut-être, « le saint Hãm-baretar vanghvãm, le fils de Takhma ». Son nom signifie « le rassembleur de bonnes choses ».
+[^952]: 211:2 Peut-être, « le saint Hãm-baretar vanghvãm, le fils de Takhma ». Son nom signifie « le cueilleur de bonnes choses ».
 
-[^1000]: 211:3 Ce nom signifie « celui qui loue l'excellente sainteté » (le récitant de l'Ashem Vohû).
+[^953]: 211:3 Ce nom signifie « celui qui loue l'excellente sainteté » (le récitant de l'Ashem Vohû).
 
-[^1001]: 211:4 Voir le paragraphe précédent.
+[^954]: 211:4 Voir paragraphe précédent.
 
-[^1002]: 212:1 L'un des sept immortels, dirigeants de <i>H</i><i>v</i>aniratha ; cf. Yt. V, 72, texte et notes, et Yt. XIII, 120, 124.
+[^955]: 212:1 L'un des sept immortels, dirigeants de <i>H</i><i>v</i>aniratha ; cf. Yt. V, 72, texte et notes, et Yt. XIII, 120, 124.
 
-[^1003]: 212:2 Voir le paragraphe précédent.
+[^956]: 212:2 Voir paragraphe précédent.
 
-[^1004]: 212:3 Voir Yt. V, 72. Le texte contient « le Fravashi » ; cf. Yt. V, 116, note, et Yt. XIII, 115.
+[^957]: 212:3 Voir Yt. V, 72. Le texte contient « le Fravashi » ; cf. Yt. V, 116, note, et Yt. XIII, 115.
 
-[^1005]: 212:4 Cf. Yt. XIII, 143. Peut-être le fils de Tûra.
+[^958]: 212:4 Cf. Yt. XIII, 143. Peut-être le fils de Tûra.
 
-[^1006]: 212:5 Cf. § 112.
+[^959]: 212:5 Cf. § 112.
 
-[^1007]: 213:1 Il y a deux hommes de ce nom ; l'un est le fils de Katu (§ 114), l'autre est le fils d'Avârao<i>s</i>tri (§ 104).
+[^960]: 213:1 Il y a deux hommes de ce nom ; l'un est le fils de Katu (§ 114), l'autre est le fils d'Avârao<i>s</i>tri (§ 104).
 
-[^1008]: 213:2 Le texte contient « le Fravashi » ; cf. page précédente, note [^957].
+[^961]: 213:2 Le texte contient « le Fravashi » ; cf. page précédente, note 957.
 
-[^1009]: 213:3 Voir § 105.
+[^962]: 213:3 Voir § 105.
 
-[^1010]: 215:1 Saoshya<i>n</i><i>t</i>; cf. §§ 110, 128.
+[^963]: 215:1 Saoshya<i>n</i><i>t</i>; cf. §§ 110, 128.
 
-[^1011]: 215:2 Peut-être, Ukhshan, le conquérant de gloire, connu de loin, fils de Berezva<i>n</i><i>t</i>.
+[^964]: 215:2 Peut-être, Ukhshan, le conquérant de la gloire, connu de loin, fils de Berezva<i>n</i><i>t</i>.
 
-[^1012]: 216:1 L'un des immortels, souverains de <i>H</i><i>v</i>aniratha : on dit qu'il appartient à la famille Fryâna (Dâdistân XC, 3) ; il réside dans le district de la rivière Nâîvtâk (Bund. XXIX, 5).
+[^965]: 216:1 L'un des immortels, souverains de <i>H</i><i>v</i>aniratha : on dit qu'il appartient à la famille Fryâna (Dâdistân XC, 3) ; il réside dans le district de la rivière Nâîvtâk (Bund. XXIX, 5).
 
-[^1013]: 216:2 Voir Yt. V, 81.
+[^966]: 216:2 Voir Yt. V, 81.
 
-[^1014]: 216:3 Paitisrîra est peut-être une épithète (la plus belle ?), ajoutée pour distinguer Paêshatah du héros mentionné au § 115.
+[^967]: 216:3 Paitisrîra est peut-être une épithète (la plus belle ?), ajoutée pour distinguer Paêshatah du héros mentionné au § 115.
 
-[^1015]: 216:4 Une allusion à une légende de querelle domestique dont Paêshatah était le héros.
+[^968]: 216:4 Une allusion à une légende de querelle domestique dont Paêshatah était le héros.
 
-[^1016]: 216:5 Le grand prêtre du Fradadhafshu Karshvare (Spîtoî<i>d</i>\-i Aûspôsînân; Bund. XXIX, 1; tr. Ouest, note 6).
+[^969]: 216:5 Le grand prêtre du Fradadhafshu Karshvare (Spîtoî<i>d</i>\-i Aûspôsînân; Bund. XXIX, 1; tr. Ouest, note 6).
 
-[^1017]: 216:6 Le grand prêtre du Vîdadhafshu Karshvare (Aîrî<i>z</i>\-râsp Aûspôsînân ; voir ibid., note 7).
+[^970]: 216:6 Le grand prêtre du Vîdadhafshu Karshvare (Aîrî<i>z</i>\-râsp Aûspôsînân ; voir ibid., note 7).
 
-[^1019]: 216:7 Cf. §128.
+[^971]: 216:7 Cf. §128.
 
-[^1020]: 217:1 Probablement le même avec Huvâsp, le grand prêtre dans le Vourubare<i>s</i>ti Karshvare (Bund. XXIX, 1 ; tr. Ouest, note 8).
+[^972]: 217:1 Probablement le même que Huvâsp, le grand prêtre du Vourubare<i>s</i>ti Karshvare (Bund. XXIX, 1 ; tr. Ouest, note 8).
 
-[^1021]: 217:2 Il s'agit peut-être du même nom pour le grand prêtre du Vouru-<i>g</i>are<i>s</i>ti karshvare, <i>K</i>akhravâk (ibid., note 9). <i>K</i>akhravâk est le nom générique de l'oiseau Karshipta (Pahl. Comm. ad II, 42 \[139\]) ; il doit être ici par erreur remplacé par <i>K</i>ahârâsp.
+[^973]: 217:2 Il est possible qu'il en soit de même pour le grand prêtre du Vouru-<i>g</i>are<i>s</i>ti karshvare, <i>K</i>akhravâk (ibid., note 9). <i>K</i>akhravâk est le nom générique de l'oiseau Karshipta (Pahl. Comm. ad II, 42 \[139\]) ; il doit être ici par erreur remplacé par <i>K</i>ahârâsp.
 
-[^1022]: 217:3 Ou, 'le Touranien' ; cf. § 113.
+[^974]: 217:3 Ou, 'le Touranien' ; cf. § 113.
 
-[^1023]: 218:1 Le texte contient « les Fravashi » ; cf. §§ 113, 127.
+[^975]: 218:1 Le texte contient « le Fravashi » ; cf. §§ 113, 127.
 
-[^1030]: 219:1 See Études Iraniennes, II, 142.
+[^976] : 219 : 1 Voir Études Iraniennes, II, 142.
 
-[^1028]: 219:2 Le texte contient « le Fravashi » ; cf. § 113.
+[^977]: 219:2 Le texte contient « le Fravashi » ; cf. § 113.
 
-[^1031]: 219:3 Différent de <i>G</i>âmâspa, le fils de Hvôva (§ 103).
+[^978]: 219:3 Différent de <i>G</i>âmâspa, le fils de Hvôva (§ 103).
 
-[^1032]: 219:4 Différent de Maidhyô-m<i>a</i>ungha, le fils d'Arâsti (§ 95).
+[^979]: 219:4 Différent de Maidhyô-m<i>a</i>ungha, le fils d'Arâsti (§ 95).
 
-[^1033]: 219:5 Différent de. Urvata<i>t</i>-nara, le fils de Zarathu<i>s</i>tra (§ 98).
+[^980]: 219:5 Différent de. Urvata<i>t</i>\-nara, le fils de Zarathu<i>s</i>tra (§ 98).
 
-[^1034]: 220:1 Les six principaux assistants de Saoshya<i>n</i><i>t</i>, chacun dans l'un des six Karshvares : « Il est dit que dans les cinquante-sept ans, qui sont la période de la résurrection des morts, Rôshanô-<i>k</i>ashm dans Arzâh, Khûr-<i>k</i>ashm dans Savâh, Frâda<i>d</i>\-gadman (Frâda<i>t</i>\-<i>h</i><i>v</i>arenô, Accroître la Gloire) dans Frada<i>d</i>âfsh, Vâreda<i>d</i>\-gadman (Vareda<i>t</i>\-<i>h</i><i>v</i>arenô, Multiplicateur de Gloire) dans Vîda<i>d</i>âfsh, Kâmak-vakhshi<i>s</i>n (Vouru-nemô, Aimant la Prière) dans Vôrûbar<i>s</i>t, et Kâmak-sû<i>d</i> (Vouru-savô, Aimant le Bien) dans Vôrû-<i>g</i>ar<i>s</i>t, tandis que Sôshâns dans l'illustre et pur Khvanîras leur est lié, sont immortels. Le bon sens absolu, l'ouïe parfaite et la gloire totale de ces sept producteurs de la rénovation sont si miraculeux qu'ils conversent de région en région, chacun avec les six autres (Dâdistân XXXVI, 5-6 ; trad. Ouest).
+[^981]: 220:1 Les six principaux assistants de Saoshya<i>n</i><i>t</i>, chacun dans l'un des six Karshvares : « Il est dit que dans les cinquante-sept ans, qui sont la période de la résurrection des morts, Rôshanô-<i>k</i>ashm dans Arzâh, Khûr-<i>k</i>ashm dans Savâh, Frâda<i>d</i>\-gadman (Frâda<i>t</i>\-<i>h</i><i>v</i>arenô, Accroître la Gloire) dans Frada<i>d</i>âfsh, Vâreda<i>d</i>\-gadman (Vareda<i>t</i>\-<i>h</i><i>v</i>arenô, Multiplicateur de Gloire) dans Vîda<i>d</i>âfsh, Kâmak-vakhshi<i>s</i>n (Vouru-nemô, Aimant la Prière) dans Vôrûbar<i>s</i>t, et Kâmak-sû<i>d</i> (Vouru-savô, Aimant le Bien) dans Vôrû-<i>g</i>ar<i>s</i>t, tandis que Sôshâns dans l'illustre et pur Khvanîras leur est lié, sont immortels. Le bon sens, l'ouïe parfaite et la gloire totale de ces sept producteurs de la rénovation sont si miraculeux qu'ils conversent de région en région, chacun avec les six autres (Dâdistân XXXVI, 5-6 ; trad. Ouest).
 
-[^1035]: 220:2 Le premier frère et précurseur de Saoshya<i>n</i><i>t</i>, l'Oshedar mâh de la tradition ultérieure (voir ci-dessus, [p. 196](#p196), note [^881] ; cf. § 141, note).
+[^982]: 220:2 Le premier frère et précurseur de Saoshya<i>n</i><i>t</i>, l'Oshedar mâh de la tradition ultérieure (voir ci-dessus, [p. 196](#p196), note 881 ; cf. § 141, note).
 
-[^1036]: 220:3 Le deuxième frère et précurseur de Saoshya<i>n</i><i>t</i>, l'Oshedar bâmî de la tradition ultérieure (ibid. ; cf. § 142, note).
+[^983]: 220:3 Le deuxième frère et précurseur de Saoshya<i>n</i><i>t</i>, l'Oshedar bâmî de la tradition ultérieure (ibid. ; cf. § 142, note).
 
-[^1037]: 220:4 Saoshya<i>n</i><i>t</i>; cf. paragraphe suivant et §§ 110; 117.
+[^984]: 220:4 Saoshya<i>n</i><i>t</i>; cf. paragraphe suivant et §§ 110; 117.
 
-[^1038]: 221:1 Il supprimera à la fois le pouvoir destructeur des hommes du Druga (idolâtres et autres) et les erreurs des Mazdayasniens (?).
+[^985]: 221:1 Il supprimera à la fois le pouvoir destructeur des hommes de la Druga (idolâtres et autres) et les erreurs des Mazdayasniens (?).
 
-[^1039]: 221:2 Voir ci-dessus, [p. 25](../Yasts_1#p25), note [4](../Yasts_1#fn117).
+[^986]: 221:2 Voir ci-dessus, [p. 25](../Yasts_1#p25), note [4](../Yasts_1#fn117).
 
-[^1040]: 221:3 Vouru-vãthwa; cf. Études Iraniennes, II, 182.
+[^987] : 221 : 3 Vouru-vāthwa ; cf. Études Iraniennes, II, 182.
 
-[^1041]: 221:4 Comme il a rendu les eaux et les arbres immortels, le bétail et les hommes immortels.
+[^988]: 221:4 Comme il a rendu les eaux et les arbres immortels, le bétail et les hommes immortels.
 
-[^1042]: 221:5 Voir ci-dessus, [p. 61](../Yasts_5#p61), note [1](../Yasts_5#fn305).
+[^989]: 221:5 Voir ci-dessus, [p. 61](../Yasts_5#p61), note [1](../Yasts_5#fn305).
 
-[^1043]: 221:6 En tant qu'inventeur de la médecine ; voir Vend. XX, Introd.
+[^990]: 221:6 En tant qu'inventeur de la médecine ; voir Vend. XX, Introd.
 
-[^1044]: 221:7 La maladie, étant un poison, vient du Serpent ; voir ibid.
+[^991]: 221:7 La maladie, étant un poison, vient du Serpent ; voir ibid.
 
-[^1045]: 221:8 Ou « Aoshnara, pleine de sagesse » ; cf. Yt. XXIII, 2, et West, Pahlavi Texts, II, 171, note 3.
+[^992]: 221:8 Ou 'Aoshnara, pleine de sagesse' ; cf. Yt. XXIII, 2, et West, Pahlavi Texts, II, 171, note 3.
 
-[^1046]: 221:9 Appelé dans le Shah Nâmah Zab, fils de Tahmâsp, qui semble avoir été un fils de Nodar (Bund. XXXI, 23).
+[^993]: 221:9 Appelé dans le Shah Nâmah Zab, fils de Tahmâsp, qui semble avoir été un fils de Nodar (Bund. XXXI, 23).
 
-[^1047]: 222:1 Voir ci-dessus, [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545) (Yt. IX, 18).
+[^994]: 222:1 Voir ci-dessus, [p. 114](../Yasts_9#p114), note [7](../Yasts_9#fn545) (Yt. IX, 18).
 
-[^1048]: 222:2 Airyu, le plus jeune des trois fils de Thraêtaona (seep. 61, note i), fut tué par ses frères et vengé par son fils Manu<i>s</i>\-<i>k</i>ithra, qui succéda à Thraêtaona.
+[^995]: 222:2 Airyu, le plus jeune des trois fils de Thraêtaona (seep. 61, note i), fut tué par ses frères et vengé par son fils Manu<i>s</i>\-<i>k</i>ithra, qui succéda à Thraêtaona.
 
-[^1049]: 222:3 Kavâta, Kai Qobâd dans le Shâh Nâmah, un fils adoptif d'Uzava, selon Bund. XXXI, 24.
+[^996]: 222:3 Kavâta, Kai Qobâd dans le Shâh Nâmah, un fils adoptif d'Uzava, selon Bund. XXXI, 24.
 
-[^1050]: 222:4 Kaî-Apîveh dans les Bundahi<i>s</i> ; il était le fils de Kai Qobâd.
+[^997]: 222:4 Kaî-Apîveh dans les Bundahi<i>s</i>; il était le fils de Kai Qobâd.
 
-[^1054]: 222:5 Usadhan, Arshan, Pisanah et Byârshan étaient les quatre fils d'Aipivanghu ; On les appelle en Firdausi Kai Kaus, Kai Arish, Kai Pashîn et Kai Armin. Kai Kaus est arrivé seul sur le trône.
+[^998] : 222 : 5 Usadhan, Arshan, Pisanah et Byârshan étaient les quatre fils d'Aipivanghu ; ils sont appelés en Firdausi Kai Kaus, Kai Arish, Kai Pashîn et Kai Armin. Kai Kaus est seul monté sur le trône.
 
-[^1056]: 222:6 Syâvakhsh et Khosrav ; voir ci-dessus, [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^999]: 222:6 Syâvakhsh et Khosrav ; voir ci-dessus, [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^1057]: 222:7 Devenir possédé par la Force, la Victoire, etc., comme l'a fait Husravah.
+[^1000]: 222:7 Devenir possédé par la Force, la Victoire, etc., comme l'a fait Husravah.
 
-[^1058]: 223:1 Comme Frangrasyan ; cf. [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^1001]: 223:1 Comme Frangrasyan ; cf. [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^1059]: 223:2 Voir Yt. V, 37; XV, 27; XIX, 38.
+[^1002]: 223:2 Voir Yt. V, 37; XV, 27; XIX, 38.
 
-[^1060]: 223:3 Appartenant à la famille Sâma (Yasna IX, 10).
+[^1003] : 223:3 Appartenant à la famille Sâma (Yasna IX, 10).
 
-[^1061]: 223:4 Comme les neuf bandits de grand chemin tués par Keresâspa, Yt. XIX, 41.
+[^1004]: 223:4 Comme les neuf bandits de grand chemin tués par Keresâspa, Yt. XIX, 41.
 
-[^1062]: 223:5 Non mentionné dans le Shâh Nâmah ; Khosrav fut remplacé par un parent éloigné, Lôhrasp.
+[^1005]: 223:5 Non mentionné dans le Shâh Nâmah ; Khosrav fut remplacé par un parent éloigné, Lôhrasp.
 
-[^1063]: 223:6 Une allusion à la légende perdue d'Âkhrûra ; voir, cependant, West, Pahlavi Texts, II, 375.
+[^1006]: 223:6 Une allusion à la légende perdue d'Âkhrûra ; voir, cependant, West, Pahlavi Texts, II, 375.
 
-[^1064]: 224:1 Voir Yt. V, 21-23.
+[^1007]: 224:1 Voir Yt. V, 21-23.
 
-[^1065]: 224:2 Khumbya, l'un des immortels de Hvaniratha ; il réside dans la plaine de Pêsyânsaî : « Il est Hvembya pour cette raison, car on l'a élevé dans une jarre par crainte de Khashm » (Bund. XXIX, 5). Il correspond assez bien à l'Agastya et au Vasishatha de la légende védique (voir Ormazd et Ahriman, § 177).
+[^1008]: 224:2 Khumbya, l'un des immortels de Hvaniratha ; il réside dans la plaine de Pêsyânsaî : « Il est appelé Hvembya pour cette raison, car on l'a élevé dans une jarre par crainte de Khashm » (Bund. XXIX, 5). Il correspond assez bien à l'Agastya et au Vasishatha de la légende védique (voir Ormazd et Ahriman, § 177).
 
-[^1066]: 224:3 L'une des trois épouses de Zarathustra, la fille de Frashaostra ; elle est la mère supposée de Saoshyan et de ses frères (voir [p. 195](#p195), note [^878]).
+[^1009]: 224:3 L'une des trois épouses de Zarathu<i>s</i>tra, la fille de Frashao<i>s</i>tra ; elle est la mère supposée de Saoshya<i>n</i><i>t</i> et de ses frères (voir [p. 195](#p195), note 878).
 
-[^1067]: 224:4 Les trois filles de Zarathoustra et sœurs d'Isa<i>d</i>vâstar (voir [p. 204](#p204), note [^921]).
+[^1010]: 224:4 Les trois filles de Zarathoustra et sœurs d'Isa<i>d</i>vâstar (voir [p. 204](#p204), note 921).
 
-[^1068]: 224:5 Femme de Vî<i>s</i>tâspa ; voir Yt. IX, 26, et XVII, 46.
+[^1011]: 224:5 Femme de Vî<i>s</i>tâspa ; voir Yt. IX, 26, et XVII, 46.
 
-[^1069]: 224:6 La fille de V<i>s</i>tâspa, Humâi, dans le Shah Nâmah.
+[^1012] : 224 : 6 La fille de Vî<i>s</i>tâspa, Humâi, dans le Shah Nâmah.
 
-[^1070]: 225:1 Voir § 113.
+[^1013]: 225:1 Voir § 113.
 
-[^1071]: 225:2 De Fr<i>e</i>nah ou Garô-vanhu, § 113.
+[^1014] : 225 :2 De Fr<i>e</i>nah ou Garô-vanghu, § 113.
 
-[^1072]: 225:3 De Khshathrô-kinah, § 112.
+[^1015] : 225 :3 De Khshathrô-<i>k</i>inah, § 112.
 
-[^1073]: 225:4 Voir § 112.
+[^1016]: 225:4 Voir § 112.
 
-[^1074]: 225:5 Voir § 111.
+[^1017]: 225:5 Voir § 111.
 
-[^1075]: 225:6 Ibid.
+[^1018]: 225:6 Ibid.
 
-[^1076]: 226:1 La mère d'Ukhshya<i>t</i>-ereta (voir ci-dessus, § 126) ; le Saddar Bundahi<i>s</i> (Études Iraniennes, II, 209) l'appelle Bad, de la dernière partie de son nom (fedhri pour padhri, et affirme qu'en se baignant dans le lac Kãsava, elle deviendra enceinte de la semence de Zarathu<i>s</i>tra, qui y est conservée (voir ci-dessus, [p. 195](#p195), note [^878]), et qu'elle enfantera un fils, Oshedar bâmî.
+[^1019]: 226:1 La mère d'Ukhshya<i>t</i>-ereta (voir ci-dessus, § 126) ; le Saddar Bundahi<i>s</i> (Études Iraniennes, II, 209) l'appelle Bad, de la dernière partie de son nom (fedhri pour padhri, et affirme qu'en se baignant dans le lac Kãsava, elle deviendra enceinte de la semence de Zarathu<i>s</i>tra, qui y est conservée (voir ci-dessus, [p. 195](#p195), note 878), et qu'elle enfantera un fils, Oshedar bâmî.
 
-[^1077]: 226:2 La mère d'Ukhshya<i>t</i>-nemah, appelée Vah Bad dans le Saddar ; elle concevra de la même manière que Srûta<i>t</i>-fedhri.
+[^1020]: 226:2 La mère d'Ukhshya<i>t</i>\-nemah, appelée Vah Bad dans le Saddar ; elle concevra de la même manière que Srûta<i>t</i>\-fedhri.
 
-[^1078]: 226:3 La mère de Saoshya<i>n</i><i>t</i>.
+[^1021]: 226:3 La mère de Saoshya<i>n</i><i>t</i>.
 
-[^1079]: 226:4 Cf. Vend. XIX, 5, et Introd. IV, 39-40.
+[^1022]: 226:4 Cf. Vend. XIX, 5, et Introd. IV, 39-40.
 
-[^1080]: 226:5 Gôgô<i>s</i>asp (un commentateur de l'Avesta) dit : « Il y a des hommes saints dans toutes les religions, comme il ressort des mots tûiryanãm da<i>h</i><i>v</i>yunãm \[Nous adorons les Fravashis des hommes saints dans les pays touraniens\], » (Pahl. Comm. ad Vend. III, fin ; et Vend. V, 38 \[122\]) ; cf. ci-dessus, §§ 113, 123.
+[^1023]: 226:5 Gôgô<i>s</i>asp (un commentateur de l'Avesta) dit : « Il y a des hommes saints dans toutes les religions, comme il ressort des mots tûiryanãm da<i>h</i><i>v</i>yunãm \[Nous adorons les Fravashis des hommes saints dans les pays touraniens\], » (Pahl. Comm. ad Vend. III, fin ; et Vend. V, 38 \[122\]) ; cf. ci-dessus, §§ 113, 123.
 
-[^1081]: 226:6 Les pays hérités par Sairima (Seim), le troisième fils de p. 227 Thraêtaona, comme Turan et l'Iran furent hérités par Tûra et Airyu. L'héritage de Selm était Rûm, c'est-à-dire l'Europe et l'Asie occidentale.
+[^1024]: 226:6 Les pays hérités par Sairima (Seim), troisième fils de p. 227 Thraêtaona, comme Turan et Iran, furent hérités par Tûra et Airyu. L'héritage de Selm était Rûm, c'est-à-dire l'Europe et l'Asie occidentale.
 
-[^1082]: 227:1 Chine (Bund. XV, 29).
+[^1025] : 227 : 1 Chine (Bund. XV, 29).
 
-[^1083]: 227:2 Peut-être les Dahae (Pline VI, 17 ; Enée VIII, 728) ou Δάαι (Strabon), appelés Ta-hia par les géographes chinois, au sud de l'Oxus.
+[^1026] : 227 :2 Peut-être le Dahae (Pline VI, 17 ; Enéis VIII, 728) ou Δάαι (Strabo), appelé Ta-hia par les géographes chinois, au sud de l'Oxus.
 
-[^1084]: 227:3 Du premier homme au dernier.
+[^1027]: 227:3 Du premier homme au dernier.
 
-[^1085]: 228:1 Les prêtres itinérants sont reçus ici.
+[^1028]: 228:1 On y reçoit des prêtres itinérants.
 
-[^1086]: 228:2 Douteux.
+[^1029]: 228:2 Douteux.
 
-[^1087]: 228:3 Cf. [p. 198](#p198), note [^887].
+[^1030]: 228:3 Cf. [p. 198](#p198), note 887.
 
-[^1088]: 228:4 Les Paoiryô-<i>t</i>kaê<i>s</i>as ; voir [p. 180](#p180), note [^810].
+[^1031]: 228:4 Les Paoiryô-<i>t</i>kaê<i>s</i>as ; voir [p. 180](#p180), note [^810].
 
-[^1090]: 228:5 Pour le triomphe de la loi zoroastrienne.
+[^1032]: 228:5 Pour le triomphe de la loi zoroastrienne.
 
-[^1091]: 229:1 Daitika, persan ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/22900.jpg); Neriosengh a 'qui vont en troupeaux', paṅkti<i>k</i>ârin. Aidyu; la traduction pahlavi donne ayyâr, 'qui sont utiles' (domestiqués ?); Neriosengh l'a mal lu comme suvâr et a traduit açvacârin. L'expression daitika aidyu correspond au persan ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/22901.jpg), signifiant toutes sortes d'animaux (voir Études Iraniennes, II, 150).
+[^1033]: 229:1 Daitika, persan ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/22900.jpg); Neriosengh dit « qui vont en troupeaux », paṅkti<i>k</i>ârin. Aidyu ; la traduction pahlavi donne ayyâr, « qui sont utiles » (domestiqués ?) ; Neriosengh l'a mal lu comme suvâr et a traduit par açvacârin. L'expression daitika aidyu correspond au persan ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/22901.jpg), qui signifie toutes sortes d'animaux (voir Études Iraniennes, II, 150).
 
-[^1092]: 230:1 Qui adorera les Fravashis.
+[^1034]: 230:1 Qui adorera les Fravashis.

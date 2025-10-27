@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : il est dit dans la révélation des adorateurs de Ma<i>z</i><i>d</i>a que les obstacles (râs-bandîh), par lesquels il y a de la vexation dans la justice, sont dus au fait que sa doctrine est la suivante : concernant la difficulté, l'anxiété et l'inconfort qui surviennent à cause des bonnes œuvres, il n'est pas souhaitable de les considérer comme autant de difficulté, de trouble et d'inconfort. 3. Alors qu'il n'est pas souhaitable de les considérer comme de l'anxiété et de la difficulté, il est alors déclaré par elle [^2] que, comme récompense, tant de réconfort et de plaisir viendront à l'âme, que personne ne doit penser à cette difficulté et à cet inconfort qui l'ont frappé à cause de tant de bonnes œuvres, parce qu'il est constant à maintenir la bonne religion et exprime des actions de grâces (va stâye<i>d</i>ŏ). 4. Et quant au malaise [^3] que notre bonne religion a éprouvé, il vient de ses adversaires. <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 5\. Grâce à l'avènement de la religion, nous jouissons pleinement (ba<i>r</i>â gûkârêm), et grâce à elle, contrairement aux esclaves (abûr<i>d</i>ŏgânvâr), nous ne devenons pas changeants parmi les anges ; notre vie spirituelle (ahvôîh) de louange arrive alors prête, et grâce aux anges, il y a salutation joyeuse, vie spirituelle et gloire pour l'âme.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

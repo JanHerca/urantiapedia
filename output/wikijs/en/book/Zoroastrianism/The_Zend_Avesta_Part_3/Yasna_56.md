@@ -46,6 +46,8 @@ And thus again may Sraosha (the listening Obedience) be present here for the wor
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

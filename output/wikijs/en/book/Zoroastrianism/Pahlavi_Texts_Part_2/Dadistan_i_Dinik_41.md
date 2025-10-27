@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 9\. And as _it_ is said in the persistent law of the sacred beings [^10], that ‘the good religion of the sacred beings, who are the Ma<i>z</i><i>d</i>a-worshipping superiors, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> ordains _it_ as retribution,’ so that the sin it takes away (spayêiti) [^11] may not exist in him, his retribution is declared by revelation. 10. And by the same witness _it_ is said, that all of the primitive faith have been quite of the same opinion about this, that from the good religion except by [^12] the way of renunciation _of sin_ there is none unless to hell; but that renunciation _should_ be during life, for it is said that ‘whoever _when_ living does not become righteous, that is, does not fully atone for sin, _for_ him _when_ dead _there_ is no grant of [^13] the best existence.’ 11. To commit no sin is better than retribution _and_ renunciation of sin.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

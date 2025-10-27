@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. Of those living, at the just, impartial (a<i>k</i>afsi<i>s</i>nŏ) balance the _man_ of proper habits (dâ<i>d</i>ŏ), whose good works are more, when sin _has_ happened to him, undergoes a temporary (vidanâîk) punishment and becomes eternally cleansed by the good works; and he of improper habits, of much sin and little good works, attains temporary enjoyment by those good works, _but_ through the sin which they perceive _in_ him he is suffering punishment unto the resurrection.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

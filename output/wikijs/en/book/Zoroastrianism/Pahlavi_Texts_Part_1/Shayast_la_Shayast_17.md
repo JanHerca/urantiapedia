@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 15\. Completed in peace, pleasure, _and_ joy [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

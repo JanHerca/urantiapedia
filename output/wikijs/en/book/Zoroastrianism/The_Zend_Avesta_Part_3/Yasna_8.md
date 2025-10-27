@@ -60,6 +60,8 @@ I offer the Myazda (of the) meat-offering with a complete and sacred offering; a
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

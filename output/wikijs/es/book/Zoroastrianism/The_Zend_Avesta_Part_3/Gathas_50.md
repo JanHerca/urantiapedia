@@ -68,6 +68,8 @@ Y. L, 1. Sí, ¿obtiene mi alma la gracia que me asiste, y cuál de tus bendicio
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

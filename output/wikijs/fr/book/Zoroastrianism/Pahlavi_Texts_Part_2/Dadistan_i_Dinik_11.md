@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : il en est autrement ; car la bonne œuvre originelle s’élève contre le péché, et la bonne œuvre croissante [^3] s’élève contre la croissance du péché.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

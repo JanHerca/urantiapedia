@@ -52,6 +52,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 46\. Many other _things_ are said among them; (47) and this that is indicated by us is the predominant information _for_ you victors, (48) so that you _may_ obtain more from revelation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

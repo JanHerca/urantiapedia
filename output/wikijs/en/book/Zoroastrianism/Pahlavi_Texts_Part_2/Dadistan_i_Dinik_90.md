@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 8\. But, secondly, _as to_ the whereabouts of the places which are theirs—just like his—of which _there_ is no disquisition by me, this also is even owing to _my_ not remembering [^22].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

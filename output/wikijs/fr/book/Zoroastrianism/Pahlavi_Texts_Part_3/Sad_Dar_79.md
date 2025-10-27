@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. De même, il est déclaré dans la révélation qu'il y a trente-trois voies vers le ciel, outre celle des âmes des libéraux. 7. Si l'âme appartient à quelqu'un d'autre, elle ne peut arriver au ciel [^4] par cette voie. 8. Outre cette heureuse [^5] voie, une âme du libéral peut arriver au ciel au moyen des trente-trois voies. 9. Car il n'est pas plus facile d'arriver au ciel que pour le libéral.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

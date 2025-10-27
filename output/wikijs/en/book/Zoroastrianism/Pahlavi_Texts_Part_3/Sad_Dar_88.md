@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The eighty-eighth subject is this, that, _as to any piece of_ wood on which they carry a corpse, or on which they wash _it_, and that which may be defiled with blood and impurity, that on which menstruous _defilement_, or a bare limb, is deposited by a _menstruous_ woman, and that on which they impale a human being, it is necessary to avoid the whole of these _pieces of_ wood, and not to work with [^1] them again, because one's dress becomes impure; and it is not proper to burn _them_. 2. It is necessary to put _them_ in a place where any one, _who_ pulls _them_ up and stirs _them, will_ not [^2] bring _them_ into the use of mankind.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

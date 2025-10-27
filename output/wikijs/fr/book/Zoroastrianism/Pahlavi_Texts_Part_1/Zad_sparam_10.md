@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 3\. Spendarma<i>d</i> reçut l'or du défunt Gâyômar<i>d</i> [^1], _et_ il resta quarante ans sur la terre. 4. Au bout de quarante ans, _à la manière d'une plante Rîvâs_, Mashya _et_ Mashyôî [^2] poussèrent, et, l'un joint à l'autre, _étaient_ de même stature _et_ mutuellement adaptés [^3]; et son milieu, sur lequel une gloire vint, à travers leur même stature [^4], _était_ tel qu'il n'était pas clair lequel est le mâle et lequel est la femelle, et lequel est celui avec la gloire qu'Aûharmazd a créée. 5. Telle est la gloire pour laquelle l'homme est, en effet, créé, comme il est dit dans la révélation : <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> 'Qu'est-ce qui existait auparavant, la gloire [^5] ou le corps ?' Et Aûharmazd parla ainsi : 'La gloire a été créée par moi auparavant ; ensuite, pour celui qui est créé, la gloire reçoit un corps afin qu'elle puisse produire une activité, et son corps n'est créé que pour l'activité.' 6. Et, ensuite, ils se transformèrent de la forme d'une plante en la forme d'un homme [^6], _et_ la gloire entra spirituellement en eux.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

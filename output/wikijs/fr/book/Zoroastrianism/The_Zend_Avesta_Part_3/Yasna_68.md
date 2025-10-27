@@ -58,6 +58,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 22\. Louange à Ahura Mazda et aux Immortels Généreux. Louange à Mithra des vastes pâturages. Louange au soleil au cheval rapide. Louange aux yeux d'Ahura Mazda (l'étoile que nous nommons ainsi, et avec ce soleil). Louange aux Kine [^1354] (les troupeaux de dons bénis). Louange à Gaya (Maretan) et au Fravashi de Zarathustra (le premier des) saints ; oui, louange à toute la création du saint (et du pur), à ceux qui vivent maintenant, à ceux qui viennent d'entrer dans la vie, et à ceux des jours à venir. 23. Et toi, Ahura, en réponse à ces prières et à ces chants de louange, fais-nous prospérer jusqu'au salut par ton Esprit Bon, le Pouvoir Souverain et ton Ordre Juste (dans ton rituel et ta loi [^1355]) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

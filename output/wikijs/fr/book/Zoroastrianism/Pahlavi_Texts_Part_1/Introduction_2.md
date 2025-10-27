@@ -91,6 +91,8 @@ Le plus ancien manuscrit pahlavi connu se compose de plusieurs fragments de papy
 
 La littérature pahlavi atteignit son apogée il y a environ treize siècles, englobant alors toute la littérature persane. Soixante-dix ans plus tard, sa destruction commença avec la chute de la dynastie sassanide (<span id="pxxii"><sup><small>[ p. xxii ]</small></sup></span> 636-651 apr. J.-C.) ; l'adoption ultérieure de l'alphabet persan moderne lui porta le coup de grâce. Les derniers vestiges d'écrits pahlavi se trouvent aujourd'hui dans les quelques manuscrits encore conservés par les Parsis d'Inde occidentale et leurs frères presque disparus de Perse. Une estimation précise de l'étendue de ces vestiges, pour autant qu'ils soient connus des Européens, a montré que l'étendue totale de la littérature pahlavi existante est environ trente-six fois supérieure à celle des Bundahis, telle que traduite dans ce volume. Un cinquième de cette littérature est constitué de traductions accompagnant des textes de l'Avesta, et les quatre cinquièmes restants sont des œuvres purement pahlavi, presque toutes liées à la religion. Il est difficile de déterminer avec certitude dans quelle mesure cette littérature est issue de l'époque sassanide ; en fait, ce n'est que très récemment que des données fiables permettant de déterminer l'âge de quelques écrits pahlavi ont été découvertes, comme nous l'expliquerons plus loin, en considérant l'âge des Bundahi.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

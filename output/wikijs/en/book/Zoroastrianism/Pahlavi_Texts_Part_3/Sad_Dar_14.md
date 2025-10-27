@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 10\. It is altogether necessary that they do not leave _them_ unbroken, for they _would_ come into use as weapons (silâ‘h) of wizards [^11]. 11. And they have also said that, if they fall in the midst of food, _there_ is danger of pulmonary consumption.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

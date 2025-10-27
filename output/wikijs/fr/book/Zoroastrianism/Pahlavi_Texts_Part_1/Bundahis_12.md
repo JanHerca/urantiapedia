@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 41\. Le reste, _en dehors_ de cette énumération, qu'ils considèrent comme des collines nourricières du pays dans la religion des Mazdayasniens, sont les petites collines, celles qui ont poussé par endroits par morceaux.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

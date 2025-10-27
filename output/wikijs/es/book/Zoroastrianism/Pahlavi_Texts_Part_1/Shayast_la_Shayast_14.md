@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 4\. Así es como es cuando el período _del día_ (gâs) [^8] se retiene, y cómo debería ser cuando _uno_ puede renunciar a _él_; es decir, cuando incluso una de las estrellas creadas por Aûharmazd es aparente, _se_ retiene, _y_ cuando no _se renuncia_. 5. Es Vand-Aûharmazd [^9] _quien_ dijo que cuando, además de Tî<i>s</i>tar, Vanand o Satavês [^10], una de las _estrellas_ zodiacales (akhtarîk) es aparente, _se_ retiene, y cuando no _se renuncia_. 6. _Ha habido _algunos_ que dijeron que cuando, además de una de esas tres, tres _estrellas_ zodiacales son aparentes, _se_ retiene, y cuando no _se renuncia_ [^11].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

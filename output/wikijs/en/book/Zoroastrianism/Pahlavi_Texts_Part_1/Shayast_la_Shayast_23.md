@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 5\. May it be completed in peace and pleasure!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

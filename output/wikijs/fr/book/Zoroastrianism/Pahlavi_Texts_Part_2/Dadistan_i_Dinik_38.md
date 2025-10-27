@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : toute pensée, parole et action dont le résultat est la joie, le bonheur et une récompense louable – lorsqu'un résultat heureux est atteignable et que l'exubérance (afzûnŏ) de la pensée, de la parole et de l'action est importante – est bien pensée, bien dite et bien faite [^2]. 3. Et pour celui dont le résultat du désir de bonnes œuvres est de manière concluante la joie et l'exaltation de l'âme – qui sont son obtention de récompense de l'espace constamment bénéfique [^3], l'immortel et l'illimité, qui ne périra jamais – il n'y a pas de mesure à la multitude des bonnes œuvres. 4. Car quiconque en accomplit beaucoup, et qui s'engage dans davantage, s'approprie plus pleinement le résultat et en est plus digne ; mais il n'est pas obtenu pour l'achèvement de ce qui est une mesure définie, donc il n'obtient pas encore plus, et il n'est pas nécessaire qu'il le fasse ; et elle n'est d'ailleurs pas obtenue même pour l'achèvement d'une limite d'illimité [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

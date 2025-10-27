@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> ‘Every day three times, standing opposite the sun and Mit<i>r</i>ô [^1], as they proceed together [^2], (5) and [^3] the moon and fire of Vâhrâm [^4], or the fire of fires [^5], _in_ like manner, morning, noon, and evening, homage and glorifying are performed, (6) and _one has_ become grateful [^6]. 7. And if a sin, or a deficiency (frô<i>d</i>mând-1) [^7], _has_ occurred, especially [^8] as regards the angels of the spiritual and worldly _existences_, then and beasts _of burden_ [^9], oxen and sheep, dogs and the dog species, and other creatures and creations of Aûha<i>r</i>ma<i>z</i><i>d</i> the lord, (8) _one_ is to become sorrowful, penitent, and in renunciation _of sin_ before the sun and Mit<i>r</i>ô, the moon and the fire of Aûha<i>r</i>ma<i>z</i><i>d</i> [^10]; (9) and, _for_ the sake of atonement for the sin, good works are to be practised as much as is well possible.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

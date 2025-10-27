@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est celle-ci, qu'à partir du _moment_ où une bonne œuvre commence à se développer, sa croissance continue d'augmenter aussi longtemps que l'homme vit ; de plus, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> lorsqu'il est affligé par cette bonne œuvre [^2], tandis que l'augmentation ne cesse pas d'augmenter, elle croît tout comme un enfant grandit dans le ventre d'une mère.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

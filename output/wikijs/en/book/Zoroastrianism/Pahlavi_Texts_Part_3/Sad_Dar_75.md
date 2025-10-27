@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The seventy-fifth subject is this, that, when they wish to provide a supply of water _for_ any cultivated _land_, it is first necessary that they make <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> an inspection through every course _and_ channel [^1] of the water, _to ascertain_ whether there be dead matter therein, or not; _and_, after that, _through_ the water _in_ like manner. 2. If they be in the middle of it, when the water is within their cultivated _land, and_ dead matter comes in sight, if it be possible to ward _it off one_ wards _it off_, and if it be possible to divert the water _one_ diverts _it_. 3. And if the water arrives with dead matter unawares, it is no sin for them. 4. _But_ if no inspection of the stream and cultivated _land_ be made, and the water arrives with dead matter, those people are polluted, and it is necessary to perform the Bareshnûm _ceremony_ [^2] _as regards_ their heads.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

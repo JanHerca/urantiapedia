@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 22\. « Aûha<i>r</i>ma<i>z</i><i>d</i> souhaite le bien, et n'approuve ni ne contemple le mal. 23. Aharman souhaite le mal, et ne médite ni n'approuve aucun bien. 24. Aûha<i>r</i>ma<i>z</i><i>d</i>, quand il le veut, peut changer en ce qui concerne les créatures d'Aharman, et c'est Aharman aussi qui, quand \[il le veut\] [^13], _peut le faire_ en ce qui concerne les créatures d'Aûha<i>r</i>ma<i>z</i><i>d</i>, (25) mais _il_ ne peut changer que de telle sorte qu'en fin de compte _il n'y ait_ aucun préjudice d'Aûha<i>r</i>ma<i>z</i><i>d</i>, (26) parce que la victoire finale est celle d'Aûha<i>r</i>ma<i>z</i><i>d</i> lui-même. 27. Car il est déclaré que « les Yim [^14] et <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Frê<i>d</i>ûn [^15] et Kâî-Ûs [^16] d'Aûha<i>r</i>ma<i>z</i><i>d</i> sont créés immortels, (28) et Aharman les a modifiés comme on le sait. 29. _Et_ Aharman a envisagé que Bêvarâsp [^17] et Frâsîyâk [^18] et Alexandre [^19] _devraient_ être immortels, (30) _mais_ Aûha<i>r</i>ma<i>z</i><i>d</i>, pour un grand avantage, les a modifiés comme ce qui est déclaré. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -62,6 +62,8 @@ Y ofrecemos sacrificios a las almas de los muertos, [que son los Fravashis de lo
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

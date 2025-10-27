@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Avant le moment où l'on jette quelque chose sur les mains, il n'est pas convenable de se laver les mains et le visage, et c'est un péché Tanâvar ; il n'est pas non plus possible de travailler à quoi que ce soit avec les mains et le visage non lavés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

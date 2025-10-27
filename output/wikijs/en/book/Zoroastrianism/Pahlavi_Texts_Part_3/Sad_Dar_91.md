@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. For pearls two modes [^3] are ordered, but the conclusion is this, that they _should_ wash _them_ six times, just like stone _articles_. 6. The whole of wooden and earthen _ware_ it is requisite to throw _away_. 7. All clothing of the body it is requisite to wash six times _in_ the manner that I have stated, _and_, after that, to put _them_ in a place where the sun and moon must _shine_ on them _for_ six months [^4]; after that they are fit for a menstruous woman.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

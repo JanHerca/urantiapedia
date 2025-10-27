@@ -67,6 +67,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 38\. Et ce qui est raconté est une déclaration qui est exécrée (nafrîg-aîtŏ) par beaucoup, détails de l'Avesta quant aux événements _qui_ surviendront après Vi<i>s</i>tâsp jusqu'à la dispersion (ang<i>â</i><i>v</i>i<i>s</i>nŏ) de la souveraineté de l'Iran du pays d'Iran ; _il est aussi_ déclaré que ce qui est écrit est arrivé _à_ la connaissance de ceux du monde. 39. Ceci concerne également la preuve de ce qui précède : « Et si ce qui est déclaré dans l'Avesta, quant à ce qui se passe après Kaî-Vi<i>s</i>tâsp jusqu'à la fin de la souveraineté de l'Iran, ne s'était pas produit, et c'est la prééminence de l'Avesta qui est réellement devenue ce trésor actuel, il s'ensuit de ce fait, en raison de sa position dans ce premier [^28], et de l'absence manifeste de la destruction de ces dirigeants et grands prêtres à partir de Vi<i>s</i>tâsp dans ce dernier [^29], qu'il ne pouvait pas être rattaché à nous [^30]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

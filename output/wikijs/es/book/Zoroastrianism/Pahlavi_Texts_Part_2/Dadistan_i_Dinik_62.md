@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Si no _hay_ hijo de ese _hombre_, pero sí una hija o esposa suya, y si algunos de los asuntos del hombre [^13] hacen que una mujer no sea idónea para la tutela, es necesario nombrar un tutor familiar; si, además, no hay esposa _o_ hija suya, es necesario nombrar un hijo adoptivo. 7. Esto —es decir, cuándo es necesario nombrar un tutor familiar _y_ quién es el más apto, y cuándo es necesario nombrar un hijo adoptivo _y_ cuál es el más apto— se describe en los capítulos sobre la cuestión [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

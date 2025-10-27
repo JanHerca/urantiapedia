@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 13\. Ainsi tant de splendeur et de merveille de Vi<i>s</i>tâsp _et_ de ceux du royaume concernant Zaratû<i>s</i>t [^12], et ainsi tant dues à la venue des archanges du ciel sur la terre avant Vi<i>s</i>tâsp, comme preuve de la véritable prophétie de Zaratû<i>s</i>t [^13] ; et cela aussi à propos de Pêshyôtan [^14], du char de Srîtô [^15], et d'autres sujets vus écrits ci-dessus, _sont_ déclarés par l'Avesta, qui est la même qu'ils ont acceptée de Zaratû<i>s</i>t, comme le point culminant [^16] (<i>a</i><i>v</i>arîgânîh) des paroles d'Aûha<i>r</i>ma<i>z</i><i>d</i>. 14. Et si cette splendeur, cette gloire et ce prodige qui sont décrits ci-dessus à propos de ce que virent ces savants du royaume, qui sont dans la déclaration révélée par l'Avesta, n'avaient pas eu lieu, le roi Vi<i>s</i>tâsp et ces savants du royaume n'auraient pas vu ce que cet Avesta leur avait révélé, qui était tant de splendeur et de prodige qu'il leur rapportait, et pas un seul mot sur le fait de nous en laisser la conservation ne serait annexé.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

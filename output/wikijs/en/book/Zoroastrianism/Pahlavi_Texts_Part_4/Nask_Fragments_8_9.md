@@ -36,6 +36,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 No quotation from these Nasks has yet been noticed.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

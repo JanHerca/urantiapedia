@@ -57,6 +57,8 @@ Le manuscrit B (écrit en 1659) est un manuscrit presque complet des livres III 
 
 K (écrit en 1594 après J.-C. et après), n° 43 de la bibliothèque universitaire de Copenhague, manuscrit divers contenant plusieurs fragments des livres III, V, VI et IX. Parmi les livres traduits ici, il contient le texte du livre IX, chap. I, 1 à XXXI, 17.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

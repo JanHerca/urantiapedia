@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. And the .freedom of the heavenly from danger from evil in heaven is like unto _their_ freedom from disturbance, and the coming of the good angels is like unto _the heavenly ones'_ own good works provided. 5. This prosperity (freh-hastŏ) and welfare of the spiritual _existence_ is _more_ than that of the world, as much as that which is unlimited _and_ everlasting is _more_ than that which is limited and demoniacal (<i>s</i>êdânîkŏ).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

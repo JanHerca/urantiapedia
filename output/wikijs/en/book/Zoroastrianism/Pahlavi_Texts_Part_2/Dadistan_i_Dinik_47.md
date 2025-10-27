@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 9\. And great and ample respect for both their ways of worthiness is an advantage _and_ fully necessary, skill in the commentary _and_ that in the Avesta _being_ together mutually assisting; for even the solemnizers of the Avesta _have_ need for information from the commentary about the scattered (parvand) ‘proper _and_ improper’ _usages_ of the sacred ceremony. 10. The more efficient information from the commentary is advantageous when the ceremonial is proceeded with by them, and one of those two is one of the skilful, _and_ a friend, provider, glorifier, and aggrandizer for the other; and the friends of religion are good friends and, therefore, also providers of fame for both of them. <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 11\. When, too, they are publishing accusing statements, one about the other, from necessity, or from the violence which is owing to the adversary [^12], _it_ is important to become an excuser as regards them, and not a diminisher of their share, _nor_ a bringer (âkhtâr) of unhealthiness to _their_ united strength.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

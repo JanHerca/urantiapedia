@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 20\. Il est _également dit_ que le mois propice Fravar<i>d</i>în, le mois Ar<i>d</i>avahi<i>s</i>t et le mois Horvada<i>d</i> [^29] sont le printemps ; le mois Tîr, le mois Amerôda<i>d</i> _et_ le mois Shatvaîrô sont l'été ; le mois Mitrô, le mois Âvân _et_ le mois Âtarô sont l'automne ; le mois Dîn, le mois Vohûman _et_ le mois Spendarma<i>d</i> sont l'hiver [^30]. 21. Et le soleil vient du signe (khûr<i>d</i>ak) du Bélier, dans lequel il est entré au commencement, pour revenir à ce même lieu en trois cent soixante-cinq jours et six courts temps (heures), qui sont une année. 22. Comme tous les trois mois il (le soleil) avance à travers trois constellations, plus ou moins, la lune revient, en cent quatre-vingts jours, à l'endroit d'où elle a voyagé au début [^31].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

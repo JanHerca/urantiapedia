@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:45Z
 2\. La réponse est la suivante : tout endroit où une montagne n’est pas discernable et où existe un lit de rivière, c’est une fissure (a<i>s</i>kûpŏ) ; et il est déclaré comme clair que, même avant la croissance des montagnes, lorsque la terre n’était qu’une plaine, par l’ébranlement du monde, le monde entier s’est déchiré (zandakŏ) [^2]. 3. Même <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> Frâsîyâ<i>v</i> de Tûr [^3] était particulièrement puissant en provoquant la construction de canaux (vi<i>d</i>arg) là où il y a des montagnes, et aussi dans les basses terres [^4], où il n’y a pas de montagne, et l’ébranlement dans sa création était la formation de grandes sources [^5] et de lits de rivières englouties. 4. Et si elle a été préparée dans, ou si elle se trouve dans un ravin (<i>s</i>ikaftŏ) des montagnes, la cause aussi du rétrécissement, du tonnerre et du déchirement d'une rivière, si son confinement est dans la terre, est la résistance qu'elle rencontre en cherchant un passage ; et comme elle est une source des eaux de la terre, ainsi elle est dans la terre, dont le rétrécissement et le halètement sont puissants et pleins de force. 5. Et quand vient le temps de construire un canal à l'extérieur de son ravin, en ce qui concerne le rétrécissement qui est à l'intérieur, la résistance par laquelle elle est contractée à l'extérieur du ravin est le sol [^6].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

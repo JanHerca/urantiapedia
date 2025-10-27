@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. «_Y_ de los pobres, el más rico es el que se contenta con lo que tiene, (7) y no se preocupa por el aumento de nada.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

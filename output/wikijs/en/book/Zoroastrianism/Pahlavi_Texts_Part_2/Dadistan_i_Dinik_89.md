@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that if his coming be indispensable for the design he would undertake, then it is indispensable for him to accomplish his own mental undertaking; but in suffering which is excited _and_ not avoidable, when _there_ is really no possibility <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> of his travelling himself, any one whom he sends in his place, more particularly on _that_ account, is not acceptable by the approval of the angels who _have_ realized the affliction in _his_ good thought, but the good work is to be eagerly well-considered. 3. Good gifts, and every office (gâs) about good works which it is possible to perform, are what are commendable _in_ the well-housed _man_ that is not able to work _himself_ [^3]_; they are_ avoidable by him when not of good race, and are not indispensable for him whenever the good work is not announced. 4. When able to manage _it_ himself _it_ is better; and when otherwise, his appointment of a faithful _person_ over _its_ preparation, and _his_ accomplishment of the work of selector are expedient.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -76,6 +76,8 @@ Traduction.
 
 13\. (Lève-toi pour me donner le pouvoir), et alors par grâce dans une large perception [^400] (afin que je puisse voir sa profondeur et son étendue), révèle-moi Ta [^401] nature (?), ô Ahura ! (le pouvoir de Tes attributs), et ceux de Ton royaume (saint), et par ceux-ci, les dons bénis [^402] de (Ton) Bon Esprit ! Et Toi, ô Piété abondante [^403], montre les vérités religieuses par (Ton) Ordre Juste. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> 14\. Ainsi, en offrande, Zarathu<i>s</i>tra donne la vie [^404] de son propre corps. Et il offre, de même, ô Mazda ! la priorité du Bon Esprit, (son éminence acquise) par sa sainteté (auprès de Ton peuple) ; et il T'offre (par-dessus tout) son Obéissance (à Toi) en actes et en paroles, et avec ceux-ci (Ton établi) Pouvoir Souverain [^405] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -1789,6 +1789,8 @@ Zoroastriens, Int. 14.
 
 Zôtŏ, voir Prêtre, officiant.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

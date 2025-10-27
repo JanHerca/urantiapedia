@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Car il est déclaré dans la révélation, que l'être sacré _a_ décrété ainsi : « Quant à quiconque efface l'Avesta de sa mémoire, je placerai son âme aussi loin du ciel que la largeur de la terre [^1]. » 4. Et dans le commentaire de l'Avesta, il est rapporté que, dans les temps anciens, quant à quiconque avait appris l'Avesta et l'avait effacé de sa mémoire, jusqu'au moment où il l'avait à nouveau rendu facile, on lui aurait donné du pain comme celui qu'on donne aux chiens. 5. _Et dans_ un autre endroit, j'ai lu qu'on lui aurait donné du pain _sur_ la pointe d'une lance.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

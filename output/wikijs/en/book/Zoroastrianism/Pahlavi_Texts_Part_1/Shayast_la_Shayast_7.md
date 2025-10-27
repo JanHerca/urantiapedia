@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 9\. Whoever shall extinguish [^11] a fire, by him ten fires are to be gathered together, by him ten punishments are to be endured, by him ten ants are to be destroyed [^12], and by him holy-water (zôhar) is to be presented to the sacred fire (âtâ<i>s</i>\-i Vâhrâm).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

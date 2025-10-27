@@ -57,6 +57,8 @@ Traduit avec DeepL.com (version gratuite)
 
 15\. Accompli dans la paix et le plaisir, la joie et le délice ; heureux pour celui qui lit, et plus heureux pour celui qui le garde en usage et en tirera son devoir [^53], s'ils existent jusqu'aux temps éternels.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

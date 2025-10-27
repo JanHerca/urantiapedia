@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 6\. De la justicia la excelencia es la excelencia perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

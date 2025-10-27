@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T13:0:36Z
 
 <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-<span id="p374">[<sup><small>pág. 347p374</small></sup>]</span>
+<span id="p374"><sup><small>[ pág. 347p374 ]</small></sup></span>
 
 <span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
@@ -169,6 +169,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 \[Dale\] a ese hombre brillo y gloria, dale salud de cuerpo, . . . dale la morada brillante, feliz y dichosa de los Santos.
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

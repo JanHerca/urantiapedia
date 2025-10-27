@@ -66,6 +66,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -92,8 +94,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1388]: 310:1 Véase [p. 13](../Sirozahs_1#p13), nota [2](../Sirozahs_1#fn96).
+[^1322]: 310:1 Véase [p. 13](../Sirozahs_1#p13), nota [2](../Sirozahs_1#fn96).
 
-[^1389]: 310:2 Los reptiles y otras criaturas ahrimanianas (Vendîdâd, Introd. V, 11) que son destruidos por la lluvia (Bund. VII, 7).
+[^1323]: 310:2 Los reptiles y otras criaturas ahrimanianas (Vendîdâd, Introd. V, 11) que son destruidos por la lluvia (Bund. VII, 7).
 
-[^1390]: 310:3 Quien ofrece sacrificios a Vana<i>n</i><i>t</i>.
+[^1324]: 310:3 Quien ofrece sacrificios a Vana<i>n</i><i>t</i>.

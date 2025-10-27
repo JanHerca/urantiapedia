@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. When _it_ is written of it itself, that _it_ is thus declared in the Sakâ<i>d</i>ûm _Nask_, that consecrated bull‘s urine which is fetid is to be stirred up for the fire, _it_ is afterwards declared that _it_ is not speaking _only of_ the bull’s urine _which_ is provided those three days [^6]; but that, too, which is old _and_ consecrated, <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> become fetid _and_ is stirred again, when they keep it in use, is proper. 7. And that which the Sakâ<i>d</i>ûm _has_ declared is, specially, that one of the high-priests _has_ individually said: ‘That stench is mentioned with reference to the _occasion_ when a stench reaches it of a different kind _from that_ which exists naturally in it.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

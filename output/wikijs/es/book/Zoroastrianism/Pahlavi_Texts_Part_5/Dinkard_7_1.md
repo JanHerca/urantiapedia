@@ -103,6 +103,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 54\. _Y_ lo de él desde la llegada del Triunfante Beneficiador, _hasta_ la maravilla de la renovación _y_ la existencia futura; una declaración de cada uno de ellos por separado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -54,6 +54,8 @@ _Hûspâram Nask_.
 
 25\. About the families of Zaratû<i>s</i>t, Hvôv [^11], and Vi<i>s</i>tâsp, as regards the account (aûshmûri<i>s</i>nŏ) _and_ ceremonial of the religion and their nature.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

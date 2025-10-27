@@ -67,6 +67,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 38\. Y esto que se relata es una declaración que es execrada (nafrîg-aîtŏ) por muchos, detalles del Avesta en cuanto a sucesos _que_ surgirán después del Vi<i>s</i>tâsp hasta la dispersión (ang<i>â</i><i>v</i>i<i>s</i>nŏ) de la soberanía de Irân del país de Irân; _también_ se declara que esto que está escrito sucedió _para_ el conocimiento de aquellos del mundo. 39. Esto también se refiere a la evidencia de lo anterior:—«Y si esto que se declara del Avesta, en cuanto a _lo que_ sucede después del Kaî-Vi<i>s</i>tâsp hasta el fin de la soberanía de Irân, no hubiera sucedido, y siendo _la preeminencia del Avesta la que realmente se convirtió en este tesoro actual, resulta de ello, debido a su posición en ese _primero_ [^28], y a la manifiesta ausencia de la destrucción de esos gobernantes _y_ sumos sacerdotes desde Vi<i>s</i>tâsp en adelante en este _último_ [^29], que no podría conectarse con nosotros [^30].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

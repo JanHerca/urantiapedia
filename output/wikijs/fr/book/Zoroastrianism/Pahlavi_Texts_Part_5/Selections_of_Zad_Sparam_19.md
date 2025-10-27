@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 7\. Et, pendant longtemps, ils se regardèrent constamment l'un l'autre, avec un regard impassible ; _mais_ la nature divine de Zaratûs est victorieuse sur la sorcellerie de ce _sorcier, et_ Dûrêsrôbô est encore plus troublé ; il demanda aussi _son_ cheval _et_ parla ainsi : « À cause de ce _garçon, il_ m'est impossible de rester. » <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> 8\. Il s'assit sur le cheval, _et_ après avoir fait un peu de chemin, il tomba de cheval, de grande détresse, et mourut ; et les enfants des enfants de ses enfants sont morts au même endroit [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

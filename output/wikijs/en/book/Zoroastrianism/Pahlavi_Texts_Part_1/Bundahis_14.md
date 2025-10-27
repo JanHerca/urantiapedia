@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 31\. Many animals are created in all these species for this reason, that when one shall be perishing _through_ the evil spirit, one shall remain.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

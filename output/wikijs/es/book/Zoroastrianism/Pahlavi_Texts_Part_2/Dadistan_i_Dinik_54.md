@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 14\. Cuando fallezca la señora de la casa y las hijas encuentren marido, se designará la filiación adoptiva.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -212,6 +212,8 @@ Ashem Vohû: Holiness is the best of all good .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -238,82 +240,82 @@ Ashem Vohû: Holiness is the best of all good .
 
 ## Footnotes
 
-[^1212]: 270:1 In Parsi Ardi<i>s</i>vang or Ard (Ardi<i>s</i> from Arti<i>s</i>, the Persian form of Ashi<i>s</i>); she presides over the 25th day of the month; cf. Sîrôzah 25.
+[^1150]: 270:1 In Parsi Ardi<i>s</i>vang or Ard (Ardi<i>s</i> from Arti<i>s</i>, the Persian form of Ashi<i>s</i>); she presides over the 25th day of the month; cf. Sîrôzah 25.
 
-[^1213]: 270:2 Ashi is not the feminine adjective of Asha, as the i was originally short (genitive ashôi<i>s</i>, not ashy<i>a</i>u); ashi is ar-ti, and means bhakti, piety (Neriosengh).
+[^1151]: 270:2 Ashi is not the feminine adjective of Asha, as the i was originally short (genitive ashôi<i>s</i>, not ashy<i>a</i>u); ashi is ar-ti, and means bhakti, piety (Neriosengh).
 
-[^1214]: 270:3 The so-called Ashi's remedies (ashôi<i>s</i> baêshaza; cf. Yt. XIII, 32).
+[^1152]: 270:3 The so-called Ashi's remedies (ashôi<i>s</i> baêshaza; cf. Yt. XIII, 32).
 
-[^1215]: 270:4 This enumeration is the same as in the Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
+[^1153]: 270:4 This enumeration is the same as in the Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
 
-[^1216]: 270:5 Perethu-vîra; see Études Iraniennes, II, 183.
+[^1154]: 270:5 Perethu-vîra; see Études Iraniennes, II, 183.
 
-[^1217]: 271:1 The allies of Saoshya<i>n</i><i>t</i>, who are to be active in the restoration of the world to eternal life (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769). Ashi gives them the ‘intelligence of life’ (frasha khratu), through which they will be enabled to perform their task.
+[^1155]: 271:1 The allies of Saoshya<i>n</i><i>t</i>, who are to be active in the restoration of the world to eternal life (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), note [1](../Yasts_11#fn769). Ashi gives them the ‘intelligence of life’ (frasha khratu), through which they will be enabled to perform their task.
 
-[^1218]: 271:2 Cf. Yt. V, 10.
+[^1156]: 271:2 Cf. Yt. V, 10.
 
-[^1219]: 271:3 The Holy Word.
+[^1157]: 271:3 The Holy Word.
 
-[^1220]: 271:4 The Daêva of anger.
+[^1158]: 271:4 The Daêva of anger.
 
-[^1221]: 271:5 As drinking Haoma is an act of religion (cf. Yasna XI, 12 \[31\] seq.).
+[^1159]: 271:5 As drinking Haoma is an act of religion (cf. Yasna XI, 12 \[31\] seq.).
 
-[^1222]: 272:1 ? Âgairimaiti<i>s</i>.
+[^1160]: 272:1 ? Âgairimaiti<i>s</i>.
 
-[^1223]: 272:2 Cf. Yt. V, 130.
+[^1161]: 272:2 Cf. Yt. V, 130.
 
-[^1224]: 272:3 ? A<i>n</i>kupasman<i>a</i>u.
+[^1162]: 272:3 ? A<i>n</i>kupasman<i>a</i>u.
 
-[^1225]: 273:1 ? Ãgamô-paidhi<i>s</i>a.
+[^1163]: 273:1 ? Ãgamô-paidhi<i>s</i>a.
 
-[^1226]: 273:2 Doubtful.
+[^1164]: 273:2 Doubtful.
 
-[^1227]: 273:3 Cf. Yt. XIV, 11.
+[^1165]: 273:3 Cf. Yt. XIV, 11.
 
-[^1228]: 274:1 Born from the gods; cf. Yt. XXII, 9.
+[^1166]: 274:1 Born from the gods; cf. Yt. XXII, 9.
 
-[^1229]: 274:2 See Yt. XI.
+[^1167]: 274:2 See Yt. XI.
 
-[^1230]: 274:3 See Yt. XII.
+[^1168]: 274:3 See Yt. XII.
 
-[^1231]: 274:4 See Yt. X.
+[^1169]: 274:4 See Yt. X.
 
-[^1232]: 274:5 Or, ‘doing no harm to the righteous.’
+[^1170]: 274:5 Or, ‘doing no harm to the righteous.’
 
-[^1233]: 274:6 Zarathu<i>s</i>tra.
+[^1171]: 274:6 Zarathu<i>s</i>tra.
 
-[^1234]: 274:7 The Ahuna Vairya.
+[^1172]: 274:7 The Ahuna Vairya.
 
-[^1235]: 274:8 Cf. Yt. XIII, 93.
+[^1173]: 274:8 Cf. Yt. XIII, 93.
 
-[^1236]: 275:1 Cf. Vend. XIX, 4 (13).
+[^1174]: 275:1 Cf. Vend. XIX, 4 (13).
 
-[^1237]: 275:2 Cf. Yt. III.
+[^1175]: 275:2 Cf. Yt. III.
 
-[^1238]: 275:3 Bliss after death.
+[^1176]: 275:3 Bliss after death.
 
-[^1239]: 275:4 As § 1.
+[^1177]: 275:4 As § 1.
 
-[^1240]: 275:5 For §§ 24-26, cf. Yt. IX, 3-6.
+[^1178]: 275:5 For §§ 24-26, cf. Yt. IX, 3-6.
 
-[^1241]: 276:1 For §§ 28-31, cf. Yt. IX, 8-11.
+[^1179]: 276:1 For §§ 28-31, cf. Yt. IX, 8-11.
 
-[^1242]: 277:1 Cf. Yt. V, 34; IX, 14; XV, 24.
+[^1180]: 277:1 Cf. Yt. V, 34; IX, 14; XV, 24.
 
-[^1243]: 277:2 For §§ 37-39, cf. Yt. IX, 17-19.
+[^1181]: 277:2 For §§ 37-39, cf. Yt. IX, 17-19.
 
-[^1244]: 278:1 For §§ 41-43, cf. Yt. IX, 21-23.
+[^1182]: 278:1 For §§ 41-43, cf. Yt. IX, 21-23.
 
-[^1245]: 279:1 For §§ 45-47, cf. Yt. IX, 25-27.
+[^1183]: 279:1 For §§ 45-47, cf. Yt. IX, 25-27.
 
-[^1246]: 280:1 See Vend, III, 20 \[63\], note.
+[^1184]: 280:1 See Vend, III, 20 \[63\], note.
 
-[^1247]: 280:2 By procuring abortion.
+[^1185]: 280:2 By procuring abortion.
 
-[^1248]: 280:3 She refuses the offerings of all barren beings.
+[^1186]: 280:3 She refuses the offerings of all barren beings.
 
-[^1249]: 280:4 Cf. Yt. V, 98. The following clauses allude to some myth of Ashi Vanguhi connected with the conflict between the Turanians and the Naotaras (either Tusa and Vistauru; cf. [p. 71](../Yasts_5#p71), note [7](../Yasts_5#fn352), or more likely Vî<i>s</i>tâspa himself, to whom the preceding chapter p. 281 \[§§ 48-52\] and the last but one clause of the Ya<i>s</i>t refer). She tried to flee in the way practised by Ulysses in the Cyclops’ cavern; both parties were pursuing the animal that bore her, though they knew not what it bore, till children discovered her.
+[^1187]: 280:4 Cf. Yt. V, 98. The following clauses allude to some myth of Ashi Vanguhi connected with the conflict between the Turanians and the Naotaras (either Tusa and Vistauru; cf. [p. 71](../Yasts_5#p71), note [7](../Yasts_5#fn352), or more likely Vî<i>s</i>tâspa himself, to whom the preceding chapter p. 281 \[§§ 48-52\] and the last but one clause of the Ya<i>s</i>t refer). She tried to flee in the way practised by Ulysses in the Cyclops’ cavern; both parties were pursuing the animal that bore her, though they knew not what it bore, till children discovered her.
 
-[^1250]: 282:1 Cf. §§ 49 seq.
+[^1188]: 282:1 Cf. §§ 49 seq.
 
-[^1251]: 282:2 Cf. Sîrôzah, § 25.
+[^1189]: 282:2 Cf. Sîrôzah, § 25.

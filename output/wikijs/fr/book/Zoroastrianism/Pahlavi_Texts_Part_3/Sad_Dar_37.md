@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 9\. Il est donc nécessaire de faire un effort pour qu'ils puissent bien entretenir les esprits gardiens et que les âmes de leurs pères, mères et proches puissent vivre avec honneur auprès d'eux. 10. Car s'ils se retirent mécontents, ils prononcent une malédiction et, lorsque l'âme quitte ce monde, ils lui adressent des reproches et lui disent ainsi : « Tu penses qu'ils veulent continuellement te frayer un chemin [^7] vers cet endroit, mais il n'est pas nécessaire que tu viennes en ce monde [^8]. 11. Or, si tu avais accompli ton devoir et tes bonnes œuvres pour nous, et si tu t'étais souvenu de nous, nous serions également venus à ton secours et t'aurions délivré de <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> cette terrible situation. » 12. Et cette âme éprouve beaucoup de repentir, et n’en tire aucun avantage.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

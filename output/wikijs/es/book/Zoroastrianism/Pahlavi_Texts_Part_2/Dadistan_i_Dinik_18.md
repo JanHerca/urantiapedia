@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Con más autoridad (dastôbarîhâ) se dice que el receptáculo de huesos es una bóveda (ka<i>d</i>akŏ) de piedra sólida [^5], y su cubierta (nihûmbakŏ) _se debe <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> construir también de una sola piedra que se corta perforada (sûlâk-hômand), y alrededor de ella _se debe rellenar con piedra y mortero [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

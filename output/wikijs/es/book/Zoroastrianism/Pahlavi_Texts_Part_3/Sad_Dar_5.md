@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 11\. Y un Gêtî-kharî<i>d</i> es esto: que el cielo se compra en el mundo y el propio lugar se trae a la mano en el cielo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

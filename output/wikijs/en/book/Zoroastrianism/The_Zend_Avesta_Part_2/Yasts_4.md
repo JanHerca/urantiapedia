@@ -88,6 +88,8 @@ Ahura Mazda answered: 'It is when a man pronouncing my spell, either reading [^2
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -114,50 +116,50 @@ Ahura Mazda answered: 'It is when a man pronouncing my spell, either reading [^2
 
 ## Footnotes
 
-[^262]: 48:4 Vend. XXII, 20 \[54\]
+[^249]: 48:4 Vend. XXII, 20 \[54\]
 
-[^263]: 48:5 As above, [p. 22](../Yasts_1#p22) and notes.
+[^250]: 48:5 As above, [p. 22](../Yasts_1#p22) and notes.
 
-[^264]: 49:1 Sîrôzah I, 6.
+[^251]: 49:1 Sîrôzah I, 6.
 
-[^265]: 49:2 Sîrôzah II, 6.
+[^252]: 49:2 Sîrôzah II, 6.
 
-[^269]: 49:3 Names of Daêvas. According to the Parsi translator of the Dînkart (vol. ii, p. 65), Ha<i>s</i>i is ‘he who makes sceptical;’ Ba<i>s</i>i is ‘he who gives rise to the barking disease;’ Saêni is ‘he who causes harm;’ Bû<i>g</i>i is ‘he who preys upon.’
+[^253]: 49:3 Names of Daêvas. According to the Parsi translator of the Dînkart (vol. ii, p. 65), Ha<i>s</i>i is ‘he who makes sceptical;’ Ba<i>s</i>i is ‘he who gives rise to the barking disease;’ Saêni is ‘he who causes harm;’ Bû<i>g</i>i is ‘he who preys upon.’
 
-[^270]: 49:4 The translation of this paragraph is quite conjectural.
+[^254]: 49:4 The translation of this paragraph is quite conjectural.
 
-[^271]: 50:1 If I am one of the faithful.
+[^255]: 50:1 If I am one of the faithful.
 
-[^272]: 50:2 The Genius of Truth, Yt. XII.
+[^256]: 50:2 The Genius of Truth, Yt. XII.
 
-[^273]: 50:3 Will free me as one of the faithful.
+[^257]: 50:3 Will free me as one of the faithful.
 
-[^274]: 50:4 Sic; cf. § 2.
+[^258]: 50:4 Sic; cf. § 2.
 
-[^275]: 50:5 Starâi; cf. Études Iraniennes, II, 135.
+[^259]: 50:5 Starâi; cf. Études Iraniennes, II, 135.
 
-[^276]: 50:6 How is the wicked known from the faithful one?
+[^260]: 50:6 How is the wicked known from the faithful one?
 
-[^277]: 50:7 Marâo: Phl. ô<i>s</i>môrît, Sansk. adhyeti; safarûnît, poshayati (pustakayati? Yasna XIX, 6 \[9\]).
+[^261]: 50:7 Marâo: Phl. ô<i>s</i>môrît, Sansk. adhyeti; safarûnît, poshayati (pustakayati? Yasna XIX, 6 \[9\]).
 
-[^278]: 50:8 The furrows for the Bareshnûm purification (Vend. IX).
+[^262]: 50:8 The furrows for the Bareshnûm purification (Vend. IX).
 
-[^279]: 50:9 Doubtful: gaozaiti; read yaozdâiti (? he cleanses).
+[^263]: 50:9 Doubtful: gaozaiti; read yaozdâiti (? he cleanses).
 
-[^282]: 51:1 To perform the Bareshnûm; cf. Vend. XXII, 20 \[54\].
+[^264]: 51:1 To perform the Bareshnûm; cf. Vend. XXII, 20 \[54\].
 
-[^283]: 51:2 Reading nasûm kereta; cf. nasu-kereta (Vend. VII, 26 \[67\]).
+[^265]: 51:2 Reading nasûm kereta; cf. nasu-kereta (Vend. VII, 26 \[67\]).
 
-[^284]: 51:3 See above, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
+[^266]: 51:3 See above, [p. 26](../Yasts_1#p26), note [2](../Yasts_1#fn120).
 
-[^285]: 51:4 Sao<i>k</i>a; cf. Yt. XXII, 13.
+[^267]: 51:4 Sao<i>k</i>a; cf. Yt. XXII, 13.
 
-[^286]: 51:5 Du<i>z</i>avâ<i>t</i>: both the reading and the meaning are doubtful. Mr. West suggests, ‘sends to hell’ (reading du<i>z</i>anghvâ<i>t</i> or du<i>z</i>angha<i>t</i>).
+[^268]: 51:5 Du<i>z</i>avâ<i>t</i>: both the reading and the meaning are doubtful. Mr. West suggests, ‘sends to hell’ (reading du<i>z</i>anghvâ<i>t</i> or du<i>z</i>angha<i>t</i>).
 
-[^287]: 51:6 Doubtful.
+[^269]: 51:6 Doubtful.
 
-[^288]: 51:7 Reading ashava instead of asô ava.
+[^270]: 51:7 Reading ashava instead of asô ava.
 
-[^289]: 51:8 Cf. Yt. XIV, 46.
+[^271]: 51:8 Cf. Yt. XIV, 46.
 
-[^290]: 52:1 Who shall have sacrificed to Haurvatâ<i>t</i>.
+[^272]: 52:1 Who shall have sacrificed to Haurvatâ<i>t</i>.

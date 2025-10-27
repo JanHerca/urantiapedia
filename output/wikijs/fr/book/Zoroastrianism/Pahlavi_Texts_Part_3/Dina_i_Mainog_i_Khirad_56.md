@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. « Et ces rivières, qui sont dans le monde, le créateur Aûha<i>r</i>ma<i>z</i><i>d</i> les a formées, à partir des frontières d'Albûr<i>z</i> [^3], pour assurer la protection et la vivification de ses propres créatures et de sa création. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

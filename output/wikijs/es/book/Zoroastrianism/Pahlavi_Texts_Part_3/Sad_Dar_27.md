@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:41:36Z
 4\. Pues se declara en la revelación que, salvo lo que consultan a los sumos sacerdotes, ningún asunto es apropiado realizar. 5. Toda sabiduría que provenga de la propia mente es solo una; entonces, como dos sabidurías son más que una [^4], conviene consultar a los sumos sacerdotes.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

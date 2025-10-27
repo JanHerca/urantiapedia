@@ -63,6 +63,8 @@ Dans Vi;. p. 83, il est dit que « le poil d'un bœuf ou d'un cheval convient, c
 
 Dans Vi<i>g</i>. pp. 144, 145, il est dit, en référence à l'annonce du nom du défunt lors de la célébration du Srôsh Ya<i>s</i>t après un décès, que « _il est_ déclaré par l'Avesta du Hâ<i>d</i>ôkht : "Yêzi narô mazdayasnô ha<i>k</i>a gaêthâbyô parairithyêiti, âa<i>d</i> hê nãma hadha pitô frag<i>e</i>urvayâ<i>d</i>; yêzi nâirika para-irithyêiti, âa<i>d</i> ya<i>d</i> hê nãma hadha pathanô uzg<i>e</i>urvayâ<i>d</i>, Spitama Zarathu<i>s</i>tra! aêtem vâ<i>k</i>em nî a<i>n</i>tare mazdayasnanãm frasastayâ<i>d</i>:—Si un homme qui est un adorateur de Ma<i>z</i><i>d</i>a décède de l'existence terrestre, dans un tel cas, on maintient son nom avec celui de son père ; et si c'est une femme qui décède, dans un tel cas, on maintient quel que soit son nom avec celui de son mari, ô Spîtâmân Zaratû<i>s</i>t ! on bénira en outre cette déclaration (c'est-à-dire que son respect est important) parmi les adorateurs de Ma<i>z</i><i>d</i>a, (proclame et bénis en outre cette déclaration)."
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

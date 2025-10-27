@@ -51,6 +51,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask._
 
 25\. Sobre la proporción de quienes guardan las armas (zâ<i>ê</i>) para los combatientes y, tras una victoria sobre extranjeros, se llevan a los rehenes y cautivos, de los extranjeros, de los combatientes; y también su regreso. 26. A qué distancia deben transportar las armas, los implementos y los remedios para los no fatigados <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> y los fatigados; y, una vez depositados los pertrechos, preparado un baño caliente y relajado el cuerpo, se otorga la recompensa al mérito. 27. _Hay_ que buscar a los infractores, llevar remedios a los fatigados y a los no fatigados, devolver los pertrechos al arsenal (gang<i>ŏ), asignar la parte del rehén traído de vuelta a su propia _gente_, y también muchas otras cosas sobre el mismo tema.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

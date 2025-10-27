@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 14\. Et grâce à cette œuvre fraternelle, excellente et sans tache [^12], un tel dirigeant peut être vu au-dessus du soleil avec des chevaux rapides, les luminaires primordiaux, et toute suppression des ténèbres, l'avancée de l'illumination qui est la manifestation (tô<i>g</i>isnŏ) des jours _et_ des nuits du monde [^13]. 15. Concernant le même achèvement de la rénovation _de l'univers_, il est dit dans la révélation des adorateurs de Ma<i>z</i><i>d</i>a, que cette grande lumière est le vêtement des hommes justes semblables.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

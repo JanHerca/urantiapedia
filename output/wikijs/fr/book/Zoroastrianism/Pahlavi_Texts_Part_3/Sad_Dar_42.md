@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. C'est un péché grave, et il faut veiller à ne pas le commettre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

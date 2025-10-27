@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Et si une volaille domestique a mangé des choses mortes, sa chair et ses œufs ne sont pas non plus purs pendant un an.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

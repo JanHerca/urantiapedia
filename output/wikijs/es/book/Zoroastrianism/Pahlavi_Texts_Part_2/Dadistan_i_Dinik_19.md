@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Y sobre las almas de los justos y los malvados, en los lugares espirituales ven el trono (gâs), que consideran una visión de Aûha<i>r</i>ma<i>z</i><i>d</i>. 5. Y así también aquellos que están domiciliados con (hamnemân) Aharman, a través de esa sabiduría con referencia a cuyo creador sufrirán, comprenderán minuciosamente con respecto a Aûha<i>r</i>ma<i>z</i><i>d</i> y la naturaleza de Aharman (Aharmanîh). 6. Y quien es de los justos se deleita en escapar de Aharman _y_ venir a la existencia perteneciente a Aûha<i>r</i>ma<i>z</i><i>d</i>; y ofrecerán homenaje a la gloria [^3] de Aûha<i>r</i>ma<i>z</i><i>d</i>. 7. Y aquel que es malvado, al ser engañado por Aharman y alejarse de la dirección (pe<i>l</i>ag) de Aûha<i>r</i>ma<i>z</i><i>d</i>, se vuelve más vejado _y_ más penitente; la esperanza (zahî<i>s</i>nŏ) y el perdón que posee, y la retribución _y_ los grilletes que son suyos entre los demonios _y_ espíritus por obra de sus propias manos, son _por_ el permiso que viene del más persistente de los persistentes [^4] en el período de la resurrección.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

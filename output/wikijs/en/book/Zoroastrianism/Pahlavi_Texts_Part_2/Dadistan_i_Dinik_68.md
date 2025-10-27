@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 3\. The reply is this, that the sun and moon are always seen [^2] there where they stand, and they exist for men and the creatures. 4. The sun is swifter-moving [^3] than the moon, _and_ every day becomes a little in advance; at the new moon the sun is shining, and the moon owing to diminution backwards, on account of the slenderness of the moon by much travelling [^4], and on account of the brilliance of the sun, is not apparent. 5. As the sun goes down a light which is not very apparent is the moon, and not _having_ gone down the moon is seen [^5]; and each day the moon increases, comes up more behind the sun, _and_ goes down more behind, _and_ is, therefore, more seen. 6. When increased to the utmost, which is approaching a likeness of the sun, it comes spherical (aspiharakŏ), and is seen the whole night; to diminish anew it comes back to the companionship of the sun, and goes into the splendour of the sun.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

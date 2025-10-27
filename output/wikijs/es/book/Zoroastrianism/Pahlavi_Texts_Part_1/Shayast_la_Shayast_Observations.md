@@ -65,6 +65,8 @@ M9 (moderna), nº 9 de la misma colección.
 
 TD (escrito alrededor del año 1530 d. C.), un manuscrito de los Bundahi perteneciente a Mobad Tehmuras Dinshawji Anklesaria en Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

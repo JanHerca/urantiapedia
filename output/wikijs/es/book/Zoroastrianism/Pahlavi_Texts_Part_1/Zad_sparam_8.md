@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 6\. Este fue el cuarto concurso, sobre las plantas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

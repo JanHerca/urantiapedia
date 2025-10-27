@@ -56,6 +56,8 @@ Y así yo mismo, en cualquier circunstancia en que me encuentre, como adorador d
 
 9\. Sí, alabo de inmediato la Fe de Mazda, la Fe que no titubea en su expresión [^1043], la Fe que blande la alabarda que corta [^1044], la Fe del matrimonio fraternal, el Credo sagrado, que es la más imponente, mejor y más hermosa de todas las religiones existentes, y de todas las que llegarán al conocimiento en el futuro, la Fe de Ahura, el credo zaratustriano. Sí, a Ahura Mazda le atribuyo todo el bien, y así será la adoración de la creencia mazdayasniana.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

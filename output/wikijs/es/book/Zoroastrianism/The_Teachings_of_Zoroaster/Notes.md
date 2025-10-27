@@ -54,6 +54,8 @@ Gāo era herrero durante el reinado de Zohak. Su hijo fue capturado por los sirv
 _Impreso y encuadernado por Hasell, Watson y Viney, Londres y Aylesbury_.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

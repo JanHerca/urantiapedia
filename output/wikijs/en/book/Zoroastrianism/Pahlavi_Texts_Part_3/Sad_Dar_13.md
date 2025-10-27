@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. But if they do not celebrate the sacred feast, _the consecration of_ the sacred cakes, the ceremonial, and the benedictions, _the spirits_ will remain for them _in_ that place from dawn as long as the period of a day, and are maintaining a hope that ‘perhaps they _will_ have us _in_ remembrance.’ 6. Then, if they do not bring them [^3] _into_ remembrance, the souls turn upwards from that place, go very quickly on high, and will say, ‘O creator Hôrmazd! they do not know that we are such as we are [^4], _and that_ it is necessary for them [^5] to come into this world, and in this world they will not give any one acquittal. 7. For them there is need of the good works in _consecrating_ the sacred cakes and _celebrating_ the sacred feast and benedictions; there is no need of them for such as we. 8. Yet (va lîkin), if they would have maintained a place _for_ [^6] the duty of those days, we should have turned away from them misfortunes of various kinds; but, as they have not maintained [^7] observance of us _in_ the day's duty, we are not able to come in friendship _to_ this house.’ <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> 9. Thus much they say, and turn _away_ in anger, and go away from that place.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

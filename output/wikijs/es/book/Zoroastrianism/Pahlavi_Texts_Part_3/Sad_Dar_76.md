@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Y si después de los _primeros_ cuarenta días se ve impura, a menos que sepa con certeza que proviene del infante, es necesario considerar si _está_ menstruando.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

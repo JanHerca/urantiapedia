@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 28\. Parmi les montagnes, le mont Apârsên commence dans le Sagastân et finit dans le Khûgîstân. Certains disent qu'il comprend toutes les montagnes de Pârs et qu'il est le chef de toutes les montagnes, à l'exception de l'Albûrz. 29. Parmi les oiseaux, le chef est Kamrôs [^25], qui vaut tous les oiseaux du Khvanîras, à l'exception du griffon des trois natures. 30. La conclusion est la suivante : quiconque accomplit un grand devoir a alors beaucoup de valeur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

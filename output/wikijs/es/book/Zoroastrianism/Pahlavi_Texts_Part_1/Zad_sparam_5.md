@@ -45,6 +45,8 @@ Cuando de la misma manera, e igualmente opresivamente, como sus criaturas (de AÃ
 
 5\. Y Ã©sta fue la primera contienda [^7], _la del_ cielo con Aharman.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -213,6 +213,8 @@ Los títulos de los trece capítulos que forman la segunda parte son: Relato de 
 
 La tercera parte contiene un resumen del contenido de los cien capítulos de los Sad-dar Bundahi<i>s</i>, y concluye con un relato de la fórmula ceremonial que se practica al atar el kusti o cinturón de hilo sagrado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

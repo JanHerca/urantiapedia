@@ -46,6 +46,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 6\. One [^4] is _that_, on account of him who gave the Legal, and is <i>a</i>lso the protector of a priestly master who is given over to the Hadha-mãthric, and the Gâthic, through which the purity of the good creations arises, _one_ is more steadfastly to aggrandise and develope _them_.     .     .     .     .     .     .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 8\. El espíritu de sabiduría respondió (9) así: «El ser sagrado es la protección más defensiva. 10. Un hermano virtuoso es un buen amigo. 11. Un hijo virtuoso y fiel a la religión es un buen apoyo para la fama. 12. Una esposa virtuosa y bien dispuesta es una buena ayuda para el disfrute. 13. La riqueza es mejor y más placentera cuando se acumula con honestidad, y se consume y se mantiene con deberes y buenas obras. 14. Y los placeres superiores a todos los placeres son la salud corporal, la ausencia de temor, la buena reputación y la rectitud [^4].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

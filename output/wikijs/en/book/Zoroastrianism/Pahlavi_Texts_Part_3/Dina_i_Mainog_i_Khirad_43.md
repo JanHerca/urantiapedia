@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. The spirit of wisdom answered (5) thus: ‘To make Aûha<i>r</i>ma<i>z</i><i>d</i>, the lord, and the archangels, and <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> the fragrant, well-pleasing heaven for oneself, and [^2] Aharman, the wicked, and the. demons confounded, and to escape from hell, the dark and depreciated, are possible thus: (6) that is, when they make the spirit of wisdom a protection for the back (pû<i>s</i>tîkpânakîh), (7) and wear the spirit of contentment on the body, like arms and armour and valour, (8) and make the spirit of truth [^3] a shield, (9) the spirit of thankfulness a club, (To) the spirit of complete mindfulness a bow, (11) and the spirit of liberality an arrow; (12) and they make the spirit of moderation like a spear, (13) the spirit of perseverance a gauntlet, and they put forth the spirit of destiny as a protection [^4]. 14. In this manner it is possible to come to heaven and the sight of the sacred beings, and to escape from Aharman, the wicked, and hell, the depreciated.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 11\. «Y la tarea de los agricultores es realizar la labranza y el cultivo; (12) y, en la medida de su capacidad, mantener el mundo vigorizado y poblado.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

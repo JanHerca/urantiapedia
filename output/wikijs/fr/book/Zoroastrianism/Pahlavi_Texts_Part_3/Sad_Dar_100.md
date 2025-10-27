@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le centième sujet est le suivant : lorsqu’une personne moleste ou frappe un innocent, elle commet un péché d’un Tanâvar par jour, tant qu’elle vit [1]. 2. Et, lorsqu’elle quitte ce monde, l’ange Mihir et l’ange Rashn dressent son bilan. 3. Elle est [2] pleine d’affliction, éprouve beaucoup de regrets et de pénitence, et n’en tire aucun avantage [3]. 4. Il est donc nécessaire de se tenir loin de ce péché [4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

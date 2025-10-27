@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that _it_ is otherwise; for the original good work stands up opposing sin, and the growing good work [^3] stands up opposed to the growth of sin.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

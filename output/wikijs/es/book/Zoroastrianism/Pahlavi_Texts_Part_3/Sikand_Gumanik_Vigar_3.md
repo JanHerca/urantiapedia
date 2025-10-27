@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 34\. En cuanto a lo que dicen [^7], de que en la noche oscura el justo se preserva del león, los lobos, los perros y los ladrones, (35) mientras que en el día brillante se convierte en cautivo [^8] en sus manos, (36) no es apropiado considerarlo ni como un beneficio debido a la oscuridad, ni tampoco como un mal debido a la luz. 37. Porque la luz fue creada para disipar la oscuridad, no para alejar al león, al lobo y a las criaturas nocivas. Y hay muchas otras cosas de esta naturaleza. 38. Por su tedio, esto se recopila simplemente como resumen; la virtud y el entendimiento de ustedes, triunfantes (39) son tantos, que pueden obtener más de la revelación.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -340,6 +340,8 @@ También sacrificamos por ese deseo supremo, que es el de Asha Vahi<i>s</i>sta, 
 
 <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

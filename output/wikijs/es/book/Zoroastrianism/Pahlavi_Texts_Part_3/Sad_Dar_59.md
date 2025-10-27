@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Pues, cualquier mandato, y cualquier orden del esposo <span id="p321"><sup><small>[ p. 321 ]</small></sup></span>, es necesario salir ese día. 4. Y, ciertamente, sin el permiso (riʓ̣â) del esposo, ella no debe realizar ningún trabajo, para que el Señor se complazca con esa esposa. 5. Pues la satisfacción del ser sagrado reside en la reverencia (ya<i>s</i>t) por [^4] la satisfacción del esposo; de modo que cada vez que realizan un trabajo por orden del esposo, las llaman justas en la religión; y si no, ¿cómo las llaman?
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

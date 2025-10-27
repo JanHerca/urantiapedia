@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: desde el _momento_ en que una buena obra se pone en marcha, su crecimiento continúa mientras él vive; además, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> cuando se siente afligido por esa buena obra [^2], aunque el crecimiento no cesa, crece como un niño que crece en el vientre materno.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

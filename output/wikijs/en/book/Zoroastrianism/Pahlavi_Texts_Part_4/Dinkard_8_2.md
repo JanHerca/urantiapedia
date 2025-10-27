@@ -40,6 +40,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 5\. Righteousness is perfect-excellence [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

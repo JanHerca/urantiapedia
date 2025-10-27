@@ -178,6 +178,8 @@ Nous sacrifions à l'espace lumineux éternel et souverain ; nous sacrifions au 
 
 Je loue, j'invoque, je médite et nous sacrifions aux bons, forts et bienfaisants Fravashis des saints [^97].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

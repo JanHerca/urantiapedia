@@ -118,6 +118,8 @@ Zaratustra [^81].
 
 11\. ¿Y cuándo vendrá la Justicia Divina, la Buena Mente del Señor y Su Poder Soberano, apresurándose [^84] hacia mí (para fortalecerme en mi tarea y misión), oh Gran Creador, Señor Viviente? (Pues sin Él no puedo avanzar ni emprender mi labor). Por tanto, ahora deséennos su ayuda abundante [^85] para nuestra gran causa. ¡Que seamos partícipes de la generosa gracia de estos iguales suyos [^86] (sus consejeros y siervos) [^87]!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

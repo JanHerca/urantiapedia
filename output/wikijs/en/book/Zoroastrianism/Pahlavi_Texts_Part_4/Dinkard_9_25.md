@@ -44,6 +44,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 5\. Of righteousness the excellence is perfect.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

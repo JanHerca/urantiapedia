@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. L'esprit de sagesse répondit (6) ainsi : « Quant à l'âme, c'est la libéralité, quant au monde entier, c'est la vérité, (7) pour les êtres sacrés, c'est la gratitude, quant à l'homme lui-même [^4], c'est la sagesse, (8) quant à toutes les affaires, c'est l'attention complète, et quant au confort du corps et à la victoire sur Aharman et les démons, le contentement est bon. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

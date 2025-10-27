@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. « _Et_ parmi les pauvres, le plus riche est celui qui se contente de ce qui est venu, (7) et ne se soucie pas de l'accroissement de quoi que ce soit. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

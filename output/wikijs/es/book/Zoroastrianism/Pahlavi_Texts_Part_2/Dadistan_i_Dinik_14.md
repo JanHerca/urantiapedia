@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. El castigo para el alma de los pecadores proviene de ese espíritu [^6] con quien está conectado el pecado cometido; alimentado por la iniquidad practicada, ese castigo recae sobre las almas de los pecadores y malvados, primero en la tierra, luego en el infierno y finalmente al organizar la <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> existencia futura [^7]. 7. Cuando se sufre el castigo de las tres noches [^8], el alma de los justos alcanza el cielo y la mejor existencia, y el alma de los malvados, el infierno y la peor existencia. 8. Cuando han sufrido su castigo en la renovación del universo, alcanzan, mediante la purificación completa de todo pecado, el progreso eterno, el progreso feliz y el progreso perfecto de la mejor y más tranquila existencia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

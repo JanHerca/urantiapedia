@@ -58,6 +58,8 @@ And we worship the part(s) [^1232] of the Praises of the Yasna, and their recita
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

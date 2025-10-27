@@ -121,6 +121,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 88\. Et ici aussi, un grand prodige se manifeste à l'armée (ram) d'Iran qui vient là, à la résidence d'Ar<i>âsp</i> le Khyôn, comme cela est mentionné dans la révélation : « Alors, juste au moment où sa légion est déployée séparément, Âeshm l'irrédemptible (tan<i>â</i>pûharak) s'attache (gêr<i>e</i><i>v</i>ê<i>d</i>ŏ) à lui, comme étant lui-même sans escorte (agurôh), et s'oppose complètement (ba<i>r</i>â sper<i>e</i><i>z</i>ê<i>d</i>ŏ) à lui, car : « Vous, qui êtes un Khyôn, êtes devenus malchanceux par manque de succès après vous être engagés dans un conflit. » 89. Désormais, ce n'est pas que la victoire d'Iran _ait_ viennent sur les étrangers _et_ les Khyôns - par la compagnie dans la demeure _de_ cet homme qui est plus puissant par la naissance _de_ Zaratû<i>s</i>t <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> des Spîtâmas - lorsque cette hideuse souveraineté _d'Ar<i>g</i>âsp, le mortel Khyôn, est engloutie par lui (_Vi<i>s</i>tâsp_), pour la confusion des espèces mortelles (c'est-à-dire qu'ils sont encore plus frappés par lui, l'un par l'autre ; et sont engloutis ensemble par lui, luttant mutuellement et en se dévorant mutuellement). 90. Et à côté de lui, ce Khyôn amer et endurci, qui est complètement handicapé par lui, le bon _Vi<i>s</i>tâsp_, ce _démon_ mortel, est troublé par lui des capacités éloquentes (_Zaratû<i>s</i>t_) ; et ainsi il grommela ainsi contre l'hideuse souveraineté : « La capacité prompte vient à l'existence _et_ le Khyôn est venu ; alors la capacité prompte vient à l'existence _et_ l'Irânien est venu [^47]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

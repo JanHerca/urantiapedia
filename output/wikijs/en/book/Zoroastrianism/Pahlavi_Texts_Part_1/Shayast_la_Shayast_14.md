@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 4\. This is how it is when the period _of the day_ (gâs) [^8] is retained, and how it should be when _one_ may relinquish _it_; that is, when even one of the stars created by Aûharmazd is apparent, _it_ is retained, _and_ when not _it_ is relinquished. 5. It is Vand-Aûharmazd [^9] _who_ said that when, besides Tî<i>s</i>tar, Vanand, or Satavês [^10], one of the zodiacal _stars_ (akhtarîk) is apparent, _it_ is retained, and when not _it_ is relinquished. 6. _There_ have been _some_ who said that when, besides one of those three, three zodiacal _stars_ are apparent, _it_ is retained, and when not _it_ is relinquished [^11].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

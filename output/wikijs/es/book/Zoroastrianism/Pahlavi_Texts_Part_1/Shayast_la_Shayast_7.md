@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 9\. Quienquiera que apague [^11] un fuego, por él se reunirán diez fuegos, por él se soportarán diez castigos, por él se destruirán diez hormigas [^12], y por él se presentará agua bendita (zôhar) al fuego sagrado (âtâ<i>s</i>\-i Vâhrâm).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

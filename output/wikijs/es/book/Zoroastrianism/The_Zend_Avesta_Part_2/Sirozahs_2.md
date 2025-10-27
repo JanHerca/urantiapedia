@@ -180,6 +180,8 @@ Alabo, invoco, medito y ofrezco sacrificios a los buenos, fuertes y benéficos F
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

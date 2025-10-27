@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 5\. ¡Que se complete en paz y placer!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

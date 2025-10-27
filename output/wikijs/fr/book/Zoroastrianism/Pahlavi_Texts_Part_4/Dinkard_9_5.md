@@ -43,6 +43,8 @@ _Sû<i>d</i>kar Nask_.
 
 9\. L’excellence de la justice est parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

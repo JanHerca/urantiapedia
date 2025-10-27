@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 7\. Acerca de cómo se produjo la aceptación de esta religión _por_ los profetas anteriores a Zaratû<i>s</i>t [^10], cómo llegó el puro _y_ santo Zaratû<i>s</i>t de los Spîtâmas [^11], y quiénes _vendrán_ después como portadores de la misma religión pura y buena _en adelante_ [^12]. 8. Es decir, de los profetas, apóstoles y aceptantes de la religión, _hubo_ quienes la aceptaron _concisa _y_ completamente _tal_ como Gâyômar<i>d</i>, de quien _vinieron_ irregularmente (durû<i>s</i>takŏ) _tales_ como Masyê y Sîyâmak, Hâôshâng, Tâkhmôrup, Yim, Frê<i>d</i>ûn, Mânû<i>s</i><i>k</i>îhar, el Sâmân, el Kayân, y también muchos otros líderes en _aquellos_ tiempos [^13]. 9. Y su aceptación expresa en varios momentos se produce para la acción, y con ello se elimina la adversidad de las criaturas, beneficio <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> y se busca la prosperidad, se controla el mundo y se propicia al creador y a las buenas creaciones.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

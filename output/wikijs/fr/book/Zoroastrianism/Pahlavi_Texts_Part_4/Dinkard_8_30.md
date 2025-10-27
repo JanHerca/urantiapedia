@@ -43,6 +43,8 @@ _Hûspâram Nask_.
 
 9\. D'une maison dans laquelle une personne, ou un chien, est décédé d'une maladie contagieuse, et des vêtements que l'homme portait à cause de cette maladie ; c'est-à-dire, comment ils sont lorsqu'ils sont abîmés pour être vendus pendant trois ans, comment ils sont lorsqu'ils le sont pendant deux _ans, et_ comment ils sont lorsqu'ils le sont pendant un an. D'une maison dans laquelle une personne, ou un chien, s'est reposé d'une maladie contagieuse, et n'est pas décédé après en être descendu ; et des vêtements que l'homme portait pendant cette maladie ; c'est-à-dire, comment ils sont lorsqu'ils sont abîmés pour être vendus pendant deux ans, comment ils sont lorsqu'ils le sont pendant un an, et comment ils sont lorsqu'ils le sont pendant trente nuits ; et tout ce qui est sur le même sujet. <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> 11\. De la formation d'une famille (gôharik ka<i>r</i><i>d</i>anŏ) avec des étrangers, c'est-à-dire comment cela se passe lorsque cela est autorisé. 12. D'un mouton de _bonne_ race pour les trois nuits [^4], _et de son_ abattage après les trois nuits ; de même de nombreuses autres décisions concernant la supériorité et les moutons d'une _bonne_ race.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

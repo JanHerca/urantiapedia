@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 20\. De cette graisse qui est mêlée au corps vivant d'une créature d'Aûha<i>r</i>ma<i>z</i><i>d</i> _naît_ alors aussi l'assaut [^14] des démons, comme il est montré au chapitre [^15] sur la raison de montrer un chien à une personne morte, de sorte que le corps de ceux qui sont décédés, lorsque les rongeurs sont mêlés au corps vivant d'une créature d'Aûha<i>r</i>ma<i>z</i><i>d</i>, présente une résurrection partielle et les signes de celle-ci, et ainsi les démons le maintiennent en lui (le corps vivant) et lui font souffrir [^16] par la volonté des êtres sacrés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,8 @@ MÃTHRA.
 
 8\. Nous sacrifions à l'ensemble des Louanges du Yasna, dont la structure soignée du langage a atteint son but ultime. Et nous offrons (notre hommage) dans nos célébrations à Ton corps, ô Ahura Mazda ! la plus belle des formes, ces étoiles, et à celle, la plus haute des hautes \[(Pâzand) telle qu'on appelait le soleil\]. Oui, nous adorons les Louanges du Yasna, produites par le monde ancien.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

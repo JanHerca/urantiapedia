@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. Since I have spoken _in_ this manner, and have brought forward the fasting of the seven members of the body, that which, in other religions, is fasting owing to not eating is, in our religion, fasting owing to not committing sin.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

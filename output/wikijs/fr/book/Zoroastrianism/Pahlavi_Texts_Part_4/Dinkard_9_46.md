@@ -41,6 +41,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 5\. C'est la perfection de la justice, c'est la perfection de la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

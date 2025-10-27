@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Pues afirma, en el comentario del Vendîdâ<i>d</i> [^2], que es necesario demoler la vivienda, casa y morada de cualquiera que haya [^3] ingerido materia muerta, y extraerle el corazón de su cuerpo, y es necesario sacarle los ojos. 3. Y junto con estos tormentos que le infligen, su alma está en el infierno hasta la resurrección.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

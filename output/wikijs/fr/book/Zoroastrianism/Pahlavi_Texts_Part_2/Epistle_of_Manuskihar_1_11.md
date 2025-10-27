@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 12\. Mânû<i>s</i><i>k</i>îhar, fils de Yûdân-Yim, l'a écrit au jour et au mois de Spenda<i>r</i>ma<i>d</i> [^16], dans la jouissance de la droiture, la glorification de la religion, la confiance envers les anges et la gratitude envers le créateur Aûha<i>r</i>ma<i>z</i><i>d</i>, les archanges et tous les anges des existences spirituelles et les anges des existences terrestres. 13. Louange au mois (mâh) de même nature qui est exalté en son nom avec cela.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

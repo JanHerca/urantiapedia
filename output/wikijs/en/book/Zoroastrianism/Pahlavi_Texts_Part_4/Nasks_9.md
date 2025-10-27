@@ -76,6 +76,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 23\. And the purpose of this _being_ written is so, that it is known to these humble individuals [^3] in this manner, that these books are of those tendencies, and it has been written _by_ those devout _ones_ [^4] in such manner that ‘among us no one is able to read the Pahlavi characters, and the interpretation of these Nasks is in Pahlavi; any one who does not know the Pahlavi characters is high-priest and is not able to demonstrate the miracles of the religion, nor that which was written with regard to the commentary of these Nasks.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

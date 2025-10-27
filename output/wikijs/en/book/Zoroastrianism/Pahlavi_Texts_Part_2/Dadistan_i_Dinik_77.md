@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 10\. The dupes [^9] turn the living seed from mingling with women _and_ seeking for births, just as in the like vice of any demon, connected with a longing <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> for the dupes [^10], they shall abandon that advantage of the world, the delights (vâyagânŏ) of a son [^11]. 11. He who is wasting seed makes a practice of causing the death of progeny; when the custom is completely continuous, which produces an evil [^12] stoppage of the progress of the race, the creatures _have_ become annihilated; _and_ certainly, that action, from which, when it is universally proceeding, the depopulation of the world must arise, _has_ become and furthered (frârâstŏ) the greatest wish of Aharman [^13]. 12. Such a practiser is the greatest wish of Aharman, through the demon's excretion [^14] of doubt _in_ the practice, owing to intercourse with the emitter, _which_ is most filthy and most fetid, and the emitting member, which is causing death; and the demoniacal practice [^15] is perceptible even from the same practice, and whatever is the heinousness _of_ the sinfulness is clear to observers of the dead _body_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

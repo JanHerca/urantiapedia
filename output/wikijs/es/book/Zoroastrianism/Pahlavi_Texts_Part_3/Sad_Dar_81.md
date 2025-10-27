@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 13\. Por lo tanto, esfuérzate, para que no pospongas el deber de hoy para mañana. 14. Porque Aharman, el malvado, ha confiado este asunto a dos demonios, uno llamado Tardy (dêr) y el otro llamado Afterwards (pas). 15. Ambos demonios están unidos, y <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> se esfuerzan y se esfuerzan [^8] con el hombre, de modo que su deber se retrasa [^9]. 16. Porque, respecto a todo deber y buena obra que se presenta, ese demonio llamado Tardy dice así: «Vivirás mucho tiempo, y es posible realizar este deber en todo momento»; y ese demonio llamado Afterwards dice: «Pasa ahora; 17. Y estos dos demonios unidos mantienen al alma alejada de su propio deber, hasta que llega el fin; todos los deberes han quedado rezagados, y _tiene_ que experimentar arrepentimiento ('hasarat) y penitencia. 18. No obtiene ningún beneficio a través del deber _y_ las buenas obras, _y_ parte de este mundo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -60,6 +60,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 31\. Perfect excellence is righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

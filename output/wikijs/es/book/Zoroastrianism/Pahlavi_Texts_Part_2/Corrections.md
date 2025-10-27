@@ -59,6 +59,8 @@ P. [289](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_3#
 P. [306](/es/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_7#p306), ll. 23, 24, dice «... mantener en uso la medida igual _que es_ más _la costumbre_ de sus propios superiores (naf<i>s</i>man vâspûharakântar).»
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

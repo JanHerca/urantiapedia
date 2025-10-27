@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:56:50Z
 4\. Et il en est de même pour les salutations de la lune et du feu [^4]. 5. Il est donc opportun, dans la religion, que chacun de ceux qui pratiquent la bonne religion mette en pratique les salutations.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

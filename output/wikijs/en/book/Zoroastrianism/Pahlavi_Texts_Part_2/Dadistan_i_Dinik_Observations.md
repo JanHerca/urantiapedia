@@ -72,6 +72,8 @@ M14 (a modern copy of a MS. in the library of the Parsi high-priest in Bombay), 
 
 TD, a MS. of the Bundahi<i>s</i> belonging to Môbad Tehmuras Dinshawji in Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

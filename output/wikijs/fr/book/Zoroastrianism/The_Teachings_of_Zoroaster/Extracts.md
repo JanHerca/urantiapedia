@@ -667,6 +667,8 @@ Je prie avec bénédictions pour un bienfait, et pour le bien, même pour toute 
 
 « Garde-nous de notre haineux, ô Mazda !… Péris, ô Drogue diabolique ! Péris, ô engeance du démon ! Péris, ô monde du démon !… Péris au loin dans les régions du nord, pour ne plus jamais livrer à la mort le monde vivant du saint esprit ! »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

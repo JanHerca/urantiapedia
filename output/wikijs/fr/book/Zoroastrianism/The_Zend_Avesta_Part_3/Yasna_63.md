@@ -36,6 +36,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 (Voir Y. XV, 2; Y. LXVI, 2; Y. XXXVIII, 3.)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

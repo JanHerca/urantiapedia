@@ -63,6 +63,8 @@ En Vi;. p. 83, se dice que «el pelo de buey o de caballo es adecuado, como lo d
 
 En Vig. En las páginas 144 y 145, se dice, con referencia al anuncio del nombre del difunto durante la celebración del Srôsh Yast después de una muerte, que 'el Avesta del Hâdôkht declara: "Yêzi narô mazdayasnô hak a gaêthâbyô parairithyêiti, âa d hê nãma hadha pitô frag e urvayâ d; yêzi nâirika para-irithyêiti, âa d ya d hê nãma hadha pathanô uzg e urvayâ d, ¡Spitama Zarathu<i>s</i>tra! aêtem vâ<i>k</i>em nî a<i>n</i>tare mazdayasnanãm frasastayâ<i>d</i>:—Si un hombre adorador de Ma<i>z</i><i>d</i>a fallece de la existencia mundana, en tal caso se mantiene su nombre junto con el de su padre; y si fallece una mujer, en tal caso se mantiene su nombre junto con el de su esposo, ¡oh Spîtâmân Zaratû<i>s</i>t!, se debe bendecir además esta declaración (es decir, que sea reverenciada es importante) entre los adoradores de Ma<i>z</i><i>d</i>a, (proclama y bendice aún más esta declaración)."
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

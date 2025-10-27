@@ -52,6 +52,8 @@ Shall not the invoker make offering to these good waters, and with the inculcate
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

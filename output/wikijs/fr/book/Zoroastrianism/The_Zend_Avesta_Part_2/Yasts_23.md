@@ -124,6 +124,8 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -150,60 +152,60 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 ## Notes de bas de page
 
-[^1427]: 324:1 Le Zartusht-Namah, traduit par EB Eastwick, dans Wilson's Parsi Religion, p. 495.
+[^1359]: 324:1 Le Zartusht-Namah, traduit par EB Eastwick, dans Wilson's Parsi Religion, p. 495. 
 
-[^1428]: 324:2 Ibid. p. 499.
+[^1360]: 324:2 Ibid. p. 499. 
 
-[^1429]: 324:3 Ibid. p. 501.
+[^1360]: 324:3 Ibid. p. 501. 
 
-[^1430]: 324:4 Voir Yt. XXIII, 2 ; il n'est pas clair si la déclaration d'Anquetil à cet effet (Zend-Avesta II, 623) repose sur une tradition indépendante ou seulement sur le texte de notre Ya<i>s</i>t.
+[^1361]: 324:4 Voir Yt. XXIII, 2 ; il n'est pas clair si la déclaration d'Anquetil à cet effet (Zend-Avesta II, 623) repose sur une tradition indépendante ou seulement sur le texte de notre Ya<i>s</i>t. 
 
-[^1431]: 324:5 Voir ci-dessus, [p. 70](../Yasts_5#p70), note [1](../Yasts_5#fn344).
+[^1362]: 324:5 Voir ci-dessus, [p. 70](../Yasts_5#p70), note [1](../Yasts_5#fn344). 
 
-[^1432]: 325:1 Par exemple, §§ 28, 30, 31, 39, etc.
+[^1363]: 325:1 Par exemple, §§ 28, 30, 31, 39, etc. 
 
-[^1433]: 325:2 Les différentes lectures du manuscrit de M. West sont indiquées par la lettre W. dans les notes.
+[^1364]: 325:2 Les différentes lectures dans le manuscrit de M. West sont indiquées par la lettre W. dans les notes. 
 
-[^1434]: 325:3 Voir l'introduction de ce Ya<i>s</i>t et Yt. XXIV, 3, texte et note.
+[^1365]: 325:3 Voir l'introduction à ce Ya<i>s</i>t et Yt. XXIV, 3, texte et note. 
 
-[^1435]: 326:1 Cf. Yt. V, 33.
+[^1366]: 326:1 Cf. Yt. V, 33. 
 
-[^1436]: 326:2 Cf. Yt. V, 68
+[^1367]: 326:2 Cf. Yt. V, 68 
 
-[^1437]: 326:3 Cf. Yt. XV, 11.
+[^1368]: 326:3 Cf. Yt. XV, 11. 
 
-[^1438]: 326:4 Cf. Yt. V,29.
+[^1369]: 326:4 Cf. Yt. V,29. 
 
-[^1439]: 326:5 Cf. Yt. V, 37.
+[^1370]: 326:5 Cf. Yt. V, 37. 
 
-[^1440]: 326:6 Voir Yt. XV, 28.
+[^1371]: 326:6 Voir Yt. XV, 28. 
 
-[^1441]: 326:7 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^1372]: 326:7 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315). 
 
-[^1442]: 326:8 Un membre de la famille Âthwya, dont Thraêtaona était membre. Tous portaient des noms qui montrent qu'ils étaient riches en bétail : Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, etc. (« celui qui possède beaucoup de bœufs, des bœufs utiles, le bœuf brun, etc. », Bundahi<i>s</i>, tr. West, XXXI, 7, note 8).
+[^1373]: 326:8 Un appartenant à la famille Âthwya, dont Thraêtaona était membre. Tous portaient des noms qui montrent qu'ils étaient riches en bétail : Pûr-tôrâ, Sôk-tôrâ, Bôr-tôrâ, etc. (« celui qui possède de nombreux bœufs, des bœufs utiles, le bœuf brun, etc. », Bundahi<i>s</i>, tr. West, XXXI, 7, note 8). 
 
-[^1443]: 326:9 Pouru<i>s</i>-aspa était le père de Zarathu<i>s</i>tra. Son nom signifie « Celui qui possède de nombreux chevaux », πολύ-ιππος.
+[^1374]: 326:9 Pouru<i>s</i>-aspa était le père de Zarathu<i>s</i>tra. Son nom signifie « celui qui possède de nombreux chevaux », πολύ-ιππος. 
 
-[^1444]: 326:10 Cf. Yt. V, 61.
+[^1375]: 326:10 Cf. Yt. V, 61. 
 
-[^1445]: 326:11 Cf. Yt. XXIV, 4.
+[^1376]: 326:11 Cf. Yt. XXIV, 4. 
 
-[^1446]: 327:1 De Vî<i>s</i>tâspa et de sa femme Hutaosa.
+[^1377]: 327:1 De Vî<i>s</i>tâspa et de sa femme Hutaosa. 
 
-[^1447]: 327:2 Cf. Yt. XXIV, 4.
+[^1378]: 327:2 Cf. Yt. XXIV, 4. 
 
-[^1448]: 327:3 Cf. Sîrôzah, § 11.
+[^1379]: 327:3 Cf. Sîrôzah, § 11. 
 
-[^1449]: 327:4 Cf. Yt. XI.
+[^1380]: 327:4 Cf. Yt. XI. 
 
-[^1450]: 327:5 Cf. Yt. XII, Introduction.
+[^1381]: 327:5 Cf. Yt. XII, Introduction. 
 
-[^1451]: 327:6 Cf. Yt. XIV.
+[^1382]: 327:6 Cf. Yt. XIV. 
 
-[^1452]: 327:7 Cf. Yt. XV.
+[^1383]: 327:7 Cf. Yt. XV. 
 
-[^1453]: 327:8 Kai Khosrav est allé vivant au Paradis (Firdausi).
+[^1384]: 327:8 Kai Khosrav s'en alla vivant au Paradis (Firdausi). 
 
-[^1454]: 327:9 Il termine sa bénédiction en lui souhaitant le bonheur au paradis.
+[^1385]: 327:9 Il termine sa bénédiction en lui souhaitant la félicité au ciel. [ 
 
-[^1455]: 327:10 Yasna XXXV, 2 (4-5).
+^1386]: 327:10 Yasna XXXV, 2 (4-5).

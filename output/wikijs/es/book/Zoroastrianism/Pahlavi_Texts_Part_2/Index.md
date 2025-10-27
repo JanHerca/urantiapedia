@@ -1789,6 +1789,8 @@ Zoroastrianos, Int. 14.
 
 Zôtŏ, ver Sacerdote, oficiando.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

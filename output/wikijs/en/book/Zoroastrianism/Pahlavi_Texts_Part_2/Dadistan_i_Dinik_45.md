@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. And both professions are the indispensable preservers of great decisions _as to_ that which the priestly disposition _has_ taught, done, and considered about the perpetual existence of every being, the complete goodness _and_ final success of the non-existent evil _and_ entire good of the sacred beings, the annihilation of the demons [^6], _and_ the complete understanding of the friends of the sacred beings.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

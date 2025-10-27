@@ -41,6 +41,8 @@ To understand the relationship between these two classes of Parsi sacred writing
 
 Regarding the sacredness of these Pahlavi translations, in the eyes of the Parsis, there can be no manner of doubt, so far as they cannot be shown to be inconsistent with the <span id="pxi"><sup><small>[ p. xi ]</small></sup></span> original Avesta text. But besides these translations there is another class of Pahlavi religious writings whose authority is more open to dispute. These writings are either translations and Zands of Avesta texts no longer extant, or they contain the opinions and decisions of high-priests of later times, when the Pahlavi language was on the decline. Such writings would hardly be considered of indisputable authority by any Parsi of the present day, unless they coincided with his own preconceived opinions. But for outsiders they have the inestimable value either of supplying numerous details of religious traditions and customs which would be vainly sought for elsewhere, or of being contemporary records of the religious ideas of the Parsis in the declining days of their Mazdayasnian faith. It is with a few of such writings this volume has to deal; but before describing them more minutely it will be desirable to give some account of the Pahlavi language in which they are written.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

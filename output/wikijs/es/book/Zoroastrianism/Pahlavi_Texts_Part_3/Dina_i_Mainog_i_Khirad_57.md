@@ -57,6 +57,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 32\. «Y esto también se declara, que, en cuanto a aquel que es un hombre ignorante y de mal carácter, cuando alcanza incluso mucha eminencia, opulencia y autoridad, incluso entonces no es apto para elevarse a ese bienestar y autoridad.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

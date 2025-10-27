@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. And it is still more expedient for priests _and_ teachers, that they teach the Avesta characters to all those of the good religion [^1]: and if a priest, while teaching, shows incompetence (taqʓîr), it is a great sin for him. 3. For Hôrmazd, the good _and_ propitious, spoke to Zaratu<i>s</i>t thus: ‘_As to_ every priest and teacher _who_ commits a blunder in teaching [^2] those of the good religion, I make him just as far from heaven as the width of the earth [^3].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

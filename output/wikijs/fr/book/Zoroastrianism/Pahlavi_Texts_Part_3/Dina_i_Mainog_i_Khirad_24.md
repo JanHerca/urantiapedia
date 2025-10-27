@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Ils accordent ; (5) car _il y a_ ce qu'ils appellent ainsi : « Destin _et_ providence divine. » 6. Le destin est ce qui est ordonné dès le commencement, (7) _et_ la providence divine est ce qu'ils accordent aussi autrement. 8. Mais les êtres sacrés fournissent et manifestent dans l'_existence_ spirituelle une petite partie de ce don, à cause de cela, parce qu'Aharman, le méchant [^2], par le pouvoir des sept planètes extorque la richesse, et aussi tous les autres bienfaits de l'_existence_ terrestre, aux bons _et_ aux dignes, _et_ les accorde plus pleinement aux mauvais _et_ aux indignes. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

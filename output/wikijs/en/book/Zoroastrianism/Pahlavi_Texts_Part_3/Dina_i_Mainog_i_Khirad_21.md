@@ -48,6 +48,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 40\. ‘The friends of him who is an arrogant man are few, and his enemies many. 41. And even of the gifts which he gives to any one, _and_ the ceremonial, too, which he performs for the sacred beings, they shall accept little, on account of _his_ arrogance, (42) and give little of the gain, too, which he seeks. 43. And in hell they deliver him to the fiend of arrogance, in order to inflict punishment upon _his_ soul; (44) and the fiend of arrogance inflicts punishment of various kinds upon it, _and_ is not pacified.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Y es aún más conveniente para los sacerdotes y maestros que enseñen los caracteres del Avesta a todos aquellos de buena religión [^1]: y si un sacerdote, mientras enseña, muestra incompetencia (taqʓîr), es un gran pecado para él. 3. Porque Hôrmazd, el bueno y propicio, le dijo a Zaratust así: «A todo sacerdote y maestro que cometa un error al enseñar [^2] a aquellos de buena religión, lo dejo tan lejos del cielo como la anchura de la tierra [^3]».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

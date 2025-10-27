@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. And the consciousness of men, as it sits three nights outside of the body, in the vicinity of the body, _has_ to remember and expect that _which_ is truly fear and trouble (khâr) unto the demons, _and_ reward, peace, and glad tidings (nôvîk) unto the spirits of the good; and, on account of the dispersion and injuring of the body, it utters a cry spiritually, <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> thus: ‘Why do the dogs and birds gnaw this organised body, when still at last the body and life unite together at the raising of the dead?’ 8. And this is the reminding of the resurrection _and_ liberation, and it becomes the happiness and hope of the spirit of the body _and_ the other good spirits, and the fear _and_ vexation of the demons and fiends.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

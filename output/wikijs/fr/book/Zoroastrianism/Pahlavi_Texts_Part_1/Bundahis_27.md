@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 25\. Il s'agit des plantes dont chaque espèce ayant une goutte d'eau sur une branche (teh) doit être tenue à quatre largeurs de doigts devant le feu [^42] ; c'est surtout du lotus (kûnâr) dont il est question.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

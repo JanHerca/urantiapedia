@@ -52,6 +52,8 @@ _Bakŏ Nask_.
 
 17\. Righteousness is perfect excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

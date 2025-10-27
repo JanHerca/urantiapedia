@@ -51,6 +51,8 @@ _Hûspâram Nask_.
 
 17\. Un exposé sur l'eau, concernant la description et l'étendue de l'humidité de la terre. 18. Du péché consistant à rendre quoi que ce soit inutile par l'eau ou le feu. 19. De la suppression des deux tiers de la misère du monde, en l'éradiquant des créatures par toute l'illumination du feu ; et de la suppression de toute adversité de la vie des créatures, grâce à l'absence de malice humaine, l'une envers l'autre, et grâce à leur parfaite sympathie mutuelle.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

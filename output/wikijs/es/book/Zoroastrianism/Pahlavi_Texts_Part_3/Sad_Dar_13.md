@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Pero si no celebran la fiesta sagrada, _la consagración de_ los pasteles sagrados, el ceremonial y las bendiciones, los espíritus permanecerán en ese lugar desde el amanecer hasta que dure un día, con la esperanza de que quizá nos recuerden. 6. Entonces, si no los recuerdan, las almas se elevan desde ese lugar, ascienden [^3] rápidamente y dicen: «¡Oh, creador, Hôrmazd! No saben que somos como somos, y que es necesario que vengan a este mundo, [^4] y en este mundo [^5] no perdonarán a nadie». 7. Para ellos son necesarias las buenas obras al _consagrar_ los pasteles sagrados y _celebrar_ la fiesta y las bendiciones; no las necesitan para nosotros. 8. Sin embargo (va lîkin), si hubieran mantenido un lugar _para_ [^6] el deber de esos días, les habríamos alejado desgracias de diversos tipos; pero, como no han mantenido [^7] la observancia de nosotros _en_ ​​el deber del día, no podemos venir en amistad _a_ esta casa.» <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> 9. Esto dicen, y se alejan enojados y se van de ese lugar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

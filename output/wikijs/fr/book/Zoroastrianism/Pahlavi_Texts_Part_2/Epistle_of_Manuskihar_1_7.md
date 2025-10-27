@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 16\. Et quant à ce qui est écrit concernant les trois cents cailloux [^20] qui, répandus <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> lors de l'ablution cérémonielle (pâ<i>d</i>yâ<i>v</i>ŏ), sont jetés (va<i>l</i>) dans l'urine et l'eau du taureau, cela est enseigné de la même manière ; la prière intérieure (vâ<i>g</i>ŏ) [^21], même lorsqu'on ne les jette pas, est dans l'enseignement existant, ce qui est approprié. 17. De plus, en raison du bon marché [^22] et de l'innocuité des cailloux, les purificateurs sont moins restrictifs à leur égard, et boire la chose ainsi est bien curatif dans son exécution. 18. Dans l'enseignement existant des purificateurs imparfaits, il devrait être très avantageux de le maintenir comme facile ; de plus, il n'est pas dit qu'il n'est pas approprié, et dans l'enseignement d'Afarg, il est dit qu'il est approprié.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

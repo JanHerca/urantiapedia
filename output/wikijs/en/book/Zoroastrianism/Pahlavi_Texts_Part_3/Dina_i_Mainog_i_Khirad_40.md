@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 29\. ‘And _as to_ that which is asked by thee concerning the spiritual and worldly _existences_, the worldly _existence_ is, in the end, death and disappearance, (30) and of the spiritual _existence_, in the end, <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> that of a soul of the righteous is undecaying, immortal, and undisturbed, full of glory and full of enjoyment, for ever and everlasting, with the angels and archangels and the guardian spirits [^11] of the righteous. 31. And the bridge [^12] and destruction [^13] and punishment of the wicked in hell are for ever and everlasting [^14]. 32. And the wicked soul, apart from the punishment, contemplates the existence, and even the appearance [^15], with the demons and fiends just as, in the worldly _existence_, a healthy man _does that_ with him who is very grievously sick.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

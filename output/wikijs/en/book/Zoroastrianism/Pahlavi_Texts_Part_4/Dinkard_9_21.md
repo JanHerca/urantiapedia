@@ -60,6 +60,8 @@ _Sû<i>d</i>kar Nask_.
 
 25\. Perfect excellence is righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

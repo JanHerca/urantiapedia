@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Por esta razón, porque el ignorante considera, en su pensamiento, su propia ignorancia tan buena como el sabio considera, en su pensamiento, su propio conocimiento.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

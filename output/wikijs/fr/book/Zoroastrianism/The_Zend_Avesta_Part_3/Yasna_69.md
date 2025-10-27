@@ -43,6 +43,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 Ce chapitre est composé de fragments : voir Y. XV, 2 ; et Y. LI, 1 et 22.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

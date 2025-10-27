@@ -63,6 +63,8 @@ i7. Ceci aussi, que par celui qui accueille Aûha<i>r</i>ma<i>z</i><i>d</i> en l
 
 30\. La justice est parfaite par excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

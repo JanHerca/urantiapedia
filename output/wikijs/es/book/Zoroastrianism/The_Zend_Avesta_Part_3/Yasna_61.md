@@ -38,6 +38,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 5\. ¿Y cómo expulsaremos de aquí al Demonio de la Mentira [^1312]? Sí, ¿cómo expulsaremos de aquí a la Droga, los profetas que aún servirán y salvarán (a tu pueblo), para que, teniendo poder sobre ella, aunque completamente indefensa, podamos expulsarla con un golpe de los siete Karshvars, para enfrentar y desalojar a todo el mundo maligno [^1313]?
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

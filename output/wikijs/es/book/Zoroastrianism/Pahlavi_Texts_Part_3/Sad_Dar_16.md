@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. Durante cuarenta días no es apropiado que dejen al niño solo; y tampoco es apropiado que la madre del infante ponga el pie sobre el umbral de la vivienda, ni ponga la vista en una colina, porque eso [^2] es malo para su menstruación.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

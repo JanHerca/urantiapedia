@@ -43,6 +43,8 @@ dateCreated: 2025-10-5T18:50:3Z
 4\. More authoritatively (dastôbarîhâ) it is said that bone-receptacle is a vault (ka<i>d</i>akŏ) of solid stone [^5], and its covering (nihûmbakŏ) _one_ is to <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> construct also of a single stone which is cut perforated (sûlâk-hômand), and around it _one_ is to fill in with stone and mortar [^6].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

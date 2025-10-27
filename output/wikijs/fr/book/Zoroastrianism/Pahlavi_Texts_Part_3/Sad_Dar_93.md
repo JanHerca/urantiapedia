@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Afin qu'ils _montrent_ à ton âme, _lorsqu'elle_ [^6] renonce à la vie, la satisfaction (i<i>g</i>zâ) du péché, il est <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> déclaré, dans le commentaire du Vendîdâ<i>d</i>, _quant à_ quiconque commet une calomnie, si _la personne offensée_ va devant lui _et_ lui demande un don juste, et qu'il fournisse un don juste pour cette _personne_, le péché s'éloigne de lui.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

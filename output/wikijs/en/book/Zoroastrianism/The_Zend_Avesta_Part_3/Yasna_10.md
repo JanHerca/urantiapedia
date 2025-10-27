@@ -90,6 +90,8 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

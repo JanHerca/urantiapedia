@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 10\. Car, chaque fois que cette coutume (qâ'hidat) est pratiquée en un lieu, par le premier Ashem-vohû tant de bonnes œuvres sont apparues qu'elles ont apaisé l'être sacré, le bon et le propice ; par le deuxième Ashem-vohû tant de bonnes œuvres sont apparues qu'elles ont révéré et [^11] apaisé Srôsh, le juste [^12] ; par le troisième Ashem-vohû tant de bonnes œuvres sont apparues qu'elles ont révéré et [^11] apaisé Khurdâ<i>d</i> _et_ Ameredâ<i>d</i> [^13], les archanges ; et par le quatrième Ashem-vohû tant de bonnes œuvres sont apparues que tout ce que le créateur Hôrmazd a créé devient révéré et apaisé. 11. Et à chaque bouchée (luqmah) mangée, tant que la prière intérieure subsiste, ils <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> proclament une bénédiction pour les archanges Khurdâ<i>d</i> et Ameredâ<i>d</i>. 12. _Mais_, si on la mange sans la prière intérieure, comme les démons sont à cet endroit [^14], ils disent : « Tu aurais pu manger le venin d'un serpent. » 13. Par conséquent, fais attention à savoir lequel des deux est le meilleur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

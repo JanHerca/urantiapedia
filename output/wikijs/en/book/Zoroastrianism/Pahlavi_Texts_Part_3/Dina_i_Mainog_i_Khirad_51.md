@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. The spirit of wisdom answered (5) thus: ‘_As to_ him who is a lazy, ignorant, and bad man, when his destiny becomes a helper, that laziness of his then becomes like unto diligence, that ignorance unto [^1] knowledge, and that vileness unto [^2] goodness. 6. And _as to_ him who is a wise, worthy, and good man, when his destiny is an opponent, that wisdom of his then turns to stupidity and foolishness (alakîh), and that worthiness to ignorance; (7) and _his_ <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> knowledge, skill, and worthiness become manifestly secluded [^3].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -163,6 +163,8 @@ JOHN MURRAY, ALBEMARLE STREET, LONDRES, W.
 
 NB — Les éditeurs seront heureux de recevoir des suggestions et des communications de toutes les personnes intéressées par la littérature orientale.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

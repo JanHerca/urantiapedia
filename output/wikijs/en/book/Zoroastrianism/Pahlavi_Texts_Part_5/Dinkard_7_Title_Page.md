@@ -40,6 +40,8 @@ AND IN THE SELECTIONS OF ZÂ<i>D</i>\-SPARAM
 
 CHAPTERS XII-XXIV.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

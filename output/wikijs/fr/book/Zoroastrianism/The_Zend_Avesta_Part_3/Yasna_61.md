@@ -38,6 +38,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Et comment chasserons-nous le Démon du Mensonge d'ici [^1312] ? Oui, comment, nous, les prophètes qui devons encore servir et sauver (ton peuple), chasserons-nous la Druga d'ici, afin que, ayant pouvoir sur elle alors que nous sommes totalement démunis, nous puissions la chasser d'ici par le coup des sept Karshvars, pour affronter et déloger le monde maléfique tout entier [^1313] ?
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

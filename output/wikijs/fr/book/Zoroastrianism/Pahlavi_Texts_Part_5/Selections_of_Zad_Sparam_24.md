@@ -67,6 +67,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 19\. Le dixième _est qu'il doit_ y avoir une période d'obéissance (Srôshdârîh) envers le dirigeant et l'autorité sacerdotale, le grand sacerdoce des religieux [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

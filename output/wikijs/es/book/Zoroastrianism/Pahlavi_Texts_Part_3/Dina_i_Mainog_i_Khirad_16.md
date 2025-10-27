@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 64\. «De la vestimenta que la gente posee _y_ usa [^20], la seda es buena para el cuerpo y el algodón para el alma. 65. Por esta razón, porque la seda surge de una criatura nociva [^21], (66) y el algodón se nutre del agua, y _su_ crecimiento de la tierra [^22]; y como tesoro del alma se le llama grande, bueno y más valioso.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

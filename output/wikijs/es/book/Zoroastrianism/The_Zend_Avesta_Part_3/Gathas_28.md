@@ -82,6 +82,8 @@ Traducción.
 
 12\. (Sí, me acerco a Ti con mis oraciones, yo) quien por estos (grandes dones de gracia) protegeré (Tu Divina Rectitud y Tu Buena Mente en nosotros) para siempre. Y por tanto, ¡oh Ahura Mazda!, enséñame de Ti mismo, sí, de Tu propia boca espiritual, para que pueda declarar (a este Tu pueblo que espera) por qué (poderes y según qué leyes [^129]) surgió el mundo primigenio [^130].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

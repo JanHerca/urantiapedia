@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 20\. Esto, _también, dice_, que el mes auspicioso Fravar<i>d</i>în, el mes Ar<i>d</i>avahi<i>s</i>t, _y_ el mes Horvada<i>d</i> [^29] son ​​primavera; el mes Tîr, el mes Amerôda<i>d</i>, _y_ el mes Shatvaîrô son verano; el mes Mitrô, el mes Âvân, _y_ el mes Âtarô son otoño; el mes Dîn, el mes Vohûman, _y_ el mes Spendarma<i>d</i> son invierno [^30]. 21. Y el sol viene del signo (khûr<i>d</i>ak) de Aries, al que procedió en el principio, de vuelta a ese mismo lugar en trescientos sesenta y cinco días y seis tiempos cortos (horas), que son un año. 22. Como cada tres meses (el sol) avanza a través de tres constelaciones, más o menos, la luna vuelve, en ciento ochenta días, al lugar del que viajó en el principio [^31].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

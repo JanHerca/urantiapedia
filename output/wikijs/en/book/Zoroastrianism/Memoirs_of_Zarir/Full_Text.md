@@ -258,6 +258,8 @@ By the name of the Creator Auharmazd and by the good omen of good creation, may 
 
 114\. He said: “Go and tell what you have seen from my —the hero Spendadad's—hand; otherwise how can the Khyaonas know what has happened on the day Farvardin, in the constellation of the dragon, in the war of Vishtasp?”
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

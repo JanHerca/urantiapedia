@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. And when they commit _the sin_ with women, it is just the same as that with men.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Quant à ce qu'il pense [^8] de ces délivrances révélées, accomplies et annoncées, je m'intéresse plus particulièrement à la signification d'une chose : leur observance solennelle. 6. L'observance solennelle du Mê<i>d</i>yôk-mâh se trouve dans l'enseignement [^9] du Mê<i>d</i>yôk-mâh, et celles d'Afarg et de Sôshâns sont chacune méditées et indiquées dans un enseignement ; et la position nettement supérieure de chacune d'elles est mentionnée par lui dans son exposé de tout enseignement et de la décision établie. 7. De plus, par égard pour son propre choix, il l'a considéré (l'enseignement précédent) comme imparfait, et, en raison de ce qu'il n'a pas atteint – qui était une ré-explication des mêmes bonnes idées fournies – sa dissemblance avec lui n'est pas passée inaperçue [^10]. 8. _Mais_ quand _on_ entend les ré-expliquateurs d'une vraie réponse, on est bien protégé (hû-zinharî<i>d</i>ŏ) par une pleine conscience [^11], _et_ on est lui-même sûr que l'enseignement de Mê<i>d</i>yôk-mâh n'est pas la déclaration entière de Mê<i>d</i>yôk-mâh, car il y a beaucoup d'opinions de <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> Mê<i>d</i>yôk-mâh [^12] _qui_ ont décidé _d'une autre manière ; non pas que tout ce que Mê<i>d</i>yôk-mâh a dit ne soit pas bon, mais dans l'enseignement de Mê<i>d</i>yôk-mâh, il est certain que même ce qui n'est pas bon est mentionné plusieurs fois comme une possibilité [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

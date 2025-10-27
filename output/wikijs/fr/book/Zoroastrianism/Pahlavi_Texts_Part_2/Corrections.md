@@ -58,6 +58,8 @@ P. [289](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_3#
 
 P. [306](/fr/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_7#p306), ll. 23, 24, lire '. . . de garder en usage la mesure égale _qui est_ plutôt _la coutume_ de ses propres supérieurs (naf<i>s</i>man vâspûharakântar). »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

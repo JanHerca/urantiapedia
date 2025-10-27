@@ -235,6 +235,8 @@ Además de la descripción detallada de la ceremonia de Bareshnûm, encontramos 
 
 El otro relato, mucho más breve, se encuentra en Vend. XI X, 67-84. Especifica que la orina debe ser de un toro joven y que el purificador debe hacer un surco; menciona la recitación de cien Ashem-vohûs y doscientos Yathâ-ahû-vairyôs, cuatro lavados con orina de toro y dos con agua, nueve noches de exposición, seguidas de la atención al fuego y la fumigación, cuando el hombre se viste mientras rinde homenaje a los seres sagrados, y queda limpio; pero no se dan más detalles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

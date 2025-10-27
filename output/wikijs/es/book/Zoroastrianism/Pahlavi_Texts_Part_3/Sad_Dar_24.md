@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Si en ese momento no realizan la consagración, _deben_ tomar un poco de Hôm para ello [^3], y recitar [^4] un Yathâ-ahû-vairyô [^5], y poner un poco de agua en _él_, y hacer jugo de Hôm con eso, y dárselo _al infante, y después [^6] leche.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

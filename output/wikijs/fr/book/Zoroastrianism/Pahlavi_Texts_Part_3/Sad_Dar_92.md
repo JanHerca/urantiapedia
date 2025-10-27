@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Les démons et les démons s'enfuient, car il y a la gloire du feu sacré qui nous permet de créer une existence vivante au milieu de ce <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> peuple. 5. Car, si aucun démon [^4] et la gloire des archanges et le jour du feu sacré n'avaient existé, il n'aurait été possible de produire une existence vivante aucun jour. 6. Et, par conséquent, il est opportun qu'ils fournissent un gardien du feu pour entretenir le bois de chauffage et le feu, afin que la recherche de sa sécurité ('hâfiyat) puisse entrer en action, et qu'ils puissent connaître un soutien et une protection pour lui qui seraient acceptables.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

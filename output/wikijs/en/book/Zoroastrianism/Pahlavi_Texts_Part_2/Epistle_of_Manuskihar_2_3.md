@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 14\. When, then, you write of it that they should always perform it just as now, the falsity therein is <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> grievous (yagar), and I know none worse; for this washing and professional purification which _one_ is to keep in operation—as is declared by revelation, the teaching of high-priests, and those of the primitive faith who are esteemable [^24]\—you withdraw (madam dârê<i>d</i>ŏ) from the midst _of us_. 15. That _which_ you understand yourself is that unto Aûha<i>r</i>ma<i>z</i><i>d</i> the confederate good creatures are as _it were_ defiled _and_ in the eyes of the good _and_ wise _they are_ as _it were_ propitiatory towards the mischievous Vâê [^25]. 16. And your words about it are just as they say concerning a beggar [^26], where a garment is given to him, thus: ‘Wash the dirt (âlûg) on him thoroughly clean;’ _and_ that garment they shall take is put upon the fire _and_ burnt; and he spoke thus: ‘My dirt _was_ a comfort.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

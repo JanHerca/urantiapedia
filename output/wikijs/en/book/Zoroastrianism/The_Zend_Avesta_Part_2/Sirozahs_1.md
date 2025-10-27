@@ -184,6 +184,8 @@ To the eternal [^87] and sovereign luminous space [^88]; to the bright Gar√¥-nm√
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

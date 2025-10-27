@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 <i>u</i>. La excelencia es la rectitud _que es_ perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

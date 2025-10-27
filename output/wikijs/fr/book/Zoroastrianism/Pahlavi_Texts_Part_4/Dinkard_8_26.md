@@ -51,6 +51,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask._
 
 25\. De la proportion de ceux qui gardent les armes (zâ<i>ê</i>) pour les combattants et, après une victoire sur les étrangers, enlèvent les otages et les captifs, parmi les étrangers, aux combattants ; ainsi que leur retour d'eux. 26. À quelle distance d'eux ils doivent porter les armes, les appareils et les remèdes pour les infatigables <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> et les fatigués ; et, les accoutrements étant déposés, un bain chaud préparé et la relaxation du corps effectuée, la récompense du mérite est donnée. 27. _Il faut_ rechercher les coupables, apporter des remèdes aux infatigables et aux fatigués, remettre les attirails à l'arsenal (gan<i>g</i>ŏ), répartir la part de l'otage ramené à son propre peuple, et encore beaucoup d'autres choses sur le même sujet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

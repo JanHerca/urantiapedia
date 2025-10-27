@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:56:50Z
 2\. Car il est déclaré dans la révélation [^3], que, chaque année, lorsque le jour Khurdâ<i>d</i> du mois Fravardîn arrive, ils attribuent une provision quotidienne _pour_ l'humanité, et tout ce que _l'on_ souhaite transmettre au sort de l'humanité cette année-là, ils l'écrivent ce jour-là. 3. C'est pourquoi, lorsqu'ils consacreront ce gâteau sacré, l'archange Khurdâ<i>d</i> [^4] intercédera pour cette personne.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

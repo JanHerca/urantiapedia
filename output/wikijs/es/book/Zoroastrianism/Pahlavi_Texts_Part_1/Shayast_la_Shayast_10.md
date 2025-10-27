@@ -111,6 +111,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 40\. La regla es esta, como dijo Âtarô-pâ<i>d</i>, hijo de Mâraspend [^70], cuando todos fallecieron: «El velo de la boca [^71] y también la ropa deben estar bien separados de los regalos (dasarân), para que su alma se sienta más tranquila». Completado en paz y placer.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

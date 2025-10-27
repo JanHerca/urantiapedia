@@ -45,6 +45,8 @@ I. El décimo tema es este, que es obligación de todos los de buena religión, 
 
 15\. Y, además, cuando los arcángeles vinieron al encuentro de Zaratust, también llevaban el cinturón sagrado; y la característica distintiva (farq) entre las leyes del ser sagrado es el uso del cinturón sagrado. 16. Es obligatorio tanto para la mujer como para el hombre, y es totalmente (albattah) impropio no llevarlo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

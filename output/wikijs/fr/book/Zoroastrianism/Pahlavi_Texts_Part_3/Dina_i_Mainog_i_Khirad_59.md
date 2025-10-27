@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 10\. « _Et_ les vices des artisans sont l'incrédulité, le manque d'actions de grâces, le murmure inapproprié des prières, la morosité et les injures. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

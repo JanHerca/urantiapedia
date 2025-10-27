@@ -46,6 +46,8 @@ Le Ratu parle : En tant qu'Ahû (vénéré et) à choisir, le Zaotar me parle.
 
 Le Zaotar : Alors que le Ratu, de par sa justice, saint et savant, parle !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. La tierra donde partió la vida de Gâyômar<i>d</i> es oro, _y_ de la otra tierra, donde ocurrió la disolución de _sus_ diversos miembros, fluyeron muchos tipos de metales decorativos, se dice [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

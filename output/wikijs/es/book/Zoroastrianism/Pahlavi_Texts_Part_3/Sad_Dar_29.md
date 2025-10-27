@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Por lo tanto, es necesario esforzarse para que no den a los indignos. 3. Porque en la revelación, en cuanto a [^1] quien da alguna munificencia a los indignos, lo llaman obra vana y un don sin provecho; y día tras día es [^2] <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> el castigo y tormento de esa persona. 4. Y, todo lo que dan a los indignos, lo han extinguido.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

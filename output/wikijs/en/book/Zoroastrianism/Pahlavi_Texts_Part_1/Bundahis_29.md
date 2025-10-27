@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 10\. As to Kangde<i>z</i>, _it is_ in the direction of the east, at many leagues from the bed (var) [^39] of the <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> wide-formed ocean towards that side. 11. The plain of Pê<i>s</i>yânsaî is in Kâvulistân, as it says, that the most remarkable upland (bâlist) in Kâvulistân is where Pê<i>s</i>yânsaî is; there it is hotter, on the more lofty elevations there is no heat [^40]. 12. Aîrân-vê<i>g</i> is in the direction of Âtarô-pâtakân [^41]. 13. The land of S<i>a</i>ukavastân is on the way from Tûrkistân to <i>K</i>înistân, in the direction of the north. 14. \[The enclosure\] [^42] formed by Yim is _in_ the middle of Pârs, in Sruvâ [^43]; thus, they say, that _what_ Yim formed (Yim-kar<i>d</i>) is below Mount Yimakân [^44]. 15. Ka<i>s</i>mîr is in Hindûstân.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

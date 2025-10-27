@@ -36,6 +36,8 @@ P. 161, nota 4, en lugar de «Dâd-sparam» léase «Zâd-sparam»; también en 
 
 P. 199, nota 6, en lugar de «Shâpûr I» léase «Shâpûr II».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

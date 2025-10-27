@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: en la revelación de los adoradores de Ma<i>z</i><i>d</i>a se dice que los impedimentos (râs-bandîh), por los cuales _hay_ vejación en la rectitud, se deben a que su doctrina es esta: que, con respecto a la dificultad, ansiedad e incomodidad que ocurren a través de las buenas obras puestas en marcha, no es deseable considerarlas _como mucha dificultad, problema e incomodidad. 3. Mientras que no es deseable considerarlas _como ansiedad y dificultad, se declara entonces por ello [^2] que, como recompensa, tanto consuelo _y_ placer vendrá al alma, que nadie debe pensar en esa dificultad e incomodidad que le sobrevino a través de tantas buenas obras, porque es firme en mantener la buena religión y expresa acciones de gracias (va stâye<i>d</i>ŏ). 4. Y en cuanto a la incomodidad [^3] que nuestra buena religión ha experimentado, proviene de sus oponentes. <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 5\. Mediante la llegada de la religión, gozamos plenamente (ba<i>r</i>â gûkârêm), y gracias a ella, a diferencia de los esclavos (abûr<i>d</i>ŏgânvâr), no nos volvemos inconstantes entre los ángeles; nuestra vida espiritual (ahvôîh) de alabanza llega entonces lista, y gracias a los ángeles hay gozosa salutación, vida espiritual y gloria para el alma.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

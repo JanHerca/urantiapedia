@@ -43,6 +43,8 @@ _Hûspâram Nask_.
 
 9\. Sobre una casa en la que una persona, _o_ un perro, ha fallecido a causa de una enfermedad contagiosa, y la ropa que el hombre vestía debido a esa enfermedad; es decir, cómo es cuando está dañada para la venta _durante_ tres _años_, cómo es cuando _está así_ durante dos _años_, y cómo es _cuando está así_ durante un año. Sobre una casa en la que una persona o un perro reposó debido a una enfermedad contagiosa y no falleció tras su descendencia; y la ropa que vestía el hombre durante esa enfermedad; es decir, cómo se encuentra cuando se encuentra deteriorada para la venta durante dos años, cómo se encuentra cuando se encuentra deteriorada durante un año y cómo se encuentra cuando se encuentra deteriorada durante treinta noches; y todo lo relacionado con el mismo tema. <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> 11\. Sobre la formación de una familia (gôharik ka<i>r</i><i>d</i>anŏ) con extranjeros, es decir, cómo es cuándo está permitido. 12. Sobre una oveja de _buena_ raza durante las tres noches [^4], _y su_ sacrificio después de las tres noches; asimismo muchas otras decisiones respecto a la superioridad y las ovejas de una _buena_ raza.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

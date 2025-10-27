@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 1\. La cuadragésima novena pregunta es la siguiente: _Si_ vendieran vino a extranjeros e infieles, ¿cuál sería entonces la decisión al respecto? <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> 2\. La respuesta es esta: _existe_ un gran peligro de pecado grave, y sería una mala ocupación. 3. Pero si a través de la operación de esa venta de vino suya, el vino se mantiene más lejos de aquellos que empeoran por beber vino inmoderado, _y_ llega a aquellos que beben vino con moderación [^1]\—_a quienes_ hacen que mejoren al beber el vino—más que cuando no practican esa venta del vino, entonces a través de esa venta suya, el poder que está en la riqueza [^2], por su mantenimiento de la cual un hombre es confirmado (pa<i>d</i>ayînî<i>d</i>ŏ) en la buena religión y desviado de entrar en la infidelidad, el progreso del pecado se impide _y_ las buenas obras se promueven, se convierte en la ayuda del bien y la protección de la religión, el obstáculo del pecado y la ayuda de las buenas obras, que, cuando no practican esa venta de vino, no surgen, _y_ que son mucho más promovidas que los varios pecados que podrían haber surgido del consumo ilegal de vino. 4. O, de otro modo, la decisión mayor -y grandes son las buenas obras que en ella se aseguran- es así: «Quienes vendan vino [^3] a extranjeros, infieles y otros de quienes surge una conducta ilícita a través de la ebriedad, actúan de manera muy pecaminosa y no autorizada.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

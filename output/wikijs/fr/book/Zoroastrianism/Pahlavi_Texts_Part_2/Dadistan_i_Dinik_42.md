@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. Et autant ce qui est une loi impropre _et_ une loi digne de mort est un châtiment de l'âme, et les paroles décousues [^8] et la perversion (va<i>s</i>takîh), dues aussi à la perfidie (rangi<i>s</i>nŏ) du démon _qui est_ venu, sont telles qu'en son temps les rites religieux (dînô) accomplis sont des rites de grave vexation _et_ de peur, de même ce qui est une loi appropriée, comme la grande glorification en esprit et les paroles liées des grands prêtres, est l'arrivée du bon esprit autant qu'une vertu digne de récompense _et_ pleine d'espoir. 7. De même que ce qui est dit ainsi : « Des hommes qui pratiquent de bonnes actions, la manifestation est alors dans leurs enfants. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘To him who is a wise and contented man it is _but_ little possible to bring disturbance.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

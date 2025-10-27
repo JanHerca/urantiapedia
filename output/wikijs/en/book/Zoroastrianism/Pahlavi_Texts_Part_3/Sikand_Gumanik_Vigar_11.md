@@ -156,6 +156,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 374\. As regards these statements, which are enumerated by us, (375) one of these two _opinions_ must arise, (376) either that all are true or that all are false, (377) or there are _some_ which are true and there are _some_ which are false. 378. If all _be_ true, every statement that is not adapted to these statements is false, _or_ something _of_ the two, truth and falsehood. 379. If all _be_ false, every statement that is not adapted to these statements is true, _or_ something _of_ the two together [^66]. 380. If there be _some_ that are true and there be _some_ that are false, (381) then of those which are true—_derived_ from the nature and nucleus (nâf) of truth—(382) and of those which are false—_derived_ from the nature and nucleus and original evolution of falsehood—(383) the origins are two, one from which _arises_ truth, _and_ one _from_ which _arises_ falsehood.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

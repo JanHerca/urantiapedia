@@ -148,6 +148,8 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -174,77 +176,76 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 ## Footnotes
 
-[^227]: 41:1 Ard-î-behi<i>s</i>t is the Parsi form for Asha vahi<i>s</i>ta, ard being derived from arta, the Persian form corresponding to the Zend asha.
+[^214]: 41:1 Ard-î-behi<i>s</i>t is the Parsi form for Asha vahi<i>s</i>ta, ard being derived from arta, the Persian form corresponding to the Zend asha.
 
-[^228]: 41:2 See Sîrôzah I, 3, and below the introductory formula.
+[^215]: 41:2 See Sîrôzah I, 3, and below the introductory formula.
 
-[^229]: 41:3 See Vend. Introd. IV, 30.
+[^216]: 41:3 See Vend. Introd. IV, 30.
 
-[^230]: 41:4 Ibid. 33.
+[^217]: 41:4 Ibid. 33.
 
-[^231]: 41:5 See Yt. XVII, 18.
+[^218]: 41:5 See Yt. XVII, 18.
 
-[^232]: 41:6 Fargard XXII and Introd.
+[^219]: 41:6 Fargard XXII and Introd.
 
-[^233]: 41:7 As above, Yt. I, 0.
+[^220]: 41:7 As above, Yt. I, 0.
 
-[^234]: 42:1 Sîrôzah I, 3.
+[^221]: 42:1 Sîrôzah I, 3.
 
-[^235]: 42:2 Several manuscripts add here the full invocation of the greater Sîrôzah:
+[^222]: 42:2 Several manuscripts add here the full invocation of the greater Sîrôzah:
+  ‘We sacrifice unto Asha-Vahi<i>s</i>ta, the fairest, the Amesha-Spe<i>n</i>ta;
+  We sacrifice unto the much-desired Airyaman;
+  We sacrifice unto the instrument, made by Mazda;
+  We sacrifice unto the good Saoka, with eyes of love, made by Mazda and holy.’
 
-‘We sacrifice unto Asha-Vahi<i>s</i>ta, the fairest, the Amesha-Spe<i>n</i>ta;
-We sacrifice unto the much-desired Airyaman;
-We sacrifice unto the instrument, made by Mazda;
-We sacrifice unto the good Saoka, with eyes of love, made by Mazda and holy.’
+[^223]: 42:3 The Garô-nmânem or Paradise; see Yasna XVI, 7 \[XVII, 42\], Phl. tr.
 
-[^236]: 42:3 The Garô-nmânem or Paradise; see Yasna XVI, 7 \[XVII, 42\], Phl. tr.
+[^224]: 42:4 The principal clause appears to be wanting, unless Zarathu<i>s</i>tra is supposed to interrupt Ahura. One might also understand the sentence in an optative sense: ‘Mayest thou increase . . .’
 
-[^237]: 42:4 The principal clause appears to be wanting, unless Zarathu<i>s</i>tra is supposed to interrupt Ahura. One might also understand the sentence in an optative sense: ‘Mayest thou increase . . .’
+[^225]: 43:1 Here again it seems as if a paragraph had been lost: ‘Ahura Mazda answered: Proclaim thou Asha-Vahi<i>s</i>ta; if thou proclaimest Asha-Vahi<i>s</i>ta . . . .—Then Zarathu<i>s</i>tra replied: I proclaim Asha-Vahi<i>s</i>ta . . .’
 
-[^238]: 43:1 Here again it seems as if a paragraph had been lost: ‘Ahura Mazda answered: Proclaim thou Asha-Vahi<i>s</i>ta; if thou proclaimest Asha-Vahi<i>s</i>ta . . . .—Then Zarathu<i>s</i>tra replied: I proclaim Asha-Vahi<i>s</i>ta . . .’
+[^226]: 43:2 The Garôthmân.
 
-[^239]: 43:2 The Garôthmân.
+[^227]: 43:3 An allusion to the three Paradises of Humat, Hûkht, Hvar<i>s</i>t, through which the souls of the blessed pass to Garôthmân (Yt. XXII, 15).
 
-[^240]: 43:3 An allusion to the three Paradises of Humat, Hûkht, Hvar<i>s</i>t, through which the souls of the blessed pass to Garôthmân (Yt. XXII, 15).
+[^228]: 43:4 The prayer known as Airyama-ishyô; see Vendîdâd XXI, 11-12.
 
-[^241]: 43:4 The prayer known as Airyama-ishyô; see Vendîdâd XXI, 11-12.
+[^229]: 43:5 See Vend. Introd. IV, 20-21.
 
-[^242]: 43:5 See Vend. Introd. IV, 20-21.
+[^230]: 44:1 Cf. Vendîdâd VII, 44 (118). That Airyaman made use of the Holy Word (of spells) to cure diseases appears from Vend. XXII, 6 seq.
 
-[^243]: 44:1 Cf. Vendîdâd VII, 44 (118). That Airyaman made use of the Holy Word (of spells) to cure diseases appears from Vend. XXII, 6 seq.
+[^231]: 44:2 Paityâra: every work of Ahura was opposed and spoiled by a counter-work of Angra Mainyu. Cf. Bundahi<i>s</i> I, 23 seq.; III, 23 seq.; Vend. I; see Ormazd et Ahriman, §§ 195 seq.
 
-[^244]: 44:2 Paityâra: every work of Ahura was opposed and spoiled by a counter-work of Angra Mainyu. Cf. Bundahi<i>s</i> I, 23 seq.; III, 23 seq.; Vend. I; see Ormazd et Ahriman, §§ 195 seq.
+[^232]: 44:3 See Yt. I, 10 and note 4.
 
-[^245]: 44:3 See Yt. I, 10 and note 4.
+[^233]: 44:4 The Ahrimanian creatures belonging to mankind, the Mairyas and Ashemaoghas (Yt. I, 10).
 
-[^246]: 44:4 The Ahrimanian creatures belonging to mankind, the Mairyas and Ashemaoghas (Yt. I, 10).
+[^234]: 44:5 The courtezan; cf. Vend. XXI, 27 (35), and Introd. IV, 25.
 
-[^247]: 44:5 The courtezan; cf. Vend. XXI, 27 (35), and Introd. IV, 25.
+[^235]: 45:1 The Zend is Kahvaredhaini, a synonym of which, Kahvaredha, Yasna LXI, 2 \[LX, 7\], is translated impairer of Glory, which means very likely: he who makes one ‘dwindle, peak, and pine’ (cf. Vend. XVIII, 62-64).
 
-[^248]: 45:1 The Zend is Kahvaredhaini, a synonym of which, Kahvaredha, Yasna LXI, 2 \[LX, 7\], is translated impairer of Glory, which means very likely: he who makes one ‘dwindle, peak, and pine’ (cf. Vend. XVIII, 62-64).
+[^236]: 45:2 From the country of hell; cf. Vend. VII, 2; XIX, 1; Yt. XXII, 25.
 
-[^249]: 45:2 From the country of hell; cf. Vend. VII, 2; XIX, 1; Yt. XXII, 25.
+[^237]: 47:1 One set of manuscripts insert: ‘He will smite the wind that blows against the North, he will afflict the wind that blows against the North; the wind that blows against the North \[will perish\].’ This is most likely an interpolation, as the wind that blows against the North (if this is the right meaning of aparô apâkhtara, as opposed to pourvô apâkhtara) blows against Angra Mainyu.
 
-[^250]: 47:1 One set of manuscripts insert: ‘He will smite the wind that blows against the North, he will afflict the wind that blows against the North; the wind that blows against the North \[will perish\].’ This is most likely an interpolation, as the wind that blows against the North (if this is the right meaning of aparô apâkhtara, as opposed to pourvô apâkhtara) blows against Angra Mainyu.
+[^238]: 47:2 Cf. Vendîdâd VIII, 21.
 
-[^251]: 47:2 Cf. Vendîdâd VIII, 21.
+[^239]: 47:3 That is to say, worth being accepted: cf. Yt. X, 32; the Parsis translate, ‘a sacrifice heard \[from the lips of the Dastûrs\]’ ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/04700.jpg); East India Office, XXV, 42).
 
-[^252]: 47:3 That is to say, worth being accepted: cf. Yt. X, 32; the Parsis translate, ‘a sacrifice heard \[from the lips of the Dastûrs\]’ ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/04700.jpg); East India Office, XXV, 42).
+[^240]: 47:4 The Haoma and Myazda.
 
-[^253]: 47:4 The Haoma and Myazda.
+[^241]: 47:5 See Vend. III, 1, note 2.
 
-[^254]: 47:5 See Vend. III, 1, note 2.
+[^242]: 47:6 Hizvô danghah: huzvân dânâkîh (Phl. tr.) means ‘the right formulas.’
 
-[^255]: 47:6 Hizvô danghah: huzvân dânâkîh (Phl. tr.) means ‘the right formulas.’
+[^243]: 47:7 ‘The Avesta’ (Phl. tr.).
 
-[^256]: 47:7 ‘The Avesta’ (Phl. tr.).
+[^244]: 47:8 The several operations of the sacrifice.
 
-[^257]: 47:8 The several operations of the sacrifice.
+[^245]: 47:9 As above, Yt. I, 22.
 
-[^258]: 47:9 As above, Yt. I, 22.
+[^246]: 48:1 Cf. Sîrôzah I, 2.
 
-[^259]: 48:1 Cf. Sîrôzah I, 2.
+[^247]: 48:2 As above, [p. 22](../Yasts_1#p22).
 
-[^260]: 48:2 As above, [p. 22](../Yasts_1#p22).
-
-[^261]: 48:3 Who shall offer a sacrifice to Asha-Vahi<i>s</i>ta; cf. Yt. I, 33 and notes.
+[^248]: 48:3 Who shall offer a sacrifice to Asha-Vahi<i>s</i>ta; cf. Yt. I, 33 and notes.

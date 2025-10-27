@@ -376,6 +376,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -402,241 +404,241 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1267]: 286:1 Sîrôzah I, 28.
+[^1205]: 286:1 Sîrôzah I, 28. 
 
-[^1268]: 287:1 Lo mismo que el Hara Berezaiti, el posterior Albôrz; véase [p. 58](../Yasts_5#p58), nota [3](../Yasts_5#fn296).
+[^1206]: 287:1 Lo mismo que el Hara Berezaiti, el posterior Albôrz; véase [p. 58](../Yasts_5#p58), nota [3](../Yasts_5#fn296). 
 
-[^1269]: 287:2 El mar Caspio.
+[^1207]: 287:2 El mar Caspio. 
 
-[^1270]: 287:3 Dudoso: pâre<i>n</i>tarem aredhô; posiblemente más allá.
+[^1208]: 287:3 Dudoso:pâre<i>n</i>tarem aredhô; posiblemente más allá. 
 
-[^1271]: 287:4 Según los Bundahi<i>s</i>, Manusha es otro nombre del monte Zeredhô (XII, 2). Es la montaña donde nació Mânû<i>s</i><i>k</i>îhar (ibid. 10).
+[^1209]: 287:4 Según los Bundahi<i>s</i>, Manusha es otro nombre del monte Zeredhô (XII, 2). Es la montaña donde nació Mânû<i>s</i><i>k</i>îhar (ibid. 10).
 
-[^1272]: 287:5 'La montaña que da entendimiento, que preserva el entendimiento', el posterior Monte Ô<i>s</i>dâ<i>s</i>târ; véase [p. 33](../Yasts_1#p33), nota [1](../Yasts_1#fn172).
+[^1210]: 287:5 'La montaña que da entendimiento, que preserva el entendimiento', el posterior Monte Ô<i>s</i>dâ<i>s</i>târ; véase [p. 33](../Yasts_1#p33), nota [1](../Yasts_1#fn172). 
 
-[^1273]: 287:6 Véase [p. 65](../Yasts_5#p65), nota [2](../Yasts_5#fn319).
+[^1211]: 287:6 Véase [p. 65](../Yasts_5#p65), nota [2](../Yasts_5#fn319). 
 
-[^1274]: 287:7 El monte Arzûr 'es una cumbre en la puerta del infierno' (Bundahi<i>s</i> XII, 8; cf. Vend. III, 7 (23); XIX, 140).
+[^1212]: 287:7 El Monte Arzûr 'es una cumbre en la puerta del infierno' (Bundahi<i>s</i> XII, 8; cf. Vend. III, 7 (23); XIX, 140). 
 
-[^1275]: 287:8 El Arzûr Bûm de Bundahi<i>s</i> XII, 2, que 'está en dirección a Arûm' (Asia Menor, Bundahi<i>s</i> XII, 16).
+[^1213]: 287:8 El Arzûr Bûm de Bundahi<i>s</i> XII, 2, que 'está en dirección a Arûm' (Asia Menor, Bundahi<i>s</i> XII, 16). 
 
-[^1276]: 287:9 La montaña Rôyi<i>s</i>n-ômand de Bundahi<i>s</i> XII, 27; su nombre p. 288 significa 'la montaña en la que ha crecido la vegetación' (ibid. tr. West).
+[^1214]: 287:9 La montaña Rôyi<i>s</i>n-ômand de Bundahi<i>s</i> XII, 27; su nombre p. 288 significa 'la montaña en la que ha crecido la vegetación' (ibid. tr. Oeste). 
 
-[^1277]: 288:1 La montaña Bâdghês cerca de Herât, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/28800.jpg).
+[^1215]: 288:1 La montaña Bâdghês cerca de Herât, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/28800.jpg). 
 
-[^1278]: 288:2 O «Monte Iskata («escarpado»), perteneciente a la cordillera Upairi-saêna». La cordillera Upairi-saêna o Aparsên es «la montaña de Persia, y su comienzo está en Seistân y su fin en Susiana» (Bund. XII, 9).
+[^1216]: 288:2 O 'Monte I<i>s</i>kata (“escarpado”), perteneciente a la cordillera Upairi-saêna'. La cordillera Upairi-saêna o cordillera Aparsên es 'la montaña de Persia, y su comienzo está en Seistân y su fin en Susiana' (Bund. XII, 9). 
 
-[^1279]: 288:3 ? Kãsô-tafedhra; posiblemente el nombre de una montaña; Monte Kãsô-tafedhra Vafra.
+[^1217]: 288:3 ? Kãsô-tafedhra; posiblemente el nombre de una montaña; Monte Kãsô-tafedhra Vafra. 
 
-[^1280]: 288:4 Véase [p. 67](../Yasts_5#p67), nota [4](../Yasts_5#fn335).
+[^1218]: 288:4 Véase [p. 67](../Yasts_5#p67), nota [4](../Yasts_5#fn335). 
 
-[^1281]: 288:5 'Si<i>k</i>idâv, una montaña entre las que están en Kangde<i>z</i>' (Bund. XII, 2, tr. Oeste).
+[^1219]: 288:5 'Si<i>k</i>idâv, una montaña entre las que están en Kangde<i>z</i>' (Bund. XII, 2, tr. Oeste). 
 
-[^1282]: 288:6 Véase [p. 7](../Sirozahs_1#p7), nota [5](../Sirozahs_1#fn43).
+[^1220]: 288:6 Véase [p. 7](../Sirozahs_1#p7), nota [5](../Sirozahs_1#fn43). 
 
-[^1283]: 288:7 El monte Siyâk-ômand ('la montaña negra') y el monte Vafar-ômand ('la montaña nevada') de Bundahi<i>s</i> XII, 22, que se dice que crecieron en la cresta de Apârsên y se extienden hacia China.
+[^1221]: 288:7 El monte Siyâk-ômand ('la montaña negra') y el monte Vafar-ômand ('la montaña nevada') de Bundahi<i>s</i> XII, 22, que se dice que surgieron de la cresta de Apârsên y se extienden hacia China. 
 
-[^1284]: 289:1 La montaña Spendyâd, cerca del monte Rêvand (Bundahi<i>s</i> XII, 23).
+[^1222]: 289:1 La montaña Spendyâd, cerca del monte Rêvand (Bundahi<i>s</i> XII, 23). 
 
-[^1285]: 289:2 La montaña Kôndrâsp, junto a la ciudad de Tûs (en Khorasan, Bund. XII, 24).
+[^1223]: 289:2 La montaña Kôndrâsp, junto a la ciudad de Tûs (en Khorasan, Bund. XII, 24). 
 
-[^1286]: 289:3 La montaña Kôîrâs en Îrân-Vê<i>g</i> (Bund. XII, 25).
+[^1224]: 289:3 La montaña Kôîrâs en Îrân-Vê<i>g</i> (Bund. XII, 25). 
 
-[^1287]: 289:4 Cf. Yt. XV, 7, y [p. 58](../Yasts_5#p58), nota [2](../Yasts_5#fn295).
+[^1225]: 289:4 Cf. Yt. XV, 7, y [p. 58](../Yasts_5#p58), nota [2](../Yasts_5#fn295). 
 
-[^1288]: 289:5 Véase [p. 8](../Sirozahs_1#p8), notas [1](../Sirozahs_1#fn46) y [2](../Sirozahs_1#fn47).
+[^1226]: 289:5 Véase [p. 8](../Sirozahs_1#p8), notas [1](../Sirozahs_1#fn46) y [2](../Sirozahs_1#fn47). 
 
-[^1289]: 289:6 'Las demás montañas han crecido a partir de Albûr<i>z</i>, en número de 2244 montañas' (Bund. XII, 2).
+[^1227]: 289:6 'Las otras montañas han crecido a partir de Albûr<i>z</i>, en número de 2244 montañas' (Bund. XII, 2). 
 
-[^1291]: 289:7 Véase notas a Yt. III, 17 ([p. 47](../Yasts_3#p47)).
+[^1228]: 289:7 Véanse las notas a Yt. III, 17 ([p. 47](../Yasts_3#p47)). 
 
-[^1292]: 290:1 §§ 11-12 = §§ 19-20, 23-24, 89-90.
+[^1229]: 290:1 §§ 11-12 = §§ 19-20, 23-24, 89-90. 
 
-[^1293]: 290:2 Dudoso.
+[^1230]: 290:2 Dudoso. 
 
-[^1294]: 290:3 Como arriba, § 9.
+[^1231]: 290:3 Como arriba, § 9. 
 
-[^1295]: 290:4 §§ 15-17 = Yt. XIII, 82-84.
+[^1232]: 290:4 §§ 15-17 = Yt. XIII, 82-84. 
 
-[^1296]: 291:1 §§ 19-20 = §§ 11-12.
+[^1233]: 291:1 §§ 19-20 = §§ 11-12. 
 
-[^1297]: 291:2 Los Saoshya<i>n</i><i>t</i>s; véase [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769).
+[^1234]: 291:2 Los Saoshya<i>n</i><i>t</i>s; véase [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769). 
 
-[^1298]: 291:3 §§ 23-24 = §§ 19-20.
+[^1235]: 291:3 §§ 23-24 = §§ 19-20. 
 
-[^1299]: 292:1 Durante cuarenta años, según los Bundahi<i>s</i> (XXXIV, 4); durante treinta años, según Firdausi.
+[^1236]: 292:1 Durante cuarenta años, según los Bundahi<i>s</i> (XXXIV, 4); durante treinta años, según Firdausi.
 
-[^1300]: 292:2 Véase Yt. V, 22.
+[^1237]: 292:2 Véase Yt. V, 22. 
 
-[^1301]: 293:1 Cf. Yt. XV, 12, y notas.
+[^1238]: 293:1 Cf. Yt. XV, 12, y notas. 
 
-[^1302]: 293:2 Durante seiscientos dieciséis años y seis meses (Bundahi<i>s</i> XXXIV, 4).
+[^1239]: 293:2 Durante seiscientos dieciséis años y seis meses (Bundahi<i>s</i> XXXIV, 4). 
 
-[^1303]: 293:3 Véase Yt. V, 26, texto y nota.
+[^1240]: 293:3 Véase Yt. V, 26, texto y nota. 
 
-[^1304]: 293:4 Comida y bebida.
+[^1241]: 293:4 Comida y bebida. 
 
-[^1305]: 293:5 Cf. Yt. XV, 16.
+[^1242]: 293:5 Cf. Yt. XV, 16. 
 
-[^1306]: 293:6 Él fingió ser un dios (Firdausi).
+[^1243]: 293:6 Fingió ser un dios (Firdausi). 
 
-[^1307]: 293:7 Dudoso: fraê<i>s</i>ta.
+[^1244]: 293:7 Dudoso: fraê<i>s</i>ta. 
 
-[^1308]: 294:1 A<i>z</i>i Dahâka y sus seguidores.
+[^1245]: 294:1 A<i>z</i>i Dahâka y sus seguidores. 
 
-[^1309]: 294:2 Se describe que la Gloria se retira tres veces, porque es triple, según pertenezca al rey, ya sea sacerdote, guerrero o labrador. En ese triple carácter, es idéntica a Âdar Frobâ, Âdar Gushasp y Âdar Bûrzîn Mihr ([p. 7](../Sirozahs_1#p7), notas).
+[^1246]: 294:2 La Gloria se describe como partiendo tres veces, porque es triple, según pertenezca al rey considerado como sacerdote, guerrero o labrador. En ese triple carácter es idéntica a Âdar Frobâ, Âdar Gushasp y Âdar Bûrzîn Mihr ([p. 7](../Sirozahs_1#p7), notas). 
 
-[^1310]: 294:3 Un cuervo, una de las encarnaciones del Genio de la Victoria (Yt. XIV, 18-21; cf. ibid. § 35).
+[^1247]: 294:3 Un cuervo, una de las encarnaciones del Genio de la Victoria (Yt. XIV, 18-21; cf. ibid. § 35). 
 
-[^1311]: 294:4 Cf. Yt. V, 34.
+[^1248]: 294:4 Cf. Yt. V, 34. 
 
-[^1312]: 295:1 Véase V, 37 (págs. [62](../Yasts_5#p62)\-[63](../Yasts_5#p63), y notas); XIII, 136; XV, 27.
+[^1249]: 295:1 Véase V, 37 (págs. [62](../Yasts_5#p62)\-[63](../Yasts_5#p63), y notas); XIII, 136; XV, 27. 
 
-[^1313]: 295:2 Cf. Yasna IX, II (34-39). Este relato pertenece al extendido ciclo de la ballena-isla (una ballena cuyo lomo es confundido por los marineros con una isla; desembarcan en ella, cocinan allí su comida, y el monstruo, despertado por el calor, huye y se los lleva: véase Las mil y una noches, Septuagésima primera noche; Babâ Bathrâ, 5).
+[^1250]: 295:2 Cf. Yasna IX, II (34-39). Este relato pertenece al extendido ciclo de la ballena-isla (una ballena cuyo lomo es confundido por los marineros con una isla; desembarcan en ella, cocinan allí su comida y el monstruo, despertado por el calor, vuela y se los lleva: véase Las mil y una noches, Septuagésima primera noche; Babâ Bathrâ, 5). 
 
-[^1314]: 295:3 Véase Yt. V, 38.
+[^1251]: 295:3 Véase Yt. V, 38. 
 
-[^1315]: 295:4 Conocido en el Minokhired (XXVII, 50) como 'el lobo Kapô<i>d</i>' (quizás 'el lobo azul', como sugiere el Sr. West), 'al que también llaman P<i>e</i>han'. Esos nueve hijos de Pathana eran nueve salteadores de caminos (la misma palabra Pathana parece tener ese significado): su derrota es contada por Keresâspa en un Pahlavi Rivâyat de la siguiente manera: 'He matado a los salteadores de caminos que eran tan grandes en cuerpo que, cuando caminaban, la gente consideraba de esta manera, que "debajo de ellos están las estrellas y la luna, y debajo de ellos se mueve el sol al amanecer, y el agua del mar llega hasta sus rodillas". Y llegué hasta sus piernas, y fueron golpeados en las piernas por mí; Cayeron, y las colinas de la tierra fueron destrozadas por ellos (West, Textos Pahlavi, II, 376). Por consiguiente, el Fravashi de Keresâspa se invoca contra los ladrones (Yt. XIII, 136). Quizás la asimilación del lobo Kapô<i>d</i> con P<i>e</i>han sea simplemente una suposición del autor del Minokhired.
+[^1252]: 295:4 Conocido en el Minokhired (XXVII, 50) como 'el lobo Kapô<i>d</i>' (quizás 'el lobo azul', como sugiere el Sr. West), 'al que también llaman P<i>e</i>han'. Esos nueve hijos de Pathana eran nueve salteadores de caminos (la misma palabra Pathana parece tener ese significado): su derrota es contada por Keresâspa en un Pahlavi Rivâyat de la siguiente manera: 'He matado a los salteadores de caminos que eran tan grandes en cuerpo que, cuando caminaban, la gente consideraba de esta manera, que "debajo de ellos están las estrellas y la luna, y debajo de ellos se mueve el sol al amanecer, y el agua del mar llega hasta sus rodillas". Y yo llegué hasta sus piernas, y fueron golpeados en las piernas por mí; Cayeron, y las colinas de la tierra fueron destrozadas por ellos' (West, Textos Pahlavi, II, 376). El Fravashi de Keresâspa, en consecuencia, se invoca contra los ladrones (Yt. XIII, 136). Quizás la asimilación del lobo Kapô<i>d</i> con P<i>e</i>han sea meramente una suposición del autor del Minokhired. 
 
-[^1316]: 296:1 El asesino del hermano de Keresâspa, Urvâkhshaya (Yt. XV, 28).
+[^1253]: 296:1 El asesino del hermano de Keresâspa, Urvâkhshaya (Yt. XV, 28). 
 
-[^1317]: 296:2 Dudoso: dânayana. Vâresha es el nombre pahlavi de un ave rapaz (Bund. XIV, 30), lo que podría inducirnos a identificar a Vareshava con el gigantesco pájaro Kamak, «que cubrió la tierra con su sombra y evitó la lluvia hasta que los ríos se secaron» (West, ll 378), y cuya destrucción fue una de las hazañas de Keresâspa.
+[^1254]: 296:2 Dudoso: dânayana. Vâresha es el nombre Pahlavi de un ave rapaz (Bund. XIV, 30), lo que podría inducirnos a identificar a Vareshava con el gigantesco pájaro Kamak, 'que cubrió la tierra y mantuvo alejada la lluvia hasta que los ríos se secaron' (West, ll 378), y cuya destrucción fue una de las hazañas de Keresâspa.
 
-[^1318]: 296:3 Como los Pairika Knãthaiti, que se adhirieron a Keresâspa (Vend. I, 10 \[36\]).
+[^1255]: 296:3 Como el Pairika Knãthaiti, que se adhirió a Keresâspa (Vend. I, 10 \[36\]). 
 
-[^1319]: 296:4 Dudoso: frâzu<i>s</i>tem.
+[^1256]: 296:4 Dudoso: frâzu<i>s</i>tem. 
 
-[^1320]: 296:5 El resto de la oración es oscura y el texto parece estar corrupto.
+[^1257]: 296:5 El resto de la oración es oscuro y el texto parece estar corrupto. 
 
-[^1321]: 297:1 Snâvidhaka nos recuerda vívidamente al titánico Oto y Efialtes (Odisea XI, 308):
-  ¡Así eran de jóvenes! Si hubieran llegado a la edad adulta,
-  El Todopoderoso Júpiter había temblado en su trono:
-  Pero antes de que comenzara la cosecha de la barba
-  Erizarse la barbilla y prometerle al hombre,
-  Apolo apuntó sus flechas. (Papa.)
+[^1258]: 297:1 Snâvidhaka nos recuerda vívidamente a los titánicos Oto y Efialtes (Odisea XI, 308): 
+  &nbsp;&nbsp;&nbsp;&nbsp;'¡Así eran de jóvenes! Si hubieran llegado a la edad viril, 
+  &nbsp;&nbsp;&nbsp;&nbsp;El Todopoderoso Júpiter habría temblado en su trono: 
+  &nbsp;&nbsp;&nbsp;&nbsp;Pero antes de que la siega de la barba comenzara 
+  &nbsp;&nbsp;&nbsp;&nbsp;A erizarse en la barbilla y a prometer al hombre, 
+  &nbsp;&nbsp;&nbsp;&nbsp;Sus flechas Apolo apuntó. (Papa.) 
 
-[^1324]: 297:2 La Gloria sacerdotal; véase [p. 11](../Sirozahs_1#p11), nota [6](../Sirozahs_1#fn78), cf. § 53.
+[^1259]: 297:2 La gloria sacerdotal; véase [p. 11](../Sirozahs_1#p11), nota [6](../Sirozahs_1#fn78), cf. § 53. 
 
-[^1323]: 297:3 Cuando partió de Yima.
+[^1260]: 297:3 Cuando se hubo apartado de Yima. 
 
-[^1325]: 297:4 Mal Pensamiento, la contraparte demoníaca de Vohu-Manô (Vend. Introd. IV, 34).
+[^1261]: 297:4 Mal Pensamiento, la contraparte demoníaca de Vohu-Manô (Vend. Introd. IV, 34). 
 
-[^1326]: 297:5 Spityura era hermano de Yima (Bund. XXXI, 3: «Spîtûr fue quien, junto con Dahâk, descuartizó a Yim», ibíd. 5, tr. Oeste). No se sabe nada más de él, aunque parece haber desempeñado un papel importante en la leyenda original de Yima, y ​​haber mantenido con su hermano la misma relación que Barmâyûn y Katâyûn con Ferîdûn, o p. 298 Shagâd con Rustam. Firdausi no lo menciona, y afirma que el propio Dahâk vio a <i>G</i>emshîd.
+[^1262]: 297:5 Spityura era hermano de Yima (Bund. XXXI, 3: «Spîtûr fue quien, con Dahâk, descuartizó a Yim», ibid. 5, tr. West). No se sabe nada más de él, aunque parece haber desempeñado un papel importante en la leyenda original de Yima, y ​​haber mantenido con su hermano la misma relación que Barmâyûn y Katâyûn con Ferîdûn, o p. 298 Shagâd con Rustam. Firdausi no lo menciona, y hace que el propio Dahâk viera a <i>G</i>emshîd. 
 
-[^1327]: 298:1 Aquí se quiere decir Âdar Frobâ (la Gloria del Sacerdote): 'cuando aserraron a Yim, Âdar Frobâ salvó su Gloria de la mano de Dahâk' (Bund. XVII, 5; Études Iraniennes, II, 70, 84).
+[^1263]: 298:1 Âdar Frobâ (la Gloria del Sacerdote) se entiende aquí: 'cuando aserraron a Yim, Âdar Frobâ salvó su Gloria de la mano de Dahâk' (Bund. XVII, 5; Études Iraniennes, II, 70, 84). 
 
-[^1329]: 298:2 Dudoso.
+[^1264]: 298:2 Dudoso. 
 
-[^1330]: 299:1 Apãm Napâ<i>t</i>; véase [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28).
+[^1265]: 299:1 Apãm Napâ<i>t</i>; véase [p. 6](../Sirozahs_1#p6), nota [1](../Sirozahs_1#fn28). 
 
-[^1331]: 299:2 Una alusión a antiguos mitos sobre el origen ígneo de la vida (Ormazd et Ahriman, § 78).
+[^1266]: 299:2 Una alusión a los antiguos mitos sobre el origen ígneo de la vida (Ormazd et Ahriman, § 78). 
 
-[^1332]: 299:3 Dudoso.
+[^1267]: 299:3 Dudoso. 
 
-[^1333]: 299:4 Pues esa Gloria es la que pertenece al Âthravan.
+[^1268]: 299:4 Como esa Gloria es la que pertenece al Âthravan. 
 
-[^1334]: 300:1 Véase Études Iraniennes, II, 227; cf. Artículo 82.
+[^1269]: 300:1 Véase Études Iraniennes, II, 227; cf. § 82. 
 
-[^1335]: 300:2 El lago Husru está a cincuenta leguas (parasang) del lago <i>K</i>ê<i>k</i>ast' (lago Urumiah, Bund. XXII, 8, tr. Oeste).
+[^1270]: 300:2 El lago Husru está a cincuenta leguas (parasang) del lago <i>K</i>ê<i>k</i>ast' (lago Urumiah, Bund. XXII, 8, tr. Oeste). 
 
-[^1336]: 300:3 Cf. §§ 60, 63.
+[^1271]: 300:3 Cf. §§ 60, 63. 
 
-[^1337]: 300:4 Itha itha yathana ahmâi.
+[^1272]: 300:4 Itha itha yathana ahmâi. 
 
-[^1338]: 300:5 Tarshu<i>k</i>a khshudra<i>k</i>a, traducido como dhânyâni madhûni<i>k</i>a (traducción al sánscrito de Âfrîgân Gâhambâr, § 12). Afrâsyâb fue acusado de devastar Irán al obstruir o desviar ríos (Hamzah Ispahensis, p. 34; cf. Bund. XXI, 6).
+[^1273]: 300:5 Tarshu<i>k</i>a khshudra<i>k</i>a, traducido como dhânyâni madhûni<i>k</i>a (traducción al sánscrito de Âfrîgân Gâhambâr, § 12). Afrâsyâb fue acusado de haber devastado Irán al obstruir o desviar ríos (Hamzah Ispahensis, p. 34; cf. Bund. XXI, 6). 
 
-[^1339]: 300:6 Esto parece una respuesta a las amenazas de Afrâsyâb.
+[^1274]: 300:6 Esto parece una respuesta a las amenazas de Afrâsyâb. 
 
-[^1340]: 301:1 No se especifica la situación de ese lago.
+[^1275]: 301:1 No se especifica la situación de ese lago. [ 
 
-[^1341]: 301:2 Cf. § 57, 63.
+^1276]: 301:2 Cf. § 57, 63. 
 
-[^1342]: 301:3 Itha itha yathana ahmâi avatha itha yathana ahmâi.
+[^1277]: 301:3 Itha itha yathana ahmâi avatha itha yathana ahmâi. 
 
-[^1343]: 301:4 Cf. §§ 57, 60.
+[^1278]: 301:4 Cfr. §§ 57, 60.
 
-[^1344]: 301:5 Itha itha yathana ahmâi avatha itha yathana ahmâi âvoya itha yathana ahmâi.
+[^1279]: 301:5 Itha itha yathana ahmâi avatha itha yathana ahmâi âvoya itha yathana ahmâi. 
 
-[^1345]: 302:1 Es decir, a cualquiera que... Se refiere a los Kavis o Reyes de Irán: Se suponía que el lago Kãsava era «el hogar de la raza Kayân» (Bund. XXI, 7). Los Kavis se enumeran en las siguientes cláusulas (§§ 71 y siguientes).
+[^1280]: 302:1 Es decir, a cualquiera que . . . . Se hace referencia a los Kavis o reyes de Irán: se suponía que el lago Kãsava era «el hogar de la raza Kayân» (Bund. XXI, 7). Los Kavis se enumeran en las siguientes cláusulas (§§ 71 seq.). 
 
-[^1346]: 302:2 El actual mar de Zarah o Hamûn en Seistán.
+[^1281]: 302:2 El actual mar de Zarah o Hamûn en Seistán. 
 
-[^1347]: 302:3 El Helmend (Ἐτύμανδρος; cf. Vend. I, 14).
+[^1282]: 302:3 El Helmend (Ἐτύμανδρος; cf. Vend. I, 14). 
 
-[^1348]: 302:4 La sede del <i>H</i><i>v</i>arenô; véase [p. 33](../Yasts_1#p33), nota [1](../Yasts_1#fn172), [p. 287](#p287), nota [^1210] e Introducción a Yt. XVIII.
+[^1283]: 302:4 La sede del <i>H</i><i>v</i>arenô; véase [p. 33](../Yasts_1#p33), nota [1](../Yasts_1#fn172), [p. 287](#p287), nota 1210 e Introducción a Yt. XVIII. 
 
-[^1349]: 302:5 El agua de los ríos en los que reside la Gloria, y en medio de los cuales el Kavi ha sido nutrido.
+[^1284]: 302:5 El agua de los ríos en los que yace la Gloria, y en medio de los cuales se ha nutrido el Kavi. 
 
-[^1350]: 302:6? Varemi<i>s</i>.
+[^1285]: 302:6 ¿Varemi<i>s</i>? 
 
-[^1352]: 303:1 Dudoso.
+[^1286]: 303:1 Dudoso. 
 
-[^1353]: 303:2 Véase [p. 182](../Yasts_13#p182), nota [2](../Yasts_13#fn817).
+[^1287]: 303:2 Véase [p. 182](../Yasts_13#p182), nota [2](../Yasts_13#fn817). 
 
-[^1354]: 303:3 Ver Yt. XIII, artículo 132.
+[^1288]: 303:3 Véase Yt. XIII, § 132. 
 
-[^1355]: 303:4 §§ 74-76 = Yt. XIII, 133-135.
+[^1289]: 303:4 §§ 74-76 = Yt. XIII, 133-135. 
 
-[^1356]: 304:1 Aurvasâra; véase Yt. XV, 32; cf. Yt. V, 50 (donde se han omitido en la traducción las palabras «a lo largo de la larga carrera»). Las palabras que llevan la delantera aquí provienen de Yt. V, 50: el texto contiene dos palabras, «tãm keresem», cuya lectura y significado son dudosos.
+[^1290]: 304:1 Aurvasâra; véase Yt. XV, 32; cf. Yt. V, 50 (donde se han omitido en la traducción las palabras all along the long race). Las palabras que llevan la delantera aquí se han tomado de Yt. V, 50: el texto tiene dos palabras, tãm keresem, cuya lectura y significado son dudosos. 
 
-[^1357]: 304:2 Keresavazda, el Karsîvaz de Firdausi, el hermano de Afrâsyâb y el asesino de Syâvarshâna: fue condenado a muerte por Husravah en compañía de su hermano (Études Iraniennes, II, 227).
+[^1291]: 304:2 Keresavazda, el Karsîvaz de Firdausi, hermano de Afrâsyâb y asesino de Syâvarshâna: fue ejecutado por Husravah en compañía de su hermano (Études Iraniennes, II, 227). 
 
-[^1358]: 304:3 Véase [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545).
+[^1292]: 304:3 Véase [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545). 
 
-[^1359]: 305:1 Véase Vend. XX, 10.
+[^1293]: 305:1 Véase Vend. XX, 10. 
 
-[^1360]: 305:2 Dudoso. Quizás: y entre lamentos y gemidos, los Daêvas dejaron de causar daño.
+[^1294]: 305:2 Dudoso. Quizás: y lamentando y lamentando, los Daêvas dejaron de herir. 
 
-[^1361]: 305:3 Cf. Yt. XIII, 90.
+[^1295]: 305:3 Cf. Yt. XIII, 90. 
 
-[^1362]: 305:4 Véase arriba, §§ 56-64.
+[^1296]: 305:4 Véase arriba, §§ 56-64. 
 
-[^1363]: 305:5 Cf. §§ 56, 59, 62.
+[^1297]: 305:5 Cf. §§ 56, 59, 62. 
 
-[^1364]: 305:6 Zaratu<i>s</i>tra y Vî<i>s</i>tâspa (?); cf. §§ 84 a 87.
+[^1298]: 305:6 Zaratustra y Vî<i>s</i>tâspa (?); cf. §§ 84-87. 
 
-[^1365]: 305:7 Significa mi ley.
+[^1299]: 305:7 Significando mi ley. 
 
-[^1366]: 305:8 Cf. Yt. XIII, 89, nota 5.
+[^1300]: 305:8 Cf. Yt. XIII, 89, nota 5. 
 
-[^1367]: 306:1 §§ 85-86 = Yt. XIII, 99-100.
+[^1301]: 306:1 §§ 85-86 = Yt. XIII, 99-100. 
 
-[^1368]: 306:2 O 'con su lanza empujada hacia adelante'; véase [p. 205](../Yasts_13#p205), nota [1](../Yasts_13#fn924).
+[^1302]: 306:2 O 'con su lanza empujada hacia adelante'; véase [p. 205](../Yasts_13#p205), nota [1](../Yasts_13#fn924). 
 
-[^1369]: 306:3 Cf. Yt. V, 109.
+[^1303]: 306:3 Cf. Yt. V, 109. 
 
-[^1370]: 306:4 §§ 89-90 = §§ 11-12.
+[^1304]: 306:4 §§ 89-90 = §§ 11-12. 
 
-[^1371]: 306:5 Véase [p. 117](../Yasts_9#p117), nota [6](../Yasts_9#fn555).
+[^1305]: 306:5 Véase [p. 117](../Yasts_9#p117), nota [6](../Yasts_9#fn555). 
 
-[^1372]: 307:1 Saoshya<i>n</i><i>t</i>; cf. Yt. XIII, 129.
+[^1306]: 307:1 Saoshya<i>n</i><i>t</i>; cf. Yt. XIII, 129. 
 
-[^1373]: 307:2 Cf. §66 y Vend. XIX, 5 (18).
+[^1307]: 307:2 Cf. §66 y Vend. XIX, 5 (18). 
 
-[^1374]: 307:3 Ver Yt. XIII, 142.
+[^1308]: 307:3 Véase Yt. XIII, 142. 
 
-[^1375]: 307:4 Cf. § 36.
+[^1309]: 307:4 Cf. § 36. 
 
-[^1376]: 307:5 O 'el demonio'.
+[^1310]: 307:5 O 'el demonio'.
 
-[^1377]: 307:6 Esta línea contradice lo que sabemos de la leyenda de Frangrasyan, a menos que el texto esté corrupto y el nombre de Frangrasyan se haya introducido aquí por error (¿en lugar de Keresâspa?). Sin embargo, podría aludir a aspectos más brillantes, desconocidos para nosotros, del héroe turanio: el Toro (g<i>a</i>u<i>s</i>) podría ser su hermano Aghraêratha, el Hombre-Toro (Gôpatishâh); véase [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545).
+[^1311]: 307:6 Esta línea está en contradicción con lo que sabemos de la leyenda de Frangrasyan, a menos que el texto esté corrupto y el nombre de Frangrasyan se haya introducido aquí por error (¿por Keresâspa?). Sin embargo, puede aludir a lados más brillantes, desconocidos para nosotros, del héroe turanio: el Toro (g<i>a</i>u<i>s</i>) puede ser su hermano Aghraêratha, el Hombre-Toro (Gôpatishâh); véase [p. 114](../Yasts_9#p114), nota [7](../Yasts_9#fn545). 
 
-[^1378]: 307:7 Véase § 77.
+[^1312]: 307:7 Véase § 77. 
 
-[^1379]: 308:1 Cf. § 84.
+[^1313]: 308:1 Cf. § 84. 
 
-[^1380]: 308:2 Saoshya<i>n</i><i>t</i>.
+[^13140]: 308:2 Saoshya<i>n</i><i>t</i>. 
 
-[^1381]: 308:3 Cf. Yt. I, 28.
+[^1315]: 308:3 Cf. Yt. I, 28. 
 
-[^1382]: 308:4 Un nombre de la droga.
+[^1316]: 308:4 Un nombre de la Droga. 
 
-[^1383]: 308:5 Véase [p. 220](../Yasts_13#p220), nota [1](../Yasts_13#fn981).
+[^1317]: 308:5 Véase [p. 220](../Yasts_13#p220), nota [1](../Yasts_13#fn981). 
 
-[^1384]: 308:6 Véase [p. 297](#p297), nota [^1261].
+[^1318]: 308:6 Véase [p. 297](#p297), nota 1261. 
 
-[^1385]: 308:7 Los Genios de las aguas y de las plantas (cf. Vend. Introd. IV, 34).
+[^1319]: 308:7 Los Genios de las aguas y de las plantas (cf. Vend. Introd. IV, 34). 
 
-[^1386]: 309:1 Cf. § 0.
+[^1320]: 309:1 Cf. § 0. 
 
-[^1387]: 309:2 Quien sacrifica a la Gloria real.
+[^1321]: 309:2 Quien sacrifica a la Gloria real.

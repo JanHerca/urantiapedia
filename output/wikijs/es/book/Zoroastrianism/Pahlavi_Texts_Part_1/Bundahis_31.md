@@ -71,6 +71,8 @@ engendrado. 26. Keresâsp [^63] _y_ Aûrvakhsh [^64] eran ambos hermanos. 27. At
 
 36\. Además, junto con los engendrados por <i>S</i>âm [^84], hubo seis hijos en parejas, varón y hembra; el nombre de uno era Damnak, el de otro Khûsrôv, y el de otro Mârgandak, y el nombre de cada hombre y mujer juntos era uno. 37. Y el nombre de uno _además_ era Dastân [^85]; era considerado más eminente que ellos, y Sagânsîh [^86] y el cuartel sur le fueron otorgados; y Avar-shatrô [^87] y la gobernación le fueron otorgados por él a Avarnak. 38. de Avar-shatrô se dice que es el distrito de Avarnak, y ofrecieron bendiciones a Srôsh y Ar<i>d</i>avahi<i>s</i>t sucesivamente; por esta razón poseen caballos y armas; y por su firme religión, pureza y alegría manifiesta, su buena estimación y extensa fama son muy apreciados <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> entre ellos. 39. A Damnak se le dio la gobernación de Asûristân; la soberanía y la organización de la ley de la soberanía, la terquedad y los defectos persistentes que traerían, estaban entre ellos. 40. A Sparnak [^88] se le dio la gobernación de Spâhân [^89]; A Khûsrôv se le dio la gobernación de Râi [^90]; a Mârgandak se le dio el reino, los asentamientos forestales y montañosos de Padashkhvârgar; donde viajan nómadamente, y donde se forman rebaños, hay prolificidad, procreación fácil y un triunfo continuo sobre los enemigos. 41. De Dastân procedieron Rû<i>d</i>astâm [^91] y Hûzavârak [^92].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

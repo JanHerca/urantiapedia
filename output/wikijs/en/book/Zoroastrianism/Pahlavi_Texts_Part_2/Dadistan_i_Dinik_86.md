@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. _As to_ those, moreover, who, through fervent-minded undertaking of _what_ is ordered, request less _for_ all the religious rites, _and have_ not obtained [^5] even that which is due _to them_, it is not even as though they ordered _of them_ for the fiends [^6]. 8. And the disgrace, too, of the orderers of good works of lukewarmness is the exaltation of the profession of the disciples; and its deficient progress becomes the paralysation of the ceremonial of the sacred beings for saving the souls of the good from the deadly _one_ (mar).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

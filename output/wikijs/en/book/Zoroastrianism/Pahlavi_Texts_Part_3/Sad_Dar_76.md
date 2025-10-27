@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. And if after the _first_ forty days she sees herself impure, unless she knows with accuracy that it has come from the infant, it is necessary to consider if _she be_ menstruous.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

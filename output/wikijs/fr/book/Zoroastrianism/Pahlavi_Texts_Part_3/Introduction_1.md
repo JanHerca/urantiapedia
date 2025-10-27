@@ -76,6 +76,8 @@ Du texte Pâzand du Mainyô-i Khard, Chaps. LVII, XXVII, LXII, I, 51-61, VII, 9-
 
 À propos de ce compte rendu des différentes versions des « Opinions de l'Esprit de Sagesse », il convient de noter qu'un abrégé de l'ouvrage existe également en prose persane, intitulé « Autre Mînôkhirad ». Une copie de cet abrégé figure aux folios 71 à 78 du MH7 (décrit ci-dessus) et consiste en une traduction persane très libre des textes pâzand des chap. I, 14 à II, 64, III à VII, XIV, XV, <span id="pxxv"><sup><small>[ p. xxv ]</small></sup></span> XXI, XXV, suivis de brèves déclarations sur la reconnaissance envers les êtres sacrés, le ciel suprême, les anges et les démons, la richesse et la pauvreté, etc., et se terminant par les noms des premiers souverains du monde, la descendance de l'humanité depuis Gâyômar<i>d</i>, et des 292 [^7] espèces animales depuis le bœuf primitif. Un autre exemplaire de cet abrégé paraît se trouver aux folios 80-84 du n° 15 du fonds Anquetil à la Bibliothèque nationale de Paris.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

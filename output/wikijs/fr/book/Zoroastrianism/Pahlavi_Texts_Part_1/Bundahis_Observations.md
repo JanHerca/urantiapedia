@@ -63,6 +63,10 @@ M6 (écrit en 1397 après J.-C.), n° 6 de la collection Haug de la Bibliothèqu
 
 TD (écrit vers 1530 après JC), appartenant à Mobad Tehmuras Dinshawji Anklesaria à Bombay.
 
+<br>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

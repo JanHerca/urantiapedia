@@ -38,6 +38,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 The first half of this Nask (as described in Dk. VIII, Chap. XI, 1, 2) appears to be still extant in the Vi<i>s</i>tâsp Ya<i>s</i>t, 1-44; but the remainder of that Ya<i>s</i>t does not correspond with the description of the latter half of the Nask.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

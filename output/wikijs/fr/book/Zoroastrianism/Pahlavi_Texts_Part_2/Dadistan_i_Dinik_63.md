@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. _C'est_ la coutume de donner à un infidèle (ak-dînô), qui n'est pas un étranger, de la nourriture, des vêtements _et_ des médicaments, lorsque sa renonciation (vâ<i>z</i>) est venue, pour l'éloigner des choses (<i>k</i>isânŏ) de la mort _et_ de la maladie dues à la faim _et_ à la soif, au froid et à la chaleur ; mais les richesses, les chevaux, les équipements, le vin et la terre ne sont pas donnés autoriséement, dit-on, aux étrangers et aux idolâtres [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

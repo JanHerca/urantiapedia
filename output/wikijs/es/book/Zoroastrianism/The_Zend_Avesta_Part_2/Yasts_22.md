@@ -144,6 +144,8 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 
 41\. [^1355]. Entonces, hacia el amanecer [^1356], ese pájaro Parôdar<i>s</i> [^1357], ese pájaro Karetô-dãsu [^1358] oye la voz del Fuego. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 42\. Aquí el diabólico Bûshyãsta, el de las manos largas, se precipita desde la región del norte, desde las regiones del norte, hablando así, mintiendo así: «¡Duerman, hombres! ¡Duerman, pecadores! ¡Duerman y vivan en el pecado!».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -170,82 +172,85 @@ El cuarto paso que dio el alma del malvado lo depositó en la Oscuridad Sin Fin.
 
 ## Notas al pie
 
-[^1397]: 314:1 Véase [p. 319](#p319), nota [^1345].
+[^1330]: 314:1 Véase [p.319](#p319), nota [^1345]. 
 
-[^1398]: 314:2 El nombre del segundo Gâtha, que comienza con la palabra u<i>s</i>ta: las palabras en el texto, 'Feliz el hombre...', son su primera línea (Ya<i>s</i>na XLII, 1).
+[^1331]: 314:2 El nombre del segundo Gâtha, que comienza con la palabra u<i>s</i>ta: las palabras del texto, 'Feliz el hombre...', son su primera línea (Ya<i>s</i>na XLII, 1). 
 
-[^1399]: 314:3 Literalmente, ve, percibe.
+[^1332]: 314:3 Literalmente, ve, percibe. 
 
-[^1400]: 315:1 Thrao<i>s</i>ta: en Pahlavi rôi<i>s</i>man.
+[^1333]: 315:1 Thrao<i>s</i>ta: en pahlavi rôi<i>s</i>man.
 
-[^1401]: 316:1 'Es decir, de los dioses' (Pahl. Comm.).
+[^1334]: 316:1 'Es decir, de los dioses' (Com. Pahl.). 
 
-[^1402]: 316:2 De las cosas santas.
+[^1335]: 316:2 De las cosas santas. 
 
-[^1403]: 316:3 Dudoso. El comentario Pahlavi tiene la siguiente glosa: «No les daba a sus amigos lo que pedían».
+[^1336]: 316:3 Dudoso. El comentario Pahlavi tiene la siguiente glosa: 'No les daba a sus amigos lo que pedían'. 
 
-[^1404]: 316:4 A los pobres:—Urvarô-straya: urvar babâi<i>k</i> kart (Pahl. Comm.): âighshân babâ barâ asrûnast (estrella, atar, como en frastaretem baresma). Cf. Yt. XXIV, 37, 59.
+[^1337]: 316:4 A los pobres:—Urvarô-straya: urvar babâi<i>k</i> kart (Com. Pahl.): âighshân babâ barâ asrûnast (estrella, atar, como en frastaretem baresma). Cf. Yt. XXIV, 37, 59. 
 
-[^1405]: 316:5 Con limosnas a los pobres Mazdayasnians (ashô-dâd).
+[^1338]: 316:5 Con limosnas a los pobres Mazdayasnians (ashô-dâd). 
 
-[^1406]: 317:1 El llamado Paraíso Hûmat (cf. Yt. III, 3).
+[^1339]: 317:1 El llamado Paraíso Hûmat (cf. Yt. III, 3). 
 
-[^1407]: 317:2 El llamado Paraíso Hûkht.
+[^1340]: 317:2 El llamado Paraíso Hûkht. 
 
-[^1408]: 317:3 El llamado Paraíso de Hvarsht.
+[^1341]: 317:3 El llamado Paraíso Hvarsht. 
 
-[^1409]: 317:4 La sede del Garôthmân.
+[^1342]: 317:4 La sede del Garôthmân. 
 
-[^1410]: 318:1 Zaremaya es la fuente: la palabra traducida como aceite (raoghna, persa ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/31800.jpg)) tal vez podría traducirse mejor como 'mantequilla'; se decía que la leche hecha a mediados de la primavera era la mejor (Vispêrad I, 2; Pahl. Comm.; cf. Dâdistân XXXI, 14).
+[^1343]: 318:1 Zaremaya es el manantial: la palabra traducida como aceite (raoghna, persa ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/31800.jpg)) tal vez podría traducirse mejor como 'mantequilla'; se decía que la leche hecha a mediados de la primavera era la mejor (Vispêrad I, 2; Pahl. Comm.; cf. Dâdistân XXXI, 14). 
 
-[^1411]: 318:2 El Gâtha del lamento, que comienza con la palabra Kãm (Kãm nemê zãm: '¿A qué tierra me volveré?'); Yasna XLVI (XLV).
+[^1344]: 318:2 El Gâtha del lamento, que comienza con la palabra Kãm (Kãm nemê zãm: '¿A qué tierra me volveré?'); Yasna XLVI (XLV). 
 
-[^1412]: 319:1 Aquí se debe proporcionar un desarrollo similar al de los §§ 9-14: en el Ardâ Vîrâf y el Minokhired, el alma del malvado se encuentra con una horrible anciana, que es su propia conciencia: 'Y en ese viento vio su propia religión y sus obras, como una mujer libertina, desnuda, decaída, boquiabierta, con las piernas arqueadas, las caderas enjutas e ilimitadamente manchada, de modo que esa mancha se unía a la mancha, como las criaturas nocivas más horribles (khrafstar), más sucias y más apestosas' (cf. § 9).
-  Entonces aquella alma malvada habló así: «¿Quién eres tú? Nunca vi entre las criaturas de Aûharmazd y Akharman nada más feo, ni más inmundo, ni más apestoso» (cf. § 10).
-  
-  Ella le habló así: «¡Soy tus malas acciones, oh joven de malos pensamientos, de malas palabras, de malas acciones, de mala religión! Es por tu voluntad y tus acciones que soy horrible y vil, inicua y enferma, podrida y maloliente, desdichada y afligida, como te parece (cf. §§ 11-12).»
-  
-  Cuando viste a alguien que realizaba las ceremonias de Yazishn y Drôn, alabanzas, oraciones y el servicio a Dios, y preservaba y protegía el agua y el fuego, el ganado, los árboles y otras buenas creaciones, practicabas la voluntad de Akharman y los demonios, y acciones impropias. Y cuando viste a alguien que ofrecía una recepción hospitalaria y daba algo merecido en regalos y caridad, para beneficio de los buenos y dignos que venían de lejos y de los que estaban cerca, fuiste avaricioso y cerraste tu puerta (cf. § 13).
-  
-  Y aunque he sido impío (es decir, he sido considerado malo), me he vuelto más impío por ti; y aunque he sido aterrador, me he vuelto más aterrador por ti; aunque he sido trémulo, me he vuelto más trémulo por ti; aunque estoy asentado en la región norte de los demonios, me he asentado más al norte por ti; por estos malos pensamientos, por estas malas palabras y por estas malas acciones que practicaste. Me maldicen, durante mucho tiempo, en la prolongada execración y la malvada comunión del Espíritu Maligno (cf. § 14).
-  
-  'Después, esa alma del malvado dio el primer paso en Dûsh-hûmat (el lugar de los malos pensamientos), etc.' (El Libro de Ardâ Vîrâf, XVII, 12-27, según la traducción de Haug).
+[^1345]: 319:1 Aquí se debe proporcionar un desarrollo similar al de los §§ 9-14: en el Ardâ Vîrâf y el Minokhired, el alma del malvado se encuentra con una horrible anciana, que es su propia conciencia: 'Y en ese viento vio su propia religión y sus obras, como una mujer libertina, desnuda, decaída, boquiabierta, con las piernas arqueadas, las caderas enjutas e ilimitadamente manchada, de modo que esa mancha se unía a la mancha, como las criaturas nocivas más horribles (khrafstar), más sucias y más apestosas' (cf. § 9).
+  &nbsp;
+  Entonces esa alma malvada habló así: '¿Quién eres? Nunca vi a ninguna de las criaturas de Aûharmazd y Akharman más fea, o más sucia o más apestosa' (cf. § 10).
+  &nbsp;
+  A él le dijo así: «¡Soy tus malas acciones, oh joven de malos pensamientos, de malas palabras, de malas acciones, de mala religión! Es a causa de tu voluntad y acciones que soy horrible y vil, inicua y enferma, podrida y maloliente, desafortunada y afligida, como te parece» (cf. §§ 11-12). «Cuando viste a alguien que realizaba las ceremonias de Yazishn y Drôn, y la alabanza y la oración y el servicio a Dios, y preservaba y protegía el agua y el fuego, el ganado y los árboles, y otras buenas creaciones, practicabas la voluntad de Akharman y los demonios, y acciones inapropiadas. Y cuando viste a uno que les ofrecía hospitalidad y daba algo merecidamente en regalos y caridad, para beneficio de los buenos y dignos que venían de lejos, y de los que eran de cerca, fuiste avaricioso y cerraste tu puerta» (cf. § 13). 
+  &nbsp;
+  «Y aunque he sido impío (es decir, he sido considerado malo), soy hecho más impío por ti; y aunque he sido aterrador, soy hecho más aterrador por ti; aunque he sido trémulo, soy hecho más trémulo por ti; aunque estoy establecido en la región norte de los demonios, estoy establecido más al norte por ti; por estos malos pensamientos, por estas malas palabras y por estas malas acciones que practicaste. Me maldicen, por mucho tiempo, en la larga execración y mala comunión del Espíritu Maligno» (cf. § 14). 
+   &nbsp;
+  «Después esa alma del malvado avanzó el primer paso en Dûsh-hûmat (el lugar de los malos pensamientos), etc.» (El Libro de Ardâ Vîrâf, XVII, 12-27, según la traducción de Haug). 
 
-[^1413]: 321:1 Cf. Yasna XXXI, 20: «Quien quiera engañar al Santo, después le espera un largo llanto en un lugar oscuro, mala comida y palabras insultantes. ¡Oh, malvado! Este es el lugar al que su propia conciencia los llevará por sus propias acciones».
+[^1346]: 321:1 Cf. Yasna XXXI, 20: «Quien quiera engañar al Santo, después le espera un largo llanto en un lugar oscuro, mala comida y palabras insultantes. ¡Oh, malvado! Este es el lugar al que tu propia conciencia te conducirá por tus propias acciones». 
 
-[^1417]: 321:2 §§ 37-38, 39-40, 41-42 son fragmentos separados.
+[^1347]: 321:2 §§ 37-38, 39-40, 41-42 son fragmentos separados. 
 
-[^1415]: 321:3 Uno de los primeros discípulos de Zoroastro; cf. Yt. XIII, 96.
+[^1348]: 321:3 Uno de los primeros discípulos de Zoroastro; cf. Yt. XIII, 96. 
 
-[^1416]: 321:4 Cf. [p. 33](../Yasts_1#p33), nota [2](../Yasts_1#fn173).
+[^1349]: 321:4 Cf. [p. 33](../Yasts_1#p33), nota [2](../Yasts_1#fn173). 
 
-[^1418]: 322:1 § 38 = Yt. I, 31.
+[^1350]: 322:1 § 38 = Yt. I, 31. 
 
-[^1419]: 322:2 Una traducción Pahlavi de los dos fragmentos siguientes se encuentra en MS. 33, París, Supplément Persan (editado en Études Iraniennes, II).
+[^1351]: 322:2 Una traducción pahlavi de los siguientes dos fragmentos se encuentra en MS. 33, París, Supplément Persan (editado en Études Iraniennes, II). 
 
-[^1420]: 322:3 <i>K</i>ithra (MS. de París, pág. 255).
+[^1352]: 322:3 <i>K</i>ithra (París MS. p. 255). 
 
-[^1421]: 322:4 ¿Cómo manifiestan su ayuda? (Pahl. tr. ibid.); es decir, ¿cuándo ayudan a sus parientes y compatriotas? (véase Yt. XIII, 49 y siguientes).
+[^1353]: 322:4 '¿Cómo manifiestan su ayuda?' (Pahl. tr. ibid.); es decir, ¿cuándo ayudan a sus parientes y compatriotas? (véase Yt. XIII, 49 seq.) 
 
-[^1422]: 322:5 Cuando los hombres tienen instinto de buen espíritu y de buen pensamiento.
+[^1354]: 322:5 Cuando los hombres están instintivamente dotados de buen espíritu y buen pensamiento. 
 
-[^1423]: 322:6 La traducción pahlavi de este fragmento incluye aquí los §§ 14-16 del Âtash Nyâyi<i>s</i>, y luego los §§ 18-19 del Vendîdâd XVIII. Por lo tanto, el pasaje completo debe restituirse de la siguiente manera:
-  Âtar mira las manos de todos los que pasan: '¿Qué trae el amigo a su amigo...?' (Âtash N. 14.)
-  
-  Y si aquel que pasa le trae leña traída con santidad, o manojos de barbecho atados con santidad..., entonces Âtar... lo bendecirá así:
-  
-  Que crezcan para ti manadas de bueyes... (Âtash N. 15-16).
-  
-  En la primera parte de la noche, Fuego, el hijo de Ahura Mazda, llama al dueño de la casa en busca de ayuda, diciendo:
-  
-  «¡Levántate! ¡Oh dueño de la casa!...» (Vend. XVIII, 18-19).
-  
-  'Luego, hacia el amanecer...' (ver el texto).
+[^1355]: 322:6 La traducción pahlavi de este fragmento tiene aquí los §§ 14-16 del Âtash Nyâyi<i>s</i>, luego los §§ 18-19 del Vendîdâd XVIII. Por lo tanto, todo el pasaje debe restituirse de la siguiente manera: 
+  &nbsp;
+  Âtar mira las manos de todos los que pasan: '¿Qué trae el amigo a su amigo...?' (Âtash N. 14). 
+  &nbsp;
+  Y si ese transeúnte le trae leña sagrada, o haces de barisma atados con santidad..., entonces Âtar... lo bendecirá así: 
+  &nbsp;
+  Que crezcan manadas de bueyes para ti ... (Âtash N. 15-16) . 
+  &nbsp;
+  En la primera parte de la noche, Fuego, el hijo de Ahura Mazda, llama al dueño de la casa en busca de ayuda, diciendo: 
+  &nbsp;
+  « ¡Arriba! ¡Levántate, dueño de la casa...!» (Vend. XVIII, 18-19). 
+  &nbsp;
+  «Luego, hacia el amanecer...» (véase el texto). 
 
-[^1424]: 322:7 Cfr. Vender. XVIII, 23.
+[^1356]: 322:7 Cf. Vend. XVIII, 23.
 
-[^1425]: 322:8 'El que tiene el conocimiento hecho', o 'El que tiene el conocimiento de lo que está hecho' (kartak dânishn); su otro nombre Parôdar<i>s</i> es 'El que prevé'.
 
-[^1426]: 322:9 Aquí nuevamente se omite un gran pasaje: sólo puede obtenerse parcialmente de la traducción Pahlavi; las palabras entre paréntesis se refieren a textos Zend que se han perdido para nosotros:
-  Entonces bate sus alas y alza la voz, diciendo: «¡Levántense, hombres! [y también mujeres, adultos, niños, etc.... Pónganse bien el cinturón y la camisa, lávense las manos, ciñan el cinturón, vayan a alimentar al ganado y reciten en voz alta los cinco sagrados Gâthas de Spitama Zarathustra.»]
-  «Aquí el perverso Bûshyãsta...» (véase el texto). La traducción pahlavi dice: «Nunca te preocupes por las tres cosas excelentes: buenos pensamientos, buenas palabras y buenas obras» (cf. Vend. XVIII, 25).
+[^1357]: 322:8 'El que tiene conocimiento de lo hecho', o 'El que tiene conocimiento de lo que se hace' (kartak dânishn); su otro nombre Parôdar<i>s</i> es 'El que prevé'. 
+
+[^1358]: 322:9 Aquí nuevamente se omite un pasaje grande: solo se puede proporcionar parcialmente a partir de la traducción Pahlavi; las palabras entre paréntesis se refieren a textos Zend perdidos para nosotros :
+  &nbsp;
+  Entonces bate sus alas y alza la voz, diciendo: “¡Levántense, oh hombres! \[y también mujeres, adultos y niños, etc. . . . Pónganse bien el cinto y la camisa, lávense las manos, ciñan su cinto, vayan y den alimento al ganado y reciten en voz alta los cinco sagrados Gâthas de Spitama Zarathu<i>s</i>tra.”\] 
+   &nbsp;
+  'Aquí está el diabólico Bûshyãsta . . . .' (véase el texto). Luego, la traducción Pahlavi dice: 'Nunca se preocupen por las tres cosas excelentes: buenos pensamientos, buenas palabras y buenas obras' (cf. Vend. XVIII, 25).

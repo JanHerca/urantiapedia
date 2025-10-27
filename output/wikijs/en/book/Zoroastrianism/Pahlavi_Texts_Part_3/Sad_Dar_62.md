@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. The accursed Aharman, when he perceived the spirit of truth, had fallen senseless three thousand years [^3]. 7. From fear of truth he never managed to hold up _his_ head, and from fear of truth he did not manage to come into this world [^4]. 8. And everything that thou settest _thy_ gaze (na_th_ar) _upon_ therein, that has remained on the spot when thou seekest again an examination of it, has remained through truth. 9. And the interpretation of the Ashen-vohû [^5] is in truth, _and_, for that reason, they recite the Ashem-vohû frequently.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

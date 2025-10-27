@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Il est nécessaire qu'ils présentent tout le bois ; et, quant à celui qui l'allume, ils lui donnent du pain et un salaire (nafaqah). 5. Car, chaque fois que ce feu est satisfait et qu'ils l'entretiennent correctement, tout feu qui peut exister sur la terre des sept régions est satisfait par cette personne.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. El maldito Aharman, cuando percibió el espíritu de la verdad, había caído inconsciente durante tres mil años [^3]. 7. Por temor a la verdad, nunca logró mantener la cabeza erguida, y por temor a la verdad no logró venir a este mundo [^4]. 8. Y todo aquello en lo que has fijado tu mirada (na_th_ar) y que ha permanecido inmóvil al volver a examinarlo, ha permanecido en la verdad. 9. Y la interpretación del Ashen-vohû [^5] es verdadera, y por esa razón, recitan el Ashem-vohû con frecuencia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

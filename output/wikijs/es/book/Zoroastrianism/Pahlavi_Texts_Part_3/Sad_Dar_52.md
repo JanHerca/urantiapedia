@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Porque se declara en la revelación [^3] que, cada año, al llegar el día Khurdâ<i>d</i> del mes Fravardîn, se asigna una provisión diaria para la humanidad, y se anota ese día lo que se desee transmitir a la humanidad en ese año. 3. Por lo tanto, cuando consagran este pastel sagrado, el arcángel Khurdâ<i>d</i> [^4] intercede por esa persona.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

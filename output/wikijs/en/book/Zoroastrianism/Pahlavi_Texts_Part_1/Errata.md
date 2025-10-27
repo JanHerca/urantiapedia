@@ -35,6 +35,8 @@ P. 161, note 4, for ‘Dâd-sparam’ read ‘Zâd-sparam;’ also in p. 167, no
 
 P. 199, note 6, for ‘ Shâpûr I’ read ‘Shâpûr II.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -58,6 +58,8 @@ La (dated A.D. 1575) Persian, in Avesta writing, alternating with Gu<i>g</i>arâ
 
 Lp (undated) Persian, No. 2506 of the Persian manuscripts in the same library.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

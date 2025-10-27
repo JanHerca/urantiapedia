@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:56:45Z
 2\. La réponse est la suivante : il est dit que les âmes des défunts et des morts [^2] passent trois nuits sur la terre ; la première nuit, elles tirent satisfaction de leurs bonnes pensées et la contrariété de leurs mauvaises pensées ; la seconde nuit, elles tirent plaisir de leurs bonnes paroles, la gêne et la punition [^3] de leurs mauvaises paroles ; la troisième nuit, elles tirent exaltation de leurs bonnes actions et la punition de leurs mauvaises actions [^4]. 3. Cette troisième nuit, à l'aube, ils se rendent au lieu du compte sur Albûr<i>z</i> [^5] ; le compte étant rendu, ils se dirigent vers le pont [^6], et celui qui est juste <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> passe sur le pont en montant (lâlâîh), et s'il appartient aux toujours stationnaires (hamîstânîkŏ) [^7] il va là où est leur place, si _avec_ un excès de bonnes œuvres _ses_ habitudes sont correctes (frârûn-dâ<i>d</i>) _il va_ même au ciel (vahi<i>s</i>tô), et si _avec_ un excès de bonnes œuvres _et_ des habitudes correctes _il a_ chanté les hymnes sacrés (gâsânŏ) _il va_ même au ciel suprême (garô<i>d</i>mânŏ). 4. Celui qui est du nombre des méchants tombe de l'extrémité inférieure (tîh) du pont, ou du milieu du pont ; il tombe la tête la première dans l'enfer, et est précipité (nikûnî-aîtŏ) à ce degré [^8] qui _convient à_ sa méchanceté.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

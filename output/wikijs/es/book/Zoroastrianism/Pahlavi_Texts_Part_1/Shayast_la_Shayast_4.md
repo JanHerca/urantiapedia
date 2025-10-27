@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 13\. Por la noche, al acostarse, deben usar la camisa y el cinturón, pues protegen mejor el cuerpo y son beneficiosos para el alma. 14. Al acostarse con la camisa y el cinturón, antes de dormir, se debe pronunciar un Ashem-vohû [^19], y con cada respiración (vayô) se realiza una buena obra de tres Srôshô-<i>k</i>aranâms [^20]; y si durante <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> ese sueño se produce el fallecimiento, se cumple la renuncia al pecado [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

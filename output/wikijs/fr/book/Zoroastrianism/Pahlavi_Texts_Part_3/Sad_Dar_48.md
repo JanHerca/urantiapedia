@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le quarante-huitième sujet est celui-ci, que, lorsqu'ils font bouillir une marmite, il est nécessaire de faire l'eau à deux parties d'un tiers chacune, afin qu'un tiers de la marmite soit vide; de ​​sorte que, si _à un moment_ la marmite bout, _l'eau_ ne monte pas à la surface [^2]. 2. Car si on n'agit pas ainsi, et que [^3] l'eau, faute de s'arrêter, passe dans le feu [^4], c'est un péché de mille deux cents dirhams _en_ ​​poids [^5]; il est donc nécessaire de veiller à ce que ce péché ne survienne pas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

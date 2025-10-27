@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. Therefore it is necessary to make an effort, so that they _may_ not give to the unworthy. 3. For in revelation, as regards [^1] that person who provides any munificence for the unworthy, they call _it_ a vain work _and_ a gift without advantage; and day by day _it_ is [^2] <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> the punishment _and_ torment of that person. 4. And, whatever they give to the unworthy, they have made that thing extinct.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

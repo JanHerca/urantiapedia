@@ -80,7 +80,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 ## VI.
 
-13\. Nous adorons Sraosha (Obéissance) le bienheureux, qui est le plus fort et le plus persévérant des jeunes, le plus énergique et le plus rapide, celui de tous les jeunes qui frappe le plus avec terreur [^1249] de loin (?). \[^1250].\]
+13\. Nous adorons Sraosha (Obéissance) le bienheureux, qui est le plus fort et le plus persévérant des jeunes, le plus énergique et le plus rapide, celui de tous les jeunes qui frappe le plus avec terreur [^1249] de loin (?). [^1250]
 
 14\. Loin de cette maison, de ce village, de cette tribu et de ce pays, les terreurs maléfiques et destructrices s'éloigneront. Dans la demeure de cet homme chez qui l'obéissance du bienheureux, qui frappe victorieusement, est satisfaite et accueillie, se trouve cet homme saint qui le satisfait ainsi (le plus) en pensant de meilleures pensées, en prononçant des paroles (rituelles) véridiques et en accomplissant des actes saints [^1251].
 
@@ -139,6 +139,8 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 Oui, nous adorons (tous les dons martiaux) de Sraosha (Obéissance) le puissant, à la fois armé d'une armure protectrice, et un guerrier à la main forte, le fendeur de crâne des Daêvas, conquérant les dons [^1271] du conquérant, le saint conquérant du conquérant, et (ses) pouvoirs victorieux, et l'Ascendance qu'il confère, et nous adorons <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> cette Ascendance de Sraosha (la même qui conquiert la leur) ; et celle d'Ar<i>s</i>ti nous louons également. 34. Et chaque maison gardée par Sraosha nous adorons, où le bienheureux et amical Sraosha est accueilli avec amitié et bienvenu, où l'homme saint est très avancé (?) dans les pensées saintes, les paroles et les actes justes.
 
 Pour sa splendeur et sa gloire, pour sa puissance, qui frappe avec victoire, je l'adorerai avec le Yasna des Yazads, avec un Yasna à haute voix, lui Obéissance le béni, avec les eaux consacrées, et la bonne Bénissance, la sublime, et Nairya-sangha, le majestueux, et puisse-t-il venir à nous pour nous aider, lui qui frappe avec victoire, Obéissance le béni !
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

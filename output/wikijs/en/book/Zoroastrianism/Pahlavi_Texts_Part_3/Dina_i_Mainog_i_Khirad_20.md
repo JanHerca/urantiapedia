@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘For kings conversation with the wise _and_ good is the <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> one thing more advantageous, (5) and speaking _and_ conversation with slanderers _and_ double-dealers are the more injurious for them.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

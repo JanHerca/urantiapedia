@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 9\. ‘The <i>K</i>îharâ<i>v</i> [^5] is the chief of birds. 10. The horse which is swift [^6] is the chief of horses. 11. The hare [^7] is the chief of wild animals; _and_ wheat [^8] is the chief of grains.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

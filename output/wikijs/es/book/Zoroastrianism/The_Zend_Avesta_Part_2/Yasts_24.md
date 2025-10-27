@@ -269,6 +269,8 @@ Llévalo junto con las palabras de los himnos hasta el Garô-nmâna de Ahura Maz
 Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -295,224 +297,224 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1456]: 328:1 Literalmente, ¡oh joven rey Vî<i>s</i>tâspa! (o, ¡oh hijo mío, rey Vî<i>s</i>tâspa!)
+[^1388]: 328:1 Literalmente, ¡oh joven rey Vî<i>s</i>tâspa! (o, ¡oh hijo mío, rey Vî<i>s</i>tâspa!)
 
-[^1457]: 328:2 La ley de Mazda (Pahl.).
+[^1389]: 328:2 La ley de Mazda (Pahl.).
 
-[^1458]: 328:3 Entendido en âfri-va<i>k</i><i>a</i>u (quien habla bendición).
+[^1390]: 328:3 Entendido en âfri-va<i>k</i><i>a</i>u (quien habla bendición).
 
-[^1459]: 328:4 Cf. Yt. XXIII, I.
+[^1391]: 328:4 Cf. Yt. XXIII, I.
 
-[^1460]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) pertenece al § 2 (O.).
+[^1392]: 328:5 Khay<i>e</i>u<i>s</i> (= naf<i>s</i>man) pertenece al § 2 (O.).
 
-[^1461]: 328:6 Véase [p. 326](../Yasts_23#p326), nota [8](../Yasts_23#fn1374).
+[^1393]: 328:6 Véase [p. 326](../Yasts_23#p326), nota [8](../Yasts_23#fn1374).
 
-[^1462]: 328:7 Véase [p. 326](../Yasts_23#p326), nota [9](../Yasts_23#fn1375).
+[^1394]: 328:7 Véase [p. 326](../Yasts_23#p326), nota [9](../Yasts_23#fn1375).
 
-[^1463]: 328:8 Inmortalidad (cf. Yt. XXIII, 7). W. tiene ashem merezô = ahlâyîh patmânîk, amargîg (Pahl.).
+[^1395]: 328:8 Inmortalidad (cf. Yt. XXIII, 7). W. tiene ashem merezô = ahlâyîh patmânîk, amargîg (Pahl.).
 
-[^1464]: 328:9 Cf. Yt. XXIII, 4.
+[^1396]: 328:9 Cf. Yt. XXIII, 4.
 
-[^1465]: 329:1 Cf. Yt. XXIII, 5.
+[^1397]: 329:1 Cf. Yt. XXIII, 5.
 
-[^1466]: 329:2 'Como Âturpât, el hijo de Mâhraspand' (Pahl. Comm.).
+[^1398]: 329:2 'Como Âturpât, el hijo de Mâhraspand' (Pahl. Comm.).
 
-[^1467]: 329:3 'Como Spenddât (Isfendyâr), el hijo de Gû<i>s</i>tâsp' (ibid.).
+[^1399]: 329:3 'Como Spenddât (Isfendyâr), el hijo de Gû<i>s</i>tâsp' (ibid.).
 
-[^1468]: 329:4 'Como Zav' (Uzava; 'Zav... urbes et castella, quae Afrassiab deleverat, refici jussis, aperuit fluvios, quos ille operuerat,... agros denuo coluit, qui in optimam, qua antehac floruerant, conditionem redierunt,' Hamzah Ispahensis, p. 24 de la traducción de Gottwaldt).
+[^1400]: 329:4 'Como Zav' (Uzava; 'Zav... urbes et castella, quae Afrassiab deleverat, refici jussis, aperuit fluvios, quos ille operuerat,... agros denuo coluit, qui in optimam, qua antehac floruerant, conditionem redierunt,' Hamzah Ispahensis, p. 24 de la traducción de Gottwaldt).
 
-[^1469]: 329:5 Cf. Yt. XXIII, 2.
+[^1401]: 329:5 Cf. Yt. XXIII, 2.
 
-[^1470]: 329:6 W. tiene el mismo texto que Yt. XXIII, 2: yatha dangh<i>e</i>u<i>s</i> Vî<i>s</i>taspâi, que se interpreta âfrîn pata<i>s</i> obdûnât <i>k</i>igûn <i>G</i>âmâsp kart madam matâpat Gû<i>s</i>tâsp.
+[^1402]: 329:6 W. tiene el mismo texto que Yt. XXIII, 2: yatha dangh<i>e</i>u<i>s</i> Vî<i>s</i>taspâi, que se interpreta âfrîn pata<i>s</i> obdûnât <i>k</i>igûn <i>G</i>âmâsp kart madam matâpat Gû<i>s</i>tâsp.
 
-[^1471]: 329:7 Peshôtanu era hijo de Vî<i>s</i>tâspa: Zaratustra le hizo beber cierta clase de leche, y «olvidó la muerte». Es uno de los siete inmortales y reina en Kangde<i>z</i> (Zartusht-Namah y Bundahi<i>s</i> XXIX, 5).
+[^1403]: 329:7 Peshôtanu era hijo de Vî<i>s</i>tâspa: Zaratustra le hizo beber cierta clase de leche, y 'olvidó la muerte'. Es uno de los siete inmortales y reina en Kangde<i>z</i> (Zartusht-Namah y Bundahi<i>s</i> XXIX, 5).
 
-[^1472]: 329:8 Bavâhi (W.).
+[^1404]: 329:8 Bavâhi (O.).
 
-[^1473]: 329:9 Dudoso. La traducción pahlavi sigue a Yt. XXIII, 4, aunque el texto es el mismo que en Westergaard (solo bavâi y zarnumatô en lugar de bavâhi, zaranumatô).
+[^1405]: 329:9 Dudoso. La traducción pahlavi sigue a Yt. XXIII, 4, aunque el texto es el mismo que en Westergaard (solo bavâi y zarnumatô en lugar de bavâhi, zaranumatô).
 
-[^1474]: 330:1 Para §§ 6-7, cf. Mâh Nyâyi<i>s</i>, 10-11.
+[^1406]: 330:1 Para §§ 6-7, cf. Mâh Nyâyi<i>s</i>, 10-11.
 
-[^1475]: 330:2 La oración está dirigida a las Aguas.
+[^1407]: 330:2 La oración está dirigida a las Aguas.
 
-[^1476]: 330:3 <i>H</i><i>v</i>âthrô-nahîm: âsânîh lahmâk.
+[^1408]: 330:3 <i>H</i><i>v</i>âthrô-nahîm: âsânîh lahmâk.
 
-[^1477]: 330:4 Paourvatâtem: kebad farzand.
+[^1409]: 330:4 Paourvatâtem: kebad farzand.
 
-[^1478]: 330:5 Stâhyanãm: kebad stâyîtâr.
+[^1410]: 330:5 Stâhyanãm: kebad stâyîtâr.
 
-[^1479]: 330:6 Véase Yt. XVI.
+[^1411]: 330:6 Véase Yt. XVI.
 
-[^1480]: 330:7 Véase Vend. Introd. IV, 30.
+[^1412]: 330:7 Véase Vend. Introd. IV, 30.
 
-[^1481]: 330:8 Véase [p. 11](../Sirozahs_1#p11), nota [5](../Sirozahs_1#fn77).
+[^1413]: 330:8 Véase [p. 11](../Sirozahs_1#p11), nota [5](../Sirozahs_1#fn77).
 
-[^1482]: 330:9 Pâre<i>n</i>di.
+[^1414]: 330:9 Pâre<i>n</i>di.
 
-[^1483]: 330:10 Reinará abundancia en tu casa, si fueres liberal con el sacerdote.
+[^1415]: 330:10 Reinará abundancia en tu casa, si fueres liberal con el sacerdote.
 
-[^1484]: 331:1 Raêvatãm <i>k</i>a (no rashvatãm <i>k</i>a) pertenece al § 9 (W.).
+[^1416]: 331:1 Raêvatãm <i>k</i>a (no rashvatãm <i>k</i>a) pertenece al § 9 (W.).
 
-[^1485]: 331:2 W. ha, hanairê vaêm aiwi vainat (vaêm = sánscrito. vayas?).
+[^1417]: 331:2 W. has, hanairê vaêm aiwi vaina<i>t</i> (vaêm = Sansk. vayas?).
 
-[^1486]: 331:3 Véase Yt. XIII, 103. Frashao<i>s</i>tra y <i>G</i>âmâspa eran hermanos.
+[^1418]: 331:3 Véase Yt. XIII, 103. Frashao<i>s</i>tra y <i>G</i>âmâspa eran hermanos.
 
-[^1487]: 331:4 Cf. Vend. XVIII, 1-23. Quizás: «¡No seáis malos con los sacerdotes! ¡No seáis hostiles con el sacerdote! Porque quien es malo con el sacerdote, quien es hostil con el sacerdote...».
+[^1419]: 331:4 Cf. Vend. XVIII, 1-23. Quizás: «¡No seáis malos con los sacerdotes! ¡No seáis hostiles con el sacerdote! Porque quien es malo con el sacerdote, quien es hostil con el sacerdote...».
 
-[^1488]: 331:5 Dudoso.
+[^1420]: 331:5 Dudoso.
 
-[^1489]: 331:6 Cfr. Vender. XXI, 6-7.
+[^1421]: 331:6 Cfr. Vender. XXI, 6-7.
 
-[^1490]: 332:1 Dudoso.
+[^1422]: 332:1 Dudoso.
 
-[^1491]: 332:2 Saoshya<i>n</i>tem. W. tiene srashya<i>n</i>tem.
+[^1423]: 332:2 Saoshya<i>n</i>tem. W. tiene srashya<i>n</i>tem.
 
-[^1492]: 332:3 A la Ley.
+[^1424]: 332:3 A la Ley.
 
-[^1493]: 332:4 Los siete sacerdotes participaron en el sacrificio (Vendîdâd, p. 64, nota 1).
+[^1425]: 332:4 Los siete sacerdotes participaron en el sacrificio (Vendîdâd, p. 64, nota 1).
 
-[^1494]: 332:5 El <i>h</i><i>v</i>aêtvôdatha (Vend. Introd. p. xlv, nota 7; véase West, Textos Pahlavi, II, 389 seq.).
+[^1426]: 332:5 El <i>h</i><i>v</i>aêtvôdatha (Vend. Introd. p. xlv, nota 7; véase West, Textos Pahlavi, II, 389 seq.).
 
-[^1495]: 332:6 Thâtu<i>s</i>: kâr kartâr (Pahl.).
+[^1427]: 332:6 Thâtu<i>s</i>: kâr kartâr (Pahl.).
 
-[^1496]: 333:1 Véase Yasna I, 10 (33).
+[^1428]: 333:1 Véase Yasna I, 10 (33).
 
-[^1497]: 333:2 Thrâtôtemô pertenece a § 19 (W.).
+[^1429]: 333:2 Thrâtôtemô pertenece a § 19 (W.).
 
-[^1498]: 333:3 Él mata a cien veces cien de ellos, mientras ellos matan a cien de su pueblo.
+[^1430]: 333:3 Él mata a cien veces cien de ellos, mientras ellos matan a cien de su pueblo.
 
-[^1499]: 333:4 Para esta cláusula y las dos siguientes, cf. Vend. XIX, 17 y siguientes, texto y notas.
+[^1431]: 333:4 Para esta cláusula y las dos siguientes, cf. Vend. XIX, 17 seq., texto y notas.
 
-[^1500]: 334:1 Cf. Vend. XIX, 13.
+[^1432]: 334:1 Cf. Vend. XIX, 13.
 
-[^1501]: 334:2 Cf. Yt. V, 53.
+[^1433]: 334:2 Cf. Yt. V, 53.
 
-[^1502]: 334:3 Paourvô vasta <i>s</i>aota: léase <i>s</i>kyaothna (cf. § 40), como en Vend. XVI, 14 (paourvô-vasna <i>s</i>kynothna).
+[^1434]: 334:3 Paourvô vasta <i>s</i>aota: léase <i>s</i>kyaothna (cf. § 40), como en Vend. XVI, 14 (paourvô-vasna <i>s</i>kynothna).
 
-[^1503]: 334:4 Cf. Vend. XI, 9 y Bundahi<i>s</i> XXVIII, 42.
+[^1435]: 334:4 Cf. Vend. XI, 9 y Bundahi<i>s</i> XXVIII, 42.
 
-[^1504]: 334:5 Cf. Vend. XIX, 41; mejor: 'sobre el Dru<i>g</i>askân' (¿los hijos del Dru<i>g</i>? véase Bund. XXXI, 6).
+[^1436]: 334:5 Cf. Vend. XIX, 41; mejor: 'sobre el Dru<i>g</i>askân' (¿los hijos del Dru<i>g</i>? véase Bund. XXXI, 6).
 
-[^1505]: 335:1 El muerto.
+[^1437]: 335:1 El muerto.
 
-[^1506]: 335:2 El puente <i>K</i>inva<i>t</i> (Vend. XIX, 29).
+[^1438]: 335:2 El puente <i>K</i>inva<i>t</i> (Vend. XIX, 29).
 
-[^1507]: 335:3 Los demonios (Vend. XIX, 33).
+[^1439]: 335:3 Los demonios (Vend. XIX, 33).
 
-[^1508]: 335:4 El alma del justo.
+[^1440]: 335:4 El alma del justo.
 
-[^1509]: 335:5 Véase la página [152](../Yasts_10#p152), nota [1](../Yasts_10#fn698).
+[^1441]: 335:5 Véase página [152](../Yasts_10#p152), nota [1](../Yasts_10#fn698).
 
-[^1510]: 335:6 El Pahlavi tiene, 'el camino de Zaratustra' (lâ Zartûh<i>s</i>tîg râs yakhsûnît).
+[^1442]: 335:6 El Pahlavi tiene, 'el camino de Zarathu<i>s</i>tra' (lâ Zartûh<i>s</i>tîg râs yakhsûnît).
 
-[^1511]: 335:7 Asesinato intencional (Vend. p. 84, nota 1).
+[^1443]: 335:7 Asesinato intencional (Vend. p. 84, nota 1).
 
-[^1512]: 335:8 Para provocar un aborto (véase Vend. XV, 12-14).
+[^1444]: 335:8 Provocar un aborto (véase Vend. XV, 12-14).
 
-[^1513]: 335:9 El pecador.
+[^1445]: 335:9 El pecador.
 
-[^1514]: 335:10 'Como un jinete sobre el lomo de un buen caballo, cuando ha tomado el camino equivocado, percibiendo que ha perdido su camino, hace volver a su caballo de esa dirección y lo hace ir por el camino correcto; así tú, haz volver a tu caballo al camino correcto; es decir, vuélvelo al camino de la Ley de Mazda; es decir, recibe la Ley' (Pahl. Comm.).
+[^1446]: 335:10 'Como un jinete sobre el lomo de un buen caballo, cuando ha tomado el camino equivocado, percibiendo que ha perdido su camino, hace volver a su caballo de esa dirección y lo hace ir por el camino correcto; así tú, haz volver a tu caballo al camino correcto; es decir, vuélvelo al camino de la Ley de Mazda; es decir, recibe la Ley' (Pahl. Comm.).
 
-[^1515]: 336:1 Bienaventuranza, vida eterna.
+[^1447]: 336:1 Bienaventuranza, vida eterna.
 
-[^1516]: 336:2 Yô nô. . . . nidârô anghê: lanman dîn bar â dâshtâr (Pahl.).
+[^1448]: 336:2 Yô nô. . . . nidârô anghê: lanman dîn bar â dâshtâr (Pahl.).
 
-[^1517]: 336:3 Naêdh<i>k</i>a vanghê paiti u<i>s</i>ta vanghô buyâ<i>t</i>; saoshyãs dî<i>s</i> verethraga. No puedo entender estas palabras ni conciliarlas con la traducción pahlavi: «No es justo cuando uno desea bienestar para sí mismo; es decir, cuando, estando satisfecho consigo mismo, no satisface a los demás y desea comodidad para sí mismo. (Haz que la Ley de Mazda sea vigente, hasta que) el victorioso Sôshyôsh la haga vigente». Las tres últimas palabras del Zend parecen ser abreviadas de un pasaje más extenso.
+[^1449]: 336:3 Naêdh<i>k</i>a vanghê paiti u<i>s</i>ta vanghô buyâ<i>t</i>; saoshyãs dî<i>s</i> verethraga. No puedo entender estas palabras ni conciliarlas con la traducción pahlavi: «No es justo cuando uno desea bienestar para sí mismo; es decir, cuando, estando satisfecho consigo mismo, no satisface a los demás y desea comodidad para sí mismo. (Haz que la Ley de Mazda sea vigente, hasta que) el victorioso Sôshyôsh la haga vigente». Las tres últimas palabras del Zend parecen ser abreviadas de un pasaje más extenso.
 
-[^1518]: 336:4 El hombre fiel.
+[^1450]: 336:4 El hombre fiel.
 
-[^1519]: 336:5 Esto alude a la purificación de Bareshnûm (Vend. VIII, 39). El hombre impuro se lava primero con gômêz y después con agua.
+[^1451]: 336:5 Esto es una alusión a la purificación de Bareshnûm (Vend. VIII, 39). El hombre impuro se lava primero con gômêz y después con agua.
 
-[^1520]: 336:6 Dudoso.
+[^1452]: 336:6 Dudoso.
 
-[^1521]: 336:7 El pecador.
+[^1453]: 336:7 El pecador.
 
-[^1522]: 336:8 Amistoso con la Ley.
+[^1454]: 336:8 Amistoso con la Ley.
 
-[^1523]: 336:9 Recita la oración Sraotâ mê, mere<i>z</i>dâta mê (Yasna XXXIII, 11).
+[^1455]: 336:9 Recita la oración Sraotâ mê, mere<i>z</i>dâta mê (Yasna XXXIII, 11).
 
-[^1524]: 336:10 El mundo de arriba.
+[^1456]: 336:10 El mundo de arriba.
 
-[^1525]: 337:1 Los Amesha-Spe<i>n</i>tas (véase § 46).
+[^1457]: 337:1 Las Amesha-Spe<i>n</i>tas (véase § 46).
 
-[^1526]: 337:2 A Vî<i>s</i>tâspa.
+[^1458]: 337:2 A Vî<i>s</i>tâspa.
 
-[^1527]: 337:3 Hathwadh<i>k</i>a: Pahl. tîz<i>k</i>i.
+[^1459]: 337:3 Hathwadh<i>k</i>a: Pahl. tîz<i>k</i>i.
 
-[^1528]: 337:4 Cfr. Vender. III, 29.
+[^1460]: 337:4 Cfr. Vender. III, 29.
 
-[^1529]: 337:5 Si practica la caridad será rey incluso en Garôthmân.
+[^1461]: 337:5 Si practica la caridad será rey incluso en Garôthmân.
 
-[^1530]: 337:6 Aspahê, de a-spa (sin consuelo, anâsânîh tangîh, Pahl. Comm.).
+[^1462]: 337:6 Aspahê, de a-spa (sin consuelo, anâsânîh tangîh, Pahl. Comm.).
 
-[^1531]: 337:7 La Ley.
+[^1463]: 337:7 La Ley.
 
-[^1532]: 338:1 Hvarishnî dâgh pun rôi<i>s</i>manî lak yahvûnât (Pahl. Comm.).
+[^1464]: 338:1 Hvarishnî dâgh pun rôi<i>s</i>manî lak yahvûnât (Pahl. Comm.).
 
-[^1533]: 338:2 Caridad.
+[^1465]: 338:2 Caridad.
 
-[^1534]: 338:3 Si eres caritativo, tus hijos prosperarán.
+[^1466]: 338:3 Si eres caritativo, tus hijos prosperarán.
 
-[^1535]: 338:4 Véase Yt. XXII, 13.
+[^1467]: 338:4 Véase Yt. XXII, 13.
 
-[^1536]: 338:5 Cfr. Vender. XVIII, 27.
+[^1468]: 338:5 Cfr. Vender. XVIII, 27.
 
-[^1537]: 338:6 <i>H</i><i>v</i>arnamazd<i>a</i>u (O.).
+[^1469]: 338:6 <i>H</i><i>v</i>arnamazd<i>a</i>u (O.).
 
-[^1538]: 338:7 El que pronunciará todas las oraciones e himnos: la fórmula completa se encuentra en el Âbân Nyâyi<i>s</i>, § 8.
+[^1470]: 338:7 El que pronunciará todas las oraciones e himnos: la fórmula completa se encuentra en el Âbân Nyâyi<i>s</i>, § 8.
 
-[^1539]: 339:1 Cf. § 26.
+[^1471]: 339:1 Cf. § 26.
 
-[^1540]: 339:2 Cfr. Vender. IV, 45; XVIII, 6.
+[^1472]: 339:2 Cfr. Vender. IV, 45; XVIII, 6.
 
-[^1541]: 339:3 La supervisión y el cuidado.
+[^1473]: 339:3 La supervisión y el cuidado.
 
-[^1542]: 339:4 Véase § 27.
+[^1474]: 339:4 Véase § 27.
 
-[^1543]: 339:5 Tú Vî<i>s</i>tâspa.
+[^1475]: 339:5 Tú Vî<i>s</i>tâspa.
 
-[^1544]: 339:6 Ahura Mazda.
+[^1476]: 339:6 Ahura Mazda.
 
-[^1545]: 340:1 Ver Vend. XIII, 31.
+[^1477]: 340:1 Ver Vend. XIII, 31.
 
-[^1546]: 340:2 En el Paraíso; ver Vend XVIII, 28, texto y nota.
+[^1478]: 340:2 En el Paraíso; ver Vend XVIII, 28, texto y nota.
 
-[^1547]: 340:3 Satayâre: que se mantiene en pie durante cien años (?). El Vend. XVIII, 28 dice 'con cien columnas'.
+[^1479]: 340:3 Satayâre: que se mantiene en pie durante cien años (?). El Vend. XVIII, 28 dice 'con cien columnas'.
 
-[^1548]: 340:4 Ileso ante los cambios de temperatura.
+[^1480]: 340:4 Ileso ante los cambios de temperatura.
 
-[^1549]: 340:5 Cf. § 34.
+[^1481]: 340:5 Cf. § 34.
 
-[^1550]: 341:1 En el paraíso (Pahl. Comm.).
+[^1482]: 341:1 En el paraíso (Pahl. Comm.).
 
-[^1551]: 341:2 Dudoso.
+[^1483]: 341:2 Dudoso.
 
-[^1552]: 341:3 Cfr. Vender. XXI, 6-7.
+[^1484]: 341:3 Cfr. Vender. XXI, 6-7.
 
-[^1553]: 341:4 La Ley.
+[^1485]: 341:4 La Ley.
 
-[^1554]: 341:5 Es decir, que no prevalezca la impiedad.
+[^1486]: 341:5 Es decir, que no prevalezca la impiedad.
 
-[^1555]: 341:6 Si prevalece la impiedad, la tierra se volverá estéril (cf. Vend. XVIII, 64).
+[^1487]: 341:6 Si prevalece la impiedad, la tierra se volverá estéril (cf. Vend. XVIII, 64).
 
-[^1556]: 342:1 Los demonios (véase Vend. VIII, So).
+[^1488]: 342:1 Los demonios (véase Vend. VIII, So).
 
-[^1557]: 342:2 Nôi<i>t</i> ta<i>t</i> paiti vohu manô katha sîsraya aya<i>k</i>a. El Comentario Pahlavi dice: «Es decir, el bien te sucederá mediante la buena voluntad de Âtar (fuego)».
+[^1489]: 342:2 Nôi<i>t</i> ta<i>t</i> paiti vohu manô katha sîsraya aya<i>k</i>a. El Comentario Pahlavi dice: 'Es decir, el bien te sucederá a través de la buena voluntad de Âtar (fuego).'
 
-[^1558]: 342:3 Te <i>k</i>inashanya (W.;—léase taê<i>k</i>a nashanya?); âigh harvaspîn bêshîtârân min spînâk mînôi dâmân lvît apêtâk avîn yahvûnît (Pahl. Comm.).
+[^1490]: 342:3 Te <i>k</i>inashanya (W.;—léase taê<i>k</i>a nashanya?); âigh harvaspîn bêshîtârân min spînâk mînôi dâmân lvît apêtâk avîn yahvûnît (Pahl. Comm.).
 
-[^1559]: 342:4 Yatha ya<i>t</i> tê fravao<i>k</i>âmi (fravao<i>k</i>âma, W.) puthrô berethyâ<i>t</i> sairimananãm (sairi mananãm, W.) bakhedhrâi (traducido como hakhedhrâi: dôstîh, amistad).
+[^1491]: 342:4 Yatha ya<i>t</i> tê fravao<i>k</i>âmi (fravao<i>k</i>âma, W.) puthrô berethyâ<i>t</i> sairimananãm (sairi mananãm, W.) bakhedhrâi (translated as hakhedhrâi: dôstîh, friendship).
 
-[^1560]: 342:5 Este capítulo está tomado prestado, aunque ligeramente modificado, de Yt. XXII.
+[^1492]: 342:5 Este capítulo está tomado prestado, aunque ligeramente modificado, de Yt. XXII.
 
-[^1561]: 342:6 Leer u<i>s</i>tavaiti (?cf. § 54 y Yt. XXII, 2): el Gâtha Vahi<i>s</i>tôi<i>s</i>ti es el quinto y último Gâtha.
+[^1493]: 342:6 Leer u<i>s</i>tavaiti (?cf. § 54 y Yt. XXII, 2): el Gâtha Vahi<i>s</i>tôi<i>s</i>ti es el quinto y último Gâtha.
 
-[^1562]: 342:7 La noche de su partida.
+[^1494]: 342:7 La noche de su partida.
 
-[^1563]: 342:8 No en el Paraíso de la Buena Palabra, al que irá más tarde (§ 61), sino en el pensamiento y el recuerdo delicioso de sus buenas palabras (cf. Yt. XXII, 2).
+[^1495]: 342:8 No en el Paraíso de la Buena Palabra, al que irá más tarde (§ 61), sino en el pensamiento y el recuerdo delicioso de sus buenas palabras (cf. Yt. XXII, 2).
 
-[^1564]: 343:1 Suministrado desde Yt. XXII, 7.
+[^1496]: 343:1 Suministrado desde Yt. XXII, 7.
 
-[^1565]: 344:1 De Yt. XXII, 12-13.
+[^1497]: 344:1 De Yt. XXII, 12-13.
 
-[^1566]: 345:1 Esta cláusula, tomada de Yt. XXII, 20, muestra que la segunda parte de Yt. XXII (§§ 19-36), que describe el destino de los malvados, debe insertarse aquí.
+[^1498]: 345:1 Esta cláusula, tomada de Yt. XXII, 20, muestra que la segunda parte de Yt. XXII (§§ 19-36), que describe el destino de los malvados, debe insertarse aquí.

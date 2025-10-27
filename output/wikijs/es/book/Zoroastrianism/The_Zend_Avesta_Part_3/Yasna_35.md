@@ -54,6 +54,8 @@ ALABANZA A AHURA Y A LOS INMORTALES; ORACIÓN PARA LA PRÁCTICA Y DIFUSIÓN DE L
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

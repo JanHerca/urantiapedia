@@ -46,6 +46,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 7\. The ritual for the departure of a wound and the departure of pain, watching over _it for_ the duration of three nights _or_ a year, _its_ greater wretchedness _or_ less wretchedness, _its_ cure (s<i>p</i>ôrîkîh) or incurableness, and whatever is on the same subject. 8. Trivial enumerations, and decisions upon each separately.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

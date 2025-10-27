@@ -46,6 +46,8 @@ In Sls. XII, 3, it is said that ‘in the Spend _it_ is revealed that a fire, wh
 
 In Sls. XII, 15, it is said that ‘in the Spend and Nihâ<i>d</i>ûm the high-priests _have_ taught that the duty and good works which a son performs become as much the father's as though they had been done by his own hand.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

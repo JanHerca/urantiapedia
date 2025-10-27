@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : si sa venue est indispensable au dessein qu'il veut entreprendre, alors il est indispensable qu'il accomplisse sa propre entreprise mentale ; mais dans la souffrance qui est provoquée _et_ inévitable, quand _il_ n'y a vraiment aucune possibilité <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> qu'il voyage lui-même, quiconque il envoie à sa place, plus particulièrement pour _ce_ motif, n'est pas acceptable par l'approbation des anges qui _ont_ réalisé l'affliction dans _sa_ bonne pensée, mais la bonne œuvre doit être soigneusement considérée. 3. Les bons dons, et tout office (gâs) concernant les bonnes œuvres qu'il est possible d'accomplir, sont ce qui est louable _chez_ l'homme bien logé qui n'est pas capable de travailler _lui-même_ [^3]_ ; ils sont évitables pour lui lorsqu'il n'est pas de bonne race, et ne lui sont pas indispensables lorsque la bonne œuvre n'est pas annoncée. 4. Lorsqu'il est capable de le gérer lui-même, c'est mieux ; et dans le cas contraire, il est opportun qu'il désigne une personne fidèle pour sa préparation et qu'il accomplisse lui-même le travail de sélectionneur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -58,6 +58,8 @@ Una bendición es el Derecho llamado lo mejor, hay riqueza, hay riqueza para est
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

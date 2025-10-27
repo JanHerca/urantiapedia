@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 20\. This, _too, it says_, that the auspicious month Fravar<i>d</i>în, the month Ar<i>d</i>avahi<i>s</i>t, _and_ the month Horvada<i>d</i> [^29] are spring; the month Tîr, the month Amerôda<i>d</i>, _and_ the month Shatvaîrô are summer; the month Mitrô, the month Âvân, _and_ the month Âtarô are autumn; the month Dîn, the month Vohûman, _and_ the month Spendarma<i>d</i> are winter [^30]. 21. And the sun comes from the sign (khûr<i>d</i>ak) of Aries, into which it proceeded in the beginning, back to that _same_ place in three hundred and sixty-five days and six short times (hours), which are one year. 22. As every three months it (the sun) advances through three constellations, more or less, the moon comes, in a hundred and eighty days, back to the place out of which it travelled in the beginning [^31].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

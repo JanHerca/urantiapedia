@@ -40,6 +40,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 2\. Of righteousness the excellence is perfect excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 19\. Una respuesta más concisa es esta: el hombre justo es la criatura que acepta la ocupación que le es provista, y está completamente <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> vigilante en el mundo para no ser engañado por el demonio rapaz. 20. Y como determinador, por sabiduría, de la voluntad del creador —quien es propiciador y comprensivo, y promotor de la comprensión de la bondad— y de todo lo que le pertenece (al creador), él presta atención a ella; y es necesario que sea así, para que dicha grandeza y bondad también le sean más seguras en la existencia espiritual.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

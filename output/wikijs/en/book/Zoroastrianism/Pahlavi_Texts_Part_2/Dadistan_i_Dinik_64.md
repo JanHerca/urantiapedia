@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. The ground where the life of Gâyômar<i>d</i> departed is gold, _and_ from the other land, where the dissolution of _his_ various members occurred, as many kinds of decorative metals flowed forth it is said [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 40\. Les amis de l'arrogant sont peu nombreux, et ses ennemis nombreux. 41. Et même les dons qu'il offre à quelqu'un, ainsi que les cérémonies qu'il accomplit pour les êtres sacrés, ils en accepteront peu, à cause de son arrogance, (42) et donneront peu du gain qu'il recherche. 43. Et en enfer, ils le livrent au démon de l'arrogance, afin d'infliger un châtiment à son âme ; (44) et le démon de l'arrogance lui inflige divers châtiments, et ne se laisse pas apaiser.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

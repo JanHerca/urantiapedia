@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that the high-priests, in _their_ decision, _have_ thus specially said, that all worthy of death are _so_ by the decision of judges and the <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> command of kings, whose business is execution. 3. Whoever shall slay him who _has_ heinous sins [^1] after controversies three times with him, about the decision of those acquainted with the religion _and about_ the command of kings, when he _has_ thus remained in the sin in defiance of his own relations—and not inimically to the man _and_ injuriously to the religion, but inimically to the sin _and_ in order to keep away intercourse with demons—is to consider _it_ as a great good work. 4. No command is given about the decision of _what one_ is to do _in_ the same matter, more heedfully and more authorisedly in _cases of_ doubtful attention, for the good work exists undoubtedly more _and_ more abundantly [^2].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

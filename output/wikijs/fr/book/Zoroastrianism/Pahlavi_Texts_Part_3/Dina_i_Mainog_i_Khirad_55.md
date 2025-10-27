@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:56:50Z
 6\. « Et les méchants ne sont pas amis des bons pour cette raison, parce qu'il y a un temps pour leur anéantissement et leur destruction par les mains des bons. »
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

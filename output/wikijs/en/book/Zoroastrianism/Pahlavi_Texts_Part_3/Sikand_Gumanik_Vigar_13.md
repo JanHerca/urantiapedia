@@ -82,6 +82,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 150\. On this subject, on account of tediousness, thus much is considered complete.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

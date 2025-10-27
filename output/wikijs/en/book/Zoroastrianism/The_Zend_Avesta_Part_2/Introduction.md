@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:15:34Z
 </figure>
 
 
-<span id="pix">[<sup><small>p. ix</small></sup>]</span>
+<span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 
 THE present volume contains a translation of the Sîrôzahs and Ya<i>s</i>ts, and of the Nyâyi<i>s</i>. This part of the Avesta treats chiefly of the mythical and legendary lore of Zoroastrianism.
 
@@ -49,6 +49,8 @@ JAMES DARMESTETER.
 13 December, 1882.
 
 
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

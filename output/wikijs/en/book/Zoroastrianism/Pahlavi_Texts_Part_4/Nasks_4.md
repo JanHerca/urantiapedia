@@ -36,6 +36,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 1\. About _one_ supremely [^1] acquainted with the three [^2] codes (dâ<i>d</i>ŏ) of the Ma<i>z</i><i>d</i>a-worshipping religion there is _this:—One_ supremely acquainted <span id="p408"><sup><small>[ p. 408 ]</small></sup></span> with the three codes of the Ma<i>z</i><i>d</i>a-worshipping religion is he _of_ the primitive faith whose insight into the good religion is even such that he knows _how_ to discriminate _and_ announce the statements (v<i>â</i><i>k</i>akŏ) of the Hadha-mãthric and Gâthic from _those of_ the Law, _those_ of the Legal _and_ Gâthic from _those of_ the Hadha-mãthric, and _those_ of the Hadha-mãthric and Legal from _those of_ the Gâthas. 2. Also to the statements (v<i>â</i><i>k</i>akŏ) in the Law—which is superior [^3] knowledge about the worldly _existences_—is allotted (vakhtŏ) the worldliness _of_ the Hadha-mãthric and also _of_ the Gâthic; _to those_ in the Gâthas—which are superior knowledge about the spiritual _existences_—is _allotted_ the spirituality _of_ the Hadha-mãthric and even that of the Law; and _to those_ in the Hadha-mãthra—which is superior knowledge about _things_ intermediate _between_ the spiritual and worldly _existences_—is _allotted_ the intermediate matter (mîyânîkîh) _of_ the Gâthic _and_ also _of_ the Legal [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

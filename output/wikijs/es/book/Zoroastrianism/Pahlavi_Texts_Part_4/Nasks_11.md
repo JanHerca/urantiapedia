@@ -87,6 +87,8 @@ Los nombres de los veintiún Nasks.
 
 24\. Así como se dice que había veintiún Nasks, en los siete Nasks se mencionan los temas de la religión de la adoración a Ma<i>z</i><i>d</i>a, en los siete Nasks segundos se mencionan los temas de la práctica médica, y en los siete Nasks terceros se mencionan los temas y las capacidades de las estrellas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

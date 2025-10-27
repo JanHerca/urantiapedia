@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Car il est déclaré dans la révélation que, hormis ce qu'ils demandent aux souverains sacrificateurs, aucune affaire n'est convenable à accomplir. 5. Toute sagesse qui vient de sa propre tête n'est qu'une ; alors, comme deux sagesses valent plus qu'une [^4], il est donc opportun de demander aux souverains sacrificateurs.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

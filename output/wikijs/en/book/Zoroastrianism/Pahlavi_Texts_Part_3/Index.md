@@ -1059,6 +1059,8 @@ Zargar, prince, Sg. **10**, 67.
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

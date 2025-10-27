@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 61\. Alors Zaratû<i>s</i>t pensa ainsi : « Bon est celui qui est le créateur, qui est meilleur que ce rappel. » 62. Alors ils partirent en compagnie, Vohûmanô et Zaratû<i>s</i>t ; Vohûmanô _d'abord_ et_ Zaratû<i>s</i>t après.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

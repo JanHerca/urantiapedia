@@ -59,6 +59,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 47\. Respecto al interior frío, seco, pedregoso y oscuro del misterioso infierno (târîk dên afrâ<i>g</i>\-pê<i>d</i>âk), se dice que la oscuridad es tan dura que se puede agarrar con la mano [^54], y el hedor es tan duro que se puede cortar con un cuchillo; y si infligen el castigo de mil hombres en un solo lapso, piensan que están solos; y la soledad es peor que su castigo [^55]. 48. Y su conexión (band) es con los siete planetas, ya sea por mucho frío como Saturno [^56] (Kêvân), ya sea por mucho calor como Aharman; y su alimento es azufre (gandak), y de las suculentas, el lagarto (vazagh), y otros males y miserias (patyân).\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

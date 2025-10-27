@@ -104,6 +104,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 32\. ¡Homenaje a Srît [^13] el maestro! ¡Que viva mucho tiempo! ¡Que sea próspero en la tierra! ¡Que sean suyos todos los placeres y alegrías, y toda la gloria de los Kayâns, por la voluntad del persistente Aûharmazd!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

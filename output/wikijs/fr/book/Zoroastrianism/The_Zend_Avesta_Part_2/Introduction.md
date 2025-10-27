@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="pix">[<sup><small>p. ix</small></sup>]</span>
+<span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 
 Le présent volume contient une traduction des Sîrôzahs et des Yasts, ainsi que des Nyâyis. Cette partie de l'Avesta traite principalement des traditions mythiques et légendaires du zoroastrisme.
 
@@ -46,6 +46,8 @@ JAMES DARMESTETTER.
 
 PARIS,
 13 décembre 1882.
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

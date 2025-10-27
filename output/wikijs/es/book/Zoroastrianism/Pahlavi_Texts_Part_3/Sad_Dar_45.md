@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 11\. El arrepentimiento es cuando logran arrepentirse del pecado que han cometido, y no cometen ese pecado una segunda vez; si lo cometen, ese primer pecado entonces regresa [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

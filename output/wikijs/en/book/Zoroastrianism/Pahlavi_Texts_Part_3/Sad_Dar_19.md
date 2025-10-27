@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2 For it is declared in revelation, that, as to every one who replants a shrub, while that shrub or tree exists at the place, every good work that every one, who eats of that shrub, does in that state of repletion becomes the agriculturist's, just like those which are done by his own hand. 3. If any one orders it, just as that good work occurs [^1] much new repose (râ‘hat) and comfort reach his soul [^2]. 4. As to corn and grain (‘hubûb) and whatever they sow, it is just like this [^3], because, as regards every one who eats wheat, barley, and other grains, and performs duty and good works, they become those of the sower of [^4] those grains, just as those which are performed by his own hand. 5. Because, for the life of mankind a crop was necessary, the creation of a <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> creator [^5] after the sacred being, the most high [^6], owing to the work of the agriculturist. 6. For every one who eats anything dies, therefore, _as regards_ that person by whose work the life of mankind is established, it is necessary to consider him valuable and precious.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

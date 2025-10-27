@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. Las mismas obras perfectas durante seis [^11] años en las seis _otras_ regiones, y durante cincuenta años en las ilustres Khvanîras [^12], preparan la inmortalidad <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> y dan origen a la vida eterna y al bienestar eterno (sû<i>d</i>îh) mediante la ayuda, el poder y la gloria del espíritu omnisciente _y_ benéfico, el creador Aûha<i>r</i>ma<i>z</i><i>d</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

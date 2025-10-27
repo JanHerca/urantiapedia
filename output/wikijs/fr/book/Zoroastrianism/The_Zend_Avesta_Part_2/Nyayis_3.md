@@ -60,6 +60,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta, que se dice que un marido (gab<i>r</i>â) es indispensable para la preservación a través de las _pruebas_ de las tres noches que serán _para_ una esposa privilegiada, un padre _para_ las de un niño, _y_ un amo _para_ las de un sirviente.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

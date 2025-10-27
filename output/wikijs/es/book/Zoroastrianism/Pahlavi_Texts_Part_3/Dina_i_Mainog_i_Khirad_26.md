@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. «El malhumorado es menos malvado [^2] que el mal informado; (8) porque el malhumorado, salvo por decreto, no puede arrebatarle nada a nadie; (9) y en cuanto al mal informado, su deseo de todo tipo es entonces [^3] la opresión y el saqueo. 10. Respecto al mal informado, se declara que, aparte de la predestinación, nace libre de un nuevo entendimiento [^4]»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

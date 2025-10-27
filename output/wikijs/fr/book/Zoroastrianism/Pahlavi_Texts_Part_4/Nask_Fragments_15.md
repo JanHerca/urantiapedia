@@ -55,6 +55,8 @@ Dans Vi<i>g</i>. p. 136, il est dit que « il est déclaré par l'Avesta du Nih�
 
 Dans Vi<i>g</i>. pp. 184, 185, il est dit que « _il est_ déclaré par l'Avesta du Nihâ<i>d</i>ûm _ainsi :_ — Âa<i>d</i> aêtahê pa<i>n</i><i>k</i>a ayara hamaspathmaidhem paiti ratûm spe<i>n</i>tay<i>a</i>u ârmatôi<i>s</i> mâunghô nôi<i>d</i> frasrâvayôi<i>d</i> : — Ainsi, on ne chante pas (c'est-à-dire, on n'invoque pas) le mois de Spenda<i>r</i>ma<i>d</i> (le complètement conscient) [^11] (c'est-à-dire, le mois de Spenda<i>r</i>ma<i>d</i>) sous le règne de ces cinq Hatnaspa<i>d</i>mêdêm jours [^12]; (car si _on_ l'invoque, par oubli, l'Avesta n'est pas accepté). »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

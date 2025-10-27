@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «No es posible procurarse, mediante el esfuerzo, ese beneficio que no está ordenado; (5) pero una pequeña porción (kazd) de lo ordenado se obtiene mediante el esfuerzo. 6. Sin embargo, el esfuerzo, cuando es infructuoso en la existencia mundana, por no estar los seres sagrados con él [^1], aun así, después, nos ayuda en la existencia espiritual y pesa más en la balanza [^2].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

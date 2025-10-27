@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. And also from my departure, and the non-existence _of one_ that is a friend of yours, who, like me, is less able to be for your harm than he who is _one_ of the many accusers of whom it is I who am the restrainer, you know this, that my coming is on account of the affection of some and the reverence of others. 7. From the exercise of religion I do not at all fall _away_, and for the sake of the position of the religion I am maintaining opposition [^5] to any one; even when he is a friend _who_ is loved by me, I am then his antagonist 8. Fate (zîkŏ) [^6] is the great truth of the vacant, the form (andâm) [^7] which _has_ procured the light of life.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. ‘And these rivers, which are in the world, the creator Aûha<i>r</i>ma<i>z</i><i>d</i> has formed, from the borders of Albûr<i>z</i> [^3], for providing the protection and _for_ the vivification of his own creatures and creation.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

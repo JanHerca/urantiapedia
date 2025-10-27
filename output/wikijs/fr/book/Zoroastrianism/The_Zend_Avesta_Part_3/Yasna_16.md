@@ -56,6 +56,8 @@ Et nous adorons le ciel et la terre de don béni, et la généreuse Mãthra, et 
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

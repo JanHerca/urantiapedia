@@ -156,7 +156,7 @@ And I desire to approach the heroic Yasna Haptanghâiti in my praise, the holy, 
 
 [^1422].
 
-1\. (Yea,) we sacrifice to the thoughts of the mind, and to the good wisdom, and to the good and blessed <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> sanctity, and to the good religious knowledge, and to good health (of soul and body). \[^1423].\] 2. Confession is to be made for the Kine; we, Zarathu<i>s</i>trian Mazdayasnians, celebrate at the sacrificial time for the Myazda-offering, at the time for the Ratufrîti, the prayer for blessings, for the sacrificial worship, homage, propitiation, and praise of the entire creation of the holy (and the clean).
+1\. (Yea,) we sacrifice to the thoughts of the mind, and to the good wisdom, and to the good and blessed <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> sanctity, and to the good religious knowledge, and to good health (of soul and body). [^1423] 2. Confession is to be made for the Kine; we, Zarathu<i>s</i>trian Mazdayasnians, celebrate at the sacrificial time for the Myazda-offering, at the time for the Ratufrîti, the prayer for blessings, for the sacrificial worship, homage, propitiation, and praise of the entire creation of the holy (and the clean).
 
 <a id="v5"></a>
 
@@ -341,6 +341,8 @@ Also we sacrifice to that best wish, which is that of Asha Vahi<i>s</i>ta, and w
 <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

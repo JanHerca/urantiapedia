@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Por lo tanto, cada vez que se realiza la ceremonia _para_ Srôsh, el alma de ese niño se separa de las almas de _su_ padre y madre, y va al cielo, e implora intercesión (<i>s</i>ifâ'hat) por _su_ padre y madre en presencia de los seres sagrados en ese _otro_ mundo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

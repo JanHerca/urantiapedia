@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 9\. All those three fires are the whole body of the fire of Vâhrâm, together with the fire of the world, and those breathing souls are lodged in them; a counterpart of the body of man when it forms in the womb of the mother, _and_ a soul from the spirit-_world_ settles within _it_, which controls the body while living; when that body dies, the body mingles with the earth, _and_ the soul goes back to the spirit.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -85,6 +85,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 61\. Estas son las características de los dos siglos noveno y décimo; la exactitud de lo que estaba por venir ha continuado, y esto ha sucedido, y ambos se declaran con respecto a la exactitud que se afirma con evidencia de lo que sucederá.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

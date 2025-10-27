@@ -56,6 +56,8 @@ B (written A.D. 1659), a nearly-complete MS. of Books III-IX, brought from Irân
 
 K (written A.D. 1594 and later), No. 43 in the University Library at Kopenhagen, a miscellaneous MS. containing several fragments of Books III, V, VI, IX. Of the Books here translated it contains the text of Bk. IX, Chaps. I, 1-XXXI, 17.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 11\. C'est la perfection parfaite qui est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

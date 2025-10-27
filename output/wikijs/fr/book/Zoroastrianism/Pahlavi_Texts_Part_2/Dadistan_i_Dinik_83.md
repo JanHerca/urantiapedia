@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. _Quant à_ l'homme prêtre qui doit entreprendre tous les rites religieux, s'il vit confortablement (hû-zîvi<i>s</i>nŏ) d'une part de notre gouvernement de maison [^2], <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> gouvernement de village, gouvernement de tribu et gouvernement de province, et que son soutien nécessaire à la religion reste la considération quant à son confort de vie, et qu'il n'a pas besoin du salaire de tous les rites religieux, alors la règle pour lui est de distribuer correctement cette récompense de la fête sacrée [^3], qui doit être donnée _pour_ tous les rites religieux, parmi les célébrants [^4]. 5. Si cela lui est nécessaire, le prêtre, tel qu'il est apte, n'est pas changé - ce qui empêche une bonne gestion - et si cela est nécessaire même pour sa considération de tous ces rites religieux, sa performance dans le devoir et le ministère est alors une approbation de mérite et de gestion. 6. Lorsqu'ils agissent ainsi, tous ces rites religieux sont gérés avec plus de mérite ; et un jour, les célébrants sont amenés du fag-end (sar) au rang d'homme sacerdotal, qui est la rémunération de tous les rites religieux qu'ils prendront expressément autorisé, et sont, par conséquent, dignes de cela [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

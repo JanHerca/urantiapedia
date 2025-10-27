@@ -2627,6 +2627,8 @@ Sacrificio zoroástrico, II, 57. n 5, 68. n 2, 78.
 
 Zrayah, II, 213.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

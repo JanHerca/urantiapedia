@@ -40,6 +40,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 3\. About the tokens of a righteous man—that is, the evidence of him—and _his_ reverence for duty _and_ good works; also his imperceptible perversion (kastârîh)—that is, not a single sin is manifest <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> in him—and _he is_ an accomplisher _of_ the stipulations of Vohûman [^4], good thoughts, good words, and good deeds, and a comprisal of every goodness in the propitiation of the righteous. 4. About [^5] . . . . . . . . . . . . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

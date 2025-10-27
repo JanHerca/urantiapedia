@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. Y la consciencia de los hombres, al permanecer tres noches fuera del cuerpo, en su proximidad, debe recordar y esperar aquello que verdaderamente es temor y angustia (khâr) para los demonios, y recompensa, paz y buenas nuevas (nôvîk) para los espíritus del bien; y, debido a la dispersión y daño del cuerpo, emite un grito espiritual, <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> así: "¿Por qué roen los perros y los pájaros este cuerpo organizado, cuando finalmente el cuerpo y la vida se unen en la resurrección de los muertos?". 8. Y este es el recordatorio de la resurrección y la liberación, y se convierte en la felicidad y la esperanza del espíritu del cuerpo y de los demás espíritus buenos, y en el temor y la aflicción de los demonios y demonios.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

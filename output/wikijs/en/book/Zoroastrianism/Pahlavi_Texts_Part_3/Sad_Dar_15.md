@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The fifteenth subject is this, when _one_ sees anything that is welcome to the eyes, it is requisite to say ‘in the name of the sacred being.’ 2. Because, if they do not say ‘in the name of the sacred being,’ and an injury happens to that <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> thing, or a disaster occurs, _one_ becomes a sinner; so far is notorious (ma’hlûm).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

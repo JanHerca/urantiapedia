@@ -46,6 +46,8 @@ dateCreated: 2025-10-10T14:41:30Z
 4\. Y el creador todopoderoso responde y asigna un maestro [^13] para aniquilar al demonio, para la satisfacción de los justos y para la protección de las buenas criaturas. 5. Como se dice, en cada época se manifiesta un sumo sacerdote de la religión y su gestión de las criaturas, en quien, en esa época, progresan la protección de las criaturas y la voluntad de los seres sagrados.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

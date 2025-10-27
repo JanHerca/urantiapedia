@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that it is said in the revelation of the Ma<i>z</i><i>d</i>a-worshippers that the impediments (râs-bandîh), through which _there_ is vexation in righteousness, are because its doctrine is this, that, regarding the difficulty, anxiety, and discomfort which occur through good works set going, it is not desirable to account _them_ as much difficulty, trouble, and discomfort. 3. Whereas it is not desirable to account _them_ as anxiety and difficulty, it is then declared by it [^2] thereof, that, as its recompense, so much comfort _and_ pleasure will come to the soul, as that no one is to think of that difficulty and discomfort which came upon him through so many such good works, because he is steadfast to maintain the good religion, and utters thanksgivings (va stâye<i>d</i>ŏ). 4. And as regards the discomfort [^3], which the same good religion of ours _has_ had, it comes on from the opponents of the religion. <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 5\. Through the coming, of religion we have full enjoyment (ba<i>r</i>â gûkârêm), and owing. to religion, unlike bondsmen (abûr<i>d</i>ŏgânvâr), we do not become changeable among the angels; our spiritual life (ahvôîh) of praise then arrives in readiness, and owing to the angels _there_ are joyous salutation, spiritual life, and glory for the soul.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 10\. Entre [^12] ces arbres de ces espèces [^13] est formée la montagne avec des cavités, au nombre de 9999 mille myriades, chaque myriade étant dix mille. 11. À cette montagne est donnée la protection des eaux, de sorte que l'eau ruisselle de là, dans les canaux des ruisseaux, vers le pays des sept régions, comme la source de toute l'eau de mer du pays des sept régions vient de là [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

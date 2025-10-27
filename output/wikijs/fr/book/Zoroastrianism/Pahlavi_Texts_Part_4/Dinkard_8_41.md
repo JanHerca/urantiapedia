@@ -63,6 +63,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 31\. De l'accroissement des grains, et de celui des moutons avec leur progéniture, leur lait et leur laine, qu'ils peuvent produire séparément. 32. De la confiscation des vêtements et des instruments en les rendant à celui qui en compte spécialement plusieurs comme siens [^11] ; c'est-à-dire, comment le produit (vakhsh) augmente lorsqu'il en ordonne l'usage imparfaitement, comment il le fait lorsqu'il ne le fait pas imparfaitement, et comment il le fait lorsqu'il les maintient inactifs. 33. Du produit de la terre sur laquelle le grain est jeté, et de celle sur laquelle il ne l'est pas (va-zak-î an-madam ramîtuntô) [^12], lorsque par sa livraison il s'épuise. 34. Et ainsi aussi la production d'ornements d'or et d'argent, et de choses de couleur rouge, avec de nombreuses réglementations sur le même sujet et ce qui s'y rapporte.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

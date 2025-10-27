@@ -66,6 +66,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 36\. Aûharmazd created nothing useless whatever, for all these (kolâ aê) are created for advantage; when one does not understand the reason of them, it is necessary to ask the Dastûr (‘high-priest’), for his five dispositions (khûk) [^33] are created in this way that he may continually destroy the fiend (or deceit).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

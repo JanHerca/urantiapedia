@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 5\. And of these seven regions every benefit was created most in Khvanîras, and the evil spirit also produced most for Khvanîras, on account of the superiority (sarîh) [^5] which he saw in it. 6. For the Kayânians and heroes were created in Khvanîras; and the good religion of the Mazdayasnians was created in Khvanîras, and afterwards conveyed to the other regions; Sôshyans [^6] is born in Khvanîras, who makes the evil spirit impotent, and causes the resurrection _and_ future existence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

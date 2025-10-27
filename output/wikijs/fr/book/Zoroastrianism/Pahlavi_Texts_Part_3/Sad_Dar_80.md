@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Quant à cet Ashem-vohû dont la nature [^6] est aussi grande que dix, c'est lorsqu'ils le récitent en mangeant du pain. 7. Ce qui est, par nature, aussi grand que cent, c'est lorsqu'ils le récitent après avoir mangé [^7]. 8. Ce qui est tellement grand par nature que, l'ayant retourné, ils le récitent correctement peut être un mérite de mille [^8]. 9. Ce qui est de la nature de dix mille, c'est ce que tu récites quand tu te réveilles [^9]. 10. Et ce dont la nature est aussi grande que ce monde et cet autre monde [^10], c'est lorsqu'ils le récitent au moment de la dissolution de la vie ; car, s'il n'est pas capable de le réciter lui-même, amis et parents le lui mettent dans la bouche. 11 [^11]. S'il est apte à l'enfer, il devient apte à l'éternelle stationnaire, s'il est apte à l'éternelle stationnaire, il devient apte au ciel, et s'il est apte au ciel, il devient apte au ciel suprême [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

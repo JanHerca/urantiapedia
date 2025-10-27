@@ -46,6 +46,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 27\. ‘Bad government is that (28) which destroys the true and proper law and custom, (29) and brings [^12] oppression, plunder, and injudiciousness into practice. 30. It dissipates the treasure of the spiritual _existence_, (31) _and_ considers duty and good works a vexation, through greediness [^13]. 32. It keeps back a person performing good works from doing good works, (33) and he thereby becomes a doer of harm. (34) Its disbursement [^14], too, of every kind is for its own self, (35) the administration of [^15] the treasure <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> of the worldly existence, (36) the celebrity [^16] _and_ exaltation of the vile, (37) the destruction _and_ neglect of the good, (38) _and_ the annihilation of the poor. 39. A bad king, who [^17] is of that kind, is called equal to Aharman and the demons.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

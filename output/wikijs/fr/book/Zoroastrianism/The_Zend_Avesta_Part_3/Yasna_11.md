@@ -64,6 +64,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 17\. [^1029]Je célèbre mes louanges pour les bonnes pensées, les bonnes paroles et les bonnes actions, pour mes pensées, mes discours et mes actions. En chantant des louanges, j'offre toutes les bonnes pensées, les bonnes paroles et les bonnes actions, et en les rejetant, je répudie toutes les mauvaises pensées, paroles et actions. 18. Je vous offre ici, ô Immortels Généreux ! sacrifice et hommage avec l'esprit, les paroles, les actes et toute ma personne ; oui, je vous offre la chair de mon corps (comme la vôtre). Et je loue la Justice. Une bénédiction est la Justice (appelée) la Meilleure, etc.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 9\. The A<i>s</i>kânians bore the title in an uninterrupted (a-arûbâk) sovereignty two hundred and eighty-four years [^25], Ardashîr son of Pâpak _and_ the number of the Sâsânians four hundred and sixty years [^26], and then it went to the Arabs.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

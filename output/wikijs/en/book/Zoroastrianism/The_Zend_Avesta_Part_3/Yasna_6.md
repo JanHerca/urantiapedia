@@ -84,6 +84,8 @@ The Zaotar. So let the Ratu from his Righteousness, holy and learned, speak fort
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

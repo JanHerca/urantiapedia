@@ -47,6 +47,8 @@ _Profitez Nask_.
 
 15\. C'est la justice qui est parfaite.\] [^10]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

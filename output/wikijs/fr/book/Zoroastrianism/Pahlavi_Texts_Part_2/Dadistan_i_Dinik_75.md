@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Et ceci aussi est décidé par eux [^7], que même _en ce qui concerne_ celui _qui_ est le plus gravement pécheur, lorsqu'il commence à _rechercher_ mentalement le pardon _et_ se repent du péché, _et, étant_ autant_ expiatoire qu'il_ le peut, _a livré_ son_ corps _et_ ses_ biens pour la rétribution _et_ le châtiment, en comptant sur l'expiation du péché de la bonne religion, alors il est possible _pour_ son_ âme, aussi, de parvenir à la place du juste [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

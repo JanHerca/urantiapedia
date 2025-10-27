@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. « Parce qu'il est dit (7, 8) que quiconque s'associe au bien apporte le bien avec lui, et que quiconque <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> s'associe au mal apporte le [^4] mal — (9) tout comme le vent qui, lorsqu'il frappe la puanteur, est [^5] puanteur, (10) et lorsqu'il frappe le parfum, est parfum, — (11) il est donc notoire [^6], (12) que celui dont les affaires sont avec le bien reçoit le bien, (13) et celui dont les affaires sont avec le mal reçoit le [^7] mal ; (14) mais, même alors, les deux doivent être considérés comme une expérience (aû<i>z</i>mâyi<i>s</i>nŏ) [^8]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

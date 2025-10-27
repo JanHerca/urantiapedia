@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. And the words of the expressive utterance of the high-priests are these, that where _there_ is a fear of every other thing _it_ is more than the thing itself, _but_ hell is a thing worse than the fear _of it_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

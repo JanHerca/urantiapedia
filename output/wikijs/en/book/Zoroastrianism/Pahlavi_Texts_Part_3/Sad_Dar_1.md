@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. For it is declared in revelation, that of the duty [^7] _and_ good work which they perform in doubt—that is (ya’hnî), they entertain a suspicion like this, that ‘I do not know that this faith, which I possess, is better _in comparison_ with other faiths’—no merit whatever comes to their souls. 7. Therefore, the first (avval) thing is to become steadfast in the religion; and this is the chief of all good works.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

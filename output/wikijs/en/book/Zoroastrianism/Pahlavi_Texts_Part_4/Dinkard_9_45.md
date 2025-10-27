@@ -48,6 +48,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 11\. It is perfect excellence _that is_ righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

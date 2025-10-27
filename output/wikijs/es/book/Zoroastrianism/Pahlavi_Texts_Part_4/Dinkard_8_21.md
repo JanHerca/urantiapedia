@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 13\. Sobre la propiedad que, al llevársela, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> _debe_ devolver a sus dueños; como la que los fronterizos pueden arrebatar a los extranjeros, la que el juez puede arrebatar a los ladrones y la parte que puede arrebatar a cualquiera que no interfiera [^6] con los ladrones. 14. Y sobre los protectores y defensores del ladrón, y también sobre muchas otras decisiones legales en materia de robo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

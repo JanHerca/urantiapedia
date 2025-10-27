@@ -45,6 +45,8 @@ La Prensa de Oriente,
 4, Edificios Harcourt,
 Inner Temple, Londres.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

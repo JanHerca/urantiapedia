@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. El espíritu de sabiduría respondió (6) así: «En cuanto al alma, es la liberalidad; en cuanto al mundo entero, es la verdad; (7) a los seres sagrados, es la gratitud; en cuanto al yo del hombre [^4], es la sabiduría; (8) a todos los negocios, es la atención plena; y en cuanto al bienestar del cuerpo y la victoria sobre Aharman y los demonios, la satisfacción es buena».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

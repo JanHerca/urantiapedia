@@ -69,6 +69,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 68\. «Y la ventaja de Vi<i>s</i>tâsp fue esta, (69) tal como la aceptación y solemnización de la buena religión de los adoradores de Ma<i>z</i><i>d</i>a, (70) a través de la voz divina (bakân aêvâ<i>z</i>) _del_ Ahunavar [^58], la palabra del creador Aûha<i>r</i>ma<i>z</i><i>d</i>; (71) la aniquilación y destrucción de los cuerpos de los demonios y demonios; (72) y el placer y consuelo del agua y el fuego y todos los ángeles y espíritus de las _existencias_ mundanas [^59]. 73. Y _él_ estaba lleno de la esperanza del bien y digno, (74) a través de un deseo virtuoso por su propia determinación, (75) la compensación (nô<i>s</i> da<i>s</i>nŏ) [^60] y la gratificación de Aûha<i>r</i>ma<i>z</i><i>d</i>, con los arcángeles, (76) y la aflicción y destrucción de Aharman y las [^61] descreaciones.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

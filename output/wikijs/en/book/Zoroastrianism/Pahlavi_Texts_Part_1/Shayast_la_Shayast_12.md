@@ -82,6 +82,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 32\. The rule is this, that at every one of these three things, _which_ come through hungry living, that is, sneezing, yawning, and sighing, _one_ is to speak out a Yathâ-ahû-vairyô and one Ashem-vohû [^78]; and also when _one_ hears the sneezing of any one, to speak _in_ like manner is so considered as an action of the good [^79]; _and_ in the Stû<i>d</i>gar _Nask_ [^80] it says thus: ‘“What prepares sneezing? that is, through what process (kâr) does it come?” And Aûharmazd said thus: “Hungry living, O Zaratû<i>s</i>t! because the remedy for its existence is the Ahunavar, O Zaratû<i>s</i>t! _and_ righteousness [^81].”’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

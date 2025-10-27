@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 12\. This, too, it says, that ‘in one winter I _will_ locate (<i>g</i>âkînam) the religion of the Mazdayasnians, _which_ came out into the other six regions.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

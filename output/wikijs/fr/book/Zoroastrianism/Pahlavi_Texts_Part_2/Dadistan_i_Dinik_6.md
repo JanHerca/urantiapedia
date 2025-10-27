@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 9\. Et de cette manière, dans le monde, le confort et le plaisir des vils sont plus grands, et l'anxiété, la vexation, le découragement et la détresse des bons sont devenus plus grands ; la raison en est révélée par les étoiles [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

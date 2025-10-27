@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 5\. De la connexion en amont de Zaratû<i>s</i>t avec Aûha<i>r</i>ma<i>z</i><i>d</i>, à travers les deux qui sont Yim, la meilleure des existences terrestres, et Nêryôsang des esprits. 6. L'énumération de la lignée de Zaratû<i>s</i>t est la suivante : Zaratû<i>s</i>t, fils de Pôrûshaspô [^7], de Purtarâspô, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> d'Ahûrva<i>d</i>âspô, de Hâê<i>k</i>a<i>d</i>âspô, de <i>K</i>îkhshnû<i>s</i>, de Paîtiraspô, d'Are<i>g</i>a<i>d</i>arsî\*, de Kharedhar\*, de Spîtâmân, de Vaêdî<i>s</i>tô, d'Ayazem, de Frî<i>s</i>, d'Ari<i>g</i>\*; de Dûrasrôbô, de Mânû<i>s</i><i>k</i>îhar, de Mânû<i>s</i>\-khûrnar, de Mânû<i>s</i>\-khûrnâk, que Nêryôsang, le messager d'Aûha<i>r</i>ma<i>z</i><i>d</i> _amena, et dont la mère était Vîzag, _fille_ d'Aryag, de Srîtak, de Bîtak, de Frazûsak, de Zû<i>s</i>ak, de Fragûzag, de Gûzag, _fille_ d'Aîrî<i>k</i>, _fils_ de Frê<i>d</i>ûn des Âspîgâns au total dix Âspîgâns, de Yim, des Vîvang,has, des Ayang,has, des Anang,has, de Hôshâng, de Fravâk, de Sîyâmak, de Masîyâ, de Gâyômar<i>d</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

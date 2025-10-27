@@ -57,6 +57,8 @@ Y que sean para nosotros (por esta nuestra ofrenda) abundantes recompensas, just
 Y adoramos la(s) parte(s) [^1232] de las Alabanzas del Yasna, y su recitación tal como se escucha, incluso su recitación memorizada, y su canto, y su ofrenda (tal como está completa).
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

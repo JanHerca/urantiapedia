@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. Also, as regards changing the law of the fifteen times _washing_ [^10], just as _it is_ for Irân _in_ which purifiers are to be found, it is ordered for _places_ to be found without purifiers; _and it is_ in the countries of Irân that the order is given regarding purifiers not thus appointed for the work.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -226,6 +226,8 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -252,68 +254,68 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## Footnotes
 
-[^810]: 168:1 Minokhirad II, 120-121 (tr. West).
+[^777]: 168:1 Minokhirad II, 120-121 (tr. West).
 
-[^811]: 168:2 Sîrôzah I, 18.
+[^778]: 168:2 Sîrôzah I, 18.
 
-[^812]: 169:1 Ahura Mazda.
+[^779]: 169:1 Ahura Mazda.
 
-[^813]: 169:2 Cf. Yt. I, 1 seq.
+[^780]: 169:2 Cf. Yt. I, 1 seq.
 
-[^814]: 169:3 The text is apparently corrupt and has literally, ‘We invoke, we bless me, Ahura Mazda.’
+[^781]: 169:3 The text is apparently corrupt and has literally, ‘We invoke, we bless me, Ahura Mazda.’
 
-[^817]: 169:4 See following page, note [^781].
+[^782]: 169:4 See following page, note 781.
 
-[^816]: 169:5 Possibly, waters; cf. Yt. V, 132 and Vend. IV, 46 \[128\], 54 \[154\] seq.
+[^783]: 169:5 Possibly, waters; cf. Yt. V, 132 and Vend. IV, 46 \[128\], 54 \[154\] seq.
 
-[^818]: 169:6 Literally, the fat.
+[^784]: 169:6 Literally, the fat.
 
-[^819]: 170:1 See [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
+[^785]: 170:1 See [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
 
-[^820]: 170:2 See Vend. XXII, 3.
+[^786]: 170:2 See Vend. XXII, 3.
 
-[^821]: 170:3 Varô; this seems to be the Var nîrang or ordeal which is alluded to in several passages of the Avesta; cf. Afrîgân I, 9; Yasna XXXI, 3 b (see Pahl. Comm.; cf. Comm. ad XXXI V, 4 a); cf. Vend. IV, 46, 55. According to the Dînkart, there were thirty-three kinds of var ordeals (Haug, Ardâ Vîrâf, p. 245); the most common was to pour melted copper upon the breast of the man whose truth was to be tested: if he went off uninjured, he was considered to have spoken the truth. Cf. Vend. Introd. III, 9.
+[^787]: 170:3 Varô; this seems to be the Var nîrang or ordeal which is alluded to in several passages of the Avesta; cf. Afrîgân I, 9; Yasna XXXI, 3 b (see Pahl. Comm.; cf. Comm. ad XXXI V, 4 a); cf. Vend. IV, 46, 55. According to the Dînkart, there were thirty-three kinds of var ordeals (Haug, Ardâ Vîrâf, p. 245); the most common was to pour melted copper upon the breast of the man whose truth was to be tested: if he went off uninjured, he was considered to have spoken the truth. Cf. Vend. Introd. III, 9.
 
-[^822]: 171:1 Arethama<i>t</i>\-bairishta: aretha is dînâ, dâdistân (law, justice).
+[^788]: 171:1 Arethama<i>t</i>\-bairishta: aretha is dînâ, dâdistân (law, justice).
 
-[^823]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
+[^789]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
 
-[^824]: 171:3 I cannot make anything of the rest of the sentence hadhanâ tanasu<i>s</i>; cf. § 38.
+[^790]: 171:3 I cannot make anything of the rest of the sentence hadhanâ tanasu<i>s</i>; cf. § 38.
 
-[^828]: 171:4 See Yt. X, 15, note 5.
+[^791]: 171:4 See Yt. X, 15, note 5.
 
-[^826]: 171:5 The rest as in §§ 5-8.
+[^792]: 171:5 The rest as in §§ 5-8.
 
-[^832]: 172:1 See Yt. X, 15, note 5.
+[^793]: 172:1 See Yt. X, 15, note 5.
 
-[^833]: 172:2 See [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
+[^794]: 172:2 See [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
 
-[^834]: 173:1 The Saêna, in later mythology the Sînamrû or Sîmûrgh; his ‘resting-place is on the tree which is Ja<i>d</i>\-bêsh (opposed to harm) of all seeds; and always when he rises aloft, a thousand twigs will shoot forth from that tree; and when he alights, he will break off the thousand twigs, and he sheds their seed therefrom. And the bird Chañmrôsh for ever sits in that vicinity; and his work is this, that he collects that seed which sheds from the tree of all seeds, which is Ja<i>d</i>\-bêsh, and conveys it there where Tishtar seizes the water, so that Tishtar may seize the water with that seed of all kinds, and may rain it on the world with the rain’ (Minokhirad LXII, 37; tr. West).
+[^795]: 173:1 The Saêna, in later mythology the Sînamrû or Sîmûrgh; his ‘resting-place is on the tree which is Ja<i>d</i>\-bêsh (opposed to harm) of all seeds; and always when he rises aloft, a thousand twigs will shoot forth from that tree; and when he alights, he will break off the thousand twigs, and he sheds their seed therefrom. And the bird Chañmrôsh for ever sits in that vicinity; and his work is this, that he collects that seed which sheds from the tree of all seeds, which is Ja<i>d</i>\-bêsh, and conveys it there where Tishtar seizes the water, so that Tishtar may seize the water with that seed of all kinds, and may rain it on the world with the rain’ (Minokhirad LXII, 37; tr. West).
 
-[^835]: 173:2 By the floods (? Vend. I, 26); it has probably a geographical meaning; cf. the following paragraph; perhaps the marshy country at the mouth of the Tigris.
+[^796]: 173:2 By the floods (? Vend. I, 26); it has probably a geographical meaning; cf. the following paragraph; perhaps the marshy country at the mouth of the Tigris.
 
-[^836]: 173:3 Cf. Yt. X, 104; aodhas and sanaka may refer to the southern and northern basin of the Tigris.
+[^797]: 173:3 Cf. Yt. X, 104; aodhas and sanaka may refer to the southern and northern basin of the Tigris.
 
-[^837]: 174:1 Cf. Yt. X, 50.
+[^798]: 174:1 Cf. Yt. X, 50.
 
-[^838]: 174:2 Reading vîspô-vaêmem; cf. Yt. V, 96, note 7.
+[^799]: 174:2 Reading vîspô-vaêmem; cf. Yt. V, 96, note 7.
 
-[^839]: 175:1 See Bund. V, 3 seq.; cf. Yt. X, 13, 50.
+[^800]: 175:1 See Bund. V, 3 seq.; cf. Yt. X, 13, 50.
 
-[^840]: 175:2 Cf. Yt. XX and Yt. VIII, 12.
+[^801]: 175:2 Cf. Yt. XX and Yt. VIII, 12.
 
-[^842]: 175:3 Cf. Yt. VIII, 12.
+[^802]: 175:3 Cf. Yt. VIII, 12.
 
-[^843]: 175:4 ‘The star of water essence is for the increase of water; and the star of earth essence, for the increase of earth; and the star of tree essence, for the increase of trees; and the star of cattle essence, p. 176 for the increase of cattle; and the essence of water, and earth, and trees, and cattle is created for the increase of man’ (Minokhirad XLIX, 7, tr. West).
+[^803]: 175:4 ‘The star of water essence is for the increase of water; and the star of earth essence, for the increase of earth; and the star of tree essence, for the increase of trees; and the star of cattle essence, p. 176 for the increase of cattle; and the essence of water, and earth, and trees, and cattle is created for the increase of man’ (Minokhirad XLIX, 7, tr. West).
 
-[^845]: 176:1 See preceding note.
+[^804]: 176:1 See preceding note.
 
-[^846]: 176:2 Excluding the planets which belong to Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1).
+[^805]: 176:2 Excluding the planets which belong to Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1).
 
-[^847]: 176:3 See above, [p. 8](../Sirozahs_1#p8), note [8](../Sirozahs_1#fn53).
+[^806]: 176:3 See above, [p. 8](../Sirozahs_1#p8), note [8](../Sirozahs_1#fn53).
 
-[^848]: 177:1 The highest heaven, the abode of Ormazd.
+[^807]: 177:1 The highest heaven, the abode of Ormazd.
 
-[^849]: 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i>; cf. § 8, [p. 171](#p171), note [^790].
+[^808]: 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i>; cf. § 8, [p. 171](#p171), note 790.
 
-[^850]: 178:1 Who shall have worshipped Rashnu.
+[^809]: 178:1 Who shall have worshipped Rashnu.

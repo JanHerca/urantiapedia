@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. Therefore it is necessary to make an endeavour that they _shall_ commit no offence whatever, especially at a time when they have eaten meat.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Il y a plusieurs animaux dont l'abattage est très mauvais et le péché très abondant, comme l'agneau, le chevreau, le bœuf de labour, le cheval de guerre, l'hirondelle qui capture la sauterelle et le coq ; et _de tous ceux-ci_, le péché est le plus grand à l'égard du coq. 4. Si cela devient une nécessité [^4], il convient de tuer un coq qui ne chante pas [^5], et il est nécessaire de consacrer leurs têtes. 5. Toute tête d'animal non consacrée n'est pas désirable à manger, de sorte qu'elle devient dans cette mesure [^6] un don juste. 6. Si l'on ne peut pas consacrer la tête, il est nécessaire de consacrer un rein _en_ remplacement (badal).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

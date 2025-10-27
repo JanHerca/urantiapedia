@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 27\. « Il y a un endroit [^5] où, quant au froid, il est tel que celui de la neige gelée [^6] la plus froide. 28. Il y a un endroit où, quant à la chaleur, il est tel que celui du feu le plus chaud et le plus ardent. 29. Il y a un endroit où des créatures nuisibles les rongent, tout comme un chien ronge les os. 30. Il y a un endroit où, quant à la puanteur, il est tel qu'ils titubent (ba<i>r</i>â lar<i>z</i>ênd) [^7] et tombent. 31. Et l'obscurité <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> est toujours telle qu'il leur était possible de la saisir avec la main [^8]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

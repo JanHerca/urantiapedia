@@ -45,6 +45,8 @@ _Beneficio Nask_.
 
 12\. La excelencia que es perfecta es la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

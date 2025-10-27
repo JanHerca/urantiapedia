@@ -117,6 +117,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 131\. Y, además, todos los ángeles, las almas y los espíritus guardianes atienden los deseos _de_ la gloria del Creador y sus mandatos, sin problemas y con pleno regocijo, semejantes a las formas de los mares, ríos, montañas, árboles y aguas [^182]; y han consolado y adornado la creación. 132. Y los ángeles, las almas y los espíritus guardianes, también espíritus constituidos de un contacto previo con la vida, se complacen y se regocijan así; eternos y completamente preparados, se naturalizan en esa alegría completa.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

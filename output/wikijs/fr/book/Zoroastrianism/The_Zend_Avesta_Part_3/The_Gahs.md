@@ -110,6 +110,8 @@ Et nous sacrifions au saint homme le plus avancé en bonnes pensées, en paroles
 
 6\. Et nous sacrifions à Bere<i>g</i>ya, le saint seigneur de l'ordre rituel, à Nmânya avec le désir ardent du bon Asha, et avec le désir ardent de la bonne loi Mazdayasnienne, pour le culte <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> et l'hommage de Nmânya, le seigneur. 7. Et nous sacrifions à Sraosha, et à Rashnu, le plus juste, et à Ar<i>s</i>tâ<i>t</i>, qui fait avancer et accroître les colonies. 8, 9. (Voir Gâh I, 9, 10.) 10. Et je bénis le sacrifice, l'hommage, la force et la rapidité de Sraosha (Obéissance) le béni, doté de sainteté, frappant du coup de la victoire, et qui fait avancer les colonies ; et je bénis le sacrifice de Rashnu, le très juste, et celui d'Ar<i>s</i>tâ<i>t</i>, qui fait avancer et accroître les colonies [^1560].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

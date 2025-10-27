@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 11\. Thereupon, the guardian spirits of men became of the same opinion with the omniscient wisdom about going to the world, on account of the evil _that_ comes upon them, in the world, from the fiend (drû<i>g</i>) Aharman, and _their_ becoming, at last, again unpersecuted by the adversary, perfect, and immortal, in the future existence, for ever and everlasting.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

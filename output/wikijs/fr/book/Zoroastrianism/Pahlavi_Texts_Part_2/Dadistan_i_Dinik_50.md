@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 1\. La quarante-neuvième question est la suivante : S’ils vendent du vin aux étrangers et aux infidèles, quelle est alors la décision à ce sujet ? <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> 2\. La réponse est la suivante : il existe un risque très élevé de péché grave, et ce serait une mauvaise occupation. 3. Mais si, par l'opération de leur vente de vin, le vin est davantage tenu à l'écart de ceux qui deviennent pires par la consommation immodérée de vin, et qu'il arrive à ceux qui boivent du vin avec modération [^1] - qu'ils font devenir meilleurs en buvant du vin - plus que lorsqu'ils ne pratiquent pas cette vente de vin, alors, par cette vente, le pouvoir qui est dans la richesse [^2], par leur maintien de laquelle un homme est confirmé (pa<i>d</i>ayînî<i>d</i>ŏ) dans la bonne religion et détourné de l'infidélité, la progression du péché est empêchée et les bonnes œuvres sont promues, devient l'assistance du bien et la protection de la religion, l'empêchement du péché et l'aide des bonnes œuvres, qui, lorsqu'ils ne pratiquent pas cette vente de vin, ne surviennent pas, et qui sont beaucoup plus promues que les divers péchés qui auraient pu survenir de la consommation illégale de vin. 4. Ou bien, la plus grande décision – et grandes sont les bonnes œuvres qui y sont assurées – est la suivante : « Ceux qui vendent du vin [^3] à des étrangers, à des infidèles et à d’autres dont la conduite illégale résulte de l’ivresse, agissent de manière très pécheresse et non autorisée. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

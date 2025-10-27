@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. Et quand ils commettent le péché avec les femmes, c'est exactement le même que celui commis avec les hommes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

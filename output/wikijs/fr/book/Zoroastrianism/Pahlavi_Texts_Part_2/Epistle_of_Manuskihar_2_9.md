@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 13\. Écrit en propitiation, louange et bénédiction du créateur Aûha<i>r</i>ma<i>z</i><i>d</i> et des archanges, de tous les anges des existences spirituelles et des anges des _existences_ terrestres, et de tout esprit gardien des justes. 14. Hommage au pontife exalté (ra<i>d</i>ŏ) _envoyé_ du créateur Aûha<i>r</i>ma<i>z</i><i>d</i>, le plus céleste des célestes, Zaratû<i>s</i>t le Spîtamân. 15. La <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> _la plus priante _et_ la plus lucrative des choses est la justice ; grande, bonne et parfaite est Zaratû<i>s</i>t ; _et_ une _seule_ est la voie de la justice, toutes les autres ne sont pas des voies [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

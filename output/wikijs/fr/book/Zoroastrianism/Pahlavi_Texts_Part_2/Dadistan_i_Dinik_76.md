@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : les grands-prêtres, dans leur décision, ont dit expressément que tous ceux qui sont dignes de mort le sont par la décision des juges et par l'ordre des <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> rois, dont le rôle est l'exécution. 3. Quiconque fera mourir celui qui a commis des péchés odieux [^1] après avoir été trois fois en désaccord avec lui au sujet de la décision de ceux qui connaissent la religion et de l'ordre des rois, alors qu'il est resté dans le péché au mépris de ses propres relations - et non pas de manière ennemie pour l'homme et nuisible à la religion, mais de manière ennemie pour le péché et afin d'éloigner les relations avec les démons - doit considérer cela comme une grande bonne œuvre. 4. Aucun commandement n'est donné sur la décision de ce que l'on doit faire dans le même domaine, avec plus d'attention et plus d'autorisation dans les cas d'attention douteuse, car la bonne œuvre existe sans aucun doute de plus en plus abondamment [^2].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

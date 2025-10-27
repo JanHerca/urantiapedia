@@ -1077,6 +1077,8 @@ Zrayang,h<i>a</i>u, prêtre, Dk. VII, **7**, 8, 10.
 
 _Zû<i>s</i>ak_, mec, NSP. VII, **2**, 70 ; Zs. **13**, 6.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

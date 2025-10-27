@@ -43,6 +43,8 @@ dateCreated: 2025-3-16T22:11:40Z
 5\. Et nous nous approchons ainsi de Toi avec la bonne parenté de notre parenté, avec celle de la Justice bienheureuse, et la bonne loi de l'économie et de l'énergie et la bonne Piété, l'esprit prêt (au sein de Ton peuple) !
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

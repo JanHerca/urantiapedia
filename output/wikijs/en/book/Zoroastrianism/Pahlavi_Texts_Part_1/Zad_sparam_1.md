@@ -60,6 +60,8 @@ THEY call these memoranda _and_ writings the Selections (<i>k</i>î<i>d</i>akîh
 
 27\. At the same time Aharman came from accompanying Time out to the front, out to the star station; the connection of the sky with the star station _was_ open, which showed, since it hung down into empty space, the strong communication of the lights and glooms, the place of strife in which is the pursuit of both. 28. And having darkness with himself he brought it into the sky, _and_ left the sky so to gloom that the internal deficiency in the sky extends as much as one-third [^17] over the star station.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

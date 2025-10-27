@@ -53,6 +53,8 @@ Copia de una epístola del sacerdote Mânû<i>s</i><i>k</i>îhar, hijo de Yûdâ
 
 16\. Y si, además, los de buena religión en el país de Irán carecen siempre del conocimiento y la familiaridad con la religión de su señorío sacerdotal, de modo que dispersa la profesión y la preparación y administración del remedio [^19] para muchas enfermedades, entonces la desecha como profesión, y no hay mucha necesidad de la sabiduría y el conocimiento de su señorío sacerdotal. 17. Porque hay algunos en la actualidad que jamás aprobarían un fuego que preside [^20], que en muchos sentidos es un avance de hábitos extranjeros; y de muchas cosas escritas, de naturaleza más fácil y cómoda en un sentido mundano, ofrecen <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> y siempre dan más que el sacerdote; y, por último, nadie acepta jamás a nadie, excepto a aquel que es astuto en el mal y perverso [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

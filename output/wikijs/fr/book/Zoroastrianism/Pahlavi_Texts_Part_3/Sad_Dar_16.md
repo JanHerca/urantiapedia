@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Il ne convient pas qu'ils laissent l'enfant seul pendant quarante jours ; et il ne convient pas non plus que la mère de l'enfant mette le pied sur le seuil de la maison, ou jette les yeux sur une colline, car cela [^2] est mauvais pour ses règles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

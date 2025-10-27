@@ -64,6 +64,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 21\. When he has committed a mortal _sin_ (marg-ar<i>g</i>ân), and engages mentally in renunciation, and the high-priest (ra<i>d</i>) knows that, though he ought to give up his body, he _will_ not give _it_ up, it is allowable when he shall kill him; that is, because he relies upon the beneficence (sû<i>d</i>) of Aûharmazd. 22. Moreover, from the rule (mank) ‘yazemna [^33] ka<i>d</i> nâ haka<i>d</i>’ ('through being worshipped what then at <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> once,‘ &c.) it is evident, and it becomes his through _ceremonial_ ablution of the hands; it amounts to a whole quarry (kânŏ) of good works, and the worship of God (ya<i>z</i>i<i>s</i>n-i yazdânŏ) is to be performed for him [^34]. 23. Âtarô-pâ<i>d</i> [^35] son of Mâraspend said that it is always necessary to be more diligent in performing one’s worship of God _at_ the time that many mortal _sins_ are committed; all sins _being_ admissible into renunciation, when thou shalt atone by complete self-sacrifice (pûr-<i>g</i>ân-dâ<i>d</i>îhâ), _and_ when _one_ engages in renunciation of the sin from _its_ root, he becomes _free_ from the sin in renunciation of which sin he engaged; for Aûharmazd will not leave his own creatures unto the evil spirit, unless on the path of non-renunciation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

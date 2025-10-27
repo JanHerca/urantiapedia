@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. _In_ like manner it is not proper to swallow water at night, because it is a sin. 4. _But_, if a necessity arises, it is necessary to make a light ready, and _one_ first eats some morsels of food (<i>t</i>a’hâm) so that the sin may be less.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

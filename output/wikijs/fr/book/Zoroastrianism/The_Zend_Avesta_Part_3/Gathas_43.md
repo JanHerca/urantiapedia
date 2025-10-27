@@ -112,6 +112,8 @@ II. Oui, je t'ai conçu comme généreux, ô Ahura Mazda ! lorsque (ton messager
 
 16\. Ainsi, ô Ahura Mazda ! ce Zarathoustra aime [^514] l'Esprit [^515], et tout homme très généreux prie [^516] (à côté de lui) : Sois la Justice forte de vie et revêtue d'un corps. Dans ce Royaume (saint) qui brille (avec splendeur) comme le soleil, que la Piété soit présente ; et puisse-t-elle, par la présence de Ton Bon Esprit, nous accorder des bénédictions en récompense de nos actes [^517] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

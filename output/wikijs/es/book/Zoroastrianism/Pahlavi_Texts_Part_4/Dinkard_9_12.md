@@ -61,6 +61,8 @@ _Sûdkar Nask_.
 
 32\. Es la excelencia de la justicia que es perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

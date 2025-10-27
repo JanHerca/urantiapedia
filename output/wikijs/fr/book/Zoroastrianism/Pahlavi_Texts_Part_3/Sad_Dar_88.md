@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le quatre-vingt-huitième sujet est celui-ci, que, quant _à tout morceau_ de bois sur lequel ils portent un cadavre, ou sur lequel ils le lavent, et celui qui peut être souillé de sang et d'impureté, celui sur lequel une femme menstruée dépose une souillure _menstruelle_, ou un membre nu, et celui sur lequel ils empalent un être humain, il est nécessaire d'éviter tous ces _morceaux_ de bois, et de ne plus travailler avec [^1] eux, car le vêtement devient impur ; et il n'est pas convenable de les brûler. 2. Il est nécessaire de les mettre dans un endroit où quiconque, [^2] les arrache et les remue, ne les mettra pas à la disposition des hommes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

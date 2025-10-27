@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. La ablución ceremonial consiste en lavarse bien las manos, la cara, la nariz, los ojos y los pies, ya sea con fruta (mivah) [^2] o con alguna hierba que no haya caído agua; después, secarlos y lavarlos tres veces con agua de tal manera que se humedezcan desde la cara hasta la oreja [^3]. 3. Es necesario mantener la boca cerrada para que el agua no entre en ella; si una gota, por no detenerse, entra en la boca, se comete un pecado de trescientos stîrs [^4]. 4. Después, se deben lavar las manos tres veces con agua, hasta la parte superior de los brazos; primero la mano derecha y después la izquierda; y, de igual manera, se deben lavar el pie derecho y el izquierdo. <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> 5\. Luego recitan el K<i>e</i>m-nâ-mazdâ [^5], pues, cada vez que desean recitar algo como una oración _interna_, es necesario que se laven las manos con la ablución _ceremonial_ [^6], y, si _no_ lo están, el Avesta no es aceptado, y el demonio de la corrupción (nasu<i>s</i>) no se aleja, y_ se convierte en un pecado Tanâvar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 10\. À propos de la bonne œuvre de tout ce qui est activité sage, et de la récompense du lieu heureux [^2] ; du péché de tout ce qui est activité ignorante, et de la <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> pénalité du mauvais lieu [^3] ; lié à cela, pour faire que celui qui est juste se développe en sagesse, et pour faire que celui qui est méchant diminue dans l'ignorance, c'est le monde.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

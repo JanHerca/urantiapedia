@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. Toute bonne œuvre, quelle qu'elle soit, accomplie est manifestement une bonne œuvre, tant pour ceux qui la considèrent que pour celui qui l'accomplit ; de même, pour l'âme, la bonne œuvre appartient autant à celui qui l'a accomplie, mais l'âme de celui qui la fait de ses propres mains est plus belle et plus forte que celle de celui qui la commande. 7. Et sa similitude est telle que lorsqu'un homme possède un beau et convenable habit, qu'il le porte sur son corps et qu'il est plus beau, plus splendide et plus convenable qu'un autre homme _qui_ porte de la même manière un habit qui lui est volé.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

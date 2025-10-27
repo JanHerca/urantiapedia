@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 13\. Sobre las tres costumbres (dâ<i>d</i>ŏ) que Zaratû<i>s</i>t prescribió como las mejores: La primera es esta: «No vayas sin otros, excepto con autoridad magisterial (apatkâr ra<i>d</i>îhâ»); la segunda es: «Aunque procedan ilegalmente en cuanto a ti, considera de antemano tus acciones legalmente»; y la tercera es: «El matrimonio entre <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> parientes más próximos, por el bien del progreso puro de tu raza, es la mejor de las acciones de los vivos, que se proveen para la correcta procreación de los hijos [^24].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

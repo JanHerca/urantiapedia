@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 2\. This, too, they say, that in the reign of A<i>z</i>\-i Dahâk [^2] a young woman was admitted to a demon, and a young man was admitted to a witch (parîk), and on seeing them they had intercourse; owing to that one intercourse the black-skinned negro arose from them. 3. When Frê<i>d</i>ûn [^3] came to them they fled from the country of Iran, _and_ settled upon the sea-coast; now, _through_ the invasion of the Arabs, they are again diffused through the country of Iran.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

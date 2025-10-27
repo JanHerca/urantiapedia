@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. El espíritu de sabiduría respondió (5) así: «Para hacer a Aûha<i>r</i>ma<i>z</i><i>d</i>, el señor, y a los arcángeles, y <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> el cielo fragante y agradable para uno mismo, y [^2] Aharman, el malvado, y el. demonios confundidos, y escapar del infierno, lo oscuro y depreciado, son posibles así: (6) es decir, cuando hacen del espíritu de sabiduría una protección para la espalda (pû<i>s</i>tîkpânakîh), (7) y llevan el espíritu de contentamiento en el cuerpo, como armas y armadura y valor, (8) y hacen del espíritu de verdad [^3] un escudo, (9) del espíritu de agradecimiento un garrote, (Al) espíritu de completa atención un arco, (11) y del espíritu de liberalidad una flecha; (12) y hacen del espíritu de moderación como una lanza, (13) del espíritu de perseverancia un guantelete, y ponen el espíritu del destino como protección [^4]. 14. De esta manera es posible llegar al cielo y a la vista de los seres sagrados, y escapar de Aharman, el malvado, y del infierno, el depreciado.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The fifty-fifth subject is this, that when a Navazû<i>d</i> [^2] _ceremony_ is performed, and it happens that it is not possible to consecrate a sacred cake, it is necessary that _one should_ eat bread with the Hôrmazd _inward_ prayer; _and_, afterwards, he _should_ <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> complete the prayer just as when they complete _it_ as regards the sacred cake, so that the sin _may_ be less.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

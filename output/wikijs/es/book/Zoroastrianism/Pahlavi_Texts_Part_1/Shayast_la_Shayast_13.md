@@ -111,6 +111,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 50\. El comienzo de los Gâthas es Ahyâ-yâsâ (Yas. XXVIII, 1), y su final es drigavê vahyô (Yas. LII, 9, final); y _hay_ 278 estrofas, 1016 líneas, 5567 palabras (vâ<i>k</i>ak), 9999 mârîk y 16,554 khûr<i>d</i>ak [^89]. 51. Porque las líneas y estrofas de los Gâthas _fueron_ recopiladas por nosotros, y fueron:—cien estrofas del Ahunavaiti Gâtha (Yas. XXVIII-XXXIV), de las cuales cada estrofa es de tres líneas; cuarenta estrofas del Yasna _de siete capítulos_ (Yas. XXXV-XLI, 17), <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> de las cuales cada estrofa tiene tres versos; sesenta y seis estrofas del U<i>s</i>tavaiti Gâtha (Yas. XLII-XLV), de las cuales cada estrofa tiene cinco versos, excepto Haê<i>k</i>a<i>d</i>\-aspâ (Yas. XLV, 15), porque esa tiene cuatro versos; cuarenta y una estrofas del Spe<i>n</i>tâ-mainyû Gâtha (Yas. XLVI-XLIX), de las cuales cada estrofa tiene cuatro versos; veintidós estrofas del Vohû-khshathra (Yas. L), de las cuales cada estrofa tiene tres [^90] líneas; _y_ nueve estrofas del Vahi<i>s</i>tôi<i>s</i>ti (Yas. LII), de las cuales cada estrofa tiene cuatro líneas, excepto Ithâ-î (Yas. LII, 6), porque esa es una estrofa de cinco;—la cantidad de lo anterior [^91] es 278 estrofas [^92].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

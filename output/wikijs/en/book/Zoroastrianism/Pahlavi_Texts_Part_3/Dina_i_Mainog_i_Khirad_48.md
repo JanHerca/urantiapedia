@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘The place of the understanding and intellect and seed of men is in the brain of the head. 5. And when the brain of the head is sound, the understanding and intellect and seed are on the increase; (6) _but_ when a person attains unto old age, the brain of the head remains only at a diminution. 7. And he who is an aged man, on account of the diminution of understanding and intellect, sees less and knows less of that which it is necessary to do with wisdom. 8. Wisdom, in the beginning, mingles with the marrow of the fingers of men's hands; (9) and, afterwards, <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> its seat and abode and place [^1] are in the heart. 10. And its dwelling [^2] in the whole body becomes such as the shape of the foot in various shoes (mûg<i>k</i>akŏ). [^3]’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

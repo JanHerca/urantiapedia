@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 9\. Alors ces adorateurs de Ma<i>z</i><i>d</i>a frappent, et personne ne les frappe. 0. Alors ces adorateurs de Ma<i>z</i><i>d</i>a produisent un désir de rénovation parmi les êtres, un être toujours vivant, toujours bénéfique, et toujours désirant un Seigneur. 11. 'Alors moi, qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, je produis la rénovation selon le désir parmi les êtres, un être toujours vivant, toujours bénéfique, _et toujours_ désirant un Seigneur. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

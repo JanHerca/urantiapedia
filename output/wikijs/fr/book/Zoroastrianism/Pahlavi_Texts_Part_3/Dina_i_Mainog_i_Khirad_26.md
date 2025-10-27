@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. « L'homme de mauvaise humeur est moins mauvais [^2] que l'homme mal informé ; (8) car l'homme de mauvaise humeur, sauf par décret, ne peut rien arracher à qui que ce soit ; (9) et quant à l'homme mal informé, son désir de toute sorte est alors [^3] d'oppression et de pillage. 10. Concernant celui qui est mal informé, il est déclaré que, indépendamment de la prédestination, il naît libre de toute nouvelle compréhension [^4] »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

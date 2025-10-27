@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 6\. Regarding the river Nâhvtâk [^13] it says, that Frâsîyâ<i>v</i> of Tûr conducted it away; _and_ when [^14] <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> Hûshê<i>d</i>ar [^15] comes it _will_ flow again suitable for horses; so, also, _will_ the fountains of the sea Kyânsîh [^16]. 7. Kyânsîh [^16] is the one where the home (<i>g</i>inâk) of the Kayân race is.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

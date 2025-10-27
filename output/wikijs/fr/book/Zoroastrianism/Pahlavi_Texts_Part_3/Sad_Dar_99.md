@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Car Zaratu<i>s</i>t demanda à Hôrmazd ainsi : « À qui convient-il d'enseigner le Pahlavi ? » 3. _Et_ Hôrmazd, le bon _et_ propice, donna une réponse ainsi : « _À_ tous ceux qui sont de ta famille (nasl), un prêtre officiant, un grand prêtre, un chef _spirituel_, et tout prêtre intelligent. 4. [^1] Outre ceux que j'ai mentionnés, si _quelqu'un_ l'enseigne_ à d'autres [^2] c'est un grand péché pour lui ; _et_ s'il a accompli beaucoup de devoirs _et_ de bonnes œuvres, la fin pour lui peut _encore_ être l'enfer. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

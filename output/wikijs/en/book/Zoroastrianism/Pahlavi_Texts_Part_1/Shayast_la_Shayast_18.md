@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 4\. Aharman exclaimed thus: ‘Enter into the season-festival! if one of those _present_ shall steal a single thing the season-festival is violated, and the affair is _in accordance_ with [^5] thy wish; enter into the _sacred_ feast [^6]! if only one of those _present_ shall chatter the _sacred_ feast is violated, and the affair is _in accordance_ with thy wish; _but_ avoid next-of-kin marriage [^7]! because I do not know a remedy for it; for whoever _has_ gone four times near to _it will_ not become parted from the possession of Aûharmazd and the archangels [^8].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

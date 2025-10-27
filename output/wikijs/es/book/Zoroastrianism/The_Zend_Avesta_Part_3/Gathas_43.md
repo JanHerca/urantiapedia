@@ -114,6 +114,8 @@ II. Sí, te concebí como generoso, ¡oh Ahura Mazda! cuando (Tu mensajero) con 
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -71,6 +71,8 @@ Traducción.
 11\. (Pero en cuanto a los réprobos infieles); las almas (de los muertos malvados) se encontrarán con esos hombres malvados que sirven a sus gobernantes malvados, que hablan con palabras malvadas y albergan malas conciencias, estas almas (en el Infierno) vendrán con comida malvada [^752] (para darles la bienvenida), y en la morada de la Mentira su morada [^753] ciertamente será [^754]!
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

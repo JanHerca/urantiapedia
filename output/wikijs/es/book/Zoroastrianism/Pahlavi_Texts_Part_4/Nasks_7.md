@@ -39,6 +39,8 @@ DE LOS RIVÂYATS PERSAS [^1].
 
 Los nombres de los veintiún Nasks, del Yathâ-ahû-vairyô: Yathâ, el Stûdkar; ahû el Var<i>s</i>tah-mânthrah; vairyô, el Bagh; athâ, el Dâmdâ<i>d</i>; ratu<i>s</i>, el Nâdûr; ashâ<i>d</i>, el Pâzûn; <i>k</i>î<i>d</i>, el Ratu<i>s</i>tâyîd; ha<i>k</i>â, el Bari<i>s</i>; vangh<i>e</i>u<i>s</i>, el Ka<i>s</i>srôb; dazdâ, el Vi<i>s</i>tâspâd; mananghô, el Dâd; <i>s</i><i>h</i>yaothananãm, el <i>K</i>îdra<i>s</i>t; angh<i>e</i>us, el Spentah; mazdâi, el Bayân-ya<i>s</i>t; khshathrem<i>k</i>â, el Niyâdâm; ahurâi, el Duvâsarô<i>g</i>î<i>d</i>; â, el Hûspârâm; yim, el Sakadâm; drigubyô, el <i>G</i>ud-dêv-dad [^3]; dada<i>d</i>, el Hâdokht del Dvâzdah-hâmâspah; vâstârem, el Ya<i>s</i>t [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

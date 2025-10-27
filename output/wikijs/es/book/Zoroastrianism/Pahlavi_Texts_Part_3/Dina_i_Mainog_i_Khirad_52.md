@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 16\. «Para la existencia de la renuncia _al pecado_ lo especial es esto, que _uno_ no comete pecado voluntariamente; (17) y si, por necedad, debilidad e ignorancia, comete un pecado, entonces está en renuncia _al pecado_ ante los sumos sacerdotes y los buenos. 18. Y después de eso, _cuando_ [^7] no lo comete, entonces ese pecado que comete se convierte así en un barrido (êsvârakŏ) [^8] de su cuerpo; (19) así como el viento que es impetuoso y poderoso, cuando viene rápido y fuerte, barre de tal manera la llanura que se lleva cada brizna de hierba (gîyyâkî<i>k</i>akŏ-1) y todo lo que se rompe _en_ ​​ese lugar.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

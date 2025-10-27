@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 14\. When the house-mistress of the family passes _away_, and the daughters are provided with husbands, the adopted-sonship is to be appointed.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -51,6 +51,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 29\. Parfaite est l'excellence de la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

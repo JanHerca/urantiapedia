@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 21\. L'excellence de la justice est parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

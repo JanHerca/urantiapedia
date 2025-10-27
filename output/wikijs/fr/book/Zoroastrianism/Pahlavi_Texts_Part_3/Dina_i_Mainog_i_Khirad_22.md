@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Il n'est pas possible de se procurer par l'effort ce qui n'est pas ordonné ; (5) mais une petite partie (kazd) de ce qui est ordonné vient par l'effort. 6. Pourtant, l'effort, lorsqu'il est infructueux dans l'existence terrestre, faute d'être accompagné des êtres sacrés [^1], vient néanmoins, par la suite, à notre secours dans l'existence spirituelle, et pèse dans la balance [^2]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

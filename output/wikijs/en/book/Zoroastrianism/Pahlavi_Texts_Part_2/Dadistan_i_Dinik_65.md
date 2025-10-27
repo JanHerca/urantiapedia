@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. It is truly said, that it was the joy of the lord _and_ creator after the creation of the creatures, and, owing to that, its consummation, which _was_ his complete accomplishment of the existence of the creatures (dâmânîh), was owing to him. 5. And its occurrence, too, is in evidence that the creator, who is so with unflinching (atôrâk) will, is as much _the cause of_ the begetting and entire progress of his own perfect creatures [^4], in whom begetting is by destiny, as Hôshâng [^5] by whom two-thirds [^6] of the demons _were_ smitten, Tâkhmôrup [^7] who overturned Aharman through the power of the angels, Yim by <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> whom order _was_ arranged and death _was_ driven away (avakâl<i>d</i>ŏ) [^8], Frê<i>d</i>ûn _who_ fettered A<i>z</i>\-î Dahâk [^9] and stripped his blaspheming (nîrangâk) from the world, and the many princes (kayân) and high-priests of grave spirit _who_ were, _and_ are, _and will_ be.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

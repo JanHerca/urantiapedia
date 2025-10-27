@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 10\. The name of the mother of Zaratû<i>s</i>t was Dughdâ [^37], _and_ the name of the father of the mother, of Zaratû<i>s</i>t was Frahimravâ [^38].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

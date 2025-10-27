@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 46\. Beaucoup d'autres choses sont dites parmi eux ; (47) et celle que nous indiquons est l'information prédominante pour vous, vainqueurs, (48) afin que vous puissiez obtenir davantage de révélation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

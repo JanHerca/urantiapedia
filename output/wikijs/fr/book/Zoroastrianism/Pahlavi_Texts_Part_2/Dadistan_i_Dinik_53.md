@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. La réponse est la suivante : ce serait un péché très grave, et ce serait une mauvaise occupation de traiter de telles affaires sous l'influence de l'opportunité, _et_ de rechercher un profit sans autorisation de cette manière. 5. Mais si c'est le moyen d'existence de ceux de la bonne religion dont vous avez écrit, et qu'ils ne sont pas en mesure de le chercher dans une autre entreprise et une autre occupation appropriée qui _serait_ un moyen d'existence moins pécheur, tous [^1] les acheteurs qui ont acquis <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> la bonne religion vendront à ceux de la bonne religion [^2] ; 6. Il est donc possible que, lorsqu'ils vendent du bétail pour l'abattage et la consommation étrangère, de nombreux bovins - ce qui représente même une diminution de l'entretien de l'Iran - soient plus misérables qu'un homme juste forcé de les tuer à cause de l'impossibilité de gagner sa vie _et_ de la peur de la mort.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

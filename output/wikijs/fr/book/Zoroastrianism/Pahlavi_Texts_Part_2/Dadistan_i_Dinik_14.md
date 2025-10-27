@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. Le châtiment de l'âme pécheresse vient de l'esprit [^6] auquel le péché commis est lié ; nourri par l'iniquité pratiquée, ce châtiment frappe les âmes pécheresses et méchantes, d'abord sur terre, ensuite en enfer, et enfin lors de l'organisation de l'existence <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> future [^7]. 7. Lorsque le châtiment des trois nuits est subi [^8], l'âme du juste accède au ciel et à la meilleure existence, et l'âme du méchant à l'enfer et à la pire existence. 8. Lorsqu'ils ont subi leur châtiment lors de la rénovation de l'univers, ils parviennent, par une purification complète de tout péché, au progrès éternel, au progrès heureux et au progrès parfait de la meilleure et paisible existence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

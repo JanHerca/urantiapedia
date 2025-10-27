@@ -71,6 +71,8 @@ _Au_ nom des êtres sacrés.
 
 22\. En confiance et gratitude envers les êtres sacrés, _et_ hommage au pontife exalté _envoyé_ de [^20] <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> le créateur Aûha<i>r</i>ma<i>z</i><i>d</i>, le céleste, très juste, _et_ glorifié Zaratû<i>s</i>t le Spîtamân. 23. Pour l'obtention des prières, une seule chose est la justice du Spîtamân ; grand, bon, _et_ parfait est Zaratû<i>s</i>t ; une seule est la voie de la justice parfaite, qui est la voie de ceux de la foi primitive ; toutes les autres, désignées de nouveau, ne sont pas des voies [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

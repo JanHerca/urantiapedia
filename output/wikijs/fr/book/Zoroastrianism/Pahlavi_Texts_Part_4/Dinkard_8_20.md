@@ -121,6 +121,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 167\. L'excellence parfaite est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

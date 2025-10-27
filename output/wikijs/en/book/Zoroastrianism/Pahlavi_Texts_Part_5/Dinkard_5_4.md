@@ -46,6 +46,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 8,. About what _are_ the requirements of the tribe of those who call _this_ really their Gyêmarâ and how _they are_ effected by our acquaintance with revelation, that is, _by_ much recitation of it; only, several occasions (yâvar 1-<i>k</i>and) are necessary in these times. 9. Also action and precaution _are_ possible for them, and among the actions and precautions _one_ is to assume more especially law and custom, and whatever _was_ perverted by us and again made true; and, as to those taught, several persons who _are_ intellectual, seeking means, and friends of the soul, _have_ come to teach complete delusions to them; also for the same tribe and whomever it is proper to teach, when it is necessary for them, even a worldly <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> priestly authority is guiding for _that_ same tribe, because he has come [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

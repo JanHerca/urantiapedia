@@ -61,6 +61,8 @@ Pahl. Vend. VIII, 271. « Ô créateur ! comment sont purifiés ces hommes, ô j
 
 <i>b</i>. Une fois parfaitement lavé par lui-même, son devoir est alors le travail frakairi frakerenao<i>d</i>, vâstrê verezyôi<i>d</i> (il doit accomplir avec persévérance, il doit cultiver dans les pâturages [^13]) ; certains diraient ainsi : « Il est toujours pour l'accomplissement du travail, et l'abstinence des cérémonies des autres est pour lui [^14]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

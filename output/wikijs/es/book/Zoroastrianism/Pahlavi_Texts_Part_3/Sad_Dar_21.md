@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 10\. Porque, cada vez que esta costumbre (qâ'hidat) se lleva a cabo _en_ ​​un lugar, a través del primer Ashem-vohû _ha_ surgido tanta buena obra que ha propiciado al ser sagrado, el bueno _y_ propicio; a través del segundo Ashem-vohû _ha_ surgido tanta buena obra que ha reverenciado y [^11] propiciado a Srôsh, el justo [^12]; a través del tercer Ashem-vohû _ha_ surgido tanta buena obra que ha reverenciado y [^11] propiciado a Khurdâ<i>d</i> _y_ Ameredâ<i>d</i> [^13], los arcángeles; y a través del cuarto Ashem-vohû _ha_ surgido tanta buena obra que todo lo que el creador Hôrmazd ha creado se vuelve reverenciado y propiciado. 11. Y con cada bocado (luqmah) que se come, mientras <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> subsiste la oración interna, proclaman una bendición para Khurdâ<i>d</i> y Ameredâ<i>d</i>, los arcángeles. 12. Pero si se come sin la oración interna, como los demonios están en ese lugar [^14], dicen: «Podrías haber comido el veneno de una serpiente». 13. Por lo tanto, observa cuál es mejor de los dos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

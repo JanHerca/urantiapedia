@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 21\. Lo que proveen durante su vida es mejor [^13]; _y_, tal como ocurriría cuando alguien planta un árbol nuevo y come su fruto cada año, así también aumenta esa buena obra cada año. 22. Si vive diez años, _o_ si cien años, con ese mismo tiempo aumenta mucho más cada año [^14]. 23. Si proveen _esto_ después de su vida, lo que sería el aumento desaparece; y durante su _vida_, también ocurre lo que todo aquel que ha cumplido con un deber por cuenta propia ha visto: que _lo que otros_ realizan después de su _vida_ es muy diferente. para que ella _lo_ provea con sus propias manos, no después de su fallecimiento (vafât).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

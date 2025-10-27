@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 22\. Existe también una alegría abundante, de la cual no se ha señalado ningún ejemplo (vakhtô) en el mundo desde el principio, pero que llega así a los celestiales _y_ a los del cielo supremo; y de la cual ni siquiera la más alta felicidad y placer mundanos son comparables, excepto mediante la posesión del conocimiento, que se dice _es_ una muestra _de ella_ para los seres mundanos. <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> 23. Y de _sus_ indicaciones por el mundo, lo limitado con lo ilimitado, lo imperecedero con lo perecedero, lo consumible con lo inconsumible no son, entonces, comparables [^30]. 24. Y son las cosas limitadas, perecederas y consumibles de la existencia del mundo las que son las imperecederas e inconsumibles de la existencia de la luz infinita [^31], las indestructibles del espacio todo-beneficioso y siempre-beneficioso (gûn<i>g</i>) [^32], y las todas-gozosas_\—sin un solo día de aflicción—del radiante cielo supremo (garô<i>d</i>mânô). 25: Y el trono (gâs) de los justos en el cielo y el cielo supremo es la recompensa que obtiene primero, y es suya hasta la resurrección, cuando incluso el mundo se vuelve puro _e_ imperturbable; _él_ es inmutable por ello, _pero_ a través de la resurrección obtiene lo que es grande y bueno y perfecto, _y_ es eternamente glorioso.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

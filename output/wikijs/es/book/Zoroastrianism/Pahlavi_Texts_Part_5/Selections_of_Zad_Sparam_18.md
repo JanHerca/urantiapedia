@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 7\. En el camino, Zaratustra dio de beber a sus dos caballos, a causa de su sed; y pensó: «No me fue provechoso ir a la residencia de los Karaps, salvo de esta manera, pues, al dar de beber a los caballos, mi alma se expandió».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

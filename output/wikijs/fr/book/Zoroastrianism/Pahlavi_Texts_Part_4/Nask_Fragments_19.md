@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 L'intégralité de ce Nask (tel que décrit dans Dk. VIII, chap. XLIV) existe encore et est considérée par les auteurs des Rivâyats persans comme une œuvre complète. Son caractère fragmentaire, assez évident pour les érudits européens, doit donc être <span id="p482"><sup><small>[ p. 482 ]</small></sup></span> attribué, selon toute probabilité, aux pertes subies avant la renaissance du culte de Ma<i>z</i><i>d</i>a par la dynastie sassanide. Il est remarquable que le compilateur du récit dans le Dinka<i>r</i><i>d</i> ne fasse aucune allusion au douzième fargar<i>d</i> du Vendîdâ<i>d</i>, qui est également omis dans tous les anciens manuscrits. des Vendîdâ<i>d</i> avec Pahlavi qui ont été examinés, bien que les copistes semblent avoir été conscients de l'existence d'un douzième fargar<i>d</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

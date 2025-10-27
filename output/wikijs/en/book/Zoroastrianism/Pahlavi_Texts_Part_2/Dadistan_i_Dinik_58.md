@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. And an adopted son who is appointed is he who is to be appointed among the relations who are suitable for adoption—and are nearest to him who is to be appointed _as_ adopted son—and the ministers (pa<i>d</i>ân) of religion, _and_ he performs the duty of <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> family guardianship [^3]; he who is the appointed _one_ is he who is appointed by the men _who are_ the nearest relations (nabânazdi<i>s</i>tânŏ) on account of proximity.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

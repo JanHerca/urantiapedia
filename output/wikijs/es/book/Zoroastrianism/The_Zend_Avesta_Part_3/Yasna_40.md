@@ -42,6 +42,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 Así que podamos ser para Ti, ¡oh Mazda Ahura!, santos y verdaderos [^1207], y con libre entrega de nuestros dones.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

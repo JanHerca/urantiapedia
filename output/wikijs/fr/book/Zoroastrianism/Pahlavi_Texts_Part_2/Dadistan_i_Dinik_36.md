@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. Les mêmes actes parfaits pendant six [^11] ans dans les six _autres_ régions, et pendant cinquante ans dans les illustres Khvanîras [^12], préparent l'immortalité <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> et établissent la vie éternelle et le bien-être éternel (sû<i>d</i>îh) par l'aide, la puissance et la gloire de l'esprit omniscient _et_ bienfaisant, le créateur Aûha<i>r</i>ma<i>z</i><i>d</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

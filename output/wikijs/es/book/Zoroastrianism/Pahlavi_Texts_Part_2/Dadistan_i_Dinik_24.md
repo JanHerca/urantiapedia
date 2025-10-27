@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Y la primera noche, de sus buenos pensamientos, la segunda de sus buenas palabras y la tercera de sus buenas obras, obtiene placer para el alma; y si, además de la rectitud, persiste el pecado como origen, el primer castigo por la mala acción ocurre esa misma tercera noche. 5. Esa misma tercera noche, con la llegada del amanecer [^4], el tesoro de buenas obras, como una hermosa doncella (kanîkŏ) [^5], sale a su encuentro con el tesoro de sus propias buenas obras; y, recogido por las brujas (parîkŏ-<i>k</i>ind), el pecado y el crimen no expiados (atôkhtŏ) se imputan y son justamente justificados [^6]. <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 6\. Por el pecado restante (ketrûn<i>d</i>) sufre castigo _en_ ​​el puente, y los malos pensamientos, malas palabras y malas acciones son expiados; y con los buenos pensamientos, buenas palabras y buenas acciones de su propio espíritu loable y agradable avanza hacia el cielo supremo (garô<i>d</i>mânô) [^7], o al cielo (vahi<i>s</i>tô), o al siempre estacionario (hamîstânagânŏ) de los justos [^8], allí donde hay un lugar para él en la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

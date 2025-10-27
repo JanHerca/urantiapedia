@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 16\. Del agua y del fuego, por su propia naturaleza, no se manifiesta daño alguno; (17) pero el frío de su confraternización [^5] se mezcla con la humedad del agua y se opone al calor del fuego; (18) y la sequedad de su confraternización se mezcla con el calor del fuego y, a su vez, perjudica la humedad del agua.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

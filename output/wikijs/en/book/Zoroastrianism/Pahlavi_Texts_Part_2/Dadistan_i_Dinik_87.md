@@ -36,6 +36,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 1\. _As to_ the eighty-sixth question and reply, that which you ask is thus: How is it good when they give a gift _for_ the ceremonial? <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> 2\. The reply is this, that as it is necessary, so that the ceremonial of the sacred beings _may_ be more advanced, and such wealth _may_ more come on to the good work, for the proper stipends of the undertakers _and_ solemnizers—_that_ they _may_ become less lukewarm as regards the accompanying proprieties, and thereby diligent _in_ performing _them_\—and there is not in _it_ [^1] an express connection manifested with different work, and with that _which has_ proceeded from so many previous good _people_, I deem the introduction _of it_ [^2] more expressly better.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

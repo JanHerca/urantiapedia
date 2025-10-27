@@ -51,6 +51,8 @@ _Bakŏ Nask_.
 
 20\. La justicia perfecta es la excelencia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

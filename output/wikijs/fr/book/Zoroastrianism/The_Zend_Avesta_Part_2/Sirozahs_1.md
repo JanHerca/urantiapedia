@@ -182,6 +182,8 @@ Aux cieux élevés et puissants, à la demeure lumineuse, heureuse et bienheureu
 
 À l'espace lumineux éternel [^87] et souverain [^88] ; au brillant Garô-nmâna [^89] ; au lieu souverain du Bien-être éternel [^90] ; au pont <i>K</i>inva<i>t</i>\ [^91], fait par Mazda ; au grand seigneur Apãm Napâ<i>t</i> [^92] et à l'eau faite par Mazda ; à Haoma [^93], de sainte naissance ; à la pieuse et bonne Bénédiction ; à la terrible pensée maléfique du sage [^94] ; à tous les saints Dieux du <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> monde céleste et du monde matériel ; aux terribles et écrasants Fravashis des fidèles, aux Fravashis des premiers hommes de la loi, aux Fravashis des plus proches parents [^95] ; à chaque Dieu invoqué par son propre nom [^96].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

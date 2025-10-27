@@ -44,6 +44,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 18\. Et je loue, j'invoque et je glorifie les bons, héroïques et généreux Fravashis des saints, ceux de la maison, les Vîs, les Zantuma, les Da<i>h</i><i>v</i>yuma [^1089], et les Zarathu<i>s</i>trôtema, et tous les saints Yazads [^1090] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

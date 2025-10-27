@@ -46,6 +46,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 13\. And it is necessary _for_ a menstruous _woman_ that she _should_ not pass by the end of [^13] anything ceremonially washed, for, if it be a thousand cubits (gaz) _in length_, she makes the whole _of it_ polluted, _and_ it becomes unclean. 14. With any one _who_ holds a sacred-twig stand [^14] she _should_ not speak a word; _and_ if a priest holds the sacred twigs in _his_ hand, _and_ a menstruous _woman_ speaks some (ba’hʓ̣ê) words [^15] from afar, or he walks within three steps of a menstruous woman, she makes _it_ [^16] unclean.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

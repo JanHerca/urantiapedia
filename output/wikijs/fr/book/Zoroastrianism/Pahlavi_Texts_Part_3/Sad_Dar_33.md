@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Car il est déclaré dans la bonne religion, que, _quand_ ils cachent un cadavre sous la terre, Spendârma<i>d</i> [^3], l'archange, frissonne ; c'est tout aussi grave qu'un serpent _ou_ un scorpion le serait pour quelqu'un dans son sommeil privé [^4], et est aussi exactement comme cela pour le sol. 3. Quand tu rends un cadavre <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> sous la terre pour ainsi dire apparent, tu rends _le sol_ libéré de cette affliction.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

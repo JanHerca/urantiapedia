@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 5\. La justice est parfaite-excellence [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Dado que así lo suyo _y_ lo que le corresponde por designio, cuando alguien gestiona por él y durante su vida, engrandece su posición _y_ preserva su alma, cuando gestiona por él posteriormente, el gozo alcanza su alma. 5. Cuando no se consiente en cuanto a la buena obra, y no le corresponde por designio, aunque otros la realicen por él, no pasa a ser suya.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

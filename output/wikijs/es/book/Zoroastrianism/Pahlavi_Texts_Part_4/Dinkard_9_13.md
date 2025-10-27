@@ -43,6 +43,8 @@ _Sûdkar Nask_.
 
 10\. Es la excelencia perfecta, es decir, la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. L'esprit de sagesse répondit (6) ainsi : « C'est la sagesse qui vaut mieux que les richesses de toute espèce qui sont dans le monde. 7. C'est le destin qui prédomine sur tous et sur tout. 8. Et c'est Vâê le mauvais [^1] dont personne ne peut échapper. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

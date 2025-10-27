@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 2\. Pues se declara en la revelación que cada paso que uno da sin el cinturón sagrado es un pecado de Farmân [^2], y al dar cuatro pasos se convierte en un pecado de Tanâvar, que equivaldría a mil doscientos dirhams [^3]. 3. Por lo tanto, es necesario vigilarse a sí mismo respecto a este pecado y ceñirse el cinturón sagrado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

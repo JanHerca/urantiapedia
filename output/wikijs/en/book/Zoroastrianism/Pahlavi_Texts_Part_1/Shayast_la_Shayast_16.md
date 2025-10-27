@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 6\. The good works which are in the _ceremonial_ <span id="p381"><sup><small>[ p. 381 ]</small></sup></span> worship of the sacred beings (ya<i>z</i>i<i>s</i>n-i yazdân):—_Consecrating_ a sacred cake (drôn) [^8] is a good work of one Tanâpûhar [^9]; a _form_ of worship (ya<i>s</i>t) [^10] is a hundred Tanâpûhars; a Vispara<i>d</i> [^11] is a thousand Tanâpûhars; a Dô-hômâst [^12] is ten thousand; a Dvâ<i>z</i>dah-hômâst is a hundred thousand, _and_ the merit (kirfak) of every one which is _performed_ with holy-water is said _to be_ a hundred to one; a Hâ<i>d</i>ôkht [^13] is two thousand Tanâpûhars, _and_ with holy-water it becomes a hundred to one [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

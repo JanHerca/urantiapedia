@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est celle-ci, que le seigneur de toutes choses est le créateur qui persiste sur ses propres créatures, et une œuvre précieuse est son propre vrai service [^3] qu'il donne à Srôsh le juste que, pour cette raison, on doit révérer séparément lorsque même son nom n'est pas fréquemment mentionné, et on ne doit même pas révérer les noms des archanges avec lui.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

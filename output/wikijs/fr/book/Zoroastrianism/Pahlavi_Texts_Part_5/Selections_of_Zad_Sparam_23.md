@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 13\. À propos des trois coutumes (dâ<i>d</i>ŏ) que Zaratû<i>s</i>t a prescrites comme étant les meilleures : la première est la suivante : « Ne vous séparez pas des autres, sauf avec l’autorisation d’un magistrat (apatkâr ra<i>d</i>îhâ) ; » la seconde est : « Même s’ils agissent illégalement à votre égard, considérez d’avance vos actions comme légales ; » et la troisième est : « Le mariage entre proches, <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> pour le pur progrès de votre race, est la meilleure des actions des vivants, qui sont prévues pour la bonne procréation des enfants [^24]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -52,6 +52,8 @@ LOUANGE À AHURA ET AUX IMMORTELS ; PRIÈRE POUR LA PRATIQUE ET LA DIFFUSION DE 
 
 10\. Et en raison de Ton Ordre Juste, de Ton Bon Esprit et de Ton Pouvoir Souverain, et par l'instrument de nos louanges à Toi, ô Ahura Mazda ! et dans le but de (encore) nouvelles louanges, par Tes paroles prononcées, et pour (encore) nouvelles paroles prononcées, par Ton Yasna, et pour (encore) d'autres Yasnas (voudrions-nous ainsi les proclamer, et faire de Toi le dispensateur de notre lumière).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

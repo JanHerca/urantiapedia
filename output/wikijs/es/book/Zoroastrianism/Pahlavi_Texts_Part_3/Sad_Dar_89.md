@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El octogésimo noveno tema es este: [^1] Hôrmazd vigila cuando alguien, por imposición ('hîlat) _y_ sin darse cuenta, come materia muerta, _o_ se la da _a_ alguien de buena religión, o la arroja sobre alguien de buena religión. 2. Mientras su voluntad y orden sean, _que_ es necesario que _tal persona_ se someta a la _ceremonia_ de Bareshnûm_ [^2], y se arrepienta [^3] ante los jefes espirituales y sumos sacerdotes. 3. Para que, después de eso, _uno pueda_ indicarle el pecado en estas _acciones, y_ él pueda _ejecutar_ la retribución que menciona el sumo sacerdote, para que, debido a esto, su pecado _pueda_ desaparecer.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

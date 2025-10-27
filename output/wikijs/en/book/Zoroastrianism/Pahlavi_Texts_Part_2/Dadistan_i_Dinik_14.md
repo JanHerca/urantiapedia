@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. The punishment for a soul of the sinners comes from that spirit [^6] with _whom_ the sin, which was committed by it, is connected; fostered by the iniquity practised, that punishment comes upon the souls of the sinful and wicked, first on earth, afterwards in hell, _and_ lastly at the organisation of the <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> future existence [^7]. 7. When the punishment of the three _nights_ is undergone [^8] the soul of the righteous attains to heaven _and_ the best existence, _and_ the soul of the wicked to hell and the worst existence. 8. When they have undergone their punishment at the renovation _of the universe_ they attain, by complete purification from every sin, unto the everlasting progress, happy progress, _and_ perfect progress of the best _and_ undisturbed existence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

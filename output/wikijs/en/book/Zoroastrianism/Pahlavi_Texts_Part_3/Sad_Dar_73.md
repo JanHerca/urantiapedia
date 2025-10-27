@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. And if a domestic fowl _has_ eaten dead matter, its flesh and eggs are, _in_ like manner, not clean _for_ one year.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

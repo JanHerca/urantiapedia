@@ -56,6 +56,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 32\. ‘And this, too, is declared, that, _as to_ him who is an ignorant and bad-tempered man, when he attains even to much eminence, opulence, and authority, even then he is not fit to elevate into that welfare and authority.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

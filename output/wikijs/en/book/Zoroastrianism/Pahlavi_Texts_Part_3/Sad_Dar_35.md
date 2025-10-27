@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The thirty-fifth subject is this, that, when they wish to wash the face [^1], they _should_ recite ore Ashem-vohû [^2], _and_ set the mouth firmly closed, so that the water, not staying _away_ from it [^3], _shall_ not go into the mouth. 2. _And_, as _one_ washes over the face, they _should_ recite the K<i>e</i>m-nâ-mazdâ [^4], so that the fiend Nasru<i>s</i>t [^5] _may_ become smitten.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

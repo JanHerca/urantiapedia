@@ -80,7 +80,7 @@ Por su esplendor y su gloria, por su poderío . . . .
 
 ## VI.
 
-13\. Adoramos a Sraosha (Obediencia), el bendito, quien es el más fuerte y perseverante de los jóvenes, el más enérgico y el más veloz, quien de todos los jóvenes causa más terror [^1249] desde lejos (?). \[^1250].\]
+13\. Adoramos a Sraosha (Obediencia), el bendito, quien es el más fuerte y perseverante de los jóvenes, el más enérgico y el más veloz, quien de todos los jóvenes causa más terror [^1249] desde lejos (?). [^1250]
 
 14\. Lejos de esta casa, de esta aldea, de esta tribu y de este país, los terrores malignos y destructivos se alejarán. En la morada de aquel hombre en cuya morada la obediencia, el bienaventurado que vence, se satisface y se acoge, se encuentra ese hombre santo que así lo satisface al máximo en la concepción de mejores pensamientos, en la expresión de palabras veraces (rituales) y en la realización de obras santas [^1251].
 
@@ -141,6 +141,8 @@ Sí, adoramos (todos los dones marciales) de Sraosha (Obediencia) el poderoso, a
 Por su esplendor y su gloria, por su poder, que golpea con victoria, lo adoraré con el Yasna de los Yazads, con un Yasna entonado a viva voz, a él, la Obediencia, la bendita, con las aguas consagradas, y la buena Bendición, la elevada, y Nairya-sangha, la majestuosa, y que él venga a nosotros para ayudarnos, él, que golpea con victoria, ¡la Obediencia, la bendita!
 
 
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

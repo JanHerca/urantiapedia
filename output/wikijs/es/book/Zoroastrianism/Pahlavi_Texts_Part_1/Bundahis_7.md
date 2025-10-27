@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 14\. Después, el viento, de la misma manera _que antes_, contuvo el agua, al cabo de tres días, en varios lados de la tierra; y de allí surgieron los tres grandes mares _y_ veintitrés mares pequeños [^14], _y_ así se manifestaron dos fuentes (<i>k</i>ashmak) del mar: una, el lago <i>K</i>ê<i>k</i>ast, y otra, el Sôvbar [^15], cuyas fuentes están conectadas con la <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> fuente del mar. 15. Y en su lado norte [^16] fluían dos ríos, _y_ uno iba al este _y_ otro al oeste; son el río Arag y el río Vêh; Como se dice así: «¡A través de esos pequeños chorros viertes y extraes dos aguas como estas, oh Aûharmazd!». 16. Ambos ríos serpentean por todos los extremos de la tierra y se entremezclan de nuevo con el agua del vasto océano. 17. Al fluir esos dos ríos, y del mismo lugar de origen que los suyos, fluyeron dieciocho [^17] ríos navegables, y después de que las demás aguas fluyeran de esos arroyos navegables, todas fluyen de vuelta al río Arag [^18] y al río Vêh, cuya fertilización (khvâpardârîh) del mundo surge de ellos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

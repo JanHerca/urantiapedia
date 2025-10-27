@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:41:36Z
 3\. _De_ igual manera, no es apropiado tragar agua por la noche, porque es un pecado. 4. _Pero_, si surge una necesidad, es necesario tener lista una luz, y _uno_ primero come algunos bocados de comida (<i>t</i>a'hâm) para que el pecado sea menor.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

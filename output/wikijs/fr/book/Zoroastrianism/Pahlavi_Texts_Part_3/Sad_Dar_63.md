@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 11\. Et _on_ appelle ce péché un péché _affectant_ les antagonistes [^6], _et_, tant que l'antagoniste n'est pas satisfait, le péché continue [^7], _et_ ils retiennent son âme à la tête du pont <i>K</i>inva<i>d</i>, jusqu'au moment où son antagoniste arrivera et accomplira lui-même _son_ antagonisme, et ils lui donneront une réponse [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

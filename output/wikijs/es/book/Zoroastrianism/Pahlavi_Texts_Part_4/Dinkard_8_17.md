@@ -49,6 +49,8 @@ _Nikadum Nask_.
 
 A. _Sobre_ el homicidio cometido por niños de siete _o_ incluso de ocho años sin instrucción en presencia de sus padres; _y_ la criminalidad de los padres en este caso, cuando les es posible impedirlo y no lo impiden, y cuando no les es posible impedirlo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

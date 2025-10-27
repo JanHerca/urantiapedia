@@ -35,7 +35,6 @@ dateCreated: 2025-10-6T9:44:6Z
 <span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i>
-========================
 
 THROUGH the name and power and assistance of the creator Aûha<i>r</i>ma<i>z</i><i>d</i>, the archangels _who are_ good rulers and good performers, and all the angels of the spiritual and the angels of the worldly _existences_, by a happy dispensation (dahi<i>s</i>n) and well-omened we write the Opinions of the Spirit of Wisdom through the will of the sacred beings [^1].
 
@@ -54,6 +53,8 @@ THROUGH the name and power and assistance of the creator Aûha<i>r</i>ma<i>z</i>
 51\. And when, in that manner, he saw the great advantage and preciousness of wisdom, he became more thankful unto Aûha<i>r</i>ma<i>z</i><i>d</i>, the lord, and the archangels of [^29] the spirit of wisdom; (52) and he took [^30] the spirit of wisdom as a protection. 53. For the spirit of wisdom _one_ is to perform more homage and service than _for_ the remaining archangels. 54. And this, too, he knew, that it is possible to do for oneself every duty and good work and proper action through the power of wisdom; (55) and it is necessary to be diligent for the satisfaction of the spirit of wisdom. 56. And, thenceforward, he became more diligent in performing [^31] the ceremonial of the spirit of wisdom.
 
 57\. After that the spirit of wisdom, on account of the thoughts and wishes of that sage, displayed _his_ person unto him. 58. And he spoke to him (59) thus: ‘O friend _and_ glorifier! good from perfect righteousness! (60) seek advancement from me, the spirit of wisdom, (61) that I may become thy guide to the satisfaction of the sacred beings and <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> the good [^32], and _to_ the maintenance of the body in the worldly _existence_ and the preservation of the soul in the spiritual _one_.’
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

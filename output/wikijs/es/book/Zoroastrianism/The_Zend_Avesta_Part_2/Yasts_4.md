@@ -88,6 +88,8 @@ Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyén
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -114,50 +116,50 @@ Ahura Mazda respondió: 'Es cuando un hombre pronuncia mi hechizo, ya sea leyén
 
 ## Notas al pie
 
-[^262]: Venta 48:4. XXII, 20\[54\]
+[^249]: Venta 48:4. XXII, 20\[54\]
 
-[^263]: 48:5 Como arriba, [p. 22](../Yasts_1#p22) y notas.
+[^250]: 48:5 Como arriba, [p. 22](../Yasts_1#p22) y notas.
 
-[^264]: 49:1 Siroza I, 6.
+[^251]: 49:1 Siroza I, 6.
 
-[^265]: 49:2 Siroza II, 6.
+[^252]: 49:2 Siroza II, 6.
 
-[^269]: 49:3 Nombres de los Daêvas. Según el traductor parsi del Dînkart (vol. ii, pág. 65), Ha<i>s</i>i es «el que inspira escepticismo»; Ba<i>s</i>i es «el que provoca la enfermedad de la corteza»; Saêni es «el que causa daño»; Bû<i>g</i>i es «el que se aprovecha de».
+[^253]: 49:3 Nombres de los Daêvas. Según el traductor parsi del Dînkart (vol. ii, pág. 65), Ha<i>s</i>i es «el que inspira escepticismo»; Ba<i>s</i>i es «el que provoca la enfermedad de la corteza»; Saêni es «el que causa daño»; Bû<i>g</i>i es «el que se aprovecha de».
 
-[^270]: 49:4 La traducción de este párrafo es bastante conjetural.
+[^254]: 49:4 La traducción de este párrafo es bastante conjetural.
 
-[^271]: 50:1 Si yo soy uno de los fieles.
+[^255]: 50:1 Si yo soy uno de los fieles.
 
-[^272]: 50:2 El genio de la verdad, Yt. XII.
+[^256]: 50:2 El genio de la verdad, Yt. XII.
 
-[^273]: 50:3 Me liberarás como a uno de los fieles.
+[^257]: 50:3 Me liberarás como a uno de los fieles.
 
-[^274]: 50:4 Sic; cf. § 2.
+[^258]: 50:4 Sic; cf. § 2.
 
-[^275]: 50:5 Starâi; cf. Études Iraniennes, II, 135.
+[^259]: 50:5 Starâi; cf. Études Iraniennes, II, 135.
 
-[^276]: 50:6 ¿Cómo se distingue al malo del fiel?
+[^260]: 50:6 ¿Cómo se distingue al malo del fiel?
 
-[^277]: 50:7 Marao: Phl. ô<i>s</i>môrît, sánsk. adhyeti; safarûnît, poshayati (pustakayati? Yasna XIX, 6 \[9\]).
+[^261]: 50:7 Marao: Phl. ô<i>s</i>môrît, sánsk. adhyeti; safarûnît, poshayati (pustakayati? Yasna XIX, 6 \[9\]).
 
-[^278]: 50:8 Los surcos para la purificación de Bareshnûm (Vend. IX).
+[^262]: 50:8 Los surcos para la purificación de Bareshnûm (Vend. IX).
 
-[^279]: 50:9 Dudoso: gaozaiti; léase yaozdâiti (? él limpia).
+[^263]: 50:9 Dudoso: gaozaiti; léase yaozdâiti (? él limpia).
 
-[^282]: 51:1 Para realizar el Bareshnûm; cf. Vend. XXII, 20 \[54\].
+[^264]: 51:1 Para realizar el Bareshnûm; cf. Vend. XXII, 20 \[54\].
 
-[^283]: 51:2 Lectura nasûm kereta; cf. nasu-kereta (Vend. VII, 26 \[67\]).
+[^265]: 51:2 Lectura nasûm kereta; cf. nasu-kereta (Vend. VII, 26 \[67\]).
 
-[^284]: 51:3 Véase arriba, [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120).
+[^266]: 51:3 Véase arriba, [p. 26](../Yasts_1#p26), nota [2](../Yasts_1#fn120).
 
-[^285]: 51:4 Saoká; cf. Yt. XXII, 13.
+[^267]: 51:4 Saoká; cf. Yt. XXII, 13.
 
-[^286]: 51:5 Du<i>z</i>avâ<i>t</i>: tanto la lectura como el significado son dudosos. El Sr. West sugiere que «envía al infierno» (que se lee du<i>z</i>anghvâ<i>t</i> o du<i>z</i>angha<i>t</i>).
+[^268]: 51:5 Du<i>z</i>avâ<i>t</i>: tanto la lectura como el significado son dudosos. El Sr. West sugiere que «envía al infierno» (que se lee du<i>z</i>anghvâ<i>t</i> o du<i>z</i>angha<i>t</i>).
 
-[^287]: 51:6 Dudoso.
+[^269]: 51:6 Dudoso.
 
-[^288]: 51:7 Leyendo ashava en lugar de asô ava.
+[^270]: 51:7 Leyendo ashava en lugar de asô ava.
 
-[^289]: 51:8 Cf. Yt. XIV, 46.
+[^271]: 51:8 Cf. Yt. XIV, 46.
 
-[^290]: 52:1 ¿Quién habrá sacrificado a Haurvatâ<i>t</i>?
+[^272]: 52:1 ¿Quién habrá sacrificado a Haurvatâ<i>t</i>?

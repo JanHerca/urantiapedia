@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 7\. Y, durante largo rato, se miraron fijamente el uno al otro; pero la naturaleza divina de Zaratû<i>s</i>t vence la brujería de aquel mago, y Dûrêsrôbô se perturba aún más; también pide su caballo y dice: «Por culpa de este muchacho, me es imposible quedarme». <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> 8\. Se montó en el caballo, y tras recorrer un corto trecho, se cayó del caballo, presa de una gran angustia, y murió; y los hijos de los hijos de sus hijos han muerto en el mismo lugar [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

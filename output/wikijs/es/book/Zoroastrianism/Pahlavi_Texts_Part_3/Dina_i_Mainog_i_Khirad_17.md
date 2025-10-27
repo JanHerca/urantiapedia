@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Quienquiera que haya adquirido riqueza mediante el crimen, y se alegre de ello [^1], entonces ese placer es peor para él que la infelicidad».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

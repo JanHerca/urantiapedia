@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 5\. Quand le jour est à son maximum (pavan afzûnŏ), _et_ que le soleil arrive à la tête [^11] du Cancer, _et que_ l'ombre de quelqu'un devient six pieds et deux parties [^12], il en fait la période Aûzêrîn (gâs). <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> 6. Tous les trente jours, elle augmente toujours d'un pied et un tiers, donc environ tous les dix jours le calcul est toujours d'un demi-pied [^13], _et quand_ le soleil est à la tête du Lion l'ombre est de sept [^14] pieds et demi. 7. Dans cette série, chaque constellation _zodiacale_ est _traitée_ de la même manière, et les mois de la même manière, jusqu'à ce que le soleil arrive à la tête du Capricorne, _et_ que l'ombre devienne quatorze pieds et deux parties. 8. Dans le Capricorne, elle diminue encore d'un pied _et_ un tiers [^15] ; et de là où elle revient en arrière, à cause de la diminution de la nuit et de l'augmentation du jour, elle diminue toujours d'un pied _et_ un tiers chacun des mois, _et_ environ tous les dix jours le calcul est toujours d'un demi-pied, jusqu'à ce qu'elle revienne à six pieds et deux parties ; chaque constellation du _zodiaque_ étant _traitée_ de la même manière, et les mois de la même manière [^16].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

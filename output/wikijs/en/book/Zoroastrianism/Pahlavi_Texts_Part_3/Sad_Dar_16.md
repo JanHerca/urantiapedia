@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. During forty days it is not proper that they _should_ leave the child alone; and it is also not proper that the mother of the infant _should_ put _her_ foot over a threshold in the dwelling, or cast _her_ eyes upon a hill, _for_ it [^2] is bad _for_ her menstruation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

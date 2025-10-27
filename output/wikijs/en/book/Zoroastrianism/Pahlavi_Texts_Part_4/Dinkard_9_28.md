@@ -46,6 +46,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 9\. Righteousness is excellence _that is_ perfect.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 31\. Comme il y avait dix variétés d'hommes [^28], _et_ quinze races de Fravâk, il y avait vingt-cinq races, toutes issues de la semence de Gâyômar<i>d</i> ; _ces variétés sont telles_ que _celles_ de la terre, de l'eau, celles à oreilles de poitrine, celles à yeux de poitrine, celles unijambistes, celles aussi qui ont des ailes comme une chauve-souris, _celles_ de la forêt, avec des queues, _et_ qui ont des poils sur le corps [^29].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

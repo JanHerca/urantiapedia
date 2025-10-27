@@ -66,6 +66,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 38\. And this which is recounted is a statement that is execrated (nafrîg-aîtŏ) by many, details from the Avesta as to occurrences _that will_ arise after Vi<i>s</i>tâsp until the dispersion (ang<i>â</i><i>v</i>i<i>s</i>nŏ) of the sovereignty of Irân from the country of Irân; _it is also_ declared that this which is written happened _to_ the knowledge of those of the world. 39. This, too, is about the evidence of the above:—‘And if this which is declared from the Avesta, as to _what_ happens after Kaî-Vi<i>s</i>tâsp until the end of the sovereignty of Irân, should not have happened, and _it being_ the pre-eminence of the Avesta which really became this present treasure, it thereby ensues, owing to its position in that _former_ [^28], and the manifest absence of the destruction of those rulers _and_ high-priests from Vi<i>s</i>tâsp onwards in this _latter_ [^29], that it could not be connected with us [^30].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

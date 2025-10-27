@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 12\. You _should_ understand that of the same kind is the similitude of the three teachings, of which you _have_ written, with this similitude which I _have_ portrayed [^19] _and_ ordered to form _and_ scheme, so that you _may_ look at it more clearly, from a proper regard for your own deliverance [^20], _for_ the sharp <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> intellectuality of the re-explainers of _what is_ not well-considered _in connection_ with _its_ purpose (âhankŏ), _and for_ the accumulation _of opinions_ that is steadfast in the law of the ancients _and_ orders _you_ to heed _it_. 13. For, owing to the miraculousness and pre-eminence of that [^21], he who thinks to restore the good ideas of the ancients does not himself understand the knowledge in that wisdom of the ancients, _and_ does not keep his own presumption (mînîh) lowly and teachable; much, too, which is through his own learning is declared _to be_ out of it (the law), _and_ how he orders _us_ to understand _it_ is _by_ his own opinion [^22].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

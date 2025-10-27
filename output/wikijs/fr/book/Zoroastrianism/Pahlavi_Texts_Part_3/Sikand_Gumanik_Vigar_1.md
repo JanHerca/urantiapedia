@@ -63,6 +63,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 54\. De plus, c'est un rappel du bien pour la préservation de l'âme ; (55) et pour la même raison, j'ai fait en sorte que, tandis que les sages m'observent avec bienveillance, par leur propre compassion, ils se souviennent de l'immortalité de l'âme. 56. Puisqu'il est dit que l'œil de celui qui observe toutes les bonnes créatures avec des yeux bienveillants est l'œil du soleil ; (57) car le soleil est, en effet, un observateur et un embellisseur avec des yeux bienveillants pour toutes les créatures.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

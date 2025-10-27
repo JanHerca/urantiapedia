@@ -45,6 +45,8 @@ The Orient Press,
 &nbsp;&nbsp;&nbsp;&nbsp;4, Harcourt Buildings,
 &nbsp;&nbsp;&nbsp;&nbsp;Inner Temple, London.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

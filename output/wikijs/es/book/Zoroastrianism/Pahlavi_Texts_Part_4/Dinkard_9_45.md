@@ -49,6 +49,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 11\. Es la excelencia perfecta, es decir, la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

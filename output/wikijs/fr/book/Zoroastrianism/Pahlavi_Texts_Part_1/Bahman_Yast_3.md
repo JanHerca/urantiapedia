@@ -99,6 +99,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 63\. Que la fin soit dans la paix, le plaisir et la joie, par la volonté de Dieu (yazdânŏ) ! Qu'il en soit ainsi ! Qu'il en soit encore plus ainsi !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

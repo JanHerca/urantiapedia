@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 10\. « Et la sphère _céleste_ est d'autant plus forte. 11. L'intellect [^6] de l'humanité est plus rapide. 12. Les âmes des justes sont plus heureuses. 13. _Et_ celles des méchants sont plus pénitentes [^7]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

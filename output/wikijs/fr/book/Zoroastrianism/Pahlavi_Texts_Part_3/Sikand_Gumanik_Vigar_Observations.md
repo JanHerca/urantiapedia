@@ -67,6 +67,8 @@ PB3 (plus d'un siècle) Pâz.-Sans., n° 3 du fonds Burnouf de la Bibliothèque 
 
 R (moderne) Pahl.-Pâz.-Sans.-Pers., ayant appartenu à M. Romer, et actuellement conservé en partie à la bibliothèque de l'India Office à Londres, et en partie au n° 10 de la collection Müller à la Bibliothèque d'État de Munich. Il contient les chapitres I, 25 à V, 57.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

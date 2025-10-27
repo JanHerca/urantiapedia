@@ -48,6 +48,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 9\. (Sí,) presentamos esto por la presente a los Generosos Inmortales que gobiernan correctamente y disponen de todo <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> correctamente, los siempre vivos, siempre serviciales, que permanecen con la Buena Mente (del Señor y de Su pueblo [^1161]).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Et le Créateur tout-puissant répond, et désigne un enseignant [^13] pour frapper le démon, pour la satisfaction des justes et pour la protection des bonnes créatures. 5. Comme il est dit, qu'à chaque époque se manifeste un grand prêtre de la religion et sa gestion des créatures, en qui, à cette époque, la protection des créatures et la volonté des êtres sacrés progressent.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

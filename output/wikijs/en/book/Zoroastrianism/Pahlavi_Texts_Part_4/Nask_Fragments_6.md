@@ -36,6 +36,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 Dk. VIII, Chap. VII, 4, or 5, probably refers to the passage which contained the statement thus quoted in Sls. IX, 9, 10:—‘In a passage of the fifth fargar<i>d</i> of the Pâ<i>g</i>ôn it is declared that _one_ mentions these characteristics of four kinds of worship of the sacred beings:—one is that whose Avesta is correct, _but_ the man is bad; the second is that whose Avesta is faulty, _but_ the man is good; the third is that whose Avesta is correct, _and_ the man is good; _and_ the fourth is that whose Avesta is faulty, _and_ the man is bad. _That_ whose Avesta is correct, _but_ the man bad, the archangels will approach and will listen to, <span id="p467"><sup><small>[ p. 467 ]</small></sup></span> _but_ do not accept; _that_ whose Avesta is faulty, _but_ the man good, the archangels _and_ sacred being will approach, _but_ do not listen to, _and_ will accept; _that_ whose Avesta is correct, _and_ the man good, the archangels _and_ sacred being will approach, will come to, will listen to, and will accept; _and that_ whose Avesta is faulty, _and_ the man bad, they do not approach, do not listen to, and do not accept.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

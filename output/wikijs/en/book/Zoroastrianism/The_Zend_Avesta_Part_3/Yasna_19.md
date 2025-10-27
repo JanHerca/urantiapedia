@@ -74,6 +74,8 @@ CATECHETICAL ZAND [^1122].
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

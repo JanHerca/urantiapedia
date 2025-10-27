@@ -42,6 +42,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 6\. Nous louons le flux et le reflux des bonnes eaux, et leur rugissement, et ce haut Ahura, le royal Apãm-napâ<i>t</i>, l'étincelant, des chevaux rapides ; et ceci pour le sacrifice, et l'hommage, et la propitiation, et la louange de toute la sainte création ; et puisse Sraosha (Obéissance) être ici (pour nous aider). 7. (Oui), nous sacrifions à Sraosha, Obéissance la bénie [^1364].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

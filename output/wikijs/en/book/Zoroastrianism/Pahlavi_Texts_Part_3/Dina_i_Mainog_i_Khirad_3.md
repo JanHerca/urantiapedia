@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. The spirit of wisdom answered (6) thus: ‘As to the soul _it is_ liberality, as to all the world _it is_ truth, (7) unto the sacred beings _it is_ gratitude, as to a man's self [^4] _it is_ wisdom, (8) as to all business _it is_ complete mindfulness, and as to the comfort of the body and the vanquishing of Aharman and the demons contentment is good.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

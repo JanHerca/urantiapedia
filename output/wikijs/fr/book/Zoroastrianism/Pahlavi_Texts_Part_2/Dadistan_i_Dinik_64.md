@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. La terre où la vie de Gâyômar<i>d</i> s'est éteinte est d'or, _et_ de l'autre terre, où la dissolution de _ses_ divers membres s'est produite, comme on dit, de nombreuses sortes de métaux décoratifs ont coulé [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

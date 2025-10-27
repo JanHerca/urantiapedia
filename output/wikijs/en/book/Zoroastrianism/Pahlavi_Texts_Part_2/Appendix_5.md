@@ -60,6 +60,8 @@ Pahl. Vend. VIII, 271. ‘O creator! how are those men purified, O righteous Aû
 
 <i>b</i>. When thus thoroughly washed by him_self_, his duty even then is the work frakairi frakerenao<i>d</i>, vâstrê verezyôi<i>d</i> (‘he should accomplish with perseverance, he should cultivate in the pastures [^13]); there are _some_ who would say thus: ’He is always for the performance of work, and abstinence from the ceremonies of others is for him [^14].\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

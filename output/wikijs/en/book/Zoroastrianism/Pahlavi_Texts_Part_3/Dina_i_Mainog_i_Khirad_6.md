@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘That land is the more afflicted, in which hell is formed [^2]. 5. The second, when they slay in it a righteous man who is innocent. 6. The third, for whose sake [^3] <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> the demons and fiends work. 7. The fourth, in which they construct an idol-temple. 8. The fifth, when a wicked man, who is an evil-doer, makes an abode in it. 9. The sixth, when the interment of a corpse is performed below [^4]. 10. The seventh, in which a noxious creature has a burrow. 11. The eighth, when from the possession of the good it comes into the possession of the bad. 12. The ninth, when they make desolate that which was populous. 13. _And_ the tenth, in which they make lamentation and weeping [^5].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

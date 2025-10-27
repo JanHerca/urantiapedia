@@ -48,6 +48,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 15\. It is perfect excellence _that_ is righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

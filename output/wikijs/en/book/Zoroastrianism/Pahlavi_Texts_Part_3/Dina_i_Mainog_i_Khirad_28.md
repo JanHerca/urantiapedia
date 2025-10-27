@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 10\. ‘And the _celestial_ sphere is the more in strength. 11. The intellect [^6] of mankind is the swifter. 12. The souls of the righteous are the happier. 13. _And_ those of the wicked are the more penitent [^7].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

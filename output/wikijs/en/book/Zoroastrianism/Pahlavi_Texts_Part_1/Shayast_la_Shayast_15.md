@@ -64,6 +64,8 @@ PART III.—_Appendix_ [^1].
 
 31\. Completed in peace, pleasure, _and_ joy [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

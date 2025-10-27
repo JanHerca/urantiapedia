@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 9\. And in this way, in the world, the comfort and pleasure of the vile are more, and the anxiety, vexation, despondency, and distress of the good _have_ become more; the reason is revealed by the stars [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

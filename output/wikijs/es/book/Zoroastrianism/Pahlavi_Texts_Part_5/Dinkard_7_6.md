@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 13\. Tanto esplendor y maravilla de Vi<i>s</i>tâsp _y_ de los del reino con respecto a Zaratû<i>s</i>t [^12], y tanto debido a la venida de los arcángeles del cielo a la tierra antes de Vi<i>s</i>tâsp, como evidencia acerca de la verdadera profecía de Zaratû<i>s</i>t [^13]; y eso también, acerca de Pêshyôtan [^14], el carro de Srîtô [^15], y otros temas vistos escritos arriba, _son_ declarados por el Avesta, que es el mismo que aceptaron de Zaratû<i>s</i>t, como la culminación [^16] (<i>a</i><i>v</i>arîgânîh) de las palabras de Aûha<i>r</i>ma<i>z</i><i>d</i>. 14. Y si este esplendor, gloria y maravilla que están escritos arriba en relación con lo que vieron aquellos eruditos del reino—que están en el relato revelado por el Avesta—no hubieran ocurrido, el rey Vi<i>s</i>tâsp y aquellos eruditos del reino no habrían visto lo que este Avesta les había revelado—que era tanto esplendor y maravilla que les informó—y no se añadiría ni una sola palabra sobre dejarnos su conservación.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -51,6 +51,8 @@ Aunque Mânû<i>s</i><i>k</i>îhar no menciona, en sus escritos, ninguno de los 
 
 La presente traducción de esta obra no es la primera que se ha intentado. Poco antes de que el difunto profesor Haug abandonara la India, impartió una conferencia sobre la religión parsi ante una gran asamblea de parsis en Bombay. A petición suya, y por deseo suyo, se ofreció la suma de 900 rupias, provenientes de las ganancias netas de la venta de las entradas, como premio para una edición del texto pahlavi del Dâ<i>d</i>istân-î Dînîk con una traducción y un glosario en gu<i>g</i>arati. Años después, este premio fue otorgado al Sr. Shehriarji Dadabhoy y al Sr. Tehmuras Dinshawji Anklesaria por su traducción conjunta al gu<i>g</i>arati de la obra, que, sin embargo, aún permanece inédita. <span id="pxxv"><sup><small>[p. xxv ​​]</small></sup></span> por falta de fondos, y por lo tanto, ha sido inaccesible para el presente traductor.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

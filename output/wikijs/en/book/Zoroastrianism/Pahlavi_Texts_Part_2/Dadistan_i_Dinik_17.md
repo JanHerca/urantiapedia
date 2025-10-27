@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 20\. From that fat which is mingled with the living body of a creature of Aûha<i>r</i>ma<i>z</i><i>d</i> then _arises_ also the assault [^14] of the demons, as is shown in the chapter [^15] on the reason for showing a dog to a dead _person_, so that the body of those passed _away_, when the gnawers away are mingled with the living body of a creature of Aûha<i>r</i>ma<i>z</i><i>d</i>, exhibits a partial resurrection and the tokens _of it_, and thereby the demons keep in it (the living body), and give pain [^16] by the will of the sacred beings.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

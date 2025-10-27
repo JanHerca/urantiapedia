@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 16\. And _as to_ that, also, _which_ is written concerning the three hundred pebbles [^20] that, sprinkled <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> in _ceremonial_ ablution (pâ<i>d</i>yâ<i>v</i>ŏ), are cast into (va<i>l</i>) the bull's urine and water, that is taught even _in_ the same manner; the _inward_ prayer (vâ<i>g</i>ŏ) [^21], even for when _one_ does not cast _them_, is in the existing teaching, which is proper. 17. Then, too, on account of the cheapness [^22] and harmlessness of the pebbles the purifiers are less curtailing as to them, _and_ to drink the thing so is well-curative in performance. 18. In the existing teaching of imperfect purifiers it should be very advantageous to maintain it as easy; moreover, it is not said of it _that it_ is not suitable, and in the teaching of Afarg it is said that it is proper.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

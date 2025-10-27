@@ -53,6 +53,8 @@ _Bakŏ Nask_.
 
 17\. La justice est une excellence _c'est-à-dire_ parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

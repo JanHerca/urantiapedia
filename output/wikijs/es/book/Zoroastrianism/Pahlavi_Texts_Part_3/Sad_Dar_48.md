@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El cuadragésimo octavo punto es que, al hervir una olla, es necesario reducir el agua a dos partes de un tercio _cada_ una, para que un tercio de la olla quede vacía; de modo que, si _en algún momento_ la olla hierve, el agua no suba a la superficie [^2]. 2. Porque si no se procede así, y el agua [^3], por no detenerse, cae al fuego [^4], es un pecado de mil doscientos dirhams [^5]; por lo tanto, es necesario vigilar que este pecado no se presente.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

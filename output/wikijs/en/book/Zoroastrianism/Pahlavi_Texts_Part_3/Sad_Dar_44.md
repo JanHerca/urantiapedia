@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The forty-fourth subject is this, that it is not desirable _for_ those of the good religion, so far as they are able to manage _it_, to put a bare foot upon the ground [^1], because it is a sin, _and_ injury [^2] occurs to Spendârma<i>d</i> [^3], the archangel. 2. And they call that the sin of running _about_ uncovered.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

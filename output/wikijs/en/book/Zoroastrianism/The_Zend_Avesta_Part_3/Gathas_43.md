@@ -114,6 +114,8 @@ II. Yea, I conceived of Thee as bountiful, O Ahura Mazda! when (Thy messenger) w
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

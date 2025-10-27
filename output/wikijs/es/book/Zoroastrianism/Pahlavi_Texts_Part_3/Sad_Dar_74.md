@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Antes del momento en que uno se echa algo en las manos, no es apropiado lavarse las manos y la cara, y es un pecado de Tanâvar; tampoco es posible trabajar en nada con las manos y la cara sin lavar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

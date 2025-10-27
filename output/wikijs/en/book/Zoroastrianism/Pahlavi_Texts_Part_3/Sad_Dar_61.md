@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. In revelation it says that _there_ is no hereafter (â‘<i>h</i>irat) for the speakers of falsehood, and in the midst of mankind they are contemptible (‘haqîr). 5. If _such_ a man be powerful (mu‘hta<i>s</i>im), _and there_ be no avoiding (‘haDHar) him in the vicinity <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> of mankind, they do not have any respect _for him_, and he is clearly (farʓ̣âm) an evil liar. 6. Although he possesses much wealth, it will all depart from his hands, and, finally (’hâqibat), begging of mankind occurs to him, and his progeny also becomes scanty [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

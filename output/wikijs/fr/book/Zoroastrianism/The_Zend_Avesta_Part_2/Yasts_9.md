@@ -58,7 +58,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
-## JE.
+## I.
 
 1\. Nous sacrifions au puissant Drvâspa, créé par Mazda et saint, qui garde les troupeaux en bonne santé, les bœufs en bonne santé, les adultes [^530] (bétail) en bonne santé, les jeunes en bonne santé ; qui veille bien de loin, avec une amitié bienfaisante, répandue et de longue date ;
 
@@ -172,6 +172,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 \[Donnez\] à cet homme la luminosité et la gloire, donnez-lui la santé du corps, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -198,56 +200,56 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^550]: 110:1 Siroza I, 14.
+[^529] : 110:1 Sîrôzah I, 14.
 
-[^551]: 111:1 Douteux ; peut-être « l'ami en bonne santé, l'enfant en bonne santé ».
+[^530]: 111:1 Douteux ; peut-être « l'ami en bonne santé, l'enfant en bonne santé ».
 
-[^552]: 111:2 Douteux.
+[^531]: 111:2 Douteux.
 
-[^553]: 111:3 Cf. [p. 58](../Yasts_5#p58), note [1](../Yasts_5#fn294).
+[^532]: 111:3 Cf. [p. 58](../Yasts_5#p58), note [1](../Yasts_5#fn294).
 
-[^554]: 111:4 Cf. [59](../Yasts_5#p59), note [2](../Yasts_5#fn298).
+[^533]: 111:4 Cf. [59](../Yasts_5#p59), note [2](../Yasts_5#fn298).
 
-[^555]: 111:5 En enfer.
+[^534]: 111:5 En enfer.
 
-[^556]: 112:1 Comme ci-dessus, [p. 30](../Yasts_1#p30).
+[^535]: 112:1 Comme ci-dessus, [p. 30](../Yasts_1#p30).
 
-[^557]: 112 : 2 § 7 = §§ 1-2.
+[^536]: 112:2 § 7 = §§ 1-2.
 
-[^558]: 112:3 §§ 8-10 = Yt. XVII, 28-30; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-2
+[^537] : 112 : 3 §§ 8-10 = Yt. XVII, 28-30 ; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-27.
 
-[^560]: 113:1 Yt. V, 34; X, 24; XVII, 34.
+[^538]: 113:1 Yt. V, 34; X, 24; XVII, 34.
 
-[^561]: 114:1 §§ 17-19 = Yt. XVII, 37-38.
+[^539]: 114:1 §§ 17-19 = Yt. XVII, 37-38.
 
-[^562]: 114:2 Cf. Yasna XI, 7 \[20-21\]. La destruction des démons, étant l'un des principaux effets du sacrifice, est attribuée à Haoma comme l'élément le plus puissant du sacrifice. Dans le Shâh Nâmah, le dieu Haoma a été transformé en ermite qui, vivant près de la grotte où Afrâsyâb s'était réfugié (voir ci-dessus, Yt. V, 41), entend ses lamentations, le prend par surprise, le lie et le livre aux mains de Khosrav (Études Iraniennes, II, 227).
+[^540]: 114:2 Cf. Yasna XI, 7 \[20-21\]. La destruction des démons, étant l'un des principaux effets du sacrifice, est attribuée à Haoma comme à son élément le plus puissant. Dans le Shâh Nâmah, le dieu Haoma a été transformé en ermite qui, vivant près de la grotte où Afrâsyâb s'était réfugié (voir ci-dessus, Yt. V, 41), surprend ses lamentations, le surprend, le lie et le livre aux mains de Khosrav (Études Iraniennes, II, 227).
 
-[^563]: 114:3 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^541]: 114:3 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^564]: 114:4 Voir ci-dessus, [p. 66](../Yasts_5#p66), note [2](../Yasts_5#fn322).
+[^542]: 114:4 Voir ci-dessus, [p. 66](../Yasts_5#p66), note [2](../Yasts_5#fn322).
 
-[^565]: 114:5 Voir [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
+[^543]: 114:5 Voir [p. 66](../Yasts_5#p66), note [3](../Yasts_5#fn323).
 
-[^566]: 114:6 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
+[^544]: 114:6 Voir [p. 64](../Yasts_5#p64), note [1](../Yasts_5#fn315).
 
-[^567]: 114:7 Douteux (narava, par opposition à nara). Aghraêratha (Aghrêrath) était un frère d'Afrâsyâb ; c'était un homme juste, et Afrâsyâb le tua pour avoir sauvé le roi iranien Mino<i>k</i>ihr avec son armée, alors qu'il était captif dans les montagnes de Padashkhvâr (Bundahi<i>s</i> XXXI, 21). Pourtant, il vit toujours comme un immortel au pays de Saukavastân, sous le nom de Gôpatshâh (le roi des taureaux) ; « des pieds jusqu'au milieu du corps, c'est un taureau, et du milieu du corps jusqu'au sommet, c'est un homme ; « Il reste toujours au bord de la mer, et accomplit toujours le culte de Dieu, et verse toujours de l'eau bénite dans la mer » (Minokhired LXII, 31 seq., tr. Ouest ; Bund. XXIX, 5) ; selon Bund. XXXI, 20, Aghrêrath n'était pas Gôpatshâh, il était son père. Cf. Yt. XIX, 93.
+[^545]: 114:7 Douteux (narava, par opposition à nara). Aghraêratha (Aghrêrath) était un frère d'Afrâsyâb ; c'était un homme juste, et Afrâsyâb le tua pour avoir sauvé le roi iranien Mino<i>k</i>ihr avec son armée, alors qu'il était captif dans les monts Padashkhvâr (Bundahi<i>s</i> XXXI, 21). Pourtant, il vit toujours comme un immortel au pays de Saukavastân, sous le nom de Gôpatshâh (le roi des taureaux) ; « des pieds jusqu'au milieu du corps, c'est un taureau, et du milieu du corps jusqu'au sommet, c'est un homme ; « Il reste toujours au bord de la mer, et accomplit toujours le culte de Dieu, et verse toujours de l'eau bénite dans la mer » (Minokhired LXII, 31 seq., tr. Ouest ; Bund. XXIX, 5) ; selon Bund. XXXI, 20, Aghrêrath n'était pas Gôpatshâh, il était son père. Cf. Yt. XIX, 93.
 
-[^568]: 115:1 §§ 21-22 = Yt. XVII, 41-42.
+[^546]: 115:1 §§ 21-22 = Yt. XVII, 41-42.
 
-[^569]: 115:2 Voir [p. 114](#p114), note [^545].
+[^547]: 115:2 Voir [p. 114](#p114), note 545.
 
-[^570]: 116:1 §§ 25-26 = XVII, 44-45; cf. Yt. V, 104.
+[^548]: 116:1 §§ 25-26 = XVII, 44-45; cf. Yt. V, 104.
 
-[^571]: 116:2 Hutaosa était l'épouse du roi Vî<i>s</i>tâspa ; cf. Yt. XV, 37.
+[^549]: 116:2 Hutaosa était l'épouse du roi Vî<i>s</i>tâspa ; cf. Yt. XV, 37.
 
-[^572]: 117:1 §§ 29-31-Yt. XVII, 49-51.
+[^550]: 117:1 §§ 29-31-Yt. XVII, 49-51.
 
-[^573]: 117:2 ? <i>G</i>ainyâvara<i>t</i>.
+[^551]: 117:2 ? <i>G</i>ainyâvara<i>t</i>.
 
-[^574]: 117:3 Voir ci-dessus, [p. 79](../Yasts_5#p79), note [4](../Yasts_5#fn392).
+[^552]: 117:3 Voir ci-dessus, [p. 79](../Yasts_5#p79), note [4](../Yasts_5#fn392).
 
-[^577]: 117:4 Une fois appelé.
+[^553] : 117 :4 Ἅπαξ λεγόμενος.
 
-[^576]: 117:5 Mentionné Yt. V, 109 et XIX, 87.
+[^554]: 117:5 Mentionné Yt. V, 109 et XIX, 87.
 
-[^578]: 117:6 Les <i>H</i><i>v</i>yaonas semblent avoir été les Chionites, une tribu belliqueuse, proche du pays de Gilan, souvent en guerre avec les premiers Sassanides (Amm. Marcellinus XVII, 5). Le nom des Varedhakas rappelle celui des Vertae qui sont mentionnés une fois en compagnie des Chionites (ibid. XIX, 1) ; mais leur situation géographique n'est pas établie. En tout cas, la proximité des Dâitya (§ 29) montre que les deux peuples ont dû habiter la côte occidentale de la mer Caspienne.
+[^555]: 117:6 Les <i>H</i><i>v</i>yaonas semblent avoir été les Chionites, une tribu belliqueuse, proche du pays de Gilan, souvent en guerre avec les premiers Sassanides (Amm. Marcellinus XVII, 5). Le nom des Varedhakas rappelle celui des Vertae, mentionnés une fois en compagnie des Chionites (ibid. XIX, 1) ; mais leur situation géographique n'est pas établie. En tout cas, la proximité des Dâitya (§ 29) montre que les deux peuples ont dû habiter la côte occidentale de la mer Caspienne.

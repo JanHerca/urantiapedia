@@ -157,6 +157,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 374\. En ce qui concerne ces énoncés que nous avons énumérés, (375) l'une de ces deux opinions doit se présenter : (376) soit qu'ils sont tous vrais, soit qu'ils sont tous faux ; (377) soit qu'il y en a qui sont vrais et qu'il y en a qui sont faux. 378. Si tous sont vrais, tout énoncé qui ne correspond pas à ces énoncés est faux, ou quelque chose des deux, vérité et fausseté. 379. Si tous sont faux, tout énoncé qui ne correspond pas à ces énoncés est vrai, ou quelque chose des deux ensemble [^66]. 380. S'il y a _quelques_ qui sont vrais et _quelques_ qui sont faux, (381) alors de ceux qui sont vrais — _dérivés_ de la nature et du noyau (nâf) de la vérité — (382) et de ceux qui sont faux — _dérivés_ de la nature et du noyau et de l'évolution originelle du mensonge — (383) les origines sont deux, l'une d'où _naît_ la vérité, _et_ l'autre d'où _naît_ le mensonge.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Para las perlas se ordenan dos modos [^3], pero la conclusión es esta: deben lavarse seis veces, al igual que los objetos de piedra. 6. Toda la vajilla de madera y barro debe desecharse. 7. Toda la ropa debe lavarse seis veces, como ya he indicado, y, después, colocarse en un lugar donde les dé la luz del sol y la luna durante seis meses [^4]; después, son aptas para la mujer menstruante.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 16\. « Pour l'existence du renoncement au péché, la chose particulière est ceci, _qu'on_ ne commet pas de péché volontairement; (17) et si, par folie, faiblesse ou ignorance, un péché se produit, on est alors en renoncement au péché devant les grands prêtres et les bons. 18. Et après cela, _quand_ [^7] il ne le commet pas, alors ce péché qu'il commet devient ainsi un balayage (êsvârakŏ) [^8] de son corps; (19) tout comme le vent qui est précipité et puissant, lorsqu'il vient vite et fort, balaie tellement la plaine qu'il emporte chaque brin d'herbe (gîyyâkî<i>k</i>akŏ-1) et tout ce qui est cassé _à_ cet endroit. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

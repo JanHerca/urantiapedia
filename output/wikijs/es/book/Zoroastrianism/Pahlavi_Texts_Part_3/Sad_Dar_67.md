@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Por lo tanto, dado que ella es así, es necesario que las mujeres se cuiden con gran esfuerzo, para que no se vuelvan ilícitas para sus propios <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> maridos. 8. Porque, cada vez que una de ellas se entrega cuatro veces a otra persona, es, después de eso, ilícita mientras [^6] esté _en_ ​​la casa de _su_ marido [^7] y el nuevo pecado aumenta _en relación_ con su alma [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Y la tercera noche, con la fresca llegada del amanecer, su pecado, en la aterradora y contaminada forma de una doncella (<i>k</i>arâtîk) que es una injuriadora, viene a su encuentro con el tesoro de su pecado; y un apestoso viento del norte [^2] sale a su encuentro, y avanza estremeciéndose, tembloroso [^3], y de mala gana corre a rendir cuentas. 6. Y por ser engañado y engañando, herejía (a<i>v</i>ârûn-dînôîh), implacable y falsa [^4] acusación de compañeros constantes, y la pecaminosidad generalizada de una existencia demoníaca (drû<i>g</i>\-stihîh) se arruina, cae del puente, y es precipitado al infierno.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -72,6 +72,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 136\. About this chapter, too, collected as a summary, (137) do you reverently [^32] and discreetly observe and instruct thereon.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

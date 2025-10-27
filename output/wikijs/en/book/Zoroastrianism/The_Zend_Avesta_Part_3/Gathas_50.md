@@ -68,6 +68,8 @@ Y. L, 1. Aye, doth my soul indeed obtain assisting <span id="p171"><sup><small>[
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

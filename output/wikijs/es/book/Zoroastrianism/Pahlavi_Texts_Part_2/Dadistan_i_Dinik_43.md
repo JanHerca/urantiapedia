@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 10\. De modo que cuando _es_ la dedicación propiciatoria para el día Khûr del mes de consagración Â<i>v</i>ân [^10], el día _y_ mes son tales que su orden y el Âtûr («fuego») y Â<i>v</i>ân («aguas») que los suceden se ponen así en orden inverso a la secuencia _adecuada_ [^11]. 11. Entonces, también, cuando en el mismo mes [^12] su dedicación propiciatoria para el día _y_ mes se vuelve _igual para el día y el mes [^13], se recita con respecto _tanto_ al mes como a las «aguas» (â<i>v</i>ân), porque _no están_ conectados entre sí y _se han vuelto_ no inclusivos; _y_ entonces _uno_ debe considerarlos como apropiados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

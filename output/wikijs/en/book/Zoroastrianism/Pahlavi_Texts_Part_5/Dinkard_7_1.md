@@ -102,6 +102,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 54\. _And_ that of it from the arrival of the Triumphant Benefiter, _until_ the wonder _of_ the renovation _and_ future existence; a statement of them each separately.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

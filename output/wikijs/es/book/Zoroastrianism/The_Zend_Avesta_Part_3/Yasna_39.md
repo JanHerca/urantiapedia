@@ -42,6 +42,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 5\. Y así nos acercamos a Ti junto con la buena afinidad de nuestros parientes, con la de la Rectitud, la bienaventurada, y la buena ley del ahorro y la energía, y la buena Piedad, la mente dispuesta (dentro de Tu pueblo).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

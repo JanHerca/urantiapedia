@@ -699,6 +699,8 @@ Respecto al tema señalado como la originalidad del Gâtha, no se pretende negar
 
 En la página [198](../Yasna_1#p198) lea Maidhyô-shema, Maidhyô-zaremaya; [pag. 204](../Yasna_2#p204), -<i>g</i>yâiti; [pag. 209](../Yasna_3#p209), -<i>g</i>yâitê.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

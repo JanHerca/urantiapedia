@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: 'To live in fear and falsehood is worse than death. 5. Because every one's life is necessary for the enjoyment _and_ pleasure of the worldly _existence_, (6) and when the enjoyment _and_ pleasure of the worldly _existence_ are not his, and fear and even falsehood [^1] are with him, it is called worse than death.'
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

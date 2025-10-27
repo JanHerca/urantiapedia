@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. « Et le mélange de l’eau dans la terre est comme le sang dans le corps de l’homme. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

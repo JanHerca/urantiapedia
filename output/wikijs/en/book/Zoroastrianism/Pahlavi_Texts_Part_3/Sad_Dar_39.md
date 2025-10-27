@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. It is necessary that they _should_ present the whole of the firewood; and, _as to_ the person who makes _it_ blaze, they _should_ give him bread and a salary (nafaqah). 5. For, every time that that fire is satisfied, and they maintain _it_ properly, every fire that may exist in the earth of seven regions becomes satisfied with that person.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

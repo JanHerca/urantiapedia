@@ -44,6 +44,8 @@ _Sû<i>d</i>kar Nask_.
 
 11\. Righteousness is perfect excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

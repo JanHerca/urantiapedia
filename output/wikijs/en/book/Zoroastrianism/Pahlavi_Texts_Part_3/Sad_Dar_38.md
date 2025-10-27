@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. Because, when [^7] any one drinks with a stranger, it makes _his_ heart inclined (maîl) towards him, for it would be a sin; and, on account of the sin committed, he becomes bold, and _his_ soul has an inclination for wickedness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

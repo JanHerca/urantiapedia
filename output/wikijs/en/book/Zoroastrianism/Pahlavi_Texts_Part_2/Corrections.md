@@ -57,6 +57,8 @@ P. [289](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_3#
 
 P. [306](/en/book/Zoroastrianism/Pahlavi_Texts_Part_2/Epistle_of_Manuskihar_1_7#p306), ll. 23, 24, read ‘. . . to keep in use the equal measure _which is_ more _the custom_ of his own superiors (naf<i>s</i>man vâspûharakântar).’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

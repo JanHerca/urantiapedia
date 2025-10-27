@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Il est déclaré dans la révélation que, lorsqu'une personne confère un bienfait à quelqu'un, Hôrmazd [^1] lui en donne dix fois plus, en guise d'équivalent. 3. Et, si l'autre ne comprend pas [^2] la justice de cela, il est relaté dans le commentaire de l'Avesta de cette manière, que c'est un grand péché pour lui. 4. Et Aharman [^3] parle ainsi, à savoir : « Ce pécheur est apparenté à moi ; à la fin, il tombera entre mes mains ; je ne le livrerai aux mains d'aucun démon, mais j'infligerai le châtiment de mes propres mains. » 5. _Et_ le grand prêtre [^4] dit qu'il est nécessaire pour tous les Zaratutiens de se tenir loin de ce péché.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

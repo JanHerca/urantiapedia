@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Si c'est commis par soi-même, il est déclaré, en un seul endroit de la révélation, que le glorifié Zaratuşt, le Spitamân, interrogea Hôrmazd, le bon et propice, ainsi : « Parmi les péchés que commettent les hommes, lequel est le pire ? » 7. Hôrmazd, le bon et propice, décréta ainsi : « Aucun péché n'est pire que celui-ci : deux personnes concluent une alliance l'une avec l'autre de telle manière que personne ne se trouve entre elles, sauf moi qui suis Hôrmazd ; et qu'ensuite l'une de ces deux personnes s'en écarte et dise : "Je n'en ai aucune connaissance ('<i>h</i>abar)", et que personne ne soit témoin pour cette autre personne, sauf moi. » 8. Aucun péché n'est pire que celui-là, et cette personne elle-même ne sortira pas de ce monde avant que le châtiment ne l'atteigne, et dans cet autre monde, son châtiment est plus sévère que tous les autres ; ainsi, cette personne devient malheureuse dans les deux mondes. 9. Et il en est de même si cette alliance est conclue avec un juste ou un méchant.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

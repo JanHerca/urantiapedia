@@ -45,6 +45,8 @@ SA KAPADIA.
 Templo interior, Londres,
 1° de enero de 1905.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: dos descendientes oscuros del buey primigenio [^1] se mueven y giran desde muy por debajo del sol y la luna, y siempre que, durante la revolución de la esfera celeste, uno de ellos pasa por debajo del sol o de la luna, se convierte en una cubierta que se teje (ta<i>d</i>) sobre el sol, y esto ocurre cuando no se ve el sol ni la luna. 3. De cada uno de estos dos descendientes del buey primigenio —uno llamado «cabeza» y el otro «cola»—, el movimiento está especificado entre los astrónomos [^2]; pero al permanecer sobre esas luminarias y producir esa cubierta, no alcanzan a las luminarias <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> dentro de esa cubierta. 4. No se produce ninguna diferencia en los rayos descendentes [^3] desde esas luminarias hacia un lugar de pureza y libertad de perturbaciones muy por debajo de esas luminarias, excepto que la luz que desvían hacia el mundo y su actividad con respecto a las esferas celestes no son completas durante tanto tiempo, ni tampoco la llegada [^4] de la luz a la tierra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

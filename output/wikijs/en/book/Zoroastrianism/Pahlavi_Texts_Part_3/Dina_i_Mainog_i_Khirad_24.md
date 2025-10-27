@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘They grant; (5) for _there are_ such as they call thus: “Destiny _and_ divine providence.” 6. Destiny is that which is ordained from the beginning, (7) _and_ divine providence is that which they also grant otherwise. 8. But the sacred beings provide and manifest in the spiritual _existence_ little of that grant, on this account, because Aharman, the wicked [^2], through the power of the seven planets extorts wealth, _and_ also every other benefit of the worldly _existence_, from the good _and_ worthy, _and_ grants _them_ more fully to the bad _and_ unworthy.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

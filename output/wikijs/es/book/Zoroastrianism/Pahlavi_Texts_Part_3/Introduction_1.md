@@ -76,6 +76,8 @@ Del texto Pâzand del Mainyô-i Khard, Caps. LVII, XXVII, LXII, I, 51-61, VII, 9
 
 En relación con este relato de las diversas versiones de las «Opiniones del Espíritu de Sabiduría», cabe destacar que también existe un compendio de la obra en prosa persa, denominado «Otro Mînôkhirad». Una copia de este compendio se encuentra en los folios 71-78 del MH7 (descrito anteriormente), y consiste en una traducción persa muy libre de los textos de Pâzand de los capítulos I, 14-II, 64, III-VII, XIV, XV, <span id="pxxv"><sup><small>[p. xxv ​​]</small></sup></span> XXI, XXV, seguido de diversas declaraciones breves sobre la gratitud hacia los seres sagrados, el cielo supremo, ángeles y demonios, hombres y mujeres, riqueza y pobreza, etc., y concluyendo con los nombres de los primeros soberanos del mundo, la descendencia de la humanidad de Gâyômar<i>d</i>, y de las 292 [^7] especies animales del buey primigenio. Otra copia de este compendio parece estar contenida en los folios 80-84 del n.º 15 de la Colección de Anquetil en la Biblioteca Nacional de París.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

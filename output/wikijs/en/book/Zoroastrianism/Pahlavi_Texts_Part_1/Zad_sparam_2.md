@@ -46,6 +46,8 @@ On the coming in of Aharman to the creatures it is thus declared in revelation, 
 
 11\. Lastly, he (Aharman) came up to the fire, and mingled darkness and smoke with it [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

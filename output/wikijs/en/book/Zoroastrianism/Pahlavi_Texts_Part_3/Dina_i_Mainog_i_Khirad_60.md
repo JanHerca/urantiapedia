@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. ‘Because it is said, (7, 8) that whoever joins with the good brings good with _him_, and whoever <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> joins with the bad _brings_ [^4] evil—(9) just like the wind which, when it impinges on stench, is [^5] stench, (10) and when it impinges on perfume, is perfume,—(11) _it_ is, therefore, notorious [^6], (12) that he whose business is with the good receives good, (13) and _he_ whose business is with the bad _receives_ [^7] evil; (14) but, even then, both are to be considered as an experiment (aû<i>z</i>mâyi<i>s</i>nŏ) [^8].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

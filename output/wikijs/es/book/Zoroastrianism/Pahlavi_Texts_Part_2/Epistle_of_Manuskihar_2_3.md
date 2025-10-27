@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 14\. Entonces, cuando escribes que siempre deberían hacerlo igual que ahora, la falsedad en ello es <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> grave (yagar), y no conozco ninguna peor; pues este lavado y purificación profesional que _uno_ debe mantener en funcionamiento —como lo declara la revelación, la enseñanza de los sumos sacerdotes y aquellos de la fe primitiva que son estimados [^24]\— te retiras (madam dârê<i>d</i>ŏ) de entre nosotros_. 15. Lo que tú mismo entiendes es que para Aûha<i>r</i>ma<i>z</i><i>d</i> las buenas criaturas confederadas son como si estuvieran contaminadas y, a los ojos de los buenos y sabios, son como si estuvieran propiciatorias hacia el malvado Vâê [^25]. 16. Y tus palabras al respecto son como las que se dicen acerca de un mendigo [^26], a quien se le da una prenda, así: «Lávenle la suciedad (âlûg) completamente limpia»; y esa prenda que toman se pone al fuego y se quema; y él dijo así: «Mi suciedad fue un consuelo».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

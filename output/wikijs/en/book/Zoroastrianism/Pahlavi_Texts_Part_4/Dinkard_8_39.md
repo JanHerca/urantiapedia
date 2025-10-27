@@ -54,6 +54,8 @@ I. One section is the <i>H</i>a<i>k</i>î<i>d</i>akânistân (‘_code of seques
 
 24\. About _him_ who nourishes a sheep which is seized; that is, how it is when _it is_ out of his store, _and_ how it is when he nourishes it _as_ it arrives. 25. About a dispute as regards a sheep that is seized, when one _person_ says _it was_ born of the colour of the mother, _and another_ one _says it was of_ her form [^13], both _being_ true; or one _person_ mentions a single characteristic truly, _and another_ one _mentions_ many characteristics of it untruly; the _cases_ when they mention _its_ peculiarities otherwise, _and_ in what manner and whatever is on the same subject. 26. About a sheep [^14] seized, which _has_ to pass on through the loftiest places in which _there_ is lawfully shelter; _and_ how there are three years, three existences (ahvôn), three places, nine occasions, and also many other regulations on the same subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

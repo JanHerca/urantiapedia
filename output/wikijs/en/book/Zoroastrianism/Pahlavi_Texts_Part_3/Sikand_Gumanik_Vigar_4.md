@@ -74,6 +74,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 108\. Of that, too, which is asked by you about unlimitedness and limitation, I have written below [^56], through the will of the sacred beings.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

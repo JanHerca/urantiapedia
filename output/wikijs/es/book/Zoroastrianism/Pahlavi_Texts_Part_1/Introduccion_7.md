@@ -65,6 +65,8 @@ En cuanto a la ortografía de los nombres y palabras pahlavi, se ha aprovechado 
 
 En conclusión, cabe destacar que un traductor de pahlavi generalmente comienza su carrera subestimando la exactitud de los textos pahlavi y la capacidad literaria de sus autores, pero difícilmente puede avanzar mucho sin encontrar abundantes razones para cambiar su opinión sobre ambos. Su visión despectiva de la literatura pahlavi se debe generalmente, en parte, a la falta de conocimiento y en parte a su excesiva confianza en las viles perversiones de los textos pahlavi que suelen proporcionar los escritores de Pâzand. Pero a medida que aumenta su conocimiento del pahlavi, se vuelve más capaz de apreciar los méritos literarios de los textos. Si el lector ya se ha formado una estimación tan baja de la capacidad de los escritores pahlavi, cabe esperar que estas traducciones le brinden razones suficientes para cambiar de opinión; de lo contrario, habrán fracasado rotundamente en hacerles justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

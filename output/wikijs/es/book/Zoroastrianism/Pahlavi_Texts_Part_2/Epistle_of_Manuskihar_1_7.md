@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 16\. Y en cuanto a lo que está escrito sobre las trescientas piedrecitas [^20] que, rociadas <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> en la ablución ceremonial (pâ<i>d</i>yâ<i>v</i>ŏ), se echan en (va<i>l</i>) la orina y el agua del toro, se enseña de la misma manera; la oración interior (vâ<i>g</i>ŏ) [^21], incluso cuando no se echan, está en la enseñanza existente, lo cual es apropiado. 17. Además, debido a su bajo costo [^22] e inocuidad, los purificadores son menos restrictivos con respecto a ellas, y beberlas así tiene un efecto muy curativo. 18. En la enseñanza actual de los purificadores imperfectos, sería muy ventajoso mantenerlo como fácil; además, no se dice que no sea adecuado, y en la enseñanza de Afarg se dice que es apropiado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

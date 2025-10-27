@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. For in our religion there is no duty better than wearing the _sacred thread_-girdle, and it is incumbent <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> on man and woman. 3. And, in former days, if any one should have become completely fifteen years _of age_, and should not have worn the _sacred thread-_girdle, they would have done for him by stoning, as bread and water are forbidden (‘harâm) for him.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -88,6 +88,8 @@ No tenemos motivos para suponer que el Yasna existiera en su forma actual en los
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

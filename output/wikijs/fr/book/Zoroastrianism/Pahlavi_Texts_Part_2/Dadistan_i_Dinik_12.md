@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : la croissance l’éradique, comme cela arrive avec la bonne œuvre qui sert à expier le péché ; elle sera faite en rétribution du péché, et elle éradique le péché, ce qui est spécifiquement mentionné dans l’Apocalypse [^1]. 3. « Alors le lieu de son <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> autre bonne œuvre est évidemment l’âme ; et, afin d’être avec le péché à son origine, il demeure et est pris en compte. » 4. « Par les bonnes œuvres et la croissance des bonnes œuvres est la récompense de l’âme, afin qu’elle accomplisse ces bonnes œuvres en expiation du péché. » 5. Et concernant le péché éradiqué, il est dit : « Une bonne œuvre originelle éradique le péché originel [^2], et la croissance d’une bonne œuvre éradique la croissance d’un péché. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

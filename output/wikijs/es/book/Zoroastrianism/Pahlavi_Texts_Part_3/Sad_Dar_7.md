@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Después, por ser necesario, recitan estas oraciones internas [^3] y realizan la bendición (âfrîn) del fuego, para que permanezca por un largo período mientras mantienes [^4] a este demonio derrotado. 7. Cuando otra persona oye el estornudo, es igualmente necesario que pronuncie dichas oraciones y realice la bendición de ese espíritu [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -44,6 +44,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 7\. And, for a long time, they constantly looked, one at the other, with unshrinking gaze; _but_ the divine nature of Zaratû<i>s</i>t is victorious over the witchcraft of that _wizard, and_ Dûrêsrôbô is further disturbed; he also asked for _his_ horse _and_ spoke thus: ‘On account of this _boy, it_ is impossible for me to stay.’ <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> 8\. He sat upon the horse, _and_ when he had gone a little _way_, he fell off from the horse, through severe distress, and died; and the children of his children's children have died upon the same spot [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

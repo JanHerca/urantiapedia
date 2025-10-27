@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 13\. Cuando el período es tan indigno, el demonio tan abundantemente contencioso, y el apresurado preparador de agua bendita de tan bajo origen (dû<i>s</i>\-vêkh) [^12]\—lo cual _sucede_, además, cuando los buenos son igualmente mezquinos (ham-bâstŏ-mînisnŏ)_, nos esforzamos por _lo_ que alienta la preparación de aquello que es incluso una profesión colectivamente virtuosa. 14. Además, _hay_ tal auge en fuerza de muchas _cosas_ nuevas de muchísimos países, lo cual es particularmente grave angustia y peligro para nosotros; nos entregan muestras _de ellas_ con aplausos, _y_ la expansibilidad de las palabras del difusor de estas y también de otras costumbres religiosas, como la propia persistencia y gloria completa de los seres sagrados, es una gran _y_ poderosa capacidad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

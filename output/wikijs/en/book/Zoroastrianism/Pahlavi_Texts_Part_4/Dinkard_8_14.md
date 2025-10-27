@@ -48,6 +48,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 16\. Perfect _is_ the excellence _of_ righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

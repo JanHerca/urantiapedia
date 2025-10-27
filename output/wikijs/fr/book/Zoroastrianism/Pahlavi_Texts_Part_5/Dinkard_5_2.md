@@ -53,6 +53,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 15\. _Il_ y a aussi ses purs nouveaux porteurs et contrôleurs complets de la même religion, Aûshê<i>d</i>ar [^21], Aûshê<i>d</i>ar-mâh [^22] et Sôshâns [^23] ; et grâce au progrès complet de cette religion d'Aûha<i>r</i>ma<i>z</i><i>d</i>, toutes les bonnes créatures deviennent sans perturbation et toutes rayonnantes [^24].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

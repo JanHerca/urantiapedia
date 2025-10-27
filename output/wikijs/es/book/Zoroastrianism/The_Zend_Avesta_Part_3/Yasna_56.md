@@ -44,6 +44,8 @@ Y así nuevamente pueda Sraosha (la Obediencia que escucha) estar presente aquí
 
 3\. Que Sraosha (la Obediencia que escucha) esté presente para la adoración de las buenas aguas; sí, que la buena Obediencia esté presente para la adoración de los buenos y generosos Inmortales que gobiernan con rectitud y disponen (de todo) con rectitud, los buenos, y para la adoración de la buena Santidad, o Bendición, que está estrechamente ligada al Orden Justo, para perfeccionarnos e incitarnos. Que Sraosha (la Obediencia) esté presente para la adoración de las buenas aguas, él, el bueno y el santo [^1234], tanto al principio como al final. <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> 4\. Y así, de nuevo, que Sraosha, (Obediencia) la buena, esté presente aquí para la adoración de las buenas aguas, y de los buenos [^1235] y generosos Inmortales, y de la Bendición la buena que está estrechamente unida con la Orden Justa para perfeccionarnos e incitarnos [^1236]. Sí, adoramos a Sraosha la bendita y la majestuosa, quien golpea con victoria, y quien impulsa los asentamientos en su avance, el santo señor del orden ritual [^1237].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

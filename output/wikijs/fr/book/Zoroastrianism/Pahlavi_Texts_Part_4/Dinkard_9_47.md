@@ -61,6 +61,8 @@ _Bakŏ Nask_.
 
 22\. La justice est la perfection parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

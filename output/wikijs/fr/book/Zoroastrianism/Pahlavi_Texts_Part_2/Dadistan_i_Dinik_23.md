@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. _On_ disait_ aussi aux anciens érudits que la vie (khayâ) est là où il y a un esprit vivant dans le corps de l'âme, qui est connecté à l'âme [^11], autant qu'un développement (<i>s</i>arîtûntanŏ) du corps, et est la vie (zîvandakîh) de l'âme d'un corps d'_un_ défunt_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

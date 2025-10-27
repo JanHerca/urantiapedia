@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 3\. That which is earthly is the water above to which its brilliance is acceptable; and the many brilliant colours (gunakân) which are formed from that much mingling [^2] of brilliance and water, and are depicted (mânâkî-aîtŏ), are the one portion for appearing [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

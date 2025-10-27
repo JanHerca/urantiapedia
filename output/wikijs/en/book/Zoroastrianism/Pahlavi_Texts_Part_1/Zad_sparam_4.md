@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 7\. For in the beginning it was so appointed that the star Jupiter (Aûharmazd) was life towards the creatures, not through its own nature, but on account of _its_ being within the control (band) of the luminaries [^5]; and Saturn (Kêvân) was death towards the creatures. 8. Both were in their supremacy (bâlîst) [^6] at the beginning of the creatures, <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> as Jupiter was in Cancer on rising, that which is also called <i>G</i>îvân ('living") [^7], for it is the place in which life is bestowed upon it; _and_ Saturn was in Libra, in the great subterranean, so that its own venom and deadliness _became_ more evident and more dominant thereby. 9. And it was when both shall not be supreme _that_ Gâyômar<i>d</i> was to complete his own life, which is the thirty years [^8] Saturn came not again to supremacy, that is, _to_ Libra. 10. And at the time when Saturn came into Libra, Jupiter was in Capricornus [^9], on account of whose own lowness [^10], and the victory of Saturn over Jupiter, Gâyômar<i>d</i> suffered through those very defects which came and are to continue advancing, the continuance of that disfigurement which Aharman can bring upon the creatures of Aûharmazd.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

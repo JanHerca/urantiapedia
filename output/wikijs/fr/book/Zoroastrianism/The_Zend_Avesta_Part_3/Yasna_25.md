@@ -43,6 +43,8 @@ dateCreated: 2025-3-16T22:11:40Z
 7\. Oui, nous t'adorons, le Feu, fils d'Ahura Mazda ! le saint seigneur de l'ordre rituel ; et nous adorons tous les Feux, et le Mont Ushi-darena (qui détient la lumière [^1165]) fait par Mazda et saint, le mont Yazad, brillant de sainteté. 8. Et nous adorons chaque saint Yazad spirituel [^1166] ; et chaque saint Yazad terrestre (qui existe) !
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

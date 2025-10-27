@@ -62,6 +62,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 54\. Again, _it_ is a reminding of the good as to the preservation of the soul; (55) _and_ for the same reason I _have_ arranged that while the wise are kindly observant of me, through their own compassion, they _may_ remember about the immortality of the soul. 56. Since it is said, that the eye of him who observes all good creatures with kind eyes is the eye of the sun; (57) because the sun is, indeed, an observer and beautifier with kind eyes for all creatures.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

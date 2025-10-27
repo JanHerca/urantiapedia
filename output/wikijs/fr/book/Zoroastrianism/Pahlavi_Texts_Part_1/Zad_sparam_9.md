@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 24\. C'est le cinquième concours, en ce qui concerne les animaux.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

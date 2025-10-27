@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. Et si on ne montre pas un chien au cadavre, et qu'ils le ramassent, quel que soit leur nombre, ils sont tous souillés [^8]. 8. Dans le commentaire du Vendîdâ<i>d</i>, il est affirmé que quiconque ramasse un cadavre qu'un chien n'a pas vu est souillé et digne de mort [^9], et ne devient jamais pur ; son âme aussi serait mauvaise.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

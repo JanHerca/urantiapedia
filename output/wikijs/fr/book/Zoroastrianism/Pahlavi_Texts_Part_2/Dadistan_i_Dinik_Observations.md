@@ -73,6 +73,8 @@ M14 (copie moderne d'un manuscrit de la bibliothèque du grand prêtre parsi à 
 
 TD, un manuscrit des Bundahi appartenant à Môbad Tehmuras Dinshawji à Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

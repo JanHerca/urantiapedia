@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. Y lo mismo ocurre con los saludos a la luna y al fuego [^4]. 5. Por lo tanto, conviene, en la religión, que cada persona de buena religión ponga en práctica los saludos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

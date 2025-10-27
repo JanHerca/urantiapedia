@@ -48,6 +48,8 @@ dateCreated: 2025-10-10T14:56:45Z
 16\. Et vous observez toujours de manière à ne pas sauter (la aîyyûkhtanŏ) sans regarder devant ; mais l'observation temporaire n'a rien à voir avec ce que, par une comparaison bien cinglante, on observe, la vue regardant bien en avant, lorsque des poussières de toutes sortes sont domestiquées par la vue de <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> l'œil ; et si son intellect n'est pas judicieux, il est merveilleusement trompé par cela ; et si cela l'était même lorsqu'il mentionne l'existence de deux lunes, cela en serait-il davantage prouvé ? 17. C'est une coutume des plus provocantes en elle-même, et présentée de manière inquiétante lorsque moi, qui crois d'un esprit fervent, j'aurais livré la vie même de mon corps au pont déroutant [^18] pour votre bonheur et votre jouissance. 18. De plus, en raison de mon manque de loisirs, même les informations présentées, demandant la paix, sont des informations que je crois avec un esprit généreux ; et être conscient de mon manque de loisirs est à la fois un avantage et un danger, et le cœur d'écrire à ce sujet [^19] est, par conséquent, miraculeux. 19. Il est donc toujours nécessaire pour moi, qui manque de loisirs, de vous écrire tant de choses sur le harcèlement des importuns et contre les disputes, dont je n'ai aucune idée du but.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

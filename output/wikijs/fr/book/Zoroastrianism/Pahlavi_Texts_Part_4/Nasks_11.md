@@ -87,6 +87,8 @@ Les noms des vingt et un Nasks.
 
 24\. De même qu'il est dit qu'il y avait vingt et un Nasks, il y a d'abord, dans sept Nasks, les sujets de la religion du culte de Ma<i>z</i><i>d</i>a, dans le deuxième sept Nasks sont les sujets de la pratique médicale, et dans le troisième sept Nasks les sujets et les capacités des étoiles sont mentionnés.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:41:30Z
 2\. La respuesta es esta: _para el hombre mismo_ es lícito cuando renuncia a todos sus bienes en <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> donaciones justas, _y_ cuando no tiene bienes, no se le debe otorgar una filiación adoptiva, _y_ sus parientes son inocentes al respecto. 3. Pero si reconocen a quien tiene la filiación adoptiva del difunto, o ha aceptado la posición de su filiación adoptiva [^1], _o_ si han confiscado la propiedad para la filiación adoptiva _para_ nombrar a un hijo adoptivo interino (satôrgar), _y_ él dirige la filiación adoptiva, y desecha _tanto_ la porción (bôn) prevista para el desembolso (vishôpŏ) como la totalidad, y destruye por completo la propiedad, y arruina completamente la filiación adoptiva, aunque, a causa de no restringirlo, se dice _que es_ un pecado digno de muerte por _cada_ dirham, no se dice que _son_ asesinados directamente [^2].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

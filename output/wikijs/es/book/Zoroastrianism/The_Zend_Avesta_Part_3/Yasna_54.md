@@ -42,6 +42,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 2\. Sacrificamos al Airy<i>e</i>mâ-ishyô, el poderoso; el que castiga con victoria, el que se opone a la malicia ofensiva, la mayor de las sentencias del sagrado orden ritual. Y sacrificamos a los generosos Gâthas que gobiernan supremos en el ritual, los santos (y augustos). Y sacrificamos a las Alabanzas del Yasna, que fueron productos del mundo de antaño [^1226].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

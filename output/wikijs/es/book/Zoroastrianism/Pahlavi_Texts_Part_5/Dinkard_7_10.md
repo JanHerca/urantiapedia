@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 15\. Y cuando no han transcurrido treinta inviernos del siglo X, la doncella Gôbâk-abû [^7] se acerca al agua; ella es la madre de ese Sôshâns testigo, quien guía la disipación de la oposición del destructor, y su linaje anterior es de Vôhû-rô<i>k</i>ô-î Frahânyân [^8] en la familia de Îsa<i>d</i>vâstar, el hijo de Zaratû<i>s</i>t, engendrado por Arang. 16. «La doncella cuyo título es la que todo lo domina es, por lo tanto, todopoderosa, porque al dar a luz da a luz a quien todo lo domina, tanto la aflicción debida a los demonios como la debida a la humanidad [^9]». 17. Entonces, cuando tiene quince años, se sienta en esa agua, y esta introduce en la muchacha a aquel cuyo nombre es el Beneficiario Triunfante, y cuyo título es el Hacedor de Cuerpos; un beneficiador que beneficia (savînê<i>d</i>ŏ) a toda la existencia corpórea, y un hacedor de cuerpos, poseyendo cuerpo y vida por igual, que intercede por la perturbación de las existencias corpóreas y de la humanidad [^10]. 18. Ni antes de eso se ha asociado con hombres; ni después, al quedar embarazada, lo ha hecho antes de dar a luz [^11]. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> 19\. Cuando ese hombre cumple treinta años, el sol se detiene en el cenit del cielo durante treinta días y treinta noches, y llega de nuevo al lugar que le fue asignado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

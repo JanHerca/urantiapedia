@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that, excepting those. among which is specially the selected religious rite (dînô) of him whose ceremony is not performed—who, even though _having_ many good works, does not afterwards attain unto the supreme heaven, which is determined [^1]\—this, moreover, is thus said, that he who is not able to perform his ritual himself, when he orders a Gêtô-kharî<i>d</i> [^2] _ceremony_ and they shall perform _it_, can become _fit_ for the supreme heaven (garô<i>d</i>mânîkŏ); this is greatly to be commended.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

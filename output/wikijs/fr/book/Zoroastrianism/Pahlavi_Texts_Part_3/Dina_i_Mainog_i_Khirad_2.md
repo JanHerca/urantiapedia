@@ -123,6 +123,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 195\. L'esprit de sagesse innée parla au sage (196) ainsi : « Ce que tu m'as demandé concernant l'entretien du corps et la préservation de l'âme, je t'en parle aussi, et tu en es averti. 197. Sois vertueusement <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> assidu à ce sujet, et garde-le en pratique ; (198) car c'est ton principal moyen d'entretenir le corps et de préserver l'âme. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

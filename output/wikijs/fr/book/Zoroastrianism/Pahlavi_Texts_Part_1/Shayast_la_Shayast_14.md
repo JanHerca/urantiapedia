@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 4\. Il en est ainsi lorsque la période _du jour_ (gâs) [^8] est conservée, et il devrait en être ainsi lorsqu'on peut y renoncer ; c'est-à-dire que lorsqu'une seule des étoiles créées par Aûharmazd est apparente, elle est conservée, et lorsqu'elle ne l'est pas, elle est abandonnée. 5. C'est Vand-Aûharmazd [^9] qui a dit que lorsque, outre Tî<i>s</i>tar, Vanand ou Satavês [^10], une des _étoiles_ zodiacales (akhtarîk) est apparente, elle est conservée, et lorsqu'elle ne l'est pas, elle est abandonnée. 6. Certains ont dit que lorsque, outre l'une de ces trois, trois _étoiles_ zodiacales sont apparentes, elle est conservée, et lorsqu'elle ne l'est pas, elle est abandonnée [^11].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

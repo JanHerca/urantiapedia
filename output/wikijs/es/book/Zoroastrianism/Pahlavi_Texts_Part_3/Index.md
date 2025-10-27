@@ -1058,6 +1058,8 @@ Zaratû<i>s</i>t, apóstol, Mkh. **2**, 95 norte; **57**, 20, 24, 26; Sg. **10**
 
 Zargar, príncipe, sargento. **10**, 67.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

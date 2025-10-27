@@ -212,6 +212,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes.
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -238,82 +240,82 @@ Ashem Vohû: La santidad es el mejor de todos los bienes.
 
 ## Notas al pie
 
-[^1212]: 270:1 En parsi Ardi<i>s</i>vang o Ard (Ardi<i>s</i> de Arti<i>s</i>, la forma persa de Ashi<i>s</i>); ella preside el día 25 del mes; cf. Sîrôzah 25.
+[^1150]: 270:1 En parsi Ardi<i>s</i>vang o Ard (Ardi<i>s</i> de Arti<i>s</i>, la forma persa de Ashi<i>s</i>); ella preside el día 25 del mes; cf. Sîrôzah 25.
 
-[^1213]: 270:2 Ashi no es el adjetivo femenino de Asha, ya que la i era originalmente corta (genitivo ashôi<i>s</i>, no ashy<i>a</i>u); ashi es ar-ti, y significa bhakti, piedad (Neriosengh).
+[^1151]: 270:2 Ashi no es el adjetivo femenino de Asha, ya que la i era originalmente corta (genitivo ashôi<i>s</i>, no ashy<i>a</i>u); ashi es ar-ti, y significa bhakti, piedad (Neriosengh).
 
-[^1214]: 270:3 Los llamados remedios de Ashi (ashôi<i>s</i> baêshaza; cf. Yt. XIII, 32).
+[^1152]: 270:3 Los llamados remedios de Ashi (ashôi<i>s</i> baêshaza; cf. Yt. XIII, 32).
 
-[^1215]: 270:4 Esta enumeración es la misma que en el Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
+[^1153]: 270:4 Esta enumeración es la misma que en el Gô<i>s</i> Ya<i>s</i>t (§§ 3, 8, 14, 17, 21, 26, 29),
 
-[^1216]: 270:5 Perethu-vîra; véase Estudios iraníes, II, 183.
+[^1154]: 270:5 Perethu-vîra; véase Études Iraniennes, II, 183.
 
-[^1217]: 271:1 Los aliados de Saoshya<i>n</i><i>t</i>, quienes participarán activamente en la restauración del mundo a la vida eterna (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769). Ashi les otorga la «inteligencia de la vida» (frasha khratu), mediante la cual podrán realizar su tarea.
+[^1155]: 271:1 Los aliados de Saoshya<i>n</i><i>t</i>, quienes participarán activamente en la restauración del mundo a la vida eterna (frashô-kereti). Cf. [p. 165](../Yasts_11#p165), nota [1](../Yasts_11#fn769). Ashi les otorga la «inteligencia de la vida» (frasha khratu), mediante la cual podrán realizar su tarea.
 
-[^1218]: 271:2 Cf. Yt. V, 10.
+[^1156]: 271:2 Cf. Yt. V, 10.
 
-[^1219]: 271:3 La Santa Palabra.
+[^1157]: 271:3 La Santa Palabra.
 
-[^1220]: 271:4 El Daêva de la ira.
+[^1158]: 271:4 El Daêva de la ira.
 
-[^1221]: 271:5 Porque beber Haoma es un acto de religión (cf. Yasna XI, 12 \[31\] seq.).
+[^1159]: 271:5 Como beber Haoma es un acto de religión (cf. Yasna XI, 12 \[31\] seq.).
 
-[^1222]: 272:1 ? Âgairimaiti<i>s</i>.
+[^1160]: 272:1? Âgairimaiti<i>s</i>.
 
-[^1223]: 272:2 Cf. Yt. V, 130.
+[^1161]: 272:2 Cf. Yt. V, 130.
 
-[^1224]: 272:3 ? Un kupasman.
+[^1162]: 272:3 ? A<i>n</i>kupasman<i>a</i>u.
 
-[^1225]: 273:1? Ãgamô-paidhi<i>s</i>a.
+[^1163]: 273:1? Ãgamô-paidhi<i>s</i>a.
 
-[^1226]: 273:2 Dudoso.
+[^1164]: 273:2 Dudoso.
 
-[^1227]: 273:3 Cf. Yt. XIV, 11.
+[^1165]: 273:3 Cf. Yt. XIV, 11.
 
-[^1228]: 274:1 Nacido de los dioses; cf. Yt. XXII, 9.
+[^1166]: 274:1 Nacido de los dioses; cf. Yt. XXII, 9.
 
-[^1229]: 274:2 Véase Yt. XI.
+[^1167]: 274:2 Véase Yt. XI.
 
-[^1230]: 274:3 Véase Yt. XII.
+[^1168]: 274:3 Véase Yt. XII.
 
-[^1231]: 274:4 Véase Yt. X.
+[^1169]: 274:4 Véase Yt. X.
 
-[^1232]: 274:5 O, 'no hacer daño a los justos'.
+[^1170]: 274:5 O, 'no hacer daño a los justos'.
 
-[^1233]: 274:6 Zaratu<i>s</i>stra.
+[^1171]: 274:6 Zaratu<i>s</i>stra.
 
-[^1234]: 274:7 El Ahuna Vairya.
+[^1172]: 274:7 El Ahuna Vairya.
 
-[^1235]: 274:8 Cf. Yt. XIII, 93.
+[^1173]: 274:8 Cf. Yt. XIII, 93.
 
-[^1236]: 275:1 Cf. Vend. XIX, 4 (13).
+[^1174]: 275:1 Cf. Vend. XIX, 4 (13).
 
-[^1237]: 275:2 Cf. Yt. III.
+[^1175]: 275:2 Cf. Yt. III.
 
-[^1238]: 275:3 La felicidad después de la muerte.
+[^1176]: 275:3 La felicidad después de la muerte.
 
-[^1239]: 275:4 Como § 1.
+[^1177]: 275:4 Como § 1.
 
-[^1240]: 275:5 Para los §§ 24-26, cf. Yt. IX, 3-6.
+[^1178]: 275:5 Para los §§ 24-26, cf. Yt. IX, 3-6.
 
-[^1241]: 276:1 Para los §§ 28-31, cf. Yt. IX, 8-11.
+[^1179]: 276:1 Para los §§ 28-31, cf. Yt. IX, 8-11.
 
-[^1242]: 277:1 Cf. Yt. V, 34; IX, 14; XV, 24.
+[^1180]: 277:1 Cf. Yt. V, 34; IX, 14; XV, 24.
 
-[^1243]: 277:2 Para los §§ 37-39, cf. Yt. IX, 17-19.
+[^1181]: 277:2 Para los §§ 37-39, cf. Yt. IX, 17-19.
 
-[^1244]: 278:1 Para los §§ 41-43, cf. Yt. IX, 21-23.
+[^1182]: 278:1 Para los §§ 41-43, cf. Yt. IX, 21-23.
 
-[^1245]: 279:1 Para los §§ 45-47, cf. Yt. IX, 25-27.
+[^1183]: 279:1 Para los §§ 45-47, cf. Yt. IX, 25-27.
 
-280:1 Véase Vend, III, 20 \[63\], nota.
+[^1184]: 280:1 Véase Vend, III, 20 \[63\], nota.
 
-[^1247]: 280:2 Procurando el aborto.
+[^1185]: 280:2 Procurando el aborto.
 
-[^1248]: 280:3 Ella rechaza las ofrendas de todos los seres estériles.
+[^1186]: 280:3 Ella rechaza las ofrendas de todos los seres estériles.
 
-[^1249]: 280:4 Cf. Yt. V, 98. Las siguientes cláusulas aluden a algún mito de Ashi Vanguhi conectado con el conflicto entre los turanios y los naotaras (ya sea Tusa y Vistauru; cf. [p. 71](../Yasts_5#p71), nota [7](../Yasts_5#fn352), o más probablemente el propio Vî<i>s</i>tâspa, a quien se refieren el capítulo precedente p. 281 \[§§ 48-52\] y la penúltima cláusula del Ya<i>s</i>t). Ella intentó huir de la manera practicada por Ulises en la caverna de los cíclopes; ambos grupos perseguían al animal que la llevaba, aunque no sabían qué llevaba, hasta que unos niños la descubrieron.
+[^1187]: 280:4 Cf. Yt. V, 98. Las siguientes cláusulas aluden a algún mito de Ashi Vanguhi conectado con el conflicto entre los turanios y los naotaras (ya sea Tusa y Vistauru; cf. [p. 71](../Yasts_5#p71), nota [7](../Yasts_5#fn352), o más probablemente el propio Vî<i>s</i>tâspa, a quien se refieren el capítulo precedente p. 281 \[§§ 48-52\] y la penúltima cláusula del Ya<i>s</i>t). Ella intentó huir de la manera practicada por Ulises en la caverna del cíclope; ambos grupos perseguían al animal que la llevaba, aunque no sabían qué llevaba, hasta que unos niños la descubrieron.
 
-[^1250]: 282:1 Cf. §§ 49 y siguientes.
+[^1188]: 282:1 Cf. §§ 49 y siguientes.
 
-[^1251]: 282:2 Cf. Siroza, § 25.
+[^1189]: 282:2 Cfr. Sîrôzah, § 25.

@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 9\. Et comme il est dit dans la loi persistante des êtres sacrés [^10], que « la bonne religion des êtres sacrés, qui sont les supérieurs adorateurs de Ma<i>z</i><i>d</i>a, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> l'ordonne comme rétribution, » afin que le péché qu'elle enlève (spayêiti) [^11] n'existe pas en lui, sa rétribution est déclarée par révélation. 10. Et par le même témoin, il est dit que toute la foi primitive a été tout à fait du même avis à ce sujet, que de la bonne religion, sauf par [^12] la voie du renoncement au péché, il n'y a pas d'autre issue que l'enfer ; mais cette renonciation _doit_ se faire durant la vie, car il est dit que « quiconque, de son vivant, ne devient pas juste, c'est-à-dire n'expie pas pleinement le péché, pour lui, de son vivant, il n'y a pas de don [^13] de la meilleure existence. » 11. Ne pas commettre de péché vaut mieux que la rétribution _et_ la renonciation au péché.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

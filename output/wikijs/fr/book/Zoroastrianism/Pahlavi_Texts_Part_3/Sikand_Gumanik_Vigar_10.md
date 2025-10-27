@@ -65,6 +65,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 78\. De sorte que je remarque ici [^35] _quelques-unes_ de _leurs_ nombreuses incohérences et déconnexions, pour éclairer le jugement des nouveaux apprenants, (79) pour la raison que lorsque les écrits des anciens érudits ont particulièrement minutieusement et respectueusement [^36] parlé de <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> _ce qu'il y a_ de plus astucieux dans le mal, pour pousser _quelqu'un_ à la bonne connaissance, (80) vous _devez_ observer avec bienveillance _ce qui est_ ordonné.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

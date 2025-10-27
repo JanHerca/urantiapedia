@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 11\. ‘And the treasure of the spiritual _existence_ is so true on this account, because Aûha<i>r</i>ma<i>z</i><i>d</i>, the lord, with all the angels _and_ archangels, is [^7] undisturbed, (12) and they make the struggle with Aharman and the demons, and also the account of the souls of men, with justice. 13. And the place of _him_ whose good work is more is in heaven, (14) the place of _him_ whose good work and sin are equal is among the ever-stationary [^8], (15) and when the crime is more, his path is then to hell.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

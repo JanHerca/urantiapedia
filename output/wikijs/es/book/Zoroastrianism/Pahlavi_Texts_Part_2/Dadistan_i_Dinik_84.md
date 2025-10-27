@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:41:30Z
 2\. La respuesta es esta: _es apropiado no disminuir una ofrenda cuando _es_ la ofrenda [^1] para una ceremonia, y las razones para ello son muchas. 3. Una es esta: una ofrenda es el dinero que en otra buena obra basta para el cumplimiento de la buena obra, _y_ la buena obra de una ofrenda justa [^2] es una gran buena obra, _y_ no disminuirla es mérito seguro entre los explicadores. 4. Cuando la fiesta sagrada [^3] _y_ la ofrenda para la ceremonia se suministran en exceso, incluso lo que es un exceso de ofrenda es un exceso de liberalidad para los realizadores de la ceremonia, _y ha realizado (frârâstŏ) un exceso de buenas obras que es encomiable.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

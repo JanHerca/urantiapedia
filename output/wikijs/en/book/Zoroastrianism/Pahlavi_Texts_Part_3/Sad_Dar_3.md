@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. Similarly (maTHalâ<i>m</i>), if any one be himself going, employed on his own work, and a robber falls <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> upon him on the road, and carries off his property (qumâ<i>s</i>), or he be slain [^4], they give him back in that _other_ world four _things_ for each one [^5] of whatever they have carried off. 5. If he be slain he becomes righteous, any sin that he has committed goes clean _away_ from him, _and_ they convey him to heaven. 6. But (ammâ) if he becomes faulty (bâ<i>t</i>il) in any duty, and a robber falls upon him on the road [^6], and carries off his wealth (mâl), or he be slain, when he descends to that _other_ world [^7] all the property that _other_ carried off from him becomes just as _though it were_ his who has carried it off from that person [^8]; and, besides, _there_ occur, as a substitute (’hivaʓ̣) _for_ that property, the punishment and torment they give him. 7. _And_ if he be slain it is just as _though_ he who has carried it off from that person _were one_ who had innocently slain that person who arrives in hell as retribution (mukâfât) for sin.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

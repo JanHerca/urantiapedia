@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. El espíritu de sabiduría respondió (5) así: «A causa del engaño y la violencia del demonio [^2] de la avaricia (6) los hombres hablan más sobre la hombría de quien posee más riqueza y poder, y relatan sus hechos y acciones con mayor detalle; (7) pero, a los ojos de los ángeles y arcángeles, un hombre pobre, inocente y sabio, es mejor y más valioso que un rey o un hombre opulento [^3] que es ignorante».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

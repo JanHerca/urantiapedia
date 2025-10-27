@@ -42,6 +42,8 @@ _Bakŏ Nask_.
 2\. Es la excelencia perfecta _eso es_ justicia.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

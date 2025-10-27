@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 15\. Accompli dans la paix, le plaisir et la joie [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

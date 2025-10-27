@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 12\. This is the third contest, about the earth.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

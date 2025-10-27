@@ -45,6 +45,8 @@ En Sls. X, 22, XII, 15, se dice que «en el Dâmdâ<i>d</i> _se revela así: «A
 
 En Sls. XII, 5, se dice que «en el Dâmdâ<i>d</i> _se revela_ que cuando cortan la conciencia de los hombres, esta sale al fuego más cercano, luego a las estrellas, luego a la luna y luego al sol; <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> y _es necesario que el fuego más cercano, aquel al que _ha_ convergido, _se haga más fuerte.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

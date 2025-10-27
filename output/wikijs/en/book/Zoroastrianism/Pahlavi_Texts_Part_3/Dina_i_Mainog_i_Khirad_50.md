@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘That _one_ who has produced opulence by proper exertion is to be considered as fortunate; and that _one_ who has produced _it_ by dishonesty, as evil-conditioned.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

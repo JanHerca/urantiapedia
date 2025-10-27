@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T13:0:42Z
   </table>
 </figure>
 
-<span id="pvii">[<sup><small>pág. vii</small></sup>]</span>
+<span id="pvii"><sup><small>[ pág. vii ]</small></sup></span>
 
 &nbsp; | PÁGINA
 --- | ---
@@ -44,6 +44,8 @@ GÂHS IV | [377](../The_Gahs#p377)\-[388](../The_Gahs#p388)
 FRAGMENTOS DIVERSOS | [389](../Fragmentos_Diversos#p389)\-[393](../Fragmentos_Diversos#p393)
 ÍNDICE | [395](../Índice#p395)\-[400](../Índice#p400)
 Transliteración de los alfabetos orientales adoptados para las traducciones de los libros sagrados de Oriente | 401-404
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

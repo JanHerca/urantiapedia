@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. For it is declared in the good religion, that there is a fiend whom they call Sê<i>g</i> [^2], _and_, in every house _where_ an infant exists, that _fiend_ strives that she _may_ cause some misfortune to come upon that house. 6. _So_ it is necessary that they _should_ keep a cock _on_ the watch for her, so that it _may_ smite that fiend and force _her_ to the road _away_ from that house.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

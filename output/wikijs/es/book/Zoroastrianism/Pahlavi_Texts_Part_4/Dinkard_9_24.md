@@ -61,6 +61,8 @@ _ellos_ lo consideraron _el hombro _de_ [^7] Arekdvîksûr [^8], _y su_ pecho y 
 
 21\. La justicia es la excelencia perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

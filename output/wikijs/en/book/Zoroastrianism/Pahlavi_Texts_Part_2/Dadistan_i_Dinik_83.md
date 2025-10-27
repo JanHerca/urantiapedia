@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. _As to_ the priestly man who shall undertake all the religious rites, if _he be_ living comfortably (hû-zîvi<i>s</i>nŏ) on a share of our house-rulership [^2], <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> village-rulership, tribe-rulership, and province-rulership, and his needful support of religion remain the consideration as to his living comfortably, and he have no need for the stipend of all the religious rites, then the rule for him is to distribute properly that recompense of the sacred feast [^3], which is to be given _for_ all the religious rites, among the solemnizers [^4]. 5. If _it be_ needful for him, the priestly man, as he is suitable, is not changed—whereby good management is not attained—and _if it be_ needful even for his consideration of all those religious rites, his performance in the duty and ministration is then an approval of worthiness _and_ management. 6. When they shall act so, all those religious rites are more meritoriously managed; and one day the solemnizers are brought from the fag-end (sar) into the rank of priestly manhood, which is the stipend for all the religious rites that they shall expressly take authorisedly, and are, therefore, worthy of it  [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

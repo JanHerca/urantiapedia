@@ -130,6 +130,8 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

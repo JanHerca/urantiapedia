@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 6\. Se declara en el comentario (zand) [^10] del Vohûman Ya<i>s</i>t, Horvada<i>d</i> Ya<i>s</i>t y Â<i>s</i>tâ<i>d</i> Ya<i>s</i>t <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> que, durante este tiempo, el maldito Mazdîk hijo de Bâmdâ<i>d</i>, que se opone a la religión, se hace notar y debe causar disturbios entre aquellos en la religión de Dios (yazdân). 7. _Y_ él, el glorificado_ [^11], convocó a Khûsrô hijo de Mâh-dâ<i>d</i> y a Dâ<i>d</i>\-Aûharmazd de Nishâpûr, que eran sumos sacerdotes de Âtarô-pâtakân, y Âtarô-frôbâg el inengañoso (akadbâ), Âtarô-pâ<i>d</i>, Âtarô-Mitrô, y Bakht-âfrî<i>d</i> a su presencia, y les exigió una promesa [^12], así: «No guardéis estos Ya<i>s</i>ts en ocultamiento, _y_ no enseñéis el comentario excepto entre vuestros parientes [^13]». 8. Y le hicieron la promesa a Khûsrô.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

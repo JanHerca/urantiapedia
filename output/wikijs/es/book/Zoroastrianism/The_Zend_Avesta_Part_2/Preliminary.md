@@ -95,6 +95,8 @@ El orden sistemático tan evidente en el Sîrôzah impregna en gran medida el re
 
 La idea misma del Sîrôzah, es decir la atribución de cada uno de los treinta días del mes a ciertos dioses, parece haber sido tomada de los semitas: las tablillas encontradas en la biblioteca de Assurbanipal contienen un Sîrôzah asirio, es decir, una lista completa de los dioses asirios que presiden los treinta días del mes [1](../Sirozahs_1#fn4).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

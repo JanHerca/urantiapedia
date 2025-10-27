@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 1\. On the conflict [^1] of the creations of the world with the: antagonism of the evil spirit it is said in revelation, that the evil spirit, even as he rushed in and looked upon the pure bravery of the angels and his own violence [^2], wished to rush back. 2. The spirit of the sky is himself like one of the warriors who has put on armour; he arrayed the sky against the evil. spirit, and led on in the contest, until Aûharmazd had completed a rampart around, stronger than the sky and in front of the sky. 3. And his guardian spirits (fravâhar) of warriors and the righteous, on war horses and spear in hand, were around the sky; such-like as the hair on the head is the similitude (ângunî-aîtak) of those who hold the watch of the rampart. 4. And no passage was found by the evil spirit, who rushed back; and he beheld the annihilation of the demons and his own impotence, as Aûharmazd, _did_ his own final triumph, producing the renovation _of the universe_ for ever and everlasting.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

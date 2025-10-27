@@ -47,6 +47,8 @@ SAD DAR.
 
 12\. Que la paix de l'Être sacré, le Très-Haut, soit sur les âmes de ceux qui connaissent la religion du pur Zaratu<i>s</i>t, du Spitamân, et de ceux qui sont purs et vertueux. 13. Pour les âmes de ces personnes, il est souhaitable qu'elles accomplissent chaque devoir par l'autorité (dastûrî) de la sagesse des grands prêtres [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

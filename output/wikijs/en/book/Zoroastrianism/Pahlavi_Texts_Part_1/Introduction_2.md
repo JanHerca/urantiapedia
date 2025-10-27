@@ -90,6 +90,8 @@ The oldest Pahlavi manuscript known to be extant, consists of several fragments 
 
 Pahlavi literature reached the zenith of its prosperity about thirteen centuries ago, when it included the whole literature of Persia. Seventy years later its destruction commenced with the fall of the Sasanian dynasty (A.D. <span id="pxxii"><sup><small>[ p. xxii ]</small></sup></span> 636-651); and the subsequent adoption of the modern Persian alphabet gave it its death-blow. The last remnants of Pahlavi writings are now contained in the few manuscripts, still preserved by the Parsis in Western India, and their almost-extinct brethren in Persia. A careful estimate of the length of these remnants, so far as they are known to, Europeans, has shown that the total extent of existing, Pahlavi literature is about thirty-six times that of the Bundahi<i>s</i>, as translated in this volume. One-fifth of this, literature consists of translations accompanying Avesta texts, and the remaining four-fifths are purely Pahlavi works which are nearly all connected with religion. How much of this literature may have descended from Sasanian times can hardly be ascertained as yet; in fact, it is only very recently that any trustworthy data, for determining the age of a few Pahlavi writings, have been discovered, as will be explained hereafter, when considering the age of the Bundahi<i>s</i>.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Quiconque a acquis la richesse par le crime, et s'en réjouit [^1], alors ce plaisir est pire pour lui que le malheur. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

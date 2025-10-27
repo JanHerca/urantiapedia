@@ -50,6 +50,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 13\. When the period is so unworthy, the fiend so abundantly contentious, and the hasty preparer of holy-water of such base origin (dû<i>s</i>\-vêkh) [^12]\—which _happens_, moreover, when the good are equally low-minded (ham-bâstŏ-mînisnŏ)—we strive for _what_ encourages the preparation of that even which is a collectively virtuous profession. 14. Then, too, _there_ remains such rising in strength of many new _things_ from very many countries, which is particularly grievous distress and danger to us; they deliver tokens _of them_ to us applaudingly, _and_ the expansibility of the words of the delivering diffuser of these and also other religious customs, as the sacred beings' own persistency and complete glory, is a great _and_ powerful capability.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Car il est déclaré dans la révélation que du devoir [^7] _et_ de la bonne œuvre qu'ils accomplissent dans le doute – c'est-à-dire (ya'hnî), ils entretiennent un soupçon comme celui-ci, « Je ne sais pas si cette foi, que je possède, est meilleure _en comparaison_ des autres croyances » – aucun mérite ne vient à leurs âmes. 7. Par conséquent, la première (avval) chose est de devenir constant dans la religion ; et c'est la principale de toutes les bonnes œuvres.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

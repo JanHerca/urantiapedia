@@ -50,6 +50,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 13\. Thus much splendour and wonder of Vi<i>s</i>tâsp _and_ those of the realm regarding Zaratû<i>s</i>t [^12], and thus much due to the coming of the archangels from the sky to the earth before Vi<i>s</i>tâsp, as evidence about the true prophesying of Zaratû<i>s</i>t [^13]; and that, too, about Pêshyôtan [^14], the chariot of Srîtô [^15], and other subjects seen written above, _are_ declared by the Avesta, which is the same that they accepted from Zaratû<i>s</i>t, as the culmination [^16] (<i>a</i><i>v</i>arîgânîh) of Aûha<i>r</i>ma<i>z</i><i>d</i>'s words. 14. And if this splendour, glory, _and_ wonder that _are_ written above as regards _what_ those learned _men_ of the realm saw—which _are_ in the statement revealed by the Avesta—_had_ not occurred, king Vi<i>s</i>tâsp and those learned _men_ of the realm would not have seen what this Avesta had revealed to them—which _was_ thus much splendour and wonder reported by it to them—_and_ not one word about leaving _its_ preservation to us would be annexed.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

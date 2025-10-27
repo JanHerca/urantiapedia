@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Para que _puedan_ mostrar a tu alma, _al_ [^6] renunciar a la vida, la satisfacción (i<i>g</i>zâ) por el pecado, <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> establece, en el comentario del Vendîdâ<i>d</i>, _en cuanto a_ cualquiera por quien se perpetra una calumnia, si _la persona agraviada_ se presenta ante él _y_ le pide un regalo justo, y él le proporciona un regalo justo para esa _persona_, el pecado se aleja de él.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

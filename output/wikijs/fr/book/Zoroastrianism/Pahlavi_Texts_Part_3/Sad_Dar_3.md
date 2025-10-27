@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. De même (maTHalâ<i>m</i>), si quelqu'un est en route, occupé à son propre travail, et qu'un voleur tombe sur <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> lui en chemin et lui enlève ses biens (qumâ<i>s</i>), ou qu'il est tué [^4], ils lui rendent dans cet _autre_ monde quatre _choses_ pour chaque [^5] de ce qu'ils ont emporté. 5. S'il est tué, il devient juste, tout péché qu'il a commis s'éloigne de lui, et ils le transportent au ciel. 6. Mais (ammâ) s'il commet une faute (bâ<i>t</i>il) dans un devoir, et qu'un voleur tombe sur lui en chemin [^6] et lui emporte ses biens (mâl), ou s'il est tué, lorsqu'il descend dans cet autre monde [^7], tous les biens que d'autres lui ont pris deviennent comme s'ils étaient à lui qui les a pris à cette personne [^8] ; et, de plus, il se produit, en remplacement ('hivaʓ̣) de ces biens, le châtiment et le tourment qu'ils lui infligent. 7. _Et_ s'il est tué, c'est comme si celui qui les a pris à cette personne était celui qui avait innocemment tué cette personne qui arrive en enfer en rétribution (mukâfât) pour le péché.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

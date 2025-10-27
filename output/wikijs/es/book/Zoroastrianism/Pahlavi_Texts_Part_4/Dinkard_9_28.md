@@ -47,6 +47,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 9\. La justicia es la excelencia _que es_ perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

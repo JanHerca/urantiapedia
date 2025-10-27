@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘Wisdom with which _there_ is no goodness, is not to be considered as wisdom; (5) and skill with which _there_ is no wisdom, is not to be considered as skill.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

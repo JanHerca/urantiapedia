@@ -65,6 +65,8 @@ _Hûspâram Nask_.
 
 40\. Lorsqu'un pécheur meurt sur le coup à cause de la peine de cicatrices, du travail ou de l'effort fourni pour accomplir la pénitence, et lorsqu'un homme est mort pénitent, mais incapable de désirer [^7] la rétribution du péché, et n'a pas expié dans l'existence terrestre, quelle est la nature de l'impuissance de son âme due au péché ? 41. De ceux pour qui il n'y a pas de rétribution du péché. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> 42\. De quel genre de contestation un pauvre homme, dépouillé de ses biens ? D'abord, à l'égard de l'oppresseur qui était le pilleur, puis, après avoir demandé des poursuites pénales, par l'intermédiaire des juges, contre son oppresseur, jusqu'au remboursement de ses biens. 43. À propos du fait d'être livré à la détresse et au désastre [^8], et de la décision qui en découle. 44. À propos de l'oppression de la grande pollution de la cupidité (<i>â</i><i>z</i>ŏ) qui est due à toute sa méchanceté, et de l'arrangement du créateur à ce sujet pour empêcher le même démon [^9] de détruire toute la création du monde. 45. À propos de la grande judicieuse d'un homme en manque de pouvoir _étant_ bon, pour préserver sa propre vie et la rendre nourrissante.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

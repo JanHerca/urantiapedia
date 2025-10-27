@@ -86,6 +86,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 155\. Upon this subject, however, as far as here is complete.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

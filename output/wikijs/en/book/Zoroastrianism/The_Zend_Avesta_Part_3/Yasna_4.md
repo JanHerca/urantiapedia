@@ -90,6 +90,8 @@ We worship the Bountiful Immortals who rule aright, and who dispose of all arigh
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

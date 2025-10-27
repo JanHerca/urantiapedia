@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that the archangels are immortal and undistressed; their place, also, is in that best existence of light, all-glorious, all-delightful, _and_ undisturbed; and the strength of the stench due to the demons [^1] does not reach unto _anything_ pertaining to the archangels. 3. The, archangels are omniscient [^2], friendly to the creatures, persistent, _and_ procure forgiveness; they know that heinous practice which is the heinous practice [^3] of that wretched dupe (frîftakŏ) who _has_ become defiled in that most filthy manner (zî<i>s</i>ttûm ârang), which is like that which is provided _and_ which is applied to him even in the terrible punishment [^4] that _has_ come upon him from the demons; and then, on account of _their_ friendliness to the creatures, it _has_  <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> seemed to them severe, and thereby arises their forgiveness which is according to whatever anguish is owing to the torment which galls him.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

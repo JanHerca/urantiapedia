@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Et, pour les femmes [^3], il n'y a pas de devoir plus indispensable que celui-ci ; car il est déclaré dans la révélation que, lorsqu'elles célèbrent un Dvâzdah-hômâst, c'est une bonne œuvre de cent mille Tanâvars [^4], et si <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> ce sont les jours du Dvâzdah-hômâst, c'est une bonne œuvre de mille mille Tanâvars, et lorsqu'elles le célèbrent de jour, c'est une bonne œuvre tout comme celle-ci.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

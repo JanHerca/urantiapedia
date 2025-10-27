@@ -87,6 +87,8 @@ El comienzo de la segunda subdivisión [^36].
 
 Dk. IX, Cap. XLVII, 11, se refiere a Pahl. Yas. XIX, 12-15, que se cita en Sls. X, 26, de forma más breve y modificada: «Como dice el Bák: «Quienquiera que murmure: «¡Oh, Zaratûs!», mi porción del Ahunavair (es decir, que la tome suavemente en su interior) y la deje escapar [^50] de nuevo (es decir, que la pronuncie en voz alta) aunque sea la mitad, un tercio, un cuarto o un quinto, yo, que soy Aûha<i>r</i>ma<i>z</i><i>d</i>, protegeré su alma [^51] de la mejor existencia (es decir, la mantendré alejada) con una extensión tan grande como el ancho de esta tierra».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

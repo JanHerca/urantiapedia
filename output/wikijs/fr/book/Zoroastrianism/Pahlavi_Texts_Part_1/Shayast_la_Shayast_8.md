@@ -66,6 +66,8 @@ dateCreated: 2025-10-10T14:56:40Z
 21\. Lorsqu'il a commis un péché mortel (marg-ar<i>g</i>ân) et s'engage mentalement dans la renonciation, et que le grand prêtre (ra<i>d</i>) sait que, bien qu'il doive abandonner son corps, il ne le cédera pas, cela lui est permis lorsqu'il le tuera, c'est-à-dire parce qu'il compte sur la bienfaisance (sû<i>d</i>) d'Aûharmazd. 22. De plus, d'après la règle (mank) « yazemna [^33] ka<i>d</i> nâ haka<i>d</i> » (« en étant adoré, que se passe-t-il alors à <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> fois », etc.), cela est évident, et cela devient sien par l'ablution cérémonielle des mains ; cela équivaut à toute une carrière (kânŏ) de bonnes œuvres, et l'adoration de Dieu (ya<i>z</i>i<i>s</i>ni yazdânŏ) doit être accomplie pour lui [^34]. 23. Âtarô-pâ<i>d</i> [^35] fils de Mâraspend a dit qu'il est toujours nécessaire d'être plus diligent dans l'accomplissement de son adoration de Dieu _au_ moment où de nombreux _péchés_ mortels sont commis, tous les péchés _étant_ admissibles à la renonciation, lorsque tu expieras par un sacrifice de soi complet (pûr-<i>g</i>ân-dâ<i>d</i>îhâ), _et_ lorsque _on_ s'engage dans la renonciation au péché depuis _sa_ racine, on devient _libéré_ du péché en renonçant duquel on s'est engagé ; car Aûharmazd n'abandonnera pas ses propres créatures à l'esprit maléfique, à moins qu'il ne soit sur le chemin de la non-renonciation.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

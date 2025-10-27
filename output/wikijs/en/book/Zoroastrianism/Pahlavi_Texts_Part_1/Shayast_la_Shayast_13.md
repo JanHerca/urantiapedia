@@ -110,6 +110,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 50\. The beginning of the Gâthas is Ahyâ-yâsâ (Yas. XXVIII, 1), and their end is drigavê vahyô (Yas. LII, 9, end); and _there_ are 278 stanzas, 1016 lines, 5567 words (vâ<i>k</i>ak), 9999 mârîk, and 16,554 khûr<i>d</i>ak [^89]. 51. For the lines and stanzas of the Gâthas _were_ collected by us, and were:—one hundred stanzas of the Ahunavaiti Gâtha (Yas. XXVIII-XXXIV), of which each stanza is three lines; forty stanzas of the Yasna _of seven chapters_ (Yas. XXXV-XLI, 17), <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> of which each stanza is three lines; sixty-six stanzas of the U<i>s</i>tavaiti Gâtha (Yas. XLII-XLV), of which each stanza is five lines, except Haê<i>k</i>a<i>d</i>\-aspâ (Yas. XLV, 15), for that one is four lines; forty-one stanzas of the Spe<i>n</i>tâ-mainyû Gâtha (Yas. XLVI-XLIX), of which each stanza is four lines; twenty-two stanzas of the Vohû-khshathra (Yas. L), of which each stanza is three [^90] lines; _and_ nine stanzas of the Vahi<i>s</i>tôi<i>s</i>ti (Yas. LII), of which each stanza is four lines, except Ithâ-î (Yas. LII, 6), for that one is a stanza of five;—the amount of the foregoing [^91] is 278 stanzas [^92].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

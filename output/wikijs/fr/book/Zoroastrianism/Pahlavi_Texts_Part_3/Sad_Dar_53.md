@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. _Et_, tandis que la personne est en voyage, elle _devrait_ ordonner la consécration de ce gâteau sacré, dans sa maison, chaque jour de Bahirâm [^4], afin que cette personne _puisse_ arriver en toute sécurité (salâmat) à _sa_ maison. 4. <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> La formule dédicatoire est la suivante : Amahê hutâ<i>s</i>tahê [^5] —_et_ elle est connue du prêtre lui-même.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

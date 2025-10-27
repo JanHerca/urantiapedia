@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 15\. Celui qui se lave selon la loi de ceux de la foi primitive, que beaucoup de grands prêtres maintiennent comme excellente, parce qu'elle est convenable, _et_ s'imagine que concernant le triple lavage on devrait dire que ce n'est pas convenable, même lui - alors qu'il est <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> aussi devenu du même avis à ce sujet, que les déclarations des grands prêtres sont sur un pied d'égalité, et que la meilleure preuve des grands prêtres est la bonne voie - aurait atteint la confiance à ce sujet, que dans une affaire douteuse _il_ devrait y avoir un grand prêtre [^13], et aussi ce dont _Afarg et Sôshâns _ont_ tous deux compris qu'une chose similaire est convenable.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

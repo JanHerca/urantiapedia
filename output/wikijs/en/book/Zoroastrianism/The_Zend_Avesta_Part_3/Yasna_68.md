@@ -60,6 +60,8 @@ dateCreated: 2025-2-12T12:15:42Z
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

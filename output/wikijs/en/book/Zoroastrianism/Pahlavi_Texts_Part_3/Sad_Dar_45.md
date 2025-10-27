@@ -44,6 +44,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 11\. Repentance is that when they accomplish repentance of the sin which they have committed, and do not commit that sin a second _time;_ if they do commit _it_, that _first sin_ then comes back [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

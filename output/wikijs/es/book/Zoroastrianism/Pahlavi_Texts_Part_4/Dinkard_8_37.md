@@ -79,6 +79,8 @@ _Hûspâram Nask_.
 
 52\. Perfecta es la excelencia de la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

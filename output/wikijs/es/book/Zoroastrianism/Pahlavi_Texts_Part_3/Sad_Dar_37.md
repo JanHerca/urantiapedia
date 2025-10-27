@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 9\. Por lo tanto, es necesario esforzarse para que puedan mantener debidamente a los espíritus guardianes, y que las almas de sus padres, madres y parientes puedan vivir con honor gracias a ellos. 10. Porque si se retiran insatisfechos, profieren una maldición, y, al partir el alma de este mundo, le infligen reproches, diciendo así: «Crees que continuamente quieren abrirte un camino [^7] a ese lugar, pero no es necesario que vengas a este mundo [^8]. 11. Ahora bien, si hubieras cumplido con tu deber y realizado buenas obras por nosotros, y nos hubieras recordado, también habríamos acudido en tu ayuda y te habríamos liberado de esta <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> terrible situación». 12. Y esa alma experimenta mucho arrepentimiento, y no obtiene ningún beneficio de ello.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

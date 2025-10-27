@@ -386,6 +386,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -412,124 +414,124 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1093]: 231:1 Sîrôzah I, 20.
+[^1035]: 231:1 Sîrôzah I, 20.
 
-[^1094]: 232:1 Verethraghna.
+[^1036]: 232:1 Verethraghna.
 
-[^1095]: 232:2 Zarathu<i>s</i>tra.
+[^1037]: 232:2 Zarathu<i>s</i>tra.
 
-[^1096]: 233:1 As above, § 3.
+[^1038]: 233:1 As above, § 3.
 
-[^1097]: 233:2 As above, § 4.
+[^1039]: 233:2 As above, § 4.
 
-[^1098]: 233:3 As above, § 5.
+[^1040]: 233:3 As above, § 5.
 
-[^1099]: 234:1 Doubtful (vadharôi<i>s</i>).
+[^1041]: 234:1 Doubtful (vadharôi<i>s</i>).
 
-[^1100]: 234:2 Doubtful (dadãsôi<i>s</i>).
+[^1042]: 234:2 Doubtful (dadãsôi<i>s</i>).
 
-[^1101]: 234:3 ? Urvatô; cf. § 19.
+[^1043]: 234:3 ? Urvatô; cf. § 19.
 
-[^1102]: 234:4 Tame, domesticated.
+[^1044]: 234:4 Tame, domesticated.
 
-[^1103]: 234:5 ? Smar<i>s</i>nô.
+[^1045]: 234:5 ? Smar<i>s</i>nô.
 
-[^1104]: 234:6 ? Haitahê.
+[^1046]: 234:6 ? Haitahê.
 
-[^1105]: 235:1 Cf. Yt. X, 70.
+[^1047]: 235:1 Cf. Yt. X, 70.
 
-[^1106]: 235:2 Or better, rushing before. Cf. Yt. X, 127.
+[^1048]: 235:2 Or better, rushing before. Cf. Yt. X, 127.
 
-[^1108]: 236:1 ? Urvatô, pishatô.
+[^1049]: 236:1 ? Urvatô, pishatô.
 
-[^1109]: 236:2 The raven was sacred to Apollo. The priests of the sun in Persia are said to have been named ravens (Porphyrius). Cf. Georgica I, 45.
+[^1050]: 236:2 The raven was sacred to Apollo. The priests of the sun in Persia are said to have been named ravens (Porphyrius). Cf. Georgica I, 45.
 
-[^1110]: 236:3 Reading vîgâtavô.
+[^1051]: 236:3 Reading vîgâtavô.
 
-[^1111]: 236:4 Doubtful.
+[^1052]: 236:4 Doubtful.
 
-[^1112]: 237:1 The royal Glory is described flying in the shape of a raven, Yt. XIX, 35.
+[^1053]: 237:1 The royal Glory is described flying in the shape of a raven, Yt. XIX, 35.
 
-[^1113]: 237:2 Doubtful.
+[^1054]: 237:2 Doubtful.
 
-[^1114]: 237:3 While Ardashîr, the founder of the Sasanian dynasty, was flying from Ardavân, a beautiful wild ram ran after him and overtook him, and Ardavân understood from this that the kingly Glory had left him and had passed over to his rival (Shâh Nâmah, Ardashîr; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45).
+[^1055]: 237:3 While Ardashîr, the founder of the Sasanian dynasty, was flying from Ardavân, a beautiful wild ram ran after him and overtook him, and Ardavân understood from this that the kingly Glory had left him and had passed over to his rival (Shâh Nâmah, Ardashîr; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45).
 
-[^1115]: 239:1 Erezi, Pahl. gond (Old Zand-Pahlavi Dictionary, p. 11)
+[^1056]: 239:1 Erezi, Pahl. gond (Old Zand-Pahlavi Dictionary, p. 11)
 
-[^1116]: 239:2 See Vendîdâd XIX, 42.
+[^1057]: 239:2 See Vendîdâd XIX, 42.
 
-[^1117]: 239:3 Possibly, perceive.
+[^1058]: 239:3 Possibly, perceive.
 
-[^1118]: 239:4 Cf. Yt. XVI, 7, and Bundahi<i>s</i> XVIII, 6: 'those fish . . . . know the scratch of a needle's point (or better hole) by which the water shall increase, or by which it is diminishing' (tr. West).
+[^1059]: 239:4 Cf. Yt. XVI, 7, and Bundahi<i>s</i> XVIII, 6: 'those fish . . . . know the scratch of a needle's point (or better hole) by which the water shall increase, or by which it is diminishing' (tr. West).
 
-[^1119]: 239:5 Avakhshaity<i>a</i>u, the night before hu-vakhsha (before the time when the light begins to grow; midnight).
+[^1060]: 239:5 Avakhshaity<i>a</i>u, the night before hu-vakhsha (before the time when the light begins to grow; midnight).
 
-[^1120]: 239:6 Cf. Yt. XVI, 10, and Bundahi<i>s</i> XIX, 32: ‘Regarding the Arab p. 240 horse, they say that if, in a dark night, a single hair occurs on the ground, he sees it’ (tr. West).
+[^1061]: 239:6 Cf. Yt. XVI, 10, and Bundahi<i>s</i> XIX, 32: ‘Regarding the Arab p. 240 horse, they say that if, in a dark night, a single hair occurs on the ground, he sees it’ (tr. West).
 
-[^1121]: 240:1 Possibly the Gypaetus, the vautour doré.
+[^1062]: 240:1 Possibly the Gypaetus, the vautour doré.
 
-[^1122]: 240:2 ‘Even from his highest flight, he (the vulture) sees when flesh the size of a fist is on the ground’ (Bund. XIX, 31; tr. West). Cf. Horapollo (I, 11).
+[^1063]: 240:2 ‘Even from his highest flight, he (the vulture) sees when flesh the size of a fist is on the ground’ (Bund. XIX, 31; tr. West). Cf. Horapollo (I, 11).
 
-[^1123]: 241:1 Peshô-parena. The Vâre<i>n</i><i>g</i>ana is the same bird as the Vâraghna, the raven.
+[^1064]: 241:1 Peshô-parena. The Vâre<i>n</i><i>g</i>ana is the same bird as the Vâraghna, the raven.
 
-[^1124]: 241:2 The feather of the Vâre<i>n</i><i>g</i>ana plays here the same part as the Sîmurgh's feather in the Shâh Nâmah. When Rûdâbah's flank was opened to bring forth Rustem, her wound was healed by rubbing it with a Sîmurgh's feather; Rustem, wounded to death by Isfendyâr, was cured in the same manner.
+[^1065]: 241:2 The feather of the Vâre<i>n</i><i>g</i>ana plays here the same part as the Sîmurgh's feather in the Shâh Nâmah. When Rûdâbah's flank was opened to bring forth Rustem, her wound was healed by rubbing it with a Sîmurgh's feather; Rustem, wounded to death by Isfendyâr, was cured in the same manner.
 
-[^1125]: 241:3 Of him who holds that feather.
+[^1066]: 241:3 Of him who holds that feather.
 
-[^1126]: 241:4 ? Vaêsaêpa.
+[^1067]: 241:4 ? Vaêsaêpa.
 
-[^1127]: 241:5 That bird.
+[^1068]: 241:5 That bird.
 
-[^1128]: 242:1 Kai Kaus; when he tried to ascend to heaven on a throne carried by eagles (Journal Asiatique, 1881, I, 513).
+[^1069]: 242:1 Kai Kaus; when he tried to ascend to heaven on a throne carried by eagles (Journal Asiatique, 1881, I, 513).
 
-[^1129]: 242:2 A metaphor to express the swiftness of the wind, of the camel, and of the rivers.
+[^1070]: 242:2 A metaphor to express the swiftness of the wind, of the camel, and of the rivers.
 
-[^1130]: 242:3 Cf. Yt. V, 34.
+[^1071]: 242:3 Cf. Yt. V, 34.
 
-[^1131]: 242:4 The Sîmurgh; cf. [p. 241](#p241), note [^1065].
+[^1072]: 242:4 The Sîmurgh; cf. [p. 241](#p241), note 1065.
 
-[^1132]: 243:1 Doubtful.
+[^1073]: 243:1 Doubtful.
 
-[^1133]: 243:2 Or an arrow feathered with four Vâre<i>n</i><i>g</i>ana's feathers.
+[^1074]: 243:2 Or an arrow feathered with four Vâre<i>n</i><i>g</i>ana's feathers.
 
-[^1136]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
+[^1075]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
 
-[^1137]: 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vîmarezen, cf. Yt. I, 2; fra marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
+[^1076]: 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vîmarezen, cf. Yt. I, 2; fra marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
 
-[^1138]: 243:5 Cf. Yt. IV, 10.
+[^1077]: 243:5 Cf. Yt. IV, 10.
 
-[^1139]: 244:1 Against truth.
+[^1078]: 244:1 Against truth.
 
-[^1140]: 244:2 Cf. Yt. X, 108 seq.
+[^1079]: 244:2 Cf. Yt. X, 108 seq.
 
-[^1141]: 244:3 § 48; cf. Yt. VIII, 56.
+[^1080]: 244:3 § 48; cf. Yt. VIII, 56.
 
-[^1142]: 244:4 §§ 49-53 = Yt. VIII, 57-61.
+[^1081]: 244:4 §§ 49-53 = Yt. VIII, 57-61.
 
-[^1143]: 245:1 Gô<i>s</i>ûrûn or Drvâspa; see Yt. IX. The destruction of any living being is an injury to Drvâspa.
+[^1082]: 245:1 Gô<i>s</i>ûrûn or Drvâspa; see Yt. IX. The destruction of any living being is an injury to Drvâspa.
 
-[^1146]: 245:2 ? Vyâmbura.
+[^1083]: 245:2 ? Vyâmbura.
 
-[^1145]: 245:3 The Haperesi and the Neme<i>t</i>ka are probably some species of green wood; it is forbidden to put green wood in the fire as it kills it, and injures the Genius of Water at the same time.
+[^1084]: 245:3 The Haperesi and the Neme<i>t</i>ka are probably some species of green wood; it is forbidden to put green wood in the fire as it kills it, and injures the Genius of Water at the same time.
 
-[^1147]: 245:4 In order to strike.
+[^1085]: 245:4 In order to strike.
 
-[^1148]: 245:5 The general meaning of the last four clauses is that the impious are defeated.
+[^1086]: 245:5 The general meaning of the last four clauses is that the impious are defeated.
 
-[^1149]: 246:1 ? Sâiri-baoghem; cf. § 46.
+[^1087]: 246:1 ? Sâiri-baoghem; cf. § 46.
 
-[^1150]: 246:2 Nivazaiti; literally, swallow (? frôt ô bun burtan, Vend. V, 8 \[26\]).
+[^1088]: 246:2 Nivazaiti; literally, swallow (? frôt ô bun burtan, Vend. V, 8 \[26\]).
 
-[^1151]: 246:3 Literally, overtake.
+[^1089]: 246:3 Literally, overtake.
 
-[^1152]: 246:4 Cf. Yt. V, 85.
+[^1090]: 246:4 Cf. Yt. V, 85.
 
-[^1153]: 246:5 ? Asânem sighûirê.
+[^1091]: 246:5 ? Asânem sighûirê.
 
-[^1154]: 246:6 Cf. Yt. V, 69.
+[^1092]: 246:6 Cf. Yt. V, 69.
 
-[^1155]: 247:1 From Yasna X, 20 (62), where, instead of the words, ‘in the ox is our strength (amem), in the ox is our need,’ the text has, ‘in the ox is his need, in the ox is our need,’ meaning, ‘when we give him his need (water and grass), he gives us our need (milk and calves),’ (Pahl. tr.).
+[^1093]: 247:1 From Yasna X, 20 (62), where, instead of the words, ‘in the ox is our strength (amem), in the ox is our need,’ the text has, ‘in the ox is his need, in the ox is our need,’ meaning, ‘when we give him his need (water and grass), he gives us our need (milk and calves),’ (Pahl. tr.).
 
-[^1156]: 248:1 See [p. 120](../Yasts_10#p120), note [2](../Yasts_10#fn558).
+[^1094]: 248:1 See [p. 120](../Yasts_10#p120), note [2](../Yasts_10#fn558).
 
-[^1157]: 248:2 Who shall offer a sacrifice to Verethraghna.
+[^1095]: 248:2 Who shall offer a sacrifice to Verethraghna.

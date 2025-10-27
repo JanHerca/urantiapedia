@@ -45,6 +45,8 @@ I. Le dixième sujet est celui-ci, qu'il incombe à tous ceux de la bonne religi
 
 15\. Et, de plus, lorsque les archanges vinrent à la rencontre de Zaratu, ils portèrent également la ceinture sacrée à la taille ; et la caractéristique distinctive (farq) parmi les lois de l'être sacré est le port de la ceinture sacrée. 16. Cela incombe à la fois à la femme et à l'homme, et il est tout à fait (albattah) inapproprié qu'ils ne la portent pas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

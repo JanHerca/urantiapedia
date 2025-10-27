@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. _In_ like manner it is declared in revelation, that there are thirty-three ways to heaven, besides _that of_ the souls of the liberal. 7. If the soul be of any one else, it is not able to arrive in heaven [^4] by that way. 8. Besides _this_ happy [^5] way, a soul of the liberal is able to arrive in heaven by means of the thirty-three ways. 9. For no one is it easier to arrive in heaven than _for_ the liberal.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

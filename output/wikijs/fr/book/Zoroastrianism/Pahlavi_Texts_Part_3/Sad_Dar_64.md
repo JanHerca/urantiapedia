@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 10\. _Quant à_ celui qui a pris quelque chose <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> à un autre par la force, parmi les esprits, ils reprennent quatre _choses_ [^9] en compensation pour chacune d'elles. 11. Et si, _sur_ le_ lieu _où_ on_ le capture, il _rend_ commode de rendre quatre _choses_ en compensation _d'une_, quand ils ont pleinement compris, en capturant celui qui commet un vol de grand chemin, _qu'il _rend_ commode_ [^10], ils _peuvent_ le tuer sur-le-champ.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

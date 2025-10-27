@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. _And_, while the person is on the journey, he _should_ order the consecration of this sacred cake, in his house, every Bahirâm day [^4], so that that person _may_ arrive in safety (salâmat) at _his_ house. 4. <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> The dedicatory formula is this—Amahê hutâ<i>s</i>tahê [^5]—_and_ is known to the priest himself.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

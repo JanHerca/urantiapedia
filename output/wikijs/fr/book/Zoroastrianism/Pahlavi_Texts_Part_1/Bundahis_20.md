@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 34\. De Frâsîyâ<i>v</i> [^61], ils disent qu'il conduisit mille sources dans la mer Kyânsîh [^62], propres aux chevaux, propres aux chameaux, propres aux bœufs, propres aux ânes, grands et petits [^63] ; et il conduisit la source Zarînmand (ou source d'or), qui est le fleuve Hêtûmand [^64], disent-ils, dans la même mer ; et il conduisit les sept eaux navigables de la source du fleuve Va<i>k</i>aêni [^65] dans la même mer, _et_ y fit établir des hommes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

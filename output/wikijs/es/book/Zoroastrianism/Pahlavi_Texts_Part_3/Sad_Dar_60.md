@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Y _es_ lo mismo con respecto al impuesto de capitación, también es indispensable darlo como una especie de ayuda, para que _puedan_ dar a esa persona _su_ liberación ('<i>h</i>alâʓ), y _pueda_ permanecer en su propio lugar, _y_ el beneficio de una buena obra (THavâb) _pueda_ llegar a esa _otra persona_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

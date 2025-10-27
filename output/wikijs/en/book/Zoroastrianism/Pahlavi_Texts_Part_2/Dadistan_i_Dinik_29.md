@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that the lord of all _things_ is the creator who is persistent over his own creatures, and a precious work is his own true service [^3] which is given by him to Srôsh the righteous whom, for this reason, _one_ is to reverence separately when even his name is not frequently mentioned, and _one_ is not even to reverence the names of the archangels with him.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

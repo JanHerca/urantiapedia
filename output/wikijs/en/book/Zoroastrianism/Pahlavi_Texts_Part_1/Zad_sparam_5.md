@@ -44,6 +44,8 @@ When in like manner, and equally oppressively, as his (Aûharmazd‘s) creatures
 
 5\. And this was the first contest [^7], _that of_ the sky with Aharman.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

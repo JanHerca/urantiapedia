@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le soixante-dix-huitième sujet est celui-ci : dans toute habitation où quelqu’un quitte <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> le monde, il est nécessaire de s’efforcer qu’il ne mange ni ne consacre de viande fraîche pendant trois jours [^1]. 2. Parce que le danger est que quelqu’un d’autre s’en aille ; les proches de cette personne ne devraient donc pas manger de viande pendant trois jours.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. And about the souls of the righteous and wicked, in the spiritual places they see the throne (gâs), which they deem a sight of Aûha<i>r</i>ma<i>z</i><i>d</i>. 5. And so also those who are domiciled with (hamnemân) Aharman, through that wisdom with reference to whose creator they shall suffer, will understand minutely as regards Aûha<i>r</i>ma<i>z</i><i>d</i> and the nature of Aharman (Aharmanîh). 6. And he who is of the righteous is delighted at escaping from Aharman _and_ coming to the existence pertaining to Aûha<i>r</i>ma<i>z</i><i>d</i>; and they shall offer homage to the glory [^3] of Aûha<i>r</i>ma<i>z</i><i>d</i>. 7. And he who is wicked, through being deceived by Aharman, and turning from the direction (pe<i>l</i>ag) of Aûha<i>r</i>ma<i>z</i><i>d</i>, becomes more vexed _and_ more penitent; the hope (zahî<i>s</i>nŏ) and forgiveness which he possesses, and the retribution _and_ manacling which are his among the fiends _and_ spirits through his own handiwork, are _by_ the permission which comes from the most persistent of the persistent [^4] at the period of the resurrection.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

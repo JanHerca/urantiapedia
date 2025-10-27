@@ -46,6 +46,8 @@ dateCreated: 2025-10-10T14:41:36Z
 10\. «_Y_ los vicios de los artesanos son la incredulidad, la falta de acción de gracias, la murmuración indebida de oraciones, el mal humor y el abuso.»
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

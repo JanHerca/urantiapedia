@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 15\. Y algo parecido a esto se desprende incluso de lo que el glorificado Nîshahpûhar, el supremo sacerdote oficiante [^34], y también otros sacerdotes oficiantes de Aûha<i>r</i>ma<i>z</i><i>d</i> _han_ dicho: _que no se debe_ cambiar ninguna de sus enseñanzas al respecto después de que _sea_ proporcionada, ni inutilizar las declaraciones de otras autoridades al respecto. 16. Pero lo que deben aceptar de ellos como una certeza es mantener las declaraciones de otros sumos sacerdotes como preeminente; _y_ no cambiar la operación de declaraciones de otra descripción que _haya_ parecido lícito. 17. Así fue como ese mismo Nîshahpûhar, en el concilio del glorificado (anôshakŏ rûbânô) Khûsrô [^35], rey de <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> reyes _e_ hijo de Kavâ<i>d</i>, al preservar las cosas antiguas (ligânŏ), mostró el camino en cuyos pensamientos están establecidas, y las escribió inalteradas, de modo que tales pensamientos al respecto quedaron, por así decirlo, decididos; y sus pensamientos al respecto, después de tal decreto suyo, se han vuelto unánimes. 18. Por la importancia de su rango asegurado y el resto de lo que dijo en la obra de sostener a los fieles, mantiene tanto como las otras declaraciones, una por una, de la enseñanza deliberativa de aquellos sumos sacerdotes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

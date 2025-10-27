@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 12\. And at the time of the renovation, when the fiend perishes, the souls of the wicked pass into melted metal (ayênŏ) [^10] _for_ three days; and all fiends and evil thoughts, which are owing to their sin, have anguish effectually, and are hurried _away_ by the cutting and breaking _away_ of the accumulation (ham-dâ<i>d</i>akîh) of sin of the wicked souls. 13. And by that pre-eminent (a<i>v</i>artûm) ablution in the melted metal they are thoroughly purified from guilt and infamy (dastŏ va raspakŏ), and through the perseverance (khvâparîh) [^11] and mercifulness of the pre-eminent persistent ones they are pardoned, and become most saintly (môgtûm) pure ones; as it is said in metaphor that the pure are _of_ two kinds, one which is glorious (khvârvatô), _and_ one which is metallic (ayênavatŏ) [^12]. <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> 14\. And after that purification _there_ are no demons, no punishment, _and_ no hell as regards the wicked, and their disposal (vîrâstakŏ) also is just; they become righteous, painless, deathless, fearless, and free from harm. 15. And with them comes the spirit of the good works which were done _and_ instigated by them in the world, and procures them pleasure and joy in the degree and proportion of those good works. 16. But the recompense of a soul of the righteous is a better formation (vêhdâ<i>d</i>îh) and more [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

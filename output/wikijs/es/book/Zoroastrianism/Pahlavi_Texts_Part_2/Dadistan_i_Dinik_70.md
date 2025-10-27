@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: cualquier lugar donde no se distingue una montaña y existe el lecho de un río, es una fisura (a<i>s</i>kûpŏ); y se declara claro que, incluso antes del crecimiento de las montañas, cuando la tierra era una llanura, por la sacudida del mundo, el mundo entero se rasgó (zandakŏ) [^2]. 3. Incluso <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> Frâsîyâ<i>v</i> de Tûr [^3] _era_ especialmente poderoso al causar la construcción de canales (vi<i>d</i>arg) allí donde _es_ montañoso, _y_ también _en_ ​​tierras bajas [^4], en las que no hay montañas, y el temblor en su creación _fue_ la formación de grandes manantiales hundidos [^5] y lechos de ríos. 4. Y si ha sido preparado _en, o_ si _está_ en un barranco (<i>s</i>ikaftŏ) de, las montañas, la causa, también, de la contracción, estruendo y desgarro de un río, si _su_ confinamiento _está_ en la tierra, es la resistencia que _encuentra_ al buscar un paso; y como es un manantial de las aguas de la tierra, así también lo es en la tierra, cuya contracción _y_ jadeo son poderosos _y_ llenos de fuerza. 5. Y cuando _llega_ el momento en que se quiera hacer un canal construido en la parte exterior de su barranco, en cuanto a la contracción que hay dentro de él, la resistencia por la cual se contrae en la parte exterior del barranco es el suelo [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

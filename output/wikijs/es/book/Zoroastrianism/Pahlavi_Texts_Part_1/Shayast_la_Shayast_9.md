@@ -57,6 +57,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 14\. «¡Oh, creador! ¿Cuánto dura la vida de quien ha muerto?» Y Aûharmazd habló así: «¡Tan larga como el ala de una mosca, oh Zaratû<i>s</i>t el Spîtâmân! O tan larga como el oído como el ala de un ciego» [^27].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

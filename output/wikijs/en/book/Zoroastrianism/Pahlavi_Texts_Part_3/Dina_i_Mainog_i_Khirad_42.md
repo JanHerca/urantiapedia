@@ -44,6 +44,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 12\. ‘A demi-demon is he in whom _there_ is only as _it were_ the name of man [^1] and the human race, _but_ in his doing of every action _he_ is then like unto a two-legged demon. 13. He understands no worldly and no spiritual _existence_, (14) he understands no good work and no sin, (15) he understands no heaven and no hell, (16) and even the account which is _to be rendered_ by the soul he does not think of.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

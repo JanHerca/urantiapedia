@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 10\. Et ceux qui sont souillés par une propension à la puanteur accueillent par là même les démons et les démons [^15], et sont loin de la bonne pensée [^16] en les vexant ; et il faut nécessairement se tenir à distance d'eux en s'asseyant et en mangeant avec eux, sauf dans la mesure où il peut être opportun de les inciter par des paroles à se retirer (pa<i>d</i>âli<i>s</i>nŏ) de leur péché, tout en les convertissant de cette propension. 11. Si quelqu'un meurt, ordonner une cérémonie pour lui est inconvenant, et l'accomplir serait interdit ; mais s'il le faisait avec pénitence, on serait alors autorisé à accomplir son cérémonial après les trois nuits [^17], car c'est le remède pour l'expiation du péché. 12. Et tant qu'il vit, il est dans les contingences (vakhtagânŏ) dues à la maladie par laquelle il est de cette façon un infâme (akhamî<i>d</i>âr), et il n'y a pas de préventifs (bôndagânŏ) ni de poudre médicinale pour cela ; ce sont aussi des enseignements pour le devoir et les bonnes œuvres d'un cérémonial pour l'âme [^18].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

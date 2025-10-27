@@ -46,6 +46,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 27\. ‘There is a place [^5] where, as to cold, _it_ is such as that of the coldest frozen [^6] snow. 28. There is a place where, as to heat, _it_ is such as that of the hottest and most blazing fire. 29. There is a place where noxious creatures are gnawing them, just as a dog _does_ the bones. 30. There is a place where, as to stench, _it_ is such that they stagger about (ba<i>r</i>â lar<i>z</i>ênd) [^7] _and_ fall down. 31. And the darkness <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> is always such-like as though it is possible for them to seize upon _it_ with the hand [^8].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

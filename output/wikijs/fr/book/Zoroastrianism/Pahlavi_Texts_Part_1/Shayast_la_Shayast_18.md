@@ -46,6 +46,8 @@ dateCreated: 2025-10-10T14:56:40Z
 4\. Aharman s'exclama ainsi : « Entre dans la fête des saisons ! Si l'un des présents vole une seule chose, la fête des saisons est violée, et l'affaire est conforme à [^5] ton souhait ; entre dans la fête sacrée [^6] ! Si un seul des présents bavarde, la fête sacrée est violée, et l'affaire est conforme à ton souhait ; mais évite le mariage entre proches [^7] ! car je ne connais pas de remède à cela ; car quiconque s'en est approché quatre fois ne sera pas séparé de la possession d'Aûharmazd et des archanges [^8]. »
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

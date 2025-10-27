@@ -86,6 +86,8 @@ Propitiation be to the created body of the Kine of blessed endowment, and to the
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -96,6 +96,8 @@ L'ordre systématique si apparent dans la Sîrôzah imprègne dans une large mes
 L'idée même de la Sîrôzah, c'est-à-dire l'attribution de chacun des trente jours du mois à certains dieux, semble avoir été empruntée aux Sémites : les tablettes retrouvées dans la bibliothèque d'Assurbanipal contiennent une Sîrôzah assyrienne, c'est-à-dire une liste complète des dieux assyriens qui président aux trente jours du mois [1](../Sirozahs_1#fn4).
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

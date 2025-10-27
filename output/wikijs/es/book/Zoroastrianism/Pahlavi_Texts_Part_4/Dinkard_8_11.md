@@ -44,6 +44,8 @@ dateCreated: 2025-10-10T14:41:43Z
 5\. La excelencia _que es_ perfecta es la justicia.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

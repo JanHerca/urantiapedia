@@ -46,6 +46,8 @@ Dk. VIII, Chap. XXXV III, 33, refers to the passage which contained the statemen
 
 Dk. VIII, Chap. XLIII, 33, refers to the passage which contained the statements thus mentioned in Sls. XII, 10, XIII, 30:—‘In the twenty-two [^5] _sections_ of the Sakâ<i>d</i>ûm grievous things are shown about those who do not make offerings unto the sacred beings.’ And, again, ‘while those nineteen (_stanzas of Yas. XLVI_) are our offering, which it says in the Sakâ<i>d</i>ûm should be my own, the strength and power of the sacred beings shall become more considerable, and the destroyer more perishable.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

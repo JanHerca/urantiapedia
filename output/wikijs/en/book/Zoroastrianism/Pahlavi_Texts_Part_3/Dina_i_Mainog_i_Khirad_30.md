@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. The spirit of wisdom answered (5) thus: ‘A life of him is the worse, who lives in fear and falsehood [^2]. 6. And in wisdom he is the more unforeseeing, who does not provide for [^3] the spiritual _existence_, and attends to the worldly _one_.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

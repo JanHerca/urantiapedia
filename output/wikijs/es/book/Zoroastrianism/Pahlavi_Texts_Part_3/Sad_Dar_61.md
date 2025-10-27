@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:41:36Z
 4\. En la revelación se dice que no hay más allá (â'<i>h</i>irat) para quienes hablan falsedades, y que entre la humanidad son despreciables ('haqîr). 5. Si tal hombre es poderoso (mu'hta<i>s</i>im), y no hay forma de evitarlo ('haDHar) en la vecindad <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> de la humanidad, no le tienen ningún respeto, y es claramente (farʓ̣âm) un mentiroso malvado. 6. Aunque posea mucha riqueza, toda se le escapará de las manos y, finalmente ('hâqibat), tendrá que mendigar a la humanidad, y su descendencia también se verá reducida [^4].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

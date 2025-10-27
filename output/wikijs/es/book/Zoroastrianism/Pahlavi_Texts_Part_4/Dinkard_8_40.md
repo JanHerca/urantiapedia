@@ -45,6 +45,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 5\. Sobre la razón por la cual el pecado de una persona perjudicada se vuelve inocente al no devolver un objeto dañado [^3]; y se ofrecen muchas opiniones sobre el mismo tema para nuestro beneficio.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

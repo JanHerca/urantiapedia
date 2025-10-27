@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El octogésimo octavo tema es este: en cuanto _a cualquier trozo_ de madera sobre el que se transporte un cadáver, o sobre el que se lave, y cualquier objeto que pueda estar contaminado con sangre e impureza, aquel sobre el que se deposite una impureza _menstrual_, o una extremidad desnuda por una mujer menstruante, y aquel sobre el que se empale a un ser humano, es necesario evitar todos estos _trozos_ de madera y no volver a trabajar con ellos, porque la vestimenta se vuelve impura; y no es apropiado quemarlos. 2. Es necesario colocarlos en un lugar donde quien los arranque y los remueva no los ponga al servicio de la humanidad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

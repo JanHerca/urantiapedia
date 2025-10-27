@@ -57,6 +57,8 @@ E. W. WEST.
 &nbsp;&nbsp;MUNICH,  
 September, 1882.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

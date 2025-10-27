@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. In order that they _may_ show thy soul, _when_ [^6] resigning life, the satisfaction (i<i>g</i>zâ) for the sin, it <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> states, in the commentary of the Vendîdâ<i>d</i>, _as to_ any one by whom slander is perpetrated, if _the injured person_ goes before him _and_ begs a righteous gift from him, and he provides a righteous gift for that _person_, the sin departs from him.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

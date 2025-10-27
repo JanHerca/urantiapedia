@@ -88,6 +88,8 @@ Adoramos a los Generosos Inmortales que gobiernan con rectitud y disponen de tod
 
 26\. Y adoramos a aquel de entre los seres cuyo superior servicio en el sacrificio Ahura Mazda conoce, y por su rectitud (que él mantiene, y adoramos a aquellos de todos los seres femeninos) cuyo (servicio superior es así igualmente conocido; sí, adoramos a todos los seres masculinos y femeninos (que son tales) [^944]!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

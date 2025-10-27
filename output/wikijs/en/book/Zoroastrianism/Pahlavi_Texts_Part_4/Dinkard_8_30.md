@@ -42,6 +42,8 @@ _Hûspâram Nask_.
 
 9\. About a house in which a person, _or_ dog, _has_ passed away through contagious sickness, and the clothing which the man wore owing to that sickness; that is, how it is when spoiled for selling _for_ three _years_, how it is when _it is so for_ two _years, and_ how it is _when it is so for_ one year. About a house in which a person, or dog, _has_ reposed in a contagious sickness, _and_ not passed _away_ after _his_ descent therefrom; _and_ the clothing which the man wore in that sickness; that is, how it is when spoiled for selling _for_ two _years_, how it is when _it is so for_ one year, and how it is when _it is so for_ thirty nights; _and_ whatever is on the same subject. <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> 11\. About forming a family (gôharik ka<i>r</i><i>d</i>anŏ) with foreigners, that is, how it is when allowable. 12. About a sheep of _good_ breed for the three nights [^4], _and its_ slaughter after the three nights; likewise many other decisions as regards superiority and sheep of a _good_ breed.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

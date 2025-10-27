@@ -43,6 +43,8 @@ Un commentaire Pahlavi sur Yt. VI, 2 contenait peut-être autrefois le passage a
 
 Peut-être l'un des cinq Ya<i>s</i>ts, XI, XII, XIII, XV, XVIII, respectivement dédiés à Srôsh, Rashnû, aux esprits gardiens, au bon Vâê et à Â<i>s</i>tâ<i>d</i> — les êtres sacrés spécialement apaisés par les cérémonies après un décès — a-t-il pu inclure un commentaire contenant le passage ainsi cité dans Vi<i>g</i>. pp. 157-158, sur la nécessité de nommer quelqu'un pour organiser de telles cérémonies pour un homme qui décède sans fils et pour administrer sa succession : « Par l'Avesta du Bagân-yast, il est déclaré : Yêzi narô pa<i>n</i><i>k</i>adasanghô saredhô irîraithyâ<i>d</i> avi hê urvânem bû<i>g</i>yânem thrâyô ayara uzayarana rathwô ha<i>n</i><i>g</i>amanem fra<i>g</i>asôi<i>d</i>, âa<i>d</i> hê aputhra angha<i>d</i> puthra fradadhâiti yatha<i>k</i>a nara irista vîspanãm avaretanãm shaêtavaitanãm avi hê frazai<i>n</i>tîm fra<i>g</i>asôi<i>d</i>, pas<i>k</i>aiti nemanguhaiti baoidhyêita<i>k</i>a urvâsnay<i>a</i>u. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

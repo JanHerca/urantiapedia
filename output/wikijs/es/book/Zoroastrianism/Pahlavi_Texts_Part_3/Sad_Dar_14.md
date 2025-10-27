@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 10\. Es absolutamente necesario que no los dejen intactos, pues podrían ser utilizados como armas (silâ'h) por los hechiceros [^11]. 11. Y también han dicho que, si caen en medio de la comida, existe peligro de consunción pulmonar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

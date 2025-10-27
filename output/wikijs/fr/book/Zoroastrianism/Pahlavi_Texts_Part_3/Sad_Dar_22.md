@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Car, dans le commentaire du Hâ<i>d</i>ôkht Nask, il est dit que quiconque accomplit <i>G</i>âda<i>n</i>gôî, et extrait quelque chose d'une personne pour son compte, et le lui transmet, est aussi exempt de malhonnêteté ('<i>h</i>iyânat) envers elle [^3], que celui qui pourrait <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> lui avoir donné de ses propres biens. 4. Et _dans_ l'_existence_ spirituelle, ils tiennent [^4] compte de ce profit pour lui, et de même qu'ils font le compte de la bonne œuvre de cette personne qui peut l'avoir donnée, de même est sa bonne œuvre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

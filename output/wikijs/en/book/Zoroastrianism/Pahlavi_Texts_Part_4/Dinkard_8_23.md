@@ -50,6 +50,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 19\. About the instruction which the shepherd _gives_ to the shepherd's dog, through reminders (pavan ayâ<i>d</i>îhâ), to control a sheep, when, the shepherd's dog _having_ heard _some musical_ notes (srû<i>d</i>ŏ gâsânŏ), the instruction took place in the form of words; and, when the notes _were_ not heard, even by a blow (zatam), the means of that instructor _being_ a blow. 20. About the peculiarity of the shepherd's dog as regards _its_ employment (rô<i>g</i>kâr) at the periods of satisfying menstrual excitement, solemnizing the season-festivals, _and_ other important good works.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

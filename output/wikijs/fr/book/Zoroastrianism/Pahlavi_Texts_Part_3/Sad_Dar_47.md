@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:56:50Z
 3\. C'est pourquoi, chaque fois qu'ils accomplissent la cérémonie _pour_ Srôsh, l'âme de cet enfant se sépare des âmes de _son_ père et de sa mère, et monte au ciel, et implore l'intercession (<i>s</i>ifâ'hat) pour _son_ père et sa mère en présence des êtres sacrés dans cet _autre_ monde.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

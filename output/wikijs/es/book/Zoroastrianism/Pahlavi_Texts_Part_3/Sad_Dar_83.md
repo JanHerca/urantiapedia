@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Puesto que he hablado de esta manera y he presentado el ayuno de los siete miembros del cuerpo, lo que en otras religiones es ayuno por no comer, en nuestra religión es ayuno por no cometer pecado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

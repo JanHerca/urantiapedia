@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 6\. Y también de mi partida, y de la inexistencia _de uno_ que es amigo tuyo, quien, como yo, es menos capaz de ser para tu daño que aquel que es _uno_ de los muchos acusadores de quienes soy yo quien los restringe, sabes esto, que mi venida se debe al afecto de algunos y a la reverencia de otros. 7. Del ejercicio de la religión no me _alejo_ en absoluto, y por el bien de la posición de la religión mantengo oposición [^5] a cualquiera; incluso cuando es un amigo _a quien_ amo, entonces soy su antagonista. 8. El destino (zîkŏ) [^6] es la gran verdad de lo vacío, la forma (andâm) [^7] que _ha_ procurado la luz de la vida.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

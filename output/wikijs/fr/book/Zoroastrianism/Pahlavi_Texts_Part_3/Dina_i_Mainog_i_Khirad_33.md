@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 9\. L'esprit de sagesse répondit ainsi : « Le pire est ce dirigeant qui n'est pas capable de maintenir le pays sans alarme ni le peuple sans trouble. 11. Le pire est ce chef qui est déficient en compétences, ingrat envers les agents (ka<i>r</i><i>d</i>ârân), et qui n'est ni aide ni intercesseur pour un serviteur (a<i>s</i>âk) [^2]. 12. Le pire est cet ami qui n'est pas digne de confiance. 13. Le pire est ce parent qui n'est d'aucun secours dans la maladie (khastânak) [^3]. 14. Le pire est cette épouse avec laquelle il n'est pas possible de vivre dans le plaisir. 15. Le pire est cet enfant qui n'est pas porteur de renommée. 16. Le pire est ce pays où il n'est pas possible de vivre dans le bonheur, l'intrépidité et la stabilité. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

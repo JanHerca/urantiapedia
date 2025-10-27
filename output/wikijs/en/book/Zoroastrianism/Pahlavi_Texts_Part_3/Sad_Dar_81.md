@@ -44,6 +44,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 13\. Therefore, make an effort, so that thou _mayest_ not postpone to-day's duty for to-morrow. 14. Because Aharman, the evil wicked _one_, has intrusted two fiends with this matter, the name of one is Tardy (dêr) and the name of the other is Afterwards (pas). 15. Both these fiends are united, _and_ they <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> make an effort and exertion [^8] with man, so that his duty falls back behindhand [^9]. 16. For, _as to_ every duty and good work which comes forward, that fiend whose name is Tardy speaks thus: ‘Thou wilt live long, and it is possible to perform this duty _at_ all times;’ and that fiend whose name is Afterwards says: ‘Pass on now; it is possible to perform _it_ afterwards.’ 17. And these two fiends united keep the soul away from its own duty, till the end arrives; all duties have fallen back behindhand, and _it has_ to experience regret (‘hasarat) and penitence. 18. It has no benefit through duty _and_ good works, _and_ departs from this world.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

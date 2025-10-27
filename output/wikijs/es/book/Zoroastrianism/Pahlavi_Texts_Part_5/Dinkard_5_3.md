@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 4\. La formación de la costumbre y las indicaciones que se han manifestado y llegarán en diversos períodos; y la proclamación de estas también por <i>G</i>âmâsp [^15], a partir de la enseñanza de Zaratû<i>s</i>t, es lo que escribió, junto con el Avesta y el Zand, sobre pieles de buey, y fue escrito _con_ oro, y guardado en el tesoro real [^16]. 5. Y fue de él que los sumos sacerdotes de los gobernantes hicieron muchas copias y, posteriormente, también, es de él que sucedió, tanto a los menos inteligentes como a los corruptores, que _introdujeron_ opiniones y puntos de vista diferentes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -52,6 +52,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 22\. It is the excellence _of_ righteousness _that is_ perfect.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -59,6 +59,8 @@ Dk. IX, chap. XVIII, 2, se réfère au passage ainsi cité dans Sls. X, 8 : « C
 
 Aucune allusion n'a été remarquée dans Dk. IX à un autre passage qui est ainsi cité dans Sls. XII, 32 : « Dans le Stûdgar, il est dit ainsi : « Qu'est-ce qui prépare l'éternuement ? c'est-à-dire, par quel processus (kâr) vient-il ? » Et Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : “Vivant affamé, <i>Ô Zaratû<i>s</i>t ! de plus, le remède à son existence est l'Ahunavair, <i>Ô Zaratû<i>s</i>t ! _et_ l'Ashem (aharâyîh). »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

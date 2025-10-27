@@ -158,6 +158,8 @@ Give unto that man [^213] brightness and glory, give him health of body, give hi
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -184,56 +186,56 @@ Give unto that man [^213] brightness and glory, give him health of body, give hi
 
 ## Footnotes
 
-[^194]: 35:1 The rest as above, Yt. I, 0.
+[^187]: 35:1 The rest as above, Yt. I, 0.
 
-[^195]: 35:2 Sîrôzah I, 1-2.
+[^188]: 35:2 Sîrôzah I, 1-2.
 
-[^196]: 35:3 Sîrôzah I, 3-4.
+[^189]: 35:3 Sîrôzah I, 3-4.
 
-[^197]: 36:1 Sîrôzah I, 5-7.
+[^190]: 36:1 Sîrôzah I, 5-7.
 
-[^198]: 36:2 Sîrôzah I, 7.
+[^191]: 36:2 Sîrôzah I, 7.
 
-[^200]: 36:3 Sîrôzah I, 7.
+[^192]: 36:3 Sîrôzah I, 7.
 
-[^201]: 37:1 Sîrôzah II, 1-2.
+[^193]: 37:1 Sîrôzah II, 1-2.
 
-[^202]: 37:2 Sîrôzah II, 3-4.
+[^194]: 37:2 Sîrôzah II, 3-4.
 
-[^203]: 37:3 Sîrôzah II, 5-7.
+[^195]: 37:3 Sîrôzah II, 5-7.
 
-[^204]: 37:4 Sîrôzah II, 7.
+[^196]: 37:4 Sîrôzah II, 7.
 
-[^205]: 38:1 Sîrôzah II, 7.
+[^197]: 38:1 Sîrôzah II, 7.
 
-[^206]: 38:2 Or: Let Zarathu<i>s</i>tra crush the Yâtus.
+[^198]: 38:2 Or: Let Zarathu<i>s</i>tra crush the Yâtus.
 
-[^207]: 38:3 The Yâtus are either demons or men: the man-Yâtu is the sorcerer, the wizard. Cf. Yt. VIII, 44.
+[^199]: 38:3 The Yâtus are either demons or men: the man-Yâtu is the sorcerer, the wizard. Cf. Yt. VIII, 44.
 
-[^208]: 38:4 Doubtful.
+[^200]: 38:4 Doubtful.
 
-[^209]: 38:5 I am unable to make anything of this section.
+[^201]: 38:5 I am unable to make anything of this section.
 
-[^210]: 39:1 Doubtful.
+[^202]: 39:1 Doubtful.
 
-[^211]: 39:2 See Yt. VIII, 5, 42; cf. § 20.
+[^203]: 39:2 See Yt. VIII, 5, 42; cf. § 20.
 
-[^212]: 39:3 Âtare-vîtaremaibyâ . . . . vîmrao<i>t</i>; cf. âtarâish . . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]): âtareman seems to be a sin by commission, vîtareman a sin by omission.
+[^204]: 39:3 Âtare-vîtaremaibyâ . . . . vîmrao<i>t</i>; cf. âtarâish . . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]): âtareman seems to be a sin by commission, vîtareman a sin by omission.
 
-[^213]: 39:4 Doubtful (fraspâvare<i>s</i>: fraspâ is generally translated ramîtûntan).
+[^205]: 39:4 Doubtful (fraspâvare<i>s</i>: fraspâ is generally translated ramîtûntan).
 
-[^214]: 39:5 Doubtful.
+[^206]: 39:5 Doubtful.
 
-[^215]: 39:6 Cf. Yt. XIII, too; XIX, 86; frava<i>s</i>nãm is the reverse of uzvazha<i>t</i> (1.1.).
+[^207]: 39:6 Cf. Yt. XIII, too; XIX, 86; frava<i>s</i>nãm is the reverse of uzvazha<i>t</i> (1.1.).
 
-[^216]: 39:7 The rest as above, § 1.
+[^208]: 39:7 The rest as above, § 1.
 
-[^218]: 40:1 The rest as above, § 2.
+[^209]: 40:1 The rest as above, § 2.
 
-[^221]: 40:2 The rest as above, § 3.
+[^210]: 40:2 The rest as above, § 3.
 
-[^224]: 40:3 The rest as above, §4.
+[^211]: 40:3 The rest as above, §4.
 
-[^225]: 40:4 The rest as above, § 5.
+[^212]: 40:4 The rest as above, § 5.
 
-[^226]: 40:5 Who shall offer a sacrifice to the Amshaspands.
+[^213]: 40:5 Who shall offer a sacrifice to the Amshaspands.

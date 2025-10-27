@@ -48,6 +48,8 @@ nourishes him, as all milk arises from the seed of the males, _and_ the blood is
 
 7\. As regards the fish [^2] it says that, at the time of excitement, they go forwards and come back in the water, two _and_ two, the length of a mile (hâsar), which is one-fourth of a league (parasang), in the running water; in that coming _and_ going they then rub _their_ bodies _together_, and a kind of sweat drops out betwixt them, and _both_ become pregnant.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

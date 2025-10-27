@@ -40,6 +40,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 5\. Por lo tanto, nos inclinamos ante Ti y te dirigimos nuestras oraciones con confesiones de nuestras culpas, ¡oh Ahura Mazda! Con todos los buenos pensamientos (que Tú inspiras), con todas las palabras bien dichas y las obras bien realizadas, con esto nos acercamos a Ti. 6. Y a Tu hermosísimo cuerpo [^1190] te damos nuestro más profundo reconocimiento, ¡oh Ahura Mazda!, a esas estrellas (que son Tu cuerpo); y a Aquel, el más alto de los altos, [como se llamaba el sol]!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

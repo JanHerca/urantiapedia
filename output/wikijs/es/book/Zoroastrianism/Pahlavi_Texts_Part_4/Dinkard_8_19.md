@@ -71,6 +71,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 62\. Sobre disparar una flecha a alguien digno de muerte, que se otorga de nuevo por matarlo a cualquiera a quien se le haya confiado la persona digna de muerte y se ponga suplicante (lânakŏ) y se aleje, y le brindarán asistencia y lo debilitarán por ello, cuando, mediante las tres palabras [^19] que pronuncie, no lo entreguen de nuevo. 63. Sobre alguien digno de muerte que es preservado con gran juicio cuando la evidencia, que dan antes de esa sobre él, es a través de otro digno de muerte, y todo lo relacionado con el mismo tema. 64. Sobre la evidencia de brujería y la destrucción de un hombre justo, es decir, en qué proporción <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> es cierto o dudoso. 65. Sobre causar la ejecución de _alguien_ digno de muerte _por_ tener afición a la brujería y reírse de la brujería, _y_ todo lo que tenga que ver con el mismo tema.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

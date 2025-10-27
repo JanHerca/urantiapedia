@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Il est donc nécessaire de faire un effort, afin qu'ils ne puissent pas donner aux indignes. 3. Car dans la révélation, en ce qui concerne [^1] celui qui fournit une munificence aux indignes, ils appellent cela une œuvre vaine et un don sans avantage ; et jour après jour, c'est [^2] <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> le châtiment et le tourment de cette personne. 4. Et, tout ce qu'ils donnent aux indignes, ils l'ont fait disparaître.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

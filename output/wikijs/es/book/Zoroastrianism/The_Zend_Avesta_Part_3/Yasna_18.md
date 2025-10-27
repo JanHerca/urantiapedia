@@ -37,6 +37,8 @@ dateCreated: 2025-2-12T13:0:42Z
 1\. Concédeme, Tú que creas las vacas, las plantas y las aguas, ¡la inmortalidad, Mazda! Concédeme también la riqueza, Espíritu generoso.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

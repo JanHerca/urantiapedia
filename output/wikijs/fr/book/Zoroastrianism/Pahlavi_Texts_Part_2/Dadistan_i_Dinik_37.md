@@ -117,6 +117,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 131\. De plus, tous les anges, les âmes et les esprits gardiens sont attentifs aux désirs _de_ la gloire du Créateur et à ses commandements, sans difficulté et avec une joie totale, à l'image des mers, des rivières, des montagnes, des arbres et des eaux [^182] ; et ils ont réconforté et décoré la création. 132. Et les anges, les âmes et les esprits gardiens, eux aussi esprits constitués d'un contact antérieur avec la vie, en sont satisfaits et réjouis ; éternels et parfaitement préparés, ils sont naturalisés dans cette joie complète.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

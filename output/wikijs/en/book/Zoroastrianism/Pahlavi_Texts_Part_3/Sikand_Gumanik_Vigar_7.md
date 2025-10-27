@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 22\. I _have_ also shown [^4], on this subject, through inevitable knowledge and through analogy, the making and qualification of the world and its circumstances _and_ appliances. 23. From the making and qualification of the world is manifested a maker and qualifier; (24) and [^5] \[through the purposely-made <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> work of the sagacious creator, (25) owing to\] the purposely-made work [^6], is manifested the existence of an injurer from without.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

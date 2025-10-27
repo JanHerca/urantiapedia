@@ -52,6 +52,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 40\. The evidence of the coming of the destroyer to the creatures, after the creation of the creatures, is the formation of the means of the creator, for encountering an opponent, before the arrival of the opponent, (41) which are omnisciently a provision before creation by the creator. 42. And there is a demonstrator of _these_ same means of the creatures that is prepared, which is the struggling opposed to the opponent through the arrangement of _their_ nature. 43. One duty of the nature of the creatures is the subduing of so much vexation. 44. Their preparation, too, is like a contest that is forming an enemy opposing the opponent, (45) and their natural desire for duty is removing all haste.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

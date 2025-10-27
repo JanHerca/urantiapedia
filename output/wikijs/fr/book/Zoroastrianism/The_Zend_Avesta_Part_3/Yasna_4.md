@@ -88,6 +88,8 @@ Nous adorons les Immortels Généreux qui gouvernent avec droiture et qui dispos
 
 26\. Et celui des êtres (que nous adorons) dont Ahura Mazda connaît la supériorité (du service) dans le sacrifice, et de sa droiture (qu'il maintient, et celles de tous les êtres féminins que nous adorons) dont (le service supérieur est ainsi également connu ; oui, tous) les êtres mâles et femelles que nous adorons (qui sont tels) [^944] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

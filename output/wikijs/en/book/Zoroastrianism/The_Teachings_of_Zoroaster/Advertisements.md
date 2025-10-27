@@ -163,6 +163,8 @@ JOHN MURRAY, ALBEMARLE STREET, LONDON, W.
 
 N.B.—The Editors will be pleased to receive suggestions and communications from all persons interested in Oriental literature.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

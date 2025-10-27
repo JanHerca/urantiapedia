@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 10\. En cuanto a Kangde<i>z</i>, _está_ en dirección al este, a muchas leguas del lecho (var) [^39] del océano ancho <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> hacia ese lado. 11. La llanura de Pê<i>s</i>yânsaî está en Kâvulistân, como se dice, que la meseta (bâlist) más notable en Kâvulistân está donde está Pê<i>s</i>yânsaî; allí hace más calor, en las elevaciones más altas no hay calor [^40]. 12. Aîrân-vê<i>g</i> está en dirección a Âtarô-pâtakân [^41]. 13. La tierra de S<i>a</i>ukavastân está en el camino de Tûrkistân a <i>K</i>înistân, en dirección al norte. 14. \[El recinto\] [^42] formado por Yim está _en_ ​​medio de Pârs, en Sruvâ [^43]; por lo tanto, dicen que _lo_ que Yim formó (Yim-kar<i>d</i>) está debajo del monte Yimakân [^44]. 15. Ka<i>s</i>mîr está en Hindûstân.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 16\. Parmi les petites mers, celle qui était la plus <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> saine [^18] était la mer Kyânsîh [^19], _telle_ qu'il y en a à Sagastân ; _au début, il n'y avait pas de créatures nocives, de serpents et de lézards (vazagh), _et_ l'eau était plus douce que dans toutes les autres mers ; plus tard (da<i>d</i>îgar) _elle devint_ salée ; au plus près, à cause de la puanteur, il n'est pas possible de s'approcher d'une lieue, tant la puanteur et la salinité sont grandes à cause de la violence du vent chaud. 17. Lorsque la rénovation de l'univers aura lieu, il _deviendra_ doux à nouveau [^20].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

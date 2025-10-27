@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 16\. Y siempre observas de tal manera que no saltes (la aîyyûkhtanŏ) sin mirar antes; pero la observación temporal no es nada comparado con lo que, por una analogía muy aguda, es lo que uno observa, con la vista bien dirigida, cuando el polvo de diversas clases se domestica con la vista del <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> ojo; y si su intelecto no es juicioso, se engaña maravillosamente; y ¿debería serlo incluso cuando menciona la existencia de dos lunas, quedando así más demostrada? 17. Es una costumbre sumamente provocadora en sí misma, y ​​se presenta de forma inquietante cuando yo, que creo con fervor, hubiera entregado incluso mi vida al puente de la perplejidad [^18] por su felicidad y disfrute. 18. Además, debido a mi falta de tiempo libre, incluso la información que se presenta, pidiendo paz, es información que creo con generosidad; y ser consciente de mi falta de tiempo libre es tanto beneficioso como perjudicial, y escribir sobre ello [^19] es, por lo tanto, milagroso. 19. Por lo tanto, siempre me es necesario, que yo, que estoy falto de tiempo libre, escribirles tanto sobre el acoso de los molestos y contra las disputas, cuyo fin no puedo concebir.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

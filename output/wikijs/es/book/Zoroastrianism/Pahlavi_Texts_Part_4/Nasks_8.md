@@ -77,6 +77,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 20\. El vigésimo libro se llama Vendîdâd [^28], y consta de veintidós subdivisiones, para evitar que la humanidad cometa malas acciones, del diablo y la desgracia, de los magos extranjeros y de quienes actúan según sus procedimientos y cometen crímenes. Se nos habla de sus crímenes entre la bondad y la pureza, la maldad y la impureza, y su explicación. <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> 21\. El vigésimo primero se llama Hâdokht [^29], y este libro consta de treinta subdivisiones, sobre la manera de reunir y la abundancia de milagros, así como su excelencia y conexión. Y el demonio maldito se aleja de todo aquel que recita este libro junto con el Ya<i>s</i>t [^30], y esta persona está cerca del rango (pâîgâh) de un ser sagrado, y sus pecados se vuelven puros; también en este libro el demonio maldito se vuelve maldito, y Dios lo sabe.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

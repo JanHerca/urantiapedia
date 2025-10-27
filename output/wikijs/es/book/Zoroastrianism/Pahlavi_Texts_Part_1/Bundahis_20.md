@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 34\. Respecto a Frâsîyâ<i>v</i> [^61], dicen que él condujo mil manantiales al mar Kyânsîh [^62], aptos para caballos, camellos, bueyes y asnos, tanto grandes como pequeños [^63]; y condujo el manantial Zarînmand (o fuente dorada), que es el río Hêtûmand [^64], dicen, al mismo mar; y condujo las siete aguas navegables de la fuente del río Va<i>k</i>aêni [^65] al mismo mar, _e_ hizo que los hombres se establecieran _allí_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

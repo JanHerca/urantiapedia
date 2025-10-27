@@ -68,6 +68,8 @@ PB3 (more than a century old) Pâz.-Sans., No. 3 of the Burnouf Collection in th
 
 R (modern) Pahl.-Pâz.-Sans.-Pers., formerly belonging to Mr. Romer, and now partly in the India Office Library at London, and partly in No. 10 of the Müller Collection in the State Library at Munich. It contains Chaps. I, 25-V, 57.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

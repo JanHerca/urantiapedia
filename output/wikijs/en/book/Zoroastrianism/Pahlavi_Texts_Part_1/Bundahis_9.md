@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 5\. From that same germ of plants the tree of all germs [^4] was given forth, _and_ grew up in the wide-formed ocean, from which the germs of all species of plants ever increased. 6. And near to that tree of all germs the Gôkar<i>d</i> tree [^5] was produced, for keeping away deformed (dûspa<i>d</i>) decrepitude; _and_ the full perfection of the world arose therefrom.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ Dk. VIII, Chap. XXXV III, 33, se réfère au passage qui contenait les déclarat
 
 Dk. VIII, Chap. XLIII, 33, se réfère au passage qui contenait les déclarations ainsi mentionnées dans Sls. XII, 10, XIII, 30 : « Dans les vingt-deux [^5] _sections_ du Sakâ<i>d</i>ûm, des choses graves sont montrées à propos de ceux qui ne font pas d'offrandes aux êtres sacrés. » Et, de plus, « tandis que ces dix-neuf (_strophes de Yas. XLVI_) sont notre offrande, alors qu'il est dit dans le Sakâ<i>d</i>ûm qu'elles devraient être miennes, la force et le pouvoir des êtres sacrés deviendront plus considérables, et le destructeur plus périssable. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

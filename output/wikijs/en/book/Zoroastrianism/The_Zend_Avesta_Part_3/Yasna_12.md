@@ -58,6 +58,8 @@ And so I myself, in whatsoever circumstances I may be placed, as a worshipper of
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

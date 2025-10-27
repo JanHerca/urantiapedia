@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. And _it is_ just like that with regard to poll-tax, it is also indispensable to give _it_ in semblance of help, so that they _may_ give that person _his_ release (‘<i>h</i>alâʓ), and he _may_ stay in his own place, _and_ the advantage of a good work (THavâb) _may_ come to that _other person_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

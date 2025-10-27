@@ -30,7 +30,7 @@ dateCreated: 2025-2-12T12:15:27Z
 </figure>
 
 
-<span id="pvii">[<sup><small>p. vii</small></sup>]</span>
+<span id="pvii"><sup><small>[ p. vii ]</small></sup></span>
 
 
 ## INTRODUCTION.
@@ -71,7 +71,7 @@ III (17-55). | Outrages | [39](../4#p39)
 (40-43). | Manslaughter | [44](../4#p44)
 (44-45). | Contracts | [45](../4#p45)
 (46, 49 \[bis\]-55). | False oaths | [45](../4#p45)
-(47-49). | Praise of physical weal | [46](../4#p46) <span id="pviii">[<sup><small>p. viii</small></sup>]</span>
+(47-49). | Praise of physical weal | [46](../4#p46) <span id="pviii"><sup><small>[ p. viii ]</small></sup></span>
 FARGARD V | &nbsp; | [48](../4#p48)
 I (1-7). | If a man defile the fire or the earth involuntarily, or unconsciously, it is no sin | [49](../5#p49)
 II (8-9). | Water and fire do not kill | [50](../5#p50)
@@ -100,7 +100,7 @@ VIII (45-49). | Purification of the earth, of the Dakhmas. The Dakhmas and the D
 IX (60-72). | Treatment of a woman who has brought forth a still-born child | [89](../7#p89)
 X (73-75). | Cleansing of vessels defiled by the dead | [91](../7#p91)
 XI (76). | Cleansing of the cow | [92](../7#p92)
-XII (77). | Unclean libations | [92](../7#p92) <span id="pix">[<sup><small>p. ix</small></sup>]</span>
+XII (77). | Unclean libations | [92](../7#p92) <span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 FARGARD VIII | &nbsp; | [93](../7#p93)
 I (1-3). | Purification of the house where a man has died | [93](../7#p93)
 II (4-13). | Funerals | [94](../8#p94)
@@ -135,7 +135,7 @@ IX (49-50). | Praise of the dog | [163](../13#p163)
 X (50-54). | The water dog | [163](../13#p163)
 FARGARD XIV. | THE ATONEMENT FOR THE MURDER OF A WATER DOG | [165](../13#p165)
 FARGARD XV. | &nbsp; | [172](../14#p172)
-I (1-8). | On five sins the commission of which makes the sinner a Peshôtanu | [172](../14#p172) <span id="px">[<sup><small>p. x</small></sup>]</span>
+I (1-8). | On five sins the commission of which makes the sinner a Peshôtanu | [172](../14#p172) <span id="px"><sup><small>[ p. x ]</small></sup></span>
 II (9-19). | On unlawful unions and attempts to procure abortion | [174](../15#p174)
 III (20-45). | On the treatment of a bitch big with young | [175](../15#p175)
 IV (46-51). | On the breeding of dogs | [180](../15#p180)
@@ -163,6 +163,8 @@ III c (12-17). | Joint invocation addressed to the waters and to the light of th
 IV (18-21). | Spells against disease | [229](../21#p229)
 FARGARD XXII. | ANGRA MAINYU CREATES 99,999 DISEASES: AHURA MAZDA APPLIES FOR HEALING TO THE HOLY WORD AND TO AIRYAMAN | [229](../21#p229)
 &nbsp; | Transliteration of Oriental Alphabets adopted for the Translation of the Sacred Books of the East | 237
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

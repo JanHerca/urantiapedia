@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 9\. The spirit of wisdom answered (it) thus: ‘That ruler is the worse, that is not able to keep the country unalarmed, and the people untroubled. 11. That chieftain is the worse, who is defective in ability, unthankful unto agents (ka<i>r</i><i>d</i>ârân), and no helper and interceder for a servant (a<i>s</i>âk) [^2]. 12. That friend is the worse, who is not fit to be relied upon. 13. That kinsman is the worse, who is no helper in illness (khastânak) [^3]. 14. That wife is the worse, with whom it is not possible to live with pleasure. 15. That child . is the worse, who is no bringer of renown. 16. And that country is the worse, in which it is not possible to live in happiness, fearlessness, and permanence.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

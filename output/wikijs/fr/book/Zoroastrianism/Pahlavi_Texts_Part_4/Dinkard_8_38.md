@@ -79,6 +79,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 63\. De la proportion de viande avec le pain en expiation de la privation de nourriture [^18]. 64. D'une épreuve sévère et d'une épreuve moins sévère ; et de la preuve d'acquittement qui en découle. 65. Des secrets de la religion et du péché dû à leur divulgation (gushûftŏ). 66. Du péché de dire du mal aux femmes d'autrui. 67. De l'étendue de la maison, du village, de la communauté et de la province les plus inférieurs ; et de celle des plus supérieurs. 68. Et du mode de résidence de Frashô<i>s</i>tar et de <i>G</i>âmâsp [^19] dans une armée de pillards (lâî<i>s</i>kar), et de leurs habitudes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

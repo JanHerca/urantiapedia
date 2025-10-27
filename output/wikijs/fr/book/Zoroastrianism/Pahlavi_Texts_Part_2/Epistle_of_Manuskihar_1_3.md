@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 17\. Le septième est celui-ci, que si aucun de ces six _dont_ j'ai_ écrit n'existe, même alors votre habileté approuvée (<i>s</i>îvagdârîh), qui a prôné l'absence de conflit, le discernement pour l'au-delà et la pleine conscience, <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> pratiquée [^24] l'attention au bien, et beaucoup d'affection [^25] pour les fidèles - si bienveillante, si sincère et si portée à louer (srî<i>d</i>anŏ), concernant tout ce que j'écris avec vérité et avec une véritable conviction - sont, je considère, pour faire provision, et _ont_ réalisé une préparation recherchée.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -118,6 +118,8 @@ Zarathoustra [^81].
 
 11\. Et quand la Justice (divine), le Bon Esprit (du Seigneur, et Sa) Puissance Souveraine (viendront-ils) se hâter [^84] vers moi (pour me donner la force pour ma tâche et ma mission), ô Grand Créateur, le Seigneur Vivant ! (Car sans lui, je ne peux avancer <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> ni entreprendre mon travail.) Accordez-nous donc maintenant votre aide et en abondance [^85] pour notre grande cause. Puissions-nous être (participants) de la grâce abondante de ceux qui sont vos égaux [^86] (vos conseillers et serviteurs) [^87] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

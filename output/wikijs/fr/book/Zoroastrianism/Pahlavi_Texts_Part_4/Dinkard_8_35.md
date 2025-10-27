@@ -56,6 +56,8 @@ _Maison de Nask_.
 15\. De la vigueur croissante de la femelle due à la monte du mâle, et de la vigueur diminuée du mâle due à la monte sur la femelle.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

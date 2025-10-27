@@ -40,6 +40,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 5\. Perfect is the excellence _of_ righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

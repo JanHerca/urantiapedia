@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 10\. _En cuanto a_ aquella persona que ha tomado algo <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> de otra por la fuerza, entre los espíritus se apoderan de cuatro cosas [^9] como compensación por cada una. 11. Y si, _en_ ​​el lugar _donde la gente_ lo captura, _le conviene_ devolver cuatro cosas_ en compensación _por_ una, cuando hayan comprendido plenamente, al capturar a esa persona que está cometiendo un robo en la carretera, _que_ le conviene [^10], _pueden_ matarlo de inmediato.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

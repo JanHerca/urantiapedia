@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. And there are several things the slaughter of which is very bad, and the sin very abundant, _as_ the lamb, the kid, the ploughing ox, the war horse, the swallow bird that catches the locust, and the cock; and of the whole of these the sin is most _as regards_ the cock. 4. If it becomes a necessity [^4], it is proper to kill a cock _that_ does not crow [^5], and it is necessary to consecrate their heads. 5. Any head of an animal, not consecrated, it is not desirable to eat, so that it becomes so far [^6] a righteous gift. 6. If _one_ be not able to consecrate the head, it is requisite to consecrate one kidney _as_ a substitute (badal) for it.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

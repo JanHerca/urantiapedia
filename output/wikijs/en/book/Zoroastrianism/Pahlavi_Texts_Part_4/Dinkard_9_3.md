@@ -42,6 +42,8 @@ _Sû<i>d</i>kar Nask_.
 
 2\. Of righteousness perfect is the excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

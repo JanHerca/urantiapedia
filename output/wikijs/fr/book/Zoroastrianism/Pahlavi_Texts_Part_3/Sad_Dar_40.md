@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 5\. Il est donc indispensable, trois fois par jour, de croiser les bras [^2] en présence de ces trois personnes et de dire : « Quelle est votre volonté (murâd) ? Afin que je puisse la penser, la parler et l’accomplir. » 6. Si ce qui n’était pas convenable est venu de moi de lui-même, il est nécessaire que vous fassiez un don juste en notre faveur.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

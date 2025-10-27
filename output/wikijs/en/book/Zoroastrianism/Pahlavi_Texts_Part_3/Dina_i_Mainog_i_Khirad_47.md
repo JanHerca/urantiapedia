@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 5\. The spirit of wisdom answered (6) thus: ‘It is wisdom which is better than the wealth of every kind which is in the world. 7. It is destiny which is predominant over every one and everything. 8. And _it is_ Vâê the bad [^1] from whom no one is able to escape.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

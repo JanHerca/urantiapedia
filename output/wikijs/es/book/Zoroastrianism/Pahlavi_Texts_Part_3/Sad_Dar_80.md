@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. En cuanto a ese Ashem-vohû cuya naturaleza [^6] es igual a diez, es cuando lo recitan mientras comen pan. 7. Aquello que, por naturaleza, es igual a cien, es cuando lo recitan después de comer [^7]. 8. Aquello que es tan grande por naturaleza que, habiéndolo dado la vuelta, lo recitan correctamente, puede ser un mérito de mil [^8]. 9. Aquello que es de la naturaleza de diez mil es lo que recitas al despertar [^9]. 10. Y aquello cuya naturaleza es igual a este mundo y a ese otro mundo [^10] es cuando lo recitan en el momento de la disolución de la vida; pues, si no puede recitarlo por sí mismo, amigos y parientes se lo dan en la boca. 11 [^11]. Si es apto para el infierno, se vuelve apto para lo eternamente estacionario; si es apto para lo eternamente estacionario, se vuelve apto para el cielo; _y_ si es apto para el cielo, se vuelve apto para el cielo supremo [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

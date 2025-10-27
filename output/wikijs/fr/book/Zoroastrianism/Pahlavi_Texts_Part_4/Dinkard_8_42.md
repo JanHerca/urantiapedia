@@ -45,6 +45,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 5\. De ceux qui appartiennent au lieu de l'épreuve (varistânîkân) et des autres fonctionnaires qui s'y trouvent, des rites et des coutumes qui s'y déroulent, du cérémonial qui doit être célébré dans la demeure, et de l'invocation des êtres sacrés pour obtenir de l'aide. 6. Comment est accomplie l'épreuve du chaud et du froid ; comment se fait la conduite de ceux qui l'accomplissent, et de quel Avesta est leur récitation élevée ; comment se déroule l'accomplissement de l'épreuve du chaud et du froid, et la manifestation de ceux qui sont acquittés et incriminés par elle ; et de nombreuses déclarations (gôkân) sur le même sujet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -40,6 +40,8 @@ dateCreated: 2025-10-10T14:41:43Z
 4\. La excelencia que es perfecta es la justicia.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

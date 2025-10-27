@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 12\. ‘And these are the people to be considered as poor:—(13) one is he _with_ whom there is no wisdom; (14) the second, whose body is not healthy; (15) the third, who lives in his fear, terror [^1], and falsehood; (16) the fourth, who is not ruling in his <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> own body; (17) the fifth, whose destiny is no helper; (18) the sixth, who is infamous in the eyes of the sacred beings, and _on_ the tongues of the good; (19) _and_ the seventh, who is old, _and_ no child and kindred exist.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

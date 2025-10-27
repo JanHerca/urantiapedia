@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. And if _one_ does not show a dog to the corpse, _and_ they take _it_ up, how many soever _there_ be, the whole _of them_ become polluted [^8]. 8. In the commentary of the Vendîdâ<i>d</i> it is asserted, that every one who takes up a corpse that a dog _has_ not seen is polluted and worthy of death [^9], and never becomes clean; his soul _also_ would be wicked.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

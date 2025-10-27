@@ -91,6 +91,8 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -117,52 +119,52 @@ Give unto that man brightness and glory, give him health of body, . . . . give h
 
 ## Footnotes
 
-[^451]: 88:1 The 12th, 2nd, 14th, and 21st days of the month.
+[^430]: 88:1 The 12th, 2nd, 14th, and 21st days of the month.
 
-[^452]: 88:2 The Amshaspand Bahman is entrusted with the care of cattle (Vend. XIX, 20, note 8).
+[^431]: 88:2 The Amshaspand Bahman is entrusted with the care of cattle (Vend. XIX, 20, note 8).
 
-[^453]: 88:3 The Genius of Cattle; see Yt. IX.
+[^432]: 88:3 The Genius of Cattle; see Yt. IX.
 
-[^454]: 88:4 Bahman is ‘good thought, good mind,’ Vohu-Manô; in the Vedas the moon is said to have been made out of the mind (manas) of Puru<i>s</i>a. For an explanation of that old mystical myth, see Ormazd et Ahriman, p. 74, note 3.
+[^433]: 88:4 Bahman is ‘good thought, good mind,’ Vohu-Manô; in the Vedas the moon is said to have been made out of the mind (manas) of Puru<i>s</i>a. For an explanation of that old mystical myth, see Ormazd et Ahriman, p. 74, note 3.
 
-[^455]: 88:5 See Vend. XXI, 9 \[51\], note 4.
+[^434]: 88:5 See Vend. XXI, 9 \[51\], note 4.
 
-[^456]: 88:6 Pahlavi commentary to this Ya<i>s</i>t, I.
+[^435]: 88:6 Pahlavi commentary to this Ya<i>s</i>t, I.
 
-[^457]: 88:7 Vend. Introd. IV, 16, and Études Iraniennes, II, 187 seq.
+[^436]: 88:7 Vend. Introd. IV, 16, and Études Iraniennes, II, 187 seq.
 
-[^458]: 89:1 Sîrôzah I, 12.
+[^437]: 89:1 Sîrôzah I, 12.
 
-[^459]: 89:2 See Vend. XXI, 1, text and note.
+[^438]: 89:2 See Vend. XXI, 1, text and note.
 
-[^460]: 89:3 When the moon allows itself to be perceived.
+[^439]: 89:3 When the moon allows itself to be perceived.
 
-[^461]: 89:4 The Pahlavi translation has the following interesting details: ‘For fifteen days they take good deeds from the earthly creatures and the rewards for virtue from the heavens; for fifteen days they make the rewards pass to the earth and the good deeds pass to the heavens.’ The moon is thus a sort of moral clearing-house between earth and heaven.
+[^440]: 89:4 The Pahlavi translation has the following interesting details: ‘For fifteen days they take good deeds from the earthly creatures and the rewards for virtue from the heavens; for fifteen days they make the rewards pass to the earth and the good deeds pass to the heavens.’ The moon is thus a sort of moral clearing-house between earth and heaven.
 
-[^462]: 89:5 According to the Parsis this waning does not refer to the moon, but to the constellations that help it in the struggle against the planets, which are supposed to belong to the Ahrimanian world (see Ormazd et Ahriman, §§ 223-226): ‘while it waxes—namely, the moon—they wane,—namely, those that are opposed to the planets, to the bad stars; for instance, Haftôiring, Vana<i>n</i><i>d</i>, Ti<i>s</i>tar, Satvês; . . . . while it wanes—namely, the moon—they wax, that is to say, they are strong for doing good.’ Thus the moon and the stars relieve each other in the battle against Ahriman.
+[^441]: 89:5 According to the Parsis this waning does not refer to the moon, but to the constellations that help it in the struggle against the planets, which are supposed to belong to the Ahrimanian world (see Ormazd et Ahriman, §§ 223-226): ‘while it waxes—namely, the moon—they wane,—namely, those that are opposed to the planets, to the bad stars; for instance, Haftôiring, Vana<i>n</i><i>d</i>, Ti<i>s</i>tar, Satvês; . . . . while it wanes—namely, the moon—they wax, that is to say, they are strong for doing good.’ Thus the moon and the stars relieve each other in the battle against Ahriman.
 
-[^463]: 89:6 Ahura.
+[^442]: 89:6 Ahura.
 
-[^464]: 89:7 Quoted from Yasna XLIV \[XLIII\], 3.
+[^443]: 89:7 Quoted from Yasna XLIV \[XLIII\], 3.
 
-[^465]: 90:1 As soon as the moon appears.
+[^444]: 90:1 As soon as the moon appears.
 
-[^466]: 90:2 Cf. Yt. VI, 2.
+[^445]: 90:2 Cf. Yt. VI, 2.
 
-[^467]: 90:3 Mi<i>s</i>ti, meaning sadâ, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09000.jpg) cf. mi-<i>s</i>â<i>k</i>i.
+[^446]: 90:3 Mi<i>s</i>ti, meaning sadâ, ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09000.jpg) cf. mi-<i>s</i>â<i>k</i>i.
 
-[^468]: 90:4 Zaremaêm, meaning vasantamâse, 09001
+[^447]: 90:4 Zaremaêm, meaning vasantamâse, 09001
 
-[^469]: 90:5 New moon and full moon are not used here in the English meaning: the month was divided into six parts, of five days each (the Norse fimt or five days’ week; see Vigfusson, Icelandic Dictionary, s. v.): the first five days (pan<i>k</i>ak fartûm) formed the new moon or a<i>n</i>tare-m<i>a</i><i>u</i>ngha, literally ‘the moon within;’ the next five days (pan<i>k</i>ak datîgar) formed the perenô-m<i>a</i><i>u</i>ngha, literally ‘the moon full,’ which in fact partly answered to our first quarter; the next five days (pan<i>k</i>ak sitîgar), belonging to the full moon, were called the Vîshaptatha; no mention is made of the last three pan<i>k</i>ak, forming the second half of the month. It may be they were not mentioned, as belonging to the waning period, when the powers of the moon are suffering an eclipse. Cf. Neriosengh to Yasna I, (23.)
+[^448]: 90:5 New moon and full moon are not used here in the English meaning: the month was divided into six parts, of five days each (the Norse fimt or five days’ week; see Vigfusson, Icelandic Dictionary, s. v.): the first five days (pan<i>k</i>ak fartûm) formed the new moon or a<i>n</i>tare-m<i>a</i><i>u</i>ngha, literally ‘the moon within;’ the next five days (pan<i>k</i>ak datîgar) formed the perenô-m<i>a</i><i>u</i>ngha, literally ‘the moon full,’ which in fact partly answered to our first quarter; the next five days (pan<i>k</i>ak sitîgar), belonging to the full moon, were called the Vîshaptatha; no mention is made of the last three pan<i>k</i>ak, forming the second half of the month. It may be they were not mentioned, as belonging to the waning period, when the powers of the moon are suffering an eclipse. Cf. Neriosengh to Yasna I, (23.)
 
-[^470]: 91:1 Or possessing: giving may be replaced by possessing in this word as in the following.
+[^449]: 91:1 Or possessing: giving may be replaced by possessing in this word as in the following.
 
-[^471]: 91:2 Vare<i>k</i>angha<i>n</i>tem: dânâk (Phl.); <i>g</i><i>ñ</i>ânitaram (Sansk.).
+[^450]: 91:2 Vare<i>k</i>angha<i>n</i>tem: dânâk (Phl.); <i>g</i><i>ñ</i>ânitaram (Sansk.).
 
-[^472]: 91:3 Kh<i>s</i>tâva<i>n</i>tem: lakshmîvantam (Sansk.).
+[^451]: 91:3 Kh<i>s</i>tâva<i>n</i>tem: lakshmîvantam (Sansk.).
 
-[^473]: 91:4 Yaokh<i>s</i>tiva<i>n</i>tem, ‘pondering on what good is to be done’ (vi<i>k</i>âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
+[^452]: 91:4 Yaokh<i>s</i>tiva<i>n</i>tem, ‘pondering on what good is to be done’ (vi<i>k</i>âryavantam kâryanyâyânâm; ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/09100.jpg)).
 
-[^474]: 91:5 Zairimyâva<i>n</i>tem: haritavar<i>n</i>avantam, kila p<i>ri</i>thivî(m) sârdratarâm karoti (Sansk.).
+[^453]: 91:5 Zairimyâva<i>n</i>tem: haritavar<i>n</i>avantam, kila p<i>ri</i>thivî(m) sârdratarâm karoti (Sansk.).
 
-[^475]: 91:6 Vohvâva<i>n</i>tern: uttamasam.iddhimantam (Sansk.).
+[^454]: 91:6 Vohvâva<i>n</i>tern: uttamasam.iddhimantam (Sansk.).

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 6\. Y Brâ<i>d</i>\-rûkhsh el Tûr salió; cuando él fue hacia el lado derecho (arakŏ), Zaratû<i>s</i>t se apresuró hacia la izquierda, y cuando él fue hacia el lado izquierdo, Zaratû<i>s</i>t se apresuró hacia la derecha, y de este modo queda oculto de Brâ<i>d</i>\-rûkhsh el Tûr, _quien_ no se ha encontrado con él.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

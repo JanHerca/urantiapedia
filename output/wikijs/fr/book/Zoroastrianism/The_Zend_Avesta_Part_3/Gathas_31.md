@@ -126,6 +126,8 @@ Traduction.
 
 21\. Mais Ahura Mazda donnera à la fois le Bien-être Universel et l'Immortalité [^267] dans la plénitude de Son Ordre Juste, et de lui-même [^268] en tant que chef [^269] de la Domination (parmi Ses saints). Et Il donnera également la force vigoureuse du Bon Esprit [^270] à celui qui, en esprit et en actes, est Son ami [^271], (et accomplit ses vœux avec foi [^272]) <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> 22\. Et pour le sage, ces choses sont claires comme pour celui qui discerne avec son esprit (non aveuglé par le pervers [^273]). Avec Ton Bon Esprit et Ton (saint) Royaume, il suit l'Ordre Juste tant dans ses paroles que dans ses actions. Et à Toi, ô Ahura Mazda ! un tel homme sera l’être le plus serviable et le plus vigoureux [^274] (car il sert avec toutes ses forces [^275]) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

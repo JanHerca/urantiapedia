@@ -108,6 +108,8 @@ Traduction.
 
 19\. (Oui, ceci, je l'annonce sincèrement.) Celui qui, par la Justice (en esprit et en vie), accomplira en vérité pour moi, pour Zarathoustra, ce qui est ainsi le plus utile (pour ma cause) selon mon souhait sincère (et par mes paroles de zèle pressant) sur lui, ils accorderont une ou des récompenses au-delà de cette terre, avec toutes les bénédictions mentales [^659] obtenues grâce au bœuf-mère sacré [^660]. Et ces choses (toutes), tu me les as (toi-même) commandées, ô Mazda, toi le plus sage [^661] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

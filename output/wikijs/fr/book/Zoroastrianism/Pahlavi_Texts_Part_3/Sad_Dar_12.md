@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. Et tous ceux qui pourront marcher après le cercueil (tâbût) et le cadavre marcheront. 9. Car chaque pas qu'ils font après un cadavre est une bonne œuvre de trois cents stîrs [^8] ; et chaque stîr vaut quatre dirhams, de telle manière que trois cents stîrs valent mille deux cents dirhams [^9]. 10. Pour chaque pas, il y a donc beaucoup de bonne œuvre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

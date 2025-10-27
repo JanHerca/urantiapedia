@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 6\. De même que par la sagesse est créé le monde de justice, par la sagesse est subjugué tout mal, et par la sagesse est perfectionné tout bien ; et la meilleure sagesse est la religion pure dont le progrès est celui réalisé par les défenseurs de la religion, la grandeur des meilleurs hommes parmi les justes, dans la destinée de qui _elle_ est, telle que celle qui _a été_ montrée à propos de Gâyômar<i>d</i>, Zaratû<i>s</i> et Sôshâns [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

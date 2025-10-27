@@ -128,6 +128,8 @@ Contre le perturbateur de la justice, le destructeur de vie impie, pensées et p
 
 32\. Contre le corps de la prostituée, avec ses esprits magiques bouleversés de plaisirs (enivrants) [^992], aux convoitises que sa personne offre, dont [^993] l'esprit comme une vapeur vacille comme il vole au vent, pour le saint juste qui périt, jaune H(a)oma, lance ta masse !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

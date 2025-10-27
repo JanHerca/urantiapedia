@@ -53,6 +53,8 @@ Pâz. MSS. (moderno), No. 22 de la Colección Haug en la Biblioteca Estatal de M
 
 Versión personal (compuesta en 1496 d. C., copiada en 1679 d. C.) en un manuscrito Rivâyat, n.º 29 de la Biblioteca Universitaria de Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

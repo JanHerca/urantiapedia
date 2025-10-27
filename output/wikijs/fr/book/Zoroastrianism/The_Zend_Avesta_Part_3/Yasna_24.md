@@ -49,6 +49,8 @@ dateCreated: 2025-3-16T22:11:40Z
 9\. (Oui,) nous présentons ceci par la présente aux Immortels Généreux qui gouvernent correctement et qui disposent de tous correctement, les toujours vivants, toujours serviables, qui demeurent avec le Bon Esprit (du Seigneur et de Son peuple [^1161]) !
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

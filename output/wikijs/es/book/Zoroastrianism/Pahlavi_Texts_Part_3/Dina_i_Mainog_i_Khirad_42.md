@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 12\. «Un semidemonio es aquel en quien solo existe, por así decirlo, el nombre del hombre [^1] y la raza humana, _pero_ en cada acción que realiza es como un demonio bípedo. 13. No comprende la existencia mundana ni la espiritual, (14) no comprende las buenas obras ni el pecado, (15) no comprende el cielo ni el infierno, (16) e incluso no piensa en la cuenta que _debe rendir_ el alma.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

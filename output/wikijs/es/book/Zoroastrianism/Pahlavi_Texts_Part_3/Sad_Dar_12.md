@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 8\. Y todos los que puedan caminar tras el féretro (tâbût) y el cadáver, caminarán. 9. Porque cada paso que dan tras un cadáver es una buena obra de trescientos pasos [^8]; y cada paso cuesta cuatro dirhams, de modo que trescientos pasos son mil doscientos dirhams [^9]. 10. Por cada paso hay, pues, mucha buena obra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

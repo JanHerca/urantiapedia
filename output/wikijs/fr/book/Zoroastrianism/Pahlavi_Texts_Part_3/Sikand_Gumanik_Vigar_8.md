@@ -73,6 +73,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 136\. À propos de ce chapitre également, rassemblé sous forme de résumé, (137) observez-le et instruisez-le avec révérence [^32] et discrétion.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 15\. He who washes by the law of those of the primitive faith, which many high-priests maintain as excellent, because it is suitable, _and_ imagines that regarding the threefold washing it should be said that it is not proper, even he—when he also <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> _has_ become of the same opinion as to this, that the statements of the high-priests are on an equality, and the most evidence of the high-priests is the _right_ course—would have attained to confidence about this, that in a doubtful matter _there_ should be a high-priest [^13], and also that _of_ which Afarg and Sôshâns _have_ alike understood a similar thing is proper.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

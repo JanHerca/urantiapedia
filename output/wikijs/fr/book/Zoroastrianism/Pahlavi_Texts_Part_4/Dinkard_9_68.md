@@ -42,6 +42,8 @@ _Bakŏ Nask_.
 2\. C'est la perfection parfaite qui est la justice.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

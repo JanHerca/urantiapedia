@@ -174,6 +174,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -200,56 +202,56 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^550]: 110:1 Siroza I, 14.
+[^529]: 110:1 Sîrôzah I, 14. 
 
-[^551]: 111:1 Dudoso; posiblemente 'el amigo en la salud, el niño en la salud'.
+[^530]: 111:1 Dudoso; posiblemente 'el amigo en salud, el niño en salud'. 
 
-[^552]: 111:2 Dudoso.
+[^531]: 111:2 Dudoso. 
 
-[^553]: 111:3 Cf. [p. 58](../Yasts_5#p58), nota [1](../Yasts_5#fn294).
+[^532]: 111:3 Cf. [p. 58](../Yasts_5#p58), nota [1](../Yasts_5#fn294). 
 
-[^554]: 111:4 Cf. [59](../Yasts_5#p59), nota [2](../Yasts_5#fn298).
+[^533]: 111:4 Cf. [59](../Yasts_5#p59), nota [2](../Yasts_5#fn298). 
 
-[^555]: 111:5 Al infierno.
+[^534]: 111:5 Al infierno. 
 
-[^556]: 112:1 Como arriba, [p. 30](../Yasts_1#p30).
+[^535]: 112:1 Como arriba, [p. 30](../Yasts_1#p30). 
 
-[^557]: 112:2 § 7 = §§ 1-2.
+[^536]: 112:2 § 7 = §§ 1-2. 
 
-[^558]: 112:3 §§ 8-10 = Yt. XVII, 28-30; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-2
+[^537]: 112:3 §§ 8-10 = Yt. XVII, 28-30; cf. Yasna IX, 4 \[10-20\]; Yt. V, 25-27. 
 
-[^560]: 113:1 Yt. V, 34; X, 24; XVII, 34.
+[^538]: 113:1 Yt. V, 34; X, 24; XVII, 34. 
 
-[^561]: 114:1 §§ 17-19 = Yt. XVII, 37-38.
+[^539]: 114:1 §§ 17-19 = Yt. XVII, 37-38. 
 
-[^562]: 114:2 Cf. Yasna XI, 7 \[20-21\]. La destrucción de los demonios, uno de los principales efectos del sacrificio, se atribuye a Haoma como el elemento más poderoso del mismo. En el Shâh Nâmah, el dios Haoma se ha convertido en un ermitaño que, viviendo cerca de la cueva donde Afrâsyâb se había refugiado (véase supra, Yt. V, 41), escucha sus lamentaciones, lo sorprende, lo ata y lo entrega en manos de Khosrav (Études Iraniennes, II, 227).
+[^540]: 114:2 Cf. Yasna XI, 7 \[20-21\]. La destrucción de los demonios, siendo uno de los principales efectos del sacrificio, se atribuye a Haoma como el elemento más poderoso del mismo. En el Shâh Nâmah, el dios Haoma se ha convertido en un ermitaño que, viviendo cerca de la cueva en la que Afrâsyâb se había refugiado (véase supra, Yt. V, 41), escucha sus lamentaciones, lo toma por sorpresa, lo ata y lo entrega en manos de Khosrav (Études Iraniennes, II, 227). 
 
-[^563]: 114:3 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
+[^541]: 114:3 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315). 
 
-[^564]: 114:4 Véase arriba, [p. 66](../Yasts_5#p66), nota [2](../Yasts_5#fn322).
+[^542]: 114:4 Véase supra, [p. 66](../Yasts_5#p66), nota [2](../Yasts_5#fn322). 
 
-[^565]: 114:5 Véase [p. 66](../Yasts_5#p66), nota [3](../Yasts_5#fn323).
+[^543]: 114:5 Véase [p. 66](../Yasts_5#p66), nota [3](../Yasts_5#fn323). 
 
-[^566]: 114:6 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
+[^544]: 114:6 Véase [p. 64](../Yasts_5#p64), nota [1](../Yasts_5#fn315).
 
-[^567]: 114:7 Dudoso (narava, en oposición a nara). Aghraêratha (Aghrêrath) era hermano de Afrâsyâb; era un hombre justo, y Afrâsyâb lo mató por haber salvado al rey iraní Mino<i>k</i>ihr con su ejército, cuando estaba cautivo en las montañas Padashkhvâr (Bundahi<i>s</i> XXXI, 21). Sin embargo, aún vive como inmortal en la tierra de Saukavastân, bajo el nombre de Gôpatshâh (el rey de los toros); 'de los pies a la mitad del cuerpo es un toro, y de la mitad del cuerpo a la p. 115 cima es un hombre; En todo momento permanece a la orilla del mar, y siempre realiza el culto a Dios, y siempre vierte agua bendita en el mar (Minokhired LXII, 31 y siguientes, tr. Oeste; Bund. XXIX, 5); según Bund. XXXI, 20, Aghrêrath no era Gôpatshâh, sino su padre. Cf. Yt. XIX, 93.
+[^545]: 114:7 Dudoso (narava, en oposición a nara). Aghraêratha (Aghrêrath) era hermano de Afrâsyâb; era un hombre justo, y Afrâsyâb lo mató por haber salvado al rey iraní Mino<i>k</i>ihr con su ejército, cuando estaba cautivo en las montañas Padashkhvâr (Bundahi<i>s</i> XXXI, 21). Sin embargo, aún vive como inmortal en la tierra de Saukavastân, bajo el nombre de Gôpatshâh (el rey de los toros); 'de los pies a la mitad del cuerpo es un toro, y de la mitad del cuerpo a la p. 115 cima es un hombre; en todo momento permanece en la orilla del mar, y siempre realiza el culto a Dios, y siempre vierte agua bendita en el mar' (Minokhired LXII, 31 seq., tr. West; Bund. XXIX, 5); según Bund. XXXI, 20, Aghrêrath no era Gôpatshâh, era su padre. Cf. Yt. XIX, 93. 
 
-[^568]: 115:1 §§ 21-22 = Yt. XVII, 41-42.
+[^546]: 115:1 §§ 21-22 = Yt. XVII, 41-42. 
 
-[^569]: 115:2 Véase [p. 114](#p114), nota [^545].
+[^547]: 115:2 Véase [p. 114](#p114), nota 545. 
 
-[^570]: 116:1 §§ 25-26 = XVII, 44-45; cf. Yt. V, 104.
+[^548]: 116:1 §§ 25-26 = XVII, 44-45; cf. Yt. V, 104. 
 
-[^571]: 116:2 Hutaosa era la esposa del rey Vî<i>s</i>tâspa; cf. Yt. XV, 37.
+[^549]: 116:2 Hutaosa era la esposa del rey Vî<i>s</i>tâspa; cf. Yt. XV, 37. 
 
-[^572]: 117:1 §§ 29-31-Yt. XVII, 49-51.
+[^550]: 117:1 §§ 29-31-Yt. XVII, 49-51. 
 
-[^573]: 117:2 ? <i>Gainyâvara</i>.
+[^551]: 117:2 ? <i>G</i>ainyâvara<i>t</i>. 
 
-[^574]: 117:3 Véase arriba, [p. 79](../Yasts_5#p79), nota [4](../Yasts_5#fn392).
+[^552]: 117:3 Véase arriba, [p. 79](../Yasts_5#p79), nota [4](../Yasts_5#fn392). 
 
-[^577]: 117:4 Una vez llamado.
+[^553]: 117:4 Ἅπαξ λεγόμενος. 
 
-[^576]: 117:5 Mencionado Yt. V, 109 y XIX, 87.
+[^554]: 117:5 Mencionado en Yt. V, 109 y XIX, 87. 
 
-[^578]: 117:6 Los <i>H</i><i>v</i>yaonas parecen haber sido los quionitas, una tribu belicosa, cercana a la tierra de Gilan, a menudo en guerra con los primeros sasánidas (Amm. Marcelino XVII, 5). El nombre de los varedhakas recuerda a los vertas, mencionados una vez junto con los quionitas (ibid. XIX, 1); pero su ubicación geográfica no está determinada. En cualquier caso, la proximidad de los daitya (§ 29) indica que ambos pueblos debieron habitar la costa occidental del mar Caspio.
+[^555]: 117:6 Los <i>H</i><i>v</i>yaonas parecen haber sido los Chionitae, una tribu belicosa, cerca de la tierra de Gilan, a menudo en guerra con los primeros sasánidas (Amm. Marcelino XVII, 5). El nombre de los Varedhakas recuerda a los Vertae, quienes se mencionan una vez junto con los Chionitae (ibid. XIX, 1); pero su situación geográfica no está determinada. En cualquier caso, la proximidad de los Dâitya (§ 29) muestra que ambos pueblos debieron habitar la costa occidental del mar Caspio.

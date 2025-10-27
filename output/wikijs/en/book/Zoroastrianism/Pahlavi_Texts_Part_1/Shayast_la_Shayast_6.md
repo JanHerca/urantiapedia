@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 7\. of a pure law (dâ<i>d</i>) are we of the good religion, and we are of the primitive faith; of a mixed law are _those of_ the Sînîk congregation [^13]; of a vile <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> law are the Zandîk [^14], the Christian (Tarsâk), the Jew (Yahû<i>d</i>), and others of this sort (<i>s</i>anŏ) [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

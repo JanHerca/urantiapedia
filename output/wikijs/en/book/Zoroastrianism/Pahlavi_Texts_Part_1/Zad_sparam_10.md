@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 3\. Spendarma<i>d</i> received the gold of the dead Gâyômar<i>d</i> [^1], _and_ it was forty years in the earth. 4. At the end of the forty years, _in_ the manner of a Rîvâs-_plant_, Mashya _and_ Mashyôî [^2] came up, and, one joined to the other, _were_ of like stature _and_ mutually adapted [^3]; and its middle, on which a glory came, through their like stature [^4], _was_ such that it was not clear which is the male and which the female, and which is the one with the glory which Aûharmazd created. 5. This is that glory for which man is, indeed, created, as it is thus said in revelation: <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> ‘Which existed before, the glory [^5] or the body?’ And Aûharmazd spoke thus: ‘The glory was created by me before; afterwards, for him who is created, the glory is given a body so that it may produce activity, and its body is created only for activity.’ 6. And, afterwards, they changed from the shape of a plant into the shape of man [^6], _and_ the glory went spiritually into them.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 9\. _Se ha_ convertido en costumbre _que_ los regazos _y_ <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> brazadas [^8] del tutor familiar sean cada mes cuatro stîrs de, puede ser, dieciséis [^9], que es el desembolso (andâ<i>z</i>i<i>s</i>nŏ), para comida, ropa, medicinas, _y_ alojamiento, de los ingresos (bar), o del capital (bûn), de la propiedad que permanece en la familia, por una esposa perfecta [^10] cuando es capaz—como la antigua ama de casa—para que la falta de alimento (atafdâ<i>d</i>ŏ) no les sobrevenga descubierta e ilegalmente.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

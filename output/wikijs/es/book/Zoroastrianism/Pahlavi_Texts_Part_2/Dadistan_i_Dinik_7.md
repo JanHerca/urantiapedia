@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Y es necesario que nos volvamos así en el mundo para que la suprema soberanía del creador se mantenga más amigable con nosotros, sus verdaderos sirvientes. 6. El camino hacia ese verdadero servicio se conoce a través de la sabiduría, se cree (vâ<i>v</i>arî-aîtŏ) a través de la verdad, _y_ se utiliza a través de la bondad; y el camino de la excelencia más particularmente _conduce a_ él. 7. Y para poner al buen espíritu correctamente en el lugar del pensamiento _se_ toma deliberadamente _y_ deberían dejarlo deliberadamente_ [^3], como se dice en la revelación que Aûha<i>r</i>ma<i>z</i><i>d</i> habló a Zaratû<i>s</i>t así: «Deberías ayudar a Vohûman con tus facultades espirituales puras (ahvŏ), para que puedan hacerlo completamente bienvenido; Porque cuando asistas a Vohûman con tus facultades espirituales puras, de modo que lo hagan plenamente bienvenido, comprenderás plenamente los dos caminos, _el_ que es buena conducta, y _el_ que es también mala conducta.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

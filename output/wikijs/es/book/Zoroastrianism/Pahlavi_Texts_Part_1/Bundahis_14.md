@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 31\. Muchos animales son creados en todas estas especies por esta razón, para que cuando uno perezca _a causa_ del espíritu maligno, otro permanezca.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

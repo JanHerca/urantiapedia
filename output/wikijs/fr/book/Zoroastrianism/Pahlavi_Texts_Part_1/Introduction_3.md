@@ -213,6 +213,8 @@ Les titres des treize chapitres qui forment la deuxième partie sont : Récit de
 
 La troisième partie contient un résumé du contenu des cent chapitres du Sad-dar Bundahi<i>s</i> et se termine par un compte rendu de la formule cérémonielle pratiquée lors de la nouage du kusti ou ceinture de fil sacré.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

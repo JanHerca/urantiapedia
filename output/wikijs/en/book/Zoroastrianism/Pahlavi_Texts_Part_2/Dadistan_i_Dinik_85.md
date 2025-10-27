@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 6\. And reasoning thought is cognizant as regards the advantageousness due to the undertakers and solemnizers of all the religious rites, and a great stipend is more obtained and observed _for them_ than for _any_ other profession. 7. The sons, too, of priests and disciples strive for the words prayed [^3], and are more eager for their. prayers; and many, likewise, shall engage for all the religious rites, and become more diffusive of the religion (dînô bâli<i>s</i>nîktar); and, in like, manner, the proper, more attainable, _and_ more propitious path of the good for saving the soul becomes wider [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 7\. de una ley pura (dâ<i>d</i>) somos los de la buena religión, y somos de la fe primitiva; de una ley mixta son _los de_ la congregación Sînîk [^13]; de una ley vil <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> son los Zandîk [^14], los cristianos (Tarsâk), los judíos (Yahû<i>d</i>), y otros de esta clase (<i>s</i>anŏ) [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

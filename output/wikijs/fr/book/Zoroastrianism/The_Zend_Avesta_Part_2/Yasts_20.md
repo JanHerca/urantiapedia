@@ -64,6 +64,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 \[Donnez\] à cet homme [^1324] luminosité et gloire, . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des Saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -90,8 +92,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1388]: 310:1 Voir [p. 13](../Sirozahs_1#p13), note [2](../Sirozahs_1#fn96).
+[^1322]: 310:1 Voir [p. 13](../Sirozahs_1#p13), note [2](../Sirozahs_1#fn96).
 
-[^1389]: 310:2 Les reptiles et autres créatures ahrimaniennes (Vendîdâd, Introd. V, 11) qui sont détruits par la pluie (Bund. VII, 7).
+[^1323]: 310:2 Les reptiles et autres créatures ahrimaniennes (Vendîdâd, Introd. V, 11) qui sont détruits par la pluie (Bund. VII, 7).
 
-[^1390]: 310:3 Qui sacrifie à Vana<i>n</i><i>t</i>.
+[^1324]: 310:3 Qui sacrifie à Vana<i>n</i><i>t</i>.

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Un gâteau sacré, qui est en propitiation du bon Vâê [^8], l'est, de plus, pour cette raison : tandis que le mauvais Vâê [^9] est un spoliateur et un destructeur, de même le bon Vâê est un résistant (kûkhshî<i>d</i>âr), et de même rencontrant le mauvais Vâê ; _il_ est aussi un diminuteur (vizû<i>d</i>âr) de son abstraction de la vie, <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> et un récepteur et une protection de la vie, à cause du gâteau sacré [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

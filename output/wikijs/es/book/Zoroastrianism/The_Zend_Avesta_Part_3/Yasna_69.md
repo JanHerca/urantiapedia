@@ -44,6 +44,8 @@ dateCreated: 2025-2-12T13:0:42Z
 Este capítulo está compuesto de fragmentos: véase Y. XV, 2; y Y. LI, 1 y 22.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

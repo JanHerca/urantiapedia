@@ -97,6 +97,8 @@ The very idea of the Sîrôzah, that is to say the attribution of each of the th
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

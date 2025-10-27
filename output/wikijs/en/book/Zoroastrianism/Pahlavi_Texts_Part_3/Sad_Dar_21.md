@@ -46,6 +46,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 10\. For, every time that this custom (qâ’hidat) is carried _on_ in a place, through the first Ashem-vohû so much good work _has_ arisen that it has propitiated the sacred being, the good _and_ propitious; through the second Ashem-vohû so much good work _has_ arisen that it has reverenced and [^11] propitiated Srôsh, the righteous [^12]; through the third Ashem-vohû so much good work _has_ arisen that it has reverenced and [^11] propitiated Khurdâ<i>d</i> _and_ Ameredâ<i>d</i> [^13], the archangels; and through the fourth Ashem-vohû so much good work _has_ arisen that whatever the creator Hôrmazd has created becomes reverenced and propitiated. 11. And with each mouthful (luqmah) that is eaten, while the _inward_ prayer subsists, they <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> proclaim a blessing _for_ Khurdâ<i>d</i> and Ameredâ<i>d</i>, the archangels. 12. _But_, if _it be_ eaten without the _inward_ prayer, as demons are _in_ that place [^14], they say, ‘Thou mightest have eaten the poison of a serpent.’ 13. Therefore, take notice as to which is the better of these two.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

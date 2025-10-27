@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. Nuestra religión ha reiterado sobre este asunto que, si alguien se contamina y no se mantiene puro, mientras viva no se purificará de esa contaminación. 8. Que, si se lava la cabeza diez mil veces en la ablución ceremonial, de ninguna manera se purificará [^6]. 9. Porque esta contaminación no proviene del exterior; proviene del interior de cada hueso, vena y tendón; y el agua purifica solo lo que está en la piel. 10. La impureza que está en los huesos, excepto mediante el líquido consagrado por la fórmula religiosa [^7], no se purifica de ninguna otra manera.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

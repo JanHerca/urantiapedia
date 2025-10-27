@@ -64,6 +64,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 17\. [^1029] Celebro mis alabanzas por los buenos pensamientos, buenas palabras y buenas acciones, por mis pensamientos, mis palabras y (mis) acciones. Con cánticos de alabanzas presento todos los buenos pensamientos, buenas palabras y buenas acciones, y con rechazo repudio todos los malos pensamientos, palabras y acciones. 18. ¡Aquí os ofrezco, oh Generosos Inmortales!, sacrificio y homenaje con la mente, con palabras, acciones y con toda mi persona; sí, (os ofrezco) la carne de mi propio cuerpo (como vuestra). Y alabo la Justicia. Una bendición es la Justicia (llamada) la Mejor, etc.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

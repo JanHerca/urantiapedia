@@ -70,6 +70,8 @@ begotten. 26. Keresâsp [^63] _and_ Aûrvakhsh [^64] were both brothers. 27. Ath
 
 36\. And, moreover, together with those begotten by <i>S</i>âm [^84] were six children in pairs, male _and_ female; the name of one _was_ Damnak, of one Khûsrôv, _and of one_ Mârgandak, _and_ the name of _each_ man and woman together was one. 37. And the name of one _besides_ them was Dastân [^85]; he was considered more eminent than they, and Sagânsîh [^86] and the southern quarter were given to him; and Avar-shatrô [^87] and the governorship were given by him to Avarnak. 38. of Avar-shatrô this is said, that _it is_ the district of Avarnak, _and_ they offered blessings _to_ Srôsh and Ar<i>d</i>avahi<i>s</i>t in succession; on this account is _their_ possession of horses and possession of arms; and on account of firm religion, purity, and manifest joy, good estimation and extensive fame are greatly <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> among them. 39. To Damnak the governorship of Asûristân was given; sovereignty and arranging the law of sovereignty, wilfulness and the stubborn defects they would bring, were among them. 40. To Sparnak [^88] the governorship of Spâhân [^89] was given; to Khûsrôv the governorship of Râi [^90] was given; to Mârgandak the kingdom, forest settlements, and mountain settlements of Padashkhvârgar were given; _where_ they travel nomadically, and _there are_ the forming of sheep-folds, prolificness, easy procreation, and continual triumph over enemies. 41. From Dastân proceeded Rû<i>d</i>astâm [^91] and Hûzavârak [^92].\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

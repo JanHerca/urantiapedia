@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. Car, quel que soit le commandement, <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> et quoi que le mari ordonne, il est requis d'aller ce jour-là. 4. _Et_, certainement, sans la permission (riʓ̣â) du mari, _elle_ ne doit faire aucun travail, afin que le Seigneur _soit_ satisfait de cette femme. 5. Car la satisfaction de l'être sacré est dans une révérence (ya<i>s</i>t) pour [^4] la satisfaction du mari ; de sorte que chaque fois qu'elles accomplissent un travail _sur_ l'ordre du mari, elles les appellent justes dans la religion ; et sinon, comment les appellent-elles ?
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 11\. Et un Gêtî-kharî<i>d</i> consiste à acheter le ciel dans le monde, et à obtenir sa propre place dans le ciel.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

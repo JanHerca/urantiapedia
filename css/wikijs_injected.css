@@ -17,7 +17,10 @@ CSS will automatically be minified. */
 }
 .v-main .contents img.is-imagemap {
     max-width: none;
-  }
+}
+.v-main .contents hr.footnotes-sep {
+    display: none;
+}
 .v-main .contents figure.urantiapedia {
     display: table;
 }

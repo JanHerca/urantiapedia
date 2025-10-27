@@ -94,6 +94,8 @@ Traduction.
 
 20\. (Et qu'en est-il de nos ennemis égarés ?) Les Daêva (adorateurs) ont-ils jamais régné en dignes rois ? (Cela, je te le demande en vérité, à toi, adorateurs de Daêva) qui combattez [^573] pour ceux (qui agissent mal ? Ont-ils bien régné) par qui les Karpan et les Usi<i>g</i>(k) ont donné le bétail (sacré) à la rapine [^574], d'où, aussi, les Kavian, dans leur force persistante [^575], ont prospéré ? (Et ceux-ci ne nous ont jamais donné richesse tribale ni bénédictions), et pour le bétail, ils n'ont pas apporté d'eau aux champs au nom de l'Ordre Juste (dans nos armées), pour favoriser leur croissance (et leur bien-être) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

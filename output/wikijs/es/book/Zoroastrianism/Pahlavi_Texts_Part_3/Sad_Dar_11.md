@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 7\. _Por_ cada incendio que se extinga en una vivienda, una pérdida de tres dirhams y dos dângs [^7] recae <span id="p272"><sup><small>[ p. 272 ​​]</small></sup></span> sobre la propiedad de esa persona, o se convierte en la pérdida de esta vivienda, o no le llega desde el lugar de donde proviene la riqueza.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

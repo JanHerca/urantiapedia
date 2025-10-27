@@ -43,6 +43,8 @@ _Sûdkar Nask_.
 
 9\. La excelencia de la justicia es perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

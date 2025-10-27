@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 4\. Forth Gô<i>s</i>ûrvan walked to the star station (pâyak) _and_ cried in the same manner, and forth to the moon station _and_ cried in the same manner, _and_ forth to the sun station, and then the guardian spirit of Zaratû<i>s</i>t was exhibited to her, _and Aûharmazd said_ thus [^5]: ‘I will produce for the world _him_ who will preach carefulness.’ 5. Contented became the spirit Gô<i>s</i>ûrvan, and assented thus: ‘I will nourish the creatures;’ that is, she became again consenting to a worldly creation in the world.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

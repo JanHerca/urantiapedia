@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 32\. La règle est la suivante : à chacune de ces trois choses qui surviennent dans la faim, c’est-à-dire l’éternuement, le bâillement et le soupir, on doit prononcer un Yathâ-ahû-vairyô et un Ashem-vohû [^78] ; et lorsqu’on entend quelqu’un éternuer, parler de la même manière est considéré comme une bonne action [^79] ; et dans le Stûdgar Nask [^80], il est dit : « Qu’est-ce qui prépare l’éternuement ? C’est-à-dire, par quel processus (kâr) survient-il ? » Et Aûharmazd dit ainsi : « Vivre dans la faim, ô Zaratûs ! Car le remède à son existence est l’Ahunavar, ô Zaratûs ! et la droiture [^81]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

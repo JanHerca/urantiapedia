@@ -47,6 +47,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 7\. El ritual para la curación de una herida y la desaparición del dolor, velando por él durante tres noches o un año, su mayor o menor gravedad, su curación (s<i>p</i>ôrîkîh) o incurabilidad, y todo lo relacionado con el mismo tema. 8. Enumeraciones triviales y decisiones sobre cada una por separado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

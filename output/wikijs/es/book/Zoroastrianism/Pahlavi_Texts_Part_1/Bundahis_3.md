@@ -63,6 +63,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 27\. El infierno está en medio de la tierra; allí donde el espíritu maligno atravesó la tierra [^17] y se abalanzó sobre ella, mientras todas las posesiones del mundo <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> se transformaban en dualidad, y la persecución, la contienda y la mezcla de lo alto y lo bajo se manifestaban.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

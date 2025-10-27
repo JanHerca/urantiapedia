@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 4\. Dans la révélation, il est dit qu'il n'y a pas d'au-delà (â'<i>hir</i>rat) pour les menteurs, et qu'au milieu des hommes, ils sont méprisables ('haqîr). 5. Si un tel homme est puissant (mu'hta<i>s</i>im), et qu'il n'y a pas moyen de l'éviter ('haDHar) dans le voisinage <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> des hommes, ils n'ont aucun respect pour lui, et il est clairement (farʓ̣âm) un mauvais menteur. 6. Bien qu'il possède beaucoup de richesses, elles lui échapperont toutes, et, finalement ('hâqibat), la mendicité des hommes lui viendra, et sa progéniture deviendra également rare [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

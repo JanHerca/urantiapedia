@@ -73,6 +73,8 @@ M14 (una copia moderna de un manuscrito en la biblioteca del sumo sacerdote pars
 
 TD, un manuscrito de los Bundahi<i>s</i> perteneciente a Môbad Tehmuras Dinshawji en Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

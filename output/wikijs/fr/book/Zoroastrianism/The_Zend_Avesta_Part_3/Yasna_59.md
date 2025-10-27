@@ -40,6 +40,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 31\. (Le Zaotar parle) : Puisse t'arriver ce qui est meilleur que le bien, et puisse n'arriver ce qui est pire que le mal, et puisse n'être pas mon lot. 32. Comme (notre) Ahû (est) excellent, ainsi est (notre) Ratu (celui qui gouverne) par sa Droiture, un créateur de bonté mentale, et d'actions de vie faites pour Mazda, et le Royaume (appartient) à Ahura qui au pauvre offrira un nourricier. Une bénédiction est Asha appelé le Meilleur, etc. Nous sacrifions à l'Ahuna-vairya ; nous sacrifions à Asha Vahi<i>s</i>ta [^1291] le plus beau, le Généreux <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> Immortel. Et nous sacrifions au Fshûshô-mãthra, le par-dit [^1292]. Et nous sacrifions à l'ensemble des Louanges du Yasna ; (oui, aux Louanges Yasna qui furent instituées dans le monde d'autrefois.)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

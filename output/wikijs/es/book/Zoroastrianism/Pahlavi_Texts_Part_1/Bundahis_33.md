@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 12\. También dice que «en un invierno _localizaré_ (<i>g</i>âkînam) la religión de los Mazdayasnians, _que_ llegó a las otras seis regiones».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

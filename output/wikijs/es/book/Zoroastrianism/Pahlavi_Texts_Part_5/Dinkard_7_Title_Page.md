@@ -41,6 +41,8 @@ Y EN LAS SELECCIONES DE ZÂ<i>D</i>\-SPARAM
 
 CAPÍTULOS XII-XXIV.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

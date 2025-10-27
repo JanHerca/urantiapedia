@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:56:45Z
 2\. La réponse est la suivante : la puanteur matérielle s’étend aussi loin et dans la même proportion qu’il y a de la saleté et de la fétidité dans les existences puantes, et la puanteur spirituelle va là où se trouvent les appareils (sâmânŏ) pour acquérir la puanteur, un endroit misérable ; à cause de la séparation (gard<i>d</i>îh) du ciel, partout où elle va dans la direction du ciel, elle n’atteint pas les existences paisibles [^1]. 3. L’information sur la puanteur est manifeste chez le créateur omniscient, dont l’omniscience est parmi les luminaires, _mais_ ce créateur persistant _et_ les anges et les archanges primordiaux _sont _à l’abri_ de son attaque ; et _son_ information sur la tromperie qui est _pratiquée_ sur ce travailleur _de_ l’enfer et de l’esprit _allié_ aux démons [^2] est certaine.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 5\. Sobre los que pertenecen al lugar de la ordalía (varistânîkân) y otros oficiales allí, los ritos y costumbres allí, el ceremonial que se celebrará en la morada y la invocación de los seres sagrados para pedir ayuda. 6. ¿Cuál es el modo de realizar la ordalía del calor y el frío? ¿Cómo se guía a quienes la realizan y de qué Avesta es su recitación elevada? ¿Cómo se lleva a cabo la ordalía del calor y el frío y cómo se manifiestan los absueltos e incriminados? Y muchas declaraciones (gôkân) sobre el mismo tema.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

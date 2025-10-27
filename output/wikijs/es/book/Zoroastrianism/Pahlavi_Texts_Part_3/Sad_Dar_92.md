@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. Los demonios y demonios huyen, porque la gloria del fuego sagrado nos permite crear una existencia viviente en medio de este <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> pueblo. 5. Porque, si no existieran los demonios [^4], la gloria de los arcángeles y el día del fuego sagrado, no habría sido posible crear la existencia viviente ningún día. 6. Por lo tanto, es conveniente que proporcionen un cuidador del fuego para mantener la leña y el fuego, de modo que se pueda buscar su seguridad ('hâfiyat), y puedan encontrar un apoyo y protección aceptables.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

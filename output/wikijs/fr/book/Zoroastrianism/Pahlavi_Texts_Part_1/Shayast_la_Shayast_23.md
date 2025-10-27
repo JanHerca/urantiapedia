@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 5\. Puisse-t-il s'accomplir dans la paix et le plaisir !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

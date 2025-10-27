@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 6\. Quant à la rivière Nâhvtâk [^13], il est dit que Frâsîyâ<i>v</i> de Tûr l'emporta ; et quand [^14] <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> Hûshê<i>d</i>ar [^15] viendra, elle coulera de nouveau, propice aux chevaux ; ainsi aussi les sources de la mer Kyânsîh [^16]. 7. Kyânsîh [^16] est celle où se trouve la patrie (<i>g</i>inâk) de la race Kayân.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

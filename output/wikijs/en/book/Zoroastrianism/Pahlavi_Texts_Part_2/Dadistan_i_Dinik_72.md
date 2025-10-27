@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 10\. And they who are defiled by a propensity to stench are thereby welcoming the demons _and_ fiends [^15], _and_ are far from good thought [^16] through vexing _it_; and a distance from them is _to be maintained_ of necessity in sitting and eating with _them_, except so far as _it may be_ opportune for the giving of incitement _by_ words for withdrawing (pa<i>d</i>âli<i>s</i>nŏ) from _their_ sinfulness, while converting _them_ from that propensity. 11. _Should one_ die, to order a ceremonial for him is indecorous, and to perform _it_ would be unauthorised; but if _he were_ to do _so_ penitently _one_ would then be authorised to perform his ceremonial after the three _nights_ [^17], for it is the remedy for atonement of sin. 12. And so long as _he_ is living _he_ is in the contingencies (vakhtagânŏ) owing to the sickness through which _he_ is in that way an infamous _one_ (akhamî<i>d</i>âr), and _there_ are no preventives (bôndagânŏ) and medicinal powder for it; these are teachings also for the duty and good works of a ceremonial for the soul [^18].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

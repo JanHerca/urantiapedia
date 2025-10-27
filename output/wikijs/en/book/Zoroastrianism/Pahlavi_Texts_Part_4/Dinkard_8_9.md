@@ -43,6 +43,8 @@ dateCreated: 2025-10-7T9:56:37Z
 21\. The excellence _of_ righteousness is perfect.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

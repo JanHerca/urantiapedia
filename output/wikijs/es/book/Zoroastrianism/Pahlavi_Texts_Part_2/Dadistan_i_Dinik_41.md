@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 9\. Y como se dice en la ley persistente de los seres sagrados [^10] que «la buena religión de los seres sagrados, que son los superiores adoradores de Ma<i>z</i><i>d</i>a, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> la ordena como retribución», para que el pecado que quita (spayêiti) [^11] no exista en él, su retribución se declara por revelación. 10. Y por el mismo testimonio se dice que toda la fe primitiva ha sido de la misma opinión sobre esto: que de la buena religión, excepto por [^12] el camino de la renuncia al pecado, no hay otra salida que el infierno; pero esa renuncia _debería_ ser durante la vida, pues se dice que «quien _cuando_ vive no se vuelve justo, es decir, no expía completamente el pecado, _para_ él _cuando_ muere _no hay concesión de [^13] la mejor existencia.» 11. No cometer pecado es mejor que la retribución _y_ la renuncia al pecado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

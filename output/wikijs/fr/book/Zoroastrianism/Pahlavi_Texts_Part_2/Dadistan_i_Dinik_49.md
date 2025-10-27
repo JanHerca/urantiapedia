@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 10\. Et pourtant, en ce qui concerne ce qui constitue un profit convenable - et aussi en dehors de la consommation de blé, de tout ce qui est comestible pour l'entretien de la vie, de la médecine et des remèdes pour la santé de la vie, et de tout ce qui est pour la conservation de la vie - il est permis qu'ils achètent et vendent cher [^9].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. For it is declared in revelation, that the sacred being, the good _and_ propitious, spoke to Zaratu<i>s</i>t thus: ‘_As to_ every business that thou wishest to transact, do thou receive wisdom and knowledge at one place with the wise _who_ reply, and cast away _what is_ unconsidered, so that Aharman _may_ not reach _it_ midway, and injury (‘<i>h</i>alal) _may_ not occur to that business.’ <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> 3\. _In_ like manner the archangel Spendârma<i>d</i> [^1], _at_ the time when _her_ gaze passed on to Minô<i>k</i>ihar [^2], issued to him this admonition _and_ precept (vaʓîyat), _and_ said: ‘O Minô<i>k</i>ihar! although _there_ be deliberation _in_ an affair, this may be no reason for it as regards the spirits [^3]; although a horse may be good, _there_ may be no resource _except_ a whip for it; and although _one_ may be a wise man, _there_ should be no retreat on his part from having advice, so that his business _may_ become complete.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

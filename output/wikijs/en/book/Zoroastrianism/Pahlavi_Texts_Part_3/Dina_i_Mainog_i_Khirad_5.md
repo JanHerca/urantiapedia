@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘That: land is the happier, in which a righteous man, who is true-speaking, makes his abode. 5. The second, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> in which they make the abode of fires. 6. The third, when oxen and sheep repose upon it. 7. The fourth is uncultivated and uninhabited land when they bring _it_ back to cultivation and habitableness. 8. The fifth, from which they extirpate the burrows of noxious creatures. 9. The sixth, on which exist the ceremonies and coming of the sacred beings, and the sitting of the good [^2], 10. The seventh, when they make populous that which _was_ desolate. 11. The eighth, when from the possession of the bad it comes into the possession of the good. 12. The ninth, when of the produce and yield (bê<i>d</i>ŏ) which arise from it they provide the share of the sacred beings, the good, and the worthy. 13. _And_ the tenth, in which they provide holy-water and ceremonies.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

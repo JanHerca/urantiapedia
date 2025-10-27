@@ -54,6 +54,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 15\. Completed in peace and pleasure, joy _and_ delight;. happy for him who reads, _and_ happier for him who keeps _it_ in use and shall take his duty therefrom [^53], if they exist unto time eternal.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

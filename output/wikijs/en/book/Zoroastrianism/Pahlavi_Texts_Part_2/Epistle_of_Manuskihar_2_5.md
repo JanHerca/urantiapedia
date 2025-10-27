@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 16\. And you always so observe as not to leap (la aîyyûkhtanŏ) without looking before; but temporary observation is nothing really of that _which_, by a well-stinging similitude, is what _one_ observes, with the eyesight looking well forward, _when_ dust of many kinds is domesticated with the sight of the <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> eye; and if his intellect be not judicious he is wonderfully deceived by it; and _should_ it be even when he mentions the existence of two moons, _has it_ become more proved thereby? 17. _It is_ a custom of the most provoking in itself, and presented disquietingly when I, who believe with a fervent mind, _would have_ delivered the life even of _my_ body over to the perplexing bridge [^18] for your happiness _and_ enjoyment. 18. Also, on account of my want of leisure, even the information which is presented, asking peace, is information I believe with a generous mind; and _being_ aware regarding my want of leisure is both an advantage and harmful, and the heart to write of them [^19] is, therefore, miraculous. 19. Then it is always necessary for me, who _am_ in want of leisure, to write unto you so much writing of the harassing of annoyers _and_ against disputes, of whose end there is no conception in my heart.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

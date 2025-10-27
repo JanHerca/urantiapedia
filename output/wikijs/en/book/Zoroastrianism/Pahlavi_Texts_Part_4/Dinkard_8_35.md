@@ -54,6 +54,8 @@ _Hûspâram Nask_.
 
 15\. About the increasing vigour _of_ the female from the mounting of the male, and the diminished vigour of the male from mounting _on_ to the female.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

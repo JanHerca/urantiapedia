@@ -61,6 +61,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 31\. La excelencia perfecta es la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

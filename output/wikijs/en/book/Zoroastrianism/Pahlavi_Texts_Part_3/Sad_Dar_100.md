@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The hundredth subject is this, when a person molests or smites any one _who is_ innocent, it is a sin of one Tanâvar every day for that _person_, as long as he lives [^1]. 2. _And_, when he departs from this world, the angel Mihir and the angel Rashn make up his account and reckoning. 3. _He is_ [^2] full of affliction, and experiences much regret and penitence, and has no advantage from it [^3]. 4. It is _therefore_ necessary to keep oneself far from this sin [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

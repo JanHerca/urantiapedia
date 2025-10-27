@@ -62,6 +62,8 @@ In Vi;. p. 83, it is said that ‘hair from an ox _or_ a horse is suitable, as _
 
 In Vi<i>g</i>. pp. 144, 145, it is said, with reference to announcing the name of the deceased during the celebration of the Srôsh Ya<i>s</i>t after a death, that ‘_it is_ declared by the Avesta of the Hâ<i>d</i>ôkht: "Yêzi narô mazdayasnô ha<i>k</i>a gaêthâbyô parairithyêiti, âa<i>d</i> hê nãma hadha pitô frag<i>e</i>urvayâ<i>d</i>; yêzi nâirika para-irithyêiti, âa<i>d</i> ya<i>d</i> hê nãma hadha pathanô uzg<i>e</i>urvayâ<i>d</i>, Spitama Zarathu<i>s</i>tra! aêtem vâ<i>k</i>em nî a<i>n</i>tare mazdayasnanãm frasastayâ<i>d</i>:—If a man who is a Ma<i>z</i><i>d</i>a-worshipper passes away from the worldly _existence_, in such _a case one_ holds out his name with _that of_ his father; and if _it be_ a woman who passes away, in such _a case one_ upholds whatever is her name with _that of_ her husband, O Spîtâmân Zaratû<i>s</i>t! _one_ shall further bless this statement (that is, _its being_ reverenced is important) among the Ma<i>z</i><i>d</i>a-worshippers, (do thou proclaim and further bless this statement)."’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

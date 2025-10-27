@@ -82,6 +82,8 @@ Y adoramos los trozos de madera, el perfume y a ti, el Fuego, hijo de Ahura Mazd
 
 El Zaotar. ¡Que el Ratu, desde su rectitud, santo y erudito, hable!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -68,6 +68,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 15\. Religion is as connected with the Yathâ-ahû-vairyô as the hair is more connected with the glory of the face; any one, indeed, would dread (samâ<i>d</i>) to separate hairiness _and_ the glory of the face.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

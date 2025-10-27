@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Por lo tanto, han decidido correctamente quién [^3] les enseña <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> algo, especialmente qué es apropiado e inapropiado según la revelación; porque el principio fundamental es este: si, por el deber de este mundo, se obtendrá un resultado bueno o malo en el más allá.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

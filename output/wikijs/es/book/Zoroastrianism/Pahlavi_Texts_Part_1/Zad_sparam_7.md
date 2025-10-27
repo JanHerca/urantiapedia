@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 12\. Esta es la tercera contienda, sobre la tierra.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘The business of the artizans is this, (5) that _as to_ that work which they do not understand, they do not bring a hand to it; (6) and that which they well [^2] <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> understand (hû-dânend), they perform well _and_ with attention; (7) and they demand wages lawfully. (8). For _as to him_ who persists in doing that work which [^3] he does not understand, it is _he by_ whom that work is spoiled and becomes useless; and when, moreover, he is a man whose work makes himself satisfied, it then becomes even an origin of sin for him.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

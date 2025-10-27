@@ -36,6 +36,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 Dk. VIII, Chap. XIII, 10, probably refers to the passage that contained the statement thus quoted in Sls. X, 28:—‘Even so it is revealed in the <i>K</i>îtradâ<i>d</i> that Spenda<i>r</i>ma<i>d</i> spoke to Mânû<i>s</i>’<i>k</i>îhar thus: “Even the swiftest horse requires the whip, the sharpest <span id="p469"><sup><small>[ p. 469 ]</small></sup></span> steel knife requires the whetstone, and the wisest man requires counsel.”’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

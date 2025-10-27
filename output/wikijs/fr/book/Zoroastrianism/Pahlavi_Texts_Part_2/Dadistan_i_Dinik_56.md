@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 9\. _Il est_ devenu d'usage que les gorgées _et_ <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> les brassées [^8] du tuteur de famille soient chaque mois de quatre stîrs, peut-être seize [^9], ce qui est le déboursement (andâ<i>z</i>i<i>s</i>nŏ), pour la nourriture, les vêtements, les médicaments et le logement, sur le revenu (bar), ou sur le capital (bûn), des biens qui restent dans la famille, par une épouse parfaite [^10] quand elle en est capable - comme l'ancienne maîtresse de maison - afin que le manque de nourriture (atafdâ<i>d</i>ŏ) ne puisse pas venir sur eux de manière nue et illégale.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

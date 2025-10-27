@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 10\. Et il est dit sommairement que le ciel fut ébranlé dans la _période_ de_ perturbation et restauré _avec_ trouble ; et, si les esprits gardiens sont libérés de toute perturbation par la gloire _du_ créateur, alors qu'il n'y a même pas de place préparée par eux-mêmes pour cela [^12], et que _leur_ nature et leur propre <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> force approuvent la difficulté de la préparation, il n'est pas ému [^13], sauf par les créatures de _sa_ volonté, une volonté qui est subjugatrice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

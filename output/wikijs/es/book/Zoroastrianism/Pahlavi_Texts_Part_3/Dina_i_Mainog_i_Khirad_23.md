@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Ni siquiera con la fuerza y ​​el poder de la sabiduría y el conocimiento es posible contender con el destino. 5. Porque, cuando surge la predestinación en cuanto a la virtud, o en cuanto a lo contrario [^1], el sabio se vuelve falto (nîyâ<i>z</i>ân) en el deber, y el astuto en el mal se vuelve inteligente; (6) el cobarde se vuelve más valiente, y el más valiente se vuelve cobarde; <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> (7) el diligente se vuelve perezoso, y el perezoso actúa diligentemente [^2]. (8) Tal como está predestinado en cuanto a la materia, la causa entra en ella, (9) y desplaza todo lo demás».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

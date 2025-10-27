@@ -50,6 +50,8 @@ dateCreated: 2025-10-10T14:41:36Z
 40\. Los amigos del arrogante son pocos, y sus enemigos muchos. 41. Incluso de los regalos que ofrece a alguien, y también del ceremonial que realiza para los seres sagrados, estos aceptarán poco, debido a su arrogancia, (42) y darán poco de la ganancia que busca. 43. Y en el infierno lo entregan al demonio de la arrogancia para infligir castigo a su alma; (44) y el demonio de la arrogancia le inflige diversos castigos, y no se apacigua.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

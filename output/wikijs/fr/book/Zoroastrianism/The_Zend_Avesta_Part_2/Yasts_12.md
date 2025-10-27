@@ -58,7 +58,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-## JE.
+## I.
 
 1\. Le saint (Zarathustra) lui demanda [^779] : « Ô saint Ahura Mazda ! Je te demande ; réponds-moi par des paroles de vérité, toi qui connais la vérité. Tu es indubitable, tu as une compréhension indubitable ; tu es indubitable, car tu sais tout.
 
@@ -224,6 +224,8 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Donne à cet homme [^809] éclat et gloire, donne-lui la santé du corps, . . . . donne-lui la demeure lumineuse, toute heureuse et bienheureuse des saints. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -250,68 +252,68 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## Notes de bas de page
 
-[^810]: 168:1 Minokhirad II, 120-121 (tr. Ouest).
+[^777]: 168:1 Minokhirad II, 120-121 (tr. Ouest). 
 
-[^811]: 168:2 Sîrôzah I, 18.
+[^778]: 168:2 Sîrôzah I, 18. 
 
-[^812]: 169:1 Ahura Mazda.
+[^779]: 169:1 Ahura Mazda. 
 
-[^813]: 169:2 Cf. Yt. I, 1 seq.
+[^780]: 169:2 Cf. Yt. I, 1 seq. 
 
-[^814]: 169:3 Le texte est apparemment corrompu et dit littéralement : « Nous invoquons, nous me bénissons, Ahura Mazda. »
+[^781]: 169:3 Le texte est apparemment corrompu et dit littéralement : « Nous invoquons, nous me bénissons, Ahura Mazda. » 
 
-[^817]: 169:4 Voir page suivante, note [^781].
+[^782]: 169:4 Voir page suivante, note 781. 
 
-[^816]: 169:5 Peut-être des eaux ; cf. Yt. V, 132 et Vend. IV, 46 \[128\], 54 \[154\] seq.
+[^783]: 169:5 Peut-être des eaux ; cf. Yt. Français V, 132 et Vend. IV, 46 \[128\], 54 \[154\] seq. 
 
-[^818]: 169:6 Littéralement, la graisse.
+[^784]: 169:6 Littéralement, la graisse. 
 
-[^819]: 170:1 Voir [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94).
+[^785]: 170:1 Voir [p. 12](../Sirozahs_1#p12), note [13](../Sirozahs_1#fn94). 
 
-[^820]: 170:2 Voir Vend. XXII, 3.
+[^786]: 170:2 Voir Vend. XXII, 3. 
 
-[^821]: 170:3 Varô; il semble que ce soit le Var nîrang ou épreuve auquel il est fait allusion dans plusieurs passages de l'Avesta; cf. Afrîgân I, 9; Yasna XXXI, 3 b (voir Pahl. Comm.; cf. Comm. ad XXXI V, 4 a); cf. Vend. IV, 46, 55. Selon le Dînkart, il existait trente-trois sortes d'épreuves var (Haug, Ardâ Vîrâf, p. 245); la plus courante consistait à verser du cuivre fondu sur la poitrine de l'homme dont la véracité devait être testée: s'il s'en sortait indemne, il était considéré comme ayant dit la vérité. Cf. Vend. Introd. III, 9.
+[^787]: 170:3 Varô ; il semble que ce soit le Var nîrang ou épreuve auquel il est fait allusion dans plusieurs passages de l'Avesta ; cf. Afrîgân I, 9 ; Yasna XXXI, 3 b (voir Pahl. Comm. ; cf. Comm. ad XXXI V, 4 a) ; cf. Vend. IV, 46, 55. Selon le Dînkart,Il y avait trente-trois sortes d'ordalies var (Haug, Ardâ Vîrâf, p. 245) ; la plus courante consistait à verser du cuivre fondu sur la poitrine de l'homme dont la véracité devait être vérifiée : s'il s'en sortait indemne, on considérait qu'il avait dit la vérité. Cf. Vend. Introd. III, 9.
 
-[^822]: 171:1 Arethama<i>t</i>\-bairishta : aretha est dînâ, dâdistân (loi, justice).
+[^788]: 171:1 Arethama<i>t</i>\-bairishta: aretha est dînâ, dâdistân (loi, justice). 
 
-[^823]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]).
+[^789]: 171:2 Ke<i>s</i>a = kartârî (Pahl. Comm. ad Vend. XXI, 3 \[14\]). 
 
-[^824]: 171:3 Je ne peux rien tirer du reste de la phrase hadhanâ tanasu<i>s</i> ; cf. § 38.
+[^790]: 171:3 Je ne peux rien tirer du reste de la phrase hadhanâ tanasu<i>s</i>; cf. § 38. 
 
-[^828]: 171:4 Voir Yt. X, 15, note 5.
+[^791]: 171:4 Voir Yt. X, 15, note 5. 
 
-[^826]: 171:5 Le reste comme dans les §§ 5-8.
+[^792]: 171:5 Le reste comme dans les §§ 5-8. [ 
 
-[^832]: 172:1 Voir Yt. X, 15, note 5.
+^793]: 172:1 Voir Yt. X, 15, note 5. 
 
-[^833]: 172:2 Voir [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279).
+[^794]: 172:2 Voir [p. 54](../Yasts_5#p54), note [6](../Yasts_5#fn279). 
 
-[^834]: 173:1 Le Saêna, dans la mythologie ultérieure le Sînamrû ou Sîmûrgh ; son « lieu de repos est sur l'arbre qui est Ja<i>d</i>\-bêsh (opposé au mal) de toutes les graines ; et chaque fois qu'il s'élève dans les airs, mille brindilles jaillissent de cet arbre ; et lorsqu'il se pose, il brise les mille brindilles, et il en répand les graines. Et l'oiseau Chañmrôsh se tient éternellement dans ce voisinage ; et son œuvre est celle-ci, qu'il recueille cette graine qui se répand de l'arbre de toutes les graines, qui est Ja<i>d</i>\-bêsh, et la transporte là où Tishtar saisit l'eau, afin que Tishtar puisse saisir l'eau avec cette graine de toutes sortes, et puisse la faire pleuvoir sur le monde avec la pluie » (Minokhirad LXII, 37 ; tr. Ouest).
+[^795]: 173:1 Le Saêna, dans la mythologie ultérieure le Sînamrû ou Sîmûrgh ; son « lieu de repos » est sur l'arbre qui est Ja<i>d</i>\-bêsh (opposé au mal) de toutes les graines ; et chaque fois qu'il s'élève dans les airs, mille brindilles jaillissent de cet arbre ; et lorsqu'il se pose, il brise les mille brindilles, et il en répand les graines. Et l'oiseau Chañmrôsh se tient à jamais dans ce voisinage ; et son œuvre est celle-ci, qu'il recueille cette graine qui se répand de l'arbre de toutes les graines, qui est Ja<i>d</i>\-bêsh, et la transporte là où Tishtar saisit l'eau, afin que Tishtar puisse saisir l'eau avec cette graine de toutes sortes, et puisse la faire pleuvoir sur le monde avec la pluie' (Minokhirad LXII, 37 ; tr. Ouest). 
 
-[^835]: 173:2 Par les inondations (? Vend. I, 26) ; il a probablement un sens géographique ; cf. le paragraphe suivant ; peut-être le pays marécageux à l'embouchure du Tigre.
+[^796]: 173:2 Par les inondations (? Vend. I, 26) ; cela a probablement une signification géographique ; cf. le paragraphe suivant ; peut-être la région marécageuse à l'embouchure du Tigre. 
 
-[^836]: 173:3 Cf. Yt. X, 104 ; aodhas et sanaka peuvent faire référence au bassin sud et nord du Tigre.
+[^797]: 173:3 Cf. Yt. X, 104 ; aodhas et sanaka peuvent se référer au bassin sud et nord du Tigre. 
 
-[^837]: 174:1 Cf. Yt. X, 50.
+[^798]: 174:1 Cf. Yt. Français X, 50. 
 
-[^838]: 174:2 Lecture vîspô-vaêmem ; cf. Yt. V, 96, note 7.
+[^799]: 174:2 Lecture vîspô-vaêmem; cf. Yt. V, 96, note 7. 
 
-[^839]: 175:1 Voir Bund. V, 3 seq.; cf. Yt. X, 13, 50.
+[^800]: 175:1 Voir Bund. V, 3 seq.; cf. Yt. X, 13, 50. 
 
-[^840]: 175:2 Cf. Yt. XX et Yt. VIII, 12.
+[^801]: 175:2 Cf. Yt. XX et Yt. VIII, 12. 
 
-[^842]: 175:3 Cf. Yt. VIII, 12.
+[^802]: 175:3 Cf. Yt. VIII, 12. 
 
-[^843]: 175:4 'L'étoile de l'essence de l'eau est pour l'augmentation de l'eau ; et l'étoile de l'essence de la terre, pour l'augmentation de la terre ; et l'étoile de l'essence de l'arbre, pour l'augmentation des arbres ; et l'étoile de l'essence du bétail, p. 176 pour l'augmentation du bétail ; et l'essence de l'eau, de la terre, des arbres et du bétail est créée pour l'augmentation de l'homme' (Minokhirad XLIX, 7, tr. Ouest).
+[^803]: 175:4 'L'étoile de l'essence de l'eau est pour la croissance de l'eau; et l'étoile de l'essence de la terre, pour la croissance de la terre; et l'étoile de l'essence de l'arbre, pour la croissance des arbres; et l'étoile de l'essence du bétail, p. 176 pour la croissance du bétail; et l'essence de l'eau, de la terre, des arbres et du bétail est créée pour l'accroissement de l'homme' (Minokhirad XLIX, 7, tr. Ouest). 
 
-[^845]: 176:1 Voir note précédente.
+[^804]: 176:1 Voir note précédente. 
 
-[^846]: 176:2 À l'exclusion des planètes qui appartiennent à Ahriman (Minokhirad VIII, 19 ; Bund. III, 25 ; V, 1).
+[^805]: 176:2 À l'exclusion des planètes qui appartiennent à Ahriman (Minokhirad VIII, 19; Bund. III, 25; V, 1). 
 
-[^847]: 176:3 Voir ci-dessus, [p. 8](../Sirozahs_1#p8), note [8](../Sirozahs_1#fn53).
+[^806]: 176:3 Voir ci-dessus, [p. 8](../Sirozahs_1#p8), note [8](../Sirozahs_1#fn53). 
 
-[^848]: 177:1 Le ciel le plus élevé, la demeure d'Ormazd.
+[^807]: 177:1 Le ciel le plus élevé, la demeure d'Ormazd. 
 
-[^849]: 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i> ; cf. §8, [p. 171](#p171), note [^790].
+[^808]: 177:2 ? Upa hadhana hadhanâ tanasu<i>s</i>; cf. § 8, [p. 171](#p171), note 790. 
 
-[^850]: 178:1 Qui aura adoré Rashnu.
+[^809]: 178:1 Qui aura adoré Rashnu.

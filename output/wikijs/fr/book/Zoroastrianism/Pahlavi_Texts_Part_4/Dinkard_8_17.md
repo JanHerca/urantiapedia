@@ -49,6 +49,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 A. Du meurtre commis _par_ des enfants ignorants de sept ans, _ou_ même de huit ans, devant leurs pères ; _et_ de la criminalité des pères en la matière, lorsqu'il leur est possible de l'empêcher et qu'ils ne l'empêchent pas, et lorsqu'il ne leur est pas possible de l'empêcher.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 2\. Car il est déclaré dans la révélation que chaque pas que l'on fait sans la ceinture sacrée est un péché de Farmân [^2], et qu'au bout de quatre pas, il devient un péché de Tanâvar, qui équivaut à mille deux cents dirhams [^3]. 3. Il est donc nécessaire de se surveiller soi-même concernant ce péché et de s'attacher à la ceinture sacrée.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

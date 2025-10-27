@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. And this, also, is thus decided by them [^7], that even _as to_ him _who_ is most grievously sinful, when he becomes mentally _seeking_ pardon _and_ repentant of the sin, _and, being_ as much an atoner as _he_ is well able, _has_ delivered _up his_ body _and_ wealth for retribution _and_ punishment, in reliance upon the atonement for sin of the good religion, then it is possible _for_ his soul, also, to come to the place of the righteous [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

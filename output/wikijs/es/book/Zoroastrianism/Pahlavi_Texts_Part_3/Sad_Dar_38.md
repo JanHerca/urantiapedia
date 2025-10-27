@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. Porque, cuando [^7] alguien bebe con un extraño, eso hace que _su_ corazón se incline (maîl) hacia él, pues sería un pecado; y, a causa del pecado cometido, se vuelve atrevido, y _su_ alma tiene una inclinación hacia la maldad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

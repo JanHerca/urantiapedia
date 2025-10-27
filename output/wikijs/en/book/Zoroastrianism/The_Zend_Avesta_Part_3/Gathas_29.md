@@ -120,6 +120,8 @@ Zarathu<i>s</i>tra [^81].
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

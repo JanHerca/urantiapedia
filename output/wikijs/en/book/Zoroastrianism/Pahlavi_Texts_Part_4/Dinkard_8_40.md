@@ -44,6 +44,8 @@ _Sakâ<i>d</i>ûm Nask_.
 
 5\. About the reason why the sin of an injured _person becomes_ innocent through not delivering back a damaged _article_ [^3]; and many opinions, on the same subject, are provided for our benefit.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

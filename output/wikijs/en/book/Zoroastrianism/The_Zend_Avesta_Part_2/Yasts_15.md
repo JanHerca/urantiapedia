@@ -354,6 +354,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -380,90 +382,90 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1158]: 249:1 Cf. Sîrôzah I, 22.
+[^1096]: 249:1 Cf. Sîrôzah I, 22.
 
-[^1159]: 249:2 Apãm Napâ<i>t</i> (Yt. VIII, 34) or Ti<i>s</i>trya (Yt. VIII, 1).
+[^1097]: 249:2 Apãm Napâ<i>t</i> (Yt. VIII, 34) or Ti<i>s</i>trya (Yt. VIII, 1).
 
-[^1160]: 250:1 Cf. Yt. V, 17.
+[^1098]: 250:1 Cf. Yt. V, 17.
 
-[^1161]: 250:2 Fraspâ<i>t</i>, Persian ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25000.jpg).
+[^1099]: 250:2 Fraspâ<i>t</i>, Persian ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25000.jpg).
 
-[^1162]: 250:3 Cf. [p. 169](../Yasts_12#p169), note [5](../Yasts_12#fn783).
+[^1100]: 250:3 Cf. [p. 169](../Yasts_12#p169), note [5](../Yasts_12#fn783).
 
-[^1163]: 250:4 See [p. 10](../Sirozahs_1#p10), note [4](../Sirozahs_1#fn69).
+[^1101]: 250:4 See [p. 10](../Sirozahs_1#p10), note [4](../Sirozahs_1#fn69).
 
-[^1164]: 250:5 As Vayu, the atmosphere, is the place in which the conflict of the two principles takes place, one part of him belongs to the Evil Spirit (see Vend. Introd. IV, 17).
+[^1102]: 250:5 As Vayu, the atmosphere, is the place in which the conflict of the two principles takes place, one part of him belongs to the Evil Spirit (see Vend. Introd. IV, 17).
 
-[^1165]: 251:1 The rest as in clause 1.
+[^1103]: 251:1 The rest as in clause 1.
 
-[^1166]: 251:2 Cf. Yt. V, 21, [p. 58](../Yasts_5#p58), note [2](../Yasts_5#fn295).
+[^1104]: 251:2 Cf. Yt. V, 21, [p. 58](../Yasts_5#p58), note [2](../Yasts_5#fn295).
 
-[^1167]: 251:3 Cf. Yt. V, 21-23.
+[^1105]: 251:3 Cf. Yt. V, 21-23.
 
-[^1168]: 251:4 Introduced from § 4 into this and all similar clauses, except the one relating to A<i>z</i>i Dahâka (§ 21).
+[^1106]: 251:4 Introduced from § 4 into this and all similar clauses, except the one relating to A<i>z</i>i Dahâka (§ 21).
 
-[^1169]: 252:1 Takhma Urupa (in later legend Tahmûrâf) was a brother to Yima. He reigned for thirty years and rode Ahriman, turned into a horse. But at last his wife, deceived by Ahriman, revealed to him the secret of her husband's power, and Tahmûrâf was swallowed up by his horse. But Yima managed to take back his brother's body from the body of Ahriman and recovered thereby the arts and civilisation which had disappeared along with Tahmûrâf (see Minokhired XXVII, 32; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 seq.; Ormazd et Ahriman, § 137 seq.; cf. above, [p. 60](../Yasts_5#p60), note [1](../Yasts_5#fn302)).
+[^1107]: 252:1 Takhma Urupa (in later legend Tahmûrâf) was a brother to Yima. He reigned for thirty years and rode Ahriman, turned into a horse. But at last his wife, deceived by Ahriman, revealed to him the secret of her husband's power, and Tahmûrâf was swallowed up by his horse. But Yima managed to take back his brother's body from the body of Ahriman and recovered thereby the arts and civilisation which had disappeared along with Tahmûrâf (see Minokhired XXVII, 32; Ravâet apud Spiegel, Einleitung in die traditionelle Literatur, pp. 317 seq.; Ormazd et Ahriman, § 137 seq.; cf. above, [p. 60](../Yasts_5#p60), note [1](../Yasts_5#fn302)).
 
-[^1170]: 252:2 Azinava<i>n</i><i>t</i> or zaênahva<i>n</i><i>t</i>: he kept that epithet in later tradition: Zînavend, ‘quod cognomen virum significat armis probe instructum’ (Hamza Ispahensis, p. 20, tr. Gottwaldt).
+[^1108]: 252:2 Azinava<i>n</i><i>t</i> or zaênahva<i>n</i><i>t</i>: he kept that epithet in later tradition: Zînavend, ‘quod cognomen virum significat armis probe instructum’ (Hamza Ispahensis, p. 20, tr. Gottwaldt).
 
-[^1171]: 252:3 As told Yt. XIX, 29.
+[^1109]: 252:3 As told Yt. XIX, 29.
 
-[^1172]: 253:1 Cf. Yasna IX, 4-5 (11-20) and Yt. XIX, 31 seq.
+[^1110]: 253:1 Cf. Yasna IX, 4-5 (11-20) and Yt. XIX, 31 seq.
 
-[^1173]: 253:2 This passage is interpolated from Yasna IX, 5 (17-10.
+[^1111]: 253:2 This passage is interpolated from Yasna IX, 5 (17-10.
 
-[^1174]: 253:3 Or, ‘his accursed palace of the Stork’ (upa kviri<i>n</i>tem duzitem). ‘A<i>z</i>i Dahâka,’ says Hamza (p. 32 in the text, p. 22 in the translation), ‘used to live in Babylon (cf. Yt. V, 29), where he had built a palace in the form of a stork; he called it Kuleng Dîs ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25300.jpg)), the fortress of the Stork; the inhabitants called it Dis Het ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25301.jpg)).’ Kuleng Dîs was in Zend Kviri<i>n</i>ta daêza and Dis Het is nothing else than Du<i>z</i>ita. One may doubt p. 254 whether Kviri<i>n</i>ta is the name of a place or the Zend form of Kuleng, a stork: in any case it was a palace in Bawri (Babylon). In the Shah Nâmah it is called Di<i>z</i>ukht (du<i>z</i>\-ukhta for du<i>z</i>\-ita; see Études Iraniennes, II, 211).
+[^1112]: 253:3 Or, ‘his accursed palace of the Stork’ (upa kviri<i>n</i>tem duzitem). ‘A<i>z</i>i Dahâka,’ says Hamza (p. 32 in the text, p. 22 in the translation), ‘used to live in Babylon (cf. Yt. V, 29), where he had built a palace in the form of a stork; he called it Kuleng Dîs ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25300.jpg)), the fortress of the Stork; the inhabitants called it Dis Het ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/25301.jpg)).’ Kuleng Dîs was in Zend Kviri<i>n</i>ta daêza and Dis Het is nothing else than Du<i>z</i>ita. One may doubt p. 254 whether Kviri<i>n</i>ta is the name of a place or the Zend form of Kuleng, a stork: in any case it was a palace in Bawri (Babylon). In the Shah Nâmah it is called Di<i>z</i>ukht (du<i>z</i>\-ukhta for du<i>z</i>\-ita; see Études Iraniennes, II, 211).
 
-[^1175]: 254:1 Cf. Yt. V, 30 seq.
+[^1113]: 254:1 Cf. Yt. V, 30 seq.
 
-[^1176]: 255:1 Yt. V, 34; IX, 14; XVII, 34.
+[^1114]: 255:1 Yt. V, 34; IX, 14; XVII, 34.
 
-[^1177]: 255:2 Cf. Yt. V, 37 seq.
+[^1115]: 255:2 Cf. Yt. V, 37 seq.
 
-[^1178]: 255:3 An unknown affluent of the Rangha (Tigris).
+[^1116]: 255:3 An unknown affluent of the Rangha (Tigris).
 
-[^1179]: 255:4 Sâma had two sons, Keresâspa, a warrior, and Urvâkhshaya, a judge and law-giver (Yasna IX, 10 \[29 seq.\]). We have no further details about Urvâkhshaya's legend than that he was killed by ‘Hitâspa, the golden-crowned’ (cf. Yt. XIX, 4I), and avenged by Keresâspa.
+[^1117]: 255:4 Sâma had two sons, Keresâspa, a warrior, and Urvâkhshaya, a judge and law-giver (Yasna IX, 10 \[29 seq.\]). We have no further details about Urvâkhshaya's legend than that he was killed by ‘Hitâspa, the golden-crowned’ (cf. Yt. XIX, 4I), and avenged by Keresâspa.
 
-[^1180]: 256:1 A disconnected allusion to the struggle of Keresâspa with the Ga<i>n</i>darewa (Yt. V, 38, text and notes; XIX, 41). On the words ‘the son of Ahura . . . .’ cf. Ormazd et Ahriman, p. 215, note 1.
+[^1118]: 256:1 A disconnected allusion to the struggle of Keresâspa with the Ga<i>n</i>darewa (Yt. V, 38, text and notes; XIX, 41). On the words ‘the son of Ahura . . . .’ cf. Ormazd et Ahriman, p. 215, note 1.
 
-[^1181]: 256:2 No other mention is made of Aurvasâra in the Avesta, unless he is alluded to in Yt. V, 50. He does not appear to have been. known to Firdausi.
+[^1119]: 256:2 No other mention is made of Aurvasâra in the Avesta, unless he is alluded to in Yt. V, 50. He does not appear to have been. known to Firdausi.
 
-[^1182]: 256:3 Spaêtini<i>s</i> razûra is called ‘the chief of forests’ (Bund. XXIV, 16). According to the Bahman Ya<i>s</i>t (III, 9), it was the seat of the last and decisive battle between Ar<i>g</i>âsp and Gû<i>s</i>tâsp.
+[^1120]: 256:3 Spaêtini<i>s</i> razûra is called ‘the chief of forests’ (Bund. XXIV, 16). According to the Bahman Ya<i>s</i>t (III, 9), it was the seat of the last and decisive battle between Ar<i>g</i>âsp and Gû<i>s</i>tâsp.
 
-[^1183]: 256:4 Cf. Yt. V, 49; IX, 21.
+[^1121]: 256:4 Cf. Yt. V, 49; IX, 21.
 
-[^1184]: 256:5 Cf. Yt. V, 50.
+[^1122]: 256:5 Cf. Yt. V, 50.
 
-[^1185]: 257:1 This line looks as if it should belong to a counter-prayer by Husravah, which was heard by Vayu, as appears from Yt. V, 50.
+[^1123]: 257:1 This line looks as if it should belong to a counter-prayer by Husravah, which was heard by Vayu, as appears from Yt. V, 50.
 
-[^1186]: 257:2 See Yt. IX, 26.
+[^1124]: 257:2 See Yt. IX, 26.
 
-[^1187]: 257:3 See [p. 77](../Yasts_5#p77), note [1](../Yasts_5#fn381).
+[^1125]: 257:3 See [p. 77](../Yasts_5#p77), note [1](../Yasts_5#fn381).
 
-[^1188]: 258:1 It may be doubted whether the allusion here is to a legend of marriage en masse, following the marriage of Hutaosa with Vî<i>s</i>tâspa, or whether the aorist is used with an indicative meaning: ‘To him do the maids who have known no man . . . . They beg of him a boon, saying . . . .’ Cf. Yt. XVI, 17.
+[^1126]: 258:1 It may be doubted whether the allusion here is to a legend of marriage en masse, following the marriage of Hutaosa with Vî<i>s</i>tâspa, or whether the aorist is used with an indicative meaning: ‘To him do the maids who have known no man . . . . They beg of him a boon, saying . . . .’ Cf. Yt. XVI, 17.
 
-[^1189]: 258:2 Cf. § 5, note 5.
+[^1127]: 258:2 Cf. § 5, note 5.
 
-[^1190]: 258:3 An attempt to an etymological explanation of the name Vayu. Cf. § 53.
+[^1128]: 258:3 An attempt to an etymological explanation of the name Vayu. Cf. § 53.
 
-[^1191]: 259:1 He is their agent and instrument.
+[^1129]: 259:1 He is their agent and instrument.
 
-[^1192]: 260:1 Âiniva (?).
+[^1130]: 260:1 Âiniva (?).
 
-[^1193]: 260:2 Keredhari<i>s</i>a (?).
+[^1131]: 260:2 Keredhari<i>s</i>a (?).
 
-[^1194]: 260:3 Doubtful; bao<i>k</i>a, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/26000.jpg).
+[^1132]: 260:3 Doubtful; bao<i>k</i>a, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/26000.jpg).
 
-[^1195]: 260:4 Reading sudhi<i>s</i>.
+[^1133]: 260:4 Reading sudhi<i>s</i>.
 
-[^1196]: 260:5 Geredha is the burrow of an Ahrimanian creature (see Vend. III, to \[33\]; VII, 24 \[60: Vayu, in that half of him that belongs to the Evil Spirit, is the seat (the burrow) of Ahriman; but with his better half, he struggles against the fiend and destroys him.
+[^1134]: 260:5 Geredha is the burrow of an Ahrimanian creature (see Vend. III, to \[33\]; VII, 24 \[60: Vayu, in that half of him that belongs to the Evil Spirit, is the seat (the burrow) of Ahriman; but with his better half, he struggles against the fiend and destroys him.
 
-[^1197]: 260:6 Cf. Yt. I, 11, 16.
+[^1135]: 260:6 Cf. Yt. I, 11, 16.
 
-[^1198]: 261:1 Literally, coveting.
+[^1136]: 261:1 Literally, coveting.
 
-[^1199]: 261:2 The translation of this clause is doubtful; the text is corrupt.
+[^1137]: 261:2 The translation of this clause is doubtful; the text is corrupt.
 
-[^1200]: 261:3 Cf. § 42.
+[^1138]: 261:3 Cf. § 42.
 
-[^1201]: 262:1 Études Iraniennes, II, 110.
+[^1139]: 262:1 Études Iraniennes, II, 110.

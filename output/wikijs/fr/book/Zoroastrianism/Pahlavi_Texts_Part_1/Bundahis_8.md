@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 1\. Comme l'esprit malin s'engouffra, la terre trembla [^1], _et_ la substance des montagnes fut créée sur la terre. 2. D'abord, le mont Albûr<i>z</i> s'éleva ; ensuite, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> les autres chaînes de montagnes (kôfânîhâ) du milieu de la terre ; car à mesure que Albûr<i>z</i> poussait, toutes les montagnes restèrent en mouvement, car elles ont toutes poussé de la racine d'Albûr<i>z</i>. 3. En ce temps-là, elles s'élevèrent de la terre, comme un arbre qui _a_ grandi jusqu'aux nuages ​​_et sa_ racine [^2] jusqu'en bas ; et leur racine passa ainsi de l'une à l'autre, _et_ elles sont disposées en connexion mutuelle. 4. Ensuite, à propos de ce merveilleux tremblement de terre, ils disent qu'une grande montagne est le nœud des terres ; _et_ le passage des eaux dans les montagnes est la racine qui est au-dessous des montagnes ; ils abandonnent les parties supérieures pour qu'elles puissent s'y écouler, tout comme les racines des arbres pénètrent dans la terre ; une contrepartie (ângunî-aîtak) du sang dans les artères des hommes, qui donne la force à tout le corps. 5. En nombre [^3], à l'exception d'Albûr<i>z</i>, toutes les montagnes sortirent de la terre en dix-huit ans [^4], d'où naît la perfection [^5] de l'avantage des hommes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

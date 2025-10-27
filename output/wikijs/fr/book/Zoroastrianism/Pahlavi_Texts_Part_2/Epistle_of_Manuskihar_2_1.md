@@ -53,6 +53,8 @@ Copie d'une épître du prêtre Mânû<i>s</i><i>k</i>îhar, fils de Yûdân-Yim
 
 16\. Et si, de plus, ceux de bonne religion dans le pays d'Iran manquent toujours de l'érudition et de la connaissance de la religion de _son_ seigneurie sacerdotale, de sorte qu'il disperse la profession, la préparation _et_ l'administration du remède [^19] de nombreuses maladies, alors il les rejette en tant que profession, _et_ il n'y a pas beaucoup de besoin de la sagesse _et_ de l'érudition de _son_ seigneurie sacerdotale. 17. Car _certains_ de _l'époque_ actuelle_ n'approuveraient jamais un feu présidant [^20], qui est à bien des égards une avancée des habitudes étrangères ; _et_ de beaucoup de _choses_ qui sont par écrit, d'une nature plus facile et plus confortable dans un sens mondain, ils offrent <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> et donnent toujours plus que celui qui est prêtre ; et, _en_ ​​fin, personne n'accepte jamais _quiconque_ sauf celui qui est astucieux dans le mal _et_ méchant [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

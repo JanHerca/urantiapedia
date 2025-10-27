@@ -57,6 +57,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 32\. « Et ceci aussi est déclaré, que, quant à celui qui est un homme ignorant et de mauvaise humeur, même lorsqu'il atteint une grande éminence, une grande opulence et une grande autorité, même alors il n'est pas apte à s'élever jusqu'à ce bien-être et cette autorité. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. For it is declared in revelation, that, except that which they enquire of the high-priests, no affair whatever is proper to perform. 5. Whatever wisdom _there be_ for any one from his own head is only one; then, _as_ two wisdoms are more than one [^4], it therefore makes _it_ expedient to enquire of the high-priests.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. _También se les dijo_ a los antiguos eruditos que la vida (khayâ) es donde hay un espíritu viviente dentro del cuerpo del alma, que está conectado con el alma [^11], tanto como un desarrollo (<i>s</i>arîtûntanŏ) del cuerpo, y es la vida (zîvandakîh) del alma de un cuerpo de _alguien_ fallecido.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

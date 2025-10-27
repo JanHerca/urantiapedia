@@ -47,6 +47,8 @@ En Sls. XII, 3, se dice que «en el Gasto _se_ revela que un fuego, cuando lo li
 
 En Sls. XII, 15, se dice que «en el Spend y el Nihâ<i>d</i>ûm los sumos sacerdotes _han_ enseñado que el deber y las buenas obras que realiza un hijo llegan a ser tan del padre como si las hubiera hecho su propia mano».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 6\. Afterwards, because it is necessary, they recite these _inward_ prayers [^3] and perform the benediction (âfrîn) of the fire, so that it may remain _for_ a long period while thou art keeping [^4] this fiend defeated. 7. When another person hears the sneeze, it is likewise requisite for him to utter the said prayers, and to accomplish the benediction of that spirit [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

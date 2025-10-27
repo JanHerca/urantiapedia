@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 8\. El espíritu de sabiduría respondió (9) así: «El hombre es más poderoso que puede luchar contra sus propios demonios [^2]; (10) y, en particular, quien mantiene alejados de sí a estos cinco demonios, (11) que son la avaricia, la ira, la lujuria, la desgracia y el descontento. 12. El camino que cruza el puente de Kāndvar [^3] es más terrible. 13. La cuenta del alma del malvado es más confusa. 14. El vínculo con los hijos es más placentero y deseable. 15. El trabajo que realizan para los ingratos es más lamentable. 16. Y el regalo que dan a los indignos es más inútil [^4].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

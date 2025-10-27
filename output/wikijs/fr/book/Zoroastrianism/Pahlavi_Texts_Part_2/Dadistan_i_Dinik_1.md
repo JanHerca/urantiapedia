@@ -67,6 +67,8 @@ QUELQUES chapitres des enquêtes que Mit<i>r</i>ô-khûrshê<i>d</i>, fils d'Ât
 
 27\. Voici une copie au net (bûr<i>z</i>i<i>s</i>nîkŏ pa<i>k</i>înŏ) des questions, ainsi que des réponses ; de sorte que, lorsqu'il n'y a rien qui, pour cette raison [^29], soit différent, je suis d'avis comme il est écrit ici.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

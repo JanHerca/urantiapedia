@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 9\. En cas de doute, il faut considérer _celui qui est_ orthodoxe (hû-dînô), qui a chanté les hymnes _sacrés_ et _qui est_ de bonne réputation, dont l'ivresse <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> n'est pas manifeste, de cette façon, qu'il boit autant de vin qu'il en a éprouvé alors qu'il n'était pas devenu pire en en buvant. 10. Il est nécessaire de considérer celui dont la religion est invisible, dont la religion est fausse, et celui qui est un enfant pourvu même des réalités de la religion, de cette façon, qu'il devient pire en ayant bu du vin. 11. Lorsque, en dehors de la décision, il n'y a pas de raison assignable (ban<i>g</i>i<i>s</i>nîk) à son égard, la part de vin qu'ils ont donnée sans autorisation, ceux-là mêmes qui ont bu du vin, on considère comme une partie du vin dès lors qu'il _a été_ donné avec plus d'autorisation [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

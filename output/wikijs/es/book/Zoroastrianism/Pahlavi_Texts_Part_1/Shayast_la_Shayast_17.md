@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 15\. Completado en paz, placer y alegría [^19].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -127,6 +127,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 120\. Une noix [^155], de par son mode de connexion, est entièrement souillée, et le lavage de sa coque et de son noyau (pôst va mazg) est exactement comme celui du bois. 121. Une grenade est également de la même nature qu'une noix. 122. _Quant à_ la datte, lorsque sa tige [^156] n'est pas connectée, la datte est souillée et la tige _et_ le noyau (âstak) sont propres ; le lavage de la datte est exactement comme celui du maïs ; et lorsqu'on la touche sur la tige, lorsque la tige, le noyau et la datte sont connectés, l'ensemble est souillé ; _quant à_ la datte lorsqu'elle n'est pas connectée à la tige, _et_ touchée au <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> tige, la datte est propre, et le lavage du noyau est exactement comme celui du bois. 123. La grenade, le cédrat, le coing, la pomme, la poire et les autres fruits, lorsqu'ils sont en production et que l'écorce (pazâ<i>v</i>i<i>s</i>nŏ) est perceptible dessus, quand de la matière morte vient dessus, il n'y a pas de pollution ; et quand l'écorce (pazâmi<i>s</i>nŏ) n'est pas perceptible dessus, son lavage est exactement comme celui du blé ; et l'écorce est toujours avec le cédrat [^157]. 124. _Pour_ la viande, le beurre, le lait, le fromage et les conserves (rî<i>k</i>âr) il n'y a pas de lavage [^158].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

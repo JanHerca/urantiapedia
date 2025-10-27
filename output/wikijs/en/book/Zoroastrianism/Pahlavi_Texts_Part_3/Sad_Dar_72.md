@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The seventy-second subject is this, that when any one carries dead matter to water, _or_ to fire, is <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> worthy of death [^1]. 2. And [^2] it asserts in revelation, that _any_ year when the locust comes profusely [^3], it comes for the reason that dead matter is brought to water and fire. 3. And, _in_ like manner, the winter is colder, and the summer is hotter.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

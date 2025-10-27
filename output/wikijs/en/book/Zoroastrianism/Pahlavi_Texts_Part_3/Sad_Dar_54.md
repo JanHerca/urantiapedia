@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The fifty-fourth subject is this, that if any one has a serving wife [^1], _and_ if the acquisition of a male child results [^2] from her, it is suitable for adoption _by_ that person [^3], and the bridge [^4] is not severed _for_ that person. 2. _But_ if it be a female _child_ it is necessary that the man _should_ not be negligent (_gh_âfil) in appointing an adopted son for his own sake. 3. He _should_ himself appoint a son of some relation, _who is_ a friend of the soul, so that the bridge may not be severed _for_ his soul.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

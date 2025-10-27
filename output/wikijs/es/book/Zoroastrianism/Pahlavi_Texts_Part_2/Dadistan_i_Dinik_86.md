@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. _En cuanto_ a aquellos, además, que, por su ferviente compromiso con lo ordenado, piden menos para todos los ritos religiosos, y no han obtenido [^5] ni siquiera lo que les corresponde, no es como si los hubieran ordenado para los demonios [^6]. 8. Y la desgracia, también, de los que ordenan las buenas obras de tibieza es la exaltación de la profesión de los discípulos; y su progreso deficiente se convierte en la paralización del ceremonial de los seres sagrados para salvar las almas de los buenos del mortal (mar).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

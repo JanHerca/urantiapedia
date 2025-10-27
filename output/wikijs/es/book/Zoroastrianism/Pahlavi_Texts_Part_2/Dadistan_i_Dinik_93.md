@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 15\. Y Tî<i>s</i>tar gradualmente (pa<i>d</i>manîkîhâ) se apoderará del agua para distribuirla liberalmente, asiduamente, una similitud de lo que dijo un gobernante erudito, al ensalzar a un sabio sumo sacerdote, que, «así como el viento atrae el agua que brota de los ríos y manantiales _y_ de los mares; Tî<i>s</i>tar, mediante su propia liberalidad, otorga las porciones preparadas de toda la producción para el beneficio de las criaturas _por_ la voluntad de los seres sagrados, y hace que _llueva_. 16. Y a través de aquello que él tomará deliberadamente para distribuir adecuadamente, él distribuye el agua purificada, él humedece las agradables _existencias_ de los animales _y_ las plantas y perdona [^11] a los contaminados, él provee para el sediento [^12], él causa daño al _sangriento_ como el tinte, y él hace que el mundo prospere. 17. Cuando esa liberalidad generalizada suya, la producción de lluvia, proviene del agua pura y curativa que así aprovechará gradualmente y con justa proporción, y cuando a través de esa adquisición de captaciones de agua los ríos, manantiales y otras existencias (shavandagânŏ) se expanden bien, e incluso la disminución que se debe al desperdicio (aîrîkhtagîh) de ríos y manantiales no ocurre por ello, es así también que los señores, por una ley (dâ<i>d</i>ŏ) moderada y variada, si la regulación (gûn) ha de llegar _lejos_ de la región, contribuyen tanto como <span id="p269"><sup><small>[ p. 269 ​​]</small></sup></span> Tî<i>s</i>tar es causando lluvia para la región y el bien, para el engrandecimiento de los muchos grados [^13] y la reposición de la región y las criaturas [^14].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

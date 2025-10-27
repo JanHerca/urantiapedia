@@ -45,6 +45,8 @@ La Presse d'Orient,
 4, Bâtiments Harcourt,
 Temple intérieur, Londres.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

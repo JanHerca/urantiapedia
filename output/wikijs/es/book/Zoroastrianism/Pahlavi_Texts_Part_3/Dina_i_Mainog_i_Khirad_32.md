@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «El oficio de los artesanos es este: (5) que, en cuanto al trabajo que no entienden, no intervienen; (6) y lo que bien [^2] <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> entienden (hû-dânend), lo realizan bien y con atención; (7) y exigen salarios legítimamente. (8). Porque, en cuanto a quien persiste en hacer ese trabajo que [^3] no entiende, es él quien lo echa a perder y lo vuelve inútil; y cuando, además, es un hombre cuyo trabajo lo satisface, entonces se convierte incluso en origen de pecado para él».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

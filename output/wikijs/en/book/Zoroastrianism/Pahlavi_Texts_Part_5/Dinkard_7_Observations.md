@@ -58,6 +58,8 @@ K 35 (probably written A.D. 1572), No. 35 in the same library, which was brought
 
 T, a copy of a MS. about fifty years older, belonging to Ervad Tehmuras Dinshawji Ankalesaria of Bombay.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

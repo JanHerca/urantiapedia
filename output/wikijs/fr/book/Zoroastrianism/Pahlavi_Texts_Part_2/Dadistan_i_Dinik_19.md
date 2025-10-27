@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Et quant aux âmes des justes et des méchants, dans les lieux spirituels, ils voient le trône (gâs), qu'ils considèrent comme une vision d'Aûha<i>r</i>ma<i>z</i><i>d</i>. 5. De même, ceux qui sont domiciliés (hamnemân) avec Aharman, par cette sagesse en rapport avec le créateur duquel ils souffriront, comprendront minutieusement ce qui concerne Aûha<i>r</i>ma<i>z</i><i>d</i> et la nature d'Aharman (Aharmanîh). 6. Et celui qui est du nombre des justes se réjouit d'échapper à Aharman _et_ de parvenir à l'existence appartenant à Aûha<i>r</i>ma<i>z</i><i>d</i> ; et ils offriront hommage à la gloire [^3] d'Aûha<i>r</i>ma<i>z</i><i>d</i>. 7. Et celui qui est méchant, parce qu'il a été trompé par Aharman, et se détourne de la direction (pe<i>l</i>ag) d'Aûha<i>r</i>ma<i>z</i><i>d</i>, devient plus vexé _et_ plus pénitent ; l'espoir (zahî<i>s</i>nŏ) et le pardon qu'il possède, et le châtiment _et_ l'entrave qui sont les siens parmi les démons _et_ les esprits par son propre travail, sont _par_ la permission qui vient du plus persistant des persistants [^4] à l'époque de la résurrection.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 7\. _It was_ also told to the ancient learned that life (khayâ) is where there is a living spirit within the soul's body, which is connected with the soul [^11], as much as a development (<i>s</i>arîtûntanŏ) of the body, and is the life (zîvandakîh) of the soul of a body of _one_ passed _away_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

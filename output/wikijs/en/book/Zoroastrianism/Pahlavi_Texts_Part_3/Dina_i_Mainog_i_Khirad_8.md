@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 22\. 'Aûha<i>r</i>ma<i>z</i><i>d</i> is wishing good, and never approves nor contemplates evil. 23. Aharman is wishing evil, and does not meditate nor approve anything good whatever. 24. Aûha<i>r</i>ma<i>z</i><i>d</i>, when he wishes it, is able to alter as regards the creatures of Aharman and Aharman, too, it is, who, when \[he wishes\] [^13] it, _can do so_ as regards the creatures of Aûha<i>r</i>ma<i>z</i><i>d</i>, (25) but _he_ is _only_ able to alter so that in the final effect _there may_ be no injury of Aûha<i>r</i>ma<i>z</i><i>d</i>, (26) because the final victory is Aûha<i>r</i>ma<i>z</i><i>d</i>‘s own. 27. For it is declared, that “the Yim [^14] and <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Frê<i>d</i>ûn [^15] and Kâî-Ûs [^16] of Aûha<i>r</i>ma<i>z</i><i>d</i> are created immortal, (28) and Aharman so altered _them_ as is known. 29. _And_ Aharman so contemplated that Bêvarâsp [^17] and Frâsîyâk [^18] and Alexander [^19] _should_ be immortal, (30) _but_ Aûha<i>r</i>ma<i>z</i><i>d</i>, for great advantage, so altered _them_ as that which is declared.”’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

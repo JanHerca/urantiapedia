@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 8\. Desde allí donde el sol sale en el día más largo hasta _donde_ sale en el día más corto está la región oriental de Savah; desde allí donde sale en el día más corto hasta _donde_ se pone en el día más corto está la dirección de las regiones meridionales de Frada<i>d</i>afsh y Vîda<i>d</i>afsh; desde allí donde entra en el día más corto hasta _donde_ entra en el día más largo está la región occidental de Arzah; desde allí donde entra en el día más largo hasta allí donde entra en el día más largo están las regiones septentrionales de Vôrûbar<i>s</i>t _y_ Vôrû<i>g</i>ar<i>s</i>t [^14]. 9. Cuando el sol sale, ilumina (o calienta) las regiones de Savah, Frada<i>d</i>afsh, Vîda<i>d</i>afsh, y la mitad de Khvanîras [^15]; cuando entra en el lado oscuro, ilumina las regiones de Arzah, Vôrûbar<i>s</i>t, Vôrû<i>g</i>ar<i>s</i>t, _y_ la mitad de Khvanîras; cuando _es_ de día aquí _es_ de noche allí.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

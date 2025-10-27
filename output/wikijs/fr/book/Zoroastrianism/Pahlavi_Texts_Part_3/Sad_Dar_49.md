@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le quarante-neuvième sujet est celui-ci, que, lorsque l'on allume <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> un feu, il est nécessaire de le laisser un certain temps, afin que le lit de cendres (bûm) du feu puisse refroidir ; ensuite, on doit le prendre et le porter jusqu'à l'endroit où se trouve le feu. 2. Il ne convient pas qu'ils portent le lit de cendres (zamîn) d'un feu chaud jusqu'à l'endroit où se trouve le feu ; cela est notoire.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

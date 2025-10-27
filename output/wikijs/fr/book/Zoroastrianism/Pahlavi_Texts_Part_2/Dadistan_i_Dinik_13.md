@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Parmi ceux qui vivent, à la balance juste et impartiale (a<i>k</i>afsi<i>s</i>nŏ), l'homme aux habitudes convenables (dâ<i>d</i>ŏ), dont les bonnes œuvres sont plus nombreuses, lorsque le péché lui est arrivé, subit une punition temporaire (vidanâîk) et devient éternellement purifié par les bonnes œuvres ; et celui aux habitudes incorrectes, à beaucoup de péché et à peu de bonnes œuvres, atteint une jouissance temporaire par ces bonnes œuvres, mais à cause du péché qu'ils perçoivent en lui, il souffre une punition jusqu'à la résurrection.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

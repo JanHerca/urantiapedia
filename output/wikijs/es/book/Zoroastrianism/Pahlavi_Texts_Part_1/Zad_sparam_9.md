@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 24\. Éste es el quinto concurso en cuanto a animales.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

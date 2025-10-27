@@ -84,6 +84,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 61\. These are the characteristics as regards the two centuries which are the ninth and tenth; the accuracy of what _was_ to come has continued _and_ this has happened, and both are declared as regards the accuracy which is stated on evidence as to what _will_ happen.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

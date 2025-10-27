@@ -126,6 +126,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 120\. A walnut [^155], through _its_ mode of connection, is all polluted, and the washing of both its shell and kernel (pôst va mazg) is just like _that of_ wood. 121. A pomegranate also is of such nature as a walnut. 122. _As to_ the date, when its stalk [^156] is not connected the date is polluted and the stalk _and_ stone (âstak) are clean; the washing of the date is just like _that of_ corn; and when it is touched upon the stalk, when the stalk, stone, and date are connected, the whole is polluted; _as to_ the date when not connected with the stalk, _and_ touched at the <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> stalk, the date is clean, and the washing of the stone is just like _that of_ wood. 123. The pomegranate, citron, quince, apple, pear, and other fruit, when in bearing and the rind (pazâ<i>v</i>i<i>s</i>nŏ) is perceptible on it, when dead matter comes upon it _there_ is no pollution of it; and when the rind (pazâmi<i>s</i>nŏ) is not perceptible on it, its washing is just like _that of_ corn; and rind is ever with the citron [^157]. 124. _For_ meat, butter, milk, cheese, and preserves (rî<i>k</i>âr) there is no washing [^158].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

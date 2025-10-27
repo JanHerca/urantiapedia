@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 9\. The sacred beings make up the account _and_ reckoning for the soul when the priest recites frasasti ahurahê mazd<i>a</i>u [^10] and removes the Frasast [^11] from this side to that side. 10. The soul passes over the <i>K</i>inva<i>d</i> bridge when, _on_ the fourth night, it arrives from the world _at_ the <i>K</i>inva<i>d</i> bridge. 11. First it goes to the abode of fire (âta<i>s</i>\-gâh) [^12]; afterwards, one step reaches to the star station, the second step reaches to the moon station, the third step to the sun station, _and_ with the fourth step it reaches the <i>K</i>inva<i>d</i> bridge [^13], _and_ they convey it to its own place.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

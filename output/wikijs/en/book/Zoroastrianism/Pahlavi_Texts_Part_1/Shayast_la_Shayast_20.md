@@ -64,6 +64,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 18\. This, too, is declared, that Frê<i>d</i>ûn [^14] wished to slay A<i>z</i>\-i Dahâk [^15], _but_ Aûharmazd spoke thus: ‘Do not slay _him_ now, for the earth will become full of noxious creatures.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

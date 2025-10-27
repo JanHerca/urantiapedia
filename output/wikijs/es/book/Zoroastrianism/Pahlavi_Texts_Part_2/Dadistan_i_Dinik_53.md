@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. La respuesta es esta: sería un grave pecado y una mala ocupación realizar tales negocios por la influencia de la oportunidad _y_ buscar ganancias ilícitas de esa manera. 5. Pero si se trata del medio de vida de quienes profesan buena religión, de quienes usted ha escrito, y no pueden buscarlo en ningún otro negocio u ocupación adecuada que _sea_ un medio de vida menos pecaminoso, los compradores que hayan adquirido <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> la buena religión deberán venderlo a quienes profesan buena religión [^2]; 6. Así que es posible que, cuando vendan ganado para el matadero y para consumo extranjero, muchos animales, que incluso supongan una disminución del sustento de Irán, sean más miserables que un hombre justo obligado a matarlos por la inalcanzable subsistencia _y_ el temor a la muerte.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

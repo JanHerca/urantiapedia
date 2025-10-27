@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. Y esto, también, es así decidido por ellos [^7], que incluso en cuanto a quien es más gravemente pecador, cuando _busca_ mentalmente el perdón _y_ se arrepiente del pecado, _y_, siendo tan expiatorio como le es posible, ha entregado su cuerpo _y_ sus bienes para la retribución _y_ el castigo, confiando en la expiación del pecado de la buena religión, entonces es posible que su alma, también, llegue al lugar de los justos [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

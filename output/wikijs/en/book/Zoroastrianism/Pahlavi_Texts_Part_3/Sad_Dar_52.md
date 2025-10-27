@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 2\. For it is declared in revelation [^3], that, every year, when the day Khurdâ<i>d</i> of the month Fravardîn comes on, they allot a daily provision _for_ mankind, and whatever _one_ wishes to pass to the lot of mankind in that year they write down that day. 3. Therefore, when they shall consecrate this sacred cake, the archangel Khurdâ<i>d</i> [^4] is making intercession for that person.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

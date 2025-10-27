@@ -100,6 +100,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 \[Dale\] a ese hombre brillo y gloria, . . . dale la morada brillante, feliz y dichosa de los Santos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

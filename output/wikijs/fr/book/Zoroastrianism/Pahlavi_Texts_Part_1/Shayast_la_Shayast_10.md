@@ -111,6 +111,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 \[40. La règle est la suivante, comme le dit Âtarô-pâ<i>d</i> _fils de_ Mâraspend [^70] lorsque chacun décède : « Le voile [^71] et les vêtements doivent être bien séparés des dons (dasarân), afin que son âme soit apaisée. » Accompli dans la paix et le plaisir.\]
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. For, in the commentary of the Hâ<i>d</i>ôkht Nask, it says that every one who performs <i>G</i>âda<i>n</i>gôî, and extracts anything from a person on their account, and conveys _it_ to them, is as much without dishonesty (‘<i>h</i>iyânat), towards them [^3], as he who may <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> have given to them out of his own property. 4. And _in_ the spiritual _existence_ they take [^4] account of that profit for him, and just as they make _out_ the account of the good work of that person who may have given _it_, even so much is his good work.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

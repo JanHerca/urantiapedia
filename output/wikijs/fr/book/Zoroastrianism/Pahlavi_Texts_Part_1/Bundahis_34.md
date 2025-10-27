@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 9\. Les A<i>s</i>kâniens portèrent le titre dans une souveraineté ininterrompue (a-arûbâk) deux cent quatre-vingt-quatre ans [^25], Ardashîr fils de Pâpak _et_ le nombre des Sâsâniens quatre cent soixante ans [^26], puis il passa aux Arabes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

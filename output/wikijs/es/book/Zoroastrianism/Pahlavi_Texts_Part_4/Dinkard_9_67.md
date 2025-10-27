@@ -47,6 +47,8 @@ _Bakŏ Nask_.
 
 13\. Es la excelencia de la justicia que es perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

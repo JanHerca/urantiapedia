@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 6\. Pues se declara en la revelación que, del deber [^7] y la buena obra que realizan con duda —es decir, (ya'hnî)—, albergan la sospecha de que «no sé si esta fe que poseo es mejor en comparación con otras creencias»—, no les llega ningún mérito. 7. Por lo tanto, lo primero (avval) es perseverar en la religión; y esta es la principal de todas las buenas obras.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

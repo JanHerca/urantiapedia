@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: que así se dice que las almas de los difuntos y de los muertos [^2] pasan tres noches en la tierra; y la primera noche les llega la satisfacción de sus buenos pensamientos y la aflicción de sus malos pensamientos; la segunda noche, el placer de sus buenas palabras, la incomodidad y el castigo [^3] de sus malas palabras; y la tercera noche, la exaltación de sus buenas obras y el castigo de sus malas obras [^4]. 3. Y esa tercera noche, al amanecer, van al lugar de rendir cuentas en Albûr<i>z</i> [^5]; una vez rendidas las cuentas, se dirigen al puente [^6], y el justo <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> pasa por el puente en ascenso (lâlâîh), y si pertenece a los siempre estacionarios (hamîstânîkŏ) [^7] va allí donde está su lugar, si _junto_ con un exceso de buenas obras _sus_ hábitos son correctos (frârûn-dâ<i>d</i>) _va_ incluso al cielo (vahi<i>s</i>tô), y si junto con un exceso de buenas obras _y_ hábitos correctos ha cantado los himnos sagrados (gâsânŏ) _va_ incluso al cielo supremo (garô<i>d</i>mânŏ). 4. Aquel que es de los malvados cae desde el extremo inferior (tîh) del puente, o desde el medio del puente; cae de cabeza al infierno y es precipitado (nikûnî-aîtŏ) a ese grado [^8] que es _adecuado para_ su maldad.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

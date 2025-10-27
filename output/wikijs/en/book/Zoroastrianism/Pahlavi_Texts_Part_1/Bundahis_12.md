@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 41\. The rest, _apart_ from this enumeration, which they reckon _as_ fostering hills of the country in the religion of the Mazdayasnians, are the small hills, those which have grown piecemeal in places.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

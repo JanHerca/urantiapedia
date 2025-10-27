@@ -51,6 +51,8 @@ Esta copia de K35 estaba, sin duda, originalmente completa, pero ha perdido much
 
 Otro manuscrito del Dâ<i>d</i>istân-i Dînîk y sus acompañamientos, escrito también en Kirmân, pero dos generaciones antes de K35 (digamos, alrededor de 1530 d. C.), ya se ha mencionado (véase [p. xxxiii](/es/book/Zoroastrianism/Pahlavi_Texts_Part_1/Introduction_3#pxxxiii)). Se dice que aún contiene 227 folios, aunque faltan sus primeros setenta folios; por lo tanto, debe comenzar muy cerca del mismo lugar que K35, pero se extiende mucho más allá, ya que proporciona aproximadamente la mitad del texto que aún falta de la <span id="pl"><sup><small>[ p. l ]</small></sup></span> copia de Bombay de K35, aunque ha perdido unos catorce folios al final. Este manuscrito. debe ser el original del que se copió K35, o una autoridad independiente de igual valor, pero no ha estado disponible para fijar el texto de las Selecciones para la presente traducción.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

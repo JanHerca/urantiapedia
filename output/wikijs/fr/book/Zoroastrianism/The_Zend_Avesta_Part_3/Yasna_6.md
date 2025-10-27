@@ -82,6 +82,8 @@ Et nous adorons les billets de bois, et le parfum et toi, le Feu, le fils d'Ahur
 
 Le Zaotar. Que le Ratu, dans sa justice, saint et savant, s'exprime !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -88,6 +88,8 @@ We have no reason to suppose that the Yasna existed in its present form in the e
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

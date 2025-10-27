@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 10\. La retribución se perfecciona así cuando, en la renuncia al pecado que ataca, se prepara una eficacia adecuada _y_ se convierte en un vestigio (vûnakŏ) del pecado del perpetrador. 11. Quien no pueda organizarlo de esta manera debe implorar las oraciones de tres hombres con una donación de riqueza, y debe solemnizar su ceremonia Nônâbar [^19], o debe consagrar un pastel sagrado todos los días en el lugar ceremonial, comer alimentos legalmente _y_ ordenar el mantenimiento adecuado de la eficacia. 12. La asistencia para realizar los rituales adecuados mediante la ordenación de la ceremonia Nâbar, y la ayuda para la existencia al descargar la carga de los problemas de una casa numerosa me parecen adecuados para la expiación de tal pecado, mediante la voluntad de los seres sagrados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

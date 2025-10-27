@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Y, para las mujeres [^3], no hay deber más indispensable que este; pues se declara en la revelación que, cuando celebran un Dvâzdah-hômâst, es una buena obra de cien mil Tanâvars [^4], y si <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> son los días del Dvâzdah-hômâst, es una buena obra de mil mil Tanâvars, y cuando lo celebran de día, es una buena obra igual de buena.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

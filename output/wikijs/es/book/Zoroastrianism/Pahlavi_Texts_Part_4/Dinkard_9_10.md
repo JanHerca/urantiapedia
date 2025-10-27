@@ -41,6 +41,8 @@ _Sûdkar Nask_.
 
 4\. Perfecta es la excelencia de la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

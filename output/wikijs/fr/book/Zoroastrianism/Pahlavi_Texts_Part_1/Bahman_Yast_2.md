@@ -89,6 +89,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 64\. Quiconque [^73] parmi ceux qui existent ainsi, avec révérence pour le bien, accomplit beaucoup d'adoration pour Aûharmazd, Aûharmazd, conscient de cela par la droiture, lui donne tout ce dont Aûharmazd est conscient par la droiture, en rémunération et récompense du devoir et des bonnes œuvres, et de tels membres de <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> la congrégation, hommes et femmes, je les révère ; et les archanges, qui sont également hommes et femmes, ils sont bons.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

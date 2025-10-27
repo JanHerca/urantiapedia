@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. The demons and fiends rush away, because there is the glory of the sacred fire that we are able to make a living existence in the midst of this <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> people. 5. For, if no fiend [^4] and the glory of the archangels and the day of the sacred fire had not existed, it would not have been possible to produce the living existence any day. 6. And, therefore, it makes _it_ expedient that they supply a fire-attendant to maintain the firewood and fire, so that a seeking for _its_ safety (’hâfiyat) _may_ come into _operation_, and they _may_ know a support and protection for it that would be acceptable.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -55,6 +55,8 @@ POR el nombre, poder y asistencia del creador Aûha<i>r</i>ma<i>z</i><i>d</i>, l
 
 57\. Después de eso, el espíritu de sabiduría, a causa de los pensamientos y deseos de aquel sabio, le mostró su persona. 58. Y le habló (59) así: «¡Oh amigo y glorificador! ¡Bien proveniente de la perfecta rectitud! (60) Busca el progreso de mí, el espíritu de sabiduría, (61) para que pueda ser tu guía hacia la satisfacción de los seres sagrados y <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> el bien [^32], y hacia el mantenimiento del cuerpo en la existencia mundana y la preservación del alma en la espiritual».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

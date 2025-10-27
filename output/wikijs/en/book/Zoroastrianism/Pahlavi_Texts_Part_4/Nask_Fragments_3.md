@@ -86,6 +86,8 @@ The beginning of the second subdivision [^36].
 
 Dk. IX, Chap. XLVII, 11, refers to Pahl. Yas. XIX, 12-15, which is thus quoted in Sls. X, 26, in a shorter and altered form:—‘As it says in the Bak thus: "Whoever shall mutter, <i>O</i> Zaratû<i>s</i>t! my apportionment of the Ahunavair, (that is, shall softly take _it inwardly_) _and_ shall let _it_ escape [^50] again, (that is, shall utter _it aloud_) so much as a half, or a third, or a fourth, or a fifth, his soul will I shield [^51], I who am Aûha<i>r</i>ma<i>z</i><i>d</i>, from the best existence, (that is, I _will_ keep it away,) by such an extent as the width of this earth."’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

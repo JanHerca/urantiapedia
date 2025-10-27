@@ -43,6 +43,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 10\. Acerca de la buena obra de toda actividad sabia y la recompensa del lugar feliz [^2]; el pecado de toda actividad ignorante y el <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> puente, la pena del lugar malo [^3]; conectado con esto, para que el justo se desarrolle en sabiduría y el malvado disminuya en ignorancia, está el mundo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

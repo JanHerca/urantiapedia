@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : lorsque ceux qui doivent prendre son dirham doivent lui confier les cinq boisseaux de blé, sans méfiance et de leur propre gré, pour qu’il les vanne, de même qu’ils sont vannes par lui avec discernement et sans méfiance, ils doivent les prendre tels quels ; telle est la décision autorisée. 3. Mais lorsque le blé est vanne par lui en raison d’une très grave nécessité de paiement, il est plus convenable pour l’âme de mendier au donateur de l’argent, qui est l’acheteur payeur [^3], une partie de cet excédent de profit indivis (apâr). 4. Car il doit considérer le profit de ses successeurs comme faisant partie du profit de l’argent sur place [^4]\—_lorsque_ plus de <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> un tel versement exigé - et non pas comme un nouvel enlèvement d'un don [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

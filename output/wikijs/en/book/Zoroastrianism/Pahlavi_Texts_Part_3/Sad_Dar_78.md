@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The seventy-eighth subject is this, that in every habitation _where_ any one departs, passing away from <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> the world, it is necessary to endeavour that they _may_ not eat and not consecrate fresh meat _for_ three days therein [^1]. 2. Because the danger is that some one else _may_ depart, passing away; _so_ the relations of that _former_ person _should_ not eat meat _for_ three days.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

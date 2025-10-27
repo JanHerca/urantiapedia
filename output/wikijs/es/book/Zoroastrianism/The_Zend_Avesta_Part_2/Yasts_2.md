@@ -157,6 +157,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes...
 Dale a ese hombre [^213] brillo y gloria, dale salud de cuerpo, dale robustez de cuerpo, dale fuerza victoriosa de cuerpo, dale pleno bienestar de riqueza, dale una descendencia virtuosa, dale una vida larga, larga, dale la morada brillante, feliz y dichosa de los Santos.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -183,56 +185,56 @@ Dale a ese hombre [^213] brillo y gloria, dale salud de cuerpo, dale robustez de
 
 ## Notas al pie
 
-[^194]: 35:1 El resto como arriba, Yt. I, 0.
+[^187]: 35:1 El resto como arriba, Yt. I, 0. 
 
-[^195]: 35:2 Sîrôzah I, 1-2.
+[^188]: 35:2 Sîrôzah I, 1-2. 
 
-[^196]: 35:3 Sîrôzah I, 3-4.
+[^189]: 35:3 Sîrôzah I, 3-4. 
 
-[^197]: 36:1 Sîrôzah I, 5-7.
+[^190]: 36:1 Sîrôzah I, 5-7. 
 
-[^198]: 36:2 Siroza I, 7.
+[^191]: 36:2 Sîrôzah I, 7. 
 
-[^200]: 36:3 Siroza I, 7.
+[^192]: 36:3 Sîrôzah I, 7. 
 
-[^201]: 37:1 Sîrôzah II, 1-2.
+[^193]: 37:1 Sîrôzah II, 1-2. 
 
-[^202]: 37:2 Sîrôzah II, 3-4.
+[^194]: 37:2 Sîrôzah II, 3-4. 
 
-[^203]: 37:3 Sîrôzah II, 5-7.
+[^195]: 37:3 Sîrôzah II, 5-7. 
 
-[^204]: 37:4 Siroza II, 7.
+[^196]: 37:4 Sîrôzah II, 7. 
 
-[^205]: 38:1 Siroza II, 7.
+[^197]:38:1 Sîrôzah II, 7. 
 
-[^206]: 38:2 O bien: Que Zaratustra aplaste al Yatus.
+[^198]: 38:2 O: Que Zaratustra aplaste a los Yatus. 
 
-[^207]: 38:3 Los Yâtus son demonios u hombres: el hombre-Yâtu es el hechicero, el mago. Cf. Yt. VIII, 44.
+[^199]: 38:3 Los Yatus son demonios u hombres: el hombre-Yâtu es el hechicero, el mago. Cf. Yt. VIII, 44. 
 
-[^208]: 38:4 Dudoso.
+[^200]: 38:4 Dudoso. 
 
-[^209]: 38:5 No puedo hacer nada con esta sección.
+[^201]: 38:5 No puedo sacar nada en claro de esta sección.
 
-[^210]: 39:1 Dudoso.
+[^202]: 39:1 Dudoso. 
 
-[^211]: 39:2 Ver Yt. VIII, 5, 42; cf. Artículo 20.
+[^203]: 39:2 Ver Yt. VIII, 5, 42; cf. § 20. 
 
-[^212]: 39:3 Âtare-vîtaremaibyâ. . . . vîmrao<i>t</i>; cf. âtarâish. . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]): âtareman parece ser un pecado por comisión, vîtareman un pecado por omisión.
+[^204]: 39:3 Âtare-vîtaremaibyâ. . . . vîmrao<i>t</i>; cf. âtarâish. . . . vî sarem mruyê (Yasna XII, 4 \[XIII, 16\]): âtareman parece ser un pecado por comisión, vîtareman un pecado por omisión. 
 
-[^213]: 39:4 Dudoso (fraspâvare<i>s</i>: fraspâ se traduce generalmente como ramîtûntan).
+[^205]: 39:4 Dudoso (fraspâvare<i>s</i>: fraspâ generalmente se traduce ramîtûntan). 
 
-[^214]: 39:5 Dudoso.
+[^206]: 39:5 Dudoso. 
 
-[^215]: 39:6 Cf. Yt. XIII, también; XIX, 86; frava<i>s</i>nãm es el reverso de uzvazha<i>t</i> (1.1.).
+[^207]: 39:6 Cf. Yt. XIII, también; XIX, 86; frava<i>s</i>nãm es el reverso de uzvazha<i>t</i> (1.1.). 
 
-[^216]: 39:7 El resto como arriba, § 1.
+[^208]: 39:7 El resto como arriba, § 1. 
 
-[^218]: 40:1 El resto como arriba, § 2.
+[^209]: 40:1 El resto como arriba, § 2. 
 
-[^221]: 40:2 El resto como arriba, § 3.
+[^210]: 40:2 El resto como arriba, § 3. 
 
-[^224]: 40:3 El resto como arriba, §4.
+[^211]: 40:3 El resto como arriba, §4. 
 
-[^225]: 40:4 El resto como arriba, § 5.
+[^212]: 40:4 El resto como arriba, § 5. 
 
-[^226]: 40:5 ¿Quién ofrecerá un sacrificio a los Amshaspands?
+[^213]: 40:5 ¿Quién ofrecerá un sacrificio a los Amshaspands?

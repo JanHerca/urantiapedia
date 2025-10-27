@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 8\. L'esprit de sagesse répondit (9) ainsi : « L'être sacré est la protection la plus défensive. 10. Un frère vertueux est un bon ami. 11. Un enfant vertueux et défenseur de la religion est un bon soutien de la renommée. 12. Une épouse vertueuse et bien disposée est une bonne aide au plaisir. 13. La richesse est meilleure et plus agréable lorsqu'elle est acquise par l'honnêteté, et qu'on consomme et entretient par des devoirs et de bonnes œuvres. 14. Et les plaisirs qui sont supérieurs à tous les plaisirs sont la santé du corps, l'absence de peur, la bonne réputation et la droiture [^4]. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

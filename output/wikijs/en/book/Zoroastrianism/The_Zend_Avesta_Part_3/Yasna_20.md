@@ -46,6 +46,8 @@ We sacrifice to the (several) part(s) of the Asha Vahi<i>s</i>ta (prayer). We sa
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 12\. Il est également dit que « dans un hiver je localiserai (<i>g</i>âkînam) la religion des Mazdayasniens, qui s'est répandue dans les six autres régions. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

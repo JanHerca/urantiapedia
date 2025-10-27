@@ -50,6 +50,8 @@ To. And every single organ _has_ one function, _but_ two special functions are. 
 
 14\. One means for the retention of knowledge is through not having that retention of knowledge exhausted, but when _one_ thus speaks during that cleansing the words are really originating with the mouth, for he does not retain _them_; and whenever (maman) he does not speak anything whatever with the tongue, that religious glorification which _it_ is the custom to utter before and after eating is then offered by him from his own limited resources (sâmânŏ-î vîmônd), and it will be offered from his own limited resources.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

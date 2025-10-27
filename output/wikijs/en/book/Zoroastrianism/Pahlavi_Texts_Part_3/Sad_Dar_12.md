@@ -40,6 +40,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 8\. And as many as shall be able to walk after the bier (tâbût) and corpse shall walk. 9. Because every step that they go after a corpse is a good work of three hundred stîrs [^8]; _and_ every stîr is four dirhams, in such manner that three hundred stîrs are a thousand _and_ two hundred dirhams [^9]. 10. For every single step _there_ is thus much good work.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

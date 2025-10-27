@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 10\. Los incautos [^9] impiden que la semilla viva se asocie con mujeres _y_ busque procreación, como en el vicio de cualquier demonio, conectado con un anhelo <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> por los incautos [^10], quienes abandonarán esa ventaja del mundo, los deleites (vâyagânŏ) de un hijo [^11]. 11. Quien desperdicia semilla tiene la costumbre de causar la muerte de la progenie; cuando la costumbre es completamente continua, lo que produce una detención maligna [^12] del progreso de la raza, las criaturas _han_ sido aniquiladas; _y_ ciertamente, esa acción, de la cual, al proceder universalmente, debe surgir la despoblación del mundo, se ha convertido y fomentado (frârâstŏ) el mayor deseo de Aharman [^13]. 12. Tal practicante es el mayor deseo de Aharman, a través de la excreción del demonio [^14] de la duda _en_ ​​la práctica, debido a la relación con el emisor, _que_ es muy sucio y fétido, y el miembro emisor, que está causando la muerte; y la práctica demoníaca [^15] es perceptible incluso desde la misma práctica, y cualquiera que sea la atrocidad _de_ la pecaminosidad es clara para los observadores del _cuerpo_ muerto.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

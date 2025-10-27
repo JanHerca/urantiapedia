@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 10\. À l'aube, la mère de Zaratûst se rendit à cet endroit, s'attendant à devoir sortir un squelette de la tanière. Le mouton laineux sortit et s'enfuit. Sa mère supposa que c'était le loup et lui dit : « Tu as mangé à satiété ; puis-je survivre sans lui à jamais ! » 11. Elle alla plus loin et, voyant Zaratûst en parfaite sécurité, elle le prit dans ses bras et lui dit : « Je ne te donnerai à personne de mon vivant, même si les provinces de Râgh et de Nôdar arrivaient ici ensemble [^9]. » <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 12\. Car ces _princes_ étaient parmi les spirituels de deux provinces qui _sont_ dans l'Âtûr-pâ<i>d</i>akân, telles qu'elles _sont_ à soixante lieues (parasang) de <i>K</i>îst : Zaratû<i>s</i>t est né de Râgh, et Vi<i>s</i>tâsp de Nô<i>d</i>ar. 13. Et de ces deux provinces, Râgh était, selon le nom d'Êrikŏ, fils de Dûrêsrôbô, fils de Mânû<i>s</i><i>k</i>îhar [^10], de qui est issue la race de Zaratû<i>s</i>t ; et Nô<i>d</i>ar était, selon le nom de Nô<i>d</i>ar, fils de Mânû<i>s</i><i>k</i>îhar, de qui est issue la race de Vi<i>s</i>tâsp.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Et cela aussi m'étonne beaucoup, que, puisque vous n'en tenez pas compte, que lorsqu'il n'y a pas de purificateur [^6] et qu'on ne l'obtient pas, il soit alors nécessaire qu'il opère lui-même [^7], comment alors obtenez-vous cette connaissance, sur laquelle information (âgahîh) vous est parvenue, que la purification de tous les purificateurs du pays d'Iran est exactement comme ils devraient toujours l'accomplir. 5. Puisque, à mon avis, il n'y a aucune connaissance complète de la gestion d'une maison en vous, son propre maître, de quelle manière alors notre récit des ragots [^8], _et vos_ informations, sur tous les purificateurs du pays d'Iran <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> sont obtenus ? 6. Si ton peuple abandonne ce qui est le plus indispensable, et si ton récit des ragots, concernant ce que tout le royaume a fait, n'est pas conforme aux commandements de la religion et à la saine sagesse, et si cela n'est pas venu complètement à ta connaissance comme le lavage des purificateurs du pays d'Iran - car, lorsque tu ne fixe pas même le nombre de leurs pas [^9], il est certain que _ta_ compréhension de leur tempérament _et_ de leur pratique vertueuse est encore moindre - alors il était nécessaire pour toi de déterminer la raison pour laquelle tous les purificateurs du pays d'Iran se lavent toujours de la manière déclarée comme impropre, avec quelque certitude que cela soit dit ou écrit.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

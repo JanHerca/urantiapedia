@@ -54,7 +54,7 @@ Sois de ma part une propitiation, pour le sacrifice, la prière, la propitiation
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-## JE.
+## I.
 
 1\. Nous sacrifions à la très juste <i>K</i>ista, faite par Mazda et sainte : nous sacrifions à la bonne Loi des adorateurs de Mazda, le fournisseur de bonnes provisions <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>, qui court vite au but et libère au mieux des dangers [^1140], qui apporte des libations, qui est saint, intelligent et renommé, prompt au travail et prompt à l'ouvrage ; qui va vite et purifie bien ; la bonne Loi des adorateurs de Mazda ;
 
@@ -128,6 +128,8 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 \[Donnez\] à cet homme la luminosité et la gloire, . . . . donnez-lui une longue, longue vie, donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -154,22 +156,22 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1202]: 265:1 Lecture du nimarezi<i>s</i>ta ; cf. vîmarezi<i>s</i>tem, Yt. I, 2.
+[^1140]: 265:1 Lecture de nimarezi<i>s</i>ta ; cf. vîmarezi<i>s</i>tem, Yt. I, 2. 
 
-[^1203]: 265:2 La demeure céleste, le Garôthmân.
+[^1141]: 265:2 La demeure céleste, le Garôthmân. 
 
-[^1204]: 265:3 Le reste comme au § 1.
+[^1142]: 265:3 Le reste comme au § 1. 
 
-[^1205]: 266:1 Cf. Yt. XIV, 29.
+[^1143]: 266:1 Cf. Yt. XIV, 29. 
 
-[^1206]: 266:2 Cf. Yt. XIV, 31.
+[^1144]: 266:2 Cf. Yt. XIV, 31. 
 
-[^1207]: 267:1 Cf. Yt. XIV, 33.
+[^1145]: 267:1 Cf. Yt. XIV, 33. 
 
-[^1208]: 267:2 La femme de Zarathoustra.
+[^1146]: 267:2 L'épouse de Zarathoustra. 
 
-[^1209]: 267:3 Bangha; le soi-disant Bang de Zoroastre (Vend. XV, 14 \[44\]; tr. phil.). On peut déduire quelle a dû être sa vertu d'après les légendes de Gû<i>s</i>tâsp et d'Ardâ Vîrâf, qui auraient été transportés en âme aux cieux et auraient reçu la révélation des mystères supérieurs en buvant dans une coupe préparée par le prophète (Zardu<i>s</i>t Nâmah), ou dans une coupe de Gû<i>s</i>tâsp-bang (Ardâ Vîrâf, II, 29).
+[^1147]: 267:3 Bangha ; le soi-disant Bang de Zoroastre (Vend. XV, 14 \[44\] ; tr. phil.). On peut déduire quelle devait être sa vertu d'après les légendes de Gûstâsp et d'Ardâ Vîrâf, dont on dit qu'ils furent transportés en âme aux cieux et que les mystères supérieurs leur furent révélés en buvant dans une coupe préparée par le prophète (Zarduşt Nâmah), ou dans une coupe de Gûstâsp-bang (Ardâ Vîrâf, II, 29). 
 
-[^1210]: 268:1 Les prêtres itinérants, ancêtres des derviches modernes.
+[^1148]:268:1 Les prêtres itinérants, ancêtres des derviches modernes. 
 
-[^1211]: 268:2 Ou mieux, sacrifiez ; cf. Yt. XIV, 39.
+[^1149]: 268:2 Ou mieux, sacrifient ; cf. Yt. XIV, 39.

@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that _it_ is proper not to diminish a gift where _it is_ the gift [^1] for a ceremonial, and the reasons for it are many. 3. One is this, that a gift is the money which in another good work suffices for the accomplishment of the good work, _and_ the good work of a righteous gift [^2] is a great good work, _and_ not to diminish _it_ is sure worthiness among the explainers. 4. When the sacred feast [^3] _and_ the gift for the ceremonial are supplied in excess, even that which is an excess of gift is an excess of liberality to the performers of the ceremonial, _and has_ realized (frârâstŏ) an excess of good works that is commendable.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

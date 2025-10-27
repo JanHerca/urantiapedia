@@ -90,6 +90,8 @@ Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -116,32 +118,32 @@ Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
 ## Footnotes
 
-[^1252]: 283:1 As it gives food, flocks, and wealth to those who get possessed of it.
+[^1190]: 283:1 As it gives food, flocks, and wealth to those who get possessed of it.
 
-[^1253]: 284:1 See Vendîdâd, Introd. IV, 22.
+[^1191]: 284:1 See Vendîdâd, Introd. IV, 22.
 
-[^1254]: 284:2 Ibid. Introd. IV, 24.
+[^1192]: 284:2 Ibid. Introd. IV, 24.
 
-[^1255]: 284:3 Doubtful.
+[^1193]: 284:3 Doubtful.
 
-[^1256]: 284:4 ? A daêva or a disease.
+[^1194]: 284:4 ? A daêva or a disease.
 
-[^1257]: 284:5 See Yt. VIII, 22.
+[^1195]: 284:5 See Yt. VIII, 22.
 
-[^1258]: 284:6 See Yt. XVII.
+[^1196]: 284:6 See Yt. XVII.
 
-[^1259]: 284:7 Who gives alms to the poor Mazdayasnians.
+[^1197]: 284:7 Who gives alms to the poor Mazdayasnians.
 
-[^1260]: 284:8 Even one foot (?), when she stays not there ‘for long friendship’ (Yt. XVII, 6).
+[^1198]: 284:8 Even one foot (?), when she stays not there ‘for long friendship’ (Yt. XVII, 6).
 
-[^1261]: 284:9 So that the rain falls in due time (Yt. VIII, 11).
+[^1199]: 284:9 So that the rain falls in due time (Yt. VIII, 11).
 
-[^1262]: 284:10 Cf. Yt. VIII, 29.
+[^1200]: 284:10 Cf. Yt. VIII, 29.
 
-[^1263]: 284:11 Cf. § 2.
+[^1201]: 284:11 Cf. § 2.
 
-[^1264]: 285:1 Arshukhdha va<i>k</i>ô, the words conformable to the rites.
+[^1202]: 285:1 Arshukhdha va<i>k</i>ô, the words conformable to the rites.
 
-[^1265]: 285:2 Haoma<i>k</i>inem; see Études Iraniennes, II, 148.
+[^1203]: 285:2 Haoma<i>k</i>inem; see Études Iraniennes, II, 148.
 
-[^1266]: 285:3 Who shall have sacrificed to the Aryan Glory.
+[^1204]: 285:3 Who shall have sacrificed to the Aryan Glory.

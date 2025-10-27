@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 12\. Debes entender que la similitud entre las tres enseñanzas que has escrito es similar a la que he descrito [^19] y ordenado que formes y diseñes, para que puedas verla con mayor claridad, considerando tu propia liberación [^20], la aguda <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> intelectualidad de quienes explican lo que no se considera correctamente en relación con su propósito (âhankŏ), y la acumulación de opiniones que se mantiene firme en la ley de los antiguos y te ordena que la prestes atención. 13. Porque, debido a lo milagroso y preeminente de aquello [^21], quien piensa restaurar las buenas ideas de los antiguos no entiende él mismo el conocimiento en esa sabiduría de los antiguos, _y_ no mantiene su propia presunción (mînîh) humilde y enseñable; mucho, también, de lo que es a través de su propio aprendizaje se declara _como_ fuera de ella (la ley), _y_ cómo nos ordena _que la entendamos_ es _por_ su propia opinión [^22].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

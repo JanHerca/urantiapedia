@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «La sabiduría en la que no hay bondad no debe considerarse sabiduría; (5) y la habilidad en la que no hay sabiduría no debe considerarse habilidad».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

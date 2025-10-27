@@ -1142,6 +1142,8 @@ Zîyânakistân ch., Dk. VIII, **40**, 1.
 
 Zôti, priest, Dk. VIII, **7**, 5, 9; **8**, 3; **29**, 1, 5, 13; **31**, 20; IX, 1**2**, 26-28; **24**, 4; **33**, 5; **43**, 7; **69**, 50.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

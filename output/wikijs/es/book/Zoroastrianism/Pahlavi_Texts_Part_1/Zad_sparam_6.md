@@ -55,6 +55,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 23\. Y esta fue la segunda contienda, que fue con el agua.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -126,7 +128,7 @@ dateCreated: 2025-10-10T14:41:20Z
 
 [^22]: (173:4) Bund. XXII, 2.
 
-[^23]: (173:5) Escrito Gû<i>s</i>asp en Bund. XVII. 7, y Gû<i>s</i>nâsp en B. Yt. III, 30, 40, mientras que la forma más antigua Vi<i>s</i>nâsp aparece en B.Yt. III, 10.
+[^23]: (173:5) Escrito Gû<i>s</i>asp en Bund. XVII. 7, y Gû<i>s</i>nâsp en B. Yt. III, 30, 40, mientras que la forma más antigua Vi<i>s</i>nâsp aparece en B. Yt. III, 10.
 
 [^24]: (173:6) El Sôvbar de Bund. VII, 14, XII, 24, XXII, 3.
 

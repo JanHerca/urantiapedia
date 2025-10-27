@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. C'est pourquoi ils ont bien décidé qui [^3] leur enseigne <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> quelque chose, en particulier ce qui est convenable et ce qui ne l'est pas selon la révélation ; car le principe principal est celui-ci : si, par le devoir de ce monde, un bon ou un mauvais résultat doit arriver dans l'avenir.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

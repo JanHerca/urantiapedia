@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 3\. La justice est l’excellence parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

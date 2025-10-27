@@ -47,6 +47,8 @@ Sobre la llegada de Aharman a las criaturas, así se declara en la revelación, 
 
 11\. Por último, él (Aharman) se acercó al fuego y mezcló con él oscuridad y humo [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -102,6 +102,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 32\. Homage to Srît [^13] the teacher! may he live long! may he be prosperous _in_ the land! may _his_ be every pleasure and joy, _and_ every glory of the Kayâns, through the will of the persistent Aûharmazd!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

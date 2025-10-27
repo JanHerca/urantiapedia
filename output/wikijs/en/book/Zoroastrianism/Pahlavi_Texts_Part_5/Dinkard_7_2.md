@@ -92,6 +92,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 70\. Here is an enumeration _of_ the worthy lineage of Zaratû<i>s</i>t [^50]:—Zaratû<i>s</i>t _was son_ of Pôrûshâspô, _son_ of Pa<i>d</i>îragtarâspô, of Urugadhasp\*, of Haê<i>k</i>a<i>d</i>aspô\*, of <i>K</i>ikhshnu<i>s</i>\*, of Paêtrasp\*, of Are<i>g</i>adhar<i>s</i>n\*, of Hardhar\*, of Spîtâm, of Vaêdi<i>s</i>t\*, of Nayâzem\* [^51], of Aîrî<i>k</i> 3, of Dûrâsrôbô, of Mânû<i>s</i><i>k</i>îhar monarch of Irân, of Mânû<i>s</i>\-khûrnar, of Mânû<i>s</i>\-khûrnâk whom Nêrôksang implanted in [^52] Vîzak\*, _daughter_ of Air-yak\*, _son_ of Thritak\*, of Bitak\*, of Frazû<i>s</i>ak\*, of Zû<i>s</i>ak\*, of Fragûzak\* [^53], of Gûzak\* [^54], _daughter_ of Aîrî<i>k</i>, _son_ of Frê<i>d</i>ûn monarch of Khvanîras, _son_ of Pûr-tô<i>r</i>â the Âspîgân, of Nêvak-tô<i>r</i>â the Âspîgân, of Sôg-tô<i>r</i>â the Âspîgân, of Bôr-tô<i>r</i>â the Âspîgân, of Ka<i>r</i><i>d</i>âr-tô<i>r</i>â [^55] the Âspîgân, of Sîyah-tô<i>r</i>â the Âspîgân, of Spêtô-tô<i>r</i>â the Âspîgân, of Gêfar-tô<i>r</i>â the Âspîgân, of Ramak-tô<i>r</i>â [^56] the Âspîgân, of Vanôfravi<i>s</i>n the Âspîgân, of Yim monarch of the seven <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> regions, _son_ of Vîvangha, of Ayang,ha<i>d</i>\*, of Anang,ha<i>d</i>\*, _son_ of Hôshâng the Pê<i>s</i>dâ<i>d</i>ian monarch of the seven regions, _son_ of Fravâk, of Sîyâmak, of Masyâ, of Gâyômar<i>d</i> the first man.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

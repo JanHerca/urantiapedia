@@ -39,6 +39,8 @@ _Hûspâram Nask_.
 
 1\. Une section des vingt suivantes contient des détails sur le rite d'une épreuve accomplie, ainsi que sur les modes de préservation ou d'incrimination de quelqu'un, et tout ce qui concerne le même sujet.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -65,6 +65,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 18\. También se declara que Frê<i>d</i>ûn [^14] quería matar a A<i>z</i>\-i Dahâk [^15], _pero_ Aûharmazd dijo así: «No lo matéis ahora, porque la tierra se llenará de criaturas nocivas.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

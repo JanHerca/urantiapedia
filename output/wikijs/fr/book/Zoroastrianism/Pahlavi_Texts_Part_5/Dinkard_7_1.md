@@ -103,6 +103,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 54\. _Et_ cela depuis l'arrivée du Bienfaiteur Triomphant, _jusqu'à_ l'émerveillement _de_ la rénovation _et_ de_ l'existence future ; un exposé de chacun d'eux séparément.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

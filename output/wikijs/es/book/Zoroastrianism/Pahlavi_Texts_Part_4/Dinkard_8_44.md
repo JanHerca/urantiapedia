@@ -93,6 +93,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 82\. Es la justicia la que es la excelencia perfecta. Es la excelencia de la justicia la que es perfecta.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

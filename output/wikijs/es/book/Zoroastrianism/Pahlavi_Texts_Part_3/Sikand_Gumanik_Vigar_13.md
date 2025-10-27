@@ -83,6 +83,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 150\. Sobre este tema, por ser tedioso, se considera que hasta aquí llegamos.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

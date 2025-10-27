@@ -43,6 +43,8 @@ _Sû<i>d</i>kar Nask_.
 
 5\. La justice est parfaite par excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

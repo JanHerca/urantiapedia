@@ -61,6 +61,8 @@ A estos memorandos y escritos se les llama las Selecciones (<i>k</i>î<i>d</i>ak
 
 27\. Al mismo tiempo, Aharman, acompañando al Tiempo, salió al frente, a la estación estelar; la conexión del cielo con la estación estelar estaba abierta, lo que mostraba, al extenderse hacia el espacio vacío, la fuerte comunicación entre las luces y las tinieblas, el lugar de conflicto donde ambas se persiguen. 28. Y, poseyendo la oscuridad, la trajo al cielo, y dejó el cielo tan sumido en la oscuridad que la deficiencia interna se extiende hasta un tercio [^17] sobre la estación estelar.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

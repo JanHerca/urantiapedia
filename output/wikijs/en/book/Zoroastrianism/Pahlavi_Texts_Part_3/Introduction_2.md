@@ -86,6 +86,8 @@ From this account of all the manuscripts of the <i>S</i>ikand-gûmânîk Vi<i>g<
 
 The <i>S</i>ikand-gûmânîk Vi<i>g</i>âr has not been hitherto translated into any European language, but an edition of its Pâzand and Pahlavi texts was prepared by Dastûr Hôshangji about fifteen years ago, and arrangements have been made for the publication of these texts, with the Sanskrit version, at an early date.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 7\. Et le quatrième jour, l'ordonnance et l'accomplissement de la cérémonie de l'esprit gardien juste (ar<i>d</i>âî fravar<i>d</i>ŏ) [^8] sont pour la même âme et les esprits gardiens justes restants de ceux qui sont et étaient et seront, depuis Gâyômar<i>d</i> le propice jusqu'à Sôshâns le triomphant [^9].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

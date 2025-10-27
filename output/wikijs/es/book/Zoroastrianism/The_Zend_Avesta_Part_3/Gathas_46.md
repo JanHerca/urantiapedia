@@ -108,6 +108,8 @@ Traducción.
 
 19\. (Sí, esto lo anuncio con vehemencia.) A quien, con rectitud (en mente y vida), realice en verdad para mí, para Zaratustra, lo que sea más útil (para mi causa), según mi sincero deseo (y mediante mis palabras de fervor), le otorgarán recompensas más allá de esta tierra, con todas las bendiciones mentales [^659] obtenidas a través del ganado materno sagrado [^660]. ¡Y todo esto me lo ordenaste Tú mismo, oh Mazda, Tú, el más sabio [^661]!
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

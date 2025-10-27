@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 7\. Therefore it is necessary to make an effort, that they _may_ be performed each one at its own time, so that they _may_ obtain a recompense, _and_ not a severe punishment.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

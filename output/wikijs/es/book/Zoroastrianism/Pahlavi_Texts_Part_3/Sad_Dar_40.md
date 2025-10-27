@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Por lo tanto, tres veces al día es indispensable cruzar los brazos [^2] en presencia de estas tres personas y decir: "¿Cuál es tu voluntad (murâd)? Para que yo pueda pensarla, hablarla y llevarla a cabo. 6. Si lo que no era apropiado ha salido de mí por sí solo, es necesario que hagas una ofrenda justa en nuestro nombre".
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

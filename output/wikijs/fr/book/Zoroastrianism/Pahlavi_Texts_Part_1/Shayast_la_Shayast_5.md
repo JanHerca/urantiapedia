@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 7\. Le sourd-muet, lorsqu'il ne lui est pas possible de dire un Ashem, ne commet pas de bavardage intempestif [^15] ; et lorsqu'il lui est possible de dire un Ashem, il en dira trois fois : « Ashem, ashem, ashem » ; et s'il lui est possible de dire <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> « ithâ » et « ashem-vohû », c'est bien, et lorsqu'il ne lui est possible que de dire « ithâ », cela n'a pas d'importance [^16].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

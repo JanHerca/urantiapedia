@@ -48,6 +48,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 To. About slaying _by_ untaught children of seven years, _or_ even of eight years in sight of _their_ fathers; _and_ the criminality of the fathers therein, when _it_ is possible for them to hinder _it and_ they do not hinder _it_, and when _it_ is not possible for them to hinder _it_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

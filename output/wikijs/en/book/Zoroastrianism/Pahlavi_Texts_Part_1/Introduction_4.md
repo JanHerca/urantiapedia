@@ -50,6 +50,8 @@ This copy of K35 was, no doubt, originally complete, but has lost many of its fo
 
 Another MS. of the Dâ<i>d</i>istân-i Dînîk and its accompaniments, written also at Kirmân, but two generations earlier than K35 (say, about A.D. 1530), has been already mentioned (see [p. xxxiii](/en/book/Zoroastrianism/Pahlavi_Texts_Part_1/Introduction_3#pxxxiii)). It is said still to contain 227 folios, though its first seventy folios are missing; it must, therefore, begin very near the same place as K35, but extends much further, as it supplies about half the text still missing from the <span id="pl"><sup><small>[ p. l ]</small></sup></span> Bombay copy of K35, though it has lost about fourteen folios at the end. This MS. must be either the original from which K35 was copied, or an independent authority of equal value, but it has not been available for settling the text of the Selections for the present translation.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

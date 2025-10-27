@@ -46,6 +46,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 7\. On the way, Zaratû<i>s</i>t gave _their_ two horses water, on account of _their_ thirst; and he thought thus: ‘Unprofitable was my going to the residence of the Karaps, except _in_ this manner, when, through giving water to the horses, my soul _was_ then expanded.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

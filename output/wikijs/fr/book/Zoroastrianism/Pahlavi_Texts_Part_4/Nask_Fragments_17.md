@@ -53,6 +53,8 @@ Dk. VIII, Chap. XXXVI, 8-12, fait probablement référence au passage qui conten
 
 Aucune allusion n'a été relevée dans Dk. VIII, chap. XXVIII-XXXVII, aux deux passages de Pahl. Vend. IV, 35, V, 73, se référant à ce Nask, qui ont déjà été cités comme se référant également à Nask XV.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

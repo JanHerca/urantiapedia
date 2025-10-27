@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Vivre dans la peur et le mensonge est pire que la mort. 5. Parce que la vie de chacun est nécessaire à la jouissance et au plaisir de l'existence mondaine, (6) et lorsque la jouissance et le plaisir de l'existence mondaine ne sont pas les siens, et que la peur et même le mensonge [^1] sont avec lui, cela est appelé pire que la mort. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

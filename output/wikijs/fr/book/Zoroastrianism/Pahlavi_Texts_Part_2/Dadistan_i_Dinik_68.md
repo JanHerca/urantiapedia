@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 3\. La réponse est la suivante : le soleil et la lune sont toujours vus [^2] là où ils se trouvent, et ils existent pour les hommes et les créatures. 4. Le soleil se déplace plus rapidement [^3] que la lune, et chaque jour devient un peu en avance ; à la nouvelle lune, le soleil brille, et la lune, en raison de sa diminution en arrière, à cause de son amincissement dû à ses nombreux déplacements [^4], et à cause de l'éclat du soleil, n'est pas apparente. 5. Lorsque le soleil se couche, une lumière qui n'est pas très apparente est la lune, et n'étant pas couchée, la lune est vue [^5] ; et chaque jour la lune croît, se lève davantage derrière le soleil, et descend davantage derrière, et est donc davantage vue. 6. Lorsqu'elle augmente au maximum, ce qui se rapproche d'une ressemblance avec le soleil, elle devient sphérique (aspiharakŏ), et est vue toute la nuit ; pour diminuer à nouveau, il revient à la compagnie du soleil, et entre dans la splendeur du soleil.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

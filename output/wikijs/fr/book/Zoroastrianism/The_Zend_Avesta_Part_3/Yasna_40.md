@@ -43,6 +43,8 @@ dateCreated: 2025-3-16T22:11:40Z
 Ainsi puissions-nous être pour Toi, ô Mazda Ahura ! saints et vrais [^1207], et avec le don gratuit de nos dons.
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

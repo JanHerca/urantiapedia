@@ -51,6 +51,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 19\. Sobre la instrucción que el pastor _da_ a su perro, mediante recordatorios (pavan ayâ<i>d</i>îhâ), para controlar a una oveja, cuando, al oír el perro _algunas notas musicales_ (srû<i>d</i>ŏ gâsânŏ), la instrucción se daba en forma de palabras; y, cuando las notas _no_ se oían, ni siquiera con un golpe (zatam), siendo el medio de ese instructor _un golpe_. 20. Sobre la peculiaridad del perro pastor en cuanto a _su_ empleo (rô<i>g</i>kâr) en los períodos de satisfactoria excitación menstrual, solemnizando las festividades estacionales y otras buenas obras importantes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

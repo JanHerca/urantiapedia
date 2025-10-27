@@ -51,6 +51,8 @@ _Bakŏ Nask_.
 
 15\. Parfaite est l'excellence de la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

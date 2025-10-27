@@ -61,6 +61,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 38\. Le cérémonial qui est bon, c'est lorsqu'ils l'accomplissent pour une disposition pure et une sagesse assurée, un gardien de la religion des êtres sacrés des sphères, et avec des pensées pures, des pensées justes [^67], des actions sages, un corps purifié, une langue digne du bien <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> (vêh-sa<i>z</i>âk), une écriture (nask) _rendue_ facile [^68], un texte vrai (a<i>v</i>istâk), des ablutions accomplies, des rites appropriés, indivisibles et sans faute. 39. De même, avec les mêmes aptitudes et d'innombrables fois, on le célèbre très purement dans la demeure du feu toujours croissant, puis dans la demeure des autres feux sacrés [^69], puis dans les demeures des adorateurs de Mazda et d'autres bonnes personnes, et enfin dans d'autres lieux déclarés purs. 40. Celui des trois jours [^70] se déroule dans la demeure du foyer le plus proche de celui du défunt ; la cérémonie des esprits gardiens des justes [^71] est célébrée dans la pureté là où se trouve la demeure la plus proche de celle du défunt dont l'âme est honorée. 41. Et que pour les victoires dans la guerre, c'est alors, au moment des batailles, l'agriculture de Sâm [^72] et d'autres délinquants (vinâsagân) qui _étaient_ pour avoir éloigné l'agriculture, la place de domestique pour un guerrier d'un autre rang, l'occasion du tollé de ceux qui ne possèdent pas (adârigân) de logement, jusqu'au reste du même tempérament (mûnôkŏ), expressément pour produire _et_ maintenir une ressemblance proportionnelle [^73].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

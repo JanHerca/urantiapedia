@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « Pour cette raison, parce que l'ignorant considère, en pensée, sa propre ignorance aussi bonne que le sage considère, en pensée, sa propre connaissance. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

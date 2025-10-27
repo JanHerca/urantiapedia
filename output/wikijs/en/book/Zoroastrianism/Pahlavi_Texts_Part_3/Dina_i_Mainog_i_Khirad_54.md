@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘For this reason, because the ignorant man considers, in thought, his own ignorance as good as the sage _does_, in thought, his own knowledge.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

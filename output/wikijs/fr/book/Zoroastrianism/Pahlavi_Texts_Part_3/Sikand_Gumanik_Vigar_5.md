@@ -69,6 +69,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 92\. Les deux arguments distincts <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> dans le manuscrit Dînka<i>r</i><i>d</i>, tels que le savant suprême [^14] les a expliqués à partir de sa connaissance de la religion, sont ici exposés en détail. 93. Celui qui souhaite comprendre pleinement la splendeur de la religion adoratrice de Ma<i>z</i><i>d</i>a et les affirmations de la foi primitive, (94) l'examine dans un manuscrit de ce caractère, (95) _et_ comprendra plus pleinement la splendeur et la vérité de la religion [^15].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 12\. «Y estas son las personas que deben considerarse pobres: (13) uno es aquel _con_ quien no hay sabiduría; (14) el segundo, cuyo cuerpo no está sano; (15) el tercero, quien vive en su miedo, terror [^1] y falsedad; (16) el cuarto, quien no gobierna en <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> su propio cuerpo; (17) el quinto, cuyo destino no le ayuda; (18) el sexto, quien es infame a los ojos de los seres sagrados y _en_ ​​las lenguas de los buenos; (19) _y_ el séptimo, quien es anciano, _y_ no tiene hijos ni parientes.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 6\. Et Brâ<i>d</i>\-rûkhsh le Tûr sortit ; quand il allait à droite (arakŏ), Zaratû<i>s</i>t se hâtait vers la gauche, et quand il allait à gauche, Zaratû<i>s</i>t se hâtait vers la droite, et il est ainsi caché à Brâ<i>d</i>\-rûkhsh le Tûr, _qui_ ne l'a pas rencontré.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

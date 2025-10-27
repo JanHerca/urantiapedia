@@ -42,6 +42,8 @@ A Pahlavi commentary on Yt. VI, 2 may have formerly contained the passage thus m
 
 Perhaps one of the five Ya<i>s</i>ts, XI, XII, XIII, XV, XVIII, respectively dedicated to Srôsh, Rashnû, the guardian spirits, the good Vâê, and Â<i>s</i>tâ<i>d</i>—the sacred beings specially propitiated by the ceremonies after a death—may have included a commentary containing the passage thus quoted in Vi<i>g</i>. pp. 157-158, about the necessity of appointing some one to provide such ceremonies for a man who dies without a son, and to administer his estate:—‘By the Avesta of the Bagân-yast it is declared: Yêzi narô pa<i>n</i><i>k</i>adasanghô saredhô irîraithyâ<i>d</i> avi hê urvânem bû<i>g</i>yânem thrâyô ayara uzayarana rathwô ha<i>n</i><i>g</i>amanem fra<i>g</i>asôi<i>d</i>, âa<i>d</i> hê aputhra angha<i>d</i> puthra fradadhâiti yatha<i>k</i>a nara irista vîspanãm avaretanãm shaêtavaitanãm avi hê frazai<i>n</i>tîm fra<i>g</i>asôi<i>d</i>, pas<i>k</i>aiti nemanguhaiti baoidhyêita<i>k</i>a urvâsnay<i>a</i>u.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

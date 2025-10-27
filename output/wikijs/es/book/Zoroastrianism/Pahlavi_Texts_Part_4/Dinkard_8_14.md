@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 16\. Perfecta es la excelencia de la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

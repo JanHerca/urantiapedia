@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 9\. Estos tres fuegos constituyen el cuerpo entero del fuego de Vâhrâm, junto con el fuego del mundo, y en ellos se alojan las almas que respiran; una contraparte del cuerpo humano cuando se forma en el vientre materno, y un alma del mundo espiritual se establece en él, controlando el cuerpo mientras vive. Cuando ese cuerpo muere, se funde con la tierra y el alma regresa al espíritu.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

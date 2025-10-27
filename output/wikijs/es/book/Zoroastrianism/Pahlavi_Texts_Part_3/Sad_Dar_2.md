@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. Por lo tanto, aunque un pecado sea insignificante, no es deseable cometerlo; y es necesario abstenerse, para que no lo cometan y puedan estar seguros de la religión.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

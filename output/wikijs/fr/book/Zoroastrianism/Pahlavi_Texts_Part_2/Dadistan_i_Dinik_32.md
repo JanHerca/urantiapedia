@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 12\. Et au moment de la rénovation, lorsque le démon périt, les âmes des méchants passent dans le métal fondu (ayênŏ) [^10] _pendant_ trois jours ; et tous les démons et les mauvaises pensées, qui sont dus à leur péché, sont effectivement angoissés, et sont précipités au loin par la coupure et la rupture de l'accumulation (ham-dâ<i>d</i>akîh) de péché des âmes méchantes. 13. Et par cette ablution prééminente (a<i>v</i>artûm) dans le métal fondu, ils sont complètement purifiés de la culpabilité et de l'infamie (dastŏ va raspakŏ), et par la persévérance (khvâparîh) [^11] et la miséricorde des prééminents persistants, ils sont pardonnés, et deviennent des êtres très saints (môgtûm) purs ; comme il est dit par métaphore que les purs sont de deux sortes, l'un qui est glorieux (khvârvatô), et l'autre qui est métallique (ayênavatŏ) [^12]. <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> 14\. Et après cette purification, il n'y a plus de démons, plus de châtiment, plus d'enfer pour les méchants, et leur sort (vîrâstakŏ) est également juste ; ils deviennent justes, sans douleur, sans mort, sans peur et à l'abri du mal. 15. Et avec eux vient l'esprit des bonnes œuvres qu'ils ont faites et suscitées dans le monde, et leur procure plaisir et joie dans la mesure et la proportion de ces bonnes œuvres. 16. Mais la récompense de l'âme du juste est une meilleure formation (vêhdâ<i>d</i>îh) et davantage [^13].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

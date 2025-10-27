@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 4\. El espíritu de sabiduría respondió (5) así: «En cuanto a quien es perezoso, ignorante y malo, cuando su destino se convierte en una ayuda, su pereza se convierte en diligencia, su ignorancia en [^1] conocimiento, y su vileza en [^2] bondad. 6. Y en cuanto a quien es sabio, digno y bueno, cuando su destino se convierte en un oponente, su sabiduría se convierte en estupidez y necedad (alakîh), y su dignidad en ignorancia; (7) y su <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> conocimiento, habilidad y dignidad se vuelven manifiestamente aislados [^3].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

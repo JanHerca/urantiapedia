@@ -77,6 +77,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 25\. _Alors_ Srîtô se rendit dans cette jungle, et cette sorcière sous la forme d'un chien _fut_ vue par lui ; après avoir frappé la sorcière, elle devint deux ; et il les frappa constamment jusqu'à ce qu'ils deviennent un millier, et l'armée (gir<i>d</i>ŏ) d'entre eux tua Srîtô sur place.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -156,7 +156,7 @@ Et je désire m'approcher dans ma louange de l'héroïque Yasna Haptanghâiti, l
 
 [^1422].
 
-1\. (Oui,) nous sacrifions aux pensées de l'esprit, et à la bonne sagesse, et à la bonne et bénie sainteté, et à la bonne connaissance religieuse, et à la bonne santé (de l'âme et du corps). \[^1423].\] 2. La confession doit être faite pour le Kine ; nous, les Mazdayasniens zarathoutriens, célébrons au moment du sacrifice pour l'offrande de Myazda, au moment du Ratufrîti, la prière pour les bénédictions, pour le culte sacrificiel, l'hommage, la propitiation et la louange de toute la création du saint (et du pur).
+1\. (Oui,) nous sacrifions aux pensées de l'esprit, et à la bonne sagesse, et à la bonne et bénie sainteté, et à la bonne connaissance religieuse, et à la bonne santé (de l'âme et du corps). [^1423] 2. La confession doit être faite pour le Kine ; nous, les Mazdayasniens zarathoutriens, célébrons au moment du sacrifice pour l'offrande de Myazda, au moment du Ratufrîti, la prière pour les bénédictions, pour le culte sacrificiel, l'hommage, la propitiation et la louange de toute la création du saint (et du pur).
 
 <a id="v5"></a>
 
@@ -339,6 +339,8 @@ Avec ce chant (entièrement) chanté, et qui est pour les Immortels Généreux e
 Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vahi<i>s</i>ta, et nous adorons le Ciel, qui est le meilleur monde des saints, brillant et tout glorieux ; et nous sacrifions de même à cette meilleure approche qui mène à [^1505] lui. 2. Et nous sacrifions à cette récompense, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> la santé, la guérison, le progrès et l'accroissement, et à cette victoire qui est dans [^1506] les deux, l'Ahuna-vairya et l'Airy<i>e</i>mâ-ishyô, par la récitation mémorisée des bonnes pensées, paroles et actions (qu'ils recommandent).
 
 <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

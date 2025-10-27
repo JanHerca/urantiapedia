@@ -61,6 +61,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 23\. Cuando ese hombre cumple treinta años, se reúne con los arcángeles, los buenos gobernantes y buenos proveedores; al día siguiente, a la luz del día, se manifiesta además que, cuando la existencia encarnada está así tranquila —sin Kai ni Karap (es decir, no ciega ni sorda a los asuntos de los seres sagrados), y ha de ser apropiada (es decir, no se ha separado de los asuntos de los seres sagrados), y se ha llenado de vida—, se ha extendido y es de nuevo grande en diversos lugares de Aîrân-vê<i>g</i> donde reside el buen Dâîtî.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

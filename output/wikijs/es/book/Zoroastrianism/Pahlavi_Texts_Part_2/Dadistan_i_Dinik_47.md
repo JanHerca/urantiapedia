@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 9\. Un gran y amplio respeto por la dignidad de ambos es una ventaja _y_ totalmente necesario, ya que la habilidad en el comentario _y_ en el Avesta _se apoyan mutuamente; pues incluso quienes solemnizan el Avesta _necesitan_ información del comentario sobre los usos dispersos (parvand) «propios _e_ impropio» de la ceremonia sagrada. 10. La información más eficiente del comentario es ventajosa cuando ambos realizan la ceremonia, y uno de ellos es hábil, _y_ amigo, proveedor, glorificador y engrandecedor del otro; y los amigos de la religión son buenos amigos y, por lo tanto, también proveedores de fama para ambos. <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 11\. También cuando publican declaraciones acusadoras, unas sobre otras, por necesidad o por la violencia que se debe al adversario [^12], _es importante convertirse en un excusador con respecto a ellos, y no en un disminuidor de su parte, _ni_ en un portador (âkhtâr) de insalubridad para _su_ fuerza unida.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

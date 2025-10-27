@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Quien ha producido opulencia mediante el esfuerzo adecuado debe ser considerado afortunado; y quien la ha producido mediante la deshonestidad, como mal intencionado».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 15\. C'est la perfection parfaite qui est la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

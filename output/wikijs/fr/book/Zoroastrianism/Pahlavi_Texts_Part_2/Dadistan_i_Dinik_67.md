@@ -44,6 +44,8 @@ dateCreated: 2025-10-10T14:56:45Z
 3\. Ce qui est terrestre est l'eau au-dessus de laquelle son éclat est acceptable ; et les nombreuses couleurs brillantes (gunakân) qui sont formées de ce grand mélange [^2] de brillance et d'eau, et qui sont représentées (mânâkî-aîtŏ), sont la seule partie qui apparaît [^3].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

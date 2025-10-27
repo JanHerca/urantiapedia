@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 4\. Gô<i>s</i>ûrvan caminó hacia la estación estelar (pâyak) y lloró de la misma manera, y luego a la estación lunar y lloró de la misma manera, y luego a la estación solar, y entonces el espíritu guardián de Zaratû<i>s</i>t se le manifestó, y Aûharmazd dijo así [^5]: «Produciré para el mundo a quien predique la cautela». 5. El espíritu Gô<i>s</i>ûrvan se sintió contento y asintió así: «Alimentaré a las criaturas»; es decir, volvió a consentir en una creación mundana en el mundo.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

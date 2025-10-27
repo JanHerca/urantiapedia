@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 4\. The spirit of wisdom answered (5) thus: ‘On account of the delusiveness (nîyâ<i>z</i>ânîh) of the demon of greediness [^2], and of discontent.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

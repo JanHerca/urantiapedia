@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 2\. La réponse est la suivante : les archanges sont immortels et sans détresse ; leur place, aussi, est dans cette meilleure existence de lumière, toute glorieuse, toute délicieuse, _et_ tranquille ; et la force de la puanteur due aux démons [^1] n'atteint _rien_ qui appartient aux archanges. 3. Les archanges sont omniscients [^2], amicaux envers les créatures, persistants, _et_ procurent le pardon ; ils connaissent cette pratique odieuse qui est la pratique odieuse [^3] de ce misérable dupe (frîftakŏ) qui _s'est_ souillé de cette manière la plus immonde (zî<i>s</i>ttûm ârang), qui est semblable à celle qui lui est prévue _et_ qui lui est appliquée même dans le terrible châtiment [^4] qui _s'est abattu sur lui de la part des démons ; et puis, à cause de leur bienveillance envers les créatures, cela <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> leur a semblé sévère, et de là naît leur pardon qui est proportionné à l'angoisse due au tourment qui le tenaille.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

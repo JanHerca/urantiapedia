@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 14\. Sobre _haber_ aceptado progreso incluso de los inicuos, que escucharon con pecaminoso deseo, que aceptaron tanta ventaja como era evidente, también se declara que llegó a una asamblea de gente conocida en el lugar por su gran conocimiento, y les preguntó así: «¿Qué es lo más favorable para el alma?». 15. Y dijeron así: «Alimentar a los pobres, dar forraje al ganado, traer leña al fuego, verter jugo de Hôm en agua y [^10] adorar a muchos demonios con palabras, con las palabras que se llaman revelación (dênô).». 16. Entonces Zaratû<i>s</i>t alimentó a los pobres, alimentó al ganado, trajo leña al fuego y exprimió Hôm en agua, pero ningún demonio es adorado con palabras por Zaratû<i>s</i>t.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

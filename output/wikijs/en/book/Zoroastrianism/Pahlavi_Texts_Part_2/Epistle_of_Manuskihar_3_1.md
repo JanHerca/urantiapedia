@@ -70,6 +70,8 @@ _In_ the name of the sacred beings.
 
 22\. In trustfulness and gratitude to the sacred beings, _and_ homage to the exalted pontiff _sent_ from [^20] <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> the creator Aûha<i>r</i>ma<i>z</i><i>d</i>, the heavenly, most righteous, _and_ glorified Zaratû<i>s</i>t the Spîtamân. 23. For the sake of obtainments of prayers the one thing is the righteousness of the Spîtamân; great, good, _and_ perfect is Zaratû<i>s</i>t; one _only_ is the way of perfect righteousness, which is the way of those of the primitive faith; all the others, appointed afresh, are no ways [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

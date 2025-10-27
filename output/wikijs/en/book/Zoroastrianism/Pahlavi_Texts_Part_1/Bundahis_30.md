@@ -62,6 +62,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 33\. This, too, it says, that this earth _becomes_ an iceless [^44], slopeless plain [^45]; even the mountain [^46], <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> whose summit is the support of the <i>K</i>învar _bridge_, they keep down, _and_ it _will_ not exist.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

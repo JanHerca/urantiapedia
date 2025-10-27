@@ -3144,6 +3144,8 @@ Zû<i>s</i>ak, man, Bd. **31**, 14.
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

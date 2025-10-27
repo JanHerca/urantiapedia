@@ -63,6 +63,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 54\. Además, es un recordatorio del bien en cuanto a la preservación del alma; (55) y por la misma razón he dispuesto que, mientras los sabios me observan con bondad, por su propia compasión, recuerden la inmortalidad del alma. 56. Ya que se dice que el ojo de quien observa a todas las criaturas buenas con ojos bondadosos es el ojo del sol; (57) porque el sol es, en verdad, un observador y embellecedor con ojos bondadosos para todas las criaturas.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Et si après les _premiers_ quarante jours elle se voit impure, à moins qu'elle ne sache avec exactitude que cela vient de l'enfant, il faut considérer si _elle_ a ses règles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

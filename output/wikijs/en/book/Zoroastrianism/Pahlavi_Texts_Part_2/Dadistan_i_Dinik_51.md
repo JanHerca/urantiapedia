@@ -46,6 +46,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 9\. In a case of doubt _one_ is to consider _him who is_ orthodox (hû-dînô), who _has_ chanted the _sacred_ hymns, _and is_ of good. repute, whose drunkenness <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> is not manifest, in this _way_, that he drinks as much wine as _was_ tried by him when he became no worse _by_ drinking _it_. 10. It is necessary to consider _him whose_ religion is unseen, whose religion is wrong, and him who is a child furnished even with the realities of religion, in this _way_, that he becomes worse through _having_ drunk wine. 11. When _apart_ from the decision there is no assignable (ban<i>g</i>i<i>s</i>nîk) reason as regards _it_, the share of wine which they gave not authorisedly who themselves drank wine, _one_ considers as _some of_ the wine on _its being_ given more authorisedly [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

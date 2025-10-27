@@ -38,6 +38,8 @@ FROM PERSIAN RIVÂYATS [^1].
 
 The names of the twenty-one Nasks, from the Yathâ-ahû-vairyô:—Yathâ, the Stûdkar; ahû the Var<i>s</i>tah-mânthrah; vairyô, the Bagh; athâ, the Dâmdâ<i>d</i>; ratu<i>s</i>, the Nâdûr; ashâ<i>d</i>, the Pâzûn; <i>k</i>î<i>d</i>, the Ratu<i>s</i>tâyîd; ha<i>k</i>â, the Bari<i>s</i>; vangh<i>e</i>u<i>s</i>, the Ka<i>s</i>srôb; dazdâ, the Vi<i>s</i>tâspâd; mananghô, the Dâd; <i>s</i><i>h</i>yaothananãm, the <i>K</i>îdra<i>s</i>t; angh<i>e</i>us, the Spentah; mazdâi, the Bayân-ya<i>s</i>t; khshathrem<i>k</i>â, the Niyâdâm; ahurâi, the Duvâsarô<i>g</i>î<i>d</i>; â, the Hûspârâm; yim, the Sakadâm; drigubyô, the <i>G</i>ud-dêv-dad [^3]; dada<i>d</i>, the Hâdokht of the Dvâzdah-hâmâspah; vâstârem, the Ya<i>s</i>t [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

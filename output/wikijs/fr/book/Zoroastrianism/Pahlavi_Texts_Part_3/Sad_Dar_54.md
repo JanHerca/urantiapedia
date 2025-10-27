@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le cinquante-quatrième sujet est celui-ci, que si quelqu'un a une épouse servante [^1], _et_ si l'acquisition d'un enfant mâle résulte [^2] d'elle, il est apte à l'adoption _par_ cette personne [^3], et le pont [^4] n'est pas rompu _pour_ cette personne. 2. _Mais_ s'il s'agit d'une fille, il est nécessaire que l'homme ne soit pas négligent (_gh_âfil) en désignant un fils adoptif pour son propre bien. 3. Il _devrait_ lui-même désigner un fils de quelque parenté, _qui est_ un ami de l'âme, afin que le pont ne soit pas rompu _pour_ son âme.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

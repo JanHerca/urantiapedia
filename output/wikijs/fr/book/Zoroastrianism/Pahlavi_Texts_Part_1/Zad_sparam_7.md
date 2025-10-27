@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 12\. C'est le troisième concours, à propos de la terre.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

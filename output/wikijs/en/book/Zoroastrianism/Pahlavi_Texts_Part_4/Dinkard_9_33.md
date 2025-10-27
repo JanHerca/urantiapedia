@@ -44,6 +44,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 7\. This, too, that the evil spirit [^12]. . . . . . . . . . . .
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

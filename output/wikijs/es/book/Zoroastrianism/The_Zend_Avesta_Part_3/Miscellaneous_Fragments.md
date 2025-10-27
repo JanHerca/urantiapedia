@@ -86,6 +86,8 @@ Propiciación al cuerpo creado de la vaca de bendita dotación y al alma de la v
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

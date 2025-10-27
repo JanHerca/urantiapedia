@@ -80,6 +80,8 @@ Sacrificamos al Gâtha Ahunavaiti, el santo, tal como gobierna en el orden ritua
 
 3\. Pues así le dijo Ahura Mazda a Spitama Zaratustra la palabra pronunciada para el ritual del Rapithwina, (diciendo): Pregúntanos, oh santo Zaratustra [^1527], cuáles son tus preguntas [^1528], pues tu pregunta es como la de aquel poderoso cuando tu gobernante expresa su poderoso deseo [^1527]. 4. Entonces Zaratustra preguntó a Ahura Mazda: ¡Oh Ahura Mazda, generoso [^1529] creador de los mundos materiales y santo! ¿Qué adquiere ese hombre, qué mérito tiene, qué recompensa habrá para ese hombre (5) que recite el oficio Rapithwina con la oración Rapithwina para bendición, y que sacrifique con [^1530] el oficio Rapithwina con las manos (bien) lavadas, y con morteros (bien) lavados, con el Baresman extendido, y con Haoma en alto, y con fuego llameante, con Ahuna-vairya entonado en voz alta, con la lengua humedecida por Haoma, y ​​con un cuerpo atado por Mãthra? 6. Y Ahura Mazda le respondió: Como el viento del cuadrante sur, ¡oh Spitama! hace que todo el mundo material avance y aumente, y como lo bendecirá [^1531], lo regocijará y lo hará progresar [^1532], tal recompensa recibe ese hombre, (7) que <span id="p375"><sup><small>[ p. 375 ]</small></sup></span> recita el Rapithwina-ratu con la bendición Rapithwina, y sacrifica con él [^1533] con las manos bien lavadas y morteros, con Baresman extendido, Haoma alzado, con fuego llameante, Ahuna-vairya entonado en voz alta, con la lengua humedecida por Haoma y el cuerpo atado por Mãthra. 8. Así Ahura Mazda le declaró a Spitama Zarathu<i>s</i>stra la palabra que debía pronunciarse en el momento Rapithwina. 9, 10. (Véase Â. I, 14-19.)
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

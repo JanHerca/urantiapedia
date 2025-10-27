@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 12\. Una maravilla es la llegada de esto también a <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> Vi<i>s</i>tâsp, que los arcángeles anunciaron como recompensa por aceptar la religión [^11], al ver a Pêshyôtan, el feliz gobernante, ese hijo inmortal e incorruptible, sin necesidad de alimento, corpulento, completamente fuerte, glorioso, poderoso, victorioso y semejante a los seres sagrados; el esplendor único de Pêshyôtan para la soberanía de Kangd<i>e</i><i>z</i> en aquel mundo, tal como le fue asignado por el creador Aûha<i>r</i>ma<i>z</i><i>d</i>, se manifiesta incluso a través de esa gran maravilla a la multitud [^12].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

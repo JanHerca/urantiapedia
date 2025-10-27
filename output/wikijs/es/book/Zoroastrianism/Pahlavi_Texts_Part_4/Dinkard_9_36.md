@@ -42,6 +42,8 @@ _Var<i>s</i>tmânsar Nask_.
 3\. Sobre las señales de un hombre justo —es decir, su evidencia— y su reverencia por el deber y las buenas obras; también su imperceptible perversión (kastârîh) —es decir, ni un solo pecado se manifiesta en él <span id="p270"><sup><small>[ p. 270 ]</small></sup></span>— y que cumple las estipulaciones del Vohûman [^4], buenos pensamientos, buenas palabras y buenas obras, y que comprende toda bondad en la propiciación de los justos. 4. Sobre [^5] . . . . . . . . . . . . . . . . . . . .
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

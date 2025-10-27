@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 15\. And a semblance of it is apparent even from that which the glorified Nîshahpûhar, the supreme officiating priest [^34], and also other officiating priests of Aûha<i>r</i>ma<i>z</i><i>d</i> _have_ said, _that one is_ not to change any teaching of theirs thereon after _it is_ provided, _and_ not to render useless the statements of other authority thereon. 16. But that which they should accept _from_ them as a certainty is to maintain the statements of other high-priests as pre-eminent; _and_ not to change the operation of statements of another description _has_ appeared lawful. 17. Even so it was as that _same_ Nîshahpûhar, in the council of the glorified (anôshakŏ rûbânô) Khûsrô [^35], king of <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> kings _and_ son of Kavâ<i>d</i>,—by preserving old things (ligânŏ)—showed that way on whose thoughts they are established, and wrote them unaltered, so that such thoughts thereon became as _it were_ decided; and their thoughts thereon, after such decree of his, have so become unanimous. 18. Through the importance _of his_ assured rank, and the rest which was said by him in the work of sustaining the faithful, he maintains as much as the other statements, one _by_ one, from the deliberative teaching of those high-priests.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

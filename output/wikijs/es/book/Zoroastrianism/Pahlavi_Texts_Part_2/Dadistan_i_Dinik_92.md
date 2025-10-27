@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. El agua de Arekdvisûr está en Albûr<i>z</i> [^6], y fluye incluso hasta la cima de la estación estelar durante la llegada de la curación de la purificación, incluso hasta Hûkhîr el sublime [^7], todo hermoso _y_ brillante; desde allí _su_ fluir se efectúa [^8] en el lago de una cima hasta Albûr<i>z</i>, el Monte Aûshin<i>d</i>ûm [^9], que está en medio del océano de forma ancha. 6. Y de ese fluir de aguas ese río destinado, la destrucción total de cada noche, viene en la luz de un amanecer; por la aspersión del rocío (pash-pashanŏ) se extiende a través de las siete regiones _de la tierra_, y de él surge el crecimiento de sus plantas y la llegada de la curación de la purificación; aquello que se llama gota (srî<i>s</i>k) de las criaturas primigenias _siendo_ una partícula (aham) de agua del volumen de un caballo [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -57,6 +57,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 23\. Les six archanges [^21] se manifestaient par leur stature similaire (ham-ba<i>s</i>nîh), de telle manière qu'il est évident que chacun d'eux successivement est apparemment plus court d'une largeur de doigt que l'autre. 24. Les archanges ont montré trois sortes d'accomplissements <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> (pasâkhtan) [^22] pour la religion ; d'abord, au moyen de feux, et Zaratû<i>s</i>t fit trois pas dessus, en prononçant les mots « bonnes pensées, bonnes paroles et bonnes actions », et ne fut pas brûlé ; et deuxièmement, du métal chaud est versé sur sa poitrine, refroidi ainsi, et, le saisissant avec sa main, il le tendit pour les archanges. 25. Aûha<i>r</i>ma<i>z</i><i>d</i> parla ainsi : « Après l'établissement de la religion pure, lorsqu'une dispute surviendra dans la religion, ceux qui sont tes disciples la verseront sur un seigneur spirituel, ils la prendront avec la main et croiront pleinement en celui qui est au-dessus de toute l'existence incarnée. » 26. Le troisième consistait à couper avec un couteau, et les parties vitales (ahvôn) devinrent visibles, qui sont à l'intérieur de l'abdomen, avec un écoulement de sang ; et, après que les mains furent frottées dessus, il fut guéri. 27. Et ceci est souligné, à savoir : « Ton acceptation et celle de tes [coreligionnaires](./Erratum) la religion pure est, comme pour les fidèles dans les autres religions, telle que, par une telle brûlure du feu, par le déversement de métal chaud et par une opération avec un instrument tranchant, il n'y a pas de perversion de la bonne religion. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

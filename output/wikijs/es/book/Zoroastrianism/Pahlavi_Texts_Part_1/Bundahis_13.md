@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 16\. De los mares pequeños, el más <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> sano [^18] era el mar Kyânsîh [^19], como el de Sagastân; al principio, no había criaturas nocivas, serpientes ni lagartos (vazagh), y el agua era más dulce que en cualquier otro mar; más tarde (da<i>d</i>îgar) se volvió salada; en su punto más cercano, debido al hedor, no es posible acercarse ni una legua, tan grandes son el hedor y la salinidad por la violencia del viento caliente. 17. Cuando se renueve el universo, volverá a ser dulce [^20]. 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

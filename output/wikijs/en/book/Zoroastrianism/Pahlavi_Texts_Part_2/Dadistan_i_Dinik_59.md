@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that when the property which _has_ remained his for whom it is necessary to appoint an adopted son is as much as sixty stîrs [^1] of income, _it_ is then indispensable to appoint an adopted son for him. 3. Even when _it_ is less they should recognise him whose adoption is needful, _and who_ conducts an adopted son's duty; and, similarly, an adoption is to be appointed for him, though it may not come as a possession unto him who is fittest for adoption.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

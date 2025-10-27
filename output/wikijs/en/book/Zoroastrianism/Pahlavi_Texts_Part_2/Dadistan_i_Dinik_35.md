@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that this world, continuously from _its_ immaturity even unto _its_ pure renovation, _has_ never been, and also _will_ not be, without men; and _in_ the evil spirit, the worthless (a<i>s</i>apîr), no stirring desire of this arises. 3. And near to the time of the renovation the bodily existences desist from eating, and live without food (pavan akhûri<i>s</i>nîh) [^2]; and the offspring who are born from them are those of an immortal, for they possess durable and blood-exhausted (khûn-girâî) bodies. 4. Such are _they_ who are the bodily-existing men that are in the world when there are men, passed _away_, who rise again and live again.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 14\. About his _having_ accepted progress even from the iniquitous, _that_ listened sinfully desirous, who accepted so much advantageousness as _was_ manifest, this, too, is declared, that he came into an assembly who were well known in the place for much knowledge, and he enquired of them thus: ‘What is most favourable for the soul?’ 15. And they spoke thus: ‘To nourish the poor, to give fodder to cattle, to bring firewood to the fire, to pour Hôm juice into water, and [^10] to worship many demons with words, with the words which are called revelation (dênô).’ 16. Then Zaratû<i>s</i>t nourished the poor, foddered the cattle, brought firewood to the fire, and squeezed Hôm into water, _but_ never are any demons whatever worshipped with words _by_ Zaratû<i>s</i>t.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

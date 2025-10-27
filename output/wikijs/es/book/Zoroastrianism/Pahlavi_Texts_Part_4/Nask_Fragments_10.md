@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 La primera mitad de este Nask (tal como se describe en Dk. VIII, Cap. XI, 1, 2) parece aún existir en el Vi<i>s</i>tâsp Ya<i>s</i>t, 1-44; pero el resto de ese Ya<i>s</i>t no corresponde con la descripción de la segunda mitad del Nask.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

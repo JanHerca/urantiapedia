@@ -103,6 +103,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 32\. Hommage à Srît [^13] l'enseignant ! puisse-t-il vivre longtemps ! puisse-t-il être prospère _sur_ la terre ! puissent-ils être tous les plaisirs et toutes les joies, _et_ toutes les gloires des Kayâns, par la volonté du persistant Aûharmazd !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

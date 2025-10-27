@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 15\. Quien se lava según la ley de la fe primitiva, que muchos sumos sacerdotes consideran excelente por ser adecuada, y cree que respecto al triple lavamiento debería decirse que no es apropiado, incluso él, cuando además <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> ha llegado a la misma opinión sobre que las declaraciones de los sumos sacerdotes son iguales, y que la mayor evidencia de estos es el curso _correcto_, habría alcanzado la confianza de que en un asunto dudoso _debería_ haber un sumo sacerdote [^13], y también de que _de_ lo cual Afarg y Sôshâns _han_ entendido por igual que algo similar es apropiado.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

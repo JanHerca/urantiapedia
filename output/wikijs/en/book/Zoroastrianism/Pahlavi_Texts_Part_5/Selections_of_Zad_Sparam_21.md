@@ -56,6 +56,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 23\. The six archangels [^21] were manifest by their similar stature (ham-ba<i>s</i>nîh), in such manner that it is obvious each one successively is apparently one finger's _breadth_ shorter than the other. 24. The archangels exhibited three kinds _of_ achievement <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> (pasâkhtan) [^22] for the religion; first, _by_ means of fires, and Zaratû<i>s</i>t walked three steps on _them_, with _the words_, ‘good thoughts, good words, and good deeds,’ and _was_ not burnt; and secondly, hot metal is poured on to _his_ chest, cooled thereby, and, grasping _it_ with _his_ hand, he held _it_ for the archangels. 25. Aûha<i>r</i>ma<i>z</i><i>d</i> spoke thus: ‘After _the establishment of_ the pure religion, when a dispute occurs in the religion, those who are thy disciples _will_ pour _it_ on to a spiritual lord, they _will_ take _it_ up with the hand, _and will_ thoroughly believe in him who is over the whole embodied existence.’ 26. The third _was_ cutting with a knife, _and_ the vital parts (ahvôn) becoming visible, which are inside the abdomen, _with_ a flowing forth of blood; and, after the hands are rubbed over _it_, it became healed. 27. And this is pointed out, namely: ‘Thy and thy [coreligionists’](./Erratum) accepting of the pure religion is, as to the steadfast _in_ other religions, such that, through such-like burning of fire, pouring of hot metal, and through an operation with a sharp instrument, _there_ is no perversion from the good religion.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

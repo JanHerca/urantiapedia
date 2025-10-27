@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 28\. De las montañas, el Monte Apârsên comienza en Sagastân y termina en Khû<i>g</i>îstân. Algunos dicen que es el conjunto de todas las montañas de Pârs y es el jefe de todas las montañas, excepto Albûr<i>z</i>. 29. De las aves, el jefe es Kamrô<i>s</i> [^25], que vale más que todas las aves de Khvanîras, excepto el grifo de tres naturalezas. 30. La conclusión es esta: todo aquel que realiza un gran deber tiene entonces mucho valor.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

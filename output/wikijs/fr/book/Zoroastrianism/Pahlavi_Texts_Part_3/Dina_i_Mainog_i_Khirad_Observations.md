@@ -69,6 +69,8 @@ PB6, Pâz.-Sans., n° 6 du Fonds Burnouf de la même bibliothèque.
 
 TD2, Pahlavi, appartenant à Mobad Tehmuras Dinshawji Anklesaria à Bombay ; sur une copie de laquelle cette traduction s'appuie principalement dans les passages (XIV, 1-XXVII, 49 et XXXIX, 31-XL, 17) manquants dans K43.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

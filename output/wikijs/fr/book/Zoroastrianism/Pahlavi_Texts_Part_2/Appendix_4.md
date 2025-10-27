@@ -235,6 +235,8 @@ En plus de la description entièrement détaillée ci-dessus de la cérémonie d
 
 L'autre récit, beaucoup plus court, est donné dans Vend. XI X, 67-84. Il précise que l'urine doit être celle d'un jeune taureau et que le purificateur doit tracer un sillon ; il mentionne la récitation de cent Ashem-vohûs et de deux cents Yathâ-ahû-vairyôs, quatre lavages à l'urine de taureau et deux à l'eau, neuf nuits d'exposition, suivies d'une attention au feu et d'une fumigation, durant lesquelles l'homme s'habille en rendant hommage aux êtres sacrés et est pur ; mais aucun autre détail n'est donné.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

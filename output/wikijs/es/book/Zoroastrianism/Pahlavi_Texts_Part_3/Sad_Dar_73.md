@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. Y si un ave doméstica ha comido materia muerta, su carne y sus huevos, de la misma manera, no quedan limpios por un año.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

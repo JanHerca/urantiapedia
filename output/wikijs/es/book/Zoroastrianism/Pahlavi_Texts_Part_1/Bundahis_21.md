@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 6\. Respecto al río Nâhvtâk [^13], se dice que Frâsîyâ<i>v</i> de Tûr lo desvió; y cuando [^14] <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> Hûshê<i>d</i>ar [^15] llegue, fluirá de nuevo, apto para caballos; así también fluirán las fuentes del mar Kyânsîh [^16]. 7. Kyânsîh [^16] es donde se encuentra el hogar (<i>g</i>inâk) de la raza Kayân.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

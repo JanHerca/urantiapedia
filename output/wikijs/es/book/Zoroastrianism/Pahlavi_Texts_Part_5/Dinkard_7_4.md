@@ -121,6 +121,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 88\. Y aquí, también, se manifiesta una gran maravilla también para el ejército (ram) de Irân que ha estado llegando allí, a la residencia de Ar<i>g</i>âsp el Khyôn, como esta que la revelación menciona así: «Entonces, justo en el momento en que su legión se muestra por separado, Aeshm el irredimible (tan<i>â</i>pûharak) se adhiere (gêr<i>e</i><i>v</i>ê<i>d</i>ŏ) a él, como _siendo él mismo_ sin escolta (agurôh), y se opone completamente (ba<i>r</i>â sper<i>e</i><i>z</i>ê<i>d</i>ŏ) a él, porque: «Tú, que eres un Khyôn, _te has_ ​​vuelto desafortunado por la falta de éxito después de involucrarte _en el conflicto_.»» 89. De aquí en adelante, no es que la victoria de Irân _ha_ llegado a los extranjeros _y_ Khyôns-a través de la compañía en la morada _de_ ese hombre que es más poderoso por el nacimiento _de_ Zaratû<i>s</i>t <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> de los Spîtâmas—cuando esa horrible soberanía _de_ Ar<i>g</i>âsp, el mortal Khyôn, es tragado por él (_Vi<i>s</i>tâsp_), para la confusión de las especies mortales (es decir, _son_ aún más golpeados por él, uno a través del otro; y son tragados juntos por él, luchando mutuamente y devorándose mutuamente). 90. Y aparte de él, ese Khyôn amargado y bien endurecido que está completamente incapacitado por él, el buen _Vi<i>s</i>tâsp_, ese _demonio_ mortal está perturbado por sus habilidades elocuentes (_Zaratû<i>s</i>t_); y así se quejó ante la horrible soberanía de esta manera: «La habilidad pronta surge _y_ el Khyôn surgió; entonces la habilidad pronta surge _y_ el iraní ha surgido [^47]».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 7\. Y el cuarto día, la ordenación y realización de la ceremonia del espíritu guardián justo (ar<i>d</i>âî fravar<i>d</i>ŏ) [^8] son ​​_para_ la misma alma y los espíritus guardianes justos restantes de aquellos que son _y_ fueron _y_ serán, desde Gâyômar<i>d</i> el propicio hasta Sôshâns el triunfante [^9].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

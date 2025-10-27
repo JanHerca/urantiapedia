@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 27\. «El mal gobierno es aquel (28) que destruye la ley y la costumbre verdaderas y apropiadas, (29) y pone en práctica [^12] la opresión, el saqueo y la imprudente. 30. Disipa el tesoro de la _existencia_ espiritual, (31) _y_ considera el deber y las buenas obras una vejación, por avaricia [^13]. 32. Impide que quien realiza buenas obras las haga, (33) y, por lo tanto, se convierte en un causante de daño. (34) Su desembolso [^14], también, de cualquier tipo, es para sí mismo, (35) la administración [^15] del tesoro <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> de la existencia mundana, (36) la celebridad [^16] _y_ la exaltación de los viles, (37) la destrucción _y_ el descuido de los buenos, (38) _y_ la aniquilación de los pobres. 39. Un mal rey, que [^17] es de esa clase, es llamado igual a Aharman y los demonios.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

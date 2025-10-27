@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 10\. Les dupes [^9] détournent la semence vivante de se mêler aux femmes et de rechercher des enfants, tout comme dans le vice de tout démon, lié au désir <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> pour les dupes [^10], elles abandonneront cet avantage du monde, les délices (vâyagânŏ) d'un fils [^11]. 11. Celui qui gaspille la semence a pour habitude de provoquer la mort de sa progéniture ; lorsque cette habitude est complètement continue, ce qui produit un arrêt néfaste [^12] du progrès de la race, les créatures sont anéanties ; et certainement, cette action, d'où, lorsqu'elle se déroule universellement, la dépopulation du monde doit résulter, est devenue et a favorisé (frârâstŏ) le plus grand souhait d'Aharman [^13]. 12. Un tel pratiquant est le plus grand souhait d'Aharman, à travers l'excrétion du démon [^14] du doute _dans_ la pratique, en raison des rapports avec l'émetteur, _qui_ est le plus sale et le plus fétide, et le membre émetteur, qui cause la mort ; et la pratique démoniaque [^15] est perceptible même à partir de la même pratique, et quelle que soit l'odieuse _cause_ du péché est claire pour les observateurs du corps mort.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

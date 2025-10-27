@@ -48,6 +48,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 13\. At night, when they lie down, the shirt _and_ girdle are to be worn, for _they are_ more protecting for the body, and good for the soul. 14. When they lie down with the shirt and girdle, before sleep _one_ shall utter one Ashem-vohû [^19], and with every coming and going of the breath (vayô) is a good work of three Srôshô-<i>k</i>aranâms [^20]; and if in that <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> sleep decease occurs, his renunciation _of sin_ is accomplished [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

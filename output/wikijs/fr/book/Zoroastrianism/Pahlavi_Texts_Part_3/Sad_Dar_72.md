@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 1\. Le soixante-douzième sujet est celui-ci : quiconque porte de la matière morte à l’eau ou au feu <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> est passible de mort [^1]. 2. Et [^2] il est affirmé dans la révélation que chaque année où la sauterelle revient en abondance [^3], c’est parce que de la matière morte est portée à l’eau et au feu. 3. Et, de même, l’hiver est plus froid et l’été plus chaud.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

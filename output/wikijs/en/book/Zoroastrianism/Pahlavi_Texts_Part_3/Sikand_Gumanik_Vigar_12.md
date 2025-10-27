@@ -50,6 +50,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 82\. Thus far is considered complete upon this subject.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

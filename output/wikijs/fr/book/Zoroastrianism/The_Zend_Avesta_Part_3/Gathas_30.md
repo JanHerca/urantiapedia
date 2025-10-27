@@ -90,6 +90,8 @@ Traduction.
 
 11\. C'est pourquoi, ô hommes ! vous apprenez [^172] (ainsi) ces incitations religieuses qu'Ahura a données dans (notre) bonheur [^173] (notre) chagrin [^174]. (Et vous apprenez aussi) ce que sont les longues blessures pour les méchants, et les bénédictions qui sont réservées aux justes. Et lorsque ceux-ci (auront commencé leur course), le salut sera (votre part [^175]) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

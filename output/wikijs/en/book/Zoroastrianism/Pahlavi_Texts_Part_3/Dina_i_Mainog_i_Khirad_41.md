@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 8\. The spirit of wisdom answered (9) thus: ‘That man is the mightier who is able to struggle with his own fiends [^2]; (10) and, in particular, _he_ who keeps these five fiends far from _his_ person, (11) which are such as greediness, wrath, lust, disgrace, and discontent. 12. The road in passing over the <i>K</i>indvar bridge [^3] is the more dreadful. 13. The account for a soul of the wicked is the more perplexing. 14. The tie of children is the pleasanter and more desirable. 15. That work is the more regretable which they do for the ungrateful. 16. _And_ that gift is the more unprofitable which they give to the unworthy [^4].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

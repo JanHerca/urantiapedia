@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. Et il _en est_ de même pour la capitation : il est indispensable de la donner en guise d'aide, afin qu'on donne à cette personne sa libération ('<i>h</i>alâʓ), et qu'elle reste à sa place, et que l'avantage d'une bonne œuvre (THavâb) parvienne à cette _autre personne_.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

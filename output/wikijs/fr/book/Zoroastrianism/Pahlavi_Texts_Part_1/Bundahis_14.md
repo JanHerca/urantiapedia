@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 31\. De nombreux animaux sont créés dans toutes ces espèces pour cette raison, que lorsque l'un périra _à cause_ du mauvais esprit, l'autre restera.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

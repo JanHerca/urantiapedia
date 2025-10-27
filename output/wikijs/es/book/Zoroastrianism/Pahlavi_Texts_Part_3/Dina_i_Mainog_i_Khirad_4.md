@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «La mayor buena obra es la liberalidad, y la segunda es la verdad y el matrimonio con los parientes más cercanos [^1]. 5. La tercera es <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> _guardar_ las festividades estacionales [^2], _y_ la cuarta es _celebrar_ todos los ritos religiosos [^3]. 6. La quinta es el ceremonial de los seres sagrados y proporcionar alojamiento a los comerciantes [^4]. 7. La sexta es desear la felicidad de todos. 8. _Y_ la séptima es la consideración por los buenos [^5].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

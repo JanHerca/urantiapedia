@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 2\. La respuesta es esta: cuando quienes reciban su dirham tengan que confiarle los cinco bushels de trigo, sin sospechar nada y por voluntad propia, para que los aviente, así como él _los_ aviente consciente _e_ insospechadamente, deben tomarlos tal como fueron avientados; esta es la decisión autorizada. 3. Pero cuando él los avienta debido a una necesidad muy grave de pago, es más conveniente que el alma ruegue al donante del dinero, quien es el pagador comprador [^3], por parte de ese exceso de ganancia indivisa (apâr). 4. Porque debe considerar la ganancia de sus sucesores como parte de la ganancia del dinero en el acto [^4]\—_cuando más de <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> tal entrega exigida—_y_ no como un nuevo arrebato de un regalo [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

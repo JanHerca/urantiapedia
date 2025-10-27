@@ -38,6 +38,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 4\. Excellence _that is_ perfect is righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

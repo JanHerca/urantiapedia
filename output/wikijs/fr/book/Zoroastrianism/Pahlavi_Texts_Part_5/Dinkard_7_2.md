@@ -93,6 +93,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 70\. Voici une énumération de la digne lignée de Zaratû<i>s</i>t [^50] : — Zaratû<i>s</i>t était fils de Pôrûshâspô, fils de Pa<i>d</i>îragtarâspô, d'Urugadhasp\*, de Haê<i>k</i>a<i>d</i>aspô\*, de <i>K</i>ikhshnu<i>s</i>\*, de Paêtrasp\*, d'Are<i>g</i>adhar<i>s</i>n\*, de Hardhar\*, de Spîtâm, de Vaêdi<i>s</i>t\*, de Nayâzem\* [^51], d'Aîrî<i>k</i> 3, de Dûrâsrôbô, de Mânû<i>s</i><i>k</i>îhar monarque d'Irân, de Mânû<i>s</i>\-khûrnar, de Mânû<i>s</i>\-khûrnâk que Nêrôksang implanta en [^52] Vîzak\*, _fille_ d'Air-yak\*, _fils_ de Thritak\*, de Bitak\*, de Frazû<i>s</i>ak\*, de Zû<i>s</i>ak\*, de Fragûzak\* [^53], de Gûzak\* [^54], _fille_ d'Aîrî<i>k</i>, _fils_ de Frê<i>d</i>ûn monarque de Khvanîras, _fils_ de Pûr-tô<i>r</i>â le Âspîgân, de Nêvak-tô<i>r</i>â l'Âspîgân, de Sôg-tô<i>r</i>â l'Âspîgân, de Bôr-tô<i>r</i>â l'Âspîgân, de Ka<i>r</i><i>d</i>âr-tô<i>r</i>â [^55] l'Âspîgân, de Sîyah-tô<i>r</i>â l'Âspîgân, de Spêtô-tô<i>r</i>â l'Âspîgân, de Gêfar-tô<i>r</i>â l'Âspîgân, de Ramak-tô<i>r</i>â [^56] l'Âspîgân, de Vanôfravi<i>s</i>n l'Âspîgân, de Yim monarque des sept <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> régions, _fils_ de Vîvangha, d'Ayang,ha<i>d</i>\*, d'Anang,ha<i>d</i>\*, _fils_ de Hôshâng le Pê<i>s</i>dâ<i>d</i>ien monarque des sept régions, _fils_ de Fravâk, de Sîyâmak, de Masyâ, de Gâyômar<i>d</i> le premier homme.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

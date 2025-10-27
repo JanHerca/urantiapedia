@@ -67,6 +67,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -93,8 +95,8 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1388]: 310:1 See [p. 13](../Sirozahs_1#p13), note [2](../Sirozahs_1#fn96).
+[^1322]: 310:1 See [p. 13](../Sirozahs_1#p13), note [2](../Sirozahs_1#fn96).
 
-[^1389]: 310:2 The reptiles and other Ahrimanian creatures (Vendîdâd, Introd. V, 11) which are destroyed by the rain (Bund. VII, 7).
+[^1323]: 310:2 The reptiles and other Ahrimanian creatures (Vendîdâd, Introd. V, 11) which are destroyed by the rain (Bund. VII, 7).
 
-[^1390]: 310:3 Who sacrifices to Vana<i>n</i><i>t</i>.
+[^1324]: 310:3 Who sacrifices to Vana<i>n</i><i>t</i>.

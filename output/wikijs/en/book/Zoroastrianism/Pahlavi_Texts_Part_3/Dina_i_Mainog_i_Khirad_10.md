@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘_There_ cannot be, on any account whatever; (5) because Aharman meditates evil falsehood and its deeds, wrath and malice and discord, (6) and Aûha<i>r</i>ma<i>z</i><i>d</i> meditates righteousness and its deeds, good works <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> and goodness and truth. 7. And everything can change, except good and bad nature. 8. A good nature cannot change to evil by any means whatever, and a bad nature to goodness in any manner. 9. Aûha<i>r</i>ma<i>z</i><i>d</i>, on account of a good nature, approves no evil and falsehood; (10) and Aharman, on account of a bad nature, accepts no goodness and truth; (11) and, on this account, _there_ cannot be for them any peace and affection whatever, one with the other.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

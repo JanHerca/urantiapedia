@@ -122,6 +122,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 195\. The spirit of innate wisdom spoke to the sage (196) thus: ‘This which _was_ asked by thee, as to the maintenance of the body _and_ concerning the preservation of the soul, is also spoken about by me, and thou art admonished. 197. Be virtuously <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> assiduous about it, and keep _it_ in practice; (198) for this is thy chief way for the maintenance of the body _and_ preservation of the soul.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

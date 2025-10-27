@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The eighty-sixth subject is this, that it is not proper to kill a beaver [^1]; _but_, if they see _it in_ any place, it is necessary to take _it_ up and carry _it_ to running water. 2. For, in the commentary of the Vendîdâ<i>d</i> it is ranked [^2] _as_ a great sin for the _killer_ [^3]; and, _as to_ every one who kills a beaver, the source of his seed becomes exhausted.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

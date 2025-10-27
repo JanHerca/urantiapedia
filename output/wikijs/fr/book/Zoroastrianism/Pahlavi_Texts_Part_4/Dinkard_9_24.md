@@ -61,6 +61,8 @@ _ils_ la considéraient_ comme l'épaule_ de_ [^7] Arekdvîksûr [^8], _et_ sa_ 
 
 21\. La justice est la perfection parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

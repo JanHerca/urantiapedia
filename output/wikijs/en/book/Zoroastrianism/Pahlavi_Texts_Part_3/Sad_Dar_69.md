@@ -36,6 +36,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 1\. The sixty-ninth subject is this, that it is not proper that sunshine _should_ fall on a fire, for, every time that sunshine falls upon a fire [^1], it is a [^2] sin. 2. If thou expose a fire to the sun it is a sin of three <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> stîrs [^3]; and, if thou set down anything on the top of the fire, it is necessary that it _should_ not have any hole—so that the light (nûr) and strength of the fire _might_ become less—so far as thou knowest.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

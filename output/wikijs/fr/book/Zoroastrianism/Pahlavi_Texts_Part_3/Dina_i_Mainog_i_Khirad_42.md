@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 12\. « Un demi-démon est celui en qui il n'y a que le nom de l'homme [^1] et de la race humaine, _mais_ dans chaque action qu'il accomplit, il est alors semblable à un démon à deux jambes. 13. Il ne comprend ni l'existence mondaine ni l'existence spirituelle, (14) il ne comprend ni la bonne œuvre ni le péché, (15) il ne comprend ni le ciel ni l'enfer, (16) et même le compte que l'âme _doit rendre_, il n'y pense pas. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

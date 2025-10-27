@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 12\. Y más parecidos a los antiguos escépticos (vimânakŏ) _se han_ convertido en los discípulos, entre quienes se produce desacuerdo _y_ enemistad, como está escrito en el mismo escrito (khadû-gûn nâmakŏ) [^13]; _y_, debido a las palabras de amonestación, estas _se convierten_ en envidia y malicia para los discípulos, _y_ los problemas _y_ el desacuerdo menos apropiados entre ustedes y más contenciosos acerca de ustedes. 13. Y en el tiempo _en_ ​​que existía un gran estipendio, _ellos_ contendieron con aquel por cuya grandeza _y_ abundancia de estipendio se causó su conflicto, uno con el otro, por envidia; y ahora, también, ellos [siempre](errata_htm.html) riñen _sobre_ su estipendio deficiente, con el cual los tentarán, debido a su inadecuación, en aras de una forma de preservar la vida, como se mostró con mi metáfora en el otro capítulo [^14]. 14. Cuando aquellos que, por necesidad de _emplearse en los ritos_ de la religión, o las recitaciones [^15] <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> que son su sabiduría, quisieran de inmediato producir enemistad, y los amigos de la religión, están a favor de cada uno de los dos lados, _es importante buscar la obtención del perdón, las consideraciones amables y el progreso de los elegidos (pasandakânŏ) en el deber de los fieles.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

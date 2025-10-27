@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 9\. Y después de esos 6000, que son los 6000 años, están el Airyaman [^28] de Ashavahi<i>s</i>t _y_ los dichos que lo acompañan (ham-v<i>â</i><i>k</i>ŏ) que están al final de los Gâthas; esos son los 57 años de Sôshâns [^29], y por causa de ellos, también, están el Airyaman _y_ desde la alabanza de la rectitud en _su_ final _hasta_ la consagración del Airyaman, originalmente 57 palabras (mârîk), porque la alabanza de la rectitud para el Airyaman es 12, y la consagración del Airyaman es 21, _de_ las 57 originales [^30].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

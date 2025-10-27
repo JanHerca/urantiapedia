@@ -96,6 +96,8 @@ Traduction.
 
 16\. (Et) toute cette [^347] (récompense du juste) vient de Celui qui enseigne [^348] dans la vaste lumière (mentale) des pieux [^349], régnant (en souverain), ô Mazda Ahura [^350] ! À qui appartiennent mes malheurs et mes doutes [^351] (oui, ils reposent en Son pouvoir de guérison), quand je ferai (mes prophètes) des hommes recherchés [^352] pour le mal des méchants. Et cela, je le ferai par la parole de ma bouche (pour défendre et venger mes saints) !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

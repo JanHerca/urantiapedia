@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 6\. Les bonnes œuvres qui sont dans le culte _cérémonial_ <span id="p381"><sup><small>[ p. 381 ]</small></sup></span> des êtres sacrés (ya<i>z</i>i<i>s</i>ni yazdân) : — _Consacrer_ un gâteau sacré (drôn) [^8] est une bonne œuvre d'un Tanâpûhar [^9] ; une _forme_ de culte (ya<i>s</i>t) [^10] est de cent Tanâpûhars ; un Vispara<i>d</i> [^11] est de mille Tanâpûhars ; un Dô-hômâst [^12] est de dix mille ; un Dvâ<i>z</i>dah-hômâst vaut cent mille, et le mérite (kirfak) de chacun d'eux, accompli avec de l'eau bénite, est dit être de cent à un ; un Hâ<i>d</i>ôkht [^13] vaut deux mille Tanâpûhars, et avec de l'eau bénite, il devient de cent à un [^14].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

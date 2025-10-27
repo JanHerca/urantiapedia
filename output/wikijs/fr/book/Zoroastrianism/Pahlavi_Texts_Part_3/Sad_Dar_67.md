@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 7\. C'est pourquoi, puisqu'elle est ainsi, il est nécessaire que les femmes se gardent avec beaucoup d'efforts, afin de ne pas devenir illicites à leurs propres <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> maris. 8. Car, chaque fois que l'une d'elles se donne quatre fois à une autre personne, elle est, par la suite, illicite aussi longtemps [^6] qu'elle est dans la maison de son mari [^7], et de nouveaux péchés s'accumulent dans son âme [^8].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

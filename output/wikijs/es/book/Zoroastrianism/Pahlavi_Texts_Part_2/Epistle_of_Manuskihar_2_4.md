@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Y esto también me sorprende mucho: si no tienes en cuenta esto, que cuando no hay purificador [^6] y uno lo consigue, entonces es necesario que actúe él mismo [^7], ¿cómo llegas a saber, con base en la información (âgahîh), que la purificación de todos los purificadores del país de Irán se realiza tal como siempre deben hacerlo? 5. Si, a mi entender, no tienes un conocimiento completo de la administración de una casa, ¿cómo se obtiene nuestro relato de los rumores [^8] y tu información sobre todos los purificadores del país de Irán? <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> 6. Si tu pueblo abandonara lo más indispensable, y tu relato de los chismes sobre lo que ha hecho todo el reino no se ajusta a los preceptos de la religión ni a la sana sabiduría; y si no ha llegado a tu conocimiento como el lavado de los purificadores del país de Irán —porque, al no fijar el número ni siquiera de sus pasos [^9], es cierto que _tu_ comprensión de su disposición _y_ práctica virtuosa es aún menor—, entonces era necesario que determinaras la razón por la que todos los purificadores del país de Irán siempre se lavan de la manera que se declara impropia, con cualquier certeza que se diga o escriba.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

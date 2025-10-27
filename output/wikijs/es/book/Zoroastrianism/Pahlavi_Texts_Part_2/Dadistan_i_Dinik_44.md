@@ -49,6 +49,8 @@ II. Pero quien posee mucha habilidad debe tener [^5] un estipendio alto, y quien
 
 22\. La misma colecta [^19] es el modo en que los amigos de la religión piden a los defensores de la religión la preservación del alma, _y_ consideran con suma gracia _y_ reverencia la ventaja _y_ placer de la posición [^20] de los defensores de la religión, de modo que recolecten adecuadamente para la preservación de las almas mediante la modalidad de ir a recolectar a fondo con gran ganancia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -68,6 +68,8 @@ dateCreated: 2025-10-10T14:41:50Z
 19\. El décimo _es que debe_ haber un período de obediencia (Srôshdârîh) hacia el gobernante y la autoridad sacerdotal, el sumo sacerdocio de los religiosos [^19].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

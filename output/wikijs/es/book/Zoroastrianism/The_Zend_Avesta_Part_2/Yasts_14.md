@@ -386,6 +386,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -412,124 +414,124 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1093]: 231:1 Sîrôzah I, 20.
+[^1035]: 231:1 Sîrôzah I, 20.
 
-[^1094]: 232:1 Verethraghna.
+[^1036]: 232:1 Verethraghna.
 
-[^1095]: 232:2 Zaratu<i>s</i>stra.
+[^1037]: 232:2 Zaratu<i>s</i>stra.
 
-[^1096]: 233:1 Como arriba, § 3.
+[^1038]: 233:1 Como arriba, § 3.
 
-[^1097]: 233:2 Como arriba, § 4.
+[^1039]: 233:2 Como arriba, § 4.
 
-[^1098]: 233:3 Como arriba, § 5.
+[^1040]: 233:3 Como arriba, § 5.
 
-[^1099]: 234:1 Dudoso (vadharôi<i>s</i>).
+[^1041]: 234:1 Dudoso (vadharôi<i>s</i>).
 
-[^1100]: 234:2 Dudoso (dadãsôi<i>s</i>).
+[^1042]: 234:2 Dudoso (dadãsôi<i>s</i>).
 
-[^1101]: 234:3? Urvatô; cf. § 19.
+[^1043]: 234:3? Urvatô; cf. § 19.
 
-[^1102]: 234:4 Domesticado, domesticado.
+[^1044]: 234:4 Domesticado, domesticado.
 
-[^1103]: 234:5? Smar<i>s</i>nô.
+[^1045]: 234:5? Smar<i>s</i>nô.
 
-[^1104]: 234:6 ? Haitahê.
+[^1046]: 234:6 ? Haitahê.
 
-[^1105]: 235:1 Cf. Yt. X, 70.
+[^1047]: 235:1 Cf. Yt. X, 70.
 
-[^1106]: 235:2 O mejor, apresurándose delante. Cf. Yt. X, 127.
+[^1048]: 235:2 O mejor, apresurándose delante. Cf. Yt. X, 127.
 
-[^1108]: 236:1? Urvatô, pishatô.
+[^1049]: 236:1? Urvatô, pishatô.
 
-[^1109]: 236:2 El cuervo era consagrado a Apolo. Se dice que los sacerdotes del sol en Persia se llamaban cuervos (Porfirio). Cf. Georgica I, 45.
+[^1050]: 236:2 El cuervo era consagrado a Apolo. Se dice que los sacerdotes del sol en Persia se llamaban cuervos (Porfirio). Cf. Georgica I, 45.
 
-[^1110]: 236:3 Lectura vîgâtavô.
+[^1051]: 236:3 Lectura vîgâtavô.
 
-[^1111]: 236:4 Dudoso.
+[^1052]: 236:4 Dudoso.
 
-[^1112]: 237:1 La Gloria real es descrita volando en forma de cuervo, Yt. XIX, 35.
+[^1053]: 237:1 La Gloria real es descrita volando en forma de cuervo, Yt. XIX, 35.
 
-[^1113]: 237:2 Dudoso.
+[^1054]: 237:2 Dudoso.
 
-[^1114]: 237:3 Mientras Ardashîr, el fundador de la dinastía sasánida, huía de Ardavân, un hermoso carnero salvaje corrió tras él y lo alcanzó, y Ardavân comprendió por esto que la Gloria real lo había abandonado y había pasado a su rival (Shâh Nâmah, Ardashîr; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45).
+[^1055]: 237:3 Mientras Ardashîr, el fundador de la dinastía sasánida, huía de Ardavân, un hermoso carnero salvaje corrió tras él y lo alcanzó, y Ardavân comprendió por esto que la Gloria real lo había abandonado y había pasado a su rival (Shâh Nâmah, Ardashîr; Kâr Nâmakî Artachshîr, tr. Noeldeke, p. 45).
 
-[^1115]: 239:1 Erezi, Pahl. gond (Diccionario antiguo Zand-Pahlavi, p. 11)
+[^1056]: 239:1 Erezi, Pahl. gond (Diccionario antiguo Zand-Pahlavi, p. 11)
 
-[^1116]: 239:2 Véase Vendîdâd XIX, 42.
+[^1057]: 239:2 Véase Vendîdâd XIX, 42.
 
-[^1117]: 239:3 Posiblemente, percibir.
+[^1058]: 239:3 Posiblemente, percibir.
 
-[^1118]: 239:4 Cf. Yt. XVI, 7, y Bundahi<i>s</i> XVIII, 6: 'esos peces... conocen el rasguño de la punta de una aguja (o mejor dicho, el agujero) por el cual el agua aumentará, o por el cual disminuirá' (tr. West).
+[^1059]: 239:4 Cf. Yt. XVI, 7, y Bundahi<i>s</i> XVIII, 6: 'esos peces... conocen el rasguño de la punta de una aguja (o mejor dicho, el agujero) por el cual el agua aumentará, o por el cual disminuirá' (tr. West).
 
-[^1119]: 239:5 Avakhshaity<i>a</i>u, la noche antes de hu-vakhsha (antes del momento en que la luz comienza a crecer; medianoche).
+[^1060]: 239:5 Avakhshaity<i>a</i>u, la noche antes de hu-vakhsha (antes del momento en que la luz comienza a crecer; medianoche).
 
-[^1120]: 239:6 Cf. Yt. XVI, 10, y Bundahi<i>s</i> XIX, 32: 'En cuanto al caballo árabe, dicen que si en una noche oscura aparece un solo pelo en el suelo, lo ve' (tr. West).
+[^1061]: 239:6 Cf. Yt. XVI, 10, y Bundahi<i>s</i> XIX, 32: 'En cuanto al caballo árabe, dicen que si en una noche oscura aparece un solo pelo en el suelo, lo ve' (tr. West).
 
-[^1121]: 240:1 Posiblemente el Gypaetus, el vautour doré.
+[^1062]: 240:1 Posiblemente el Gypaetus, el vautour doré.
 
-[^1122]: 240:2 «Incluso desde su vuelo más alto, él (el buitre) ve cuando hay carne del tamaño de un puño en el suelo» (Bund. XIX, 31; tr. West). Cf. Horapollo (I, 11).
+[^1063]: 240:2 'Incluso desde su vuelo más alto, él (el buitre) ve cuando hay carne del tamaño de un puño en el suelo' (Bund. XIX, 31; tr. West). Cf. Horapollo (I, 11).
 
-[^1123]: 241:1 Peshô-parena. El Vâre<i>n</i><i>g</i>ana es la misma ave que el Vâraghna, el cuervo.
+[^1064]: 241:1 Peshô-parena. El Vâre<i>n</i><i>g</i>ana es el mismo pájaro que el Vâraghna, el cuervo.
 
-[^1124]: 241:2 La pluma del Vâre<i>n</i><i>g</i>ana desempeña aquí el mismo papel que la pluma del Sîmurgh en el Shâh Nâmah. Cuando se abrió el costado de Rûdâbah para dar a luz a Rustem, su herida se curó frotándola con una pluma de Sîmurgh; Rustem, herido de muerte por Isfendyâr, fue curado de la misma manera.
+[^1065]: 241:2 La pluma del Vâre<i>n</i><i>g</i>ana desempeña aquí el mismo papel que la pluma del Sîmurgh en el Shâh Nâmah. Cuando se abrió el costado de Rûdâbah para dar a luz a Rustem, su herida se curó frotándola con una pluma de Sîmurgh; Rustem, herido de muerte por Isfendyâr, fue curado de la misma manera.
 
-[^1125]: 241:3 De aquel que tiene aquella pluma.
+[^1066]: 241:3 De aquel que tiene aquella pluma.
 
-[^1126]: 241:4 ? Vaêsaêpa.
+[^1067]: 241:4 ? Vaêsaêpa.
 
-[^1127]: 241:5 Ese pájaro.
+[^1068]: 241:5 Ese pájaro.
 
-[^1128]: 242:1 Kai Kaus; cuando intentó ascender al cielo en un trono llevado por águilas (Journal Asiatique, 1881, I, 513).
+[^1069]: 242:1 Kai Kaus; cuando intentó ascender al cielo en un trono llevado por águilas (Journal Asiatique, 1881, I, 513).
 
-[^1129]: 242:2 Una metáfora para expresar la rapidez del viento, del camello y de los ríos.
+[^1070]: 242:2 Una metáfora para expresar la rapidez del viento, del camello y de los ríos.
 
-[^1130]: 242:3 Cf. Yt. V, 34.
+[^1071]: 242:3 Cf. Yt. V, 34.
 
-[^1131]: 242:4 El Simurgh; cf. [p. 241](#p241), nota [^1065].
+[^1072]: 242:4 El Sîmurgh; cf. [p. 241](#p241), nota 1065.
 
-[^1132]: 243:1 Dudoso.
+[^1073]: 243:1 Dudoso.
 
-[^1133]: 243:2 O una flecha emplumada con cuatro plumas de Vâre<i>n</i><i>g</i>ana.
+[^1074]: 243:2 O una flecha emplumada con cuatro plumas de Vâre<i>n</i><i>g</i>ana.
 
-[^1136]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
+[^1075]: 243:3 Â-dhwao<i>z</i>en, vî-dhwao<i>z</i>en, fra-dhwao<i>z</i>en.
 
-[^1137]: 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vimarezen, cf. Yt. yo, 2; fray marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
+[^1076]: 243:4 Âmarezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24300.jpg); vimarezen, cf. Yt. yo, 2; fray marezen, cf. ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/24301.jpg).
 
-[^1138]: 243:5 Cf. Yt. IV, 10.
+[^1077]: 243:5 Cf. Yt. IV, 10.
 
-[^1139]: 244:1 Contra la verdad.
+[^1078]: 244:1 Contra la verdad.
 
-[^1140]: 244:2 Cf. Yt. X, 108 seq.
+[^1079]: 244:2 Cf. Yt. X, 108 y siguientes.
 
-[^1141]: 244:3 § 48; cf. Yt. VIII, 56.
+[^1080]: 244:3 § 48; cf. Yt. VIII, 56.
 
-[^1142]: 244:4 §§ 49-53 = Yt. VIII, 57-61.
+[^1081]: 244:4 §§ 49-53 = Yt. VIII, 57-61.
 
-[^1143]: 245:1 Gô<i>s</i>ûrûn o Drvâspa; véase Yt. IX. La destrucción de cualquier ser vivo es una lesión para Drvâspa.
+[^1082]: 245:1 Gô<i>s</i>ûrûn o Drvâspa; véase Yt. IX. La destrucción de cualquier ser vivo es una lesión para Drvâspa.
 
-[^1146]: 245:2 ? Vyâmbura.
+[^1083]: 245:2 ? Vyâmbura.
 
-[^1145]: 245:3 Los Haperesi y los Neme<i>t</i>ka son probablemente algunas especies de madera verde; está prohibido poner madera verde en el fuego porque lo mata y hiere al Genio del Agua al mismo tiempo.
+[^1084]: 245:3 Los Haperesi y los Neme<i>t</i>ka son probablemente algunas especies de madera verde; está prohibido poner madera verde en el fuego porque lo mata y hiere al Genio del Agua al mismo tiempo.
 
-[^1147]: 245:4 Para golpear.
+[^1085]: 245:4 Para golpear.
 
-[^1148]: 245:5 El significado general de las últimas cuatro cláusulas es que los impíos son derrotados.
+[^1086]: 245:5 El significado general de las últimas cuatro cláusulas es que los impíos son derrotados.
 
-[^1149]: 246:1? Sâiri-baoghem; cf. Artículo 46.
+[^1087]: 246:1? Sâiri-baoghem; cf. Artículo 46.
 
-[^1150]: 246:2 Nivazaiti; literalmente, tragar (? frôt ô bun burtan, Vend. V, 8 \[26\]).
+[^1088]: 246:2 Nivazaiti; literalmente, tragar (? frôt ô bun burtan, Vend. V, 8 \[26\]).
 
-[^1151]: 246:3 Literalmente, alcanzar.
+[^1089]: 246:3 Literalmente, adelantar.
 
-[^1152]: 246:4 Cf. Yt. V, 85.
+[^1090]: 246:4 Cf. Yt. V, 85.
 
-[^1153]: 246:5? Asânem sighûirê.
+[^1091]: 246:5? Asânem sighûirê.
 
-[^1154]: 246:6 Cf. Yt. V, 69.
+[^1092]: 246:6 Cf. Yt. V, 69.
 
-[^1155]: 247:1 De Yasna X, 20 (62), donde, en lugar de las palabras, 'en el buey está nuestra fuerza (amem), en el buey está nuestra necesidad', el texto tiene, 'en el buey está su necesidad, en el buey está nuestra necesidad', es decir, 'cuando le damos su necesidad (agua y pasto), él nos da nuestra necesidad (leche y terneros)' (Pahl. tr.).
+[^1093]: 247:1 De Yasna X, 20 (62), donde, en lugar de las palabras, 'en el buey está nuestra fuerza (amem), en el buey está nuestra necesidad', el texto tiene, 'en el buey está su necesidad, en el buey está nuestra necesidad', es decir, 'cuando le damos su necesidad (agua y pasto), él nos da nuestra necesidad (leche y terneros)' (Pahl. tr.).
 
-[^1156]: 248:1 Véase [p. 120](../Yasts_10#p120), nota [2](../Yasts_10#fn558).
+[^1094]: 248:1 Véase [p. 120](../Yasts_10#p120), nota [2](../Yasts_10#fn558).
 
-[^1157]: 248:2 ¿Quién ofrecerá un sacrificio a Verethraghna?
+[^1095]: 248:2 ¿Quién ofrecerá un sacrificio a Verethraghna?

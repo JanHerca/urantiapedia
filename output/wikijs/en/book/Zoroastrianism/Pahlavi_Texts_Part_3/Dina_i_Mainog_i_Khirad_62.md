@@ -50,6 +50,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 37\. ‘The nest of the griffon bird [^33] is on the tree. opposed to harm, the many-seeded [^34]. 38. Whenever he rises aloft a thousand twigs will shoot out from that tree, (39) and when he alights he breaks off the thousand twigs and bites the seed from them. 40. And the bird <i>K</i>înâmrô<i>s</i> [^35] alights likewise _in_ that vicinity; (41) and his work is this, that he collects those seeds which are bitten from the tree of many seeds, which is opposed to harm, and he scatters (pargandê<i>d</i>) _them_ there where Tî<i>s</i>tar [^36] seizes the water; (42) so that, while Tî<i>s</i>tar shall seize the water, _together_ with those seeds of all kinds, he shall rain _them_ on the world with the rain [^37].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

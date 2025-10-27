@@ -62,6 +62,8 @@ Afterwards, bending forward and holding the front knot of the Kustî with both h
 
 During the rite the person performing it must remain standing on the same spot, without stepping either backwards or forwards, and must speak to no one. Should anything compel him to speak, he must re-commence the rite after the interruption.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

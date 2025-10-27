@@ -69,6 +69,8 @@ dateCreated: 2025-10-10T14:41:20Z
 
 15\. La religión está tan conectada con el Yathâ-ahû-vairyô como el cabello está más conectado con la gloria del rostro; cualquiera, de hecho, temería (samâ<i>d</i>) separar la vellosidad _y_ la gloria del rostro.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

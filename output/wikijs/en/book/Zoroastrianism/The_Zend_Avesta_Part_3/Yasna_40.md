@@ -44,6 +44,8 @@ So may we be to You, O Mazda Ahura! holy and true [^1207], and with free giving 
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

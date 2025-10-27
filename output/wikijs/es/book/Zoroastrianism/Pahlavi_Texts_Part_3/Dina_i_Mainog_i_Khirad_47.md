@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 5\. El espíritu de sabiduría respondió (6) así: «Es la sabiduría la que es mejor que cualquier riqueza que haya en el mundo. 7. Es el destino el que predomina sobre todos y sobre todo. 8. Y es Vâê el mal [^1] del que nadie puede escapar».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

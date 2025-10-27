@@ -62,6 +62,8 @@ And we sacrifice to the souls of the dead, \[which are the Fravashis of the sain
 
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

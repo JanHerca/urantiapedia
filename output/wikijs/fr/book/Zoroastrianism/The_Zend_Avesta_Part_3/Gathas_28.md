@@ -82,6 +82,8 @@ Traduction.
 
 12\. (Oui, je m'approche de Toi avec mes prières, moi) qui par ces (grands dons de grâce) protégerai ((Ta) Divine Justice et (Ton) Bon Esprit en nous) à jamais. Et Toi donc, ô Ahura Mazda ! Enseigne-moi de Toi-même, oui, de Ta propre bouche spirituelle, afin que je puisse déclarer (à ce peuple qui t'attend) par quels (pouvoirs et selon quelles lois [^129]) le monde primitif est né [^130] !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 10\. Y se dice sumariamente que el cielo fue sacudido en el _período_ de perturbación y restaurado _con_ dificultad; y, si los espíritus guardianes están libres de perturbación por la gloria _del_ creador, cuando ni siquiera hay un lugar preparado por ellos mismos [^12], y _su_ naturaleza y su propia <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> fuerza aprueban la dificultad de la preparación, no se conmueve [^13], excepto por las criaturas de _su_ voluntad, una voluntad que es subyugadora.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

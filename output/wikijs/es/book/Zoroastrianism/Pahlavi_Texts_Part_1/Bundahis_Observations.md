@@ -63,6 +63,10 @@ M6 (escrito en 1397 d.C.), n.° 6 de la colección Haug de la Biblioteca Estatal
 
 TD (escrito alrededor del año 1530 d. C.), perteneciente a Mobad Tehmuras Dinshawji Anklesaria en Bombay.
 
+<br>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

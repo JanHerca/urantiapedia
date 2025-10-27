@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Avec plus d'autorité (dastôbarîhâ), il est dit que le réceptacle à os est une voûte (ka<i>d</i>akŏ) en pierre massive [^5], et que sa couverture (nihûmbakŏ) _on_ doit <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> construire également d'une seule pierre taillée et perforée (sûlâk-hômand), et qu'autour d'elle _on_ doit remplir de pierre et de mortier [^6].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

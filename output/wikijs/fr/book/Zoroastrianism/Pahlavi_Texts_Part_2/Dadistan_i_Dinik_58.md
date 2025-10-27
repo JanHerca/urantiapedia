@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 5\. Et un fils adoptif qui est désigné est celui qui doit être désigné parmi les parents qui sont aptes à l'adoption - et qui sont les plus proches de celui qui doit être désigné comme fils adoptif - et les ministres (pa<i>d</i>ân) de la religion, _et_ il accomplit le devoir de tutelle <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> familiale [^3]; celui qui est désigné est celui qui est désigné par les hommes _qui sont_ les plus proches parents (nabânazdi<i>s</i>tânŏ) en raison de la proximité.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

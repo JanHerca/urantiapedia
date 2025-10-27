@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 12\. Mânû<i>s</i><i>k</i>îhar, hijo de Yûdân-Yim, _lo ha escrito_ en_ el día _y_ mes _de_ Spenda<i>r</i>ma<i>d</i> [^16], en el <span id="p324"><sup><small>[ p. 324 ]</small></sup></span> disfrute de la rectitud, la glorificación de la religión, la confianza en los ángeles y la gratitud al creador Aûha<i>r</i>ma<i>z</i><i>d</i>, los arcángeles _y_ todos los ángeles de las existencias espirituales _y_ los ángeles de las existencias mundanas. 13. Alabanza al mes (mâh) de igual clase que es exaltado en su nombre con esto.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

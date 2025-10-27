@@ -87,6 +87,8 @@ Le début de la deuxième subdivision [^36].
 
 Dk. IX, Chap. XLVII, 11, fait référence à Pahl. Yas. XIX, 12-15, qui est ainsi cité dans Sls. X, 26, sous une forme plus courte et modifiée : « Comme il est dit dans le Bak ainsi : « Quiconque murmurera, <i>Ô</i> Zaratû<i>s</i>t ! ma répartition de l'Ahunavair, (c'est-à-dire, le prendra doucement intérieurement) _et_ le laissera échapper [^50] de nouveau, (c'est-à-dire, le prononcera à haute voix) ne serait-ce que la moitié, ou le tiers, ou le quart, ou le cinquième, son âme je la protégerai [^51], moi qui suis Aûha<i>r</i>ma<i>z</i><i>d</i>, de la meilleure existence, (c'est-à-dire, je la garderai loin,) d'une étendue telle que la largeur de cette terre. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

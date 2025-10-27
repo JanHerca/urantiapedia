@@ -42,6 +42,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 6\. And Brâ<i>d</i>\-rûkhsh the Tûr went forth; when he went to the right side (arakŏ), Zaratû<i>s</i>t hastened away to the left, and when he went to the left side, Zaratû<i>s</i>t hastened to the right, and he is thereby concealed from Brâ<i>d</i>\-rûkhsh the Tûr, _who_ has not met with him.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -94,6 +94,8 @@ Le temple de Yennhe.
 
 (Le Zaotar.) Alors, que le Ratu, de sa Justice, saint et savant, parle !
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

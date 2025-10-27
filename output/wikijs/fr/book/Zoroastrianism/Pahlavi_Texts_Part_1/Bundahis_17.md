@@ -45,6 +45,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 9\. Ces trois feux sont le corps entier du feu de Vâhrâm, avec le feu du monde, et ces âmes qui respirent y sont logées ; une contrepartie du corps de l'homme lorsqu'il se forme dans le ventre de la mère, _et_ une âme du monde spirituel_ s'installe en _lui_, qui contrôle le corps pendant sa vie ; lorsque ce corps meurt, le corps se mêle à la terre, _et_ l'âme retourne à l'esprit.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

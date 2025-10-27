@@ -58,7 +58,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222]. . . .
 
-## JE.
+## I.
 
 1\. Ahura Mazda parla à Spitama Zarathustra, en disant : « Afin que tu puisses accroître Asha-Vahi<i>s</i>ta, ô Spitama Zarathustra ! par des hymnes de louange, par l'accomplissement de l'office, par des invocations, des paroles saintes, des sacrifices, des bénédictions et de l'adoration — pour demeurer une fois dans l'espace lumineux et brillant, dans les belles demeures [^223] — pour le sacrifice et l'invocation de nous, les Amesha-Spe<i>n</i>tas [^224] » . . . .
 
@@ -146,6 +146,8 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 « Donnez à cet homme [^248] la luminosité et la gloire, donnez-lui la santé du corps ; . . . . donnez-lui la demeure lumineuse, heureuse et bienheureuse des saints. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -172,77 +174,76 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 ## Notes de bas de page
 
-[^227]: 41:1 Ard-î-behi<i>s</i>t est la forme parsi d'Asha vahi<i>s</i>ta, ard étant dérivé d'arta, la forme persane correspondant au Zend asha.
+[^214]: 41:1 Ard-î-behi<i>s</i>t est la forme parsi d'Asha vahi<i>s</i>ta, ard étant dérivé d'arta, la forme persane correspondant au Zend asha.
 
-[^228]: 41:2 Voir Sîrôzah I, 3, et ci-dessous la formule introductive.
+[^215]: 41:2 Voir Sîrôzah I, 3, et ci-dessous la formule introductive.
 
-[^229]: 41:3 Voir Vend. Introd. IV, 30.
+[^216]: 41:3 Voir Vend. Introd. IV, 30.
 
-[^230]: 41:4 Ibid. 33.
+[^217]: 41:4 Ibid. 33.
 
-[^231]: 41:5 Voir Yt. XVII, 18.
+[^218]: 41:5 Voir Yt. XVII, 18.
 
-[^232]: 41:6 Fargard XXII et Introd.
+[^219]: 41:6 Fargard XXII et Introd.
 
-[^233]: 41:7 Comme ci-dessus, Yt. I, 0.
+[^220]: 41:7 Comme ci-dessus, Yt. I, 0.
 
-[^234]: 42:1 Siroza I, 3.
+[^221]: 42:1 Siroza I, 3.
 
-[^235]: 42:2 Plusieurs manuscrits ajoutent ici l'invocation complète de la grande Sîrôzah :
+[^222]: 42:2 Plusieurs manuscrits ajoutent ici l'invocation complète de la grande Sîrôzah :
+  « Nous sacrifions à Asha-Vahisa, la plus belle, à l'Amesha-Spena ;
+  Nous sacrifions à l'Airyaman tant désiré ;
+  Nous sacrifions à l'instrument fabriqué par Mazda ;
+  Nous sacrifions au bon Saoka, avec des yeux d'amour, faits par Mazda et saints.
 
-« Nous sacrifions à Asha-Vahisa, la plus belle, à l'Amesha-Spena ;
-Nous sacrifions à l'Airyaman tant désiré ;
-Nous sacrifions à l'instrument fabriqué par Mazda ;
-Nous sacrifions au bon Saoka, avec des yeux d'amour, faits par Mazda et saints.
+[^223]: 42:3 Le Garô-nmânem ou Paradis ; voir Yasna XVI, 7 \[XVII, 42\], Phl. tr.
 
-[^236]: 42:3 Le Garô-nmânem ou Paradis ; voir Yasna XVI, 7 \[XVII, 42\], Phl. tr.
+[^224]: 42:4 La proposition principale semble manquer, à moins que Zarathoustra ne soit censé interrompre Ahura. On pourrait aussi comprendre la phrase dans un sens optatif : « Puisses-tu augmenter… »
 
-[^237]: 42:4 La proposition principale semble manquer, à moins que Zarathoustra ne soit censé interrompre Ahura. On pourrait aussi comprendre la phrase dans un sens optatif : « Puisses-tu augmenter… »
+[^225]: 43:1 Ici encore, il semble qu'un paragraphe ait été perdu : « Ahura Mazda répondit : Proclamez Asha-Vahi<i>s</i>ta ; si vous proclamez Asha-Vahi<i>s</i>ta . . . — Alors Zarathu<i>s</i>tra répondit : Je proclame Asha-Vahi<i>s</i>ta . . . »
 
-[^238]: 43:1 Ici encore, il semble qu'un paragraphe ait été perdu : « Ahura Mazda répondit : Proclamez Asha-Vahi<i>s</i>ta ; si vous proclamez Asha-Vahi<i>s</i>ta . . . — Alors Zarathu<i>s</i>tra répondit : Je proclame Asha-Vahi<i>s</i>ta . . . »
+[^226]: 43:2 Le Garôthmân.
 
-[^239]: 43:2 Le Garôthmân.
+[^227]: 43:3 Allusion aux trois Paradis de Humat, Hûkht, Hvar<i>s</i>t, par lesquels passent les âmes des bienheureux jusqu'à Garôthmân (Yt. XXII, 15).
 
-[^240]: 43:3 Allusion aux trois Paradis de Humat, Hûkht, Hvar<i>s</i>t, par lesquels passent les âmes des bienheureux jusqu'à Garôthmân (Yt. XXII, 15).
+[^228]: 43:4 La prière connue sous le nom d'Airyama-ishyô ; voir Vendîdâd XXI, 11-12.
 
-[^241]: 43:4 La prière connue sous le nom d'Airyama-ishyô ; voir Vendîdâd XXI, 11-12.
+[^229]: 43:5 Voir Vend. Introd. IV, 20-21.
 
-[^242]: 43:5 Voir Vend. Introd. IV, 20-21.
+[^230]: 44:1 Cf. Vendîdâd VII, 44 (118). Qu'Airyaman ait utilisé la Parole sacrée (des sorts) pour guérir les maladies ressort de Vend. XXII, 6 seq.
 
-[^243]: 44:1 Cf. Vendîdâd VII, 44 (118). Qu'Airyaman ait utilisé la Parole sacrée (des sorts) pour guérir les maladies ressort de Vend. XXII, 6 seq.
+[^231]: 44:2 Paityâra : chaque œuvre d'Ahura fut contrée et gâchée par une contre-œuvre d'Angra Mainyu. Cf. Bundahi<i>s</i> I, 23 seq. ; III, 23 seq. ; Vend. I ; voir Ormazd et Ahriman, §§ 195 seq.
 
-[^244]: 44:2 Paityâra : chaque œuvre d'Ahura fut contrée et gâchée par une contre-œuvre d'Angra Mainyu. Cf. Bundahi<i>s</i> I, 23 seq. ; III, 23 seq. ; Vend. I ; voir Ormazd et Ahriman, §§ 195 seq.
+[^232]: 44:3 Voir Yt. I, 10 et note 4.
 
-[^245]: 44:3 Voir Yt. I, 10 et note 4.
+[^233]: 44:4 Les créatures ahrimaniennes appartenant à l'humanité, les Mairyas et les Ashemaoghas (Yt. I, 10).
 
-[^246]: 44:4 Les créatures ahrimaniennes appartenant à l'humanité, les Mairyas et les Ashemaoghas (Yt. I, 10).
+[^234]: 44:5 La courtisane ; cf. Vend. XXI, 27 (35), et Introd. IV, 25.
 
-[^247]: 44:5 La courtisane ; cf. Vend. XXI, 27 (35), et Introd. IV, 25.
+[^235]: 45:1 Le Zend est Kahvaredhaini, dont un synonyme, Kahvaredha, Yasna LXI, 2 \[LX, 7\], est traduit par altérateur de Gloire, ce qui signifie très probablement : celui qui fait « dépérir, culminer et dépérir » (cf. Vend. XVIII, 62-64).
 
-[^248]: 45:1 Le Zend est Kahvaredhaini, dont un synonyme, Kahvaredha, Yasna LXI, 2 \[LX, 7\], est traduit par altérateur de Gloire, ce qui signifie très probablement : celui qui fait « dépérir, culminer et dépérir » (cf. Vend. XVIII, 62-64).
+[^236]: 45:2 Du pays de l'enfer; cf. Vend. VII, 2; XIX, 1; Yt. XXII, 25.
 
-[^249]: 45:2 Du pays de l'enfer; cf. Vend. VII, 2; XIX, 1; Yt. XXII, 25.
+[^237]: 47:1 Un ensemble de manuscrits insère : « Il frappera le vent qui souffle contre le Nord, il affligera le vent qui souffle contre le Nord ; le vent qui souffle contre le Nord \[périra\]. » Il s'agit très probablement d'une interpolation, car le vent qui souffle contre le Nord (si c'est le bon sens de aparô apâkhtara, par opposition à pourvô apâkhtara) souffle contre Angra Mainyu.
 
-[^250]: 47:1 Un ensemble de manuscrits insère : « Il frappera le vent qui souffle contre le Nord, il affligera le vent qui souffle contre le Nord ; le vent qui souffle contre le Nord \[périra\]. » Il s'agit très probablement d'une interpolation, car le vent qui souffle contre le Nord (si c'est le bon sens de aparô apâkhtara, par opposition à pourvô apâkhtara) souffle contre Angra Mainyu.
+[^238]: 47:2 Cf. Vendredi VIII, 21.
 
-[^251]: 47:2 Cf. Vendredi VIII, 21.
+[^239]: 47:3 C'est-à-dire digne d'être accepté : cf. Yt. X, 32 ; les Parsis traduisent, 'un sacrifice entendu \[de la bouche des Dastûrs\]' ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/04700.jpg); East India Office, XXV, 42).
 
-[^252]: 47:3 C'est-à-dire digne d'être accepté : cf. Yt. X, 32 ; les Parsis traduisent, 'un sacrifice entendu \[de la bouche des Dastûrs\]' ( ![](/image/book/Zoroastrianism/The_Zend_Avesta_Part_2/04700.jpg); East India Office, XXV, 42).
+[^240]: 47:4 Le Haoma et le Myazda.
 
-[^253]: 47:4 Le Haoma et le Myazda.
+[^241]: 47:5 Voir Vend. III, 1, note 2.
 
-[^254]: 47:5 Voir Vend. III, 1, note 2.
+[^242]: 47:6 En d'autres termes : les bonnes formules (Phl. tr.) signifie « les bonnes formules ».
 
-[^255]: 47:6 En d'autres termes : les bonnes formules (Phl. tr.) signifie « les bonnes formules ».
+[^243]: 47:7 'L'Avesta' (trad. phil.).
 
-[^256]: 47:7 'L'Avesta' (trad. phil.).
+[^244]: 47:8 Les différentes opérations du sacrifice.
 
-[^257]: 47:8 Les différentes opérations du sacrifice.
+[^245]: 47:9 Comme ci-dessus, Yt. I, 22.
 
-[^258]: 47:9 Comme ci-dessus, Yt. I, 22.
+[^246]: 48:1 Cf. Sîrôzah I, 2.
 
-[^259]: 48:1 Cf. Sîrôzah I, 2.
+[^247]: 48:2 Comme ci-dessus, [p. 22](../Yasts_1#p22).
 
-[^260]: 48:2 Comme ci-dessus, [p. 22](../Yasts_1#p22).
-
-[^261]: 48:3 Qui offrira un sacrifice à Asha-Vahisa ; cf. Yt. I, 33 et notes.
+[^248]: 48:3 Qui offrira un sacrifice à Asha-Vahisa ; cf. Yt. I, 33 et notes.

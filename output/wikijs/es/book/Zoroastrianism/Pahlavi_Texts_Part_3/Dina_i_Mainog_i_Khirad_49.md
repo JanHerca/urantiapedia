@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 24\. «Y el movimiento del sol y la luna es la iluminación especial del mundo, (25) y la maduración de las procreaciones y crecimientos de todo tipo. 26. Y la correcta observancia del día, el mes y el año, el verano y el invierno, la primavera y el otoño, y otros cálculos y cuentas de todo tipo que los hombres deben obtener, percibir y comprender, (27) <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> se definen con mayor precisión mediante la puesta (ni<i>s</i>î<i>v</i>akŏ) [^17] del sol y la luna.»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

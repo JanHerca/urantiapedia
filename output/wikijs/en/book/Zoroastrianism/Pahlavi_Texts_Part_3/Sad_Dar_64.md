@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 10\. _As to_ that person who has seized anything <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> from another by force, among the spirits they seize back four _things_ [^9] as compensation for every single one. 11. And if, _on_ the spot _where people_ capture him, he makes _it_ convenient to return four _things_ in compensation _for_ one, when they have fully understood, as they capture that person who is committing highway-robbery, _that_ he makes _it_ convenient [^10], they _may_ kill him at once.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

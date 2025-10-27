@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that when they who shall take his dirham _have_ to intrust the five bushels of wheat, unsuspiciously _and_ by their own will, _to him_ to winnow, even so as _they_ are advisedly _and_ unsuspiciously winnowed by him they should take _them_ just as winnowed; _this_ is the decision authorisedly given. 3. But when _it_ is winnowed by him on account of very grievous necessity for payment, _it_ is more suitable for the soul to beg the giver of the money, who is the purchasing payer [^3], for _some_ of that excess of undivided (apâr) profit. 4. For _he has_ to consider the profit of _his_ successors as among the profit of money on the spot [^4]\—_when_ more than <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> such instalment demanded—_and_ not as a fresh carrying off of a gift [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

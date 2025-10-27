@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 8\. Mais, deuxièmement, _quant à_ l'emplacement des lieux qui sont les leurs - tout comme les siens - dont _il_ n'y a_ aucune investigation de ma part, cela est également dû au fait que _je_ ne m'en souviens pas [^22].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

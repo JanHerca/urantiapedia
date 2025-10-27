@@ -81,6 +81,8 @@ Una copia de la epístola del sacerdote Mânû<i>s</i><i>k</i>îhar [^1], hijo d
 
 5\. Por el renombre universal (aspôharakânîh) del buen pueblo de Khvanîras [^10], que es tuyo, debido al favor que es tu completa felicidad, ardientemente y alegremente deseada, _y_ constantemente así, cuando hay oportunidades de verte—aunque se supone que es la ventaja de tu propia religión, alegría del alma, cortesía _y_ constancia apropiada—ya que mi voluntad reside entre ti, haces conocer _y_ ordenas mis acciones, a través de la voluntad de los seres sagrados.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

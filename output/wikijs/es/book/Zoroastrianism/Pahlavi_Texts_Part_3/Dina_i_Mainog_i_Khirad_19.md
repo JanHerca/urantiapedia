@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Vivir con miedo y falsedad es peor que la muerte. 5. Porque la vida de cada uno es necesaria para el disfrute y el placer de la existencia mundana, (6) y cuando el disfrute y el placer de la existencia mundana no le pertenecen, y el miedo e incluso la falsedad [^1] le acompañan, se dice que es peor que la muerte».
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

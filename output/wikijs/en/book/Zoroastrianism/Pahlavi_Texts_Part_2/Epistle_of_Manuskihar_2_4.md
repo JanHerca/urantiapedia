@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 4\. And this, too, is very amazing to me, that when this is not taken into account by you, that when there should be, _and one_ should obtain, no purifier [^6] it would then be necessary for him to operate himself [^7], how then is this knowledge obtained by you, on which information (âgahîh) _has_ reached you, that the purifying of all the purifiers of the country of Irân is just as they should always perform _it_. 5. When, as I consider, there is then no complete acquaintance _with_ the management of a house in you, its own master, in what manner then is our account of the gossip [^8], _and your_ information, about all the purifiers of the country of Irân <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> obtained? 6. If your _people_ should abandon that _which is_ most indispensable, and your account of the gossip, as regards that which the whole realm _has_ done, _be_ not according to the commands of religion and to sound wisdom; _and_ if it has not come completely to your knowledge as the washing of the purifiers of the country of Irân—because, when you do not fix the number even of their footsteps [^9], _it_ is certain that _your_ understanding of their disposition _and_ virtuous practice is even less—then it was necessary for you to determine the reason that all the purifiers in the country of Irân always wash that way that is declared as improper, with whatever certainty _it be_ uttered _or_ written.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

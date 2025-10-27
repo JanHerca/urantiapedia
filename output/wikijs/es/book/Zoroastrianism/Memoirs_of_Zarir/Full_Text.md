@@ -258,6 +258,8 @@ Por el nombre del Creador Auharmazd y por el buen augurio de la buena creación,
 
 114\. Dijo: «Ve y cuenta lo que has visto de mi mano —la del héroe Spendadad—; de lo contrario, ¿cómo podrían los Khyaonas saber lo que ocurrió el día de Farvardin, en la constelación del dragón, en la guerra de Vishtasp?»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

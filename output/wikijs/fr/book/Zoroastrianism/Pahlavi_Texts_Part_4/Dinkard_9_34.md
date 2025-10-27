@@ -51,6 +51,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 <i>u</i>. L'excellence est la justice _qui est_ parfaite.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

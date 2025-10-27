@@ -120,6 +120,8 @@ _Nîkâ<i>d</i>ûm Nask_.
 
 167\. Perfect excellence is righteousness.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

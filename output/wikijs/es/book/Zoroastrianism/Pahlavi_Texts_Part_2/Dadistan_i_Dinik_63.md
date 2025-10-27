@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 5\. _Es_ costumbre dar a un infiel (ak-dînô), que no es extranjero, comida, ropa _y_ medicinas, cuando ha llegado su renuncia (vâ<i>z</i>), para alejar asuntos (<i>k</i>isânŏ) de muerte _y_ enfermedad debido al hambre _y_ la sed, el frío y el calor; pero la riqueza, los caballos, los pertrechos, el vino y la tierra no se dan autorizadamente, se dice, a los extranjeros e idólatras [^3].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

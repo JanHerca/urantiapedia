@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 Dk. VIII, Cap. XIII, 10, probablemente se refiere al pasaje que contenía la declaración citada en Sls. X, 28:—'Aun así se revela en el <i>K</i>îtradâ<i>d</i> que Spenda<i>r</i>ma<i>d</i> le habló a Mânû<i>s</i>'<i>k</i>îhar así: «Hasta el caballo más veloz requiere el látigo, el cuchillo de acero más afilado requiere la piedra de afilar, y el hombre más sabio necesita consejo.»»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

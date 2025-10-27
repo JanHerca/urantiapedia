@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:56:45Z
 
 4\. Et la première nuit, de ses bonnes pensées, la deuxième nuit de ses bonnes paroles, et la troisième nuit de ses bonnes actions, il obtient du plaisir pour l'âme ; et si aussi, avec la justice, il y a du péché qui demeure en lui comme son origine, la première punition en rétribution pour la mauvaise action survient cette même troisième nuit. 5. Cette même troisième nuit, à l'arrivée fraîche de l'aube [^4], le trésorier des bonnes œuvres, telle une belle jeune fille (kanîkŏ) [^5], sort à sa rencontre avec le trésor de ses propres bonnes œuvres ; et, collectés par les sorcières (parîkŏ-<i>k</i>ind), le péché et le crime non expiés (atôkhtŏ) sont portés au compte et sont justement comptabilisés [^6]. <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 6\. Pour le péché restant (ketrûn<i>d</i>), il subit une punition _au_ pont, et les mauvaises pensées, les mauvaises paroles et les mauvaises actions sont expiées ; et avec les bonnes pensées, les bonnes paroles et les bonnes actions de son propre esprit louable et agréable, il s'avance vers le ciel suprême (garô<i>d</i>mânô) [^7], ou vers le ciel (vahi<i>s</i>tô), ou vers l'éternelle stationnaire (hamîstânagânŏ) des justes [^8], là où il y a une place pour lui dans la justice.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

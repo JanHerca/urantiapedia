@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T13:0:36Z
   </table>
 </figure>
 
-<span id="pvii">[<sup><small>pág. vii</small></sup>]</span>
+<span id="pvii"><sup><small>[ pág. vii ]</small></sup></span>
 
 &nbsp; | PÁGINA
 --- | ---:
@@ -54,7 +54,7 @@ XII. Rashn Yast | [168](../Yasts_12#p168)
 XIII. Farvardîn Ya<i>s</i>t | [179](../Yasts_13#p179)
 XIV. Bahrâm Yast | [231](../Yasts_14#p231)
 XV. Ram Yast | [249](../Yasts_15#p249)
-XVI. Dîn Ya<i>s</i>t | [264](../Yasts_16#p264)<span id="pviii">[<sup><small>p. viii</small></sup>]</span>
+XVI. Dîn Ya<i>s</i>t | [264](../Yasts_16#p264)<span id="pviii"><sup><small>[ p. viii ]</small></sup></span>
 XVII. Ashi Yas | [270](../Yasts_17#p270)
 XVIII. Â<i>s</i>tâd Ya<i>s</i>t | [283](../Yasts_18#p283)
 XIX. Zamyâd Yast | [286](../Yasts_19#p286)
@@ -71,6 +71,8 @@ IV. Âbân Nyâyis | [356](../Nyayis_3#p356)
 V. Âta<i>s</i> Nyâyi<i>s</i> | [357](../Nyayis_4#p357)
 ÍNDICE de las traducciones de las Vendîdâd, Sîrôzahs, Ya<i>s</i>ts y Nyâyi<i>s</i> | [363](../Index#p363)
 Transliteración de los alfabetos orientales adoptados para las traducciones de los libros sagrados de Oriente | 381
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

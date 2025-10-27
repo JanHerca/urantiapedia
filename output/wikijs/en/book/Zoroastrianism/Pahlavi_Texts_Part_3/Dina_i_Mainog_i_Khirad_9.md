@@ -42,6 +42,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 8\. ‘And the mingling of the water in the earth is just like the blood in the body of man.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

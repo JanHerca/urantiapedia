@@ -54,6 +54,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 13\. About the three customs (dâ<i>d</i>ŏ) which Zaratû<i>s</i>t prescribed as the best:—The first of them is this: ‘Do not go without others, except with magisterial authority (apatkâr ra<i>d</i>îhâ);’ the second is: ‘Though they shall proceed unlawfully as to you, consider _your_ actions lawfully beforehand;’ _and_ the third is: ‘Next-of-kin marriage, for the <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> sake of the pure progress of _your_ race, is the best of the actions _of_ the living, which _are_ provided for the proper begetting of children [^24].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

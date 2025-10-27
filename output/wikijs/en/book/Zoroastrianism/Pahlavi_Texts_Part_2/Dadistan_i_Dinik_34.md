@@ -40,6 +40,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that one is for ascent, and one for descent; and on account of both being of one appearance I write thus much for understanding and full explanation, that is to say:—3. The righteous souls pass over on the <i>K</i>inva<i>d</i> bridge [^2] by spiritual flight and the power of good works; and they step forth up to the star, or to the moon, or to the sun station, or to the endless light [^3]. 4. The soul of the wicked, owing to _its_ falling _from_ the bridge, its lying demon, and the pollution collected by its sin, they shall lead therefrom to the descent into the earth, as both ways _lead_ from that bridge on the Dâîtih peak.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. But, indeed, when they do not obtain [^1] a daily livelihood from priestly duty, and the good do not give them chosen righteous gifts [^2] for it, and they do not let _them_ obtain _any_ from next of kin _or_ the wicked even by begging, a livelihood _may be_ requested from the paid performance of ceremonies, management of all religious rites (dînô), _and_ other priestly disciple's duty therein [^3]. 6. When even by that they do not obtain _it, they_ are to seek a livelihood by agriculture, sheep-rearing, penmanship, _or_ other proper employment among priests; _and_ when _it_ is not possible for them to live even by these, _they are to seek it_ by bearing arms, hunting, _or_ other proper employment in the profession of a virtuous warrior. 7. And when even it is not <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> possible for them to maintain their own bodies, which are in requisite control, by that which is cravingly digested, _they_ are to beg a righteous gift [^4] authorisedly (dastôbarîhâ) as an effectual remedy; by living idly, or not expending strength, their own bodies, which are in control, are without livelihood, but not authorisedly [^5].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -42,6 +42,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 5\. And the third night, on the fresh arrival of a dawn, its sin, in the frightful, polluted shape of a maiden (<i>k</i>arâtîk) who is an injurer, comes to meet _it_ with the store of its sin; and a stinking northerly [^2] wind comes out to meet _it_, and it comes on shudderingly, quiveringly [^3], and unwillingly running to the account. 6. And through being deceived and deceiving, heresy (a<i>v</i>ârûn-dînôîh), unrelenting and false [^4] accusation of constant companions, and the wide-_spread_ sinfulness of a fiend-like existence (drû<i>g</i>\-stihîh) it is ruined, falls from the bridge, _and_ is precipitated to hell.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

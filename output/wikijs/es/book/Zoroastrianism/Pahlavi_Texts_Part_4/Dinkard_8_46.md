@@ -41,6 +41,8 @@ dateCreated: 2025-10-10T14:41:43Z
 
 5\. Es perfecta _es_ la excelencia de la justicia; es la excelencia perfecta _eso es_ la justicia; con la copia revisada (râyînî<i>d</i>ŏ).
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

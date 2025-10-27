@@ -44,6 +44,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 9\. Les êtres sacrés établissent le compte et la comptabilité de l'âme lorsque le prêtre récite frasasti ahurahê mazd<i>a</i>u [^10] et déplace le Frasast [^11] d'un côté à l'autre. 10. L'âme traverse le pont <i>K</i>inva<i>d</i> lorsque, la quatrième nuit, elle arrive du monde au pont <i>K</i>inva<i>d</i>. 11. Elle va d'abord à la demeure du feu (âta<i>s</i>\-gâh) [^12] ; ensuite, un pas atteint la station de l'étoile, le deuxième pas atteint la station de la lune, le troisième pas atteint la station du soleil, et avec le quatrième pas elle atteint le pont <i>K</i>inva<i>d</i> [^13], _et_ ils la transportent à sa propre place.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

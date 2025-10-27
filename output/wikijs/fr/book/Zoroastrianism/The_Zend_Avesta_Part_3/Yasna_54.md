@@ -42,6 +42,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 2\. Nous sacrifions à l'Airy<i>e</i>mâ-ishyô, le puissant ; celui qui frappe victorieusement, l'adversaire de la malice agressive, la plus grande des sentences du saint ordre rituel. Et nous sacrifions aux généreux Gâthas qui règnent en maître dans le rituel, les saints (et augustes). Et nous sacrifions aux Louanges du Yasna, qui furent les productions du monde ancien [^1226].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

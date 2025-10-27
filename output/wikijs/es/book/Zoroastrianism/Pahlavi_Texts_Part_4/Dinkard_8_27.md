@@ -49,6 +49,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 17\. Perfecta es la excelencia de la justicia.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

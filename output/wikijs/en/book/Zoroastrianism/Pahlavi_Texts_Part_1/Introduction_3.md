@@ -212,6 +212,8 @@ The headings of the thirteen chapters, which form the second part, are:—Accoun
 
 The third part contains an abstract of the contents of the hundred chapters of the Sad-dar Bundahi<i>s</i>, and concludes with an account of the ceremonial formula practised when tying the kusti or sacred thread-girdle.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

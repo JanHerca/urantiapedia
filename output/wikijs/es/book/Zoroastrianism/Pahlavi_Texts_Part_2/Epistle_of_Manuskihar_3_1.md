@@ -71,6 +71,8 @@ _En_ el nombre de los seres sagrados.
 
 22\. En confianza y gratitud a los seres sagrados, _y_ homenaje al exaltado pontífice _enviado_ desde [^20] <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> el creador Aûha<i>r</i>ma<i>z</i><i>d</i>, el celestial, virtuoso y glorificado Zaratû<i>s</i>t el Spîtamân. 23. Para obtener las oraciones, una sola cosa es la rectitud del Spîtamân; grande, bueno y perfecto es Zaratû<i>s</i>t; _solo_ es el camino de la rectitud perfecta, que es el camino de aquellos de la fe primitiva; todos los demás, designados de nuevo, no son caminos [^21].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

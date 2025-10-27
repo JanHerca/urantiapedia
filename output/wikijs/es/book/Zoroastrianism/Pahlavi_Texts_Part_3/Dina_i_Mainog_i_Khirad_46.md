@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 3\. El espíritu de sabiduría respondió (4) así: «Aharman, cuando arrebata la vida, la esposa, los hijos y la felicidad mundana de todo tipo a los hombres, no considera que le inflija daño alguno; (5) pero cuando arrebata el alma de un solo individuo y lo deprava por completo, considera que «le infligiría un daño completo», porque esto lo hace mediante su propia depravación de deseo y acción [^2].»
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

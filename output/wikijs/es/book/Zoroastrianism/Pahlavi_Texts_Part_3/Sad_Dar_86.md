@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El octogésimo sexto tema es que no es apropiado matar a un castor [^1]; pero, si lo ven en cualquier lugar, es necesario recogerlo y llevarlo a un arroyo. 2. Pues, en el comentario del Vendîdâ<i>d</i>, se clasifica [^2] como un gran pecado para el asesino [^3]; y, en cuanto a quien mata a un castor, la fuente de su semilla se agota.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

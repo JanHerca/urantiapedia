@@ -38,6 +38,8 @@ dateCreated: 2025-10-6T9:44:6Z
 
 3\. The spirit of wisdom answered (4) thus: ‘Whoever has acquired wealth by crime, and he becomes glad of it thereby [^1], then that pleasure is worse for him than unhappiness.’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

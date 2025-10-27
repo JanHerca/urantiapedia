@@ -77,6 +77,8 @@ dateCreated: 2025-10-10T14:41:50Z
 
 25\. _Entonces_ Srîtô salió a esa jungla, y esa bruja en forma de perro _fue_ vista por él; después de que él golpeó a la bruja, ella se convirtió en dos; y él los golpeó constantemente hasta que se convirtieron en mil, y el ejército (ceñido) de _ellos_ mató a Srîtô en el acto.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

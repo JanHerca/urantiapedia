@@ -77,6 +77,8 @@ dateCreated: 2025-10-10T14:56:56Z
 
 23\. Et le but de ceci est d'être écrit afin que ces humbles individus [^3] sachent de cette manière que ces livres sont de ces tendances, et il a été écrit par ces dévots [^4] de telle manière que « parmi nous personne n'est capable de lire les caractères Pahlavi, et l'interprétation de ces Nasks est en Pahlavi ; quiconque ne connaît pas les caractères Pahlavi est un grand prêtre et n'est pas capable de démontrer les miracles de la religion, ni ce qui a été écrit concernant le commentaire de ces Nasks. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

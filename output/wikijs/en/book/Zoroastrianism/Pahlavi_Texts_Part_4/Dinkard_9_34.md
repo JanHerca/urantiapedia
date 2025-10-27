@@ -50,6 +50,8 @@ dateCreated: 2025-10-7T9:56:37Z
 
 <i>u</i>. Excellence is righteousness _that is_ perfect.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

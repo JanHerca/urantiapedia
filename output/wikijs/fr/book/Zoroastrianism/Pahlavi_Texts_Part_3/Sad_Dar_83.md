@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 6\. Puisque j'ai parlé _de_ cette manière, et que j'ai mis en avant le jeûne des sept membres du corps, ce qui, dans d'autres religions, est un jeûne dû au fait de ne pas manger, est, dans notre religion, un jeûne dû au fait de ne pas commettre de péché.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

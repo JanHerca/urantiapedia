@@ -39,6 +39,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 3\. L'esprit de sagesse répondit (4) ainsi : « La sagesse dans laquelle il n'y a pas de bonté ne doit pas être considérée comme sagesse ; (5) et l'habileté dans laquelle il n'y a pas de sagesse ne doit pas être considérée comme habileté. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

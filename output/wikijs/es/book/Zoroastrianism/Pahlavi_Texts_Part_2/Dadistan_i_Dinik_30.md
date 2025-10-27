@@ -42,6 +42,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 4\. Un pastel sagrado, que propicia al buen Vâê [^8], es, además, por esta razón: mientras que el mal Vâê [^9] es un despojador y destructor, así también el buen Vâê es un resistente (kûkhshî<i>d</i>âr), y de igual manera, al encontrarse con el mal Vâê; _él_ es también un disminuidor (vizû<i>d</i>âr) de su abstracción de vida, <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> y un receptor y protector de la vida, debido al pastel sagrado [^10].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

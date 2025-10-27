@@ -52,6 +52,8 @@ El profesor Darmesteter ha sugerido la siguiente corrección:
 
 P. [26](/es/book/Zoroastrianism/Pahlavi_Texts_Part_3/Dina_i_Mainog_i_Khirad_2#p26), ll. 22, 23, en lugar de «basado_ en la ley tradicional temprana (vâsarî<i>d</i> pê<i>s</i>dâdŏ)» léase «dependiente_ de Vâêgerê<i>d</i> el Pê<i>s</i>dâ<i>d</i>ian;» \[quien era el hermano gemelo de Hôshâng; véase la Cronología de las naciones antiguas de Albîrûnî de Sachau, pp. 206, 211\].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

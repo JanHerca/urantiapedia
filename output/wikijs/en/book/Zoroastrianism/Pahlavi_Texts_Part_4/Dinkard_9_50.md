@@ -62,6 +62,8 @@ i7. This, too, that by him who welcomes Aûha<i>r</i>ma<i>z</i><i>d</i> in _him_
 
 30\. Of righteousness perfect is the excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

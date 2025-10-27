@@ -65,6 +65,8 @@ dateCreated: 2025-10-10T14:56:40Z
 
 18\. Il est également déclaré que Frê<i>d</i>ûn [^14] voulait tuer A<i>z</i>\-i Dahâk [^15], _mais_ Aûharmazd parla ainsi : 'Ne le tuez pas maintenant, car la terre sera pleine de créatures nocives. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

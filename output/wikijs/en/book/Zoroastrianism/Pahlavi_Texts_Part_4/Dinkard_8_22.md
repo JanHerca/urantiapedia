@@ -52,6 +52,8 @@ _Ganabâ-sar-ni<i>g</i>a_d _Nask_.
 
 27\. About the offence which accusers would commit, as regards the law, by means of the law, _it being_ <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> not allowable to commit _it_ with their own hands; also _as regards_ any one's property, about which _there_ is a dispute, even though with a certainty as to its ownership.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

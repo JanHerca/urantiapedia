@@ -48,6 +48,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 10\. In the dawn, the mother of Zaratû<i>s</i>t went to that place, in the expectation that it _would_ be necessary to bring a skeleton out of the den, and the woolly _sheep_ came out _and_ ran away; his mother supposed that it was the wolf, and she spoke thus: ‘Thou _hast_ devoured to repletion; mayst. thou endure for ever without it!’ 11. She went farther, _and_ when she saw Zaratû<i>s</i>t quite safe, she then took him. up and spoke thus: ‘I _will_ not give _thee_ to any one during life, not though both the provinces of Râgh and Nô<i>d</i>ar _should_ arrive here together [^9].’ <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 12\. Because these _princes were_ among the spiritual from two provinces which _are_ in Âtûr-pâ<i>d</i>akân, such as _are_ at sixty leagues (parasang) from <i>K</i>îst: Zaratû<i>s</i>t arose from Râgh, and Vi<i>s</i>tâsp from Nô<i>d</i>ar. 13. And of these two provinces, Râgh was according to the name of Êrikŏ, _son_ of Dûrêsrôbô, _son_ of Mânû<i>s</i><i>k</i>îhar [^10], from whom arose the race of Zaratû<i>s</i>t: and Nô<i>d</i>ar _was_ according to the name of Nô<i>d</i>ar, _son_ of Mânû<i>s</i><i>k</i>îhar, from whom arose the race of Vi<i>s</i>tâsp.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

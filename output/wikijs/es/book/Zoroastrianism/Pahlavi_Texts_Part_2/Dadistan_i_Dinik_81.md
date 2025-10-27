@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:41:30Z
 
 16\. Y quien haya tenido intenciones mucho más loables es declarado como el más devoto y más juicioso de los adoradores; y para el ceremonial se purifica mediante la ceremonia de Bareshnûm [^16], y debe practicar otras descripciones de limpieza en cuanto a su cuerpo y vestimenta. 17. Durante la celebración del ceremonial, se come pan hecho con maíz molido por quienes profesan la buena <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> religión, vino elaborado por quienes profesan la buena religión y carne del animal [^17] sacrificado en el ceremonial. 18. Y con esa minuciosa atención, uno debe dirigir y ordenar ese ceremonial en la morada del fuego siempre creciente, u otro fuego de Varahrân [^20]; por el cual sus numerosas buenas obras son efectivas, y el camino de las buenas obras [^21] es muy amplio. 19. Respecto [^22] al sufrimiento de aquel cuya capacidad en aquello que es su eficacia preservadora [^23] es menor, se revela así que no aquel que es justo es abrumado, como si no estuviera dispuesto, por la incapacidad [^24].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

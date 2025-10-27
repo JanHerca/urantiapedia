@@ -43,6 +43,8 @@ _Var<i>s</i>tmânsar Nask_.
 
 3\. La justice est parfaite par excellence.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

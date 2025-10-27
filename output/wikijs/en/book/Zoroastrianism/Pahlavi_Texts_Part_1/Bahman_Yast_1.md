@@ -44,6 +44,8 @@ dateCreated: 2025-10-5T10:16:32Z
 
 6\. It is declared in the commentary (zand) [^10] of the Vohûman Ya<i>s</i>t, Horvada<i>d</i> Ya<i>s</i>t, and Â<i>s</i>tâ<i>d</i> Ya<i>s</i>t <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> that, during this time, the accursed Mazdîk son of Bâmdâ<i>d</i>, who is opposed to the religion, comes into notice, and is to cause disturbance among those in the religion of God (yazdân). 7. _And_ he, the glorified _one_ [^11], summoned Khûsrô son of Mâh-dâ<i>d</i> and Dâ<i>d</i>\-Aûharmazd of Nishâpûr, who were high priests of Âtarô-pâtakân, and Âtarô-frôbâg the undeceitful (akadbâ), Âtarô-pâ<i>d</i>, Âtarô-Mitrô, and Bakht-âfrî<i>d</i> to his presence, and he demanded of them a promise [^12], thus: ‘Do not keep these Ya<i>s</i>ts in concealment, _and_ do not teach the commentary except among your relations [^13].’ 8. _And_ they made the promise unto Khûsrô.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

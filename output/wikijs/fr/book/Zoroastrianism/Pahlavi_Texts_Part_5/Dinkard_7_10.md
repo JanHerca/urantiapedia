@@ -47,6 +47,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 15\. Et lorsque trente hivers du dixième siècle ne sont pas écoulés, cette jeune fille, qui est Gôbâk-abû [^7], marche vers l'eau ; elle qui est la mère de ce Sôshâns témoin qui est le guide pour conjurer l'opposition du destructeur, et sa lignée antérieure est de Vôhû-rô<i>k</i>ô-î Frahânyân [^8] dans la famille d'Îsa<i>d</i>vâstar, le fils de Zaratû<i>s</i>t _qui_ est engendré par Arang. 16. 'Cette jeune fille dont le titre est Toute-Puissante est ainsi toute-puissante, car en donnant naissance, elle enfante celui qui domine tout, à la fois l'affliction due aux démons, et aussi celle due aux humains [^9].' 17. Puis elle s'assied dans cette eau, à l'âge de quinze ans, et celle-ci introduit en elle celui « dont le nom est le Bienfaiteur triomphant, et dont le titre est le Créateur de Corps ; un bienfaiteur tel qu'il profite (savînê<i>d</i>ŏ) à toute l'existence incarnée, et un créateur de corps tel qu'il possède à la fois corps et vie, qu'il supplie au sujet du trouble des existences incarnées et de l'humanité [^10]. » 18. Jamais avant cela elle n'avait fréquenté d'hommes ; ni même après, lorsqu'elle était enceinte, elle ne l'avait fait avant le moment où elle avait accouché [^11]. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> 19\. Lorsque cet homme atteint l'âge de trente ans, le soleil reste immobile au zénith du ciel pendant trente jours et trente nuits, et il revient à l'endroit où il a été désigné par tirage au sort.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -120,6 +120,8 @@ dateCreated: 2025-10-7T9:56:46Z
 
 88\. And here, too, is manifested a great wonder also to the host (ram) of Irân who have been coming there, unto the residence of Ar<i>g</i>âsp the Khyôn, like this which revelation mentions thus: ‘Then, just at the time his legion is separately displayed, Aeshm the unredeemable (tan<i>â</i>pûharak) adheres (gêr<i>e</i><i>v</i>ê<i>d</i>ŏ) to him, as _being himself_ without escort (agurôh), and quite opposes (ba<i>r</i>â sper<i>e</i><i>z</i>ê<i>d</i>ŏ) him, because: “You, who are a Khyôn, _have_ become unlucky through want of success after you engage _in conflict_.”’ 89. Henceforth, it is not that the victory of Irân _has_ come over foreigners _and_ Khyôns-through companionship at the abode _of_ that man who is mightier by the birth _of_ Zaratû<i>s</i>t <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> of the Spîtâmas—when that hideous sovereignty _of_ Ar<i>g</i>âsp, the deadly Khyôn, is swallowed up by him (_Vi<i>s</i>tâsp_), for the confusion of the deadly species (that is, _they are_ further smitten by him, one through the other; and are swallowed together by him, mutually struggling and through mutually devouring). 90. And apart from him, that bitter and well-hardened Khyôn that is quite disabled by him the good _Vi<i>s</i>tâsp_, that deadly _fiend_ is disturbed about him of eloquent abilities (_Zaratû<i>s</i>t_); and so he grumbled at the hideous sovereignty thus: ‘Prompt ability comes into existence _and_ the Khyôn came; thereupon prompt ability comes into existence _and_ the Irânian has come [^47].’
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

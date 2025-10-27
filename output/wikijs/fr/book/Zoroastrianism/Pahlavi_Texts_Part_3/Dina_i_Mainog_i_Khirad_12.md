@@ -43,6 +43,8 @@ dateCreated: 2025-10-10T14:56:50Z
 
 11\. « Et le trésor de l'existence spirituelle est si vrai à cause de cela, parce qu'Aûha<i>r</i>ma<i>z</i><i>d</i>, le seigneur, avec tous les anges et archanges, est [^7] imperturbable, (12) et ils font la lutte contre Aharman et les démons, et aussi le compte des âmes des hommes, avec justice. 13. Et la place de _celui_ dont la bonne œuvre est la plus grande est au ciel, (14) la place de _celui_ dont la bonne œuvre et le péché sont égaux est parmi les toujours stationnaires [^8], (15) et lorsque le crime est plus grand, son chemin est alors vers l'enfer. »
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

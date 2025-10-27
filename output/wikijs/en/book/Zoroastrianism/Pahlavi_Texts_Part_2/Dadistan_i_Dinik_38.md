@@ -38,6 +38,8 @@ dateCreated: 2025-10-5T18:50:3Z
 
 2\. The reply is this, that every thought, word, and deed whose result is joy, happiness, and commendable recompense—when a happy result is obtainable, and the exuberance (afzûnŏ) of thought, word, and deed is important—is well-thought, well-said, and well-done [^2]. 3. And for him the result of whose wish for good works is conclusively joy and exaltation of soul—which are his attainment of recompense from the constantly-beneficial space [^3], the immortal _and_ unlimited, which shall never perish—there is no measure of the multitude of good works. 4. For every one by whom many are performed, and _who_ engages in still more, appropriates the result more fully, and is more worthy; _but_ it is not obtained for the completion of that which is a _definite_ measure, therefore he does not obtain still more, and it is not necessary _he should_; and it is, moreover not obtained even for the completion of a limit of unlimitedness [^4].
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

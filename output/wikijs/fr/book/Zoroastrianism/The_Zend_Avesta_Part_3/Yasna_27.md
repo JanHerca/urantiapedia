@@ -49,6 +49,8 @@ dateCreated: 2025-3-16T22:11:40Z
 15\. Nous vénérons l'Ahuna-vairya. Nous vénérons Asha Vahi<i>s</i>ta, la plus belle [^1180], l'Immortelle Généreuse [^1181].
 
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -37,6 +37,8 @@ dateCreated: 2025-10-10T14:41:36Z
 
 1\. El sexagésimo noveno tema es este: no es apropiado que la luz del sol _deba_ caer sobre un fuego, pues cada vez que la luz del sol cae sobre un fuego [^1], es un [^2] pecado. 2. Si expones un fuego al sol, es un pecado de tres <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> stîrs [^3]; y, si colocas algo sobre el fuego, es necesario que no tenga ningún agujero, para que la luz (nûr) y la fuerza del fuego _puedan_ disminuir, hasta donde sabes.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

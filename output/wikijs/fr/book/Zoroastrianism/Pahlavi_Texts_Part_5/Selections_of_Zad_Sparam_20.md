@@ -49,6 +49,8 @@ dateCreated: 2025-10-10T14:57:1Z
 
 14\. Quant _à son_ acceptation de progrès même de la part des iniques, de ceux qui écoutaient avec un désir coupable, de ceux qui acceptaient autant d'avantages qu'il était évident, il est également déclaré qu'il entra dans une assemblée de personnes bien connues dans le lieu pour leur grande connaissance, et il leur demanda ainsi : « Qu'est-ce qui est le plus favorable à l'âme ? » 15. Et ils parlèrent ainsi : « Nourrir les pauvres, donner du fourrage au bétail, apporter du bois au feu, verser le jus de Hôm dans l'eau, et [^10] adorer de nombreux démons par des paroles, par les paroles qu'on appelle révélation (dênô). » 16. Alors Zaratû<i>s</i>t nourrit les pauvres, nourrit le bétail, apporta du bois au feu et pressa le Hôm dans l'eau, mais jamais aucun démon, quel qu'il soit, n'est adoré par des paroles par Zaratû<i>s</i>t.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
