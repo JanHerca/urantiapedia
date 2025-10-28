@@ -227,8 +227,7 @@ As to the general benefit which has resulted from Zarathu<i>s</i>trianism in the
 [^30]: xli:2 See Hübschmann. KZ. bd. 24, s. 326.
 
 [^31]: xliii:1 One of the most powerful tributes ever paid to the Pahlavi translators was Haug's conversion to them. Before studying them he lost no opportunity to stigmatise their deficiencies; later, however, he followed them in many an important place, and sometimes with little reserve.
-
-As writers of the opposed extremes seem honestly convinced of the radical error of each other's views, it is obvious that association and interest have much to do with decisions. A scholar should put himself fully under the influence first of one school and then of the other. The necessity for well-balanced studies is extremely great.
+  As writers of the opposed extremes seem honestly convinced of the radical error of each other's views, it is obvious that association and interest have much to do with decisions. A scholar should put himself fully under the influence first of one school and then of the other. The necessity for well-balanced studies is extremely great.
 
 [^32]: xliii:2 It is only lately that the variation from eleven to twelve syllables in the lines of Trish<i>t</i>up has been applied to the Gâthic metres, nor has the possibility of a shifting caesura been acceded to till lately.
 

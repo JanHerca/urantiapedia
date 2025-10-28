@@ -135,8 +135,7 @@ Y. L, 1. Aye, doth my soul indeed obtain assisting <span id="p171"><sup><small>[
 [^775]: 173:7 Or, ‘yoke Thou, may’st Thou gain.’
 
 [^776]: 173:8 The <i>K</i>inva<i>t</i> Bridge, either literally or figuratively. Compare ‘the bridge of the earth’ (Y. LI, 12). The crises of effort, or temptation, are meant, as the <i>K</i>inva<i>t</i> Bridge was the last crisis before salvation or perdition. The souls of the good and of the evil were met by their own consciences on the Bridge, and encouraged or reviled.
-
-‘When the soul of the pious passes over that Bridge, the width of p. 174 that Bridge becomes about one league’ (West, Mainyô-î Khard,\* p. 134). Possibly the extension of the Bridge for the pious arose from the plural use here.
+  ‘When the soul of the pious passes over that Bridge, the width of p. 174 that Bridge becomes about one league’ (West, Mainyô-î Khard,\* p. 134). Possibly the extension of the Bridge for the pious arose from the plural use here.
 
 [^777]: 174:1 Compare Y. XXVIII, 3.
 

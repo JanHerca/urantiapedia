@@ -76,36 +76,36 @@ MÃTHRA.
 
 ## Notes de bas de page
 
-[^1282]: 306:1 Ce texte en dialecte gâtique revendique une antiquité aussi ancienne que Y. XII. Il rappelle les Gâthas à bien des égards. L'éleveur de bétail est identique au laboureur économe et constitue le saint typique.
+[^1272]: 306:1 Ce texte en dialecte gâtique revendique une antiquité aussi ancienne que Y. XII. Il rappelle les Gâthas de plusieurs manières. L'éleveur de bétail est identique au laboureur économe et est le saint typique. 
 
-[^1283]: 306:2 Le Pahlavi a sû<i>d</i> une transcription partielle ; mais le mot est obscur.
+[^1273]: 306:2 Le Pahlavi a sû<i>d</i> une transcription partielle ; mais le mot est obscur. 
 
-[^1284]: 306:3 Voir nipâtû.
+[^1274]: 306:3 Voir nipâtû. 
 
-[^1285]: 306:4 Nem<i>e</i> avec K11.
+[^1275]: 306:4 Nem<i>e</i> avec K11. 
 
-[^1286]: 306:5 Hâ + ge<i>t</i>; comp. indien sa + gha<i>t</i>; ou peut-être de ha<i>k</i>.
+[^1276]: 306:5 Hâ + ge<i>t</i>; comp. indien sa + gha<i>t</i>; ou peut-être de ha<i>k</i>. 
 
-[^1287]: 306:6 'Faire mention de.'
+[^1277]: 306:6 'Faire mention de.' 
 
-[^1288]: 307:1 Khshmâvatô est souvent le mot gâtique pour « Vous ».
+[^1278]: 307:1 Khshmâvatô est souvent le mot gâthique pour 'Vous'. [ 
 
-[^1289]: 307:2 Pâzand, car fshûsh<i>e</i> est un pluriel, et non gâtique. Ou : « nous faisons des hommes des propriétaires de bétail (nous les invitons à le devenir). »
+^1279]: 307:2 Pâzand, car fshûsh<i>e</i> est un pluriel, et non gâthique. Ou, 'nous faisons des hommes des propriétaires de bétail (nous les invitons à l'être).' 
 
-[^1290]: 307:3 La création est mentionnée en rapport avec les vaches. Le saint typique se tient à la tête de la création pure.
+[^1280]: 307:3 La création est mentionnée en relation avec le Kine. Le saint typique se tient à la tête de la création pure. 
 
-[^1291]: 307:4 À qui ?
+[^1281]: 307:4 À qui ? 
 
-[^1292]: 307:5 Voir ci-dessous.
+[^1282]: 307:5 Voir ci-dessous. 
 
-[^1293]: 307 : 6 Racine vi + dâ (dhishâ) ; donc aussi le Pahl. 'barâ dahi<i>s</i>nîh.'
+[^1283]: 307:6 Racine vi + dâ (dhishâ) ; ainsi que le Pahl. 'barâ dahi<i>s</i>nîh.' 
 
-[^1294]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. Le mot est difficile.
+[^1284]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. Le mot est difficile. 
 
-[^1295]: 308:1 Ou, « les saints hommes et femmes (les Amesha). »
+[^1285]: 308:1 Ou, 'les saints mâles et femelles, (les Amesha).' 
 
-[^1296]: 308:2 Y. XXXIV, 7.
+[^1286]: 308:2 Y. XXXIV, 7. 
 
-[^1297]: 308:3 Lit. 'puissions-nous être observés de près par les lumières créatrices', etc.
+[^1287]: 308:3 Littéralement 'puissions-nous être vus de près par les lumières créatrices', etc. 
 
-[^1298]: 308:4 Allusion au maz<i>e</i>\-y<i>a</i>unghô.
+[^1288]: 308:4 Allusion au maz<i>e</i>\-y<i>a</i>unghô.

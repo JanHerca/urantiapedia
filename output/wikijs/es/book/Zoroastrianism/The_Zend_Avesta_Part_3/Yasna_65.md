@@ -79,34 +79,34 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1336]: 317:1 El Pahlavi tiene <i>g</i>ân, o gûy, en cuyo último caso sería mejor el significado de 'manantiales'.
+[^1325]: 317:1 El Pahlavi tiene <i>g</i>ân, o gûy, en cuyo último caso sería mejor el significado de 'manantiales'. 
 
-[^1337]: 317:2 O, 'famoso desde lejos'.
+[^1326]: 317:2 O, 'famoso desde lejos'. 
 
-[^1338]: 317:3 Lit. 'lados'.
+[^1327]: 317:3 Lit. 'lados'. 
 
-[^1339]: 317:4 Véase Âbân Ya<i>s</i>t de Darmesteter, IV.
+[^1328]: 317:4 Véase Âbân Ya<i>s</i>t, IV, de Darmesteter. 
 
-[^1340]: 318:1 O, 'arrastrado en vapores para el suministro de las aguas por la lluvia'.
+[^1329]: 318:1 O, 'atraído en vapores para el suministro de las aguas por la lluvia'. 
 
-[^1341]: 318:2 Así la indicación de los Pahlavi.
+[^1330]: 318:2 Así la indicación del Pahlavi. 
 
-[^1342]: 318:3 î-dî.
+[^1331]: 318:3 î-dî. 
 
-[^1343]: 318:4 O, 'regocijaos'.
+[^1332]: 318:4 O, 'regocijaos'. 
 
-[^1344]: 318:5 Respuesta.
+[^1333]: 318:5 Respuesta. 
 
-[^1345]: 319:1 Poderoso.
+[^1334]: 319:1 Poderoso. 
 
-[^1346]: 319:2 Algunos de los nombres están en femenino.
+[^1335]: 319:2 Algunos de los nombres están en femenino. 
 
-[^1347]: 319:3 Aquí repite como arriba, desde «Oh plantas» hasta «dadores de lo mejor y lo santo».
+[^1336]: 319:3 Aquí repita como arriba desde 'Oh vosotras, plantas' hasta 'dadoras de lo mejor y lo santo'. 
 
-[^1348]: 320:1 Véase más abajo.
+[^1337]: 320:1 Véase más abajo. 
 
-[^1349]: 320:2 Véase Y. L, 11.
+[^1338]: 320:2 Ver Y. L, 11. 
 
-[^1350]: 320:3 Véase Y. LI, 7.
+[^1339]: 320:3 Ver Y. LI, 7. 
 
-[^1351]: 320:4 Siguen Ahuna y Ashem Vohû.
+[^1340]: 320:4 Le siguen Ahuna y Ashem Vohû.

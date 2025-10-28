@@ -66,12 +66,11 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1151]: 268:2 The expressions in this prayer were suggested by Y. LI, 22; but the Zand does not consistently follow the thoughts in the Gâtha. T<i>e</i>m understood should be supplied as an object for yazamaidê in connection with yêNhê, as well as t<i>a</i>us<i>k</i>â for y<i>a</i>unghãm. In Y. LI, 22, it is, however, by no means certain that yazâi applies to a t<i>e</i>m yêhyâ. Holding the twenty-first verse in mind, I am obliged to refer yêhyâ to nâ spe<i>n</i>tô. Here, however, men and women are worshipped, as it is improbable that the ‘Immortals’ whose names are in the feminine are meant. The prayer is in the Gâthic dialect, and ancient metre would hardly contain so artificial a formation. It can only be defended from the t<i>e</i><i>n</i>g yazâi <i>h</i><i>v</i>âi<i>s</i> nâm<i>e</i>nî<i>s</i> of Y. LI, 22.
+[^1142]: 268:2 The expressions in this prayer were suggested by Y. LI, 22; but the Zand does not consistently follow the thoughts in the Gâtha. T<i>e</i>m understood should be supplied as an object for yazamaidê in connection with yêNhê, as well as t<i>a</i>us<i>k</i>â for y<i>a</i>unghãm. In Y. LI, 22, it is, however, by no means certain that yazâi applies to a t<i>e</i>m yêhyâ. Holding the twenty-first verse in mind, I am obliged to refer yêhyâ to nâ spe<i>n</i>tô. Here, however, men and women are worshipped, as it is improbable that the ‘Immortals’ whose names are in the feminine are meant. The prayer is in the Gâthic dialect, and ancient metre would hardly contain so artificial a formation. It can only be defended from the t<i>e</i><i>n</i>g yazâi <i>h</i><i>v</i>âi<i>s</i> nâm<i>e</i>nî<i>s</i> of Y. LI, 22.
+  Or did the composer of the prayer correctly render Y. LI, 22, and boldly write his succinct words as being clear to his hearers from explanations which are now lost? Such explanations (oral or written) as a matter of course existed from the first. No composer fails to discuss his productions.
 
-Or did the composer of the prayer correctly render Y. LI, 22, and boldly write his succinct words as being clear to his hearers from explanations which are now lost? Such explanations (oral or written) as a matter of course existed from the first. No composer fails to discuss his productions.
+[^1143]: 269:1 Referring yêNhê to Ahura (?).
 
-[^1152]: 269:1 Referring yêNhê to Ahura (?).
+[^1144]: 269:2 Fit to live, clean.
 
-[^1153]: 269:2 Fit to live, clean.
-
-[^1154]: 269:3 The Ameshôspends whose names are in the feminine; so the Zandist erroneously.
+[^1145]: 269:3 The Ameshôspends whose names are in the feminine; so the Zandist erroneously.

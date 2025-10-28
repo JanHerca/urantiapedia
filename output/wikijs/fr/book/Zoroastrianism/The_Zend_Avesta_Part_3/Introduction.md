@@ -225,8 +225,7 @@ Quant aux bienfaits généraux du zarathustrianisme dans le passé, quelques ré
 [^30]: xli:2 Voir Hübschmann. KZ. bd. 24, art. 326.
 
 [^31]: xliii:1 L'un des hommages les plus puissants jamais rendus aux traducteurs pahlavi fut la conversion de Haug à eux. Avant de les étudier, il ne perdit aucune occasion de stigmatiser leurs déficiences ; plus tard, cependant, il les suivit dans de nombreux endroits importants, et parfois avec peu de réserve.
-
-Comme les auteurs des deux extrêmes semblent sincèrement convaincus de l'erreur radicale des points de vue de chacun, il est évident que l'association et l'intérêt ont beaucoup à voir avec les décisions. Un chercheur devrait se soumettre pleinement à l'influence d'une école, puis de l'autre. La nécessité d'études équilibrées est extrêmement grande.
+  Comme les auteurs des deux extrêmes semblent sincèrement convaincus de l'erreur radicale des points de vue de chacun, il est évident que l'association et l'intérêt ont beaucoup à voir avec les décisions. Un chercheur devrait se soumettre pleinement à l'influence d'une école, puis de l'autre. La nécessité d'études équilibrées est extrêmement grande.
 
 [^32]: xliii:2 Ce n'est que récemment que la variation de onze à douze syllabes dans les vers de Trish<i>t</i>up a été appliquée aux mètres gâtiques, et la possibilité d'une césure changeante n'a été admise que récemment.
 

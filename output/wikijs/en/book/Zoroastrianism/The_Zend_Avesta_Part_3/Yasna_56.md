@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1\. Let Sraosha (the listening Obedience) be present here for the worship of Ahura Mazda, the most beneficent, and holy, of him) who is desired by us as at the first, so at the last; and so again may attentive Obedience be present here for the worship of Ahura Mazda, the most beneficent and the holy who (is so) desired by us.
 
-2\. (Yea), let Sraosha (the attentive Obedience) be present here for the worship of the good waters, and for the Fravashis of the saints which are so desired by us, \[^1233]) souls\], as at the first, so at the last.
+2\. (Yea), let Sraosha (the attentive Obedience) be present here for the worship of the good waters, and for the Fravashis of the saints which are so desired by us, [^1233]) souls\], as at the first, so at the last.
 
 And thus again may Sraosha (the listening Obedience) be present here for the worship of the good waters, and for the Fravashis of the saints, which are so desired by us, \[(and) for (their) souls\].
 
@@ -74,12 +74,12 @@ And thus again may Sraosha (the listening Obedience) be present here for the wor
 
 ## Footnotes
 
-[^1243]: 296:1 One might be inclined to render ‘who are so desired by us for our souls.’ But I think that the words are Pâzand to the preceding.
+[^1233]: 296:1 One might be inclined to render ‘who are so desired by us for our souls.’ But I think that the words are Pâzand to the preceding.
 
-[^1244]: 296:2 Or, ‘endowed with recompense.’
+[^1234]: 296:2 Or, ‘endowed with recompense.’
 
-[^1245]: 297:1 Of the female (feminine) names.
+[^1235]: 297:1 Of the female (feminine) names.
 
-[^1246]: 297:2 Or, ‘give to us.’ The Ahuna and Ashem Vohû follow here.
+[^1236]: 297:2 Or, ‘give to us.’ The Ahuna and Ashem Vohû follow here.
 
-[^1247]: 297:3 The YêNhê hâtãm, &c. follows.
+[^1237]: 297:3 The YêNhê hâtãm, &c. follows.

@@ -64,4 +64,4 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1335]: 316:4 Ce chapitre est composé de courts passages d'autres parties du Yasna rassemblés peut-être dans le but de compléter le nombre de sections jusqu'à un chiffre désormais inconnu.
+[^1324]: 316:4 Ce chapitre est composé de courts passages d'autres parties du Yasna rassemblés peut-être dans le but de compléter le nombre de sections jusqu'à un chiffre désormais inconnu.

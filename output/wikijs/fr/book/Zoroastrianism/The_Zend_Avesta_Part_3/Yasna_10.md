@@ -116,42 +116,42 @@ Je suis voué à l'obéissance, et non à la désobéissance sourde ; j'appartie
 
 ## Notes de bas de page
 
-[^1000]: 240:1 Le Pahlavi tel que corrigé par le manuscrit de Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i a barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i>><i>k</i>ât asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati.
+[^994] : 240:1 Le Pahlavi tel que corrigé par le MS. de Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i has barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i><i>k</i>ât asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati. 
 
-[^1001]: 240:2 Ou, 'où, ô Haoma ! tu as grandi', en lisant - i<i>s</i>a avec Barth. comme 2e sing. perf. prét. milieu.
+[^995]: 240:2 Ou, 'où, ô Haoma! tu as grandi', se lisant — i<i>s</i>a avec Barth. comme 2e sing. perf. prét. milieu. 
 
-[^1002]: 240:3 Ou, « sur les sentiers des oiseaux ».
+[^996]: 240:3 Ou, 'sur les sentiers des oiseaux'. 
 
-[^1003]: 241:1 Ayant un effet immédiat et donnant la sagesse.
+[^997]: 241:1 Ayant un effet immédiat et donnant la sagesse. [ 
 
-[^1004]: 241:2 Comp. Y. XLIV, 5.
+^998]: 241:2 Comp. Y. XLIV, 5. 
 
-[^1005]: 242:1 Peut-être « les oiseaux enseignés par le généreux » ; les « oiseaux enseignés par Dieu ».
+[^999]: 242:1 Peut-être 'les oiseaux instruits par le bienveillant' ; les 'oiseaux instruits par Dieu'. 
 
-[^1006]: 242:2 Ailleurs et ici aussi peut-être un nom propre.
+[^1000]: 242:2 Ailleurs et ici aussi peut-être un nom propre. 
 
-[^1007]: 242:3 Ou les « chemins des oiseaux » ; ainsi Haug, suivant Spiegel et Justi. Gu<i>g</i>rati, comme ci-dessus.
+[^1001]: 242:3 Ou les 'sentiers des oiseaux' ; ainsi Haug, suivant Spiegel et Justi. Gu<i>g</i>rati, comme ci-dessus. 
 
-[^1008]: 242:4 Qui est considéré comme mien bien développé.
+[^1002]: 242:4 Qui est considéré comme le mien bien développé. 
 
-[^1009]: 242:5 <i>G</i>aini semble toujours utilisé dans un sens maléfique dans l'Avesta ultérieur.
+[^1003]: 242:5 <i>G</i>aini semble toujours utilisé dans un sens mauvais dans l'Avesta ultérieur. 
 
-[^1010]: 243:1 Je corrigerais en une forme de khratu.
+[^1004]: 243:1 Je corrigerais par une forme de khratu. 
 
-[^1011]: 243:2 Comparez l'évitement du service mentionné par le traducteur Pahlavi dans Y. LIII, 5.
+[^1005]: 243:2 Comparez le fait d'éviter le service mentionné par le traducteur Pahlavi dans Y. LIII, 5. 
 
-[^1012]: 243:3 Ou, plus sûrement, « plusieurs fils ».
+[^1006]: 243:3 Ou, plus sûrement, 'plusieurs fils'. 
 
-[^1013]: 243:4 Haoma parle.
+[^1007]: 243:4 Haoma parle. 
 
-[^1014]: 243:5 Ici, le prêtre manipule évidemment les coupes contenant le jus Haoma.
+[^1008]: 243:5 Ici, le prêtre manipule évidemment les coupes contenant le jus de Haoma. 
 
-[^1015]: 243:6 L'application de ce terme ici semble indiquer une haute antiquité pour le Haoma Ya<i>s</i>t ; si ce n'est dans le présent morceau, qui n'est pas aussi ancien que les Gâthas, alors dans les hymnes antérieurs à Haoma dont ce Ya<i>s</i>t est une amélioration, ou une extension.
+[^1009]: 243:6 L'application de ce terme ici semble indiquer une haute antiquité pour le Haoma Ya<i>s</i>t ; sinon dans le présent morceau, qui n'est pas aussi ancien que les Gâthas, du moins dans les hymnes antérieurs à Haoma dont ce Ya<i>s</i>t est une amélioration, ou une extension. 
 
-[^1016]: 244:1 Ner. peut-être au sens figuré yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>.
+[^1010]: 244:1 Ner. peut-être au sens figuré yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>. 
 
-[^1017]: 244:2 Ner. puissance<i>m</i>.
+[^1011]: 244:2 Ner. saundarya<i>m</i>. 
 
-[^1018]: 244:3 Voir Y. XLVIII, 5.
+[^1012]: 244:3 Voir Y. XLVIII, 5. 
 
-[^1019]: 244:4 Le YêNhê hâtãm suit.
+[^1013]:244:4 Le YêNhê hâtãm suit.

@@ -78,10 +78,10 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1176]: 278:1 Dahyumas.
+[^1167]: 278:1 Dahyumas.
 
-[^1177]: 278:2 'De la religión primitiva.'
+[^1168]: 278:2 'De la religión primitiva.'
 
-[^1178]: 279:1 Es difícil determinar si existía una verdadera distinción en la mente de estos primeros escritores entre un Fravashi y un alma difunta. Que un Fravashi fuera venerado como existente antes del nacimiento de la persona a la que pertenecía podría deberse a una anticipación poética, y no dogmática.
+[^1169]: 279:1 Es difícil determinar si existía una verdadera distinción en la mente de estos primeros escritores entre un Fravashi y un alma difunta. Que un Fravashi fuera venerado como existente antes del nacimiento de la persona a la que pertenecía podría deberse a una anticipación poética, y no dogmática.
 
-[^1179]: 279:2 Desde el Adán iraní hasta el Cristo de la resurrección; véase Ya<i>s</i>t XIX, 89, 91.
+[^1170]: 279:2 Desde el Adán iraní hasta el Cristo de la resurrección; véase Ya<i>s</i>t XIX, 89, 91.

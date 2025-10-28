@@ -66,4 +66,4 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1335]: 316:4 This chapter is composed of short passages from other portions of the Yasna collected together possibly for the purpose of filling out the number of sections to some figure no longer known.
+[^1324]: 316:4 This chapter is composed of short passages from other portions of the Yasna collected together possibly for the purpose of filling out the number of sections to some figure no longer known.

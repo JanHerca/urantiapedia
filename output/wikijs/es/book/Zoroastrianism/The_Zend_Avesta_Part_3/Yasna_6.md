@@ -110,4 +110,4 @@ El Zaotar. ¡Que el Ratu, desde su rectitud, santo y erudito, hable!
 
 ## Notas al pie
 
-[^951]: 219:1 Este capítulo difiere de Y. II solo en que tiene yazamaidê en lugar de la fórmula ahmya zaothrê baresmanaê<i>k</i>a—âyêsê yê<i>s</i>ti. Las expresiones para las mismas palabras zend se varían a propósito.
+[^945]: 219:1 Este capítulo difiere de Y. II solo en que tiene yazamaidê en lugar de la fórmula ahmya zaothrê baresmanaê<i>k</i>a—âyêsê yê<i>s</i>ti. Las expresiones para las mismas palabras zend se varían a propósito.

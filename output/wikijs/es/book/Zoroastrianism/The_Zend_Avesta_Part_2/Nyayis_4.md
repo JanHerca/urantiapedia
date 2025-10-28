@@ -93,20 +93,20 @@ Sacrificamos a la sagrada Ardvi Sûra Anâhita con libaciones. Sacrificamos a Ar
 
 ## Notas al pie
 
-[^1600]: 356:1 Como Âbân Yast, 0.
+[^1529]: 356:1 Como Âbân Yast, 0.
 
-[^1601]: 356:2 §§ 2-6 = Âbân Yast, §§ 1-5.
+[^1530]: 356:2 §§ 2-6 = Âbân Yast, §§ 1-5.
 
-[^1602]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
+[^1531]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
 
-[^1603]: 356:4 Véase arriba, [p. 152](../Yasts_10#p152), nota [1](../Yasts_10#fn698).
+[^1532]: 356:4 Véase arriba, [p. 152](../Yasts_10#p152), nota [1](../Yasts_10#fn698).
 
-[^1604]: 357:1 La oración Yathâ ahû vairyô.
+[^1533]: 357:1 La oración Yathâ ahû vairyô.
 
-[^1605]: 357:2 La oración de Ashem Vohû.
+[^1534]: 357:2 La oración de Ashem Vohû.
 
-[^1606]: 357:3 Cf. Yt. XXII, 2, y Yt. XXIV, 39.
+[^1535]: 357:3 Cf. Yt. XXII, 2, y Yt. XXIV, 39.
 
-[^1607]: 357:4 Cf. Âbân Ya<i>s</i>t, §§ 19, 23, 27, 35, 39, 47, etc.
+[^1536]: 357:4 Cf. Âbân Ya<i>s</i>t, §§ 19, 23, 27, 35, 39, 47, etc.
 
-[^1608]: 357:5 Cf. Âbân Ya<i>s</i>t, § 9.
+[^1537]: 357:5 Cf. Âbân Ya<i>s</i>t, § 9.

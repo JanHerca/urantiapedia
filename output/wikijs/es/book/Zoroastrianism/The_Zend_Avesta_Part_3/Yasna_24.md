@@ -76,12 +76,12 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1166]: 274:1 O la recitación memorizada y la realización de sus ritos.
+[^1157]: 274:1 O la recitación memorizada y la realización de sus ritos.
 
-[^1167]: 275:1 En otro lugar quizás, erróneamente, como nombre propio: o leer angheu<i>s</i>.
+[^1158]: 275:1 En otro lugar quizás, erróneamente, como nombre propio: o leer angheu<i>s</i>.
 
-[^1168]: 275:2 Pahlavi frashakar<i>d</i> kar<i>d</i>ârân.
+[^1159]: 275:2 Pahlavi frashakar<i>d</i> kar<i>d</i>ârân.
 
-[^1169]: 275:3 'Y el recital escuchado de los Gâthas.'
+[^1160]: 275:3 'Y el recital escuchado de los Gâthas.'
 
-[^1170]: 276:1 Véase Y. IV, 4-25, que se repite aquí. Se reducen las expresiones.
+[^1161]: 276:1 Véase Y. IV, 4-25, que se repite aquí. Se reducen las expresiones.

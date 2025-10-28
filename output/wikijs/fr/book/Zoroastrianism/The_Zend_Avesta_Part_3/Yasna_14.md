@@ -74,12 +74,12 @@ Le Zaotar : Alors que le Ratu, de par sa justice, saint et savant, parle !
 
 ## Notes de bas de page
 
-[^1070]: 253:2a Ailleurs avec différence verbale.
+[^1062]: 253:2a Ailleurs avec différence verbale.
 
-[^1071]: 253:3 Voir Y. XXXIII, 14.
+[^1063]: 253:3 Voir Y. XXXIII, 14.
 
-[^1072]: 253:4 Les versets 1 et 2 sont gâtiques.
+[^1064]: 253:4 Les versets 1 et 2 sont gâtiques.
 
-[^1073]: 254:1 Voir Y. II, 18.
+[^1065]: 254:1 Voir Y. II, 18.
 
-[^1074]: 254 : 2 Voir Y. III, 24, 25.
+[^1066]: 254 : 2 Voir Y. III, 24, 25.

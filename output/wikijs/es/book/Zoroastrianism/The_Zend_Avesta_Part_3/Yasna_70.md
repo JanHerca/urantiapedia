@@ -72,20 +72,20 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1367]: 325:1 Lectura de tashv<i>a</i>unghem(?) (comp. dadhv<i>a</i>unghem), según la indicación del Pahlavi.
+[^1356]: 325:1 Lectura de tashv<i>a</i>unghem(?) (comp. dadhv<i>a</i>unghem), según la indicación del Pahlavi. 
 
-[^1368]: 325:2 Tashan con cambio de acento. Así lo indica el Pahlavi.
+[^1357]: 325:2 Tashan con cambio de acento. Así lo indica el Pahlavi. 
 
-[^1369]: 326:1 Lea la glosa del Pahlavi en Visp. IX, 3, anêranîhâ.
+[^1358]: 326:1 Lea la glosa al Pahlavi en Visp. IX, 3, anêranîhâ. 
 
-[^1370]: 326:2 O, bare<i>n</i>tû, 'déjalos levantar'.
+[^1359]: 326:2 O, bare<i>n</i>tû, 'que levanten'. 
 
-[^1371]: 326:3 Y. XXXI, 12.
+[^1360]: 326:3 Y. XXXI, 12. 
 
-[^1372]: 326:4 Véase Y. XXXI, 22.
+[^1361]: 326:4 Véase Y. XXXI, 22. 
 
-[^1373]: 326:5 Y. XLIV, 1.
+[^1362]: 326:5 Y. XLIV, 1. 
 
-[^1374]: 326:6 Y. XLIV, 8.
+[^1363]: 326:6 Y. XLIV, 8. 
 
-[^1375]: 326:7 El Yennhê hatãm.
+[^1364]: 326:7 El YêNhê hâtãm.

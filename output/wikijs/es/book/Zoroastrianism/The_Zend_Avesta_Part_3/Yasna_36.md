@@ -68,10 +68,10 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1197]: 284:2 O, «al servicio del Fuego»; así lo afirman los Pahlavi: considérese también la presencia de formas de var(e)z en el otro sentido, en la proximidad. No existían templos del Fuego; sin embargo, debieron proporcionar algún refugio. También el doble pouruyê(-ve) puede referirse a Ahura y al Fuego. Comp. Y. XXX, 3. ¿O es «al principio»?
+[^1187]: 284:2 O, «al servicio del Fuego»; así lo afirman los Pahlavi: considérese también la presencia de formas de var(e)z en el otro sentido, en la proximidad. No existían templos del Fuego; sin embargo, debieron proporcionar algún refugio. También el doble pouruyê(-ve) puede referirse a Ahura y al Fuego. Comp. Y. XXX, 3. ¿O es «al principio»?
 
-[^1198]: 284:3 Posiblemente, 'pero el más favorecido es aquel a quien (y<i>e</i>m).'
+[^1188]: 284:3 Posiblemente, 'pero el más favorecido es aquel a quien (y<i>e</i>m).'
 
-[^1199]: 285:1 Vôi parece como si representara vâí aquí.
+[^1189]: 285:1 Vôi parece como si representara vâí aquí.
 
-[^1200]: 285:2 Véase Y. I, 1.
+[^1190]: 285:2 Véase Y. I, 1.

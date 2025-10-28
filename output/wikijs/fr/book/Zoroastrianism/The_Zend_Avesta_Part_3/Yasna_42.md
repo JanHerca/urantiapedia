@@ -70,12 +70,12 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1222]: 290:5 D'origine pas très postérieure.
+[^1212]: 290:5 D'origine pas très postérieure.
 
-[^1223]: 291:1 Voir cependant Bundahi<i>s</i> (Ouest), p. 66.
+[^1213]: 291:1 Voir cependant Bundahi<i>s</i> (Ouest), p. 66.
 
-[^1224]: 291:2 Voir Bundahi<i>s</i>, chap. XIX, également Darmesteter, Ormuzd et Ahriman (pp. 148-150).
+[^1214]: 291:2 Voir Bundahi<i>s</i>, chap. XIX, également Darmesteter, Ormuzd et Ahriman (pp. 148-150).
 
-[^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> indique une migration du zoroastrisme, venant de l'Ouest (?).
+[^1215]: 291:3 Yôi yêyã dûrâ<i>t</i> indique une migration du zoroastrisme, venant de l'Ouest (?).
 
-[^1226]: 291:4 Pour Yasna XLIII-LI, voir ci-dessus, pp. [98](../Histoire_43#p98)\-[187](../Histoire_51#p187).
+[^1216]: 291:4 Pour Yasna XLIII-LI, voir ci-dessus, pp. [98](../Histoire_43#p98)\-[187](../Histoire_51#p187).

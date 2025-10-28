@@ -78,34 +78,34 @@ L'invocateur ne doit-il pas faire offrande à ces bonnes eaux, et avec les parol
 
 ## Notes de bas de page
 
-[^1336]: 317:1 Le Pahlavi a <i>g</i>ân, ou gûy, dans ce dernier cas le sens de « sources » serait meilleur.
+[^1325]: 317:1 Le Pahlavi a <i>g</i>ân, ou gûy, dans ce dernier cas le sens de « sources » serait meilleur.
 
-[^1337]: 317:2 Ou, « célèbre de loin ».
+[^1326]: 317:2 Ou, « célèbre de loin ».
 
-[^1338]: 317:3 Lit. 'côtés'.
+[^1327]: 317:3 Littéralement « côtés ».
 
-[^1339]: 317:4 Voir Âbân Ya<i>s</i>t de Darmesteter, IV.
+[^1328]: 317:4 Voir Âbân Ya<i>s</i>t de Darmesteter, IV.
 
-[^1340]: 318:1 Ou, « attiré en vapeurs pour l'alimentation des eaux par la pluie ».
+[^1329]: 318:1 Ou, « attiré en vapeurs pour l'alimentation des eaux par la pluie ».
 
-[^1341]: 318:2 Ainsi l'indication des Pahlavi.
+[^1330]: 318:2 Ainsi l'indication des Pahlavi.
 
-[^1342]: 318:3 î-dî.
+[^1331]: 318:3 î-dî.
 
-[^1343]: 318:4 Ou, « réjouissez-vous ».
+[^1332]: 318:4 Ou, « réjouissez-vous ».
 
-[^1344]: 318:5 Réponse.
+[^1333]: 318:5 Réponse.
 
-[^1345]: 319:1 Puissant.
+[^1334]: 319:1 Puissant.
 
-[^1346]: 319:2 Certains noms sont au féminin.
+[^1335]: 319:2 Certains noms sont au féminin.
 
-[^1347]: 319:3 Répétez ici comme ci-dessus à partir de « Ô vous les plantes » jusqu'à « donneurs de la meilleure chose et de la sainteté ».
+[^1336]: 319:3 Répétez ici comme ci-dessus à partir de « Ô vous les plantes » jusqu'à « donneurs de la meilleure chose et de la sainte ».
 
-[^1348]: 320:1 Voir ci-dessous.
+[^1337]: 320:1 Voir ci-dessous.
 
-[^1349]: 320:2 Voir Y. L, 11.
+[^1338]: 320:2 Voir Y. L, 11.
 
-[^1350]: 320:3 Voir Y. LI, 7.
+[^1339]: 320:3 Voir Y. LI, 7.
 
-[^1351]: 320:4 Les Ahuna et les Ashem Vohû suivent.
+[^1340]: 320:4 Les Ahuna et les Ashem Vohû suivent.

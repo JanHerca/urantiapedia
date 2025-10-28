@@ -88,10 +88,10 @@ Ofrezco el Myazda (de la) ofrenda de carne con una ofrenda completa y sagrada; y
 
 ## Notas al pie
 
-[^953]: 229:1 O 'excluidos', lo cual parecería mejor adaptado.
+[^947]: 229:1 O 'excluidos', lo cual parecería mejor adaptado.
 
-[^954]: 229:2 Esta pieza es una reproducción, o imitación exacta, de un fragmento anterior. Parece una exhortación pronunciada cuando la fe aún era nueva.
+[^948]: 229:2 Esta pieza es una reproducción, o imitación exacta, de un fragmento anterior. Parece una exhortación pronunciada cuando la fe aún era nueva.
 
-[^955]: 230:1 El traductor pahlavi, según creo, tenía ante sí un texto que decía du<i>z</i><i>h</i><i>v</i>âthrem; así lo corrijo. Frente a la acertada e interesantísima sugerencia de du<i>z</i> + âthrem, me veo obligado a señalar a<i>h</i><i>v</i>âthrê, que muestra un compuesto a + <i>h</i><i>v</i>âthra, lo cual no parece probable si = a + hu + âthra. Se habría escrito du<i>z</i>âthra, no a<i>h</i><i>v</i>âthrê. Cp. <i>h</i><i>v</i>eng = <i>h</i><i>v</i>an para raíz.
+[^949]: 230:1 El traductor pahlavi, según creo, tenía ante sí un texto que decía du<i>z</i><i>h</i><i>v</i>âthrem; así lo corrijo. Frente a la acertada e interesantísima sugerencia de du<i>z</i> + âthrem, me veo obligado a señalar a<i>h</i><i>v</i>âthrê, que muestra un compuesto a + <i>h</i><i>v</i>âthra, lo cual no parece probable si = a + hu + âthra. Se habría escrito du<i>z</i>âthra, no a<i>h</i><i>v</i>âthrê. Cp. <i>h</i><i>v</i>eng = <i>h</i><i>v</i>an para raíz.
 
-[^956]: 230:2 Posiblemente 'casa'.
+[^950]: 230:2 Posiblemente 'casa'.

@@ -110,4 +110,4 @@ Le Zaotar. Que le Ratu, dans sa justice, saint et savant, s'exprime !
 
 ## Notes de bas de page
 
-[^951]: 219:1 Ce chapitre diffère du Y. II uniquement par l'utilisation de yazamaidê au lieu de la formule ahmya zaothrê baresmanaê<i>k</i>a—âyêsê yê<i>s</i>ti. Les expressions pour les mêmes mots Zend sont volontairement variées.
+[^945]: 219:1 Ce chapitre diffère du Y. II uniquement par l'utilisation de yazamaidê au lieu de la formule ahmya zaothrê baresmanaê<i>k</i>a—âyêsê yê<i>s</i>ti. Les expressions pour les mêmes mots Zend sont volontairement variées.

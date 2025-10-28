@@ -80,34 +80,34 @@ Shall not the invoker make offering to these good waters, and with the inculcate
 
 ## Footnotes
 
-[^1336]: 317:1 The Pahlavi has <i>g</i>ân, or gûy, in which latter care the meaning ‘springs’ would be better.
+[^1325]: 317:1 The Pahlavi has <i>g</i>ân, or gûy, in which latter care the meaning ‘springs’ would be better.
 
-[^1337]: 317:2 Or, ‘famed from afar.’
+[^1326]: 317:2 Or, ‘famed from afar.’
 
-[^1338]: 317:3 Lit. ‘sides.’
+[^1327]: 317:3 Lit. ‘sides.’
 
-[^1339]: 317:4 See Darmesteter's Âbân Ya<i>s</i>t, I-V.
+[^1328]: 317:4 See Darmesteter's Âbân Ya<i>s</i>t, I-V.
 
-[^1340]: 318:1 Or, ‘drawn up in vapours for the supply of the waters by the rain.’
+[^1329]: 318:1 Or, ‘drawn up in vapours for the supply of the waters by the rain.’
 
-[^1341]: 318:2 So the indication of the Pahlavi.
+[^1330]: 318:2 So the indication of the Pahlavi.
 
-[^1342]: 318:3 î-dî.
+[^1331]: 318:3 î-dî.
 
-[^1343]: 318:4 Or, ‘rejoice ye.’
+[^1332]: 318:4 Or, ‘rejoice ye.’
 
-[^1344]: 318:5 Response.
+[^1333]: 318:5 Response.
 
-[^1345]: 319:1 Powerful.
+[^1334]: 319:1 Powerful.
 
-[^1346]: 319:2 Some of the names are in the feminine.
+[^1335]: 319:2 Some of the names are in the feminine.
 
-[^1347]: 319:3 Here repeat as above from ‘O ye plants’ to ‘givers of the better thing and holy.’
+[^1336]: 319:3 Here repeat as above from ‘O ye plants’ to ‘givers of the better thing and holy.’
 
-[^1348]: 320:1 See below.
+[^1337]: 320:1 See below.
 
-[^1349]: 320:2 See Y. L, 11.
+[^1338]: 320:2 See Y. L, 11.
 
-[^1350]: 320:3 See Y. LI, 7.
+[^1339]: 320:3 See Y. LI, 7.
 
-[^1351]: 320:4 The Ahuna and Ashem Vohû follow.
+[^1340]: 320:4 The Ahuna and Ashem Vohû follow.

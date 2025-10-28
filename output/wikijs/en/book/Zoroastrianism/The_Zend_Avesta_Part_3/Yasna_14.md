@@ -76,12 +76,12 @@ The Zaotar: So let the Ratu from his Righteousness, holy and learned, speak fort
 
 ## Footnotes
 
-[^1070]: 253:2a Elsewhere with verbal difference.
+[^1062]: 253:2a Elsewhere with verbal difference.
 
-[^1071]: 253:3 See Y. XXXIII, 14.
+[^1063]: 253:3 See Y. XXXIII, 14.
 
-[^1072]: 253:4 Verses 1, 2 are Gâthic.
+[^1064]: 253:4 Verses 1, 2 are Gâthic.
 
-[^1073]: 254:1 See Y. II, 18.
+[^1065]: 254:1 See Y. II, 18.
 
-[^1074]: 254:2 See Y. III, 24, 25.
+[^1066]: 254:2 See Y. III, 24, 25.

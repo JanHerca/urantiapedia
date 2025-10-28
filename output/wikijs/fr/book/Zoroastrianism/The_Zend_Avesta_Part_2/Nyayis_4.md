@@ -94,20 +94,20 @@ Soyez propitiatoire [^1529] . . . .
 
 ## Notes de bas de page
 
-[^1600]: 356:1 Comme Âbân Ya<i>s</i>t, 0.
+[^1529]: 356:1 Comme Âbân Ya<i>s</i>t, 0.
 
-[^1601]: 356 : 2 §§ 2-6 = Âbân Ya<i>s</i>t, §§ 1-5.
+[^1530]: 356 : 2 §§ 2-6 = Âbân Ya<i>s</i>t, §§ 1-5.
 
-[^1602]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
+[^1531]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
 
-[^1603]: 356:4 Voir ci-dessus, [p. 152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
+[^1532]: 356:4 Voir ci-dessus, [p. 152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
 
-[^1604]: 357:1 La prière Yathâ ahû vairyô.
+[^1533]: 357:1 La prière Yathâ ahû vairyô.
 
-[^1605]: 357:2 La prière d'Ashem Vohû.
+[^1534]: 357:2 La prière d'Ashem Vohû.
 
-[^1606]: 357:3 Cf. Yt. XXII, 2, et Yt. XXIV, 39.
+[^1535]: 357:3 Cf. Yt. XXII, 2, et Yt. XXIV, 39.
 
-[^1607]: 357:4 Cf. Âbân Ya<i>s</i>t, §§ 19, 23, 27, 35, 39, 47, &c.
+[^1536]: 357:4 Cf. Âbân Ya<i>s</i>t, §§ 19, 23, 27, 35, 39, 47, &c.
 
-[^1608]: 357:5 Cf. Âbân Ya<i>s</i>t, § 9.
+[^1537]: 357:5 Cf. Âbân Ya<i>s</i>t, § 9.

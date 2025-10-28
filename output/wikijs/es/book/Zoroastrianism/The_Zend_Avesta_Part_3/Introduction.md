@@ -225,8 +225,7 @@ En cuanto al beneficio general que ha resultado del zaratustranismo en el pasado
 [^30]: xli:2 Véase Hübschmann. KZ. bd. 24, art. 326.
 
 [^31]: xliii:1 Uno de los homenajes más conmovedores jamás rendidos a los traductores pahlavi fue la conversión de Haug a ellos. Antes de estudiarlos, no perdió oportunidad de estigmatizar sus deficiencias; sin embargo, más tarde los siguió en muchos lugares importantes, a veces con poca reserva.
-
-Dado que los escritores de los extremos opuestos parecen sinceramente convencidos del error radical de sus respectivas opiniones, es evidente que la asociación y el interés influyen significativamente en las decisiones. Un académico debe someterse plenamente a la influencia, primero de una escuela y luego de la otra. La necesidad de estudios equilibrados es fundamental.
+  Dado que los escritores de los extremos opuestos parecen sinceramente convencidos del error radical de sus respectivas opiniones, es evidente que la asociación y el interés influyen significativamente en las decisiones. Un académico debe someterse plenamente a la influencia, primero de una escuela y luego de la otra. La necesidad de estudios equilibrados es fundamental.
 
 [^32]: xliii:2 Solo recientemente se ha aplicado a los metros gáticos la variación de once a doce sílabas en los versos de Trish<i>t</i>up, y hasta hace poco no se había aceptado la posibilidad de una cesura cambiante.
 

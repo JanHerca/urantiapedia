@@ -94,20 +94,20 @@ Be propitiation [^1529] . . . .
 
 ## Footnotes
 
-[^1600]: 356:1 As Âbân Ya<i>s</i>t, 0.
+[^1529]: 356:1 As Âbân Ya<i>s</i>t, 0.
 
-[^1601]: 356:2 §§ 2-6 = Âbân Ya<i>s</i>t, §§ 1-5.
+[^1530]: 356:2 §§ 2-6 = Âbân Ya<i>s</i>t, §§ 1-5.
 
-[^1602]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
+[^1531]: 356:3 Cf. Âbân Ya<i>s</i>t, § 6.
 
-[^1603]: 356:4 See above, [p. 152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
+[^1532]: 356:4 See above, [p. 152](../Yasts_10#p152), note [1](../Yasts_10#fn698).
 
-[^1604]: 357:1 The Yathâ ahû vairyô prayer.
+[^1533]: 357:1 The Yathâ ahû vairyô prayer.
 
-[^1605]: 357:2 The Ashem Vohû prayer.
+[^1534]: 357:2 The Ashem Vohû prayer.
 
-[^1606]: 357:3 Cf. Yt. XXII, 2, and Yt. XXIV, 39.
+[^1535]: 357:3 Cf. Yt. XXII, 2, and Yt. XXIV, 39.
 
-[^1607]: 357:4 Cf. Âbân Ya<i>s</i>t, §§ 19, 23, 27, 35, 39, 47, &c.
+[^1536]: 357:4 Cf. Âbân Ya<i>s</i>t, §§ 19, 23, 27, 35, 39, 47, &c.
 
-[^1608]: 357:5 Cf. Âbân Ya<i>s</i>t, § 9.
+[^1537]: 357:5 Cf. Âbân Ya<i>s</i>t, § 9.

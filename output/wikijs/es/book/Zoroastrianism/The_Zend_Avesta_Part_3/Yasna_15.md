@@ -73,12 +73,12 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1075]: 254:3 Raíz rap = rabh, una recepción de gracia, o ser recibido por gracia.
+[^1067]: 254:3 Raíz rap = rabh, una recepción de gracia, o ser recibido por gracia.
 
-[^1076]: 254:4 Namãn puede estar destinado a ser un locativo; 'con las cosas bellas en su nombre (?).'
+[^1068]: 254:4 Namãn puede estar destinado a ser un locativo; 'con las cosas bellas en su nombre (?).'
 
-[^1077]: 254:5 Véase Y. LI, 22.
+[^1069]: 254:5 Véase Y. LI, 22.
 
-[^1078]: 254:6 Véase Y. LI, 1.
+[^1070]: 254:6 Véase Y. LI, 1.
 
-[^1079]: 255:1 Este fragmento en el dialecto gático podría ubicarse más apropiadamente antes del Srôsh Ya<i>s</i>t.
+[^1071]: 255:1 Este fragmento en el dialecto gático podría ubicarse más apropiadamente antes del Srôsh Ya<i>s</i>t.

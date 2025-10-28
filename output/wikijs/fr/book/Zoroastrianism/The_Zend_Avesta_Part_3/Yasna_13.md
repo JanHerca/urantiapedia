@@ -84,36 +84,36 @@ Une bénédiction est la Droite appelée la meilleure, il y a du bien, il y a du
 
 ## Notes de bas de page
 
-[^1051]: 250:3 Ce Ratu est la description et la représentation du Nmânôpaiti, occupant l'attention des fidèles principalement au moment de sa mention au cours du rituel. (J'utilise ici le terme « chef » pour changer.) Une fois établi comme Ratu lors du rituel, il devenait un génie gardien Nmânya ; il en était de même pour les autres. (Y. XIII est en dialecte gâtique.)
+[^1045]: 250:3 Ce Ratu est la description et la représentation du Nmânôpaiti, attirant l'attention des fidèles principalement au moment de sa mention au cours du rituel. (J'utilise ici l'expression « chef » pour « seigneur » afin de varier les plaisirs.) Une fois établi comme Ratu lors du rituel, il devenait un génie gardien Nmânya ; il en était de même pour les autres. (Y. XIII est en dialecte gâtique.)
 
-[^1052]: 251:1 Vision.
+[^1046]: 251:1 Vîsya.
 
-[^1053]: 251:2 Zantuma.
+[^1047] : 251:2 Za<i>n</i>tuma.
 
-[^1054]: 251:3 Da<i>h</i><i>v</i>yuma = Dahyuma.
+[^1048] : 251:3 Da<i>h</i><i>v</i>yuma = Dahyuma.
 
-[^1055]: 251:4 La déesse des richesses.
+[^1049]: 251:4 La déesse des richesses.
 
-[^1056]: 251:5 Littéralement bipède ; voir ailleurs où quadrupède signifie simplement bête.
+[^1050]: 251:5 Littéralement bipède ; voir ailleurs où quadrupède signifie simplement bête.
 
-[^1057]: 251:6 Ou, « ménages ».
+[^1051]: 251:6 Ou, « ménages ».
 
-[^1058]: 251:7 Ashethwôzgatemã (plusieurs manuscrits ont ashe) trouve son explication dans le manuscrit pahlavi de Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i. On peut lire kabed ran<i>g</i> rasi<i>s</i>ntûm au lieu de kabed yôm rasi<i>s</i>ntûm. L'ancienne erreur de yôm provenait du fait que le copiste avait devant lui une forme qui pouvait être lue soit rô<i>g</i>, soit ran<i>g</i>, les caractères étant identiques pour les deux mots. Il ne pouvait se réconcilier avec ran<i>g</i> dans le sens d'effort, et opta donc pour rô<i>g</i>; mais afin de bien guider ses successeurs, il le changea pour son synonyme yôm, qui, comme le remarque bien Spiegel, n'a que peu de sens. Mais le mot est ran<i>g</i>, comme je le crois, et cela est immédiatement corroboré par le bahukle<i>s</i>a de Ner. Lire a<i>s</i> + thwakh<i>s</i>a + gatemã = kabed + ran<i>g</i> + rasi<i>s</i>ntûm, le plus progressant avec une énergie douloureuse.
+[^1052]: 251:7 Ashethwôzgatemã (plusieurs manuscrits ont ashe) trouve son explication dans le manuscrit pahlavi de Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i. on peut lire kabed ran<i>g</i> rasi<i>s</i>ntûm au lieu de kabed yôm rasi<i>s</i>ntûm. L'ancienne erreur de yôm provenait du fait que le copiste avait devant lui une forme qui pouvait se lire soit rô<i>g</i>, soit ran<i>g</i>, les caractères étant identiques pour les deux mots. Il ne pouvait se réconcilier avec ran<i>g</i> dans le sens d'effort, et opta donc pour rô<i>g</i>; mais afin de bien guider ses successeurs, il le changea pour son synonyme yôm, qui, comme le remarque judicieusement Spiegel, n'a que peu de sens. Mais le mot est ran<i>g</i>, comme je le crois, et cela est immédiatement corroboré par le bahukle<i>s</i>a de Ner. Lire a<i>s</i> + thwakh<i>s</i>a + gatemã = kabed + ran<i>g</i> + rasi<i>s</i>ntûm, le plus progressant avec une énergie douloureuse.
 
-[^1059]: 251:8 Ou, « forces les plus stables ».
+[^1053]: 251:8 Ou, « forces les plus stables ».
 
-[^1060]: 252:1Je pense que la référence était ici à khratavŏ, Y. XLVI, 3. Voir Y. XXXII, 14, tel que rendu alternativement.
+[^1054]: 252:1Je pense que la référence était ici à khratavŏ, Y. XLVI, 3. Voir Y. XXXII, 14, comme alternativement rendu.
 
-[^1061]: 252:2 Une partie du texte est ici tombée.
+[^1055]: 252:2 Une partie du texte est ici tombée.
 
-[^1062]: 252:3 La reconnaissance d'un dualisme fort est ici impérative. Ahura seul est loué.
+[^1056]: 252:3 La reconnaissance d'un dualisme fort est ici impérative. Ahura seul est loué.
 
-[^1063]: 252:4 Ou, 'du bon parent, le seigneur (?).'
+[^1057]: 252:4 Ou, 'du bon parent, le seigneur (?).'
 
-[^1064]: 252:5 Ailleurs signifiant « viande », tout comme Ameretatâ<i>t</i> et Haurvatâ<i>t</i> signifient bois et eau.
+[^1058]: 252:5 Ailleurs signifiant « viande », tout comme Ameretatâ<i>t</i> et Haurvatâ<i>t</i> signifient bois et eau.
 
-[^1065]: 252:6 Ou, « la sainteté et le Fravashi ».
+[^1059]: 252:6 Ou, « la sainteté et le Fravashi ».
 
-[^1066]: 253:1 Féminin.
+[^1060]: 253:1 Féminin.
 
-[^1069]: 253:2 Ailleurs avec différence verbale.
+[^1061]: 253:2 Ailleurs avec différence verbale.

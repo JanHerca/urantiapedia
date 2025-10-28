@@ -70,6 +70,6 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1201]: 286:1 Or, ‘with the priority in the Yasnas, (we who are they) who abide.’
+[^1191]: 286:1 Or, ‘with the priority in the Yasnas, (we who are they) who abide.’
 
-[^1202]: 286:2 T<i>e</i>m is interpolated; or shall we render: ‘We worship Him’ as in the F. with adverbial use as in the Greek, and often here?
+[^1192]: 286:2 T<i>e</i>m is interpolated; or shall we render: ‘We worship Him’ as in the F. with adverbial use as in the Greek, and often here?

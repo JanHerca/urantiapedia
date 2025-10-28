@@ -74,12 +74,12 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1075]: 254:3 Root rap = rabh, a reception of grace, or being received by grace.
+[^1067]: 254:3 Root rap = rabh, a reception of grace, or being received by grace.
 
-[^1076]: 254:4 Namãn may be meant for a locative; ‘with the beautiful things in their name (?).’
+[^1068]: 254:4 Namãn may be meant for a locative; ‘with the beautiful things in their name (?).’
 
-[^1077]: 254:5 See Y. LI, 22.
+[^1069]: 254:5 See Y. LI, 22.
 
-[^1078]: 254:6 See Y. LI, 1.
+[^1070]: 254:6 See Y. LI, 1.
 
-[^1079]: 255:1 This fragment in the Gâthic dialect might more properly be placed before the Srôsh Ya<i>s</i>t.
+[^1071]: 255:1 This fragment in the Gâthic dialect might more properly be placed before the Srôsh Ya<i>s</i>t.

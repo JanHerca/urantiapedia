@@ -143,8 +143,7 @@ Traducción.
 [^104]: 19:6 Ashi, una bendición dada en recompensa; así en otros lugares.
 
 [^105]: 20:1 Creo que es mejor atenerse al pasaje paralelo y al sentido de «enseñar» aquí. El pahlavi tiene una forma irregular que probablemente significa «enseño», pero podría significar «me enseñan».
-
-Después de las palabras «mientras tenga el poder», «enseñaré» es bastante más natural que «aprenderé». La traducción de Haug de esta palabra nunca ha sido aceptada. Quienes más se oponen a la tradición la siguen aquí. Quizás, «enseñaré a desear R.»
+  Después de las palabras «mientras tenga el poder», «enseñaré» es bastante más natural que «aprenderé». La traducción de Haug de esta palabra nunca ha sido aceptada. Quienes más se oponen a la tradición la siguen aquí. Quizás, «enseñaré a desear R.»
 
 [^106]: 20:2 La traducción Pahlavi corregida por MSS. puede traducirse así: El que entrega su alma dentro de Garô<i>d</i>mân lo hace con la ayuda de Vohûman \[ \], y también es inteligente en cuanto a la veneración que pertenece a los hacedores de buenas obras \[ \] en aquello que es la \[religión\] de Aûharmazd; mientras yo sea un suplicante y tenga \[el poder, mientras inculque el deseo de la Rectitud que es, el deber y las buenas obras\].
 
@@ -198,5 +197,4 @@ Después de las palabras «mientras tenga el poder», «enseñaré» es bastante
 [^130]: 24:5 Esta pregunta está respondida en Y. XXX.
 
 [^131]: 24:6 Ner. mejorando el Pahlavi tiene lo siguiente: Yadi sunirîksha<i>n</i>atayâ dharma<i>m</i> pâlayâmi mana<i>s</i><i>k</i>a\* uttama<i>m</i> sadâprav<i>ri</i>ttaye; \[kila, <i>k</i>et satyasya sadvyâpârasya<i>k</i>a rakshâ<i>m</i> karomi\]. Tvam tat\* Mahâ<i>g</i><i>ñ</i>ânin Svâmin! prak<i>ri</i>sh<i>t</i>am me <i>s</i>ikshâpaya\* \[ \] vâ<i>k</i>i. Ad<i>ri</i><i>s</i>ya Tvatto mukhena \[sphu<i>t</i>aya\] antar bhuvane pûrva<i>m</i> babhûva \[tâm s<i>ri</i>sh<i>t</i>im me brûhi\].
-
-Una traducción verdaderamente notable teniendo en cuenta las circunstancias en las que se realizó.
+  Una traducción verdaderamente notable teniendo en cuenta las circunstancias en las que se realizó.

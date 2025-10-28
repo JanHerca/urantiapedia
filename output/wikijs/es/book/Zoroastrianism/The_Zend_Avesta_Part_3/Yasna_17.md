@@ -74,22 +74,22 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1090]: 258:1 Véase el capítulo VI, que es casi idéntico a XVII, 1-10.
+[^1081]: 258:1 Véase el capítulo VI, que es casi idéntico a XVII, 1-10.
 
-[^1091]: 258:2 Este fuego es el que está delante de Ahura Mazda y los reyes.
+[^1082]: 258:2 Este fuego es el que está delante de Ahura Mazda y los reyes.
 
-[^1092]: 258:3 Este fuego habita en los cuerpos de los hombres y de las bestias (calor animal).
+[^1083]: 258:3 Este fuego habita en los cuerpos de los hombres y de las bestias (calor animal).
 
-[^1093]: 258:4 Esto está en árboles y plantas.
+[^1084]: 258:4 Esto está en árboles y plantas.
 
-[^1094]: 258:5 Esto en las nubes (relámpagos).
+[^1085]: 258:5 Esto en las nubes (relámpagos).
 
-[^1095]: 258:6 Éste es el fuego que se aplica en el mundo (Bundahi<i>s</i>, Oeste, página 61).
+[^1086]: 258:6 Éste es el fuego que se aplica en el mundo (Bundahi<i>s</i>, Oeste, página 61).
 
-[^1096]: 258:7 Parece cierto que aquí se hace referencia a N. como conectado con el fuego; este fuego corresponde al de Vâhrâm en los lugares de culto.
+[^1087]: 258:7 Parece cierto que aquí se hace referencia a N. como conectado con el fuego; este fuego corresponde al de Vâhrâm en los lugares de culto.
 
-[^1097]: 259:1 1-17 aparecen también en los manuscritos como Y. LIX, 1-17.
+[^1088]: 259:1 1-17 aparecen también en los manuscritos como Y. LIX, 1-17.
 
-[^1098]: 259:2 Dahyuma.
+[^1089]: 259:2 Dahyuma.
 
-[^1099]: 259:3 Sigue el YêNhê hâtãm.
+[^1090]: 259:3 Sigue el YêNhê hâtãm.

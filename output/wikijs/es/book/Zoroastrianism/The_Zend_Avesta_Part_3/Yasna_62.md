@@ -68,22 +68,22 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1325]: 314:1 O, 'para dar luz'.
+[^1314]: 314:1 O, 'para dar luz'.
 
-[^1326]: 314:2 ¿O, 'dar luz'? comp. ukhshânô y ukhshâ.
+[^1315]: 314:2 ¿O, 'dar luz'? comp. ukhshânô y ukhshâ.
 
-[^1327]: 314:3 Leer apairyâthrem.
+[^1316]: 314:3 Leer apairyâthrem.
 
-[^1328]: 314:4 O, 'tiene el lugar más rápido'.
+[^1317]: 314:4 O, 'tiene el lugar más rápido'.
 
-[^1329]: 315:1 Bartholomae sigue aquí la tradición con audacia, al traducir 'soportar, aferrarse a; 'giriftar yehvûnâni(î).'
+[^1318]: 315:1 Bartholomae sigue la tradición audazmente aquí, traduciendo 'aushalten, festhalten an; giriftar yehvûnâni(î).'
 
-[^1330]: 315:2 O, 'es adorado por'.
+[^1319]: 315:2 O, 'es adorado por.'
 
-[^1331]: 315:3 Esta curiosa glosa parece añadida como consuelo al Fuego por la expresión precedente. Tiene sabor a <i>Ri</i>k.
+[^1320]: 315:3 Esta curiosa glosa parece añadida como consuelo al Fuego por la expresión precedente. Tiene sabor a <i>Ri</i>k.
 
-[^1332]: 316:1 El Ashem Vohû aparece aquí.
+[^1321]: 316:1 El Ashem Vohû aparece aquí.
 
-[^1333]: 316:2 O, 'cayendo'.
+[^1322]: 316:2 O, 'cayendo'.
 
-[^1334]: 316:3 Véase como alternativa la magistral interpretación que hace Darmesteter de los Âta<i>s</i> Nyâyi<i>s</i>, 7-18.
+[^1323]: 316:3 Véase como alternativa la magistral interpretación que hace Darmesteter de los Âta<i>s</i> Nyâyi<i>s</i>, 7-18.

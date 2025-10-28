@@ -66,14 +66,14 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1319]: 312:4 De Harlez, 'faisons retentir'.
+[^1308]: 312:4 De Harlez, 'faisons retentir'.
 
-[^1320]: 312:5 El Pahlavi quizás 'disminuye'; Darmesteter, 'haciendo que languidezca'.
+[^1309]: 312:5 El Pahlavi quizás 'disminuye'; Darmesteter, 'haciendo que languidezca'.
 
-[^1321]: 313:1 Se ha sugerido que el significado aquí es 'caníbales'.
+[^1310]: 313:1 Se ha sugerido que el significado aquí es 'caníbales'.
 
-[^1322]: 313:2 Por supuesto, no se hace referencia a los Zendiks posteriores, a menos que tengamos una interpolación.
+[^1311]: 313:2 Por supuesto, no se hace referencia a los Zendiks posteriores, a menos que tengamos una interpolación.
 
-[^1323]: 313:3 Cita de los Gâthas, Y. XLV, 6.
+[^1312]: 313:3 Cita de los Gâthas, Y. XLV, 6.
 
-[^1324]: 313:4 Siguen citas.
+[^1313]: 313:4 Siguen citas.

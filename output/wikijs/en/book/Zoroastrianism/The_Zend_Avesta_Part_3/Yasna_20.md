@@ -74,16 +74,16 @@ We sacrifice to the (several) part(s) of the Asha Vahi<i>s</i>ta (prayer). We sa
 
 ## Footnotes
 
-[^1144]: 266:5 Elsewhere verbally different; ‘when Asha is for A.V.’
+[^1135]: 266:5 Elsewhere verbally different; ‘when Asha is for A.V.’
 
-[^1145]: 267:1 It is carried into effect; possibly ‘rendered fit for praising’(?).
+[^1136]: 267:1 It is carried into effect; possibly ‘rendered fit for praising’(?).
 
-[^1146]: 267:2 The Pahlavi indicates nâ stâitya (?).
+[^1137]: 267:2 The Pahlavi indicates nâ stâitya (?).
 
-[^1147]: 267:3 Ashavanem here and in Y. XIX, 19 might be a neuter from a transition, or addition.
+[^1138]: 267:3 Ashavanem here and in Y. XIX, 19 might be a neuter from a transition, or addition.
 
-[^1148]: 267:4 ‘Ashem.’
+[^1139]: 267:4 ‘Ashem.’
 
-[^1149]: 267:5 This Catechetical addition is identical with that in Y. XIX. The wording alone is slightly altered in the translation to relieve the sameness.
+[^1140]: 267:5 This Catechetical addition is identical with that in Y. XIX. The wording alone is slightly altered in the translation to relieve the sameness.
 
-[^1150]: 268:1 The YêNhê hâtãm follows.
+[^1141]: 268:1 The YêNhê hâtãm follows.

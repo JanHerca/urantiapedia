@@ -67,22 +67,22 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1325]: 314:1 Ou, « pour donner de la lumière ».
+[^1314]: 314:1 Ou, 'pour donner de la lumière.' 
 
-[^1326]: 314:2 Ou, « donner de la lumière » ? comp. ukhshânô et ukhshâ.
+[^1315]: 314:2 Ou, 'pour donner de la lumière' ? comp. ukhshânô et ukhshâ. 
 
-[^1327]: 314:3 Lisez apairyâthrem.
+[^1316]: 314:3 Lire apairyâthrem. 
 
-[^1328]: 314:4 Ou, « a l'endroit le plus rapide ».
+[^1317]: 314:4 Ou, 'a l'endroit le plus rapide.' 
 
-[^1329]: 315 : 1 Bartholomae suit ici la tradition avec audace, rendant « aushalten, festhalten an ; giftar yehvûnâni(î).'
+[^1318]: 315:1 Bartholomae suit hardiment la tradition ici, en traduisant 'aushalten, festhalten an; giriftar yehvûnâni(î).' 
 
-[^1330]: 315:2 Ou, « est adoré pour ».
+[^1319]: 315:2 Ou, 'est adoré pour'. 
 
-[^1331]: 315:3 Cette curieuse glose semble jetée comme une consolation au Feu pour l'expression précédente. Elle a le goût du <i>Ri</i>k.
+[^1320]: 315:3 Cette curieuse glose semble jetée comme une consolation au Feu pour l'expression précédente. Elle a le goût du <i>Ri</i>k. 
 
-[^1332]: 316:1 L'Ashem Vohû apparaît ici.
+[^1321]: 316:1 L'Ashem Vohû apparaît ici.
 
-[^1333]: 316:2 Ou, « tomber ».
+[^1322]: 316:2 Ou, 'tomber'. 
 
-[^1334]: 316:3 Voir comme alternative la traduction magistrale de Darmesteter des Âta<i>s</i> Nyâyi<i>s</i>, 7-18.
+[^1323]: 316:3 Voir comme alternative la traduction magistrale de Darmesteter des Âta<i>s</i> Nyâyi<i>s</i>, 7-18.

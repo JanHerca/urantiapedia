@@ -143,8 +143,7 @@ Traduction.
 [^104]: 19:6 Ashi, une bénédiction donnée en récompense ; ainsi ailleurs.
 
 [^105]: 20:1 Je pense qu'il est préférable de s'en tenir au passage parallèle et au sens de « enseigner » ici. Le Pahlavi a une forme irrégulière qui signifie probablement « j'enseigne », mais pourrait être destiné à « on m'enseigne ».
-
-Après les mots « tant que j'en aurai le pouvoir », « J'enseignerai » est plus naturel que « J'apprendrai ». La traduction de Haug n'a jamais été acceptée. Les plus opposés à la tradition la suivent ici. Peut-être : « J'enseignerai à désirer R. »
+  Après les mots « tant que j'en aurai le pouvoir », « J'enseignerai » est plus naturel que « J'apprendrai ». La traduction de Haug n'a jamais été acceptée. Les plus opposés à la tradition la suivent ici. Peut-être : « J'enseignerai à désirer R. »
 
 [^106]: 20:2 La traduction pahlavi corrigée par les manuscrits peut être rendue ainsi : Celui qui abandonne son âme dans le Garô<i>d</i>mân le fait avec l'aide de Vohûman \[ \], et est également intelligent concernant la vénération qui appartient aux faiseurs de bonnes œuvres \[ \] dans ce qui est la \[religion\] d'Aûharmazd ; aussi longtemps que je suis un suppliant et que j'ai \[le pouvoir, aussi longtemps j'inculque le désir de la droiture qui est, le devoir et les bonnes œuvres\].
 
@@ -198,5 +197,4 @@ Après les mots « tant que j'en aurai le pouvoir », « J'enseignerai » est pl
 [^130]: 24:5 Cette question est répondue dans Y. XXX.
 
 [^131]: 24:6 Ner. améliorant le Pahlavi a ce qui suit : Yadi sunirîksha<i>n</i>atayâ dharma<i>m</i> pâlayâmi mana<i>s</i><i>k</i>a\* uttama<i>m</i> sadâprav<i>ri</i>ttaye; \[kila, <i>k</i>et satyasya sadvyâpârasya<i>k</i>a rakshâ<i>m</i> karomi\]. Tvam tat\* Mahâ<i>g</i><i>ñ</i>ânin Svâmin! prak<i>ri</i>sh<i>t</i>am me <i>s</i>ikshâpaya\* \[ \] vâ<i>k</i>i. Ad<i>ri</i><i>s</i>ya Tvatto mukhena \[sphu<i>t</i>aya\] antar bhuvane pûrva<i>m</i> babhûva \[tâm s<i>ri</i>sh<i>t</i>im me brûhi\].
-
-Une traduction vraiment remarquable compte tenu des circonstances dans lesquelles elle a été réalisée.
+  Une traduction vraiment remarquable compte tenu des circonstances dans lesquelles elle a été réalisée.

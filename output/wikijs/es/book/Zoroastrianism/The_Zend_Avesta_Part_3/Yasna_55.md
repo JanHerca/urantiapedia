@@ -85,14 +85,14 @@ Y adoramos la(s) parte(s) [^1232] de las Alabanzas del Yasna, y su recitación t
 
 ## Notas al pie
 
-[^1237]: 294:1 Staota Yêsnya parece designar aquella parte del Yasna que comienza con el Srôsh Ya<i>s</i>t.
+[^1227]: 294:1 Staota Yêsnya parece designar aquella parte del Yasna que comienza con el Srôsh Ya<i>s</i>t.
 
-[^1238]: 294:2 Frârâiti; o posiblemente 'a los que dan libremente' (el término '-ti' como dativo).
+[^1228]: 294:2 Frârâiti; o posiblemente 'a los que dan libremente' (el término '-ti' como dativo).
 
-[^1239]: 295:1 Conjetural; ver Ashem abajo.
+[^1229]: 295:1 Conjetural; ver Ashem abajo.
 
-[^1240]: 295:2 Pahlavi avŏ nafsman.
+[^1230]: 295:2 Pahlavi avŏ nafsman.
 
-[^1241]: 295:3 Recitado de memoria y utilizado en la ceremonia.
+[^1231]: 295:3 Recitado de memoria y utilizado en la ceremonia.
 
-[^1242]: 295:4 La parte, 'cada parte'.
+[^1232]: 295:4 La parte, 'cada parte'.

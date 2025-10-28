@@ -64,14 +64,14 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1160]: 272:3 Se dice que este capítulo está reservado para ocasiones funerarias.
+[^1151]: 272:3 Se dice que este capítulo está reservado para ocasiones funerarias.
 
-[^1161]: 272:4 O, 'Oro por la llegada'. Véase Y. XXVI.
+[^1152]: 272:4 O, 'Oro por la llegada'. Véase Y. XXVI.
 
-[^1162]: 273:1 Fravashi parece un dativo; comp. ûtî´.
+[^1153]: 273:1 Fravashi parece un dativo; comp. ûtî´.
 
-[^1163]: 273:2 Hijo mayor de Zaratustra por su esposa Padokhshah; era el jefe de los sacerdotes según la tradición.
+[^1154]: 273:2 Hijo mayor de Zaratustra por su esposa Padokhshah; era el jefe de los sacerdotes según la tradición.
 
-[^1164]: 273:3 Este Yasna fue recitado de casa en casa.
+[^1155]: 273:3 Este Yasna fue recitado de casa en casa.
 
-[^1165]: 273:4 El alma 'propia'; note la aparente distinción entre Fravashi y alma.
+[^1156]: 273:4 El alma 'propia'; note la aparente distinción entre Fravashi y alma.

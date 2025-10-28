@@ -72,12 +72,12 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1222]: 290:5 Of not greatly later origin.
+[^1212]: 290:5 Of not greatly later origin.
 
-[^1223]: 291:1 See, however, Bundahi<i>s</i> (West), p. 66.
+[^1213]: 291:1 See, however, Bundahi<i>s</i> (West), p. 66.
 
-[^1224]: 291:2 See Bundahi<i>s</i>, chap. XIX, also Darmesteter, Ormuzd and Ahriman (pp. 148-150).
+[^1214]: 291:2 See Bundahi<i>s</i>, chap. XIX, also Darmesteter, Ormuzd and Ahriman (pp. 148-150).
 
-[^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> points to a migration of Zoroastrianism, coming West (?).
+[^1215]: 291:3 Yôi yêyã dûrâ<i>t</i> points to a migration of Zoroastrianism, coming West (?).
 
-[^1226]: 291:4 For Yasna XLIII-LI, see above, pp. [98](../Gathas_43#p98)\-[187](../Gathas_51#p187).
+[^1216]: 291:4 For Yasna XLIII-LI, see above, pp. [98](../Gathas_43#p98)\-[187](../Gathas_51#p187).

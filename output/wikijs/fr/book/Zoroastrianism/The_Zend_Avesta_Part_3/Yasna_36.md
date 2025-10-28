@@ -68,10 +68,10 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1197]: 284:2 Ou, « au service du Feu » ; ainsi les Pahlavi : considérez aussi l’occurrence de formes de var(e)z dans l’autre sens, à proximité immédiate. Les temples du Feu n’existaient pas ; cependant, un abri devait être fourni. Le duel pouruyê(-ve) peut également faire référence à Ahura et au Feu. Comp. Y. XXX, 3. Ou, est-ce « au début » ?
+[^1187]: 284:2 Ou, « au service du Feu » ; ainsi les Pahlavi : considérez aussi l’occurrence de formes de var(e)z dans l’autre sens, à proximité immédiate. Les temples du Feu n’existaient pas ; cependant, un abri devait être fourni. Le duel pouruyê(-ve) peut également faire référence à Ahura et au Feu. Comp. Y. XXX, 3. Ou, est-ce « au début » ?
 
-[^1198]: 284:3 Peut-être, « mais le plus favorisé est celui que (y<i>e</i>m). »
+[^1188]: 284:3 Peut-être, « mais le plus favorisé est celui que (y<i>e</i>m). »
 
-[^1199]: 285:1 Vôi semble représenter vâí ici.
+[^1189]: 285:1 Vôi semble représenter vâí ici.
 
-[^1200]: 285:2 Voir Y. I, 1.
+[^1190]: 285:2 Voir Y. I, 1.

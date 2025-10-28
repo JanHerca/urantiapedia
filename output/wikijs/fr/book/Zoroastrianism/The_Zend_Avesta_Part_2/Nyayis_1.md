@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-<span id="p374"><sup><small>[ p. 347p374 ]</small></sup></span>
+<span id="p374"><sup><small>[ p. 347 ]</small></sup></span>
 
 <span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
@@ -198,42 +198,42 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 ## Notes de bas de page
 
-[^1567]: 349:1 Anquetil, Zend-Avesta II, pp. 6, 22, 565-566.
+[^1499] : 349:1 Anquetil, Zend-Avesta II, pp. 6, 22, 565-566. 
 
-[^1568]: 349:2 Cette clause manque dans la plupart des manuscrits.
+[^1500]: 349:2 Cette clause manque dans la plupart des manuscrits. 
 
-[^1569]: 350:1 En pensée, en parole et en acte (traduction pers. et sansk.).
+[^1501]: 350:1 Dans la pensée, la parole et l'action (trad. pers. et sansk.). 
 
-[^1570]: 350:2 Vayu, étant identique au Destin (Vend. Introd. IV, 17), s'identifia au Temps.
+[^1502]: 350:2 Vayu, étant le même que le Destin (Vend. Introd. IV, 17), s'est identifié au Temps. 
 
-[^1573]: 350:3 L'Ashem Vohu.
+[^1503]: 350:3 L'Ashem Vohû. 
 
-[^1574]: 350:4 Voir [p. 22](../Yasts_1#p22).
+[^1504]: 350:4 Voir [p. 22](../Yasts_1#p22). 
 
-[^1575]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]).
+[^1505]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]). 
 
-[^1576]: 350:6 Gaya Maretan, le premier homme.
+[^1506]: 350:6 Gaya Maretan, le premier homme. 
 
-[^1577]: 351:1 Le soleil : « Que mon âme parvienne à la région du soleil ! » (Pahl. trad.)
+[^1507]: 351:1 Le soleil : « Que mon âme parvienne à la région du soleil ! » (trad. Pahl.) 
 
-[^1578]: 351:2 Yt. X, 7.
+[^1508]: 351:2 Yt. X, 7. 
 
-[^1579]: 351:3 Au ciel.
+[^1509]: 351:3 Au ciel. 
 
-[^1580]: 351:4 Voir Yt. VIII, 12, note 7.
+[^1510]: 351:4 Voir Yt. VIII, 12, note 7. 
 
-[^1581]: 351:5 Voir Yt. VIII, 12, note 2.
+[^1511]: 351:5 Voir Yt. VIII, 12, note 2. 
 
-[^1582]: 351:6 Voir Yt. XX.
+[^1512]: 351:6 Voir Yt. XX. 
 
-[^1583]: 352:1 Voir Yt. XVI.
+[^1513]: 352:1 Voir Yt. XVI. 
 
-[^1584]: 352:2 Ou, du plaisir.
+[^1514]: 352:2 Ou, du plaisir. 
 
-[^1586]: 352:3 'Sur le mont Saokanta, il y a un tube d'or qui sort de la racine de la terre ; l'eau qui est à la surface de la terre monte par le trou de ce tube jusqu'aux cieux, et étant poussée par le vent, se répand partout, et ainsi la rosée est produite' (traduction sanskrite).
+[^1515]: 352:3 « Sur le mont Saoka<i>n</i>ta il y a un tube d'or qui sort de la racine de la terre ; « L'eau qui est à la surface de la terre monte par le trou de ce tube jusqu'aux cieux, et étant poussée par le vent, elle se répand partout, et ainsi la rosée est produite » (trad. sanskrit). 
 
-[^1587]: 353:1 L'intégralité du Khôrshê<i>d</i> Ya<i>s</i>t est insérée ici.
+[^1516]: 353:1 L'ensemble du Khôrshê<i>d</i> Ya<i>s</i>t est inséré ici. 
 
-[^1588]: 353:2 Rivières considérées comme les épouses d'Ahura (cf. Ormazd et Ahriman, § 32).
+[^1517]: 353:2 Rivières considérées comme les épouses d'Ahura (cf. Ormazd et Ahriman, § 32). 
 
-[^1589]: 353:3 De Yasna LXVIII, 10 (LXVII, 30) ; cf. [p. 34](../Yasts_1#p34).
+[^1518]: 353:3 De Yasna LXVIII, 10 (LXVII, 30) ; cf. [p. 34](../Yasts_1#p34).

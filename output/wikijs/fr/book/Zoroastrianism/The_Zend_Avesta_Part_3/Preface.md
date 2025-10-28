@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:39Z
 
 <span id="pviii"><sup><small>[ p. viii ]</small></sup></span>
 
-<span id="pix"><sup><small>[ p. ixpix ]</small></sup></span>
+<span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 
 Il serait affectation pour moi de dire beaucoup de choses pour pallier les inconvénients auxquels je suis confronté en tant que successeur du professeur Darmesteter. Il suffit de dire que je crois en être pleinement conscient et que j'espère que ceux qui étudient mon travail me témoigneront d'autant plus de sympathie dans les circonstances. Le professeur Darmesteter, ayant poursuivi ses travaux universitaires, s'est trouvé tellement occupé qu'il a dû renoncer à travailler sur cette série pour le moment. Mon travail sur les Gâthas était entre ses mains depuis un certain temps [^0], et il m'a demandé, en tant qu'ami, d'écrire le volume encore nécessaire de la traduction de l'Avesta. Bien que profondément conscient de l'inconvénient de suivre quelqu'un dont l'érudition n'est surpassée que par son génie, je me suis senti incapable de refuser.
 

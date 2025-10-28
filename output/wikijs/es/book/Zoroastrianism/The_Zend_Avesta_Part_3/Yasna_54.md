@@ -70,8 +70,8 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1234]: 293:2 Esta pieza en el dialecto gático, y en un metro que algunos suponen idéntico al del Vahi<i>s</i>tôi<i>s</i>ti, es muy antigua y se sitúa en importancia junto al Ahuna-vairya y el Ashem Vohû.
+[^1224]: 293:2 Esta pieza en el dialecto gático, y en un metro que algunos suponen idéntico al del Vahi<i>s</i>tôi<i>s</i>ti, es muy antigua y se sitúa en importancia junto al Ahuna-vairya y el Ashem Vohû.
 
-[^1235]: 293:3 O bien, ¿puede masatâ (sic) igualar 'con su liberalidad o majestad', dejando que ya<i>n</i>tu se entienda con Ahurô?
+[^1225]: 293:3 O bien, ¿puede masatâ (sic) igualar 'con su liberalidad o majestad', dejando que ya<i>n</i>tu se entienda con Ahurô?
 
-[^1236]: 293:4 El Avesta posterior señala la antigüedad del más antiguo.
+[^1226]: 293:4 El Avesta posterior señala la antigüedad del más antiguo.

@@ -208,4 +208,4 @@ Alabo, invoco, medito y ofrezco sacrificios a los buenos, fuertes y benéficos F
 
 ## Notas al pie
 
-[^102]: 20:1 Cfr. Yasna XXVI, 1.
+[^97]: 20:1 Cfr. Yasna XXVI, 1.

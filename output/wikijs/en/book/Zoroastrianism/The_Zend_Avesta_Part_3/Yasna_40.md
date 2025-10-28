@@ -72,16 +72,16 @@ So may we be to You, O Mazda Ahura! holy and true [^1207], and with free giving 
 
 ## Footnotes
 
-[^1211]: 288:4 A fem. noun mazdâ = medhâ.
+[^1201]: 288:4 A fem. noun mazdâ = medhâ.
 
-[^1212]: 289:1 Otherwise, ‘understanding which protects’ (?).
+[^1202]: 289:1 Otherwise, ‘understanding which protects’ (?).
 
-[^1213]: 289:2 So the Pahlavi and Ner.
+[^1203]: 289:2 So the Pahlavi and Ner.
 
-[^1214]: 289:3 Bezvaitê.
+[^1204]: 289:3 Bezvaitê.
 
-[^1215]: 289:4 May we be rejoicing(?).
+[^1205]: 289:4 May we be rejoicing(?).
 
-[^1216]: 289:5 Hakh<i>e</i>mã (= -a) replacing the airyaman of the Gâthas, and throwing light upon its meaning. The form is irregular.
+[^1206]: 289:5 Hakh<i>e</i>mã (= -a) replacing the airyaman of the Gâthas, and throwing light upon its meaning. The form is irregular.
 
-[^1217]: 289:6 Or, ‘holy <i>ri</i>shis’ (ereshayô?).
+[^1207]: 289:6 Or, ‘holy <i>ri</i>shis’ (ereshayô?).

@@ -72,16 +72,16 @@ Nous sacrifions aux différentes parties de l'Asha Vahi<i>s</i>ta (prière). Nou
 
 ## Notes de bas de page
 
-[^1144]: 266:5 Ailleurs, verbalement différent ; « quand Asha est pour AV »
+[^1135]: 266:5 Ailleurs, verbalement différent ; « quand Asha est pour AV »
 
-[^1145]: 267:1 Il est mis en pratique ; peut-être « rendu digne d'être loué » (?).
+[^1136]: 267:1 Il est mis en pratique ; peut-être « rendu digne d'être loué » (?).
 
-[^1146]: 267:2 Le Pahlavi indique nâ stâitya (?).
+[^1137]: 267:2 Le Pahlavi indique nâ stâitya (?).
 
-[^1147]: 267:3 Ashavanem ici et dans Y. XIX, 19 pourrait être un neutre issu d'une transition ou d'un ajout.
+[^1138]: 267:3 Ashavanem ici et dans Y. XIX, 19 pourrait être un neutre issu d'une transition ou d'un ajout.
 
-[^1148]: 267:4 'Ashem.'
+[^1139]: 267:4 'Ashem.'
 
-[^1149]: 267:5 Cet ajout catéchétique est identique à celui de Y. XIX. La formulation seule est légèrement modifiée dans la traduction pour atténuer la similitude.
+[^1140]: 267:5 Cet ajout catéchétique est identique à celui de Y. XIX. La formulation seule est légèrement modifiée dans la traduction pour atténuer la similitude.
 
-[^1150]: 268:1 Le YêNhê hâtãm suit.
+[^1141]: 268:1 Le YêNhê hâtãm suit.

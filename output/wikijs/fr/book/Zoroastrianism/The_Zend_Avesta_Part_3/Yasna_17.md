@@ -72,22 +72,22 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1090]: 258:1 Voir le chapitre VI, qui est presque identique à XVII, 1-10.
+[^1081]: 258:1 Voir le chapitre VI, qui est presque identique à XVII, 1-10.
 
-[^1091]: 258:2 Ce feu est celui qui se trouve devant Ahura Mazda et les rois.
+[^1082]: 258:2 Ce feu est celui qui se trouve devant Ahura Mazda et les rois.
 
-[^1092]: 258:3 Ce feu habite dans les corps des hommes et des bêtes (chaleur animale).
+[^1083]: 258:3 Ce feu habite dans les corps des hommes et des bêtes (chaleur animale).
 
-[^1093]: 258:4 Ceci est dans les arbres et les plantes.
+[^1084]: 258:4 Ceci est dans les arbres et les plantes.
 
-[^1094]: 258:5 Ceci dans les nuages ​​(éclair).
+[^1085]: 258:5 Ceci dans les nuages ​​(éclair).
 
-[^1095]: 258:6 C'est le feu qui est appliqué dans le monde (Bundahi<i>s</i>, Ouest, page 61).
+[^1086]: 258:6 C'est le feu qui est appliqué dans le monde (Bundahi<i>s</i>, Ouest, page 61).
 
-[^1096]: 258:7 Que N. soit ici mentionné comme étant lié au feu we, cela semble certain ; ce feu correspond à celui de Vâhrâm dans les lieux de culte.
+[^1087]: 258:7 Que N. soit ici mentionné comme étant lié au feu we, cela semble certain ; ce feu correspond à celui de Vâhrâm dans les lieux de culte.
 
-[^1097]: 259:1 1-17 apparaissent également dans les MSS. sous le nom Y. LIX, 1-17.
+[^1088]: 259:1 1-17 apparaissent également dans les MSS. sous le nom Y. LIX, 1-17.
 
-[^1098]: 259:2 Dahyuma.
+[^1089]: 259:2 Dahyuma.
 
-[^1099]: 259:3 Le YêNhê hâtãm suit.
+[^1090]: 259:3 Le YêNhê hâtãm suit.

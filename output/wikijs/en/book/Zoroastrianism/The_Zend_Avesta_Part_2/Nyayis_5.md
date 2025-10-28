@@ -142,42 +142,42 @@ Ashem Vohû: Holiness is the best of all good . . .
 
 ## Footnotes
 
-[^1609]: 357:6 §§ 1-3 = Yasna XXXIII, 12-14.
+[^1538]: 357:6 §§ 1-3 = Yasna XXXIII, 12-14.
 
-[^1610]: 357:7 ‘Deliver me from Ahriman’ (Pahl. Comm.).
+[^1539]: 357:7 ‘Deliver me from Ahriman’ (Pahl. Comm.).
 
-[^1611]: 357:8 As in Ormazd Ya<i>s</i>t, 0.
+[^1540]: 357:8 As in Ormazd Ya<i>s</i>t, 0.
 
-[^1612]: 358:1 As in Ormazd Ya<i>s</i>t, 0.
+[^1541]: 358:1 As in Ormazd Ya<i>s</i>t, 0.
 
-[^1613]: 358:2 Cf. Sîrôzah, § 9.
+[^1542]: 358:2 Cf. Sîrôzah, § 9.
 
-[^1614]: 358:3 §§ 7-16 = Yasna LXII, 1-10 (LXI). See the Sanskrit translation in Études Iraniennes, II.
+[^1543]: 358:3 §§ 7-16 = Yasna LXII, 1-10 (LXI). See the Sanskrit translation in Études Iraniennes, II.
 
-[^1615]: 359:1 The mortar for pounding the Haoma.
+[^1544]: 359:1 The mortar for pounding the Haoma.
 
-[^1616]: 359:2 In quality and quantity.
+[^1545]: 359:2 In quality and quantity.
 
-[^1617]: 359:3 Upasayêni: what is added to keep up the fire when lighted (Pers. transl.).
+[^1546]: 359:3 Upasayêni: what is added to keep up the fire when lighted (Pers. transl.).
 
-[^1618]: 359:4 The gaoshô-srûta khratu and the âsna khratu (see [p. 7](../Sirozahs_1#p7). note [1](../Sirozahs_1#fn39)).
+[^1547]: 359:4 The gaoshô-srûta khratu and the âsna khratu (see [p. 7](../Sirozahs_1#p7). note [1](../Sirozahs_1#fn39)).
 
-[^1619]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (Sansk. trans.).
+[^1548]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (Sansk. trans.).
 
-[^1620]: 360:2 Here.
+[^1549]: 360:2 Here.
 
-[^1621]: 360:3 Above.
+[^1550]: 360:3 Above.
 
-[^1622]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
+[^1551]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
 
-[^1623]: 360:5 Âtar.
+[^1552]: 360:5 Âtar.
 
-[^1624]: 360:6 ‘Bodily he is infirm (armê<i>s</i>t, motionless); spiritually he is a warrior’ (Pahl. Comm.).
+[^1553]: 360:6 ‘Bodily he is infirm (armê<i>s</i>t, motionless); spiritually he is a warrior’ (Pahl. Comm.).
 
-[^1625]: 361:1 See Vend. p. 94, note 1.
+[^1554]: 361:1 See Vend. p. 94, note 1.
 
-[^1626]: 361:2 Cf. Vend. XVIII, 26-27.
+[^1555]: 361:2 Cf. Vend. XVIII, 26-27.
 
-[^1628]: 361:3 From Yasna XXXIV, 4.
+[^156]: 361:3 From Yasna XXXIV, 4.
 
-[^1629]: 361:4 ‘In the var nîrang’ (Pahl. Comm.), that is to say, in the fire ordeal; see above, [p. 170](../Yasts_12#p170), note [3](../Yasts_12#fn787).
+[^1557]: 361:4 ‘In the var nîrang’ (Pahl. Comm.), that is to say, in the fire ordeal; see above, [p. 170](../Yasts_12#p170), note [3](../Yasts_12#fn787).

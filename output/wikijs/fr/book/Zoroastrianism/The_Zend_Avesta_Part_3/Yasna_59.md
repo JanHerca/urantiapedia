@@ -68,10 +68,10 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1299]: 309:1 Avŏ naf<i>s</i>man.
+[^1289]: 309:1 Avŏ naf<i>s</i>man.
 
-[^1300]: 309:2 Hanayamnô <i>a</i>ungha, un parfait périphrastique.
+[^1290]: 309:2 Hanayamnô <i>a</i>ungha, un parfait périphrastique.
 
-[^1301]: 309:3 Asha Vahi<i>s</i>ta apparaît comme immédiatement suggéré par la formule Vohû d'Ashem p. 310, Asha Vahi<i>s</i>ta semble donc un nom propre, à la fois ici et dans la formule, si un endroit explique l'autre (?).
+[^1291]: 309:3 Asha Vahi<i>s</i>ta apparaît comme immédiatement suggéré par la formule Vohû d'Ashem p. 310, Asha Vahi<i>s</i>ta semble donc un nom propre, à la fois ici et dans la formule, si un endroit explique l'autre (?).
 
-[^1302]: 310:1 Le toujours parlé (?). Les YêNhê et Ahuna suivent.
+[^1292]: 310:1 Le toujours parlé (?). Les YêNhê et Ahuna suivent.

@@ -135,8 +135,7 @@ Y. L, 1. Sí, ¿obtiene mi alma la gracia que me asiste, y cuál de tus bendicio
 [^775]: 173:7 O, 'Unid a vosotros, para que podáis ganar.'
 
 [^776]: 173:8 El Puente <i>K</i>inva<i>t</i>, ya sea literal o figurativamente. Compárese con «el puente de la tierra» (Y. LI, 12). Se alude a las crisis del esfuerzo o la tentación, ya que el Puente <i>K</i>inva<i>t</i> era la última crisis antes de la salvación o la perdición. Las almas de los buenos y de los malos se encontraban con sus propias conciencias en el Puente, y eran alentadas o vilipendiadas.
-
-«Cuando el alma del piadoso cruza ese Puente, su anchura alcanza aproximadamente una legua» (West, Mainyô-î Khard, pág. 134). Es posible que la extensión del Puente para los piadosos se debiera al uso del plural aquí.
+  «Cuando el alma del piadoso cruza ese Puente, su anchura alcanza aproximadamente una legua» (West, Mainyô-î Khard, pág. 134). Es posible que la extensión del Puente para los piadosos se debiera al uso del plural aquí.
 
 [^777]: 174:1 Comparar Y. XXVIII, 3.
 

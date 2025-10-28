@@ -141,8 +141,7 @@ Translation.
 [^370]: 74:1 Avanghâ n<i>e</i>, or avanghânê, an infinitive (see Wilhelm, de Infin. p. 16). The Pahlavi has avŏ aîyyârîh.
 
 [^371]: 74:2 Sraosha (= listening obedience) is the greatest for help, because by a Mãthra which appeals to him the way to Ahura is found out (XXVIII, 6) and the Demon defeated. If apânô is read, so strictly. The Pahlavi translator seems to have understood apâ n<i>e</i>; barâm ayâfînâi pavan dêr-zîvi<i>s</i>nîh, zak î pavan khû<i>d</i>âyîh î Vohûman.
-
-Ner.: Avâpaya dîrghe <i>g</i>îvitatve. This may well restore for us the proper text. Reading apâ n<i>e</i> we should render ‘obtain for us.’
+  Ner.: Avâpaya dîrghe <i>g</i>îvitatve. This may well restore for us the proper text. Reading apâ n<i>e</i> we should render ‘obtain for us.’
 
 [^372]: 74:3 Ahura Mazda dwells as in His abode amid the paths where His saints walk (see XLVI, 16).
 

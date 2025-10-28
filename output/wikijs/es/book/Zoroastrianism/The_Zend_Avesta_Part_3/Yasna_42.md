@@ -72,12 +72,12 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1222]: 290:5 De origen no muy posterior.
+[^1212]: 290:5 De origen no muy posterior.
 
-[^1223]: 291:1 Véase, sin embargo, Bundahi<i>s</i> (Oeste), pág. 66.
+[^1213]: 291:1 Véase, sin embargo, Bundahi<i>s</i> (Oeste), pág. 66.
 
-[^1224]: 291:2 Véase Bundahi<i>s</i>, cap. XIX, también Darmesteter, Ormuzd y Ahriman (págs. 148-150).
+[^1214]: 291:2 Véase Bundahi<i>s</i>, cap. XIX, también Darmesteter, Ormuzd y Ahriman (págs. 148-150).
 
-[^1225]: 291:3 Yôi yêyã dûrâ<i>t</i> apunta a una migración del zoroastrismo, procedente de Occidente (?).
+[^1215]: 291:3 Yôi yêyã dûrâ<i>t</i> apunta a una migración del zoroastrismo, procedente de Occidente (?).
 
-[^1226]: 291:4 Para Yasna XLIII-LI, véase arriba, págs. [98](../Historia_43#p98)\-[187](../Historia_51#p187).
+[^1216]: 291:4 Para Yasna XLIII-LI, véase arriba, págs. [98](../Historia_43#p98)\-[187](../Historia_51#p187).

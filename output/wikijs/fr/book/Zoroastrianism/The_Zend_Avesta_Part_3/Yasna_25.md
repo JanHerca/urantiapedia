@@ -71,12 +71,12 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1171]: 276:2 Ou la récitation mémorisée et l'accomplissement.
+[^1162]: 276:2 Ou la récitation mémorisée et l'accomplissement.
 
-[^1172]: 277:1 Sa longue tradition.
+[^1163]: 277:1 Sa longue tradition.
 
-[^1173]: 277:2 Ou maintenir la compréhension.
+[^1164]: 277:2 Ou maintenir la compréhension.
 
-[^1174]: 277:3 Une montagne au lever ou au coucher du soleil ; voir le mot appliqué intellectuellement juste avant, ainsi que les notes précédentes à ce sujet.
+[^1165]: 277:3 Une montagne au lever ou au coucher du soleil ; voir le mot appliqué intellectuellement juste avant, ainsi que les notes précédentes à ce sujet.
 
-[^1175]: 277:4 C'est-à-dire céleste.
+[^1166]: 277:4 C'est-à-dire céleste.

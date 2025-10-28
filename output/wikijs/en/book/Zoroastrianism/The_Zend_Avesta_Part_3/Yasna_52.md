@@ -68,16 +68,16 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1227]: 292:1 Or, ‘for that which is past?’ bavãithyâi<i>k</i>a.
+[^1217]: 292:1 Or, ‘for that which is past?’ bavãithyâi<i>k</i>a.
 
-[^1228]: 292:2 Dareghô-vârethmanem is treated as a feminine; see also dareghô-vârethmanô in verse 3.
+[^1218]: 292:2 Dareghô-vârethmanem is treated as a feminine; see also dareghô-vârethmanô in verse 3.
 
-[^1229]: 292:3 Have we hvô-aiwishâ<i>k</i>îm, as representing some more regular form?
+[^1219]: 292:3 Have we hvô-aiwishâ<i>k</i>îm, as representing some more regular form?
 
-[^1230]: 292:4 Medicinal springs.
+[^1220]: 292:4 Medicinal springs.
 
-[^1231]: 292:5 This Yasna was celebrated from house to house.
+[^1221]: 292:5 This Yasna was celebrated from house to house.
 
-[^1232]: 292:6 Vârethmanô.
+[^1222]: 292:6 Vârethmanô.
 
-[^1233]: 293:1 Citation from the Gâthas (Y. XLV, 6).
+[^1223]: 293:1 Citation from the Gâthas (Y. XLV, 6).

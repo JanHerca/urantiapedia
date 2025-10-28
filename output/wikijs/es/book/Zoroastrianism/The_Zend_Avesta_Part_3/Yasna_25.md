@@ -72,12 +72,12 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1171]: 276:2 O la recitación memorizada y su cumplimiento.
+[^1162]: 276:2 O la recitación memorizada y su cumplimiento.
 
-[^1172]: 277:1 Su larga tradición.
+[^1163]: 277:1 Su larga tradición.
 
-[^1173]: 277:2 O mantener el entendimiento.
+[^1164]: 277:2 O mantener el entendimiento.
 
-[^1174]: 277:3 Una montaña al amanecer o al atardecer; véase la palabra aplicada intelectualmente justo antes, también notas anteriores sobre ella.
+[^1165]: 277:3 Una montaña al amanecer o al atardecer; véase la palabra aplicada intelectualmente justo antes, también notas anteriores sobre ella.
 
-[^1175]: 277:4 Es decir, celestial.
+[^1166]: 277:4 Es decir, celestial.

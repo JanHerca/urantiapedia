@@ -84,20 +84,20 @@ Et nous adorons le ciel et la terre de don béni, et la généreuse Mãthra, et 
 
 ## Notes de bas de page
 
-[^1080]: 255:2 Ainsi le traducteur pahlavi, lisant probablement angheu<i>s</i>; autrement p. 256 'de la conscience qui aime le bien.' Dans Ya<i>s</i>t XIII, 118 le mot est un nom propre par erreur.
+[^1072]: 255:2 Ainsi le traducteur pahlavi, lisant probablement angheu<i>s</i>; autrement p. 256 'de la conscience qui aime le bien.' Dans Ya<i>s</i>t XIII, 118 le mot est un nom propre par erreur.
 
-[^1081]: 256:1 Peut-être en allusion aux règles. La lune est masc.
+[^1073]: 256:1 Peut-être en allusion aux règles. La lune est masc.
 
-[^1083]: 257:1 Nous ne pouvons pas confondre ici une connexion avec yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
+[^1074]: 257:1 Nous ne pouvons pas confondre ici une connexion avec yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
 
-[^1084]: 257:2 Ou est-il possible qu'il s'agisse d'une invasion de souris, mû<i>s</i> étant ici indéclinable ?
+[^1075]: 257:2 Ou est-il possible qu'il s'agisse d'une invasion de souris, mû<i>s</i> étant ici indéclinable ?
 
-[^1085]: 257:3 Ordonnant l'exécution de plusieurs de ses sujets.
+[^1076]: 257:3 Ordonnant l'exécution de plusieurs de ses sujets.
 
-[^1086]: 257:4 Gaêthyâ<i>k</i>a avec J3, K11.
+[^1077]: 257:4 Gaêthyâ<i>k</i>a avec J3, K11.
 
-[^1087]: 257:5 Association ultérieure de Â. et de la terre.
+[^1078]: 257:5 Association ultérieure de Â. et de la terre.
 
-[^1088]: 257:6 Récité à l'origine dans les maisons privées.
+[^1079]: 257:6 Récité à l'origine dans les maisons privées.
 
-[^1089]: 257:7 Alternative.
+[^1080]: 257:7 Alternative.

@@ -68,6 +68,6 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1352]: 320:5 Je devrais dire Ardvi Sûra Anâhita ; voir Y. LXVIII, 10, où les bonnes eaux sont appelées les Ahuriennes d'Ahura.
+[^1341]: 320:5 Je devrais dire Ardvi Sûra Anâhita ; voir Y. LXVIII, 10, où les bonnes eaux sont appelées les Ahuriennes d'Ahura.
 
-[^1353]: 320:6 Ou, pour une bénédiction.
+[^1342]: 320:6 Ou, pour une bénédiction.

@@ -68,6 +68,6 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1352]: 320:5 I should say Ardvi Sûra Anâhita; see Y. LXVIII, 10, where the good waters are addressed as Ahurian Ones of Ahura.
+[^1341]: 320:5 I should say Ardvi Sûra Anâhita; see Y. LXVIII, 10, where the good waters are addressed as Ahurian Ones of Ahura.
 
-[^1353]: 320:6 Or, for a blessing.’
+[^1342]: 320:6 Or, for a blessing.’

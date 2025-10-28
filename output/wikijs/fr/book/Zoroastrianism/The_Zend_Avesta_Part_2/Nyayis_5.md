@@ -140,42 +140,42 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . .
 
 ## Notes de bas de page
 
-[^1609]: 357:6 §§ 1-3 = Yasna XXXIII, 12-14.
+[^1538] : 357 : 6 §§ 1-3 = Yasna XXXIII, 12-14.
 
-[^1610]: 357:7 'Délivre-moi d'Ahriman' (Pahl. Comm.).
+[^1539]: 357:7 'Délivre-moi d'Ahriman' (Pahl. Comm.).
 
-[^1611]: 357:8 Comme dans Ormazd Ya<i>s</i>t, 0.
+[^1540]: 357:8 Comme dans Ormazd Ya<i>s</i>t, 0.
 
-[^1612]: 358:1 Comme dans Ormazd Ya<i>s</i>t, 0.
+[^1541]: 358:1 Comme dans Ormazd Ya<i>s</i>t, 0.
 
-[^1613]: 358:2 Cf. Sîrôzah, § 9.
+[^1542] : 358:2 Cf. Siroza, § 9.
 
-[^1614]: 358:3 §§ 7-16 = Yasna LXII, 1-10 (LXI). See the Sanskrit translation in Études Iraniennes, II.
+[^1543]: 358:3 §§ 7-16 = Yasna LXII, 1-10 (LXI). See the Sanskrit translation in Études Iraniennes, II.
 
-[^1615]: 359:1 Le mortier pour pilonner le Haoma.
+[^1544]: 359:1 Le mortier pour pilonner le Haoma.
 
-[^1616]: 359:2 En qualité et en quantité.
+[^1545]: 359:2 En qualité et en quantité.
 
-[^1617]: 359:3 Upasayêni : ce qui est ajouté pour entretenir le feu une fois allumé (traduction pers.).
+[^1546]: 359:3 Upasayêni : ce qui est ajouté pour entretenir le feu une fois allumé (traduction pers.).
 
-[^1618]: 359:4 Le gaoshô-srûta khratu et le âsna khratu (voir [p. 7](../Sirozahs_1#p7). note [1](../Sirozahs_1#fn39)).
+[^1547]: 359:4 Le gaoshô-srûta khratu et le âsna khratu (voir [p. 7](../Sirozahs_1#p7). note [1](../Sirozahs_1#fn39)).
 
-[^1619]: 360:1 Yâ mek afra<i>a</i>ungh<i>a</i>u angha<i>t</i>: mì me abhût ayogyatâ (traduction sanskrite).
+[^1548] : 360:1 Yâ mek afra<i>a</i>ungh<i>a</i>u angha<i>t</i> : mì me abhût ayogyatâ (sansk. trans.).
 
-[^1620]: 360:2 Ici.
+[^1549]: 360:2 Ici.
 
-[^1621]: 360:3 Ci-dessus.
+[^1550]: 360:3 Ci-dessus.
 
-[^1622]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
+[^1551]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
 
-[^1623]: 360:5 Atar.
+[^1552]: 360:5 Atar.
 
-[^1624]: 360:6 'Correctement il est infirme (armê<i>s</i>t, immobile) ; spirituellement il est un guerrier' (Pahl. Comm.).
+[^1553]: 360:6 'Correctement il est infirme (armê<i>s</i>t, immobile) ; spirituellement il est un guerrier' (Pahl. Comm.).
 
-[^1625]: 361:1 Voir Vend. p. 94, note 1.
+[^1554]: 361:1 Voir Vend. p. 94, note 1.
 
-[^1626]: 361:2 Cf. Vend. XVIII, 26-27.
+[^1555] : 361:2 Cf. Vend. XVIII, 26-27.
 
-[^1628]: 361:3 De Yasna XXXIV, 4.
+[^156] : 361 : 3 De Yasna XXXIV, 4.
 
-[^1629]: 361:4 'Dans le var nîrang' (Pahl. Comm.), c'est-à-dire dans l'épreuve du feu ; voir ci-dessus, [p. 170](../Yasts_12#p170), note [3](../Yasts_12#fn787).
+[^1557]: 361:4 'Dans le var nîrang' (Pahl. Comm.), c'est-à-dire dans l'épreuve du feu ; voir ci-dessus, [p. 170](../Yasts_12#p170), note [3](../Yasts_12#fn787).

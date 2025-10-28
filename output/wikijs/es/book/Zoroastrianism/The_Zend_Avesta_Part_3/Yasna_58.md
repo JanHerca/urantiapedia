@@ -78,36 +78,36 @@ MITRA.
 
 ## Notas al pie
 
-[^1282]: 306:1 Esta pieza en dialecto gático se remonta al siglo XII. Recuerda a los gâthas en muchos aspectos. El ganadero se identifica con el labrador ahorrativo y es el santo típico.
+[^1272]: 306:1 Esta pieza en dialecto gático se remonta al siglo XII. Recuerda a los gâthas en muchos sentidos. El ganadero se identifica con el labrador ahorrativo y es el santo típico.
 
-[^1283]: 306:2 El Pahlavi tiene una transcripción parcial; pero la palabra es oscura.
+[^1273]: 306:2 El Pahlavi tiene una transcripción parcial; pero la palabra es oscura.
 
-[^1284]: 306:3 Véase nipâtû.
+[^1274]: 306:3 Véase nipâtû.
 
-[^1285]: 306:4 Nem<i>e</i> con K11.
+[^1275]: 306:4 Nem<i>e</i> con K11.
 
-[^1286]: 306:5 Hâ + ge<i>t</i>; comp. indio sa + gha<i>t</i>; o posiblemente de ha<i>k</i>.
+[^1276]: 306:5 Hâ + ge<i>t</i>; comp. indio sa + gha<i>t</i>; o posiblemente de ha<i>k</i>.
 
-[^1287]: 306:6 'Haz mención de.'
+[^1277]: 306:6 'Haz mención de.'
 
-[^1288]: 307:1 Khshmâvatô es a menudo gático y significa 'Tú'.
+[^1278]: 307:1 Khshmâvatô a menudo significa gático 'Tú'.
 
-[^1289]: 307:2 Pâzand, pues fshûsh<i>e</i> es plural, y no gático. O bien, «hacemos a los hombres ganaderos (los invitamos a serlo)».
+[^1279]: 307:2 Pâzand, pues fshûsh<i>e</i> es plural y no gático. O bien, «hacemos a los hombres ganaderos (los invitamos a serlo)».
 
-[^1290]: 307:3 La creación se menciona en relación con el rebaño. El santo típico encabeza la creación pura.
+[^1280]: 307:3 La creación se menciona en relación con el rebaño. El santo típico se sitúa a la cabeza de la creación pura.
 
-[^1291]: 307:4 ¿De quién?
+[^1281]: 307:4 ¿De quién?
 
-[^1292]: 307:5 Véase más abajo.
+[^1282]: 307:5 Véase más abajo.
 
-[^1293]: 307:6 Raíz vi + dâ (dhishâ); así también el Pahl. 'barâ dahi<i>s</i>nîh.'
+[^1283]: 307:6 Raíz vi + dâ (dhishâ); así también el Pahl. 'barâ dahi<i>s</i>nîh.'
 
-[^1294]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. La palabra es difícil.
+[^1284]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. La palabra es difícil.
 
-[^1295]: 308:1 O, 'los santos varones y mujeres (los Amesha)'.
+[^1285]: 308:1 O, 'los santos varones y mujeres (los Amesha)'.
 
-[^1296]: 308:2 Y. XXXIV, 7.
+[^1286]: 308:2 Y. XXXIV, 7.
 
-[^1297]: 308:3 Lit. 'que seamos contemplados de cerca por las luces creativas', etc.
+[^1287]: 308:3 Lit. 'que seamos contemplados de cerca por las luces creativas', etc.
 
-[^1298]: 308:4 Alusión a maz<i>e</i>\-y<i>a</i>unghô.
+[^1288]: 308:4 Alusión a maz<i>e</i>\-y<i>a</i>unghô.

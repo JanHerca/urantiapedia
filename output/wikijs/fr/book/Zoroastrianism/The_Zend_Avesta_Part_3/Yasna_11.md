@@ -92,34 +92,34 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1020]: 244:5 Ce fragment caractéristique est repris et étendu dans la littérature parsis ultérieure. La malédiction de la vache, du cheval et de Haoma (scilicet le prêtre) lorsqu'ils sont avares, s'étend à tous les animaux domestiques. Il a été difficile d'éviter le rythme métrique complet de l'original avec sa cadence tintinnabulante. Une liberté totale n'est pas non plus évitée.
+[^1014]: 244:5 Ce fragment caractéristique est repris et étendu dans la littérature parsis ultérieure. La malédiction de la vache, du cheval et de Haoma (le prêtre Scilicet) lorsqu'ils sont privés de leurs biens, s'étend à tous les animaux domestiques. Il a été difficile d'éviter le rythme métrique intégral de l'original, avec sa cadence tintante. Une liberté totale n'est pas non plus évitée.
 
-[^1021]: 244:6 Pas « au prêtre » ; Ner. g<i>ri</i>hîtâram.
+[^1015]: 244:6 Pas « au prêtre » ; Ner. g<i>ri</i>hîtâram.
 
-[^1022]: 245:1 « Qui ne me donne pas de nourriture cuite » semble improbable. Si <i>h</i><i>v</i>âstãm signifie fourrage, pourquoi est-il au féminin, surtout ici avec un corrélatif féminin ? Je pense que « manger de la bonne nourriture » ​​est le sens du mot, en tant qu'adjectif, et en accord avec gãm compris. Peut-être « qui ne me donne pas comme à celui qui est bien nourri ».
+[^1016]: 245:1 « Qui ne me donne pas de nourriture cuite » semble improbable. Si <i>h</i><i>v</i>âstãm signifie fourrage, pourquoi est-il au féminin, surtout ici avec un corrélatif féminin ? Je pense que « bien manger » est le sens du mot, en tant qu'adjectif, et s'accorde avec gãm compris. Peut-être « qui ne me donne pas comme à celui qui est bien nourri ».
 
-[^1023]: 245:2 Utilisé dialectiquement.
+[^1017]: 245:2 Utilisé dialectiquement.
 
-[^1024]: 245:3 « La lumière est l'ivresse du Haoma » ; (d'autres substances toxiques frappent la tête).
+[^1018]: 245:3 'La lumière est l'ivresse du Haoma;' (d'autres toxiques frappent la tête).
 
-[^1025]: 245:4 'Avoir la mort au loin.'
+[^1019]: 245:4 'Avoir la mort au loin.'
 
-[^1026]: 246:1 Un roi touranien.
+[^1020] : 246 : 1 Un roi touranien.
 
-[^1027]: 246:2 Observez la division triple de la terre ; voyez-la aussi dans Vend. II.
+[^1021]: 246:2 Observez la division triple de la terre ; voyez-la aussi dans Vend. II.
 
-[^1028]: 246:3 Une reproduction poétique. Z. avait longtemps été parmi les morts anciens.
+[^1022]: 246:3 Une reproduction poétique. Z. avait longtemps été parmi les morts anciens.
 
-[^1029]: 246:4 Le Raspi remet actuellement la coupe Haoma au prêtre à ce moment-là ; l'efficacité de la liqueur est censée être multipliée.
+[^1023]: 246:4 Le Raspi remet actuellement la coupe Haoma au prêtre à ce moment-là ; l'efficacité de la liqueur est supposée être multipliée.
 
-[^1030]: 246:5 Pe<i>n</i>daidyâi doit être lu comme bien sûr ; la lettre ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), un peu comme ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) dans un manuscrit, lorsqu'elle était tournée, était probablement à moitié inversée.
+[^1024]: 246:5 Pe<i>n</i>daidyâi doit être lu comme bien sûr ; la lettre ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), un peu comme ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) dans un manuscrit, lorsqu'elle était tournée, était probablement à moitié inversée.
 
-[^1031]: 246:6 Ceci semble être rendu par les Pahlavi comme un interlude entre le Ratu et le Zaotar ; comp. Y. XXVIII, 11. Plusieurs phrases brisées d'autres parties de l'Avesta sont ici rappelées de manière douteuse, peut-être comme ayant une sainteté particulière.
+[^1025]: 246:6 Ceci semble être traduit par les Pahlavi comme un interlude entre le Ratu et le Zaotar ; comp. Y. XXVIII, 11. Plusieurs phrases interrompues d'autres parties de l'Avesta sont ici rappelées de manière douteuse, peut-être comme ayant une sainteté particulière.
 
-[^1032]: 246:7 Le Raspi apporte le récipient Haoma au Baresman à ce point ; et touchant son support, le Mâh-rû, pose un tissu sur la main droite du Zaotar, qui, regardant le récipient, se met à réciter comme suit au verset 10.
+[^1026]: 246:7 Le Raspi apporte le récipient Haoma au Baresman à ce point ; et touchant son support, le Mâh-rû, pose un tissu sur la main droite du Zaotar, qui, regardant le récipient, se met à réciter comme suit au verset 10.
 
-[^1033]: 247:1 Voir Y. VIII, 5-8.
+[^1027] : 247 : 1 Voir Y. VIII, 5-8.
 
-[^1034]: 247:2 Voir Y. III, 24, 25.
+[^1028] : 247 : 2 Voir Y. III, 24, 25.
 
-[^1035]: 247:3 Ce morceau est en dialecte gâtique, et constitue donc un prélude particulièrement approprié à la Confession de foi de Y. XII.
+[^1029]: 247:3 Ce morceau est en dialecte gâtique, et constitue donc un prélude particulièrement approprié à la Confession de foi de Y. XII.

@@ -68,14 +68,14 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1319]: 312:4 De Harlez, ‘faisons retentir.’
+[^1308]: 312:4 De Harlez, ‘faisons retentir.’
 
-[^1320]: 312:5 The Pahlavi perhaps ‘diminishers;’ Darmesteter, ‘causing to pine.’
+[^1309]: 312:5 The Pahlavi perhaps ‘diminishers;’ Darmesteter, ‘causing to pine.’
 
-[^1321]: 313:1 ‘Cannibals’ has been suggested as the meaning here.
+[^1310]: 313:1 ‘Cannibals’ has been suggested as the meaning here.
 
-[^1322]: 313:2 The later Zendiks are of course not meant, unless we have an interpolation.
+[^1311]: 313:2 The later Zendiks are of course not meant, unless we have an interpolation.
 
-[^1323]: 313:3 Citation from the Gâthas, Y. XLV, 6.
+[^1312]: 313:3 Citation from the Gâthas, Y. XLV, 6.
 
-[^1324]: 313:4 Citations follow.
+[^1313]: 313:4 Citations follow.

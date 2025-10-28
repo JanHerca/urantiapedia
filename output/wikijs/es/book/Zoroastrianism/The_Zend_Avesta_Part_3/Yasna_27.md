@@ -78,24 +78,24 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1180]: 280:1 Dazdyâi sería un infinitivo de imperativo; pero aquí se refiere al Ahuna. Podríamos decir: «Que esto se traduzca», etc.
+[^1171]: 280:1 Dazdyâi sería un infinitivo de imperativo; pero aquí se refiere al Ahuna. Podríamos decir: «Que esto se traduzca», etc.
 
-[^1181]: 280:2 Véase Y. XXXIV, 5.
+[^1172]: 280:2 Véase Y. XXXIV, 5.
 
-[^1182]: 280:3 Refiriéndose al Ahû y Ratu del Ahuna, pero con aplicación errónea.
+[^1173]: 280:3 Refiriéndose al Ahû y Ratu del Ahuna, pero con aplicación errónea.
 
-[^1183]: 280:4 Comp. Vend. XIX, 9 (Wg.).
+[^1174]: 280:4 Comp. Vend. XIX, 9 (Wg.).
 
-[^1184]: 280:5 El Ahuna aparece aquí en el manuscrito con Y. XXXIV, 5, el â airy<i>e</i>mâ y el Ashem Vohû.
+[^1175]: 280:5 El Ahuna aparece aquí en el manuscrito con Y. XXXIV, 5, el â airy<i>e</i>mâ y el Ashem Vohû.
 
-[^1185]: 280:6 Mãzâ rayâ; de otro modo mãzarayâ, con grandeza (véase Y. XLIII, 12).
+[^1176]: 280:6 Mãzâ rayâ; de otro modo mãzarayâ, con grandeza (véase Y. XLIII, 12).
 
-[^1186]: 281:1 Aquí los sacerdotes parsis manipulan ahora los morteros.
+[^1177]: 281:1 Aquí los sacerdotes parsis manipulan ahora los morteros.
 
-[^1187]: 281:2 Véase Y. XXXIII, 11-14; y Y. I, 23, y Y. XII.
+[^1178]: 281:2 Véase Y. XXXIII, 11-14; y Y. I, 23, y Y. XII.
 
-[^1188]: 281:3 Véase Y. XXXIV, 15. Sigue el Ashem.
+[^1179]: 281:3 Véase Y. XXXIV, 15. Sigue el Ashem.
 
-[^1189]: 281:4 O, 'el mejor'.
+[^1180]: 281:4 O, 'el mejor'.
 
-[^1190]: 281:5 Sigue el YêNhê hâtãm. Para Y. XXVIII-XXXIV, véase el Gâtha Ahunavaiti arriba, págs. [2](../Gathas_Introduction#p2)\-[194](../Gathas_53#p194).
+[^1181]: 281:5 Sigue el YêNhê hâtãm. Para Y. XXVIII-XXXIV, véase el Gâtha Ahunavaiti arriba, págs. [2](../Gathas_Introduction#p2)\-[194](../Gathas_53#p194).

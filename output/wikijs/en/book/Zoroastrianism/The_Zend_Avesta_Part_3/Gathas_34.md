@@ -135,8 +135,7 @@ Translation.
 [^411]: 83:5 I suppose that it is possible that khshmâvatô, here and elsewhere, may refer to the human subject, ‘to the praise of your worshipper,’ p. 84 but it does not sound at all natural. I think that khshmâvatô is merely another way of saying ‘of you,’ as mava<i>n</i>t = me. So the Pahlavi also seems to render here: Avô zak î lekûm va nîyâyî<i>s</i>nŏ. Ner. also: Samâga<i>k</i><i>kh</i>âmi yushmâkam namask<i>ri</i>taye, Mahâ<i>g</i><i>ñ</i>ânin.
 
 [^412]: 84:1 This recalls the dasemê-stûtãm of Y. XXVIII, 10.
-
-The Pahlavi renders freely and not uncritically, regarding the spe<i>n</i>ta nar as Zarathu<i>s</i>tra himself: Aftânŏ dên Garô<i>d</i>mânŏ stâyem. Ner.: Garothmâne staumi te.
+  The Pahlavi renders freely and not uncritically, regarding the spe<i>n</i>ta nar as Zarathu<i>s</i>tra himself: Aftânŏ dên Garô<i>d</i>mânŏ stâyem. Ner.: Garothmâne staumi te.
 
 [^413]: 84:2 So also the translations: Aîgha<i>s</i> parvari<i>s</i>n va min frarûnîh. Ner.: Uttamena pratipâlyâ manasâ. Compare Y. XXXII, 2: sâremanŏ khshathrâ<i>t</i>. The singular verb is difficult.
 
@@ -175,8 +174,7 @@ The Pahlavi renders freely and not uncritically, regarding the spe<i>n</i>ta nar
 [^430]: 87:2 Min valman<i>s</i>ân barâ rakhîk aîtŏ Vohûman. Asmanô seems an impossible reading, and cannot be reconciled with Vohû.
 
 [^431]: 87:3 The hint of the Pahlavi points, as usual, to the general sense, leaving us the task of discovering the grammatical structure.
-
-Here I do not follow the indication of sedkûnyên; Ner. parikshipyanti. The voc. ‘O Thou’ is free.
+  Here I do not follow the indication of sedkûnyên; Ner. parikshipyanti. The voc. ‘O Thou’ is free.
 
 [^432]: 87:4 So also in general the Pahlavi: Min valman<i>s</i>ân kabed Aharâyîh se<i>g</i>dak; Ner. tebhya<i>h</i>\* prabhuto dharma<i>h</i>\* prabhra<i>s</i>yati.
 

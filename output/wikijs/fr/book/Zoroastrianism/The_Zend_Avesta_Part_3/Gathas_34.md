@@ -133,8 +133,7 @@ Traduction.
 [^411]: 83:5 Je suppose qu'il est possible que khshmâvatô, ici et ailleurs, puisse se référer au sujet humain, « à la louange de votre adorateur », p. 84, mais cela ne semble pas du tout naturel. Je pense que khshmâvatô est simplement une autre façon de dire « de vous », car mava<i>n</i>t = moi. Ainsi, le Pahlavi semble également rendre ici : Avô zak î lekûm va nîyâyî<i>s</i>nŏ. Ner. aussi : Samâga<i>k</i><i>kh</i>âmi yushmâkam namask<i>ri</i>taye, Mahâ<i>g</i><i>ñ</i>ânin.
 
 [^412]: 84:1 Ceci rappelle le dasemê-stûtãm de Y. XXVIII, 10.
-
-Le Pahlavi traduit librement et non sans esprit critique, en considérant le spe<i>n</i>ta nar comme étant Zarathu<i>s</i>tra lui-même : Aftânŏ dên Garô<i>d</i>mânŏ stâyem. Ner. : Garothmâne staumi te.
+  Le Pahlavi traduit librement et non sans esprit critique, en considérant le spe<i>n</i>ta nar comme étant Zarathu<i>s</i>tra lui-même : Aftânŏ dên Garô<i>d</i>mânŏ stâyem. Ner. : Garothmâne staumi te.
 
 [^413]: 84:2 De même pour les traductions : Aîgha<i>s</i> parvari<i>s</i>n va min frarûnîh. Nér. : Uttamena pratipâlyâ manasâ. Comparer Y. XXXII, 2 : sâremanŏ khshathrâ<i>t</i>. Le verbe singulier est difficile.
 
@@ -173,8 +172,7 @@ Le Pahlavi traduit librement et non sans esprit critique, en considérant le spe
 [^430]: 87:2 Min valman<i>s</i>ân barâ rakhîk aîtŏ Vohûman. Asmanô semble une lecture impossible, et inconciliable avec Vohû.
 
 [^431]: 87:3 L'allusion du Pahlavi pointe, comme d'habitude, vers le sens général, nous laissant la tâche de découvrir la structure grammaticale.
-
-Ici je ne suis pas l'indication de sedkûnyên ; Ner. parikshipyanti. Le voc. « Ô Toi » est libre.
+  Ici je ne suis pas l'indication de sedkûnyên ; Ner. parikshipyanti. Le voc. « Ô Toi » est libre.
 
 [^432]: 87:4 De même en général les Pahlavi : Min valman<i>s</i>ân kabed Aharâyîh se<i>g</i>dak ; Ner. tebhya<i>h</i>\* prabhuto dharma<i>h</i>\* prabhra<i>s</i>yati.
 

@@ -84,20 +84,20 @@ Y adoramos el cielo y la tierra del don bendito, y el generoso Mãthra, y las es
 
 ## Notas al pie
 
-[^1080]: 255:2 Así que el traductor Pahlavi, probablemente leyendo angheu<i>s</i>; de lo contrario, pág. 256, «de la conciencia que ama lo correcto». En Ya<i>s</i>t XIII, 118, la palabra es un nombre propio por error.
+[^1072]: 255:2 Así que el traductor Pahlavi, probablemente leyendo angheu<i>s</i>; de lo contrario, pág. 256, «de la conciencia que ama lo correcto». En Ya<i>s</i>t XIII, 118, la palabra es un nombre propio por error.
 
-[^1081]: 256:1 Posiblemente en alusión a la menstruación. La luna es masculina.
+[^1073]: 256:1 Posiblemente en alusión a la menstruación. La luna es masculina.
 
-[^1083]: 257:1 No podemos confundir aquí una conexión con yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
+[^1074]: 257:1 No podemos confundir aquí una conexión con yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
 
-[^1084]: 257:2 ¿O es posible que se refiera a una plaga de ratones, siendo mû<i>s</i> aquí indeclinable?
+[^1075]: 257:2 ¿O es posible que se refiera a una plaga de ratones, siendo mû<i>s</i> aquí indeclinable?
 
-[^1085]: 257:3 Ordenando la ejecución de muchos de sus súbditos.
+[^1076]: 257:3 Ordenando la ejecución de muchos de sus súbditos.
 
-[^1086]: 257:4 Gaêthyâ<i>k</i>a con J3, K11.
+[^1077]: 257:4 Gaêthyâ<i>k</i>a con J3, K11.
 
-[^1087]: 257:5 Asociación posterior de Â. y la tierra.
+[^1078]: 257:5 Asociación posterior de Â. y la tierra.
 
-[^1088]: 257:6 Originalmente recitado en casas privadas.
+[^1079]: 257:6 Originalmente recitado en casas privadas.
 
-[^1089]: 257:7 Alternativa.
+[^1080]: 257:7 Alternativa.

@@ -74,16 +74,16 @@ Sacrificamos a las diversas partes del Asha Vahi<i>s</i>sta (oración). Sacrific
 
 ## Notas al pie
 
-[^1144]: 266:5 En otros lugares verbalmente diferente; 'cuando Asha está a favor de AV'
+[^1135]: 266:5 En otros lugares verbalmente diferente; 'cuando Asha está a favor de AV'
 
-[^1145]: 267:1 Se lleva a cabo; posiblemente 'se hace apto para ser alabado'(?).
+[^1136]: 267:1 Se lleva a cabo; posiblemente 'se hace apto para ser alabado'(?).
 
-[^1146]: 267:2 El Pahlavi indica nâ stâitya (?).
+[^1137]: 267:2 El Pahlavi indica nâ stâitya (?).
 
-[^1147]: 267:3 Ashavanem aquí y en Y. XIX, 19 podría ser un neutro de una transición o adición.
+[^1138]: 267:3 Ashavanem aquí y en Y. XIX, 19 podría ser un neutro de una transición o adición.
 
-[^1148]: 267:4 'Asem.
+[^1139]: 267:4 'Asem.
 
-[^1149]: 267:5 Esta adición catequética es idéntica a la de Y. XIX. Solo la redacción se altera ligeramente en la traducción para aliviar la similitud.
+[^1140]: 267:5 Esta adición catequética es idéntica a la de Y. XIX. Solo la redacción se altera ligeramente en la traducción para aliviar la similitud.
 
-[^1150]: 268:1 Sigue el YêNhê hâtãm.
+[^1141]: 268:1 Sigue el YêNhê hâtãm.

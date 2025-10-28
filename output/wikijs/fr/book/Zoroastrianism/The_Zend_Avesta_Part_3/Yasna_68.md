@@ -86,28 +86,28 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1354]: 321:1 Le traducteur Pahlavi a vu la racine av dans ce sens ici avec K4, 11; P6, mais la forme est étrange.
+[^1343]: 321:1 Le traducteur Pahlavi a vu la racine av dans ce sens ici avec K4, 11; P6, mais la forme est étrange. 
 
-[^1355]: 321:2 Ainsi, les Pahlavi indiquent sans suggestion impossible.
+[^1344]: 321:2 Le Pahlavi indique donc sans suggestion impossible. 
 
-[^1356]: 322:1 Ou « vertueux », avec Darmesteter.
+[^1345]: 322:1 Ou 'vertueux', avec Darmesteter. 
 
-[^1357]: 322:2 Peux-tu t'asseoir.
+[^1346]: 322:2 Puisses-tu t'asseoir. 
 
-[^1358]: 322:3 Ce sont les ya<i>s</i>tars.
+[^1347]: 322:3 Zôtŏ î ya<i>s</i>tar hômanam. 
 
-[^1359]: 323:1 Ou, « le prêtre continue de parler au nom du peuple ».
+[^1348]: 323:1 Ou, 'le prêtre continue de parler pour le peuple.' 
 
-[^1360]: 323:2 Voir ci-dessous.
+[^1349]: 323:2 Voir ci-dessous. 
 
-[^1361]: 323:3 Ou, « ce désir, la connaissance ».
+[^1350]: 323:3 Ou, 'ce désir, la connaissance.' 
 
-[^1362]: 323:4 Ou, « du Feu »
+[^1351]: 323:4 Ou, 'du Feu' 
 
-[^1363]: 324:1 Ou, 'la bonne sagesse' du deuxième dâ (bon ajustement).
+[^1352]: 324:1 Ou, 'la bonne sagesse' du deuxième dâ (bon ajustement). 
 
-[^1364]: 324:2 Les passages suivent de Y. XXXVIII, 2-5.
+[^1353]: 324:2 Des passages suivent de Y. XXXVIII, 2-5. 
 
-[^1365]: 324:3 Le Veau Gâtique.
+[^1354]: 324:3 Le Kine Gâthique. 
 
-[^1366]: 324:4 Voir Y. XXXIII, 10. Les citations suivent de Y. XXXVI, 6 ; Y. XLIII, 6, également l'Ashem et Y. III, 24, 25 ; puis Y. XLVII, 1-7. Puis les mots « nous adorons le chapitre Spe<i>n</i>tâ-mainyu depuis le début », puis le YêNhê hâtãm.
+[^1355]: 324:4 Voir Y. XXXIII, 10. Des citations suivent de Y. XXXVI, 6; Y.XLIII, 6, ainsi que l'Ashem et Y. III, 24, 25 ; puis Y. XLVII, 1-7. Puis les mots « nous adorons le chapitre Spe<i>n</i>tâ-mainyu depuis le début », puis le YêNhê hâtãm.

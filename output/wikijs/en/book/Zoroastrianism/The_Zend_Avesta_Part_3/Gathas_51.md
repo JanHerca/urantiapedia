@@ -141,12 +141,10 @@ Translation.
 [^788]: 178:2 The choice one.
 
 [^789]: 178:3 One is somewhat inclined to regard vîdushemnâi<i>s</i> as a monstrous form of vid, which has crept into the text under the influence of the two words vîdushê in verse 8, and owing to an attempt to fill out the metre, the original word having been vîdemnâi<i>s</i>. The Pahlavi gives no indication except for a form of dû = to give. Leaving the MSS. intact, I compare dush + vi.
-
-I render as above on the principle that the text in the MSS. should not be violated where it is possible to translate it at all. Reading vîdemnâi<i>s</i> we might render, 'that kingdom's privileges are shared (it is entered and penetrated) by men who act (by actions) in a manner to further its security, (by actions gaining it).’
+  I render as above on the principle that the text in the MSS. should not be violated where it is possible to translate it at all. Reading vîdemnâi<i>s</i> we might render, 'that kingdom's privileges are shared (it is entered and penetrated) by men who act (by actions) in a manner to further its security, (by actions gaining it).’
 
 [^790]: 179:1 I have rather reluctantly read yê<i>k</i>â with long ê. Having in mind Y. XXX, 1, where Sp.'s B. reads yaê<i>k</i>â, and reading yaê<i>k</i>â here, we might regain the lost dual neuter of the pronoun here as in Y. XXX, 1, and so render, ‘and which two things belong to thee, the possession (rule) of wealth and the blessings.’
-
-Roth, cited by Geldner, changes to ashayaê<i>k</i>â here and in Y. XXX, 1; and it is certainly striking that ashâ yê<i>k</i>â should occur twice. I render as above, first, as, nearer our MSS., and as affording a good sense.
+  Roth, cited by Geldner, changes to ashayaê<i>k</i>â here and in Y. XXX, 1; and it is certainly striking that ashâ yê<i>k</i>â should occur twice. I render as above, first, as, nearer our MSS., and as affording a good sense.
 
 [^791]: 179:2 See Y. XXXI, 17.
 
@@ -171,8 +169,7 @@ Roth, cited by Geldner, changes to ashayaê<i>k</i>â here and in Y. XXX, 1; and
 [^801]: 181:5 Or, ‘from the two ara<i>n</i>i;’ see notes on Y. XXXI, 3 and Y. XLIII, 12.
 
 [^802]: 182:1 Compare Y. XXXII, 7, <i>h</i><i>v</i>aênâ ayanghâ (lit. iron).
-
-Others see the ordeal of fire here, and the bath of melted metal from which the righteous suffers nothing, but in which the sinner is consumed, but râshayanghê seems to point to injury produced otherwise than by dipping, and dakhshta certainly designates a metallic instrument elsewhere; ‘sign’ is, however, the original meaning.
+  Others see the ordeal of fire here, and the bath of melted metal from which the righteous suffers nothing, but in which the sinner is consumed, but râshayanghê seems to point to injury produced otherwise than by dipping, and dakhshta certainly designates a metallic instrument elsewhere; ‘sign’ is, however, the original meaning.
 
 [^803]: 182:2 So several times; comp. Y. XXVIII, 3, where the depth is unmistakable; see also Y. XXXI, 18 with ahûbî<i>s</i> in the next verse.
 

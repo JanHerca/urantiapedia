@@ -102,88 +102,88 @@ CATEQUESISMO ZAND [^1122].
 
 ## Notas al pie
 
-[^1101]: 259:5 Los errores obvios que contiene este antiguo comentario no pueden (pág. 260) destruir su gran interés como ejemplo de exégesis temprana. Donde lo considero erróneo se puede ver en mi traducción del Ahuna sin más observaciones. El Ahuna-vairya está en el dialecto gático y la métrica ahunavaiti. Este Zand está en el Zend (sic). Ahû tiene mejor sentido como nombre.
+[^1092]: 259:5 Los errores obvios que contiene este antiguo comentario no pueden (pág. 260) destruir su gran interés como ejemplo de exégesis temprana. Donde lo considero erróneo se puede ver en mi traducción del Ahuna sin más observaciones. El Ahuna-vairya está en el dialecto gático y la métrica ahunavaiti. Este Zand está en el Zend (sic). Ahû tiene un mejor sentido como nombre.
 
-[^1102]: 260:1 Véase el párrafo d<i>a</i>unghôi<i>t</i> a continuación.
+[^1093]: 260:1 Véase el párrafo siguiente.
 
-[^1103]: 260:2 ¿No podría ser khrafstra una degeneración de kehrp-astar? Si bien el término puede aplicarse a animales salvajes, se tiende a afirmar que se refiere principalmente a insectos repugnantes.
+[^1094]: 260:2 ¿No podría ser khrafstra una degeneración de kehrp-astar? Si bien el término puede aplicarse a animales salvajes, se tiende a afirmar que se refiere principalmente a insectos repugnantes.
 
-[^1104]: 260:3 Esta parte del Ahuna (?), es decir, sus diversas partes.
+[^1095]: 260:3 Esta parte del Ahuna (?), es decir, sus varias partes.
 
-[^1105]: 260:4 La tradición naturalmente especifica Gaya Maretan.
+[^1096]: 260:4 La tradición naturalmente especifica Gaya Maretan.
 
-[^1106]: 261:1 No creo que se pretenda una mala pronunciación; el Pahlavi tiene abarâ shûtakîh; aîgha<i>s</i> barâ lâ khelmûnê<i>d</i>; Ner. na <i>s</i>ete. Me inclino fuertemente a leer anapashûta en lugar de anapishûta.
+[^1097]: 261:1 No creo que se pretenda una mala pronunciación; el Pahlavi tiene abarâ shûtakîh; aîgha<i>s</i> barâ lâ khelmûnê<i>d</i>; Ner. na <i>s</i>ete. Me inclino fuertemente a leer anapashûta en lugar de anapishûta.
 
-[^1107]: 261:2 Tres veces me parece que carece de sentido, pero puede haber dado lugar a una creencia tonta de que el alma fue tres veces antes de la muerte al cielo.
+[^1098]: 261:2 Tres veces me parece que carece de sentido, pero puede haber dado lugar a una creencia tonta de que el alma fue tres veces antes de la muerte al cielo.
 
-[^1108]: 261:3 Vahi<i>s</i>taêibyô conservando este sentido aquí.
+[^1099]: 261:3 Vahi<i>s</i>taêibyô conservando este sentido aquí.
 
-[^1109]: 262:1 Îm aquí es igual a iyám.
+[^1100]: 262:1 Îm aquí es igual a iyám.
 
-[^1110]: 262:2 Pazand.
+[^1101]: 262:2 Vigilancia.
 
-[^1111]: 262:3 Entonces, refiriéndonos a la redacción del Ahuna.
+[^1102]: 262:3 Entonces, refiriéndonos a la redacción del Ahuna.
 
-[^1112]: 262:4 Permitiéndonos recibir las bendiciones que otorgan mediante la influencia del sol. «La materia con forma solar» nos daría un materialismo. El Pahlavi dice: «levînŏ min zak khurkhshê<i>d</i>ŏ brînŏ (?) kerpŏ tanû î khûrkhshê<i>d</i> pavan barâ ayâpakîh î ameshnspendânŏ yehabûn<i>d</i>».
+[^1103]: 262:4 Permitiéndonos recibir las bendiciones que otorgan mediante la influencia del sol. «La materia con forma solar» nos daría un materialismo. El Pahlavi dice: «levînŏ min zak khurkhshê<i>d</i>ŏ brînŏ (?) kerpŏ tanû î khûrkhshê<i>d</i> pavan barâ ayâpakîh î ameshnspendânŏ yehabûn<i>d</i>».
 
-[^1113]: 262:5 Sostengo que Ahura no habla más aquí.
+[^1104]: 262:5 Sostengo que Ahura no habla más aquí.
 
-[^1114]: 262:6 Véase Y. XLV, 1.
+[^1105]: 262:6 Véase Y. XLV, 1.
 
-[^1115]: 262:7 Por supuesto ficticio, ya que Z. había estado entre los muertos durante mucho tiempo.
+[^1106]: 262:7 Por supuesto ficticio, ya que Z. había estado entre los muertos durante mucho tiempo.
 
-[^1116]: 262:8 ¿Bavai<i>n</i>ti<i>k</i>a significa 'pasado'?
+[^1107]: 262:8 ¿Bavai<i>n</i>ti<i>k</i>a significa 'pasado'?
 
-[^1117]: 262:9 A través del estado de acción; <i>s</i>kyaothananãm angheu<i>s</i> Mazdâi.
+[^1108]: 262:9 A través del estado de acción; <i>s</i>kyaothananãm angheu<i>s</i> Mazdâi.
 
-[^1118]: 262:10 ¿Puede mruyê(-vê) ser un tercer singular como ghnê, isê?
+[^1109]: 262:10 ¿Puede mruyê(-vê) ser un tercer singular como ghnê, isê?
 
-[^1119]: 263:1 O bien, 'se nos ha declarado a nosotros, el aprendiz y el encargado del ritual'.
+[^1110]: 263:1 O bien, 'se nos ha declarado a nosotros, los aprendices y los encargados del ritual'.
 
-[^1120]: 263:2 En las palabras yathâ ahû vairyô, athâ ratu<i>s</i>.
+[^1111]: 263:2 En las palabras yathâ ahû vairyô, athâ ratu<i>s</i>.
 
-[^1121]: 263:3 Véase dazda mananghô, que viene 'antes' de <i>s</i>kyaothananãm angh<i>e</i>u<i>s</i>, khshathrem y vâstârem.
+[^1112]: 263:3 Véase dazda mananghô, que viene 'antes' de <i>s</i>kyaothananãm angh<i>e</i>u<i>s</i>, khshathrem y vâstârem.
 
-[^1122]: 263:4 ¿Acaso los Ahuna han perdido palabras? ¿Es Mazd<i>a</i>u hu<i>g</i>itî<i>s</i> vangh<i>e</i>u<i>s</i> una cita? En todos los casos, el zandista se equivoca al separar vangh<i>e</i>u<i>s</i> de mananghô. Atribuye un significado místico a cada palabra.
+[^1113]: 263:4 ¿Acaso los Ahuna han perdido palabras? ¿Es Mazd<i>a</i>u hu<i>g</i>itî<i>s</i> vangh<i>e</i>u<i>s</i> una cita? En todos los casos, el zandista se equivoca al separar vangh<i>e</i>u<i>s</i> de mananghô. Atribuye un significado místico a cada palabra.
 
-[^1123]: 263:5 Comp. aha-<i>s</i>kyaothananãm.
+[^1114]: 263:5 Comp. aha-<i>s</i>kyaothananãm.
 
-[^1124]: 263:6 Leyendo Mazda (?).
+[^1115]: 263:6 Leyendo Mazda (?).
 
-[^1125]: 264:1 Khshathrem<i>k</i>â Ahurâi â.
+[^1116]: 264:1 Khshathrem<i>k</i>â Ahurâi â.
 
-[^1126]: 264:2 Como teniendo en el corazón el interés de los pobres.
+[^1117]: 264:2 Como teniendo en el corazón el interés de los pobres.
 
-[^1127]: 264:3 Suponiendo que Ahura (?) se refiere a Ahû y Ratu; véase Mazdâi Ahurâi. El zandista podría haber traducido: Así como Ahura es el (primero) en ser elegido, Él es nuestro Ratu por Su rectitud, el creador de Vohûman (incluyendo a todas las criaturas buenas), etc.
+[^1118]: 264:3 Suponiendo que Ahura (?) se refiere a Ahû y Ratu; véase Mazdâi Ahurâi. El zandista podría haber traducido: Así como Ahura es el (primero) en ser elegido, Él es nuestro Ratu por Su rectitud, el creador de Vohûman (incluyendo a todas las criaturas buenas), etc.
 
-[^1128]: 264:4 'Alabado' (?).
+[^1119]: 264:4 'Alabado' (?).
 
-[^1129]: 264:5 Lectura haithwa<i>t</i>; Pahlavi tîz; posiblemente 'estar presente'.
+[^1120]: 264:5 Lectura haithwa<i>t</i>; Pahlavi tîz; posiblemente 'estar presente'.
 
-[^1130]: 264:6 Véase Y. XLV, 2.
+[^1121]: 264:6 Véase Y. XLV, 2.
 
-[^1131]: 264:7 Este Zand difiere, en cuanto a la aplicación de Ahû y Ratu, del anterior.
+[^1122]: 264:7 Este Zand difiere, en cuanto a la aplicación de Ahû y Ratu, del anterior.
 
-[^1132]: 264:8 Afsman en otros lugares se aplica al metro.
+[^1123]: 264:8 Afsman en otros lugares se aplica al metro.
 
-[^1133]: 265:1 Éstos son ‘los pobres’, pero no mendigos.
+[^1124]: 265:1 Éstos son ‘los pobres’, pero no mendigos.
 
-[^1134]: 265:2 Una clase que no está en los Gâthas; observe el surgimiento de un sistema de castas.
+[^1125]: 265:2 Una clase que no está en los Gâthas; observe el surgimiento de un sistema de castas.
 
-[^1135]: 265:3 O, 'experiencia'.
+[^1126]: 265:3 O, 'experiencia'.
 
-[^1136]: 265:4 O, 'el ritual'.
+[^1127]: 265:4 O, 'el ritual'.
 
-[^1137]: 265:5 El título de un gobernador.
+[^1128]: 265:5 El título de un gobernador.
 
-[^1138]: 265:6 No necesitaba el quinto. Era un centro de gobierno.
+[^1129]: 265:6 No necesitaba el quinto. Era un centro de gobierno.
 
-[^1139]: 265:7 Ashavan manas paoiryô.
+[^1130]: 265:7 Ashavan manas paoiryô.
 
-[^1140]: 266:1 Probablemente los Gâthas con sus porciones perdidas, también el Vendîdâd.
+[^1131]: 266:1 Probablemente los Gâthas con sus porciones perdidas, también el Vendîdâd.
 
-[^1141]: 266:2 Estrictez ritual basada en la piedad práctica.
+[^1132]: 266:2 Rigor ritual basado en la piedad práctica.
 
-[^1142]: 266:3 El Saoshya<i>n</i>t.
+[^1133]: 266:3 El Saoshya<i>n</i>t.
 
-[^1143]: 266:4 La última parte de este Zand muestra que el Ratu fue reconocido como un gobernante humano en él.
+[^1134]: 266:4 La última parte de este Zand muestra que el Ratu fue reconocido como un gobernante humano en él.

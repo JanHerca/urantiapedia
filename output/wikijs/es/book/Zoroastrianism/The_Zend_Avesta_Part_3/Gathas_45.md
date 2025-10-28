@@ -153,8 +153,7 @@ Traducción.
 [^596]: 128:6 O, «quien nos ha creado la felicidad y la tristeza con buena intención (y como nuestra disciplina)», pero esto es poco probable. Ahura no originó el mal. Sp<i>e</i><i>n</i><i>k</i>â, asp<i>e</i><i>n</i><i>k</i>â se usan adverbialmente (véase Y. XXXIV, 7).
 
 [^597]: 128:7 No estoy de acuerdo con interpretar verez<i>e</i>ny<i>a</i>u (sic) aquí en el sentido de «hogares». El significado es «dotarnos de eficiencia» en la consecución de los objetivos mencionados en el contexto. O bien, «la propiciación y el honor reverencial» podrían haber estado más directamente en la mente del compositor; «que Él dote a nuestra (adoración) de eficiencia para que logre el resultado deseado». Véase la posición de las palabras.
-
-La traducción Pahlavi también da testimonio de la interpretación anterior, con su varzî<i>d</i>âr ayŏ lanman erróneo o libre.
+  La traducción Pahlavi también da testimonio de la interpretación anterior, con su varzî<i>d</i>âr ayŏ lanman erróneo o libre.
 
 [^598]: 129:1 Como es imposible para quienes han estudiado el tema creer que el traductor Pahlavi no conocía el significado de amavandîh en Zend, debemos suponer que tuvo alguna forma como hazah antes de él en lugar de huzã(thwâ<i>t</i>).
 

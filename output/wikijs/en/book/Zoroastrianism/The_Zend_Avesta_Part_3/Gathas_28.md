@@ -145,8 +145,7 @@ Translation.
 [^104]: 19:6 Ashi, a blessing given in reward; so elsewhere.
 
 [^105]: 20:1 I think it is better to hold by the parallel passage and the sense of ‘teach’ here. The Pahlavi has an irregular form which probably means ‘I teach,’ but might be intended for ‘I am taught.’
-
-After the words ‘so long as I have the power,’ ‘I will teach’ is rather more natural than ‘I will learn.’ Haug's rendering of this word has never been accepted. Those most opposed to tradition follow it here. Perhaps, ‘I will teach to desire R.’
+  After the words ‘so long as I have the power,’ ‘I will teach’ is rather more natural than ‘I will learn.’ Haug's rendering of this word has never been accepted. Those most opposed to tradition follow it here. Perhaps, ‘I will teach to desire R.’
 
 [^106]: 20:2 The Pahlavi translation corrected by MSS. may be rendered thus: He who gives up his soul within Garô<i>d</i>mân does so by the aid of Vohûman \[ \], and is also intelligent concerning the veneration which belongs to the doers of good works \[ \] in that which is Aûharmazd's \[religion\]; as long as I am a suppliant and have \[the power, so long do I inculcate the desire of Righteousness which is, duty and good works\].
 
@@ -200,5 +199,4 @@ After the words ‘so long as I have the power,’ ‘I will teach’ is rather 
 [^130]: 24:5 This question is answered in Y. XXX.
 
 [^131]: 24:6 Ner. improving upon the Pahlavi has as follows: Yadi sunirîksha<i>n</i>atayâ dharma<i>m</i> pâlayâmi mana<i>s</i><i>k</i>a\* uttama<i>m</i> sadâprav<i>ri</i>ttaye; \[kila, <i>k</i>et satyasya sadvyâpârasya<i>k</i>a rakshâ<i>m</i> karomi\]. Tvam tat\* Mahâ<i>g</i><i>ñ</i>ânin Svâmin! prak<i>ri</i>sh<i>t</i>am me <i>s</i>ikshâpaya\* \[ \] vâ<i>k</i>i. Ad<i>ri</i><i>s</i>ya Tvatto mukhena \[sphu<i>t</i>aya\] antar bhuvane pûrva<i>m</i> babhûva \[tâm s<i>ri</i>sh<i>t</i>im me brûhi\].
-
-A translation truly remarkable considering the circumstances under which it was made.
+  A translation truly remarkable considering the circumstances under which it was made.

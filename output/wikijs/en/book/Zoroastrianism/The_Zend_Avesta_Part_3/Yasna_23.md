@@ -66,14 +66,14 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1160]: 272:3 This chapter is said to be reserved for funeral occasions.
+[^1151]: 272:3 This chapter is said to be reserved for funeral occasions.
 
-[^1161]: 272:4 Or, ‘I pray for the approach.’ See Y. XXVI.
+[^1152]: 272:4 Or, ‘I pray for the approach.’ See Y. XXVI.
 
-[^1162]: 273:1 Fravashi seems a dative; comp. ûtî´.
+[^1153]: 273:1 Fravashi seems a dative; comp. ûtî´.
 
-[^1163]: 273:2 Zarathu<i>s</i>tra's eldest son by his wife Padokhshah; he was the chief of priests according to tradition.
+[^1154]: 273:2 Zarathu<i>s</i>tra's eldest son by his wife Padokhshah; he was the chief of priests according to tradition.
 
-[^1164]: 273:3 This Yasna was recited from house to house.
+[^1155]: 273:3 This Yasna was recited from house to house.
 
-[^1165]: 273:4 The ‘own’ soul; notice the seeming distinction between Fravashi and soul.
+[^1156]: 273:4 The ‘own’ soul; notice the seeming distinction between Fravashi and soul.

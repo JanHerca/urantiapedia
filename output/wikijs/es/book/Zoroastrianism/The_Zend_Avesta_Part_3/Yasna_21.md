@@ -64,12 +64,11 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1151]: 268:2 Las expresiones de esta oración fueron sugeridas por Y. LI, 22; pero el Zand no sigue consecuentemente las ideas del Gâtha. El término "tem" entendido debería utilizarse como objeto de yazamaidê en relación con yêNhê, así como "t<i>a</i>us<i>k</i>â" en lugar de "y<i>a</i>unghãm". Sin embargo, en Y. LI, 22 no es en absoluto seguro que "yazâi" se aplique a un "t<i>e</i>m yêhyâ". Teniendo presente el verso veintiuno, me veo obligado a referirme a "yêhyâ" a "nâ spe<i>n</i>tô". Aquí, sin embargo, se adora a hombres y mujeres, ya que es improbable que se refiera a los "Inmortales" cuyos nombres están en femenino. La oración está en dialecto gático, y la métrica antigua difícilmente contendría una formación tan artificial. Solo puede defenderse a partir del t<i>e</i><i>n</i>g yazâi <i>h</i><i>v</i>âi<i>s</i> nâm<i>e</i>nî<i>s</i> de Y. LI, 22.
+[^1142]: 268:2 Las expresiones de esta oración fueron sugeridas por Y. LI, 22; pero el Zand no sigue consecuentemente las ideas del Gâtha. El término "tem" entendido debería utilizarse como objeto de yazamaidê en relación con yêNhê, así como "t<i>a</i>us<i>k</i>â" en lugar de "y<i>a</i>unghãm". Sin embargo, en Y. LI, 22 no es en absoluto seguro que "yazâi" se aplique a un "t<i>e</i>m yêhyâ". Teniendo presente el verso veintiuno, me veo obligado a referirme a "yêhyâ" a "nâ spe<i>n</i>tô". Aquí, sin embargo, se adora a hombres y mujeres, ya que es improbable que se refiera a los "Inmortales" cuyos nombres están en femenino. La oración está en dialecto gático, y la métrica antigua difícilmente contendría una formación tan artificial. Solo puede defenderse a partir del t<i>e</i><i>n</i>g yazâi <i>h</i><i>v</i>âi<i>s</i> nâm<i>e</i>nî<i>s</i> de Y. LI, 22.
+  ¿O acaso el compositor de la oración tradujo correctamente Y. LI, 22 y escribió con audacia sus concisas palabras para que fueran claras para sus oyentes a partir de explicaciones que ahora se han perdido? Tales explicaciones (orales o escritas) existieron desde el principio. Ningún compositor deja de comentar sus producciones.
 
-¿O acaso el compositor de la oración tradujo correctamente Y. LI, 22 y escribió con audacia sus concisas palabras para que fueran claras para sus oyentes a partir de explicaciones que ahora se han perdido? Tales explicaciones (orales o escritas) existieron desde el principio. Ningún compositor deja de comentar sus producciones.
+[^1143]: 269:1 Refiriéndose a Ahura (?).
 
-[^1152]: 269:1 Refiriéndose a Ahura (?).
+[^1144]: 269:2 Apto para vivir, limpio.
 
-[^1153]: 269:2 Apto para vivir, limpio.
-
-[^1154]: 269:3 Los Ameshôspends cuyos nombres están en femenino; así lo señalan erróneamente los Zandistas.
+[^1145]: 269:3 Los Ameshôspends cuyos nombres están en femenino; así lo señalan erróneamente los Zandistas.

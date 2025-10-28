@@ -102,88 +102,88 @@ CATECHETICAL ZAND [^1122].
 
 ## Footnotes
 
-[^1101]: 259:5 The obvious errors contained in this ancient comment cannot p. 260 destroy its great interest as a specimen of early exegesis. Where I hold it to be erroneous may be seen from my rendering of the Ahuna without further observations. The Ahuna-vairya is in the Gâthic dialect, and the Ahunavaiti metre. This Zand is in the Zend (sic). Ahû gives better sense as a nom.
+[^1092]: 259:5 The obvious errors contained in this ancient comment cannot p. 260 destroy its great interest as a specimen of early exegesis. Where I hold it to be erroneous may be seen from my rendering of the Ahuna without further observations. The Ahuna-vairya is in the Gâthic dialect, and the Ahunavaiti metre. This Zand is in the Zend (sic). Ahû gives better sense as a nom.
 
-[^1102]: 260:1 See d<i>a</i>unghôi<i>t</i> para below.
+[^1093]: 260:1 See d<i>a</i>unghôi<i>t</i> para below.
 
-[^1103]: 260:2 May not khrafstra be a degeneration from kehrp-astar? While the term may be applied to wild beasts, one is strongly inclined to hold that foul insects are chiefly referred to.
+[^1094]: 260:2 May not khrafstra be a degeneration from kehrp-astar? While the term may be applied to wild beasts, one is strongly inclined to hold that foul insects are chiefly referred to.
 
-[^1104]: 260:3 This part of the Ahuna (?), meaning its several parts.
+[^1095]: 260:3 This part of the Ahuna (?), meaning its several parts.
 
-[^1105]: 260:4 Tradition naturally specifies Gaya Maretan.
+[^1096]: 260:4 Tradition naturally specifies Gaya Maretan.
 
-[^1106]: 261:1 I do not think that mispronunciation is here intended; the Pahlavi has abarâ shûtakîh; aîgha<i>s</i> barâ lâ khelmûnê<i>d</i>; Ner. na <i>s</i>ete. I am strongly inclined to read anapashûta for anapishûta.
+[^1097]: 261:1 I do not think that mispronunciation is here intended; the Pahlavi has abarâ shûtakîh; aîgha<i>s</i> barâ lâ khelmûnê<i>d</i>; Ner. na <i>s</i>ete. I am strongly inclined to read anapashûta for anapishûta.
 
-[^1107]: 261:2 Three times seems to me to lack meaning, but it may have given rise to a foolish belief that the soul went three times before death to heaven.
+[^1098]: 261:2 Three times seems to me to lack meaning, but it may have given rise to a foolish belief that the soul went three times before death to heaven.
 
-[^1108]: 261:3 Vahi<i>s</i>taêibyô retaining this sense here.
+[^1099]: 261:3 Vahi<i>s</i>taêibyô retaining this sense here.
 
-[^1109]: 262:1 Îm here equals iyám.
+[^1100]: 262:1 Îm here equals iyám.
 
-[^1110]: 262:2 Pâzand.
+[^1101]: 262:2 Pâzand.
 
-[^1111]: 262:3 So, referring to the wording of the Ahuna.
+[^1102]: 262:3 So, referring to the wording of the Ahuna.
 
-[^1112]: 262:4 Enabling us to receive the blessings which they bestow through the influence of the sun. ‘The sun-shaped matter’ would give us a materialism. The Pahlavi has ‘levînŏ min zak khurkhshê<i>d</i>ŏ brînŏ (?) kerpŏ tanû î khûrkhshê<i>d</i> pavan barâ ayâpakîh î ameshnspendânŏ yehabûn<i>d</i>.’
+[^1103]: 262:4 Enabling us to receive the blessings which they bestow through the influence of the sun. ‘The sun-shaped matter’ would give us a materialism. The Pahlavi has ‘levînŏ min zak khurkhshê<i>d</i>ŏ brînŏ (?) kerpŏ tanû î khûrkhshê<i>d</i> pavan barâ ayâpakîh î ameshnspendânŏ yehabûn<i>d</i>.’
 
-[^1113]: 262:5 I hold that Ahura speaks no further here.
+[^1104]: 262:5 I hold that Ahura speaks no further here.
 
-[^1114]: 262:6 See Y. XLV, 1.
+[^1105]: 262:6 See Y. XLV, 1.
 
-[^1115]: 262:7 Of course fictitious, as Z. had long been among the dead.
+[^1106]: 262:7 Of course fictitious, as Z. had long been among the dead.
 
-[^1116]: 262:8 Does bavai<i>n</i>ti<i>k</i>a mean ‘past?’
+[^1107]: 262:8 Does bavai<i>n</i>ti<i>k</i>a mean ‘past?’
 
-[^1117]: 262:9 Through the state of action; <i>s</i>kyaothananãm angheu<i>s</i> Mazdâi.
+[^1108]: 262:9 Through the state of action; <i>s</i>kyaothananãm angheu<i>s</i> Mazdâi.
 
-[^1118]: 262:10 Can mruyê(-vê) be a third singular like ghnê, isê?
+[^1109]: 262:10 Can mruyê(-vê) be a third singular like ghnê, isê?
 
-[^1119]: 263:1 Or, ‘it has been declared to us, the learner, and the one in charge of the ritual.’
+[^1110]: 263:1 Or, ‘it has been declared to us, the learner, and the one in charge of the ritual.’
 
-[^1120]: 263:2 In the words yathâ ahû vairyô, athâ ratu<i>s</i>.
+[^1111]: 263:2 In the words yathâ ahû vairyô, athâ ratu<i>s</i>.
 
-[^1121]: 263:3 See dazda mananghô, coming ‘before’ <i>s</i>kyaothananãm angh<i>e</i>u<i>s</i>, khshathrem, and vâstârem.
+[^1112]: 263:3 See dazda mananghô, coming ‘before’ <i>s</i>kyaothananãm angh<i>e</i>u<i>s</i>, khshathrem, and vâstârem.
 
-[^1122]: 263:4 Can the Ahuna have lost words, and is Mazd<i>a</i>u hu<i>g</i>itî<i>s</i> vangh<i>e</i>u<i>s</i> a citation? At ally events, the Zandist errs in separating vangh<i>e</i>u<i>s</i> from mananghô. He attributes mystical meaning to every word.
+[^1113]: 263:4 Can the Ahuna have lost words, and is Mazd<i>a</i>u hu<i>g</i>itî<i>s</i> vangh<i>e</i>u<i>s</i> a citation? At ally events, the Zandist errs in separating vangh<i>e</i>u<i>s</i> from mananghô. He attributes mystical meaning to every word.
 
-[^1123]: 263:5 Comp. aha-<i>s</i>kyaothananãm.
+[^1114]: 263:5 Comp. aha-<i>s</i>kyaothananãm.
 
-[^1124]: 263:6 Reading Mazda (?).
+[^1115]: 263:6 Reading Mazda (?).
 
-[^1125]: 264:1 Khshathrem<i>k</i>â Ahurâi â.
+[^1116]: 264:1 Khshathrem<i>k</i>â Ahurâi â.
 
-[^1126]: 264:2 As having the interest of the poor at heart.
+[^1117]: 264:2 As having the interest of the poor at heart.
 
-[^1127]: 264:3 Supposing Ahura (?) to be meant by Ahû and Ratu; see Mazdâi Ahurâi. The Zandist may have rendered: As Ahura is the (first) to be chosen, so He is our Ratu from His righteousness, the creator of Vohûman (including all good creatures), &c.
+[^1118]: 264:3 Supposing Ahura (?) to be meant by Ahû and Ratu; see Mazdâi Ahurâi. The Zandist may have rendered: As Ahura is the (first) to be chosen, so He is our Ratu from His righteousness, the creator of Vohûman (including all good creatures), &c.
 
-[^1128]: 264:4 ‘Praised’ (?).
+[^1119]: 264:4 ‘Praised’ (?).
 
-[^1129]: 264:5 Reading haithwa<i>t</i>; Pahlavi tîz; possibly ‘being present.’
+[^1120]: 264:5 Reading haithwa<i>t</i>; Pahlavi tîz; possibly ‘being present.’
 
-[^1130]: 264:6 See Y. XLV, 2.
+[^1121]: 264:6 See Y. XLV, 2.
 
-[^1131]: 264:7 This Zand differs, as to the application of Ahû and Ratu, from the former.
+[^1122]: 264:7 This Zand differs, as to the application of Ahû and Ratu, from the former.
 
-[^1132]: 264:8 Afsman elsewhere applies to metre.
+[^1123]: 264:8 Afsman elsewhere applies to metre.
 
-[^1133]: 265:1 These are ‘the poor,’ but not mendicants.
+[^1124]: 265:1 These are ‘the poor,’ but not mendicants.
 
-[^1134]: 265:2 A class not in the Gâthas; observe the rise of a caste system.
+[^1125]: 265:2 A class not in the Gâthas; observe the rise of a caste system.
 
-[^1135]: 265:3 Or, ‘experience.’
+[^1126]: 265:3 Or, ‘experience.’
 
-[^1136]: 265:4 Or, ‘the ritual.’
+[^1127]: 265:4 Or, ‘the ritual.’
 
-[^1137]: 265:5 The title of a governor.
+[^1128]: 265:5 The title of a governor.
 
-[^1138]: 265:6 It did not need the fifth. It was a centre of rule.
+[^1129]: 265:6 It did not need the fifth. It was a centre of rule.
 
-[^1139]: 265:7 Ashavan manas paoiryô.
+[^1130]: 265:7 Ashavan manas paoiryô.
 
-[^1140]: 266:1 Probably the Gâthas with their lost portions, also the Vendîdâd.
+[^1131]: 266:1 Probably the Gâthas with their lost portions, also the Vendîdâd.
 
-[^1141]: 266:2 Ritual strictness based upon practical piety.
+[^1132]: 266:2 Ritual strictness based upon practical piety.
 
-[^1142]: 266:3 The Saoshya<i>n</i>t.
+[^1133]: 266:3 The Saoshya<i>n</i>t.
 
-[^1143]: 266:4 The latter part of this Zand shows that the Ratu was recognised as a human ruler in it.
+[^1134]: 266:4 The latter part of this Zand shows that the Ratu was recognised as a human ruler in it.

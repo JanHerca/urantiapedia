@@ -84,32 +84,32 @@ Et ainsi moi-même, quelles que soient les circonstances dans lesquelles je puis
 
 ## Notes de bas de page
 
-[^1036]: 247:4 Ce morceau en dialecte gâtique prétend à une antiquité plus élevée, immédiatement après l'Haptanghâiti. Sa distribution rétrospective montre qu'il est postérieur à la période originale. Le verset 7 évoque une date ultérieure avec sa référence aux plantes et aux eaux. Que Zarathu<i>s</i>tra, Kavi Vî<i>s</i>tâspa, Frashao<i>s</i>tra et <i>G</i>âmâspa soient nommés ne prouve en aucun cas qu'ils étaient encore vivants. Cependant, ils ne sont pas mentionnés avec une exagération fantaisiste ou superstitieuse ; ils ne sont pas encore des demi-dieux.
+[^1030] : 247:4 Ce morceau en dialecte gâtique prétend être plus ancien, juste après le Haptanghâiti. Sa distribution rétrospective montre qu'il est postérieur à la période originale. Le verset 7 évoque une date ultérieure avec sa référence aux plantes et aux eaux. Que Zarathu<i>s</i>tra, Kavi Vî<i>s</i>tâspa, Frashao<i>s</i>tra et <i>G</i>âmâspa soient nommés ne prouve en aucun cas qu'ils étaient encore vivants. Cependant, ils ne sont pas mentionnés avec une exagération fantaisiste ou superstitieuse ; ils ne sont pas encore des demi-dieux. 
 
-[^1037]: 247:5 Pour une explication partielle de nâismî\* à partir de nas, comparer l'aoriste ne<i>s</i>at. Peut-être aussi à partir de nad, « Je maudis les démons ».
+[^1031]: 247:5 Comme explication partielle de nâismî\* à partir de nas, comparer l'aoriste ne<i>s</i>at. Peut-être aussi de nad, « je maudis les démons ». 
 
-[^1038]: 248:1 Et sacrificateur.
+[^1032]: 248:1 Et sacrificateur. 
 
-[^1039]: 248:2 Une véritable citation des Gâthas (voir Y. XXXI, 7).
+[^1033]: 248:2 Une citation authentique des Gâthas (voir Y. XXXI, 7). 
 
-[^1040]: 248:3 Une véritable allusion aux Gâthas (Y. XXXII, 2).
+[^1034]: 248:3 Une allusion authentique aux Gâthas (Y. XXXII, 2). 
 
-[^1041]: 248:4 Ceci préserve la lecture correcte de tâyu<i>s</i><i>k</i>a (donc le Pahlavi) dans Y. XXIX, 1.
+[^1035]: 248:4 Ceci préserve la lecture correcte de tâyu<i>s</i><i>k</i>a (donc les Pahlavi) dans Y. XXIX, 1.
 
-[^1042]: 248:5 Viyâpa<i>t</i> comme hors de tout doute ; ainsi viyâpem au verset 3.
+[^1036]: 248:5 Viyâpa<i>t</i> comme hors de tout doute ; ainsi viyâpem au verset 3.
 
-[^1043]: 248:6 Frâ a la même force que dans fra perenaoiti (?), remplir, vider. Autrement, « à leurs pensées, j'offre dans ma prière la liberté de circuler librement à leur guise, et un logement où ils le souhaitent, avec leur bétail qui habite cette terre. »
+[^1037]: 248:6 Frâ a la même force que dans fra perenaoiti (?), remplir, vider. Autrement, « à leurs pensées, j'offre dans ma prière le libre parcours de leur choix, et un logement où ils le souhaitent, avec leur bétail qui habite cette terre. » 
 
-[^1044]: 248:7 Comp. nâiri-<i>k</i>inanghô, khratu-<i>k</i>inanghô et shaêtô-<i>k</i>inanghô.
+[^1038]: 248:7 Comp. nâiri-<i>k</i>inanghô, khratu-<i>k</i>inanghô, et shaêtô-<i>k</i>inanghô. 
 
-[^1045]: 249:1 Lecture adakhshayaêtâ; sinon khshayaêtâ, commandé.
+[^1039]: 249:1 Lecture adakhshayaêtâ ; autrement khshayaêtâ, commandé. 
 
-[^1046]: 249:2 La structure Pahlavi « celui qui » préfigurait, comme souvent.
+[^1040]: 249:2 La structure pahlavi « celui qui » préfigurait, comme souvent. 
 
-[^1047]: 249:3 Pas dans le sens de récompense ici.
+[^1041]: 249:3 Pas dans le sens de récompense ici. 
 
-[^1048]: 249:4 Observez ce sens originel ; « beurre » est ici impossible.
+[^1042]: 249:4 Observez ce sens originel ; 'beurre' est ici impossible. 
 
-[^1049]: 250:1 Fraspâvaokhedhrãm; 'y' mal écrit pour 'v.' Fra semble être prohibitif 'discours sans chute, ni hésitation'; mieux comme adj.
+[^1043]: 250:1 Fraspâvaokhedhrãm ; 'y' mal écrit pour 'v.' Fra semble être prohibitif 'discours sans chute, ni hésitation' ; meilleur comme adj. 
 
-[^1050]: 250 : 2 comp. Y. XXXI, 18.
+[^1044]: 250:2 Comp. Y. XXXI, 18.

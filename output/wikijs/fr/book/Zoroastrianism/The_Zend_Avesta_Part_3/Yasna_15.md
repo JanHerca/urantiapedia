@@ -73,12 +73,12 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1075]: 254:3 Racine rap = rabh, une réception de grâce, ou être reçu par la grâce.
+[^1067]: 254:3 Racine rap = rabh, une réception de grâce, ou être reçu par la grâce.
 
-[^1076]: 254:4 Namãn peut être destiné à un locatif ; « avec les belles choses dans leur nom (?). »
+[^1068]: 254:4 Namãn peut être destiné à un locatif ; « avec les belles choses dans leur nom (?). »
 
-[^1077]: 254:5 Voir Y. LI, 22.
+[^1069]: 254:5 Voir Y. LI, 22.
 
-[^1078]: 254:6 Voir Y. LI, 1.
+[^1070]: 254:6 Voir Y. LI, 1.
 
-[^1079]: 255:1 Ce fragment du dialecte gâtique pourrait être plus justement placé avant le Srôsh Ya<i>s</i>t.
+[^1071]: 255:1 Ce fragment du dialecte gâtique pourrait être plus justement placé avant le Srôsh Ya<i>s</i>t.

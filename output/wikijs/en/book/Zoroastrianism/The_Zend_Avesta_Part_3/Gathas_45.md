@@ -153,8 +153,7 @@ Translation.
 [^596]: 128:6 Or, ‘who has created weal and sorrow for us with good intention, (and as our discipline);’ but this is hardly probable. Ahura did not originate evil. Sp<i>e</i><i>n</i><i>k</i>â, asp<i>e</i><i>n</i><i>k</i>â are used adverbially (see Y. XXXIV, 7).
 
 [^597]: 128:7 I hardly agree to reading verez<i>e</i>ny<i>a</i>u (sic) here in the sense of ‘homes.’ The meaning is ‘endow us with efficiency’ in the pursuit of the objects mentioned in the context. Or ‘the propitiation and p. 129 reverential honour’ may have been more directly in the composer's mind; ‘may He endow our (worship) with efficiency that it may accomplish its desired result.’ See the positions of the words.
-
-The Pahlavi translation also bears witness to the rendering above, with its erroneous or free varzî<i>d</i>âr ayŏ lanman.
+  The Pahlavi translation also bears witness to the rendering above, with its erroneous or free varzî<i>d</i>âr ayŏ lanman.
 
 [^598]: 129:1 As it is impossible for those who have studied the subject to believe that the Pahlavi translator did not know the meaning of amavandîh in Zend, we must suppose him to have had some form like hazah before him instead of huzã(thwâ<i>t</i>).
 

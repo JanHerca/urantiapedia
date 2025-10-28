@@ -66,16 +66,16 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1227]: 292:1 ¿O, 'por aquello que ha pasado?' bavãithyâi<i>k</i>a.
+[^1217]: 292:1 ¿O, 'por aquello que ha pasado?' bavãithyâi<i>k</i>a.
 
-[^1228]: 292:2 Dareghô-vârethmanem se trata como un femenino; ver también dareghô-vârethmanô en el versículo 3.
+[^1218]: 292:2 Dareghô-vârethmanem se trata como un femenino; ver también dareghô-vârethmanô en el versículo 3.
 
-[^1229]: 292:3 ¿Tenemos hvô-aiwishâ<i>k</i>îm, como representación de alguna forma más regular?
+[^1219]: 292:3 ¿Tenemos hvô-aiwishâ<i>k</i>îm, como representación de alguna forma más regular?
 
-[^1230]: 292:4 Manantiales medicinales.
+[^1220]: 292:4 Manantiales medicinales.
 
-[^1231]: 292:5 Este Yasna se celebró de casa en casa.
+[^1221]: 292:5 Este Yasna se celebró de casa en casa.
 
-[^1232]: 292:6 Varethman.
+[^1222]: 292:6 Varethman.
 
-[^1233]: 293:1 Cita de los Gâthas (Y. XLV, 6).
+[^1223]: 293:1 Cita de los Gâthas (Y. XLV, 6).

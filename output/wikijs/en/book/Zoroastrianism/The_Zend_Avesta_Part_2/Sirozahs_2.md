@@ -208,4 +208,4 @@ I praise, I invoke, I meditate upon, and we sacrifice unto the good, strong, ben
 
 ## Footnotes
 
-[^102]: 20:1 Cf. Yasna XXVI, 1.
+[^97]: 20:1 Cf. Yasna XXVI, 1.

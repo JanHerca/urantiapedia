@@ -82,12 +82,12 @@ ALABANZA A AHURA Y A LOS INMORTALES; ORACIÓN PARA LA PRÁCTICA Y DIFUSIÓN DE L
 
 ## Notas al pie
 
-[^1191]: 282:1 El traductor Pahlavi, como sucede a menudo, fue el primero en ver aquí la explicación adecuada.
+[^1182]: 282:1 El traductor Pahlavi, como sucede a menudo, fue el primero en ver aquí la explicación adecuada.
 
-[^1192]: 283:1 O bien, somos «purificadores» o «adornadores». La tradición «se propaga de hombre a hombre», arraigándose tan profundamente; comp. quizás nî<i>d</i>.
+[^1183]: 283:1 O bien, somos «purificadores» o «adornadores». La tradición «se propaga de hombre a hombre», arraigándose tan profundamente; comp. quizás nî<i>d</i>.
 
-[^1193]: 283:2 Hâtãm en este sentido.
+[^1184]: 283:2 Hâtãm en este sentido.
 
-[^1195]: 283:3 O, 'en la casa y en el establo'.
+[^1185]: 283:3 O, 'en la casa y en el establo'.
 
-[^1196]: 284:1 O, 'ganado'.
+[^1186]: 284:1 O, 'ganado'.

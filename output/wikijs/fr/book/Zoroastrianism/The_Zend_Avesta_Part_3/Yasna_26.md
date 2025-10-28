@@ -78,10 +78,10 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1176]: 278:1 Dahyumas.
+[^1167]: 278:1 Dahyumas.
 
-[^1177]: 278:2 'De la religion primitive.'
+[^1168]: 278:2 'De la religion primitive.'
 
-[^1178]: 279:1 Il est difficile de dire si une distinction réelle existait dans l'esprit de ces premiers écrivains entre un Fravashi et une âme défunte. Le fait qu'un Fravashi ait été vénéré comme existant avant la naissance de la personne à laquelle il appartenait peut être dû à une anticipation poétique, et non dogmatique.
+[^1169]: 279:1 Il est difficile de dire si une distinction réelle existait dans l'esprit de ces premiers écrivains entre un Fravashi et une âme défunte. Le fait qu'un Fravashi ait été vénéré comme existant avant la naissance de la personne à laquelle il appartenait peut être dû à une anticipation poétique, et non dogmatique.
 
-[^1179]: 279:2 De l'Adam iranien au Christ de la résurrection ; voir Ya<i>s</i>t XIX, 89, 91.
+[^1170]: 279:2 De l'Adam iranien au Christ de la résurrection ; voir Ya<i>s</i>t XIX, 89, 91.

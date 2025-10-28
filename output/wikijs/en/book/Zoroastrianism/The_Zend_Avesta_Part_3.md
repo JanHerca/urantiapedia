@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2025-2-12T12:15:42Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-zoroaster"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">J. Darmesteter and L.H. Mills (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880-1887</text>		<text style="font-size:9px" x="61" y="60">The Zend Avesta</text>		<text style="font-size:9px" x="61" y="70">Part III</text>		<text style="font-size:9px" x="61" y="80">The Yasna, Visparad,</text>		<text style="font-size:9px" x="61" y="90">Âfrînagân, Gâhs...</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">THE ZEND-AVESTA</span><br>PART III<br><span class="text-h3">The Yasna, Visparad, Âfrînagân, Gâhs</span><br>and<br><span class="text-h3">Miscellaneous Fragments</span><br>TRANSLATED BY<br><span class="text-h5">L. H. Mills</span><br>Sacred Books of the East, Volume 31.<br>Oxford University Press<br>[1887]<br>Scanned and proofed at sacred-texts.com, January-May, 2001, by John Bruno Hare. Formatted and additional proofing January-February, 2007. This text is in the public domain in the US because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies.<br><br></p><br>_And we sacrifice to the lights of dawn which are radiant with their light, and fleetest horses which sweep over the sevenfold earth...._ —Gâh Ushahin, ([p. 387](/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/The_Gahs#5)).This is part III of the Sacred Books of the East Zend Avesta, translated by L.H. Mills, who took up the task after James Darmesteter, the translator of the first two parts. It includes liturgical material, some of which is almost completely unchanged from the earliest period of Zoroastrianism, and still in use today. Of great interest are some of the oldest formulations of dualism, which later became a core concept of other middle eastern religions, including Judaism, and later Christianity. Moreover, the texts in this part of the Avesta are not so far removed from Vedic-era Hinduism, and as such represent a link between the later great Eastern and Western religions.
+<div class="urantiapedia-book-front urantiapedia-book-zoroaster">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">J. Darmesteter and L.H. Mills (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1880-1887</text>
+		<text style="font-size:9px" x="61" y="60">The Zend Avesta</text>
+		<text style="font-size:9px" x="61" y="70">Part III</text>
+		<text style="font-size:9px" x="61" y="80">The Yasna, Visparad,</text>
+		<text style="font-size:9px" x="61" y="90">Âfrînagân, Gâhs...</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">THE ZEND-AVESTA</span><br>
+PART III<br>
+<span class="text-h3">The Yasna, Visparad, Âfrînagân, Gâhs</span><br>
+and<br>
+<span class="text-h3">Miscellaneous Fragments</span><br>
+TRANSLATED BY<br>
+<span class="text-h5">L. H. Mills</span><br>
+Sacred Books of the East, Volume 31.<br>
+Oxford University Press<br>
+[1887]<br>
+Scanned and proofed at sacred-texts.com, January-May, 2001, by John Bruno Hare. Formatted and additional proofing January-February, 2007. This text is in the public domain in the US because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact in all copies.<br>
+<br>
+</p>
+
+<br>
+
+_And we sacrifice to the lights of dawn which are radiant with their light, and fleetest horses which sweep over the sevenfold earth...._ —Gâh Ushahin, ([p. 387](/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/The_Gahs#5)).
+
+This is part III of the Sacred Books of the East Zend Avesta, translated by L.H. Mills, who took up the task after James Darmesteter, the translator of the first two parts. It includes liturgical material, some of which is almost completely unchanged from the earliest period of Zoroastrianism, and still in use today. Of great interest are some of the oldest formulations of dualism, which later became a core concept of other middle eastern religions, including Judaism, and later Christianity. Moreover, the texts in this part of the Avesta are not so far removed from Vedic-era Hinduism, and as such represent a link between the later great Eastern and Western religions.
+
+
 ## Index
 
 - [Contents](/en/book/Zoroastrianism/The_Zend_Avesta_Part_3/Contents)
@@ -139,3 +175,5 @@ dateCreated: 2025-2-12T12:15:42Z
 ## External links
 
 - [Sacred texts website](https://sacred-texts.com/zor/sbe04/sbe0400.htm)
+
+<br>

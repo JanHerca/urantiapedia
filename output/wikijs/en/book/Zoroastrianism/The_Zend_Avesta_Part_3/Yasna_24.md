@@ -78,12 +78,12 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1166]: 274:1 Or the memorised recital and performance of its rites.
+[^1157]: 274:1 Or the memorised recital and performance of its rites.
 
-[^1167]: 275:1 Elsewhere perhaps, erroneously, as a proper name: or read angheu<i>s</i>.
+[^1158]: 275:1 Elsewhere perhaps, erroneously, as a proper name: or read angheu<i>s</i>.
 
-[^1168]: 275:2 Pahlavi frashakar<i>d</i> kar<i>d</i>ârân.
+[^1159]: 275:2 Pahlavi frashakar<i>d</i> kar<i>d</i>ârân.
 
-[^1169]: 275:3 ‘And the heard recital of the Gâthas.’
+[^1160]: 275:3 ‘And the heard recital of the Gâthas.’
 
-[^1170]: 276:1 See Y. IV, 4-25, which is repeated here. Expressions are curtailed.
+[^1161]: 276:1 See Y. IV, 4-25, which is repeated here. Expressions are curtailed.

@@ -64,12 +64,12 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1203]: 286:3 Comparez les gnâs indiens. Les eaux sont des épouses, comme l'est la terre ; en bas, elles sont des mères.
+[^1193]: 286:3 Comparez les gnâs indiens. Les eaux sont des épouses, comme l'est la terre ; en bas, elles sont des mères.
 
-[^1204]: 287:1 Vanguhî<i>s</i> avec K4, &c.
+[^1194]: 287:1 Vanguhî<i>s</i> avec K4, &c.
 
-[^1205]: 287:2 Comparez azi appliqué au Kine.
+[^1195]: 287:2 Comparez azi appliqué au Kine.
 
-[^1206]: 287:3 Comparer agnáyas, lire agnayô. Ou est-ce agniv<i>a</i>u avec un suffixe va ?
+[^1196]: 287:3 Comparer agnáyas, lire agnayô. Ou est-ce agniv<i>a</i>u avec un suffixe va ?
 
-[^1207]: 287:4 Ou, « nos maladies et notre bien-être ».
+[^1197]: 287:4 Ou, « nos maladies et notre bien-être ».

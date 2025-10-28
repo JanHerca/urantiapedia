@@ -92,34 +92,34 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie 
 
-[^1020]: 244:5 Este fragmento característico se repite y amplía en la literatura parsi posterior. La maldición de la vaca, el caballo y Haoma (scilicet, el sacerdote) cuando son escatimados se extendió a todos los animales domésticos. Ha sido difícil evitar el ritmo métrico completo del original con su cadencia tintineante. Tampoco se evita una libertad total. 
+[^1014]: 244:5 Este fragmento característico se repite y amplía en la literatura parsi posterior. La maldición de la vaca, el caballo y Haoma (scilicet, el sacerdote) cuando son escatimados se extendió a todos los animales domésticos. Ha sido difícil evitar el ritmo métrico completo del original con su cadencia tintineante. Tampoco se evita una libertad total. 
 
-[^1021]: 244:6 No 'al sacerdote'; Ner. g<i>ri</i>hîtâram. 
+[^1015]: 244:6 No 'al sacerdote'; Ner. g<i>ri</i>hîtâram. 
 
-[^1022]: 245:1 '¿Quién no me da (comida) cocida?' parece improbable. Si <i>h</i><i>v</i>âstãm significa forraje, ¿por qué es fem., especialmente aquí con un correlato femenino? Creo que 'tener buena comida' es el significado de la palabra, como adjetivo, y concuerda con gãm entendido. Posiblemente, 'que no me otorga como al que está bien alimentado'. 
+[^1016]: 245:1 '¿Quién no me da (comida) cocida?' parece improbable. Si <i>h</i><i>v</i>âstãm significa forraje, ¿por qué es fem., especialmente aquí con un correlato femenino? Creo que 'tener buena comida' es el significado de la palabra, como adjetivo, y concuerda con gãm entendido. Posiblemente, 'que no me otorga como al que está bien alimentado'. 
 
-[^1023]: 245:2 Uso dialéctico. 
+[^1017]: 245:2 Dialécticamente usado. 
 
-[^1024]: 245:3 'La luz es la intoxicación de Haoma'; (otros tóxicos golpean la cabeza). 
+[^1018]: 245:3 'La luz es la intoxicación de Haoma'; (otros tóxicos golpean la cabeza). 
 
-[^1025]: 245:4 'Tener la muerte lejos'. 
+[^1019]: 245:4 'Tener la muerte lejos'. 
 
-[^1026]: 246:1 Un rey turanio. 
+[^1020]: 246:1 Un rey turanio. 
 
-[^1027]: 246:2 Observe la triple división de la tierra; véase también en Vend. II. 
+[^1021]: 246:2 Observe la triple división de la tierra; véase también en Vend. II. 
 
-[^1028]: 246:3 Una reproducción poética. Z. había estado mucho tiempo entre los antiguos muertos. 
+[^1022]: 246:3 Una reproducción poética. Z. había estado mucho tiempo entre los antiguos muertos. 
 
-[^1029]: 246:4 El Raspi en este momento entrega la copa Haoma al sacerdote en este punto; Se supone que la eficacia del licor se multiplica. 
+[^1023]: 246:4 El Raspi en este momento entrega la copa Haoma al sacerdote en este punto; se supone que la eficacia del licor se multiplica. 
 
-[^1030]: 246:5 Pe<i>n</i>daidyâi debe leerse como, por supuesto; la letra ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), no muy diferente a ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) en un manuscrito, cuando se gira, probablemente estaba medio invertida. 
+[^1024]: 246:5 Pe<i>n</i>daidyâi debe leerse como por supuesto; la letra ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), no muy diferente a ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) en un MS. cuando se gira, probablemente estaba medio invertida. 
 
-[^1031]: 246:6 Esto parece ser traducido por los Pahlavi como un interludio entre el Ratu y el Zaotar; comp. Y. XXVIII, 11. Varias oraciones rotas de otras partes del Avesta se recuerdan aquí dudosamente, tal vez por tener especial santidad. 
+[^1025]: 246:6 Esto parece ser traducido por el Pahlavi como un interludio entre el Ratu y el Zaotar; comp. Y. XXVIII, 11. Varias oraciones rotas de otras partes del Avesta se recuerdan aquí dudosamente, tal vez por tener especial santidad. 
 
-[^1032]: 246:7 El Raspi trae la vasija Haoma al Baresman en este punto; y tocando su soporte, el Mâh-rû, pone un paño en la mano derecha del Zaotar, quien, mirando el recipiente, procede a recitar lo siguiente en el verso 10. 
+[^1026]: 246:7 El Raspi trae la vasija Haoma al Baresman en este punto; y tocando su soporte, el Mâh-rû, pone un paño en la mano derecha del Zaotar, quien, mirando el recipiente, procede a recitar lo siguiente en el verso 10. 
 
-[^1033]: 247:1 Véase Y. VIII, 5-8. 
+[^1027]: 247:1 Véase Y. VIII, 5-8. 
 
-[^1034]: 247:2 Véase Y. III, 24, 25. 
+[^1028]: 247:2 Véase Y. III, 24, 25. 
 
-[^1035]: 247:3 Esta pieza está en el dialecto gático y, por lo tanto, es un preludio especialmente apropiado para la Confesión de fe en Y. XII.
+[^1029]: 247:3 Esta pieza está en dialecto gático y, por lo tanto, es un preludio especialmente apropiado para la Confesión de fe en Y. XII.

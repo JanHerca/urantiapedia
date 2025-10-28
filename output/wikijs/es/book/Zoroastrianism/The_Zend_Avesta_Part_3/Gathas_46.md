@@ -255,5 +255,4 @@ Traducción.
 [^661]: 144:2 Cojinete; ¿o es 'apto para conducir'?
 
 [^662]: 144:3 El Pahlavi reporta aquí otro texto.
-
-(NOTAS COMPLEMENTARIAS. As<i>k</i>î<i>t</i>, en el verso 18, puede equivaler a «en verdad, en verdad». Vahi<i>s</i>tâ, etc. = «le asignaré lo mejor de mi riqueza mediante la Buena Mente». El significado de «riqueza» parece muy necesario aquí, y si lo es aquí, también lo es en el verso 2. Vasnâ, en el verso 19, puede significar «por gracia».)
+  (NOTAS COMPLEMENTARIAS. As<i>k</i>î<i>t</i>, en el verso 18, puede equivaler a «en verdad, en verdad». Vahi<i>s</i>tâ, etc. = «le asignaré lo mejor de mi riqueza mediante la Buena Mente». El significado de «riqueza» parece muy necesario aquí, y si lo es aquí, también lo es en el verso 2. Vasnâ, en el verso 19, puede significar «por gracia».)

@@ -78,36 +78,36 @@ MÃTHRA.
 
 ## Footnotes
 
-[^1282]: 306:1 This piece in the Gâthic dialect has claims to an antiquity as high as Y. XII. It recalls the Gâthas in many ways. The increaser of cattle is identical with the thrifty tiller, and is the typical saint.
+[^1272]: 306:1 This piece in the Gâthic dialect has claims to an antiquity as high as Y. XII. It recalls the Gâthas in many ways. The increaser of cattle is identical with the thrifty tiller, and is the typical saint.
 
-[^1283]: 306:2 The Pahlavi has sû<i>d</i> a partial transcription; but the word is obscure.
+[^1273]: 306:2 The Pahlavi has sû<i>d</i> a partial transcription; but the word is obscure.
 
-[^1284]: 306:3 See nipâtû.
+[^1274]: 306:3 See nipâtû.
 
-[^1285]: 306:4 Nem<i>e</i> with K11.
+[^1275]: 306:4 Nem<i>e</i> with K11.
 
-[^1286]: 306:5 Hâ + ge<i>t</i>; comp. Indian sa + gha<i>t</i>; or possibly from ha<i>k</i>.
+[^1276]: 306:5 Hâ + ge<i>t</i>; comp. Indian sa + gha<i>t</i>; or possibly from ha<i>k</i>.
 
-[^1287]: 306:6 ‘Make mention of.’
+[^1277]: 306:6 ‘Make mention of.’
 
-[^1288]: 307:1 Khshmâvatô is often Gâthic for ‘You.’
+[^1278]: 307:1 Khshmâvatô is often Gâthic for ‘You.’
 
-[^1289]: 307:2 Pâzand, as fshûsh<i>e</i> is a plural, and not Gâthic. Or, ‘we make men cattle-owners (we invite them to be such).’
+[^1279]: 307:2 Pâzand, as fshûsh<i>e</i> is a plural, and not Gâthic. Or, ‘we make men cattle-owners (we invite them to be such).’
 
-[^1290]: 307:3 The creation is mentioned in connection with the Kine. The typical saint stands at the head of the clean creation.
+[^1280]: 307:3 The creation is mentioned in connection with the Kine. The typical saint stands at the head of the clean creation.
 
-[^1291]: 307:4 Whose?
+[^1281]: 307:4 Whose?
 
-[^1292]: 307:5 See below.
+[^1282]: 307:5 See below.
 
-[^1293]: 307:6 Root vi + dâ (dhishâ); so also the Pahl. ‘barâ dahi<i>s</i>nîh.’
+[^1283]: 307:6 Root vi + dâ (dhishâ); so also the Pahl. ‘barâ dahi<i>s</i>nîh.’
 
-[^1294]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. The word is difficult.
+[^1284]: 307:7 Akînîh va âtashi<i>k</i> î Aûharmazd-dâ<i>d</i>. The word is difficult.
 
-[^1295]: 308:1 Or, ‘male and female holy ones, (the Amesha).’
+[^1285]: 308:1 Or, ‘male and female holy ones, (the Amesha).’
 
-[^1296]: 308:2 Y. XXXIV, 7.
+[^1286]: 308:2 Y. XXXIV, 7.
 
-[^1297]: 308:3 Lit. ‘may we be closely beheld by the creative lights,’ &c.
+[^1287]: 308:3 Lit. ‘may we be closely beheld by the creative lights,’ &c.
 
-[^1298]: 308:4 Allusion to maz<i>e</i>\-y<i>a</i>unghô.
+[^1288]: 308:4 Allusion to maz<i>e</i>\-y<i>a</i>unghô.

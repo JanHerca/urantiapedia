@@ -139,12 +139,10 @@ Traduction.
 [^788]: 178:2 Le choix.
 
 [^789]: 178:3 On est quelque peu enclin à considérer vîdushemnâi<i>s</i> comme une forme monstrueuse de vid, qui s'est glissée dans le texte sous l'influence des deux mots vîdushê au verset 8, et en raison d'une tentative de compléter le mètre, le mot original étant vîdemnâi<i>s</i>. Le Pahlavi ne donne aucune indication, si ce n'est une forme de dû = donner. Laissant les manuscrits intacts, je compare dush + vi.
-
-Je traduis comme ci-dessus, en partant du principe que le texte des manuscrits ne doit pas être transgressé lorsqu'il est possible de le traduire. En lisant les vîdemnâi<i>s</i>, nous pourrions traduire ainsi : « Les privilèges de ce royaume sont partagés (il est pénétré) par des hommes qui agissent (par leurs actions) de manière à en accroître la sécurité (par leurs actions qui l'acquièrent). »
+  Je traduis comme ci-dessus, en partant du principe que le texte des manuscrits ne doit pas être transgressé lorsqu'il est possible de le traduire. En lisant les vîdemnâi<i>s</i>, nous pourrions traduire ainsi : « Les privilèges de ce royaume sont partagés (il est pénétré) par des hommes qui agissent (par leurs actions) de manière à en accroître la sécurité (par leurs actions qui l'acquièrent). »
 
 [^790]: 179:1 J'ai lu à contrecœur yê<i>k</i>â avec un ê long. En gardant à l'esprit Y. XXX, 1, où le B. de l'esp. lit yaê<i>k</i>â, et en lisant yaê<i>k</i>â ici, nous pourrions retrouver le neutre duel perdu du pronom ici comme dans Y. XXX, 1, et ainsi rendre, « et ces deux choses t'appartiennent, la possession (règne) de la richesse et les bénédictions. »
-
-Roth, cité par Geldner, change en ashayaê<i>k</i>â ici et dans Y. XXX, 1 ; et il est certainement frappant que ashâ yê<i>k</i>â apparaisse deux fois. Je rends comme ci-dessus, d'abord, comme, plus proche de nos manuscrits, et comme donnant un bon sens.
+  Roth, cité par Geldner, change en ashayaê<i>k</i>â ici et dans Y. XXX, 1 ; et il est certainement frappant que ashâ yê<i>k</i>â apparaisse deux fois. Je rends comme ci-dessus, d'abord, comme, plus proche de nos manuscrits, et comme donnant un bon sens.
 
 [^791]: 179:2 Voir Y. XXXI, 17.
 
@@ -169,8 +167,7 @@ Roth, cité par Geldner, change en ashayaê<i>k</i>â ici et dans Y. XXX, 1 ; et
 [^801]: 181:5 Ou, 'des deux arans' ; voir les notes sur Y. XXXI, 3 et Y. XLIII, 12.
 
 [^802]: 182:1 Comparer Y. XXXII, 7, <i>h</i><i>v</i>aênâ ayanghâ (littéralement fer).
-
-D'autres voient ici l'épreuve du feu, et le bain de métal fondu dont le juste ne souffre rien, mais dans lequel le pécheur est consumé, mais râshayanghê semble indiquer une blessure produite autrement que par l'immersion, et dakhshta désigne certainement un instrument métallique ailleurs ; « signe » est cependant le sens originel.
+  D'autres voient ici l'épreuve du feu, et le bain de métal fondu dont le juste ne souffre rien, mais dans lequel le pécheur est consumé, mais râshayanghê semble indiquer une blessure produite autrement que par l'immersion, et dakhshta désigne certainement un instrument métallique ailleurs ; « signe » est cependant le sens originel.
 
 [^803]: 182:2 Ainsi plusieurs fois; comp. Y. XXVIII, 3, où la profondeur est indubitable; voir aussi Y. XXXI, 18 avec ahûbî<i>s</i> dans le verset suivant.
 

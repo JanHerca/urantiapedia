@@ -68,10 +68,10 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1218]: 290:1 Voir Y. L, 11.
+[^1208]: 290:1 Voir Y. L, 11.
 
-[^1219]: 290:2 Ou, « demeurer ».
+[^1209]: 290:2 Ou, « demeurer ».
 
-[^1220]: 290 : 3 Voir Y. XXVIII, 3.
+[^1210]: 290 : 3 Voir Y. XXVIII, 3.
 
-[^1221]: 290:4 Ici se terminait autrefois le Haptanghâiti.
+[^1211]: 290:4 Ici se terminait autrefois le Haptanghâiti.

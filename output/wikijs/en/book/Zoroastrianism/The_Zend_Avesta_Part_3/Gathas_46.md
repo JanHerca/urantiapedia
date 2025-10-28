@@ -257,5 +257,4 @@ Translation.
 [^661]: 144:2 Bearing; or is it ‘fit to drive?’
 
 [^662]: 144:3 The Pahlavi here reports another text.
-
-(SUPPLEMENTARY NOTES. As<i>k</i>î<i>t</i>, in verse 18, may equal ‘verily indeed.’ Vahi<i>s</i>tâ, &c.= ‘the best things of my wealth will I assign to him through the Good Mind.’ The meaning ‘wealth’ seems much called for here, and if here, then in verse 2. Vasnâ in verse 19 may mean ‘through grace.’)
+  (SUPPLEMENTARY NOTES. As<i>k</i>î<i>t</i>, in verse 18, may equal ‘verily indeed.’ Vahi<i>s</i>tâ, &c.= ‘the best things of my wealth will I assign to him through the Good Mind.’ The meaning ‘wealth’ seems much called for here, and if here, then in verse 2. Vasnâ in verse 19 may mean ‘through grace.’)

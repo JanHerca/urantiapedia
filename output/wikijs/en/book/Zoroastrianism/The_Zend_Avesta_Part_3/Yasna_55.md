@@ -86,14 +86,14 @@ And we worship the part(s) [^1232] of the Praises of the Yasna, and their recita
 
 ## Footnotes
 
-[^1237]: 294:1 Staota Yêsnya seems to designate that part of the Yasna which begins with the Srôsh Ya<i>s</i>t.
+[^1227]: 294:1 Staota Yêsnya seems to designate that part of the Yasna which begins with the Srôsh Ya<i>s</i>t.
 
-[^1238]: 294:2 Frârâiti; or possibly ‘to the freely giving,’ (the term. ‘-ti’ as a dative).
+[^1228]: 294:2 Frârâiti; or possibly ‘to the freely giving,’ (the term. ‘-ti’ as a dative).
 
-[^1239]: 295:1 Conjectural; see Ashem below.
+[^1229]: 295:1 Conjectural; see Ashem below.
 
-[^1240]: 295:2 Pahlavi avŏ naf<i>s</i>man.
+[^1230]: 295:2 Pahlavi avŏ naf<i>s</i>man.
 
-[^1241]: 295:3 Recited from memory, and used in the ceremonial.
+[^1231]: 295:3 Recited from memory, and used in the ceremonial.
 
-[^1242]: 295:4 The part, ‘each part.’
+[^1232]: 295:4 The part, ‘each part.’

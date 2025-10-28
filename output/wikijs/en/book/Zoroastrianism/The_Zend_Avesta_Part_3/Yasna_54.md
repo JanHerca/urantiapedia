@@ -72,8 +72,8 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1234]: 293:2 This piece in the Gâthic dialect, and in a metre supposed by some to be identical with that of the Vahi<i>s</i>tôi<i>s</i>ti, is very old, and ranks with the Ahuna-vairya and Ashem Vohû in importance.
+[^1224]: 293:2 This piece in the Gâthic dialect, and in a metre supposed by some to be identical with that of the Vahi<i>s</i>tôi<i>s</i>ti, is very old, and ranks with the Ahuna-vairya and Ashem Vohû in importance.
 
-[^1235]: 293:3 Or, can masatâ (sic) equal ‘with his liberality, or majesty,’ leaving ya<i>n</i>tu to be understood with Ahurô?
+[^1225]: 293:3 Or, can masatâ (sic) equal ‘with his liberality, or majesty,’ leaving ya<i>n</i>tu to be understood with Ahurô?
 
-[^1236]: 293:4 The later Avesta notes the antiquity of the older.
+[^1226]: 293:4 The later Avesta notes the antiquity of the older.

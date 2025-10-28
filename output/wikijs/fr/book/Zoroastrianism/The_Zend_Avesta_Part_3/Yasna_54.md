@@ -70,8 +70,8 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1234]: 293:2 Ce morceau en dialecte gâtique, et dans un mètre que certains supposent identique à celui du Vahi<i>s</i>tôi<i>s</i>ti, est très ancien et se classe avec l'Ahuna-vairya et l'Ashem Vohû en importance.
+[^1224]: 293:2 Ce morceau en dialecte gâtique, et dans un mètre que certains supposent identique à celui du Vahi<i>s</i>tôi<i>s</i>ti, est très ancien et se classe avec l'Ahuna-vairya et l'Ashem Vohû en importance.
 
-[^1235]: 293:3 Ou bien, masatâ (sic) peut-il être égal à « sa libéralité ou sa majesté », laissant ya<i>n</i>tu à comprendre avec Ahurô ?
+[^1225]: 293:3 Ou bien, masatâ (sic) peut-il être égal à « sa libéralité ou sa majesté », laissant ya<i>n</i>tu à comprendre avec Ahurô ?
 
-[^1236]: 293:4 L'Avesta postérieur note l'antiquité de l'ancien.
+[^1226]: 293:4 L'Avesta postérieur note l'antiquité de l'ancien.

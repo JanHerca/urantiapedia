@@ -65,12 +65,11 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1151]: 268:2 Les expressions de cette prière ont été suggérées par Y. LI, 22 ; mais le Zand ne suit pas systématiquement les pensées du Gâtha. T<i>e</i>m compris doit être fourni comme objet pour yazamaidê en relation avec yêNhê, ainsi que t<i>a</i>us<i>k</i>â pour y<i>a</i>unghãm. Dans Y. LI, 22, il n'est cependant nullement certain que yazâi s'applique à un t<i>e</i>m yêhyâ. Gardant le vingt et unième verset à l'esprit, je suis obligé de référer yêhyâ à nâ spe<i>n</i>tô. Ici, cependant, hommes et femmes sont adorés, car il est improbable que les « Immortels » dont les noms sont au féminin soient visés. La prière est en dialecte gâtique, et le mètre ancien ne pourrait guère contenir une formation aussi artificielle. Elle ne peut être défendue que par le t<i>e</i><i>n</i>g yazâi <i>h</i><i>v</i>âi<i>s</i> nâm<i>e</i>nî<i>s</i> de Y. LI, 22.
+[^1142]: 268:2 Les expressions de cette prière ont été suggérées par Y. LI, 22 ; mais le Zand ne suit pas systématiquement les pensées du Gâtha. T<i>e</i>m compris doit être fourni comme objet pour yazamaidê en relation avec yêNhê, ainsi que t<i>a</i>us<i>k</i>â pour y<i>a</i>unghãm. Dans Y. LI, 22, il n'est cependant nullement certain que yazâi s'applique à un t<i>e</i>m yêhyâ. Gardant le vingt et unième verset à l'esprit, je suis obligé de référer yêhyâ à nâ spe<i>n</i>tô. Ici, cependant, hommes et femmes sont adorés, car il est improbable que les « Immortels » dont les noms sont au féminin soient visés. La prière est en dialecte gâtique, et le mètre ancien ne pourrait guère contenir une formation aussi artificielle. Elle ne peut être défendue que par le t<i>e</i><i>n</i>g yazâi <i>h</i><i>v</i>âi<i>s</i> nâm<i>e</i>nî<i>s</i> de Y. LI, 22.
+  Ou bien le compositeur de la prière a-t-il correctement traduit Y. LI, 22, et a-t-il hardiment écrit ses paroles succinctes comme étant claires pour ses auditeurs à partir d'explications aujourd'hui perdues ? De telles explications (orales ou écrites) existaient naturellement dès le début. Aucun compositeur ne manque d'analyser ses œuvres.
 
-Ou bien le compositeur de la prière a-t-il correctement traduit Y. LI, 22, et a-t-il hardiment écrit ses paroles succinctes comme étant claires pour ses auditeurs à partir d'explications aujourd'hui perdues ? De telles explications (orales ou écrites) existaient naturellement dès le début. Aucun compositeur ne manque d'analyser ses œuvres.
+[^1143]: 269 : 1 faisant référence à yêNhê à Ahura (?).
 
-[^1152]: 269 : 1 faisant référence à yêNhê à Ahura (?).
+[^1144]: 269:2 Apte à vivre, pur.
 
-[^1153]: 269:2 Apte à vivre, pur.
-
-[^1154]: 269:3 Les Ameshôspends dont les noms sont au féminin ; ainsi les Zandistes à tort.
+[^1145]: 269:3 Les Ameshôspends dont les noms sont au féminin ; ainsi les Zandistes à tort.

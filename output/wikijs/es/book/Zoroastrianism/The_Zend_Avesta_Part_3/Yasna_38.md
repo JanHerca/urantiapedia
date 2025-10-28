@@ -66,12 +66,12 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1203]: 286:3 Compárese con los gnâ´s indios. Las aguas son esposas, como lo es la tierra; abajo son madres.
+[^1193]: 286:3 Compárese con los gnâ´s indios. Las aguas son esposas, como lo es la tierra; abajo son madres.
 
-[^1204]: 287:1 Vanguhî<i>s</i> con K4, etc.
+[^1194]: 287:1 Vanguhî<i>s</i> con K4, etc.
 
-[^1205]: 287:2 Compárese azi aplicado al ganado.
+[^1195]: 287:2 Compárese azi aplicado al ganado.
 
-[^1206]: 287:3 Compárese con agnáyas, que se lee agnayô. ¿O es agniv<i>a</i>u con el sufijo va?
+[^1196]: 287:3 Compárese con agnáyas, que se lee agnayô. ¿O es agniv<i>a</i>u con el sufijo va?
 
-[^1207]: 287:4 O, 'nuestras enfermedades y bienestar'.
+[^1197]: 287:4 O, 'nuestras enfermedades y bienestar'.

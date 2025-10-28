@@ -255,5 +255,4 @@ Traduction.
 [^661]: 144:2 Portant ; ou est-il « apte à conduire » ?
 
 [^662]: 144:3 Le Pahlavi rapporte ici un autre texte.
-
-(NOTES SUPPLÉMENTAIRES. As<i>k</i>î<i>t</i>, au verset 18, peut être égal à « en vérité, en effet ». Vahi<i>s</i>tâ, etc. = « les meilleures choses de ma richesse, je lui les attribuerai par le Bon Esprit. » Le sens de « richesse » semble tout à fait approprié ici, et si c'est ici, alors au verset 2. Vasnâ au verset 19 peut signifier « par la grâce ».)
+  (NOTES SUPPLÉMENTAIRES. As<i>k</i>î<i>t</i>, au verset 18, peut être égal à « en vérité, en effet ». Vahi<i>s</i>tâ, etc. = « les meilleures choses de ma richesse, je lui les attribuerai par le Bon Esprit. » Le sens de « richesse » semble tout à fait approprié ici, et si c'est ici, alors au verset 2. Vasnâ au verset 19 peut signifier « par la grâce ».)

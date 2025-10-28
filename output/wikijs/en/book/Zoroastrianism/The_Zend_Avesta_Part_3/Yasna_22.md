@@ -68,12 +68,12 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1155]: 271:1 5-19 = Y. III, 5-19; 20-23 = 1-4 from imem.
+[^1146]: 271:1 5-19 = Y. III, 5-19; 20-23 = 1-4 from imem.
 
-[^1156]: 271:2 The priest? (Repetitions are, as everywhere, curtailed and varied.)
+[^1147]: 271:2 The priest? (Repetitions are, as everywhere, curtailed and varied.)
 
-[^1157]: 271:3 For closer rendering of details, see verses 2, 3, 4, which differ chiefly in the final dedication.
+[^1148]: 271:3 For closer rendering of details, see verses 2, 3, 4, which differ chiefly in the final dedication.
 
-[^1158]: 272:1 And not the evil Vayu, which appertains to Angra Mainyu.
+[^1149]: 272:1 And not the evil Vayu, which appertains to Angra Mainyu.
 
-[^1159]: 272:2 Insert, ‘and of the good Zarathu<i>s</i>trian devotion.’
+[^1150]: 272:2 Insert, ‘and of the good Zarathu<i>s</i>trian devotion.’

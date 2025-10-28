@@ -66,12 +66,12 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1203]: 286:3 Compare the Indian gnâ´s. The waters are wives, as is the earth; below they are mothers.
+[^1193]: 286:3 Compare the Indian gnâ´s. The waters are wives, as is the earth; below they are mothers.
 
-[^1204]: 287:1 Vanguhî<i>s</i> with K4, &c.
+[^1194]: 287:1 Vanguhî<i>s</i> with K4, &c.
 
-[^1205]: 287:2 Compare azi as applied to the Kine.
+[^1195]: 287:2 Compare azi as applied to the Kine.
 
-[^1206]: 287:3 Compare agnáyas, reading agnayô. Or is it agniv<i>a</i>u with a suffix va?
+[^1196]: 287:3 Compare agnáyas, reading agnayô. Or is it agniv<i>a</i>u with a suffix va?
 
-[^1207]: 287:4 Or, ‘our sicknesses and welfare.’
+[^1197]: 287:4 Or, ‘our sicknesses and welfare.’

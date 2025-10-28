@@ -86,32 +86,32 @@ And so I myself, in whatsoever circumstances I may be placed, as a worshipper of
 
 ## Footnotes
 
-[^1036]: 247:4 This piece in the Gâthic dialect has claims to higher antiquity next after the Haptanghâiti. Its retrospective cast shows that it is later than the original period. Verse 7 savours of a later date with its reference to the plants and waters. That Zarathu<i>s</i>tra, Kavi Vî<i>s</i>tâspa, Frashao<i>s</i>tra, and <i>G</i>âmâspa are named by no means proves that they were still living. Still, they are not mentioned with any fanciful or superstitious exaggeration; they are not yet demi-gods.
+[^1030]: 247:4 This piece in the Gâthic dialect has claims to higher antiquity next after the Haptanghâiti. Its retrospective cast shows that it is later than the original period. Verse 7 savours of a later date with its reference to the plants and waters. That Zarathu<i>s</i>tra, Kavi Vî<i>s</i>tâspa, Frashao<i>s</i>tra, and <i>G</i>âmâspa are named by no means proves that they were still living. Still, they are not mentioned with any fanciful or superstitious exaggeration; they are not yet demi-gods.
 
-[^1037]: 247:5 As a partial explanation of nâismî\* from nas, compare the aorist ne<i>s</i>at. Possibly also from nad, ‘I curse the demons.’
+[^1031]: 247:5 As a partial explanation of nâismî\* from nas, compare the aorist ne<i>s</i>at. Possibly also from nad, ‘I curse the demons.’
 
-[^1038]: 248:1 And sacrificer.
+[^1032]: 248:1 And sacrificer.
 
-[^1039]: 248:2 A genuine citation from the Gâthas (see Y. XXXI, 7).
+[^1033]: 248:2 A genuine citation from the Gâthas (see Y. XXXI, 7).
 
-[^1040]: 248:3 A genuine allusion to the Gâthas (Y. XXXII, 2).
+[^1034]: 248:3 A genuine allusion to the Gâthas (Y. XXXII, 2).
 
-[^1041]: 248:4 This preserves the proper reading of tâyu<i>s</i><i>k</i>a (so the Pahlavi) in Y. XXIX, 1.
+[^1035]: 248:4 This preserves the proper reading of tâyu<i>s</i><i>k</i>a (so the Pahlavi) in Y. XXIX, 1.
 
-[^1042]: 248:5 Viyâpa<i>t</i> as beyond a doubt; so viyâpem in verse 3.
+[^1036]: 248:5 Viyâpa<i>t</i> as beyond a doubt; so viyâpem in verse 3.
 
-[^1043]: 248:6 Frâ has the same force as in fra perenaoiti (?), to fill forth, to empty. Otherwise, ‘forth to their thoughts I offer in my prayer free ranging at their choice, and a lodging where they will, together with their cattle which dwell upon this land.’
+[^1037]: 248:6 Frâ has the same force as in fra perenaoiti (?), to fill forth, to empty. Otherwise, ‘forth to their thoughts I offer in my prayer free ranging at their choice, and a lodging where they will, together with their cattle which dwell upon this land.’
 
-[^1044]: 248:7 Comp. nâiri-<i>k</i>inanghô, khratu-<i>k</i>inanghô, and shaêtô-<i>k</i>inanghô.
+[^1038]: 248:7 Comp. nâiri-<i>k</i>inanghô, khratu-<i>k</i>inanghô, and shaêtô-<i>k</i>inanghô.
 
-[^1045]: 249:1 Reading adakhshayaêtâ; otherwise khshayaêtâ, commanded.
+[^1039]: 249:1 Reading adakhshayaêtâ; otherwise khshayaêtâ, commanded.
 
-[^1046]: 249:2 The Pahlavi structure ‘he who’ foreshadowed, as often.
+[^1040]: 249:2 The Pahlavi structure ‘he who’ foreshadowed, as often.
 
-[^1047]: 249:3 Not in the sense of recompense here.
+[^1041]: 249:3 Not in the sense of recompense here.
 
-[^1048]: 249:4 Observe this original meaning; ‘butter’ is here impossible.
+[^1042]: 249:4 Observe this original meaning; ‘butter’ is here impossible.
 
-[^1049]: 250:1 Fraspâvaokhedhrãm; ‘y’ miswritten for ‘v.’ Fra seems to be prohibitive ‘speech without falling, or hesitation;’ better as adj.
+[^1043]: 250:1 Fraspâvaokhedhrãm; ‘y’ miswritten for ‘v.’ Fra seems to be prohibitive ‘speech without falling, or hesitation;’ better as adj.
 
-[^1050]: 250:2 Comp. Y. XXXI, 18.
+[^1044]: 250:2 Comp. Y. XXXI, 18.

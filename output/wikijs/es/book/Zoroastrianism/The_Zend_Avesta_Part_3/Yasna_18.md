@@ -65,4 +65,4 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1100]: 259:4 Véase Y. LI, 7, y Y. XLVII.
+[^1091]: 259:4 Véase Y. LI, 7, y Y. XLVII.

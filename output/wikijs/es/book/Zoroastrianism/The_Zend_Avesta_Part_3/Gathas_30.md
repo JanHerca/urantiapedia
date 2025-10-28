@@ -189,8 +189,7 @@ Traducción.
 [^161]: 32:5 Que los cuerpos han de ser dados a los santos como al principio se puede inferir de Yast XIX, 89. (Que se ve en la parte ii de las traducciones del Zend-Avesta.)
 
 [^162]: 33:1 Verbatim. A esto (¿a nosotros?) y con Khshathra vino, con Manah Vohu, con Asha y (Âramaiti) entonces un cuerpo que continuaba dio Âr(a)maiti, lo vigoroso (Âramaiti, o el cuerpo, algo vigoroso y vigoroso).
-
-De éstos, tuyo (o para ti), deja que (el cuerpo) sea como tú lo domesticaste en las primeras creaciones.
+  De éstos, tuyo (o para ti), deja que (el cuerpo) sea como tú lo domesticaste en las primeras creaciones.
 
 [^163]: 33:2 Véase el versículo 6.
 

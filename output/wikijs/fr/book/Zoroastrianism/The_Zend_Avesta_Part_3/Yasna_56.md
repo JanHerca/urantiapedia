@@ -38,7 +38,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 1\. Que Sraosha (l'Obéissance attentive) soit présente ici pour l'adoration d'Ahura Mazda, le plus bienfaisant et le plus saint d'entre lui) qui est désiré par nous comme au début, ainsi à la fin ; et de même que l'Obéissance attentive soit présente ici pour l'adoration d'Ahura Mazda, le plus bienfaisant et le plus saint qui (est ainsi) désiré par nous.
 
-2\. (Oui), que Sraosha (l'Obéissance attentive) soit présente ici pour l'adoration des bonnes eaux et pour les Fravashis des saints qui sont tant désirés par nous, \[^1233]) âmes\], comme au début, ainsi qu'à la fin.
+2\. (Oui), que Sraosha (l'Obéissance attentive) soit présente ici pour l'adoration des bonnes eaux et pour les Fravashis des saints qui sont tant désirés par nous, [^1233]) âmes\], comme au début, ainsi qu'à la fin.
 
 Et ainsi, puisse à nouveau Sraosha (l'Obéissance qui écoute) être présente ici pour l'adoration des bonnes eaux et pour les Fravashis des saints, qui sont tant désirés par nous, \[(et) pour (leurs) âmes\].
 
@@ -73,12 +73,12 @@ Et ainsi, puisse à nouveau Sraosha (l'Obéissance qui écoute) être présente 
 
 ## Notes de bas de page
 
-[^1243]: 296:1 On pourrait être enclin à traduire par « qui sont tant désirés par nous pour nos âmes ». Mais je pense que les mots sont Pâzand par rapport aux précédents.
+[^1233]: 296:1 On pourrait être enclin à traduire par « qui sont tant désirés par nous pour nos âmes ». Mais je pense que les mots sont Pâzand par rapport aux précédents.
 
-[^1244]: 296:2 Ou, « doté d'une récompense ».
+[^1234]: 296:2 Ou, « doté d'une récompense ».
 
-[^1245]: 297:1 Des noms féminins.
+[^1235]: 297:1 Des noms féminins.
 
-[^1246]: 297:2 Ou, 'donne-nous'. L'Ahuna et l'Ashem Vohû suivent ici.
+[^1236]: 297:2 Ou, 'donne-nous'. L'Ahuna et l'Ashem Vohû suivent ici.
 
-[^1247]: 297:3 Le YêNhê hâtãm, etc. suit.
+[^1237]: 297:3 Le YêNhê hâtãm, etc. suit.

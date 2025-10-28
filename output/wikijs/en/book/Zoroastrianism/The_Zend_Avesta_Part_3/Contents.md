@@ -36,7 +36,8 @@ dateCreated: 2025-2-12T12:15:42Z
 PREFACE | [ix](../Preface#pix)\-[xvi](../Preface#pxvi)
 INTRODUCTION | [xvii](../Introduction#pxvii)\-[xlvii](../Introduction#pxlvii)
 ABBREVIATIONS | [xlviii](../Abbreviations#pxlviii)
-TRANSLATIONS. | THE GÂTHAS (YASNA XXVIII-XXXIV, XLIII-LI, LIII) | [1](../Gathas_Introduction#p1)\-[194](../Gathas_53#p194)
+TRANSLATIONS. | &nbsp;
+THE GÂTHAS (YASNA XXVIII-XXXIV, XLIII-LI, LIII) | [1](../Gathas_Introduction#p1)\-[194](../Gathas_53#p194)
 YASNA I-XXVII, XXXV-XLII, LII, LIV-LXXII | [195](../Yasna_1#p195)\-[332](../Yasna_71#p332)
 VISPARAD I-XXIII | [333](../Visparad#p333)\-[364](../Visparad#p364)
 ÂFRÎNAGÂN I-III | [365](../Visparad#p365)\-[375](../Afrinagan#p375)

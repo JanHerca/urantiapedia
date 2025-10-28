@@ -122,4 +122,4 @@ Le temple de Yennhe.
 
 ## Notes de bas de page
 
-[^952]: 222:1 Avec Ashi ; peut-être « pour une bénédiction », car Ashi a souvent le sens de « récompense », mais la sainteté scrupuleuse et la plénitude semblent être le sens ici. (Les expressions ici sont, comme d'habitude, variées.)
+[^946]: 222:1 Avec Ashi ; peut-être « pour une bénédiction », car Ashi a souvent le sens de « récompense », mais la sainteté scrupuleuse et la plénitude semblent être le sens ici. (Les expressions ici sont, comme d'habitude, variées.)

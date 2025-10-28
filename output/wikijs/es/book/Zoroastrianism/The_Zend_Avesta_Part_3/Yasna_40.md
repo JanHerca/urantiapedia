@@ -70,16 +70,16 @@ Así que podamos ser para Ti, ¡oh Mazda Ahura!, santos y verdaderos [^1207], y 
 
 ## Notas al pie
 
-[^1211]: 288:4 A fem. sustantivo mazdâ = medhâ.
+[^1201]: 288:4 A fem. sustantivo mazdâ = medhâ.
 
-[^1212]: 289:1 De lo contrario, 'entendimiento que protege' (?).
+[^1202]: 289:1 De lo contrario, 'entendimiento que protege' (?).
 
-[^1213]: 289:2 Así los Pahlavi y Ner.
+[^1203]: 289:2 Así los Pahlavi y Ner.
 
-[^1214]: 289:3 Bezvaitê.
+[^1204]: 289:3 Bezvaitê.
 
-[^1215]: 289:4 Que estemos regocijándonos(?).
+[^1205]: 289:4 Que estemos regocijándonos(?).
 
-[^1216]: 289:5 Hakh<i>e</i>mã (= -a) reemplaza al airyaman de los Gâthas y aclara su significado. La forma es irregular.
+[^1206]: 289:5 Hakh<i>e</i>mã (= -a) reemplaza al airyaman de los Gâthas y aclara su significado. La forma es irregular.
 
-[^1217]: 289:6 O, 'santos <i>ri</i>shis' (ereshayô?).
+[^1207]: 289:6 O, 'santos <i>ri</i>shis' (ereshayô?).

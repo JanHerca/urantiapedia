@@ -139,8 +139,7 @@ Traduction.
 [^370]: 74:1 Parce que n<i>e</i>, ou parce que, un infinitif (voir Wilhelm, de Infin. p. 16). Le Pahlavi a un flocon de neige.
 
 [^371]: 74:2 Sraosha (= obéissance à l'écoute) est le plus grand secours, car par un Mãthra qui l'appelle, le chemin vers Ahura est découvert (XXVIII, 6) et le Démon vaincu. Si apânô est lu, c'est strictement. Le traducteur pahlavi semble avoir compris apâ n<i>e</i>; barâm ayâfînâi pavan dêr-zîvi<i>s</i>nîh, zak î pavan khû<i>d</i>âyîh î Vohûman.
-
-Ner. : Avâpaya dîrghe <i>g</i>îvitatve. Cela pourrait bien nous restituer le texte correct. En lisant apâ n<i>e</i>, nous devrions rendre par « obtenir pour nous ».
+  Ner. : Avâpaya dîrghe <i>g</i>îvitatve. Cela pourrait bien nous restituer le texte correct. En lisant apâ n<i>e</i>, nous devrions rendre par « obtenir pour nous ».
 
 [^372]: 74:3 Ahura Mazda demeure comme dans Sa demeure au milieu des sentiers où marchent Ses saints (voir XLVI, 16).
 

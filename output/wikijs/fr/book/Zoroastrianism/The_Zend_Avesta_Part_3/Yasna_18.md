@@ -64,4 +64,4 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1100]: 259:4 Voir Y. LI, 7, et Y. XLVII.
+[^1091]: 259:4 Voir Y. LI, 7, et Y. XLVII.

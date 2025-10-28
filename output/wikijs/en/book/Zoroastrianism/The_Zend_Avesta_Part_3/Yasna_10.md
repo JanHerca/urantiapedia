@@ -118,42 +118,42 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 ## Footnotes
 
-[^1000]: 240:1 The Pahlavi as corrected by the MS. of Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i has barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i><i>k</i>ât asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati.
+[^994]: 240:1 The Pahlavi as corrected by the MS. of Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i has barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i><i>k</i>ât asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati.
 
-[^1001]: 240:2 Or, ‘where, O Haoma! thou hast grown,’ reading—i<i>s</i>a with Barth. as 2nd sing. perf. pret. middle.
+[^995]: 240:2 Or, ‘where, O Haoma! thou hast grown,’ reading—i<i>s</i>a with Barth. as 2nd sing. perf. pret. middle.
 
-[^1002]: 240:3 Or, ‘on the pathways of the birds.’
+[^996]: 240:3 Or, ‘on the pathways of the birds.’
 
-[^1003]: 241:1 Having immediate effect, and giving wisdom.
+[^997]: 241:1 Having immediate effect, and giving wisdom.
 
-[^1004]: 241:2 Comp. Y. XLIV, 5.
+[^998]: 241:2 Comp. Y. XLIV, 5.
 
-[^1005]: 242:1 Possibly ‘the birds taught by the bounteous one;’ the ‘God-taught birds.’
+[^999]: 242:1 Possibly ‘the birds taught by the bounteous one;’ the ‘God-taught birds.’
 
-[^1006]: 242:2 Elsewhere and here also possibly a proper name.
+[^1000]: 242:2 Elsewhere and here also possibly a proper name.
 
-[^1007]: 242:3 Or the ‘pathways of the birds;’ so Haug, following Spiegel and Justi. Gu<i>g</i>rati, as above.
+[^1001]: 242:3 Or the ‘pathways of the birds;’ so Haug, following Spiegel and Justi. Gu<i>g</i>rati, as above.
 
-[^1008]: 242:4 Which is seen as mine well-grown.
+[^1002]: 242:4 Which is seen as mine well-grown.
 
-[^1009]: 242:5 <i>G</i>aini seems always used in an evil sense in the later Avesta.
+[^1003]: 242:5 <i>G</i>aini seems always used in an evil sense in the later Avesta.
 
-[^1010]: 243:1 I would correct to a form of khratu.
+[^1004]: 243:1 I would correct to a form of khratu.
 
-[^1011]: 243:2 Compare the avoiding the service mentioned by the Pahlavi translator on Y. LIII, 5.
+[^1005]: 243:2 Compare the avoiding the service mentioned by the Pahlavi translator on Y. LIII, 5.
 
-[^1012]: 243:3 Or, more safely, ‘many sons.’
+[^1006]: 243:3 Or, more safely, ‘many sons.’
 
-[^1013]: 243:4 Haoma speaks.
+[^1007]: 243:4 Haoma speaks.
 
-[^1014]: 243:5 Here the priest evidently manipulates the cups containing the Haoma-juice.
+[^1008]: 243:5 Here the priest evidently manipulates the cups containing the Haoma-juice.
 
-[^1015]: 243:6 The application of this term here seems to point to a high antiquity for the Haoma Ya<i>s</i>t; if not in the present piece, which is not so old as the Gâthas, then in previous hymns to Haoma of which this Ya<i>s</i>t is an improvement, or extension.
+[^1009]: 243:6 The application of this term here seems to point to a high antiquity for the Haoma Ya<i>s</i>t; if not in the present piece, which is not so old as the Gâthas, then in previous hymns to Haoma of which this Ya<i>s</i>t is an improvement, or extension.
 
-[^1016]: 244:1 Ner. possibly figuratively yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>.
+[^1010]: 244:1 Ner. possibly figuratively yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>.
 
-[^1017]: 244:2 Ner. saundarya<i>m</i>.
+[^1011]: 244:2 Ner. saundarya<i>m</i>.
 
-[^1018]: 244:3 See Y. XLVIII, 5.
+[^1012]: 244:3 See Y. XLVIII, 5.
 
-[^1019]: 244:4 The YêNhê hâtãm follows.
+[^1013]: 244:4 The YêNhê hâtãm follows.

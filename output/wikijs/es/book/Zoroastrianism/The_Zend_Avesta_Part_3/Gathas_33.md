@@ -141,8 +141,7 @@ Traducción.
 [^370]: 74:1 Porque n<i>e</i>, o porque, un infinitivo (véase Wilhelm, de Infin. p. 16). El Pahlavi tiene un copo de nieve.
 
 [^371]: 74:2 Sraosha (= obediencia atenta) es la mayor ayuda, pues mediante un Mãthra que le invoca se descubre el camino a Ahura (XXVIII, 6) y se derrota al Demonio. Si se lee apânô, así se hace estrictamente. El traductor pahlavi parece haber entendido apâ n<i>e</i>; barâm ayâfînâi pavan dêr-zîvi<i>s</i>nîh, zak î pavan khû<i>d</i>âyîh î Vohûman.
-
-Ner.: Avâpaya dîrghe <i>g</i>îvitatve. Esto bien podría restaurarnos el texto correcto. Leyendo apâ n<i>e</i>, deberíamos traducir «obtén para nosotros».
+  Ner.: Avâpaya dîrghe <i>g</i>îvitatve. Esto bien podría restaurarnos el texto correcto. Leyendo apâ n<i>e</i>, deberíamos traducir «obtén para nosotros».
 
 [^372]: 74:3 Ahura Mazda habita como en Su morada entre los senderos por donde caminan Sus santos (ver XLVI, 16).
 

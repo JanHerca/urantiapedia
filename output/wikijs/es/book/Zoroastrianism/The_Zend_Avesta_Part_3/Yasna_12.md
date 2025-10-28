@@ -84,32 +84,32 @@ Y así yo mismo, en cualquier circunstancia en que me encuentre, como adorador d
 
 ## Notas al pie
 
-[^1036]: 247:4 Esta pieza en dialecto gático se atribuye una antigüedad superior a la del Haptanghâiti. Su composición retrospectiva indica que es posterior al período original. El versículo 7 sugiere una fecha posterior con su referencia a las plantas y las aguas. El hecho de que se mencionen a Zaratustra, Kavi Vî<i>s</i>tâspa, Frashao<i>s</i>tra y <i>G</i>âmâspa no prueba en absoluto que aún vivieran. Aun así, no se mencionan con ninguna exageración fantasiosa o supersticiosa; aún no son semidioses.
+[^1030]: 247:4 Esta pieza en dialecto gático se atribuye una antigüedad superior a la del Haptanghâiti. Su composición retrospectiva indica que es posterior al período original. El versículo 7 sugiere una fecha posterior con su referencia a las plantas y las aguas. El hecho de que se mencionen a Zarathustra, Kavi Vîstâspa, Frashaostra y Gâmâspa no prueba en absoluto que aún vivieran. Aun así, no se mencionan con ninguna exageración fantasiosa o supersticiosa; aún no son semidioses.
 
-[^1037]: 247:5 Como explicación parcial de nâismî\*, derivado de nas, compárese con el aoristo ne<i>s</i>at. Posiblemente también de nad, «Maldigo a los demonios».
+[^1031]: 247:5 Como explicación parcial de nâismî\* de nas, compárese con el aoristo ne<i>s</i>at. Posiblemente también de nad, 'Maldigo a los demonios'.
 
-[^1038]: 248:1 Y sacrificador.
+[^1032]: 248:1 Y sacrificador.
 
-[^1039]: 248:2 Una cita genuina de los Gâthas (ver Y. XXXI, 7).
+[^1033]: 248:2 Una cita genuina de los Gâthas (véase Y. XXXI, 7).
 
-[^1040]: 248:3 Una alusión genuina a los Gâthas (Y. XXXII, 2).
+[^1034]: 248:3 Una alusión genuina a los Gâthas (Y. XXXII, 2).
 
-[^1041]: 248:4 Esto preserva la lectura correcta de tâyu<i>s</i><i>k</i>a (así los Pahlavi) en Y. XXIX, 1.
+[^1035]: 248:4 Esto preserva la lectura correcta de tâyu<i>s</i><i>k</i>a (así los Pahlavi) en Y. XXIX, 1.
 
-[^1042]: 248:5 Viyâpa<i>t</i> como fuera de toda duda; así viyâpem en el verso 3.
+[^1036]: 248:5 Viyâpa<i>t</i> como fuera de toda duda; así viyâpem en el verso 3.
 
-[^1043]: 248:6 Frâ tiene la misma fuerza que en fra perenaoiti (?), llenar, vaciar. De lo contrario, «ofrezco en mi oración a sus pensamientos libertad de movimiento a su elección y alojamiento donde deseen, junto con su ganado que habita en esta tierra».
+[^1037]: 248:6 Frâ tiene la misma fuerza que en fra perenaoiti (?), llenar, vaciar. De lo contrario, «a sus pensamientos les ofrezco en mi oración libertad de movimiento a su elección y alojamiento donde deseen, junto con su ganado que habita en esta tierra».
 
-[^1044]: 248:7 Comp. nâiri-<i>k</i>inanghô, khratu-<i>k</i>inanghô y shaêtô-<i>k</i>inanghô.
+[^1038]: 248:7 Comp. nâiri-<i>k</i>inanghô, khratu-<i>k</i>inanghô, y shaêtô-<i>k</i>inanghô.
 
-[^1045]: 249:1 Lectura adakhshayaêtâ; de lo contrario khshayaêtâ, ordenado.
+[^1039]: 249:1 Lectura adakhshayaêtâ; de lo contrario khshayaêtâ, ordenado.
 
-[^1046]: 249:2 La estructura Pahlavi 'el que' prefiguró, como a menudo.
+[^1040]: 249:2 La estructura Pahlavi 'el que' prefiguró, como a menudo.
 
-[^1047]: 249:3 No en el sentido de recompensa aquí.
+[^1041]: 249:3 No en el sentido de recompensa aquí.
 
-[^1048]: 249:4 Observe este significado original; 'mantequilla' aquí es imposible.
+[^1042]: 249:4 Observe este significado original; 'mantequilla' aquí es imposible.
 
-[^1049]: 250:1 Fraspâvaokhedhrãm; 'y' mal escrito por 'v'. Fra parece ser prohibitivo 'habla sin caídas ni vacilaciones'; mejor como adj.
+[^1043]: 250:1 Fraspâvaokhedhrãm; 'y' mal escrito por 'v'. Fra parece ser prohibitivo 'habla sin caídas ni vacilaciones'; mejor como adj.
 
-[^1050]: Comp. 250:2. Y. XXXI, 18.
+[^1044]: Comp. 250:2. Y. XXXI, 18.

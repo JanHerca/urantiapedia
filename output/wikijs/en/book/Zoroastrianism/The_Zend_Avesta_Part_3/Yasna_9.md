@@ -158,88 +158,88 @@ Against the righteousness-disturber, the unholy life-destroyer, thoughts and wor
 
 ## Footnotes
 
-[^957]: 231:1 In the morning from six to ten.
+[^951]: 231:1 In the morning from six to ten.
 
-[^958]: 231:2 Or, ‘beautiful of life’
+[^952]: 231:2 Or, ‘beautiful of life’
 
-[^959]: 231:3 ‘Me,’ omitted as interrupting rhythm, seems to be merely dramatic; or did it indicate that there was an original Zarathu<i>s</i>trian Haoma Gâtha from which this is an extension?
+[^953]: 231:3 ‘Me,’ omitted as interrupting rhythm, seems to be merely dramatic; or did it indicate that there was an original Zarathu<i>s</i>trian Haoma Gâtha from which this is an extension?
 
-[^960]: 232:1 Might not the entire sixteenth verse be placed here?
+[^954]: 232:1 Might not the entire sixteenth verse be placed here?
 
-[^961]: 232:2 The fifth from Gaya Maretan the Iranian Adam, but his counterpart, the Indian Vivasvat, appears not only as the father of Yama, but of Manu, and even of the gods, (as promoted mortals?).
+[^955]: 232:2 The fifth from Gaya Maretan the Iranian Adam, but his counterpart, the Indian Vivasvat, appears not only as the father of Yama, but of Manu, and even of the gods, (as promoted mortals?).
 
-[^962]: 232:3 Compare svar-d_rí_sas pávamânâs.
+[^956]: 232:3 Compare svar-d_rí_sas pávamânâs.
 
-[^963]: 232:4 So the Pahlavi.
+[^957]: 232:4 So the Pahlavi.
 
-[^964]: 232:5 Males, like females, seem to have been considered as developed at fifteen years of age.
+[^958]: 232:5 Males, like females, seem to have been considered as developed at fifteen years of age.
 
-[^965]: 233:1 Comp. Tritá âptiá.
+[^959]: 233:1 Comp. Tritá âptiá.
 
-[^966]: 233:2 Comp. the Indian Traitaná connected with Tritá.
+[^960]: 233:2 Comp. the Indian Traitaná connected with Tritá.
 
-[^967]: 233:3 Let it be remembered that Tritá smote the Ahi before Indra, Indra seeming only to re-enact the more original victory which the Avesta notices. Concerning Azhi Dahâka, see Windischmann's Zendstudien, s. 136.
+[^961]: 233:3 Let it be remembered that Tritá smote the Ahi before Indra, Indra seeming only to re-enact the more original victory which the Avesta notices. Concerning Azhi Dahâka, see Windischmann's Zendstudien, s. 136.
 
-[^968]: 233:4 Free.
+[^962]: 233:4 Free.
 
-[^969]: 233:5 In the <i>Ri</i>g-veda âptyá seems only an epithet added to the name Tritá, [^965]; and the two serpents of the Avesta are suspicious. Two names seem to have become two persons, or has the Avesta the more correct representation?
+[^963]: 233:5 In the <i>Ri</i>g-veda âptyá seems only an epithet added to the name Tritá, 965; and the two serpents of the Avesta are suspicious. Two names seem to have become two persons, or has the Avesta the more correct representation?
 
-[^970]: 233:6 Have we the Semites here? They certainly penetrated as conquerors far into Media, and it seems uncritical to deny their leaving traces. The gloss may be very old.
+[^964]: 233:6 Have we the Semites here? They certainly penetrated as conquerors far into Media, and it seems uncritical to deny their leaving traces. The gloss may be very old.
 
-[^971]: 233:\* And to that of other gods.
+[^965]: 233:\* And to that of other gods.
 
-[^972]: 234:1 Comp. Kapardínam.
+[^966]: 234:1 Comp. Kapardínam.
 
-[^973]: 234:2 I abandon reluctantly the admirable comparison of hvîs with the Indian svid (Geldner), also when explained as an inchoative (Barth.), but the resulting meaning is far from natural either here or in Vend. III, 32 (Sp. 305). That the dragon should begin to sweat (!) under the fire which was kindled upon his back, and which caused him to spring away, seems difficult. The process was not so deliberate. He was scorched, started, and then sprang. Also in Vend. III, 32 when the barley is produced the demons hardly ‘sweat (with mental misery).’ The idea is too advanced for the document. Burnouf's and Haug's ‘hiss’ was much better in both places. But I prefer the hint of the Pahlavi lâlâ vazlûn<i>d</i>. In Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta<i>s</i><i>k</i>a sa n<i>ri</i><i>s</i>a<i>m</i>sa<i>h</i> <i>k</i>ukshubhe \[dvipâdo\* babhûva\]. Whether <i>h</i><i>v</i>îsa<i>t</i><i>k</i>a = hîsa<i>t</i><i>k</i>a (?) has anything to do with hiz or khiz = Pahlavi âkhîzîdanŏ [^969], N. P. ‘hizîdan, is a question. I follow tradition without etymological help; perhaps we might as well write the word like the better known form as a conjecture.
+[^967]: 234:2 I abandon reluctantly the admirable comparison of hvîs with the Indian svid (Geldner), also when explained as an inchoative (Barth.), but the resulting meaning is far from natural either here or in Vend. III, 32 (Sp. 305). That the dragon should begin to sweat (!) under the fire which was kindled upon his back, and which caused him to spring away, seems difficult. The process was not so deliberate. He was scorched, started, and then sprang. Also in Vend. III, 32 when the barley is produced the demons hardly ‘sweat (with mental misery).’ The idea is too advanced for the document. Burnouf's and Haug's ‘hiss’ was much better in both places. But I prefer the hint of the Pahlavi lâlâ vazlûn<i>d</i>. In Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta<i>s</i><i>k</i>a sa n<i>ri</i><i>s</i>a<i>m</i>sa<i>h</i> <i>k</i>ukshubhe \[dvipâdo\* babhûva\]. Whether <i>h</i><i>v</i>îsa<i>t</i><i>k</i>a = hîsa<i>t</i><i>k</i>a (?) has anything to do with hiz or khiz = Pahlavi âkhîzîdanŏ 969, N. P. ‘hizîdan, is a question. I follow tradition without etymological help; perhaps we might as well write the word like the better known form as a conjecture.
 
-[^974]: 234:3 The Pahlavi translator makes the attempt to account for the epithet ‘manly-minded’ as applied to Keresâspa while yet he fled affrighted; he says: Hôman<i>d</i> mar<i>d</i>mîni<i>s</i>nîh hanâ yehevûn<i>d</i>, aîgha<i>s</i> libbemman pavan gâsdâ<i>s</i>t; Ner. asya paurushamânasatvam\* ida<i>m</i> babhûva yad asau <i>k</i>aitanya<i>m</i> sthâne dadhau, ‘his manly-mindedness was this, that he kept his wits on the occasion.’ See the same story treated somewhat differently in the Ya<i>s</i>ts by Darmesteter (p. 295, note 2).
+[^968]: 234:3 The Pahlavi translator makes the attempt to account for the epithet ‘manly-minded’ as applied to Keresâspa while yet he fled affrighted; he says: Hôman<i>d</i> mar<i>d</i>mîni<i>s</i>nîh hanâ yehevûn<i>d</i>, aîgha<i>s</i> libbemman pavan gâsdâ<i>s</i>t; Ner. asya paurushamânasatvam\* ida<i>m</i> babhûva yad asau <i>k</i>aitanya<i>m</i> sthâne dadhau, ‘his manly-mindedness was this, that he kept his wits on the occasion.’ See the same story treated somewhat differently in the Ya<i>s</i>ts by Darmesteter (p. 295, note 2).
 
-[^975]: 234:† Or, âkhêzîdanŏ.
+[^969]: 234:† Or, âkhêzîdanŏ.
 
-[^976]: 235:1 Son of Pâîtirasp or Spêtârasp; Bundahi<i>s</i> XXXII, 1, 2, &c.
+[^970]: 235:1 Son of Pâîtirasp or Spêtârasp; Bundahi<i>s</i> XXXII, 1, 2, &c.
 
-[^977]: 235:2 The Ahuna-vairya is in the Gâthic dialect, and in the Ahunavaiti metre; it may have been composed by Z. It named the Gâtha.
+[^971]: 235:2 The Ahuna-vairya is in the Gâthic dialect, and in the Ahunavaiti metre; it may have been composed by Z. It named the Gâtha.
 
-[^978]: 235:3 Comp. Y. XXX, 6?
+[^972]: 235:3 Comp. Y. XXX, 6?
 
-[^979]: 235:4 Free.
+[^973]: 235:4 Free.
 
-[^980]: 235:5 Comp. pathm<i>e</i>ng gavôi.
+[^974]: 235:5 Comp. pathm<i>e</i>ng gavôi.
 
-[^981]: 236:1 Or, is madhem related to medhâ´ as well as mazdâ (fem.)?
+[^975]: 236:1 Or, is madhem related to medhâ´ as well as mazdâ (fem.)?
 
-[^982]: 236:2 Pahl. farzânakîh.
+[^976]: 236:2 Pahl. farzânakîh.
 
-[^983]: 236:3 Hardly ‘witches;’ outwardly attractive, but evil female beings.
+[^977]: 236:3 Hardly ‘witches;’ outwardly attractive, but evil female beings.
 
-[^984]: 236:4 Pahl. sâstârânŏ.
+[^978]: 236:4 Pahl. sâstârânŏ.
 
-[^985]: 236:5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
+[^979]: 236:5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
 
-[^986]: 236:6 Vîspô-<i>h</i><i>v</i>âthrem does not mean ‘comfortable’ here. <i>H</i><i>v</i>an is the root; comp. <i>h</i><i>v</i>e<i>n</i>g = sun.
+[^980]: 236:6 Vîspô-<i>h</i><i>v</i>âthrem does not mean ‘comfortable’ here. <i>H</i><i>v</i>an is the root; comp. <i>h</i><i>v</i>e<i>n</i>g = sun.
 
-[^987]: 237:1 Pahl. min <i>h</i><i>v</i>âstâr.
+[^981]: 237:1 Pahl. min <i>h</i><i>v</i>âstâr.
 
-[^988]: 237:2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
+[^982]: 237:2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
 
-[^989]: 237:3 Arva<i>n</i>tô = aurva<i>n</i>tô; so the Pahl. arvand.
+[^983]: 237:3 Arva<i>n</i>tô = aurva<i>n</i>tô; so the Pahl. arvand.
 
-[^990]: 237:4 Comp. the Vedic K<i>ri</i><i>s</i>â´nu, archer and demi-god who guarded the Soma. Ner. seems to notice that the name recalls that of the Christians.
+[^984]: 237:4 Comp. the Vedic K<i>ri</i><i>s</i>â´nu, archer and demi-god who guarded the Soma. Ner. seems to notice that the name recalls that of the Christians.
 
-[^991]: 238:1 So the Pahlavi, before others, read apãs; comp. frãs.
+[^985]: 238:1 So the Pahlavi, before others, read apãs; comp. frãs.
 
-[^992]: 238:2 Haug's keen-sighted suggestion, pourvanîm = paurva = the Pleiades + nî = leading the P., looks doubtful, and seems refuted by Ya<i>s</i>t XXIV, 29, where Darmesteter renders a word probably akin, as ‘the many.’ I would here render ‘the former.’
+[^986]: 238:2 Haug's keen-sighted suggestion, pourvanîm = paurva = the Pleiades + nî = leading the P., looks doubtful, and seems refuted by Ya<i>s</i>t XXIV, 29, where Darmesteter renders a word probably akin, as ‘the many.’ I would here render ‘the former.’
 
-[^993]: 238:3 The ‘grasp,’ the summary of them.’
+[^987]: 238:3 The ‘grasp,’ the summary of them.’
 
-[^994]: 239:1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
+[^988]: 239:1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
 
-[^995]: 239:2 Or, ‘strike thy club.’
+[^989]: 239:2 Or, ‘strike thy club.’
 
-[^996]: 239:3 ‘Deeds apart,’ ‘evil deeds.’
+[^990]: 239:3 ‘Deeds apart,’ ‘evil deeds.’
 
-[^997]: 239:4 Free.
+[^991]: 239:4 Free.
 
-[^998]: 239:5 Or, ‘holding.’
+[^992]: 239:5 Or, ‘holding.’
 
-[^999]: 239:6 YêNhê must be an error; otherwise ‘offering the person to him whose mind as vapour waters.’
+[^993]: 239:6 YêNhê must be an error; otherwise ‘offering the person to him whose mind as vapour waters.’

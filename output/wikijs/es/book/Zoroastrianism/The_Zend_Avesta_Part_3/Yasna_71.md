@@ -90,38 +90,38 @@ Y ofrecemos sacrificios a las almas de los muertos, [que son los Fravashis de lo
 
 ## Notas al pie
 
-[^1376]: 327:1 Esto, aunque muy antiguo para nosotros, no es, por supuesto, genuino en su forma actual. Sin duda, fue compuesto mucho después de que Frashao<i>s</i>tra y Zaratustra fallecieran. Sin embargo, podría ser una ampliación de un documento anterior.
+[^1365]: 327:1 Esto, aunque muy antiguo para nosotros, no es, por supuesto, genuino en su forma actual. Sin duda, fue compuesto mucho después de que Frashao<i>s</i>tra y Zaratustra hubieran fallecido. Sin embargo, podría ser una ampliación de un documento anterior.
 
-[^1377]: 327:2 'La Amesha Spe<i>n</i>ta de los santos.'
+[^1366]: 327:2 'La Amesha Spe<i>n</i>ta de los santos.'
 
-[^1378]: 328:1 Los cuerpos celestes son denominados así en otros lugares, y el sol es llamado su ojo. ![](/image/book/The_Zend_Avesta_Part_3/32800.jpg) escrito para ![](/image/book/The_Zend_Avesta_Part_3/32801.jpg).
+[^1367]: 328:1 Los cuerpos celestes son denominados así en otros lugares, y el sol es llamado su ojo. ![](/image/book/The_Zend_Avesta_Part_3/32800.jpg) escrito para ![](/image/book/The_Zend_Avesta_Part_3/32801.jpg).
 
-[^1379]: 328:2 Posiblemente, 'fueron creados puros'.
+[^1368]: 328:2 Posiblemente, 'fueron creados puros'.
 
-[^1380]: 328:3 'Con forma sagrada'.
+[^1369]: 328:3 'Con forma sagrada'.
 
-[^1381]: 328:4 O, 'son adorados como santos', vahmya<i>k</i>a, o yêsnya<i>k</i>a.
+[^1370]: 328:4 O, 'son adorados como santos', vahmya<i>k</i>a, o yêsnya<i>k</i>a.
 
-[^1382]: 328:5 Esta cifra es demasiado avanzada para ser probable. El texto ha sido alterado. Las palabras describen las aguas en otros lugares.
+[^1371]: 328:5 Esta cifra es demasiado avanzada para ser probable. El texto ha sido alterado. Las palabras describen las aguas en otros lugares.
 
-[^1383]: 328:6 Lo mismo ocurre con el pahlavi, que refiere la palabra al tercer kar, la raíz de khratu, forma pasiva (?), con sentido activo. Sin embargo, también podría significar «cortar alrededor», como preparación para la tala.
+[^1372]: 328:6 Lo mismo ocurre con el pahlavi, que refiere la palabra al tercer kar, la raíz de khratu, forma pasiva (?), con sentido activo. Sin embargo, también podría significar «cortar alrededor», como preparación para la tala.
 
-[^1384]: 329:1 En otros lugares se traduce como 'tallos'.
+[^1373]: 329:1 En otros lugares se traduce como 'tallos'.
 
-[^1385]: 329:2 No determinado como el curso de un planeta.
+[^1374]: 329:2 No determinado como el curso de un planeta.
 
-[^1386]: 329:3 Deberíamos esperar el vocativo después de 'Thy'.
+[^1375]: 329:3 Deberíamos esperar el vocativo después de 'Thy'.
 
-[^1387]: 330:1 O, 'Invocaría (mi) propia alma'; véase versículo 18.
+[^1376]: 330:1 O, 'Invocaría (mi) propia alma'; véase versículo 18.
 
-[^1388]: 330:2 Posiblemente la réplica de Frashao<i>s</i>tra, o estas son 'las mejores palabras' a las que se hace referencia en el versículo 14; pero la sección es un diálogo.
+[^1377]: 330:2 Posiblemente la réplica de Frashao<i>s</i>tra, o estas son 'las mejores palabras' a las que se hace referencia en el versículo 14; pero la sección es un diálogo.
 
-[^1389]: 330:3 Y. XLVI, 6.
+[^1378]: 330:3 Y. XLVI, 6.
 
-[^1390]: 330:4 Ahura habla.
+[^1379]: 330:4 Ahura habla.
 
-[^1391]: 331:1 Y. XLIII, 1 sigue.
+[^1380]: 331:1 Y. XLIII, 1 sigue.
 
-[^1392]: 331:2 Enfermedades que surgen de la suciedad.
+[^1381]: 331:2 Enfermedades que surgen de la suciedad.
 
-[^1393]: 332:1 Véase Y. XXXV, 4; Y. XLVIII,
+[^1382]: 332:1 Véase Y. XXXV, 4; Y. XLVIII, 6.

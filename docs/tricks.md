@@ -66,6 +66,8 @@ Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `
 `^\[\^(\d+)\] :` | `[^$1]:`
 `([^\w])'([^']*)'([^\w])` | `$1« $2 »$3` (quotes in French)
 `Français ` | `` (error translating to French)
+`## JE` | `## I`
+`<span id="([^"]+)">\[<sup><small>([^<]+)</small></sup>\]</span>` | `<span id="$1"><sup><small>[ $2 ]</small></sup></span>`
 
 ### After translation with Google Translator of Markdown articles to Spanish 
 
@@ -339,6 +341,7 @@ Other special chars:
 - Superscript: 10^5^
 - Subscript: H~2~O
 - Œ
+- §
 
 omissions in quotes:
 * english . . .

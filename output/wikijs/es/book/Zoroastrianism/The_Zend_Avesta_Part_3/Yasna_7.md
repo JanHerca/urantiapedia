@@ -124,4 +124,4 @@ El YêNhê hâtãm.
 
 ## Notas al pie
 
-[^952]: 222:1 Con Ashi; posiblemente «para una bendición», ya que Ashi suele tener el sentido de «recompensa», pero aquí parece que se entiende por santidad y plenitud escrupulosas. (Las expresiones aquí son, como es habitual, variadas).
+[^946]: 222:1 Con Ashi; posiblemente «para una bendición», ya que Ashi suele tener el sentido de «recompensa», pero aquí parece que se entiende por santidad y plenitud escrupulosas. (Las expresiones aquí son, como es habitual, variadas).

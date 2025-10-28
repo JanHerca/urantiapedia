@@ -68,10 +68,10 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1218]: 290:1 Véase Y. L, 11.
+[^1208]: 290:1 Véase Y. L, 11.
 
-[^1219]: 290:2 O, 'permanecer'.
+[^1209]: 290:2 O, 'permanecer'.
 
-[^1220]: 290:3 Véase Y. XXVIII, 3.
+[^1210]: 290:3 Véase Y. XXVIII, 3.
 
-[^1221]: 290:4 Aquí terminó una vez el Haptanghâiti.
+[^1211]: 290:4 Aquí terminó una vez el Haptanghâiti.

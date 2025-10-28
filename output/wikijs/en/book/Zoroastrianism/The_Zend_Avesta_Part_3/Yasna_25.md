@@ -72,12 +72,12 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1171]: 276:2 Or the memorised recital and fulfilment.
+[^1162]: 276:2 Or the memorised recital and fulfilment.
 
-[^1172]: 277:1 Its long tradition.
+[^1163]: 277:1 Its long tradition.
 
-[^1173]: 277:2 Or maintaining the understanding.
+[^1164]: 277:2 Or maintaining the understanding.
 
-[^1174]: 277:3 A sunrise or sunset mountain; see the word applied intellectually just previously, also previous notes on it.
+[^1165]: 277:3 A sunrise or sunset mountain; see the word applied intellectually just previously, also previous notes on it.
 
-[^1175]: 277:4 That is, heavenly.
+[^1166]: 277:4 That is, heavenly.

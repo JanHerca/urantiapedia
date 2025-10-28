@@ -70,10 +70,10 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1299]: 309:1 Avŏ nafsman.
+[^1289]: 309:1 Avŏ nafsman.
 
-[^1300]: 309:2 Hanayamnô <i>a</i>ungha, un perfecto perifrástico.
+[^1290]: 309:2 Hanayamnô <i>a</i>ungha, un perfecto perifrástico.
 
-[^1301]: 309:3 Asha Vahi<i>s</i>ta aparece como lo sugiere inmediatamente la fórmula Ashem p. 310 Vohû, Asha Vahi<i>s</i>ta parece por tanto un nombre propio, tanto aquí como en la fórmula, si un lugar explica al otro (?).
+[^1291]: 309:3 Asha Vahi<i>s</i>ta aparece como lo sugiere inmediatamente la fórmula Ashem p. 310 Vohû, Asha Vahi<i>s</i>ta parece por tanto un nombre propio, tanto aquí como en la fórmula, si un lugar explica al otro (?).
 
-[^1302]: 310:1 El siempre hablado (?). Siguen el YêNhê y el Ahuna.
+[^1292]: 310:1 El siempre hablado (?). Siguen el YêNhê y el Ahuna.

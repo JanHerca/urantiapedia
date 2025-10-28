@@ -88,28 +88,28 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1354]: 321:1 The Pahlavi translator saw the root av in this sense here with K4, 11; P6, but the form is strange.
+[^1343]: 321:1 The Pahlavi translator saw the root av in this sense here with K4, 11; P6, but the form is strange.
 
-[^1355]: 321:2 So the Pahlavi indicates with no impossible suggestion.
+[^1344]: 321:2 So the Pahlavi indicates with no impossible suggestion.
 
-[^1356]: 322:1 Or ‘virtuous,’ with Darmesteter.
+[^1345]: 322:1 Or ‘virtuous,’ with Darmesteter.
 
-[^1357]: 322:2 May’st thou sit.
+[^1346]: 322:2 May’st thou sit.
 
-[^1358]: 322:3 Zôtŏ î ya<i>s</i>tar hômanam.
+[^1347]: 322:3 Zôtŏ î ya<i>s</i>tar hômanam.
 
-[^1359]: 323:1 Or, ‘the priest continues speaking for the people.’
+[^1348]: 323:1 Or, ‘the priest continues speaking for the people.’
 
-[^1360]: 323:2 See below.
+[^1349]: 323:2 See below.
 
-[^1361]: 323:3 Or, ‘this desire, the knowledge.’
+[^1350]: 323:3 Or, ‘this desire, the knowledge.’
 
-[^1362]: 323:4 Or, ‘of the Fire’
+[^1351]: 323:4 Or, ‘of the Fire’
 
-[^1363]: 324:1 Or, ‘the good wisdom’ from the second dâ (good adjustment).
+[^1352]: 324:1 Or, ‘the good wisdom’ from the second dâ (good adjustment).
 
-[^1364]: 324:2 Passages follow from Y. XXXVIII, 2-5.
+[^1353]: 324:2 Passages follow from Y. XXXVIII, 2-5.
 
-[^1365]: 324:3 The Gâthic Kine.
+[^1354]: 324:3 The Gâthic Kine.
 
-[^1366]: 324:4 See Y. XXXIII, 10. Citations follow from Y. XXXVI, 6; Y. XLIII, 6, also the Ashem and Y. III, 24, 25; then Y. XLVII, 1-7. Then the words ‘we worship the chapter Spe<i>n</i>tâ-mainyu from the beginning,’ then the YêNhê hâtãm.
+[^1355]: 324:4 See Y. XXXIII, 10. Citations follow from Y. XXXVI, 6; Y. XLIII, 6, also the Ashem and Y. III, 24, 25; then Y. XLVII, 1-7. Then the words ‘we worship the chapter Spe<i>n</i>tâ-mainyu from the beginning,’ then the YêNhê hâtãm.

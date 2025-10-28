@@ -82,12 +82,12 @@ PRAISE TO AHURA AND THE IMMORTALS; PRAYER FOR THE PRACTICE AND DIFFUSION OF THE 
 
 ## Footnotes
 
-[^1191]: 282:1 The Pahlavi translator, as so often, first saw the proper explanation here.
+[^1182]: 282:1 The Pahlavi translator, as so often, first saw the proper explanation here.
 
-[^1192]: 283:1 Or, we are ‘purifiers,’ or ‘adorners.’ Tradition ‘spreading from man to man,’ so thoroughly implanting themselves; comp. perhaps nî<i>d</i>.
+[^1183]: 283:1 Or, we are ‘purifiers,’ or ‘adorners.’ Tradition ‘spreading from man to man,’ so thoroughly implanting themselves; comp. perhaps nî<i>d</i>.
 
-[^1193]: 283:2 Hâtãm in this sense.
+[^1184]: 283:2 Hâtãm in this sense.
 
-[^1195]: 283:3 Or, ‘in the house and stall.’
+[^1185]: 283:3 Or, ‘in the house and stall.’
 
-[^1196]: 284:1 Or, ‘live-stock.’
+[^1186]: 284:1 Or, ‘live-stock.’

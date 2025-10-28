@@ -135,8 +135,7 @@ Traducción.
 [^411]: 83:5 Supongo que es posible que khshmâvatô, aquí y en otros lugares, se refiera al sujeto humano, «para alabanza de tu adorador», pág. 84, pero no suena del todo natural. Creo que khshmâvatô es simplemente otra forma de decir «de ti», ya que mava<i>n</i>t = mí. Así, el Pahlavi también parece traducir aquí: Avô zak î lekûm va nîyâyî<i>s</i>nŏ. Ner. también: Samâga<i>k</i><i>kh</i>âmi yushmâkam namask<i>ri</i>taye, Mahâ<i>g</i><i>ñ</i>ânin.
 
 [^412]: 84:1 Esto recuerda el dasemê-stûtãm de Y. XXVIII, 10.
-
-El Pahlavi traduce libremente y con sentido crítico, considerando al spe<i>n</i>ta nar como al propio Zaratustra: Aftânŏ dên Garô<i>d</i>mânŏ stâyem. Ner.: Garothmâne staumi te.
+  El Pahlavi traduce libremente y con sentido crítico, considerando al spe<i>n</i>ta nar como al propio Zaratustra: Aftânŏ dên Garô<i>d</i>mânŏ stâyem. Ner.: Garothmâne staumi te.
 
 [^413]: 84:2 Así también las traducciones: Aîgha<i>s</i> parvari<i>s</i>n va min frarûnîh. Ner.: Uttamena pratipâlyâ manasâ. Compárese con Y. XXXII, 2: sâremanŏ khshathrâ<i>t</i>. El verbo en singular es difícil.
 
@@ -175,8 +174,7 @@ El Pahlavi traduce libremente y con sentido crítico, considerando al spe<i>n</i
 [^430]: 87:2 Min valman<i>s</i>ân barâ rakhîk aîtŏ Vohûman. Asmanô parece una lectura imposible y no se puede conciliar con Vohû.
 
 [^431]: 87:3 La alusión del Pahlavi apunta, como de costumbre, al sentido general, dejándonos la tarea de descubrir la estructura gramatical.
-
-Aquí no sigo la indicación de sedkûnyên; Ner. parikshipyanti. El voc. «Oh Tú» es libre.
+  Aquí no sigo la indicación de sedkûnyên; Ner. parikshipyanti. El voc. «Oh Tú» es libre.
 
 [^432]: 87:4 Así también en general el Pahlavi: Min valman<i>s</i>ân kabed Aharâyîh se<i>g</i>dak; Ner. tebhya<i>h</i>\* prabhuto dharma<i>h</i>\* prabhra<i>s</i>yati.
 

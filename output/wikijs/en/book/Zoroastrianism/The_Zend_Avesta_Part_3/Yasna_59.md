@@ -70,10 +70,10 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1299]: 309:1 Avŏ naf<i>s</i>man.
+[^1289]: 309:1 Avŏ naf<i>s</i>man.
 
-[^1300]: 309:2 Hanayamnô <i>a</i>ungha, a periphrastic perfect.
+[^1290]: 309:2 Hanayamnô <i>a</i>ungha, a periphrastic perfect.
 
-[^1301]: 309:3 Asha Vahi<i>s</i>ta occurs as immediately suggested by the Ashem p. 310 Vohû formula, Asha Vahi<i>s</i>ta seems therefore a proper name, both here and in the formula, if one place explains the other (?).
+[^1291]: 309:3 Asha Vahi<i>s</i>ta occurs as immediately suggested by the Ashem p. 310 Vohû formula, Asha Vahi<i>s</i>ta seems therefore a proper name, both here and in the formula, if one place explains the other (?).
 
-[^1302]: 310:1 The ever-spoken (?). The YêNhê and Ahuna follow.
+[^1292]: 310:1 The ever-spoken (?). The YêNhê and Ahuna follow.

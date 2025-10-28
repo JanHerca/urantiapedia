@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T13:0:42Z
 
 1\. Que Sraosha (la Obediencia que escucha) esté presente aquí para la adoración de Ahura Mazda, el más benéfico y santo, a quien deseamos tanto al principio como al final; y que de nuevo la Obediencia atenta esté presente aquí para la adoración de Ahura Mazda, el más benéfico y santo, a quien deseamos tanto.
 
-2\. (Sí), que Sraosha (la Obediencia atenta) esté presente aquí para la adoración de las buenas aguas, y para los Fravashis de los santos que tanto deseamos nosotras, \[^1233]) almas\], como al principio, así también al final.
+2\. (Sí), que Sraosha (la Obediencia atenta) esté presente aquí para la adoración de las buenas aguas, y para los Fravashis de los santos que tanto deseamos nosotras, [^1233]) almas\], como al principio, así también al final.
 
 Y así nuevamente pueda Sraosha (la Obediencia que escucha) estar presente aquí para la adoración de las buenas aguas, y para los Fravashis de los santos, que son tan deseados por Nosotros, \[(y) para (sus) almas\].
 
@@ -72,12 +72,12 @@ Y así nuevamente pueda Sraosha (la Obediencia que escucha) estar presente aquí
 
 ## Notas al pie
 
-[^1243]: 296:1 Uno podría inclinarse a traducir «quienes son tan deseados por nosotros para nuestras almas». Pero creo que las palabras son Pâzand a las anteriores.
+[^1233]: 296:1 Uno podría inclinarse a traducir «quienes son tan deseados por nosotros para nuestras almas». Pero creo que las palabras son Pâzand a las anteriores.
 
-[^1244]: 296:2 O, 'dotado de recompensa'.
+[^1234]: 296:2 O, 'dotado de recompensa'.
 
-[^1245]: 297:1 De los nombres femeninos.
+[^1235]: 297:1 De los nombres femeninos.
 
-[^1246]: 297:2 O, 'danos'. Siguen aquí el Ahuna y el Ashem Vohû.
+[^1236]: 297:2 O, 'danos'. Siguen aquí el Ahuna y el Ashem Vohû.
 
-[^1247]: 297:3 Sigue el YêNhê hâtãm, etc.
+[^1237]: 297:3 Sigue el YêNhê hâtãm, etc.

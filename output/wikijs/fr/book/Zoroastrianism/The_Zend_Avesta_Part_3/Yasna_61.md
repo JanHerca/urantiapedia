@@ -66,14 +66,14 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1319]: 312:4 De Harlez, ‘faisons retentir.’
+[^1308]: 312:4 De Harlez, ‘faisons retentir.’
 
-[^1320]: 312:5 Les Pahlavi sont peut-être des « diminuteurs » ; Darmesteter, « provoquant la dépérissement ».
+[^1309]: 312:5 Les Pahlavi sont peut-être des « diminuteurs » ; Darmesteter, « provoquant la dépérissement ».
 
-[^1321]: 313:1 « Cannibales » a été suggéré comme signification ici.
+[^1310]: 313:1 « Cannibales » a été suggéré comme signification ici.
 
-[^1322]: 313:2 Les Zendiks ultérieurs ne sont bien sûr pas visés, à moins que nous n'ayons une interpolation.
+[^1311]: 313:2 Les Zendiks ultérieurs ne sont bien sûr pas visés, à moins que nous n'ayons une interpolation.
 
-[^1323]: 313:3 Citation des Gâthas, Y. XLV, 6.
+[^1312]: 313:3 Citation des Gâthas, Y. XLV, 6.
 
-[^1324]: 313:4 Les citations suivent.
+[^1313]: 313:4 Les citations suivent.

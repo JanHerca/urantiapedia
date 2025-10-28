@@ -94,34 +94,34 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1020]: 244:5 This characteristic fragment is repeated and extended in the later literature of the Parsis. The curse of the cow, horse, and of Haoma (scilicet the priest) when they are stinted, was extended to all domestic animals. It has been difficult to avoid the full metrical rhythm of the original with its jingling cadence. A full freedom is also not avoided.
+[^1014]: 244:5 This characteristic fragment is repeated and extended in the later literature of the Parsis. The curse of the cow, horse, and of Haoma (scilicet the priest) when they are stinted, was extended to all domestic animals. It has been difficult to avoid the full metrical rhythm of the original with its jingling cadence. A full freedom is also not avoided.
 
-[^1021]: 244:6 Not ‘to the priest;’ Ner. g<i>ri</i>hîtâram.
+[^1015]: 244:6 Not ‘to the priest;’ Ner. g<i>ri</i>hîtâram.
 
-[^1022]: 245:1 ‘Who dost not give me cooked (food)’ seems improbable. If <i>h</i><i>v</i>âstãm means fodder, why is it fem., especially here with a feminine correlative? I think that ‘having good food’ is the meaning of the word, as an adjective, and agreeing with gãm understood. Possibly, ‘who dost not bestow upon me as the one well-foddered.’
+[^1016]: 245:1 ‘Who dost not give me cooked (food)’ seems improbable. If <i>h</i><i>v</i>âstãm means fodder, why is it fem., especially here with a feminine correlative? I think that ‘having good food’ is the meaning of the word, as an adjective, and agreeing with gãm understood. Possibly, ‘who dost not bestow upon me as the one well-foddered.’
 
-[^1023]: 245:2 Dialectically used.
+[^1017]: 245:2 Dialectically used.
 
-[^1024]: 245:3 ‘Light is the intoxication of Haoma;’ (other toxicants smite the head).
+[^1018]: 245:3 ‘Light is the intoxication of Haoma;’ (other toxicants smite the head).
 
-[^1025]: 245:4 ‘Having death afar.’
+[^1019]: 245:4 ‘Having death afar.’
 
-[^1026]: 246:1 A Turanian king.
+[^1020]: 246:1 A Turanian king.
 
-[^1027]: 246:2 Observe the threefold division of the earth; see it also in Vend. II.
+[^1021]: 246:2 Observe the threefold division of the earth; see it also in Vend. II.
 
-[^1028]: 246:3 A poetical reproduction. Z. had been long among the ancient dead.
+[^1022]: 246:3 A poetical reproduction. Z. had been long among the ancient dead.
 
-[^1029]: 246:4 The Raspi at present hands the Haoma-cup to the priest at this point; the efficacy of the liquor is supposed to be multiplied.
+[^1023]: 246:4 The Raspi at present hands the Haoma-cup to the priest at this point; the efficacy of the liquor is supposed to be multiplied.
 
-[^1030]: 246:5 Pe<i>n</i>daidyâi is to be read as of course; the letter ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), not unlike ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) in a MS. when turned, was probably half inverted.
+[^1024]: 246:5 Pe<i>n</i>daidyâi is to be read as of course; the letter ![](/image/book/The_Zend_Avesta_Part_3/24600.jpg), not unlike ![](/image/book/The_Zend_Avesta_Part_3/24601.jpg) in a MS. when turned, was probably half inverted.
 
-[^1031]: 246:6 This seems rendered by the Pahlavi as an interlude between the Ratu and the Zaotar; comp. Y. XXVIII, 11. Several broken sentences from other parts of the Avesta are here doubtfully recalled, perhaps as having especial sanctity.
+[^1025]: 246:6 This seems rendered by the Pahlavi as an interlude between the Ratu and the Zaotar; comp. Y. XXVIII, 11. Several broken sentences from other parts of the Avesta are here doubtfully recalled, perhaps as having especial sanctity.
 
-[^1032]: 246:7 The Raspi brings the Haoma-vessel to the Baresman at this point; and touching its stand, the Mâh-rû, lays a cloth on the right hand of the Zaotar, who, looking at the vessel, proceeds to recite as follows in verse 10.
+[^1026]: 246:7 The Raspi brings the Haoma-vessel to the Baresman at this point; and touching its stand, the Mâh-rû, lays a cloth on the right hand of the Zaotar, who, looking at the vessel, proceeds to recite as follows in verse 10.
 
-[^1033]: 247:1 See Y. VIII, 5-8.
+[^1027]: 247:1 See Y. VIII, 5-8.
 
-[^1034]: 247:2 See Y. III, 24, 25.
+[^1028]: 247:2 See Y. III, 24, 25.
 
-[^1035]: 247:3 This piece is in the Gâthic dialect, and therefore an especially fitting prelude to the Confession of faith in Y. XII.
+[^1029]: 247:3 This piece is in the Gâthic dialect, and therefore an especially fitting prelude to the Confession of faith in Y. XII.

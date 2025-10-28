@@ -118,42 +118,42 @@ A la obediencia me he entregado, y a la desobediencia sorda, no; al santo perten
 
 ## Notas al pie
 
-[^1000]: 240:1 El Pahlavi corregido por el manuscrito de Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i tiene barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i><i>k</i>t asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati.
+[^994]: 240:1 El Pahlavi corregido por el MS. de Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i has barâ akhar min latamman pa<i>d</i>ênd barâ shêdâ-; Ner. <i>Ri</i>te pa<i>s</i><i>k</i>ât asmât prapatanti, <i>ri</i>te devâ<i>h</i> <i>ri</i>te devasahâyâ<i>h</i> devyâ<i>h</i>, uttama<i>h</i> <i>S</i>ro<i>s</i>o nivasati.
 
-[^1001]: 240:2 O, '¡dónde, oh Haoma! has crecido', lectura—es con Barth. como 2.º sing. perf. pret. medio.
+[^995]: 240:2 O, '¡dónde, oh Haoma! has crecido', lectura—es con Barth. como 2.º sing. perf. pret. medio.
 
-[^1002]: 240:3 O, 'en los caminos de las aves'.
+[^996]: 240:3 O, 'en los caminos de las aves'.
 
-[^1003]: 241:1 De efecto inmediato y dando sabiduría.
+[^997]: 241:1 De efecto inmediato y dando sabiduría.
 
-[^1004]: Comp. 241:2. Y. XLIV, 5.
+[^998]: 241:2 Comp. Y. XLIV, 5.
 
-[^1005]: 242:1 Posiblemente 'los pájaros enseñados por el generoso'; los 'pájaros enseñados por Dios'.
+[^999]: 242:1 Posiblemente 'los pájaros enseñados por el generoso'; los 'pájaros enseñados por Dios'.
 
-[^1006]: 242:2 En otros lugares y aquí también posiblemente un nombre propio.
+[^1000]: 242:2 En otros lugares y aquí también posiblemente un nombre propio.
 
-[^1007]: 242:3 O los «caminos de las aves»; así Haug, siguiendo a Spiegel y Justi. Gu<i>g</i>rati, como arriba.
+[^1001]: 242:3 O los «caminos de las aves»; así Haug, siguiendo a Spiegel y Justi. Gu<i>g</i>rati, como arriba.
 
-[^1008]: 242:4 Lo cual se ve como mío bien crecido.
+[^1002]: 242:4 Lo cual se ve como mío bien crecido.
 
-[^1009]: 242:5 <i>G</i>aini parece usarse siempre en un sentido malvado en el Avesta posterior.
+[^1003]: 242:5 <i>G</i>aini parece usarse siempre en un sentido malvado en el Avesta posterior.
 
-[^1010]: 243:1 Lo corregiría a una forma de khratu.
+[^1004]: 243:1 Lo corregiría a una forma de khratu.
 
-[^1011]: 243:2 Compárese con la evitación del servicio mencionada por el traductor Pahlavi en Y. LIII, 5.
+[^1005]: 243:2 Compárese la evitación del servicio mencionada por el traductor Pahlavi en Y. LIII, 5.
 
-[^1012]: 243:3 O, más seguramente, 'muchos hijos'.
+[^1006]: 243:3 O, más seguramente, 'muchos hijos'.
 
-[^1013]: 243:4 Haoma habla.
+[^1007]: 243:4 Haoma habla.
 
-[^1014]: 243:5 Aquí el sacerdote evidentemente manipula las copas que contienen el jugo de Haoma.
+[^1008]: 243:5 Aquí el sacerdote evidentemente manipula las copas que contienen el jugo de Haoma.
 
-[^1015]: 243:6 La aplicación de este término aquí parece indicar una gran antigüedad del Haoma Ya<i>s</i>t; si no en la pieza actual, que no es tan antigua como los Gâthas, entonces en himnos anteriores a Haoma de los cuales este Ya<i>s</i>t es una mejora o extensión.
+[^1009]: 243:6 La aplicación de este término aquí parece indicar una gran antigüedad del Haoma Ya<i>s</i>t; si no en la pieza actual, que no es tan antigua como los Gâthas, entonces en himnos anteriores a Haoma de los cuales este Ya<i>s</i>t es una mejora o extensión.
 
-[^1016]: 244:1 Ner. posiblemente en sentido figurado yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>.
+[^1010]: 244:1 Ner. posiblemente en sentido figurado yâ<i>h</i> ka<i>s</i><i>k</i>it asvâdanâ<i>h</i>.
 
-[^1017]: 244:2 Ner. saundarya<i>m</i>.
+[^1011]: 244:2 Ner. saundarya<i>m</i>.
 
-[^1018]: 244:3 Véase Y. XLVIII, 5.
+[^1012]: 244:3 Véase Y. XLVIII, 5.
 
-[^1019]: 244:4 Sigue el YêNhê hâtãm.
+[^1013]: 244:4 Sigue el YêNhê hâtãm.

@@ -86,36 +86,36 @@ A blessing is the Right called the best, there is weal, there is weal to this (m
 
 ## Footnotes
 
-[^1051]: 250:3 This Ratu is the description and representation of the Nmânôpaiti as occupying the attention of the worshippers chiefly at the time of his mention in the course of the ritual. (I vary the expression ‘chief’ with that of ‘lord’ here for the sake of change.) Once established as a Ratu in the ritual, he became a guardian genius Nmânya; so of the others. (Y. XIII is in the Gâthic dialect.)
+[^1045]: 250:3 This Ratu is the description and representation of the Nmânôpaiti as occupying the attention of the worshippers chiefly at the time of his mention in the course of the ritual. (I vary the expression ‘chief’ with that of ‘lord’ here for the sake of change.) Once established as a Ratu in the ritual, he became a guardian genius Nmânya; so of the others. (Y. XIII is in the Gâthic dialect.)
 
-[^1052]: 251:1 Vîsya.
+[^1046]: 251:1 Vîsya.
 
-[^1053]: 251:2 Za<i>n</i>tuma.
+[^1047]: 251:2 Za<i>n</i>tuma.
 
-[^1054]: 251:3 Da<i>h</i><i>v</i>yuma = Dahyuma.
+[^1048]: 251:3 Da<i>h</i><i>v</i>yuma = Dahyuma.
 
-[^1055]: 251:4 The goddess of riches.
+[^1049]: 251:4 The goddess of riches.
 
-[^1056]: 251:5 Lit. biped; see elsewhere where quadruped means merely beast.
+[^1050]: 251:5 Lit. biped; see elsewhere where quadruped means merely beast.
 
-[^1057]: 251:6 Or, ‘households.’
+[^1051]: 251:6 Or, ‘households.’
 
-[^1058]: 251:7 Ashethwôzgatemã (several manuscripts have ashe) finds its explanation from the Pahlavi of Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i's MS. it may be read kabed ran<i>g</i> rasi<i>s</i>ntûm instead of kabed yôm rasi<i>s</i>ntûm. The ancient error of yôm arose from the fact that the copyist had before him a form which might be read either rô<i>g</i> or ran<i>g</i>, the characters being identical for either word. He could not reconcile himself to ran<i>g</i> in the sense of effort, and so decided for rô<i>g</i>; but in order to guide his successors aright, he changed it for its synonym yôm, which, as Spiegel well remarks, affords but little sense. But the word is ran<i>g</i>, as I believe, and this is at once corroborated by Ner.'s bahukle<i>s</i>a. Read a<i>s</i> + thwakh<i>s</i>a + gatemã = kabed + ran<i>g</i> + rasi<i>s</i>ntûm, the most progressing with painful energy.
+[^1052]: 251:7 Ashethwôzgatemã (several manuscripts have ashe) finds its explanation from the Pahlavi of Dastur Hoshang<i>g</i>i <i>G</i>âmâsp<i>g</i>i's MS. it may be read kabed ran<i>g</i> rasi<i>s</i>ntûm instead of kabed yôm rasi<i>s</i>ntûm. The ancient error of yôm arose from the fact that the copyist had before him a form which might be read either rô<i>g</i> or ran<i>g</i>, the characters being identical for either word. He could not reconcile himself to ran<i>g</i> in the sense of effort, and so decided for rô<i>g</i>; but in order to guide his successors aright, he changed it for its synonym yôm, which, as Spiegel well remarks, affords but little sense. But the word is ran<i>g</i>, as I believe, and this is at once corroborated by Ner.'s bahukle<i>s</i>a. Read a<i>s</i> + thwakh<i>s</i>a + gatemã = kabed + ran<i>g</i> + rasi<i>s</i>ntûm, the most progressing with painful energy.
 
-[^1059]: 251:8 Or, ‘steadiest forces.’
+[^1053]: 251:8 Or, ‘steadiest forces.’
 
-[^1060]: 252:1I should think that the reference was here to khratavŏ, Y. XLVI, 3. See Y. XXXII, 14, as alternatively rendered.
+[^1054]: 252:1I should think that the reference was here to khratavŏ, Y. XLVI, 3. See Y. XXXII, 14, as alternatively rendered.
 
-[^1061]: 252:2 A portion of the text has here fallen out.
+[^1055]: 252:2 A portion of the text has here fallen out.
 
-[^1062]: 252:3 The recognition of a strong dualism here is imperative. Ahura alone is praised.
+[^1056]: 252:3 The recognition of a strong dualism here is imperative. Ahura alone is praised.
 
-[^1063]: 252:4 Or, ‘of the good kinsman, the lord (?).’
+[^1057]: 252:4 Or, ‘of the good kinsman, the lord (?).’
 
-[^1064]: 252:5 Elsewhere meaning ‘meat,’ just as Ameretatâ<i>t</i> and Haurvatâ<i>t</i> mean wood and water.
+[^1058]: 252:5 Elsewhere meaning ‘meat,’ just as Ameretatâ<i>t</i> and Haurvatâ<i>t</i> mean wood and water.
 
-[^1065]: 252:6 Or, ‘sanctity and the Fravashi.’
+[^1059]: 252:6 Or, ‘sanctity and the Fravashi.’
 
-[^1066]: 253:1 Feminine.
+[^1060]: 253:1 Feminine.
 
-[^1069]: 253:2 Elsewhere with verbal difference.
+[^1061]: 253:2 Elsewhere with verbal difference.

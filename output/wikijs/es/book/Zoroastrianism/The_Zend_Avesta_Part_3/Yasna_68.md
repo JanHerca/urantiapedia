@@ -88,28 +88,28 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1354]: 321:1 El traductor Pahlavi vio la raíz av en este sentido aquí con K4, 11; P6, pero la forma es extraña.
+[^1343]: 321:1 El traductor Pahlavi vio la raíz av en este sentido aquí con K4, 11; P6, pero la forma es extraña.
 
-[^1355]: 321:2 Así lo indica el Pahlavi sin ninguna sugerencia imposible.
+[^1344]: 321:2 Así lo indica el Pahlavi sin ninguna sugerencia imposible.
 
-[^1356]: 322:1 O 'virtuoso', con Darmesteter.
+[^1345]: 322:1 O 'virtuoso', con Darmesteter.
 
-[^1357]: 322:2 ¿Puedes sentarte?
+[^1346]: 322:2 ¿Puedes sentarte?
 
-[^1358]: 322:3 Zôtŏ î ya<i>s</i>tar hômanam.
+[^1347]: 322:3 Zôtŏ î ya<i>s</i>tar hômanam.
 
-[^1359]: 323:1 O bien, 'el sacerdote continúa hablando por el pueblo'.
+[^1348]: 323:1 O bien, 'el sacerdote continúa hablando por el pueblo'.
 
-[^1360]: 323:2 Véase más abajo.
+[^1349]: 323:2 Véase más abajo.
 
-[^1361]: 323:3 O, 'este deseo, el conocimiento'.
+[^1350]: 323:3 O, 'este deseo, el conocimiento'.
 
-[^1362]: 323:4 O, 'del Fuego'
+[^1351]: 323:4 O, 'del Fuego'
 
-[^1363]: 324:1 O, 'la buena sabiduría' del segundo dâ (buen ajuste).
+[^1352]: 324:1 O, 'la buena sabiduría' del segundo dâ (buen ajuste).
 
-[^1364]: 324:2 Los pasajes se desprenden de Y. XXXVIII, 2-5.
+[^1353]: 324:2 Los pasajes siguen de Y. XXXVIII, 2-5.
 
-[^1365]: 324:3 Las vacas góticas.
+[^1354]: 324:3 El ganado gótico.
 
-[^1366]: 324:4 Véase Y. XXXIII, 10. Siguen citas de Y. XXXVI, 6; Y. XLIII, 6, también del Ashem y Y. III, 24, 25; luego Y. XLVII, 1-7. Luego las palabras «adoramos al capítulo Spe<i>n</i>tâ-mainyu desde el principio», y después el YêNhê hâtãm.
+[^1355]: 324:4 Véase Y. XXXIII, 10. Siguen citas de Y. XXXVI, 6; Y. XLIII, 6, también del Ashem y Y. III, 24, 25; luego Y. XLVII, 1-7. Luego las palabras «adoramos al capítulo Spe<i>n</i>tâ-mainyu desde el principio», y después el YêNhê hâtãm.

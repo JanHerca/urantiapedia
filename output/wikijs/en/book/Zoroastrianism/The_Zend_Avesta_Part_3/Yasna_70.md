@@ -72,20 +72,20 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1367]: 325:1 Reading tashv<i>a</i>unghem(?) (comp. dadhv<i>a</i>unghem), according to the indication of the Pahlavi.
+[^1356]: 325:1 Reading tashv<i>a</i>unghem(?) (comp. dadhv<i>a</i>unghem), according to the indication of the Pahlavi.
 
-[^1368]: 325:2 Tashan with change of accent. So the Pahlavi indicates.
+[^1357]: 325:2 Tashan with change of accent. So the Pahlavi indicates.
 
-[^1369]: 326:1 Read the gloss to the Pahlavi in Visp. IX, 3, anêranîhâ.
+[^1358]: 326:1 Read the gloss to the Pahlavi in Visp. IX, 3, anêranîhâ.
 
-[^1370]: 326:2 Or, bare<i>n</i>tû, ‘let them lift.’
+[^1359]: 326:2 Or, bare<i>n</i>tû, ‘let them lift.’
 
-[^1371]: 326:3 Y. XXXI, 12.
+[^1360]: 326:3 Y. XXXI, 12.
 
-[^1372]: 326:4 See Y. XXXI, 22.
+[^1361]: 326:4 See Y. XXXI, 22.
 
-[^1373]: 326:5 Y. XLIV, 1.
+[^1362]: 326:5 Y. XLIV, 1.
 
-[^1374]: 326:6 Y. XLIV, 8.
+[^1363]: 326:6 Y. XLIV, 8.
 
-[^1375]: 326:7 The YêNhê hâtãm.
+[^1364]: 326:7 The YêNhê hâtãm.

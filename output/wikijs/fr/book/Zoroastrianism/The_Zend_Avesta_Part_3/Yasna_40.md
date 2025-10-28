@@ -71,16 +71,16 @@ Ainsi puissions-nous être pour Toi, ô Mazda Ahura ! saints et vrais [^1207], e
 
 ## Notes de bas de page
 
-[^1211]: 288:4 Une femme. nom mazda = medha.
+[^1201]: 288:4 Une femme. nom mazda = medha.
 
-[^1212]: 289:1 Sinon, « compréhension qui protège » (?).
+[^1202]: 289:1 Sinon, « compréhension qui protège » (?).
 
-[^1213]: 289:2 Ainsi les Pahlavi et les Ner.
+[^1203]: 289:2 Ainsi les Pahlavi et les Ner.
 
-[^1214]: 289:3 Bezvait.
+[^1204]: 289:3 Bezvait.
 
-[^1215]: 289:4 Puissions-nous nous réjouir(?).
+[^1205]: 289:4 Puissions-nous nous réjouir(?).
 
-[^1216]: 289:5 Hakh<i>e</i>mã (= -a) remplaçant l'airyaman des Gâthas et éclairant sa signification. La forme est irrégulière.
+[^1206]: 289:5 Hakh<i>e</i>mã (= -a) remplaçant l'airyaman des Gâthas et éclairant sa signification. La forme est irrégulière.
 
-[^1217]: 289:6 Ou, 'saints <i>ri</i>shis' (ereshayô?).
+[^1207]: 289:6 Ou, 'saints <i>ri</i>shis' (ereshayô?).

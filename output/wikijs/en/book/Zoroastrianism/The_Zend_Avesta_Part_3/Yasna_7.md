@@ -124,4 +124,4 @@ The YêNhê hâtãm.
 
 ## Footnotes
 
-[^952]: 222:1 With Ashi; possibly ‘for a blessing,’ as Ashi often has the sense of ‘reward,’ but scrupulous sanctity and completeness seem to be the sense here. (Expressions here are as usual varied.)
+[^946]: 222:1 With Ashi; possibly ‘for a blessing,’ as Ashi often has the sense of ‘reward,’ but scrupulous sanctity and completeness seem to be the sense here. (Expressions here are as usual varied.)

@@ -68,6 +68,6 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1201]: 286:1 O, 'con la prioridad en los Yasnas, (nosotros que somos ellos) que moramos.'
+[^1191]: 286:1 O, 'con la prioridad en los Yasnas, (nosotros que somos ellos) que moramos.'
 
-[^1202]: 286:2 Se interpola T<i>e</i>m; ¿o debemos traducir: 'Le adoramos' como en la F. con uso adverbial como en el griego, y a menudo aquí?
+[^1192]: 286:2 Se interpola T<i>e</i>m; ¿o debemos traducir: 'Le adoramos' como en la F. con uso adverbial como en el griego, y a menudo aquí?

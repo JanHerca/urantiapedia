@@ -88,10 +88,10 @@ I offer the Myazda (of the) meat-offering with a complete and sacred offering; a
 
 ## Footnotes
 
-[^953]: 229:1 Or ‘shut out,’ which would seem better adapted.
+[^947]: 229:1 Or ‘shut out,’ which would seem better adapted.
 
-[^954]: 229:2 This piece is a reproduction, or close imitation, of some earlier fragment. It sounds like an exhortation delivered while the Faith was still new.
+[^948]: 229:2 This piece is a reproduction, or close imitation, of some earlier fragment. It sounds like an exhortation delivered while the Faith was still new.
 
-[^955]: 230:1 The Pahlavi translator, as I think, had a text before him which read du<i>z</i><i>h</i><i>v</i>âthrem; I so correct. Against the keen and most interesting suggestion of du<i>z</i> + âthrem, I am compelled to note a<i>h</i><i>v</i>âthrê, showing a compositum a + <i>h</i><i>v</i>âthra, which seems not probable if = a + hu + âthra. Du<i>z</i>âthra, not a<i>h</i><i>v</i>âthrê, would have been written. Cp. <i>h</i><i>v</i>eng = <i>h</i><i>v</i>an for root.
+[^949]: 230:1 The Pahlavi translator, as I think, had a text before him which read du<i>z</i><i>h</i><i>v</i>âthrem; I so correct. Against the keen and most interesting suggestion of du<i>z</i> + âthrem, I am compelled to note a<i>h</i><i>v</i>âthrê, showing a compositum a + <i>h</i><i>v</i>âthra, which seems not probable if = a + hu + âthra. Du<i>z</i>âthra, not a<i>h</i><i>v</i>âthrê, would have been written. Cp. <i>h</i><i>v</i>eng = <i>h</i><i>v</i>an for root.
 
-[^956]: 230:2 Possibly ‘house.’
+[^950]: 230:2 Possibly ‘house.’

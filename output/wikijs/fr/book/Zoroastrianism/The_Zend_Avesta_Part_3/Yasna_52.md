@@ -66,16 +66,16 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1227]: 292:1 Ou, 'pour ce qui est passé' ? bavãithyâi<i>k</i>a.
+[^1217]: 292:1 Ou, 'pour ce qui est passé' ? bavãithyâi<i>k</i>a.
 
-[^1228]: 292:2 Dareghô-vârethmanem est traité comme un féminin ; voir aussi dareghô-vârethmanô au verset 3.
+[^1218]: 292:2 Dareghô-vârethmanem est traité comme un féminin ; voir aussi dareghô-vârethmanô au verset 3.
 
-[^1229]: 292:3 Avons-nous hvô-aiwishâ<i>k</i>îm, comme représentant une forme plus régulière ?
+[^1219]: 292:3 Avons-nous hvô-aiwishâ<i>k</i>îm, comme représentant une forme plus régulière ?
 
-[^1230]: 292:4 Sources médicinales.
+[^1220]: 292:4 Sources médicinales.
 
-[^1231]: 292:5 Ce Yasna était célébré de maison en maison.
+[^1221]: 292:5 Ce Yasna était célébré de maison en maison.
 
-[^1232]: 292:6 Varethman.
+[^1222]: 292:6 Varethman.
 
-[^1233]: 293:1 Citation des Gâthas (Y. XLV, 6).
+[^1223]: 293:1 Citation des Gâthas (Y. XLV, 6).

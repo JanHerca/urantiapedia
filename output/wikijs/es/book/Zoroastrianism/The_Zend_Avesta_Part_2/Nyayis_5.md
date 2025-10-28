@@ -140,42 +140,42 @@ Ashem Vohû: La santidad es el mejor de todos los bienes...
 
 ## Notas al pie
 
-[^1609]: 357:6 §§ 1-3 = Yasna XXXIII, 12-14.
+[^1538]: 357:6 §§ 1-3 = Yasna XXXIII, 12-14.
 
-[^1610]: 357:7 'Líbrame de Ahriman' (Pahl. Comm.).
+[^1539]: 357:7 'Líbrame de Ahriman' (Pahl. Comm.).
 
-[^1611]: 357:8 Como en Ormazd Ya<i>s</i>t, 0.
+[^1540]: 357:8 Como en Ormazd Ya<i>s</i>t, 0.
 
-[^1612]: 358:1 Como en Ormazd Ya<i>s</i>t, 0.
+[^1541]: 358:1 Como en Ormazd Ya<i>s</i>t, 0.
 
-[^1613]: 358:2 Cfr. Sîrôzah, § 9.
+[^1542]: 358:2 Cfr. Sîrôzah, § 9.
 
-[^1614]: 358:3 §§ 7-16 = Yasna LXII, 1-10 (LXI). Véase la traducción sánscrita en Études Iraniennes, II.
+[^1543]: 358:3 §§ 7-16 = Yasna LXII, 1-10 (LXI). Véase la traducción sánscrita en Études Iraniennes, II.
 
-[^1615]: 359:1 El mortero para golpear a los Haoma.
+[^1544]: 359:1 El mortero para golpear a los Haoma.
 
-[^1616]: 359:2 En calidad y cantidad.
+[^1545]: 359:2 En calidad y cantidad.
 
-[^1617]: 359:3 Upasayêni: lo que se añade para mantener el fuego cuando está encendido (traducción personal).
+[^1546]: 359:3 Upasayêni: lo que se añade para mantener el fuego cuando está encendido (traducción personal).
 
-[^1618]: 359:4 El gaoshô-srûta khratu y el âsna khratu (ver [p. 7](../Sirozahs_1#p7). nota [1](../Sirozahs_1#fn39)).
+[^1547]: 359:4 El gaoshô-srûta khratu y el âsna khratu (ver [p. 7](../Sirozahs_1#p7). nota [1](../Sirozahs_1#fn39)).
 
-[^1619]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (traducción sánsk.).
+[^1548]: 360:1 Yâ mê afras<i>a</i>ungh<i>a</i>u angha<i>t</i>: yâ me abhût ayogyatâ (traducción sánsk.).
 
-[^1620]: 360:2 Aquí.
+[^1549]: 360:2 Aquí.
 
-[^1621]: 360:3 Arriba.
+[^1550]: 360:3 Arriba.
 
-[^1622]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
+[^1551]: 360:4 Khshafnîm, sûirîm (Études Iraniennes, II, 161).
 
-[^1623]: 360:5 Âtar.
+[^1552]: 360:5 Âtar.
 
-[^1624]: 360:6 'Corporalmente está enfermo (armê<i>s</i>t, inmóvil); espiritualmente es un guerrero' (Pahl. Comm.).
+[^1553]: 360:6 'Corporalmente está enfermo (armê<i>s</i>t, inmóvil); espiritualmente es un guerrero' (Pahl. Comm.).
 
-[^1625]: 361:1 Véase Vend. p. 94, nota 1.
+[^1554]: 361:1 Véase Vend. p. 94, nota 1.
 
-[^1626]: 361:2 Cfr. Vender. XVIII, 26-27.
+[^1555]: 361:2 Cfr. Vender. XVIII, 26-27.
 
-[^1628]: 361:3 De Yasna XXXIV, 4.
+[^1556]: 361:3 De Yasna XXXIV, 4.
 
-[^1629]: 361:4 'En el var nîrang' (Pahl. Comm.), es decir, en la prueba del fuego; véase arriba, [p. 170](../Yasts_12#p170), nota [3](../Yasts_12#fn787).
+[^1557]: 361:4 'En el var nîrang' (Pahl. Comm.), es decir, en la prueba del fuego; véase arriba, [p. 170](../Yasts_12#p170), nota [3](../Yasts_12#fn787).

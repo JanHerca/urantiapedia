@@ -170,71 +170,71 @@ For his splendour and his glory, for his might, which smites with victory, I wil
 
 ## Footnotes
 
-[^1248]: 297:4 As Sraosha is the only divinity of the later groups mentioned in the first four Gâthas, this Ya<i>s</i>t would seem to have claims to antiquity next after the pieces in the Gâthic dialect. The name Sraosha does not appear to have lost its meaning as an abstract quality, notwithstanding the materialistic imagery. With Y. XXVIII, 6 in view, where Sraosha ‘finds the way’ to Ahura, or ‘finds His throne,’ we may understand that the worshippers, who first heard this Ya<i>s</i>t, praised listening obedience, or repentance, as they did nearly all the remaining abstract qualities, together with their principal prayers, and hymns themselves. The rhythm of the original has been somewhat imitated in the rendering given, as it is difficult to avoid doing so, and to avoid other objectionable features at the same time.
+[^1238]: 297:4 As Sraosha is the only divinity of the later groups mentioned in the first four Gâthas, this Ya<i>s</i>t would seem to have claims to antiquity next after the pieces in the Gâthic dialect. The name Sraosha does not appear to have lost its meaning as an abstract quality, notwithstanding the materialistic imagery. With Y. XXVIII, 6 in view, where Sraosha ‘finds the way’ to Ahura, or ‘finds His throne,’ we may understand that the worshippers, who first heard this Ya<i>s</i>t, praised listening obedience, or repentance, as they did nearly all the remaining abstract qualities, together with their principal prayers, and hymns themselves. The rhythm of the original has been somewhat imitated in the rendering given, as it is difficult to avoid doing so, and to avoid other objectionable features at the same time.
 
-[^1249]: 298:1 So ‘tradition.’
+[^1239]: 298:1 So ‘tradition.’
 
-[^1250]: 298:2 Sraosha was not reckoned as one of the Ameshôspends at the time of the composition of this verse.
+[^1240]: 298:2 Sraosha was not reckoned as one of the Ameshôspends at the time of the composition of this verse.
 
-[^1251]: 298:3 Comp. Y. XXX, 4; but Ahura and some one of the Immortals, or possibly Zarathu<i>s</i>tra (see Y. XLII, 2), must be meant here. Angra Mainyu could not have been worshipped as either protector or creator. Observe the present tense.
+[^1241]: 298:3 Comp. Y. XXX, 4; but Ahura and some one of the Immortals, or possibly Zarathu<i>s</i>tra (see Y. XLII, 2), must be meant here. Angra Mainyu could not have been worshipped as either protector or creator. Observe the present tense.
 
-[^1252]: 299:1 Le Barsom est de cinq branches dans les Darouns ordinaires. Il est de sept branches pour le Daroun No naber, pour le Freoueschi, et pour le Gâhânbâr. Il est de neuf branches pour le Daroun des Rois, et pour celui du Mobed des Mobeds (Anquetil).
+[^1242]: 299:1 Le Barsom est de cinq branches dans les Darouns ordinaires. Il est de sept branches pour le Daroun No naber, pour le Freoueschi, et pour le Gâhânbâr. Il est de neuf branches pour le Daroun des Rois, et pour celui du Mobed des Mobeds (Anquetil).
 
-[^1253]: 299:2 This proves that the Gâthas were greatly older than this Ya<i>s</i>t. That the Gâthas were originally five seems improbable; yet they had become reduced to that number at this time.
+[^1243]: 299:2 This proves that the Gâthas were greatly older than this Ya<i>s</i>t. That the Gâthas were originally five seems improbable; yet they had become reduced to that number at this time.
 
-[^1254]: 299:3 Nom. sing.?
+[^1244]: 299:3 Nom. sing.?
 
-[^1255]: 299:4 Comp. ta<i>t</i> thwâ peresâ, &c.; ‘questions back and forth.’
+[^1245]: 299:4 Comp. ta<i>t</i> thwâ peresâ, &c.; ‘questions back and forth.’
 
-[^1256]: 300:1 One of the earliest notices of the kind.
+[^1246]: 300:1 One of the earliest notices of the kind.
 
-[^1257]: 300:2 Hu + angh, or can sas = to be inactive, indicate a change?
+[^1247]: 300:2 Hu + angh, or can sas = to be inactive, indicate a change?
 
-[^1258]: 300:3 This is possibly the origin of a later view which established Sraosha as one of the Immortals, to fill up the number seven without including Ahura. The original ‘seven spirits’ included Ahura.
+[^1248]: 300:3 This is possibly the origin of a later view which established Sraosha as one of the Immortals, to fill up the number seven without including Ahura. The original ‘seven spirits’ included Ahura.
 
-[^1259]: 301:1 = kat-tare<i>s</i>temem, comp. for form katpayâ´m.
+[^1249]: 301:1 = kat-tare<i>s</i>temem, comp. for form katpayâ´m.
 
-[^1260]: 301:2 Possibly an ancient interpolation. Repetitions are curtailed.
+[^1250]: 301:2 Possibly an ancient interpolation. Repetitions are curtailed.
 
-[^1261]: 301:3 This verse 14 may be an ancient extension of the Ya<i>s</i>t; it may of course be taken for granted that within a certain period at a very remote time, the Ya<i>s</i>t was altered and improved.
+[^1251]: 301:3 This verse 14 may be an ancient extension of the Ya<i>s</i>t; it may of course be taken for granted that within a certain period at a very remote time, the Ya<i>s</i>t was altered and improved.
   Verse 16 may have originally formed two sections; the formula ‘we worship,’ &c. having been omitted.
 
-[^1262]: 302:1 This seems a gloss; its import is correct.
+[^1252]: 302:1 This seems a gloss; its import is correct.
 
-[^1263]: 302:2 The renovator, as completing the progress which makes things fresh, frashôkereti.
+[^1253]: 302:2 The renovator, as completing the progress which makes things fresh, frashôkereti.
 
-[^1264]: 302:3 Possibly compare soma râ´<i>g</i>an; but see the following adjective, and read as alternative ‘brilliant.’
+[^1254]: 302:3 Possibly compare soma râ´<i>g</i>an; but see the following adjective, and read as alternative ‘brilliant.’
 
-[^1265]: 302:4 Possibly ‘who excites to much speech.’
+[^1255]: 302:4 Possibly ‘who excites to much speech.’
 
-[^1266]: 302:5 Comp. pair gaêthê, Y. XXXIV, 2.
+[^1256]: 302:5 Comp. pair gaêthê, Y. XXXIV, 2.
 
-[^1267]: 302:6 Having much Zand.
+[^1257]: 302:6 Having much Zand.
 
-[^1268]: 303:1 Comp. Vend. XIX, 10.
+[^1258]: 303:1 Comp. Vend. XIX, 10.
 
-[^1269]: 303:2 They listen to Obedience, and so descend.
+[^1259]: 303:2 They listen to Obedience, and so descend.
 
-[^1270]: 303:3 The meaning ‘doth confess,’ if correct, would show a very great degeneration from the lore of the Gâthic period.
+[^1260]: 303:3 The meaning ‘doth confess,’ if correct, would show a very great degeneration from the lore of the Gâthic period.
 
-[^1271]: 303:4 Lit. ‘evil.’
+[^1261]: 303:4 Lit. ‘evil.’
 
-[^1272]: 303:5 Bannered spears; spears with streamers.
+[^1262]: 303:5 Bannered spears; spears with streamers.
 
-[^1273]: 304:1 The hosts.
+[^1263]: 304:1 The hosts.
 
-[^1274]: 304:2 So the Pahlavi and Ner. See also Y. IX, 21.
+[^1264]: 304:2 So the Pahlavi and Ner. See also Y. IX, 21.
 
-[^1275]: 304:3 Spe<i>n</i>ta can hardly mean ‘holy’ here.
+[^1265]: 304:3 Spe<i>n</i>ta can hardly mean ‘holy’ here.
 
-[^1276]: 304:4 Âsava for asaya(?); ‘y’ miswritten for ‘v.’ Comp. gâtava (form).
+[^1266]: 304:4 Âsava for asaya(?); ‘y’ miswritten for ‘v.’ Comp. gâtava (form).
 
-[^1277]: 304:5 Reading anghamanay<i>a</i>u for aNhê manay<i>a</i>u; otherwise, 'swifter than one's thought' (?).
+[^1267]: 304:5 Reading anghamanay<i>a</i>u for aNhê manay<i>a</i>u; otherwise, 'swifter than one's thought' (?).
 
-[^1278]: 304:6 Lit. ‘not those after overtake.’ Possibly ‘these who all overtake those who fly with turned backs, who are not overtaken from behind.’
+[^1268]: 304:6 Lit. ‘not those after overtake.’ Possibly ‘these who all overtake those who fly with turned backs, who are not overtaken from behind.’
 
-[^1279]: 305:1 Snaithi<i>s</i> must designate a two-handed weapon.
+[^1269]: 305:1 Snaithi<i>s</i> must designate a two-handed weapon.
 
-[^1280]: 305:2 Observe how far West the word Daêva is applied; also, if Hindvô is not in a gloss in verse 29, the fact proves that a vast geographical extent was familiar to the writers of the Avesta.
+[^1270]: 305:2 Observe how far West the word Daêva is applied; also, if Hindvô is not in a gloss in verse 29, the fact proves that a vast geographical extent was familiar to the writers of the Avesta.
 
-[^1281]: 305:3 Vanaitî<i>s</i>, fem. as vîsp<i>a</i>u refers to attributes celebrated in the Ya<i>s</i>t.
+[^1271]: 305:3 Vanaitî<i>s</i>, fem. as vîsp<i>a</i>u refers to attributes celebrated in the Ya<i>s</i>t.

@@ -88,38 +88,38 @@ Et nous sacrifions aux âmes des morts, \[qui sont les Fravashis des saints\]. 2
 
 ## Notes de bas de page
 
-[^1376]: 327:1 Bien que très ancien pour nous, ce document n'est évidemment pas authentique sous sa forme actuelle. Il a sans doute été composé longtemps après que Frashaostra et Zarathustra eurent cessé d'exister. Il pourrait cependant s'agir d'une extension d'un document antérieur.
+[^1365] : 327:1 Ceci, bien que très ancien en ce qui nous concerne, n'est bien sûr pas authentique dans sa forme actuelle. Il fut sans doute composé longtemps après que Frashao<i>s</i>stra et Zarathu<i>s</i>tra eurent cessé de vivre. Il pourrait cependant s'agir d'une extension d'un document antérieur. 
 
-[^1377]: 327:2 'L'Amesha Spe<i>n</i>ta des saints.'
+[^1366]: 327:2 'L'Amesha Spe<i>n</i>ta des saints.' 
 
-[^1378]: 328:1 Les corps célestes sont ainsi appelés ailleurs, et le soleil est appelé son œil. ![](/image/book/The_Zend_Avesta_Part_3/32800.jpg) écrit pour ![](/image/book/The_Zend_Avesta_Part_3/32801.jpg).
+[^1367]: 328:1 Les corps célestes sont ainsi appelés ailleurs, et le soleil est appelé son œil. ![](/image/book/The_Zend_Avesta_Part_3/32800.jpg) écrit pour ![](/image/book/The_Zend_Avesta_Part_3/32801.jpg). 
 
-[^1379]: 328:2 Peut-être, « ont été créés purs ».
+[^1368]: 328:2 Peut-être, 'furent créés purs.' 
 
-[^1380]: 328:3 'Formé saint.'
+[^1369]: 328:3 'Façonnés saints.' 
 
-[^1381]: 328:4 Ou, « sont vénérés comme saints », vahmya<i>k</i>a, ou yêsnya<i>k</i>a.
+[^1370]: 328:4 Ou, 'sont vénérés comme saints', vahmya<i>k</i>a, ou yêsnya<i>k</i>a. 
 
-[^1382]: 328:5 Cette figure est trop avancée pour être probable. Le texte a été perturbé. Les mots décrivent les eaux ailleurs.
+[^1371]: 328:5 Cette figure est trop avancée pour être probable. Le texte a été perturbé. Les mots décrivent les eaux ailleurs. 
 
-[^1383]: 328:6 De même, les Pahlavi rapportent le mot au troisième kar, la racine de khratu, forme passive (?), avec un sens actif. Cependant, il pourrait aussi signifier « couper autour », préparatoire à l'abattage.
+[^1372]: 328:6 De même, les Pahlavi rapportent le mot au troisième kar, la racine de khratu, forme passive (?), avec un sens actif. Cependant, il pourrait aussi signifier « couper autour », préparatoire à l'abattage. 
 
-[^1384]: 329:1 Ailleurs rendu par « tiges ».
+[^1373]: 329:1 Ailleurs, traduit par « tiges ».
 
-[^1385]: 329:2 Pas déterminé comme le cours d'une planète.
+[^1374]: 329:2 Pas déterminé comme le cours d'une planète. 
 
-[^1386]: 329:3 Nous devrions nous attendre au vocatif après « Thy ».
+[^1375]: 329:3 Nous devrions nous attendre au vocatif après « Ton ». 
 
-[^1387]: 330:1 Ou, « J'invoquerais (ma) propre âme » ; voir le verset 18.
+[^1376]: 330:1 Ou, « J'invoquerais (ma) propre âme » ; voir le verset 18. 
 
-[^1388]: 330:2 Peut-être la réplique de Frashao<i>s</i>tra, ou ce sont « les meilleurs mots » mentionnés au verset 14 ; mais la section est un dialogue.
+[^1377]: 330:2 Peut-être la réplique de Frashao<i>s</i>tra, ou ce sont « les meilleurs mots » mentionnés au verset 14 ; mais la section est un dialogue. 
 
-[^1389]: 330:3 Y. XLVI, 6.
+[^1378]: 330:3 Y. XLVI, 6. 
 
-[^1390]: 330:4 Ahura parle.
+[^1379]: 330:4 Ahura parle. 
 
-[^1391]: 331:1 Y. XLIII, 1 suit.
+[^1380]: 331:1 Y. XLIII, 1 suit. 
 
-[^1392]: 331:2 Maladies provenant de la saleté.
+[^1381]: 331:2 Maladies provenant de la saleté. 
 
-[^1393]: 332:1 Voir Y. XXXV, 4; Y. XLVIII,
+[^1382] : 332:1 Voir Y. XXXV, 4 ; Y. XLVIII, 6.

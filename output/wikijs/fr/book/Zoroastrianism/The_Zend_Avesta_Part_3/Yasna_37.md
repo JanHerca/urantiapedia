@@ -68,6 +68,6 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1201]: 286:1 Ou, « avec la priorité dans les Yasnas, (nous qui sommes ceux) qui demeurent. »
+[^1191]: 286:1 Ou, « avec la priorité dans les Yasnas, (nous qui sommes ceux) qui demeurent. »
 
-[^1202]: 286:2 T<i>e</i>m est interpolé ; ou devons-nous rendre : « Nous l'adorons » comme dans le F. avec un usage adverbial comme en grec, et souvent ici ?
+[^1192]: 286:2 T<i>e</i>m est interpolé ; ou devons-nous rendre : « Nous l'adorons » comme dans le F. avec un usage adverbial comme en grec, et souvent ici ?

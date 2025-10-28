@@ -112,4 +112,4 @@ The Zaotar. So let the Ratu from his Righteousness, holy and learned, speak fort
 
 ## Footnotes
 
-[^951]: 219:1 This chapter differs from Y. II only in having yazamaidê instead of the formula ahmya zaothrê baresmanaê<i>k</i>a—âyêsê yê<i>s</i>ti. Expressions for the same Zend words are purposely varied.
+[^945]: 219:1 This chapter differs from Y. II only in having yazamaidê instead of the formula ahmya zaothrê baresmanaê<i>k</i>a—âyêsê yê<i>s</i>ti. Expressions for the same Zend words are purposely varied.

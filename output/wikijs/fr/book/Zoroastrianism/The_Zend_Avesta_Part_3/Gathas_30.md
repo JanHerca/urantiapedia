@@ -187,8 +187,7 @@ Traduction.
 [^161]: 32:5 Que les corps doivent être donnés aux saints comme au début doit être déduit de Ya<i>s</i>t XIX, 89. (Voir la partie ii des traductions du Zend-Avesta.)
 
 [^162]: 33:1 Verbatim. À-ceci (à nous ?)-et avec-Khshathra est venu, avec-Manah Vohu, avec Asha-et (Âramaiti) là-dessus un-corps le-continuant a donné Âr(a)maiti l'épuisant (Âramaiti, ou le corps, une chose vigoureuse et énergique).
-
-De ceux-ci, à toi (ou à toi), de le laisser (le corps) être comme tu as apprivoisé les premières créations.
+  De ceux-ci, à toi (ou à toi), de le laisser (le corps) être comme tu as apprivoisé les premières créations.
 
 [^163]: 33:2 Voir verset 6.
 

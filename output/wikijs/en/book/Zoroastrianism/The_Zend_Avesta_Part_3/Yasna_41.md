@@ -70,10 +70,10 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1218]: 290:1 See Y. L, 11.
+[^1208]: 290:1 See Y. L, 11.
 
-[^1219]: 290:2 Or, ‘abide.’
+[^1209]: 290:2 Or, ‘abide.’
 
-[^1220]: 290:3 See Y. XXVIII, 3.
+[^1210]: 290:3 See Y. XXVIII, 3.
 
-[^1221]: 290:4 Here the Haptanghâiti once ended.
+[^1211]: 290:4 Here the Haptanghâiti once ended.

@@ -151,8 +151,7 @@ Traduction.
 [^596]: 128:6 Ou, « qui a créé le bien et le mal pour nous avec une bonne intention (et comme discipline) » ; mais cela est peu probable. Ahura n'est pas à l'origine du mal. Sp<i>e</i><i>n</i><i>k</i>â, asp<i>e</i><i>n</i><i>k</i>â sont utilisés adverbialement (voir Y. XXXIV, 7).
 
 [^597]: 128:7 Je suis difficilement d'accord pour lire verez<i>e</i>ny<i>a</i>u (sic) ici dans le sens de « foyers ». Le sens est « nous doter d'efficacité » dans la poursuite des objectifs mentionnés dans le contexte. Ou bien « la propitiation et l'honneur révérencieux » étaient peut-être plus directement dans l'esprit du compositeur ; « qu'Il dote notre (culte) d'efficacité afin qu'il puisse atteindre le résultat souhaité. » Voir la position des mots.
-
-La traduction en pahlavi témoigne également de la traduction ci-dessus, avec son varzî<i>d</i>âr ayŏ lanman erroné ou libre.
+  La traduction en pahlavi témoigne également de la traduction ci-dessus, avec son varzî<i>d</i>âr ayŏ lanman erroné ou libre.
 
 [^598]: 129:1 Comme il est impossible pour ceux qui ont étudié le sujet de croire que le traducteur Pahlavi ne connaissait pas la signification de amavandîh en Zend, nous devons supposer qu'il avait une forme comme hazah avant lui au lieu de huzã(thwâ<i>t</i>).
 

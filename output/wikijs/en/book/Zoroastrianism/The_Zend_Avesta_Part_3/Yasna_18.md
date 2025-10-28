@@ -66,4 +66,4 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1100]: 259:4 See Y. LI, 7, and Y. XLVII.
+[^1091]: 259:4 See Y. LI, 7, and Y. XLVII.

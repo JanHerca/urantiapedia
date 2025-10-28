@@ -86,8 +86,8 @@ Ashem Vohû: La santidad es el mejor de todos los bienes . . . .
 
 ## Notas al pie
 
-[^1597]: 355:2 § 1 = Mâh Yast, § 1.
+[^1526]: 355:2 § 1 = Mâh Yast, § 1.
 
-[^1598]: 355:3 §§ 2-9 = Mâh Yast.
+[^1527]: 355:3 §§ 2-9 = Mâh Yast.
 
-[^1599]: 355:4 §§ 10-11; cf. Yt. XXIV, 6-8.
+[^1528]: 355:4 §§ 10-11; cf. Yt. XXIV, 6-8.

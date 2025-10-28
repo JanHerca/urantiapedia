@@ -80,12 +80,12 @@ LOUANGE À AHURA ET AUX IMMORTELS ; PRIÈRE POUR LA PRATIQUE ET LA DIFFUSION DE 
 
 ## Notes de bas de page
 
-[^1191]: 282:1 Le traducteur Pahlavi, comme si souvent, a vu ici la bonne explication.
+[^1182]: 282:1 Le traducteur Pahlavi, comme si souvent, a vu ici la bonne explication.
 
-[^1192]: 283:1 Ou bien, nous sommes des « purificateurs » ou des « ornemanistes ». La tradition « se propageant d'homme à homme », s'implantant ainsi complètement ; comp. peut-être nî<i>d</i>.
+[^1183]: 283:1 Ou bien, nous sommes des « purificateurs » ou des « ornemanistes ». La tradition « se propageant d'homme à homme », s'implantant ainsi complètement ; comp. peut-être nî<i>d</i>.
 
-[^1193]: 283:2 Hâtãm dans ce sens.
+[^1184]: 283:2 Hâtãm dans ce sens.
 
-[^1195]: 283:3 Ou, « dans la maison et l'étable ».
+[^1185]: 283:3 Ou, « dans la maison et l'étable ».
 
-[^1196]: 284:1 Ou, « bétail ».
+[^1186]: 284:1 Ou, « bétail ».

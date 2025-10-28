@@ -66,12 +66,12 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1155]: 271:1 5-19 = Y. III, 5-19; 20-23 = 1-4 de imem.
+[^1146]: 271:1 5-19 = Y. III, 5-19; 20-23 = 1-4 de imem.
 
-[^1156]: 271:2 Le prêtre ? (Les répétitions sont, comme partout, écourtées et variées.)
+[^1147]: 271:2 Le prêtre ? (Les répétitions sont, comme partout, écourtées et variées.)
 
-[^1157]: 271:3 Pour un rendu plus précis des détails, voir les versets 2, 3, 4, qui diffèrent principalement dans la dédicace finale.
+[^1148]: 271:3 Pour un rendu plus précis des détails, voir les versets 2, 3, 4, qui diffèrent principalement dans la dédicace finale.
 
-[^1158]: 272:1 Et non le mauvais Vayu, qui appartient à Angra Mainyu.
+[^1149]: 272:1 Et non le mauvais Vayu, qui appartient à Angra Mainyu.
 
-[^1159]: 272:2 Insérer, 'et de la bonne dévotion zarathoutrienne.'
+[^1150]: 272:2 Insérer, 'et de la bonne dévotion zarathoutrienne.'

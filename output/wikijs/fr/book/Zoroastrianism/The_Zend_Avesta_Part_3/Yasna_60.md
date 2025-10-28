@@ -76,32 +76,32 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1303]: 310:2 Dit lors de la visite des fermes par le prêtre itinérant.
+[^1293]: 310:2 Dit lors de la visite des fermes par le prêtre voyageur.
 
-[^1304]: 310 : 3 Voir Y. XLIII, 3.
+[^1294] : 310 : 3 Voir Y. XLIII, 3.
 
-[^1305]: 310:4 Gau<i>s</i> semble féminin ici, et utilisé collectivement, et ha<i>k</i>a a le sens indien de sa<i>k</i>a.
+[^1295]: 310:4 Gau<i>s</i> semble féminin ici, et utilisé collectivement, et ha<i>k</i>a a le sens indien de sa<i>k</i>a.
 
-[^1306]: 311:1 De la taille de la Terre, de la longueur d'un ruisseau, à la hauteur du soleil.
+[^1296]: 311:1 De la taille de la Terre, de la longueur d'un ruisseau, à la hauteur du soleil.
 
-[^1307]: 311:2 I<i>s</i>ti semble être un datif.
+[^1297]: 311:2 I<i>s</i>ti semble être un datif.
 
-[^1309]: 311:3 Le nom Sraosha n'avait pas perdu son sens originel ; il en va de même pour Ar(a)maiti.
+[^1298]: 311:3 Le nom Sraosha n'avait pas perdu son sens originel ; il en va de même pour Ar(a)maiti.
 
-[^1310]: 311:4 Asha-Dru<i>g</i>em ?
+[^1299]: 311:4 Asha-Dru<i>g</i>em ?
 
-[^1311]: 311:5 Peut-être, « un bon support ».
+[^1300]: 311:5 Peut-être, « un bon support ».
 
-[^1312]: 311 : 6 Pahl. Benaf<i>s</i>man.
+[^1301] : 311 : 6 Pahl. Benaf<i>s</i>man.
 
-[^1313]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô détermine le sens.
+[^1302]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô détermine le sens.
 
-[^1314]: 311:8 Voir '<i>h</i><i>v</i>âthrava<i>t</i>.'
+[^1303]: 311:8 Voir '<i>h</i><i>v</i>âthrava<i>t</i>.'
 
-[^1315]: 311:9 Le Pahl. ne rend pas nécessairement par « céleste » ; le mot signifie ailleurs « original ».
+[^1304]: 311:9 Le Pahl. ne rend pas nécessairement par « céleste » ; le mot signifie ailleurs « original ».
 
-[^1316]: 312:1 Ou, « bien-être ».
+[^1305]: 312:1 Ou, « bien-être ».
 
-[^1317]: 312:2 <i>A</i>unghãn.
+[^1306]: 312:2 <i>A</i>unghãn.
 
-[^1318]: 312:3 Le nom. est difficile. Les Ashem Vohû et Ahuna suivent.
+[^1307]: 312:3 Le nom. est difficile. Suivent les Ashem Vohû et Ahuna.

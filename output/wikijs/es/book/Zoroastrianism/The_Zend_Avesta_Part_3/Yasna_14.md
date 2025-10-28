@@ -75,12 +75,12 @@ El Zaotar: ¡Que el Ratu, desde su rectitud, santo y erudito, hable!
 
 ## Notas al pie
 
-[^1070]: 253:2a En otros lugares con diferencia verbal.
+[^1062]: 253:2a En otros lugares con diferencia verbal.
 
-[^1071]: 253:3 Véase Y. XXXIII, 14.
+[^1063]: 253:3 Véase Y. XXXIII, 14.
 
-[^1072]: 253:4 Los versículos 1, 2 son gáticos.
+[^1064]: 253:4 Los versículos 1, 2 son gáticos.
 
-[^1073]: 254:1 Véase Y. II, 18.
+[^1065]: 254:1 Véase Y. II, 18.
 
-[^1074]: 254:2 Véase Y. III, 24, 25.
+[^1066]: 254:2 Véase Y. III, 24, 25.

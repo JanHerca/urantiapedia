@@ -78,32 +78,32 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1303]: 310:2 Dicho en la visita a las casas de labranza hecha por el sacerdote viajero.
+[^1293]: 310:2 Dicho en la visita a las granjas por el sacerdote viajero. 
 
-[^1304]: 310:3 Véase Y. XLIII, 3.
+[^1294]: 310:3 Véase Y. XLIII, 3. 
 
-[^1305]: 310:4 Gau<i>s</i> parece femenino aquí y se usa colectivamente, y ha<i>k</i>a tiene el sentido indio de sa<i>k</i>a.
+[^1295]: 310:4 Gau<i>s</i> parece femenino aquí, y se usa colectivamente, y ha<i>k</i>a tiene el sentido indio de sa<i>k</i>a. 
 
-[^1306]: 311:1 A lo largo de la Tierra, a lo largo de una corriente, a la altura del Sol.
+[^1296]: 311:1 De ancho de la tierra, largo de una corriente, alto como el sol. 
 
-[^1307]: 311:2 I<i>s</i>ti parece un dativo.
+[^1297]: 311:2 I<i>s</i>ti parece un dativo. 
 
-[^1309]: 311:3 El nombre Sraosha no había perdido su significado original; así de Ar(a)maiti.
+[^1298]: 311:3 El nombre Sraosha no había perdido su significado original; así de Ar(a)maiti. 
 
-[^1310]: 311:4 ¿Asha-Dru<i>g</i>em?
+[^1299]: 311:4 ¿Asha-Dru<i>g</i>em? 
 
-[^1311]: 311:5 Posiblemente, 'buen soporte'.
+[^1300]: 311:5 Posiblemente, 'buen soporte'. 
 
-[^1312]: 311:6 Pahl. benaf<i>s</i>man.
+[^1301]: 311:6 Pahl. benaf<i>s</i>man. 
 
-[^1313]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô determina el sentido.
+[^1302]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô determina el sentido. 
 
-[^1314]: 311:8 Véase '<i>h</i><i>v</i>âthrava<i>t</i>.'
+[^1303]: 311:8 Véase '<i>h</i><i>v</i>âthrava<i>t</i>.' 
 
-[^1315]: 311:9 El Pahl. no necesariamente traduce 'celestial'; la palabra en otros lugares significa 'original'.
+[^1304]: 311:9 El Pahl. no necesariamente traduce 'celestial'; la palabra en otros lugares significa 'original'. 
 
-[^1316]: 312:1 O, 'bienestar'.
+[^1305]: 312:1 O, 'bienestar'. 
 
-[^1317]: 312:2 Unghãn.
+[^1306]: 312:2 <i>A</i>unghãn. 
 
-[^1318]: 312:3 El nombre es difícil. Siguen Ashem Vohû y Ahuna.
+[^1307]: 312:3 El nombre es difícil. Siguen el Ashem Vohû y el Ahuna.

@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 <span id="pviii"><sup><small>[ p. viii ]</small></sup></span>
 
-<span id="pix"><sup><small>[ p. ixpix ]</small></sup></span>
+<span id="pix"><sup><small>[ p. ix ]</small></sup></span>
 
 IT would savour of affectation for me to say very much by way of meeting the necessary disadvantages under which I labour as in any sense a successor of Professor Darmesteter. It is sufficient to state that I believe myself to be fully aware of them, and that I trust that those who study my work will accord me the more sympathy under the circumstances. Professor Darmesteter, having extended his labours in his University, found his entire time so occupied that he was obliged to decline further labour on this Series for the present. My work on the Gâthas had been for some time in his hands [^0], and he requested me, as a friend, to write the still needed volume of the translation of the Avesta. Although deeply appreciating the undesirableness of following one whose scholarship is only surpassed by his genius, I found myself unable to refuse.
 

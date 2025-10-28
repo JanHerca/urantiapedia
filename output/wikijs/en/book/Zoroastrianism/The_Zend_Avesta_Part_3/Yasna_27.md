@@ -78,24 +78,24 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1180]: 280:1 Dazdyâi would be an infin. for an imperative; but it here refers to the Ahuna. We might say, ‘Let this render,’ &c.
+[^1171]: 280:1 Dazdyâi would be an infin. for an imperative; but it here refers to the Ahuna. We might say, ‘Let this render,’ &c.
 
-[^1181]: 280:2 See Y. XXXIV, 5.
+[^1172]: 280:2 See Y. XXXIV, 5.
 
-[^1182]: 280:3 Referring to the Ahû and Ratu of the Ahuna, but with erroneous application.
+[^1173]: 280:3 Referring to the Ahû and Ratu of the Ahuna, but with erroneous application.
 
-[^1183]: 280:4 Comp. Vend. XIX, 9 (Wg.).
+[^1174]: 280:4 Comp. Vend. XIX, 9 (Wg.).
 
-[^1184]: 280:5 The Ahuna appears here in the MS. with Y. XXXIV, 5, the â airy<i>e</i>mâ, and the Ashem Vohû.
+[^1175]: 280:5 The Ahuna appears here in the MS. with Y. XXXIV, 5, the â airy<i>e</i>mâ, and the Ashem Vohû.
 
-[^1185]: 280:6 Mãzâ rayâ; otherwise mãzarayâ, with greatness (see Y. XLIII, 12).
+[^1176]: 280:6 Mãzâ rayâ; otherwise mãzarayâ, with greatness (see Y. XLIII, 12).
 
-[^1186]: 281:1 Here the Parsi priests now manipulate the mortars.
+[^1177]: 281:1 Here the Parsi priests now manipulate the mortars.
 
-[^1187]: 281:2 See Y. XXXIII, 11-14; and Y. I, 23, and Y. XII.
+[^1178]: 281:2 See Y. XXXIII, 11-14; and Y. I, 23, and Y. XII.
 
-[^1188]: 281:3 See Y. XXXIV, 15. The Ashem follows.
+[^1179]: 281:3 See Y. XXXIV, 15. The Ashem follows.
 
-[^1189]: 281:4 Or, ‘the best.’
+[^1180]: 281:4 Or, ‘the best.’
 
-[^1190]: 281:5 The YêNhê hâtãm follows. For Y. XXVIII-XXXIV, see the Gâtha Ahunavaiti above, pp. [2](../Gathas_Introduction#p2)\-[194](../Gathas_53#p194).
+[^1181]: 281:5 The YêNhê hâtãm follows. For Y. XXVIII-XXXIV, see the Gâtha Ahunavaiti above, pp. [2](../Gathas_Introduction#p2)\-[194](../Gathas_53#p194).

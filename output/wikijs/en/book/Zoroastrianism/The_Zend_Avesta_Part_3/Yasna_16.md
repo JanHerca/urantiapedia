@@ -84,20 +84,20 @@ And we worship the heaven and the earth of blessed gift, and the bounteous Mãth
 
 ## Footnotes
 
-[^1080]: 255:2 So the Pahlavi translator, probably reading angheu<i>s</i>; otherwise p. 256 ‘of the conscience that loves the right.’ In Ya<i>s</i>t XIII, 118 the word is a proper name through an error.
+[^1072]: 255:2 So the Pahlavi translator, probably reading angheu<i>s</i>; otherwise p. 256 ‘of the conscience that loves the right.’ In Ya<i>s</i>t XIII, 118 the word is a proper name through an error.
 
-[^1081]: 256:1 Possibly in allusion to the menses. The moon is masc.
+[^1073]: 256:1 Possibly in allusion to the menses. The moon is masc.
 
-[^1083]: 257:1 We cannot mistake a connection here with yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
+[^1074]: 257:1 We cannot mistake a connection here with yó áhi<i>m</i> <i>g</i>aghâ´na—avâ´s<i>ri</i><i>g</i>at sártave saptá síndhûn.
 
-[^1084]: 257:2 Or is it possible that a plague of mice is meant, mû<i>s</i> being here indeclinable?
+[^1075]: 257:2 Or is it possible that a plague of mice is meant, mû<i>s</i> being here indeclinable?
 
-[^1085]: 257:3 Ordering the execution of many of his subjects.
+[^1076]: 257:3 Ordering the execution of many of his subjects.
 
-[^1086]: 257:4 Gaêthyâ<i>k</i>a with J3, K11.
+[^1077]: 257:4 Gaêthyâ<i>k</i>a with J3, K11.
 
-[^1087]: 257:5 Later association of Â. and the earth.
+[^1078]: 257:5 Later association of Â. and the earth.
 
-[^1088]: 257:6 Originally recited in private houses.
+[^1079]: 257:6 Originally recited in private houses.
 
-[^1089]: 257:7 Alternative.
+[^1080]: 257:7 Alternative.

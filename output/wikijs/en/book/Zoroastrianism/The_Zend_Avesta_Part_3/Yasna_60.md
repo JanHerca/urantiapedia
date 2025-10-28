@@ -78,32 +78,32 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1303]: 310:2 Said on the visitation of farm-houses by the travelling priest.
+[^1293]: 310:2 Said on the visitation of farm-houses by the travelling priest.
 
-[^1304]: 310:3 See Y. XLIII, 3.
+[^1294]: 310:3 See Y. XLIII, 3.
 
-[^1305]: 310:4 Gau<i>s</i> seems feminine here, and used collectively, and ha<i>k</i>a has the Indian sense of sa<i>k</i>a.
+[^1295]: 310:4 Gau<i>s</i> seems feminine here, and used collectively, and ha<i>k</i>a has the Indian sense of sa<i>k</i>a.
 
-[^1306]: 311:1 Earth-wide, stream-long, sun-high.
+[^1296]: 311:1 Earth-wide, stream-long, sun-high.
 
-[^1307]: 311:2 I<i>s</i>ti seems a dative.
+[^1297]: 311:2 I<i>s</i>ti seems a dative.
 
-[^1309]: 311:3 The name Sraosha had not lost its original meaning; so of Ar(a)maiti.
+[^1298]: 311:3 The name Sraosha had not lost its original meaning; so of Ar(a)maiti.
 
-[^1310]: 311:4 Asha-Dru<i>g</i>em?
+[^1299]: 311:4 Asha-Dru<i>g</i>em?
 
-[^1311]: 311:5 Possibly, ‘good support.’
+[^1300]: 311:5 Possibly, ‘good support.’
 
-[^1312]: 311:6 Pahl. benaf<i>s</i>man.
+[^1301]: 311:6 Pahl. benaf<i>s</i>man.
 
-[^1313]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô determines the sense.
+[^1302]: 311:7 <i>H</i><i>v</i>âthrava<i>t</i> <i>h</i><i>v</i>arenô determines the sense.
 
-[^1314]: 311:8 See ‘<i>h</i><i>v</i>âthrava<i>t</i>.’
+[^1303]: 311:8 See ‘<i>h</i><i>v</i>âthrava<i>t</i>.’
 
-[^1315]: 311:9 The Pahl. does not necessarily render ‘heavenly;’ the word elsewhere means ‘original.’
+[^1304]: 311:9 The Pahl. does not necessarily render ‘heavenly;’ the word elsewhere means ‘original.’
 
-[^1316]: 312:1 Or, ‘welfare.’
+[^1305]: 312:1 Or, ‘welfare.’
 
-[^1317]: 312:2 <i>A</i>unghãn.
+[^1306]: 312:2 <i>A</i>unghãn.
 
-[^1318]: 312:3 The nom. is difficult. The Ashem Vohû and Ahuna follow.
+[^1307]: 312:3 The nom. is difficult. The Ashem Vohû and Ahuna follow.

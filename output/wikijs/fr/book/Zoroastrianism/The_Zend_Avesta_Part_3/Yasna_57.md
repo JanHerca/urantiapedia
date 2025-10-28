@@ -168,71 +168,71 @@ Pour sa splendeur et sa gloire, pour sa puissance, qui frappe avec victoire, je 
 
 ## Notes de bas de page
 
-[^1248]: 297:4 Comme Sraosha est la seule divinité des groupes ultérieurs mentionnée dans les quatre premiers Gâthas, ce Ya<i>s</i>t semblerait avoir des prétentions à l'antiquité, juste après les pièces en dialecte gâtique. Le nom Sraosha ne semble pas avoir perdu sa signification de qualité abstraite, malgré l'imagerie matérialiste. En considérant Y. XXVIII, 6, où Sraosha « trouve le chemin » vers Ahura, ou « trouve son trône », nous pouvons comprendre que les fidèles, qui entendirent ce Ya<i>s</i>t pour la première fois, louèrent l'obéissance à l'écoute, ou le repentir, comme ils le firent pour presque toutes les autres qualités abstraites, ainsi que leurs principales prières et leurs hymnes eux-mêmes. Le rythme de l'original a été quelque peu imité dans la traduction donnée, car il est difficile de l'éviter, et d'éviter en même temps d'autres caractéristiques répréhensibles.
+[^1238]: 297:4 Comme Sraosha est la seule divinité des groupes ultérieurs mentionnée dans les quatre premiers Gâthas, ce Ya<i>s</i>t semblerait prétendre à l'antiquité immédiatement après les pièces en dialecte gâtique. Le nom Sraosha ne semble pas avoir perdu sa signification de qualité abstraite, malgré l'imagerie matérialiste. En considérant Y. XXVIII, 6, où Sraosha « trouve le chemin » vers Ahura, ou « trouve son trône », nous pouvons comprendre que les fidèles, qui entendirent ce Ya<i>s</i>t pour la première fois, louèrent l'obéissance auditive, ou le repentir, comme ils le firent pour presque toutes les autres qualités abstraites, ainsi que leurs principales prières et leurs hymnes. Le rythme de l'original a été quelque peu imité dans la traduction donnée, car il est difficile de l'éviter, et d'éviter en même temps d'autres caractéristiques répréhensibles.
 
-[^1249]: 298:1 Donc « tradition ».
+[^1239]: 298:1 Donc « tradition ».
 
-[^1250]: 298:2 Sraosha n'était pas considéré comme l'un des Ameshôspends au moment de la composition de ce verset.
+[^1240]: 298:2 Sraosha n'était pas compté comme l'un des Ameshôspends au moment de la composition de ce verset.
 
-[^1251]: 298:3 Comp. Y. XXX, 4 ; mais il faut ici parler d'Ahura et de l'un des Immortels, ou peut-être de Zarathustra (voir Y. XLII, 2). Angra Mainyu n'a pu être vénéré ni comme protecteur ni comme créateur. Observez le présent.
+[^1241]: 298:3 Comp. Y. XXX, 4 ; mais il faut ici parler d'Ahura et d'un Immortel, ou peut-être de Zarathustra (voir Y. XLII, 2). Angra Mainyu n'a pu être vénéré ni comme protecteur ni comme créateur. Observez le présent.
 
-[^1252]: 299:1 Le Barsom est de cinq branches dans les Darouns ordinaires. Il est de sept branches pour le Daroun No naber, pour le Freoueschi, et pour le Gâhânbâr. Il est de neuf branches pour le Daroun des Rois, et pour celui du Mobed des Mobeds (Anquetil).
+[^1242]: 299:1 Le Barsom est de cinq branches dans les Darouns ordinaires. Il est de sept branches pour le Daroun No naber, pour le Freoueschi, et pour le Gâhânbâr. Il est de neuf branches pour le Daroun des Rois, et pour celui du Mobed des Mobeds (Anquetil).
 
-[^1253]: 299:2 Ceci prouve que les Gâthas étaient bien plus anciens que ce Ya<i>s</i>t. Que les Gâthas aient été à l'origine au nombre de cinq semble improbable ; pourtant, leur nombre était réduit à ce stade.
+[^1243]: 299:2 Ceci prouve que les Gâthas étaient bien plus anciens que ce Ya<i>s</i>t. Qu'ils aient été cinq à l'origine semble improbable ; pourtant, leur nombre était réduit à ce stade.
 
-[^1254]: 299:3 Non. chanter.?
+[^1244]: 299:3 Nom. sing.?
 
-[^1255]: 299:4 Comp. ta<i>t</i> thwâ peresâ, &c.; 'questions dans les deux sens.'
+[^1245]: 299:4 Comp. ta<i>t</i> thwâ peresâ, &c.; 'questions dans les deux sens.'
 
-[^1256]: 300:1 L'une des premières notices du genre.
+[^1246]: 300:1 Une des premières notices du genre.
 
-[^1257]: 300:2 Hu + angh, ou sas = peut-il être inactif, indiquer un changement ?
+[^1247]: 300:2 Hu + angh, ou sas = peut-il être inactif, indiquer un changement ?
 
-[^1258]: 300:3 Ceci est peut-être l'origine d'une vision ultérieure qui a établi Sraosha comme l'un des Immortels, pour compléter le nombre sept sans inclure Ahura. Les « sept esprits » originaux incluaient Ahura.
+[^1248]: 300:3 Ceci est peut-être l'origine d'une vision ultérieure qui a établi Sraosha comme l'un des Immortels, pour compléter le nombre sept sans inclure Ahura. Les « sept esprits » originels incluaient Ahura.
 
-[^1259]: 301:1 = système kat-tare, comp. pour la forme katpayâ´m.
+[^1249]: 301:1 = kat-tare<i>s</i>temem, comp. pour la forme katpayâ´m.
 
-[^1260]: 301:2 Il s'agit peut-être d'une interpolation ancienne. Les répétitions sont écourtées.
+[^1250]: 301:2 Il s'agit peut-être d'une interpolation ancienne. Les répétitions sont écourtées.
 
-[^1261]: 301:3 Ce verset 14 peut être une ancienne extension du Ya<i>s</i>t ; on peut bien sûr tenir pour acquis qu'à une certaine période, à une époque très reculée, le Ya<i>s</i>t a été modifié et amélioré.
+[^1251]: 301:3 Ce verset 14 peut être une ancienne extension du Ya<i>s</i>t ; on peut bien sûr tenir pour acquis qu'à une certaine période, à une époque très reculée, le Ya<i>s</i>t a été modifié et amélioré.
   Le verset 16 a peut-être formé à l'origine deux sections ; la formule « nous adorons », etc. ayant été omise.
 
-[^1262]: 302:1 Cela semble être une glose ; son sens est correct.
+[^1252]: 302:1 Ceci semble être une glose ; son sens est correct.
 
-[^1263]: 302:2 Le rénovateur, en complétant le progrès qui rend les choses fraîches, frashôkereti.
+[^1253]: 302:2 Le rénovateur, en achevant le progrès qui rend les choses fraîches, frashôkereti.
 
-[^1264]: 302:3 Peut-être comparer soma râ´<i>g</i>an ; mais voir l'adjectif suivant et lire comme alternative « brillant ».
+[^1254]: 302:3 Il est possible de comparer soma râ´<i>g</i>an ; mais voir l'adjectif suivant et lire comme alternative « brillant ».
 
-[^1265]: 302:4 Peut-être « qui excite trop de paroles ».
+[^1255]: 302:4 Peut-être « qui excite trop de paroles ».
 
-[^1266]: 302:5 Comp. paire gaêthê, Y. XXXIV, 2.
+[^1256]: 302:5 Comp. paire gaêthê, Y. XXXIV, 2.
 
-[^1267]: 302:6 Ayant beaucoup de Zand.
+[^1257]: 302:6 Ayant beaucoup de Zand.
 
-[^1268]: 303:1 Comp. Vend. XIX, 10.
+[^1258]: 303:1 Comp. Vend. XIX, 10.
 
-[^1269]: 303:2 Ils écoutent l'Obéissance, et ainsi descendent.
+[^1259]: 303:2 Ils écoutent l'Obéissance, et ainsi descendent.
 
-[^1270]: 303:3 Le sens « confesse », s'il est correct, montrerait une très grande dégénérescence par rapport à la tradition de la période gâtique.
+[^1260]: 303:3 Le sens « confesse », s'il est correct, montrerait une très grande dégénérescence par rapport à la tradition de la période gâtique.
 
-[^1271]: 303:4 Littéralement « mal ».
+[^1261]: 303:4 Littéralement « mal ».
 
-[^1272]: 303:5 Lances à bannières ; lances avec banderoles.
+[^1262]: 303:5 Lances à bannières; lances avec banderoles.
 
-[^1273]: 304:1 Les hôtes.
+[^1263]: 304:1 Les hôtes.
 
-[^1274]: 304:2 Ainsi les Pahlavi et les Ner. Voir aussi Y. IX, 21.
+[^1264]: 304:2 Ainsi les Pahlavi et les Ner. Voir aussi Y. IX, 21.
 
-[^1275]: 304:3 Spe<i>n</i>ta peut difficilement signifier « saint » ici.
+[^1265]: 304:3 Spe<i>n</i>ta peut difficilement signifier « saint » ici.
 
-[^1276]: 304:4 Âsava pour asaya(?); 'y' mal écrit pour 'v'. Comp. gâtava (forme).
+[^1266]: 304:4 Âsava pour asaya(?); 'y' mal écrit pour 'v'. Comp. gâtava (forme).
 
-[^1277]: 304:5 Lecture anghamanay<i>a</i>u pour aNhê manay<i>a</i>u ; autrement, « plus rapide que la pensée » (?).
+[^1267]: 304:5 Lecture anghamanay<i>a</i>u pour aNhê manay<i>a</i>u ; autrement, 'plus rapide que la pensée' (?).
 
-[^1278]: 304:6 Littéralement « ceux qui ne rattrapent pas ceux qui suivent. » Peut-être « ceux qui rattrapent tous ceux qui volent le dos tourné, qui ne sont pas rattrapés par derrière. »
+[^1268]: 304:6 Littéralement « ceux qui ne rattrapent pas ceux qui suivent ». Peut-être « ceux qui rattrapent tous ceux qui volent le dos tourné, qui ne sont pas rattrapés par derrière. »
 
-[^1279]: 305:1 Snaithi<i>s</i> doit désigner une arme à deux mains.
+[^1269]: 305:1 Snaithi<i>s</i> doit désigner une arme à deux mains.
 
-[^1280]: 305:2 Observez jusqu'où vers l'Ouest le mot Daêva est appliqué ; aussi, si Hindvô n'est pas dans une glose au verset 29, le fait prouve qu'une vaste étendue géographique était familière aux auteurs de l'Avesta.
+[^1270]: 305:2 Observez jusqu'où vers l'Ouest le mot Daêva est appliqué ; aussi, si Hindvô n'est pas dans une glose au verset 29, le fait prouve qu'une vaste étendue géographique était familière aux auteurs de l'Avesta.
 
-[^1281]: 305:3 Vanaitî<i>s</i>, fém. comme vîsp<i>a</i>u fait référence aux attributs célébrés dans le Ya<i>s</i>t.
+[^1271]: 305:3 Vanaitî<i>s</i>, fém. comme vîsp<i>a</i>u fait référence aux attributs célébrés dans le Ya<i>s</i>t.

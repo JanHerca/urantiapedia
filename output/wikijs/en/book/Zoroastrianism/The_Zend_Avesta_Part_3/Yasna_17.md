@@ -74,22 +74,22 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1090]: 258:1 See chapter VI, which is nearly identical with XVII, 1-10.
+[^1081]: 258:1 See chapter VI, which is nearly identical with XVII, 1-10.
 
-[^1091]: 258:2 This fire is that before Ahura Mazda and the kings.
+[^1082]: 258:2 This fire is that before Ahura Mazda and the kings.
 
-[^1092]: 258:3 This fire dwells in the bodies of men and beasts (animal heat).
+[^1083]: 258:3 This fire dwells in the bodies of men and beasts (animal heat).
 
-[^1093]: 258:4 This is in trees and plants.
+[^1084]: 258:4 This is in trees and plants.
 
-[^1094]: 258:5 This in the clouds (lightning).
+[^1085]: 258:5 This in the clouds (lightning).
 
-[^1095]: 258:6 This is the fire which is applied in the world (Bundahi<i>s</i>, West, page 61).
+[^1086]: 258:6 This is the fire which is applied in the world (Bundahi<i>s</i>, West, page 61).
 
-[^1096]: 258:7 That N. is here referred to as connected with we fire, seems certain; this fire corresponds with that of Vâhrâm in places of worship.
+[^1087]: 258:7 That N. is here referred to as connected with we fire, seems certain; this fire corresponds with that of Vâhrâm in places of worship.
 
-[^1097]: 259:1 1-17 occur also in MSS. as Y. LIX, 1-17.
+[^1088]: 259:1 1-17 occur also in MSS. as Y. LIX, 1-17.
 
-[^1098]: 259:2 Dahyuma.
+[^1089]: 259:2 Dahyuma.
 
-[^1099]: 259:3 The YêNhê hâtãm follows.
+[^1090]: 259:3 The YêNhê hâtãm follows.

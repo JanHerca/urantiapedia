@@ -68,12 +68,12 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1155]: 271:1 5-19 = Y. III, 5-19; 20-23 = 1-4 de imem.
+[^1146]: 271:1 5-19 = Y. III, 5-19; 20-23 = 1-4 de imem.
 
-[^1156]: 271:2 ¿El sacerdote? (Las repeticiones son, como en todas partes, limitadas y variadas.)
+[^1147]: 271:2 ¿El sacerdote? (Las repeticiones son, como en todas partes, limitadas y variadas.)
 
-[^1157]: 271:3 Para una interpretación más precisa de los detalles, véanse los versículos 2, 3 y 4, que difieren principalmente en la dedicación final.
+[^1148]: 271:3 Para una interpretación más precisa de los detalles, véanse los versículos 2, 3 y 4, que difieren principalmente en la dedicación final.
 
-[^1158]: 272:1 Y no el malvado Vayu, que pertenece a Angra Mainyu.
+[^1149]: 272:1 Y no el malvado Vayu, que pertenece a Angra Mainyu.
 
-[^1159]: 272:2 Insertar, 'y de la buena devoción zaratustriana.'
+[^1150]: 272:2 Insertar, 'y de la buena devoción zaratustriana.'

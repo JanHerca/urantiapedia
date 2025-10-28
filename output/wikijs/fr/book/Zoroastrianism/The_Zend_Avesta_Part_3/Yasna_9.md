@@ -156,88 +156,88 @@ Contre le perturbateur de la justice, le destructeur de vie impie, pensées et p
 
 ## Notes de bas de page
 
-[^957]: 231:1 Le matin de six à dix heures.
+[^951]: 231:1 Le matin de six à dix heures.
 
-[^958]: 231:2 Ou, « belle de vie »
+[^952]: 231:2 Ou, « belle de vie »
 
-[^959]: 231:3 « Moi », omis pour interrompre le rythme, semble être simplement dramatique ; ou indiquait-il qu'il y avait un Haoma Gâtha zarathoutrien originel dont celui-ci est une extension ?
+[^953]: 231:3 « Moi », omis pour interrompre le rythme, semble être simplement dramatique ; ou indiquait-il qu'il existait un Haoma Gâtha zarathoutrien originel dont celui-ci est une extension ?
 
-[^960]: 232:1 Ne pourrait-on pas placer ici tout le seizième verset ?
+[^954]: 232:1 Ne pourrait-on pas placer ici tout le seizième verset ?
 
-[^961]: 232:2 Le cinquième de Gaya Maretan l'Adam iranien, mais son homologue, l'Indien Vivasvat, apparaît non seulement comme le père de Yama, mais de Manu, et même des dieux (en tant que mortels promus ?).
+[^955]: 232:2 Le cinquième de Gaya Maretan l'Adam iranien, mais son homologue, l'Indien Vivasvat, apparaît non seulement comme le père de Yama, mais de Manu, et même des dieux (en tant que mortels promus ?).
 
-[^962]: 232 : 3 Comparez svar-d_rí_sas pávamânâs.
+[^956] : 232 : 3 Comparez svar-d_rí_sas pávamânâs.
 
-[^963]: 232:4 Ainsi les Pahlavi.
+[^957]: 232:4 Ainsi les Pahlavi.
 
-[^964]: 232:5 Les mâles, comme les femelles, semblent avoir été considérés comme développés à l'âge de quinze ans.
+[^958]: 232:5 Les mâles, comme les femelles, semblent avoir été considérés comme développés à l'âge de quinze ans.
 
-[^965]: 233 : 1 Comp. Tritá âptiá.
+[^959] : 233 : 1 Comp. Tritá âptiá.
 
-[^966]: 233:2 Comp. l'Indien Traitaná relié à Tritá.
+[^960]: 233:2 Comp. l'Indien Traitaná connecté à Tritá.
 
-[^967]: 233:3 Rappelons que Tritá frappa les Ahi avant Indra, Indra semblant seulement reproduire la victoire plus originelle mentionnée dans l'Avesta. Concernant Azhi Dahâka, voir Zendstudien de Windischmann, s. 136.
+[^961]: 233:3 Rappelons que Tritá frappa les Ahi devant Indra, Indra ne semblant que reproduire la victoire originelle mentionnée dans l'Avesta. Concernant Azhi Dahâka, voir Zendstudien de Windischmann, s. 136.
 
-[^968]: 233:4 Gratuit.
+[^962]: 233:4 Gratuit.
 
-[^969]: 233:5 Dans le Rig-veda, âptyá ne semble être qu'une épithète ajoutée au nom Tritá, [^965] ; et les deux serpents de l'Avesta sont suspects. Deux noms semblent être devenus deux personnes, ou l'Avesta est-elle la représentation la plus correcte ?
+[^963]: 233:5 Dans le Rig-Veda, âptyá ne semble être qu'une épithète ajoutée au nom Tritá, 965 ; et les deux serpents de l'Avesta sont suspects. Deux noms semblent-ils être devenus deux personnes, ou l'Avesta est-elle la représentation la plus correcte ?
 
-[^970]: 233:6 Avons-nous ici les Sémites ? Ils ont certainement pénétré en conquérants loin en Médie, et il semble inconsidéré de nier qu'ils y aient laissé des traces. La glose est peut-être très ancienne.
+[^964]: 233:6 Avons-nous ici les Sémites ? Ils ont certainement pénétré en conquérants loin en Médie, et il semble inconsidéré de nier qu'ils y aient laissé des traces. La glose est peut-être très ancienne.
 
-[^971]: 233:\* Et à celui des autres dieux.
+[^965]: 233:\* Et à celui des autres dieux.
 
-[^972]: 234 : 1 Comp. Kapardínam.
+[^966] : 234 : 1 Comp. Kapardínam.
 
-[^973]: 234:2 J'abandonne à contrecœur l'admirable comparaison de hvîs avec le svid indien (Geldner), également expliqué comme un inchoatif (Barth.), mais le sens qui en résulte est loin d'être naturel, ni ici ni dans Vend. III, 32 (Sp. 305). Que le dragon se mette à suer (!) sous le feu allumé dans son dos et qui le fait bondir, semble difficile. Le processus n'était pas aussi délibéré. ​​Il fut brûlé, sursauta, puis bondit. De même, dans Vend. III, 32, lorsque l'orge est produite, les démons ne « suent » guère (de misère mentale). L'idée est trop avancée pour le document. Le « sifflement » de Burnouf et Haug était bien meilleur aux deux endroits. Mais je préfère l'allusion au lâlâ vazlûn<i>d</i> pahlavi. Dans Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta<i>s</i><i>k</i>a sa n<i>ri</i><i>s</i>a<i>m</i>sa<i>h</i> <i>k</i>ukshubhe \[dvipâdo\* babhûva\]. Que <i>h</i><i>v</i>îsa<i>t</i><i>k</i>a = hîsa<i>t</i><i>k</i>a (?) ait quelque chose à voir avec hiz ou khiz = Pahlavi âkhîzîdanŏ [^969], NP 'hizîdan, est une question. Je suis la tradition sans aide étymologique ; peut-être pourrions-nous aussi bien écrire le mot comme la forme la plus connue, par conjecture.
+[^967]: 234:2 J'abandonne à contrecœur l'admirable comparaison de hvîs avec le svid indien (Geldner), également expliqué comme inchoatif (Barth.), mais le sens qui en résulte est loin d'être naturel, ni ici ni dans Vend. III, 32 (Sp. 305). Que le dragon se mette à suer (!) sous le feu allumé dans son dos et qui le fit bondir, semble difficile. Le processus n'était pas aussi délibéré. ​​Il fut brûlé, sursauta, puis bondit. De même, dans Vend. III, 32, lorsque l'orge est produite, les démons « suent » à peine (de souffrance mentale). L'idée est trop avancée pour le document. Le « sifflement » de Burnouf et Haug était bien meilleur aux deux endroits. Mais je préfère l'allusion au lâlâ vazlûn<i>d</i> pahlavi. Dans Vend. III, 32 (Sp. 305), khîst-hômand. Ner. tapta<i>s</i><i>k</i>a sa n<i>ri</i><i>s</i>a<i>m</i>sa<i>h</i> <i>k</i>ukshubhe \[dvipâdo\* babhûva\]. Que <i>h</i><i>v</i>îsa<i>t</i><i>k</i>a = hîsa<i>t</i><i>k</i>a (?) ait quelque chose à voir avec hiz ou khiz = Pahlavi âkhîzîdanŏ 969, NP 'hizîdan, est une question. Je suis la tradition sans aide étymologique ; peut-être pourrions-nous tout aussi bien écrire le mot comme la forme la plus connue, par conjecture.
 
-[^974]: 234:3 Le traducteur Pahlavi tente d'expliquer l'épithète « viril » appliquée à Keresâspa alors qu'il fuyait encore effrayé ; il dit : Hôman<i>d</i> mar<i>d</i>mîni<i>s</i>nîh hanâ yehevûn<i>d</i>, aîgha<i>s</i> libbemman pavan gâsdâ<i>s</i>t ; Ner. asya paurushamânasatvam\* ida<i>m</i> babhûva yad asau <i>k</i>aitanya<i>m</i> sthâne dadhau, « sa virilité était telle qu'il gardait son sang-froid en cette occasion. » Voir la même histoire traitée quelque peu différemment dans les Ya<i>s</i>ts de Darmesteter (p. 295, note 2).
+[^968]: 234:3 Le traducteur Pahlavi tente d'expliquer l'épithète « viril » appliquée à Keresâspa alors qu'il fuyait encore effrayé ; il dit : Hôman<i>d</i> mar<i>d</i>mîni<i>s</i>nîh hanâ yehevûn<i>d</i>, aîgha<i>s</i> libbemman pavan gâsdâ<i>s</i>t; Ner. asya paurushamânasatvam\* ida<i>m</i> babhûva yad asau <i>k</i>aitanya<i>m</i> sthâne dadhau, « sa virilité résidait dans le fait qu'il gardait son sang-froid en cette occasion. » Voir la même histoire traitée un peu différemment dans les Ya<i>s</i>ts de Darmesteter (p. 295, note 2).
 
-[^975]: 234 :† Ou, âkhêzîdanŏ.
+[^969] : 234 :† Ou, âkhêzîdanŏ.
 
-[^976]: 235:1 Fils de Pâîtirasp ou Spêtârasp ; Bundahi<i>s</i> XXXII, 1, 2, &c.
+[^970]: 235:1 Fils de Pâîtirasp ou Spêtârasp; Bundahi<i>s</i> XXXII, 1, 2, &c.
 
-[^977]: 235:2 L'Ahuna-vairya est dans le dialecte gâtique et dans le mètre ahunavaiti ; il a peut-être été composé par Z. Il a nommé le Gâtha.
+[^971]: 235:2 L'Ahuna-vairya est dans le dialecte gâtique et dans le mètre ahunavaiti ; il a peut-être été composé par Z. Il a nommé le Gâtha.
 
-[^978]: 235:3 Comp. Y. XXX, 6?
+[^972]: 235:3 Comp. Y. XXX, 6?
 
-[^979]: 235:4 Gratuit.
+[^973]: 235:4 Gratuit.
 
-[^980]: 235 : 5 Comp. pathm<i>e</i>ng gavôi.
+[^974] : 235 : 5 Comp. pathm<i>e</i>ng gavôi.
 
-[^981]: 236:1 Ou bien, madhem est-il lié à medhâ´ ainsi qu'à mazdâ (fém.) ?
+[^975]: 236:1 Ou bien, madhem est-il aussi lié à medhâ´ qu'à mazdâ (fém.) ?
 
-[^982]: 236 : 2 Pahl. farzânakih.
+[^976] : 236 : 2 Pahl. farzânakih.
 
-[^983]: 236:3 Ce ne sont pas vraiment des « sorcières » ; ce sont des êtres féminins extérieurement attirants, mais mauvais.
+[^977]: 236:3 Ce ne sont pas vraiment des « sorcières » ; elles sont extérieurement attirantes, mais ce sont des êtres féminins maléfiques.
 
-[^984]: 236 : 4 Pahl. sâstârânŏ.
+[^978] : 236 : 4 Pahl. sâstârânŏ.
 
-[^985]: 236 : 5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
+[^979] : 236 : 5 Pahl. pavan frîftârîh; Ner. pratâra<i>n</i>atayâ.
 
-[^986]: 236:6 Vîspô-<i>h</i><i>v</i>âthrem ne signifie pas ici « confortable ». <i>H</i><i>v</i>an est la racine ; comp. <i>h</i><i>v</i>e<i>n</i>g = soleil.
+[^980]: 236:6 Vîspô-<i>h</i><i>v</i>âthrem ne signifie pas ici « confortable ». <i>H</i><i>v</i>an est la racine ; comp. <i>h</i><i>v</i>e<i>n</i>g = soleil.
 
-[^987]: 237 : 1 Pahl. min <i>h</i><i>v</i>âstâr.
+[^981] : 237 : 1 Pahl. min <i>h</i><i>v</i>âstâr.
 
-[^988]: 237 : 2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
+[^982] : 237 : 2 Pahl. vânî<i>d</i>âr pavan kûshânŏ.
 
-[^989]: 237:3 Arva<i>n</i>tô = aurva<i>n</i>tô; donc le Pahl. arvand.
+[^983]: 237:3 Arva<i>n</i>tô = aurva<i>n</i>tô; donc le Pahl. arvand.
 
-[^990]: 237:4 Comp. le védique K<i>ri</i><i>s</i>â´nu, archer et demi-dieu qui gardait le Soma. Ner. semble remarquer que le nom rappelle celui des chrétiens.
+[^984]: 237:4 Comp. le védique K<i>ri</i><i>s</i>â´nu, archer et demi-dieu qui gardait le Soma. Ner. semble remarquer que le nom rappelle celui des chrétiens.
 
-[^991]: 238:1 Ainsi les Pahlavi, avant les autres, lisent apãs; comp. frãs.
+[^985]: 238:1 Ainsi les Pahlavi, avant les autres, lisent apãs; comp. frãs.
 
-[^992]: 238:2 La suggestion perspicace de Haug, pourvanîm = paurva = les Pléiades + nî = conduisant le P., semble douteuse et réfutée par Ya<i>s</i>t XXIV, 29, où Darmesteter rend un mot probablement apparenté par « les nombreux ». Je rendrais ici « les premiers ».
+[^986]: 238:2 La suggestion perspicace de Haug, pourvanîm = paurva = les Pléiades + nî = conduisant le P., semble douteuse, et semble réfutée par Ya<i>s</i>t XXIV, 29, où Darmesteter rend un mot probablement apparenté par « les nombreux ». Je rendrais ici « le premier ».
 
-[^993]: 238:3 La « saisie », le résumé d'entre eux.
+[^987]: 238:3 La « saisie », le résumé d'entre eux.
 
-[^994]: 239 : 1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
+[^988] : 239 : 1 Pahl. sakhmakan; Ner. bhaya<i>m</i>kare.
 
-[^995]: 239:2 Ou, « frappe ta massue ».
+[^989]: 239:2 Ou, « frappe ta massue ».
 
-[^996]: 239:3 « Actes à part », « actes mauvais ».
+[^990]: 239:3 « Actes à part », « actes mauvais ».
 
-[^997]: 239:4 Gratuit.
+[^991]: 239:4 Gratuit.
 
-[^998]: 239:5 Ou, « tenant ».
+[^992]: 239:5 Ou, « tenant ».
 
-[^999]: 239:6 YêNhê doit être une erreur ; sinon « offrir la personne à celui dont l'esprit est comme de la vapeur d'eau ».
+[^993]: 239:6 YêNhê doit être une erreur ; sinon, « offrir la personne à celui dont l'esprit est comme de la vapeur d'eau ».

@@ -66,6 +66,6 @@ dateCreated: 2025-2-12T13:0:42Z
 
 ## Notas al pie
 
-[^1352]: 320:5 Debería decir Ardvi Sûra Anâhita; ver Y. LXVIII, 10, donde las buenas aguas son llamadas Ahurian de Ahura.
+[^1341]: 320:5 Debería decir Ardvi Sûra Anâhita; ver Y. LXVIII, 10, donde las buenas aguas son llamadas Ahurian de Ahura.
 
-[^1353]: 320:6 O, para una bendición.'
+[^1342]: 320:6 O, para una bendición.'

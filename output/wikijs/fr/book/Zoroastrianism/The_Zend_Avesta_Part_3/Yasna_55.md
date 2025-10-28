@@ -84,14 +84,14 @@ Et nous adorons la(les) partie(s) [^1232] des Louanges du Yasna, et leur récita
 
 ## Notes de bas de page
 
-[^1237]: 294:1 Staota Yêsnya semble désigner cette partie du Yasna qui commence avec le Srôsh Ya<i>s</i>t.
+[^1227]: 294:1 Staota Yêsnya semble désigner cette partie du Yasna qui commence avec le Srôsh Ya<i>s</i>t.
 
-[^1238]: 294:2 Frârâiti; ou peut-être « à celui qui donne librement » (le terme « -ti » comme datif).
+[^1228]: 294:2 Frârâiti; ou peut-être « à celui qui donne librement » (le terme « -ti » comme datif).
 
-[^1239]: 295:1 Conjectural ; voir Ashem ci-dessous.
+[^1229]: 295:1 Conjectural ; voir Ashem ci-dessous.
 
-[^1240]: 295:2 Pahlavi avŏ naf<i>s</i>man.
+[^1230]: 295:2 Pahlavi avŏ naf<i>s</i>man.
 
-[^1241]: 295:3 Récité de mémoire et utilisé dans le cérémonial.
+[^1231]: 295:3 Récité de mémoire et utilisé dans le cérémonial.
 
-[^1242]: 295:4 La partie, « chaque partie ».
+[^1232]: 295:4 La partie, « chaque partie ».

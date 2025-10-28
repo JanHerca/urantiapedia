@@ -68,22 +68,22 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1325]: 314:1 Or, ‘for giving light.’
+[^1314]: 314:1 Or, ‘for giving light.’
 
-[^1326]: 314:2 Or, ‘to give light’? comp. ukhshânô and ukhshâ.
+[^1315]: 314:2 Or, ‘to give light’? comp. ukhshânô and ukhshâ.
 
-[^1327]: 314:3 Read apairyâthrem.
+[^1316]: 314:3 Read apairyâthrem.
 
-[^1328]: 314:4 Or, ‘has the quickest place.’
+[^1317]: 314:4 Or, ‘has the quickest place.’
 
-[^1329]: 315:1 Bartholomae follows tradition boldly here, rendering ‘aushalten, festhalten an; giriftar yehvûnâni(î).’
+[^1318]: 315:1 Bartholomae follows tradition boldly here, rendering ‘aushalten, festhalten an; giriftar yehvûnâni(î).’
 
-[^1330]: 315:2 Or, ‘is worshipped for.’
+[^1319]: 315:2 Or, ‘is worshipped for.’
 
-[^1331]: 315:3 This curious gloss seems thrown in as a solace to the Fire for the expression preceding. It savours of the <i>Ri</i>k.
+[^1320]: 315:3 This curious gloss seems thrown in as a solace to the Fire for the expression preceding. It savours of the <i>Ri</i>k.
 
-[^1332]: 316:1 The Ashem Vohû occurs here.
+[^1321]: 316:1 The Ashem Vohû occurs here.
 
-[^1333]: 316:2 Or, ‘falling.’
+[^1322]: 316:2 Or, ‘falling.’
 
-[^1334]: 316:3 See as alternative Darmesteter's masterly rendering of the Âta<i>s</i> Nyâyi<i>s</i>, 7-18.
+[^1323]: 316:3 See as alternative Darmesteter's masterly rendering of the Âta<i>s</i> Nyâyi<i>s</i>, 7-18.

@@ -189,8 +189,7 @@ Translation.
 [^161]: 32:5 That bodies are to be given to the saints as at the first is to p. 33 be inferred from Ya<i>s</i>t XIX, 89. (Which see in part ii of the translations of the Zend-Avesta.)
 
 [^162]: 33:1 Verbatim. To-this (to us?)-and with-Khshathra came, with-Manah Vohu, with Asha-and (Âramaiti) thereupon a-body the-continuing gave Âr(a)maiti the strenuous (Âramaiti, or the body, a vigorous and strenuous thing).
-
-Of these thine (or to thee) to let-it (the body)-be as thou-tamest in-creations the-first.
+  Of these thine (or to thee) to let-it (the body)-be as thou-tamest in-creations the-first.
 
 [^163]: 33:2 See verse 6.
 

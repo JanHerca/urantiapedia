@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-<span id="p374"><sup><small>[ p. 347p374 ]</small></sup></span>
+<span id="p374"><sup><small>[ p. 347 ]</small></sup></span>
 
 <span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
@@ -203,42 +203,42 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 ## Footnotes
 
-[^1567]: 349:1 Anquetil, Zend-Avesta II, pp. 6, 22, 565-566.
+[^1499]: 349:1 Anquetil, Zend-Avesta II, pp. 6, 22, 565-566.
 
-[^1568]: 349:2 This clause is wanting in most manuscripts.
+[^1500]: 349:2 This clause is wanting in most manuscripts.
 
-[^1569]: 350:1 In thought, speech, and deed (Pers. and Sansk. transl.).
+[^1501]: 350:1 In thought, speech, and deed (Pers. and Sansk. transl.).
 
-[^1570]: 350:2 Vayu, as being the same with Fate (Vend. Introd. IV, 17), became identified with Time.
+[^1502]: 350:2 Vayu, as being the same with Fate (Vend. Introd. IV, 17), became identified with Time.
 
-[^1573]: 350:3 The Ashem Vohû.
+[^1503]: 350:3 The Ashem Vohû.
 
-[^1574]: 350:4 See [p. 22](../Yasts_1#p22).
+[^1504]: 350:4 See [p. 22](../Yasts_1#p22).
 
-[^1575]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]).
+[^1505]: 350:5 § 5 = Yasna LXVIII (22-23 \[LXVII, 58-67\]).
 
-[^1576]: 350:6 Gaya Maretan, the first man.
+[^1506]: 350:6 Gaya Maretan, the first man.
 
-[^1577]: 351:1 The sun: ‘May my soul arrive at the sun-region!’ (Pahl. transl.)
+[^1507]: 351:1 The sun: ‘May my soul arrive at the sun-region!’ (Pahl. transl.)
 
-[^1578]: 351:2 Yt. X, 7.
+[^1508]: 351:2 Yt. X, 7.
 
-[^1579]: 351:3 In heaven.
+[^1509]: 351:3 In heaven.
 
-[^1580]: 351:4 See Yt. VIII, 12, note 7.
+[^1510]: 351:4 See Yt. VIII, 12, note 7.
 
-[^1581]: 351:5 See Yt. VIII, 12, note 2.
+[^1511]: 351:5 See Yt. VIII, 12, note 2.
 
-[^1582]: 351:6 See Yt. XX.
+[^1512]: 351:6 See Yt. XX.
 
-[^1583]: 352:1 See Yt. XVI.
+[^1513]: 352:1 See Yt. XVI.
 
-[^1584]: 352:2 Or, of pleasure.
+[^1514]: 352:2 Or, of pleasure.
 
-[^1586]: 352:3 ‘On Mount Saoka<i>n</i>ta there is a golden tube coming from the root of the earth; the water that is on the surface of the earth goes up through the hole of that tube to the heavens, and being driven by the wind, spreads everywhere, and thus the dew is produced’ (Sansk. transl.).
+[^1515]: 352:3 ‘On Mount Saoka<i>n</i>ta there is a golden tube coming from the root of the earth; the water that is on the surface of the earth goes up through the hole of that tube to the heavens, and being driven by the wind, spreads everywhere, and thus the dew is produced’ (Sansk. transl.).
 
-[^1587]: 353:1 The whole of the Khôrshê<i>d</i> Ya<i>s</i>t is inserted here.
+[^1516]: 353:1 The whole of the Khôrshê<i>d</i> Ya<i>s</i>t is inserted here.
 
-[^1588]: 353:2 Rivers considered as Ahura's wives (cf. Ormazd et Ahriman, § 32).
+[^1517]: 353:2 Rivers considered as Ahura's wives (cf. Ormazd et Ahriman, § 32).
 
-[^1589]: 353:3 From Yasna LXVIII, 10 (LXVII, 30); cf. [p. 34](../Yasts_1#p34).
+[^1518]: 353:3 From Yasna LXVIII, 10 (LXVII, 30); cf. [p. 34](../Yasts_1#p34).

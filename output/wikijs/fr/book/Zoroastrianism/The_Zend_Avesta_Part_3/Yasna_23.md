@@ -64,14 +64,14 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## Notes de bas de page
 
-[^1160]: 272:3 Ce chapitre est censé être réservé aux occasions funéraires.
+[^1151]: 272:3 Ce chapitre est censé être réservé aux occasions funéraires.
 
-[^1161]: 272:4 Ou, 'Je prie pour l'approche.' Voir Y. XXVI.
+[^1152]: 272:4 Ou, 'Je prie pour l'approche.' Voir Y. XXVI.
 
-[^1162]: 273:1 Fravashi semble être un datif ; comp. ûtî´.
+[^1153]: 273:1 Fravashi semble être un datif ; comp. ûtî´.
 
-[^1163]: 273:2 Fils aîné de Zarathoustra et de sa femme Padokhshah ; il était le chef des prêtres selon la tradition.
+[^1154]: 273:2 Fils aîné de Zarathoustra et de sa femme Padokhshah ; il était le chef des prêtres selon la tradition.
 
-[^1164]: 273:3 Ce Yasna a été récité de maison en maison.
+[^1155]: 273:3 Ce Yasna a été récité de maison en maison.
 
-[^1165]: 273:4 L'âme « propre » ; remarquez la distinction apparente entre Fravashi et l'âme.
+[^1156]: 273:4 L'âme « propre » ; remarquez la distinction apparente entre Fravashi et l'âme.

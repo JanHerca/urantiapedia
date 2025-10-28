@@ -78,10 +78,10 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## Footnotes
 
-[^1176]: 278:1 Dahyumas.
+[^1167]: 278:1 Dahyumas.
 
-[^1177]: 278:2 ‘Of the early religion.’
+[^1168]: 278:2 ‘Of the early religion.’
 
-[^1178]: 279:1 Whether a real distinction existed in the minds of these early writers, between a Fravashi and a departed soul, is hard to say. That a Fravashi was worshipped as existing before the person to whom it appertained was born, may be owing to a poetical, and not a dogmatic, anticipation.
+[^1169]: 279:1 Whether a real distinction existed in the minds of these early writers, between a Fravashi and a departed soul, is hard to say. That a Fravashi was worshipped as existing before the person to whom it appertained was born, may be owing to a poetical, and not a dogmatic, anticipation.
 
-[^1179]: 279:2 From the Iranian Adam to the Christ of the resurrection; see Ya<i>s</i>t XIX, 89, 91.
+[^1170]: 279:2 From the Iranian Adam to the Christ of the resurrection; see Ya<i>s</i>t XIX, 89, 91.

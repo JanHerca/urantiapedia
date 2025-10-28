@@ -133,8 +133,7 @@ Y. L, 1. Oui, mon âme obtient vraiment l'assistance <span id="p171"><sup><small
 [^775]: 173:7 Ou, « Mets un joug, tu pourras gagner ».
 
 [^776]: 173:8 Le Pont <i>K</i>inva<i>t</i>, au sens propre comme au sens figuré. Comparer à « le pont de la terre » (Y. LI, 12). Les crises de l'effort, ou de la tentation, sont visées, car le Pont <i>K</i>inva<i>t</i> était la dernière crise avant le salut ou la perdition. Les âmes des bons et des mauvais étaient accueillies par leur propre conscience sur le Pont, et encouragées ou injuriées.
-
-« Lorsque l'âme du pieux franchit ce pont, sa largeur atteint environ une lieue » (West, Mainyô-î Khard, p. 134). L'extension du pont pour les pieux est peut-être due à l'emploi du pluriel ici.
+  « Lorsque l'âme du pieux franchit ce pont, sa largeur atteint environ une lieue » (West, Mainyô-î Khard, p. 134). L'extension du pont pour les pieux est peut-être due à l'emploi du pluriel ici.
 
 [^777]: 174 : 1 Comparez Y. XXVIII, 3.
 

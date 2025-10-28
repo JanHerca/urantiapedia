@@ -90,38 +90,38 @@ And we sacrifice to the souls of the dead, \[which are the Fravashis of the sain
 
 ## Footnotes
 
-[^1376]: 327:1 This, while very ancient as regards us, is of course not genuine in its present shape. It was doubtless composed long after Frashao<i>s</i>tra and Zarathu<i>s</i>tra had ceased to live. It may be, however, an expansion of an earlier document.
+[^1365]: 327:1 This, while very ancient as regards us, is of course not genuine in its present shape. It was doubtless composed long after Frashao<i>s</i>tra and Zarathu<i>s</i>tra had ceased to live. It may be, however, an expansion of an earlier document.
 
-[^1377]: 327:2 ‘The Amesha Spe<i>n</i>ta of the holy ones.’
+[^1366]: 327:2 ‘The Amesha Spe<i>n</i>ta of the holy ones.’
 
-[^1378]: 328:1 The heavenly bodies are thus termed elsewhere, and the sun is called his eye. ![](/image/book/The_Zend_Avesta_Part_3/32800.jpg) written for ![](/image/book/The_Zend_Avesta_Part_3/32801.jpg).
+[^1367]: 328:1 The heavenly bodies are thus termed elsewhere, and the sun is called his eye. ![](/image/book/The_Zend_Avesta_Part_3/32800.jpg) written for ![](/image/book/The_Zend_Avesta_Part_3/32801.jpg).
 
-[^1379]: 328:2 Possibly, ‘were created pure.’
+[^1368]: 328:2 Possibly, ‘were created pure.’
 
-[^1380]: 328:3 ‘Shaped holy.’
+[^1369]: 328:3 ‘Shaped holy.’
 
-[^1381]: 328:4 Or, ‘are worshipped as holy,’ vahmya<i>k</i>a, or yêsnya<i>k</i>a.
+[^1370]: 328:4 Or, ‘are worshipped as holy,’ vahmya<i>k</i>a, or yêsnya<i>k</i>a.
 
-[^1382]: 328:5 This figure is too advanced to be probable. The text has been disturbed. The words describe the waters elsewhere.
+[^1371]: 328:5 This figure is too advanced to be probable. The text has been disturbed. The words describe the waters elsewhere.
 
-[^1383]: 328:6 So with the Pahlavi, referring the word to the third kar, the root of khratu, passive (?) form, with active sense. It also, however, not impossibly might mean ‘cut around,’ preparatory to felling.
+[^1372]: 328:6 So with the Pahlavi, referring the word to the third kar, the root of khratu, passive (?) form, with active sense. It also, however, not impossibly might mean ‘cut around,’ preparatory to felling.
 
-[^1384]: 329:1 Elsewhere rendered ‘stems.’
+[^1373]: 329:1 Elsewhere rendered ‘stems.’
 
-[^1385]: 329:2 Not determined like the course of a planet.
+[^1374]: 329:2 Not determined like the course of a planet.
 
-[^1386]: 329:3 We should expect the vocative after ‘Thy.’
+[^1375]: 329:3 We should expect the vocative after ‘Thy.’
 
-[^1387]: 330:1 Or, ‘I would invoke (mine) own soul;’ see verse 18.
+[^1376]: 330:1 Or, ‘I would invoke (mine) own soul;’ see verse 18.
 
-[^1388]: 330:2 Possibly the rejoinder of Frashao<i>s</i>tra, or these are ‘the best words’ referred to in verse 14; but the section is a dialogue.
+[^1377]: 330:2 Possibly the rejoinder of Frashao<i>s</i>tra, or these are ‘the best words’ referred to in verse 14; but the section is a dialogue.
 
-[^1389]: 330:3 Y. XLVI, 6.
+[^1378]: 330:3 Y. XLVI, 6.
 
-[^1390]: 330:4 Ahura speaks.
+[^1379]: 330:4 Ahura speaks.
 
-[^1391]: 331:1 Y. XLIII, 1 follows.
+[^1380]: 331:1 Y. XLIII, 1 follows.
 
-[^1392]: 331:2 Diseases arising from filth.
+[^1381]: 331:2 Diseases arising from filth.
 
-[^1393]: 332:1 See Y. XXXV, 4; Y. XLVIII, 6.
+[^1382]: 332:1 See Y. XXXV, 4; Y. XLVIII, 6.
