@@ -356,15 +356,9 @@
                     "par_content": "Teraz i na wieki prawdziwy."
                 },
                 {
-                    "par_ref": "144:5.10b",
+                    "par_ref": "144:5.11",
                     "par_pageref": "1622.9b",
                     "par_content": "* * *",
-                    "hide_ref": true
-                },
-                {
-                    "par_ref": "144:5.11",
-                    "par_pageref": "1622.9",
-                    "par_content": "*  *  *",
                     "hide_ref": true
                 },
                 {
@@ -428,7 +422,7 @@
                     "par_content": "A gdy koniec nadejdzie, przyjmij nasze wierne duchy do swego łona."
                 },
                 {
-                    "par_ref": "144:5.23b",
+                    "par_ref": "144:5.25",
                     "par_pageref": "1622.22b",
                     "par_content": "* * *",
                     "hide_ref": true
@@ -441,7 +435,7 @@
                 {
                     "par_ref": "144:5.25",
                     "par_pageref": "1622.22",
-                    "par_content": "*  *  *",
+                    "par_content": "* * *",
                     "hide_ref": true
                 },
                 {
@@ -495,12 +489,6 @@
                     "par_content": "Oczyść nas w pełni w dniu wielkiego sądu."
                 },
                 {
-                    "par_ref": "144:5.35b",
-                    "par_pageref": "1622.34b",
-                    "par_content": "* * *",
-                    "hide_ref": true
-                },
-                {
                     "par_ref": "144:5.36",
                     "par_pageref": "1622.33",
                     "par_content": "Uczyń nas na swoje podobieństwo w wiecznej chwale"
@@ -512,8 +500,8 @@
                 },
                 {
                     "par_ref": "144:5.38",
-                    "par_pageref": "1622.34",
-                    "par_content": "*  *  *",
+                    "par_pageref": "1622.34b",
+                    "par_content": "* * *",
                     "hide_ref": true
                 },
                 {
@@ -577,12 +565,6 @@
                     "par_content": "Raduj się, gdy nas przekształcasz na swoje podobieństwo."
                 },
                 {
-                    "par_ref": "144:5.50b",
-                    "par_pageref": "1623.3b",
-                    "par_content": "* * *",
-                    "hide_ref": true
-                },
-                {
                     "par_ref": "144:5.51",
                     "par_pageref": "1623.1",
                     "par_content": "W końcu, przez miłość Boskiego Syna,"
@@ -599,8 +581,8 @@
                 },
                 {
                     "par_ref": "144:5.54",
-                    "par_pageref": "1623.3",
-                    "par_content": "*  *  *",
+                    "par_pageref": "1623.3b",
+                    "par_content": "* * *",
                     "hide_ref": true
                 },
                 {
@@ -674,12 +656,6 @@
                     "par_content": "Aby twa dobroczynność mogła spowijać słabość tego świata."
                 },
                 {
-                    "par_ref": "144:5.68b",
-                    "par_pageref": "1623.21b",
-                    "par_content": "* * *",
-                    "hide_ref": true
-                },
-                {
                     "par_ref": "144:5.69",
                     "par_pageref": "1623.18",
                     "par_content": "A kiedy byt nasz się skończy, niech zaszczyt przyniesie imieniu twemu,"
@@ -701,8 +677,8 @@
                 },
                 {
                     "par_ref": "144:5.73",
-                    "par_pageref": "1623.21",
-                    "par_content": "*  *  *",
+                    "par_pageref": "1623.21b",
+                    "par_content": "* * *",
                     "hide_ref": true
                 },
                 {
@@ -746,12 +722,6 @@
                     "par_content": "Niech zamieszkujący nas duch odświeży i przekształci nasze umysły."
                 },
                 {
-                    "par_ref": "144:5.81b",
-                    "par_pageref": "1623.34b",
-                    "par_content": "* * *",
-                    "hide_ref": true
-                },
-                {
                     "par_ref": "144:5.82",
                     "par_pageref": "1623.30",
                     "par_content": "A kiedy wreszcie przyjdzie śmiertelny koniec,"
@@ -778,8 +748,8 @@
                 },
                 {
                     "par_ref": "144:5.87",
-                    "par_pageref": "1623.34",
-                    "par_content": "*  *  *",
+                    "par_pageref": "1623.34b",
+                    "par_content": "* * *",
                     "hide_ref": true
                 },
                 {
