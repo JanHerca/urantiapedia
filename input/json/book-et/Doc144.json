@@ -356,6 +356,12 @@
                     "par_content": "Nii see on ja see on igavesti tõsi."
                 },
                 {
+                    "par_ref": "144:5.10b",
+                    "par_pageref": "1622.9b",
+                    "par_content": "* * *",
+                    "hide_ref": true
+                },
+                {
                     "par_ref": "144:5.11",
                     "par_pageref": "1622.9",
                     "par_content": "*  *  *",
@@ -422,6 +428,12 @@
                     "par_content": "ja kui saabub meie lõpp, võta meie ustavad vaimud vastu oma rüppe."
                 },
                 {
+                    "par_ref": "144:5.23b",
+                    "par_pageref": "1622.22b",
+                    "par_content": "* * *",
+                    "hide_ref": true
+                },
+                {
                     "par_ref": "144:5.24",
                     "par_pageref": "1622.22",
                     "par_content": "Ja täitugu mitte meie soovid, vaid sinu tahe."
@@ -481,6 +493,12 @@
                     "par_ref": "144:5.35",
                     "par_pageref": "1622.32",
                     "par_content": "mõista meid täielikult õigeks suure kohtumõistmise päeval."
+                },
+                {
+                    "par_ref": "144:5.35b",
+                    "par_pageref": "1622.34b",
+                    "par_content": "* * *",
+                    "hide_ref": true
                 },
                 {
                     "par_ref": "144:5.36",
@@ -557,6 +575,12 @@
                     "par_ref": "144:5.50",
                     "par_pageref": "1622.46",
                     "par_content": "tee meid meelsasti üha enam endasarnaseks."
+                },
+                {
+                    "par_ref": "144:5.50b",
+                    "par_pageref": "1623.3b",
+                    "par_content": "* * *",
+                    "hide_ref": true
                 },
                 {
                     "par_ref": "144:5.51",
@@ -650,6 +674,12 @@
                     "par_content": "et meie halastus võiks hõlmata maailma nõrku."
                 },
                 {
+                    "par_ref": "144:5.68b",
+                    "par_pageref": "1623.21b",
+                    "par_content": "* * *",
+                    "hide_ref": true
+                },
+                {
                     "par_ref": "144:5.69",
                     "par_pageref": "1623.18",
                     "par_content": "Ja kui meie elutee lõpeb, tee sellest au oma nimele,"
@@ -714,6 +744,12 @@
                     "par_ref": "144:5.81",
                     "par_pageref": "1623.29",
                     "par_content": "Uuenda meie meelt sisimas elava vaimu muundamise abil,"
+                },
+                {
+                    "par_ref": "144:5.81b",
+                    "par_pageref": "1623.34b",
+                    "par_content": "* * *",
+                    "hide_ref": true
                 },
                 {
                     "par_ref": "144:5.82",
