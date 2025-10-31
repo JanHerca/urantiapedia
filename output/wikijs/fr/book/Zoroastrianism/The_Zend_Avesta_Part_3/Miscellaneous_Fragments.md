@@ -112,42 +112,42 @@ Que la propitiation soit faite au corps créé du Veau béni et à son âme (ain
 
 ## Notes de bas de page
 
-[^1589]: 389:1 Autres « les mots sans restriction ».
+[^1561]: 389:1 Autres « les mots sans restriction ». 
 
-[^1590]: 389:2 Peut-être que « Zarathustra » est ici simplement l’équivalent de prêtre.
+[^1562]: 389:2 Peut-être que « Zarathoustra » est ici simplement l'équivalent de prêtre. 
 
-[^1592]: 389:3 Obscur.
+[^1563]: 389:3 Obscur. 
 
-[^1593]: 389:4 Formations gênantes.
+[^1564]: 389:4 Formations maladroites. 
 
-[^1594]: 390:1 Ashaêta= â + shaêta utilisé au subjonctif.
+[^1565]: 390:1 Ashaêta = â + shaêta employé au subjonctif. 
 
-[^1595]: 390:2 Insérer « de la mauvaise foi ».
+[^1566]: 390:2 Insérer « de la mauvaise foi ». 
 
-[^1596]: 390:3 Dans Y. IX, 14, 15, c'est l'Ahuna-vairya qui pousse les Daêvas sous la terre.
+[^1567]: 390:3 Dans Y. IX, 14, 15, c'est l'Ahuna-vairya qui précipite les Daêvas sous terre. 
 
-[^1597]: 391:1 Selon les Bundahi<i>s</i>, le nom d'un lac.
+[^1568]: 391:1 Selon les Bundahi<i>s</i>, le nom d'un lac. 
 
-[^1598]: 391:2 Ce fragment était prononcé lorsque le lait était tiré de la vache, ou des vaches, pour l'offrande, et lorsque l'eau était reçue avec laquelle le pis de la vache devait être lavé. (Traduction espagnole vol. iii, p. 254.)
+[^1569]: 391:2 Ce fragment était prononcé lorsque l'on tirait le lait de la vache, ou des vaches, pour l'offrande, et lorsque l'on recevait l'eau avec laquelle on devait laver le pis de la vache. (Trad. espagnole, vol. III, p. 254.) 
 
-[^1601]: 391:3 Ces mots sont introduits en persan comme rubrique.
+[^1570]: 391:3 Ces mots sont introduits en persan comme rubrique. 
 
-[^1602]: 392:1 Ceci devait être dit lorsque le récipient contenant le Zaothras était pris en main (Esp.).
+[^1571]: 392:1 Ces paroles devaient être prononcées lorsque le vase contenant le Zaothras serait pris en main (Esp.). 
 
-[^1603]: 392:2 Ce fragment est très brisé dans ses connexions et très corrompu dans ses formes grammaticales. La traduction est entièrement conjecturale. La section IX présente également des irrégularités.
+[^1572]: 392:2 Ce fragment est très fragmentaire et grammaticalement très corrompu. La traduction est entièrement conjecturale. La section IX présente également des irrégularités. 
 
-[^1604]: 392:3 Une certaine forme de dva peut être conjecturée.
+[^1573]: 392:3 On peut supposer qu'il s'agit d'une forme de dva. 
 
-[^1605]: 392:4 'Avec son arme.'
+[^1574]: 392:4 « Avec son arme. » 
 
-[^1606]: 393:1 Khshathra<i>k</i>a?
+[^1575]: 393:1 Khshathra<i>k</i>a ? 
 
-[^1607]: 393:2 Voir Y. XXX, 10.
+[^1576]: 393:2 Voir Y. XXX, 10. 
 
-[^1608]: 393:3 Je suppose donc que ce sont les mots initiaux d'un morceau.
+[^1577]: 393:3 Je suppose donc qu'il s'agit des premiers mots d'une pièce. 
 
-[^1609]: 393:4 'Pour la guérison.'
+[^1578]: 393:4 « Pour la guérison. » 
 
-[^1610]: 393:5 Y. L, 11.
+[^1579]: 393:5 Y. L, 11. 
 
-[^1611]: 393:6 Dernière ligne de l'Ahuna.
+[^1580]: 393:6 Dernière ligne de l'Ahuna.

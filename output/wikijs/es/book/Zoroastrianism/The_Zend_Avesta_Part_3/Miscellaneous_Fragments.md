@@ -114,42 +114,42 @@ Propiciación al cuerpo creado de la vaca de bendita dotación y al alma de la v
 
 ## Notas al pie
 
-[^1589]: 389:1 Otros 'las palabras sin restricciones'.
+[^1561]: 389:1 Otros 'las palabras sin restricciones'.
 
-[^1590]: 389:2 Quizás 'Zaratustra' sea aquí simplemente el equivalente de sacerdote.
+[^1562]: 389:2 Quizás 'Zaratustra' aquí sea simplemente el equivalente de sacerdote.
 
-[^1592]: 389:3 Oscuro.
+[^1563]: 389:3 Oscuro.
 
-[^1593]: 389:4 Formaciones torpes.
+[^1564]: 389:4 Formaciones extrañas.
 
-[^1594]: 390:1 Ashaêta= â + shaêta usado subjuntivamente.
+[^1565]: 390:1 Ashaêta= â + shaêta usado subjuntivamente.
 
-[^1595]: 390:2 Insertar 'de la fe mala'.
+[^1566]: 390:2 Insertar 'de la fe malvada.'
 
-[^1596]: 390:3 En Y. IX, 14, 15, es el Ahuna-vairya el que conduce a los Daêvas bajo la tierra.
+[^1567]: 390:3 En Y. IX, 14, 15, es el Ahuna-vairya quien impulsa a los Daêvas bajo la tierra.
 
-[^1597]: 391:1 Según los Bundahi<i>s</i>, el nombre de un lago.
+[^1568]: 391:1 Según los Bundahi<i>s</i>, el nombre de un lago.
 
-[^1598]: 391:2 Este fragmento se pronunciaba cuando se extraía la leche de la vaca o vacas para la ofrenda, y cuando se recibía el agua con la que se lavaría la ubre de la vaca. (Trad. española, vol. iii, pág. 254.)
+[^1569]: 391:2 Este fragmento se pronunciaba cuando se extraía la leche de la vaca o vacas para la ofrenda, y cuando se recibía el agua con la que se lavaría la ubre de la vaca. (Trad. esp. vol. iii, p. 254.)
 
-[^1601]: 391:3 Estas palabras están en persa introducidas como rúbrica.
+[^1570]: 391:3 Estas palabras están en persa introducidas como rúbrica.
 
-[^1602]: 392:1 Esto debía decirse cuando se tomaba en la mano el recipiente que contenía el Zaothras (esp.).
+[^1571]: 392:1 Esto debía decirse cuando se tomara en mano el recipiente que contenía a Zaothras (Esp.).
 
-[^1603]: 392:2 Este fragmento presenta una conexión muy deficiente y presenta una gramática muy corrupta. La traducción es completamente conjetural. La sección IX también presenta irregularidades.
+[^1572]: 392:2 Este fragmento está muy fragmentado y presenta graves irregularidades gramaticales. La traducción es totalmente conjetural. La sección IX también presenta irregularidades.
 
-[^1604]: 392:3 Se puede conjeturar alguna forma de dva.
+[^1573]: 392:3 Se puede conjeturar alguna forma de dva.
 
-[^1605]: 392:4 'Con su arma.'
+[^1574]: 392:4 'Con su arma.'
 
-[^1606]: 393:1 ¿Kshathra<i>k</i>a?
+[^1575]: 393:1 Khshathra<i>k</i>a?
 
-[^1607]: 393:2 Véase Y. XXX, 10.
+[^1576]: 393:2 Véase Y. XXX, 10.
 
-[^1608]: 393:3 Así lo conjetura, son las palabras iniciales de alguna pieza.
+[^1577]: 393:3 Así lo conjeturo como las palabras iniciales de alguna pieza.
 
-[^1609]: 393:4 'Para sanar.'
+[^1578]: 393:4 'Para la curación.'
 
-[^1610]: 393:5 Y. L, 11.
+[^1579]: 393:5 Y. L, 11.
 
-[^1611]: 393:6 Última línea del Ahuna.
+[^1580]: 393:6 Última línea del Ahuna.

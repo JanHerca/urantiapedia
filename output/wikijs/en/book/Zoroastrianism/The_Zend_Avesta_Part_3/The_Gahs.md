@@ -140,56 +140,56 @@ And we sacrifice to the holy man most forward in good thoughts, and words, and w
 
 ## Footnotes
 
-[^1562]: 379:1 The term Gâh, itself, may have arisen from the practice of chanting the Gâthas at different fixed times in the day.
+[^1534]: 379:1 The term Gâh, itself, may have arisen from the practice of chanting the Gâthas at different fixed times in the day.
 
-[^1563]: 379:2 To be recited every day at the time of Hâvani.
+[^1535]: 379:2 To be recited every day at the time of Hâvani.
 
-[^1564]: 379:3 Having a special Ya<i>s</i>t.
+[^1536]: 379:3 Having a special Ya<i>s</i>t.
 
-[^1565]: 380:1 The personified prayer; see Y. LIV.
+[^1537]: 380:1 The personified prayer; see Y. LIV.
 
-[^1566]: 381:1 Recited every day at the hour of Rapithwina.
+[^1538]: 381:1 Recited every day at the hour of Rapithwina.
 
-[^1567]: 382:1 The Ahuna follows.
+[^1539]: 382:1 The Ahuna follows.
 
-[^1568]: 382:2 Zarathu<i>s</i>tra conquered the Demon with the Ahuna-vairya.
+[^1540]: 382:2 Zarathu<i>s</i>tra conquered the Demon with the Ahuna-vairya.
 
-[^1569]: 383:1 Recited every day at the hour of Uzayêirina.
+[^1541]: 383:1 Recited every day at the hour of Uzayêirina.
 
-[^1570]: 383:2 The Ahuna follows.
+[^1542]: 383:2 The Ahuna follows.
 
-[^1571]: 384:1 See Y. XLV, 7.
+[^1543]: 384:1 See Y. XLV, 7.
 
-[^1572]: 384:2 The YêNhê hâtãm here follows.
+[^1544]: 384:2 The YêNhê hâtãm here follows.
 
-[^1573]: 384:3 The Ahuna follows.
+[^1545]: 384:3 The Ahuna follows.
 
-[^1574]: 384:4 The Ashem follows.
+[^1546]: 384:4 The Ashem follows.
 
-[^1575]: 384:5 Recited every day at the hour of Aiwisrûthrima.
+[^1547]: 384:5 Recited every day at the hour of Aiwisrûthrima.
 
-[^1576]: 384:6 Or, ‘that furthers life.’
+[^1548]: 384:6 Or, ‘that furthers life.’
 
-[^1577]: 384:7 The genius presiding over all that furthers happiness.
+[^1549]: 384:7 The genius presiding over all that furthers happiness.
 
-[^1578]: 384:8 The genius presiding over the highest office in a province.
+[^1550]: 384:8 The genius presiding over the highest office in a province.
 
-[^1579]: 385:1 The Gâthas and Vendîdâd; the first verse of the Gâthas mentions the Kine's soul.
+[^1551]: 385:1 The Gâthas and Vendîdâd; the first verse of the Gâthas mentions the Kine's soul.
 
-[^1580]: 385:2 ‘And to Zarathu<i>s</i>tra.’
+[^1552]: 385:2 ‘And to Zarathu<i>s</i>tra.’
 
-[^1581]: 386:1 See Ya<i>s</i>t XXII.
+[^1553]: 386:1 See Ya<i>s</i>t XXII.
 
-[^1582]: 386:2 It is very probable that the Yasna was at that period celebrated from house to house.
+[^1554]: 386:2 It is very probable that the Yasna was at that period celebrated from house to house.
 
-[^1583]: 386:3 Medical?
+[^1555]: 386:3 Medical?
 
-[^1584]: 386:4 Is it possibly, ‘favouring good thoughts,’ &c.?
+[^1556]: 386:4 Is it possibly, ‘favouring good thoughts,’ &c.?
 
-[^1585]: 387:1 Recited every day at the hour of Ushahina.
+[^1557]: 387:1 Recited every day at the hour of Ushahina.
 
-[^1586]: 387:2 So, better than ‘royal,’ which is, however, possible.
+[^1558]: 387:2 So, better than ‘royal,’ which is, however, possible.
 
-[^1587]: 387:3 Or, ‘while it abides.’
+[^1559]: 387:3 Or, ‘while it abides.’
 
-[^1588]: 388:1 The Ashem and the Ahmâi raê<i>s</i><i>k</i>a.
+[^1560]: 388:1 The Ashem and the Ahmâi raê<i>s</i><i>k</i>a.

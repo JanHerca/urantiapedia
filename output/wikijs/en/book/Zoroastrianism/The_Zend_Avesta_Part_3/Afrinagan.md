@@ -46,7 +46,7 @@ As to the present use of these blessings, says Haug (ed. West): ‘Âfrînagân 
 
 1\. I confess myself a Mazda-worshipper, and of Zarathustra's order, a foe of the Daêvas, devoted to the lore of the Lord, for the holy Hâvani [^1507], the regulator of the ritual order (and its lord in its turn), for its sacrifice, homage, propitiation, and praise; (and I confess myself) for Sâvanghi and for Vîsya, the holy lords of the ritual order, for their sacrifice, homage, <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> propitiation, and praise, and for that of the Asnya, the day-lords of the days during daylight, and of the days in their length, for the Mâhya, month-lords, and the Yâirya, year-lords, and for those of the especial seasons, and for the worship, homage, propitiation, and praise of that lofty lord who is the Ritual Righteousness (itself); yea, for the worship, homage, propitiation, and praise of the lords of the days, months, years, and seasons—for those lords of the ritual order who are of all the greatest, who are the regulators of the ritual at the time of Hâvani.
 
-2\. To Maidhyô-zaremya [^1508], the lord \[^1508], the lord, or to Paiti<i>s</i>hahya [^1508], the lord, or to Ayâthrima [^1508], Maidhyâirya [^1508], or Hamaspathmaêdhaya\], be propitiation, homage, and praise.
+2\. To Maidhyô-zaremya [^1508], the lord [^1508], the lord, or to Paiti<i>s</i>hahya [^1508], the lord, or to Ayâthrima [^1508], Maidhyâirya [^1508], or Hamaspathmaêdhaya\], be propitiation, homage, and praise.
 
 3\. O ye Mazdayasnians who are here present! offer ye [^1509] this ritual service, and present ye the Myazda which is that of the Maidhyô-zaremaya, taking a piece of sound flesh from a choice beast, with a full flow of milk.
 
@@ -110,56 +110,56 @@ We sacrifice to the Gâtha Ahunavaiti, the holy, as it rules in the ritual order
 
 ## Footnotes
 
-[^1525]: 367:1 The Âfrîn for the morning hours from 6 to 10.
+[^1507]: 367:1 The Âfrîn for the morning hours from 6 to 10.
 
-[^1530]: 368:1 The name of the season at the time present, when the text is recited, is to be used.
+[^1508]: 368:1 The name of the season at the time present, when the text is recited, is to be used.
 
-[^1531]: 368:2 Bring ye, O these Mazdayasnians!
+[^1509]: 368:2 Bring ye, O these Mazdayasnians!
 
-[^1532]: 369:1 Or, ‘because we offer.’
+[^1510]: 369:1 Or, ‘because we offer.’
 
-[^1534]: 369:2 Not ‘renders him (detected) among the Mazdayasnians;’ compare for form a<i>n</i>tarê-mrûyê; see also fra-dasti and fra-perenaoiti; also the present may be used for the imperative.
+[^1511]: 369:2 Not ‘renders him (detected) among the Mazdayasnians;’ compare for form a<i>n</i>tarê-mrûyê; see also fra-dasti and fra-perenaoiti; also the present may be used for the imperative.
 
-[^1535]: 370:1 Possibly ‘having a breast burnt by the ordeal,’ and so ‘detected;’ or ‘hot-breasted, vehement’ (?); comp. uras.
+[^1512]: 370:1 Possibly ‘having a breast burnt by the ordeal,’ and so ‘detected;’ or ‘hot-breasted, vehement’ (?); comp. uras.
 
-[^1536]: 370:2 It may be ‘(his) excluded beast,’ or ‘his stray beast’ (?).
+[^1513]: 370:2 It may be ‘(his) excluded beast,’ or ‘his stray beast’ (?).
 
-[^1537]: 370:3 Or, possibly, ‘he is rejected when offering himself as arrived from the settlements’ (?).
+[^1514]: 370:3 Or, possibly, ‘he is rejected when offering himself as arrived from the settlements’ (?).
 
-[^1538]: 370:4 ‘Without recoiling.’
+[^1515]: 370:4 ‘Without recoiling.’
 
-[^1539]: 370:5 Syazdayôi<i>t</i>.
+[^1516]: 370:5 Syazdayôi<i>t</i>.
 
-[^1540]: 371:1 Unfriendly and untrue; ‘\*avratyá.’
+[^1517]: 371:1 Unfriendly and untrue; ‘\*avratyá.’
 
-[^1541]: 371:2 Recall yôi zaze<i>n</i>tê vanghâu sravahî.
+[^1518]: 371:2 Recall yôi zaze<i>n</i>tê vanghâu sravahî.
 
-[^1542]: 372:1 See Y. XXXV, 2. The Ahuna follows.
+[^119]: 372:1 See Y. XXXV, 2. The Ahuna follows.
 
-[^1545]: 372:2 The name varies with the season in which the sacrifice is made.
+[^1520]: 372:2 The name varies with the season in which the sacrifice is made.
 
-[^1546]: 372:3 As in 18.
+[^1521]: 372:3 As in 18.
 
-[^1548]: 372:4 Recited during the days called after the Gâthas, the last five of the year. A long period of time must have elapsed since the Gâthas were composed, as they probably were not originally ‘five,’ and yet seem to have been only remembered as such.
+[^1522]: 372:4 Recited during the days called after the Gâthas, the last five of the year. A long period of time must have elapsed since the Gâthas were composed, as they probably were not originally ‘five,’ and yet seem to have been only remembered as such.
 
-[^1549]: 373:1 Verses 5, 6 = Â. I, 14-18; for verse 6, see verses 1, 2; also see Â. I, 19.
+[^1523]: 373:1 Verses 5, 6 = Â. I, 14-18; for verse 6, see verses 1, 2; also see Â. I, 19.
 
-[^1551]: 373:2 To be recited on the third day (Ardibahi<i>s</i>t) of the first month (Fravardin).
+[^1524]: 373:2 To be recited on the third day (Ardibahi<i>s</i>t) of the first month (Fravardin).
 
-[^1552]: 373:3 A genius who furthered cattle.
+[^1525]: 373:3 A genius who furthered cattle.
 
-[^1553]: 373:4 The genius of the Za<i>n</i>tu, presiding over this Gâh Rapithvin.
+[^1526]: 373:4 The genius of the Za<i>n</i>tu, presiding over this Gâh Rapithvin.
 
-[^1556]: 374:1 Erroneous.
+[^1527]: 374:1 Erroneous.
 
-[^1555]: 374:2 Ahmâi; see Y. XLIII, 10 with ehmâ.
+[^1528]: 374:2 Ahmâi; see Y. XLIII, 10 with ehmâ.
 
-[^1557]: 374:3 Insert ‘spirit.’
+[^1529]: 374:3 Insert ‘spirit.’
 
-[^1558]: 374:4 Or, ‘to.’
+[^1530]: 374:4 Or, ‘to.’
 
-[^1559]: 374:5 Saoshyati<i>k</i>a; or can saoshya<i>n</i>ti be a locative absolute, preserving a fuller form?
+[^1531]: 374:5 Saoshyati<i>k</i>a; or can saoshya<i>n</i>ti be a locative absolute, preserving a fuller form?
 
-[^1560]: 374:6 Or, ‘causes it to enter into helpful joy’ (?).
+[^1532]: 374:6 Or, ‘causes it to enter into helpful joy’ (?).
 
-[^1561]: 375:1 Or, ‘to.’
+[^1533]: 375:1 Or, ‘to.’

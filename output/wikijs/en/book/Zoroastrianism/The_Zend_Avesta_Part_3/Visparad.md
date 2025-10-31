@@ -371,250 +371,250 @@ Also we sacrifice to that best wish, which is that of Asha Vahi<i>s</i>ta, and w
 
 ## Footnotes
 
-[^1394]: 335:1 This Visparad consists of additions to various portions of the Yasna; and its several chapters generally follow the corresponding portions of the Yasna in the Vendîdâd Sâdah. The word Visparad means ‘all the chiefs,’ referring to the ‘lords of the ritual.’ Chapter I should be read immediately after Yasna I, 9.
+[^1383]: 335:1 This Visparad consists of additions to various portions of the Yasna; and its several chapters generally follow the corresponding portions of the Yasna in the Vendîdâd Sâdah. The word Visparad means ‘all the chiefs,’ referring to the ‘lords of the ritual.’ Chapter I should be read immediately after Yasna I, 9.
 
-[^1395]: 335:2 Or, ‘I invite.’
+[^1384]: 335:2 Or, ‘I invite.’
 
-[^1397]: 335:3 Lords because ruling as chief objects of attention during their mention in the course of the sacrifice, also, as in this case, genii guarding over all of their class.
+[^1385]: 335:3 Lords because ruling as chief objects of attention during their mention in the course of the sacrifice, also, as in this case, genii guarding over all of their class.
 
-[^1398]: 335:4 So De Harlez, admirably following the Pahl. sardîk (sic).
+[^1386]: 335:4 So De Harlez, admirably following the Pahl. sardîk (sic).
 
-[^1399]: 335:5 Pavan yazi<i>s</i>n kar<i>d</i>arîh.
+[^1387]: 335:5 Pavan yazi<i>s</i>n kar<i>d</i>arîh.
 
-[^1400]: 336:1 <i>A</i>unghairyô, a collective, or zîzanen, a participle.
+[^1388]: 336:1 <i>A</i>unghairyô, a collective, or zîzanen, a participle.
 
-[^1401]: 336:2 Here is praise to a part of the Yasna itself, although not yet recited in the V.S.
+[^1389]: 336:2 Here is praise to a part of the Yasna itself, although not yet recited in the V.S.
 
-[^1402]: 336:3 Its chief word is yazamaidê, it is ‘the well-sacrificed,’ the word often occurring.
+[^1390]: 336:3 Its chief word is yazamaidê, it is ‘the well-sacrificed,’ the word often occurring.
 
-[^1403]: 336:4 Or, ‘to him who is devoted to the Ahuna, with its Ahû and Ratu (?).’
+[^1391]: 336:4 Or, ‘to him who is devoted to the Ahuna, with its Ahû and Ratu (?).’
 
-[^1404]: 336:5 Observe the priority of the Haptanghâiti; it should be read first.
+[^1392]: 336:5 Observe the priority of the Haptanghâiti; it should be read first.
 
-[^1405]: 336:6 Interpolated.
+[^1393]: 336:6 Interpolated.
 
-[^1406]: 337:1 This sense is most obvious.
+[^1394]: 337:1 This sense is most obvious.
 
-[^1407]: 337:2 The ‘fiend-smiting’ is the common meaning of v<i>ri</i>trahâ´; but verethra is clearly ‘victory’ in Zend; v<i>ri</i>trâ´ also equals defensive valour.
+[^1395]: 337:2 The ‘fiend-smiting’ is the common meaning of v<i>ri</i>trahâ´; but verethra is clearly ‘victory’ in Zend; v<i>ri</i>trâ´ also equals defensive valour.
 
-[^1408]: 337:3 Can dahmahê<i>k</i>a mean ‘the departed saint’ here?
+[^1396]: 337:3 Can dahmahê<i>k</i>a mean ‘the departed saint’ here?
 
-[^1409]: 337:4 A lost part of the Avesta, two fragments of which only survive.
+[^1397]: 337:4 A lost part of the Avesta, two fragments of which only survive.
 
-[^1410]: 338:1 Comp. Y. XXIX, 2. Y. I, 10-23 follows.
+[^1398]: 338:1 Comp. Y. XXIX, 2. Y. I, 10-23 follows.
 
-[^1411]: 338:2 Visparad II should be read after Yasna II, 8, of which it is an extension.
+[^1399]: 338:2 Visparad II should be read after Yasna II, 8, of which it is an extension.
 
-[^1412]: 339:1 It is certainly not impossible that the idea of ‘invoking the approach of Ahura’ was meant, but ‘approaching him’ is more natural.
+[^1400]: 339:1 It is certainly not impossible that the idea of ‘invoking the approach of Ahura’ was meant, but ‘approaching him’ is more natural.
 
-[^1413]: 339:2 Ahûm<i>k</i>a ratûm<i>k</i>a, applied to the same person, the usage arising from an erroneous rendering of the Ahuna-vairya; see Y. XIX, 12.
+[^1401]: 339:2 Ahûm<i>k</i>a ratûm<i>k</i>a, applied to the same person, the usage arising from an erroneous rendering of the Ahuna-vairya; see Y. XIX, 12.
 
-[^1414]: 339:3 Yô, with K7b, K11, daretem, passive form; or, ‘who (has) the Mãthra held.’ The text must, however, be in disorder.
+[^1402]: 339:3 Yô, with K7b, K11, daretem, passive form; or, ‘who (has) the Mãthra held.’ The text must, however, be in disorder.
 
-[^1415]: 339:4 In the Ashem Vohû.
+[^1403]: 339:4 In the Ashem Vohû.
 
-[^1416]: 340:1 So the Pahlavi.
+[^1404]: 340:1 So the Pahlavi.
 
-[^1417]: 340:2 Erroneous Pâzand.
+[^1405]: 340:2 Erroneous Pâzand.
 
-[^1418]: 340:3 This sentence affords support to my rendering of âyêsê, as expressing a desire to approach, rather than one for the approach of (the Genius of) the Mountain; at the same time the latter idea may very possibly be the correct one. (Expressions are curtailed.)
+[^1406]: 340:3 This sentence affords support to my rendering of âyêsê, as expressing a desire to approach, rather than one for the approach of (the Genius of) the Mountain; at the same time the latter idea may very possibly be the correct one. (Expressions are curtailed.)
 
-[^1419]: 341:1 Y. II, 10 follows Visparad II, 11.
+[^1407]: 341:1 Y. II, 10 follows Visparad II, 11.
 
-[^1420]: 341:2 This chapter 1-5 follows Y. XI, 1-8 in the Vendîdâd Sâdah; so, appropriately.
+[^1408]: 341:2 This chapter 1-5 follows Y. XI, 1-8 in the Vendîdâd Sâdah; so, appropriately.
 
-[^1421]: 341:3 The Ratu answers for all according to the rubric printed by Westergaard, but of later origin than the text. It arose from the fact that the several offices were later united in that of the Ratu. Originally the corresponding official answered to his title. The Hâvanan was the Mobad who pounded the Haoma in the mortar.
+[^1409]: 341:3 The Ratu answers for all according to the rubric printed by Westergaard, but of later origin than the text. It arose from the fact that the several offices were later united in that of the Ratu. Originally the corresponding official answered to his title. The Hâvanan was the Mobad who pounded the Haoma in the mortar.
 
-[^1422]: 341:4 The Mobad who fed the Fire.
+[^1410]: 341:4 The Mobad who fed the Fire.
 
-[^1423]: 341:5 The Mobad who aided the presentations.
+[^1411]: 341:5 The Mobad who aided the presentations.
 
-[^1424]: 341:6 The water carrier.
+[^1412]: 341:6 The water carrier.
 
-[^1425]: 342:1 The washer.
+[^1413]: 342:1 The washer.
 
-[^1426]: 342:2 The mixer (?), or the Mobad who attended to disinfections.
+[^1414]: 342:2 The mixer (?), or the Mobad who attended to disinfections.
 
-[^1427]: 342:3 The Mobad who attended to penance.
+[^1415]: 342:3 The Mobad who attended to penance.
 
-[^1428]: 342:4 The typical layman.
+[^1416]: 342:4 The typical layman.
 
-[^1429]: 342:5 This important custom was fully treated in the lost Nask, No. 16 (or No. 18, by another reckoning).
+[^1417]: 342:5 This important custom was fully treated in the lost Nask, No. 16 (or No. 18, by another reckoning).
 
-[^1430]: 342:6 So the most, but ratukhshathra means elsewhere ‘ruling in the ritual as supreme.’
+[^1418]: 342:6 So the most, but ratukhshathra means elsewhere ‘ruling in the ritual as supreme.’
 
-[^1431]: 343:1 This section follows Y. XI, 9-15 in the V.S., preceding a section described as Y. XI, 59, 60, in the B.V.S.
+[^1419]: 343:1 This section follows Y. XI, 9-15 in the V.S., preceding a section described as Y. XI, 59, 60, in the B.V.S.
 
-[^1433]: 343:2 Probably in an imperative sense, or, with some, an infinitive.
+[^1420]: 343:2 Probably in an imperative sense, or, with some, an infinitive.
 
-[^1434]: 343:3 Read Zaotasti which contains sandhi. It seems a gloss to explain the Âthraom (sic). It is zaotâ asti.
+[^1421]: 343:3 Read Zaotasti which contains sandhi. It seems a gloss to explain the Âthraom (sic). It is zaotâ asti.
 
-[^1435]: 343:4 This section, preceding Y. XI, closed in the B.V.S., seems to me p. 344 to belong properly after Yasna VIII, and the Myazda offering with the Ratufrîti.
+[^1422]: 343:4 This section, preceding Y. XI, closed in the B.V.S., seems to me p. 344 to belong properly after Yasna VIII, and the Myazda offering with the Ratufrîti.
 
-[^1436]: 344:1 Pâzand.
+[^1423]: 344:1 Pâzand.
 
-[^1437]: 344:2 This piece should be read after Yasna XIV, with which it is nearly identical. The language of the translation is slightly varied to relieve the effect of sameness.
+[^1424]: 344:2 This piece should be read after Yasna XIV, with which it is nearly identical. The language of the translation is slightly varied to relieve the effect of sameness.
 
-[^1438]: 345:1 Nearly identical with Yasna XV.
+[^1425]: 345:1 Nearly identical with Yasna XV.
 
-[^1439]: 345:2 This chapter should be read after Yasna XVII, which it appropriately follows in the Vendîdâd Sâdah.
+[^1426]: 345:2 This chapter should be read after Yasna XVII, which it appropriately follows in the Vendîdâd Sâdah.
 
-[^1440]: 345:3 Possibly ‘the best (better) course of that best world.’
+[^1427]: 345:3 Possibly ‘the best (better) course of that best world.’
 
-[^1441]: 346:1 One might consider, ‘virile power which has men and heroes in the mind beforehand;’ but vareti = gûrdîh.
+[^1428]: 346:1 One might consider, ‘virile power which has men and heroes in the mind beforehand;’ but vareti = gûrdîh.
 
-[^1442]: 346:2 Âsyay<i>a</i>u (sic) and takhmôtã<i>s</i>yay<i>a</i>u (sic) agree with feminines; possibly because of the male qualities referred to. They might be said to be in apposition lather than in agreement with the feminine.
+[^1429]: 346:2 Âsyay<i>a</i>u (sic) and takhmôtã<i>s</i>yay<i>a</i>u (sic) agree with feminines; possibly because of the male qualities referred to. They might be said to be in apposition lather than in agreement with the feminine.
 
-[^1443]: 346:3 Sleep is elsewhere an evil; a Demon, Bûshyãsta, rules it; but this is untimely sleep; see, on the other hand, Y. XLIV, 5.
+[^1430]: 346:3 Sleep is elsewhere an evil; a Demon, Bûshyãsta, rules it; but this is untimely sleep; see, on the other hand, Y. XLIV, 5.
 
-[^1444]: 347:1 ‘Mediated’ (?), or ‘known,’ madhayangha (-uha).
+[^1431]: 347:1 ‘Mediated’ (?), or ‘known,’ madhayangha (-uha).
 
-[^1445]: 347:2 See Y. XXXV, 5.
+[^1432]: 347:2 See Y. XXXV, 5.
 
-[^1446]: 347:3 This section should be read before Y. XXII.
+[^1433]: 347:3 This section should be read before Y. XXII.
 
-[^1447]: 347:4 Supplied necessarily from Visp. X, 2; see its genitive.
+[^1434]: 347:4 Supplied necessarily from Visp. X, 2; see its genitive.
 
-[^1449]: 347:5 Or, ‘sciences’ (in some cases medical).
+[^1435]: 347:5 Or, ‘sciences’ (in some cases medical).
 
-[^1450]: 348:1 Having a Ya<i>s</i>t.
+[^1436]: 348:1 Having a Ya<i>s</i>t.
 
-[^1451]: 348:2 Here is an instance where <i>h</i><i>v</i>âthra may mean ‘comfort.’
+[^1437]: 348:2 Here is an instance where <i>h</i><i>v</i>âthra may mean ‘comfort.’
 
-[^1452]: 349:1 Perhaps ‘the Ya<i>s</i>ts in the Yasna,’ otherwise the latter portion of the Yasna.
+[^1438]: 349:1 Perhaps ‘the Ya<i>s</i>ts in the Yasna,’ otherwise the latter portion of the Yasna.
 
-[^1453]: 349:2 This section follows Y. XXII.
+[^1439]: 349:2 This section follows Y. XXII.
 
-[^1454]: 349:3 The varesa consists (as used at present) of three, five, or seven hairs from the tail of a white bull, which are tied to a gold, silver, copper, or brass ring. This can be used as long as the bull lives, but as often as it is used it must be reconsecrated. (Haug.)
+[^1440]: 349:3 The varesa consists (as used at present) of three, five, or seven hairs from the tail of a white bull, which are tied to a gold, silver, copper, or brass ring. This can be used as long as the bull lives, but as often as it is used it must be reconsecrated. (Haug.)
 
-[^1455]: 349:4 The wording is purposely varied în the renderings to avoid sameness.
+[^1441]: 349:4 The wording is purposely varied în the renderings to avoid sameness.
 
-[^1456]: 350:1 To the soul of the person who may be reciting.
+[^1442]: 350:1 To the soul of the person who may be reciting.
 
-[^1457]: 350:2 Zâiri with K4.
+[^1443]: 350:2 Zâiri with K4.
 
-[^1458]: 351:1 Here, erroneously, a proper name as in Ya<i>s</i>t XIII. Possibly of that Zarathu<i>s</i>trian world (period) which loved righteousness; the word occurs after the name of Z. I think that ‘y’ should be ‘v.’
+[^1444]: 351:1 Here, erroneously, a proper name as in Ya<i>s</i>t XIII. Possibly of that Zarathu<i>s</i>trian world (period) which loved righteousness; the word occurs after the name of Z. I think that ‘y’ should be ‘v.’
 
-[^1459]: 352:1 Vohu Manah certainly appears the most prominent here. They arose from the ‘good thought’ of Ahura.
+[^1445]: 352:1 Vohu Manah certainly appears the most prominent here. They arose from the ‘good thought’ of Ahura.
 
-[^1460]: 352:2 This office was celebrated in private houses by itinerant priests.
+[^1446]: 352:2 This office was celebrated in private houses by itinerant priests.
 
-[^1461]: 352:3 YêNhê aêm might be a citation from some lost prayer. The singular aêm may, however, be taken collectively, as families are spoken of.
+[^1447]: 352:3 YêNhê aêm might be a citation from some lost prayer. The singular aêm may, however, be taken collectively, as families are spoken of.
 
-[^1462]: 353:1 Âvista probably = Avesta; compare Veda. The moral and ceremonial laws.
+[^1448]: 353:1 Âvista probably = Avesta; compare Veda. The moral and ceremonial laws.
 
-[^1463]: 353:2 Avestic.
+[^1449]: 353:2 Avestic.
 
-[^1464]: 353:3 Follows Y. XXVII.
+[^1450]: 353:3 Follows Y. XXVII.
 
-[^1465]: 353:4 Hâ seems to have a certain conjunctive force like sa in composition, ‘And thereto the good Sraosha;’ or is it an interjection?
+[^1451]: 353:4 Hâ seems to have a certain conjunctive force like sa in composition, ‘And thereto the good Sraosha;’ or is it an interjection?
 
-[^1466]: 354:1 Recall h<i>e</i><i>k</i>â of Y. XLVI, I.
+[^1452]: 354:1 Recall h<i>e</i><i>k</i>â of Y. XLVI, I.
 
-[^1467]: 354:2 With punctilious sanctity.
+[^1453]: 354:2 With punctilious sanctity.
 
-[^1468]: 354:3 The Parsi priests at present make appropriate manipulations here.
+[^1454]: 354:3 The Parsi priests at present make appropriate manipulations here.
 
-[^1469]: 354:4 In the now ancient Gâthas, &c.
+[^1455]: 354:4 In the now ancient Gâthas, &c.
 
-[^1470]: 354:5 Compare gaêth<i>a</i>u vîsp<i>a</i>u y<i>a</i>u vohû thrao<i>s</i>tâ mananghâ.
+[^1456]: 354:5 Compare gaêth<i>a</i>u vîsp<i>a</i>u y<i>a</i>u vohû thrao<i>s</i>tâ mananghâ.
 
-[^1471]: 354:6 Or, ‘may we be more zealous than any who are in the creation of the bounteous spirit.’
+[^1457]: 354:6 Or, ‘may we be more zealous than any who are in the creation of the bounteous spirit.’
 
-[^1472]: 355:1 Referring to manipulations.
+[^1458]: 355:1 Referring to manipulations.
 
-[^1473]: 355:2 This fragment follows Y. XXX in the Vendîdâd Sâdah, and was written in allusion to Y. XXVIII, Y. XXIX, and Y. XXX.
+[^1459]: 355:2 This fragment follows Y. XXX in the Vendîdâd Sâdah, and was written in allusion to Y. XXVIII, Y. XXIX, and Y. XXX.
 
-[^1474]: 355:3 Referring to mãthra srevaêmâ in Yasna XXVIII, 8.
+[^1460]: 355:3 Referring to mãthra srevaêmâ in Yasna XXVIII, 8.
 
-[^1475]: 355:4 Referring to the words sava<i>k</i>â ashavabyô in Yasna XXX, 11.
+[^1461]: 355:4 Referring to the words sava<i>k</i>â ashavabyô in Yasna XXX, 11.
 
-[^1476]: 355:5 Referring to the word u<i>s</i>tâ in Yasna XXX, 11.
+[^1462]: 355:5 Referring to the word u<i>s</i>tâ in Yasna XXX, 11.
 
-[^1477]: 355:6 The three first chapters XXVIII-XXX; the text has bad grammar, or broken connection.
+[^1463]: 355:6 The three first chapters XXVIII-XXX; the text has bad grammar, or broken connection.
 
-[^1478]: 356:1 It is difficult to see how anapishûtâ can mean ‘without retrenchment,’ but the context seems to require it, and the Pahlavi translation bears evidence to it. Perhaps read anapashûtâ.
+[^1464]: 356:1 It is difficult to see how anapishûtâ can mean ‘without retrenchment,’ but the context seems to require it, and the Pahlavi translation bears evidence to it. Perhaps read anapashûtâ.
 
-[^1479]: 356:2 ‘The whole three first.’ Some suppose the three prayers to be intended (the Ahuna-vairya, the Ashem Vohû, and the YêNhê hâtãm). I think that the three chapters XXVIII-XXX are meant. As the piece follows those three chapters in the Vendîdâd Sâdah, so its expressions indicate a reference to them. This might tend to show that the Ahunavaiti was at one time, if not originally, divided at this place.
+[^1465]: 356:2 ‘The whole three first.’ Some suppose the three prayers to be intended (the Ahuna-vairya, the Ashem Vohû, and the YêNhê hâtãm). I think that the three chapters XXVIII-XXX are meant. As the piece follows those three chapters in the Vendîdâd Sâdah, so its expressions indicate a reference to them. This might tend to show that the Ahunavaiti was at one time, if not originally, divided at this place.
 
-[^1480]: 356:3 This fragment was written in evident allusion to the entire Ahunavaiti, which it follows in the Vendîdâd Sâdah. It expresses the veneration acquired by the first Gâtha long after its composition.
+[^1466]: 356:3 This fragment was written in evident allusion to the entire Ahunavaiti, which it follows in the Vendîdâd Sâdah. It expresses the veneration acquired by the first Gâtha long after its composition.
 
-[^1481]: 356:4 From the Vendîdâd Sâdah.
+[^1467]: 356:4 From the Vendîdâd Sâdah.
 
-[^1482]: 356:5 Frâyaze<i>n</i>tãm may be a metaplasm; otherwise ‘of the sacrificers.’
+[^1468]: 356:5 Frâyaze<i>n</i>tãm may be a metaplasm; otherwise ‘of the sacrificers.’
 
-[^1483]: 357:1 Dãmi with K4. Possibly in their own house (dãmi = dani).
+[^1469]: 357:1 Dãmi with K4. Possibly in their own house (dãmi = dani).
 
-[^1487]: 357:2 These words probably allude severally, say, to dãm in Y. XXXI, 7, <i>k</i>ithrâ in Y. XXXI, 22, zaoshê in Y. XXXIII, 2, 10, âyaptâ in Y. XXVIII, 8, to zarzd<i>a</i>u in Y. XXXI, 1.
+[^1470]: 357:2 These words probably allude severally, say, to dãm in Y. XXXI, 7, <i>k</i>ithrâ in Y. XXXI, 22, zaoshê in Y. XXXIII, 2, 10, âyaptâ in Y. XXVIII, 8, to zarzd<i>a</i>u in Y. XXXI, 1.
 
-[^1488]: 357:3 Erroneous.
+[^1471]: 357:3 Erroneous.
 
-[^1489]: 357:4 This piece is a later composed prelude to the Haptanghâiti, which it precedes in the Vendîdâd Sâdah.
+[^1472]: 357:4 This piece is a later composed prelude to the Haptanghâiti, which it precedes in the Vendîdâd Sâdah.
 
-[^1490]: 357:5 Sursum corda!
+[^1473]: 357:5 Sursum corda!
 
-[^1491]: 357:6 Comp. gavôi verezyâtãm, Y. XLVIII, 5.
+[^1474]: 357:6 Comp. gavôi verezyâtãm, Y. XLVIII, 5.
 
-[^1492]: 357:7 ‘Place the needy with those without need.’
+[^1475]: 357:7 ‘Place the needy with those without need.’
 
-[^1493]: 358:1 Possibly mãzdâtaê<i>k</i>a.
+[^1476]: 358:1 Possibly mãzdâtaê<i>k</i>a.
 
-[^1494]: 358:2 This piece follows the Haptanghâiti in the Vendîdâd Sâdah; it was intended as a sequel to it.
+[^1477]: 358:2 This piece follows the Haptanghâiti in the Vendîdâd Sâdah; it was intended as a sequel to it.
 
-[^1495]: 358:3 Having the power to propagate its worship, maintaining it unextinguished. De Harlez makes the admirable suggestion, ‘bright as flame’; but the Pahlavi renders tokhmak.
+[^1478]: 358:3 Having the power to propagate its worship, maintaining it unextinguished. De Harlez makes the admirable suggestion, ‘bright as flame’; but the Pahlavi renders tokhmak.
 
-[^1496]: 359:1 Comp. Y. LI, 22.
+[^1479]: 359:1 Comp. Y. LI, 22.
 
-[^1497]: 359:2 Anghu<i>s</i><i>k</i>a ratu<i>s</i><i>k</i>a here referred to the same person; comp. ahû.
+[^1480]: 359:2 Anghu<i>s</i><i>k</i>a ratu<i>s</i><i>k</i>a here referred to the same person; comp. ahû.
 
-[^1498]: 359:3 An addition to chapter XVI.
+[^1481]: 359:3 An addition to chapter XVI.
 
-[^1499]: 359:4 This piece having reference to various expressions in the Gâtha U<i>s</i>tavaiti, follows it in the Vendîdâd Sâdah.
+[^1482]: 359:4 This piece having reference to various expressions in the Gâtha U<i>s</i>tavaiti, follows it in the Vendîdâd Sâdah.
 
-[^1500]: 359:5 Referring to u<i>s</i>ta in Y. XLIII, 1.
+[^1483]: 359:5 Referring to u<i>s</i>ta in Y. XLIII, 1.
 
-[^1501]: 359:6 See Y. XLV, 7.
+[^1484]: 359:6 See Y. XLV, 7.
 
-[^1502]: 359:7 Akaranem = the eternal thing; otherwise an adjective of two terminations; or, finally, read -ãm.
+[^1485]: 359:7 Akaranem = the eternal thing; otherwise an adjective of two terminations; or, finally, read -ãm.
 
-[^1503]: 360:1 The word spe<i>n</i>ta throughout alludes to the Gâtha Spe<i>n</i>tâ-mainyu, but it is of course not without grammatical application.
+[^1486]: 360:1 The word spe<i>n</i>ta throughout alludes to the Gâtha Spe<i>n</i>tâ-mainyu, but it is of course not without grammatical application.
 
-[^1504]: 360:2 In the Bundahi<i>s</i> especially referred to Ahura.
+[^1487]: 360:2 In the Bundahi<i>s</i> especially referred to Ahura.
 
-[^1505]: 360:3 Or, ‘together with the bountiful creatures we worship the holy creatures.’
+[^1488]: 360:3 Or, ‘together with the bountiful creatures we worship the holy creatures.’
 
-[^1506]: 360:4 This expression may have been accidentally determined by the position of the word manô in the Ahuna-vairya formula; see Y: XIX, 12.
+[^1489]: 360:4 This expression may have been accidentally determined by the position of the word manô in the Ahuna-vairya formula; see Y: XIX, 12.
 
-[^1507]: 360:5 Or, ‘the well-fulfilled.’
+[^1490]: 360:5 Or, ‘the well-fulfilled.’
 
-[^1508]: 360:6 ‘Fire-made’ is unintelligible; ‘fire gifts-having’ may refer to the flocks and herds, as expressing the source of that prosperity which is represented by the holy Fire.
+[^1491]: 360:6 ‘Fire-made’ is unintelligible; ‘fire gifts-having’ may refer to the flocks and herds, as expressing the source of that prosperity which is represented by the holy Fire.
 
-[^1509]: 361:1 Pahl. fravaft sû<i>d</i>.
+[^1492]: 361:1 Pahl. fravaft sû<i>d</i>.
 
-[^1510]: 361:2 Dâthra with K4.
+[^1493]: 361:2 Dâthra with K4.
 
-[^1511]: 361:3 This piece from the later Avesta follows Y. LI, in the Vendîdâd Sâdah.
+[^1494]: 361:3 This piece from the later Avesta follows Y. LI, in the Vendîdâd Sâdah.
 
-[^1512]: 361:4 From the Vendîdâd Sâdah.
+[^1495]: 361:4 From the Vendîdâd Sâdah.
 
-[^1513]: 361:5 Associated with this Gâtha from Y. LI, 9.
+[^1496]: 361:5 Associated with this Gâtha from Y. LI, 9.
 
-[^1514]: 361:6 Compare Y. LI, 3.
+[^1497]: 361:6 Compare Y. LI, 3.
 
-[^1515]: 361:7 Y. LI, 9; also perhaps Y. LIII, 8, 9.
+[^1498]: 361:7 Y. LI, 9; also perhaps Y. LIII, 8, 9.
 
-[^1516]: 361:8 Between; that is, described in the space between the Vohu-khshathra and the Vahi<i>s</i>tôi<i>s</i>ti, i.e. in Y. LII. See hamist<i>e</i>ê in Y. LII, 4, and paiti<i>s</i>tât<i>e</i>ê in Visp. XX, 2.
+[^1499]: 361:8 Between; that is, described in the space between the Vohu-khshathra and the Vahi<i>s</i>tôi<i>s</i>ti, i.e. in Y. LII. See hamist<i>e</i>ê in Y. LII, 4, and paiti<i>s</i>tât<i>e</i>ê in Visp. XX, 2.
 
-[^1517]: 361:9 This would seem misplaced; perhaps Y. XLII is meant, which follows the Haptanghâiti.
+[^1500]: 361:9 This would seem misplaced; perhaps Y. XLII is meant, which follows the Haptanghâiti.
 
-[^1518]: 363:1 The parties are divided by knowledge and ignorance (compare the Gnosis). See Y. XXXI, 12
+[^1501]: 363:1 The parties are divided by knowledge and ignorance (compare the Gnosis). See Y. XXXI, 12
 
-[^1519]: 363:2 Not in thought, word, or deed may we reach (his) priority in progress
+[^1502]: 363:2 Not in thought, word, or deed may we reach (his) priority in progress
 
-[^1520]: 363:3 This piece from the later Avesta follows Y. LIII, in the Vendîdâd Sâdah, and has reference to its expressions.
+[^1503]: 363:3 This piece from the later Avesta follows Y. LIII, in the Vendîdâd Sâdah, and has reference to its expressions.
 
-[^1521]: 363:4 It is an important suggestion which holds vahi<i>s</i>tem as equal to ‘saying vahi<i>s</i>tem,’ in allusion to the Vahi<i>s</i>ta î<i>s</i>ti<i>s</i>; but as the word is inflected further on (see vahi<i>s</i>tahê), and as it moreover once applies to Asha, as Asha Vahi<i>s</i>ta, it is better to render it as having adjective application throughout, being none the less, of course, an intentional echo of the first word of Y. LIII, 1.
+[^1504]: 363:4 It is an important suggestion which holds vahi<i>s</i>tem as equal to ‘saying vahi<i>s</i>tem,’ in allusion to the Vahi<i>s</i>ta î<i>s</i>ti<i>s</i>; but as the word is inflected further on (see vahi<i>s</i>tahê), and as it moreover once applies to Asha, as Asha Vahi<i>s</i>ta, it is better to render it as having adjective application throughout, being none the less, of course, an intentional echo of the first word of Y. LIII, 1.
 
-[^1522]: 363:5 Or, ‘of it.’
+[^1505]: 363:5 Or, ‘of it.’
 
-[^1523]: 364:1 Possibly ‘between them,’ meaning the Gâthas which are so placed.
+[^1506]: 364:1 Possibly ‘between them,’ meaning the Gâthas which are so placed.

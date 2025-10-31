@@ -140,56 +140,56 @@ Y sacrificamos al hombre santo más prolífico en buenos pensamientos, palabras 
 
 ## Notas al pie
 
-[^1562]: 379:1 El término Gâh, en sí mismo, puede haber surgido de la práctica de cantar los Gâthas en diferentes momentos fijos del día.
+[^1534]: 379:1 El término Gâh, en sí mismo, puede haber surgido de la práctica de cantar los Gâthas en diferentes momentos fijos del día.
 
-[^1563]: 379:2 Debe recitarse todos los días a la hora de Hâvani.
+[^1535]: 379:2 Debe recitarse todos los días a la hora de Hâvani.
 
-[^1564]: 379:3 Tener un Ya<i>s</i>t especial.
+[^1536]: 379:3 Tener un Ya<i>s</i>t especial.
 
-[^1565]: 380:1 La oración personificada; véase Y. LIV.
+[^1537]: 380:1 La oración personificada; véase Y. LIV.
 
-[^1566]: 381:1 Se recita todos los días a la hora de Rapithwina.
+[^1538]: 381:1 Se recita todos los días a la hora de Rapithwina.
 
-[^1567]: 382:1 El Ahuna sigue.
+[^1539]: 382:1 Sigue el Ahuna.
 
-[^1568]: 382:2 Zaratustra venció al Demonio con el Ahuna-vairya.
+[^1540]: 382:2 Zaratustra venció al Demonio con el Ahuna-vairya.
 
-[^1569]: 383:1 Recitado todos los días a la hora de Uzayêirina.
+[^1541]: 383:1 Se recita todos los días a la hora de Uzayêirina.
 
-[^1570]: 383:2 El Ahuna sigue.
+[^1542]: 383:2 Sigue el Ahuna.
 
-[^1571]: 384:1 Véase Y. XLV, 7.
+[^1543]: 384:1 Véase Y. XLV, 7.
 
-[^1572]: 384:2 El YêNhê hâtãm sigue aquí.
+[^1544]: 384:2 El YêNhê hâtãm sigue aquí.
 
-[^1573]: 384:3 El Ahuna sigue.
+[^1545]: 384:3 Sigue el Ahuna.
 
-[^1574]: 384:4 Sigue el Ashem.
+[^1546]: 384:4 El Ashem sigue.
 
-[^1575]: 384:5 Recitado todos los días a la hora de Aiwisrûthrima.
+[^1547]: 384:5 Se recita todos los días a la hora de Aiwisrûthrima.
 
-[^1576]: 384:6 O, 'que fomenta la vida'.
+[^1548]: 384:6 O bien, 'que favorece la vida'.
 
-[^1577]: 384:7 El genio que preside todo lo que fomenta la felicidad.
+[^1549]: 384:7 El genio que preside todo aquello que fomenta la felicidad.
 
-[^1578]: 384:8 El genio que preside el cargo más alto de una provincia.
+[^1550]: 384:8 El genio que preside el cargo más alto en una provincia.
 
-[^1579]: 385:1 Los Gâthas y Vendîdâd; el primer verso de los Gâthas menciona el alma del ganado.
+[^1551]: 385:1 Los Gâthas y Vendîdâd; el primer verso de los Gâthas menciona el alma de la vaca.
 
-[^1580]: 385:2 'Y a Zaratustra.'
+[^1552]: 385:2 'Y a Zaratustra.'
 
-[^1581]: 386:1 Véase Yast XXII.
+[^1553]: 386:1 Véase Yas XXII.
 
-[^1582]: 386:2 Es muy probable que en esa época el Yasna se celebrara de casa en casa.
+[^1554]: 386:2 Es muy probable que el Yasna se celebrara en ese período de casa en casa.
 
-[^1583]: 386:3 ¿Médico?
+[^1555]: 386:3 ¿Médico?
 
-[^1584]: 386:4 ¿Es posible que se trate de 'favorecer los buenos pensamientos', etc.?
+[^1556]: 386:4 ¿Es posible que sea, 'favoreciendo los buenos pensamientos', etc.?
 
-[^1585]: 387:1 Se recita todos los días a la hora de Ushahina.
+[^1557]: 387:1 Se recita todos los días a la hora de Ushahina.
 
-[^1586]: 387:2 Entonces, mejor que 'real', lo cual, sin embargo, es posible.
+[^1558]: 387:2 Entonces, mejor que 'real', lo cual, sin embargo, es posible.
 
-[^1587]: 387:3 O, 'mientras perdure'.
+[^1559]: 387:3 O bien, 'mientras permanezca'.
 
-[^1588]: 388:1 El Ashem y el Ahmâi raê<i>s</i><i>k</i>a.
+[^1560]: 388:1 El Ashem y el Ahmâi raê<i>s</i><i>k</i>a.

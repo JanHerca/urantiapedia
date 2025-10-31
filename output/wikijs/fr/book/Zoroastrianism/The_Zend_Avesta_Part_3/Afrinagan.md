@@ -108,56 +108,56 @@ Nous sacrifions au Gâtha Ahunavaiti, le saint, tel qu'il règne dans l'ordre ri
 
 ## Notes de bas de page
 
-[^1525]: 367:1 L'Âfrîn pour les heures du matin de 6 à 10.
+[^1507]: 367:1 L'Âfrîn pour les heures du matin de 6 à 10. [ 
 
-[^1530]: 368:1 Le nom de la saison au moment présent, lorsque le texte est récité, doit être utilisé.
+^1508]: 368:1 Le nom de la saison au moment présent, lorsque le texte est récité, doit être utilisé.
 
-[^1531]: 368:2 Amenez, ô ces Mazdayasniens !
+[^1509]: 368:2 Amenez-les, ô ces Mazdayans ! 
 
-[^1532]: 369:1 Ou, « parce que nous offrons ».
+[^1510]: 369:1 Ou : « parce que nous offrons ». 
 
-[^1534]: 369:2 Ne pas « le rend (détecté) parmi les Mazdayasniens » ; comparer pour la forme a<i>n</i>tarê-mrûyê ; voir aussi fra-dasti et fra-perenaoiti ; le présent peut également être utilisé pour l'impératif.
+[^1511]: 369:2 Non pas « le livre (détecté) parmi les Mazdayans » ; comparer pour la forme antarê-mrûyê ; voir aussi fra-dasti et fra-perenaoiti ; le présent peut également être utilisé pour l’impératif. 
 
-[^1535]: 370:1 Peut-être « ayant une poitrine brûlée par l'épreuve », et donc « détecté » ; ou « poitrine chaude, véhémente » (?) ; comp. uras.
+[^1512]: 370:1 Peut-être « ayant la poitrine brûlée par l’épreuve », et donc « détecté » ; ou « à la poitrine brûlante, véhément » (?) ; cf. uras. 
 
-[^1536]: 370:2 Il peut s'agir de « (sa) bête exclue » ou de « sa bête errante » (?).
+[^1513]: 370:2 Il peut s’agir de « (sa) bête exclue », ou de « sa bête égarée » (?). 
 
-[^1537]: 370:3 Ou, peut-être, « il est rejeté lorsqu'il se présente comme arrivé des colonies » (?).
+[^1514]: 370:3 Ou peut-être « il est rejeté lorsqu'il s'offre en sacrifice comme s'il venait des colonies » (?). 
 
-[^1538]: 370:4 'Sans reculer.'
+[^1515]: 370:4 « Sans reculer. » 
 
-[^1539]: 370:5 Syazdayôi<i>t</i>.
+[^1516]: 370:5 Syazdayôi<i>t</i>. 
 
-[^1540]: 371:1 Inamical et faux ; '\*avratyá.'
+[^1517]: 371:1 Inamical et infidèle ; « \*avratyá ». 
 
-[^1541]: 371:2 Rappelez-vous le zazen du sravah.
+[^1518]: 371:2 Rappelez-vous yôi zazen<i>n</i>tê vanghâu sravahî. 
 
-[^1542]: 372:1 Voir Y. XXXV, 2. L'Ahuna suit.
+[^119]: 372:1 Voir Y. XXXV, 2. L'Ahuna suit. 
 
-[^1545]: 372:2 Le nom varie selon la saison à laquelle le sacrifice est fait.
+[^1520]: 372:2 Le nom varie selon la saison où le sacrifice est effectué. 
 
-[^1546]: 372:3 Comme dans 18.
+[^1521]: 372:3 Comme en 18. 
 
-[^1548]: 372:4 Récité durant les jours appelés d'après les Gâthas, les cinq derniers de l'année. Une longue période a dû s'écouler depuis la composition des Gâthas, car ils n'étaient probablement pas au nombre de cinq à l'origine, et pourtant ils semblent n'avoir été retenus que comme tels.
+[^1522]: 372:4 Récité pendant les jours appelés d'après les Gâthas, les cinq derniers de l'année. Une longue période a dû s'écouler depuis la composition des Gâthas, car il est probable qu'elles n'étaient pas initialement au nombre de « cinq », et pourtant, elles semblent n'avoir été conservées que comme telles. 
 
-[^1549]: 373:1 Versets 5, 6 = Â. I, 14-18 ; pour le verset 6, voir les versets 1, 2 ; voir aussi Â. I, 19.
+[^1523]: 373:1 Versets 5, 6 = Â. I, 14-18 ; pour le verset 6, voir les versets 1, 2 ; voir aussi Â. I, 19. 
 
-[^1551]: 373:2 À réciter le troisième jour (Ardibahi<i>s</i>t) du premier mois (Fravardin).
+[^1524]: 373:2 À réciter le troisième jour (Ardibahist) du premier mois (Fravardin). 
 
-[^1552]: 373:3 Un génie qui a fait progresser le bétail.
+[^1525]: 373:3 Un génie qui a favorisé l'élevage. 
 
-[^1553]: 373:4 Le génie du Zantu, présidant ce Gâh Rapithvin.
+[^1526]: 373:4 Le génie du Za<i>n</i>tu, présidant à ce Gâh Rapithvin. 
 
-[^1556]: 374:1 Erroné.
+[^1527]: 374:1 Erroné. 
 
-[^1555]: 374:2 Ahmâi; voir Y. XLIII, 10 avec ehmâ.
+[^1528]: 374:2 Ahmâi ; voir Y. XLIII, 10 avec ehmâ. 
 
-[^1557]: 374:3 Insérer « esprit ».
+[^1529]: 374:3 Insérer « esprit ». 
 
-[^1558]: 374:4 Ou, 'à'.
+[^1530]: 374:4 Ou, « à ». [ 
 
-[^1559]: 374:5 Saoshyati<i>k</i>a ; ou saoshya<i>n</i>ti peut-il être un absolu locatif, préservant une forme plus complète ?
+^1531]: 374:5 Saoshyati<i>k</i>a ; ou saoshya<i>n</i>ti peut-il être un locatif absolu, conservant une forme plus complète ? 
 
-[^1560]: 374:6 Ou, « le fait entrer dans une joie utile » (?).
+[^1532]: 374:6 Ou, « le fait entrer dans une joie utile » (?). 
 
-[^1561]: 375:1 Ou, 'à'.
+[^1533]: 375:1 Ou, « à ».

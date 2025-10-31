@@ -138,56 +138,56 @@ Et nous sacrifions au saint homme le plus avancé en bonnes pensées, en paroles
 
 ## Notes de bas de page
 
-[^1562]: 379:1 Le terme Gâh lui-même peut provenir de la pratique de chanter les Gâthas à différents moments fixes de la journée.
+[^1534]: 379:1 Le terme Gâh lui-même peut provenir de la pratique consistant à chanter les Gâthas à différents moments fixes de la journée.
 
-[^1563]: 379:2 A réciter chaque jour au moment de Hâvani.
+[^1535]: 379:2 À réciter chaque jour à l'heure de Hâvani.
 
-[^1564]: 379:3 Avoir un Ya<i>s</i>t spécial.
+[^1536]: 379:3 Avoir un Ya<i>s</i>t spécial.
 
-[^1565]: 380:1 La prière personnifiée ; voir Y. LIV.
+[^1537] : 380 : 1 La prière personnifiée ; voir Y. LIV.
 
-[^1566]: 381:1 Récité chaque jour à l'heure de Rapithwina.
+[^1538]: 381:1 Récité chaque jour à l'heure de Rapithwina.
 
-[^1567]: 382:1 L'Ahuna suit.
+[^1539]: 382:1 L'Ahuna suit.
 
-[^1568]: 382:2 Zarathustra a vaincu le Démon avec l'Ahuna-vairya.
+[^1540]: 382:2 Zarathoustra a vaincu le Démon avec l'Ahuna-vairya.
 
-[^1569]: 383:1 Récité chaque jour à l'heure d'Uzayêirina.
+[^1541]: 383:1 Récité chaque jour à l'heure d'Uzayêirina.
 
-[^1570]: 383:2 L'Ahuna suit.
+[^1542] : 383:2 L'Ahuna suit.
 
-[^1571]: 384:1 Voir Y. XLV, 7.
+[^1543]: 384:1 Voir Y. XLV, 7.
 
-[^1572]: 384:2 Le YêNhê hâtãm suit ici.
+[^1544]: 384:2 Le YêNhê hâtãm suit ici.
 
-[^1573]: 384:3 L'Ahuna suit.
+[^1545] : 384:3 L'Ahuna suit.
 
-[^1574]: 384:4 L'Ashem suit.
+[^1546]: 384:4 L'Ashem suit.
 
-[^1575]: 384:5 Récité chaque jour à l'heure d'Aiwisrûthrima.
+[^1547] : 384:5 Récité chaque jour à l'heure d'Aiwisrûthrima.
 
-[^1576]: 384:6 Ou, « qui favorise la vie ».
+[^1548] : 384:6 Ou encore, « qui favorise la vie ».
 
-[^1577]: 384:7 Le génie qui préside à tout ce qui favorise le bonheur.
+[^1549]: 384:7 Le génie qui préside à tout ce qui favorise le bonheur.
 
-[^1578]: 384:8 Le génie qui préside à la plus haute fonction d'une province.
+[^1550]: 384:8 Le génie qui préside à la plus haute fonction d'une province.
 
-[^1579]: 385:1 Les Gâthas et Vendîdâd ; le premier verset des Gâthas mentionne l'âme du Veau.
+[^1551] : 385:1 Les Gâthas et Vendîdâd ; le premier verset des Gâthas mentionne l'âme du Kine.
 
-[^1580]: 385:2 'Et à Zarathoustra.'
+[^1552]: 385:2 'Et à Zarathoustra.'
 
-[^1581]: 386:1 Voir Ya<i>s</i>t XXII.
+[^1553]: 386:1 Voir Ya<i>s</i>t XXII.
 
-[^1582]: 386:2 Il est très probable que le Yasna était à cette époque célébré de maison en maison.
+[^1554]: 386:2 Il est très probable que le Yasna était célébré à cette époque de maison en maison.
 
-[^1583]: 386:3 Médical ?
+[^1555] : 386:3 Médical ?
 
-[^1584]: 386:4 Est-ce possible, « favoriser les bonnes pensées », etc. ?
+[^1556]: 386:4 Est-ce possiblement « favorisant les bonnes pensées », etc. ?
 
-[^1585]: 387:1 Récité chaque jour à l'heure d'Ushahina.
+[^1557]: 387:1 Récité chaque jour à l'heure d'Ushahina.
 
-[^1586]: 387:2 Donc, mieux que « royal », ce qui est cependant possible.
+[^1558]: 387:2 Donc, mieux que « royal », ce qui est toutefois possible.
 
-[^1587]: 387:3 Ou, « tant qu'il demeure ».
+[^1559]: 387:3 Ou, « tant qu'il subsiste ».
 
-[^1588]: 388:1 L'Ashem et l'Ahmâi raê<i>s</i><i>k</i>a.
+[^1560]: 388:1 Les Ashem et les Ahmâi raê<i>s</i><i>k</i>a.

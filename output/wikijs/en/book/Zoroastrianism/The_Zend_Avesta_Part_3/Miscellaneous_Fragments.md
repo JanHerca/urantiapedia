@@ -114,42 +114,42 @@ Propitiation be to the created body of the Kine of blessed endowment, and to the
 
 ## Footnotes
 
-[^1589]: 389:1 Others ‘the unrestricted words.’
+[^1561]: 389:1 Others ‘the unrestricted words.’
 
-[^1590]: 389:2 Perhaps ‘Zarathu<i>s</i>tra’ is here merely the equivalent of priest.
+[^1562]: 389:2 Perhaps ‘Zarathu<i>s</i>tra’ is here merely the equivalent of priest.
 
-[^1592]: 389:3 Obscure.
+[^1563]: 389:3 Obscure.
 
-[^1593]: 389:4 Awkward formations.
+[^1564]: 389:4 Awkward formations.
 
-[^1594]: 390:1 Ashaêta= â + shaêta used subjunctively.
+[^1565]: 390:1 Ashaêta= â + shaêta used subjunctively.
 
-[^1595]: 390:2 Insert ‘of the evil faith.’
+[^1566]: 390:2 Insert ‘of the evil faith.’
 
-[^1596]: 390:3 In Y. IX, 14, 15, it is the Ahuna-vairya which drives the Daêvas beneath the earth.
+[^1567]: 390:3 In Y. IX, 14, 15, it is the Ahuna-vairya which drives the Daêvas beneath the earth.
 
-[^1597]: 391:1 According to the Bundahi<i>s</i>, the name of a lake.
+[^1568]: 391:1 According to the Bundahi<i>s</i>, the name of a lake.
 
-[^1598]: 391:2 This fragment was spoken when the milk was drawn from the cow, or cows, for the offering, and when the water was received with which the udder of the cow was to be washed. (Sp. transl. vol. iii, p. 254.)
+[^1569]: 391:2 This fragment was spoken when the milk was drawn from the cow, or cows, for the offering, and when the water was received with which the udder of the cow was to be washed. (Sp. transl. vol. iii, p. 254.)
 
-[^1601]: 391:3 These words are in Persian introduced as rubric.
+[^1570]: 391:3 These words are in Persian introduced as rubric.
 
-[^1602]: 392:1 This was to be spoken when the vessel containing the Zaothras was taken in hand (Sp.).
+[^1571]: 392:1 This was to be spoken when the vessel containing the Zaothras was taken in hand (Sp.).
 
-[^1603]: 392:2 This fragment is very much broken in its connections, and most corrupt in its grammatical forms. The translation is entirely conjectural. Section IX has also irregularities.
+[^1572]: 392:2 This fragment is very much broken in its connections, and most corrupt in its grammatical forms. The translation is entirely conjectural. Section IX has also irregularities.
 
-[^1604]: 392:3 Some form of dva may be conjectured.
+[^1573]: 392:3 Some form of dva may be conjectured.
 
-[^1605]: 392:4 ‘With her weapon.’
+[^1574]: 392:4 ‘With her weapon.’
 
-[^1606]: 393:1 Khshathra<i>k</i>a?
+[^1575]: 393:1 Khshathra<i>k</i>a?
 
-[^1607]: 393:2 See Y. XXX, 10.
+[^1576]: 393:2 See Y. XXX, 10.
 
-[^1608]: 393:3 So I conjecture as the commencing words of some piece.
+[^1577]: 393:3 So I conjecture as the commencing words of some piece.
 
-[^1609]: 393:4 ‘For healing.’
+[^1578]: 393:4 ‘For healing.’
 
-[^1610]: 393:5 Y. L, 11.
+[^1579]: 393:5 Y. L, 11.
 
-[^1611]: 393:6 Last line of the Ahuna.
+[^1580]: 393:6 Last line of the Ahuna.

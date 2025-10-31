@@ -368,250 +368,250 @@ También sacrificamos por ese deseo supremo, que es el de Asha Vahi<i>s</i>sta, 
 
 ## Notas al pie
 
-[^1394]: 335:1 Este Visparad consiste en adiciones a varias porciones del Yasna; y sus diversos capítulos generalmente siguen las porciones correspondientes del Yasna en la Vendîdâd Sâdah. La palabra Visparad significa «todos los jefes», refiriéndose a los «señores del ritual». El capítulo I debe leerse inmediatamente después del Yasna I, 9.
+[^1383]: 335:1 Este Visparad consiste en añadidos a varias partes del Yasna; y sus diversos capítulos generalmente siguen las partes correspondientes del Yasna en el Vendîdâd Sâdah. La palabra Visparad significa 'todos los jefes', refiriéndose a los 'señores del ritual'. El capítulo I debe leerse inmediatamente después del Yasna I, 9. 
 
-[^1395]: 335:2 O bien, 'yo invito'.
+[^1384]: 335:2 O bien, 'Invito'. 
 
-[^1397]: 335:3 Los señores, porque gobiernan como objetos principales de atención durante su mención en el curso del sacrificio, también, como en este caso, los genios que custodian a toda su clase.
+[^1385]: 335:3 Señores porque gobernaban como principales objetos de atención durante su mención en el curso del sacrificio, también,como en este caso, genios que velan por toda su clase. 
 
-[^1398]: 335:4 Así De Harlez, siguiendo admirablemente el Pahl. sardîk (sic).
+[^1386]: 335:4 Así De Harlez, siguiendo admirablemente el Pahl. sardîk (sic). 
 
-[^1399]: 335:5 Pavan yazi<i>s</i>n kar<i>d</i>arîh.
+[^1387]: 335:5 Pavan yazisn kardarîh. 
 
-[^1400]: 336:1 <i>A</i>unghairyô, un colectivo, o zîzanen, un participio.
+[^1388]: 336:1 Aunghairyô, un colectivo, o zîzanen, un participio.
 
-[^1401]: 336:2 Aquí hay una alabanza a una parte del Yasna mismo, aunque aún no recitada en el VS
+[^1389]: 336:2 Aquí hay alabanza a una parte del Yasna mismo, aunque aún no se recita en el VS. 
 
-[^1402]: 336:3 Su palabra principal es yazamaidê, es 'el bien sacrificado', palabra que aparece a menudo.
+[^1390]: 336:3 Su palabra principal es yazamaidê, que significa 'el bien sacrificado', palabra que aparece con frecuencia. 
 
-[^1403]: 336:4 O, 'a aquel que está consagrado al Ahuna, con su Ahû y Ratu (?).'
+[^1391]: 336:4 O bien, 'a aquel que es devoto del Ahuna, con su Ahû y Ratu (?)'. 
 
-[^1404]: 336:5 Observe la prioridad del Haptanghâiti; debe leerse primero.
+[^1392]: 336:5 Obsérvese la prioridad del Haptanghâiti; debe leerse primero. 
 
-[^1405]: 336:6 Interpolado.
+[^1393]: 336:6 Interpolado. 
 
-[^1406]: 337:1 Este sentido es el más obvio.
+[^1394]: 337:1 Este sentido es el más obvio. 
 
-[^1407]: 337:2 El 'golpear al demonio' ​​es el significado común de v<i>ri</i>trahâ´; pero verethra es claramente 'victoria' en Zend; v<i>ri</i>trâ´ también equivale a valor defensivo.
+[^1395]: 337:2 El 'golpear al demonio' ​​es el significado común de v<i>ri</i>trahâ´; pero verethra es claramente «victoria» en Zend; vritrâ´ también equivale a valor defensivo. 
 
-[^1408]: 337:3 ¿Puede dahmahê<i>k</i>a significar aquí 'el santo difunto'?
+[^1396]: 337:3 ¿Puede dahmahêkâ significar «el santo difunto» aquí? 
 
-[^1409]: 337:4 Una parte perdida del Avesta, de la que sólo sobreviven dos fragmentos.
+[^1397]: 337:4 Una parte perdida del Avesta, de la cual solo sobreviven dos fragmentos. [ 
 
-[^1410]: 338:1 Comp. Y. XXIX, 2. Y. I, 10-23 sigue.
+^1398]: 338:1 Compárese con Y. XXIX, 2. Y. I, 10-23. 
 
-[^1411]: 338:2 Visparad II debe leerse después de Yasna II, 8, del que es una extensión.
+[^1399]: 338:2 Visparad II debe leerse después de Yasna II, 8, del cual es una extensión. 
 
-[^1412]: 339:1 Ciertamente no es imposible que se quisiera decir la idea de 'invocar la aproximación de Ahura', pero 'acercarse a él' es más natural.
+[^1400]: 339:1 Ciertamente no es imposible que se refiriera a la idea de «invocar la llegada de Ahura», pero «acercarse a él» es más natural. 
 
-[^1413]: 339:2 Ahûm<i>k</i>a ratûm<i>k</i>a, aplicado a la misma persona, cuyo uso surge de una traducción errónea del Ahuna-vairya; véase Y. XIX, 12.
+[^1401]: 339:2 Ahûm<i>k</i>a ratûm<i>k</i>a, aplicado a la misma persona, uso que surge de una traducción errónea del Ahuna-vairya; véase Y. XIX, 12. 
 
-[^1414]: 339:3 Yô, con K7b, K11, daretem, forma pasiva; o, 'quien ha mantenido la Mãthra'. Sin embargo, el texto debe estar desordenado.
+[^1402]: 339:3 Yô, con K7b, K11, daretem, forma pasiva; o, 'quien (tiene) la Mãthra sostenida'. El texto debe, sin embargo, estar desordenado. 
 
-[^1415]: 339:4 En el Ashem Vohû.
+[^1403]: 339:4 En el Ashem Vohû. 
 
-[^1416]: 340:1 Así lo hicieron los Pahlavi.
+[^1404]: 340:1 Así el Pahlavi. 
 
-[^1417]: 340:2 Pazand erróneo.
+[^1405]: 340:2 Pâzand erróneo. 
 
-[^1418]: 340:3 Esta frase respalda mi interpretación de âyêsê, como expresión de un deseo de acercarse, en lugar de la aproximación del Genio de la Montaña; al mismo tiempo, esta última idea podría ser la correcta. (Las expresiones están abreviadas).
+[^1406]: 340:3 Esta frase apoya mi interpretación de âyêsê, como expresión de un deseo de acercarse, más que de la llegada del (Genio de) la Montaña; al mismo tiempo, esta última idea bien podría ser la correcta. (Las expresiones se han abreviado). 
 
-[^1419]: 341:1 Y. II, 10 sigue a Visparad II, 11.
+[^1407]: 341:1 Y. II, 10 sigue a Visparad II, 11. 
 
-[^1420]: 341:2 Este capítulo 1-5 sigue a Y. XI, 1-8 en la Vendîdâd Sâdah; así que, apropiadamente.
+[^1408]: 341:2 Este capítulo 1-5 sigue a Y. XI, 1-8 en el Vendîdâd Sâdah; por lo tanto, apropiadamente. 
 
-[^1421]: 341:3 El Ratu responde por todos según la rúbrica impresa por Westergaard, pero de origen posterior al texto. Surgió del hecho de que los diversos cargos se unificaron posteriormente en el del Ratu. Originalmente, el funcionario correspondiente respondía a su título. El Hâvanan era el Mobad que machacaba al Haoma en el mortero.
+[^1409]: 341:3 El Ratu responde por todos según la rúbrica impresa por Westergaard, pero de origen posterior al texto. Surgió del hecho de que los diversos cargos se unificaron posteriormente en el de Ratu. Originalmente, el funcionario correspondiente respondía por su título. El Hâvanan era el Mobad que machacaba el Haoma en el mortero. 
 
-[^1422]: 341:4 El Mobad que alimentó el Fuego.
+[^1410]: 341:4 El Mobad que alimentaba el fuego. 
 
-[^1423]: 341:5 El Mobad que ayudó en las presentaciones.
+[^1411]: 341:5 El Mobad que ayudaba en las presentaciones. 
 
-[^1424]: 341:6 El aguador.
+[^1412]: 341:6 El aguador. 
 
-[^1425]: 342:1 La lavadora.
+[^1413]: 342:1 El lavandero. 
 
-[^1426]: 342:2 El mezclador (?), o el Mobad que atendía las desinfecciones.
+[^1414]: 342:2 El mezclador (?), o el Mobad que se encargaba de las desinfecciones. 
 
-[^1427]: 342:3 El Mobad que atendió a la penitencia.
+[^1415]: 342:3 El Mobad que se encargaba de la penitencia. 
 
-[^1428]: 342:4 El laico típico.
+[^1416]: 342:4 El laico común. 
 
-[^1429]: 342:5 Esta importante costumbre fue tratada en detalle en el Nask perdido, No. 16 (o No. 18, según otro cálculo).
+[^1417]: 342:5 Esta importante costumbre se trató en detalle en el Nask perdido, n.º 16 (o n.º 18, según otra versión).
 
-[^1430]: 342:6 Así que lo máximo, pero ratukhshathra significa en otro lugar 'gobernando en el ritual como supremo'.
+[^1418]: 342:6 Así que la mayoría, pero ratukhshathra significa en otro lugar 'que gobierna en el ritual como supremo'. 
 
-[^1431]: 343:1 Esta sección sigue a Y. XI, 9-15 en el VS, precediendo a una sección descrita como Y. XI, 59, 60, en el BVS
+[^1419]: 343:1 Esta sección sigue a Y. XI, 9-15 en el VS, precediendo a una sección descrita como Y. XI, 59, 60, en el BVS. 
 
-[^1433]: 343:2 Probablemente en sentido imperativo, o, según algunos, infinitivo.
+[^1420]: 343:2 Probablemente en sentido imperativo, o, con algunos, en infinitivo. 
 
-[^1434]: 343:3 Lea Zaotasti, que contiene sandhi. Parece una glosa para explicar el Âthraom (sic). Es zaotâ asti.
+[^1421]: 343:3 Léase Zaotasti, que contiene sandhi. Parece una glosa para explicar el Âthraom (sic). Es zaotâ asti. 
 
-[^1435]: 343:4 Esta sección, que precede a Y. XI, cerrada en el BVS, me parece que pertenece propiamente después de Yasna VIII y la ofrenda de Myazda con el Ratufrîti.
+[^1422]: 343:4 Esta sección, que precede a Y. XI, cerrada en el BVS, me parece que en la página 344 pertenece propiamente después de Yasna VIII, y la ofrenda de Myazda con el Ratufrîti. 
 
-[^1436]: 344:1 Pazand.
+[^1423]: 344:1 Pâzand. 
 
-[^1437]: 344:2 Esta pieza debe leerse después de Yasna XIV, con la que es casi idéntica. El lenguaje de la traducción se modifica ligeramente para atenuar la similitud.
+[^1424]: 344:2 Este fragmento debe leerse después del Yasna XIV, con el que es prácticamente idéntico. La traducción presenta ligeras variaciones para evitar la sensación de monotonía. 
 
-[^1438]: 345:1 Casi idéntico a Yasna XV.
+[^1425]: 345:1 Prácticamente idéntico al Yasna XV. 
 
-[^1439]: 345:2 Este capítulo debe leerse después de Yasna XVII, al que sigue apropiadamente en la Vendîdâd Sâdah.
+[^1426]: 345:2 Este capítulo debe leerse después del Yasna XVII, al que sigue apropiadamente en el Vendîdâd Sâdah. 
 
-[^1440]: 345:3 Posiblemente 'el mejor curso de ese mejor mundo'.
+[^1427]: 345:3 Posiblemente «el mejor curso de ese mundo ideal». 
 
-[^1441]: 346:1 Se podría considerar, 'poder viril que tiene a los hombres y héroes en la mente de antemano'; pero vareti = gûrdîh.
+[^1428]: 346:1 Podría considerarse «el poder viril que tiene en mente a hombres y héroes de antemano»; pero vareti = gûrdîh. 
 
-[^1442]: 346:2 Âsyay<i>a</i>u (sic) y takhmôtã<i>s</i>yay<i>a</i>u (sic) concuerdan con lo femenino; posiblemente debido a las cualidades masculinas a las que se refieren. Podría decirse que están en aposición en lugar de concordar con lo femenino.
+[^1429]: 346:2 Âsyay<i>a</i>u (sic) y takhmôtã<i>s</i>yay<i>a</i>u (sic) concuerdan con los femeninos; posiblemente debido a las cualidades masculinas a las que se refieren. Podría decirse que están en aposición más que en concordancia con lo femenino. 
 
-[^1443]: 346:3 El sueño es en otros lugares un mal; un demonio, Bûshyãsta, lo gobierna; pero éste es un sueño prematuro; véase, por otro lado, Y. XLIV, 5.
+[^1430]: 346:3 El sueño es en otros pasajes un mal; un demonio, Bûshyãsta, lo gobierna; pero este es un sueño intempestivo; véase, por otro lado, Y. XLIV, 5. 
 
-[^1444]: 347:1 'Mediado' (?), o 'conocido', madhayangha (-uha).
+[^1431]: 347:1 'Mediado' (?), o 'conocido', madhayangha (-uha). 
 
-[^1445]: 347:2 Véase Y. XXXV, 5.
+[^1432]: 347:2 Véase Y. XXXV, 5. 
 
-[^1446]: 347:3 Esta sección debe leerse antes de Y. XXII.
+[^1433]: 347:3 Esta sección debe leerse antes que Y. XXII. 
 
-[^1447]: 347:4 Suministrado necesariamente desde Visp. X, 2; ver su genitivo.
+[^1434]: 347:4 Suministrado necesariamente de Visp. X, 2; véase su genitivo. 
 
-[^1449]: 347:5 O, 'ciencias' (en algunos casos médicas).
+[^1435]: 347:5 O bien, 'ciencias' (en algunos casos médicas). 
 
-[^1450]: 348:1 Tener un Ya<i>s</i>t.
+[^1436]: 348:1 Que tiene un Yas. 
 
-[^1451]: 348:2 Aquí hay un ejemplo en el que <i>h</i><i>v</i>âthra puede significar 'consuelo'.
+[^1437]: 348:2 Aquí hay un caso donde <i>h</i><i>v</i>âthra puede significar 'consuelo'. 
 
-[^1452]: 349:1 Quizás 'los Ya<i>s</i>ts en el Yasna', de lo contrario la última porción del Yasna.
+[^1438]: 349:1 Quizás 'los Yas en el Yasna', o bien la última parte del Yasna. 
 
-[^1453]: 349:2 Esta sección sigue a Y. XXII.
+[^1439]: 349:2 Esta sección sigue a Y. XXII. 
 
-[^1454]: 349:3 La varesa consiste (tal como se usa actualmente) en tres, cinco o siete pelos de la cola de un toro blanco, atados a una anilla de oro, plata, cobre o latón. Puede usarse mientras viva el toro, pero cada vez que se use, debe ser reconsagrada. (Haug.)
+[^1440]: 349:3 La varesa consiste (tal como se usa actualmente) en tres, cinco o siete pelos de la cola de un toro blanco, atados a un anillo de oro, plata, cobre o latón. Se puede usar mientras viva el toro, pero debe volver a consagrarse cada vez que se usa. (Haug.) 
 
-[^1455]: 349:4 La redacción se varía deliberadamente en las traducciones para evitar la uniformidad.
+[^1441]: 349:4 La redacción varía deliberadamente en las traducciones para evitar la monotonía. 
 
-[^1456]: 350:1 Al alma de la persona que esté recitando.
+[^1442]: 350:1 Al alma de quien recite. 
 
-[^1457]: 350:2 Zâiri con K4.
+[^1443]: 350:2 Zâiri con K4.
 
-[^1458]: 351:1 Aquí, erróneamente, un nombre propio como en Yas XIII. Posiblemente de aquel mundo (período) zarista que amaba la rectitud; la palabra aparece después del nombre de Z. Creo que «y» debería ser «v».
+[^1444]: 351:1 Aquí, erróneamente, un nombre propio como en Yasit XIII. Posiblemente del mundo (período) zaratustriano que amaba la rectitud; la palabra aparece después del nombre de Z. Creo que la 'y' debería ser 'v'. 
 
-[^1459]: 352:1 Vohu Manah sin duda aparece como el más destacado aquí. Surgió del «buen pensamiento» de Ahura.
+[^1445]: 352:1 Vohu Manah ciertamente parece el más prominente aquí. Surgieron del 'buen pensamiento' de Ahura. 
 
-[^1460]: 352:2 Este oficio era celebrado en casas privadas por sacerdotes itinerantes.
+[^1446]: 352:2 Este oficio era celebrado en casas particulares por sacerdotes itinerantes. 
 
-[^1461]: 352:3 YêNhê aêm podría ser una cita de alguna oración perdida. Sin embargo, el singular aêm puede tomarse colectivamente, ya que se habla de familias.
+[^1447]: 352:3 YêNhê aêm podría ser una cita de alguna oración perdida. El singular aêm puede, sin embargo, tomarse colectivamente, ya que se habla de familias. 
 
-[^1462]: 353:1 Âvista probablemente = Avesta; compárese con el Veda. Las leyes morales y ceremoniales.
+[^1448]: 353:1 Âvista probablemente = Avesta; comparar con Veda. Las leyes morales y ceremoniales. 
 
-[^1463]: 353:2 Avestico.
+[^1449]: 353:2 Avestico. 
 
-[^1464]: 353:3 Sigue a Y. XXVII.
+[^1450]: 353:3 Sigue a Y. XXVII. 
 
-[^1465]: 353:4 Hâ parece tener una cierta fuerza conjuntiva como sa en la composición, 'Y a ello la buena Sraosha'; ¿o es una interjección?
+[^1451]: 353:4 Hâ parece tener cierta fuerza conjuntiva como sa en la composición, 'Y a ello el buen Sraosha'; ¿o es una interjección? 
 
-[^1466]: 354:1 Recordemos el h<i>e</i><i>k</i>â de Y. XLVI, I.
+[^1452]: 354:1 Recuérdese h<i>e</i><i>k</i>â de Y. XLVI, I. 
 
-[^1467]: 354:2 Con santidad puntillosa.
+[^1453]: 354:2 Con puntillosa santidad. 
 
-[^1468]: 354:3 Los sacerdotes parsis en la actualidad hacen manipulaciones apropiadas aquí.
+[^1454]: 354:3 Los sacerdotes parsis actuales realizan manipulaciones apropiadas aquí. 
 
-[^1469]: 354:4 En los ahora antiguos Gâthas, etc.
+[^1455]: 354:4 En los ahora antiguos Gâthas, etc. 
 
-[^1470]: 354:5 Compárese gaêth<i>a</i>u vîsp<i>a</i>u y<i>a</i>u vohû thrao<i>s</i>tâ mananghâ.
+[^1456]: 354:5 Comparar con gaêthau vîspau yau vohû thraostâ mananghâ. 
 
-[^1471]: 354:6 O bien, 'que seamos más celosos que cualquiera de los que están en la creación del espíritu generoso'.
+[^1457]: 354:6 O bien, «que seamos más celosos que cualquiera que participe en la creación del espíritu generoso». 
 
-[^1472]: 355:1 Refiriéndose a manipulaciones.
+[^1458]: 355:1 En referencia a manipulaciones. 
 
-[^1473]: 355:2 Este fragmento sigue a Y. XXX en la Vendîdâd Sâdah, y fue escrito en alusión a Y. XXVIII, Y. XXIX y Y. XXX.
+[^1459]: 355:2 Este fragmento sigue a Y. XXX en el Vendîdâd Sâdah, y fue escrito en alusión a Y. XXVIII, Y. XXIX y Y. XXX. 
 
-[^1474]: 355:3 Refiriéndose a mãthra srevaêmâ en Yasna XXVIII, 8.
+[^1460]: 355:3 Se refiere a mãthra srevaêmâ en Yasna XXVIII, 8. 
 
-[^1475]: 355:4 Refiriéndose a las palabras sava<i>k</i>â ashavabyô en Yasna XXX, 11.
+[^1461]: 355:4 Se refiere a las palabras sava<i>k</i>â ashavabyô en Yasna XXX, 11. 
 
-[^1476]: 355:5 Refiriéndose a la palabra u<i>s</i>tâ en Yasna XXX, 11.
+[^1462]: 355:5 Se refiere a la palabra u<i>s</i>tâ en Yasna XXX, 11. 
 
-[^1477]: 355:6 Los tres primeros capítulos XXVIII-XXX; el texto tiene mala gramática o conexión rota.
+[^1463]: 355:6 Los tres primeros capítulos XXVIII-XXX; el texto presenta errores gramaticales o una conexión deficiente. 
 
-[^1478]: 356:1 Es difícil comprender cómo anapishûtâ puede significar «sin recortes», pero el contexto parece requerirlo, y la traducción pahlavi lo demuestra. Quizás debería leerse anapashûtâ.
+[^1464]: 356:1 Resulta difícil comprender cómo anapashûtâ puede significar «sin recorte», pero el contexto parece requerirlo, y la traducción al pahlavi lo evidencia. Quizás debería leerse anapashûtâ. 
 
-[^1479]: 356:2 «Los tres primeros». Algunos suponen que se refiere a las tres oraciones (Ahuna-vairya, Ashem Vohû y YêNhê hâtãm). Creo que se refiere a los tres capítulos XXVIII-XXX. Dado que el fragmento sigue a esos tres capítulos en la Vendîdâd Sâdah, sus expresiones indican una referencia a ellos. Esto podría indicar que el Ahunavaiti estuvo en algún momento, si no originalmente, dividido en este lugar.
+[^1465]: 356:2 «Los tres primeros». Algunos suponen que se refiere a las tres oraciones (el Ahuna-vairya, el Ashem Vohû y el YêNhê hâtãm). Creo que se refiere a los tres capítulos XXVIII-XXX. Como el fragmento sigue a esos tres capítulos en el Vendîdâd Sâdah, sus expresiones indican una referencia a ellos. Esto podría indicar que el Ahunavaiti estuvo dividido en algún momento, si no originalmente, en este punto. 
 
-[^1480]: 356:3 Este fragmento fue escrito en clara alusión a todo el Ahunavaiti, al que sigue en la Vendîdâd Sâdah. Expresa la veneración que adquirió el primer Gâtha mucho después de su composición.
+[^1466]: 356:3 Este fragmento fue escrito en clara alusión a todo el Ahunavaiti, al que sigue en el Vendîdâd Sâdah. Expresa la veneración que adquirió el primer Gâtha mucho después de su composición. 
 
-[^1481]: 356:4 De la Vendîdâd Sâdah.
+[^1467]: 356:4 Del Vendîdâd Sâdah.
 
-[^1482]: 356:5 Frâyaze<i>n</i>tãm puede ser un metaplasma; de lo contrario, 'de los sacrificadores'.
+[^1468]: 356:5 Frâyaze<i>n</i>tãm puede ser una metáfora; de lo contrario, 'de los sacrificadores'. 
 
-[^1483]: 357:1 Dãmi con K4. Posiblemente en su propia casa (dãmi = dani).
+[^1469]: 357:1 Dãmi con K4. Posiblemente en su propia casa (dãmi = dani). 
 
-[^1487]: 357:2 Estas palabras probablemente aluden por separado, por ejemplo, a dãm en Y. XXXI, 7, <i>k</i>ithrâ en Y. XXXI, 22, zaoshê en Y. XXXIII, 2, 10, âyaptâ en Y. XXVIII, 8, a zarzd<i>a</i>u en Y. XXXI, 1.
+[^1470]: 357:2 Estas palabras probablemente aluden por separado, por ejemplo, a dãm en Y. XXXI, 7, <i>k</i>ithrâ en Y. XXXI, 22, zaoshê en Y. XXXIII, 2, 10, âyaptâ en Y. XXVIII, 8, a zarzd<i>a</i>u en Y. XXXI, 1. 
 
-[^1488]: 357:3 Erróneo.
+[^1471]: 357:3 Erróneo. 
 
-[^1489]: 357:4 Esta pieza es un preludio compuesto posteriormente al Haptanghâiti, al que precede en el Vendîdâd Sâdah.
+[^1472]: 357:4 Esta pieza es un preludio posterior al Haptanghâiti, al que precede en el Vendîdâd Sâdah. 
 
-[^1490]: 357:5 ¡Por fin corda!
+[^1473]: 357:5 ¡Sursum corda! 
 
-[^1491]: 357:6 Comp. gavôi verezyâtãm, Y. XLVIII, 5.
+[^1474]: 357:6 Comp. gavôi verezyâtãm, Y. XLVIII, 5. 
 
-[^1492]: 357:7 'Coloca a los necesitados con los que no tienen necesidad.'
+[^1475]: 357:7 'Coloca al necesitado con los que no lo necesitan'. 
 
-[^1493]: 358:1 Posiblemente mãzdâtaê<i>k</i>a.
+[^1476]: 358:1 Posiblemente mãzdâtaê<i>k</i>a. 
 
-[^1494]: 358:2 Esta pieza sigue al Haptanghâiti en el Vendîdâd Sâdah; fue pensada como una secuela del mismo.
+[^1477]: 358:2 Esta pieza sigue al Haptanghâiti en el Vendîdâd Sâdah; fue concebida como una secuela del mismo. 
 
-[^1495]: 358:3 Tiene el poder de propagar su culto, manteniéndolo inextinguible. De Harlez hace la admirable sugerencia de «brillante como la llama»; pero el Pahlavi lo traduce como «tokhmak».
+[^1478]: 358:3 Con el poder de propagar su culto, manteniéndolo inextinguible. De Harlez hace la admirable sugerencia de «brillante como la llama»; pero el Pahlavi traduce tokhmak. 
 
-[^1496]: 359:1 Comp. Y. LI, 22.
+[^1479]: 359:1 Comp. Y. LI, 22. 
 
-[^1497]: 359:2 Anghu<i>s</i><i>k</i>a ratu<i>s</i><i>k</i>a aquí se refiere a la misma persona; comp. ahû.
+[^1480]: 359:2 Anghuska ratuska se refiere aquí a la misma persona; comp. ahû. 
 
-[^1498]: 359:3 Una adición al capítulo XVI.
+[^1481]: 359:3 Adición al capítulo XVI. 
 
-[^1499]: 359:4 Esta pieza, que hace referencia a varias expresiones del Gâtha U<i>s</i>tavaiti, la sigue en el Vendîdâd Sâdah.
+[^1482]: 359:4 Este fragmento, que hace referencia a diversas expresiones en el Gâtha Ustavaiti, lo sigue en el Vendîdâd Sâdah. 
 
-[^1500]: 359:5 Refiriéndose a u<i>s</i>ta en Y. XLIII, 1.
+[^1483]: 359:5 Se refiere a u<i>s</i>ta en Y. XLIII, 1. 
 
-[^1501]: 359:6 Véase Y. XLV, 7.
+[^1484]: 359:6 Véase Y. XLV, 7. 
 
-[^1502]: 359:7 Akaranem = lo eterno; de otro modo un adjetivo de dos terminaciones; o, finalmente, se lee -ãm.
+[^1485]: 359:7 Akaranem = la cosa eterna; de lo contrario, un adjetivo de dos terminaciones; o, finalmente, léase -ãm. 
 
-[^1503]: 360:1 La palabra spe<i>n</i>ta alude en todo momento al Gâtha Spe<i>n</i>tâ-mainyu, pero, por supuesto, tiene una aplicación gramatical.
+[^1486]: 360:1 La palabra sp<i>n</i>ta alude en todo momento al Gâtha Sp<i>n</i>tâ-mainyu, pero, por supuesto, no carece de aplicación gramatical. 
 
-[^1504]: 360:2 En los Bundahi<i>s</i> se hace referencia especialmente a Ahura.
+[^1487]: 360:2 En los Bundahi<i>s</i> se refiere especialmente a Ahura. 
 
-[^1505]: 360:3 O bien, «junto con las criaturas abundantes adoramos a las criaturas santas».
+[^1488]: 360:3 O bien, «junto con las criaturas generosas adoramos a las criaturas sagradas». 
 
-[^1506]: 360:4 Esta expresión puede haber sido determinada accidentalmente por la posición de la palabra manô en la fórmula Ahuna-vairya; ver Y: XIX, 12.
+[^1489]: 360:4 Esta expresión pudo haber sido determinada accidentalmente por la posición de la palabra manô en la fórmula Ahuna-vairya; véase Y: XIX, 12. 
 
-[^1507]: 360:5 O, 'el bien cumplido'.
+[^1490]: 360:5 O bien, «los bien realizados». 
 
-[^1508]: 360:6 'Hecho por fuego' es ininteligible; 'que tiene dones de fuego' puede referirse a los rebaños y manadas, como expresión de la fuente de esa prosperidad que está representada por el Fuego sagrado.
+[^1491]: 360:6 «Hecho de fuego» es ininteligible; «poseedor de dones de fuego» puede referirse a los rebaños y manadas, como expresión de la fuente de esa prosperidad representada por el Fuego sagrado. 
 
-[^1509]: 361:1 Pahl. fravaft sû<i>d</i>.
+[^1492]: 361:1 Pahl. fravaft sû<i>d</i>. 
 
-[^1510]: 361:2 Dâthra con K4.
+[^1493]: 361:2 Dâthra con K4. 
 
-[^1511]: 361:3 Este fragmento del Avesta tardío sigue a Y. LI, en el Vendîdâd Sâdah.
+[^1494]: 361:3 Este fragmento del Avesta tardío sigue a Y. LI, en el Vendîdâd Sâdah. 
 
-[^1512]: 361:4 De la Vendîdâd Sâdah.
+[^1495]: 361:4 Del Vendîdâd Sâdah. 
 
-[^1513]: 361:5 Asociado con este Gâtha de Y. LI, 9.
+[^1496]: 361:5 Asociado con esta Gâtha de Y. LI, 9. 
 
-[^1514]: 361:6 Comparar Y. LI, 3.
+[^1497]: 361:6 Comparar con Y. LI, 3. 
 
-[^1515]: 361:7 Y. LI, 9; también quizás Y. LIII, 8, 9.
+[^1498]: 361:7 Y. LI,9; también quizás Y. LIII, 8, 9.
 
-[^1516]: 361:8 Entre; es decir, descrito en el espacio entre el Vohu-khshathra y el Vahi<i>s</i>tôi<i>s</i>ti, es decir, en Y. LII. Véase hamist<i>e</i>ê en Y. LII, 4, y paiti<i>s</i>tât<i>e</i>ê en Visp. XX, 2.
+[^1499]: 361:8 Entre; es decir, descrito en el espacio entre el Vohu-khshathra y el Vahi<i>s</i>tôi<i>s</i>ti, o sea, en Y. LII. Véase hamist<i>e</i>ê en Y. LII, 4, y paiti<i>s</i>tât<i>e</i>ê en Visp. XX, 2. 
 
-[^1517]: 361:9 Esto parecería estar fuera de lugar; quizá se refiere a Y. XLII, que sigue al Haptanghâiti.
+[^1500]: 361:9 Esto parecería fuera de lugar; quizá se refiere a Y. XLII, que sigue al Haptanghâiti. 
 
-[^1518]: 363:1 Los partidos están divididos por el conocimiento y la ignorancia (compárese con la Gnosis). Véase Y. XXXI, 12
+[^1501]: 363:1 Las partes se dividen por conocimiento e ignorancia (compárese con la Gnosis). Véase Y. XXXI, 12 
 
-[^1519]: 363:2 No en pensamiento, palabra o acción podemos alcanzar (su) prioridad en el progreso.
+[^1502]: 363:2 Ni en pensamiento, palabra o obra podemos alcanzar (su) prioridad en el progreso 
 
-[^1520]: 363:3 Este fragmento del Avesta posterior sigue a Y. LIII, en la Vendîdâd Sâdah, y hace referencia a sus expresiones.
+[^1503]: 363:3 Este fragmento del Avesta tardío sigue a Y. LIII, en el Vendîdâd Sâdah, y hace referencia a sus expresiones. 
 
-[^1521]: 363:4 Es una sugerencia importante que sostiene vahi<i>s</i>tem como igual a 'decir vahi<i>s</i>tem', en alusión al Vahi<i>s</i>ta î<i>s</i>ti<i>s</i>; pero como la palabra se flexiona más adelante (véase vahi<i>s</i>tahê), y como además se aplica una vez a Asha, como Asha Vahi<i>s</i>ta, es mejor traducirla como si tuviera aplicación adjetiva en todo momento, siendo no obstante, por supuesto, un eco intencional de la primera palabra de Y. LIII, 1.
+[^1504]: 363:4 Es una sugerencia importante que considera vahi<i>s</i>tem como equivalente a 'decir vahi<i>s</i>tem', en alusión al Vahi<i>s</i>ta î<i>s</i>ti<i>s</i>; Pero como la palabra se flexiona más adelante (véase vahi<i>s</i>tahê), y como además se aplica una vez a Asha, como Asha Vahi<i>s</i>ta, es mejor interpretarla como adjetiva en todo el texto, siendo, por supuesto, un eco intencional de la primera palabra de Y. LIII, 1. 
 
-[^1522]: 363:5 O, 'de ella'.
+[^1505]: 363:5 O, 'de ello'. 
 
-[^1523]: 364:1 Posiblemente 'entre ellos', es decir, los Gâthas que están así colocados.
+[^1506]: 364:1 Posiblemente 'entre ellos', refiriéndose a los Gâthas que están así ubicados.
