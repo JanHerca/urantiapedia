@@ -34,8 +34,8 @@ class Book {
 				{item: 'p', index: ['span', 0], author: ['span', 2]}
 			],
 			languages: ['ar', 'bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 
-				'es-2021', 'et', 'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 
-				'pl', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh']
+				'es-2021', 'et', 'fa', 'fi', 'fr', 'hu', 'id', 'it', 'lt', 
+				'nl', 'pl', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh']
 		},
 		{
 			name: 'greek',
@@ -45,15 +45,6 @@ class Book {
 			pars: 'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['el']
-		},
-		{
-			name: 'farsi',
-			paperTitle: 'h3',
-			secs: 'h4',
-			removeTagsInSecs: true,
-			pars: 'p',
-			titlesFile: /FM_Titles.htm/,
-			languages: ['fa']
 		},
 		{
 			name: 'hebrew,japanese',
