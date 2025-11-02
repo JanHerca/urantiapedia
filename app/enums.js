@@ -32,6 +32,8 @@ exports.HTMLSeparator = {
 	UNDERLINE_END: '</span>',
 	UNDERLINE2_START: '<span class="font3">',
 	UNDERLINE2_END: '</span>',
+	UNDERLINE3_START: '<u>',
+	UNDERLINE3_END: '</u>',
 	ANCHOR_START: '<a>',
 	ANCHOR_END: '</a>'
 };

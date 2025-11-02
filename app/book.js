@@ -34,8 +34,8 @@ class Book {
 				{item: 'p', index: ['span', 0], author: ['span', 2]}
 			],
 			languages: ['ar', 'bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 
-				'es-2021', 'et', 'fa', 'fi', 'fr', 'hu', 'id', 'it', 'lt', 
-				'nl', 'pl', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh']
+				'es-2021', 'et', 'fa', 'fi', 'fr', 'hu', 'id', 'it', 'ko',
+				'lt', 'nl', 'pl', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh']
 		},
 		{
 			name: 'greek',
@@ -55,7 +55,7 @@ class Book {
 			languages: ['he', 'ja']
 		},
 		{
-			name: 'korean',
+			name: 'korean-2000',
 			paperTitle: 'h3',
 			secs: 'h4',
 			removeTagsInSecs: true,
@@ -63,7 +63,7 @@ class Book {
 			pars: 'p,div:has(h4)',
 			pars_ok: 'p',
 			titlesFile: /FM_Titles.htm/,
-			languages: ['ko']
+			languages: ['ko-2000']
 		},
 		{
 			name: 'korean-urka',
@@ -1538,6 +1538,7 @@ class Book {
 		text = replaceTags(text, HSep.SMALLCAPS_START, HSep.SMALLCAPS_END, '$', '$', errs);
 		text = replaceTags(text, HSep.UNDERLINE_START, HSep.UNDERLINE_END, '|', '|', errs);
 		text = replaceTags(text, HSep.UNDERLINE2_START, HSep.UNDERLINE2_END, '|', '|', errs);
+		text = replaceTags(text, HSep.UNDERLINE3_START, HSep.UNDERLINE3_END, '|', '|', errs);
 		text = replaceTags(text, HSep.RIGHT_START, HSep.RIGHT_END, '', '', errs);
 		text = replaceTags(text, HSep.BOLD_START, HSep.BOLD_END, '<b>', '</b>', errs);
 		text = removeHTMLTags(text, HSep.SPAN_START, HSep.SPAN_END, false, errs);
