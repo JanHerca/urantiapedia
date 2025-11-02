@@ -65,6 +65,15 @@ class Book {
 			titlesFile: /FM_Titles.htm/,
 			languages: ['ko']
 		},
+		{
+			name: 'korean-urka',
+			paperTitle: 'h1',
+			secs: 'h2',
+			sec_exception: '* * *',
+			pars:'p',
+			titlesFile: /FM_Titles.htm/,
+			languages: ['ko-urka']
+		}
 	];
 	footnotes = [];
 	audio = ['en', 'es', 'fr', 'it', 'pt', 'de'];
@@ -1268,6 +1277,7 @@ class Book {
 						footnotes: [],
 						paper_title: paperTitle
 					};
+					const is_b = [31,56,120].includes(paperIndex);
 					let i = 0, p, removeErr, text, pId, sec, pdata;
 					//Add section 0 if it exists
 					paper.sections.push({
@@ -1281,15 +1291,21 @@ class Book {
 					//Add paragraphs
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
-						//Special case of par with asterisks (docs 31,56,120,134,144,196)
+						//Special case of par with asterisks (docs 31,56,120,134,144)
+						// 31:10.21, 56:10.22, 120:3.11 (repeats, so we add 'b')
+						// 134:6.14 (do not repeats, is a common par)
+						// 144:5.11,25,38,54,73,87 (do not repeats, is a common par)
 						if ($(p).text().indexOf('* * *') != -1) {
+							const b = is_b ? 'b' : '';
+							if (!is_b) {
+								pId[2] = pId[2] + 1;
+							}
 							pdata = {
-								par_ref: `${pId[0]}:${pId[1]}.${pId[2]}b`,
-								par_pageref: `${pdata.par_pageref}b`,
+								par_ref: `${pId[0]}:${pId[1]}.${pId[2]}${b}`,
+								par_pageref: `${pdata.par_pageref}${b}`,
 								par_content: $(p).text().trim(),
 								hide_ref: true
 							};
-							pId = this.getRef(pdata.par_ref);
 							sec.pars.push(pdata);
 							continue;
 						}
@@ -1310,8 +1326,9 @@ class Book {
 							continue;
 						}
 						text = $(p).html();
-						text = text.replace(`<sup>(${pdata.par_pageref})</sup>`,'');
-						text = text.replace(`<sup>${pdata.par_ref}</sup>`, '');
+						text = text.replace(/<sup>\d+:\d+\.\d+<\/sup>/,'');
+						text = text.replace(/<sup>\(\d+.\d+\)<\/sup>/, '');
+						text = text.replace(/<sup><\/sup>/, '');
 						removeErr = [];
 						text = this.modifyTagsInHTML(text, removeErr);
 						if (removeErr.length > 0) {
@@ -1344,9 +1361,10 @@ class Book {
 
 	readAuthorsFromHTML = (dirPath) => {
 		return new Promise((resolve, reject) => {
+			const language = path.basename(dirPath).replace('book-', '');
 			fs.readdir(dirPath, (err, files) => {
 				const config = this.HTMLconfigs
-					.find(c => c.languages.indexOf(this.language) != -1);
+					.find(c => c.languages.indexOf(language) != -1);
 				if (err) {
 					reject([this.getError(this.language, 'folder_not_exists', 
 						dirPath)]);
@@ -1460,6 +1478,9 @@ class Book {
 	 */
 	getParFromHTML = ($, node, config, paperIndex) => {
 		const a = node.attribs, c = node.children;
+		const sectionTag = config.secs;
+		const titleTags = `h1,h3,${sectionTag}`;
+		const is_b = [31,56,120].includes(paperIndex);
 		let pId, sId, pindex = 0, ref, pref, n;
 		if (config.name === 'generic') {
 			if (!a || !a.id || a.id[0] != 'U' || c.length === 0 || 
@@ -1472,19 +1493,21 @@ class Book {
 			pref = extractStr(c[0].children[0].data, '(', ')');
 		} else {
 			const exc = config.sec_exception;
-			const filterFunc = (i, e) => !exc || $(e).text().indexOf(exc) === -1;
+			const filterFunc = 
+				(i, e) => !exc || !is_b || (is_b && $(e).text().indexOf(exc) === -1);
 			const filterFunc2 = (i, e)=> $(e).text().indexOf('(') != -1;
 			pindex = $(node).prevAll()
 				.filter(filterFunc)
 				.map((i,e)=> {
 					return (
-						e.name==='h4' || 
-						$(e).children().filter('h1,h3,h4').length > 0
+						titleTags.indexOf(e.name) != -1 ||
+						$(e).children().filter(titleTags).length > 0
 					);
 				})
 				.toArray()
 				.indexOf(true) + 1;
-			sId = $(node).prevAll('h4,div:has(h4)').filter(filterFunc).length;
+			sId = $(node).prevAll(`${sectionTag},div:has(${sectionTag})`)
+				.filter(filterFunc).length;
 			//Exception in document 139
 			if (paperIndex === 139 && sId >= 9) {
 				sId = sId + 1;
