@@ -73,12 +73,24 @@ class Book {
 			pars:'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['ko-urka']
+		},
+		{
+			name: 'korean-christian-minister',
+			paperTitle: 'h1',
+			secs: 'h2',
+			removeTagsInSecs: true,
+			sec_exception: '* * *',
+			pars:'p',
+			titlesFile: /FM_Titles.htm/,
+			languages: ['ko-christian-minister']
 		}
 	];
 	footnotes = [];
 	audio = ['en', 'es', 'fr', 'it', 'pt', 'de'];
 	isMaster = false;
 	year = 0;
+	copyright = Strings.foundation['en'];
+	label = '';
 
 	setLanguage = (language) => {
 		this.language = language;
@@ -90,6 +102,14 @@ class Book {
 
 	setYear = (year) => {
 		this.year = year;
+	};
+
+	setCopyright = (copyright) => {
+		this.copyright = copyright;
+	};
+
+	setLabel = (label) => {
+		this.label = label;
 	};
 
 	/**

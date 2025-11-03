@@ -325,7 +325,7 @@ const Strings = {
 		id: "2020",
 		it: "2006",
 		ja: "2015",
-		ko: "2016",
+		ko: "2025",
 		lt: "2004",
 		nl: "1997",
 		pl: "2010",
@@ -335,6 +335,50 @@ const Strings = {
 		sv: "2010",
 		tr: "2021",
 		zh: "2015"
+	},
+	"bookYears": {
+		es: [
+			{
+				name: "book-es-1993",
+				year: "1993",
+				copyright: "UF", 
+				label: "1993"
+			},
+			{
+				name: "book-es-2021",
+				year: "2021",
+				copyright: "UF",
+				label: "2021"
+			}
+		],
+		ko: [
+			{
+				name: "book-ko-2000",
+				year: "2000",
+				copyright: "UF", 
+				label: "2000"
+			}, 
+			{
+				name: "book-ko-christian-minister",
+				year: "2001",
+				copyright: "Urantia Society of Greater New York",
+				label: "2001 CM"
+			}, 
+			{
+				name: "book-ko-urka",
+				year: "2007",
+				copyright: "Urantia Society of Greater New York",
+				label: "2007 URKA"
+			}
+		],
+		ru: [
+			{
+				name: "book-ru-usgny",
+				year: "2006",
+				copyright: "Urantia Society of Greater New York",
+				label: "2006 USGNY"
+			}
+		]
 	},
 	"bookAbb": {
 		ar: "يو بي",

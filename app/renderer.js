@@ -20,9 +20,9 @@ const MapCatalog = require('./mapcatalog');
 const Processes = require('./processes');
 const Strings = require('./strings');
 const BibleAbbs = require('./abb');
-const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
-	getWikijsHeader, writeHTMLToWikijs, getError, createFolders, readFile, 
-	readFromAndExecute, writeFile, readBooksFromJSON, getFiles,
+const {strformat, replaceWords, getMostSimilarSentence, getWikijsHeader, 
+	writeHTMLToWikijs, getError, readFile, readFromAndExecute, writeFile, 
+	getDataOfBookVersions, readBooksFromJSON, getFiles,
 	fixMarkdownFootnotes} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
@@ -521,39 +521,7 @@ const updateDefaultPaths = () => {
 	});
 };
 
-const getPathsOfBookVersions = (jsonDir) => {
-	if (lan === 'en') {
-		return Promise.reject([new Error('English language cannot be used')]);
-	}
-	return new Promise((resolve, reject) => {
-		fs.readdir(jsonDir, { withFileTypes: true }, (err, files) => {
-			if (err) {
-				reject([new Error('Error reading folder ' + jsonDir)]);
-				return;
-			}
-			const regEx = new RegExp(`book-(en|${lan})-.+`);
-			const folders = files
-				.filter(dirent => {
-					return (dirent.isDirectory() && 
-						dirent.name.match(regEx) != null);
-				})
-				.map(dirent => {
-					const vals = dirent.name.split('-');
-					let year = parseInt(vals[2]);
-					year = (dirent.name === 'book-en-footnotes' ?
-						Strings.bookMasterYear.en : isNaN(year) ? 
-						Strings.bookMasterYear[lan] : year);
-					return {name: dirent.name, year: year};
-				})
-				.sort((a, b) => {
-					//Sort from left (older) to right (newer)
-					return (a.year - b.year);
-				})
-				.map(obj => path.join(jsonDir, obj.name));
-			resolve(folders);
-		});
-	});
-};
+
 
 const handle_collapseButtonClick = () => {
 	collapsed = !collapsed;
@@ -772,8 +740,8 @@ const handle_exeButtonClick = () => {
 			.then(() => topicindexEN.updateTopicNames(topicindexEN))
 			.then(() => topicindex.updateRefsForSearching(book))
 			.then(() => topicindexEN.updateRefsForSearching(book))
-			.then(() => getPathsOfBookVersions(jsonDir))
-			.then((folders) => readBooksFromJSON(folders, lan))
+			.then(() => getDataOfBookVersions(jsonDir))
+			.then((data) => readBooksFromJSON(data, lan))
 			.then(books => {
 				//Checks
 				const master = books.find(b => b.isMaster);
@@ -840,8 +808,8 @@ const handle_exeButtonClick = () => {
 		// Writes Indexes (*.html)
 		const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
 		book.readFromJSON(masterDir)
-			.then(() => getPathsOfBookVersions(jsonDir))
-			.then((folders) => readBooksFromJSON(folders, lan))
+			.then(() => getDataOfBookVersions(jsonDir))
+			.then((data) => readBooksFromJSON(data, lan))
 			.then(books => {
 				//Checks
 				const master = books.find(b => b.isMaster);

@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
+const Book = require('./book');
 
 /**
  * Formats a string using '{x}' pattern where x in a number 0..n.
@@ -446,30 +447,88 @@ exports.readFilePairs = (filePathEN, filePathOther, language, clearFn,
 };
 
 /**
+ * Returns a promise with an array of data with books in JSON sorted by year.
+ * @param {string} jsonDir Directory with JSON folders.
+ * @param {string} lan Language.
+ * @return {Promise} An object with name of folder, path, year, copyright and
+ * a label.
+ */
+exports.getDataOfBookVersions = (jsonDir, lan) => {
+	if (lan === 'en') {
+		return Promise.reject([new Error('English language cannot be used')]);
+	}
+	return new Promise((resolve, reject) => {
+		fs.readdir(jsonDir, { withFileTypes: true }, (err, files) => {
+			if (err) {
+				reject([new Error('Error reading folder ' + jsonDir)]);
+				return;
+			}
+			const regEx = new RegExp(`book-(en|${lan})-.+`);
+			const folders = files
+				.filter(dirent => {
+					return (dirent.isDirectory() && 
+						dirent.name.match(regEx) != null);
+				})
+				.map(dirent => {
+					const data = {
+						name: dirent.name,
+						path: path.join(jsonDir, dirent.name),
+						year: Strings.bookMasterYear.en,
+						copyright: Strings.foundation[lan],
+						label: Strings.bookMasterYear.en
+					};
+					if (dirent.name === 'book-en-footnotes') {
+						return data;
+					} else if (dirent.name === `book-${lan}-footnotes`) {
+						data.year = Strings.bookMasterYear[lan];
+						data.label = Strings.bookMasterYear[lan];
+						return data;
+					} else {
+						const byear = Strings.bookYears
+							.find(by => by.name === dirent.name);
+						return byear 
+							? {
+								...byear,
+								copyright: byear.copyright === "UF"
+									? Strings.foundation[lan]
+									: byear.copyright
+							} 
+							: data;
+					}
+				})
+				.sort((a, b) => {
+					//Sort from left (older) to right (newer)
+					return (a.year - b.year);
+				});
+			resolve(folders);
+		});
+	});
+};
+
+/**
  * Read several books in JSON. First book must be in English, the others one or 
  * several translations in a given language.
- * @param {string[]} folders Paths to folders with JSON files.
+ * @param {Object[]} data Data of folders with JSON files.
  * @param {string} language The language of books from second on.
  * @returns {Promise} Promise that returns an array of Book for resolve function
  * or an array of errors for reject function.
  */
-exports.readBooksFromJSON = (folders, language) => {
-	const books = folders.map((f, i) => {
+exports.readBooksFromJSON = (data, language) => {
+	const books = data.map((f, i) => {
+		const { path, year, copyright, label } = f;
 		const folderLan = (i === 0 ? 'en' : language);
 		const folderBook = new Book();
 		folderBook.setLanguage(folderLan);
+		folderBook.setYear(year);
+		folderBook.setCopyright(copyright);
+		folderBook.setLabel(label);
 		if (f.endsWith(`book-${language}-footnotes`)) {
 			folderBook.setAsMaster();
-			folderBook.setYear(Strings.bookMasterYear[language]);
-		} else if (f.endsWith('book-en-footnotes')) {
-			folderBook.setYear(Strings.bookMasterYear.en);
-		} else {
-			folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
 		}
 		return folderBook;
 	});
 	const promises = books.map((b, i) => {
-		return b.readFromJSON(folders[i]);
+		return b.readFromJSON(data[i].path);
 	});
 	return Promise.all(promises).then(() => {
 		return books;
