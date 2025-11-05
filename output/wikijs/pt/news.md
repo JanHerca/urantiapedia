@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2025
 
+- [Notícias de outubro de 2025](/pt/news/2025/10)
 - [Notícias de setembro de 2025](/pt/news/2025/09)
 - [Notícias de agosto de 2025](/pt/news/2025/08)
 - [Notícias de julho de 2025](/pt/news/2025/07)
@@ -26,7 +27,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 - [Notícias de dezembro de 2024](/pt/news/2024/12)
 - [Notícias de novembro de 2024](/pt/news/2024/11)
-- [Notícias de octubro de 2024](/pt/news/2024/10)
+- [Notícias de outubro de 2024](/pt/news/2024/10)
 - [Notícias de setembro de 2024](/pt/news/2024/09)
 - [Notícias de agosto de 2024](/pt/news/2024/08)
 - [Notícias de julho de 2024](/pt/news/2024/07)
