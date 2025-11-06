@@ -22,8 +22,7 @@ const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, replaceWords, getMostSimilarSentence, getWikijsHeader, 
 	writeHTMLToWikijs, getError, readFile, readFromAndExecute, writeFile, 
-	getDataOfBookVersions, readBooksFromJSON, getFiles,
-	fixMarkdownFootnotes} = require('./utils');
+	getDataOfBookVersions, getFiles, fixMarkdownFootnotes} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -521,7 +520,35 @@ const updateDefaultPaths = () => {
 	});
 };
 
-
+/**
+ * Read several books in JSON. First book must be in English, the others one or 
+ * several translations in a given language.
+ * @param {Object[]} data Data of folders with JSON files.
+ * @param {string} language The language of books from second on.
+ * @returns {Promise} Promise that returns an array of Book for resolve function
+ * or an array of errors for reject function.
+ */
+const readBooksFromJSON = (data, language) => {
+	const books = data.map((f, i) => {
+		const { year, copyright, label } = f;
+		const folderLan = (i === 0 ? 'en' : language);
+		const folderBook = new Book();
+		folderBook.setLanguage(folderLan);
+		folderBook.setYear(year);
+		folderBook.setCopyright(copyright);
+		folderBook.setLabel(label);
+		if (f.name === `book-${language}-footnotes`) {
+			folderBook.setAsMaster();
+		}
+		return folderBook;
+	});
+	const promises = books.map((b, i) => {
+		return b.readFromJSON(data[i].path);
+	});
+	return Promise.all(promises).then(() => {
+		return books;
+	});
+};
 
 const handle_collapseButtonClick = () => {
 	collapsed = !collapsed;
@@ -740,7 +767,7 @@ const handle_exeButtonClick = () => {
 			.then(() => topicindexEN.updateTopicNames(topicindexEN))
 			.then(() => topicindex.updateRefsForSearching(book))
 			.then(() => topicindexEN.updateRefsForSearching(book))
-			.then(() => getDataOfBookVersions(jsonDir))
+			.then(() => getDataOfBookVersions(jsonDir, lan))
 			.then((data) => readBooksFromJSON(data, lan))
 			.then(books => {
 				//Checks

@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
-const Book = require('./book');
 
 /**
  * Formats a string using '{x}' pattern where x in a number 0..n.
@@ -484,10 +483,13 @@ exports.getDataOfBookVersions = (jsonDir, lan) => {
 						data.label = Strings.bookMasterYear[lan];
 						return data;
 					} else {
-						const byear = Strings.bookYears
-							.find(by => by.name === dirent.name);
+						const byear = Strings.bookYears[lan]
+							? Strings.bookYears[lan]
+								.find(by => by.name === dirent.name)
+							: null;
 						return byear 
 							? {
+								...data,
 								...byear,
 								copyright: byear.copyright === "UF"
 									? Strings.foundation[lan]
@@ -502,36 +504,6 @@ exports.getDataOfBookVersions = (jsonDir, lan) => {
 				});
 			resolve(folders);
 		});
-	});
-};
-
-/**
- * Read several books in JSON. First book must be in English, the others one or 
- * several translations in a given language.
- * @param {Object[]} data Data of folders with JSON files.
- * @param {string} language The language of books from second on.
- * @returns {Promise} Promise that returns an array of Book for resolve function
- * or an array of errors for reject function.
- */
-exports.readBooksFromJSON = (data, language) => {
-	const books = data.map((f, i) => {
-		const { path, year, copyright, label } = f;
-		const folderLan = (i === 0 ? 'en' : language);
-		const folderBook = new Book();
-		folderBook.setLanguage(folderLan);
-		folderBook.setYear(year);
-		folderBook.setCopyright(copyright);
-		folderBook.setLabel(label);
-		if (f.endsWith(`book-${language}-footnotes`)) {
-			folderBook.setAsMaster();
-		}
-		return folderBook;
-	});
-	const promises = books.map((b, i) => {
-		return b.readFromJSON(data[i].path);
-	});
-	return Promise.all(promises).then(() => {
-		return books;
 	});
 };
 
@@ -808,10 +780,11 @@ exports.getWikijsNavLinks = (options) => {
 /**
  * Gets the HTML fragment in Wiki.js for the copyright of the Urantia Book.
  * @param {number[]} years The array of years of each translation.
+ * @param {string[]} copyrights The array of copyrights of each translation.
  * @param {string} language Language code.
  * @returns {string}
  */
-exports.getWikijsBookCopyright = (years, language) => {
+exports.getWikijsBookCopyright = (years, copyrights, language) => {
 	const multi = years.length > 1;
 	const masterYear = Strings.bookMasterYear[language];
 	const foundation = Strings.foundation[language];
@@ -819,9 +792,23 @@ exports.getWikijsBookCopyright = (years, language) => {
 	const translations = Strings.translations[language];
 	let html = '<p class="v-card v-sheet theme--light grey lighten-3 px-2 mb-4">';
 	if (multi) {
-		const strYears = years.slice(1).join(', ');
-		html += `${freedomain}. <br>` +
-			`${translations} © ${strYears} ${foundation}`;
+		const ys = years.slice(1);
+		const copys = copyrights.slice(1);
+		const copysYears = [];
+		copys.forEach((c, i) => {
+			const copyYears = copysYears.find(cy=>cy[0] === c);
+			if (copyYears) {
+				copyYears[1].push(ys[i]);
+			} else {
+				copysYears.push([c, [ys[i]]]);
+			}
+		});
+		html += `${freedomain}.`;
+		copysYears.forEach(cy => {
+			const y = cy[1].join(', ');
+			const c = cy[0] === 'UF' ? foundation : cy[0];
+			html += `<br>${translations} © ${y} ${c}`
+		});
 	} else {
 		html += (language === 'en' ? freedomain : `© ${masterYear} ${foundation}`);
 	}
@@ -832,14 +819,14 @@ exports.getWikijsBookCopyright = (years, language) => {
 /**
  * Gets the HTML fragment in Wiki.js for the top buttons that switch the
  * visibility of translations in a multi-version mode.
- * @param {number[]} years The array of years of each translation.
+ * @param {string[]} labels The array of labels of each translation.
  * @param {string} language Language code.
+ * @param {string[]} colors List of colors to use for each button. Max to 7.
  * @returns {string}
  */
-exports.getWikijsBookButtons = (years, language) => {
-	const colors = ['blue', 'purple', 'teal', 'deep-orange'];
+exports.getWikijsBookButtons = (labels, language, colors) => {
 	let html = '<div class="d-sm-flex mt-2">\r\n';
-	html += years.map((year, i) => {
+	html += labels.map((label, i) => {
 		const lname = (i === 0 ? Strings.enLanguage[language] :
 			Strings.ownLanguage[language]);
 		return (
@@ -848,7 +835,7 @@ exports.getWikijsBookButtons = (years, language) => {
 				` class="v-btn title white--text ${colors[i]} rounded-lg ` +
 				`py-1 px-2 d-flex align-center">\r\n` +
 			`      <i class="mdi mdi-radiobox-marked pr-2"></i>` +
-				`<span>${lname} ${year}</span>\r\n` +
+				`<span>${lname} ${label}</span>\r\n` +
 			'    </a>\r\n' +
 			'  </div>\r\n'
 		);
@@ -932,18 +919,18 @@ exports.getWikijsBookSectionTitles = (papers, section_index) => {
  * @param {string} ref The reference of the 
  * @param {string} language Language code.
  * @param {?string} color Optional color.
- * @param {?number} year Optional year.
+ * @param {?string} label Optional label.
  * @param {?boolean} hide_ref Optional, if hide reference.
  * @returns {string}
  */
-exports.getWikijsBookParRef = (multi, ref, language, color, year, hide_ref) => {
+exports.getWikijsBookParRef = (multi, ref, language, color, label, hide_ref) => {
 	color = color || 'blue';
-	year = (year != null ? year : 1955);
+	label = (label != null ? label : '1955');
 	hide_ref = hide_ref || false;
 	let html = '';
 	if (multi) {
 		html += `<sup class="white--text ${color} rounded px-1">` +
-			`<small>${year}</small></sup>   `;
+			`<small>${label}</small></sup>   `;
 	}
 	const vals = ref.replace(/[:.]/g,"|").split('|');
 	const suffix = (multi && language != 'en' ? '_Multiple' : '');

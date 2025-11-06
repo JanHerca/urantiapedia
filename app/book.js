@@ -91,6 +91,8 @@ class Book {
 	year = 0;
 	copyright = Strings.foundation['en'];
 	label = '';
+	colors = ['blue', 'purple', 'teal', 'deep-orange', 'indigo',
+		'pink', 'blue-grey']; //Colors for up to 7 columns max
 
 	setLanguage = (language) => {
 		this.language = language;
@@ -1673,6 +1675,8 @@ class Book {
 					const p2 = b.papers.find(p1 => p1.paper_index === index);
 					p2.isMaster = b.isMaster;
 					p2.year = b.year;
+					p2.copyright = b.copyright;
+					p2.label = b.label;
 					return p2;
 				});
 				const filePath = path.join(dirPath, `${index}.html`);
@@ -1716,18 +1720,24 @@ class Book {
 		imageCatalog, mapCatalog, paralells, articles) => {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
-			const years = (multi ? papers.map(p=>p.year) : 
-				[this.tr('bookMasterYear')]);
-			const topicIndexes = (multi ? papers.map((p, i) => {
-				return (i === 0 ? topicIndexEN : topicIndex);
-			}) : [topicIndex]);
-			const masterIndex = (multi ? 
-				papers.findIndex(pp => pp.isMaster) : -1);
-			const paper = (multi ? papers[masterIndex] : papers);
+			const years = multi 
+				? papers.map(p=>p.year)
+				: [this.tr('bookMasterYear')];
+			const copyrights = multi
+				? papers.map(p=>p.copyright)
+				: ["UF"];
+			const topicIndexes = multi 
+				? papers.map((p, i) => (i === 0 ? topicIndexEN : topicIndex)) 
+				: [topicIndex];
+			const masterIndex = multi 
+				? papers.findIndex(pp => pp.isMaster) 
+				: -1;
+			const paper = multi 
+				? papers[masterIndex] 
+				: papers;
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
-			const colors = ['blue', 'purple', 'teal', 'deep-orange'];
 			let error = null;
 
 			//Get all footnotes: Bible (paramony), books (paralells), articles
@@ -1794,12 +1804,13 @@ class Book {
 			header += getWikijsHeader(title, ['the urantia book—papers']);
 			header += '\r\n';
 			//Write copyright
-			body += getWikijsBookCopyright(years, this.language);
+			body += getWikijsBookCopyright(years, copyrights, this.language);
 			//Write top links
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 			//Write top buttons
 			if (multi) {
-				body += getWikijsBookButtons(papers.map(p=>p.year), this.language);
+				body += getWikijsBookButtons(papers.map(p=>p.label), 
+					this.language, this.colors);
 			}
 			//Write audio controls (only in single-mode)
 			if (!multi) {
@@ -1857,8 +1868,8 @@ class Book {
 							multi, 
 							p.par_ref, 
 							this.language, 
-							colors[ppi], 
-							(multi ? papers[ppi].year : null),
+							this.colors[ppi], 
+							(multi ? papers[ppi].label : null),
 							p.hide_ref
 						);
 						//Replacements (avoiding special pars with asterisks)
@@ -2248,11 +2259,13 @@ class Book {
 					parts_titles: tparts,
 					parts_descs: dparts,
 					year: book.year,
+					label: book.label,
 					papers: tpapers,
 					isMaster: isMaster
 				};
 			});
 			const years = data.map(d => d.year);
+			const labels = data.map(d => d.label);
 			const filePath1 = path.join(dirPath, 'Index.html');
 			const filePath2 = path.join(dirPath, 'Index_Extended.html');
 			const title1 = `${this.tr('bookName', lan)} — ${this.tr('bookIndexName', lan)}`;
@@ -2284,7 +2297,7 @@ class Book {
 			}
 			//Write top buttons
 			if (multi) {
-				const buttons = getWikijsBookButtons(years, lan);
+				const buttons = getWikijsBookButtons(labels, lan, this.colors);
 				body1 += buttons;
 				body2 += buttons;
 			}

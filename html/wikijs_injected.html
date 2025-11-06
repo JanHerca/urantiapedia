@@ -4,7 +4,8 @@
 window.addEventListener('load', function(event) {
   const keyBtn = 'urantiapedia-button-';
   const keyCol = 'urantiapedia-column-';
-  let visibility = [true, true, true, true];
+  const clsFull = 'urantiapedia-full-width';
+  let visibility = Array(7).fill(true);
   const upcontents = document.querySelector('.contents');
   const multiVersion = (upcontents && document.querySelector(`#${keyBtn}1`));
   let latest = null;
@@ -36,13 +37,14 @@ window.addEventListener('load', function(event) {
     return "";
   };
 
+  const isOnlyOne = () => (visibility.filter(v=> v == true).length === 1);
+
   function setVisible(index, visible) {
     const nodes = document.querySelectorAll(`.contents div.${keyCol}${index + 1}`);
     const hidden = !visible;
     nodes.forEach(n => n.classList.toggle('d-none', hidden));
-    const onlyOne = (visibility.filter(v=> v == true).length === 1);
     if (upcontents) {
-      upcontents.classList.toggle('urantiapedia-full-width', !onlyOne);
+      upcontents.classList.toggle(clsFull, !isOnlyOne());
     }
     const icon = document.querySelector(`#${keyBtn}${index + 1} i`);
     if (icon) {
@@ -53,17 +55,23 @@ window.addEventListener('load', function(event) {
 
   if (multiVersion) {
     try {
-      upcontents.classList.add('urantiapedia-full-width');
+      upcontents.classList.add(clsFull);
 
       const cookie = getCookie('visibility');
-      if (cookie && cookie.split(',').length === 4) {
-        visibility = cookie.split(',').map(v => v == 'false' ? false : true);
-        if (visibility.indexOf(true) === -1) visibility = [true, true, true, true];
+      if (cookie && cookie.split(',').length > 0) {
+        visibility = cookie
+          .split(',')
+          .map(v => v == 'false' ? false : true)
+          .concat(Array(7).fill(true))
+          .slice(0,7);
+        if (visibility.indexOf(true) === -1) {
+          visibility = Array(7).fill(true);
+        }
         visibility.forEach((visible, n) => setVisible(n, visible));
       }
     } catch (er) {}
 
-    [1,2,3,4].forEach(n => {
+    [1,2,3,4,5,6,7].forEach(n => {
       const btn = document.querySelector(`#${keyBtn}${n}`);
       if (!btn) return;
       btn.addEventListener('click', (evt) => {
@@ -75,8 +83,7 @@ window.addEventListener('load', function(event) {
           const index = parseInt(target.id.split('-')[2]);
           if (isNaN(index)) return;
           const nodes = document.querySelectorAll(`.contents div.${keyCol}${index}`);
-          const onlyOne = (visibility.filter(v=> v == true).length === 1);
-          if (visibility[index - 1] && onlyOne) return;
+          if (visibility[index - 1] && isOnlyOne()) return;
           visibility[index - 1] = !visibility[index - 1];
           setVisible(index - 1, visibility[index - 1]);
           writeCookie('visibility', visibility.join(','));
