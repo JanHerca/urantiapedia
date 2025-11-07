@@ -83,6 +83,15 @@ class Book {
 			pars:'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['ko-christian-minister']
+		},
+		{
+			name: 'russian-usgny',
+			paperTitle: 'h1',
+			secs: 'h2',
+			sec_exception: '* * *',
+			pars:'p',
+			titlesFile: /FM_Titles.htm/,
+			languages: ['ru-usgny']
 		}
 	];
 	footnotes = [];
