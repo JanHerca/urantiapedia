@@ -349,6 +349,12 @@ const Strings = {
 				year: "2021",
 				copyright: "UF",
 				label: "2021"
+			},
+			{
+				name: "book-es-afse",
+				year: "2021",
+				copyright: "Ángel Francisco Sánchez Escobar",
+				label: "2021 AFSE"
 			}
 		],
 		ko: [
