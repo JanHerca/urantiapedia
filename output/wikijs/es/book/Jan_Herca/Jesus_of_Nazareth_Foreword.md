@@ -28,4 +28,6 @@ En esta novela descubrirás un punto de vista nuevo y conciliador entre todas la
 
 Y ya sin más, espero que esta breve introducción haya desatado la mayor de tus curiosidades. Pero recuerda, querido lector, que esto que vas a leer no es _la verdad_, es algo que busca y persigue la verdad, y como todo en este mundo, está sujeto al error y a la indudable mejora. Que tus lecturas te lleven por esos senderos de Galilea en pos de la fuente de la verdad tanto como me han llevado a mí, y me llevarán.
 
+Jan Herca
+
 [Volver a la página inicial](/es/book/Jan_Herca/Jesus_of_Nazareth)

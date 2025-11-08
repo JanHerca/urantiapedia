@@ -32,7 +32,7 @@ IMPRESO POR<br>
 HAZELL, WATSON Y VINEY, LD.,
 LONDRES Y AYLESBURY,<br>
 INGLATERRA.<br>
-Escaneado, corregido y formateado en sacred-texts.com, abril de 2010, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.
+Escaneado, corregido y formateado en sacred-texts.com, abril de 2010, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br>
 <br>
 </p>
 

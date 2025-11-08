@@ -8,7 +8,37 @@ editor: markdown
 dateCreated: 2025-10-10T14:41:36Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-zoroaster"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">E.W. West (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880-1905</text>		<text style="font-size:9px" x="61" y="60">Textos Pahlavi</text>		<text style="font-size:9px" x="61" y="70">Parte III</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">TEXTOS PAHLAVI</span><br>PARTE III<br><span class="text-h3">DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i></span><br><span class="text-h3"><i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR</span><br><span class="text-h3">SAD DAR</span><br>TRADUCIDO POR<br><span class="text-h5">E.W. WEST</span><br>Libros Sagrados de Oriente, Vol. 24<br>Clarendon: Oxford University Press<br>[1885]<br>AVISO DE ATRIBUCIÓN<br>Escaneado en sacred-texts.com, mayo de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en Estados Unidos porque se publicó antes de 1923. Estos archivos pueden usarse para cualquier fin no comercial, siempre que se conserve intacta la mención de atribución en todas las copias.<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-zoroaster">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">E.W. West (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1880-1905</text>
+		<text style="font-size:9px" x="61" y="60">Textos Pahlavi</text>
+		<text style="font-size:9px" x="61" y="70">Parte III</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">TEXTOS PAHLAVI</span><br>
+PARTE III<br>
+<span class="text-h3">DÎNÂ-Î MAÎNÔG-Î KHIRA<i>D</i></span><br>
+<span class="text-h3"><i>S</i>IKAND-GÛMÂNÎK VI<i>G</i>ÂR</span><br>
+<span class="text-h3">SAD DAR</span><br>
+TRADUCIDO POR<br>
+<span class="text-h5">E.W. WEST</span><br>
+Libros Sagrados de Oriente, Vol. 24<br>
+Clarendon: Oxford University Press<br>
+[1885]<br>
+AVISO DE ATRIBUCIÓN<br>
+Escaneado en sacred-texts.com, mayo de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en Estados Unidos porque se publicó antes de 1923. Estos archivos pueden usarse para cualquier fin no comercial, siempre que se conserve intacta la mención de atribución en todas las copias.<br>
+</p>
+
+<br>
+
+
 ## Índice
 
 - Introducción

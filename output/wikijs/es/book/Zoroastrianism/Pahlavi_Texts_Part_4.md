@@ -8,7 +8,35 @@ editor: markdown
 dateCreated: 2025-10-10T14:41:43Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-zoroaster"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">E.W. West (tr.)</text>		<text style="font-size:4px" x="61" y="125">1880-1905</text>		<text style="font-size:9px" x="61" y="60">Textos Pahlavi</text>		<text style="font-size:9px" x="61" y="70">Parte IV</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">TEXTOS PAHLAVI</span><br>PARTE IV<br><span class="text-h3">CONTENIDO DE LOS NASKS</span><br>TRADUCIDO POR<br><span class="text-h5">E.W. WEST</span><br>Libros Sagrados de Oriente, Vol. 37<br>Clarendon: Oxford University Press<br>[1892]<br>AVISO DE ATRIBUCIÓN<br>Escaneado en sacred-texts.com, junio de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en Estados Unidos porque se publicó antes del 1 de enero de 1923. Estos archivos pueden usarse para cualquier fin no comercial, siempre que se conserve intacta la mención de atribución en todas las copias.<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-zoroaster">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">E.W. West (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1880-1905</text>
+		<text style="font-size:9px" x="61" y="60">Textos Pahlavi</text>
+		<text style="font-size:9px" x="61" y="70">Parte IV</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">TEXTOS PAHLAVI</span><br>
+PARTE IV<br>
+<span class="text-h3">CONTENIDO DE LOS NASKS</span><br>
+TRADUCIDO POR<br>
+<span class="text-h5">E.W. WEST</span><br>
+Libros Sagrados de Oriente, Vol. 37<br>
+Clarendon: Oxford University Press<br>
+[1892]<br>
+AVISO DE ATRIBUCIÓN<br>
+Escaneado en sacred-texts.com, junio de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en Estados Unidos porque se publicó antes del 1 de enero de 1923. Estos archivos pueden usarse para cualquier fin no comercial, siempre que se conserve intacta la mención de atribución en todas las copias.<br>
+</p>
+
+<br>
+
+
 ## Índice
 
 - [Introducción](/es/book/Zoroastrianism/Pahlavi_Texts_Part_4/Introduction)
