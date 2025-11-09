@@ -357,6 +357,14 @@ const Strings = {
 				label: "2021 AFSE"
 			}
 		],
+		fr: [
+			{
+				name: "book-fr-weiss",
+				year: "1961",
+				copyright: "La cosmogonie d'Urantia, Jacques Weiss",
+				label: "1961 WEISS"
+			}
+		],
 		ko: [
 			{
 				name: "book-ko-2000",

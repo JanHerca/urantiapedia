@@ -38,6 +38,14 @@ class Book {
 				'lt', 'nl', 'pl', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh']
 		},
 		{
+			name: 'french-weiss',
+			paperTitle: 'h1',
+			secs: 'h2',
+			pars: 'p',
+			titlesFile: /02-.+html/,
+			languages: ['fr-weiss']
+		},
+		{
 			name: 'greek',
 			paperTitle: 'h3',
 			secs: 'h4',
