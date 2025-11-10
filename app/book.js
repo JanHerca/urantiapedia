@@ -41,6 +41,7 @@ class Book {
 			name: 'french-weiss',
 			paperTitle: 'h1',
 			secs: 'h2',
+			sec_exception: '* * *',
 			pars: 'p',
 			titlesFile: /02-.+html/,
 			languages: ['fr-weiss']
@@ -2252,6 +2253,9 @@ class Book {
 		return new Promise((resolve, reject) => {
 			const lan = this.language;
 			const multi = (books != null);
+			const copyrights = multi
+				? books.map(b=>b.copyright)
+				: ["UF"];
 			const iparts = [0, 1, 2, 3, 4];
 			const idocs = [0, 1, 32, 57, 120];
 			const data = (books ? books : [this]).map(book => {
@@ -2296,7 +2300,7 @@ class Book {
 			const filePath2 = path.join(dirPath, 'Index_Extended.html');
 			const title1 = `${this.tr('bookName', lan)} — ${this.tr('bookIndexName', lan)}`;
 			const title2 = `${this.tr('bookName', lan)} — ${this.tr('bookExtIndexName', lan)}`;
-			const copyright = getWikijsBookCopyright(years, lan);
+			const copyright = getWikijsBookCopyright(years, copyrights, lan);
 			const indexLink1 = getWikijsBookIndexLink(lan, multi, false);
 			const indexLink2 = getWikijsBookIndexLink(lan, multi, true);
 			let header1 = '';

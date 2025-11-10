@@ -835,7 +835,7 @@ const handle_exeButtonClick = () => {
 		// Writes Indexes (*.html)
 		const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
 		book.readFromJSON(masterDir)
-			.then(() => getDataOfBookVersions(jsonDir))
+			.then(() => getDataOfBookVersions(jsonDir, lan))
 			.then((data) => readBooksFromJSON(data, lan))
 			.then(books => {
 				//Checks
