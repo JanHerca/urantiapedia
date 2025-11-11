@@ -711,6 +711,7 @@ const handle_exeButtonClick = () => {
 		// Reads UB (*.json) + 
 		// Reads Topic Index (*.txt) => 
 		// Reads articles paralells (*.tsv)
+		// Reads corrections for English (*.tsv)
 		// Writes (Wiki.js *.html)
 		imageCatalog.read()
 			.then(() => mapCatalog.read())
@@ -729,6 +730,7 @@ const handle_exeButtonClick = () => {
 			.then(() => topicindex.updateTopicNames(topicindexEN))
 			.then(() => topicindex.updateRefsForSearching(book))
 			.then(() => articles.readUBParalellsFromTSV(txtFile))
+			.then(() => book.readCorrections())
 			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN, 
 				imageCatalog, mapCatalog, paralells, articles))
 			.then(() => onSuccess(okMsgs))

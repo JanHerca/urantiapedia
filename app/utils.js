@@ -49,15 +49,28 @@ exports.extractStr = (content, start, end) => {
 };
 
 /**
- * Returns all indexes in which a char is found.
+ * Returns all indexes in which a char (or any of several chars) is found.
  * @param {string} content Text to search.
- * @param {string} char A char.
+ * @param {string|string[]} chars A char or an array of chars.
+ * @param {?boolean} ignoreHtml Ignores the HTML marks when scanning. By default
+ * is true.
  * @return {number[]}
  */
-exports.getAllIndexes = (content, char) => {
-	let indexes = [], i = -1;
-	while ((i = content.indexOf(char, i+1)) != -1) {
-		indexes.push(i);
+exports.getAllIndexes = (content, chars, ignoreHtml) => {
+	ignoreHtml = ignoreHtml != undefined ? ignoreHtml : true;
+	if (!content || !chars) return [];
+	const targets = Array.isArray(chars) ? chars.map(String) : [String(chars)];
+	const set = new Set(targets);
+	const indexes = [];
+	let inTag = false;
+	for (let i = 0; i < content.length; i++) {
+		const ch = content[i];
+		if (ignoreHtml) {
+			if (ch === '<') { inTag = true; continue; }
+			if (ch === '>') { inTag = false; continue; }
+			if (inTag) continue;
+		}
+		if (set.has(ch)) indexes.push(i);
 	}
 	return indexes;
 };
@@ -185,6 +198,18 @@ exports.removeHTMLTags = function(content, initTag, endTag, removeContent, error
 		i += endTag.length;
 	}
 	return result;
+};
+
+/**
+ * Removes HTML tags but preserves the inner text.
+ * Example: "this is <span>the name</span> used" => "this is the name used"
+ * @param {string} content
+ * @return {string}
+ */
+exports.removeAllHTML = (content) => {
+	if (content == null) return '';
+	// remove tags, normalize whitespace and trim
+	return content.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 };
 
 /**

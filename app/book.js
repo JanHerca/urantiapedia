@@ -1,14 +1,15 @@
 //Reader/Writer for The Urantia Book in different formats (HTML/LaTeX/JSON/Wiki)
 
+const {app} = require('electron').remote;
 const LSep = require('./enums').LaTeXSeparator;
 const HSep = require('./enums').HTMLSeparator;
 const BibleAbbs = require('./abb');
-const {extractStr, reflectPromise, extendArray, replaceTags, removeHTMLTags,
-	readFrom, replaceWords, getAllIndexes, strformat, getWikijsHeader,
-	getWikijsLinks, getWikijsBookLink, getWikijsBookCopyright, writeHTMLToWikijs, 
-	getWikijsBookButtons, getWikijsBookTitles, getBookPaperTitle, getError,
-	replaceSpecialChars, replaceInverseSpecialChars, getWikijsBookSectionTitles,
-	getWikijsBookParRef, getWikijsBookIndexLink, getWikijsBookIndexPartTitle,
+const {extractStr, reflectPromise, extendArray, replaceTags, removeHTMLTags, 
+	removeAllHTML, readFrom, readFile, replaceWords, getAllIndexes, strformat, 
+	getWikijsHeader, getWikijsLinks, getWikijsBookLink, getWikijsBookCopyright, 
+	writeHTMLToWikijs, getWikijsBookButtons, getWikijsBookTitles, getBookPaperTitle, 
+	getError, replaceSpecialChars, replaceInverseSpecialChars, getWikijsBookParRef,
+	getWikijsBookSectionTitles, getWikijsBookIndexLink, getWikijsBookIndexPartTitle,
 	getWikijsBookIndexPartDesc, getWikijsBookIndexPaper} = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -20,6 +21,7 @@ class Book {
 	errorString = '{0}, línea {1}: {2}';
 	pars = [];
 	papers = [];
+	corrections = [];
 	onProgressFn = null;
 	warnings = [];
 	HTMLconfigs = [
@@ -1779,6 +1781,10 @@ class Book {
 			const aParalells = (articles ? articles.getParalells(index) : []);
 			const articlesFn = aParalells.filter(p => p.suffix === 'a');
 			const study_aidsFn = aParalells.filter(p => p.suffix === 's');
+			const pCorrections = this.corrections.filter(c => {
+				const r = c.par_ref.split(/[:\.]/);
+				return parseInt(r[0]) === index;
+			});
 
 			const footnoteDef = [
 				{section: this.tr('articles'), 
@@ -1792,7 +1798,10 @@ class Book {
 					suffix: 'b', twemoji: '1f4d5', alt: '📕'},
 				{section: this.tr('booksOther'), 
 					footnotes: paralellsFn, index: 0, 
-					suffix: 'o', twemoji: '1f4da', alt: '📚'}
+					suffix: 'o', twemoji: '1f4da', alt: '📚'},
+				{section: 'Corrections to original English 1955',
+					footnotes: pCorrections, index: 0,
+					suffix: 'c', twemoji: '1f4d8', alt: '📘'}
 			];
 
 			//Checks
@@ -2022,36 +2031,35 @@ class Book {
 			`src="/_assets/svg/twemoji/{1}.svg">`;
 		const r = par.par_ref.split(/[:\.]/);
 		footnoteDef.forEach(fnsection => {
-			const oldFn = (fnsection.suffix != 'a' && fnsection.suffix != 's');
-			const urls = (oldFn ? [] : 
-				fnsection.footnotes.map(f => f.url).sort());
+			const oldFn = !['a','s','c'].includes(fnsection.suffix);
+			const urls = oldFn 
+				? [] 
+				: fnsection.footnotes.map(f => f.url).sort();
 			fnsection.footnotes
 				.filter(fn => {
-					return (fn.par_ref ? fn.par_ref === par.par_ref :
-						fn.par_refs.indexOf(par.par_ref) != -1);
+					return fn.par_ref 
+						? fn.par_ref === par.par_ref
+						: fn.par_refs.indexOf(par.par_ref) != -1;
 				})
 				.forEach((fn, k) => {
 					fnsection.index++;
-					const fni = (oldFn ? fnsection.index : 
-						fnsection.footnotes.indexOf(fn) + 1);
-					const citei = fnsection.index;
-					const fns = fnsection.suffix;
-					const fna = fnsection.alt;
-					const fnt = fnsection.twemoji;
+					const fni = oldFn
+						? fnsection.index
+						: fnsection.footnotes.indexOf(fn) + 1;
+					const {index: citei, suffix: fns, alt: fna, twemoji: fnt} 
+						= fnsection;
 					const i = urls.indexOf(fn.url);
-					const cite_id = (oldFn ? 
-						strformat('cite_{0}{1}', fns, citei) :
-						strformat('cite_{0}{1}_{2}_{3}', fns, r[1], r[2], i)
-					);
-					const link = (oldFn ?
-						strformat('#fn_{0}{1}', fns, fni) :
-						strformat('#fn_{0}{1}_{2}_{3}', fns, r[1], r[2], i)
-					);
+					const cite_id = oldFn
+						? `cite_${fns}${citei}`
+						: `cite_${fns}${r[1]}_${r[2]}_${i}`;
+					const link = oldFn
+						? `#fn_${fns}${fni}`
+						: `#fn_${fns}${r[1]}_${r[2]}_${i}`;
 					const text = strformat(cite, cite_id, link, fni);
 					const fnicon = strformat(icon, fna, fnt);
-					const i2 = par.par_content.indexOf(`{${fn.index}}`);
-					const i1 = par.par_content.indexOf(`{${fn.index-1}}`);
 					if (fn.index != null) {
+						const i2 = par.par_content.indexOf(`{${fn.index}}`);
+						const i1 = par.par_content.indexOf(`{${fn.index-1}}`);
 						if (k == 0 || (i2 - i1 > 4)) {
 							pcontent = pcontent.replace(`{${fn.index}}`, 
 								fnicon + text);
@@ -2068,6 +2076,33 @@ class Book {
 						const tindex = indexes[fn.location - 1];
 						pcontent = pcontent.substring(0, tindex) +
 							fnicon + text + pcontent.substring(tindex);
+					} else if (fnsection.suffix === 'c' && fn.corrected) {
+						//Case for English 1955 corrections
+						const seps = ['.', ',', ';', ':', '?', '!'];
+						const indexesHtml = getAllIndexes(pcontent, seps);
+						const indexesNoHtml = getAllIndexes(par.par_content, seps);
+						const contentNoHtml = removeAllHTML(par.par_content)
+							.replace(/[\*\$]/g, '')
+							.replace(/\{\d+\}/g, '');
+						const correctedNoHtml = removeAllHTML(fn.corrected);
+						if (indexesHtml.length != indexesNoHtml.length) {
+							console.log('Error in footnotes: indexes', pcontent);
+							return;
+						}
+						let cindex = contentNoHtml.indexOf(correctedNoHtml);
+						if (cindex === -1) {
+							console.log('Error in footnotes: not found:', pcontent);
+							return;
+						}
+						cindex = cindex + correctedNoHtml.length - 1;
+						const cindexNoHtml = indexesNoHtml.findIndex(i => i >= cindex);
+						if (cindexNoHtml === -1) {
+							console.log('Error in footnotes: index fails:', pcontent);
+							return;
+						}
+						cindex = indexesHtml[cindexNoHtml];
+						pcontent = pcontent.substring(0, cindex) +
+							fnicon + text + pcontent.substring(cindex);
 					}
 				});
 		});
@@ -2509,6 +2544,52 @@ class Book {
 				}
 				resolve(null);
 			});
+		});
+	};
+
+	//***********************************************************************
+	// Corrections
+	//***********************************************************************
+
+	/**
+	 * Reads the file that contains corrections done in the English 1955 edition,
+	 * to add them as footnotes and to generate a Multi-column version in English.
+	 * The default location is `input/txt/ub_corrections.tsv`.
+	 * @returns {Promise} Promise that returns null in resolve function or an 
+	 * array of errors in reject function.
+	 */
+	readCorrections = () => {
+		const filePath = path.join(app.getAppPath(), 'input', 'txt', 
+			'ub_corrections.tsv');
+		if (this.language != 'en') return Promise.resolve(null);
+		return new Promise((resolve, reject) => {
+			readFile(filePath)
+				.then(lines => {
+					const items = [];
+					lines.forEach((line, i) => {
+						if (i === 0) return;
+						const [ref, original, corrected, review, decision] 
+							= line.split('\t');
+						const m = ref.match(/^(\d+:\d+\.\d+)\s*(?:\((\d+\.\d+)\))?$/);
+						if (!m) throw new Error(`Invalid ref format: ${line}`);
+						const [_, par_ref, par_pageref] = m;
+						const html = 
+							` ${original}<br/>Review: ${review}<br/>Decision: ${decision}`;
+
+						items.push({
+							par_ref,
+							par_pageref,
+							original,
+							corrected,
+							review,
+							decision,
+							html
+						})
+					});
+					this.corrections = items;
+					resolve(null);
+				})
+				.catch(reject);
 		});
 	};
 
