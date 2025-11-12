@@ -1705,9 +1705,19 @@ class Book {
 					p2.isMaster = b.isMaster;
 					p2.year = b.year;
 					p2.copyright = b.copyright;
-					p2.label = b.label;
+					p2.label = this.language === 'en' 
+						? '1955 SRT'
+						: b.label;
 					return p2;
 				});
+				//For English we add here the old 1955 version
+				if (this.language === 'en') {
+					const originalPaper = this.getOriginalPaper(index);
+					originalPaper.year = paper.year;
+					originalPaper.copyright = paper.copyright;
+					originalPaper.label = '1955 ORIGINAL';
+					papers.push(originalPaper);
+				}
 				const filePath = path.join(dirPath, `${index}.html`);
 				const p = this.writeFileToWikijs(filePath, papers, topicIndex, 
 					topicIndexEN, imageCatalog, mapCatalog, paralells, 
@@ -1799,6 +1809,7 @@ class Book {
 				{section: this.tr('booksOther'), 
 					footnotes: paralellsFn, index: 0, 
 					suffix: 'o', twemoji: '1f4da', alt: '📚'},
+				/* This last section is only available for English */
 				{section: 'Corrections to original English 1955',
 					footnotes: pCorrections, index: 0,
 					suffix: 'c', twemoji: '1f4d8', alt: '📘'}
@@ -2324,11 +2335,18 @@ class Book {
 					parts_titles: tparts,
 					parts_descs: dparts,
 					year: book.year,
-					label: book.label,
+					label: lan === 'en' && multi ? '1955 SRT' : book.label,
 					papers: tpapers,
 					isMaster: isMaster
 				};
 			});
+			if (lan === 'en' && multi) {
+				data.push({
+					...data[0],
+					label: '1955 ORIGINAL',
+					isMaster: false
+				});
+			}
 			const years = data.map(d => d.year);
 			const labels = data.map(d => d.label);
 			const filePath1 = path.join(dirPath, 'Index.html');
@@ -2592,6 +2610,53 @@ class Book {
 				.catch(reject);
 		});
 	};
+
+	/**
+	 * Returns a clone of a paper but replacing the corrections to obtain
+	 * the original 1955 paper. This only works for English edition.
+	 * @param {number} paper_index Index of paper.
+	 */
+	getOriginalPaper = (paper_index) => {
+		const paper = this.papers.find(p => p.paper_index === paper_index);
+		const clone = {
+			...paper,
+			sections: paper.sections.map(section => {
+				return {
+					...section,
+					pars: section.pars.map(p => ({...p}))
+				};
+			}),
+			footnotes: paper.footnotes.slice()
+		};
+		const corrections = this.corrections.filter(c => {
+			const r = c.par_ref.split(/[:\.]/);
+			return parseInt(r[0]) === paper_index;
+		});
+		corrections.forEach(c => {
+			clone.sections.forEach(section => {
+				section.pars.forEach(p => {
+					if (p.par_ref === c.par_ref) {
+						let original = c.original.indexOf('...') != -1
+							? c.original.split('...')[1]
+							: c.original;
+						original = original.indexOf('. (') != -1
+							? original.split('. (')[0]
+							: original;
+						original = replaceTags(original, HSep.ITALIC_START, 
+							HSep.ITALIC_END, '*', '*', []);
+						const corrected = replaceTags(c.corrected, HSep.ITALIC_START, 
+							HSep.ITALIC_END, '*', '*', []);
+						if (p.par_content.indexOf(corrected) === -1) {
+							console.log('Error finding corrected text', p.par_ref);
+						}
+						p.par_content = p.par_content.replace(corrected,
+							original);
+					}
+				});
+			});
+		});
+		return clone;
+	}
 
 	//***********************************************************************
 	// MediaWiki

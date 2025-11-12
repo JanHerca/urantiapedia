@@ -735,9 +735,9 @@ const handle_exeButtonClick = () => {
 				imageCatalog, mapCatalog, paralells, articles))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS' && 
-		lan != 'en') {
+	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS') {
 		// Reads paralells (*.md) +
+		// Reads corrections for English (*.tsv)
 		// Reads master UB (*.json) + 
 		// Reads Topic Index (*.txt) + 
 		// Get paths to several UB versions +
@@ -752,6 +752,7 @@ const handle_exeButtonClick = () => {
 		//TODO: Allow images to be also centered (not only left by default)
 		paralells.read()
 			.then(() => articles.readUBParalellsFromTSV(txtFile))
+			.then(() => book.readCorrections())
 			.then(() => {
 				const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
 				return book.readFromJSON(masterDir);
@@ -782,7 +783,7 @@ const handle_exeButtonClick = () => {
 						return bErrs;
 					});
 				const errs = bookErrors.find(e => e != null);
-				if (errs) return Promise.reject(errs)
+				if (errs) return Promise.reject(errs);
 				//No errors, proceed
 				return topicindexEN.updateRefsForSearching(books[0])
 					.then(() => book.writeMultipleToWikijs(htmlDir, books, 

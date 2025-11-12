@@ -478,9 +478,6 @@ exports.readFilePairs = (filePathEN, filePathOther, language, clearFn,
  * a label.
  */
 exports.getDataOfBookVersions = (jsonDir, lan) => {
-	if (lan === 'en') {
-		return Promise.reject([new Error('English language cannot be used')]);
-	}
 	return new Promise((resolve, reject) => {
 		fs.readdir(jsonDir, { withFileTypes: true }, (err, files) => {
 			if (err) {
@@ -817,23 +814,29 @@ exports.getWikijsBookCopyright = (years, copyrights, language) => {
 	const translations = Strings.translations[language];
 	let html = '<p class="v-card v-sheet theme--light grey lighten-3 px-2 mb-4">';
 	if (multi) {
-		const ys = years.slice(1);
-		const copys = copyrights.slice(1);
-		const copysYears = [];
-		copys.forEach((c, i) => {
-			const copyYears = copysYears.find(cy=>cy[0] === c);
-			if (copyYears) {
-				copyYears[1].push(ys[i]);
-			} else {
-				copysYears.push([c, [ys[i]]]);
-			}
-		});
-		html += `${freedomain}.`;
-		copysYears.forEach(cy => {
-			const y = cy[1].join(', ');
-			const c = cy[0] === 'UF' ? foundation : cy[0];
-			html += `<br>${translations} © ${y} ${c}`
-		});
+		if (language === 'en') {
+			html += `${freedomain}. ` +
+				'(SRT = <a href="https://www.urantia.org/urantia-book' + 
+				'/text-standardization">Standard Reference Text</a>).';
+		} else {
+			const ys = years.slice(1);
+			const copys = copyrights.slice(1);
+			const copysYears = [];
+			copys.forEach((c, i) => {
+				const copyYears = copysYears.find(cy=>cy[0] === c);
+				if (copyYears) {
+					copyYears[1].push(ys[i]);
+				} else {
+					copysYears.push([c, [ys[i]]]);
+				}
+			});
+			html += `${freedomain}.`;
+			copysYears.forEach(cy => {
+				const y = cy[1].join(', ');
+				const c = cy[0] === 'UF' ? foundation : cy[0];
+				html += `<br>${translations} © ${y} ${c}`
+			});
+		}
 	} else {
 		html += (language === 'en' ? freedomain : `© ${masterYear} ${foundation}`);
 	}
@@ -1026,17 +1029,13 @@ exports.getWikijsBookLink = (paper, language, isMultiple, isPrev) => {
 			`        <a href="${path}/${indexNameEN}">\r\n` +
 			`          <span class="mdi mdi-book-open-variant"></span>` +
 				`<span class="pl-2">${indexName}</span>\r\n` +
+			`        </a>\r\n` +
+			'        <br>\r\n' +
+			`        <a href="${path2}">\r\n` +
+			`          <span class="mdi ${icon}"></span>` +
+				`<span class="pl-2">${text2}</span>\r\n` +
 			`        </a>\r\n`
 		);
-		if (language != 'en') {
-			html += '        <br>\r\n';
-			html += (
-				`        <a href="${path2}">\r\n` +
-				`          <span class="mdi ${icon}"></span>` +
-					`<span class="pl-2">${text2}</span>\r\n` +
-				`        </a>\r\n`
-			);
-		}
 		return html;
 	} else {
 		const text = exports.getBookPaperTitle(paper, language);
