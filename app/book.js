@@ -2031,10 +2031,10 @@ class Book {
 			`src="/_assets/svg/twemoji/{1}.svg">`;
 		const r = par.par_ref.split(/[:\.]/);
 		footnoteDef.forEach(fnsection => {
-			const oldFn = !['a','s','c'].includes(fnsection.suffix);
+			const oldFn = !['a','s'].includes(fnsection.suffix);
 			const urls = oldFn 
 				? [] 
-				: fnsection.footnotes.map(f => f.url).sort();
+				: fnsection.footnotes.map(f => f.url ? f.url : '').sort();
 			fnsection.footnotes
 				.filter(fn => {
 					return fn.par_ref 
@@ -2048,7 +2048,7 @@ class Book {
 						: fnsection.footnotes.indexOf(fn) + 1;
 					const {index: citei, suffix: fns, alt: fna, twemoji: fnt} 
 						= fnsection;
-					const i = urls.indexOf(fn.url);
+					const i = urls.indexOf(fn.url ? fn.url : '');
 					const cite_id = oldFn
 						? `cite_${fns}${citei}`
 						: `cite_${fns}${r[1]}_${r[2]}_${i}`;
