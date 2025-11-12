@@ -26,32 +26,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 代码 | 语言 | 标题
 --- | --- | ---
-ar | Arabic | كِتاب يورانشيا
-bg | Bulgarian | Книгата Урантия
-cs | Czech | Kniha Urantia
-da | Danish | Urantia Bogen
-de | German | Das Urantia Buch
-el | Greek | Το Βιβλίο της Ουράντια
-en | English | The Urantia Book
-es | Spanish | El libro de Urantia
-et | Estonian | Urantia raamat
-fa | Farsi | کتاب یورنشیا
-fi | Finnish | Urantia-kirja
-fr | French | Le Livre d’Urantia
-he | Hebrew | הספר של אורנטיה
-hu | Hungarian | Az Urantia könyv
-id | Indonesian | Buku Urantia
-it | Italian | Il Libro di Urantia
-ja | Japanese | ウランティア ブック
-ko | Korean | 유란시아 서
-lt | Lithuanian | Urantijos Knyga
-nl | Dutch | Het Urantia Boek
-pl | Polish | Księga Urantii
-pt | Portuguese | O Livro de Urântia
-ro | Romanian | Cartea Urantia
-ru | Russian | Книга Урантии
-sv | Swedish | Urantiaboken
-zh | Chinese | 玉苒厦之书
+ar | 阿拉伯语 | كِتاب يورانشيا
+bg | 保加利亚语 | Книгата Урантия
+cs | 捷克语 | Kniha Urantia
+da | 丹麦语 | Urantia Bogen
+de | 德语 | Das Urantia Buch
+el | 希腊语 | Το Βιβλίο της Ουράντια
+en | 英语 | The Urantia Book
+es | 西班牙语 | El libro de Urantia
+et | 爱沙尼亚语 | Urantia raamat
+fa | 波斯语 | کتاب یورنشیا
+fi | 芬兰语 | Urantia-kirja
+fr | 法语 | Le Livre d’Urantia
+he | 希伯来语 | הספר של אורנטיה
+hr | 克罗地亚 | Knjiga Urantije
+hu | 匈牙利语 | Az Urantia könyv
+id | 印度尼西亚 | Buku Urantia
+it | 意大利语 | Il Libro di Urantia
+ja | 日本人 | ウランティア ブック
+ko | 韩国人 | 유란시아 서
+lt | 立陶宛语 | Urantijos Knyga
+nl | 荷兰语 | Het Urantia Boek
+pl | 抛光 | Księga Urantii
+pt | 葡萄牙语 | O Livro de Urântia
+ro | 罗马尼亚语 | Cartea Urantia
+ru | 俄语 | Книга Урантии
+sv | 瑞典语 | Urantiaboken
+zh | 中文 | 玉苒厦之书
 
 语言代码必须遵循 ISO 639-1 标准，每种语言两个字母。https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
@@ -63,32 +64,33 @@ zh | Chinese | 玉苒厦之书
 
 代码 | 语言 | 标准小学和中学 | 替代小学和中学
 --- | --- | --- | ---
-ar | Arabic | «...» | “...”
-bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
-cs | Czech | „...“ & ‚...‘ | »...« & ›...‹
-da | Danish | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
-de | German | „...“ & ‚...‘ | »...« & ›...‹
-el | Greek | «...» & “...” |
-en | English | “...” & ‘...’ |
-es | Spanish | «...» & “...” | “...” & ‘...’
-et | Estonian | „...“ |
-fa | Farsi | «...» |
-fi | Finnish | ”...” & ’...’ | »...» & ’...’
-fr | French | «...» & «...» “...” | ‹...›
-he | Hebrew | ”...” & ’...’ | „...” & ‚...’
-hu | Hungarian | „...” & »...« |
-id | Indonesian | “...” & ‘...’ |
-it | Italian | «...» & “...” | “...” & ‘...’
-ja | Japanese | 「...」& 『...』 |
-ko | Korean | “...” & ‘...’ |
-lt | Lithuanian | „...“ & ‚...‘ |
-nl | Dutch | “...” & ‘…’ | „...” & ,…’
-pl | Polish | „...” | «...» & »...«
-pt | Portuguese | «...» & “...” | “...” & ‘...’
-ro | Romanian | „...” & «...» |
-ru | Russian | «...» & „...“ | “...” & ‘...’
-sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
-ar | Chinese | «...» | “...”
+ar | 阿拉伯语 | «...» | “...”
+bg | 保加利亚语 | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
+cs | 捷克语 | „...“ & ‚...‘ | »...« & ›...‹
+da | 丹麦语 | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
+de | 德语 | „...“ & ‚...‘ | »...« & ›...‹
+el | 希腊语 | «...» & “...” |
+en | 英语 | “...” & ‘...’ |
+es | 西班牙语 | «...» & “...” | “...” & ‘...’
+et | 爱沙尼亚语 | „...“ |
+fa | 波斯语 | «...» |
+fi | 芬兰语 | ”...” & ’...’ | »...» & ’...’
+fr | 法语 | «...» & «...» “...” | ‹...›
+he | 希伯来语 | ”...” & ’...’ | „...” & ‚...’
+hr | 克罗地亚 | „...“ & ’...’ | »...«
+hu | 匈牙利语 | „...” & »...« |
+id | 印度尼西亚 | “...” & ‘...’ |
+it | 意大利语 | «...» & “...” | “...” & ‘...’
+ja | 日本人 | 「...」& 『...』 |
+ko | 韩国人 | “...” & ‘...’ |
+lt | 立陶宛语 | „...“ & ‚...‘ |
+nl | 荷兰语 | “...” & ‘…’ | „...” & ,…’
+pl | 抛光 | „...” | «...» & »...«
+pt | 葡萄牙语 | «...» & “...” | “...” & ‘...’
+ro | 罗马尼亚语 | „...” & «...» |
+ru | 俄语 | «...» & „...“ | “...” & ‘...’
+sv | 瑞典语 | ”...” & ’...’ | »...» »...« & ’...’
+ar | 中文 | «...» | “...”
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

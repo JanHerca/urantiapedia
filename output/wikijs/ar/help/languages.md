@@ -26,32 +26,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 الكود | اللغة | العنوان
 --- | --- | ---
-ar | Arabic | كِتاب يورانشيا
-bg | Bulgarian | Книгата Урантия
-cs | Czech | Kniha Urantia
-da | Danish | Urantia Bogen
-de | German | Das Urantia Buch
-el | Greek | Το Βιβλίο της Ουράντια
-en | English | The Urantia Book
-es | Spanish | El libro de Urantia
-et | Estonian | Urantia raamat
-fa | Farsi | کتاب یورنشیا
-fi | Finnish | Urantia-kirja
-fr | French | Le Livre d’Urantia
-he | Hebrew | הספר של אורנטיה
-hu | Hungarian | Az Urantia könyv
-id | Indonesian | Buku Urantia
-it | Italian | Il Libro di Urantia
-ja | Japanese | ウランティア ブック
-ko | Korean | 유란시아 서
-lt | Lithuanian | Urantijos Knyga
-nl | Dutch | Het Urantia Boek
-pl | Polish | Księga Urantii
-pt | Portuguese | O Livro de Urântia
-ro | Romanian | Cartea Urantia
-ru | Russian | Книга Урантии
-sv | Swedish | Urantiaboken
-zh | Chinese | 玉苒厦之书
+ar | عربي | كِتاب يورانشيا
+bg | البلغارية | Книгата Урантия
+cs | التشيكية | Kniha Urantia
+da | دانماركي | Urantia Bogen
+de | الألمانية | Das Urantia Buch
+el | اليونانية | Το Βιβλίο της Ουράντια
+en | إنجليزي | The Urantia Book
+es | الأسبانية | El libro de Urantia
+et | الإستونية | Urantia raamat
+fa | الفارسية | کتاب یورنشیا
+fi | الفنلندية | Urantia-kirja
+fr | فرنسي | Le Livre d’Urantia
+he | العبرية | הספר של אורנטיה
+hr | الكرواتية | Knjiga Urantije
+hu | المجرية | Az Urantia könyv
+id | الإندونيسية | Buku Urantia
+it | إيطالي | Il Libro di Urantia
+ja | اليابانية | ウランティア ブック
+ko | كوري | 유란시아 서
+lt | الليتوانية | Urantijos Knyga
+nl | هولندي | Het Urantia Boek
+pl | بولندي | Księga Urantii
+pt | البرتغالية | O Livro de Urântia
+ro | روماني | Cartea Urantia
+ru | الروسية | Книга Урантии
+sv | السويدية | Urantiaboken
+zh | الصينية | 玉苒厦之书
 
 يجب أن تتبع رموز اللغة معيار ISO 639-1 بحرفين لكل لغة. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
@@ -63,32 +64,33 @@ zh | Chinese | 玉苒厦之书
 
 الكود | اللغة | الأساسي والثانوي القياسي | الأساسي والثانوي البديل
 --- | --- | --- | --- 
-ar | Arabic | «...» | “...”
-bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
-cs | Czech | „...“ & ‚...‘ | »...« & ›...‹
-da | Danish | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
-de | German | „...“ & ‚...‘ | »...« & ›...‹
-el | Greek | «...» & “...” | 
-en | English | “...” & ‘...’ | 
-es | Spanish | «...» & “...” | “...” & ‘...’
-et | Estonian | „...“ |
-fa | Farsi | «...» | 
-fi | Finnish | ”...” & ’...’ | »...» & ’...’
-fr | French | «...» & «...» “...” | ‹...›
-he | Hebrew | ”...” & ’...’ | „...” & ‚...’
-hu | Hungarian | „...” & »...« | 
-id | Indonesian | “...” & ‘...’ | 
-it | Italian | «...» & “...” | “...” & ‘...’
-ja | Japanese | 「...」& 『...』 | 
-ko | Korean | “...” & ‘...’ | 
-lt | Lithuanian | „...“ & ‚...‘ | 
-nl | Dutch | “...” & ‘…’ | „...” & ,…’
-pl | Polish | „...” | «...» & »...«
-pt | Portuguese | «...» & “...” | “...” & ‘...’
-ro | Romanian | „...” & «...» | 
-ru | Russian | «...» & „...“ | “...” & ‘...’
-sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
-ar | Chinese | «...» | “...”
+ar | عربي | «...» | “...”
+bg | البلغارية | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
+cs | التشيكية | „...“ & ‚...‘ | »...« & ›...‹
+da | دانماركي | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
+de | الألمانية | „...“ & ‚...‘ | »...« & ›...‹
+el | اليونانية | «...» & “...” | 
+en | إنجليزي | “...” & ‘...’ | 
+es | الأسبانية | «...» & “...” | “...” & ‘...’
+et | الإستونية | „...“ |
+fa | الفارسية | «...» | 
+fi | الفنلندية | ”...” & ’...’ | »...» & ’...’
+fr | فرنسي | «...» & «...» “...” | ‹...›
+he | العبرية | ”...” & ’...’ | „...” & ‚...’
+hr | Croata | „...“ & ’...’ | »...«
+hu | الكرواتية | „...” & »...« | 
+id | الإندونيسية | “...” & ‘...’ | 
+it | إيطالي | «...» & “...” | “...” & ‘...’
+ja | اليابانية | 「...」& 『...』 | 
+ko | كوري | “...” & ‘...’ | 
+lt | الليتوانية | „...“ & ‚...‘ | 
+nl | هولندي | “...” & ‘…’ | „...” & ,…’
+pl | بولندي | „...” | «...» & »...«
+pt | البرتغالية | «...» & “...” | “...” & ‘...’
+ro | روماني | „...” & «...» | 
+ru | الروسية | «...» & „...“ | “...” & ‘...’
+sv | السويدية | ”...” & ’...’ | »...» »...« & ’...’
+ar | الصينية | «...» | “...”
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

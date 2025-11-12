@@ -39,6 +39,7 @@ fa | persan | کتاب یورنشیا
 fi | finnois | Urantia-kirja
 fr | français | Le Livre d'Urantia
 he | hébreu | הספר של אורנטיה
+hr | croate | Knjiga Urantije
 hu | Hongrois | Az Urantia könyv
 id | indonésien | Buku Urantia
 it | italien | Il Libro di Urantia
@@ -76,6 +77,7 @@ fa | persan | «...» |
 fi | finnois | ”...” & ’...’ | »...» & ’...’
 en | français | «...» & «...» «...» | ‹...›
 he | hébreu | ”...” & ’...’ | „...” & ‚...’
+hr | Croata | „...“ & ’...’ | »...«
 hu | Hongrois | „...” & »...« |
 id | indonésien “...” & ‘...’ | 
 it | italien «...» & “...” | “...” & ‘...’

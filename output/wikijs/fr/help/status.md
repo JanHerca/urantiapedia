@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Étape I - Le Livre d'Urantia et la Bible
 
-> Cette phase se trouve terminée pour 27 idiomes.
+> Cette phase se trouve terminée pour 28 idiomes.
 {.is-success}
 
 Cette phase est expliquée en détail ici : [Fase I](/fr/help/phases#étape-i-le-livre-durantia-et-la-bible).
@@ -54,13 +54,13 @@ Dans cette phase, les tâches sont réalisées dans chaque langage suivant (indi
 
 Tarea | État
 --- | ---
-Traduction du :ledger: _Paramony_ de l'anglais dans la langue du destin. | :heavy_check_mark: (en 27 expressions) \[[1](#note1)\]
-Obtention de :blue_book: _Le Livre d'Urantia_ dans l'idiome de destination avec le :ledger: _Paramony_ comme noté sur la tarte. | :heavy_check_mark: (en 27 expressions)
-Obtention d'une traduction de :closed_book: _La Bible_ dans le langage de destination avec le :ledger: _Paramony_ comme note sur la tarte. | :heavy_check_mark: (en 27 expressions)
-Modifier le téléchargement par [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (en 27 expressions)
+Traduction du :ledger: _Paramony_ de l'anglais dans la langue du destin. | :heavy_check_mark: (en 28 expressions) \[[1](#note1)\]
+Obtention de :blue_book: _Le Livre d'Urantia_ dans l'idiome de destination avec le :ledger: _Paramony_ comme noté sur la tarte. | :heavy_check_mark: (en 28 expressions)
+Obtention d'une traduction de :closed_book: _La Bible_ dans le langage de destination avec le :ledger: _Paramony_ comme note sur la tarte. | :heavy_check_mark: (en 28 expressions)
+Modifier le téléchargement par [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (en 28 expressions)
 
 
-(<a id="note1">1</a>) Chaque fois que 27 langues sont indiquées, il s'agit de : arabe, bulgare, tchèque, danois, allemand, grec, anglais, espagnol, estonien, persan, finnois, français, hébreu, hongrois, indonésien, italien, japonais, coréen, lituanien, néerlandais, polonais, portugais, roumain, russe, suédois, turc, chinois.
+(<a id="note1">1</a>) Chaque fois que 28 langues sont indiquées, il s'agit de : arabe, bulgare, tchèque, danois, allemand, grec, anglais, espagnol, estonien, persan, finnois, français, hébreu, croate, hongrois, indonésien, italien, japonais, coréen, lituanien, néerlandais, polonais, portugais, roumain, russe, suédois, turc, chinois.
 
 ## Étape II - Hémérothèque, Bibliothèque et Encyclopédie
 
@@ -235,12 +235,12 @@ Le tableau suivant résume tous les progrès réalisés dans chaque type de cont
 
 Contenu | Statut
 --- | ---
-:blue_book: _Le Livre d'Urantia_ avec le :ledger: _Paramony_ | :heavy_check_mark: (en 27 langues) \[[1](#note1)\]
-:closed_book: La _Bible_ avec la :ledger: _Paramony_ | :heavy_check_mark: (en 27 langues)
+:blue_book: _Le Livre d'Urantia_ avec le :ledger: _Paramony_ | :heavy_check_mark: (en 28 langues) \[[1](#note1)\]
+:closed_book: La _Bible_ avec la :ledger: _Paramony_ | :heavy_check_mark: (en 28 langues)
 Une première version de la _Hémérothèque_ avec des articles :page_with_curl: et des :notebook: aides à l'étude | :heavy_check_mark: (anglais, espagnol, français)
 Une première version de la _Bibliothèque_ avec :green_book: livres des principales religions et :books: livres supposément utilisés par les révélateurs. | :heavy_check_mark: (anglais, espagnol, français)
 Une première version de :card_index: l'_Encyclopédie_ | :heavy_check_mark: (anglais, espagnol, français)
-:sunrise_over_mountains: Images (actuellement uniquement dans _Le Livre d'Urantia_) | :clock2: (en 27 langues)
+:sunrise_over_mountains: Images (actuellement uniquement dans _Le Livre d'Urantia_) | :clock2: (en 28 langues)
 :earth_americas: _Cartothèque_ | :clock2: (test initial en anglais et en espagnol uniquement)
 :bar_chart: Présentations pour la _Médiathèque_ | (n'a pas commencé)
 :milky_way: Scènes 3D pour la _Mediateca_ | :clock2: (test initial en anglais uniquement)
@@ -248,7 +248,7 @@ Une première version de :card_index: l'_Encyclopédie_ | :heavy_check_mark: (an
 :movie_camera: Catalogue vidéo pour la _Médiathèque_ | (n'a pas commencé)
 
 
-(<a id="note1">1</a>) Chaque fois que 27 langues sont indiquées, il s'agit de : arabe, bulgare, tchèque, danois, allemand, grec, anglais, espagnol, estonien, persan, finnois, français, hébreu, hongrois, indonésien, italien, japonais, coréen, lituanien, néerlandais, polonais, portugais, roumain, russe, suédois, turc, chinois.
+(<a id="note1">1</a>) Chaque fois que 28 langues sont indiquées, il s'agit de : arabe, bulgare, tchèque, danois, allemand, grec, anglais, espagnol, estonien, persan, finnois, français, hébreu, croate, hongrois, indonésien, italien, japonais, coréen, lituanien, néerlandais, polonais, portugais, roumain, russe, suédois, turc, chinois.
 
 ## Liens externes
 

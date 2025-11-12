@@ -39,6 +39,7 @@ fa | Persa | کتاب یورنشیا
 fi | Finlandês | Urântia-kirja
 fr | Francês | Le Livre d'Urantia
 he | Hebraico | הספר של אורנטיה
+hr | Croata | Knjiga Urantije
 hu | Húngaro | Az Urantia könyv
 id | Indonésio | Buku Urântia
 it | Italiano | O Livro de Urântia
@@ -64,30 +65,31 @@ Estas são as aspas corretas para usar em cada idioma:
 Código | Idioma | Padrão primário e secundário | Alternativa primária e secundária
 --- | --- | --- | ---
 ar | Árabe | «...» | “...”
-bg | Bulgarian | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
-cs | Czech | „...“ & ‚...‘ | »...« & ›...‹
-da | Danish | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
-de | German | „...“ & ‚...‘ | »...« & ›...‹
-el | Greek | «...» & “...” | 
-en | English | “...” & ‘...’ | 
-es | Spanish | «...» & “...” | “...” & ‘...’
-et | Estonian | „...“ |
-fa | Farsi | «...» | 
-fi | Finnish | ”...” & ’...’ | »...» & ’...’
-fr | French | «...» & «...» “...” | ‹...›
-he | Hebrew | ”...” & ’...’ | „...” & ‚...’
-hu | Hungarian | „...” & »...« | 
-id | Indonesian | “...” & ‘...’ | 
-it | Italian | «...» & “...” | “...” & ‘...’
-ja | Japanese | 「...」& 『...』 | 
-ko | Korean | “...” & ‘...’ | 
-lt | Lithuanian | „...“ & ‚...‘ | 
-nl | Dutch | “...” & ‘…’ | „...” & ,…’
-pl | Polish | „...” | «...» & »...«
-pt | Portuguese | «...» & “...” | “...” & ‘...’
-ro | Romanian | „...” & «...» | 
-ru | Russian | «...» & „...“ | “...” & ‘...’
-sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
+bg | Búlgaro | „...“ & ’...’ ‘...’ | «...» & ’...’ ‘...’
+cs | Checo | „...“ & ‚...‘ | »...« & ›...‹
+da | Dinamarquês | »...« "..." & ›...‹ ‘...’ | ”...” & ’...’
+de | Alemão | „...“ & ‚...‘ | »...« & ›...‹
+el | Grego | «...» & “...” | 
+en | Inglês | “...” & ‘...’ | 
+es | Espanhol | «...» & “...” | “...” & ‘...’
+et | Estoniano | „...“ |
+fa | Persa | «...» | 
+fi | Finlandês | ”...” & ’...’ | »...» & ’...’
+fr | Francês | «...» & «...» “...” | ‹...›
+he | Hebraico | ”...” & ’...’ | „...” & ‚...’
+hr | Croata | „...“ & ’...’ | »...«
+hu | Húngaro | „...” & »...« | 
+id | Indonésio | “...” & ‘...’ | 
+it | Italiano | «...» & “...” | “...” & ‘...’
+ja | Japonês | 「...」& 『...』 | 
+ko | Coreano | “...” & ‘...’ | 
+lt | Lituano | „...“ & ‚...‘ | 
+nl | Holandês | “...” & ‘…’ | „...” & ,…’
+pl | Polonês | „...” | «...» & »...«
+pt | Português | «...» & “...” | “...” & ‘...’
+ro | Romeno | „...” & «...» | 
+ru | Russo | «...» & „...“ | “...” & ‘...’
+sv | Sueco | ”...” & ’...’ | »...» »...« & ’...’
 zh | Chinês | “⋯” & ‘⋯’ | 「⋯」& 『⋯』
 
 

@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Milestone I - The Urantia Book and the Bible
 
-> This phase is completed for 27 languages.
+> This phase is completed for 28 languages.
 {.is-success}
 
 This milestone is explained in detail here: [Milestone I](/en/help/phases#milestone-i-the-urantia-book-and-the-bible).
@@ -54,13 +54,13 @@ In this phase, the tasks to be carried out in each language are the following (i
 
 Task | Status
 --- | ---
-Translation of :ledger: _Paramony_ from English to the target language. | :heavy_check_mark: (in 27 languages) \[[1](#note1)\]
-Obtaining :blue_book: _The Urantia Book_ in the target language with the :ledger: _Paramony_ as footnotes. | :heavy_check_mark: (in 27 languages)
-Obtaining a translation of :closed_book: _The Bible_ in the target language with the :ledger: _Paramony_ as footnotes. | :heavy_check_mark: (in 27 languages)
-Uploading changes using [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (in 27 languages)
+Translation of :ledger: _Paramony_ from English to the target language. | :heavy_check_mark: (in 28 languages) \[[1](#note1)\]
+Obtaining :blue_book: _The Urantia Book_ in the target language with the :ledger: _Paramony_ as footnotes. | :heavy_check_mark: (in 28 languages)
+Obtaining a translation of :closed_book: _The Bible_ in the target language with the :ledger: _Paramony_ as footnotes. | :heavy_check_mark: (in 28 languages)
+Uploading changes using [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) | :heavy_check_mark: (in 28 languages)
 
 
-(<a id="note1">1</a>) Whenever 27 languages ​​are indicated, they are: Arabic, Bulgarian, Czech, Danish, German, Greek, English, Spanish, Estonian, Persian, Finnish, French, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Dutch, Polish, Portuguese, Romanian, Russian, Swedish, Turkish, Chinese.
+(<a id="note1">1</a>) Whenever 28 languages ​​are indicated, they are: Arabic, Bulgarian, Czech, Danish, German, Greek, English, Spanish, Estonian, Persian, Finnish, French, Hebrew, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Dutch, Polish, Portuguese, Romanian, Russian, Swedish, Turkish, Chinese.
 
 ## Milestone II - Newspaper Archive, Library and Encyclopedia
 
@@ -235,19 +235,19 @@ The following table summarizes all the progress made on each content type:
 
 Content | Status
 --- | ---
-:blue_book: _The Urantia Book_ with the :ledger: _Paramony_ | :heavy_check_mark: (in 27 languages) \[[1](#note1)\]
-:closed_book: The _Bible_ with the :ledger: _Paramony_ | :heavy_check_mark: (in 27 languages)
+:blue_book: _The Urantia Book_ with the :ledger: _Paramony_ | :heavy_check_mark: (in 28 languages) \[[1](#note1)\]
+:closed_book: The _Bible_ with the :ledger: _Paramony_ | :heavy_check_mark: (in 28 languages)
 A first version of the _Newspaper Library_ with :page_with_curl: articles and :notebook: study aids. | :heavy_check_mark: (English, Spanish, French)
 A first version of the _Library_ with :green_book: books of the major religions and :books: books supposedly used by the revelators. | :heavy_check_mark: (English, Spanish, French)
 A first version of the :card_index: _Encyclopedia_ | :heavy_check_mark: (English, Spanish, French)
-:sunrise_over_mountains: Images (currently only in _The Urantia Book_) | :clock2: (in 27 languages)
+:sunrise_over_mountains: Images (currently only in _The Urantia Book_) | :clock2: (in 28 languages)
 :earth_americas: _Map Library_ | :clock2: (initial tests in English and Spanish only)
 :bar_chart: Presentations for the _Media Library_ | (not started yet)
 :milky_way: 3D scenes for the _Media Library_ | :clock2: (initial tests in English only)
 :sound: Audio of _The Urantia Book_ | :heavy_check_mark: (in German, English, Spanish, French, Italian, and Portuguese)
 :movie_camera: Video catalog for the _Media Library_ | (not started yet)
 
-(<a id="note1">1</a>) Whenever 27 languages ​​are listed, they are: Arabic, Bulgarian, Czech, Danish, German, Greek, English, Spanish, Estonian, Persian, Finnish, French, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Dutch, Polish, Portuguese, Romanian, Russian, Swedish, Turkish, Chinese.
+(<a id="note1">1</a>) Whenever 28 languages ​​are listed, they are: Arabic, Bulgarian, Czech, Danish, German, Greek, English, Spanish, Estonian, Persian, Finnish, French, Hebrew, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Dutch, Polish, Portuguese, Romanian, Russian, Swedish, Turkish, Chinese.
 
 ## External links
 

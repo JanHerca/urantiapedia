@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## 里程碑一——《尤兰提亚之书》和《圣经》
 
-> 此阶段已完成 27 种语言的翻译。
+> 此阶段已完成 28 种语言的翻译。
 {.is-success}
 
 此里程碑在此处有详细说明：[里程碑 I](/zh/help/phases#milestone-i-the-urantia-book-and-the-bible)。
@@ -54,13 +54,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 任务 | 状态
 --- | ---
-将 :ledger: _Paramony_ 从英语翻译成目标语言。| :heavy_check_mark:（27 种语言）\[[1](#note1)\]
-获取目标语言的 :blue_book: 《尤兰提亚之书》并以 :ledger: 《Paramony》 作为脚注。| :heavy_check_mark: （27 种语言版本）
-获取目标语言的《:closed_book: _圣经_》翻译，并以《:ledger: _Paramony_》作为脚注。| :heavy_check_mark: （27 种语言）
-使用 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) 上传更改 | :heavy_check_mark: (27 种语言版本)
+将 :ledger: _Paramony_ 从英语翻译成目标语言。| :heavy_check_mark:（28 种语言）\[[1](#note1)\]
+获取目标语言的 :blue_book: 《尤兰提亚之书》并以 :ledger: 《Paramony》 作为脚注。| :heavy_check_mark: （28 种语言版本）
+获取目标语言的《:closed_book: _圣经_》翻译，并以《:ledger: _Paramony_》作为脚注。| :heavy_check_mark: （28 种语言）
+使用 [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) 上传更改 | :heavy_check_mark: (28 种语言版本)
 
 
-(<a id="note1">1</a>) 凡注明27种语言，分别为：阿拉伯语、保加利亚语、捷克语、丹麦语、德语、希腊语、英语、西班牙语、爱沙尼亚语、波斯语、芬兰语、法语、希伯来语、匈牙利语、印尼语、意大利语、日语、韩语、立陶宛语、荷兰语、波兰语、葡萄牙语、罗马尼亚语、俄语、瑞典语、土耳其语、中文。
+(<a id="note1">1</a>) 凡提及的 28 种语言，分别是：阿拉伯语、保加利亚语、捷克语、丹麦语、德语、希腊语、英语、西班牙语、爱沙尼亚语、波斯语、芬兰语、法语、希伯来语、克罗地亚语、匈牙利语、印尼语、意大利语、日语、韩语、立陶宛语、荷兰语、波兰语、葡萄牙语、罗马尼亚语、俄语、瑞典语、土耳其语、中文。
 
 ## 里程碑 II——报纸档案馆、图书馆和百科全书
 
@@ -235,19 +235,19 @@ _Urantiapedia Tools_ 中大型页面翻译器的开发 | :heavy_check_mark:
 
 内容 | 状态
 --- | ---
-:blue_book: _The Urantia Book_ 和 :ledger: _Paramony_ | :heavy_check_mark: （27 种语言版本）\[[1](#note1)\]
-:closed_book: 附有 :ledger: _Paramony_ 的《圣经》| :heavy_check_mark: （27 种语言版本）
+:blue_book: _The Urantia Book_ 和 :ledger: _Paramony_ | :heavy_check_mark: （28 种语言版本）\[[1](#note1)\]
+:closed_book: 附有 :ledger: _Paramony_ 的《圣经》| :heavy_check_mark: （28 种语言版本）
 _报纸图书馆_的第一个版本，包含 :page_with_curl: 文章和 :notebook: 学习辅助工具。| :heavy_check_mark: （英语、西班牙语、法语）
 图书馆的第一个版本，包含 :green_book: 主要宗教的书籍和 :books: 据称启示者使用的书籍。| :heavy_check_mark: （英语、西班牙语、法语）
 :card_index: _Encyclopedia_ | :heavy_check_mark: 的第一个版本（英语、西班牙语、法语）
-:sunrise_over_mountains: 图片（目前仅在《尤兰提亚之书》中）| :clock2:（27 种语言版本）
+:sunrise_over_mountains: 图片（目前仅在《尤兰提亚之书》中）| :clock2:（28 种语言版本）
 :earth_americas: _地图库_ | :clock2: （初步测试仅支持英语和西班牙语）
 :bar_chart: _媒体库_的演示文稿 | （尚未开始）
 :milky_way: _媒体库_的 3D 场景 | :clock2: （初始测试仅提供英文版）
 :sound: 《尤兰提亚之书》音频 | :heavy_check_mark: （德语、英语、西班牙语、法语、意大利语和葡萄牙语）
 :movie_camera: _媒体库_的视频目录 | （尚未开始）
 
-(<a id="note1">1</a>)每当列出27种语言时，它们分别是：阿拉伯语、保加利亚语、捷克语、丹麦语、德语、希腊语、英语、西班牙语、爱沙尼亚语、波斯语、芬兰语、法语、希伯来语、匈牙利语、印尼语、意大利语、日语、韩语、立陶宛语、荷兰语、波兰语、葡萄牙语、罗马尼亚语、俄语、瑞典语、土耳其语、中文。
+(<a id="note1">1</a>)凡提及的 28 种语言，分别是：阿拉伯语、保加利亚语、捷克语、丹麦语、德语、希腊语、英语、西班牙语、爱沙尼亚语、波斯语、芬兰语、法语、希伯来语、克罗地亚语、匈牙利语、印尼语、意大利语、日语、韩语、立陶宛语、荷兰语、波兰语、葡萄牙语、罗马尼亚语、俄语、瑞典语、土耳其语、中文。
 
 ## 外部链接
 

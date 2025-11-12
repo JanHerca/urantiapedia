@@ -112,6 +112,15 @@ class Book {
 			pars:'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['es-afse']
+		},
+		{
+			name: 'croatian',
+			paperTitle: 'h1',
+			secs: 'h2',
+			sec_exception: '* * *',
+			pars:'p',
+			titlesFile: /Index.htm/,
+			languages: ['hr']
 		}
 	];
 	footnotes = [];
