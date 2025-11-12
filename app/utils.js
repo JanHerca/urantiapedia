@@ -885,7 +885,7 @@ exports.getWikijsBookTitles = (papers, language) => {
 			return (
 				`  <div class="urantiapedia-column-${pi+1} pr-sm-5" ` +
 					`style="flex-basis:100%">\r\n` +
-				`    <p class="text-h4 font-weight-bold"> ${pt} </p>\r\n` +
+				`    <p class="text-h4 font-weight-bold text-break"> ${pt} </p>\r\n` +
 				'  </div>\r\n'
 			);
 		}).join('') +

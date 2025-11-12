@@ -342,6 +342,7 @@ Other special chars:
 - Subscript: H~2~O
 - Œ
 - §
+- ~~Tachado~~
 
 omissions in quotes:
 * english . . .
@@ -363,6 +364,8 @@ Unfortunately Pandoc cannot convert from pdf, only uses pdf as output.
   * https://pdf2md.morethan.io/
   * https://github.com/jzillmann/pdf-to-markdown
   * https://github.com/bsorrentino/pdf-tools
+* Convert pdf to markdown (best results, but paid app): 
+  * https://mathpix.com/
 * Convert pdf to markdown (really good results, export images): 
   * https://products.aspose.app/words/es/conversion/pdf-to-md
   * Previous product as API for creating our own apps (problem, this aPI is super expensive): https://github.com/aspose-words/Aspose.Words-for-.NET
