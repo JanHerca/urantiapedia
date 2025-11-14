@@ -2383,10 +2383,8 @@ class Book {
 			body1 += copyright;
 			body2 += copyright;
 			//Write top links
-			if (lan != 'en') {
-				body1 += getWikijsLinks('', indexLink1, '');
-				body2 += getWikijsLinks('', indexLink2, '');
-			}
+			body1 += getWikijsLinks('', indexLink1, '');
+			body2 += getWikijsLinks('', indexLink2, '');
 			//Write top buttons
 			if (multi) {
 				const buttons = getWikijsBookButtons(labels, lan, this.colors);

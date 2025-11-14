@@ -1075,14 +1075,12 @@ exports.getWikijsBookIndexLink = (language, isMultiple, isExtended) => {
 	const suffix = (isExtended ? '_Extended' : '');
 	const path2 = `/${language}/${bookName}${multiple}/Index${suffix}`;
 	const text2 = Strings[key][language];
-	if (language != 'en') {
-		html += (
-			`        <a href="${path2}">\r\n` +
-			`          <span class="mdi ${icon}"></span>` +
-				`<span class="pl-2">${text2}</span>\r\n` +
-			`        </a>\r\n`
-		);
-	}
+	html += (
+		`        <a href="${path2}">\r\n` +
+		`          <span class="mdi ${icon}"></span>` +
+			`<span class="pl-2">${text2}</span>\r\n` +
+		`        </a>\r\n`
+	);
 	return html;
 };
 
