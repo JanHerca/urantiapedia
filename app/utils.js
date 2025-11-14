@@ -1168,7 +1168,7 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 	const getExtended = (d) => {
 		const space = (isMultiple ? '    ' : '');
 		let h = `${space}<ul>\r\n`;
-		const suffix = (isMultiple && d.language != 'en' ? '_Multiple' : '');
+		const suffix = (isMultiple ? '_Multiple' : '');
 		const p = `/${d.language}/${ub}${suffix}/${index}`;
 		d.papers[index].sections.forEach(section => {
 			if (section.title) {
@@ -1214,7 +1214,7 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 				`<div class="d-sm-flex">\r\n` +
 				data.map((d, c) => {
 					const title = d.papers[index].title;
-					const suffix = (isMultiple && d.language != 'en' ? '_Multiple' : '');
+					const suffix = (isMultiple ? '_Multiple' : '');
 					const path = `/${d.language}/${ub}${suffix}/${index}`;
 					return (
 						`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
