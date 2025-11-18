@@ -27,6 +27,10 @@ All other versions have copyrights
 
 * Czech Bible Kralická (`Czech BK`) published in 1613
 
+## Croatian
+
+* `Croatian Bible by Ivan Šarić`, published in 1942, public domain
+
 ## Danish
 
 * `Danish Bible` published in 1933, under public domain
@@ -112,4 +116,5 @@ All other versions have copyrights
 
 ## Other
 
-https://en.wikipedia.org/wiki/List_of_Bible_translations_by_language
+* https://en.wikipedia.org/wiki/List_of_Bible_translations_by_language
+* https://www.wordproject.org/download/bibles/index.htm

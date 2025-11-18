@@ -247,7 +247,7 @@ class Bible {
 			// 	.find(c=>c.title === (chIndex + 1).toString());
 			const prevChapter = book.chapters[chIndex - 1];
 			const nextChapter = book.chapters[chIndex + 1];
-			const title = `"${navText} ${chapter.title}"`;
+			const title = `${navText} ${chapter.title}`;
 			const bookPath = book.path.startsWith('/' + this.language) ?
 				book.path : '/' + this.language + book.path;
 			const extraTag = (book_bibleref ? ['bible—' + book.titleEN.toLowerCase()] : []);

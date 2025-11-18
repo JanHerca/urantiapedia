@@ -620,6 +620,55 @@ GitHub > GitHub
 Blue Fields > Blue Fields
 Legal information > מידע משפטי
 
+## hr
+
+THE URANTIA BOOK > KNJIGA URANTIJE
+About the book > O knjizi
+Index > Indeks
+Index Extended > Prošireni indeks
+Search > Pretraživanje
+---
+THE BIBLE > _missing_
+About the Bible > _missing_
+Index > In_missing_dex
+Search > _missing_
+---
+BOOK LIBRARY > _missing_
+About the Library > _missing_
+Index > _missing_
+Search > _missing_
+---
+NEWSPAPER LIBRARY > ÚJSÁGKÖNYVTÁR
+About this Library > _missing_
+Articles > Cikkek
+Study aids > _missing_
+Search > _missing_
+---
+ENCYCLOPEDIA > _missing_
+About this Encyclopedia > _missing_
+Index of all entries > _missing_
+Persons index > _missing_
+Places index > _missing_
+Races index > _missing_
+Being orders > _missing_
+Religions index > _missing_
+Search > _missing_
+---
+MAPS & MEDIA LIBRARY > _missing_
+Diagrams > _missing_
+Presentations > _missing_
+Maps > _missing_
+3D Models > _missing_
+---
+---
+URANTIAPEDIA > URANTIAPEDIA
+Help > Pomoć
+News > Vijesti (_missing_)
+YouTube > YouTube
+GitHub > GitHub
+Blue Fields > Blue Fields
+Legal information > Pravne informacije
+
 ## hu
 
 THE URANTIA BOOK > AZ URANTIA KÖNYV
