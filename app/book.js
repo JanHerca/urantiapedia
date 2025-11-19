@@ -52,6 +52,7 @@ class Book {
 			name: 'greek',
 			paperTitle: 'h3',
 			secs: 'h4',
+			sec_exception: '* * *',
 			removeTagsInSecs: true,
 			pars: 'p',
 			titlesFile: /FM_Titles.htm/,
@@ -1447,7 +1448,7 @@ class Book {
 					const content = buf.toString();
 					try {
 						const $ = cheerio.load(content);
-						const authors = this.getAuthorsFromHTML($, config);
+						const authors = this.getAuthorsFromHTML($);
 						//Write authors
 						this.papers.forEach(p => p.author = authors[p.paper_index]);
 						resolve(null);
@@ -1506,16 +1507,17 @@ class Book {
 		return result;
 	};
 
-	getAuthorsFromHTML = ($, config) => {
+	getAuthorsFromHTML = ($) => {
+		const authorConfig = this.HTMLconfigs[0].authors;
 		let i, node, result = [], index, author;
-		if (!config.authors) return result;
-		const nodes = config.authors.map(a => $(a.item));
+		if (!authorConfig) return result;
+		const nodes = authorConfig.map(a => $(a.item));
 		const n = nodes.findIndex(nn => nn.length > 0);
 		if (n === -1) return result;
-		const indexsel = config.authors[n].index[0];
-		const indexpos = config.authors[n].index[1];
-		const authorsel = config.authors[n].author[0];
-		const authorpos = config.authors[n].author[1];
+		const indexsel = authorConfig[n].index[0];
+		const indexpos = authorConfig[n].index[1];
+		const authorsel = authorConfig[n].author[0];
+		const authorpos = authorConfig[n].author[1];
 		for (i = 0; i < nodes[n].length; i++) {
 			node = nodes[n][i];
 			index = $($(node).find(indexsel)[indexpos]).html();
