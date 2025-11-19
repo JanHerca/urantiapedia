@@ -2428,14 +2428,11 @@ class Book {
 				}
 			});
 
-
 			//Write bottom links
-			if (lan != 'en') {
-				body1 += '<br>\r\n';
-				body1 += getWikijsLinks('', indexLink1, '');
-				body2 += '<br>\r\n';
-				body2 += getWikijsLinks('', indexLink2, '');
-			}
+			body1 += '<br>\r\n';
+			body1 += getWikijsLinks('', indexLink1, '');
+			body2 += '<br>\r\n';
+			body2 += getWikijsLinks('', indexLink2, '');
 
 			if (errs.length > 0) {
 				reject(errs);

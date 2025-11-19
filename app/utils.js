@@ -1165,6 +1165,7 @@ exports.getWikijsBookIndexPartDesc = (data, index, isMultiple) => {
 exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 	let html = '';
 	const ub = Strings.bookName.en.replace(/\s/g, '_');
+	const isEven = index % 2 === 0;
 	const getExtended = (d) => {
 		const space = (isMultiple ? '    ' : '');
 		let h = `${space}<ul>\r\n`;
@@ -1229,11 +1230,22 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 	} else {
 		const pTitle = data[0].papers[index].title;
 		const pPath = `/${data[0].language}/${ub}/${index}`;
+		const pAuthor = data[0].papers[index].author;
 		if (isExtended) {
 			html += `<h3> ${pTitle} </h3>\r\n`;
 			html += getExtended(data[0]);
 		} else {
-			html += `  <li><a href="${pPath}">${pTitle}</a></li>\r\n`;
+			const even = isEven ? ' grey lighten-4' : '';
+			html += (
+				`  <div class="d-sm-flex mx-1 my-1 px-1 py-1${even}">\r\n` +
+				`    <div class="pr-sm-5" style="flex-basis:100%">\r\n` +
+				`      <span><a href="${pPath}">${pTitle}</a></span>\r\n` +
+				`    </div>\r\n` +
+				`    <div class="pr-sm-5 text-right" style="flex-basis:100%">\r\n` +
+				`      <span>${pAuthor}</span$>\r\n` +
+				`    </div>\r\n` +
+				`  </div>\r\n`
+			);
 		}
 	}
 	return html;
