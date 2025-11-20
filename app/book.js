@@ -121,7 +121,7 @@ class Book {
 			secs: 'h2',
 			sec_exception: '* * *',
 			pars:'p',
-			titlesFile: /Index.htm/,
+			titlesFile: /02-.+html/,
 			languages: ['hr']
 		}
 	];
