@@ -1,0 +1,188 @@
+---
+title: "Psalmi"
+description: 
+published: true
+date: 2021-12-08T13:55:38.362Z
+tags: 
+editor: markdown
+dateCreated: 2021-11-28T13:55:38.362Z
+---
+
+<div class="urantiapedia-book-front urantiapedia-book-bible">
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="102.6mm" height="136.8mm"
+	viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">BIBLIJA</text>
+		<text style="font-size:4px" x="61" y="125">Ivan Šarić, 1942</text>
+		<text style="font-size:9px" x="61" y="60">Psalmi</text>
+	</g>
+</svg>
+</div>
+
+## Opis
+
+Knjiga psalama (/sɑːmz/ SAHMZ ili /sɔː(l)mz/ SAW(L)MZ; hebrejski: תְּהִלִּים, Tehillim, doslovno „hvale“), također poznata kao Psalmi ili Psaltir, prva je knjiga Ketuvim („Spisa“), trećeg dijela Tanaha i knjige Starog zavjeta. Naslov je izveden iz grčkog prijevoda, ψαλμοί (psalmoi), što znači „instrumentalna glazba“ i, prošireno, „riječi koje prate glazbu“. Knjiga je antologija pojedinačnih hebrejskih vjerskih himni, sa 150 u židovskoj i zapadnokršćanskoj tradiciji i više u istočnokršćanskim crkvama. Mnoge se povezuju s imenom Davida, ali moderna znanost odbacuje njegovo autorstvo, umjesto toga pripisujući skladanje psalama raznim autorima koji su pisali između 9. i 5. stoljeća prije Krista.
+
+## Indeks
+
+- [Poglavlje 1](/hr/Bible/Psalms/1)
+- [Poglavlje 2](/hr/Bible/Psalms/2)
+- [Poglavlje 3](/hr/Bible/Psalms/3)
+- [Poglavlje 4](/hr/Bible/Psalms/4)
+- [Poglavlje 5](/hr/Bible/Psalms/5)
+- [Poglavlje 6](/hr/Bible/Psalms/6)
+- [Poglavlje 7](/hr/Bible/Psalms/7)
+- [Poglavlje 8](/hr/Bible/Psalms/8)
+- [Poglavlje 9](/hr/Bible/Psalms/9)
+- [Poglavlje 10](/hr/Bible/Psalms/10)
+- [Poglavlje 11](/hr/Bible/Psalms/11)
+- [Poglavlje 12](/hr/Bible/Psalms/12)
+- [Poglavlje 13](/hr/Bible/Psalms/13)
+- [Poglavlje 14](/hr/Bible/Psalms/14)
+- [Poglavlje 15](/hr/Bible/Psalms/15)
+- [Poglavlje 16](/hr/Bible/Psalms/16)
+- [Poglavlje 17](/hr/Bible/Psalms/17)
+- [Poglavlje 18](/hr/Bible/Psalms/18)
+- [Poglavlje 19](/hr/Bible/Psalms/19)
+- [Poglavlje 20](/hr/Bible/Psalms/20)
+- [Poglavlje 21](/hr/Bible/Psalms/21)
+- [Poglavlje 22](/hr/Bible/Psalms/22)
+- [Poglavlje 23](/hr/Bible/Psalms/23)
+- [Poglavlje 24](/hr/Bible/Psalms/24)
+- [Poglavlje 25](/hr/Bible/Psalms/25)
+- [Poglavlje 26](/hr/Bible/Psalms/26)
+- [Poglavlje 27](/hr/Bible/Psalms/27)
+- [Poglavlje 28](/hr/Bible/Psalms/28)
+- [Poglavlje 29](/hr/Bible/Psalms/29)
+- [Poglavlje 30](/hr/Bible/Psalms/30)
+- [Poglavlje 31](/hr/Bible/Psalms/31)
+- [Poglavlje 32](/hr/Bible/Psalms/32)
+- [Poglavlje 33](/hr/Bible/Psalms/33)
+- [Poglavlje 34](/hr/Bible/Psalms/34)
+- [Poglavlje 35](/hr/Bible/Psalms/35)
+- [Poglavlje 36](/hr/Bible/Psalms/36)
+- [Poglavlje 37](/hr/Bible/Psalms/37)
+- [Poglavlje 38](/hr/Bible/Psalms/38)
+- [Poglavlje 39](/hr/Bible/Psalms/39)
+- [Poglavlje 40](/hr/Bible/Psalms/40)
+- [Poglavlje 41](/hr/Bible/Psalms/41)
+- [Poglavlje 42](/hr/Bible/Psalms/42)
+- [Poglavlje 43](/hr/Bible/Psalms/43)
+- [Poglavlje 44](/hr/Bible/Psalms/44)
+- [Poglavlje 45](/hr/Bible/Psalms/45)
+- [Poglavlje 46](/hr/Bible/Psalms/46)
+- [Poglavlje 47](/hr/Bible/Psalms/47)
+- [Poglavlje 48](/hr/Bible/Psalms/48)
+- [Poglavlje 49](/hr/Bible/Psalms/49)
+- [Poglavlje 50](/hr/Bible/Psalms/50)
+- [Poglavlje 51](/hr/Bible/Psalms/51)
+- [Poglavlje 52](/hr/Bible/Psalms/52)
+- [Poglavlje 53](/hr/Bible/Psalms/53)
+- [Poglavlje 54](/hr/Bible/Psalms/54)
+- [Poglavlje 55](/hr/Bible/Psalms/55)
+- [Poglavlje 56](/hr/Bible/Psalms/56)
+- [Poglavlje 57](/hr/Bible/Psalms/57)
+- [Poglavlje 58](/hr/Bible/Psalms/58)
+- [Poglavlje 59](/hr/Bible/Psalms/59)
+- [Poglavlje 60](/hr/Bible/Psalms/60)
+- [Poglavlje 61](/hr/Bible/Psalms/61)
+- [Poglavlje 62](/hr/Bible/Psalms/62)
+- [Poglavlje 63](/hr/Bible/Psalms/63)
+- [Poglavlje 64](/hr/Bible/Psalms/64)
+- [Poglavlje 65](/hr/Bible/Psalms/65)
+- [Poglavlje 66](/hr/Bible/Psalms/66)
+- [Poglavlje 67](/hr/Bible/Psalms/67)
+- [Poglavlje 68](/hr/Bible/Psalms/68)
+- [Poglavlje 69](/hr/Bible/Psalms/69)
+- [Poglavlje 70](/hr/Bible/Psalms/70)
+- [Poglavlje 71](/hr/Bible/Psalms/71)
+- [Poglavlje 72](/hr/Bible/Psalms/72)
+- [Poglavlje 73](/hr/Bible/Psalms/73)
+- [Poglavlje 74](/hr/Bible/Psalms/74)
+- [Poglavlje 75](/hr/Bible/Psalms/75)
+- [Poglavlje 76](/hr/Bible/Psalms/76)
+- [Poglavlje 77](/hr/Bible/Psalms/77)
+- [Poglavlje 78](/hr/Bible/Psalms/78)
+- [Poglavlje 79](/hr/Bible/Psalms/79)
+- [Poglavlje 80](/hr/Bible/Psalms/80)
+- [Poglavlje 81](/hr/Bible/Psalms/81)
+- [Poglavlje 82](/hr/Bible/Psalms/82)
+- [Poglavlje 83](/hr/Bible/Psalms/83)
+- [Poglavlje 84](/hr/Bible/Psalms/84)
+- [Poglavlje 85](/hr/Bible/Psalms/85)
+- [Poglavlje 86](/hr/Bible/Psalms/86)
+- [Poglavlje 87](/hr/Bible/Psalms/87)
+- [Poglavlje 88](/hr/Bible/Psalms/88)
+- [Poglavlje 89](/hr/Bible/Psalms/89)
+- [Poglavlje 90](/hr/Bible/Psalms/90)
+- [Poglavlje 91](/hr/Bible/Psalms/91)
+- [Poglavlje 92](/hr/Bible/Psalms/92)
+- [Poglavlje 93](/hr/Bible/Psalms/93)
+- [Poglavlje 94](/hr/Bible/Psalms/94)
+- [Poglavlje 95](/hr/Bible/Psalms/95)
+- [Poglavlje 96](/hr/Bible/Psalms/96)
+- [Poglavlje 97](/hr/Bible/Psalms/97)
+- [Poglavlje 98](/hr/Bible/Psalms/98)
+- [Poglavlje 99](/hr/Bible/Psalms/99)
+- [Poglavlje 100](/hr/Bible/Psalms/100)
+- [Poglavlje 101](/hr/Bible/Psalms/101)
+- [Poglavlje 102](/hr/Bible/Psalms/102)
+- [Poglavlje 103](/hr/Bible/Psalms/103)
+- [Poglavlje 104](/hr/Bible/Psalms/104)
+- [Poglavlje 105](/hr/Bible/Psalms/105)
+- [Poglavlje 106](/hr/Bible/Psalms/106)
+- [Poglavlje 107](/hr/Bible/Psalms/107)
+- [Poglavlje 108](/hr/Bible/Psalms/108)
+- [Poglavlje 109](/hr/Bible/Psalms/109)
+- [Poglavlje 110](/hr/Bible/Psalms/110)
+- [Poglavlje 111](/hr/Bible/Psalms/111)
+- [Poglavlje 112](/hr/Bible/Psalms/112)
+- [Poglavlje 113](/hr/Bible/Psalms/113)
+- [Poglavlje 114](/hr/Bible/Psalms/114)
+- [Poglavlje 115](/hr/Bible/Psalms/115)
+- [Poglavlje 116](/hr/Bible/Psalms/116)
+- [Poglavlje 117](/hr/Bible/Psalms/117)
+- [Poglavlje 118](/hr/Bible/Psalms/118)
+- [Poglavlje 119](/hr/Bible/Psalms/119)
+- [Poglavlje 120](/hr/Bible/Psalms/120)
+- [Poglavlje 121](/hr/Bible/Psalms/121)
+- [Poglavlje 122](/hr/Bible/Psalms/122)
+- [Poglavlje 123](/hr/Bible/Psalms/123)
+- [Poglavlje 124](/hr/Bible/Psalms/124)
+- [Poglavlje 125](/hr/Bible/Psalms/125)
+- [Poglavlje 126](/hr/Bible/Psalms/126)
+- [Poglavlje 127](/hr/Bible/Psalms/127)
+- [Poglavlje 128](/hr/Bible/Psalms/128)
+- [Poglavlje 129](/hr/Bible/Psalms/129)
+- [Poglavlje 130](/hr/Bible/Psalms/130)
+- [Poglavlje 131](/hr/Bible/Psalms/131)
+- [Poglavlje 132](/hr/Bible/Psalms/132)
+- [Poglavlje 133](/hr/Bible/Psalms/133)
+- [Poglavlje 134](/hr/Bible/Psalms/134)
+- [Poglavlje 135](/hr/Bible/Psalms/135)
+- [Poglavlje 136](/hr/Bible/Psalms/136)
+- [Poglavlje 137](/hr/Bible/Psalms/137)
+- [Poglavlje 138](/hr/Bible/Psalms/138)
+- [Poglavlje 139](/hr/Bible/Psalms/139)
+- [Poglavlje 140](/hr/Bible/Psalms/140)
+- [Poglavlje 141](/hr/Bible/Psalms/141)
+- [Poglavlje 142](/hr/Bible/Psalms/142)
+- [Poglavlje 143](/hr/Bible/Psalms/143)
+- [Poglavlje 144](/hr/Bible/Psalms/144)
+- [Poglavlje 145](/hr/Bible/Psalms/145)
+- [Poglavlje 146](/hr/Bible/Psalms/146)
+- [Poglavlje 147](/hr/Bible/Psalms/147)
+- [Poglavlje 148](/hr/Bible/Psalms/148)
+- [Poglavlje 149](/hr/Bible/Psalms/149)
+- [Poglavlje 150](/hr/Bible/Psalms/150)
+
+
+[Potpuni indeks Biblije](/hr/index/bible)
+
+
+## Vanjske poveznice
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Psalms)
