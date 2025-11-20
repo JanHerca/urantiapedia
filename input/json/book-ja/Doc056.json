@@ -477,7 +477,7 @@
                 },
                 {
                     "par_ref": "56:10.22b",
-                    "par_pageref": "",
+                    "par_pageref": "b",
                     "par_content": "* * * * *",
                     "hide_ref": true
                 },
@@ -490,5 +490,6 @@
         }
     ],
     "footnotes": [],
-    "paper_title": "宇宙の統一"
+    "paper_title": "宇宙の統一",
+    "author": "強力な使者とメルキゼデクのマキヴェンタ"
 }
