@@ -62,6 +62,7 @@ class Book {
 			name: 'hebrew,japanese',
 			paperTitle: 'h1:last',
 			secs: 'h4',
+			sec_exception: '* * *',
 			pars: 'p',
 			titlesFile: /FM_Titles.htm/,
 			languages: ['he', 'ja']

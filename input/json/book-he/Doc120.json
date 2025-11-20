@@ -208,8 +208,8 @@
                 },
                 {
                     "par_ref": "120:3.11b",
-                    "par_pageref": "1330.6b",
-                    "par_content": "* * *",
+                    "par_pageref": "b",
+                    "par_content": "* * * * *",
                     "hide_ref": true
                 },
                 {
@@ -258,5 +258,6 @@
         }
     ],
     "footnotes": [],
-    "paper_title": "משימת המתת של מיכאל באורנטיה"
+    "paper_title": "משימת המתת של מיכאל באורנטיה",
+    "author": "מָנוּטִיָה מַלְכִּי־צֶדֶק"
 }

@@ -477,7 +477,7 @@
                 },
                 {
                     "par_ref": "31:10.21b",
-                    "par_pageref": "354.7b",
+                    "par_pageref": "b",
                     "par_content": "* * * * *",
                     "hide_ref": true
                 },
@@ -490,5 +490,6 @@
         }
     ],
     "footnotes": [],
-    "paper_title": "סגל הסוֹפיוֹנוּת"
+    "paper_title": "סגל הסוֹפיוֹנוּת",
+    "author": "יועץ אלוהי ואחד בלא שם ומספר"
 }
