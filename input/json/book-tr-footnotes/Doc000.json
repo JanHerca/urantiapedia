@@ -192,7 +192,7 @@
                 {
                     "par_ref": "0:2.3",
                     "par_pageref": "3.16",
-                    "par_content": "1. *Birey Öncesi* — Yaratıcı nüvesinin hizmetinde olarak, Düşünce Denetleyicisi buna örnek olarak gösterilebilir."
+                    "par_content": "1. *Birey Öncesi*  — Yaratıcı nüvesinin hizmetinde olarak, Düşünce Denetleyicisi buna örnek olarak gösterilebilir."
                 },
                 {
                     "par_ref": "0:2.4",
@@ -925,6 +925,11 @@
                     "par_content": "Âlemlerin filozofları *Kutsal Üçlemeler’in Üçleme’sini* bir varoluşçu-deneyimsel Sınırsızlığın Kutsal Üçlemesi olarak öne sürerler, fakat onlar bunun kişileştirilebileceğini tasavvur edemezler; muhtemel olarak onların kavramsal bakışı BEN’in kavramsal seviyesinde Kâinatın Yaratıcı’nın kişiliğine denk düşecektir. Fakat bütün bunlardan bağımsız olarak, özgün Cennetin Kutsal Üçlemesi Kâinatın Yaratıcı’nın mevcut sınırsızlığı sebebiyle potansiyel olarak sınırsızdır."
                 },
                 {
+                    "par_ref": "0:12.10",
+                    "par_pageref": "16.7",
+                    "par_content": "*Takdim*"
+                },
+                {
                     "par_ref": "0:12.11",
                     "par_pageref": "16.8",
                     "par_content": "Kâinatın Yaratıcısı’nın karakteri ve onun Cennet yardımcılarının betimlenmesi, bunlarla birlikte mükemmel ana evren ve onu çevreleyen yedi üstün evrenin tasvirine girişilmesine konu olan bu sunumların hazırlanmasında, aşkın âlemin emir altında bulunan yöneticileri tarafından tüm çabalarımızda gerçeği açığa çıkarmamız, esas bilgiyi düzenlememiz, bulunan en yüksek özneler ile ilişkili insan kavramlarının temsil etmemiz hususunda yönlendirildik. Biz ancak insan aklı tarafından yaratılmış denk herhangi bir tanımı olmadığı durumlarda saf vahiyin kendisini kullanmaya zorunlu hale gelebiliriz."
@@ -951,7 +956,7 @@
         "*Her şeyin yaratıcısı olarak Tanrı*: Yar 1:1-27; Yar 2:4-23; Çık 20:11; Neh 9:6; Mez 146:6; Yeş 42:5; Yer 51:15-16; Mar 13:19; Yu 1:1-3; Elç 4:24; Elç 14:15; Ef 3:9; Kol 1:16; 1 Pe 4:19; Esi 4:11; Esi 10:6. *Tanrı göğün, yerin Yaratıcısı olarak*: Çık 31:17; 2 Kr 19:15; 2 Ta 2:12; Mez 115:15-16; Mez 121:2; Mez 124:8; Mez 134:3; Yeş 37:16; Yeş 45:12-18; Yer 10:11-12; Yer 32:17; Esi 14:7. *Tanrı, erkeğin, kadının Yaratıcısı olarak*: Yar 5:1-2. *İnsanın yaratıcısı olarak Tanrı*: Sir 33:10; Mal 2:10. *Tanrı, yeryüzünün Yaratıcısı olarak*: Yeş 40:26,28; Amo 4:13. *Bilgeliğin yaratıcısı olarak Tanrı*: Sir 1:1-4; Bar 3:32-36. *Alemlerin Yaratıcısı olarak Tanrı*: İbr 1:2.",
         "*Denetleyici olarak Tanrı*: Eyü 38:1-39:30; Mez 104:1-32; Mez 148:6-12; Elç 14:15.",
         "*Koruyucu olarak Tanrı*: Mez 37:17,24; Mez 63:8; Mez 145:14; Yeş 41:10,13; İbr 1:3.",
-        "*Yüce Tanrı*: Mez 136:2-3; Dan 2:47; Dan 10:17; Jos 22:22; 1 Pe 2:13.",
+        "*Yüce Tanrı*: Mez 136:2-3; Dan 2:47; Dan 10:17; Yeşu 22:22; 1 Pe 2:13.",
         "*Sonsuz Tanrı*: Yas 33:27; Rom 1:20; 1 Ti 1:17.",
         "*BEN*: Çık 3:13-14.",
         "*Cennet*: Lu 23:43; 2 Ko 12:4; Esi 2:7.",
@@ -959,5 +964,6 @@
         "*Ruh ışığı*: Hez 7:55; Yeş 9:2; Mat 4:16; Mat 5:14-16; Lu 1:79; Lu 2:32; Yu 1:4-9; Yu 3:19-21; Yu 8:12; Yu 9:5; Yu 12:46; 1 Yu 1:5; 1 Yu 2:8.",
         "*Cennet üçlüsü*: Mat 28:19; Elç 2:32-33; 2 Ko 13:14; 1 Yu 5:7. *Paradise Trinity (Paul'ün erken görünümü)*: 1 Ko 12:4-6."
     ],
-    "paper_title": "Önsöz"
+    "paper_title": "Önsöz",
+    "author": "Kutsal Danışman"
 }
