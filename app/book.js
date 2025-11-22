@@ -2382,7 +2382,8 @@ class Book {
 						sections: paper.sections.map(s=> ({
 							index: s.section_index,
 							title: (s.section_title ?
-								replaceSpecialChars(s.section_title) : null)
+								replaceSpecialChars(s.section_title) : null),
+							subsections: s.subsections
 						})),
 						author: paper.author
 					}));

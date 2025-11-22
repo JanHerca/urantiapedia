@@ -1172,9 +1172,26 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 		const suffix = (isMultiple ? '_Multiple' : '');
 		const p = `/${d.language}/${ub}${suffix}/${index}`;
 		d.papers[index].sections.forEach(section => {
+			if (section.index === 0 && section.subsections) {
+				section.subsections.forEach((ss,j) => {
+					const isss2 = ss.startsWith('_');
+					const ss2 = ss.replace('_', '');
+					const margin = isss2 ? 'ml-4' : 'ml-2';
+					h += `${j == 0 ? '' : '<br>'}<span class="${margin}">${ss2}</span>`;
+				});
+			}
 			if (section.title) {
 				h += `${space}  <li><a href="${p}#p${section.index}">` +
-					`${section.title}</a></li>\r\n`;
+					`${section.title}</a>`;
+				if (section.subsections) {
+					section.subsections.forEach(ss => {
+						const isss2 = ss.startsWith('_');
+						const ss2 = ss.replace('_', '');
+						const margin = isss2 ? 'ml-4' : 'ml-2';
+						h += `<br><span class="${margin}">${ss2}</span>`;
+					});
+				}
+				h += `</li>\r\n`;
 			}
 		});
 		h += `${space}</ul>\r\n`;
