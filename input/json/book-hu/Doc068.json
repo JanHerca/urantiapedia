@@ -270,6 +270,12 @@
                     "par_pageref": "769.5",
                     "par_content": "Ma az ipar egészíti ki a mezőgazdaságot, melynek következtében a polgári osztályok nem mezőgazdaságból élő csoportjai városiasodnak és sokasodnak. Azonban az ipari korszak nem reménykedhet a túlélésben, ha a vezetői nem ismerik fel, hogy még a legmagasabb szintű társadalmi fejlődésnek is mindig egészséges mezőgazdasági alapon kell nyugodnia."
                 }
+            ],
+            "subsections": [
+                "(1) Gyűjtési szakasz",
+                "(2) Vadászati ​​szakasz",
+                "(3) Pásztorkodási szakasz",
+                "(4) Mezőgazdasági szakasz"
             ]
         },
         {
@@ -337,6 +343,9 @@
                     "par_pageref": "771.1",
                     "par_content": "[Közreadta az egykor az Urantián állomásozott Melkizedek.]"
                 }
+            ],
+            "subsections": [
+                "A föld-ember arány"
             ]
         }
     ],
