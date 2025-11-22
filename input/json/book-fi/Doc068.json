@@ -270,6 +270,12 @@
                     "par_pageref": "769.5",
                     "par_content": "Ja nyt teollisuus täydentää maanviljelyä, minkä seurauksena kaupungistuminen lisääntyy ja maataviljelemättömien kansalaisluokkien ryhmät moninkertaistuvat. Mutta teollisen kauden säilymisestä ei ole toivoa, elleivät sen johtajat tajua, että korkeimpienkin yhteiskunnallisten kehitystulosten on aina rakennuttava terveelle maatalouspohjalle."
                 }
+            ],
+            "subsections": [
+                "(1) Keräilyvaihe",
+                "(2) Metsästysvaihe",
+                "(3) Paimentolaisvaihe",
+                "(4) Maanviljelyvaihe"
             ]
         },
         {
@@ -337,6 +343,9 @@
                     "par_pageref": "771.1",
                     "par_content": "[Esittänyt muuan Melkisedek, jonka asemapaikka oli kerran Urantialla.]"
                 }
+            ],
+            "subsections": [
+                "Maan ja ihmisen suhde"
             ]
         }
     ],
