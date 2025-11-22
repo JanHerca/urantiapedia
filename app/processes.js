@@ -68,8 +68,10 @@ const Processes = {
 			en: "THE URANTIA BOOK: Convert Urantia Book (HTML) to JSON",
 			es: "EL LIBRO DE URANTIA: Convertir Libro de Urantia (HTML) a JSON"
 		},
-		controls: ['dirHTextbox', 'dirJTextbox'],
-		paths: [['input', 'html', 'book-{0}'], ['input', 'json', 'book-{0}']]
+		controls: ['dirHTextbox', 'dirJTextbox', 'fnTTextbox'],
+		paths: [['input', 'html', 'book-{0}'], 
+			['input', 'json', 'book-{0}'],
+			['input', 'txt', 'ub_subsections', 'ub_subsections_{0}.tsv']]
 	},
 	"BOOK_TEX_TO_JSON": {
 		active: false,

@@ -684,6 +684,7 @@ const handle_exeButtonClick = () => {
 		// Writes (*.json)
 		book.readFromHTML(htmlDir)
 			.then(() => book.readAuthorsFromHTML(htmlDir))
+			.then(() => book.readSubsections(txtFile))
 			.then(() => book.writeToJSON(jsonDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);

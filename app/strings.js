@@ -2109,6 +2109,15 @@ const Strings = {
 	"files_not_with_format": {
 		en: "Files with format {0} not found",
 	},
+	"subsections_no_lines": {
+		en: "Subsections file has no lines",
+	},
+	"subsections_no_values": {
+		en: "Subsections file missing values in line {0}",
+	},
+	"subsections_ref_invalid": {
+		en: "Subsections ref is not valid {0}",
+	},
 	"proccessing": {
 		en: "Proccessing file {0}",
 	},

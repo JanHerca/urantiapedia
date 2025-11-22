@@ -945,6 +945,50 @@ class Book {
 	};
 
 	//***********************************************************************
+	// TSV
+	//***********************************************************************
+
+	readSubsections = (filePath) => {
+		return new Promise((resolve, reject) => {
+			fs.readFile(filePath, (errFile, buf) => {
+				if (errFile) {
+					reject([errFile]);
+					return;
+				}
+				const lines = buf.toString().split('\n');
+				if (lines.length === 0) {
+					reject([this.getError('subsections_no_lines')]);
+					return;
+				}
+				lines.forEach((line, i) => {
+					//Skip first line
+					if (i === 0) return;
+					const [ref, texts] = line.trim().split('\t');
+					if (!ref || !texts) {
+						reject([this.getError('subsections_no_values', i)]);
+						return;
+					}
+					const [paperIndex, sectionIndex] = ref.split(':');
+					if (paperIndex == undefined || sectionIndex == undefined) {
+						reject([this.getError('subsections_no_values', i)]);
+						return;
+					}
+					const paper = this.papers
+						.find(p=>p.paper_index.toString() === paperIndex);
+					if (!paper) {
+						reject([this.getError('subsections_ref_invalid', ref)]);
+						return;
+					}
+					const section = paper.sections
+						.find(s=>s.section_ref === ref);
+					section.subsections = texts.split('|').map(t=>t.trim());
+				});
+				resolve(null);
+			});
+		});
+	}
+
+	//***********************************************************************
 	// JSON
 	//***********************************************************************
 
