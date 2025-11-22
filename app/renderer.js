@@ -679,8 +679,19 @@ const handle_exeButtonClick = () => {
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'BOOK_JSON_SUBSECTIONS_TSV_TO_JSON') {
+		// Reads UB (*.json) + 
+		// Reads Subsections (*.tsv) => 
+		// Writes (*.json)
+		book.readFromJSON(jsonDir)
+			.then(() => book.readSubsections(txtFile))
+			.then(() => book.writeToJSON(jsonDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'BOOK_HTML_TO_JSON') {
-		// Reads UB (*.html) => 
+		// Reads UB (*.html) +
+		// Reads authors (*.html) +
+		// Read subsections (*.tsv) => 
 		// Writes (*.json)
 		book.readFromHTML(htmlDir)
 			.then(() => book.readAuthorsFromHTML(htmlDir))

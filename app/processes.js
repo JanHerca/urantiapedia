@@ -62,6 +62,16 @@ const Processes = {
 		controls: ['dirJTextbox'],
 		paths: [['input', 'json', 'book-{0}']]
 	},
+	"BOOK_JSON_SUBSECTIONS_TSV_TO_JSON": {
+		active: true,
+		desc: {
+			en: "THE URANTIA BOOK: Update Subsections in Urantia Book (TSV) [Only Spanish]",
+			es: "EL LIBRO DE URANTIA: Actualizar Subsecciones en Libro de Urantia (TSV) [Sólo español]"
+		},
+		controls: ['dirJTextbox', 'fnTTextbox'],
+		paths: [['input', 'json', 'book-{0}'],
+			['input', 'txt', 'ub_subsections', 'ub_subsections_{0}.tsv']]
+	},
 	"BOOK_HTML_TO_JSON": {
 		active: true,
 		desc: {
