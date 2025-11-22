@@ -270,6 +270,12 @@
                     "par_pageref": "769.5",
                     "par_content": "Nüüd ilmus põllumajanduse täienduseks tööstuslik tootmine, tänu sellele kodanike klassid, kes ei tegelenud põllumajandusega, linnastusid ja suurenesid arvuliselt. Ent tööstuslik ajajärk ei saa püsima jääda, kui selle juhid ei mõista, et ka kõrgeimad sotsiaalsed arengud peavad alati põhinema tugeval põllumajandusel."
                 }
+            ],
+            "subsections": [
+                "(1) Kogumisetapp",
+                "(2) Jahipidamisetapp",
+                "(3) Karjakasvatuse etapp",
+                "(4) Põllumajanduse etapp"
             ]
         },
         {
@@ -337,6 +343,9 @@
                     "par_pageref": "771.1",
                     "par_content": "[Esitanud kunagi Urantial asunud Melkisedek.]"
                 }
+            ],
+            "subsections": [
+                "Maa ja inimese suhe"
             ]
         }
     ],
