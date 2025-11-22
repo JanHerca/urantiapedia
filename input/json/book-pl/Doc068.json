@@ -270,6 +270,12 @@
                     "par_pageref": "769.5",
                     "par_content": "Obecnie przemysł dołącza do rolnictwa, ze swoją konsekwentnie rozwijającą się urbanizacją i przyrostem nierolniczych grup obywateli. Jednak era industrialna nie ma szans przetrwania, jeśli przywódcy nie uznają, że nawet najwyższy rozwój społeczny nadal musi opierać się na solidnych, rolniczych podstawach."
                 }
+            ],
+            "subsections": [
+                "(1) Faza zbierania",
+                "(2) Faza polowania",
+                "(3) Faza pasterska",
+                "(4) Faza rolnicza"
             ]
         },
         {
@@ -337,6 +343,9 @@
                     "par_pageref": "771.1",
                     "par_content": "[Przedstawione przez Melchizedeka, przebywającego kiedyś na Urantii]."
                 }
+            ],
+            "subsections": [
+                "Stosunek powierzchni ziemi do liczby ludzi"
             ]
         }
     ],
