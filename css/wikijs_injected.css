@@ -3,6 +3,8 @@ Consider using custom themes if you have a large amount of css code.
 Injecting too much CSS code will result in poor page load performance! 
 CSS will automatically be minified. */
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap');
+
 .v-main .contents:not(.urantiapedia-full-width) {
     max-width: 1000px;
 }
@@ -346,6 +348,12 @@ CSS will automatically be minified. */
 }
 .v-main .contents .urantiapedia-book-zoroaster svg g rect:nth-child(2) {
     fill:#9dbfae;
+}
+/* Korean language support */
+.v-main .contents :lang(ko) {
+    font-family: "Noto Serif KR", "Batang", "Nanum Myeongjo", serif;
+    word-break: keep-all;
+    line-break: strict;
 }
 .v-main .contents u:lang(ko) {
     font-style: normal;
