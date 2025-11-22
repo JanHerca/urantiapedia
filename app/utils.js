@@ -1166,6 +1166,8 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 	let html = '';
 	const ub = Strings.bookName.en.replace(/\s/g, '_');
 	const isEven = index % 2 === 0;
+	const master = data.find(d => d.isMaster).papers[index];
+	const {title: mTitle, author: mAuthor} = master;
 	const getExtended = (d) => {
 		const space = (isMultiple ? '    ' : '');
 		let h = `${space}<ul>\r\n`;
@@ -1199,9 +1201,8 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 	};
 	if (isMultiple) {
 		if (isExtended) {
-			const mtitle = data.find(d => d.isMaster).papers[index].title;
 			html += `<h3 class="toc-header mt-0" ` +
-				`style="visibility: hidden; height: 2px;">${mtitle}</h3>\r\n`;
+				`style="visibility: hidden; height: 2px;">${mTitle}</h3>\r\n`;
 			html += (
 				`<div class="d-sm-flex">\r\n` +
 				data.map((d, c) => {
@@ -1237,7 +1238,12 @@ exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
 					return (
 						`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
 							`style="flex-basis:100%">\r\n` +
-						`    <p><a href="${path}">${title}</a></p>\r\n` +
+						`    <div class="pr-sm-5" style="flex-basis:100%">\r\n` +
+						`      <span><a href="${path}">${title}</a></span>\r\n` +
+						`    </div>\r\n` +
+						`    <div class="pr-sm-5 text-right" style="flex-basis:100%">\r\n` +
+						`      <span>${mAuthor}</span$>\r\n` +
+						`    </div>\r\n` +
 						`  </div>\r\n`
 					);
 				}).join('') +

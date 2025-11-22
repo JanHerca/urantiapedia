@@ -2360,7 +2360,11 @@ class Book {
 				: ["UF"];
 			const iparts = [0, 1, 2, 3, 4];
 			const idocs = [0, 1, 32, 57, 120];
-			const data = (books ? books : [this]).map(book => {
+			const bookArray = books ? books : [this];
+			const bookMaster = books 
+				? bookArray.find(b => b.isMaster) 
+				: bookArray[0];
+			const data = bookArray.map(book => {
 				const isMaster = (books ? book.isMaster : true);
 				const isExtra = (book.language != 'en' && !isMaster);
 				const key = book.language + (isExtra ? `${book.year}` : '');
@@ -2375,18 +2379,29 @@ class Book {
 				const tpapers = book.papers
 					.slice()
 					.sort((a, b) => a.paper_index - b.paper_index)
-					.map(paper => ({
-						index: paper.paper_index,
-						title: replaceSpecialChars(getBookPaperTitle(paper, 
-							book.language, false)),
-						sections: paper.sections.map(s=> ({
-							index: s.section_index,
-							title: (s.section_title ?
-								replaceSpecialChars(s.section_title) : null),
-							subsections: s.subsections
-						})),
-						author: paper.author
-					}));
+					.map(paper => {
+						const paperMaster = bookMaster.papers
+							.find(p=>p.paper_index === paper.paper_index);
+						return {
+							index: paper.paper_index,
+							title: replaceSpecialChars(getBookPaperTitle(paper, 
+								book.language, false)),
+							sections: paper.sections.map((s, k)=> {
+								const sectionMaster = paperMaster.sections[k];
+								return {
+									index: s.section_index,
+									title: (s.section_title ?
+										replaceSpecialChars(s.section_title) : null),
+									subsections: s.subsections
+										? s.subsections
+										: sectionMaster.subsections
+								};
+							}),
+							author: paper.author
+								? paper.author
+								: paperMaster.author
+						};
+					});
 				return {
 					language: book.language,
 					parts_titles: tparts,
