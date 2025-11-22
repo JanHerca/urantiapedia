@@ -270,6 +270,12 @@
                     "par_pageref": "",
                     "par_content": "Poljoprivredu danas zamijenjuje industrijski razvoj praćen sve većom urbanizacijom i uvećanjem broja nezemljoradničkih građanskih grupa. Ali industrijsko se doba ne može nadati opstanku ako njegove vođe ne spoznaju da čak i najviši društveni razvoj počiva na temeljima zdrave poljoprivrede."
                 }
+            ],
+            "subsections": [
+                "(1) Faza sakupljanja",
+                "(2) Faza lova",
+                "(3) Pastoralna faza",
+                "(4) Poljoprivredna faza"
             ]
         },
         {
@@ -337,6 +343,9 @@
                     "par_pageref": "",
                     "par_content": "[Predstavio MakiventaMelkizedek koji je nekoć prebivao na Urantiji.]"
                 }
+            ],
+            "subsections": [
+                "Omjer kopnenih i ljudskih resursa"
             ]
         }
     ],
