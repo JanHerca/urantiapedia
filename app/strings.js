@@ -1903,6 +1903,9 @@ const Strings = {
 	"bible_chapter_wrong_italics": {
 		en: "{0}, chapter {1}: Chapter has some wrong italics: {2}",
 	},
+	"bible_error": {
+		en: "Error in Bible: {0}"
+	},
 	"dir_no_access": {
 		en: "{0}, line {1}: Folder {0} not accessible",
 	},

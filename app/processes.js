@@ -307,6 +307,20 @@ const Processes = {
 		controls: ['dirTTextbox'],
 		paths: [['output', 'wikijs', '{0}', 'Bible']]
 	},
+	"BIBLE_TEX_CHECK": {
+		active: true,
+		desc: {
+			en: "BIBLE: Check Bible (LaTeX) comparing with English",
+			es: "BIBLIA: Comprobar Biblia (LaTeX) comparando con el inglés"
+		},
+		controls: ['dirLTextbox', 'dirTTextbox'],
+		paths: [['input', 'tex', 'bible-{0}', '{extraPath}'],
+			['input', 'tex', 'bible-en', 'ASV']],
+		extraPath: {
+			en: 'ASV',
+			es: 'RV1960'
+		}
+	},
 	"TOPICS_TXT_TO_MEDIAWIKI": {
 		active: false,
 		desc: {

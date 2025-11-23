@@ -69,6 +69,17 @@ Italic inside words `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | `
 `## JE` | `## I`
 `<span id="([^"]+)">\[<sup><small>([^<]+)</small></sup>\]</span>` | `<span id="$1"><sup><small>[ $2 ]</small></sup></span>`
 
+### Bible LaTeX
+
+Origin | Fix
+--- | ---
+Before translation | &nbsp;
+`^\\` | `%\`
+`par (\d+) ` | `par{$1}\n`
+After translation | &nbsp;
+`%\\par\{(\d+)\}\n` | `\par $1 `
+`^%\\` | `\`
+
 ### After translation with Google Translator of Markdown articles to Spanish 
 
 Origin | Fix

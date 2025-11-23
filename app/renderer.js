@@ -46,6 +46,7 @@ const bookEN = new Book();
 const paramony = new Paramony();
 const paralells = new Paralells();
 const bible = new Bible();
+const bible2 = new Bible();
 const bibleref = new BibleRef();
 const topicindex = new TopicIndex();
 const topicindex2 = new TopicIndex();
@@ -957,10 +958,18 @@ const handle_exeButtonClick = () => {
 		bible.updateWikijsTitles(txtDir)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'BIBLE_TEX_CHECK') {
+		// Reads Bible pages (cuurent and English) (*.tex)
+		// Compares
+		bible.readFromLaTeX(latexDir)
+			.then(() => bible2.readFromLaTeX(txtDir))
+			.then (() => bible.compare(bible2))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'TOPICS_TXT_TO_MEDIAWIKI') {
 		// Reads TopicIndex (*.txt) => 
 		// Writes (*.wiki)
-		topicindex.readFromTXT(txtDir, category, letter)
+		topicindex.readFromTXT(latexDir, category, letter)
 			.then(() => topicindex.writeToWikiText(wikiDir))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);

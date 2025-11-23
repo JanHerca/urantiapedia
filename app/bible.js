@@ -43,6 +43,29 @@ class Bible {
 		this.language = language;
 	};
 
+	/**
+	 * Compares two Bibles to see if any verse or chapter is missing.
+	 * @param {Bible} bible Bible to use for comparison with this.
+	 * @return {Promise} An array of errors.
+	 */
+	compare = (bible) => {
+		return new Promise((resolve, reject) => {
+			const errors = [];
+			const addErr = (msg) => 
+				errors.push(this.getError('bible_error', msg));
+			bible.biblebooks.forEach(book => {
+				const book2 = this.biblebooks
+					.find(b => b.titleEN === book.title);
+				if (!book2) {
+					addErr(`Book ${book.title} not found`);
+					return;
+				}
+			});
+			if (errors.length > 0) reject(errors);
+			else resolve(null);
+		});
+	}
+
 	//***********************************************************************
 	// LaTeX
 	//***********************************************************************
