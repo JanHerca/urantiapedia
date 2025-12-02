@@ -138,7 +138,7 @@ Get-ChildItem -Filter '*.png' | ForEach-Object {
 - 包含序言的页面的`Preface`（如果有）将保留为`Preface.md`。
 - 附录应命名为`Appendix_xx`，其中`xx`跟在 1 到 N 的数字后面。
 
-> 许多圣经书籍的章节文件都是 HTML 格式而非 Markdown 格式，因为它们是由项目内 `/input/tex` 目录下的 LaTeX 格式文件生成的。这种自动化操作的原因是，许多此类书籍是通过 [e-Sword](https://www.e-sword.net/) 软件导出的，该软件生成的内容类似于 LaTeX。此操作的详细说明请参阅手册中的 [获取圣经](/zh/help/github_bible) 部分。目前已针对支持的 27 种语言完成了此操作。
+> 许多圣经书籍的章节文件都是 HTML 格式而非 Markdown 格式，因为它们是由项目内 `/input/tex` 目录下的 LaTeX 格式文件生成的。这种自动化操作的原因是，许多此类书籍是通过 [e-Sword](https://www.e-sword.net/) 软件导出的，该软件生成的内容类似于 LaTeX。此操作的详细说明请参阅手册中的 [获取圣经](/zh/help/github_bible) 部分。目前已针对支持的 28 种语言完成了此操作。
 > 未从 e-Sword 获得的圣经以外的书籍将按照本页详述的手动流程以 Markdown 格式添加。
 {.is-warning}
 

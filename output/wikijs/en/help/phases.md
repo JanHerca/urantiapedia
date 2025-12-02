@@ -38,7 +38,7 @@ Conversion of each *Urantia Book* paper to a page with links to the *Bible* | Gi
 Conversion of each *Bible* chapter in a page with links to *The Urantia Book* | GitHub | Editors-in-Chief
 Bulk load of files in Wiki.js format | GitHub | administrators
 
-> This phase is completed for 27 languages.
+> This phase is completed for 28 languages.
 {.is-success}
 
 ## Milestone II - Newspaper Library, Urantia Library and Encyclopedia

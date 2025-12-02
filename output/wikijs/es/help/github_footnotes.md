@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarea ya está actualmente terminada y cerrada para los 27 idiomas disponibles.
+> Esta tarea ya está actualmente terminada y cerrada para los 28 idiomas disponibles.
 {.is-info}
 
 ## Antiguo procedimiento (obsoleto)

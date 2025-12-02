@@ -31,7 +31,7 @@ A lista da tabela oferece o nome do projeto que consideramos de grande interesse
 Projeto | Produtor | Urântiapédia
 --- | --- | ---
 **_LIVRO DE URÂNTIA_**: | &nbsp; | &nbsp;
-_O Livro de Urântia_ | Fundação Urântia | Adicionadas 25/27 traduções: +1:
+_O Livro de Urântia_ | Fundação Urântia | Adicionadas 28 traduções: +1:
 _Versão resumida e ilustrada do Livro de Urântia_ | (nunca foi feito) | ---
 _Versão web ilustrada do Livro de Urântia_ [^2] | **Urantiapédia** | Em andamento :construção:
 _Audiolivro do Livro de Urântia_ | Fundação Urântia (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR` ) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Adicionado em 9 idiomas: +1:
@@ -39,7 +39,7 @@ _Audiolivro do Livro de Urântia_ | Fundação Urântia (`DE`, `EN`, `ES`, `ET`,
 _Índice Temático_ | Harry McMullan (`EN`) | ---
 **REFERÊNCIAS CRUZADAS**: | &nbsp; | &nbsp;
 _Concordex_ | Clyde Bedell (`EN`) | ---
-_Paramony_, Referências Cruzadas ao _Livro de Urântia_ e à _Bíblia_ | Duane Faw (`EN`) | Adicionado com tradução para 25/27 idiomas:+1:
+_Paramony_, Referências Cruzadas ao _Livro de Urântia_ e à _Bíblia_ | Duane Faw (`EN`) | Adicionado com tradução para 28 idiomas:+1:
 Referências Cruzadas do _Livro de Urântia_ e do _Alcorão_ | Omar Delgado e outros (`ES`) | Em andamento em 3 idiomas:construção:
 Referências cruzadas ao _Livro de Urântia_ e outros livros suspeitos de serem usados ​​por reveladores | Matthew Block e outros (`EN`) | Em andamento em 3 idiomas:construção:
 **HEMEROTECA**: | &nbsp; | &nbsp;

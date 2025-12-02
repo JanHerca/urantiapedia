@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Cette tâche est actuellement terminée et fermée pour les 27 langues disponibles.
+> Cette tâche est actuellement terminée et fermée pour les 28 langues disponibles.
 {.is-info}
 
 *Les fichiers du Livre d'Urantia* au format JSON avec les notes de bas de page sont générés avec l'outil *Mise à jour des références bibliques dans le Livre d'Urantia (JSON)*, comme nous l'avons déjà vu, et les fichiers résultants sont enregistrés dans `input folders / json / book-xx-footnotes`.

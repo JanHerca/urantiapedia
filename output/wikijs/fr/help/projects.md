@@ -31,7 +31,7 @@ La liste du tableau propose le nom du projet que nous considérons d'un grand in
 Projet | Producteur | Urantiapédia 
 --- | --- | --- 
 **_LE LIVRE D'URANTIA_** : | &nbsp; | &nbsp; 
-_Le Livre d'Urantia_ | Fondation Urantia | Ajout de 25/27 traductions :+1 : 
+_Le Livre d'Urantia_ | Fondation Urantia | Ajout de 28 traductions :+1 : 
 _Version abrégée et illustrée du Livre d'Urantia_ | (jamais fait) | --- 
 _Version web illustrée du Livre d'Urantia_ [^2] | **Urantiapédia** | En cours :construction : 
 _Livre audio du Livre d'Urantia_ | Fondation Urantia (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR` ) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Ajouté en 9 langues :+1 : 
@@ -39,7 +39,7 @@ _Livre audio du Livre d'Urantia_ | Fondation Urantia (`DE`, `EN`, `ES`, `ET`, `H
 _Index thématique_ | Harry McMullan (`EN`) | --- 
 **RÉFÉRENCES CROISÉES** : | &nbsp; | &nbsp; 
 _Concordex_ | Clyde Bedell (`EN`) | --- 
-_Paramony_, références croisées au _Le Livre d'Urantia_ et à la _Bible_ | Duane Faw (`EN`) | Ajouté avec traduction en 25/27 langues :+1 : 
+_Paramony_, références croisées au _Le Livre d'Urantia_ et à la _Bible_ | Duane Faw (`EN`) | Ajouté avec traduction en 28 langues :+1 : 
 Références croisées du _Le Livre d'Urantia_ et du _Quran_ | Omar Delgado et autres (`ES`) | En cours en 3 langues :construction : 
 Références croisées au _Le Livre d'Urantia_ et à d'autres livres soupçonnés d'être utilisés par les développeurs | Matthew Block et autres (`EN`) | En cours en 3 langues :construction : 
 **HEMEROTECA** : | &nbsp; | &nbsp; 

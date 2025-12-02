@@ -38,7 +38,7 @@ Conversion de chaque article du *Livre d'Urantia* en une page avec des liens ver
 Conversion de chaque chapitre de la *Bible* en une page avec des liens vers *Le Livre d'Urantia* | GitHub | Rédacteurs en chef
 Chargement en masse de fichiers au format Wiki.js | GitHub | Administrateurs
 
-> Cette phase est réalisée pour 27 langues.
+> Cette phase est réalisée pour 28 langues.
 {.is-success}
 
 ## Étape II - Hémérothèque, Bibliothèque et Encyclopédie

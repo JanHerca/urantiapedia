@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:09:29.761Z
 项目 | 制作人 | Urantiapedia
 --- | --- | ---
 **《尤兰提亚之书》**: | &nbsp; | &nbsp;
-《尤兰提亚之书》| 尤兰提亚基金会 | 新增 25 / 27 个译文 :+1:
+《尤兰提亚之书》| 尤兰提亚基金会 | 新增 28 个译文 :+1:
 _《尤兰提亚之书》删节版和插图版_ | （从未完成）| ---
 _《尤兰提亚之书》插图网络版_ [^2] | **Urantiapedia** | 正在建设中：建设中：
 _Urantia 书有声读物_ | Urantia 基金会 (`DE`、`EN`、`ES`、`ET`、`HU`、`FI`、`FR`、`IT`、`NL`、`PL`、`PT`、`TR`) / **Urantiapedia** (`DE`、`ES`、`FR`、`IT`、`JA`、`KO`、`NL`、`PT`) |添加了 9 种语言 ​​:+1：
@@ -39,7 +39,7 @@ _Urantia 书有声读物_ | Urantia 基金会 (`DE`、`EN`、`ES`、`ET`、`HU`�
 _主题索引_ | Harry McMullan (`EN`) | ---
 **交叉引用**: | &nbsp; | &nbsp;
 _Concordex_ |克莱德·比德尔 (`EN`) | ---
-_Paramony_，《尤兰提亚之书》和《圣经》的交叉引用 | Duane Faw (`EN`) | 已添加 25 / 27 种语言的翻译 ​​:+1:
+_Paramony_，《尤兰提亚之书》和《圣经》的交叉引用 | Duane Faw (`EN`) | 已添加 28 种语言的翻译 ​​:+1:
 《尤兰提亚之书》与《古兰经》的交叉引用 | Omar Delgado 等 (`ES`) | 三种语言版本正在开发中 :construction:
 交叉引用《尤兰提亚之书》及其他疑似被启示者使用的书籍 | 马修·布洛克 (Matthew Block) 等人 (`EN`) | 三种语言版本正在开发中 :construction:
 **报纸档案**: | &nbsp; | &nbsp;

@@ -31,7 +31,7 @@ The list in the table offers the name of the project that we consider of great i
 Project | Producer | Urantiapedia
 --- | --- | ---
 **_THE URANTIA BOOK_**: | &nbsp; | &nbsp;
-_The Urantia Book_ | Urantia Foundation | 25 / 27 translations added :+1:
+_The Urantia Book_ | Urantia Foundation | 28 translations added :+1:
 _Abridged and illustrated version of The Urantia Book_ | (never done) | ---
 _Illustrated web version of The Urantia Book_ [^2] | **Urantiapedia** | In progress :construction:
 _The Urantia Book Audiobook_ | Urantia Foundation (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR`) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Added in 9 languages ​​:+1:
@@ -39,7 +39,7 @@ _The Urantia Book Audiobook_ | Urantia Foundation (`DE`, `EN`, `ES`, `ET`, `HU`,
 _Topic Index_ | Harry McMullan (`EN`) | ---
 **CROSS REFERENCES**: | &nbsp; | &nbsp;
 _Concordex_ | Clyde Bedell (`EN`) | ---
-_Paramony_, Cross-References of _The Urantia Book_ and the _Bible_ | Duane Faw (`EN`) | Added with translation to 25 / 27 languages ​​:+1:
+_Paramony_, Cross-References of _The Urantia Book_ and the _Bible_ | Duane Faw (`EN`) | Added with translation to 28 languages ​​:+1:
 Cross-references of _The Urantia Book_ and the _Quran_ | Omar Delgado and others (`ES`) | In progress in 3 languages ​​:construction:
 Cross-references to _The Urantia Book_ and other books suspected of being used by revelators | Matthew Block and others (`EN`) | In progress in 3 languages ​​:construction:
 **NEWSPAPER ARCHIVE**: | &nbsp; | &nbsp;

@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> This task is currently ended and closed for the 27 languages available.
+> This task is currently ended and closed for the 28 languages available.
 {.is-info}
 
 The input files in HTML format must be in the `input / html / book-xx` folders, where `xx` are the two letters of the language (`es` = Spanish, `en` = English, etc.)
@@ -31,7 +31,7 @@ Once the files have been downloaded from the *Urantia Foundation* website, there
 
 Since in HTML format *The Urantia Book* can adopt different HTML tags for what is considered the title of the document, the title of a section, etc., in the app that performs the conversion may be necessary to include some changes when adding a new language. This work will be done by the *developer* users, in charge of the development of the *Urantiapedia Tools*. This software is developed in Javascript and the code is in the `app` folder of the project.
 
-Files for a total of 27 languages ​​are currently available: Arabic (`book-ar`), Bulgarian (`book-bg`), Czech (` book-cs`), Danish (`book-da`), German (` book-de`), Greek (`book- el`), English (`book-en`), Spanish (` book-es`, `book-es-1993` and soon` book-es-2021`), Estonian (`book-et`), Farsi (`book-fa`), Finnish (` book-fi`), French (`book-fr`), Hebrew (` book-he`), Hungarian (`book-hu`), Indonesian (` book-id `), Italian (` book-it`), Japanese (`book-ja`), Korean (` book-ko`), Lithuanian (`book-lt`), Dutch (` book-nl`), Polish ( `book-pl`), Portuguese (` book-pt`), Romanian (`book-ro`), Russian (` book-ru`), Swedish (`book-sv`), Turkish (`book-tr`) and Chinese (`book-zh`). These files have already been modified and processed so that the JSON conversion program works correctly with them, and the resulting JSON files are also available.
+Files for a total of 28 languages ​​are currently available: Arabic (`book-ar`), Bulgarian (`book-bg`), Czech (` book-cs`), Danish (`book-da`), German (` book-de`), Greek (`book- el`), English (`book-en`), Spanish (` book-es`, `book-es-1993` and soon` book-es-2021`), Estonian (`book-et`), Farsi (`book-fa`), Finnish (` book-fi`), French (`book-fr`), Hebrew (` book-he`), Hungarian (`book-hu`), Indonesian (` book-id `), Italian (` book-it`), Japanese (`book-ja`), Korean (` book-ko`), Lithuanian (`book-lt`), Dutch (` book-nl`), Polish ( `book-pl`), Portuguese (` book-pt`), Romanian (`book-ro`), Russian (` book-ru`), Swedish (`book-sv`), Turkish (`book-tr`) and Chinese (`book-zh`). These files have already been modified and processed so that the JSON conversion program works correctly with them, and the resulting JSON files are also available.
 
 Farsi translation is currently in process and not all documents are available.
 

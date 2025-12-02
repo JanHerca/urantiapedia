@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarea ya está actualmente terminada y cerrada para los 27 idiomas disponibles.
+> Esta tarea ya está actualmente terminada y cerrada para los 28 idiomas disponibles.
 {.is-info}
 
 Una buena fuente para obtener traducciones de *La Biblia* que además estén libres de derechos de autor es utilizar el software [e-Sword](https://www.e-sword.net/), una aplicación gratuita que permite descargar traducciones de *La Biblia* en diferentes idiomas y luego exportar o copiar su contenido a otros archivos.

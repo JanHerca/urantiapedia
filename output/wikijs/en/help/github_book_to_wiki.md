@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> This task is currently ended and closed for the 27 languages available.
+> This task is currently ended and closed for the 28 languages available.
 {.is-info}
 
 *The Urantia Book* files in JSON format with the footnotes are generated with the *Update Bible Refs in Urantia Book (JSON)* tool, as we have already seen, and the resulting files are saved in `input folders / json / book-xx-footnotes`.

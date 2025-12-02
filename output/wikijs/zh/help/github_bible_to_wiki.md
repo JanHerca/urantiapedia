@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> 此任务目前已结束，并关闭了 27 种可用语言。
+> 此任务目前已结束，并关闭了 28 种可用语言。
 {.is-info}
 
 必须在诸如`input / text / bible-xx`之类的文件夹中创建 LaTeX 格式的 *Bible* 文件，其中`xx`是目标语言的代码。

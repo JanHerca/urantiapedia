@@ -138,7 +138,7 @@ Get-ChildItem -Filter '*.png' | ForEach-Object {
 - 서문이 포함된 페이지가 있는 경우, 해당 페이지의 `Preface`는 `Preface.md`로 남습니다.
 - 부록의 이름은 `Appendix_xx`로 지정해야 하며, `xx` 뒤에 1부터 N까지의 번호가 붙습니다.
 
-> 많은 성경 책의 경우, 각 장이 포함된 파일은 Markdown이 아닌 HTML 형식입니다. 이는 프로젝트 내의 `/input/tex`에 있는 LaTeX 파일에서 생성되었기 때문입니다. 이러한 자동화는 이러한 책들 중 상당수가 LaTeX와 유사한 콘텐츠를 생성하는 소프트웨어 [e-Sword](https://www.e-sword.net/)에서 내보내어 얻었기 때문입니다. 이 작업은 매뉴얼의 [성경 다운로드](/ko/help/github_bible) 섹션에 자세히 설명되어 있습니다. 이 작업은 현재 지원되는 27개 언어에 대해 완료되었습니다.
+> 많은 성경 책의 경우, 각 장이 포함된 파일은 Markdown이 아닌 HTML 형식입니다. 이는 프로젝트 내의 `/input/tex`에 있는 LaTeX 파일에서 생성되었기 때문입니다. 이러한 자동화는 이러한 책들 중 상당수가 LaTeX와 유사한 콘텐츠를 생성하는 소프트웨어 [e-Sword](https://www.e-sword.net/)에서 내보내어 얻었기 때문입니다. 이 작업은 매뉴얼의 [성경 다운로드](/ko/help/github_bible) 섹션에 자세히 설명되어 있습니다. 이 작업은 현재 지원되는 28개 언어에 대해 완료되었습니다.
 > e-Sword에서 얻지 못한 성경 외의 책은 이 페이지에 자세히 설명된 수동 프로세스에 따라 Markdown 형식으로 추가됩니다.
 {.is-warning}
 

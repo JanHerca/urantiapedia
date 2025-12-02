@@ -38,7 +38,7 @@ https://urantia-book.org/urantiabook/paramony/
 将《圣经》的每一章转换成一个页面，并链接到《尤兰提亚之书》| GitHub | 主编
 批量加载 Wiki.js 格式的文件 | GitHub | 管理员
 
-> 此阶段已完成 27 种语言的翻译。
+> 此阶段已完成 28 种语言的翻译。
 {.is-success}
 
 ## 里程碑 II - 报纸图书馆、尤兰提亚图书馆和百科全书

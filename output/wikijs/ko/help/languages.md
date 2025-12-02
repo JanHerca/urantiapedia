@@ -52,6 +52,7 @@ pt | 포르투갈 인 | O Livro de Urântia
 ro | 루마니아 사람 | Cartea Urantia
 ru | 러시아인 | Книга Урантии
 sv | 스웨덴어 | Urantiaboken
+tr | 터키어 | Urantia’nın Kitabı
 zh | 중국인 | 玉苒厦之书
 
 언어 코드는 각 언어마다 두 글자를 사용하는 ISO 639-1 표준을 따라야 합니다. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
@@ -90,7 +91,8 @@ pt | 포르투갈 인 | «...» & “...” | “...” & ‘...’
 ro | 루마니아 사람 | „...” & «...» | 
 ru | 러시아인 | «...» & „...“ | “...” & ‘...’
 sv | 스웨덴어 | ”...” & ’...’ | »...» »...« & ’...’
-ar | 중국인 | «...» | “...”
+tr | 터키어 | “...” ‘...’ | «...» ‹...›
+zh | 중국인 | “...” & ‘...’ | 「...」 & 『...』
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

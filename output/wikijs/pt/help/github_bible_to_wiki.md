@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarefa está atualmente encerrada e fechada para os 27 idiomas disponíveis.
+> Esta tarefa está atualmente encerrada e fechada para os 28 idiomas disponíveis.
 {.is-info}
 
 Os arquivos *Bíblia* no formato LaTeX devem ter sido criados em pastas como `input /text / bible-xx` onde `xx` é o código do idioma de destino.

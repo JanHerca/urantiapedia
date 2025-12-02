@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Esta tarefa está atualmente encerrada e fechada para os 27 idiomas disponíveis.
+> Esta tarefa está atualmente encerrada e fechada para os 28 idiomas disponíveis.
 {.is-info}
 
 Os arquivos do *Livro de Urântia* no formato JSON com as notas de rodapé são gerados com a ferramenta *Update Bible Refs in Urantia Book (JSON)*, como já vimos, e os arquivos resultantes são salvos em `input folders / json / book- xx-footnotes`.

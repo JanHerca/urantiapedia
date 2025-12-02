@@ -628,10 +628,10 @@ Index > Indeks
 Index Extended > Prošireni indeks
 Search > Pretraživanje
 ---
-THE BIBLE > _missing_
-About the Bible > _missing_
-Index > In_missing_dex
-Search > _missing_
+THE BIBLE > BIBLIJA
+About the Bible > O Bibliji
+Index > Indeks
+Search > Pretraživanje
 ---
 BOOK LIBRARY > _missing_
 About the Library > _missing_

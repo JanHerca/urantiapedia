@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> 此任务目前已结束，并针对 27 种可用语言关闭。
+> 此任务目前已结束，并针对 28 种可用语言关闭。
 {.is-info}
 
 HTML 格式的输入文件必须位于 `input / html / book-xx` 文件夹中，其中 `xx` 是语言的两个字母（`es` = 西班牙语，`en` = 英语，等等）。
@@ -31,7 +31,7 @@ HTML 格式的输入文件必须位于 `input / html / book-xx` 文件夹中，�
 
 由于 HTML 格式的《尤兰提亚之书》可能采用不同的 HTML 标签来表示文档标题、章节标题等，因此在执行转换的应用程序中，添加新语言时可能需要进行一些更改。这项工作将由负责开发“尤兰提亚百科工具”的“开发者”用户完成。该软件使用 Javascript 开发，代码位于项目的“app”文件夹中。
 
-目前共有 27 种语言的文件可用：阿拉伯语（`book-ar`）、保加利亚语（`book-bg`）、捷克语（`book-cs`）、丹麦语（`book-da`）、德语（`book-de`）、希腊语（`book-el`）、英语（`book-en`）、西班牙语（`book-es`、`book-es-1993` 和即将推出的 `book-es-2021`）、爱沙尼亚语（`book-et`）、波斯语（`book-fa`）、芬兰语（`book-fi`）、法语（`book-fr`）、希伯来语（`book-he`）、匈牙利语（`book-hu`）、印尼语（`book-id`）、意大利语（`book-it`）、日语（`book-ja`）、韩语（`book-ko`）、立陶宛语（`book-lt`）、荷兰语（`book-nl`）、波兰语（`book-pl`）、葡萄牙语（`book-pt`）、罗马尼亚语（`book-ro`）、俄语（`book-ru`），瑞典语（`book-sv`）、土耳其语（`book-tr`）和中文（`book-zh`）。这些文件已修改并处理，以便 JSON 转换程序能够正确处理它们，并且生成的 JSON 文件也可供使用。
+目前共有 28 种语言的文件可用：阿拉伯语（`book-ar`）、保加利亚语（`book-bg`）、捷克语（`book-cs`）、丹麦语（`book-da`）、德语（`book-de`）、希腊语（`book-el`）、英语（`book-en`）、西班牙语（`book-es`、`book-es-1993` 和即将推出的 `book-es-2021`）、爱沙尼亚语（`book-et`）、波斯语（`book-fa`）、芬兰语（`book-fi`）、法语（`book-fr`）、希伯来语（`book-he`）、匈牙利语（`book-hu`）、印尼语（`book-id`）、意大利语（`book-it`）、日语（`book-ja`）、韩语（`book-ko`）、立陶宛语（`book-lt`）、荷兰语（`book-nl`）、波兰语（`book-pl`）、葡萄牙语（`book-pt`）、罗马尼亚语（`book-ro`）、俄语（`book-ru`），瑞典语（`book-sv`）、土耳其语（`book-tr`）和中文（`book-zh`）。这些文件已修改并处理，以便 JSON 转换程序能够正确处理它们，并且生成的 JSON 文件也可供使用。
 
 波斯语翻译目前正在进行中，并非所有文档均可用。
 

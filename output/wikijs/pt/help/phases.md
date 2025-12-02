@@ -38,7 +38,7 @@ Conversão de cada papel do *Livro de Urântia* para uma página com links para 
 Conversão de cada capítulo da *Bíblia* em uma página com links para *O Livro de Urântia* | GitHub | Editores-chefes
 Carregamento em massa de arquivos no formato Wiki.js | GitHub | Administradores
 
-> Esta fase está concluída para 27 idiomas.
+> Esta fase está concluída para 28 idiomas.
 {.is-success}
 
 ## Marco II - Hemeroteca, Biblioteca e Enciclopédia

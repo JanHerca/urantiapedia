@@ -52,6 +52,7 @@ pt | Portuguese | O Livro de Urântia
 ro | Romanian | Cartea Urantia
 ru | Russian | Книга Урантии
 sv | Swedish | Urantiaboken
+tr | Turkish | Urantia’nın Kitabı
 zh | Chinese | 玉苒厦之书
 
 The language codes must follow the ISO 639-1 standard with two letters for each language. https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
@@ -90,7 +91,8 @@ pt | Portuguese | «...» & “...” | “...” & ‘...’
 ro | Romanian | „...” & «...» | 
 ru | Russian | «...» & „...“ | “...” & ‘...’
 sv | Swedish | ”...” & ’...’ | »...» »...« & ’...’
-ar | Chinese | «...» | “...”
+tr | Turkish | “...” ‘...’ | «...» ‹...›
+zh | Chinese | “...” & ‘...’ | 「...」& 『...』
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

@@ -83,7 +83,7 @@ Para saber mais sobre o Marco do projeto, consulte [Marcos do Projeto](/pt/help/
 ## Status atual
 
 Atualmente, a *Urantiapedia* é a seguinte:
-* A Fase I foi concluída em 27 línguas. _O Livro de Urântia_, a _Bíblia_ e a _Paramónia_ (ou ligações entre os dois) são adicionados em todas estas línguas.
+* A Fase I foi concluída em 28 línguas. _O Livro de Urântia_, a _Bíblia_ e a _Paramónia_ (ou ligações entre os dois) são adicionados em todas estas línguas.
 * As fases II e III são concluídas em três línguas: inglês, espanhol e francês. A _Hemeroteca_, a _Biblioteca_ e a _Enciclopédia_ têm conteúdo suficiente para considerar estas fases concluídas.
 * Apenas foram realizadas pequenas provas de conceito na fase IV. Esta é a fase em que nos encontramos atualmente.
 

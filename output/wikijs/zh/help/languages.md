@@ -52,6 +52,7 @@ pt | 葡萄牙语 | O Livro de Urântia
 ro | 罗马尼亚语 | Cartea Urantia
 ru | 俄语 | Книга Урантии
 sv | 瑞典语 | Urantiaboken
+tr | 土耳其 | Urantia’nın Kitabı
 zh | 中文 | 玉苒厦之书
 
 语言代码必须遵循 ISO 639-1 标准，每种语言两个字母。https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
@@ -90,7 +91,8 @@ pt | 葡萄牙语 | «...» & “...” | “...” & ‘...’
 ro | 罗马尼亚语 | „...” & «...» |
 ru | 俄语 | «...» & „...“ | “...” & ‘...’
 sv | 瑞典语 | ”...” & ’...’ | »...» »...« & ’...’
-ar | 中文 | «...» | “...”
+tr | 土耳其 | “...” ‘...’ | «...» ‹...›
+zh | 中文 | “...” & ‘...’ | 「...」& 『...』
 
 
 https://en.wikipedia.org/wiki/Quotation_mark

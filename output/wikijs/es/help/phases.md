@@ -38,7 +38,7 @@ Convertir cada documento de *El Libro de Urantia* en una página con enlaces a *
 Convertir cada capítulo de *La Biblia* en una página con enlaces a *El Libro de Urantia* | GitHub | Editores Jefe
 Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 
-> Esta fase se encuentra completada para 27 idiomas.
+> Esta fase se encuentra completada para 28 idiomas.
 {.is-success}
 
 ## Fase II - Hemeroteca, Biblioteca y Enciclopedia
