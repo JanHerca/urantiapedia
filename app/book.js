@@ -2345,7 +2345,7 @@ class Book {
 	 * Writes index pages of `The Urantia Book` in Wiki.js format.
 	 * The name of resulting files are `Index.html` and `Index_Extended.html`.
 	 * @param {string} dirPath Folder path.
-	 * @param {?Book[]} papers Optional array of other Books with the papers
+	 * @param {?Book[]} books Optional array of other Books with the papers
 	 * in several versions. The first one must be the english version, and one
 	 * must be the master version, with links to footnotes.
 	 * @return {Promise} Promise that returns null in resolve function or an

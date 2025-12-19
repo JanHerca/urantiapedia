@@ -21,3 +21,11 @@
 - Portuguese: `a.C.` or `a.C` = `antes de Cristo`; `d.C.` or `d.C` = `depois de Cristo`
 - Italian: `a.C.` = `avanti Cristo`; `d.C.` = `dopo Cristo`
 - Deutsch: `v. Chr.` = `vor Christus`; `n. Chr.` = `nach Christus`
+
+## English version and other languages (Urantia Foundation)
+
+Urantia Foundation has a free & downloadable English version available (read by humans):
+
+https://www.urantia.org/urantia-book/listen-urantia-book
+
+There is also available audio for translations in other several languages.
