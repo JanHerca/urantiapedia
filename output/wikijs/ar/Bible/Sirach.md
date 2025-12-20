@@ -1,23 +1,23 @@
 ---
-title: سفر سيراخ
+title: "سيراخ"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Deuterocanon OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-bible">
+<div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">الكتاب المقدس</text>
-		<text style="font-size:4px" x="61" y="125">نسخة سميث وفان دايك للكتاب المقدس، ١٨٦٥</text>
-		<text style="font-size:9px" x="61" y="60">سفر سيراخ</text>
+		<text style="font-size:5px" x="61" y="22">ديوتيروكانون</text>
+		<text style="font-size:4px" x="61" y="125">نسخة الملك جيمس</text>
+		<text style="font-size:9px" x="61" y="60">سيراخ</text>
 	</g>
 </svg>
 </div>
@@ -26,12 +26,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 "سيراخ"
 
-من نسخة الملك جيمس
+_من نسخة الملك جيمس_
 
 "كتاب سيراخ" (/ˈsaɪræk/) أو "الكنيسة" (/ɪˌkliːziˈæstɪkəs/؛ مختصر Ecclus.)، هو عمل يهودي، في الأصل باللغة العبرية، للتعاليم الأخلاقية، من حوالي 200 إلى 175 قبل الميلاد، كتبه الكاتب اليهودي بن سيرا من القدس، بناءً على إلهام والده يشوع بن سيراخ، والذي يُطلق عليه أحيانًا يسوع بن سيراخ أو يشوع بن اليعازر بن سيرا.
 
-في مصر، تُرجم الكتاب إلى اليونانية على يد حفيد المؤلف الذي لم يُذكر اسمه، وأضاف إليه مقدمة. تُعتبر هذه المقدمة عمومًا أقدم شاهد على مجموعة من أسفار الأنبياء، ولذلك يخضع تاريخ النص لتدقيق دقيق. يُعد الكتاب نفسه أكبر كتاب حكمة من العصور القديمة وصل إلينا.
-
+في مصر، تُرجم الكتاب إلى اليونانية على يد حفيد المؤلف المجهول، الذي أضاف إليه مقدمة. تُعتبر هذه المقدمة عمومًا أقدم شاهد على مجموعة كتب الأنبياء، ولذا فإن تاريخ النص محل تدقيق شديد. أما الكتاب نفسه، فهو أضخم كتاب حكمة من العصور القديمة وصل إلينا.
 
 ## فِهرِس
 
@@ -94,4 +93,6 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## روابط خارجية
 
-- https://en.wikipedia.org/wiki/Book_of_Sirach
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/sirach.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Sirach)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)
