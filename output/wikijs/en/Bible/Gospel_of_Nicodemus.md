@@ -15,7 +15,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 		<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 		<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
 		<text style="font-size:9px" x="61" y="60">Acts of Pilate</text>
@@ -27,11 +27,11 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description 
 
-«Gospel of Nicodemus» 
+“Gospel of Nicodemus” 
 
 _From «Apocryphal Gospels», Edmundo González-Blanco (1934)_ 
 
-The "Gospel of Nicodemus" or "Acts of Pilate" (Acta Pilati; Πράξεις Πιλάτου) is an apocryphal gospel claiming to have been derived from an original Hebrew work written by Nicodemus, who appears in the Gospel of John as an associate of Jesus. The title "Gospel of Nicodemus" is of medieval origin. The dates of its accumulated sections are uncertain, but according to the 1907 edition of the Catholic Encyclopedia scholars agree in placing the resulting work in the middle of the 4th century AD. C.2
+The “Gospel of Nicodemus” or “Acts of Pilate” (Acta Pilati; Πράξεις Πιλάτου) is an apocryphal gospel claiming to have been derived from an original Hebrew work written by Nicodemus, who appears in the Gospel of John as an associate of Jesus. The title “Gospel of Nicodemus” is of medieval origin. The dates of its accumulated sections are uncertain, but according to the 1907 edition of the Catholic Encyclopedia scholars agree in placing the resulting work in the middle of the 4th century AD. C.2
 
 The section on Pilate is an older text found in the Greek Acts of Peter and Paul and, according to the surviving version,3 is an official document of Pontius Pilate (or composed from reports in the praetorium in Jerusalem) reporting events in Judea to the Emperor Tiberius, and refers to the crucifixion of Jesus as well as his miracles. It contains the names of figures who have transcended the tradition of Christianity: Dismas, Gestas, Longinus or Veronica. Written around 130 AD and preserved in the Akhmim Papyrus (8th-9th century, in Greek); in it,the episode of the Catabasis or descent of Christ into hell is recounted.
 
