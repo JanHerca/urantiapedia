@@ -58,7 +58,7 @@ La tropa seguramente se componía de habitantes de Iturea, hombres montaraces y 
 <br>
 
 <figure id="Image_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Roman_troops_in_the_time_of_Jesus/Capernaum_Cohors.jpg">
+<img src="/image/article/Jan_Herca/Roman_troops_in_Jewish_territory/Capernaum_Cohors.jpg">
 <figcaption>Recreación del cuartel romano de Cafarnaúm, siglo I.</figcaption>
 </figure>
 

@@ -57,7 +57,7 @@ La troupe était probablement composée d'habitants d'Iturée, des montagnards r
 <br>
 
 <figure id="Image_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Roman_troops_in_the_time_of_Jesus/Capernaum_Cohors.jpg">
+<img src="/image/article/Jan_Herca/Roman_troops_in_Jewish_territory/Capernaum_Cohors.jpg">
 <figcaption>Reconstitution de la caserne romaine de Capharnaüm, Ier siècle.</figcaption>
 </figure>
 
