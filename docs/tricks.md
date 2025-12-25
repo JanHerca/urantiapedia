@@ -659,7 +659,6 @@ XXII | ٢٢ | اثنان وعشرون
 XXIII | ٢٣ | ثلاثة وعشرون
 XXIV | ٢٤ | أربعة وعشرون
 XXV | ٢٥ | خمسة وعشرون
-Romano | Cifra Árabe | Nombre en Árabe
 XXVI | ٢٦ | ستة وعشرون
 XXVII | ٢٧ | سبعة وعشرون
 XXVIII | ٢٨ | ثمانية وعشرون
