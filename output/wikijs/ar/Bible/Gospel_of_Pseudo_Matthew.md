@@ -18,8 +18,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">أبوكريفا</text>
 		<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886</text>
 		<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
-		<text style="font-size:9px" x="61" y="60">Gospel of </text>
-		<text style="font-size:9px" x="61" y="70">Pseudo-Matthew</text>
+		<text style="font-size:9px" x="61" y="60">إنجيل متى الزائف</text>
 	</g>
 </svg>
 </div>

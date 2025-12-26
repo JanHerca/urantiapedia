@@ -18,8 +18,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">أبوكريفا</text>
 		<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 		<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
-		<text style="font-size:9px" x="61" y="60">History of</text>
-		<text style="font-size:9px" x="61" y="70">the Rechabites</text>
+		<text style="font-size:9px" x="61" y="60">تاريخ الركابيين</text>
 	</g>
 </svg>
 </div>

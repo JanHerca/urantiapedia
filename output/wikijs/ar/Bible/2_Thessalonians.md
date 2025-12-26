@@ -17,7 +17,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">الكتاب المقدس</text>
 		<text style="font-size:4px" x="61" y="125">نسخة سميث وفان دايك للكتاب المقدس، ١٨٦٥</text>
-		<text style="font-size:9px" x="61" y="60">2تسالونيكي'</text>
+		<text style="font-size:9px" x="61" y="60">2تسالونيكي</text>
 	</g>
 </svg>
 </div>

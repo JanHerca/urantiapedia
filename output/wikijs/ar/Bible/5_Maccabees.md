@@ -18,7 +18,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">أبوكريفا</text>
 		<text style="font-size:4px" x="61" y="130">Henry Cotton</text>
 		<text style="font-size:3px" x="61" y="135">The Five Books of Maccabees, 1832</text>
-		<text style="font-size:9px" x="61" y="60">5 Maccabees</text>
+		<text style="font-size:9px" x="61" y="60">5 مكابيين</text>
 	</g>
 </svg>
 </div>

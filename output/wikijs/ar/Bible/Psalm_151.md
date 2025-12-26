@@ -16,8 +16,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">ديوتيروكانون</text>
-		<text style="font-size:4px" x="61" y="125">From Revised Standard Version w/ Apocrypha</text>
-		<text style="font-size:9px" x="61" y="60">"المزمور151</text>
+		<text style="font-size:4px" x="61" y="125">من النسخة القياسية المنقحة مع الأبوكريفا</text>
+		<text style="font-size:9px" x="61" y="60">المزمور151</text>
 	</g>
 </svg>
 </div>
