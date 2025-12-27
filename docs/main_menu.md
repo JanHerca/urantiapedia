@@ -57,16 +57,16 @@ About the Bible > حول الكتاب المقدس
 Index > الفهرس
 Search > بحث
 ---
-BOOK LIBRARY > _missing_
-About the Library > _missing_
-Index > _missing_
-Search > _missing_
+BOOK LIBRARY > مكتبة الكتب
+About the Library > نبذة عن المكتبة
+Index > الفهرس
+Search > بحث
 ---
 NEWSPAPER LIBRARY > مكتبة الصحف
-About this Library > _missing_
+About this Library > حول هذه المكتبة
 Articles > المقالات
-Study aids > _missing_
-Search > _missing_
+Study aids > وسائل مساعدة للدراسة
+Search > بحث
 ---
 ENCYCLOPEDIA > _missing_
 About this Encyclopedia > _missing_

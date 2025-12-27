@@ -35,6 +35,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <br style="clear:both;"/>
 
+## Santiago y Judas en los evangelios
+
 Los apóstoles llamados Santiago y Judas en los evangelios han sido siempre objeto de cierta confusión por parte de los exégetas. Puesto que dos de los hermanos de Jesús han aparecido mencionados con estos nombres, se ha dado por suponer que eran las mismas personas, y por tanto que Jesús tuvo a dos hermanos entre sus doce íntimos seguidores. Pero esto no encaja con un hecho notorio. Los evangelios mencionan en varios pasajes poco claros a unos personajes llamados Santiago y Judas:
 
 > «Un poco más adelante vio a Santiago, el de Zebedeo, y a su hermano Juan» [Mc 1:19](/es/Bible/Mark/1#v19)
@@ -67,9 +69,9 @@ Volvemos a ver aquí a la anterior María, y de nuevo, en vez de decirnos, Marí
 
 Lucas introduce un cambio significativo en la lista de apóstoles. Marcos hablaba de un tal “Tadeo”, pero aquí este apóstol desaparece y es reemplazado por un tal Judas, el hijo de Santiago. ¡Otro Santiago y otro Judas más!! ¿Son Tadeo y este Judas la misma persona?
 
-Estos son todos los pasajes con algún dato (los repetidos en otros evangelistas no se han incluido).
+Esto resume todos los pasajes evangélicos que contienen algún dato reseñable (los repetidos en otros evangelistas no se han incluido). Vamos ahora con otras fuentes.
 
-Otras fuentes apócrifas mencionables
+## Otras fuentes apócrifas mencionables
 
 - _Carta de los apóstoles_ (_Epistola epistolarum_): menciona a un Judas el Zelote. Los estudiosos piensan que en realidad se refiere a Simón el Zelote. No soy de la misma opinión ([Wikipedia — Judas el Zelote](http://en.wikipedia.org/wiki/Judas_the_Zealot)).
 - _Eusebio_: menciona a un Tadeo de Edesa, pero no lo menciona como apóstol, sino como uno de los setenta evangelistas, por lo que hay que pensar que son Tadeos distintos ([Wikipedia — Tadeo de Edesa](http://en.wikipedia.org/wiki/Thaddeus_of_Edessa)).
@@ -78,6 +80,8 @@ Otras fuentes apócrifas mencionables
 Como vemos, con sólo estas menciones, resulta del todo imposible dar con una unanimidad sobre la identidad de estos dos oscuros apóstoles. Todo se complica más si consideramos además que Alfeo, que aparece como padre de Santiago, también aparece como padre de Leví. ¿Son el mismo Alfeo o distintos? Y ya para terminar de liarlo Juan aparece mencionando a una María mujer de Cleofás al pie de la cruz, cuando resulta que hemos visto que había una María, madre de Santiago, y mujer de Alfeo. ¿Son este Cleofás y Alfeo la misma persona o diferentes?
 
 Toda esta confusión ha hecho que diferentes iglesias cristianas hayan adoptado distintas soluciones a las relaciones familiares entre las personas que se escondieron tras estos nombres.
+
+## El Libro de Urantia
 
 _El Libro de Urantia_ ofrece una visión propia. Santiago y Judas aparecen como hermanos gemelos e hijos de un hombre llamado Alfeo ([LU 139:10.1-11](/es/The_Urantia_Book/139#p10_1)), y su madre se llamaba María ([LU 189:4.4](/es/The_Urantia_Book/189#p4_4)). Sus sobrenombres, Tadeo para Santiago (¡atención, no para Judas, como siempre se ha supuesto!), y Lebeo para Judas, eran exactamente los sobrenombres que circularon en los manuscritos apócrifos. Los dos apóstoles, como hemos visto antes, no eran los dos hermanos de Jesús (Santiago y Judas) que aparecen mencionados en los evangelios como tales, y que cobraron mucho protagonismo en los inicios de la iglesia cristiana. Tampoco existía ninguna relación de parentesco entre Santiago y Judas de Alfeo con la familia de Jesús. Jesús no conocía a estos hombres de antemano, y fueron presentados a él por Santiago y Juan Zebedeo ([LU 138:4.1](/es/The_Urantia_Book/138#p4_1)).
 
