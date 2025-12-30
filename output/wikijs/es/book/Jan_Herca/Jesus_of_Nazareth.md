@@ -618,8 +618,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Jan Herca</text>
 							<text style="font-size:9px" x="61" y="60">Jesús de Nazaret</text>
-							<text style="font-size:9px" x="61" y="70">Epílogo</text>
-							<text style="font-size:7px" x="61" y="70">«Algún día volveré...»</text>
+							<text style="font-size:7px" x="61" y="70">Epílogo</text>
+							<text style="font-size:7px" x="61" y="80">«Algún día volveré...»</text>
 						</g>
 					</svg>
 				</div>
