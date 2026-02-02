@@ -10,6 +10,10 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 <img src="/_assets/svg/icon-news.svg" alt="뉴스" style="width: 80px;"> 여기에서 지난 달의 모든 뉴스 기사의 전체 목록을 확인할 수 있습니다.
 
+## 2026
+
+- [2026년 1월 뉴스](/ko/news/2026/01)
+
 ## 2025
 
 - [2025년 12월 뉴스](/ko/news/2025/12)

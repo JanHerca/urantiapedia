@@ -10,6 +10,10 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 <img src="/_assets/svg/icon-news.svg" alt="News" style="width: 80px;"> Here you can find a complete list of all the news reports from previous months.
 
+## 2026
+
+- [January 2026 News](/en/news/2026/01)
+
 ## 2025
 
 - [December 2025 News](/en/news/2025/12)

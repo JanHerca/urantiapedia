@@ -10,6 +10,10 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 <img src="/_assets/svg/icon-news.svg" alt="News" style="width: 80px;"> 您可以在此处找到前几个月所有新闻报道的完整列表。
 
+## 2026年
+
+- [2026年1月新闻](/zh/news/2026/01)
+
 ## 2025年
 
 - [2025年12月新闻](/zh/news/2025/12)
