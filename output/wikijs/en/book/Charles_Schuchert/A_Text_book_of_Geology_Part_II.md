@@ -81,7 +81,7 @@ London: CHAPMAN & HALL, LIMITED <br>
 - [XXXI. Permian Time and its Glacial Climate](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/31)
 - [XXXII. Climates of the Geologic Past, and the “ Critical Times ”](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/32)
 - [XXXIII. The Beginning of Mesozoic Time: the Triassic Period](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/33)
-- [XXXIV. Dinosaurs, the Mighty Rulers of Mesozoic Ijands](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/34)
+- [XXXIV. Dinosaurs, the Mighty Rulers of Mesozoic Lands](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/34)
 - [XXXV. The Jurassic Period and the Many Kinds of Reptiles](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/35)
 - [XXXVI. The Dragons of Medieval Time](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/36)
 - [XXXVII. Ammonites and Squids 528*](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
