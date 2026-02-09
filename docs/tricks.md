@@ -359,6 +359,9 @@ omissions in quotes:
 * english . . .
 * spanish [...]
 
+To check:
+^ [ ] { } - ‘ ’ “ ” " ' • \ j Pis.
+
 ## Pandoc
 
 Convert Word file to Markdown:

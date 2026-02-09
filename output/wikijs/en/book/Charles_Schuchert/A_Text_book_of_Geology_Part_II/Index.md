@@ -48,11 +48,11 @@ Actinians, 155,* 157, 286*
 
 Actinocamax quadratus, 532*
 
-Actinodesnia erectunij 320*
+Actinodesnia erectuni, 320*
 
 Adaptation in organisms, 49
 
-Adinetopsis suhfusiformiSj 575*
+Adinetopsis suhfusiformiS, 575*
 
 AEpyornis, 587
 
@@ -114,7 +114,7 @@ Alleghenv cuesta, 268* plateau, 268,* 312,* 357*
 
 Alhgators, 412, 601
 
-Allorisrna subqu^idraium, 365*
+Allorisrna subquidraium, 365*
 
 Allosaurus agilis 496*
 
@@ -156,11 +156,11 @@ Amphibians, 13,* 19, 331, 334, 342, 360,* 362, 364, 405-412, 449
 
 Age of, 101 and climate, 443 classification of, 408 legs of, 302* respiration in, 408
 
-Amphiuma iridactylaj 407*
+Amphiuma iridactyla, 407*
 
 Amplexus yandelli, 284*
 
-Ampyx nasutu^, 242*
+Ampyx nasutu, 242*
 
 Amsterdam formation, 233
 
@@ -172,9 +172,9 @@ Ancestral Rocky Mts., 368, 422, 425,* 426 Rocky Mts. geanticline, 141,* 142, 466
 
 Andiisauripm (Brontozoum) silliimni, 480*
 
-Anchisaurusj 474, 481 ^colurus, 480*
+Anchisaurus, 474, 481 colurus, 480*
 
-Anckitheriumj 630*
+Anckitherium, 630*
 
 Ancyhceras maiheronianum, 576*
 
@@ -212,7 +212,7 @@ Anodorday 221 *
 
 Anolcites meeki, 477*
 
-Anomdltnaj 536*
+Anomdltna, 536*
 
 Anomodontia, 417
 
@@ -310,7 +310,7 @@ Archelon, 578
 
 Archeozoic, 102, 105, 143-157 amount of water in, 65 life of, 152-157 red beds in, 156
 
-Archimedes^ 334, 340, 341
+Archimedes 334, 340, 341
 
 Arctic Ocean, 62, 164
 
@@ -320,7 +320,7 @@ Arctotheres, 623
 
 Arenig formation, 233
 
-Argoides minimus^ 473*
+Argoides minimus 473*
 
 Aridity, 343, 369, 420, 445* effect of, on limgs, 304
 
@@ -378,7 +378,7 @@ Atane formation, 573
 
 Aihyris spiriferoides, 321*
 
-Aiikokania lairsonij 163*
+Aiikokania lairsoni, 163*
 
 Atlantic land bridge, 61 Ocean, 62 overlaps of, 592 type of border, 59
 
@@ -392,11 +392,11 @@ Atops trilineatus, 189*
 
 Atradite burckhardti, 477*
 
-Atrypa nodosiriata^ 270* reticidariSy 321* spinosay 321*
+Atrypa nodosiriata 270* reticidariSy 321* spinosay 321*
 
-Aucella, 506, 553 crcLssicollis biota, 543 pcdlasiij 504* piochii, 542
+Aucella, 506, 553 crcLssicollis biota, 543 pcdlasii, 504* piochii, 542
 
-Aurelia^ 155*
+Aurelia 155*
 
 Auriferous slates, 503
 
@@ -444,7 +444,7 @@ Baku petroleum field, 248, 250, 612
 
 Bala formation, 233
 
-BcdanoglossuSj 19
+BcdanoglossuS, 19
 
 <span id="p694"><sup><small>[ p. 694 ]</small></sup></span>
 
@@ -486,9 +486,9 @@ Bathonian of Europe, 502
 
 Bathyliths, 61, 510, 539,* 568
 
-BafhyuriscuSj 200
+BafhyuriscuS, 200
 
-Baiocrinus pyriformiSj 337*, 348*
+Baiocrinus pyriformiS, 337*, 348*
 
 Batraehia, 13,* 21
 
@@ -609,7 +609,7 @@ Borderlands, 138-140
 
 Borders, continental, types of, 59
 
-Borkholm formation, 2^
+Borkholm formation, 2
 
 <span id="p695"><sup><small>[ p. 695 ]</small></sup></span>
 
@@ -653,7 +653,7 @@ Breaks, 39, 97, 98,* 179, 183,* 233, 262
 
 Bridger formation, 590, 597, 619, 634
 
-British Columbic geos\Ticline, 465,* 466, 503, 504, 505,* 536 539,* 557,* 566
+British Columbic geosyncline, 465,* 466, 503, 504, 505,* 536 539,* 557,* 566
 
 Brittle-stars, 19, 21, 345
 
@@ -718,7 +718,7 @@ Champlainian, 245
 
 Caledonian Disturbance, 264, 277-278, 314-316, 325
 
-Calif omic geosyncline, 464, 465,* 503, 504^ 505,* 536, 539,* 541, 542, 557,* 566, 599
+Calif omic geosyncline, 464, 465,* 503, 504, 505,* 536, 539,* 541, 542, 557,* 566, 599
 
 Califomis, 139,* 140
 
@@ -758,7 +758,7 @@ Caney formation, 353, 357, 358 tilHtes, 370
 
 <span id="p696"><sup><small>[ p. 696 ]</small></sup></span>
 
-Caneyellllj 340
+Caneyellll, 340
 
 Canis, 617*
 
@@ -788,7 +788,7 @@ Carcharodon, 294
 
 Cardenas limestones, 562
 
-Cardiader cinduSj 347*
+Cardiader cinduS, 347*
 
 Caribbean Sea, 62
 
@@ -843,7 +843,7 @@ Cement rock, 245, 280
 
 Cenomanian of Europe, 534, 535, 537, 572
 
-Cenozoic, 100, 105, 588^-613 climate, 602
+Cenozoic, 100, 105, 588-613 climate, 602
 
 continental deposits, 596 economic products, 612 life, 600-602 orogeny, 603-605, 609* paleogeography, 593* physiography, 605-608 submergences, 96, 591-596
 
@@ -855,11 +855,11 @@ Cordiheran Disturbance, 546-547 geanticline, 141,* 142, 511,* 567
 
 Centrosphere, 128
 
-CephalaspiSj 296, 297*
+CephalaspiS, 296, 297*
 
 Cephalopods, 19, 47, 190, 203, 210, 220, 225-228, 236,* 322,* 366,* 477,* 528-533, 575* and climate, 443 geologic occurrence of, 199, 227 giant, 449
 
-CeratiocariSj 276*
+CeratiocariS, 276*
 
 Ceratocephcda dufrenoyi, 270*
 
@@ -879,13 +879,13 @@ Cereals, 550, 601
 
 Cemaysian of Europe, 537
 
-Cervcdces scottij 666
+Cervcdces scotti, 666
 
 Cestracionts, 294, 295,* 342*
 
 Chadron formation, 590
 
-ChosteteSj 370*
+ChosteteS, 370*
 
 Chagrin formation, 309
 
@@ -1003,7 +1003,7 @@ Claiborne formation, 590, 604
 
 Clams, see Lamellibranchs
 
-Claosaurus^ 485,* 577
+Claosaurus 485,* 577
 
 Clarendon formation, 599
 
@@ -1017,7 +1017,7 @@ Classification of organisms, 44
 
 Clay iron-stone, 372
 
-Clays, bowlder, 4i0 vari^ed, 441, 658,* 659
+Clays, bowlder, 4i0 varied, 441, 658,* 659
 
 Clear Fork formation, 421
 
@@ -1039,7 +1039,7 @@ Clonograptus, 234
 
 Coal, 31, 329, 336, 354, 389-404, 463, 503, 543. 556, 558, 560, 580, 595, 596 and climate, 443, 445* anthracite, 253, 390, 391,* 393, 403 ash in, 393 balls, 32 bituminous, see
 
-Coalj humic brown, 393, 403 cannel, 258, 393 derivation of, from plants, 31, 389, 391-392 graphitic, 390 humic, 390, 393, 403 in
+Coal, humic brown, 393, 403 cannel, 258, 393 derivation of, from plants, 31, 389, 391-392 graphitic, 390 humic, 390, 393, 403 in
 
 China, 356 lignite, 393 limnetic, 397 making, time of greatest, 333, 351372 paralic, 397
 
@@ -1055,7 +1055,7 @@ Cobleskill formation, 264, 308*
 
 Coccospheres, 72, 536
 
-CoccodeiLSj 296*
+CoccodeiLS, 296*
 
 Cochliodonts, 294, 342*
 
@@ -1083,7 +1083,7 @@ Collozoic age, 153
 
 Colonoceras, 638
 
-Coloradic geos^mcline, 505,* 511,* 538, 546,* 547, 551,* 554, 556, 557,* 562, 566, 567
+Coloradic geosyncline, 505,* 511,* 538, 546,* 547, 551,* 554, 556, 557,* 562, 566, 567
 
 Colorado desert, 604 , Plateau, 608 shale, 537
 
@@ -1103,7 +1103,7 @@ Comets, 116-118
 
 Composita subtilllaf 365*
 
-ConaspiSj 203
+ConaspiS, 203
 
 Conchin, 28
 
@@ -1123,7 +1123,7 @@ Conifers, 18, 47, 330, 360,* 379, 386387, 472, 514, 546, 549
 
 Connecticut Valley, Triassic of, 461, 463, 479
 
-Continental borders, t\"pes of, 59 deposits, 324-327^, 457-464, 467472, 506, 543, 544-545, 563-565, 596 and climates, 438-452 platforms, 53, 63* shelf, 58, 63 slopes, life of, 79
+Continental borders, typpes of, 59 deposits, 324-327, 457-464, 467472, 506, 543, 544-545, 563-565, 596 and climates, 438-452 platforms, 53, 63* shelf, 58, 63 slopes, life of, 79
 
 Continents, 52-62 changes in, 135-142 fragmenting of, 57, 59, 141,* 160, 510, 572, 609,* 610 grain of, 54 nucleus of, 55 origin of, 3, 55, 103, 131-132 permanency of, 56 transverse, 60, 430
 
@@ -1163,7 +1163,7 @@ Corwin series, 504
 
 Coryphodon, 617,* 633*
 
-CorythosauruSj 487
+CorythosauruS, 487
 
 Cosmic time, 103, 124
 
@@ -1179,7 +1179,7 @@ Coutchiching formation, 102, 145, 146
 
 Crabs, 21, 521,* 522, 602
 
-Crania j 218
+Crania , 218
 
 Creation, organic, 38, 89
 
@@ -1207,11 +1207,11 @@ Crust of earth, 128-131, 146, 150
 
 Crustacea, 47, 522
 
-Cryphceus pundaiuSj 322*
+Cryphceus pundaiuS, 322*
 
 Ciyptogams, 378
 
-Cryptolithus iesaelatu^j 211,* 242*
+Cryptolithus iesaelatu, 211,* 242*
 
 Cryptorhyiis uiahetmSf 575*
 
@@ -1241,7 +1241,7 @@ Cyathophyllum rugosum, 284*
 
 Cyathospongia reiiculaia 240*
 
-Cycads, 18, 27,* 29,* 47, 379, 3S5-3S1?, 432,* 433, 468, 472, 507,^ 514, 546, 549, 584,* 602 Age of, 454, 515 and climate, 443
+Cycads, 18, 27,* 29,* 47, 379, 3S5-3S1?, 432,* 433, 468, 472, 507, 514, 546, 549, 584,* 602 Age of, 454, 515 and climate, 443
 
 Cycles, life, 447-452 sedimentary, 500
 
@@ -1253,9 +1253,9 @@ Cyclostomes, 47
 
 Cymhospondylus, 475,* 476
 
-C^modontia, 418, 615,* 616
+Cmodontia, 418, 615,* 616
 
-C^mthiana formation, 233
+Cmthiana formation, 233
 
 Cypresses, 20
 
@@ -1267,7 +1267,7 @@ Cyrtolites ornatus, 242*
 
 Cystids, 19, 47, 240*
 
-Cystiphyllum vesiculosunij 320*
+Cystiphyllum vesiculosuni, 320*
 
 Cytodes, 8, 47
 
@@ -1369,7 +1369,7 @@ Dibranchiata, 228, 531
 
 Diceratheres, 636,* 637
 
-Dictyonemaj 234*
+Dictyonema, 234*
 
 Dictyospongidie, 323*
 
@@ -1379,15 +1379,15 @@ Didymograptus, 234
 
 Diellisma hovidens, 365*
 
-DikellocephalnSj 203
+DikellocephalnS, 203
 
 Diluvium, 647
 
-Dimetrodonj 413,* 435
+Dimetrodon, 413,* 435
 
 Dinantian of Europe, 333
 
-DinichihySj 300,* 301
+DinichihyS, 300,* 301
 
 Dinocephalia, 417
 
@@ -1397,7 +1397,7 @@ Dinokyus, 622
 
 Dinornis maximus, 587
 
-Dinorthis suhquadrata^ 240*
+Dinorthis suhquadrata 240*
 
 Dinosaurs, 412, 468. 474, 479-498, 507,* 516, 551, 552, 564, 576, 577-578 ancestors of, 495 armored, 487-489 brains of, 494 carnivorous, 577 duck-billed, 485,* 486-487, 577 eggs of, 494 extinction of, 497-498, 556, 578, 580 mummified, 486 relation of, to birds, 496 tracks of, 462,* 473,* 474,* 479, 480*
 
@@ -1411,7 +1411,7 @@ DipLocynodon, 516*
 
 Dipiodocus, 483,* 486, 516
 
-DiplograptuSj 234,* 240*
+DiplograptuS, 234,* 240*
 
 Dipnoans, 19, 47, 293, 298-300, 331
 
@@ -1451,7 +1451,7 @@ Domestic animals, origin of, 687
 
 Dorian series, 102, 161, 162
 
-DorycordaiteSj 381*
+DorycordaiteS, 381*
 
 Dorypyge curticeiy 201*
 
@@ -1467,7 +1467,7 @@ Dragons, see Pterosaurs
 
 Drainage, present, origin of, 423, 544, 655
 
-DrepanaspiSj 296
+DrepanaspiS, 296
 
 Dresbach formation, 197
 
@@ -1567,7 +1567,7 @@ Emscherian of Europe, 537
 
 Endoceras, 227
 
-Endoihyra haileyij 337*
+Endoihyra haileyi, 337*
 
 English Channel, origin of, 658
 
@@ -1575,7 +1575,7 @@ Enid formation, 421
 
 Entelodonts, 619, 620, 622
 
-Environment, evolution of, 4, 91, 94 fitness of, 130 geologic, 438^52 influence of, on organisms, 22, 24, 42
+Environment, evolution of, 4, 91, 94 fitness of, 130 geologic, 43852 influence of, on organisms, 22, 24, 42
 
 Eoanthropus, 672,* 677,* 678-680, 689
 
@@ -1583,21 +1583,21 @@ Eocene, 23, 100, 589, 590, 592, 594, 597-598, 600, 602, 604, 610, 611, 618, 626 
 
 Eocretaceous, 538
 
-Eodiacus speciosusj 189*
+Eodiacus speciosus, 189*
 
 Eogene, duration of, 105
 
 Eokippus, 619, 625,* 626,* 627,* 629, 630
 
-Eolithie industr}*, 653,* 673
+Eolithie industry, 653,* 673
 
 Eo-Paleozoic, 278
 
-Eophrynus pre^twichii, 363*
+Eophrynus pretwichii, 363*
 
-Eotitanopsj 633, 634*
+Eotitanops, 633, 634*
 
-Eotomaria (?) ccussiTiaj 236* supradugulaiaj 242*
+Eotomaria (?) ccussiTia, 236* supradugulaia, 242*
 
 Eozoic, 103, 133-134
 
@@ -1637,7 +1637,7 @@ Erosion, evidence of, as to time, 97 total amount of, 54, 133
 
 Eruptions, submarine, 466
 
-ErymOj 521*
+ErymO, 521*
 
 Eryops, 411, 521*
 
@@ -1653,7 +1653,7 @@ Euhrontes giganteuSf 480*
 
 Eucamus ovalis, 363*
 
-Eucalyptocrinus crasstiSj 270*
+Eucalyptocrinus crasstiS, 270*
 
 Euphemus carbonarius, 365*
 
@@ -1665,7 +1665,7 @@ Eustachian tube in Amphibia, 408
 
 Eustatic movements, 65, 97
 
-Eusthenopterorij 298
+Eusthenopterori, 298
 
 Eutaw formation, 537
 
@@ -1679,9 +1679,9 @@ Evolution, organic, 24, 25, 36, 79, 89, 92
 
 expansive, 448 irreversible, 46 restrictive, 448 will in, 49, 50
 
-Exogyra costaia^ 575*
+Exogyra costaia 575*
 
-Extinction, 11, 448, 450, 497-^98, 556, 579-580
+Extinction, 11, 448, 450, 497-98, 556, 579-580
 
 ## F
 
@@ -1727,7 +1727,7 @@ Fish lizards, 475,* 559*
 
 Fishes, 13,* 19, 21, 210, 289-305, 324, 330-331, 449, 520, 598
 
-Age of, 101 air-breathing, 298-300 armored, 296,* 300-301 bony, 301 cartilaginous, 293 classification of, 293 enamel-scaled, 297-298 first, 232, 239, 274 gristle, see Ela^Tmjbranckii Flagellata, 47, 155*
+Age of, 101 air-breathing, 298-300 armored, 296,* 300-301 bony, 301 cartilaginous, 293 classification of, 293 enamel-scaled, 297-298 first, 232, 239, 274 gristle, see ElaTmjbranckii Flagellata, 47, 155*
 
 FHes, 515,* 600
 
@@ -1735,7 +1735,7 @@ FHght, 526, 582, 585, 586
 
 Flints, 87 and man, 673, 683, 684
 
-Floods, see Submerge^ces Floras, 17, 68, 100, 101, 307, 328, 359, 360,* 373-388, 432, 448, 454, 514, 544, 549, 577, 601
+Floods, see Submergeces Floras, 17, 68, 100, 101, 307, 328, 359, 360,* 373-388, 432, 448, 454, 514, 544, 549, 577, 601
 
 Florida in Cenozoic, 599
 
@@ -1869,7 +1869,7 @@ Gibbons, 669
 
 Gibraltar man, 681
 
-Gigandi^pus caudatus, 480*
+Gigandipus caudatus, 480*
 
 <span id="p484"><sup><small>[ p. 484 ]</small></sup></span>
 
@@ -1995,9 +1995,9 @@ Gun River formation, 264
 
 Gymnosperms, 17,* 18, 20, 379, 384r387
 
-Gymnotoceras russelllj 477*
+Gymnotoceras russelll, 477*
 
-Gypidula coeymamensisj 321*
+Gypidula coeymamensis, 321*
 
 Gypsum, 422, 435, 442
 
@@ -2063,7 +2063,7 @@ Hermann, Adam, 493*
 
 Hesperopithecus, 623
 
-HesperorniSj 45, 559,* 579,* 585
+HesperorniS, 45, 559,* 579,* 585
 
 Hess formation, 421
 
@@ -2105,7 +2105,7 @@ Holothurians, 286
 
 Homalonotus, 319*
 
-Homo heidelbergensiSj 653* primigenius, 653,* 680-681 rkodesiensis, 681
+Homo heidelbergensiS, 653* primigenius, 653,* 680-681 rkodesiensis, 681
 
 sapiens, 653,* 672, 682-684, 688
 
@@ -2195,7 +2195,7 @@ Hyracatherium, 627,* 629, 638
 
 Ice Age, 647—666
 
-sheets, 650, 651,* 652, 655, 656 ^ore, in Cretaceous, 573
+sheets, 650, 651,* 652, 655, 656 ore, in Cretaceous, 573
 
 IcJiihyomis, 559,* 585
 
@@ -2357,9 +2357,9 @@ Kiowa fonnation, 537, 541, 558
 
 I Kirtland formation, 537
 
-Kittanning formation, 353, 392* Klamath Mts., 56S Knife Lake slates, 102
+Kittanning formation, 353, 392* Klamath Mts., 565 Knife Lake slates, 102
 
-Knox^'ille formation, 503, 537, 542, 543, 546
+Knoxville formation, 503, 537, 542, 543, 546
 
 Kome formation, 539,* 545
 
@@ -2385,7 +2385,7 @@ LabjTinthodonts, 410
 
 Ladinian of Europe, 456
 
-Lake Agassiz, 656 Champlain, 76 Chicago, 656 Nj^assa, as rift valley, 573 Saginaw, 656 Superior geosjTiclme, 170 sandstones, 197 Tanganyika, as rift valley, 573 Whittlesey, 656
+Lake Agassiz, 656 Champlain, 76 Chicago, 656 Njassa, as rift valley, 573 Saginaw, 656 Superior geosjTiclme, 170 sandstones, 197 Tanganyika, as rift valley, 573 Whittlesey, 656
 
 Lakemont formation, 264
 
@@ -2403,11 +2403,11 @@ Laminarian zone, 82
 
 Lamp shells, see Brcudiiopods Lamprey, 291*
 
-Lance formation, 100, 537, 560, 563, 564, 565, 5^, 578, 579
+Lance formation, 100, 537, 560, 563, 564, 565, 5, 578, 579
 
 Lancelets, 19, 47
 
-Land animals, fii^t, 263, 274
+Land animals, fiit, 263, 274
 
 bridges, U?4, 447, 539,* 557,* 569,* 593,* 594, 596, 600, 661, 685 floras, 17, 334, 342, 359, 373-388, 601
 
@@ -2431,7 +2431,7 @@ Lassen, Mt., 606
 
 Laterites, 442
 
-LatornoeandTa seriallij 513*
+LatornoeandTa serialli, 513*
 
 Lattorfian of Europe, 590
 
@@ -2453,7 +2453,7 @@ Leda hdlistriaia, 365*
 
 Leidy, Joseph, 493*
 
-LeiorhynchuSj 340
+LeiorhynchuS, 340
 
 Lemuris, 56, 57,* 59, 555,* 572, 610
 
@@ -2471,9 +2471,9 @@ Lepidosiren, 299
 
 Lepidosteus, 291,* 303
 
-LepidostrobuSj 377*
+LepidostrobuS, 377*
 
-Leptosna rhxmibmdaliSj 240*
+Leptosna rhxmibmdaliS, 240*
 
 Leray formation, 233
 
@@ -2507,11 +2507,11 @@ LimnosceliSy 413,* 418
 
 Limulids, 47, 203
 
-Lingnlaj 12, 218
+Lingnla, 12, 218
 
 LinyuMla, 202
 
-LingtdepiSj 201* 203
+LingtdepiS, 201* 203
 
 Linnaeus, 15, 37
 
@@ -2691,7 +2691,7 @@ American, 643,* 644, 664 and man, 686 evolution of, 640-646
 
 Matawan formation, 537
 
-Matter, evolution of, 5-6 ^
+Matter, evolution of, 5-6 
 
 Matterhorn, 610
 
@@ -2717,7 +2717,7 @@ Medina formation, 264, 265,* 268* Mediterraneans, 62, 430
 
 Medusae, 30, 47, 155,* 190
 
-Meekoceras gracilitclliSj 477* Meekoceras time, 465*
+Meekoceras gracilitclliS, 477* Meekoceras time, 465*
 
 MegalonyXy 654, 666
 
@@ -2725,7 +2725,7 @@ Meganos formation, 590
 
 Megaphyton, 376*
 
-Megatheriunij 654, 665,* 666
+Megatheriuni, 654, 665,* 666
 
 Melonechinus, 337,* 341, 347*
 
@@ -2745,11 +2745,11 @@ Mercer formation, 353
 
 Mercurj', 120*
 
-Mer^riXy 222 *
+MerriXy 222 *
 
-Meristella IceviSj 321*
+Meristella IceviS, 321*
 
-MerychippuSj 630
+MerychippuS, 630
 
 Mesaverde formation, 537
 
@@ -2757,7 +2757,7 @@ Mesocretaceous, 538
 
 MeaokippuSf 627,* 630
 
-Mesosaurusj 422
+Mesosaurus, 422
 
 Mesozoic, 100, 105, 453-454 floods, 96 insects, 454
 
@@ -2765,7 +2765,7 @@ Metabolism, 10
 
 Metals, first use of, 682, 684-685
 
-Meiatnynodon^ 638
+Meiatnynodon 638
 
 Metaphyta, 7, 17,* 157
 
@@ -2773,7 +2773,7 @@ Metazoa, 7, 19, 20, 157
 
 Meteors, 115-118
 
-Metopolichds hrevicepSj 270*
+Metopolichds hrevicepS, 270*
 
 Mexican geosyncline, 505,* 508-509, 536, 539,* 551,* 556, 561
 
@@ -2847,7 +2847,7 @@ Monomorella noveboracum, 270*
 
 Monongahelan formation, 101, 353, 361, 398*
 
-Monoplewraj 541, 542*
+Monoplewra, 541, 542*
 
 Monotremes, 19, 615*
 
@@ -2901,7 +2901,7 @@ Mud bottoms in seas, 84 cracking, 80 puppies, 405, 407,* 409
 
 Mudge, B. F., 493*
 
-Muds, 70, 71,* 73 sun-cracking in, SO ^Mudstones, amount of, 85
+Muds, 70, 71,* 73 sun-cracking in, SO Mudstones, amount of, 85
 
 Multituberculata, 475, 615,* 616
 
@@ -2933,7 +2933,7 @@ Naknek formation, 502
 
 Namurian of Europe, 353
 
-Naosaurusj 435
+Naosaurus, 435
 
 Naphtha, 252
 
@@ -2961,11 +2961,11 @@ Nebular hypothesis, 118-121
 
 Nebulium, 108, 112
 
-Necturus maculatusj 407*
+Necturus maculatus, 407*
 
 Negative areas, 56 movements, 95
 
-Nelson^s volcano, 239
+Nelsons volcano, 239
 
 NeoceraiodiLs forsteriy 295*
 
@@ -3084,9 +3084,9 @@ Odontocephalus selenurus, 322*
 
 Ogishke conglomerate, 102
 
-Ogygites canadensis^ 242*
+Ogygites canadensis 242*
 
-OgygopsiSj 200
+OgygopsiS, 200
 
 Oil, see Petroleum
 
@@ -3098,11 +3098,11 @@ Olenellus thompsonll 189*
 
 Olenellus zone, 191
 
-OlenoideSj 200
+OlenoideS, 200
 
 Oligocene, 100, 589, 590, 592, 593,* 594, 595, 598-599, 600, 602, 606, 610, 611, 673 climate, 598 paleogeography, 593*
 
-OljTnpic mts., 5^
+OljTnpic mts., 5
 
 Onchus, 274
 
@@ -3112,7 +3112,7 @@ Oneota formation, 197
 
 <span id="p713"><sup><small>[ p. 713 ]</small></sup></span>
 
-Onohippidiunij 630*
+Onohippidiuni, 630*
 
 Onondaga cuesta, 268* group, 308,* 309, 313*
 
@@ -3124,7 +3124,7 @@ Ontogeny, 14, 46, 155-157
 
 Onyckocrinus Tamvlosm, 337*
 
-Ooceras kirhyij 236*
+Ooceras kirhyi, 236*
 
 Oolite deposits, 82 faunas, 341 series of Europe, 499
 
@@ -3150,7 +3150,7 @@ Oreodonts, 619, 620, 621,* 622
 
 Organic evolution, 22, 24, 25, 36, 37, 49, 89, 92 interdependence, 450 residues, petroleum, 26, 247-260 sediments, amount of, 85
 
-Organisms, 5, 6, 8, 10, 44, 49, 157 barriers of, 43 cells of, 7, 9* classification of, 12, 15, 44 dispersal centers of, 44 geographic distribution of, 43 multicellular, 7, 10 preservable parts of, 28, 30, 321 prodigality of, 36 recapitulation in, 46 unic^ular, 7, 10
+Organisms, 5, 6, 8, 10, 44, 49, 157 barriers of, 43 cells of, 7, 9* classification of, 12, 15, 44 dispersal centers of, 44 geographic distribution of, 43 multicellular, 7, 10 preservable parts of, 28, 30, 321 prodigality of, 36 recapitulation in, 46 unicular, 7, 10
 
 Organs, 8 use and disuse of, 39
 
@@ -3164,19 +3164,19 @@ Ornaments and man, 683, 684
 
 Omithischia, 481, 496
 
-OmitkolesteSj 482, 483*
+OmitkolesteS, 482, 483*
 
 Ornithopoda, 481, 486-487
 
-Omi^Qmhyrkh^ 475
+OmiQmhyrkh 475
 
 Orogeny, 244, 277, 316-318, 343-344, 367-369, 426-428, 509-510, 546-547, 567-570, 603-605, 608, 610 and climate, 445,* 661 periodic, 446
 
-OrohippuSj 630*
+OrohippuS, 630*
 
 Orthis iricenana, 240*
 
-OrthoceraSj 227, 236*
+OrthoceraS, 227, 236*
 
 Orthogenetic changes, 42
 
@@ -3184,7 +3184,7 @@ Orihonoia undulaia, 320*
 
 Orthopoda, 481
 
-Orthostoma liiuiJormiSj 236*
+Orthostoma liiuiJormiS, 236*
 
 Osagian series, 335
 
@@ -3192,7 +3192,7 @@ Osborn, H. F., 493*
 
 Osgood formation, 264
 
-Ost^olepis, 291,* 298
+Ostolepis, 291,* 298
 
 Ostracoderms, 239, 293, 294, 296-297, 331
 
@@ -3208,7 +3208,7 @@ Overlaps of oceans, 64, 566, 591-596
 
 Overthrusts in Norway, 277
 
-Owendta^ 201,* 203
+Owendta 201,* 203
 
 Oxfordian of Europe, 502
 
@@ -3218,7 +3218,7 @@ Proterozoic, 158, 164
 
 Oxydymenia undulata, 322* Oxydactylus, 631*
 
-Oxj^gen, 130-131, 133, 134, 153
+Oxjgen, 130-131, 133, 134, 153
 
 Oysters, 21, 454, 520,* 521, 541,* 552, 575,* 601 and climate, 443
 
@@ -3244,15 +3244,15 @@ Pal(B07mstodony 641,* 642, 644, 645
 
 Pal€Bophonm nunciuSy 274* Palaosauropus, 342
 
-Paleanthropu^s heiddhergensis, 680
+Paleanthropus heiddhergensis, 680
 
 Paleobiologj', 14
 
 Paleobotany, 14
 
-Paleocene, ^7, 564, 632 mammals, 618
+Paleocene, 7, 564, 632 mammals, 618
 
-Paleoclimatolog\% 438-452
+Paleoclimatology 438-452
 
 Paleodietyoptera, 12, 19, 363,* 433
 
@@ -3266,7 +3266,7 @@ Paleozoic, 101, 105, 182-184 floods, 96
 
 seas, vanishing of, 423 water in, 65
 
-Paleozo6log\', 14
+Paleozology, 14
 
 Palisade Disturbance, 456, 463-464
 
@@ -3274,7 +3274,7 @@ Palisades, 456, 458,* 459, 460*
 
 Palms, 573, 598, 601 and climate, 443
 
-Palux\’ formation, 537, 539* Pamunkey formation, 590
+Palux’ formation, 537, 539* Pamunkey formation, 590
 
 Panama portal, 557,* 593*
 
@@ -3337,7 +3337,7 @@ Peridineans, 155*
 
 Periodic spread of oceans, 95
 
-Periodicity^, 446, 447-452 and climate, 438-4:52
+Periodicity, 446, 447-452 and climate, 438-4:52
 
 Periods, 91, 92, 100
 
@@ -3383,7 +3383,7 @@ Phyllocarids, 203
 
 Phylloceras, 476, 531
 
-PkyllograptuSj 234, 236*
+PkyllograptuS, 234, 236*
 
 Phyllopoi, 203, 276*
 
@@ -3407,7 +3407,7 @@ Pineal eye, 410,* 411, 414, 495
 
 Pisces, see Fishes Pit formation, 456
 
-PithecanthropiLS, 667,* 668,* 669, 671,* 672, 674r^75, 677, 688
+PithecanthropiLS, 667,* 668,* 669, 671,* 672, 674r75, 677, 688
 
 Pittsburgh coal bed, 397
 
@@ -3427,7 +3427,7 @@ Planets, 120,* 121, 125, 127
 
 Plankton, 72, 73
 
-Planolites corrugatuSj 178*
+Planolites corrugatuS, 178*
 
 Plant kingdom, 14, 16
 
@@ -3445,9 +3445,9 @@ Platis, 55,* 56
 
 Plaiyceras angulaium, 270*
 
-Platycrinus symmeiricus, 337* Plaiystropkia hticostOj 240*
+Platycrinus symmeiricus, 337* Plaiystropkia hticostO, 240*
 
-Plat\Tirus fauna, 233
+PlatTirus fauna, 233
 
 Playas, SO
 
@@ -3461,13 +3461,13 @@ Plesiosaurs, 506, 518, 519,* 559,* 578
 
 Pleurocadus nan us, 483*
 
-Plewrotomaria^ 203, 223*
+Plewrotomaria 203, 223*
 
 Pliensbachian of Europe, 502
 
 Pliocene, 23, 100, 589, 590, 592, 594, 595, 600, 603, 604, 606, 609, 610, 611, 654, 688 climate, 600 mammals, 622-623 paleogeographj", 593*
 
-PliohippuSj 630*
+PliohippuS, 630*
 
 Pocahontas formation, 353
 
@@ -3475,7 +3475,7 @@ Pocono formation, 310,* 335, 336, 343 plateau, 357*
 
 Podokesaurus holyokensiSy 480* Poebrotherium, 631*
 
-PokxantkuSj 489
+PokxantkuS, 489
 
 Polar wandering, 660
 
@@ -3541,7 +3541,7 @@ Primitive Invertebrates, Age of, 102 “Primitive Series,” 261
 
 Proboscidea, see Elephants Proctor formation, 197
 
-Prodiictellaj 321*, 334
+Prodiictella, 321*, 334
 
 Productus, 341, 365,* 374
 
@@ -3553,7 +3553,7 @@ Productus seas, 333
 
 Prcetus parviuscuLus, 242*
 
-Prollcanites lunvMcosta, 322* Promerycochoerus carrikerij 621* Propliopithecus, 672
+Prollcanites lunvMcosta, 322* Promerycochoerus carrikeri, 621* Propliopithecus, 672
 
 Proterozoic, 102, 105, 158-178 climate, 171-175, 446, 660 distribution of, 147* geosynclines, 65, 158, 159* life, 163,* 175-178
 
@@ -3561,7 +3561,7 @@ North America in, 141* red beds, 158
 
 ProHUinoihenum, 634
 
-ProioceratopSj 490
+ProioceratopS, 490
 
 Protochordates, 47
 
@@ -3581,7 +3581,7 @@ Protollpidodendron primcBvuniy 328* Protophyta, 7, 17,* 157
 
 Protopoda, 412
 
-ProtorohippuSj 627*
+ProtorohippuS, 627*
 
 Protcspongia, 199*
 
@@ -3591,7 +3591,7 @@ Proto-Trilobita, 47
 
 Protovxirthia cancellata, 242
 
-Protozoa, 7, 10, 12, 19, 20, 47, 155,* 157, 337,* 365,* 366* ProtyhpuSj 631*
+Protozoa, 7, 10, 12, 19, 20, 47, 155,* 157, 337,* 365,* 366* ProtyhpuS, 631*
 
 Provinces, life, 187, 233, 269, 318
 
@@ -3627,15 +3627,15 @@ Pulsing of life, 42
 
 Purbeckian of Europe, 502
 
-P^Tamids of Egypt, 597
+PTamids of Egypt, 597
 
-P^Tenees Mts., origin of, 610
+PTenees Mts., origin of, 610
 
 Pyropsis bairdi, 575*
 
 Pyrokiales, 258
 
-Pyro^heric time, 103
+Pyroheric time, 103
 
 ## Q
 
@@ -3656,7 +3656,7 @@ Races, extinction of, 11
 
 Racine fonnation, 264, 272*
 
-Radiate animals, 282-288 “Radioactive clock,” 104, 105* Radioactivity, 104^106, 114, 127, 132
+Radiate animals, 282-288 “Radioactive clock,” 104, 105* Radioactivity, 104106, 114, 127, 132
 
 Radiolaria, 19, 20, 28, 70,* 72, 175, 177, 181
 
@@ -3778,7 +3778,7 @@ Rocks, specific gravity of, 61
 
 Rockwood formation, 264
 
-Rocky Mt. geosyncline, 138, 50C, 5 538, 543, 547, 554, 556 -j M ts., 566, 569,* 599, 603, 606 ancestral, 368, 422, 425,* 42( continental deposits of, 596
+Rocky Mt. geosyncline, 138, 50C, 5 538, 543, 547, 554, 556 -, M ts., 566, 569,* 599, 603, 606 ancestral, 368, 422, 425,* 42( continental deposits of, 596
 
 <span id="p718"><sup><small>[ p. 718 ]</small></sup></span>
 
@@ -3830,17 +3830,17 @@ Salinity of oceans, 66, 132-133
 
 Salt, 247, 264, 273,* 279, 422, 424, 435437 and climate, 442 domes, in oil accumulation, 259* formation, theory of, 436 in Germany', 424, 435
 
-Saiterellaj 190
+Saiterella, 190
 
-Salton S^, 604
+Salton S, 604
 
-SamaropsiSj 433
+SamaropsiS, 433
 
 San Andreas rift, 603 Lorenzo formation, 590 Pablo formation, 590
 
 Sand-dollars, 346, 347, 520
 
-Sands, desert, 326, 441 ^ass, 280 wind-blown, 441
+Sands, desert, 326, 441 ass, 280 wind-blown, 441
 
 Sandstone, 33, 82, 85, 280, 441
 
@@ -3856,7 +3856,7 @@ Satellites of planets, 120,* 121, 127
 
 Saturn, 119,* 120,* 121
 
-Saukuij 203
+Saukui, 203
 
 Saurischia, 481, 496
 
@@ -3998,11 +3998,11 @@ Sillery formation, 205
 
 Silurian, 101, 105, 261-281 climate, 275, 277, 446 economic products, 278-280
 
-Hfe, 269-275 • paleogeography, 273* tillites, 277
+Hfe, 269-275  paleogeography, 273* tillites, 277
 
 Silver, 170, 171, 581
 
-Sin^murian of Europe, 502
+Sinmurian of Europe, 502
 
 Sink holes, 339
 
@@ -4102,7 +4102,7 @@ Stars, 107-126 catastrophes among, 114, 115 dark, 110, 114, 117 dwarf and giant,
 
 Stature of man, 668
 
-Siattrocephalus murchisoni, 270* Siaurograj^us, 234
+Siattrocephalus murchisoni, 270* Siaurograjus, 234
 
 Stegocephalia, 19, 47, 298, 331, 360,* 364, 407,* 408, 409-412, 434, 454, 468, 473
 
@@ -4110,7 +4110,7 @@ Stegodon, 641,* 644
 
 Stegomus, 480*
 
-Stegopdta^ 489
+Stegopdta 489
 
 Stegosauria, 481, 487-489
 
@@ -4222,7 +4222,7 @@ Taconie Disturbance, 243, 445* emergence, 243, 263*
 
 Tadpoles, 406*
 
-Tails in ^hes, 290, 292, 299 .
+Tails in hes, 290, 292, 299 .
 
 Talchir tillites, India, 175, 421
 
@@ -4246,7 +4246,7 @@ Tehuantepec portal, 604
 
 Tejon formation, 590
 
-T^ceraSy 622, 637*
+TceraSy 622, 637*
 
 TdeosavruSy 578
 
@@ -4286,7 +4286,7 @@ Textulana, 536*
 
 Thalassocratic movements, 95
 
-Thallophj^es, 17, 329, 378
+Thallophjes, 17, 329, 378
 
 Thamnoptychia Umbatlly 320* Thanetian of Europe, 537
 
@@ -4344,7 +4344,7 @@ Torbanites, 258
 
 Tomaria, 47
 
-TormceroB simpleXj 322*
+TormceroB simpleX, 322*
 
 Torosaurus, 485,* 489
 
@@ -4380,13 +4380,13 @@ Trenton formation, 229, 230, 233, 237, 239, 245, 257* man, 686 oil and gas, 244
 
 Trial and error, 1, 4
 
-TriarthTus hecki^ 208,* 242*
+TriarthTus hecki 208,* 242*
 
 Triassic period, 100, 105, 453-478 climate, 446, 463, 476 coal, 463 life, 472-478, 480* Newark series, 457-464 of Europe, 454r-455 paleogeography, 465*
 
 Triceraiops, 485,* 489, 495
 
-Trigonia^ 518*, 521
+Trigonia 518*, 521
 
 Trigonias, 637
 
@@ -4400,7 +4400,7 @@ Trinity formation, 537, 538, 541
 
 Triplecia extans, 240*
 
-Trilidtes secdicuSj 365*
+Trilidtes secdicuS, 365*
 
 Trochonerm umbilicatum, 242* Trochophora, 19, 47, 155*
 
@@ -4418,7 +4418,7 @@ Tunicates, 19
 
 Tupaia, 616
 
-Turonian of Europe, 535, 537, 555* Turritella whitdj 575
+Turonian of Europe, 535, 537, 555* Turritella whitd, 575
 
 Turtles, 19, 412, 474, 479, 578, 601
 
@@ -4448,7 +4448,7 @@ Unicellular life, dawn of, 103
 
 Uniformitarianism, 1, 4, 89, 449
 
-UniOj 468, 473
+UniO, 468, 473
 
 United States, mineral wealth of, 403 Range, 54
 
@@ -4484,7 +4484,7 @@ Valcour formation, 233
 
 Vaqueros formation, 590
 
-VaranosauTu^ brevirostris, 413* Variation, organic, 14, 37
+VaranosauTu brevirostris, 413* Variation, organic, 14, 37
 
 Variscian mts., 344, 367
 
@@ -4518,7 +4518,7 @@ Vindbyan tillites, 174
 
 Virgal formation of India, 421
 
-Vis^an of Europe, 333
+Visan of Europe, 333
 
 Vishnu schist, Frontispiece, 149
 
@@ -4532,7 +4532,7 @@ Volcanoes, 131-132, 169, 277, 316, 317,* 359, 426, 456, 465,* 467, 505,* 509, 56
 
 VoZfeia, 433
 
-VcllvoXj 157
+VcllvoX, 157
 
 Vosgian of Europe, 456
 
@@ -4622,7 +4622,7 @@ Whitewater formation, 102, 160
 
 Whitfidddla nitida, 270*
 
-Wichita ^prmation, 421
+Wichita formation, 421
 
 Mts., 343, 368
 
