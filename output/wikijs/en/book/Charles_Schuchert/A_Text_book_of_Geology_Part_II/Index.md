@@ -692,9 +692,7 @@ Burlington formation, 335, 336, 338
 Butterflies, 37, 515*
 
 
-##
-
-C
+## C
 
 Cacops aspidephorm, 407*
 
@@ -889,7 +887,7 @@ ChosteteS, 370*
 
 Chagrin formation, 309
 
-Chalk dei)osits, 534r-536
+Chalk deposits, 534r-536
 
 Chamberlin, T. C., 123* and Moulton, planetesimal theory of, 122-125
 
