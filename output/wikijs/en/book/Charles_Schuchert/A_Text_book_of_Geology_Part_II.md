@@ -25,7 +25,7 @@ dateCreated: 2025-2-12T12:17:52Z
 
 <p style="text-align:center;">
 <span class="text-h3">A TEXT-BOOK OF </span><br>
-<span class="text-h3">G E 0 L O G Y </span><br>
+<span class="text-h3">G E O L O G Y </span><br>
 PART II<br>
 HISTORICAL GEOLOGY<br>
 BY<br>

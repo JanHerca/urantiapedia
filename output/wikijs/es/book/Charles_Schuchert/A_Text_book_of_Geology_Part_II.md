@@ -25,7 +25,7 @@ dateCreated: 2025-2-12T14:46:23Z
 
 <p style="text-align:center;">
 <span class="text-h3">UN LIBRO DE TEXTO DE </span><br>
-<span class="text-h3">G E 0 L O G Í A </span><br>
+<span class="text-h3">G E O L O G Í A </span><br>
 PARTE II<br>
 GEOLOGÍA HISTÓRICA<br>
 POR<br>
