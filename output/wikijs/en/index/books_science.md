@@ -103,7 +103,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Text-book of Geology, Part II—Historical Geology, Second, Revised Edition</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Schuchert</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -144,7 +144,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin and Rollin D. Salisbury</text>
+							<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin</text>
+							<text style="font-size:5px" x="61" y="28">and Rollin D. Salisbury</text>
 							<text style="font-size:4px" x="61" y="125">New York: Henry Holt and Company, 1930</text>
 							<text style="font-size:9px" x="61" y="60">College Text-book</text>
 							<text style="font-size:9px" x="61" y="70">of Geology,</text>
@@ -1057,7 +1058,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">Funk & Wagnals Company, New York and London, 1929</text>
+							<text style="font-size:4px" x="61" y="125">Funk & Wagnals Company, New York/London, 1929</text>
 							<text style="font-size:9px" x="61" y="60">The Mind</text>
 							<text style="font-size:9px" x="61" y="70">at Mischief</text>
 						</g>

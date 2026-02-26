@@ -65,9 +65,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Louis V. Pirsson</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1920</text>
-							<text style="font-size:9px" x="61" y="60">Un manuel de géologie,</text>
-							<text style="font-size:9px" x="61" y="70">première partie</text>
-							<text style="font-size:9px" x="61" y="80">Géologie physique</text>
+							<text style="font-size:9px" x="61" y="60">Un manuel</text>
+							<text style="font-size:9px" x="61" y="70">de géologie,</text>
+							<text style="font-size:9px" x="61" y="80">première partie</text>
+							<text style="font-size:9px" x="61" y="90">Géologie physique</text>
 						</g>
 					</svg>
 				</div>
@@ -91,7 +92,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Schuchert</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1924</text>
-							<text style="font-size:9px" x="61" y="60">Un manuel de géologie</text>
+							<text style="font-size:9px" x="61" y="60">Un manuel</text>
+							<text style="font-size:9px" x="61" y="70">de géologie</text>
 							<text style="font-size:9px" x="61" y="80">partie II</text>
 							<text style="font-size:9px" x="61" y="90">Géologie historique</text>
 						</g>
@@ -101,7 +103,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Un manuel de géologie, partie II – Géologie historique, deuxième édition révisée</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Schuchert</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -117,7 +119,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Schuchert et Carl O. Dunbar</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1933</text>
-							<text style="font-size:9px" x="61" y="60">Un manuel de géologie</text>
+							<text style="font-size:9px" x="61" y="60">Un manuel</text>
+							<text style="font-size:9px" x="61" y="70">de géologie</text>
 							<text style="font-size:9px" x="61" y="80">partie II</text>
 							<text style="font-size:9px" x="61" y="90">Géologie historique</text>
 						</g>
@@ -170,9 +173,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Andras Angyal</text>
 							<text style="font-size:4px" x="61" y="125">New York: Le Viking Press, 1941</text>
-							<text style="font-size:9px" x="61" y="60">Fondements  la personnalité</text>
+							<text style="font-size:9px" x="61" y="60">Fondements</text>
 							<text style="font-size:9px" x="61" y="70">d'une science de</text>
-							<text style="font-size:9px" x="61" y="80">of Personality</text>
+							<text style="font-size:9px" x="61" y="80">la personnalité</text>
 						</g>
 					</svg>
 				</div>
@@ -224,7 +227,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Le mythe le</text>
 							<text style="font-size:9px" x="61" y="70">plus dangereux</text>
 							<text style="font-size:9px" x="61" y="80">de l'homme :</text>
-							<text style="font-size:9px" x="61" y="80">l'erreur raciale</text>
+							<text style="font-size:9px" x="61" y="90">l'erreur raciale</text>
 						</g>
 					</svg>
 				</div>
@@ -378,8 +381,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G. F. Scott Elliot</text>
 							<text style="font-size:4px" x="61" y="125">London: Seeley, Service & Co. Limited, 1915</text>
-							<text style="font-size:9px" x="61" y="60">L'homme préhistorique</text>
-							<text style="font-size:9px" x="61" y="70">et son histoire</text>
+							<text style="font-size:9px" x="61" y="60">L'homme</text>
+							<text style="font-size:9px" x="61" y="70">préhistorique</text>
+							<text style="font-size:9px" x="61" y="80">et son histoire</text>
 						</g>
 					</svg>
 				</div>
@@ -948,13 +952,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert H. Baker</text>
 							<text style="font-size:4px" x="61" y="125">Baltimore: Le Williams & Wilkins Company, 1932</text>
-							<text style="font-size:9px" x="61" y="40">Le déploiement de l'univers :</text>
-							<text style="font-size:9px" x="61" y="50">l'histoire de</text>
-							<text style="font-size:9px" x="61" y="60">la compréhension</text>
-							<text style="font-size:9px" x="61" y="70">croissante de</text>
-							<text style="font-size:9px" x="61" y="80">l'homme</text>
-							<text style="font-size:9px" x="61" y="90">de l'univers</text>
-							<text style="font-size:9px" x="61" y="100">qui l'entoure</text>
+							<text style="font-size:9px" x="61" y="40">Le déploiement</text>
+							<text style="font-size:9px" x="61" y="50">de l'univers :</text>
+							<text style="font-size:9px" x="61" y="60">l'histoire de</text>
+							<text style="font-size:9px" x="61" y="70">la compréhension</text>
+							<text style="font-size:9px" x="61" y="80">croissante de</text>
+							<text style="font-size:9px" x="61" y="90">l'homme</text>
+							<text style="font-size:9px" x="61" y="100">de l'univers...</text>
 						</g>
 					</svg>
 				</div>
@@ -1003,10 +1007,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: A. C. McClurg & Co., 1914</text>
-							<text style="font-size:9px" x="61" y="60">Inquiétudes et nervosité,</text>
-							<text style="font-size:9px" x="61" y="70">ou la science</text>
-							<text style="font-size:9px" x="61" y="80">de la maîtrise</text>
-							<text style="font-size:9px" x="61" y="90">de soi</text>
+							<text style="font-size:9px" x="61" y="60">Inquiétudes</text>
+							<text style="font-size:9px" x="61" y="70">et nervosité,</text>
+							<text style="font-size:9px" x="61" y="80">ou la science</text>
+							<text style="font-size:9px" x="61" y="90">de la maîtrise</text>
+							<text style="font-size:9px" x="61" y="100">de soi</text>
 						</g>
 					</svg>
 				</div>

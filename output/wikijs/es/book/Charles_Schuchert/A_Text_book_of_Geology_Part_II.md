@@ -43,8 +43,6 @@ Londres: CHAPMAN & HALL, LIMITED <br>
 
 
 
-«tiempos críticos»
-
 ## Índice
 
 - [PREFACIO A LA PARTE II](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/Preface)
@@ -79,12 +77,12 @@ Londres: CHAPMAN & HALL, LIMITED <br>
 - [XXIX. El carbón y su presencia en la naturaleza](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/29)
 - [XXX. El surgimiento de los vertebrados terrestres y el amanecer de los reptiles](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/30)
 - [XXXI. El período Pérmico y su clima glacial](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/31)
-- [XXXII. Climas del pasado geológico y de los “tiempos críticos”](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/32)
+- [XXXII. Climas del pasado geológico y de los «tiempos críticos»](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/32)
 - [XXXIII. El comienzo del Mesozoico: el período Triásico](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/33)
 - [XXXIV. Los dinosaurios, los poderosos gobernantes de los ijads mesozoicos](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/34)
 - [XXXV. El período Jurásico y las múltiples especies de reptiles](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/35)
 - [XXXVI. Los dragones de la Edad Media](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/36)
-- [XXXVII. Amonitas y calamares 528*](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
+- [XXXVII. Amonitas y calamares](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
 - [XXXVIII. El Cretácico Inferior y la Primera Aparición de las Plantas con Flores (Angiospermas)](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/38)
 - [XXXIX. El Cretácico Superior y el nacimiento de las Montañas Rocosas](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/39)
 - [XL. Los pájaros dentados de la Edad Media](/es/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/40)

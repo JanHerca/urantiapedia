@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2025-2-12T22:35:10Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Charles Schuchert</text>		<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1924</text>		<text style="font-size:9px" x="61" y="60">Un manuel</text>		<text style="font-size:9px" x="61" y="70">de Géologie,</text>		<text style="font-size:9px" x="61" y="80">Deuxième partie—</text>		<text style="font-size:9px" x="61" y="90">Géologie historique</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">UN MANUEL DE </span><br><span class="text-h3">G E O L O G I E</span><br>PARTIE II<br>GEOLOGIE HISTORIQUE<br>PAR<br><span class="text-h5">CHARLES SCHUCHERT</span><br>DEUXIÈME ÉDITION RÉVISÉE<br>MAISON ALÉATOIRE<br>NEW YORK<br>JOHN WILEY & SONS, Inc.<br>Londres : CHAPMAN & HALL, LIMITED <br>1915<br><br></p><br>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Charles Schuchert</text>
+		<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1924</text>
+		<text style="font-size:9px" x="61" y="60">Un manuel</text>
+		<text style="font-size:9px" x="61" y="70">de Géologie,</text>
+		<text style="font-size:9px" x="61" y="80">Deuxième partie—</text>
+		<text style="font-size:9px" x="61" y="90">Géologie historique</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">UN MANUEL DE </span><br>
+<span class="text-h3">G E O L O G I E</span><br>
+PARTIE II<br>
+GEOLOGIE HISTORIQUE<br>
+PAR<br>
+<span class="text-h5">CHARLES SCHUCHERT</span><br>
+DEUXIÈME ÉDITION RÉVISÉE<br>
+MAISON ALÉATOIRE<br>
+NEW YORK<br>
+JOHN WILEY & SONS, Inc.<br>
+Londres : CHAPMAN & HALL, LIMITED <br>
+1915<br>
+<br>
+</p>
+
+<br>
+
+
+
+
+
 ## Table des matières
 
 - [PRÉFACE À LA PARTIE II](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/Preface)
@@ -48,7 +84,7 @@ dateCreated: 2025-2-12T22:35:10Z
 - [XXXIV. Les dinosaures, puissants maîtres des Ijands du Mésozoïque](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/34)
 - [XXXV. La période jurassique et les nombreuses espèces de reptiles](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/35)
 - [XXXVI. Les dragons du Moyen-Âge](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/36)
-- [XXXVII. Ammonites et calmars 528*](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
+- [XXXVII. Ammonites et calmars](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
 - [XXXVIII. Le Crétacé inférieur et la première apparition des plantes à fleurs (angiospermes)](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/38)
 - [XXXIX. Le Crétacé supérieur et la naissance des montagnes Rocheuses](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/39)
 - [XL. Les oiseaux à dents du Moyen-Âge](/fr/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/40)

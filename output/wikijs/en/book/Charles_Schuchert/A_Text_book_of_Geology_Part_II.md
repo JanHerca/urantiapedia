@@ -84,7 +84,7 @@ London: CHAPMAN & HALL, LIMITED <br>
 - [XXXIV. Dinosaurs, the Mighty Rulers of Mesozoic Lands](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/34)
 - [XXXV. The Jurassic Period and the Many Kinds of Reptiles](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/35)
 - [XXXVI. The Dragons of Medieval Time](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/36)
-- [XXXVII. Ammonites and Squids 528*](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
+- [XXXVII. Ammonites and Squids](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/37)
 - [XXXVIII. The Lower Cretaceous, and the First Appearance of Flowering Plants (Angiosperms)](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/38)
 - [XXXIX. Upper Cretaceous Time and the Birth of the Rocky Mountains](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/39)
 - [XL. The Toothed Birds of Medieval Times](/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/40)
