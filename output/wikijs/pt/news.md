@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2026
 
+- [Notícias de fevereiro de 2026](/pt/news/2026/02)
 - [Notícias de janeiro de 2026](/pt/news/2026/01)
 
 ## 2025
