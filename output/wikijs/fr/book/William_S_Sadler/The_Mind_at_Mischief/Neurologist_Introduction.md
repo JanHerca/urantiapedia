@@ -1,6 +1,6 @@
 ---
 title: "L'introduction du neurologue"
-description: "L'esprit malfaisant"
+description: "Les subterfuges du mental"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Psychology, book
@@ -64,7 +64,7 @@ Il se trouve que le Dr Sadler est tout à fait apte à présenter le sujet de ce
 
 <span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
-Nous avons donc dans ce livre une exposition populaire, scientifiquement correcte, sensée et pratique du subconscient. « L’esprit malfaisant » mérite amplement une large diffusion.
+Nous avons donc dans ce livre une exposition populaire, scientifiquement correcte, sensée et pratique du subconscient. « Les subterfuges du mental » mérite amplement une large diffusion.
 
 Dr Meyer Solomon
 

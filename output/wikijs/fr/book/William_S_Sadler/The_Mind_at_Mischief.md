@@ -1,5 +1,5 @@
 ---
-title: "L'esprit malfaisant"
+title: "Les subterfuges du mental"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -16,8 +16,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 		<text style="font-size:5px;" x="61" y="22">William S. Sadler, M.D., F.A.C.S.</text>
 		<text style="font-size:4px;" x="61" y="125">Funk & Wagnals Company</text>
 		<text style="font-size:4px;" x="61" y="130">New York and London, 1929</text>
-		<text style="font-size:9px;" x="61" y="60">L'esprit</text>
-		<text style="font-size:9px;" x="61" y="70">malfaisant</text>
+		<text style="font-size:9px;" x="61" y="60">Les subterfuges</text>
+		<text style="font-size:9px;" x="61" y="70">du mental</text>
 	</g>
 </svg>
 </div>

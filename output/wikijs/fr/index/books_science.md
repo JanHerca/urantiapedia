@@ -1036,13 +1036,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px;" x="61" y="125">Funk & Wagnals Company</text>
 							<text style="font-size:4px;" x="61" y="130">New York and London, 1929</text>
-							<text style="font-size:9px;" x="61" y="60">L'esprit</text>
-							<text style="font-size:9px;" x="61" y="70">malfaisant</text>
+							<text style="font-size:9px;" x="61" y="60">Les subterfuges</text>
+							<text style="font-size:9px;" x="61" y="70">du mental</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'esprit malfaisant</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les subterfuges du mental</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/book/William_S_Sadler/The_Mind_at_Mischief" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
