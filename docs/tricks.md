@@ -354,6 +354,7 @@ Other special chars:
 - Œ
 - §
 - ~~Tachado~~
+- ©
 
 omissions in quotes:
 * english . . .

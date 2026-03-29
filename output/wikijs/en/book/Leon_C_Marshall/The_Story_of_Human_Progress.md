@@ -172,6 +172,7 @@ THE MACMILLAN COMPANY<br>
 			- (How well we shall live together depends upon our ability to develop group ideals of producing ever better man)
 		- [D. What does the future hold?](/en/book/Leon_C_Marshall/The_Story_of_Human_Progress/17#p534)
 			- (Our unsolved problems — a challenging opportunity for each and every one of us)
+- [INDEX](/en/book/Leon_C_Marshall/The_Story_of_Human_Progress/Index)
 
 ## External links
 
