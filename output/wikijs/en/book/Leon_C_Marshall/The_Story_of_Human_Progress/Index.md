@@ -203,7 +203,6 @@ Money, 284-298; beginnings of, among Iroquois, 46; recentness of present use of,
 <span id="p546"><sup><small>[ p. 546 ]</small></sup></span>
 
 Monopolies, see Trusts and monopolies
-
 Monotype, 233
 Mothers’ pension law, 350
 Movable type of Gutenberg:, 230
