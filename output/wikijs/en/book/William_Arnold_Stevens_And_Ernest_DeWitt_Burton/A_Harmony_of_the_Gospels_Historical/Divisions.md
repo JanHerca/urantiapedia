@@ -32,7 +32,23 @@ dateCreated: 2025-2-12T12:27:7Z
   </table>
 </figure>
 
+Part I.— **THE THIRTY TEABS OF PRIVATE LIFE**: From the Birth of Jesus untill the Coming of John the Baptist.
 
+Part II.— **THE OPENING EVENTS OF CHRISTS MINISTRY**: From the Coming of John the Baptist until the Public Appearance of Jesus in Jerusalem.
+
+Part III.— **THE EARLY JUDEAN MINISTRY**: From the Public Appearance of Jesus in Jerusalem until his Return to Galilee.
+
+Part IV.— **FIRST PERIOD OF THE GALILEAN MINISTRY**: From the Return to Galilee until the Choosing of the Twelve.
+
+Part V.— **SECOND PERIOD OF THE GALILEAN MINISTRY**: From the Choosing of the Twelve until the Withdrawal into Northern Galilee.
+
+Part VI.— **THIRD PERIOD OF THE GALILEAN MINISTRY**: From the Withdrawal into Northern Galilee until the Final Departure for Jerusalem.
+
+Part VII.— **THE PEREAN MINISTRY**: From the Final Departure from Galilee until the Final Arrival in Jerusalem.
+
+Part VIII.— **THE PASSION WEEK**: From the Final Arrival in Jerusalem until the Resurrection.
+
+Part IX.— **THE FORTY DAYS**: From the Resurrection to the Ascension.
 
 <figure class="table chapter-navigator">
   <table>

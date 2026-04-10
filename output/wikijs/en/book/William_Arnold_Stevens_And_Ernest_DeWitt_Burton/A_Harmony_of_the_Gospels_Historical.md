@@ -42,6 +42,8 @@ UNIVERSITY OF CHICAGO<br>
 CHARLES SCRIBNER'S SONS New York<br>
 1904, 1932<br>
 <br>
+The text of the Revised Version of 1881 is used in the body of this book with the consent of the University Presses of Oxford and Cambridge. <br>
+The words in the footnotes of this book taken from the American Standard Edition of the Revised Bible, copyright, 1901, by Thomas Nelson & Sons, are used by permission of the publishers. 
 </p>
 
 
@@ -64,3 +66,13 @@ CHARLES SCRIBNER'S SONS New York<br>
 ## External links
 
 - [Internet Archive](https://archive.org/details/harmonyofgospels0000wmar)
+
+## Palestine in the time of Christ
+
+<br style="clear:both;"/>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/001.jpg">
+</figure>
+
+<br style="clear:both;"/>
