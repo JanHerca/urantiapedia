@@ -41,6 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _De Alain Cyr (Quebec, Canadá) y Nathen Jansen (Columbia Británica, Canadá)_
 
 _Nota de la redacción: el Parlamento de las Religiones del Mundo, que tiene lugar cada tres años, se celebró del 1 al 7 de noviembre en Toronto (Canadá). El stand de_ El libro de Urantia _fue atendido por muchos lectores de Canadá, Estados Unidos y otros lugares. Dos voluntarios del stand comparten sus comentarios._
+
 <br style="clear:both;"/>
 
 ## Reacciones de Alain Cyr
