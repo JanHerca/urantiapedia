@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (license <a href="/fr/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2026 Jan Herca (license <a href="/fr/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure class="table chapter-navigator">
   <table>
@@ -130,7 +130,15 @@ Mais cela signifie-t-il que nous avons découvert la maison en question ? Ces va
 
 ## Que dit _Le Livre d'Urantia_ ?
 
-_Le Livre d'Urantia_ fait plusieurs mentions de Cana, mais aucune d'elles ne peut déchiffrer la position de la ville. Nous pouvons seulement observer que Jésus voyage de Capharnaüm à Cana avec une partie de sa famille en une seule journée. Toutefois, cela ne nous dit pas grand-chose. Pratiquement toutes les enclaves étaient à moins d'un jour de Capharnaüm, bien que celle qui soit particulièrement proche soit Khirbet Kana (voir <a id="a128_431"></a>[LU 137:3](/fr/The_Urantia_Book/137#p3_1)).
+_Le Livre d'Urantia_ fait plusieurs références à Cana, indiquant clairement qu'il s'agissait de Kefar Kenna. Lorsqu'il décrit l'emplacement de la maison de Jésus à Nazareth, il la situe à mi-chemin entre le pied de _Nebi Sa'in_ (la colline au nord de Nazareth) et « la route menant de Nazareth à Cana » (voir [LU 122:6.1](/fr/The_Urantia_Book/122#p6_1)). Cette route ne peut être autre que la _Via Maris_, qui traversait Nazareth et venait de Magdala ([LU 121:2.2](/fr/The_Urantia_Book/121#p2_2) ; [LU 123:5.7](/fr/The_Urantia_Book/123#p5_7)). Aucune route ne reliait Nazareth à Khirbet Kanah, située beaucoup plus au nord. D'autres passages montrent clairement que Cana devait être une ville très proche de Nazareth (voir [LU 124:1.12](/fr/The_Urantia_Book/124#p1_12)), aussi proche qu'Endor et Naïn (situées à quelques kilomètres au sud-est).
+
+Le fait que plusieurs villes nommées Cana existaient à l'époque de Jésus est corroboré par le fait que le _Livre d'Urantia_ mentionne parfois ce nom comme « Cana de Galilée » ([LU 137:2.3](/fr/The_Urantia_Book/137#p2_3) ; [LU 139:5.1](/en/The_Urantia_Book/139#p5_1)).
+
+De plus, les itinéraires mentionnés dans le _Livre d'Urantia_ comme étant ceux de Jésus et des apôtres suggèrent souvent que Cana se situait à Kefar Kenna. À son retour du Jourdain avec ses premiers apôtres, il traversa Nazareth, mais le _Livre d'Urantia_ indique clairement qu'ils se dirigeaient en réalité « vers Cana de Galilée » ([LU 139:5.1](/fr/The_Urantia_Book/139#p5_1)). Dans ce cas, la localisation de Khirbet Kanah serait peu cohérente.
+
+Un autre élément du _Livre d'Urantia_ qui confirme la localisation à Kefar Kenna est la mention de Jotapata dans certaines listes de villes (où le terme « villes » est employé) ([LU 138:9.3](/fr/The_Urantia_Book/138#p9_3); [LU 146:0.1](/fr/The_Urantia_Book/146#p0_1)), une ville très proche de Khirbet Kanah. Il est peu logique de citer deux localités aussi proches comme villes. De toute évidence, l'une de ces villes devait être importante, et il ne pouvait y avoir d'autres villes concurrentes à proximité. Il est tout à fait possible qu'il existât un petit village à Khirbet Kanah portant un nom similaire à Cana, mais il ne s'agissait pas de la Cana de Galilée que le _Livre d'Urantia_ considère comme une ville.
+
+Cependant, il arrive parfois que certains passages semblent incohérents. Par exemple, en [LU 137:3.1](/fr/The_Urantia_Book/137#p3_1), Jésus envoie les apôtres à Cana alors qu'il se rend en réalité à Magdala et à Capharnaüm. Il a dû emprunter le même chemin qu'eux, la _Via Maris_ ; alors pourquoi n'ont-ils pas voyagé ensemble ?
 
 Alors, pour lequel devriez-vous opter ?
 
@@ -143,19 +151,11 @@ Alors, pour lequel devriez-vous opter ?
 
 ## Conclusion
 
-A mon avis, et selon les experts, les deux premières localités, Kana et 'Ain Kanah, ne disposent pas de bases solides pour justifier leur choix. Il nous reste donc deux options : Kefar Kenna et Khirbet Kana.
+À mon avis, et suivant l'avis des experts, les deux premiers sites, Kana et 'Ain Kanah, ne sont pas suffisamment étayés pour justifier leur choix. Il ne reste donc que deux options : Kefar Kenna et Khirbet Kana.
 
-Bien que de nombreux experts proposent facilement le choix de Kefar Kenna, après avoir examiné les témoignages, comparé les plans et les références géographiques, et après avoir consulté les pages web où est montré l'avancée des campagnes archéologiques sur les deux sites, j'ai personnellement choisi par Khirbet Kana, et cela se reflète dans _Jésus de Nazareth_[^1].
+Lorsque j'ai écrit la première version de cet article (en 2009), j'avais initialement pensé que le site correct était Khirbet Kana. Cependant, après une lecture plus attentive du _Livre d'Urantia_, j'en ai conclu que le site le plus approprié est Kefar Kenna, et cette erreur sera corrigée partout où j'ai mentionné cette ville, notamment dans le roman *Jésus de Nazareth*.[^1]
 
-Il faut tenir compte du fait que Kefar Kenna se trouvait à l'époque de Jésus sur la route qui reliait Sepphoris à Tibériade. Cependant, nous savons que Tibériade a commencé à être construite pendant la jeunesse de Jésus et que Sepphoris a également connu un profond remodelage urbain à cette époque. Tout cela était dû à l’esprit bâtisseur d’Hérode Antipas, qui choisit d’abord Sepphoris puis Tibériade comme capitales de son royaume.
-
-Il est donc logique de penser qu’une voie romaine a été construite entre les deux villes, qui continuerait vers l’ouest, reliant la mer de Galilée à la Méditerranée. Mais cette route aurait été en construction à l’époque de Jésus, ou tout juste récemment construite. En revanche, les piétons sur cette route seraient sans doute des habitants de ces deux villes, juifs aux mœurs décontractées et païens, pour la plupart. Il est facile d’imaginer que cette route ne serait pas un itinéraire courant pour les Juifs de l’époque.
-
-Nous savons également qu'il existait bien avant une autre route parallèle à celle-ci, une route typiquement juive qui reliait Ptolémée à Capharnaüm et qui traversait une agréable vallée. Cela me permet d'imaginer plus facilement les Juifs empruntant cette route et évitant la route païenne qui reliait Sepphoris à Tibériade. Il est naturel de penser que l’ancienne Cana de Galilée se trouvait sur cette route typiquement juive.
-
-De tout cela, ainsi que du fait que des vestiges de l'époque de Jésus ont certainement été trouvés à Khirbet Kana et n'ont pas été trouvés aussi clairement à Kefar Kenna, m'est venue l'idée de choisir Khirbet Kana comme lieu du célèbre mariage.
-
-Mais une fois qu’il a été décidé que Kefar Kenna n’était pas le bon endroit, une autre question se pose : quelle population existait là-bas près de Nazareth au temps de Jésus ? Il faudra évidemment continuer à enquêter...
+Kefar Kenna n'est pas seulement le lieu traditionnellement indiqué par tous les pèlerins depuis des temps immémoriaux, mais il est également très proche de Nazareth. Il est donc logique que la famille de Jésus ait eu des liens avec des habitants de cette ville et qu'elle ait été invitée à un mariage là-bas. De plus, la voie principale de l'époque était la _Via Maris_, qui, comme nous le savons, traversait directement Nazareth, Cana, Magdala et Capharnaüm. Dans les itinéraires mentionnés dans le _Livre d'Urantia_, il est plus logique qu'ils soient passés par Cana de Kefar Kenna lors de leurs voyages entre Nazareth et la mer de Galilée plutôt que par l'un de ces autres lieux.
 
 ## Références
 
