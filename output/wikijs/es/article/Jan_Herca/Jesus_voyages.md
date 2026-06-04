@@ -456,10 +456,10 @@ En total el viaje de Nazaret a Antioquía representó unos diez días contando c
 
 Este fue el cuarto y último gran viaje que Jesús hizo a lo largo de su vida. Partió de Antioquía de Siria en un momento que no se nos indica, que probablemente fue a finales de junio de 25, y llegó a primeros de agosto de 25 a Cesarea de Filipo, pues se nos cuenta en _El Libro de Urantia_ que «permaneció algún tiempo en las proximidades de Cesarea» y que un «poco antes de mediados de agosto del año 25» estableció un campamento en los cerros del monte Hermón ([LU 134:8.1](/es/The_Urantia_Book/134#p8_1)).
 
-_El Libro de Urantia_ nos detalla bastante bien el itinerario ([LU 1374:7.4](/es/The_Urantia_Book/1374#p7_4)):
+_El Libro de Urantia_ nos detalla bastante bien el itinerario ([LU 134:7.4-5](/es/The_Urantia_Book/134#p7_4)):
 
 > Desde Antioquía, Jesús viajó hacia el sur a lo largo de la costa hasta Cesarea, donde se detuvo unas semanas, continuando luego por la costa hasta Jope. Desde Jope viajó tierra adentro hasta Jamnia, Asdod y Gaza. Desde Gaza cogió la ruta interior hasta Beerseba, donde permaneció una semana.
->
+> 
 > Jesús emprendió entonces su periplo final, como individuo particular, a través del corazón de Palestina, desplazándose desde Beerseba en el sur hasta Dan en el norte. En este viaje hacia el norte se detuvo en Hebrón, Belén (donde vio su lugar de nacimiento), Jerusalén (no visitó Betania), Beerot, Lebona, Sicar, Siquem, Samaria, Geba, En-Ganim, Endor y Madón. Atravesando Magdala y Cafarnaúm, continuó hacia el norte, pasando al este de las Aguas de Merom, y se dirigió por Cárata hasta Dan o Cesarea de Filipo.
 
 En este viaje, como ya hemos dicho, Jesús no utiliza rutas desconocidas para él. El trayecto desde Antioquía hasta Sidón en barca es el mismo que hizo a la ida. Cesarea y Jope ya habían formado parte de sus paradas durante su viaje a Roma con Gonod y Ganid. Además en el año 17 Jesús ya hizo un viaje por esa zona costera con su hermano Simón siguiendo la calzada junto al mar. El trayecto que realiza entre Jerusalén y Siquem es el mismo que Jesús realizó el año 12 con su hermano Santiago. Respecto al trayecto entre Cafarnaúm y Cesarea de Filipo, Jesús ya había tomado esa calzada en su viaje a Damasco cuando vivió allí durante cuatro meses en el año 17.

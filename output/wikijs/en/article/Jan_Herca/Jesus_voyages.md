@@ -423,7 +423,6 @@ Jesus' return journey, like his outward journey, is not indicated in _The Uranti
 
 ## The trip to Syria
 
-
 This was the third long journey Jesus made during his life. He left Nazareth in mid-April 25 ([UB 134:7.1](/en/The_Urantia_Book/134#p7_1)), stayed “more than two months in Antioch” ([UB 134:7.3](/en/The_Urantia_Book/134#p7_3)) and returned afterwards, probably towards the end of June 25.
 
 On this journey and the subsequent one through Palestine, Jesus no longer used routes unfamiliar to him. He had already traveled many of the roads he covered in the past. This is the point at which Jesus focuses his movements on the region of Palestine, where he will concentrate his activity during his public ministry. On the outward journey to Antioch, he passed through Tyre and Sidon, and on the return journey, he went to Caesarea and Joppa. However, tracing the itinerary of these two journeys presents a problem, as we shall see below ([UB 134:7.4](/en/The_Urantia_Book/134#p7_4)).
@@ -457,11 +456,11 @@ In total, the journey from Nazareth to Antioch took about ten days, including th
 
 This was the fourth and final major journey that Jesus made during his life. He left Antioch of Syria at a time that is not specified, probably at the end of June 25, and arrived at the beginning of August 25 in Caesarea Philippi, since we are told in _The Urantia Book_ that he “remained some time in the vicinity of Caesarea” and that “a little before the middle of August of the year 25” he established a camp in the hills of Mount Hermon ([UB 134:8.1](/en/The_Urantia_Book/134#p8_1)).
 
-_The Urantia Book_ details the itinerary quite well ([UB 1374:7.4](/en/The_Urantia_Book/1374#p7_4)):
+_The Urantia Book_ details the itinerary quite well ([UB 134:7.4-5](/en/The_Urantia_Book/134#p7_4)):
 
-> From Antioch, Jesus traveled south along the coast to Caesarea, where he stayed for a few weeks, then continued along the coast to Joppa. From Joppa, he traveled inland to Jamnia, Ashdod, and Gaza. From Gaza, he took the inland route to Beersheba, where he stayed for a week.
+> From Antioch Jesus journeyed south along the coast to Caesarea, where he tarried for a few weeks, continuing down the coast to Joppa. From Joppa he traveled inland to Jamnia, Ashdod, and Gaza. From Gaza he took the inland trail to Beersheba, where he remained for a week.
 >
-> Jesus then began his final journey, as a private individual, through the heart of Palestine, traveling from Beersheba in the south to Dan in the north. On this northward journey, he stopped at Hebron, Bethlehem (where he saw his birthplace), Jerusalem (he did not visit Bethany), Beeroth, Lebonah, Sychar, Shechem, Samaria, Geba, En-Ganim, Endor, and Madon. Passing through Magdala and Capernaum, he continued north, passing east of the Waters of Merom, and went through Karatha to Dan or Caesarea Philippi.
+> Jesus then started on his final tour, as a private individual, through the heart of Palestine, going from Beersheba in the south to Dan in the north. On this journey northward he stopped at Hebron, Bethlehem (where he saw his birthplace), Jerusalem (he did not visit Bethany), Beeroth, Lebonah, Sychar, Shechem, Samaria, Geba, En-Gannim, Endor, Madon; passing through Magdala and Capernaum, he journeyed on north; and passing east of the Waters of Merom, he went by Karahta to Dan, or Caesarea-Philippi.
 
 On this journey, as we have already mentioned, Jesus did not use any unfamiliar routes. The boat trip from Antioch to Sidon was the same one he had taken on the outward journey. Caesarea and Joppa had already been among his stops during his trip to Rome with Gonod and Ganid. Furthermore, in the year 17, Jesus had already traveled along that coastal area with his brother Simon, following the causeway by the sea. The route he took between Jerusalem and Shechem was the same one Jesus had taken in the year 12 with his brother James. Regarding the journey between Capernaum and Caesarea Philippi, Jesus had already taken that road on his way to Damascus when he lived there for four months in the year 17.
 
