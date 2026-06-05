@@ -26,6 +26,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Jesus_traveling.jpg">
 </figure>
@@ -126,6 +128,8 @@ En l'an 17, Jésus cessa de travailler pendant trois semaines et emmena son frè
 
 Les quatre derniers mois de l'année 17, Jésus séjourna à Damas ([LU 128:4.1](/fr/The_Urantia_Book/128#p4_1)). C'était la première fois qu'il se rendait en Gaulanitis, ou Syrie. La Gaulanitis, ou Golan, était une région ou tétrarchie sous le règne d'un autre Hérode qu'Antipas. Nous ignorons l'itinéraire qu'il emprunta pour s'y rendre, mais il est logique qu'il ait utilisé la voie romaine qui faisait partie de la [Via Maris](https://en.wikipedia.org/wiki/Via_Maris). Cet itinéraire partait de Nazareth ([LU 121:2.2](/fr/The_Urantia_Book/121#p2_2); [LU 123:5.7](/fr/The_Urantia_Book/123#p5_7)) jusqu'à la mer de Galilée (Magdala), passait par Capharnaüm ([LU 129:1.7](/fr/The_Urantia_Book/129#p1_7)), traversait le Jourdain quelque part au sud du lac Hulé, et montait vers la Gaulanitis, passant par Quneitra jusqu'à Damas. Tout au long de ce voyage, les pentes du mont Hermon restaient à gauche.
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Ancient_Levant_routes-es.jpg">
 <figcaption>Fig. 1. — La Via Maris (violet), la Voie des Rois (rouge) et d'autres anciennes routes commerciales, vers 1500 av. J.-C. 1300 av. J.-C. (<a href="https://commons.wikimedia.org/wiki/File:Ancient_Levant_routes-es.svg">Wikipedia</a>)</figcaption>
@@ -167,10 +171,14 @@ Le voyage à travers la Méditerranée a probablement suivi l'itinéraire et la 
 - De Neapolis à Capoue (par voie terrestre), en suivant la _voie Appienne_, où ils séjournèrent trois jours, [LU 130:8.6](/fr/The_Urantia_Book/130#p8_6).
 - De Capoue, ils continuèrent sur la _voie Appienne_[^7] et arrivèrent à Rome à pied, leur cargaison transportée par des mules.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Mediterranean_voyage.jpg">
 <figcaption>Fig. 2. — Le voyage de Jésus de Jérusalem à Rome et son retour à Sidon. D'après un extrait d'une carte de l'Ancient World Mapping Center (<a href="https://commons.wikimedia.org/wiki/File:Roman_Empire_in_AD_69.pdf">Wikipedia</a>, 2011)</figcaption>
 </figure>
+
+<br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Viae_Salaria_Tiburtina_map.jpg">
@@ -191,6 +199,8 @@ Il est curieux qu'il soit indiqué qu'ils ont fait exactement cinq voyages depui
 3. La _Via Flaminia_, qui reliait Rome à Ariminum (Rimini), était la principale voie vers le nord. Elle traversait Narnia (Narni), Mevania (Bevagna), Nuceria (Nocera), Helvillum (Sigillo), Fanum Fortunae (Fano) et Pisaurum (Pesaro). Cette route se poursuivait ensuite le long de la plaine du Pô sous le nom de _Via Aemilia_ jusqu'à Placentia (Plaisance), en passant par Bononia (Bologne), Mutina (Modène) et Parme. On pouvait rejoindre Vérone par la _Via Claudia Augusta_ depuis Mutina ou par la p_ depuis Placentia. De Vérone, des routes menaient aux lacs du nord de l'Italie : le lac _Benacus_ ou de Garde (avec Sirmione, destination touristique prisée pour ses sources thermales) ; le _Sebinus_ ou lac d'Iseo (et son mont Isola), au-delà de Brixia (Brescia) ; le _Larius_ ou lac de Côme, près de Côme ; le _Ceresius_ ou lac de Lugano ; et le _Verbanus_ ou lac Majeur.
 4. La _Via Cassia_, qui reliait Rome à Arezzo, Florence et Lucques. Elle prenait son origine sur la route précédente et bifurquait au pont Milvius, traversant les vallées à l'ouest des Apennins et longeant les lacs de Bolsena et de Trasimène.
 5. La _Via Aurelia_, qui reliait Rome à Pise et à la côte ligure. Elle traversait Palos, Torre di Chiaruccia, Graviscae, Ansedonia, Populonia et Pise, près du terminus de la route précédente. Le voyage pouvait ensuite se poursuivre par la _Via Aemilia Scauri_, un prolongement de la _Via Aurelia_, longeant la côte en direction de Luna (Luni) et de Gênes, sur un terrain très accidenté.
+
+<br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Map_of_Roman_roads_in_Italy.jpg">
@@ -216,6 +226,8 @@ Il est important de noter que, malgré l'infrastructure routière de l'Empire ro
 Il pourrait s'agir de l'un des cinq autres voyages effectués par Jésus, Gonod et Ganid autour de Rome. Puisqu'il semble que les voyageurs aient souhaité explorer en profondeur l'ensemble de l'Empire romain, il n'est pas surprenant que Gonod ait voulu voyager avec son fils le long de chacune des grandes routes partant de Rome. À l'aller, ils avaient déjà emprunté la _voie Appienne_. Lors du précédent voyage, ils avaient parcouru les voies _Flaminienne_ et _Émilienne_. On peut supposer que le voyage vers Rome par la _voie Appienne_ ne compte pas parmi les cinq autres voyages effectués au départ de Rome, pas plus que leur retour par la même voie jusqu'à Taras (Tarente). Le voyage vers les lacs du nord et la Suisse doit être considéré comme l'un des cinq voyages. Par conséquent, ils ont dû emprunter quatre autres routes principales pour explorer toute l'Italie. La _Via Salaria_, en raison de son importance commerciale, était très probablement l'une des routes qui intéressaient Gonod.
 
 Ce voyage représentait la voie de la Rome authentique et véritable. La _Via Salaria_ était la plus ancienne route de Rome, la route de « l'or blanc », le sel. L'emprunter, c'était s'immerger au cœur de l'Italie rurale, montagneuse et aristocratique.
+
+<br>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Viae_Salaria_Tiburtina_map.jpg">
@@ -303,6 +315,8 @@ De Babylone à Ur et autres lieux (à pied) : On nous dit qu’ils ont passé un
 - D'Ur à Suse (en bateau ?) : C'est ([Wikipedia](https://en.wikipedia.org/wiki/Susa)) là qu'ils ont dû passer une partie de ces trois semaines supplémentaires. Il est assez étrange qu'ils aient entrepris ce voyage, car il représentait une longue distance parcourue vers le nord pour ensuite revenir vers le sud, à Charax, en suivant le même itinéraire. Suse était située sur le fleuve Choaspes ([Wikipedia](https://en.wikipedia.org/wiki/Karkheh_River)), qui était censé se jeter dans le Tigre (ce qui n'est plus le cas), près de son confluent avec l'Euphrate, et tout près de Charax Spasinou. Il est donc possible qu'ils aient effectué ce long voyage en bateau, en remontant le fleuve, puis soient revenus par voie fluviale.
 - Charax [^19] : C'est dans cette ville que Jésus et ses amis ont fait leurs adieux à l'Inde, le 10 décembre 23 ([LU 130:0.1](/fr/The_Urantia_Book/130#p0_1)).
 
+<br>
+
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Thapsacus.jpg">
 <figcaption>Fig. 6. — Emplacements possibles de la ville de Tapsacos.</figcaption>
@@ -370,10 +384,14 @@ Ce voyage fut le deuxième et le plus long entrepris par Jésus. Pendant plusieu
 
 Jésus quitta Nazareth le 1er avril 24 ([LU 134:2.1](/fr/The_Urantia_Book/134#p2_1)) et, curieusement, revint le 1er avril 25 ([LU 134:2.5](/fr/The_Urantia_Book/134#p2_5)), ce voyage lui prit donc une année entière.
 
+<br>
+
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Middle_East_voyages.jpg">
 <figcaption>Fig. 7. — Les voyages de Jésus au Moyen-Orient. En rouge et bleu, le voyage avec Gonod et Ganid jusqu'au golfe Persique (rouge pour le voyage en caravane et bleu pour le voyage en bateau). En vert, le voyage jusqu'à la mer Caspienne.</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 _Le Livre d'Urantia_ fournit très peu de détails sur l'itinéraire possible de Jésus et les nombreuses expériences que ce voyage en caravane a dû représenter pour lui. Nous pouvons toutefois formuler des hypothèses sur un itinéraire [^20] et une chronologie, à partir des informations dont nous disposons :
 
@@ -395,10 +413,14 @@ _Le Livre d'Urantia_ fournit très peu de détails sur l'itinéraire possible de
 - D'Ecbatane à Rhagai (aujourd'hui Ray, près de Téhéran) : Cette ville était l'une des plus anciennes et des plus sacrées du monde zoroastrien. Centre commercial vital, elle était le carrefour des routes en provenance d'Inde et d'Extrême-Orient. Le voyage d'Urmia à Rhagai durait au total entre 22 et 25 jours.
 - De Rhagai à la côte caspienne (le passage de l'Alborz), en passant par Hecatompylos (l'actuelle Qumis, [Wikipedia](https://en.wikipedia.org/wiki/Qumis,_Iran)) : cette route était la plus complexe, indispensable pour pénétrer dans le magnifique royaume d'Hyrcanie. Pour atteindre la mer, il fallait franchir d'imposantes montagnes, et le meilleur passage était celui des célèbres « Portes Caspiennes » (_Pylae Caspiae_, [Wikipedia](https://en.wikipedia.org/wiki/Gates_of_Alexander)), bien que leur emplacement exact demeure incertain. Ce défilé étroit et stratégique séparait le plateau iranien des plaines caspiennes. Pour une caravane de chameaux, ce passage représentait un point crucial. Une fois le col franchi, le paysage changeait radicalement : du désert aride aux forêts subtropicales humides. La destination finale n'est pas révélée dans *Le Livre d'Urantia*, mais il s'agissait certainement de Zadracarta (près des actuelles Sari ou Gorgan), capitale de la satrapie d'Hyrcanie, sur la côte sud-est de la mer Caspienne. Ce voyage a dû durer au total entre 15 et 18 jours.
 
+<br>
+
 <figure id="Figure_8" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Roman_East_50-en.jpg">
 <figcaption>Fig. 8. — Proche-Orient en 50 apr. J.-C., avant la guerre romano-parthe de 58-63. (<a href="https://es.wikipedia.org/wiki/Archivo:Roman_East_50-en.svg">Wikipedia</a>)</figcaption>
 </figure>
+
+<br>
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Atropatene_as_a_vassal_of_Seleucids.jpg">
@@ -414,8 +436,10 @@ Il convient de noter que lors de ce voyage, Jésus a assumé le rôle de guide d
 
 Le voyage de retour de Jésus, comme son voyage aller, n'est pas décrit dans le *Livre d'Urantia*, mais il a certainement suivi le même itinéraire qu'à l'aller. Nous savons qu'il est resté à Urmia pendant « un peu plus de deux semaines » ([LU 134:2.5](/fr/The_Urantia_Book/134#p2_5)) pour donner vingt-quatre conférences dans une école [^22] située là-bas ([LU 134:3.5](/fr/The_Urantia_Book/134#p3_5)), mais nous n'avons pas d'autres informations.
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jesus_voyages/Atropatene_as_a_vassal_of_Seleucids.jpg">
+<img src="/image/article/Jan_Herca/Jesus_voyages/Diadochi_301_Shepherd-es.jpg">
 <figcaption>Fig. 10. — Royaumes hellénistiques vers 301 av. J.-C., d'après l'Atlas historique de William R. Shepherd, 1911 (<a href="https://es.wikipedia.org/wiki/Archivo:Diadochi_301_Shepherd-es.svg">Wikipedia</a>)</figcaption>
 </figure>
 
@@ -487,6 +511,8 @@ D'après les informations disponibles, la chronologie possible de ce voyage pour
 - De Beeroth à Sichem. Cet itinéraire est en légère descente, bien qu'il traverse une succession de collines dans une série apparemment interminable de montées et de descentes. _Le Livre d'Urantia_ nous apprend qu'il a traversé deux villes, Lebona et Sychar[^24].
 - De Sichem à Madon. Dans l'itinéraire que Jésus suit pour cette étape de son voyage, il est clair qu'il cherche à éviter Scythopolis, et donc la Décapole. Le chemin le plus court vers la mer de Galilée et Capharnaüm consiste à continuer sur la route principale vers le nord jusqu'à la ville grecque, puis de là à Taricheae sur la rive sud. Jésus évite cette route et se dirige vers la Samarie (rebaptisée Sébaste par Hérode, [Wikipedia](https://en.wikipedia.org/wiki/Samaria_(ancient_city))). Il fait ensuite un nouveau détour, passant par Geba, En-Ganim, Endor et Madon. [^25]
 - De Madon à Césarée. Jésus a pu passer la nuit à Endor ou à Madon. Nous avons déjà mentionné qu'il était pressé, ce qui explique pourquoi le _Livre d'Urantia_ indique qu'il est passé par Magdala et Capharnaüm. Cela suggère qu'il a probablement continué sur la route principale sans s'arrêter pour saluer les familles, afin de gagner du temps. La route de Capharnaüm à Paneas (Césarée de Philippe) est très plate, suivant une vallée fertile (la vallée de la Hula, ([Wikipedia, Lake Hula](https://en.wikipedia.org/wiki/Hula_Valley))). Les deux lieux intermédiaires mentionnés dans *Le Livre d'Urantia* à ce stade du voyage sont les Eaux de Merom[^26] et Karatha[^27].
+
+<br>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Adam_Smith_map_fragment_01.jpg">
@@ -591,12 +617,14 @@ Du mardi 13 janvier au samedi 17 janvier, Jésus et ses disciples restèrent à 
 
 > « La première tournée de prédication publique en Galilée commença le dimanche 18 janvier de l’an 28 ; elle dura environ deux mois et se termina par un retour à Capharnaüm le 17 mars. Au cours de cette tournée, Jésus et les douze apôtres, assistés des anciens apôtres de Jean, prêchèrent l’évangile et baptisèrent des croyants à Rimmon, Jotapata, Rama, Zabulon, Iron, Gischala, Chorazin, Madon, Cana, Naïn et Endor. Ils demeurèrent dans ces villes pour y enseigner, tandis que, dans beaucoup de villes moins importantes, ils proclamaient l’évangile du royaume à leur passage. » ([LU 146:0.1](/fr/The_Urantia_Book/146#p0_1))
 
+<br>
+
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Primera_gira_Galilea.jpg">
 <figcaption>Fig. 12. — Première tournée de prédication publique en Galilée, mettant en évidence les lieux mentionnés dans <em>Le Livre d'Urantia</em>. En violet, la <em>Via Maris</em>.</figcaption>
 </figure>
 
-<br style="clear:les deux;"/>
+<br style="clear:both;"/>
 
 En énumérant les principales villes (de l'époque), le _Livre d'Urantia_ semble indiquer que Jésus et les vingt-quatre disciples ont suivi un itinéraire précis, et les villes traversées sont listées. Ils se rendirent d'abord à Rimmon, passant par Magdala, Arbèles et Madon, ainsi que Turan, toutes situées sur la même route, la _Via Maris_. Puis ils se dirigèrent vers le nord jusqu'à Jotapata, et de là également vers le nord jusqu'à Rama. Plus au nord, ils trouvèrent Zabulon et Iron, cette dernière à la frontière de la Phénicie. De Iron, ils descendirent à Giscala au sud-est, puis à Chorazin, probablement en passant par Safed. Arrivés à Chorazin, ils descendirent à Capharnaüm et traversèrent Madon et Cana, puis Nazareth, pour arriver à Naïn et Endor, à l'extrême sud de la Galilée. Il est toutefois douteux que cet itinéraire ait été exact car, dès le début, pour atteindre Rimmon, ils durent passer par Madon et tout près de Cana, villes qui semblent reléguées à la fin du parcours.
 
@@ -666,6 +694,8 @@ Comme on peut le constater, cette seconde visite de Jésus à Jérusalem (où il
 ## La fuite en Phénicie
 
 Le samedi 30 avril 29 de notre ère, Jésus enseigna à la synagogue de Capharnaüm devant une foule nombreuse de disciples et une délégation du Sanhédrin de Jérusalem ([LU 153:1.1](/fr/The_Urantia_Book/153#p1_1)). Lors de cette réunion, ses paroles suscitèrent une telle agitation que l'hostilité envers Jésus atteignit son paroxysme et que de nombreux anciens croyants l'abandonnèrent ([LU 153:5.1](/fr/The_Urantia_Book/153#p5_1)). Le vendredi 6 mai, les responsables de la synagogue de Capharnaüm, à l'exception de Jaïrus, fermèrent officiellement les portes à Jésus et à ses disciples ([LU 154:1.2](/fr/The_Urantia_Book/154#p1_2)). Cette semaine-là, les membres du Sanhédrin tentèrent d'impliquer Hérode Antipas dans l'arrestation de Jésus, mais sans succès ([LU 154:0.1](/fr/The_Urantia_Book/154#p0_1)). Le dimanche 8 mai, le Sanhédrin décréta la fermeture de toutes les synagogues de Palestine à Jésus et à ses disciples ([LU 154:2.1](/fr/The_Urantia_Book/154#p2_1)). Le 16 mai, les membres du Sanhédrin tentèrent à nouveau d'obtenir l'autorisation d'Hérode Antipas lors d'une autre réunion à Tibériade. Ils n'obtinrent pas son autorisation d'arrêter Jésus, mais, face à leur insistance, il leur accorda, le 18 mai, la permission, si Ponce Pilate y consentait, de le faire arrêter et de le faire comparaître devant le Sanhédrin à Jérusalem ([LU 154:3.1](/fr/The_Urantia_Book/154#p3_1)). Les messagers se rendirent rapidement sur place et, dans la nuit du 21 mai, l'accord pour l'arrestation de Jésus fut conclu ([LU 154:3.2](/fr/The_Urantia_Book/154#p3_2)). La nouvelle parvint à Bethsaïda le dimanche 22 mai. Jésus, accompagné seulement de ses douze apôtres et d'un groupe restreint de douze évangélistes, « s'enfuit devant ses ravisseurs, prenant les rames d'une grande barque et ramant vers la rive orientale de la mer de Galilée » ([LU 154:7.1](/fr/The_Urantia_Book/154#p7_1)).
+
+<br>
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Huida_Fenicia.jpg">
@@ -770,6 +800,15 @@ Concernant la liste des villes proposées dans _Le Livre d'Urantia_ pour ce voya
 - Aréopolis : le _Livre d'Urantia_ omet plusieurs localités situées au sud de Madaba, dont Lemba (l'actuelle Libb) et Dibon ou Daibon (l'actuelle Dhiban), mais il mentionne Aréopolis, en territoire moabite. Adam Smith l'appelle également Rabboth Moab et l'identifie à l'actuelle Rabba.
 - Arœr : Il s’agit d’une localité qu’Adam Smith situe au sud-est de Dibon, dans une zone qu’il nomme el-Arair, près de l’actuel barrage d’Almujab ou de Mujib, qui devient plus tard le fleuve Arnon, le plus important affluent de la rive orientale de la mer Morte.
 
+<br>
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Jesus_voyages/Perea_mission.jpg">
+<figcaption>Fig. 14. — Itinéraire de Jésus (lignes vertes) lors de son voyage en Pérée, mettant en évidence les lieux mentionnés dans <em>Le Livre d'Urantia</em>. Bosora ne figure pas sur la carte et se situe très à l'est, sur la route qui part d'Edrei.</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 ## La dernière visite à Jérusalem
 
 Le dimanche 12 mars, Jésus « annonça qu’il partirait pour Jérusalem avec les douze afin d’y célébrer la Pâque, en visitant en chemin de nombreuses villes au sud de la Pérée » ([LU 171:0.1](/fr/The_Urantia_Book/171#p0_1)).
@@ -862,9 +901,9 @@ Quelle leçon d'humilité que de reconnaître ces faits ! Voilà de quoi réflé
 
 [^9] : Deux autres itinéraires possibles pour Jésus, Gonod et Ganid afin de se rendre en Suisse sont les suivants :
   &nbsp;
-  - À l'ouest (Helvétie – Genève / Avenches) : de Brescia à Mediolanum (Milan), puis au nord-ouest jusqu'à Augusta Praetoria (Aoste), en franchissant enfin le col du Grand-Saint-Bernard (_Summus Poeninus_). Auguste y avait fait construire un temple à Jupiter et une route pavée. En descendant, ils seraient entrés dans le Valais et auraient atteint le _Lacus Lemanus_ (lac Léman).
+  — À l'ouest (Helvétie – Genève / Avenches) : de Brescia à Mediolanum (Milan), puis au nord-ouest jusqu'à Augusta Praetoria (Aoste), en franchissant enfin le col du Grand-Saint-Bernard (_Summus Poeninus_). Auguste y avait fait construire un temple à Jupiter et une route pavée. En descendant, ils seraient entrés dans le Valais et auraient atteint le _Lacus Lemanus_ (lac Léman).
   &nbsp;
-  - À l'est (Retai - Grisons / Lac de Constance) : depuis Vérone, en remontant la vallée de l'Adige vers Tridentum (Trent), par la _Via Claudia Augusta_. Cet itinéraire les aurait conduits par le col de Resia jusqu'à l'actuelle région des Grisons, puis au _Lacus Brigantinus_ (lac de Constance).
+  — À l'est (Retai - Grisons / Lac de Constance) : depuis Vérone, en remontant la vallée de l'Adige vers Tridentum (Trent), par la _Via Claudia Augusta_. Cet itinéraire les aurait conduits par le col de Resia jusqu'à l'actuelle région des Grisons, puis au _Lacus Brigantinus_ (lac de Constance).
   &nbsp;
   L'avantage de ces deux autres itinéraires résidait dans le fait qu'ils disposaient de routes pavées en bien meilleur état. L'inconvénient était qu'ils représentaient un voyage beaucoup plus long pour une personne visitant déjà la région des lacs du nord et voyageant depuis plusieurs jours, voire plusieurs semaines.
 
@@ -874,9 +913,9 @@ Quelle leçon d'humilité que de reconnaître ces faits ! Voilà de quoi réflé
 
 [^12]: Ce voyage à pied de Jésus, Gonod et Ganid de la Troade à Éphèse est très étrange. Tout d'abord, le voyage de retour de Tarente s'était fait principalement par bateau, avec les escales obligatoires à Nicopolis, Corinthe et Athènes. Voyager en bateau jusqu'à la Troade, puis devoir marcher 300 km jusqu'à Éphèse, chargés de leurs affaires, n'aurait eu aucun sens. De plus, s'ils ont effectivement effectué ce voyage, il a dû être riche en anecdotes, or le _Livre d'Urantia_ n'en fait aucune mention ([LU 133:6.1](/fr/The_Urantia_Book/133#p6_1)). Une hypothèse est que lorsque le _Livre d'Urantia_ indique qu'ils se rendaient à Éphèse « par la Troade », il s'agit en réalité du même itinéraire qui menait ensuite à la Troade, et non d'un débarquement à Éphèse. Quoi qu'il en soit, s'ils ont réellement entrepris ce voyage, leur itinéraire aurait pu être le suivant :
   &nbsp;
-  - De Troas à Pergame (jours 1 à 6), en contournant le mont Ida et en longeant la côte, ils seraient passés par Assos et Adramyttium. Pergame était alors un centre culturel majeur, célèbre pour son Grand Autel de Zeus sur l'Acropole et sa bibliothèque.
-  - De Pergame à Smyrne (jours 7 à 11), en passant par Élaea et Cyme. Smyrne (l'actuelle Izmir) était surnommée « la Couronne de l'Asie », réputée pour ses rues pavées et sa brise marine. À l'époque de Tibère, Smyrne rivalisait avec Éphèse pour le titre de première ville d'Asie.
-  - De Smyrne à Éphèse (jours 12 à 15), en passant par Métropole (l'actuelle Yeniköy, [Wikipedia](https://en.wikipedia.org/wiki/Metropolis_(Anatolia))), une ville en plein essor commercial.
+  — De Troas à Pergame (jours 1 à 6), en contournant le mont Ida et en longeant la côte, ils seraient passés par Assos et Adramyttium. Pergame était alors un centre culturel majeur, célèbre pour son Grand Autel de Zeus sur l'Acropole et sa bibliothèque.
+  — De Pergame à Smyrne (jours 7 à 11), en passant par Élaea et Cyme. Smyrne (l'actuelle Izmir) était surnommée « la Couronne de l'Asie », réputée pour ses rues pavées et sa brise marine. À l'époque de Tibère, Smyrne rivalisait avec Éphèse pour le titre de première ville d'Asie.
+  — De Smyrne à Éphèse (jours 12 à 15), en passant par Métropole (l'actuelle Yeniköy, [Wikipedia](https://en.wikipedia.org/wiki/Metropolis_(Anatolia))), une ville en plein essor commercial.
 
 [^13]: À cette époque, la navigation était principalement côtière (au plus près du rivage) afin de permettre un ravitaillement régulier et de profiter des vents favorables. Par conséquent, le voyage d'Éphèse à Paphos devait également inclure des escales à Rhodes, le port le plus important de la région (où le Colosse n'était plus visible, car détruit) ; à Patara, capitale de la Lycie (avec son célèbre phare) ; à Myra (port d'Andriake), port d'accueil des navires marchands chargés de céréales ; à Side, port commercial de la Pamphylie ; et enfin à Anemurium, au cap Anamur, le point le plus proche de Chypre.
 
@@ -893,11 +932,11 @@ Quelle leçon d'humilité que de reconnaître ces faits ! Voilà de quoi réflé
   Par conséquent, l'itinéraire complet aurait pu être le suivant : Antioche – Séleucie de Piérie – Laodicée – Aradus (ils passèrent tout près, sur la côte, puisqu'il s'agit d'une île) – Tripoli – Byblos – Béryte – Sarepta – près de Tyr sans l'atteindre – Panéas – Damas.
   &nbsp;
   Quelques remarques concernant cet itinéraire :
-  - la route d'Antioche à Séleucie de Piérie était très agréable. Le trajet impliquait une légère descente le long des rives de l'Oronte, une excursion réalisable en une journée. Séleucie de Piérie était le port militaire et commercial d'Antioche.
-  - Laodicée (Latakia, [Wikipedia](https://en.wikipedia.org/wiki/Laodicea_in_Syria)) était une ville prospère, réputée pour son vin, dotée d'un phare dans le port et de nombreux édifices monumentaux typiques d'une cité libérée par les Romains. On y parvenait en deux jours environ, avec un arrêt probable à Balanea (Leukas). Pour y arriver, il fallait d'abord traverser l'Oronte, puis contourner le _mont Casius_ (l'actuel Jebel al-Aqra, montagne sacrée depuis des temps immémoriaux, culminant à 1 700 mètres et s'élevant pratiquement depuis le rivage), et enfin traverser les contreforts nord de la chaîne alaouite (le _mont Bargylus_). Ce voyage dura au moins deux jours.
-  - Aradus était une île au large des côtes. Jésus, Gonod et Ganid firent probablement escale à Antarado, le port côtier situé en face de l'île.
-  - Tripoli (Tripolis) tirait son nom de la confédération de trois districts (Tyr, Sidon et Arados).
-  - Beyrouth (Berytos) était la _Colonia Iulia Augusta Felix Berytus_, une ville profondément romaine, peuplée de vétérans des légions et centre de la culture romaine dans la région ; on y parlait le latin et l’on pouvait y admirer des temples de style impérial. Thapsacus (
+  — la route d'Antioche à Séleucie de Piérie était très agréable. Le trajet impliquait une légère descente le long des rives de l'Oronte, une excursion réalisable en une journée. Séleucie de Piérie était le port militaire et commercial d'Antioche.
+  — Laodicée (Latakia, [Wikipedia](https://en.wikipedia.org/wiki/Laodicea_in_Syria)) était une ville prospère, réputée pour son vin, dotée d'un phare dans le port et de nombreux édifices monumentaux typiques d'une cité libérée par les Romains. On y parvenait en deux jours environ, avec un arrêt probable à Balanea (Leukas). Pour y arriver, il fallait d'abord traverser l'Oronte, puis contourner le _mont Casius_ (l'actuel Jebel al-Aqra, montagne sacrée depuis des temps immémoriaux, culminant à 1 700 mètres et s'élevant pratiquement depuis le rivage), et enfin traverser les contreforts nord de la chaîne alaouite (le _mont Bargylus_). Ce voyage dura au moins deux jours.
+  — Aradus était une île au large des côtes. Jésus, Gonod et Ganid firent probablement escale à Antarado, le port côtier situé en face de l'île.
+  — Tripoli (Tripolis) tirait son nom de la confédération de trois districts (Tyr, Sidon et Arados).
+  — Beyrouth (Berytos) était la _Colonia Iulia Augusta Felix Berytus_, une ville profondément romaine, peuplée de vétérans des légions et centre de la culture romaine dans la région ; on y parlait le latin et l’on pouvait y admirer des temples de style impérial. Thapsacus (
 
 [^17]: [Wikipedia](https://en.wikipedia.org/wiki/Thapsacus)) était une cité antique située sur la rive ouest de l’Euphrate, mais son emplacement exact demeure inconnu. Une hypothèse est celle d’un site près de Karkemish (connue à l’époque de Jésus sous le nom d’Europus, [Wikipedia](https://en.wikipedia.org/wiki/Carchemish)), dont la ville moderne la plus proche est Jarubulus. Une autre identification proposée est « Seleucia at Zeugma » ([Wikipedia](https://en.wikipedia.org/wiki/Seleucia_at_the_Zeugma)), qui serait le nouveau nom adopté par la colonie, mais l'emplacement exact de cette Seleucia demeure inconnu. Certains suggèrent qu'il s'agissait du village aujourd'hui appelé Killik, à l'ouest du barrage Atatürk sur l'Euphrate. Une autre identification possible est Jebel Khalid ([Wikipedia](https://en.wikipedia.org/wiki/Jebel_Khalid)), un site archéologique récemment fouillé, situé à quelques kilomètres au sud du barrage de Tichrine. Une autre identification encore est Dibsi Faraj ([Wikipedia](https://en.wikipedia.org/wiki/Dibsi_Faraj)), à l'ouest de Raqqa, bien que cette hypothèse ait reçu peu d'appuis de la part des chercheurs. Il est possible qu'aucun de ces emplacements ne corresponde à Tapsacos, comme expliqué dans la note suivante.
 
