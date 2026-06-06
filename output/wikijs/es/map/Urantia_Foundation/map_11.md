@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-11-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Jesus sale de Nazaret | abril 5, 19 A.D. ~ [LU 128:6.4](/es/The_Urantia_Book/128#p6_4) | [32.7003,35.294733333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.7003,35.294733333333)
 Hogar de Lázaro (Betania) | 9 de abril del año 19 d.C. ~ [LU 128:6.5](/es/The_Urantia_Book/128#p6_5) | [31.76610480213474,35.25470755436384](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.76610480213474,35.25470755436384)

@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-25-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Residencia de Zebedeo | Del 3 de mayo al 3 de octubre ~ [LU 148:0.1](/es/The_Urantia_Book/148#p0_1) | [32.90808018527833,35.6285106188142](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.90808018527833,35.6285106188142)
 Tolemaida | [LU 149:0.1](/es/The_Urantia_Book/149#p0_1) | [32.92581885359743,35.07620203393995](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.92581885359743,35.07620203393995)

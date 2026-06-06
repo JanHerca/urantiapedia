@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-13-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Jesús deja Jerusalén | Del 2 al 26 de abril del año 22 d.C. ~ [LU 130:0.1](/es/The_Urantia_Book/130#p0_1) | [31.777766666667,35.230866666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.777766666667,35.230866666667)
 Jope | [LU 130:0.2](/es/The_Urantia_Book/130#p0_2) | [32.04216457186249,34.7504848911293](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.04216457186249,34.7504848911293)

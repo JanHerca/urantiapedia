@@ -29,13 +29,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-38-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Sinagoga de Filadelfia | 11 de abril ~ [LU 191:4.1](/es/The_Urantia_Book/191#p4_1) | [31.949733333333,35.928566666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.949733333333,35.928566666667)
 Jerusalén - Hogar de los Marcos | 16 de abril ~ [LU 191:5.1](/es/The_Urantia_Book/191#p5_1) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)

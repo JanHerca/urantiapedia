@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-36-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Sala del pretorio de Pilatos | 7 de abril, de 7:45 a 8:15 de la mañana ~ [LU 185:5.2](/es/The_Urantia_Book/185#p5_2) | [31.779966666667,35.233066666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779966666667,35.233066666667)
 Patio de la sala del pretorio | 7 de abril, de 8:15 a 8:55 de la mañana ~ [LU 186:4.1](/es/The_Urantia_Book/186#p4_1) | [31.779966666667,35.233633333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779966666667,35.233633333333)

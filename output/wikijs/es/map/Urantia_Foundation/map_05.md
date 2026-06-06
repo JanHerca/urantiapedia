@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-05-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Patio del templo | 18 de abril ~ [LU 125:1.1](/es/The_Urantia_Book/125#p1_1) | [31.77666666666701,35.236633333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.77666666666701,35.236633333333)
 Santo de los santos | 11 de abril ~ [LU 125:2.5](/es/The_Urantia_Book/125#p2_5) | [31.7778638234185,35.23510344792908](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.7778638234185,35.23510344792908)

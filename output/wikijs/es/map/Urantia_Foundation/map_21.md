@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-21-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Hogar de Zebedeo | Del 1 al 19 de enero ~ [LU 141:0.1](/es/The_Urantia_Book/141#p0_1) | [32.90808018527833,35.6285106188142](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.90808018527833,35.6285106188142)
 Tariquea | 19 de enero ~ [LU 141:1.2](/es/The_Urantia_Book/141#p1_2) | [32.82455853309191,35.51632795965374](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.82455853309191,35.51632795965374)

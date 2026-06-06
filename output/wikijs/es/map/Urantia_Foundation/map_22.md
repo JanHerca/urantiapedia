@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-22-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Betania | Del 31 de marzo al 5 de abril ~ [LU 141:8.1](/es/The_Urantia_Book/141#p8_1) | [31.7661,35.2547](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.7661,35.2547)
 Jerusalén | 6 de abril (semana de la Pascua) ~ [LU 141:9.3](/es/The_Urantia_Book/141#p9_3) | [31.777766666667,35.230866666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.777766666667,35.230866666667)

@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-34-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Campamento en los jardines de Getsemaní | 6 de abril, 7 de la mañana ~ [LU 178:0.1](/es/The_Urantia_Book/178#p0_1) | [31.77888814393205,35.24065630529005](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.77888814393205,35.24065630529005)
 Vista oeste del Olivete | 6 de abril, 6 de la tarde ~ [LU 178:3.1](/es/The_Urantia_Book/178#p3_1) [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)

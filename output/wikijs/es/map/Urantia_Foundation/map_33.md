@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-33-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Betania (hogar de Simón) | 3 de abril por la mañana ~ [LU 173:0.1](/es/The_Urantia_Book/173#p0_1) | [31.76942230338288,35.25311295276905](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.76942230338288,35.25311295276905)
 Templo de Jerusalén | 3 de abril, 9 de la mañana ~ [LU 173:0.3](/es/The_Urantia_Book/173#p0_3) | [31.77672459062623,35.23572881756749](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.77672459062623,35.23572881756749)

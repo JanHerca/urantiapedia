@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-29-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Parque de Magadán | Del 3 al 7 de agosto ~ [LU 156:6.4](/es/The_Urantia_Book/156#p6_4) | [32.89063146480693,35.6470675586603](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.89063146480693,35.6470675586603)
 Cafarnaúm | 7 de agosto ~ [LU 157:0.1](/es/The_Urantia_Book/157#p0_1) | [32.88049529963555,35.57293371387502](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.88049529963555,35.57293371387502)

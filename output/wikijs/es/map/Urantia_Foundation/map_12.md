@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-12-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Jesus deja Nazaret | 21 de enero del año 21 d.C. ~ [LU 129:1.1](/es/The_Urantia_Book/129#p1_1) | [32.7003,35.294733333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.7003,35.294733333333)
 Tiberiades | 24 de enero del año 21 d.C. ~ [LU 129:1.2](/es/The_Urantia_Book/129#p1_2) | [32.79009847081132,35.53507900512065](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.79009847081132,35.53507900512065)

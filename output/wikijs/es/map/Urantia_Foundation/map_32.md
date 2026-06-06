@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-32-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Betania | Del 2 al 5 de marzo ~ [LU 168:0.1](/es/The_Urantia_Book/168#p0_1) | [31.7661,35.2547](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.7661,35.2547)
 Campamento de Pella | Del 6 al 13 de marzo ~ [LU 169:0.1](/es/The_Urantia_Book/169#p0_1) | [32.44874314382668,35.61408892301587](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.44874314382668,35.61408892301587)

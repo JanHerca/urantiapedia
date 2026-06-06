@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-37-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Tumba | 9 de abril a las 3:35 de la madrugada ~ [LU 189:4.5](/es/The_Urantia_Book/189#p4_5) | [31.779166666667,35.229166666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779166666667,35.229166666667)
 Tumba | 9 de abril a las 4:15 de la madrugada ~ [LU 189:5.2](/es/The_Urantia_Book/189#p5_2) | [31.779166666667,35.229166666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779166666667,35.229166666667)

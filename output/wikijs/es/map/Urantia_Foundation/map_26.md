@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-26-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Residencia de Zebedeo | Del 16 al 19 de enero ~ [LU 150:0.1](/es/The_Urantia_Book/150#p0_1) | [32.90808018527833,35.6285106188142](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.90808018527833,35.6285106188142)
 Magdala | 20 de enero ~ [LU 150:0.4](/es/The_Urantia_Book/150#p0_4) | [32.84673276947773,35.52445049880779](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.84673276947773,35.52445049880779)

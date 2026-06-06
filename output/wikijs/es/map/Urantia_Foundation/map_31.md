@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-31-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Campamento de Pella | 3 de enero ~ [LU 165:0.1](/es/The_Urantia_Book/165#p0_1) | [32.44874314382668,35.61408892301587](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.44874314382668,35.61408892301587)
 Ragaba | 18 de febrero ~ [LU 166:1.1](/es/The_Urantia_Book/166#p1_1) | [32.33420212768843,35.7552840707033](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:32.33420212768843,35.7552840707033)

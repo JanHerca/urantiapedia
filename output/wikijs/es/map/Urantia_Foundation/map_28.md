@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-28-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Sidón | 28 de junio ~ [LU 156:2.3](/es/The_Urantia_Book/156#p2_3) | [33.56276650493193,35.36865961454851](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:33.56276650493193,35.36865961454851)
 Beirut | Del 2 al 4 de julio ~ [LU 156:3.1](/es/The_Urantia_Book/156#p3_1) | [33.890533333333,35.5133](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:33.890533333333,35.5133)

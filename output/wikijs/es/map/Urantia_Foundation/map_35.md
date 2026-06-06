@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-35-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Lagar del Olivo (jardines de Getsemaní) | 7 de abril, medianoche ~ [LU 183:0.3](/es/The_Urantia_Book/183#p0_3) | [31.777766666667,35.240533333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.777766666667,35.240533333333)
 Casa de Anás | 7 de abril de 12:30 a 3 de la madrugada ~ [LU 183:4.1](/es/The_Urantia_Book/183#p4_1) | [31.777266666667,35.239133333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.777266666667,35.239133333333)

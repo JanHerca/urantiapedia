@@ -32,13 +32,15 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-17-735px.jpg">
 </figure>
 
 <br style="clear:both;"/>
 
-**Ubicación** **Referencia** **Enlace de Google Map**
+**Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
 Monte Hermón | Del 10 de agosto al 15 de septiembre ~ [LU 134:8.1](/es/The_Urantia_Book/134#p8_1) | [33.41046407715493,35.85678303381869](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:33.41046407715493,35.85678303381869)
 Cesarea de Filipo | [LU 134:9.1](/es/The_Urantia_Book/134#p9_1) | [33.24832420068191,35.69338967245574](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:33.24832420068191,35.69338967245574)
