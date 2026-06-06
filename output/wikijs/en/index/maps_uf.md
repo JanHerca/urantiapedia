@@ -341,7 +341,7 @@ The original version of these maps was created by an anonymous reader of _The Ur
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Map 20. Ordination of the Apostles and Bethsaida on the lake</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	March 1, 26 A.D. - January 19, 27 A.D.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">March 1, 26 A.D. - January 19, 27 A.D.</div>
       <div class="urantiapedia-card-actions">
         <a href="/en/map/Urantia_Foundation/map_20" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>Open</strong></div></span>
@@ -469,7 +469,7 @@ The original version of these maps was created by an anonymous reader of _The Ur
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Map 28. From Sidon Along the Coast and Return to Magadan Park</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	June 29, 29 A.D. - August 3, 19 A.D.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">June 29, 29 A.D. - August 3, 19 A.D.</div>
       <div class="urantiapedia-card-actions">
         <a href="/en/map/Urantia_Foundation/map_28" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>Open</strong></div></span>
@@ -501,7 +501,7 @@ The original version of these maps was created by an anonymous reader of _The Ur
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Map 30. Move Headquarters to Pella Camp with trips to Jerusalem</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	September 25, 29 A.D. - January 29, 30 A.D.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">September 25, 29 A.D. - January 29, 30 A.D.</div>
       <div class="urantiapedia-card-actions">
         <a href="/en/map/Urantia_Foundation/map_30" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>Open</strong></div></span>
@@ -517,7 +517,7 @@ The original version of these maps was created by an anonymous reader of _The Ur
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Map 31. Perean visit and return to Bethany to resurrect Lazarus</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	January 3, 30 A.D. - March 5, 30 A.D.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">January 3, 30 A.D. - March 5, 30 A.D.</div>
       <div class="urantiapedia-card-actions">
         <a href="/en/map/Urantia_Foundation/map_31" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>Open</strong></div></span>

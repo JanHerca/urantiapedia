@@ -18,8 +18,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/index/maps">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+        <a href="/es/index/maps_uf">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
         </a>
         </td>
         <td>
@@ -42,9 +42,10 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 **Ubicación** | **Referencia** | **Enlace de Google Map**
 --- | --- | ---
-Sala del pretorio de Pilatos | 7 de abril, de 7:45 a 8:15 de la mañana ~ [LU 185:5.2](/es/The_Urantia_Book/185#p5_2) | [31.779966666667,35.233066666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779966666667,35.233066666667)
-Patio de la sala del pretorio | 7 de abril, de 8:15 a 8:55 de la mañana ~ [LU 186:4.1](/es/The_Urantia_Book/186#p4_1) | [31.779966666667,35.233633333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779966666667,35.233633333333)
-Gólgota | 7 de abril, de 9:15 a 3:00 de la tarde ~ [LU 187:2.1](/es/The_Urantia_Book/187#p2_1) | [31.778066666667,35.221066666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.778066666667,35.221066666667)
+Sala del pretorio de Pilatos | 7 de abril, de 7:45 a 8:15 de la mañana ~ [UB 185:5.2](/en/The_Urantia_Book/185#p5_2) | [31.779966666667,35.233066666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779966666667,35.233066666667)
+Patio de la sala del pretorio | 7 de abril, de 8:15 a 8:55 de la mañana ~ [UB 186:4.1](/en/The_Urantia_Book/186#p4_1) | [31.779966666667,35.233633333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.779966666667,35.233633333333)
+Gólgota | 7 de abril, de 9:15 a 3:00 de la tarde ~ [UB 187:2.1](/en/The_Urantia_Book/187#p2_1) | [31.778066666667,35.221066666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.778066666667,35.221066666667)
+
 
 ## Referencias
 
