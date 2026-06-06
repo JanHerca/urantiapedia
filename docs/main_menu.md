@@ -558,11 +558,11 @@ Being orders > Ordres d'êtres
 Religions index > Indice des religions
 Search > Chercher
 ---
-MAPS & MEDIA LIBRARY > _missing_
-Diagrams > _missing_
-Presentations > _missing_
-Maps > _missing_
-3D Models > _missing_
+MAPS & MEDIA LIBRARY > CARTOTHÈQUE ET MÉDIATHÈQUE
+Diagrams > Diagrammes
+Presentations > Présentations
+Maps > Cartes
+3D Models > Modèles 3D
 ---
 URANTIAPEDIA > URANTIAPEDIA
 Help > Aider

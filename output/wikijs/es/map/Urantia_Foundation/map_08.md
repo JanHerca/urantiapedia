@@ -1,0 +1,55 @@
+---
+title: "Tercera visita a Jerusalén para la Pascua"
+description: "22 de agosto del año 14 d.C. - 21 de agosto del año 29 d.C."
+published: true
+date: 2026-06-06T14:02:03.086Z
+tags: Jesus, Jesus places, map
+editor: markdown
+dateCreated: 2026-06-06T14:02:03.086Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/map/Urantia_Foundation/map_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mapa 7. Segunda visita a Jerusalén para la Pascua con su hermano Santiago</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/maps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/map/Urantia_Foundation/map_09">
+          <span class="pr-2">Mapa 9. Cuarta visita a Jerusalén para la Pascual con su hermano José</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/map/Urantia_Foundation/maps/map-08-735px.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+**Ubicación** | **Referencia** | **Enlace de Google Map**
+--- | --- | ---
+Deja Nazaret | 1 de abril del año 14 d.C. ~ [LU 127:6.3](/es/The_Urantia_Book/127#p6_3) | [32.717266666667,35.3039](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:32.717266666667,35.3039)
+Meguido | [LU 127:6.4](/es/The_Urantia_Book/127#p6_4) | [32.583066666667,35.177466666667](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:32.583066666667,35.177466666667)
+Antípatris | [LU 127:6.4](/es/The_Urantia_Book/127#p6_4) | [32,34.923366666667](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:32,34.923366666667)
+Lida | [LU 127:6.4](/es/The_Urantia_Book/127#p6_4) | [31.9514,34.892233333333](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:31.9514,34.892233333333)
+Betania | Pascua en Betania ~ [LU 127:6.6](/es/The_Urantia_Book/127#p6_6) | [31.76619706466182,35.25438592613287](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:31.76619706466182,35.25438592613287)
+Campamento de Jericó | [LU 127:6.4](/es/The_Urantia_Book/127#p6_4) | [31.899733333333,35.468366666667](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:31.899733333333,35.468366666667)
+Campamento de la ruta del Jordán | [LU 127:6.4](/es/The_Urantia_Book/127#p6_4) | [32.123066666667,35.5044](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:32.123066666667,35.5044)
+Campamento en el Jordán | [LU 127:6.4](/es/The_Urantia_Book/127#p6_4) | [32.470266666667,35.547533333333](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:32.470266666667,35.547533333333)
+Jesús regresa a casa | 15 de abril del año 14 d.C. ~ [LU 127:3.9](/es/The_Urantia_Book/127#p3_9) | [32.7003,35.294733333333](http://maps.google.com/maps?t=h&amp;z=15&amp;hl=en&amp;q=loc:32.7003,35.294733333333)
+
+## Referencias
+
+- [Sitio web de la Fundación Urantia](https://www.urantia.org/es/en-sus-pasos/8)

@@ -102,6 +102,9 @@ blockquote.is-map img {
 .v-card.urantiapedia-card.urantiapedia-book {
   width: 205px;
 }
+.v-card.urantiapedia-card.urantiapedia-map {
+  width: 300px;
+}
 .v-card .v-responsive.urantiapedia-card {
   height: 200px;
   color: #FFFFFF !important;
@@ -110,6 +113,9 @@ blockquote.is-map img {
 }
 .v-card .v-responsive.urantiapedia-card.urantiapedia-book {
   height: 274px;
+}
+.v-card .v-responsive.urantiapedia-card.urantiapedia-map {
+  height: 222px;
 }
 .v-card .urantiapedia-card-top-image {
   z-index: -1;
@@ -136,7 +142,8 @@ blockquote.is-map img {
   word-wrap: break-word;
   line-height: 2rem;
 }
-.v-card .urantiapedia-card-title.urantiapedia-book {
+.v-card .urantiapedia-card-title.urantiapedia-book,
+.v-card .urantiapedia-card-title.urantiapedia-map {
   font-size: 1rem;
   line-height: 1.2rem;
 }
@@ -153,7 +160,8 @@ blockquote.is-map img {
   text-transform: none;
   line-height: 1.25rem;
 }
-.v-card .urantiapedia-card-subtitle.urantiapedia-book {
+.v-card .urantiapedia-card-subtitle.urantiapedia-book,
+.v-card .urantiapedia-card-subtitle.urantiapedia-map {
   font-size: 0.75rem;
   line-height: 1rem;
 }
@@ -172,7 +180,8 @@ blockquote.is-map img {
   min-height: 52px;
   padding: 0.5rem;
 }
-.urantiapedia-book-front {
+.urantiapedia-book-front,
+.urantiapedia-map-front {
   align-items: center;
   display: flex;
   flex-direction: column;

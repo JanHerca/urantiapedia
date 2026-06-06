@@ -107,6 +107,15 @@ CSS will automatically be minified. */
 .v-main .contents .v-card.urantiapedia-card.urantiapedia-book {
     width: 205px;
 }
+.v-main .contents .v-card.urantiapedia-card.urantiapedia-map {
+    width: 300px;
+}
+.v-main .contents .v-card .v-responsive.urantiapedia-card.urantiapedia-book {
+    width: 205px;
+}
+.v-main .contents .v-card .v-responsive.urantiapedia-card.urantiapedia-map {
+    width: 300px;
+}
 .v-main .contents .v-card .v-responsive.urantiapedia-card {
     height: 200px;
     color: #FFFFFF !important;
@@ -115,6 +124,9 @@ CSS will automatically be minified. */
 }
 .v-main .contents .v-card .v-responsive.urantiapedia-card.urantiapedia-book {
     height: 274px;
+}
+.v-main .contents .v-card .v-responsive.urantiapedia-card.urantiapedia-map {
+    height: 222px;
 }
 .v-main .contents .v-card .urantiapedia-card-top-image {
     z-index: -1;
@@ -141,7 +153,8 @@ CSS will automatically be minified. */
     word-wrap: break-word;
     line-height: 2rem;
 }
-.v-main .contents .v-card .urantiapedia-card-title.urantiapedia-book {
+.v-main .contents .v-card .urantiapedia-card-title.urantiapedia-book,
+.v-main .contents .v-card .urantiapedia-card-title.urantiapedia-map {
     font-size: 1rem;
     line-height: 1.2rem;
 }
@@ -158,7 +171,8 @@ CSS will automatically be minified. */
     text-transform: none;
     line-height: 1.25rem;
 }
-.v-main .contents .v-card .urantiapedia-card-subtitle.urantiapedia-book {
+.v-main .contents .v-card .urantiapedia-card-subtitle.urantiapedia-book,
+.v-main .contents .v-card .urantiapedia-card-subtitle.urantiapedia-map {
     font-size: 0.75rem;
     line-height: 1rem;
 }
@@ -177,7 +191,8 @@ CSS will automatically be minified. */
     min-height: 52px;
     padding: 1rem;
 }
-.v-main .contents .urantiapedia-book-front {
+.v-main .contents .urantiapedia-book-front,
+.v-main .contents .urantiapedia-map-front {
     align-items: center;
     display: flex;
     flex-direction: column;
