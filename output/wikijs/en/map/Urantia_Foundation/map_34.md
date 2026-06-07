@@ -43,7 +43,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
 **Location** | **Reference** | **Google Map Link**
 --- | --- | ---
 Gethsemane Park Camp | April 6, 7 AM ~ [UB 178:0.1](/en/The_Urantia_Book/178#p0_1) | [31.77888814393205,35.24065630529005](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.77888814393205,35.24065630529005)
-Western overlook of Olivetti | April 6, 6 PM ~ [UB 178:3.1](/en/The_Urantia_Book/178#p3_1) [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)
+Western overlook of Olivetti | April 6, 6 PM ~ [UB 178:3.1](/en/The_Urantia_Book/178#p3_1) | [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)
 Western overlook of Olivetti | April 6, 10 PM ~ [UB 179:0.4](/en/The_Urantia_Book/179#p0_4) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)
 Flat Rock (overlook) | April 6, 11 PM ~ [UB 182:0.1](/en/The_Urantia_Book/182#p0_1) | [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)
 Flat Rock (overlook) | April 6, 11 PM ~ [UB 182:1.2](/en/The_Urantia_Book/182#p1_2) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)

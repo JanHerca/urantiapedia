@@ -1,5 +1,5 @@
 ---
-title: "« Sur ses traces : Cartes des voyages de Jésus », Fondation Urantia"
+title: "« Sur ses traces : Cartes des voyages de Jésus », Fondation Urantia"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -641,7 +641,7 @@ La version originale de ces cartes a été créée par un lecteur anonyme du _Li
 
 ## Références
 
-- [« Sur ses traces : Cartes des voyages de Jésus », Fondation Urantia](https://www.urantia.org/in-his-steps)
+- [« Sur ses traces : Cartes des voyages de Jésus », Fondation Urantia](https://www.urantia.org/in-his-steps)
 
 <figure class="table chapter-navigator">
   <table>

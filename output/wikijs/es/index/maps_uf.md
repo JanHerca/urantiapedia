@@ -639,7 +639,7 @@ La versión original de estos mapas fue creada por un lector anónimo de _El Lib
   </div>
 </div>
 
-## References
+## Referencias
 
 - [«En sus pasos: Mapas de los viajes de Jesús», de la Fundación Urantia](https://www.urantia.org/es/en-sus-pasos)
 

@@ -43,7 +43,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
 **Emplacement** | **Référence** | **Lien vers Google Maps**
 --- | --- | ---
 Camp du parc de Gethsémani | 6 avril, 7h ~ [LU 178:0.1](/fr/The_Urantia_Book/178#p0_1) | [31.77888814393205,35.24065630529005](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.77888814393205,35.24065630529005)
-Vue ouest d'Olivetti | 6 avril, 18h ~ [LU 178:3.1](/fr/The_Urantia_Book/178#p3_1) [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)
+Vue ouest d'Olivetti | 6 avril, 18h ~ [LU 178:3.1](/fr/The_Urantia_Book/178#p3_1) | [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)
 Chambre haute (Maison de Marc) | 6 avril, 19h ~ [LU 179:0.4](/fr/The_Urantia_Book/179#p0_4) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)
 Vue ouest d'Olivetti | 6 avril, 22h ~ [LU 182:0.1](/fr/The_Urantia_Book/182#p0_1) | [31.776966666667,35.241933333333](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.776966666667,35.241933333333)
 Flat Rock (point de vue) | 6 avril, 23h ~ [LU 182:1.2](/fr/The_Urantia_Book/182#p1_2) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)

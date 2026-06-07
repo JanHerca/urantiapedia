@@ -49,7 +49,7 @@ Bethany - Home of Lazarus | 1:55 PM ~ [LU 190:2.7](/es/The_Urantia_Book/190#p2_7
 Jerusalem - Home of Joseph | 4:15 PM ~ [LU 190:3.1](/es/The_Urantia_Book/190#p3_1) | [31.773566666667,35.229766666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.773566666667,35.229766666667)
 Jerusalem - Home of Flavius | 4:30 PM ~ [LU 190:4.1](/es/The_Urantia_Book/190#p4_1) | [31.774766666667,35.229766666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.774766666667,35.229766666667)
 Road to Bethlehem | 4:55 PM ~ [LU 190:5.2](/es/The_Urantia_Book/190#p5_2) | [31.76896665589204,35.2260534207278](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.76896665589204,35.2260534207278)
-Jerusalem - Mark Home | 8:28 PM | 8:28 de la noche ~ [LU 191:1.1](/es/The_Urantia_Book/191#p1_1) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)
+Jerusalem - Mark Home | 8:28 PM ~ [LU 191:1.1](/es/The_Urantia_Book/191#p1_1) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)
 Jerusalem - Upper Chamber | 9:05 PM ~ [LU 191:2.1](/es/The_Urantia_Book/191#p2_1) | [31.771066666667,35.228366666667](http://maps.google.com/maps?t=h&z=15&hl=en&q=loc:31.771066666667,35.228366666667)
 
 ## References

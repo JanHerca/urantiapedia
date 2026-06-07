@@ -1,0 +1,435 @@
+---
+title: "First Century Palestine: Index of Villages, Towns, and Cities"
+description: ""
+published: true
+date: 2026-06-06T14:02:03.086Z
+tags: Jesus, Jesus places, map
+editor: markdown
+dateCreated: 2026-06-06T14:02:03.086Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/map/Fellowship/map_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puertos del siglo I en el mar de Galilea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Palestine_Topographical_Maps">
+          <span class="pr-2">Mapas topográficos de Palestina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+La cuadrícula sobre la que se basa el mapa es el sistema de cuadrícula estándar MR, utilizado en numerosos informes arqueológicos y otras publicaciones descriptivas de la región, como el Diccionario Bíblico Anchor. En este sistema, los tres primeros dígitos indican una posición en el eje norte-sur del mapa, mientras que los tres dígitos siguientes indican una posición en el eje este-oeste. La intersección de ambas líneas representa la ubicación del elemento de referencia en el mapa. En el mapa, las coordenadas norte-sur se leen verticalmente, mientras que las coordenadas este-oeste se leen horizontalmente.
+
+El mapa muestra la ubicación de todos los pueblos y aldeas mencionados en la Parte IV del _Libro de Urantia_. El índice los incluye, así como otros pueblos y aldeas que se sabe que existían en tiempos de Jesús, pero que no aparecen en el mapa.
+
+Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrículas del mapa se toman del Atlas Bíblico Anchor y aparecen en [EL MAPA](/en/map/Fellowship/map_08) . Las letras a continuación enlazan con las secciones correspondientes del índice:
+
+
+[Haz clic aquí para ver el mapa de Palestina del siglo I.](/en/map/Fellowship/map_01)
+
+## A
+
+- ABEL 236-183
+- ABELA 139-211
+- ABELIM 248-167
+- ABILA 232-234
+- ACHZIB; ECDIPPA 271-159
+- ACRABET 170-182
+- ADÁN 167-202
+- ADAMA 238-193
+- ADIDAS 152-145
+- ADORAIM; DURA 101-153
+- AENON 138-203
+- AGRIPPINA? 192-218
+- ENFERMEDAD 249-187
+- AIN 236-212
+- ALEJANDRÍA 166-193
+- ALMA 273-196
+- AMATUS 183-208
+- AMATUS 240-202
+- AMMUDIM 247-188
+- AMUDIYA 266-216
+- ANABTAH 191-162
+- ANATHOTH 135-174
+- ANIM 84-156
+- ANTHEDON 105-98
+- ANTIPATRIS 168-143
+- ANUATHU BORCAEUS 166-175
+- AFARATA? 243-168
+- AFEK 242-2
+- TORRE DE AFEK 165-146
+- APOLLONIA 177-132
+- CAR 213-184
+- ARAD 69-152
+- ARAD 76-162
+- ARBATTA 206-153
+- ARBELA 246-195
+- ARQUELAIS 149-195
+- AREOPOLIS 75-221
+- ARIMATEA 160-152
+- AROER 97-227
+- ARUS? 168-164
+- ASHDOD 129-117
+- ASHKELON 118-107
+- ASTAROT 244-243
+- AWARTHA 174-177
+- AYYANOSH 247-212
+
+## B
+
+- BAAL-PERAZIM 127-167
+- BARAS 113-207
+- BACA? 265-181
+- BADDAN 184-181
+- BATHYRA 255-257
+- BEERSHEBA 72-134
+- BEIROT 136-167
+- BEIT ADIS 205-216
+- BEIT JENN DESCONOCIDO BELZEDEK? 109-139
+- BERSABE 260-189
+- BESARA 234-162
+- BESIMOTH 131-206
+- BETH NETOFA 248-186
+- BETH RIMAH 160-159
+- BETH-HAGGAN; GINEA 207–179
+- BETH-HORON, DE ABAJO 145-158
+- BETH-HORON, DE ARRIBA 144-160
+- BETH-LEAFHRAH? 106-153
+- BETH-MEON 120-219
+- BET-NIMRÁ 145-209
+- BETH-PEOR 132-219
+- BETH-ZAITH 114-161
+- BET-ZACARÍAS 118-161
+- BETH-ZUR 110-159
+- BETABARA 138-200
+- BETANIA 129-173
+- BETEL 146-172
+- BELÉN (JUD) 123-170
+- BELÉN (L. GAL) 237-167
+- BELÉTEFA 122-149
+- BETMAO 243-199
+- BETHPHAGE 130-174
+- BETSAIDA 254-203
+- BETSAIDA JULIAS 257-209
+- BEZEK 197-187
+- BEZET 275-163
+- BORECHATH 249-297
+- BOSOR 251-276
+- BOSORA 215-289
+- BURGATAH 191-145
+- BURIRON 108-116
+
+## C
+
+- CESAREA 212-141
+- CESAREA DE FELIPE 292-217
+- CALLIRHUE 111-204
+- CANA 247-178
+- CAPARASIMA 264-178
+- CAPARORSA 99-152
+- CAPARANUMO 255-205
+- CAPHARABIS 115-145
+- CAFARSABA 177-141
+- CAPHARTOB 143-146
+- CAPITOLIAS 224-231
+- CASPIN 250-226
+- QUEFIRAS 137-160
+- CORAZIN 257-203
+- CIUDAD DE JUDÁ 126-162
+- COCHABA? 246-172
+- COLA 201-194
+
+## D
+
+- DABARITA 233-187
+- DABIYYA 268-218
+- DABURA 272-212
+- DALTON 269-197
+- DAMASCO 323-273
+- DAN 295-212
+- DAFNE 292-209
+- DEIR AZIZ 252-217
+- DIBÓN 101-224
+- DIONISIAS 236-297
+- DIUM 239-246
+- DOCUS 142-190
+- DOLR 224-143
+- DOTHAN 202-172
+
+## Y
+
+- EDREI 224-253
+- ECRON 131-136
+- ELAM? 110-146
+- ELEALE 245-222
+- ELEUTHEROPOLIS 112-140
+- EMMATHA 232-212
+- EMAÚS 139-149
+- EN-GANNIM? 235-196
+- EN-TAB? 236-182
+- ENDOR 227-186
+- ENGEDÍ 97-187
+- EFRÉN 151-178
+- EFRÓN 216-217
+- ESHTAOL 132-151
+- EXLOTH 231-181
+
+## F
+
+- FAHMA 198-167
+
+## G
+
+- GAATON 268-168
+- GABA? 236-160
+- GABALIS 57-205
+- GABARA 251-182
+- GABATHA 232-1
+- GADARA 229-214
+- GADDA DESCONOCIDO
+- GAMALA 257-2
+- GARIS 238-182
+- GAZA 101-101
+- GEBA 192-171
+- GEBUL? 219-198
+- GEDORA 160-220
+- GELBUS 207-189
+- GELIL 273-173
+- GENESARET 252-200
+- GERASA 187-234
+- GESHER 226-204
+- GEZER 140-142
+- GIBEÓN 139-167
+- GILEAD 209-244
+- GIMZO 148-146
+- GINEIGAR 228-174
+- GISCALA 270-191
+- GOFNA 151-171
+- GOSHEN 87-137
+
+## H
+
+- HALHUL 109-160
+- HAMATH PELLA 209-209
+- HANNATHON 245-175
+- HANOTAH 276-166
+- HAFARAÍM 222-192
+- HARRAWI 277-202
+- HATITA DESCONOCIDA
+- HAZOR 270-202
+- HEBRÓN 102-160
+- HEDERA 204-142
+- HELDUA DESCONOCIDO
+- HERODIÓN 119-173
+- HESBÓN 133-225
+- HIERÁPOLIS DESCONOCIDO
+- HIPOS (SUSITA) 243-211
+- HIRCANIA 125-184
+
+## I
+
+- IBLEAM 205-178
+- IRÓN 282-192
+
+## J
+
+- POZO DE JACOB 180-178
+- JAMNIA 142-125
+- JAMNITH 265-198
+- JANOAH 265-173
+- JAFIA 232-178
+- JARMUTH? 221-199
+- JERICÓ 140-192
+- JERUSALÉN 131-172
+- JESHANÁ 156-174
+- JEZREEL 218-181
+- JOGBEHAH 154-236
+- JOPE 162-127
+- JOTAPATA 249-176
+- JUDÁ, CIUDAD DE 126-162
+- JULIAS? 255-209
+- JUTTAH 95-158
+
+## K
+
+- KABRITA 268-164
+- KAFR NAFAKH 274-220
+- KAMÓN? 221-218
+- KANAF 253-214
+- KANATA 241-301
+- KARAHTA DESCONOCIDA
+- KEDESH 279-199
+- KEPHAR AGÓN 233-203
+- KEFAR AMIQO 264-166
+- KEFAR AZIZ 93-157
+- KEFAR BARAM 272-189
+- KEFAR HANANIYA 257-188
+- KEFAR HARUB 240-212
+- KEFAR NEBORAYA 267-197
+- KEFAR NIMRAH 245-189
+- KAFAR QASEM 169-148
+- KEFAR SASSAY 241-162
+- KEFAR SHABTAY 238-191
+- KEFAR SHALEM 150-146
+- KEFAR SILAH 191-168
+- KEFAR TAMARTAH 250-169
+- KEFAR YASIF 262-165
+- KEFAR YATMA 168-175
+- KEILAH 114-1
+- KERIOTH 105-215
+- KERIOTH? 83-161
+- KHERESA 249-211
+
+## L
+
+- LAQUIS 108-134
+- LEBONA 164-173
+- LIVIAS 137-211
+- LUBIYA 241-191
+- LUZ 301-208
+- LIDA 151-141
+
+## M
+
+- MACAD DESCONOCIDO
+- MACAERUS 108-209
+- MACHMAS 142-176
+- MADÓN 245-192
+- MAFSHETAH 272-179
+- MAGDALA 248-198
+- MAMILAH 251-191
+- MAMRÉ? 108-161
+- MAR SABA 122-181
+- MASADA 80-183
+- MASHKANAH 242-188
+- MAZRAA 78-201
+- MEARIAH 255-188
+- MEDEBA 124-225
+- MEGIDÓ 221-167
+- MEROTH? 278-191
+- MEZAD 67-183
+- MISPÉ 143-170
+
+## N
+
+- NAÍN 226-183
+- NARRAH 144-190
+- NAZARET 233-180
+- NEORÁN 224-187
+- NOÉ 254-249
+
+## O
+
+- ORDA 86-108
+
+## P
+
+- PELLA 207-208
+- PENUEL 176-215
+- PHAINA 283-279
+- FARATON 138-179
+- FASAELIS 158-192
+- FILADELFIA 150-237
+- FILIPÓPOLIS 253-302
+- FILOTERIA 235-204
+- PORFIREÓN DESCONOCIDO
+- TOLEMAIDA 259-157
+
+## Q
+
+- QUMRAN 127-193
+
+## R
+
+- RABBAH 136-149
+- RAGABA 182-215
+- RAMA 261-184
+- RAMAH (JUD) 140-172
+- RAMAH (L. GAL) 258-186
+- RAMATH? 210-244
+- REHOB? 256-166
+- REHOB? 280-177
+- REHOB? 207-197
+- RHAPHON 251-259
+- RIMMON 243-179
+- RUJM EL-HIRI 259-227
+- RUMAH 242-176
+
+## S
+
+- SAFED 263-196
+- SAMARIA 187-168
+- SANUR 195-173
+- SAPHEIR 123-122
+- SAPFO 146-155
+- SAREPTA 317-177
+- SARID 230-171
+- SASA 270-187
+- ESCITÓPOLIS 212-197
+- SELAME 254-185
+- SELEUCIA 279-213
+- SENABRIS 236-203
+- SÉFORIS 239-176
+- SERGUNIN 239-197
+- SERIFIN 151-135
+- SHAALBIM 141-148
+- SIQUEN 178-176
+- SHEFARAM 245-166
+- SHEZOR 259-182
+- SILOH 162-177
+- SHIMRON 234-170
+- SITIM 138-214
+- SUNEM 223-180
+- SIBMA 130-223
+- SOGANE 252-177
+- SUCOT 178-209
+- SYCAMINUM 247-146
+- SICAR 179-177
+
+## T
+
+- TAANACH 214-171
+- TARICHEA (MAGDALA) 248-198
+- TEL KINROT 253-201
+- TAMNA 157-160
+- TAMNA? 123-154
+- THREX 139-191
+- TIBERÍADES 241-202
+- TIBETAH 185-151
+- TIBON 237-161
+- TUBANI 218-185
+- TIRO 297-170
+- TYRUS 141-226
+
+## U
+
+- ULLAMA 230-197
+
+## Z
+
+- ZANOAH 125-150
+- ZAFÓN 186-204
+- ZEBULÓN? DESCONOCIDO
+- ZEREDAH 161-159
+- ZIA 166-217
+- ZOARA 49-194
+
+
+## Referencias
+
+- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/palestine-villages-first-century.htm)
