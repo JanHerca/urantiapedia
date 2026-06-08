@@ -1,6 +1,6 @@
 ---
-title: "La evangelización de Jesús: Galilea, Judea, Samaria"
-description: "El Libro de Urantia, documento 163. La misión de los Setenta, del 19 de noviembre al 30 de diciembre del año 29 d. C."
+title: "L'évangélisation de Jésus : Galilée, Judée, Samarie"
+description: "Le Livre d'Urantia, Papier 163. La mission des soixante-dix, du 19 novembre au 30 décembre 29 apr. J.-C."
 published: true
 date: 2026-06-06T14:02:03.086Z
 tags: Jesus, Jesus places, map
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/map_05">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evangelización de Jesús: La gira de la Decápolis</span>
+        <a href="/fr/map/Fellowship/map_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évangélisation de Jésus : Le voyage dans la Décapole</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_07">
-          <span class="pr-2">La evangelización de Jesús: La misión pereana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_07">
+          <span class="pr-2">L'évangélisation de Jésus : La mission pérée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,18 +41,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes del Libro de Urantia
+## Extraits pertinents du Livre d'Urantia
 
-- [Documento 163: Ordenación de los Setenta en Magadán](/es/The_Urantia_Book/163)
-  - [LU 163:1 Ordenación de los Setenta](/es/The_Urantia_Book/163#p1_1)
-  - [LU 163:2 El joven rico y otros](/es/The_Urantia_Book/163#p2)
-  - [LU 163:3 La discusión sobre la riqueza](/es/The_Urantia_Book/163#p3)
-  - [LU 163:4 Despedida a los Setenta](/es/The_Urantia_Book/163#p4)
-  - [LU 163:5 Traslado del campamento a Pella](/es/The_Urantia_Book/163#p5)
-  - [LU 163:6 El regreso de los setenta](/es/The_Urantia_Book/163#p6)
-  - [LU 163:7 Preparación para la última misión](/es/The_Urantia_Book/163#p7)
+- [Document 163 : Ordination des soixante-dix à Magadan](/fr/The_Urantia_Book/163)
+  - [LU 163:1 Ordination des soixante-dix](/fr/The_Urantia_Book/163#p1_1)
+  - [LU 163:2 Le jeune homme riche et autres](/fr/The_Urantia_Book/163#p2)
+  - [LU 163:3 La discussion sur la richesse](/fr/The_Urantia_Book/163#p3)
+  - [LU 163:4 Adieu aux soixante-dix](/fr/The_Urantia_Book/163#p4)
+  - [LU 163:5 Adieu aux soixante-dix](/fr/The_Urantia_Book/163#p5)
+  - [LU 163:6 Le retour des soixante-dix](/fr/The_Urantia_Book/163#p6)
+  - [LU 163:7 Préparation pour la dernière mission](/fr/The_Urantia_Book/163#p7)
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-galilee-judea-samaria.htm)
+- [Site web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/graphics/jesus-galilee-judea-samaria.htm)

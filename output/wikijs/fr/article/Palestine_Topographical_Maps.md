@@ -1,5 +1,5 @@
 ---
-title: "Mapas topográficos de Palestina"
+title: "Cartes topographiques de Palestine"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Index_of_Place_Locations">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Palestina del primer siglo: Índice de aldeas, pueblos y ciudades</span>
+        <a href="/fr/article/Index_of_Place_Locations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Palestine au premier siècle : Index des villages, des villes et des cités</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Roman_Political_Rule_and_the_Life_of_Jesus">
-          <span class="pr-2">El gobierno político romano y la vida de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/article/Roman_Political_Rule_and_the_Life_of_Jesus">
+          <span class="pr-2">Le pouvoir politique romain et la vie de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -49,6 +49,6 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/topomaps.htm)
+- [Site web du Fellowship](https://archive.urantiabook.org/archive/graphics/topomaps.htm)

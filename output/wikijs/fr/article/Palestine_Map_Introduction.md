@@ -1,5 +1,5 @@
 ---
-title: "El Libro de Urantia, Palestina del primer siglo, Los tiempos de Jesús"
+title: "Le Livre d'Urantia : La Palestine du premier siècle, l'époque de Jésus"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
@@ -16,13 +16,13 @@ dateCreated: 2023-02-14T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_01">
-          <span class="pr-2">Mapa político detallado de la Palestina del primer siglo del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_01">
+          <span class="pr-2">Carte politique détaillée de la Palestine du premier siècle tirée du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -31,68 +31,68 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-## Introducción al mapa
+## Introduction à la carte
 
-Este [mapa](/es/map/Fellowship/map_01) muestra las calzadas romanas del siglo I, las rutas de caravanas y las ubicaciones geográficas a las que se hace referencia en el _Libro de Urantia_.
+Cette [carte](/fr/map/Fellowship/map_01) représente les routes romaines du premier siècle, les itinéraires caravaniers et les lieux géographiques mentionnés dans le _Livre d'Urantia_.
 
-El material que contiene este mapa se ha obtenido de diversas fuentes. Se digitalizaron mapas de distintas procedencias y se integraron en un único documento. La elaboración de este mapa presenta varios problemas, entre ellos la ambigüedad respecto a la ubicación exacta de algunos tramos de calzadas romanas del siglo I, los múltiples cambios de nombre de pueblos y aldeas a lo largo de los últimos 2000 años, la existencia de varios pueblos y aldeas con el mismo nombre, la disputa sobre la ubicación de los sitios, los cambios climáticos y geológicos que, incluso en tan solo 2000 años, han modificado el curso de ríos y arroyos, así como los cambios en la ubicación de manantiales y la variación de las zonas de forestación y aridez. En caso de duda, se utilizaron los datos de Tubinga (Alemania), los más recientes.
+Les données de cette carte proviennent de diverses sources. Des cartes issues de différentes sources ont été numérisées et intégrées dans un document unique. La construction d'une telle carte présente plusieurs difficultés. Parmi celles-ci figurent l'ambiguïté quant à la localisation exacte de certains tronçons de voies romaines du premier siècle, les multiples changements de noms de villes et de villages au cours des 2 000 dernières années, l'homonymie de plusieurs villes et villages, les sites contestés, les changements climatiques et géologiques qui, même en seulement 2 000 ans, ont modifié le cours des rivières et des ruisseaux, les variations de l'emplacement des sources et l'évolution des zones boisées et arides. En cas de doute, les données de Tübingen (Allemagne), les plus récentes, ont été utilisées.
 
-## Las calzadas romanas y las rutas de caravanas
+## Les voies romaines et les routes caravanières
 
-Ninguna fuente coincide plenamente en la ubicación de las calzadas romanas del siglo I. Todas han reconstruido rutas completas basándose en el hallazgo de tramos aislados. La consideración principal al reconstruir estas rutas es evitar los cambios bruscos de elevación y las zonas pantanosas donde la malaria era endémica. La identificación de las calzadas se basa en el hallazgo de mojones romanos que contienen información que asocia un tramo de calzada con un régimen político específico.
+Aucune source ne s'accorde pleinement sur l'emplacement des voies romaines du Ier siècle. Toutes les sources ont reconstitué des itinéraires complets à partir de la découverte de tronçons isolés. Le principal critère de reconstitution est d'éviter les fortes variations d'altitude et les zones marécageuses où le paludisme était endémique. L'identification des voies repose sur la découverte de bornes kilométriques romaines qui contiennent des informations permettant de rattacher un tronçon de voie à un régime politique particulier.
 
-De particular interés para los lectores de los _Documentos de Urantia_ es la identificación de tramos de la antigua Vía Maris a su paso por Palestina en dirección este, para unirse a la ruta norte hacia Damasco en Cesarea de Filipo. Los _Documentos de Urantia_, al describir la vista desde la colina sobre Nazaret, afirman que «desde cuatro direcciones, Jesús podía observar las caravanas que entraban y salían de Nazaret» ([LU 123:5.13](/es/The_Urantia_Book/123#p5_13)). También se señala que «más de la mitad» de todo el tráfico de caravanas que atravesaba Palestina pasaba «cerca o a través» de la ciudad de Nazaret ([LU 121:2.2](/es/The_Urantia_Book/121#p2_2)).
+L'identification de tronçons de l'ancienne Via Maris, traversant la Palestine vers l'est pour rejoindre la route du nord vers Damas à Césarée de Philippe, présente un intérêt particulier pour les lecteurs des _Papiers d'Urantia_. Ces derniers, décrivant la vue depuis la colline surplombant Nazareth, rapportent que « Jésus pouvait observer, de quatre directions différentes, les caravanes qui entraient et sortaient de Nazareth » ([LU 123:5.13](/fr/The_Urantia_Book/123#p5_13)). Il est également précisé que « plus de la moitié » du trafic caravanier traversant la Palestine passait « près ou à travers » la ville de Nazareth ([LU 121:2.2](/fr/The_Urantia_Book/121#p2_2)).
 
-Es improbable que las caravanas se dirigieran directamente al este desde Nazaret debido a la alta cordillera que habrían tenido que cruzar antes de retomar la ruta principal. De hecho, ninguna de las fuentes muestra la ruta al este desde Nazaret, cruzando la montaña, como una vía principal utilizada para el comercio. Más bien, parece que Nazaret era una parada cerca del cruce de varias ramificaciones de las principales rutas de caravanas. Contaba con una extensa y llana zona de pastoreo para los animales de las caravanas, protegida por montañas y colinas en tres de sus lados. También parece haber existido una importante industria local dedicada al mantenimiento de las caravanas y a la reparación de su equipo. Nazaret probablemente era similar a las grandes áreas de servicio para camiones que se ven hoy en día a lo largo de las autopistas interestatales al viajar por Norteamérica o Canadá. Quizás lo más importante era que Nazaret tenía un manantial con abundante agua fresca para los animales de las caravanas.
+Il est peu probable que les caravanes aient pris la direction de l'est depuis Nazareth, compte tenu de la haute crête montagneuse qu'elles auraient dû franchir avant de rejoindre la route principale. En effet, aucune source ne mentionne la route vers l'est depuis Nazareth, par-delà la montagne, comme une voie commerciale majeure. Il semble plutôt que Nazareth ait été une halte à la jonction de plusieurs embranchements des principales routes caravanières. La ville disposait d'une vaste plaine de pâturage pour les animaux, protégée sur trois côtés par des montagnes et des collines. Une importante activité économique locale semble également s'être développée autour de l'entretien des caravanes et de la réparation de leur matériel. Nazareth ressemblait probablement aux grandes aires de repos pour camions que l'on trouve aujourd'hui le long des autoroutes inter-États en Amérique du Nord et au Canada. L'atout majeur de Nazareth résidait sans doute dans sa source d'eau douce abondante, essentielle à l'approvisionnement des animaux.
 
-Séforis, la capital romana de Galilea y un importante centro comercial, se encontraba a menos de cinco kilómetros de distancia, por lo que a los comerciantes que acompañaban a las caravanas les habría resultado fácil dejar los animales en Nazaret y dirigirse a Séforis para realizar sus negocios. En Séforis había escasez de agua; toda el agua para la ciudad se traía de manantiales lejanos mediante un sistema de acueductos. Donde los acueductos llegaban a la ciudad, había enormes ruedas hidráulicas, impulsadas por mano de obra esclava, que bombeaban el agua cuesta arriba hasta las cisternas excavadas en la roca bajo la ciudad.
+Sepphoris, capitale romaine de la Galilée et important centre d'affaires et de commerce, se trouvait à moins de cinq kilomètres. Il était donc aisé pour les marchands accompagnant les caravanes de laisser leurs animaux à Nazareth et de se rendre à Sepphoris pour y faire leurs affaires. À Sepphoris, l'eau était rare ; la ville était entièrement approvisionnée par un système d'aqueducs acheminant l'eau de sources lointaines. Aux points d'arrivée des aqueducs, d'immenses roues à aubes, actionnées par des esclaves, pompaient l'eau vers le haut de la colline, dans des citernes creusées dans la roche sous la ville.
 
-Todas las fuentes coinciden en que las rutas principales que pasaban por Séforis eran las que se muestran en el mapa. Esta era la ruta que seguía la Vía Maris en tiempos de Jesús. Antiguamente, la Vía Maris discurría más al sur, pasando por Naín y Endor, bordeando las montañas que rodean Nazaret, y luego hacia el noreste hasta el mar de Galilea.
+Toutes les sources s'accordent sur les principaux axes traversant Sepphoris, tels qu'ils apparaissent sur la carte. C'était l'itinéraire suivi par la Via Maris à l'époque de Jésus. Autrefois, la Via Maris passait plus au sud, par Naïn et Endor, contournait les montagnes qui entourent Nazareth, puis se dirigeait vers le nord-est jusqu'à la mer de Galilée.
 
-_Los Documentos de Urantia_ mencionan una «ruta Magdala-Sidón» y otra «ruta Magdala-Monte Líbano», nombres que no aparecen en las fuentes contemporáneas. Las calzadas romanas que atravesaban las montañas de la región de Gischala, en el centro-norte de Galilea, una zona relativamente poblada en el siglo I, parecen estar sin identificar en la actualidad (1996). Tampoco está claro hasta qué punto las rutas de las caravanas seguían las calzadas romanas.
+_Les Papiers d'Urantia_ mentionnent une « route Magdala-Sidon » ainsi qu'une « route Magdala-Mont Liban », appellations qui n'apparaissent pas dans les sources contemporaines. Les voies romaines traversant les montagnes de la région de Gischala, en Galilée centrale septentrionale, une zone relativement densément peuplée au Ier siècle, demeurent non identifiées à ce jour (1996). On ignore également dans quelle mesure les routes caravanières suivaient le tracé des voies romaines.
 
-## Múltiples nombres para pueblos y ciudades
+## Plusieurs noms pour les villages et les villes
 
-Durante las sucesivas conquistas militares y administraciones políticas de Palestina, sus pueblos y aldeas fueron renombrados constantemente. _El Libro de Urantia_ utiliza sistemáticamente los nombres de uso común en tiempos de Jesús. Esto dificulta la localización de algunos de estos lugares, ya que algunos nombres no se han usado comúnmente durante 1800 años. En algunos casos, la única forma de identificarlos ha sido mediante análisis etimológicos o fonéticos de nombres alternativos conocidos.
+Au fil des conquêtes militaires et des changements d'administration politique qui ont marqué la Palestine, ses villes et villages ont constamment changé de nom. _Le Livre d'Urantia_ utilise systématiquement les noms d'usage courant à l'époque de Jésus. Cela complique la localisation de certains lieux, car certains noms ne sont plus utilisés depuis 1800 ans. Dans certains cas, le seul lien permettant de les identifier repose sur l'analyse étymologique ou phonétique d'autres noms connus.
 
-## Múltiples ubicaciones para pueblos con el mismo nombre
+## Plusieurs emplacements pour des villages portant le même nom
 
-Otro problema es que varios nombres de pueblos se usaban en múltiples lugares. Un buen ejemplo es Belén. En tiempos de Jesús, existía Belén en Judea y también en Galilea. Había una Betania justo al otro lado del Monte de los Olivos, cerca de Jerusalén, y otra al este del cruce del Jordán, cerca de Jericó. La cosa se complica cuando se tiene un nombre como «Betsaida», que significa esencialmente «casa de pescadores». Actualmente existen tres sitios en la costa norte del Mar de Galilea que los estudiosos creen que podrían ser la Betsaida bíblica, aunque los _Documentos de Urantia_ parecen ubicarla claramente en la actual Tabgha o cerca de ella.
+Un autre problème réside dans la présence de plusieurs noms de villages dans différents endroits. La ville de Bethléem en est un bon exemple. À l'époque de Jésus, il existait une Bethléem en Judée, ainsi qu'une autre en Galilée. On trouvait également une Béthanie juste après le mont des Oliviers, près de Jérusalem, et une autre encore à l'est du passage du Jourdain, près de Jéricho. La situation se complique avec un nom comme « Bethsaïda », qui signifie littéralement « maison des pêcheurs ». Actuellement, trois sites situés au nord du lac de Tibériade sont considérés par les chercheurs comme pouvant correspondre à la Bethsaïda biblique, bien que les _Papiers d'Urantia_ semblent la situer clairement à proximité de l'actuelle Tabgha.
 
-Para ubicar estas ciudades en relación con los relatos de los Papeles de Urantia, es necesario considerar el contexto en el que se mencionan. Por ejemplo, si se menciona una ciudad como visitada durante el recorrido por la Decápolis, se puede tener bastante certeza de que los autores se refieren a una aldea en Perea y no a otra con el mismo nombre ubicada en el Néguev occidental.
+Pour situer ces villes par rapport aux récits des _Papiers d'Urantia_, il est nécessaire de les replacer dans le contexte où elles sont mentionnées. Par exemple, si une ville est citée comme ayant été visitée lors du voyage à travers la Décapole, on peut raisonnablement supposer que les auteurs font référence à un village de Pérée et non à un village du même nom situé dans le Néguev occidental.
 
-## Sitios en disputa
+## Sites contestés
 
-Otro problema es que varios de los pueblos y aldeas mencionados en los _Documentos de Urantia_ son hoy simples montículos de tierra y escombros que aún no han sido excavados ni identificados. Estos sitios suelen aparecer en el mapa con un signo de interrogación después del nombre del pueblo. Además, algunos sitios se han desarrollado basándose en la tradición y no guardan relación con el sitio original. Caná es un ejemplo. El sitio que se muestra a los turistas como Caná no es donde se encontraba la aldea en tiempos de Jesús. Los arqueólogos sitúan la Caná de la época de Jesús al norte de Séforis, cerca de Jotapata, la ubicación que se muestra en el mapa.
+Un autre problème réside dans le fait que nombre de villages et de villes mentionnés dans les _Papiers d'Urantia_ ne sont aujourd'hui que des amas de terre et de gravats qui restent à fouiller et à identifier. Ces sites apparaissent généralement sur la carte avec un point d'interrogation après le nom de la ville. De plus, certains sites se sont développés sur la base de traditions et n'ont aucun lien avec le site originel. Cana en est un exemple. Le site présenté aux touristes comme étant Cana ne correspond pas à l'emplacement du village à l'époque de Jésus. Les archéologues situent la Cana de l'époque de Jésus au nord de Sepphoris, près de Jotapata, l'emplacement indiqué sur la carte.
 
-Existe una dificultad adicional con los topónimos. Al leer los _Documentos de Urantia_, no parece descabellado suponer que existieron ciudades específicas con nombres como Zebulón, Galaad e Idumea. Estos también eran nombres de regiones geográficas y no se encontraron fuentes que indicaran la existencia de ciudades específicas con esos nombres. Se ha supuesto que el antiguo emplazamiento de Hammath-Galaad era idéntico al lugar que el Libro de Urantia denomina Galaad. Las ciudades de Zebulón e Idumea permanecen sin identificar.
+Une difficulté supplémentaire réside dans la toponymie. À la lecture des _Papiers d'Urantia_, il semble plausible de supposer l'existence de villes portant des noms tels que Zabulon, Galaad et Idumée. Ces noms désignaient également des régions géographiques, et aucune source n'a été trouvée mentionnant des villes spécifiques portant ces noms. On a supposé que l'ancien site d'Hammath-Galaad était identique à celui que le Livre d'Urantia nomme Galaad. Les villes de Zabulon et d'Idumée demeurent quant à elles non identifiées.
 
-## Cambios climáticos y geológicos
+## Changements climatiques et géologiques
 
-El curso del río Jordán ha variado constantemente a lo largo de los siglos, serpenteando por el valle hasta el mar Muerto. Las descripciones de los _Documentos de Urantia_ indican que, en tiempos de Jesús, el río discurría mucho más al este, en la región de Pella. Existen otras poblaciones de ese período, hoy aisladas en el valle del Jordán, que podrían haber estado a orillas del río hace 2000 años. Asimismo, se han producido fuertes terremotos en la región, que han alterado la ubicación de manantiales e incluso el lugar donde el Jordán brota de las rocas al pie del monte Hermón.
+Le cours du Jourdain a constamment évolué au fil des siècles, serpentant dans la vallée du Jourdain jusqu'à la mer Morte. Les descriptions des _Papiers d'Urantia_ indiquent qu'à l'époque de Jésus, le fleuve coulait bien plus à l'est, dans la région de Pella. D'autres villes de cette période, aujourd'hui isolées dans la vallée du Jourdain, se trouvaient peut-être sur ses rives il y a 2 000 ans. De violents séismes ont également secoué la région, modifiant l'emplacement des sources et même celui de la source du Jourdain qui jaillit des rochers au pied du mont Hermon.
 
-Este mapa debe considerarse un trabajo en progreso. Por favor, informe de cualquier error o discrepancia que descubra durante sus estudios.
+Cette carte est un document en cours d'élaboration. Veuillez signaler toute erreur ou incohérence que vous pourriez constater lors de vos recherches.
 
-## Bibliografía
+## Bibliographie
 
-- Achtemeier, Paul J., ed. y The Society of Biblical Literature, «Harper's Bible Dictionary», San Francisco: Harper and Row, 1985.
-- Aumann, Moshe y editores de Carta, «Atlas histórico de Israel de Carta», Jerusalén: Carta.
-- Avi-Yonah, Michael, ed., «Enciclopedia de excavaciones arqueológicas en Tierra Santa», Englewood Cliffs, NJ: Prentice-Hall, 1975.
-- Batey, Richard A., «Jesús y la ciudad olvidada: Nuevas luces sobre Séforis y el mundo urbano de Jesús», Grand Rapids, Michigan: Baker Book House, 1991.
-- Finegan, Jack, «La arqueología del Nuevo Testamento: la vida de Jesús y los comienzos de la Iglesia primitiva», Princeton: Princeton University Press, 1992.
-- Glueck, Nelson, «Deidades y delfines: La historia de los nabateos», Nueva York: Farrar, Straus and Giroux, 1965.
-- May, Herbert G., «Atlas bíblico de Oxford», Londres: Oxford University Press, 1981.
-- Mizrachi, Yoni, «Rujm El-Hiri: Hacia una comprensión de un monumento megalítico de la Edad del Bronce en el Levante», Tesis doctoral inédita, Biblioteca de la Universidad de Harvard, 1992.
-- Nun, Mendel, «Anclajes y puertos antiguos alrededor del mar de Galilea», Kibbutz Ein Gev Israel: Kinnereth Sailing Company, 1992.
-- Orni, Efraim y Efrat, Elisha, «Geografía de Israel», Nueva York: American Heritage Press.
-- Pexner, Bargil, «Con Jesús a través de Galilea», Rosh Pina, Israel: Corazin Publishing, 1992.
-- Archivo Pictórico, «Manual de Mapas para Estudiantes: Geografía Histórica de las Tierras Bíblicas», Israel: Servicio Cartográfico de Israel, 1979.
-- Tubinger, «Tubinger Atlas Des Vorderen Orients», Alemania: Der Universitat Tubingen, 1992.
-- The Urantia Book Fellowship, «El libro de Urantia», Broomfield, CO: Uversa Press, 2009.
+- Achtemeier, Paul J., éd. et la Société de littérature biblique, « Dictionnaire biblique de Harper », San Francisco : Harper and Row, 1985.
+- Aumann, Moshe et les rédacteurs de Carta, « Atlas historique d'Israël de Carta », Jérusalem : Carta.
+- Avi-Yonah, Michael, éd., « Encyclopédie des fouilles archéologiques en Terre Sainte », Englewood Cliffs, NJ : Prentice-Hall, 1975.
+- Batey, Richard A., « Jésus et la ville oubliée : un nouvel éclairage sur Sepphoris et le monde urbain de Jésus », Grand Rapids, Michigan : Baker Book House, 1991.
+- Finegan, Jack, « ​​L'archéologie du Nouveau Testament : la vie de Jésus et les débuts de l'Église primitive », Princeton : Princeton University Press, 1992.
+- Glueck, Nelson, « Divinités et dauphins : l'histoire des Nabatéens », New York : Farrar, Straus and Giroux, 1965.
+- May, Herbert G., « Oxford Bible Atlas », Londres : Oxford University Press, 1981.
+- Mizrachi, Yoni, « Rujm El-Hiri : Vers une compréhension d'un monument mégalithique de l'âge du bronze au Levant », thèse de doctorat non publiée, Bibliothèque de l'Université Harvard, 1992.
+- Nun, Mendel, « Anciens mouillages et ports autour de la mer de Galilée », Kibboutz Ein Gev Israël : Kinnereth Sailing Company, 1992.
+- Orni, Efraim et Efrat, Elisha, « Géographie d'Israël », New York : American Heritage Press.
+- Pexner, Bargil, « Avec Jésus à travers la Galilée », Rosh Pina, Israël : Corazin Publishing, 1992.
+- Archives photographiques, « Manuel de cartes pour étudiants : Géographie historique des terres bibliques », Israël : Service topographique d'Israël, 1979.
+- Tubinger, "Tubinger Atlas Des Vorderen Orients", Allemagne : Der Universitat Tubingen, 1992.
+- La Fellowship du Livre d'Urantia, « Le Livre d'Urantia », Broomfield, CO : Uversa Press, 2009.
 
-## Referencias
+## Références
 
-- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://archive.urantiabook.org/archive/graphics/palestine-map-introduction.htm)
+- Article traduit. L'original provient du [site web du Fellowship](https://archive.urantiabook.org/archive/graphics/palestine-map-introduction.htm)
 
 
 
@@ -104,13 +104,13 @@ Este mapa debe considerarse un trabajo en progreso. Por favor, informe de cualqu
         <td>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_01">
-          <span class="pr-2">Mapa político detallado de la Palestina del primer siglo del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_01">
+          <span class="pr-2">Carte politique détaillée de la Palestine du premier siècle tirée du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

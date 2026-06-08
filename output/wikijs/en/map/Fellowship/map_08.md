@@ -14,8 +14,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/map/Fellowship/maps_fellowship">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evangelización de Jesús: La misión pereana</span>
+        <a href="/en/map/Fellowship/map_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' Evangelism: The Perean Mission</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/map/Fellowship/map_09">
-          <span class="pr-2">Puertos del siglo I en el mar de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">First Century Harbors on the Sea of Galilee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -44,6 +44,6 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/map-roman-palestine.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/map-roman-palestine.htm)

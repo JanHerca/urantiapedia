@@ -1,5 +1,5 @@
 ---
-title: "Regiones político-administrativas romanas en la Palestina del siglo I"
+title: "Régions politiques et administratives romaines de la Palestine du Ier siècle"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/maps_fellowship">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evangelización de Jesús: La misión pereana</span>
+        <a href="/fr/map/Fellowship/map_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évangélisation de Jésus : La mission pérée</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_uf">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_uf">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_09">
-          <span class="pr-2">Puertos del siglo I en el mar de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_09">
+          <span class="pr-2">Ports du premier siècle sur la mer de Galilée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -44,6 +44,6 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/map-roman-palestine.htm)
+- [Site web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/graphics/map-roman-palestine.htm)

@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/map/Fellowship/map_01">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mapa político detallado de la Palestina del primer siglo del Libro de Urantia</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detailed Political Map of the Urantia Book's First Century Palestine</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/map/Fellowship/map_03">
-          <span class="pr-2">Segunda gira de predicación de Jesús por las ciudades de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Cities of Jesus' Second Galilee Preaching Tour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -36,23 +36,23 @@ dateCreated: 2026-06-06T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/map/Fellowship/maps/gifmap3.png">
+<img src="/image/map/Fellowship/maps/mapgif3.png">
 </figure>
 
 <br style="clear:both;"/>
 
-## Secciones relevantes del libro de Urantia
+## Relevant Sections from the Urantia Book
 
-- [Documento 146: La primera gira de predicación por Galilea.](/en/The_Urantia_Book/146)
-  - [LU 146:1 Predicación en Rimón](/en/The_Urantia_Book/146#p1_1)
-  - [LU 146:2 Y Jotapatha](/en/The_Urantia_Book/146#p2)
-  - [LU 146:3 La parada en Ramah](/en/The_Urantia_Book/146#p3)
-  - [LU 146:4 El Evangelio en Hierro](/en/The_Urantia_Book/146#p4)
-  - [LU 146:5 De vuelta en Caná](/en/The_Urantia_Book/146#p5)
-  - [LU 146:6 Naín y el hijo de la viuda](/en/The_Urantia_Book/146#p6)
-  - [LU 146:7 En Endor](/en/The_Urantia_Book/146#p7)
+- [Paper 146: The First Preaching Tour of Galilee.](/en/The_Urantia_Book/146)
+  - [UB 146:1 Preaching at Rimmon](/en/The_Urantia_Book/146#p1_1)
+  - [UB 146:2 At Jotapata](/en/The_Urantia_Book/146#p2)
+  - [UB 146:3 The Stop at Ramah](/en/The_Urantia_Book/146#p3)
+  - [UB 146:4 The Gospel at Iron](/en/The_Urantia_Book/146#p4)
+  - [UB 146:5 Back in Cana](/en/The_Urantia_Book/146#p5)
+  - [UB 146:6 Nain and theWidow's Son](/en/The_Urantia_Book/146#p6)
+  - [UB 146:7 At Endor](/en/The_Urantia_Book/146#p7)
 
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-first-preaching-tour-galilee.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/jesus-first-preaching-tour-galilee.htm)

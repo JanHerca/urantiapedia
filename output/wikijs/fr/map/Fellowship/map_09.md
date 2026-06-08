@@ -1,5 +1,5 @@
 ---
-title: "Puertos del siglo I en el mar de Galilea"
+title: "Ports du premier siècle sur la mer de Galilée"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/map_08">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regiones político-administrativas romanas en la Palestina del siglo I</span>
+        <a href="/fr/map/Fellowship/map_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Régions politiques et administratives romaines de la Palestine du Ier siècle</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Index_of_Place_Locations">
-          <span class="pr-2">Índice de ubicaciones de lugares</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/article/Index_of_Place_Locations">
+          <span class="pr-2">Index de ubicaciones de lugares</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -58,6 +58,6 @@ Con el declive económico y cultural gradual que siguió a la conquista árabe, 
 No fue hasta la década de 1970 cuando se descubrieron los primeros puertos antiguos a lo largo de la orilla del lago, principalmente durante los períodos de bajo nivel del agua entre 1971 y 1991. Esto ha permitido dar a conocer unos dieciséis puertos antiguos que hasta hace poco eran desconocidos.
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/sea-galilee-harbours.htm)
+- [Site web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/graphics/sea-galilee-harbours.htm)

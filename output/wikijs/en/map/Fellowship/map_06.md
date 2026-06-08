@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/map/Fellowship/map_05">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evangelización de Jesús: La gira de la Decápolis</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' Evangelism: The Decapolis Tour</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/map/Fellowship/map_07">
-          <span class="pr-2">La evangelización de Jesús: La misión pereana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Jesus' Evangelism: The Perean Mission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,18 +41,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes del Libro de Urantia
+## Relevant Sections from the Urantia Book
 
-- [Documento 163: Ordenación de los Setenta en Magadán](/en/The_Urantia_Book/163)
-  - [LU 163:1 Ordenación de los Setenta](/en/The_Urantia_Book/163#p1_1)
-  - [LU 163:2 El joven rico y otros](/en/The_Urantia_Book/163#p2)
-  - [LU 163:3 La discusión sobre la riqueza](/en/The_Urantia_Book/163#p3)
-  - [LU 163:4 Despedida a los Setenta](/en/The_Urantia_Book/163#p4)
-  - [LU 163:5 Traslado del campamento a Pella](/en/The_Urantia_Book/163#p5)
-  - [LU 163:6 El regreso de los setenta](/en/The_Urantia_Book/163#p6)
-  - [LU 163:7 Preparación para la última misión](/en/The_Urantia_Book/163#p7)
+- [Paper 163: Ordination of the Seventy at Magadan](/en/The_Urantia_Book/163)
+  - [UB 163:1 Ordination of the Seventy](/en/The_Urantia_Book/163#p1_1)
+  - [UB 163:2 The Rich Young Man and Others](/en/The_Urantia_Book/163#p2)
+  - [UB 163:3 The Discussion about Wealth](/en/The_Urantia_Book/163#p3)
+  - [UB 163:4 Farewell to the Seventy](/en/The_Urantia_Book/163#p4)
+  - [UB 163:5 Moving the Camp to Pella](/en/The_Urantia_Book/163#p5)
+  - [UB 163:6 The Return of the Seventy](/en/The_Urantia_Book/163#p6)
+  - [UB 163:7 Preparation for the Last Mission](/en/The_Urantia_Book/163#p7)
 
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-galilee-judea-samaria.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/jesus-galilee-judea-samaria.htm)

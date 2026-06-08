@@ -1,5 +1,5 @@
 ---
-title: "El gobierno político romano y la vida de Jesús"
+title: "Le pouvoir politique romain et la vie de Jésus"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Palestine_Topographical_Maps">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mapas topográficos de Palestina</span>
+        <a href="/fr/article/Palestine_Topographical_Maps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartes topographiques de Palestine</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Israel_Seismic_Activity_Times_Jesus">
-          <span class="pr-2">Actividad sísmica en Israel desde los tiempos de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/article/Israel_Seismic_Activity_Times_Jesus">
+          <span class="pr-2">Activité sismique en Israël depuis l'époque de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -33,97 +33,97 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
-## Gobernantes civiles de los tiempos de Jesús
+## Dirigeants civils du temps de Jésus
 
-### Los Herodianos
+### LES HÉRODIENS
 
-- Herodes el Grande: 37-4 a. C. — Gobernante de toda la región en la época del nacimiento de Jesús. Tras su muerte en el año 4 a. C., su reino se dividió entre sus tres hijos: Arquelao, Antipas y Filipo. Arquelao demostró ser un gobernante tan inepto que los romanos lo reemplazaron, después de tan solo seis años, por un procurador, Poncio Pilato, en el año 6 d. C.
-- Arquelao: 4 a. C. a 6 d. C. — Gobernante de Judea; sucedido por Poncio Pilato. Su centro administrativo se encontraba en Cesarea.
-- Antipas: 4 a. C. a 39 d. C. — Gobernante de Galilea y Perea. Centro administrativo en Séforis, posteriormente en Tiberíades.
-- Filipo: 4 a. C. a 34 d. C. — Gobernante de la región al este de Galilea. Su centro administrativo se encontraba en Cesarea de Filipo.
-- Herodes Agripa I: 37 d. C. a 44 d. C.
-- Herodes Agripa II, 53 d.C. a 100 d.C. (?)
+- Hérode le Grand : 37 à 4 av. J.-C. – Souverain de toute la région à l’époque de la naissance de Jésus. À sa mort en 4 av. J.-C., son royaume fut partagé entre ses trois fils : Archélaüs, Antipas et Philippe. Archélaüs se révéla un si mauvais souverain que les Romains le remplacèrent après seulement six ans par un procurateur, Ponce Pilate, en 6 apr. J.-C.
+- Archélaüs : 4 av. J.-C. à 6 apr. J.-C. – Souverain de Judée ; remplacé par Ponce Pilate. Centre administratif à Césarée.
+- Antipas : 4 av. J.-C. à 39 apr. J.-C. – Souverain de Galilée et de Pérée. Centre administratif à Sepphoris, puis à Tibériade.
+- Philippe : 4 av. J.-C. à 34 apr. J.-C. – Souverain de la région à l’est de la Galilée. Centre administratif : Césarée de Philippe.
+- Hérode Agrippa Ier : 37 à 44 apr. J.-C.
+- Hérode Agrippa II, 53 à 100 après J.-C. (?)
 
-### Los Procuradores Romanos
+### LES PROCURATEURS ROMAINS
 
-- Coponio, del 6 al 9 d. C.
-- M. Ambíbulo, del 9 al 12 d. C.
-- Annio Rufo (12 d. C. a 15 d. C.)
-- Valerio Grato del 15 al 26 d.C.
-- Poncio Pilato (26 d. C. a 36 d. C.)
-- Marcelo, del año 36 al 37 d. C.
-- Cuspius Fadus (41-46 d. C.)
-- Tiberio Alejandro (46-48 d. C.)
-- Ventidio Cumano del 48 al 52 d.C.
-- Antonius Felix (52-60 d. C.)
-- Porcio Festo (60-62 d. C.)
-- Albino, del año 62 al 64 d. ​​C.
-- Gessius Florus (64-66 d. C.)
+- Coponius, de 6 à 9 ap. J.-C.
+- M. Ambibulus, 9 à 12 ap. J.-C.
+- Annius Rufus (12-15 ap. J.-C.)
+- Valerius Gratus de 15 à 26 après J.-C.
+- Ponce Pilate, de 26 à 36 ap. J.-C.
+- Marcellus, 36 à 37 ap. J.-C.
+- Cuspius Fadus, 41 à 46 ap. J.-C.
+- Tibère Alexandre, 46 à 48 ap. J.-C.
+- Ventidius Cumanus de 48 à 52 après J.-C.
+- Antonius Felix (52-60 ap. J.-C.)
+- Porcius Festus, 60 à 62 ap. J.-C.
+- Albinus, de 62 à 64 ap. J.-C.
+- Gessius Florus, de 64 à 66 ap. J.-C.
 
-### Los Emperadores Romanos
+### LES EMPEREURS ROMAINS
 
-- Augusto (27 a. C. a 14 d. C.)
-- Tiberio (14 d. C. a 37 d. C.)
-- Cayo Calígula (37 d. C. a 41 d. C.)
-- Claudio (41 d. C. a 54 d. C.)
-- Nerón (54 d. C. a 68 d. C.)
-- Bombilla del año 68 al 69 d. C.
-- Otón, año 69 d. C.
-- Vitelio, año 69 d. C.
-- Vespasiano (69 d. C. a 79 d. C.)
-- Tito (79 d. C. a 81 d. C.)
-- Domiciano (81 d. C. a 96 d. C.)
-- Nerva, del 96 al 98 d. C.
-- Trajano (98 d. C. a 117 d. C.)
-- Adriano, del 117 al 138 d. C.
-- Constantino el Grande (308 d. C. a 337 d. C.)
+- Auguste (27 av. J.-C. - 14 apr. J.-C.)
+- Tibère (14-37 ap. J.-C.)
+- Gaius Caligula (37-41 ap. J.-C.)
+- Claude (41-54 ap. J.-C.)
+- Néron (54-68 ap. J.-C.)
+- Bulbe 68 à 69 après J.-C.
+- Othon ap. J.-C. 69
+- Vitellius 69 ap. J.-C.
+- Vespasien, de 69 à 79 ap. J.-C.
+- Titus (79-81 ap. J.-C.)
+- Domitien, de 81 à 96 ap. J.-C.
+- Nerva, de 96 à 98 apr. J.-C.
+- Trajan (98-117 ap. J.-C.)
+- Hadrien (117-138 ap. J.-C.)
+- Constantin le Grand (308-337 ap. J.-C.)
 
-## Otros Descriptores Relevantes Para La Historia De Palestina
+## AUTRES DESCRIPTEURS PERTINENTS À L'HISTOIRE DE LA PALESTINE
 
-Cabe señalar que las fechas que se indican a continuación son aproximadas. Patrones culturales similares surgieron en distintas regiones geográficas y en diferentes momentos de la secuencia cronológica. El Libro de Urantia lo menciona en la página 903: «No existían periodos diferenciados, como la Edad de Piedra, la Edad de Bronce y la Edad de Hierro; las tres coexistieron en distintas localidades». No obstante, a continuación se incluyen los periodos cronológicos tradicionales a modo de referencia para la bibliografía especializada.
+Veuillez noter que les dates indiquées ci-dessous sont très approximatives. Des schémas culturels similaires sont apparus dans différentes régions géographiques à différentes époques. Le Livre d'Urantia le mentionne à la page 903 : « Il n'y avait pas de périodes distinctes, telles que l'âge de pierre, l'âge du bronze et l'âge du fer ; les trois ont coexisté en différents lieux. » Néanmoins, j'ai répertorié ci-dessous les périodes chronologiques traditionnelles à titre indicatif.
 
-A efectos prácticos, parece razonable equiparar el "bronce" con la "andita", teniendo en cuenta en la página 904 que fue uno de los adamsonitas quien descubrió cómo alear el estaño y el cobre en Turkestán.
+Pour des raisons pratiques, il semble raisonnable d'assimiler « Bronze » à « Andite », en notant à la page 904 que c'est l'un des Adamsonites qui a découvert comment allier l'étain et le cuivre au Turkestan.
 
-Resulta interesante observar que el punto de inflexión más consistente en la bibliografía es el paso al paleolítico superior, que corresponde a la llegada de Adán y Eva y al final de la era glacial.
+Il est intéressant de noter que le point de rupture le plus constant dans la littérature est le passage au Paléolithique supérieur, qui correspond à l'arrivée d'Adam et Ève et à la fin de la période glaciaire.
 
-En la literatura arqueológica, estos periodos se subdividen en periodos más específicos, aunque la mayoría de las exposiciones en museos públicos no abarcan más allá de las divisiones aquí mencionadas. Estas fechas son aproximadas; las fechas exactas que delimitan estos periodos varían ligeramente según la fuente.
+Ces périodes sont toutes subdivisées en sous-périodes plus fines dans la littérature archéologique, bien que la plupart des expositions muséales publiques ne dépassent pas les divisions mentionnées ici. Ces dates sont approximatives ; les dates exactes qui définissent les limites de ces périodes varient légèrement d'une source à l'autre.
 
-### Descriptores de períodos geológicos
+### Descripteurs des périodes géologiques
 
-- Pleistoceno Medio, 500.000 a 100.000 a. C.
-- Pleistoceno superior, entre 100.000 y 12.000 a. C.
-- Holoceno, 12.000 a 3150 a. C.
+- Pléistocène moyen (500 000 à 100 000 av. J.-C.)
+- Pléistocène supérieur (100 000 à 12 000 av. J.-C.)
+- Holocène (12 000 à 3150 av. J.-C.)
 
-### Descriptores de períodos históricos
+### Descripteurs de période historique
 
-- Prehistoria, del 1.000.000 al 4.500 a. C.
-- Periodo calcolítico: 4500 a. C. a 3250 a. C.
-- Periodo cananeo: 3250 a. C. a 1200 a. C.
-- Periodo de los Jueces: 1200 a 1000 a. C.
-- Los reinos israelitas del 1000 a. C. al 586 a. C. (Los reinos de Israel y Judea y el Primer Templo)
-- El período del Segundo Templo, desde el 550 a. C. hasta el 70 d. C. (Desde el gobierno de los asmoneos hasta la dinastía herodiana, pasando por los gobernadores romanos, hasta la destrucción del segundo templo).
-- Periodo de la Mishná y el Talmud: del 70 d. C. al 637 d. C.
+- Préhistoire (1 000 000 à 4 500 av. J.-C.)
+- Période chalcolithique (4500 av. J.-C. à 3250 av. J.-C.)
+- Période cananéenne (3250 av. J.-C. à 1200 av. J.-C.)
+- Période des Juges (1200 à 1000 av. J.-C.)
+- Les royaumes israélites de 1000 av. J.-C. à 586 av. J.-C. (Les royaumes d'Israël et de Judée et le Premier Temple)
+- La période du Second Temple (550 av. J.-C. à 70 apr. J.-C.) : du règne des Hasmonéens à la dynastie hérodienne, en passant par les gouverneurs romains jusqu’à la destruction du Second Temple.
+- Période de la Mishna et du Talmud (70 à 637 ap. J.-C.)
 
-### Períodos Arqueológicos (Años a. C.)
+### PÉRIODES ARCHÉOLOGIQUES (Années avant J.-C.)
 
-- 500.000 80.000 Paleolítico Inferior (Edad de Piedra Antigua)
-- 80.000 35.000 Paleolítico Medio
-- 35.000 15.000 Paleolítico Superior
-- 15.000 8.000 Mesolítico (Edad de Piedra Media)
-- 8.000 4.000 Neolítico (Nueva Edad de Piedra)
-- 4.000 3.150 Calcolítico
-- 3.150 2.500 Edad del Bronce Temprana
-- 2500 1550 Edad del Bronce Medio
-- 1.550 1.200 Edad del Bronce Tardía
-- 1.200 586 Edad de Hierro
-- 586 332 Períodos babilónico y persa
-- 332 37 Período helenístico
-- 37 d. C. 324 Período romano
-- 37 d. C. - 70 d. C. (Período herodiano)
-- 324 640 Período bizantino
-- 640 1099 Período árabe temprano
-- 1099-1291 Período de las Cruzadas
+- 500 000 80 000 Paléolithique inférieur (Âge de pierre ancien)
+- 80 000 35 000 Paléolithique moyen
+- 35 000 15 000 Paléolithique supérieur
+- 15 000 8 000 Mésolithique (Âge de pierre moyen)
+- 8 000 4 000 Néolithique (Nouvel Âge de Pierre)
+- 4 000 3 150 Chalcolithique
+- 3 150 2 500 Âge du bronze ancien
+- 2 500 1 550 Âge du bronze moyen
+- 1550-1200 Fin de l'âge du bronze
+- 1 200 586 Âge du fer
+- 586 332 Périodes babylonienne et perse
+- 332 37 Période hellénistique
+- 37 ap. J.-C. 324 Période romaine
+- 37 ap. J.-C. 70 (Période hérodienne)
+- 324-640 Période byzantine
+- 640-1099 Début de la période arabe
+- 1099-1291 Période des Croisades
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/rome-jesus.htm)
+- [Site web du Fellowship](https://archive.urantiabook.org/archive/graphics/rome-jesus.htm)

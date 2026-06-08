@@ -14,8 +14,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/map/Urantia_Foundation/map_02">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciudades de la primera gira de predicación de Jesús</span>
+        <a href="/es/map/Fellowship/map_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cities of Jesus' First Preaching Tour</span>
         </a>
         </td>
         <td>
@@ -24,8 +24,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/map/Urantia_Foundation/map_04">
-          <span class="pr-2">Tercera gira de predicación de Jesús por las ciudades de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/map/Fellowship/map_04">
+          <span class="pr-2">Cities of Jesus' Third Galilee Preaching Tour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,18 +41,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes de los Documentos de Urantia
+## Relevant Sections from the Urantia Book
 
-- [Documento 149: La segunda gira de predicación](/en/The_Urantia_Book/149)
-  - [LU 149:1 La fama generalizada de Jesús](/en/The_Urantia_Book/149#p1)
-  - [LU 149:2 Actitud del pueblo](/en/The_Urantia_Book/149#p2)
-  - [LU 149:3 Hostilidad de los líderes religiosos](/en/The_Urantia_Book/149#p3)
-  - [LU 149:4 Progreso de la gira de predicación](/en/The_Urantia_Book/149#p4)
-  - [LU 149:5 Lección sobre la satisfacción](/en/The_Urantia_Book/149#p5)
-  - [LU 149:6 El "Temor del Señor"](/en/The_Urantia_Book/149#p6)
-  - [LU 149:7 Regreso a Betsaida](/en/The_Urantia_Book/149#p7)
+- [Paper 149: The Second Preaching Tour](/en/The_Urantia_Book/149)
+  - [UB 149:1 The Widespread Fame of Jesus](/en/The_Urantia_Book/149#p1)
+  - [UB 149:2 Attitude of the People](/en/The_Urantia_Book/149#p2)
+  - [UB 149:3 Hostility of the Religious Leaders](/en/The_Urantia_Book/149#p3)
+  - [UB 149:4 Progress of the Preaching Tour](/en/The_Urantia_Book/149#p4)
+  - [UB 149:5 Lesson Regarding Contentment](/en/The_Urantia_Book/149#p5)
+  - [UB 149:6 The “Fear of the Lord”](/en/The_Urantia_Book/149#p6)
+  - [UB 149:7 Returning to Bethsaida](/en/The_Urantia_Book/149#p7)
 
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-second-preaching-tour-galilee.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/jesus-second-preaching-tour-galilee.htm)

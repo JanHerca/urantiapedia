@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/article/Palestine_Topographical_Maps">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mapas topográficos de Palestina</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Palestine Topographical Maps</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/article/Israel_Seismic_Activity_Times_Jesus">
-          <span class="pr-2">Actividad sísmica en Israel desde los tiempos de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Israel Seismic Activity Since The Times Of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -33,97 +33,97 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
-## Gobernantes civiles de los tiempos de Jesús
+## Civil Rulers of The Times of Jesus
 
-### Los Herodianos
+### THE HERODIANS
 
-- Herodes el Grande: 37-4 a. C. — Gobernante de toda la región en la época del nacimiento de Jesús. Tras su muerte en el año 4 a. C., su reino se dividió entre sus tres hijos: Arquelao, Antipas y Filipo. Arquelao demostró ser un gobernante tan inepto que los romanos lo reemplazaron, después de tan solo seis años, por un procurador, Poncio Pilato, en el año 6 d. C.
-- Arquelao: 4 a. C. a 6 d. C. — Gobernante de Judea; sucedido por Poncio Pilato. Su centro administrativo se encontraba en Cesarea.
-- Antipas: 4 a. C. a 39 d. C. — Gobernante de Galilea y Perea. Centro administrativo en Séforis, posteriormente en Tiberíades.
-- Filipo: 4 a. C. a 34 d. C. — Gobernante de la región al este de Galilea. Su centro administrativo se encontraba en Cesarea de Filipo.
-- Herodes Agripa I: 37 d. C. a 44 d. C.
-- Herodes Agripa II, 53 d.C. a 100 d.C. (?)
+- Herod the Great: 37 to 4 BC — Ruler of entire region at time of Jesus' birth. Upon his death in 4 BC, his kingdom was divided up amongst his three sons, Archelaus, Antipas and Philip. Archaelaus proved to be such a poor ruler that the Romans replaced him after only six years with a Procurator, Pontius Pilate, in 6 AD.
+- Archelaus: 4 BC to AD 6 — Ruler of Judea; replaced by Pontius Pilate. Administrative center at Caesarea.
+- Antipas: 4 BC to AD 39 — Ruler of Galilee and Perea. Administrative center at Sepphoris, later at Tiberias.
+- Philip: 4 BC to AD 34 — Ruler of region east of Galilee. Administrative center at Caesarea Philippi.
+- Herod Agrippa I: AD 37 to AD 44
+- Herod Agrippa II AD 53 to AD 100(?)
 
-### Los Procuradores Romanos
+### THE ROMAN PROCURATORS
 
-- Coponio, del 6 al 9 d. C.
-- M. Ambíbulo, del 9 al 12 d. C.
-- Annio Rufo (12 d. C. a 15 d. C.)
-- Valerio Grato del 15 al 26 d.C.
-- Poncio Pilato (26 d. C. a 36 d. C.)
-- Marcelo, del año 36 al 37 d. C.
-- Cuspius Fadus (41-46 d. C.)
-- Tiberio Alejandro (46-48 d. C.)
-- Ventidio Cumano del 48 al 52 d.C.
-- Antonius Felix (52-60 d. C.)
-- Porcio Festo (60-62 d. C.)
-- Albino, del año 62 al 64 d. ​​C.
-- Gessius Florus (64-66 d. C.)
+- Coponius AD 6 to AD 9
+- M. Ambibulus AD 9 to AD 12
+- Annius Rufus AD 12 to AD 15
+- Valerius Gratus AD 15 to AD 26
+- Pontius Pilatus AD 26 to AD 36
+- Marcellus AD 36 to AD 37
+- Cuspius Fadus AD 41 to AD 46
+- Tiberius Alexander AD 46 to AD 48
+- Ventidius Cumanus AD 48 to AD 52
+- Antonius Felix AD 52 to AD 60
+- Porcius Festus AD 60 to AD 62
+- Albinus AD 62 to AD 64
+- Gessius Florus AD 64 to AD 66
 
-### Los Emperadores Romanos
+### THE ROMAN EMPERORS
 
-- Augusto (27 a. C. a 14 d. C.)
-- Tiberio (14 d. C. a 37 d. C.)
-- Cayo Calígula (37 d. C. a 41 d. C.)
-- Claudio (41 d. C. a 54 d. C.)
-- Nerón (54 d. C. a 68 d. C.)
-- Bombilla del año 68 al 69 d. C.
-- Otón, año 69 d. C.
-- Vitelio, año 69 d. C.
-- Vespasiano (69 d. C. a 79 d. C.)
-- Tito (79 d. C. a 81 d. C.)
-- Domiciano (81 d. C. a 96 d. C.)
-- Nerva, del 96 al 98 d. C.
-- Trajano (98 d. C. a 117 d. C.)
-- Adriano, del 117 al 138 d. C.
-- Constantino el Grande (308 d. C. a 337 d. C.)
+- Augustus 27 BC to AD 14
+- Tiberius AD 14 to AD 37
+- Gaius Caligula AD 37 to AD 41
+- Claudius AD 41 to AD 54
+- Nero AD 54 to AD 68
+- Balba AD 68 to AD 69
+- Otho AD 69
+- Vitellius AD 69
+- Vespasian AD 69 to AD 79
+- Titus AD 79 to AD 81
+- Domitian AD 81 to AD 96
+- Nerva AD 96 to AD 98
+- Trajan AD 98 to AD 117
+- Hadrian AD 117 to AD 138
+- Constantine the Great AD 308 to AD 337
 
-## Otros Descriptores Relevantes Para La Historia De Palestina
+## OTHER DESCRIPTORS RELEVANT TO THE HISTORY OF PALESTINE
 
-Cabe señalar que las fechas que se indican a continuación son aproximadas. Patrones culturales similares surgieron en distintas regiones geográficas y en diferentes momentos de la secuencia cronológica. El Libro de Urantia lo menciona en la página 903: «No existían periodos diferenciados, como la Edad de Piedra, la Edad de Bronce y la Edad de Hierro; las tres coexistieron en distintas localidades». No obstante, a continuación se incluyen los periodos cronológicos tradicionales a modo de referencia para la bibliografía especializada.
+Note that the dates given below are very approximate. Similar cultural patterns emerged in different geographical regions at different times in the chronological sequence. _The Urantia Book_ makes a note of this on page 903, “There were no distinct periods, such as the Stone, Bronze, and Iron Ages; all three existed at the same time in different localities.” Nevertheless, I have listed the traditional chronological periods below for general orientation to the literature.
 
-A efectos prácticos, parece razonable equiparar el "bronce" con la "andita", teniendo en cuenta en la página 904 que fue uno de los adamsonitas quien descubrió cómo alear el estaño y el cobre en Turkestán.
+For practical purposes, it seems reasonable to equate “Bronze” with “Andite” noting on page 904 that it was one of the Adamsonites who discovered how to alloy tin and copper in Turkestan.
 
-Resulta interesante observar que el punto de inflexión más consistente en la bibliografía es el paso al paleolítico superior, que corresponde a la llegada de Adán y Eva y al final de la era glacial.
+It is interesting to note that the most consistent break point across the literature is the crossover into the upper paleolithic which corresponds to the arrival of Adam and Eve and the end of the ice age.
 
-En la literatura arqueológica, estos periodos se subdividen en periodos más específicos, aunque la mayoría de las exposiciones en museos públicos no abarcan más allá de las divisiones aquí mencionadas. Estas fechas son aproximadas; las fechas exactas que delimitan estos periodos varían ligeramente según la fuente.
+These periods are all broken down into finer subdivisions in the archaeological literature although most public museum displays do not go beyond the divisions listed here. These times are approximate; the actual times which form the boundaries of these periods vary somewhat from source to source.
 
-### Descriptores de períodos geológicos
+### Geologic Period Descriptors
 
-- Pleistoceno Medio, 500.000 a 100.000 a. C.
-- Pleistoceno superior, entre 100.000 y 12.000 a. C.
-- Holoceno, 12.000 a 3150 a. C.
+- Middle Pleistocene 500,000 to 100,000 BC
+- Upper Pleistocene 100,000 to 12,000 BC
+- Holocene 12,000 to 3150 BC
 
-### Descriptores de períodos históricos
+### Historic Period Descriptors
 
-- Prehistoria, del 1.000.000 al 4.500 a. C.
-- Periodo calcolítico: 4500 a. C. a 3250 a. C.
-- Periodo cananeo: 3250 a. C. a 1200 a. C.
-- Periodo de los Jueces: 1200 a 1000 a. C.
-- Los reinos israelitas del 1000 a. C. al 586 a. C. (Los reinos de Israel y Judea y el Primer Templo)
-- El período del Segundo Templo, desde el 550 a. C. hasta el 70 d. C. (Desde el gobierno de los asmoneos hasta la dinastía herodiana, pasando por los gobernadores romanos, hasta la destrucción del segundo templo).
-- Periodo de la Mishná y el Talmud: del 70 d. C. al 637 d. C.
+- Prehistoric 1,000,000 to 4,500 BC
+- Chalcolithic Period 4,500 BC to 3,250 BC
+- Canaanite Period 3,250 BC to 1,200 BC
+- Period of the Judges 1,200 to 1,000 BC
+- The Israelite Kingdoms 1,000 BC to 586 BC (The Kingdoms of Israel and Judaea and The First Temple)
+- The Second Temple Period 550 BC to 70 AD (The rule of the Hasmoneans to the Herodian dynasty, the Roman governors thru the destruction of the second temple.)
+- Period of the Mishnah and the Talmud 70 AD to 637 AD
 
-### Períodos Arqueológicos (Años a. C.)
+### ARCHAEOLOGICAL PERIODS (Years BC)
 
-- 500.000 80.000 Paleolítico Inferior (Edad de Piedra Antigua)
-- 80.000 35.000 Paleolítico Medio
-- 35.000 15.000 Paleolítico Superior
-- 15.000 8.000 Mesolítico (Edad de Piedra Media)
-- 8.000 4.000 Neolítico (Nueva Edad de Piedra)
-- 4.000 3.150 Calcolítico
-- 3.150 2.500 Edad del Bronce Temprana
-- 2500 1550 Edad del Bronce Medio
-- 1.550 1.200 Edad del Bronce Tardía
-- 1.200 586 Edad de Hierro
-- 586 332 Períodos babilónico y persa
-- 332 37 Período helenístico
-- 37 d. C. 324 Período romano
-- 37 d. C. - 70 d. C. (Período herodiano)
-- 324 640 Período bizantino
-- 640 1099 Período árabe temprano
-- 1099-1291 Período de las Cruzadas
+- 500,000 80,000 Lower Paleolithic (Old Stone Age)
+- 80,000 35,000 Middle Paleolithic
+- 35,000 15,000 Upper Paleolithic
+- 15,000 8,000 Mesolithic (Middle Stone Age)
+- 8,000 4,000 Neolithic (New Stone Age)
+- 4,000 3,150 Chalcolithic
+- 3,150 2,500 Early Bronze Age
+- 2,500 1,550 Middle Bronze Age
+- 1,550 1,200 Late Bronze Age
+- 1,200 586 Iron Age
+- 586 332 Babylonian and Persian Periods
+- 332 37 Hellenistic Period
+- 37 AD 324 Roman Period
+- 37 AD 70 (Herodian Period)
+- 324 640 Byzantine Period
+- 640 1099 Early Arab Period
+- 1099 1291 Crusader Period
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/rome-jesus.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/rome-jesus.htm)

@@ -1,5 +1,5 @@
 ---
-title: "Palestina del primer siglo: Índice de aldeas, pueblos y ciudades"
+title: "Palestine au premier siècle : Index des villages, des villes et des cités"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/map_09">
+        <a href="/fr/map/Fellowship/map_09">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puertos del siglo I en el mar de Galilea</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
+        <a href="/fr/index/maps_fellowship">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/Palestine_Topographical_Maps">
-          <span class="pr-2">Mapas topográficos de Palestina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/article/Palestine_Topographical_Maps">
+          <span class="pr-2">Cartes topographiques de Palestine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -33,14 +33,14 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
-La cuadrícula sobre la que se basa el mapa es el sistema de cuadrícula estándar MR, utilizado en numerosos informes arqueológicos y otras publicaciones descriptivas de la región, como el Diccionario Bíblico Anchor. En este sistema, los tres primeros dígitos indican una posición en el eje norte-sur del mapa, mientras que los tres dígitos siguientes indican una posición en el eje este-oeste. La intersección de ambas líneas representa la ubicación del elemento de referencia en el mapa. En el mapa, las coordenadas norte-sur se leen verticalmente, mientras que las coordenadas este-oeste se leen horizontalmente.
+La carte est construite selon le système de quadrillage MR standard, utilisé dans de nombreux rapports archéologiques et autres publications descriptives de la région, comme le dictionnaire biblique Anchor. Dans ce système, les trois premiers chiffres indiquent une position sur l'axe nord-sud de la carte, tandis que les trois suivants indiquent une position sur l'axe est-ouest ; l'intersection de ces deux axes correspond à l'emplacement de l'élément référencé. Sur la carte, les coordonnées nord-sud sont orientées verticalement et les coordonnées est-ouest horizontalement.
 
-El mapa muestra la ubicación de todos los pueblos y aldeas mencionados en la Parte IV del _Libro de Urantia_. El índice los incluye, así como otros pueblos y aldeas que se sabe que existían en tiempos de Jesús, pero que no aparecen en el mapa.
+La carte indique l'emplacement de tous les villages et villes mentionnés dans la quatrième partie du _Livre d'Urantia_. L'index les répertorie, ainsi que d'autres villes et villages dont l'existence à l'époque de Jésus est avérée, mais qui ne figurent pas sur la carte.
 
-Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrículas del mapa se toman del Atlas Bíblico Anchor y aparecen en [EL MAPA](/es/map/Fellowship/map_08) . Las letras a continuación enlazan con las secciones correspondientes del índice:
+Recherchez le nom de n'importe quel lieu du premier siècle. Les coordonnées et le quadrillage cartographique proviennent de l'Anchor Bible Atlas et figurent sur [LA CARTE](/fr/map/Fellowship/map_08) . Les lettres ci-dessous renvoient aux sections correspondantes de l'index :
 
 
-[Haz clic aquí para ver el mapa de Palestina del siglo I.](/es/map/Fellowship/map_01)
+[Haz clic aquí para ver el mapa de Palestina del siglo I.](/fr/map/Fellowship/map_01)
 
 ## A
 
@@ -50,18 +50,18 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 - ABILA 232-234
 - ACHZIB; ECDIPPA 271-159
 - ACRABET 170-182
-- ADÁN 167-202
+- ADAM 167-202
 - ADAMA 238-193
-- ADIDAS 152-145
+- ADIDA 152-145
 - ADORAIM; DURA 101-153
 - AENON 138-203
-- AGRIPPINA? 192-218
-- ENFERMEDAD 249-187
+- AGRIPPINA ? 192-218
+- AILABO 249-187
 - AIN 236-212
-- ALEJANDRÍA 166-193
+- ALEXANDRIUM 166-193
 - ALMA 273-196
 - AMATUS 183-208
-- AMATUS 240-202
+- AMMATHUS 240-202
 - AMMUDIM 247-188
 - AMUDIYA 266-216
 - ANABTAH 191-162
@@ -70,23 +70,23 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 - ANTHEDON 105-98
 - ANTIPATRIS 168-143
 - ANUATHU BORCAEUS 166-175
-- AFARATA? 243-168
-- AFEK 242-2
-- TORRE DE AFEK 165-146
-- APOLLONIA 177-132
-- CAR 213-184
+- APHARATHA ? 243-168
+- APHEK 242-2
+- TOUR APHEK 165-146
+- APOLLONIE 177-132
+- ARABA 213-184
 - ARAD 69-152
 - ARAD 76-162
 - ARBATTA 206-153
 - ARBELA 246-195
-- ARQUELAIS 149-195
-- AREOPOLIS 75-221
-- ARIMATEA 160-152
+- ARCHELAIS 149-195
+- ARÉOPOLIS 75-221
+- ARIMATHÉE 160-152
 - AROER 97-227
-- ARUS? 168-164
+- ARUS ? 168-164
 - ASHDOD 129-117
 - ASHKELON 118-107
-- ASTAROT 244-243
+- ASHTAROTH 244-243
 - AWARTHA 174-177
 - AYYANOSH 247-212
 
@@ -94,38 +94,38 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 
 - BAAL-PERAZIM 127-167
 - BARAS 113-207
-- BACA? 265-181
+- BACA ? 265-181
 - BADDAN 184-181
 - BATHYRA 255-257
 - BEERSHEBA 72-134
-- BEIROT 136-167
+- BEEROTH 136-167
 - BEIT ADIS 205-216
-- BEIT JENN DESCONOCIDO BELZEDEK? 109-139
+- BEIT JENN BELZEDEK INCONNU ? 109-139
 - BERSABE 260-189
 - BESARA 234-162
 - BESIMOTH 131-206
 - BETH NETOFA 248-186
 - BETH RIMAH 160-159
-- BETH-HAGGAN; GINEA 207–179
-- BETH-HORON, DE ABAJO 145-158
-- BETH-HORON, DE ARRIBA 144-160
-- BETH-LEAFHRAH? 106-153
+- BETH-HAGGAN ; GUINÉE 207–179
+- BETH-HORON, INFÉRIEURE 145-158 
+- BETH-HORON, SUPÉRIEURE 144-160
+- BETH-LEAPHRAH ? 106-153
 - BETH-MEON 120-219
-- BET-NIMRÁ 145-209
+- BETH-NIMRAH 145-209
 - BETH-PEOR 132-219
 - BETH-ZAITH 114-161
-- BET-ZACARÍAS 118-161
+- BETH-ZACHARIE 118-161
 - BETH-ZUR 110-159
-- BETABARA 138-200
-- BETANIA 129-173
-- BETEL 146-172
-- BELÉN (JUD) 123-170
-- BELÉN (L. GAL) 237-167
-- BELÉTEFA 122-149
-- BETMAO 243-199
+- BETHABARA 138-200
+- BÉTHANY 129-173
+- BÉTHEL 146-172
+- BETHLEHEM (JUD) 123-170
+- BETHLEHEM (L. GAL) 237-167
+- BETHLETEPHA 122-149
+- BETHMAUS 243-199
 - BETHPHAGE 130-174
-- BETSAIDA 254-203
-- BETSAIDA JULIAS 257-209
+- BETHSAIDA 254-203
+- BETHSAIDA JULIAS 257-209
 - BEZEK 197-187
 - BEZET 275-163
 - BORECHATH 249-297
@@ -136,56 +136,56 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 
 ## C
 
-- CESAREA 212-141
-- CESAREA DE FELIPE 292-217
-- CALLIRHUE 111-204
+- CAESAREA 212-141
+- CAESAREA PHILLIPPI 292-217
+- CALLIRRHOE 111-204
 - CANA 247-178
 - CAPARASIMA 264-178
 - CAPARORSA 99-152
-- CAPARANUMO 255-205
+- CAPERNAUM 255-205
 - CAPHARABIS 115-145
-- CAFARSABA 177-141
+- CAPHARSABA 177-141
 - CAPHARTOB 143-146
 - CAPITOLIAS 224-231
 - CASPIN 250-226
-- QUEFIRAS 137-160
-- CORAZIN 257-203
-- CIUDAD DE JUDÁ 126-162
-- COCHABA? 246-172
+- CHEPHIRAH 137-160
+- CHORAZIN 257-203
+- VILLE DE JUDA 126-162
+- COCHABA ? 246-172
 - COLA 201-194
 
 ## D
 
-- DABARITA 233-187
+- DABARITTA 233-187
 - DABIYYA 268-218
 - DABURA 272-212
 - DALTON 269-197
-- DAMASCO 323-273
+- DAMAS 323-273
 - DAN 295-212
-- DAFNE 292-209
+- DAPHNE 292-209
 - DEIR AZIZ 252-217
-- DIBÓN 101-224
-- DIONISIAS 236-297
+- DIBON 101-224
+- DIONYSIAS 236-297
 - DIUM 239-246
 - DOCUS 142-190
-- DOLR 224-143
+- DOR 224-143
 - DOTHAN 202-172
 
 ## Y
 
 - EDREI 224-253
 - ECRON 131-136
-- ELAM? 110-146
-- ELEALE 245-222
-- ELEUTHEROPOLIS 112-140
+- ELAM ? 110-146
+- ELEALAH 245-222
+- ÉLEUTHÉROPOLIS 112-140
 - EMMATHA 232-212
-- EMAÚS 139-149
+- EMMAUS 139-149
 - EN-GANNIM? 235-196
-- EN-TAB? 236-182
+- EN-TAB ? 236-182
 - ENDOR 227-186
-- ENGEDÍ 97-187
-- EFRÉN 151-178
-- EFRÓN 216-217
+- ENGADDI 97-187
+- ÉPHRAIM 151-178
+- ÉPHRON 216-217
 - ESHTAOL 132-151
 - EXLOTH 231-181
 
@@ -196,30 +196,30 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 ## G
 
 - GAATON 268-168
-- GABA? 236-160
+- GABA ? 236-160
 - GABALIS 57-205
 - GABARA 251-182
 - GABATHA 232-1
 - GADARA 229-214
-- GADDA DESCONOCIDO
+- GADDA INCONNU
 - GAMALA 257-2
 - GARIS 238-182
 - GAZA 101-101
 - GEBA 192-171
-- GEBUL? 219-198
-- GEDORA 160-220
+- GEBUL ? 219-198
+- GEDOR 160-220
 - GELBUS 207-189
 - GELIL 273-173
-- GENESARET 252-200
+- GERNESARET 252-200
 - GERASA 187-234
 - GESHER 226-204
 - GEZER 140-142
-- GIBEÓN 139-167
+- GIBÉON 139-167
 - GILEAD 209-244
 - GIMZO 148-146
-- GINEIGAR 228-174
-- GISCALA 270-191
-- GOFNA 151-171
+- GINNEIGAR 228-174
+- GISCHALA 270-191
+- GOPHNA 151-171
 - GOSHEN 87-137
 
 ## H
@@ -228,53 +228,53 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 - HAMATH PELLA 209-209
 - HANNATHON 245-175
 - HANOTAH 276-166
-- HAFARAÍM 222-192
+- HAPHARAÏM 222-192
 - HARRAWI 277-202
-- HATITA DESCONOCIDA
+- HATITA INCONNUE
 - HAZOR 270-202
-- HEBRÓN 102-160
+- HEBRON 102-160
 - HEDERA 204-142
-- HELDUA DESCONOCIDO
-- HERODIÓN 119-173
-- HESBÓN 133-225
-- HIERÁPOLIS DESCONOCIDO
-- HIPOS (SUSITA) 243-211
-- HIRCANIA 125-184
+- HELDUA INCONNU
+- HERODIUM 119-173
+- HESHBON 133-225
+- HIÉRAPOLIS INCONNU
+- HIPPO (SUSITA) 243-211
+- HYRCANIE 125-184
 
 ## I
 
 - IBLEAM 205-178
-- IRÓN 282-192
+- IRON 282-192
 
 ## J
 
-- POZO DE JACOB 180-178
+- PUITS DE JACOB 180-178
 - JAMNIA 142-125
 - JAMNITH 265-198
 - JANOAH 265-173
-- JAFIA 232-178
-- JARMUTH? 221-199
-- JERICÓ 140-192
-- JERUSALÉN 131-172
-- JESHANÁ 156-174
-- JEZREEL 218-181
-- JOGBEHAH 154-236
-- JOPE 162-127
+- JAPHIA 232-178
+- JARMUTH ? 221-199
+- JÉRICHO 140-192
+- JÉRUSALEM 131-172
+- JÉSHANA 156-174
+- JESREEL 218-181
+- JOGBEAH 154-236
+- JOPPA 162-127
 - JOTAPATA 249-176
-- JUDÁ, CIUDAD DE 126-162
-- JULIAS? 255-209
+- JUDA, VILLE DE 126-162
+- JULIAS ? 255-209
 - JUTTAH 95-158
 
 ## K
 
 - KABRITA 268-164
 - KAFR NAFAKH 274-220
-- KAMÓN? 221-218
+- KAMON ? 221-218
 - KANAF 253-214
 - KANATA 241-301
-- KARAHTA DESCONOCIDA
+- KARAHTA INCONNU
 - KEDESH 279-199
-- KEPHAR AGÓN 233-203
+- KEPHAR AGON 233-203
 - KEFAR AMIQO 264-166
 - KEFAR AZIZ 93-157
 - KEFAR BARAM 272-189
@@ -292,63 +292,63 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 - KEFAR YATMA 168-175
 - KEILAH 114-1
 - KERIOTH 105-215
-- KERIOTH? 83-161
+- KERIOTH ? 83-161
 - KHERESA 249-211
 
 ## L
 
-- LAQUIS 108-134
-- LEBONA 164-173
+- LACHISH 108-134
+- LEBONAH 164-173
 - LIVIAS 137-211
-- LUBIYA 241-191
+- LUBIYA  241-191
 - LUZ 301-208
-- LIDA 151-141
+- LYDDA 151-141
 
 ## M
 
-- MACAD DESCONOCIDO
-- MACAERUS 108-209
+- MACAD INCONNU
+- MACHARÉE 108-209
 - MACHMAS 142-176
-- MADÓN 245-192
+- MADON 245-192
 - MAFSHETAH 272-179
 - MAGDALA 248-198
 - MAMILAH 251-191
-- MAMRÉ? 108-161
+- MAMRE ? 108-161
 - MAR SABA 122-181
 - MASADA 80-183
-- MASHKANAH 242-188
+- MASHCANAH 242-188
 - MAZRAA 78-201
-- MEARIAH 255-188
-- MEDEBA 124-225
-- MEGIDÓ 221-167
-- MEROTH? 278-191
+- MEARAIA 255-188
+- MÉDÉBA 124-225
+- MEGIDDO 221-167
+- MEROTH ? 278-191
 - MEZAD 67-183
-- MISPÉ 143-170
+- MISPEH 143-170
 
 ## N
 
-- NAÍN 226-183
+- NAIN 226-183
 - NARRAH 144-190
-- NAZARET 233-180
-- NEORÁN 224-187
-- NOÉ 254-249
+- NAZARETH 233-180
+- NEORAN 224-187
+- NOE 254-249
 
 ## O
 
-- ORDA 86-108
+- ORDE 86-108
 
 ## P
 
 - PELLA 207-208
 - PENUEL 176-215
 - PHAINA 283-279
-- FARATON 138-179
-- FASAELIS 158-192
-- FILADELFIA 150-237
-- FILIPÓPOLIS 253-302
-- FILOTERIA 235-204
-- PORFIREÓN DESCONOCIDO
-- TOLEMAIDA 259-157
+- PARATHON 138-179
+- PHASÉLIS 158-192
+- PHILADELPHIE 150-237
+- PHILIPPOPOLIS 253-302
+- PHILOTÉRIE 235-204
+- PORPHYREON INCONNU
+- PTOLÉMAÏS 259-157
 
 ## Q
 
@@ -361,10 +361,10 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 - RAMA 261-184
 - RAMAH (JUD) 140-172
 - RAMAH (L. GAL) 258-186
-- RAMATH? 210-244
+- RAMATH ? 210-244
 - REHOB? 256-166
-- REHOB? 280-177
-- REHOB? 207-197
+- REHOB ? 280-177
+- REHOB ? 207-197
 - RHAPHON 251-259
 - RIMMON 243-179
 - RUJM EL-HIRI 259-227
@@ -376,44 +376,44 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 - SAMARIA 187-168
 - SANUR 195-173
 - SAPHEIR 123-122
-- SAPFO 146-155
+- SAPPHO 146-155
 - SAREPTA 317-177
 - SARID 230-171
 - SASA 270-187
-- ESCITÓPOLIS 212-197
+- SCYTHOPOLIS 212-197
 - SELAME 254-185
-- SELEUCIA 279-213
-- SENABRIS 236-203
-- SÉFORIS 239-176
-- SERGUNIN 239-197
+- SELUCIUS 279-213
+- SENNABRIS 236-203
+- SEPPHORIS 239-176
+- SERGUN 239-197
 - SERIFIN 151-135
 - SHAALBIM 141-148
-- SIQUEN 178-176
+- SHÉCHEM 178-176
 - SHEFARAM 245-166
 - SHEZOR 259-182
-- SILOH 162-177
+- SHILOH 162-177
 - SHIMRON 234-170
-- SITIM 138-214
-- SUNEM 223-180
-- SIBMA 130-223
+- SHITTIM 138-214
+- SHUNEM 223-180
+- SIBMAH 130-223
 - SOGANE 252-177
-- SUCOT 178-209
-- SYCAMINUM 247-146
-- SICAR 179-177
+- SUCCOTH 178-209
+- SYCAMONE 247-146
+- SYCHAR 179-177
 
 ## T
 
 - TAANACH 214-171
 - TARICHEA (MAGDALA) 248-198
 - TEL KINROT 253-201
-- TAMNA 157-160
-- TAMNA? 123-154
+- THAMNA 157-160
+- THAMNA ? 123-154
 - THREX 139-191
-- TIBERÍADES 241-202
+- TIBÉRIAS 241-202
 - TIBETAH 185-151
 - TIBON 237-161
 - TUBANI 218-185
-- TIRO 297-170
+- TYR 297-170
 - TYRUS 141-226
 
 ## U
@@ -423,13 +423,13 @@ Busque el nombre de cualquier lugar del siglo I. Las coordenadas y las cuadrícu
 ## Z
 
 - ZANOAH 125-150
-- ZAFÓN 186-204
-- ZEBULÓN? DESCONOCIDO
+- ZAPHON 186-204
+- ZABULON ? INCONNU
 - ZEREDAH 161-159
 - ZIA 166-217
 - ZOARA 49-194
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/palestine-villages-first-century.htm)
+- [Site web du Fellowship](https://archive.urantiabook.org/archive/graphics/palestine-villages-first-century.htm)

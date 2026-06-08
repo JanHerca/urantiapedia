@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/map/Fellowship/map_03">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda gira de predicación de Jesús por las ciudades de Galilea</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cities of Jesus' Second Galilee Preaching Tour</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/map/Fellowship/map_05">
-          <span class="pr-2">La evangelización de Jesús: La gira de la Decápolis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Jesus' Evangelism: The Decapolis Tour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,20 +41,20 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes de los Documentos de Urantia
+## Relevant Sections from the Urantia Book
 
-- [Documento 150: La tercera gira de predicación](/en/The_Urantia_Book/150)
-  - [LU 150:1 El Cuerpo Evangelístico Femenino](/en/The_Urantia_Book/150#p1_1)
-  - [LU 150:2 La parada en Magdala](/en/The_Urantia_Book/150#p2)
-  - [LU 150:3 Sábado en Tiberíades](/en/The_Urantia_Book/150#p3)
-  - [LU 150:4 El envío de los apóstoles de dos en dos](/en/The_Urantia_Book/150#p4)
-  - [LU 150:5 ¿Qué debo hacer para ser salvo?](/en/The_Urantia_Book/150#p5)
-  - [LU 150:6 Las lecciones de la tarde](/en/The_Urantia_Book/150#p6)
-  - [LU 150:7 La estancia en Nazaret](/en/The_Urantia_Book/150#p7)
-  - [LU 150:8 El servicio del sábado](/en/The_Urantia_Book/150#p8)
-  - [LU 150:9 El rechazo de Nazaret](/en/The_Urantia_Book/150#p9)
+- [Paper 150: The Third Preaching Tour](/en/The_Urantia_Book/150)
+  - [UB 150:1 The Women's Evangelistic Corps](/en/The_Urantia_Book/150#p1_1)
+  - [UB 150:2 The Stop at Magdala](/en/The_Urantia_Book/150#p2)
+  - [UB 150:3 Sabbath at Tiberias](/en/The_Urantia_Book/150#p3)
+  - [UB 150:4 Sending the Apostles out Two and Two](/en/The_Urantia_Book/150#p4)
+  - [UB 150:5 What Must I do to be Saved?](/en/The_Urantia_Book/150#p5)
+  - [UB 150:6 The Evening Lessons](/en/The_Urantia_Book/150#p6)
+  - [UB 150:7 The Sojourn at Nazareth](/en/The_Urantia_Book/150#p7)
+  - [UB 150:8 The Sabbath Service](/en/The_Urantia_Book/150#p8)
+  - [UB 150:9 The Nazareth Rejection](/en/The_Urantia_Book/150#p9)
 
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-third-galilee-preaching-tour.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/jesus-third-galilee-preaching-tour.htm)

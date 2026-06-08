@@ -1,5 +1,5 @@
 ---
-title: "«Mapas para un estudio de la Vida de Jesús», de Fellowship de El Libro de Urantia"
+title: "«Mapas para un estudio de la Vida de Jesús», de la Fellowship de El Libro de Urantia"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -29,6 +29,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Introducción
 
 - [Introducción a la serie de Mapas](/es/article/Palestine_Map_Introduction)
+
+## Mapas
 
 <div class="layout row wrap">
   <div class="flex xs8 md6 lg4 xl4 d-flex">
@@ -183,7 +185,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 
 ## Referencias
 
-- [«En sus pasos: Mapas de los viajes de Jesús», de la Fundación Urantia](https://www.urantia.org/es/en-sus-pasos)
+- [«Mapas para un estudio de la Vida de Jesús», de Fellowship de _El Libro de Urantia_](https://archive.urantiabook.org/index_maps.htm)
 
 <figure class="table chapter-navigator">
   <table>

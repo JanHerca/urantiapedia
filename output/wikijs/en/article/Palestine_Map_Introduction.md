@@ -105,12 +105,12 @@ This map should be considered a work in progress. Please report any errors or di
         </td>
         <td>
         <a href="/en/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
         <a href="/en/map/Fellowship/map_01">
-          <span class="pr-2">Mapa político detallado de la Palestina del primer siglo del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">The Urantia Book's First Century Palestine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

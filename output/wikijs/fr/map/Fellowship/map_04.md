@@ -1,6 +1,6 @@
 ---
-title: "Tercera gira de predicación de Jesús por las ciudades de Galilea"
-description: "El Libro de Urantia, página 150, del 16 de enero al 10 de marzo del año 29 d. C."
+title: "Troisième tournée de prédication de Jésus en Galilée"
+description: "Livre d'Urantia, Papier 150, du 16 janvier au 10 mars 29 ap. J.-C."
 published: true
 date: 2026-06-06T14:02:03.086Z
 tags: Jesus, Jesus places, map
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/map_03">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda gira de predicación de Jesús por las ciudades de Galilea</span>
+        <a href="/fr/map/Fellowship/map_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deuxième tournée de prédication de Jésus en Galilée</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_05">
-          <span class="pr-2">La evangelización de Jesús: La gira de la Decápolis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_05">
+          <span class="pr-2">L'évangélisation de Jésus : Le voyage dans la Décapole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,20 +41,20 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes de los Documentos de Urantia
+## Extraits pertinents du Livre d'Urantia
 
-- [Documento 150: La tercera gira de predicación](/es/The_Urantia_Book/150)
-  - [LU 150:1 El Cuerpo Evangelístico Femenino](/es/The_Urantia_Book/150#p1_1)
-  - [LU 150:2 La parada en Magdala](/es/The_Urantia_Book/150#p2)
-  - [LU 150:3 Sábado en Tiberíades](/es/The_Urantia_Book/150#p3)
-  - [LU 150:4 El envío de los apóstoles de dos en dos](/es/The_Urantia_Book/150#p4)
-  - [LU 150:5 ¿Qué debo hacer para ser salvo?](/es/The_Urantia_Book/150#p5)
-  - [LU 150:6 Las lecciones de la tarde](/es/The_Urantia_Book/150#p6)
-  - [LU 150:7 La estancia en Nazaret](/es/The_Urantia_Book/150#p7)
-  - [LU 150:8 El servicio del sábado](/es/The_Urantia_Book/150#p8)
-  - [LU 150:9 El rechazo de Nazaret](/es/The_Urantia_Book/150#p9)
+- [Document 150 : La troisième tournée de prédication](/fr/The_Urantia_Book/150)
+  - [LU 150:1 Le Corps évangélique des femmes](/fr/The_Urantia_Book/150#p1_1)
+  - [LU 150:2 L'arrêt à Magdala](/fr/The_Urantia_Book/150#p2)
+  - [LU 150:3 Sabbat à Tibériade](/fr/The_Urantia_Book/150#p3)
+  - [LU 150:4 Envoi des apôtres deux par deux](/fr/The_Urantia_Book/150#p4)
+  - [LU 150:5 Que dois-je faire pour être sauvé ?](/fr/The_Urantia_Book/150#p5)
+  - [LU 150:6 Les leçons du soir](/fr/The_Urantia_Book/150#p6)
+  - [LU 150:7 Le séjour à Nazareth](/fr/The_Urantia_Book/150#p7)
+  - [LU 150:8 Le service du sabbat](/fr/The_Urantia_Book/150#p8)
+  - [LU 150:9 Le rejet de Nazareth](/fr/The_Urantia_Book/150#p9)
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-third-galilee-preaching-tour.htm)
+- [Site web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/graphics/jesus-third-galilee-preaching-tour.htm)

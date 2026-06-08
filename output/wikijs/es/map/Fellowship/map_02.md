@@ -36,7 +36,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
 <br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
-<img src="/image/map/Fellowship/maps/gifmap3.png">
+<img src="/image/map/Fellowship/maps/mapgif3.png">
 </figure>
 
 <br style="clear:both;"/>
@@ -45,9 +45,9 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 - [Documento 146: La primera gira de predicación por Galilea.](/es/The_Urantia_Book/146)
   - [LU 146:1 Predicación en Rimón](/es/The_Urantia_Book/146#p1_1)
-  - [LU 146:2 Y Jotapatha](/es/The_Urantia_Book/146#p2)
-  - [LU 146:3 La parada en Ramah](/es/The_Urantia_Book/146#p3)
-  - [LU 146:4 El Evangelio en Hierro](/es/The_Urantia_Book/146#p4)
+  - [LU 146:2 En Jotapata](/es/The_Urantia_Book/146#p2)
+  - [LU 146:3 La parada en Ramá](/es/The_Urantia_Book/146#p3)
+  - [LU 146:4 El Evangelio en Irón](/es/The_Urantia_Book/146#p4)
   - [LU 146:5 De vuelta en Caná](/es/The_Urantia_Book/146#p5)
   - [LU 146:6 Naín y el hijo de la viuda](/es/The_Urantia_Book/146#p6)
   - [LU 146:7 En Endor](/es/The_Urantia_Book/146#p7)

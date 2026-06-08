@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/map/Fellowship/map_04">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tercera gira de predicación de Jesús por las ciudades de Galilea</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cities of Jesus' Third Galilee Preaching Tour</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/map/Fellowship/map_06">
-          <span class="pr-2">La evangelización de Jesús: Galilea, Judea, Samaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Jesus' Evangelism: Galilee, Judea, Samaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,17 +41,17 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes del Libro de Urantia
+## Relevant Sections from the Urantia Book
 
-- [Documento 159: La gira de la Decápolis](/en/The_Urantia_Book/159)
-  - [LU 159:1 El sermón sobre el perdón](/en/The_Urantia_Book/159#p1_1)
-  - [LU 159:2 El extraño predicador](/en/The_Urantia_Book/159#p2)
-  - [LU 159:3 Instrucciones para maestros y creyentes](/en/The_Urantia_Book/159#p3)
-  - [LU 159:4 La conversación con Natanael](/en/The_Urantia_Book/159#p4)
-  - [LU 159:5 La naturaleza positiva de la religión de Jesús](/en/The_Urantia_Book/159#p5)
-  - [LU 159:6 El regreso de Magadán](/en/The_Urantia_Book/159#p6)
+- [Paper 159: The Decapolis Tour](/en/The_Urantia_Book/159)
+  - [UB 159:1 The Sermon on Forgiveness](/en/The_Urantia_Book/159#p1_1)
+  - [UB 159:2 The Strange Preacher](/en/The_Urantia_Book/159#p2)
+  - [UB 159:3 Instruction for Teachers and Believers](/en/The_Urantia_Book/159#p3)
+  - [UB 159:4 The Talk with Nathaniel](/en/The_Urantia_Book/159#p4)
+  - [UB 159:5 The Positive Nature of Jesus' Religion](/en/The_Urantia_Book/159#p5)
+  - [UB 159:6 The Return to Magadan](/en/The_Urantia_Book/159#p6)
 
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-evangelism-decapolis-tour.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/jesus-evangelism-decapolis-tour.htm)

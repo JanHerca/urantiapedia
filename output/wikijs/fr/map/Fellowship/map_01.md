@@ -1,5 +1,5 @@
 ---
-title: "Mapa político detallado de la Palestina del primer siglo del Libro de Urantia"
+title: "Carte politique détaillée de la Palestine du premier siècle tirée du Livre d'Urantia"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Palestine_Map_Introduction">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia, Palestina del primer siglo, Los tiempos de Jesús</span>
+        <a href="/fr/article/Palestine_Map_Introduction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : La Palestine du premier siècle, l'époque de Jésus</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_02">
-          <span class="pr-2">Ciudades de la primera gira de predicación de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_02">
+          <span class="pr-2">Villes de la première tournée de prédication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -44,6 +44,6 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/first-century-palestine-map.htm)
+- [Site web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/graphics/first-century-palestine-map.htm)

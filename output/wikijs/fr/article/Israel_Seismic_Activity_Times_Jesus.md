@@ -1,5 +1,5 @@
 ---
-title: "Actividad sísmica en Israel desde los tiempos de Jesús"
+title: "Activité sismique en Israël depuis l'époque de Jésus"
 description: ""
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -14,13 +14,13 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Roman_Political_Rule_and_the_Life_of_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El gobierno político romano y la vida de Jesús</span>
+        <a href="/fr/article/Roman_Political_Rule_and_the_Life_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le pouvoir politique romain et la vie de Jésus</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
@@ -30,55 +30,56 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
-Resumen de un extenso catálogo publicado en el número de invierno de 1994 de la revista Israel Exploration Journal por D. H. K. Amiran, de la Universidad Hebrea de Jerusalén, y E. Arieh, del Instituto de Investigación del Petróleo y Geofísica, Holon, Israel.
+Résumé d'un catalogue exhaustif paru dans le numéro d'hiver 1994 de l'Israel Exploration Journal, rédigé par DHK Amiran (Université hébraïque de Jérusalem) et E. Arieh (Institut de recherche pétrolière et de géophysique, Holon, Israël).
 
+  
 
-Cualquier intento de interpretar o comprender las ruinas arqueológicas actuales en Israel en relación con la época de Jesús debe tener en cuenta no solo la destrucción causada por la guerra, sino también la resultante de la importante actividad sísmica en la región durante los siglos transcurridos.
+Toute tentative d'interprétation ou de compréhension des ruines archéologiques actuelles en Israël par rapport à l'époque de Jésus doit prendre en considération non seulement les destructions causées par la guerre, mais aussi celles résultant de l'importante activité sismique qui a secoué la région au cours des siècles suivants.
 
-Al observar un mapa topográfico de Palestina, se aprecia una profunda falla que atraviesa la región desde el Mar Muerto, hacia el norte, pasando por el Valle del Jordán, el Mar de Galilea y más al norte. (Esta zona de rift en realidad comienza mucho más al sur, en el continente africano). Se trata de una zona de intensa actividad sísmica. A lo largo de esta zona se encuentran numerosos volcanes y manantiales termales. Las tensiones geológicas de la región se aprecian fácilmente en los estratos radicalmente plegados que quedan expuestos en las colinas que rodean Jericó. Grandes terremotos en la región han paralizado repetidamente la actividad en lo que habían sido prósperas ciudades económicas e industriales.
+L'examen d'une carte topographique de la Palestine révèle une profonde faille traversant la région, de la mer Morte au nord, en passant par la vallée du Jourdain et la mer de Galilée. (Cette zone de rift prend en réalité naissance bien plus au sud, sur le continent africain). Il s'agit d'une zone d'intense activité sismique. On y trouve de nombreux volcans et sources thermales. Les contraintes géologiques de la région sont clairement visibles dans les strates fortement plissées qui affleurent dans les collines autour de Jéricho. De puissants séismes ont régulièrement interrompu brutalement l'activité de villes autrefois prospères sur les plans économique et industriel.
 
-Además, estos eventos sísmicos han alterado el curso de vías fluviales como el río Jordán, han desplazado manantiales y han provocado la reconstrucción de aldeas sobre escombros sísmicos o junto a ellos. Estos sucesos obligan a ser cautelosos al ubicar sitios hoy en día basándose en descripciones del siglo I sobre la ubicación de manantiales y ríos. Por ejemplo, la descripción del _Libro de Urantia_ sobre la ubicación del río Jordán con respecto a la ciudad de Pella es difícil de conciliar con la ubicación actual del río. Es posible que este río haya cambiado sustancialmente su curso durante los dos mil años transcurridos.
+De plus, ces séismes ont modifié le cours d'eau comme le Jourdain, déplacé des sources et entraîné la reconstruction de villages sur ou à proximité de décombres. Ces événements incitent à la prudence quant à la localisation actuelle de sites à partir des descriptions du premier siècle concernant l'emplacement des sources et des rivières. Par exemple, la description du _Livre d'Urantia_ de l'emplacement du Jourdain par rapport à la ville de Pella est difficilement compatible avec l'emplacement actuel du fleuve. Ce dernier a probablement subi des modifications importantes de son cours au cours des deux mille dernières années.
 
-Comprender la época en que ocurrieron estos eventos trascendentales puede ayudar a datar las estructuras encontradas en estos sitios. Resulta de particular interés la datación de la sinagoga de Cafarnaúm: ¿fue reconstruida tras el terremoto del 363 utilizando algunos de los mismos materiales que la sinagoga donde Jesús predicó? Este terremoto del 363 y el del 749 tuvieron un gran impacto en muchos de los lugares donde se desarrolló la vida de Jesús.
+Comprendre le contexte temporel de ces événements majeurs permet de dater les édifices découverts sur ces sites. La datation de la synagogue de Capharnaüm est particulièrement intéressante : a-t-elle été reconstruite après le tremblement de terre de 363, en utilisant certains des mêmes matériaux que celle où Jésus a prêché ? Ce séisme de 363, ainsi que celui de 749, ont profondément marqué nombre de lieux où s’est déroulé le récit de la vie de Jésus.
 
-Además de terremotos, se han producido tsunamis severos en la costa mediterránea y, en ocasiones, se han generado olas destructivas (seiches) en el Mar de Galilea y en el Mar Muerto. A continuación, se presenta una lista de los principales eventos que han alterado algunos de los sitios de interés para los lectores de _El Libro de Urantia_. Esta información proviene de un extenso catálogo publicado en el número de invierno de 1994 de la revista Israel Exploration Journal.
+Outre les séismes, de violents tsunamis ont frappé la côte méditerranéenne et des vagues destructrices (seiches) se sont parfois formées dans la mer de Galilée et la mer Morte. Vous trouverez ci-dessous une liste des principaux événements ayant modifié certains sites d'intérêt pour les lecteurs du Livre d'Urantia. Ces informations sont extraites d'un catalogue exhaustif paru dans le numéro d'hiver 1994 de l'Israel Exploration Journal.
 
-> 64 a. C. Fuerte terremoto en Jerusalén; daños en el templo y las murallas de la ciudad.
+> 64 av. J.-C. Un violent tremblement de terre frappe Jérusalem ; le temple et les remparts de la ville sont endommagés.
 > 
-> En el año 31 a. C., un fuerte terremoto azotó Galilea y Judea. Josefo informó de la muerte de "30 000 personas y numerosos animales en Judea", con graves daños en Jericó, Qumrán y Masada.
+> 31 av. J.-C. Un violent tremblement de terre frappe la Galilée et la Judée. Josèphe rapporte « 30 000 morts parmi les hommes et de nombreux animaux en Judée » ; d’importants dégâts sont constatés à Jéricho, Qumran et Massada.
 > 
-> 30 d. C., 33 d. C. Daños leves en Jerusalén
+> 30 et 33 ap. J.-C. Légers dégâts à Jérusalem
 > 
-> Año 115 d.C. Terremoto devastador en Siria; posibles daños por maremoto en Cesarea.
->
-> En el año 306 d.C., un terremoto devastador azotó Palestina; un tsunami asoló Cesarea y Jerusalén sufrió graves daños.
+> 115 après J.-C. Séisme destructeur en Syrie ; dégâts possibles dus au tsunami à Césarée.
 > 
-> 363 d.C. Terremoto severo que afectó a la mayor parte de Palestina y Jordania; graves daños en Cesarea de Filipo, Cafarnaúm, Tiberíades, Gadara, Séforis, Escitópolis, Sebaste, Gofnia, Jerusalén, Cesarea, Ptolomeo y Petra de los nabateos.
+> 306 après J.-C. Séisme dévastateur en Palestine ; tsunami à Césarée, destruction à Jérusalem.
 > 
-> En el año 419 d.C., se produjo un terremoto de intensidad moderada a grave en Palestina; muchas ciudades y pueblos quedaron destruidos; los antipatris fueron destruidos; Jerusalén sufrió graves daños.
+> 363 ap. J.-C. Un violent tremblement de terre affecte la majeure partie de la Palestine et de la Jordanie ; de graves dégâts sont constatés à Césarée de Philippe, Capharnaüm, Tibériade, Gadara, Sepphoris, Scythopolis, Sébaste, Gophnie, Jérusalem, Césarée, Ptolmaïs et Pétra des Nabatéens.
 > 
-> En el año 447 d.C., los baños termales de Gadara fueron destruidos; muchas personas murieron.
+> 419 ap. J.-C. Séisme d'intensité modérée à forte en Palestine ; nombreuses villes et villages détruits ; Antipatris détruite ; graves dégâts à Jérusalem.
 > 
-> Terremoto en Palestina en el año 631 o 632 d.C., con réplicas que se prolongaron durante 30 días; destrucción generalizada.
+> 447 après J.-C. Destruction des thermes de Gadara ; de nombreuses personnes tuées.
 > 
-> 749 d. C. Terremoto severo en Palestina; decenas de miles de muertos. Cafarnaúm destruida. Susita destruida. Gran destrucción en Tiberíades. Los baños termales de Gadara completamente destruidos. Graves daños en Pella, Escitópolis y Jerusalén. Muchos de los edificios más importantes de Jerash destruidos. Gran destrucción en Filadelfia. Tsunami en la costa mediterránea. Seiche en el Mar Muerto.
+> Tremblement de terre en Palestine en 631 ou 632 après J.-C., avec des répliques qui se poursuivent pendant 30 jours ; destructions généralisées.
 > 
-> Año 1033 d. C. Enjambre de fuertes terremotos con epicentro en el valle del Jordán que se prolongó durante unos 40 días. Se sintieron desde Siria hasta Egipto y en el Néguev. Ptolomeo sufrió graves daños y perdió la vida; se informó que el puerto quedó seco durante una hora antes del inicio del devastador tsunami. Gran destrucción en Judea; daños en las murallas de Jerusalén; gran destrucción en Tiberíades. Jericó fue destruida. Hebrón sufrió graves daños.
+> 749 ap. J.-C. Un violent tremblement de terre frappe la Palestine ; des dizaines de milliers de morts. Capharnaüm et Susita sont détruites. Tibériade est fortement endommagée. Les thermes de Gadara sont entièrement détruits. Pella, Scythopolis et Jérusalem subissent de graves dégâts. De nombreux édifices importants de Jerash sont détruits. Philadelphie est fortement endommagée. Un tsunami frappe la côte méditerranéenne. Une seiche se produit dans la mer Morte.
 > 
-> Año 1182 d.C. Galilea y Judea; de moderada a grave.
+> En 1033, une série de violents séismes, centrés sur la vallée du Jourdain, se poursuivit pendant une quarantaine de jours. Ils furent ressentis de la Syrie à l'Égypte et jusqu'au Néguev. À Ptolmaïs, les dégâts et les pertes humaines furent considérables ; le port aurait été à sec pendant une heure avant l'arrivée d'un tsunami dévastateur. La Judée fut fortement endommagée, notamment les murailles de Jérusalem et Tibériade. Jéricho fut détruite. Hébron subit d'importants dégâts.
 > 
-> En el año 1202 d. C., un fuerte terremoto se sintió desde Siria hasta Egipto. Graves daños en Cesarea de Filipo, Escitópolis y Jerusalén; Sechem quedó completamente destruida; un fuerte tsunami en la costa del Levante aparentemente causó graves daños en Ptolemaida.
+> 1182 après J.-C. Galilée et Judée ; modérée à sévère.
 > 
-> 1546 d. C. Terremoto severo en Palestina; cientos de muertos; el río Jordán se detuvo durante dos días por un deslizamiento de tierra; tsunami en la costa mediterránea desde Ptolomeo hacia el sur hasta Gaza. El Mediterráneo retrocedió "una larga caminata"; se produjo una marea alta en el Mar Muerto.
+> 1202 ap. J.-C. Un violent séisme est ressenti de la Syrie à l'Égypte. Césarée de Philippe, Scythopolis et Jérusalem subissent d'importants dégâts ; Séchem est « entièrement détruite ». Un violent tsunami frappe la côte du Levant, causant apparemment de graves dommages à Ptolmaïs.
 > 
-> En 1759 d.C., un fuerte terremoto afectó a la mayor parte de Palestina y Siria, causando entre 10.000 y 40.000 muertos; graves daños en Nazaret; derrumbe de las murallas de Tiberíades; se produjo una inundación en el mar de Galilea; un tsunami en Ptolemaida inundó las calles de la ciudad hasta una profundidad de 2 metros y arrojó barcos a la costa.
+> 1546 : Un violent tremblement de terre frappe la Palestine ; des centaines de morts ; le Jourdain est interrompu pendant deux jours par un glissement de terrain ; un tsunami frappe la côte méditerranéenne, de Ptolmaïs au sud jusqu’à Gaza. La Méditerranée se retire « à une longue journée de marche » ; une seiche se produit dans la mer Morte.
 > 
-> 1837 d. C. Terremoto severo con epicentro cerca de Safed. Miles de muertos y ciudades enteras destruidas. Desprendimientos de rocas en Cesarea de Filipo; el 28 % de la población de Tiberíades murió; las murallas de la ciudad quedaron destruidas; un seiche arrasó las costas del Mar de Galilea, causando numerosas muertes. Daños moderados en Nazaret, Belén, Hebrón y Jerusalén.
+> 1759 ap. J.-C. Un violent tremblement de terre affecte la majeure partie de la Palestine et de la Syrie ; entre 10 000 et 40 000 personnes sont tuées ; de graves dégâts sont constatés à Nazareth ; les murs de Tibériade s'effondrent ; une seiche se produit sur la mer de Galilée ; un tsunami frappe Ptolmaïs, inondant les rues de la ville jusqu'à une profondeur de 2 mètres et projetant des navires sur le rivage.
 > 
-> 1927 d.C. Terremoto devastador con entre 250 y 500 víctimas mortales; el caudal del río Jordán se detuvo durante 21 horas y media debido a deslizamientos de tierra; seiches en la cuenca norte del Mar Muerto.
+> 1837 : Un violent séisme, dont l’épicentre se situait près de Safed, fit des milliers de morts et détruisit des villes entières. Des éboulements eurent lieu à Césarée de Philippe ; 28 % de la population de Tibériade périt et les remparts furent détruits ; une seiche ravagea les rives du lac de Tibériade, faisant de nombreuses victimes. Des dégâts modérés furent constatés à Nazareth, Bethléem, Hébron et Jérusalem.
 > 
-> 1943 d.C. Fuerte terremoto en toda Palestina: los terremotos de 1943 y 1927 fueron los más fuertes en la región durante el siglo XX.
+> 1927 apr. J.-C. Séisme destructeur avec 250 à 500 victimes ; le débit du Jourdain est interrompu pendant 21 heures et demie par des glissements de terrain ; seiches dans le bassin nord de la mer Morte.
+> 
+> 1943 après J.-C. Fort tremblement de terre en Palestine – Les séismes de 1943 et 1927 sont les plus forts qu'ait connus la région au cours du XXe siècle.
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/palestine-seismic-events.htm)
+- [Site web du Fellowship](https://archive.urantiabook.org/archive/graphics/palestine-seismic-events.htm)

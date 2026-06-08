@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/article/Index_of_Place_Locations">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Palestina del primer siglo: Índice de aldeas, pueblos y ciudades</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Century Palestine: Index of Villages, Towns, and Cities</span>
         </a>
         </td>
         <td>
@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/article/Roman_Political_Rule_and_the_Life_of_Jesus">
-          <span class="pr-2">El gobierno político romano y la vida de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Roman Political Rule and the Life of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -49,6 +49,6 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Referencias
+## References
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/topomaps.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/topomaps.htm)

@@ -15,7 +15,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/article/Roman_Political_Rule_and_the_Life_of_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El gobierno político romano y la vida de Jesús</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Roman Political Rule and the Life of Jesus</span>
         </a>
         </td>
         <td>
@@ -30,55 +30,57 @@ dateCreated: 2026-06-06T14:02:03.086Z
   </table>
 </figure>
 
-Resumen de un extenso catálogo publicado en el número de invierno de 1994 de la revista Israel Exploration Journal por D. H. K. Amiran, de la Universidad Hebrea de Jerusalén, y E. Arieh, del Instituto de Investigación del Petróleo y Geofísica, Holon, Israel.
+Condensed from an extensive catalog appearing in the winter 1994 issue of Israel Exploration Journal by D.H.K. Amiran, The Hebrew University of Jerusalem, and E. Arieh, The Institute for Petroleum Research and Geophysics, Holon Israel
+
+  
+
+Any attempt to interpret or understand present-day archaeological ruins in Israel relative to the times of Jesus must take into consideration not only the destruction wrought by warfare, but that resulting from the significant seismic activity in the region over the intervening centuries.
+
+Looking at a topographical map of Palestine reveals a deep cleavage running through the region from the Dead Sea, north through the Jordan Valley, the Sea of Galilee and on to the north. (This rift zone actually begins far south on the African continent). This is a zone of intense seismic activity. Along this zone are numerous volcanoes and hot springs. The geologic stresses of the region can easily be seen in the radically folded strata exposed in the hills around Jericho. Major earthquakes in the region have repeatedly brought to a sudden end activities in what had been thriving economic and industrial towns.
+
+In addition, these seismic events have altered the course of waterways such as the Jordan river, relocated springs, and led to the reconstruction of villages on top of or adjacent to earthquake-produced rubble. These events force caution in locating sites today on the basis of first century descriptions of the location of springs and rivers. For example, _the Urantia Book_ description of the location of the River Jordan relative to the city of Pella is difficult to reconcile with today's location of the river. This river may have changed its course substantially over the intervening two thousand years.
+
+An understanding of the times at which these major events took place can help with the dating of structures found at these sites. Of particular interest is the dating of the synagogue at Capernaum — was this synagogue rebuilt after the earthquake of 363 using some of the same materials from the one in which Jesus spoke? This earthquake of 363 and the one of 749 had a major impact on many of the sites where the drama of Jesus' life was enacted.
+
+In addition to earthquakes, there have been severe tsunamis on the Mediterranean coast and occassions on which destructive waves (seiches) have developed in the Sea of Galilee and in the Dead Sea. Following is a list of major events which have altered some of the sites which are of interest to readers of _The Urantia Book_. This information is taken from an extensive catalog which appears in the winter 1994 issue of Israel Exploration Journal.
+
+> 64 BC Strong earthquake in Jerusalem; damage to temple and city walls
+> 
+> 31 BC Severe earthquake in Galilee and Judea. Josephus reports “30,000 people and many animals killed in Judea”—serious damage at Jericho, Qumran and Masada.
+> 
+> 30 AD, 33 AD Slight damage in Jerusalem
+> 
+> 115 AD Destructive earthquake in Syria; possible tidal wave damage at Caesarea.
+> 
+> 306 AD Destructive earthquake in Palestine; tsunami at Caesarea, destruction at Jerusalem.
+> 
+> 363 AD Severe earthquake affecting most of Palestine and Jordan; Severe damage at Caesarea Philippi, Capernaum, Tiberias, Gadara, Sepphoris, Scythopolis, Sebaste, Gophnia, Jerusalem, Caesarea, Ptolmais, and Petra of the Nabataeans.
+> 
+> 419 AD Moderate to severe earthquake in Palestine; Many towns and villages destroyed; Antipatris destroyed; severe damage in Jerusalem.
+> 
+> 447 AD Thermal baths at Gadara destroyed; many people killed.
+> 
+> 631 or 632 AD Earthquake in Palestine with aftershocks continuing for 30 days; widespread destruction.
+> 
+> 749 AD Severe earthquake in Palestine; tens of thousands of deaths. Capernaum destroyed. Susita destroyed. Great destruction in Tiberias. Gadara thermal baths completely destroyed. Severe damage at Pella, Scythopolis and Jerusalem. Many of the greatest buildings in Jerash destroyed. Great destruction at Philadelphia. Tsunami on Mediterranean coast. Seiche in the Dead Sea.
+> 
+> 1033 AD Swarm of severe earthquakes centered in the Jordan Valley which continued for some 40 days. Felt from Syria to Egypt and in the Negev. Much damage and loss of life in Ptolmais — port reported to have gone dry for an hour before onset of destructive tsunami. Much destruction in Judea; damage to walls of Jerusalem; Much destruction at Tiberias. Jericho destroyed. Much damage at Hebron.
+> 
+> 1182 AD Galilee and Judea; moderate to severe.
+> 
+> 1202 AD Severe earthquake felt from Syria to Egypt. Severe damage in Caesarea Philippi, Scythopolis, Jerusalem, 'Sechem completely ruined', severe tsunami on Levant coast apparently causing serious damage at Ptolmais.
+> 
+> 1546 AD Severe earthquake in Palestine; hundreds killed; flow of Jordan river stopped for two days by a landslide; tsunami on Mediterranean coast from Ptolmais south to Gaza. The Mediterranean receded “a long day's walk”; seiche in the Dead Sea.
+> 
+> 1759 AD Severe earthquake affecting most of Palestine and Syria; between 10,000 and 40,000 people killed; severe damage at Nazareth; walls of Tiberias collapsed; seiche on the Sea of Galilee; tsunami at Ptolmais flooding city streets to a depth of 2 meters and throwing ships onto the shore.
+> 
+> 1837 AD Severe earthquake with epicenter near Safed. Many thousands of deaths with entire towns destroyed. Rockfalls at Caesarea Philippi; 28% of the population of Tiberias killed — city walls destroyed; seiche swept shores of Sea of Galilee killing many people. Moderate damage at Nazareth, Bethlehem, Hebron and Jerusalem.
+> 
+> 1927 AD Destructive earthquake with 250-500 casualties; flow of Jordan river stopped for 21 1/2 hours by landslides; seiches in northern basin of Dead Sea.
+> 
+> 1943 AD Strong earthquake throughout Palestine — 1943 and 1927 earthquakes strongest in region during 20th century.
+
+## References
 
 
-Cualquier intento de interpretar o comprender las ruinas arqueológicas actuales en Israel en relación con la época de Jesús debe tener en cuenta no solo la destrucción causada por la guerra, sino también la resultante de la importante actividad sísmica en la región durante los siglos transcurridos.
-
-Al observar un mapa topográfico de Palestina, se aprecia una profunda falla que atraviesa la región desde el Mar Muerto, hacia el norte, pasando por el Valle del Jordán, el Mar de Galilea y más al norte. (Esta zona de rift en realidad comienza mucho más al sur, en el continente africano). Se trata de una zona de intensa actividad sísmica. A lo largo de esta zona se encuentran numerosos volcanes y manantiales termales. Las tensiones geológicas de la región se aprecian fácilmente en los estratos radicalmente plegados que quedan expuestos en las colinas que rodean Jericó. Grandes terremotos en la región han paralizado repetidamente la actividad en lo que habían sido prósperas ciudades económicas e industriales.
-
-Además, estos eventos sísmicos han alterado el curso de vías fluviales como el río Jordán, han desplazado manantiales y han provocado la reconstrucción de aldeas sobre escombros sísmicos o junto a ellos. Estos sucesos obligan a ser cautelosos al ubicar sitios hoy en día basándose en descripciones del siglo I sobre la ubicación de manantiales y ríos. Por ejemplo, la descripción del _Libro de Urantia_ sobre la ubicación del río Jordán con respecto a la ciudad de Pella es difícil de conciliar con la ubicación actual del río. Es posible que este río haya cambiado sustancialmente su curso durante los dos mil años transcurridos.
-
-Comprender la época en que ocurrieron estos eventos trascendentales puede ayudar a datar las estructuras encontradas en estos sitios. Resulta de particular interés la datación de la sinagoga de Cafarnaúm: ¿fue reconstruida tras el terremoto del 363 utilizando algunos de los mismos materiales que la sinagoga donde Jesús predicó? Este terremoto del 363 y el del 749 tuvieron un gran impacto en muchos de los lugares donde se desarrolló la vida de Jesús.
-
-Además de terremotos, se han producido tsunamis severos en la costa mediterránea y, en ocasiones, se han generado olas destructivas (seiches) en el Mar de Galilea y en el Mar Muerto. A continuación, se presenta una lista de los principales eventos que han alterado algunos de los sitios de interés para los lectores de _El Libro de Urantia_. Esta información proviene de un extenso catálogo publicado en el número de invierno de 1994 de la revista Israel Exploration Journal.
-
-> 64 a. C. Fuerte terremoto en Jerusalén; daños en el templo y las murallas de la ciudad.
-> 
-> En el año 31 a. C., un fuerte terremoto azotó Galilea y Judea. Josefo informó de la muerte de "30 000 personas y numerosos animales en Judea", con graves daños en Jericó, Qumrán y Masada.
-> 
-> 30 d. C., 33 d. C. Daños leves en Jerusalén
-> 
-> Año 115 d.C. Terremoto devastador en Siria; posibles daños por maremoto en Cesarea.
->
-> En el año 306 d.C., un terremoto devastador azotó Palestina; un tsunami asoló Cesarea y Jerusalén sufrió graves daños.
-> 
-> 363 d.C. Terremoto severo que afectó a la mayor parte de Palestina y Jordania; graves daños en Cesarea de Filipo, Cafarnaúm, Tiberíades, Gadara, Séforis, Escitópolis, Sebaste, Gofnia, Jerusalén, Cesarea, Ptolomeo y Petra de los nabateos.
-> 
-> En el año 419 d.C., se produjo un terremoto de intensidad moderada a grave en Palestina; muchas ciudades y pueblos quedaron destruidos; los antipatris fueron destruidos; Jerusalén sufrió graves daños.
-> 
-> En el año 447 d.C., los baños termales de Gadara fueron destruidos; muchas personas murieron.
-> 
-> Terremoto en Palestina en el año 631 o 632 d.C., con réplicas que se prolongaron durante 30 días; destrucción generalizada.
-> 
-> 749 d. C. Terremoto severo en Palestina; decenas de miles de muertos. Cafarnaúm destruida. Susita destruida. Gran destrucción en Tiberíades. Los baños termales de Gadara completamente destruidos. Graves daños en Pella, Escitópolis y Jerusalén. Muchos de los edificios más importantes de Jerash destruidos. Gran destrucción en Filadelfia. Tsunami en la costa mediterránea. Seiche en el Mar Muerto.
-> 
-> Año 1033 d. C. Enjambre de fuertes terremotos con epicentro en el valle del Jordán que se prolongó durante unos 40 días. Se sintieron desde Siria hasta Egipto y en el Néguev. Ptolomeo sufrió graves daños y perdió la vida; se informó que el puerto quedó seco durante una hora antes del inicio del devastador tsunami. Gran destrucción en Judea; daños en las murallas de Jerusalén; gran destrucción en Tiberíades. Jericó fue destruida. Hebrón sufrió graves daños.
-> 
-> Año 1182 d.C. Galilea y Judea; de moderada a grave.
-> 
-> En el año 1202 d. C., un fuerte terremoto se sintió desde Siria hasta Egipto. Graves daños en Cesarea de Filipo, Escitópolis y Jerusalén; Sechem quedó completamente destruida; un fuerte tsunami en la costa del Levante aparentemente causó graves daños en Ptolemaida.
-> 
-> 1546 d. C. Terremoto severo en Palestina; cientos de muertos; el río Jordán se detuvo durante dos días por un deslizamiento de tierra; tsunami en la costa mediterránea desde Ptolomeo hacia el sur hasta Gaza. El Mediterráneo retrocedió "una larga caminata"; se produjo una marea alta en el Mar Muerto.
-> 
-> En 1759 d.C., un fuerte terremoto afectó a la mayor parte de Palestina y Siria, causando entre 10.000 y 40.000 muertos; graves daños en Nazaret; derrumbe de las murallas de Tiberíades; se produjo una inundación en el mar de Galilea; un tsunami en Ptolemaida inundó las calles de la ciudad hasta una profundidad de 2 metros y arrojó barcos a la costa.
-> 
-> 1837 d. C. Terremoto severo con epicentro cerca de Safed. Miles de muertos y ciudades enteras destruidas. Desprendimientos de rocas en Cesarea de Filipo; el 28 % de la población de Tiberíades murió; las murallas de la ciudad quedaron destruidas; un seiche arrasó las costas del Mar de Galilea, causando numerosas muertes. Daños moderados en Nazaret, Belén, Hebrón y Jerusalén.
-> 
-> 1927 d.C. Terremoto devastador con entre 250 y 500 víctimas mortales; el caudal del río Jordán se detuvo durante 21 horas y media debido a deslizamientos de tierra; seiches en la cuenca norte del Mar Muerto.
-> 
-> 1943 d.C. Fuerte terremoto en toda Palestina: los terremotos de 1943 y 1927 fueron los más fuertes en la región durante el siglo XX.
-
-## Referencias
-
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/palestine-seismic-events.htm)
+- [Fellowship of The Urantia Book](https://archive.urantiabook.org/archive/graphics/palestine-seismic-events.htm)

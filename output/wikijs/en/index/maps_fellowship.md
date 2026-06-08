@@ -26,9 +26,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
   </table>
 </figure>
 
-## Introducción
+## Introduction
 
 - [Introduction to the Map series](/en/article/Palestine_Map_Introduction)
+
+## Maps
 
 <div class="layout row wrap">
   <div class="flex xs8 md6 lg4 xl4 d-flex">
@@ -174,16 +176,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
   </div>
 </div>
 
-## Otros artículos
+## Other articles
 
-- [Palestina del primer siglo: Índice de aldeas, pueblos y ciudades](/es/article/Index_of_Place_Locations)
-- [Mapas topográficos de Palestina](/es/article/Palestine_Topographical_Maps)
-- [El gobierno político romano y la vida de Jesús](/es/article/Roman_Political_Rule_and_the_Life_of_Jesus)
-- [Actividad sísmica en Israel desde los tiempos de Jesús](/es/article/Israel_Seismic_Activity_Times_Jesus)
+- [First Century Palestine: Index of Villages, Towns, and Cities](/en/article/Index_of_Place_Locations)
+- [Palestine Topographical Maps](/en/article/Palestine_Topographical_Maps)
+- [Roman Political Rule and the Life of Jesus](/en/article/Roman_Political_Rule_and_the_Life_of_Jesus)
+- [Israel Seismic Activity Since The Times Of Jesus](/en/article/Israel_Seismic_Activity_Times_Jesus)
 
-## Referencias
+## References
 
-- [«En sus pasos: Mapas de los viajes de Jesús», de la Fundación Urantia](https://www.urantia.org/en/en-sus-pasos)
+- [“Maps For A Study Of The Life Of Jesus”, from _The Urantia Book_ Fellowship](https://archive.urantiabook.org/index_maps.htm)
 
 <figure class="table chapter-navigator">
   <table>
@@ -193,7 +195,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
         </td>
         <td>
         <a href="/en/index/maps">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index of all map groups</span>
         </a>
         </td>
         <td>

@@ -1,6 +1,6 @@
 ---
-title: "La evangelización de Jesús: La gira de la Decápolis"
-description: "El Libro de Urantia, documento 159, del 18 de agosto al 16 de septiembre del año 29 d. C."
+title: "L'évangélisation de Jésus : Le voyage dans la Décapole"
+description: "Livre d'Urantia, Document 159, 18 août - 16 septembre 29 ap. J.-C."
 published: true
 date: 2026-06-06T14:02:03.086Z
 tags: Jesus, Jesus places, map
@@ -14,18 +14,18 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/map_04">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tercera gira de predicación de Jesús por las ciudades de Galilea</span>
+        <a href="/fr/map/Fellowship/map_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Troisième tournée de prédication de Jésus en Galilée</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/maps_fellowship">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
+        <a href="/fr/index/maps_fellowship">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span>
         </a>
         </td>
         <td>
-        <a href="/es/map/Fellowship/map_06">
-          <span class="pr-2">La evangelización de Jesús: Galilea, Judea, Samaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/fr/map/Fellowship/map_06">
+          <span class="pr-2">L'évangélisation de Jésus : Galilée, Judée, Samarie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -41,17 +41,17 @@ dateCreated: 2026-06-06T14:02:03.086Z
 
 <br style="clear:both;"/>
 
-## Secciones relevantes del Libro de Urantia
+## Extraits pertinents du Livre d'Urantia
 
-- [Documento 159: La gira de la Decápolis](/es/The_Urantia_Book/159)
-  - [LU 159:1 El sermón sobre el perdón](/es/The_Urantia_Book/159#p1_1)
-  - [LU 159:2 El extraño predicador](/es/The_Urantia_Book/159#p2)
-  - [LU 159:3 Instrucciones para maestros y creyentes](/es/The_Urantia_Book/159#p3)
-  - [LU 159:4 La conversación con Natanael](/es/The_Urantia_Book/159#p4)
-  - [LU 159:5 La naturaleza positiva de la religión de Jesús](/es/The_Urantia_Book/159#p5)
-  - [LU 159:6 El regreso de Magadán](/es/The_Urantia_Book/159#p6)
+- [Document 159 : Le circuit de la Décapole](/fr/The_Urantia_Book/159)
+  - [LU 159:1 Le sermon sur le pardon](/fr/The_Urantia_Book/159#p1_1)
+  - [LU 159:2 L'étrange prédicateur](/fr/The_Urantia_Book/159#p2)
+  - [LU 159:3 Instructions pour les enseignants et les croyants](/fr/The_Urantia_Book/159#p3)
+  - [LU 159:4 L'entretien avec Nathanaël](/fr/The_Urantia_Book/159#p4)
+  - [LU 159:5 La nature positive de la religion de Jésus](/fr/The_Urantia_Book/159#p5)
+  - [LU 159:6 Le retour à Magadan](/fr/The_Urantia_Book/159#p6)
 
 
-## Referencias
+## Références
 
-- [Sitio web de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/graphics/jesus-evangelism-decapolis-tour.htm)
+- [Site web de la Fellowship du Livre d'Urantia](https://archive.urantiabook.org/archive/graphics/jesus-evangelism-decapolis-tour.htm)

@@ -25,7 +25,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </td>
         <td>
         <a href="/en/map/Fellowship/map_02">
-          <span class="pr-2">Ciudades de la primera gira de predicación de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Cities of Jesus' First Preaching Tour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

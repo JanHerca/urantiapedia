@@ -14,7 +14,7 @@ dateCreated: 2026-06-06T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/map/Fellowship/maps_fellowship">
+        <a href="/es/map/Fellowship/map_07">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evangelización de Jesús: La misión pereana</span>
         </a>
         </td>
