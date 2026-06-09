@@ -109,7 +109,7 @@ We hope you find them useful!
 			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/map/Adam_Smith.jpg">
 			</div>
-			<div class="urantiapedia-card-title pt-4">«Atlas of the Historical Geography of the Holy Land», by George Adam Smith, 1915</div>
+			<div class="urantiapedia-card-title pt-4">“Atlas of the Historical Geography of the Holy Land”, by George Adam Smith, 1915</div>
 			<div class="urantiapedia-card-text">
 				<div>An atlas that was possibly used by the revelators of <em>The Urantia Book.</em></div>
 				<div><small>Originales: <a href="https://archive.org/details/AtlasOfTheHistoricalGeographyOfTheHolyLand">Internet Archive</a></small></div>
