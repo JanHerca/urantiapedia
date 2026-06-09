@@ -115,7 +115,7 @@ En esta sección de Urantiapedia vas a poder encontrar una recopilación de mapa
 				<div><small>Originales: <a href="https://archive.org/details/AtlasOfTheHistoricalGeographyOfTheHolyLand">Internet Archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/es/index/maps_adam_Smith" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/index/maps_adam_smith" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
 				</a>
 			</div>
