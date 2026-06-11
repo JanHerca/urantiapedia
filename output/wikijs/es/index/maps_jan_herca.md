@@ -67,7 +67,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -90,7 +90,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -113,7 +113,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -136,7 +136,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -159,7 +159,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -182,7 +182,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -205,7 +205,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -228,7 +228,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -251,7 +251,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -274,7 +274,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -297,7 +297,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -320,7 +320,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -343,7 +343,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -366,7 +366,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -389,7 +389,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -412,7 +412,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -435,7 +435,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -458,7 +458,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -481,7 +481,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -504,7 +504,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -527,7 +527,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -550,7 +550,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -573,7 +573,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -596,7 +596,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -619,7 +619,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -642,7 +642,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -665,7 +665,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -688,7 +688,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -711,7 +711,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -734,7 +734,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -757,7 +757,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -780,7 +780,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -803,7 +803,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -826,7 +826,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -849,7 +849,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -872,7 +872,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -895,7 +895,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -918,7 +918,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -941,7 +941,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -964,7 +964,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -987,7 +987,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -1010,7 +1010,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -1033,7 +1033,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -1056,7 +1056,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -1079,7 +1079,7 @@ Próximamente
       </div>
     </div>
   </div>
-<div class="layout row wrap">
+
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
@@ -1102,6 +1102,9 @@ Próximamente
       </div>
     </div>
   </div>
+
+</div>
+
 
 <figure class="table chapter-navigator">
   <table>
