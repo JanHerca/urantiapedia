@@ -1,5 +1,5 @@
 ---
-title: "Colección de mapas de Jan Herca"
+title: "Collection de cartes de Jan Herca"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -15,8 +15,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/es/index/maps">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+        <a href="/fr/index/maps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index de tous les groupes de cartes </span>
         </a>
         </td>
         <td>
@@ -26,33 +26,33 @@ dateCreated: 2023-12-12T14:02:03.086Z
   </table>
 </figure>
 
-## Parte 1. Geografía Celestial
+## Partie 1. Géographie Céleste
 
-Próximamente
+Bientôt
 
-## Parte 2. Geografía Paleológica de la Tierra
+## Partie 2. Géographie Paléoécologique de la Terre
 
-Próximamente
+Bientôt
 
-## Parte 3. Geografía Antropológica
+## Partie 3. Géographie Anthropologique
 
-Próximamente
+Bientôt
 
-## Parte 4. Geografía Religiosa
+## Partie 4. Géographie Religieuse
 
-Próximamente
+Bientôt
 
-## Parte 5. Geografía de la vida de Jesús de Nazaret
+## Partie 5. Géographie de la Vie de Jésus de Nazareth
 
 <div class="layout row wrap">
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">75. Las siete donaciones de Miguel</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">75. Les sept dons de Michel</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 119</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -72,10 +72,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">76. Occidente en el siglo I</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">76. L'Occident au Ier siècle</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 121</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -95,10 +95,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">77. Composición de los evangelios</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">77. Composition des Évangiles</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 121:8</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -118,10 +118,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">78. Nacimiento de Jesús</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">78. Naissance de Jésus</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 122</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -141,10 +141,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">79. Viajes de los sacerdotes de Ur</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">79. Voyages des prêtres d'Ur</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 122:8</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -164,10 +164,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">80. Huida a Egipto y regreso</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">80. Vol aller-retour pour l'Égypte</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 122:10, 123</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -187,10 +187,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">81. Los alrededores de Nazaret</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">81. Les environs de Nazareth</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 123</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -210,19 +210,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/82.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/82.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">82. El primer viaje a Jerusalén</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 4 al 23 de abril del año 7. LU 124:6, 125</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">82. Le premier voyage à Jérusalem</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 4 au 23 avril de l'an 7. LU 124:6, 125</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1lsDBp01k2lb3nA7XJ_Wq1QnnnkyIpHx2/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1sHdwsNXSo79afiZX-xWhcU5zQkhiTOig/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1zOh3TT_48eU4nDgF_p7D0fm-xKQrTdl4/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/14lqjhYuY6btFewbhT3NnZcbbzee8TW1K/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1PyAhS7YxA3CymSPsdR2OmZRxYl2PaE6X/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1z5IQ-XaDkgxbWGxqkEIVk2Ea6JG2C7zs/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -233,10 +233,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">83. Jerusalén en tiempos de Jesús</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">83. Jérusalem au temps de Jésus</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 125</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -256,10 +256,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">84. Otros viajes a Jerusalén</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">84. Autres voyages à Jérusalem</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 127, 128</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -279,10 +279,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">85. En Damasco y en Cesarea Marítima</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">85. À Damas et à Césarée Maritime</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 128:4</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -302,10 +302,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">86. Los alrededores del mar de Galilea</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">86. Les environs de la mer de Galilée</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 129</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -325,10 +325,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">87. El viaje a Roma y regreso</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">87. Le voyage aller-retour à Rome</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 129:2-3, 130, 131, 132, 133</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -348,10 +348,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">88. Alejandría en tiempos de Jesús</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">88. Alexandrie au temps de Jésus</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 130:3</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -371,10 +371,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">89. Roma en tiempos de Jesús</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">89. Rome au temps de Jésus</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 132</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -394,10 +394,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">90. Los viajes desde Roma</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">90. Voyage depuis Rome</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 132:7</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -417,10 +417,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">91. El viaje por Mesopotamia</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">91. Le voyage à travers la Mésopotamie</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 133:9, 134:1</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -440,10 +440,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">92. El viaje al mar Caspio</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">92. Le voyage vers la mer Caspienne</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 134</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -463,10 +463,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">93. El viaje a Siria</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">93. Le voyage en Syrie</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 134:7</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -486,10 +486,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">94. El viaje por Palestina</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">94. Le voyage à travers la Palestine</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 134:7</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -509,19 +509,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/95.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/95.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">95. El ascenso al monte Hermón</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Mediados de agosto a finales de septiembre de 25. LU 134:8</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">95. L'ascension du mont Hermon</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">De mi-août à fin septembre 25. LU 134:8</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1iTxzjQdQ9ELxIsFwpLFidn8X-jd0PG2K/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1_P1cD6SLl_RNx3-OPfnRxkFhqJgDjymY/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1G8DUpw-vZ15UqFCabbn3tsWXdNMZAN3x/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1rrM_McbPJ7BrNaH8k26q8m2PBk_LDUnK/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1CvN2t2cVwID0mJBK6XO-NWmvz6itC72t/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1YkiZW90pYKLIlaI3YIdkHPkVFTxoHR7o/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -532,19 +532,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/96.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/96.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">96. Regreso a Cafarnaúm y visita a Jerusalén</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Finales de septiembre a finales de octubre de 25. LU 134:9.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">96. Retour à Capharnaüm et visite de Jérusalem</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Fin septembre à fin octobre 25. LU 134:9.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1ymRYvC44OgajBnjjE15gveMV2z4_LkEt/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1cIDIKo2W_BOyYAewUXVA_DqqCLx15SKP/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1vUc1s8-b3eXFBH_290EB-4AFkKnpT69z/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/10PLC6RTvQExO5r2juocDjwl2CgaPeq3q/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1WM3aK99xHBSWVLvOxb6PDFqFLm_ePq1e/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1-Xq5WAYWJXcc_1D3PYk1ZDJ2CPaCurtp/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -555,19 +555,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/97.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/97.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">97. El bautismo en Pella y el retiro en las colinas</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 13 de enero al 23 de febrero de 25. LU 136:2+.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">97. Le baptême à Pella et la retraite dans les collines</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 13 janvier au 23 février 25. LU 136:2+.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1pHp4V34qUDtBI7Omcc0BPqzOuczAREIa/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1QitEST7umcuxViiZ-t7fxOfnW6x4xoSe/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1ttjJ4IUhkRDM4h42J3w5Ve9ai7rPY3Qh/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1MrRbKsPfgnCih9YS_76NRMKCnrDkgPTU/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/10ojDzDWvrP44KdDUAdNjKWwkN_XyswSm/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/13Y1X7YZpDh619JNRFAxJ6KXXTpDN963L/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -578,19 +578,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/98.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/98.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">98. La vida de Juan Bautista</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Nace el 25 de marzo de 7 a.C. y fallece el 10 de enero de 28. LU 135; 144:9.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">98. La vie de Jean-Baptiste</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Né le 25 mars 7 av. J.-C. et mort le 10 janvier 28 apr. J.-C. LU 135; 144:9.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1amDEgfO5vQD_-2N68xYvnWpoz6f6J4H_/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1T5G4fq9QjV3tZq8u8FWZ1P1B1BIU4Spz/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1fxZ_EX5vyasCkqUSzrcpzUl1ds8YLi7u/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1kZmb1HU-HExbv6J-YYob1t-46N5NCS9J/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1ilFFMBFfsS2yzzJ-go43bQMnK6ZObVOH/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1sjGAENi4rYq94tWUsQy6JwugzzBbMhOQ/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -601,19 +601,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/99.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/99.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">99. La boda en Caná</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 26 al 28 de febrero de 26. LU 137:1-5.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">99. Les noces de Cana</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 26 au 28 février, 26. LU 137:1-5.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1ECOGE0SBx7djnnKcdTGG1O0BX8cTlBz-/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1sQjS0jwQqxFkMRT9dPJM5Dw7wwvLtl6F/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/110jJRP-6krmzWnpkW_WgDf2-pGhbdRoF/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1WKzfjS0Chw44MrTQIGhLZ26I6kZGpcZi/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/14CWVQLFrnOeK0iOvlsIJNllggejku9f8/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1ptOUR4xH7CwkExhniTvzUbyWFjwvQHwn/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -624,19 +624,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/100.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/100.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">100. Primera predicación personal</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 23 de junio al 5 de julio de 26. LU 138:1-2.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">100. Premier prédication personnel</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 23 juin au 5 juillet 26. LU 138:1-2.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/19QmkaSDGeCv4komvedRoa7dA-0nZ0TWX/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1NTTHD9R3yRvk_zl3-km63c76maU_EHBb/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1-utatXfOK8iitt8J_Slzw4Ty_dnreEzO/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/17ULZTYt30tIn8xuSGYgqx1y14uzD1llN/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1n20TJG8jzKcps2wn6DwRWb8YSom9-TWa/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1PFeuWJLwWjBNEQd6kqBm-ffTDg3OSWtF/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -647,19 +647,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/101.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/101.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">101. Primera predicación de los doce</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Mediados de agosto de 26 al 12 de enero de 27. LU 138:8.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">101. Premier prédication des douze</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 26 août au 12 janvier, 27. LU 138:8.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1WcqhLE2uRtGMTSoYMcCsC3omkD8roi6z/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1MGp3iDEgMtYOwwPO5IO0HscSgF6FCmpd/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1kL_xfgTrQkFR8R51QuRRaqxYw1CrbL_x/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1eV79tv06VmiVZ-7dNMoYuHf2IjOLeBnm/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1Tw3I_izmdCXIgX86q1DJ0gVbMuHRDfOG/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1ks1t6h0CLeFHpK0f5XQ2Ms3AMvWEtuF3/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -670,19 +670,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/102.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/102.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">102. Primer gran periplo de Jesús con los apóstoles</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 19 de enero de 27 al 13 de enero de 28. LU 141.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">102. Le premier grand voyage de Jésus avec les apôtres</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 19 janvier 2027 au 13 janvier 28. LU 141.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/18GdhCNuT7fSiFMo0yg_9S-SKzqYGJNIu/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/14vsgW6n4tGdOIJJafv7Hahw0wqW-oEcC/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1NdaxhYXr25RZg0CWPXyxXxkI3qbQTa0D/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1fK7QnauVvDX_4nCanwn4LJDI7N1e_tCI/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1KwU9ITyWOPN6KNSKZ2XBscry9Dvu_g9B/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1QP62dSmt2kGVSYuuCD2B17ybbp1FsPeH/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -693,19 +693,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/103.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/103.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">103. Primera gira de predicación pública por Galilea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 18 de enero de 28 a 17 de marzo de 28. LU 145, 146.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">103. Première tournée de prédication publique en Galilée</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 18 janvier 2028 au 17 mars 28. LU 145, 146.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/18m3fVxiKigfCe8fSA0sWyf7GgQW4uwG0/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1i6znSSsb9sQXQxyOcg_as5LScHM91PGM/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1bqyZ8EzXer0d20UtQce6RLeNzGnofVFA/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1-PhpOgp_efthyc2Ey-qU8IS3x56UASFO/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1mhEpvr8sBRQzLauoYnLIFYOmHe_eZ9k5/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/12hOO2JWJ70oMF2Ch9dNbV_xyql2pB2uZ/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -716,19 +716,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/104.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/104.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">104. Segunda visita a Jerusalén con los doce</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 30 de marzo al 3 de mayo de 28. LU 147.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">104. Deuxième visite à Jérusalem avec les douze</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 30 mars au 3 mai 28. LU 147.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1jcSTa6B1vgVLSVydDmjd8EuEGuQWDRrH/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1SahFOv5nojVF8sKt3ypUedoh4nUu6wri/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1N5o07J9rstaOtw5eWvWItmlQ-Kzz5R5a/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1O8HamS8k3mMirbSQr9K4boBYSFGsoHgS/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/14QDYfm0p6cz5kFb4N6nAGOi-izRLjgWe/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1W4rdc1BVqY0QdZActOikqr1llViDLnPa/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -739,19 +739,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/105.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/105.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">105. Segunda gira de predicación pública por Galilea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 de octubre al 30 de diciembre de 28. LU 149.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">105. Deuxième tournée de prédication publique en Galilée</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 3 octobre au 30 décembre 28. LU 149.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/10luqvcdIivpYakJaAy2rnX277oxVkz4M/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1LQs0MTz3043UlCdWMx7rTFiTMOJX7bRd/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1iSNHnINhOqZV_H5iaU_C37LIfH4NW4hc/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1vNvtk72SffKNY1z65GVpS4jG1_X7pg_M/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1Sb48y9DS778rtxqP4y6Mz1UQvbTs-rQ3/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/10uOdczfcPrt4DYAcfTXHAqyeJEYMuL0z/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -762,19 +762,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/106.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/106.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">106. Tercera gira de predicación pública por Galilea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 18 de enero al 10 de marzo de 29. LU 150.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">106. Troisième tournée de prédication publique en Galilée</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 18 janvier au 10 mars 29. LU 150.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1Aq5a9XUYnukQg1oGHTTacCaXkJR2oijl/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1bpYmGgNxNHRsEGWSDFRhvqaws4pBUnxb/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1o7iyKdg2EE-_CDYUITSCZ7Q9k-2MCRUA/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1zBG-w5vki9dJPt1mAfdB1qgr5hXTywwo/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1z-F54ZFI5mWiQykVgU25-ZSDVXOh6j8e/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1DIF4VyNmicM4MIqY3cn-tzAVZS2bmMHO/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -785,19 +785,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/107.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/107.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">107. Escapadas por el mar de Galilea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 20 al 30 de marzo de 29. LU 151, 152.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">107. Escapades sur la mer de Galilée</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 20 au 30 mars, 29. LU 151, 152.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1GM1BTopJGqpCa5G1eO93LWvfxzpfXhAZ/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1ywXN67mwubo5biTkXs3_ecptYLdacLct/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1VSUSN8LUq1DtYmNGyjqPPElJwN9yX6Xw/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/14RIoadTKud3OU0Z4UcZ90qXHhili032f/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1d0gXEujr9ocwEsKjwCMprSauJWT6SIuI/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1o4hWoTuE_QXiO6RCDhjd2BOxf2FL88dE/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -808,19 +808,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/108.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/108.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">108. Tercera visita a Jerusalén con los doce</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 al 29 de abril de 29. LU 152.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">108. Troisième visite à Jérusalem avec les douze</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 3 au 29 avril 29. LU 152.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1JRAgwH9WDHaiiqfiN8N3BJOj_qGlYH9m/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/19FYDA49RjFtEn0HZZHXsSxpkoGf37Tbc/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1TY33ynfp7xJkFh7pAAW0HB-BUBxu3ULG/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1Bk91Y5hv4M4ttzCSbPufnfgD4Q14L2aW/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1ryD_APUudq2ddaT5UwOAxlyxW2RD1whS/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1rVJdvlCaE16EuxWYrnvC8pnebEFR0W5g/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -831,19 +831,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/109.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/109.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">109. La huida a Fenicia</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 22 de mayo al 1 de agosto de 29. LU 153-156.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">109. Le vol vers la Phénicie</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 22 mai au 1er août 29. LU 153-156.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1QIClOxXbJEcd4FHQigRqtZUuTCswt3U1/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1z7mjzjtwMi4jyzVkzkrru7_5kc9QXsx7/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1RSpTh9iStTtpEcGXGmi2pVbG8bf3_Uk0/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1nJpggqulc4pNypYlPNHRMxAkuQUEVEj5/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1pKEND6dDv4isMpO41LXuuN9MYTc3l3cl/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1hfTKuzZsM9MVmFw98dWI5zdVWYShgmYu/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -854,19 +854,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/110.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/110.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">110. Una nueva visita a Cesarea de Filipo y una segunda ascensión al Hermón</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 9 al 17 de agosto de 29. LU 157-158.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">110. Une nouvelle visite à Césarée de Philippe et une seconde ascension de l'Hermon</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 9 au 17 août, 29. LU 157-158.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1W29EAh_7_TMETwikRYBnP9T-aryPM8wn/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1aZEE28nTH-d3CzaxIl5TLoKL05o3WSr3/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/13eiQbCwkI514QYO4L4Pvv76UFvS6gM_C/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1wSRwAzbrAM17xRkWzhJS7unxwwX7xUlc/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1LtM4EfBqLj576B05QdkE6kWQ0mdzgBjE/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1-usNbQ_hXvQ5k7a9IZDw7lBmL1D6Ftir/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -877,19 +877,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/111.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/111.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">111. La gira por la Decápolis</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 18 de agosto de 29 al 16 de septiembre de 29. LU 159.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">111. La visite de la Décapole</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 18 août 2029 au 16 septembre 29. LU 159.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1F9rxYT1RpDkmYf9dYfddRG3hsgkvqJa9/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1fR_DqGAmIBp0E7Iew-RKC1rge_Qv0qXF/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1GUKUT4UQw5uT5AB3Bk4QOZDoHN7qTHtr/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1e5hrkwFhvhFV70sxZuHnYP3vLzxFBH6j/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1LgjiFprBM2woX_SAyPlCO4eAIFvB_UJF/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1biLK-uZFMC5NLywKxc292DQksEp31x_l/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -900,19 +900,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/112.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/112.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">112. Cuarta visita a Jerusalén con los doce</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 25 de septiembre al 2 de noviembre de 29. LU 161-162.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">112. Quatrième visite à Jérusalem avec les douze</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 25 septembre au 2 novembre 29. LU 161-162.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1ORPd_rxmHqyZOJ4Mdfu8TiGlUWSGlTN1/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1CZFatxe38z9ARQKOgAoo-75zMBTmjPN3/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1H91WLoASkHBVjO85lvRVfGlxHNiKnN0D/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/12aZ5lzJxCKNuFhaENIHgrFPI3W-yPo1_/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1AqrOPdfYEy0TqhMu17NDDXABqsRRHTAY/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1R4ckVxtcb7t-zC04gjjO561mMCAOPKum/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -923,19 +923,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/113.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/113.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">113. La primera gira de los setenta, por Galilea, Samaria y Judea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 20 de noviembre al 30 de diciembre de 29. LU 163.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">113. Le premier voyage des soixante-dix, à travers la Galilée, la Samarie et la Judée</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 20 novembre au 30 décembre 29. LU 163.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1APUk-PBD4iNgkqf6rEkWudyhYl7Gkt-q/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1bNIaY0uZHUxF9IqTD9lZ10919-V9EOaL/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1fqFKuw6Qq6yt5YIHjoOaqzOiylRDqu4r/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1frM2RV3GNn9dKisPuoSYU7cLj-0uXBjt/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1XRJGPkOMpz66-mHwi2CXUWsErZLObIRF/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1ivXEQu9-m6JM8VyaNeu3CT66FZjaF2Yx/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -946,19 +946,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/114.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/114.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">114. Quinta visita a Jerusalén, con Natanael y Tomás</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Diciembre de 29. LU 164.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">114. Cinquième visite à Jérusalem, avec Nathanaël et Thomas</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Décembre, 29. LU 164.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1pQULfJ08ad6rCI0KQCGZ5V2BCsQU4n5-/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1RkiKIBwrsFYniepDUNb4Aqlz8W0Xohj2/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1yYk9v_4VCREjTD4OfKmz1VrJO2Wmwkq_/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1Ga8zELacoW-TCxGq37hjs3OXnOVyYGq-/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1_-XL0dn0Xct-C-7pA7oEBoQenveygoU7/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1aA0mBse2pvU514TyF-_qEUtJKe995w8O/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -969,19 +969,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/115.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/115.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">115. La segunda gira de los setenta, por Perea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 de enero al 11 de marzo del 30. LU 165-168.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">115. La deuxième tournée des soixante-dix, par Perea</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 3 janvier au 11 mars 30. LU 165-168.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/1vTVyTNm80MrRzrmGRLk7SFUYvk_ehAWE/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1Kx3igQWFUTZ7NxSJYYKqW2P9a1ze3ZwS/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1ONNAg2eADMQsmuZbN3cA-b3M98ffnUgx/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1ad6MzOI5TW6cHvsdlhSzpidVzSZoiMim/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1b15fLm7GH_ls1dfM-3Bsro5eHTClDnba/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1p1-qs5bCuiQ5SiDXHh8OzQfbwC2CL0Ce/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -992,19 +992,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/116.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/116.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">116. La última visita a Jerusalén</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 12 de marzo al 7 de abril del 30. LU 171-172.</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">116. La dernière visite à Jérusalem</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Du 12 mars au 7 avril 30. LU 171-172.</div>
       <div class="urantiapedia-card-actions">
-        <a href="https://drive.google.com/file/d/15PGTyuqtNd5JCEghRWkh5xBSGaKxZEk5/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/12cBBlKa_ZmeZ0eP9GdV2AaqajbkR4AQn/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1OILSBFWN-oS9JdkscgMR-sMX1FqRfQLO/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1sDKmyJmOkZufyFZ6XiRJ3NfgEZ6GJhvH/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="https://drive.google.com/file/d/1ZUTxufCjdyrVjAtvME9i1rDCK4zE1Y3R/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1Vs84dyYjRENrMHZIQHTxblIcT3CVhLRP/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -1015,10 +1015,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">117. Las últimas horas de Jesús</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">117. Les dernières heures de Jésus</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 181-187</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -1038,10 +1038,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">118. Las apariciones de Jesús</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">118. Les apparitions de Jésus</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 188-193</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -1061,10 +1061,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">119. La misión de los apóstoles</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">119. La mission des apôtres</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 193:6, 194</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -1084,10 +1084,10 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/fr/Placeholder.jpg">
         </div>
       </div>
-      <div class="urantiapedia-card-title urantiapedia-map pt-4">120. Expansión del cristianismo</div>
+      <div class="urantiapedia-card-title urantiapedia-map pt-4">120. Expansion du christianisme</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 195</div>
       <div class="urantiapedia-card-actions">
         <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -1113,8 +1113,8 @@ Próximamente
         <td>
         </td>
         <td>
-        <a href="/es/index/maps">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+        <a href="/fr/index/maps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index de tous les groupes de cartes</span>
         </a>
         </td>
         <td>
