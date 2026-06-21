@@ -118,19 +118,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/78.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">78. Nacimiento de Jesús</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 122</div>
       <div class="urantiapedia-card-actions">
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1KMZYp1HxC5SFujBCwjtxIoV56KRkC2PE/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1OjCX85xFrJZo6QZv5UYYfnoPYQG-Ayw7/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1ckdood01WYyM6IgFXB0bDWsM13nlt9xd/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -256,19 +256,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/84.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">84. Otros viajes a Jerusalén</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 127, 128</div>
       <div class="urantiapedia-card-actions">
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1QR3zjTkOblD-lVs-lTYT687Y3duP909d/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/12OUxWc5xP8pT8nxzobnwPJHaL8OMonKF/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1wiyqm7u4Wg-AXBbaW3LUY8I1G3TNaXe-/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -279,19 +279,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/85.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">85. En Damasco y en Cesarea Marítima</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 128:4</div>
       <div class="urantiapedia-card-actions">
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1G1wTwxGvWTF-SSHoRFXMJ0tN0v5mFfQB/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1qvwZ4N2E1L1Gp1kGdnL0VVHg5jIgZc3X/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/12CAM5m_4ONb8la3R_O5IfyCwWbjqB-9o/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -486,19 +486,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/94.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">94. El viaje por Palestina</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 134:7</div>
       <div class="urantiapedia-card-actions">
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1Q_chNdoZY2JnzjmPEkwhoWegiPMLFtsX/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1k49F_poT8-Of6H4W_lU2oNHjKO89eRFz/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1GU9nV1coffNmly0zXxkqhJNVBLLlBSMm/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
@@ -1038,19 +1038,19 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/118.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">118. Las apariciones de Jesús</div>
       <div class="urantiapedia-card-subtitle urantiapedia-map">LU 188-193</div>
       <div class="urantiapedia-card-actions">
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1XK0CtrV96gflaL39pyBQaueM0x35NxOz/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PDF</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1G_oOlBqL6kouO-oxsN389TNNLG9xER26/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>SVG</strong></div></span>
         </a>
-        <a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+        <a href="https://drive.google.com/file/d/1heGFoyciNbMYczfcPl8WJ1Md4-4v7jh0/view?usp=sharing" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
           <span class="v-btn__content"><div class="caption"><strong>PNG</strong></div></span>
         </a>
       </div>
