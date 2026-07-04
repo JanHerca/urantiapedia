@@ -10,7 +10,7 @@ dateCreated: 2022-09-27T13:55:38.362Z
 
 ## :earth_americas: ¡Bienvenido a la Cartoteca de _El Libro de Urantia_!
 
-En esta sección de Urantiapedia vas a poder encontrar una recopilación de mapas relativos a El Libro de Urantia organizados por publicadores. Estos mapas pueden ser estáticos, que han de descargarse antes de su uso, o bien dinámicos e interactivos, que pueden disfrutarse directamente desde el sitio web. En el caso de los mapas estáticos, ten en cuenta que algunos son de cierto tamaño por lo que puede requerir cierta velocidad de conexión para acceder a ellos.
+En esta sección de Urantiapedia vas a poder encontrar una recopilación de mapas relativos a _El Libro de Urantia_ organizados por publicadores. Estos mapas pueden ser estáticos, que han de descargarse antes de su uso, o bien dinámicos e interactivos, que pueden disfrutarse directamente desde el sitio web. En el caso de los mapas estáticos, ten en cuenta que algunos son de cierto tamaño por lo que puede requerir cierta velocidad de conexión para acceder a ellos.
 
 ¡Esperamos que sean de tu utilidad!
 
