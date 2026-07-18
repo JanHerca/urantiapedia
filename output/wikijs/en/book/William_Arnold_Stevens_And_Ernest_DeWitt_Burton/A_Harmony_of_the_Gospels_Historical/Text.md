@@ -1187,1963 +1187,325 @@ Matt. 22 : 15-40. | Mark 12:13-34. | Luke 20 : 20-40.
 
 ### § 126. CHRIST'S UNANSWERABLE QUESTION.
 
-Matt. 22:41-46. 41 
-
-Now while the Pharisees were gathered together, Jesus asked them a question, 42 saying. What think ye of the Christ? whose son is he? They say unto him. The son of David. 43 He saith unto them, How then doth David in the Spirit call him Lord, saying,
-
-44 The Lord said unto my
-
-Lord, Sit thou on my right hand, Till I put thine enemies
-
-underneath thy feet?
-
-45 If David then calleth him Lord, how is he his .son? 46 And no one was alile to answer him a word, neither durst any man from that day forth ask him any more questions.
-
-Mabk 12:35-37. 35 And Jesus answered and said, as he taught in the temple. How say the scribes that the Christ is the son of David? 36 David himself said in the Holy Spirit,
-
-The Lord said unto my
-
-Lord,
-
-Sit thou on my right hand,
-
-Till I make thine enemies
-
-2 the footstool of thy feet.
-
-37 David himself calleth him
-
-Lord ; and whence is ho his
-
-son? And ^the common
-
-people heard him gladly.
-
-[Of. T«. 3*, § 125.1
-
-Luke 2C. 41-44.
-
-41 And he said unto them, How say they that the Christ is David's son? 42 For David himself saith in the book of Psalms,
-
-The Lord said unto my
-
-Lord, Sit thou on my right hand,
-
-43 Till I make thine enemies
-
-the footstool of thy feet.
-
-44 David therefore calleth him Lord, and how is he his son?
-
-[Ct. vs. 40, p. ISO.
-
-KKV. lilt;. ; i itr, 'J'raeher •' .Soiiio iinuieiil uiitlioriliis roil iintlrrneutii tltujeet. '■> *<r, t lie gritlt mittltl tide ARV. txt. : > tlie uliole law li.insclh 2 Tiuclicr
-
-• Matt. 7: 12. For this is the law aud tho prophets. (.§49)
-
-181
-
-§127
-
-THE PASSION WEEK —TUESDAY
-
-8 127. WOES AGAINST THE SCRIBES AND PHARISEES.
-
-Matt., cil,\p. 23. 1 Then spake Jesus to the multitudes and to his disciples, 2 saying, The scribes and the Pharisees sit on Moses' seat: 3 all things therefore whatsoever they bid you, these do and observe : but do not ye after their works ; for they say, and do not. 4 “Yea, they bind heavy burdens ^and grievous to be borne, and lay them on men's shoulders ; but they themselves will not move them with their finger. 5 But all their works they do for^ to be seen of men : for they makebroad their phylacteries, and enlarge the borders of their garments, 6 ''and love the chief place at feasts, and the chief seats in the synagogues, 7 and the salutations in the marketplaces, and to be called of men, Rabbi. 8 But be not ye called Rabbi : for one is your teacher, and all ye are brethren. 9 And call no man your father on the earth : for one is your Father, 2 which' is in heaven. 10 Neither be ye called masters : for one is your master, even the Christ. 11 ”But he that is 3 greatest among you shall
-
-Mark 12:38-40. 38 And in his teaching he said. Beware of the scribes, which* desire to walk in long robes, and to have ''salutations in the marketplaces, 39 and chief seats in the synagogues, and chief places at feasts : 40 they which* devour widows' houses, *and for a pretence make long prayers: these shall receive greater condemnation.
-
-Luke 20:45-47.
-
-45 And in the hearing of all the people he said unto his disciples, 46 Beware of the scribes, which* desire to walk in long robes, and ''love salutations in the marketplaces, and chief seats in the synagogues, and chief places at feasts; 47 which* devour widows' houses, and for a pretence make long prayers: these shall receive greater condemnation.
-
-ERV. mg. : i Many ancient authoiitici omit and (/rieuoHS to be borne. ^Gr. the heavenly. 'Gr. greater. * Or, even while fo pretence they make
-
-ARV. tjt. : 1 Omit for ' even he who 3 that
-
-a Luke 11 : 46. For ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers. (§ 94)
-
-b Luke 11 : 43. For ye love the chief seats in the synagogues, and the salutations in the marketplaces. (gti4)
-
-c Matt. 20 : 26, 27. But whosoever would become great among you shall be your minister ; 27 and whosoever would be first among you shall be your servant. (§ 114)
-
-cMark 9:35. If any man would bo first, he shall be last of all, and minister of all. (§81)
-
-cMark 10: 43, 44. But whosoever would become great among you, shall bo your minister: 44 and whosoever would be first among you, shall be servant of all. (§ 114)
-
-cLuke9:48. For he that is least among you all, the same is great. (§81)
-
-cLuke 22: 26. But he that is the greater among you, let him become as the younger; and he that is chief, as he that doth serve. (§ 133) ,
+Matt. 22:41-46. | Mark 12:35-37. | Luke 20. 41-44.
+--- | --- | ---
+41 Now while the Pharisees were gathered together, Jesus asked them a question, 42 saying. What think ye of the Christ? whose son is he? They say unto him. _The son_ of David. 43 He saith unto them, How then doth David in the Spirit call him Lord, saying,<br>44 The Lord said unto my Lord, Sit thou on my right hand, Till I put thine enemies underneath thy feet? 45 If David then calleth him Lord, how is he his .son? 46 And no one was alile to answer him a word, neither durst any man from that day forth ask him any more questions. | 35 And Jesus answered and said, as he taught in the temple. How say the scribes that the Christ is the son of David? 36 David himself said in the Holy Spirit, <br>The Lord said unto my Lord, Sit thou on my right hand, Till I make thine enemies <sup>2</sup> the footstool of thy feet. 37 David himself calleth him Lord ; and whence is ho his son? And <sup>3</sup>the common people heard him gladly. [Cf. vs. 34, § 125.] | 41 And he said unto them, How say they that the Christ is David's son? 42 For David himself saith in the book of Psalms,<br> The Lord said unto my Lord, Sit thou on my right hand, 43 Till I make thine enemies the footstool of thy feet. 44 David therefore calleth him Lord, and how is he his son? [Cf. vs. 40, p. 150.]
 
 <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
-Matt. 23. be your 'servant. 12 ''And whosoever shall exalt himself shall be humbled ; and whosoever shall humble himself shall be exalted.
+### § 127. WOES AGAINST THE SCRIBES AND PHARISEES.
 
-1.3 *> But woe unto you, scribes and Pharisees, hypocrites ! because ye shut the kingdom of heaven ^ against men: for ye enter not in yourselves, neither suffer ye them that are entering in to ^enter.
+Matt., chap, 23. | Mark 12:38-40. | Luke 20:45-47.
+--- | --- | ---
+1 Then spake Jesus to the multitudes and to his disciples, 2 saying, The scribes and the Pharisees sit on Moses' seat: 3 all things therefore whatsoever they bid you, these do and observe : but do not ye after their works ; for they say, and do not. 4 <sup>a</sup>Yea, they bind heavy burdens <sup>1</sup>and grievous to be borne, and lay them on men's shoulders ; but they themselves will not move them with their finger. 5 But all their works they do for<sup>1</sup> to be seen of men : for they makebroad their phylacteries, and enlarge the borders of their garments, 6 <sup>b</sup>and love the chief place at feasts, and the chief seats in the synagogues, 7 and the salutations in the marketplaces, and to be called of men, Rabbi. 8 But be not ye called Rabbi : for one is your teacher, and all ye are brethren. 9 And call no man your father on the earth : for one is your Father, <sup>2</sup> which<sup>3</sup> is in heaven. 10 Neither be ye called masters : for one is your master, _even_ the Christ. 11 <sup>e</sup>But he that is 3 greatest among you shall. . . | 38 And in his teaching he said. Beware of the scribes, which<sup>4</sup> desire to walk in long robes, and _to have_ <sup>b</sup>salutations in the marketplaces, 39 and chief seats in the synagogues, and chief places at feasts : 40 they which<sup>3</sup> devour widows' houses, <sup>4</sup>and for a pretence make long prayers: these shall receive greater condemnation. | 45 And in the hearing of all the people he said unto his disciples, 46 Beware of the scribes, which<sup>1</sup> desire to walk in long robes, and <sup>b</sup>love salutations in the marketplaces, and chief seats in the synagogues, and chief places at feasts; 47 which<sup>1</sup> devour widows' houses, and for a pretence make long prayers: these shall receive greater condemnation.
 
-16 Woe unto you, scribes and Pharisees, hypocrites ! for ye compass sea and land to make one proselyte ; and when he is become so, ye make him twofold more a son of * hell than yourselves.
 
-16 Woe unto you, ye blind guides, which > say, Whosoever shall swear by the Hemple, it is nothing; but whosoever shall swear by the gold of the Hemple, he is « a debtor. 17 Ye fools and blind: for whether^ is greater, the gold, or the Hemple that hath sanctified the gold? 18 And, Whosoever shall swear by the altar, it is nothing ; but whosoever shall swear by the gift that is upon it, he is ^a debtor. 19 Ye blind : for whether 2 is greater, the gift, or the altar that sanctifieth the gift? 20 He therefore that sweareth by the altar, sweareth by it, and by all things thereon. 21 And he that sweareth by the Hemple, sweareth by it, and by him that dwelleth therein. 22 And he that sweareth by the heaven, sweareth by the throne of God, and by him that sitteth thereon.
 
-23 =Woe unto you, scribes and Pharisees, hypocrites! for ye tithe mint and ^ anise and cummin, and have left undone the weightier matters of the law, judgement', and mercy, and faith : but these ye ought to have done, and not to have left the other undone. 24 Ye blind guides, w^hich' strain out the gnat, and swallow the camel.
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
-26 <»Woe unto you, scribes and Pharisees, hypocrites! for ye cleanse the outside of the cup and of the platter, but within they are full from extortion and excess. 2t> Thou blind Pharisee, cleanse first the inside of the cup and of the platter, that the outside thereof may become clean also.
+Matt. 23. 
 
-27 'Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which outwardly appear beautiful, but inwardly are full of dead men's bones, and of all uncleanncss. 28 Even so ye also outwardly appear righteous unto men, but inwardly ye are full of hypocrisy and iniquity.
+be your <sup>1</sup>servant. 12 <sup>a</sup>And whosoever shall exalt himself shall be humbled ; and whosoever shall humble himself shall be exalted.
 
-20 'Woe unto yuu, scribes and Pharisees, hypocrites ! for ye build the sepulchres of the prophets, and garnish the tombs of the righteous, 30 and say, If we had been in the days cf our fathers, we shf)uld not have been partakers with them in the blood of the prophets.
+13 <sup>b</sup> But woe unto you, scribes and Pharisees, hypocrites ! because ye shut the kingdom of heaven <sup>2</sup> against men: for ye enter not in yourselves, neither suffer ye them that are entering in to <sup>3</sup>enter.
 
-ERV. iiig. : I Or, miniatrr ' (ir. br/ore ^ Some authontics insert Iioic [after vt r. 13], or after ver. 12, ver. U Woe unto von, scribes and Pharisees, hypocritex! for ye devour iridown' hnttse/i, even rrliilr for n pretence ye moke long prayers: therefore ye shall receive greater condemnation. Sec Mark xii. 40; Luke tx. 47. *Gt. Gehenna. '■Or, sanctuary : as in vcr. ::u. • Or, ftoHiirt by liU onth 'Or, dill
+16 Woe unto you, scribes and Pharisees, hypocrites ! for ye compass sea and land to make one proselyte ; and when he is become so, ye make him twofold more a son of <sup>4</sup> hell than yourselves.
 
-ARV. txt. : » tliat 'nhiih 3 justice
+16 Woe unto you, ye blind guides, which > say, Whosoever shall swear by the <sup>5</sup>temple, it is nothing; but whosoever shall swear by the gold of the <sup>5</sup>temple, he is <sup>6</sup> a debtor. 17 Ye fools and blind: for whether<sup>2</sup> is greater, the gold, or the Hemple that hath sanctified the gold? 18 And, Whosoever shall swear by the altar, it is nothing ; but whosoever shall swear by the gift that is upon it, he is <sup>6</sup>a debtor. 19 Ye blind : for whether <sup>2</sup> is greater, the gift, or the altar that sanctifieth the gift? 20 He therefore that sweareth by the altar, sweareth by it, and by all things thereon. 21 And he that sweareth by the Hemple, sweareth by it, and by him that dwelleth therein. 22 And he that sweareth by the heaven, sweareth by the throne of God, and by him that sitteth thereon.
 
-"Luke 14: 11. For everyone that cxalteth himself shall be humbled; and he that humbleth himself shall be exalted. (§100)
+23 <sup>c</sup>Woe unto you, scribes and Pharisees, hypocrites! for ye tithe mint and <sup>7</sup> anise and cummin, and have left undone the weightier matters of the law, judgement<sup>3</sup>, and mercy, and faith : but these ye ought to have done, and not to have left the other undone. 24 Ye blind guides, which<sup>1</sup> strain out the gnat, and swallow the camel.
 
-»Lukel8:14. For every one that exalteth himself shall be humbled; but he that humbleth himself shall beoxaltcd. (§109)
+25 <sup>d</sup>Woe unto you, scribes and Pharisees, hypocrites! for ye cleanse the outside of the cup and of the platter, but within they are full from extortion and excess. 26 Thou blind Pharisee, cleanse first the inside of the cup and of the platter, that the outside thereof may become clean also.
 
-bLuke 11:. 52. Woe unto you lawyers I for ye took away the key of knowledge: ye entered not in yourselves, and them that were entering in yo hindered. (§94)
+27 <sup>e</sup>Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which outwardly appear beautiful, but inwardly are full of dead men's bones, and of all uncleanncss. 28 Even so ye also outwardly appear righteous unto men, but inwardly ye are full of hypocrisy and iniquity.
 
-c Luko 11 : 42. But woe unto you Pharisees 1 for ye tithe mint and rue and every herb, and pass C7Gr judgement and the love of God : but these ought ye to have done, and not to leave the other undone. (§94)
+20 <sup>f</sup>Woe unto yuu, scribes and Pharisees, hypocrites ! for ye build the sepulchres of the prophets, and garnish the tombs of the righteous, 30 and say, If we had been in the days cf our fathers, we should not have been partakers with them in the blood of the prophets.
 
-d Luke 11 : 39-41. Now do ye Pharisees cleanse the outside of the cup and of the platter; but your inward partis full of extortion and wickedness. 40 Ye foolish ones, did not ho that made the outside make the inside alsoT 41 Howbeit give for alms those things that are within; and behold all things are clean unto you. (§94)
-
-• Luke 11:44. Woe unto youl for ye are as the tombs which appear not, and the men that walk over them know it not. (§94)
-
-'Luke 11 47. Woe uoto youl for ye build the tombs of the prophets, and your fathers killed them. (§94)
-
-183
-
-§127
-
-THE PASSION WEEK — TUESDAY
-
-Matt. 23.
-
-31 » Wherefore ye witness to yourselves, that ye are sons of them that slew the prophets. 32 Fill ye up then the measure of your fathers. 33 Ye serpents, ye offspring of vipers, how shall ye escape the judgement of ^hell? 34 ^Therefore, behold, I send unto you prophets, and wise men, and scribes : some of them shall ye kill and crucify ; and some of them shall ye scourge in your synagogues, and persecute from city to city : 35 that upon you may come all the righteous blood shed on the earth, from the blood of Abel the righteous unto the blood of Zachariah son of Barachiah, whom ye slew between the sanctuary and the altar. 36 Verily
-
-1 say unto you, All these things shall come upon this generation.
-
-37 = O Jerusalem, Jerusalem, which ' killeth the prophets, and stoneth them that are sent unto her ! how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not ! 38 Behold, your house is left unto you
-
-2 desolate. 39 For I say unto you, Ye shall not see me henceforth, till ye shall say. Blessed is he that cometh in the name of the Lord.
-
-§ 128. THE WIDOW'S TWO MITES.
-
-Mark 12 : 41-44.
-
-41 And he sat down over against the treasury, and beheld how the multitude cast ^ money into the treasury: and many that were rich cast in much. 42 And there came *a poor widow, and she cast in two mites, which make a farthing. 43 And he called unto him his disciples, and said unto them, Verily I say unto you, This poor widow cast in more than all they which 1 are casting into the treasury : 44 for they all did cast in of their superfluity; but she of her want did cast in all that she had, even all her living.
-
-Luke 21 : 1-4. 1 And he looked up, 'and saw the rich men that were casting their gifts into the treasury. 2 And he saw a certain poor widow casting in thither two mites. 3 And he said, Of a truth I say unto you, This poor widow cast in more than they all : 4 for all these did of their superfluity cast in unto the gifts: but she of her want did cast in all the living that she had.
-
-ERV. mg. : ^Ht. Gehenna, s Some ancient authorities omit desoJate. ^Gr. brass. *Gr. one. ^Or, and saw them that ... treasury, and they were rich.
-
-ARV. txt.: ithat
-
-a Luke 11 : 48. So ye are witnesses and consent unto the works of your fathers : for they killed them, and ye build their tombs. (§ 94)
-
-bLuke 11:49-51. Therefore also said the wisdom of God, I will send unto them prophets and apostles; and some of them they shall kill and persecute ; 50 that the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation ; 51 from the blood of Abel unto the blood of Zachariah, who perished between the altar and the sanctuary : yea, I say unto you, it shall be required of this generation. (§ 94)
-
-cLuko 13: 34, 35. O Jerusalem, Jerusalem, which killeth the prophets, and stoneth them that are sent unto her! how often would I have gathered thy children together, even as a hen gathereth her own brood under her wings, and ye would not ! 35 Behold, your house is left unto you desolate : and I say iinto you, Ye shall not sea me, until ye shall say, Blessed is he that cometh in the name of the Lord. (§ 99)
 
 <span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
-8 129. GENTILES SEEKING JESUS.
+31 <sup>a</sup> Wherefore ye witness to yourselves, that ye are sons of them that slew the prophets. 32 Fill ye up then the measure of your fathers. 33 Ye serpents, ye offspring of vipers, how shall ye escape the judgement of <sup>1</sup>hell? 34 <sup>b</sup>Therefore, behold, I send unto you prophets, and wise men, and scribes : some of them shall ye kill and crucify ; and some of them shall ye scourge in your synagogues, and persecute from city to city : 35 that upon you may come all the righteous blood shed on the earth, from the blood of Abel the righteous unto the blood of Zachariah son of Barachiah, whom ye slew between the sanctuary and the altar. 36 Verily I say unto you, All these things shall come upon this generation.
+
+37 <sup>c</sup> O Jerusalem, Jerusalem, which <sup>1</sup> killeth the prophets, and stoneth them that are sent unto her ! how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not ! 38 Behold, your house is left unto you <sup>2</sup> desolate. 39 For I say unto you, Ye shall not see me henceforth, till ye shall say. Blessed is he that cometh in the name of the Lord.
+
+### § 128. THE WIDOW'S TWO MITES.
+
+Mark 12 : 41-44. | Luke 21 : 1-4.
+--- | ---
+41 And he sat down over against the treasury, and beheld how the multitude cast <sup>3</sup> money into the treasury: and many that were rich cast in much. 42 And there came <sup>4</sup>a poor widow, and she cast in two mites, which make a farthing. 43 And he called unto him his disciples, and said unto them, Verily I say unto you, This poor widow cast in more than all they which <sup>1</sup> are casting into the treasury : 44 for they all did cast in of their superfluity; but she of her want did cast in all that she had, even all her living. | 1 And he looked up, <sup>5</sup>and saw the rich men that were casting their gifts into the treasury. 2 And he saw a certain poor widow casting in thither two mites. 3 And he said, Of a truth I say unto you, This poor widow cast in more than they all : 4 for all these did of their superfluity cast in unto the gifts: but she of her want did cast in all the living that she had.
+
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
+
+### § 129. GENTILES SEEKING JESUS.
 
 John 12:20-36.
 
-20 Now there were certain Greeks among those that went up to worship at the feasfr. 21 thesa therefore came to Philip, which' was of Bethsaidaof Galilee, and asked him, saying, Sir, we would see Jesus. 22 Philip cometh and telleth Andrew : Andrew comsth, and Philip, anc. they tell Jesus. 23 And Jesus answereth them, saying. The hour is come, that the Son ci man should be glorified. 24 Verily, verily, I say unto you. Except a grain of wheat fall into the earth and die, it abideth by itself alone; but iT it die, it beareih much fruit. 25 "Ha that loveth his 'life loseth it; and he that hateth his 'life in this world shall keep it unto life eternal. 26 If any man serve me, let him follow me ; and where I am, there shall also my servant be : if any man serve me, him will the Father honour. 27 ''Now is my soul troubled; and what shall I say? 'Father, save me from this ^hour. But for this cause came I unto this hour. 28 Father, glorify thy name. There came therefore a voice out of heaven, saying, I have both glorified it, and will glorify it again. 29 The multitude therefore, that stood by, and heard it, said that it had thundered : others said, An angel hath spoken to him. 30 Jesus answered and said, This voice hath not come for my sake, but for yoursakes.
+20 Now there were certain Greeks among those that went up to worship at the feasfr. 21 thesa therefore came to Philip, which<sup>1</sup> was of Bethsaidaof Galilee, and asked him, saying, Sir, we would see Jesus. 22 Philip cometh and telleth Andrew : Andrew comsth, and Philip, anc. they tell Jesus. 23 And Jesus answereth them, saying. The hour is come, that the Son ci man should be glorified. 24 Verily, verily, I say unto you. Except a grain of wheat fall into the earth and die, it abideth by itself alone; but iT it die, it beareih much fruit. 25 <sup>a</sup>He that loveth his <sup>1</sup>life loseth it; and he that hateth his <sup>1</sup>life in this world shall keep it unto life eternal. 26 If any man serve me, let him follow me ; and where I am, there shall also my servant be : if any man serve me, him will the Father honour. 27 <sup>b</sup>Now is my soul troubled; and what shall I say? <sup>c</sup>Father, save me from this <sup>2</sup>hour. But for this cause came I unto this hour. 28 Father, glorify thy name. There came therefore a voice out of heaven, saying, I have both glorified it, and will glorify it again. 29 The multitude therefore, that stood by, and heard it, said that it had thundered : others said, An angel hath spoken to him. 30 Jesus answered and said, This voice hath not come for my sake, but for your sakes. 31 Now is <sup>3</sup>the judgement of this world: now shall the prince of this world be cast out. 32 And I, if I be lifted up <sup>4</sup>from the earth, will draw all men unto myself. 33 But this he .said, signifying by what manner of death he should die. 34 The multitude therefore answered him. We have heard out of the law that the Christ abideth for ever : and how sayest thou. The Son of man must be lifted up ? wh > is this Son of man ? 35 Jesus therefore said unto them. Yet a little while is the light <sup>5</sup>among you. Walk while ye have the light, that darkness overtake you not : and he that walketh in the darkness knoweth not whither ho goeth 36 While ye have the light, believe on the light, that ye may become sons of light.
 
-31 Now is ^the judgement of this world: now shall the prince of this world be cast out.
-
-32 And I, if I be lifted up *from the earth, will draw all men unto myself. 33 But this he .said, signifying by what manner of death he should die. 34 The multitude therefore answered him. We have heard out of the law that the Christ abideth for ever : and how sayest thou. The Son of man must be lifted up ? wh > is this Son of man ? 35 Jesus therefore said unto them. Yet a little while is the light ^among you. Walk while ye have the light, that darkness overtake you not : and he that walketh in the darkness knoweth not whither ho goeth 36 While ye have the light, believe on the light, that ye may become sons of light.
-
-These things spake Jesus, and he departed and *hid himself from them.
-
-ERV. mg.: i Or, soul <sup>1</sup> Or, hour t '<sup>1</sup> Or, a Judgement * Or, ont of •Or, fn • Or, was hiilden from them
-
-ARV. txt.: 1 wlio
-
-»Matt. 10:39. Ho that findeth his life shall lose it; aud he that loseth his lite for my sake shall fmd it. (§64)
-
-“Matt. 16:25. For whosoever would save his life shall lose it; and whosoever shall lose his life for my sake shall save it. (g 7”})
-
-» Mark 8 : 35. For whosoever would save his life shall lose it ; and whosoever shall lose his life for my sake and the gospel's shall save it. (§76)
-
-» Luke 9: 24. For whoso- vo? would save his life shall lose it; but whosoever shall lose his life for my sake, the same shall save it. (§76)
-
-»Luko 17:3.3. Whosoever shall seek to gain his life shall lose it; but whosoever shall lose his life shjJJ preserve it. (§ 106)
-
-bMatt. 26::i8. My .soul is exceeding sorrowful, even unto death. (§136)
-
-••Alark 14:34. My soul is exceeding sorrowful, even unto death. (§136)
-
-cMatl 2G: ;ffl. O my Father, if it be possible, let this cup pass away from me: nevertheless, not as I will but as thou wilt, (g 13€i)
-
-c Mark 14: 30. Abba, Father, all things are possible unto thee; remove this cup from me: howbeit not what I will, but what thou wilt. (§ 1 0)
-
-'Luke 22: 42, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done. (§ 136)
-
-185
-
-§130
-
-THE PASSION WEEK— TUESDAY
-
-§ 130. THE JEWS' REJECTION OF CHRIST. John 12:37-50.
-
-37 But though he had done so many signs before them, yet they believed not on him;
-
-38 that the word of Isaiah the prophet might be fulfilled, which he spake,
-
-Lord, who hath believed our report ?
-
-And to whom hath the arm of the Lord been revealed ?
-
-39 For this cause they could not believe, for that Isaiah said again,
-
-40 He hath blinded their eyes, and he hardened their heart ;
-
-Lest they should see v.ith their eyes, and perceive with their heart.
-
-And should turn.
-
-And I should heal them. 41 These things said Isaiah, because he saw his glory ; and he spake of him. 42 Nevertheless even of the rulers many believed on him ; but because of the Pharisees they did not confess ^it, lest they should be put out of the synagogue: 43 for they loved the glory of men more than the glory of God.
-
-44 And Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me. 45 And he that beholdeth me beholdeth him that sent me. 46 I am come a light into the world, that whosoever believeth on me may not abide in the darkness. 47 And if any man hear my sayings, and keep them not, I judge him not: for I came not to judge the world, but to save the world. 48 He that rejecteth me, and receiveth not my sayings, hath one that judgeth him : the word that I spake, the same shall judge him in the last day. 49 For I spake not from myself; but the Father which ^ sent me, he hath given me a commandment, what I should say, and what I should speak. 50 And I know that his commandment is life eternal: the things therefore which I speak, even as the Father hath said unto me, so I speak.
-
-§131. DISCOURSE CONCERNING THE DESTRUCTION OF JERUSALEM AND THE END
-
-OF THE WORLD.
-
-Matt., ciiApg. 24, 25, '"26:1, 2.1 1 And Jesus v/ent out from the temple, and was going on his way; and his disciples came to him to shew him the buildings of the temple. 2 But he answered and said unto them, See ye not all these things? verily I say unto you. There shall not be left here one stone upon another, that shall not be thrown down.
-
-3 And aa he sat on the mount of Olives, the disciples
-
-Mabk, chap. 13.
-
-1 And as he went forth out of the temple, one of his disciples saith unto him, ^ Master ^ behold, what manner of stones and what manner of buildings ! 2 And Jesus said unto him, Seest thou these great buildings? there shall not be left here one stone upon another, which shall not be thrown down.
-
-3 And as he sat on the mount of Olives over against
-
-Luke 21 : 5-38.
-
-5 And as some spake of the temple, how it was adorned with goodly stones and offerings, he said, 6 As for these things which ye behold, the days will come, in which there shall not be left here one stone upon another, that shall not be thrown down.
-
-[Paragraph continued on p. 187.]
-
-ERV. mg. : I Or, him ' Or, Teacher ARV.txt.: ^thatUet > that ^Teacbsr
+These things spake Jesus, and he departed and <sup>6</sup>hid himself from them.
 
 <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
-§131
 
-Matt. 24.
+### § 130. THE JEWS' REJECTION OF CHRIST. 
 
-came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy ' coming, and of 2 the end of the world? 4 And Jesus answered and said unto them. Take heed that no man lead you astray. 5 For many shall come in my name, saying, I am the Christ ; and shall lead many astray.
+John 12:37-50.
 
-6 And ye shall hear of wars and rumours of wars : see that ye bfe not troubled : for these things must needs come to pass ; but the end is not yet.
+37 But though he had done so many signs before them, yet they believed not on him; 38 that the word of Isaiah the prophet might be fulfilled, which he spake,
+Lord, who hath believed our report ?
+And to whom hath the arm of the Lord been revealed ?
+39 For this cause they could not believe, for that Isaiah said again,
+40 He hath blinded their eyes, and he hardened their heart ;
+Lest they should see v.ith their eyes, and perceive with their heart.
+And should turn.
+And I should heal them. 41 These things said Isaiah, because he saw his glory ; and he spake of him. 42 Nevertheless even of the rulers many believed on him ; but because of the Pharisees they did not confess <sup>1</sup>_it_, lest they should be put out of the synagogue: 43 for they loved the glory of<sup>1</sup> men more than the glory of God.
 
-7 For nation shall rise against nation, and kingdom against kingdom : and there shall be famines and earthquakes in divers places. 8 But all these things are the beginning of travail. 9 *Then shall they deliver you up unto tribulation, and shall kill you : •'and ye shall be hated of all the nations for my name's sake. 10 And then shall many stumble, and shall deliver up one another, and shall hate on<» %nother. 11 And many false prophets shall arise, and shall lead many astray. 12 And because iniquity shall be multiplied, the love of the many shall A'axcold.
+44 And Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me. 45 And he that beholdeth me beholdeth him that sent me. 46 I am come a light into the world, that whosoever believeth on me may not abide in the darkness. 47 And if any man hear my sayings, and keep them not, I judge him not: for I came not to judge the world, but to save the world. 48 He that rejecteth me, and receiveth not my sayings, hath one that judgeth him : the word that I spake, the same shall judge him in the last day. 49 For I spake not from myself; but the Father which <sup>2</sup> sent me, he hath given me a commandment, what I should say, and what I should speak. 50 And I know that his commandment is life eternal: the things therefore which I speak, even as the Father hath said unto me, so I speak.
 
-RLVKK 13.
+### § 131. DISCOURSE CONCERNING THE DESTRUCTION OF JERUSALEM AND THE END OF THE WORLD.
 
-the temple, Peter and James and John and Andrew asked him privately, 4 Tell us, when shall these things be? and what shall be the sign when these things are all about to be accomplished? 5 And Jesus began to say unto them. Take heed that no man lead you astray. 6 Many shall come in my name, saying, I am he ; and shall lead many astray. 7 And when ye shall hear of wars and rumours of wars, be not troubled : these things must needs come to pass ; but the end is not yet. 8 For nation shall rise against nation, and kingdom against kingdom : there shall be earthquakes in divers places ; there shall be famines : these things are the beginning of travail. 9 » But take ye heed to yourselves : for they shall deliver you up to councils; and in synagogues shall ye be beaten ; and before governors and kings shall ye stand for my sake, for a testimony unto them. 10 And the gospel must first be preached unto all the nations. 11 "And when they lead you to Judgement, and deliver you up, be not anxious beforehand what
+Matt., chaps. 24, 25, “26:1, 2.” | Mark, chap. 13. | Luke 21 : 5-38.
+--- | --- | ---
+1 And Jesus went out from the temple, and was going on his way; and his disciples came to him to shew him the buildings of the temple. 2 But he answered and said unto them, See ye not all these things? verily I say unto you. There shall not be left here one stone upon another, that shall not be thrown down. 3 And as he sat on the mount of Olives, the disciples <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy <sup>1</sup> coming, and of 2 the end of the world? 4 And Jesus answered and said unto them. Take heed that no man lead you astray. 5 For many shall come in my name, saying, I am the Christ ; and shall lead many astray. 6 And ye shall hear of wars and rumours of wars : see that ye be not troubled : for _these things_ must needs come to pass ; but the end is not yet. 7 For nation shall rise against nation, and kingdom against kingdom : and there shall be famines and earthquakes in divers places. 8 But all these things are the beginning of travail. 9 <sup>a</sup>Then shall they deliver you up unto tribulation, and shall kill you : <sup>b</sup>and ye shall be hated of all the nations for my name's sake. 10 And then shall many stumble, and shall deliver up one another, and shall hate one another. 11 And many false prophets shall arise, and shall lead many astray. 12 And because iniquity shall be multiplied, the love of the many shall wax cold. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 13 <sup>a</sup>But he that endureth to the end, the same shall be saved. 14 And <sup>1</sup> this gospel of the kingdom shall be preached in the whole <sup>2</sup> world for a testimony unto all the nations ; and then shall the end come. | 1 And as he went forth out of the temple, one of his disciples saith unto him, <sup>2</sup> Master <sup>3</sup> behold, what manner of stones and what manner of buildings ! 2 And Jesus said unto him, Seest thou these great buildings? there shall not be left here one stone upon another, which shall not be thrown down. 3 And as he sat on the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately, 4 Tell us, when shall these things be? and what shall be the sign when these things are all about to be accomplished? 5 And Jesus began to say unto them. Take heed that no man lead you astray. 6 Many shall come in my name, saying, I am he ; and shall lead many astray. 7 And when ye shall hear of wars and rumours of wars, be not troubled : _these things_ must needs come to pass ; but the end is not yet. 8 For nation shall rise against nation, and kingdom against kingdom : there shall be earthquakes in divers places ; there shall be famines : these things are the beginning of travail. 9 <sup>a</sup> But take ye heed to yourselves : for they shall deliver you up to councils; and in synagogues shall ye be beaten ; and before governors and kings shall ye stand for my sake, for a testimony unto them. 10 And the gospel must first be preached unto all the nations. 11 <sup>c</sup>And when they lead you to _Judgement_, and deliver you up, be not anxious beforehand what ye shall speak : but whatsoever shall be given you in that hour, that speak ye : for it is not ye that speak, but the Holy Ghost <sup>2</sup>. 12 <sup>b</sup>And brother shall deliver up brother to death, and the father his child; and children shall rise up against parents, and <sup>5</sup> cause them to be put to death. 13 <sup>.c</sup>And ye shall be hated of all men for my name's sake : <sup>a</sup> but he that endureth to the end, the same shall be saved. | 5 And as some spake of the temple, how it was adorned with goodly stones and offerings, he said, 6 As for these things which ye behold, the days will come, in which there shall not be left here one stone upon another, that shall not be thrown down. [Paragraph continued on p. 187.] 7 And they asked him, saying, <sup>3</sup> Master<sup>1</sup>, when therefore _shall_ these things be? and what shall be the sign when these things are about to come to pass? 8 And he said, Take heed that ye be not led astray : for many shall come in my name, saying, I am he; and, The time is at hand: go ye not after them. 9 And when ye shall hear of wars and tumults, be not terrified : for these things must needs come to pass first ; but the end is not immediately. 10 Then said he unto them, Nation shall rise against nation, and kingdom against kingdom: 11 and there shall be great earthquakes, and in divers places famines and pestilences; and there shall be terrors and great signs from heaven. 12 <sup>a</sup>But before all these things, they shall lay their hands on you, and shall persecute you, delivering you up to the synagogues and prisons, <sup>4</sup> bringing you before kings and governors for my name's sake. 13 It shall turn <sup>2</sup> unto you for a testimony. 14 <sup>c</sup> Settle it therefore in your hearts, not to meditate beforehand how to answer : 15 for I will give you a mouth and wisdom, which all your adversaries shall not be able to withstand or to gainsay. 16 <sup>b</sup>But ye shall be delivered up even by parents, and brethren, and kinsfolk, and friends ; and some of you <sup>6</sup> shall they cause to be put to death. 17 <sup>c</sup>And ye shall be hated of all men for my name's sake. 18 <sup>d</sup>And not a hair of your head shall perish. 19 <sup>a</sup> In your patience ye shall win your <sup>7</sup> souls.
+15 When therefore ye see the abomination of desolation, which was spoken of <sup>3</sup>by<sup>1</sup> Daniel the prophet, standing in <sup>4</sup>the holy place (let him that readeth understand), 16 then let them that are in Judssa flee unto the mountains: 17 <sup>e</sup>let him that is on the housetop not go down to take out the things that are in his house : 18 and let him that is in the field not return back to take his cloke. 19 But woe unto them that are with child and to them that give suck in those daysl 20 And pray ye that your flight be not in the winter, neither on a sabbath : 21 for then shall be great tribulation,such as hath not been from the beginning <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> of the world until now, no. nor ever shall be. 22 And except those days had been shortened, no flesh would have been saved : but for the elect's sake those days shall be shortened. 23 <sup>a</sup>Then if any man shall say unto you, Lo, here is the Christ, or. Here; believe <sup>1</sup>it not. 24 For there shall arise false Christs, and false prophets, and shall shew great signs and wonders ; so as to lead astray, if possible, even the elect. 25 Behold, I have told you beforehand. 26 <sup>a</sup>If therefore they shall say unto you. Behold, he is in the wilderness ; go not forth : Behold, he is in the inner chambers ; believe <sup>2</sup> if not. 27 <sup>b</sup>For as the lightning Cometh forth from the east, and is seen even unto the west; so shall be the <sup>3</sup>coming of the Son of man. 28 <sup>c</sup> Wheresoever the carcase is, there will the <sup>4</sup> eagles be gathered together. | 14 But when ye see the abomination of desolation standing where he ought not (let him that readeth understand), then let them that are in Judsea flee unto the mountains : 15 <sup>e</sup> and let him that is on the housetop not go down, nor enter in, to take anything out of his house : 16 and let him that is in the field not return back to take his cloke. 17 But woe unto them that are with child and to them that give suck in those days ! 18 And pray ye that it be not in the winter. 19 For those days shall be tribulation, such as there hath not been the like from the beginning of the creation which God created until now, and never shall be. 20 And except the Lord had shortened the days, no flesh would have been saved : but for the elect's sake, whom he chose, he shortened the days. 21 <sup>a</sup> And then if any man shall say unto you, Lo, here is the Christ; or, Lo, there; believe <sup>1</sup> it not : 22 for there shall arise false Christs and false prophets, and shall shew signs and wonders, that they may lead astray, if possible, the elect. 23 But take ye heed : behold, I have told you all things beforehand. | 20 But when ye see Jerusalem compassed with armies, then know that her desolation is at hand. 21 Then let them that are in Judasa flee unto the mountains; and let them that are in the midst of her depart out; and let not them that are in the country enter therein. 22 For these are days of vengeance, that all things which are written may be fulfilled. 23 Woe unto them that are with child and to them that give suck in those days ! for there shall be great distress upon the <sup>8</sup>land, and wrath unto this people. 24 And they shall fall by the edge of the sword, and shall be led captive into all the nations : and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
+29 But immediately, after the tribulation of those days, the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall Ije shaken : 30 and then shall appear the sign of the Son of man in heaven : and then shall all the tribes of the earth mourn, and they shall see the Son of man coming on the clouds of <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> heaven with power and great glory. 31 And he shall send forth his angels <sup>1</sup>with <sup>2</sup>a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other. |  24 But in those days, after that tribulation, the sun shall bo darkened, and the moon shall not give her light, 25 and the stars shall be falling from heaven, and the powers that are in the heavens shall be shaken. 26 And then shall they sec the Son of man coming in clouds with great power and glory. 27 And then shall he send forth the angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven. |  25 And there shall be signs in sun and moon and stars ; and upon the earth distress of nations, in perplexity for the roaring of the sea and the billows; 26 men <sup>5</sup>fainting for fear, and for expectation of the things which are coming on <sup>6</sup> the world : for tho powers of the heavens shall be shaken. 27 And then shall they see the Son of man coming in a cloud with power and great glory. 28 But when these things begin to come to pass, look up, and lift up your heads; because your redemption draweth nigh.
+32 Now from the fig tree learn her parable : when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh ; 33 even so ye also, when ye see all these things, know ye that <sup>3</sup>he is nigh, _even_ at the doors. 34 Verily I say unto you. This generation shall not pass away, till all these things be accomplished. 35 Heaven and earthshall pass away, but my words shall not pass away. 36 But of that day and hour knoweth no one, not even the angels of heaven, <sup>4</sup> neither the Son, but the Father only. 37 <sup>a</sup>And as _were_ the days of Noah, so shall be the <sup>5</sup>coming of the Son of man. 38 For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ark, 39 and they knew not until the flood came, and took them all away ; so shall be the <sup>5</sup>coming of the Son of man. 40 <sup>b</sup>Then shall two men be in the field ; one is <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> taken, and one is left : 41 two women shall he grinding at the mill ; one is taken, and Dneisleft. 42 <sup>a</sup>Watch therefore : for ye know not on what day your Lord cometh. 43 <sup>b</sup><sup>1</sup>But know this, that if the master of the house had known in what watch the thief was coming, he would have watched, and would not have suffered his house to be <sup>2</sup>broken through. 44 Therefore be ye also ready : for in an hour that ye think not the Son of man cometh. | 28 Now from the fig tree learn her parable : when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh ; 29 even so ye also, when ye see these things coming to pass, know ye that <sup>3</sup>he is nigh, _even_ at the doors. 30 Verily I say unto you. This generationshallnotpassaway, until all these things be accomplished. 31 Heaven and earth shall pass away : but my words shall not pass away. 32 But of that day or that hour knoweth no one, not even the angels in heaven, neither the Son, but the Father. [Paragraph continued on p. 191.] 33 <sup>a</sup>Take ye heed, watch <sup>4</sup>and pray: for ye know not when the time is. 34 It is as when a man, sojourning in another country, having left his house, and given authority to his <sup>5</sup>servants, to each one his work, commanded also the porter to watch. 35 <sup>a</sup>Watch therefore : for ye knov/ not when the lord of the house cometh, whether at even, or at midnight, or at cock-crowing, or in the morning; 36 lest coming suddenly he find you sleeping. 37 And what I say unto you I say unto all. Watch. | 29 And he spake to them a parable : Behold the fig tree, and all the trees : 30 when they now shoot forth, ye see it and know of your own selves that the summer is now nigh. 31 Even so ye also, when ye see these things coming to pass, know ye that the kingdom of God is nigh. 32 Verily I say unto you, This generation shall not pass away, till all things be accomplished. 33 Heaven and earth shall pass away: but my words shall not pass away. 34 But take heed to yourselves, lest haply your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and that day come on you suddenly 35 as a snare : for so shall it come upon all them that dwell on the face of all the earth. 36 <sup>a</sup> But watch ye at every season, making supplication, that ye may prevail to escape all these things that shall come to pass, and to stand before the Son of man.
+45 <sup>c</sup>Who then is the faithful and wise <sup>2</sup>servant, whom his lord hath set over his household, to give them their food i n due season ? 47 Blessed is that <sup>3</sup>servant, whom his lord when he cometh shall find so doing. 47 Verily I say unto you, that he will set him over all that he hath. 48 But if that evil <sup>3</sup>servant shall say in his heart, My lord tarrieth ; 49 and shall begin to beat his fellowservants, and shall eat and drink with the drunken ; 60 the lord of that <sup>3</sup>servant shall come in a day when he expecteth not, and in an <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> hour when he knoweth not, 51 <sup>a</sup>and shall <sup>1</sup>cut him asunder, and appoint his portion with the hypocrites : there shall be the weeping and gnashing > of teeth. 25:1 Then shall the kingdom of heaven be likened unto ten virgins, which <sup>2</sup> took their <sup>2</sup> lamps, and went forth to meet the bridegroom. 2 And five of them were foolish, and five were wise. 3 For the foolish, when they took their <sup>2</sup> lamps, took no oil with them : 4 but the wise took oil in their vessels with their <sup>2</sup> lamps. 5 Now while the bridegroom tarried, they all slumbered and slept. 6 But at midnight there is a cry, Behold, the bridegroom ! Come ye forth to meet him. 7 Then all those virgins arose, and trimmed their <sup>2</sup> lamps. 8 And the foolish said unto the wise, Give us of your oil ; for our <sup>2</sup>lamps are going out. 9 But the wise answered, saying, Peradventure there will not be enough for us and you : go ye rather to them that sell, and buy for yourselves. 10 And while they . . . | &nbsp; | [Luke 12 : 42-46. A nd the Lord said , Who then is <sup>6</sup> the faithful and wise steward, whom his lord shall set over his household, to give them their portion of food in due season? 43 Blessed is that <sup>3</sup> servant, whom his lord when he cometh shall find so doing. 44 Of a trutli I say unto you, that he will set him over all thut he hath. 45 But if that <sup>3</sup>servant shall say in his heart, My lord delayeth his coming ; and shall begin to beat the menservants and the maidservants, and to oat and drink, and to be drunken ; 46 the lord of that 3 servant shall come in a day when he expeeteth not, and in an hour when he knoweth not, and shall <sup>1</sup> cut him asunder, and appoint his portion with the unfaithful.] (§95)
 
-Luke 21.
-
-7 And they asked him, saying, ^ Master', when therefore shall these things be? and what shall be the sign when these things are about to come to pass? 8 And he said, Take heed that ye be not led astray : for many shall come in my name, saying, I am he; and, The time is at hand: go ye not after them. 9 And when ye shall hear of wars and tumults, be not terrified : for these things must needs come to pass first ; but the end is not immediately.
-
-10 Then said he unto them, Nation shall rise against nation, and kingdom against kingdom: 11 and there shall be great earthquakes, and in divers places famines and pestilences; and there shall be terrors and great signs from heaven. 12 "But before all these things, they shall lay their hands on you, and shall persecute you, delivering you up to the synagogues and prisons, * bringing you before kings and governors for my name's sake. 13 It shall turn 2 unto you for a testimony. 14 <= Settle it therefore in your hearts, not to meditate beforehand how to an
-
-EKV. ing. . ^Gr. presence. * Or, the consutninationqf tlie age 'Or, Teacher. *Gr. joaleiiig brought. ARV. tat: I Teacher « turn out
-
-»Mat;. 10:17, 18. But beware of men: for they will deliver you up to councils, and in their synagogues they will scourge you ; 18 yea and before governora and kings shall ye be brought for my sake, for a testimony to them and to the Gentiles. (§ 64)
-
-b See note = on page 188.
-
-cMatt. 10:19, 20. But when they deliver you up, be not anxious how or what ye shall speak: for it shall be given you in that hour what ye shall speak. 20 For it is not ye that speak, but the Spirit of your Father that speaketh in you. (§64)
-
-eLuke 12 : 11, 12. And when they bring you before the synagogues, and the rulers, and the authorities, be Dot anxious how or what ye shall answer, or what ye shall say : 12 fer the Holy Spirit shall teach you in that very hour what ye ought to say. (§ 95)
-
-187
-
-§131
-
-THE PASSION WEEK— TUESDAY
-
-Matt. 24.
-
-IS^But he that endureth to the end, the same shall be saved. 14 And ' this gospel of the kingdom shall be preached in the whole 2 world for a testimony unto all the nations ; and then shall the end come.
-
-15 When therefore ye see the abomination of desolation, which was spoken of ^by' Daniel the prophet, standing in *the holy place (let him that readeth understand), 16 then let them that are in Judssa flee unto the mountains: 17 ^let him that is on the housetop not go down to take out the things that are in his house : 18 and let him that is in the field not return back to take his cloke. 19 But woe unto them that are with child and to them that give suck in those daysl 20 And pray ye that your flight be not in the winter, neither on a sabbath : 21 for then shall be great tribulation,such as hath not been from the be
-
-Mabk 13. ye shall speak : but whatsoever shall be given you in that hour, that speak ye : for it is not ye that speak, but the Holy Ghost 2. 12 “And brother shall deliver up brother to death, and the father his child; and children shall rise up against parents, and ^ cause them to be put to death. 13 ”And ye shall be hated of all men for my name's sake : ^ but he that endureth to the end, the same shall be saved.
-
-14 But when ye see the abomination of desolation standing where he ought not (let him that readeth understand), then let them that are in Judsea flee unto the mountains : 15 * and let him that is on the housetop not go down, nor enter in, to take anything out of his house : 16 and let him that is in the field not return back to take his cloke. 17 But woe unto them that are with child and to them that give suck in those days ! 18 And pray ye that it be not in the winter. 19 For those days shall be tribulation, such as there hath not been the like from the beginning of the creation which God created until now, and never shall be.
-
-Luke 21.
-
-swer : 15 for I will giv« you a mouth and wisdom, which all your adversaries shall not be able to withstand or to gainsay. 16 ''But ye shall be delivered up even by parents, and brethren, and kinsfolk, and friends ; and some of you * shall they cause to be put to death. 17 <=And ye shall be hated of all men for my name's sake. 18 <iAnd not a hair of your head shall perish. 19 » In your patience ye shall win your ^ souls.
-
-20 But when ye see Jerusalem compassed with armies, then know that her desolation is at hand. 21 Then let them that are in Judasa flee unto the mountains; and let them that are in the midst of her depart out; and let not them that are in the country enter therein.
-
-22 For these are days of vengeance, that all things which are written may be fulfilled.
-
-23 Woe unto them that are with child and to them that give suck in those days ! for there shall be great distress upon the ^land, and wrath unto this people. 24 And they shall fall by the edge of the sword, and shall be led captive into all the nations : and Jerusalem shall be trodden down
-
-ERV. ing. : <sup>1</sup> Or, these good tidings ^Gt. inhabited earth. <sup>1</sup> Or, through * Or, a holy place '■Or, put them to death » Or, shall they put to death, ''Or, lives <' Or, earth
-
-ARV. txt. : 1 through « Holy Spirit
-
-t'Matt. 10:226. But he that endureth to the end, the same shall be saved. (§64)
-
-bMatt. 10:21. And brother shall deliver up brother to death, and the father his child: and children shall
-
-rise up against parents, and cause them to be put to death. (§64)
-
-b John 16 : 2. They shall put yon out of the synagogues : yea, the hour cometh. that whosoever killeth you
-
-shall think that he ott'ereth service unto God. (§ 134)
-
-e Matt. 10:22a. And ye shall be hated of all men for my name's sake. (§64) Cf. John 15:21 (§134)
-
-d Matt. 10:30. But the very hairs of your head are all numbered. (§64) = d Luke 12:7 (§95)
-
-«Luke 17:31. In that day, he which shall be on the housetop, and his goods in the house, let him not go
-
-down to take them away : and let him that is in the field likewise not return back. (§108)
-
-<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
-
-§131
-
-IVTatt. 24.
-
-ginning of the world until now, no. nor ever shall be. 22 And except those days had been shortened, no flesh would have been saved : but for the elect's sake those days shall be shortened. 23 “Then if any ro?,n shall say unto you, Lo, here is the Christ, or. Here; believe 'i^not. 24 For there shall arise false Christs, and false prophets, and shall shew great signs and wonders ; so as to lead astray, if possible, even the elect. 25 Behold, I have told you beforehand. 26 ”If therefore they shall say unto you. Behold, he is in the wilderness ; go not forth : Behold, he is in the inner chambers ; believe 2 if not. 27 ''For as the lightning Cometh forth from the east, and is seen even unto the west; so shall be the ^coming of the Son of man. 28 «= Wheresoever the carcase is, there will the * eagles be gathered together.
-
-29 But immediately, after the tribulation of those days, the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall Ije shaken : 30 and then shall appear the sign of the Son of man in heaven : and then shall all the tribes of the earth mourn, and they shall see the Son of man coming on the clouds of
-
-Make 13.
-
-20 And except the Lord had shortened the days, no flesh would have been saved : but for the elect's sake, whom he chose, he shortened the days.
-
-21 » And then if any man shall say unto you, Lo, here is the Christ; or, Lo, there; believe ' it not : 22 for there shall arise false Christs and false prophets, and shall shew signs and wonders, that they may lead astray, if possible, the elect. 23 But take ye heed : behold, I have told you all things beforehand.
-
-24 But in those days, after
-
-that tribulation, the sun shall bo darkened, and the moon shall not give her light, 25 and the stars shall be falling from heaven, and the powers that are in the heavens shall be shaken. 26 And then shall they sec the Son of man coming in clouds with great power and glory. 27 And then shall he send forth the angels, and shall gather together his elect
-
-LUKK 21.
-
-of the Gentiles, until the times of the Gentiles be fulfilled.
-
-25 And there shall be signs in sun and moon and stars ; and upon the earth distress of nations, in perplexity for the roaring of the sea and the billows; 26 men ^fainting for fear, and for expectation of the things which are coming on ^ the world : for tho powers of the heavens shall be shaken. 27 And then shall they see the Son of man coming in a cloud with power and
-
-ERV. nig.: i Or, him 'Or, them ' Gr. presence. * Or, vultures '•Or, expiring 'Gr. the inhabited earth.
-
-aLuke 17:23. And they shall say to you, Lo, tLere I Lo, here I go not away, nor follow after ffteni. (§108) bLuke 17: 24. For as the lightning;, when it lighteneth out of the one part under the beaveu, shiuetb uuto the other part under heaven ; so shall tho Son of man bo in his day. (§ 108)
-
-c Lake 11 : 87. Where the body is, thither will the eagles also be gathered together, (g 108)
-
-189
-
-§131
-
-THE PASSION WEEK— TUESDAY
-
-Matt. 24.
-
-heaven with power and great glory. 31 And he shall send forth his angels 'with -a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-
-32 Now from the fig tree learn her parable : when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh ; 33 even so ye also, when ye see all these things, know ye that ^he is mgh,even at the doors. 34 Verily I say unto you. This generation shall not pass away, till all these things be accomplished. 35 Heaven and earthshall pass away, but my words shall not pass away. 36 But of that day and hour knoweth no one, not even the angels of heaven, * neither the Son, but the Father only. 37 »And as vere the days of Noah, so shall be the ^coming of the Son of man. 38 For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ark, 39 and they knew not until the flood came, and took them all away ; so shall be the ^coming of the Son of man. 40 *'Then shall two men be in the field ; one is
-
-Mark 13.
-
-from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
-
-28 Now from the fig tree learn her parable : when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh ; 29 even so ye also, when ye see these things coming to pass, know ye that ^he is nigh, even at the doors. 30 Verily I say unto you. This generationshallnotpassaway, until all these things be accomplished. 31 Heaven and earth shall pass away : but my words shall not pass away. 32 But of that day or that hour knoweth no one, not even the angels in heaven, neither the Son, but the Father.
-
-[P«ragrapb continued on p. 191.]
-
-LU£E 21.
-
-great glory. 28 But when these things begin to come to pass, look up, and lift up your heads; because your redemption draweth nigh.
-
-29 And he spake to them a parable : Behold the fig tree, and all the trees : 30 when they now shoot forth, ye see it and know of your own selves that the summer is now nigh. 31 Even so ye also, when ye see these things coming to pass, know ye that the kingdom of God is nigh. 32 Verily I say unto you, This generation shall not pass away, till all things be accomplished. 33 Heaven and earth shall pass away: but my words shall not pass away.
-
-ERV. mg. : » Many ancient authorities read with a great trumpet, and they shall gather, dtc. • Many authorities, some ancient, omit neither the Son. ' Gr. presence.
-
-'Or, a trumpet of great sound 'Or, t*
-
-» Luke 17 : 26, 27. And as it came to pass in the days of Noah, even so shall it be also in the days of the Son of man. 27 They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all. (^5108)
-
-b Luke 17 : 34, 35. In that night there shall be two men on one bed ; the one shall be taken, and the other shall be left. 35 There shall be two women grinding together; the one shall be taken, and the other shall be left. (§108)
-
-<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
-
-§131
-
-Matt. 2^. taken, and one is left : d 1 two women shall he grinding at the mill ; one is taken, and Dneisleft. 42 "Watch therefore : for ye know not on what day your Lord cometh. 13 •'•But know this, that if the master of the house had known in what watch the thief was coming, he would have watched, and would not have suffered his house to be 'broken through. 44 Therefore be ye also ready : for in an hour that ye think not the Son of man cometh.
-
-45 <:\Vho then is the faithful and wise "servant, whom his lord hath set over his household, to give them their food i n due season ? 4G Blessed is that 'servant, whom his lord when he cometh shall find so doing. 47 Verily I say unto you, that he will set him over all that he hath. 48 But if that evil •servant shall say in his heart, My lord tarrieth ; 49 and shall begin to beat his fellowservants, and shall eat and drink with the drunken ; 60 the lord of that 'servant shall come in a day when he expecteth not, and in an
-
-Mark 13.
-
-33 »Take ye heed, watch *and pray: for ye know not when the time is. 34 It is as when a man, sojourning in another country, having left his house, and given authority to his ^servants, to each one his work, commanded also the porter to watch. 35 "Watch therefore : for ye knov/ not when the lord of the house cometh, whether at even, or at midnight, or at cock-crowing, or in the morning; 36 lest coming suddenly he find you sleeping. 37 And what I say unto you I say unto all. Watch.
-
-Luke 21.
-
-34 But take heed to yourselves, lest haply your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and that day come on you suddenly 35 as a snare : for so shall it come upon all them that dwell on the face of all the earth. 36 " But watch ye at every season, making supplication, that ye may prevail to escape all these things that shall come to pass, and to stand before the Son of man.
-
-[Luke 12 : 42-4G. A nd the Lord said , Who then is •' the faithful and wise steward, whom his lord shall set over his household, to give them their portion of food in due season? 43 Blessed is that 3 servant, whom his lord when he cometh shall find so doing. 44 Of a trutli I say unto you, that he will set him over all thut he hath. 45 But if that •'servant shall say in his heart, My lord delayeth his coming ; and shall begin to beat the menservants and the maidservants, and to oat and drink, and to be drunken ; 4G the lord of that 3 servant shall come in a day when he expeeteth not, and in an hour when he knowcth not,
-
-ERV. nii;.: <sup>1</sup> Or, Itut this v<^ know 'Or. dtgaerl through. ''Gr. bondservant. •Or. bondservants. oOr, the faithful atetpard, the wise man whom itc.
-
-'Some ancient authorities omit and pruii.
-
-»Cf. Matt. 2.5:1.3 (p. 193).
-
-i^Luke 12:39, 40. But know this, that if the master of the house had known in what hour the thief was coming, he would have watched, and not have left his house to be broken through. 40 Ho ye also ready : for In an hour that ye think not the Son of man cometh. (§95)
-
-• Luke 12: 42-46. (§95) See above.
-
-101
-
-§131
-
-THE PASSION WEEK— TUESDAY
-
-Matt. 24,
-
-hour when he knoweth not, 51 «and shall ^cut him asunder, and appoint his portion with the hypoci'ites : there shall be the weeping and gnashing > of teeth.
-
-25:1 Then shall the kingdom of heaven be likened unto ten virgins, which ^ took their ^ lamps, and went forth to meet the bridegroom. 2 And five of them were foolish, and five were wise. 3 For the foolish, when they took their 2 lamps, took no oil with them : 4 but the wise took oil in their vessels with their ^ lamps. 5 Now while the bridegroom tarried, they all slumbered and slept. 6 But at midnight there is a cry, Behold, the bridegroom ! Come ye forth to meet him. 7 Then all those virgins arose, and trimmed their ^ lamps. 8 And the foolish said unto the wise, Give us of your oil ; for our ^lamps are going out. 9 But the wise answered, saying, Peradventure there will not be enough for us and you : go ye rather to them that sell, and buy for yourselves. 10 And while they
-
-LUKR [12].
-
-and shall ' cut him asunder, and appoint his portion with the unfaithful.] (§05)
-
-ERV. mg. : > Or, severely scourge him <sup>1</sup> Or, torches
-
-ARV. txt. : 1 the gnashing 2 who
-
-• Matt. 8: 12. But the sons of the kicgdom shall be cast forth into the outer darkness: there shall be the weeping and gnashing of teeth. (§ 50)
-
-"Matt. 13:42. And shall cast them into the furnace of fire: there shall be the weeping and gnashing of teeth. (§57)
-
-a Matt. 13:50. And shall cast them into the furnace of fire: there shall be the weeping and gnashing of teeth. (§57)
-
-"Matt. 22:13. And cast him out into the outer darkness; there shall be the weeping and gnashing of teeth. (§124)
-
-»Cf. Matt. 25: 30 (p. 193).
-
-"Luke 12:46 (§95). See above.
-
-a Luke 13: 28. There shall be the weeping and gnashing of teeth, when ye shall see Abraham, and Isaac and Jacob, and all the prophets, in the kingdom of God, and yourselves cast forth without. (§98)
-
-<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Matt. 25.
 
-vent away to buy, the bridegroom came ; and they that were ready went in with him to the marriage feast : and the door was shut. 11 Afterward come also the other virgins, saying, "Lord, Lord, open to us. 12 But he answered and said, Verily I say unto you, I know you not. IH ''Watch therefore, for ye know not the day nor the hour.
+. . . went away to buy, the bridegroom came ; and they that were ready went in with him to the marriage feast : and the door was shut. 11 Afterward come also the other virgins, saying, <sup>a</sup>Lord, Lord, open to us. 12 But he answered and said, Verily I say unto you, I know you not. 13 <sup>b</sup>Watch therefore, for ye know not the day nor the hour.
 
-14 "^For it is as tchen a man, going into another country, called his own 'servants, and delivered unto them his goods. 15 And unto one he gave five talents, to another two, to another one; to each according to his several ability; and he went on his journey. 16 Straightway he that received the five talents went and traded with them, and made other five talents. 17 In like manner he also that received the two gained other two. 18 But he that received the one went away and digged in the earth, and hid his lord's money. 19 Now after a long time the lord of those 'servants cometh, and maketh a reckoning with them. 20 And he that received the five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents : lo, I have gained other five talents. 21 His lord said unto him. Well done, good and faithful -servant : thou hast been faithful over a few things, I will set thee over many things : enter thou into the joy of thy lord. 22 And he also that received the two talents came and said. Lord, thou deliveredst unto me two talents : lo, I have gained other two talents. 23 His lord said unto him, Well done, good and faithful ^ servant : thou hast been faithful over a few things, I will set thee over many things: enter thou into the joy of thy lord. 24 And he also that had received the one talent came and said. Lord, I knew thee that thou art a hard man, reaping where thou didst not sow, and gathering where thou didst not scatter : 25 and I was afraid, and went away and hid thy talent in the earth : lo, thou hast thine own. 26 But his lord answered and said unto him. Thou wicked and slothful -servant, thou knewest that I reap where I sowed not, and gather where I did not scatter; 27 thou oughtest therefore to have put my money to the bankers, and at my coming I should have received back mine own with interest. 28 Take ye away therefore the talent from him, and give it unto him that hath the ten talents, 29 ''For unto every one that hath shall be given, and he shall have abundance: but from him that hath not, even that which he hath shall be taken away. 30 «And cast ye out the unprofitable -servant into the outer darkness: there shall be the weeping and gnashing' of teeth.
+14 <sup>c</sup>For it is as tchen a man, going into another country, called his own <sup>1</sup>servants, and delivered unto them his goods. 15 And unto one he gave five talents, to another two, to another one; to each according to his several ability; and he went on his journey. 16 Straightway he that received the five talents went and traded with them, and made other five talents. 17 In like manner he also that received the two gained other two. 18 But he that received the one went away and digged in the earth, and hid his lord's money. 19 Now after a long time the lord of those <sup>1</sup>servants cometh, and maketh a reckoning with them. 20 And he that received the five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents : lo, I have gained other five talents. 21 His lord said unto him. Well done, good and faithful <sup>2</sup>servant : thou hast been faithful over a few things, I will set thee over many things : enter thou into the joy of thy lord. 22 And he also that received the two talents came and said. Lord, thou deliveredst unto me two talents : lo, I have gained other two talents. 23 His lord said unto him, Well done, good and faithful <sup>2</sup> servant : thou hast been faithful over a few things, I will set thee over many things: enter thou into the joy of thy lord. 24 And he also that had received the one talent came and said. Lord, I knew thee that thou art a hard man, reaping where thou didst not sow, and gathering where thou didst not scatter : 25 and I was afraid, and went away and hid thy talent in the earth : lo, thou hast thine own. 26 But his lord answered and said unto him. Thou wicked and slothful <sup>2</sup>servant, thou knewest that I reap where I sowed not, and gather where I did not scatter; 27 thou oughtest therefore to have put my money to the bankers, and at my coming I should have received back mine own with interest. 28 Take ye away therefore the talent from him, and give it unto him that hath the ten talents, 29 <sup>d</sup>For unto every one that hath shall be given, and he shall have abundance: but from him that hath not, even that which he hath shall be taken away. 30 <sup>e</sup>And cast ye out the unprofitable <sup>2</sup>servant into the outer darkness: there shall be the weeping and gnashing<sup>1</sup> of teeth.
 
-31 But when the Son of man shall come in his glory, and all the angels with him,
+31 But when the Son of man shall come in his glory, and all the angels with him, <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> then shall he sit on the throne of his glory: 32 and before him shall be gathered all the nations : and he shall separate them one from another, as the shepherd separateth the sheep from the <sup>1</sup> goats: 33 and he shall set the sheep on his right hand, but the i goats on the left. 34 Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world : 35 for I was an hungred<sup>1</sup>, and ye gave me meat<sup>2</sup>: I was thirsty, and ye gave me drink : I was a stranger, and ye took me in; 36 naked, and ye clothed me : I was sick, and ye visited me : I was in prison, and ye came unto me. 37 Then shall the righteous answer him, saying, Lord, when saw we thee an hungred<sup>1</sup> and fed thee? or athirst, and gave thee drink? 38 And when saw we thee a stranger, and took thee in? or naked, and clothed thee? 39 And when saw we thee sick, or in prison, and came unto thee? 40 And the King shall answer and say unto them. Verily I say unto you, Inasmuch as ye did it unto one of these my brethren, even these least, ye did it unto me. 41 Then shall he say also unto them on the left hand, <sup>2</sup> Depart from me, ye cursed, into the eternal fire which is prepared for the devil and his angels: 42 for I was an hungred<sup>1</sup>, and ye gave me no meat<sup>4</sup>: I was <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> thirsty, and ye gave me no drink : 43 I was a stranger, and ye took me not in ; naked, and ye clothed me not ; sick, and in prison, and ye visited me not. 44 Then shall they also answer, saying. Lord, when saw we thee an hungred <sup>1</sup> or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee? 45 Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not unto one of these least, ye did it not unto me. 46 And these shall go away into eternal punishment : but the righteous into eternal life.
 
-ERV. mg. : » Gr. bondservants. ' Gr. bondservant.
-
-ARV. Ut.: » the gnashing
-
-• Lnke 13:25. Lord, open to us; and he shall answer and say to you, I know you not whence yo are. (§98)
-
-i.Cf. Matt. 24:42; Mark 13: 3.3, 35; Luke 21 : 36 (p. 191).
-
-cCf. Luke 19: 11-27. (§117)
-
-dMatt. 13:12. For whosoever hath to him shall be given, and ho shall have abundance: but whosoever f ath not, from him shall be taken away even that which he hath. (§67)
-
-dMark 4:2.'>. For he that hatli, to him shall be given: and ho that bath not, from him shall be taken away even that which he hath. (§57)
-
-dLuke 8: 18. For whosoever hath, to him shall be given; and whosoever hath not, from him shall bo taken away even that which he thinketh he hath. (§57)
-
-•iLuke 19:26. I say unto you, that unto every one that liath shall be given; but from him that hatli not even that which he hath shall be taken away from him. (ft 117)
-
-• Cf. Matt. 24 : 51 (p. 192), and references there.
-
-193
-
-§m
-
-THE PASSION WEEK— TUESDAY
-
-Matt. 25. then shall he sit on the throne of his glory: 32 and before him shall be gathered all the nations : and he shall separate them one from another, as the shepherd separateth the sheep from the ^ goats: 33 and he shall set the sheep on his right hand, but the i goats on the left. 34 Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world : 35 for I was an hungred', and ye gave me meat-: I was thirsty, and ye gave me drink : I was a stranger, and ye took me in; 36 naked, and ye clothed me : I was sick, and ye visited me : I was in prison, and ye came unto me. 37 Then shall the righteous answer him, saying, Lord, when saw we thee an hungred^ and fed thee? or athirst, and gave thee drink? 38 And when saw we thee a stranger, and took thee in? or naked, and clothed thee? 39 And when saw we thee sick, or in prison, and came unto thee? 40 And the King shall answer and say unto them. Verily I say unto you, Inasmuch as ye did it unto one of these my brethren, even these least, ye did it unto me. 41 Then shall he say also unto them on the left hand, ^ Depart from me, ye cursed, into the eternal fire which is prepared for the devil and his angels: 42 for I was an hungred', and ye gave me no meat*: I was
-
-Luke 2J
-
-ERV. mg. : ^ Gt. kids. <sup>1</sup> Or, Depart from me under a ourae
-
-ARV. txt, : 1 was hungry » to eat_ ' thee hungry * did not give me to eat
-
-<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
-
-Matt. 25.
-
-thirsty, and ye gave me no drink : 43 I was a stranger, and ye took me not in ; naked, and ye clothed me not ; sick, and in prison, and ye visited me not. 44 Then shall they also answer, saying. Lord, when saw we thee an hungred ^ or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee? 45 Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not unto one of these least, ye did it not unto me. 46 And these shall go away into eternal punishment : but the righteous into eternal Ufe.
-
-•■26:1 And it came to pass, when Jesus had finished all these words, he said unto his disciples, 2 Yo know that after two days the passover Cometh, and the Son of man is delivered up to be crucified .'• (§132)
-
-CCClUtkn:lt,M784
+“26:1 And it came to pass, when Jesus had finished all these words, he said unto his disciples, 2 Yo know that after two days the passover Cometh, and the Son of man is delivered up to be crucified .” (§132)
 
 Luke 21.
 
-37 And every day he waa ' teaching in the temple ; and every night he went out, and lodged in the mount that is called the mount of Olives'-'. 38 And all the people came early in the morning to him in the temple, to hear him.
+37 And every day he was teaching in the temple ; and every night he went out, and lodged in the mount that is called _the mount_ of Olives<sup>2</sup>. 38 And all the people came early in the morning to him in the temple, to hear him.
 
-§ 132. THE OONSPIEAOY BETWEEN THE CHIEF PRIESTS AND JUDAS.
+### § 132. THE CONSPIRACY BETWEEN THE CHIEF PRIESTS AND JUDAS.
 
-^tATT. 26 : 1-5, 14-16. 1 And it came to pass, when Jesus had finished all these words, he said unto his disciples, 2 Ye know that after two days the passover cometh, and the Son of man is delivered up to be crucified. 3
+Matt. 26 : 1-5, 14-16. | Mark 14:1,2,10,11. | Luke 22 : 1-6.
+--- | --- | ---
+1 And it came to pass, when Jesus had finished all these words, he said unto his disciples, 2 Ye know that after two days the passover cometh, and the Son of man is delivered up to be crucified. 3 <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> Then were gathered together the chief priests,and the elders of the people, unto the court of the high priest, who was called Caiaphas ; 4 and they took counsel together that they might take Jesus by subtilty, and kill him. 5 But they said. Not during the feast, lest a tumult arise among the people. (+§ 118) | 1 Now after two days was _the feast of_ the passover and the unleavened bread : and the chief priests and the scribes sought how they might take him with subtilty, and kill him : 2 for they said. Not during the feast, lest haply there shall be a tumult of the people. (+§118) | 1 Now the feast of unleavened bread drew nigh, which is called the Passover. 2 And the chief priests and the scribes sought how they might put him to death ; for they feared the people.
+14 Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, 15 and said. What are yo willing to give me, and I will deliver him unto you? And they weighed unto him thirty pieces of silver. 16 And from that time he sought opportunity to deliver him unto them. | 10 And Judas Iscariot, <sup>1</sup> he that was one of the twelve, went away unto the chief priests, that he might deliver him unto them. 11 And they, when they heard it, were glad, and promised to give him money. And he sought how he might conveniently deliver him _unto them_. | 3 And Satan entered into Judas who was called Iscariot, being of the number of the twelve. 4 And he went away, and communed with the chief priests and captains, how he might deliver him unto them. 5 And they were glad, and covenanted to give him money. 6 And he consented, and sought opportunity to deliver him unto them <sup>2</sup>in the absence of the multitude.
 
-Mark 14:1,2,10,11.
+**WEDNESDAY.** [No record.]
 
-1 Now after two days was the feast of the passover and the unleavened bread : and the chief priests and the scribes sought how they might take him with subtilty, and kill him : 2 for they said. Not
+**THURSDAY.** §§133-135.
 
-Luke 22 : 1-6.
+### § 133. THE LAST SUPPER.
 
-1 Now the feast of unleavened bread drew nigh, which is called the Passover. 2 And the chief priests and the scribes sought how they might put him to death ; for they feared the people.
+Matt. 26:17-30 | Mark 14:12-26. | Luke 22 : 7-30. | John 13:1-30.
+--- | --- | --- | ---
+17 Now on the first day of unleavened bread the disciples came to Jesus, saying, Where wilt thou that we make ready for thee to eat the passover? 18 And he said. Go into the city to such a man, and say unto him. The <sup>3</sup> Master <sup>1</sup> saith, My time is at hand ; I keep the pass <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> over at thy house with my disciples, 19 And the disciples did as Jesus appointed them; and they made ready the passover. | 12 And on the first day of unleavened bread, when they sacrificed the passover, his disciples say unto him, Where wilt thou that we go and make ready that thou mayest eat the passover? 13 And he sendeth two of his disciples, and saith unto them, Go into the city, and there shall meet you a man bearing a pitcher of water : follow him ; 14 and wheresoever he shall enter in, say to the goodman<sup>1</sup> of the house, The <sup>2</sup> Master <sup>2</sup> saith. Where is my guest-chamber, where I shall eat the passover with my disciples? 15 And he will himself shew you a large upper room furnished and ready : and there make ready for us. 16 And the disciples went forth, and came into the city, and found as he had said unto them : and they made ready the passover. | 7 And the day of unleavened bread came, on which the passover must be sacrificed. 8 And he sent Peter and John, saying, Go and make ready for us the passover, that we may eat. 9 And they said unto him, Where wilt thou that we make ready? 10 And he said unto them, Be hold, when ye are entered into the city, there shall meet you a man bearing a pitcher of water; follow him into the house whereinto he goeth. 11 And ye shall say unto the goodman<sup>1</sup> of the house. The <sup>2</sup> Master <sup>2</sup> saith unto thee,Where is the guest-chamber, where I shall eat the passover with my disciples? 12 And he will shew you a large upper room furnished: there make ready. 13 And they went, and found as he had said unto them : and they made ready the passover. | &nbsp;
+20 Now when even was come, he was sitting at meat with the twelve <sup>1</sup> disciples ; [Paragraph continaed on p 200.] [Cf. ver. 20, p. 203.] | 17 And when it was evening he cometh with the twelve. [Paragraph continaed on p. 200.] [Cf. ver. 25, p. 203.] | 14: And when the hour was come, he sat down, and the apostles with him. 16 And he said unto them. With desire I have desired to eat this passover with you before I suffer : 16 for I say unto you, I will<sup>3</sup> not eat it, until it be fulfilled in the kingdom of God. 17 And he received a cup, and when he had given thanks, he said. Take this, and divide it among yourselves : 18 for I say unto you, I will<sup>3</sup> not drink from henceforth of the fruit of the vine, until the kingdom of God shall come. [Paragraph continued on p. 201.] | &nbsp;
+&nbsp; | &nbsp; | &nbsp; | <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 1 Now before the feast of the passover, Jesus knowing that his hour was come that he should depart out of this world unto the Father, having loved his own which <sup>1</sup> were in the world, he loved them <sup>1</sup> unto the end. 2 And during supper, the devil having already put into the heart of Judas Iscariot, Simon's _son_, to betray him, 3 _Jesus_, knowing that the Father had given all things into his hands, and that he came forth from God, and goeth unto God, 4 riseth from supper, and layeth aside his garments ; and he took a towel, and girded himself. 5 Then he poureth water into the bason, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded. 6 So he Cometh to Simon Peter. He saith unto him, Lord, dost thou wash my feet? 7 Jesus answered and said unto him. What I do thou knowest not now ; but thou shalt understand hereafter. 8 Peter saith unto him, Thou shalt never wash my feet. Jesus <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> answered him, If I wash thee not, thou hast no part with me. 9 Simon Peter saith unto him. Lord, not my feet only, but also my hands and my head. 10 Jesus saith to him. He that is bathed needeth not <sup>1</sup> save to wash his feet, but is clean every whit : and ye are clean, but not all. 11 For he knew him that should betray him ; therefore said he. Ye are not all clean.<br>12 So when he had washed their feet, and taken his garments, and <sup>2</sup>sat down again, he said unto them. Know ye what I have done to you? 13 Ye call me, <sup>3</sup> Master <sup>1</sup>, and. Lord: and yesay well; for so I am. 14 If I then, the Lord and the <sup>3</sup>Master<sup>1</sup>, have washed your feet, ye also ought to wash one another's feet. 15 For I have given you an example, that ye also should do as I have done to you. 16 <sup>a</sup>Verily, verily, I say unto you, A <sup>4</sup>servant is not greater than his lord ; neither <sup>5</sup> one that <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> is sent greater than he that sent him. 17 If ye know these things, blessed are ye if ye do them. 18 I speak not of you all: I know whom I <sup>2</sup>have chosen : but that the scripture may be fulfilled. He that eateth <sup>3</sup>my bread lifted up his heel against me. 19 From henceforth I tell you before it come to pass, that, when it is come to pass, ye may believe that <sup>4</sup>I am _he_. 20 <sup>a</sup> Verily, verily, I say unto you. He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
+21 and as they were eating, he said, Verily I say unto you, that one of you shall betray me. 22 And they were exceedihg sorrowful, and began to say unto him every one. Is it I, Lord ? 23 And he answered and said. He that dipped his hand with me in the dish, the same shall betray me. 24 The Son of <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> man goeth, even as it is written of him : but woe unto that man through whom the Son of man is betrayed ! good were it <sup>1</sup>for that man if he had not been born. 25 And Judas, which<sup>1</sup> betrayed him, answered and said, Is it I, Rabbi? He saith unto him. Thou hast said. | 18 And as they <sup>1</sup>sat and were eating, Jesus said, Verily I say unto you, One of you shall betray me, even he that eateth with me. 19 They began to be sorrowful, and to say unto him one by one. Is it I ? 20 And he said unto them. It is one of the twelve, he that dippeth with me in the dish. 21 For the Son of man goeth, even as it is written of him : but woe unto that man through whom the Son of man is betrayed ! good were it <sup>1</sup> for that man if he had not been born. | 21 But behold, the hand of him that betrayeth me is with me on the table. 22 For the Son of man indeed goeth, as it hath been determined: but woe untothat man through whom he is betrayed ! 23 And they began to question among themselves, which of them it was that should do this thing. | 21 When Jesus had thus said, he was troubled in the spirit, and testified, and said. Verily, verily, I say unto you, that one of you shall betray me. 22 The disciples looked one on another, doubting of whom he spake. 23 There was at the table reclining in Jesus' bosom one of his disciples, whom Jesus loved. 24 Simon Peter therefore beckoneth to him, and saith unto him. Tell us who it is of whom he speaketh. 25 He leaning back, as he was, on Jesus' breast saith unto him. Lord, who is it? 26 Jesus therefore answereth, He it is, for whom I shall dip the sop, and give it him. So when he had dipped the sop, he taketh and giveth it to Judas, the son of Simon Iscariot. 27 And after the sop, then entered Satan into him. Jesus therefore saith unto him, That 3 thou doest, do quickly. 28 Now no man at the table knew for what intent he spake this unto him. 29 For some thought, because Judas had the <sup>3</sup>bag, that Jesus said unto him, Buy what things we have need of for the feast; or, that he should give something to the poor. 30 He then having received the sop went out straightway : and it was night.
+&nbsp; | &nbsp; | 24 And there arose also a contention among them, which of them is^ accounted to be 2 greatest, 25 And he said unto them, <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> <sup>a</sup> The kings of the Gentiles have lordship over them ; and they that have authority over them are called Benefactors. 26 But ye shall not be so : <sup>b</sup>but he that is the greater among you, let him become as the younger; and he that is chief, as he that doth serve. 27 For whether<sup>1</sup> is greater, he that ^sitteth at meat, or he that serveth? is not he that <sup>2</sup>sitteth at meat? but I am in the midst of you as he that serveth. 28 But ye are they which<sup>2</sup> have continued with me in my temptations ; 29 and 3 I appoint unto you a kingdom, even as my Father appointed unto me, 30 that ye may eat and drink at my table in my kingdom ; <sup>c</sup>and ye shall sit on thrones judging the twelve tribes of Israel. [Paragraph continued in § 134.] | &nbsp;
+26 And as they were eating, Jesus took <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> <sup>1</sup>bread, and blessed, and brake it; and he gave to the disciples, and said. Take, eat ; this is my body. 27 And he took <sup>2</sup>a cup, and gave thanks, and gave to them, saying. Drink ye all of it; 28 for this is my blood of <sup>3</sup>the <sup>4</sup>covenant, which is shed<sup>1</sup> for many unto remission of sins. 29 But I say unto you, I will<sup>2</sup> not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom. 30 And when they had sung a hymn, they went out unto the mount of Olives. | 22 And as they were eating, he took <sup>1</sup>bread, and when he had blessed, he brake it, and gave to them, and said. Take ye : this is my body. 23 And he took a cup, and when he had given thanks, he gave to them : and they all drank of it. 24 And he said unto them, This is my blood of <sup>3</sup>the <sup>4</sup> covenant, which is shed<sup>1</sup> for many. 25 Verily I say unto you, I will<sup>2</sup> no more drink of the fruit of the vine, until that day when I drink it new in the kingdom of God. 26 And when they had sung a hymn, they went out unto the mount of Olives. | 19 And he took <sup>1</sup>bread, and when he had given thanks, he brake it, and gave to them, saying, This is my body <sup>5</sup> which is given for you : this do in remembrance of me. 20 And the cup in like manner after supper, saying, This cup is the new <sup>6</sup>covenant in my blood, _even_ that which is poured out for you. [Remainder of paragraph on p. 200.] [Cf. ver. 18, p. 187.] | &nbsp;
 
-ARV. txt. : I thee hiiDsnr * called Olivet
 
-195
+### § 134. CHRIST'S FAREWELL DISCOURSES.
 
-§132
 
-THE PASSION WEEK— TUESDAY
-
-Matt. 26.
-
-Then were gathered together the chief priests,and the elders of the people, unto the court of the high priest, who was called Caiaphas ; 4 and they took counsel together that they might take Jesus by subtilty, and kill him. 5 But they said. Not during the feast, lest a tumult arise among the people. {-{■ § 118)
-
-14 Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, 15 and said. What are yo willing to give me, and I will deliver him unto you? And they weighed unto him thirty pieces of silver. 16 And from that time he sought opportunity to deliver him unto them.
-
-Mabk 14.
-
-during the feast, lest haply there shall be a tumult of the people. (+§118)
-
-10 And Judas Iscariot, ' he that was one of the twelve, went away unto the chief priests, that he might deliver him unto them. 11 And they, when they heard it, were glad, and promised to give him money. And he sought how he might conveniently deliver him unto them.
-
-Luke 22.
-
-3 And Satan entered into Judas who was called Iscariot, being of the number of the tweh'e. 4 And he went away, and communed with the chief priests and captains, how he might deliver him unto them.
-
-5 And they were glad, and covenanted to give him money.
-
-6 And he consented, and sought opportunity to deliver him unto them ^in the absence of the multitude.
-
-WEDNESDAY. [No record.]
-
-MATT,26:17-3a
-
-17 Now on the first day of unleavened bread the disciples came to Jesus, saying, Where wilt thou that we make ready for thee to eat the passover? 18 And he said. Go into the city to such a man, and say unto him. The ^ Master i saith, My time is at hand ; I keep the pass
-
-THUKSDAY. §§133-135. § 133. THE LAST SUPPER.
-
-Mark 14:12-26.
-
-12 And on the first day of unleavened bread, when they sacrificed the passover, his disciples say unto him, Where wilt thou that we go and make ready that thou mayest eat the passover? 13 And he sendeth two of his disciples, and saith unto them, Go into the city, and
-
-Luke 22 : 7-30. 7 And the day of unleavened bread came, on which the passover must be sacrificed. 8 And he sent Peter and John, saying, Go and make ready for us the passover, that we may eat. 9 And they said unto him, Where wilt thou that we make ready? 10 And he said unto them, Be
-
-JoHN 13:1-30.
-
-the one of the twelve. ' Or, without tumult
-
-ARV. txt. ; 1 Teacher
-
-<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
-
-§133
-
-Matt. 26.
-
-over at thy house with my disciples, 19 And the disciples did as Jesus appointed them; and they made ready the passover.
-
-20 Now when even was come, he was sit ting at meat with the twelve ^ disciples ;
-
-[Paragraph continaed on p 200.]
-
-let. fer. 20, p. 203.]
-
-Mask 14.
-
-there shall meet you a man bearing a pitcher of water : follow him ; 14 and wheresoever he shall enter in, say to the goodman' of the house, The ^ Master ^ saith. Where is my guest-chamber, where I shall eat the passover with my disciples? 15 And he will himself shew you a large upper room furnished and ready : and there make ready for us. 16 And the disciples went forth, and came into the city, and found as he had said unto them : and they made ready the passover.
-
-17 And when it was evening he cometh with the twelve.
-
-.[Paragraph continaed on p. 200.]
-
-[If. ver. 25, p. 203.]
-
-Luke 22.
-
-hold, when ye are entered into the city, there shall meet you a man bearing a pitcher of water; follow him into the house whereinto he goeth. 11 And ye shall say unto the goodman' of the house. The ^ Master 2 saith unto thee,Where is the guest-chamber, where I shall eat the passover with my disciples? 12 And he will shew you a large upper room furnished: there make ready. 13 And they went, and found as he had said unto them : and they made ready the passover.
-
-14: And when the hour was come, he sat down, and the apostles with him. 16 And he said unto them. With desire I have desired to eat this passover with you before I suffer : 16 for I say unto you, I will* not eat it, until it be fulfilled in the kingdom of God.
-
-17 And he received a cup, and when he had given thanks, he said. Take this, and divide it among yourselves :
-
-18 for I say unto you, I will* not drink from henceforth of the fruit of the vine, until the kingdom of God shall come.
-
-[Paragraph continued on p. 201.]
-
-John 13.
-
-ERV. 0i|c : 1 Many anthoritii
-
-! anrient, omit diaciplea. ' Or, Teacher
-
-AHT. tit.: > master 'Teacher
-
-197
-
-§133
-
-THE PASSION WEEK — THURSDAY
-
-Matt. 26.
-
-Maek 14.
-
-LuEE 22.
-
-John 13.
-
-1 Now before the feast of the passover, Jesus knowing that his hour was come that he should depart out of this world unto the Father, having loved his own which • were in the world, he loved them ^ unto the end. 2 And during supper, the devil having already put into the heart of Judas Iscariot, Simon's son, to betray him, 3 Jesus, knowing that the Father had given all things into his hands, and that he came forth from God, and goeth unto God, 4 riseth from supper, and layeth aside his garments ; and he took a towel, and girded himself. 5 Then he poureth water into the bason, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded.
-
-6 So he Cometh to Simon Peter. He saith unto him, Lord, dost thou wash my feet?
-
-7 Jesus answered and said unto him. What I do thou knowest not now ; but thou shalt understand hereafter.
-
-8 Peter saith unto him, Thou shalt never wash my feet. Jesus
-
-ERV. mg. : i Or, to the uttermost
-
-<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
-
-§133
-
-Matt. 26.
-
-Mark 14.
-
-Luke 22.
-
-John 13. answered him, If I wash thee not, thou hast no part with me. 9 Simon Peter saith unto him. Lord, not my feet only, but also my hands and my head. 10 Jesus saith to him. He that is bathed needeth not ' save to wash his feet, but is clean every whit : and ye are clean, but not all. 11 For he knew him that should betray him ; therefore said he. Ye are not all clean.
-
-12 So when he had washed their feet, and taken his garments, and ^sat down again, he said unto them. Know ye what I have done to you? 13 Ye call me, ^ Master ', and. Lord: and yesay well; for so I am. 14 If I then, the Lord and the ^Master', have washed your feet, ye also ought to wash one another's feet. 15 For I have given you an example, that ye also should do as I have done to you. 16 "Verily, verily, I say unto you, A ^servant is not greater than his lord ; neither ^ one that
-
-ERV. mg. : « Some ancient authorities omit gawe, »nd /i/s/ee*. ^ Or. reclined. <sup>1</sup> Or, Teacher * Gr. bondservant. 'Gr. an apostle. ARV. txt: » Teacher
-
-»Matt. 10:24. A disciple is not above his master, nor a servant above his lord. (§64)
-
-• Luke 6:40. The disciple is not above his master: but everyone when he is perfected shall be as his master. (§49)
-
-« John 15 : 20. Bemember the word that I said unto you, A servant is not greater than his lord. (§ 131)
-
-199
-
-§133
-
-THE PASSION WEEK— THURSDAY
-
-Matt. 26.
-
-21 and as they were eating, he said, Verily I say unto you, that one of you shall betray me. 22 And they were exceedihg sorrowful, and began to say unto him every one. Is it I, Lord ? 23 And he answered and said. He that dipped his hand with me in the dish, the same shall betray me. 24 The Son of
-
-Mark 14.
-
-18 And as they 'sat and were eating, Jesus said, Verily I say unto you, One of you shall betray me, even he that eateth with me. 19 They began to be sorrowful, and to say unto him one by one. Is it I ? 20 And he said unto them. It is one of the twelve, he that dippeth with me in the dish. 21 For the
-
-Luke 22.
-
-21 But behold, the hand of him that betrayeth me is with me on the table. 22 For the Son of man indeed goeth, as it hath been determined: but woe untothat man through whom he is betrayed ! 23 And they began to question among themselves, which of them it was that should do this thing.
-
-John 13. is sent greater than he that sent him. 17 If ye know these things, blessed are ye if ye do them. 18 I speak not of you all: I know whom I -have chosen : but that the scripture may be fulfilled. He that eateth 'my bread lifted up his heel against me.
-
-19 From henceforth I tell you before it come to pass, that, when it is come to pass, ye may believe that ^I am he.
-
-20 * Verily, verily, I say unto you. He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
-
-21 When Jesus had thus said, he was troubled in the spirit, and testified, and said. Verily, verily, I say unto you, that one of you shall betray me. 22 The disciples looked one on another, doubting of whom he spake. 23 There was at the table reclining in Jesus' bosom one of his disciples, whom Jesus loved. 24 Si
-
-ERV. mg. : i Gr. reclined. ' Or, chose ^ Many ancient authorities read his bread with me. * Or, / am
-
-a Matt. 10:40. He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me. (§64)
-
-a Matt. 18: 5. And whoso shall receive one such little child in my name, receiveth me. (§81)
-
-a Mark 9:37. Whosoever shall receive one of such little children in my name, receiveth me: and whosoever receiveth me, receiveth not me, but him that sent me. (§81)
-
-a Luke 9:48. Whosoever shall receive this little child in my name receiveth me: and whosoever receiveth me receiveth him that sent me. (§81)
-
-a Luke 10:16. He that heareth you heareth me; and he that rejecteth you rejecteth me; and he that rejecteth me rejecteth him that sent me. (§87)
-
-<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
-
-§133
-
-Matt. 26,
-
-man goeth, even as it is written of him : but woe unto that man through whom the Son of man is betrayed ! good were it ■for that man if he had not been born. 25 And Judas, which' betrayed him, answered and said, Is it I, Rabbi? He saith unto him. Thou hast said.
-
-Mark 14.
-
-Son of man goeth, even as it is written of him : but woe unto that man through whom the Son of man is betrayed ! good were it ' for that man if he had not been born.
-
-Luke 22.
-
-24 And there arose also a contention among them, which of them is^ accounted to be 2 greatest, 25 And he said unto them,
-
-John 13.
-
-mon Peter therefore beckoneth to him, and saith unto him. Tell us who it is of whom he speaketh. 25 He leaning back, as he was, on Jesus' breast saith unto him. Lord, who is it? 26 Jesus therefore answereth, He it is, for whom I shall dip the sop, and give it him. So when he had dipped the sop, he taketh and giveth it to Judas, the son of Simon Iscariot. 27 And after the sop, then entered Satan into him. Jesus therefore saith unto him, That 3 thou doest, do quickly. 28 Now no man at the table knew for what intent he spake this unto him. 29 For some thought, because Judas had the ^bag, that Jesus said unto him, Buy what things we have need of for the feast; or, that he should give something to the poor. 30 He then having received the sop went out straightway : and it was night.
-
-EKT. mg. : * Or. for him if that mav. ' lir. greater. 'Or, box ART. txt. : > who « WH > Wh*t
-
-201
-
-§133
-
-THE PASSION WEEK— THURSDAY
-
-Matt, 26.
-
-26 Andasthdy were eating, Jesus took
-
-Mark 14.
-
-22 And as they were eating, he took 'bread,
-
-LuEE 22.
-
-» The kings of the Gentiles have lordship over them ; and they that have authority over them are called Benefactors. 26 But ye shall not be so : ''but he that is the greater among you, let him become as the younger; and he that is chief, as he that doth serve. 27 For whether' is greater, he that ^sitteth at meat, or he that serveth? is not he that ^gitteth at meat? but I am in the midst of you as he that serveth. 28 But ye are they which^ have continued with me in my temptations ; 29 and 3 1 appoint unto you a kingdom, even as my Father appointed unto me, 30 that ye may eat and drink at my table in my kingdom ; <=and ye shall sit on thrones judging the twelve tribes of Israel.
-
-[Paragraph continued in 1 134.]
-
-19 And he took 'bread, and when he
-
-ERV. mg. : > Or, a loaf ' Gr. reclineth. <sup>1</sup> Or, I appoint unto you, even as my Father appointed unto me a kingdom, that ye may eat and drink, dc.
-
-ARV. txt, : 1 which 2 that
-
-a Matt. 20: 25-27. Ye know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them. 26 Not so shall it bo among you: but whosoever would become great among you shall be your minister; 27 and whosoever would be first among you shall be your servant. (§114)
-
-a Mark 10 : 42-44. Ye know that they which are accounted to rule over the Gentiles lord it over them ; and their great ones exercise authority over them. 43 But it is not so among you: but whosoever would become great among you, shall be your minister: 44 and whosoever would be first among you, shall be servant of aU. (§114)
-
-b Matt. 23 : 11. But he that is greatest among you shall be your servant. (§ 127)
-
-t Mark 9 : 35. If any man would be first, he shall be last of all, and minister of all. (§ 81)
-
-b Luke 9 : 48. For he that is least among you all, tlie same is great. (§ 81)
-
-cMatt. 19 : 28. Ye also shall sit on thrones, judging the twelve tribes of Israel. (§ 112)
-
-<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
-
-§134
-
-Matt. 26. 'bread, and blessed, and brake it; and he gave to the disciples, and said. Take, eat ; this is my body. 27 And he took ^a cup, and gave thanks, and gave to them, saying. Drink ye all of it; 28 for this is my blood of ^the ^covenant, which is shed' for many unto remission of sins. 29 But I say unto you, I wilP not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.
-
-30 And when they had sungahymn, they went out unto the mount of Olives.
-
-Mark 14.
-
-and when he had blessed, he brake it, and gave to them, and said. Take ye : this is my body. 23 And he took a cup, and when he had given thanks, he gave to them : and they all drank of it. 24 And he said unto them, This is my blood of ^the * covenant, which is shed' for many. 25 Verily I say unto you, I wilP no more drink of the fruit of the vine, until that day when I drink it new in the kingdom of God.
-
-26 And when they had sung a hymn, they went out unto the mount of Olives.
-
-Luke 22. had given thanks, he brake it, and gave to them, saying, This is my body * which is given for you : this do in remembrance of me. 20 And the cup in like manner after supper, saying, This cup is the new ^covenant in my hloo6,even that which is poured out for you.
-
-[Remainder of paragraph on p. 20O.]
-
-[Cf. Ter. 18, p. 187.]
-
-Matt. 26 : 31-35.
-
-§ 134. CHRIST'S FAREWELL DISCOURSES.
-
-Makk 14:27-31.
-
-Luke 22 : 31-38.
-
-John 13:31—16:33.
-
-31 When therefore he was gone out, Jesus saith, Now 'is the Son of man glorified, and God 'is glorified in him ; 32 and God shall glorify him in himself, and straightway shall he glorify him. 33 Little children, yet a little while I am with you. Ye shall seek me : and as I said unto the Jews, Whither I go, ye cannot come ; so now I say unto you.
-
-ERV. mg. : » Or, a loaf ' Some ancient authorities read the cup. " Or, the testament * Many ancient authorities insert new. ancient authorities omit which is given for you . . . which is poured out for you. ' Or, testament ' Or, tens
-
-ART. tzt. : 1 poured out 3 shall
-
-2a3
-
-§134
-
-THE PASSION WEEK —THURSDAY
-
-Matt. 26.
-
-31 Then saith Jesus unto them, All ye shall be 'offended in me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad. 32 But after I am raised up, I will go before you into Galilee. 33 But Peter answered and said unto him, If all shall be 'offended in thee, I will never be 'offended. 34 Jesus said unto him, Verily I say unto thee, that this night, before the cock crow, thou shalt deny me thrice. 35 Peter saith unto him. Even if I must die with thee, yet will I not deny thee. Likewise also said all the disciples.
-
-Make 14.
-
-27 And Jesus saith unto them, All ye shall be 'offended : for it is written, I will smite the shepherd, and the sheep shall be scattered abroad. 28 Howbeit, after I am raised up, I will go before you into Galilee. 29 But Peter said unto him. Although all shall be ' offended, yet will not I. 30 And Jesus saith unto him. Verily I say unto thee, that thou to-day, even this night, before the cock crow twice, shalt deny me thrice. 31 But he spake exceeding vehemently, If I must die with thee, I will not deny thee. And in like manner also said they all.
-
-LUKK
-
-31 Simon, Simon, behold, Satan ^ asked to have you, that he might sift you as wheat : 32 but I made supplication for thee, that thy faith fail not: and do thou, when once thou hast turned again, stablish ' thy brethren. 33 And he said unto him, Lord, with thee I am ready to go both to prison and to death. 34 And he said, I tell thee, Peter, the cock shall not crow this day, until thou shalt thrice deny that thou knowest me.
-
-35 And he said unto them. When I sent you forth without purse, and wallet, and shoes, lacked ye anything? And they said. Nothing. 36 And he
-
-John 13. 34 A new commandment I give unto you, that ye love one another ; 'even as I have loved you, that ye also love one another. 35 By this shall all men know that ye are my disciples, if ye have love one to another.
-
-36 Simon Peter saith unto him, Lord, whither goest thou? Jesus answered, Whither I go, thou canst not follow me now; but thou shalt follow afterwards. 37 Peter saith unto him. Lord, why cannot I follow thee even now? I will lay down my life for thee. 38 Jesus answereth, Wilt thou lay down thy life for me? Verily, verily, I say unto thee. The cock shall not crow, till thou hast denied me thrice.
-
-ERV. mg. : » Gr. canted to stumble. ' Or, obtained you by asking ' Or, even at I loved you, that ye may alto love one another
-
-ART. txt. : 1 eateblish
-
-<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
-
-§134
-
-Luke 22. said unto them, But now, he that hath a purse, let him take it, and likewise a wallet : 'and he that hath none, let him sell his cloke,and buy a sword. 37 For I say unto you, that this which is written must be fulfilled in me, And he was reckoned with transgressors : for that which concerneth me hath 2 fulfilment. 38 And they said, Lord, behold, here are two swords. And he said unto them, It is enough.
-
-John 14.
-
-14: 1 Let not your heart be troubled: *ye* believe in God, believe also in me. 2 In my Father's house are many * mansions ; it it were not so, I would have told you ; for I go to prepare a place for you. 3 And if I go and prepare a place for you, I come again, and will receive you unto myself ; that where I am, there ye may be also. 4 ^And whither I go, ye know the way. 5 Thomas saith unto him. Lord, we know not whither thou goest ; how know we the way? 6 Jesus saith unto him, I am the way, and the truth,
-
-ERV. mg.: <sup>1</sup> Or, and he that hath no Bteord, let him tell ht$ cloke. and buy one. 'Or. end. 'Or, believe in God * Or, abidingplaces. • Mui7 ancient authorities read And whither I go v hn<>u\ anil the tray ye know.
-
-205
-
-§134 THE PASSION WEEK— THURSDAY
-
-John 14.
-
-and the life: no one cometh unto the Father, but ^by me. 7 If ye had known me, ye would have known my Father also : from henceforth ye know him, and have seen him. 8 Philip saith unto him, Lord, shew us the Father, and it sufRceth us. 9 Jesus saith unto him. Have I been so long time with you, and dost thou not know me, Philip? he that hath seen me hath seen the Father; how sayest thou. Shew us the Father? 10 Believest thou not that I am in the Father, and the Father in me? the words that I say unto you I speak not from myself: but the Father abiding in me doeth his works. 11 Believe me that I am in the Father, and the Father in me : or else believe me for the very works' sake. 12 Verily, verily, I say unto you. He that believeth on me, the works that I do shall he do also ; and greater works than these shall he do ; because I go unto the Father. 13 And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son. 14 If ye shall ask ^me' anything in my name, that will X do. 15 If ye love me, ye will keep my commandments. 16 And I will ^pray the Father, and he shall give you another * Comforter, that he may be with you for ever, 17 even the Spirit of truth : whom the world cannot receive ; for it beholdeth him not, neither knoweth him : ye know him ; for he abide th with you, and shall be in you. 18 I will not leave you ^desolate: I come unto you. 19 Yet a little while, and the world beholdeth me no more ; but ye behold me : because I live, <sup>1</sup>ye shall live also. 20 In that day ye shall know that I am in my Father, and ye in me, and I in you. 21 He that hath my commandments, and keepeth them, he it is that loveth me : and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself unto him. 22 Judas (not Iscariot) saith unto him, Lord, what is come to pass that thou wilt manifest thyself unto us, and not unto the world? 23 Jesus answered and said unto him. If a man love me, he will keep my word : and my Father will love him, and we will come unto him, and make our abode with him. 24 He that loveth me not keepeth not my words : and the word which ye hear is not mine, but the Father's who sent me.
-
-25 These things have I spoken unto you, while yet abiding with you. 26 But the * Comforter, even the Holy Spirit, whom the Father will send in my name, he shall teach you all things, and bring to your remembrance all that I said unto you. 27 Peace I leave with you ; my peace I give unto you : not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be fearful. 28 Ye heard how I said to you, I go away, and I come unto you. If ye loved me, ye would have rejoiced, because I go unto the Father : for the Father is greater than I. 29 And now I have told you before it come to pass, that, when it is come to pass, ye may believe. 30 I will no more speak much with you, for the prince of the world cometh : and he hath nothing in me ; 31 but that the world may know that I love the Father, and as the Father gave me commandment, even so I do. Arise, let us go hence.
-
-15:11 am the true vine, and my Father is the husbandman. 2 Every branch in me that beareth not fruit, he taketh it away : and every branch that beareth fruit, he cleanseth it, that it may bear more fruit. 3 Already ye are clean because of the word which I have spoken unto you. 4 Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine ; so neither "can ye, except ye abide in me. 5 I am the vine, ye are the branches : He that abideth in me, and I in him, the same beareth much fruit : for apart from me ye can do nothing. 6 If a man abide not in me, he is cast forth as a branch, and is withered ; and they gather them, and cast them into the fire, and they are burned.
-
-ERV. mg.: <sup>1</sup> Or, through 2 Many ancient authorities omit me. ^ Gr. make request of. * Or, Advocate Or, Helper Gr. Paraclete. 6 Or, orphan* <sup>1</sup> Or, and ye shall live
-
-ARV. txt. : 1 Omit mo
+Matt. 26 : 31-35. | Mark 14:27-31. | Luke 22 : 31-38. | John 13:31—16:33.
+--- | --- | --- | ---
+&nbsp; | &nbsp; | &nbsp; | 31 When therefore he was gone out, Jesus saith, Now <sup>7</sup>is the Son of man glorified, and God <sup>7</sup>is glorified in him ; 32 and God shall glorify him in himself, and straightway shall he glorify him. 33 Little children, yet a little while I am with you. Ye shall seek me : and as I said unto the Jews, Whither I go, ye cannot come ; so now I say unto you. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 34 A new commandment I give unto you, that ye love one another ; 'even as I have loved you, that ye also love one another. 35 By this shall all men know that ye are my disciples, if ye have love one to another.
+31 Then saith Jesus unto them, All ye shall be <sup>1</sup>offended in me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad. 32 But after I am raised up, I will go before you into Galilee. 33 But Peter answered and said unto him, If all shall be <sup>1</sup>offended in thee, I will never be <sup>1</sup>offended. 34 Jesus said unto him, Verily I say unto thee, that this night, before the cock crow, thou shalt deny me thrice. 35 Peter saith unto him. Even if I must die with thee, yet will I not deny thee. Likewise also said all the disciples. | 27 And Jesus saith unto them, All ye shall be <sup>1</sup>offended : for it is written, I will smite the shepherd, and the sheep shall be scattered abroad. 28 Howbeit, after I am raised up, I will go before you into Galilee. 29 But Peter said unto him. Although all shall be <sup>1</sup> offended, yet will not I. 30 And Jesus saith unto him. Verily I say unto thee, that thou to-day, even this night, before the cock crow twice, shalt deny me thrice. 31 But he spake exceeding vehemently, If I must die with thee, I will not deny thee. And in like manner also said they all. | 31 Simon, Simon, behold, Satan <sup>2</sup> asked to have you, that he might sift you as wheat : 32 but I made supplication for thee, that thy faith fail not: and do thou, when once thou hast turned again, stablish <sup>1</sup> thy brethren. 33 And he said unto him, Lord, with thee I am ready to go both to prison and to death. 34 And he said, I tell thee, Peter, the cock shall not crow this day, until thou shalt thrice deny that thou knowest me. | 36 Simon Peter saith unto him, Lord, whither goest thou? Jesus answered, Whither I go, thou canst not follow me now; but thou shalt follow afterwards. 37 Peter saith unto him. Lord, why cannot I follow thee even now? I will lay down my life for thee. 38 Jesus answereth, Wilt thou lay down thy life for me? Verily, verily, I say unto thee. The cock shall not crow, till thou hast denied me thrice.
+&nbsp; | &nbsp; | 35 And he said unto them. When I sent you forth without purse, and wallet, and shoes, lacked ye anything? And they said. Nothing. 36 And he <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>  said unto them, But now, he that hath a purse, let him take it, and likewise a wallet : <sup>1</sup>and he that hath none, let him sell his cloke,and buy a sword. 37 For I say unto you, that this which is written must be fulfilled in me, And he was reckoned with transgressors : for that which concerneth me hath 2 fulfilment. 38 And they said, Lord, behold, here are two swords. And he said unto them, It is enough. | &nbsp;
+&nbsp; | &nbsp; | &nbsp; | 14: 1 Let not your heart be troubled: <sup>3</sup>ye<sup>1</sup> believe in God, believe also in me. 2 In my Father's house are many <sup>4</sup> mansions ; it it were not so, I would have told you ; for I go to prepare a place for you. 3 And if I go and prepare a place for you, I come again, and will receive you unto myself ; that where I am, _there_ ye may be also. 4 <sup>5</sup>And whither I go, ye know the way. 5 Thomas saith unto him. Lord, we know not whither thou goest ; how know we the way? 6 Jesus saith unto him, I am the way, and the truth, . . . 
 
 <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
+John 14.
+
+and the life: no one cometh unto the Father, but <sup>1</sup>by me. 7 If ye had known me, ye would have known my Father also : from henceforth ye know him, and have seen him. 8 Philip saith unto him, Lord, shew us the Father, and it sufRceth us. 9 Jesus saith unto him. Have I been so long time with you, and dost thou not know me, Philip? he that hath seen me hath seen the Father; how sayest thou. Shew us the Father? 10 Believest thou not that I am in the Father, and the Father in me? the words that I say unto you I speak not from myself: but the Father abiding in me doeth his works. 11 Believe me that I am in the Father, and the Father in me : or else believe me for the very works' sake. 12 Verily, verily, I say unto you. He that believeth on me, the works that I do shall he do also ; and greater _works_ than these shall he do ; because I go unto the Father. 13 And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son. 14 If ye shall ask <sup>2</sup>me<sup>1</sup> anything in my name, that will I do. 15 If ye love me, ye will keep my commandments. 16 And I will <sup>3</sup>pray the Father, and he shall give you another <sup>4</sup> Comforter, that he may be with you for ever, 17 even the Spirit of truth : whom the world cannot receive ; for it beholdeth him not, neither knoweth him : ye know him ; for he abide th with you, and shall be in you. 18 I will not leave you <sup>5</sup>desolate: I come unto you. 19 Yet a little while, and the world beholdeth me no more ; but ye behold me : because I live, <sup>6</sup>ye shall live also. 20 In that day ye shall know that I am in my Father, and ye in me, and I in you. 21 He that hath my commandments, and keepeth them, he it is that loveth me : and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself unto him. 22 Judas (not Iscariot) saith unto him, Lord, what is come to pass that thou wilt manifest thyself unto us, and not unto the world? 23 Jesus answered and said unto him. If a man love me, he will keep my word : and my Father will love him, and we will come unto him, and make our abode with him. 24 He that loveth me not keepeth not my words : and the word which ye hear is not mine, but the Father's who sent me.
+
+25 These things have I spoken unto you, while yet abiding with you. 26 But the <sup>4</sup> Comforter, even the Holy Spirit, whom the Father will send in my name, he shall teach you all things, and bring to your remembrance all that I said unto you. 27 Peace I leave with you ; my peace I give unto you : not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be fearful. 28 Ye heard how I said to you, I go away, and I come unto you. If ye loved me, ye would have rejoiced, because I go unto the Father : for the Father is greater than I. 29 And now I have told you before it come to pass, that, when it is come to pass, ye may believe. 30 I will no more speak much with you, for the prince of the world cometh : and he hath nothing in me ; 31 but that the world may know that I love the Father, and as the Father gave me commandment, even so I do. Arise, let us go hence.
+
+15:1 I am the true vine, and my Father is the husbandman. 2 Every branch in me that beareth not fruit, he taketh it away : and every branch that beareth fruit, he cleanseth it, that it may bear more fruit. 3 Already ye are clean because of the word which I have spoken unto you. 4 Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine ; so neither can ye, except ye abide in me. 5 I am the vine, ye are the branches : He that abideth in me, and I in him, the same beareth much fruit : for apart from me ye can do nothing. 6 If a man abide not in me, he is cast forth as a branch, and is withered ; and they gather them, and cast them into the fire, and they are burned.
+
+
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
+
 John 15.
 
-7 If ye abide in me, and nay words abide in you, ask whatsoever ye will, and it shall be done unto you. 8 Herein 'is my Father glorified, ^that ye bear much fruit; and so shall ye be my disciples. 9 Even as the Father hath loved me, I also have loved you : abide ye in my love. 10 If ye keep my commandments, ye shall abide in my love ; even as I have kept my Father's commandments, and abide in his love. 11 These things nave I spoken unto you, that my joy may be in you, and that your joy may be fulfilled'. 12 This is my commandment, that ye love one another, even as I have loved you. 13 Greater love hath no man than this, that a man lay down his life for his friends. 14 Ye are my friends, if ye do the things which I command you. 15 No longer do I call you ^servants ; for the * servant knoweth not what his lord doeth : but I have called you friends ; for all things that I heard from my Father I have made known unto you. 16 Ye did not choose me, but I chose you, and appointed you, that ye should go and bear fruit, and that your fruit should abide : that whatsoever ye shall ask of the Father in my name, he may give it you. 17 These things I command you, that ye may love one another. 18 If the world hateth you, ^ye know that it hath hated me before it hated you. 19 If ye were of the world, the world would love its own : but because ye are not of the world, but I chose you out of the world, therefore the world hateth you. 20 Remember the word that I said unto you, "A * servant is not greater than his lord. If they persecuted me, they will also persecute you ; if they kept my word, they will keep yours also. 21 ''But all these things will they do unto you for my name's sake, because they know not him that sent me. 22 If I had not come and spoken unto them, they had not had sin : but now they have no excuse for their sin. 23 He that hateth me hateth my Father also. 24 If I had not done among them the works which none other did, they had not had sin : but now have they both seen and hated both me and my Father. 25 But this cometh to pass, that the word may be fulfilled that is written in their law, They hated me without a cause. 26 But when the ^Comforter is come, whom I will send unto you from the Father, eve?i the Spirit of truth, which 'proceedeth from the Father, he shall bear witness of me : 27 *and ye also bear witness, because ye have been with me from the beginning. 16: 1 These things have I spoken unto you, that ye should not be made^ to stumble. 2 ^They shall put you out of the synagogues : yea, the hour cometh, that whosoever killeth you shall think that he offereth service unto God. 3 And these things will they do, because they have not known the Father, nor me. 4 But these things have I spoken unto you, that when their hour is come, ye may remember them, how that I told you. And these things I
+7 If ye abide in me, and nay words abide in you, ask whatsoever ye will, and it shall be done unto you. 8 Herein <sup>1</sup>is my Father glorified, <sup>2</sup>that ye bear much fruit; and so shall ye be my disciples. 9 Even as the Father hath loved me, I also have loved you : abide ye in my love. 10 If ye keep my commandments, ye shall abide in my love ; even as I have kept my Father's commandments, and abide in his love. 11 These things nave I spoken unto you, that my joy may be in you, and that your joy may be fulfilled<sup>1</sup>. 12 This is my commandment, that ye love one another, even as I have loved you. 13 Greater love hath no man than this, that a man lay down his life for his friends. 14 Ye are my friends, if ye do the things which I command you. 15 No longer do I call you <sup>3</sup>servants ; for the <sup>4</sup> servant knoweth not what his lord doeth : but I have called you friends ; for all things that I heard from my Father I have made known unto you. 16 Ye did not choose me, but I chose you, and appointed you, that ye should go and bear fruit, and that your fruit should abide : that whatsoever ye shall ask of the Father in my name, he may give it you. 17 These things I command you, that ye may love one another. 18 If the world hateth you, <sup>5</sup>ye know that it hath hated me before it hated you. 19 If ye were of the world, the world would love its own : but because ye are not of the world, but I chose you out of the world, therefore the world hateth you. 20 Remember the word that I said unto you, <sup>a</sup>A <sup>4</sup> servant is not greater than his lord. If they persecuted me, they will also persecute you ; if they kept my word, they will keep yours also. 21 <sup>b</sup>But all these things will they do unto you for my name's sake, because they know not him that sent me. 22 If I had not come and spoken unto them, they had not had sin : but now they have no excuse for their sin. 23 He that hateth me hateth my Father also. 24 If I had not done among them the works which none other did, they had not had sin : but now have they both seen and hated both me and my Father. 25 But this cometh to pass, that the word may be fulfilled that is written in their law, They hated me without a cause. 26 But when the <sup>6</sup>Comforter is come, whom I will send unto you from the Father, eve?i the Spirit of truth, which <sup>7</sup>proceedeth from the Father, he shall bear witness of me : 27 <sup>8</sup>and ye also bear witness, because ye have been with me from the beginning. 16: 1 These things have I spoken unto you, that ye should not be made<sup>2</sup> to stumble. 2 <sup>c</sup>They shall put you out of the synagogues : yea, the hour cometh, that whosoever killeth you shall think that he offereth service unto God. 3 And these things will they do, because they have not known the Father, nor me. 4 But these things have I spoken unto you, that when their hour is come, ye may remember them, how that I told you. And these things I <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> said not unto you from the beginning, because I was with you. 5 But now I go unto him that sent me ; and none of you asketh me, Whither goest thou? 6 But because I have spoken these things unto you, sorrow hath filled your heart. 7 Nevertheless I tell you the truth ; It is expedient for you that I go away : for if I go not away, the <sup>1</sup> Comforter will not come unto you ; but if I go, I will send him unto you. 8 And he, when he is come, will convict the world in respect of sin, and of righteousness, and of judgement: 9 of sin, because they believe not on me ; 10 of righteousness, because I go to the Father, and ye behold me no more ; 11 of judgement, because the prince of this world hath been judged. 12 I have yet many things to say unto you, but ye cannot bear them now. 13 Howbeit when he, the Spirit of truth, is come, he shall guide you into all the truth : for he shall not speak from himself ; but what things soever he shall hear, these shall he speak : and he shall declare unto you the things that are to come. 14 He shall glorify me : for he shall take of mine, and shall declare it unto you. 15 All things whatsoever the Father hath are mine : therefore said I, that he taketh of mine, and shall declare it unto you. 16 A little while, and ye behold me no more ; and again a little while, and ye shall see me. 17 _Some_ of his disciples therefore said one to another, What is this that he saith unto us, A little while, and ye behold me not ; and again a little while, and ye shall see me : and. Because I go to the Father? 18 They said therefore. What is this that he saith, A little while? We know not what he saith. 19 Jesus perceived that they were desirous to ask him, and he said untoithem. Do ye inquire among yourselves concerning this, that I said, A little while, and ye behold me not, and again a little while, and ye shall see me? 20 Verily, verily, I say unto you, that ye shall weep and lament, but the world shall rejoice : ye shall be sorrowful, but your sorrow shaU be turned into joy. 21 A woman when she is in travail hath sorrow, because her hour is come : but when she is delivered of the child, she remembereth no more the anguish, for the joy that a man is born into the world. 22 And ye therefore now have sorrow : but I will see you again, and your heart shall rejoice, and your joy no one taketh away from you. 23 And in that day ye shall <sup>2</sup>ask me nothing<sup>1</sup>. Verily, verily, I say unto you, if ye shall ask anything of the Father, he will give it you in my name. 24 Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be fulfilled <sup>2</sup>.
 
-ERV.mg.: i Or, teas ^ K&By ancient authorUiea read that ye bear much fruit, and be my disciples ^ Gr. bondservants. * Gr. bondservant. » Or, know ye ' Or, Advocate Or, Helper Gr. Paraclete. ' Or, goeth forth from " Or, and bear ye also witness
+25 These things have I spoken unto you in <sup>3</sup>proverbs<sup>3</sup>: the hour cometh, when I shall no more speak unto you in <sup>3</sup> proverbs <sup>3</sup>, but shall tell you plainly of the Father. 26 In that day ye shall ask in my name : and I say not unto you, that I will <sup>4</sup>pray the Father for you ; 27 for the Father himself loveth you, because ye have loved me, and have believed that I came forth from the Father. 28 I came out from the Father, and am come into the world : again, I leave the world, and go unto the Father. 29 His disciples say, Lo, now speakest thou plainly, and speakest no <sup>5</sup>proverb<sup>4</sup>. 30 Now know we that thou knowest all things, and needest not that any man should ask thee : by this we believe that thou camest forth from God. 31 Jesus answered them, Do ye now believe? 32 Behold, the hour cometh, yea, is come, that ye shall be scattered, every man to his own, and shall leave me alone : and _yet_ I am not alone, because the Father is with me. 33 These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation : but be of good cheer ; I have overcome the world.
 
-AKV. txt. : > made full > caused
 
-• Matt. 10:24. A disciple is not above his master, nor a servant above his lord. (§64)
 
-»Luke 6:40. The disciple is not above his master; but every one when he is perfected shall be as his master. (§49)
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
-» John 13 : 16. Verily, verily, I say unto you, A servant is not greater than his lord ; neither one that is sent greater than he that sent him. (§133)
-
-b Matt. 10:22. And ye shall be hated of all men for my name's sake. (§64)
-
-bMatt. 24:9. And ye shall be hated of all the nations for my name's sake. (§131)
-
-b Mark 13: 13. And ye shall be hated of all men for my name's sake. (S 131)
-
-»> Luke 21 : 17. And ye shall be hated of all men for my name's sake. (§ 131)
-
-c Matt. 10 : 21. And brother shall deliver up brother to death, and the father his child : and children shall rise up against parents, and cause them to be put to death. (§64)
-
-cMark 13:12. And brother shall deliver up brother to death, and the father his child ; and children shall rise up against parents, and cause them to be put to death. (§ 131)
-
-<: Luke 21 : 16. But ye shall be delivered up even by parents, and brethren, and kinsfolk, and friends; and some of you shall they cause to be put to death. (§ 131)
-
-207
-
-§134 THE PASSION WEEK— THURSDAY
-
-John 16.
-
-said not unto you from the beginning, because I was with you. 5 But now I go unto him that sent me ; and none of you asketh me, Whither goest thou? 6 But because I have spoken these things unto you, sorrow hath filled your heart. 7 Nevertheless I tell you the truth ; It is expedient for you that I go away : for if I go not away, the ' Comforter will not come unto you ; but if I go, I will send him unto you. 8 And he, when he is come, will convict the world in respect of sin, and of righteousness, and of judgement: 9 of sin, because they believe not on me ; 10 of righteousness, because I go to the Father, and ye behold me no more ; 11 of judgement, because the prince of this world hath been judged. 12 I have yet many things to say unto you, but ye cannot bear them now. 13 Howbeit when he, the Spirit of truth, is come, he shall guide you into all the truth : for he shall not speak from himself ; but what things soever he shall hear, these shall he speak : and he shall declare unto you the things that are to come. 14 He shall glorify me : for he shall take of mine, and shall declare it unto you. 15 All things whatsoever the Father hath are mine : therefore said I, that he taketh of mine, and shall declare it unto you. 16 A little while, and ye behold me no more ; and again a little while, and ye shall see me. 17 Some of his disciples therefore said one to another, What is this that he saith unto us, A little while, and ye behold me not ; and again a little while, and ye shall see me : and. Because I go to the Father? 18 They said therefore. What is this that he saith, A little while? We know not what he saith. 19 Jesus perceived that they were desirous to ask him, and he said untoithem. Do ye inquire among yourselves concerning this, that I said, A little while, and ye behold me not, and again a little while, and ye shall see me? 20 Verily, verily, I say unto you, that ye shall weep and lament, but the world shall rejoice : ye shall be sorrowful, but your sorrow shaU be turned into joy. 21 A woman when she is in travail hath sorrow, because her hour is come : but when she is delivered of the child, she remembereth no more the anguish, for the joy that a man is born into the world. 22 And ye therefore now have sorrow : but I will see you again, and your heart shall rejoice, and your joy no one taketh away from you. 23 And in that day ye shall ^ask me nothing'. Verily, verily, I say unto you, if ye shall ask anything of the Father, he will give it you in my name. 24 Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be fulfilled 2.
-
-25 These things have I spoken unto you in ^proverbs*: the hour cometh, when I shall no more speak unto you in ^ proverbs 3, but shall tell you plainly of the Father. 26 In that day ye shall ask in my name : and I say not unto you, that I will *pray the Father for you ; 27 for the Father himself loveth you, because ye have loved me, and have believed that I came forth from the Father. 28 I came out from the Father, and am come into the world : again, I leave the world, and go unto the Father. 29 His disciples say, Lo, now speakest thou plainly, and speakest no ^proverb*. 30 Now know we that thou knowest all things, and needest not that any man should ask thee : by this we believe that thou camest forth from God. 31 Jesus answered them, Do ye now believe? 32 Behold, the hour cometh, yea, is come, that ye shall be scattered, every man to his own, and shall leave me alone : and yet I am not alone, because the Father is with me. 33 These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation : but be of good cheer ; I have overcome the world.
-
-EBV. mg. ; ''<sup>1</sup> Or, Advocate Or, Helper Gr. Paraclete. "Or, ask me no question 'Or, parables * Gr. make request of. 'Or parable
-
-ARV. txt. : ^ ask nie no question " made foil ^ dark sayings * dark saying
-
-<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
-
-§ 135. THE INTERCESSORY PRAYER.
+### § 135. THE INTERCESSORY PRAYER.
 
 John, chap. 17.
 
-1 These things spake Jesus; and lifting up his eyes to heaven, he said. Father, the hour is come ; glorify thy Son, that the Son may glorify thee : 2 even as thou gavest him authority over all flesh, that whatsoever thou hast given him, to them' he should give eternal life. 3 And this is life eternal, that they should know thee the only true God, and him whom thou didst send, even Jesus Christ. 4 I glorified thee on the earth, having accomplished the work which thou hast given me to do. 5 And now, O^ Father, glorify thou me with thine own self with the glory which I had with thee before the world was. 6 I manifested thy name unto the men whom thou gavest me out of the world : thine they were, and thou gavest them to me ; and they have kept thy word. 7 Now they know that all things whatsoever thou hast given me are from thee : 8 for the words which thou gavest me I have given unto them ; and they received them, and knew of a truth that I came forth from thee, and they believed that thou didst send me. 9 I ' pray for them : I ' pray not for the world, but for those whom thou hast given me ; for they are thine : 10 and all things that are mine are thine, and thine are mine: and I am glorified in them. 11 And I am no more in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name which thou hast given me, that they may be one, even as we are. 12 While I was with them, I kept them in thy name which thou hast given me : and I guarded them, and not one of them perished, but the son of perdition ; that the scripture might be fulfilled. 13 But now I come to thee ; and these things I speak in the world, that they may have my joy fulfilled ^ in themselves. 14 I have given them thy word ; and the world hated them, because they are not of the world, even as I am not of the world. 15 I 'pray not that thou shouldest take them ^from the world, but that thou shouldest keep them ^from ^the evil one. 16 They are not of the world, even as I am not of the world. 17 * Sanctify them in the truth : thy word is truth. 18 As thou didst send me into the world, even so sent I them into the world. 19 And for their sakes I * sanctify myself, that they themselves also may be sanctified in truth. 20 Neither for these only do I ' pray, but for them also that believe on me through their word ; 21 that they may all be one ; even as thou, Father, art in me, and I in thee, that they also may be in us: that the world may believe that thou didst send me. 22 And the glory which thou hast given me I have given unto them ; that they may be one, even as we are one ; 23 I in them, and thou in me, that they may be perfected into one ; that the world may know that thou didst send me, and lovedst them, even as thou lovedst me. 24 Father, ^that which thou hast given me, I will that, where I am, they also may be with me ;* that they may behold my glory, which thou hast given me : for thou lovedst me before the foundation of the world, 25 O righteous Father, the world knew thee not, but I knew thee ; and these knew that thou didst send me ; 26 and I made known unto them thy name, and will make it known ; that the love wherewith thou lovedst me may be in them, and I in them.
+1 These things spake Jesus; and lifting up his eyes to heaven, he said. Father, the hour is come ; glorify thy Son, that the Son may glorify thee : 2 even as thou gavest him authority over all flesh, that whatsoever thou hast given him, to them<sup>1</sup> he should give eternal life. 3 And this is life eternal, that they should know thee the only true God, and him whom thou didst send, _even_ Jesus Christ. 4 I glorified thee on the earth, having accomplished the work which thou hast given me to do. 5 And now, O<sup>2</sup> Father, glorify thou me with thine own self with the glory which I had with thee before the world was. 6 I manifested thy name unto the men whom thou gavest me out of the world : thine they were, and thou gavest them to me ; and they have kept thy word. 7 Now they know that all things whatsoever thou hast given me are from thee : 8 for the words which thou gavest me I have given unto them ; and they received them, and knew of a truth that I came forth from thee, and they believed that thou didst send me. 9 I ' pray for them : I ' pray not for the world, but for those whom thou hast given me ; for they are thine : 10 and all things that are mine are thine, and thine are mine: and I am glorified in them. 11 And I am no more in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name which thou hast given me, that they may be one, even as we are. 12 While I was with them, I kept them in thy name which thou hast given me : and I guarded them, and not one of them perished, but the son of perdition ; that the scripture might be fulfilled. 13 But now I come to thee ; and these things I speak in the world, that they may have my joy fulfilled ^ in themselves. 14 I have given them thy word ; and the world hated them, because they are not of the world, even as I am not of the world. 15 I <sup>1</sup>pray not that thou shouldest take them <sup>2</sup>from the world, but that thou shouldest keep them <sup>2</sup>from <sup>3</sup>the evil one. 16 They are not of the world, even as I am not of the world. 17 <sup>4</sup> Sanctify them in the truth : thy word is truth. 18 As thou didst send me into the world, even so sent I them into the world. 19 And for their sakes I <sup>4</sup> sanctify myself, that they themselves also may be sanctified in truth. 20 Neither for these only do I <sup>1</sup> pray, but for them also that believe on me through their word ; 21 that they may all be one ; even as thou, Father, art in me, and I in thee, that they also may be in us: that the world may believe that thou didst send me. 22 And the glory which thou hast given me I have given unto them ; that they may be one, even as we are one ; 23 I in them, and thou in me, that they may be perfected into one ; that the world may know that thou didst send me, and lovedst them, even as thou lovedst me. 24 Father, <sup>5</sup>that which thou hast given me, I will that, where I am, they also may be with me ;<sup>4</sup> that they may behold my glory, which thou hast given me : for thou lovedst me before the foundation of the world, 25 O righteous Father, the world knew thee not, but I knew thee ; and these knew that thou didst send me ; 26 and I made known unto them thy name, and will make it known ; that the love wherewith thou lovedst me may be in them, and I in them.
 
-ERV. mg. : ^ Qt. make rtqueat. ^QT.outof. * Or, evil * Or, Consecrate > Maoy ancient authorities read /Aose isAom.
 
-ART txt. ' > that to all whom thou bait given him, ' Omit > made full * Father, I deiire that they alio whom thou bast giren me be Kith me where I am.
 
-209
+**FRIDAY.** §§136-141.
 
-§136
+### § 136. THE AGONY IN GETHSEMANE.
 
-THE PASSION WEEK— FRIDAY
+Matt. 26 : “30” 36-46. | Mark 14: “26” 32-42. | Luke 22 : 39-46. | “John 18:1.”
+--- | --- | --- | ---
+“30 And when they had sung a hymn, they went out unto the mount of Olives.” (§133) <br>36 Then cometh Jesus with them unto <sup>1</sup>a place called Gethsemane, and saith unto his disciples, Sit ye here, while I go yonder and pray. 37 And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and sore troubled. 38 Then saith he unto them, <sup>a</sup>My soul is exceeding sorrowful, even unto death : abide ye here, and watch with me. 39 And he went forward a little and fell on his face, and prayed, saying, <sup>1</sup>O<sup>1</sup> my Father, if it be possible, let this cup pass away from me : nevertheless, not as I will, but as thou wilt. 40 And he cometh unto the disciples, and findeth them sleeping, and saith unto Peter, What, could <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> ye not watch with me one hour? 41 <sup>1</sup> Watch and pray, that ye enter not into temptation : the spirit indeed is willing, but the flesh is weak. 42 Again a second time he went away, and prayed, saying, O<sup>1</sup> my Father, if this cannot pass away, except I drink it, thy will be done. 43 And he came again and found them sleeping, for their eyes were heavy. 44 And he left them again, and went away, and prayed a third time, saying again the same words. 45 Then cometh he to thedisciples,andsaith unto them. Sleep on now, and take your rest : behold, the hour is at hand, and the Son of man is betrayed unto<sup>2</sup> the hands of sinners. 46 Arise, let us be going: behold, he is at hand that betrayeth me. | “26 And when they had sung a hymn, they went out unto the mount of Olives.” (§133) <br>32 And they come unto <sup>1</sup>a place which was named Gethsemane ; and he saith unto his disciples. Sit ye here, while I pray. 33 Andhetakethwith him Peter and James and John, and began to be greatly amazed, and sore troubled. 34 And he saith unto them, <sup>a</sup>My soul is exceeding sorrowful even unto death : abide ye here, and watch. 35 And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him. 36 And he said, <sup>b</sup>Abba, Father, all things are possible unto thee ; remove this cup from me : howbeit not what I will, but what thou wilt. 37 And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest thou not watch one hour? 38 <sup>1</sup> Watch and pray, that ye enter not into temptation : the spirit indeed is willing, but the flesh is weak. 39 And again he went away, and prayed, saying the same words. 40 And again he came, and found them sleeping, for their eyes were very heavy ; and they wist<sup>3</sup> not what to answer him. 41 And ho cometh the third time, and saith unto them, Sleep on now, and take your rest : it is enough ; the hour is come ; behold, the Son of man is betrayed into the hands of sinners. 42 Arise, let us be going : behold, he that betrayeth me is at hand. | 39 And he came out, and went, as his custom was, unto the mount of Olives ; and the disciples also followed him. 40 And when he was at the the place, he said unto them. Pray that ye enter not into temptation. 41 And he was parted from them about a stone's cast ; and he kneeled down and prayed, 42 saying, <sup>b</sup> Father, if thou be willing, remove this cup from me : nevertheless not my will, but thine, be done. 43 <sup>2</sup> And there appeared unto him an angel from heaven,strengthening him. 44 And being in an agony he prayed more earnestly: and his sweat became as it were great drops of blood falling down upon the ground. 45 And when he rose up from his prayer, he came unto the disciples, and found them sleeping for sorrow, 46 and said unto them, Why sleep ye? rise and pray, that ye enter not into temptation. | “1 When Jesus had spoken these words, he went forth with his disciples over the <sup>3</sup> brook <sup>4</sup>Kidron, where was a garden, into the<sup>2</sup> which he entered, himself and his disciples.” (§137)
 
-FRIDAY. §§136-141.
 
-§ 136. THE AGONY IN GETHSEMANE.
 
-Matt. 26 : '“30”' 36-46. rao And when they had sung a hymn, they went out unto the mount of Olives."' (§133)
+### § 137. THE BETRAYAL AND ARREST. 
 
-36 Then cometh Jesus with them unto 'a place called Gethsemane, and saith unto his disciples, Sit ye here, while I go yonder and pray. 37 And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and sore troubled. 38 Then saith he unto them, *My soul is exceeding sorrowful, even unto death : abide ye here, and watch with me. 39 And he went forward a little and fell on his face, and prayed, saying, 'O^ my Father, if it be possible, let this cup pass away from me : nevertheless, not as I will, but as thou wilt. 40 And he cometh unto the disciples, and findeth them sleeping, and saith unto Peter, What, could
+Matt. 26 : 47-56. | Mark 14 : 43-52. | Luke 22 : 47-53. | John 18 : 1-11 “12”.
+--- | --- | --- | ---
+47 And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people. <span id="p212"><sup><small>[ p. 212 ]</small></sup></span>  48 Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that is he : take him. 49 Andstraightway he came to Jesus, and said. Hail, Rabbi ; and <sup>1</sup> kissed him. 50 And Jesus said unto him. Friend, _do_ that for which thou art come. Then they came and laid hands on Jesus, and took him. 51 And behold, one of them that were with Jesus stretched out his hand, and drew his sword, and smote the <sup>2</sup> servant of the high priest, and struck off his ear. 52 Then saith Jesus unto him. Put up again thy sword into its place : for all they that take the sword shall perish with the sword. 53 Or thinkest thou that I cannot beseech my Father, and he shall even now send me more than twelve legions of angels? 54 How then should the scriptures be fulfilled, that thus it must be? 55 In that hour said Jesus to the multitudes, Are ye come out as against a robber with swords and staves to seize me? I sat daily in the temple <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> teaching, and ye took me not. 56 But all this is corao to pass, that the scriptures of the prophets might be fulfilled. Then all the disciples left him, and fled. | 43 And straightway, while he yet spake, cometh Judas, one of the twelve, and with him a multitude with swords and staves, from the chief priests and the scribes and the elders. 44 Now he that betrayed him had given them a token, saying. Whomsoever I shall kiss, that is he; take him, and lead him away safely. 45 And when he was come,straightway he came to him, and saith, Rabbi; and <sup>1</sup> kissed him. 46 And they laid hands on him, and took him. 47 But a certain one of them that stood by drew his sword, and smote the <sup>2</sup> servant of the high priest, and struck off his ear. 48 And Jesus answered and said unto them. Are ye come out, as against a robber, with swords and staves to seize me? 49 I was daily with you in the temple teaching, and ye took me not: but _this is done_ that the scriptures might be fulfilled. 60 And they all left him, and fled. | 47 While he yet spake, behold, a multitude, and he that was called Judas, one of the twelve, went before them ; and he drew near unto Jesus to kiss him. 48 But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss? 49 And when they that were about him saw what would follow, they said. Lord, shall we smite with the sword? 50 And a certain one of them smote the <sup>2</sup> servant of the high priest, and struck off his right ear. 51 But Jesus answered and said. Suffer ye<sup>1</sup> thus far. And he touched his ear, and healed him. 52 And Jesus said unto the chief priests, and captains of the temple, and elders, which <sup>2</sup> were come against him, Are ye come out, as against a robber, with swords and staves? 53 When I was daily with you in the temple, ye stretched not forth your hands against me : but this is your hour, and the power of darkness. | 1 When Jesus had spoken these words,he went forth with his disciples over the <sup>2</sup>brook <sup>3</sup>Kidron, where was a garden, into the<sup>4</sup> which he entered, himself and his disciples. 2 Now Judas also, which <sup>3</sup> betrayed him, knew the place : for Jesus ofttimes resorted thither with his disciples. 3 Judas then, having received the <sup>3</sup>band _of soldiers_, and officers from the chief priests and the Pharisees, cometh thither with lanterns and torches and weapons. 4 Jesus therefore, knowing all the things that were coming upon him, went forth, and saith unto them. Whom seek ye? 5 They answered him, Jesus of Nazareth. Jesus saith unto them, I am _he_. And Judas also, which<sup>3</sup> betrayed him, was standing with them. 6 When therefore he said unto them, I am _he_, they went backward, and fell to the ground. 7 Again therefore he asked them, Whom seek ye? And they said, Jesus of Nazareth. 8 Jesus answered, I told you that I am _he_ : if therefore ye seek me, let these go their way : 9 that the word might be fulfilled which he spake, Of those whom th<sup>1</sup>u hast given me I lost not one. 10 Simon Peter therefore having a sword drew it, and struck the high priest's <sup>1</sup> servant, and cut off his right ear. Now the <sup>1</sup> servant's name was Malchus. llJesus therefore said unto Peter, Put up the sword into the sheath: the cup which the Father hath given me, shall I not drink it?
+&nbsp; | 51 And a certain young man followed with him, having a linen cloth cast about him, over his naked body : and they lay hold on him ; 52 but he left the linen cloth, and fled naked. | &nbsp; | &nbsp;
+&nbsp; | &nbsp; | &nbsp; | “12 So the 2 band and the <sup>3</sup>chief captain, and the officers of the Jews, seized Jesus and bound him,” (§138)
 
-Mark 14: '"26'' 32-42.
+### §138. THE TRIAL BEFORE THE JEWISH AUTHORITIES.
 
-•^26 And when they had sung a hymn, they went out unto the mount of Olives.^ (§133)
+Matt. 26: 57— 27:10. | Mark 14:53-72 “15:la” | Luke 22 : 54-71. | John 18:12-27.
+--- | --- | --- | ---
+[Cf. ver. 57, p. 215.] | [Cf. ver. B8, p. 215.] | [Cf. ver.S4, p. 215.] | 12 So the <sup>2</sup> band and the <sup>3</sup>chief captain, and the officers of the Jews, seized Jesus and bound him, 13 and led him to Annas first ; for he was father in law to Caiaphas, which<sup>1</sup> was high priest that year. 14 Now Caiaphas was he which <sup>2</sup> gave counsel to the Jews, that it was expedient that <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> one man should die for the people.
+[Cf. V8«. 69,70, p. 217.] | [Cf. vss. 66-6S, p. 217.] | [Cf. vss. 55-57, p. 217.] | 15 And Simon Pet-er followed Jesus, and _so did_ another disciple. Now that disciple was known unto the high priest, and entered in with Jesus into the court of the high priest; 16 but Peter was standing at the door without. So the other disciple, which<sup>1</sup> was known unto the high priest, went out and spake unto her that kept the door, aftd brought in Peter. 17 The maid therefore that kept the door saith unto Peter, Art thou also one of this man's disciples? He saith, I am not. 18 Now the <sup>1</sup> servants and the officers were standing _there_, having made <sup>2</sup>a fire of coals ; for it was cold ; and they were warming themselves: and Peter also was with them, standing and warming himself.<br>19 The high priest therefore asked Jesus of his disciples, and of his teaching. 20 Jesus answered him, I have spoken openly to the world ; I ever taught in 8 synagogues, and in the temple, where <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> all the Jews come together; and in secret spake I nothing. 21 Why askest thou me? ask them that have heard _me_, what I spake unto them : behold, these know the things which I said. 22 And when he had said this, one of the officers standing by struck Jesus <sup>1</sup> with his hand, saying, Answerest thou the high priest so? 23 Jesus answered him. If I have spoken evil, bear witness of the evil : but if well, why smitest thou me? 24 Annas therefore sent him bound unto Caiaphas the high priest.
+57 And they that had taken Jesus led him away to _the house of_ Caiaphas the high priest, where the scribes and the elders were gathered together, 58 But Peter followed him afar off, unto the court of the high priest, and entered in, and sat with the officers, to see the end. 59 Now the chief priests and the whole council sought false witness against Jesus, that they might put him to death ; 60 and they found it not, though many false witnesses came. But <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> afterward came two, 61 and said, This man said, I am able to destroy the <sup>1</sup> temple of God, and to build it in three days. 62 And the high priest stood up, and said unto him, Answerest thou nothing? what is it which these witness against thee? 63 But Jesus held his peace. And the high priest said unto him, I adjure thee by the living God, that thou tell us whether thou be <sup>1</sup> the Christ, the Son of God. 64 Jesus saith unto him, Thou hast said : nevertheless I say unto you. Henceforth ye shall see the Son of man sitting at the right hand of power<sup>2</sup>, and coming on the clouds of heaven. 65 Then the high priest rent his garments, saying, He hath spoken blasphemy : what further need have we of witnesses? behold, now ye have heard the blasphemy : 66 what think ye ? They answered and said, He is <sup>2</sup>worthy of death. | 53 And they led Jesus away to the high priest: and there come together with him all the chief priests and the elders and the scribes. 54 And Peter had followed him afar off, even within, into the court of the high priest; and he was sitting with the officers, and warming himself in the light _of the fire_. 55 Now the chief priests and the whole council sought witness against Jesus to put him to death ; and found it not. 56 For many bare false witness against him, and their witness agreed not together. 57 And there stood up certain, and bare false witness against him, saying, 58 We heard him say, I will destroy this <sup>1</sup> temple that is made with hands, and in three days I will build another made without hands. 59 And not even so did their witness agree together. 60 And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing ? what is it which these witness against thee ? 61 But he held his peace, and answered nothing. Again the high priest asked him, and saith unto him. Art thou the Christ, the Son of the Blessed ? 62 And Jesus said, I am : and ye shall see the Son of man sitting at the right hand of power <sup>2</sup>, and coming with the clouds of heaven. 63 And the high priest rent his clothes, and saith, What further need have we of witnesses ? 64 Ye have heard the blasphemy: what think ye ? And they all condemned him to be <sup>2</sup> worthy of death. | 54 And they seized him, and led him _away_, and brought him into the high priest's house. But Peter followed afar off. “55 And when they had kindled a fire in the midst of the court, and had sat down together, Peter sat in the midst of them. 56 And a certain maid seeing him as he sat in the light _of the fire_—” [Paragraph cootinued on p. 217.] | &nbsp;
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span> 67 Then did they spit in his face and buffet him : and some smote him <sup>1</sup> with the palms of their hands, 68 saying, Prophesy unto us, thou Christ : who is he that struck thee? | 65 And some began to spit on him, and to cover his face, and to buffet him, and to to say unto him. Prophesy : and the officers received him with <sup>21</sup> blows of their hands. | 63 And the men that held <sup>6</sup> _Jesus_ mocked him, and beat him. 64 And they blindfolded him, and asked him, saying. Prophesy : who is he that struck thee? 65 And many other things spake they against him, reviling him. [Ver. 66ff., p. 218.] | &nbsp;
+69 Now Peter was sitting without in the court: and a maid came unto him, saying, Thou also wast with Jesus the Galilaean. 70 But he denied before them all, saying, I know not what thou sayest. 71 And when he was gone out into the porch, another _maid_ saw him, and saith unto them that were there. This man also was with Jesus the Nazarene<sup>1</sup> 72 And again he denied with an oath, I know not the man. 73 And after a little while they that stood by came and said to Peter, Of a truth thou also art _one_ of them ; for thy speech bewrayeth thee <sup>2</sup>. 74 Then began he to curse and to swear, I know not the man. And straightway the cock crew. 75 And Peter remembered <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> the word which Jesus had said, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly. | 66 And as Peter was beneath in the court, there cometh one of the maids of the high priest ; 67 and seeing Peter warming himself, she looked upon him, and saith. Thou also wast with the Nazarene, _even_ Jesus. 68 But he denied, saying, <sup>3</sup>I neither know, nor understand what thou sayest : and he went out into the <sup>4</sup> porch; <sup>5</sup>and the cock crew. 69 And the maid saw him, and began again to say to them that stood by, This is _one_ of them. 70 But he again denied it. And after a little while again they that stood by said to Peter, Of a truth thou art _one_ of them; for thou art a Galilaean, 71 But he began to curse, and to swear, I know not this man of whom ye speak. 72 And straightway the second time thecockcre w. And Peter called to mind the word, how that Jesus said unto him. Before the cock crow twice, thou shalt deny me thrice. <sup>1</sup>And when he thought thereon, he wept. | 55 And when they had kindled a fire in the midstof the court, and had sat down together, Peter sat in the midst ofthem, 56 And a certain maid seeing him as he sat in the light _of the fire_, and looking stedfastly upon him, said, This man also was with him. 57 But he denied, saying. Woman, I know him not. 58 And after a little while another saw him, and said. Thou also art one of them. But Peter said, Man, I am not. 59 And after the space of about one hour another confidently affirmed, saying, Of a truth this man also was with him : for he is a Galilean. 60 But Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew. 61 And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how that he said unto him. Before the cock crow this day, thou shalt deny me thrice. 62 And he went out, and wept bitterly. [Ver. 63ff, p. 217] | [Cf. ver. 15-18, p. 214.] 25 Now Simon Peter was standing and warming himself. They said therefore unto him. Art thou also _one_ of his disciples? He denied, and said, I am not. 26 One of the <sup>7</sup>servants of the high priest, being a kinsman of him who.se ear Peter cut off, saith, Did not I see thee in the garden with him? 27 Peter therefore denied again : and straightway the cock crew.
+27:1 Now when morning was come, all the chief priests and theeldersof the people took counsel against Jesus to put him to death : [2 and they bound him, and led him away, and delivered him up to Pilate the governor.] (§139) | “15 : 1 And straightway in the morning the chief priests with the elders and scribes, and the whole council, held a consultation,—” (§ 139) | 66 And as soon as it was day, the assembly of the elders of the people was gathered together, both chief priests and scribes ; and they led him away into their council, saying, 67 If thou art the Christ, tell us. But he said unto them. If I tell you, ye will not believe : 68 and if I ask you, ye will not answer. 69 But from henceforth shall the Son of man be seated at the right hand of the power of God. 70 And they all said. Art thou then the Son of God? And he said unto them, <sup>2</sup>Ye say that I am. 71 And they said. What further need have we of witness? for we ourselves have heard from his own mouth.
+3 Then Judas, which <sup>1</sup> betrayed him, when he saw that he was <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> condemned, repented himself, and brought back the thirty pieces of silver to the chief priests and elders, 4 saying, I have sinned in that I betrayed <sup>1</sup> innocent blood. But they said, What is that to us? see thou to it. 5 And he cast down the pieces of silver into the sanctuary, and departed ; and he went away and hanged himself. 6 And the chief priests took the pieces of silver, and said, It is not lawful to put them into the <sup>2</sup> treasury, since it is the price of blood. 7 And they took counsel, and bought with them the potter's field, to bury strangers in. 8 Wherefore that field was called. The field of blood, unto this day. 9 Then was fulfilled that which was spoken <sup>3</sup>by<sup>1</sup> Jeremiah the prophet, saying. And <sup>4</sup> they took the thirty pieces of silver, the price of him that was priced, <sup>5</sup> whom _certain_ of the children of Israel did price ; 10 and <sup>6</sup>they gave them for the potter's field, as the Lord appointed me. | &nbsp; | &nbsp; | &nbsp;
 
-32 And they come unto *a place which was named Gethsemane ; and he saith unto his disciples. Sit ye here, while I pray.
 
-33 Andhetakethwith him Peter and James and John, and began to be greatly amazed, and sore troubled.
+### § 139. THE TRIAL BEFORE PILATE.
 
-34 And he saith unto them, »My soul is exceeding sorrowful even unto death : abide ye here, and watch. 35 And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him. 36 And he said, •'Abba, Father, all things are possible unto thee ; remove this cup from me : howbeit not what I will, but what thou wilt. 37 And he cometh, and findeth them
+Matt. 27 : “2” 11-31. | Mark 15 : 1-20. | Luke 23 : 1-25. | John 18 : 2S— 19 : 16a.
+--- | --- | --- | ---
+“2 and they bound him, and led him away, and delivered him up to Pilate the governor.” (§138) | 1 And straightway in the morning the chief priests with the elders and scribes, and the whole council, held a consultation, and bound Jesus, and carried him away, and delivered him up to Pilate. [Paragraph continued below.] | 1 And the whole company of them rose up, and brought him before Pilate. 2 And they began to accuse him, saying. We found this man perverting our nation, and forbidding to give tribute to Caesar, and saying that he himself is <sup>1</sup>Christ a king. [Paragraph continued below.] | 28 They lead Jesus therefore from Caiaphas into the <sup>2</sup>palace <sup>1</sup> : and it was early ; and they themselves entered not into the <sup>2</sup> palace <sup>1</sup> that they might not be defiled, but might eat the passover. 29 Pilate therefore went out unto them, and saith, What accusation bring ye against this man? 30 They answered and said unto him. If this man were not an evildoer, we should not have delivered him up unto thee. 31 Pilate therefore said unto them. Take him yourselves, and judge him according to your law. The Jews said unto him, It is not lawful for us to put any man to death : 32 that the word of Jesus might be fulfilled, which he spake, signifying by what manner of death he should die.
+11 Now Jesus stood before the governor : and the govervor asked him, saying, Art thou the King of the Jews ? And Jesus said unto him. Thou sayest. 12 And when he was accused by the <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> chief priests and elders, he answered nothing. 13 Then saith Pilate unto him, Hearest thou not how many things they witness against thee? 14 And he gave him no answer, not even to one word : insomuch that the governor marvelled greatly. | 2 And Pilate asked him. Art thou the King of the Jews? And he answering, saith unto him, Thou sayest. 3 And the chief priests accused him of many things. 4 And Pilate again asked him, saying, answerest thou nothing? behold how many things they accuse thee of. 5 But Jesus no more answered anything; insomuch that Pilate marvelled. | 3 And Pilate asked him, saying, Art thou the King of the Jews ? And he answered and said, Thou sayest. [Paragraph continued on p. 221.] | 33 Pilate therefore entered again into the <sup>2</sup> palace<sup>1</sup>, and called Jesus, and said unto him, Art thou the King of the Jews? 34 Jesus answered, Sayest thou this of thyself, or did others tell it thee concerning me? 35 Pilate answered. Am I a Jew? Thine own nation and the chief priests delivered thee unto me : what hast thou done ? 36 Jesus answered, My kingdom is not of this world : if my kingdom were of this world, then would my <sup>1</sup> servants fight, that I should not be delivered to the Jews : but now is my kingdom not from hence. 37 Pilate therefore said unto him, Art thou a king then ? Jesus answered <sup>2</sup>Thou sayest that I am a king. To this end have I been born, and to this end am I come into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. 38 Pilate saith unto him, What is truth?
+&nbsp; | &nbsp; | 4 And Pilate said unto the chief priests and the multitudes, I find no fault in this man. But they were the more urgent, saying, He stirreth up the people, teaching throughout all Judasa, and beginning from Galilee even unto this place. 6 But when Pilate heard it, he asked whether the <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> man were a Galilsean. 7 And when he knew that he was of Herod's jurisdiction, he sent him unto Herod, who himself also was at Jerusalem in these days.<br>8 Now when Herod saw Jesus, he was exceeding glad : for he was of a long time desirous to see him, because he had heard concerning him ; and he hoped to see some <sup>1</sup> miracle done by him. 9 And he questioned him in many words ; but he answered him nothing. 10 And the chief priests and the scribes stood, vehemently accusing him. 11 And Herod with his soldiers set him at nought, and mocked him, and arraying him in gorgeous apparel sent him back to Pilate. 12 And Herod and Pilate became friends with each other that very day: for before they were at enmity between themselves.<br>13 And Pilate called together the chief priests and the rulers and the people, 14 and said unto them. Ye brought unto me this man, as one that perverteth the people : and behold, I, having examined him before you, found no fault in <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> this man touching those things whereof ye accuse him : 15 no, nor yet Herod : for he sent him back unto us; and behold, nothing worthy of death hath been done by him. 16 I will therefore chastise him, and release <sup>2</sup>him. [Paragraph continued below.] | And when he had said this, he went out again unto the Jews, and saith unto them, I find no crime in him. [Paragraph continued on p. 223.]
+15 Now at <sup>1</sup> the feast the governor was wont to release unto the multitude one prisoner, whom they would. 16 And they had then a notable prisoner, called Barabbas. 17 When therefore they were gathered together, Pilate said unto them, Whom will ye that I release unto you ? Barabbas, or Jesus which<sup>1</sup> is called Christ ? 18 For he knew that for envy they had delivered him up. 19 And while he was sitting on the judgement-seat, his wife sent unto him, saying, Have thou nothing to do with that righteous man : for I have suffered many things this day in a dream because of him. 20 Now the chief priests and the elders persuaded the multitudes that they should ask for Barabbas, and destroy Jesus. <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> 21 But the governor answered and said unto them, Whether<sup>1</sup> of the twain<sup>2</sup> will ye that I release unto you? And they said, Barabbas. 22 Pilate saith unto them. What then shall I do unto Jesus which<sup>3</sup> is called Christ? They all say, Let him be crucified. 23 And he said. Why, what evil hath he done? But they cried out exceedingly, saying, Let him be crucified. 24 So when Pilate saw that he prevailed nothing, but rather that a tumult was arising, he took water, and washed his hands before the multitude, saying, I am innocent <sup>1</sup> of the blood of this righteous man: see ye to it. 25 And all the people answered and said. His blood be on us, and on our children. 26 Then released he unto them Barabbas : but Jesus he scourged and delivered to be crucified. | 6 Now at <sup>1</sup> the feast he used to release unto them one prisoner, whom they asked of him. 7 And there was one called Barabbas, _lying_ bound with them that had made insurrection, men who in the insurrection had committed murder. 8 And the multitude went up and began to ask him _to do_ as he was wont to do unto them. 9 And Pilate answered them, saying. Will ye that I release unto you the King of the Jews? 10 For he perceived that for envy the chief priests had delivered him up. 11 But the chief priests stirred up the multitude, that he should rather release Barabbas unto them. 12 And Pilate again answered and said unto them, What then shall I do unto him whom ye call the King of the Jews? 13 And they cried out again. Crucify him. 14 And Pilate said unto them, Why, whatevilhathhedone? But they cried out exceedingly, Crucify him. 15 And Pilate, wishing to content the multitude, released unto them Barabbas, and delivered Jesus, when he had scourged him, to be crucified. | 18 But they cried out all together, saying. Away with this man, and release unto us Barabbas: 19 one who for a certain insurrec tion made in the city, and for murder, was cast into prison. 20 And Pilate spake unto them again, desiring to release Jesus ; 21 but they shouted, saying. Crucify, crucify him. 22 And he said unto them the third time, Why, what evil hath this man done? I have found no cause of death in him : I will therefore chastise him and release him. 23 But they were instant<sup>7</sup> with loud voices, asking that he might be crucified. And their voices prevailed, 24 And Pilate gave sentence that what they asked for should be done. 25 And he released him that for insurrection and murder had been cast into prison, whom they asked for ; but Jesus he delivered up to their will. | 39 But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews? 10 They cried out therefore again, saying. Not this man, but Barabbas. Now Barabbas was a robber.
+27 Then the soldiers of the governor took Jesus into the <sup>2</sup>palace<sup>4</sup>, and gathered unto him the whole <sup>3</sup>band. 28 And they <sup>4</sup> stripped him, and put on him a scarlet robe. 29 And they plaited<sup>5</sup> a crown <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> of thorns and put it upon his head, and a reed in his right hand ; and they kneeled down before him, and mocked him, saying, Hail, King of the Jews! 30 And they spat upon him, and took the reed and smote him on the head. [Paragraph continued on p. 227.] | 16 And the soldiers led him away within the court, which is the <sup>5</sup>Praetorium; and they call together the whole <sup>3</sup> band. 17 And they clothe him with purple, and plaiting<sup>6</sup> a crown of thorns, they put it on him; 18 and they began to salute him. Hail, King of the Jews ! 19 And they smote his head with a reed, and did spit' upon him, and bowing their knees worshipped him. [Paragraph continued on p. 227.] | &nbsp; | 19:1 Then Pilate therefore took Jesus, and scourged him. 2 And the soldiers plaited<sup>5</sup> a crown of thorns, and put it on his head, and arrayed him in a purple garment; 3 and they came unto him, and said, Hail, King of the Jews! and they struck him ' with their hands.
+&nbsp; | &nbsp; | &nbsp; | 4 And Pilate went out again, and saith unto them. Behold, I bring him out to you, that ye may know that I find no crime in him. 5 Jesus therefore came out, wearing the crown of thorns and the purple garment. And Pilate saith unto them. Behold, the man ! 6 When therefore the chief priests and the officers saw him, they cried out,saying. Crucify _him_, crucify _him_. Pilate saith unto them, Take him yourselves, and crucify him: for I find no crime in him. 7 The Jews answered him, We have a law, and by that law he ought to die, because he made himself the Son of God. 8 When Pilate therefore heard this saying, ho was the more afraid ; 9 and he entered into <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> the <sup>1</sup> palace <sup>1</sup> again, and saith unto Jesus, Whence art thou? But Jesus gave him no answer. 10 Pilate therefore saith unto him, Speakest thou not unto me? knowest thou not that I have <sup>2</sup> power to release thee, and have <sup>2</sup> power to crucify thee? 11 Jesus answered him, Thou wouldest have no <sup>2</sup> power against me, except it were given thee from above : therefore he that delivered me unto thee hath greater sin. 12 Upon this Pilate sought to release him : but the Jews cried out, saying, If thou release this man, thou art not Caesar's friend : everyone that maketh himself a king <sup>3</sup>speaketh against Caesar. 13 When Pilate therefore heard these words, he brought Jesus out, and sat down on the judgement-seat at a place called The Pavement, but in Hebrew, Gabbatha. 14 Now it was the Preparation of the passover: it was about the sixth hour. And he saith unto the Jews, Behold, your King! 15 They therefore cried out, Away with _him_, away with _him_, crucify him. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar. 16 Then therefore he delivered him unto them to be crucided.
+31 And when they had mocked him, they took ofiF from him the robe, and put on him his garments, and led him away to crucify him. | 20 And when they had mocked him, they took off from him the purple, and put on him his garments. And they lead him out to crucify him. | &nbsp; | &nbsp; 
 
-Luke 22 : 39-46. 39 And he came out, and went, as his custom was, unto the mount of Olives ; and the disciples also followed him. 40 And when he was at the the place, he said unto them. Pray that ye enter not into temptation. 41 And he was parted from them about a stone's cast ; and he kneeled down and prayed, 42 saying, •> Father, if thou be willing, remove this cup from me : nevertheless not my will, but thine, be done. 43 2 And there appeared unto him an angel from heaven,strengthening him. 44 And being in an agony he prayed more earnestly: and his sweat became as it were great drops of blood falling down upon the ground. 45 And when he rose up from his prayer, he came unto the disciples, and found them sleeping for sorrow, 46 and
 
-■“John 18:1.”"
+### § 140. THE CRUCIFIXION.
 
-■“1 When Jesus had spoken these words, he went forth with his disciples over the ^ brook *Kidron, where was a garden, into the^ which he entered, himself and his disciples.”' (§137)
+Matt. 27 : 32-56. | Mark 15:21-41. | Luke 23 : 26-49. | John 19 : 16b-37.
+--- | --- | --- | ---
+32 And as they came out, they found a man of Cyrene, Simon by name : him they <sup>1</sup>compelled to go _with them_, that he might bear his cross. [Paragraph continued on p. 228.] | 21 And they <sup>2</sup> compel one passing by, Simon of Cyrene, coming from the country, the father of Alexander and Rufus, to go _with them_, that he might bear his cross. [Paragraph continued on p. 228.] | 26 And when they led him away, they laid hold upon one Simon of Cyreno, coming from the country, and laid on him the cross, to bear it after Jesus.<br>27 And there followed him a great multitude of the people, and of women who bewailed and lamented him. 28 But Jesus turning unto them said. Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children. 29 For behold, the days are coming, in which they shall say. Blessed are the barren, and the wombs that never bare, and the breasts that never gave suck. <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> <br> 30 Then shall they begin to say to the mountains. Fall on us ; and to the hills. Cover us. 31 For if they do these things in the green tree, what shall be done in the dry? 32 And there were also two others, malefactors, led with him to be put to death. | [Cf. ver 17, page 223.]
+33 And when they were come unto a place called Golgotha, that is to say, The place of a skull, 34 they gave him wine to drink mingled with gall: and when he had tasted it, he would not drink. 35 And when they had crucified him, they parted his garments among them, casting lots : 36 and they sat and watched him there. 37 And they set up over his head his accusation written, this IS JESUS THE KING OF THE JEWS. 38 Then are there crucified with him two robbers, one on the right hand, and one on the left. [Paragraph continued on p. 229.] | 22 And they bring him unto the place Golgotha, which is, being interpreted. The place of a skull. 23 And they offered him wine mingled with myrrh : but he received it not. 24 And they crucify him, and part his garments among them, casting lots upon them, what each should take. 25 And it was the third hour, and they crucified him. 26 And the superscription of his accusation was written over, THE KING OPTHE JEWS. 27 And with him they crucify two robbers ; one on his right hand, and one on his <sup>1</sup>left. [Paragraph continued on p. 229.] | 33 And when they came unto the place which is called <sup>2</sup>The skull, there they crucified him, and the malefactors, one on the right hand and the other on the left. 34 <sup>3</sup>And Jesus said, Father, forgive them ; for they know not what they do. And parting his garments among them, they cast lots. [Paragraph continued on p. 229.] [Cf . also ver. 38, p. 230.] | 16b They took Jesus therefore:* 17 and he went out, bearing the cross for himself, unto the place called The place of a skull, which is called • in Hebrew Golgotha : 18 where they crucified him, and with him two others, on either side one, and Jesus in the midst. 19 And Pilate wrote a title also, and put it on the cross. And there was written, JESUS OP NAZARETH, THE KING OF THE JEWS. 20 This title therefore read many of the Jews : <sup>4</sup>for the place where Jesus was crucified was nigh to the city : and it was written in Hebrew, and in Latin, and in Greek. 21 The chief priests of the Jews therefore said to Pilate, Write not, The King of the Jews; but, that he <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> said, I am King of the Jews. 22 Pilate answered, What I have written I have written.
+[Cf. ver. 35, p. 228.] | [Cf. ver. 24, p. 228.] | [Cf. ver. 34, ,p. 226.] | 23 The soldiers therefore, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also the <sup>3</sup>coat: now the <sup>3</sup>coat was without seam, woven from the top throughout. 24 They said therefore one to another. Let us not rend it, but cast k>ts for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my garments among them. And upon my vesture did they cast lots. These things therefore the soldiers did.
+39 And they that passed by railed on him, wagging their heads, 40 and saying, Thou that destroyest the <sup>1</sup> temple, and buildest it in three days, save thyself: if thou art the Son of God, come down from the cross. 41 In like manner also the chief priests mocking him, with the scribes and elders, said, 42 He saved <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> others ; <sup>1</sup> himself he cannot save. He is the King of Israel ; let him now come down from the cross, and we will believe on him. 43 He trusteth on God; let him deliver him now, if he desireth him : for he said, I am the Son of God. | 29 And they that passed by railed on him, wagging their heads, and saying, Ha ! thou that destroyest the <sup>1</sup>temple, and buildest it in three days, 30 save thyself, and come down from the cross. 31 In like manner also the chief priests mocking him among themselves with the scribes said. He saved others ; <sup>2</sup> himself he cannot save. 32 Let the Christ, the King of Israel, now come down from the cross, that we may see and believe. | 35 And the people stood beholding. And the rulers also BcofiFed at him, saying. He saved others ; let him save himself, if this is the Christ of God, his chosen. 36 And the soldiers also mocked him, coming to him, offering him vinegar, 37 and saying. If thou art the King of the Jews, save thyself. 38 And there was also a superscription over him, THIS IS THE KING OF THE JEWS. | &nbsp; [Cf. ver. 19, p. 238, and paralells there.]
+44 And the robbers also that were crucified with him cast upon him the same reproach. | And they that were crucified with him reproached him. | 39 And one of the malefactors which <sup>1</sup> were hanged railed on him, saying, Art not thou the Christ ? save thyself and us. 40 But the other answered, and rebuking him said. Dost thou not even fear God, seeing thou art in the same condemnation? 41 And we indeed justly ; for we receive the due reward of our deeds : but this man hath done nothing amiss. 42 And he said, Jesus, remember me when thou comest <sup>2</sup> in thy kingdom. 43 And he said unto him, Verily I say unto thee, To-day shalt thou be with me in Paradise. | &nbsp;
+[Ct. Ter. 55, 56, p. 232.] | [Cf . ver. 40, 41, p. 232.] | [Cf. ver. 49, page 232.] | 25 But there were standing by the cross of Jesus his mother, and his mother's sister, Mary the _wife_ of Clopas, and Mary Magdalene. 26 When Jesus therefore saw his mother, and the <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> disciple standing by, whom he loved, he saith unto his mother, Woman, behold, thy son ! 27 Then saith he to the disciple. Behold, thy mother! And from that hour the disciple took her unto his own _home_.
+45 Now from the sixth hour there was darkness over all the <sup>1</sup>land until the ninth hour. 46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is. My God, my God, <sup>2</sup>why hast thou forsaken me? 47 And some of them that stood there, when they heard it, said, This man calleth Elijah. 48 And straightway one of them ran, and took a sponge, and filled it with vinegar, and put it on a reed, and gave him to drink. 49 And the rest said, Let be; let us see whether Elijah Cometh to save <sup>3</sup>him. 50 And Jesus cried again with a loud voice, and yielded up his spirit. <br>51 And behold, the veil of the <sup>4</sup> temple was rent in twain <sup>1</sup> from the top to the <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> bottom ; and the earth did quake ; and the rocks were rent; 52 and the tombs were opened ; and many bodies of the saints that had fallen asleep were raised ; 53 and coming forth out of the tombs after his resurrection they entered into the holy city and appeared unto many. | 33 And when the sixth hour was come, there was darkness over the whole Mand until the ninth hour. 34 And at the ninth hour Jesus cried with a loud voice, Eloi, Eloi, lama sabachthani? which is, being interpreted. My God, my God, <sup>1</sup>why hast thou forsaken me? 35 And some of them that stood by, when they heard it, said, Behold, he calleth Elijah. 36 And one ran, and filling a sponge full of vinegar, put it on a reed, and gave him to drink, saying, Let be ; let us see whether Elijah Cometh to take him down. 37 And Jesus uttered a loud voice, and gave up the ghost.<br> 38 And the veil of the <sup>4</sup> temple was rent in twain<sup>1</sup> from the top to the bottom. | 44 And it was now about the sixth hour, and a darkness came over the whole <sup>1</sup>land until the ninth hour, 45 <sup>5</sup>the sun's light failing: and the veil of the <sup>4</sup> temple was rent in the midst. 46 <sup>6</sup> And when Jesus had cried with a loud voice, he said<sup>2</sup> Father, into thy hands I commend my spirit: and having said this, he gave up the ghost. [Paragraph coDtinued on p. 232] | 28 After this Jesus, knowing that all things are now finished, that the scripture might be accomplished, saith, I thirst, 29 There was set there a vessel full of vinegar : so they put a sponge full of the vinegar upon hyssop, and brought it to his mouth. 30 When Jesus therefore had received the vinegar, he said. It is finished: and he bowed his head, and gave up his spirit.
+54 Now the centurion, and they that were with him watching Jesus, when they saw the earthquake, and the things that were done, feared exceedingly, saying. Truly this was Hhe Son of God. 55 And many women were there beholding from afar, which <sup>1</sup> had followed Jesus from Galilee, ministering unto him : 56 among whom was Mary Magdalene, and Mary the mother of James and Joses, and the mother of the sons of Zebedee. | 89 And when the centurion, which<sup>1</sup> stood by over against him, saw that he <sup>2</sup>so gave up the ghost, he said, Truly this man was <sup>1</sup> the Son of God. 40 And there were also women beholding from afar : among whom were both Mary Magdalene, and Mary the mother of James the <sup>3</sup>less and of Joses, and Salome ; 41 who, when he was in Galilee, followed him, and ministered unto him; and many other women which <sup>2</sup> came up with him unto Jerusalem. | 47 And when the centurion saw what was done, he glorified God, saying. Certainly this was a righteous man. 48 And all the multitudes that came together to this sight, when they beheld the things that were done, returned smiting their breasts. 49 And all his acquaintance, and the women that followed with him from Galilee, stood afar off, seeing these things. | [Cf. ver. 55, p. 190.]
+&nbsp; | &nbsp; | &nbsp; | 81 The Jews therefore, because it was the Preparation, that the bodies should not remain on the cross upon the sabbath (for the day of that sabbath was a high _day_), asked of Pilate that their legs might be <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> broken, and that they might be taken away. 32 The soldiers therefore came, and brake the legs of the first, and of the other which > was crucified with him: 33 but when they came to Jesus, and saw that he was dead already, they brake not his legs : 34 howbeit one of the soldiers with a spear pierced his side, and straightway there came out blood and water. 35 And he that hath seen hath borne witness, and his witness is true : and he knoweth that he saith true, that ye also may believe. 36 For these things came to pass, that the scripture might be fulfilled, A bone of him shall not be <sup>1</sup>broken. 37 And again another scripture saith. They shall look on him whom they pierced.
 
-ERVmg. : i Gi. an enclosed piece of ground. » Many ancient authorities omit ver. 43, 44. <sup>1</sup> Or, ravine Gr. winter-torrent. *0r, of the Cedars
+### § 141. THE BURIAL.
 
-ARV. txt. : » Omit O 2 Omit the
-
-» John 12: 27. Now is my soul troubled ; and what shall I sayl (§129)
-
-b John 12: 27, 28. Father, save me from this hour. But for this cause came I unto this hour. 28 Father, glorify thy name. (§ 129)
-
-<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
-
-§137
-
-Matt. 26.
-
-ye not watch with me one hour? 41 ^ Watch and pray, that ye enter not into temptation : the spirit indeed is willing, but the flesh is weak. 42 Again a second time he went away, and prayed, saying, O' my Father, if this cannot pass away, except I drink it, thy will be done. 43 And he came again and found them sleeping, for their eyes were heavy. 44 And he left them again, and went away, and prayed a third time, saying again the same words. 45 Then cometh he to thedisciples,andsaith unto them. Sleep on now, and take* your rest : behold, the hour is at hand, and the Son of man is betrayed unto^ the hands of sinners. 46 Arise, let us be going: behold, he is at hand that betrayeth me.
-
-Mark 14.
-
-sleeping, and saith unto Peter, Simon, sleepest thou? couldest thou not watch one hour? 38 1 Watch and pray, that ye enter not into temptation : the spirit indeed is willing, but the flesh is weak. 39 And again he went away, and prayed, saying the same words. 40 And again he came, and found them sleeping, for their eyes were very heavy ; and they wist* not what to answer him. 41 And ho cometh the third time, and saith unto them, Sleep on now, and take your rest : it is enough ; the hour is come ; behold, the Son of man is betrayed into the hands of sinners. 42 Arise, let us be going : behold, he that betrayeth me is at hand.
-
-Luke 22.
-
-said unto them, ^Vhy sleep ye? rise and pray, that ye enter not into temptation.
-
-Matt. 26 : 47-56. 47 And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the peo
-
-§ 137. THE BETRAYAL AND ARREST. Luke 22 : 47-53.
-
-Mabk 14 : 43-52. 43 And straightway, while he yet spake, cometh Judas, one of the twelve, and with him a multitude with swords and staves, from the chief priests and the scribes and
-
-47 While he yet spake, behold, a multitude, and he that was called Judas, one of the twelve, went before them ; and he drew near unto Jesus to kiss him. 48 But
-
-John 18 : 1-11 ■'121.
-
-1 When Jesus had spoken these words,he went forth with his disciples over the ^brook ^Kidron, where was a garden, into the* which he entered, himself and his disci
-
-EKV. mi{.: ^Oi, M'atch, ye, and pray thai ye enter not ^Or, ravine Gr. winter-torrent. <sup>1</sup> Or, of I he Cedars ARV. Ut: i Omit 'into 'knew * Omit th»
-
-211
-
-§137
-
-THE PASSION WEEK— FRIDAY
-
-Matt. 26.
-
-pie. 48 Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that is he : take him. 49 Andstraightway he came to Jesus, and said. Hail, Rabbi ; and 1 kissed him. 50 And Jesus said unto him. Friend, do that for which thou art come. Then they came and laid hands on Jesus, and took him. 51 And behold, one of them that were with Jesus stretched out his hand, and drew his sword, and smote the 2 servant of the high priest, and struck off his ear. 52 Then saith Jesus unto him. Put up again thy sword into its place : for all they that take the sword shall perish with the sword. 53 Or thinkest thou that I cannot beseech my Father, and he shall even now send me more than twelve legions of angels? 54 How then should the scriptures be fulfilled, that thus it must be? 55 In that hour said Jesus to the multitudes, Are ye come out as against a robber with swords and staves to seize me? I sat daily in the tem
-
-Makk 14.
-
-the elders. 44 Now he that betrayed him had given them a token, saying. Whomsoever I shall kiss, that is he; take him, and lead him away safely. 45 And when he was come,straightway he came to him, and saith, Rabbi; and 1 kissed him. 46 And they laid hands on him, and took him. 47 But a certain one of them that stood by drew his sword, and smote the ^ servant of the high priest, and struck off his ear. 48 And Jesus answered and said unto them. Are ye come out, as against a robber, with swords and staves to seize me? 49 I was daily with you in the temple teaching, and ye took me not: but this is done that the scriptures might be fulfilled. 60 And they all left him, and fled.
-
-Luke 22. Jesus said unto him, Judas, betrayest thou the Son of man with a kiss? 49 And when they that were about him saw what would follow, they said. Lord, shall we smite with the sword? 50 And a certain one of them smote the ^ servant of the high priest, and struck off his right ear. 51 But Jesus answered and said. Suffer ye^ thus far. And he touched his ear, and healed him. 52 And Jesus said unto the chief priests, and captains of the temple, and elders, which ^ were come against him, Are ye come out, as against a robber, with swords and staves? 53 When I was daily with you in the temple, ye stretched not forth your hands against me : but this is T^our hour, and the power of darkness.
-
-John 18.
-
-pies. 2 Now Judas also, which 3 betrayed him, knew the place : for Jesus ofttimes resorted thither with his disciples. 3 Judas then, having received the ^hand of soldiers, and officers from the chief priests and the Pharisees, cometh thither with lanterns and torches and weapons. 4 Jesus therefore, knowing all the things that were coming upon him, went forth, and saith unto them. Whom seek ye? '5 They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also,which* betrayed him, was standing with them. 6 When therefore he said unto them, I am he, they went backward, and fell to the ground. 7 Again therefore he asked them, Whom seek ye? And they said, Jesus of Nazareth. 8 Jesus answered, I told you that I am Jie : if therefore ye seek me, let these go their way : 9 that the word might be fulfilled which he spake, Of those whom th<sup>1</sup>u hast given me I lost not one. 10 Simon Peter therefore
-
-ERV. mg.: i Gr. kissed him much. ' Gi. bondservant. 'Or, cohort
-
-ABY. tit: lyetAem 'that
-
-<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
-
-§138
-
-Matt. 26.
-
-pie teaching, and ye took me not. 56 But all this is corao to pass, that the scriptures of the prophets might be fulfilled. Then all the disciples left him, and fled.
-
-Makk 14.
-
-51 And a certain young man followed with him, having a linen cloth cast about him, over his naked body : and they lay hold on him ; 52 but he left the linen cloth, and fled naked.
-
-John 18.
-
-having a sword drew it, and struck the high priest's ' servant, and cut off his right ear. Now the ' servant's name was Malchus. llJesus therefore said unto Peter, Put up the sword into the sheath: the cup which the Father hath given me, shall I not drink it?
-
-'“12 So the 2 band and the 'chief captain, and the officers of the Jews, seized Jesus and bound him,”" (§138)
-
-§138. THE TRIAL BEFORE THE JEWISH AUTHORITIES.
-
-Matt. 26: 57— 27:10.
-
-[Ct ver. 57, p. 216.]
-
-Mabk 14:53-72 ri6:la\
-
-[Cf. ver. B8, p. 216.]
-
-Luke 22 : 54-71.
-
-[Clver.S4, P.2I6.]
-
-John 18:12-27. 12 So the 2 band and the ^chief captain, and the officers of the Jews, seized Jesus and bound him,
-
-13 and led him to Annas first ; for he was father in law to Caiaphas, which' was high priest that year.
-
-14 Now Caiaphas was he which ^ gave counsel to the Jews, that it was expedient that
-
-ERV. mg.: I (ii
-
-'ihttrt <sup>1</sup> Or, vtilitary trifiuite dr. chili(irch.
-
-ARV. Ut.: >who 'that
-
-213
-
-§138
-
-THE PASSION WEEK— FRIDAY
-
-Matt. 26.
-
-[Cf. V8«. 69,70, p. 217.]
-
-Mabk 14.
-
-[Cf. vss. 66-6S, p. 217.1
-
-Luke 22.
-
-rCf. vss. 55-57, p. 217.]
-
-ERV. nig. : » Gr. bondservants. = Or. a fire of charcoal- ' Gr, synagogue. ARV. txt. : » who
-
-214
-
-John 18.
-
-one man should die for the people.
-
-15 And Simon Pet-er followed Jesus, and so did another disciple. Now that disciple was known unto the high priest, and entered in with Jesus into the court of the high priest; 16 but Peter was standing at the door without. So the other disciple, which' was known unto the high priest, went out and spake unto her that kept the door, aftd brought in Peter. 17 The maid therefore that kept the door saith unto Peter, Art thou also one of this man's disciples? He saith, I am not. 18 Now the 1 servants and the officers were standing there, having made ^a fire of coals ; for it was cold ; and they were warming themselves: and Peter also was with them, standing and warming himself.
-
-19 The high priest therefore asked Jesus of his disciples, and of his teaching. 20 Jesus answered him, I have spoken openly to the world ; I ever taught in 8 synagogues, and in the temple, where
-
-THE TRIAL BEFORE THE JEWISH AUTHORITIES
-
-§138
-
-Matt. 26.
-
-57 And they that had taken Jesus led him away to the house of Caiaphas the high priest, where the scribes and the elders were gathered together, 58 But Peter followed him afar off, unto the court of the high priest, and entered in, and sat with the officers, to see the end. 59 Now the chief priests and the whole council sought false witness against Jesus, that they might put him to death ; 60 and they found it not, though many false witnesses came. But
-
-ERV. mg. ; • Or, with a rod
-
-Make 14.
-
-53 And they led Jesus away to the high priest: and there come together with him all the chief priests and the elders and the scribes. 54 And Peter had followed him afar off, even within, into the court of the high priest; and he was sitting with the officers, and warming himself in the light of the fire. 55 Now the chief priests and the whole council sought witness against Jesus to put him to death ; and found it not. 56 For many bare false witness against him.
-
-Luke 22.
-
-54 And they seized him, and led him away, and brought him into the high priest's house. But Peter followed afar off. ^55 And when they had kindled a fire in the midst of the court, and had sat down together, Peter sat in the midst of them. 56 And a certain maid seeing him as he sat in the light of the fire—^
-
-[Parsgraph cootinued on p. 217.]
-
-John 18.
-
-all the Jews come together; and in secret spake I nothing. 21 Why askest thou me? ask them that have heard me,what I spake unto them : behold, these know the things which I said. 22 And when he had said this, one of the officers standing by struck Jesus ^ with his hand, saying, Answerest thou the high priest so? 23 Jesus answered him. If I have spoken evil, bear witness of the evil : but if well, why smitest thou me? 24 Annas therefore sent him bound unto Caiaphas the high priest.
-
-215
-
-§138
-
-THE PASSION WEEK— FRIDAY
-
-Matt. 26.
-
-afterward came two, 61 and said, This man said, I am able to destroy the ^ temple of God, and to build it in three days. 62 And the high priest stood up, and said unto him, Answerest thou nothing? what is it which these witness against thee? 63 But Jesus held his peace. And the high priest said unto him, I adjure thee by the living God, that thou tell us whether thou be ^ the Christ, the Son of God. 64 Jesus saith unto him, Thou hast said : nevertheless I say unto you. Henceforth ye shall see the Son of man sitting at the right hand of power''', and coming on the clouds of heaven. 65 Then the high priest rent his garments, saying, He hath spoken blasphemy : what further need have we of witnesses? behold, now ye have heard the blasphemy : 66 what think ye ? They answered and said, He is ^worthy of death.
-
-Make 14. and their witness agreed not together. 57 And there stood up certain, and bare false witness against him, saying, 58 We heard him say, I will destroy this 1 temple that is made with hands, and in three days I will build another made without hands. 59 And not even so did their witness agree together. 60 And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing ? what is it which these witness against thee ?
-
-61 But he held his peace, and answered nothing. Again the high priest asked him, and saith unto him. Art thou the Christ, the Son of the Blessed ?
-
-62 And Jesus said, I am : and ye shall see the Son of man sitting at the right hand of power 2, and coming with the clouds of heaven. 63 And the high priest rent his clothes, and saith, What further need have we of witnesses ? 64 Ye have heard the blasphemy: what think ye ? And they all condemned him to be ^ worthy of death.
-
-Luke 22.
-
-John 18.
-
-ERV. mg. : i Or, sanctuary : as in Matt, xxiii. 35 ; xxvii. 5. ' Gr. liable to.
-
-ARV. tit. ; » art » Power
-
-<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
-
-§138
-
-Matt. 26. 67 Then did they spit in his face and buffet him : and some smote him ' with the palms of their hands, 68 saying, Prophesy unto us, thou Christ : who is he that struck thee?
-
-69 Now Peter was sitting without in the court: and a maid came unto him, saying, Thou also wast with Jesus the Galilaean. 70 But he denied before them all, saying, I know not what thou sayest. 71 And when he W'as gone out into the porch, another maid saw him, and saith unto them that were there. This man also was with Jesus the Nazarene^ 72 And again he denied with an oath, I know not the man. 73 And after a little while they that stood by came and said to Peter, Of a truth thou also art one of them ; for thy speech bewrayeth thee 2. 74 Then began he to curse and to swear, I know not the man. And straightway the cock crew. 75 And Peter remem
-
-Mabk 14. 65 And some began to spit on him, and to cover his face, and to buffet him, and to to say unto him. Prophesy : and the officers received him with 2 blows of their hands.
-
-66 And as Peter was beneath in the court, there cometh one of the maids of the high priest ; 67 and seeing Peter warming himself, she looked upon him, and saith. Thou also wast with the Nazarene, even Jesus. 68 But he denied, saying, ^I neither know, nor understand what thou sayest : and he went out into the * porch; ^and the cock crew. 69 And the maid saw him, and began again to say to them that stood by, This is one of them. 70 But he again denied it. And after a little while again they that stood by said to Peter, Of a truth thou art one of them; for thou art a Galilaean, 71 But he began to curse, and to swear, I know not this man of whom ye speak. 72 And
-
-Luke 22. 63 And the men that held ''Jesus mocked him, and beat him. 64 And they blindfolded him, and asked him, saying. Prophesy : who is he that struck thee? 65 And many other things spake they against him, reviling him.
-
-[Ver. 6Cff., p. ilS.J
-
-55 And when they had kindled a fire in the midstof thecourt,and had sat down together, Peter sat in the midst ofthem, 56 Andacertain maid seeing him as he sat in the light of the fire, and looking stedfastly upon him, said, This man also was with him. 57 But he denied, saying. Woman, I know him not. 58 And after a little while another saw him, and said. Thou also art one of them. But Peter said, Man, I am not. 59 And after the space of about one hour another confidently affirmed, saying, Of a truth this man also was with him : for he is a GaliIsean. 60 But Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew. 61 And the
-
-John 18.
-
-[C£. ver. 15-18, p. 214. |
-
-25 Now Simon Peter was standing and warming himself. They said therefore unto him. Art thou also one of his disciples? He denied, and said, I am not. 26 One of the 'servants of the high priest, being a kinsman of him who.se ear Peter cut off, saith, Did not I see thee in the garden with him? 27 Peter therefore denied again : and straightway the cock crew.
-
-F.RV. mg. : > Or, teith rods » Or, strokes of rods <sup>1</sup> Or, / neither know, nor understand: thou, what sayest thou t court. * M&oy aocicnt authorities omit and the cock crew. " Gr. Aim. ' Gr. bondservants.
-
-* dr. fore
-
-ARV. txt. : > Jctiu of Nazareth ' makcth thee known
-
-217
-
-§138
-
-THE PASSION WEEK — FRIDAY
-
-Matt. 26.
-
-bered the word which Jesus had said, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.
-
-27:1 Now when morning was come, all the chief priests and theeldersof the people took counsel against Jesus to put him to death : [2 and they bound him, and led him away, and delivered him up to Pilate the governor.] (§139)
-
-3 Then Judas, which ^ betrayed him, when he saw that he was
-
-Mark 14.
-
-straightway the second time thecockcre w. And Peter called to mind the word, how that Jesus said unto him. Before the cock crow twice, thou shalt deny me thrice. ^And when he thought thereon, he wept.
-
-■^15 : 1 And straightway in the morning the chief priests with the elders and scribes, and the whole council, held a consultation,—“” (§ 139)
-
-Luke 22.
-
-Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how that he said unto him. Before the cock crow this day, thou shalt deny me thrice. 62 And he went out, and wept bitterly.
-
-[Ver. 63fF,, p. 217]
-
-66 And as soon as it was day, the assembly of the elders of the people was gathered together, both chief priests and scribes ; and they led him away into their council, saying, 67 If thou art the Christ, tell us. But he said unto them. If I tell you, ye will not believe : 68 and if I ask you, ye will not answer. 69 But from henceforth shall the Son of man be seated at the right hand of the power of God. 70 And they all said. Art thou then the Son of God? And he said unto them, ^Ye say that I am. 71 And they said. What further need have we of witness? for we ourselves have heard from his own mouth.
-
-ERV. mg. : i Or, And he began to weep. ' Or, i'e say it, because I i
-
-ARV, txt. : J who
-
-<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
-
-§138
-
-Matt. 27.
-
-condemned, repented himself, and brought back the thirty pieces of silver to the chief priests and elders, 4 saying, I have sinned in that I betrayed ' innocent blood. But they said, What is that to us? see thou to it. 5 And he cast down the pieces of silver into the sanctuary, and departed ; and he went away and hanged himself. 6 And the chief priests took the pieces of silver, and said, It is not lawful to put them into the ^ treasury, since it is the price of blood. 7 And they took counsel, and bought with them the potter's field, to bury strangers in. 8 Wherefore that field was called. The field of blood, unto this day. 9 Then was fulfilled that which was spoken *by* Jeremiah the prophet, saying. And * they took the thirty pieces of silver, the price of him that was priced, ^ whom certain of the children of Israel did price ; 10 and "they gave them for the potter's field, as the Lord appointed me.
-
-ERV. mg. : I Ifany ancient authorities read ri'(7A^pni(S. '(ir. corfcanos, that is, sorrff/ fr^'fisurj/' Compare Ma * Or, / tmtk »0r, vohom they priced on the part of the lona u/ laratl •Sonic ancient authorities read / (/(iiit.
-
-'Or, through
-
-AKV. txl.: 1 Utrough
-
-219
-
-§139
-
-THE PASSION WEEK— FRIDAY
-
-§139. THE TRIAL BEFORE PILATE.
-
-Matt. 27 : “”21 11-31. •^2 and they bound him, and led him away, and delivered him up to Pilate the governor.'' (§138)
-
-11 Now Jesus stood before the governor : and the govervor asked him, saying, Art thou the King of the Jews ? And Jesus said unto him. Thou sayest. 12 And when he was accused by the
-
-Mark 15 : 1-20. 1 And straightway in the morning the chief priests with the elders and scribes, and the whole council,held a consultation, and bound Jesus, and carried him away, and delivered him up to Pilate.
-
-[Paragraph continued below.]
-
-2 And Pilate asked him. Art thou the King of the Jews? And he answering, saith unto him, Thou sayest. 3 And the chief priests accused him of many things. 4 And Pilate again
-
-Luke 23 : 1-25. 1 And the whole company of them rose up, and brought him before Pilate. 2 And they began to accuse him, saying. We found this man perverting our nation, and forbidding to give tribute to Caesar, and saying that he himself is ^Christ a king.
-
-Paragraph continued below.]
-
-3 And Pilate asked him, saying, Art thou the King of the Jews ? And he answered and said, Thou sayest.
-
-[Paragraph continued on p. 221.]
-
-John 18 : 2S— 19 : 16a. 28 They lead Jesus therefore from Caiaphas into the ^palace ' : and it was early ; and they themselves entered not into the 2 palace S that they might not be defiled, but might eat the passover. 29 Pilate therefore went out unto them, and saith, What accusation
-
-bring ye against this man? 30 They answered and said unto him. If this man were not an evildoer, we should not have delivered him up unto thee.
-
-31 Pilate therefore said unto them. Take him yourselves, and judge him according to your law. The Jews said unto him, It is not lawful for us to put any man to death :
-
-32 that the word of Jesus might be fulfilled, which he spake, signifying by what manner of death he should die.
-
-33 Pilate therefore entered again into the 2 palace', and called Jesus, and said unto him, Art thou the King of the Jews? 34 Jesus answered, Sayest thou this of thyself, or did others tell
-
-ERV. mg. : lOi, an anointed king ' Gr. Prcetoritim.
-
-ARV . tet. : I Praetorium
-
-<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
-
-§139
-
-Matt. 27. chief priests and elders, he answered nothing. 13 Then saith Pilate unto him, Hearest thou not how many things they witness against thee? 14 And he gave him no answer, not even to one word : insomuch that the governor marvelled greatly.
-
-Mark 15. asked him, saying, answerest thou nothing? behold how many things they accuse thee of. 5 But Jesus no more answered anything; insomuch that Pilate marvelled.
-
-Luke 23.
-
-4 And Pilate said unto the chief priests and the multitudes, I find no fault in this man. But they were the more urgent, saying, He stirreth up the people, teaching throughout all Judasa, and beginning from Galilee even unto this place. 6 But when Pilate heard it, he asked whether the
-
-ERV. mg.; ^Oi,offlcera: as in ver. 3, 12, 18, 22. * Or, Thou aayeat \*,, because I am a king
-
-John 18. it thee concerning me? 35 Pilate answered. Am I a Jew? Thine own nation and the chief priests delivered thee unto me : what hast thou done ? 36 Jesus answered, My kingdom is not of this world : if my kingdom were of this world, then would my • servants fight, that I should not be delivered to the Jews : but now is my kingdom not from hence. 37 Pilate therefore said unto him, Art thou a king then ? Jesus answered ^Thou sayest that I am a king. To this end have I been born, and to this end am I come into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice. 38 Pilate saith unto him, What is truth?
-
-And when he had said this, he went out again unto the Jews, and saith unto them, I find no crime in him.
-
-[Paragraph continued on p. 223.]
-
-221
-
-§139
-
-THE PASSION WEEK— FRIDAY
-
-Matt, 27.
-
-Mark 15.
-
-Luke 23. man were a Galilsean. 7 And when he knew that he was of Herod's jurisdiction, he sent him unto Herod, who himself also was at Jerusalem in these days.
-
-8 Now when Herod saw Jesus, he was exceeding glad : for he was of a long time desirous to see him, because he had heard concerning him ; and he hoped to see some ' miracle done by him. 9 And he questioned him in many words ; but he answered him nothing. 10 And the chief priests and the scribes stood, vehemently accusing him. 11 And Herod with his soldiers set him at nought, and mocked him, and arraying him in gorgeous apparel sent him back to Pilate. 12 And Herod and Pilate became friends with each other that very day: for before they were at enmity between themselves.
-
-13 And Pilate called together the chief priests and the rulers and the people, 14 and said unto them. Ye brought unto me this man, as one that perverteth the people : and behold, I, having examined him before you, found no fault in
-
-John 18,
-
-KRT. ne. : > Or. sign.
-
-<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
-
-§139
-
-Matt. 27.
-
-15 Now at ' the feast the governor was wont to release unto the multitude one prisoner, whom they would. 16 And they had then a notable prisoner, called Barabbas. 17 When therefore they were gathered together, Pilate said unto them, Whom will ye that I release unto you ? Barabbas, or Jesus which' is called Christ ? 18 For he knew that for envy they had delivered him up. 19 And while he was sitting on the judgement-seat, his wife sent unto him, saying, Have thou nothing to do with that righteous man : for I have suffered many things this day in a dream because of him. 20 Now the chief priests and the elders persuaded the multitudes that they should ask for Barabbas, and destroy Jesus.
-
-Makk 15.
-
-6 Now at ' the feast he used to release unto them one prisoner, whom they asked of him. 7 And there was one called Barabbas, lying bound with them that had made insurrection, men who in the insurrection had committed murder. 8 And the multitude went up and began to ask him to do as he was wont to do unto them. 9 And Pilate answered them, saying. Will ye that I release unto you the King of the Jews? 10 For he perceived that for envy the chief priests had delivered him up. 11 But the chief priests stirred up the multitude, that he should rather release Barabbas unto them. 12 And Pilate again answered and said unto them, What then shall I do unto him whom ye call the King of the
-
-Luke 23.
-
-this man touching those things whereof ye accuse him : 15 no, nor yet Herod : for he sent him back unto us; and behold, nothing worthy of death hath been done by him. 16 I will therefore chastise him, and release ^him.
-
-[Furagraph continued l>elu\v.j
-
-18 But they cried out all together, saying. Away with this man, and release unto us Barabbas: 19 one who for a certain insurrec tion made in the city, and for murder, was cast into prison. 20 And Pilate spake unto them again, desiring
-
-John 18.
-
-39 But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews? 10 They cried out therefore again, saying. Not this man, but Barabbas. Now Barabbas was a robber.
-
-ERV. m«r. : > Or, a/«a9f ' Many ancient authority Others %iA the Baxae words after Ter. 19.
-
-ART. Ul: >«ke
-
-insert ver. 17 How he must needs release unto them at the feast one prisoner.
-
-223
-
-§139
-
-THE PASSION WEEK— FRIDAY
-
-Matt. 27. 21 But the governor answered and said unto them, Whether' of the twain2 ^in ye that I release unto you? And they said, Barabbas. 22 Pilate saith unto them. What then shall I do unto Jesus which^ is called Christ? They all say, Let him be crucified. 23 And he said. Why, what evil hath he done? But they cried out exceedingly, saying, Let him be crucified. 24 So when Pilate saw that he prevailed nothing, but rather that a tumult was arising, he took water, and washed his hands before the multitude, saying, I am innocent ' of the blood of this righteous man: see ye to it. 25 And all the people answered and said. His blood be on us, and on our children. 26 Then released he unto them Barabbas : but Jesus he scourged and delivered to be crucified.
-
-27 Then the soldiers of the governor took Jesus into the ^palace*, and gathered unto him the whole ^band. 28 And they * stripped him, and put on him a scarlet robe. 29 And they plaited^ a crown
-
-Makk 15. Jews? 13 And they cried out again. Crucify him. 14 And Pilate said unto them, Why, whatevilhathhedone? But they cried out exceedingly, Crucify him. 15 And Pilate, wishing to content the multitude, released unto them Barabbas, and delivered Jesus, when he had scourged him, to be crucified.
-
-16 And the soldiers led him away within the court, which is the ^Praetorium; and they call together the whole ^ band. 17 And they clothe him with purple, and plaiting^ a crown of thorns,
-
-Luke 23. to release Jesus ; 21 but they shouted, saying. Crucify, crucify him. 22 And he said unto them the third time, Why, what evil hath this man done? I have found no cause of death in him : I will therefore chastise him and release him. 23 But they were instant' with loud voices, asking that he might be crucified. And their voices prevailed, 24 And Pilate gave sentence that what they asked for should be done. 25 And he released him that for insurrection and murder had been cast into prison, whom they asked for ; but Jesus he delivered up to their will.
-
-JOHK 19.
-
-[Cf. 19:1.1
-
-19:1 Then Pilate therefore took Jesus, and scourged him. 2 And the soldiers plaited* a crown of thorns, and put it on his head, and arrayed him in a purple garment; 3 and they came unto
-
-ERV. mg. : i Some ancient authorities read o/r/KS ftiood: see j/e etc. ^ Gr. Prcetortum. See Mark xT. 16. 3 Or, cohort * Some ancient authorities read cioffeed. <sup>1</sup> Or, palace
-
-ARV. txt. ; 1 Which = two ' who * Pra;torium
-
-> platted 6 platting ' urgent
-
-<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
-
-§139
-
-Matt. 27.
-
-of thorns and put it upon his head, and a reed in his right hand ; and they kneeled down before him, and mocked him, saying, Hail, King of the Jews! 30 And they spat upon him, and took the reed and smote him on the head.
-
-[Paragraph continued on p. 227.]
-
-Mabk 15.
-
-they put it on him; 18 and they began to salute him. Hail, King of the Jews ! 19 And they smote his head with a reed, and did spit' upon him, and bowing their knees worshipped him.
-
-[Paragraph continued on p. 227.
-
-John 19.
-
-him, and said, Hail, King of the Jews! and they struck him ' with their hands.
-
-4 And Pilate went out again, and saith unto them. Behold, I bring him out to you, that ye may know that I find no crime in him. 5 Jesus therefore came out, wearing the crown of thorns and the purple garment. And Pilate saith unto them. Behold, the man ! 6 When therefore the chief priests and the officers saw him, they cried out,saying. Crucify Mm, crucify 7ii??i. Pilate saith unto them, Take him yourselves, and crucify him: for I find no crime in him. 7 The Jews answered him, We have a law, and by that law he ought to die, because he made himself the Son of God. 8 When Pilate therefore heard this saying, ho was the more afraid ; 9 and he entered into
-
-F.RT. mg. : » Or, with rods
-
-ARV. Ut. : > and ipat
-
-225
-
-§139
-
-THE PASSION WEEK— FRIDAY
-
-John 19. the ^ palace ' again, and saith unto Jesus, Whence art thou? But Jesus gave him no answer. 10 Pilate therefore saith unto him, Speakest thou not unto me? knowest thou not that I have 2 power to release thee, and have ^ power to crucify thee? 11 Jesus answered him, Thou wouldest have no 2 power against me, except it were given thee from above : therefore he that delivered me unto thee hath greater sin. 12 Upon this Pilate sought to release him : but the Jews cried out, saying, If thou release this man, thou art not Caesar's friend : everyone that maketh himself a king ^speaketh against Caesar. 13 When Pilate therefore heard these words, he brought Jesus out, and sat down on the judgement-seat at a place called The Pavement, but in Hebrew, Gabbatha. 14 Now it was the Preparation of the passover: it was about the sixth hour. And he saith unto the Jews, Behold, your King! 15 They therefore cried out, Away with himy away with him, crucify him.
-
-BRV. mg. : i Gr. Rroetorium. <sup>1</sup> Or, authority " Or, opposeth CcEsar
-
-ARV. teit. ; » Fiaetorittm
-
-<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
-
-§140
-
-Matt. 27.
-
-31 And when they had mocked him, they took ofiF from him the robe, and put on him his garments, and led him away to crucify him.
-
-Makk 15.
-
-20 And whentheyhad mocked him, they took off from him the purple, and put on him his garments. And they lead him out to crucify him.
-
-John 19.
-
-Pilate saithuntothem, Shall I crucify your King? The chief priests answered, We have no king but Caesar. 16 Then therefore he delivered him unto them to be crucided.
-
-§ 140. THE CRUCIFIXION.
-
-i*lATT. 27 : 32-56.
-
-32 And as they came out, they found a man of Cyrene, Simon by name : him they 'compelled to go vith them, that he might bear his cross.
-
-[Paragraph continued on p. 22S.)
-
-Mark 15:21-41.
-
-21 And they ^ compel one passing by, Simon of Cyrene, coming from the country, the father of Alexander and Rufus, to go u'ith them, that he might bear his cross.
-
-[Paragraph continued on p. 228. J
-
-Luke 23 : 26-49.
-
-26 And when they led him away, they laid hold upon one Simon of Cyreno, coming from the country, and laid on him the cross, to bear it after Jesus.
-
-27 And there followed him a great multitude of the people, and of women who bewailed and lamented him. 28 But Jesus turning unto them said. Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children. 29 For behold, the days are coming, in which they shall say. Blessed are the barren, and the wombs that never bare, and the breasts that never gave suck.
-
-ERV. ■{. : I Or. impressed. » Or. impress.
-
-John 19 : 166-;i7.
-
-17, pase 223.1
-
-227
-
-§140
-
-THE PASSION WEEK— FRIDAY
-
-Matt. 27.
-
-33 And when they were come unto a place called Golgotha, that is to say, The place of a skull, 34 they gave him wine to drink mingled with gall: and when he had tasted it, he would not drink. 35 And when they had crucified him, they parted his garments among them, casting lots :
-
-36 and they sat and watched him there.
-
-37 And they set up over his head his accusation written, this
-
-IS JESUS THE KING OF
-
-THE JEWS. 38 Then are there crucified with him two robbers, one on the right hand, and one on the left.
-
-[Paragraph continued on p. 229.]
-
-Mark 15.
-
-22 And they bring him unto the place Golgotha, which is, being interpreted. The place of a skull. 23 And they offered him wine mingled with myrrh : but he received it not. 24 And they crucify him, and part his garments among them, casting lots upon them, what each should take. 25 And it was the third hour, and they crucified him. 26 And the superscription of his accusation was written over, THE KING OP
-
-THE JEWS. 27 And with him they crucify two robbers ; one on his right hand, and one on his Ueft.
-
-[Paragraph continued on p. 229.]
-
-Luke 23.
-
-30 Then shall they begin to say to the mountains. Fall on us ; and to the hills. Cover us.
-
-31 For if they do these things in the green tree, what shall be done in the dry?
-
-32 And there were also two others, malefactors, led with him to be put to death.
-
-33 And when they came unto the place which is called ^The skull, there they crucified him, and the malefactors, one on the right hand and the other on the left. 34 ^And Jesus said, Father, forgive them ; for they know not what they do. And parting his garments among them, they cast lots.
-
-[Paragraph continued on p. 229.]
-
-[Cf . also ver. 38, p. 230.]
-
-John 19.
-
-16& They took Jesus therefore:* 17 and he went out, bearing the cross for himself, unto the place called The place of a skull, which is called • in Hebrew Golgotha : 18 where they crucified him, and with him two others, on either side one, and Jesus in the midst. 19 And Pilate wrote a title also, and put it on the cross. And there was written, JESUS OP NAZARETH, THE KING OP
-
-THE JEWS. 20 This title therefore read many of the Jews : *for the place where Jesus was crucified was nigh to the city : and it was written in Hebrew, and in Latin, and in Greek. 21 The chief priests of the Jews therefore said to Pilate, Write not, The King of the Jews; but, that he
-
-ERV. mg. • 1 Many ancient authorities insert ver. 28 And the scripture was fulfilled, which saith. And he was reckoned with transgressors. See Luke xxii. 37. » According to the Latin, Calvary, which has the same meaning. 3 Some ancient authorities omit And Jfsus said. Father, for give them; for they know not what they do. * Or, for the place of the city where Jesus was crucified was nigh at hand
-
-•ARV. includes They . . . therefore: in ver. 17.
-
-<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
-
-§140
-
-Matt. 27.
-
-(Ct Tw. 3S, ^ 2>8.]
-
-39 And they that passed by railed on him, wagging their heads, 40 and saying, Thou that destroyest the ' temple, and buildest it in three days, save thyself: if thou art the Son of God, come down from the cross. 41 In like manner also the chief priests mocking him, with the scribes and elders, said, 42 He saved
-
-Mark 15.
-
-tCt Ter. 24, p. 228.)
-
-29 And they that passed by railed on him, wagging their heads, and saying, Ha ! thou that destroyest the Hemple, and buildest it in three days, 30 save thyself, and come down from the cross. 31 In like manner also the chief priests mocking him among themselves with the scribes said. He saved others ; 2 himself he cannot
-
-LuKs 23.
-
-[Cf. ver. 34, ,p. 226.1
-
-35 And the people stood beholding. And the rulers also BcofiFed at him, saying. He saved others ; let him save himself, if this is the Christ of God, his chosen. 36 And the soldiers also mocked him, coming to him, offering him vinegar, 37 and saying. If thou art the King of the Jews, save thyself. 38 And there was also
-
-John 19. said, I am King of the Jews. 22 Pilate answered, What I have written I have written.
-
-23 The soldiers therefore, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also the *coat: now the *coat was without seam, woven from the top throughout. 24 They said therefore one to another. Let us not rend it, but cast k>ts for it, whose it shall be: that the scripture might be fulfilled, which saith,
-
-They parted my garments among them. And upon my vesture did they cast lots. These things therefore the soldiers did.
-
-KKV. ; mg. : > Or. lanctuary ' Or, can he not save himttlff <sup>1</sup> Or, {unto
-
-229
-
-§140
-
-THE PASSION WEEK— FRIDAY
-
-Matt. 27. others ; * himself he cannot save. He is the King of Israel ; let him now come down from the cross, and we will believe on him.
-
-43 He trusteth on God; let him deliver him now, if he desireth him : for he said, I am the Son of God.
-
-44 And the robbers also that were crucified with him cast upon him the same reproach.
-
-[Ct. Ter. 55, 56, p. 232.1
-
-Mabk 15. save. 32 Let the Christ, the King of Israel, now come down from the cross, that we may see and believe.
-
-And they that were crucified with him reproached him.
-
-[Cf . ver. 40, 41, p. 232.]
-
-Luke 23. a superscription over
-
-him, THIS IS THE KING OF THE JEWS.
-
-39 And one of the malefactors which ' were hanged railed on him, saying, Art not thou the Christ ? save thyself and us. 40 But the other answered, and rebuking him said. Dost thou not even fear God, seeing thou art in the same condemnation? 41 And we indeed justly ; for we receive the due reward of our deeds : but this man hath done nothing amiss. 42 And he said, Jesus, remember me when thou comest ^ in thy kingdom. 43 And he said unto him, Verily I say unto thee, To-day shalt thou be with me in Paradise.
-
-[Cf. ver. 49, page 232.]
-
-John 19.
-
-[Ct. T«r. IS, p. 238, and panlUli there.]
-
-25 But there were standing by the cross of Jesus his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene. 26 When Jesus therefore saw his mother, and the
-
-ERV. mg. : i Or, can he not save himself f ' Some ancient authorities read into thy kingdom
-
-ART. tzt.: ithat
-
-<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
-
-§140
-
-Matt. 27.
-
-45 Now from the sixth hour there was darkness over all the 'land until the ninth hour. 46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is. My God, my God, ^why hast thou forsaken me? 47 And some of them that stood there, when they heard it, said, This man calleth Elijah. 48 And straightway one of them ran, and took a sponge, and filled it with vinegar, and put it on a reed, and gave him to drink. 49 And the rest said, Let be; let us see whether Elijah Cometh to save ^him. 50 And Jesus cried again with a loud voice, and yielded up his spirit.
-
-51 And behold, the veil of the * temple was rent in twain ' from the top to the
-
-Mabk 15«
-
-33 And when the sixth hour was come, there was darkness over the whole Mand until the ninth hour. 34 And at the ninth hour Jesus cried with a loud voice, Eloi, Eloi, lama sabachthani? which is, being interpreted. My God, my God, ^why hast thou forsaken me? 35 And some of them that stood by, when they heard it, said, Behold, he calleth Elijah. 36 And one ran, and filling a sponge full of vinegar, put it on a reed, and gave him to drink, saying, Let be ; let us see whether Elijah Cometh to take him down. 37 And Jesus uttered a loud voice, and gave up the ghost.
-
-38 And the veil of the * temple was rent in twain' from the top to the bottom.
-
-Luke 23.
-
-44 And it was now about the sixth hour, and a darkness came over the whole 'land until the ninth hour, 45 ^the sun's light failing: and the veil of the * temple was rent in the midst. 46 ^ And when Jesus had cried with a loud voice, he said^ Father, into thy hands I commend my spirit: and having said this, he gave up the ghost.
-
-[Paragraph coDtinued on p. 232]
-
-John 19.
-
-disciple standing by, whom he loved, he saith unto his mother, Woman, behold, thy son ! 27 Then saith he to the disciple. Behold, thy mother! And from that hour the disciple took her unto his own home.
-
-28 After this Jesus, knowing that all things are now finished, that the scripture might be accomplished, saith, I thirst, 29 There was set there a vessel full of vinegar : so they put a sponge full of the vinegar upon hyssop, and brought it to his mouth. 30 When Jesus therefore had received the vinegar, he said. It is finished: and he bowed his head, and gave up his spirit.
-
-ERV. mg : > Or, earth » Or. why didtt thou forsake met > Many ancient authoritiu add And another took a ipear and piereed hit side, and there came out loatev and blood. See John xix. 34. * Or, sanctuary *Gr. the sun failino- 'Or, And Jesus, oJT/tng uith a loud voice, said
-
-^Ry. txV : * two 3 And Jetui, crying with a loud voice, uid.
-
-231
-
-§140
-
-THE PASSION WEEK—FRIDAY
-
-Matt. 27.
-
-bottom ; and the earth did quake ; and the rocks were rent; 52 and the tombs were opened ; and many bodies of the saints that had fallen asleep were raised ; 53 and coming forth out of the tombs after his resurrection they entered into the holy city and appeared unto many. 54 Now the centurion, and they that were with him watching Jesus, when they saw the earthquake, and the things that were done, feared exceedingly, saying. Truly this was Hhe Son of God. 55 And many women were there beholding from afar, which * had followed Jesus from Galilee, ministering unto him : 56 among whom was Mary Magdalene, and Mary the mother of James and Joses, and the mother of the sons of Zebedee.
-
-Mabx 15.
-
-89 And when the centurion, which* stood by over against him, saw that he *so gave up the ghost, he said, Truly this man was ' the Son of God. 40 And there were also women beholding from afar : among whom were both Mary Magdalene, and Mary the mother of James the 'less and of Joses, and Salome ; 41 who, when he was in Galilee, followed him, and ministered unto him; and many other women which ^ came up with him unto Jerusalem.
-
-LuxB 23.
-
-47 And when the centurion saw what was done, he glorified God, saying. Certainly this was a righteous man. 48 And all the multitudes that came together to this sight, when they beheld the things that were done, returned smiting their breasts. 49 And all his acquaintance, and the women that followed with him from Galilee, stood afar off, seeing these things.
-
-JOHK 19.
-
-[Cf. Tor. 55, p. 190.
-
-81 The Jews therefore, because it was the Preparation, that the bodies should not remain on the cross upon the sabbath (for the day of that sabbath was a high day), asked of Pilate that their legs might be
-
-ERV. mg. ; <sup>1</sup> Or, a son of God ^ Many ancient authorities read 30 cried ouf, and patie «p tfte gAosf. ^ Gt. little
-
-ARV. tit.: iwho »that
-
-<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
-
-§141
-
-John 19.
-
-broken, and that they might be taken away. 32 The soldiers therefore came, and brake the legs of the first, and of the other which > was crucified with him: 33 but when they came to Jesus, and saw that he was dead already, they brake not his legs : 34 howbeit one of the soldiers with a spear pierced his side, and straightway there came out blood and water. 35 And he that hath seen hath borne witness, and his witness is true : and he knoweth that he saith true, that ye also may believe. 36 For these things came to pass, that the scripture might be fulfilled, A bone of him shall not be 'broken. 37 And again another scripture saith. They shall look on him whom they pierced.
-
-§ 141. THE BURIAL.
-
-Mait. 27:57-61.
-
-57 And when even was come, there came a rich man from AriTnathaea, named Joseph, who also himself was Jesus' disciple : 58 this man went to Pilate, and
-
-Mask 15:42-47. 42 And when even was now come, because it was the Preparation, that is, the day before the sabbath, 43 there came Joseph of Arimathaea, a councillor of hon
-
-LuKK 23 : 60-66a. 50 And behold, a man named Joseph, who was a councillor, a good man and a righteous^ 51 (he had not consented to their counsel and deed), a vian of ArimathaDa, a
-
-John 19:38-42.
-
-38 And after these things Joseph of Arimathasa, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away the body of
-
-ERV. Dig. : > Or, crushed
-
-ARV. txt. : > that > a good and rlgbUoui i
-
-233
-
-§141
-
-THE PASSION WEEK— SATURDAY
-
-Matt. 27.
-
-asked for the body of Jesus. Then Pilate commanded it to be given up. 59 And Joseph took the body, aad wrapped it in a clean linen cloth, 60 and laid it in his own new tomb, which he had hewn out in the rock : and he rolled a great stone to the door of the tomb, and departed. 61 And Mary Magdalene was there, and the other Mary, sitting over against the sepulchre.
-
-Mabk 15.
-
-ourable estate, who also himself was looking for the kingdom of God ; and he boldly went in unto Pilate, and asked for the body of Jesus. 44 And Pilate marvelled if he were already dead : and calling unto him the centurion, he asked him whether he •had been any while dead. 45 And when he learned it of the centurion, he granted the corpse to Joseph.
-
-46 And he bought a linen cloth and taking him down, wound him in the linen cloth, and laid him in a tomb which had been hewn out of a rock ; and he rolled a stone against the door of the tomb.
-
-47 And Mary Magdalene and Mary the mother of Joses beheld where he was laid.
-
-LuKK 23.
-
-city of the Jews, who was looking for tho kingdom of God : 52 this man went to Pilate, and asked for the body of Jesus. 53 And he took it down, and wrapped it in a linen cloth, and laid him in a tomb that was hewn in stone, where never man had yet lain. 54 And it was the day of the Preparation, and the sabbath *drew on.
-
-55 And the women, which* had come with him out of Galilee, followed after, and beheld the tomb, and how his body was laid.
-
-56 And they returned, and prepared spices and ointments.
-
-John 19.
-
-Jesus : and Pilata gave Mm leave. He came therefore, and took away his body. 39 And there came also Nicodemus, he who at the first came to him by night, bringing a ^mixture of myrrh and aloes, about a hundred pound weight^. 40 So they took the body of Jesus, and bound it in linen cloths with the spices, as the custom of the Jews is to bury. 41 Now in the place where he was crucified there was a garden; and in the garden a new tomb wherein was never man yet laid. 42 There then because of the Jews' Preparation (for the tomb was nigh at hand) they laid Jesus.
+Matt. 27:57-61. | Mark 15:42-47. | Luke 23 : 50-66a. | John 19:38-42.
+--- | --- | --- | ---
+57 And when even was come, there came a rich man from AriTnathaea, named Joseph, who also himself was Jesus' disciple : 58 this man went to Pilate, and <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> asked for the body of Jesus. Then Pilate commanded it to be given up. 59 And Joseph took the body, aad wrapped it in a clean linen cloth, 60 and laid it in his own new tomb, which he had hewn out in the rock : and he rolled a great stone to the door of the tomb, and departed. 61 And Mary Magdalene was there, and the other Mary, sitting over against the sepulchre. | 42 And when even was now come, because it was the Preparation, that is, the day before the sabbath, 43 there came Joseph of Arimathaea, a councillor of honourable estate, who also himself was looking for the kingdom of God ; and he boldly went in unto Pilate, and asked for the body of Jesus. 44 And Pilate marvelled if he were already dead : and calling unto him the centurion, he asked him whether he <sup>1</sup>had been any while dead. 45 And when he learned it of the centurion, he granted the corpse to Joseph. 46 And he bought a linen cloth and taking him down, wound him in the linen cloth, and laid him in a tomb which had been hewn out of a rock ; and he rolled a stone against the door of the tomb. 47 And Mary Magdalene and Mary the mother of Joses beheld where he was laid. | 50 And behold, a man named Joseph, who was a councillor, a good man and a righteous<sup>2</sup> 51 (he had not consented to their counsel and deed), a _man_ of Arimathaea, a city of the Jews, who was looking for tho kingdom of God : 52 this man went to Pilate, and asked for the body of Jesus. 53 And he took it down, and wrapped it in a linen cloth, and laid him in a tomb that was hewn in stone, where never man had yet lain. 54 And it was the day of the Preparation, and the sabbath <sup>2</sup>drew on. 55 And the women, which<sup>1</sup> had come with him out of Galilee, followed after, and beheld the tomb, and how his body was laid. 56 And they returned, and prepared spices and ointments. | 38 And after these things Joseph of Arimathasa, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away the body of Jesus : and Pilata gave _him_ leave. He came therefore, and took away his body. 39 And there came also Nicodemus, he who at the first came to him by night, bringing a <sup>3</sup>mixture of myrrh and aloes, about a hundred pound _weight_<sup>2</sup>. 40 So they took the body of Jesus, and bound it in linen cloths with the spices, as the custom of the Jews is to bury. 41 Now in the place where he was crucified there was a garden; and in the garden a new tomb wherein was never man yet laid. 42 There then because of the Jews' Preparation (for the tomb was nigh at hand) they laid Jesus.
 
 SATUBDAT. §142.
 
-5 142. THE WATCH AT THE SEPULCHRE.
+### § 142. THE WATCH AT THE SEPULCHRE.
 
 Matt. 27 : 62-66.
 
-62 Now on the morrow, which is the day after the Preparation, the chief priests and the
+62 Now on the morrow, which is the day after the Preparation, the chief priests and the Pharisees were gathered together unto Pilate, 63 saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I rise again. 64 Command therefore that the sepulchre be made sure until the third day, lest haply his disciples come and steal him away, and say unto the people, He is risen from the dead : and the last error will be worse than the first. 65 Pilate said unto them, <sup>4</sup> Ye have a guard : go your way<sup>3</sup> <sup>5</sup>make it as sure as ye can. 66 So they went, and made the sepulchre sure, sealing the stone, the guard being with them.
 
-Pharisees were gathered together unto Pilate, 63 saying, Sir, we remember that that
 
-deceiver said, while he was yet alive, After three days I rise again. 64 Command therefore
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
-that the sepulchre be made sure until the third day, lest haply his disciples come and steal
+## PART IX. THE FORTY DAYS.
 
-him away, and say unto the people, He is risen from the dead : and the last error will be
+From the Resurrection until the Ascensiow,
 
-worse than the first. 65 Pilate said unto them, * Ye have a guard : go your way^ ^make it
+### §143. THE RESURRECTION MORNING.
 
-as sure as ye can. 66 So they went, and made the sepulchre sure, sealing the stone, the
+Matt. 28 : 1-10. | Mark 16 : 1-8, 9-11. | Luke 23:566—24:12. | John 20:1-18.
+--- | --- | --- | ---
+1 Now late on the sabbath day, as it began to dawn toward the first _day_ of the week, came Mary Magdalene and the other Mary to see the sepulchre. 2 And behold, there was a great earthquake ; for an angel of the Lord descended from heaven, and came and rolled away the stone, and sat upon it. 3 His appearance was as lightning, and his raiment white as snow : 4 and for fear of him the watchers did quake, and became as dead men. 5 And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which<sup>1</sup> hath been crucified. 6 He is not here; for he is risen, even as he said. Come, see the place <sup>1</sup>where the Lord lay. <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> 7 And go quickly, and tell his disciples, He is risen from the dead ; and lo, he goeth before you into Galilee ; there shall ye see him: lo, I have told you. 8 And they departed quickly from the tomb with fear and great joy, and ran to bring his disciples word. [Paragraph continued on p. 237.] | 1 And when the sabbath was past, Mary Magdalene, and Mary the _mother_ of James and Salome, bought spices, that they might come and anoint him. 2 And very early on the first day of the week, they come to the tomb when the sun was risen. 3 And they were saying among themselves, Who shall roll us away the stone from the door of the tomb ? 4 and looking up, they see that the stone is rolled back : for it was exceeding great. 5 And entering into the tomb, they saw a young man sitting on the right side, arrayed in a white robe ; and they were amazed. 6 And he saith unto them, Be not amazed : ye seek Jesus, the Nazarene, which<sup>1</sup> hath been crucified : he is risen ; he is not here : behold, the place where they laid him I 7 But go, tell his disciples and Peter, He goeth before you into Galilee : there shall ye see him, as he said unto you. 8 And they went out, and fled from the tomb; for trembling and astonishment had come upon them : and they said nothing to any one ; for they were afraid. | 56b And on the sabbath they rested according to the commandment. 24:1 But on the first day of the week, at early dawn, they came unto the tomb, bringing the spices which they had prepared. 2 And they found the stone rolled away from the tomb.<br>3 And they entered in, and found not thebody <sup>2</sup> of the Lord Jesus. 4 And it came to pass, while they were perplexed thereabout, behold, two men stood by them in dazzling apparel : 5 and as they were affrighted, and bowed down their faces to the earth, they said unto them. Why seek ye <sup>1</sup> the living among the dead ? 6 <sup>2</sup>He is not here, but is risen : remember how he spake unto you when he was yet in Galilee, 7 saying that the Son of man must be delivered up into the hands of sinful men, and be crucified, and the third day rise again. 8 And they remembered his words, 9 and returned <sup>3</sup>from the tomb, and told all these things to the eleven, and to all the rest. 10 Now they were Mary Magdalene, and Joanna, and Mary the mother of James : and the other women with them told these things unto the apostles. 11 And these words appeared in their sight as idle talk ; and they disbelieved them. 12 <sup>4</sup>But Peter arose, and ran unto the tomb ; and stooping and looking in, he seeth the linen cloths by themselves ; and he <sup>5</sup>departed to his home, wondering at that which was come to pass. | 1 Now on the first _day_ of the week cometh Mary Magdalene early, while it was yet dark, unto the tomb, and seeth the stone taken away from the tomb. [Paragraph continued on p. 226.] <br> 2 She runneth therefore, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the tomb, and we know not where they have laid him. 3 Peter therefore went forth, and the other disciple, and they went toward the tomb. 4 And they ran both together: and the other disciple outran Peter, and came first to the tomb ; 5 and stooping and looking in, he seeth the linen cloths lying ; yet entered he not in. 6 Simon Peter therefore also cometh, following <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> him, and entered into the tomb ; and he beholdeth the linen cloths lying, 7 and the napkin, that was upon his head, not lying with the linen cloths, but rolled up in a place by itself. 8 Then entered in therefore the other disciple also, which* came first to the tomb, and ke saw, and believed. 9 For as yet they kn«w not the scripture, that he must rise again from the dead. 10 So the disciples went away again unto their own home.
+9 And beholdf Jesus met them, saying, All hail. And they came and took hold of his feet, and worshipped him. 10 Then saith Jesus unto them, Fear not: go tell my brethren that they depart into Galilee, and there shall they see me. | 9 <sup>1</sup>Now when he waa risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven <sup>2</sup>devils. 10 She went and told them that had been with him, as they mourned and wept. 11 And they, when they heard that he was aUve, and had been seen of her, disbelieved. | &nbsp; | 11 But Mary was standing without at the tomb weeping: so, as she wept, she stooped and looked into the tomb; 12 and she beholdeth two angels in white sitting, one at the head, and one at the feet, where the body of Jesus had lain. 13 And they say unto her, Woman, why weepest thou ? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him, 14 When she had thus said, she <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> turned herself back, and beholdeth Jesus standing, and knew not that it was Jesus. 15 Jesus saith unto her, Woman, why weepest thou ? whom seekest thou ? She, supposing him to be the gardener, saith unto him, Sir, if thou hast borne him hence, tell me where thou hast laid him, and I will take him away. 16 Jesus saith unto her, Mary. She turneth herself, and saith unto him in Hebrew, Rabboni ; which is to say, <sup>1</sup> Master <sup>1</sup>. 17 Jesus saith to her, <sup>2</sup> Touch me not ; for I am not yet ascended unto the Father: but go unto my brethren, and say to them, I ascend unto my Father and your Father, and my God and your God. 18 Mary Magdalene Cometh and telleth the disciples, I have seen the Lord; and how^ that he had said these things unto her. 
 
-guard being with them.
 
-ERV. mg. : > Many ancient authorities read were already dead. ' Gr. began to dawn. Take a guard ' Gr. make it sure, aa ye know.
 
-' Some ancient authoritiei read roll. * Or,
 
-ART. teta : > who > ft hundred pound! * Omit your way
+### § 144. THE REPORT OF THE WATOH. 
 
-<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
+Matt. 28:11-15. 
 
-THE FORTY DAYS.
+11 Now while they were going, behold, some of the guard came into the city, and told unto the chief priests all the things that were come to pass. 12 And when they were assembled with the elders, and had taken counsel, they gave large<sup>3</sup> money unto the soldiers, 13 saying. Say ye, His disciples came by night, and stole him away while we slept. 14 And if this <sup>3</sup>come to the governor's ears, we will persuade him, and rid you of care. 15 So they took the money, and did as they were taught : and this saying was spread abroad among the Jews, and continueth until this day.
 
-Prom the Rksubrkction until the Ascensiow,
 
-§143. THE RESURRECTION MORNING.
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
-Matt. 28 : 1-10.
+### § 145. THE WALK TO EMMAUS. 
 
-1 Now late on the sabbath day, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre. 2 And behold, there was a great earthquake ; for an angel of the Lord descended from heaven, and came and rolled away the stone, and sat upon it. 3 His appearance was as lightning, and his raiment white as snow : 4 and for fear of him the watchers did quake, and became as dead men. 5 And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which' hath been crucified. 6 He is not here; for he is risen, even as he said. Come, see the place 'where the Lord lay.
+Mark 16:12,13. | Luke 24 : 13-35.
+--- | ---
+12 And after these things he was manifested in another form unto two of them, as they walked, on their way into the country. 13 And they went away and told it unto the reet : neither believed they them. | 13 And behold, two of them were going that very day to a village named Emmaus, which was threescore furlongs from Jerusalem. 14 And they communed with each other of all these things which had happened. 15 And it came to pass, while they communed and questioned together, that Jesus himself drew near, and went with them. 16 But their eyes were holden that they should not know him. 17 And he said unto them, <sup>1</sup> What communications are these that ye have one with another, as ye walk f And they stood still, looking sad. 18 And one of them, named Cleopas, answering said unto him, <sup>2</sup>Dost thou alone sojourn in Jerusalem and not know the things which are come to pass there in these days ? 19 And he said unto them, What things? And they said unto him. The things concerning Jesus of Nazareth<sup>1</sup>, which <sup>2</sup> was a prophet mighty in deed and word before God and all the people : 20 and how the chief priests and our rulers delivered him up to be condemned to death, and crucified him. 21 But we hoped that it was he which <sup>2</sup> should redeem Israel. Yea and beside<sup>3</sup> all this, it is now the third day since these things came to pass. 22 Moreover certain women of our company amazed us, having been early <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> at the tomb; 23 and when they found not his body, they came, Baying, that they had also Been a vision of angels, which <sup>1</sup> said that he was alive. 24 And certain of them that were with us went to the tomb, and found it even bo as the women had said : but him they saw not. 25 And he said unto them, O foolish men, and slow of heart to believe <sup>1</sup> in all that the prophets have spoken! 26 Behoved it not the Christ to suffer these things, and to enter into his glory? 27 And beginning from Moses and f som all the prophets, he interpreted to them in all the scriptures the things concerning himself. 28 And they drew nigh unto the village, whither they were going : and he made as though he would go further. 29 And they constrained him, saying. Abide with us : for it is toward evening, and the day is now far spent. And he went in to abide with them. 30 And it came to pass, when he had sat down with them to meat, he took the <sup>2</sup>bread, and blessed it, and brake, and gave<sup>2</sup> to them. 31 And their eyes were opened, and they knew him; and he vanished out of their sight. 32 And they said one to another. Was not our heart burning within us, while he spake to us in the way, while he opened to us the scriptures ? 33 And they rose up that very hour, and returned to Jerusalem, and found the <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> eleven gathered together.and them that were with them, 34 saying, The Lord is risen indeed, and hath appeared to Simon. 35 And they rehearsed the things _that happened_ in the way, and how he was known of them in the breaking of the bread.
 
-Mabk 16 : 1-8, 9-11.
+### § 146. THE APPEARANCE TO THE DISCIPLES IN JERUSALEM, THOMAS BEING ABSENT.
 
-1 And when the sabbath was past, Mary Magdalene, and Mary the mother of James and Salome, bought spices, that they might come and anoint him. 2 And very early on the first day of the week, they come to the tomb when the sun was risen. 3 And they were saying among themselves, Who shall roll us away the stone from the door of the tomb ? 4 and looking up, they see that the stone is rolled back : for it was exceeding great. 5 And entering into the tomb, they saw a young man sitting on the right side, arrayed in a white robe ; and they were amazed. 6 And he saith unto them, Be not amazed : ye seek Jesus, the Nazarene, which' hath been cru
+Mark 16 : 14. | Luke 24 : 3&-43. | John 20 : 19-25.
+--- | --- | ---
+14 And afterward he waa manifested vmto the eleven themaelves as they eat at meat ; and he upbraided them with their xmbelief and hardneea of heart, because they beheved not them which<sup>1</sup> had seen him after he was risen. | 36 And as they spake these things, he himself stood in the midst of them, <sup>1</sup>and saith unto them, Peace be unto you. 37 But they were terrified and affrighted, and supposed that they beheld a spirit. 38 And he said unto them. Why are ye troubled ? and wherefore do reasonings 2 arise in your heart ? 39 See my hands and my feet, that it is I myself : handle me, and see ; for a spirit hath not flesh and bones, as ye behold mo having. 40 <sup>2</sup> And when he had said this, he shewed them his hands and his feet. 41 And while they still disbelieved for joy, and wondered, he said <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> unto them, Have ye here anything to eat ? 42 And they gave him a piece of broiled <sup>1</sup>fish. 43 And he took it, and did eat<sup>1</sup> before them. | 19 When therefore it was evening, on that day, the first _day_ of the week, and when the doors were shut where the disciples were, for fear of the Jews, Jesus came and stood in the midst, and saithunto them,Peace be unto you. 20 And when he had said this, he shewed unto them his hands and his side. The disciples therefore were glad, when they saw the Lord. 21 Jesus therefore said to them again. Peace be unto you : as the Father has sent me, even so send I you. 22 And when he had said this, he breathed on them, and saith unto them. Receive ye the <sup>3</sup> Holy Ghost <sup>3</sup>; 23 <sup>a</sup> whose soever sins ye forgive, they are forgiven unto them ; whose soever sins ye retain, they are retained.
+&nbsp; | &nbsp; | 24 But Thomas, one of the twelve, called <sup>2</sup> Didymus, was not with them when Jesus came. 25 The other disciples therefore said unto him. We have seen the Lord, But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and put my hand into his side, I will not believe.
 
-Luke 23:566—24:12.
-
-566 And on the sabbath they rested according to the commandment. 24:1 But on the first day of the week, at early dawn, they came unto the tomb, bringing the spices which they had prepared. 2 And they found the stone rolled away from the tomb.
-
-3 And they entered in, and found not thebody 2 of the Lord Jesus. 4 And it came to pass, while they were perplexed thereabout, behold, two men stood by them in dazzling apparel : 5 and as they were affrighted, and bowed down their
-
-[John 20:1-18. 1 Now on the first day of the week cometh Mary Magdalene early, while it was yet dark, unto the tomb, and seeth the stone taken away from the tomb.
-
-[Pkngnph continued on p. 226.)
-
-ERV. mit. : » M»Dy ancient nithoritie ART. txt : > who
-
-111 where he lay. ' Some nnc
-
-235
-
-it of the Lord Jeaua.
-
-§143
-
-THE FORTY DAYS
-
-Matt. 28
-
-7 And go quickly, and tell his disciples, He is risen from the dead ; and lo, he goeth before you into Galilee ; there shall ye see him: lo, I have told you.
-
-8 And they departed quickly from the tomb with fear and great joy, and ran to bring his disciples word.
-
-(Paracnpb cootinutd on p. 237.]
-
-Mask 16. cified : he is risen ; he is not here : behold, the place where they laid him I 7 But go, tell his disciples and Peter, He goeth before you into Galilee : there shall ye see him, as he said unto you. 8 And they went out, and fled from the tomb; for trembling and astonishment had come upon them : and they said nothing to any one ; for they were afraid.
-
-LcKB 24.
-
-faces to the earth, they said unto them. Why seek ye ' the living among the dead ? 6 *He is not here, but is risen : remember how he spake unto you when he was yet in Galilee, 7 saying that the Son of man must be delivered up into the hands of sinful men, and be crucified, and the third day rise again. 8 And they remembered his words, 9 and returned ^from the tomb, and told all these things to the eleven, and to all the rest. 10 Now they were Mary Magdalene, and Joanna, and Mary the mother of James : and the other women with them told these things unto the apostles. 11 And these words appeared in their sight as idle talk ; and they disbelieved them. 13 *But Peter arose, and ran unto the tomb ; and stooping and looking in, he seeth the linen cloths by themselves ; and he ^departed to his home, wondering at that which was come to pass.
-
-JOHM 20.
-
-2 She runneth therefore, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the tomb, and we know not where they have laid him. 3 Peter therefore went forth, and the other disciple, and they went toward the tomb. 4 And they ran both together: and the other disciple outran Peter, and came first to the tomb ; 5 and stooping and looking in, he seeth the linen cloths lying ; yet entered he not in. 6 Simon Peter therefore also cometh, fol
-
-ERV. m%. : • Gr. him that Uveth ' Some anoient authorities omit He is not here, but is risen. the tomb. * Some ancient anthoritiea opiit Ter. 12. • Or, departed, wondering with himself
-
-236
-
-■ Some ancient authorities omit from
-
-THE RESURRECTION MORNING
-
-§143
-
--Matt. 28.
-
-9 And beholdf Jesus met them, saying, All hail. And they came and took hold of his feet, and worshipped him. 10 Then saith Jesus unto them, Fear not: go tell my brethren that they depart into Galilee, and there shall they see me.
-
-Mabk 16.
-
-9 'Now when he waa risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven ^derilB. 10 She went and told them that had been with him, as they mourned and wept. 11 And they, when they heard that he was aUve, and had been seen of her, disbelieved.
-
-JouN 20.
-
-lowing him, and entered into the tomb ; and he beholdeth the linen cloths lying, 7 and the napkin, that was upon his head, not lying with the linen cloths, but rolled up in a place by itself. 8 Then entered in therefore the other disciple also, which* came first to the tomb, and ke saw, and believed. 9 For as yet they kn«w not the scripture, that he must rise again from the dead. 10 So the disciples went away again unto their own home.
-
-11 But Mary was standing without at the tomb weeping: so, as she wept, she stooped and looked into the tomb; 12 and she beholdeth two angels in white sitting, one at the head, and one at the feet, where the body of Jesus had lain. 13 And they say unto her, Woman, why weepest thou ? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him, 14 When she had thus said, she
-
-ERV. mg. : i The two oldeit Ore«k muiiuaripts, *nd aoms other autboritisa, omit tnxn Ter. 8 to the ond. Soma other suthoritioa hare a different ending to the Uo^pcl. 'Or. dttmons.
-
-ARV. txt.: 1 who
-
-*See AppeDdiz I, p. 2S2.
-
-237
-
-§143
-
-THE FORTY DAYS
-
-John 20. turned herself back, and beholdeth Jesus standing, and knew not that it was Jesus. 15 Jesus saith unto her, Woman, why weepest thou ? whom seekest thou ? She, supposing him to be the gardener, saith unto him, Sir, if thou hast borne him hence, tell me where thou hast laid him, and I will take him away. 16 Jesus saith unto her, Mary. She turneth herself, and saith unto him in Hebrew, Rabboni ; which is to say, * Master •. 17 Jesus saith to her, ^ Touch me not ; for I am not yet ascended unto the Father: but go unto my brethren, and say to them, I ascend unto my Father and your Father, and my God and your God. 18 Mary Magdalene Cometh and telleth the disciples, I have seen the Lord; and how^ that he had said these things unto her.
-
-§ 144. THE REPORT OP THE WATOH. Matt. 28:11-15. 11 Now while they were going, behold, some of the guard came into the city, and told unto the chief priests all the things that were come to pass. 12 And when they were assembled with the elders, and had taken counsel, they gave large' money unto the soldiers, 13 saying. Say ye, His disciples came by night, and stole him away while we slept. 14 And if this 'come to the governor's ears, we will persuade him, and rid you of care. 15 So they took the money, and did as they were taught : and this saying was spread abroad among the Jews, and continueth until this day.
-
-ERV. mg. : i Or, Teacher ' Or, Take not hold on me ' Or, come to a hearing before the governor
-
-ARV. tit. ; 1 Teacher > Omit how ' much
-
-<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
-
-§145
-
-145. THE WALK TO EMMAUS. Mark 16:12,13. 12 And after these things he was manifested in another form unto two of them, as they walked, on their way into the country. 13 And they went away and told it unto the reet : neither believed they them.
-
-Luke 24 : 13-35.
-
-13 And behold, two of them were going that very day to a village named Emmaus, which was threescore furlongs from Jerusalem. 14 And they communed with each other of all these things which had happened. 15 And it came to pass, while they communed and questioned together, that Jesus himself drew near, and went with them. 16 But their eyes were holden that they should not know him. 17 And he said unto them, ' What communications are these that ye have one with another, as ye walk f And they stood still, looking sad. 18 And one of them, named Cleopas, answering said unto him, ^Dost thou alone sojourn in Jerusalem and not know the things which are come to pass there in these days ? 19 And he said unto them, What things? And they said unto him. The things concerning Jesus of Nazareth', which ^ was a prophet mighty in deed and word before God and all the people : 20 and how the chief priests and our rulers delivered him up to be condemned to death, and crucified him. 21 But we hoped that it was he which 2 should redeem Israel. Yea and beside* all this, it is now the third day since these things came to pass. 22 Moreover certain women of our company amazed us, having been early
-
-laiV. mg. : > Or. What words are these that ye exchange one with another- ' Or, Dust thou sojourn alone in Jerusalem, and knovest thou not the things
-
-A£T. tit. : > Jmui the Nkurene > who > betidei
-
-239
-
-§145
-
-THE FORTY DAYS
-
-LusB 24.
-
-at the tomb; 23 and when they found not his body, they came, Baying, that they had also Been a vision of angels, which ' said that he was alive. 24 And certain of them that were with us went to the tomb, and found it even bo as the women had said : but him they saw not. 25 And he said unto them, O foolish men, and slow of heart to believe ' in all that the prophets have spoken! 26 Behoved it not the Christ to suffer the^^e things, and to enter into his glory? 27 And beginning from Moses and f som all the prophets, he interpreted to them in all the scriptures the things concerning himself. 28 And they drew nigh unto the village, whither they were going : and he made as though he would go further. 29 And they constrained him, saying. Abide with us : for it is toward evening, and the day is now far spent. And he went in to abide with them. 30 And it came to pass, when he had sat down with them to meat, he took the 'bread, and blessed it, and brake, and gave' to them. 31 And their eyes were opened, and they knew him; and he vanished out of their sight. 32 And they said one to another. Was not our heart burning within us, while he spake to us in the way, while he opened to us the scriptures ? 33 And they rose up that very hour, and returned to Jerusalem, and found the
-
-B»y. mg. : » Or, after ' Or, loaf
-
-ART. txt: >wbo ' and bleiMd ; and breaking « h* (»T«
-
-<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
-
-§146
-
-Luke 24.
-
-eleven gathered together.and them that were with them, 34 saying, The Lord is risen indeed, and hath appeared to Simon. 35 And they rehearsed the things tfiat happened in the way, and how he was known of them in the breaking of the bread.
-
-S 146. THE APPEARANCE TO THE DISCIPLES IN JERUSALEM, THOMAS BEING ABSENT.
-
-Mark 16 : 14. 14 And afterward he waa manifested vmto the eleven themaelves as they eat at meat ; and he upbraided them with their xmbelief and hardneea of heart, because they beheved not them which* had seen him after he was risen.
-
-Luke 24 : 3&-43. 36 And as they spake these things, he himself stood in the midst of them, 'wnd saith unto them, Peace be unto you.
-
-37 But they were terrified and affrighted, and supposed that they beheld a spirit.
-
-38 And he said unto them. Why are ye troubled ? and wherefore do reasonings 2 arise in your heart ?
-
-39 See my hands and my feet, that it is I myself : handle me, and see ; for a spirit hath not flesh and bones, as ye behold mo having. 40 2 And when he had said this, he shewed them his hands and his feet. 41 And while they still disbelieved for joy, and wondered, he said
-
-John 20 : 19-25. 19 When therefore it was evening, on that day, the first day of the week, and when the doors were shut where the disciples were, for fear of the Jews, Jesus came and stood in the midst, and saithunto them,Peace be unto you. 20 And when he had said this, he shewed unto them his hands and his side. The disciples therefore were glad, when they saw the Lord. 21 Jesus therefore said to them again. Peace be unto you : as the Father has sent me, even so send I you. 22 And when he had said this, he breathed on them, and saith unto them. Receive ye the 8 Holy Ghost 3; 23 » whose soever sins ye
-
-ERV. mg.: Boly Spirit
-
-> Soma ancient •uthoriUet omit an<t §aith unto t/iem. Peace be unto you- * Some snciont authorities omit Ter. 40.
-
-'Or,
-
-ARV. txt. : I that > qaestionlngi > Holy Spirit
-
-• Matt. 16 : 19. I will give onto thee the keys of the kingdom of heaven : and whatsoever thou shalt bind on earth shall be bound in heaven : and whatsoever thon shalt loose on earth shall be loosed in heaven. (§ 75)
-
-•Matt. 18:18. Verily I say unto you, What things soever ye shall bind on earth shall bo bound ia heaven: and what thingrs soever ye shall loose oa earth shall be loosed in heaven. (§81)
-
-241
-
-§146
-
-THE FORTY DAYS
-
-Luke 24. unto them, Have ye here anything to eat ?
-
-42 And they gave him a piece of broiled 'fish.
-
-43 And he took it, and did eat* before them.
-
-John 20.
-
-forgive, they are forgiven unto them ; whose soever sins ye retain, they are retained.
-
-24 But Thomas, one of the twelve, called 2 Didymus, was not with them when Jesus came. 25 The other disciples therefore said unto him. We have seen the Lord, But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and put my hand into his side, I will not believe.
-
-S 147. THE APPEARANCE TO THOMAS WITH THE OTHER DISCIPLES.
+### § 147. THE APPEARANCE TO THOMAS WITH THE OTHER DISCIPLES.
 
 John 20 : 26-29.
 
-26 And after eight days again his disciples were within, and Thomas with them. Jesus Cometh, the doors being shut, and stood in the midst, and said. Peace he unto you. 27 Then saith he to Thomas, Reach hither thy finger, and see my hands ; and reach hither thy hand, and put it into my side : and be not faithless, but believing. 28 Thomas answered and said unto him, My Lord and my God. 29 Jesus saith unto him. Because thou hast seen me, ^thou hast believed : blessed are they that have not seen, and yet have believed. (-|- § 151)
+26 And after eight days again his disciples were within, and Thomas with them. Jesus Cometh, the doors being shut, and stood in the midst, and said. Peace he unto you. 27 Then saith he to Thomas, Reach _hither_ thy finger, and see my hands ; and reach hither thy hand, and put it into my side : and be not faithless, but believing. 28 Thomas answered and said unto him, My Lord and my God. 29 Jesus saith unto him. Because thou hast seen me, ^thou hast believed : blessed are they that have not seen, and _yet_ have believed. (+ § 151)
 
-§ 148. THE APPEARANCE TO SEVEN DISCIPLES BY THE SEA OF GALILEE.
+### § 148. THE APPEARANCE TO SEVEN DISCIPLES BY THE SEA OF GALILEE.
 
 John 21 : 1-24.
 
-1 After these things Jesus manifested himself again to the disciples at the sea of Tiberias ; and he manifested himself on this wise. 2 There were together Simon Peter, and Thomas called 2 Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples. 3 Simon Peter saith unto them, I go a fishing. They say unto him. We also come with thee. They went forth, and entered into the boat ; and that night they took nothing. 4 But when day was now breaking, Jesus stood on the beach : howbeit^ the disciples knew not that it was Jesus. 5 Jesus therefore saith unto them. Children, have ye aught to eat ? They answered him. No. 6 And he said unto them. Cast the net on the right side of the boat, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes. 7 That disciple therefore whom Jesus loved saith unto Peter,
+1 After these things Jesus manifested himself again to the disciples at the sea of Tiberias ; and he manifested _himself_ on this wise. 2 There were together Simon Peter, and Thomas called <sup>2</sup> Didymus, and Nathanael of Cana in Galilee, and the _sons_ of Zebedee, and two other of his disciples. 3 Simon Peter saith unto them, I go a fishing. They say unto him. We also come with thee. They went forth, and entered into the boat ; and that night they took nothing. 4 But when day was now breaking, Jesus stood on the beach : howbeit<sup>2</sup> the disciples knew not that it was Jesus. 5 Jesus therefore saith unto them. Children, have ye aught to eat ? They answered him. No. 6 And he said unto them. Cast the net on the right side of the boat, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes. 7 That disciple therefore whom Jesus loved saith unto Peter, <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> It is the Lord. So when Simon Peter heard that it was the Lord, he girt his coat about him (for he was naked), and cast himself into the sea. 8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits off), dragging the net full of fishes. 9 So when they got out upon the land, they see <sup>1</sup>a fire of coals there, and <sup>2</sup> fish laid thereon, and <sup>3</sup> bread. 10 Jesus saith unto them, Bring of the fish which ye have now taken. 11 Simon Peter therefore went <sup>4</sup>up, and drew the net to land, full of great fishes, a hundred and fifty and three: and for all there were so many, the net was not rent. 12 Jesus saith unto them, Come and break your fast. And none of the disciples durst inquire of him. Who art thou ? knowing that it was the Lord. 13 Jesus cometh, and taketh the <sup>º3</sup> bread, and giveth them, and the fish likewise. 14 This is now the third time that Jesus was manifested to the disciples, after that he was risen from the dead.
 
-ERV. mg.: i Many ancient authorities add and a honei/comb. ' That is, Tujin. '<sup>1</sup> Or, hast thou believedt
+15 So when they had broken their fast, Jesus saith to Simon Peter, Simon, son of <sup>5</sup> John, <sup>6</sup>lovest thou me more than these ? He saith unto him, Yea, Lord ; thou knowest that I <sup>7</sup>love thee. He saith unto him. Feed my lambs. 16 He saith to him again a second time, Simon, son of <sup>5</sup>John, <sup>7</sup>lovest thou me? He saith unto him, Yea, Lord; thou knowest that I Move thee. He saith unto him, Tend my sheep. 17 He saith unto him the third time, Simon, son of <sup>5</sup>John, <sup>7</sup>lovest thou me? Peter was grieved because he said unto him the third time, <sup>7</sup>Lovest thou me? And he said unto him. Lord, thou knowest all things; thou <sup>8</sup>knowest that I Hove thee. Jesus saith unto him. Feed my sheep. 18 Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest : but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not. 19 Now this he spake, signifying by what manner of death he should glorify God. And when he had spoken this, he saith unto him. Follow me. 20 Peter, turning about, seeth the disciple whom Jesus loved following; which<sup>1</sup> also leaned back on his breast at the supper, and said. Lord, who is he that betrayeth thee ? 21 Peter therefore seeing him saith to Jesus, Lord, <sup>9</sup>and what shall this man do ? 22 Jesus saith unto him, If I will that he tarry till I come, what is that to thee ? follow thou me. 23 This saying therefore went forth among the brethren, that that disciple should not die : yet Jesus said not unto him, that he should not die ; but, If I will that he tarry till I come, what is that to thee?
 
-ARY.tzt.: land ate >yet
+24 This is the disciple which<sup>2</sup> beareth witness of these things, and wrote these things: and we know that his witness is true. (+ § 151)
 
-<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
+### § 149. THE APPEARANCE TO THE ELEVEN ON A MOUNTAIN IN GALILEE.
 
-§149
+Matt. 28:16-20. | Mark 16 : 15-18.
+--- | ---
+16 But the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them. 17 And when they saw him, they worshipped him : but some doubted. 18 <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> And Jesus came to them and spake unto them, saying, all<sup>a</sup> authority hath been given unto me in heaven and on earth. 19 Go ye therefore, and make disciples of all the nations, baptizing them into the name of the Father and of the Son and of the Holy Ghost <sup>1</sup> : 20 teaching them to observe all things whatsoever I commanded you : and lo, I am with you <sup>1</sup>alway<sup>2</sup>, even unto <sup>2</sup> the end of the world. | 15 And he said unto them. Go ye into all the world, and preach the gospel to the whole creation. 16 <sup>a</sup>He that believethand is baptized shall be saved ; but he that disbelieveth shall be condemned. 17 And theee signs shall follow <sup>3</sup> them that believe: in my name shall they cast out <sup>3</sup> devils <sup>4</sup> ; they shall speak with <sup>4</sup>new tongues; 18 <sup>b</sup>they shall take up serpents, and if they drink any deadly thing, it shall in no wise hurt them; they shall lay hands on the sick, and they shall recover.
 
-John 21.
 
-It is the Lord. So when Simon Peter heard that it was the Lord, he girt his coat about him (for he was naked), and cast himself into the sea. 8 But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits off), dragging the net full of fishes. 9 So when they got out upon the land, they see 'a fire of coals there, and 2 fish laid thereon, and ^ bread. 10 Jesus saith unto them, Bring of the fish which ye have now taken. 11 Simon Peter therefore went *up, and drew the net to land, full of great fishes, a hundred and fifty and three: and for all there were so many, the net was not rent. 12 Jesus saith unto them, Come and break your fast. And none of the disciples durst inquire of him. Who art thou ? knowing that it was the Lord. 13 Jesus cometh, and taketh the ^ bread, and giveth them, and the fish likewise. 14 This is now the third time that Jesus was manifested to the disciples, after that he was risen from the dead.
+### § 160. CHRIST'S FINAL APPEARANCE, AND HIS ASCENSION.
 
-15 So when they had broken their fast, Jesus saith to Simon Peter, Simon, son of ^ John, *lovest thou me more than these ? He saith unto him, Yea, Lord ; thou knowest that I 'love thee. He saith unto him. Feed my lambs. 16 He saith to him again a second time, Simon, son of *John, 'lovest thou me? He saith unto him, Yea, Lord; thou knowest that I Move thee. He saith unto him, Tend my sheep. 17 He saith unto him the third time, Simon, son of *John, 'lovest thou me? Peter was grieved because he said unto him the third time, ''Lovest thou me? And he said unto him. Lord, thou knowest all things; thou ^knowest that I Hove thee. Jesus saith unto him. Feed my sheep. 18 Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest : but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not. 19 Now this he spake, signifying by what manner of death he should glorify God. And when he had spoken this, he saith unto him. Follow me. 20 Peter, turning about, seeth the disciple whom Jesus loved following; which' also leaned back on his breast at the supper, and said. Lord, who is he that betrayeth thee ? 21 Peter therefore seeing him saith to Jesus, Lord, ^and what shall this man do ? 22 Jesus saith unto him, If I will that he tarry till I come, what is that to thee ? follow thou me. 23 This saying therefore went forth among the brethren, that that disciple should not die : yet Jesus said not unto him, that he should not die ; but, If I will that he tarry till I come, what is that to thee?
+Mark 16:19,20. | Luke 24 : 44-53.
+--- | ---
+&nbsp; | 44 And he said unto them, These are my words which I spake unto you, while I was yet with you, how<sup>5</sup> that all things must needs be fulfilled, which are written in the law of Moses, and the prophets, and the psalms, concerning me. 45 Then opened he their mind, that they might understand the scriptures ; 46 and he said unto them. Thus it is written, that the Christ should suffer, and rise again from the dead the third day ; 47 and that repentance <sup>5</sup>and remission of sins should be preached in his name unto all the <sup>6</sup> nations, beginning from Jerusalem. 48 Ye are witnesses of these things. 49 And behold, I send forth the promise of my Father upon <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> you : but tarry ye in the city, until ye be clothed with power from on high.
+19 So then the Lord Jesus, after he had spoken unto them, was received up into heaven, and sat down at the right hand of God. 20 And they went forth, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen. | 50 And he led them out until _they were_ over against Bethany : and he lifted up his hands, and blessed them. 51 And it came to pass, while he blessed them, he parted from them, <sup>1</sup>and was carried up into heaven. 52 And they <sup>2</sup>worshipped him, and returned to Jerusalem with great joy : 53 and were continually in the temple, blessing God.
 
-24 This is the disciple which* beareth witness of these things, and wrote these things: and we know that his witness is true. (-|- § 151)
 
-§ 149. THE APPEARANCE TO THE ELEVEN ON A MOUNTAIN IN GALILEE.
 
-Matt. 28:16-20.
+### § 151. THE CONCLUSION OF JOHN'S GOSPEL. 
 
-16 But the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them. 17 And when they saw him, they worshipped him : but some doubted. 18
-
-Mark 16 : 15-18. 15 And he said unto them. Go ye into all the world, and preach the gospel to the whole creation. 16 "He that believethand is baptized shall be saved ; but he that disbelieveth shall be condemned.
-
-ERV. mg. : ^ Or. a flre of charcoal. ''Or, a flsh “Or, a loaf * Or, aboard » Gr. J'oanes. See ch. i. 42, margin. pl«ce« represents two different Orei-k words. ”Or, peroeivtat ' Gt. and thit man, what 1
-
-^ Love \a thei*
-
-■ John 3: 18. He that believeth on him is not judged: he that believeth not hath been jadged already, because he hath not believed on the name of the only begotten Son of Ood. (§28)
-
-243
-
-§149
-
-THE FORTY DAYS
-
-Matt. 28.
-
-And Jesus came to them and spake unto them, saying, aAU authority hath been given unto me in heaven and on earth. 19 Go ye therefore, and make disciples of all the nations, baptizing them into the name of the Father and of the Son and of the Holy Ghost » : 20 teaching them to observe all things whatsoever I commanded you : and lo, I am with you 'alway'', even unto ' the end of the world.
-
-Mask 16.
-
-17 And theee si^rne shall follow ^ them that believe: in my name shall they cast out ^ devila * ; they shall speak with *new tongues;
-
-18 bthey shall take up serpents, and if they drink any deadly thing, it shall in no wise hurt them; they shall lay hands on the sick, and they shall recover.
-
-S 160. OHEIST'S FINAL APPEARANCE, AND HIS ASCENSION.
-
-Mask 16:19,20.
-
-Luke 24 : 44-53.
-
-44 And he said unto them, These are my words which I spake unto you, while I was yet with you, how* that all things must needs be fulfilled, which are written in the law of Moses, and the prophets, and the psalms, concerning me. 45 Then opened he their mind, that they might understand the scriptures ; 46 and he said unto them. Thus it is written, that the Christ should suffer, and rise again from the dead the third day ; 47 and that repentance *and remission of sins should be preached in his name unto all the * nations, beginning from Jerusalem. 48 Ye are witnesses of these things. 49 And behold, I send forth the promise of my Father upon
-
-ERV. mg. : i Gr. all the days. ' Or, the oonautnmation of the age ' Or. demons. * Soma ancient authoritiee omit new- • Some ansient authorities read unto. * Or, nations. Beginning from Jerusalem, ye are witnesses
-
-ARV. txt. : • Holy Spirit ' always ' accompany * demons » Omit how
-
-»Matt. 11 : 27. All things have been delivered unto me of my Father. (§87)
-
-» Luke 10 : 22. AH things have been delivered unto me of my Father. (§ 87) Cf . John 17 : 2. (§ 135) i> Luke 10: 19. Behold, I have given you authority to tread upon serpents and scorpions, and over all the I)ower of the enemy : and nothing shall in any wise hurt you. (§87)
-
-<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
-
-§151
-
-Makk 16.
-
-19 So then the Lord Jesus, after he had spoken unto them, was received up into heaven, and sat down at the right hand of God. 20 And they went forth, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen.
-
-Luke 24.
-
-you : but tarry ye in the city, until ye be clothed with power from on high.
-
-50 And he led them out until they ivere over against Bethany : and he lifted up his hands, and blessed them. 51 And it came to pass, while he blessed them, he parted from them, 'and was carried up into heaven. 52 And they ^worshipped him, and returned to Jerusalem with great joy : 53 and were continually in the temple, blessing God.
-
-§ 151. THE CONCLUSION OF JOHN'S GOSPEL. John 20 : 30, 31.
+John 20 : 30, 31.
 
 30 Many other signs therefore did Jesus in the presence of the disciples, which are not written in this book : 31 but these are written, that ye may believe that Jesus is the Christ, the Son of Gpd ; and that believing ye may have life in his name.
 
 John 21 : 25.
 
-25 And there are" also many other things which Jesus did, the which if they should be written every one, I suppose that even the world itself would not contain the books that should be written.
+25 And there are also many other things which Jesus did, the which if they should be written every one, I suppose that even the world itself would not contain the books that should be written.
 
-ERV. mg. ^ > Some ancient authorities omit and was carried up into heaven. ' Some ancient authorities omit toors/itppeol him, and
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -4779,3 +3141,555 @@ ARV. txt. : <sup>1</sup> Teacher <sup>2</sup> make ye trial of <sup>3</sup> dena
 ERV, mg. ; <sup>1</sup> Gr. seven. <sup>2</sup> Many ancient authorities add [after angels] of God. <sup>3</sup> Or, Teacher.  <sup>4</sup> Or, And a second is like unto it Thou Shalt love d&c. <sup>5</sup> Or, The Lord is our God; the Lord is one <sup>6</sup> Or. from <sup>7</sup> Or, age
 
 ARV. txt. : <sup>1</sup> trying <sup>2</sup> Teacher
+
+**p. 181**
+
+ERV. mg;. <sup>1</sup> Or, Teacher <sup>2</sup> Some ancient authorities read underneath thy feet <sup>3</sup> Or, the great multitude
+
+ARV. txt. : <sup>1</sup> the whole law hangeth <sup>2</sup> Teacher
+
+<sup>a</sup> Matt. 7: 12. For this is the law aud tho prophets. (.§49)
+
+**p. 182**
+
+ERV. mg. : <sup>1</sup> Many ancient authorities omit and grievous to be borne. <sup>2</sup> Gr. the heavenly. <sup>3</sup> Gr. greater. <sup>4</sup> Or, even while fo pretence they make
+
+ARV. txt. : <sup>1</sup> Omit for <sup>2</sup> even he who <sup>3</sup> that
+
+<sup>a</sup> Luke 11 : 46. For ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers. (§ 94)
+
+<sup>b</sup> Luke 11 : 43. For ye love the chief seats in the synagogues, and the salutations in the marketplaces. (gti4)
+
+<sup>c</sup> Matt. 20 : 26, 27. But whosoever would become great among you shall be your minister ; 27 and whosoever would be first among you shall be your servant. (§ 114)
+
+<sup>c</sup> Mark 9:35. If any man would bo first, he shall be last of all, and minister of all. (§81)
+
+<sup>c</sup> Mark 10: 43, 44. But whosoever would become great among you, shall bo your minister: 44 and whosoever would be first among you, shall be servant of all. (§ 114)
+
+<sup>c</sup> Luke9:48. For he that is least among you all, the same is great. (§81)
+
+<sup>c</sup> Luke 22: 26. But he that is the greater among you, let him become as the younger; and he that is chief, as he that doth serve. (§ 133) ,
+
+**p. 183**
+
+ERV. mg. : <sup>1</sup> Or, minister <sup>2</sup> Gr. before <sup>3</sup> Some authorities insert here [after ver. 13], or after ver. 12, ver. 14 Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, even while for a pretence ye make long prayers: therefore ye shall receive greater condemnation. See Mark xii. 40; Luke tx. 47. <sup>4</sup> Gr. Gehenna. <sup>5</sup> Or, sanctuary : as in ver. 35. <sup>5</sup> Or, bound by his oath <sup>6</sup> Or, dill
+
+ARV. txt. : <sup>1</sup> that <sup>2</sup> which <sup>3</sup> justice
+
+<sup>a</sup> Luke 14: 11. For everyone that cxalteth himself shall be humbled; and he that humbleth himself shall be exalted. (§100)
+
+<sup>a</sup> Luke 18:14. For every one that exalteth himself shall be humbled; but he that humbleth himself shall beoxaltcd. (§109)
+
+<sup>b</sup> Luke 11:. 52. Woe unto you lawyers I for ye took away the key of knowledge: ye entered not in yourselves, and them that were entering in yo hindered. (§94)
+
+<sup>c</sup> Luko 11 : 42. But woe unto you Pharisees 1 for ye tithe mint and rue and every herb, and pass C7Gr judgement and the love of God : but these ought ye to have done, and not to leave the other undone. (§94)
+
+<sup>d</sup> Luke 11 : 39-41. Now do ye Pharisees cleanse the outside of the cup and of the platter; but your inward partis full of extortion and wickedness. 40 Ye foolish ones, did not ho that made the outside make the inside alsoT 41 Howbeit give for alms those things that are within; and behold all things are clean unto you. (§94)
+
+<sup>e</sup> Luke 11:44. Woe unto youl for ye are as the tombs which appear not, and the men that walk over them know it not. (§94)
+
+<sup>f</sup> Luke 11 47. Woe uoto youl for ye build the tombs of the prophets, and your fathers killed them. (§94)
+
+**p. 184**
+
+ERV. mg. : <sup>1</sup> Gr. Gehenna, <sup>2</sup> Some ancient authorities omit desoJate. <sup>3</sup> Gr. brass. <sup>4</sup> Gr. one. <sup>5</sup> Or, and saw them that ... treasury, and they were rich.
+
+ARV. txt.: <sup>1</sup> that
+
+<sup>a</sup> Luke 11 : 48. So ye are witnesses and consent unto the works of your fathers : for they killed them, and ye build their tombs. (§ 94)
+
+<sup>b</sup> Luke 11:49-51. Therefore also said the wisdom of God, I will send unto them prophets and apostles; and some of them they shall kill and persecute ; 50 that the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation ; 51 from the blood of Abel unto the blood of Zachariah, who perished between the altar and the sanctuary : yea, I say unto you, it shall be required of this generation. (§ 94)
+
+<sup>c</sup> Luke 13: 34, 35. O Jerusalem, Jerusalem, which killeth the prophets, and stoneth them that are sent unto her! how often would I have gathered thy children together, even as a hen gathereth her own brood under her wings, and ye would not ! 35 Behold, your house is left unto you desolate : and I say iinto you, Ye shall not sea me, until ye shall say, Blessed is he that cometh in the name of the Lord. (§ 99)
+
+**p. 185**
+
+ERV. mg.: <sup>1</sup> Or, soul <sup>2</sup> Or, hour ? <sup>3</sup> Or, a Judgement <sup>2</sup> Or, out of <sup>4</sup> Or, in <sup>5</sup> Or, was hiilden from them
+
+ARV. txt.: <sup>1</sup> who
+
+<sup>a</sup> Matt. 10:39. Ho that findeth his life shall lose it; aud he that loseth his lite for my sake shall fmd it. (§64)
+
+<sup>a</sup> Matt. 16:25. For whosoever would save his life shall lose it; and whosoever shall lose his life for my sake shall save it. (g 7”})
+
+<sup>a</sup> Mark 8 : 35. For whosoever would save his life shall lose it ; and whosoever shall lose his life for my sake and the gospel's shall save it. (§76)
+
+<sup>a</sup> Luke 9: 24. For whoso- vo? would save his life shall lose it; but whosoever shall lose his life for my sake, the same shall save it. (§76)
+
+<sup>a</sup> Luke 17:3.3. Whosoever shall seek to gain his life shall lose it; but whosoever shall lose his life shjJJ preserve it. (§ 106)
+
+<sup>b</sup> Matt. 26::i8. My .soul is exceeding sorrowful, even unto death. (§136)
+
+<sup>b</sup> Mark 14:34. My soul is exceeding sorrowful, even unto death. (§136)
+
+<sup>c</sup> Matt 26: 38. O my Father, if it be possible, let this cup pass away from me: nevertheless, not as I will but as thou wilt, (§ 136)
+
+<sup>c</sup> Mark 14: 30. Abba, Father, all things are possible unto thee; remove this cup from me: howbeit not what I will, but what thou wilt. (§ 1 0)
+
+<sup>c</sup> Luke 22: 42, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done. (§ 136)
+
+**p. 186**
+
+ERV. mg. : <sup>1</sup> Or, him <sup>2</sup> Or, Teacher 
+
+ARV.txt.: <sup>1</sup> that is of <sup>2</sup> that <sup>3</sup> Teacher
+
+**p. 187**
+
+EKV. mg. . <sup>1</sup> Gr. presence. <sup>2</sup> Or, the consummation of the age <sup>3</sup> Or, Teacher. <sup>4</sup> Gr. you being brought. 
+
+ARV. txt: <sup>1</sup> Teacher <sup>2</sup> turn out
+
+<sup>a</sup> Mat;. 10:17, 18. But beware of men: for they will deliver you up to councils, and in their synagogues they will scourge you ; 18 yea and before governora and kings shall ye be brought for my sake, for a testimony to them and to the Gentiles. (§ 64)
+
+<sup>b</sup> See note c on page 188.
+
+<sup>c</sup> Matt. 10:19, 20. But when they deliver you up, be not anxious how or what ye shall speak: for it shall be given you in that hour what ye shall speak. 20 For it is not ye that speak, but the Spirit of your Father that speaketh in you. (§64)
+
+<sup>c</sup> Luke 12 : 11, 12. And when they bring you before the synagogues, and the rulers, and the authorities, be Dot anxious how or what ye shall answer, or what ye shall say : 12 fer the Holy Spirit shall teach you in that very hour what ye ought to say. (§ 95)
+
+**p. 188**
+
+ERV. mg. : <sup>1</sup> Or, these good tidings  <sup>2</sup> Gr. inhabited earth. <sup>3</sup> Or, through  <sup>4</sup> Or, a holy place  <sup>5</sup> Or, put them to death <sup>6</sup> Or, shall they put to death, <sup>7</sup> Or, lives <sup>8</sup> Or, earth
+
+ARV. txt. : <sup>1</sup> through <sup>2</sup> Holy Spirit
+
+<sup>a</sup> Matt. 10:226. But he that endureth to the end, the same shall be saved. (§64)
+
+<sup>b</sup> Matt. 10:21. And brother shall deliver up brother to death, and the father his child: and children shall rise up against parents, and cause them to be put to death. (§64)
+
+<sup>b</sup> John 16 : 2. They shall put yon out of the synagogues : yea, the hour cometh. that whosoever killeth you shall think that he ott'ereth service unto God. (§ 134)
+
+<sup>c</sup> Matt. 10:22a. And ye shall be hated of all men for my name's sake. (§64) Cf. John 15:21 (§134)
+
+<sup>d</sup> Matt. 10:30. But the very hairs of your head are all numbered. (§64) = d Luke 12:7 (§95)
+
+<sup>e</sup> Luke 17:31. In that day, he which shall be on the housetop, and his goods in the house, let him not go down to take them away : and let him that is in the field likewise not return back. (§108)
+
+**p.189**
+
+ERV. mg.: <sup>1</sup> Or, him <sup>2</sup> Or, them <sup>3</sup> Gr. presence. <sup>4</sup> Or, vultures <sup>5</sup> Or, expiring <sup>6</sup> Gr. the inhabited earth.
+
+<sup>a</sup> Luke 17:23. And they shall say to you, Lo, there I Lo, here I go not away, nor follow after them. (§108) 
+
+<sup>b</sup> Luke 17: 24. For as the lightning;, when it lighteneth out of the one part under the heaven, shineth unto the other part under heaven ; so shall tho Son of man bo in his day. (§ 108)
+
+<sup>c</sup> Lake 11 : 87. Where the body is, thither will the eagles also be gathered together, (§ 108)
+
+**p. 190**
+
+ERV. mg. : <sup>1</sup> Many ancient authorities read with a great trumpet, and they shall gather, d&c. <sup>2</sup> Or, a trumpet of great sound <sup>3</sup> Or, it <sup>4</sup> Many authorities, some ancient, omit neither the Son. <sup>5</sup> Gr. presence.
+
+<sup>a</sup> Luke 17 : 26, 27. And as it came to pass in the days of Noah, even so shall it be also in the days of the Son of man. 27 They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all. (§ 108)
+
+<sup>b</sup> Luke 17 : 34, 35. In that night there shall be two men on one bed ; the one shall be taken, and the other shall be left. 35 There shall be two women grinding together; the one shall be taken, and the other shall be left. (§108)
+
+**p. 191**
+
+ERV. mg.: <sup>1</sup> Or, But this ye know <sup>2</sup> Or. digged through. <sup>3</sup> Gr. bondservant. <sup>4</sup> Some ancient authorities omit and pray <sup>5</sup> Or. bondservants. <sup>6</sup> Or, the faithful steward, the wise man whom d&c.
+
+<sup>a</sup> Cf. Matt. 2.5:1.3 (p. 193).
+
+<sup>b</sup> Luke 12:39, 40. But know this, that if the master of the house had known in what hour the thief was coming, he would have watched, and not have left his house to be broken through. 40 Ho ye also ready : for In an hour that ye think not the Son of man cometh. (§95)
+
+<sup>a</sup> Luke 12: 42-46. (§95) See above.
+
+**p. 192**
+
+ERV. mg. : <sup>1</sup> Or, severely scourge him <sup>2</sup> Or, torches
+
+ARV. txt. : <sup>1</sup> the gnashing <sup>2</sup> who
+
+<sup>a</sup> Matt. 8: 12. But the sons of the kicgdom shall be cast forth into the outer darkness: there shall be the weeping and gnashing of teeth. (§ 50)
+
+<sup>a</sup> Matt. 13:42. And shall cast them into the furnace of fire: there shall be the weeping and gnashing of teeth. (§57)
+
+<sup>a</sup> Matt. 13:50. And shall cast them into the furnace of fire: there shall be the weeping and gnashing of teeth. (§57)
+
+<sup>a</sup> Matt. 22:13. And cast him out into the outer darkness; there shall be the weeping and gnashing of teeth. (§124)
+
+<sup>a</sup> Cf. Matt. 25: 30 (p. 193).
+
+<sup>a</sup> Luke 12:46 (§95). See above.
+
+<sup>a</sup> Luke 13: 28. There shall be the weeping and gnashing of teeth, when ye shall see Abraham, and Isaac and Jacob, and all the prophets, in the kingdom of God, and yourselves cast forth without. (§98)
+
+**p. 193**
+
+ERV. mg. : <sup>1</sup> Gr. bondservants. <sup>2</sup> Gr. bondservant.
+
+ARV. txt.: <sup>1</sup> the gnashing
+
+<sup>a</sup> Luke 13:25. Lord, open to us; and he shall answer and say to you, I know you not whence yo are. (§98)
+
+<sup>b</sup> Cf. Matt. 24:42; Mark 13: 3.3, 35; Luke 21 : 36 (p. 191).
+
+<sup>c</sup> Cf. Luke 19: 11-27. (§117)
+
+<sup>d</sup> Matt. 13:12. For whosoever hath to him shall be given, and ho shall have abundance: but whosoever f ath not, from him shall be taken away even that which he hath. (§67)
+
+<sup>d</sup> Mark 4:23. For he that hatli, to him shall be given: and ho that bath not, from him shall be taken away even that which he hath. (§57)
+
+<sup>d</sup> Luke 8: 18. For whosoever hath, to him shall be given; and whosoever hath not, from him shall bo taken away even that which he thinketh he hath. (§57)
+
+<sup>d</sup> Luke 19:26. I say unto you, that unto every one that liath shall be given; but from him that hatli not even that which he hath shall be taken away from him. (§ 117)
+
+<sup>e</sup> Cf. Matt. 24 : 51 (p. 192), and references there.
+
+**p. 194**
+
+ERV. mg. : <sup>1</sup> Gr. kids. <sup>2</sup> Or, Depart from me under a curse
+
+ARV. txt. : <sup>1</sup> was hungry <sup>2</sup> to eat <sup>3</sup> thee hungry <sup>4</sup> did not give me to eat
+
+**p. 195**
+
+ARV. txt. : <sup>1</sup> thee hungry <sup>2</sup> called Olivet
+
+**p. 196**
+
+ERV. mg. <sup>1</sup> Gr. the one of the twelve. <sup>2</sup> Or, without tumult <sup>3</sup> Or, Teacher
+
+ARV. txt. ; <sup>1</sup> Teacher
+
+**p. 197**
+
+ERV. mg. : <sup>1</sup> Many anthorities, some ancient, omit sdsciples <sup>2</sup> Or, Teacher
+
+ARV. txt.: <sup>1</sup> master <sup>2</sup> Teacher
+
+**p. 198**
+
+ERV. mg. : <sup>1</sup> Or, to the uttermost
+
+ARV. txt.: <sup>1</sup> that
+
+**p. 199**
+
+ERV. mg. : <sup>1</sup> Some ancient authorities omit save, and his feet. <sup>2</sup> Gr. reclined. <sup>3</sup> Or, Teacher <sup>4</sup> Gr. bondservant. <sup>5</sup> Gr. an apostle. 
+
+ARV. txt: <sup>1</sup> Teacher
+
+<sup>a</sup> Matt. 10:24. A disciple is not above his master, nor a servant above his lord. (§64)
+
+<sup>a</sup> Luke 6:40. The disciple is not above his master: but everyone when he is perfected shall be as his master. (§49)
+
+<sup>a</sup> John 15 : 20. Bemember the word that I said unto you, A servant is not greater than his lord. (§ 131)
+
+**p. 200**
+
+ERV. mg. : <sup>1</sup> Gr. reclined. <sup>2</sup> Or, chose <sup>3</sup> Many ancient authorities read his bread with me. <sup>4</sup> Or, I am
+
+<sup>a</sup> Matt. 10:40. He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me. (§64)
+
+<sup>a</sup> Matt. 18: 5. And whoso shall receive one such little child in my name, receiveth me. (§81)
+
+<sup>a</sup> Mark 9:37. Whosoever shall receive one of such little children in my name, receiveth me: and whosoever receiveth me, receiveth not me, but him that sent me. (§81)
+
+<sup>a</sup> Luke 9:48. Whosoever shall receive this little child in my name receiveth me: and whosoever receiveth me receiveth him that sent me. (§81)
+
+<sup>a</sup> Luke 10:16. He that heareth you heareth me; and he that rejecteth you rejecteth me; and he that rejecteth me rejecteth him that sent me. (§87)
+
+**p. 201**
+
+ERV. mg. : <sup>1</sup> Gr. for him if that man. <sup>2</sup> Gr. greater. <sup>3</sup> Or, box 
+
+ARV. txt. : <sup>1</sup> who <sup>2</sup> was <sup>3</sup> What
+
+**p. 202**
+
+ERV. mg. : <sup>1</sup> Or, a loaf <sup>2</sup> Gr. reclineth. <sup>3</sup> Or, I appoint unto you, even as my Father appointed unto me a kingdom, that ye may eat and drink, dc.
+
+ARV. txt. : <sup>1</sup> which <sup>2</sup> that
+
+<sup>a</sup> Matt. 20: 25-27. Ye know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them. 26 Not so shall it bo among you: but whosoever would become great among you shall be your minister; 27 and whosoever would be first among you shall be your servant. (§114)
+
+<sup>a</sup> Mark 10 : 42-44. Ye know that they which are accounted to rule over the Gentiles lord it over them ; and their great ones exercise authority over them. 43 But it is not so among you: but whosoever would become great among you, shall be your minister: 44 and whosoever would be first among you, shall be servant of all. (§114)
+
+<sup>b</sup> Matt. 23 : 11. But he that is greatest among you shall be your servant. (§ 127)
+
+<sup>b</sup> Mark 9 : 35. If any man would be first, he shall be last of all, and minister of all. (§ 81)
+
+<sup>b</sup> Luke 9 : 48. For he that is least among you all, tlie same is great. (§ 81)
+
+<sup>c</sup> Matt. 19 : 28. Ye also shall sit on thrones, judging the twelve tribes of Israel. (§ 112)
+
+**p. 203**
+
+ERV. mg. : <sup>1</sup> Or, a loaf <sup>2</sup> Some ancient authorities read the cup. <sup>3</sup> Or, the testament <sup>4</sup> Many ancient authorities insert new. <sup>a</sup> ancient authorities omit which is given for you . . . which is poured out for you. <sup>6</sup> Or, testament <sup>7</sup> Or, tens
+
+ARV. txt. : <sup>1</sup> poured out <sup>2</sup> shall
+
+**p. 204**
+
+ERV. mg. : <sup>1</sup> Gr. canted to stumble. <sup>2</sup> Or, obtained you by asking <sup>3</sup> Or, even at I loved you, that ye may alto love one another
+
+ARV. txt. : <sup>1</sup> establish
+
+**p. 205**
+
+ERV. mg.: <sup>1</sup> Or, and he that hath no sword, let him sell his cloke. and buy one. <sup>2</sup> Or. end. <sup>3</sup> Or, believe in God <sup>4</sup> Or, abiding places. <sup>5</sup> Mui7 ancient authorities read And whither I go ye know, and the tray ye know.
+
+ARV. txt. : <sup>1</sup> Omit ye
+
+**p. 206**
+
+ERV. mg.: <sup>1</sup> Or, through <sup>2</sup> Many ancient authorities omit me. <sup>3</sup> Gr. make request of. <sup>4</sup> Or, Advocate Or, Helper Gr. Paraclete. <sup>6</sup> Or, orphan <sup>7</sup> Or, and ye shall live
+
+ARV. txt. : <sup>1</sup> Omit mo
+
+**p. 207**
+
+ERV.mg.: <sup>1</sup> Or, teas <sup>2</sup> Many ancient authorties read that ye bear much fruit, and be my disciples <sup>3</sup> Gr. bondservants. <sup>4</sup> Gr. bondservant. <sup>5</sup> Or, know ye <sup>6</sup> Or, Advocate Or, Helper Gr. Paraclete. <sup>7</sup> Or, goeth forth from <sup>8</sup> Or, and bear ye also witness
+
+AKV. txt. : <sup>1</sup> made full <sup>2</sup> caused
+
+<sup>a</sup> Matt. 10:24. A disciple is not above his master, nor a servant above his lord. (§64)
+
+<sup>a</sup> Luke 6:40. The disciple is not above his master; but every one when he is perfected shall be as his master. (§49)
+
+<sup>a</sup> John 13 : 16. Verily, verily, I say unto you, A servant is not greater than his lord ; neither one that is sent greater than he that sent him. (§133)
+
+<sup>b</sup> Matt. 10:22. And ye shall be hated of all men for my name's sake. (§64)
+
+<sup>b</sup> Matt. 24:9. And ye shall be hated of all the nations for my name's sake. (§131)
+
+<sup>b</sup> Mark 13: 13. And ye shall be hated of all men for my name's sake. (§ 131)
+
+<sup>b</sup> Luke 21 : 17. And ye shall be hated of all men for my name's sake. (§ 131)
+
+<sup>c</sup> Matt. 10 : 21. And brother shall deliver up brother to death, and the father his child : and children shall rise up against parents, and cause them to be put to death. (§64)
+
+<sup>c</sup> Mark 13:12. And brother shall deliver up brother to death, and the father his child ; and children shall rise up against parents, and cause them to be put to death. (§ 131)
+
+<sup>c</sup> Luke 21 : 16. But ye shall be delivered up even by parents, and brethren, and kinsfolk, and friends; and some of you shall they cause to be put to death. (§ 131)
+
+**p. 208**
+
+EBV. mg. ; <sup>1</sup> Or, Advocate Or, Helper Gr. Paraclete. <sup>2</sup> Or, ask me no question <sup>3</sup> Or, parables <sup>4</sup> Gr. make request of. <sup>5</sup> Or parable
+
+ARV. txt. : <sup>1</sup> ask me no question <sup>2</sup> made foil <sup>3</sup> dark sayings <sup>4</sup> dark saying
+
+**p. 209**
+
+ERV. mg. : <sup>1</sup> Gr. make request. <sup>2</sup> Gr. out of. <sup>3</sup> Or, evil <sup>4</sup> Or, Consecrate <sup>5</sup> Many ancient authorities read those whom.
+
+ARV. txt. <sup>1</sup> that to all whom thou bait given him, <sup>2</sup> Omit <sup>3</sup> made full <sup>4</sup> Father, I deiire that they also whom thou bast giren me be Kith me where I am.
+
+**p. 210**
+
+ERV mg. : <sup>1</sup> Gr. an enclosed piece of ground. <sup>2</sup> Many ancient authorities omit ver. 43, 44. <sup>3</sup> Or, ravine Gr. winter-torrent. <sup>4</sup> Or, of the Cedars
+
+ARV. txt. : <sup>1</sup> Omit O <sup>2</sup> Omit the
+
+<sup>a</sup> John 12: 27. Now is my soul troubled ; and what shall I sayl (§129)
+
+<sup>b</sup> John 12: 27, 28. Father, save me from this hour. But for this cause came I unto this hour. 28 Father, glorify thy name. (§ 129)
+
+**p. 211**
+
+ERV. mg.: <sup>1</sup> Or, Watch, ye, and pray that ye enter not <sup>2</sup> Or, ravine Gr. winter-torrent. <sup>3</sup> Or, of the Cedars 
+
+ARV. txt: <sup>1</sup> Omit O <sup>2</sup> into <sup>3</sup> knew <sup>4</sup> Omit the
+
+**p. 212**
+
+ERV. mg.: <sup>1</sup> Gr. kissed him much. <sup>2</sup> Gr. bondservant. <sup>3</sup> Or, cohort
+
+ARV. txt: <sup>1</sup> ye them <sup>2</sup> that
+
+**p. 213**
+
+ERV. mg.: <sup>1</sup> Gr. bondservant <sup>2</sup> Or, cohort <sup>2</sup> Or, military tribune Gr. chiliarch.
+
+ARV. txt.: <sup>1</sup> who <sup>2</sup> that
+
+**p. 214**
+
+ERV. mg. : <sup>1</sup> Gr. bondservants. <sup>2</sup> Or. a fire of charcoal. <sup>3</sup> Gr, synagogue. 
+
+ARV. txt. : <sup>1</sup> who
+
+**p. 215**
+
+ERV. mg. <sup>1</sup> Or, with a rod
+
+**p. 216**
+
+ERV. mg. : <sup>1</sup> Or, sanctuary : as in Matt, xxiii. 35 ; xxvii. 5. <sup>2</sup> Gr. liable to.
+
+ARV. txt. ; <sup>1</sup> art <sup>2</sup> Power
+
+**p. 217**
+
+ERV. mg. : <sup>1</sup> Or, with rods <sup>2</sup> Or, strokes of rods <sup>3</sup> Or, I neither know, nor understand: thou, what sayest thou ? <sup>4</sup> Gr. forecourt. <sup>5</sup> Many ancient authorities omit and the cock crew. <sup>6</sup> Gr. him. <sup>7</sup> Gr. bondservants.
+
+ARV. txt. : <sup>1</sup> Jesus of Nazareth <sup>2</sup> maketh thee known
+
+**p. 218**
+
+ERV. mg. : <sup>1</sup> Or, And he began to weep. <sup>2</sup> Or, Ye say it, because I am
+
+ARV, txt. : <sup>1</sup> who
+
+**p. 219**
+
+ERV. mg. : <sup>1</sup> Many ancient authorities read righteous <sup>2</sup> Gr. corbanas, that is, sacred treasury Compare Mark vii. 11 <sup>3</sup> Or, through <sup>4</sup> Or, whom they priced on the part of the sons of Israel <sup>4</sup> Some ancient authorities read I gave.
+
+ARV. txt.: <sup>1</sup> Utrough
+
+**p. 220**
+
+ERV. mg. : <sup>1</sup> Or, an anointed king <sup>2</sup> Gr. Praetorium.
+
+ARV . txt. : <sup>1</sup> Praetorium
+
+**p. 221**
+
+ERV. mg.; <sup>1</sup> Or, offlcera: as in ver. 3, 12, 18, 22. <sup>2</sup> Or, Thou sayest it, because I am a king
+
+**p. 222**
+
+ERV. mg. : <sup>1</sup> Or. sign.
+
+**p. 223**
+
+ERV. mg. : <sup>1</sup> Or, a feast <sup>2</sup> Many ancient authorities insert ver. 17 How he must needs release unto them at the feast one prisoner. Others add the same words after ver. 19.
+
+ARV. txt: <sup>1</sup> who
+
+**p. 224**
+
+ERV. mg. : <sup>1</sup> Some ancient authorities read of his blood: see ye etc. <sup>2</sup> Gr. Praetortum. See Mark xv. 16. <sup>3</sup> Or, cohort <sup>4</sup> Some ancient authorities read clothed. <sup>5</sup> Or, palace
+
+ARV. txt. ; <sup>1</sup> Which <sup>2</sup> two <sup>3</sup> who <sup>4</sup> Praetorium <sup>5</sup> platted <sup>6</sup> platting <sup>7</sup> urgent
+
+**p. 225**
+
+ERV. mg. : <sup>1</sup> Or, with rods
+
+ARV. txt. : <sup>1</sup> and spat
+
+**p. 226**
+
+ERV. mg. : <sup>1</sup> Gr. Rroetorium. <sup>2</sup> Or, authority <sup>3</sup> Or, opposeth Caesar
+
+ARV. txt. ; <sup>1</sup> Praetorium
+
+**p. 227**
+
+ERV. mg. : <sup>1</sup> Or. impressed. <sup>2</sup> Or. impress.
+
+**p. 228**
+
+ERV. mg. <sup>1</sup> Many ancient authorities insert ver. 28 And the scripture was fulfilled, which saith. And he was reckoned with transgressors. See Luke xxii. 37. <sup>2</sup> According to the Latin, Calvary, which has the same meaning. <sup>3</sup> Some ancient authorities omit And Jesus said. Father, for give them; for they know not what they do. <sup>4</sup> Or, for the place of the city where Jesus was crucified was nigh at hand
+
+\* ARV. includes They . . . therefore: in ver. 17.
+
+**p. 229**
+
+ERV. ; mg. : <sup>1</sup> Or. lanctuary <sup>2</sup> Or, can he not save himself <sup>3</sup> Or, tunic
+
+**p. 230**
+
+ERV. mg. : <sup>1</sup> Or, can he not save himself ? <sup>2</sup> Some ancient authorities read into thy kingdom
+
+ART. txt.: <sup>1</sup> that
+
+**p. 231**
+
+ERV. mg : <sup>1</sup> Or, earth <sup>2</sup> Or. why didtt thou forsake met <sup>3</sup> Many ancient authorities add And another took a spear and piereed hit side, and there came out water and blood. See John xix. 34. <sup>4</sup> Or, sanctuary <sup>5</sup> Gr. the sun failing. <sup>5</sup> Or, And Jesus, crying with a loud voice, said
+
+ARV. txt. : <sup>1</sup> two <sup>2</sup> And Jesus, crying with a loud voice, said.
+
+**p. 232**
+
+ERV. mg. ; <sup>1</sup> Or, a son of God <sup>2</sup> Many ancient authorities read so cried ouf, and gave up the ghost. <sup>3</sup> Gt. little
+
+ARV. txt.: <sup>1</sup> who <sup>2</sup> that
+
+**p. 233**
+
+ERV. mg. : <sup>1</sup> Or, crushed
+
+ARV. txt. : <sup>1</sup> that <sup>2</sup> a good and righteous man
+
+**p. 234**
+
+ERV. mg. : <sup>1</sup> Many ancient authorities read were already dead. <sup>2</sup> Gr. began to dawn. <sup>3</sup> Some ancient authorities read roll. <sup>4</sup> Or, Take a guard <sup>5</sup> Gr. make it sure, aa ye know.
+
+ARV. txt : <sup>1</sup> who <sup>2</sup> a hundred pound <sup>3</sup> Omit your way
+
+**p. 235**
+
+ERV. mg. : <sup>1</sup> Many ancient authorities read where he lay. <sup>2</sup> Some authorities omit of the Lord Jesus. 
+
+ARV. txt : <sup>1</sup> who
+
+**p. 236**
+
+ERV. mg. : <sup>1</sup> Gr. him that liveth <sup>2</sup> Some ancient authorities omit He is not here, but is risen. <sup>3</sup> Some ancient authorities omit from the tomb. <sup>4</sup> Some ancient anthoritiea omit ver. 12. <sup>5</sup> Or, departed, wondering with himself
+
+**p. 237**
+
+ERV. mg. : <sup>1</sup> The two oldest Greek manusripts, and some other auuthorities, omit from ver. 8 to the end. Some other authorities have a different ending to the Gospel. <sup>2</sup> Or. dttmons.
+
+ARV. txt.: <sup>1</sup> who
+
+\* See AppeDdiz I, p. 252.
+
+**p. 238**
+
+ERV. mg. : <sup>1</sup> Or, Teacher <sup>2</sup> Or, Take not hold on me <sup>3</sup> Or, come to a hearing before the governor
+
+ARV. txt. ; <sup>1</sup> Teacher <sup>2</sup> Omit how <sup>3</sup> much
+
+**p. 239**
+
+ERV. mg. : <sup>1</sup> Or. What words are these that ye exchange one with another- <sup>2</sup> Or, Dust thou sojourn alone in Jerusalem, and knovest thou not the things
+
+ARV. txt. : <sup>1</sup> Jesus the Nazarene <sup>2</sup> who <sup>3</sup> besides
+
+**p. 240**
+
+ERV. mg. : <sup>1</sup> Or, after <sup>2</sup> Or, loaf
+
+ART. txt: <sup>1</sup> who <sup>2</sup> and blesed ; and breaking it he gave
+
+**p. 241**
+
+ERV. mg.: <sup>1</sup> Some ancient authorities omit and saith unto them. Peace be unto you. <sup>2</sup> Some snciont authorities omit ver. 40. <sup>3</sup> Or, Holy Spirit
+
+ARV. txt. : <sup>1</sup> that <sup>2</sup> questionings <sup>3</sup> Holy Spirit
+
+<sup>a</sup> Matt. 16 : 19. I will give onto thee the keys of the kingdom of heaven : and whatsoever thou shalt bind on earth shall be bound in heaven : and whatsoever thon shalt loose on earth shall be loosed in heaven. (§ 75)
+
+<sup>a</sup> Matt. 18:18. Verily I say unto you, What things soever ye shall bind on earth shall bo bound ia heaven: and what thingrs soever ye shall loose oa earth shall be loosed in heaven. (§81)
+
+**p. 242**
+
+ERV. mg.: <sup>1</sup> Many ancient authorities add and a honeycomb. <sup>2</sup> That is, Twin. <sup>3</sup> Or, hast thou believed?
+
+ARV. txt.: <sup>1</sup> and ate <sup>2</sup> yet
+
+**p. 243**
+
+ERV. mg. : <sup>1</sup> Or. a fire of charcoal. <sup>2</sup> Or, a fish <sup>3</sup> Or, a loaf <sup>4</sup> Or, aboard <sup>5</sup> Gr. Joanes. See ch. i. 42, margin. <sup>6</sup> <sup>7</sup> Love in these places represents two different Greek words. <sup>8</sup> Or, perceivest <sup>9</sup> Gt. and thit man, what ?
+
+<sup>a</sup>John 3: 18. He that believeth on him is not judged: he that believeth not hath been jadged already, because he hath not believed on the name of the only begotten Son of God. (§28)
+
+**p. 244**
+
+ERV. mg. : <sup>1</sup> Gr. all the days. <sup>2</sup> Or, the consummation of the age <sup>3</sup> Or. demons. <sup>4</sup> Some ancient authorities omit new. <sup>5</sup> Some ancient authorities read unto. <sup>6</sup> Or, nations. Beginning from Jerusalem, ye are witnesses
+
+ARV. txt. : <sup>1</sup> Holy Spirit <sup>2</sup> always <sup>3</sup> accompany <sup>4</sup> demons <sup>5</sup> Omit how
+
+<sup>a</sup> Matt. 11 : 27. All things have been delivered unto me of my Father. (§87)
+
+<sup>a</sup> Luke 10 : 22. AH things have been delivered unto me of my Father. (§ 87) Cf . John 17 : 2. (§ 135) 
+
+<sup>b</sup> Luke 10: 19. Behold, I have given you authority to tread upon serpents and scorpions, and over all the power of the enemy : and nothing shall in any wise hurt you. (§87)
+
+**p. 245**
+
+ERV. mg. <sup>1</sup> Some ancient authorities omit and was carried up into heaven. <sup>2</sup> Some ancient authorities omit worshipped him, and
