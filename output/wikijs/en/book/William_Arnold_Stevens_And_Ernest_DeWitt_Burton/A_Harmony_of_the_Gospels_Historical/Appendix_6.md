@@ -38,11 +38,13 @@ dateCreated: 2025-2-12T12:27:7Z
 FROM THE RETURN FROM THE CAPTIVITY TO THE DESTRUCTION OF JERUSALEM BY THE ROMANS.
 
 &nbsp; | **The Persian Period. 536-333 B. C.**
-:--- | ---
+--- | ---
 536 B. c. | Return from Babylon under Zerubbabel.
 459 | Ezra comes to Jerusalem.
 445 | Nehemiah comes to Jerusalem.
+
 &nbsp; | **The Greek Period. 333-142 B. C.**
+--- | ---
 333 | By Alexander's conquest of Persia, Palestine comes under Greek dominion.
 323 | In the division of Alexander's empire after his death Palestine falls to Syria, but is soon (320) seized by Ptolemy and added to Egypt.
 320-203 | Palestine is subject for the most part to Egypt, but frequent efforts are made by Syria to acquire it.
@@ -53,7 +55,7 @@ FROM THE RETURN FROM THE CAPTIVITY TO THE DESTRUCTION OF JERUSALEM BY THE ROMANS
 142 | Under Simon, Palestine throws off the Syrian yoke.
 
 &nbsp; | **Independence under the Asmoneans (Maccabees) 142-63 (circa) B. C.**
-:--- | ---
+--- | ---
 141 | The Jews declare Simon high priest and general and ethnarch, and make these offices hereditary.
 142-135 | Simon.
 135-105 | John Hyrcanus.
@@ -64,7 +66,7 @@ FROM THE RETURN FROM THE CAPTIVITY TO THE DESTRUCTION OF JERUSALEM BY THE ROMANS
 70-63 | Aristobulus II.
 
 &nbsp; | **The Roman Period. 63 B. C.-70 A. D.**
-:--- | ---
+--- | ---
 63 | The Roman general Pompey, being appealed to by both Hyrcanus and Aristobulus, sides with Hyrcanus and Antipater, and captures Jerusalem.
 63-40 | Hyrcanus II.
 47 | Julius Caesar appoints Antipater procurator of Judea, Hyrcanus ethnarch and high priest. Antipater is the real ruler. He appoints his son Herod governor of Galilee.
