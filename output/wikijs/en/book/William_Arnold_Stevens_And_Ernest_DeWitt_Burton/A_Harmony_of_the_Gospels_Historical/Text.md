@@ -1854,7 +1854,7 @@ ARV. txt.: <sup>1</sup> Holy Spirit <sup>2</sup> handmaid
 
 ERV. mg.: <sup>1</sup> Or, _by_
 
-ART. txt. : <sup>1</sup> given help to <sup>2</sup> Holy Spirit <sup>3</sup> that <sup>4</sup> from of old
+ARV. txt. : <sup>1</sup> given help to <sup>2</sup> Holy Spirit <sup>3</sup> that <sup>4</sup> from of old
 
 **p. 25**
 
@@ -1897,7 +1897,7 @@ ERV. mg. : <sup>1</sup> Or, _through_ <sup>2</sup> Gr. _becoming full of wisdom_
 
 ARV. txt.: <sup>1</sup> through <sup>2</sup> teachers <sup>3</sup> knew
 
-**p.30**
+**p. 30**
 
 ERV. mg. : <sup>1</sup> Or, _through_ <sup>2</sup> Some ancient authorities omit _the Son of God_. <sup>3</sup> Some ancient authorities read _in the prophets_.
 
@@ -2373,7 +2373,7 @@ ARV. txt. : <sup>1</sup> that
 
 <sup>b</sup> Cf. Matt. 13:9; Mark4:9; Luke 8:8 (p. 81), and references there; also Matt. 18:43 (p. 87).
 
-<sup>.c</sup> Matt. 7 : 2. And with what measure ye mete, it shall be measured unto you. (§ 49)
+<sup>c</sup> Matt. 7 : 2. And with what measure ye mete, it shall be measured unto you. (§ 49)
 
 <sup>c</sup> Luke 6 : 38. For with what measure ye mete it shall be measured to you again. (§ 49)
 
@@ -2427,7 +2427,7 @@ ARV. txt. : <sup>1</sup> the gnashing <sup>2</sup> who <sup>3</sup> Teacher
 
 <sup>a</sup> Cf. Matt. 13: 42 (p. 87), and references there.
 
-**p.89**
+**p. 89**
 
 ERV. mg.: <sup>1</sup> Or, _demoniacs_ <sup>2</sup> Or. _demons_. <sup>3</sup> Many ancient authorities read _Gergesenes_ ; others, _Gadarenes_ : and so in ver. 37. <sup>4</sup> Or, _of a long time_ <sup>5</sup> Or. _demon_.
 
@@ -2467,7 +2467,7 @@ ERV. mg. : <sup>1</sup> Gr. powers. <sup>2</sup> Gr. caused to stumble, <sup>3</
 
 ERV. mg. : <sup>1</sup> Gr. Sarepta.
 
-ART. txl : <sup>1</sup> indeed
+ARV. txl : <sup>1</sup> indeed
 
 <sup>a</sup> Luke 10:2. The harvest is plenteous, but the labourers are few: pray ye therefore the Lord of thfr harvest, that he send forth labourers into his harvest, (g 87)
 
@@ -2597,7 +2597,7 @@ ARV, txt: <sup>1</sup> on a platter <sup>2</sup> together there <sup>3</sup> cur
 
 ERV. mg. <sup>1</sup> Or. reoline. <sup>2</sup> See marginal note on Matt, xviii. 28. <sup>3</sup> Gr. loaves.
 
-ART. txt: <sup>1</sup> all ate <sup>2</sup> bsides <sup>3</sup> shillings' worth <sup>4</sup> ate <sup>5</sup> who
+ARV. txt: <sup>1</sup> all ate <sup>2</sup> bsides <sup>3</sup> shillings' worth <sup>4</sup> ate <sup>5</sup> who
 
 **p. 105**
 
@@ -2609,7 +2609,7 @@ ARV. txt.: <sup>1</sup> all ate <sup>2</sup> a ghost
 
 ERV. mg. : <sup>1</sup> Some ancient authorities read and came. <sup>2</sup> Many ancient authorities add [after wind] strong. <sup>3</sup> Or, crossed over to the land, they came unto Gennesaret.
 
-ART. txt.: <sup>1</sup> a ghost
+ARV. txt.: <sup>1</sup> a ghost
 
 **p. 107**
 
@@ -2727,7 +2727,7 @@ ARV. txt. ; <sup>1</sup> would <sup>2</sup> how is it that the scribes say . . .
 
 ERV. mg.: <sup>1</sup> Gr. demon. <sup>2</sup> Many authorities, some ancient, insert [after you.] ver. 21 But this kind goeth not out save by prayer and fasting. See Mark ix, 29. <sup>3</sup> Or, convulsed <sup>4</sup> Many ancient authorities add with tears. <sup>5</sup> Or, rent him
 
-ART. txt. : <sup>1</sup> demon <sup>2</sup> of
+ARV. txt. : <sup>1</sup> demon <sup>2</sup> of
 
 <sup>a</sup> Matt. 21 :21. Verily I say unto you, If ye have faith, and doubt not, ye shall not only do what is done to the fig tree, but even if ye shall say unto this mountain, Be thou taken up and cast into the sea, it shall bo done. (§ 122)
 
@@ -2923,7 +2923,7 @@ ARV. txt. : <sup>1</sup> who <sup>2</sup> the Jordan
 
 ERV. mg.: <sup>1</sup> Some ancient authorities omit a loaf, and he utill give him a stone ? or. <sup>2</sup> Or, a demoniac <sup>3</sup> Gr. demons. <sup>4</sup> Gr, in <sup>5</sup> Or, In <sup>6</sup> Or. demon. <sup>7</sup> Or, and house falleth upon house.
 
-ART. txt. : <sup>1</sup> demon <sup>2</sup> Can this be <sup>3</sup> demons <sup>4</sup> that <sup>5</sup> that <sup>6</sup> trying
+ARV. txt. : <sup>1</sup> demon <sup>2</sup> Can this be <sup>3</sup> demons <sup>4</sup> that <sup>5</sup> that <sup>6</sup> trying
 
 **p. 140**
 
@@ -3013,7 +3013,7 @@ ARV. txt. : <sup>1</sup> trod <sup>2</sup> that <sup>3</sup> who <sup>4</sup> pe
 
 ERV. mg. <sup>1</sup> Or, Teacher <sup>2</sup> Gr. for not in a man's abundance consisteth his life, from the things which he possesseth. <sup>3</sup> Or, life <sup>4</sup> Gr. they require thy soul. <sup>5</sup> Or. soul <sup>6</sup> Or, age
 
-ART. txt: <sup>1</sup> Teacher <sup>2</sup> grain <sup>3</sup> the measure of his life
+ARV. txt: <sup>1</sup> Teacher <sup>2</sup> grain <sup>3</sup> the measure of his life
 
 <sup>a</sup> Matt. 10: 19, 20. But when they deliver you up, be not anxious how or what ye shall speak : for it shall be given you in that hour what ye shall speak. 20 For it is not ye that speak, but the Spirit of your Father that speaketh in you. (§64)
 
@@ -3117,7 +3117,7 @@ ARV. txt.: <sup>1</sup> that
 
 ERV. mg. : <sup>1</sup> Or. drachma, <sup>2</sup> coin worth aboat eight pence. 
 
-ASV. txt : <sup>1</sup> Omit for <sup>2</sup> who
+ARV. txt : <sup>1</sup> Omit for <sup>2</sup> who
 
 <sup>a</sup> Matt. 10: 38. And be that doth not take his cross and follow after me, is not worthy of me. (§64)
 
@@ -3155,7 +3155,7 @@ ARV. txt : <sup>1</sup> have filled his belly. <sup>2</sup> who
 
 ERV. mg. : <sup>1</sup> Gr. writings. <sup>2</sup> Or. oora, the cor being a Hebrew measure. See Ezek. xlv. 14. <sup>3</sup> Gr. the steward of unrighteousness. <sup>4</sup> Or, age <sup>5</sup> Or. out of <sup>6</sup> Some ancient authorities read our own. <sup>7</sup> Or. household-servant. <sup>8</sup> Or, living intnirth and splendour every day <sup>8</sup> Gr. Child. <sup>9</sup> Or, in all these things
 
-ART. txt. : <sup>1</sup> besides <sup>2</sup> that
+ARV. txt. : <sup>1</sup> besides <sup>2</sup> that
 
 <sup>a</sup> Matt.6:24. No man can serve two masters: for either he will hate the one, and love the other; cr else he will hold to one, and despise the other. Ye cannot serve God and mammon. (§49)
 
@@ -3235,7 +3235,7 @@ ARV. txt. : <sup>1</sup> that
 
 ERV. mg. : <sup>1</sup> Or, vultures <sup>2</sup> Or, Do me justice of. and so in ver. 5, 7, 8. <sup>3</sup> Gr. bruise. <sup>4</sup> Gr. the judge of unrighteousness. <sup>5</sup> Or, the faith <sup>6</sup> Gr. the rest. <sup>7</sup> Or, be propitiated <sup>8</sup> Or, the sinner <sup>9</sup> Many authorities, some ancient, insert the. <sup>10</sup> Some ancient authorities read created.
 
-ART. txt.: <sup>1</sup> who <sup>2</sup> that <sup>3</sup> and yet <sup>4</sup> Nevertheless, <sup>5</sup> be thou <sup>6</sup> trying
+ARV. txt.: <sup>1</sup> who <sup>2</sup> that <sup>3</sup> and yet <sup>4</sup> Nevertheless, <sup>5</sup> be thou <sup>6</sup> trying
 
 <sup>a</sup> Matt. 24:28. Wheresoever tho carcase is, there will the eagles bo gathered together. (§131)
 
@@ -3523,7 +3523,7 @@ ARV. txt.: <sup>1</sup> who
 
 ERV. mg. : <sup>1</sup> Or, him <sup>2</sup> Or, Teacher 
 
-ARV.txt.: <sup>1</sup> that is of <sup>2</sup> that <sup>3</sup> Teacher
+ARV. txt.: <sup>1</sup> that is of <sup>2</sup> that <sup>3</sup> Teacher
 
 **p. 187**
 
@@ -3557,7 +3557,7 @@ ARV. txt. : <sup>1</sup> through <sup>2</sup> Holy Spirit
 
 <sup>e</sup> Luke 17:31. In that day, he which shall be on the housetop, and his goods in the house, let him not go down to take them away : and let him that is in the field likewise not return back. (§108)
 
-**p.189**
+**p. 189**
 
 ERV. mg.: <sup>1</sup> Or, him <sup>2</sup> Or, them <sup>3</sup> Gr. presence. <sup>4</sup> Or, vultures <sup>5</sup> Or, expiring <sup>6</sup> Gr. the inhabited earth.
 
@@ -3885,7 +3885,7 @@ ERV. ; mg. : <sup>1</sup> Or. lanctuary <sup>2</sup> Or, can he not save himself
 
 ERV. mg. : <sup>1</sup> Or, can he not save himself ? <sup>2</sup> Some ancient authorities read into thy kingdom
 
-ART. txt.: <sup>1</sup> that
+ARV. txt.: <sup>1</sup> that
 
 **p. 231**
 
@@ -3945,7 +3945,7 @@ ARV. txt. : <sup>1</sup> Jesus the Nazarene <sup>2</sup> who <sup>3</sup> beside
 
 ERV. mg. : <sup>1</sup> Or, after <sup>2</sup> Or, loaf
 
-ART. txt: <sup>1</sup> who <sup>2</sup> and blesed ; and breaking it he gave
+ARV. txt: <sup>1</sup> who <sup>2</sup> and blesed ; and breaking it he gave
 
 **p. 241**
 

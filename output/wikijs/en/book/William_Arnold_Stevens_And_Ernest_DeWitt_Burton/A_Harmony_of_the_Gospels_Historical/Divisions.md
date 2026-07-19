@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:27:7Z
   </table>
 </figure>
 
-Part I.— **THE THIRTY TEABS OF PRIVATE LIFE**: From the Birth of Jesus untill the Coming of John the Baptist.
+Part I.— **THE THIRTY TEARS OF PRIVATE LIFE**: From the Birth of Jesus untill the Coming of John the Baptist.
 
 Part II.— **THE OPENING EVENTS OF CHRISTS MINISTRY**: From the Coming of John the Baptist until the Public Appearance of Jesus in Jerusalem.
 

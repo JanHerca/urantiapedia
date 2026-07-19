@@ -54,13 +54,13 @@ It should be particularly observed that the list does not undertake to include a
 
 ## TABLE OF REPEATED SAYINGS.
 
-§ 28. DiSCOUBSE WITH NiCODEMUS.
+§ 28. DISCOURSE WITH NICODEMUS.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
 &nbsp; | Mark 16:16 | &nbsp; | John 3 : 18
 
-§ 36. First Rejection at Nazaketh. 
+§ 36. First Rejection at Nazareth. 
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
@@ -102,7 +102,7 @@ Matt. 7:23 | &nbsp; | Luke 13 : 27 . | &nbsp;
 
 <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
-§50. The Centubion's Servant. 
+§50. The Centurion's Servant. 
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
@@ -166,11 +166,11 @@ Matt. 10 : 19, 20 | Mark 13: 11 | Luke 12 : 11, 12; 21 : 14, 15 |
 Matt. 10:21 | Mark 13: 12 | Luke 21 : 16 | John 16 : 2
 Matt. 10 : 22 ; 24:96,13 | Mark 13: 13 | Luke 21 : 17, 19 | John 15: 21
 Matt. 10 : 24, 25a |  | Luke 6:40 | John 13 : 16 ; 15:20a
-Matt. 10 : 26 | Mark 4:22 | Luke 8 : 17 ; 12:2
-Matt. 10 : 27-33 |   | Luke 12 : 3-9 .
-Matt. 10 : 30 |   | Luke 21 : 18 .
-Matt. 10 : 33 | Mark 8:38 | Luke 9:26
-Matt. 10 : 34-36 |   | Luke 12 : 51-53
+Matt. 10 : 26 | Mark 4:22 | Luke 8 : 17 ; 12:2 | 
+Matt. 10 : 27-33 |   | Luke 12 : 3-9 | 
+Matt. 10 : 30 |   | Luke 21 : 18 | 
+Matt. 10 : 33 | Mark 8:38 | Luke 9:26 |
+Matt. 10 : 34-36 |   | Luke 12 : 51-53 | 
 Matt. 10:37 |  | Luke 14: 26 | 
 Matt. 10 : 38 ; 16:24 | Mark 8:34 | Luke 14 : 27 ; 9:23 | 
 Matt. 10 : 39 ; 16 : 25 | Mark 8:35 | Luke 17:33 ; 9:24 | John 12: 25
@@ -244,7 +244,7 @@ Matt. 18 :35 ; 6:15 |  |  |
 <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 
-§87. Thk Mission of thb Skvbnty.
+§87. The Mission of the Seventy.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
@@ -310,7 +310,7 @@ Matt. 24:45-51 |  Luke 12 : 42-46 |
 &nbsp; | Mark 10 : 39b | Luke 12 : 50a | 
 Matt. 10:34-36 |  | Luke 12 : 51-53 | 
 Matt. 16 : 2, 3 |  | Luke 12 : 54-56 | 
-Matt. 5:25,26 |  | Luke 12: 58, 59
+Matt. 5:25,26 |  | Luke 12: 58, 59 | 
 
 §97. The Woman Healed on a Sabbath.
 
@@ -334,7 +334,7 @@ Matt. 19:30 ; 20:16 | Mark 10: 31 | Luke 13 : 30 |
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
-Matt. 23 : 37-39 |  | Luke 13: 34, 35
+Matt. 23 : 37-39 |  | Luke 13: 34, 35 | 
 
 <span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 

@@ -1,11 +1,11 @@
 ---
-title:"Appendix III. Old Testament Quotations in the Gospels"
-description:"A Harmony of the Gospels for Historical Study"
-published:true
-date:2025-2-12T12:27:7Z
-tags:Theology, book
-editor:markdown
-dateCreated:2025-2-12T12:27:7Z
+title: "Appendix III. Old Testament Quotations in the Gospels"
+description: "A Harmony of the Gospels for Historical Study"
+published: true
+date: 2025-2-12T12:27:7Z
+tags: Theology, book
+editor: markdown
+dateCreated: 2025-2-12T12:27:7Z
 ---
 
 <figure class="table chapter-navigator">

@@ -1,5 +1,5 @@
 ---
-title: "Una armonía de los Evangelios para el estudio histórico"
+title: "Armonización de los Evangelios para el estudio histórico"
 description: 
 published: true
 date: 2025-2-12T14:30:45Z
@@ -15,16 +15,16 @@ dateCreated: 2025-2-12T14:30:45Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">A. Stevens & E. DeWitt Burton</text>
 		<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1904, 1932</text>
-		<text style="font-size:9px" x="61" y="60">Una armonía</text>
-		<text style="font-size:9px" x="61" y="70">de los Evangelios</text>
-		<text style="font-size:9px" x="61" y="80">para histórico</text>
-		<text style="font-size:9px" x="61" y="90">Estudio</text>
+		<text style="font-size:9px" x="61" y="60">Armonización</text>
+		<text style="font-size:9px" x="61" y="70">de los evangelios</text>
+		<text style="font-size:9px" x="61" y="80">para el estudio</text>
+		<text style="font-size:9px" x="61" y="90">histórico</text>
 	</g>
 </svg>
 </div>
 
 <p style="text-align:center;">
-<span class="text-h3">Una armonía de los Evangelios</span><br>
+<span class="text-h3">Armonización de los Evangelios</span><br>
 para<br>
 el ESTUDIO HISTÓRICO<br>
 <br>
