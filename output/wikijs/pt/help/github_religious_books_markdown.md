@@ -69,7 +69,7 @@ Regra geral, os países têm entre 50 a 100 anos de exploração dos direitos de
 3. Instale o [Visual Studio Code](https://code.visualstudio.com/), adicionando a extensão [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell).
 4. Crie algumas pastas, uma com as capturas de tela e outra com os textos.
 5. Abra o VS Code na raiz usando o menu _Terminal > Novo Terminal_ e, no **prompt do terminal**, crie um arquivo listando todos os snapshots: `dir *.* > ocr.ps1`
-6. Edite o arquivo ps1 com o editor do PowerShell, para que todos os comandos sejam parecidos com isto: `& 'c:\Program Files\Tesseract-OCR\tesseract' ".\snapshots\<filename>.png" " .\ textos\<nome do arquivo>.txt"`
+6. Edite o arquivo ps1 com o editor do PowerShell, para que todos os comandos sejam parecidos com isto: `& 'c:\Program Files\Tesseract-OCR\tesseract' "$PSScriptRoot\snapshots\<filename>.png" "$PSScriptRoot\texts\<filename>"`
 7. Clique no botão `Executar tudo` no editor do PowerShell. Isso cria um arquivo TXT para cada arquivo PNG verificado.
 8. Certifique-se de ter a extensão _Combine Files_ ([Combine Files](https://marketplace.visualstudio.com/items?itemName=BateleurIO.vscode-combine-scripts)) no VS Code.
 9. Clique com o botão direito na pasta Textos e use _Mesclar Arquivos_. Um arquivo temporário é criado. Copie todo o conteúdo para um arquivo TXT permanente.

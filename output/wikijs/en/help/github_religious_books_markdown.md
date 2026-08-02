@@ -69,7 +69,7 @@ Sometimes a particular book is not scanned or converted to text. To do this, fol
 3. Install [Visual Studio Code](https://code.visualstudio.com/), adding the [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) extension.
 4. Create a couple of folders, one with the screenshots and another for the texts.
 5. Open VS Code in root using the _Terminal > New Terminal_ menu and from the **terminal prompt** create a file listing all snapshots: `dir *.* > ocr.ps1`
-6. Edit the ps1 file with the PowerShell editor, so that all the commands are something like this: `& 'c:\Program Files\Tesseract-OCR\tesseract' ".\snapshots\<filename>.png" ".\texts\<filename>.txt"`
+6. Edit the ps1 file with the PowerShell editor, so that all the commands are something like this: `& 'c:\Program Files\Tesseract-OCR\tesseract' "$PSScriptRoot\snapshots\<filename>.png" "$PSScriptRoot\texts\<filename>"`
 7. Click the `Run All` button in the PowerShell editor. This creates a TXT file for each PNG file scanned.
 8. Make sure you have the [Combine Files](https://marketplace.visualstudio.com/items?itemName=BateleurIO.vscode-combine-scripts) extension in VS Code.
 9. Right-click on the Texts folder and use _Merge Files_. A temporary file is created. Copy all the contents to a permanent TXT file.

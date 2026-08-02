@@ -69,7 +69,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
 3. 安装 [Visual Studio Code](https://code.visualstudio.com/)，并添加 [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) 扩展。
 4. 创建几个文件夹，一个用于存放屏幕截图，另一个用于存放文本。
 5. 使用“终端”>“新建终端”菜单在根目录中打开 VS Code，然后从**终端提示符**创建一个列出所有快照的文件：`dir *.* > ocr.ps1`
-6. 使用 PowerShell 编辑器编辑 ps1 文件，使所有命令都类似于：`&'c:\Program Files\Tesseract-OCR\tesseract' ".\snapshots\<filename>.png" ".\texts\<filename>.txt"`
+6. 使用 PowerShell 编辑器编辑 ps1 文件，使所有命令都类似于：`&'c:\Program Files\Tesseract-OCR\tesseract' "$PSScriptRoot\snapshots\<filename>.png" "$PSScriptRoot\texts\<filename>"`
 7. 点击 PowerShell 编辑器中的“全部运行”按钮。这将为每个扫描的 PNG 文件创建一个 TXT 文件。
 8. 确保 VS Code 中安装了 [Combine Files](https://marketplace.visualstudio.com/items?itemName=BateleurIO.vscode-combine-scripts) 扩展。
 9. 右键单击​​“文本”文件夹，然后使用“合并文件”。将创建一个临时文件。将所有内容复制到永久 TXT 文件中。
@@ -275,7 +275,7 @@ Markdown 文件中的段落是一行，其前后必须各留一个空行。每�
 耶和华的使者在异象中向大祭司以利亚撒显现，对他说：“看哪，约雅斤带着礼物来见你。你要虔诚地、按律法接受他的礼物，这是合宜的。因为耶和华听了他的祷告，成就了他的<span id="p18">[<sup><small>p. 18</small></sup>]</span> 祈求。”大祭司睡醒了，站起来，称谢至高者，说：“主以色列的神是应当称颂的，因他不轻看祷告他的仆人。”天使第二次向亚拿显现，对她说：“看哪，你的丈夫来了。起来，去找他，欢欢喜喜地迎接他。”亚拿就起来，穿上婚礼的礼服，去找她的丈夫。她一见他，就欢欢喜喜地俯伏在他面前，抱着他的颈项。
 ```
 
-Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</小></sup>]</span>`。
+你可以看到这个品牌是: `<span id="p18">[<sup><small>p. 18</小></sup>]</span>`。
 
 由于这项任务可能很繁琐，一种简化方法是添加一个更短的替代标记，例如`ppp18`（`ppp`是我们知道永远不会出现的文本），以便继续前面的示例。然后，这些标记可以自动搜索并替换为确定的标记，就像我们在上面另一个示例中指出的那样。也就是说，下面这样也可以：
 
@@ -340,16 +340,16 @@ Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</小></sup>]</s
     <tbody>
       <tr>
         <td>
-        <a href="/es/book/Islam/Songs_of_Kabir/1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Capítulo I — Dios está dentro de nosotros</span></a>
+        <a href="/zh/book/Islam/Songs_of_Kabir/1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">第一章——上帝在我们里面</span></a>
         </td>
         <td>
-        <a href="/es/book/Islam/Songs_of_Kabir#índice">
+        <a href="/zh/book/Islam/Songs_of_Kabir#índice">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice </span></a>
         </td>
         <td>
-        <a href="/es/book/Islam/Songs_of_Kabir/3">
-          <span class="pr-2">Capítulo III — La insuficiencia del lenguaje</span><span class="mdi mdi-arrow-right-drop-circle"></span></a>
+        <a href="/zh/book/Islam/Songs_of_Kabir/3">
+          <span class="pr-2">第三章——语言的不足</span><span class="mdi mdi-arrow-right-drop-circle"></span></a>
         </td>
       </tr>
     </tbody>

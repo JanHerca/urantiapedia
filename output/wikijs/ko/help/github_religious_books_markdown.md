@@ -69,7 +69,7 @@ GitHub의 폴더와 파일을 수정하려면 [관리자](/ko/help/admin), [수�
 3. [Visual Studio Code](https://code.visualstudio.com/)를 설치하고 [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) 확장 기능을 추가합니다.
 4. 스크린샷을 보관하는 폴더 하나와 텍스트를 보관하는 폴더 하나를 만듭니다.
 5. _터미널 > 새 터미널_ 메뉴를 사용하여 루트에서 VS Code를 열고 **터미널 프롬프트**에서 모든 스냅샷을 나열하는 파일을 만듭니다: `dir *.* > ocr.ps1`
-6. PowerShell 편집기를 사용하여 ps1 파일을 편집하여 모든 명령이 다음과 같도록 합니다. `& 'c:\Program Files\Tesseract-OCR\tesseract' ".\snapshots\<filename>.png" ".\texts\<filename>.txt"`
+6. PowerShell 편집기를 사용하여 ps1 파일을 편집하여 모든 명령이 다음과 같도록 합니다. `& 'c:\Program Files\Tesseract-OCR\tesseract' "$PSScriptRoot\snapshots\<filename>.png" "$PSScriptRoot\texts\<filename>"`
 7. PowerShell 편집기에서 `모두 실행` 버튼을 클릭합니다. 그러면 검사된 각 PNG 파일에 대한 TXT 파일이 생성됩니다.
 8. VS Code에 [Combine Files](https://marketplace.visualstudio.com/items?itemName=BateleurIO.vscode-combine-scripts) 확장 기능이 있는지 확인하세요.
 9. 텍스트 폴더를 마우스 오른쪽 버튼으로 클릭하고 _파일 병합_을 사용하세요. 임시 파일이 생성됩니다. 모든 내용을 영구 TXT 파일로 복사하세요.

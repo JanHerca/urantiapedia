@@ -69,7 +69,7 @@ dateCreated: 2024-10-10T14:02:03.086Z
 3. قم بتثبيت [Visual Studio Code](https://code.visualstudio.com/)، وأضف ملحق [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell).
 4. قم بإنشاء مجلدين، أحدهما للقطات الشاشة والآخر للنصوص.
 5. افتح VS Code في الجذر باستخدام القائمة _Terminal > New Terminal_ ومن **موجه المحطة الطرفية** قم بإنشاء ملف يسرد جميع اللقطات: `dir *.* > ocr.ps1`
-6. قم بتعديل ملف ps1 باستخدام محرر PowerShell، بحيث تكون جميع الأوامر على هذا النحو: `& 'c:\Program Files\Tesseract-OCR\tesseract' ".\snapshots\<filename>.png" ".\texts\<filename>.txt"`
+6. قم بتعديل ملف ps1 باستخدام محرر PowerShell، بحيث تكون جميع الأوامر على هذا النحو: `& 'c:\Program Files\Tesseract-OCR\tesseract' "$PSScriptRoot\snapshots\<filename>.png" "$PSScriptRoot\texts\<filename>"`
 7. انقر على زر "تشغيل الكل" في محرر PowerShell. سيؤدي هذا إلى إنشاء ملف TXT لكل ملف PNG ممسوح ضوئيًا.
 8. تأكد من أن لديك ملحق [Combine Files](https://marketplace.visualstudio.com/items?itemName=BateleurIO.vscode-combine-scripts) في VS Code.
 9. انقر بزر الماوس الأيمن على مجلد النصوص، ثم استخدم خيار دمج الملفات. سيتم إنشاء ملف مؤقت. انسخ جميع محتوياته إلى ملف TXT دائم.
