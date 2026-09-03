@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2026
 
+- [Notícias de agosto de 2026](/pt/news/2026/08)
 - [Notícias de julho de 2026](/pt/news/2026/07)
 - [Notícias de junho de 2026](/pt/news/2026/06)
 - [Notícias de maio de 2026](/pt/news/2026/05)

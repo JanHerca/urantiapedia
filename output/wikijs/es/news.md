@@ -12,6 +12,7 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 ## 2026
 
+- [Novedades de Agosto 2026](/es/news/2026/08)
 - [Novedades de Julio 2026](/es/news/2026/07)
 - [Novedades de Junio 2026](/es/news/2026/06)
 - [Novedades de Mayo 2026](/es/news/2026/05)
