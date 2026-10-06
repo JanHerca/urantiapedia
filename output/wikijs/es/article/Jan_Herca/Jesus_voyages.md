@@ -181,7 +181,7 @@ El viaje por el Mediterráneo pudo tener la siguiente ruta y cronología:
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jesus_voyages/Viae_Salaria_Tiburtina_map.jpg">
+<img src="/image/article/Jan_Herca/Jesus_voyages/Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">
 <figcaption>Fig. 3. — El «parque nacional de Samaria» y las «las montañas blancas» o monte Leuka, posible lugar visitado por Jesús, Gonod y Ganid en su estancia en Creta (<a href="https://commons.wikimedia.org/wiki/File:Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">Wikipedia</a>)</figcaption>
 </figure>
 
@@ -802,7 +802,7 @@ Respecto a la lista de las poblaciones que se ofrecen en _El Libro de Urantia_ p
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jesus_voyages/Perea_mission.jpg">
-<figcaption>Fig. 14. — Itinerary of Jesus (green lines) on the tour of Perea, highlighting the places mentioned by <em>The Urantia Book</em>. Bosora does not fit on the map and is far to the east along the road that starts from Edrei.</figcaption>
+<figcaption>Fig. 14. — Itinerario de Jesús (líneas verdes) en la gira por Perea, destacando los lugares mencionados por <em>El Libro de Urantia</em>. Bosora no cabe en el mapa y está muy al este por el camino que parte de Edrei.</figcaption>
 </figure>
 
 <br style="clear:both;"/>

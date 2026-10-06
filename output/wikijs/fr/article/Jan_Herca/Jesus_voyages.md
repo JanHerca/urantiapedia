@@ -181,7 +181,8 @@ Le voyage à travers la Méditerranée a probablement suivi l'itinéraire et la 
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jesus_voyages/Viae_Salaria_Tiburtina_map.jpg">
+<img src="/image/article/Jan_Herca/Jesus_voyages/<img src="/image/article/Jan_Herca/Jesus_voyages/Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">
+.jpg">
 <figcaption>Fig. 3. — Le « Parc national de Samarie » et les « Montagnes Blanches » ou Mont Leuka, un lieu possiblement visité par Jésus, Gonod et Ganid lors de leur séjour en Crète (<a href="https://commons.wikimedia.org/wiki/File:Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">Wikipedia</a>)</figcaption>
 </figure>
 
