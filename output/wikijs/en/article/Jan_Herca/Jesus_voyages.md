@@ -181,8 +181,7 @@ The voyage across the Mediterranean may have followed this route and chronology:
 <br>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
-<img src="/image/article/Jan_Herca/Jesus_voyages/<img src="/image/article/Jan_Herca/Jesus_voyages/Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">
-.jpg">
+<img src="/image/article/Jan_Herca/Jesus_voyages/Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">
 <figcaption>Fig. 3. — The “Samaria National Park” and the “White Mountains” or Mount Leuka, a possible place visited by Jesus, Gonod and Ganid during their stay in Crete (<a href="https://commons.wikimedia.org/wiki/File:Είσοδος_Εθνικού_Δρυμού_Σαμαριάς.jpg">Wikipedia</a>)</figcaption>
 </figure>
 
